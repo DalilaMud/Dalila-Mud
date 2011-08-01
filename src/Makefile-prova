@@ -1,0 +1,113 @@
+# Generated automatically from Makefile.in by configure.
+# CircleMUD 3.0 Makefile.in - Makefile template used by 'configure'
+#
+
+# C compiler to use
+CC = gcc
+
+# Path to cxref utility
+CXREF = cxref
+
+# Any special flags you want to pass to the compiler
+MYFLAGS = -Wall
+
+#flags for profiling (see hacker.doc for more information)
+PROFILE = -pg
+
+##############################################################################
+# Do Not Modify Anything Below This Line (unless you know what you're doing) #
+##############################################################################
+
+BINDIR = ../bin
+OD = objfiles
+
+CFLAGS = -g -O2 $(MYFLAGS) $(PROFILE)
+
+LIBS =  -lcrypt 
+
+OBJFILES = $(OD)/comm.o $(OD)/act.comm.o $(OD)/act.informative.o $(OD)/act.movement.o $(OD)/act.item.o \
+    $(OD)/act.offensive.o $(OD)/act.other.o $(OD)/act.social.o $(OD)/act.wizard.o $(OD)/ban.o $(OD)/boards.o \
+	$(OD)/castle.o $(OD)/class.o $(OD)/clan.o $(OD)/config.o $(OD)/constants.o $(OD)/db.o $(OD)/fight.o $(OD)/graph.o \
+    $(OD)/handler.o $(OD)/act.create.o $(OD)/alias.o $(OD)/quest.o $(OD)/auction.o $(OD)/trains.o $(OD)/arena.o\
+	$(OD)/house.o $(OD)/interpreter.o $(OD)/limits.o $(OD)/magic.o $(OD)/mail.o $(OD)/mobact.o $(OD)/modify.o \
+	$(OD)/objsave.o $(OD)/olc.o $(OD)/shop.o $(OD)/spec_assign.o $(OD)/spec_procs.o $(OD)/spell_parser.o \
+	$(OD)/spells.o $(OD)/utils.o $(OD)/weather.o $(OD)/redit.o $(OD)/oedit.o $(OD)/zedit.o $(OD)/medit.o $(OD)/sedit.o \
+    $(OD)/dg_comm.o $(OD)/dg_db_scripts.o $(OD)/dg_event.o $(OD)/dg_handler.o $(OD)/dg_mobcmd.o \
+    $(OD)/dg_objcmd.o $(OD)/dg_scripts.o $(OD)/dg_triggers.o $(OD)/dg_wldcmd.o $(OD)/dg_olc.o $(OD)/act.intermud.o \
+    $(OD)/queue.o $(OD)/events.o $(OD)/regen.o $(OD)/wilderness.o $(OD)/wedit.o $(OD)/mestieri.o $(OD)/abilita.o $(OD)/go-patrol.o \
+	$(OD)/clan2.o $(OD)/dg_misc.o
+
+CXREF_FILES = comm.c act.comm.c act.informative.c act.movement.c act.item.c \
+    act.offensive.c act.other.c act.social.c act.wizard.c ban.c boards.c \
+	castle.c class.c clan.c config.c constants.c db.c fight.c graph.c \
+    handler.c act.create.c alias.c quest.c auction.c trains.c arena.c\
+	house.c interpreter.c limits.c magic.c mail.c mobact.c modify.c \
+	objsave.c olc.c shop.c spec_assign.c spec_procs.c spell_parser.c \
+	spells.c utils.c weather.c redit.c oedit.c zedit.c medit.c sedit.c \
+    dg_comm.c dg_db_scripts.c dg_event.c dg_handler.c dg_mobcmd.c \
+    dg_objcmd.c dg_scripts.c dg_triggers.c dg_wldcmd.c dg_olc.c act.intermud.c \
+    queue.c events.c regen.c wilderness.c wedit.c mestieri.c abilita.c go-patrol.c \
+	clan2.c dg_misc.c
+
+default: all
+
+all: .accepted
+	$(MAKE) $(BINDIR)/circle
+#	$(MAKE) utils
+
+.accepted:
+	@./licheck less
+
+#utils: .accepted
+#	(cd util; $(MAKE) all)
+
+circle:
+	$(MAKE) $(BINDIR)/circle
+
+$(BINDIR)/circle : $(OBJFILES)
+	$(CC) -o $(BINDIR)/circle $(PROFILE) $(OBJFILES) $(LIBS)
+
+clean:
+	rm -f *.o
+
+ref:
+#
+# Create the cross reference files
+# Note, this is not meant to be used unless you've installed cxref...
+#
+#	@for file in $(CXREF_FILES) ; do \
+#	  echo Cross referencing $$file ; \
+#	  $(CXREF) -D__CXREF__ -xref -Odoc -Ncircle $$file ; \
+#	done
+#
+# Create the source files using cxref
+#
+#	@for file in $(CXREF_FILES) ; do \
+#	   echo Documenting $$file ; \
+#	   ( cd . ; $(CXREF) -D__CXREF__ -warn-xref -xref -Odoc -Ncircle -html $$file ) ; \
+#	   rm -f $(DOCS) ; \
+#	done
+#
+# Create the index using cxref
+#
+#	@echo Indexing
+#	@( cd . ; $(CXREF) -D__CXREF__ -index-all -Odoc -Ncircle -html )
+#	@rm -f $(DOCS)
+#
+# Make html files for the .h files
+#
+#	@echo Creating .h.html files...
+#	@for file in *.h ; do \
+#	  echo $$file ; \
+#	  cat htmlh-head $$file htmlh-tail > doc/$$file.html ; \
+#	done
+# Copy over to the html directory
+#	#cp doc/*.html $(HOME)/www/cxref
+#	#chmod 644 $(HOME)/www/cxref/*.html
+#
+# Dependencies for the object files (automagically generated with
+# gcc -MM)
+
+ depend:
+	$(CC) -MM $(CFLAGS) *.c > dependbus
+ -include depend
