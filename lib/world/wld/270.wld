@@ -1,0 +1,1514 @@
+#27000
+L'entrata al Castello di Re Rodric ed il posto di guardia~
+   Sei alfin giunto davanti all'entrata del Castello di Re &4& Rodric &0&.
+Un imponente maniero si erge davanti a te e vieni colto da improvviso
+timore. Ne hai visti di castelli grandi, ma mai di cosi' maestosi. Quattro
+grigie torri si stagliano alte ai lati delle mura e davanti a te si apre
+l'entrata al castello custodita da due guardie maestose che ti accolgono
+cordialmente. Sulle mura merlate sventola luminoso lo &4& stendardo &0& di Aldaria. 
+          
+~
+270 35184372088832 0
+D0
+            
+~
+Cancellata~
+2 27000 27001 15
+D1
+            
+~
+~
+0 0 2800 0
+D2
+            
+~
+~
+0 0 -1 0
+E
+stendardo~
+&7& Vedi lo stendardo bianco e &4& blu del regno di Aldaria. L'ammirazione
+e la tua fedelta' al regno sembrano inscindibili &0&            
+~
+E
+rodric~
+Re Rodric Condoin pose la prima pietra di questo grande castello, che sorse
+dove una volta v'era un piccolo laghetto, sulle sponde del quale Fizban,
+Dio del bene, trascorreva il tempo a meditare.            
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27001
+L'atrio~
+   Sei nell'atrio del Castello. La fastosita' del luogo ti incute timore:
+alle pareti splendidi arazzi del Rendor allietano lo sguardo, severi mobili
+sendariani di splendida fattura sono dappertutto e diverse &5& statue &0& 
+di marmo e di bronzo sono sparse nella sala: esse raffigurano grandi
+personaggi della storia di Aldaria....guardandole potresti imparare tante cose.  
+         
+~
+270 2560 0
+D0
+Vedi la sala d'attesa.             
+~
+~
+0 -1 27002 0
+D2
+Vedi l'entrata al Castello di Re Rodric             
+~
+Cancellata~
+2 27000 27000 15
+E
+statue~
+Tra tutte troneggia la statua del sovrano di Aldaria. Re Rodric impugna la
+grande spada dei Condoin, il suo viso e' segnato da tanti anni di dure
+battaglie in territori barbari, il suo aspetto calmo e sereno ispira sicurezza.
+Il tuo sguardo si posa sulle altre raffigurazioni della sala: la statua di
+Laika, prima reggente di Aldaria e maga piu' potente della Daresia, la
+statua di Salomon, il fabbro degli Dei, la statua di Khardan, famoso
+diplomatico e secondo reggente di Aldaria, la statua di SirGyles....la statua di
+Rox...sono molti i grandi personaggi a cui Aldaria ha dato i natali.          
+ 
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27002
+La Sala d'Attesa~
+   Sei entrato nella sala d'attesa. Qui il nobile incaricato di annunciare
+la presenza di visitatori al Re ritira le tue generalita' e si fa carico di
+presentarti alla Corte. Nel mentre che aspetti hai modo di notare diverse
+panche di chiara fattura sendariana allineate lungo le pareti, parecchi
+posti sono gia' occupati, hai timore che l'attesa sia lunga. Lo splendido
+pavimento e' ricoperto di &7& mosaici &0& raffiguranti le vicende della storia
+di Aldaria: guardandoli vieni trascinato dal pathos e dalla passionalita'
+della narrazione figurata.            
+~
+270 3298534885888 0
+D0
+Vedi la sala del trono.             
+~
+portone~
+1 -1 27004 1
+D2
+Vedi l'atrio.             
+~
+~
+0 -1 27001 0
+D3
+            
+~
+~
+0 0 27003 0
+D4
+C'e' uno splendido scalone.             
+~
+~
+0 -1 27013 0
+D5
+C'e' una scala poco illuminata.             
+~
+~
+0 -1 27006 0
+E
+mosaici~
+Il tuo sguardo attento viene trascinato dal crescente ritmo del racconto.
+Con ammirazione, guardi le splendide legioni aldariane in parata per le
+strade di Deira, con gioia, segui le fasi della vittoriosa guerra contro gli
+orchi di Astrart, con commozione e dolore, osservi il sacrificio estremo di
+tanti guerrieri aldariani nella guerra contro Tolnedra. Che la pace
+acquistata col sangue di tanti fratelli aldariani...possa sempre regnare su queste
+terre!            
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27003
+La Sala d'Intrattenimento~
+   Sei entrato nell'immensa sala dove Re Rodric ama trascorrere il suo
+tempo libero con gli amici e coi suoi fedeli. Un immenso palco sulla destra
+mostra chiaramente di essere adibito a palco per l'orchestra, mentre lunghi
+tavoli al centro della sala dimostrano che si sta preparando un banchetto
+reale.             
+~
+270 0 0
+D1
+Vedi la Sala del Trono.             
+~
+~
+0 -1 27002 0
+D3
+- la sala dei banchetti           
+~
+~
+0 -1 27030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27004
+La sala della primavera~
+La grande volta della sala e' completamente affrescata. I colori vivaci
+ottenuti con la tecnica del cangiante, invetata dai pittori aldariani, rendono
+le immagini ancora piu' vive e reali. Ti sembra di immergerti in un grande
+paesaggio primaverile: i campi coltivati intorno Deira rosseggiano alla
+luce del crepuscolo, la natura primaverile inonda di vitalita' i cuori di
+tutti gli aldariani.           
+~
+270 0 0
+D0
+- la sala dell'estate           
+~
+~
+0 -1 27031 0
+D1
+Vedi la Stanza delle armi.             
+~
+~
+0 -1 27005 0
+D2
+            
+~
+portone~
+1 0 27002 1
+D3
+           
+~
+~
+0 -1 27037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27005
+L'armeria reale~
+Contro la parete vedi rastrelliere ricolme di armi e armature. Appese ai
+muri vedi antiche spade, corazze e trofei di caccia e di guerra. E' questa
+infatti l'armeria della guarnigione del castello, e sono presenti anche le
+armi usate dal Re in persona.            
+~
+270 0 0
+D3
+Vedi la Sala del Trono.             
+~
+~
+0 -1 27004 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27006
+Le prigioni~
+   Sei entrato nelle prigioni di Re Rodric. C'e' una scarna illuminazione
+ma non sembra siano troppo umide o sporche. Evidentemente il nostro Re non
+e' un re malvagio. In un angolo c'e' una branda con delle coperte piegate
+sopra, un tavolino con una brocca e un paio di torce inficcate in anelli nel
+muro.             
+~
+270 201 0
+D4
+Vedi la sala d'attesa.             
+~
+~
+0 -1 27002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27007
+La Torre Sudoccidentale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo
+sudoccidentale del Castello. Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con del pane e
+delle sedie attorno ti invogliano a riposare un istante le tue stanche
+membra. Approfittane che non ci sono le guardie adesso.             
+~
+270 0 0
+D1
+Vedi le mura.             
+~
+~
+0 -1 27008 0
+D3
+            
+~
+~
+0 0 27012 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27008
+Il camminamento meridionale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte
+meridionale della citta' di Deira.             
+~
+270 0 0
+D1
+Vedi il posto di guardia.             
+~
+~
+0 -1 27009 0
+D3
+Vedi la torre sudoccidentale.             
+~
+~
+0 -1 27007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27009
+Il posto di guardia sulle mura~
+   Sei entrato nella stanza delle guardie. Un caldo ambiente ben illuminato
+ti accoglie, un grande camino scalda l'aria e finalmente ti senti a tuo
+agio. Le guardie sono da sempre isolate dal resto del mondo, se non ti
+sbrighi ad andartene vorranno sapere cosa succede al di fuori del castello.      
+      
+~
+270 0 0
+D0
+Vedi l'atrio.             
+~
+~
+0 -1 27013 0
+D1
+Vedi le mura.             
+~
+~
+0 -1 27010 0
+D3
+Vedi le mura.             
+~
+~
+0 -1 27008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27010
+Il camminamento meridionale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte
+meridionale della citta' di Deira.             
+~
+270 0 0
+D1
+Vedi la torre sudorientale.             
+~
+~
+0 -1 27011 0
+D3
+Vedi il posto di guardia.             
+~
+~
+0 -1 27009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27011
+La Torre Sudorientale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo sudorientale
+del Castello. Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con del pane e
+delle sedie attorno ti invogliano a riposare un istante le tue stanche membra.
+Approfittane che non ci sono le guardie adesso.             
+~
+270 0 0
+D1
+            
+~
+~
+0 0 27018 0
+D3
+Vedi le mura.             
+~
+~
+0 -1 27010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27012
+Il camminamento occidentale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte
+occidentale della citta' di Deira.             
+~
+270 0 0
+D1
+Nothing.             
+~
+~
+0 0 27007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27013
+L'Atrio del piano superiore~
+   Sei al primo piano del Castello. Anche qui arazzi e panche allietano la
+vista. Un grande quadro mostra il principe Khardan che fece ristrutturare e
+ampliare questo castello per la gloria e la rinascita di Aldaria.         
+  
+~
+270 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 491446 27017 135
+D2
+Vedi il posto di guardia sulle mura.             
+~
+~
+0 -1 27009 0
+D5
+Vedi uno scalone.             
+~
+~
+0 -1 27002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27014
+Il camminamento orientale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte orientale
+della citta' di Deira.             
+~
+270 0 0
+D0
+Vedi le mura.             
+~
+~
+0 -1 27019 0
+D2
+Vedi la torre sudorientale.             
+~
+~
+0 -1 27007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27015
+Il camminamento occidentale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte
+occidentale della citta' di Deira.             
+~
+270 0 0
+D1
+Nothing.             
+~
+~
+0 0 27016 0
+D3
+            
+~
+~
+0 0 27024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27016
+Torre nord occidentale~
+Nothing.             
+~
+270 0 0
+D3
+            
+~
+~
+0 0 27015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27017
+L'ingresso alla zona notte~
+   Sei all'ingresso della zona notte. Diverse porte che danno accesso alle
+camere da letto si aprono su questo ingresso. Lungo le pareti sono disposte
+antiche armature da parata e sono appese lunghe lance da cavaliere a
+ganci.     
+~
+270 2560 0
+D0
+Una porta di legno.
+~
+porta~
+1 812918 27022 167
+D2
+Una porta di legno.
+~
+porta~
+1 491446 27013 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27018
+Mura orientale~
+mura blabla             
+~
+270 0 0
+D3
+            
+~
+~
+0 0 27011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27019
+Il camminamento orientale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte orientale
+della citta' di Deira.             
+~
+270 0 0
+D0
+Vedi le mura.             
+~
+~
+0 -1 27024 0
+D2
+Vedi le mura.             
+~
+~
+0 -1 27014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27020
+Il camminamento occidentale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte
+occidentale della citta' di Deira.             
+~
+270 0 0
+D1
+Nothing.             
+~
+~
+0 0 27025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27021
+Gli appartamenti reali~
+&7& Il salone degli specchi &0&                                            
+   E' un ampio salottino, arredato con poltrone di pelle aldariana  cucite
+con fili d'oro. Sulle pareti intorno a te sono disposti senza interruzione
+grandissimi specchi che riflettono le figure nella stanza. Il pavimento e'
+completamente coperto da un grande tappeto sendariano, raffigurante scene
+mitologiche della creazione del mondo ad opera di &7& Fizban &0&.  
+~
+270 2560 0
+D0
+ 
+~
+~
+0 -1 27056 0
+D1
+Vedi il corridoio.             
+~
+~
+0 -1 27022 0
+D2
+ 
+~
+~
+0 -1 27057 0
+D3
+ 
+~
+~
+0 -1 27055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27022
+Il Corridoio~
+   Sei nel corridoio del piano superiore del Castello. Delle porte si
+aprono ad est e ad ovest mentre a nord vedi l'ennesimo posto di guardia. Lungo
+il muro, osservi tante armature da parata allineate ed in ordine.           
+ 
+~
+270 0 0
+D0
+Vedi il posto di guardia.             
+~
+~
+0 -1 27027 0
+D1
+Vedi una camera             
+~
+~
+0 -1 27023 0
+D2
+Una porta di legno.
+~
+porta~
+1 812918 27017 135
+D3
+Vedi una camera.             
+~
+~
+0 -1 27021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27023
+Gli appartamenti degli ospiti~
+ Ti trovi in un ampio salottino, illuminato da tanti candelabri disposti
+sui tavolini dell'ambiente. Un grosso tappeto copre gran parte del pavimento
+e raffigura l'assedio di una citta' nemica da parte degli eserciti
+aldariani. Tutto e' arredato con classe e raffinatezza. 
+~
+270 2560 0
+D1
+
+~
+~
+0 -1 27058 0
+D3
+Vedi il corridoio.             
+~
+~
+0 -1 27022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27024
+Camminamento orientale nord~
+   Sei sulle mura del Castello. Da qui hai la visione della parte orientale
+della citta' di Deira.             
+~
+270 0 0
+D1
+            
+~
+~
+0 0 27015 0
+D3
+            
+~
+~
+0 0 27029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27025
+La Torre Nordoccidentale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo sudorientale
+del Castello. Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con del pane e
+delle sedie attorno ti invogliano a riposare un istante le tue stanche membra.
+Approfittane che non ci sono le guardie adesso.             
+~
+270 0 0
+D1
+Vedi le mura.             
+~
+~
+0 -1 27026 0
+D3
+            
+~
+~
+0 0 27020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27026
+Il camminamento settentrionale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte orientale
+della citta' di Deira.             
+~
+270 0 0
+D1
+Vedi il posto di guardia.             
+~
+~
+0 -1 27027 0
+D3
+Vedi la torre nordoccidentale.             
+~
+~
+0 -1 27025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27027
+Il posto di guardia sulle mura~
+   Sei entrato nella stanza delle guardie. Un caldo ambiente ben illuminato
+ti accoglie, un grande camino scalda l'aria e finalmente ti senti a tuo
+agio. Le guardie sono da sempre isolate dal resto del mondo, se non ti
+sbrighi ad andartene vorranno sapere cosa succede al di fuori del castello.      
+      
+~
+270 0 0
+D1
+Vedi le mura.             
+~
+~
+0 -1 27028 0
+D2
+Vedi il corridoio.             
+~
+~
+0 -1 27022 0
+D3
+Vedi le mura.             
+~
+~
+0 -1 27026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27028
+Il camminamento settentrionale~
+   Sei sulle mura del Castello. Da qui hai la visione della parte orientale
+della citta' di Deira.             
+~
+270 0 0
+D1
+Vedi la torre nordorientale.             
+~
+~
+0 -1 27029 0
+D3
+Vedi il posto di guardia.             
+~
+~
+0 -1 27027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27029
+La Torre Nordoccidentale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo sudorientale
+del Castello. Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con del pane e
+delle sedie attorno ti invogliano a riposare un istante le tue stanche membra.
+Approfittane che non ci sono le guardie adesso.             
+~
+270 0 0
+D1
+            
+~
+~
+0 0 27024 0
+D3
+Vedi le mura.             
+~
+~
+0 -1 27028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27030
+La sala dei banchetti~
+Una lunghissima tavola di noce rettangolare e' posta nel centro della sala.
+A capotavola vedi i &6&l trono &0&  reale, dove Re Rodric siede
+solitamente a pranzare. E' qui che vengono celebrate le grandi feste e dove
+trascorrono il tempo a banchettare gli alti dignitari aldariani con gli ospiti
+stranieri.           
+~
+270 0 0
+D1
+           
+~
+~
+0 -1 27003 0
+E
+trono~
+Di legno intarsiato e con pietre preziose incastonate. Come in un racconto
+sono raffigurate in bassorilievo nel legno le vicende mitologiche del mito
+di Fizban e Shade           
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27031
+La sala dell'estate~
+Splendidi mobili sendariani arredano questa sala, intarsiati e rifiniti dai
+migliori artigiani della Daresia. L'atmosfera e' calma e serena, poltrone
+e panche permettono ai visitatori di soffermarsi a conversare e ad ammirare
+la volta a botte affrescata con scene di vita campestre nella stagione
+estiva.            
+~
+270 0 0
+D0
+- La sala dell'autunno           
+~
+~
+0 -1 27032 0
+D1
+  
+~
+~
+0 -1 27039 0
+D2
+           
+~
+~
+0 -1 27004 0
+D3
+           
+~
+~
+0 -1 27038 0
+D4
+  
+~
+~
+0 -1 27040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27032
+La sala dell'autunno~
+Al tuo passaggio, due sentinelle scattano sull'attenti. Sulle pareti di
+questa sala sono presenti splendidi arazzi, raffiguranti  il paesaggio intorno
+Deira nel periodo autunnale. Gli alberi iniziano a spogliarsi delle loro
+foglie, che diventano rosse quando ricadono al suolo.            
+~
+270 72 0
+D0
+           
+~
+~
+0 -1 27033 0
+D1
+           
+~
+~
+0 -1 27041 0
+D2
+           
+~
+~
+0 -1 27031 0
+D3
+           
+~
+~
+0 -1 27036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27033
+La sala dell'inverno~
+Al centro del grande ambiente troneggia la &7& statua &0& equestre di Re
+Rodric. Una fila di lancieri schierati ti indica che la prossima stanza e' la
+sala del trono. Le pareti di questa sala raffigurano paesaggi invernali,
+probabilmente i monti Khalist e il massiccio di Agraba.            
+~
+270 72 0
+D0
+           
+~
+~
+0 -1 27034 0
+D2
+           
+~
+~
+0 -1 27032 0
+E
+statua~
+E' una scultura crisoelefantina, di autore sconosciuto..ma sicuramente un
+grande artista. Costui e' riuscito a ritrrarre un quadro significativo della
+personalita' di Re Rodric: calmo e sereno, l'aspetto rassicurante...sembra
+un uomo temprato da molte vicende felici...e tristi.           
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27034
+La &7& sala del trono &0&~
+   Sei entrato nella Sala piu' importante di questa parte del mondo
+occidentale. I tuoi occhi bruciano dalla luce che proviene da migliaia di candele
+e si riflette sui grandi specchi e sulle finiture d'oro zecchino presenti
+in ogni dove. Questa sala e' usata per le riunioni importanti, per definire
+il ruolo di ognuno e per segnare il destino di questo o quel regno. Al
+centro, stranamente, c'e' uno splendido trono di ossidiana nera intarsiato con
+immagini di antiche battaglie.             
+~
+270 200 0
+D1
+
+~
+~
+0 -1 27059 0
+D2
+           
+~
+~
+0 -1 27033 0
+D5
+           
+~
+~
+0 -1 27035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27035
+La cripta dei Re ~
+Scendendo una ripida scalinata a chiocciola, vecchia di millenni, accedi ad
+uno stretto sotterraneo. Le pareti sono scavate nella roccia dura e umida,
+dalla quale traspira anche acqua. Vedendo lapidi e tombe, ti rendi conto
+di essere giunto nell'antica cripta dove vengono seppelliti i regnanti e gli
+alti dignitari aldariani che hanno collaborato con essi.            
+~
+270 0 0
+D2
+        
+~
+~
+0 -1 27042 0
+D4
+           
+~
+~
+0 -1 27034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27036
+La sala degli accordi ~
+Questo grande salone presenta e' stato teatro di grandi accordi
+diplomatici. Tra i famosi diplomatici, ricordiamo Khardan, secondo reggente di
+Aldaria, il padre della politica del nuovo mito aldariano e della rinascita del
+regno, Alorie, diplomatica e e fedele consigliera dello stesso Khardan.
+Questa stanza emana una strana atmosfera di pace.            
+~
+270 216 0
+D1
+           
+~
+~
+0 -1 27032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27037
+La sala della &7& temperanza &0&~
+Questo salone e' affrescato con moltissime raffigurazioni di una delle
+quattro grandi virtu' che necessariamente deve acquisire un sovrano: la
+temperanza. Una grande &4& scultura &0& raffigura Rodric Condoin, sovrano di
+Aldaria, uomo dotato di grande calma e temperanza.           
+~
+270 72 0
+D1
+           
+~
+~
+0 -1 27004 0
+E
+scultura~
+Il sovrano di Aldaria viene raffigurato mentre ordina di ridare la liberta'
+a dei prigionieri di guerra che, supplici ai suoi piedi, chiedevano di
+essere graziati.           
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27038
+La sala della &5& giustizia &0&~
+Gli affreschi di questa sala hanno colori tersi e puri come quelli della
+giustizia, che sicuramente e' una virtù di difficile acquisizione. Al centro
+della sala, una grande &4& statua &0&  raffigura Khardan, secondo reggente
+di Aldaria, che si impegnò moltissimo per riuscire ad acquisire il grande
+dono di questa virtù.            
+~
+270 200 0
+D1
+           
+~
+~
+0 -1 27031 0
+E
+statua~
+Lunghi capelli lisci escono dall'elmo di Khardan. I suoi occhi sono stati
+raffigurati pieni di umanità e perdono. Ma un lampo di combattività e
+decisione solca i lineamenti del viso, che si congiungono armonicamente a quelli
+del corpo snello.           
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27039
+La sala della &1& fortezza &0&~
+Questa sala presenta anche mosaici sullo splendido pavimento. I migliori
+artisti aldariani hanno lavorato a questo ambiente: una &4& statua &0&
+rappresenta la grande forza d'animo che in vita ebbe la grande maga Laika.       
+    
+~
+270 200 0
+D3
+           
+~
+~
+0 -1 27031 0
+E
+statua~
+La prima reggente di Aldaria viene ritratta mentre spezza le catene della
+debolezza e della perdizione.           
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27040
+La sala della &3& prudenza &0&~
+Una grande vasca circolare raccoglie l'acqua piovana attraverso un grande
+buco circolare sul tetto. L'ambiente e' arredato con splendide piante
+esotiche. Al centro del piccolo laghetto, sorge un'isoletta con una grande &7&
+fontana &0& scultorea raffigurante l'alto consigliere Salomon, esempio di
+prudenza e ponderazione.            
+~
+270 200 0
+D5
+           
+~
+~
+0 -1 27031 0
+E
+fontana~
+Salomon viene raffigurato mentre siede a meditare, col capo poggiato in
+segno di concentrazione sulla mano del braccio destro in appoggio.            
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27041
+La sala della guerra~
+Qui viene riunito il consiglio di guerra dal Re in persona. Le campagne
+belliche, i destini militari dei regni...tutto quello che concerne la difesa
+del regno, viene tutto deciso qui. Candelabri d'argento posti sul lungo
+tavolo di noce rettangolare illuminano l'ambiente spoglio e severo.           
+~
+270 200 0
+D3
+           
+~
+~
+0 -1 27032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27042
+L'entrata ai sotterranei~
+Queste caverne vennero fatte scavare per ordine del principe Khardan.
+Centinaia di schiavi vi lavorarono...quasi nessuno riuscì mai a tornare indietro
+per narrare quali tremendi segreti nascondessero questi luoghi. Una &5&b
+iscrizione &0& e' qui: prova a leggerla facendo look iscrizione.        
+~
+270 201 0
+D0
+        
+~
+~
+0 -1 27035 0
+D1
+       
+~
+~
+0 -1 27043 0
+D2
+       
+~
+~
+0 -1 27044 0
+D3
+       
+~
+~
+0 -1 27045 0
+E
+iscrizione~
+&1& Profanatore di segreti piu' grandi di te...non avanzare altro passo, ma
+torna indietro al piu' presto! La maledizione di questi luoghi e'
+tremenda, solo pochi eletti ne conoscono il segreto...nessun profanatore e' mai
+tornato indietro a raccontarlo &0&        
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27043
+La cappella di Khardan~
+Il sotteraneo si allarga in un ambiente molto piu' grande. Grandi
+stalattiti pendono dal soffitto. L'atmosfera surreale di questo luogo e' illuminata
+da centinaia di candele. Muovi i tuoi passi sulla nuda terra...ma senti un 
+meccanismo scattare!    E' scattata una trappola! Dal muro partono dei
+dardi avvelenati...ma non sai se ti colpiranno...       
+~
+270 235 0
+D3
+       
+~
+~
+0 -1 27042 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#27044
+La cappella di Khardan~
+Il sotteraneo si allarga in un ambiente molto piu' grande. Grandi
+stalattiti pendono dal soffitto. L'atmosfera surreale di questo luogo e' illuminata
+da centinaia di candele. Muovi i tuoi passi sulla nuda terra...ma senti un 
+meccanismo scattare!    E' scattata una trappola! Dal muro partono dei
+dardi avvelenati...ma non sai se ti colpiranno...       
+~
+270 203 0
+D0
+       
+~
+~
+0 -1 27042 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#27045
+La cappella di Khardan~
+Il sotteraneo si allarga in un ambiente molto piu' grande. Grandi
+stalattiti pendono dal soffitto. L'atmosfera surreale di questo luogo e' illuminata
+da centinaia di candele. Muovi i tuoi passi sulla nuda terra...ma senti un 
+meccanismo scattare! E' scattata una trappola! Dal muro partono dei dardi
+avvelenati...ma non sai se ti colpiranno...       
+~
+270 201 0
+D1
+       
+~
+~
+0 -1 27044 0
+D2
+      
+~
+~
+0 -1 27046 0
+D3
+      
+~
+~
+0 -1 27043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27046
+La cappella di Khardan~
+Il sotteraneo si allarga in un ambiente molto piu' grande. Grandi
+stalattiti pendono dal soffitto. L'atmosfera surreale di questo luogo e' illuminata
+da centinaia di candele. Muovi i tuoi passi sulla nuda terra...ma senti un 
+meccanismo scattare!  E' scattata una trappola! Dal muro partono dei dardi
+avvelenati...ma non sai se ti colpiranno...      
+~
+270 201 0
+D0
+      
+~
+~
+0 -1 27045 0
+D1
+      
+~
+~
+0 -1 27006 0
+D2
+      
+~
+~
+0 -1 27047 0
+D4
+      
+~
+~
+0 -1 27033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27047
+La tomba dei Re ~
+Lungo una parete di questa caverna e' scolpita una grande tomba. Essa e'
+fatta con vari tipi di marmi di colori diversi. I blocchi sono imponenti e di
+peso eccezionale. Un'iscrizione sulla scultura reca la frase: "Requiescant
+in pace".       
+~
+270 201 0
+D0
+      
+~
+~
+0 -1 27046 0
+D1
+      
+~
+~
+0 -1 27049 0
+D2
+      
+~
+~
+0 -1 27048 0
+D3
+      
+~
+~
+0 -1 27048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27048
+L'oscura entrata~
+Giungi in un nuovo locale scavato nella roccia. Davanti a te si trova la
+stanza dell'antico tesoro reale di Aldaria. Che tu sia un eletto dell'arcano
+segreto...o che tu sia un profanatore, sei  finalmente giunto alla
+sospirata meta... ma attentizione! una nuova trappola scatta! La terra inizia a
+tremare..non sai se riuscirai a salvarti!      
+~
+270 203 0
+D0
+      
+~
+~
+0 -1 27047 0
+D1
+      
+~
+~
+0 -1 27047 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#27049
+L'oscura entrata ~
+Giungi in un nuovo locale scavato nella roccia. Davanti a te si trova la
+stanza dell'antico tesoro reale di Aldaria. Che tu sia un eletto dell'arcano
+segreto...o che tu sia un profanatore, sei  finalmente giunto alla
+sospirata meta... ma attentizione! una nuova trappola scatta! La terra inizia a
+tremare..non sai se riuscirai a salvarti!      
+~
+270 201 0
+D2
+      
+~
+~
+0 -1 27050 0
+D3
+      
+~
+~
+0 -1 27047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27050
+L'antro di Fizban~
+La caverna si allarga, e di fronte a te si staglia in tutta la sua
+maestosità la grande statua del Dio Fizban. Vedi cinque  porte che conducono ad
+altrettante stanze del tesoro...quale sara' quella giusta?       
+~
+270 201 0
+D0
+      
+~
+~
+0 -1 27049 0
+D1
+      
+~
+~
+0 -1 27052 0
+D2
+      
+~
+~
+0 -1 27053 0
+D3
+      
+~
+~
+0 -1 27053 0
+D4
+      
+~
+~
+0 -1 27053 0
+D5
+      
+~
+~
+0 -1 27053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27052
+La stanza del tesoro~
+Mucchi di gioielli sono accatastati dappertutto. Pile di monete d'oro
+traboccano da forzieri pieni all'inverosimile...si sei giunto a toccare il
+tesoro piu' grande e prezioso di tutto il mondo conosciuto! Ma i guai non
+sembrano finiti....un'altra trappola scatta...e altri dardi partono dal
+muro...forse ti salverai...forse no.      
+~
+270 200 0
+D0
+      
+~
+~
+0 -1 27036 0
+D2
+      
+~
+~
+0 -1 27054 0
+D3
+      
+~
+~
+0 -1 27050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27053
+La stanza del tesoro~
+Mucchi di gioielli sono accatastati dappertutto. Pile di monete d'oro
+traboccano da forzieri pieni all'inverosimile...si sei giunto a toccare il
+tesoro piu' grande e prezioso di tutto il mondo conosciuto! Ma i guai non
+sembrano finiti....un'altra trappola scatta...e altri dardi partono dal
+muro...forse ti salverai...forse no.      
+~
+270 202 0
+D0
+      
+~
+~
+0 -1 27050 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#27054
+Il tesoro reale Aldariano~
+Ecco, sei giunto nel vero sancta sanctorum del regno...tutt'intorno a te
+vedi il vero tesoro reale! La tua pelle viene colta da brividi di
+freddo...l'eccitazione, per essere arrivato a carpire queste enormi ricchezze, e'
+grande come non mai. &1& Se sei un profanatore...che tu sia maledetto in
+eterno! &0&      
+~
+270 2560 0
+D0
+      
+~
+~
+0 -1 27052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27055
+La toeletta reale~
+E' un piccolo locale, al centro del quale spicca una grande vasca da bagno
+di alabastro. Un lungo specchio e' posizionato sulla parete di fronte a te.
+Il soffitto della stanza e' una piccola cupola ricoperta di affreschi,
+raffiguranti la storia del regno di Aldaria.  
+~
+270 72 0
+D1
+ 
+~
+~
+0 -1 27021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27056
+La stanza da letto di Rodric~
+E' un'ampia camera che affaccia sul cortile interno del castello. Grandi
+arazzi sono appesi alle pareti e fanno da coronamento al grande letto a
+baldacchino che si erge su una piattaforma di legno di tek al centro della
+camera. Sulla parete alla tua sinistra scorgi una porta di legno intarsiato che
+conduce al guardaroba. 
+~
+270 2632 0
+D2
+ 
+~
+~
+0 -1 27021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27057
+La stanza da letto di Khardan~
+E' una piccola stanza, luminosa e ventilata. E' arredata con meticolosita'
+ed estrema cura. La parete dietro il letto a baldacchino e' affrescata con
+scene di caccia e di vita nelle foreste, a testimoniare il grande amore per
+la natura di chi dorme qui. 
+~
+270 0 0
+D0
+ 
+~
+~
+0 -1 27021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27058
+La camera degli ospiti~
+ Sei in una bella, confortevole e lussuosa camera. Al centro della stanza
+un enorme letto a baldacchino riempie la visuale, un armadio sulla parete a
+destra e' destinato ad essere il custode delle armi e delle armature del
+ricco possessore di questa stanza. Sulla parete davanti a te uno specchio
+immenso riflette la tua altera figura, si, stai proprio bene oggi.            
+
+~
+270 72 0
+D3
+
+~
+~
+0 -1 27023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27059
+&6& La cappella di Fizban &0&~
+ E' un'enorme sala rettangolare, con tre navate intervallate da possenti
+colonne di marmo rosa. In fondo riesci a distinguere un grande altare di
+granito, oltre il quale si protende verso l'alto la &7& statua &0& del Dio
+Fizban. 
+&0Una &3targa dorata&0 e' affissa ai piedi dell'altare.
+~
+270 72 0
+D3
+
+~
+~
+0 -1 27034 0
+E
+statua~
+ &7& Sembra un'opera d'arte molto antica, i contorni del viso del Dio non
+sono ben definiti. Il gruppo scultoreo sembra pervaso da una tensione e da
+lunghe linee di forza che, confondendosi nelle braccia di Fizban, lo
+conducono verso l'alto. &0&
+~
+E
+targa dorata~
+
+&3                             "L'amore e' vita,
+                              insieme vivremo per l'eternita'."
+                              Alla mia dolce meta', Salome'.
+                              Ora e per sempre,
+                              Eraclito, principe di Aldaria.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27094
+Un trono d'ombra ~
+Veramente grande, ospiterebbe 4 persone, ma non sei sicuro che le
+reggerebbe. Pare  inconsistente, formato solo la una nebbia nera, ora che lo osservi
+bene diresti che se gli occhi non ti giocano uno scherzo, quella e'
+l'ombra di un trono...             
+~
+270 16 0
+D2
+Stanza della Preghiera             
+~
+~
+0 0 27095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27095
+Stanza delle Preghiere~
+Coperto completamente la lunga tonaca nera, riesci solo a scorgere due
+occhio rossi  come il sangue, nell'ombra bel cappuccio celato. Le sue parole
+escono gravi come se  pronunciate da un posto lontanissimo, decisamente non
+e' un uomo....             
+~
+270 0 0
+D0
+Stanza del Trono             
+~
+~
+0 0 27094 0
+D2
+Sala della Notte             
+~
+~
+0 0 27097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27096
+La Sala della Notte ~
+Lo guardo ti cade immediatamene sul trono al centro della cupa sala, nero
+come la  notte e troppo grande per un uomo, pare essere fatto di ombre visto
+che continuamente  la sua forma oscilla lentamente. Due lunghe file di
+olischi di cristallo si trovano hai lati della sala, il candido rflesso della
+gemma e macchiato dal sangue che cola dalle teste impalate sulla cima
+appuntita delle steli...             
+~
+270 48 0
+D0
+Stanza delle Preghiere             
+~
+~
+0 0 27095 0
+D2
+Ingresso del Tempio             
+~
+~
+0 0 27097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27097
+La Sala Centrale ~
+Toc... Toc... il rumore dei tuo passi, echeggia tra le pareti di questo
+enorme salone, disturbando il silenzio eterno di questo luogo. Il vasto salone
+pavimentato  di marmo nero, e' fiocamente illuminato dalle vetrate di un
+colore rosso sangue  e uno stano lezzo di morte proviene dall'edificio.
+Un'ampia scalinata ti conduce a quella che sembra una seconda sala.  Con la
+coda dell'occhio cogli un movimento, ma quando ti giri vedi solo un ombra  che
+si dissolve.... qui dentro non sei solo...             
+~
+270 40 0
+D0
+Sala della Notte             
+~
+~
+0 0 27096 0
+D2
+Ingresso del Tempio Uscita dal tempio             
+~
+~
+0 0 1448530 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27098
+Un cunicolo buio e stretto~
+Un vento gelido percorre la via del male, un respiro di morte e di
+disperazione. Strani segni a te incomprensibili sono in cisi nella roccia nera del
+cunicolo.             
+~
+270 65792 5
+D4
+Un cunicolo             
+~
+~
+0 0 28000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#27099
+Un cunicolo buio e stretto~
+Ti trovi un un corridoio sotterraneo che porta in basso verso le
+profondita' della Daresia. Il cunicolo permette il passaggio ad una sola creatura di
+dimensioni umane. Un vento gelido percorre la via del male, un respiro di
+morte e di disperazione. Strani segni a te incomprensibili sono in cisi
+nella roccia nera del cunicolo.             
+~
+270 65824 5
+D4
+Un cunicolo che porta in basso             
+~
+~
+0 0 1448530 0
+D5
+Un cunicolo             
+~
+~
+0 0 27098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

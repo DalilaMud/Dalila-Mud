@@ -1,0 +1,2136 @@
+#10100
+&CUn immenso cancello incantato&0~
+&G
+	                                  .-.
+	                                 /___\
+	                                 |___|
+	                                 |]_[|
+	                                 / I \
+	                              JL/  |  \JL
+	   .-.                    i   ()   |   ()   i                    .-.
+	   |_|     .^.           /_\  LJ=======LJ  /_\           .^.     |_|
+	._/___\._./___\_._._._._.L_J_/.-.     .-.\_L_J._._._._._/___\._./___\._._._
+	       ., |-,-| .,       L_J  |_| [I] |_|  L_J       ., |-,-| .,        ., 
+	       JL |-O-| JL       L_J%%%%%%%%%%%%%%%L_J       JL |-O-| JL        JL 
+	IIIIII_HH_'-'-'_HH_IIIIII|_|=======H=======|_|IIIIII_HH_'-'-'_HH_IIIIII_HH_
+	-------[]-------[]-------[_]----\.=I=./----[_]-------[]-------[]--------[]-
+	 _/\_  ||\\_I_//||  _/\_ [_] []_/_L_J_\_[] [_] _/\_  ||\\_I_//||  _/\_  ||\
+	 |__|  ||=/_|_\=||  |__|_|_|   _L_L_J_J_   |_|_|__|  ||=/_|_\=||  |__|  ||-
+	 |__|  |||__|__|||  |__[___]__--__===__--__[___]__|  |||__|__|||  |__|  |||
+	IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIIIIIII[_]
+	 \_I_/ [_]\_I_/[_] \_I_[_]\II/[]\_\I/_/[]\II/[_]\_I_/ [_]\_I_/[_] \_I_/ [_]
+	./   \.L_J/   \L_J./   L_JI  I[]/     \[]I  IL_J    \.L_J/   \L_J./   \.L_J
+	|     |L_J|   |L_J|    L_J|  |[]|     |[]|  |L_J     |L_J|   |L_J|     |L_J
+	|_____JL_JL___JL_JL____|-||  |[]|     |[]|  ||-|_____JL_JL___JL_JL_____JL_J
+&0
+Sei dinanzi al &CCancello Incantato&0 di questo meraviglioso castello...
+I tuoi occhi luccicano di stupore
+~
+101 0 0
+D0
+
+~
+Cancello~
+1 -1 10101 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10101
+Il corridoio verso i giardini~
+Proseguendo su questo viale alberato arriverai ai giardini del castello
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10102 0
+D2
+
+~
+~
+0 -1 10100 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10102
+&wIl corridoio verso i giardini&0~
+Proseguendo su questo viale alberato arriverai ai giardini del castello
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10105 0
+D1
+
+~
+~
+0 -1 10103 0
+D2
+
+~
+~
+0 -1 10101 0
+D3
+
+~
+~
+0 -1 10104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10103
+&RLa torre di guardia Est&0~
+Sei all'interno della torre di guardia...meglio guardarsi alle spalle
+~
+101 0 0
+D3
+
+~
+~
+0 -1 10102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10104
+&RLa torre di guardia Ovest&0~
+Sei all'interno della torre di guardia...meglio guardarsi alle spalle
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10105
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10112 0
+D1
+
+~
+~
+0 -1 10106 0
+D2
+
+~
+~
+0 -1 10102 0
+D3
+
+~
+~
+0 -1 10107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10106
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10111 0
+D1
+
+~
+~
+0 -1 10108 0
+D3
+
+~
+~
+0 -1 10105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10107
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10113 0
+D1
+
+~
+~
+0 -1 10105 0
+D3
+
+~
+~
+0 -1 10109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10108
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10110 0
+D3
+
+~
+~
+0 -1 10106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10109
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10114 0
+D1
+
+~
+~
+0 -1 10107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10110
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10115 0
+D1
+
+~
+Steccato~
+1 -1 10122 3
+D2
+
+~
+~
+0 -1 10108 0
+D3
+
+~
+~
+0 -1 10111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10111
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10116 0
+D1
+
+~
+~
+0 -1 10110 0
+D2
+
+~
+~
+0 -1 10106 0
+D3
+
+~
+~
+0 -1 10112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10112
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10117 0
+D1
+
+~
+~
+0 -1 10111 0
+D2
+
+~
+~
+0 -1 10105 0
+D3
+
+~
+~
+0 -1 10113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10113
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10118 0
+D1
+
+~
+~
+0 -1 10112 0
+D2
+
+~
+~
+0 -1 10107 0
+D3
+
+~
+~
+0 -1 10114 0
+D4
+
+~
+Gabbia~
+1 10100 10135 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10114
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10119 0
+D1
+
+~
+~
+0 -1 10113 0
+D2
+
+~
+~
+0 -1 10109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10115
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D2
+
+~
+~
+0 -1 10110 0
+D3
+
+~
+~
+0 -1 10116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10116
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10120 0
+D1
+
+~
+~
+0 -1 10115 0
+D2
+
+~
+~
+0 -1 10111 0
+D3
+
+~
+~
+0 -1 10117 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10117
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10116 0
+D2
+
+~
+~
+0 -1 10112 0
+D3
+
+~
+~
+0 -1 10118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10118
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 4 0
+D0
+
+~
+undefined~
+0 -1 10121 4
+D1
+
+~
+~
+0 -1 10117 0
+D2
+
+~
+~
+0 -1 10113 0
+D3
+
+~
+~
+0 -1 10119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10119
+&VI Giardini Pensili&0~
+Il giardini di questo castello ispirano armonia e tranquillita'.
+Grandi palme e piante tropicali fanno da sfondo a  rarissime specie di fiori che i tuoi occhi non hanno mai visto
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10118 0
+D2
+
+~
+~
+0 -1 10114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10120
+&RUna mestosa entrata&0~
+Statue, quadri di altissimo valore, grandi vasi ornano questo ingresso
+~
+101 4 0
+D0
+
+~
+Portone~
+1 10101 10151 7
+D2
+
+~
+~
+0 -1 10116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10121
+&RUna mestosa entrata&0~
+Statue, quadri di altissimo valore, grandi vasi ornano questo ingresso
+~
+101 4 0
+D0
+
+~
+Portone~
+1 10101 10153 7
+D2
+
+~
+~
+0 -1 10118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10122
+L'ingresso delle stalle di &RLord Valmor&0~
+&w            _|\ _/|_,
+          ,((\\``-\\\\_
+        ,(())      `))\
+      ,(()))       ,_ \
+     ((())'   |        \
+     )))))     >.__     \
+     ((('     /    `-. .c|
+             /        `-`'&0
+~
+101 4 0
+D1
+
+~
+~
+0 -1 10123 0
+D3
+
+~
+Steccato~
+1 -1 10110 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10123
+Una corridoio centrale~
+Sei in un lungo corridoio ben curato.
+Capisci che &RLord Valmor&0 deve tenere molto ai cavalli della sua stalla
+Proseguendo il corridoio arriverai agli steccati dei cavalli
+~
+101 4 0
+D0
+
+~
+Staccionata~
+1 -1 10136 3
+D1
+
+~
+~
+0 -1 10124 0
+D2
+
+~
+~
+0 -1 10125 0
+D3
+
+~
+~
+0 -1 10122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10124
+Una corridoio centrale~
+Sei in un lungo corridoio ben curato.
+Capisci che &RLord Valmor&0 deve tenere molto ai cavalli della sua stalla
+Proseguendo il corridoio arriverai agli steccati dei cavalli
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10145 0
+D3
+
+~
+~
+0 -1 10123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10125
+Le stalle minori~
+Un corridoio sporco e buio prosegue da qui
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10123 0
+D2
+
+~
+~
+0 -1 10126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10126
+Il corridoio si stinge~
+Un corridoio sporco e buio prosegue da qui
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10125 0
+D2
+
+~
+~
+0 -1 10128 0
+D3
+
+~
+~
+0 -1 10127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10127
+Un ripostiglio maleodorante~
+In un angolo sono posati attrezzi da lavoro e fieno per i cavalli...la puzza di letame ti da alla testa...&wnon riesci a concentrarti&0
+~
+101 128 0
+D1
+
+~
+~
+0 -1 10126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10128
+Il corridoio si stinge~
+Un corridoio sporco e buio prosegue da qui
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10126 0
+D1
+
+~
+~
+0 -1 10130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10129
+L'incrocio dei corridoi~
+Sei giunto nella scuola di magia.
+A sinistra troverai il corridoio della magia &WBianca&0
+A destra troverai il corridoio della Magia &bNera&0
+~
+101 4 0
+D1
+
+~
+~
+0 -1 10185 0
+D2
+
+~
+Portone~
+0 -1 10154 0
+D3
+
+~
+~
+0 -1 10186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10130
+Il corridoio si stinge~
+Un corridoio sporco e buio prosegue da qui
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10131 0
+D3
+
+~
+~
+0 -1 10128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10131
+Il corridoio si stinge~
+Un corridoio sporco e buio prosegue da qui
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10132 0
+D3
+
+~
+~
+0 -1 10130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10132
+Il corridoio si stinge~
+Dal buio si vede una luce che passa da una porta chiusa...chi ci sara'
+~
+101 0 0
+D0
+
+~
+Porta~
+1 -1 10134 3
+D3
+
+~
+~
+0 -1 10131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10133
+La gabbia ovest dei pappagalli~
+Sei all'interno di della gabbia dei pappagalli.
+Verso l'alto noti specie di pappagalli mai viste che svolazzano qua e la
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10134
+La stanza dello &RStalliere Tymos&0~
+Questa e' la stanza di &RTymos&0 lo Stalliere.
+Un tipo poco simpatico e poco avvezzo a ricevere visite...
+~
+101 4 0
+D2
+
+~
+Porta~
+1 -1 10132 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10135
+La gabbia dei pappagalli~
+Sei all'interno di della gabbia dei pappagalli.
+Verso l'alto noti specie di pappagalli mai viste che svolazzano qua e la
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10182 0
+D1
+
+~
+~
+0 -1 10184 0
+D2
+
+~
+~
+0 -1 10183 0
+D3
+
+~
+~
+0 -1 10133 0
+D5
+
+~
+Gabbia~
+1 10100 10113 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10136
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10137 0
+D2
+
+~
+Staccionata~
+1 -1 10123 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10137
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10138 0
+D2
+
+~
+~
+0 -1 10136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10138
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10139 0
+D3
+
+~
+~
+0 -1 10137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10139
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D0
+
+~
+Staccionata~
+1 -1 10147 3
+D1
+
+~
+~
+0 -1 10140 0
+D2
+
+~
+~
+0 -1 10146 0
+D3
+
+~
+~
+0 -1 10138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10140
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10141 0
+D3
+
+~
+~
+0 -1 10139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10141
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D2
+
+~
+~
+0 -1 10142 0
+D3
+
+~
+~
+0 -1 10140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10142
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10141 0
+D2
+
+~
+Staccionata~
+1 -1 10143 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10143
+Una corridoio centrale~
+
+Sei in un lungo corridoio ben curato.
+Capisci che &RLord Valmor&0 deve tenere molto ai cavalli della sua stalla
+Proseguendo il corridoio arriverai agli steccati dei cavalli
+~
+101 4 0
+D0
+
+~
+Staccionata~
+1 -1 10142 3
+D3
+
+~
+~
+0 -1 10144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10144
+Una corridoio centrale~
+Sei in un lungo corridoio ben curato.
+Capisci che &RLord Valmor&0 deve tenere molto ai cavalli della sua stalla
+Proseguendo il corridoio arriverai agli steccati dei cavalli
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10143 0
+D3
+
+~
+~
+0 -1 10145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10145
+Una corridoio centrale~
+Sei in un lungo corridoio ben curato.
+Capisci che &RLord Valmor&0 deve tenere molto ai cavalli della sua stalla
+Sei in un lungo corridoio ben curato.
+~
+101 4 0
+D0
+
+~
+Staccionata~
+1 -1 10146 3
+D1
+
+~
+~
+0 -1 10144 0
+D3
+
+~
+~
+0 -1 10124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10146
+Le staccionate con i cavalli~
+Sei appena entrato nella zona della stalla dove i cavalli pascolano liberamente.
+Per terra noti fieno, segatura e qualche escremento di equino.
+La puzza è insopportabile ma ti fai forza
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10139 0
+D2
+
+~
+Staccionata~
+1 -1 10145 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10147
+Una staccionata di pregevole fattura~
+Questo punto della stalla è molto ben curato e pulito.
+La curiosità ti avvolge...cosa ci sarà mai la in fondo?
+Senti rumori di zoccoli rimbombare nella stalla...
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10149 0
+D2
+
+~
+Staccionata~
+1 -1 10139 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10148
+Il ripostiglio dei ferri e delle selle~
+Ferri di cavallo, forconi per il fieno...in questa stanza c'e' un disordine incredibile.
+~
+101 4 0
+D3
+
+~
+~
+0 -1 10149 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10149
+La stalla di &CPegaso&0~
+&G
+                   ,%%%,
+                 ,%%%` %==--
+                ,%%`( '|
+               ,%%@ /\_/
+     ,%.-"""--%%% "@@__  
+    %%/             |__`\       
+   .%'\     |   \   /  //
+   ,%' >   .'----\ |  [/
+      < <<`       ||      
+       `\\\       ||        
+         )\\      )\
+&0
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10148 0
+D2
+
+~
+~
+0 -1 10147 0
+D3
+
+~
+~
+0 -1 10150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10150
+Il ripostiglio del fieno pregiato~
+Tanto fieno e' accumulato in questa stanza. Il cibo preferito da &WPegaso&0
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10149 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10151
+&RDentro il bastione nord&0~
+
+~
+101 0 0
+D2
+
+~
+Portone~
+1 10101 10120 7
+D3
+
+~
+~
+0 -1 10152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10152
+&RL'atrio principale&0~
+
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10154 0
+D1
+
+~
+~
+0 -1 10151 0
+D3
+
+~
+~
+0 -1 10153 0
+D5
+
+~
+~
+0 -1 10155 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10153
+&RDentro il bastione nord&0~
+
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10152 0
+D2
+
+~
+Portone~
+1 10101 10121 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10154
+&BIl portone della Scuola di Magia&0~
+Un immenso portone che conduce alle stanze della magia e' qui.
+Solo coloro che sanno possono entrare, solo coloro che controllano possono oltrepassare l'uscio
+Questo recita una targa
+~
+101 16 0
+D0
+
+~
+Portone~
+1 -1 10129 7
+D2
+
+~
+~
+0 -1 10152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10155
+Un corridoio scuro e malodorante~
+Sei giunto in un lungo, buio e maleodorante corridoio.
+L'odore di antico ti assale e sei tutubante sul fatto di continuare.
+~
+101 4 0
+D2
+
+~
+~
+0 -1 10156 0
+D4
+
+~
+~
+0 -1 10152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10156
+Un corridoio scuro e malodorante~
+
+Sei giunto in un lungo, buio e maleodorante corridoio.
+L'odore di antico ti assale e sei tutubante sul fatto di continuare.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10155 0
+D2
+
+~
+~
+0 -1 10157 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10157
+Un incrocio di corridoi~
+
+L'incrocio dei corridoi, il punto dove due lunghi ed oscuri corridoi si incontrano.
+Est, Ovest, Sud? Da che parte rischierai meno la vita?
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10156 0
+D1
+
+~
+~
+0 -1 10159 0
+D2
+
+~
+~
+0 -1 10168 0
+D3
+
+~
+~
+0 -1 10158 0
+D5
+
+~
+Tombino~
+1 -1 10200 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10158
+Il corridoio ovest~
+L'oscuro corridoio ovest prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10157 0
+D3
+
+~
+~
+0 -1 10161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10159
+Il corridoio est~
+
+L'oscuro corridoio est prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10160 0
+D3
+
+~
+~
+0 -1 10157 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10160
+Il corridoio est~
+
+L'oscuro corridoio prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D2
+
+~
+~
+0 -1 10165 0
+D3
+
+~
+~
+0 -1 10159 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10161
+Il corridoio ovest~
+
+L'oscuro corridoio prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10158 0
+D2
+
+~
+~
+0 -1 10162 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10162
+Il corridoio ovest~
+
+L'oscuro corridoio prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10161 0
+D2
+
+~
+~
+0 -1 10163 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10163
+Il corridoio ovest~
+
+L'oscuro corridoio prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10162 0
+D1
+
+~
+~
+0 -1 10164 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10164
+La fine del corridoio ovest~
+
+Un muro, solo un muro dinanzi a te.
+Forse hai sbaglato strada o ti sei perso.
+O forse no?
+~
+101 0 0
+D3
+
+~
+~
+0 -1 10163 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10165
+Il corridoio est~
+
+L'oscuro corridoio prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10160 0
+D2
+
+~
+~
+0 -1 10166 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10166
+Il corridoio est~
+
+L'oscuro corridoio prosegue ancora, non ti resta che percorrerlo tutto.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10165 0
+D3
+
+~
+~
+0 -1 10167 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10167
+La fine del corridoio est~
+
+Un muro, solo un muro dinanzi a te.
+Forse hai sbaglato strada o ti sei perso.
+O forse no?
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10166 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10168
+Il corridoio continua~
+Il corridoio continua e intravedi una porta e qualche fiaccola in fondo..sembra la base di una torre.
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10157 0
+D2
+
+~
+~
+0 -1 10169 6
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10169
+Il pianerottolo della Torre~
+Sei giunto alla base di una misteriosa torre...non ti resta che rischiare di salire
+~
+101 0 0
+D0
+~
+~
+0 0 10168 0
+D4
+
+~
+Cancello~
+1 -1 10170 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10170
+Su una scala traballante~
+Sei al primo piano della torre.
+Le scale sono malridotte...senti scricchiolare i gradini in legno...forse e' meglio accellerare il passo.
+~
+101 0 0
+D4
+
+~
+~
+0 -1 10171 0
+D5
+
+~
+Cancello~
+1 -1 10169 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10171
+Il secondo piano della Torre~
+Giungi con il fiatone al secondo piano...
+Le pareti della tromba di scale iniziano ad essere decorate...forse ci sei
+~
+101 0 0
+D4
+
+~
+~
+0 -1 10172 0
+D5
+
+~
+~
+0 -1 10170 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10172
+Il terzo piano della Torre~
+Il terzo piano della Torre...
+Una grande vetrata sulla sinistra mostra il tetro panorama...
+La strada sembra non proseguire.
+~
+101 4 0
+D4
+
+~
+Botola~
+1 -1 10177 3
+D5
+
+~
+~
+0 -1 10171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10173
+&RL'atrio nord-ovest&0~
+Sei giunto nell'atrio nord-ovest...
+Decine di quadri sono appesi sulle pareti
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10176 0
+D2
+
+~
+~
+0 -1 10174 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10174
+&RL'atrio ovest&0~
+Sei giunto nell'atrio ovest...
+Decine di quadri sono appesi sulle pareti
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10173 0
+D1
+
+~
+~
+0 -1 10177 0
+D2
+
+~
+~
+0 -1 10175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10175
+&RL'atrio sud-ovest&0~
+Sei giunto nell'atrio sud-ovest...
+Decine di quadri sono appesi sulle pareti
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10174 0
+D1
+
+~
+~
+0 -1 10178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10176
+&RL'atrio nord&0~
+Sei giunto nell'atrio nord...
+Decine di quadri sono appesi sulle pareti
+~
+101 4 0
+D1
+
+~
+~
+0 -1 10179 0
+D2
+
+~
+~
+0 -1 10177 0
+D3
+
+~
+~
+0 -1 10173 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10177
+&RLe stanze private di Lord Valmor&0~
+Sei nelle lussuose stanze di &RLord Valmor&0, signore dei maghi, controllore dei Tempo.
+Le tue gambe iniziano a tremare...
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10176 0
+D1
+
+~
+~
+0 -1 10180 0
+D2
+
+~
+~
+0 -1 10178 0
+D3
+
+~
+~
+0 -1 10174 0
+D5
+
+~
+Botola~
+1 -1 10172 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10178
+&RL'atrio sud&0~
+Sei giunto nell'atrio sud...
+Decine di quadri sono appesi sulle pareti
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10177 0
+D1
+
+~
+~
+0 -1 10181 0
+D3
+
+~
+~
+0 -1 10175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10179
+&RL'atrio nord-est&0~
+Sei giunto nell'atrio nord-est...
+Decine di quadri sono appesi sulle pareti
+~
+101 4 0
+D2
+
+~
+~
+0 -1 10180 0
+D3
+
+~
+~
+0 -1 10176 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10180
+&RL'atrio est&0~
+Sei giunto nell'atrio est...
+Decine di quadri sono appesi sulle pareti
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10179 0
+D2
+
+~
+~
+0 -1 10181 0
+D3
+
+~
+~
+0 -1 10177 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10181
+&RL'atrio sud-est&0~
+Sei giunto nell'atrio sud-est...
+Decine di quadri sono appesi sulle pareti
+~
+101 4 0
+D0
+
+~
+~
+0 -1 10180 0
+D3
+
+~
+~
+0 -1 10178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10182
+La gabbia nord dei pappagalli~
+&G
+      _..._
+     <_.._ `'-.,--,
+      '-._'-._ `\a\\
+          '.___.' (|
+             7    ||
+            /   .' |
+           /_.-'  ,J
+          /         \
+         ||   /      ;
+         ||  |       |  /`\.-.
+         `\  \       |  \_/__/
+           '. \      /.-` .'\
+            /\ `;_.-'_.--'\_/
+            \_;(((_.-;
+          .(((_,;`'.  \
+     .--'`__.'  `\  '-;\
+      .--'        '._.'\\
+                   |  \ |
+                   \_\,_/
+&0
+~
+101 0 0
+D2
+
+~
+~
+0 -1 10135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10183
+La gabbia sud dei pappagalli~
+&R
+                     _..
+                   .' _ `\
+                  /  /e)-,\
+                 /  |  ,_ |
+                /   '-(-.)/       ,
+              .'--.   \  `      .';
+             /    `\   |    _.-' <
+           /`       |  /_.-'_.-'`.\
+         .'        ;  /_ .-'      `
+       .'`-'_     /_.')))
+      / -'_.'---;`'-)))
+     (__.'/   /` .'`
+      (_.'/ /` /`
+        _|.' /`
+     .-` __.'|
+      .-'||  |
+         \_`/&0
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10184
+La gabbia est dei pappagalli~
+
+Sei all'interno di della gabbia dei pappagalli.
+Verso l'alto noti specie di pappagalli mai viste che svolazzano qua e la
+~
+101 0 0
+D3
+
+~
+~
+0 -1 10135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10185
+&RIl corridoio del male&0~
+
+&rQui passeggian i maghi che conoscono la magia &bNera&r, il terrore regna sovrano.&0
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10187 0
+D3
+
+~
+~
+0 -1 10129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10186
+&CIl corridoio del bene&0~
+
+Qui passeggian i maghi che conoscono la magia &WBianca&0, l'armonia regna sovrana.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10188 0
+D1
+
+~
+~
+0 -1 10129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10187
+&RIl corridoio del male&0~
+
+&rQui passeggian i maghi che conoscono la magia &bNera&r, il terrore regna sovrano.&0
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10190 0
+D1
+
+~
+Porta~
+1 -1 10197 3
+D2
+
+~
+~
+0 -1 10185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10188
+&CIl corridoio del bene&0~
+
+Qui passeggian i maghi che conoscono la magia &WBianca&0, l'armonia regna sovrana.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10189 0
+D2
+
+~
+~
+0 -1 10186 0
+D3
+
+~
+Porta~
+1 -1 10196 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10189
+&CIl corridoio del bene&0~
+
+Qui passeggian i maghi che conoscono la magia &WBianca&0, l'armonia regna sovrana.
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10193 0
+D2
+
+~
+~
+0 -1 10188 0
+D3
+
+~
+Porta~
+1 -1 10195 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10190
+&RIl corridoio del male&0~
+
+&rQui passeggian i maghi che conoscono la magia &bNera&r, il terrore regna sovrano.&0
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10191 0
+D1
+
+~
+Porta~
+1 -1 10194 3
+D2
+
+~
+~
+0 -1 10187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10191
+&RIl corridoio del male&0~
+
+&rQui passeggian i maghi che conoscono la magia &bNera&r, il terrore regna sovrano.&0
+~
+101 0 0
+D2
+
+~
+~
+0 -1 10190 0
+D3
+
+~
+~
+0 -1 10192 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10192
+L'incrocio dei corridoi~
+
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10198 0
+D1
+
+~
+~
+0 -1 10191 0
+D3
+
+~
+~
+0 -1 10193 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10193
+&CIl corridoio del bene&0~
+
+Qui passeggian i maghi che conoscono la magia &WBianca&0, l'armonia regna sovrana.
+~
+101 0 0
+D1
+
+~
+~
+0 -1 10192 0
+D2
+
+~
+~
+0 -1 10189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10194
+&VLa stanza di &bAmetista&0~
+
+La stanza del &rNegromante di &bAmetista&0, qui il Negromante attende i suoi discepoli.
+~
+101 0 0
+D3
+
+~
+Porta~
+1 -1 10190 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10195
+&VLa stanza di &BZaffiro&0~
+
+La stanza dell'&wOracolo di &BZaffiro&0, qui l'oracolo attende i suoi discepoli.
+~
+101 0 0
+D1
+
+~
+Porta~
+1 -1 10189 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10196
+&VLa stanza di &WDiamante&0~
+La stanza dell'&wOracolo di &WDiamante&0, qui l'oracolo attende i suoi discepoli.
+~
+101 0 0
+D1
+
+~
+Porta~
+1 -1 10188 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10197
+&VLa stanza di &RRubino&0~
+
+La stanza della &rDemonia di &RRubino&0, qui la Demonia attende i suoi discepoli.
+~
+101 0 0
+D3
+
+~
+Porta~
+1 -1 10187 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10198
+&WLa sala di attesa&0~
+
+~
+101 0 0
+D0
+
+~
+~
+0 -1 10199 0
+D2
+
+~
+~
+0 -1 10192 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10199
+&RLa sala del sovraintendente di Magia&0~
+
+~
+101 0 0
+D0
+Un'immenso specchio intarsiato di &Goro&0 e &Rgemme&0
+~
+Specchio~
+0 0 10222 2
+D2
+
+~
+~
+0 -1 10198 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~
+

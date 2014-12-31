@@ -1,0 +1,1878 @@
+#15000
+La Strada del Re~
+   Sei all'inizio della Strada del Re. La strada e' abbastanza larga
+perche' possano passare affiancati molti cavalli.
+Le pietre che pavimentano la strada sono state messe con tale abilita'
+che la strada e' perfettamente liscia e diritta.
+Vedi una piccola pista a sud attraverso la vegetazione.
+Un viaggiatore passa e ti saluta amichevolmente.
+~
+150 4 1
+D1
+La Strada del Re continua diritta ad est verso un grande castello.
+~
+~
+0 -1 15001 0
+D2
+Una pista seminascosta dalla vegetazione porta a sud.
+~
+~
+0 -1 15061 0
+D3
+Un sentiero.
+~
+~
+0 -1 381 0
+E
+viaggiatore~
+Il viaggiatore ti sorride amichevolmente e ti dice "ciao" quando ti
+saluta, ma continua sulla sua via.
+Il viaggiatore e' in condizioni eccellenti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15001
+La Strada del Re~
+   Sei al centro della grande Strada del Re. La strada e' molto ben
+costruita, e va dritta in direzione est-ovest.
+~
+150 0 1
+D1
+La Strada del Re continua diritta ad est.
+~
+~
+0 -1 15002 0
+D3
+Vedi che la Strada del Re continua ad ovest verso una grande citta'.
+~
+~
+0 -1 15000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15002
+La Strada del Re~
+   Sta in piedi sulla Strada del Re, che porta ad est e ad ovest.
+L'abilita' dei costruttori e' evidente, la strada non ha nessuna
+asperita'.
+~
+150 0 1
+D1
+Vedi un castello lontano ad est.
+~
+~
+0 -1 15003 0
+D3
+La Strada del Re continua diritta ad ovest.
+~
+~
+0 -1 15001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15003
+Sulla Strada del Re fuori da un castello~
+   Sei sulla Strada del Re. Davanti a te c'e' un grande Castello,
+evidentemente costruito non tanto da resistere ad assedi, ma solo
+per l'immagine: e' molto bello.
+Non e' totalmente senza difese, e' circondato da un fossato profondo
+e le sue finestre sono fenditure strette da cui gli arcieri possono
+lanciare le loro frecce. A nord c'e' un ponte levatoio che attraversa
+il fossato.
+~
+150 0 1
+D0
+Vedi il ponte levatoio.
+~
+~
+0 -1 15004 0
+D3
+La Strada del Re continua diritta ad ovest.
+~
+~
+0 -1 1537504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15004
+Sul ponte levatoio~
+   Sei arrivato sul ponte levatoio del Castello. Davanti a te c'e'
+un enorme cancello a doppie porte. Sembra molto robusto. Vedi dei
+vortici nel fossato.
+~
+150 4 1
+D0
+Il cancello ha enormi ed intricati cardini intagliati. Come il Castello
+stesso, sembra disegnato non solo per resistere agli assalti, ma anche
+e soprattutto come decorazione.
+~
+porta cancellata~
+1 -1 15007 3
+D2
+Vedi la Strada del Re.
+~
+~
+0 -1 1546490 0
+E
+vortici vortice fossato~
+Non puoi vedere molto, ma sembra che qualche cosa sotto la superficie
+crei dei vortici.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15005
+La cucina~
+   Sei nella cucina. Molti aiutanti si affrettano ad aiutare il Capo
+Cuoco, e c'e' un odore meraviglioso che ti mette una gran fame.
+Tutto intorno alla stanza ci sono mensole con diversi generi alimentari
+accatastati. C'e' un'uscita a nord ed una ad est; entrambe portano verso
+piccoli passaggi.
+~
+150 8 0
+D0
+Vedi un piccolo passaggio scarsamente illuminato.
+~
+~
+0 -1 15010 0
+D1
+Vedi un piccolo passaggio scarsamente illuminato.
+~
+~
+0 -1 15006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15006
+Un piccolo passaggio~
+   Sei in un piccolo passaggio, che e' usato chiaramente soprattutto
+dai servitori del castello. E' solo scarsamente illuminato e piuttosto
+stretto.
+Il passaggio conduce verso ovest, ad est c'e' una piccola porta.
+~
+150 8 0
+D1
+La porta e' piccola e non interessante.
+~
+porta piccola~
+1 -1 15007 3
+D3
+Senti rumore di pentole, e odore di carne cotta.
+~
+~
+0 -1 15005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15007
+La sala d'ingresso~
+   Sei nell'impressionante sala d'ingresso del castello.
+A nord c'e' un'uscita che porta nella Grande Sala. C'e' anche un'uscita
+ad est ed una piccola porta piccola ad ovest.
+~
+150 8 0
+D0
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15012 0
+D1
+Ad est sembra esserci una piccola stanza per le guardie.
+~
+~
+0 -1 15008 0
+D2
+A sud c'e' un cancello, che porta al ponte levatoio.
+~
+cancellata~
+1 -1 15004 3
+D3
+La porta e' piccola e non interessante.
+~
+porta piccola~
+1 -1 15006 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15008
+La stanza delle guardie~
+   Sei in una stanza piccola, evidentemente significa che le guardie
+attualmente non fanno il proprio dovere. C'e' una sola uscita che torna
+alla sala d'ingresso.
+~
+150 8 0
+D3
+vedi l'entrata del Castello.
+~
+~
+0 -1 15007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15009
+Sotto la torre~
+   Sei sotto una delle tre possenti torri del castello. Non c'e' nessuna
+guardia qui, e supponi che questa parte del Castello non e' usata.
+Ci sono dei gradini che portano alla torre, e c'e' anche un'uscita a nord.
+~
+150 12 0
+D0
+Vedi un piccolo passaggio scarsamente illuminato.
+~
+~
+0 -1 15014 0
+D4
+I gradini sono vecchi, ma in buono stato. Conducono su nella torre.
+~
+~
+0 -1 15034 0
+E
+gradini~
+I gradini sono vecchi, ma in buono stato. Conducono su nella torre.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15010
+Un piccolo passaggio~
+   Sei in un piccolo passaggio, che e' usato chiaramente soprattutto
+dai servitori del castello. Il passaggio conduce a nord e a sud.
+~
+150 8 0
+D0
+Vedi un piccolo passaggio scarsamente illuminato.
+~
+~
+0 -1 15015 0
+D2
+Senti rumore di pentole, e odore di carne cotta.
+~
+~
+0 -1 15005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15011
+La Grande Sala~
+   Sei nella parte sud-ovest della Sala Grande. Essa e' veramente enorme;
+il soffitto e' cosi' in alto che sembra non piu' vicino delle nubi. E' stato
+dipinto meravigliosamente da qualcuno che doveva essere un vero artista.
+La sala e' molto grande, e potrebbero starci diverse centinaia di persone
+per un banchetto.
+~
+150 8 0
+D0
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15016 0
+D1
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15012 0
+E
+soffitto dipinti dipinto~
+I dipinti sul soffitto ritraggono grandi eroi e Dei. Uno degli Dei ha una
+pancia immensa ed e' incredibilmente peloso, con una massiccia
+barba. Anche fra loro ci sono grandi malvagi, come la Dea cattiva
+Yochlol ed il potente Mago malvagio Tharoecon.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15012
+La Grande Sala~
+   Sei nella parte sud-ovest della Sala Grande. Essa e' veramente enorme;
+il soffitto e' cosi' in alto che sembra non piu' vicino delle nubi. E' stato
+dipinto meravigliosamente da qualcuno che doveva essere un vero artista.
+A nord vedi il grande trono di Re Welmar e a sud c'e' l'ingresso del
+castello.
+~
+150 8 0
+D0
+Vedi la parte della sala dove c'e' il trono.
+~
+~
+0 -1 15017 0
+D1
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15013 0
+D2
+Vedi l'entrata del castello.
+~
+~
+0 -1 15007 0
+D3
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15011 0
+E
+soffitto dipinti dipinto~
+I dipinti sul soffitto ritraggono grandi eroi e Dei. Uno degli Dei ha una
+pancia immensa ed e' incredibilmente peloso, con una massiccia
+barba. Anche fra loro ci sono grandi malvagi, come la Dea cattiva
+Yochlol ed il potente Mago malvagio Tharoecon.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15013
+La Grande Sala~
+   Sei nella parte sud-ovest della Sala Grande. Essa e' veramente enorme;
+il soffitto e' cosi' in alto che sembra non piu' vicino delle nubi. E' stato
+dipinto meravigliosamente da qualcuno che doveva essere un vero artista.
+La sala e' molto grande, e potrebbero starci diverse centinaia di persone
+per un banchetto.
+~
+150 8 0
+D0
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15018 0
+D3
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15012 0
+E
+soffitto dipinti dipinto~
+I dipinti sul soffitto ritraggono grandi eroi e Dei. Uno degli Dei ha una
+pancia immensa ed e' incredibilmente peloso, con una massiccia
+barba. Anche fra loro ci sono grandi malvagi, come la Dea cattiva
+Yochlol ed il potente Mago malvagio Tharoecon.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15014
+Un passaggio~
+   Sei in un passaggio che porta a nord e a sud. A sud porta verso una torre.
+~
+150 8 0
+D0
+Vedi che il piccolo passaggio continua.
+~
+~
+0 -1 15019 0
+D2
+~
+~
+0 -1 15009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15015
+Un passaggio~
+   Sei in un passaggio che porta a nord e a sud. Ad est c'e' un'uscita per
+la Grande Sala.
+~
+150 8 0
+D0
+Vedi che il passaggio continua.
+~
+~
+0 -1 15020 0
+D1
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15016 0
+D2
+Vedi che il passaggio continua.
+~
+~
+0 -1 15010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15016
+La Grande Sala~
+   Sei nella parte sud-ovest della Sala Grande. Essa e' veramente enorme;
+il soffitto e' cosi' in alto che sembra non piu' vicino delle nubi. E' stato
+dipinto meravigliosamente da qualcuno che doveva essere un vero artista.
+Ad est vedi il grande trono di Re Welmar e ad ovest c'e' un passaggio.
+~
+150 8 0
+D1
+Vedi la parte della sala dove c'e' il trono.
+~
+~
+0 -1 15017 0
+D2
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15011 0
+D3
+Vedi un passaggio.
+~
+~
+0 -1 15015 0
+E
+soffitto dipinti dipinto~
+I dipinti sul soffitto ritraggono grandi eroi e Dei. Uno degli Dei ha una
+pancia immensa ed e' incredibilmente peloso, con una massiccia
+barba. Anche fra loro ci sono grandi malvagi, come la Dea cattiva
+Yochlol ed il potente Mago malvagio Tharoecon.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15017
+Il Trono nella Grande Sala~
+   Sei vicino all'enorme trono d'avorio del Re. Il trono e', come del resto
+la Grande Sala, un capolavoro.  E' meravigliosamente intagliato ed e'
+ricavato da un blocco singolo d'avorio; rabbrividisci pensando al tipo
+di animale che e' servito per produrre un pezzo di tale grandezza. La
+Sala continua ad est, ovest e sud.
+~
+150 8 0
+D1
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15018 0
+D2
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15012 0
+D3
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15016 0
+E
+trono avorio~
+E' grande e molto bello. Gli intagli sono principalmente di animali e di
+bestie magiche.
+~
+E
+soffitto dipinti dipinto~
+I dipinti sul soffitto ritraggono grandi eroi e Dei. Uno degli Dei ha una
+pancia immensa ed e' incredibilmente peloso, con una massiccia
+barba. Anche fra loro ci sono grandi malvagi, come la Dea cattiva
+Yochlol ed il potente Mago malvagio Tharoecon.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15018
+La Grande Sala~
+   Sei nella parte sud-ovest della Sala Grande. Essa e' veramente enorme;
+il soffitto e' cosi' in alto che sembra non piu' vicino delle nubi. E' stato
+dipinto meravigliosamente da qualcuno che doveva essere un vero artista.
+Ad ovest vedi il grande trono di Re Welmar e ad est c'e' un piccolo
+passaggio.
+~
+150 8 0
+D1
+Vedi un passaggio.
+~
+~
+0 -1 15019 0
+D2
+Vedi la Grande Sala del Re.
+~
+~
+0 -1 15013 0
+D3
+Vedi la parte della sala dove c'e' il trono.
+~
+~
+0 -1 15017 0
+E
+soffitto dipinti dipinto~
+I dipinti sul soffitto ritraggono grandi eroi e Dei. Uno degli Dei ha una
+pancia immensa ed e' incredibilmente peloso, con una massiccia
+barba. Anche fra loro ci sono grandi malvagi, come la Dea cattiva
+Yochlol ed il potente Mago malvagio Tharoecon.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15019
+Il piccolo passaggio~
+   Sei in un piccolo passaggio, che porta a nord e a sud.
+Ad ovest c'e' un'uscita nella Grande Sala.
+~
+150 8 0
+D0
+Il passaggio continua a nord.
+~
+~
+0 -1 15024 0
+D2
+Il passaggio continua a sud.
+~
+~
+0 -1 15014 0
+D3
+Ad ovest vedi la Grande Sala.
+~
+~
+0 -1 15018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15020
+Il Passaggio~
+   Sei in un passaggio che porta a nord e a sud. C'e' una porta d est.
+~
+150 8 0
+D0
+Il passaggio conduce a una scala.
+~
+~
+0 -1 15025 0
+D1
+La porta e' piuttosto piccola e non appariscente.
+~
+porta~
+1 -1 15021 3
+D2
+Il passaggio continua a sud.
+~
+~
+0 -1 15015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15021
+Il corridoio dei servitori~
+   Sei in un corridoio, che porta lontano verso est. Ci sono porte
+a nord e ad ovest. Il corridoio e' principalmente usato dai servitori
+e mancano alcune delle bellezze del resto del castello.
+~
+150 8 0
+D0
+C'e' una porta qui!
+~
+porta~
+1 -1 15026 3
+D1
+Il corridoio continua ad est.
+~
+~
+0 -1 15022 0
+D3
+La porta ad ovest e' fatta di legno.
+~
+porta legno~
+1 -1 15020 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15022
+La fine del corridoio dei servitori~
+   Il corridoio conduce solo ad ovest da qui, ma c'e' una porta a
+nord.
+~
+150 8 0
+D0
+La porta conduce nella stanza del maggiordomo.
+~
+porta~
+1 15009 15027 7
+D3
+Vedi che il corridoio continua.
+~
+~
+0 -1 15021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15023
+La stanza d'allenamento~
+   Questa e' la stanza d'allenamento degli uomini delle guardie del
+Castello. E' molto grande, con arme che riposano su intelaiature su
+tutti i muri. La maggior parte delle arme sembrano per solo addestramento,
+ma alcune potrebbero tornare utili per un vero combattimento. C'e' una
+porta a nord.
+~
+150 8 0
+D0
+La porta e' grande e pesante.
+~
+porta grande pesante~
+1 -1 15028 3
+D1
+Vedi un piccolo passaggio.
+~
+~
+0 -1 15024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15024
+Il piccolo passaggio~
+   Sei in un piccolo passaggio che porta a nord e a sud. C'e' anche una
+uscita ad ovest, dalla quale provengono grugniti, risa e colpi pesanti.
+~
+150 8 0
+D0
+Il passaggio conduce a nord verso alcuni gradini.
+~
+~
+0 -1 15029 0
+D2
+Vedi continuare il passaggio.
+~
+~
+0 -1 15019 0
+D3
+Vedi la stanza d'allenamento.
+~
+~
+0 -1 15023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15025
+La scala~
+   Sei sotto una grande scala, che porta al primo piano del Castello.
+I gradini sono di marmo, e ci sono colonne intagliate con immagini di
+piccoli animali che corrono su e giu' per i tronchi degli alberi.
+~
+150 8 0
+D2
+Vedi il passaggio.
+~
+~
+0 -1 15020 0
+D4
+La scala porta al primo piano.
+~
+~
+0 -1 15049 0
+E
+colonna colonne alberi animali~
+Molto belli. Scoiattoli e piccoli uccelli soprattutto.
+~
+E
+gradino gradini~
+Fatti di marmo, e come tutto il resto del Castello sono belli e fatti bene.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15026
+L'alloggio dei servitori~
+   Sei in una stanza grande, che sembra ospitare molti dei servitori.
+La stanza e' piena di comodi letti. C'e' anche un grande cassettone,
+probabilmente contiene alcune delle cose delle servitori.
+~
+150 8 0
+D2
+La porta e' fatta di legno.
+~
+porta legno~
+1 -1 15021 3
+E
+letto letti~
+I letti sono comodi, malgrado il fatto che questo e' solo il luogo dei
+servitori.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15027
+L'alloggio del Maggiordomo~
+   Vedi subito che questa deve essere la stanza della maggiordomo, e'
+nell'ala della servitu' ed e' anche grande e comoda; quasi lussuosa,
+infatti. Ci sono un letto grande ed un cassettone nella stanza.
+La sola uscita e' la porta a sud.
+~
+150 8 0
+D2
+Vedi il corridoio.
+~
+porta~
+1 15009 15022 7
+E
+letto~
+Sembra molto confortevole.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15028
+La Caserma delle Guardie~
+   Sei in una stanza molto grande con brande dappertutto. E' ovvio che
+questo e' il luogo dove le guardie fuori servizio passano la maggior parte
+del loro tempo bevendo e giocando d'azzardo o, probabilmente, dormono.
+~
+150 8 0
+D2
+La porta e' grande e pesante.
+~
+porta grande pesante~
+1 -1 15023 3
+E
+branda brande~
+Sembrano un po' dure, ma ci potresti dormire benissimo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15029
+I gradini~
+   Sei nel punto dove la scala porta in basso. Come guardi giu',
+osservi che per la prima volta da quando sei entrato nel castello,
+gli oggetti non sono fatti per l'estetica. Invece sembrano piu'
+funzionali, come per una prigione.
+~
+150 8 0
+D2
+Vedi il piccolo passaggio.
+~
+~
+0 -1 15024 0
+D5
+I gradini portano verso l'oscurita'.
+~
+~
+0 -1 15055 0
+E
+gradino gradini scala~
+Sembrano essere fatti di granito, e portano in basso in una zona
+scarsamente illuminata.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15030
+Una curva nel corridoio~
+   Sei in un punto dove il corridoio curva da est a nord.
+~
+150 8 0
+D0
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15035 0
+D1
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15031
+Il corridoio~
+   Sei in un corridoio lungo, decorato con tappezzerie e dipinti
+dei vecchi tempi e di vecchi eroi. Conduce ad est e ad ovest.
+~
+150 8 0
+D1
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15032 0
+D3
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15032
+Il corridoio~
+   Sei in un corridoio lungo, decorato con tappezzerie e dipinti
+dei vecchi tempi e di vecchi eroi. Conduce ad est e ad ovest.
+~
+150 8 0
+D1
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15033 0
+D3
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15033
+Il corridoio~
+   Sei in un corridoio lungo, decorato con tappezzerie e dipinti
+dei vecchi tempi e di vecchi eroi. Conduce ad ovest e a nord vedi
+la lussuosa ala per gli ospiti.
+~
+150 8 0
+D0
+Vedi l'ala degli ospiti.
+~
+~
+0 -1 15038 0
+D3
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15034
+Nella torre di sud-est~
+   Questa parte della torre non e' molto interessante, ma conduce piu'
+lontano in alto...
+~
+150 8 0
+D4
+La stanza sulla cima della torre sembra buia per qualche ragione.
+~
+~
+0 -1 15052 0
+D5
+Vedi i gradini in fondo alla torre.
+~
+~
+0 -1 15009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15035
+Il corridoio~
+   Sei in un corridoio lungo, decorato con tappezzerie e dipinti
+dei vecchi tempi e di vecchi eroi. Conduce a nord e a sud. C'e' anche
+un'uscita ad est.
+~
+150 8 0
+D0
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15040 0
+D1
+Vedi una piccola stanza.
+~
+~
+0 -1 15036 0
+D2
+Vedi che il corridoio prosegue.
+~
+~
+0 -1 15030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15036
+Per la sala del tesoro~
+   Sei davanti ad una grande porta di ferro. La porta e' molto grande, e
+sembra molto solida davvero. C'e' un cartello affisso su di lei.
+~
+150 8 0
+D1
+Vedi una grande porta di metallo.
+~
+porta grande metallo~
+2 15007 15037 15
+D3
+Vedi il corridoio.
+~
+~
+0 -1 15035 0
+E
+cartello~
+
+            SALA DEL TESORO
+
+   Solo personale autorizzato - Vietato l'accesso agli estranei
+   OGNI infrazione sara' SEVERAMENTE punita!!
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15037
+Il gran tesoro~
+   Come entri in questa stanza, sei stupito dalla ricchezza che e'
+stivata qui; non tanto oro, ma dipinti, tappezzerie, intagli abili e
+sculture in tutta la stanza enorme. Realizzi, comunque, che la maggior
+parte di queste cose sono troppo ben conosciute per essere vendute ovunque,
+senza marchiarti come ladro, e saresti condannato a morte immediata per
+mano della Guardia Reale.
+~
+150 8 0
+D3
+Vedi una grande porta di metallo.
+~
+porta grande metallo~
+2 15007 15036 15
+E
+intaglio intagli dipinto dipinti sculture tappezzerie~
+Sembra che siano immagazzinate qui temporaneamente per permettere
+il cambio delle decorazioni nel Castello.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15038
+L'ala degli ospiti~
+   Sei arrivato nella parte del Castello che e' principalmente
+usata per alloggiare gli ospiti. Ad est c'e' una grande porta
+decorata, una piu' piccola porta a nord.
+~
+150 8 0
+D0
+La porta sembra dare accesso alla stanza degli ospiti.
+~
+porta piccola~
+1 -1 15043 3
+D1
+Vedi l'appartamento degli ospiti dietro alla porta decorata.
+~
+porta decorata~
+1 -1 15039 3
+D2
+Vedi il corridoio.
+~
+~
+0 -1 15033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15039
+L'appartamento degli ospiti~
+   Questo e' il luogo dove alloggiano solo gli ospiti di maggior riguardo,
+e' cosi' lussuoso da risvegliare la tua piu' fervida fantasia.
+Questa e' solo la stanza di soggiorno dell'appartamento ma e' enorme e
+decorata. Tutti i mobili non sono solo belli, ma anche confortevoli.
+A nord, c'e' un'uscita per la camera da letto, e c'e' una porta ad ovest.
+~
+150 8 0
+D0
+Vedi la stanza da letto.
+~
+~
+0 -1 15044 0
+D3
+Dietro la porta vedi l'ingresso all'ala degli ospiti.
+~
+porta~
+1 -1 15038 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15040
+Il corridoio~
+   Sei in un corridoio lungo, decorato con tappezzerie e dipinti
+dei vecchi tempi e di vecchi eroi. Conduce a nord e a sud.
+~
+150 8 0
+D0
+Vedi che il corridoio continua.
+~
+~
+0 -1 15045 0
+D2
+Vedi che il corridoio continua.
+~
+~
+0 -1 15035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15041
+La sala da ballo~
+   Sei nella grande sala da ballo. E' una stanza veramente grande,
+con un palcoscenico per un'orchestra a sud-est.
+~
+150 8 0
+D0
+Vedi la sala da ballo.
+~
+~
+0 -1 15046 0
+D1
+Ad est vedi il palcoscenico.
+~
+~
+0 -1 15042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15042
+Il palcoscenico~
+   Davanti a te c'e' il palcoscenico. E' grande abbastanza perche'
+40 musicisti possano suonare nello stesso tempo. La sala da ballo
+continua ad ovest e a nord.
+~
+150 8 0
+D0
+Vedi il palcoscenico.
+~
+~
+0 -1 15047 0
+D3
+Vedi il palcoscenico.
+~
+~
+0 -1 15041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15043
+Una sala degli ospiti~
+   Sei in una stanza grande. Benche' sia abbastanza comoda, puoi dire
+che non sia usata dagli ospiti piu' illustri dal fatto che manca quel
+lusso estremo che trovi nel resto del castello.
+~
+150 8 0
+D2
+Dietro alla porta vedi l'ingresso all'ala degli ospiti.
+~
+porta~
+1 -1 15038 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15044
+La camera da letto~
+   Questa stanza e' dominata dall'enorme letto a quattro posti, che
+e' contro il muro settentrionale. La stanza e' grande ed accogliente
+ed il letto virtualmente ti implora di sdraiarti ed addormentarti.
+~
+150 8 0
+D2
+Vedi la sala di soggiorno dell'appartamento.
+~
+~
+0 -1 15039 0
+E
+letto~
+Grande, comodo, sostenuto. Ti invita a dormire.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15045
+Il corridoio~
+   Sei in un corridoio lungo, decorato con tappezzerie e dipinti
+dei vecchi tempi e di vecchi eroi. Conduce a nord e a sud. C'e'
+un'uscita ad est che porta in una grande stanza.
+~
+150 8 0
+D0
+Vedi che il corridoio continua.
+~
+~
+0 -1 15049 0
+D1
+Vedi la sala da ballo.
+~
+~
+0 -1 15046 0
+D2
+Vedi che il corridoio continua.
+~
+~
+0 -1 15040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15046
+La sala da ballo~
+   Sei nella grande sala da ballo. E' una stanza veramente grande,
+con un palcoscenico per un'orchestra a sud-est.
+~
+150 8 0
+D1
+Vedi la sala da ballo.
+~
+~
+0 -1 15047 0
+D2
+Vedi la sala da ballo.
+~
+~
+0 -1 15041 0
+D3
+Vedi il corridoio.
+~
+~
+0 -1 15045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15047
+La sala da ballo~
+   Sei nella grande sala da ballo. E' una stanza veramente grande,
+con un palcoscenico per un'orchestra a sud-est.
+~
+150 8 0
+D1
+Ad est, puoi entrare in una torre.
+~
+~
+0 -1 15048 0
+D2
+A sud vedi il palcoscenico.
+~
+~
+0 -1 15042 0
+D3
+Vedi la sala da ballo.
+~
+~
+0 -1 15046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15048
+Nella Torre~
+   Sei nella nord-orientale delle tre grandi torri del castello.
+Ad ovest puoi entrare nella sala da ballo mentre dei gradini portano
+in alto nella Torre.
+~
+150 8 0
+D3
+Vedi la sala da ballo.
+~
+~
+0 -1 15047 0
+D4
+I gradini conducono per una lunga via fino alla cima della Torre.
+~
+~
+0 -1 15054 0
+E
+gradini~
+I gradini sono di granito e sembrano abbastanza solidi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15049
+La grande scala~
+   Sei su una scala grande, che porta in alto ed in basso. Ad est
+c'e' una grande porta di quercia, un corridoio conduce a sud.
+~
+150 8 0
+D1
+La porta e' grande e fatta di quercia.
+~
+porta grande quercia~
+1 15014 15050 7
+D2
+Vedi il corridoio.
+~
+~
+0 -1 15045 0
+D4
+I gradini continuano a salire verso la cima della torre.
+~
+~
+0 -1 15053 0
+D5
+I gradini conducono giu' al primo piano del castello.
+~
+~
+0 -1 15025 0
+E
+gradini~
+I gradini sono di marmo, e ci sono colonne intagliate con immagini di
+piccoli animali che corrono su e giu' per i tronchi degli alberi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15050
+La stanza accogliente~
+   Sei entrato in un grande, accogliente soggiorno. C'e' un focolare
+con un fuoco che brucia, ed alcune sedie comode intorno ad una piccola
+tavola. C'e' una porta ad ovest, ed anche un'uscita ad est.
+~
+150 8 0
+D1
+Vedi la grande stanza da letto.
+~
+~
+0 -1 15051 0
+D3
+La porta e' grande e di quercia.
+~
+porta grande quercia~
+1 15014 15049 7
+E
+sedia sedie~
+Le sedie sono sistemate attorno al focolare.
+~
+E
+tavola~
+La tavola e' di mogano, elegante in modo accogliente (!)
+~
+E
+fuoco focolare~
+Il fuoco e' alimentato di tronchi, e sembra potere bruciare per
+sempre.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15051
+la Camera da letto di Re Welmar~
+   Questa e' una stanza grande, con una vista meravigliosa. In un lato
+della stanza, c'e' un grande letto a quattro posti. Tutto intorno alla
+stanza ci sono scaffali massicci, ripieni di tutti generi di libri.
+I titoli includono lavori come: "Un Trattato sulla Storia di Deira
+e aree circostanti, "Magic - Introduzione per principianti" e molti
+altri. C'e' un'uscita ad ovest.
+~
+150 8 0
+D3
+C'e' una stanza grande ed accogliente ad ovest.
+~
+~
+0 -1 15050 0
+E
+magic~
+Principiante? Questo libro va oltre la maggior parte di quello che
+conosci di magico. Ma allora, ci sono diversi livelli di conoscenza
+magica, sembra.
+~
+E
+storia deira~
+Un tomo pesante, pieno di conoscenza.
+~
+E
+letto~
+Sembra bello abbastanza da dormirci, sebbene nessuno oserebbe mai,
+e' il letto Reale!
+~
+E
+libri mensola libro archivi scaffali scaffale~
+La maggior parte dei libri sembrano sciupati, come completamente
+studiati. Il Re evidentemente e' interessato a mantenersi colto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15052
+Su nella torre~
+   Dopo che una lunga arrampicata, finalmente raggiunge la cima della
+torre. Questa stanza e' piccola, e la sola fonte di luce e' una candela
+tremolante su un'ingombra tavola, al centro della stanza. La sola uscita
+e' giu' per i gradini.
+~
+150 8 0
+D5
+I gradini scendono giu' per la torre.
+~
+~
+0 -1 15034 0
+E
+candela~
+Piccola, non interessante... Una candela normalissima.
+~
+E
+tavola~
+Sulla tavola ci sono oggetti vari, tutto sembrano proprio strani.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15053
+La cima della torre~
+   Sei arrivato sulla cima della torre. Questa torre non e' molto
+interessante, e sembra fatta puramente per ragioni di difesa e
+protezione. Le finestre sono fenditure per arcieri, molto strette sul
+lato esterno e piu' largo all'interno per permettere un angolo di
+tiro piu' grande.
+La sola uscita e' di nuovo giu' per i gradini.
+~
+150 8 0
+D5
+I gradini vanno giu' al primo piano.
+~
+~
+0 -1 15049 0
+E
+fenditura finestra~
+Quando guardi fuori dalle finestre, hai una vista della campagna.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15054
+La cima della torre~
+   Questa e' la piu' alta di tutte le torri, ed e' usata evidentemente
+per scopi di guardia. La vista e' splendida in tutte e quattro le
+direzioni. Tutto intorno a te, la ricca campagna si estende all'orizzonte.
+A nord e ad est vedi un'enorme montagna, e lontano ad ovest un bel lago.
+Un po' piu' vicino, la citta' di Deira e' alla fine della Strada del Re.
+La sola uscita e' di nuovo giu' per i gradini.
+~
+150 8 0
+D0
+A nord ci sono le alte Montagne Bianche con i loro picchi piu' alti.
+La cima scompare nelle nubi bianche, lontano oltre le pianure.
+La vista di quelle alte, lontano montagne ti riempire del desiderio
+di scalarle, vedere il mondo da quel punto vantaggioso.
+~
+~
+0 -1 -1 0
+D1
+Ad est vedi una parte delle montagne che dominano questo continente,
+le Montagne Bianche. Sebbene non tanto alte quanto quelle a nord,
+la vista di quelle montagne ti riempie di timore riverenziale.
+~
+~
+0 -1 -1 0
+D2
+A sud ci sono le colline, lontane quanto puoi vedere.
+~
+~
+0 -1 -1 0
+D3
+Quando guardi ad ovest, vedi un fiume che scorre attraverso tutta Deira
+e continua oltre verso un grande lago. Dopo che ne e' uscito, si getta
+in qualche cosa d'argenteo che deve essere il mare.
+~
+~
+0 -1 -1 0
+D5
+Vedi i gradini che tornano giu' al primo piano.
+~
+~
+0 -1 15048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15055
+La fine dei gradini~
+   I gradini conducono giu' in una parte umida del castello, puoi sentire
+sgocciolare dell'acqua da qualche luogo vicino a te. L'area e' illuminata
+da una singola torcia tremolante nella stanza.
+   I gradini conducono verso l'alto e ad est c'e' una piccola stanza.
+~
+150 8 0
+D1
+Una stanza piccola si apre ad est.
+~
+~
+0 -1 15056 0
+D4
+I gradini conducono verso l'alto, fuori da questo luogo umido, scuro.
+~
+~
+0 -1 15029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15056
+La stanza delle guardie~
+   Ti stai chiedendo perche' qualcuno vuole passare tutto il giorno
+quaggiu'. La sola spiegazione logica e' che ci deve essere un prigioniero
+importante tenuto in una delle celle che si vedono dalla porta a sud.
+L'arredo della stanza e' scarso, soltanto una tavola, una sedia ed un
+mazzo di carte. Una scala e' stato costruita nella parete occidentale
+e conduce verso l'alto.
+~
+150 8 0
+D2
+Attraverso il buco della serratura della piccola porta piccola di legno
+puoi vedere quello che e' un piccolo corridoio che conduce a molte celle.
+~
+porta legno~
+1 15017 15057 7
+D3
+Una piccola scala costruita nella parete occidentale della stanza conduce
+verso l'alto.
+~
+~
+0 -1 15055 0
+E
+carta pavimento~
+La carta sul pavimento sembra essere l'Asso di Spade... una brutta
+carta davvero da trovare. Quale potrebbe essere la sfortuna che ha
+causato questa scoperta?
+~
+E
+tavolo mazzo di carte~
+C'e' un mazzo di carte sulla tavola. Una carta e' sul pavimento.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15057
+La prigione~
+   Questo piccolo passaggio e' lungo circa trenta piedi bramano ed e'
+ben illuminato da torce su tutti i muri. Le torce sono state chiuse
+a chiave in piccole gabbie di metallo per essere sicuri che non siano
+rimosse. La cosa piu' strana delle torce comunque, e' il modo di come
+bruciano, hanno quello che sembra essere una fiamma costante, e non c'e'
+alcun fumo. Forse sono state incantate per bruciare in eterno...
+Ci sono tre celle lungo questo passaggio, una su ciascuno lato del
+corridoio, proprio vicino alla fine nord ed una isolata alla fine sud
+del corridoio con una piccola placca di metallo sistemata sopra la porta
+nella pietra di volta.
+~
+150 8 0
+D0
+Una piccola porta di legno blocca porta fuori della prigione.
+~
+porta legno~
+1 15017 15056 7
+D1
+Una porta della cella e' nella parete orientale.
+~
+porta cella~
+2 15017 15060 15
+D2
+La porta della cella a sud e' stata chiusa con due lucchetti e c'e' una
+placca nella pietra di volta sopra la porta.
+~
+porta cella~
+2 15017 15059 15
+D3
+Una porta della cella e' nella parete occidentale.
+~
+porta cella~
+2 15017 15058 15
+E
+pietra di volta placca~
+La placca e' incisa con quattro parole semplici:
+
+                Ergan, Assassino di Townsbridge
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15058
+Una cella~
+   Questa cella e' un macello. C'e' un piccolo buco nella
+parete occidentale da dove qualche cosa e' entrato e ha rotto
+le pietre nella cella. C'e' una porta nella parete orientale.
+~
+150 8 0
+D1
+La porta ad est riporta nell'atrio della prigione.
+~
+porta cella~
+2 15017 15057 15
+E
+buco~
+Il buco e' troppo piccolo perche' tu possa passarci attraverso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15059
+La cella di Ergan~
+   Questa grande cella e' abbastanza simile ad un alloggio, con una branda
+in un angolo che serve da letto, una piccola tavola costruita nel muro
+in un altro angolo. C'e' un tappeto nel centro del pavimento. Sembra che
+il prigioniero tenuto qui sia trattato piuttosto bene, quasi troppo bene
+per un assassino di una intera citta'.
+~
+150 8 0
+D0
+La porta a nord riporta nell'atrio della prigione.
+~
+porta cella~
+2 15017 15057 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15060
+Una cella~
+   Questa piccola cella e' umida e scura e sembra che nessuno e niente
+abbia vissuto qui da molto tempo. Una piccola porta e' nella parete ovest.
+~
+150 8 0
+D3
+La porta ad ovest riporta nell'atrio della prigione.
+~
+porta cella~
+2 15017 15057 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15061
+Una pista nel sottobosco~
+   Lasciando la Strada del Re, ti trovi su una piccola evanescente
+pista che e' stata cosi' poco usata che e' quasi completamente
+ricoperta dalla vegetazione. I rumori della foresta possono essere
+sentiti dappertutto ed un sentimento di pace ti pervade quando
+comprendi che l'umanita' non ha calpestato questo territorio da
+molto tempo.
+La pista pare condurre a nord e a sud.
+~
+150 0 4
+D0
+La Strada del re e' a nord.
+~
+~
+0 -1 15000 0
+D2
+La pista continua verso sud.
+~
+~
+0 -1 15062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15062
+Una pista nel sottobosco~
+   Continuando attraverso il sottobosco, ti trovi al centro della
+foresta. I rumori della foresta si sentono dappertutto.
+La pista sulla quale ti trovi e' stata cosi' poco usata che e'
+quasi completamente ricoperta dalla vegetazione.
+La pista pare condurre a nord e ad est.
+~
+150 0 4
+D0
+La pista continua verso nord.
+~
+~
+0 -1 15061 0
+D1
+La pista sembra continuare verso est.
+~
+~
+0 -1 15063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15063
+Una pista nel sottobosco~
+   Continuando attraverso il sottobosco, ti trovi al centro della
+foresta. I rumori della foresta si sentono dappertutto.
+La pista sulla quale ti trovi e' stata cosi' poco usata che e'
+quasi completamente ricoperta dalla vegetazione.
+La pista pare condurre ad ovest e a sud. A sud un strano silenzio
+minaccioso permea l'aria, quasi bloccando tutti i suoni che puoi
+sentire da nord e da est.
+~
+150 0 4
+D2
+Il sottobosco comincia ad aprirsi a sud e puoi vedere quello che
+sembra essere un piccolo villaggio. E' molto calmo, quasi troppo calmo.
+~
+~
+0 -1 15064 0
+D3
+La pista continua a nordovest.
+~
+~
+0 -1 15062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15064
+Una strada~
+   Come lasci la foresta a nord, ti trovi in quella che sembra essere
+l'inizio di una strada ed un piccolo villaggio. Ad una prima occhiata
+di questo luogo comprendi che c'e' qualcosa di divertente in questa
+sistemazione... non c'e' nessuno suono se non quello del vento che
+fischia. Ti saresti aspettato di sentire gente che va in giro per i
+propri affari, ma il villaggio e' silenzioso.
+Non vedi alcun movimento intorno. E' quasi silenzioso come i boschi
+a nord.
+C'e' un piccolo cartello sul ciglio della strada.
+~
+150 0 2
+D0
+Una pista conduce nel sottobosco a nord.
+~
+~
+0 -1 15063 0
+D2
+La strada continua attraverso il villaggio a sud.
+~
+~
+0 -1 15065 0
+D3
+Una casa e' sul lato ovest della strada.
+~
+~
+0 -1 15068 0
+E
+cartello~
+
+/----------------------------------\
+|Benvenuti nel piccolo villaggio di|
+|           Townsbridge            |
+|                                  |
+|                                  |
+|     Popolazione: 276             |
+|                                  |
+\----------------------------------/
+
+Il numero 276 e' stato graffiato via e sostituito con il
+numero 0.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15065
+Un piccolo incrocio~
+   Continuando lungo la strada, ti trovi in un luogo dove un piccolo
+sentiero lascia la strada principale e va verso ovest.
+Il bosco intorno al villaggio sembra piegarsi all'interno verso di te
+come se il villaggio nascondesse dei segreti che non devono essere
+raccontati.
+C'e' un'altra casa sul lato est della strada.
+~
+150 0 2
+D0
+La strada continua a nord.
+~
+~
+0 -1 15064 0
+D1
+Senti un lamento provenire dalla casa ad est.
+~
+~
+0 -1 15069 0
+D2
+La strada continua verso sud dove un terribile odore permea l'aria.
+~
+~
+0 -1 15066 0
+D3
+Una piccola, scura pista esce dal bosco ad ovest.
+~
+~
+0 -1 15072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15066
+Una strada~
+   Questa sezione della strada e' silenziosa, ma c'e' un puzzo terribile
+nell'aria. Ritornano in mente odori di cadaveri in decomposizione e liquame.
+Il bosco continua a piegarsi verso di te, e circonda quasi totalmente il
+piccolo edificio ad ovest che ha il tetto ricoperto di paglia. C'e' un
+guscio di un edificio annerito ad est con un piccolo cartello appeso ad
+una catena.
+La strada continua a nord e a sud.
+~
+150 0 2
+D0
+La piccola strada continua verso nord.
+~
+~
+0 -1 15065 0
+D1
+Il guscio ad est e' soltanto cio' che rimane di quello che una volta
+era un edificio. I muri sono anneriti dall'esposizione al fuoco...
+~
+~
+0 -1 15071 0
+D2
+Il puzzo a sud ora e' quasi insopportabile... sembra che la fonte non
+sia troppo lontana da qui.
+~
+~
+0 -1 15067 0
+D3
+Un piccolo quieto cottage e' sul lato ovest della strada, apparentemente
+rimasto intatto dalla dissacrazione e distruzione che sembra abbia colpito
+questo piccolo villaggio.
+~
+~
+0 -1 15070 0
+E
+cartello~
+Il cartello e' coperto dalla fuliggine ed il legno e' completamente
+carbonizzato, ma puoi ancora leggere le lettere seguenti:
+
+        T   TO  SB  DGE   NER L    RE
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15067
+Una grande buca~
+   La strada finisce sull'orlo di una grande buca ed ora comprendi
+da dove proveniva quel terribile tanfo. Questa buca e' la tomba
+di tutti i cittadini del villaggio. Ci sono ossa e cadaveri in tutto
+il luogo. Molti cadaveri sono troppo recenti per essere dei cittadini
+di Townsbridge assassinati oltre un decennio fa, ma il villaggio sembra
+essere vuoto da allora.
+La strada si allontana dal luogo della strage e punta a nord.
+~
+150 0 2
+D0
+Vicino al margine nord della buca si diparte una piccola e stretta pista.
+~
+~
+0 -1 15066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15068
+Una casa~
+   Questa casa e' un disastro, la mobilia e' stata distrutta e sparsa
+in tutta la stanza, sembra che un tornado ci sia passata proprio nel
+centro. La distruzione che ha avuto luogo in questa stanza e' oltre
+ogni limite. La cosa piu' strana di tutto, e' che sembra recente,
+non c'e' nessuna ragnatela e non c'e' polvere.
+Puoi vedere la strada ad est attraverso l'ingresso.
+~
+150 8 0
+D1
+Puoi vedere la strada ad est attraverso l'ingresso.
+~
+~
+0 -1 15064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15069
+Una casa~
+   Questo scura stanza e' illuminata appena dalla luce proveniente
+dall'esterno, ma quello che puoi vedere ti da' i brividi. Ci sono
+ragnatele a penzoloni dappertutto, uno spesso strato di polvere si
+solleva al tuo passaggio, ed uno strano ululato proviene da qualche
+luogo vicino a te. La mobilia in questa casa e' vecchia e di un tipo
+che non e' piu' stato visto in queste terre da molto tempo. Se fosse
+stato in condizioni migliori, potevi venderlo come pezzo d'antiquariato.
+La luce magra della strada splende attraverso l'ingresso ad ovest.
+~
+150 9 0
+D3
+Vedi la strada attraverso l'ingresso ad ovest.
+~
+~
+0 -1 15065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15070
+Un piccolo cottage~
+   Questo cottage sembra essere nelle stesse condizioni di qualche tempo
+fa. Come se gli abitanti fossero usciti un giorno e ancora non sono tornati
+a casa. Abbastanza stranamente, la mobilia non e' impolverata ed il cibo
+sulla tavola sembra ancora fresco. Questa casa e' veramente strana, forse
+e' nel tuo interesse lasciarla il piu' presto possibile.
+La strada torna indietro attraverso l'ingresso aperto ad est.
+~
+150 8 0
+D1
+Puoi vedere la strada ad est attraverso l'ingresso.
+~
+~
+0 -1 15066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15071
+Il negozio bruciato~
+   Come entri in questo piccolo edificio, noti che le pareti annerite
+sono dovute ad un fuoco che ha bruciato per parecchio tempo.
+Non c'e' rimasto quasi nulla del tetto che una volta copriva questo
+edificio, e le pareti a nord e ad est sono state bruciate per quasi
+meta' dell'altezza delle altre due pareti. Merci bruciate in terra
+ed i resti di un banco vicino a quel che resta della parete nord
+sembrano indicare che questo una volta era un negozio.
+La strada e' ad ovest attraverso il muro annerito.
+~
+150 0 2
+D3
+Vedi la strada ad ovest.
+~
+~
+0 -1 15066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15072
+Uno scuro sentiero~
+   Come passi dall'aria aperta all'oscurità del sentiero e del sinistro
+bosco intorno a te, un timore riverenziale ed un qualcosa affine al
+terrore ti fanno drizzare i peli sulla schiena. Il bosco intorno e'
+completamente silenzioso, nemmeno il fruscio delle foglie o lo scricchiolio
+dei rami interrompono il silenzio. La cosa finale che osservi e' che
+l'oscurita' tutto intorno sembra essere aumentata, e non sembra naturale
+per questo genere di vegetazione.
+Il sentiero continua ad ovest e vedi della luce ad est.
+~
+150 9 1
+D1
+Il sentiero continua verso un piccolo incrocio con la strada.
+~
+~
+0 -1 15065 0
+D3
+Il sentiero continua attraverso l'oscurita'.
+~
+~
+0 -1 15073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15073
+Uno scuro sentiero~
+   Questo stretto sentiero conduce attraverso gli alberi sovrastanti
+nell'innaturale oscurita'. Sembra quasi che gli alberi si accalchino
+su di te, come se non volessero sentire la tua presenza. Il bosco e'
+quasi totalmente silenzioso e ti chiedi il perche'.
+Il sentiero pare continuare ad est e ad ovest.
+~
+150 9 1
+D1
+Il sentiero continua attraverso l'oscurita'.
+~
+~
+0 -1 15072 0
+D3
+Il bagliore da ovest pare essere piuttosto forte, ma non da'
+abbastanza luce per vedere da qui, ne' puoi vederne la fonte.
+~
+~
+0 -1 15074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#15074
+Il Cerchio di Pietre~
+   Sei sull'orlo di un cerchio di sette grande pietre monolitiche.
+Ciascuna pietra torreggia sopra la tua testa ed appaiono essere almeno
+due volte la tua altezza.  Le pietre sono fatte di un buio materiale nero.
+Nel centro dell'anello di pietre, vedi un disco circolare nero simile
+ad uno specchio sul terreno. La superficie e' molto riflettente.
+Gli alberi circostanti il cerchio svettano alti sopra la tua testa
+nascondendo il cielo.
+Uno strano bagliore sembra provenire da ciascuna pietra, quasi verde.
+Questo bagliore ti fornisce luce sufficiente per vedere sebbene il cielo
+sopra sia stato nascosto.
+~
+150 8 1
+D1
+Uno stretto sentiero conduce nell'oscurità.
+~
+~
+0 -1 15073 0
+D4
+Non puoi vedere il cielo in alto perche' gli alberi intorno al cerchio
+di pietra lo nascondono interamente.
+~
+~
+0 -1 -1 0
+E
+pietre bagliore cerchio anello pietra~
+Ciascuna pietra e' alta almeno quindici piedi, forse piu', ed il buio
+materiale arde con un'aura verdastra fornendo abbastanza luce da poter
+vedere.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

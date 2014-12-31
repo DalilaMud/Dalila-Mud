@@ -1,0 +1,1550 @@
+#6200
+&6Nella foresta&0~
+ La pista finisce qui dove la montagna comincia bruscamente.
+Guardango in alto, noti che la scalata sara' dura,
+rischiosa, e probabilmente non vale la pena esplorarla; la &1barriera
+d'energia&0 continua sopra la montagna fino all'orizzonte. In
+lontananza a ovest intravedi le guglie di Camelot.
+~
+62 0 3
+D0
+~
+~
+0 0 1484473 0
+D1
+~
+~
+0 -1 6201 0
+E
+barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6201
+&6Nella Foresta&0~
+ Ad Ovest la montagna e' molto alta e rocciosa...&3Non sembra esserci
+anima viva&0.  Il sentiero arriva alla fine Ovest della foresta
+e &2finisce&0.
+ Ovunque ti trovi vedi la &1barriera d'energia&0 a nord,
+fitta, magica e impenetrabile.
+~
+62 0 3
+D1
+~
+~
+0 -1 6202 0
+D3
+~
+~
+0 -1 6200 0
+E
+Barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6202
+&6Nella Foresta&0~
+ Questo sentiero continua parallelo alla &2barriera d'energia&0,
+sembra che salga le montagne ad Ovest, i confini della valle.
+ Camminando scorgi un piccolo scoiattolo che toccando la barriera
+sobbalza e &1muore&0!
+ Le tue mani sono ancora fermate dal magico confine.
+&3Come farai a superarlo???&0
+~
+62 0 3
+D1
+~
+~
+0 -1 6203 0
+D3
+~
+~
+0 -1 6201 0
+E
+Barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6203
+&6Nella foresta&0~
+  Il varco a nord si ferma bruscamente qui, sostituito da una
+sorta di &1barriera d'energia&0 che continua nel bosco.
+ Un sentiero, apparentemente molto frequentato, va in direzione
+Est-Ovest lungo la barriera.  &4Molto strano&0...
+~
+62 0 3
+D1
+~
+~
+0 -1 6204 0
+D3
+~
+~
+0 -1 6202 0
+E
+Barriera energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6204
+&6Nella Foresta&0~
+ La &1barriera d'energia&0 continua nel bosco da est verso ovest, just north of the trail you are walking
+a nord di questo sentiero.
+ Sembra emanare un debole ronzio, eliminando i normali suoni della
+foresta.
+ Ti chiedi se la barriera &3sta nascondendo qualcosa dentro di se&0.
+Hmm...Chissa'...
+~
+62 0 3
+D1
+~
+~
+0 -1 6205 0
+D3
+~
+~
+0 -1 6203 0
+E
+barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6205
+&6Nella Foresta&0~
+ La &1barriera d'energia&0 forma una curva, continuando a Nord e
+ad Ovest fino all'orizzonte nel bosco.
+ Questo sentiero gira intorno ad essa in due direzioni.
+&1Curiouso&0... &3chi o cosa custodisce questa barriera?&5
+E per quale motivo?
+~
+62 0 3
+D0
+~
+~
+0 -1 6206 0
+D3
+~
+~
+0 -1 6204 0
+E
+barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6206
+&6Nella Foresta&0~
+ Il bosco qui s'infittisce, e sorprendentemente, vedi un albero
+meta' fuori e meta' dentro la barriera, che va verso nord.
+ Non sembra avere alcuna ferita...Strano...
+~
+62 0 3
+D0
+~
+~
+0 -1 6207 0
+D2
+~
+~
+0 -1 6205 0
+E
+barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6207
+&6Nella Foresta&0~
+  La &3barriera&0 continua in direzione nord-sud,
+con parecchi dislivelli sul terreno, passando fra sassi e alberi.
+ Da Nord, arriva il debole rumore della barriera incandescente.
+ Il sentiero va a Nord e a Sud, a pochi passi dal grande ostacolo.~
+62 0 3
+D0
+~
+~
+0 -1 6208 0
+D2
+~
+~
+0 -1 6206 0
+E
+Barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6208
+&6Nella Foresta&0~
+ &2La barriera ha cambiato colore!!!&0 E' diventata trasparente!!!
+ Inizialmente pensi che puo' cambiare forma...Che sia una cosa
+astratta...Ma niente e' cosi' terribilmente distinto.
+ Da Nord arriva il piacevole rumore dell'acqua, forse fra gli alberi
+scorre un fiume.
+ Il sentiero va a nord e a sud in mezzo al bosco, seguendo la
+barriera in tutta la sua lunghezza.
+~
+62 0 3
+D0
+~
+~
+0 -1 6209 0
+D2
+~
+~
+0 -1 6207 0
+D3
+~
+~
+0 -1 6210 0
+E
+Barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6209
+&3La riva del Fiume&0~
+ &2Un fiume scorre nella foresta&0.
+ La barriera ad est va nel fiume, e poi gira ad Ovest.
+ L'acqua non sembra avere problemi a penetrare l'ostacolo magico.
+ Il fiume sembra troppo profondo per essere guadato qui...La sola
+direzione in cui puoi andare e' sud.
+~
+62 0 3
+D2
+~
+~
+0 -1 6208 0
+E
+barriera d'energia~
+&2Vedi faticosamente che la barriera continua al di la della foresta, ma non sembra esserci un sentiero che passi fra di essi.
+ Si innalza molto in alto nell'aria, sembra formare un tetto sugli alberi, come per impedire di entrare volando.
+ Scommetteresti che il "soffitto" sprofonda nel terreno.&0~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6210
+&3Il passaggio...&0~
+ Sei nella barriera d'energia, che sembra spingerti fuori da essa
+senza successo, perche' tu premi dalla parte opposta.
+ Senti l'elettricita' che attraversa tutto il tuo corpo e lo shock
+ti fa sentire pizzicare quando tocchi oggetti metallici.
+ Con una spinta finale, &1passi la barriera e arrivi in un altro
+luogo&0!!!
+~
+62 4 5
+D1
+~
+~
+0 -1 6208 0
+D3
+~
+~
+0 -1 6211 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6211
+&5Al di la della barriera...&0~
+ Ad Ovest la barriera brucia su stessa, innocuamente...O quasi...
+ Nel terreno intorno sono sparsi corpi e cadaveri...
+Diversi pali con teschi sulla punta e il viso rivolto ad ovest,
+avvertono i viaggiatori di allontanarsi da li.
+ L'aria puzza di morte e putrefazione, immobile...
+ &6Non ti senti per nulla a tuo agio&0...~
+62 4 3
+D1
+~
+~
+0 -1 6210 0
+D3
+~
+~
+0 -1 6212 0
+E
+corpse body bodies corpses skull skulls~
+Demi-human, from the size.  The foreheads slop down to a
+blocky brow, and the braincase seems rather small.  On
+a hunch, you check one of the feet of a torched body.
+Cloven, like a pig's... Orcs.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6212
+&6Una radura nella Foresta&0~
+ Diversi sentieri nella foresta arrivano qui formando una piccola
+radura.
+ Qui c'e' cosi' tanta sporcizia che sembra formare un tappeto,
+vedi molte orme sul suolo.
+ Ogni tanto senti il cinguettio di qualche uccello
+che cessa improvvisamente trasformandosi in un insopportabile
+lamento, e poi in silenzio.
+ Il sentiero sembra molto frequentato, il sottobosco steso per
+terra e il fogliame frantumati dal continuo passare dei viandanti
+che vanno in tutte le direzioni, &7tranne ad Ovest&0...
+ &3Ti senti osservato&0...
+~
+62 0 3
+D0
+~
+~
+0 -1 6213 0
+D1
+~
+~
+0 -1 6211 0
+D2
+~
+~
+0 -1 6217 0
+D3
+~
+~
+0 -1 6228 0
+E
+foot footprint footprints print prints~
+Cloven hoofs, two feet... they walk erect whatever they are.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6213
+&6Una pista nella foresta&0~
+ Il sentiero a Nord va a spirale in mezzo al bosco, girando da
+un varco nella foresta a sud, &1sembra ci sia un Fiume&0.
+ Questo sentiero appare molto frequentato e macchiettato di tracce.
+ Di nuovo ti viene la pelle d'oca, e ti chiedi se sei spiato...
+&4Brr&0...
+~
+62 4 3
+D0
+~
+~
+0 -1 6214 0
+D2
+~
+~
+0 -1 6212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6214
+&5La riva del fiume&0~
+ Uno splendido fiume scorre qui, la corrente e' piuttosto
+pericolosa.
+ Nel bel mezzo del fiume scorgi la recinzione della &3barriera
+d'energia&0... &1non c'e' via d'uscita&0.
+Guardando in alto, vedi un uccello che vola attraversando la
+barriera.
+ Il sentiero va a sud nella foresta, e ad Ovest seguendo la riva
+del Fiume.~
+62 0 2
+D2
+~
+~
+0 -1 6213 0
+D3
+~
+~
+0 -1 6215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6215
+&5La riva del Fiume&0~
+ Il Fiume scorre naturalmente, &3senza essere ostacolato dalla
+barriera che lo attraversa dividendolo in due parti uguali&0.
+ Il sentiero su cui stai camminando va verso Ovest ed Est seguendo
+il corso dell'acqua.
+ Ancora una volta hai la pelle d'oca e ti senti osservato...~
+62 0 2
+D1
+~
+~
+0 -1 6214 0
+D3
+~
+~
+0 -1 6216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6216
+&5La riva del Fiume&0~
+ Un ammasso di rocce ostacola il sentiero verso ovest,
+puoi solo tornare indietro; 
+il bosco e' troppo fitto a sud, il fiume troppo
+impetuoso a nord e la barriera troppo potente sopra di te.
+ &1E' un bel posto, e a giudicare dai segnali sull'erba sembra anche
+molto frequentato dai turisti&0.~
+62 0 2
+D1
+~
+~
+0 -1 6215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6217
+&4Una radura nella Foresta&0~
+ Questo sentiero si dirige verso Sud. Ci sono delle orme sul suolo,
+dove scorgi anche tracce di qualche animale, probabilmente questo
+varco e' molto usato dai cacciatori! 
+ C'e' una radura a nord e un sentiero a sud.
+~
+62 0 3
+D0
+~
+~
+0 -1 6212 0
+D2
+~
+~
+0 -1 6219 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6218
+&4Un sentiero&0~
+ Il sentiero continua a nord e a sud.
+ Il suolo di questo bosco, di alberi dalle foglie caduche, e' pieno
+di fogliame secco.
+ &1Un arbusto alla tua sinistra e' evidentemente stato potato da
+poco tempo&0...con un oggetto affilato, forse un coltello...
+ Senti lo scricchiolio di una foglia secca e ti giri, ma non vedi
+nulla di strano.
+ &6Qualcosa ti sta osservando, lo senti!!!&0
+&3Cos'e'? Dov'e'? E che vuole da te???&0
+~
+62 0 3
+D0
+~
+~
+0 -1 6233 0
+D2
+~
+~
+0 -1 6226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6219
+&4Un sentiero&0~
+ Il sentiero cambia direzione qui, va a nord e ad ovest.
+ Un grande albero blocca la via a sud; la punta di una
+freccia e' conficcata nel legno.
+ Sembra quasi che sia stata spezzata per graffiare il
+legno.  
+~
+62 0 3
+D0
+~
+~
+0 -1 6217 0
+D3
+~
+~
+0 -1 6220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6220
+&4Un sentiero&0~
+ Questo sentiero va da est verso ovest attraversando la parte piu
+fitta della foresta.
+ L'erba e' stata pestata dai passanti...
+ La via continua ad est e sembra esserci un piccolo varco ad ovest.
+ Senti un debole rumore che ti fa venire di nuovo la pelle d'oca.
+ &1Potrebbe sembrare una voce&0. Ma qualsiasi cosa sia stata, non
+parlava la tua lingua.~
+62 0 3
+D1
+~
+~
+0 -1 6219 0
+D3
+~
+~
+0 -1 6221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6221
+&7Un piccolo varco&0~
+ Nel bel mezzo di questa piccola radura c'e' un grande masso.
+ Il sentiero va ad est, ovest e a sud. Le fronde degli alberi
+vicino a te &6bloccano il passaggio del calore emanato dalla
+barriera d'energia&0.
+~
+62 0 3
+D1
+~
+~
+0 -1 6220 0
+D2
+~
+~
+0 -1 6222 0
+D3
+~
+~
+0 -1 6227 0
+E
+Masso~
+Ci sono tracce di &1sangue&0 ormai secco sulla superficie...~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6222
+&8Un sentiero&0~
+ C'e' un piccolo sentiero a nord che conduce qui collegando questo
+posto alla via principale, la radura continua ad est e ad ovest.
+ Il sentiero principale aggira gli alberi di cui sono circondate
+le vie ad est e ad ovest, bloccando qualsiasi entrata da altri
+posti.
+~
+62 0 3
+D0
+~
+~
+0 -1 6221 0
+D1
+~
+~
+0 -1 6223 0
+D3
+~
+~
+0 -1 6225 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6223
+&6Un sentiero&0~
+ Il sentiero continua ad est e ad ovest, &3in mezzo alla foresta&0.  
+Ad ovest scorgi la fine del sentiero principale.
+ Ad est sembra esserci un'altra piccola radura molto frequentata;
+Ci sono molte piste che vanno in tutte le direzioni.
+~
+62 0 3
+D1
+~
+~
+0 -1 6224 0
+D3
+~
+~
+0 -1 6222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6224
+&7La fine del sentiero&0~
+ Il suolo e' interamente coperto di vegetazione in questa piccola
+radura, parecchi strati di sale sono stati depositati sul terreno
+e sulle cime degli alberi.
+ Ci sono molte orme di animali sul terreno, sicuramente gli strati
+di sale li attraggono nel giro di parecchie miglia
+ &5Sarebbe un buon posto per nasconderti ed aspettare la cena se
+fossi un cacciatore&0...
+~
+62 0 3
+D3
+~
+~
+0 -1 6223 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6225
+&3Un sentiero&0~
+ Questo sentiero continua ad est e ad ovest passando in mezzo alla
+foresta, aggirando gli alberi.
+ Il posto e' calmo e sereno, se non fosse per la &1barriera d'energia&0
+che non ti permette di andare in altre direzioni.
+ &6Per un momento, ti chiedi se ti stanno ancora osservando&0...~
+62 0 3
+D1
+~
+~
+0 -1 6222 0
+D3
+~
+~
+0 -1 6226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6226
+&5Un sentiero&0~
+ Il sentiero fa una curva qui, continuando a nord e ad est.
+ In lontananza senti il verso di un grande "uccello della preghiera"
+che vola per i cieli cercando cibo. Le felci intorno a te si muovono
+agitate da una leggera brezza.
+ Quell'atmosfera di terrore che pervade il resto dell'aria qui e'
+assente...
+ &8Ti senti cosi' rilassato...&0
+~
+62 4 3
+D0
+~
+~
+0 -1 6218 0
+D3
+~
+~
+0 -1 6268 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6227
+&5Un sentiero&0~
+ Una curva nel sentiero ti permette di andare a nord e ad est.
+ Li vedi una piccola radura, mentre a nord questo sentiero sembra
+cominciare ad essere piu largo sebbene passi in mezzo al bosco.
+ Sul suolo c'e' la meta' di un coltello spezzato, fatto di cuoio.
+ &4Ti chiedi se il proprietario ti sta guardando adesso -- qualcosa
+ti dice che la risposta e' &1SI&0.~
+62 0 3
+D0
+~
+~
+0 -1 6232 0
+D1
+~
+~
+0 -1 6221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6228
+&4Un sentiero&0~
+ Questo sentiero parte dalla radura, va in direzione ovest est e
+si interseca ad una pista che corre in direzione nord sud.
+ Un piccolo alberello a nord della pista si annoda su se stesso. 
+ Ti senti ancora osservato...L'adrenalina corre veloce come il
+fulmine nel tuo corpo!!!
+~
+62 0 3
+D1
+~
+~
+0 -1 6212 0
+D3
+~
+~
+0 -1 6229 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6229
+&5Un sentiero&0~
+ Questo sentiero va in direzione nord-sud e passa nel bosco, qui
+gira ad est. Gli alberi garantiscono un adeguata copertura dal
+cielo, &6ma guardando in mezzo a qualche arbusto vedi la barriera
+d'energia sopra di te&0.  &1Ti senti imprigionato!!!&0~
+62 0 3
+D1
+~
+~
+0 -1 6228 0
+D2
+~
+~
+0 -1 6230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6230
+&5Un sentiero&0~
+ Due sentieri arrivano qui, una grande pista va ad est ed ovest.
+ Il sentiero ad ovest sembra essere il piu' frequentato. Sembrano
+esserci meno alberi qui intorno...&4come se molte persone siano
+venute a tagliare gli alberi&0.
+~
+62 0 3
+D0
+~
+~
+0 -1 6229 0
+D1
+~
+~
+0 -1 6231 0
+D3
+~
+~
+0 -1 6232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6231
+&5Una Radura&0~
+ Gli alberi qui intorno sono stati abbattuti, e molti tronchi
+sono stati scavati di dentro, diventando cavi tramite dei coltelli
+di pietra e rivestiti di dentro con del cuio creando molti tubi
+per l'acqua. Sono pieni di un &4liquido marrone ripugnante&0, nel quale
+sono inzuppati vari pezzi di animali.
+&3Primitivo, ma efficace metodo di caccia&0.
+~
+62 0 3
+D3
+~
+~
+0 -1 6230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6232
+&5Un sentiero&0~
+ Il sentiero va ad ovest, dove conducono tutte le strade delle
+montagne che segnano i confini di questa valle.
+ Molti degli alberi che sono qui sono stati tagliati, &4sembra che
+la foresta stia finendo&0.
+ &3Ad est il sentiero torna all'interno della foresta&0.~
+62 0 3
+D1
+~
+~
+0 -1 6230 0
+D2
+~
+~
+0 -1 6227 0
+D3
+~
+~
+0 -1 6233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6233
+&3Un sentiero&0~
+ Il suolo e' piu' sassoso, gli alberi e l'altra vegetazione
+della foresta non sono fitti qui, perche essa finisce ad Ovest.
+ Un sentiero va a sud, un altro torna nella foresta ad est.~
+62 0 3
+D1
+~
+~
+0 -1 6232 0
+D2
+~
+~
+0 -1 6218 0
+D3
+~
+~
+0 -1 6234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6234
+&4Un sentiero sassoso&0~
+ Il suolo e' molto roccioso qui, e quindi crescono pochi alberi
+qui.
+ C'e' qualche cespuglio, ma non abbastanza vicino da rendere
+difficile muoversi in questo sentiero.
+ Un sentiero va a ovest dove sembra esserci una grotta nella montagna
+a nord invece si allontana dal foresta. Ad est, la pista porta
+nel bosco.~
+62 0 4
+D0
+~
+~
+0 -1 6241 0
+D1
+~
+~
+0 -1 6233 0
+D3
+~
+~
+0 -1 6242 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6235
+&6Un sentiero&0~
+ Questo sentiero continua a sud e ad ovest.
+ Le fronde degli alberi sopra di te rendono un po buio questo
+posto, &3facendoti sentier nuovamente osservato&0...~
+62 4 3
+D2
+~
+~
+0 -1 6229 0
+D3
+~
+~
+0 -1 6236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6236
+&8Un sentiero&0~
+ Il sentiero continua ad est e ad ovest, e una grande radura a sud.
+ Su due cime di albero ci sono dei &7teschi&0, per avvertirti di un
+pericolo a sud, &6e tutto cio' ti fa sentire molto poco a tuo agio!
+&1Strano...&0
+~
+62 0 3
+D1
+~
+~
+0 -1 6235 0
+D2
+~
+~
+0 -1 6237 0
+D3
+~
+~
+0 -1 6238 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6237
+&5Una grande radura&0~
+ Il terreno e' stato rovesciato qui, e qualche masso bianco e'
+stato spostato e messo in una strana posizione.
+ &1Tombe&0.
+ Questo deve essere il posto dove loro seppelliscono i loro morti --
+&7scavano un fosso e ci buttano dentro il corpo senza sapere se
+quel posto e' gia' occupato&0.&1 Che incivilta'!!!&0
+Speri di non essere sepolto qui quando verra' il tempo...
+~
+62 0 2
+D0
+~
+~
+0 -1 6236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6238
+&5Un sentiero&0~
+ Il sentiero si divide, a nord da dove senti arrivare il piacevole
+suono di &6un fiume che scorre&0, e a ovest dove la foresta sembra
+molto meno fitta.
+ Un rumore proveniente da sud ti fa sobbalzare, ti giri...
+&1Niente, non c'era niente come al solito&0...&7Chissa' se ti stanno
+ancora osservando&0...~
+62 0 3
+D0
+~
+~
+0 -1 6239 0
+D1
+~
+~
+0 -1 6236 0
+D3
+~
+~
+0 -1 6241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6239
+&6La riva del fiume&0~
+ Il fiume scorre impetuoso verso nord. Questo sentiero va su un
+altra riva ad ovest e torna nel bosco a sud.
+ Ad est c'e' un grande masso, che blocca qualsiasi uscita in quella
+direzione. Nel fiume il 'tetto', &1la barriera d'energia&0, tocca
+il 'muro' a nord.
+ L'acqua passa normalmente in mezzo alla barriera...~
+62 0 2
+D2
+~
+~
+0 -1 6238 0
+D3
+~
+~
+0 -1 6240 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6240
+&6La riva del fiume&0~
+ Il fiume scorre sotto la montagna ad ovest, per la presenza di
+una grande gola in una protuberanza rocciosa.
+ La barriera d'energia climbs sale fin sopra la montagna, e &3chiude
+qualsiasi via d'uscita&0.
+ Questo sentiero va verso est, e una pista proveniente dalla foresta 
+e' a sud.~
+62 0 2
+D1
+~
+~
+0 -1 6239 0
+D2
+~
+~
+0 -1 6241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6241
+&3Un sentiero roccioso&0~
+ La foresta e' qui vicino ad ovest, puoi andar li tramite il sentiero
+a sud.
+ Da nord arriva il suono dell'acqua del fiume che scorre.
+Non sembra esserci nulla che attiri la tua attenzione qui...
+~
+62 0 4
+D0
+~
+~
+0 -1 6240 0
+D1
+~
+~
+0 -1 6238 0
+D2
+~
+~
+0 -1 6234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6242
+&3L'entrata di una caverna&0~
+ Non vedi nulla, abituato alla luce di fuori e passato al buio
+oscuro della grotta.
+ Dalla caverna esce un &1intenso fetore&0; senti puzza di esseri
+luridi e di malattia nello stesso tempo...
+&1 Improvvisamente ti viene il voltastomaco&0, forse sarebbe meglio
+&6tornare ad est ansiche' procedere verso ovest&0!!!~
+62 8 5
+D1
+~
+~
+0 -1 6234 0
+D3
+~
+~
+0 -1 6243 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6243
+&3Un bivio nel tunnel&0~
+ Il tunnel si divide, una parte continua ad ovest, l'altra a nord.
+&6Naturalmente puoi anche tornare indietro ad est&0, e sembra un
+ottima idea.
+ Sei tentato di chiudere gli occhi e ascoltare il piacevole rumore
+del fiume, ma serri la tua mano sinistra e riprendi il controllo
+di te stesso.
+ Costringendoti ad aprire gli occhi, ti accorgi che c'e' un segnale
+di pericolo davanti al tunnel a nord.~
+62 9 4
+D0
+~
+~
+0 -1 6255 0
+D1
+~
+~
+0 -1 6242 0
+D3
+~
+~
+0 -1 6244 0
+E
+painting sign signs~
+They are orcish, and you could swear they were all warning
+symbols.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6244
+&3Un Tunnel&0~
+ Il pavimento e' lustro a causa dell'umidita', che sgorga dalla
+parte piu' bassa della grotta, &4portando con se quell'orribile
+fetore che c'era all'ingresso&0!
+ &1Ancora una volta, pensi che sarebbe una buona idea tornare indietro!&0~
+62 9 4
+D1
+~
+~
+0 -1 6243 0
+D3
+~
+~
+0 -1 6245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6245
+&3Un Tunnel&0~
+ Ad ovest c'e' una grande caverna...Sembra provenire un po di luce
+dali, senti dei grugniti...
+ L'entrata alla grotta che c'era ad est adesso ti sembra troppo
+lontana, e &6la caverna ad ovest molto confortevole&0...
+~
+62 9 5
+D1
+~
+~
+0 -1 6244 0
+D3
+~
+~
+0 -1 6251 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6246
+&3Una caverna&0~
+ Fette di carne e bicchieri di qualcosa quasi bevibile sono qui;
+&4ti trovi nella dispensa degli orchi&0. Ti chiedi come facciano
+gli orchi a mangiare queste schifezze.
+ Beh, forse e' per questo che loro sono orchi e tu no;
+&1non c'e' niente di buono da mangiare, se hai fame, dovrai accontentarti
+di questo&0!~
+62 8 4
+D1
+~
+~
+0 -1 6247 0
+D2
+~
+~
+0 -1 6249 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6247
+&3Una caverna&0~
+ Un corpo giace qui, lontano da un mucchio di altri cadaveri.
+ Ci sono parecchi pali affilati e massi messi li vicino. &4Vicino
+alle mani dei corpi ci sono dei coltelli insanguinati&0...&1E' la
+stanza in cui gli orchi si suicidano!!!&0~
+62 8 4
+D1
+~
+~
+0 -1 6248 0
+D2
+~
+~
+0 -1 6250 0
+D3
+~
+~
+0 -1 6246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6248
+&3Una caverna&0~
+ Ci sono dei cadaveri qui. La maggior parte di essi sono di orchi,
+a uno di loro e' stato tolto un braccio, a un altro la faccia.
+C'e' un suicida ancora in vita, ormai in agonia che si dimena e 
+si contrae, tutti gli altri sono in decomposizione.
+ &1Ti viene il voltastomaco non appena ti accorgi che l'ammasso di
+carne all'angolo sono dei cadaveri di bambini che attendono di
+essere sepolti&0!!!~
+62 12 4
+D2
+~
+~
+0 -1 6251 0
+D3
+~
+~
+0 -1 6247 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6249
+&3Una caverna&0~
+ Ci sono alcune fosse qui...
+ C'e' anche un bicchiere di legno, pieno di un liquido imbevibile.
+ Da qualche parte ad est senti un orco che grida allarmato...
+&1Attenti orchi!!! Ci sono dei cacciatori! Nascondete i bambini!!&0~
+62 8 4
+D0
+~
+~
+0 -1 6246 0
+D1
+~
+~
+0 -1 6250 0
+D2
+~
+~
+0 -1 6252 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6250
+&5Una caverna&0~
+ Qui ci sono alcune fosse piene d'erba, attorno ai resti lasciati
+da un fuoco.
+ C'e' un po di carne sul braciere. Sul pavimento vicino ai
+tuoi piedi scorgi un piccolo pezzo di filo metallico...&3agli occhi
+di un orco un prezioso anello, un tesoro&0.~
+62 8 4
+D0
+~
+~
+0 -1 6247 0
+D1
+~
+~
+0 -1 6251 0
+D2
+~
+~
+0 -1 6253 0
+D3
+~
+~
+0 -1 6249 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6251
+&5Una caverna&0~
+ Sei vicino ad una grande grotta, cento piedi di diametro circa.
+Un po di lanterne alimentate con carne di animale illuminano questo
+posto, fanno abbastanza luce perche' tu possa vedere del cibo per
+terra e un po di corpi...&6Disgustoso! C'e' una creatura mezza...
+mezza...qualcosa e mezzo orco!!!&0~
+62 8 4
+D0
+~
+~
+0 -1 6248 0
+D1
+~
+~
+0 -1 6245 0
+D2
+~
+~
+0 -1 6254 0
+D3
+~
+~
+0 -1 6250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6252
+&7Una caverna&0~
+ Questo deve essere la 'casa' del capo degli orchi. C'e' un vecchio
+baule -- adibito a trono.
+ Una fossa gigantesca piena di tesori e' stata scavata qui...
+&1Guardi quel mucchio di inutili monete, monete rubate agli orchi&0!!!
+ &6Questi orchi non sono razziatori, sono VITTIME!!!&0~
+62 8 4
+D0
+~
+~
+0 -1 6249 0
+D1
+~
+~
+0 -1 6253 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6253
+&5Una caverna&0~
+ Ci sono delle pellicce appoggiate al muro. Ricoperte di una
+sostanza sconosciuta.
+ Guardandoti intorno, &6non capisci niente e ti ripeti, 'non voglio
+sapere... non voglio sapere...'&0.
+~
+62 8 4
+D0
+~
+~
+0 -1 6250 0
+D1
+~
+~
+0 -1 6254 0
+D3
+~
+~
+0 -1 6252 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6254
+&5Una caverna&0~
+ Questa parte della caverna e' adibita ad ospedale, dove si recano
+i poveri orchi mutati e malati...Non sono morti per vecchiaia, e
+solo pochi per malattia...La maggior parte e' vittima di mutazioni
+biologiche, ti chiedi quale grande forza lavori qui e distrugga
+la misera esistenza di queste vittime.
+&1 Gli orchi...La barriera d'energia...Cosa sta succedendo??&0~
+62 8 4
+D0
+~
+~
+0 -1 6251 0
+D3
+~
+~
+0 -1 6253 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6255
+&3Un Tunnel&0~
+ &1Questo tunnel sembra abitato&0; le mura sono stranamente lisce,
+come se qualcuno le avesse levigate.
+ C'e' una porta sul muro ad ovest.
+ Il fetore che c'era nell'entrata non sembra essere qui per fortuna,
+sembra un buon posto dove riposarsi e...&6respirare!!!&0~
+62 13 4
+D2
+~
+~
+0 -1 6243 0
+D3
+Una grossa porta d'acciaio. Non sembrano esserci cardini o maniglie,
+pero' proprio al centro della porta c'e' un foro per la chiave.
+~
+porta acciaio~
+1 6200 6256 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6256
+&3Un tunnel&0~
+ Questa parte del tunnel artificiale a nord torna all'entrata,
+ad ovest una porta conduce in una stanza.
+ Qualche lanterna sul soffitto illumina a giorno questo posto.
+ Da nord senti degli orribili gridi di morte...Ti chiedi cosa sia
+successo.~
+62 8 0
+D0
+~
+~
+0 -1 6258 0
+D1
+~
+door steel~
+1 6200 6255 7
+D3
+This is a normal, wooden door.
+~
+door wooden~
+1 -1 6257 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6257
+&6La camera da letto&0~
+ Questa e' una camera da letto, addobbata con buon gusto, ti sembra
+piuttosto lussuosa, ma forse e' perche' ti stai abituando a tunnel,
+caverne e foreste... C'e' una cassettiera fatta con del legno di
+quercia. &4La maggior parte dei mobili qui hanno un look 'naturale'.&0
+ Il letto e' molto soffice, accanto ad esso c'e' un comodino molto
+bello. &7Proprio un magnifico posto.&0
+~
+62 8 0
+D1
+A normal, wooden door.
+~
+door wooden~
+1 -1 6256 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6258
+&3Un tunnel&0~
+ Questo tunnel va a nord in una grande stanza, e a sud dove continua.
+ La luce e' fioca, e non proviene da nessuna parte...&6MAGIA?&0
+ La stanza a nord e' grande, e anche molto illuminata, il che le
+da un atmosfera tipo laboratorio clinico.
+ Qualcosa emette delle strazianti urla d'agonia a nord...
+&1Brutto posto questo, non credi?&0~
+62 8 0
+D0
+~
+~
+0 -1 6266 0
+D2
+~
+~
+0 -1 6256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6259
+&1Il laboratorio&0~
+ Un tavolo da paziente e' qui, equipaggiato con un kit per tenere
+fermi le vittime.
+ Su un grande carrello ci sono gli strumenti medici, coperti con
+un lenzuolo bianco.
+&6 Per qualche ragione, non pensi che i pazienti siano d'accordo
+sul venire a "curarsi" qui!&0~
+62 8 0
+D1
+~
+~
+0 -1 6260 0
+D2
+~
+~
+0 -1 6262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6260
+&1Il laboratorio&0~
+ Un tavolo e' qui con apparecchiature chimiche, equipaggiamento
+per distillazione ecc.
+ Questa stanza sembra piena di attrezzature molto costose usate
+per oscuri fini e non certo per ricerca scientifica.~
+62 8 0
+D1
+A steel cell door.
+~
+door steel~
+1 6200 6261 3
+D2
+~
+~
+0 -1 6263 0
+D3
+~
+~
+0 -1 6259 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6261
+&5Una gabbia&0~
+ Questa e' una piccola, squallida prigione, con una sola vasca
+per pulirsi e bere, un altra per il cibo e una specie di letto
+in un angolo.
+ &1Qualcosa ti dice che non e' il caso di restare ancora qui!!!&0
+~
+62 8 0
+D3
+A steel cell door.
+~
+door steel~
+1 6200 6260 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6262
+&8Il laboratorio&0~
+ Qui c'e' qualche piccola gabbia che continene vari tipi di roditori.
+Guardando in basso, ti stupisci vedendo un piccolo, grazioso topolino
+di campagna che ti guarda spaventato.
+ Ci sono altre &1"cose"&0 vicino a te, e non sembrano essere
+di buon umore!!!
+ Non sembrano avere pianamente il controllo delle funzioni motorie
+del loro corpo. Povere cose.~
+62 8 0
+D0
+~
+~
+0 -1 6259 0
+D1
+~
+~
+0 -1 6263 0
+D2
+~
+~
+0 -1 6265 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6263
+&8Il laboratorio&0~
+ C'e' una rastrelliera vicino al muro est, piena di ceppi e catene,
+piuttosto malandata.
+ Sembra molto usata. &6Ti vengono i brividi...&0
+You give a shiver, and carry on.
+~
+62 8 0
+D0
+~
+~
+0 -1 6260 0
+D1
+A steel cell door.
+~
+door cell~
+1 6200 6264 3
+D2
+~
+~
+0 -1 6266 0
+D3
+~
+~
+0 -1 6262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6264
+&8Una gabbia&0~
+ Questa e' una piccola, squallida gabbia, con una sola vasca
+per pulirsi e bere, un altra per il cibo e una specie di letto
+in un angolo.
+ &1Qualcosa ti dice che non e' il caso di restare ancora qui!!!&0
+~
+62 8 0
+D3
+A steel cell door.
+~
+door steel~
+1 6200 6263 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6265
+&7Il laboratorio&0~
+ Sei nel piccolo angolo sud ovest del laboratorio. Non c'e' nessuna
+attrezzatura qui, tranne qualche paio di &1forbici macchiate di
+sangue&0.~
+62 8 0
+D0
+~
+~
+0 -1 6262 0
+D1
+~
+~
+0 -1 6266 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6266
+&5Il laboratorio&0~
+ Questo e' la parte centrale del laboratorio, in tutte le direzioni
+continua il laboratorio tranne ad est dove c'e' una enorme gabbia. 
+ C'e' un tavolo di metallo vuoto, dove puoi vedere alcune tracce
+nella polvere che ti fanno capire che sono stati posati li dei
+libri poco tempo fa.~
+62 8 0
+D0
+~
+~
+0 -1 6263 0
+D1
+A steel cell door.
+~
+cell door~
+1 6200 6267 3
+D2
+~
+~
+0 -1 6258 0
+D3
+~
+~
+0 -1 6265 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6267
+&8Una gabbia&0~
+ Questa e' una piccola, squallida gabbia, con una sola vasca
+per pulirsi e bere, un altra per il cibo e una specie di letto
+in un angolo.
+ &1Qualcosa ti dice che non e' il caso di restare ancora qui!!!&0
+~
+62 8 0
+D3
+A steel cell door.
+~
+door cell~
+1 6200 6266 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6268
+&3Un Sentiero nella Foresta&0~
+   Sei in un sentiero dentro la foresta. Le fronde degli
+alberi, per quanto piacevoli nella calura estiva, ora
+rendono buio il percorso. Ad est e ad ovest il sentiero
+prosegue.
+~
+62 8 0
+D1
+~
+~
+0 -1 6226 0
+D3
+~
+~
+0 -1 6269 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6269
+&3Un Sentiero nella Foresta&0~
+   Sei in un sentiero dentro la foresta. Le fronde degli
+alberi, per quanto piacevoli nella calura estiva, ora
+rendono buio il percorso. Ad est vedi la fine della foresta
+mentre il sentiero prosegue ad ovest.
+~
+62 8 0
+D1
+~
+~
+0 -1 6268 0
+D3
+~
+~
+0 -1 6270 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6270
+&7La Fine della Foresta&0~
+   Qui la foresta finisce bruscamente ed inizia la valle degli Elfi.
+Ad est c'e' il sentiero mentre a sud c'e' la valle.
+~
+62 8 0
+D1
+~
+~
+0 -1 6269 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

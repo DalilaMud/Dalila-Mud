@@ -1,0 +1,114 @@
+#51000
+ESPERIMENTI NUCLEARI~
+QUI CI FACCIO LE PROVE PER I NUOVI MOB E I NUOVI TRIGGHI!
+SE CRASHA NON E' COLPA MIA
+~
+510 0 0
+D2
+cancello
+~
+Cancello test~
+1 0 51001 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 51000
+T 51012
+T 51006
+#51001
+AREA TEST~
+Struttura devoluta dal governo Fantasma alla sperimentazione di Attrezzature belliche.
+~
+510 0 0
+D0
+cancello
+~
+Cancello~
+1 0 51000 1
+D1
+~
+~
+2 0 51002 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#51002
+Fossato Test~
+simulazione di una Porta di una fortezza.
+~
+510 0 0
+D1
+Un Portone di robuste assi di legno, rinforzato con bande e cerniere di acciaio.
+~
+Portone~
+2 0 51003 15
+D3
+~
+~
+0 0 51001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#51003
+Ingresso Fortezza~
+Questo e' il piazzale d'ingresso della fortezza.
+~
+510 0 0
+D1
+Il Portone ha un enorme crepa nel mezzo, non sara' difficile passarci in mezzo, stando un po' attenti alle scheggie.
+~
+~
+1 0 0 1
+D3
+~
+~
+0 0 51002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#51030
+magazzino tolnotto provvisorio~
+Magazzino molto disordinato
+~
+510 1125899906845184 0
+D0
+Una porta di legno.
+~
+porta~
+1 129344 9709 167
+D5
+~
+~
+0 0 51031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#51031
+magazzino tolnotto provvisorio~
+un magazzino molto disordinato
+~
+510 1125899906845184 0
+D4
+~
+~
+0 0 51030 0
+D5
+~
+~
+0 0 51032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#51032
+magazzino tolnotto provvisorio~
+un magazzino molto disordinato
+~
+510 2560 0
+D4
+~
+~
+0 0 51031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

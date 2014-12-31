@@ -1,0 +1,371 @@
+#29500
+L'ingresso Ovest~
+Un grande arco di pietra fa da ingresso all'imponente struttura dell'arena
+di Deira. Su ogni singola pietra usata per creare la larga volta e' inciso
+il nome di un valoroso combattente che a lottato con valore e ha vinto,
+chissa' se un giorno ci sara' inciso anche il tuo nome...
+~
+295 0 0
+D1
+~
+~
+0 -1 29505 0
+D3
+~
+~
+0 0 2125448 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29501
+L'ingresso Sud~
+Un grande arco di pietra fa da ingresso all'imponente struttura dell'arena
+di Deira. Su ogni singola pietra usata per creare la larga volta e' inciso
+il nome di un valoroso combattente che a combattuto con valore e ha vinto,
+chissa' se un giorno ci sara' inciso anche il tuo nome. Dall'interno puoi 
+udire le voci della folla che attende uno scontro.
+~
+295 0 0
+D0
+~
+~
+0 -1 29508 0
+D2
+~
+~
+0 0 2125549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29502
+L'ingresso Est~
+Guardi verso l'alto, osservando sbalordito, la grande costruzione dell'arena
+che si eleva imponente sopra di te. Dall'interno senti le grida e il continuo
+cozzare dell'acciaio. Chi combatte per la gloria chi per il denaro, chissa'
+se un giorno o l'altro invece che da spettatore dvrai entrare come 
+combattente, e chissa' per cosa combaterai....~
+295 0 0
+D0
+~
+~
+0 0 12621 0
+D1
+~
+~
+0 0 2125450 0
+D3
+~
+~
+0 -1 29506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29503
+L'ingresso Nord~
+Guardi verso l'alto, osservando sbalordito, la grande costruzione dell'arena
+che si eleva imponente sopra di te. Dall'interno senti le grida e il continuo
+cozzare dell'acciaio. Chi combatte per la gloria chi per il denaro, chissa'
+se un giorno o l'altro invece che da spettatore dvrai entrare come 
+combattente, e chissa' per cosa combaterai....
+~
+295 0 0
+D0
+~
+~
+0 0 2125349 0
+D2
+~
+~
+0 -1 29507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29504
+La Sala Centrale~
+Ti trovi in una grande sala di attesa, sopra e sotto di te si trovano le
+arene dove si combattono duelli all'ultimo sangue. Grandi statue di dei
+e uomini in pose guerriere sono ad ornamento un po' ovunque. Ricordi che
+quando eri piccolo tuo padre ti diceva che quelle statue erano i perdenti
+tramutati in pietra per una maledizione... favole per bambini.
+~
+295 16 0
+D0
+~
+~
+0 -1 29507 0
+D1
+~
+~
+0 -1 29506 0
+D2
+~
+~
+0 -1 29508 0
+D3
+~
+~
+0 -1 29505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29505
+La Sala Centrale~
+Ti trovi nella grande sala dove gli spettatori aspettano l'inizio dei 
+combattimenti. Grandi finestre sulle pareti laterali fanno entrare la luce
+del giorno, e il fresco vento proveniente dalle montagne a nord di Deira.
+Tutto fa prevedere un bel tempo, cosi ti potrai godere gli scontri in santa
+pace. Vedi una scalinata che conduce alla biglietteria popolare.
+~
+295 0 0
+D1
+~
+~
+0 -1 29504 0
+D3
+~
+~
+0 -1 29500 0
+D4
+~
+~
+0 -1 29509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29506
+La Sala Centrale~
+Ti trovi nella grande sala dove gli spettatori aspettano l'inizio dei 
+combattimenti. Grandi finestre sulle pareti laterali fanno entrare la luce
+del giorno, e il fresco vento proveniente dalle montagne a nord di Deira.
+Tutto fa prevedere un bel tempo, cosi ti potrai godere gli scontri in santa
+pace. Vedi una scalinata che conduce alla biglietteria popolare.
+~
+295 0 0
+D1
+~
+~
+0 -1 29502 0
+D3
+~
+~
+0 -1 29504 0
+D4
+~
+~
+0 -1 29510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29507
+La Sala Centrale~
+La grande sala in cui ti trovi e' piena di gente in attesa del prossimo
+combattimento. Osservando il fiume di gente noti personi di tutti i ceti 
+e regni, tutti accomunati dalla passione per la lotta. Stringi la borsa
+con i soldi alla cintura, di solito quando ci sono queste folle qualche 
+ladruncolo si trovava sempre. Vedi una scalinata che porta alle gradinate
+dei nobili.
+~
+295 0 0
+D0
+~
+~
+0 -1 29503 0
+D2
+~
+~
+0 -1 29504 0
+D4
+~
+~
+0 -1 29513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29508
+La Sala Centrale~
+In questo punto della sala vedi una strana concentrazione di gladiatori
+e combattenti. All'inizio non capisci il perche', ma afcendoti largo tra 
+la folla riesci a svelare l'arcano. Nel mezzo alla sala vedi una larga 
+scala di marmo che conduce all'entrata delle arene per i combatenti.
+Chissa quando tocchera' a te entrare da quella porta.. magari oggi..
+~
+295 0 0
+D0
+~
+~
+0 -1 29504 0
+D2
+~
+~
+0 -1 29501 0
+D5
+~
+~
+0 -1 29515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29509
+L'uscita dalle tribune popolari~
+Sei davanti alla biglietteria popolare, davanti a te altre persone stanno 
+comprando dei biglietti per entrare. Su una parete vedi una grande cartina
+che mosta l'arena in tutti i piani. Dal tipo di persone in fila capisci
+che da qui si accede agli spalti pololari, non molto comodi immagini, ma
+decisamente economici.
+~
+295 0 0
+D5
+~
+~
+0 -1 29505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29510
+L'uscita dalle tribune popolari~
+Sei davanti alla biglietteria popolare, davanti a te altre persone stanno 
+comprando dei biglietti per entrare. Su una parete vedi una grande cartina
+che mosta l'arena in tutti i piani. Dal tipo di persone in fila capisci
+che da qui si accede agli spalti pololari, non molto comodi immagini, ma
+decisamente economici.
+~
+295 0 0
+D5
+~
+~
+0 -1 29506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29511
+L'ingresso agli spalti~
+Una lunga scala a chiocciola sale fino al tetto dell'edificio, salendo
+lungo di essa puoi accedere a tutte le arene, e tutto qeusto con un solo 
+biglietto, non male. Da sopra la tua testa puoi sentire le urla e i cori
+degli spettatatori che incitano i gladiatori, non ti rimane che scegliere
+un arena e goderti lo spettacolo.
+~
+295 0 0
+D0
+~
+~
+0 -1 29509 0
+D4
+~
+~
+0 0 2114941 0
+D5
+Nothing.
+~
+~
+0 0 2164841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29512
+L'ingresso agli spalti~
+Una lunga scala a chiocciola sale fino al tetto dell'edificio, salendo
+lungo di essa puoi accedere a tutte le arene, e tutto qeusto con un solo 
+biglietto, non male. Da sopra la tua testa puoi sentire le urla e i cori
+degli spettatatori che incitano i gladiatori, non ti rimane che scegliere
+un arena e goderti lo spettacolo.
+~
+295 0 0
+D0
+~
+~
+0 -1 29510 0
+D4
+~
+~
+0 0 2114963 0
+D5
+~
+~
+0 0 2164863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29513
+L'uscita dalle tribune dei nobili e dei funzionari~
+La stanza e' piena di nobili del posto e non, da questo ingresso si accede
+alle tribune riservate, logicamente piu' costose, ma chiunque abbia una
+posizione di spicco non piu' certo mescolarsi alla plebaglia. Su una 
+parete vedi una grande mappa che riporta la struttura dell'edificio in cui
+ti trovi.
+~
+295 0 0
+D5
+~
+~
+0 -1 29507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29514
+L'ingresso agli spalti~
+Una lunga scala a chiocciola sale fino al tetto dell'edificio, salendo
+lungo di essa puoi accedere a tutte le arene, e tutto qeusto con un solo 
+biglietto, non male. Da sopra la tua testa puoi sentire le urla e i cori
+degli spettatatori che incitano i gladiatori, non ti rimane che scegliere
+un arena e goderti lo spettacolo.
+~
+295 0 0
+D0
+~
+~
+0 -1 29513 0
+D4
+~
+~
+0 0 2114152 0
+D5
+~
+~
+0 0 2164152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29515
+L'entrata dei gladiatori~
+Un nerboruto uomo ritira in fndo alla stanza ritira i soldi delle iscrizioni
+per entrare a combattere. Intorno a te vedi pandion, genedian, e tutti i 
+rappresentanti delle maggiori scuole di combattimento della daresia.
+Alcuni sembrano alle prime armi mentre altri sono comperti di cicatrici a
+simbolo della loro esperienza.
+~
+295 16 0
+D4
+~
+~
+0 -1 29508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29516
+La stanza di preparazione per i gladiatori~
+Qui i gladiatori si preparano insieme ai diversi giudici presenti in gara.
+~
+295 16 0
+D0
+~
+~
+0 -1 29517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29517
+L'anticamera delle arene~
+Ti trovi in un lungo e umido corridoio. Non un abbellimento non una finestra,
+ma solo nuda e fredda roccia ti circonda.
+Intravedi in alto e in basso le due arene di Deira circondate dagli spalti.
+~
+295 16 0
+D0
+~
+~
+0 0 2164652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

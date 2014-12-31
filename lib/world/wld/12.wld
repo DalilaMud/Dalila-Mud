@@ -1,0 +1,732 @@
+#1200
+La Stanza Riunioni degli Dei~
+   La Stanza Riunioni e' molto semplice. Una tavola rotonda si trova
+al centro della stanza, illuminata da una qualche luce invisibile. Ci
+sono molte stanze attorno alla tavola, tutte vuote. La stanza del
+Consiglio degli Immortali e' a nord.
+~
+12 1176 0
+D0
+~
+~
+0 0 1204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1201
+La Locanda degli Dei~
+   La Locanda degli Dei e' una stanza piccola, contenente solo una
+mensola con molte piccole pietre preziose sopra. Quando un Dio lascia
+per qualche tempo il nostro mondo, le sue cose e la sua essenza vengono
+conservate nelle pietre. La Stanza del Consiglio degli Immortali e' a sud.
+~
+12 1176 0
+D0
+~
+~
+0 0 22 0
+D1
+~
+~
+0 0 20 0
+D2
+La Stanza del Consiglio degli Immortali e' a sud.
+~
+~
+0 -1 1204 0
+D3
+~
+~
+0 0 33 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1202
+La Scatola di Ghiaccio degli Dei~
+   La Scatola di Ghiaccio e' per quei ragazzi e ragazze che giocano male. 
+Sia buono o qualcuno verra' e lo prendera'.
+~
+12 268436732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1203
+&BIn fondo al mar&d~
+Questo e' il fondo del mare!  Benvenuto!  Qui le correnti trasportano tutti gli oggetti andati persi nei mari e nei
+fiumi della Daresia.  
+
+~
+12 140737488356504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1204
+La Stanza del Consiglio degli Immortali~
+   La Stanza del Consiglio degli Immortali e' il posto dove bisogna essere.
+Gli Dei si scambiano messaggi qui ogni giorno. La Stanza del Consiglio dei 
+Mortali e' ad est e la Sala Riunioni degli Dei e' a Sud. A nord c'e' la
+Locanda degli Dei e ad ovest c'e' l'ufficio postale per gli Dei. C'e' un grande
+scalone che scende dentro il tempio principale della citta' di Midgaard.
+Nell'angolo di nord-ovest c'e' uno scalone piu' piccolo che porta al piano
+superiore.
+~
+12 1176 0
+D0
+La Locanda degli Dei e' a nord.
+~
+~
+0 -1 1201 0
+D1
+La Stanza del Consiglio dei Mortali e' ad est.
+~
+~
+0 -1 1203 0
+D2
+La sala riunioni degli Dei e' a sud.
+~
+~
+0 -1 1200 0
+D3
+L'ufficio postale degli dei e' ad ovest.
+~
+~
+0 -1 1205 0
+D4
+C'e' una piccola scala nell'angolo che porta su nella sala sociale degli
+Dei.
+~
+~
+0 -1 1206 0
+D5
+~
+~
+0 0 2 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1205
+L'Ufficio Postale degli Dei~
+L'ufficio postale degli Dei e' uguale a tutti gli altri uffici postali
+solo che non e' cosi' lento. Tutti sanno che il servizio postale non affligge
+gli Dei. Pile di posta vecchia sono allineate lungo i muri. Io confido che 
+ogni Dio risponda in mailing list. La Stanza del Consiglio degli Immortali e'
+ad est.
+~
+12 1176 0
+D0
+~
+~
+0 0 15 0
+D1
+La Stanza del Consiglio degli Immortali e' ad est.
+~
+~
+0 -1 1204 0
+D2
+~
+~
+0 0 2405154 0
+D3
+~
+~
+0 0 6602 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1206
+La Stanza d'Intrattenimento~
+Questa stanza decorata elegantemente ha uno scopo semplice. Socializzare
+con chiunque.
+~
+12 1176 0
+D0
+~
+~
+0 0 9 0
+D1
+~
+~
+0 0 5 0
+D2
+~
+~
+0 0 10 0
+D3
+~
+~
+0 0 8 0
+D5
+La Stanza del Consiglio degli Immortali e' al piano di sotto.
+Divertente come non avevi notato prima l'uscita, non e' vero?
+~
+~
+0 -1 1204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1207
+Il Deposito degli Dei~
+   Questa e' la stanza dove gli Dei conservano oggetti e mostri
+che serviranno per il gioco/realta' del MUD.
+~
+12 8 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1208
+La Locanda del Grado Dorato~
+You are in an unfinished room.
+~
+12 208 0
+D0
+~
+~
+0 0 1464499 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1209
+La locanda dei 4 Venti~
+You are in an unfinished room.
+~
+12 216 0
+D2
+~
+~
+0 0 1512535 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1210
+La Locanda del Nano Saltellante.~
+Nothing.
+~
+12 216 0
+D3
+~
+~
+0 0 1517429 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1211
+L'inizio di una ripida scalinata~
+Stai salendo molto lentamente sul monte, senza intravvederne la sommita'. Ti senti perduto in questa nebbia violacea
+stranamente molto calda, troppo calda per la tua pelle.
+~
+12 4 0
+D3
+~
+~
+0 0 1570474 0
+D4
+~
+~
+0 0 1212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1212
+Una ripida scalinata~
+Stai salendo molto lentamente sul monte, senza intravvederne la sommita'. Ti senti perduto in questa nebbia violacea
+stranamente molto calda, troppo calda per la tua pelle.
+~
+12 70368744177664 0
+D4
+~
+~
+0 0 1213 0
+D5
+~
+~
+0 0 1211 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1213
+Una ripida scalinata~
+Stai salendo molto lentamente sul monte, senza intravvederne la sommita'. Ti senti perduto in questa nebbia violacea
+stranamente molto calda, troppo calda per la tua pelle.
+~
+12 70368744177664 0
+D4
+~
+~
+0 0 1214 0
+D5
+~
+~
+0 0 1212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1214
+Una ripida scalinata~
+Stai salendo molto lentamente sul monte, senza intravvederne la sommita'. Ti senti perduto in questa nebbia violacea
+stranamente molto calda, troppo calda per la tua pelle.
+~
+12 70368744177664 0
+D4
+~
+~
+0 0 1215 0
+D5
+~
+~
+0 0 1213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1215
+Una ripida scalinata~
+Stai salendo molto lentamente sul monte, senza intravvederne la sommita'. Ti senti perduto in questa nebbia violacea
+stranamente molto calda, troppo calda per la tua pelle.
+~
+12 70368744177664 0
+D4
+~
+~
+0 0 1216 0
+D5
+~
+~
+0 0 1214 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1216
+Una ripida scalinata~
+Stai salendo molto lentamente sul monte, senza intravvederne la sommita'. Ti senti perduto in questa nebbia violacea
+stranamente molto calda, troppo calda per la tua pelle.
+~
+12 70368744177664 0
+D4
+~
+~
+0 0 1217 0
+D5
+~
+~
+0 0 1215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1217
+Un sagrato fatiscente~
+Finalmente, dopo tanto salire, sei giunto su un sagrato, hai lasciato quella strana nebbia sotto di te, e davanti puoi 
+scorgere l'ingresso dell'Abbazia. Alzi lo sguardo e vedi un'antica cattedrale incamerata all'interno di quello che 
+potrebbe essere il bastione di un castello.
+Nelle due torri diroccate ai lati riesci a scorgere delle immense campane dal colore violaceo che sembrano non suonare 
+da secoli, mentre a sud una torre ancora piu' grande e alta sembra non avere fine e rende questo luogo ancora piu'
+misterioso e ti intimidisce.
+~
+12 0 0
+D0
+~
+~
+0 0 1218 0
+D5
+~
+~
+0 0 1216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1218
+Un ponte levatoio~
+Stai attraversando un ponte levatoio instabile, guardando ai tuoi piedi noti che mancano diverse assi di legno, e quelle 
+che sono rimaste non sono molto affidabili.
+~
+12 0 0
+D0
+~
+porta~
+2 561 1221 15
+D1
+~
+~
+0 0 1220 0
+D2
+~
+~
+0 0 1217 0
+D3
+~
+~
+0 0 1220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1219
+Un ponte levatoio~
+Stai attraversando un ponte levatoio instabile, guardando ai tuoi piedi noti che mancano diverse assi di legno, e quelle
+che sono rimaste non sono molto affidabili.
+~
+12 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1220
+Sul bordo del ponte levatoio~
+Ti sporgi per vedere cosa c'e' sotto di te, ma non fai a tempo a distinguere
+cio' che vedi, perche' il legno marcio inizia a scricchiolare e si rompe sotto
+i tuoi piedi!!!  Precipiti nel burrone....  Addio stupido curioso!    
+~
+12 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1221
+Un entrata buia~
+Sei riuscito a passare indenne il ponte, e sei giunto in un angusto atrio di
+pietra.  Un forte odore di chiuso e di muffa arriva al tuo naso.  Alle pareti
+noti una immensa X viola scritta in caratteri gotici, coperta da polvere e
+ragnatele vecchie di secoli.    
+~
+12 8 0
+D0
+~
+~
+0 0 1222 0
+D2
+~
+porta~
+1 561 1218 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1222
+La navata dei soldati di &5Xhyphys&0~
+Sei entrato nell'antica Cattedrale di &b&5&0&5Xhyphys&0&0&0, nello spazio riservato ai soldati della milizia. Delle vecchie panche di
+legno sono disposte sui due lati della navata, vicino a delle immense colonne di marmo viola sulle quali sono ancora 
+appoggiate parecchie armi. Al centro il corridoio conduce all'Altare dei Sacrifici, mentre ai lati scorgi altre due navate.
+~
+12 0 0
+D0
+~
+~
+0 0 1231 0
+D1
+~
+~
+0 0 1223 0
+D2
+~
+~
+0 0 1221 0
+D3
+~
+~
+0 0 1224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1223
+La navata orientale~
+Ai lati della navata centrale sei entrato in una zona d'ombra e d'oscurita', devi procedere con cautela perche' il buio e' 
+cosi fitto da non consertirti la visione se non da dove sei arrivato.
+~
+12 0 0
+D1
+Una porta di legno.
+~
+porta~
+1 413198 1225 131
+D3
+~
+~
+0 0 1222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1224
+La navata occidentale~
+Ai lati della navata centrale sei entrato in una zona d'ombra e d'oscurita', devi procedere con cautela perche' il buio e'
+cosi fitto da non consertirti la visione se non da dove sei arrivato.
+~
+12 0 0
+D1
+~
+~
+0 0 1222 0
+D3
+~
+porta~
+1 0 1228 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1225
+La base della torre della Follia~
+Hai trovato l'accesso a una delle torri del bastione, forse anticamente era una delle torri campanarie dell'Abbazia visto 
+che al centro c'e' ancora una grossa corda che arriva sino alla sommita'. Una debole luce passa attraverso le numerose 
+feritoie alle pareti, e riesci a malapena a scorgere una scala che porta in alto.
+~
+12 2560 0
+D3
+Una porta di legno.
+~
+porta~
+1 413198 1223 163
+D4
+~
+~
+0 0 1226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1226
+Verso la sommita' della torre~
+Stai salendo sulle scale che costeggiano le pareti della torre.  La luce si fa
+sempre piu' forte, e ti accorgi che sopra di te c'e' un'immensa campana viola.
+Su questa base le feritoie sono piu' grandi, forse da qui i soldati di Xhyphys
+si difendevano dai nemici.    
+~
+12 2560 0
+D4
+Una porta di legno.
+~
+porta~
+1 235968 1227 167
+D5
+~
+~
+0 0 1225 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1227
+Alla campana~
+Finalmente sei arrivato in cima alla Torre della Follia, da dove la vista domina il Sud Est dell'intera Daresia, e sulla 
+linea dell'orizzonte riesci a vedere il Mare del Sud. Qui il vento e' piu' forte e fa oscillare leggermente l'enorme 
+campana viola della Follia che ancora sembra funzionare, nonostante sia corrosa dal tempo e dalle intemperie.
+~
+12 0 0
+D5
+Una porta di legno.
+~
+porta~
+1 235968 1226 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1228
+La base della torre della Perdizione~
+Hai trovato l'accesso a una delle torri del bastione, forse anticamente era una delle torri campanarie dell'Abbazia visto 
+che al centro c'e' ancora una grossa corda che arriva sino alla sommita'. Una debole luce passa attraverso le numerose 
+feritoie alle pareti, e riesci a malapena a scorgere una scala che porta in alto.
+~
+12 0 0
+D1
+~
+porta~
+1 0 1224 3
+D4
+~
+~
+0 0 1229 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1229
+Verso la sommita' della torre~
+Stai salendo sulle scale che costeggiano le pareti della torre. La luce si fa sempre pi forte, e ti accorgi che sopra di te 
+c'e' un'immensa campana viola. Su questa base le feritoie sono piu' grandi, forse da qui i soldati di Xhyphys si 
+difendevano dai nemici.
+~
+12 0 0
+D4
+~
+~
+0 0 1230 0
+D5
+~
+~
+0 0 1228 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1230
+Alla campana~
+Finalmente sei arrivato in cima alla Torre della Perdizione, da dove la vista domina il Sud Ovest dell'intera Daresia, e 
+sulla linea dell'orizzonte riesci a vedere i sobborghi di Chyrellos. Qui il vento e' piu' forte e fa oscillare leggermente 
+l'enorme campana viola della Perdizione che ancora sembra funzionare, nonostante sia corrosa dal tempo e dalle 
+intemperie.
+~
+12 0 0
+D5
+~
+~
+0 0 1229 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1231
+La navata dei Sacerdoti~
+Dalla solennita' di questo luogo ti rendi conto che e' riservato solamente a
+pochi eletti, ovvero ai membri del Culto di &b&0&5Xhyphys&0&0.  Le panche che
+prima erano fatiscenti qui sono di uno splendente colore violaceo, le colonne
+ancora piu' grandi e maestose e bordate d'oro massiccio.  Sul pavimento un
+enorme tappeto finemente lavorato reca un motivo floreale a forma di X.  
+Davanti a te si trova l'immenso altare d'oro dove anticamente del sangue umano
+scorreva per compiacere il volere del Dio del Caos.    
+~
+12 0 0
+D2
+~
+~
+0 0 1222 0
+D4
+~
+~
+0 0 1232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1232
+L'altare dei Sacrifici di &5Xhyphys&0~
+Questo e' il luogo piu' solenne dell'intera Abbazia: su questo altare maledetto
+dagli antichi Dei della Daresia i seguaci del Dio del Caos sacrificavano
+animali, bruciavano interi raccolti di grano razziati nelle varie citta' e
+nelle campagne, ed uccidevano i nemici resi prigionieri, per compiacere il
+volere di &b&0&5Xhyphys&0&0 e del Suo ArciVescovo, Sua voce su questa terra.    
+~
+12 0 0
+D0
+~
+~
+0 0 1233 0
+D3
+Una porta di legno.
+~
+porta~
+1 411773 1235 135
+D5
+~
+~
+0 0 1231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1233
+L'Organo Spettrale~
+Nascosto dietro l'Altare, intravedi un gigantesco organo a canne di colore
+viola a quattro tastiere.  La sua potenza e' tale da far rieccheggiare le sue
+note anche al di fuori dell'Abbazia, per diversi chilometri.  E' lo strumento
+preferito dell'ArciVescovo, non a caso le tastiere non sono costituite da tasti
+comuni, ma da ossa umane!    
+~
+12 0 0
+D2
+~
+~
+0 0 1232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2036
+#1234
+La Cripta~
+Immense ragnatele avvolgono questo luogo buio, e scarsamente illuminato solo da
+alcune torce ad olio appese alle pareti.  Guardando attentamente ti accorgi di
+essere circondato da loculi aperti nei quali riposano per l'eternita' gli
+Adepti e i Guerrieri del culto di &b&0&5Xhyphys&0&0 caduti in battaglia sotto i colpi
+delle armi nemiche.  Al centro della sala vi sono un immenso forziere d'oro e
+un leggio sul quale e' posato un libro dai simboli arcani.    
+~
+12 1125899906845312 0
+D4
+~
+~
+0 0 1233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1235
+Una vecchia sagrestia~
+Direttamente collegata all'altare, un'antichissima sagrestia  circondata da armadi a muro finemente intarsiati con 
+motivi recanti la lettera X. Al centro della sala noti un massiccio tavolo di marmo sopra al quale sono posati alcuni 
+paramenti religiosi: una mitra e un bastone nodoso, forse magico. Piu' in fondo, in un angolo, puoi notare uno scrittoio.
+~
+12 2560 0
+D1
+Una porta di legno.
+~
+porta~
+1 411773 1232 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1244
+L'ingresso del labirinto.~
+Ti trovi difronte ad un immenso portone nero , coperto di rune azzurre finemente incise
+questo e' l' ingresso del Labirinto
+chi e' stato rinchiuso qui e' DANNATO per sempre!
+~
+12 0 0
+D1
+~
+~
+0 0 24033 0
+D2
+~
+portale~
+2 1456 1245 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1245
+Nel labirinto~
+Qui il tempo sembra fermo all'ora del tramonto , il cielo e rosso fuoco,
+ma intorno le tenebre avanzano mincacciose scorgi in lontananza piccoli fuochi, cosa mai avra fatto chi e stato rinchiuso qui per meritarsi cio ?
+~
+12 1 0
+D0
+~
+IL PORTALE DEL LABIRINTO~
+2 0 1244 15
+D2
+~
+~
+0 0 1246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1246
+Nel labirinto~
+Ti sei appena inoltrato nel labirinto , e gia ti senti osservato da migliaia di piccoli ochhi rossi
+certamente non sono le rune di protezione del portale!
+~
+12 33 0
+D0
+~
+~
+0 0 1245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1247
+Nel labrinto~
+Il piccolo sentiero continua da qui a nord per tornartene a casa .......
+a sud est e owest, di dove le altre direzioni possano portarti non ne hai la minima idea .......
+comunque una cosa e certa l'aria si e' fatta piu' umida e pesante, in lontananza a sud scorgi delle luci , sembrerebbero delle fiaccole ,,,,,,,,,,,sembrerebbero.
+~
+12 33 0
+D1
+~
+~
+0 0 1246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1248
+Stanza di prova~
+Questa e' solo una stanza di prova...
+Prima di modificarla eliminare il trigger o rischia il boom
+~
+12 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31396
+$~

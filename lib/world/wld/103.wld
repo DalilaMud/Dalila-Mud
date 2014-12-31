@@ -1,0 +1,1772 @@
+#10301
+Entrata del Castello di Gilead~
+   Ti trovi all'entrata dell'antico Castello di Gilead, sede del clan La Torre Nera.
+Sopra al portone d'ingresso c'e un'incisione vecchia quanto il castello: Onore e Lealta'.
+
+
+  _     _                 _     _
+  \^^^^^/                 \^^^^^/
+   |   |                   |   |
+   |   |_  _  _  _  _  _  _|   |
+    \    \/ \/ \/ \/ \/ \/    /
+     |                       |
+     |                       |
+     |    Onore e Lealta'    |
+     |         ____          |
+     |        |####| La Torre|
+     |        |####|   Nera  |
+    /         |####|          \
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~
+103 72 1
+D1
+~
+ponte~
+2 10301 2084553
+D2
+~
+~
+0 -1 10302
+E
+targa~
+La targa avvisa che il castello e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#10302
+Salone di benvenuto~
+Sei nel salone di entrata del castello. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+103 216 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 10301
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10303
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 10304
+S
+#10303
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+103 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10302
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10305
+S
+#10304
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+103 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 10314
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 10302
+S
+#10305
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+103 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 10303
+D2
+Un largo corridoio.
+~
+~
+0 -1 10306
+S
+#10306
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10305
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10307
+D3
+La sala delle riunioni.
+~
+~
+0 -1 10312
+S
+#10307
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10306
+D1
+
+~
+~
+1 -1 10313
+D2
+La fine del corridoio.
+~
+~
+0 -1 10308
+S
+#10308
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+103 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10307
+D4
+Una scala a chiocciola. 
+~
+~
+1 -1 10309
+S
+#10309
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+103 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 10310
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 10308
+S
+#10310
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+103 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 10311
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10309
+S
+#10311
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta Deira. 
+~
+103 24 0
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10310
+S
+#10312
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+103 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 10306
+S
+#10313
+Ufficio del Clan Master~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+103 220 0
+D3
+Sul corridoio.
+~
+~
+1 -1 10307
+S
+#10314
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+103 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 10316
+D2
+I dormitori.
+~
+~
+0 -1 10315
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 10304
+S
+#10315
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+103 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 10314
+S
+#10316
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze forziere del castello.
+~
+103 216 0
+D0
+Una stanza del castello.
+~
+~
+0 -1 10317
+D1
+La fine del corridoio.
+~
+~
+0 -1 10318
+D3
+Nel corridoio.
+~
+~
+0 -1 10314
+S
+#10317
+Una stanza del castello.~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+103 216 0
+D2
+
+~
+~
+0 -1 10316
+S
+#10318
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+forziere del castello.
+~
+103 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 10319
+D2
+Stanza donation.
+~
+~
+1 -1 10320
+D3
+Nel corridoio.
+~
+~
+0 -1 10316
+S
+#10319
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4312 0
+D2
+
+~
+~
+1 -1 10318
+S
+#10320
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4188 0
+D0
+Nel corridoio.
+~
+~
+1 -1 10318
+S
+#10321
+Il Salone dell'Armonia~
+L'entrata ha un aspetto nobile, tipico delle sedi dei Clan della Daresia.
+Sul portone vi e' lo stemma: una luna piena con una rosa nera.
+C'e' una TARGA sul muro.
+~
+103 520 1
+D1
+~
+ponte levatoio~
+2 10321 2045154
+D2
+~
+~
+0 0 10322
+E
+targa~
+La targa avvisa che il palazzo e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#10322
+Salone di benvenuto~
+Sei nel salone di entrata del palazzo. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+103 216 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 10321
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10323
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 10324
+S
+#10323
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+103 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10322
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10325
+S
+#10324
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+103 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 10334
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 10322
+S
+#10325
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+103 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 10323
+D2
+Un largo corridoio.
+~
+~
+0 -1 10326
+S
+#10326
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10325
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10327
+D3
+La sala delle riunioni.
+~
+~
+0 -1 10332
+S
+#10327
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10326
+D1
+
+~
+~
+1 -1 10333
+D2
+La fine del corridoio.
+~
+~
+0 -1 10328
+S
+#10328
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+103 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10327
+D4
+Una scala a chiocciola. 
+~
+~
+0 -1 10329
+S
+#10329
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+103 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 10330
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 10328
+S
+#10330
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+103 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 10331
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10329
+S
+#10331
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta Chyrellos. 
+~
+103 24 0
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10330
+S
+#10332
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+103 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 10326
+S
+#10333
+Ufficio del Clan Master~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+103 732 0
+D3
+Sul corridoio.
+~
+~
+1 -1 10327
+S
+#10334
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+103 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 10336
+D2
+I dormitori.
+~
+~
+0 -1 10335
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 10324
+S
+#10335
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+103 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 10334
+S
+#10336
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze donation del palazzo.
+~
+103 216 0
+D0
+Una stanza del palazzo.
+~
+~
+0 -1 10337
+D1
+La fine del corridoio.
+~
+~
+0 -1 10338
+D3
+Nel corridoio.
+~
+~
+0 -1 10334
+S
+#10337
+Una stanza del palazzo.~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+103 216 0
+D2
+
+~
+~
+0 -1 10336
+S
+#10338
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+donation del palazzo.
+~
+103 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 10339
+D2
+Stanza donation.
+~
+~
+1 -1 10340
+D3
+Nel corridoio.
+~
+~
+0 -1 10336
+S
+#10339
+Il forziere di Adamok~
+Questa e' la stanza donation del palazzo. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4824 0
+D2
+
+~
+~
+1 -1 10338
+S
+#10340
+Stanza donation.~
+Questa e' la stanza donation del palazzo. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4700 0
+D0
+Nel corridoio.
+~
+~
+1 -1 10338
+S
+#10341
+Entrata del castello degli Invisibili~
+L'entrata ha un aspetto nobile, tipico delle sedi dei Clan di Daresia. Sul
+portone vi e' lo stemma di una testa di Drago. C'e' una targa sul muro.
+
+~
+103 732 1
+D0
+~
+porta~
+2 10342 40008
+D1
+~
+Ponte levatoio~
+2 10341 2024849
+D2
+~
+~
+0 -1 10342
+E
+targa~
+La targa avvisa che il castello e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#10342
+Salone di benvenuto~
+Sei nel salone di entrata del castello. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+103 216 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 10341
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10343
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 10344
+S
+#10343
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+103 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10342
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10345
+S
+#10344
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+103 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 10354
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 10342
+S
+#10345
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+103 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 10343
+D2
+Un largo corridoio.
+~
+~
+0 -1 10346
+S
+#10346
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10345
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10347
+D3
+La sala delle riunioni.
+~
+~
+0 -1 10352
+S
+#10347
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10346
+D1
+
+~
+~
+1 -1 10353
+D2
+La fine del corridoio.
+~
+~
+0 -1 10348
+S
+#10348
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+103 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10347
+D4
+Una scala a chiocciola. 
+~
+~
+1 -1 10349
+S
+#10349
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+103 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 10350
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 10348
+S
+#10350
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+103 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 10351
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10349
+S
+#10351
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta la campagna circostante. 
+~
+103 24 0
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10350
+S
+#10352
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+103 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 10346
+S
+#10353
+Ufficio del Clan Master~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+103 732 0
+D3
+Sul corridoio.
+~
+~
+1 -1 10347
+S
+#10354
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+103 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 10356
+D2
+I dormitori.
+~
+~
+0 -1 10355
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 10344
+S
+#10355
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+103 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 10354
+S
+#10356
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze forziere del castello.
+~
+103 8408 0
+D0
+Una stanza del castello.
+~
+~
+0 -1 10357
+D1
+La fine del corridoio.
+~
+~
+0 -1 10358
+D2
+~
+~
+0 0 18901
+D3
+Nel corridoio.
+~
+~
+0 -1 10354
+S
+#10357
+Una stanza del castello.~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+103 216 0
+D2
+
+~
+~
+0 -1 10356
+S
+#10358
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+forziere del castello.
+~
+103 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 10359
+D2
+Stanza donation.
+~
+~
+1 -1 10360
+D3
+Nel corridoio.
+~
+~
+0 -1 10356
+S
+#10359
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4312 0
+D2
+
+~
+~
+1 -1 10358
+S
+#10360
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4700 0
+D0
+Nel corridoio.
+~
+~
+1 -1 10358
+S
+#10361
+Entrata del Castello del Chaos~
+L'entrata ha un aspetto nobile, tipico delle sedi dei Clan di Daresia. Sul
+portone vi e' lo stemma con disegnato un serpente. C'e' una targa sul muro.
+~
+103 732 1
+D0
+Una strada attraverso la pianura.
+~
+~
+0 -1 6092
+D2
+~
+~
+0 -1 10362
+E
+targa~
+La targa avvisa che il castello e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#10362
+Salone di benvenuto~
+Sei nel salone di entrata del castello. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+103 216 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 10361
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10363
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 10364
+S
+#10363
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+103 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10362
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10365
+S
+#10364
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+103 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 10374
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 10362
+S
+#10365
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+103 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 10363
+D2
+Un largo corridoio.
+~
+~
+0 -1 10366
+S
+#10366
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10365
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10367
+D3
+La sala delle riunioni.
+~
+~
+0 -1 10372
+S
+#10367
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10366
+D1
+
+~
+~
+1 -1 10373
+D2
+La fine del corridoio.
+~
+~
+0 -1 10368
+S
+#10368
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+103 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10367
+D4
+Una scala a chiocciola. 
+~
+~
+1 -1 10369
+S
+#10369
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+103 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 10370
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 10368
+S
+#10370
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+103 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 10371
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10369
+S
+#10371
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta Deira. 
+~
+103 24 0
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10370
+S
+#10372
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+103 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 10366
+S
+#10373
+Ufficio di Ijan~
+Vedi fruste, divaricatori e anche una vergine di Norimberga in questa
+stanza tutta imbrattata di sangue. Sul muro c'e' un cartello.
+~
+103 732 0
+D3
+Sul corridoio.
+~
+~
+1 -1 10367
+E
+cartello~
+C'e' scritto col sangue: LA VITA E' BASTARDA!!
+~
+S
+#10374
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+103 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 10376
+D2
+I dormitori.
+~
+~
+0 -1 10375
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 10364
+S
+#10375
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+103 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 10374
+S
+#10376
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze forziere del castello.
+~
+103 216 0
+D0
+Una stanza del castello.
+~
+~
+0 -1 10377
+D1
+La fine del corridoio.
+~
+~
+0 -1 10378
+D3
+Nel corridoio.
+~
+~
+0 -1 10374
+S
+#10377
+Una stanza del castello.~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+103 216 0
+D2
+
+~
+~
+0 -1 10376
+S
+#10378
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+forziere del castello.
+~
+103 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 10379
+D2
+Stanza donation.
+~
+~
+1 -1 10380
+D3
+Nel corridoio.
+~
+~
+0 -1 10376
+S
+#10379
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4312 0
+D2
+~
+~
+1 -1 10378
+S
+#10380
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 4824 0
+D0
+~
+~
+0 0 10378
+D1
+~
+~
+1 -1 10378
+S
+#10381
+Entrata nel Castello del Sendero Luminoso~
+L'entrata ha un aspetto nobile, tipico delle sedi dei Clan di Daresia. Sul
+portone vi e' lo stemma con disegnato un serpente. C'e' una targa sul muro.
+~
+103 732 1
+D1
+~
+ponte~
+2 10381 2015250
+D2
+~
+~
+0 -1 10382
+E
+targa~
+La targa avvisa che il castello e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#10382
+Salone di benvenuto~
+Sei nel salone di entrata del castello. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+103 216 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 10381
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10383
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 10384
+S
+#10383
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+103 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10382
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10385
+D3
+~
+~
+0 0 18905
+S
+#10384
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+103 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 10394
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 10382
+S
+#10385
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+103 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 10383
+D2
+Un largo corridoio.
+~
+~
+0 -1 10386
+S
+#10386
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10385
+D2
+Un lungo corridoio.
+~
+~
+0 -1 10387
+D3
+La sala delle riunioni.
+~
+~
+0 -1 10392
+S
+#10387
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+103 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10386
+D1
+~
+~
+1 -1 10393
+D2
+La fine del corridoio.
+~
+~
+0 -1 10388
+S
+#10388
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+103 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 10387
+D4
+Una scala a chiocciola. 
+~
+~
+1 -1 10389
+S
+#10389
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+103 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 10390
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 10388
+S
+#10390
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+103 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 10391
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10389
+S
+#10391
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta Deira. 
+~
+103 24 0
+D0
+~
+~
+0 0 18903
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 10390
+S
+#10392
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+103 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 10386
+S
+#10393
+Ufficio del Clan Master~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+103 732 0
+D3
+Sul corridoio.
+~
+~
+1 -1 10387
+S
+#10394
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+103 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 10396
+D2
+I dormitori.
+~
+~
+0 -1 10395
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 10384
+S
+#10395
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+103 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 10394
+S
+#10396
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze forziere del castello.
+~
+103 8408 0
+D0
+Una stanza del castello.
+~
+~
+0 -1 10397
+D1
+La fine del corridoio.
+~
+~
+0 -1 10398
+D2
+La stanza di Corman
+~
+~
+0 0 18902
+D3
+Nel corridoio.
+~
+~
+0 -1 10394
+S
+#10397
+La Biblioteca~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+103 216 0
+D2
+~
+~
+0 -1 10396
+S
+#10398
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+forziere del castello.
+~
+103 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 10399
+D3
+Nel corridoio.
+~
+~
+0 -1 10396
+S
+#10399
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+103 728 0
+D2
+~
+~
+1 -1 10398
+S
+$~

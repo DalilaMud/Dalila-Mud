@@ -1,0 +1,967 @@
+#1300
+&1Un delizioso salone ricevimenti!&0~
+Una grande, elegantissima sala da pranzo e' stata allestita per una festa di gran gala...
+un immenso tavolo di marmo e cristallo in mezzo alla stanza e' pieno delle piu' gustose
+leccornie, sulle quali troneggia una colossale torta alla panna a diversi piani
+magnificamente decorata. Strampalati musicisti suonano avvolti in una cortina di fumo
+e ai quattro angoli della stanza vi sono grandi, strani cubi di quarzo verde... 
+~
+13 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1301
+La piccola sala d'aspetto~
+Ti trovi in una sala d'aspetto piccola e dalla luce soffusa...
+Una porta di legno pregiato da' su una stanza dalla quale 
+sembrano venire strane vibrazioni...
+Un grande cartello ti leva ogni dubbio...
+
+&1Lasciate ogni decenza o voi che entrate!&0
+~
+13 0 0
+D0
+~
+~
+0 0 1300 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1302
+La &1cappella&0 di pietra.~
+Entrato nella cappella ti trovi immerso nella &3luce&0 delle numerose candele
+appese ai muri.  L'altare che si erge esattamente al centro della stanza, e'
+interamente coperto di &4fiori&0.  Sul fondo della stanza c'e' una grande
+&1incisione&0 su pietra sulla quale puoi distinguere benissimo il simbolo della
+&6Chiesa Daresiana&0.    
+~
+13 520 0
+D3
+Valle del Nedrane
+~
+portone~
+1 0 1519460 1
+E
+incisione~
+&b&7                &1@                         &0 ;
+&b&7                 &1@&2--   &7OOOOO&2/&7OOOOOOOOO                      ;
+&b&7                    \/O\OOO/O\OOOOOOOOOOO---@               ;
+&b&7                   O/OOO\O/OOO\OOOOOOOOO/OO                 ;
+&b&7                 OO/\OOO \     \     OO/O\OO                ;
+&b&7                OO/OO\O   -@    \-----/OOO\----@            ;
+&b&7               OO/OOOO-----@     \       OOOO               ;
+&b&7          @--  O/OOOOOO           \                         ;
+&b&7             \ /OOOOOOO            @                        ;
+&b&7              |OOOOOO/---@                                  ;
+&b&7        @-----\OOOOO/OO                                     ;
+&b&7            @--\OOO/OOO                                     ;
+&b&7               O\O/OOOO                  @                  ;
+&b&7               OO|OOOOO  @                \                 ;
+&b&7               OO|OOOOO  |           @   O|OO  @            ;
+&b&7                O|OOOOO  |  -@        \OOO|OO /             ;
+&b&7             @-------OOO  \/         O--------              
+&b&7                  OO\OOOOO\OOOOOOOOO/OOOO\   \---@         ;
+&b&7                    O\OOOOO\OOOOOOO/OOOO  \   @            ;
+&b&7                      |OOOOO\OOOOO/OO      @               ;
+&b&7                      |     |     |                        ;
+&b&7                      |     |     |         
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1303
+Il prato del cimitero~
+Nothing.  I tuoi piedi sono immersi nell'erba alta.  La nebbia che non ti molla
+nemmeno per un secondo rende l'atmosfera ancora piu' spettrale.    
+~
+13 131072 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1304
+La porta della citta' dei nani.~
+Sei di fronte ad un portone di pietre che non e' molto grande, ma per un nano
+deve essere sembrato enorme.    
+~
+13 0 0
+D0
+~
+portone~
+1 0 1305 3
+D2
+~
+~
+0 0 1303 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1305
+L'atrio principale~
+Sei all'interno della citta' sotterranea e ti imbatti in un incredibile atrio
+dalle smisurate proporzioni.  Dall'esterno nulla avrebbe fatto presagire una
+cosi' grande opera architettonica.    
+~
+13 0 0
+D2
+~
+portone~
+1 0 1304 3
+D3
+~
+~
+0 0 1306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1306
+Il posto di guardia~
+E' un continuo via vai di nani armati dino ai denti che pattugliano l'atrio
+principale e l'entrata della citta'.  Non ti senti davvero a tuo agio con tutto
+questo rumore di ferraglia e il rimbombo che ne consegue sulle pareti di
+pietra.    
+~
+13 0 0
+D1
+~
+~
+0 0 1305 0
+D5
+~
+botola~
+1 0 1307 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1307
+Il corridoio delle prigioni.~
+Un buio corridoio, illuminato soltanto da qualche fiaccola appesa, ti conduce
+verso il basso.  Piu' ti inoltri nell'oscurita' e piu' si odono in lontanaza
+lamenti e grida.    
+~
+13 256 0
+D4
+~
+botola~
+1 0 1306 1
+D5
+~
+~
+0 0 1308 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1308
+La sala dello smistamento dei prigionieri.~
+A est si intravede una sala piena di macchine da tortura.  A sud noti un
+corridoio e una lunga serie di celle.  Da ovest giunge un calore davvero
+insopportabile, che sara' mai?    
+~
+13 0 0
+D1
+~
+portone~
+1 0 1309 1
+D2
+~
+~
+0 0 1310 0
+D3
+~
+~
+0 0 1321 0
+D4
+~
+~
+0 0 1307 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1309
+La sala delle torture.~
+Ci sono macchinari di tutti i tipi.  Grandi per gli umani, piccoli per i nani e
+per ogni sorta di creatura Daresiana.  Il puzzo del sangue e della morte e'
+nauseante.    
+~
+13 0 0
+D3
+~
+portone~
+1 0 1308 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1310
+Il corridoio delle celle~
+Eccole!  Ti trovi finalmente nella zona da cui provenivano le voci.  Da ogni
+dove, i condannati cercano di attirare la tua attenzione in cerca di un aiuto.
+  
+~
+13 0 0
+D0
+~
+~
+0 0 1308 0
+D1
+~
+cella~
+1 0 1313 1
+D2
+~
+~
+0 0 1311 0
+D3
+~
+cella~
+1 0 1314 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1311
+Dentro il corridoio delle celle~
+Piu' ti addentri e piu' vedi una quantita' incredibile di prigionieri ammassati
+nelle celle.  I nani non scherzano con la legge, o la rispetti o finisci a
+marcire nelle loro prigioni.    
+~
+13 0 0
+D0
+~
+~
+0 0 1310 0
+D1
+~
+cella~
+1 0 1315 1
+D2
+~
+~
+0 0 1312 0
+D3
+~
+~
+0 0 1316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1312
+La zona di massima sicurezza~
+E' sicuramente la zona con i criminali piu' pericolosi'.  Ovunque ci sono nani
+che gironzolano armati per impedire qualsiasi tentativo di fuga.    
+~
+13 0 0
+D0
+~
+~
+0 0 1311 0
+D1
+~
+barriera~
+1 0 1319 1
+D2
+~
+porta~
+1 0 1318 7
+D3
+~
+~
+0 0 1320 0
+D5
+~
+~
+0 0 1317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1313
+La cella dei troll~
+Mamma mia che puzza!  Si sente proprio che sei entrato nella cella adibita alla
+detenzione dei troll.  Il loro odio per la pulizia e per l'igiene in generale
+e' ormai proverbiale!    
+~
+13 0 0
+D3
+~
+cella~
+1 0 1310 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1314
+La cella dei golem~
+E' sicuramente la piu' grande cella che tu abbia mai visto.  Qui dentro ci
+stanno i golem che date le loro dimensioni non posso stare in stanze piccole.
+Pero' questi nani...  A lavorare la pietra sono davvero bravi!    
+~
+13 0 0
+D1
+~
+cella~
+1 0 1310 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1315
+La cella degli orchi~
+Eccoli qui.  Sempre a digrignare i denti e a far rumore.  Il male li ha
+forgiati e da lui sono nutriti.  Anche se senza armi e con le catena ai piedi,
+gli orchi sono davvero pericolosi.    
+~
+13 0 0
+D3
+~
+cella~
+1 0 1311 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1316
+Il ripostiglio~
+C'e' un mare di cianfrusaglie e una grandissima confusione in tutta la stanza.
+Ovunque vedi armi, scaffali pieni di ferraglie, armadi stracolmi di catene,
+armature e altri pezzi di ferro.    
+~
+13 0 0
+D1
+~
+~
+0 0 1311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1317
+La buca~
+Quanto mai ti e' venuto in mente di scendere in questa buca!  E' la buca in cui
+vengono gettati i condannati a morte, hai poche alterntive, o combattere o
+morire!    
+~
+13 0 0
+D4
+~
+grata~
+1 0 1312 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1318
+La cella oscura~
+Buio, solo buio.  Non riesci a vedere ad un palmo dal naso...  Eppure qualcosa
+dovra' esserci...  OPS...  Sei inciampato in qualcosa.  Sembra una coda, ma di
+chi?    
+~
+13 1 0
+D0
+~
+porta~
+1 0 1312 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1319
+La cella magica~
+Al posto delle porte come nelle altre celle, qui trovi una barriera per
+impedire ai carcerati di scappare.  Evidentemente i maghi e gli stregoni che
+qui sono reclusi, non avrebbero problemi a superare una qualsiasi porta.    
+~
+13 0 0
+D3
+~
+barriera~
+1 0 1312 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1320
+Le stanze dei carcerieri.~
+Letti ben disposti in appositi buchi scavati nella parete di roccia, fanno da
+giacigli alle guardie in questa grotta illuminata da torce e lampade ad olio.
+  
+~
+13 0 0
+D1
+~
+~
+0 0 1312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1321
+L'entrata al cratere~
+Il calore si fa sempre piu' insopportabile e l'aria che entra nei polmoni
+sembra quasi bruciare.  Sarebbe meglio non proseguire e tornare indietro.    
+~
+13 70368744177664 0
+D1
+~
+~
+0 0 1308 0
+D3
+~
+~
+0 0 1322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1322
+Il cratere~
+Lo sapevi anche tu...  Andare vicino ad un cratere e' fin troppo pericoloso.  
+Ti sporgi troppo sul bordo che frana e cadi senza speranza nel fiume di lava
+che ti porta via sciogliendoti...  Peccato...    
+~
+13 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1323
+La buca del demone~
+Questa buca e' stata scavata nella parete rocciosa dell'edificio. Un 
+cumulo di teschi e alcune monete ed oggetti vari sono ammassati in un 
+angolo. Dei pezzi di cadavere sono sparpagliati e l'odore rancido riempie 
+le narici. Si direbbe che sia il covo di qualche creatura spaventosa.
+~
+13 0 0
+D4
+~
+~
+0 0 1381 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1329
+La stanza dei sogni~
+&1          volano....&0
+&2stelle....&0
+&3     nel cielo.....&0
+&4infinito....&0
+
+e tu ti perdi nella delizia di questa stanza...
+Devi sbattere gli occhi una decina di volte per ritrovare la lucidita'..
+~
+13 128 0
+D5
+~
+~
+0 0 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1330
+La stanza degli specchi~
+Che buffo...  Ogni tua immagine riflessa e distorta.  E pensare che per un
+attimo si era fatta strada la convinzione di aver messo su una trentina di
+chili..  Una volta liberati da questo dubbio fatale pensate sia ora di trovare
+il modo di uscire di qui.  &0
+~
+13 0 0
+D2
+~
+~
+0 0 1329 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1331
+Il labirinto di giada~
+Decine di incisioni e rilievi affrescano le pareti di questo immenso labirinto...
+~
+13 0 0
+D0
+~
+~
+0 0 1329 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1332
+Il labirinto di pietra~
+Altissime pareti di pietra si incastrano per congiungersi nello stupendo
+soffitto affrescato.  La solida roccia si direbbe indistruttibile.    
+~
+13 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1333
+&7&bLa stanza dei punti di Silue&0~
+&7&bQuesta stanza e' FONDAMENTALE perche' funzionino le autoquest di Silue,
+non cancellare per NESSUN motivo!&0
+~
+13 3712 0
+D0
+Una porta di legno.
+~
+porta~
+1 890121 1601 167
+D2
+~
+~
+0 0 1334 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1334
+&1&bLa stanza dei punti di Shaarr&0~
+&1&bQuesta stanza e' FONDAMENTALE perche' funzionino le autoquest di Silue,
+non cancellare per NESSUN motivo!&0
+~
+13 3712 0
+D0
+~
+~
+0 0 1333 0
+D2
+~
+~
+0 0 1335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1335
+&0&bLa stanza dei punti di Xhyphys&0~
+&0&bQuesta stanza e' FONDAMENTALE perche' funzionino le autoquest di Silue,
+non cancellare per NESSUN motivo!&0
+~
+13 3712 0
+D0
+~
+~
+0 0 1334 0
+D2
+~
+~
+0 0 1336 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1336
+&6&bLa stanza dei punti di Therion&0~
+&6&bQuesta stanza e' FONDAMENTALE perche' funzionino le autoquest di Silue,
+non cancellare per NESSUN motivo!&0
+~
+13 3712 0
+D0
+~
+~
+0 0 1335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1337
+La stanza della purga~
+Una seconda purgaroom... carino, no?
+
+
+&4&b&fASSOLUTAMENTE NON TOCCATE NULLA QUI DENTRO. CHI VERRA' SORPRESO IN QUESTA STANZA VERRA' BRASATO ALL'ISTANTE.&0
+~
+13 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1338
+Una stanza tanto brutta~
+Questa stanza e' completamente priva d'interesse per te,
+perche' non te ne vai?
+~
+13 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1340
+Un grande lotto di terreno~
+L'area e' sterrata e gli alberi sono stati tagliati per permettere la costruzione!
+~
+13 0 0
+D1
+~
+~
+0 0 1341 0
+D3
+~
+~
+0 0 1425565 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1341
+Un grande lotto di terreno~
+L'area e' sterrata e gli alberi sono stati tagliati per permettere la costruzione!
+~
+13 4 0
+D1
+~
+~
+0 0 1342 0
+D3
+~
+~
+0 0 1340 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1342
+Un grande lotto di terreno~
+L'area e' sterrata e gli alberi sono stati tagliati per permettere la costruzione!
+~
+13 0 0
+D3
+~
+~
+0 0 1341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1349
+La &7Casa&0 del &1Viandante&0~
+L'aspetto un po' rustico dell'esterno fa contrasto con l'&4ordine&0 e
+l'&4armonia&0 che vedi qui dentro.  Seppur ci siano molti &6viandanti&0 e
+&6pellegrini&0 che qui cercano un pasto caldo e un rifugio per la notte, tutto
+si svolge nel massimo della &3tranquillita'&0 e della &3calma&0.  Un posto
+perfetto per trovare &1conforto&0 dalle fatiche quotidiane.  Su di un muro noti
+il quadro che raffigura i due &1amanti&0 che hanno voluto la costituzione di
+questo edificio.    
+~
+13 0 0
+D0
+La strada tra Lamorka e Chyrellos
+~
+~
+0 0 1582463 0
+D4
+~
+porticina~
+1 1353 1351 7
+E
+quadro~
+Il quadro raffigura &5Tajmaku&0 e &6Ceredwren&0 abbracciati sotto ad un grande
+albero mentre guardano il &3sole&0 nascere ad oriente.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1350
+Una buia spelonca~
+Il forte caldo e l'aria stantia rendono l'atmosfera infernale. Non vedi l'ora di riuscire ad andartene.
+~
+13 17 0
+D5
+~
+~
+0 0 1474440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1351
+La piccola cucina~
+In questa piccola cucina Brollo prepara e prende i deliziosi cibi da servire ai
+viandanti stanchi...  Grazie ai frequenti rifornimenti di Ceredwren e Tajmaku
+ai fortunati che passano da queste parti non manca mai un boccone caldo!    
+~
+13 2048 0
+D5
+~
+porticina~
+1 1353 1349 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1352
+L'entrata al cimitero~
+Ti stai avventurando in un buio sentiero circondato da alti cipressi.  La
+vegetazione man mano che vai avanti sembra chiudersi alle tue spalle e una
+fitta nebbiolina inizia ad insinuarsi tra i tuoi piedi.    
+~
+13 4 0
+D0
+Verso i cancelli del cimitero
+~
+~
+0 0 1353 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1353
+I cancelli del cimitero~
+Ti giri e non vedi piu' la strada dalla quale sei arrivato!  Ormai l'unica cosa
+che puoi fare e' andare avanti anche se le statue minacciose che troneggiano
+alle estremita' del cancello, non sono di certo di buon auspicio.    
+~
+13 0 0
+D0
+Un prato con l'erba alta.
+~
+cancello~
+1 0 1303 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1360
+Il labirinto della ragione~
+Ti senti perso.  Nei meandri della tua stessa psiche, fuori dal mondo
+materiale, dal dolore, dalla paura, dalla rabbia.  Quella che stai provando e'
+pura angoscia..  Sei perso in un labirinto fatto di nulla.  Si puo' forse
+fuggire al nulla quando vi si vive?  Puo' la ragione vincere la perdizione?  O
+forse la disperazione avra' la meglio e ti rassegnerai a rimanere per sempre in
+questo tunnel senza fine?    
+~
+13 176 0
+D0
+~
+~
+0 0 1361 0
+D1
+~
+~
+0 0 1360 0
+D2
+~
+~
+0 0 1361 0
+D3
+~
+~
+0 0 1360 0
+D4
+~
+~
+0 0 1360 0
+D5
+~
+~
+0 0 1361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1361
+Il labirinto della ragione~
+Ti senti perso.  Nei meandri della tua stessa psiche, fuori dal mondo
+materiale, dal dolore, dalla paura, dalla rabbia.  Quella che stai provando e'
+pura angoscia..  Sei perso in un labirinto fatto di nulla.  Si puo' forse
+fuggire al nulla quando vi si vive?  Puo' la ragione vincere la perdizione?  O
+forse la disperazione avra' la meglio e ti rassegnerai a rimanere per sempre in
+questo tunnel senza fine?    
+~
+13 0 0
+D0
+~
+~
+0 0 1360 0
+D1
+~
+~
+0 0 1360 0
+D2
+~
+~
+0 0 1361 0
+D3
+~
+~
+0 0 1362 0
+D4
+~
+~
+0 0 1360 0
+D5
+~
+~
+0 0 1361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1362
+Il labirinto della ragione~
+Ti senti perso.  Nei meandri della tua stessa psiche, fuori dal mondo
+materiale, dal dolore, dalla paura, dalla rabbia.  Quella che stai provando e'
+pura angoscia..  Sei perso in un labirinto fatto di nulla.  Si puo' forse
+fuggire al nulla quando vi si vive?  Puo' la ragione vincere la perdizione?  O
+forse la disperazione avra' la meglio e ti rassegnerai a rimanere per sempre in
+questo tunnel senza fine?    
+~
+13 176 0
+D0
+~
+~
+0 0 1361 0
+D1
+~
+~
+0 0 1360 0
+D2
+~
+~
+0 0 1361 0
+D3
+~
+~
+0 0 1360 0
+D4
+~
+~
+0 0 1362 0
+D5
+~
+~
+0 0 1363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1363
+Il labirinto della ragione~
+Ti senti perso.  Nei meandri della tua stessa psiche, fuori dal mondo
+materiale, dal dolore, dalla paura, dalla rabbia.  Quella che stai provando e'
+pura angoscia..  Sei perso in un labirinto fatto di nulla.  Si puo' forse
+fuggire al nulla quando vi si vive?  Puo' la ragione vincere la perdizione?  O
+forse la disperazione avra' la meglio e ti rassegnerai a rimanere per sempre in
+questo tunnel senza fine?    
+~
+13 176 0
+D0
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 1329 0
+D2
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1377
+La prigione di cristallo~
+In questa prigione completamente scolpita in un grande cristallo azzurro il re
+dei tritoni imprigiona le sue prede occasionali per poi divertirsi a sottoporle
+a indovinelli.  La sua crudelta' e' grande quanto la sua astuzia, e raramente i
+poveretti riescono a cavarsela.    
+~
+13 0 0
+D5
+~
+~
+0 0 18229 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1380
+Una spelonca sotterranea~
+La botola ti da' accesso a questa piccola caverna.  Completamente vuota e non
+illuminata, e' la tipica stanza dalla quale ti aspetteresti trappole in ogni
+angolo.  Una piccola porta in legno rinforzato e' socchiusa su un lato, e
+sembra emergerne un fievolissimo spiraglio di luce..  Cio' che e' sicuro e' che
+questo buco e' il frutto del lavoro di mani umane.    
+~
+13 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1381
+Nel tempietto del rituale~
+Ti trovi in un buio, quadrato anfratto dalle pareti di nerissimo metallo.  
+L'aria e' piu' che rarefatta, il buio praticamente totale.  Solo, a terra
+brillano due grandi cerchi concentrici rosso sangue, attorno ai quali sono
+posti alcuni piedistalli.  Non puoi trattenere ogni tua paura.  Sembra
+materializzarsi dentro al tuo corpo.    
+~
+13 0 0
+D4
+~
+botola~
+2 1381 1579484 15
+D5
+~
+~
+0 0 1323 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1383
+#1390
+Un enorme pacco regalo~
+Sei in una gigantesca scatola di cartone...  L'aria e' profumata di crema e
+cioccolato, e dappertutto nastri colorati portano felicita' nell'atmosfera.  E
+dalla grande torta che troneggia nel centro un'invitante e inaspettata sorpresa
+ti rivolge uno sguardo che non dimenticherai mai...    
+~
+13 0 0
+D0
+~
+~
+0 0 2184561 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1391
+Davanti a un'orribile mutazione~
+E' orribile!!!  Dove giaceva la splendida citta' di Roma un'enorme nuvola nera
+lancia lampi e tuoni!  Mostruose radici terminanti con immensi artigli emergono
+dal terreno come la colossale mano di un demone..  E tenebrose urla ti fanno
+rabbrividire.  Chi puo' essere stato capace di tanto?  Che ne sara' di questo
+luogo?  Forse non hai tempo per le domande..  Devi allontanarti.    
+~
+13 0 0
+D3
+~
+~
+0 0 1487591 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1392
+&1Magazzini nuovi del Regno e Entrata dell'Arsenale Aldar&0~
+Il posto di guardia                                                        
+Ti trovi al corpo di guardia dove i lancieri aldariani
+controllano l'accesso ai nuovi magazzini del regno.  
+&5VIETATO L'ACCESSO AI NON AUTORIZZATI&0
+~
+13 14848 0
+D1
+~
+~
+0 0 2820 0
+D2
+Una porta di legno.
+~
+porta~
+1 469483 2800 167
+D3
+~
+~
+0 0 2821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1303
+#1398
+IL MAGAZZINO DI UTHER (Non toccare)~
+You are in an unfinished room.
+~
+13 4398046511104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1399
+La stanza della tigre~
+Da questa invisibile grotta la leggendaria tigre bianca prende vita e si manifesta nel mondo mortale.
+~
+13 0 0
+D3
+~
+~
+0 0 1404519 0
+D4
+~
+~
+0 0 1403408 0
+D5
+~
+~
+0 0 1496439 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

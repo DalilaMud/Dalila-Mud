@@ -1,0 +1,964 @@
+#5100
+L'ingresso alla Citta'~
+   Sei all'ingresso di una piccola citta' sotterranea.  Un grande cancello di
+adamantio e' aperto verso ovest, permettendo l'ingresso in citta'.    
+~
+51 13 0
+D3
+Un grande cancello e' aperto verso ovest, permettendo l'ingresso in citta'
+~
+cancello~
+1 -1 5101 1
+D4
+~
+~
+0 0 5199 0
+E
+cancello~
+Un grande cancello di adamantio con emblemi a forma di ragno si trova qui.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5101
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata, che si dirige da sud
+verso nord.  Un grosso cancello si trova ad est, mentre una costruzione si
+trova ad ovest.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5123 0
+D1
+~
+cancello~
+1 -1 5100 1
+D2
+~
+~
+0 -1 5102 0
+D3
+~
+~
+0 -1 5122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5102
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata, che si dirige a nord e
+verso ovest.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5101 0
+D3
+~
+~
+0 -1 5103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5103
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata, che si dirige ad est e
+verso ovest.  Una grande casa si trova a sud.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5102 0
+D2
+~
+~
+0 -1 5104 0
+D3
+~
+~
+0 -1 5106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5104
+La Terza Casata~
+   Ti trovi all'interno della casa della Terza Casata della citta', e' decorata piuttosto
+bene per gli standard degli Elfi Scuri avendo statue, affreschi e decorazioni
+simili.  Una porta conduce a sud.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5103 0
+D2
+~
+porta~
+1 -1 5105 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5105
+La stanza del trono~
+   La stanza del trono della Terza Casata e' arredata con gusto quanto il
+giardino esterno.  Fa eccezione un altare coperto di sangue, posto al centro
+della stanza.    
+~
+51 9 0
+D0
+~
+porta~
+1 -1 5104 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5106
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata, che si dirige ad est e
+verso ovest.  Una grande costruzione si trova a nord.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5118 0
+D1
+~
+~
+0 -1 5103 0
+D3
+~
+~
+0 -1 5107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5107
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata, che si dirige verso nord
+e ad est.  Una casa di grosse proporzioni si trova a sud.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5110 0
+D1
+~
+~
+0 -1 5106 0
+D2
+~
+~
+0 -1 5108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5108
+La Seconda Casata~
+   Ti trovi all'interno della dimora della seconda casata della citta'.  La
+stanza e' riccamente decorata con statue di ragni ed affreschi.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5107 0
+D3
+~
+porta~
+1 -1 5109 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5109
+La stanza del trono~
+   La stanza del trono della seconda casata e' un po piu' decorata del cortile
+interno, avendo, al suo centro un bell'altare.    
+~
+51 9 0
+D1
+~
+porta~
+1 -1 5108 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5110
+Il cancello principale~
+   Sei all'ingresso della dimora della Prima Casata della citta'.  Un grosso
+cancello, grande ed elegante quanto quello d'ingresso alla citta', si trova
+qui.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5114 0
+D2
+~
+~
+0 -1 5107 0
+D3
+Un grosso cancello si trova ad ovest.
+~
+cancello~
+1 -1 5111 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5111
+La Prima Casata~
+   Ti trovi nel cortile interno della dimora della Prima, e piu' grande, Casata
+della citta'.  La stanza e' estremamente larga e decorata.  Gli arazzi e le
+pitture che si trovano sulle pareti raffigurano alcune battaglie ed una regina
+~
+51 9 0
+D1
+~
+cancello~
+1 -1 5110 3
+D3
+~
+~
+0 -1 5112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5112
+La stanza del trono~
+   La stanza del trono della Prima Casata e', in una parola...  
+Impressionante.  E' tanto orrifibile quanto bella.    
+~
+51 9 0
+D0
+~
+porta~
+1 -1 5113 3
+D1
+~
+~
+0 -1 5111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5113
+La camera principale~
+   Questa e' la camera del consiglio della Matrona della prima Casata.  Un
+grosso tavolo, con sedie tutt'intorno, si trova al centro della stanza.    
+~
+51 9 0
+D2
+~
+porta~
+1 -1 5112 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5114
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata, che si dirige da nord
+verso sud, c'e' una diramazione ad est.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5115 0
+D1
+~
+~
+0 -1 5117 0
+D2
+~
+~
+0 -1 5110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5115
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata che si dirige verso sud.
+Una costruzione si trova ad ovest.    
+~
+51 9 0
+D2
+~
+~
+0 -1 5114 0
+D3
+~
+~
+0 -1 5116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5116
+L'accademia delle sacerdotesse~
+   Questa e' l'accademia piu' sontuosa, anche perche' e' quella delle
+sacerdotesse.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5117
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata che si dirige da est verso
+ovest.  Verso nord c'e' un gigantesco tempio.    
+~
+51 9 0
+D0
+L'entrata al tempio di Lloth e' bloccata da un grande cancello ornamentale.  
+
+~
+cancelli cancello~
+1 -1 5119 1
+D1
+~
+~
+0 -1 5121 0
+D3
+~
+~
+0 -1 5114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5118
+L' accademia dei guerrieri~
+   Sembra piu' una caserma che una scuola.    
+~
+51 9 0
+D2
+~
+~
+0 -1 5106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5119
+L'entrata al tempio di Lloth~
+   Il tempio e' la piu' grande costruzione della citta'.  Anche i suoi cancelli
+sono imponenti oltre ogni immaginazione.  All'interno del tempio, i muri sono
+fatti d'oro e di adamantio.    
+~
+51 9 0
+D2
+~
+cancelli cancello~
+1 -1 5117 1
+D5
+~
+~
+0 -1 5126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5120
+L' accademia dei maghi~
+   L' accademia dei maghi e' decorata piuttosto bene, e questo ti fa capire che
+gli elfi Scuri preferiscono nettamente la magia alla possenza fisica.    
+~
+51 9 0
+D2
+~
+~
+0 -1 5121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5121
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata che si dirige verso est.
+A nord c'e' una costruzione.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5120 0
+D1
+~
+~
+0 -1 5123 0
+D3
+~
+~
+0 -1 5117 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5122
+La camera degli schiavi~
+   La stanza e' nel caos.  Della paglia e' sparpagliata per tutta la stanza per
+esser utilizzata come letti per le sfortunate creature che sono cadute preda
+dell'imperialismo degli elfi Scuri.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5123
+Una strada della citta'~
+   Stai camminando in una strada riccamente decorata che si dirige verso ovest
+e verso sud.  A nord c'e' una casa relativamente piccola.    
+~
+51 9 0
+D0
+~
+cancello~
+1 -1 5124 3
+D2
+~
+~
+0 -1 5101 0
+D3
+~
+~
+0 -1 5121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5124
+La Quarta Casata~
+   Ti trovi all'interno della dimora della Quarta Casata della citta'.  Il suo
+cortile e' piuttosto povero per gli standard elfici, e' anche piuttosto
+piccolo.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5125 0
+D2
+~
+cancello~
+1 -1 5123 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5125
+La stanza del trono~
+   La stanza del trono e' simile al cortile per quel che riguarda la
+decorazione.  C'e' un piccolo trono dietro l'altare, ma nulla piu'.    
+~
+51 9 0
+D3
+~
+~
+0 -1 5124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5126
+Il Vestibolo~
+   Ti trovi sulla via di ingresso al tempio che si apre, a nord, su un grande
+corridoio che va ad est ed a ovest.  Piccole statue di ragni sono allineate
+lungo i muri del vestibolo.    
+~
+51 9 0
+D0
+~
+cancellata~
+2 5198 5127 15
+D4
+~
+~
+0 -1 5119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5127
+Un corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  I muri presentano
+incisioni raffiguranti ragni ed elfi.  Il corridoio continua ad est ed a ovest.
+Mentre scruti il corridoio, ti accorgi di una o due figure che si allontanano
+da te.    
+   Verso nord c'e' una scalinata di ossidiana.
+~
+51 9 0
+D0
+~
+~
+0 -1 5135 0
+D1
+~
+~
+0 -1 5128 0
+D2
+~
+cancellata~
+2 5198 5126 15
+D3
+~
+~
+0 -1 5131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5128
+Un lungo corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  I muri sono incisi con
+figure di ragni ed elfi.  Il corridoio continua ad est ed a ovest.  Mentre
+scruti il corridoio, ti accorgi di una o due figure che si allontanano da te.
+  
+~
+51 9 0
+D1
+~
+~
+0 -1 5129 0
+D3
+~
+~
+0 -1 5127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5129
+Un lungo corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  I muri sono incisi con
+figure di ragni ed elfi.  Il corridoio continua ad est ed a ovest.  Mentre
+scruti il corridoio, ti accorgi di una o due figure che si allontanano da te.
+   Verso nord c'e' una porta.
+~
+51 9 0
+D0
+~
+porta~
+1 -1 5150 3
+D1
+~
+~
+0 -1 5130 0
+D3
+~
+~
+0 -1 5128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5130
+Un lungo corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  I muri presentano
+incisioni raffiguranti ragni ed elfi.  Il corridoio continua ad est ed a ovest.
+Mentre scruti il corridoio, ti accorgi di una o due figure che si allontanano
+da te.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5134 0
+D3
+~
+~
+0 -1 5129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5131
+Un lungo corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  Le pareti sono decorate
+con incisioni di ragni ed elfi.  Il corridoio continua ad est ed a ovest.  
+Mentre scruti il corridoio, ti accorgi di una o due figure che si allontanano
+da te.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5127 0
+D3
+~
+~
+0 -1 5132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5132
+Un lungo corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  Le pareti sono decorate
+con incisioni di ragni ed elfi.  Il corridoio continua ad est ed a ovest.  
+Mentre scruti il corridoio, ti accorgi di una o due figure che si allontanano
+da te.    
+   Verso sud c'e' una porta.
+~
+51 9 0
+D1
+~
+~
+0 -1 5131 0
+D2
+~
+porta~
+1 -1 5133 3
+D3
+~
+~
+0 -1 5134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5133
+Gli alloggi dei guerrieri~
+   Questa stanza e' in completo disordine.  Nessuno dei letti e' rifatto, e
+vestiti ed altri oggetti sono stati lasciati, senza cura, per terra.  Beh, i
+guerrieri degli elfi Scuri non son mai stati conosciuti per la loro pulizia!  
+
+~
+51 9 0
+D0
+~
+porta~
+1 -1 5131 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5134
+Un lungo corridoio~
+   Sei in un lungo corridoio intarsiato in adamantio.  Le pareti sono decorate
+con incisioni di ragni ed elfi.  Il corridoio continua ad est ed a ovest.  
+Mentre scruti il corridoio, ti accorgi di una o due figure che si allontanano
+da te.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5132 0
+D3
+~
+~
+0 -1 5130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5135
+La grande scalinata~
+   Ti trovi all'inizio di una grande scalinata d'oro e di ossidiana.  Gli
+scalini sono ornati da figure scolpite in oro.    
+~
+51 9 0
+D2
+~
+~
+0 -1 5127 0
+D4
+~
+~
+0 -1 5136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5136
+Il grande corridoio~
+   Ti trovi a meta' di un grande corridoio.  I muri sono scolpiti
+nell'adamantio piu' puro, con finiture in oro.  Mosaici coprono parte delle
+pareti.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5138 0
+D1
+~
+porta~
+1 -1 5137 3
+D5
+~
+~
+0 -1 5135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5137
+Gli alloggi dei Maghi~
+   La zona abitata dai maghi e' piuttosto pulita, con l'eccezione di qualche
+contenitore per i componenti magici da usare.  La stanza e' anche decorata
+piuttosto bene.  Delle brande sono allineate lungo le pareti.  L'unica porta e'
+ad ovest.    
+~
+51 9 0
+D3
+~
+porta~
+1 -1 5136 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5138
+Il grande corridoio~
+   Ti trovi a meta' di un grande corridoio.  I muri sono scolpiti
+nell'adamantio piu' puro, con finiture in oro.  Verso nord il corridoio scende
+per una rampa di scale, mentre una porta si trova ad ovest.    
+~
+51 9 0
+D2
+~
+~
+0 -1 5136 0
+D3
+~
+porta~
+1 -1 5139 3
+D5
+~
+~
+0 -1 5140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5139
+Gli alloggi delle sacerdotesse~
+   La camera da letto e' riccamente decorata con statue a forma di ragno,
+affreschi e altri ornamenti.  Grandi letti sono allineati lungo il muro,
+rendendo questa stanza confortevole per chi abita.    
+~
+51 9 0
+D1
+~
+porta~
+1 -1 5138 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5140
+La grande scalinata~
+   Stai salendo i gradini di una grande scalinata, circondata da mura di
+adamantio.  Verso nord ci sono delle larghe porte dorate.    
+~
+51 9 0
+D0
+~
+porte porta dorate oro~
+1 -1 5141 3
+D4
+~
+~
+0 -1 5138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5141
+La Stanza Principale~
+   Questo e' il lato sud di un grande auditorium utilizzato dalle sacerdotesse
+di Lloth.  Al centro c'e' una grande pozza sacrificale e, oltre questa, c'e' un
+altare.    
+~
+51 9 0
+D1
+~
+~
+0 -1 5142 0
+D2
+~
+porte porta dorate oro~
+1 -1 5140 3
+D3
+~
+~
+0 -1 5144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5142
+Il lato est della Stanza Principale~
+   Sei nel lato est della grande stanza che circonda la pozza sacrificale.  Ad
+est c'e' una porta, mentre verso nord si vede un altare.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5145 0
+D1
+~
+porta~
+1 -1 5146 1
+D2
+~
+~
+0 -1 5141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5143
+La pozza sacrificale~
+   Mentre discendi la pozza, migliaia di ragni ti ricoprono, facendo a pezzi
+il tuo fragile corpo.    
+
+Lloth ti ringrazia per il sacrificio.
+~
+51 14 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#5144
+Il lato ovest della Stanza Principale~
+   Sei nel lato ovest della grande stanza che circonda la pozza sacrificale.  
+Verso nord si vede un altare.    
+~
+51 9 0
+D0
+~
+~
+0 -1 5145 0
+D2
+~
+~
+0 -1 5141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5145
+L'altare~
+   Ti trovi di fronte ad un altare recentemente macchiato dal sangue di qualche
+sacrificio.  Scolpito sopra l'altare si vede un corpo di ragno con una testa
+umana.  Guardando sotto l'altare vedi una grossa pozza sacrificale con migliaia
+di ragni, pronti a ricevere un nuovo pasto!    
+~
+51 9 0
+D0
+~
+~
+0 -1 5148 0
+D1
+~
+~
+0 -1 5142 0
+D3
+~
+~
+0 -1 5144 0
+D5
+Migliaia di ragni ti osservano con fame malcelata.
+~
+~
+0 -1 5143 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5146
+Le celle degli schiavi~
+   Questa e' la stanza principale che conduce verso le celle degli schiavi da
+sacrificare.  Ti accorgi che non ci sono guardie attorno.    
+~
+51 9 0
+D0
+~
+cella~
+1 -1 5147 1
+D3
+~
+porta~
+1 -1 5142 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5147
+Il recinto degli schiavi~
+   Carne e pane avariato si trovano per terra, mentre catene sono attaccate al
+muro.  La stanza puzza di morte.  Ti senti nauseato e quasi subito decidi di
+abbandonare la stanza dato che e' ovviamente troppo tardi per salvare gli
+schiavi.    
+~
+51 9 0
+D2
+~
+cella~
+1 -1 5146 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5148
+La cappella~
+   Ti trovi davanti ad una cappella dietro l'altare.  Davanti a te c'e'
+un'enorme figura illusoria che muta continuamente da donna a ragno.  C'e' una
+porta ad ovest.    
+~
+51 9 0
+D2
+~
+~
+0 -1 5145 0
+D3
+~
+porta~
+2 5115 5149 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5149
+La Tesoreria~
+   Questo e' ovviamente solo un luogo temporaneo per conservare il tesoro, dato
+che non c'e' molto qui dentro.    
+~
+51 9 0
+D1
+~
+porta~
+2 5115 5148 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5150
+La camera del maestro di spada~
+   Questa stanza da letto, per una persona, e' molto elegante.  Il proprietario
+dev'essere molto importante, considerando il tipo di trattamento che riceve.  
+
+~
+51 9 0
+D2
+~
+porta~
+1 -1 5129 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5199
+L'entrata di una caverna~
+   Una voragine!!!  Sembra molto profonda ma il sentiero che ti porta dentro e'
+sicuro Chissa' dove portera'....  Al centro della terra?  O e' solo una
+grotticina disabitata?  L'unica cosa che ti resta da fare e' provare a
+scenderci e.....  Buona Fortuna!!!  Ne avrai bisogno.....    
+~
+51 0 0
+D0
+~
+~
+0 0 1434595 0
+D1
+~
+~
+0 0 1435596 0
+D2
+~
+~
+0 0 1436595 0
+D3
+~
+~
+0 0 1435594 0
+D5
+~
+~
+0 0 5100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,2610 @@
+#17301
+Entrata della foresta di &7Arden&0~
+Ti trovi di fronte ad una foresta molto fitta. Un sentiero, che vedi iniziare 
+attraverso i rami, e' l'unico passaggio percorribile. Si narra, nelle leggende che in 
+questa foresta e' nascosta la famosa Camelot di Re Artu' sta a te ora trovarla, 
+pero' attento solo i guerrieri piu' forti, i maghi piu' potenti, i ladri piu' 
+furtivi, e i chierici piu' intelligenti saranno in grado di espugnarla unendo le loro 
+forze.
+Una pergamena e' stata affissa ad un albero.
+~
+173 12 0
+D0
+~
+~
+0 0 17302 0
+D2
+~
+~
+0 0 1458415 0
+E
+pergamena~
+La pergamena dice:
+
+Sappi che Artu', Re dei Britanni ha riunito i cavalieri della Tavola Rotonda. Tutti i cavalieri valorosi e virtuosi sono stati convocati qui a Camelot.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17302
+Un incrocio nel sentiero~
+   Sei arrivato ad un incrocio nel sentiero, dove andare?  , dove si trovera'
+Camelot?  , questi i quesiti che percorrono la tua mente....  E poi ci saranno
+pericoli in questa foresta?  I sentieri proseguono verso nord, sud, est e
+ovest.  Crack!  Un rumore sospetto attira la tua attenzione, ti giri ma non
+vedi nessuno ma...  Sul sentiero ci sono delle impronte lasciate da numerosi
+cavalli, forse sarebbe meglio che tu le osservassi con piu' attenzione.    
+~
+173 0 0
+D0
+Un sentiero polveroso.
+~
+~
+0 -1 17305 0
+D1
+Un sentiero polveroso.
+~
+~
+0 -1 17306 0
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17301 0
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17303 0
+E
+impronte~
+Osservi le impronte lasciate dagli zoccoli dei cavalli.  La maggior parte
+sembrano diretti verso il sentiero est e quello sud.    
+~
+E
+polvere~
+Osservi con piu' attenzione il terreno e ti accorgi che oltre alle impronte dei
+cavalli ci sono quelle di un animale munito di grossi artigli.  Queste ultime
+vanno verso ovest.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17303
+La foresta di &7Arden&0~
+   Stai percorrendo un sentiero nella grande foresta di Arden.  Vorresti
+veramente che non ci fossero tutti questi fastidiosi cavalieri qua attorno.  
+Il sentiero prosegue verso sud e verso est.    
+~
+173 0 3
+D1
+Un sentiero polveroso.
+~
+~
+0 -1 17302 0
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17304 0
+E
+cavalieri~
+Sono veramente fastidiosi!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17304
+Tracce di ossa~
+   Il sentiero si restringe e diventa piu' buio.  Mentre prosegui ti accorgi
+che ad ogni passo provochi rumore, come se qualcosa si rompesse sotto i tuoi
+piedi.  Guardi per terra e vedi che il suolo e' completamente pieno di OSSA!  
+Il sentiero verso ovest diventa ancora piu' buio, mentre a nord sembra esserci
+piu' luce.    
+~
+173 0 3
+D0
+Un sentiero polveroso.
+~
+~
+0 -1 17303 0
+D3
+Il numero delle ossa aumenta.
+~
+~
+0 -1 17307 0
+E
+ossa~
+   Guardi le ossa.  La maggior parte sono umane.  Tra di essi noti una veste a
+brandelli su cui era lo stemma dei Pellinore.  Le ossa sembrano diventare piu'
+numerose verso ovest.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17305
+Di fronte ad un rifugio nella foresta di Arden~
+   Ti trovi di fronte ad una capanna.  Ci sono erbacce dovunque, evidentemente
+questo luogo e' stato abbandonato gia' da qualche tempo.  La porta della
+capanna si apre ad ovest, mentre verso sud c'e' un sentiero polveroso.    
+~
+173 0 3
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17302 0
+D3
+Una capanna.
+~
+porta~
+2 17336 17308 15
+E
+erbacce~
+Ti inginocchi per esaminare meglio la sterpaglia.  Per la maggior parte si
+tratta di erba di vario tipo.  Non credevi potesse esistere tanta varieta'!  
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17306
+Una biforcazione nel sentiero~
+   Ti trovi ad una biforcazione del sentiero.  A terra ci sono impronte che
+rivelano il passaggio di cavalli.  Il sentiero va a nord, est ed ovest.    
+~
+173 0 3
+D0
+Un sentiero polveroso.
+~
+~
+0 -1 17309 0
+D1
+Un sentiero polveroso.
+~
+~
+0 -1 17310 0
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17302 0
+E
+impronte cavalli~
+Ti chini e osservi con piu' attenzione le impronte lasciate nella polvere.  La
+maggior parte dei cavalli va verso nord o ovest.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17307
+Terre della Bestia~
+   Hai trovato la tana di una bestia orrenda!  Ossa sono sparse ovunque.  La
+sola uscita e' verso est.    
+~
+173 1 3
+D1
+Un sentiero coperto di ossa.
+~
+~
+0 -1 17304 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17308
+All'interno del rifugio~
+   Ti trovi all'interno di una vecchia e abbandonata capanna.  Il soffitto e'
+basso e le travi sono coperte di fuliggine.  Ci sono un tavolo ed un vecchio
+camino.    
+~
+173 8 0
+D1
+Una porta di legno.
+~
+porta~
+2 17336 17305 15
+E
+tavolo~
+Il tavolo e' coperto di tubi di vetro e fiale piene di liquidi di vari colori.
+Forse e' meglio che non le tocchi.    
+~
+E
+camino~
+Il fuoco e' stato spento da molto tempo.  Tutto cio' che vedi sono frammenti di
+carta e pezzi di legno.    
+~
+E
+carta frammenti~
+Prendi uno dei pezzi di carta.  C'e' scritto: Merlino, il mio more per Tristram
+e' senza speranza.  Mio padre gli ha proibito di vedermi.  Non c'e' niente che
+tu possa fare?    
+
+Isolde
+~
+E
+travi~
+Le travi sono annerite da fumo e presentano strane macchie gialle.    
+~
+E
+macchie gialle~
+Esamini con piu' attenzione le macchie. Odorano di zolfo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17309
+La fitta nebbia nella foresta~
+   Hai costeggiato la base di una collina fino ad arrivare ad un bosco immerso
+nella nebbia.  Le alte e nere sagome di gigantesche quercie ti impediscono di
+vedere in lontananza.  Noti che un sentiero polveroso si allontana verso nord e
+verso sud.  Sul sentiero ci sono numerose impronte lasciate da cavalli.    
+~
+173 1 3
+D0
+Un sentiero polveroso.
+~
+~
+0 -1 17313 0
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17306 0
+E
+impronte cavalli~
+Osservi le impronte con maggiore attenzione e ti accorgi che numerosi cavalli
+sono passati di qua.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17310
+La fitta foresta~
+   Ti trovi nella parte della foresta di Arden in cui la vegetazione e' piu'
+fitta.  L'oscurita' qui e' maggiore e il vento quasi del tutto assente.  Il
+sentiero continua a nord, est ed ovest.    
+~
+173 0 3
+D0
+Un sentiero polveroso.
+~
+~
+0 -1 17311 0
+D1
+Un sentiero polveroso.
+~
+~
+0 -1 17312 0
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17311
+La radura maledetta~
+   Sei giunto ad uno spiazzo in cui tutta la vegetazione e' morta.  Non c'e'
+alcun suono animale, ne' luce che illumini questo posto.  Le ossa dei
+precedenti visitatori di questo luogo sono sparse per la radura.  Forse
+dovresti riposare un secondo prima di proseguire.    
+~
+173 1 3
+D4
+Nothing.
+Degli alberi.
+~
+~
+1 -1 17312 1
+E
+ossa~
+Forse dovresti riposare un po'...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17312
+Una scura depressione~
+   Sei giunto ad una buia depressione.  L'aria e' pesante, umida e opprimente.
+Regna il piu' assoluto silenzio rotto solo dal gracchiare di un corvo.  Ad
+ovest vedi un sentiero polveroso.
+~
+173 1 3
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17310 0
+E
+corvo~
+O era una sinistra risata?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17313
+La foresta di Arden~
+   Sei giunto in una parte della Foresta di Arden ben illuminata e piacevole.
+Degli scoiattoli si stanno rincorrendo attorno a delle quercie secolari e delle
+farfalle danzano al sole.  L'aria ha un odore dolce ed il sole scalda la tua
+schiena.  Sentieri con impronte di cavalli vanno a nord, sud ed est.    
+~
+173 0 3
+D0
+Un sentiero polveroso.
+~
+~
+0 -1 17314 0
+D1
+Un sentiero polveroso.
+~
+~
+0 -1 17319 0
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17309 0
+E
+scoiattoli~
+Sono moltissimi.
+~
+E
+sentiero impronte cavalli~
+Noti impronte di cavalli ferrati.  La maggior parte sembrano diretti ad est e a
+sud.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17314
+Un rigagnolo nella foresta di &7Arden&0~
+   Ti sei dovuto fermare perche' l'acqua di un piccolo torrente divide in due
+il sentiero.  Verso sud la foresta diventa piu' rada e luminosa, verso ovest si
+infittisce e rabbuia.  Il cielo e' blu e la luce del sole conferisce alle acque
+un colore argentato.    
+~
+173 0 6
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17313 0
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17315 0
+E
+argentato~
+Ti chini per osservare piu' da vicino le acque argentate del torrente e vedi,
+sott'acqua, la figura di un cavaliere . Il cavaliere mostra le insegne di
+Camelot e sembra essere stato colpito alle spalle.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17315
+L'altopiano delle battaglie di &7Arden&0~
+   Davanti a te si estende l'altopiano delle battaglie di Arden.  Innumerevoli
+secoli di guerra hanno cosparso questo terreno di ossa ed armi rotte.  Ci sono
+i segni di una recente carneficina e diversi corpi di cavalieri giacciono a
+terra senza vita.  Un sentiero polveroso continua ad ovest e ad est, una strada
+ventosa punta invece a nord.    
+~
+173 0 2
+D0
+Una strada ventosa.
+~
+~
+0 -1 17316 0
+D1
+Un sentiero polveroso.
+~
+~
+0 -1 17314 0
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17317 0
+E
+cavalieri ossa~
+La vista ti rattrista profondamente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17316
+Ingresso di Blackmoor~
+   Ti trovi di fronte a Blackmoor, il maniero del malvagio Mordred.  Le mura di
+cinta sono alte circa 8 metri e delle torri fiancheggiano il cancello d'entrata
+e si trovano agli angoli delle mura.  Una leggera brezza porta alle tue
+orecchie il suono di una sinistra risata che ti provoca un brivido lungo la
+schiena.  A nord si trova il cancello di ferro nero del maniero di Blackmoor, a
+sud c'e' una strada ventosa.    
+~
+173 0 2
+D0
+Un nero cancello di ferro.
+~
+cancello nero ferro~
+1 -1 17327 3
+D2
+Una strada ventosa.
+~
+~
+0 -1 17315 0
+E
+cancello ferro nero~
+   Il grande cancello di ferro e' stato forgiato con del ferro di cattiva
+qualita' ed ora e' pieno di ruggine.  Le spirali di ferro sono state lavorate
+con grande maestria in modo da raffigurare volti umani deformi.    
+~
+E
+umani volti~
+Ti sembrano anime dannate.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17317
+La &8Foresta Nera&0~
+   Hai messo piede a Blackmoor, la foresta dei dannati.  Spine e alberi
+contorti ti graffiano e lacerano quasi fossero vivi.  Il sentiero ben segnato
+che stavi percorrendo e' svanito ed hai perso l'orientamento.    
+~
+173 1 3
+D4
+~
+~
+0 -1 17315 0
+D5
+~
+~
+0 -1 17318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17318
+All'ingresso di un invitante rifugio~
+   Ti trovi di fronte ad una graziosa capanna.  Del fumo esce dal camino
+portando fino al tuo naso il profumo della cacciagione arrostita.  La luce
+delle lampade proveniente dall'interno della capanna penetra l'oscurita' in cui
+ti trovi.  Una dolcissima canzone giunge alle tue orecchie, qualcuno
+all'interno sta cantando.  Ad ovest c'e' la porta della capanna, mentre un
+sentiero polveroso va verso sud.    
+~
+173 0 3
+D2
+Un sentiero polveroso.
+~
+~
+0 -1 17317 0
+D3
+Una graziosa capanna.
+~
+porta~
+1 -1 17323 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17319
+Davanti ad una profonda crepa nel terreno~
+   Ti trovi di fronte ad una profonda crepa.  Puoi vedere cio' che resta di un
+vecchio ponte di corda pendere lungo la parete rocciosa sotto ai tuoi piedi.  
+Ad ovest c'e' un sentiero polveroso, mentre i resti del ponte di corda ti
+consentono di scendere verso il fondo del crepaccio.    
+~
+173 0 5
+D3
+Un sentiero polveroso.
+~
+~
+0 -1 17313 0
+D5
+Cio' che resta di un ponte di corda.
+~
+~
+0 -1 17320 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17320
+Appeso al ponte di corda~
+   Ti trovi appeso alla cima tagliata di un ponte di corda in rovina.  La tua
+presa e' ben salda.  Puoi tentare di attraversare il crepaccio dondolandoti
+sulla corda fino ad arrivare dall'altra parte oppure puoi risalire
+verso l'alto o ancora scendere verso il fondo della crepa.    
+~
+173 261 5
+D1
+L'altra parte del ponte di corda.
+~
+~
+0 -1 17321 0
+D4
+Un crepaccio.
+~
+~
+0 -1 17319 0
+D5
+Un pauroso abisso.
+~
+~
+0 -1 17324 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17321
+Appeso al ponte di corda~
+   Ti trovi appeso all'estremita' recisa di un ponte di corda.  Puoi tentare di
+attraversare il crepaccio dondolandoti sulla corda fino ad arrivare dall'altra
+parte oppure puoi scendere verso il fondo della crepa.    
+~
+173 261 5
+D3
+L'altra meta' di un ponte in rovina.
+~
+~
+0 -1 17320 0
+D4
+Il bordo di un crepaccio.
+~
+~
+0 -1 17322 0
+D5
+L'abisso.
+~
+~
+0 -1 17324 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17322
+Davanti ad una profonda crepa nel terreno~
+   Ti trovi davanti ad una profonda crepa.  Il ponte di corda che consentiva di
+attraversarla e' stato reciso da qualche vandalo e cio' che ne resta pende
+lungo una parete del crepaccio.  Puoi scendere verso il fondo della crepa
+appendendoti a cio' che resta del ponte o dirigerti verso il prato verde che si
+apre ad est.    
+~
+173 0 5
+D1
+Un prato verde.
+~
+~
+0 -1 17325 0
+D5
+Cio' che resta di un ponte di corda.
+~
+~
+0 -1 17321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17323
+All'interno di un invitante rifugio~
+   Ti trovi all'interno di una graziosa capanna.  Attorno a te un confortevole
+arredamento e' completato da un soffice letto ed un camino.  Un tavolo e' stato
+apparecchiato con della carne appena cotta, delle verdure ed un elegante calice
+riempito di vino.  Una candela brucia allegramente illuminando il cibo sul
+tavolo, attorno al quale c'e' solo una sedia.    
+~
+173 9 0
+D1
+Davanti ad una graziosa capanna.
+~
+door~
+1 -1 17318 3
+E
+calice~
+Dopo averlo osservato con attenzione ti accorgi che non e' il santo graal.    
+~
+E
+letto~
+Il letto sembra confortevole e invitante.
+~
+E
+carne vino~
+La carne e' tenera, il vino ha un gusto secco ed un colore rosso scuro.    
+~
+E
+candela~
+La candela e' nera.  Cosa ti ricordano le candele nere?  Ah si, sono usate
+dalle streghe nelle loro cerimonie.    
+~
+E
+sedia~
+Perche' non ti siedi un secondo ed assaggi le pietanze?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17324
+Il fondo del burrone~
+Blu...NO VERDE!
+   AHHHHHHHHHHHHHHHH
+       AHHHHHHHHHHHHHHHH
+           AHHHHHHHHHHHHHHHH
+SPLAAAAT.
+~
+173 6 5
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#17325
+I verdi campi vicino Camelot~
+   Sei giunto ai verdi prati che si estendono davanti a Camelot.  Camelot sorge
+su una collina che sovrasta i prati.  Bandiere e stendardi sventolano sule
+torri, mossi da una fresca brezza.  Puoi dirigerti verso est fino a Camelot o
+andare ad ovest verso un crepaccio.    
+~
+173 0 2
+D1
+Il cancello orientale di Camelot
+~
+~
+0 -1 17326 0
+D3
+Un crepaccio.
+~
+~
+0 -1 17322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17326
+La grata ovest del &7Castello di Camelot&0~
+   Ti trovi di fronte al cancello di Camelot.  Da qui godi di una stupenda
+vista sui prati verdeggianti che circondano l'altura.  Imponenti nura di
+granito si levano verso il cielo.    
+~
+173 4 1
+D1
+La grata ovest
+~
+grata esterna~
+1 -1 17341 3
+D3
+Un prato verde.
+~
+~
+0 -1 17325 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17327
+Il cortile di Blackmoor~
+   Ti trovi nel cortile del castello di Blackmoor.  Numerose feritoie si aprono
+nelle mura di cinta e nelle torri.  A nord ed a sud vedi neri cancelli di
+ferro.    
+~
+173 1 1
+D0
+Un nero cancello di ferro.
+~
+cancello nero ferro~
+1 -1 17328 3
+D2
+Un nero cancello di ferro.
+~
+cancello nero ferro~
+1 -1 17316 3
+E
+feritoie feritoia~
+Nessuno sembra sorvegliarti da dietro le feritoie.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17328
+Dentro il muro di cinta~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Il maniero vero e proprio si trova a nord.  La strada continua ad est e ad
+ovest, mentre un cancello di ferro nero si trova a sud.    
+~
+173 1 0
+D1
+Dietro al muro di cinta.
+~
+~
+0 -1 17329 0
+D2
+Un cancello di ferro nero.
+~
+cancello ferro nero~
+1 -1 17327 3
+D3
+Dietro al muro di cinta.
+~
+~
+0 -1 17330 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17329
+Dentro il muro di cinta~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Delle scale salgono fino alla cima della torre orientale della cinta muraria.
+La strada continua a nord e ad ovest.    
+~
+173 1 1
+D0
+Dietro al muro di cinta.
+~
+~
+0 -1 17335 0
+D3
+Dietro al muro di cinta.
+~
+~
+0 -1 17328 0
+D4
+La torre est del muro di cinta.
+~
+~
+0 -1 17339 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17330
+Dentro il muro di cinta~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Delle scale salgono fino alla cima della torre occidentale della cinta muraria.
+La strada continua a nord e ad est.    
+~
+173 1 1
+D0
+Dietro al muro di cinta.
+~
+~
+0 -1 17331 0
+D1
+Dietro al muro di cinta.
+~
+~
+0 -1 17328 0
+D4
+La torre ovest del muro di cinta.
+~
+~
+0 -1 17338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17331
+Dentro il muro di cinta~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Il maniero vero e proprio si trova ad est.  Una strada insanguinata va verso
+nord e sud.    
+~
+173 1 1
+D0
+Dietro al muro di cinta.
+~
+~
+0 -1 17332 0
+D2
+Dietro al muro di cinta.
+~
+~
+0 -1 17330 0
+E
+strada insanguinata~
+   Volgi lo sguardo a terra e osservi con piu' attenzione il sangue copre la
+strada.  Scopri un pezzo di seta.  Esaminando la stoffa giungi alla conclusione
+che si tratta del pegno d'amore di qualche dama.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17332
+Dentro il muro di cinta~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Delle scale salgono verso la cima della torre nordoccidentale di Blackmoor.  
+La strada continua verso sud e verso est dove si trova l'ingresso al maniero
+vero e proprio.    
+~
+173 1 1
+D1
+L'ingresso al Maniero.
+~
+~
+0 -1 17333 0
+D2
+Dietro al muro di cinta.
+~
+~
+0 -1 17331 0
+D4
+La torre nordoccidentale di Blackmoor.
+~
+~
+0 -1 17336 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17333
+Entrata alla Corte di Mordred~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+A sud c'e' una massiccia porta di legno da cui sembra provenire il suono di una
+risata.  La strada continua ad est e ad ovest.    
+~
+173 1 1
+D1
+Dietro al muro di cinta.
+~
+~
+0 -1 17334 0
+D2
+Una massiccia porta di legno.
+~
+porta legno massiccia~
+1 -1 17340 3
+D3
+Dietro al muro di cinta.
+~
+~
+0 -1 17332 0
+E
+porta~
+E' enorme! Spera che non ti venga un'ernia per aprirla.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17334
+Dentro il muro di cinta~
+Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Delle scale conducono alla cima della torre nordorientale di Blackmoor.  La
+strada contina verso sud e verso ovest dove si trova l'ingresso al maniero vero
+e proprio.
+fi
+~
+173 1 1
+D2
+Dietro al muro di cinta.
+~
+~
+0 -1 17335 0
+D3
+Dietro al muro di cinta.
+~
+~
+0 -1 17333 0
+D4
+La torre nordorientale.
+~
+~
+0 -1 17337 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17335
+Dentro il muro di cinta~
+   Ti trovi su una strada che si trova dietro al muro di cinta di Blackmoor.  
+Ad ovest si erge il maniero vero e proprio.  La strada continua a nord e a sud.
+  
+~
+173 1 1
+D0
+Dietro al muro di cinta.
+~
+~
+0 -1 17334 0
+D2
+Dietro al muro di cinta.
+~
+~
+0 -1 17329 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17336
+Torre Nordovest di Blackmoor~
+   Ti trovi all'interno della torre di nord-ovest.  Hai una completa visione
+del maniero e della brughiera che lo circonda.  Delle scale portano verso il
+basso.    
+~
+173 1 0
+D5
+Dietro al muro di cinta.
+~
+~
+0 -1 17332 0
+E
+vista brughiera~
+Osservi il panorama.  La brughiera si estende sotto di te e la nebbia rende
+difficile guardare lontano.  Vedi delle forme nere muoversi di soppiatto
+attraverso la brughiera.  Per un momento pensi di essere fortunato a trovarti
+all'interno di questa robusta torre.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17337
+Torre Nordest di Blackmoor~
+   Ti trovi all'interno della torre di nord-est.  Hai una completa visione
+del maniero e della brughiera che lo circonda.  Delle scale portano verso il
+basso.
+~
+173 1 0
+D5
+Dietro al muro di cinta.
+~
+~
+0 -1 17334 0
+E
+vista fortificazione~
+Osservi il panorama.  La brughiera si estende sotto di te e la nebbia rende
+difficile guardare lontano.  Vedi delle forme nere muoversi di soppiatto
+attraverso la brughiera.  Per un momento pensi di essere fortunato a trovarti
+all'interno di questa robusta torre.  
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17338
+Torre del Bastione Ovest~
+   Ti trovi all'interno della torre occidentale del bastione.  Da qui godi di
+un'ottima vista del cortile del castello e puoi scagliare proiettili con armi da
+lancio dalle numerose feritoie.  Delle scale scendono verso il basso.    
+~
+173 1 0
+D5
+Dietro al muro di cinta
+~
+~
+0 -1 17330 0
+E
+vista feritoie~
+Guardi dalle feritoie il cortile come molti hanno fatto prima di te.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17339
+Torre del Bastione Est~
+   Ti trovi all'interno della torre occidentale del bastione.  Da qui domini il
+cortile del castello e puoi scagliare proiettili con armi da lancio dalle
+numerose feritoie.  Delle scale scendono verso il basso.    
+~
+173 1 0
+D5
+Dietro al muro di cinta.
+~
+~
+0 -1 17329 0
+E
+feritoie cortile~
+Guardi dalle feritoie il cortile come molti hanno fatto prima di te.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17340
+La Corte di Mordred~
+   Ti trovi nella sporca sala delle udienze di Mordred.  Del fumo sale, da un
+camino posto al centro della stanza, fino alle travi di sostegno del soffitto.
+Armature di cavalieri sconfitti sono appese a dei ganci lungo le pareti.  
+Alcuni cavalieri siedono in cerchio attorno al fuoco.  Un giovanetto in
+armatura dorata ride sguaiatamente mentre si muove danzando tra di loro.    
+~
+173 1 0
+D0
+L'ingresso al Maniero.
+~
+porta legno massiccia~
+1 -1 17333 3
+E
+focolare camino~
+Esamini il camino.  C'e' un grosso pezzo di carne che sta arrostendo al fuoco.
+Sembra umana!    
+~
+E
+giovanetto~
+Scuoti il capo quando lo osservi per la seconda volta.  Il ragazzo scompare.  
+Un malvagio incantesimo ti ha colto di sorpresa!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17341
+Incrocio fra Via della Vittoria e Via dei Cavalieri~
+   Ti trovi su una strada lastricata di marmo che si trova all'interno delle
+grande mura di Camelot.  Bandiere si muovono mosse dal vento sulla cima delle
+alte torri e le costruzioni di pietra bianca risplendono al sole.  La strada
+della Vittoria continua a est, mentre via dei Cavalieri corre da nord a sud.  
+
+~
+173 0 1
+D0
+Via dei Cavalieri.
+~
+~
+0 -1 17342 0
+D1
+Via della Vittoria.
+~
+~
+0 -1 17343 0
+D2
+Via dei Cavalieri.
+~
+~
+0 -1 17344 0
+D3
+La grata ovest di Camelot
+~
+grata interna~
+1 -1 17326 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17342
+Via dei Cavalieri di fronte alle stalle~
+   Ti trovi su una strada lastricata di marmo, via dei Cavalieri.  Senti
+l'odore dei cavalli provenire da est.  Ad ovest si levano le alte mura di
+Camelot.  Via dei Cavalieri continua a nord e a sud.    
+~
+173 0 1
+D0
+Via dei Cavalieri.
+~
+~
+0 -1 17345 0
+D1
+Stalle.
+~
+~
+0 -1 17398 0
+D2
+Via dei Cavalieri.
+~
+~
+0 -1 17341 0
+E
+stalle~
+Ci sono molti cavalli ed alcuni scudiere al lavoro nelle stalle.
+~
+E
+alte mura~
+   Le alte mura, di scintillante pietra bianca, torreggiano sopra di te.  I
+blocchi sono immensi.  Devono essere stati usati imponenti mezzi tecnici per
+costruire queste mura.  Degli stendardi sulle torri di Camelot, si muovono
+mossi da una leggera brezza.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17343
+Via della Vittoria~
+   Ti trovi su via della Vittoria.  Gli stemmi dei cavalieri sono conficcati
+nel terreno su entrambi i lati della strada ed ondeggiano mossi dal vento.  Ci
+sono diversi posti vuoti, per altri stendardi.  La strada della Vittoria
+continua ad est e ovest.    
+~
+173 0 1
+D1
+Via della Vittoria
+~
+~
+0 -1 17347 0
+D3
+L'incrocio tra via della Vittoria e via dei Cavalieri.
+~
+~
+0 -1 17341 0
+E
+stemma stemmi~
+Guardi con maggior attenzione gli stemmi.  Alcuni ti sono noti: quello di
+Gawaine, di Tristram e naturalmente di Lancillotto.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17344
+Via dei Cavalieri di fronte all'armeria~
+   Ti trovi su una strada lastricata in marmo bianco, via dei Cavalieri.  Ad
+ovest si levano verso il cielo le imponenti mura di Camelot, mentre ad est c'e'
+l'armeria del maniero.  Via dei Cavalieri continua a nord e a sud.    
+~
+173 0 1
+D0
+L'incrocio tra via della Vittoria e via dei Cavalieri.
+~
+~
+0 -1 17341 0
+D1
+L'armeria.
+~
+~
+0 -1 17348 0
+D2
+Via dei Cavalieri.
+~
+~
+0 -1 17349 0
+E
+alte mura~
+Le alte mura di pietra bianca torreggiano sopra di te.  I blocchi con cui sono
+state costruite sono immensi.  Devono essere stati usati imponenti mezzi
+tecnici per costruire queste mura.  Degli stendardi sulle torri di Camelot, si
+muovono mossi da una leggera brezza.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17345
+Incrocio fra Via dei Cavalieri e Vicolo dei Vassalli~
+   Ti trovi all'incrocio tra via dei Cavalieri e via dei Vassalli.  Un portone
+ad arco permette di accedere ad una poderosa torra.  Sembra esserci scritto
+qualcosa sopra all'arco.  La via dei Cavalieri continua verso sud, mentre corso
+dei Vassalli va verso est.    
+~
+173 0 1
+D1
+Via dei Vassalli.
+~
+~
+0 -1 17350 0
+D2
+Via dei Cavalieri.
+~
+~
+0 -1 17342 0
+D4
+La torre del Valore.
+~
+~
+0 -1 17351 0
+E
+scritta arco~
+Le parole incise dicono:
+
+   VERSO LA VITTORIA
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17346
+Dietro le linee dei Pitti~
+   Ti sei aperto la strada attraverso le schiere dei Pitti e la tua sortita ti
+ha fatto giungere dietro le linee dei Pitti!  Ad est la battaglia infuria e
+vedi dei Pitti in fuga venire nella tua direzione.  Un barbaro sta suonando un
+corno per dare il segnale della ritirata.    
+~
+173 0 2
+D1
+La battaglia infuria.
+~
+file~
+1 -1 17397 3
+E
+barbaro corno~
+Il barbaro si accorge che lo stai osservando e fugge in preda al panico!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17347
+Via della Vittoria~
+   Qui via della Vittoria termina giungendo al grande Cortile dei Duelli di
+Camelot.  Un podio per i vincitori delle gare e' stato eretto qui - oggi vi
+sventola lo stemma di Lancillotto.  Gli stendardi degli altri cavalieri della
+tavola rotonda fiancheggiano la strada.  Una strana quiete pervade l'aria.  
+Via della Vittoria continua verso ovest, mentre il Cortile dei Duelli si
+estende ad est.    
+~
+173 0 1
+D1
+Il cortile dei duelli.
+~
+~
+0 -1 17352 0
+D3
+Via della Vittoria.
+~
+~
+0 -1 17343 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17348
+Armeria~
+   Ti trovi nell'armeria di Camelot.  Il fabbro mastro ed i suoi tre
+apprendisti stanno lavorando alla creazione di un'armatura completa da
+cavaliere.  Vari pezzi di armatura sono qui in attesa di essere riparati.  
+C'e' una grossa rastrelliera per le armi sulla parete orientale della
+costruzione.  Ad ovest c'e' via dei Cavalieri.    
+~
+173 0 0
+D3
+Via dei Cavalieri.
+~
+~
+0 -1 17344 0
+E
+armatura~
+I pezzi di armatura sono fatti di ottimo acciaio.    
+~
+E
+rastrelliera armi~
+La rastrelliera ospita diversi pugnali, alcune lance e alcune mazze.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17349
+Incrocio tra via dei Cavalieri e via del Nobile~
+   Ti trovi all'angolo tra via dei Cavalieri e Via del Nobile.  Una torre si
+leva verso il cielo, una scalinata consente di accedervi.  C'e' un'iscrizione
+sopra l'arco d'ingresso alla torre.  Via dei Cavalieri continua verso nord,
+mentre via del Nobile va ad est.    
+~
+173 0 0
+D0
+Via dei Cavalieri.
+~
+~
+0 -1 17344 0
+D1
+Via del Nobile.
+~
+~
+0 -1 17354 0
+D4
+La torre dell'onore.
+~
+~
+0 -1 17353 0
+E
+iscrizione arco torre~
+Osservi l'iscrizione. Recita:
+
+L'ONORE DISTINGUE IL CAVALIERE DAL CRIMINALE
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17350
+Vicolo dei Vassalli~
+   Ti trovi su via dei Vassalli.  Gli scudieri affollano questa strada per
+eseguire le varie commissioni ordinate dai loro signori.  Noti una pergamena
+abbandonata a terra.  Via dei Vassalli continua ad est e ad ovest.    
+~
+173 0 1
+D1
+Via dei Vassalli.
+~
+~
+0 -1 17355 0
+D3
+Angolo tra via dei Cavalieri e via dei Vassalli.
+~
+~
+0 -1 17345 0
+E
+pergamena~
+Osservi la pergamena. E' rovinata e mangiata dalle tarme. Puoi
+comunque leggere le seguenti parole:
+ ... ho vagato per la Foresta di Blackmoor, perso e senza speranza,
+finche' non ho trovato una capanna. Ho guardato dalla finestra e ho
+visto il Sacro Graal su una tavola. Una bellissima donna mi ha
+invitato ad entrare, ma in quel momento la mia cavalcatura si e'
+imbizzarrita e si e' messa a correre verso la foresta...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17351
+La torre del valore~
+   Ti trovi nella torre del valore.  Le mura sono affrescate con scene di
+battaglia: cavalieri combattono altri cavalieri e varie bestie.  C'e' un camino
+lungo una delle pareti in cui arde un fuoco che riscalda l'aria della stanza.
+Il fumo fa si' che gli affreschi sembrino prender vita.  Delle scale scendono
+verso la strada.    
+~
+173 0 0
+D5
+Incrocio tra via dei Cavalieri e Via dei Vassalli
+~
+~
+0 -1 17345 0
+E
+affreschi~
+Osservi gli affreschi che raffigurano San Giorgio ed il Drago.  L'armatura di
+San Giorgio brilla al sole e dalla sua lancia sventola il suo stemma.  Giorgio
+punta il drago e lo carica galoppando su un prato verde.  Il drago solleva la
+sua testa da rettile e inspira profondamente.  Giorgio ed il suo cavallo
+sfrecciano tra l'erba alta.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17352
+Cortile dei Duelli di Camelot~
+   Ti trovi nella corte di Camelot destinata ai duelli ed ai tornei.  Qui i
+cavalieri si sfidano per un posto attorno alla tavola rotonda.  Puoi vedere
+alcune sfide in corso - hai intenzione di partecipare?    
+~
+173 0 2
+D0
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17360 0
+D1
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17359 0
+D2
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17358 0
+D3
+Via della Vittoria.
+~
+~
+0 -1 17347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17353
+La torre dell'onore~
+   Ti trovi nella torre dell'onore.  Affreschi coprono le pareti ed il
+soffitto.  Del fumo esce dal camino posto lungo una delle pareti.  Uno strano
+formicolio pervade il tuo corpo.  Delle scale conducono alla strada in basso.
+  
+~
+173 0 0
+D5
+Incrocio tra via dei Cavalieri e via del Nobile.
+~
+~
+0 -1 17349 0
+E
+affreschi~
+   Osservi gli affreschi raffiguranti un picnic a cui partecipano Lancillotto,
+Ginevra e Artu'.  Un paggio arriva e consegna una pergamena ad Artu' che legge
+la pergamena e salta sul suo cavallo correndo ventre a terra.  Lancillotto a
+sua volta si avvicina al suo cavallo e sta per salirvi per seguire il Re,
+quando una mano femminile lo ferma.  Lancillotto si volta verso Ginevra.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17354
+Via del Nobile~
+   Ti trovi su via del Nobile.  La strata e' pavimentata con delle pietre
+gialle in modo da sembrare lastricata d'oro.  Una statua di Uther Pendragon si
+trova qui.  La strada continua ad est e ad ovest.    
+~
+173 0 1
+D1
+Via del Nobile.
+~
+~
+0 -1 17361 0
+D3
+Incrocio tra via dei Cavalieri e via del Nobile.
+~
+~
+0 -1 17349 0
+E
+statua uther pendragon~
+Osservi la statua.  Uther Pendragon indossa una corazza di maglia e impugna
+un'ascia gigantesca.  La barba copre i lineamenti del viso ed i suoi occhi
+sembrano osservarti intensitamente.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17355
+Vicolo dei Vassalli vicino alla Grata Nord~
+   Ti trovi su via dei Vassalli.  La via e' molto trafficata e la maggior parte
+del movimento sembra provenire da sud, dove sono gli alloggi dei vassalli.  A
+nord c'e' il Grande Cancello Settentrionale di Camelot.  Via dei Vassalli
+continua verso ovest e il cortile dei Duelli di Camelto si trova ad ovest.  Ai
+tuoi piedi si trova un mendicante con una coppa in mano.    
+~
+173 0 1
+D0
+La grande grata nord di Camelot
+~
+grata nord~
+1 -1 17356 3
+D1
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17362 0
+D2
+Gli alloggi dei Vassalli.
+~
+door~
+1 -1 17357 1
+D3
+Via dei Vassalli.
+~
+~
+0 -1 17350 0
+E
+mendicante coppa~
+Getti una moneta al mendicante.  Lui sorride e ti sussurra "Non fidarti di Sir
+Garlon, il Cavaliere Invisibile nell'area prospiciente il cancello
+occidentale".  Con un gemito ed un goffo inchino il mendicante si trascina
+vicino ad uno degli edifici che fiancheggiano la via.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17356
+La Grata Nord di Camelot~
+   Ti trovi davanti alla Grata Nord di Camelot.  Una strada polverosa e battuta
+dal vento scende dalla collina su cui sorge il castello dirigendosi verso le
+colline erbose a nord.  A sud vedi via dei Vassalli.    
+~
+173 4 1
+D0
+Una strada polverosa e battuta dal vento.
+~
+~
+0 -1 17382 0
+D2
+Via dei Vassalli.
+~
+grata~
+1 -1 17355 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17357
+Alloggi dei Vassalli~
+   Ti trovi nell'edificio destinato agli Scudieri.  E' qui che i servitori dei
+cavalieri della tavola rotonda risiedono mentre i loro signori dimorano a
+corte.  Il posto e' pieno di letti, bauli e tavoli.  C'e' molto movimento
+soprattutto attorno alle lunghe panche di legno ed ai tavoli della stanza
+comune dove in questo momento stanno servendo il pranzo.  C'e' una rudimentale
+cucina da campo con appeso il menu del giorno ed i nomi di coloro che sono
+chiamati a consumare il pasto (il tuo non e' nella lista).    
+~
+173 8 0
+D0
+Via dei Vassalli presso la grata Nord.
+~
+~
+1 -1 17355 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17358
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D0
+Il cortile dei Duelli di Camelot.
+~
+~
+0 -1 17352 0
+D1
+Il cortile dei Duelli di Camelot.
+~
+~
+0 -1 17363 0
+D2
+Il cortile dei Duelli di Camelot.
+~
+~
+0 -1 17364 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17359
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D0
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17365 0
+D1
+Vedi la Corte di Camelot.
+~
+~
+0 -1 17370 0
+D2
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17363 0
+D3
+Via della Vittoria.
+~
+~
+0 -1 17352 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17360
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D0
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17362 0
+D1
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17365 0
+D2
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17352 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17361
+Via del Nobile vicino alla Grata Sud~
+   Ti trovi su via del Nobile, vicino alla Grata meridionale delle mura di
+Camelot.  A nord si estendono i quartieri dei Nobili, dove risiedono i nobili
+in visita al castello.  Il cortile dei duelli si trova ad est, mentre via del
+Nobile continua ad ovest.  C'e' la statua di un cavaliere qui.    
+~
+173 0 1
+D0
+Il quartiere dei Nobili.
+~
+porta~
+1 -1 17366 3
+D1
+Il cortile dei Duelli di Camelot.
+~
+~
+0 -1 17364 0
+D2
+La grande grata Sud di Camelot
+~
+grata sud~
+1 -1 17367 3
+D3
+Via del Nobile.
+~
+~
+0 -1 17354 0
+E
+statua cavaliere~
+E'la statua di un cavaliere a cavallo, orientata verso l'ingresso meridionale
+del Castello.  Impugna uno stendardo con una mano ed una lancia con l'altra.  
+Indossa un'armatura completa.  Il cavallo e' raffigurato impennato, chiaro
+simbolo di una morte in battaglia del suo padrone.  C'e' una piccola iscrizione
+alla base della statua.    
+~
+E
+iscrizione~
+Eretta ad eterna memoria di Miles delle Terre Esterne, cavaliere della qualita'
+della Tavola Rotonda.  Egli ha combattuto con onore difendendo la regina nella
+Battaglia di Arden.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17362
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D1
+Il cortile dei Duelli di Camelot.
+~
+~
+0 -1 17368 0
+D2
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17360 0
+D3
+Via dei Vassalli presso la Grata Nord
+~
+~
+0 -1 17355 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17363
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D0
+Il Cortile dei Duelli di Camelot.
+~
+~
+0 -1 17359 0
+D2
+~
+~
+0 0 17369 0
+D3
+Il cortile dei Duelli di Camelot.
+~
+~
+0 -1 17358 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17364
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D0
+Il Cortile dei duelli di Camelot.
+~
+~
+0 -1 17358 0
+D1
+~
+~
+0 0 17369 0
+D3
+Via del Nobile presso la Grata Sud.
+~
+~
+0 -1 17361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17365
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D0
+Il Cortile dei Duelli di Camelot.
+~
+~
+0 -1 17368 0
+D2
+Il Cortile dei Duelli di Camelot.
+~
+~
+0 -1 17359 0
+D3
+Il Cortile dei Duelli di Camelot.
+~
+~
+0 -1 17360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17366
+Il quartiere dei Nobili~
+You are inside the quarters in which visiting nobleman reside.
+There is a courtyard with a fountain where you stand, and there are several 
+individual chambers shooting off of the courtyard.
+~
+173 0 0
+D0
+Noble Chamber~
+door~
+1 -1 17378 3
+D1
+Noble Chamber~
+door~
+1 -1 17379 1
+D2
+Nothing.
+~
+porta~
+1 -1 17361 3
+D3
+La stanza di un nobile.
+~
+porta~
+1 17338 17380 7
+E
+fountain~
+The fountain has has flowing water from a statue of a girl holding an urn.
+The water drops into a tile lined pool, where fish swim. Some coins have 
+been tossed in the fountain.
+~
+E
+fish~
+The fish are small minnow like fish, mostly bottom feeders.
+~
+E
+coins~
+You really dont want to bother getting the coins out. It would be in poor 
+taste.
+~
+E
+girl statue~
+The statue depicts a girl in a tunic-like dress. She is chubby and has 
+shoulder length hair.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17367
+La Grande Grata Sud~
+   Ti trovi di fronte alla grande grata sud del castello di Camelot.  Verso sud
+una strada acciottolata si estende attraverso una fertile pianura coltivata.  
+Alcuni servi stanno arando i campi servendosi di buoi aggiogati ad un aratro.
+Grano e frumento stanno germogliando in altri campi.  La vista da qui e'
+fantastica e un leggero vento porta alle tue orecchie i rumori della citta'.  
+
+~
+173 4 1
+D0
+La Grande Grata Sud.
+~
+grata~
+1 -1 17361 3
+D2
+Una strada acciottolata.
+~
+~
+0 -1 17391 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17368
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 0
+D2
+Il Cortile dei duelli di Camelot.
+~
+~
+0 -1 17365 0
+D3
+Il Cortile dei Duelli di Camelot.
+~
+~
+0 -1 17362 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17369
+Cortile dei Duelli di Camelot~
+   Ti trovi nel cortile dei duelli di Camelot.  Qui i cavalieri si sfidano l'un
+l'altro per avere l'onore di sedere attorno alla tavola rotonda.  Puoi vedere
+diverse sfide in corso - vuoi forse partecipare ?
+~
+173 0 2
+D0
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17363 0
+D3
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17364 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17370
+La Corte di Camelot~
+   Ti trovi nella favolosa corte di Camelot.  Qui, in un cortile assolato,
+nobiluomini e cavalieri passeggiano sul prato discutendo di cavalleria e di
+guerre future.  Alcuni menestrelli suonano allegre ballate e degli acrobati
+compiono arditi esercizi nella speranza di ottenere il favore del Re.  Alcune
+dame civettano con giovani cavalieri e scudieri.  Questo sembra essere il posto
+migliore dell'intero mondo, dove regnano l'amicizia ed alti ideali di
+cavalleria.  Godi di una meravigliosa vista sul Cortile del Duelli di Camelot
+da qui.  Alcune vie conducono verso gli alloggi dei cavalieri, alla Tavola
+Rotonda, al Salone dei Ricevimenti e al Cortile dei Duelli.
+~
+173 0 2
+D0
+Gli alloggi dei Cavalieri.
+~
+porta~
+1 -1 17374 3
+D1
+La Tavola Rotonda
+~
+arcata~
+1 -1 17376 3
+D2
+Il salone dei Ricevimenti.
+~
+~
+0 -1 17371 0
+D3
+Il cortile dei duelli di Camelot.
+~
+~
+0 -1 17359 0
+E
+torneo cortile~
+Osservi due cavalieri che si affrontano in duello.  A sinistra c'e' un
+cavaliere in armatura completa e con una piuma arancione sull'elmo.  A destra
+c'e' un cavaliere in armatura di maglia che indossa un mantello nero.  Artu' fa
+un breve cenno verso i cavalieri che si muovono all'unisono.  Entrambi spronano
+i propri destrieri fino a farli andare al galoppo.  Alla tua destra senti un
+grido di giubilo provenire da uno spettatore.  Il cavaliere dal mantello nero
+carica ventre a terra e si tiene basso sul cavallo.  I cavalieri si scontrano
+al centro del cortile con un impressionante fracasso.  Il cavaliere dalla piuma
+arancione si contorce sulla sella, colpendo in alto lo scudo del cavaliere dal
+mantello nero.  Il cavaliere dal mantello nero risponde con un duro colpo
+portato al centro dello scudo del cavaliere arancione.  Vedi il cavaliere
+arancione volare a terra e atterrare con un sonoro tonfo sull'arena del
+cortile.  Il cavaliere nero gira il suo cavallo e innalza la lancia verso il
+cielo per salutare Artu'.    
+~
+E
+spettatore~
+Si tratta di una dama che appare star singhiozzando, come se parteggiasse per
+il cavaliere dalla piuma arancione.  Ma velocemente si ricompone e sembra
+manifestare il suo favore al cavaliere nero.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17371
+La grande Sala dei Banchetti~
+   Sei giunto nel Salone dei Ricevimenti di Camelot.  Sei fortunato!  Sta
+svolgendosi una festa.  Ci sono molti posti disponibili attorno ai tavoli e
+numerosi servitori corrono su e giu' indaffarati.  Alcuni tavoli ospitano
+cavalieri, altri delle dame.  Un bardo suono una dolce melodia, rendendo ancor
+piu' gaia l'atmosfera.  Un grosso fuoco arte in un gigantesco camino di pietra
+su cui sta arrostendo lentamente un cinghiale.  Puoi uscire verso la corte di
+Camelot andando a nord, mentre a sud ci sono gli alloggi delle dame.    
+~
+173 0 0
+D0
+Vedi la Corte di Camelot.
+~
+~
+0 -1 17370 0
+D2
+La porta che conduce agli alloggi delle Dame.
+~
+porta~
+1 -1 17372 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17372
+Le camere delle Dame~
+   Ti trovi nelle stanze riservate alle dame.  Spero che tu sia una signora,
+perche' altrimenti stai per trovarti in grossi guai!  Ci sono moltissime stanze
+qui, alcune occupate, altre libere, ma certamente c'e' moltissima attivita'.  
+Una giovane donna e' qui che singhiozza e noti un altro gruppo di donne
+appartate in un angolo.  C'e' una porta a nord che conduce al salone dei
+Ricevimenti ed una scalinata che sale verso la cima di una torre.    
+~
+173 0 0
+D0
+Il Salone dei Ricevimenti.
+~
+porta~
+1 -1 17371 3
+D4
+Una scalinata che sale verso l'alto.
+~
+~
+0 -1 17373 0
+E
+donna giovane~
+Parli alla ragazza.  E' addolorata perche' Lancillotto non le presta
+attenzione.    
+~
+E
+gruppo donne~
+Apri bene le orecchie e senti cio' che dice il gruppo di donne.  Riesci a
+capire: "...  E' terribile.  Quella povera ragazza e' stata catturata da quel
+folle di Mordred proprio mentre si recava in chiesa per sposarsi.  Suo padre ha
+offerto una considerevole somma per riaverla sana e salva.  Credo che il mio
+Gawaine potra' sicuramente riuscire a liberarla, guadagnando il danaro...  "
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17373
+La torre dei domestici~
+Questo e' il posto in cui alloggiano le vergini che risiedono a corte, tenute
+ben lontane dai loro cavalieri che viaggiano in lungo ed in largo per portare a
+termine le missioni che Artu' affida loro.  La principale attivita' qui e' la
+tessitura ed attualmente ci sono 3 grossi arazzi in lavorazione.    
+~
+173 0 0
+D5
+Una scalinata che scende verso il basso.
+~
+~
+0 -1 17372 0
+E
+arazzi tessitura~
+Due degli arazzi sono abbastanza completi, tanto da permettere di riconoscerne
+il soggetto.  Uno raffigura una battaglia tra cavalieri e l'altro una caccia
+della Foresta di Arden.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17374
+Gli alloggi dei Cavalieri~
+   Sei entrato nella zona del castello riservata agli alloggi dei cavalieri.  
+Armature ed armi sono ovunque.  Alcuni cavalieri stanno dormendo e guarendo
+dalle ferite riportate in guerra.  Un semplice catino si trova all'estremita'
+opposta della stanza, e le finestre sono oscurate per rendere buia la stanza.
+Le conversazioni avvengono a bassa voce.  C'e' una porta che va verso sud,
+verso la Corte di Camelot, mentre una scalinata sale verso la cima di una
+torre.    
+~
+173 1 0
+D2
+Vedi la Corte di Camelot.
+~
+porta~
+1 -1 17370 3
+D4
+Una scalinata che sale verso l'alto.
+~
+~
+0 -1 17375 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17375
+La torre di Merlino~
+   Hai trovato la torre di Merlino.  E' completamente stipata di libri,
+pergamene, bacchette, bastoni, ecc.  Ci sono un traballante tavolo e delle
+sedie su cui sono state posate curiosita' di ogni genere.  Merlino ha anche
+alcuni animali e campioni di sostanze varie poste in barattoli sopra scaffali
+di legno.  Dai un'occhiata alla finestra aperta e vedi le colline che
+circondano Camelot.  Ma quello che piu' attira la tua attenzione e' un grosso
+pentacolo al centro della stanza che vibra e ronza in accordo col tuo cuore.
+C'e' anche un SEGNO qui, inciso in caratteri rossi e intermittenti che fanno
+comparire e scomparire il messaggio "GUARDAMI".    
+~
+173 0 0
+D4
+Verso il pentacolo.
+~
+botola~
+1 -1 17381 7
+D5
+Una scalinata che scende verso il basso.
+~
+~
+0 -1 17374 0
+E
+pergamene libri bacchette bastoni~
+Scorri i libri, le pergamene, le bacchette ed i bastoni di Merlino.  Su tutti
+sono strane rune che non riesci a decifrare.    
+~
+E
+animali~
+Merlino ha un corvo, un gatto ed una lucertola.  Tutti osservano ogni tuo
+movimento.    
+~
+E
+segno~
+Guardi il segno.  All'inizio non capisci, ma poi le lettere sembrano divenire
+piu' chiare e riesci a comprendere cio' che dicono.  C'e' scritto:
+ATTENZIONE AL DEMONE! Ho imprigionato un demone FOLLE, PERICOLOSO,
+ESTREMAMENTE POTENTE, all'interno di questo pentacolo. Per quelli che vi entrano
+non c'e' VIA d'USCITA o modo di FUGGIRE. Anche Lancillotto di certo morirebbe
+se entrasse nel pentacolo. NON C'E' NIENTE DI VALORE NEL PENTACOLO, SOLO LA MORTE,
+e nessun DIVINO INTERVENTO ti potra' far uscire in breve tempo. Merlino
+~
+E
+scaffali~
+Osservi i vari contenitori di Merlino e tutto cio' che ne ricavi e' che sono
+pieni di una resina nera che macchia i tuoi vestiti e le tue dita.    
+~
+E
+pentacolo~
+Una voce dentro di te, quella stessa voce che piu' volte ti ha salvato, ti
+grida LASCIALO STARE!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17376
+La Tavola Rotonda~
+   Sei arrivato presso la Tavola Rotonda, dove Artu' sta tenendo un consiglio
+di guerra.  La Tavola misura quasi 9 metri di diametro ed e' fatta di legno di
+ciliegio.  Attorno ci sono circa 50 sedie.  La stanza che ospita la tavola e'
+anch'essa circolare ed ha un soffitto molto alto.  La luce proveniente da
+candelabri in oro e cristallo illumina la sala.  Una porta conduce ad ovest
+verso la Corte di Camelot ed una scala sale verso l'alto.    
+~
+173 0 0
+D3
+Vedi la Corte di Camelot
+~
+arcata~
+1 -1 17370 3
+D4
+Una scala sale verso l'alto.
+~
+~
+0 -1 17377 0
+E
+candelabri cristallo oro~
+Ti viene in mente di rubare uno dei candelabri, ma poi decidi che e' meglio di
+no, poiche' probabilmente attireresti troppo in fretta l'attenzione di ogni
+cavaliere del regno.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17377
+Gli alloggi privati di Artu'~
+   Sei entrato nelle stanze private di Re Artu'.  Uno stendardo con un drago e'
+usato come tenda attorno al suo grosso letto.  C'e' un bacino di marmo ed una
+scrivania di ciliegio vicino alla quale si trova una comoda sedia.  Un grosso
+tappeto fatto con pellicce di ermellino copre il pavimento.  Una scalinata
+scende verso il basso.  Alcuni arazzi alle pareti raffigurano Excalibur
+conficcata nella roccia e le varie campagne di Artu' per l'unificazione del
+regno.    
+~
+173 0 0
+D5
+Una scala scende verso il basso.
+~
+~
+0 -1 17376 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17378
+Camera di un nobile~
+   Hai fatto irruzione nella stanza di un Nobile che ha dimenticato di chiudere
+a chiave la porta, convinto che il senso dell'onore dell'intera Camelot sia
+sufficiente a proteggere i suoi beni.  L'alloggio e' formato da una stanza
+comune, alcune camere da letto ed una stanza per la servitu'.    
+~
+173 0 0
+D2
+Gli alloggi dei Nobili.
+~
+porta~
+1 17338 17366 3
+E
+beni~
+Niente di cui tu abbia bisogno.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17379
+Camera di un nobile~
+   Ti trovi una stanza vuota.  Forse potresti alloggiare qui, mentre visiti la
+corte.  L'alloggio e' formato da diverse stanze da letto, un salotto ed un
+piccolo giardino.    
+~
+173 0 0
+D3
+Gli alloggi dei Nobili.
+~
+porta~
+1 -1 17366 1
+E
+giardino~
+Alcune piante rigogliose ed vari fiori vi crescono.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17380
+Camera di un nobile~
+   Hai fatto irruzione nella stanza di un Nobile.  La stanza era chiusa a
+chiave per impedire a gente come te di entrare.  L'alloggio e' formato da una
+stanza comune, alcune camere da letto ed una stanza per la servitu'.    
+~
+173 0 0
+D1
+Gli alloggi dei nobili.
+~
+porta~
+1 -1 17366 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17381
+Il Pentacolo~
+   Beh hai deciso di entrare!  Hai messo il tuo piede all'interno del pentacolo
+e sei stato colpito da un forte calore.  Suoni agghiaccianti ti assalgono da
+ogni parte.  Il tuo intero corpo si contorce per il dolore e senti la tua voce
+emettere un grido di orrore che sembra non finire.    
+~
+173 4 0
+D5
+~
+botola~
+1 -1 17375 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17382
+Colline ondulate~
+   Hai percorso per un giorno intero la strada che attraversa le colline
+ondulate a nord di Camelot.  Sei passato per diversi villaggi.  La gente che
+hai incontrato sembrava contenta.  Attualmente ti trovi presso un incrocio.  A
+nord, la strada continua attraverso le colline ondulate.  Ad est la strada si
+dirige verso una pianura erbosa.  A sud la strada va verso Camelot.    
+~
+173 0 4
+D0
+Le colline ondulate.
+~
+~
+0 -1 17383 0
+D1
+Una pianura erbosa.
+~
+~
+0 -1 17384 0
+D2
+Una strada sinuosa.
+~
+~
+0 -1 17356 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17383
+Colline ondulate~
+   Hai percorso per un'intera giornata la strada che attraversa le colline
+ondulate a nord di Camelot.  Sei passato attraverso diversi villaggi e la gente
+che hai incontrato sembrava felice.  A nord, la strada sale verso le montagne.
+La strada a sud continua attraverso le colline.    
+~
+173 0 4
+D0
+Le montagne.
+~
+~
+0 -1 17385 0
+D2
+Una strada sinuosa.
+~
+~
+0 -1 17382 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17384
+La pianura erbosa~
+   Hai viaggiato per una settimana attraverso una grande pianura erbosa.  Hai
+attraversato diverse baronie nel tuo viaggio.  Hai incontrato cavalieri e
+pelegrini in viaggio, ed hai dormito in molte capanne e baracche.  La campagna
+e' molto fertile qui, e ci sono molte fattorie in cui viene prodotto il miglior
+frumento di Camelot.  Attualmente ti trovi presso una strana formazione
+rocciosa.  La strada prosegue verso ovest dirigendosi verso le colline, mentre
+ad est sembra dirigersi verso una costa rocciosa.    
+~
+173 0 2
+D1
+La costa rocciosa.
+~
+~
+0 -1 17386 0
+D3
+Colline ondulate.
+~
+~
+0 -1 17382 0
+E
+strana formazione rocciosa~
+Osservi la formazione rocciosa.  Le pietra sono alte poco piu' di 3 metri e
+sono disposte in cerchio.  Due pietre all'estremita' opposta del cerchio hanno
+una terza pietra posta in orizzontale sopra di esse.  C'e' una tavola di pietra
+al centro della formazione, su cui si riflettono i primi raggi del sole.    
+~
+E
+tavola~
+Cammini fino alla tavola e la esamini.  Ha delle macchie di ruggine sopra, ma
+no!  E' sangue!  Esamini la terra attorno alla tavola e trovi un vello di
+pecora.  Chiaramente e' un altare.  Puoi leggere alcune lettere incise sulla
+pietra.    
+~
+E
+scritta~
+La scritta dice:
+
+ LACNOGIRANDUTOS ROYU AYLGPIN LILSK SI BLAMMENEDOC
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17385
+Le Montagne~
+   Hai percorso per un'intera giornata la strada tra i monti ed ora sei molto
+stanco.  Ti trovi presso un vecchio muro che corre da est ad ovest attraverso
+le colline.  Non crescono molti alberi qui, ed a nord del muro sembra non
+essercene nessuno.  A sud del muro c'e' una strada sinuosa.  A nord i selvaggi
+altopiani scozzesi.  C'e' un avamposto ad est.    
+~
+173 0 4
+D0
+Gli altopiani scozzesi
+~
+cancello~
+1 -1 17387 3
+D1
+Un avamposto.
+~
+porta~
+1 -1 17388 3
+D2
+~
+~
+0 0 17383 0
+E
+muro~
+Osservi il muro. C'e' una scritta su di esso.
+~
+E
+scritta~
+La scritta recita: HADRIANUS
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17386
+La costa rocciosa~
+   Ti sei diretto verso la costa rocciosa.  Il tempo e' stato inclemente ed ha
+rallentato di molto la tua marcia.  La strada e' scomparsa ormai da due giorni.
+Ora ti trovi in cima ad una parete rocciosa a strapiombo sul vasto oceano.  La
+nebbia ti impedisce di guardare lontano, ma sai che l'orizzonte e' laggiu', da
+qualche parte.  Giu' verso il basso vedi una spiaggia sassosa.    
+~
+173 0 0
+D3
+Rocce e pioggia.
+~
+~
+0 -1 17384 0
+D5
+La spiaggia sassosa.
+~
+~
+0 -1 17389 0
+E
+spiaggia~
+Guardi la spiaggia e sei felice di aver preso questa decisione.  Vedi del fumo
+provenire dalla spiaggia e ora che osservi con piu' attenzione vedi un
+insediamento di barbari.  La spiaggia e' decisamente abitata.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17387
+Gli altopiani scozzesi~
+   Hai viaggiato per diversi giorni attraverso gli altopiani scozzesi.  Hai
+spiato i cani da pastore che sorvegliano le greggi e diverse bande di
+razziatori Scoti, che hai fortunatamente evitato.  Sopra di te, su un monte si
+erge un maniero.  Non sei sicuro di poter riuscire ad entrarvi.    
+~
+173 0 0
+D2
+Ancora piu' cani da pastore e altopiani.
+~
+cancello~
+1 -1 17385 3
+D4
+Il maniero sul monte.
+~
+~
+0 -1 17390 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17388
+Un avamposto~
+   Ti trovi nei pressi di un avamposto.  E' un maniero di pietra, con pochi
+confort per i suoi abitanti.  Ci sono delle baracche ed un corpo principale.  
+Le guardie sono disposte tutt'intorno alle mura.  Il tuo arrivo desta grande
+curiosita' poiche' la gente che abita qui non vede molti forestieri.    
+~
+173 0 0
+D3
+Un cancello.
+~
+porta cancello~
+1 -1 17385 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17389
+La spiaggia sassosa~
+   Ti trovi su una spiaggia sassosa e desidereresti aver avuto una barca.  Hai
+dovuto calarti attraverso crepacci pericolosi rischiando l'osso del collo.  Ci
+sono diverse caverne e grotte qui.    
+~
+173 0 4
+D4
+Una dura scalata che preferiresti evitare.
+~
+~
+0 -1 17386 0
+E
+grotta grotte~
+Le onde si infrangono presso le grotte.  Gli spruzzi che ti raggiungono ti
+fanno sentire il sapore del mare.    
+~
+E
+caverna caverne~
+Osservi le caverne e vedi ... fumo! Questo posto e' abitato.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17390
+Il Maniero degli Scoti~
+   Ti trovi all'intero del maniero degli Scoti.  Le mura sono ricoperte di
+pelli di animali.  Donne e bambini stanno lavorando per pulire pelli e
+pellicce.  Un grande fuoco arde in un grosso camino di pietra, riscaldandoti le
+ossa.  Gli uomini stavano danzando con le spade alzate sulle teste, ma si sono
+fermati non appena sei entrato.  C'e' una grossa pentola di ferro sopra al
+fuoco.    
+~
+173 0 0
+D5
+Gli altopiani scozzesi.
+~
+~
+0 -1 17387 0
+E
+pentola ferro~
+La pentola contiene patate, radici e carne di cinghiale.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17391
+Fattorie~
+   Hai viaggiato per un giorno intero allontanandoti dal colle di Camelot e
+seguendo una strada lastricata con grosse pietre.  I campi, ai lati della
+strada, sono molto produttivi quest'anno ed i contadini stanno raccogliendo una
+grossa quantita' di grano.  Presto la mietitura finira' e si aprira' la festa
+di fine raccolto che celebrera' un altro anno felice.  Hai ricevuto ben tre
+inviti per le varie feste dalla gente che hai incontrato lungo la via.    
+~
+173 0 2
+D0
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17367 0
+D2
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17392 0
+D3
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17393 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17392
+Fattorie~
+   Hai viaggiato per un giorno intero allontanandoti dal colle di Camelot e
+seguendo una strada lastricata con grosse pietre.  I campi, ai lati della
+strada, sono molto produttivi quest'anno ed i contadini stanno raccogliendo una
+grossa quantita' di grano.  Presto la mietitura finira' e si aprira' la festa
+di fine raccolto che celebrera' un altro anno felice.  Il tuo piacevole cammino
+e' bruscamente interrotto dalla vista di fumo in lontananza e da grida di
+guerra che provengono da sud.    
+~
+173 0 2
+D0
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17391 0
+D2
+Verso il fumo.
+~
+~
+0 -1 17395 0
+D3
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17394 0
+E
+fumo grida~
+Riesci a distinguere le parole che vengono gridate: "Alle Armi!  Alle Armi!  I
+razziatori Angli sono qui!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17393
+Fattorie~
+   Hai viaggiato per un giorno intero allontanandoti dal colle di Camelot e
+seguendo una strada lastricata con grosse pietre.  I campi, ai lati della
+strada, sono molto produttivi quest'anno ed i contadini stanno raccogliendo una
+grossa quantita' di grano.  Presto la mietitura finira' e si aprira' la festa
+di fine raccolto che celebrera' un altro anno felice.  Hai ricevuto due
+inviti per le varie feste dalla gente che hai incontrato lungo la via. 
+~
+173 0 2
+D1
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17391 0
+D2
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17394 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17394
+Fattorie~
+   Hai viaggiato per un giorno intero allontanandoti dal colle di Camelot e
+seguendo una strada lastricata con grosse pietre.  Questa parte della campagna
+non gode di buona salute, perche' noti ovunque segni di razzie.  I contadini
+sembrano essere ritornati ai loro campi che ora, ancora una volta, sono stati
+seminati per produrre grano.  Ad ovest c'e' una strada fangosa ed intensamente
+trafficata, mentre altri campi coltivati sono ad est e a nord.    
+~
+173 0 2
+D0
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17393 0
+D1
+Una strada lastricata con grosse pietre.
+~
+~
+0 -1 17392 0
+D3
+Una strada fangosa.
+~
+~
+0 -1 17396 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17395
+Razziatori Angli!~
+   Ti trovi nel bel mezzo di un'incursione che gli Angli stanno conducendo
+contro un villaggio di contadini.  I contadini si stanno difendendo dai
+razziatori con i loro attrezzi da lavoro.  Le donne stanno radunando i bambini
+e stanno ora fuggendo verso nord.  Alcune sfortunate donne sono state catturate
+dai brutali Angli, cosi' chiamati per via delle loro armi lunghe e dalla punta
+ricurva.  Il villaggio sta andando a fuoco, ma puo' dirigerti verso le barche
+che si trovano lungo la spiaggia ad ovest.    
+~
+173 0 2
+D0
+Tutti stanno fuggendo verso questa direzione.
+~
+~
+0 -1 17392 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17396
+Un avamposto~
+   Hai raggiunto un avamposto fortificato.  I tuoi stivali sono immersi nel
+fango provocato dai carri dei rifornimenti che, percorrendo la strada di terra
+battuta, si dirigono verso la costruzione.  Parli alle guardie e loro ti
+mettono in guardia dagli spietati Pitti che occupano le terre ad ovest e con
+cui Camelot e' in guerra.  Gli uomini sono induriti dalla guerra e dal loro
+sguardo capisci che sono stati testimoni di terribili atrocita'.  Ad est si
+estendono i campi coltivati, mentre da ovest senti provenire il rumore di una
+battaglia.    
+~
+173 0 2
+D1
+Una strada fangosa.
+~
+~
+0 -1 17394 0
+D3
+Il clamore della battaglia.
+~
+~
+0 -1 17397 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17397
+Battaglia!~
+   Ti sei aperto con fatica la strada fino a raggiungere il cuore della
+battaglia che vede i cavalieri di Camelot opporsi ad i barbari Pitti.  I
+cavalieri hanno formato una linea di fanti al centro del campo di battaglia per
+fronteggiare le orde dei Pitti.  Nel frattempo due unita' di cavalleria stanno
+aggirando i combattenti per cercare di prendere i nemici ai fianchi.  
+Riconosci molti dei cavalieri che stanno tenendo il centro dello schieramento.
+I Pitti stanno avendo la peggio e vedi che il loro capo ha gia' lasciato il
+campo di battaglia decidendo per una vergognosa ritirata.    
+~
+173 0 2
+D1
+Un avamposto.
+~
+~
+0 -1 17396 0
+D3
+Dietro le linee dei Pitti.
+~
+file~
+1 -1 17346 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17398
+Stalle~
+   Ti trovi all'interno delle enormi stalle di Camelot.  File e file di box per
+i cavalli si estendono a perdita d'occhio.  Il forte odore dei cavalli e quello
+di pagla fresca si combina piacevolmente.  La stalla e' piena di attivita'.  
+Alcuni addetti stanno sellando i cavalli, altri li stanno nutrendo e alcuni
+maniscalchi stanno sistemando gli zoccoli degli animali.  Una tenue luce filtra
+dalle fessure presenti nel tetto.  Ad ovest c'e' Via dei Cavalieri.    
+~
+173 0 0
+D1
+~
+recinto~
+1 -1 17399 3
+D3
+Via dei Cavalieri.
+~
+~
+0 -1 17342 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17399
+I box dei cavalli~
+Questi sono i box dove i cavalli sono custoditi.
+~
+173 4 0
+D3
+~
+recinto~
+1 -1 17398 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

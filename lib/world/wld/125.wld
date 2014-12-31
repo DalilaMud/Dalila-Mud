@@ -1,0 +1,4456 @@
+#12500
+La Piazza Centrale~
+Ti trovi nel centro esatto della nuova Deira ricostruita dopo il cataclisma.
+Una stupenda fontana di marmo rosa ti sorprende con la bellezza dei giochi
+creati dagli zampilli di &bacqua&v contro il &ccielo terso&v. Tutto intorno alla
+piazza, lastricata in con uno stupendo &wcristallo &cazzurro cielo&v, come cornice
+si trovano degli stupendi &Vgiardini lussureggianti&v.
+Non lontano verso SUD intravedi il maestoso &wTempio di Fizban&v
+e nella stessa direzione la &BSala Donazioni&v
+~
+125 16 1
+D0
+~
+~
+0 -1 12501 0
+D1
+~
+~
+0 -1 12503 0
+D2
+~
+~
+0 -1 12504 0
+D3
+~
+~
+0 -1 12505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12501
+Il Parco~
+Guidato da un sentiero di cristallo azzurro ti ritrovi immerso in uno stupendo
+giardino. Verdi piante e bellissimi animali ti circondano, non avresti mai 
+immaginato potesse esistere un posto cosi nemmeno nei tuoi sogni.
+Il sentiero qui si dirama, verso nord riesci a scorgere le torri di un castello, 
+a sud vedi una stupenda fontana. Tutte le altre direzioni continuano nel verde 
+rilassante del parco.
+~
+125 0 1
+D0
+~
+~
+0 -1 12522 0
+D1
+~
+~
+0 -1 12502 0
+D2
+~
+~
+0 -1 12500 0
+D3
+~
+~
+0 -1 12508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12502
+Il Parco~
+Un largo viale pavimentato con un cristallo color cielo, ti guida attraverso
+questi stupendi giardini. Un vento caldo accarezza la tua pelle, mentre
+osservi stupefatto le meravigliose piante e animali che  ti circondano. Questo
+posto emana una forte sensazione di pace e tranquillita’....
+potresti stare qui in eterno.
+~
+125 0 1
+D2
+~
+~
+0 -1 12503 0
+D3
+~
+~
+0 -1 12501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12503
+Il Parco~
+Guidato da un sentiero di cristallo azzurro ti ritrovi immerso in uno stupendo
+giardino. Verdi piante, e bellissimi animali ti circondano, non avresti
+mai immaginato potesse esistere un posto cosi nemmeno  nei tuoi sogni.
+Il sentiero si dirama, riesci a scorgere una specie di piazza verso 
+ovest, mentre senti l'inconfondibile rumore delle vie cittadine a est.
+~
+125 0 1
+D0
+~
+~
+0 -1 12502 0
+D1
+~
+~
+0 -1 12523 0
+D2
+~
+~
+0 -1 12506 0
+D3
+~
+~
+0 -1 12500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12504
+Il Parco~
+Guidato da un sentiero di cristallo azzurro ti ritrovi immerso in uno stupendo
+giardino. Verdi piante, e bellissimi animali ti circondano, non avresti
+mai immaginato potesse esistere un posto cosi nemmeno nei tuoi sogni.
+Il sentiero e' a un bivio, in cima la collina sud vedi chiaramente un 
+tempio, verso nord scorgi una piazzetta appartata. Le altre direzioni
+continuano nella passeggiata intorno al parco.
+~
+125 128 1
+D0
+~
+~
+0 -1 12500 0
+D1
+~
+~
+0 -1 12506 0
+D2
+~
+~
+0 -1 12509 0
+D3
+~
+~
+0 -1 12507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12505
+Il Parco~
+Guidato da un sentiero di cristallo azzurro ti ritrovi immerso in uno stupendo
+giardino. Verdi piante, e bellissimi animali ti circondano, non avresti
+mai immaginato potesse esistere un posto cosi nemmeno nei tuoi sogni.
+Il sentiero qui si divide in quattro, a nord e sud il parco continua, 
+mentre ovest vedi chiaramente la via principale di Deira. Non sei
+sicuro ma diresti di aver visto uno spruzzo di acqua altissima a est.
+~
+125 0 1
+D0
+~
+~
+0 -1 12508 0
+D1
+~
+~
+0 -1 12500 0
+D2
+~
+~
+0 -1 12507 0
+D3
+~
+~
+0 -1 12524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12506
+Il Parco~
+Un largo viale pavimentato con un cristallo color cielo, ti guida attraverso
+questi stupendi giardini. Un vento caldo accarezza la tua pelle, mentre
+osservi stupefatto le meravigliose piante e animali che  ti circondano. Questo
+posto emana una forte sensazione di pace e  tranquillita’....
+potresti stare qui in eterno.
+~
+125 128 1
+D0
+~
+~
+0 -1 12503 0
+D3
+~
+~
+0 -1 12504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12507
+Il Parco~
+Un largo viale pavimentato con un cristallo color cielo, ti guida attraverso
+questi stupendi giardini. Un vento caldo accarezza la tua pelle, mentre
+osservi stupefatto le meravigliose piante e animali che  ti circondano. Questo
+posto emana una forte sensazione di pace e  tranquillita’.... 
+potresti stare qui in eterno.
+~
+125 128 1
+D0
+~
+~
+0 -1 12505 0
+D1
+~
+~
+0 -1 12504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12508
+Il Parco~
+Un largo viale pavimentato con un cristallo color cielo, ti guida attraverso
+questi stupendi giardini. Un vento caldo accarezza la tua pelle, mentre
+osservi stupefatto le meravigliose piante e animali che  ti circondano. Questo
+posto emana una forte sensazione di pace e  tranquillita’.... 
+potresti stare qui in eterno.
+~
+125 16 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40889 0
+D1
+~
+~
+0 -1 12501 0
+D2
+~
+~
+0 -1 12505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12509
+Il viale in salita~
+Il viale pavimentato di cristallo, esce dai giardini e sale lungo una 
+collinetta erbosa. Ai lati del viale vedi le statue che raffigurano 
+gli eroi e gli Dei conosciti in tutta la Daresia. Arrivato a meta' 
+strada noti di essere salito un bel po' ed adesso intorno a te puoi 
+vedere tutta la citta' di Deira nel suo splendore. Devi fare ancora un 
+po' di strada prima di arrivare sulla sommita’ del colle.
+~
+125 144 1
+D0
+~
+~
+0 -1 12504 0
+D2
+~
+~
+0 -1 12525 0
+D3
+Un edificio di &gpietra grezza&d.
+~
+~
+0 0 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12510
+L'entrata del tempio~
+Sei alla base del tempio, davanti a te si elevano alte colonne che 
+arrivano fino al soffitto della costruzione interamente fatta di 
+marmo bianco come il latte. I pavimenti sono coperti di preziosi
+mosaici, mentre ai lati dell'entrata noti le statue di Fizban dio
+del bene a cui a dedicato il tempio. Nel prato intorno al tempio vedi
+molte persone che pregano o semplicemente contemplano il panorama.
+~
+125 144 1
+D0
+~
+~
+0 -1 12525 0
+D2
+~
+~
+0 -1 12511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12511
+La Sala Principale~
+   Sei nella sala centrale del tempio, noti il grande viavai di gente che esce
+ed entra di continuo.  Guardando verso l'alto non riesci a capire quanto sia
+alta e grande questa sala, ma di certo da fuori sembrava molto piu' piccola.  
+Una musica bassa e rilassante di un arpa echeggia ovunque, avvolgendoti.  
+**Per avere accesso alla sala donazioni e alle altre sale private basta
+contattare i sacerdoti del tempio** Il sacerdote maggiore attualmente in carica
+e' Mazzaferro di Deira.    
+~
+125 16 0
+D0
+~
+~
+0 -1 12510 0
+D1
+~
+~
+0 -1 12517 0
+D2
+~
+~
+0 -1 12512 0
+D3
+~
+~
+0 -1 12518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12512
+Il Sacro Altare~
+Una lunga e maestosa scalinata di marmo sale fino ad arrivare ad una 
+larga sala. La sala al posto del soffitto ha delle stupende vetrate 
+che fanno filtrare la luce del sole, che si riflette sugli interni 
+color bianco latte. Al centro si trova un piccolo e spoglio altare 
+di cristallo, con sopra un purissimo giglio appena colto.
+&1Qui si puo' RESUSCITARE e RIGENERARE le proprie ferite.&0
+~
+125 17592186044432 0
+D0
+~
+~
+0 -1 12511 0
+D2
+Una porta di legno.
+~
+porta~
+1 766857 12513 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12513
+Un corridoio~
+Subito dietro l'altare si trova questo corridoio, percorrendolo noti
+che dopo pochi metri finisce. Davanti si para una profondissima 
+voragine, e a 200 metri dall'altra parte vedi il corridoio proseguire.
+Una paura mostruosa si impadronisce di te mentre osservi il vuoto 
+spaventoso, nessuno potrebbe arrivare da solo dall'altra parte !!
+Noti una targa appesa al muro.
+~
+125 2560 0
+D0
+Una porta di legno.
+~
+porta~
+1 766857 12512 167
+D2
+Una porta di legno.
+~
+porta~
+1 215361 12514 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12514
+La Voragine~
+Non sei stato convocato, ma fai appello al tuo coraggio, ti pare di 
+ricordare anche una storia che parlava di questa cosa, e spicchi
+un salto nel vuoto....
+Il salto e lungo ma non abbastanza, inizi a precipitare nel buio 
+e nel silenzio. Non e’ stato saggio sfidare un monito divino adesso
+precipiterai in eterno.... ADDIO !!
+~
+125 152 0
+D0
+Una porta di legno.
+~
+porta~
+1 215361 12513 135
+D2
+~
+~
+0 0 2014052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12515
+&7&bIn Meditazione&0~
+   L'acqua che hai ingerito poco fa ti ha fatto entrate in uno stato di
+semicoscienza intuitiva.  Come in un sogno vedi manifestarsi intorno a te
+l'assoluto sotto infinite forme e colori, in un inno alla vita e alla ricerca
+del bene come predicato dai fedeli al Culto del Grande Fizban.    
+~
+125 17592186044664 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12516
+Il Ponte~
+Cammini sopra un ponte di cristallo sospeso sopra una voragine di cui 
+non riesci a vedere nemmeno la fine. Noti che mano a mano che avanzi 
+il ponte scompare dietro di te, capisci che e' un biglietto di sola
+andata. Sei a meta' ponte, puoi farcela ancora a tornare alla sala a 
+sud, oppure puoi proseguire verso il corridoio a nord.
+~
+125 0 0
+D0
+~
+~
+0 -1 12513 0
+D2
+~
+~
+0 -1 12515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12517
+&1&bLa Stanza delle Donazioni&0~
+Questa stanza e' piena di oggetti donati per aiutare i bisognosi. 
+Proprio mentre stai contemplando gli oggetti, vedi un sacerdote che
+deposita alcune giacche e scarpe nuove. Qualcosa dentro di te ti dice
+che puoi prendere cio' che ti serve, ma non devi esagerare non sei 
+il solo che necessita di aiuto, sii giusto nelle scelte.
+~
+125 2580 0
+D1
+Uno sgabuzzino
+~
+sgabuzzino~
+2 0 20017 15
+D3
+~
+~
+0 -1 12511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12518
+La piccola Biblioteca~
+Vedi alti scaffali di libri e tomi nuovi e antichi. Qui i sacerdoti
+copiano e traducono i testi sacri, che chiunque puo' consultare.
+Escluso il rumore delle pagine girate, non percepisci altro suono, 
+tutto e' avvolto da una fitta coltre di silenzio e rispetto reciproco.
+Vedi una porta a nord che conduce al refettorio, mentre a est si trova 
+la sala principale del tempio.
+~
+125 0 0
+D0
+~
+~
+0 -1 12519 0
+D1
+~
+~
+0 -1 12511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12519
+Il refettorio~
+Lunghe tavolate di legno sono sempre pronte per dare cibo sia ai 
+sacerdoti, che hai bisognosi che ne facciano richiesta. Un profumino
+invitante viene dalle cucine a ovest, mentre vedi una piccola scala
+che sale hai piani superiori.
+~
+125 16 0
+D2
+~
+~
+0 -1 12518 0
+D3
+~
+~
+0 -1 12520 0
+D4
+Una porta di legno.
+~
+porta~
+1 887323 12521 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12520
+La cucina~
+Vedi numerose cibarie appese ovunque, e un paio di pentole stanno 
+bollendo sopra il fuoco, ne esce un invitante profumino. Sai che molte 
+di queste cibarie sono donate dai cittadini piu' facoltosi della 
+citta' per sostenere i meno abbienti.
+~
+125 0 0
+D1
+~
+~
+0 -1 12519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12521
+Il dormitorio~
+Sono disposti in lunghe file numerosi letti puliti e rifatti. Senti 
+un pungente odore di lavanda venire dalle lenzuola appena lavate.
+Qui trovano riparo i sacerdoti del tempio, e i vagabondi nelle notti
+piu' gelide dei lunghi inverni. Una scaletta in fondo alla stanza 
+conduce al refettorio.
+~
+125 2560 0
+D5
+Una porta di legno.
+~
+porta~
+1 887323 12519 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12522
+Il Viale dei Re~
+Questo largo viale, pavimentato come tutto con cristallo azzurro, e' 
+contornato da antiche querce hai lati. Piu' avanti vedi distintamente
+il palazzo di Re Rodric, alte bandiere con il suo vessillo, sventolano
+dalle torri. Questa strada prende il nome di "Viale dei Re" perche'
+la tradizione vuole che prima di essere incoronato, il futuro Re debba
+sfilare qui con il suo esercito, fino alle mura del castello.
+~
+125 35184372088960 1
+D2
+~
+~
+0 -1 12501 0
+D3
+~
+~
+0 0 3198 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12523
+Il Viale dei Templari~
+Noti un mostruoso viavai di merci e persone, guardie indaffarate a 
+mantenere l'ordine, mercanti che trasportano i loro carri pieni di 
+preziose materie prime etc. etc. Capisci subito, anche guardando
+gli edifici che ti circondano, che questa e' una delle piu' importanti
+e ricche vie cittadine. Tra la confusione riesci appena a scorgere il
+parco della citta' a ovest.
+~
+125 0 1
+D0
+~
+~
+0 -1 12526 0
+D1
+~
+~
+0 -1 12574 0
+D2
+~
+~
+0 -1 12572 0
+D3
+~
+~
+0 -1 12503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12524
+Il Viale dei Templari~
+Noti il mostruoso viavai di merci e persone, guardie indaffarate a 
+mantenere l'ordine, mercanti che trasportano i loro carri pieni di 
+preziose materie prime..... Capisci subito, anche guardando gli edifici 
+che ti circondano, che questa e' una delle piu' importanti, antiche e 
+ricche vie cittadine. Intuisci di essere in un incrocio, a est vedi
+il parco, mentre in tutte le altre direzioni i suntuosi viali cittadini.
+~
+125 0 1
+D0
+~
+~
+0 -1 12540 0
+D1
+~
+~
+0 -1 12505 0
+D2
+~
+~
+0 -1 12550 0
+D3
+~
+~
+0 -1 12575 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12525
+Il viale in salita~
+Sei a pochi passi dalla cima della collina e dal tempio, ti volti per 
+un attimo verso il magnifico paesaggio dipinto da madre natura. Osservi 
+valli, fiumi, montagne e boschi come fosse la prima volta che li vedi.
+Un leggero vento accarezza i tuoi capelli, mentre una lacrima solca il
+tuo viso, commosso da tanta meraviglia. Le statue di dei ed eroi che ti
+circondano ti danno la forza di riprendere il tuo cammino.
+~
+125 128 1
+D0
+~
+~
+0 -1 12509 0
+D2
+~
+~
+0 -1 12510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12526
+Il Viale dei Templari~
+Fin qui riesci a sentire l'inconfondibile odore di pane appena 
+sfornato, ti volti e come avevi intuito sul lato est della strada vedi
+la bottega del fornaio aperta. Mentre stai meditando sul fare o no 
+uno spuntino vieni urtato da uno dei numerosi passanti che ti fa 
+voltare. Dall'altro lato della strada vedi la Sede
+dell'Alleanza di Videssos.
+~
+125 0 1
+D0
+~
+~
+0 -1 12531 0
+D1
+~
+~
+0 -1 12527 0
+D2
+~
+~
+0 -1 12523 0
+D3
+Una porta di legno.
+~
+porta~
+1 798876 12528 131
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12527
+La bottega del fornaio~
+Scansi i grandi sacchi di farina che sono appoggiati vicino all'entrata e dai 
+uno sguardo attorno. Su scaffali, disseminati ovunque nel negozio, vedi il pane 
+cotto e lavorato in tutte le forme. Osservi la giovane fornaia mentre mette una 
+grande teglia di pane da cuocere nel forno alle sue spalle. La bella ragazza si 
+volta verso di te e ti sorride, poi si mette a lavorare altra pasta.
+~
+125 0 0
+D3
+~
+~
+0 -1 12526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12528
+Sala Principale~
+E una enorme sala rettangolare, dal soffitto a cassetto altissimo e
+finemente decorato e dal pavimento in pietra. E qui che i Membri amano
+passeggiare e scambiare idee e vedute. Le pareti sono ricoperte da arazzi
+raffiguranti pagine importanti della storia del clan: Lord Stephan e Lord
+Gozard che firmano l'atto costitutivo del clan, il giuramento dei Generali
+Taron e Talador, Elrond e Mazzaferro ritratti rispettivamente con le chiavi
+dell'erario e con la bilancia della giustizia.
+~
+125 2560 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40358 0
+D1
+Una porta di legno.
+~
+porta~
+1 798876 12526 163
+D2
+~
+~
+0 -1 40095 0
+D4
+~
+~
+0 -1 40096 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12529
+&1&bLA SPORGENZA&0~
+Ti sporgi pericolosamente dalle mura.... &1scivoli improvvisamente!!!&0
+Le punte ti trafiggono senza possibilita' di scampo... forse ti trovera' il
+prossimo giro di ronda. Te la sei cercata ammettilo!
+~
+125 516 0
+D0
+~
+~
+0 0 2124456 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12530
+L'antro ombroso~
+Il corridoio lercio e buio continua lungo una scala a chiocciola che scende
+nella terra. Nessuna fonte di luce rischiara la via.~
+125 0 0
+D3
+~
+~
+0 -1 12680 0
+D5
+~
+~
+0 -1 12545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12531
+Il Viale dei Templari~
+Sopra le teste del fiume di gente che scorre senza tregua vedi un 
+insegna con su scritto a fini caratteri "Alle Lance Incrociate", 
+sicuramente si tratta di una taverna. Continui a guardarti intorno
+incuriosito, e vedi dall'altra parte della strada quello che sembra
+un appartamento sfitto, davanti alla porta della casa si trova un 
+cartello.
+~
+125 0 1
+D0
+~
+~
+0 -1 12534 0
+D1
+Una porta di legno.
+~
+porta~
+1 373183 40579 135
+D2
+~
+~
+0 -1 12526 0
+D3
+~
+~
+0 -1 12533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12532
+Il piccolo passaggio~
+Sei in un piccolo corridoio di mattoni, la scarsa luce ti permette di vedere una
+robusta porta di acciaio a nord ed una porta di legno a sud.
+La porta a nord non ha ne maniglie ne serrature.
+
+~
+125 1 0
+D2
+~
+~
+0 -1 12571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12533
+Alle Lance Incrociate~
+E' la locanda piu' ordinata e pulita che tu abbia mai visto. Nella
+vetrina dietro il bancone fanno bella mostra alcune delle bottiglie
+dei piu' pregiati vini della daresia. La clientela e' per lo piu'
+costituita da nobili e ricchi mercanti. Il barista ti squadra un
+attimo mentre lucida un calice di vetro.
+
+&1&b La bacheca per le canzoni e' qui! &0
+
+&1&b PER LA MUSICA DARE 10 COINs al MUSICO &0
+~
+125 0 0
+D1
+~
+~
+0 -1 12531 0
+E
+bacheca~
+&3
+1  - Cimmura battle                  2 - Le praterie di Lamorka
+2  - Arpe di Cyrga                   4 - Isole Lontane
+5  - Lacrime di Haon dor             6 - Le 3 spade
+7  - Anon village                    8 - Il grande est
+9  - Jiroch                         10 - Yuk Birra
+11 - Sole e relax                   12 - Krog grog?
+13 - Lamorka (Sephrenia ballet)     14 - Torre della Magia
+15 - La Cattedrale                  16 - Night, Thief an the terror
+17 - Tolnedra caos                  18 - Deira
+19 - Run run little Demostenee      20 - Jack Taglialegna
+21 - Ramku in the kitchen           22 - Zingari!
+23 - Khristian build up             24 - Chyrellos 
+25 - Teinko assedium                26 - Salomon fury
+27 - The Aurin                      28 - La guerra dei regni&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12534
+Il Viale dei Templari~
+Il largo viale compie un'ampia curva. Nel lato esterno della curva
+noti un piccolo angolo di verde, che spezza, per un attimo, il ritmo
+frenetico della capitale. Sul lato ovest della strada vedi una costruzione
+in pietra da cui esce incessantemente una gran quantita' di fumo.
+Due guardie, appoggiate al muro, discutono tra di loro, dando di tanto un 
+tanto uno sguardo in giro.
+~
+125 0 1
+D0
+~
+~
+0 -1 12610 0
+D1
+~
+~
+0 -1 12611 0
+D2
+~
+~
+0 -1 12531 0
+D3
+~
+~
+0 -1 12535 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12535
+Il Viale dei Templari~
+Sei giunto ad un incrocio, qui il traffico di persone e mezzi e'
+aumentato a dismisura. La via che va a nord conduce verso la parte
+abitata dai ceti medi, piu' lontani dal centro della capitale. A est
+e ad ovest continua la strada principale. Guardando a sud, sopra i
+tetti degli edifici riesci a scorgere le alte torri di guardia del
+castello regale che domina sulla citta'.
+~
+125 0 1
+D0
+~
+~
+0 -1 12576 0
+D1
+~
+~
+0 -1 12534 0
+D3
+~
+~
+0 -1 12536 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12536
+Il Viale dei Templari~
+La strada qui compie una larga curva. Nella lato ovest del viale vedi
+l'entrata di un grande edificio, appena sopra la porta vedi l'insegna 
+su cui e' scritto con pregiati caratteri "Banca Pubblica". Noti una 
+gradevole scalinata di marmo che conduce all'ingresso.~
+125 0 1
+D0
+~
+~
+0 -1 40131 0
+D1
+~
+~
+0 -1 12535 0
+D2
+~
+~
+0 -1 12539 0
+D3
+~
+~
+0 -1 12569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12537
+Il Nobile Avventuriero~
+Il valletto ti saluta con un inchino, anche se noti uno sguardo di
+disapprovazione mentre ti guarda. Ti trovi nell'atrio della locanda,
+comodi divani sono disposti a ventaglio ai lati di un grande camino.
+Una stupenda sfera fluttuante illumina a giorno tutta l'ampia sala,
+mettendo in risalto gli arazzi che coprono ogni centimetro delle 
+pareti. A est vedi l'uscita nella strada mentre a nord si trova la
+reception.
+~
+125 0 0
+D0
+~
+~
+0 -1 12538 0
+D3
+~
+~
+0 -1 12568 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12538
+La reception~
+Ti trovi in un ampio e luminoso salone, con in fondo un lungo bancone
+di pregiato legno. La persona dietro il bancone sta sistemando dei
+fogli con cura, noti che ti da uno sguardo veloce e poi torna al suo
+lavoro. Mentre mediti sul da farsi un valletto passa con una montagna
+di pacchi e sale per la scala dei piani superiori, molto probabilmente
+le stanze si trovano lassu'.
+~
+125 12 0
+D2
+~
+~
+0 -1 12537 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12539
+Il Viale dei Templari~
+A ovest del viale vedi un ampia vetrina, ti avvicini incuriosito e rimani a
+bocca aperta quando vedi diamanti, rubini, lapislazzuli e tutte le piu'
+preziose pietre messe cosi in esposizione, consti che il negozio del gioielliere
+deve contenere inestimabili ricchezze. Nel lato est scorgi le alte vetrate di 
+quella che sembra un tempio o una biblioteca, non vedi entrata, sicuramente 
+sara' piu' a sud.
+~
+125 0 1
+D0
+~
+~
+0 -1 12536 0
+D1
+~
+~
+0 -1 12098 0
+D2
+~
+~
+0 -1 12540 0
+D3
+~
+~
+0 -1 12541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12540
+Il Viale dei Templari~
+Sul lato est del viale vedi una corta scala che conduce all'entrata della 
+biblioteca pubblica. Una targa appesa all'ingresso ti rivela che li
+vi e' anche la Gilda del Pandion, gli stregoni. Un minuto pandion, davanti 
+ad una piccola folla, fa sfoggio della sua magia scomparendo all'improvviso 
+e riapparendo dietro alle spalle degli spettatori che sussultano stupiti.
+Si curamente e' un apprendista... un vero stregone non fa sfoggio della sua
+abilita'.
+~
+125 0 1
+D0
+~
+~
+0 -1 12539 0
+D1
+~
+~
+0 -1 12546 0
+D2
+~
+~
+0 -1 12524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12541
+La gioielleria~
+Come avevi intuito l'interno di questo negozio e' pieno di collane di 
+bracciali e anelli di ogni fattura e materiale. Tutto scintilla alla
+luce delle torce magiche appese ai muri. Dietro un bancone un vecchio
+nano sta osservando controluce la purezza di una gemma. A un lato vedi 
+una scaletta che scende sotto il negozio.
+~
+125 0 0
+D1
+~
+~
+0 -1 12539 0
+D5
+~
+~
+0 -1 12544 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12542
+Una cella~
+Guardandoti intorno noti che per essere una cella e' ben pulita, ma
+di certo non ti piacerebbe passare la vita qui. Una finestra con 
+sbarre di ferro da sul viale dei templari, e' molto alta e appena
+arrivi a vedere di fuori in punta di piedi. Solide sbarre all'entrata
+evitano che i malfattori escano "senza il permesso" delle guardie.
+PER COMUNICARE CON LE AUTORITA' ALDARIANE USARE LA BACHECA DELLA PRIGIONE.
+~
+125 268435612 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12543
+Laboratorio di ripulitura pietre preziose~
+In mezzo alla stanza si trova un largo tavolo di legno. Vedi numerosi
+strumenti per la ripulitura delle pietre grezze, poggiati un po'
+ovunque. Decisamente questa stanza e' dedicata alla pulitura delle pietre
+prezione, scheggie e fremmenti di pietra ricoprono il pavimento.
+Un uomo sta imprecando contro uno smeraldo che si e' sbriciolato tra le 
+sue mani.
+~
+125 33554432 0
+D2
+~
+~
+0 -1 12662 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12544
+Laboratorio di intagliatura delle pietre preziose~
+Appena entrato vieni abbagliato dalla fortissima lampada che si trova
+sul soffitto. Dopo poco ti abitui a questa illuminazione e vedi un 
+basso tavolo di marmo al lato nord della stanza, con sopra lenti di 
+ogni dimensione e strumenti per tagliare le gemme. Capisci che questo
+laboratorio e' dedicato al taglio delle gemme, lavoro che richiede una
+estrema perizia e precisione.
+~
+125 67108864 0
+D4
+~
+~
+0 -1 12541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12545
+La scala sdrucciolevole~
+La scala a chiocciola e' viscida e ripida, speri di non cadere e fracassarti le
+ossa...~
+125 1 0
+D4
+~
+~
+0 -1 12530 0
+D5
+~
+~
+0 -1 12553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12546
+La biblioteca pubblica~
+Sei in un ampia sala, lunghi scaffali di libri di ogni genere occupano
+buona parte della biblioteca. Vicino all'entrata vedi un bancone di 
+legno, dietro il quale un giovane ragazzo sta esaminando accuratamente
+una lista, molto probabilmente su tratta dell'archivista o del custode
+della biblioteca. A nord vedi la stanza di lettura, mentre a ovest 
+l'uscita.
+~
+125 0 0
+D0
+~
+~
+0 -1 12547 0
+D3
+~
+~
+0 -1 12540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12547
+L'anticamera della biblioteca~
+Sei in una sala dal pavimento in marmo bianco. Alle pareti sono appesi
+ritratti dei piu' famosi dotti e sapienti della citta' di Deira. A est una
+piccola porticina ti conduce alla sala di lettura. Una guardia in uniforme
+Pandion e' davanti a una scala che conduce al piano superiore, una targa li'
+vicino dice: "Gilda dei Pandion".    
+~
+125 0 0
+D1
+~
+~
+0 0 20030 0
+D2
+~
+~
+0 -1 12546 0
+D4
+~
+~
+0 -1 12548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12548
+La sala di attesa~
+Ti trovi in una piccola sala disadorna. Qui i giovani pandion attendono di poter
+conferire con i maestri del loro ordine per apprendere nuove conoscenze. 
+Lunghe panche di marmo sono ai lati della stanza, per rendere un po' piu' 
+piacevole l'attesa. In un angolo vedi un quadro che raffigura il momento 
+saliente del cataclisma. Un larga scala conduce alla sala dei maestri.
+~
+125 0 0
+D4
+~
+~
+0 -1 12549 0
+D5
+~
+~
+0 -1 12547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12549
+La sala dei Maestri~
+Sei al cospetto del capo della tua scuola. Le pareti della sala sono 
+adornate dai &1quadri&0 dei piu' potenti pandion che tutta la daresia
+abbia mai conosciuto, persone che padroneggiavano tutti i piu'
+reconditi segreti della magia. Mentre fissi i quadri, per qualche
+istante ti domandi se mai il tuo volto si affianchera' a quella di
+quei potenti uomini e donne.
+~
+125 0 0
+D5
+~
+~
+0 -1 12548 0
+E
+quadri~
+Stupende immagini sono rappresentate son estremo realismo.
+Vedi un imponente mago domare un bellissimo drago bianco, una taghetta
+identifica il mago come "Mabruk, &2il Primo Domatore di Draghi&0".
+Un'altra immagine raffigura invece una giovane donna mentre scaglia
+impressionanti fulmini contro un esercito di barbari, un'altra targhetta
+dice "Laika, &1Lady Death&0, La prima Maestra Pandion".~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12550
+Il Viale dei Templari~
+Il tuo sguardo viene attirato da una gradevole chiesetta che si trova
+sul lato ovest del viale. La facciata e' adornata da numerosi simboli
+sacri, non appartengono tutti ad un solo culto ma comprendono tutto il
+panteon delle divinita'. Intuisci che piu' di una chiesa deve essere
+un tipo di scuola visto che una guardia ne preclude l'ingresso. 
+Sull'altro lato vedi una bella casa di qualche nobile del posto.
+~
+125 0 1
+D0
+~
+~
+0 -1 12524 0
+D1
+Una porta di legno.
+~
+porta~
+1 637684 40321 135
+D2
+~
+~
+0 -1 12556 0
+D3
+~
+~
+0 -1 12554 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12551
+La caserma~
+Un grande campo all'aperto si apre dinnanzi a te, fantocci di paglia sono 
+posizionati tutto intorno, barricate di legno son trafitte da frecce da 
+addestramento. Pezzi di armature distrutte son ammucchiate in un angolo.
+Qui e' dove vengono addestrati gli eserciti che difenderanno la patria aldariana.
+~
+125 0 0
+D1
+~
+~
+0 -1 12597 0
+D3
+~
+~
+0 -1 12552 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12552
+Un'altra Caserma~
+Anche qui i soldati degli eserciti Aldariani vengono sottoposti a duri allenamenti.
+~
+125 0 0
+D1
+~
+~
+0 -1 12551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12553
+La segreta~
+Quattro angoli dove imprigionare e lasciar morire la gente, ecco cosa vedi.
+Un buco si apre sul pavimento... se cadi non tornerai mai piu' su.~
+125 13 0
+D0
+~
+porta~
+1 0 12591 1
+D1
+~
+~
+0 -1 12565 0
+D2
+~
+~
+0 -1 12567 0
+D3
+~
+~
+0 -1 12566 0
+D4
+~
+~
+0 -1 12545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12554
+La scuola dei Cyrinic~
+La luce del sole filtra attraverso le graziose vetrate colorate della
+facciata creando affascinanti giochi di luce. Cuscini e tappeti di 
+pregiata fattura coprono il pavimento come un soffice manto erboso.
+Questa sala e' dedicata alla meditazione e allo studio dell'animo, 
+molti giovani apprendisti sono qui in meditazione. A ovest vedi la
+sala della saggezza, dove i maestri insegnano i segreti della vita.
+~
+125 0 0
+D1
+~
+~
+0 -1 12550 0
+D3
+~
+~
+0 -1 12690 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12555
+La sala della Saggezza~
+Un raggio di sole che entra da un apertura sul soffitto, squarcia le tenebre 
+della stanza ed illumina il grande sacerdote che si trova al centro della stanza.
+Gradi scaffali pieni di libri colmi di sapere coprono completamente ogni spazio 
+rimasto nelle pareti. Una sensazione di pace e tranquillita’ copre tutta la 
+stanza. Un grande &3quadro&0 e' appeso alla parete.
+~
+125 0 0
+D1
+~
+~
+0 -1 12690 0
+E
+quadro~
+Vedi rappresentato il primo e piu' grande Mistico della Daresia:
+         &4Khristian, figlio della Dea Khristina&0.
+Nonostante non sia aldariano la sua effige e' degna di onore in
+ogni terra.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12556
+Il Viale dei Templari~
+Mentre osservi divertito come i palazzi si incastrino tra di loro alla 
+perfezione, ti cade l'occhio su un negozio sul lato est della
+strada. Su un'insegna cancellata piu' volte e riscritta leggi: "L'arcano 
+Mago", capisci che si tratta sicuramente del solito mago/erborista che 
+si trova un po' in tutte le citta'. Dall'altro lato della strada vedi
+un negozio di cibarie.
+~
+125 0 1
+D0
+~
+~
+0 -1 12550 0
+D1
+~
+~
+0 -1 12558 0
+D2
+~
+~
+0 -1 12562 0
+D3
+~
+~
+0 -1 12557 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12557
+&3&bI Dolci Sapori&0~
+Ampio spazioso e ben aerato. Una grande vetrina vuota da sulla strada,
+e fa entrare la luce del sole. In centro cosi sicuramente si farebbero
+affari d'oro, ma per comprarlo ti dovrai sicuramente svenare.
+~
+125 0 0
+D1
+~
+~
+0 -1 12556 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12558
+L'Arcano Mago~
+Intorno a te si trovano cataste di pozioni, pergamene, staffe e libri
+magici di ogni forma e fattura. Un uomo di mezza eta' sta ordinando e
+catalogando ogni singola cosa, sembra molto preso. Senti un forte
+odore di spezie che viene da una botola sul soffitto. su uno scaffale
+noti una serie di libri, nella loro etichetta leggi "Cronache di Astinus".
+~
+125 0 0
+D3
+~
+~
+0 -1 12556 0
+D4
+~
+~
+0 -1 12559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12559
+Un'anticamera~
+Ti trovi in una saletta piccola ma aerata. Sul soffitto vedi un'elegante
+cupola di vetro che lascia filtrare la luce. Un forte e pungente odore 
+di erbe colpisce subito le tue narici e non puoi fare a meno di 
+tapparti il naso con una mano. Un archetto di marmo conduce ad una
+stanza attigua all'anticamera dove ti trovi. Sul pavimento vedi una 
+botola che riconduce in basso nel negozio.
+~
+125 0 0
+D3
+~
+~
+0 -1 12560 0
+D5
+~
+~
+0 -1 12558 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12560
+Il laboratorio alchemico~
+La stanza e quasi completamente occupata da un grande tavolo di legno
+su cui poggiano ampolle, alambicchi, e tutta una stana serie di tubicini
+di vetro che collegati assieme formano una bizzarra opera d'arte.
+Tutta "l'apparecchiatura" in continuazione scalda e lavora varie
+soluzioni dai colori piu' disparati. Sulla parete nord si trova un
+piccolo scaffale dove sono stivate varie pozioni pronte.
+~
+125 1073741824 0
+D1
+~
+~
+0 -1 12559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12561
+La stanza di ripulitura delle erbe~
+Qui il pungente odore di erbe si fa insopportabile e presto capisci 
+anche il perche'. Sei completamente circondato da alti scaffali 
+ricolmi di ampolle piene di erbe di ogni specie. Ogni ampolla e
+perfettamente etichettata e ordinata per categoria. In un angolo vedi
+un piccolo tavolino dove trovano posto una bilancia e un pestello,
+piu' qualche altro piccolo arnese che non riconosci.
+~
+125 536870912 0
+D0
+~
+porta~
+1 0 12598 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12562
+Il Viale dei Templari~
+Il largo viale compie un'ampia curva. Nel lato esterno della curva
+noti un piccolo angolo di verde, che spezza , per un attimo, il ritmo
+frenetico della capitale. Sul lato est della strada vedi delle guardie
+che parlano con un passante in tono amichevole, dando di tanto in
+tanto uno sguardo intorno.
+~
+125 0 1
+D0
+~
+~
+0 -1 12556 0
+D1
+~
+~
+0 -1 12563 0
+D2
+~
+~
+0 -1 40181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12563
+Il Viale dei Templari~
+Sei giunto a un incrocio, qui il traffico di persone e mezzi e'
+aumentato a dismisura. La via che va a sud conduce verso la parte
+abitata dai ceti medi, piu' lontani dal centro della capitale. A est
+e a ovest continua la strada principale. Guardando a nord, sopra i
+tetti degli edifici riesci a scorgere il tempio di Fizban che 
+torreggia sulla collinetta al centro della citta'.
+~
+125 0 1
+D1
+~
+~
+0 -1 12564 0
+D2
+~
+~
+0 -1 12577 0
+D3
+~
+~
+0 -1 12562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12564
+Il Viale dei Templari~
+La strada qui compie una larga curva. Nella lato est del viale vedi
+la facciata di una bella casa nobiliare. Grandi vasi di fiori si 
+trovano al secondo piano, che sfoggia anche una bella terrazza.
+Un cartello affisso sulla porta indica che e' sfitta. A nord e ovest
+il viale continua il suo percorso.
+~
+125 0 1
+D0
+~
+~
+0 -1 12568 0
+D2
+~
+~
+0 -1 12090 0
+D3
+~
+~
+0 -1 12563 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12565
+Una cella~
+Empty~
+125 249 0
+D3
+~
+~
+0 -1 12553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12566
+Una cella~
+Empty~
+125 249 0
+D1
+~
+~
+0 -1 12553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12567
+Una cella~
+Empty~
+125 249 0
+D0
+~
+~
+0 -1 12553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12568
+Il Viale dei Templari~
+In questa parte del viale vedi un grande concentrazione di guardie cittadine, 
+all'inizio non avevi capito il perche' ma ora vedi chiaramente che qui sorgono
+le &3Prigioni&0 sul lato ovest della strada. Sul lato opposto vedi una locanda, 
+dentro te concordi che non potevano scegliere un punto meno opportuno dove 
+edificarla. Almeno il luogo dovrebbe essere sicuro.
+~
+125 0 1
+D0
+~
+~
+0 -1 12572 0
+D1
+~
+~
+0 -1 12537 0
+D2
+~
+~
+0 -1 12564 0
+D3
+~
+~
+0 -1 12570 0
+E
+prigioni~
+La costruzione e' massiccia e sicura, ampie grate alle finestre permettono 
+il ricambio d'aria ma impediscono la fuga. Chissa' com'e' il cielo a strisce.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12569
+La banca~
+Un bancone di pietra divide i clienti dai dipendenti della grande 
+banca. Numerosi impiegati stanno lavorando qui, alcuni stanno servendo
+i clienti mentre altri stanno archiviano fogli. Alzi lo sguardo
+verso il bel soffitto a volta, e noti impressovi il simbolo della
+famiglia regale seguito dal sigillo si Re Rodric. Questo e' senz'altro
+il posto piu' sicuro dove depositare i tuoi risparmi.
+~
+125 0 0
+D1
+~
+~
+0 -1 12536 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12570
+Le Prigioni~
+Questo e' l'accesso delle prigioni, non sei sicuro di volerle vedere 
+dall'esterno, figuriamoci dall'interno! Un robusto Guardiano e' qui in attesa 
+di prelevare i criminali dai cacciatori di taglie o dalle guardie che 
+pattugliano le strade. Un cartello dice in termini molto chiari:
+
+ &3  E' ASSOLUTAMENTE &1 - V I E T A T O -  &3L' ACCESSO ALLE PRIGIONI
+............&3AI NON AUTORIZZATI DAI FUNZIONARI DEL REGNO............&0
+
+~
+125 0 0
+D1
+~
+~
+0 -1 12568 0
+D3
+~
+grata~
+1 0 12571 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12571
+L'accesso alla prigione~
+Qui l'ambiente cambia completamente: i muri in pietra iniziano ad essere coperti 
+di muffa e sporcizia. Un torcia appesa al muro illumina malamente una scalinata
+che scende nelle profondita' della terra... non e' un luogo molto ospitale.
+~
+125 0 0
+D0
+~
+~
+0 0 12532 0
+D1
+~
+~
+0 0 12570 0
+D5
+~
+~
+0 0 12680 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12572
+Il Viale dei Templari~
+Noti anche qui, come in tutto il viale del resto, un grande assembramento
+di persone, ma al contrario del solito invece di scorrere la massa si e' 
+assembrata intorno allentrata di un edificio sul lato est del viale.
+Sembra un tribunale. La tua ipotesi e' confermata da una coppia di guardie
+che scortano un prigioniero all'interno.
+~
+125 0 1
+D0
+~
+~
+0 -1 12523 0
+D1
+~
+~
+0 0 9837 0
+D2
+~
+~
+0 -1 12568 0
+D3
+~
+~
+0 -1 12573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12573
+Il tribunale~
+Sei in una sala di attesa. Guardando intorno a te vedi una piccola stanza 
+rettangolare tutta affrescata e con mosaici alle pareti: puoi ammirare in 
+queste opera la storia della fondazione del regno di Aldaria e delle grandi 
+personalità ivi vissute. Al centro della sala troneggia la grande statua 
+di Re Rodric, illuminato sovrano di Aldaria. Panche in marmo sono poste al 
+filo del muro per alleviare l'attesa. Ai lati della sala due porte conduncona
+alle camere degli avvocati.
+
+~
+125 144 0
+D0
+~
+~
+0 -1 12601 0
+D1
+~
+~
+0 -1 12572 0
+D2
+~
+~
+0 -1 12682 0
+D3
+~
+~
+0 -1 12615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12574
+Il Viale Luminoso~
+La pavimentazione in cristallo azzurro finisce per dare spazio a un
+bel viale di pietra lavorata. All'inizio non avevi capito il perche', 
+ma guadandoti intorno oltre alla folla di persone che e' in centro
+vedi anche numerosi cavalli e carretti che sicuramente rovinerebbero
+il pavimento cristallino. Ti trovi ad un incrocio, verso ovest vedi
+il centro, a est vedi la porta della citta'. Nelle altre il viale continua.
+~
+125 0 1
+D0
+~
+~
+0 -1 12578 0
+D1
+~
+~
+0 -1 12618 0
+D2
+~
+~
+0 -1 12614 0
+D3
+~
+~
+0 -1 12523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12575
+Il Viale Luminoso~
+La pavimentazione di questo viale e' fatta interamente in pietra 
+lavorata. Guardandoti attorno vedi il solito movimento di gente che
+contraddistingue la capitale. La massa di gente e' formata da una 
+varieta’ di persone impressionate che vanno dal semplice mercante 
+ambulante al nobiluomo che si pulisce dalla polvere. Ti trovi ad un
+incrocio a nord e sud vedi che il viale prosegue nel suo cammino.
+~
+125 0 1
+D0
+~
+~
+0 -1 12594 0
+D1
+~
+~
+0 -1 12524 0
+D2
+~
+~
+0 -1 12596 0
+D3
+~
+~
+0 -1 12622 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12576
+Il Viale Luminoso~
+Ti trovi ad un incrocio a est e ovest vedi che il viale prosegue nel 
+suo cammino, a sud vedi il centro cittadino, e a nord la porta della 
+citta'. Il viale e' pavimentato con pietra lavorata, non vorresti 
+sbagliare ma giureresti che sia stato un lavoro fatto dai nani, viste
+le pregiate rifiniture e la precisione del lavoro. La solita confusione
+di merci e persone ti circonda.
+~
+125 0 1
+D0
+~
+~
+0 -1 12626 0
+D1
+~
+~
+0 -1 12585 0
+D2
+~
+~
+0 -1 12535 0
+D3
+~
+~
+0 -1 12586 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12577
+Il Viale Luminoso~
+Ti trovi ad un incrocio a est e ovest vedi che il viale prosegue nel 
+suo cammino, a nord vedi il centro cittadino, e a sud la porta della 
+citta'. Tutto intorno a te vedi un fiume di gente che va e viene da
+tutte le direzioni, noti che alcune guardie controllano attentamente
+i nuovi arrivati dalla porta. Un po' frastornato dal rumore, alzi lo 
+sguardo verso il celo limpido che ti dona qualche secondo di pace.
+~
+125 0 1
+D0
+~
+~
+0 -1 12563 0
+D1
+~
+~
+0 -1 12608 0
+D2
+~
+~
+0 -1 12630 0
+D3
+~
+~
+0 -1 12607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12578
+Il Viale Luminoso~
+Nonostante il continuo afflusso di gente, il viale sembra tranquillo.
+Tutti si muovono con ordine, intenti nelle loro faccende. A est vedi
+la vetrina di un negozio, alla porta e' affisso un mazzetto di biancospino.
+Nell'altro lato della strada vedi un negozio di armi, davanti ed esso 
+fa bella mostra una rastrelliera di spade nuove di pregiata fattura.
+~
+125 0 1
+D0
+~
+~
+0 -1 12584 0
+D1
+~
+~
+0 -1 12580 0
+D2
+~
+~
+0 -1 12574 0
+D3
+~
+~
+0 -1 12579 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12579
+L'armeria~
+Intorno a te ci sono armi di tutte le misure e tutte le specie, noti
+sono state radunate in gruppi, molto probabilmente in base al loro
+pregio, ed ogni gruppo riporta un prezzo generico per arma. Non vedi
+armi molto pregiate, ma ne sono alcune davvero ben fatte e ben 
+bilanciate. Un uomo dietro un tavolo sta provando un arma su un fantoccio.
+Un &3cartello&0 affisso alla parte ti mostra l'elenco degli articoli in
+vendita qui.
+~
+125 0 0
+D1
+~
+~
+0 -1 12578 0
+E
+cartello~
+Il cartello dice:
+
+Qui vendiamo e compriamo esclusivamente i seguenti prodotti:
+
+   _ pugnale
+   _ mazza
+   _ spada
+   _ lancia
+
+Per vedere la disponibilita' chiedete la lista dei prodotti,
+L'acquisto da parte nostra di armi di ogni materiale e fattura
+e' limitato solo dalla sua origine che deve essere obbligatoriamente
+artigianale.
+
+Comandi:  lista  <prodotto>
+          compra <num. prodotto>
+          vendi  <nome prodotto>~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12580
+&7L' Alchimista di Evis il Bianco&0~
+Un odore di erbe ti penetra su per le narici direttamente al
+cervello come un pugnale. Le finestre chiuse non permettono il
+regolare cirolo dell'aria e questo sembra dare il colpo di grazia
+ad un negozio gia' di per se tetro e deprimente. Caspita... pero'
+gli scaffali sembra un arcobaleno. Ampolle di ogni forma e colore
+rallegrano,a modo loro, il tutto.
+~
+125 0 0
+D3
+~
+~
+0 -1 12578 0
+D4
+Una porta di legno.
+~
+porta~
+1 847442 12092 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12581
+Il Fedele Amico, Vendita Animali~
+Il negozio e pieno di gabbie che contengono animali che vanno dai teneri
+gattini a un ben feroce lupo incatenato in un angolo. Un cartello attaccato
+alla parete dice "Non si vendono e comprano cavalli", infatti non vedi come 
+avrebbero potuto venderli se in citta' non e' consentito l'ingresso con i 
+cavalli. Un uomo un po' annoiato sta giocando con un piccolo cucciolo di cane.
+Un &3cartello&0 illustra gli animali a disposizione.
+~
+125 0 1
+D3
+~
+~
+0 -1 12584 0
+E
+cartello~
+Qui compriamo animali delle seguenti razze:
+
+ _ pitone
+ _ puma
+
+Per aquistare chiedete la lista dei prodotti disponibili.
+Per vendere dite quale degli animali che vi seguono volete vendere.
+
+Comando:  list
+          vendi <animale>
+
+~
+F
+ 2 0 0 0 0 0 0 0 0 0
+S
+#12582
+Deposito animali~
+Nothing.
+~
+125 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12583
+L'anticamera nella Gilda dei Genidian~
+Sei in una larga sala, su un lato diverse armi e armature di vario genere di
+allenamento sono messe a disposizione dei giovani adepti della Gilda. Nel
+mezzo alcuni giovani stanno esercitandosi nell'arte del combattimento ben
+assistiti da un maestro.    
+~
+125 0 0
+D1
+~
+~
+0 -1 12606 0
+D3
+~
+~
+0 -1 12605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12584
+Il Viale Luminoso~
+Mentre passeggi il tuo sguardo viene attirato dalla bella facciatadella casa
+sul lato ovest della strada.  La facciata e veramente bella, anche se non e'
+proprio nuova, con qualche restauro potrebbe diventare ancora meglio.  Mentre
+osservi la casa con occhio critico vieni attirato da una mostruosa confusione,
+all'inizio pensi si tratti della gente ma un istante dopo vedi un negozio di
+animali dall'altra parte.    
+~
+125 0 0
+D0
+~
+~
+0 -1 12585 0
+D1
+~
+~
+0 -1 12581 0
+D2
+~
+~
+0 -1 12578 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12585
+Il Viale Luminoso~
+Il viale qui compie un ampia curva che sale un po' su una collinetta
+e poi ridiscende dolcemente. Da qui puoi vedere le alte mura di pietra
+che avvolgono tutta la citta', granitiche, eterne, ti danno un senso 
+di protezione e tranquillita' assoluto. Sul lato nord della curva
+vedi l'ufficio postale.~
+125 0 1
+D0
+~
+~
+0 -1 3141 0
+D2
+~
+~
+0 -1 12584 0
+D3
+~
+~
+0 -1 12576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12586
+Il Viale Luminoso~
+Il viale si allarga in un ampia curva che segue il filo delle possenti
+mura di cinta, che tante volte hanno protetto la citta'. Appoggiato
+alle mura vedi un edificio di antica fattura, sull'insegna sopra alla
+entrata leggi "Da Orig" molto probabilmente si tratta o di una taverna
+o ti una trattoria, ma sei piu' propenso per la prima ipotesi visto
+il baccano che ne esce.
+~
+125 0 1
+D1
+~
+~
+0 -1 12576 0
+D2
+~
+~
+0 -1 12588 0
+D3
+~
+~
+0 -1 12587 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12587
+Da Orig~
+Come avevi intuito da fuori si tratta di una taverna. Il locale e' 
+abbastanza pieno, i tavoli sono quasi tutti occupati. Nella parte
+nord vedi un gruppetto di nani che gioca al tiro dell'ascia su un 
+bersaglio appeso alla parete. Per il resto oltre a un uomo barbuto 
+dietro il bancone vedi gruppetti di quattro o cinque persone seduti 
+hai tavoli che discutono animatamente. Tutto sommato un posto allegro.
+~
+125 0 0
+D1
+~
+~
+0 -1 12586 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12588
+Il Viale Luminoso~
+Mentre osservi curioso una casa sfitta sul lato ovest della strada,
+le tue narici colgono un'invitante profumino di carne alla brace che 
+proviene dalla taverna sul lato opposto del viale. Ora che sei piu'
+vicino riesci a cogliere anche il rumore delle posate nelle scodelle.
+Il tuo stomaco ti ricorda che una scodella di buon cibo e' sempre
+gradita, e che quello sembra il posto giusto dove prenderla.
+~
+125 0 1
+D0
+~
+~
+0 -1 12586 0
+D1
+~
+~
+0 -1 12589 0
+D2
+~
+~
+0 -1 12594 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40356 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12589
+La Tavola dei Re~
+Appena entri nella taverna viene avvolto nel caldo tepore che viene
+dalla cucina, vicini all'entrata nella parete sud. Molti tavoli 
+sono disposti in tutto il locale, e solo pochi sono vuoti. Dalla
+faccia compiaciuta degli avventori, e dal profumo invitante delle 
+portate diresti che qui si mangia benissimo. Un cameriere ti chiede
+permesso e poi entra nella sala con un vassoio di carne assortita.
+Vedi un &b&4cartello&0 sul muro.
+~
+125 0 0
+D2
+~
+~
+0 -1 12590 0
+D3
+~
+~
+0 -1 12588 0
+E
+cartello~
+Vista la grande richiesta di cinghiale arrosto, il ristorante ha deciso di alzarne il prezzo per assicurarsi degli incassi migliori.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12590
+La cucina~
+Un grande focolare si trova al centro della grande cucina, sopra ci
+sta arrostendo un intero maiale. Tutto intorno sono disposti banchi
+da macellaio, pentole padelle. La parete sud e' occupata interamente
+da un grande scaffale pieno di spezie, erbe aromatiche, vini e carni
+fresche. Cuochi e camerieri vanno e vengono. A ovest vedi una porta
+di servizio che conduce fuori, mentre a est sta una seconda cucina.
+~
+125 4294967296 0
+D0
+~
+~
+0 -1 12589 0
+D3
+~
+~
+0 -1 12594 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12591
+Una cella~
+Empty~
+125 241 0
+D2
+~
+porta~
+1 0 12553 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12592
+il buco~
+Cadi senza la possibilita' di fermarti. Il volo e' breve ma l'urto non sara' dei
+migliori... sicuramente!!!
+Vedi sotto di te del pane ed una piccola fontanta, chissa' contro cosa sbatterai.
+~
+125 268435605 0
+D4
+~
+~
+0 0 12553 0
+D5
+~
+~
+0 -1 12613 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12593
+Il Magazzino di lingotti di Oro e Argento per coniatura monete~
+Varie porte conducono ad enormi armadi ben custoditi, contenenti stock
+considerevoli di lingotti pregiati di oro e argento.  Questo e' il luogo di
+smistamento da cui poi i lingotti verranno portati alla zecca reale per essere
+coniati in monete per il regno.    
+~
+125 3298534885888 1
+D3
+Una porta di legno.
+~
+porta~
+1 550044 12609 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12594
+Il Viale Luminoso~
+Ti cade l'occhio su una piccola porticina di servizio sul muro del
+lato est del viale. Un istante dopo pero' la tua attenzione e' 
+attirata da un immensita' di colori e profumi, che vengono da quella
+che molto probabilmente e' la vetrina del fioraio. Esposte ci sono
+numerose composizioni floreali davvero belle e complicate. Piu' a sud
+nel viale ti sembra di scorgere un affollato incrocio.
+~
+125 0 1
+D0
+~
+~
+0 -1 12588 0
+D1
+~
+~
+0 -1 12590 0
+D2
+~
+~
+0 -1 12575 0
+D3
+~
+~
+0 -1 12595 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12595
+L'Omaggio Floreale~
+Appena entrato vieni assalito da un dolce miscuglio di profumi che
+provengono da tutti fiori che ti circondano. Su un lato leggi un insegna
+che dice "Si creano composizioni per matrimoni o altro su ordinazione".
+Poco piu' avanti vedi una giovane fanciulla elfica che cura 
+amorevolmente i fiori, che sembrano volerla ringraziare per tante 
+cure sfoggiando i loro colori vivi e brillanti.
+~
+125 0 0
+D1
+~
+~
+0 -1 12594 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12596
+Il Viale Luminoso~
+Sul lato ovest della strada vedi un bel palazzo ben ristrutturato
+che porta sopra l'arco di ingresso lo stemma di Re Rodric e della
+casata regale. Quelli che vedi sono gli alloggi delle guardie di 
+Deira, all'interno molto probabilmente si trovano i dormitori e
+l'armeria, vedi due guardie che ne bloccano l'ingresso. Sull'altro lato
+del viale vedi la vetrina vuota, di un negozio sfitto.
+~
+125 0 1
+D0
+~
+~
+0 -1 12575 0
+D2
+~
+~
+0 -1 12600 0
+D3
+~
+~
+0 -1 12597 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12597
+Aloggi delle guardie~
+Ti trovi nel palazzo adibito alle guardie che non hanno residenza nel
+castello regale. La sala in cui ti trovi e' un bell'atrio tappezzato
+di armature degli uomini piu' valorosi, si dice che alcune siano state
+trovate tra le macerie della vecchia Deira dopo il passaggio del 
+cataclisma. Nella parete ovest vedi una grande bacheca, li sono scritti
+gli ordini del giorno e i comunicati di re Rodric.
+
+&2&b Venditore di guardie momentaneamente indisposto... scusate per il disagio.&0
+~
+125 0 0
+D1
+~
+~
+0 -1 12596 0
+D3
+~
+~
+0 -1 12551 0
+D4
+~
+~
+0 -1 12599 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12598
+L'alchimista, venditore di pozioni~
+Grandi armadi sbarrati contengono i piu' svariati tipi di erbe.  Non riesci
+a distinguere chiaramente le piante da li' anche se le scritte sotto di esse
+sono chiare: erbe curative, erbe avvelenate, erbe per elisir, erbe
+ristoratrici...  E via dicendo.    
+~
+125 0 0
+D1
+~
+~
+0 -1 12607 0
+D2
+~
+porta~
+1 -1 12561 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12599
+Il centro di controllo~
+In questo luogo vengono pianificate la disposizione e l'acquisizione delle
+truppe del regno assegnate alla difesa e al controllo della Capitale.  Varie
+cartine rappresentanti Deira sono affisse ai muri, mentre vari armadi e
+cassapanche contengono tutti gli armamenti necessari per equipaggiare le
+guardie a dovere.    
+~
+125 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 140987 40598 135
+D5
+~
+~
+0 -1 12597 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12600
+Il Viale Luminoso~
+Il viale porta ad est verso l'ampio mercato interno della citta' di Deira.
+Da qui intravedi una brulicante attivita' di persone di ogni eta' e rango,
+intente a trattare merce grezza di ogni genere.  Il viale prosegue verson nord
+alle porte ovest della citt
+~
+125 0 0
+D0
+~
+~
+0 -1 12596 0
+D2
+~
+~
+0 -1 12602 0
+D3
+~
+~
+0 -1 40161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12601
+La camera della difesa~
+E' una piccola stanza piena di scaffali ricolmi di pergamene. Solo una parete 
+e' coperta da un grande arazzo raffigurante grandi funzionari aldariani come 
+Salomon, Roland, Sirgyles, Wirgult, Mazzaferro e altri.
+Una porticina ad est conduce all'alla sala di attesa, mentre a sud una massiccia
+porta di quercia conduce alla sala delle udienze.
+~
+125 144 0
+D1
+~
+~
+0 -1 12573 0
+D2
+~
+~
+0 -1 12615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12602
+Il Viale Luminoso~
+Il tuo istinto di avventuriero ti fa puntare subito lo sguardo su
+due possenti guerrieri che escono da un edificio sul lato est del 
+viale. L'edificio da cui sono usciti sembra una specie di ingresso 
+a una qualche arena pubblica, ma non sei sicuro. Due guardie della
+scuola dei genedian chiudono l'ingresso ai curiosi. Sull'altro lato 
+della strada vedi un laboratorio per la lavorazione delle pelli.
+~
+125 0 1
+D0
+~
+~
+0 -1 12600 0
+D1
+~
+~
+0 -1 12605 0
+D2
+~
+~
+0 -1 12607 0
+D3
+~
+~
+0 -1 12603 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12603
+Pellicceria~
+Ti trovi in una larga stanza senza soffitto. Stesi un po' ovunque
+vedi pelli di animali messe ad asciugare prima di essere lavorate.
+Un uomo sta stendendo proprio ora la meravigliosa pelle di un lupo
+argentato, chissa’ quanto costa. In uno scaffale nella parete nord 
+vedi dei capi di pelletteria gia’ pronti per la vendita, ma i
+cartellini dei prezzi che leggi ti intimoriscono non poco.
+~
+125 8589934592 0
+D1
+~
+~
+0 -1 12602 0
+D2
+~
+~
+0 -1 12604 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12604
+Un laboratorio~
+Un grande tavolo, che non ti arriva piu' su della vita, si trova nel
+centro della stanza. Strumenti per il taglio e la lavorazione delle
+pelli sono sparsi un po' ovunque. Tutto e' pronto in attesa di una
+pelle di qualche animale e di mani esperte per lavorarla.
+~
+125 17179869184 0
+D0
+~
+~
+0 -1 12603 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12605
+La Scuola dei Genidian~
+Ti trovi in una sala di attesa. Qui i giovani aspiranti attendono il loro turno 
+per poter accedere alla piccola arena interna dove i grandi maestri della scuola
+insegnano loro nuove tecniche e abilita' finalizzate al combattimento. Non ci 
+sono ne sedie ne mobili, un guerriero non necessita di queste comodita'.
+~
+125 0 0
+D1
+~
+~
+0 -1 12583 0
+D3
+~
+~
+0 -1 12602 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12606
+L'arena interna~
+Sei in una piccola arena al coperto. Vedi numerosi novizi che si 
+esercitano su manichini, i maestri li osservano e correggono i loro
+errori. Un acre odore di sudore proviene da un po’ tutta la stanza, 
+ma invece di schifarti ti ispira alla lotta e all'esercizio fisico.
+Un maestro dall'aspetto tranquillo ti sta davanti pronto ad insegnarti
+nuove cose se ne hai l’esperienza adeguata per impararle.
+~
+125 0 0
+D3
+~
+~
+0 -1 12583 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12607
+Il Viale Luminoso~
+Il viale qui compie un ampia curva che sale un po' su una collinetta
+e poi ridiscende dolcemente. Da qui puoi vedere le alte mura di pietra
+che avvolgono tutta la citta', granitiche, eterne, ti danno un senso 
+di protezione e tranquillita' assoluto. Poco piu' avanti delle mura
+scorgi la parte "nuova" della citta', ne vedi il degrado e la sporcizia
+che danneggiano un po' la bellezza di questa citta'.
+~
+125 0 1
+D0
+~
+~
+0 -1 12602 0
+D1
+~
+~
+0 -1 12577 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40894 0
+D3
+~
+~
+0 -1 12598 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12608
+Il Viale Luminoso~
+Il viale curva lentamente seguendo le mura. Il viale e' circondato da
+ambo i lati da piccole aiuole fiorite che donano un senso di pace
+e tranquillita' al flusso continuo di persone. Nel lato interno del 
+viale vedi un uomo che sta accanto a un carretto pieno di torce e 
+lanterne, qualcuno ogni tanto si ferma e compra qualcosa. Sicuramente
+si tratta di un venditore ambulante.
+~
+125 0 1
+D0
+~
+~
+0 -1 12609 0
+D1
+~
+~
+0 0 12686 0
+D3
+~
+~
+0 -1 12577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12609
+Il Viale Luminoso~
+Da un negozio sul lato est, senti l'inconfondibile e incessante battere 
+del maglio sul ferro incandescente, sicuramente e' la bottega del
+fabbro della zona. Appese fuori vedi delle belle armature appena 
+forgiate. Sul lato ovest della strada vedi una casa sfitta. Sicuramente
+la casa deve essere un posto abbastanza rumoroso con quel fabbro 
+davanti.
+~
+125 0 1
+D0
+~
+~
+0 -1 12614 0
+D1
+Una porta di legno.
+~
+porta~
+1 550044 12593 135
+D2
+~
+~
+0 -1 12608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12610
+Il fabbro~
+Un uomo molto muscoloso e sporco, sta appendendo una bella armatura
+di piastre sulla parete insieme alle altre gia’ presenti. Noti che
+i lavori sono di ottima fattura, l'uomo deve essere un ottimo fabbro.
+Dalla stanza a nord proviene un calore soffocante, molto facilmente
+intuisci che deve essere la forgia, mentre a sud vedi numerosi giovani
+fabbri che lavorano incessantemente di martello sul ferro rovente.
+Una &3lavagna&0 ti indica tutti o prodotti trattati.~
+125 0 0
+D1
+~
+~
+0 -1 12612 0
+D2
+~
+~
+0 -1 12534 0
+E
+lavagna~
+La lavagna dice:
+
+Qui vendiamo e compriamo esclusivamente i seguenti prodotti:
+
+   _ armatura
+   _ elmo
+   _ parabraccia
+   _ guanti
+   _ gambali
+   _ stivali
+   _ scudo
+
+Per vedere la disponibilita' chiedete la lista dei prodotti.
+L'acquisto da parte nostra di armi di ogni materiale e fattura
+e' limitato solo dalla sua origine che deve essere obbligatoriamente
+artigianale.
+
+Comandi:  lista  <prodotto>
+          compra <num. prodotto>
+          vendi  <nome prodotto>~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12611
+La fucina~
+Un grande forno al centro della stanza emette un calore mostruoso che ti brucia 
+la pelle e la gola ad ogni respiro. Accanto al forno si trova un giovane che 
+incessantemente butta legna per mantenere viva la fiamma. In un pentolone sopra 
+il forno vengono buttate le pietre grezze per essere pulite dalle impurita’, 
+una volta pulite vengono trasformate da esperte mani in lingotti.
+~
+125 2097152 0
+D0
+~
+~
+0 -1 12612 0
+D3
+~
+~
+0 -1 12534 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12612
+La forgia~
+I lingotti lavorati nella fucina vengono portati qui per essere trasformati in 
+armature, armi e molto altro ancora. Un grande braciere si trova al centro della
+stanza circondato da numerosi incudini e barili di acqua piovana. L'incessante 
+colpire del maglio sul ferro incandescente pare avere qualcosa di melodioso, 
+sembra piu' un rito che un lavoro, ne rimani molto colpito.
+~
+125 4194304 0
+D2
+~
+~
+0 -1 12611 0
+D3
+~
+~
+0 -1 12610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12613
+La segreta~
+Buia, spoglia, schifosa.... ti tocchera' dormire tra i tuoi escrementi... 
+Da qui, con le tue gambe, non esci!~
+125 268435709 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12614
+Il Viale Luminoso~
+Riconosci l'inconfondibile sigillo reale sull'arco di entrata del
+palazzo sul lato est della strada. Accanto al sigillo regale vedi
+il simbolo dell’ingegnere regale. E li che vengono approvati i progetti
+e vengono rilasciati i permessi di costruzione. Proprio sul lato 
+opposto vedi il magazzino di marmo, molto probabilmente anche esso
+sotto il controllo dell'ingegnere regale.
+~
+125 0 1
+D0
+~
+~
+0 -1 12574 0
+D2
+~
+~
+0 -1 12609 0
+D3
+~
+~
+0 -1 12616 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12615
+L'aula del tribunale~
+Sei in una grande sala cubica sormontata da una imponente cupola slanciata verso
+il cielo. Le pareti sono tutte bianche, eccetto il telaio strutturale con archi 
+a tutto sesto e paraste del colore della pietra serena. Vi sono molti seggi di 
+pietra, ed in fondo alla sala si puo notare un grande tavolo di marmo rosa 
+dietro il quale siedono i giudici, sulla parete dietro di questo vi e' appeso 
+al muro lo stendardo di Aldaria.~
+125 0 0
+D0
+~
+~
+0 -1 12601 0
+D1
+~
+~
+0 -1 12573 0
+D2
+~
+~
+0 -1 12682 0
+D3
+~
+~
+0 -1 12673 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12616
+&7Mille e una Pietra&0~
+Appena entri si alza una nuvola di polvere bianca che inevitabilmente
+va a sporcate i tuoi vestiti. Dopo esserti pulito, ti accorgi che
+tutto intorno a te vedi grandi blocchi di marmo e granito, tagliati
+e pronti al trasporto. Molto probabilmente andranno a servire per 
+la costruzione o la riparazione di qualche ala del castello di re
+Rodric. A sud vedi la quadrella dove si lavora la pietra.
+Un &3cartello&0 di illumina sul tipo di pietre in vendita.
+~
+125 140 0
+D1
+~
+~
+0 -1 12614 0
+D2
+~
+porta~
+1 -1 12617 1
+E
+cartello~
+Qui si vendono esclusivamente i seguenti prodotti:
+
+  _ pietra grezza di granito
+  _ pietra grezza di marmo
+  _ pietra grezza di quarzo
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12617
+La quadrella~
+Qui dentro l'aria e' irrespirabile, nuvole di polvere di pietre 
+lavorate si alzano ovunque facendoti tossire a ripetizione. Tra la
+fitta polvere vedi numerosi operai che armati di appositi scalpelli
+stanno lavorando la pietra estratta dalle montagne per crearne
+dei blocchi adatti alla costruzione. Gli operai non sembrano 
+risentire della polvere che e' ovunque, forse si sono abituati.
+~
+125 134217728 0
+D0
+~
+porta~
+1 -1 12616 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12618
+La Porta Est~
+Sei alla porta est della citta', davanti a te si presenta in tutta
+la sua grandezza la porta delle mura fatta interamente in ferro 
+battuto alta circa 20 metri, deve pesare molte tonnellate. Ai lati 
+della porta ci sono due guardie che controllano chi entra e chi esce. 
+Oltre la porta ad est scorgi la parte povera di Deira che non e' 
+compresa nelle mura. A nord attaccato alle mura vedi un posto di guardia.
+~
+125 0 1
+D0
+~
+~
+0 -1 12619 0
+D1
+~
+~
+0 -1 12654 0
+D3
+~
+~
+0 -1 12574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12619
+Il posto di guardia~
+Ci sono alcune sedie e un piccolo tavolo di legno. Sul tavolo vedi
+una tazza piena di una qualche tisana. Qui le guardie riposano, ma
+cosa piu' importante possono accedere alla sommita' delle mura, dalla
+botola sul soffitto, per controllare la situazione dall'alto. Su una 
+parete vedi una bacheca con su scritto "Ricercati", probabilmente la 
+bacheca serve come promemoria per le guardie.
+~
+125 0 0
+D2
+~
+~
+0 -1 12618 0
+D4
+~
+~
+0 -1 12620 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12620
+Una stetta scala~
+Sei avvinghiato a una scaletta che sale in uno stretto e buio 
+cunicolo. Riesci a vedere una luce in alto.
+~
+125 0 0
+D4
+~
+~
+0 -1 12634 0
+D5
+~
+~
+0 -1 12619 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12621
+Distaccamento delle prigioni~
+Un paio di torce illuminano la stanza e un assonnato guardiano. Questo e' un 
+distaccamento delle prigioni principali di Deira. I malviventi catturati fuori dalle
+porte della citta' possono essere consegnate qui.
+~
+125 0 0
+D2
+~
+~
+0 0 29502 0
+D3
+~
+grata~
+1 -1 12542 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12622
+La Porta Ovest~
+Sei alla porta ovest della citta', davanti a te si presenta in tutta
+la sua grandezza la porta delle mura fatta interamente in ferro 
+battuto alta circa 20 metri, deve pesare molte tonnellate. Ai lati 
+della porta ci sono due guardie che controllano chi entra e chi esce. 
+Oltre la porta ad ovest scorgi la parte povera di Deira che non e' 
+compresa nelle mura. A nord attaccato alle mura vedi un posto di guardia.
+~
+125 0 1
+D0
+~
+~
+0 -1 12623 0
+D1
+~
+~
+0 -1 12575 0
+D3
+~
+~
+0 -1 12677 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12623
+Il posto di guardia~
+Ci sono alcune sedie e un piccolo tavolo di legno. Sul tavolo vedi
+una tazza piena di una qualche tisana. Qui le guardie riposano, ma
+cosa piu' importante possono accedere alla sommita' delle mura, dalla
+botola sul soffitto, per controllare la situazione dall'alto. Su una 
+parete vedi una bacheca con su scritto "Ricercati", probabilmente la 
+bacheca serve come promemoria per le guardie.
+~
+125 0 0
+D2
+~
+~
+0 -1 12622 0
+D4
+~
+~
+0 -1 12624 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12624
+Una stretta scala~
+Sei avvinghiato a una scaletta che sale in uno stretto e buio 
+cunicolo. Riesci a vedere una luce in alto.
+~
+125 0 0
+D4
+~
+~
+0 -1 12625 0
+D5
+~
+~
+0 -1 12623 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12625
+Una stretta scala~
+Sei avvinghiato a una scaletta che sale in uno stretto e buio 
+cunicolo. Sei a pochi gradini dall'uscita, senti pure un venticello
+fresco che proviene da fuori. Sarai salito circa di una 30 di metri
+non poco.
+~
+125 0 0
+D4
+~
+~
+0 -1 12635 0
+D5
+~
+~
+0 -1 12624 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12626
+La Porta Nord~
+Sei alla porta nord della citta', davanti a te si presenta in tutta
+la sua grandezza la porta delle mura fatta interamente in ferro 
+battuto alta circa 20 metri, deve pesare molte tonnellate. Ai lati 
+della porta ci sono due guardie che controllano chi entra e chi esce. 
+Oltre la porta a nord scorgi la parte povera di Deira che non e' 
+compresa nelle mura. A est attaccato alle mura vedi un posto di guardia.
+~
+125 0 1
+D0
+~
+~
+0 -1 12663 0
+D1
+~
+~
+0 -1 12627 0
+D2
+~
+~
+0 -1 12576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12627
+Il posto di guardia~
+Ci sono alcune sedie e un piccolo tavolo di legno. Sul tavolo vedi
+una tazza piena di una qualche tisana. Qui le guardie riposano, ma
+cosa piu' importante possono accedere alla sommita' delle mura, dalla
+botola sul soffitto, per controllare la situazione dall'alto. Su una 
+parete vedi una bacheca con su scritto "Ricercati", probabilmente la 
+bacheca serve come promemoria per le guardie.
+~
+125 0 0
+D3
+~
+~
+0 -1 12626 0
+D4
+~
+~
+0 -1 12628 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12628
+Una stetta scala~
+Sei avvinghiato a una scaletta che sale in uno stretto e buio 
+cunicolo. Riesci a vedere una luce in alto.
+~
+125 0 0
+D4
+~
+~
+0 -1 12636 0
+D5
+~
+~
+0 -1 12627 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12630
+La Porta Sud~
+Sei alla porta sud della citta', davanti a te si presenta in tutta
+la sua grandezza la porta delle mura fatta interamente in ferro 
+battuto alta circa 20 metri, deve pesare molte tonnellate. Ai lati 
+della porta ci sono due guardie che controllano chi entra e chi esce. 
+Oltre la porta a sud scorgi la parte povera di Deira che non e' 
+compresa nelle mura. A est attaccato alle mura vedi un posto di guardia.
+~
+125 0 1
+D0
+~
+~
+0 -1 12577 0
+D1
+~
+~
+0 -1 12631 0
+D2
+~
+~
+0 -1 12687 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12631
+Il posto di guardia~
+Ci sono alcune sedie e un piccolo tavolo di legno. Sul tavolo vedi
+una tazza piena di una qualche tisana. Qui le guardie riposano, ma
+cosa piu' importante possono accedere alla sommita' delle mura, dalla
+botola sul soffitto, per controllare la situazione dall'alto. Su una 
+parete vedi una bacheca con su scritto "Ricercati", probabilmente la 
+bacheca serve come promemoria per le guardie.
+~
+125 0 0
+D3
+~
+~
+0 -1 12630 0
+D4
+~
+~
+0 -1 12632 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12632
+Una stetta scala~
+Sei avvinghiato a una scaletta che sale in uno stretto e buio 
+cunicolo. Riesci a vedere una luce in alto.
+~
+125 0 0
+D4
+~
+~
+0 -1 12633 0
+D5
+~
+~
+0 -1 12631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12633
+Una stetta scala~
+Sei avvinghiato a una scaletta che sale in uno stretto e buio 
+cunicolo. Sei a pochi gradini dall'uscita, senti pure un venticello
+fresco che proviene da fuori. Sarai salito circa di una 30 di metri
+non poco.
+~
+125 0 0
+D4
+~
+~
+0 -1 12637 0
+D5
+~
+~
+0 -1 12632 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12634
+Le mura orientali~
+Sei molto in alto, sarai a circa trenta/trentacinque metri dal terreno.
+Il vento ti scompiglia i capelli mentre guardi la foresta di Lanowar,
+patria degli elfi. Vicino a te si trova il meccanismo che consente di 
+chiudere e aprire la massiccia porta della citta', sarebbe impossibile
+farlo a mano. Sotto i tuoi piedi si trova la botola che porta alla 
+base delle mura.
+~
+125 0 1
+D0
+~
+~
+0 -1 12642 0
+D2
+~
+~
+0 -1 12645 0
+D5
+~
+~
+0 -1 12620 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12635
+Le mura occidentali~
+Sei molto in alto, sarai a circa trenta/trentacinque metri dal terreno.
+Il vento ti scompiglia i capelli mentre guardi la foresta oltre le
+colline di Dornendil, casa di Elder il druido. Vicino a te si trova il 
+meccanismo che consente di chiudere e aprire la massiccia porta della 
+citta', sarebbe impossibile farlo a mano. Sotto i tuoi piedi si trova 
+la botola che porta alla base delle mura.
+~
+125 0 1
+D0
+~
+~
+0 -1 12647 0
+D2
+~
+~
+0 -1 12648 0
+D5
+~
+~
+0 -1 12625 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12636
+Le mura nord~
+Sei molto in alto, sarai a circa trenta/trentacinque metri dal terreno.
+Il vento ti scompiglia i capelli mentre guardi le montagne oltre la
+foresta di Lanowar, patria dei nani. Vicino a te si trova il meccanismo
+che consente di chiudere e aprire la massiccia porta della citta', 
+sarebbe impossibile farlo a mano. Sotto i tuoi piedi si trova la 
+botola che porta alla base delle mura.
+~
+125 0 1
+D1
+~
+~
+0 -1 12650 0
+D3
+~
+~
+0 -1 12651 0
+D5
+~
+~
+0 -1 12628 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12637
+Le mura sud~
+Sei molto in alto, sarai a circa trenta/trentacinque metri dal terreno.
+Il vento ti scompiglia i capelli mentre guardi la foresta di Scrib.
+Vicino a te si trova il meccanismo che consente di chiudere e aprire 
+la massiccia porta della citta', sarebbe impossibile farlo a mano. 
+Sotto i tuoi piedi si trova la botola che porta alla base delle mura.
+~
+125 0 1
+D1
+~
+~
+0 -1 12653 0
+D3
+~
+~
+0 -1 12652 0
+D5
+~
+~
+0 -1 12633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12638
+La torre di Guardia~
+Ti trovi dentro una delle torri che si trovano agli angoli delle mura
+cittadine. Sotto di te si trova la parte nuova della citta', essa non e' 
+protetta dalle mura. Da qui puoi vedere buona parte del territorio circostante 
+per molte miglia, senza farti scorgere. Al centro vedi un grosso pentolone 
+nero, servira' per buttare la pece bollita sui nemici.
+Verso nord vedi degli spuntoni uscire dalla mura se ci cadessi moriresti 
+sicuramente.~
+125 0 0
+D0
+~
+~
+0 -1 12529 0
+D2
+~
+~
+0 -1 12643 0
+D3
+~
+~
+0 -1 12650 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12639
+La torre di Guardia~
+Ti trovi dentro una delle torri che si trovano agli angoli delle mura
+cittadine. Sotto di te si trova la parte nuova e piu' povera della
+citta', essa non e' protetta dalle mura. Da qui puoi vedere buona
+parte del territorio circostante per molte miglia, senza farti 
+scorgere. Al centro vedi un grosso pentolone nero, servira' per 
+buttare la pece bollita sui nemici.
+~
+125 0 0
+D1
+~
+~
+0 -1 12651 0
+D2
+~
+~
+0 -1 12646 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12640
+La torre di Guardia~
+Ti trovi dentro una delle torri che si trovano agli angoli delle mura
+cittadine. Sotto di te si trova la parte nuova e piu' povera della
+citta', essa non e' protetta dalle mura. Da qui puoi vedere buona
+parte del territorio circostante per molte miglia, senza farti 
+scorgere. Al centro vedi un grosso pentolone nero, servira' per 
+buttare la pece bollita sui nemici.
+~
+125 0 0
+D0
+~
+~
+0 -1 12649 0
+D1
+~
+~
+0 -1 12652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12641
+La torre di Guardia~
+Ti trovi dentro una delle torri che si trovano agli angoli delle mura
+cittadine. Sotto di te si trova la parte nuova e piu' povera della
+citta', essa non e' protetta dalle mura. Da qui puoi vedere buona
+parte del territorio circostante per molte miglia, senza farti 
+scorgere. Al centro vedi un grosso pentolone nero, servira' per 
+buttare la pece bollita sui nemici.
+~
+125 0 0
+D0
+~
+~
+0 -1 12644 0
+D3
+~
+~
+0 -1 12653 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12642
+Le mura orientali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12643 0
+D2
+~
+~
+0 -1 12634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12643
+Le mura orientali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12638 0
+D2
+~
+~
+0 -1 12642 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12644
+Le mura orientali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12645 0
+D2
+~
+~
+0 -1 12641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12645
+Le mura orientali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12634 0
+D2
+~
+~
+0 -1 12644 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12646
+Le mura occidentali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12639 0
+D2
+~
+~
+0 -1 12647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12647
+Le mura occidentali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12646 0
+D2
+~
+~
+0 -1 12635 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12648
+Le mura occidentali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12635 0
+D2
+~
+~
+0 -1 12649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12649
+Le mura occidentali~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12648 0
+D2
+~
+~
+0 -1 12640 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12650
+Le mura nord~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D1
+~
+~
+0 -1 12638 0
+D3
+~
+~
+0 -1 12636 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12651
+Le mura nord~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D1
+~
+~
+0 -1 12636 0
+D3
+~
+~
+0 -1 12639 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12652
+Le mura sud~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D1
+~
+~
+0 -1 12637 0
+D3
+~
+~
+0 -1 12640 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12653
+Le mura sud~
+Da quassu’ domini tutta la situazione sia interna che esterna alla
+citta'. Queste mura di solida pietra hanno retto a piu' di un assedio
+senza subire una scalfittura, il lavoro dei nani si riconosce sempre.
+A meta' parapetto ci sono le feritoie per gli arcieri.
+~
+125 0 1
+D1
+~
+~
+0 -1 12641 0
+D3
+~
+~
+0 -1 12637 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12654
+Il Viale degli Eroi~
+Ti trovi sul grande viale mosaicato dalla nuova zona residenziale di Deira. 
+I mosaici che vedi raffigurano luoghi, personaggi, eventi ed avventure della 
+gloriosa storia del Regno di Aldaria. Davanti a te scorgi anche il grande 
+portale delle mura antiche di Deira. Le numerose persone passeggiano tranquille 
+scambiandosi parole e cenni di saluto. Noti le guardie di passaggio sorridere
+ai passanti. Una piccola folla si e' accalcata e blocca l'uscita ad est.
+Per uscire all'esterno puoi imboccare un vialetto che passa a fianco l'accesso
+principale.
+~
+125 0 1
+D0
+~
+~
+0 -1 12655 0
+D1
+Nothing.
+~
+~
+0 0 3192 0
+D2
+~
+~
+0 -1 12694 0
+D3
+~
+~
+0 -1 12618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12655
+Il Viale degli Eroi~
+La via lastricata si restringe leggermente. Alzi lo sguardo verso il cielo 
+e noti che gli edifici, dal tuo punto di vista, lo incorniciano splendidamente.
+Carri carichi assi di legno passano in mezzo alla gente che, sorridendo, saluta
+i conducenti. L’odore di legno nuovo ti avvolge, guardi dentro un’arcata di
+pietra ad est e vedi una stupenda esposizione di mobili.
+Verso ovest si apre una bella strada alberata.
+~
+125 0 1
+D0
+~
+~
+0 -1 12659 0
+D1
+~
+~
+0 -1 12657 0
+D2
+~
+~
+0 -1 12654 0
+D3
+~
+~
+0 -1 12656 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12656
+La strada alberata~
+La strada finisce contro le mura della citta', grandi alberi fanno ombra
+a bambini seduti su muretti posti a limitare il traffico di carri.
+Alcune belle case si affacciano alla via. Chissa' chi sono i fortunati 
+proprietari.~
+125 0 1
+D0
+Una porta di legno.
+~
+porta~
+1 798535 40056 135
+D1
+~
+~
+0 -1 12655 0
+D2
+Una porta di legno.
+~
+porta~
+1 183750 40060 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12657
+Il Falegname~
+Un uomo sta incidendo un pezzetto di legno con un coltello, deve
+essere parecchio che e' li a giudicare dai trucioli che vedi a terra.
+Mentre lo osservi preso, vedi un giovane che si avvicina all'uomo e 
+gli mostra una tavola di legno, poco dopo il giovane torna nella
+stanza a sud, forse era un apprendista. Alcuni mobili son in esposizione.
+Un &3cartello&0 illustra gli articoli in vendita.
+~
+125 144 0
+D2
+~
+~
+0 -1 12658 0
+D3
+~
+~
+0 -1 12655 0
+E
+cartello~
+Qui vendiamo e compriamo i seguenti prodotti:
+
+ _ armadio
+ _ cassapanca
+ _ scrivania
+ _ tavolo
+ _ anello di legno
+ _ amuleto di legno
+ _ porta
+
+Per vedere la disponibilita' chiedete la lista.
+
+Comando:  lista  <prodotto>
+          compra <num. prod.>~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12658
+La Carpenteria~
+Appena entrato vedi numerosi ragazzi, diresti della zona visti gli
+abiti sporchi e lisi, che lavorano il legno con impegno. Le schegge
+di legno cadono al suolo come fiocchi di neve, mentre gli apprendisti
+lavorano di buona lena e quello che sembra un futuro carro. Un po'
+ovunque vedi pialle, seghe e tutti gli altri strumenti necessari al 
+lavoro del legno.
+~
+125 16777216 0
+D0
+~
+~
+0 -1 12657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12659
+Il Viale degli Eroi~
+Seguiti a camminare lungo la via lastricata e ricoperta di mosaici. 
+Un grande mosaico hai tuoi piedi rappresenta una grande battaglia: 
+la cavalleria aldariana si lancia con coraggio contro una schiera di lancieri nemici 
+pronti a falcidiare i militari con le loro micidiali armi ma le file vengono 
+sfondate e i cavalieri fanno strage del nemico. Nonostante la folla di gente che passa
+intorno a te riesci a cogliere la bellezza artistica di queste rappresentazioni.
+Verso ovest un locale caratteristico vende bevande a commensali gia' molto
+allegri.
+~
+125 0 1
+D0
+~
+~
+0 -1 12662 0
+D1
+Una porta di legno.
+~
+porta~
+1 695693 40355 135
+D2
+~
+~
+0 -1 12655 0
+D3
+~
+~
+0 -1 12661 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12661
+Il Goblin ubriaco.~
+E' la classica taverna che si trova in tutte le citta' del mondo: cioe' 
+rumorosa, piena di gente, sporca e puzzolente, Non capisci come facciano a 
+permettere ad un posto del genere di rimanere aperto... probabilmente e' un 
+locale storico. Molta gente delle piu' disparate razze sta bevendo 
+hai tavoli. Un cartello posto sul bancone dice:
+ "Qui si serve solo birra e Grog", ignori cosa possa essere il grog, ma 
+di certo non si tratta di una tisana.
+~
+125 0 0
+D1
+~
+~
+0 -1 12659 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12662
+Il Viale degli Eroi~
+La strada zigzaga un po' tra i palazzi e poi compie un ampia curva.
+Noti con piacere il via vai delle pattuglie delle Guardie di Deira che 
+vigilano sulla sicurezza della zona residenziale. 
+A nord vedi un laboratorio dove lavorano stupende pietre preziose.
+~
+125 0 1
+D0
+~
+~
+0 -1 12543 0
+D1
+Una porta di legno.
+~
+porta~
+1 634682 40232 199
+D2
+~
+~
+0 -1 12659 0
+D3
+~
+~
+0 -1 12664 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12663
+Il Viale degli Eroi~
+Ti trovi a camminare sul viale della grande zona residenziale di Deira. 
+La strada si dirama in tutte le direzioni, splendidi mosaici, rappresentanti le 
+vicende e gli eroi del regno di Aldaria, incesellano la strada che scritte, 
+incise in basso rilievo sui muri dei palazzi, indicano come il Viale degli Eroi.
+Qui davanti a te scorgi uno spiazzo dov'e' posato il &4Monumento&0 al Milite Ignoto
+completamente attorniato di fiori freschi e profumati. 
+Un grande braciere sempre acceso e' sorvegliato da due guardie sull'attenti.
+A sud vedi una grande porta che consente l’accesso alla citta’ interna.
+~
+125 0 1
+D0
+~
+~
+0 -1 3190 0
+D1
+~
+~
+0 -1 12664 0
+D2
+~
+~
+0 -1 12626 0
+D3
+~
+~
+0 -1 12666 0
+E
+monumento~
+Un imponente guerriero in marmo finemente lavorato rimene eternamente 
+immobile con il viso rivolto verso il nord. In posizione di riposo, la spada 
+estratta con la punta poggiata in terra e l’elsa tra le mani, il volto rilassato 
+e lo sguardo duro di chi della propria vita ne ha ricavato il meglio. 
+Avresti voluto conoscere questo guerriero di altri tempi di cui, ormai, si e’ 
+dimenticato anche il nome.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12664
+Il Viale degli Eroi~
+I palazzi lasciano lo spazio a una piccola piazzetta circolare.
+Intorno a te continua il via vai di molti residenti. Noti molte persone
+abbigliate sfarzosamente e che probabilmente ricoprono alte cariche del 
+regno. Ti accorgi che alta e bassa societa' si mischiano senza alcun 
+problema e conversano in un clima di amicizia. 
+~
+125 0 1
+D0
+Una porta di legno.
+~
+porta~
+1 757708 1499 135
+D1
+~
+~
+0 -1 12662 0
+D2
+Una porta di legno.
+~
+porta~
+1 388158 40059 135
+D3
+~
+~
+0 -1 12663 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12666
+Il Viale degli Eroi~
+Ti apri la strada tra la folla dei residenti tra i quali scorgi anche alte 
+personalita' dello stato,abbigliati raffinatamente. Qui per terra i mosaici 
+raffigurano le vicende della mitica &3Comandante&0 dell'Esercito aldariano. 
+I mosaici la raffigurano sempre mentre combatte con la spada grondante del 
+sangue del nemico.
+A sud noti un piccolo vicolo che serpeggia tra due palazzi.
+~
+125 0 1
+D0
+Una porta di legno.
+~
+porta~
+1 648509 40047 135
+D1
+~
+~
+0 -1 12663 0
+D2
+~
+~
+0 -1 12667 0
+D3
+~
+~
+0 -1 12670 0
+E
+comandante~
+La figura di Eleonor e' stupenda.
+Grondante di sangue, brandelli di carne lacerata appesi alla spada, un ghigno
+impressionante sul volto.... incute terrore, ma non solo..... ti potresti
+innamorare di una ragazza cosi'....~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12667
+Un vicolo buio~
+Lo stretto vicolo si snoda attraverso le strutture adiacenti che creano
+una specie di tetto che da vita una fitta oscurita'. Da quel poco che riesci a
+vedere capisci di essere nell'unico ghetto della citta'. Qui vedi dei gran 
+brutti ceffi aggirarsi con aria losca. Con aria discreta raggiungi la fine del 
+vicolo. Un bruttissimo individuo e' a guardia di una porta nera come la notte.
+~
+125 0 1
+D0
+~
+~
+0 -1 12666 0
+D1
+Una porta di legno.
+~
+porta~
+1 305664 40130 135
+D2
+~
+~
+0 -1 12668 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12668
+La scuola dei Alcioni~
+Ti trovi in una piccola stanza dove gli apprendisti alcioni attendono
+di parlare con i maestri. Accanto a te si trovano molte persone, le
+guardi con sospetto, sono ladri, assassini o perche no' tutte e due le cose. 
+La stanza e priva di abbellimenti, solo un folle metterebbe in mostra un 
+oggetto prezioso, sparirebbe in pochi secondi.
+~
+125 0 0
+D0
+~
+~
+0 -1 12667 0
+D2
+~
+~
+0 -1 12669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12669
+La sala dei maestri~
+In questo largo salone gli apprendisti alcioni apprendono tutti i segreti
+della loro occulta scuola. Ogni ombra qui puo' celare un pericolo, una
+distrazione potrebbe essere fatale. Un maestro nel centro della
+sala sta dimostrando con un pugnale la sua piu' che perfetta tecnica.
+Una soffice penombra avvolge tutto e tutti.
+~
+125 0 0
+D0
+~
+~
+0 -1 12668 0
+D1
+Una porta di legno
+~
+porta~
+1 657 3057 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#12670
+Il Piazzale della Reggenza~
+Qui la grande arteria viaria indugia in uno splendido piazzale. Di fronte a 
+te si staglia una grande statua scolpita nel marmo rosa, raffigurante 
+la prima &1Reggente di Aldaria&0: le sue vesti raffinate sono ricoperte da una 
+cascatella di diamanti incastonati nel marmo, e i suoi occhi sono fatti con 
+due smeraldi. La statua e' enorme, ma la figura ispira rettitudine giustizia.
+Nella parte ovest del piazzale c'e' un antico mulino. Le sue pale sfruttano la
+corrente del fiume che tocca la citta'.
+~
+125 0 1
+D0
+una normale porta di legno
+~
+porta~
+1 3241 40160 7
+D1
+~
+~
+0 -1 12666 0
+D2
+~
+~
+0 -1 12672 0
+D3
+~
+~
+0 -1 12671 0
+E
+reggente~
+Laika, Lady Death!
+La prima Reggente del Regno di Aldaria!!~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12671
+Il mulino~
+Grandi ingranaggi si muovono al suo interno, per far si che la forza
+del fiume possa lavorare il grano. Molta gente in coda qui in attesa
+di usare la macina del mulino pubblico. Una guardia in un angolo 
+controlla che non ci siano liti e che tutto scorra tranquillamente.
+Dubiti comunque che possa scoppiare una zuffa, tutti aspettando 
+tranquillamente il proprio turno.
+~
+125 2147483648 0
+D1
+~
+~
+0 -1 12670 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12672
+Il Viale degli Eroi~
+Scorgi mentre passi una pattuglia di guardie agghindate nelle loro splendide 
+uniformi con l'aquila aldariana. E noti che anche i personaggi dei &3mosaici&0
+qui presenti hanno lo stesso abbigliamento: infatti vengono raffigurate le 
+vicende delle piu' note guardie aldariane.
+Grandi combattenti vengono raffigurati sempre pronti e ligi al dovere.
+Ad ovest vedi un negozio di nautica, per belle gite sul fiume.
+
+~
+125 0 1
+D0
+~
+~
+0 -1 12670 0
+D1
+Una porta di legno.
+~
+porta~
+1 996247 40354 135
+D2
+~
+~
+0 -1 12675 0
+D3
+~
+~
+0 -1 12674 0
+E
+mosaici~
+In questi mosaici vengono raffigurate le vicende delle piu' note guardie aldariane,
+Magicorty, Masterhous, Rox, SirGyles.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12673
+Sala del consiglio~
+E' una grande sala quadrata con le pareti ricoperte di affreschi raffiguranti i 
+primi giudici aldariani, tra cui Khardan e Stephan che viene ritratto mentre 
+medita appassionatamente sui rotoli delle leggi aldariane. Al centro vi e' il 
+grande tavolo di corallo rosa dove vengono scritte le sentenze. Tutto l'ambiente 
+e' intriso di un'atmosfera di giustizia e ispirazione divina che influenzano 
+positivamente.                              
+~
+125 16 0
+D1
+~
+~
+0 -1 12615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12674
+Il negozio di nautica~
+Il negozio ti ricordo molto il mare. Conchiglie sono appese un po' 
+ovunque come reti da pesca ,barche e zattere. Nonostante la citta' sia 
+in zona povera di corsi d'acqua l'assortimento di attrezzatura e' molto 
+varia. Purtroppo dubiti che possa fare troppi affari quaggiu'. 
+Un robusto uomo sta ripiegando una grossa rete da pesca.
+~
+125 0 0
+D1
+~
+~
+0 -1 12672 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12675
+Il Viale degli Eroi~
+I &3mosaici&0 di questa zona raffigurano le vicende dei funzionari aldariani. 
+Tra tutte le scene la piu’ caratteristica e’ quella che rappresenta il tesoriere
+reale. Egli viene ritratto immerso nei conti dello stato che amministra con 
+esperienza e professionalita'. Alzando lo sguardo noti intorno a te edifici 
+nuovi, costruiti splendidamente che attirano l'attenzione di ogni passante.
+~
+125 0 1
+D0
+~
+~
+0 -1 12672 0
+D1
+Una porta di legno.
+~
+porta~
+1 676216 40320 135
+D2
+~
+~
+0 -1 12677 0
+D3
+Una porta di legno.
+~
+porta~
+1 372248 40058 135
+E
+mosaici~
+Vedi raffigurato Lord Wirgult che conta una innumerevole quantita' di monete.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12677
+Il Viale degli Eroi~
+A est vedi la maestosa porta che conduce dentro le mura di Deira, 
+mentre davanti a te ammiri il grande gruppo statuario chiamato
+l'uccisione di Aldur. Aldur era il fratello minore di Re Rodric,
+che venne ucciso proprio dove ora sorge la grande piazza di Deira. 
+Il via vai di gente e guardie rende l’atmosfera gioiosa.
+~
+125 0 1
+D0
+~
+~
+0 -1 12675 0
+D1
+~
+~
+0 -1 12622 0
+D2
+~
+~
+0 -1 12678 0
+D3
+~
+~
+0 0 3194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12678
+Il Viale degli Eroi~
+In questo punto della strada, ammiri altri splendidi mosaici, raffiguranti 
+i grandi architetti aldariani intenti a dirigere molti cantieri e opere di 
+costruzione. Alcuni di loro sono identificati da placche in argento incise. 
+Tra tutti spicca il nome di Roland di Gilead. Ora capisci perche' Deira e' piena 
+di splendidi edifici.
+
+~
+125 0 1
+D0
+~
+~
+0 -1 12677 0
+D1
+Una porta di legno.
+~
+porta~
+1 452884 40319 135
+D2
+~
+~
+0 -1 12681 0
+D3
+Una porta di legno.
+~
+porta~
+1 783140 40313 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12679
+L'anticamera nella Gilda dei Peloi~
+La stanza e' ricca di oggetti di vario genere disposti in maniera ordinata
+in svariati scaffali. Uno armadio in particolare cattura la tua attenzione, 
+in esso sono contenuti tutti gli oggetti per i nuovi adepti della Gilda.    
+~
+125 0 0
+D0
+~
+~
+0 -1 12697 0
+D2
+~
+~
+0 -1 12696 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12680
+La prigione~
+L'ambiente e' inquietante, una guardia ti fissa con un ghigno terribile mentre
+apre la porta di una cella. Topi grossi come castori scorrazzano tranquillamente
+tra le tue gambe. La guardia ne accarezza uno chiamandolo per nome... Lance l'ha
+chiamato... Alloggiare qui non dev'essere un'esperienza piacevole.
+Verso est ombre profonde mascherano un corridoio.
+~
+125 0 5
+D1
+~
+~
+0 -1 12530 0
+D3
+~
+grata~
+1 -1 12542 3
+D4
+~
+~
+1 0 12571 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12681
+Il Viale degli Eroi~
+Il pavimento mosaicato continua con splendide storie di grandi eroi, ma la tua 
+attenzione viene catturata alcune bancarelle che qui occupano i lati della 
+strada, stracolme di ogni merce, e attorniate da molte dame desiderose di 
+aquistare oggetti a basso prezzo ma di rara bellezza. Molte guardie sorridono
+a questa scena e scambiandosi cenni indicano le piu' belle ragazze.
+~
+125 0 1
+D0
+~
+~
+0 -1 12678 0
+D1
+Una porta di legno.
+~
+porta~
+1 203530 40411 135
+D2
+~
+~
+0 -1 12683 0
+D3
+Una porta di legno.
+~
+porta~
+1 689049 40007 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12682
+La camera dell'accusa~
+E' una piccola stanza piena di scaffali ricolmi di pergamene e con al centro 
+una piccola scrivania. Solo una parete e' sgombra e vi e' un arazzo raffigurante 
+le imprese della Principessa Laika insieme alla sua inseparabile compagna, capo 
+dell'esercito Eleonor.
+Una porticina ad est conduce all'alla sala di attesa, mentre a nord una massiccia
+porta di quercia conduce alla sala delle udienze.~
+125 144 0
+D0
+~
+~
+0 -1 12615 0
+D1
+~
+~
+0 -1 12573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12683
+Piazzale del Consigliere~
+Il viale cede il posto ad un bel piazzale alberato. La scena e' dominata dalla 
+grande statua raffigurante Lord Salomon, gran Consigliere del Regno di Aldaria. 
+Egli viene raffigurato mentre forgia nuove e splendide armi: la sua abilita' 
+di fabbro e' proverbiale nella daresia.
+~
+125 0 1
+D0
+~
+~
+0 -1 12681 0
+D1
+~
+~
+0 -1 12684 0
+D2
+Una porta di legno.
+~
+porta~
+1 345556 40037 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12684
+Il Viale degli Eroi~
+Il viale si allarga per permettere il passaggio di carri pieni di tronchi in 
+legno che immancabilmente si dirigono nella grande segheria di Deira. L’edificio
+e’ tutto di legno e palesemente antico. I rumori dei falegnami al lavoro fanno 
+da sfondo al vociare allegro di alcuni garzoni che caricano delle travi e delle 
+assi di legno sui carri. Nonostante la segheria le abitazioni sorgono belle e 
+pulite, chiaro sintomo del rispetto che gli aldariani hanno degli onesti 
+lavoratori.
+~
+125 0 1
+D1
+~
+~
+0 -1 12687 0
+D2
+Una porta di legno.
+~
+porta~
+1 868746 40040 199
+D3
+~
+~
+0 -1 12683 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12685
+Ripulitura pelli pubblica~
+Varie persone arrivano con sacche contenenti vari tipi di pelli e pellicce. Sangue cola da tutte le parti dalle pelli appese pronte per essere lavate e ripulite.
+~
+125 8589934592 0
+D3
+~
+~
+0 -1 12691 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12686
+La Segheria~
+Alcuni operai si stanno prendendo una pausa, mentre gli altri stanno portando 
+materiali da costruzione. Un progetto e' attaccato al muro con un chiodo e un 
+uomo che sembra dirigere i lavori dopo aver dato un occhio al foglio da 
+disposizioni ai lavoratori che vanno e vengono senza sosta. Una moltitudine di 
+attrezzi e' a disposizione di chi ha voglia di lavorare.
+~
+125 8388608 0
+D3
+~
+~
+0 0 12608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12687
+Il Viale degli Eroi~
+Ti trovi a camminare sul viale della grande zona residenziale di Deira.
+La strada si dirama in tutte le direzioni, splendidi mosaici sono posati a lato 
+dei viali. Davanti a te si staglia la grande statua di Re Rodric, in bronzo 
+fuso, realizzata dai piu grandi artisti della daresia. La sua espressione calma 
+e decisa, il suo fare sicuro ti fanno pensare come tutto questo si rispecchi
+nell'organizzazione del regno di Aldaria. Due guardie sono sull'attenti ai lati
+dell'opera. A nord vedi un’enorme porta che conduce alla zona antica di Deira.
+~
+125 0 1
+D0
+~
+~
+0 -1 12630 0
+D1
+~
+~
+0 -1 12688 0
+D2
+~
+~
+0 0 3196 0
+D3
+~
+~
+0 -1 12684 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12688
+Il Viale degli Eroi~
+Mosaici sulla strada raffigurano i diplomatici aldariani rappresentati nei suoi 
+lunghi viaggi per le terre e i regni della Daresia accompaganti dalle guardie 
+reali del regno . Molti incontri sono rappresentati: antiche amicizie tra i 
+vari regni tra cui spicca l'enigmatica figura dell'ambasciatore Sendariano 
+Galadriel incontra quello aldariano Khardan. I loro volti vengono rappresentati
+pensosi e misteriosi, come misteriose a volte sono le arti della diplomazia.
+Verso nord si apre un piazzale pieno di gente.
+~
+125 0 1
+D0
+~
+~
+0 -1 12689 0
+D1
+~
+~
+0 -1 12691 0
+D2
+Una porta di legno.
+~
+porta~
+1 572140 40050 135
+D3
+~
+~
+0 -1 12687 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12689
+La strada della Concordia~
+Ammiri di fronte a te la grande &3lapide&0 ai martiri aldariani, tutti
+coloro che hanno combattuto per difendere la patria dalle schiere di
+mostri e nemici, e che hanno collaborato a mantenere la pace e la concordia
+tra tutti i concittadini.
+~
+125 0 1
+D1
+Una porta di legno.
+~
+porta~
+1 623891 40075 135
+D2
+~
+~
+0 -1 12688 0
+D3
+Una porta di legno.
+~
+porta~
+1 590625 40084 135
+E
+lapide~
+una moltidine di nomi, date e parole dei famigliari...
+ti salgono le lacrime agli occhi nel leggere.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12690
+Una sala nella scuola dei Cyrinic~
+La Sala e' ampiamente illuminata, molti giovani accoliti sono qui intenti ad
+allenarsi con i loro maestri. Per terra, in un angolo, sono appesi i classici
+indumenti della tua classe, a disposizione di tutti i membri della gilda.    
+~
+125 0 0
+D1
+~
+~
+0 -1 12554 0
+D3
+~
+~
+0 -1 12555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12691
+Piazzale di Fizban~
+Ti fermi ad ammirare questa splendida piazza, dedicata interamente alla mitica 
+saga degli Dei, e soprattutto a Fizban, il Dio del bene, che pose il suo 
+beneplacito su questo Regno. Al centro del piazzale piccoli alberi rallegrano 
+l’atmosfera. Nel lato est noti un via vai di persone che portano pelli grezze 
+e conciate. Su una tavola di marmo affissa ad un muro vedi scritto:
+"Fizban, posando dall'alto lo sguardo sulle terre intorno a Deira, non 
+puo' vedere nulla che non sia tutto aldariano e opera di grandi ingegni."
+~
+125 0 1
+D0
+~
+~
+0 -1 12692 0
+D1
+~
+~
+0 -1 12685 0
+D2
+Una porta di legno.
+~
+porta~
+1 985711 40036 135
+D3
+~
+~
+0 -1 12688 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12692
+Il Viale degli Eroi~
+Lo stupore per la bellezza artistica dei mosaici cede il posto a quello 
+per la meraviglia delle costruzioni che vedi intorno a te.
+La ricchezza e la prosperita' del regno si ricava anche da questo, e 
+dalle tantissime persone riccamente abbigliate che incontri lungo la via.
+Una piccola folla si accalca all’ingresso di un bazaar, dalle fattezze capisci
+che deve essere molto antico, le stupende abitazioni gli sono cresciute
+intorno ma l’hanno lasciato immutato, sicuramente perché dona un’aria
+piu’ esotica alla via.
+~
+125 0 1
+D0
+~
+~
+0 -1 12694 0
+D1
+Una porta di legno.
+~
+porta~
+1 352164 40034 135
+D2
+~
+~
+0 -1 12691 0
+D3
+~
+~
+0 -1 12693 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12693
+Il bazar~
+Grandi scaffali pieni di merce nuova e usata occupano tutte le pareti
+del piccolo negozio. Non hai mai visto in tutta la tua vita un'accozzaglia
+di oggetti tanto diversi tra loro. Non esiste una logica negli scaffali
+tutto e' semplicemente ammassato alla meglio, in modo che la merce 
+non cada a terra, tutto li. Un elfo dietro il bancone sembra annoiarsi
+terribilmente, dalla sua faccia diresti che non gli piace il suo lavoro.
+&7Fare list attrezzo per vedere gli attrezzi disponibili&0
+~
+125 274877906944 0
+D1
+~
+~
+0 -1 12692 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12694
+Il Viale degli Eroi~
+Noti con grande meraviglia la stupefacente bellezza dei mosaici che 
+ricoprono questa parte del viale. Essi raffigurano i giudici del
+regno di Aldaria, mentre amministrano la giustizia del regno. 
+Davanti alla porta di un edificio a est ci sono due giovani e robuste guardie,
+dall’abbigliamento capisci sono Peloi, deve essere l’ingresso della loro Gilda.
+Sull'altro lato del viale spicca l'ingresso di una locanda.
+~
+125 0 1
+D0
+~
+~
+0 -1 12654 0
+D1
+~
+~
+0 -1 12696 0
+D2
+~
+~
+0 -1 12692 0
+D3
+~
+~
+0 -1 12695 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12695
+La locanda~
+Il posto e' piccola e accogliente, ma non pulitissimo. Un buon profumo
+esce dalla cucina, invitandoti a rimanere. Non e' una brutta locanda 
+considerando il brutto quartiere dove e' stata edificata. Intorno a
+te non vedi molti avventori, la maggior parte preferisce le piu' 
+pulite locande in centro, anche se sono piu' costose.
+Un &3cartello&0 ti spiega le regole della locanda.
+~
+125 0 0
+D1
+~
+~
+0 -1 12694 0
+E
+cartello~
+Qui accettiamo chiunque.
+Le uniche limitazioni sono di spazio: la locanda e' piccola quindi 
+non accettiamo piu' di 50 oggetti a persona.
+Chiunque non potra pagare i pernottamenti effettuati verra' sbattuto
+fuori ed i suoi averi requisiti come parziale pagamento.
+
+Comandi: rent~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12696
+La scuola dei peloi~
+Ti trovi in una piccola sala di attesa, dove tutti gli apprendisti
+di questa scuola aspettano di poter lavorare un po’ con i loro maestri 
+per apprendere nuove tecniche di guerra e qualche segreto sulla
+magia , anche se su quest'ultima fanno meno affidamento. Un bell'arco
+a nord conduce alla sala di allenamento.
+~
+125 0 0
+D0
+~
+~
+0 -1 12679 0
+D3
+~
+~
+0 -1 12694 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12697
+Sala di allenamento~
+Qui i maestri della tua scuola stanno avviando molti novizi alle
+arti della guerra e aiutano a perfezionare le tecniche dei piu'
+esperti svelandogli i principi della magia piu' elementare.
+Un maestro ti guarda da lontano per vedere se sei sufficientemente 
+esperto per imparare cose nuove, in caso tu non lo fossi non ti 
+insegnera' nulla.
+~
+125 0 0
+D2
+~
+~
+0 -1 12679 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

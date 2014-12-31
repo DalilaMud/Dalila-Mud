@@ -1,0 +1,1597 @@
+#30700
+La Grande Scacchiera di Deira~
+Sei sotto al voltone che da' accesso alla scacchiera di Deira.  Il gigantesco
+portone di legno e' aperto.  La scacchiera si apre ad est,mentre in alto puoi
+trovare la via per tornare a Deira.    
+~
+307 4 1
+D1
+~
+~
+0 0 30725
+D3
+~
+~
+0 0 1490506
+S
+#30701
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella della
+Torre della Regina Nera.
+~
+307 0 1
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30702
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30709
+S
+#30702
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella del
+Cavallo della Regina Nera.
+~
+307 0 1
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30703
+D2
+Uns casella bianca e' a sud.
+~
+~
+0 -1 30710
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30701
+S
+#30703
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di Solito e' la casella
+dell'Alfiere della Regina Nera.
+~
+307 0 1
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30704
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30711
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30702
+S
+#30704
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella della
+Regina Nera.
+~
+307 0 1
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30705
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30712
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30703
+D5
+~
+casella di marmo~
+2 30714 307035
+S
+#30705
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella del
+Re Nero.
+~
+307 0 1
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30706
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30713
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30704
+S
+#30706
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella
+dell'Alfiere del Re Nero.
+~
+307 0 1
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30707
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30714
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30705
+S
+#30707
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella del
+Cavallo del Re Nero.
+~
+307 0 1
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30708
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30715
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30706
+S
+#30708
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella della
+Torre del Re Nero.
+~
+307 0 1
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30716
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30707
+S
+#30709
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn della Regina Nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30701
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30710
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30717
+S
+#30710
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn della Regina Nera.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30702
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30711
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30718
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30709
+S
+#30711
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn della Regina Nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30703
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30712
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30719
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30710
+S
+#30712
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn della Regina Nera.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30704
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30713
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30720
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30711
+S
+#30713
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn del Re Nero.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30705
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30714
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30721
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30712
+S
+#30714
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn del Re Nero.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30706
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30715
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30722
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30713
+S
+#30715
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn del Re Nero.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30707
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30716
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30723
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30714
+S
+#30716
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn del Re Nero.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30708
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30724
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30715
+S
+#30717
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30709
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30718
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30725
+S
+#30718
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30710
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30719
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30726
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30717
+S
+#30719
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30711
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30720
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30727
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30718
+S
+#30720
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30712
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30721
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30728
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30719
+S
+#30721
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30713
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30722
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30729
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30720
+S
+#30722
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30714
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30723
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30730
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30721
+S
+#30723
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30715
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30724
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30731
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30722
+S
+#30724
+Una Casella Nera~
+   Sei su una casella di marmo nera. Vedi un cancello arrugginito
+a sud.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30716
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30732
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30723
+S
+#30725
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30717
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30726
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30733
+D3
+~
+~
+0 0 30700
+S
+#30726
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30718
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30727
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30734
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30725
+S
+#30727
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30719
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30728
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30735
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30726
+S
+#30728
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30720
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30729
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30736
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30727
+S
+#30729
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30721
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30730
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30737
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30728
+S
+#30730
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30722
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30731
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30738
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30729
+S
+#30731
+Una Casella Nera~
+   Sei su una casella di marmo nera. C'e' un cancello arrugginito
+a breve distanza ad est.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30723
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30732
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30739
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30730
+S
+#30732
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. C'e' un cancello arrugginito
+ad est.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30724
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30740
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30731
+S
+#30733
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30725
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30734
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30741
+D3
+~
+~
+0 0 1490506
+S
+#30734
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30726
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30735
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30742
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30733
+S
+#30735
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30727
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30736
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30743
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30734
+S
+#30736
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30728
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30737
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30744
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30735
+S
+#30737
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30729
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30738
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30745
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30736
+S
+#30738
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30730
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30739
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30746
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30737
+S
+#30739
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30731
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30740
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30747
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30738
+S
+#30740
+Una Casella Nera~
+   Sei su una casella di marmo nera. C'e' un cancello arrugginito
+a nord.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30732
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30748
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30739
+S
+#30741
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30733
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30742
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30749
+S
+#30742
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30734
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30743
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30750
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30741
+S
+#30743
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30735
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30744
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30751
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30742
+S
+#30744
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30736
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30745
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30752
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30743
+S
+#30745
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30737
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30746
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30753
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30744
+S
+#30746
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30738
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30747
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30754
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30745
+S
+#30747
+Una Casella Nera~
+   Sei su una casella di marmo nera.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30739
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30748
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30755
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30746
+S
+#30748
+Una Casella Bianca~
+   Sei su una casella di marmo bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30740
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30756
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30747
+S
+#30749
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn della Regina Bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30741
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30750
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30757
+S
+#30750
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn della Regina Bianca.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30742
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30751
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30758
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30749
+S
+#30751
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn della Regina Bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30743
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30752
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30759
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30750
+S
+#30752
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn della Regina Bianca.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30744
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30753
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30760
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30751
+S
+#30753
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn del Re Bianco.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30745
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30754
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30761
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30752
+S
+#30754
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn del Re Bianco.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30746
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30755
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30762
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30753
+S
+#30755
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella di
+uno dei Pawn del Re Bianco.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30747
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30756
+D2
+Una casella nera e' a sud.
+~
+~
+0 -1 30763
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30754
+S
+#30756
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella di
+uno dei Pawn del Re Bianco.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30748
+D2
+Una casella bianca e' a sud.
+~
+~
+0 -1 30764
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30755
+S
+#30757
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella della
+Torre della Regina Bianca.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30749
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30758
+S
+#30758
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella del
+Cavallo della Regina Bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30750
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30759
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30757
+S
+#30759
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella
+dell'Alfier della Regina Bianca.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30751
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30760
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30758
+S
+#30760
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella della
+Regina Bianca.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30752
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30761
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30759
+D5
+~
+casella~
+2 30715 30766
+S
+#30761
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella del
+Re Bianco.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30753
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30762
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30760
+S
+#30762
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella
+dell'Alfiere del Re Bianco.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30754
+D1
+Una casella nera e' ad est.
+~
+~
+0 -1 30763
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30761
+S
+#30763
+Una Casella Nera~
+   Sei su una casella di marmo nera. Di solito e' la casella del
+Cavallo del Re Bianco.
+~
+307 0 1
+D0
+Una casella bianca e' a nord.
+~
+~
+0 -1 30755
+D1
+Una casella bianca e' ad est.
+~
+~
+0 -1 30764
+D3
+Una casella bianca e' ad ovest.
+~
+~
+0 -1 30762
+S
+#30764
+Una Casella Bianca~
+   Sei su una casella di marmo bianca. Di solito e' la casella della
+Torre del Re Bianco.
+~
+307 0 1
+D0
+Una casella nera e' a nord.
+~
+~
+0 -1 30756
+D3
+Una casella nera e' ad ovest.
+~
+~
+0 -1 30763
+S
+#30765
+La Tesoreria Nera~
+   Sei nella Tesoreria della Corte Nera. Fortunatamente nessuno ha
+depredato il tesoro della Corona.
+~
+307 521 0
+D4
+Una piccola scala sale sopra di te.
+~
+casella di marmo~
+2 30714 30704
+S
+#30766
+La Tesoreria Bianca~
+   Sei nella Tesoreria della Corte Bianca. Fortunatamente nessuno ha
+depredato il tesoro della Corona.
+~
+307 521 0
+D4
+Una piccola scala sale sopra di te.
+~
+casella di marmo~
+2 30715 30760
+S
+$~

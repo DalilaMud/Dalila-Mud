@@ -1,0 +1,2172 @@
+#40800
+&gIl crogiolo Archimedico&d~
+Ti trovi in  una stanza che in apparenza e' in totale disordine
+con &6quadri&0 appesi a tutte le pareti, dal significato misterioso ed occulto.
+Osservando meglio, noti che il disordine e' solo apparente,
+'in realta' segue uno schema predefinito, che percepisci come armonia, ma non riesci a comprenderne il significato.
+Ti trovi in un posto che ispira la &6ricerca&0 e l'evoluzione e inspiri aria colma di &1Sapienza&0!
+Vedi il soffitto dipinto con un magnifico &GArazzo&d
+~
+408 68719479308 0
+D0
+~
+~
+0 0 40238 0
+D1
+~
+~
+0 0 40334 0
+D2
+Una porta di legno.
+~
+porta~
+1 234241 22101 167
+D3
+~
+~
+0 0 40200 0
+E
+arazzo~
+Vedi una scena con un uomo molto vecchio, con lunghi capelli e barba bianca
+intento a lavorare con degli strani alambicchi e fornelli.
+Attorno a lui una moltitudine di stelle, di costellazioni e di ancestrali animali.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40801
+LA tana del Randagio~
+Le pareti di pietra sono rivestite con liste di legno di cigliegio.
+Due piccole finestre con inferiate ed ante si trovano ai lati della porta d'ingresso.
+Questa stanza viene normalmente  utilizzata per le faccende diurne nella vita quotidiana.
+Nata come cucina viene di fatto impiegata per molti altri scopi,
+non � raro trovare appoggiati un po' ovunque gli oggetti piu' disparati.
+Nell'aria e' rimasto ancora l'odore dell'ultimo pasto cucinato.
+Sul fondo una scala in legno sale verso l'alto.
+~
+408 2572 0
+D0
+~
+porta~
+1 545207 22101 39
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40802
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 2572 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40752 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40803
+Il vestibolo~
+La stanza contiene armadi e cassepanche per rimessare oggetti di varia natura.
+Una scala in legno conduce alla stanza sottostante.
+Una tenda chiude il passaggio verso la stanza da letto ad ovest. Il varco a nord � aperto.
+Un piccolo lucernaio fa entrare la luce dal soffito.
+~
+408 68719479308 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40805 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40804 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40804
+La stanza da letto~
+Un letto di modesta fattura si trova al fondo della stanza;
+una finestra sulla parete nord fa si che la camera sia ben illuminata,
+ ma lascia entrare senza alcuna discrezione i rumori provenienti dalla via.
+Appeso sopra il letto, uno scudo con due spade incrociate � l'unico ornameto della stanza.
+La stanza avrebbe bisogno di una rassettata.
+Un servo muto � pronto ad accogliere l'armatura del proprietario.
+In un angolo un treppiede con un bacile, una caraffa d'acqua e un asciugamano liso.
+~
+408 68719479308 0
+D1
+Entrata in costruzione~
+entrata~
+0 -1 40803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40805
+La Palestra~
+Un ampia finestra da sulla via e lascia entrare abbondante luce nelle ore diurne.
+Lungo le pareti vi sono alcune rastregliere per le armi; 
+agganciato al soffitto un robusto sacco di iuta riempito
+di segatura per gli allenamenti a mani nude.
+Parti di aramture sporgono disordinatamente da alcune casse ed armadi.
+~
+408 68719479308 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40806
+ &2Il Giardino Interno&0 (evoluta)~
+Ti trovi in un ampio giardino all'interno del palazzo. Al centro noti una
+splendida &7fontana di marmo bianco&0. I grandi &2alberi&0 permettono di
+avere zone d'ombra nel giardino dove sfuggire dal &3sole&0 nei caldi mesi
+estivi...i &1fiori&0 che vi sono rendono l'aria profumata. Noti anche molte
+statue raffiguranti i grandi eroi di Tolnedra e una raffigurante il
+proprietario del Palazzo. Le comode panchine permettono di rilassarsi.
+Sulla Destra noti delle scale che conducono nel sottosuolo...
+
+~
+408 34359740940 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40493 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40807 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40807
+ &9Il Magazzino&0 (evoluta)~
+Scendendo le scale ti ritrovi in un ampio magazzino, negli scaffali e negli
+armadi noti armature ed armi di tutti i tipi e misure.
+
+~
+408 171798694412 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40806 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40808
+ &9Il Palazzo delle Tenebre&0 (evoluta)~
+Appena entri una grande sala poco illuminata ti accoglie, sui lati noti 
+delle colonne di &9marmo nero&0. Nei 4 angolini vedi quattro statue 
+raffiguranti dei feroci &1Draghi&0. Una finestra posta sopra il grande 
+Portone del palazzo illumina a malapena la stanza che incute un certo 
+terrore..nell'ombra ti sembra di vedere delle figure muoversi 
+velocemente...sara' la suggestione che incute questo luogo?
+
+~
+408 171798694412 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40809 0
+D2
+Una porta di legno.
+~
+porta~
+1 819324 2434358 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40809
+ &9Il Salone Oscuro&0 (evoluta)~
+Entri in un ampio ma oscuro salone...  Enormi colonne &0&9nere&0 sono attorno a
+questa stanza di forma circolare la stanza e' leggermente illuminata di giorno
+da una piccola finestra sferica posta sul tetto di essa e la notte da svariate
+candele sparse nei candelabri sulle pareti del salone.  A nord noti una porta
+di pregiata fattura identica a quella posta ad ovest...  Dove porteranno?    
+~
+408 68719479308 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40810 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40808 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40811 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40810
+&b&1La Stanza di &9Nion&0~
+Sei appena entrato nella stanza del padrone di casa...  Noti subito che il
+padrone di questa casa ama vvere nel lusso date le tende di pregiata seta e la
+scrivania in oro massiccio...  Vedi un enorme dipinto sulla parete raffigurante
+un uomo con due pugnali che lotta contro un temibile mostro marino.  L'enorme
+letto e' posto sulla parete destra della stanza e di fronte ad esso un enorme
+armadio di pregiata qualita.  La stanza e' illuminata, a differenza delle
+altre, da un enorme finestra.  Nella parete di fronte a te vedi una scritta
+color rosso sangue che dice..  &b&1Sbalordito Rimase Il Diavolo Comprendendo
+Quanto Osceno Fosse Il Bene.    
+~
+408 68719479308 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40811
+ &b&9Un Buio corridoio&0 (evoluta)~
+Passi attraverso ad un buio e tetro corridoio...  Sulle pareti oltre ai
+candelabri che illumiano appena l'ambiente vedi dei dipinti raffiguranti degli
+uomini e donne con i vari nomi..  Riconosci tra essi i volti di grandi eroi
+quali quelli di Spartakus Thief e Sarib..  Il corridoio di conduce verso una
+rampa di scale che va verso il basso..    
+~
+408 68719479308 0
+D1
+Entrata in costruzione~
+entrata~
+0 -1 40809 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40812
+ &9Le Segrete&0 (evoluta)~
+Dietro la porta trovi delle scale che conducono in questo luogo buio e
+tenebroso...ti sembra un magazzino pieno d'armi ma infondo all'ampia sala 
+noti anche delle celle..e' qui che Nion porta le sue vittime?
+
+~
+408 171798694412 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40811 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40813
+&9&bDimora di Zarch il Demone della Notte (pietra)&0~
+Una piccola casa molto modesta, 1 tavolo 4 sedie e degli armadi contenenti
+chissa' quali cianfrusaglie. Una finestra si affaccia cogliendo un tratto di mare
+appena chiudi la porta la casa cade nell'oscurita'. Dei dipinti occulti 
+nascono sulle pareti con una realta' quasi impressionante. Questa e' la Dimora
+di Zarch il Demone della Notte, non osare toccare nulla e vattene se non sei
+il benvenuto!!!
+
+~
+408 206158432780 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 6868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40814
+ &3Il tempio di Karnak&0 (pietra)~
+Ti trovi di fronte 40 sfingi che sono a guardia del complesso. Alzando lo sguardo 
+vedi la porta trionfale che immette nel cortile maggiore percorso da 2 file di 
+colonne parallele e papiriformi. Alla fine di queste c'e' un secondo portale che 
+introduce nella grandiosa sala ipostila... che meraviglia!!!
+
+~
+408 206158432780 0
+D0
+~
+~
+0 0 1695 0
+D5
+Una porta di legno.
+~
+porta~
+1 523076 6867 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40815
+ &2&bIl ritrovo (pietra)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttra su massicci blocchi di marmo e granito, visibili
+sia dallesterno che dallinterno e componenti piu dei due terzi del materiale
+utilizzato per la costruzione totale delledificio. Le uniche parti realizzate in
+metallo sono difatti parti minori della struttura della parte superiore dellabitato
+mentre il legno viene per lo piu utilizzato allinterno come isolante a basso costo
+e per le tegole presenti sul tetto in grande quantita. La struttura esternamente ha
+unaria piuttosto solenne e borghese con le sue pietre perfettamente incastonate come
+in un complesso mosaico.
+~
+408 206158432780 0
+D3
+Una porta di legno.
+~
+porta~
+1 809120 6860 167
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40850 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40816
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 12 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40817
+&6Il covo di Baruk e Turok&0~
+Sei entrato nel covo. Tavoli quadrati con sopra pugnali e mappe. Dev'essere il posto dove
+si preparano le strategie di battaglia per mercenari. Vedi scaffali pieni di mappe. Una cassa
+contiene pozioni e armi particolari. Sul soffitto e sulle pareti sono raffigurate immagini
+di mercenari che conducono battaglie. Sono anche raffigurate le loro vittorie. A nord vedi la
+sala delle torture, a est vedi la sala d'allenamento.
+
+~
+408 171798694412 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40818 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40819 0
+D4
+Una porta di legno.
+~
+porta~
+1 498928 6854 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40818
+ &9&bSala delle torture&0 (evoluta)~
+Sei entrato nella sala delle torture. Non riesci a definire il colore delle pareti, perche'
+e' un misto tra marrone di marcio, nero della vernice e rosso per gli schizzi di sangue. Vedi
+molto sangue asciugato per terra. Vedi una sedia con spine e lacci con affianco un tavolino pieno
+di strani attrezzi per le torture. Sul soffitto sono raffigurate le facce di molti demoni e
+sono appese alcune teste. A sud vedi la sala d'entrata.
+
+~
+408 68719479308 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40817 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40819
+Un cantiere abbandonato~
+Questo cantiere � qui da cos� tanto tempo ormai che � caduto in disuso.
+Cumuli di terra e qualche trave testimoniano tristemente un'opera iniziata
+e mai terminata. Speriamo che l'architetto non sia scappato con i soldi!
+~
+408 68719479308 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40817 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40820
+ &1I&bl &0&1C&bovo&0 (evoluta)~
+L' atrio del covo
+Una stanza molto ampia priva di luce solare, umida e fredda. 
+Una piccola fiammella accesa illumina i numerosi affreschi che coprono 
+le mura, immagini che ritraggono scene di sanguinose guerre passate 
+nelle terre della Daresia. Sei appena entrato e ti senti insicuro, 
+abbandonato e afflitto.
+
+~
+408 206158432780 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40821 0
+D5
+Una porta di legno.
+~
+porta~
+1 468194 6879 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40821
+ La Camerata (evoluta)~
+Un ampia Camerata illuminata da numerosi lumi e candelabri, una stanza 
+riscaldata dal calore di un grande camino, un tappeto dallo stile 
+persiano copre il pavimento isolandolo dal umido, anche in questa 
+stanza le pareti sono decorate da affreschi, figure di nudi femminili 
+in paesaggi di lontane terre.
+
+~
+408 68719479308 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40822 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40820 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40823 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40822
+ Lo studio (evoluta)~
+Lo studio
+Un enorme Stanzone pieno di meraviglie, noti numerosi oggetti rari di 
+tutte le terre della Daresia, una camera calda e illuminata da due 
+candelabri, ci sono sculture e quadri molto costosi, pelli di animali 
+coprono il pavimento e trofei di guerra le mura. I dubbi e le 
+incertezze sul profilo del proprietario aumentano: Un Borghese, un 
+Aristocratico, Un gran Signorotto di citt ??? Non hai mai visto tante 
+meraviglie in vita tua !!!
+
+~
+408 68719479308 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40821 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40824 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40823
+ La Dispensa (evoluta)~
+La Dispensa
+Una grande sala, dove solo gli odori sembrano saziarti. Noti un 
+disordine di patelle, piatti, ciotole e bicchieri. Gli armadi sembrano 
+scoppiare dalle provviste, noti l'abbondanza e la lussuria.
+
+~
+408 68719479308 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40824
+ La Mansarda (evoluta)~
+Una fresca mansarda piena di casse e armadi, alta 2 metri circa e molto 
+larga rispetto alle altre camere. Noti numerosi oggetti riparati dalla 
+polvere, custoditi con ordine e cura.
+
+~
+408 68719479308 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40822 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40825
+ &0La torre &0&bOscura.&0 (pietra)~
+Varchi la soglia di un Oscura Torre. Il portale alle tue spalle porta inciso un
+Oscuro Drago Nero con occhi di &1&bfuoco&0. La stanza e' priva di finestre e le
+pietre di marmo nero la rendono piu' cupa. Piccoli globi &6&bcristallini &0fluttuano
+sul soffitto, fatto con travi di quercia, ed illuminano il centro della stanza.
+Una lastra di quarzo appare ai tuoi occhi. Vi sono delle scritte scolpite sopra
+che a poco, a poco, come per magia, prendono forma davanti ai tuoi occhi:
+
+              Benvenuto nell'Oscura Torre possano le ombre
+             guidarti verso un cammino votato all'oscurita'.
+
+                               &1&b-:&0&b[&4&bS&0&bo&4&bD&0&b]&1&b:-&0
+
+~
+408 171798694412 0
+D2
+Una porta di legno.
+~
+porta~
+1 801467 22102 167
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40826 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40829 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40826
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 171798694412 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40827 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40827
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 2572 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40828 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40826 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40828
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 171798694412 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40827 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40829
+La stanza delle &1&bTorture&0 (pietra)~
+Ti accorgi di essere sceso in una cavita' scavata nella roccia. La luce
+arriva attraverso una grata, le cui ombre fanno apparire tutto deformato e
+misterioso. Le pareti sembrano quelle di una caverna, buia, umida, scura.
+Improvvisamente sbatti su qualcosa. Controlli meglio e ti accorgi che si
+tratta di un tavolo circolare munito di cinghie con degli spunzoni coperti
+di &1&bsangue&0 che pendono dal soffitto. In un lato della stanza scorgi una
+sedia anch'essa e' munita di cinghie ma collegata ad una strana scatola.
+Vi sono numerose machine nella stanza, costruite per scavare nell'&6&banimo &0e
+per generare atroci sofferenze a coloro che le provano.
+Nell'aria c'e' odore di &4morte&0... Una strana scritta vi e sul muro:
+
+           Possano gli dei avere pieta' della tua &6&banima&0
+       poiche qui in questa stanza se le tue parole non usciranno
+                   tra atroci sofferenze periranno.
+                              &1&b-:&0&b[&4&bS&0&bo&4&bD&0&b]&1&b:-&0
+
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40830
+ &7Oscuro Pentacolo&0 (evoluta)~
+Appena entri una strana sensazione ti avvolge...  Ma dove sei capitato?  Ti
+pare di aver varcato non gia' una porta ma un confine tra lo spazio e il tempo
+a te conosciuti e qualcosa di completamente diverso...  Di assolutamente alieno
+alla tua esperienza quotidiana.  Tutto e' &4&bOscurita'&0 intorno a te e i tuoi
+sensi non ti sono di nessun aiuto a capire dove tu possa essere finito.  Ti
+giri intorno e tutto cio' che riesci a scorgere sono profondita' nere dentro
+altre profondita', incubi dentro altri incubi...  Tutto cio' che vorresti fare
+e' fuggire da qui!!  All'improvviso, una voce parla all'interno della tua
+mente...  Sei nella dimora di un &1&bOscuro&0...  Prega i tuoi insignificanti
+Dei di esserne ospite e non nemico, perche' la punizione per chi varca questa
+soglia senza permesso e' non gia' la morte del corpo...  Ma l'&4&bOscurita'&0
+eterna per l'anima tua.  &4&b-Sod-&0
+
+~
+408 171798694412 0
+D0
+Una porta di legno.
+~
+porta~
+1 353341 22102 167
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40833 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40832 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40834 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40831 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40831
+ &7&bStanza del Buio&0 (evoluta)~
+Sei &1solo&0... come mai in vita tua. Tutto intorno a te e' &4&bOscurita'&0. Tutto cio' che sei stato, 
+sei, e sarai qui non ha semplicemente senso: non sei altro che &7nulla dentro altro nulla&0, la tua 
+esistenza e quella di qualsiasi altra cosa pare non avere nessuna ragione di essere. La tua mente non
+puo' sopportare una tale mancanza di appigli alla razionalita', gia' ti pare di esserti dimenticato come 
+siano la luce del sole o il volto di una persona..  l'unica cosa che ti resta da fare e' fuggire fuori di qui il 
+piu' presto possibile, pena la follia eterna!
+
+                                                  &4&b-SoD-&0
+
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40832
+ &7&bStanza delle Lacrime&0 (evoluta)~
+Varchi la soglia e subito le tue orecchie sono lacerate dal &bpianto&0... non sai di chi, sai solo che 
+sono tante le persone che &bpiangono&0 tutto intorno a te, una moltitudine!
+Senti i suoni di persone disperate che &bsinghiozzano&0, altre &bpiangono&0 piu' sommessamente 
+ma non puoi vedere chi sia ad emettere questi strazianti suoni.
+Allunghi le mani per cercare di toccare una di queste persone piangenti, ma senti solo vuoto e 
+&4&bOscurita'&0.
+Il dolore e la disperazione che suscitano questi &bpianti&0 stanno per far scoppiare in lacrime anche 
+te, forse e' meglio allontanarsi subito da questo luogo dove pare che la luce non sia mai penetrata fin 
+dai tempi della Creazione.
+
+                                              &4&b-SoD-&0
+
+~
+408 68719479308 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40833
+ &7&bStanza dei Lamenti&0 (evoluta)~
+Un brivido &8freddo&0 come la morte ti solca la schiena non appena entri qui dentro. &bLamenti&0... 
+senti la voce sommessa e rotta di centinaia, migliaia di persone che rantolano e si &blamentano&0 in 
+continuazione; ogni tanto ti pare di carpire una frase intera in mezzo alle altre voci e senti che il 
+&8freddo&0 ti serra il cuore come una morsa d'acciaio.
+Le voci stanno tutte invocando la &7morte&0! Non osi immaginare cosa tutto questo significhi, ma sei 
+sicuro di non volerlo scoprire.
+
+                                                 &4&b-SoD-&0
+
+~
+408 68719479308 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40834
+ &7&bStanza del Dolore&0 (evoluta)~
+Una fitta ti attanaglia il ventre non appena entri in questa stanza, un &1dolore&0 che mai avresti 
+immaginato potesse esistere. Davanti agli occhi ti si dipanano scene   tremende: atti di &7violenza&0 
+cosi terribile ed insensata che mai avresti potuto nemmeno immaginare nei tuoi incubi piu' bui. 
+Non e' una stanza dove si fanno torture, no: e' &1&bTortura&0 essa stessa, il solo esser qui e' tortura,
+il &1dolore&0 permea ogni centimetro.
+Il solo pensiero che possa esistere un posto come questo fa vacillare le tue convinzioni e la tua fede: 
+a cosa puo' mai servire vivere se una tale &4&bOscurita'&0 e' presente nel tuo stesso mondo? 
+
+                                               &4&b-SoD-&0
+
+~
+408 68719479308 0
+D1
+Entrata in costruzione~
+entrata~
+0 -1 40830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40835
+&8&9Una piccola entrata&0~
+&8&9Si tratta di una piccola stanzetta quadrangolare, dalle pareti ricoperte di pietra chiara,
+ben tagliata. E' sormontata da una bassa volta a crociera, ed in ognuna delle sue quattro
+sezioni e' stato eseguito un magnifico affresco, rappresentante battaglie dimenticate persino
+dai saggi. In questa stanza c'e' solo un armadio a muro di legno, dalle ante cesellate, ed
+un tavolo con diverse sedie. La luce proviene da due feritoie sulla parete che da' sulla strada,
+ai due lati della porta d'ingresso, e dalla parte opposta si apre un breve corridoio avvolto
+nella penombra.&0
+~
+408 171798694412 0
+D0
+~
+~
+0 0 40837 0
+D2
+Una porta di legno.
+~
+porta~
+1 251541 22103 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40836
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40835 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40837
+&8&9Una saletta circolare&0~
+&8&9E' una stanza pefettamente rotonda, che sembra trovarsi leggermente sotto il livello del terreno,
+probabilmente scavata direttamente nella viva roccia del Promontorio. Nella parte centrale ci sono
+diversi tavoli di legno disposti ad anello, coperti di erbe, alambicchi e distillatori. Sulla parete
+si apre anche una piccola forgia per i metalli, accanto alla quale sono appese diverse armi appena
+forgiate. Verso Est c'e' una seconda porticina di legno, rinforzata con fasce di ferro, da cui si
+accede ad un altro ambiente, completamente nascosto dall'ombra.&0
+~
+408 68719479308 0
+D2
+~
+~
+0 0 40835 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40838
+La locanda dei pescatori~
+Il pavimento in legno che ricopre la stanza sembra molto antico, e sembra
+aver retto bene il passare degli anni, anche se qualche scricchiolio ogni
+tanto lo lascia trapelare. Sulle pareti, anch'esse di legno, sono appesi
+quadri raffiguranti molti posti della Daresia. Dietro ad un bancone sono
+esposte molte bottiglie di alcolici tipici. In un angolo c'e' la cucina,
+composta interamente di pietra.
+~
+408 171798694412 0
+D1
+Una porta di legno.
+~
+porta~
+1 470773 22103 167
+D3
+~
+~
+0 0 1467 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40839
+&4La torre del Promontorio&0~
+Una stanza circolare, estremamente semplice e disadorna.  Lo stile
+spartano e' compensato da qualche oggetto di valore sparso qui e
+li': oggetti rari e misteriosi che il padrone di casa ha portato
+da tutte le parti della Daresia.
+~
+408 171798694412 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 22103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40840
+ &6&8La stanza degli ospiti. (pietra)~
+Essenziale, ma curata nei particolari, chi vi e' ospitato  si sente molto
+a suo agio, come a casa propria .
+
+~
+408 68719479308 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40842 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40760 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40841
+ &7&8 Il magazzino&0 (pietra)~
+&7&7La stanza e' spoglia di arredamento, solo un grande fratino di legno
+massello di noce con austere panche intorno.  Tre pareti sono ricoperte di
+pietre di tufo e peperino, una di terra e vi trovano alloggiosvariate bottiglie
+di vini pregiati.  Dal soffitto travi in legno sostengono prosciutti, salami,
+salsicce ed ogni altra qualita' di leccornia.  Il resto della stanza e' adibito
+magazzino delle pietre, travi, preziose e quant'altro faccia parte del lavoro
+di Koreos e Alejandra.  &0
+~
+408 34359740940 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40842
+ Il &8&7G&0&8i&4a&1r&5d&6i&3n&4o (pietra)~
+Un alto muro ricoperto di edera bianca, protegge il giardino da sguardi
+indiscreti.  Al centro una stupenda fontana, in marmo rosa con vasca circolare,
+stupende ninfee dai bianchissimi fiori galleggiano sulle limpide acque.  
+Alcune statue fanno da cornice ad un magnifico tappeto di erba verde,
+curatissimo, ed alberi secolari propagano la loro ombra e ospitano uccellini
+variopinti e scoiattoli instancabili.    
+~
+408 34359740940 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40843
+ &9Un entrata nascosta.&0 (Cimmura) (pietra)~
+Prosegui a nord, attraverso un tunnel, noti del muschio sulle pareti, e dei &2rampicanti&0
+si aggrappano sopra alcune colonne semidistrutte.
+Sembra l'entrata ad un &b&7antico tempio&0, e' molto buio, non sembra ci sia traccia di
+esseri viventi... All'improvviso un'odore di &1zolfo&0 bruciato... Hai un capogiro, ma ti riprendi
+quasi subito.
+Due statue sembra che ti fissino, una ha sembianze &b&4maschili&0, e l'altra &5femminili&0...
+Entrambe impugnano due pugnali.
+Sembrano fatte per simboleggiare l'uno il &7bene&0 e l'altra il &9male&0.
+Vedi una specie di &6altare&0 tra la &2vegetazione&0 al centro dell'enorme stanza.
+
+~
+408 206158432780 0
+D2
+Una porta di legno.
+~
+porta~
+1 248519 2434357 167
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40844 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40844
+ &b&7Sotto l'altare&0 (Cimmura) (pietra)~
+Sei sotto l'&6altare&0, qui la vegetazione non e' penetrata.
+La stanza e' stranamente &2luminosa&0, pur non essndoci fonte di luce. Sembra che le 
+pareti siano &b&7fluorescenti&0, e strane scritte sono incise nella &b&7pietra in alto&0... Deve
+essere &2Elfico&0.
+Il pavimento e' di marmo &9nero&0, riesci a specchiarti perfettamente in esso, mentre attorno a
+te vedi tanti affreschi raffiguranti un &6guerriero &0vestito di &2verde&0, con due pugnali nelle mani.
+La stanza sembra molto lussuosa, e' grande, eppure e' allo stesso tempo semplice.
+Una scala conduce all'altare o al piano sottostante.
+
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40843 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40845 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40845
+ &b&7La camera &1rossa&0. (Cimmura) (pietra)~
+Scendi in profondita', e vedi le pareti che continuano ad emettere la solita &3luce&0...
+Stavolta il pavimento e' di &1pietra rossa&0, e la superfice e' cosi' riflettente che crea un 
+&b&1bagliore soffuso&0 in tutta la stanza.
+Strani &7simboli&0 costeggiano le pareti, non riesci a capire cosa possano significare.
+Un enorme quadro alla parete nord raffigura come un'&9ombra&0 di una persona. E' una figura 
+&5femminile&0 sospesa in aria, sembra che stia cadendo dall'alto.
+La stanza e' grande, ma l'aspetto &9oscuro&0 la rende estremamente claustrofobica.
+La tua curiosita' continua a farti guardare intorno, ma noti solo alcune &1rune&0 sul bordo alto 
+delle pareti in &1pietra&0.
+La scala continua dall'alto verso il basso.
+
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40844 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40846 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40846
+ &b&7La camera da letto&0. (Cimmura) (pietra)~
+Entri in una camera da letto, le pareti sono ornamentate da bassorilievi in in &b&7marmo bianco&0.
+L'&W&7argento&0 e' stato usato senza economia, e gli ornamenti non si sprecano tutto intorno.
+La stanza e' ben arieggiata, al contrario della sua posizione, sara' per via di quei piccoli buchi fatti
+in alto nelle mura.
+Il &6letto&0 a baldacchino, al centro nella parete nord, e' ricoperto di &1lenzuola e tendine rosse&0. 
+Sembra un letto molto lussuoso, noti subito i suoi intarsi in &W&7argento&0.
+Un grande armadio in legno di mogano e' appoggiato alla parete sinistra, possiede molte ante, ed e'
+riccamente decorato.
+Alti &3candelabri&0 accesi sono posti ai 4 angoli per illuminare soffusamente la stanza.
+Senti odore di incenso, ed una sensazione di benessere ti pervade...
+La scala che viene dall'alto, si conclude verso il basso.
+
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40845 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40847 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40847
+ &b&7La camera &9Nera&0. (Cimmura) (pietra)~
+Marmo &9nero&0, in tutte le direzioni...
+Eppure riesci a distinguere ogni cosa qui sotto.
+Grandi &b&7statue&0, tutte sull'attenti, sembrano formare un'&1esercito&0 di &b&6pietra&0. Queste figure ai lati est ed
+ovest della stanza raffigurano probabilmente i guardiani di questo luogo.
+Grandi armadi occupano gran parte dello spazio, ma la stanza ti sembra ugualmente grandissima.
+Una scritta sembra fatta col sangue sulla parete nord sotto spiega il perch della dualit bene-male:
+&0&1"Keter, Chokhma', Malkhut."&0 Riesci a leggere fino a questo punto, il resto non ti e' per nulla chiaro...
+Deve trattarsi di una strana religione.
+Sotto i tuoi piedi, il &9marmo nero&0 riflette la tua immaggine... La guardi e ti senti di dover pensare.
+Una scala conduce verso l'alto
+
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40846 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40848
+ &8&3La Tana del Saladino&0 (evoluta)~
+Ti cali prudentemente per un pozzo dal diametro di circa 40 centimetri...
+Ti trovi cosi' in una piccola anticamera illuminata solamente dalla fioca
+dalla fioca luce di qualche candela.
+Nonostante l'ubicazione non sia delle piu' attraenti, la stanza e' stata
+strutturata con i piu' pregiati materiali.
+Il tuo sguardo si posa su di un'insegna incisa sulla pietra dai caratteri 
+chiari quanto terribili:
+&1"IVI E' IL REGNO DEL GRANDE SALADINO, CHI OSERA' PROFANARE LA SUA DIMORA 
+SARA' CONDANNATO A RESTARE CON LUI PER TUTTA L'ETERNITA'!"
+
+&0Avanzando sul pavimento in marmo il tuo piede tocca qualcosa...
+
+&8&1Una lancia d'argento ti manca di un soffio e va a cadere a terra!
+
+&5Meglio essere prudenti qui!&0
+
+~
+408 171798694412 0
+D4
+Una porta di legno.
+~
+porta~
+1 128891 21322 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40849
+Villa Elessar~
+E'una stanza dalle &Bpareti&d tutte &Bblu&d che fanno 
+da sfondo all' arredamento in legno chiaro. Sul pavimento quattro 
+splendidi tappeti finemente decorati conferiscono alla stanza un tono 
+di morbidezza ed intimita'.Al centro della stanza un letto con un elegante
+&Bcopriletto&d anch'esso &Bblu&d intessuto di trame color &Zargento&d e &rporpora&d.
+Sul soffitto &bblu notte&d piccole stelle cangianti come gemme 
+dalle mille sfaccettature.
+~
+408 171798694412 0
+D4
+~
+~
+0 0 40236 0
+D5
+Una porta di legno.
+~
+porta~
+1 467650 22101 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40850
+ &0&1&bLa cantina (pietra)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttra su massicci blocchi di marmo e granito, visibili
+sia dallesterno che dallinterno e componenti piu dei due terzi del materiale
+utilizzato per la costruzione totale delledificio. Le uniche parti realizzate in
+metallo sono difatti parti minori della struttura della parte superiore dellabitato
+mentre il legno viene per lo piu utilizzato allinterno come isolante a basso costo
+e per le tegole presenti sul tetto in grande quantita. La struttura esternamente ha
+unaria piuttosto solenne e borghese con le sue pietre perfettamente incastonate come
+in un complesso mosaico.
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40851
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 34359740940 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40798 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40852
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 34359740940 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40853 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40479 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40853
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 34359740940 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40852 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40854 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40854
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 34359740940 0
+D1
+Entrata in costruzione~
+entrata~
+0 -1 40853 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40855
+&7&bLa &1Roccaforte &2di &3Darnos&0~
+Attraverso un ampio portale sei giunto nel giardinetto anteriore della Roccaforte del ducato di
+Darnos. L'imponente costruzione in pietra si staglia imponente di fronte a te, lasciandosi senza
+respiro, attonito nel mirare una cosi' grande meraviglia.
+Non puoi far altro che ammirare anche le molteplici varieta' di piante e fiori del giardino...piante 
+esotiche si mescolano a piante ornamentali, generando una moltitudine di colori tale da sciogliere
+anche il piu' duro dei cuori.
+Percorrendo il ciottolato del giardino giungi all'ingresso dell'edificio. Un portone in legno
+massiccio ornato d'oro si spalanca facilmente al tuo arrivo e da quel poco che riesci a vedere stai
+per entrare in un grosso salone.
+
+~
+408 171798694412 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40856 0
+D5
+Una porta di legno.
+~
+porta~
+1 210948 6858 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40856
+ &7Salone d'ingresso&0 (pietra)~
+Ti trovi in un grosso salone illuminato da un maestoso lampadario con penduli in diamante. La luce,
+riflessa, pervade tutt'intorno creando un forte bagliore. L'arredamento e' semplice: due armadi su
+un lato, una scrivania sull'altro. Il centro della sala e' occupato da un grosso focolare che permette
+di scaldare la stanza nel gelido inverno Sendariano.
+Sulle pareti sono appesi quadri raffiguranti gli angoli piu' belli della citta' di Lamorka: il porto
+vecchio, i caseggiati pittoreschi del quartiere residenziale, l'alba sulla spiaggia appena fuori dalla
+citta', la valle degli Dei con i suoi magnifici templi.
+Se ad est un massiccio portone ti impedisce di proseguire nel tuo cammino, ad ovest hai libero
+accesso nel salone commemorativo del ducato.
+
+~
+408 34359740940 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40855 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40857 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40857
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 34359740940 0
+D1
+Entrata in costruzione~
+entrata~
+0 -1 40856 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40858
+ &1Una calda cucina &0 (evoluta)~
+Al primo passo in questa stanza le tue narici vengono pervase da un profumo
+di pane fresco e carne arrosto.
+Il pavimento e' sempre ricoperto da un soffice manto di erba fresca e ben
+curata, pero' al posto delle felci ci sono numerosi funghi commestibili,
+concentrati attorno ai 7 ceppi di tronco al centro della stanza.
+Questi curiosi ceppi, ancora ben ancorati da solide radici al terreno, sono
+disposti a cerchio come seggiole attorno a quello piu' grande, somigliante
+ad una grande tavola.
+Alcuni conigli, probabilmente le ultime prede del padrone di casa, sono
+appesi non lontano da una grande piastra di metallo costantemente riscaldata
+da una specie di vulcano in miniatura.
+E' sicuramente la stanza piu' calda della casa.
+
+~
+408 206158432780 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40859
+&6La Villa di &7Esmeralda&0~
+Appena entri nella villa, un calore innaturale si diffonde 
+nel tuo corpo. Dopo un attimo di incertezza e di paura, 
+ti accorgi che non e' una forza negativa, bensi' all'interno di 
+questa casa &7ti senti protetto e al sicuro da ogni male&0.
+Ti guardi intorno e osservi ogni singolo oggetto che ti circonda:
+vi sono molti gioielli e molte opere, segno del profondo amore
+che &7Esmeralda&0 nutre per il suo lavoro, sua principale passione
+e occupazione in tutti questi anni.
+~
+408 206158445068 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40915 0
+D5
+Una porta di legno.
+~
+porta~
+1 132283 6855 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40860
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 171798694412 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40861
+La dimora di Avellion~
+Appena entrato avverti una sensazione di pace improvvisa, l'ambiente e' davvero rilassante
+I muri sono color &5&6azzurro cielo&0&0, le tende bianche assomigliano a delle nuvole
+Ci sono spade di ogni tipo appese alla parete nord, dove e' disegnata un'enorme luna crescente [)]
+L'arredamento, i soprammomili, tutto e' scelto con un gusto fine e delicato:
+sei nella casa di un Elfo.
+~
+408 206158432780 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40886 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40887 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40888 0
+D4
+Una porta di legno.
+~
+porta~
+1 540311 6860 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40862
+ &4La torre ferrea&0 (pietra)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttra su massicci blocchi di marmo e granito, visibili
+sia dallesterno che dallinterno e componenti piu dei due terzi del materiale
+utilizzato per la costruzione totale delledificio. Le uniche parti realizzate in
+metallo sono difatti parti minori della struttura della parte superiore dellabitato
+mentre il legno viene per lo piu utilizzato allinterno come isolante a basso costo
+e per le tegole presenti sul tetto in grande quantita. La struttura esternamente ha
+unaria piuttosto solenne e borghese con le sue pietre perfettamente incastonate come
+in un complesso mosaico.
+~
+408 206158432780 0
+D5
+Una porta di legno.
+~
+porta~
+1 828930 6860 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40863
+Il &2&bgiardino&0 della &7&0Pace&0~
+Una fresca oasi &2&bverde&0 dove gli ospiti possono  passare rilassanti
+giornate. Robusti tavoli in &3legno&0 scuro circondati da panche, ti
+invitano alla conversazione. Un &b&2prato&0 coperto di piccole &b&7marg&3he&7rite&0
+dai petali appena &5rosati&0 ti riempie il cuore di dolcezza. In
+lontananza all'orizzonte noti l'incresparsi delle &b&4on&7de&0 mentre il
+profumo e il sapore di salsedine ti aggrediscono dolcemente il viso.
+Due dile di alti &2&balberi secolari&0 gettano la loro ombra sul vialetto
+che conduce alle &b&6fontane&0 e alla porta di casa.
+~
+408 206158432780 0
+D1
+Una porta di legno.
+~
+porta~
+1 810428 22112 231
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40864 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40864
+La &6stanza &2dei &3dolci &6ricordi&0~
+Un invitante salotto ti accoglie: due divani in pelle &5rosa&0 antico sono
+disposti uno di fronte all'altro, mentre al lato destro della stanza
+il &b&1f&3u&1o&3c&1o&0 scopiettante del &1camino&0 ti riscalda. Un mobile basso di
+nero e lucido &b&9ebano&0, con sopra trovi piccoli e semplici oggetti
+preziosi per il loro significato, circonda il resto della stanza.
+Qui gli ospiti si rilassano dopocena nelle &b&6fredde &4serate &7invernali&0,
+conversando piacevolmente con un bicchiere di liquore in mano.
+~
+408 68719479308 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40865 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40865
+La &b&7perla&0 di &b&4fiume&0~
+In mezzo alla stanza vedi un lungo tavolo di &b&9ebano nero&0 circondato da
+quattro panche, e fresche &5peonie&0 appena raccolte troneggiano in un
+vaso &2&bverde smeraldo&0 al suo centro. Lungo le pareti mobili e ripiani di
+legno chiaro contrastano; su di essi noti vari utensili. Attorno a te
+ripiani di lavoro e un forno a legna, e le varie dispense ricche di
+cibo fresco e non, pronte ad ogni evenienza e ad accogliere amici
+inaspettati in ogni momento. Qui Miriam e Kain svolgono le loro
+battaglie ridendo scherzosamente. Dalla finestra sopra un lavello in
+marmo grezzo il &b&4blu cobalto&0 del &4mare&0 ti  riempie il cuore di emozione.
+~
+408 68719479308 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40866 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40864 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40866
+&4Risacca blu&0~
+Una vasca circolare di marmo incavata nel pavimento in mezzo alla
+stanza ricolma di &6&bacqua cristallina&0 e' pronta ad accogliere i vostri
+momenti di relax... piccole boccette di oli profumati stanno sul suo
+bordo, colorati e invitanti con i loro profumi speziati. Qui Kain e
+Miriam si preparano prima di rintanarsi nel loro buio invitante e
+profumato nido d'amore...
+~
+408 68719479308 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40867 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40867
+Stanza del gioco infinito~
+Un profumo di &b&9incenso&0 alla &3liquirizia&0 ti avvolge appena entri. Un letto
+semplice costituito da un basamento in legno e coperto da un alto
+materasso di &7piuma&0 occupa buona parte della stanza. Le lenzuola di &b&7lino
+bianco&0 con piccoli e semplici &5fiori&0 ricamati da Miriam ti invita a
+un dolce riposo... ai lati vedi dei comodini con le loro iniziali K&&M,
+mentre di fronte degli armadi racchiudono i loro indumenti di
+battaglia, di riposo e dei momenti di festa. Dalla finestra posta al
+lato dove riposa Kain si intravede il &b&4mare&0... il suo rumore ti culla
+rievocando i momenti passati in questa stanza con la persona che piu'
+ami.
+~
+408 68719479308 0
+D5
+Entrata in costruzione~
+entrata~
+0 -1 40866 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40868
+ &b&4La Casa sul Lago&0 (pietra)~
+Una strana vertigine ti pervade non appena varchi la soglia, 
+le pareti della casa non sembrano ben definite e fatichi a 
+mantenere lo sguardo fisso in una direzione. 
+Senti il tuo corpo leggero e, guardando verso il basso,ti accorgi 
+di stare VOLANDO sopra un immenso lago sotterraneo dall'&6&bacqua limpidissima&0 e distingui a malapena 2 capanne,una a nord e una a sud, 
+costruite sopra quella che sembra per tutto essere una spiaggia. 
+Poco alla volta NOTI che una serie di oggetti compare e scompare davanti a te.
+
+~
+408 171798694412 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40869 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40870 0
+D3
+Una porta di legno.
+~
+porta~
+1 765960 22141 161
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40869
+&b&2La Capanna Nord&0 (pietra)~
+Quella che da fuori poteva sembrare un'abitazione spoglia e disadorna ti
+accoglie nella sua magnificenza.  Un camino in pietra, con la fiamma
+sfavillante, illumina e scalda la stanza; una libreria carica di vecchi tomi si
+appoggia imponente a una delle pareti e ti lascia estasiato splendidi arazzi e
+quadri raffiguranti la Daresia completano l'arredamento.
+&b&3BENVENUTO!&0
+~
+408 68719479308 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40870
+  &b&1La Capanna Sud&0 (pietra)~
+Quella che da fuori poteva sembrare un'abitazione spoglia e disadorna ti accoglie nella sua magnificenza. Un camino in pietra, con la fiamma sfavillante, illumina e scalda la stanza
+una libreria carica di vecchi tomi si appoggia imponente a una delle pareti e ti lascia estasiato
+splendidi arazzi e quadri raffiguranti la Daresia completano l'arredamento.
+&1&bBENVENUTO!
+
+~
+408 68719479308 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40871
+ &9Covo Alcionico&0 (evoluta)~
+La stanza  a forma circolare con circa sei metri di diametro 
+e sul pavimento puoi vedere un mosaico che raffigura 
+un cerchio bianco con un puntolino nel suo centro.
+Osservando il puntolino noti una strana incisione dal significato oscuro: "&9&bFa bala l'occ'!&0"
+Una lanterna  l'unica fonte di luce.
+Una botola porta al piano di sotto
+
+~
+408 171798694412 0
+D3
+Una porta di legno.
+~
+porta~
+1 544003 22104 167
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40872
+ &7&bStanza di allenamento alcionico&0 (evoluta)~
+Un'altra stanza circolare di circa sei metri di diametro con la parete,
+il pavimento e il soffitto fatti interamente di granito eleno lucidato.
+Sei fori di circa 50 cm nel muro illuminano la stanza
+guardando meglio capisci che portano la luce attraverso un gioco di specchi...
+probabilmente i fori sbucano in superficie.
+
+Una scala porta verso il basso.
+
+~
+408 103079217676 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40871 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40873 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40873
+La Cucina del Ladro di Polli~
+Circolare, di circa sei metri di diametro, con sei fori luminosi sulla parete,
+questa stanza e' stata curata in modo molto particolare, ed appare molto confortevole.
+E' interamente imperlinata con assi di noce, e ad est si trova un camino in granito grezzo, con una cappa alta e trinagolare.
+Sopra di questo e' inciso a fuoco un antico proverbio:
+&1"A chi non beve il vino, il destino tolga il sorriso"&0
+Una scala chicciola porta verso il basso.
+~
+408 2572 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40872 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40874 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40874
+ &7Camera da letto di Hidden&0 (evoluta)~
+La stanza  essenziale: un grande letto a tre piazze e di fronte a questo un mosaico 
+dalle piastrelline minuscole raffigurante tre leggiadre fate dei boschi che giocano con alcuni gnomi grassottelli, sullo sfondo della scena un grande monte 
+si erge fiero come a proteggere i personaggi.In un angolo della stanza una libreria 
+zeppa di libri di fiabe, tesori perduti lettere e pergamene.
+Una scala a chiocciola porta verso il basso.
+
+~
+408 171798694412 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40873 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40875 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40875
+ &7La stanza delle imprese di Hidden&0 (evoluta)~
+Qui Hidden studia e prepara le sue imprese.
+Da un lato noti una libreria con molti testi e manuali "tecnici".
+Sul tavolo numerosi strumenti del mestiere.
+Armadi e cassapanche fanno immaginare tesori e bottino.
+~
+408 68719479308 0
+D4
+Entrata in costruzione~
+entrata~
+0 -1 40874 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40876
+&7&bVilla Caledor&0~
+Questa e' la villa della famiglia Caledor.
+Sono passati anni da quando la prima pietra e' stata deposta.
+Ma tutto sembra non essere cambiato. E' tutto come allora.
+Eppure sono passati anni!
+Pur essendo abbastanza vecchia, la villa e' tenuta in ottimo stato:
+Il giardiniere cura il giardino, la domestica le faccende di casa, il cuoco la cucina....
+Questa villa emana un'aria strana, un aria di gioia e felicita' ....
+Se ti rilassi per un attimo riesci a vedere le varie generazioni che hanno vissuto qui...
+Non c'e' che dire! Una giornata trascorsa qui dentro ti rimette in sesto!
+~
+408 171798694412 0
+D2
+Una porta di legno.
+~
+porta~
+1 886683 3086 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40877
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 171798694412 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 6889 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40878 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40878
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 34359740940 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40877 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40879
+&2&bUna Villa nel Verde&0~
+Ti trovi nell'ingresso di una casa che dal
+giardino lussureggiante e dalla facciata imponente
+poteva sembrare lussuosa ma che al contrario  
+all'interno ti meraviglia per la poverta'
+degli arredi ... non c'e' quasi nulla dentro
+a parte un po' di polvere in un angolo.
+Strano pero'.. i muri tinteggiati con tinte
+pastello sembrano far la stanza piu' grande di quel
+che e', e poi tutta questa luce .. da dove viene? 
+Non riesci a vedere ne lampadari ne torce a cui 
+imputarne la causa. E' decisamente strana ...... 
+insieme alla polvere vedi una vecchia pergamena 
+arrotolata .. forse adesso intuisci che non sempre
+agli occhi tutto appare come e' in verita'.
+Sopra la porta d'ingresso campeggia una grande targa 
+dorata con la scritta &b&3L&6o&4M&0.
+~
+408 171798694412 0
+D4
+Una porta di legno.
+~
+porta~
+1 838264 6665 167
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40971 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40880
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 171798694412 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40881
+ &b&1L&9a &1b&9ottega &1d&9i &1R&9odrigo&0 (pietra)~
+Benvenuto nella bottega di Rodrigo! La stanza sembra calda e accogliente, al centro 
+della quale si trova un tavolo con quattro sedie di legno ben fatte. Dietro il tavolo 
+intravedi un camino, le sue fiamme attirano la tua attenzione, sembrano ardere di un 
+fuoco intenso... poco distante dal camino noti un armadio semi aperto, intravedi 
+un'alta uniforme da Accademico e una spada infoderata a dir poco stupenda... potrebbe 
+esser stata forgiata dallo stesso Cromwell!!! Due Finestre molto grandi fanno entrare 
+luce nella stanza, in una intravedi le montagne di Sendaria dove si colloca il 
+Magnifico Castello di Re Owain, nell'altra finestra invece vedi il mare, un enorme 
+distesa blu con qualche peschereccio e nave mercantile che attraccano al porto. 
+
+~
+408 171798694412 0
+D5
+Una porta di legno.
+~
+porta~
+1 439105 6857 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40882
+&b&4"'Il Covo del &1D&9r&1a&9g&1o&9n&1e Rosso&4'"&0~
+La stanza e' fatta di pietre bianche squadrate, disposte ordinatamente seguendo un preciso disegno architettonico. Dall'interno, con dei cocci, e' stato realizzato un mosaico, rappresentante un &1D&9r&1a&9g&1o&9n&1e Rosso&0.
+La pavimentazione segue un disegno romboidale, con dei fregi di colore rosso, che impreziosiscono l'ambiente. Tutto sommato questa casa non ti sembra troppo sfarzosa, anzi!
+I materiali poveri usati per crarla, non fanno altro che far risaltare la sua semplicita', ed allo stesso tempo, la sua caratteristica bellezza.  Di sicuro questo e' un buon posto se vuoi stare tranquillo.
+
+&b&1Sotto il mosaico vedi una scritta che dice: '&0Riposa, giovane demone urlante di Izna&b&1'.&0
+~
+408 171798694412 0
+D3
+Una porta di legno.
+~
+porta~
+1 446730 9886 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40883
+La Dimora dello &b&6-&4@&2Tsunami&4@&6-&0~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttura su una ampia componente di legno di svariati
+tipi, unita alla presenza minore in pari misura di pietra per le fondamenta e di
+metalli per le parti strutturali portanti dell'edificio. Esternamente in ogni caso,
+l'edificio sembra essere realizzato totalmente con travi di costruzione in legno,
+che danno al palazzo unaria alquanto grezza ma tuttavia confortevole.
+~
+408 206158432780 0
+D0
+Una porta di legno.
+~
+porta~
+1 882449 2434953 167
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40884
+ &6La Stanza della &1^^&3&b*&1&bKansai&3*&0&1^^&0 (pietra)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttra su massicci blocchi di marmo e granito, visibili
+sia dallesterno che dallinterno e componenti piu dei due terzi del materiale
+utilizzato per la costruzione totale delledificio. Le uniche parti realizzate in
+metallo sono difatti parti minori della struttura della parte superiore dellabitato
+mentre il legno viene per lo piu utilizzato allinterno come isolante a basso costo
+e per le tegole presenti sul tetto in grande quantita. La struttura esternamente ha
+unaria piuttosto solenne e borghese con le sue pietre perfettamente incastonate come
+in un complesso mosaico.
+~
+408 68719479308 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40883 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40885
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 68719476748 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40886
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 68719479308 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40887
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 68719479308 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40888
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 68719479308 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40889
+La collinetta erbosa~
+Ti incammini su per un piccolo e nascosto sentiero tra gli alberi del parco, quando ad un tratto sbuchi su un'altura.
+Il &b&2prato verdissimo&0 la riveste come un raffinato tappeto Jirochiano.
+Al centro sorge un altare di pietra, ricoperto in parte da muschio e foglie di edera.
+Un'&d&1icona&0 e' affissa sopra di esso.
+In questa parte del parco l'assenza delle fronde degli alberi offre una vista splendida di Deira. Alzando lo sguardo ossevi il cielo lipido e incastonato tra &b&3stelle luccicanti&0 come &b&7diamanti&0.
+Per un attimo ti sembra di aver visto la costellazione di Orione brillare piu' degli altri astri...
+~
+408 206158432924 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40945 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 12508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40890
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 68719479308 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40891 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40893 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40892 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40763 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40891
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 2572 0
+D2
+Entrata in costruzione~
+entrata~
+0 -1 40890 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40892
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 2572 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 40890 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40893
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 2572 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40890 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40894
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 171798694412 0
+D0
+Entrata in costruzione~
+entrata~
+0 -1 12607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40895
+ Edificio in costruzione (evoluta)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+Questo e il tipo di abitato piu raffinato e ricercato, caratteristico
+generalmente delle alte sfere fanatiche in quanto allutilizzazione estrema dei
+metalli nelle loro piu svariate forme. Cosi, esternamente, sotto a sottili strati
+piu' che altro estetici di quarzo, marmo o legna di vario genere, sono presenti
+diversi spessori in ferro o altri metalli costituenti un ottimo isolante dallesterno.
+Internamente la struttura superiore della casa e quasi totalmente realizzata in
+metallo, ad esclusione del tetto in tegole di legno estremamente raffinate.
+~
+408 171798694412 0
+D0
+Una porta di legno.
+~
+porta~
+1 518953 6693 167
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40896 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40896
+ Edificio in costruzione2 (pietra)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttra su massicci blocchi di marmo e granito, visibili
+sia dallesterno che dallinterno e componenti piu dei due terzi del materiale
+utilizzato per la costruzione totale delledificio. Le uniche parti realizzate in
+metallo sono difatti parti minori della struttura della parte superiore dellabitato
+mentre il legno viene per lo piu utilizzato allinterno come isolante a basso costo
+e per le tegole presenti sul tetto in grande quantita. La struttura esternamente ha
+unaria piuttosto solenne e borghese con le sue pietre perfettamente incastonate come
+in un complesso mosaico.
+~
+408 68719479308 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40897 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40895 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40897
+Edificio in costruzione~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+408 2572 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40898 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40896 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40898
+ Edificio in costruzione4 (pietra)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttra su massicci blocchi di marmo e granito, visibili
+sia dallesterno che dallinterno e componenti piu dei due terzi del materiale
+utilizzato per la costruzione totale delledificio. Le uniche parti realizzate in
+metallo sono difatti parti minori della struttura della parte superiore dellabitato
+mentre il legno viene per lo piu utilizzato allinterno come isolante a basso costo
+e per le tegole presenti sul tetto in grande quantita. La struttura esternamente ha
+unaria piuttosto solenne e borghese con le sue pietre perfettamente incastonate come
+in un complesso mosaico.
+~
+408 171798694412 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40899 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40897 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#40899
+ Edificio in costruzione5 (legno)~
+Ledificio emana ancora gli odori caratteristici della calce e della segatura
+prodottasi nella lavoratura e nalla disposizione delle travi piu esterne.
+Nel suo insieme, la casa mostra ora chiaramente limpronta impressa dal suo
+materiale di costruzione dominante, ora non resta che arredarla e personalizzarla
+per renderla qualcosa di piu di una semplice palazzina.
+La casa basa la sua struttura su una ampia componente di legno di svariati
+tipi, unita alla presenza minore in pari misura di pietra per le fondamenta e di
+metalli per le parti strutturali portanti dell'edificio. Esternamente in ogni caso,
+l'edificio sembra essere realizzato totalmente con travi di costruzione in legno,
+che danno al palazzo unaria alquanto grezza ma tuttavia confortevole.
+~
+408 68719479308 0
+D3
+Entrata in costruzione~
+entrata~
+0 -1 40898 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

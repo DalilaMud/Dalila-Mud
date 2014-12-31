@@ -1,0 +1,432 @@
+#19100
+Ingresso al Castello dei Divini~
+   Ti ritrovi davanti all'ingresso della sede del Clan i Divini, un
+immenso portone finemente lavorato funge da entrata al castello, sopra
+di esso e' posta una targa di marmo bianco sulla quale noti alcune
+scritte in oro.
+~
+191 524 0
+D0
+~
+ponte~
+2 19100 2005051
+D2
+~
+~
+0 0 19101
+E
+targa lettere oro~
+Sulla targa e' impressa una scritta che riassume lo scopo del clan:
+"Il male ed il bene uniti per una stessa causa... LA GLORIA!"
+~
+S
+#19101
+Il Salone della Luce~
+   Un meraviglioso salone sferico si apre davanti ai tuoi occhi,
+migliaia di rosoni decorano le pareti e fanno entrare nella stanza
+una strana luce quasi magica.
+Sul pavimento e' steso un bellissimo tappeto rappresentante una scena
+di battaglia.
+Una stupenda scala di marmo porta verso il piano superiore, un corridoio
+si apre verso sud mentre l'uscita del castello si trova a nord.
+~
+191 0 1
+D0
+Vedi l'ingresso al Castello dei Divini.
+~
+~
+0 -1 19100
+D2
+Vedi un lungo corridoio.
+~
+~
+0 -1 19102
+D4
+Vedi una rampa di scale.
+~
+~
+0 -1 19111
+S
+#19102
+Un lungo corridoio~
+   Stai percorrendo un grandissimo corridoio illuminato da qualche finestra,
+le pareti si alzano imponenti ai lati senza che tu ne possa vedere la fine.
+Armi di ogni genere sono appesi ai muri, il corridoio continua verso sud, a
+nord invece si torna nel meraviglioso salone.
+~
+191 0 1
+D0
+~
+~
+0 -1 19101
+D2
+~
+~
+0 -1 19103
+S
+#19103
+Fine del corridoio~
+   Sfere di luce magica illuminano la stanza, una splendida porta in
+ossidiana blocca l'ingresso alla torre castello.
+Il corridoio continua ad est e ad ovest.
+~
+191 0 1
+D0
+~
+~
+0 -1 19102
+D1
+~
+~
+0 -1 19106
+D2
+~
+ossidiana~
+1 -1 19104
+D3
+~
+~
+0 -1 19109
+S
+#19104
+Base della Torre~
+   Ti trovi alla base della torre dei Divini, le pareti risplendono
+di luce magica creata apposta per illuminare stanza, una rampa di
+scale porta verso l'alto ai piani superiori mentre a nord c'e' l'uscita
+sul corridoio.
+~
+191 0 1
+D0
+~
+ossidiana~
+1 -1 19103
+D4
+~
+~
+0 0 19118
+S
+#19105
+Sala della Giustizia~
+   Questa e' la sala dove i membri dei Divini si riuniscono per
+discutere dei problemi interni al clan. Tutti i vari consigli,
+sin da quando il clan e' stato creato, hanno avuto luogo qui.
+Un grosso tavolo di legno bianco e' posto nel mezzo della sala
+ed al centro di esso fluttua una statua a forma di mano che
+emette una forte luce dorata. A nord si torna nel corridoio.
+~
+191 0 1
+D0
+~
+~
+0 -1 19106
+S
+#19106
+Corridoio~
+   Un meraviglioso arazzo rappresentante gli dei che danno la
+benedizione al clan dei Divini e' appeso sulla parete ovest.
+A sud c'e' la porta d'ingresso della Sala della Giustizia
+dove si tengono le riunioni del clan.
+Da nord senti provenire strani rumori che ti mettono un po'
+in agitazione mentre ad ovest si torna alla porta d'ingresso
+della torre.
+~
+191 0 1
+D0
+~
+~
+0 -1 19107
+D2
+~
+~
+0 -1 19105
+D3
+~
+~
+0 -1 19103
+S
+#19107
+Giardino del Male~
+   Appena entri una sensazione di morte ti pervade tutto il corpo,
+ci sono delle strane piante dalle forme contorte e dai fiori neri
+le quali emettono odori nauseabondi.
+Un laghetto rosso sangue si trova al centro del giardino, al suo
+interno puoi vedere strani esseri, un'osservazione piu' accurata
+ti fa capire che sono le anime di tutte le creature uccise dai
+Divini alle quali tocca la sofferenza eterna. 
+A sud ritorni nel corridoio.
+~
+191 0 1
+D2
+~
+~
+0 -1 19106
+S
+#19108
+Giardino del Bene~
+   Al tuo ingresso una sensazione di pace e gioia riempie il tuo corpo,
+la tua mente viene svuotata da qualsiasi idea maligna e i tuoi pensieri
+sono rivolti soltanto a portare il bene ovunque e in qualsiasi modo.
+Varie specie di uccelli, al sicuro tra le bellissime piante che adornano
+il giardino, fischiettano un dolce motivetto.
+Un limpido laghetto sgorga in modo naturale dal terreno.
+L' uscita da questo posto di sogni si trova a sud.
+~
+191 0 1
+D2
+~
+~
+0 -1 19109
+S
+#19109
+Corridoio~
+Una splendida finestra decorata in argento si apre sulla parete est
+mostrando il panorama esterno. A sud c'e' la porta d'ingresso dell'ufficio
+di Rabailak il Supremo del Clan Divini.
+Da nord odi un meraviglioso canto di uccelli e di altri animali mentre ad
+ovest si torna alla porta d'ingresso della torre.
+~
+191 0 1
+D0
+~
+~
+0 -1 19108
+D1
+~
+~
+0 0 19103
+D2
+Nothing.
+~
+porta~
+1 -1 19110
+S
+#19110
+L' Ufficio di Rabailak~
+   L' Ufficio del Supremo e' finemente arredato, una splendida scrivania
+in legno nero e bianco e' posta al centro della stanza mentre armi ed
+oggetti di vario genere decorano le pareti.
+E' qui che Rabailak riceve i membri del clan che vogliono discutere con
+lui in privato.
+A nord si torna nel corridoio.
+~
+191 0 1
+D0
+Nothing.
+~
+porta~
+1 -1 19109
+S
+#19111
+La rampa di scale~
+   Ti trovi al secondo piano del castello dei Divini, un bellissimo scalone
+di marmo porta in alto ed in basso, un corridoio illuminato da torce magiche
+va verso sud.
+~
+191 0 1
+D2
+~
+~
+0 -1 19112
+D4
+~
+~
+0 0 19116
+D5
+~
+~
+0 0 19101
+S
+#19112
+Corridoio centrale~
+Il corridoio, illuminato da torce magiche poste sulle pareti,
+continua a sud, mentre ad est porta verso le camere da letto dei
+membri.
+~
+191 0 1
+D0
+~
+~
+0 -1 19111
+D1
+~
+~
+0 -1 19113
+D2
+~
+~
+0 -1 19115
+S
+#19113
+Le camere da letto~
+   Sei nella stanza del castello che conduce alle varie camere da
+letto offerte da Rabailak ai membri del clan, un odore di sangue
+misto a sudore aleggia in questa stanza. Il tutto sembra provenire
+dal massiccio maggiordomo.
+~
+191 188 0
+D3
+~
+~
+0 -1 19112
+S
+#19114
+La stanza delle donazioni~
+   In questo luogo aleggia una sensazione di bonta', e' qui difatti
+che vengono deposti gli oggetti che possono essere utili ai membri
+piu' deboli o bisognosi.
+~
+191 4284 0
+D3
+~
+~
+0 -1 19115
+S
+#19115
+Corridoio~
+   Un immane silenzio aleggia in questo corridoio, ad est si puo'
+proseguire verso la stanza delle donazioni mentre a sud si puo'
+tornare al corridoio centrale.
+~
+191 0 1
+D0
+~
+~
+0 0 19112
+D1
+~
+~
+0 -1 19114
+S
+#19116
+Sala dei quadri~
+   Vari quadri sono posti sulle pareti ma quello che piu' di tutti
+attira l'attenzione e' quello rappresentante tutti i membri del clan
+con dietro grandi ricchezze. 
+In questo dipinto ogni volta che una persona viene a far parte del
+clan appare magicamente il suo ritratto cosi' che il quadro resti
+sempre aggiornato.
+~
+191 0 1
+D0
+~
+~
+0 0 19117
+D5
+~
+~
+0 -1 19111
+S
+#19117
+La tesoreria dentro il quadro~
+   Questa e' la tesoreria del clan, montagne di oggetti e di soldi
+sono sparsi per questa stanza.
+A sud esci dal quadro e torni nella sala dei quadri.
+~
+191 512 1
+D2
+quadro~
+@quadro~
+1 1 19116
+S
+#19118
+Primo piano della Torre~
+Appena entrato in questa sala ti trovi nel mezzo di un campo di
+battaglia, in qualche modo l'artefice di questo piano e' riuscito a
+dare alle incisioni sulle pareti una sorta di tridimensionalita' che
+porta chi entra in questa stanza al centro del combattimento.
+Puoi salire verso l'osservatorio o scendere verso la base della torre.
+~
+191 0 1
+D4
+~
+~
+0 0 19119
+D5
+~
+~
+0 0 19104
+S
+#19119
+Osservatorio del mondo~
+Sei arrivato alla fine della torre, questa stanza e' aperta,
+un dolce venticello soffia al suo interno, da qui riesci a vedere
+tutto quello che succede nella citta' sottostante, in lontananza
+ad ovest scorgi delle catene montuose mentre ad est ti sembra di
+vedere una grossa citta'.
+Il soffitto di questa stanza e' trasparente cosi' che di notte si
+possano vedere le stelle in tutta la loro bellezza.
+Una rampa di scale riconduce verso la base della torre.
+~
+191 8192 1
+D5
+~
+~
+0 0 19118
+S
+#19120
+Il dormitorio~
+You are in an unfinished room.  Uno stretto e puzzolente dormitorio.  Intorno
+ai lati delle piccole stanze del locale sono disposti dei pagliericci non
+cambiati da parecchi giorni.  L'odore della stalla permane l'aria mentre cerchi
+di stenderti a dormire stretto agli altri avventurieri.    
+~
+191 0 0
+D5
+~
+~
+0 0 1465499
+S
+#19121
+I dormitori~
+   Un lungo corridoio divide le varie stanze della locanda.  Quella in cui
+vieni collocato e' adornata da un tavolino, un armadio e un pagliericcio appena
+fatto, ammorbidito da della pelle di qualche strano animale selvatico.    
+~
+191 0 0
+D5
+~
+~
+0 0 1511535
+S
+#19122
+I Dormitori~
+   You are in an unfinished room.  Un lungo corridoio ti porta verso la tua
+stanza, ricca e confortevole.  Un comodo pagliericcio ti aspetta, da fuori
+trapelano i suoni della brezza notturna che trapassa anche da qualche spiffero
+nel muro...  Mentre sotto di te senti i rumori degli uomini intenti a
+divertirsi nella locanda.    
+~
+191 0 0
+D5
+~
+~
+0 0 1517431
+S
+#19123
+Le stanze da letto~
+   Ampie sale ben arredate sono accessibili da alcuni piccoli corridoi
+scarsamente illuminati.  L'ambiente e' caldo e confortevole, nessun suono passa
+attraverso le spesse mura e il pavimento in mogano, probabilmente l'alto prezzo
+per notte non rende ancora giustizia alla bellezza di questa locanda.    
+~
+191 0 0
+D5
+~
+~
+0 0 1552503
+S
+#19124
+Le stanze da letto~
+   Solo sei piccole camere da letto sono presenti in questa misera lcoanda, il
+legno scricchiola in maniera preoccupante mentre ti avvicini alla porta
+sfasciata della tua stanza.  Un pagliericcio vecchio di giorni ti attende in un
+ambiente tutto sommato caldo grazie al clima favorevole tipico della fine della
+Tolnedra Settentrionale.    
+~
+191 0 0
+D5
+~
+~
+0 0 1448469
+S
+$~

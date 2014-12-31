@@ -1,0 +1,847 @@
+#18901
+un ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 76 0
+D0
+~
+~
+0 0 10356
+S
+#18902
+La stanza del Primo Cavaliere~
+La stanza del Primo Cavaliere e' spartana ma confortevole. Sul lato sud
+c'e' un grande finestra da cui puoi vedere la foresta che si trova vicino
+a Lamorka. Ai lati due grandi Scudi con l'emblema dei guerrieri gaelici.
+Sulla parete est ci sono due grandi armadi CORAZZATI: ti conviene non
+curiosare al loro interno!!!
+Su quella ovest si trovano invece un piccolo letto ed uno scrittoio.
+Su quest'ultimo noti due cose: una pila di Giornali ed alcuni Barattoli
+vuoti.
+~
+189 220 0
+D0
+~
+~
+0 0 10396
+E
+barattoli~
+Senti un odore dolce provenire da essi....ne prendi uno in mano
+e leggi l'etichetta: NUTELLA!!! ah, Nutella.....
+~
+E
+pila giornali~
+Yum Yum!! Pamela Anderson nuda!! e con lei molte altre conigliette di
+PlayBoy!!!
+~
+E
+scudo scudi~
+Sullo scudo vedi un grande leone rosso alato che stringe in una
+zampa una pergamena arrotolata, su campo bianco e verde.
+~
+S
+#18903
+Il Salone privato di Spartakus~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 732 0
+D2
+~
+~
+0 0 10391
+S
+#18904
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18904
+S
+#18905
+La cucina~
+La cucina appare molto disordinata. Ci sono scatole di CHOCOS e
+merendine ovunque. Sul muro risplende lo stemma della GIRELLA
+sacro simbolo del CLAN DELLE MERENDINE. SUlla destra tra i
+fornelli sporchi di pastella per le crepes ed un ombrellone
+istoriato con i volti dei valorosi eroi della casata dei
+Do'Urden, c'e' un frigo tattuato di adesivi dei FLinstones.
+~
+189 732 0
+D1
+~
+~
+0 0 10383
+S
+#18906
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18907
+S
+#18907
+Una casa.~
+Sei nella dimora di Spartakus. Nella grande sala la confusione regna
+sovrana: equipaggiamento militare di tutte le fatte e' ammassato in
+ogni dove, sommergendo armadi e bauli. Sulle pareti, fra librerie e
+scaffalature colme di volumi e documenti, sono affisse diverse mappe
+di Daresia. Una fila di brande testimonia la presenza di numerosi
+ospiti e lo stato pietoso del grosso tavolo centrale racconta di
+lunghe e frequenti riunioni notturne. Un sospetto si affaccia alla tua
+mente... tutto sembra indicare attivita' sediziose e pratiche
+cospiratorie. Che si stia preparando un processo rivoluzionario? Il
+tuo istinto te lo dice... forse la futura storia dellintera Daresia
+sara' decisa (o e gia stata decisa?) tra queste quattro mura.
+~
+189 732 0
+D0
+~
+~
+0 0 9013
+D1
+~
+~
+0 0 18906
+D2
+~
+nebbia argentea~
+0 0 18919
+S
+#18908
+Il rifugio di montagna.~
+Sei dentro il rifugio. E' un locale ben arredato e accogliente.
+Usi questo rifugio per riposarti dalle numerose battaglie.
+Qui puoi lasciare i tuoi oggetti nelle scaffalature. Essi verranno
+custoditi gelosamente.
+~
+189 732 0
+D0
+~
+~
+0 0 246
+S
+#18909
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18909
+S
+#18910
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18910
+S
+#18911
+Una capanna nel verde.~
+Sei all'interno della tua graziosa capanna. Qui di solito vieni
+a riposarti in tranquillita' dalle numerose guerre e battaglie
+che ti richiede l'appartenza al tuo clan.
+Qui lasci i tuoi oggetti preziosi. Verranno tenuti senza pericolo.
+~
+189 732 0
+D1
+~
+~
+0 0 4000
+S
+#18912
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18912
+S
+#18913
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18913
+S
+#18914
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18914
+S
+#18915
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18915
+S
+#18916
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18916
+S
+#18917
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18917
+S
+#18918
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18918
+S
+#18919
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 732 0
+D0
+~
+nebbia argentea~
+0 0 18907
+S
+#18920
+Ufficio~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+189 220 0
+D3
+Sul corridoio.
+~
+~
+0 -1 18920
+S
+#18921
+La Presentazione Del Gran Castello Del CHAOS~
+Questa e' la prima stanza di un magnifico castello...
+Qua' puoi notare innumerevoli grosse sfere magiche, ognuna di queste e' come
+una finestra su gran parte delle stanze del castello; noti le sfarzose stanze
+del castello che merita il nome del CHAOS e che rappresenta in pieno il grande
+clan dell'INVISIBILE!!!
+Beh se vuoi visitare ulteriormente i nostri poderi sai benissimo cosa devi
+fare... unisciti a noi!!!!
+~
+189 60 0
+D2
+La Sala Mistica
+~
+~
+0 0 18922
+D5
+~
+~
+0 0 6091
+S
+#18922
+Entrata al castello del Chaos~
+Sei all'interno di una grande stanza, ogni parete e' un enorme specchio,
+compresi il pavimento ed il soffitto.
+Su ogni specchio vedi la tua immagine che si deforma a tal punto che fai
+fatica a riconoscerti!!!
+Noti un piccolo varco a sud tra gli specchi.
+~
+189 252 -1
+D0
+~
+~
+0 0 18921
+D1
+~
+@avatar~
+1 0 18929
+D2
+~
+~
+0 0 18941
+S
+#18923
+La Prima Decisione~
+Quella croce vi ha portato in questa mistica stanza, senti un pungente profumo
+di incenso.
+Vedi un'uscita a est e una ad ovest ma non riesci a scorgere nient'altro.
+~
+189 252 -1
+D1
+La Zona Newbie
+~
+~
+0 0 18924
+D3
+La Zona Potenti
+~
+~
+0 0 18925
+S
+T 18902
+T 18902
+#18924
+La Donation Del Newbie~
+Sei all'interno di una stanza molto umile e piccola, qua' potrai trovare gli
+oggetti fondamentali per cominciare.
+Noti l'unica uscita visibile in basso.
+~
+189 124 0
+D5
+Entrata al castello del Chaos.
+~
+~
+0 0 18921
+S
+#18925
+La Donation dei Ricchi~
+Se all'interno di una stanza con le pareti completamente coperte da arazzi e
+stendardi del clan.
+Tu avventuriero piu' esperto qua' con un po' di fortuna potrai trovare tutto
+quello che ti serve per le tue avventure!!!
+Noti l'unica uscita possibile verso il basso.
+~
+189 92 0
+D5
+La Sala Congressi
+~
+~
+0 0 18926
+S
+#18926
+La Sala Congressi~
+Questa stanza e' il luogo dove si riuniscono tutti i signori del clan per
+complottare sugli affari piu' loschi che esistano sulla faccia della terra.
+Noti stemmi del clan ovunque su ogni parete ed un enorme tavolo di forma
+triangolare al centro della stanza circondato da innumerevoli sedie.
+~
+189 252 0
+D4
+La Zona Ricchi
+~
+~
+0 0 18925
+D5
+Entrata al castello del Chaos.
+~
+~
+0 0 18921
+S
+#18927
+La Seconda Decisione~
+La croce che e' sotto ai tuoi piedi ora si e' ulteriormente rimpicciolita e la
+sua luminosita' si e' affievolita come una candela che si sta per spegnere.
+Continui a sentire quel pungente profumo di incenso.
+Noti un'uscita in alto in direzione della reception e un'uscita a sud.
+~
+189 220 -1
+D2
+La Bacheca
+~
+~
+0 0 18928
+D4
+La Reception
+~
+~
+0 0 18933
+S
+#18928
+La Bacheca~
+Sei all'interno di una stanza non molto grande ma con tre muri su quattro
+coperti da una bacheca su cui ogni membro del clan puo' scrivere messaggi di
+ogni genere e sorta.
+~
+189 1276 0
+D0
+La Seconda Decisione
+~
+~
+0 0 18927
+S
+#18929
+La Zona Dei BOSS~
+Questa stanza e' la stanza dei supremi, avere una stanza qua' vuol dire essere
+uno veramente importante.
+Qua regna il chaos piu' completo, ogni cosa si distorce in un posto per poi
+ricomporsi piu' in la'.
+Senti che ci sono una miriade di oggetti che ti sfiorano ma non riesci a
+scorgere cosa sono!!!
+~
+189 262156 0
+D0
+La Stanza dell'Utopia
+~
+~
+0 0 18930
+D1
+La Zone Dei BOSS
+~
+~
+0 0 18940
+D3
+~
+@avatar~
+1 0 18922
+S
+#18930
+La Stanza dell'Utopia~
+Questa stanza e' la stanza piu' bella e grande di tutto il castello...
+vedi come fiumi di oro liquido che fluiscono in ogni direzione.
+L'arredamento di questa stanza e' sfarzosissimo come la stanza del re dei re.
+Vedi attraverso lo specchio che c'e' in alto a destra la Reception.
+~
+189 124 0
+D2
+La Zona Dei BOSS
+~
+~
+0 0 18929
+D4
+La Reception
+~
+~
+0 0 18933
+S
+#18931
+La Stanza del Supremo~
+Questa e' la stanza del braccio sinistro dell'Utopia il Signore Supremo
+Qua' noti una stanza apparentemente normale ma con un meraviglioso
+arredamento. 
+La stanza e' inondata da una musica celtica e su ogni muro vedi alcune
+mensole, tutte le mensole sono piene di bottiglie vuote di tequila!!!
+Vedi attraverso lo specchio che c'e' in alto a destra la Reception.
+~
+189 262220 0
+D2
+La Zona Dei BOSS
+~
+~
+0 0 18940
+D4
+La Reception
+~
+~
+0 0 18933
+S
+#18932
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+AH... PER POTER USCIRE DI QUA' DEVI STARE IN QUESTA STANZA PER ALMENO
+30 SECONDI!!!
+~
+189 393420 -1
+D0
+La Sfida
+~
+~
+0 0 18934
+D2
+La Sfida
+~
+~
+0 0 18939
+S
+T 18903
+#18933
+La Reception~
+Sei dentro la Reception del clan Invisibile
+Questa stanza e' arredata pochissimo, qua' noti solo un bancone e una
+panca tanto per non lasciare i clienti in attesa in piedi come cavalli.
+~
+189 56 0
+D4
+Entrata al castello del Chaos.
+~
+~
+0 0 18921
+D5
+La Seconda Decisione
+~
+~
+0 0 18927
+S
+#18934
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+~
+189 393292 0
+D1
+La Sfida
+~
+~
+0 0 18935
+S
+#18935
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+~
+189 393292 0
+D2
+La Sfida
+~
+~
+0 0 18936
+D3
+La Sfida
+~
+~
+0 0 18934
+S
+#18936
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+~
+189 393292 0
+D0
+La Sfida
+~
+~
+0 0 18935
+D2
+La Sfida
+~
+~
+0 0 18937
+S
+#18937
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+~
+189 393284 0
+D0
+La Sfida
+~
+~
+0 0 18936
+D3
+La Sfida
+~
+~
+0 0 18938
+S
+#18938
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+~
+189 393292 0
+D1
+La Sfida
+~
+~
+0 0 18937
+D3
+La Sfida
+~
+~
+0 0 18939
+S
+#18939
+La Sfida~
+Questo posto e' usato dai membri del clan per poter guadagnare il rango piu'
+alto.
+Qua' ci si puo' sfidare a singolar tenzone fino alla morte o alla fuga di uno
+dei due contendenti.
+Buona Fortuna!!!
+~
+189 393292 0
+D0
+La Sfida
+~
+~
+0 0 18932
+D1
+La Sfida
+~
+~
+0 0 18938
+S
+#18940
+La Zona Dei BOSS~
+Questa stanza e' la stanza dei supremi, avere una stanza qua' vuol dire essere
+uno veramente importante.
+Qua regna il chaos piu' completo ogni cosa si distorce in un posto per poi
+ricomporsi piu' in la'.
+Senti che ci sono una miriade di oggetti che ti sfiorano ma non riesci a
+scorgere cosa sono!!!
+~
+189 0 0
+D0
+La Stanza del Supremo
+~
+~
+0 0 18931
+D3
+La Zona Dei BOSS
+~
+~
+0 0 18929
+D5
+La Sfida
+~
+~
+0 0 18932
+S
+#18941
+La Sala Mistica~
+Questa e' una stanza apparentemente normale non ci fosse quella grossa croce
+rossa brillante sul pavimento!!!
+Purtroppo non vedi nessuna via d'uscita..... ti sarai perso???
+~
+189 124 0
+D0
+~
+~
+0 0 18922
+S
+T 18901
+#18942
+L'ingresso della casa di Vincent~
+Quest'ingresso e' comodo e accogliente, con un camino che brucia di una
+fiamma magica. C'e' una poltrona sulla quale puoi sederti e ci sono dei libri
+di magia che puoi leggere.
+~
+189 528 0
+D1
+
+~
+~
+0 -1 18943
+D3
+~
+~
+0 0 3501
+S
+#18943
+Il salone~
+Questo salotto e' grande e spazioso. C'e' un grande tavolo dove puoi
+sederti a mangiare e a chiacchierare con gli amici, e dei grossi armadi
+pieni di roba da mangiare. Una porta conduce ad est, e delle scale
+conducono di sopra, alle camere da letto.
+~
+189 0 0
+D3
+
+~
+porta~
+1 -1 18942
+D4
+
+~
+~
+0 -1 18944
+S
+#18944
+La camera degli ospiti~
+In questa grande camera ci sono dei letti dove gli amici di Vincent
+riposano. Noti anche degli armadi e delle rastrelliere, che servono
+per contenere il loro equipaggiamento mentre loro sono via. Un fuoco
+magico arde nel camino.
+~
+189 0 0
+D3
+
+~
+~
+0 -1 18945
+D4
+~
+~
+0 0 18947
+D5
+
+~
+~
+0 -1 18943
+S
+#18945
+La camera di Vincent~
+In questa camera c'e' un enorme letto a baldacchino. In un angolo vedi una
+scrivania, e sulla parete ovest moltissimi armadi, bauli e rastrelliere in
+cui Vincent deposita ordinatamente tutto il suo equipaggiamento. Noti il
+maggiordomo di Vincent che sta pulendo la stanza. Il solito caminetto
+magico arde in un angolo.
+~
+189 0 0
+D1
+
+~
+~
+0 -1 18944
+D4
+~
+~
+0 0 18946
+S
+#18946
+La soffitta~
+Anche se e' una soffitta, non e' ne vecchia, ne' polverosa. E' tenuta in
+perfetto ordine, con molti contenitori per gli oggetti di Vincent. Attento...
+Vincent non ama chi ruba dalla sua collezione personale, e non sarebbe
+giusto tradire la fiducia di chi ti ha ammesso in casa sua...
+~
+189 512 0
+D5
+
+~
+~
+0 -1 18945
+S
+#18947
+La soffitta degli ospiti.~
+You are in an unfinished room.
+Questa stanza e' un po' buia ma pulita e confortevole. Qui il padrone
+di casa vuole che i suoi ospiti tengano l'equipaggiamento.
+~
+189 512 0
+D5
+~
+~
+0 0 18944
+S
+#18950
+Davanti al ponte levatoio del castello della Luna~
+   Sei davanti al Castello della Stirpe della Luna, un lungo e ponte massiccio
+si erge;davanti a te, sotto al quale un ampio fossato impedisce visite
+sgradite.  Dalle alte mura alcuni soldati sorvegliano costantemente gli uomini
+intenti a trafficare nei pressi delle mura.    
+~
+189 0 0
+D0
+~
+~
+0 0 1504505
+D2
+~
+Ponte levatoio~
+2 10321 10321
+S
+$~

@@ -1,0 +1,983 @@
+#16200
+Entrata della grotta~
+   Appena entri ti accorgi che senza una luce sara' difficile
+andare avanti, comunque intravedi il proseguimento della grotta
+a nord mentre a sud c'e' l'uscita.
+~
+162 12 0
+D0
+~
+Roccia~
+0 -1 16201 486
+D4
+~
+~
+0 -1 1538436 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16201
+Una biforcazione nella Grotta~
+   La grotta si divide in due parti piu' piccole che proseguono
+ad est ed ovest mentre da sud arriva un esile bagliore
+luminoso forse l'uscita.
+~
+162 4 0
+D1
+~
+~
+0 -1 16202 0
+D2
+~
+~
+0 -1 16200 450
+D3
+~
+~
+0 -1 16203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16202
+La grotta~
+   Il cammino comincia a farsi difficoltoso, pezzi di roccia
+acuminata sporgono da tutte le parti, il tuo istinto ti dice
+di tornare indietro anche se si puo' proseguire a nord.
+Ad ovest c'e' una biforcazione.
+~
+162 0 0
+D0
+~
+~
+0 -1 16218 0
+D3
+~
+~
+0 -1 16201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16203
+La grotta~
+   Il cammino comincia a farsi difficoltoso, pezzi di roccia
+acuminata sporgono da tutte le parti, il tuo istinto ti dice
+di tornare indietro anche se si puo' proseguire a nord.
+Ad est c'e' una biforcazione.
+~
+162 0 0
+D0
+~
+~
+0 -1 16204 0
+D1
+~
+~
+0 -1 16201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16204
+La grotta umida~
+   Qui le pareti sono piu' lisce e molto umide, ci deve
+essere un'infiltrazione d'acqua dovuta allo scioglimento
+della neve che ricopre l'intera montagna. Ad ovest
+e a nord dall'eco che senti al pronunciare di ogni
+parola deve esserci un lungo corridoio mentre a sud
+la grotta appare molto piu' piccola.
+~
+162 1 0
+D0
+~
+~
+0 -1 16205 0
+D2
+~
+~
+0 -1 16203 0
+D3
+~
+~
+0 -1 16206 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16205
+Il corridoio nella grotta~
+Il corridoio e' molto stretto ti ci muovi con molta
+fatica, sembra che in passato continuasse verso nord
+ma che in tempi più recenti un crollo abbia ostruito
+il tunnel.
+Il soffitto è cosparso di pipistrelli di varie dimensioni
+che sonnecchiano a testa in giù.
+Al tuo ingresso nella camera si levano in volo in massa
+precipitandosi verso l'uscita e creando una confusione terribile.
+~
+162 161 0
+D2
+~
+~
+0 -1 16204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16206
+Un buio corridoio~
+   Un rigagnolo d'acqua proviene da est e prosegue verso
+ovest, questo ti fa capire che il corridoio, che prosegue
+ad ovest, e' leggermente in pendenza.
+~
+162 1 0
+D1
+~
+~
+0 -1 16204 0
+D3
+~
+~
+0 -1 16211 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16207
+Il corridoio~
+   Adesso ti sei incastrato fra le rocce, pero' con un
+po' di fatica riesci a liberarti, vedi delle fiaccole
+accese a nord e quindi realizzi che la grotta e' abitata,
+non senti alcun rumore perche' forse gli ospiti sono
+fuori magari a caccia di provviste. A sud continua
+il corridoio.
+~
+162 0 0
+D2
+~
+~
+0 -1 16205 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16208
+La ripida parete di ghiaccio~
+Cavoli! E' altino qui sopra... sarà meglio tornare indietro con tutto questo ghiaccio
+la zona è scivolosa e inoltre e' sempre meglio non prendere la montagna troppo
+sottogaAAAAAAAAAAAAAAAHHHHHHHHHH RKAPUTTAAAAAAAAAAAAAAAHHHHHHHHHH
+~
+162 164 5
+D5
+~
+~
+0 0 16209 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16209
+L'inevitabile destino~
+PUNF! Neve fresca! Un sacco di neve fresca! Che culo!
+Meglio allontanarsi alla svelta prima che la sfortuna ci trovi
+per pareggiare i conti.
+~
+162 0 5
+D3
+~
+~
+0 0 16210 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16210
+La pista sulla neve~
+Hai trovato un sentiero percorribile sulla neve.
+Chissà chi lascia questi segni per terra... forse abitanti del posto
+con delle slitte... delle strane slitte di dimensioni preoccupanti...
+~
+162 0 0
+D3
+~
+~
+0 0 1485538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16211
+Un buio corridoio~
+   La grotta e' stretta e lunga sia verso est che verso
+ovest, ma da sud proviene dell'aria gelida forse c'e'
+un altro accesso.
+~
+162 1 0
+D1
+~
+~
+0 -1 16206 0
+D2
+~
+~
+0 -1 16212 0
+D3
+~
+~
+0 -1 16213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16212
+Una caverna~
+   Ti affacci da uno squarcio nella roccia che da all'esterno
+   della grotta, puoi andare a sud o rientrare a nord.
+Sembra che prima qui vivesse una qualche creatura di grosse dimensioni
+Ma oramai sono rimasti solo i pipistrelli a sporcare di guano il pavimento
+~
+162 4 0
+D0
+~
+~
+0 -1 16211 0
+D2
+~
+~
+0 -1 16242 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16213
+Un buio corridoio~
+   La grotta e' stretta e lunga sia verso est che verso
+ovest.
+~
+162 1 0
+D1
+~
+~
+0 -1 16211 0
+D3
+~
+~
+0 -1 16214 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16214
+Una diramazione~
+   La grotta qui si divide con uno sbocco a nord, uno ad
+est ed uno ad ovest. Molti disegni e graffiti sono
+qui sui muri, chissa' a che epoca risalgono!!!
+~
+162 1 0
+D0
+~
+~
+0 -1 16215 0
+D1
+~
+~
+0 -1 16213 0
+D3
+~
+~
+0 -1 16216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16215
+I graffiti~
+   Anche qui vedi molte raffigurazioni, ed una in particolare
+attira la tua attenzione..... vedi delle figure che
+in proporzione con quelle degli animali ti fanno pensare
+a degli uomini primitivi, ma non e' quella la cosa
+strana bensi' un'altra figura, sempre dalle sembianze
+umane, ma di dimensioni molto piu' grandi, dalle proporzioni
+sembra un uomo alto almeno tre metri e mezzo, e la
+cosa ti impensierisce non poco!!!! Chissa' a cosa si
+riferira' quella figura!
+~
+162 1 0
+D2
+~
+~
+0 -1 16214 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16216
+All'estremo della grotta~
+   Qui la grotta finisce ma a sud vedi della luce, mentre
+ad est il buio piu' completo.
+~
+162 4 0
+D1
+~
+~
+0 -1 16214 0
+D2
+~
+~
+0 -1 16217 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16217
+Uscita secondaria~
+   La neve qui e' molto altaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaa.......................... e precipiti lungo
+un crepaccio nascosto, nonostante la caduta sei ancora
+tutto intero perche' grazie alle recenti nevicate sei
+atterrato su un cumulo di neve fresca e non ti sei
+fatto niente. Puoi andare a sud.
+~
+162 0 0
+D2
+~
+~
+0 -1 1527447 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16218
+Una biforcazione nella Grotta~
+   La grotta si divide in due parti piu' piccole che proseguono
+a nord e ad est.
+~
+162 1 0
+D0
+~
+~
+0 -1 16219 0
+D1
+~
+~
+0 -1 16220 0
+D2
+~
+~
+0 -1 16202 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16219
+Una Grotta~
+   La grotta e' molto grande bisogna fare attenzione a
+non perdersi puoi andare a nord e a sud.
+~
+162 0 0
+D0
+~
+~
+0 -1 16221 0
+D2
+~
+~
+0 -1 16218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16220
+Una strettoia~
+   Una strettoia, ma a dire il vero ci si passa bene, se
+non fosse per le rocce che sono molto aguzze e graffiano.
+Puoi andare ad est e ad ovest.
+~
+162 9 0
+D1
+~
+~
+0 -1 16222 0
+D3
+~
+~
+0 -1 16218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16221
+Il deposito delle armi~
+   Un deposito di armi, tutte molto artigianali, lance,
+clave, mazze ma di dimensioni enormi, se provi ad impugnarle
+a malapena riesci a tenerle in equilibrio, sono troppo
+pesanti e difficili da manovrare quindi rinunci.
+~
+162 0 0
+D2
+~
+~
+0 -1 16219 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16222
+Il triplice cunicolo~
+   Tre cunicoli partono da qui e vanno verso nord, est
+ed ovest.
+~
+162 1 0
+D0
+~
+~
+0 -1 16223 0
+D1
+~
+~
+0 -1 16224 0
+D3
+~
+~
+0 -1 16220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16223
+La caverna~
+   La caverna qui si allarga molto, noti delle evidenti
+tracce di vita, resti freschi di un banchetto, utensili
+molto particolari attaccati al muro e soprattutto i
+resti di un fuoco che si direbbe appena spento.
+~
+162 1 0
+D0
+~
+~
+0 -1 16227 0
+D2
+~
+~
+0 -1 16222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16224
+Il corridoio nella grotta~
+   La grotta e' stretta e lunga sia verso est che verso
+ovest, ma da sud proviene dell'aria gelida forse c'e'
+un passaggio verso l'esterno.
+~
+162 13 0
+D1
+~
+~
+0 -1 16226 0
+D2
+~
+~
+0 -1 16225 0
+D3
+~
+~
+0 -1 16222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16225
+La grotta~
+   Ti affacci da uno squarcio nella roccia che da all'esterno
+della grotta, puoi andare solo a nord. Vedi un nido
+di Avvoltoio con dentro delle uova, ma che strano una
+sembra essere d'oro!!
+~
+162 0 0
+D0
+~
+~
+0 -1 16224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16226
+I graffiti~
+   Qui vedi molte raffigurazioni, e sei attirato da una
+in particolare dove due enormi asseri che trascinano
+un uomo... poi la raffigurazione, che forse non si
+e' conservata molto bene durante i secoli, e' molto
+frammentata ma si nota verso la fine, un uomo sgozzato
+in una pozza di sangue su un altare gigantesco di pietra!!!
+Sacrifici umani? Forse e' meglio non scoprirlo!!!!
+~
+162 1 0
+D1
+~
+~
+0 -1 16248 0
+D3
+~
+~
+0 -1 16224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16227
+Una deviazione~
+   Una curva molto stretta porta ad est verso un'ampia
+grotta e a sud alla caverna. Le pareti sono molto secche
+a differenza delle altre caverne forse i vari fuochi
+accesi qui, di cui ci sono evidenti resti, avranno
+fatto evaporare l'umidita' che filtra dall'esterno.
+~
+162 1 0
+D1
+~
+~
+0 -1 16228 0
+D2
+~
+~
+0 -1 16223 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16228
+Un'ampia grotta~
+   La grotta e' altissima e vedi un'infinita' di stalattiti
+e stalagmiti che salgono da terra e scendono dalla
+volta. A ovest vedi uno stretto passaggio mentre nelle
+altre direzioni la grotta continua.
+~
+162 5 0
+D0
+~
+~
+0 -1 16229 0
+D1
+~
+~
+0 -1 16231 0
+D2
+~
+~
+0 -1 16232 0
+D3
+~
+~
+0 -1 16227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16229
+Le stalagmiti~
+   Delle pretuberanze salgono per svariati metri dal pavimento,
+si sono formate, chissa in quanto tempo, e si stanno
+formando con il passare dei secoli grazie alle goccioline
+che filtrano dalla parte superiore della grotta e che
+cadono incessantemente depositando piccole quantita'
+di calcare sempre negli stessi punti. La grotta e'
+molto ampia e continua a sud e ad est.
+~
+162 13 0
+D1
+~
+~
+0 -1 16233 0
+D2
+~
+~
+0 -1 16228 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16230
+Un ampia grotta~
+   La grotta e' altissima e vedi un'infinita' di stalattiti
+e stalagmiti che salgono da terra e scendono dalla
+volta. La grotta continua a nord, sud e ad ovest. 
+Ad est vedi un passaggio nella caverna.
+~
+162 1 0
+D0
+~
+~
+0 -1 16234 0
+D1
+~
+~
+0 -1 16236 0
+D2
+~
+~
+0 -1 16235 0
+D3
+~
+~
+0 -1 16231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16231
+Un ampia grotta~
+   La grotta e' altissima e vedi un'infinita' di stalattiti
+e stalagmiti che salgono da terra e scendono dalla
+volta. La grotta continua in tutte le direzioni.
+~
+162 1 0
+D0
+~
+~
+0 -1 16233 0
+D1
+~
+~
+0 -1 16230 0
+D2
+~
+~
+0 -1 16237 0
+D3
+~
+~
+0 -1 16228 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16232
+Le stalagmiti piccole~
+   Delle piccole pretuberanze salgono dal pavimento, si
+sono formate, e si stanno formando, con il passare
+dei secoli grazie alle goccioline che filtrano dalla
+parte superiore della grotta e che cadono incessantemente
+depositando piccole quantita' di calcare sempre negli
+stessi punti. La grotta e' molto ampia e continua a
+nord e ad est.
+~
+162 1 0
+D0
+~
+~
+0 -1 16228 0
+D1
+~
+~
+0 -1 16237 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16233
+Le stalattiti alte~
+   Bellissime stalattiti scendono dalla volta formando
+le forme piu' strane. La grotta e' molto ampia e continua
+a sud, est ed ovest. A nord vedi un passaggio.
+~
+162 1 0
+D0
+~
+~
+0 -1 16238 0
+D1
+~
+~
+0 -1 16234 0
+D2
+~
+~
+0 -1 16231 0
+D3
+~
+~
+0 -1 16229 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16234
+Le stalattiti~
+   Bellissime stalattiti scendono dalla volta e si vanno
+quasi a congiungere con le stalagmiti che in vece salgono
+in direzione opposta dal pavimento. La grotta e' molto
+ampia e continua a sud, e ad ovest.
+~
+162 1 0
+D2
+~
+~
+0 -1 16230 0
+D3
+~
+~
+0 -1 16233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16235
+Le stalattiti basse~
+   Bellissime stalattiti scendono dalla volta formando
+le forme piu' strane. La grotta e' molto ampia e continua
+a nord e ad ovest.
+~
+162 1 0
+D0
+~
+~
+0 -1 16230 0
+D3
+~
+~
+0 -1 16237 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16236
+La caverna~
+   La caverna e' stretta e lunga sia verso est che verso
+ovest.
+~
+162 1 0
+D1
+~
+~
+0 -1 16240 0
+D3
+~
+~
+0 -1 16230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16237
+Le stalattiti~
+   Bellissime stalattiti scendono dalla volta formando
+le forme piu' strane. La grotta e' molto ampia e continua
+a nord, est ed ovest.
+~
+162 1 0
+D0
+~
+~
+0 -1 16231 0
+D1
+~
+~
+0 -1 16235 0
+D3
+~
+~
+0 -1 16232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16238
+L'ingresso ornato~
+   Bellissime pelli di animali, sono qui che ricoprono
+interamente tutte le pareti ed il pavimento della grotta,
+l'aspetto e' molto piu' caldo e accogliente ma non
+fidarti troppo delle apparenze potrebbero ingannarti.
+~
+162 4 0
+D0
+~
+~
+0 -1 16239 0
+D2
+~
+~
+0 -1 16233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16239
+La grande caverna~
+   Ti trovi in una grande caverna, ed anche qui e' tutto
+tappezzato di pelli di animali, nell'ombra vedi muoversi
+qualcosa, qualcosa di molto grosso. La caverna continua
+ad est e ad ovest.
+~
+162 0 0
+D1
+~
+~
+0 -1 16244 0
+D2
+~
+~
+0 -1 16238 0
+D3
+~
+~
+0 -1 16245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16240
+La caverna~
+   La grotta e' stretta e lunga sia verso est che verso
+ovest, ma da sud sembra provenire uno strano rumore,
+come un sibilo.
+~
+162 1 0
+D1
+~
+~
+0 -1 16241 0
+D2
+~
+~
+0 -1 16246 0
+D3
+~
+~
+0 -1 16236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16241
+L'altare dei sacrifici~
+   Qui c'e' un grosso altare di pietra e sopra ci vedi
+un animale, sembra un cervo appena sgozzato in una
+pozza di sangue, e' qui che la popolazione locale offre
+in sacrificio animali di qualsiasi specie, tra le quali
+anche l'uomo, ai propri Dei!!
+~
+162 1 0
+D3
+~
+~
+0 -1 16240 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16242
+La neve fresca~
+   Ti trovi su un cumulo di neve fresca.................
+ma che succede............frana tutto.................scivoli
+giu' per il vesante della montagna ma per fortuna non
+ti fai niente e ti rialzi, un po' bagnato forse ma
+tutto intero!!!!
+~
+162 0 0
+D2
+~
+~
+0 -1 1534443 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16243
+Un varco nella roccia~
+Nonostante pensassi di trovarti a considerevole profondità di fronte a te vedi un apertura nella 
+roccia oltre la quale scorgi una piccola fetta del cielo.
+Un fortissimo vento gelido ti investe il volto e il pavimento è coperto di neve.
+Dopo aver osservato attentamente noti alcune piccole scariche elettriche che appaiono e 
+scompaiono a mezz'aria e ti rendi conto che di fronte a te si staglia semplicemente un portale, 
+una fenditura attraverso la realtà che conduce chissà dove.
+Di sicuro deve essere un luogo dove fa molto freddo.
+~
+162 12 0
+D1
+~
+~
+0 0 1483539 0
+D3
+Beh oramai hai ben capito che la parete ovest in realtà
+non esiste. Si tratta di un illusione.
+~
+Illusione~
+1 0 16244 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16244
+La grande caverna~
+Ti trovi in una grande caverna naturale.
+Il pavimento sembra in pendenza verso ovest e l'aria è particolarmente fredda.
+Ti sembra anche di sentire del vento ma è ovvio che ti stai sbagliando...
+come potrebbe esserci del vento così in profondità?
+~
+162 8 0
+D1
+Pare che la parete est in realtà fosse un illusione
+e che la caverna continui
+~
+Illusione~
+1 0 16243 3
+D3
+~
+~
+0 -1 16239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16245
+La grande caverna~
+Ti trovi in una grande caverna, tutta tappezzata di
+pelli di animali.
+~
+162 0 0
+D1
+~
+~
+0 -1 16239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16246
+La caverna dei cristalli~
+Il freddo qui e' quasi glaciale l'acqua che filtra si
+righiaccia e forma bellissimi cristalli che alla tua
+luce brillano come diamanti.
+~
+162 4 0
+D0
+~
+~
+0 -1 16240 0
+D2
+~
+~
+0 -1 16247 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16247
+La caverna dei cristalli~
+La caverna qui finisce e ti accorgi che il sibilo che
+sentivi non e' altro che il respiro di un enorme drago.
+Che per fortuna sta dormendo!!!
+~
+162 0 0
+D0
+~
+~
+0 -1 16246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16248
+La tana~
+Arrivi in una grotta che da verso l'esterno della montagna,
+in un angolo vedi un grosso cumulo di paglia, sembra
+un giaciglio, chissa' chi ci dorme. Non hai fatto in
+tempo a chiedertelo che vedi un grosso animale avvicinarsi......
+~
+162 1 0
+D3
+~
+~
+0 -1 16226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16249
+Una cresta rocciosa~
+Sopra uno sperone di roccia pare che abbia nidificato un qualche volatile di grosse 
+dimensioni, vedi infatti un nido fatto con rami secchi e pietrame.
+C'è da sperare non sia territoriale oppure che non sia in casa...
+~
+162 0 5
+D3
+~
+~
+0 0 1483539 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16250
+Una capanna di pietra~
+Questa casetta ricorda una baita montana, è interamente construita in pietra tranne alcuni 
+isolati dettagli che presentano parti in legno. Non isola quasi per niente dal gelo circostante e 
+numerose galaverne di ghiaccio pendono dal soffitto.
+Sopra una mensola vedi barattoli di ceramica contenenti componenti arcane e mazzetti di 
+erbe alchemiche, chi abita qui deve essere sicuramente un utilizzatore di magia...
+Chiunque viva qui comunque deve condurre un esistenza isolata e anche la mobilia trasmette 
+l'idea che questo posto sia abitato da un eremita.
+~
+162 0 0
+D1
+~
+porta~
+0 0 1484539 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

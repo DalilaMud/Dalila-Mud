@@ -1,0 +1,2170 @@
+#11200
+La fine di un sentiero~
+   La vegetazione torna ad essere folta e verde.  Un piccolo scoiattolo
+saltella da ramo a ramo sopra la tua testa.  Verso est il sentiero continua
+inoltrandosi di nuovo in quella maledetta foresta morta che farebbe
+rabbrividire qualunque eroe.  Ad ovest c'e' una cancellata di pietra con una
+TARGA accanto.  Un AVVISO e' inciso in grande roccia alla tua destra.  Sei
+arrivato alle porte del regno dei GOLEM...  Esseri fatti di fango e
+pietra,anche se si narra che alcuni siano completamente d'oro!!!  Esseri senza
+espressione,senza sesso e senza cuore che nessuno vorrebbe incontrare.  Sono
+infatti guerrieri che non soffrono ne' fame ne' stanchezza.    
+~
+112 12 0
+D2
+~
+~
+0 0 1554543 0
+D3
+   Una solida cancellata di pietra.    
+~
+cancellata~
+1 -1 11202 3
+E
+avviso~
+LA COLLINA DEI GOLEM OSPITA MOB DAL 15 AL 25 LIVELLO.
+~
+E
+targa~
+   Questa e' l'entrata che conduce alla Collina dei Golem.  Indietreggiate
+finche' siete in tempo!!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11201
+La stanza della battaglia~
+   Questa stanza e' completamente ornata da trofei di guerra,armi di ogni tipo
+e dipinti che rappresentano immagini di epiche battaglie e ritratti di golem
+piu' che famosi nella mitologia di questa razza.  Questo ha qualcosa di sacro e
+deve essere rispettato.  Chi vi entra deve combattere.    
+~
+112 8 0
+D3
+~
+~
+0 0 11206 0
+E
+marchingegno~
+Alambicchi,provette,bambole vudu' occupano la maggior parte dello spazio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11202
+Una stradina~
+   Sei nel mezzo di una stradina ciottolosa larga non piu' di tre metri.  Una
+piccola baracca sulla destra sembra un rifugio per gli animali selvatici del
+bosco.  Senti uno strano rumore provenire da ovest e alzando la testa noti in
+lontananza una collina con in cima una costruzione.  Verso sud l'alta
+vegetazione copre quasi del tutto uno stretto passaggio.  Un CARTELLO e' appeso
+ad un albero.    
+~
+112 0 3
+D1
+   Una cancellata di pietra.    
+~
+cancellata~
+1 -1 11200 3
+D2
+   Vedi una pista inoltrarsi nella foresta.    
+~
+~
+0 0 11204 0
+D3
+   Vedi un'entrata piu' avanti che si inoltra nel bosco.    
+~
+~
+0 0 11207 0
+E
+cartello~
+Torre Reale verso ovest.
+Porto sotterraneo verso sud.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11204
+Una pista abbandonata~
+   Inoltrandoti nella foresta,percorri una appena visibile pista che si perde
+nell'oscurita' della fitta foresta.  Qui la luce del sole non riesce a
+oltrepassare gli alti rami che come un tetto proteggono il sottobosco.  
+Davanti a te vedi che la pista fa una curva e scompare.  Mmmm...  Non sai se e'
+una buona idea continuare.    
+~
+112 37 3
+D0
+~
+~
+0 0 11202 0
+D3
+~
+~
+0 0 11208 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11205
+L'arena~
+   Parte della zona e' occupata da una piccola arena dove due golem si
+azzuffano sotto la supervisione dell'istruttore.  Noti che i golem non sudano e
+non sembrano affaticarsi per la lotta.  In effetti come potrebbero..  Non sono
+fatti di carne ed ossa.  La tua presenza qui non e' gradita.  Sia i lottatori
+che l'istruttore si fermano e ti scrutano.    
+~
+112 0 2
+D2
+~
+~
+0 0 11206 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11206
+Campo d'addestramento~
+   Qui si allenano i giovani golem.  Ci sono attrezzi per fare esercizi e
+alcune armi rudimentali sono riposte in una rastrelliera.  Pupazzi di paglia e
+stracci aiutano i cadetti ad esercitarsi nell'arte del combattimento corpo a
+corpo.  Ci sono anche dei bersagli in un angolo con frecce e lance
+conficcatevi.  A sud torni sulla stradina.  Verso nord ed ovest senti grida di
+incitamento.    
+~
+112 0 2
+D0
+~
+~
+0 0 11205 0
+D1
+~
+~
+0 0 11201 0
+D2
+~
+~
+0 0 11207 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11207
+Una stradina~
+   In lontananza vedi l'avvicinarsi della collina.  Ora riesci a distinguere la
+costruzione che si erge sulla cima...  E' una torre!!.  Per terra ci sono
+piccoli sassolini e molte buche ostacolano il tuo cammino.  Ad ovest ti
+avvicini alla collina.  Ad est torni verso la cancellata.  A nord senti il
+cozzare di armi e scudi.    
+~
+112 0 3
+D0
+~
+~
+0 0 11206 0
+D1
+   Vedi la cancellata in lontananza e un fitto bosco come sfondo.    
+~
+~
+0 0 11202 0
+D3
+   Vedi un sentiero che sale a spirale su' per la collina
+~
+~
+0 0 11209 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11208
+Una radura~
+   Sei arrivato in una radura immersa nel profondo della foresta.  C'e' uno
+strano silenzio e questo ti infastidisce.  Alzando la testa vedi solo un
+intreccio di rami che ostacola i raggi del sole.  Un MOMENTO....  Sotto le
+foglie sembra esserci qualcosa.    
+~
+112 5 3
+D1
+~
+~
+0 0 11204 0
+D5
+   Un mucchio di foglie secche nasconde un passaggio segreto.    
+~
+coltre~
+1 -1 11210 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11209
+Ai piedi della collina~
+   Sei davanti ad un piccolo sentiero che sale verso la cima della collina.  
+Alzando la testa puoi vedere la strada che contorcendosi in una spirale gira
+intorno alla collina.  La vegetazione e' molto fitta ma puoi scorgere alcune
+piccole capanne.  Ad est torni verso l'ingresso.    
+~
+112 0 4
+D1
+   Vedi una stradina che si biforca piu' avanti.    
+~
+~
+0 0 11207 0
+D4
+~
+vegetazione~
+1 -1 11225 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11210
+Entrata nascosta~
+   Sei entrato in un luogo buio,tetro,ma che presenta segni di vita.  Le torcie
+appese ai muri di fango illuminano ben poco l'ambiente.  Un vecchio e consumato
+straccio attaccato ad un bastone porta un'ISCRIZIONE appena leggibile.  Una
+corda e' l'unico metodo per salire verso la luce,mentre a sud le fiaccole
+continuano disegnando un percorso.    
+~
+112 13 0
+D2
+~
+~
+0 0 11211 0
+D4
+   Pochi raggi di sole oltreppassano la coltre di foglie secche sopra di te.  
+
+~
+coltre~
+1 -1 11208 3
+E
+iscrizione~
+   Dice "Benvenuti al Porto Sotterraneo dei golem,famoso in tutto il mondo per
+la sua bellezza e ricchezza.  " Evidentemente e' passato molto tempo da allora.
+La bellezza si e' trasformata in squallore e la ricchezza in poverta'.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11211
+Cunicolo~
+   Stai attraversando uno stretto e basso passaggio che obbliga ad avanzare in
+fila indiana.  Alcuni topi sfrecciano tra i tuoi piedi e ti rendi conto che, a
+causa della posizione china che devi tenere per proseguire, un attacco sarebbe
+fatale.  Non riesci quasi a tenere l'arma impugnata e l'unica cosa che desideri
+e' di uscire al piu' presto da qui.  Verso nord c'e' l'entrata al porto
+sotterraneo, a sud il cunicolo gira verso ovest.    
+~
+112 265 0
+D0
+~
+~
+0 0 11210 0
+D3
+~
+~
+0 0 11215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11212
+Una taverna~
+   E' un posto squallidissimo.  L'unica finestra e' appannata da un secolo di
+polvere e la paglia sul pavimento e' ammuffita.  Il locale puzza di birra
+rancida,vino e vomito.  Il soffitto basso e' coperto di ragnatele ed i tavoli e
+le panche,di legno rozzo, sono vecchi e rovinati.  Tutta la feccia dell'intera
+Daresia si nasconde qui.  Ladri, assassini, contrabbandieri e altri ceffi poco
+raccomandabili si girano a guardarti per un secondo, poi riprendono a bere e
+picchiarsi.  Un oste dall'aspetto scontroso e' dietro il bancone a nord,due
+prostitute flaccide ti sorridono mentre noti che alcuni golem borbottano alle
+tue spalle.    
+~
+112 8 0
+D2
+~
+~
+0 0 11213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11213
+Via degli Scambi~
+   Sei nel centro del mercato.  Mercanti convenzionalmente vestiti di blu
+stanno in piedi dietro le loro bancarelle affollate da merci vivacemente
+colorate.  Qui le grida e i rumori dei carretti che trasportano botti e casse
+ti impedisce di sentire qualsiasi altra cosa, perfino le tue parole.  A sud e
+ad ovest continua il mercato.  Verso nord trovi una taverna.  C'e' un INSEGNA.
+  
+~
+112 9 0
+D0
+~
+~
+0 0 11212 0
+D2
+~
+~
+0 0 11214 0
+D3
+~
+~
+0 0 11217 0
+E
+insegna~
+   L'insegna dice 'ALLA TAVERNA DEL PORTO'.  Ma una ics cancella la T sopra la
+quale e' stata messa una C.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11214
+Via degli Scambi~
+   C'e' una gran folla qui.  Mercanti che urlano per promuovere la propria
+mercanzia.  Compratori provenienti da ogni parte del mondo.  A fatica cerchi di
+avanzare tra la gente che si spinge e si urta senza problemi.  Un venditore
+rincorre un piccolo ladro per la strada mentre altri complici ripuliscono la
+bancarella dello sfortunato.  Tutto questo sembra essere normale perche' non
+attira la benche' minima attenzione.  A sud la strada incrocia con Via del
+Mozzo.  Verso nord la via continua e in lontananza vedi l'insegna di una
+locanda.    
+~
+112 9 0
+D0
+~
+~
+0 0 11213 0
+D2
+~
+~
+0 0 11215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11215
+Via del Mozzo~
+   Qui inizia il vero spettacolo!!  Dal cunicolo ad est sbuchi in una enorme
+caverna scavata dal tempo e dai golem.  La grotta e' altissima e molto
+larga,non ne hai mai viste di cosi' spaziose.  Un intero centro abitato ne
+ricopre quasi tutta la superficie e in fondo vedi una macchia azzurra.  E' un
+fiume sotterraneo!!  Usato nei secoli passati dai mercanti golem per
+commerciare con Paesi lontani, ora e' ormai quasi abbandonato ed utilizzato da
+pochi clandestini e contrabbandieri.  A nord vedi alcune bancarelle,mentre a
+sud un vicolo molto buio emana un odore sgradevole.  Via del Mozzo continua
+verso ovest.    
+~
+112 9 0
+D0
+~
+~
+0 0 11214 0
+D1
+~
+~
+0 0 11211 0
+D2
+~
+~
+0 0 11216 0
+D3
+~
+~
+0 0 11218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11216
+Un vicolo buio e maleodorante~
+   ARRRRGGGGHHHHH!!!!  UN GRUPPO DI BANDITI TI ASSALE E PRIMA CHE TU POSSA
+REAGIRE UN PUGNALE TI SPACCA IN DUE IL CUORE!!  SEI MORTO!!  PER DI PIU' I
+BANDITI SACCHEGGIANO IL TUO CORPO!    
+~
+112 6 0
+D0
+~
+~
+0 0 11215 0
+D3
+~
+cancello~
+1 10 11298 19
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#11217
+Via degli Scambi~
+   Questo e' il limite occidentale del mercato.  Qua la gente e' presente in
+minor numero e l'aria e' piu' respirabile.  Qui si vendono merci di minor
+valore, cibo e acqua.  Un mercante lamorkiano sonnecchia su una sedia mentre un
+compratore prova delle vesti.  L'odore dell'acqua qui e' molto forte ma il
+puzzo proveniente dal centro del mercato da' ancora fastidio.    
+~
+112 9 0
+D1
+~
+~
+0 0 11213 0
+D3
+~
+~
+0 0 11220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11218
+Via del Mozzo~
+   Questa strada e' frequentata da alcune prostitute e mercenari in attesa di
+un cliente.  L'aria e' pesante e fatichi a respirare.  Inoltre molti fuochi
+intorno a te bruciano il gia' scarso ossigeno.  Barboni,vecchi e ubriachi sono
+radunati in un angolo e cantano storpiando le parole.  Ad est continua Via del
+Mozzo.  Ad ovest vedi un vialetto che costeggia un fiume.    
+~
+112 9 0
+D1
+~
+~
+0 0 11215 0
+D3
+~
+~
+0 0 11222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11219
+L'ufficio~
+   Mmmmm.  Corpi squarciati e teste di golem frantumate indicano lo stato di
+umore del Capitano Waesel.  Schizzi di sangue impregnano le pareti di legno
+mentre sul tavolo antichi strumenti di navigazione ne ricordano il passato di
+lupo di mare.  Appena entri il Capitano Waesel spinge un grosso mobile contro
+la porta chiudendo l'unica uscita.  SEI IN TRAPPOLA!!    
+~
+112 9 0
+D3
+~
+porta~
+1 11227 11223 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11220
+Il lungofiume settentrionale~
+   Questa stradina costeggia il fiume fino al molo.  E' poco frequentata e c'e'
+sporcizia dappertutto.  Una volta doveva essere un viale molto bello, come
+tutto il resto qui sotto, ma qualcosa ha tramutato la bellezza di questo luogo
+misterioso in un covo per spregiudicati banditi.  Ad est senti le grida dei
+venditori.  A sud inizia il molo.    
+~
+112 9 0
+D1
+~
+~
+0 0 11217 0
+D2
+~
+~
+0 0 11221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11221
+Il molo~
+   Completamente di legno massiccio, il molo si allunga dove il fiume e' piu'
+profondo, per permettere alle imbarcazioni di attraccare.  Vedi barche di
+piccole e medie dimensioni dove marinai di ogni razza si danno da fare per
+scaricare casse e botti di vino pregiato.  Su una cassa leggi 'Di proprieta' di
+Sir Teinko' ma un marinaio golem alto due metri si mette subito tra te e la
+cassa guardandoti con aria minacciosa.  Meglio cambiare aria.  Sia a sud che a
+nord c'e' il viale che costeggia il fiume.  Ad ovest il molo si sporge ancor di
+piu'.    
+~
+112 9 0
+D0
+~
+~
+0 0 11220 0
+D2
+~
+~
+0 0 11222 0
+D3
+~
+~
+0 0 11224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11222
+Il lungofiume meridionale~
+   Questa stradina costeggia il fiume che punta dritto verso il molo a nord.  
+Poche torcie poste su alti pali illuminano il vialetto.  A sud c'e' l'entrata
+alla capitaneria di porto,mentre ad est ci si collega con Via del Mozzo.    
+~
+112 9 0
+D0
+~
+~
+0 0 11221 0
+D1
+~
+~
+0 0 11218 0
+D2
+~
+~
+0 0 11223 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11223
+La capitaneria~
+   La stanza non e' piu' usata come ufficio di registro per le navi che
+attraccavo al molo anni prima.  Ormai funge da magazzino e granaio.  Casse di
+ogni misura sono accatastate contro i sudici muri.  L'odore di escrementi ti
+rivolta lo stomaco ma verso est noti una lucina proveniente da una lanterna.  
+Un MESSAGGIO e' scritto col sangue sopra il vetro sporco della porta.  La porta
+e' sempre aperta.    
+~
+112 13 0
+D0
+Nothing.
+~
+~
+0 0 11222 0
+D1
+   Una porta fradicia di sangue separa le due camere.    
+~
+porta~
+1 11227 11219 1
+E
+messaggio~
+   Non disturbate il Capitano Waesel.  E' sempre di cattivo umore.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11224
+La fine del molo~
+   Sei alla fine del molo.  Oltre solo le gelide acque del fiume.  Qui ci sono
+galeoni attraccati con anche dieci ceffi assoldati per difenderli.  Per terra
+il corpo senza vita di un nano suggerisce movimenti lenti e cauti.  In ogni
+direzione tranne che ad est c'e' il fiume ma anche con una barca non potresti
+mai avventurarti in quel labirinto che si intreccia con la roccia scomparendo
+all'orizzonte.    
+~
+112 9 0
+D1
+~
+~
+0 0 11221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11225
+La strada della collina~
+   Inizi a salire lungo una strada abbastanza praticabile che proseguendo
+sempre verso nord gira intorno alla collina formando una specie di spirale
+crescente.  Questo permette ai viaggiatori di raggiungere la sommita' della
+collina dove ormai puoi ben distinguere i merli della torre.  Guardando in
+basso vedi una stradina che si allontana verso una cancellata.    
+~
+112 4 4
+D0
+~
+~
+0 0 11226 0
+D5
+   La vegetazione e' fitta ai piedi della collina.    
+~
+vegetazione~
+1 -1 11209 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11226
+La strada della collina~
+   Si continua a girare sul pendio della collina anche se per il momento la
+strada e' ancora poco inclinata.  Qui ci sono pochi alberi.  La maggior parte
+dello spazio e' occupato da un grande verde prato pieno di margherite.  
+Tuttavia ti rendi conto che non sei qui per divagare e decidi di proseguire.  
+
+~
+112 0 4
+D0
+~
+~
+0 0 11227 0
+D2
+~
+~
+0 0 11225 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11227
+La strada della collina~
+   Ancora lunga la strada e i piedi cominciano a fare male, ma ormai la
+curiosita' e lo spirito di avventura prevalgono su ogni dolore.  Un soffio di
+vento ti rinfresca la faccia mentre ti accorgi che la curva a nord si dirige
+verso una piccola capanna.    
+~
+112 0 4
+D0
+~
+~
+0 0 11228 0
+D2
+~
+~
+0 0 11226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11228
+Una strana capanna~
+   Ahia.  Non e' una capanna ma un posto di guardia.  Non vi sono porte o
+finestre e si puo' liberamente uscire a sud e a nord.  Tuttavia le guardie
+golem non sono dello stesso parere e scattano in piedi brandendo le loro spade.
+TI ATTACCANO!!!!!    
+~
+112 8 0
+D0
+~
+~
+0 0 11229 0
+D2
+~
+~
+0 0 11227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11229
+La strada della collina~
+   Hai quasi completato un primo giro intorno alla collina e ora per proseguire
+devi salire per una rudimentale scala costruita con terra e legname.  A sud
+c'e' il posto di guardia, in alto ormai si staglia sopra di te un'antica torre.
+  
+~
+112 0 4
+D2
+~
+~
+0 0 11228 0
+D4
+~
+~
+0 0 11230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11230
+Via del golem~
+   Ti trovi a percorrere una via di terra battuta.  Questa strada sembra
+abbastanza frequantata.  Noti infatti delle impronte pesantemente lasciate sul
+terreno.  Questa dev'essere la via che i golem usano piu' spesso.  Verso il
+basso una stradina conduce verso un lontano campo di addestramento.    
+~
+112 0 4
+D0
+~
+~
+0 0 11231 0
+D5
+~
+~
+0 0 11229 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11231
+Via del golem~
+   La via prosegue girando intorno alla collina ma ti accorgi che verso nord le
+curve sono sempre piu' pronunciate.  Questo e' segno che la strada e' ancora
+poca e una gioia immensa invade il tuo cuore.  A nord inizia un tunnel che
+sbuca poco piu' avanti.  E' stato costruito per rimediare ad una sporgenza
+troppo ripida per essere percorsa a piedi.  A sud scendi.    
+~
+112 0 4
+D0
+~
+~
+0 0 11232 0
+D2
+~
+~
+0 0 11230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11232
+Il tunnel~
+   Questo stretto passaggio sbuca sia a nord che a sud.  Le pareti di terra
+sono sorrette da alcune robuste travi.  L'umidita' ti avvolge le ossa e brividi
+di freddo ti assalgono.  Non vedi l'ora di tornare all'aperto.    
+~
+112 257 0
+D0
+~
+~
+0 0 11233 0
+D2
+~
+~
+0 0 11231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11233
+Via del golem~
+   Qui la strada raggiunge verso nord una altra scalinata,stavolta di pietra.
+Sopra di te vedi le mura di un edificio situato sotto la torre che prima non
+avevi notato.  Verso sud si entra nel freddo tunnel.    
+~
+112 0 4
+D2
+~
+~
+0 0 11232 0
+D4
+~
+~
+0 0 11234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11234
+Piazza della caserma~
+   Questa e' una piccola piazzetta che precede l'entrata alla caserma.  Il muro
+dell'edificio e' posto a cavallo del pendio e da questo capisci che non sei
+sulla cima della collina.  In ogni direzione vedi piccole casupole costruite
+alla meglio che probabilmente ospitano alcuni golem che non fanno parte della
+casta militare o nobile.  Sopra la caserma la torre si impone con tutta la sua
+possanza e l'ombra copre molta parte della piazza.    
+~
+112 0 4
+D0
+~
+~
+0 0 11235 0
+D5
+~
+~
+0 0 11233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11235
+La caserma~
+   E' una caserma semplice,come tutto lo stile golem del resto.  Poche panche
+contro la parete ovest e un tavolo con due sedie di legno contro la parete est.
+Dal soffitto pende una lanterna che produce una timida luce sufficiente a
+malapena a indicarti la strada.  Verso sud c'e' la piazza mentre a nord
+intravedi un'altra stanza poco illuminata.    
+~
+112 8 0
+D0
+~
+~
+0 0 11236 0
+D2
+~
+~
+0 0 11234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11236
+La caserma~
+   Una camera molto fredda ti ospita.  Come nella maggior parte degli edifici
+golem non ci sono finestre.  Accanto al muro orientale c'e' un grosso ARMADIO
+mentre per il resto il mobilio e' scarso.  Questa e' la stanza dove si
+riuniscono le guardie golem quando non sono in servizio, beh non hanno bisogno
+di molto spazio a quanto pare.  Una scala a chiocciola porta verso l'alto.    
+~
+112 12 0
+D2
+~
+~
+0 0 11235 0
+D4
+~
+~
+0 0 11237 0
+E
+armadio~
+   Aprendolo vedi che contiene un sacco di armi e scudi.  Tutti troppo vecchi e
+malconci per essere degni della tua attenzione
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11237
+Davanti alla torre~
+   Sei ormai in cima alla collina.  Piu' alto di te c'e' solo la torre che
+sovrasta l'intera zona.  E' bellissima!  E' tutta nera ma sembra risplendere
+alla luce del sole.  Le mura sono lucide e lisce,evidentemente trattare con
+qualche materiale a te sconosciuto.  Due finestre sporgono da questo lato della
+torre e la porta e' intarsiata con pregevoli lineamenti.    
+~
+112 0 4
+D0
+   Una porta riccamente intarsiata e' l'unica via di accesso per entrare nella
+torre.    
+~
+porta~
+2 11200 11238 15
+D5
+~
+~
+0 0 11236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11238
+L'anticamera~
+   Entri in una stanza riccamente arredata ma senza eccessiva attenzione.  
+Dipinti sono appesi alla parete e alcuni preziosi candelabbri sono appoggiati
+sopra un tavolo.  Un unica FINESTRA illumina la camera che sembra essere un
+salottino dove si fanno attendere gli ospiti.  Per terra un tappeto rosso
+vivacizza l'ambiente e contrasta con i bianchi drappi che fiancheggiano alcuni
+scalini di marmo che salgono.    
+~
+112 8 0
+D2
+   Una porta riccamente decorata da' su una zona all'aperto.    
+~
+porta~
+2 11200 11237 15
+D4
+~
+~
+0 0 11239 0
+E
+finestra~
+   Che spettacolo!!!  Mai vista una cosa simile.  Da qui puoi vedere molta
+parte della Daresia.  In lontananza,verso l'orizzonte,intravedi il maestoso
+tempio di Deira.  Piu' vicino ,a nord di Deira, altissime montagne ti
+proibiscono di guardare oltre ma al di sotto della montagne vedi per intero la
+distesa della Valle Maledetta.  La foresta morta,una fattoria,un lago,una
+colonna di fumo che sale ad ovest del lago e ti sembra perfino di scorgere
+alcune costruzioni diroccate della famosa e temuta Citta' Maledetta.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11239
+La sala del trono~
+   Questa e' la stanza piu' bella che hai visto nel viaggio per le terre dei
+golem.  Arazzi,tappeti e vasi colmi di fiori arredano la stanza.  Un imponente
+trono di pietra bianca occupa il centro della camera.  Sei al cospetto di
+Kaltor, Re dei golem.  Inginocchiati.  Due guardie preoccupate ti sbarrano il
+cammino ma il Re con un cenno della mano li blocca.  E' curioso di sapere come
+mai sei arrivato fin qui e perche' hai disturbato la sua meditazione.    
+~
+112 8 0
+D5
+~
+~
+0 0 11238 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11240
+La fine di un sentiero.~
+   Questa e' la fine di un lungo sentiero, verso est scorgi l'inizio di una
+vasta campagna.  L'ingresso e' chiuso da una cancellata consumata dal tempo.  
+Accanto alla cancellata vedi una TARGA.  C'e' un AVVISO inciso nell'aria.    
+~
+112 13 0
+D1
+   La cancellata e' arrugginita...  Attento a non graffiarti!!    
+~
+Cancellata~
+1 -1 11244 3
+D3
+~
+~
+0 0 1567521 0
+E
+avviso~
+   IL FEUDO DI SIR TEINKO OSPITA MOB DI 10-15 LIVELLO.    
+~
+E
+targa~
+   La targa dice: Proprieta' privata di Sir Teinko.  Non oltrepassare.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11241
+Un piccolo atrio~
+   Salite le scale trovi questo atrio che separa il bagno dalla camera da letto
+di Sir Teinko.  Un finestrone aperto lascia passare una dolce tramontana mentre
+ammiri i quadri appesi raffiguranti gli antenati di Sir Teinko.  Il tappeto
+sotto i tuoi piedi presenta dei ricami di lavorazione araba e fiori sono sparsi
+ovunque.    
+~
+112 8 0
+D1
+   Una porta preziosamente lavorata con la maniglia in oro zecchino.    
+~
+porta~
+1 -1 11252 3
+D3
+   Una porta decorata con immagini cavalleresche.    
+~
+porta~
+1 -1 11242 3
+D5
+~
+~
+0 0 11281 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11242
+Il bagno~
+   E' di sicuro il bagno piu' splendente e pulito che tu abbia mai visto.  
+Ogni oggetto qui ha rifiniture in oro e argento.  Una grande tinozza e' colma
+di acqua calda fumante e un morbido asciugamano e' appoggiato su uno sgabello.
+Sulla parete nord uno specchio molto lungo e' appena appannato dal vapore e
+guardandoti noti tristemente che le tue cicatrici sono aumentate negli ultimi
+tempi.  Ad est vai verso il piccolo atrio.    
+~
+112 8 0
+D1
+   Una porta decorata con immagini cavalleresche.    
+~
+porta~
+1 -1 11241 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11243
+Un campo verde.~
+   Stai camminando su un grande campo d'erba che si perde a vista d'occhio.  
+Il profumo dei fiori ti rammenta giorni migliori.  Il sole caldo di primavera
+ti rinvigorisce come un bel boccale di birra fresca e ti senti come rinato.  
+Il prato continua a est.    
+~
+112 0 2
+D1
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11250 0
+D2
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11244
+Un campo verde.~
+   Sei all'inizio di un esteso campo d'erba che si perde a vista d'occhio.  Il
+profumo dei fiori ti rammenta giorni migliori.  Vedi uno stormo di uccelli
+volare in circolo sopra di te.  Ad ovest intravedi un sentiero che si perde tra
+gli alberi.    
+~
+112 0 2
+D0
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11243 0
+D1
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11251 0
+D2
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11245 0
+D3
+La cancellata e' arrugginita...attento a non graffiarti!!
+~
+Cancellata~
+1 -1 11240 3
+E
+cancellata~
+La cancellata e' arrugginita..attento a non graffiarti!!
+~
+E
+uccelli~
+Lo stormo vola formando una freccia nera nel cielo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11245
+Un campo verde.~
+   Stai camminando su un grande campo d'erba che si perde a vista d'occhio.  
+Il profumo dei fiori ti rammenta giorni migliori.  L'aria fresca ti passa tra i
+capelli dandoti una piacevole sensazione.  Tutto intorno a te e' tranquillo e
+questo accresce la tua pace interiore.  A sud inizia un campo di grano.    
+~
+112 0 2
+D0
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11244 0
+D2
+   Vedi un campo di grano.    
+~
+~
+0 0 11246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11246
+Un campo di grano.~
+   Il grano e' stato piantato da poco ma alcuni piccoli germogli stanno gia'
+crescendo sotto i tuoi piedi.  Noti tracce fresche di mezzi agricoli sul
+terreno e alcuni attrezzi sono posati in un angolo.  A nord vedi un gran prato
+verde mentre a sud c'e' l'entrata di una capanna.  Il campo di grano continua a
+est.    
+~
+112 0 2
+D0
+~
+~
+0 0 11245 0
+D1
+~
+~
+0 0 11253 0
+D2
+La porta e' quasi del tutto marcia.
+~
+porta~
+1 -1 11247 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11247
+Una capanna abbandonata.~
+   L'interno della capanna e' sporco e maleodorante, evidentemente molti
+animali vi si rifugiano la notte.  Solo una finestrella a sud illumina la
+stanza abitata da ragni e serpi.  A nord c'e' un campo di grano mentre a est
+intravedi un'altra piccola stanza.    
+~
+112 9 0
+D0
+La porta e' quasi marcia.
+~
+porta~
+1 -1 11246 3
+D1
+   Vedi una stanza piccola e buia.    
+~
+~
+0 0 11254 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11248
+Una piantagione di cotone.~
+   Batuffoli bianchi spuntano qua e la' mentre cammini lungo il canale che
+attraversa il campo.  Ti ricorda le lontane valli innevate dove sei cresciuto.
+Senti il cinguettare di due felici passerotti e il fruscio di cespugli mossi da
+due conigli che giocano rincorrendosi.  Verso sud continua la piantaggione
+mentre procedendo verso est ti imbatti in un piccolo sentiero.    
+~
+112 0 2
+D1
+~
+~
+0 0 11255 0
+D2
+~
+~
+0 0 11249 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11249
+Una piantagione di cotone.~
+   Batuffoli bianchi spuntano qua e la' mentre cammini lungo il canale che
+attraversa il campo.  Ti ricorda le lontane valli innevate dove sei cresciuto.
+Non lontano due conigli si rincorrono mentre alti in cielo volano due
+passerotti.  Le uniche direzioni percorribili sono a sud verso il prato verde e
+a nord dove continua la piantaggione.    
+~
+112 0 2
+D0
+~
+~
+0 0 11248 0
+D2
+~
+~
+0 0 11250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11250
+Un campo verde.~
+   Stai camminando su un grande campo d'erba che si perde a vista d'occhio.  
+Il profumo dei fiori ti rammenta giorni migliori.  Qui soffia un caldo vento
+che fa piegare gli steli d'erba che si inchinano al tuo passaggio.    
+~
+112 0 2
+D0
+   Vedi una distesa bianca.    
+~
+~
+0 0 11249 0
+D1
+   Nothing.  Vedi un campo di girasoli.    
+~
+~
+0 0 11256 0
+D3
+   Vedi un bel prato fiorito.    
+~
+~
+0 0 11243 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11251
+Un campo verde.~
+   Stai camminando su un grande campo d'erba che si perde a vista d'occhio.  
+Il profumo dei fiori ti rammenta giorni migliori,e un leggero vento primaverile
+ti accarezza il viso.    
+~
+112 0 2
+D1
+~
+~
+0 0 11257 0
+D3
+~
+~
+0 0 11244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11252
+La camera da letto~
+   Questa e' la camera da letto di Sir Teinko.  Anche qui il lusso la fa da
+padrone e lo capisci dalla quantita' di indumenti ordinati nell'armadio e dal
+numero di orologi che scandiscono l'ora.  Evidentemente il padrone di casa e'
+un maniaco del tempo oltre che essere uno sporco sfruttatore di poveri
+braccianti.  Il letto a baldacchino e' sovrastato da un enorme specchio.  Il
+soffitto a volta e' ornato da bellissimi affreschi angelici mentre il pavimento
+in legno e' lucido come la lama della tua spada.    
+~
+112 8 0
+D3
+   Una porta preziosamente lavorata con la maniglia in oro zecchino.    
+~
+porta~
+1 -1 11241 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11253
+Un campo di grano.~
+   Il grano e' stato piantato da poco ma alcuni piccoli germogli stanno gia'
+crescendo sotto i tuoi piedi.  La terra e' stata coltivata con gran da un buon
+numero di braccianti.  Le orme sul terreno indicano il recente passaggio di un
+aratro e di qualche uomo.  Sia ad est che ad ovest continua la distesa di
+grano.    
+~
+112 0 2
+D1
+~
+~
+0 0 11259 0
+D3
+~
+~
+0 0 11246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11254
+Una stanzetta buia.~
+   Questa stanza e' quasi completamente buia.  Senti scricchiolare le assi
+sotto i tuoi piedi ma non e' l'unico rumore che senti.  Qualcosa striscia sul
+pavimento e punta verso di te.    
+~
+112 41 0
+D3
+   Vedi un mucchio di sporcizia dappertutto.    
+~
+~
+0 0 11247 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11255
+Un piccolo sentiero.~
+   Ti trovi lungo un viottolo di campagna.  Dalle tracce che vedi sul terreno
+deduci che di recente e' passatta una pesante carrozza.  Ci sono anche altre
+orme di uomini a piedi e di animali di ogni genere.  Ti colpisce un 'orma
+gigantesca che dovrebbe appartenere ad un cane.    
+~
+112 0 2
+D1
+~
+~
+0 0 11260 0
+D3
+~
+~
+0 0 11248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11256
+Un campo di girasoli.~
+   Bellissimi girasoli dorati e di alto stelo illuminano il campo che e'
+attraversato da lunghi e stretti sentieri che i braccianti usano per non
+calpestare i girasoli.  Un cesto vuoto e' abbandonato sul terreno.  Ad ovest
+comincia un prato fiorito mentre ad est continua il campo di girasoli.    
+~
+112 0 2
+D1
+~
+~
+0 0 11261 0
+D3
+~
+~
+0 0 11250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11257
+Un campo di girasoli.~
+   Bellissimi girasoli dorati e di alto stelo illuminano il campo che e'
+attraversato da lunghi e stretti sentieri che i braccianti usano per non
+calpestare i girasoli.  Ad ovest comincia un prato verdissimo mentre a est
+intravedi un piccolo piazzale.    
+~
+112 0 2
+D1
+   Vedi una piazza con molta gente indaffarata che va e viene.    
+~
+~
+0 0 11262 0
+D3
+~
+~
+0 0 11251 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11258
+Un campo di grano.~
+   Il grano e' stato piantato da poco ma alcuni piccoli germogli stanno gia'
+crescendo sotto i tuoi piedi.  Verso nord una recinzione invalicabile ti sbarra
+la strada.  A sud vedi il campo di grano mentre ad est noti uno strano campo di
+colore nero che non ti piace per niente.    
+~
+112 0 2
+D1
+~
+~
+0 0 11263 0
+D2
+~
+~
+0 0 11259 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11259
+Un campo di grano.~
+   Il grano e' stato piantato da poco ma alcuni piccoli germogli stanno gia'
+crescendo sotto i tuoi piedi.  La terra e' stata concimata di recente e un
+odore sgradevole ti avvolge di colpo.  Ti guardi intorno per trovare un
+sentiero ma sia ad ovest che a nord si estende ancora il campo di grano.    
+~
+112 0 2
+D0
+~
+~
+0 0 11258 0
+D3
+~
+~
+0 0 11253 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11260
+Un piccolo sentiero.~
+   Ti trovi lungo un viottolo di campagna.  Dalle tracce che vedi sul terreno
+deduci che di recente e' passatta una pesante carrozza.  Qui la vegetazione e'
+piu' fitta e pochi raggi di soli filtrano tra le fronde dei robusti alberi che
+fiancheggiano il sentiero che prosegue sia verso est che verso ovest.    
+~
+112 0 2
+D1
+~
+~
+0 0 11264 0
+D3
+~
+~
+0 0 11255 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11261
+Un campo di girasoli~
+   Bellissimi girasoli dorati e di alto stelo illuminano il campo che e'
+attraversato da lunghi e stretti sentieri che i braccianti usano per non
+calpestare i girasoli.  Qualche attrezzo rudimentale e' stato abbandonato qui.
+Ad ovest continua la distesa dei girasoli mentre a sud puoi vedere un piccolo
+piazzale.    
+~
+112 0 2
+D2
+   Vedi una piazza con molta gente indaffarata che va e viene.    
+~
+~
+0 0 11262 0
+D3
+~
+~
+0 0 11256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11262
+Un piccolo piazzale~
+   Un elegante piazza accoglie i viandanti che provengono da ogni direzione.  
+Questo e' evidentemente il punto di ritrovo di coloro che lavorano nei campi e
+che nel tardo pomeriggio cercano di vendere i propri raccolti.  Una statua
+rappresentante un nobile a cavallo vigila su tutta la piazza.  C'e' una TARGA
+sul lato anteriore della statua.  Strade si diramano verso ogni direzione.    
+~
+112 144 2
+D0
+~
+~
+0 0 11261 0
+D1
+   Oltre la recinzione vedi un cortile che precede una bella casa.    
+~
+recinzione~
+1 -1 11267 3
+D2
+~
+~
+0 0 11263 0
+D3
+~
+~
+0 0 11257 0
+E
+targa~
+   Questa statua e' stata eretta in onore di Sir Teinko, signorotto e unico
+padrone di queste terre.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11263
+Un campo nero.~
+   Qui l'atmosfera e' cupa, una nebbiolina bassa ricopre il terreno
+completamente nero.  Sbucano qua e la' piantine anch'esse nere che non hai mai
+visto durante i tuoi lunghi viaggi.  Un rigolo d'acqua taglia in due il campo e
+si dirige verso nord dove scorgi un piccolo piazzale.  Verso ovest incontri il
+campo di grano.    
+~
+112 0 2
+D0
+   Vedi una piazza con molta gente indaffarata che va e viene.    
+~
+~
+0 0 11262 0
+D3
+~
+~
+0 0 11258 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11264
+Un piccolo sentiero.~
+   Ti trovi lungo un viottolo di campagna.  Dalle tracce che vedi sul terreno
+deduci che di recente e' passatta una pesante carrozza.  Guardandoti attorno
+noti che l'alta vegetazione e' scomparsa lasciando il posto a basse felci e
+grovigli di piante.  Il sentiero continua verso ovest mentre un orto inizia a
+sud.    
+~
+112 0 2
+D2
+~
+~
+0 0 11265 0
+D3
+~
+~
+0 0 11260 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11265
+Un orticello.~
+   Sei entrato in un orto tenuto benissimo.  Riconosci piante di pomodoro,
+basilico, patate e altro ancora.  Un piccolo canale artificiale irriga il campo
+mentre lo spaventapasseri fa il suo dovere.  A nord inizia un sentiero che si
+allontana nel bosco, ad est una stradina di terra battuta sembra portare ad una
+abitazione lontana.  Senti un ululare spaventoso e realizzi che proviene dalla
+tana di un qualche animale a sud.    
+~
+112 0 2
+D0
+~
+~
+0 0 11264 0
+D1
+~
+~
+0 0 11270 0
+D2
+   La porticina e' tutta graffiata e mangiata.  I segni dei canini sono
+impressionanti.    
+~
+porticina~
+1 -1 11266 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11266
+La tana di Yaku.~
+   Entri nella cuccia di Yaku, il ferocissimo cane di origine nordica che fa la
+guardia all'abitazione non molto lontana.  Il fetore e l'oscurita' accecano i
+tuoi sensi e un brutto presentimento comincia ad impossessarsi di te.  L'unica
+uscita e' da dove sei entrato.    
+~
+112 9 0
+D0
+   La porticina e' tutta graffiata e mangiata.  I segni dei canini sono
+impressionanti.    
+~
+porticina~
+1 -1 11265 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11267
+Un cortile~
+   Entri nel cortile della fattoria.  Qui girano galline, anatre e mucche in
+cerca di cibo.  Ogni tanto un cane accucciato sotto un albero alza le orecchie
+per sentire chi si avvicina.  Davanti a te c'e' una costruzione riccamente
+rifinita e una TARGHETTA e' attaccata ad una porta.  A sud continua il cortile.
+  
+~
+112 0 2
+D1
+   Una porta riccamente lavorata.    
+~
+porta~
+1 -1 11271 3
+D2
+~
+~
+0 0 11268 0
+D3
+   Oltre la recinzione vedi la piazzetta con la statua che sovrasta i passanti.
+  
+~
+recinzione~
+1 -1 11262 3
+E
+targhetta~
+   La targhetta dice: Qui dimora Sir Teinko,padrone incontrastato di queste
+terre.  Per favore non chiedetemi nulla!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11268
+Un cortile~
+   Entri nel cortile della fattoria.  Qui girano galline, anatre e mucche in
+cerca di cibo.  Per terra ci sono mucchietti di foglie pronti per essere
+bruciati.  Il cortile continua in entrambe le direzioni.    
+~
+112 0 2
+D0
+~
+~
+0 0 11267 0
+D2
+~
+~
+0 0 11269 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11269
+La fine del cortile~
+   Sei arrivato alla fine del cortile.  Un POZZO di pietra con un vecchio
+secchio appoggiato si trova al centro dell'aia.  C'e' anche un piccolo
+abbeveratoio per gli animali sistemato lungo la recinzione a sud.  Guardando a
+est vedi l'entrata di un magazzino.    
+~
+112 0 2
+D0
+~
+~
+0 0 11268 0
+D1
+   Una porta chiude l'entrata al magazzino.    
+~
+porta~
+1 -1 11273 3
+E
+pozzo~
+   Provi a lanciare una pietra nel pozzo e dal tonfo che senti dopo qualche
+istante capisci che e' molto profondo.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11270
+Una stradina sterrata.~
+   Ti sei inoltrato lungo una stradina di terra battuta.  La polvere si alza al
+soffiare del vento ma i tuoi pensieri sono gia' tutti rivolti alla colonna di
+fumo che sale non molto lontana all'orizzonte.  Ad ovest entri in un orticello
+ben tenuto.  Verso est vedi un arco di pietra che ti invita a proseguire.    
+~
+112 0 2
+D1
+   Vedi un bellissimo arco di pietra che precede una costruzione.    
+~
+~
+0 0 11275 0
+D3
+~
+~
+0 0 11265 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11271
+L'ingresso~
+   Alla poverta' finora incontrata qui si oppone una sfacciata opulenza che ti
+infastidice.  Il padrone di casa dev'essere uno sfruttatore di manodopera a
+basso prezzo a cui piace arricchirsi sulle spalle dei piu' deboli.  I
+tappeti,gli ornamenti,i quadri e i soprabiti che vedi indicano chiaramente
+l'alto tenore di vita che si conduce in questa casa.  Un odore di crostate
+proviene da sud mentre a nord puoi vedere una tavola riccamente imbandita.    
+~
+112 8 0
+D1
+   Vedi una sala da pranzo.    
+~
+~
+0 0 11277 0
+D2
+   Vedi una cucina pulitissima e ordinatissima.    
+~
+~
+0 0 11272 0
+D3
+   Una porta riccamente lavorata.    
+~
+porta~
+1 -1 11267 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11272
+Una cucina molto pulita~
+   La cucina e' spaziosa e ben areata.  Alla tua destra c'e' uno scaffale che
+contiene ogni tipo di spezia.  A sinistra invece un forno a legna e' stato da
+poco usato per preparare delle deliziose crostate che sono disposte su un
+piccolo tavolo davanti a te.  La stanza e' tenuta benissimo,e' tutto in ordine
+e tutto e' pulito.    
+~
+112 8 0
+D0
+   Vedi un atrio molto lussuoso.    
+~
+~
+0 0 11271 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11273
+Un magazzino~
+   Questa stanza contiene molti attrezzi per il giardinaggio e il lavoro nei
+campi.  C'e' la carrozza di Sir Teinko a sinistra, mentre i 4 cavalli neri che
+la traino si stanno riposando dall'altro lato.  Ad ovest torni nel cortile.  
+Verso est c'e' una porta con un'ISCRIZIONE sopra.    
+~
+112 8 0
+D1
+   Una porta scricchiolante conduce verso il ripostiglio.    
+~
+porta~
+2 11241 11278 15
+D3
+   Una porta da' verso il cortile.    
+~
+porta~
+1 -1 11269 3
+E
+iscrizione~
+   Ripostiglio e cantina.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11274
+Un corridorio~
+   Percorri uno stretto corridorio.  Le pareti sono costruite con assi di legno
+montate alla meglio.  Larghe fessure lasciano passare la luce e il vento.  
+Ogni tanto calpesti qualcosa di molle.  Piu' avanti il corridorio svolta ad
+est.  A sud c'e' l'arco di pietra.    
+~
+112 12 0
+D1
+   Vedi una sporca cucina.    
+~
+~
+0 0 11279 0
+D2
+   Una piccola porta ti separa dall'arco di pietra.    
+~
+porta~
+1 -1 11275 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11275
+Un arco di pietra.~
+   Sei sotto un grande arco di pietra.  Sul pilastro sinistro c'e' un INCISIONE
+quasi del tutto consumata dal tempo.  Senti un profumo di pane fresco provenire
+da nord, il nitrire di cavalli verso est.  A sud c'e' una costruzione piu'
+recente.    
+~
+112 0 2
+D0
+   Una piccola porta appena stabile ti sbarra la strada.    
+~
+porta~
+1 -1 11274 3
+D1
+   La porta della stalla e' molto grande.    
+~
+porta~
+1 -1 11280 3
+D2
+   Vedi tante balle di fieno una sopra l'altra.    
+~
+~
+0 0 11276 0
+D3
+~
+~
+0 0 11270 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11276
+Il fienile.~
+   Enormi montagne di fieno sono accatastate in fondo al locale illuminato da
+due grandi finestre.  Il soppalco e' anch'esso carico di balle di fieno e il
+suo scricchiolio ti rende nervoso.  Non c'e' altra via d'uscita che da dove sei
+entrato.  Non vedi nulla di interessante.    
+~
+112 8 0
+D0
+   Vedi un arco di pietra che ti da' il benvenuto.    
+~
+~
+0 0 11275 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11277
+La sala~
+   Qui lo sfarzo raggiunge il culmine.  La tavola e' imbandita per un pranzo
+regale e le posate sono d'oro massiccio!  I bicchieri di cristallo luccicano
+accanto ai piatti di argento.  Un grandissimo lampadario illumina la stanza con
+le sue cento candele.  Gli arazzi appesi ai muri ricordano antiche leggende ed
+eroici personaggi d'altri tempi.  La sala continua ad est.    
+~
+112 8 0
+D1
+~
+~
+0 0 11281 0
+D3
+   Vedi un atrio molto lussuoso.    
+~
+~
+0 0 11271 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11278
+Il ripostiglio~
+   Un grande disordine contraddistingue questa stanza.  Oggetti sparsi
+dappertutto si confondono tra di loro.  E' abbastanza buio e camminando
+calpesti delle ciotole che si frantumano sotto i tuoi piedi.  A nord vedi una
+scala che scende presumibilmente in cantina.  Ad ovest torni nel magazzino.  
+
+~
+112 9 0
+D3
+   Una porta scricchiolante conduce verso il magazzino.    
+~
+porta~
+2 11241 11273 15
+D5
+~
+~
+0 0 11289 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11279
+La cucina.~
+   Questa stanza e' adibita a molte funzioni.  In un angolo c'e' un camino con
+braci ancora fumanti.  Al centro un tavolo occupa la maggior parte dello
+spazio.  Sulla sinistra una dispensa contiene poche provviste.  Sul lato est
+una robusta porta ti impedisce l'accesso mentre nell'angolo a nord-est una
+piccola scala conduce sia sopra al piano rialzato che in basso verso il buio.
+  
+~
+112 8 0
+D1
+   Che strano!  Una porta cosi' robusta non la vedevi da tempo.    
+~
+porta~
+2 11240 11283 15
+D3
+~
+~
+0 0 11274 0
+D4
+~
+~
+0 0 11286 0
+D5
+~
+~
+0 0 11287 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11280
+L'ingresso della stalla~
+   Entrando un caldo soffocante ti investe in pieno.  Sei all'entrata della
+stalla.  Appesi al muro ci sono selle e briglie per i cavalli.  Puoi tornare
+verso l'aperto andando a ovest oppure puoi esplorare anche la stanza piu' ad
+est.    
+~
+112 8 0
+D1
+   Vedi alcuni cavalli mangiare del foraggio.    
+~
+~
+0 0 11284 0
+D3
+   La porta della stalla e' molto grande.    
+~
+porta~
+1 -1 11275 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11281
+La sala~
+   Questa parte del salone e' destinata all'ora del the'.  Comodi divani
+circondano eleganti tavolini di mogano.  Alcuni strumenti musicali sono
+appoggiati su uno scaffale.  A sud una pesante porta chiusa a chiave protegge
+lo studio privato di Sir Teinko.  Nell'angolo nord-ovest uno scalone circolare
+porta al piano superiore.    
+~
+112 8 0
+D2
+   Una porta raffigurante lo stemma di famiglia ti sbarra il passaggio.  
+Guardando meglio lo stemma riconosci un rapace che afferra al volo un
+agnellino.    
+~
+porta~
+2 11242 11282 15
+D3
+~
+~
+0 0 11277 0
+D4
+~
+~
+0 0 11241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11282
+Lo studio~
+   Entri nel riservatissimo studio di Sir Teinko.  Grandi librerie arredano la
+camera e un tavolo in noce occupa quasi tutto il rimanente spazio.  Due
+candelabbri sono disposti ai lati del tavolo.  Nonostante la bellezza del
+mobilio,questa stanza ti infonde un preoccupante senso di pericolo.    
+~
+112 8 0
+D0
+   Una porta raffigurante lo stemma di famiglia ti sbarra il passaggio.  
+Guardando meglio lo stemma riconosci un rapace che afferra al volo un
+agnellino.    
+~
+porta~
+1 11242 11281 7
+D5
+Nothing.
+~
+botola~
+1 -1 11288 3
+E
+tavolo~
+   Sul tavolo ci sono documenti relativi all'imposizione di nuove tasse e uno
+in particolare propone di abolire il Natale.  Un mucchio di monete d'oro e'
+usato come fermacarte.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11283
+Il giardino.~
+   Ti trovi in uno splendido guardino.  Non credi sia possibile che il
+proprietario della casa sia anche il responsabile di una tale bellezza.  Fiori
+di ogni genere crescono in ordinate aiuole ai piedi di alberi da frutta potati
+da poco.  Il profumo e' cosi' intenso da far perdere per un attimo il senso
+della realta'.  E' una vera meraviglia.  Ad ovest torni nella sporca cucina.  
+
+~
+112 0 0
+D3
+   Una robusta porta difende il giardino dagli estranei.    
+~
+porta~
+2 11240 11279 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11284
+La stalla~
+   Sei entrato nel cuore della stalla, dove alcuni cavalli stanno mangiando del
+foraggio non troppo fresco.  A dir la verita' non ti sembrano messi bene e ti
+domandi se qualcuno si occupa di loro.  In un angolo un abbeveratorio e' quasi
+asciutto mentre due forconi si incrociano contro la parete.  Puoi solo tornare
+vero l'ingresso.    
+~
+112 8 0
+D3
+   Vedi l'ingresso alla stalla e una porta in lontananza.    
+~
+~
+0 0 11280 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11286
+Una camera da letto~
+   La camera e' povera di mobili.  Solo un letto a due piazze, un comodino e un
+armadio riempiono la stanza.  Una FINESTRA a sud e' l'unica fonte di luce a
+parte una lampada ad olio appesa al muro.  La scala porta di sotto in cucina.
+  
+~
+112 8 0
+D5
+~
+~
+0 0 11279 0
+E
+finestra~
+   Sporgi la testa dalla finestra e vedi il tetto della stalla sotto di te
+mentre poco piu' in basso c'e' l'arco di pietra.  Strano...  Per un momento ti
+e' sembrato di vedere un ombra sul tetto sotto di te.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11287
+La cantina~
+   Un odore di vecchio pervade la stanza.  E' molto buia e vedi solo a pochi
+passi da te.  Uno scaffale pieno di ragnatele e di polvere e' alla tua destra,
+mentre davanti a te ci sono delle casse ammucchiate una sopra l'altra.  Senti
+il rumore di piccole zampette correre verso di te.  La cosa non ti piace!  La
+scala nell'angolo porta al piano terra.    
+~
+112 9 0
+D4
+~
+~
+0 0 11279 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11288
+La stanza del tesoro~
+   Hai scoperto una stanza ripiena di ogni meraviglia.  Bauli colmi
+d'oro,argento e pietre preziose.  Tappeti rari,vasi antichi e tutto quello che
+avresti sempre desiderato e' qui.  Un momento.  Non puoi prendere la ricchezza
+che Sir Teinko ha sottratto ai contadini e ai mercanti,molte volte con
+l'inganno e la minaccia.  A malincuore decidi che sarebbe meglio restituire
+tutto magari dicendo a qualcuno dove si trova questa stanza.  Il tuo nobile
+animo non si smentisce mai.    
+~
+112 73 0
+D4
+   Vedi lo studio di Sir Teinko.    
+~
+botola~
+1 -1 11282 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11289
+La cantina~
+   In questa stanza percepisci un intenso odore di mosto.  Probabilmente qui i
+contadini si ritrovano per pestare l'uva.  La tua deduzione viene confermata
+quando vedi in un angolo una grande tinozza con ancora dentro dei grappoli
+d'uva.  Accanto ci sono alcuni secchi pieni di acini che saranno usati per
+concimare i campi.  La scala a nord porta al ripostiglio mentre ad est scorgi
+enormi botti.    
+~
+112 9 0
+D1
+~
+~
+0 0 11290 0
+D4
+~
+~
+0 0 11278 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11290
+La cantina~
+   Entrando il tuo sguardo cade sulle due colonne di botti che fiancheggiano le
+pareti.  Il solo pensiero di cosa le botti possano contenere ti solletica il
+palato.  Ridestandoti dalle allegre fantasie ti rendi conto che puoi solo
+tornare indietro.    
+~
+112 9 0
+D3
+~
+~
+0 0 11289 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11291
+Una grotta sotterranea~
+   Sbuchi in un apertura naturale sotto l'isola.  Qui c'e' aria e puoi
+finalmente respirare.  La grotta e' fredda e umida,ed a prima vista immensa.  
+A fatica riesci a raggiungere uno scoglio.  Ora sei di nuovo sulla terra ferma.
+L'antro continua verso sud.    
+~
+112 9 0
+D2
+~
+~
+0 0 11292 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11292
+La grotta oscura~
+   Ti sei inoltrato nella buia caverna scavata dall'acqua sotto l'isola.  Fa un
+freddo incredibile qui e l'eco fa rintronare anche un lieve rumore.  Un
+gocciolio rimbomba confondendoti il senso di orientamento.  La caverna continua
+in ogni direzione e sebbene la tua concentrazione sia al massimo,non riesci
+proprio piu' a ritrovare la strada.  Ti sei perso!!    
+~
+112 9 0
+D0
+~
+~
+0 0 11291 0
+D1
+~
+~
+0 0 11291 0
+D2
+~
+~
+0 0 11294 0
+D3
+~
+~
+0 0 11293 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11293
+La grotta oscura~
+   Ti sei inoltrato nella buia caverna scavata dall'acqua sotto l'isola.  Fa un
+freddo incredibile qui e l'eco fa rintronare anche un lieve rumore.  Un
+gocciolio rimbomba confondendoti il senso di orientamento.  La caverna continua
+in ogni direzione e sebbene la tua concentrazione sia al massimo,non riesci
+proprio piu' a ritrovare la strada.  Ti sei perso!!    
+~
+112 9 0
+D0
+~
+~
+0 0 11293 0
+D1
+~
+~
+0 0 11292 0
+D2
+~
+~
+0 0 11295 0
+D3
+~
+~
+0 0 11294 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11294
+La grotta oscura~
+   Ti sei inoltrato nella buia caverna scavata dall'acqua sotto l'isola.  Fa un
+freddo incredibile qui e l'eco fa rintronare anche un lieve rumore.  Un
+gocciolio rimbomba confondendoti il senso di orientamento.  La caverna continua
+in ogni direzione e sebbene la tua concentrazione sia al massimo,non riesci
+proprio piu' a ritrovare la strada.  Ti sei perso!!    
+~
+112 9 0
+D0
+~
+~
+0 0 11292 0
+D1
+~
+~
+0 0 11293 0
+D2
+~
+~
+0 0 11295 0
+D3
+~
+~
+0 0 11294 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11295
+La grotta oscura~
+   Ti sei inoltrato nella buia caverna scavata dall'acqua sotto l'isola.  Fa un
+freddo incredibile qui e l'eco fa rintronare anche un lieve rumore.  Un
+gocciolio rimbomba confondendoti il senso di orientamento.  La caverna continua
+in ogni direzione e sebbene la tua concentrazione sia al massimo,non riesci
+proprio piu' a ritrovare la strada.  Ti sei perso!!    
+~
+112 0 0
+D0
+~
+~
+0 0 11294 0
+D1
+~
+~
+0 0 11293 0
+D2
+~
+~
+0 0 11296 0
+D3
+~
+~
+0 0 11293 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11296
+La grotta oscura~
+   Ti sei inoltrato nella buia caverna scavata dall'acqua sotto l'isola.  Fa un
+freddo incredibile qui e l'eco fa rintronare anche un lieve rumore.  Un
+gocciolio rimbomba confondendoti il senso di orientamento.  La caverna continua
+in ogni direzione e sebbene la tua concentrazione sia al massimo,non riesci
+proprio piu' a ritrovare la strada.  Ti sei perso!!    
+~
+112 9 0
+D0
+~
+~
+0 0 11295 0
+D1
+~
+~
+0 0 11297 0
+D2
+~
+~
+0 0 11295 0
+D3
+~
+~
+0 0 11294 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11297
+La tana~
+   Sei giunto ad una grotta piu' asciutta.  Resti scheletrici sono sparsi
+dappertutto.  Una fioca luce proviene dalla sommita' della caverna ma e' troppo
+alta per raggiungerla.  Senti un respiro che si fa sempre piu' profondo e
+intenso.  Il buio ti impedisce di scrutare negli angoli remoti di questo antro
+ma il tuo intuito ti dice chiaramente di stare all'erta.  Il ringhiare alle tue
+spalle conferma il tuo sospetto.    
+~
+112 9 0
+D3
+~
+~
+0 0 11296 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11298
+un vicolo~
+Sei nella piu' squallida via che esista sulla faccia della Daresia. A parte
+il tanfo insopportabile e la sporcizia che la fa da padrona l'ambiente e'
+davvero deprimente.
+Se non fosse per una luce proveniente da una specie di baracca a ovest qui non
+si vedrebbe nulla... peccato!
+~
+112 72 0
+D1
+~
+~
+0 0 11216 0
+D3
+~
+porticina~
+2 11298 11299 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11299
+una baracca~
+Ti trovi all'interno di una baracca costruita con vecchie assi e travi marce
+prese da qualche nave probabilemnte rovinosamente finita sugli scogli.
+Costituita da un unica stanza ed illuminata da una piccola botte trasformata
+in lanterna procura un angoscia tale che vorresto solo andartene il prima possibile.
+~
+112 72 0
+D1
+~
+porticina~
+1 0 11298 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

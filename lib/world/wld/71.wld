@@ -1,0 +1,692 @@
+#7100
+La sponda della pozza~
+   La sponda della pozza e' debolmente illuminato dalla tua luce.  Non puoi
+vedere null'altro li' vicino.  L'oscurita' e' decisamente oppressiva qui.  
+L'aria e' pesante e la roccia su cui ti trovi scivolosa.  La pozza sembra
+troppo scura da permettere di vedere cosa si trovi in essa.  Sembra estendersi
+verso est.  Puoi anche scalare la roccia per allontanarti da qui verso l'alto.
+  
+~
+71 13 5
+D4
+~
+~
+0 -1 7000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7101
+Sotto la pozza di fango~
+   Ti trovi in una piccola stanza con una grande apertura nel soffitto.  Da
+questa apertura cola copiosamente del &3fango&0.  Puoi sentire il fetore dei
+sedimenti melmosi mentre tenti disperatamente di non esserne coperto.  Verso
+est c'e' un corridoio che si allontana dalla stanza e sembra un'impresa vana
+cercare di contrastare la discesa del &3fango&0 nel tentativo di arrampicarsi
+dall'apertura in alto.    
+~
+71 13 5
+D1
+Non vedi nulla di interessante.
+~
+~
+0 -1 7103 0
+E
+fango~
+Non avevi mai visto prima del fango cosi' disgustoso, ti viene quasi da
+vomitare.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7102
+Sotto la Buia Voragine~
+   Ti trovi proprio in un bel posto!  Sei proprio al centro di una stanza con
+due sole uscite, in alto e est.  Una &7scala&0 e' stata lasciata qui cosi' da
+facilitarti la salita verso la sommita' della voragine.    
+~
+71 9 1
+D1
+~
+~
+0 -1 7104 0
+D4
+Non puoi vedere nulla, e' troppo buio.
+~
+~
+0 -1 7004 0
+D5
+~
+botola~
+1 -1 7300 1
+E
+scala~
+   E' una scala di legno e, dopo un'ispezione piu' accurata, scopri che e'
+ancora al muro magicamente.  Non puoi spostarla, neanche con tutta la tua
+forza!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7103
+Una curva fangosa nel sistema fognario~
+   Ti trovi nei pressi di quella che sembra una curva nel sistema di condotti
+delle fogne.  Il 'pavimento' e' completamente coperto di &3fango&0!  Naturalmente
+anche le tue gambe sono infangate fino alle ginocchia.  Il condotto prosegue
+verso ovest e sud.    
+~
+71 9 4
+D2
+Verso sud sembra esserci meno fango!  Pensi che sarebbe bello sentirti di nuovo
+i piedi liberi dalla melma.    
+~
+~
+0 -1 7104 0
+D3
+Puoi vedere una stanza in cui il fango cola copiosamente dall'alto sul
+pavimento.  Non sembra esserci nessuna via d'uscita da quella stanza, a parte
+questa in cui ti trovi.    
+~
+~
+0 -1 7101 0
+E
+fango~
+Non hai mai visto una melma disgustosa quanto questa, ti viene quasi da
+vomitare.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7104
+Una intersezione nel condotto fognario~
+   Ti trovi al centro di quella che sembra una triplice intersezione di
+condotti che vanno a est, ovest e nord.    
+~
+71 9 1
+D0
+Puoi vedere l'inizio di una zona piena di fango in questa direzione.    
+~
+~
+0 -1 7103 0
+D1
+E' troppo scuro per avere un'idea di cosa ci sia.
+~
+~
+0 -1 7112 0
+D3
+C'e' una stanza con una scala che sale verso l'alto.
+~
+~
+0 -1 7102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7105
+Sotto al vecchio pozzo~
+   Sei sospeso alle pareti scivolose di un vecchio pozzo che continua verso
+l'alto e verso il basso.  L'unico punto sicuro qui e' costituito da alcune
+&6barre&0 di metallo infisse nelle pareti del pozzo, ti devi aggrappare ad esse per
+non cadere.  Chissa' quanto e' profonto questo pozzo?  Le &6barre&0 scendono verso
+il basso e salgono verso l'alto.    
+~
+71 9 5
+D4
+Una debole e tenue luce viene dall'alto o forse e' solo la tua immaginazione.
+Comunque in basso sembra piu' buio che in alto.    
+~
+~
+0 -1 7015 0
+E
+barre~
+Sembrano alquanto scivolose e non molto sicure, ma forse sufficientemente salde
+da permetterti di scendere purche' tu usi entrambe le mani per afferrarti a
+loro.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7106
+L'angolo nord-occidentale del Cornicione~
+   Ti trovi a dondolare su un cornicione di roccia.  Solo un paio di
+centimentri separano i tuoi piedi dal vuoto.  Il cornicione continua ad est o
+piega verso sud.  Sembra che il cornicione sia troppo stretto per consentirti
+di voltarti e cosi' devi necessariamente continuare ad andare dritto.    
+~
+71 13 5
+D1
+Il cornicione continua verso est.
+~
+~
+0 -1 7113 0
+D2
+Il cornicione continua verso sud.
+~
+~
+0 -1 7107 0
+D5
+L'Abisso si apre sotto ai tuoi piedi. Chissa' quale mostro abita laggiu'?
+~
+roccia scalino sporgenza~
+1 -1 7279 3
+E
+roccia~
+Sembra come se qualcuno vi ricavato una specie di porta.  Apparentemente
+conduce verso il basso.    
+~
+E
+scalino~
+Una piccola roccia sporgente si trova sotto il gradino di pietra.  Se non vuoi
+usare questi gradini naturali, l'alternativa e' una sola: gettarti nel vuoto.
+  
+~
+E
+sporgenza~
+La sporgenza sembra formare un gradino che scende verso il basso.  L'Abisso si
+apre la' in fondo conducendo alla distruzione totale.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7107
+Uno stretto Cornicione~
+   Stai procedendo su un camminamento roccioso che corre tutt'intorno ad una
+voragine.  Il cornicione e' cosi' stretto che non c'e' modo di voltarsi e
+tornare indietro.  C'e' un'altra uscita, se non vuoi continuare a camminare in
+avanti, ma questa conduce dritto dritto nella voragine e, con ogni
+probabilita', a morte certa.    
+~
+71 13 5
+D0
+Il cornicione piu' avanti piega ad angolo verso est.
+~
+~
+0 -1 7106 0
+D1
+Ti trovi a mezz'aria e sotto di te non c'e' altro che oscurita'.  Temi che
+andare in questa direzione comporti una caduta fatale.    
+~
+~
+0 -1 7190 0
+D2
+Il cornicione continua a sud nell'oscurita'.
+~
+~
+0 -1 7108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7108
+Uno stretto cornicione~
+   Stai procedendo su un camminamento roccioso che corre tutt'intorno ad una
+voragine.  Il cornicione e' cosi' stretto che non c'e' modo di voltarsi e
+tornare indietro.  C'e' un'altra uscita, se non vuoi continuare a camminare in
+avanti, ma questa conduce dritto dritto nella voragine e, con ogni
+probabilita', a morte certa.    
+~
+71 13 5
+D0
+Il cornicione prosegue verso nord.
+~
+~
+0 -1 7107 0
+D1
+Ti trovi a mezz'aria e sotto di te non c'e' altro che oscurita'.  Temi che
+andare in questa direzione comporti una caduta fatale.    
+~
+~
+0 -1 7190 0
+D2
+Il cornicione continua a sud nell'oscurita'.
+~
+~
+0 -1 7109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7109
+Uno stretto cornicione~
+   Stai procedendo su un camminamento roccioso che corre tutt'intorno ad una
+voragine.  Il cornicione e' cosi' stretto che non c'e' modo di voltarsi e
+tornare indietro.  C'e' un'altra uscita, se non vuoi continuare a camminare in
+avanti, ma questa conduce dritto dritto nella voragine e, con ogni
+probabilita', a morte certa.    
+~
+71 13 5
+D0
+Il cornicione prosegue verso nord.
+~
+~
+0 -1 7108 0
+D1
+Ti trovi a mezz'aria e sotto di te non c'e' altro che oscurita'.  Temi che
+andare in questa direzione comporti una caduta fatale.    
+~
+~
+0 -1 7190 0
+D2
+Il cornicione continua a sud nell'oscurita'.
+~
+~
+0 -1 7110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7110
+Lo stretto cornicione~
+   Stai procedendo su un camminamento roccioso che corre tutt'intorno ad una
+voragine.  Il cornicione e' cosi' stretto che non c'e' modo di voltarsi e
+tornare indietro.  C'e' un'altra uscita, se non vuoi continuare a camminare in
+avanti, ma questa conduce dritto dritto nella voragine e, con ogni
+probabilita', a morte certa.    
+~
+71 13 5
+D0
+Il cornicione prosegue verso nord.
+~
+~
+0 -1 7107 0
+D1
+Ti trovi a mezz'aria e sotto di te non c'e' altro che oscurita'.  Temi che
+andare in questa direzione comporti una caduta fatale.    
+~
+~
+0 -1 7190 0
+D2
+Puoi raggiungere l'angolo sud-occidentale di questo cornicione.
+~
+~
+0 -1 7111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7111
+L'angolo sud-occidentale del cornicione~
+   Questo cornicione su cui ti trovi sembra leggermente piu' ampio di quello
+che vedi a nord.  Il camminamento sembra girare tutt'intorno ad una voragine
+completamente buia.  Poco al di sotto del cornicione ti sembra di scorgere una
+sporgenza.    
+~
+71 13 5
+D0
+Il cornicione prosegue verso nord.
+~
+~
+0 -1 7110 0
+D1
+Vedi un ampio camminamento che conduce verso est.
+~
+~
+0 -1 7115 0
+D2
+A sud c'e' un viottolo che si allontana dal cornicione.
+~
+~
+0 -1 7112 0
+D5
+L'Abisso si apre sotto ai tuoi piedi. Chissa' quale mostro vi si nasconde?
+~
+roccia gradino~
+1 -1 7279 3
+E
+roccia~
+Sembra come se ci fosse una specie di porta qui.  Forse conduce in basso.    
+~
+E
+scalino~
+Una piccola roccia forma uno scalino proprio sotto di te, l'alternativa per
+scendere, se non vuoi utilizzare queste sporgenze, e' quella di gettarsi nel
+vuoto.    
+~
+E
+sporgenza~
+Questa sporgenza sembra formare un gradino che scende, ma dove porta?  
+L'Abisso si apre sotto ai tuoi piedi conducendo alla totale distruzione.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7112
+Una strana intersezione~
+   Ti trovi presso una strana intersezione di condotti.  I cunicoli in realta'
+non sembrano condotti fognari.  Sembrano piu' simili a tunnel scavati nella
+pietra o passaggi ricavati artificialmente nella roccia.  Da qui puoi andare a
+nord, est ed ovest.    
+~
+71 9 1
+D0
+Vedi un cornicione roccioso che si dispiega attorno ad una voragine.
+~
+~
+0 -1 7111 0
+D1
+~
+~
+0 -1 7122 0
+D3
+~
+~
+0 -1 7104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7113
+Lo stretto cornicione che corre da est ad ovest~
+   Stai procedendo su un camminamento roccioso che corre tutt'intorno ad una
+voragine.  Il cornicione e' cosi' stretto che non c'e' modo di voltarsi e
+tornare indietro.  C'e' un'altra uscita, se non vuoi continuare a camminare in
+avanti, ma questa conduce dritto dritto nella voragine e, con ogni
+probabilita', a morte certa.    
+~
+71 13 5
+D1
+Il cornicione prosegue verso est.
+~
+~
+0 -1 7116 0
+D2
+Se ti muovi in questa direzione ti troverai sospeso a mezz'aria nell'oscurita'.
+Pensi che non ci sarebbe possibilita' di sopravvivenza per te cadendo da questa
+altezza.    
+~
+~
+0 -1 7190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7114
+Mezz'aria~
+   Sei appena finito in una delle locazioni piu' spiacevoli dell'intero MUD.  
+Il risultato di questo atto folle sara' punito con la morte.  Con
+un'accelerezione approssimativa di 9,82 metri al secondo, stai precipitando
+verso l'Abisso.  Cosa ti attende laggiu' continuera' a restare un mistero.  
+Addio mondo crudele.    
+~
+71 10 0
+D0
+~
+~
+0 -1 7119 0
+D1
+~
+~
+0 -1 7118 0
+D2
+~
+~
+0 -1 7120 0
+D3
+~
+~
+0 -1 7117 0
+D4
+~
+~
+0 -1 7115 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#7115
+Un ampio cornicione~
+   Ti trovi in un punto del cornicione di roccia piu' ampio rispetto al resto.
+Questo su cui ti trovi va da ovest ad est e vedi anche un viottolo che va verso
+sud.  Potresti saltare nel vuoto, ma probabilmente non sarebbe una buona idea.
+Il viottolo verso sud e' avvolto nella piu' completa oscurita'.    
+~
+71 13 4
+D1
+~
+~
+0 -1 7121 0
+D2
+~
+~
+0 -1 7129 0
+D3
+~
+~
+0 -1 7111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7116
+L'angolo nordorientale del cornicione~
+   Ti trovi su uno stretto cornicione, solo un paio di centimentri di solida
+roccia ti separano dall'Abisso.  Il cornicione continua a ovest e a sud
+nell'oscurita'.    
+~
+71 13 5
+D2
+~
+~
+0 -1 7117 0
+D3
+Il cornicione continua verso ovest.
+~
+~
+0 -1 7113 0
+D5
+Ti accorgi che nel pavimento roccioso si apre una botola.  Della terra vi e'
+stata gettata sopra per nascondere l'entrata.  Aperta la botola vedi un
+condotto che scende parallelamente alla voragine.    
+~
+botola entrata segreta~
+1 -1 7280 3
+E
+pavimento terra~
+Ti accorgi che nel pavimento roccioso si apre una botola.  Della terra vi e'
+stata gettata sopra per nascondere l'entrata.  Aperta la botola vedi un
+condotto che scende parallelamente alla voragine.    
+~
+E
+terreno cornicione roccia~
+Il terreno qui sembra differente da quello che hai visto lungo tutto il
+cornicione.  La terra qui e' smossa e non compattata, forse dovresti
+ispezionare questo punto con piu' attenzione.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7117
+Lo stretto cornicione orientale~
+   Stai percorrendo un camminamento che gira tutto intorno ad una voragine.  
+Non c'e' modo di voltarsi per tornare indietro perche' e' troppo stretto.  
+C'e' un'altra via che potresti percorrere da qui, ma conduce dritto dritto nel
+vuoto e probabilmente ti sfracelleresti dopo una interminabile caduta.  E'
+appena ad ovest da qui, quindi fai attenzione.    
+~
+71 13 5
+D2
+Il cornicione continua verso sud.
+~
+~
+0 -1 7118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7118
+Lo stretto cornicione orientale~
+   Stai percorrendo un camminamento che gira tutto intorno ad una voragine.  
+Non c'e' modo di voltarsi per tornare indietro perche' e' troppo stretto.  
+C'e' un'altra via che potresti percorrere da qui, ma conduce dritto dritto nel
+vuoto e probabilmente ti sfracelleresti dopo una interminabile caduta.  E'
+appena ad ovest da qui, quindi fai attenzione.    
+~
+71 13 5
+D2
+Il cornicione continua verso sud.
+~
+~
+0 -1 7119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7119
+Lo stretto cornicione orientale~
+   Stai percorrendo un camminamento che gira tutto intorno ad una voragine.  
+Non c'e' modo di voltarsi per tornare indietro perche' e' troppo stretto.  
+C'e' un'altra via che potresti percorrere da qui, ma conduce dritto dritto nel
+vuoto e probabilmente ti sfracelleresti dopo una interminabile caduta.  E'
+appena ad ovest da qui, quindi fai attenzione.    
+~
+71 13 5
+D2
+Il cornicione continua verso sud.
+~
+~
+0 -1 7120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7120
+Lo stretto cornicione orientale~
+   Stai percorrendo un camminamento che gira tutto intorno ad una voragine.  
+Non c'e' modo di voltarsi per tornare indietro perche' e' troppo stretto.  
+C'e' un'altra via che potresti percorrere da qui, ma conduce dritto dritto nel
+vuoto e probabilmente ti sfracelleresti dopo una interminabile caduta.  E'
+appena ad ovest da qui, quindi fai attenzione.  Scorgi anche una piccola
+apertura nella roccia ad est.    
+~
+71 13 5
+D1
+Tutto e' avvolto nell'oscurita'.
+~
+~
+0 -1 7123 0
+D2
+Il cornicione continua verso sud.
+~
+~
+0 -1 7121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7121
+L'angolo sudorientale del cornicione~
+   Questo punto del cornicione sembra leggermente piu' largo di quello che si
+trova a nord.  Il camminamento sembra girare tutt'intorno ad una specie di
+Abisso avvolto nella piu' totale oscurita'.    
+~
+71 13 5
+D0
+A nord puoi vedere un cornicione roccioso.
+~
+~
+0 -1 7120 0
+D3
+Il cornicione roccioso prosegue verso ovest.
+~
+~
+0 -1 7115 0
+D5
+L'Abisso si apre sotto ai tuoi piedi. Chissa' quale mostro nasconde?
+~
+roccia scalino sporgenza~
+2 -1 7279 11
+E
+roccia~
+Sembra che la roccia in questo punto sia stata modellata a formare una specie
+di porta.  Forse nasconde un modo sicuro per scendere.    
+~
+E
+scalino~
+Una piccola roccia e' proprio sotto di te, l'unico altro modo per scendere e'
+quello di gettarsi nel vuoto.    
+~
+E
+sporgenza~
+La sporgenza rocciosa sotto ai tuoi piedi sembra formare uno scalino.  Ma dove
+portera' questa scala di roccia?  L'Abisso si apre sotto ai tuoi piedi
+conducendo alla totale distruzione.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7122
+Sotto la voragine~
+   Ti trovi in una caverna completamente avvolta nell'oscurita'.  Le &7pareti&0
+sono strane qui.  Un cunicolo si estende verso ovest.    
+~
+71 9 0
+D3
+~
+~
+0 -1 7112 0
+E
+pareti~
+C'e' un'apertura qui, che sembra essere stata fatta di recente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7123
+Sotto lo sfiatatoio~
+   Una scala permette di risalire da qui fino allo Sfiatatoio.  Una piccola
+apertura si apre lungo la parete occidentale.    
+~
+71 9 5
+D3
+Puoi vedere uno stretto camminamento roccioso che va da nord a sud.
+~
+~
+0 -1 7120 0
+D4
+E' troppo buio per vedere lassu'.
+~
+~
+0 -1 7041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7129
+Un condotto fognario~
+   Ti trovi in una parte del sistema fognario in cui i condotti sono molto
+stretti.  Sotto di te le fogne continuano con i loro cunicoli, mentre a nord
+vedi un camminamento roccioso.    
+~
+71 9 3
+D0
+Puoi vedere la parte meridionale di un cornicione che gira attorno ad una
+voragine.    
+~
+~
+0 -1 7115 0
+D5
+Le fogne si inoltrano nelle viscere della terra.
+~
+~
+0 -1 7221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7190
+Mezz'aria~
+   Sei appena finito in una delle locazioni piu' spiacevoli dell'intero MUD.  
+Il risultato di questo atto folle sara' punito con la morte.  Con
+un'accelerezione approssimativa di 9,82 metri al secondo, stai precipitando
+verso l'Abisso.  Cosa ti attende laggiu' continuera' a restare un mistero.  
+Addio mondo crudele.    
+~
+71 10 0
+D0
+~
+~
+0 -1 7109 0
+D1
+~
+~
+0 -1 7108 0
+D2
+~
+~
+0 -1 7110 0
+D3
+~
+~
+0 -1 7107 0
+D4
+~
+~
+0 -1 7113 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+$~

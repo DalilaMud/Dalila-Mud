@@ -1,0 +1,749 @@
+#10200
+&RL'ingresso della caverna &VVerde&0~
+
+~
+102 0 0
+D2
+
+~
+~
+0 -1 10201 0
+D4
+
+~
+Tombino~
+1 -1 10157 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10201
+&RLa caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10200 0
+D1
+
+~
+~
+0 -1 10203 0
+D2
+
+~
+~
+0 -1 10202 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10202
+&RLa caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10201 0
+D2
+
+~
+~
+0 -1 10209 0
+D3
+
+~
+~
+0 -1 10206 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10203
+&RIl tunnel destro della caverna &VVerde&0~
+
+~
+102 0 0
+D1
+
+~
+~
+0 -1 10204 0
+D3
+
+~
+~
+0 -1 10201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10204
+&RIl tunnel destro della caverna &VVerde&0~
+
+~
+102 0 0
+D2
+
+~
+~
+0 -1 10205 0
+D3
+
+~
+~
+0 -1 10203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10205
+&RLa fine del tunnel destro della caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10206
+&RIl tunnel sinistro della caverna &VVerde&0~
+
+~
+102 0 0
+D1
+
+~
+~
+0 -1 10202 0
+D3
+
+~
+~
+0 -1 10207 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10207
+&RIl tunnel sinistro della caverna &VVerde&0~
+
+~
+102 0 0
+D1
+
+~
+~
+0 -1 10206 0
+D2
+
+~
+~
+0 -1 10208 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10208
+&RLa fine del tunnel sinistro della caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10207 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10209
+&RLa caverna &VVerde&0 si allarga~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10202 0
+D1
+
+~
+~
+0 -1 10210 0
+D2
+
+~
+~
+0 -1 10212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10210
+&RLa caverna &VVerde&0 si allarga~
+
+~
+102 0 0
+D2
+
+~
+~
+0 -1 10211 0
+D3
+
+~
+~
+0 -1 10209 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10211
+&RLa caverna &VVerde&0 si allarga~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10210 0
+D1
+
+~
+~
+0 -1 10214 0
+D3
+
+~
+~
+0 -1 10212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10212
+&RLa caverna &VVerde&0 si allarga~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10209 0
+D1
+
+~
+~
+0 -1 10211 0
+D2
+
+~
+~
+0 -1 10213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10213
+&RIl tunnel sud della caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10212 0
+D3
+
+~
+~
+0 -1 10215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10214
+&RLa caverna &VVerde&0 si restringe~
+
+~
+102 0 0
+D2
+
+~
+~
+0 -1 10217 0
+D3
+
+~
+~
+0 -1 10211 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10215
+&RIl tunnel sud della caverna &VVerde&0~
+
+~
+102 0 0
+D1
+
+~
+~
+0 -1 10213 0
+D2
+
+~
+~
+0 -1 10216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10216
+&RLa fine del tunnel sud della caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10217
+&RLa caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10214 0
+D1
+
+~
+~
+0 -1 10218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10218
+&RUn tunnel nella caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10220 0
+D1
+
+~
+~
+0 -1 10221 0
+D2
+
+~
+~
+0 -1 10219 0
+D3
+
+~
+~
+0 -1 10217 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10219
+&RUn tunnel nella caverna &VVerde&0~
+
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10218 0
+D2
+
+~
+~
+0 -1 10231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10220
+&RUna grotta&0~
+
+~
+102 0 0
+D2
+
+~
+~
+0 -1 10218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10221
+&RUna grotta&0~
+
+~
+102 0 0
+D3
+
+~
+~
+0 -1 10218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10222
+L'ingresso del &CLabirinto di Specchi&0~
+Ha trovato il &Clabirinto degli specchi&0.
+Una scritta recita: 
+&w<<Sei sicuro di voler continuare?>>&0
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10223 0
+D2
+~
+Specchio~
+1 0 10199 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10223
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10222 0
+D1
+
+~
+~
+0 -1 10224 0
+D2
+
+~
+~
+0 -1 10222 0
+D3
+
+~
+~
+0 -1 10230 0
+D4
+
+~
+~
+0 -1 10223 0
+D5
+
+~
+~
+0 -1 10223 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10224
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10225 0
+D1
+
+~
+~
+0 -1 10223 0
+D2
+
+~
+~
+0 -1 10230 0
+D3
+
+~
+~
+0 -1 10223 0
+D4
+
+~
+~
+0 -1 10222 0
+D5
+
+~
+~
+0 -1 10224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10225
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10224 0
+D1
+
+~
+~
+0 -1 10226 0
+D2
+
+~
+~
+0 -1 10224 0
+D3
+
+~
+~
+0 -1 10222 0
+D4
+
+~
+~
+0 -1 10230 0
+D5
+
+~
+~
+0 -1 10230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10226
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10227 0
+D1
+
+~
+~
+0 -1 10230 0
+D2
+
+~
+~
+0 -1 10226 0
+D3
+
+~
+~
+0 -1 10225 0
+D4
+
+~
+~
+0 -1 10222 0
+D5
+
+~
+~
+0 -1 10223 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10227
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10228 0
+D1
+
+~
+~
+0 -1 10230 0
+D2
+
+~
+~
+0 -1 10226 0
+D3
+
+~
+~
+0 -1 10230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10228
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi
+~
+102 128 0
+D0
+
+~
+~
+0 -1 10222 0
+D1
+
+~
+~
+0 -1 10230 0
+D2
+
+~
+~
+0 -1 10227 0
+D3
+
+~
+~
+0 -1 10229 0
+D4
+
+~
+~
+0 -1 10230 0
+D5
+
+~
+~
+0 -1 10230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10229
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi...
+&GGuardi verso il basso...hai trovato qualcosa!&0
+~
+102 128 0
+D1
+
+~
+~
+0 -1 10228 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10230
+&CDentro il Labirinto di Specchi&0~
+Ti gira la testa...ti sei perso tra gli specchi...
+Uno vecchio specchio rotto si ficca nella tua gola...&RR.I.P. Sei morto!&0
+~
+102 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10231
+&RUn tunnel nella caverna &VVerde&0~
+
+~
+102 4 0
+D0
+
+~
+~
+0 -1 10219 0
+D1
+
+~
+~
+0 -1 10233 0
+D2
+
+~
+~
+0 -1 10234 0
+D3
+
+~
+~
+0 -1 10232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10232
+&RUna grotta&0~
+
+~
+102 0 0
+D1
+
+~
+~
+0 -1 10231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10233
+&RUna grotta&0~
+
+~
+102 0 0
+D3
+
+~
+~
+0 -1 10231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10234
+&RUna grotta di spaventose dimensioni&0~
+&R           ______________
+      ,===:'.,            `-._
+           `:.`---.__         `-._
+             `:.     `--.         `.
+               \.        `.         `.
+       (,,(,    \.         `.   ____,-`.,
+    (,'     `/   \.   ,--.___`.'
+,  ,'  ,--.  `,   \.;'         `
+ `{D, {    \  :    \;
+   V,,'    /  /    //
+   j;;    /  ,' ,-//.    ,---.      ,
+   \;'   /  ,' /  _  \  /  _  \   ,'/
+         \   `'  / \  `'  / \  `.' /
+          `.___,'   `.__,'   `.__,'
+&0
+~
+102 0 0
+D0
+
+~
+~
+0 -1 10231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~
+

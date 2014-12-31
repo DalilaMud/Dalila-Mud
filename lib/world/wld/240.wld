@@ -1,0 +1,1689 @@
+#24000
+L'ingresso alla cittadella di Kuna~
+Sei alle porte di Kuna. Davanti a te c'e un portale completamente aperto
+e la tua vista, passando oltre,  vede una piazza completamente abbandonata.
+La strada sterrata sotto di te finisce con l'apparire della porta  d'ingresso.
+Una scritta sopra la porta d'entrata dice: "Vedrete cose che non potrete
+raccontare"...
+~
+240 4 1
+D0
+~
+~
+0 -1 24001 0
+D2
+~
+~
+0 0 1577511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24001
+La piazza della cittadella.~
+Questa piazza era piuttosto frequentata ai tempi. Qualche povero disgraziato
+vaga ancora da queste parti. Verso sud, dopo la grande porta di ingresso,
+vedi l'ingresso della cittadella. Un viale che porta verso questa piazza
+inizia a nord, al centro della piazza c'e una vecchia runa incisa, e la statua 
+di Mister il dio del male.~
+240 0 1
+D0
+~
+~
+0 -1 24002 0
+D1
+~
+~
+0 -1 24061 0
+D2
+~
+~
+0 -1 24000 0
+D3
+~
+~
+0 -1 24031 0
+E
+runa~
+Un tempo Kuna, era un ridente paesino di provincia, ma dopo ad alcune apparizioni
+delle creature di Mister che devastarono completamente questa cittadina,
+venne abbandonata. Di conseguenza la cittadella divenne un punto di ritrovo
+per molte delle creature malvagie che popolano la Daresia. Io, Khazad il
+Mago, fui il primo a rientrare in questa citta' dopo secoli di abbandono
+al male, e ne scoprii tutti i segreti e gli orrori. Attenti dunque forestieri,
+il male si cela ad ogni angolo di questa malefica cittadella. Khazad.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24002
+Il viale della  morte~
+Questo viale maligno era chiamato viale della luce ma in seguito alòle apparizioni
+demoniache, venne rinominato in questo terribile modo. La pavimentazione
+e' regolare e l'illuminazione e' molto scarsa. Verso sud scorgi la piazza
+della cittadella, mentre verso ovest vedi una piccola arcata. Invece ad
+est c'e un portone.
+~
+240 4 1
+D0
+~
+~
+0 -1 24009 0
+D1
+~
+~
+0 -1 24008 0
+D2
+~
+~
+0 -1 24001 0
+D3
+~
+~
+1 -1 24004 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24003
+L'arena dei sacrifici.~
+Questo posto spettrale e' diventarto, in seguito all'evacuazione dal paese,
+un ritrovo per tutti gli adoratori del male. La stanza e' circolare ed
+assomiglia ad un'arena. Al suo centro c'e un altare con un complesso di
+sculture che fa rabbrividire.  Vicino a questo c'e una botola che porta
+verso il basso, mentre verso nord c'e una porta che ti sembra chiusa. 
+Ad est, invece, vedi il corridoio che ti ha portato qui.
+~
+240 0 0
+D0
+~
+porta cancello~
+0 30000 24005 0
+D1
+~
+~
+0 -1 24004 0
+D5
+~
+~
+0 -1 24006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24004
+Il corridoio dell'arena.~
+Ti trovi in un lungo corridoio. Questo tunnel ha un soffitto arcuato ed
+e' illuminato da torce appese  al muro con un intervallo regolare. In lontananza
+verso ovest vedi l'arena dei sacrifici, e verso est noti  l'atmosfera del
+viale della morte. 
+~
+240 0 0
+D1
+~
+~
+0 -1 24002 0
+D3
+~
+~
+0 -1 24003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24005
+L'anticamera dell'arena.~
+Ti trovi sul retro dell'arena dei sacrifici e in questa piccola stanza ci
+sono molti residui di  sacrifici passati. Puoi solo andare verso sud dove
+vedi l'arena.
+~
+240 0 0
+D2
+~
+~
+0 -1 24003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24006
+Un tunnel~
+Sei in un buco molto stretto buio e stantio. Puoi andare in su dove ritorneresti
+nell'arena oppure ancora vedo il basso ma non sai cosa ti potra' capitare...
+~
+240 269 0
+D4
+~
+porta cancello~
+0 -1 24003 0
+D5
+~
+botola~
+2 24000 24007 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24007
+La stanza segreta~
+Sei in piedi in un piccolo stanzino buio e puzzolente, scavato nel terreno.
+ Si dice che qui viva il fantasma di Sakaan, il mago morto soffocato in
+questo  terribile posto. La tua sola uscita e' ritornare in quel terribile
+tunnel.
+~
+240 33 0
+D4
+~
+porta cancello~
+2 24000 24006 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24008
+La torre maligna~
+Questa strana torre e' buia, e non ha finestre. C'e una scala  che porta
+in alto mentre verso il basso c'e una rampa che porta a un portale chiuso.
+Ad ovest ritoni nel viale della morte. 
+~
+240 8 0
+D2
+~
+portale~
+0 30007 24013 0
+D3
+~
+~
+0 -1 24002 0
+D4
+~
+~
+0 -1 24010 0
+D5
+~
+~
+0 -1 24048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24009
+Il viale della  morte~
+Questo viale maligno era chiamato viale della luce ma in seguito alòle apparizioni
+demoniache, venne rinominato in questo terribile modo. La pavimentazione
+e' regolare e l'illuminazione e' molto scarsa. Verso sud scorgi la continuazione
+di questo viale, mentre a nord vedi uno strano cancello. A ovest invece c'e
+una piccola casa,  dalla parte opposta c'e una piccxola stradina scura ed infida.
+~
+240 4 1
+D0
+~
+~
+0 -1 24014 0
+D1
+~
+~
+0 -1 24038 0
+D2
+~
+cancello~
+0 -1 24002 0
+D3
+~
+~
+0 -1 24028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24010
+Il primo piano della torre~
+Sei al primo piano di questa torre terrificante. Verso est c'e una stanza,
+ oppure c'e la scala che procede verso l'alto e verso il basso  
+~
+240 9 0
+D1
+~
+~
+1 -1 24011 1
+D4
+~
+~
+0 -1 24029 0
+D5
+~
+~
+0 -1 24008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24011
+La stanza della torre~
+Questa e' la dimora di uno dei pochi viventi di questo "allegro paesello"
+La stanza e' buia, tetra e puzzolente. Verso ovest puoi tornare all'atrio
+ che precedente questa stanza.
+~
+240 41 0
+D3
+~
+~
+0 -1 24010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24012
+La cupola della torre~
+Ti trovi in cima alla torre. C'e una piccola finestrella che fa filtrare
+ un piccolo spiraglio di luce. La tua unica uscita e' verso sud dove vedi
+ il primo piano della torre.
+~
+240 8 0
+D5
+~
+botola~
+2 24007 24047 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24013
+La tesoreria della torre.~
+Sei nella stanza dove il paladino tiene il suo tesoro. La stanza e' buia
+ e senti profumo di soldi qui dentro.
+~
+240 0 0
+D0
+~
+~
+0 -1 24008 0
+D4
+~
+~
+0 -1 24008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24014
+L'entrata al cimitero~
+Ti trovi davanti ad un cancello. Oltre questo vedi il cimitero della cittadella.
+ Ci sono molte lapidi e non promette nulla di buono.
+~
+240 1 1
+D0
+~
+cancello~
+1 -1 24015 1
+D2
+~
+~
+0 -1 24009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24015
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D0
+~
+cancello~
+0 -1 24023 0
+D1
+~
+~
+0 -1 24016 0
+D2
+~
+cancello~
+0 -1 24014 0
+D3
+~
+~
+0 -1 24022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24016
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D0
+~
+cancello~
+0 -1 24017 0
+D3
+~
+cancello~
+0 -1 24015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24017
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D0
+~
+cancello~
+0 -1 24018 0
+D2
+~
+~
+0 -1 24016 0
+D3
+~
+cancello~
+0 -1 24023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24018
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D2
+~
+~
+0 -1 24017 0
+D3
+~
+cancello~
+0 -1 24019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24019
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D1
+~
+~
+0 -1 24018 0
+D2
+~
+cancello~
+0 -1 24023 0
+D3
+~
+~
+0 -1 24020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24020
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D1
+~
+cancello~
+0 -1 24019 0
+D2
+~
+cancello~
+0 -1 24021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24021
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D0
+~
+~
+0 -1 24020 0
+D1
+~
+cancello~
+0 -1 24023 0
+D2
+~
+cancello~
+0 -1 24022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24022
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D0
+~
+~
+0 -1 24021 0
+D1
+~
+cancello~
+0 -1 24015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24023
+Il cimitero~
+Sei nel cimitero della citta'. Molte lapidi affiorano qui. Vedi incisi degli
+strani nomi,  forse di alcuni antichi abitanti della citta'. Vedi pero'
+una cosa strana... la terra e' rivoltata!
+~
+240 0 1
+D0
+~
+~
+0 -1 24019 0
+D1
+~
+~
+0 -1 24017 0
+D2
+~
+~
+0 -1 24015 0
+D3
+~
+~
+0 -1 24021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24024
+La piccola casa dei troll.~
+Questa casa e' piu piccola rispetto alle altre. Semplicemente perche qui
+abitano dei piccoli e maligni troll! Verso ovest vedi il viale della morte.
+Una scala conduce veso l'alto e a nord c'e un'altra stanza.
+~
+240 8 0
+D0
+~
+~
+0 -1 24025 0
+D1
+~
+~
+0 -1 24028 0
+D4
+~
+porta~
+2 24016 24026 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24025
+Il dormitorio dei troll.~
+Questo e' il dormitorio . Qui si riposano quei poiccoli animaletti malefici.
+Verso sud ritorni al salone principale.
+~
+240 8 0
+D2
+~
+cancello~
+0 -1 24024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24026
+La dispensa dei troll~
+Ti trovi nella dispensa dove i troll tengono i loro cibi disgustosi. Verso
+ovest vedi una stanza leggermente  piu' ampia delle altre. Verso il basso
+la scala riconduce al salone di ingresso.
+~
+240 8 0
+D0
+~
+porta~
+2 24020 24037 15
+D3
+~
+~
+0 -1 24027 0
+D5
+~
+porta~
+2 24016 24024 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24027
+La stanza del capo troll~
+Questa e' la stanza del capo di quei micidiali esseri. La stanza e' molto
+ ben illuminata e una specie di trono rudimentale e' posto al centro  della
+stanza. La tua unica uscita e' verso est ritorni alla dispensa.
+~
+240 8 0
+D1
+~
+cancello~
+0 -1 24026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24028
+L'entrata alla casa dei troll.~
+Questo e' l'ingresso alla casa dei troll, quei malefici esserini sporchi
+e puzzolenti. Se ritieni  che non sia opportuno entrare puoi ritornare
+al viale della morte altrimenti puoi continuare verso ovest.
+~
+240 8 0
+D1
+~
+~
+0 -1 24009 0
+D3
+~
+~
+0 -1 24024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24029
+Il secondo piano della torre.~
+Ti trovi nel secondo piano della torre maligna. Una debole luce illumina
+ questa strana stanza circolare. La scala che ti ha portato qui continua
+ sia verso l'alto che verso il basso.
+~
+240 8 0
+D4
+~
+~
+0 0 24047 0
+D5
+~
+~
+0 -1 24010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24030
+Il sentiero nel bosco~
+Questo sentiero attraversa un bosco molto strano. Sembra che qualcuno  ti
+guardi. Le piante e gli albei paiono animati. Puoi tornare alla piazza
+ oppure proseguire lungo questo sentiero.
+~
+240 0 3
+D1
+~
+~
+0 -1 24031 0
+D3
+~
+~
+0 -1 24032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24031
+L'entrata al bosco~
+Qui la strada scompare e lascia spazio ad uno stretto sentiero. Il tuo sesto
+senso  ti dice che proseguendo lungo questa strada si potrebbero fare dei
+brutti incontri. 
+~
+240 4 3
+D1
+~
+~
+0 -1 24001 0
+D3
+~
+~
+0 -1 24030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24032
+Il sentiero nel bosco~
+Questo sentiero attraversa un bosco molto strano. Sembra che qualcuno  ti
+guardi. Le piante e gli albei paiono animati. Puoi tornare alla piazza
+ oppure proseguire lungo questo sentiero.
+~
+240 0 3
+D1
+~
+~
+0 -1 24030 0
+D3
+~
+~
+0 -1 24033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24033
+Il sentiero nel bosco~
+Questo sentiero attraversa un bosco molto strano. Sembra che qualcuno  ti
+guardi. Le piante e gli albei paiono animati. Puoi tornare alla piazza
+ oppure proseguire lungo questo sentiero.
+~
+240 0 3
+D1
+~
+~
+0 -1 24032 0
+D3
+~
+~
+0 -1 1244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24034
+L'entrata alla grotta di INCUBO~
+Il sentiero finisce davanti a questa enorme grotta e dal di dentro  senti
+provenire delle soffiate minacciose...
+~
+240 0 0
+D1
+~
+~
+0 -1 24033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24035
+La sala grande del Palace Hotel~
+Questo e' un locale mitico! Secoli or sono si svolse qui il concerto dei
+Blues Brothers:  un'arcaica adunanza di malefici musicisti che riscuoterono
+un noteole successo e si dice  che qui c'e ancora l'ex capo del gruppo
+che ancora canta "Everybody Needs" 
+~
+240 0 0
+D1
+~
+~
+0 -1 24036 0
+D3
+~
+~
+0 -1 24045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24036
+Il palco del Palace Hotel~
+Sei sul leggendario palco del Palace Hotel. Qui puoi sentire le vecchie
+note del passato riaffiorare  nell'aria. Si dice che qui suoni ancora Elwood
+Blues, il mitico leader dei Blues Brothers.
+~
+240 0 0
+D3
+~
+~
+0 -1 24035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24037
+La distilleria dei troll~
+Ti trovi nella dispensa dove i troll tengono i loro cibi disgustosi. Verso
+ovest vedi una stanza leggermente  piu' ampia delle altre. Verso il basso
+la scala riconduce al salone di ingresso.
+~
+240 8 0
+D2
+~
+porta~
+2 24020 24026 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24038
+Un vicolo~
+Questo vicolo e' buio e gelido. Non c'e illuminazione ed e' strettissimo.
+~
+240 5 1
+D0
+~
+~
+0 -1 24039 0
+D1
+~
+~
+0 -1 24045 0
+D2
+~
+~
+0 -1 24046 0
+D3
+~
+~
+0 -1 24009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24039
+Il covo dei ladri~
+Sei in un bettola sporca e puzzolente. Loschi figuri si aggirano qui tra
+i tavoli.
+~
+240 0 0
+D0
+~
+~
+0 -1 24040 0
+D1
+~
+~
+0 -1 24044 0
+D2
+~
+~
+0 -1 24038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24040
+Il covo dei ladri~
+Sei in un bettola sporca e puzzolente. Loschi figuri si aggirano qui tra
+i tavoli.
+~
+240 0 0
+D0
+~
+~
+0 -1 24041 0
+D1
+~
+~
+0 -1 24043 0
+D2
+~
+~
+0 -1 24039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24041
+Il covo dei ladri~
+Sei in un bettola sporca e puzzolente. Loschi figuri si aggirano qui tra
+i tavoli.
+~
+240 0 0
+D1
+~
+~
+0 -1 24042 0
+D2
+~
+~
+0 -1 24040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24042
+Il covo dei ladri~
+Sei in un bettola sporca e puzzolente. Loschi figuri si aggirano qui tra
+i tavoli.
+~
+240 0 0
+D2
+~
+~
+0 -1 24043 0
+D3
+~
+~
+0 -1 24041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24043
+Il covo dei ladri~
+Sei in un bettola sporca e puzzolente. Loschi figuri si aggirano qui tra
+i tavoli.
+~
+240 0 0
+D0
+~
+~
+0 -1 24042 0
+D2
+~
+~
+0 -1 24044 0
+D3
+~
+~
+0 -1 24040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24044
+Il covo dei ladri~
+Sei in un bettola sporca e puzzolente. Loschi figuri si aggirano qui tra
+i tavoli. 
+~
+240 0 0
+D0
+~
+~
+0 -1 24043 0
+D3
+~
+~
+0 -1 24039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24045
+La hall del Palace Hotel~
+Questa e' la hall del palace hotel. Un vecchio e sporco tapeto rosso ti
+conduce alla  sala grande del Palace Hotel,
+~
+240 0 0
+D1
+~
+~
+0 -1 24035 0
+D3
+~
+~
+0 -1 24038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24046
+La stanza degli dei~
+Addio forestiero....
+~
+240 2 0
+D0
+~
+~
+0 -1 24038 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#24047
+Il terzo piano della torre.~
+Ti trovi al terzo piano della torre. Piu in alto vai e piu' l'arredamento
+si fa  raro e squallido.
+~
+240 8 0
+D4
+~
+botola~
+2 24007 24012 15
+D5
+~
+~
+0 0 24029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24048
+Le segrete della torre~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 8 0
+D0
+~
+~
+0 -1 24051 0
+D2
+~
+portale~
+0 -1 24052 0
+D4
+~
+portale~
+0 -1 24008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24049
+Il corridoio a fianco delle prigioni~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 8 0
+D1
+~
+cancellata~
+1 -1 24056 3
+D2
+~
+portale~
+0 -1 24050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24050
+Il corridoio a fianco delle prigioni~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 8 0
+D0
+~
+~
+0 -1 24049 0
+D1
+~
+cancellata~
+1 -1 24055 3
+D2
+~
+portale~
+0 -1 24051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24051
+Il corridoio a fianco delle prigioni~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 12 0
+D0
+~
+~
+0 -1 24050 0
+D1
+~
+cancellata~
+1 -1 24057 3
+D2
+~
+portale~
+0 -1 24048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24052
+Il corridoio a fianco delle prigioni~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 12 0
+D0
+~
+~
+0 -1 24048 0
+D1
+~
+cancellata~
+1 -1 24058 3
+D2
+~
+~
+0 -1 24053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24053
+Il corridoio a fianco delle prigioni~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 8 0
+D0
+~
+~
+0 -1 24052 0
+D1
+~
+cancellata~
+1 -1 24059 3
+D2
+~
+portale~
+0 -1 24054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24054
+Il corridoio a fianco delle prigioni~
+Ti trovi in un corridoio umido e sporco. La luce non esiste e l'aria e'
+ irrespirabile. Molto probabilmente queste sono le segrete dove il paladino
+della torre tiene  prigionieri qualche meschino personaggio di questa cittadella.
+~
+240 8 0
+D0
+~
+~
+0 -1 24053 0
+D1
+~
+cancellata~
+1 -1 24060 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24055
+Una cella~
+Ti trovi in una cella umida e sporca. Vedi delle scritte sul muro...
+~
+240 8 0
+D3
+~
+cancellata~
+1 -1 24050 3
+E
+muro~
+Khazad e' stato qui
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24056
+Una cella~
+Ti trovi in una cella umida e sporca.
+~
+240 8 0
+D3
+~
+cancellata~
+1 -1 24049 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24057
+Una cella~
+Ti trovi in una cella umida e sporca.
+~
+240 8 0
+D3
+~
+cancellata~
+1 -1 24051 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24058
+Una cella~
+Ti trovi in una cella umida e sporca.
+~
+240 8 0
+D3
+~
+cancellata~
+1 -1 24052 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24059
+Una cella~
+Ti trovi in una cella umida e sporca.
+~
+240 8 0
+D3
+~
+cancellata~
+1 -1 24053 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24060
+Una cella~
+Ti trovi in una cella umida e sporca. 
+~
+240 8 0
+D3
+~
+cancellata~
+1 -1 24054 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24061
+Una stradina in discesa~
+Questa stradina e' piastrellata ed e' tenuta molto meglio delle altre che
+hai  visto fino ad adesso. Dei deboli lampion, alcuni rotti, illuminano
+questa stretta  via.
+~
+240 1 1
+D1
+~
+~
+0 -1 24062 0
+D3
+~
+cancellata~
+0 -1 24001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24062
+Una stradina in discesa~
+Questa stradina e' piastrellata ed e' tenuta molto meglio delle altre che
+hai  visto fino ad adesso. Dei deboli lampion, alcuni rotti, illuminano
+questa stretta  via.
+~
+240 1 1
+D1
+~
+~
+0 -1 24063 0
+D3
+~
+cancellata~
+0 -1 24061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24063
+L'ingresso al castello di Nosferatu~
+Ti trovi davanti ad un imponente cancello. Oltre questo vedi un parco  e
+andando ancora avanti con la vista scorgi un grande castello.
+~
+240 12 0
+D1
+~
+cancellata~
+1 -1 24064 3
+D3
+~
+cancellata~
+0 -1 24062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24064
+Il giardino del castello~
+Sei nel giardino  che circonda il castel.lo di Nosferatu. Sembra che degli
+occhi  furtivi ti seguano nel tuo cammino...
+~
+240 9 0
+D0
+~
+~
+0 -1 24066 0
+D1
+~
+~
+0 -1 24068 0
+D2
+~
+~
+0 -1 24065 0
+D3
+~
+cancellata~
+1 -1 24063 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24065
+Il giardino del castello~
+Sei nel giardino  che circonda il castel.lo di Nosferatu. Sembra che degli
+occhi  furtivi ti seguano nel tuo cammino...
+~
+240 9 0
+D0
+~
+~
+0 -1 24064 0
+D1
+~
+~
+0 -1 24067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24066
+Il giardino del castello~
+Sei nel giardino  che circonda il castel.lo di Nosferatu. Sembra che degli
+occhi  furtivi ti seguano nel tuo cammino...
+~
+240 9 0
+D1
+~
+~
+0 -1 24069 0
+D2
+~
+~
+0 -1 24064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24067
+Il giardino del castello~
+Sei nel giardino  che circonda il castel.lo di Nosferatu. Sembra che degli
+occhi  furtivi ti seguano nel tuo cammino...
+~
+240 13 0
+D0
+~
+~
+0 -1 24068 0
+D1
+~
+~
+0 -1 24071 0
+D3
+~
+~
+0 -1 24065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24068
+Il giardino del castello~
+Sei nel giardino  che circonda il castel.lo di Nosferatu. Sembra che degli
+occhi  furtivi ti seguano nel tuo cammino...
+~
+240 9 0
+D0
+~
+~
+0 -1 24069 0
+D1
+~
+~
+0 -1 24072 0
+D2
+~
+~
+0 -1 24067 0
+D3
+~
+~
+0 -1 24064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24069
+Il giardino del castello~
+Sei nel giardino  che circonda il castel.lo di Nosferatu. Sembra che degli
+occhi  furtivi ti seguano nel tuo cammino...
+~
+240 13 0
+D1
+~
+~
+0 -1 24070 0
+D2
+~
+~
+0 -1 24068 0
+D3
+~
+~
+0 -1 24066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24070
+Il laghetto dei Piranha~
+Ti trovi nel laghetto dei piranha che circonda il castello.
+~
+240 0 6
+D3
+~
+~
+0 -1 24069 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24071
+Il laghetto dei Piranha~
+Ti trovi nel laghetto dei piranha che circonda il castello.
+~
+240 0 6
+D3
+~
+~
+0 -1 24067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24072
+Il ponte del castello~
+Sei sul vecchio ponte del castello. Sotto di questo vedi un'acqua color
+rosso sangue.... Verso est puoi entrare nel castello.
+~
+240 12 0
+D0
+~
+portale~
+1 -1 24073 3
+D3
+~
+~
+0 -1 24068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24073
+Il salone del castello~
+Sei nel salone del castello di Nosferatu. L'aria e' minacciosa e non nascondi
+di avere un po di paura.... C'e una buona illuminazione, ma non e' molto
+accesa. Verso sud torni al ponte del castello.
+~
+240 8 0
+D1
+~
+~
+0 -1 24075 0
+D2
+~
+portale~
+1 -1 24072 3
+D3
+~
+~
+0 -1 24074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24074
+L'inizio della scala sinistra.~
+Davanti a te c'e una scala che porta ad una balconata interna. Ad est torni
+nel salone.
+~
+240 8 0
+D1
+~
+~
+0 -1 24073 0
+D4
+~
+~
+0 -1 24077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24075
+L'inizio della scala destra.~
+Davanti a te c'e una scala che porta ad una balconata interna. Ad est torni
+nel salone.
+~
+240 8 0
+D3
+~
+~
+0 -1 24073 0
+D4
+~
+~
+0 -1 24078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24076
+La balconata interna~
+Da questo posto puoi ammirare il tetro spettacolo di tutto il salone davanti
+a te. verso est puoi raggiungere la parte centrale di questa struttura.
+~
+240 8 0
+D0
+~
+~
+0 -1 24079 0
+D1
+~
+~
+0 -1 24078 0
+D3
+~
+~
+0 -1 24077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24077
+La balconata interna~
+Da questo posto puoi ammirare il tetro spettacolo di tutto il salone davanti
+a te. verso est puoi raggiungere la parte centrale di questa struttura.
+~
+240 8 0
+D1
+~
+~
+0 -1 24076 0
+D5
+~
+~
+0 -1 24074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24078
+La balconata interna~
+Da questo posto puoi ammirare il tetro spettacolo di tutto il salone davanti
+a te. Verso est e verso ovest puoi raggiungere le altre due parti di questo
+complesso
+~
+240 8 0
+D3
+~
+~
+0 -1 24076 0
+D5
+~
+~
+0 -1 24075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24079
+Il corridoio del castello~
+Ti trovi in un lunghissimo corridoio dove vedi a delle pareti i quadri degli
+antenati di Nosferatu
+~
+240 8 0
+D0
+~
+~
+0 -1 24089 0
+D1
+~
+~
+0 -1 24082 0
+D2
+~
+~
+0 -1 24076 0
+D3
+~
+~
+0 -1 24080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24080
+Il corridoio del castello~
+Ti trovi in un lunghissimo corridoio dove vedi a delle pareti i quadri degli
+antenati di Nosferatu
+~
+240 8 0
+D1
+~
+~
+0 -1 24079 0
+D3
+~
+~
+0 -1 24081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24081
+Il corridoio del castello~
+Ti trovi in un lunghissimo corridoio dove vedi a delle pareti i quadri degli
+antenati di Nosferatu
+~
+240 8 0
+D1
+~
+~
+0 -1 24080 0
+D2
+~
+~
+0 -1 24083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24082
+Il corridoio del castello~
+Ti trovi in un lunghissimo corridoio dove vedi a delle pareti i quadri degli
+antenati di Nosferatu
+~
+240 8 0
+D1
+~
+~
+0 -1 24084 0
+D3
+~
+~
+0 -1 24079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24083
+La cucina del castello~
+Questa stanza e' piena di pentoloni e sentio odore di animali morti.  Qualcosa
+ti dice che qui il proprietario del castello porta le sue  vittime...
+~
+240 8 0
+D0
+~
+~
+0 -1 24081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24084
+Il corridoio del castello~
+Ti trovi in un lunghissimo corridoio dove vedi a delle pareti i quadri degli
+antenati di Nosferatu
+~
+240 8 0
+D2
+~
+~
+0 -1 24085 0
+D3
+~
+~
+0 -1 24082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24085
+La sala delle torture.~
+Sei nella sala dove Nosferatu tortura le sue vittime prima di gusare il
+loro prelibato sangue. Verso Sud vedi una porta che porta ad una strana
+stanza.
+~
+240 8 0
+D0
+~
+~
+0 -1 24084 0
+D5
+~
+~
+0 -1 24086 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24086
+Il tunnel~
+Dove ti portera questo piccolo corridoio?
+~
+240 40 0
+D1
+~
+~
+0 -1 24087 0
+D3
+~
+~
+0 -1 24088 0
+D4
+~
+~
+0 0 24085 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24087
+Il tunnel~
+Dove ti portera questo piccolo corridoio?
+~
+240 40 0
+D1
+~
+~
+0 -1 24088 0
+D3
+~
+~
+0 -1 24086 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24088
+Il tunnel~
+Dove ti portera questo piccolo corridoio?
+~
+240 40 0
+D1
+~
+~
+0 -1 24086 0
+D3
+~
+~
+0 -1 24087 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24089
+La scala sotto la stanza.~
+Ti trovi davanti alla scala che porta alla stanza di Nosferatu.  Senti un'aria
+minacciosa sopra di te... puoi anche ritornare a sud  dove ritorni nel
+corridoio.
+~
+240 8 0
+D2
+~
+~
+0 -1 24079 0
+D4
+~
+~
+0 -1 24090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#24090
+La stanza di Nosferatu~
+Sei nella stanza di Nosferatu, e lui deve essere qui da qualche parte. 
+Vecchi mobili sono qui, e portano degli strani alambicchi con all'interno
+ del liquido rosso... sangue? Puoi sempre scappare da questo scontro, correndo
+ giu' dalle scale verso il basso.
+~
+240 8 0
+D5
+~
+~
+0 -1 24089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,621 @@
+#4100
+&6Il Tunnel&0~
+ Continui lungo questo tunnel che scende nelle viscere della terra,
+&1ti accorgi che deve essere molto piu' profondo di quanto ti
+saresti aspettato&0 dato che c'e' un &6ruscelletto d'acqua&3 che
+sgorga da un lato del tunnel&0 che prosegue ad est.
+~
+40 13 3
+D1
+~
+~
+0 -1 4101 0
+D3
+~
+~
+0 -1 4052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4101
+&6Il lungo Tunnel&0~
+ Il tunnel sembra scendere leggermente e continua in direzione est
+ovest. Le pareti sono lontane, permettendo a quattro persone
+di camminare fianco a fianco agiatamente. Le mura non sembrano molto
+umide, ma c'e' un ruscelletto che scorre lungo la parete settentrionale
+del tunnel.
+~
+40 9 3
+D1
+~
+~
+0 -1 4102 0
+D3
+~
+~
+0 -1 4100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4102
+&6Il lungo Tunnel&0~
+ Mentre viaggi per questo lungo tunnel, &3cominci a chiederti quanto
+sia lungo&0. Le pareti sono abbastanza lontane fra di loro, ma vedi
+che cominciano ad avvicinarsi piuttosto rapidamente ad est.&1 La
+forma di questo posto assomiglia a quella di un imbuto&0!~
+40 9 3
+D1
+~
+~
+0 -1 4103 0
+D3
+~
+~
+0 -1 4101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4103
+&6Il lungo Tunnel&0~
+ Sei in un lungo tunnel che va ad est e ad ovest. Non e' molto largo
+in questo punto, forse solo perche' due persone possano rimanere
+affiancate senza intralciarsi. &4Ad ovest sembra che si allarghi
+mentre ad est sprofonda sempre di piu' nella terra&0. Vedi un
+&7piccolo buco&0 di due piedi di diametro ad altezza della vita
+nella parete meridionale.~
+40 9 3
+D1
+~
+~
+0 -1 4104 0
+D2
+~
+~
+0 -1 4106 0
+D3
+~
+~
+0 -1 4102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4104
+&6Il lungo Tunnel&0~
+ Ti trovi alla fine di una piccola caverna. La stanza e' quasi
+perfettamente circolare con un diametro di circa trenta piedi,
+vedi un'uscita; &1un tunnel sale ripidamente verso l'alto dalla
+parete occidentale&0.
+Le pareti di questa caverna sono piuttosto indistinte e &3non vedi
+muschio o dell'umidita' su di loro&0.
+~
+40 9 3
+D3
+~
+~
+0 -1 4103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4105
+&3La caverna dorata&0~
+ Sei nell'angolo di nord-est di questa grande caverna, essa e'
+illuminata da una &6misteriosa luce debole e dorata&0 che proviene
+dalle pareti. Questa grotta e' &1enorme&0 e si estende verso ovest e
+verso sud.
+~
+40 8 1
+D2
+~
+~
+0 -1 4108 0
+D3
+~
+~
+0 -1 4106 0
+E
+luce oro dorata~
+&5Sembra buono, ma appena lo guardi da vicino noti che non ha nessun valore&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4106
+&3La caverna dorata&0~
+ Sei nell'angolo di nord-est di questa grande caverna, essa e'
+illuminata da una &6misteriosa luce debole e dorata&0 che proviene
+dalle pareti. La grotta e' &1enorme&0 e si estende verso est e verso
+sud. &7C'e' un buco nella parete settentrionale di circa due piedi
+di diametro&0.~
+40 8 1
+D0
+~
+~
+0 -1 4103 0
+D1
+~
+~
+0 -1 4105 0
+D2
+~
+~
+0 -1 4109 0
+E
+buco~
+&3Vedi solo oscurita'...&0~
+E
+luce oro dorata~
+&5Sembra buono, ma come lo guardi da vicino noti che non ha nessun valore&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4107
+&7Il passaggio&0~
+ Sei in una curva a gomito di un piccolo corridoio. Gira piuttosto
+bruscamente a sud dove sembra che il passaggio continui e ad ovest
+da dove proviene una &3luce dorata&0.
+~
+40 9 3
+D2
+~
+~
+0 -1 4113 0
+D3
+~
+~
+0 -1 4108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4108
+&5La caverna dorata&0~
+ Sei nell'angolo di sud-est di questa grande caverna, essa e'
+illuminata da una &6debole luce dorata misteriosa&0 che proviene
+dalle pareti. La grotta e' enorme e si estende verso est e verso
+sud. &3Una fessura nella parete ad est porta in un passaggio&0.
+~
+40 8 1
+D0
+~
+~
+0 -1 4105 0
+D1
+~
+~
+0 -1 4107 0
+D3
+~
+~
+0 -1 4109 0
+E
+luce oro dorata~
+&5Sembra buono, ma come lo guardi da vicino noti che non ha nessun valore&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4109
+&5La caverna dorata&0~
+ Sei al centro della parete occidentale di questa grande caverna.
+Essa e' illuminata da una &6debole luce dorata misteriosa&0 che
+proviene dalle pareti. La grotta e' &1enorme&0 e si estende verso
+est, sud e nord.
+~
+40 8 1
+D0
+~
+~
+0 -1 4106 0
+D1
+~
+~
+0 -1 4108 0
+D2
+~
+~
+0 -1 4114 0
+E
+luce oro dorata~
+&5Sembra buono, ma appena lo guardi da vicino noti che non ha nessun valore&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4110
+&3Il buco&0~
+ Ti trovi in una piccola alcova dove il tunnel finisce improvvisamente.
+Guardandoti attorno improvvisamente noti un buco piuttosto grande
+nel pavimento del tunnel. &1Un altro passo e ci saresti caduto dentro&0.
+Il tunnel porta ad ovest, &5guardando nel buco del pavimento vedi che
+e' profondo e molto scuro&0. C'e' un odore molto strano che viene
+da li, &6come se laggiu' ci sia qualcosa in decomposizione&0.
+&1Corpi umani forse???&0~
+40 13 3
+D3
+~
+~
+0 -1 4111 0
+D5
+Prima di guardare giu', lasci cadere un sasso per vedere quanto e' profondo
+il buco. Dopo cinque minuti, ancora non ha colpito il fondo. Cosi', per
+sicurezza, decidi di non scendere di li'.
+~
+~
+0 -1 -1 0
+E
+buco pavimento~
+&6Prima di guardare giu', lasci cadere un sasso per vedere quanto e' profondo
+il buco&0.&1 Dopo cinque minuti, ancora non ha colpito il fondo. Cosi',
+per sicurezza, decidi di non scendere di li'&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4111
+&4Il Tunnel&0~
+ Le pareti di questo piccolo tunnel sono quasi completamente ricoperte
+di uno strano &1muschio arancione&3 che si sfalda al tocco&0.
+Il tunnel va in direzione est-ovest e l'aria e' umida e stagnante.
+&7Non c'e' nessuna brezza avvertibile ma uno strano odore proviene
+da est&0. &5C'e' un piccolo buco che passa inosservato nella parete
+meridionale&0.~
+40 9 3
+D1
+~
+~
+0 -1 4110 0
+D2
+Il buco e' molto piccolo. Dovrai probabilmente strisciarci attraverso.
+~
+~
+0 -1 4126 0
+D3
+~
+~
+0 -1 4112 0
+E
+muschio pareti parete muri muro~
+&2Il muschio sulle pareti e' arancione. Quando lo tocchi, si sfalda
+al tocco lasciando un segno arancio sulle punte delle dita&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4112
+&6Il Tunnel&0~
+ Il tunnel nel quale ti trovi attualmente e' abbastanza largo
+(molto largo rispetto a quasi tutti gli altri qui intorno) e
+&7l'aria e' umida&0. Le pareti hanno un rivestimento sottile di
+umidita' che pare quasi unto. Il tunnel conduce in direzione
+est-ovest.
+~
+40 9 3
+D1
+~
+~
+0 -1 4111 0
+D3
+~
+~
+0 -1 4113 0
+E
+umidita' muri muro rivestimento parete pareti~
+&6Il rivestimento di umidita' sui muri ha degli strani motivi colorati, quasi
+come se qualcuno avesse versato dell'olio sulla superficie dell'acqua&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4113
+&7Il passaggio&0~
+ Questo passaggio che procede in direzione nord-sud sembra essere
+&3di origine naturale&0, tranne per il fatto che i muri sono stati
+resi lisci per agevolare il cammino. &6Una bizzarra ombra nella
+parete orientale ti fa sospettare che la' ci sia un altro passaggio&0.
+~
+40 9 3
+D0
+~
+~
+0 -1 4107 0
+D1
+~
+~
+0 -1 4112 0
+D2
+~
+~
+0 -1 4116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4114
+&5La caverna dorata&0~
+ Sei nell'angolo sud-ovest di questa grande caverna. Essa e'
+illuminata da una &6debole luce misteriosa dorata&0 che proviene
+dalle pareti. La grotta e' enorme e si estende verso nord...&7una
+strana ombra indica un ingresso ad ovest&0.
+~
+40 8 1
+D0
+~
+~
+0 -1 4109 0
+D3
+~
+~
+0 -1 4115 0
+E
+luce oro dorata~
+&3Sembra buono, ma come lo guardi da vicino noti che non ha nessun valore&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4115
+&3Lo scuro passaggio&0~
+ Ti trovi alla fine di un piccolo passaggio. E' piuttosto &7scuro&0
+qui. Quando guardi l'umidita' sui muri, &1noti che il corridoio
+curva in alto verso il soffitto&0. Guardando in su, vedi che c'e'
+&5un piccolo buco, grande abbastanza da passarci attraverso&0.
+A guardare da vicino la parte curva del muro, vedi che &1qualcuno
+(o qualche cosa) ha ricavato piccoli appigli nel muro per agevolare
+il passaggio. Il tunnel comincia ad est.
+~
+40 9 3
+D1
+~
+~
+0 -1 4114 0
+D4
+~
+~
+0 -1 4021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4116
+&7Il passaggio&0~
+ Ti trovi in un silenzioso ed ordinario corridoio che porta a nord
+e a sud. E' rettangolare e largo abbastanza perche' due persone
+camminino affiancate. &1Lontano a sud vedi un bagliore&0.
+~
+40 9 3
+D0
+~
+~
+0 -1 4113 0
+D2
+~
+~
+0 -1 4120 0
+E
+luce~
+Beh, puoi vedere da dove viene...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4117
+&1Il Tunnel segreto&0~
+ Sei in un corridoio stretto che non sembra sia stato visitato
+da qualche tempo. Conduce a nord verso una stanza illuminata e
+a sud verso una camera.
+~
+40 9 3
+D0
+~
+~
+0 -1 4114 0
+D2
+~
+~
+0 -1 4122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4118
+&4La Caverna&0~
+ Questa caverna piuttosto grande e' sorprendentemente ben illuminata.
+ Ci sono venti torce accese appese alle pareti a molti piedi
+sopra la tua testa. Le ombre danzanti create dalle fiamme tremolanti
+&7ti distraggono e minacciano di trattenerti li'&0.
+Esplorando la caverna, sembra che continui ad ovest e a sud.
+Nella parete a nord c'e' una strana fessura verticale che sembra
+&1portare da qualche parte&0.
+~
+40 8 1
+D0
+Sembra abbastanza stretta.
+~
+~
+0 -1 4126 0
+D2
+~
+~
+0 -1 4123 0
+D3
+~
+roccia~
+1 -1 4119 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4119
+&4La Caverna&0~
+ Questa caverna piuttosto grande e' sorprendentemente ben illuminata.
+ Ci sono venti torce accese appese alle pareti a molti piedi
+sopra la tua testa. Le ombre danzanti create dalle fiamme tremolanti
+&7ti distraggono e minacciano di trattenerti li'&0.
+Esplorando la caverna, sembra che continui ad est e a sud.~
+40 8 1
+D1
+~
+roccia~
+1 -1 4118 3
+D2
+~
+~
+0 -1 4124 0
+D3
+La parete ad ovest sembra strana...
+~
+parete roccia~
+1 -1 4121 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4120
+&7Il passaggio&0~
+ Sei in un passaggio normale, leggermente piu' largo di quanto
+necessiti ad una persona, ma non abbastanza per due. Il soffitto
+e' sorprendentemente basso, o aspetta, e' perche' il &6pavimento sale
+verso di lui&0? Il tunnel sembra restringersi leggermente a sud e si
+allarga a nord. &6La luce a sud continua a tremolare&0.
+~
+40 9 3
+D0
+~
+~
+0 -1 4116 0
+D2
+~
+~
+0 -1 4125 0
+E
+luce~
+&4E' appena sufficiente ad illuminare il passaggio&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4121
+&1Il Tunnel segreto&0~
+ Sei in un atrio &1molto innaturale&0, largo dieci piedi ed alto dodici.
+Il corridoio prende la forma di imbuto verso ovest e conduce a un
+accesso largo cinque piedi. Ad est il tunnel finisce improvvisamente
+&3contro una parete liscia di roccia&0.
+~
+40 9 3
+D1
+La parete di roccia ad est sembra poter essere rimossa.
+~
+parete~
+1 -1 4119 1
+D3
+Una parete di roccia blocca il passaggio.
+~
+parete roccia~
+1 -1 4122 3
+E
+parete roccia~
+&3La parete di roccia ad est sembra poter essere rimossa&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4122
+&1La camera segreta&0~
+ Sei in una piccola camera. Questo piccola caverna quasi perfettamente
+rotonda &6non sembra essere una formazione del tutto naturale&0,
+le lontane pareti sono troppo lisce e le uscite a nord e ad est
+sono larghi cinque ed undici piedi rispettivamente.
+~
+40 9 3
+D0
+~
+~
+0 -1 4117 0
+D1
+Una parete di roccia blocca il passaggio.
+~
+parete roccia~
+1 -1 4121 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4123
+&4La Caverna&0~
+ Questa caverna piuttosto grande e' sorprendentemente ben illuminata.
+ Ci sono venti torce accese appese alle pareti a molti piedi
+sopra la tua testa. Le ombre danzanti create dalle fiamme tremolanti
+&7ti distraggono e minacciano di trattenerti li'&0.
+Esplorando la caverna, sembra che continui ad ovest e a nord.
+~
+40 8 1
+D0
+~
+~
+0 -1 4118 0
+D3
+~
+~
+0 -1 4124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4124
+&4La Caverna&0~
+ Questa caverna piuttosto grande e' sorprendentemente ben illuminata.
+ Ci sono venti torce accese appese alle pareti a molti piedi
+sopra la tua testa. Le ombre danzanti create dalle fiamme tremolanti
+&7ti distraggono e minacciano di trattenerti li'&0.
+Esplorando la caverna, sembra che continui ad est e a nord.
+&1C'e' un passaggio nella parete occidentale della caverna che
+sembra girare verso nord&0.
+~
+40 8 1
+D0
+~
+~
+0 -1 4119 0
+D1
+~
+~
+0 -1 4123 0
+D3
+~
+~
+0 -1 4125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4125
+&7Il passaggio&0~
+ Sei al termine di uno stretto passaggio che porta verso nord.
+La parete meridionale sembra danzare con le ombre create dalla
+&6luce tremolante&0 proveniente dalla caverna ad est.
+~
+40 8 3
+D0
+~
+~
+0 -1 4120 0
+D1
+~
+~
+0 -1 4124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4126
+&3Il corridoio&0~
+ Sei in un corridoio molto stretto. Per uscire da qui, &1devi muoverti
+molto cautamente per non urtare contro le rocce sporgenti dalle
+pareti e dal soffitto&0.
+~
+40 877 5
+D0
+Vedi un piccolo buco che segna l'uscita a nord del corridoio.
+~
+~
+0 -1 4111 0
+D2
+Vedi la luce che proviene dall'uscita meridionale del corridoio.
+~
+~
+0 -1 4118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

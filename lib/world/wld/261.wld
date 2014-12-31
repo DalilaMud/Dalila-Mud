@@ -1,0 +1,364 @@
+#26100
+&4&bGrotta Azzurra&0~
+Una grotta azzurra illuminata a giorno dall'acqua di un laghetto, che riflette
+la luce solare proveniente dall'esterno, rende il luogo incantevole e magico.
+A sud esci all'esterno mentre a nord uno stretto passaggio si inerpica su tra
+le rocce.    
+~
+261 24 0
+D0
+~
+~
+0 0 26101 0
+D2
+~
+~
+0 0 2315256 0
+E
+passaggio~
+E' una apertura non molto alta e abbastanza larga per consentire il passaggio
+di una persona sola alla volta.  Parte subito con una bella salita e nel giro
+di pochi metri sparisce chissa' dove.    
+~
+E
+laghetto~
+L'acqua e' tiepida, trasparente e probabilmente arriva da una sorgente
+sotterranea.  Sul fondo molte pietre e minerali colorati rendono lo spettacolo
+molto particolare e affascinante trasmettendo un senso di pace e serenita'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#26101
+&5Grotta Viola&0~
+E' decisamente un posto magico e mistico, appena ti sei lasciato dietro la luce
+della ceverna azzurra ti ritrovi in questa altra grotta costellata di quarzo
+ametesta viola.  La bellezza di questo evento naturale ti lascia senza fiato
+facendoti dimenticare per un attimo la vera natura del tuo cammino.  Ad un
+tratto ti volti assorto nei tuoi pensieri e ti accorgi con stupore che lo
+spiragio da dove eri venuto stato letteralmente inghiottito dal quarzo.    
+
+" Fate molta attenzione perche' una volta iniziato il cammino non sara' piu';
+concesso tornare indietro" questo era scritto sulla targa all'ingresso della
+grotta azzurra.
+
+~
+261 268 0
+D1
+~
+~
+0 0 2314558 0
+E
+quarzo ametista viola~
+&5Stupenda formazione minerale di purissimo quarzo violaceo.  Molte le
+dimensioni ma tutti di forma regolare.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#26102
+La stanza dei ricordi~
+Una stanza piena di ricordi.  Tutto quello che ti e' stato caro un tempo lo
+ritrovi qui davanti a te...  Un po' sbiadito ma perfettamente rappresentato.  
+
+~
+261 131404 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 26100
+T 26102
+#26103
+La stanza delle illusioni~
+Sembra di essere rinchiusi in una teca per oggetti prezzosi.  Ovunque specchi
+moltiplicano all'infinito la tua sagoma in un accecante ripetersi di luci e
+movimenti.    
+~
+261 131404 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 26104
+T 26106
+#26104
+La stanza dell'ignoto.~
+You are in an unfinished room.  Nulla di quello che ti circonda e' per te
+comprensibile.  Cose, luoghi, volti odori e suoni non fanno parte di te...  
+Eppure qualcosa ti suscita una strana emozione, qualcosa di indescrivibilmente
+piacevole.  Nulla di quello che ti circonda e' per te comprensibile.  Cose,
+luoghi, volti odori e suoni non fanno parte di te...  Eppure qualcosa ti
+suscita una strana emozione, qualcosa di indescrivibilmente piacevole.    
+~
+261 332 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 26108
+T 26110
+#26105
+Il limbo del pentimento~
+Il tuo grado di purificazione e pentimento non stato sufficiente.  Ora ti trovi
+in una specie di limbo dove poter riflettere su cosa ti e' capitato.  Alle tu
+spalle una cascata che arriva dal nulla e finisce nel nulla ti puo' servire per
+meditare...  In alternativa puoi ritornare nella grotta azzurra per tentare di
+ripercorrere il cammino di pentimento e purificazione uscendo attraverso una
+porta dimensionale.    
+~
+261 0 0
+D5
+~
+~
+0 0 26100 0
+E
+cascata~
+Non e' una semplice cascata.  E' l'essenza della necessita' di purificazione.
+Un modo per lavarsi la mente e lo spirito lasciandosi dietro le impurita' della
+vita.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#26106
+L'oracolo del Nord~
+Il luogo che contiene l'oracolo del nord una semplice caverna, illuminata
+grazie a centinaia di candele accese, che stata ricavata scavando all'interno
+di un impressionante e gigantesco blocco granitico.  In una alcova alla tua
+destra ci sono parecchi libri impolverati mentre di fronte a te un cristallo
+enorme e regolare ti fa intuire che l'oracolo del Nord altri non che un
+artificio di madre natura.  L'unico modo per uscire da qusto posto e'
+utilizzando una corda che si perde nel buio di un profondo cunicolo.    
+~
+261 476 0
+E
+nicchia alcova~
+Decine di libri sono accuratamente riposti in questa nicchia ricavata nella
+pietra.  Tali volumi, anche se ben ordinati e riposti, sono ricoperti da uno
+spesso strato di polvere di roccia e ragnatela...  Alcuni libri sembrano
+addirittura fusi con la roccia tanto sono conciati.    
+~
+E
+libri~
+Sono circa una decina di volumi, molti dei quali ricoperti da polvere.  Per
+tutti, pero', hai la possibilita' di leggere sulla costa i titoli.    
+~
+E
+costa titoli coste titolo~
+&1Il piccolo arcere.&0
+&2La parola del profeta.&0
+&3L'isola inaccessibile.&0
+&1La palude della pazzia.&0
+&2La forseta degli incubi.&0
+&3Er&0
+&1Miti del sottosuolo.&0
+&1La citta' misteriosa.&0
+
+in piu' ci sono due volumi che non hanno nulla a che fare con la tua lingua.
+
+&5Jikliji dew wikorj&0
+&5Kaij dew wikorj&0
+~
+E
+piccolo arcere~
+Il piccolo arcere
+
+Gertrud aspettava ansiosamente il ritorno del suo piccolo arcere.  Ormai erano
+passati parecchi anni dalla sua scomparsa ma la donna non si rassegnava.  Ogni
+giorno, ogni mese e ormai ogni anno la minuta padrona di casa preparava la cena
+per lei, il marito e il suo piccolo scomparso.  Pero' piu' il tempo passava
+piu' le speranze si affievolivano tanto che il padre, rassegnato e distrutto,
+aveva smesso del tutto di pensare al suo Brendan.  Ma non Gertrud, lei era
+convinta, legata dal piu' forte amore materno che suo figlio era ancora vivo,
+bloccato da chissa' quale forza.  Un giorno tornera', diceva sempre a se
+stessa, un giorno qualcuno me lo riportera' era il suo unico pensiero.
+
+
+&1Lord Kramer&0
+
+...  Il resto del libro sono per lo piu' imprese, fallite, di molti valoroso
+guerrieri che hanno sacrificato la loro vita nella ricerca di Brendan.  
+L'ultimo paragrafo parla di un tentativo, drasticamente finito male, di entrare
+in un villaggio nei pressi di una palude.
+
+~
+E
+parola profeta~
+La parola del profeta.
+
+Ricordati o penitente di dimostrarti sempe umile nei confronti dell'oracolo.  
+Non dire piu' dell'essenziale, non chiedere nulla fin che non ti sara' dato
+modo di parlare.  Cerca nel tuo cuore le parole e si sempre sereno.  L'oracolo
+non parla se prima iterpellato nel modo giusto e le uniche altre parole che ti
+servono sono l'affermazione "SI" e la negazone "NO"...  Dimenticati tutto il
+resto...  Tranne il modo iniziale per poterlo attivare.    
+
+"Cerca la fonte della fontana di fuoco e procurati il cuore del guardiano"
+
+Non c'e altro che ti possa interessare.
+~
+E
+isola inacessibile~
+
+L'isola inaccessibile.
+Ho sentito parlare molto di questa isola, nel cuore della grande palude non vi
+e' modo di raggiungerla, ne per volo ne per acqua.  La sua magia e' pressoche'
+infinita e sembra che una stregha potentissima si sia fatta una dimora e che
+solo lei abbia la possibilita' di andare e venire dall'isola.  Francamente ho
+altre mete e altri scopi e quindi non mi interessa gran che di quella strega e
+della sua isola ma se fosse fera la leggenda c'e' solo una persona che puo'
+esservi utile.  Mefista.    
+
+&1Lord Kramer&0
+~
+E
+palude pazzia~
+La palude della pazzia.
+
+La palude della pazzia e' il luogo dove la morte e' la cosa che meglio ci si
+augura.  Smarrirsi al suo interno vuol dire vagare per l'eternit tra dolori e
+ricordi terribili di creature mai esistite.  Sembra incredibile nel suo cuore,
+tra fetore, odore di morte, nebbie ed insetti di letale pericolosita', un
+popolo ha edificato il suo villaggio.  La sua origine misteriosa come la magia
+che circonda la palude.  Alcuni uomini della cittadella hanno tentato di
+arrivare al villaggio.  Qualcuno vi e' riuscito ma nessuno ne e' mai uscito.  
+Non una sola anima e' ritornata dalla palude della pazzia.  La esiste solo la
+disperazione e la frustrazione.    
+
+&3Padre Ferdinando&0
+~
+E
+forseta incubi~
+La foresta degli incubi.
+
+...  Bisogna quindi credere che tale forseta sia frutto della magia di Mefista.
+La splendida maga che fa sempre difficolta' a capire la differenza tra bene e
+male, tra nemici e amici...  E' tanto capace di uccidervi quanto di
+resuscitarvi solo perch la sua mente intrisa di magia ha perso il senno da
+ormai immemore tempo.  Un giorno mi recarmi da lei, per cercare informazioni...
+Lei sa tutto mi dissero...  Ma e' assai strana, fa attenzione...  Trovai subito
+la sua dimora ma a fatica riusci a scovarla nei meandri della casa.  E'
+invisibile a chi non e' avvolto dalla magia ed ben difesa dalle piccole
+creature fatate che essa crea per diletto e per scempio.  Faticai non poco a
+farmi ascoltare, piu' di una volta la mia vita fu in pericolo, ma con il libro
+della fede e una buona dose di fortuna riusci a farmela amica e cosi', con
+domande mirate e nomi precisi riusci a sapere cio' che mi serviva.  Tu che sei
+giunto all'oracolo e che leggi i miei scritti ti consiglio di evitare la maga
+Mefista...  Ma se proprio non pui farne a meno appena la incontri digli che ti
+mando io, rispondi con decisione alle sue domande e anche tu non esitare a
+chiedergli, con nomi e parole precise, senza fronzoli, cio' che ti interessa.
+E ancora, se malauguratamente ti troverai a confrontarti con la sua magia stai
+molto attento...  ...  Infine non ti preoccupare se la maga muore, la sua magia
+la riportera' in vita in poco tempo...  Come se nulla fosse accaduto.    
+
+&3Padre Ferdinando.&0
+~
+E
+er~
+Er
+
+Er, il grande Er.  Condottiero e unico conoscitore della verita' sull'oracolo.
+La sua morte misteriosa e veloce fu un dramma per tutti i popoli giusti e buoni
+che vissero al suo tempo.  Per ricordo la gente di allora battezzo le montagne
+nel cuore delle sue terre proprio con il suo nome.  Er, il grande Er.  
+Condottiero e unico conoscitore della verita' sull'oracolo.    
+~
+E
+miti sottosuolo~
+Miti del sottosuolo.
+
+Zanne, occhi, orecchie, voci, sussuri, urla e strani fruscii.  Puoi udire
+questo e altro ancora nel sottosuolo delle nostre terre.  Esistono centinaia di
+popoli che hanno fatto della terra di nessuno la loro dimora, il loro mondo.  
+Molti hanno nomi impronunciabili altri sono per lo piu' leggende ma tra questi
+alcuni sono famosi se ti interessa leggi le pagine riguardanti:
+
+I Troll delle caverne
+I Fratelli del sottosuolo
+I Coboldi muschiati
+Gli Gnomi VaVia
+
+&3Padre Ferdinando&0
+~
+E
+troll caverne~
+I Troll delle caverne
+
+Sono lontani parenti dei normali Troll.  La prolungata necessita' di vivere in
+caverne, specialmente quelle sui monti Er, li ha resi totalmente cechi.  Uno
+scontro con loro non dovrebbe procurarvi grandi problemi eccezion fatta per i
+Troll cacciatori.  Questi sono gli unici che hanno conservato la vista perche'
+sempre pronti a cacciare prede, specialmente nei dintorni delle caverne.  In
+oltre hanno anche affinato le loro abilita' combative e la loro tempra
+rendendoli davvero dei mostri da evitare.  Sono per lo piu' pacifici ma
+solidali tra loro.  Il loro capo e' sempre circondato da innumerevoli
+cacciatori.  Non vi e' modo di comunicare con loro, non hanno una lingua,
+comunicano a gesti.    
+~
+E
+fratelli sottosuolo~
+I Fratelli del sottosuolo
+
+Assai rari da incontrare.  Uomini che hanno deciso di scappare dalla
+superficie, dalla luce solare e dalle intemperie climatiche per potersi creare
+un mondo loro nel ventre della terra.  Si crede che questa razza sia ormai
+estinta e ad onor del vero lo credo anche io.  Da parecchio tempo ormai non se
+ne sente piu' parlare, anche se qualche vagabondo insiste di averli visti
+armeggiare con uova nell'incavo di alcuni alberi in una sconosciuta forseta
+nelle nostre terre.    
+~
+E
+coboldi muschiati~
+I Coboldi muschiati
+
+Da evitare a tutti i costi.  Sono un popolo molto organizzato, difensivisti
+della loro liberta e del loro territorio.  Praticamente invulnerabili alle
+magie e con pelle verdastra tipo muschio (da dove ne deriva il nome) che li
+protegge dagli attacchi piu' devastanti.  Sono muniti di artigli che vengono
+utilizzati per scavare rapidamente nel sottosuolo, vedono perfettamente
+nell'oscurita' e sono molto gelosi dei loro, pochi, averi.    
+~
+E
+gnomi vavia~
+Gli Gnomi VaVia
+
+Fin per carita' EVITATELI.  Vi auguro di non aver nulla a che fare con loro.  
+Sono quanto di piu' sozzo, sgradevole, deplorevole cosa che madre terra abbia mai
+creato.  Provengono da non si sa quale mondo parallelo.  Opportunisti ,
+cacciatori di tesori, ladri incalliti e grandi tormentatori di anime hanno la
+caratteristica primaria di far impazzire il piu' tenace dei pazienti.  Io
+stesso ho fatto vacillare la mia fede per questi fruncoli sotterranei.  
+L'unico loro pregio e' che sono eccellenti e rapidi scavatori di terra.    
+~
+E
+citta misteriosa~
+La citta' misteriosa.
+
+Si sa poco di questa citta'.  L'unica cosa che ho avuto modo di scoprire nei
+miei trascorsi da cavaliere e' che la strada per arrivare al suo cospetto e
+assai impegnativa.  Bisogna attraversare e trovare parecchie porte e molte di
+queste sono trappole per la maggior parte mortali.  Non si conosce nulla altro
+di questa citta' e del suo oscuro popolo.  Molti credono che sia tutta una
+favola creata per far spaventare, nei giorni di festa, i bambini di parecchi
+secoli fa.    
+
+&1Lord Kramer&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#26110
+L'ingresso~
+L'ingresso di una confortevole casa. A est una porta semiaperta fa intravedere
+una camera da letto, mentre a nord e a sud altre due porte sono chiuse,
+In un angolo un caminetto spento  circondato da alcuni trofei di caccia.
+All'angolo opposto una mensola con alcuni piatti decorati. Al centro della
+stanza un tavolo imbandito.
+~
+261 0 0
+D3
+~
+porta~
+1 0 2314245 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

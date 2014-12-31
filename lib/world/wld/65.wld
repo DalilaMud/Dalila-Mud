@@ -1,0 +1,952 @@
+#6500
+Il sentiero per il Villaggio dei Nani~
+   Cammini giu' per un sentiero che porta al villaggio dei nani. Sopra
+di te, vedi il Turning Point, ed a nord il sentiero continua verso le montagne.
+~
+65 4 2
+D0
+Il sentiero continua.
+~
+~
+0 -1 6501 0
+D4
+Puoi vedere la citta' di Deira.
+~
+~
+0 -1 1488549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6501
+Il sentiero alla base della montagna~
+   Ora sei alla base di una montagna accidentata.  La foresta intorno a te
+e' molto folta e scura a nord.
+~
+65 0 4
+D0
+Il sentiero continua su per l montagne.
+~
+~
+0 -1 6502 0
+D2
+Il sentiero porta verso la citta' di Deira.
+~
+~
+0 -1 6500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6502
+Il sentiero al centro della montagna~
+   Sei al cntro della montagna, puoi vedere facilmente la citta' a
+sud, e la cima della montagna e' molto vicina a nord.
+~
+65 0 5
+D0
+Da qui vedi facilmente la cima della montagna.
+~
+~
+0 -1 6503 0
+D2
+La base della montagna e' vicina.
+~
+~
+0 -1 6501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6503
+La cima della montagna~
+   Ora sei sulla cima della montagna. A sud vedi un sentiero che scende
+dalla montagna. Ad est e ad ovest vedi gli ingressi a cio' che sembrano
+delle miniere.
+~
+65 0 4
+D1
+Un ingresso alla montagna che sembra condurre nel sottosuolo.
+~
+~
+0 -1 6540 0
+D2
+Il sentiero conduce giu' dalla montagna alla citta' principale di Deira.
+~
+~
+0 -1 6502 0
+D3
+C'e' un ingresso alla montagna.
+~
+~
+0 -1 6505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6504
+Lo stretto sentiero~
+   Questo e' un stretto sentiero che porta al Regno dei Nani. E' meno
+trafficato degli altri, ed e' raccapricciante. Il sentiero va a sud e continua
+a nord.
+~
+65 8 0
+D0
+~
+~
+0 -1 6506 0
+D2
+~
+~
+0 -1 6540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6505
+L'ingresso alla montagna~
+   Qui c'e' un ingresso alla montagna. La porta sembra molto ben costruita,
+e senti dei rumori proviene da la'.
+~
+65 0 2
+D1
+~
+~
+0 -1 6503 0
+D3
+~
+porta~
+2 6515 6513 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6506
+Una curva nello stretto sentiero~
+  Questo e' uno sentiero stretto che curva ad est. Degli alberi fiancheggiano
+il sentiero, e sono cresciuti eccessivamente. Lo stretto sentiero continua a
+sud e ad est.
+~
+65 8 0
+D1
+~
+~
+0 -1 6507 0
+D2
+~
+~
+0 -1 6504 0
+E
+alberi albero~
+Costeggiano la strada.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6507
+Lo stretto sentiero~
+   Questo sentiero e' molto stretto, e continua a nord e ad ovest.
+~
+65 8 0
+D0
+~
+~
+0 -1 6508 0
+D3
+~
+~
+0 -1 6506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6508
+Lo stretto sentiero che porta a nord e sud~
+   Questo sentiero conduce a nord e sud. A nord vedi una
+porta, a sud il sentiero continua.
+~
+65 8 0
+D0
+~
+~
+0 -1 6509 0
+D2
+~
+~
+0 -1 6507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6509
+La porta al Regno~
+   Qui il sentiero gira ad ovest. C'e' una porta di fronte a te,
+ed il sentiero continua ad ovest e a sud.
+~
+65 8 0
+D0
+~
+porta~
+2 6503 6510 15
+D2
+~
+~
+0 -1 6508 0
+D3
+~
+~
+0 -1 6522 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6510
+Sul sentiero per il castello~
+   Sei su un sentiero che alla fine condurra' al castello.  Esso
+continua a nord per il castello, e c'e' una porta nella parete
+meridionale.
+~
+65 8 0
+D0
+~
+~
+0 -1 6511 0
+D2
+~
+porta~
+2 6503 6509 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6511
+Ancora sul sentiero per il castello~
+   Sei ancora sul sentiero per il castello o verso il villaggio dei nani,
+dipende da che parte desideri andare. Il sentiero continua a nord e
+a sud.
+~
+65 8 0
+D0
+~
+~
+0 -1 6512 0
+D2
+~
+~
+0 -1 6510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6512
+La porta del castello~
+   Qui ad est c'e' una porta per il castello. Il castello e' costruito
+elegantemente, sembra un rotolo di carta igienica alla fine.
+C'e' un cartello che dice:
+
+              ************************************************************
+              * BENVENUTI NEL CASTELLO DI STRANAMORE *
+              *             Qui, il celibato non e' ben visto                *
+              ************************************************************
+
+~
+65 8 0
+D1
+~
+porta~
+2 6503 6525 15
+D2
+~
+~
+0 -1 6511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6513
+Dentro l'ingresso~
+   Tutto qui e' coperto dalla fuliggine ed e' molto sporco. Il sentiero continua
+ad est e a nord, e c'e' una porta ad ovest.
+~
+65 8 0
+D0
+Il piccolo sentiero sotterraneo continua a nord.
+~
+~
+0 -1 6514 0
+D1
+Il sentiero conduce fuori.
+~
+porta~
+2 6515 6505 15
+D3
+Questo somiglia all'ingresso di una dispensa.
+~
+~
+0 -1 6526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6514
+Il sentiero~
+   Sei su un sentiero nel villaggio dei nani che porta a nord ai negozi
+e a sud in una zona d'angolo.
+~
+65 8 0
+D0
+~
+~
+0 -1 6515 0
+D2
+~
+~
+0 -1 6513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6515
+Una curva nel sentiero~
+   Sei su un sentiero che conduce al negozio Hide & Tooth ad ovest, e
+il sentiero continua a sud.
+~
+65 8 0
+D2
+~
+~
+0 -1 6514 0
+D3
+Il negozio Hide & Tooth e' ad ovest.
+~
+~
+0 -1 6516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6516
+Il negozio Hide & Tooth~
+   Sei nel negozio Hide & Tooth. Qui puoi comprare le piu' eccellenti armi
+ed armature dei nani. Il sentiero continua a nord e ad est.
+~
+65 40 0
+D0
+~
+~
+0 -1 6517 0
+D1
+~
+~
+0 -1 6515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6517
+Il sentiero a nord del negozio~
+   Sei su un sentiero a nord del negozio Hide & Tooth. Il sentiero
+continua a nord, e c'e' la panetteria Testa di Granito ad ovest.
+~
+65 8 0
+D0
+~
+~
+0 -1 6518 0
+D2
+~
+~
+0 -1 6516 0
+D3
+~
+~
+0 -1 6535 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6518
+A nord dei negozi~
+   Qui il sentiero curva ad est verso la caserma. A sud vedi i negozi.
+~
+65 8 0
+D1
+~
+~
+0 -1 6519 0
+D2
+~
+~
+0 -1 6517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6519
+Un sentiero dall'ospedale~
+   Qui il sentiero passa dall'Ospedale a nord. Continua ad est
+verso la caserma, e ad ovest.
+~
+65 8 0
+D0
+~
+~
+0 -1 6534 0
+D1
+~
+~
+0 -1 6520 0
+D3
+~
+~
+0 -1 6518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6520
+Un sentiero vicino alla caserma~
+   Qui il sentiero continua ad ovest, e ad est alla caserma.
+~
+65 8 0
+D1
+~
+~
+0 -1 6521 0
+D3
+~
+~
+0 -1 6519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6521
+L'ingresso alla caserma~
+   Qui c'e' un ingresso alla caserma a sud, ed il sentiero continua ad ovest.
+~
+65 8 0
+D2
+~
+porta~
+1 -1 6523 3
+D3
+~
+~
+0 -1 6520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6522
+Una stanza delle guardie~
+   Sei nella stanza delle guardie ad ovest dell'ingresso al castello.
+Manifesti di nudi tappezzano i muri.
+~
+65 8 0
+D1
+~
+~
+0 -1 6509 0
+E
+manifesto manifesti~
+C'e' un manifesto di Minne Pearl nuda.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6523
+La prima stanza della caserma~
+   Qui c'e' la prima delle due stanze principali della caserma. La caserma
+continua a sud, e puoi uscire a nord.
+~
+65 8 0
+D0
+~
+porta~
+1 -1 6521 3
+D2
+~
+~
+0 -1 6524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6524
+Il retro della caserma~
+   Questo e' il retro della caserma dei nani. Ci sono file di letti
+qui, e c'e' pure un puzzo insopportabile!
+~
+65 8 0
+D0
+~
+~
+0 -1 6523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6525
+Dentro il castello Stranamore~
+   Sei all'interno del castello. E' di forma tubolare ma non simmetrico.
+C'e' una serie di gradini che conduce in alto, e la porta conduce fuori
+dal castello ad ovest.
+~
+65 8 0
+D3
+~
+porta~
+2 6503 6512 15
+D4
+~
+~
+0 -1 6528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6526
+Una dispensa~
+   C'e' un strato di polvere sul pavimento spesso almeno 3 pollici! E'
+probabile che non molta gente sia stata in qui da molti mesi.
+~
+65 9 0
+D1
+~
+~
+0 -1 6513 0
+D5
+Dopo che soffi via tutta la polvere dal pavimento, scopri una botola!
+~
+botola~
+1 -1 6527 3
+E
+pavimeno polvere~
+Dopo che soffi via tutta la polvere dal pavimento, scopri una botola!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6527
+La cantina~
+   Questa stanza odora di vino, e presumi che una volta sia stata
+usata come cantina.
+~
+65 9 0
+D4
+~
+botola~
+1 -1 6526 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6528
+Sulle scale del castello Stranamore~
+   I gradini continuano ad andare in alto ed in basso.
+~
+65 8 0
+D4
+~
+~
+0 -1 6529 0
+D5
+~
+~
+0 -1 6525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6529
+Sui gradini~
+   Stai ancora salendo. Cominci ad avere le vertigini a girare in tondo
+in tondo in tondo in tondo in tondo. I gradini continuano ad andare in
+alto ed in basso.
+~
+65 8 0
+D4
+~
+~
+0 -1 6530 0
+D5
+~
+~
+0 -1 6528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6530
+In cima ai gradini~
+   Sei in cima ai gradini del castello. C'e' un'uscita ad est, ed i
+gradini conducono giu'.
+~
+65 8 0
+D1
+~
+~
+0 -1 6531 0
+D5
+~
+~
+0 -1 6529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6531
+La sala d'attesa della Regina~
+   Questa e' la sala d'attesa della Regina. Qui gli uomini
+letteralmente "aspettano" la regina. Hai sentito dire che alla
+regina piace "conoscere" il suo popolo, in senso biblico.
+   La camera da letto della Regina e' a nord, e vedi i gradini
+ad ovest.
+~
+65 8 0
+D0
+~
+porta~
+1 -1 6532 3
+D3
+~
+~
+0 -1 6530 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6532
+La camera da letto della Regina~
+   Questa e' la camera da letto della Regina. Il letto e' sfatto, e
+c'e' una pila di fogli scritti in un angolo. C'e' una scala che porta
+giu', fuori del castello, e puoi uscire dalla stanza a sud. C'e'
+anche una piccola porta di legno ad ovest.
+C' un cartello che dice:
+      +--------------------------+
+      |  Sono occupata ora, e    |
+      |  non so quando tornero', |
+      |  ma se c'e' una chiave   |
+      |  qui per terra prendila  |
+      |  e PER FAVORE, cerca di  |
+      |  indietro le pillole per |
+      |  il controllo delle      |
+      |  delle nascite!          |
+      |  Ho sentito dire che si  |
+      |  possono trovare nella   |
+      |  profondita' delle       |
+      |  miniere...              |
+      +--------------------------+
+~
+65 8 0
+D2
+~
+porta~
+1 -1 6531 3
+D3
+~
+porta legno~
+2 6500 6554 15
+D5
+~
+~
+0 -1 6533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6533
+Il lato nord del castello Stranamore~
+   Sei nell'ala nord del Castello Stranamore. Noti che non sei piu'
+all'interno della montagna. All'orizzonte meridionale vedi torreggiare
+delle montagne. La sola uscita e'  la scala che porta nella camera
+da letto della Regina.
+~
+65 0 0
+D4
+~
+~
+0 -1 6532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6534
+L'ospedale~
+   Sei dentro l'ospedale dei nani. C'e' odore di alcool e sangue
+sopra i muri.
+~
+65 8 0
+D2
+~
+~
+0 -1 6519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6535
+Panetteria di Testa di Granito~
+   L'aroma che proviene da questa stanza ti stordisce. Puoi quasi assaggiare
+la pasticceria che si dissolve in bocca.
+~
+65 136 0
+D1
+~
+~
+0 -1 6517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6540
+Lo scuro sentiero~
+   Questo sentiero e' molto ben tenuto, e c'e' un'entrata alle miniere ad est,
+mentre il sentiero continua a nord e ad ovest.
+~
+65 8 0
+D0
+~
+~
+0 -1 6504 0
+D1
+~
+porta~
+1 6502 6541 7
+D3
+~
+~
+0 -1 6503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6541
+L'entrata alla miniera~
+   Il piccolo sentiero qui porta giu' verso le miniere, mentre il sentiero
+continua ad ovest.
+~
+65 8 0
+D3
+~
+porta~
+1 6502 6540 7
+D5
+~
+~
+0 -1 6542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6542
+Alla fine del pozzo della miniera~
+   Sei alla fine del pozzo della miniera. L'aria qui e' molto fuligginosa
+ed e' faticoso respirare. Il pozzo porta su e ad est.
+~
+65 9 0
+D1
+~
+~
+0 -1 6543 0
+D4
+~
+~
+0 -1 6541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6543
+Sul sentiero della miniera~
+   Sei profondamente dentro la miniera, e non ti senti molto comodo.
+Il sentiero continua ad est e porta al pozzo ad ovest.
+~
+65 9 0
+D1
+~
+~
+0 -1 6544 0
+D3
+~
+~
+0 -1 6542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6544
+L'incrocio nella miniera~
+   Sei ad un incrocio nella miniera. C'e' una porta a nord ed
+il sentiero continua a sud, est, ed ovest.
+~
+65 9 0
+D0
+~
+porta~
+2 6516 6546 15
+D1
+~
+~
+0 -1 6545 0
+D2
+~
+~
+0 -1 6551 0
+D3
+~
+~
+0 -1 6543 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6545
+Il deposito del carbone~
+   Sei all'interno del deposito delle materie prime che si trovano
+quaggiu'. La stanza non e' solida proprio come i supporti sono
+molto rachitici.
+~
+65 9 0
+D3
+~
+~
+0 -1 6544 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6546
+Il labirinto delle miniere~
+   Sei nel labirinto delle miniere. Ad est vedi alcune
+iscrizioni, e puoi uscire a sud.
+~
+65 9 0
+D1
+~
+~
+0 -1 6547 0
+D2
+~
+porta~
+2 6516 6544 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6547
+L'iscrizione del labirinto~
+   Sei all'interno del labirinto, ma ancora non tanto dentro da
+poterti perdere. C'e' una iscrizione su una parete che dice:
+
+          1    3    2    4
+          N    W    N    S
+
+Non e' troppo difficile.
+~
+65 9 0
+D0
+~
+~
+0 -1 6548 0
+D1
+~
+~
+0 -1 6544 0
+D3
+~
+~
+0 -1 6546 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6548
+Il labirinto~
+   Sei nel labirinto.
+~
+65 9 0
+D0
+~
+~
+0 -1 6549 0
+D2
+~
+~
+0 -1 6547 0
+D3
+~
+~
+0 -1 6548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6549
+Il labirinto~
+   Sei nel labirinto.
+~
+65 9 0
+D0
+~
+~
+0 -1 6548 0
+D2
+~
+~
+0 -1 6548 0
+D3
+~
+~
+0 -1 6550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6550
+Il labirinto~
+   Sei nel labirinto.
+~
+65 9 0
+D0
+~
+~
+0 -1 6549 0
+D1
+~
+~
+0 -1 6549 0
+D2
+~
+~
+0 -1 6552 0
+D3
+~
+~
+0 -1 6548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6551
+Il deposito dell'equipaggiamento dei minatori~
+   Questo e' la stanza usata come deposito per l'equipaggiamento
+dei minatori nani. E' molto piccola, e puoi dire che non molti minatori
+usano l'equipaggiamento.
+~
+65 9 0
+D0
+~
+~
+0 -1 6544 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6552
+La fine del labirinto~
+   Hai risolto il mistero. Puoi dire dagli ultimi pochi movimenti
+che doveva essere uno sciocco colui che l'ha immaginato.
+Sembra desolato qui. A sud c'e' una stanza squallida. A nord
+vedi il labirinto. C'e' un cartello sull'uscita a sud:
+
+CHIUNQUE ENTRI, PIANIFICHI LA PROPRIA MORTE
+(SPECIALMENTE SE E' FEDELE ALLA REGINA)
+
+~
+65 9 0
+D0
+~
+~
+0 -1 6550 0
+D2
+~
+~
+0 -1 6553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6553
+La stanza del Mazekeeper~
+   Sei entrato nella stanza del Mazekeeper. Ci sono quadri della
+Regina con delle freccette sopra. Dipinte a spray sul muro ci sono
+cose come "la regina soffrira'" e "Gradi della Chiesa".
+~
+65 9 0
+D0
+~
+~
+0 -1 6552 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6554
+La tesoreria~
+   Questa stanza e' la Tesoreria della Regina. C'e' un'uscita,
+indietro ad est.
+~
+65 520 1
+D1
+~
+porta~
+2 6500 6532 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

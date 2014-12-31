@@ -1,0 +1,1082 @@
+#2400
+X Helsyn~
+You are in an unfinished room.
+~
+24 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2401
+Il Secondo Piano del Faro~
+Sei quasi in cima di questa strana torre. La stanza
+a forma di tronco di cono non e' molto grande, anzi
+e' piuttosto stretta, angusta, ed a differenza delle
+altre anche umida. Non vi sono mobili o finestre, e
+l'unica fonte di luce e' una piccola sfera luminosa
+appesa ad una parete. Sul soffitto vi e' una piccola
+botola di legno da cui pende una scaletta a pioli. 
+~
+24 0 0
+D4
+~
+botola~
+1 0 2402 3
+D5
+Nothing.
+~
+botola~
+1 0 2398 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2402
+La Cima del Faro~
+Sei giunto in cima di questa torre scavata nella roccia, 
+la stanza e' piccola e rotonda, scentrata rispetto i piani
+sottostanti. Al centro vi e' una strana macchina che sorregge
+la luce che di notte fa da guida ai navigatori. Lateramente quattro
+grosse colonne sorreggono la cima dello scoglio che e' completamente
+separato dal resto della roccia, creando cosi' una finestra rotonda 
+che segue tutto il perimetro della stanza permettendo alla luce di
+illuminare tutto il circondario.
+~
+24 0 0
+D5
+~
+botola~
+1 0 2401 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2403
+Una serie di piattaforme collegate~
+Large tavole di legno ricoperto da pece compongono il pavimento
+di queste strane piattaforme. Delle spesse corde e arrugginite
+mantengono questo piccolo ponte ben saldo e lo collega con quelli
+vicini. Ai bordi non vi e' alcun parapetto o ringhiera e sporgendosi
+un po' si puo' notare che non vi e' alcun sostegno e che la piattaforma
+si trova sospesa a mezz'aria, a circa mezzo metro dalla superficie
+del mare.
+~
+24 0 0
+D0
+~
+~
+0 0 2436 0
+D1
+~
+~
+0 0 2404 0
+D2
+Nothing.
+~
+~
+0 0 2392 0
+D3
+~
+~
+0 0 2426 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2404
+La via dei capitani~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2412 0
+D1
+~
+~
+0 0 2405 0
+D3
+~
+~
+0 0 2403 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2405
+La via dei capitani~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2406 0
+D2
+~
+~
+0 0 2413 0
+D3
+~
+~
+0 0 2404 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2406
+La Via dei Capitani~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2414 0
+D1
+~
+~
+0 0 2407 0
+D3
+~
+~
+0 0 2405 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2407
+La Via dei Capitani~
+Quest'area sembra esser stata adibita ad alloggi, in particolar modo
+ad alloggi per i capitani o chi per loro. Le case, pur non essendo
+lussuose sono leggermente migliori delle altre ed anche tenute e conservate
+meglio.
+~
+24 0 0
+D1
+~
+~
+0 0 2415 0
+D2
+~
+~
+0 0 2408 0
+D3
+~
+~
+0 0 2406 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2408
+La Via dei Capitani~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2407 0
+D2
+~
+~
+0 0 2409 0
+D3
+~
+~
+0 0 2416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2409
+La Via dei Capitani~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2408 0
+D1
+~
+~
+0 0 2417 0
+D2
+~
+~
+0 0 2410 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2410
+La Via dei Capitani~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2409 0
+D2
+~
+~
+0 0 2411 0
+D3
+~
+~
+0 0 2418 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2411
+La Via dei Capitani~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2410 0
+D2
+~
+~
+0 0 2419 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2412
+Una Capanna in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D2
+~
+~
+0 0 2404 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2413
+Un'Abitazione in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2405 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2414
+Una Piccola Casa in Pietra~
+You are in an unfinished room.
+~
+24 0 0
+D2
+~
+~
+0 0 2406 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2415
+Un Ponte Di Collegamento~
+Qui le piattaforme lasciano il campo per un vero e proprio ponte,
+piccolo, dondolante e scricchiolante, ma un vero e ponte.
+Spesse corde lo fissano alle estremita e spesse tavole di legno trattato
+ne compongono il pavimento consumato dal mare.
+~
+24 0 0
+D1
+~
+~
+0 0 2422 0
+D3
+~
+~
+0 0 2407 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2416
+Una Casa su due Piani~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2408 0
+D4
+~
+~
+0 0 2421 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2417
+Una Capanna in Legno e Pietra~
+You are in an unfinished room.
+~
+24 0 0
+D3
+~
+~
+0 0 2409 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2418
+Una Piazzetta Galleggiante~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2410 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2419
+Un'Abitazione in Pietra~
+You are in an unfinished room.
+~
+24 0 0
+D0
+Nothing.
+~
+porta~
+1 0 2411 1
+D4
+~
+~
+0 0 2420 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2420
+Il Primo Piano~
+You are in an unfinished room.
+~
+24 0 0
+D5
+Nothing.
+~
+~
+0 0 2419 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2421
+Il Primo Piano~
+You are in an unfinished room.
+~
+24 0 0
+D5
+~
+~
+0 0 2416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2422
+Una Piattaforma di Collegamento~
+Questo pontile sembra esser stato costruito in fretta e furia poco tempo fa,
+infatti e' particolarmente stretto e quasi instabile. Il suo scopo sembra 
+essere solamente collegare un'area ad un'altra un tempo forse separata o di
+recente creazione. Comunque le tavole sono abbastanza nuove e non completamente
+ancora trattate per resistere alla corrosione del mare.
+~
+24 256 0
+D0
+~
+~
+0 0 2424 0
+D2
+~
+~
+0 0 2423 0
+D3
+~
+~
+0 0 2415 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2423
+Una Piattaforma di Collegamento~
+Questo pontile sembra esser stato costruito in fretta e furia poco tempo fa,
+infatti e' particolarmente stretto e quasi instabile. Il suo scopo sembra 
+essere solamente collegare un'area ad un'altra un tempo forse separata o di
+recente creazione. Comunque le tavole sono abbastanza nuove e non completamente
+ancora trattate per resistere alla corrosione del mare. A est noti un'altra
+imbarcazione qui ancorata da molto tempo ed adibita oramai a qualcosa d'altro,
+forse ad un negozio. Potrebbe proprio essere questa nava la motivazione di questo
+stretto pontile.
+~
+24 256 0
+D0
+~
+~
+0 0 2422 0
+D1
+Nothing.
+~
+~
+0 0 2369 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2424
+Una Piattaforma Di Collegamento~
+Questo pontile sembra esser stato costruito in fretta e furia poco tempo fa,
+infatti e' particolarmente stretto e quasi instabile. Il suo scopo sembra 
+essere solamente collegare un'area ad un'altra un tempo forse separata o di
+recente creazione. Comunque le tavole sono abbastanza nuove e non completamente
+ancora trattate per resistere alla corrosione del mare.
+~
+24 256 0
+D2
+~
+~
+0 0 2422 0
+D3
+~
+~
+0 0 2425 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2425
+Una Piattaforma Di Collegamento~
+Ti trovi chiaramente in una zona molto frequentata, le tavole che 
+compongono il pavimento sembrano infatti esser state sostituite da molto
+poco ed in un angolo noti un secchio di chiodi, evidentemente il lavoro
+non e' nemmeno stato ancora completato. Da nord senti provenire un gran chiasso
+urla, risate e persino gente che canta. L'entrata di questo ambiente e' una 
+grande porta nella stiva di una imbarcazione, probabilmente un'ex mercantile. 
+Sopra la porta un'insegna indica che ti trovi davanti la taverna.
+Ad est ed ovest le piattaforme conducono altrove.
+~
+24 0 0
+D0
+~
+~
+0 0 2346 0
+D1
+~
+~
+0 0 2424 0
+D3
+~
+~
+0 0 2457 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2426
+La Via delle Bicocche~
+Grandi piattaforme di legno collegate formano qui una lunga strada
+dove probabilmente risiede la maggior parte della popolazioen di
+questa bizzarra citta'. Case di scarsa fattura sovrastano i pontili
+ed un certo olezzo aleggia nell'aria. Non e' un bell'ambiente dove
+passeggiare.
+~
+24 0 0
+D1
+~
+~
+0 0 2403 0
+D2
+~
+~
+0 0 2427 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2427
+La Via delle Bicocche~
+Grandi piattaforme di legno collegate formano qui una lunga strada
+dove probabilmente risiede la maggior parte della popolazioen di
+questa bizzarra citta'. Case di scarsa fattura sovrastano i pontili
+ed un certo olezzo aleggia nell'aria. Non e' un bell'ambiente dove
+passeggiare. A est ed ovest vi sono due edifici.
+~
+24 0 0
+D0
+~
+~
+0 0 2426 0
+D1
+~
+prota~
+1 0 2431 3
+D2
+~
+~
+0 0 2428 0
+D3
+~
+porta~
+1 0 2430 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2428
+La Via delle Bicocche~
+Grandi piattaforme di legno collegate formano qui una lunga strada
+dove probabilmente risiede la maggior parte della popolazioen di
+questa bizzarra citta'. Case di scarsa fattura sovrastano i pontili
+ed un certo olezzo aleggia nell'aria. Non e' un bell'ambiente dove
+girovagare. Verso est puoi notare un'edificio in legno mentre a ovest
+una casetta ben piu' piccola, pero' sempre in legno.
+~
+24 0 0
+D0
+~
+~
+0 0 2427 0
+D1
+~
+porta~
+1 0 2433 7
+D2
+~
+~
+0 0 2429 0
+D3
+~
+porta~
+1 0 2432 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2429
+La Via delle Bicocche~
+Grandi piattaforme di legno collegate formano qui una lunga strada
+dove probabilmente risiede la maggior parte della popolazioen di
+questa bizzarra citta'. Case di scarsa fattura sovrastano i pontili
+ed un certo olezzo aleggia nell'aria. Non e' un bell'ambiente dove
+girovagare. Verso est vi e' l'entrata di una piccola casa in legno,
+pero' nonostante le dimensioni ed il materiale e' ben tenuta
+ed accogliente. A ovest inoltre vi e' un'altro edificio, anch'esso
+in legno.
+~
+24 0 0
+D0
+~
+~
+0 0 2428 0
+D1
+~
+porta~
+1 0 2435 3
+D3
+~
+porta~
+1 0 2434 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2430
+Una Costruzione in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+porta~
+1 0 2427 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2431
+Un Edificio in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D3
+~
+prota~
+1 0 2427 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2432
+Una Costruzione in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+porta~
+1 0 2428 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2433
+Un Piccolo Magazzino in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D3
+~
+porta~
+1 0 2428 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2434
+Una Bicocca in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+porta~
+1 0 2429 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2435
+Una Casa in Legno~
+You are in an unfinished room.
+~
+24 0 0
+D3
+~
+porta~
+1 0 2429 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2436
+Una Piattaforma Galleggiante~
+Ti trovi su una piattaforma che assomiglia di piu' ad un ponte
+di corda, infatti spesse corde consumate dal tempo legano grossi
+tronchi che compongono il pavimento e lo fissano a possenti pali
+che scompaiono sotto la superficie del mare. Camminando tutto il 
+pavimento sobbalza e scricchiola, facendoti temere di finire in
+acqua da un momento all'altro. Lateramente vi e' un parapetto, 
+anch'esso di corda che si collega alle piattaforme successive.
+~
+24 0 0
+D0
+~
+~
+0 0 2437 0
+D1
+~
+~
+0 0 2458 0
+D2
+~
+~
+0 0 2403 0
+D3
+~
+~
+0 0 2438 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2437
+Una Piattaforma Galleggiante~
+Ti trovi su una piattaforma che assomiglia di piu' ad un ponte
+di corda, infatti spesse corde consumate dal tempo legano grossi
+tronchi che compongono il pavimento e lo fissano a possenti pali
+che scompaiono sotto la superficie del mare. Camminando tutto il 
+pavimento sobbalza e scricchiola, facendoti temere di finire in
+acqua da un momento all'altro. Lateramente vi e' un parapetto, 
+anch'esso di corda che si collega alle piattaforme successive.
+~
+24 0 0
+D1
+~
+~
+0 0 2344 0
+D2
+~
+~
+0 0 2436 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2438
+Una Piattaforma Galleggiante~
+Ti trovi su una piattaforma che assomiglia di piu' ad un ponte
+di corda, infatti spesse corde consumate dal tempo legano grossi
+tronchi che compongono il pavimento e lo fissano a possenti pali
+che scompaiono sotto la superficie del mare. Camminando tutto il 
+pavimento sobbalza e scricchiola, facendoti temere di finire in
+acqua da un momento all'altro. Lateramente vi e' un parapetto, 
+anch'esso di corda che si collega alle piattaforme successive.
+~
+24 0 0
+D0
+~
+~
+0 0 2364 0
+D1
+~
+~
+0 0 2436 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2439
+Una Piattaforma Galleggiante~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2440 0
+D2
+~
+~
+0 0 2360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2440
+Una Grande Piattaforma~
+Ti trovi in mezzo a tante casette di legno, piccole,
+malridotte, che sembra stiano per crollare da un momento
+all'altro. La piattaforma di legno, quasi marcio, non tocca
+la superficie dell'acqua, quindi e' stabile, e non si muove.
+Pero' dato il suo stato dubiti che regga ancora a lungo, e
+perfino temi che crolli sotto il tuo stesso peso. Sembra che qui
+siano ammassate tutte le famiglie dei pirati regolari, coloro
+cioe' che partecipano di loro volonta' alla vita in mare e su
+questa strana isola. 
+~
+24 0 0
+D0
+~
+~
+0 0 2443 0
+D1
+~
+~
+0 0 2441 0
+D2
+~
+porta~
+1 0 2452 1
+D3
+~
+~
+0 0 2439 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2441
+Una Grande Piattaforma~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+~
+0 0 2442 0
+D1
+~
+porta~
+1 0 2451 1
+D3
+~
+~
+0 0 2440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2442
+Una Grande Piattaforma~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+porta~
+1 0 2449 1
+D1
+~
+porta~
+1 0 2450 1
+D2
+~
+~
+0 0 2441 0
+D3
+~
+~
+0 0 2443 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2443
+Una Grande Piattaforma~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+porta~
+1 0 2447 3
+D1
+~
+~
+0 0 2442 0
+D2
+~
+~
+0 0 2440 0
+D3
+~
+porta~
+1 0 2448 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2444
+Una Piattaforma Galleggiante~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2366 0
+D3
+~
+~
+0 0 2445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2445
+Una Piattaforma Galleggiante~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2444 0
+D3
+~
+~
+0 0 2446 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2446
+La Piattaforma del Patibolo~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+~
+0 0 2445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2447
+Una Capanna~
+You are in an unfinished room.
+~
+24 0 0
+D2
+~
+porta~
+1 0 2443 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2448
+Una Capanna~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+porta~
+1 0 2443 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2449
+Una Capanna~
+You are in an unfinished room.
+~
+24 0 0
+D2
+~
+porta~
+1 0 2442 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2450
+Una Capanna~
+You are in an unfinished room.
+~
+24 0 0
+D3
+~
+porta~
+1 0 2442 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2451
+Una Capanna~
+You are in an unfinished room.
+~
+24 0 0
+D3
+~
+porta~
+1 0 2441 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2452
+Una Capanna~
+You are in an unfinished room.
+~
+24 0 0
+D0
+~
+porta~
+1 0 2440 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2453
+Un Angusto Passaggio~
+You are in an unfinished room.
+~
+24 265 0
+D1
+~
+porticina~
+1 0 2349 7
+D3
+~
+~
+0 0 2454 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2454
+Un Angusto Passaggio~
+You are in an unfinished room.
+~
+24 265 0
+D1
+~
+~
+0 0 2453 0
+D3
+~
+porta~
+2 0 2455 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2455
+Una Stanza Segreta~
+You are in an unfinished room.
+~
+24 0 0
+D1
+~
+porta~
+2 0 2454 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2456
+Un vortice~
+You are in an unfinished room.
+~
+24 2 0
+D3
+~
+~
+0 0 2308 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#2457
+Una Piattaforma Galleggiante~
+Ti trovi su una piattaforma che assomiglia di piu' ad un ponte
+di corda, infatti spesse corde consumate dal tempo legano grossi
+tronchi che compongono il pavimento e lo fissano a possenti pali
+che scompaiono sotto la superficie del mare. Camminando tutto il 
+pavimento sobbalza e scricchiola, facendoti temere di finire in
+acqua da un momento all'altro. Lateramente vi e' un parapetto, 
+anch'esso di corda che si collega alle piattaforme successive.
+~
+24 0 0
+D1
+~
+~
+0 0 2425 0
+D3
+~
+~
+0 0 2458 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2458
+Una Piattaforma Galleggiante~
+Ti trovi su una piattaforma che assomiglia di piu' ad un ponte
+di corda, infatti spesse corde consumate dal tempo legano grossi
+tronchi che compongono il pavimento e lo fissano a possenti pali
+che scompaiono sotto la superficie del mare. Camminando tutto il 
+pavimento sobbalza e scricchiola, facendoti temere di finire in
+acqua da un momento all'altro. Lateramente vi e' un parapetto, 
+anch'esso di corda che si collega alle piattaforme successive.
+~
+24 0 0
+D0
+~
+~
+0 0 2459 0
+D1
+~
+~
+0 0 2457 0
+D3
+~
+~
+0 0 2436 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2459
+L'Ingresso del Campo D'Addestramento~
+You are in an unfinished room.
+~
+24 0 0
+D2
+~
+~
+0 0 2458 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2499
+La Dimora Di Helsyn~
+Ti trovi in una piccola casa di legno, 
+le pareti sono di tronchi grezzi, il pavimento di
+tavole nemmeno levigate e l'unica parete in pietra
+e quella nord dove risiede un caminetto scopiettante.
+~
+24 18725786880076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

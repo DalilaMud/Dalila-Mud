@@ -1,0 +1,636 @@
+#11000
+Una buia caverna~
+Una caverna come tante altre. Misura poco piu'
+che 4 metri quadrati e non vedi vie d'uscite
+diverse da quella da cui sei entrato
+~
+110 12 0
+D2
+~
+~
+0 0 1583498 0
+D4
+~
+porta ~
+2 18710 52000 399
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11001
+La &BGrotta principale&0~
+Un'altra grotta scavata nella collina. Sulle pareti sono presenti
+cartine della Daresia e delle principali citta'. In un angolo sono
+presenti schedari che raccolgono le informazioni su tutti i possibili
+obiettivi. Un tavolo al centro della stanza circondato da alcune sedie
+e' usato dall'organizzazione per decidere le strategie delle prossime
+missioni e per discutere gli ordini.
+~
+110 128 0
+D0
+~
+porta~
+2 0 11002 175
+D1
+~
+porta~
+2 0 11003 175
+D2
+~
+porta~
+2 0 11004 175
+D3
+~
+porta~
+2 0 11005 175
+D4
+~
+~
+0 0 11000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11002
+Il &rMacello&d~
+La stanza è invasa da un odore di sangue di maiale, è cosi forte che ti fa venire la nausea.  Sembra proprio un vecchi
+&rMacello&d, sangue rinsecchito ricopre i muri che la contengono gli schizzi devono aver macchiato il soffitto, noti che
+il pavimento è pulito, di un lucido nero quasi a specchiare.  La stanza è abbastanza larga, contiene dieci box separati
+da robuste tavole di legno, uno dei box ha un letto fatto di paglia.  Per la fretta un lume è stato rovesciato davanti i
+tuoi piedi.  Noti una strana &rincisione&d.  
+~
+110 206158432780 0
+D2
+~
+porta~
+2 0 11001 143
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11003
+&gLa grotta&0~
+Una stanza ricavata dalla roccia della collina.
+Non e' per niente rifinita, dato che sia pareti che
+soffitto che pavimento hanno l'aspetto di una grotta
+naturale
+~
+110 206158432780 0
+D3
+~
+porta~
+2 0 11001 175
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11004
+casa3~
+casa2
+~
+110 206158432780 0
+D0
+~
+~
+2 0 11001 175
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11005
+&rRifugio del Demonio&0~
+Ti trovi in una stanza  mediamente grande e abbastanza buia, profumata di un intenso odore di lavanda
+ad illuminarla soltanto alcune fiaccole.Un brivido ti percorre la schiena non appena noti degli arazzi,
+rappresentanti demoni ed altre strane forze oscure. Il soffitto e' completamente lavorato in oro con
+pregiate gemme intarsiate. Una senzasazione di calma e tranquillità pervade il tuo corpo non appena
+ti soffermi su un quadro rappresentante una giovane ragazza...Esaminandolo attentamente ti accorgi di
+qualcosa di insolito..Gli occhi sono cavi! Forse qualcuno ha seguito ogni tuo movimento.
+Scappa finche sei in tempo..!
+~
+110 206158432780 0
+D1
+~
+porta~
+2 0 11001 175
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11012
+Un'oscuro tunnel discendente~
+Il buio piu' totale ti stringe alle spalle
+e ti sta difronte. Ai lati osservi le rocce,
+illuminate dalla tua fonte di luce, che ap-
+piaono notevolmente umide.
+Sei molto in profondita' e il freddo delle
+viscere della terra ti attanaglia.
+~
+110 5 0
+D4
+~
+~
+0 0 4104 0
+D5
+~
+~
+0 0 11013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 11020
+#11013
+Un'oscuro tunnel discendente~
+Il buio piu' totale ti stringe alle spalle
+e ti sta difronte. Ai lati osservi le rocce,
+illuminate dalla tua fonte di luce, che ap-
+piaono notevolmente umide.
+Sei molto in profondita' e il freddo delle
+viscere della terra ti attanaglia.
+~
+110 5 0
+D4
+~
+~
+0 0 11012 0
+D5
+~
+~
+0 0 11014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11014
+La grotta dei cristalli &VVerdi&0~
+Non hai mai visto uno spettacolo simile e
+resti a bocca aperta:
+qui alcuni minerali si sono cristallizati
+emettendo una tenue luce &VVerde&0, sufficiente
+ad illuminare la caverna.
+~
+110 0 0
+D0
+~
+~
+0 0 11015 0
+D1
+~
+~
+0 0 11016 0
+D2
+~
+roccia~
+1 0 11018 19
+D3
+~
+~
+0 0 11017 0
+D4
+~
+~
+0 0 11013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11015
+La grotta dei cristalli &BBlu&0~
+Non hai mai visto uno spettacolo simile e
+resti a bocca aperta:
+qui alcuni minerali si sono cristallizati
+emettendo una tenue luce &Bblu&0, sufficiente
+ad illuminare la caverna
+~
+110 0 0
+D2
+~
+~
+0 0 11014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11016
+La grotta dei cristalli &GGialli&0~
+Non hai mai visto uno spettacolo simile e
+resti a bocca aperta:
+qui alcuni minerali si sono cristallizati
+emettendo una tenue luce &Ggialla&0, sufficiente
+ad illuminare la caverna.
+~
+110 1 0
+D3
+~
+~
+0 0 11014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11017
+La grotta dei cristalli &RRossi&0~
+Entri nella caverna ammirando la stupenda
+luce &rrossa&0 che si espande intorno a te.
+E' l'ultima cosa che vedi... dato che un
+grosso e appuntito cristallo si stacca
+dal soffitto.
+Al rumore alzi istintivamente la testa
+e il cristallo si conficca nel tuo occhio
+entrandoti nel cervello.
+ADDIO!
+~
+110 2 0
+D1
+~
+~
+0 0 11014 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#11018
+la caverna nascosta~
+Spostando la roccia noti uno stretto
+ passaggio che si inoltra verso il basso
+Si scende ancora...
+~
+110 1 0
+D0
+~
+roccia~
+1 0 11014 19
+D5
+~
+~
+0 0 11019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11019
+Il lungo cunicolo nelle viscere della terra~
+Cammini per ore con frequente consapevolezza
+che un attacco di claustrofobia potrebbe
+coglierti da un momento all'altro. Pensi
+Che intorno a te c'e' solo roccia per
+chilometri e chilometri e ti trovi in un sottile
+budello che scende nelle viscere della terra.
+~
+110 1 0
+D4
+~
+~
+0 0 11018 0
+D5
+~
+~
+0 0 11020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11020
+Una caverna vicino il centro della terra~
+Il freddo che prima ti aveva accompagnato
+ora e' del tutto sparito. Evidentemente qui
+vicino c'e' una grossa fonte di calore
+perche' l'aria e' molto calda e l'aria
+e' satura di vapore
+~
+110 1 0
+D2
+~
+~
+0 0 11022 0
+D3
+~
+~
+0 0 11021 0
+D4
+~
+~
+0 0 11019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11021
+Una caverna &GIncandescente&0~
+Non hai il tempo di pensare al tuo errore.
+Semplicemente il tuo corpo si fonde...
+
+ADDIO STOLTO
+~
+110 2 0
+D1
+~
+~
+0 0 11020 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#11022
+La grotta &Vfosforescente&0~
+Questa larga caverna ha una peculiarita'
+davvero sorprendente. Ha le pareti che
+emettono una luce fluorescente.
+Scrutando meglio vedi che essa e' ricoperta
+da una strana patina di materiale che
+emette luce.
+~
+110 4 0
+D0
+~
+~
+0 0 11020 0
+D2
+~
+~
+0 0 11023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11023
+Una caverna vicino il centro della terra ~
+Il freddo che prima ti aveva accompagnato
+ora e' del tutto sparito. Evidentemente qui
+vicino c'e' una grossa fonte di calore
+perche' l'aria e' molto calda e l'aria
+e' satura di vapore
+~
+110 1 0
+D0
+~
+~
+0 0 11022 0
+D2
+~
+~
+0 0 11024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11024
+Una caverna vicino il centro della terra ~
+Il freddo che prima ti aveva accompagnato
+ora e' del tutto sparito. Evidentemente qui
+vicino c'e' una grossa fonte di calore
+perche' l'aria e' molto calda e l'aria
+e' satura di vapore
+~
+110 1 0
+D0
+~
+~
+0 0 11023 0
+D2
+~
+~
+0 0 11025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11025
+Una caverna vicino il centro della terra ~
+Il freddo che prima ti aveva accompagnato
+ora e' del tutto sparito. Evidentemente qui
+vicino c'e' una grossa fonte di calore
+perche' l'aria e' molto calda e  satura di
+vapore
+~
+110 1 0
+D0
+~
+~
+0 0 11024 0
+D5
+~
+~
+0 0 11026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11026
+&RL'entrata degli inferi&0~
+Qui il vapore viene sostituito da nuvolette
+di fumo &Zsulfureo&0. L'aria e' irrespirabile.
+Al centro della stanza stanza vedi un'enorme
+crepa nel terreno che emette ruggiti di lava.
+~
+110 5 0
+D4
+~
+~
+0 0 11025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 11021
+T 11028
+T 11029
+#11027
+L'ingresso degli &RAbissi&0~
+Una immensa entrata, non ne hai mai viste
+di cosi' grandi, apre la strada per un
+grande sentiero che si avvia verso il basso.
+Una &Gincisione&0 troneggia in alto sull'architrave.
+~
+110 164 0
+D5
+~
+~
+0 0 11028 0
+E
+incisione~
+Perdete ogni speranza
+o voi ch'entrate
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11028
+Il primo &Zgirone&0~
+Qui vengono puniti coloro che ostentarono
+sicurezza e cultura, sminuendo gli altri.
+Tutte intorno a te vedi piccole creature
+insignificanti e repellenti che continuamente
+vengono martoriate, umiliate e angheriate da
+demoni malvagi: sono le anime dei superbi
+~
+110 0 0
+D5
+~
+~
+0 0 11029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11029
+Il secondo &Zgirone&0~
+Qui vengono puniti coloro che disprezzarono
+l'umilta' della vita, ingolosendo i raffinati
+palati con prelibatezze succulente e
+disdegnando cio' che ritenevano normale.
+Le anime dei golosi sono costrette da una
+fame accecante a ingurgitare continuamente
+una poltiglia fangosa dall'odore nauseabondo,
+che continuamente esce dal loro ventre squarciato
+facendo durare in eterno la loro fame e il loro
+supplizio.
+~
+110 0 0
+D5
+~
+~
+0 0 11030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11030
+Il terzo &Zgirone&0~
+Anime urlanti di frustrazione e rabbia
+popolano quest'immenso girone.
+I volti colmi di furore, gli occhi
+inettati di sangue, gridano in eterno
+supplizio la loro debolezza: sono gli
+irosi
+~
+110 128 0
+D5
+~
+~
+0 0 11031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11031
+Il quarto &Zgirone&0~
+Anime in pena rincorrono delle ridicole
+pepite d'oro che hanno delle minuscole
+zampette. Quando la mano dell'avaro con
+cupidigia enorme si allunga per prendere
+cio' che tanto ha amato, il suo piu'
+grande piacere si tramuta in disperazione
+vedendo l'adorato metallo sfuggire alla
+sua presa.
+Allora piangono, si disperano, e si strappano
+i capelli per la frustrazione: sono gli
+avari
+~
+110 0 0
+D5
+~
+~
+0 0 11032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11032
+Il quinto &Zgirone&0~
+Scene di felicita' e pace dominano questo
+girone. Ti sembra che questo posto non puo'
+esistere nell'inferno, ma poi noti dietro
+ogni scena di felicita' ( famiglie che
+fanno un pic nic, due amanti che gioiscono
+nel tenersi per mano, un povero che riceve
+del denaro per mangiare) c'e' una figura
+inquietante.
+Sono le anime degli invidiosi che masticano
+le loro budella per l'infelicita' che gli
+causa la felicita' altrui.
+~
+110 0 0
+D5
+~
+~
+0 0 11033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11033
+Il sesto &Zgirone&0~
+Anime in pena sono costrette
+a trascinare enormi massi da
+un luogo ad un altro senza
+meta e senza motivo.
+Sono i pigri, che mai piu'
+riposeranno in eterno.
+~
+110 0 0
+D5
+~
+~
+0 0 11034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11034
+Il settimo &Zgirone&0~
+Le anime dei lussuriosi corrono dietro
+a fantastiche fanciulle, o uomini che
+sono come adoni.
+Ma la loro bellezza lascia i dannati
+insoddisfatti, perche' dopo averli
+ben irretiti ed ammaliati scompaiono
+in una nuvola di fumo.
+Qui scontano l'eterna pena i lussuriosi,
+privi delle mani e di ogni altro istinto
+se non quello sessuale.
+~
+110 0 0
+D5
+~
+~
+0 0 11035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11035
+&RFiamme&0 e &ZTenebre&0~
+Un paesaggio apocalittico ti attende in questa stanza.
+Comete che impattano con i pianeti, immense sfere
+celesti che esplodono generando il caos.
+In questa stanza risiede tutto l'orgoglio dell'uomo
+fautore di morte e distruzione.
+~
+110 160 0
+D0
+~
+~
+0 0 20532 0
+D5
+~
+~
+0 0 11036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11036
+Un buco &znero&0~
+Il nulla piu' assoluto....
+ ...buona permanenza.
+~
+110 160 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11098
+La Forgia~
+Diversi cumuli di terra sono situati ai lati di ampi fossati, all'interno dei quali
+un'ampia quantita' di pietre, travi di legno e travi di metallo si interseca fino a
+formare le complicate fondamenta dell'edificio in costruzione. In un altro punto del
+sito i lavori sono ormai giunti a buon punto, cosi' prendono forma i pilastri portanti
+della costruzione mentre i primi materiali vengono messi da parte per iniziare la
+costruzione della facciata laterale. In un angolo, sedie, porte, tavoli,armadi sono
+stati depositati pronto per essere utilizzati ad edificio ultimato.
+~
+110 4194304 0
+D4
+~
+~
+0 0 20532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#11099
+&RLa caserma delle &gTigri&0 di &rTolnedra&0 &bd'elite&0~
+Una stanza piuttosto spoglia.
+Ci sono alcuni lettini ai cui piedi
+Puoi notare dei bauli chiusi e inviolabili
+La stanza e' tenuta molto in ordine.
+~
+110 0 0
+D2
+~
+porta~
+1 0 8689 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

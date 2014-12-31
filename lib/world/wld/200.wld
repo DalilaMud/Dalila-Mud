@@ -1,0 +1,6038 @@
+#20000
+La dimensione di Kizeridis~
+Una forte luce abbagliante &b&4blu&0 ti accoglie mentre entri in questo luogo mistico.
+Sei nel mondo di Kizeridis.
+
+&b&1NON TOCCATE LA CASSA!!!&0
+~
+200 61573857152768 2
+D2
+~
+~
+0 0 20001 0
+D4
+~
+~
+0 0 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20001
+Il Laboratorio delle forme e dei colori.~
+Un immensita' di forme e colori si diffondono in questa sala, pulsando
+ritmicamente al battito delle stagioni della Daresia . questo e' il Laboratorio
+delle forme e dei colori, il luogo dove le giovani divinita' apprendono l'arte
+del plasmare il mondo!    
+~
+200 2564 0
+D0
+~
+~
+0 0 20000 0
+D1
+~
+~
+0 0 20002 0
+D2
+~
+~
+0 0 69 0
+D3
+~
+~
+0 0 20300 0
+D4
+~
+~
+0 0 35 0
+D5
+~
+~
+0 0 20400 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20002
+un passaggio nelle ombre~
+Non vedi quasi nulla, il terreno sotto di te e' soffice ma liscio, un'ondata di paura ti prende quando senti le urla in lontananza
+~
+200 1 0
+D0
+~
+~
+0 0 20003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20003
+Verso l'interno della tomba~
+Stai entrando nel profondo della tomba, dove molte persone prima di te sicuramente son morte, attenzione!
+Un ponte a nord, tutto traballante sembra la strada piu' breve per raggiungere la tomba, ma cadresti di sicuro, devi cercare un'altra via
+~
+200 0 0
+D0
+~
+~
+0 0 20004 0
+D1
+Un muro scorrevole
+~
+muro passaggio segreto~
+0 0 20006 18
+D2
+~
+~
+0 0 20002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20004
+Un ponte pericolante verso la tomba~
+Il ponte, tutto traballante, non reggerebbe il tuo peso.
+No, no! Di qua non si passa, pena la morte ad opera del fosso sotto di te, BRRRRR!
+~
+200 2 0
+D0
+~
+~
+0 0 20005 0
+D2
+~
+~
+0 0 20003 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20005
+il passaggio per la tomba~
+Davanti a te una grossa pietra fa da porta alla tomba.
+Strane &1incisioni&0 davanti a te ti incuriosiscono, forse potresti intuire come entrare.
+~
+200 0 0
+D0
+Una porta con degli strani graffiti
+~
+porta~
+2 0 20015 9
+D1
+~
+~
+0 0 20014 0
+D2
+~
+~
+0 0 20004 0
+E
+incisioni incisione muro porta~
+Che strane incisioni, una sola e' chiara: quella di due mani a coppa che attendono di ricevere qualche cosa.
+Guardando meglio, scopri che c'e' la serratura della porta nascosta tra la polvere.
+Vittoria, ora sta tutto nel trovare la chiave...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20006
+Un passaggio segreto~
+Grande! Hai trovato un passaggio segreto!
+Meglio cosi', non avresti dovuto passare da quel ponte, troppo pericolante.
+~
+200 0 0
+D1
+~
+~
+0 0 20007 0
+D3
+Un muro scorrevole
+~
+porta passaggio segreto~
+0 0 20003 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20007
+Un passaggio in disuso~
+Questo passaggio no ne' frequentato da un sacco di tempo, speriamo che chi lo sorvegliava sia morto...
+~
+200 0 0
+D1
+~
+~
+0 0 20008 0
+D3
+~
+~
+0 0 20006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20008
+Un passaggio sinistro~
+A nord e a sud due grandi porte chiuse nascondono qualcosa di misterioso.
+Ad ovest puoi ritornare all'aperto, mentre ad est prosegui per la tomba.
+~
+200 0 0
+D0
+Una porta
+~
+Porta~
+1 0 20009 1
+D1
+~
+~
+0 0 20011 0
+D2
+Porta
+~
+porta~
+1 0 20010 1
+D3
+~
+~
+0 0 20007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20009
+Un deposito infestato~
+Bestie di ogni genere ti attaccano, scappa o affrontale coraggioso
+~
+200 0 0
+D2
+~
+~
+0 0 20008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20010
+Un deposito materiali~
+Dappertutto sono accatastati oggetti all'apparenza inutili
+~
+200 0 0
+D0
+~
+~
+0 0 20008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20011
+Un passaggio attorno al fosso~
+Questo passaggio passa attorno al fosso del ponte, dovresti essere sulla strada giusta
+~
+200 0 0
+D0
+~
+~
+0 0 20022 0
+D3
+~
+~
+0 0 20008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20012
+Verso la meta~
+Che faticaccia, pieno di mostri questo posto!
+Ma ormai dovresti esserci, che grida in lontananzo pero'!
+~
+200 0 0
+D2
+~
+~
+0 0 20022 0
+D3
+~
+~
+0 0 20013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20013
+Un cunicolo tra le ragnatele~
+Questo posto e' pieno di ragnatele enormi, non ti stupiresti se dei ragni ti attaccasseo
+~
+200 0 0
+D1
+~
+~
+0 0 20012 0
+D3
+~
+~
+0 0 20014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20014
+Un lungo corridoio~
+Un lungo corridoio ti porta verso l'interno della tomba
+~
+200 0 0
+D1
+~
+~
+0 0 20013 0
+D3
+~
+~
+0 0 20005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20015
+La camera del Lich~
+Un imponente Lich si frappone tra te e la vittoria
+~
+200 0 0
+D2
+~
+~
+0 0 20005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20016
+Uno sgabuzzino~
+You are in an unfinished room.
+Sei entrato in uno sgabuzzino, qui si possono lasciare le cose inutili, attendendo che venga svuotato.
+~
+200 35184372088832 0
+D1
+~
+~
+0 0 6602 0
+D3
+~
+~
+0 0 6602 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20017
+Uno sgabuzzino~
+You are in an unfinished room.
+Sei in uno sgabuzzino
+~
+200 35184372088832 0
+D3
+~
+sgabuzzino~
+2 0 12517 27
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20018
+uno sgabuzzino~
+Questo e' il misterioso sgabuzzino della sala donazioni. E' una stanza davvero molto bizzarra!
+~
+200 35184372088832 0
+D3
+~
+~
+0 0 21295 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20019
+uno sgabuzzino~
+uno sgabuzzino
+~
+200 35184372088832 0
+D4
+~
+~
+0 0 8690 18
+D5
+~
+~
+0 0 8690 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20022
+La piazzetta della Dea~
+Al centro della stanza vige la grande statua di una Dea a te sconosciuta
+~
+200 0 0
+D0
+~
+~
+0 0 20012 0
+D2
+~
+~
+0 0 20011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20025
+Caverna~
+   Un fetore pestilenziale ti assale quando entri in questo antro oscuro e
+sinistro, e il terrore ti stringe le viscere. Forse e' anche per effetto dei
+gas mefitici che sgorgano dal sottosuolo, pero' ti senti tremendamente inquieto
+qui. Sta' bene attento a dove vuoi andare...  
+~
+200 321 0
+D2
+~
+~
+0 0 20026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 20025
+#20026
+Il percorso verso un lago sotterraneo~
+   Un rivolo di acqua sulfurea scorre sotto i tuoi piedi e bagna le pareti di
+questa grotta. Dev'essere questo che, con residui calcarei, ha creato nel
+corso dei secoli le numerose stalattiti che vedi sul soffitto... Temi da un
+momento all'altro che qualcuna di esse possa staccarti e precipitarti
+addosso...  
+~
+200 321 0
+D0
+~
+~
+0 0 20025 0
+D1
+~
+~
+0 0 20027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20027
+Il lago sotterraneo~
+   Sei arrivato davanti a un enorme lago sotterraneo, che sprigiona vapori
+velenosi, tanto da farti respirare con molta fatica. E al centro della pozza
+d'acqua sulfurea vedi lo scopo della tua ricerca, l'immensa bestia, orrenda nel
+suo puzzo: il drago Lammairn.  
+~
+200 321 0
+D3
+~
+~
+0 0 20026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20030
+La sala di lettura~
+Un po' ovunque vedi delle persone che, sedute ai numerosi tavoli, 
+consultano dei volumi in silenzio. Tutto e' avvolto da un silenzio
+innaturale, sentiresti una mosca volare in qualsiasi punto della 
+stanza, cerchi di leggere cio' che ti interessa facendo
+meno rumore possibile ed evitando di disturbare i presenti.
+~
+200 184 0
+D3
+~
+~
+0 0 12547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20031
+Ampliamento biblioteca di Deira~
+   La sala e' dominata da un grande affresco di Re Owain di Sendaria,
+raffigurato nell'atto di imporre il suo monogramma regale a un imponente tomo
+rilegato.  Tutt'intorno vedi volumi antichi e preziosi, che certamente ti
+potranno essere utili se sei alla ricerca di informazioni e misteri.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20032
+La sala di consultazione testi~
+   La sala e' dominata da un grande affresco di Re Owain di Sendaria,
+raffigurato nell'atto di imporre il suo monogramma regale a un imponente tomo
+rilegato.  Tutt'intorno vedi volumi antichi e preziosi, che certamente ti
+potranno essere utili se sei alla ricerca di informazioni su antichi misteri, o
+anche solo se cerchi un po' di svago nella lettura.    
+~
+200 172 0
+D1
+~
+~
+0 0 6605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20033
+Ampliamento biblioteca di Lamorka~
+You are in an unfinished room.
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20034
+Ampliamento biblioteca di Lamorka~
+You are in an unfinished room.
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20035
+Il Tempio della Conoscenza~
+   Ti trovi in una piccola sala di forma ottagonale: nonostante l'apparente
+degrado il tempio e' molto solido e ben costruito. L'ambiente e' buio, solo un
+filo di luce entra dalle finestre lunghe e strette, e l'arredo e' spartano:
+sicuramente un invito ad accostarsi al sapere con grande forza di volonta'. 
+Una piccola scaletta in ferro battuto conduce a una cripta, da cui proviene un
+forte odore di muffa.  
+~
+200 156 0
+D2
+~
+~
+0 0 22143 0
+D5
+~
+~
+0 0 20036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20036
+La cripta del Tempio della Conoscenza~
+   Sei davvero sbalordito: i costruttori del tempio hanno scavato questa cripta
+in muratura nel terreno, piu' grande del tempio stesso, per conservare non una
+reliquia o alcune sacre vestigia, ma quanto essi pensavano di avere di piu'
+caro, libri e manoscritti antichi con tutto il loro sapere. Le pareti
+presentano infatti molte nicchie contenenti rotoli di pergamena, incunaboli o
+libri rilegati in pelle, che i fedeli devoti della conoscenza possono
+consultare a piacere.  
+~
+200 180 0
+D4
+~
+~
+0 0 20035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20037
+Terza stanza biblioteca di Chyrellos~
+You are in an unfinished room.
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20038
+La saletta di lettura~
+Sei in una piccola sala in cui tutte le antiche pergamene
+o gli stupendi codici miniati a disposizione per la lettura
+possono essere consultati liberamente. Forse qui si trova
+qualcosa di utile non solo per i topi di biblioteca.
+~
+200 160 0
+D1
+~
+~
+0 0 5551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20039
+Seconda stanza Biblioteca Jiroch~
+You are in an unfinished room.
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20040
+La biblioteca pubblica di Cimmura~
+Ti trovi in una piccola costruzione in pietra, di forma allungata: e' la
+biblioteca pubblica della citta'. Un piccolo corridoio svolta a ovest verso
+una sala piena di libri, che potrai consultare liberamente. Ti guardi intorno
+per un attimo e noti che sei quasi solo, non ti sorprende visto che i cittadini
+di Cimmurra non sono molto intellettuali.  
+~
+200 152 0
+D2
+~
+~
+0 0 2434954 0
+D3
+~
+~
+0 0 20041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20041
+L'archivio della biblioteca di Cimmura~
+Entri in un lungo corridoio dal pavimento in pietra, le cui pareti sono
+coperte da grandi scaffali pieni di antichi libri e tomi. 
+Un tavolo al centro della sala ti consente di accomodarti a leggere.
+Vedi che il tema dei libri e' molto vario, spazia dalla piantina delle
+capitali a storie del Cataclisma, da semplici archivi contabili
+a mirabolanti avventure di eroi di terre lontane.
+~
+200 180 0
+D1
+~
+~
+0 0 20040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20042
+La torre oscura.~
+Valicato il pesante portone di ebano e bronzo che protegge queste stanze buie
+da sguardi incauti, ti ritrovi in un ambiente umido, freddo, di forma
+circolare.  Sei alla base della Torre Oscura.  Il buio e' quasi completo, noti
+solo delle scale che costeggiando i muri circolari salgono verso l'oscurita'
+piu' completa.  Un acre odore ti fa pizzicare il naso, un odore forte,
+orribile, a te familiare...  Quello della decomposizione.    
+~
+200 2560 0
+D3
+Una porta di legno.
+~
+porta~
+1 836415 2434755 163
+D4
+~
+~
+0 0 20043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20043
+Il laboratorio di Negromanzia~
+Dopo aver percorso centinaia e centinaia di scalini, immerso nella quasi totale
+oscurit, giungi finalmente al primo piano della Torre.  Man mano che salivi i
+gradini, l'odore nauseante di decomposizione si faceva sempre pi forte.  Il
+motivo semplice.  Davanti a te, distesi su tavoli di legno, giacciono otto
+cadaveri dissezionati.  Accanto ai cadaveri, su tavolini piu' piccoli, noti la
+presenza di alambicchi, simboli di Fede, erbe raggruppate in mazzetti, polveri
+dai molti colori.  Delle scale circolari conducono verso l'alto e verso il
+basso.    
+~
+200 2560 0
+D4
+~
+~
+0 0 20044 0
+D5
+~
+~
+0 0 20042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20044
+Il laboratorio di Alchimia~
+Mille candele illuminano questa stanza, piena di odori e luci.  Su lunghi
+tavoli giacciono alambicchi e pozioni, reagenti mistici e polveri scure, erbe
+di ogni genere, secche e fresche, raccolte in fascine.  Rune e simboli a te
+ignoti sono disegnati ovunque, sul pavimento, sul soffitto, sui muri, sopra gli
+armadi.  Sembrano, o forse sono, gli appunti deliranti di una strega, la
+probabile proprietaria di questo tetro posto.  Le scale circolari conducono
+ancora verso l'alto o verso il basso
+~
+200 2560 0
+D4
+~
+~
+0 0 20045 0
+D5
+~
+~
+0 0 20043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20045
+L'Arsenale Mistico~
+Non appena entri in questa camera, la tua attenzione e' subito catturata dalla
+presenza di un arcano cristallo, saldamente ancorato nel pavimento, che dal
+centro della stanza emana una miriade di minuscoli raggi luminosi,
+proiettandoli su tutte la pareti.  Lungo i muri noti la presenza di mille
+minuscoli specchi, che catturano i raggi e li riflettono intessendo una tela
+luminosa fittissima.  Le interminabili scale circolari conducono verso l'alto e
+verso il basso.    
+~
+200 2560 0
+D4
+~
+~
+0 0 20046 0
+D5
+~
+~
+0 0 20044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20046
+La Camera Rossa~
+Giungi finalmente all'ultima e piu' alta stanza di questa torre.  I muri, il
+soffitto e il pavimento sono interamente foderati di velluto rosso.  La
+mobilia, sontuosa ed elegante, e' disposta intorno ad un regale letto a
+baldacchino, ricoperto da teli neri.  Centinaia di candele nere sono accese in
+ogni dove, dando all'ambiente una luminosit quasi irreale.  Alcuni ritratti
+sono appesi sui muri circolari: vedi disegnati i volti di due donne bellissime,
+dallo sguardo vitreo, figure quasi angeliche, eppure inquietanti, ed accanto ad
+esse il ritratto di un uomo austero, severo, dai lineamenti perfetti.    
+Hai l'impressione che ti stiano fissando.
+~
+200 2560 0
+D5
+~
+~
+0 0 20045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20047
+La magica pedana di Urdul~
+Sei in una specie di cubicolo dalle pareti colorate.  Bizzarri lampi di luce dall'aspetto liquido guizzano attorno a te.
+Non sai se sia stata una buona idea entrare qui dentro!  
+~
+200 244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 20079
+#20048
+L'anticamera alla pedana di Urdul~
+Una piccola baracca tirata su in fretta... tutto qui dentro ha un aspetto trasandato e un po' sudicio.
+~
+200 13 0
+D1
+~
+~
+0 0 20047 0
+D3
+~
+~
+0 0 1504512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20059
+stanza delle prove 2~
+You are in an unfinished room.
+~
+200 0 0
+D5
+~
+~
+0 0 20200 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20060
+la stanza delle prove~
+You are in an unfinished room.
+~
+200 0 0
+D4
+~
+~
+0 0 20059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20080
+Una scalinata in rovina~
+Allora era questo che intendeva la profezia! Il fantasma del castello
+fantasma... gia', perche' il castello fantasma si specchia nel lago,
+e la sua immagine probabilmente e' piu' reale del castello stesso...
+Scendi giu' per i resti diroccati di questa che un tempo era la
+scalinata che conduceva ai sotterranei: non sono rimasti che pochi miseri
+pezzi di roccia ammuffita, e una specie di galleria che entra nel terreno.
+Temi che quanto ti aspetta qui sotto non sia propriamente amichevole...
+~
+200 13 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20081
+Un corridoio male illuminato~
+Sarai almeno cinque metri sotto il suolo, in un anfratto umido e buio.
+Tortuosamente questo cunicolo si dipana per strettoie e allargamenti,
+e l'odore di stantio che ti giunge alle narici e' insopportabile.
+Pero' i suoni strascicati che senti giungere da lontano ti fanno pensare
+che forse non sei solo, qua sotto...
+~
+200 73 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20082
+Un corridoio male illuminato~
+Sarai almeno cinque metri sotto il suolo, in un anfratto umido e buio.
+Tortuosamente questo cunicolo si dipana per strettoie e allargamenti,
+e l'odore di stantio che ti giunge alle narici e' insopportabile.
+Pero' i suoni strascicati che senti giungere da lontano ti fanno pensare
+che forse non sei solo, qua sotto...
+~
+200 73 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20083
+Un corridoio male illuminato~
+Sarai almeno cinque metri sotto il suolo, in un anfratto umido e buio.
+Tortuosamente questo cunicolo si dipana per strettoie e allargamenti,
+e l'odore di stantio che ti giunge alle narici e' insopportabile.
+Pero' i suoni strascicati che senti giungere da lontano ti fanno pensare
+che forse non sei solo, qua sotto...
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20084
+Un corridoio male illuminato~
+Avanzi incautamente mettendo il piede in fallo. Scivoli in una botola
+profonda, e prima che tu abbia il tempo di capire cosa e' successo
+vedi spegnersi la tua luce e ti senti afferrare in una robusta stretta.
+Appena un secondo dopo, mentre cerchi disperatamente una via di scampo,
+senti un dolore lancinante alle gambe, e capisci con orrore che qualcosa
+sta dilaniando il tuo corpo. Ma e' l'ultimo pensiero che hai.
+~
+200 75 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20085
+Un corridoio male illuminato~
+Sarai almeno cinque metri sotto il suolo, in un anfratto umido e buio.
+Tortuosamente questo cunicolo si dipana per strettoie e allargamenti,
+e l'odore di stantio che ti giunge alle narici e' insopportabile.
+Pero' i suoni strascicati che senti giungere da lontano ti fanno pensare
+che forse non sei solo, qua sotto...
+~
+200 73 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20086
+Un incrocio nei sotterranei~
+Nonostante la scarsita' di luce che filtra a malapena in questi bui anfratti, e
+anche se la puzza di chiuso oramai sta aumentando e la testa comincia a
+girarti, intravedi diramazioni da questo posto in tutte le direzioni.  
+Probabilmente sei al centro di un quadrivio, stai bene attento a dove
+dirigerti.    
+~
+200 73 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20087
+la stanza delle prove di &8&7Amanu&0~
+You are in an unfinished room.
+~
+200 4194304 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20090
+Soppalco delle biblioteche.~
+Chiedere di Offar.
+~
+200 0 0
+D5
+~
+~
+0 0 20032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20091
+An unfinished room~
+You are in an unfinished room.
+~
+200 8967891716104 0
+D2
+~
+~
+0 0 2434754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20099
+Il giardino del castello di &8&7ghiaccio&0~
+Ti ritrovi in uno splendido giardino pieno d'ogni genere di vegetale.Al centro si 
+eregge un castello avvolto da una luce splendente,ai 4 angoli del giardino noti
+4 fontane e su di ognuna c'e' lo stemma di una delle capitali dei 4 regni della Daresia.
+~
+200 25166864 0
+D0
+~
+~
+0 0 20100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20100
+L'ingresso del castello di &8&7ghiaccio&0~
+Adesso ne ha la certezza,l'intera struttura e' costituita da ghiaccio,
+un solo e unico pezzo di ghiaccio,non riesci a capire quali forze possano 
+aver plasmato una simile struttura in modo cosi preciso e dettagliato.
+Su entrambi i lati ci sono delle scale che sembrano salire all'infinito....
+in fondo vedi un altra uscita verso il giardino
+~
+200 0 0
+D2
+Verso il giardino
+~
+~
+0 0 20099 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20101
+La Stanza di Cristallo~
+Ti trovi in una piccola stanza quadrata. Le pareti come il pavimento ed
+il soffitto, sono interamente di cristallo trasparente, permettendoti
+quindi di vedere tutto cio' che ti circonda. Pero', con gran sgomento, ti
+rendi conto di essere immerso nell'acqua, ovunque c'e' solo acqua. Vortici,
+turbini, gorghi sono un po' ovunque rendendo l'ambiente molto pericoloso,
+ed infine anche l'area a tua disposizione sembra si stia esaurendo.
+Non hai molte possibilita', o preseguire, rischiando di morire affogato o
+restare qui, e morire senz'altro.
+~
+200 28 0
+D0
+~
+~
+0 0 20102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20102
+Un Corridoio tra i Flutti.~
+Stai camminando a fatica sopra una lunga e stretta lastra di cristallo
+trasparente. Pareti o soffitto sono completamente assenti, ed al loro
+posto gorghi, vortici, muri d'acqua ti circondano, ti avvolgono, ti 
+sommergono, lasciandoti senza fiato. Nelle acque che ti circondano noti
+creature dall'aspetto mostruoso che si muovono con estrema facilita' in
+questo ambiente a te molto ostile e sembrano non gradire molto la tua
+presenza, ma al momento qualcosa impedisce loro di attaccarti.
+~
+200 140737488355400 8
+D0
+Nothing.
+~
+~
+0 0 20104 0
+D1
+Nothing.
+~
+~
+0 0 20103 0
+D2
+~
+~
+0 0 20101 0
+D3
+~
+~
+0 0 20103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20103
+Gli Abissi Marini~
+La luce ormai non riesci a raggiungere quesi luogi, la pressione
+ti impedisce qualsiasi movimento, persino di respirare. Pesci
+mostruosi ti si avvicinano minacciosi accompagnati da giganti 
+il cui corpo e' la stessa acqua che ti circonda, i cui muscoli
+sono i vortici, le correnti che fin qui ti han trasportato.
+~
+200 140737488355399 8
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20104
+Un Corridoio tra i Flutti~
+Non stai camminando da molto, ma la corrente avversa ti ha fatto consumare
+tutte le tue energie e a questo punto sei praticamente sfinito. Per fortuna
+in lontananza vedi una strana luminescenza verdognola che potrebbe indicare
+la fine di questo strano ed innaturale corridoio sommerso. 
+~
+200 140737488355400 8
+D0
+~
+~
+0 0 20105 0
+D1
+~
+~
+0 0 20103 0
+D2
+Nothing.
+~
+~
+0 0 20102 0
+D3
+~
+~
+0 0 20103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20105
+La Fine del Cristallo~
+Trascinadoti a fatica riesci finalmente a raggiungere la fine di
+quel cristallo che fino a questo momento ti ha fatto da pavimento.
+Ti trovi di fronte ad un enorme cancello che sembra essere la fonte
+di quella strana luminescenza. Ai lati due gigantesce creature marine,
+forse elementali, stanno controllando chi puo' entrare nella citta'.
+Capisci che quella e' l'unica vi d'entrata, dato che smisurati muri
+d'acqua ascendente circondano in tutte le direzioni questa strana e
+unica citta'.
+~
+200 140737488355392 8
+D0
+~
+cancello~
+2 0 20106 11
+D1
+~
+~
+0 0 20103 0
+D2
+~
+~
+0 0 20104 0
+D3
+~
+~
+0 0 20103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20106
+Dento le Mura della Citta'~
+A sud il cancello, e nord una strada di vetro. 
+Ti trovi in un stretto corridoio, le cui pareti sono vere
+e proprie cascate, la cui acqua pero' scorre verso l'alto.
+Enormi guardie elementali ti controllano e ti fissano con
+odio, se potessero saresti gia' morto. In lontananza verso
+nord, sulla strada di vetro noti una gran confusione. Vortici
+di tutte le dimensioni vanno e vengono, colonne d'acqua 
+sembrano comportarsi da guardie cittadine...ti sembra una
+normale citta', con normalissimi abitanti, se non fosse che
+tutto e' composto essenzialmente d'acqua.
+~
+200 140737488355528 8
+D0
+~
+~
+0 0 20107 0
+D2
+~
+cancello~
+2 0 20105 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20107
+La strada lastricata di vetro~
+si finalmente dentro la citta'. A nord la strada sembra
+condurre verso il centro nevralgico di questo mondo,
+verso il palazzo reale, a est ed ovest invece la stranda
+continua a costeggiare le mura, se cosi' si possono definire
+quei vortici ascendenti d'acqua.
+~
+200 140737488355400 8
+D0
+~
+~
+0 0 20108 0
+D2
+~
+~
+0 0 20106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20108
+Il Viale Centrale~
+Una larghissima strada piastrellata come al solito di
+vetro, permettendoti di vedere i flutti sotto di te,
+ti conduce verso la piazza centrale della citta'. Al
+centro del viale enoermi zampilli d'acqua, simili a gayser
+attirano la tua attenzione e non solo quella, infatti
+le correnti marine che profocano queste cascate creano
+un enorme spostamento d'acqua, dove tra l'altro sei 
+completamente immerso trascindoti quindi verso l'alto.
+Forse ti convine proseguire.
+~
+200 140737488355400 8
+D0
+~
+~
+0 0 20109 0
+D2
+~
+~
+0 0 20107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20109
+La Piazza Centrale~
+Una classica piazza rotonda, con una "fontana" al suo
+centro. Abbastanza normale se non fosse per uno strano
+palco, sostenuto dal getto d'acqua centrale, dove
+mostri marini, elementali ed altre creature a te 
+completamente sconosciute si stanno picchiando. Una numerosa
+folla assiste divertita all'incontro. Dalla parte opposta,
+verso nord, una costruizione interamente di una pietra azzurra
+attira la tua attenzione: dev'essere il palazzo reale.
+~
+200 140737488355400 8
+D0
+~
+~
+0 0 20111 0
+D2
+~
+~
+0 0 20108 0
+D4
+~
+~
+0 0 20110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20110
+Il Palco~
+Adesso che ci sei dentro ti rendi conto che non e' una
+piattaforma, bensi' un cubo di cristallo, una specie di
+ring. Ti rendi conto inoltre che qui riesci a respirare
+normalemente e che l'acqua qui sembra non arrivare, forse
+per permetterti di combattere piu' liberamente. 
+~
+200 131144 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20111
+Davanti al Palazzo Reale~
+Con la "fontana" alle spalle ti trovi finalmente alle porte
+di un palazzo da sogno. Non ha finestre ma sembra essere 
+completamente di smeraldo o di un'altra pietra dura. 
+Il portone d'entrata e' sorvegliato da due enormi vortici
+azzurri. Sono piu' alti di te di almeno alcuni metri, e 
+dall'altro due occhi rossi ti fissano con attenzione. 
+~
+200 140737488355400 8
+D0
+~
+portone~
+2 0 20112 11
+D2
+~
+~
+0 0 20109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20112
+L'Atrio~
+La pressione dell'acqua sembra aumentare man mano che ti
+inoltri all'interno del palazzo. La strana luce azzurra che
+riempie ed avvolge ogni cosa crea strane ombre, che sembrano
+adirittura vive. Una scalinata conduce ai piani superiori, 
+mentra a est vi e' una porta chiusa.
+~
+200 140737488355416 8
+D1
+~
+~
+0 0 20114 0
+D2
+~
+portone~
+2 0 20111 11
+D4
+~
+~
+0 0 20113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20113
+Le Scale~
+Nothing.
+~
+200 0 0
+D5
+~
+~
+0 0 20112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20114
+Il Salone dei Ricevimenti~
+You are in an unfinished room.
+~
+200 0 0
+D3
+~
+~
+0 0 20112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20120
+Una folata di vento~
+Tutto quanto ti circonda ruota vorticosamente, e la testa ti gira. C'e' un
+vento cosi' forte che quasi ti strappa i capelli e i vestiti. Vedi un
+passaggio verso l'alto che conduce a un ammasso etereo, ma e' difficile da
+raggiungere, e temi che il vento possa farti a pezzi.
+~
+200 281474976710724 7
+D0
+~
+~
+0 0 20156 0
+D1
+~
+~
+0 0 20123 0
+D4
+~
+~
+0 0 20156 0
+D5
+~
+~
+0 0 20153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20121
+In volo nell'uragano~
+Per contrastare il forte impeto dell'aria provi a tornare sui tuoi passi
+e senti come mille punture di aghi sulla faccia. Lo sbalzo di pressione
+ti tappa le orecchie e perdi conoscenza per un tempo che ti pare lungo,
+troppo lungo forse.
+~
+200 281474976710724 7
+D0
+~
+~
+0 0 20156 0
+D1
+~
+~
+0 0 20120 0
+D4
+~
+~
+0 0 20156 0
+D5
+~
+~
+0 0 20153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20122
+In volo nell'uragano~
+Ti butti di lato per contrastare la furia dell'elemento aria che si abbatte
+su di te. Ma il vento continua a sballottarti violentemente come se fossi
+leggero come una piuma.
+~
+200 281474976710724 7
+D0
+~
+~
+0 0 20156 0
+D2
+~
+~
+0 0 20124 0
+D4
+~
+~
+0 0 20121 0
+D5
+~
+~
+0 0 20153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20123
+In volo nell'uragano~
+Si solleva improvvisamente un vento contrario, che ti capovolge
+completamente, anche se i punti di riferimento sono ormai perduti
+e perdi il conto delle volte che giri su te stesso, sballottato
+dal vento. Sei ormai in balia dell'elemento, e devi fare qualcosa presto.
+~
+200 281474976710724 7
+D0
+~
+~
+0 0 20122 0
+D3
+~
+~
+0 0 20120 0
+D4
+~
+~
+0 0 20156 0
+D5
+~
+~
+0 0 20153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20124
+In volo nell'uragano~
+Si solleva improvvisamente un vento contrario, che ti capovolge
+completamente, anche se i punti di riferimento sono ormai perduti
+e perdi il conto delle volte che giri su te stesso, sballottato
+dal vento. Sei ormai in balia dell'elemento, e devi fare qualcosa presto.
+~
+200 281474976710724 7
+D0
+~
+~
+0 0 20122 0
+D3
+~
+~
+0 0 20125 0
+D4
+~
+~
+0 0 20156 0
+D5
+~
+~
+0 0 20153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20125
+In volo nell'uragano~
+Sei vicino alla fine di questo maelstrom infernale. Il vortice turbolento
+sembra piu' quieto in questo punto, e intravedi uno scorcio di sereno, con
+la luce che fa capolino da dietro nuvole chiare.
+~
+200 68 7
+D1
+~
+~
+0 0 20124 0
+D4
+~
+~
+0 0 20126 0
+D5
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20126
+Una citta' tra le nuvole~
+Sali piu' in alto delle nuvole e vedi davanti a te formazioni aeree di colore
+chiaro, che sembrano quasi palazzi dalle alte guglie. Sono di colore chiaro,
+quasi trasparente, e ogni tanto vedi sfrecciare tra di essi qualche strana
+figura eterea.
+~
+200 196 0
+D0
+~
+~
+0 0 20127 0
+D2
+~
+~
+0 0 20156 0
+D5
+~
+~
+0 0 20125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20127
+Una citta' tra le nubi~
+Percorri un sentiero che sembra disegnato sulle nuvole, e  
+attorno a te vedi sinistri bagliori azzurri che ti stordiscono.
+Gli abitanti di questa strana citta' sembrano essere allampanate
+figure azzurre senza volto. Tutto questo non puo' che inquietarti.
+~
+200 192 1
+D0
+~
+~
+0 0 20128 0
+D1
+~
+~
+0 0 20156 0
+D2
+~
+~
+0 0 20126 0
+D3
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20128
+Una citta' tra le nubi~
+Continui la tua strada tra le nuvole e ti accorgi che qui il vento e'
+cresciuto di intensita', e senti come tante punture sulla pelle.
+L'aura magica che sembra circondare la citta' per proteggerla dal vento,
+e che pero' impedisce di fare incantesimi, sembra piu' debole qui.
+~
+200 281474976710720 1
+D0
+~
+~
+0 0 20129 0
+D1
+~
+~
+0 0 20130 0
+D2
+~
+~
+0 0 20127 0
+D3
+~
+~
+0 0 20133 0
+D5
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20129
+Una citta' tra le nubi~
+Percorri un sentiero che sembra disegnato sulle nuvole, e  
+attorno a te vedi sinistri bagliori azzurri che ti stordiscono.
+Gli abitanti di questa strana citta' sembrano essere allampanate
+figure azzurre senza volto. Tutto questo non puo' che inquietarti.
+~
+200 192 1
+D0
+~
+portone~
+2 20123 20134 9
+D1
+~
+~
+0 0 20132 0
+D2
+~
+~
+0 0 20128 0
+D3
+~
+~
+0 0 20131 0
+D5
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20130
+Una citta' tra le nubi~
+Percorri un sentiero che sembra disegnato sulle nuvole, e  
+attorno a te vedi sinistri bagliori azzurri che ti stordiscono.
+Gli abitanti di questa strana citta' sembrano essere allampanate
+figure azzurre senza volto. Tutto questo non puo' che inquietarti.
+~
+200 192 1
+D0
+~
+~
+0 0 20132 0
+D1
+~
+~
+0 0 20156 0
+D2
+~
+~
+0 0 20156 0
+D3
+~
+~
+0 0 20128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20131
+Una citta' tra le nubi~
+Percorri un sentiero che sembra disegnato sulle nuvole, e  
+attorno a te vedi sinistri bagliori azzurri che ti stordiscono.
+Gli abitanti di questa strana citta' sembrano essere allampanate
+figure azzurre senza volto. Tutto questo non puo' che inquietarti.
+~
+200 192 1
+D0
+~
+~
+0 0 20156 0
+D1
+~
+~
+0 0 20129 0
+D2
+~
+~
+0 0 20133 0
+D3
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20132
+Una citta' tra le nubi~
+Percorri un sentiero che sembra disegnato sulle nuvole, e  
+attorno a te vedi sinistri bagliori azzurri che ti stordiscono.
+Gli abitanti di questa strana citta' sembrano essere allampanate
+figure azzurre senza volto. Tutto questo non puo' che inquietarti.
+~
+200 192 1
+D0
+~
+~
+0 0 20156 0
+D1
+~
+~
+0 0 20156 0
+D2
+~
+~
+0 0 20130 0
+D3
+~
+~
+0 0 20129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20133
+Una citta' tra le nubi~
+Percorri un sentiero che sembra disegnato sulle nuvole, e  
+attorno a te vedi sinistri bagliori azzurri che ti stordiscono.
+Gli abitanti di questa strana citta' sembrano essere allampanate
+figure azzurre senza volto. Tutto questo non puo' che inquietarti.
+~
+200 192 1
+D0
+~
+~
+0 0 20131 0
+D1
+~
+~
+0 0 20128 0
+D2
+~
+~
+0 0 20156 0
+D3
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20134
+Ai piedi di una scala dorata~
+Tra le nubi si innalza un'enorme scalinata che sembra fatta
+interamente d'oro. Sembra condurre ad una cittadella superiore,
+e sicuramente sara' ben sorvegliata.
+~
+200 452 1
+D2
+~
+portone~
+2 20123 20129 9
+D4
+~
+~
+0 0 20135 0
+D5
+~
+~
+0 0 20156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20135
+Lo spiazzo della scalinata~
+Sei giunto al termine della prima parte della scalinata. Non sara' facile
+passare oltre: non sei ancora arrivato in cima, e gia' vedi davanti a te un
+minaccioso guardiano.    
+~
+200 452 0
+D0
+~
+porta arcobaleno~
+2 20123 20136 9
+D5
+~
+~
+0 0 20134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20136
+L'arco di luce colorata~
+Ti trovi in un paesaggio da sogno: sembra un giardino coperto di ogni delizia!
+Poi ti guardi attorno e vedi che in realta' e' solo un'illusione: sono immagini
+che un arco di luce colorata proeitta sulle nubi.    
+~
+200 76 1
+D0
+~
+cancello~
+2 20123 20137 9
+D2
+~
+porta arcobaleno~
+2 20123 20135 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20137
+Al termine della scalinata dorata~
+Questa zona proseguira' in quest future!
+~
+200 0 0
+D2
+~
+cancello~
+2 20123 20136 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20149
+Un passaggio dimensionale~
+Tutto intorno e' un turbinio incessante di colori...
+~
+200 0 0
+D2
+~
+~
+0 0 7501 0
+D5
+~
+~
+0 0 28034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20150
+La fontana degli elementi~
+Che posto e' mai questo?  Sembra una nube dalle pareti turbinanti di mille
+colori.  A mezz'aria, vortici e scie volteggianti sembrano essere fatti di
+materia indistinta, caotica e gorgogliante.  Nel centro della nube, una pozza
+che sembra di lava ribolle con forza e ogni tanto si sprigiona qualche
+zampillo, a volte bollente, a volte gelido, a volte con un bagliore violento
+che ti acceca per un istante.  Ma riesci a distinguere quattro aperture nella
+nube, e sembrano colorate in maniera differente: rossastra a sud, bianca a est,
+azzurra-verdastra a nord, bruna a ovest.    
+~
+200 8796225142788 2
+D0
+~
+~
+0 0 20151 0
+D1
+~
+~
+0 0 20153 0
+D2
+~
+~
+0 0 20152 0
+D3
+~
+~
+0 0 20154 0
+D5
+~
+~
+0 0 1461447 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20151
+Le sorgenti dell'acqua~
+Entri in un corridoio azzurrino, dove riecheggia un gorgoglio di acqua che
+scorre.  L'umidita' aumenta considerevolmente, e un rigagnolo scorre sui tuoi
+piedi, che cominciano a bagnarsi.  Ti trovi davanti a un confine che ti separa
+da una regione del piano acquatico.  In lontananza uno scrosciare d'onde, dolce
+come il canto di mille sirene, ti invita ad entrare.    
+~
+200 0 0
+D0
+~
+~
+0 0 20155 0
+D2
+~
+~
+0 0 20150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20152
+L'esplosione del fuoco~
+Luce!  Luce!  Accecante e scintillante, qua tutto risplende di un bagliore
+incandescente.  E la temperatura sale: cominci a sudare, mentre ti accorgi che
+i tuoi sensi si fanno piu' appannati a causa dell'eccessivo calore.  Davanti a
+te si apre in ogni direzione una distesa infuocata, che si volatilizza verso
+l'alto, come un'immensa fenice.    
+~
+200 4 0
+D0
+~
+~
+0 0 20150 0
+D1
+~
+~
+0 0 20158 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20153
+Le origini del vento~
+Sei circondato da un vorticare incessante di aria che sibila attorno a te.  Ti
+senti sballottato a destra e a sinistra, e fatichi un po' a trovare
+l'equilibrio.  Ti trovi al confine di questo accesso al piano aereo.  Tuffati
+quindi nel turbinio degli uragani e preparati a entrare nell'occhio del
+ciclone.    
+~
+200 4 2
+D3
+~
+~
+0 0 20150 0
+D4
+~
+~
+0 0 20120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20154
+Le radici della terra~
+Sei entrato quasi senza accorgertene in una sorta di grotta naturale, dove
+c'e' buio e odore di terriccio e muffa. Pare che tu sia sull'orlo di un
+grande baratro scuro, come una cava a cielo aperto, da cui si ode in
+lontananza qualche rumore sordo e indistinto. Qualche spuntone roccioso
+fa da scala per scendere verso il basso.
+~
+200 1 0
+D1
+~
+~
+0 0 20150 0
+D5
+~
+~
+0 0 20157 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20155
+Sott'acqua~
+Ti immergi nella marea e ti accorgi che il liquido che diresti acqua (ma e'
+veramente cosi'?) e' freddo e sfuggente.  Ti trovi dentro l'essenza pura
+dell'elemento, sballottato da fortissime turbolenze.  Purtroppo per te non sei
+attrezzato per resistervi e precipiti nel fondo dell'abisso buio e senza vita.
+~
+200 2 0
+D2
+~
+~
+0 0 20151 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20156
+In volo nell'uragano~
+Ti getti a capofitto nell'occhio del ciclone, e il forte vento, o forse una
+mano invisibile, ti trascina verso l'alto con incredibile impeto, tanto
+che il tuo povero corpo mortale non puo' sopportarlo ed esplode letteralmente,
+e i tuoi minuscoli brandelli si disperdono nel vortice dell'aria.
+~
+200 2 0
+D5
+~
+~
+0 0 20153 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20157
+Le viscere della terra~
+Inizi a scendere per gli spuntoni rocciosi e ti accorgi che non sono certo
+comodissimi come appiglio. A complicare le cose, mentre hai fatto appena
+qualche gradino, la parete rocciosa inizia a tremare, e uno spuntone di roccia
+si stacca per centrarti in pieno. Fortunatamente l'urto ti uccide sul colpo,
+in modo che l'agonia di precipitare in fondo al baratro ti viene risparmiata.
+~
+200 2 0
+D4
+~
+~
+0 0 20154 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20158
+I cancelli infuocati~
+Ti trovi davanti a una cancellata ardente che sembra fatta d'ottone, spalancata.
+Tutto qui e' davvero molto strano e fatichi a capacitarti della strana
+scena: ma ti rendi conto che il cancello separa quella specie di pianura,
+che conduce a sud al maelstrom degli elementi, da una regione che assomiglia di
+piu' a una nube infuocata, in cui vedi in lontananza muoversi figure
+fiammeggianti dall'aspetto minaccioso e terribile.
+~
+200 70368744177668 1
+D2
+~
+cancellata~
+1 0 20161 1
+D3
+~
+~
+0 0 20152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20159
+La strada di ottone~
+Ti sposti sopra un'altra parte della strada di ottone. Ad un tratto una
+vampata rossastra si sprigiona dal suolo, o forse una parete, e in un attimo
+sei circondato di fiamme roventi e inestinguibili, che consumano in fretta
+il tuo corpo.
+~
+200 2 0
+D0
+~
+~
+0 0 20150 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20160
+La nube di fuoco~
+In questa nube dove sei entrato la temperatura e' altissima, i vestiti ti
+soffocano e i tuoi oggetti di metallo diventano incandescenti. Per fortuna
+gli occhi ti schizzano fuori dalle orbite prima che tu veda in quanto
+tempo il tuo corpo si scioglie ed evapora nella nube infuocata.
+~
+200 2 0
+D0
+~
+~
+0 0 20150 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20161
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+cancellata~
+1 0 20158 1
+D1
+~
+~
+0 0 20162 0
+D3
+~
+~
+0 0 20162 0
+D4
+~
+~
+0 0 20162 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20162
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20161 0
+D2
+~
+~
+0 0 20163 0
+D3
+~
+~
+0 0 20161 0
+D5
+~
+~
+0 0 20161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20163
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+~
+0 0 20162 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20164 0
+D4
+~
+~
+0 0 20162 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20164
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20163 0
+D2
+~
+~
+0 0 20159 0
+D3
+~
+~
+0 0 20161 0
+D5
+~
+~
+0 0 20165 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20165
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+~
+0 0 20166 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20162 0
+D4
+~
+~
+0 0 20164 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20166
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20163 0
+D2
+~
+~
+0 0 20159 0
+D3
+~
+~
+0 0 20167 0
+D5
+~
+~
+0 0 20161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20167
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 70368744177728 1
+D0
+~
+~
+0 0 20162 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20160 0
+D4
+~
+~
+0 0 20168 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20168
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+sbarra~
+1 0 20169 1
+D2
+~
+~
+0 0 20171 0
+D3
+~
+~
+0 0 20161 0
+D5
+~
+~
+0 0 20159 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20169
+L'anticamera infuocata~
+Sembra che qualcuno abbia plasmato le fiamme per dare a questo posto la
+fisionomia di una stanza: ci sono delle pareti, e un passaggio. Si direbbe
+un posto di guardia, infatti l'arcata di fuoco che c'e' in fondo e'
+sbarrata da una sbarra di ottone, e protetta da due guardiani fiammeggianti.
+~
+200 64 0
+D1
+~
+sbarra~
+2 20152 20170 9
+D3
+~
+sbarra~
+1 0 20168 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20170
+Una camera di fuoco blu~
+Si direbbe che questa strana stanza e' fatta apposta per custodire qualcosa
+di importante. Infatti le fiamme azzurre che costituiscono le pareti ardono
+senza sviluppare calore, e sembrano fredde e dure. Mentre il resto del piano
+del fuoco e' praticamente indistinto e immateriale, questa stanza sembra come
+una recinzione. Ti viene il sospetto che sia una sorta di prigione.
+~
+200 64 0
+D3
+~
+sbarra~
+2 20152 20169 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20171
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+~
+0 0 20168 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20168 0
+D4
+~
+~
+0 0 20178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20172
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20171 0
+D2
+~
+~
+0 0 20173 0
+D3
+~
+~
+0 0 20171 0
+D5
+~
+~
+0 0 20159 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20173
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+~
+0 0 20172 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20174 0
+D4
+~
+~
+0 0 20172 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20174
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20173 0
+D2
+~
+~
+0 0 20159 0
+D3
+~
+~
+0 0 20171 0
+D5
+~
+~
+0 0 20175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20175
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+~
+0 0 20176 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20172 0
+D4
+~
+~
+0 0 20174 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20176
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20173 0
+D2
+~
+~
+0 0 20159 0
+D3
+~
+~
+0 0 20177 0
+D5
+~
+~
+0 0 20171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20177
+La strada di ottone~
+Questa strana strada e' lastricata con piastrelle di ottone roventi
+e apparentemente non conduce in nessun posto. E' come sospesa per aria,
+indefinita e misteriosa, come altre piattaforme d'ottone che vedi in giro
+per la nube infuocata, su cui ogni tanto transitano sinistre figure
+incandescenti o avvolte dalle fiamme.
+~
+200 64 1
+D0
+~
+~
+0 0 20172 0
+D1
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20160 0
+D4
+~
+~
+0 0 20178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20178
+La nube di fuoco~
+Il luogo dove ti trovi sembra una nube di fuoco, in cui e' difficile 
+orientarsi: sopra, sotto, destra, sinistra, tutto appare confuso. Dalle   
+pareti (o e' il pavimento?) si sprigionano ogni tanto vampate accecanti, e
+ti rendi conto di doverti muovere con grande cautela.
+~
+200 70368744177728 6
+D1
+~
+~
+0 0 20179 0
+D2
+~
+~
+0 0 20159 0
+D3
+~
+~
+0 0 20159 0
+D5
+~
+~
+0 0 20171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20179
+Il palazzo delle alte fiamme~
+Non lontano da dove ti trovi, alte colonne di fuoco si alzano a formare
+pareti e ardite guglie. Si direbbe che tu sia nei pressi di un palazzo
+enorme, fatto interamente di fuoco. Chissa' chi lo abita, e cosa ti
+aspetta dentro... sara' prudente avvicinarsi?
+~
+200 70368744177728 1
+D0
+~
+cancellata~
+2 20153 20180 9
+D2
+~
+~
+0 0 20160 0
+D3
+~
+~
+0 0 20178 0
+D5
+~
+~
+0 0 20160 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20180
+Dentro il palazzo delle alte fiamme~
+Entri in una specie di corridoio delimitato da alte colonne di fuoco, che
+si incrociano ad arco sopra la tua testa. Qua e la' fiammanti chiazze colorate
+vivacizzano l'ambiente, ma non osi avvicinarti perche' non sai se siano
+semplici formazioni di fuoco o creature viventi.
+~
+200 64 0
+D0
+~
+~
+0 0 20181 0
+D2
+~
+cancellata~
+2 20153 20179 9
+D4
+~
+~
+0 0 20182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20181
+Il corridoio infuocato~
+Ti addentri sempre piu' tra le pareti e il calore comincia a diventare
+insopportabile. Il corridoio, che ora svolta ad angolo, sta diventando
+veramente stretto e non e' facile avanzare senza rischiare di bruciarsi, e piu'
+di una volta sfiori le pareti che ardono di fuoco inestinguibile.    
+~
+200 70368744178120 0
+D0
+~
+~
+0 0 20182 0
+D1
+~
+~
+0 0 20182 0
+D2
+~
+~
+0 0 20180 0
+D3
+~
+~
+0 0 20183 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20182
+In mezzo alle alte fiamme~
+Immense pareti di fuoco ti circondano. Attorno a te vedi solo fuoco
+che ti abbaglia e ti confonde. Con una vampata, il fuoco ti avvolge,
+e ti fa perdere i sensi. Provi a muoverti, ma sei completamente indifeso
+di fronte all'essenza pura dell'elemento fuoco, che ora si alimenta di te.
+~
+200 70368744177898 6
+D0
+~
+~
+0 0 20182 0
+D1
+~
+~
+0 0 20182 0
+D2
+~
+~
+0 0 20182 0
+D3
+~
+~
+0 0 20182 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20183
+Davanti al portale del fuoco~
+Sei dunque arrivato: davanti a te le fiamme si allargano, e al centro dello
+spiazzo che formano vedi un arco avvolto dal fuoco in cui baluginano, tra
+una fiammata verde e una blu intenso, immagini a te familiari. Quello e'
+senz'altro un portale sul tuo mondo, ma per come e' fatto solo gli
+abitanti di questo piano elementale possono oltrepassarlo.
+~
+200 448 0
+D0
+~
+~
+0 0 20182 0
+D1
+~
+~
+0 0 20181 0
+D2
+~
+~
+0 0 20182 0
+D3
+~
+~
+0 0 20182 0
+D4
+~
+~
+0 0 20182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20200
+Nel piccolo laghetto.~
+In questa zona il mare e' apparentemente calmo.
+Riesci a scorgere qualcosa che si muove in profondita'...
+~
+200 0 6
+D3
+~
+~
+0 0 20489 0
+D5
+~
+~
+0 0 20201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20201
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+200 33 8
+D0
+~
+~
+0 0 20201 0
+D1
+~
+~
+0 0 20202 0
+D2
+~
+~
+0 0 20203 0
+D3
+~
+~
+0 0 20201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20202
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+200 33 8
+D0
+~
+~
+0 0 20202 0
+D1
+~
+~
+0 0 20204 0
+D2
+~
+~
+0 0 20202 0
+D3
+Nothing.
+~
+~
+0 0 20201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20203
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+200 33 8
+D0
+~
+~
+0 0 20201 0
+D1
+~
+~
+0 0 20207 0
+D2
+~
+~
+0 0 20205 0
+D3
+~
+~
+0 0 20204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20204
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+200 33 8
+D0
+~
+~
+0 0 20204 0
+D1
+~
+~
+0 0 20203 0
+D2
+~
+~
+0 0 20202 0
+D3
+~
+~
+0 0 20201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20205
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+200 33 8
+D0
+~
+~
+0 0 20203 0
+D1
+~
+~
+0 0 20206 0
+D2
+~
+~
+0 0 20202 0
+D3
+Nothing.
+~
+~
+0 0 20204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20206
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+200 33 8
+D0
+Nothing.
+~
+~
+0 0 20204 0
+D1
+~
+~
+0 0 20201 0
+D2
+~
+~
+0 0 20207 0
+D3
+Nothing.
+~
+~
+0 0 20205 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20207
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+Un mucchio di alghe offuscano la zona...
+~
+200 33 8
+D0
+~
+~
+0 0 20206 0
+D1
+Un mucchio di alghe
+~
+alghe alga~
+0 0 20208 18
+D2
+~
+~
+0 0 20202 0
+D3
+~
+~
+0 0 20201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20208
+I Cancelli del villaggio degli Sahuagin~
+Ooooooh, che villaggio stranissimo!
+Non avresti mai immaginato di poter osservare un normalissimo villaggio, con case, palizzate, strade... Ma tutte sott'acqua!
+Ora ti trovi ai cancelli della cittadina, chiedendoti se sia bene o no proseguire...
+~
+200 36 8
+D1
+~
+cancello~
+1 0 20209 3
+D3
+~
+alga alghe~
+1 0 20207 19
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20209
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come
+si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e
+triste.    
+~
+200 0 0
+D0
+~
+~
+0 0 20212 0
+D1
+~
+~
+0 0 20210 0
+D3
+~
+cancello~
+1 0 20208 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20210
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+200 0 0
+D0
+~
+~
+0 0 20211 0
+D2
+~
+~
+0 0 20215 0
+D3
+~
+~
+0 0 20209 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20211
+Una capanna subacquea~
+Che sorpresa!
+Ti trovi all'interno di una capanna... subacquea! Eppure non e' molto diversa dalle controparti terrestri, Infatti vedi un tavolo, delle sedie, degli utensili... perfino un quadro!
+L'unica differenza e' costituita dal fatto che tutte queste cose appartengono a degli Uomini-Pesce!
+~
+200 0 0
+D2
+~
+~
+0 0 20210 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20212
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+200 0 0
+D0
+~
+~
+0 0 20220 0
+D2
+~
+~
+0 0 20209 0
+D3
+~
+~
+0 0 20213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20213
+Il giardino~
+Entri in un bellissimo giardino, composto da licheni, alghe, muffe marine e altre meraviglie multicolori. E' realmente uno spettacolo per gli occhi.
+A nord si trova una grossa costruzione.
+~
+200 4 8
+D0
+Una porta in ferro massiccio
+~
+porta~
+2 20202 20214 15
+D1
+~
+~
+0 0 20212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20214
+La Villa di Globoth~
+Questa casa e' diversa dalle altre, e' molto piu' ricca e, si potrebbe dire, adornata con gusto, deve appartenere ad una personalita' importante tra gli Sahuagin.
+~
+200 0 8
+D2
+~
+porta~
+1 0 20213 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20215
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+200 0 0
+D0
+~
+~
+0 0 20210 0
+D1
+~
+~
+0 0 20217 0
+D2
+Una grossa cancellata in ferro battuto chiude l'ingresso
+~
+cancello~
+2 20203 20218 15
+D3
+~
+~
+0 0 20216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20216
+Un posto di guardia~
+Questa piccola capanna viene utilizzata dalle guardie addette al tempio in riposo, Quando una guardia finisce il turno viene a riposarsi qui.
+~
+200 4 0
+D1
+~
+~
+0 0 20215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20217
+Una capanna subacquea~
+Che sorpresa!
+Ti trovi all'interno di una capanna... subacquea! Eppure non e' molto diversa dalle controparti terrestri, Infatti vedi un tavolo, delle sedie, degli utensili... perfino un quadro!
+L'unica differenza e' costituita dal fatto che tutte queste cose appartengono a degli Uomini-Pesce!
+~
+200 0 0
+D3
+~
+~
+0 0 20215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20218
+L'ingresso del tempio~
+Ti rendi subito conto che questo dev'essere l'ingresso di un tempio, dedicato probabilmente ad una delle oscure divinita' che regolano la vita degli Sahuagin.
+~
+200 12 8
+D0
+~
+cancello~
+1 0 20215 7
+D5
+una botola nascosta dietro l'altare... chissa' dove porta?
+~
+botola~
+2 20205 20219 27
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20219
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 1 0
+D0
+~
+~
+0 0 20219 0
+D1
+~
+~
+0 0 20227 0
+D2
+~
+~
+0 0 20226 0
+D3
+~
+~
+0 0 20219 0
+D4
+~
+botola~
+1 0 20218 19
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20220
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+200 0 0
+D0
+~
+~
+0 0 20221 0
+D1
+~
+~
+0 0 20222 0
+D2
+~
+~
+0 0 20212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20221
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+200 0 0
+D0
+~
+~
+0 0 20225 0
+D1
+~
+~
+0 0 20223 0
+D2
+~
+~
+0 0 20220 0
+D3
+~
+~
+0 0 20224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20222
+Un negozio~
+Oh, anche tra gli Sahuagin esiste qualche negozio!
+Questo vende poche cose: stoffe, vestiti, borse, qualche razione di cibo, oggetti comunissimi in daresia, ma rari nelle profondita' marine.
+~
+200 16 0
+D3
+~
+~
+0 0 20220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20223
+Una capanna subacquea~
+Che sorpresa!
+Ti trovi all'interno di una capanna... subacquea! Eppure non e' molto diversa dalle controparti terrestri, Infatti vedi un tavolo, delle sedie, degli utensili... perfino un quadro!
+L'unica differenza e' costituita dal fatto che tutte queste cose appartengono a degli Uomini-Pesce!
+~
+200 0 0
+D3
+Nothing.
+~
+~
+0 0 20221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20224
+Un negozio~
+Oh, anche tra gli Sahuagin esiste qualche negozio!
+Sembra esser un negozio specializzato in conchiglie... Non ne avevi mai visto cosi' tanti tipi raccolti assieme!
+Certo che alcune di queste conchiglie sembrano proprio strane...
+~
+200 0 8
+D1
+~
+~
+0 0 20221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20225
+Il dormitorio delle guardie~
+Questo grosso baraccone e' utilizzato come dormitorio comune per le guardie Sahuagin.
+E' un luogo spoglio, sporco e fetiscente, di certo le guardie non vengono considerate la classe dominante tra gli Sahuagin, ma vivono certamente meglio degli altri Sahuagin
+~
+200 8 8
+D2
+~
+~
+0 0 20221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20226
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 1 0
+D0
+~
+~
+0 0 20219 0
+D1
+~
+~
+0 0 20227 0
+D2
+~
+~
+0 0 20219 0
+D3
+Nothing.
+~
+~
+0 0 20218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20227
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 1 0
+D0
+~
+~
+0 0 20219 0
+D1
+~
+~
+0 0 20229 0
+D2
+~
+~
+0 0 20228 0
+D3
+~
+~
+0 0 20226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20228
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 1 0
+D0
+~
+~
+0 0 20227 0
+D1
+~
+~
+0 0 20219 0
+D2
+~
+~
+0 0 20226 0
+D3
+~
+~
+0 0 20219 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20229
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 1 0
+D0
+~
+~
+0 0 20230 0
+D1
+~
+~
+0 0 20219 0
+D2
+~
+~
+0 0 20226 0
+D3
+~
+~
+0 0 20227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20230
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 1 0
+D0
+~
+~
+0 0 20231 0
+D1
+~
+~
+0 0 20228 0
+D2
+~
+~
+0 0 20229 0
+D3
+~
+~
+0 0 20227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20231
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+200 257 0
+D0
+~
+~
+0 0 20228 0
+D1
+~
+~
+0 0 20232 0
+D2
+~
+~
+0 0 20230 0
+D3
+~
+~
+0 0 20219 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20232
+Un piccolo ingresso~
+Finalmente!
+Delle candele illuminano questo piccolo ingresso, e ringrazi il cielo d'esser uscito da quell'inferno.
+Noti due porte, una ad est ed una a sud... non sembrano particolarmente invitanti.
+~
+200 4 0
+D1
+~
+~
+0 0 20234 0
+D2
+~
+~
+2 0 20233 9
+D3
+~
+~
+0 0 20231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20233
+La fonte miracolosa!~
+Che sorpresa!
+l'interno della stanza e' riccamente decorato, con bassorilievi in marmo ed oro, e la stanza sembra quasi esser fuori dal tempo.
+Rimani sorpreso dalla ricchezza di particolari che la fontana situata al centro della stanza possiede... che sia...?
+no, non puo essere!
+Hai Trovato la fonte della giovinezza?!?
+~
+200 144 0
+D0
+~
+~
+2 0 20232 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20234
+Il tempio degli Sahuagin~
+L'interno di questa stanza farebbe rivoltare lo stomaco anche agli stomaci piu' tenaci.
+Vi sono molti corpi sgozzati, sventrati e seviziati per terra, alcuni in evidente stato di decomposizione. E' risaputo che gli Sahuagin usano le membra dei nemici per costruire oscuri feticci magici.
+~
+200 0 0
+D3
+~
+~
+0 0 20232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20240
+La piccola grotta~
+Entri in una grotta piu' piccola, dalle pareti stranamente lisce.
+Qui lo sgradevole odore proveniente dal sottosuolo e' ancora piu' forte: ti
+sembra di vedere nella penombra vapori velenosi che ti abbracciano come dita
+evanescenti. Il rumore dei tuoi passi rimbomba piu' volte sulle pareti, e ti fa
+sobbalzare, come se un esercito si muovesse assieme a te. Ma quando ti fermi,
+senti solo un lieve gocciolare d'acqua lontano.
+~
+200 1 0
+D2
+~
+~
+0 0 20241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20241
+La scala a chiocciola~
+Ti apri un passaggio nella penombra e arrivi sul ciglio di una scalinata. O
+almeno, quella che sembra una scalinata: perche' a un piu' attento esame vedi
+che l'architettura ardita del passaggio in realta' e' del tutto naturale.
+Cio' che fa da scalinata e' infatti la carcassa calcificata di un enorme
+mollusco con la sua conchiglia, e il termine "scala a chiocciola" e' quanto mai
+giustificato.
+~
+200 1 0
+D0
+~
+~
+0 0 20240 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20242
+Acqua stagnante~
+C'e' una pozza d'acqua stagnante poco oltre, in cui entri senza indugio. E
+appena lo fai ti accorgi che non si tratta proprio di quieta acqua calcarea, ma
+di un qualche acido corrosivo che ti consuma in breve tempo le gambe fino al
+calcagno. Non riesci a vedere oltre, perche' stordito dai vapori che il tuo
+corpo sfrigolando emette, perdi conoscenza, e forse e' meglio cosi', dato che la
+visione della tua orrenda morte ti viene risparmiata insieme a molte sofferenze.
+~
+200 3 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20243
+Nella scala a chiocciola~
+Entri nella bocca dell'enorme gigantesca conchiglia, e inizi a mettere i piedi
+su comodi gradini che in realta' non sono che lamelle o escrescenze calcificate
+dello strano essere sepolto qui. Ti viene da chiederti se esista qualcosa del
+genere sul fondo, ma vivo... Continui a scendere, anche se non vedi luci in
+fondo: forse pero' la luce qui e' proprio sconosciuta.
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20244
+Il fondo della scala a chiocciola~
+Passi a fatica per l'enorme conchiglia che scende nelle viscere della terra.
+Diventa sempre piu' caldo e il passaggio e' decisamente stretto in fondo. A
+giudicare dalla pressione che senti nelle orecchie diresti che sei sceso per
+parecchio, anche se ti sembra di essere solo qualche decina di metri sotto il
+suolo.. Gia', ma dov'e' il suolo in questo posto di inferno?
+~
+200 257 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20245
+La caverna delle stalattiti~
+Sei sbucato in un'altra ampia cavita' naturale piena di stalattiti. Al tuo 
+passaggio, ciechi esseri striscianti fuggono spaventati per rifugiarsi 
+nell'oscurita'. Vedi sulla parete in fondo alla grotta una miriade di passaggi 
+e cunicoli. Pare che l'unica possibilita' sia di avventurarsi in questo dedalo 
+di percorsi nel cuore della terra.
+~
+200 5 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20246
+La stalattite~
+Hai fatto pochi passi quando senti vibrare il terreno. Alzi lo sguardo e vedi
+una stalattite cadere dall'alto centrandoti in pieno. Prima che il tuo cervello 
+venga spappolato ti pare di udire una risata...
+~
+200 3 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20250
+Davanti al terrapieno dei cunicoli~
+Avanzi a fatica, timoroso che possa accaderti qualcosa, ma non succede niente.
+Sei ancora nella caverna con le stalattiti, davanti a una specie di terrapieno
+crivellato di cunicoli, di varie forme e dimensioni. Davanti a te ce n'e' uno,
+l'unico, in cui riusciresti a passare, sia pure con difficolta'. Ma gia' da
+qui ti sembra che il passaggio piu' avanti si divida in un intricato diramarsi
+di cunicoli, un tetro e soffocante labirinto che potrebbe essere la tua tomba.
+~
+200 69 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20251
+Un cunicolo stretto e buio~
+Penetri nel buio passaggio, e il soffocante odore di terra e gas del sottosuolo
+ti fa tossire. Una ventata d'aria fredda ti fa capire che verso nord c'e' una
+caverna piu' ampia, altrimenti puoi continuare a cercare la tua strada
+attraverso innumerevoli tortuosi cunicoli.
+~
+200 562949953421381 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20252
+Un cunicolo stretto e buio~
+Ti fai largo anche scavando con le mani, e qualche sporgenza rocciosa ti 
+costringe ad avanzare a capo chino, mentre l'aria continua a essere 
+irrespirabile. Tutto intorno innumerevoli biforcazioni attraversano il cuore del
+labirinto, disperdendo perfino l'eco di ogni suono. Tutto cio' ti lascia
+atterrito con un claustrofobico senso di nausea. 
+~
+200 562949953421409 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20254
+Un cunicolo stretto e buio~
+Ti fai largo anche scavando con le mani, e qualche sporgenza rocciosa ti 
+costringe ad avanzare a capo chino, mentre l'aria continua a essere 
+irrespirabile. Tutto intorno innumerevoli biforcazioni attraversano il cuore del
+labirinto, disperdendo perfino l'eco di ogni suono. Tutto cio' ti lascia
+atterrito con un claustrofobico senso di nausea. 
+~
+200 562949953421409 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20300
+La Roccaforte di &1Kurtulmak&0~
+E' il luogo piu' tetro che tu abbia mai visto, uomini appesi giacciono lungo i
+muri della grande sala centrale, e milioni di orchi suonano e urlano in
+continuazione onorando Kurtulmak, il Conquistatore!    
+~
+200 25168384 0
+D0
+&1Strada per Lamorka!    
+~
+~
+0 0 2094753 0
+D1
+~
+~
+0 0 20001 0
+D2
+&1Per Deira.    
+~
+~
+0 0 2124857 0
+D3
+&1Per Cimmura!    
+~
+~
+0 0 2184955 0
+D5
+&1Uscita per chyrellos!    
+~
+~
+0 0 2135357 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20301
+I sotterranei del castello~
+Qualche gradino ti conduce in un antro freddo e buio.
+Senti odore di muffa, e la pesante umidita' ti fa quasi starnutire.
+Tutt'intorno e' silenzio, ma forse, ascoltando meglio, potresti
+udire qualche rumore lontano... chissa' quali creature ti
+attendono qui sotto.
+~
+200 13 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20302
+Un locale caldo e accogliente~
+Le scale che arrivano dal basso ti consentono di entrare in un locale ampio e
+ben illuminato.  Un enorme camino troneggia nella parete di fronte.  Un disegno
+molto elementare ma pieno di colori esce da un libro degli incantesimi
+appoggiato sul camino.  Il &1fuoco&0 arde rendendo caldo e accogliente
+l'ambiente.  Due &3poltrone di pelle&0 molto comode ti invitano a sederti.  In
+una nicchia seminascosta vedi un &7&8letto&0 enorme su cui sono maldestramente
+appoggiati molti cuscini.  Ai lati del letto, in terra, tra mappe della foresta
+di Atun e del Feudo del Conte Barl, l'attenzione si posa su un paio di
+bicchieri vuoti.    
+Una scala porta in alto.
+~
+200 2560 0
+D4
+~
+~
+0 0 20303 0
+D5
+~
+~
+0 0 40656 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20303
+La terrazza~
+Percorrendo gli ultimi gradini senti l'aria fresca scompigliarti i capelli.  
+Sei sulla terrazza.  I profumi delle piante ti avvolgono e i colori dei
+&1f&2i&4o&5r&6i&0 ti rallegrano.  Nelle giornate di sole &7&8l'amaca&0 ciondola
+lentamente invitandoti a dondolare con lei.  Un &3vecchio cane&0 sonnacchioso
+alza il muso appoggiato sulle zampe a terra appena arrivi...  Per poi tornare
+ad appisolarsi.  Di notte le luci del Porto di lamorka e delle barche al largo
+sembrano confondersi con le stelle intorno a te.    
+~
+200 2560 0
+D5
+~
+~
+0 0 20302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20304
+Una stanza di servizio~
+Questa e' una stanza di servizio.... non c'e' niente di interessante qui
+~
+200 0 0
+D0
+~
+porta~
+0 0 1001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20320
+Un piccolo altopiano~
+Ti trovi in un altopiano tra le pareti rocciose, in lontananza vedi una
+strada molto trafficata, ma ne senti solo qualche rumore attutito dalla
+distanza. A nord vedi una piccola baracca quasi completamente costruita in
+legno, mentre a sud vedi un edificio di rossi mattoni d'argilla.
+A ovest ritorni tra le montagne, mentre a est ti addentri in una strettoia
+tra le rocce.
+~
+200 0 5
+D0
+~
+~
+0 0 20321 0
+D1
+~
+~
+0 0 20323 0
+D2
+~
+~
+0 0 20322 0
+D3
+~
+~
+0 0 2095146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20321
+L'emporio~
+Qui i monaci dell'ordine vendono la marmellata che producono, con vari tipi di
+frutta. Sugli scaffali vedi molti vasetti di confettura, ognuno ha incollato
+un pezzo di pergamena col disegno di un albicocca, un lampone, una mora, una
+fragola.  
+~
+200 0 0
+D2
+~
+~
+0 0 20320 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20322
+Il monastero~
+Ti trovi nel piano piu' basso di un edificio a due piani, in un'enorme sala
+quadrata con un portico. Davanti a te una scalinata porta al piano
+superiore, dove immagini ci siano le celle dei monaci, che da qui puoi
+solo intravvedere tramite le finestre con inferriate che circondano il
+porticato.
+~
+200 0 0
+D0
+~
+~
+0 0 20320 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20323
+Il Tempio~
+Avanzando tra le rocce vedi una piccola radura alberata, con al centro
+un enorme castagno alto piu' di cinquanta metri. Molti piccoli animaletti
+come uccelli e scoiattoli vivono sull'albero, guardando bene vedi anche
+alcuni monaci arrampicati tra le fronde che raccolgono castagne.
+Ai piedi del castagno vedi una enorme TARGA.
+~
+200 0 5
+D3
+~
+~
+0 0 20320 0
+E
+targa~
+Sulla targa e' scritto:
+  << Quale tempio e' meglio di questo
+           per celebrare la vita?      >>
+
+Evidentemente questi monaci hanno anche un forte senso dell'umorismo...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20400
+&1Nel vortice....&0~
+Sei immerso in un mondo surrale.
+     Le dimensioni e i colori qui non contano.
+E' un tornado, un grande tornado
+    Un universo di anime che la vita ha abbandonato...
+Volano in cerchio eternamente
+
+&2O forse, piu' semplicemente...
+&1    Non e' altro che la manifestazione della MORTE
+~
+200 6293512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20401
+Un piccolo accampamento~
+La strada dissestata che stavate percorrendo nella foresta termina in
+un piccolo accampamento costruito dagli gnomi del luogo come zona di
+riposo e approvvigionamento per le carovane dirette ad ovest.
+Poche persone abitano nell'accampamento, molte sono solo di passaggio
+ed alcune si stanno gia preparando a ripartire.
+~
+200 0 10
+D0
+~
+~
+0 0 20402 0
+D2
+~
+~
+0 0 2135357 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20402
+In fondo all'accampamento~
+Dopo aver attraversato il piccolo accampamento formato principalmente
+da case in legno con basamento in pietra arrivi al confine del
+villaggio, dove accanto a una torretta di avvistamento posta tra gli
+alberi intravedi un uomo
+grassottello che viene verso di te e attira la tua attenzione.
+~
+200 0 10
+D0
+~
+~
+0 0 20404 0
+D2
+~
+~
+0 0 20401 0
+D3
+~
+~
+0 0 20403 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20403
+Dentro la carrozza~
+La carrozza interamente in legno massello,  molto accogliente e
+spaziosa.Sotto il sedile ricoperto da tanti morbidi &1cuscini&0 c'e'
+un compartimento segreto utilizzabile dai clienti. Fuori dalla
+finestra presente nella porta della carrozza e' visibile il selvaggio
+sottobosco pieno di insidie ed ombre.
+~
+200 0 10
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 201
+#20404
+Nella carcassa della carrozza~
+Ti sei appena ripreso dall'incidente accaduto la sera prima,la
+tempesta  terminata e appena apri gli occhi ti ricordi tutto quello
+che e' successo. La carrozza nella quale ti trovi e' ormai distrutta e
+sdraiata su un fianco. L'acqua e il fango sono entrati dentro
+l'abitacolo, dalla fiancata sinistra in alto e quella sinistra
+appoggiata sulla strada.
+L'unica via d'uscita da quella carcassa si trova proprio sulla tua
+testa, quella che una volta era la porta di desta.
+~
+200 0 10
+D4
+~
+~
+0 0 20405 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20405
+Fuori dalla carrozza~
+Sei nel centro di una fitta foresta,la strada che stavate percorrendo
+sembra inoltrarsi in una buia vegetazione, senti rumori provenire da
+lontano, ma vengono coperti dal continuo suono dell'acqua che scorre
+in un vicino ruscello.
+Di quella che una volta era una delle pi resistenti e lussuose
+carrozze trainata da cavalli rimane adesso solo un relitto accassato
+per terra,scheggie di legno ed altri frammenti, nell'impatto si sono
+sparsi a diversi metri di distanza.Aggirando la carrozza riesci a
+notare che un cavallo  rimasto sotto una ruota del carro morendo,
+l'altro cavallo in fin di vita e' invece disteso accanto al cadavere
+di Grysnir Bern.
+Probabilmente seguendo il ruscello treveresti qualcuno che ti aiuti.
+~
+200 0 10
+D0
+~
+~
+0 0 20406 0
+D5
+~
+~
+0 0 20404 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20406
+Seguendo un &6ruscello&0.~
+Questo piccolo ruscello e' formato stranamente da acqua molto calda
+che sembra provenire da una imponente montagna poco distante. Mentre
+lo percorri le voci che senti sembrano farsi piu'vicine.
+~
+200 4 10
+D0
+~
+~
+0 0 20407 0
+D2
+~
+~
+0 0 20405 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20407
+Nei pressi di Nulb~
+Continuando a seguire il ruscello intravedi ad ovest di questo una
+piccola cinta muraria di legno con quattro guardie a sorvegliare
+l'ingresso.
+~
+200 0 0
+D2
+~
+~
+0 0 20406 0
+D3
+~
+~
+0 0 20408 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20408
+L'ingresso di Nulb~
+Un piccolo paese di montangna sorge ai piedi di un grande Vulcano,
+l'ingresso di questo piccolo agglomerato di abitazioni e' protetto da
+4 guardie di ronda che impediscono ai mostri della foresta di entrare.
+Il resto del paese  circondato e delimitato da una cinta muraria in
+legno molto resistente ed alta circa 4,5 metri.
+Sulla cinta muraria puoi notare una corridoio dove possono sostare le
+guardie; ai quattro angoli della cinta muraria sono presenti delle
+modeste torrette di avvistamento.
+~
+200 4 10
+D0
+~
+~
+0 0 20409 0
+D1
+~
+~
+0 0 20407 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20409
+Dentro Nulb~
+Davanti ai tuoi occhi si presenta un piccolo villaggio composto da non
+piu' di 20 edifici...
+Apparentemente sembrerebbe un posto tranquillo e sicuro.Davanti a te
+puoi notare la via del Monte,la via principale del piccolo paese, che
+porta nella piazza centrale,ad est ed ovest invece, si trovano due
+piccole vie strette, ma molto trafficate che seguono le mura di cinta.
+~
+200 0 0
+D0
+~
+~
+0 0 20410 0
+D1
+Nothing.
+~
+~
+0 0 20412 0
+D2
+~
+~
+0 0 20408 0
+D3
+Nothing.
+~
+~
+0 0 20411 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20410
+La Piazza Centrale~
+La Piazza Centrale di Nulb,formata da l'incrocio di 4 piccole vie e'
+il centro del villaggio.
+Quattro edifici poco piu' grandi degli altri si affacciano su questa
+piazza ed uno di questi deve essere stato incendiato non molto tempo
+fa... 
+Fra tutte le persone silenziose che si recano normalmente nella piazza
+noti anche delle persone visibilmente terrorizzate... avvicinandoti
+alla fontana riesci a vedere che in essa un vecchia donna sta cercando
+di pulire dei panni sporchi di sangue.
+Qualcosa di terribile deve esser accaduto in questo luogo.
+~
+200 0 0
+D0
+~
+~
+0 0 20416 0
+D1
+~
+~
+0 0 20414 0
+D2
+~
+~
+0 0 20409 0
+D3
+~
+~
+0 0 20413 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20411
+La torre Sud-Ovest~
+La strada che percorreva la palizzata si ferma davanti ad una piccola
+torre di legno costruita molto tempo fa.
+Due guardie sulla torre stanno a vigilare che tutto sia tranquillo
+nella foresta.
+La strada che segue la palizzata ovest si trova alla sulla tua destra.
+~
+200 0 0
+D0
+~
+~
+0 0 20413 0
+D1
+~
+~
+0 0 20409 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20412
+La Torre Sud-Est~
+La strada che percorreva la palizzata si ferma davanti ad una piccola
+torre di legno costruita molto tempo fa.
+Due guardie sulla torre guardano lontano verso il monte preoccupate.
+La strada che segue la palizzata est si trova alla sulla tua sinistra.
+~
+200 0 0
+D0
+~
+~
+0 0 20414 0
+D3
+~
+~
+0 0 20409 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20413
+Palizzata Ovest~
+La cinta muraria d'ovest percorre lateralmente tutta Nulb. Lungo la
+strada una pergamena affissa alla palizzata tiene scritte le seguenti
+parole: &1A tutti i cittadini di Nulb si consiglia di non uscire per
+nessun motivo dalle proprie abitazioni dopo il calare del sole&0.
+~
+200 0 0
+D0
+~
+~
+0 0 20415 0
+D1
+~
+~
+0 0 20410 0
+D2
+~
+~
+0 0 20411 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20414
+Palizzata Est.~
+La cinta muraria d'ovest percorre lateralmente tutta Nulb. Lungo la
+strada una pergamena affissa alla palizzata tiene scritte le seguenti
+parole :&1A tutti i cittadini di Nulb si consiglia di non uscire per
+nessun motivo dalle proprie abitazioni dopo il calare del sole&0.
+~
+200 0 0
+D0
+~
+~
+0 0 20417 0
+D2
+~
+~
+0 0 20412 0
+D3
+~
+~
+0 0 20410 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20415
+La torre Nord-Ovest~
+La strada che percorreva la palizzata si ferma davanti ad una piccola
+torre di legno costruita poco tempo fa.
+Due guardie sulla torre guardano nella strada che porta alle antiche
+miniere dei Nani.
+La strada sulla tua destra porta all'uscita di Nulb,mentre dalla tua
+sinistra senti dei Lamenti provenire da una casa.
+~
+200 0 0
+D1
+~
+~
+0 0 20416 0
+D2
+~
+~
+0 0 20413 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20416
+Verso il Monte~
+Questo incrocio di strade e' il confine settentrionale della zona
+abitata di Nulb, a nord si trova l'uscita Nord che porta verso le
+antiche miniere dei Nani, mentre a sud si trova il centro del paese.
+Molte guardie sono appostate in questo luogo, nel caso che le forze
+nemiche riescano a superare il primo fronte di guardie alla porta nord.
+~
+200 0 0
+D0
+~
+~
+0 0 20418 0
+D1
+Nothing.
+~
+~
+1 0 20417 1
+D2
+~
+~
+0 0 20410 0
+D3
+~
+~
+0 0 20415 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20417
+La torre Nord-Est~
+La strada che percorreva la palizzata si ferma davanti ad una piccola
+torre di legno costruita poco tempo fa.
+Due guardie sulla torre guardano nella strada che porta alle antiche
+miniere dei Nani.
+La strada sulla tua sinistra porta all'uscita di Nulb dove le guardie
+si riuniscono per fronteggiare i nemici.
+~
+200 0 0
+D2
+~
+~
+0 0 20414 0
+D3
+~
+~
+0 0 20416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20418
+Uscita Settentrionale~
+Ti trovi nell'uscita settentrionale di Nulb, questo piccolo villaggio
+e' l'ultimo gradino ospitale prima di cadere nel baratro dei tanti
+sentieri oscuri che si intrecciano nel profondo vulcano.
+Gli antichi Nani scavarono profondamente,e le loro gallerie sono
+abitate da orribili creature da ormai troppo tempo.
+Molte guardie sono appostate in prima linea su questo fronte.
+Affisso sui pesanti portoni difensivi una &3pergamena&0 invita i
+cittadini a non recarsi mai fuori da questa porta.
+~
+200 0 0
+D0
+~
+~
+0 0 20420 0
+D2
+~
+~
+0 0 20416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20419
+undefined~
+Sei entrato in un vicolo cieco... Non ti sarai perso?
+E' impossibile perdersi in questo giardino!
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20420
+Verso le Antiche Miniere~
+Stai percorrendo una piccola strada sterrata sulla quale non e'
+visibilmente passato nessuno da molti anni ,la foresta si sta
+lentamente richiudendo facendo scomparire questo passaggio.
+Probabilmente prima di riuscire a trovare l'entrata delle Antiche
+Miniere dovrai combattere contro le forze oscure che popolano questi
+boschi gia' da molto tempo.
+~
+200 0 0
+D0
+~
+~
+0 0 20421 0
+D2
+~
+~
+0 0 20418 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20421
+Verso le Antiche Miniere~
+Stai percorrendo una piccola strada sterrata sulla quale non e'
+visibilmente passato nessuno da molti anni ,la foresta si sta
+lentamente richiudendo facendo scomparire questo passaggio. La luce del
+sole non passa attraverso la vegetazione sopra la tua testa, le ombre
+ti stanno avvolgendo.
+~
+200 0 0
+D0
+~
+~
+0 0 20422 0
+D2
+~
+~
+0 0 20420 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20422
+Verso le Antiche Miniere~
+Stai percorrendo una piccola strada sterrata sulla quale non e'
+visibilmente passato nessuno da molti anni ,la foresta si sta
+lentamente richiudendo facendo scomparire questo passaggio. La luce
+del sole non passa attraverso la vegetazione sopra la tua testa, le
+ombre ti stanno avvolgendo.
+~
+200 0 0
+D0
+~
+~
+0 0 20423 0
+D2
+~
+~
+0 0 20421 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20423
+Passaggio nei Rovi~
+La strada si stringe e presto ti trovi a dover passare attraverso &1un
+cono di rovi&0 che minacciosi si protendono verso di te cercando di
+smembrarti. Ti avvolgono,ti stringono,ti manca il respiro ogni passo
+dentro dentro questo tunnel di rovi ti fa' sentire piu' vicino alla
+morte.
+~
+200 0 0
+D0
+~
+~
+0 0 20424 0
+D2
+~
+~
+0 0 20422 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1670
+#20424
+Passaggio nei Rovi~
+Il tunnel di &1rovi&0 continua ,stai passando attraverso un cono di
+rovi che minacciosi si protendono verso di te cercando di smembrarti.
+Ti avvolgono,ti stringono, ti manca il respiro ogni passo dentro
+dentro questo tunnel di rovi ti fa' sentire piu' vicino alla morte.
+~
+200 0 0
+D2
+~
+~
+0 0 20423 0
+D4
+~
+~
+0 0 20425 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1670
+#20425
+Fuori dal &2Tunnel&0~
+Finalmente riesci a liberarti dal tunnel di rovi che stavi percorrando,
+l'entrata delle miniere non e' ancora visibile.
+Della strada che stavi percorrendo adesso rimane solo un sentiero. Un
+forte rumore d'acqua che si infrange attira la tua attenzione. 
+~
+200 0 0
+D0
+~
+~
+0 0 20426 0
+D3
+~
+~
+0 0 20428 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20426
+La grande Cascata.~
+Un'alta &7Cascata&0 viene formata da un torrente che scende dal monte e
+si infrange davanti ai tuoi occhi.
+Stranamente sulla riva invece di vedere animali a dissetarsi trovi
+tanti scheletri sulla riva, come se qualcuno li avesse presi alla
+sprovvista mentre si avvicinavo.
+~
+200 0 0
+D2
+~
+~
+0 0 20425 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1671
+#20427
+Una scalinata di marmo~
+Sei uscito dal giardino, finalmente!  Questa splendida scalinata in marmo ed
+avorio ti condurra' alla roccaforte, buona fortuna!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20428
+undefined~
+Sei uscito dal giardino, finalmente!  Questa splendida scalinata in marmo ed
+avorio ti condurra' alla roccaforte, buona fortuna!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20429
+Nella Scalinata~
+Continuando a Salire riesci ad ammirare la bellezza del giardino da cui sei
+appena uscito, e cominci ad apprezzare la magnificenza della roccaforte che ti
+si para davanti!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20430
+Nella Scalinata Pericolante~
+Lo spettacolo che offre il panorama da questa scalinata e' fantastico!  
+Peccato che, per esserti fermato ad osservare il panorama, non hai visto dove
+mettevi i piedi...  Il capitombolo successivo, ed il risultato che ne e'
+conseguito rappresentano un indegna fine per la tua avventura...  La prossima
+volta fa &1Piu' Attenzione&0!!!    
+~
+200 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20431
+La fine della Scalinata~
+Sei giunto alla fine della scalinata, E finalmente puoi osservare la roccaforte
+in tutta la sua bellezza.  Chissa cosa si celera' dentro?    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20432
+La fine della Scalinata~
+Sei giunto alla fine della scalinata, E finalmente puoi osservare la roccaforte
+in tutta la sua bellezza.  Chissa cosa si celera' dentro?    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20433
+La Cancellata della Roccaforte~
+Eccoti infine davanti all'immensa roccaforte.  Il Grosso cancello e' sbarrato
+ed un paio di uomini sono di guardia, sembrano particolarmente vigili.    
+~
+200 4 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20434
+L'ingresso al cortile interno~
+Un piccolo cortile interno e' la prima cosa che ti si presenta davanti gli
+occhi qua dentro.  Comunque ora riesci a capire molto dell'architettura della
+roccaforte.  Sembra esser divisa in tre blocchi principali, connessi dal
+cortile.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20435
+Il portico Sudorientale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20436
+Il portico Orientale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20437
+Il portico Nordorientale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20438
+Il portico Sudoccidentale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20439
+Il portico Occidentale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20440
+Il portico Nordoccidentale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20441
+Il portico Settentrionale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20442
+L'ingresso al bastione Centrale~
+Eccoti di fronte al Bastione Centrale della Roccaforte.  E' molto piu' grande
+dei bastioni laterali, ed e' evidentemente tenuta meglio.  Il Conte Barl
+dev'essere molto ricco.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20443
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20444
+La Stanzetta della &5Ninfa&0~
+Questa Stanzetta funge da raccordo tra le arie sezioni del corridoio, Al centro
+si trova una bellissima Fontana raffigurante una Ninfa che ammalia un uomo.  
+Un vero capolavoro.    
+~
+200 4 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20445
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.  Il muro sembra essere dipinto d'un
+colore leggermente piu' chiaro, qui.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20446
+Un Passaggio Segreto!~
+Hey!  Cos'e' questo corridoio dietro il finto muro?  Non puo' essere...  Forse
+hai trovato l'ingresso alle stanze private del conte Barl!    
+~
+200 4 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20447
+La &2Grande Biblioteca &6di &1Barl&6~
+Che spettacolo!  Non hai mai visto una raccolta di volumi tanto imponente!  Vi
+sono Testi appartenenti ad i piu' grandi scrittori di tutti i tempi...  
+Racconti del Reggente di Aldaria Khardan, di Galadriel degli spiriti, i vecchi
+racconti di Roland di Gilead...  E sono tutti in edizione originale!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20448
+Nel &1Cuore &6della &2Biblioteca&6~
+E' di certo una collezione imponente!  In quest'area sono raccolte tutti i
+testi sacri cari alle divinita' della Daresia...  Vi si trovano quelli di tutte
+le divinita' conosciute ed anche di qualcuna sconosciuta...    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20449
+La Stanza privata del Conte Barl~
+Benvenuto nel regno del Conte Barl!  Quest' ufficio e' pieno di carte dal
+valore assurdo!  Pergamene magiche di inaudita potenza, rituali oscuri non
+formulati da secoli, vecchie formule alchemiche...  Sei giunto nel luogo dove
+sono raccolte tutte le conoscenze occulte della razza umana!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20450
+La &2Grande Biblioteca &6di &1Barl&6~
+Libri ovunque!  In questa sezione sono racolti testi scientifici sulla flora e
+sulla fauna della Daresia, molte delle conoscenze scientifiche di questa terra
+sono convogliate qui'!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20451
+La &2Grande Biblioteca &6di &1Barl&6~
+In quest'ala della Biblioteca e' contenuta molta della saggezza popolare del
+popolo della Daresia.  Vi si trovano infatti Ballate, indovinelli, storie e
+leggende su furbi contadini e sciocchi gaglioffi, poesie etniche e molto molto
+altro.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20452
+La saletta della &7Musica&6~
+In questa piccola sala, dalla forma ovale, trovi molti strumenti tipici della
+Daresia.  Arpe, Liuti, tamburini sono tutti raccolti qui, in stato perfetto.  
+Alcuni di questi sono Evidentemente antichi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20453
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20454
+La saletta delle &4Arti&6~
+In questa saletta sono riposti dipinti, statuette, arazzi e quant'altro la
+mente umana possa aver prodotto nella Daresia.  Molti di questi oggetti
+sembrano essere pregiatissimi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20455
+Un sentiero poco frequentato~
+Sterpaglia ed erbacce fanno ben intuire che il sentiero non e' usato
+frequentemente.  A quanto pare si dirige verso un laghetto in zona.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20456
+Un sentiero poco frequentato~
+Sterpaglia ed erbacce fanno ben intuire che il sentiero non e' usato
+frequentemente.  A quanto pare si dirige verso un laghetto in zona.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20457
+Un sentiero poco frequentato~
+Sterpaglia ed erbacce fanno ben intuire che il sentiero non e' usato
+frequentemente.  A quanto pare si dirige verso un laghetto in zona.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20458
+La camera degli Ospiti~
+Sei appena entrato in una piccola reggia!  Un grande letto a baldacchino domina
+la scena, mentre un'ampia finestra permette d'osservare nella sua bellezza il
+territorio Daresiano.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20459
+Il Bagno degli ospiti~
+Un lussuoso Bagno, con rifiniture in marmo ed in porcellana.  Dev'essere
+proprio piacevole esser ospiti del conte!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20460
+La camera degli Ospiti~
+Sei appena entrato in una piccola reggia!  Un grande letto a baldacchino domina
+la scena, mentre un'ampia finestra permette d'osservare nella sua bellezza il
+territorio Daresiano.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20461
+La Sala di &2Smeraldo&6~
+La seconda parte del grande salone e' invece piena di smeraldi!  Di certo il
+conte Barl ama dimostrare in maniera sfacciata la sua ricchezza!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20462
+La sala di &1Rubino&6&0~
+Questa sala e' completamente tapezzata di Rubini!  A quanto pare dev'essere una
+sala che il conte Barl usa per il ricevimento dei suoi ospiti.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20463
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20464
+L'ingresso al bastione Orientale~
+Ti trovi davanti il bastione orientale della Roccaforte, che, come quello
+occidentale, e' notevolmente piu' piccolo del Bastione centrale.  In questa
+zona sembrano trovarsi le cucine e le stanze dei Servi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20465
+Un angusto corridoio~
+Questo corridoio e' molto sporco, ed e' evidente che questa zona non e' teenuta
+in ordine.  A quanto pare al padrone di questo Maniero non interessano le
+condizioni dei propri servi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20466
+Un angusto corridoio~
+Questo corridoio e' molto sporco, ed e' evidente che questa zona non e' teenuta
+in ordine.  A quanto pare al padrone di questo Maniero non interessano le
+condizioni dei propri servi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20467
+La cucina~
+In questa cucina vengono sfornate le delizie che il Conte Barl offre ad i suoi
+invitati nei giorni di gala.  La cucina e' piuttosto pulita, anche grazie al
+lavoro dello Chef, che obbliga chiunque alla massima igiene.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20468
+Il Magazzino dei cibi e delle bevande~
+Questo magazzino e' forse l'unica cosa sontuosa in questa parte del maniero!  
+Infatti vi trovi cibi e spezie rarissime, vini provenienti dalle migliori vigne
+di Chyrellos ed un sacco di Leccornie adatte anche ai palati piu' delicati!  
+
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20469
+Un angusto corridoio~
+Questo corridoio e' molto sporco, ed e' evidente che questa zona non e' teenuta
+in ordine.  A quanto pare al padrone di questo Maniero non interessano le
+condizioni dei propri servi.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20470
+La stanza dei servitori~
+Un grosso stanzone e' stato addobbato per essere sfruttato come dormitorio per
+i pochi servi e manovali del Maniero.  Vi sono infatti posti letto per dieci
+persone, ed un paio di armadi comuni.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20471
+Ingresso al Bastione Occidentale~
+Il bastione Occidentale dev'essere usato dalle guardie del Conte come caserma,
+infatti noti molti uomini in uniforme che parlottano, ed un gran trambusto
+all'interno.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20472
+Un semplice corridoio~
+Il corridoio non e' ornato con magnificienza, ma conserva un gusto
+particolarmente militaresco, probabilmente le guardie dei dragoni
+apprezzerebbero lo stile...    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20473
+La camera di Verax~
+La camera del Capitano Verax, il capitano delle guardie del conte, e'
+nettamente piu' ricca del resto del bastione Occidentale.  Vi si trovano
+infatti molti gingilli ed orpelli, probabilmente guadagnati dal capitano in
+qualche razzia.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20474
+Un semplice corridoio~
+Il corridoio non e' ornato con magnificienza, ma conserva un gusto
+particolarmente militaresco, probabilmente le guardie dei dragoni
+apprezzerebbero lo stile...    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20475
+Un semplice corridoio~
+Il corridoio non e' ornato con magnificienza, ma conserva un gusto
+particolarmente militaresco, probabilmente le guardie dei dragoni
+apprezzerebbero lo stile...    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20476
+La mensa~
+Ti trovi nella mensa dei soldati, Un buon odore di pane allo zenzero e
+&G&1Zuppa di Drago&0 riempie l'aria.  I Soldati si trattano proprio bene!    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20477
+Il Dormitorio~
+Le guardie del conte, come nella migliore tradizione militare, dormono tutte
+nella stessa camerata.  La camerata e' spaziosa ed accogliente, con un grande
+camino sempre acceso durante l'inverno.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20479
+La Sala allenamento~
+In questa stanza le guardie del Conte Barl si allenano, per questo scopo sono
+stati allestiti vari manichini ed e' possibile trovare un sacco di armi in
+legno.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20480
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20481
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20482
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20483
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20484
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20485
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20486
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20487
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20488
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+200 1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20489
+Un placido laghetto~
+La limpida acqua di questo laghetto lambisce i tuoi piedi, e la sensazione di
+pace ed armonia in questo luogo sembra diffondersi come la luce.  Forse
+potresti fare una nuotatina, l'acqua non sembra particolarmente mossa.    
+~
+200 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20500
+Dietro la lavagna~
+Ti sei comportato male? Aspetta e purga, qualcuno ti tirera' fuori... e impara a controllarti!
+~
+200 144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20501
+Un piccolo anfratto~
+Una piccola crepa nel terreno sembra giungere fino alle profondita' della
+terra, nel suo lato piu' oscuro.  Un profondo e nauseante odore proviene da
+qui, che questo sia un passaggio per l'inferno?    
+~
+200 0 0
+D4
+~
+~
+0 0 2134342 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20502
+Un Piccolo laboratorio~
+Sarebbe meglio definirlo come "la piccola bottega degli orrori".  Orrende
+deformita', mostri morti prima ancora di nascere, feti in avanzato stato di
+decomposizione, alambicchi, pozioni, formule alchemiche e pagine di riti
+oscuri.  Qualsiasi cosa si trova in questo luogo.    
+Qualsiasi cosa rifugga la luce del sole.
+~
+200 0 0
+D0
+~
+~
+0 0 20503 0
+D4
+~
+Porta~
+2 0 20501 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20503
+La stanza delle Evocazioni~
+Il laboratorio delle evocazioni, a differenza delle stanze precedenti, e'
+praticamente immacolato, data la necessita ' di assoluta precisione nei rituali
+di evocazione.    
+~
+200 0 0
+D2
+~
+~
+0 0 20502 0
+D3
+~
+~
+0 0 20504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20504
+Lo studiolo di Beldin~
+Anche questa stanza e' mantenuta in un ordine praticamente manicale, decine,
+centinaia di fogli, pergamene, libri, sono raccolti e suddivisi per categorie,
+e conservati in maniera tale da non sembra neanche usati, Questa stanza e'
+evidentemente la reggia di un maniaco dell'ordine.    
+~
+200 0 0
+D1
+~
+~
+0 0 20503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20509
+Nel cielo...~
+Il tuo corpo vola trasportato da magiche correnti...
+
+E ti sembra di avere un pensiero fisso...
+
+Alcuna emozione... Solo torpore... hai voglia di dormire... dormire...
+
+&7dormire...&0
+~
+200 128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20510
+Di fronte alla gigantesca torre~
+Ti trovi in una piattaforma esagonale che galleggia nel cielo infinito.  
+Intorno a te soltanto aria azzurra e silenzio...  L'immensa torre di Babele si
+solleva dal centro della piastra, immensa, non riesci a vederne la fine.  Ti
+senti piccolo e insignificante di fronte a questa immensita', e ancora ti
+chiedi come hai fatto a giungere qui e perche' ci sei venuto.  Il portone della
+torre, alto 3 metri e intarsiato d'oro e incastonato di gemme scure, sembra
+socchiuso...  Non puoi che entrare, ora.    
+~
+200 144 2
+D0
+~
+~
+0 0 20511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20511
+Dentro la grande torre~
+Ti trovi all'interno dell'immensa torre di Babele.  L'aria e' piuttosto
+rarefatta ma vagamente profumata, e tutto intorno a te ti pare di sentire un
+suono tintinnante.  Ogni tanto sei costretto a socchiudere gli occhi perche' la
+realta' ti pare distorta..  Comunque noti un'incisione sul muro.  Inutile, non
+riesci a capire nulla, tranne che probabilmente la torre e' formata da una
+successione infinita di stanze disposte una sopra l'altra...    
+~
+200 0 0
+D2
+Di fronte alla gigantesca torre
+~
+portone mistico~
+0 0 20510 0
+D4
+Nothing.
+~
+~
+0 0 20512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20512
+Il primo piano della torre~
+Sei al primo piano della grande struttura, puoi dedurlo da una piccola
+incisione numerica sul muro.  La stanza e' davvero particolare, non e'
+assolutamente quello che ti saresti aspettato di trovare in un luogo simile.  
+Sembra infatti un vecchio sgabuzzino impolverato e trascurato, pieno di casse
+vuote e vecchi strumenti inservibili gettati qua e la'.  Il soffitto sembra
+umido e dalla stanza sottostante (che hai appena lasciato) sembra uscire uno
+strano vapore azzurro.    
+~
+200 0 0
+D4
+Nothing.
+~
+~
+0 0 20513 0
+D5
+~
+~
+0 0 20511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20513
+Il secondo piano della torre~
+Questa poi...  Questa stanza e' assurdamente colorata in tutte le pareti di
+&1ROSSO FUOCO&0.  E' quadrata ed ad ognuna delle pareti e' appoggiata una larga
+poltrona lavoratissima e di ottimo gusto.  Nel centro della stanza, sul
+pavimento, e' dipinta rozzamente a vernice verde una larghissima croce a 7
+punte verde smeraldo..  Cominci a pensare seriamente di trovarti in un sogno.
+  
+~
+200 0 0
+D4
+Nothing.
+~
+~
+0 0 20514 0
+D5
+~
+~
+0 0 20512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20514
+Il terzo piano della torre~
+Sali rapidamente lungo la scaletta che si arrampica al piano superiore e..  
+Scopri che a questo punto puoi aspettarti di tutto.  Questa stanza pentagonale
+ha un soffitto bassissimo, non piu' di due metri.  Le pareti sono completamente
+rovinate e scarabocchiate dappertutto, ma quello che piu' ti colpisce e' il
+pavimento: una superficie gommosa, viscida, gelata.  Ti sembra di camminare su
+un budino congelato e non e' una bella sensazione...  L'unico oggetto che
+potrebbe vagamente assomigliare ad un mobile e' una mensola di marmo attaccata
+al muro (o forse parte del muro stesso).  L'accesso al piano superiore non e'
+costituito da una scala ma da un semplice buco, sul quale potresti facilmente
+arrampicarti.    
+~
+200 0 0
+D4
+~
+~
+0 0 20515 0
+D5
+Nothing.
+~
+~
+0 0 20513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20515
+Il quarto piano della torre~
+Non fai in tempo ad arrampicarti su questo piano che noti qualcosa di strano...
+Il buco dal quale sei salito sembra essersi allargato e sembra che addirittura
+vi sia comparsa una scala!  Ti senti leggermente nauseato di fronte a tanta
+distorsione della realta', ma ormai ci sei quasi abituato.  Dentro di te
+qualcosa ti ripete che e' solo un sogno..  La stanza in cui ti trovi comunque
+e' completamente vuota.  Le pareti sono bianche come l'avorio e una minuscola
+scaletta a pioli porta alla stanza sovrastante.    
+~
+200 0 0
+D4
+~
+~
+0 0 20516 0
+D5
+~
+~
+0 0 20598 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20516
+Il quinto piano della torre~
+Ma guarda un po'..  Un'altra stranezza.  Una stanza CIRCOLARE con mura che
+sembrano fatte in metallo..  In effetti hai l'impressione di trovarti dentro
+una grossa cisterna.  Al centro della stanza c'e' una specie di piccola
+fontanella, anch'essa di metallo, che a tratti spruzza acqua fresca.  Il buco
+sul soffitto che porta al piano superiore raggiungibile attraverso una corda
+appesa, che sembra piuttosto resistente.  Sulla parete c' una piccola finestra
+che si affaccia sul cielo infinito.    
+~
+200 0 0
+D4
+~
+~
+0 0 20517 0
+D5
+~
+~
+0 0 20515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20517
+Una stanza misteriosa~
+Toh..  Stavolta nemmeno puoi avere idea del piano in cui ti trovi.  Manca
+qualsiasi tipo di incisione o riferimento e non c'e' accesso al piano
+superiore.  Inutile dire che anche la botola dal quale sei salito e'
+misteriosamente sparita.  La stanza e' piccola ma molto bella, affrescata su
+tutti i muri con colori e rilievi bellissimi.  Ci sono due porte ai lati
+opposti, entrambe aperte ma che non lasciano vedere altro che una luce
+intensissima...    
+~
+200 0 0
+D1
+~
+&1porticina rossa&0~
+1 0 20533 1
+D3
+Nothing.
+~
+~
+0 0 20518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20518
+Il labirinto del crepuscolo~
+Questa e' bella veramente...  Sei finito in uno stranissimo labirinto composto
+da pareti metalliche e luminose.  Non fai in tempo ad accorgertene che gia' ti
+sei irrimediabilmente perso.  Qui ogni punto e' identico a qualsiasi altro..  
+Sara' dura tornare indietro.    
+~
+200 160 0
+D0
+~
+~
+0 0 20519 0
+D1
+~
+~
+0 0 20518 0
+D2
+~
+~
+0 0 20518 0
+D3
+~
+~
+0 0 20518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20519
+Il labirinto del crepuscolo~
+Questa e' bella veramente...  Sei finito in uno stranissimo labirinto composto
+da pareti metalliche e luminose.  Non fai in tempo ad accorgertene che gia' ti
+sei irrimediabilmente perso.  Qui ogni punto e' identico a qualsiasi altro..  
+Sara' dura tornare indietro.    
+~
+200 160 0
+D0
+~
+~
+0 0 20518 0
+D1
+~
+~
+0 0 20518 0
+D2
+~
+~
+0 0 20518 0
+D3
+~
+~
+0 0 20520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20520
+Il labirinto del crepuscolo~
+Il labirinto in questo punto sembra essere finito.  Infatti la strada luminosa
+che percorri e' diventata dritta e lineare, e lentamente le pareti si fanno
+piu' scure fino a diventare simili a marmo nero.  La scena alla quale assisti
+ti lascia pero' senza fiato...  Il labirinto finisce proprio nella torre dalla
+quale era partito.  Evidentemente in un'altra stanza dal momento che non ti
+sembra di ricordare un'entrata tanto maestosa.  La porta e' enorme, alta il
+doppio di te e lavorata in marmo e avorio.  Numerose gemme sono incastonate (un
+po' disordinatamente) sugli stipiti e non sembra esservi un cancello, anche se
+all'interno ti sembra piuttosto buio.    
+~
+200 160 0
+D1
+Nothing.
+~
+~
+0 0 20518 0
+D3
+Nothing.
+~
+~
+0 0 20521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20521
+Il sesto piano della torre~
+Impossibile ma vero, eccoti nella stanza che (stando all'incisione) corrisponde
+al sesto piano della torre.  Qui senti molto piu' evidente il tintinnio che
+riempiva l'aria all'entrata...  C'e' un fortissimo profumo di incenso
+dappertutto.  Per il resto la stanza sembra quasi identica a quella
+d'entrata...    
+~
+200 0 0
+D1
+~
+~
+0 0 20520 0
+D4
+~
+~
+0 0 20522 0
+D5
+~
+~
+0 0 20516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20522
+Il settimo piano della torre~
+Non appena ti arrampichi sulla piccola scaletta a chiocciola che porta al piano
+superiore cominci ad avvertire una strana sensazione.  Che si muta in orrore,
+quando ti trovi di fronte a questo inferno.  Sembra una sala di tortura
+maledetta, riempita da dozzine di strumenti orrendi e grottescamente sporca di
+sangue in ogni punto.  Senti il puzzo indistinguibile di cadaveri in
+decomposizione, e riesci a stento a mantenere lo stomaco saldo.  E questo
+strano scricchiolio...!?    
+~
+200 128 0
+D4
+~
+~
+0 0 20523 0
+D5
+~
+~
+0 0 20521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20523
+L'ottavo piano della torre~
+Questa piccola stanza e' arredata con molta cura, ed assomiglia ad un elegante
+salottino.  Comode sedie circondano un tavolino rettangolare, e poltrone e
+divani di pregiata stoffa blu sono appoggiati su un grande tappeto
+lavoratissimo e veramente raffinato.  Un tavolino di cristallo con sopra una
+pipa di mogano e dell'ottimo tabacco aromatico ti invita a rilassarti, mentre
+dalla grande finestra entra un'intensissima luce azzurra.    
+~
+200 0 0
+D4
+Nothing.
+~
+~
+0 0 20524 0
+D5
+~
+~
+0 0 20522 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20524
+Il nono piano della torre~
+Questa stanza ha un che di inquietante, davvero.  E' molto scura (buia,
+diresti) e senza finestre.  Dappertutto in terra sono sparsi giocattoli vecchi
+e rotti, bambole di ogni tipo.  Bambole orride, piu' adatte a un demonio che a
+un bambino...  I loro grandi occhi nerissimi esprimono rabbia e dolore, e le
+loro bocche si contorcono in orrende espressioni sogghignanti.  Senti qualcosa
+muoversi, forse?!  Ma certo, inutile dire di no.  Sai benissimo che niente e'
+impossibile in questa torre maledetta.    
+~
+200 0 0
+D4
+Nothing.
+~
+~
+0 0 20525 0
+D5
+Nothing.
+~
+~
+0 0 20523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20525
+L'ultimo piano della torre~
+Questa e' bella..  Come e' possibile?  Sei arrivato in cima?  Questo infinito
+ammasso di sogni aveva quindi un punto limite?  Mentre ti chiedi tutto cio' ti
+guardi intorno.  Sei in una specie di cupola, ma il tetto e' quasi
+completamente distrutto e puoi ammirare un cielo nero, stellato e infinito.  
+La piattaforma sulla quale cammini e' di ferro puro, le mura di qualche altro
+strano metallo rosso.  Nient'altro caratterizza questo luogo se non il grande
+buco della cima, che pare fatto da una potente meteora crollata sulla struttura
+millenni fa.    
+~
+200 0 0
+D1
+~
+~
+0 0 20526 0
+D5
+~
+~
+0 0 20524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20526
+Su una grandissima &7nuvola bianca&0~
+You are in an unfinished room.  Vittima ormai di questa grande allucinazione,
+salti fuori dalla finestra nella cima, nel cielo infinito.  E ora..?  Ora stai
+camminando su una comoda e morbida nuvoletta bianca, e ti senti felice e
+spensierato.  Tutto intorno a te un immenso cielo azzurrissimo, come un grande
+mare dove vorresti navigare per sempre.  Su una nuvola poco lontana ti sembra
+di scorgere...  Ma si!  E' un piccolo castello!    
+~
+200 0 0
+D0
+~
+~
+0 0 20530 0
+D1
+~
+~
+0 0 20528 0
+D5
+~
+~
+0 0 20527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20527
+&4Nel cielo infinito!&0~
+Si!  Finalmente!  Ti sei gettato con un vago sorrisino ebete in questo universo
+azzurro, e ora trascorrerai il resto dei tuoi giorni felice e spensierato,
+cadendo e cadendo nel nulla.  Sei un'altra vittima della follia della Torre di
+Babele.    
+~
+200 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20528
+Di fronte ad una piccola fortezza nel cielo.~
+Saltelli allegramente tra una nuvola e l'altra, cadendo e rimbalzando
+allegramente.  Improvvisamente pero' sbatti violentemente contro qualcosa di
+duro (fortunatamente meno della tua testa..  ).  Sei arrivato di fronte ad una
+piccolissima fortezza in marmo rosa e azzurro, puoi entrarci facilmente
+attraverso un massiccio portale di quarzo e acciaio.  Facilmente?!    
+~
+200 0 0
+D1
+~
+~
+0 0 20529 0
+D3
+~
+~
+0 0 20526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20529
+La &6fortezza dei cieli&0.~
+Entri nel piccolo edificio e ti accorgi che da dentro sembra molto piu' grande
+(almeno 150 mq) Le mura sono intarsiate e incise da mosaici con una
+raffinatezza incredibile.  Ma le rappresentazioni sono piuttosto strane e
+vaghe..  Sembrano grandi nuvole colorate sulle quali torreggiano giganteschi
+pali d'acciaio..  In cima ai pali sono disegnati cerchi d'oro sui quali
+poggiano eremiti seduti con le gambe incrociate.  La piccola fortezza non
+sembra avere piani superiori, ma una piccola botola d'ebano conduce a una sorta
+di scantinato
+~
+200 0 0
+D3
+~
+~
+0 0 20528 0
+D5
+~
+~
+0 0 20532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20530
+&7tra le nuvole...&0~
+Balzi felice tra una nuvoletta e l'altra, immerso in una sfumata aria azzurra.
+Ti senti estremamente lieto ma improvvisamente ti colpisci la fronte con il
+manico dell'arma...  Ehi!  Stai perdendo il contatto con la realta'!  E anche
+la memoria forse sta lentamente sparendo..  Ma e' tutto cosi'..  Bello!  
+Improvvisamente ti fermi.  Ti trovi alla base di un grande palo di metallo, in
+cima al quale vedi un disco dorato.  Cosa ci sara' in cima a questo bizzarro
+oggetto?!    
+~
+200 0 0
+D2
+~
+~
+0 0 20526 0
+D4
+~
+~
+0 0 20531 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20531
+Sul disco dell'eterno eremita~
+Ti sei arrampicato in fretta sul palo di ferro, curioso di vedere quale
+stranezza troverai in cima.  Appena arrivato scopri che si tratta di una
+piccola piattaforma dorata, simile ad un disco...  Non appena ci metti piede
+una misteriosa forza ti fa cadere in terra.  Ti metti seduto, incroci le gambe
+e allarghi le braccia, indipendentemente dal tuo volere.  Impossibilitato a
+smuoverti da questa posizione, non puoi che sperare che qualcuno si ricordi di
+te e ti venga a prendere..    
+~
+200 420 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20532
+Il misterioso ripostiglio...~
+Non appena ti cali nella botola qualcosa di stranissimo accade al tuo corpo.  
+I tuoi muscoli si dilatano, e la tua testa sembra svuotarsi..  Un dolore
+lancinante.  E poi ti risvegli..  E sei sudato, affannato, come quando ci si
+sveglia da un sogno orribile.  Una lacrima sgorga dal tuo visto
+involontariamente e tenti di rialzarti in piedi..  La stanza e' buia e vuota,
+ma illuminata alle quattro pareti da fantastici portali di luce.  
+Improvvisamente comincia a tornarti alla memoria qualcosa..  Chiudi gli occhi e
+sorridi, pensando a quale assurdo e pericolosissimo mondo hai abbandonato.  Ti
+avvii verso il portale non vedendo l'ora di tornare a casa..  Sempre che
+qualcuno non te lo impedisca.    
+~
+200 32 0
+D0
+~
+porticina~
+1 20532 2135357 1
+D1
+~
+porticina~
+1 20532 1481418 1
+D2
+~
+porticina~
+1 20532 2124857 1
+D3
+~
+porticina~
+1 20532 2094753 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20533
+Una stanza minuscola~
+Che buffa stanza..  Misurera' 1 metro quadrato, se non ci fosse la porta
+potresti definirla una semplice rientranza nella struttura della stanza
+precedente.  Alla quale, peraltro, assomiglia in tutto e per tutto nella
+struttura e stile..  L'unica cosa che attira la tua attenzione e' un piccolo
+quadro appeso di fronte a te.  Raffigura un anziano signore vestito
+completamente di azzurro sedere su una stella e osservare la terra..  
+Bizzarro.    
+~
+200 0 0
+D3
+~
+&1porticina rossa&0~
+1 0 20517 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20550
+&7&bLa Rest-Room.&0~
+Ti trovi in un incrocio extradimensionale, qui e' situato
+il punto di incontro di una miriade di strade, citta', mondi.
+Scegli pure la direzione che preferisci, e subiscine le 
+conseguenze, potresti finire in luoghi ignoti, pericolosi, 
+mortali. Auguri.
+~
+200 40853458387968 0
+D0
+La piazza centrale di Deira
+~
+porta~
+1 0 12500 3
+D1
+L'entrata Ovest di Lamorka
+~
+porta~
+1 0 2094753 3
+D2
+La piazza centrale di Chyrellos,
+~
+porta~
+1 0 21208 3
+D3
+Sulla strada tra Vecchia Cimmura e Nuova Cimmura.
+~
+porta~
+1 0 1481419 3
+D4
+Tra case di immortali
+~
+porta~
+1 0 20001 3
+D5
+~
+porta~
+1 0 40416 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20551
+Il Centro del Labirinto~
+Dopo molto girovagare, sei finalmente giunto nel centro
+del labirinto. La stanza non molto grande, e' rotonda col
+soffitto a cupola. Le pareti sono costeggiate da uno stretto
+bancone di legno alto circa un metro sopra il quele puoi 
+notare un'infinita' di oggetti di qualsiasi tipo, cianfrusaglie
+ma non solo. Al centro della cupola vi e' appeso un pesantissimo
+lampadario che sosterra' almeno un centinaio di candele, 
+illuminando a giorno l'intera stanza.
+~
+200 14 0
+D4
+~
+botola~
+1 0 12500 1
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20552
+L'entrata del Labirinto~
+Ti trovi in una stanza quarata. Alte pareti di pietra ti
+circondano, ed un basso soffitto , anch'esso di pietra, sembra
+quasi volerti soffocare quando incombe su di te. L'ambiente
+e' piuttosto pulito e spoglio, non vi e' alcun tipo di arredamento
+o oggetti che possano dare una minama accoglienza alla stanza.
+Non vi sono nemmeno luci, o finestre da dove i raggi del sole
+possano entrare per illuminare la stanze, eppure ci vedi chiaramente.
+~
+200 76 0
+D2
+~
+~
+0 0 20557 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20553
+L'entrata del Labirinto~
+Ti trovi in una stanza quarata. Alte pareti di pietra ti
+circondano, ed un basso soffitto , anch'esso di pietra, sembra
+quasi volerti soffocare quando incombe su di te. L'ambiente
+e' piuttosto pulito e spoglio, non vi e' alcun tipo di arredamento
+o oggetti che possano dare una minama accoglienza alla stanza.
+Non vi sono nemmeno luci, o finestre da dove i raggi del sole
+possano entrare per illuminare la stanze, eppure ci vedi chiaramente.
+~
+200 76 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20554
+L'entrata del Labirinto~
+Ti trovi in una stanza quarata. Alte pareti di pietra ti
+circondano, ed un basso soffitto , anch'esso di pietra, sembra
+quasi volerti soffocare quando incombe su di te. L'ambiente
+e' piuttosto pulito e spoglio, non vi e' alcun tipo di arredamento
+o oggetti che possano dare una minama accoglienza alla stanza.
+Non vi sono nemmeno luci, o finestre da dove i raggi del sole
+possano entrare per illuminare la stanze, eppure ci vedi chiaramente.
+~
+200 76 0
+D2
+~
+~
+0 0 20579 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20555
+L'entrata del Labirinto~
+Ti trovi in una stanza quarata. Alte pareti di pietra ti
+circondano, ed un basso soffitto , anch'esso di pietra, sembra
+quasi volerti soffocare quando incombe su di te. L'ambiente
+e' piuttosto pulito e spoglio, non vi e' alcun tipo di arredamento
+o oggetti che possano dare una minama accoglienza alla stanza.
+Non vi sono nemmeno luci, o finestre da dove i raggi del sole
+possano entrare per illuminare la stanze, eppure ci vedi chiaramente.
+~
+200 76 0
+D0
+~
+~
+0 0 20576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20556
+Il Centro del Labirinto~
+Ormai e' trascorso molto tempo da quando sei entrato in questo
+labirinto di gallerie, ma per tua fortuna sembra tu abbia trovato
+il suo centro, e quindi, probabilmente l'uscita. La stanza e' 
+veramente piccola, ma eccezionale, infatti la pareti son fatte
+da enormi blocchi d'oro scintillante, ed il pavimento e' ricoperto
+da un mucchio enorme di monete d'oro, gioielli, armi luccicanti
+e da qualsiasi cosa la tua mente possa mai immaginare. Sembra 
+veramente un sogno. 
+~
+200 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20557
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 8 0
+D1
+~
+~
+0 0 20571 0
+D2
+~
+~
+0 0 20572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20558
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 0 0
+D0
+~
+~
+0 0 20561 0
+D1
+~
+~
+0 0 20572 0
+D2
+~
+~
+0 0 20574 0
+D3
+~
+~
+0 0 20575 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20559
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 8 0
+D0
+~
+~
+0 0 20557 0
+D1
+~
+~
+0 0 20573 0
+D2
+~
+~
+0 0 20576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20560
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 8 0
+D0
+~
+~
+0 0 20579 0
+D2
+~
+~
+0 0 20578 0
+D3
+~
+~
+0 0 20565 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20561
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 0 0
+D0
+~
+~
+0 0 20565 0
+D1
+~
+~
+0 0 20576 0
+D2
+~
+~
+0 0 20570 0
+D3
+~
+~
+0 0 20566 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20562
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 0 0
+D0
+~
+~
+0 0 20566 0
+D2
+~
+~
+0 0 20564 0
+D3
+~
+~
+0 0 20567 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20563
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 0 0
+D0
+~
+~
+0 0 20574 0
+D1
+~
+~
+0 0 20568 0
+D2
+~
+~
+0 0 20556 0
+D3
+~
+~
+0 0 20569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20564
+Un Incrocio Di Tunnel~
+Sei giunto in un crocievia di tunnel. Il pavimento, il
+soffitto ed ovviamente anche le pareti della stanza sono
+di pietra, di massicci blocchi di pietra grigia. Il suolo
+e' ricoperto abbondantemente da polvere cosi' riesci subito
+a distinguere alcune impronte che sembrano non condurre da
+nessuna parte, cioe' sembra che qui nascano e muoiano. Inoltre
+ti rendi conto di non riuscir a capire chi o cosa possa aver
+lasciato quel strano tipo di impronta.
+~
+200 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20565
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 0 0
+D1
+~
+~
+0 0 20560 0
+D2
+~
+~
+0 0 20561 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20566
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 0 0
+D1
+~
+~
+0 0 20561 0
+D2
+~
+~
+0 0 20562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20567
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 0 0
+D0
+~
+~
+0 0 20568 0
+D1
+~
+~
+0 0 20562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20568
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 0 0
+D2
+~
+~
+0 0 20567 0
+D3
+~
+~
+0 0 20563 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20569
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 0 0
+D1
+~
+~
+0 0 20559 0
+D3
+~
+~
+0 0 20551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20570
+Un Corridoio Di Pietra~
+Strette pareti di pietra ti circondano, ed un massiccio soffitto, 
+anch'esso di pietra ti sovrasta. Il Pavimento di pietra e' ricoperto
+da pozze scure e puzzolenti, che a prima vista sembrano essere di
+sangue. Ossa spezzate sono sparse un po' ovunque e tra i veri
+detriti noti persino un teschio dalla fisionomia umana. Quello che
+si presenta ai tuoi occhi e' veramente uno spettaccolo macabro che
+ti scuote internamente fino al profondo del tuo essere. con un 
+ulteriore sforzo guardi con maggiore attenzione il pavimento e
+ti rendi conto che il sangue, i brandelli di corpi e le ossa sembrano
+concentrarsi in determinati punti. 
+~
+200 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20571
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D1
+~
+~
+0 0 20579 0
+D3
+~
+~
+0 0 20557 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20572
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D0
+~
+~
+0 0 20557 0
+D3
+~
+~
+0 0 20558 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20573
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D1
+~
+~
+0 0 20574 0
+D3
+~
+~
+0 0 20559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20574
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D0
+~
+~
+0 0 20558 0
+D3
+~
+~
+0 0 20573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20575
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D1
+~
+~
+0 0 20558 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20576
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D0
+~
+~
+0 0 20559 0
+D1
+~
+~
+0 0 20577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20577
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D1
+~
+~
+0 0 20578 0
+D3
+~
+~
+0 0 20576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20578
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D0
+~
+~
+0 0 20560 0
+D3
+~
+~
+0 0 20577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20579
+Un Corridoio Di Pietra~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 8 0
+D2
+~
+~
+0 0 20560 0
+D3
+~
+~
+0 0 20571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20580
+Corridoio di pietra.~
+Strette pareti di pietra di circondano, ed un massiccio soffitto,
+anch'esso di pietra ti sovrasta. Il pavimento, di pietra, sembra
+essere piuttosto pulito, non grandi cose, pero' almeno non vi sono
+carogne o schifezze organiche. Al centro del soffitto una grande
+sfera luminosa e' appesa, e sembra essere la fonte della luce di 
+questa stanza. 
+~
+200 105 0
+D0
+~
+~
+0 0 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#20598
+Il terzo piano della torre~
+Scendi giu' per le scalette sicuro di te stesso...  Ma non ti accorgi di aver
+fatto un fatale errore a fidarti di questa folle struttura.  Cadrai per
+sempre...  E di te non restera' che la memoria.  Sempre che qualcuno si ricordi
+di te ancora....  Addio sciocco avventuriero
+~
+200 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#20599
+L'antro di Teslar.~
+Nothing.
+Sei immerso nel buio,qui la notte e eterna,lo spazio e il tempo non esistono,
+ti trovi nella casa di Teslar Signore della Notte.
+~
+200 2645 0
+D0
+~
+~
+0 0 2135357 0
+D1
+~
+~
+0 0 2184955 0
+D2
+~
+~
+0 0 2124857 0
+D3
+~
+~
+0 0 2094753 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

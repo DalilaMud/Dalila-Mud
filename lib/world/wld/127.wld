@@ -1,0 +1,541 @@
+#12700
+L'ingresso~
+Sei in uno stranissimo ingresso, da est viene un caldo
+insopportabile mentre da ovest viene un freddo polare, forse
+sarebbe meglio allontanarsi da qui per non beccarsi una
+polmonite!
+~
+127 4 0
+D0
+~
+~
+0 -1 12724
+D1
+~
+~
+0 -1 12710
+D3
+~
+~
+0 -1 12701
+D4
+~
+Botola~
+1 0 9148
+S
+#12701
+Un freddo corridoio~
+Sei in un freddissimo corridoio, da est viene un po di tepore
+mentre da Ovest arriva una corrente gelata...Il buonsenso
+suggerisce di andartene da questo posto!!!
+~
+127 0 0
+D1
+~
+~
+0 -1 12700
+D3
+~
+~
+0 -1 12702
+S
+#12702
+Un freddo corridoio~
+Cominci a non sentire piu' le dita e i tuoi sensi sono intorpiditi
+dal freddo.
+Non sembra una buona idea andare ancora ad ovest...
+~
+127 0 0
+D1
+~
+~
+0 -1 12701
+D3
+~
+~
+0 -1 12703
+S
+#12703
+Un freddo corridoio~
+Cominci a stare veramente male!!! Si puo' ben capire che la
+temperatura e' sotto lo 0 dato che c'e' del ghiaccio duro come
+pietra per terra. Verso Ovest si intravede una grande sala forse
+piu' fredda di questo corridoio!
+~
+127 0 0
+D1
+~
+~
+0 -1 12702
+D3
+~
+~
+0 -1 12704
+S
+#12704
+Una grande sala~
+Sei in una sala freddissima: pavimento, mura, tetto e porte sono
+di ghiaccio, arriva una luce dorata da ovest, ma non capisci come
+sia possibile dato che li c'e' solo ghiaccio...
+~
+127 8 0
+D0
+~
+porta~
+0 12705 12705
+D1
+~
+~
+0 -1 12703
+D3
+~
+porta~
+0 12708 12709
+S
+#12705
+Anticamera~
+Sei nell'anticamera delle sale private della Regina di questo
+posto, finalmente c'e' tepore qui!!!
+Il muro a sud e' di ghiaccio, mentre le altre pareti sono d'oro
+massiccio!
+~
+127 136 0
+D0
+~
+~
+0 -1 12706
+D2
+~
+~
+0 -1 12704
+S
+#12706
+Ingresso alle sale private della regina~
+Sei nella sala d'ingresso alle stanze della regina, la stanza e'
+molto luminosa grazie alla presenza di bellissime finestre coperte
+da graziose tendine rosa.
+~
+127 8 0
+D1
+~
+~
+0 -1 12708
+D2
+~
+porta~
+1 30007 12705
+D3
+~
+~
+0 -1 12707
+S
+#12707
+Camera da letto della regina.~
+Sei nella camera da letto della regina, addobbata con mobili
+e porte in oro zecchino e cuscini in visone.~
+127 8 0
+D1
+~
+~
+0 -1 12706
+S
+#12708
+Il camerino della Regina~
+Sei nel camerino della regina, c'e' un grande specchio ed un
+tavolo dove la regina solitamente si trucca.
+~
+127 136 0
+D2
+~
+~
+0 -1 12717
+D3
+~
+~
+0 -1 12706
+S
+#12709
+La sala ghiacciata.~
+Sei in una stanza ghiacciata, non avresti mai creduto che potesse
+esistere un freddo cosi' intenso!!!
+Inizi a chiederti il perche' di tutto questo freddo, sara' il
+clima o il frutto di chissa' quale maledizione?
+~
+127 8 0
+D1
+~
+~
+0 -1 12704
+D4
+~
+Botola~
+0 -1 12718
+S
+#12710
+Un caldo corridoio~
+Sei in un corridoio in cui la temperatura e' piu' alta del
+normale, da est sembra arrivare una grande e opprimente afa,
+verso ovest la temperatura scende gradualmente...~
+127 0 0
+D1
+~
+~
+0 -1 12711
+D3
+~
+~
+0 -1 12700
+S
+#12711
+Un caldo corridoio.~
+Sei in un corridoio in cui la temperatura e' piu' alta del
+normale, da est sembra arrivare una grande e opprimente afa,
+verso ovest la temperatura scende gradualmente...~
+127 0 0
+D1
+~
+~
+0 -1 12712
+D3
+~
+~
+0 -1 12710
+S
+#12712
+Un caldo corridoio~
+Sei in un corridoio in cui la temperatura e' piu' alta del
+normale, da est sembra arrivare una grande e opprimente afa,
+verso ovest la temperatura scende gradualmente...~
+127 0 0
+D1
+~
+~
+0 -1 12713
+D3
+~
+~
+0 -1 12711
+S
+#12713
+Una larga, calda stanza~
+Senti i tuoi piedi cuocersi al contatto col suolo, l'area e'
+irrespirabile, sembra di essere all'inferno!!! Strane creature
+passano e ti osservano come se fossi un oggetto fuori posto...
+~
+127 8 0
+D0
+~
+porta~
+0 12702 12714
+D1
+~
+~
+0 -1 12722
+D3
+~
+~
+0 -1 12712
+S
+#12714
+Anticamera~
+Sei nell'anticamera delle sale private del Re, la temperatura
+e' finalmente normale, tuttavia il muro a sud e' di fuoco...
+~
+127 8 0
+D0
+~
+~
+0 -1 12715
+D2
+~
+porta~
+0 12702 12713
+S
+#12715
+Ingresso alle sale private del Re~
+Sei nella sala d'ingresso alle stanze private del Re, le pareti
+sono di uno splendore incredibile, sembrano di diamante...
+La loro luce e' acciecante!
+~
+127 8 0
+D0
+~
+~
+0 -1 12719
+D2
+~
+~
+0 -1 12714
+D3
+~
+~
+0 -1 12716
+S
+#12716
+La camera da letto del re~
+Sei nella camera da letto del re, tutto e' pulitissimo, il letto
+e' ornato da diamanti e pietre preziose, i cuscini, le tende e
+le coperte sono di seta.
+~
+127 8 0
+D1
+~
+~
+0 -1 12715
+S
+#12717
+Giardinetto sul retro del camerino.~
+Sei nel giardinetto della regina posto sul retro del camerino.
+Le piante sono verdi e rigogliose, appoggiati al muro vedi gli
+attrezzi da giardinaggio...Dal manico d'argento...
+Le piccole erbe che crescono qui ti danno una cosi' soave
+senzazione di pace e tranquillita', ti viene un gran desiderio
+di sdraiarti a dormire sul prato come facevi quando eri fanciullo.
+~
+127 17 0
+D0
+~
+~
+0 -1 12708
+S
+#12718
+La tesoriera del regno.~
+Hai trovato la stanza segreta in cui vengono nascosti i tesori
+del Regno!!!
+La stanza e' costituita da sfarzose mattonelle di argento sul
+pavimento e d'oro sulle mura, il tetto e' fatto di diamanti!!!
+Sono riposti ordinatamente su alcuni scaffali le piu' grandi
+gemme che avessi mai visto in vita tua!!!
+~
+127 152 0
+D5
+~
+Botola~
+1 12708 12709
+S
+#12719
+Studio del Re.~
+Sei nella stanza dove il Re solitamente si reca per occuparsi
+degli affari del suo regno.
+La sala e' larga e austera con grandi colonne di marmo che
+reggono il tetto e una piccola scrivania di legno di mogano.~
+127 8 0
+D1
+~
+~
+0 -1 12720
+D2
+~
+Botola~
+0 -1 12715
+S
+#12720
+La biblioteca Reale.~
+Ti trovi nella sala della biblioteca reale, ci sono libri antichi
+e pergamene polverose, il tutto e' perfettamente conservato in
+enormi scaffali di legno.
+~
+127 24 0
+D2
+~
+segreta~
+2 -1 12721
+D3
+~
+Botola~
+0 -1 12719
+S
+#12721
+Il retro della biblioteca.~
+Sei in una piccola e brutta stanza, le mura sono grigie ed umide,
+il tetto semicadente e' di legno fradicio.
+Questo sembra piu' un carcere che una stanza del palazzo reale!
+~
+127 9 0
+D0
+~
+segreta~
+1 12718 12720
+S
+#12722
+Una sala infuocata!!!~
+Ti trovi nel bel mezzo di una stanza incendiata!
+Il caldo e' insopportabile, dopo la paura iniziale ti accorgi
+pero' che il legno non brucia...
+Ci sono degli strani simboli sulle mura e sul pavimento, il tetto
+e' interamente di fuoco...
+~
+127 72 0
+D3
+~
+~
+0 -1 12713
+D4
+~
+botola~
+2 12713 12723
+S
+#12723
+La sala del trono.~
+Ti trovi nella sala del trono, il Re e la Regina sono seduti
+che ascoltano le lamentele degli abitanti del regno.
+i rappresentanti della Guardia Nazionale e della Guardia Reale
+ti osservano diffidenti...
+~
+127 72 0
+D5
+~
+botola~
+2 12713 12722
+S
+#12724
+Un oscuro corridoio.~
+Sei nel corridoio piu' oscuro e tenebroso del regno, senti delle
+voci chiamarti, voci di spiriti morti, voci di infernali...
+L'atmosfera e' lugubre, il pavimento coperto di ossa di uomini,
+donne e bambini morti, non c'e' alcuna traccia di esseri viventi
+nella zona, il tuo buon senso ti suggerisce di tornare indietro!
+~
+127 65 0
+D0
+~
+~
+0 -1 12725
+D2
+~
+~
+0 -1 12700
+S
+#12725
+Un oscuro corridoio.~
+L'atmosfera e' sempre piu' lugubre, le voci degli spiriti dei
+morti urlano sempre piu' forte, torna indietro prima che sia
+troppo tardi!!!
+~
+127 65 0
+D0
+~
+~
+0 -1 12726
+D2
+~
+porta~
+0 -1 12724
+D4
+Una botola chiusa da secoli.
+~
+botola~
+1 9003 2184646
+S
+#12726
+Un oscuro corridoio.~
+L'atmosfera e' sempre piu' lugubre, le voci degli spiriti dei
+morti urlano sempre piu' forte, torna indietro prima che sia
+troppo tardi!!!~
+127 65 0
+D0
+~
+~
+0 -1 12727
+D2
+~
+~
+0 -1 12725
+S
+#12727
+Una stanza a quattro tunnel~
+Sei in una oscura stanza che va in quattro direzioni, verso sud
+rivedi quell'odiato e lungo corridoio, verso nord un altro
+corridoio con piu' luce e ad est ed ovest due strane stanze...
+~
+127 9 0
+D0
+~
+~
+0 -1 12730
+D1
+~
+~
+0 -1 12729
+D2
+~
+~
+0 -1 12726
+D3
+~
+~
+0 -1 12728
+S
+#12728
+La stanza oscura~
+Sei in una oscurissima stanza, per terra vedi dei goblin
+completamente ubriachi, alla porta ci sono due sentinelle vestite
+con misteriosi mantelli neri e con due simboli rossi che spiccano
+nelle vesti...
+~
+127 9 0
+D1
+~
+~
+0 -1 12727
+S
+#12729
+La sala addestramento~
+Sei in una stanza grande e luminosa dove i soldati dell'esercito
+si allenano sotto la guida dell'esperto e sapiente Maestro d'Armi,
+l'esercito e' numerosissimo ed ottimamente equipaggiato, alla
+tua destra vedi degli arcieri, davanti degli spadaccini ed a
+sinistra dei troll delle montagne.~
+127 136 0
+D3
+~
+~
+0 -1 12727
+S
+#12730
+Un largo corridoio~
+Sei in un corridoio molto ampio e umido, le mura sono nero scuro
+tuttavia una luce verdognola illumina il tuo cammino, senti una
+vocina che ti consiglia di tornare indietro, non vorrai mica
+dargli ascolto?!
+~
+127 8 0
+D0
+~
+~
+0 -1 12731
+D2
+~
+~
+0 -1 12727
+S
+#12731
+La grande sala~
+Sei in una stranissima sala, la luce e' fioca e verdognola, tutto
+pero' e' addobbato con un fine stile medievale, ci sono delle
+comode poltrone di piuma sparse per la stanza, chissa' quale sia
+il perche' di tutto cio'...C'e' una TARGA appesa al muro.~
+127 8 0
+D0
+~
+porta~
+0 12727 12732
+D2
+~
+~
+0 -1 12730
+S
+#12732
+La sala del Potere~
+Sei in una stranissima sala magica, al centro di essa c'e' una
+grande sfera che emana una forte luce verde, ci sono dei sacerdoti
+e delle guardie vicino ad essa, davanti c'e' una grande poltrona
+nera occupata da uno strano essere...
+~
+127 72 0
+D2
+~
+porta~
+0 30017 12731
+S
+$~

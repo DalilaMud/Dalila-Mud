@@ -1,0 +1,1185 @@
+#22101
+Via del Promontorio~
+  Sei nella strada che conduce verso il promontorio di Chyrellos.
+Ad ovest vedi l'Arco d'Occidente, attraversandolo giungerai ad una
+piccola piazza da cui parte un ripido sentiero che si dirige verso
+una pineta.
+~
+221 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 234241 40800 135
+D1
+~
+~
+0 0 21326 0
+D2
+~
+porta~
+1 0 40801 7
+D3
+~
+~
+0 -1 22102 0
+D4
+Una porta di legno.
+~
+porta~
+1 763996 40849 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22102
+L'Arco d'Occidente~
+  L'imponente arco che hai di fronte, costruito con enormi pietre
+di granito, segna la fine della citta' nella sua parte occidentale.
+Volgendo lo sguardo verso ovest vedi, infatti, solo il vasto mare
+della Daresia e, vicinissimo, il verde promontorio che si protende
+in mezzo ad esso, formando un porto naturale che i regnanti di Elenia
+si sono curati di migliorare attrezzandolo con moli e banchine.
+  Rivolgendo di nuovo la tua attenzione all'arco, noti che il suo
+pilone meridionale e' stato costruito sfruttando parte della roccia
+naturale del promontorio che proprio in questo punto comincia ad
+elevarsi verso il cielo. Due scalinate di marmo bianco sono state
+scavate nella roccia della piccola montagna. Entrambe conducono
+ad un'ardita costruzione edificata in gran parte sfruttando la
+montagna stessa.
+&7Il Tempio di Fizban.&0
+~
+221 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 801467 40825 135
+D1
+~
+~
+0 -1 22101 0
+D2
+Una porta di legno.
+~
+porta~
+1 353341 40830 135
+D3
+~
+~
+0 -1 22103 0
+D4
+Una porta di legno.
+~
+porta~
+1 222659 40062 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22103
+Strada del Promontorio~
+  Questa strada, verso ovest, segue il declivio della collina del
+promontorio, fin quasi a raggiungere il mare. E' lastricata con
+delle pietre rosa, poste in opera chissa' quando. Ai lati della
+strada una cappelletta innalzata agli Dei della Natura e del Mare
+e' completamente coperta di fiori ed ex-voto.
+~
+221 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 251541 40835 135
+D1
+~
+~
+0 -1 22102 0
+D2
+~
+~
+0 -1 22104 0
+D3
+Una porta di legno.
+~
+porta~
+1 470773 40838 135
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40839 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22104
+Una curva nella strada del Promontorio~
+  La strada in questo punto si restringe e dopo una lieve curva
+scende ripida verso il mare. Proprio nel punto piu' stretto della
+strada, si trova una fontana a forma di otre da cui sgorga uno
+zampillo d'acqua, dal sapore leggermente salmastro, che riempie
+una grande vasca di marmo rovinata dal passare del tempo.
+  Accanto alla fontana, un sentiero sale verso il promontorio.
+~
+221 8796093022208 1
+D0
+~
+~
+0 -1 22103 0
+D1
+Una porta di legno.
+~
+porta~
+1 544003 40871 135
+D4
+~
+~
+0 0 22119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22105
+Connessione di Levante~
+  Sei arrivato al passaggio che consente di accedere alle banchine
+del molo. Da qui riesci gia' a scorgere l'inizio della banchina
+orientale del porto.
+  Un vecchio mercante, dall'aria trasandata, vende oggetti
+provenienti dalle piu' lontane terre conosciute.
+  Volgendo lo sguardo verso la superficie cristallina del mare,
+puoi scorgere, sotto di essa, rocce ricoperte di alghe brune,
+verdi ed argentee, e numerosi pesci, a te sconosciuti, che
+nuotano velocemente.
+~
+221 8 1
+D1
+~
+~
+0 -1 2135252 0
+D3
+~
+~
+0 -1 22106 0
+E
+cartello~
+&6Luoghi di pubblico interesse nell'area portuale&0 
+&5Negozio articoli nautici&0: &7OVEST&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22106
+La banchina Orientale~
+  Sei giunto all'estremita' orientale del porto. Questa e' la zona
+piu' ricca e meglio servita di tutto il complesso. Qui sono
+ormeggiate le navi degli armatori piu' ricchi e quelle destinate al
+trasporto dei passeggeri.
+  Il viavai continuo di gente di ogni razza ti stordisce e ti lascia
+interdetto. Sono tutti indaffarati a caricare e scaricare bagagli o
+a cercare un posto libero per riuscire a salpare a bordo della
+prossima nave in partenza.
+  A nord, noti una vecchia costruzione in pietra che ha tutta l'aria
+di essere una taverna in cui i viandanti possono trovare ristoro
+dalle fatiche del viaggio.
+  A sud vedi il piccolo Molo di Levante mentre ad ovest la banchina
+Centrale si protende verso il mare.
+~
+221 0 1
+D0
+~
+~
+0 -1 22121 0
+D1
+~
+~
+0 -1 22105 0
+D2
+~
+~
+0 -1 22133 0
+D3
+~
+~
+0 -1 22107 0
+E
+cartello~
+&6Luoghi di pubblico interesse nell'area portuale&0 
+&5Negozio articoli nautici&0: &7OVEST&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22107
+La banchina Centrale~
+  La parte centrale delle banchine di Chyrellos e' riservata alle
+attivita' mercantili. E' la zona di arrivo delle navi commerciali
+e da qui e' possibile raggiungere agevolmente gli uffici
+amministrativi del porto. Punto obbligato di passaggio per tutti
+i mercanti che sbarcano sulla costa occidentale della Daresia,
+ogni singolo tratto della banchina e' affollato da gruppetti di
+persone che parlano delle avventure, vere o fantasiose, da loro
+vissute solcando mari sconosciuti.
+~
+221 0 1
+D0
+~
+~
+0 -1 22134 0
+D1
+~
+~
+0 -1 22106 0
+D2
+~
+~
+0 -1 22146 0
+D3
+~
+~
+0 -1 22108 0
+E
+cartello~
+   &6Luoghi di pubblico interesse nell'area portuale&0 
+&5Negozio articoli nautici&0: &7OVEST&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22108
+La banchina Occidentale~
+  Questa e' sicuramente la parte meno curata di tutta la zona portuale, 
+ma e' anche quella dove ti trovi piu' a tuo agio. E' la zona riservata
+all'attracco dei pescherecci e delle piccole barche dei pescatori locali.
+Le facce delle persone che percorrono la banchina, sono bruciate dal
+sole e solcate da profonde rughe, segni evidenti di una vita passata sul
+mare. Intorno a te vedi solo pescatori dalle facce abbronzate, mozzi che
+sonnecchiano sul molo, vecchi che fumano la pipa accoccolati accanto
+a delle reti.
+  A nord si trova il negozio del Vecchio Marinaio mentre piu' in la',
+ad ovest, scorgi l'imponente sagoma del faro della citta'.
+~
+221 0 1
+D0
+~
+~
+0 -1 22140 0
+D1
+~
+~
+0 -1 22107 0
+D2
+~
+~
+0 -1 22141 0
+D3
+~
+~
+0 -1 22109 0
+E
+cartello~
+   &6Luoghi di pubblico interesse nell'area portuale&0 
+&5Negozio articoli nautici&0: &7NORD&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22109
+Il Piazzale del Faro~
+  Un'enorme e grigia struttura ricoperta di edera e muschio e sferzata
+dalla brezza marina domina incontrastata questa piazza. Il Faro di
+Chyrellos, il primo ad essere realizzato nelle terre della Daresia,
+continua incessantemente ogni notte a guidare il cammino delle navi.
+Al tramonto, l'ombra creata dalla costruzione giunge a toccare le
+banchine piu' lontane cosi' da sembrare ancora piu' imponente e maestosa. 
+  Verso sud vedi luccicare una spiaggia bruna, come se qualcuno vi
+avesse acceso migliaia di piccoli fuochi.
+~
+221 0 1
+D1
+~
+~
+0 -1 22108 0
+D2
+~
+~
+0 -1 22110 0
+D3
+~
+~
+0 -1 22142 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22110
+Lunga banchina~
+  Una lunghissima banchina, formata da sassi disposti con estrema
+perizia, ti conduce fino al grandioso Faro di Chyrellos. Anche ora
+che il mare e' calmo, possenti onde si infrangono su di essa
+sommergendola, non osi immaginare cosa avvenga quando il mare e'
+invece agitato. Tutto lascia credere che, in tali occasioni, sia
+impossibile percorrerla per raggiungere il faro.
+~
+221 0 1
+D0
+~
+~
+0 -1 22109 0
+D2
+~
+~
+0 -1 22144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22111
+Spiaggia di ciottoli~
+  La terra sotto i tuoi piedi brucia. I piccoli ciottoli neri levigati
+dal sole che formano la spiaggia su cui cammini sono resi incandescenti
+dai raggi del sole.
+  Stai ormai costeggiando una ripida parete rocciosa, spazzata dal vento
+e continuamente bagnata dalle onde del mare.
+  Il mare alla tua destra e' invitante e non riesci a resistere alla
+tentazione di un tuffo.
+~
+221 0 1
+D0
+Una porta di legno.
+~
+porta~
+1 922589 40172 135
+D1
+~
+~
+0 -1 22142 0
+D2
+~
+~
+0 -1 22114 0
+D3
+~
+~
+0 -1 22112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22112
+Buca delle fate~
+  Ormai per procedere devi aggrapparti alla roccia, visto che il 
+sentiero che percorrevi qui si restringe fino a misurare solo
+pochi centimetri di larghezza. Per fortuna questa strettoia dura
+solo per pochi metri, passati i quali ti trovi di fronte ad una
+baia la cui bellezza ti lascia senza fiato.
+  Osservi estasiato questa baia racchiusa da ripide pareti su
+cui le onde del mare si infrangono facendo salire verso il cielo
+spruzzi d'acqua salmastra.
+~
+221 8796093022208 1
+D1
+~
+~
+0 -1 22111 0
+D2
+~
+~
+0 -1 22113 0
+D3
+Una porta di legno.
+~
+porta~
+1 810428 40863 135
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40910 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22113
+Scogli affioranti~
+  Il mare ormai ti bagna le gambe, le alghe ti solleticano il piede,
+uno schizzo d'acqua salata proveniente da un'onda che si e' infranta
+sugli scogli ti colpisce il viso.
+  Guardi verso il basso e vedi moltissimi piccoli pesci che nuotano
+tra le tue gambe. Alla tua destra scorgi dei pericolosi ricci,
+spostarsi in quella direzione potrebbe essere pericoloso!
+~
+221 0 1
+D0
+~
+~
+0 -1 22112 0
+D1
+~
+~
+0 -1 22114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22114
+Mare~
+  L'acqua del mare, che ormai ti arriva al ginocchio, ti fa rabbrividire.
+Una leggera brezza ti sfiora portando fino al tuo naso odori di luoghi
+lontani. Lasci la tua mente libera di vagare, immaginando la fonte di
+tali odori. Ti senti rilassato e vorresti fermare il tempo per godere
+per sempre di queste sensazioni.
+~
+221 0 1
+D0
+~
+~
+0 -1 22111 0
+D1
+~
+~
+0 -1 22115 0
+D2
+~
+~
+0 -1 22116 0
+D3
+~
+~
+0 -1 22113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22115
+Risacca~
+  Ti stupisci ad osservare le molteplici forme di vita ospitate dal mare.
+Anche se la riva e' lontana solo pochi passi, gli esseri che lo popolano
+sono diversissimi. Piccoli animali si nascondono all'interno dei loro gusci,
+numerosi granchi corrono di traverso sul fondo sabbioso del mare tenendo le
+loro chele minacciosamente aperte.
+  Qualche uccello plana velocemente dall'alto per catturare qualcosa con il
+becco e risalire, un istante dopo, con la sua preda verso il cielo.
+  La vita si trova ovunque intorno a te e questo ti lascia estasiato e
+senza parole.
+~
+221 8796093022208 1
+D0
+~
+~
+0 -1 22142 0
+D1
+Una porta di legno.
+~
+porta~
+1 449377 40453 135
+D3
+~
+~
+0 -1 22114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22116
+Onde~
+  Fermo! Ormai l'acqua ti arriva alla gola e le onde ti bagnano il viso.
+Sei lontano dalla riva e la sabbia sotto ai tuoi piedi e' sempre piu'
+difficile da toccare. La stanchezza che avvertivi, e' scomparsa, portata
+via dalle onde del mare che ti avvolge completamente bagnando la tua pelle
+e rinfrancando il tuo spirito. Ti senti leggero e pieno di vigore, il cuore
+sobbalza di gioia nel tuo petto per la sensazione di benessere che provi.
+~
+221 0 1
+D0
+~
+~
+0 -1 22114 0
+D2
+~
+~
+0 -1 22117 0
+D5
+~
+~
+0 -1 22118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22117
+Al largo~
+  Ormai non tocchi piu' e sei costretto a nuotare. Le tue braccia muovono
+con vigore l'acqua del mare spingendoti, ritmicamente, avanti. L'acqua
+scorre lungo la tua schiena, i piedi battono alternatamente la superficie
+del mare contribuendo anch'essi a spingerti innanzi.
+  Laggiu', davanti a te, la volta celeste si unisce al profondo blu del
+mare. Hai in mente di arrivare fin la', per scoprire finalmente cosa tale
+unione comporti.
+~
+221 0 1
+D0
+~
+~
+0 -1 22116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22118
+Profondita'~
+ Ti sei tuffato sotto il pelo dell'acqua, apri gli occhi per vedere cosa
+il fondo del mare nasconda, il sale brucia i tuoi occhi, i capelli
+fluttuano nel mare.
+ I raggi del sole riescono qua e la' a penetrare l'oscurita' del fondo
+marino. Il chiarore, portato da essi sott'acqua, risulta continuamente
+in movimento cosi' da creare un'ipnotica danza di luce che cattura il
+tuo sguardo.
+~
+221 36 8
+D4
+~
+~
+0 -1 22116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22119
+Sentiero~
+  Inizi a salire su' per un sentiero di sabbia. Piccole piante
+delimitano lo stradello che ti trovi a percorrere, un leggero
+soffio di vento scompiglia i tuoi capelli.
+  Cominci ad intravedere, sulla tua destra le torri della grande
+citta' di Chyrellos. Piu' lontano, nascosta dalla foschia, la
+collina residenziale con le sue case. Ti accorgi, che pian piano
+i rumori della citta' sono sempre piu' lontani, e ti stai dirigendo
+verso un luogo dove solo i suoni della natura turbano il silenzio.
+~
+221 0 1
+D4
+~
+~
+0 -1 22120 0
+D5
+~
+~
+0 -1 22104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22120
+Sentiero scosceso~
+  Il sentiero e' sempre piu' ripido e tu ti trovi ad arrampicarti faticosamente
+tra le rocce e la vegetazione. Sotto i tuoi piedi non c'e' piu' la sabbia, ma
+ghiaia che tu stesso contribuisci a creare col tuo passaggio, rompendo la
+roccia friabile. La strada continua ormai in mezzo ai pini che nascondono la
+citta' ed il mare. Inizi a sentirti solo, ma non abbandonato. Il sole penetra
+con fatica tra le enormi chiome di questi grossi alberi, piccoli insetti ti
+sfrecciano tra i piedi. Solo qualche altro passo e finalmente sarai giunto
+in cima!
+~
+221 4 1
+D4
+~
+~
+0 -1 22123 0
+D5
+~
+~
+0 -1 22119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22121
+Il Ristorante La Rosa Dei Venti~
+  Non c'e' posto migliore di questo per rilassarsi dopo le
+fatiche di un lungo viaggio. Qui non manca nulla: puoi
+mangiare, bere, e riposarti se lo desideri. 
+  I lumi ad olio, sempre accesi, rendono questa sala calda
+e confortevole, ti senti quasi a casa. Una scala intarsiata,
+in legno di mogano, scende verso il basso, dove vedi dei
+tavoli pronti ad accogliere i clienti.
+  Una bellissima elfa si fa avanti un po' timidamente per
+prendere la tua ordinazione. Sai che questo locale e'
+rinomato per la sua cucina, ma che e' anche molto costoso!
+~
+221 132 1
+D2
+~
+~
+0 -1 22106 0
+D5
+~
+~
+0 -1 22132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22122
+Precipizio sulla baia~
+  Il terreno sembra scendere dolcemente verso il mare, ma
+all'improvviso la sua pendenza cambia e ti ritrovi in cima
+ad una parete rocciosa che scende a picco sul mare. Sotto
+di te scorgi una baia piena di scogli su cui le onde si
+infrangono perdendo forza prima di giungere a lambire
+delicatamente una piccola spiaggia che si trova proprio
+sotto di te.
+  Alzi gli occhi e ti fermi a scrutare il vasto mare della
+Daresia. Sei quasi convinto che da quassu' puoi riuscire a
+penetrarne il mistero.
+~
+221 0 1
+D0
+~
+~
+0 -1 22123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22123
+La pineta~
+  Alberi secolari si stagliano verso il cielo con i loro
+possenti tronchi, dalla spessa corteccia. Robuste radici
+spuntano ovunque dal terreno rendendoti difficile il cammino.
+  Tenui raggi di luce sfiorano il suolo rischiarandolo a
+sufficienza per permetterti di vedere dove vai. Attorno a
+te sono tante piccole piante che, colpite dalla debole luce,
+proiettano ovunque strane ombre.
+~
+221 0 1
+D0
+~
+~
+0 -1 22124 0
+D1
+~
+~
+0 -1 22128 0
+D2
+~
+~
+0 -1 22122 0
+D3
+~
+~
+0 -1 22125 0
+D5
+~
+~
+0 -1 22120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22124
+Bosco~
+  Ormai sei cosi' lontano dal mare che non riesci piu' a
+sentirne il rumore. Qui la vegetazione e' rigogliosa. Da
+qualsiasi parte ti giri vedi alberi pieni di muschio ed
+un sottobosco cosi' fitto e intricato da non permetterti
+di procedere oltre. Un brivido ti corre lungo la schiena.
+Scruti meglio attorno a te e avverti la presenza di molti
+occhi che ti osservano. Rumori provengono dall'alto,
+qualcosa si muove sui pini che si trovano proprio sopra
+di te. Alzi gli occhi preoccupato, ma vedi solo due
+piccoli scoiattoli correre e saltare di ramo in ramo.
+~
+221 0 1
+D0
+~
+~
+0 0 22143 0
+D2
+~
+~
+0 -1 22123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22125
+Cespugli~
+  Qui numerosi cespugli crescono rigogliosi. Sono cosi'
+alti da impedirti di guardare in ogni direzione. Rimane
+visibile al tuo sguardo solo la Luna, grossa e luminosa,
+circondata da miriadi di stelle.
+  Se hai intenzione di nasconderti questo luogo e'
+certamente adatto, l'unico problema e' riuscire a trovare
+spazio sufficiente per riuscire a penetrare tra i rami
+intricati della vegetazione. 
+  L'odore di salsedine si mischia qui con quelli provenienti
+dal vicino bosco, creando una flagranza unica ed inebriante.
+~
+221 64 1
+D1
+~
+~
+0 -1 22123 0
+D2
+~
+~
+0 -1 22126 0
+D5
+~
+~
+0 -1 22127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22126
+Il promontorio~
+  La brezza del mare accarezza il tuo volto. Il terreno qui
+scende dolcemente verso il mare, ma il cammino e' reso
+disagevole dalla vegetazione fitta e ispida che ricopre il
+terreno.
+  Avverti con chiarezza il rumore delle onde che si infrangono
+sulla riva.
+  Il profumo di erbe selvatiche e l'odore salmastro del
+mare riempiono le tue narici. Mentre inspiri avidamente 
+quest'aria pulita, il tuo corpo e' percorso da un brivido di
+piacere e sei colto da un irresistibile desiderio di sdraiarti
+sull'erba fresca e fermarti per sempre qui a scrutare le stelle.
+~
+221 0 1
+D0
+~
+~
+0 -1 22125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22127
+Sperone roccioso~
+  Lo stradello che hai percorso ti ha portato molto in basso,
+ma il mare e' ancora distante sotto di te. La roccia su cui ti
+trovi si protende verso il mare come un leone che balza verso
+la sua preda.
+  Piccole gocce d'acqua di mare, trasportate dal vento 
+rinfrescano l'aria.
+  La brezza del mare muove con gentilezza i tuoi vestiti e fa
+giungere alle tue narici odori di luoghi lontani.
+  Sopra di te le stelle sembrano tante piccole fiammelle,
+davanti a te si estende il vasto mare, pronto a donare
+ricchezze e fama a coloro che sapranno arditamente solcarlo.
+~
+221 8796093022208 1
+D2
+Una porta di legno.
+~
+porta~
+1 864179 41033 135
+D4
+~
+~
+0 -1 22125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22128
+La pineta~
+  Alberi secolari si stagliano verso il cielo con i loro
+possenti tronchi, dalla spessa corteccia. Robuste radici
+spuntano ovunque dal terreno rendendoti difficile il cammino.
+Tenui raggi di luce sfiorano il suolo rischiarandolo a
+sufficienza per permetterti di vedere dove vai. Attorno
+a te sono tante piccole piante che, colpite dalla debole luce,
+proiettano ovunque strane ombre.
+~
+221 0 1
+D1
+~
+~
+0 -1 22131 0
+D2
+~
+~
+0 -1 22129 0
+D3
+~
+~
+0 -1 22123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22129
+Precipizio sulla sabbia~
+  Ti sei lasciato alle spalle gli alberi secolari della
+pineta, davanti a te si estende il vuoto e, molto piu' in
+basso una spiaggia sabbiosa ed il vasto mare. Il precipizio
+sotto ai tuoi piedi ti turba e la tua mente e' travolta da un
+turbinio di pensieri che ti fanno girare la testa.
+  Il mare laggiu', e' di un blu scurissimo, tanto scuro da
+sembrare senza fondo.
+  La linea dell'orizzonte, la' dove il cielo stellato incontra
+il mare, sembra essere priva di luce. Sei colto dal desiderio
+di recarti laggiu' per scoprire cosa nasconde, per portare alla
+luce i tesori, che, ne sei certo, attendono solo te.
+~
+221 0 1
+D0
+~
+~
+0 -1 22128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22130
+Una saletta appartata~
+  La saletta e' la piu' piccola del locale, ci sono solo due
+tavoli negli angoli.
+  Sulle pareti vedi dei quadri raffiguranti dei bellissimi
+tramonti sul mare di Chyrellos.
+  L'ambiente e' illuminato da luci soffuse, in lontananza
+riesci a sentire il rumore delle onde del mare che si infrangono
+sulle banchine del porto.
+~
+221 0 1
+D2
+~
+~
+0 0 22132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22131
+Precipizio sulle conchiglie~
+  La luce delle stelle che colpisce le migliaia di conchiglie
+sparse sulla spiaggia sottostante, ti danno l'impressione che
+laggiu' ardano migliaia di piccoli fuochi. Quasi non riesci a
+distinguere le stelle da quelle piccole fiammelle che illuminano
+la spiaggia sotto di te. L'orizzonte non e' piu' distinguibile,
+hai l'impressione di trovarti al centro del firmamento, circondato
+solo dalle stelle.
+~
+221 0 1
+D3
+~
+~
+0 -1 22128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22132
+Saletta Centrale~
+  Scendi due gradini di pietra e ti ritrovi in un ampio
+rustico illuminato a giorno da due bellissime finestre a
+bifora che si affacciano sulla banchina Orientale. E' senza
+dubbio la zona piu' bella del locale.
+  Dei tavoli ben apparecchiati con sopra delle tovaglie
+candide ti mettono immediatamente un certo appetito.
+Dietro al bancone degli antipasti scorgi uno strano tipo,
+probabilmente il cuoco, intento a comporre con maestria
+i piatti di portata.
+~
+221 0 1
+D0
+~
+~
+0 0 22130 0
+D1
+~
+~
+0 0 21297 0
+D2
+~
+~
+0 0 21298 0
+D3
+~
+~
+0 0 21299 0
+D4
+~
+~
+0 -1 22121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22133
+Il piccolo Molo di Levante~
+ Il molo orientale del porto di Chyrellos non e' grandissimo,
+ma e' perfettamente organizzato per servire nel migliore dei
+modi i ricchi personaggi che scendono dalle navi di
+rappresentanza. I re ed i cavalieri provenienti dalle terre
+piu' lontane sbarcano in questa parte del complesso portuale.
+Tutto qui viene illuminato da grandi lampioni ad arco, la cui
+luce, nelle notti limpide d'estate, puo' essere vista anche
+dalle barche piu' lontane, alla fonda nella rada.
+~
+221 0 1
+D0
+~
+~
+0 -1 22106 0
+D2
+Nothing.
+~
+~
+0 0 2135247 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22134
+Piazza di Poseidone~
+ Un'enorme statua, dedicata al Dio del mare, si erge imponente
+al centro della piazza. E' stata fortemente voluta da tutti i
+cittadini di Chyrellos per ricordare sempre a chi passa da
+queste parti chi sia il signore dei grandi oceani.
+  Ai lati della piazza tre palazzotti di pietra grigia,
+abbastanza simili tra loro, sono la sede degli uffici
+amministrativi del Porto. Tutti coloro che intendono svolgere
+un'attivita' di qualsiasi natura nell'area portuale, devono
+passare prima in uno di questi per procurarsi i necessari
+permessi.
+~
+221 0 1
+D0
+~
+~
+0 -1 22135 0
+D2
+~
+~
+0 -1 22107 0
+D3
+~
+~
+0 -1 22137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22135
+La Capitaneria di Porto~
+ Un'enorme scrivania sommersa da fogli di carta accatastati
+disordinatamente e' la cosa che piu' ti colpisce entrando
+negli uffici della Capitaneria di Porto. Qui chiunque voglia
+imbarcarsi o arrivi da lidi lontani deve passare per ottenere
+i necessari permessi dalle autorita' di Chyrellos.
+ Dietro la scrivania, il Commodoro ti osserva pigramente
+cercando di capire da quale parte della Daresia provieni.
+~
+221 0 1
+D2
+~
+~
+0 -1 22134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22136
+Il Palazzo della Guardia~
+ Questo palazzo e' molto piu' accogliente di quello che ti
+aspettavi, nonostante si tratti di un semplice avamposto della
+Guardia di Chyrellos adibito al controllo della zona portuale.
+ Alle pareti, una lunga fila di ritratti di segnalazione delle
+persone ricercate in tutto il regno fa bella mostra di se'.
+ Il Tenente della Guardia e' impegnato in una discussione con
+un vecchio pescatore e neanche si accorge del tuo ingresso.
+ Una grata nel pavimento ti lascia intravedere una scala di
+pietra che scende nell'oscurita'.
+~
+221 0 1
+D3
+~
+~
+0 -1 22134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22137
+Il Palazzo dei Commerci~
+ Sei appena entrato nel cuore commerciale del Porto. Qui le
+associazioni di mercanti tengono le loro periodiche riunioni,
+nel corso delle quali si prendono decisioni importanti per
+l'economia dell'Elenia. 
+ Il Palazzo e' pieno di gente e, dopo averle osservate un
+poco, ti rendi conto che nessuno di loro pensa ad altro se
+non ai propri interessi economici.
+~
+221 0 1
+D1
+~
+~
+0 -1 22134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22138
+Le Galere~
+   Scendendo i ripidi gradini si arriva ad una piccola cella,
+probabilmente un vecchio magazzino, umida e piena di salsedine. Intuisci
+dalle incrostazioni alle pareti che probabilmente qui ci troviamo al
+disotto del livello del mare. L'unica fonte di luce e' quella a scacchi che
+penetra attraverso la grata in cima alla scala.
+Non e' certamente un bel posto per fermarsi, e il tuo sesto senzo ti fa
+decidere di risalire di sopra alla svelta.
+~
+221 268435668 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22139
+La fine del grande Molo Centrale~
+ Sei giunto all'estremita' meridionale del pontile del grande
+Molo Centrale di Chyrellos. Ti volgi ad osservare il mare che
+ribolle poco piu' avanti, con le sue onde turchine e le sue
+spume d'argento. Ogni tanto l'acqua si increspa e cerchi
+concentrici si formano sulla sua superficie quando qualche
+pescatore, appollaiato sul parapetto, getta in acqua le sue
+lenze.
+ Le navi qui sono di piccole dimensioni, ma molto ben tenute.
+Non puoi fare a meno di notare la bellezza di alcune gomene e
+la magnificenza dello spettacolo offerto dagli alberi maestri
+di queste piccole imbarcazioni, che, in lontananza, sembrano
+intrecciarsi tra loro.
+~
+221 0 1
+D0
+~
+~
+0 -1 22146 0
+D2
+~
+~
+0 0 2135445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22140
+Il Negozio del Vecchio Marinaio~
+ Questo negozio e' proprio uno strano posto, gestito da un
+piccolo ometto che tutto sembra, tranne che un lupo di mare.
+Quando pero lo senti parlare delle navi e delle imbarcazioni
+che crea nel suo laboratorio, capisci che in tutta la Daresia
+non esiste posto migliore di questo per comprare una barca.
+~
+221 4 1
+D2
+~
+~
+0 -1 22108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22141
+Il Piccolo Molo di Ponente~
+ Tartane, navicelli, gozzi, e altro barchettame minuto,
+dondolano appena sull'acqua lucida e calma.  Ad un miglio
+dalla costa un peschereccio tenta faticosamente di prendere il
+largo, mentre lungo il molo, a pochi passi da te, casse piene
+di pesci ancora vivi e guizzanti vengono scaricate da un gozzo
+appena attraccato. Ti accorgi stupito che, nei gesti sempre
+uguali di questi pescatori, c'e' una strana e affascinante
+poesia.
+~
+221 8796093022208 1
+D0
+~
+~
+0 -1 22108 0
+D1
+Una porta di legno.
+~
+porta~
+1 765960 40868 129
+D2
+~
+~
+0 0 2135243 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22142
+La spiaggia delle Conchiglie~
+ Scopri con tuo sommo stupore che le fiammelle che, da
+lontano, avevi creduto di vedere ardere su questa spiaggia,
+non sono altro che gusci di migliaia di conchiglie, che, 
+colpiti dai raggi del caldo sole, riflettono la luce.
+ Qui il mare e' di un azzurro intenso e, lontano, le grandi
+strisce d'argento delle onde lo imbiancano qua e la'.
+ Il rumore ciclico della risacca ti suggerisce di chiudere
+gli occhi per meditare meglio sulla bellezza e tranquillita'
+di questi luoghi.
+~
+221 4 1
+D1
+~
+~
+0 -1 22109 0
+D2
+~
+~
+0 -1 22115 0
+D3
+~
+~
+0 -1 22111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22143
+Una radura nel bosco~
+  Ti sei fatto coraggio e sei penetrato nella fitta boscaglia. Entri timoroso in
+una piccola radura dove regna un silenzio quasi innaturale, anche i normali
+rumori del bosco sembrano essersi quietati. Nel centro della radura,
+seminascosto dalla vegetazione, intravedi un tempietto in pietra chiara, dalle
+pareti coperte di muschio. Ti chiedi dubbioso per quale scopo sia stato
+costruito, e perche' proprio qui. 
+~
+221 0 0
+D0
+~
+~
+0 0 20035 0
+D2
+~
+~
+0 0 22124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22144
+Il Faro di Chyrellos~
+ Un portale in ferro battuto arrugginito cigola rumorosamente
+spostato dal vento. Mentre entri nel recinto di legno che
+circonda il Faro ti accorgi che una piccola targa di ottone e'
+inchiodata proprio accanto al portale. All'interno una ripida
+scala a chiocciola sale verso la sommita'.
+~
+221 4 1
+D0
+~
+~
+0 0 22110 0
+D4
+~
+~
+0 -1 22145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22145
+La Lanterna del Viandante~
+ Il maestrale sferza duramente il tuo volto, non appena ti
+affacci sulla balconata che si trova alla sommita' del faro.
+Sei ad un passo dai gabbiani che si librano nell'aria e le cui
+sagome si perdono lentamente in lontananza.
+ Il lento, ma costante ruotare della lanterna, ingabbiata in
+una struttura di ferro e vetro, ti fa pensare all'eterno ciclo
+della vita che non puo' essere in alcun modo fermato.
+~
+221 0 1
+D5
+~
+~
+0 -1 22144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22146
+Il grande Molo Centrale~
+ Un gran numero di navi mercantili  attraccato lungo il Grande
+Molo Centrale di Chyrellos. In questo punto in particolare le
+passerelle che scendono dagli scafi verso il pontile sono
+talmente fitte da non lasciare quasi intravedere l'acqua
+sottostante. Un enorme argano di legno, manovrato con abilita'
+da un robusto cavallo, scarica dalle stive delle navi grandi
+casse piene della piu' svariata mercanzia. Il molo prosegue
+verso sud.
+~
+221 0 1
+D0
+~
+~
+0 -1 22107 0
+D2
+~
+~
+0 -1 22139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

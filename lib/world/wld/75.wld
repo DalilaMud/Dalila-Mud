@@ -1,0 +1,782 @@
+#7500
+Piazzale Amruabad~
+Ti trovi nel centro della cittadina di Sephrenia. Questo ampio piazzale
+colonnato, dedicato alla memoria del leggendario Duca Amruabad di Darnos, e'
+attraversato da un viavai frenetico di soldati, mercanti, avventurieri: di qui
+bisogna passare per recarsi nei diversi quartieri in cui e' divisa la citta'.
+Volgendo lo sguardo verso l'alto vedi ergersi maestoso il castello del Duca di
+Darnos, che puoi raggiungere tramite una monumentale scalinata.  
+Al centro del piazzale vedi una pregevole statua di un mago.
+~
+75 0 1
+D0
+~
+~
+0 0 7509 0
+D1
+~
+~
+0 0 7515 0
+D2
+~
+~
+0 0 7510 0
+D3
+~
+~
+0 0 7516 0
+E
+tatuaggi~
+
+Rimani &3&bS&1T&6o&2r&4D&5i&7t&1O&0 da un turbinio di colori....
+
+
+ma e' solo per un istante... che strana sensazione...
+~
+E
+statua amruabad~
+Ovviamente la figura rappresenta Lord Amruabad di Darnos. Si dice che questa
+statua abbia ricevuto un alito di vita dal Duca Amruabad, che era un potente
+arcimago. Guardandola meglio noti che i numerosi tatuaggi del Duca sono
+riprodotti fedelmente su di essa: non sembrano affatto consumati dal tempo,
+evidentemente deve esserci sotto un incantesimo...  
+~
+E
+targa~
+
++----------------------------------------+
+|                                        |
+| Piazzale Amruabad di Darnos (992-1027) |
+|                                        |
+|    Duca di Darnos ed Eroe del Regno    |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7501
+Porta Deirana~
+Un piccolo arco in pietra su una polverosa stradina delimita l'accesso alla
+citta' per chi proviene da Deira. Mercanti in transito con muli carichi di
+merci e soldati di ventura sono controllati dai solerti Dragoni Rossi, i
+Cavalieri del Ducato di Darnos. Un CARTELLO ricorda ai viaggiatori che si
+trovano vicini al confine con l'Aldaria.  
+~
+75 0 1
+D0
+~
+~
+0 0 20149 0
+D2
+~
+~
+0 0 7502 0
+E
+cartello~
+
++---------------------------------------------------------------+
+|    State per abbandonare i territori di Re Owain: tra due     |
+|          kilometri inizia il territorio Aldariano.            |
+|        Oltre confine chiunque e' tenuto all'osservanza        | 
+|                   delle leggi Aldariane.                      |
++---------------------------------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7502
+Viale Ramku~
+Attraversi l'ampio viale settentrionale della citta', e ti accorgi che
+tutt'intorno la gente lavora solertemente, anche se tutto sommato in modo
+tranquillo. Il viale si dipana da ovest a est, e vedi che ogni strada e'
+contrassegnata da una targa maiolicata con scritto il nome della via.
+Un CARTELLO e' posto al margine della strada.
+~
+75 0 1
+D0
+~
+~
+0 0 7501 0
+D1
+~
+~
+0 0 7503 0
+E
+cartello~
+
+.---------------------------------------------------------------.
+|                    Benvenuti in Sendaria!                     |
+|                                                               |
+|  Che il vostro soggiorno sia lieto e rispettoso delle leggi   |
+|                  vigenti nel nostro Regno.                    |
+|                                                               |
+|                                               Re Owain        |
+`---------------------------------------------------------------'
+~
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|    Viale Ramku di Darnos (960-1016)    |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7503
+Viale Ramku~
+Ti incammini per il viale, osservando con attenzione le costruzioni
+che vedi ai lati: sono tutte case di recente costruzione, piccole
+e semplici nella costruzione. Ma nell'insieme il viale ha una sua
+maestosita'. A nord vedi un vicoletto buio e sinistro sorvegliato 
+da due cavalieri armati di pugnale, a est invece il viale si allarga
+in un piazzale.
+~
+75 0 1
+D1
+~
+~
+0 0 7504 0
+D3
+~
+~
+0 0 7502 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|    Viale Ramku di Darnos (960-1016)    |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7504
+Piazzale Alorn~
+Sbuchi nella piazza settentrionale della citta', diresti che e' una
+specie di cittadella sopraelevata, semplice e spartana. La gente
+la attraversa di corsa avanti e indietro dai cantieri di lavoro.
+L'unica concessione all'estetica e' una statua di un giovane uomo
+dall'aria neghittosa posta al centro della piazza.
+~
+75 0 1
+D1
+~
+~
+0 0 7505 0
+D2
+~
+~
+0 0 7508 0
+D3
+~
+~
+0 0 7503 0
+E
+statua alorn~
+La statua raffigura un giovane dalle lunghe vesti nobiliari, che
+sembra guardarti con fare sprezzante: riconosci in lui Alorn di
+Darnos, il primo vero Duca di queste terre, prematuramente scomparso.
+~
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|   Piazzale Alorn di Darnos (999-1022)  |
+|                                        |
+|    Duca di Darnos ed Eroe del Regno    |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7505
+Viale Ramku~
+Il viale e' soleggiato e soffia una leggera brezza. Il lavoro della
+gente sembra frenetico e vivace: vedi molte persone che trainano
+carretti pieni di materiale da costruzione o trasportano sacchi
+di merce, ma pare che non avvertano il peso della fatica. A ovest
+il viale si allarga in un piazzale, mentre nelle altre direzioni
+vedi numerosi cantieri per la lavorazione delle merci.
+~
+75 0 1
+D1
+~
+~
+0 0 7506 0
+D3
+~
+~
+0 0 7504 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|    Viale Ramku di Darnos (960-1016)    |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7506
+Viale Ramku~
+Percorri la strada tra i cantieri, e resti ammirato nel vedere come
+la gente lavori con alacrita' ma col sorriso sulle labbra.
+Sei in una zona di cantieri e negozi: vedi a est una piccola piazza
+che chiude il viale, mentre a sud noti una specie di bottega 
+all'aperto, dev'essere l'ingrosso dei marmi.
+~
+75 0 1
+D1
+~
+~
+0 0 7507 0
+D3
+~
+~
+0 0 7505 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|    Viale Ramku di Darnos (960-1016)    |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7507
+Piazzale Ramku~
+Ti trovi in una piazza circolare su cui si affacciano numerose
+botteghe. Qui si compra e vende mercanzia di vario genere, anche
+se la tipologia della maggioranza delle merci sembra poco 
+raffinata: materiale da costruzione, per lo piu'. Nel centro della
+piazza vedi la statua di un possente guerriero.
+~
+75 0 1
+D3
+~
+~
+0 0 7506 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|   Piazzale Ramku di Darnos (960-1016)  |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+E
+statua ramku~
+Capisci subito che le fattezze qui scolpite sono quelle del prode Ramku,
+il primo grande guerriero della storia della Daresia, e fondatore della
+dinastia di Darnos che governa il Ducato. Un eroe leggendario, le cui
+gesta sono perse nelle nebbie del mito.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7508
+Corso Talador~
+Ti trovi all'inizio di un'ampia strada che attraversa la citta' da nord
+a sud. Vedi passare Dragoni Rossi nella loro lucente uniforme, e
+mercanti indaffarati a portare le loro merci ai negozi. Ad est ti pare
+di vedere un emporio di arnesi da lavoro, mentre a nord il corso
+sfocia in una larga piazza d'armi.
+~
+75 0 1
+D0
+~
+~
+0 0 7504 0
+D2
+~
+~
+0 0 7509 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|  Corso Talador Brightblade (964-1013)  |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7509
+Corso Talador~
+Cammini sul selciato del viale alberato: a mezzogiorno qui il sole 
+batte forte e le chiome dei faggi ai lati fanno schermo solo 
+parzialmente. In questo punto il traffico sembra piu' intenso, 
+vedi parecchia gente che attraversa di corsa la strada, e ogni 
+tanto passa qualche cavaliere di gran carriera: sembra che 
+tutti si dirigano verso il grande piazzale a sud.
+~
+75 0 1
+D0
+~
+~
+0 0 7508 0
+D2
+~
+~
+0 0 7500 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|  Corso Talador Brightblade (964-1013)  |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7510
+Corso Talador~
+Sei nella parte del corso a sud rispetto al castello del Duca,
+e questa zona sembra molto piu' tranquilla: le poche persone
+che sono per strada passeggiano con calma, e senti in lontananza
+le acque dell'Argath scorrere placide, mentre il vento muove
+appena le chiome degli alberi. A est vedi una piccola taverna 
+dall'aspetto tipico.
+~
+75 0 1
+D0
+~
+~
+0 0 7500 0
+D2
+~
+~
+0 0 7511 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|  Corso Talador Brightblade (964-1013)  |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7511
+Corso Talador~
+Ora sei defilato rispetto al centro della citta', nell'ampio viale
+alberato che la attraversa tutta in direzione nord-sud.
+Mentre cammini all'ombra dei faggi, noti che a nord si puo' scorgere
+in lontananza un castello merlato, mentre ti pare di capire che
+a sud ci sia un quartiere di abitazioni piccole e tranquille.
+~
+75 0 1
+D0
+~
+~
+0 0 7510 0
+D2
+~
+~
+0 0 7512 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|  Corso Talador Brightblade (964-1013)  |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7512
+Piazza Talador~
+Sbuchi in una piccola piazza dalla forma irregolare su cui confluiscono
+diverse strade. Da qui sembra si possa accedere ai quartieri meno
+trafficati e piu' pittoreschi di Sephrenia. Al centro della piazza
+vedi una fontana che porta acqua direttamente dall'Argath: l'impetuoso e
+fragoroso fiume oramai scorre tranquillo e anche la fontana porta
+quietamente acqua in questo silenzioso quartiere.
+Dietro la fontana vedi una statua di guerriero in combattimento.
+~
+75 0 1
+D0
+~
+~
+0 0 7511 0
+D1
+~
+~
+0 0 7519 0
+D3
+~
+~
+0 0 7523 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|  Piazza Talador Brightblade (964-1013) |
+|                                        |
+|     Condottiero ed Eroe del Regno      |
+|                                        |
++----------------------------------------+
+~
+E
+statua~
+La statua raffigura Talador Brightblade, il generale che porto' Sendaria
+alla gloria sul volgere del millennio: le sue gesta leggendarie sono
+ancora impresse nella memoria di molti. Qui e' raffigurato mentre
+brandisce due possenti spade a cavallo del suo drago.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7513
+Porta Lamorkiana~
+Un'ampia volta in cotto rosso separa l'abitato di Sephrenia dalla strada
+per Lamorka. Il traffico scorre lento e ordinato su tre file, una per i
+carri, una per i cavalieri, una per i viandanti a piedi. Ti trovi alle 
+porte della cittadina, di qui puoi tornare verso la capitale o dirigerti
+a ovest nell'ampio viale, verso il cuore della citta'.
+Un CARTELLO e' posto a lato della via.
+~
+75 0 1
+D3
+~
+~
+0 0 7514 0
+E
+cartello~
+
+.------------------------------------------------------.
+|     Lamorka-----------47km------------------->>>     |
+|                                                      |
+|     <<<---------------------55km-----------Deira     | 
+|                                                      |
+|  Il Duca di Darnos vi da' il benvenuto a Sephrenia   |
+`------------------------------------------------------'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7514
+Viale Ashmet~
+La strada che stai attraversando e' molto ampia: in mezzo c'e' un
+tratto sterrato per il passaggio dei carri, ai lati ci sono due
+ampi marciapiedi lastricati dove si puo' camminare all'ombra dei
+lecci, piantati a intervalli regolari. Poco a nord comincia un
+porticato, mentre a est vedi la trafficata porta della citta',
+che riporta verso la capitale.
+~
+75 0 1
+D1
+~
+~
+0 0 7513 0
+D3
+~
+~
+0 0 7515 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|     Viale Ashmet DeAbbey (975-1027)    |
+|                                        |
+|       Statista ed Eroe del Regno       |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7515
+Viale Ashmet~
+Cammini per il viale osservando ammirato la prospettiva creata 
+dalla lunga fila di alberi, ora alternati a lampioni. E' una 
+striscia chiara e continua e termina a ovest verso la piazza
+principale della citta', da cui senti provenire il rumore 
+allegro e chiassoso della folla.
+~
+75 0 1
+D1
+~
+~
+0 0 7514 0
+D3
+~
+~
+0 0 7500 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|     Viale Ashmet DeAbbey (975-1027)    |
+|                                        |
+|       Statista ed Eroe del Regno       |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7516
+Viale Ashmet~
+Non sei molto lontano dal centro della cittadina, eppure il tratto
+di viale che stai attraversando e' quieto e tranquillo, le persone
+che passano sono poche e camminano lentamente. Riesci perfino a
+udire una lieve brezza che passa tra le chiome degli alberi facendole
+ondeggiare. A lato della strada vedi tra le costruzioni basse un 
+edificio in pietra chiara, probabilmente un tempio. A est ritorni
+nella trafficata piazza principale di Sephrenia.
+~
+75 0 1
+D1
+~
+~
+0 0 7500 0
+D3
+~
+~
+0 0 7517 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|     Viale Ashmet DeAbbey (975-1027)    |
+|                                        |
+|       Statista ed Eroe del Regno       |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7517
+Viale Ashmet~
+I filari di alberi piantati ai lati del marciapiede disegnano
+lunghe ombre al tramonto. Sei quasi al termine di questo viale
+che sfocia a ovest in una piazza silenziosa: l'atmosfera e'
+crepuscolare, intorno senti un calmo silenzio e respiri un
+profumo delicato di rose.
+~
+75 0 1
+D1
+~
+~
+0 0 7516 0
+D3
+~
+~
+0 0 7518 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|     Viale Ashmet DeAbbey (975-1027)    |
+|                                        |
+|       Statista ed Eroe del Regno       |
+|                                        |
++----------------------------------------+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7518
+Piazza Ashmet~
+Sei in una piccola piazza di forma ovale, col perimetro delineato
+da alti cipressi. Dappertutto e' silenzio. Un piccolo colonnato 
+bianco si apre verso ovest, dev'essere il cimitero della citta'.
+Verso est il viale conduce in direzione del centro tra alti
+filari di alberi quieti. Nel centro della piazza vedi una statua
+di un uomo alto avvolto in un ampio mantello.
+~
+75 0 1
+D1
+~
+~
+0 0 7517 0
+E
+targa~
+
++----------------------------------------+
+|                                        |
+|    Piazza Ashmet DeAbbey (975-1027)    |
+|                                        |
+|       Statista ed Eroe del Regno       |
+|                                        |
++----------------------------------------+
+~
+E
+statua~
+La statua che raffigura il Cancelliere Ashmet DeAbbey sembra fissarti
+con un'espressione severa dal marmo in cui e' scolpita. Il
+celebre ministro che ha servito Sendaria sotto due monarchie e'
+rappresentato nell'atto di leggere una pergamena, mentre con
+l'altra mano rinfodera un pugnale.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7519
+Via Lyer~
+You are in an unfinished room.
+~
+75 0 1
+D1
+~
+~
+0 0 7520 0
+D3
+~
+~
+0 0 7512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7520
+Via Lyer~
+You are in an unfinished room.
+~
+75 0 1
+D1
+~
+~
+0 0 7521 0
+D3
+~
+~
+0 0 7519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7521
+Via Lyer~
+You are in an unfinished room.
+~
+75 0 1
+D2
+~
+~
+0 0 7522 0
+D3
+~
+~
+0 0 7520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7522
+Piazzetta Lyer~
+You are in an unfinished room.
+~
+75 0 1
+D0
+~
+~
+0 0 7521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7523
+Via Nexus~
+You are in an unfinished room.
+~
+75 0 1
+D1
+~
+~
+0 0 7512 0
+D3
+~
+~
+0 0 7524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7524
+Via Nexus~
+You are in an unfinished room.
+~
+75 0 1
+D1
+~
+~
+0 0 7523 0
+D3
+~
+~
+0 0 7525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7525
+Via Nexus~
+You are in an unfinished room.
+~
+75 0 1
+D1
+~
+~
+0 0 7524 0
+D2
+~
+~
+0 0 7526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7526
+Giardini Nexus~
+You are in an unfinished room.
+~
+75 0 1
+D0
+~
+~
+0 0 7525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

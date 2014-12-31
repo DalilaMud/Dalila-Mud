@@ -1,0 +1,713 @@
+#4200
+Ingresso alla vecchia prigione.~
+You are in an unfinished room.
+~
+42 0 0
+D5
+~
+~
+0 0 4201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4201
+Un passaggio buio.~
+You are in an unfinished room.
+~
+42 65928 0
+D5
+~
+~
+0 0 4202 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4202
+Una cella davvero orribile.~
+You are in an unfinished room.
+~
+42 268435657 0
+D3
+~
+~
+0 0 4203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4203
+Un angolo maleodorante.~
+You are in an unfinished room.
+~
+42 201 0
+D1
+~
+~
+0 0 4202 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4204
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4205
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4206
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4207
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4208
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4209
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4210
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4211
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4212
+Un giardino abbandonato.~
+You are in an unfinished room.
+~
+42 0 0
+D5
+~
+grata~
+1 0 4213 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4213
+Sotto una grata.~
+You are in an unfinished room.
+~
+42 0 0
+D3
+~
+~
+0 0 4214 0
+D4
+~
+grata~
+1 0 4212 1
+D5
+~
+~
+0 0 4215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4214
+Una stanzetta fiocamente illuminata.~
+You are in an unfinished room.
+~
+42 0 0
+D1
+~
+~
+0 0 4213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4215
+Una vecchia scala a pezzi.~
+You are in an unfinished room.
+~
+42 0 0
+D5
+~
+~
+0 0 4216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4216
+Incrocio delle fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4234 0
+D1
+~
+~
+0 0 4217 0
+D2
+~
+~
+0 0 4218 0
+D3
+~
+~
+0 0 4219 0
+D4
+~
+~
+0 0 4215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4217
+Uno strano ammasso spugnoso che pulsa.~
+You are in an unfinished room.
+~
+42 0 0
+D3
+~
+~
+0 0 4216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4218
+Una spaccatura nel muro.~
+You are in an unfinished room.
+~
+42 408 0
+D0
+~
+~
+0 0 4216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4219
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D1
+~
+~
+0 0 4216 0
+D3
+~
+~
+0 0 4220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4220
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D1
+~
+~
+0 0 4219 0
+D2
+~
+~
+0 0 4224 0
+D4
+~
+~
+0 0 4222 0
+D5
+~
+~
+0 0 4221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4221
+Un pozzo senza fondo.~
+You are in an unfinished room.
+~
+42 14 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#4222
+Una scala di pietra.~
+You are in an unfinished room.
+~
+42 0 0
+D4
+~
+~
+0 0 4223 0
+D5
+~
+~
+0 0 4220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4223
+L'antro oscuro.~
+You are in an unfinished room.
+~
+42 0 0
+D5
+~
+~
+0 0 4222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4224
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4220 0
+D2
+~
+~
+0 0 4225 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4225
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4224 0
+D2
+~
+~
+0 0 4226 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4226
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4225 0
+D2
+~
+~
+0 0 4227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4227
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4226 0
+D1
+~
+~
+0 0 4229 0
+D2
+~
+~
+0 0 4228 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4228
+La FINE.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4229
+Il fondo di un vecchio pozzo.~
+You are in an unfinished room.
+~
+42 0 0
+D1
+~
+~
+0 0 4230 0
+D3
+~
+~
+0 0 4227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4230
+Un vicolo cieco.~
+You are in an unfinished room.
+~
+42 0 0
+D3
+~
+~
+0 0 4229 0
+D4
+~
+~
+0 0 4231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4231
+Un appoggio molto precario.~
+You are in an unfinished room.
+~
+42 0 0
+D4
+~
+~
+0 0 4232 0
+D5
+~
+~
+0 0 4230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4232
+Un appoggio davvero rischioso.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4233 0
+D5
+~
+~
+0 0 4231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4233
+Un piccolo incavo.~
+You are in an unfinished room.
+~
+42 0 0
+D2
+~
+~
+0 0 4232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4234
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4235 0
+D2
+~
+~
+0 0 4216 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4235
+Luride fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4236 0
+D2
+~
+~
+0 0 4234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4236
+Un bivio nelle fogne.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4237 0
+D2
+~
+~
+0 0 4235 0
+D4
+~
+~
+0 0 4238 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4237
+Una colata di acido mortale.~
+You are in an unfinished room.
+~
+42 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#4238
+Una scala di pietra.~
+You are in an unfinished room.
+~
+42 0 0
+D4
+~
+~
+0 0 4239 0
+D5
+~
+~
+0 0 4236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4239
+Una scala di pietra.~
+You are in an unfinished room.
+~
+42 0 0
+D4
+~
+~
+0 0 4240 0
+D5
+~
+~
+0 0 4238 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4240
+Una stanzetta angusta.~
+You are in an unfinished room.
+~
+42 256 0
+D2
+~
+~
+0 0 4241 0
+D4
+~
+tombino~
+2 0 4242 9
+D5
+~
+~
+0 0 4239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4241
+Una vecchia bettola.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4240 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4242
+Una camera ardente.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4246 0
+D2
+~
+~
+0 0 4243 0
+D5
+~
+tombino~
+2 0 4240 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4243
+Un corridorio tortuoso.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4242 0
+D2
+~
+~
+0 0 4244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4244
+Un corridorio tortuoso.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4243 0
+D2
+~
+~
+0 0 4245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4245
+Una trave.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4244 0
+D5
+~
+~
+0 0 4208 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4246
+Un corridorio tortuoso.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4247 0
+D2
+~
+~
+0 0 4242 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4247
+Un corridorio tortuoso.~
+You are in an unfinished room.
+~
+42 0 0
+D0
+~
+~
+0 0 4248 0
+D2
+~
+~
+0 0 4246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4248
+Una trave.~
+You are in an unfinished room.
+~
+42 0 0
+D2
+~
+~
+0 0 4247 0
+D4
+~
+~
+0 0 4249 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4249
+Una scala di corda.~
+You are in an unfinished room.
+~
+42 0 0
+D4
+~
+~
+0 0 4250 0
+D5
+~
+~
+0 0 4248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#4250
+Una radura nel bosco.~
+You are in an unfinished room.
+~
+42 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

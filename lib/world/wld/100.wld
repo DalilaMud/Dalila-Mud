@@ -1,0 +1,1657 @@
+#10000
+Un sentiero sui pianori~
+   Sei su un sentiero che esce da Chyrellos. Il sentiero non permette
+una buona andatura, ma e' relativamente ben tenuto. A sud c'e' Chyrellos,
+mentre questo sentiero conduce a nord.
+~
+100 0 2
+D0
+Il sentiero continua a nord.
+~
+~
+0 0 10001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10001
+Lungo il sentiero~
+   Sei sul sentiero che esce da Chyrellos. Il sentiero principale conduce
+a nord mentre a sud c'e' Chyrellos. Vedi sentieri ad est e ad ovest,
+probabili piste di cervo.
+~
+100 0 2
+D0
+Ti godi il panorama.
+~
+~
+0 0 10004 0
+D1
+Vedi il piccolo sentiero.
+~
+~
+0 0 10003 0
+D3
+Vedi il piccolo sentiero.
+~
+~
+0 0 10002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10002
+Un piccolo sentiero~
+   Questo piccolo sentiero di cervo conduce a nord e ad est.
+~
+100 0 2
+D0
+La pista continua a nord.
+~
+~
+0 0 10067 0
+D1
+Il sentiero principale e' ad est.
+~
+~
+0 0 10001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10003
+Un piccolo sentiero~
+   Questo piccolo sentiero di cervo conduce a nord e ad ovest.
+~
+100 0 2
+D0
+La pista continua a nord.
+~
+~
+0 0 10049 0
+D3
+Il sentiero principale e' ad ovest.
+~
+~
+0 0 10001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10004
+La panoramica~
+   Sei sopra una grande valle. Sotto di te vedi errare delle forme umanoidi.
+Erba verde ricopre la valle, alcuni piccoli alberi punteggiano il
+panorama. A sud c'e' la pista che porta verso Chyrellos.
+~
+100 0 2
+D2
+Vedi la pista che porta verso Chyrellos.
+~
+~
+0 0 10001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10005
+L'ingresso alla Valle degli Elfi~
+   Sei all'ingresso della Valle degli Elfi. Alcuni ti guardano male a
+causa della tua intrusione, ma la maggior parte sono troppo occupati per
+infastidirti. La valle si estende a nord e a sud.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10010 0
+D2
+~
+~
+0 0 1496520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10006
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a nord e ad est.
+~
+100 0 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10007
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a nord e ad ovest.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10008
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a nord e ad est.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10009
+La Valle degli Elfi~
+Sei nella valle degli Elfi. Derry il Cavaliere si sta' riposando
+dopo l'ultima battaglia. Forse sarebbe meglio lasciarlo in pace.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10010
+La Valle degli Elfi~
+Sei nella Valle degli Elfi. La valle continua verso sud e ovest.
+~
+100 0 2
+D2
+Vede l'ingresso alla valle.
+~
+~
+0 0 10005 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10011
+La Valle degli Elfi~
+   Sei nella Valle degli Elfi. La valle continua in tutte le direzioni.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10016 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10012 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10012
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a nord e ad ovest.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10017 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10013
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Un umido sentiero sale verso
+la pista di cervo che circonda la valle. La valle continua a nord, a sud e
+ad est.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10018 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10014 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10008 0
+D4
+Un umido sentiero sale verso la pista.
+~
+~
+0 0 10063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10014
+La Valle degli Elfi~
+   Sei nella Valle degli Elfi. La valle continua in tutte le direzioni.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10019 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10015 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10015
+La Valle degli Elfi~
+E nella Valle degli Elfi.  La valle continua in tutti istruzioni per l'uso.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10020 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10016 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10016
+La Valle degli Elfi~
+   Sei nella Valle degli Elfi. La valle continua in tutte le direzioni.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10021 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10017 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10011 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10017
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Un umido sentiero sale verso
+la pista di cervo che circonda la valle. La valle continua a nord, a sud e
+ad ovest.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10022 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10012 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10016 0
+D4
+La pista sale verso l'alto.
+~
+~
+0 0 10053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10018
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a sud e ad est.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10019 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10019
+La Valle degli Elfi~
+   Sei nella Valle degli Elfi.  La valle continua in tutte le direzioni.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10023 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10020 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10014 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10020
+La Valle degli Elfi~
+   Sei nella Valle degli Elfi.  La valle continua in tutte le direzioni.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10024 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10021 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10015 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10021
+La Valle degli Elfi~
+   Sei nella Valle degli Elfi.  La valle continua in tutte le direzioni.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10025 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10022 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10016 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10022
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a sud e ad ovest.
+~
+100 0 2
+D2
+La valle continua a sud.
+~
+~
+0 0 10017 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10023
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a sud e ad est.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10024 0
+D2
+La valle continua a sud
+~
+~
+0 0 10019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10024
+Il margine della Valle~
+   Sei nella Valle degli Elfi.  La valle continua in tutte le direzioni.
+Al nord una piccola, stretta pista, si allontana dalla valle.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10025 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10020 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10025
+Il margine della Valle~
+   Sei al margine della Valle degli Elfi. Alto sopra di te, vedi una
+piccola pista che circonda la valle intera. La valle continua a sud e ad ovest.
+~
+100 0 2
+D2
+La valle continua a sud.
+~
+~
+0 0 10021 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10026
+Una pista che si allontana dalla valle~
+    Sei su una stretta pista che si allontana dalla Valle degli Elfi. Questa
+pista porta a nord. Una scala di corda sale fino ad un ponte di corda.
+~
+100 0 2
+D0
+La pista continua a nord.
+~
+~
+0 0 10027 0
+D4
+~
+~
+0 0 10058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10027
+Lungo la pista~
+   Sei sulla pista che si allontana dalla Valle degli Elfi. Le colline intorno
+a te mantengo questa pista stretta. La pista continua a sud e ad ovest.
+~
+100 0 2
+D2
+La pista torna indietro a sud verso la valle.
+~
+~
+0 0 10026 0
+D3
+La pista continua ad ovest.
+~
+~
+0 0 10068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10028
+Una curva nella pista~
+   Sei sulla pista che si allontana dalla Valle degli Elfi. Le colline intorno a te
+mantengo questa pista stretta. La pista continua a nord e ad ovest.
+~
+100 0 2
+D0
+Vedi una piccola valle a nord.
+~
+~
+0 0 10029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10029
+Una Valle più Piccola~
+   Sei in un'altra valle fra queste colline. A nord puoi vedere un
+edificio mentre a sud  vedi la pista che si allontana da questa valle.
+Dei sentieri ad est e ad ovest circondano questo edificio.
+~
+100 0 2
+D1
+Vedi la pista intorno all'edificio.
+~
+~
+0 0 10031 0
+D2
+Vedi la pista che si allontana da questa valle.
+~
+~
+0 0 10028 0
+D3
+Vedi la pista intorno all'edificio.
+~
+~
+0 0 10030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10030
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce a nord e
+ad est. l nord-est c'e' un edificio.
+~
+100 0 2
+D0
+Vedi la pista.
+~
+~
+0 0 10032 0
+D1
+Vedi la pista.
+~
+~
+0 0 10029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10031
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce ad ovest e
+ad est. A nord c'e' un edificio.
+~
+100 0 2
+D1
+Vedi la pista.
+~
+~
+0 0 10033 0
+D3
+Vedi la pista.
+~
+~
+0 0 10029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10032
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce a nord e
+a sud. Ad est c'e' un edificio.
+~
+100 0 2
+D0
+Vedi la pista.
+~
+~
+0 0 10037 0
+D2
+Vedi la pista.
+~
+~
+0 0 10030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10033
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce a nord e
+ad ovest.  A nord-ovest c'e' un edificio.
+~
+100 0 2
+D0
+Vedi la pista.
+~
+~
+0 0 10036 0
+D3
+Vedi la pista.
+~
+~
+0 0 10031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10034
+La casa degli Elfi~
+   Sei nella casa degli Elfi della valle. L'edificio continua a nord
+e ad est, l'uscita e' a sud.
+~
+100 12 0
+D0
+L'edificio continua a nord.
+~
+~
+0 0 10038 0
+D1
+L'edificio continua ad est.
+~
+~
+0 0 10035 0
+D2
+L'uscita e' a sud.
+~
+~
+0 -1 1495513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10035
+La cucina~
+   Sei in una cucina della comunita' di questa casa degli Elfi della valle.
+Pentole e tegami sono appesi ai muri, insieme con mensole ripiene di molti
+generi alimentari. Un grande forno e' da un lato e puoi sentire l'odore delle
+torte degli elfi cotte al forno. C'e' un passaggio a nord ed uno ad ovest.
+~
+100 8 0
+D0
+L'edificio continua a nord.
+~
+~
+0 0 10039 0
+D3
+L'edificio continua ad ovest.
+~
+~
+0 0 10034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10036
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi.  Questa pista conduce a nord e
+a sud. Ad ovest c'e' un edificio.
+~
+100 0 2
+D0
+Vedi la pista.
+~
+~
+0 0 10040 0
+D2
+Vedi la pista.
+~
+~
+0 0 10033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10037
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi.  Questa pista conduce a nord e
+a sud. Ad est c'e' un edificio.
+~
+100 0 2
+D0
+Vedi la pista.
+~
+~
+0 0 10041 0
+D2
+Vedi la pista.
+~
+~
+0 0 10032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10038
+Il soggiorno~
+   Sei nel soggiorno della casa degli Elfi. Stuoie ricoprono il pavimento,
+e su una tavola c'e' una ciotola pieno di frutta. Attraverso la finestra puoi
+vedere la valle, coi suoi fiori selvatici ed erba alta.
+~
+100 8 0
+D1
+L'edificio continua ad est.
+~
+~
+0 0 10039 0
+D2
+L'ingresso e' a sud.
+~
+~
+0 0 10034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10039
+La dispensa~
+   Sei nella dispensa della casa degli Elfi. Sacchi di farina sono
+ammonticchiati da un lato, ed accessori per le pulizie dall'altro.
+Non trovi nulla di utile qui per te. Una scala conduce di sopra.
+~
+100 8 0
+D2
+L'edificio continua a sud.
+~
+~
+0 0 10035 0
+D3
+L'edificio continua ad ovest.
+~
+~
+0 0 10038 0
+D4
+~
+~
+0 0 10048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10040
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce a nord e
+a sud. Ad ovest c'e' un edificio.
+~
+100 0 2
+D0
+Vedi la pista.
+~
+~
+0 0 10044 0
+D2
+Vedi la pista.
+~
+~
+0 0 10036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10041
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce a sud e
+ad est. A sud-est c'e' un edificio.
+~
+100 0 2
+D1
+Vedi la pista.
+~
+~
+0 0 10042 0
+D2
+Vedi la pista.
+~
+~
+0 0 10037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10042
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce ad ovest e
+est.  A sud c'e' un edificio.
+~
+100 0 2
+D1
+Vedi la pista.
+~
+~
+0 0 10043 0
+D3
+Vedi la pista.
+~
+~
+0 0 10041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10043
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce ad est e
+ad ovest. A sud c'e' un edificio.
+~
+100 0 2
+D1
+Vedi la pista.
+~
+~
+0 0 10044 0
+D3
+Vedi la pista.
+~
+~
+0 0 10042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10044
+Una pista nella Valle~
+   Sei sulla pista nella Valle degli Elfi. Questa pista conduce a sud e
+ad ovest. A nord c'e' una foresta. A sud-ovest c'e' un edificio.
+~
+100 0 2
+D2
+Vedi la pista.
+~
+~
+0 -1 10040 0
+D3
+Vedi la pista.
+~
+~
+0 0 10043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10045
+La stanza degli anziani~
+   Sei nella stanza degli anziani degli Elfi della valle. Libri scritti in una
+strana lingua sono sulle numerose mensole, rotoli di carta sono appoggiati su
+una tavola. C'e' un oggetto liscio e sferico al centro della stanza.
+~
+100 8 0
+D0
+Una porta blocca l'uscita.
+~
+porta~
+1 10005 10047 7
+D1
+Una porta blocca l'uscita.
+~
+porta~
+2 10004 10046 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10046
+La dispensa~
+   Sei nella dispensa. Molti inutili (per te) articoli riempiono questa stanza.
+~
+100 8 0
+D0
+Una porta blocca l'uscita.
+~
+porta~
+2 10004 10048 15
+D3
+Una porta blocca l'uscita.
+~
+porta~
+2 10004 10045 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10047
+I dormitori~
+   Sei nei dormitori degli Elfi della valle. Brande sono allineate sul
+pavimento, due finestre mostrano una incantevole panoramica della valle.
+Libri in lingue strane sono sulle mensole, ma non c'e' nulla di interessante qui.
+~
+100 8 0
+D1
+Una porta blocca l'uscita.
+~
+porta~
+1 -1 10048 3
+D2
+Una porta blocca l'uscita.
+~
+porta~
+1 10005 10045 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10048
+Studio~
+   Sei nello studio degli Elfi della valle. Stuoie comode sono sul pavimento,
+e strumenti musicali sono sistemati ordinatamente in scansie. Libri in
+lingue strane ne affiancano altri in elfico. Una scalinata scende al primo
+piano.
+~
+100 8 0
+D2
+Una porta blocca l'uscita.
+~
+porta~
+2 10004 10046 15
+D3
+Una porta blocca l'uscita.
+~
+porta~
+1 -1 10047 3
+D5
+~
+~
+0 0 10039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10049
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D1
+~
+~
+0 0 10050 0
+D2
+~
+~
+0 0 10003 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10050
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D0
+~
+~
+0 0 10051 0
+D3
+~
+~
+0 0 10049 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10051
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D1
+~
+~
+0 0 10052 0
+D2
+~
+~
+0 0 10050 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10052
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D0
+~
+~
+0 0 10053 0
+D3
+~
+~
+0 0 10051 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10053
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+Una pista sicura scende nella valle.
+~
+100 0 2
+D0
+~
+~
+0 0 10054 0
+D2
+~
+~
+0 0 10052 0
+D5
+Una pista sicura scende nella valle.
+~
+~
+0 0 10017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10054
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D2
+~
+~
+0 0 10053 0
+D3
+~
+~
+0 0 10055 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10055
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D0
+~
+~
+0 0 10056 0
+D1
+~
+~
+0 0 10054 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10056
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D2
+~
+~
+0 0 10055 0
+D3
+~
+~
+0 0 10057 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10057
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D1
+~
+~
+0 0 10056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10058
+Sul ponte in corda~
+   Sei sul ponte di corda. Da qui, puoi vedere l'intera Valle degli
+Elfi. A sud vedi la valle principale. A nord-est, vedi una valle piu'
+piccola con un edificio al centro. A nord-ovest puoi vedere una
+valle molto piccola con una capanna al centro. Una scala di corda
+scende nella pista. C'e' una strana capanna ad ovest.
+~
+100 0 2
+D3
+Una porta massiccia blocca l'entrata ad una strana capanna.
+~
+porta~
+1 -1 10081 3
+D5
+~
+~
+0 0 10026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10059
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D3
+~
+~
+0 0 10060 0
+D5
+La pista non sembra sicura.
+~
+~
+0 0 10083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10060
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D1
+~
+~
+0 0 10059 0
+D2
+~
+~
+0 0 10061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10061
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D0
+~
+~
+0 0 10060 0
+D3
+~
+~
+0 0 10062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10062
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D1
+~
+~
+0 0 10061 0
+D2
+~
+~
+0 0 10063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10063
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+Una pista sicura scende nella valle.
+~
+100 0 2
+D0
+~
+~
+0 0 10062 0
+D2
+~
+~
+0 0 10064 0
+D5
+La pista sembra sicura.
+~
+~
+0 0 10013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10064
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D0
+~
+~
+0 0 10063 0
+D1
+~
+~
+0 0 10065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10065
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D2
+~
+~
+0 0 10066 0
+D3
+~
+~
+0 0 10064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10066
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D0
+~
+~
+0 0 10065 0
+D1
+~
+~
+0 0 10067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10067
+Lungo una pista ventosa sul margine della valle~
+   Sei su una pista stretta sul margine della Valle degli Elfi. Sotto di te
+puoi vedere la valle, piena di fiori selvatici ed erba alta.
+~
+100 0 2
+D2
+~
+~
+0 0 10002 0
+D3
+~
+~
+0 0 10066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10068
+Una curva nella pista~
+   Sei in una curva proveniente dalla pista dalla valle principale. Le colline
+intorno rendono questa pista piuttosto stretta.
+~
+100 0 2
+D0
+La pista continua a nord.
+~
+~
+0 0 10069 0
+D1
+La pista continua ad est.
+~
+~
+0 0 10027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10069
+Una curva nella pista~
+   Sei in una curva proveniente dalla pista dalla valle principale. Le colline
+intorno rendono questa pista piuttosto stretta. Ad ovest puoi vedere una valle
+piu' piccola, con una capanna al centro.
+~
+100 4 2
+D2
+La pista continua a sud.
+~
+~
+0 0 10068 0
+D3
+~
+~
+0 0 1493524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10070
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. L'uscita da questa valle e' ad
+est e l'ingresso alla capanna e' ad ovest.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10071 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10071
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. A sud-ovest c'e' una piccola capanna.
+~
+100 0 2
+D2
+La valle continua a sud.
+~
+~
+0 0 10070 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10072
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. A nord-ovest c'e' una piccola capanna.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10070 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10073
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. A sud c'e' una piccola capanna.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10071 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10074
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. A sud-est c'e' una piccola capanna.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10073 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10075
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. Ad est c'e' una piccola capanna.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10074 0
+D2
+La valle continua a sud.
+~
+~
+0 0 10076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10076
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. A nord-est c'e' una piccola capanna.
+~
+100 0 2
+D0
+La valle continua a nord.
+~
+~
+0 0 10075 0
+D1
+La valle continua ad est.
+~
+~
+0 0 10077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10077
+La Valle Piccola~
+   Sei nella piccola valle. Stranamente, qui crescono alti alberi, come se
+se fosse stata usata qualche strana magia. A nord c'e' una piccola capanna.
+~
+100 0 2
+D1
+La valle continua ad est.
+~
+~
+0 0 10072 0
+D3
+La valle continua ad ovest.
+~
+~
+0 0 10076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10078
+Dentro la piccola capanna~
+   Sei all'interno della piccola capanna. Una piccola stufa e' da un lato, con
+sopra una zuppa cotta. Non vedi niente di prezioso.
+~
+100 8 0
+D3
+~
+~
+0 0 1497528 0
+D5
+Vedi una botola!
+~
+botola~
+1 -1 10079 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10079
+Sotto la piccola capanna~
+Sei sotto la piccola capanna, in un tunnel che conduce a sud. C'e'
+piuttosto caldo quaggiu'.
+~
+100 9 0
+D2
+La stanza e' rossastra laggiu'.
+~
+~
+0 0 10080 0
+D4
+Indietro in territorio conosciuto!
+~
+botola~
+1 -1 10078 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10080
+Il nascondiglio della Piroidra~
+   Sei nel nascondiglio della piroidra. Tutti le pareti sono carbonizzate,
+e questa stanza e' piena di un puzzo simile alla pece bruciata.
+~
+100 9 0
+D0
+C'e' una relativa sicurezza a nord.
+~
+~
+0 0 10079 0
+D1
+Vedi le pareti carbonizzate ad est.
+~
+segreto~
+1 10005 10082 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10081
+Il Laboratorio~
+   Questa stanza e' usata per studi magici. Pozioni stanno bollendo sopra
+fuochi, e l'intera stanza e' piena di incantesimi e carni di animali morti.
+Un forno getta una luce brillante in questa stanza. Tutta la stanza e' piena
+di un'aura magica. Scorgi una porta massicia ad est.
+~
+100 8 0
+D1
+Nothing.
+Una porta massiccia.
+~
+porta~
+1 -1 10058 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10082
+La dispensa~
+   Questa stanza e' usata come magazzino di rotoli di carta, pozioni ed altri
+articoli magici. Tutta la stanza e' piena di un'aura magica.
+~
+100 8 0
+D3
+~
+porta segreta~
+1 10005 10080 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#10083
+Lontano giu' nella valle~
+   Sei caduto mentre cercavi di scendere giu' per questa collina. Forse, dopotutto, non e'
+stata una buona idea, huh?
+
+
+   Sei caduto, e non puoi rialzarti!
+~
+100 4 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

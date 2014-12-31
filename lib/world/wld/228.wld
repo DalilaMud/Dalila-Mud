@@ -1,0 +1,259 @@
+#22800
+Cattedrale in costruzione Nord~
+ Ti trovi nella parte Nord di quella che sara' una &8&7Grande
+Cattedrale&0. Ci sono alcuni mattoni e delle lastre di marmo alla
+tua destra e degli operai che laboriosamente le trasportano nei
+luoghi indicati dal capo-Architetto.
+ Questa probabilmente sara' la Sala d'ingresso, se non sei qui
+per una visita turistica...bhe, al lavoro!
+~
+228 28 0
+D0
+~
+porta~
+1 0 9141 1
+D2
+~
+~
+0 -1 22801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22801
+Cattedrale in costruzione~
+ Sei nell'inizio della navata centale della Cattedrale, vedi
+robusti operai e famosi architetti al lavoro provenienti da tutte
+le terre conosciute.
+ Verso sud c'e' la continuazione della navata centrale mentre ad 
+est e ad ovest ci sono le navate laterali.
+~
+228 28 0
+D0
+~
+~
+0 -1 22800 0
+D1
+~
+~
+0 -1 22802 0
+D2
+~
+~
+0 -1 22804 0
+D3
+~
+~
+0 -1 22803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22802
+Cattedrale in costruzione~
+ Sei all'inizio della navata Est della Grande Cattedrale, verso
+sud continua la navata est mentre ad ovest c'e' la navata centrale.
+ Sara' proprio un bellissimo edificio quando sara' finito, le
+mura non sono ancora finite e gia' ti sembrano magnifiche, ricche
+di migliaia di decorazioni che sebbene non siano ultimate ti fanno
+girare la testa per il loro splendore.
+~
+228 28 0
+D2
+~
+~
+0 -1 22806 0
+D3
+~
+~
+0 -1 22801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22803
+Cattedrale in costruzione.~
+ Sei nella navata Ovest della Grande Cattedrale, e' davvero grande
+per essere una Chiesa!
+ Ad est torni alla navata centrale mentre verso sud continua la
+navata Ovest.
+~
+228 28 0
+D1
+~
+~
+0 -1 22801 0
+D2
+~
+~
+0 -1 22805 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22804
+Cattedrale in costruzione~
+ Eccoti nel sito di costruzione della parte centrale della Cattedrale,
+verso est ed ovest ci sono le navate laterali e riesci a scorgere
+in lontananza in entrambi le direzioni due piccole stanzine in
+costruzione, mentre a sud continua il grande cantiere della
+navata centrale.
+~
+228 28 0
+D0
+~
+~
+0 -1 22801 0
+D1
+~
+~
+0 -1 22806 0
+D2
+~
+~
+0 -1 22809 0
+D3
+~
+~
+0 -1 22805 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22805
+Cattedrale in costruzione~
+ Sei nella navata ovest della cattedrale in costruzione, verso
+ovest c'e' una piccola stanza, probabilmente li verra' creato un
+altare, secondo l'architettura Tolnedriana.
+ E se la memoria non ti inganna, qui in Tolnedra e' molto usato
+creare altarini alle due estremita', molto probabilmente quindi
+ne verra' costuito un altro nella parte est.~
+228 28 0
+D0
+~
+~
+0 -1 22803 0
+D1
+~
+~
+0 -1 22804 0
+D3
+~
+~
+0 -1 22808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22806
+Cattedrale in costruzione~
+ Sei nella navata est della cattedrale in costruzione, verso
+est c'e' una piccola stanza, probabilmente li verra' creato un
+altare, secondo l'architettura Tolnedriana.
+ E se la memoria non ti inganna, qui in Tolnedra e' molto usato
+creare altarini alle due estremita', molto probabilmente quindi
+ne verra' costuito un altro nella parte ovest.~
+228 28 0
+D0
+~
+~
+0 -1 22802 0
+D1
+~
+~
+0 -1 22807 0
+D3
+~
+~
+0 -1 22804 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22807
+Cattedrale in costruzione~
+ Sei in una piccola stanza, anch'essa in costruzione, di cio' che
+diventera' La Grande Cattedrale di Cimmura.
+ A giudicare dalle dimensioni ridotte della stanza, che non
+potrebbe essere continuazione della navata proprio a causa di cio',
+si direbbe che qui sara' creato un altarino, e secondo le usanze
+Tolnedriane, ne sara' fatto un altro nella parte opposta, cioe'
+accanto alla navata ovest.
+~
+228 28 0
+D3
+~
+~
+0 -1 22806 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22808
+Cattedrale in costruzione~
+ Sei in una piccola stanza, anch'essa in costruzione, di cio' che
+diventera' La Grande Cattedrale di Cimmura.
+ A giudicare dalle dimensioni ridotte della stanza, che non
+potrebbe essere continuazione della navata proprio a causa di cio',
+si direbbe che qui sara' creato un altarino, e secondo le usanze
+Tolnedriane, ne sara' fatto un altro nella parte opposta, cioe'
+accanto alla navata est.~
+228 28 0
+D1
+~
+~
+0 -1 22805 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22809
+Cattedrale in costruzione~
+ Non riesci a comprendere cosa sara' creato in questa stanza,
+sembra che gli architetti la vogliano con volte molto alte e gli
+operai stanno lavorando tantissimo in larghezza e lunghezza perche'
+questa stanza sia grandissima.
+ Sebbene non sai a cosa sara' adibita questa stanza, ne' vedi
+alcune decorazioni da nessuna parte, le sole imponentissime mura
+ti fanno capire che questa parte della cattedrale sara' splendida,
+forse la piu' bella.
+~
+228 28 0
+D0
+~
+~
+0 -1 22804 0
+D1
+~
+~
+0 -1 22811 0
+D2
+~
+~
+0 -1 22810 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22810
+Cattedrale in costruzione~
+ Sei circondato da guardie cittadine e vedi delle signore, o meglio
+sacerdotesse, in alta uniforme che danno indicazioni agli architetti,
+questo ti fa pensare che forse questa sala potrebbe diventare la
+stanza degli Oracoli e delle Sacerdotesse, se e' cosi', allora
+dovrebbero costruire qui vicino le loro stanze private.
+~
+228 28 0
+D0
+~
+~
+0 -1 22809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22811
+Cattedrale in costruzione~
+ Sei in una sala non troppo grande quasi finita sebbene sia senza
+pavimentazione e il tetto non sia levigato molto bene.
+ A giudicare dalla forma sembrerebbe un piccolo salotto o una
+specie di camera da letto...forse per le sacerdotesse.
+~
+228 28 0
+D3
+~
+~
+0 -1 22809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,2282 @@
+#12001
+La cabina dei giudici~
+   Sei in mezzo ad una piccola stanza con finestre sulle pareti est
+e sud. Queste finestre permettono una vista completa dei campi di gara.
+Ci sono molti tabellini, matite ed altri articoli usati dai giudici
+seduti ad una tavola. La sola uscita e' una botola che scende in basso.
+~
+120 8 0
+D5
+C'e' una traballante scala che scende in basso.
+~
+botola~
+1 12033 12002 7
+E
+tabellini~
+Le schede sono state riempite dai giudici con le valutazioni dei
+combattimenti d'oggi. Sembra che per Spartaco sia stata una buona
+giornata.
+~
+E
+matita matite~
+Delle ordinarie matite di piombo. A giudicare dai segni di denti sull'asta,
+l'autore dovra' vedere un dentista molto presto!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12002
+Il palco privato di Cesare~
+   Questa e' la migliore vista della casa! Puoi vedere i combattimento dei
+gladiatori o le corse con le bighe senza avere la vista ostruita. I sedili
+sono tappezzati in velluto rosso per i VIP. C'e' una scala traballante che
+sale ed una scalinata di marmo che scende.
+~
+120 12 0
+D4
+Vedi una scala traballante ed una botola che portano in alto.
+~
+botola~
+1 12033 12001 7
+D5
+C'e' una scalinata di marmo che porta in basso.
+~
+~
+0 -1 12003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12003
+Il lato occidentale dei posti dei cittadini comuni~
+   Questo e' il lato occidentale dei posti riservati ai cittadini comuni. Ci
+sono file e file di grezze panche di legno. C'e' immondizia dappertutto nello
+stadio e l'odore fa vomitare. Gradini conducono fino alla cabina privata di
+Cesare, una piccola rampa scende sul campo di gioco ed un atrio porta a sud.
+~
+120 0 1
+D2
+Vedi l'atrio che porta ad una vasta zona.
+~
+~
+0 -1 12004 0
+D4
+Occhio allo scalino!
+~
+~
+0 -1 12002 0
+D5
+Occhio allo scalino!
+~
+~
+0 -1 12010 0
+E
+posti panche~
+Le panche sono fatte di legno grezzo fatto seccare prima del tempo. A sederti
+li' sopra probabilmente faresti una bella collezione di schegge. Le parole
+"BURT E' STATO QUI" sono intagliate in una delle panche con cura squisita.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12004
+I posti meridionale dei cittadini comuni~
+   Questa e' la parte sudorientale coi posti delle aree della gente comune.
+Le panche qui sono fatte di pietra e probabilmente sono vecchie di secoli.
+Alcuni scarabocchi su una delle panche attirano la tua attenzione. Un odore
+acre proviene da est ed un tunnel e' a nord.
+~
+120 0 1
+D0
+Il tunnel porta verso un'altra area con posti a sedere.
+~
+~
+0 -1 12003 0
+D1
+C'e' un odore acre che proviene da quella direzione.
+~
+~
+0 -1 12011 0
+E
+scarabocchi scarabocchio~
+Sembrano formare le parole "Onivel Cinemod Semaj". Ma potresti sbagliarti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12005
+Il Cancello Occidentale~
+Ti trovi al Cancello Occidentale della citta' di Roma.  La via e' molto
+trafficata,dal momento che questo e' l'unico accesso alla citta'.  Una guardia
+posta al cancello ti saluta con tono distaccato.    
+~
+120 8 0
+D1
+Attraverso le nubi di polvere, vedi una strada percorribile.
+~
+~
+0 -1 12012 0
+D2
+Vedi un negozio attraverso il fogliame.
+~
+~
+0 -1 12006 0
+D3
+~
+cancellata~
+1 0 1487590 3
+E
+cancellata~
+Il cancello e' arrugginito e permanentemente chiuso ed e' reso ancor piu'
+sicuro da una grande catena con lucchetto. Non credere di poterlo aprire.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12006
+Swords 'R Us~
+   Benvenuto nell'armeria di Tito Andronico!!! Alabarde rare, fruste, spade ed
+altri strumenti di morte sono orgogliosamente esposte sui muri ed in
+luccicanti vetrinette. Armi piu' comuni sono accatastate come pire di legno
+sul pavimento. A nord c'e' un cancello. C'e' una porta di sicurezza a sud.
+~
+120 136 0
+D0
+Vedi il cancello della citta' a nord.
+~
+~
+0 -1 12005 0
+D2
+C'e' una porta di sicurezza che blocca il tuo cammino. 
+~
+porta~
+2 12034 12007 15
+E
+armi spade corazza alabarde fruste~
+Tito ha l'occorrente per armare un grande esercito. Forse perche' ha un
+contratto vantaggiosissimo (per lui) con l'esercito dell'Imperatore a prezzi
+oltraggiosi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12007
+Il retrobottega~
+   Se hai pensato che c'erano molte armi nel negozio, e' perche' ancora non eri
+stato qui!!! C'e' appena spazio per camminare fra casse di armature e spade.
+Nessuno si puo' meravigliare se Roma e' stata in auge per un migliaio di anni.
+La sola uscita e' attraverso una porta a nord.
+~
+120 9 0
+D0
+Attraverso una pila di armi, vedi una porta che conduce a nord verso il resto
+del negozio.
+~
+porta~
+2 12034 12006 15
+E
+spade armi casse spada arma armatura cassa~
+Ce ne sono letteralmente migliaia di ognuno. Fai la tua scelta.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12008
+Piccionaia~
+   Sei cosi' in alto ora che cominci a provare le vertigini ed il tuo naso
+inizia a sanguinare. Non ci sono panche per sedersi qui; solo una nuda e
+sporca pietra. La vista del paese circostante e' spettacolare. Sfortunatamente
+puoi vedere appena il campo di gioco. Ci sono dei gradini che portano verso il
+basso.
+~
+120 0 1
+D5
+Occhio al gradino!
+~
+~
+0 -1 12015 0
+E
+paese panorama~
+Puoi vedere l'intera citta' di Roma da qui. Gli edifici del governo Romano sono
+ad est. A sud est, in lontananza, c'e' il massiccio acquedotto e piu' lontano
+ancora, sempre in quella direzione, c'e' la Montagna degli Dei.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12009
+Il campo di prova e di riscaldamento~
+   Ci sono molti gladiatori, conducenti di carri ed i loro allenatori qui, che
+si riscaldano in preparazione dei giochi. La polvere che si solleva dalla
+terra bruciata ti fa starnutire. Un corto tunnel conduce ad est mentre il rombo
+di zoccoli martellanti
+ed il clangore metallico delle armi provengono da sud.
+~
+120 0 2
+D1
+C'e' una grande pista ovale in quella direzione.
+~
+~
+0 -1 12016 0
+D2
+Senti il clangore delle armi ed il rombo di zoccoli in quella direzione.
+~
+~
+0 -1 12010 0
+E
+gladiatore~
+E' un grande uomo muscoloso con molti pezzi di armatura. Ti scruta attentamente
+e poi decide che non vale la pena di perder tempo con te.
+~
+E
+conducente~
+Il conducente e' troppo occupato a cambiare una ruota del carro per notarti.
+~
+E
+carro~
+Vedi un carro a due ruote che e' ovviamente tirato da cavalli. La fiammeggiante
+vernice ed il grande "01" riprodotto sul lato identifica il carro come
+appartenente a Drucilio "frusta selvaggia" Ottavio, il conducente favorito
+delle masse.
+~
+E
+istruttore allenatore~
+L'allenatore ti dice "Basta infastidire i miei atleti!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12010
+L'Arena~
+   Questa e' una piana erbosa. OCCHIO!!!! Sei quasi infilzato dalla lancia
+di un gladiatore che ti carica. Un'area di allenamento e' a nord.
+~
+120 4 2
+D0
+Attraverso un piccolo tunnel vedi degli atleti che si riscaldano per i giochi.
+~
+~
+0 -1 12009 0
+D4
+Vedi dei gradini che portano in alto verso i posti degli spettatori.  
+~
+~
+0 -1 12003 0
+E
+gladiatore~
+E' nella fase finale di un combattimento contro un suo avversario. THUD! CLANG!
+CRASH!!!!... a giudicare dal sangue e dalla distanza che ora separa la testa
+dei gladiatori dal resto del corpo, presumi che questo e' stato l'ultimo
+combattimento della sua vita.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12011
+Il pronto soccorso~
+   Questo e' il luogo dove si viene se si e' coperti di sangue. Vedi un vaso
+di sanguisughe vive ed altri barbari apparati medici. Da ovest proviene il
+ruggito della folla, ed una sala conduce ad est. Il guaritore sara' da te fra
+poco.
+~
+120 12 0
+D1
+Vedi centinaia, forse migliaia di persone.
+~
+~
+0 -1 12018 0
+D3
+File di posti di gradinata sono ad ovest.
+~
+~
+0 -1 12004 0
+E
+sanguisughe sanguisuga~
+DISGUSTOSO! Ognuna e' della misura di una scatola di cerini. Sei PROPRIO
+contento di essere un uomo di chiesa!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12012
+Una strada~
+   Sei su una bruciata e polverosa strada rurale che corre ad est e ad ovest.
+C'e' una struttura a sud.
+~
+120 0 2
+D1
+Attraverso la polvere, vedi una strada pavimentata.
+~
+~
+0 -1 12019 0
+D2
+E' difficile vedere attraverso la foschia e la polvere.
+~
+~
+0 -1 12013 0
+D3
+E' difficile vedere attraverso la foschia e la polvere.
+~
+~
+0 -1 12005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12013
+La Casa di un cittadino comune~
+   Sei nel soggiorno di un cittadino comune Romano. I mobili sono scarsi ed e'
+caldo qui. Un putrido odore proviene da est e passaggi conducono a nord e a 
+sud.
+~
+120 8 0
+D0
+Una strada e' a nord.
+~
+~
+0 -1 12012 0
+D1
+Che e' 'sto odore??!!! E' abbastanza forte da ammazzare uno yak!!!
+~
+~
+0 -1 12020 0
+D2
+Supponi che in quella direzione ci sia una camera da letto.
+~
+~
+0 -1 12014 0
+E
+mobili mobilia~
+I mobili che vedi sono molto semplici e lineari. Sono fati di legno grezzo
+tenuti insieme con chiodi. Sembrano molto scomodi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12014
+La camera da letto~
+   Questa e' la camera da letto. C'e' un letto duro e bitorzoluto nell'angolo
+lontano. Sembra che la moglie del cittadino comune abbia evitato i suoi doveri
+ultimamente, c'e' una grande pila di lavanderia sporca qui.
+~
+120 12 0
+D0
+Vedi il soggiorno a nord.
+~
+~
+0 -1 12013 0
+E
+lavanderia lava abbigliamento~
+Puzza di sudore ed e' coperto di fango.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12015
+Il palco dei Nobili~
+  Questi sono i posti "migliori" usati principalmente dalla nobilta' Romana.
+C'e' una grande area con posti a sedere ad est ed una scala porta in alto.
+La vista sulla pista dei carri e' abbastanza buona.
+~
+120 0 0
+D1
+File di gradinate sono ad est.
+~
+~
+0 -1 12022 0
+D4
+I gradini sembrano sicuri.
+~
+~
+0 -1 12008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12016
+L'ippodromo~
+   Questa e' una dura sporca pista lunga un quarto di miglio. Ci sono orme di
+zoccoli dappertutto, e vedi una grande nube di polvere che si avvicina. Faresti
+meglio a muoverti prima che ti raggiunga. Un piccolo tunnel conduce ad ovest,
+vedi la folla ad est. Senti forti ringhi e ruggiti provenire dal basso.
+~
+120 0 2
+D3
+Vedi atleti che si scaldano.
+~
+~
+0 -1 12009 0
+D4
+~
+~
+0 -1 12023 0
+D5
+Vuoi vedere dei leoni che non mangiano da alcuni giorni?
+~
+~
+0 -1 12017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12017
+La buca dei leoni~
+   Come atterri sul fondo di questa sporca buca cementata, realizzi che e' una
+buca piena di leoni e che non e' una buona cosa rimanere li'. Molti gladiatori
+si raggruppano intorno all'orlo della buca per assistere alla tua morte. Ti
+guardi attorno, tutto cio' che vedi sono pellicce bronzee e mascelle aperte...
+e' troppo tardi per correre, troppo tardi anche per nascondersi.
+Dodici leoni ti lacerano e le tue cose diventano una massa purulenta di cuoio
+insanguinato, bronzo ed ossa.
+
+   Come e' quel vecchio detto? 
+   Gatti uccisero il curioso? Qualcosa del genere, sicuramente.
+~
+120 10 0
+D4
+~
+~
+0 -1 12010 0
+D5
+~
+~
+0 -1 12016 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#12018
+L'entrata meridionale del Colosseo~
+   Sei all'ingresso meridionale del Colosseo. Ci sono cittadini di Roma
+dappertutto. Una statua di Caligola l'Imperatore Pazzo e' al centro dell'area.
+Ci sono lunghe file ad est, ed un odore acre proviene da ovest.
+Una strada trafficata e' a sud.
+~
+120 4 1
+D1
+Le file sono molto lunghe e la gente e' impaziente.
+~
+~
+0 -1 12025 0
+D2
+C'e' una strada in quella direzione.
+~
+~
+0 -1 12019 0
+D3
+Un acre odore, quasi di medicine, proviene da quella direzione.
+~
+~
+0 -1 12011 0
+E
+statua caligola~
+E' una grande statua di pietra di Caligola, l'Imperatore Pazzo.
+Sembra abbia in mano un fallo. Ha un ghigno sulla faccia che sembra
+dire "Vorresti il mio cavallo, scommetto..."
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12019
+La strada pubblica principale~
+Questa e' una strada ben costruita e trafficata che corre da est ad ovest
+e c'e' una grande struttura costruita interamente di pietra a nord.
+~
+120 0 1
+D0
+Senti il ruggito di una grande folla provenire da quella direzione.
+~
+~
+0 -1 12018 0
+D1
+La strada pubblica continua ad est.
+~
+~
+0 -1 12026 0
+D3
+La strada pubblica continua ad ovest.
+~
+~
+0 -1 12012 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12020
+La Capanna~
+   PEEEEEEEEEEEEEEEE-YEEEEEWWWWWWWW!!!!! Ragazzo, c'e' puzza qui!!!
+Senti la bile in bocca ed i tuoi occhi cominciano a lacrimare. Quando ti
+asciughi il viso, vedi che questa e' una piccola stanza, nell'angolo lontano
+c'e' un buco vangato. L'odore si intensifica quando ti avvicini e c'e' un
+rotolo di carta igienica in terra.
+La sola uscita e' ad ovest ed il tuo naso ti suggerisce caldamente di usarla.
+~
+120 8 0
+D3
+Il soggiorno e' in quella direzione. Perche' non ti fermi un po'?!? Per favore!
+~
+~
+0 -1 12013 0
+E
+buco toiletta~
+Ti avvicini al buco e vedi che c'e' un grande stronzo galleggiante in un una
+polla di acqua nera fonda 2 piedi. Come ti chini per vedere meglio, le tue
+narici assorbono una tale dose di puzza da farti sentire male.
+Il tuo stomaco ha deciso che ne hai avuto abbastanza.
+~
+E
+carta igienica~
+Ehi!! E' della marca migliore!! - marca della Nube Bianca aromatizzata.
+Il rotolo e' per meta' usato.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12021
+Gli alloggi degli schiavi~
+   Qui dormono gli schiavi. Ci sono dure assi usate come letti e non molto
+altro. La sola uscita e' ad est.
+~
+120 8 0
+D1
+Ad est, un ben tenuto sentiero passa attraverso l'appezzamento di un nobile.
+~
+~
+0 -1 12027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12022
+I posti dei cittadini comuni~
+   Questa e' la zona dove molti dei cittadini comuni Romani siedono durante i
+giochi. Questi sono i sedili piu' convenienti della casa, il sole e' di solito
+un problema durante il pomeriggio. Come le altre zone comuni, questo luogo
+avrebbe bisogno di restauro e pulizia completa.
+Questa area si estende a sud, ad ovest c'e' una zona con posti molto piu'
+eleganti.
+~
+120 0 1
+D2
+Continuano i posti dei cittadini comuni.
+~
+~
+0 -1 12023 0
+D3
+Posti molto piu' eleganti in quella direzione.
+~
+~
+0 -1 12015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12023
+I posti dei cittadini comuni~
+   Questa e' la zona dove molti dei cittadini comuni Romani siedono durante i
+giochi. Come tutte le aree per i cittadini comuni nel Colosseo, avrebbe bisogno
+di restauro e pulizia completa. Questa area si estende a nord, a sud c'e' molto
+rumore.
+~
+120 0 1
+D0
+Continuano i posti dei cittadini comuni.
+~
+~
+0 -1 12022 0
+D2
+Vedi centinaia, forse migliaia di persone.
+~
+~
+0 -1 12024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12024
+L'ingresso orientale del Colosseo~
+   Sei davanti all'ingresso est del Colosseo. C'e' gente  dappertutto. Una
+statua di Tiberio, un Imperatore di un tempo ormai passato, guarda da sopra la
+folla.
+C'e' un passaggio a nord, la biglietteria e' a sud ed un cancello e' ad est.
+~
+120 4 1
+D0
+Vedi file su file di gradinate.
+~
+~
+0 -1 12023 0
+D1
+Viale Nero e' in quella direzione.
+~
+~
+0 -1 12031 0
+D2
+Ci sono file MOLTO lunghe alla biglietteria.
+~
+~
+0 -1 12025 0
+E
+statua tiberio~
+La statua di Tiberio, in ferro, e' qui.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12025
+La biglietteria~
+   Ci sono lunghe file qui, in attesa di comprare i biglietti. Ci sono tre
+venditori che lavorano alacremente. Vecchi biglietti sono in terra e vedi che
+la gente e' molto impaziente. C'e' una cassa grande, aperta qui. Gli ingressi
+principali del Colosseo sono a nord e ad ovest.
+~
+120 8 0
+D0
+Vedi centinaia, forse migliaia di persone.
+~
+~
+0 -1 12024 0
+D3
+Vedi centinaia, forse migliaia di persone.
+~
+~
+0 -1 12018 0
+E
+cassa~
+E' una vergogna che il cambio dei soldi Romani sia cosi' basso. Quello che
+ammonta a una fortuna in Roma non ha piu' valore di una moneta d'oro.
+I contenuti della cassa arrivano a... beh... dimenticalo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12026
+Una strada pavimentata~
+Sei su una strada pavimentata che corre ad est e ad ovest. Vedi un elaborato
+appezzamento di terreno a sud e a nord-ovest; in lontananza, vedi una grande
+struttura in pietra.
+~
+120 0 1
+D1
+La strada comincia ad est.
+~
+~
+0 -1 12033 0
+D2
+Sembra l'appezzamento di terreno di un Nobile.
+~
+appezzamento casa~
+0 -1 12027 0
+D3
+La strada conduce ad ovest verso la strada pubblica.
+~
+~
+0 -1 12019 0
+E
+struttura~
+Probabilmente e' il Colosseo. Ci sono pochi buoni incontri programmati per
+oggi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12027
+L'appezzamento di un nobile~
+   Sei sull'appezzamento di terreno di un nobile che e' centinaia di volte la
+grandezza e lo splendore che un cittadino comune di Roma possa mai sperare di
+possedere. Tutto e' innaffiato e verde. L'erba e' ben curata e gli alberi sono
+pieni di frutta. Piante ornamentali sono perfettamente posizionate ed adornano
+le tre statue dedicate a Giove, Venere e Nettuno. Un percorso tranquillo
+conduce ad est e ad ovest, c'e' una strada pavimentata a nord ed una casa
+stravagante a sud.
+~
+120 0 2
+D0
+In lontananza vedi una strada pavimentata.
+~
+~
+0 -1 12026 0
+D1
+Il percorso conduce ad est attraverso l'appezzamento di terreno.
+~
+~
+0 -1 12034 0
+D2
+Vede una casa incredibile in lontananza.
+~
+~
+0 -1 12028 0
+D3
+Attraverso gli alberi, vedi una piccola capanna, semplice.
+~
+~
+0 -1 12021 0
+E
+Venere~
+Venere, la Dea Romana della bellezza e della conoscenza, esposta in tutto il
+suo splendore. 
+~
+E
+Giove~
+Una statua fatto di oro puro rappresenta Giove seduto sul suo trono.  Il trono
+e' d'argento.
+~
+E
+Nettuno~
+La statua di Nettuno e' di pura giada e ha in mano un tridente di cristallo.
+Siede al centro di un piccolo stagno e centinaia di bei pesci nuotano attorno
+a lui.
+~
+E
+arbusto arbusti albero alberi piante pianta~
+Tutte le piante, alberi ed arbusti sono perfettamente, senza foglie morte.
+Accetti volentieri l'ombra che danno.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12028
+Una casa opulenta~
+   Sei in una casa, con taglia e splendore che quasi sfidano l'immaginazione.
+Il pavimento e' di tessere di marmo con intarsi d'argento. La luce passa
+attraverso delle squisite finestre di vetro ed i mobili sembrano fatti dai
+migliori artigiani dell'impero.
+Un percorso attraversa l'appezzamento di terreno a nord di qui.
+~
+120 12 0
+D0
+Vedi un sentiero ben tenuto che attraversa l'appezzamento di terreno.
+~
+~
+0 -1 12027 0
+E
+tessere pavimento~
+Molto costoso!  Molti artigiani hanno lavorato a lungo e duramente per produrre
+un tale capolavoro.
+~
+E
+finestre~
+Sono intricate e le scene che rappresentano onorano i molti dei.
+~
+E
+mobili~
+Speri di possedere anche tu dei mobili simili un giorno o l'altro. Questi sono
+solo sogni, naturalmente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12029
+Le Mura Nord~
+La strada che stavi percorrendo termina in un vicolo cieco davanti alle Grandi
+Mura della citta'
+~
+120 0 1
+D0
+La cancellata e' di solido ferro e ben tenuta.
+~
+cancellata~
+2 -1 -1 15
+D2
+Viale Nero continua in quella direzione.
+~
+~
+0 -1 12030 0
+E
+cancellata~
+La cancellata e' di solido ferro e ben tenuta.
+~
+E
+strada~
+La strada e' larga e molto fangosa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12030
+Viale Nerone~
+   Cammini su una strada pavimentata che corre a sud attraverso la citta' di
+Roma. Un grande cancello e' a nord. I cittadini Romani sono molto amichevoli
+e ti salutano quando passi.
+~
+120 0 1
+D0
+A nord, vedi un cancello che porta fuori dalla citta'.
+~
+~
+0 -1 12029 0
+D2
+Viale Nero continua in quella direzione.
+~
+~
+0 -1 12031 0
+D3
+Vedi la panetteria di Roma.
+~
+~
+0 -1 12062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12031
+Viale Nerone~
+   Cammini su una strada pavimentata che corre a nord e a sud attraverso
+la citta' di Roma. La gente si affretta da un luogo all'altro, ma sempre si
+ferma a dire ciao. La maggior parte della gente viene o va in Piazza della
+Citta'. Viale Nero continua a nord, e vedi una grande area aperta a sud.
+~
+120 0 1
+D0
+Viale Nero continua in quella direzione.
+~
+~
+0 -1 12030 0
+D2
+E' la Piazza della Citta'.
+~
+~
+0 -1 12032 0
+D3
+Vedi un opulento appezzamento di terreno.
+~
+~
+0 -1 12024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12032
+La Piazza della Citta'~
+   Sei al centro di una grande area aperta. Durante il giorno questo luogo
+e' vivo con la ressa e la confusione dei cittadini. Ci sono molti ambulanti
+che vendono al minuto, l'atmosfera complessivamente e' carnevalesca.
+A sud-est, in lontananza, vedi l'acquedotto e gli edifici del governo Romano.
+Nero porta a nord e a sud da qui e Viale della Creta corre ad est.
+~
+120 0 1
+D0
+Viale Nero porta in direzione del cancello settentrionale.
+~
+~
+0 -1 12031 0
+D1
+Viale Nero porta in direzione del cancello meridionale.
+~
+~
+0 -1 12039 0
+D2
+Una strada di creta corre in quella direzione verso l'acquedotto e gli 
+edifici del governo Romano.
+~
+~
+0 -1 12033 0
+E
+ambulante ambulanti~
+Ci sono molti venditori ambulanti qui, vendono frutta fresca e vegetali, merci
+cotte al forno, gioielli ed altri articoli. La maggior parte degli articoli in
+vendita sono di alta qualita'.
+~
+E
+acquedotto~
+A sud-est, in lontananza, c'e' una grande struttura di pietra che e' usata
+per convogliare i canali d'acqua verso la citta'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12033
+Viale Nerone~
+   Cammini su una strada pavimentata che corre a nord e a sud attraverso
+la citta' di Roma. C'e' molta gente qui, gentile come sempre. La maggior
+parte proviene o va in Piazza della Citta' che e' a nord. Viale Nero continua
+a sud. C'e' un osservatorio prospiciente l'acquedotto ad est ed una strada
+pavimentata porta ad ovest.
+~
+120 0 1
+D0
+Piazza della Citta' e' in quella direzione.
+~
+~
+0 -1 12032 0
+D1
+L'acquedotto e la Montagna degli Dei sono in quella direzione.
+~
+~
+0 -1 12040 0
+D2
+Viale Nero porta in direzione del cancello meridionale.
+~
+~
+0 -1 12034 0
+D3
+Una strada pavimentata corre ad ovest attraverso la citta'.
+~
+~
+0 -1 12026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12034
+Viale Nerone~
+   Questa e' una trafficata strada pavimentata che corre a nord attraverso
+la citta'.  La gente di Roma e' molto amichevole e dice ciao quando passi.
+Un cancello porta fuori della citta' a sud ed un piccolo percorso va ad ovest
+verso l'appezzamento di terra di un nobile. Ad est, in lontananza, c'e' la
+grande montagna.
+Si dice che gli Dei proteggono la citta' e l'impero da la'.
+~
+120 0 1
+D0
+Viale Nero porta in quella direzione.
+~
+~
+0 -1 12033 0
+D2
+Vedi molta gente che entra ed esce dalla citta' attraverso un largo cancello.
+~
+~
+0 -1 12035 0
+D3
+Sembra l'appezzamento di terra di un nobile.
+~
+~
+0 -1 12027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12035
+Le Mura Sud~
+Davanti a te vedi le imponenti Mura di Roma.  La strada finisce qui:puoi
+solamente tornare sui tuoi passi o fare una visita al negozio del Mago,che si
+trova a est.    
+~
+120 0 1
+D0
+Viale Nero porta verso il centro della citta'.
+~
+~
+0 -1 12034 0
+D1
+Un piccolo negozio, dal quale ogni tanto provengono delle detonazioni, e'
+in quella direzione. Pare circondata da un rutilante nebbia rosa.
+~
+~
+0 -1 12042 0
+D2
+Il cancello pare chiuso a chiave contro le intrusioni.
+~
+cancellata~
+2 -1 -1 15
+E
+cancellata~
+Il cancello pare chiuso a chiave contro le intrusioni.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12036
+L'ufficio privato dell'Imperatore~
+   Sei nell'ufficio privato dell'Imperatore. La stanza e' riccamente fornita
+con i piu' eccellenti bottini riportati dalla conquista di terre lontane.
+C'e' una massiccia scrivania intagliata qui, sulla quale ci sono documenti
+importanti, delibere ed altra carta che coinvolge la gestione dell'impero.
+Sulla parete lontana, c'e' una libreria di marmo che e' ben rifornita coi
+lavori di Omero, Platone, Socrate ed altri saggi uomini.
+Oltretutto, sembra che all'Imperatore piacciano i fiori perche' vedi molti
+vasi nella stanza. C'e' un arcata che da' accesso alla sala d'attesa ed una
+porta di legno a sud.
+~
+120 8 0
+D1
+Attraverso l'arcata, vedi una sala d'attesa.
+~
+arcata~
+2 12035 12043 15
+D2
+La porta a sud da' accesso direttamente alla camera del senato.
+~
+porta legno~
+2 12035 12037 15
+E
+scrivania~
+La scrivania e' fatta di solida noce ed intarsiata d'oro. E' squisitamente
+intagliata, di fattura superiore, con un'arte che si e' vista raramente.
+Probabilmente e' stata portata a Roma da Gaul.
+~
+E
+documento delibere documenti decreti carta carte~
+I documenti sono tutti scritti su rotoli di papiro fatti in Egitto e sigillati
+con cera.
+~
+E
+libreria libri~
+I libri sono molto vecchi e contengono la conoscenza di uomini saggi di tutto
+l'intero impero Romano. Sembra che stiano li' a raccogliere polvere.
+~
+E
+fiori piante fiore pianta~
+Le piante contribuiscono a creare un'atmosfera rilassante.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12037
+La camera del senato~
+   Questa e' la stanza di lavoro dove i senatori eletti in tutto l'impero
+consigliano l'Imperatore. Un sigillo ufficiale dell'Imperatore e' appeso sulla
+parete lontana. Ci sono una porta di legno a nord, una di bronzo ad est ed una
+doppia porta a sud.
+~
+120 8 0
+D0
+La porta e' fatta di spessa noce.
+~
+porta legno~
+2 12035 12036 15
+D1
+La porta conduce nell'atrio.
+~
+porta bronzo~
+1 12036 12044 7
+D2
+~
+doppia porta~
+1 12037 12038 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12038
+La camera dei comuni~
+   Questa e' la camera piu' bassa del corpo consiliare dell'Imperatore. Uomini
+comuni di tutte le parti di Roma lavorano qui favorendo e assistendo i senatori
+nel consigliare l'Imperatore su materie critiche di stato.
+Il sigillo dell'Imperatore e' dipinto sulla parete lontana. L'uscita e' a nord.
+~
+120 8 0
+D0
+Vedi la doppia porta che da' accesso alla camera del senato.
+~
+doppia porta~
+1 12104 12037 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12039
+Viale della Creta~
+   Sei su una larga strada trafficata che va da est ad ovest attraverso il
+cuore di Roma. C'e' una gran folla di gente ad ovest e la strada continua
+ad est. L'acquedotto e' a sud.
+~
+120 0 1
+D1
+Viale della Creta continua in quella direzione.
+~
+~
+0 -1 12046 0
+D2
+Vedi un'entrata all'acquedotto.
+~
+~
+0 -1 12041 0
+D3
+C'e' una gran folla di gente in quella direzione.
+~
+~
+0 -1 12032 0
+E
+folla gente~
+Sembra ci sia una festa ad ovest.
+Ci sono centinaia di persone di tutte le classi, che parlano o mangiano.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12040
+L'Osservatorio~
+   Sei su una piattaforma prospiciente un massiccio acquedotto. C'e'
+un telescopio montato sulla ringhiera che circonda l'area e senti il
+gorgoglio dell'acqua che viene convogliata in citta'. In lontananza,
+vedi la Montagna degli Dei. C'e' una targa montata sulla ringhiera
+ed una rampa conduce ad ovest.
+~
+120 0 1
+D3
+Vedi una strada trafficata in quella direzione.
+~
+~
+0 -1 12033 0
+E
+telescopio~
+Se fosse operativo, offrirebbe una vista eccezionale della Montagna degli
+Dei. Sfortunatamente, e' stato danneggiato.
+~
+E
+acquedotto~
+L'acquedotto e' una struttura di pietra massiccia che convoglia l'acqua
+raccolta dalla Montagna degli Dei in Roma. Durante la stagione delle
+piogge e' pieno fino in cima.
+Comunque, a causa della recente siccita', il livello dell'acqua e' molto basso.
+~
+E
+targa~
+     
+         ********************************************
+         *                                          *
+         *    L'Acquedotto Romano e la Montagna     *
+         *                  Osservatorio            *
+         *                                          *
+         *      Progettato e costruito da Froboz    *
+         *           Magic Platform Company         *
+         *                                          *
+         ********************************************
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12041
+L'Acquedotto~
+   Sei in una struttura di pietra massiccia che e' stata progettata per portare
+acqua nella citta' di Roma. A causa della siccita' recente, il livello della
+acqua e' basso, permettendo di passare senza l'aiuto di una barca. I muri ed il
+pavimento sono coperti di alghe e limo e c'e' un alto rischio di scivolare.
+C'e' un'uscita a nord, sud ed est.
+~
+120 12 6
+D0
+Vedi una larga strada a nord.
+~
+~
+0 -1 12039 0
+D1
+Vedi ancora l'acquedotto.
+~
+~
+0 -1 12048 0
+D2
+Vedi ancora l'acquedotto.
+~
+~
+0 -1 12041 0
+D3
+Vedi ancora l'acquedotto.
+~
+~
+0 -1 12054 0
+E
+limo alghe~
+Grazie alla disponibilita' di umidita' e di nutrienti, un verde limo viscoso e'
+cresciuto e ha coperto tutto con un rivestimento scivoloso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12042
+Il negozio del Mago~
+   Sei nel negozio del Mago. Unguenti magici, incantesimi e pozioni sono
+su mensole e vetrine. C'e' una densa nebbia azzurra che scivola sul pavimento,
+rendendo impossibile vedere sotto le ginocchia. Improvvisamente senti dei
+borbottii provenire dalla stanza nel retro, probabilmente da...
+KKKKKAAAAAABBBBOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMM!!!!!!
+Sei assordato dal rumore di un'esplosione tremenda e per il violento
+contraccolpo barcolli! Il bottegaio non sembra prestare nessuna attenzione al
+fatto. La porta della stanza sul retro si apre ed un uomo vecchio, con un
+cappello appuntito, la cui faccia e' macchiata dalla fuliggine, mette fuori la
+testa. "Tutto bene? Chiedo scusa. Provavo un nuovo incantesimo.
+Cerchero' di avvisare la prossima volta". La porta poi si richiude.
+~
+120 8 0
+D1
+La porta e' rinforzata con acciaio e sembra MOLTO robusta. In considerazione
+dei 'test' cui hai assistito, sei contento che sia tra te e qualunque cosa ci
+sia nella stanza del retro.
+~
+porta~
+2 12038 12049 15
+D3
+Vedi il cancello meridionale attraverso la porta.
+~
+~
+0 -1 12035 0
+E
+nebbia~
+Questa e' una cosa veramente strana!  Non mai ha visto qualche cosa di questo
+colore. Le tue gambe sono totalmente sparite dalle ginocchia in giu'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12043
+La sala di attesa~
+   Sei in una stanza molto grande con un alto soffitto e ci sono delle
+persone che sono venute a vedere l'Imperatore per questioni urgenti
+Il segretario ti fa sedere ed informa Sua Altezza del tuo arrivo.
+Ci sono grandi porte ad est e ad ovest ed un'uscita conduce nell'atrio
+a sud
+~
+120 8 0
+D1
+C'e' un cartello sulla porta che dice:  CORTE MUNICIPALE DI ROMA. E' aperta.
+~
+~
+0 -1 12050 0
+D2
+L'atrio e' a sud.
+~
+~
+0 -1 12044 0
+D3
+C'e' un'arcata ad ovest.
+~
+arcata~
+2 12035 12036 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12044
+L'ingresso dell'atrio~
+   Sei entrato nell'edificio principale statale dell'Impero Romano. La stanza
+ha un soffitto elaborato a cupola.
+C'e' molta gente qui; messaggeri e senatori sono l piu' numerosi.
+C'e' una grande porta ad ovest, un atrio conduce a nord e gradini di marmo
+conducono fuori dall'edificio a sud.
+~
+120 8 0
+D0
+Vedi un atrio che porta a nord nella sala d'attesa.
+~
+~
+0 -1 12043 0
+D3
+C'e' una grande porta ad ovest che blocca il passaggio.
+~
+porta~
+1 12036 12037 7
+D5
+Vedi una scala che porta fuori dall'edificio.
+~
+~
+0 -1 12045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12045
+Fuori dal Campidoglio~
+   Sei sui gradini di marmo bianco che conducono nel Campidoglio.
+Ci sono molte statue, nessuna di vero significato, all'ingresso
+dell'edificio. L'ingresso principale e' in cima ai gradini.
+~
+120 0 1
+D4
+I gradini portano nel Campidoglio.
+~
+~
+0 -1 12044 0
+D5
+I gradini terminano in Viale della Creta.
+~
+~
+0 -1 12046 0
+E
+scala gradino gradini~
+I gradini sono levigati e fatti di marmo bianco.
+~
+E
+statua statue~
+Non c'e' niente di notevole in loro.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12046
+Viale della Creta~
+  Sei su una grande strada pesantemente trafficata che corre ad est e
+ad ovest attraverso il cuore della citta'. Ci sono dei gradini di marmo che
+portano in alto. A sud, in lontananza, vedi una grande struttura di pietra 
+ed una montagna parzialmente oscurata dalla foschia. C'e' un negozio
+di articoli vari a nord.
+~
+120 0 1
+D0
+Un negozio di articoli vari e' in quella direzione.
+~
+~
+0 -1 12063 0
+D1
+C'e' un grande cancello in quella direzione.
+~
+~
+0 -1 12051 0
+D3
+Viale della Creta continua.
+~
+~
+0 -1 12039 0
+D4
+Ci sono dei gradini di marmo che portano su.
+~
+~
+0 -1 12045 0
+E
+acquedotto pietra struttura~
+Vedi una grande struttura di pietra, costruita diversi secoli fa, che e' usata
+per convogliare l'acqua verso la citta'.
+~
+E
+montagna~
+In lontananza a sud-ovest, vedi una enorme montagna che e' parzialmente
+oscurata dalla foschia. Si dice che la' risiedano gli Dei che proteggono la citta'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12047
+La Sommita' della Montagna degli Dei~
+   Sei sulla sommita' di una montagna molto alta che scompare fra le nubi.
+Il sole splende brillante qui e le nubi sottostanti somigliano a palle di
+cotone. Il sentiero che hai percorso e' umido ed il profumo di lilla' e'
+nell'aria.
+~
+120 0 5
+D5
+Vedi un sentiero che scende giu' per la montagna.
+~
+~
+0 -1 12052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12048
+L'Acquedotto~
+   Sei in una struttura di pietra massiccia che e' stata progettata per portare
+l'acqua nella citta' di Roma. A causa della siccita' recente, il livello della
+acqua e' basso, permettendo di passare senza l'aiuto di una barca. I muri ed il
+pavimento sono coperti di alghe e limo e c'e' un alto rischio di scivolare. Ci
+sono uscite in tutte le direzioni.
+~
+120 8 6
+D0
+L'acquedotto continua.
+~
+~
+0 -1 12057 0
+D1
+L'acquedotto continua.
+~
+~
+0 -1 12041 0
+D2
+L'acquedotto continua.
+~
+~
+0 -1 12041 0
+D3
+L'acquedotto continua.
+~
+~
+0 -1 12048 0
+E
+limo alghe~
+Grazie alla disponibilita' di umidita' e di nutrienti, un verde limo viscoso e'
+cresciuto e ha coperto tutto con un rivestimento scivoloso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12049
+Il laboratorio di Froboz~
+   Sei nel laboratorio di Froboz il Grande, il piu' potente e famoso mago che
+Roma abbia mai avuto. Banchi da lavoro fiancheggiano i muri e sono pieni di
+provette, becher, piatti di petri e crogioli e c'e' un odore che puo' ben
+essere descritto come una combinazione di sudore vecchio e pneumatici che
+bruciano. La sola uscita e' indietro verso la porta attraverso la quale sei
+arrivato. Al centro della stanza, vedi una pila di cenere che una volta era un
+corpo e Froboz e' impegnato nella creazione di un nuovo tipo di bacchetta
+magica... probabilmente il responsabile dell'esplosione di alcuni minuti fa.
+Rimuove il monocolo da gioielliere dal suo occhio quando ti vede.
+"Hei! Nel nome di Merlino, che fai qui?!?!?" domanda. "Oh, non importa, visto
+che sei qui, puoi testimoniare sull'esito finale del nuovo incantesimo:
+"ectowatt".
+Detto questo fa un gesto magico ed appare un paladino. Froboz ondeggia la
+bacchetta nella sua direzione e quello che accade poi ha dell'incredibile! Il
+Paladino e' avvolto in quella che pare una piccola, contenuta, esplosione
+termonucleare. Quando il fumo schiarisce vedi che il paladino e tutto il suo
+equipaggiamento e' stato ridotto ad una grande pila di cenere fumante. Froboz
+rovescia la testa e chioccia con allegria alienata:
+"Ora, miei giovani amici, cosa posso fare per voi?", chiede.
+~
+120 8 0
+D3
+C'e' una porta, rinforzata con acciaio, in quella direzione.
+~
+porta~
+2 12038 12042 15
+E
+crogioli becher provette banco da lavoro banchi piatti~
+Questi sono tutti attrezzi di grande potere... Non puoi neanche immaginare a
+cosa serve questa roba.
+~
+E
+cenere pila~
+Le ceneri sono polveri finissime bianco grigiastre e sono i resti dei
+"campioni di prova" di Froboz.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12050
+La sala delle udienze~
+   Sei all'interno della grande sala delle udienze nella quale si decidono le
+dispute comuni civili e quelle riguardanti materie criminali. C'e' la panca di
+un giudice ed un testimone e' in piedi dal lato lontano della stanza ed il
+palco della giuria lungo un altro. Il sigillo dell'Imperatore e' esposto sul
+muro dietro lo scanno del giudice, ricordando a tutti coloro che entrano qui
+che lui rappresenta l'Imperatore stesso. C'e' una porta, che probabilmente
+conduce alle camere dei giurati ad est e la stanza d'attesa e' ad ovest.
+~
+120 8 0
+D1
+La porta potrebbe portare nelle camere private dei giurati.
+~
+porta~
+1 12039 12055 7
+D2
+Le celle sono in quella direzione.
+~
+~
+0 -1 12060 0
+D3
+La sala d'attesa e' in quella direzione.
+~
+~
+0 -1 12043 0
+E
+panca giuria palco~
+Vedi grandi strutture di legno che servono a separare il giudice, la giuria
+e i testimoni dal resto della sala. Sono fatti di quercia levigata e
+strettamente funzionali.
+~
+E
+sigillo~
+Il sigillo dell'Imperatore e' appeso sopra il palco del giudice.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12051
+Le Mura Orientali~
+Anche da questa parte della citta' la strada termina a ridosso delle grandi
+mura di protezione.    
+~
+120 0 1
+D3
+Viale della Creta porta in citta'.
+~
+~
+0 -1 12046 0
+E
+guglie torri~
+Ci sono due alte guglie ai lati del cancello e sono continuamente occupate
+dalle guardie della citta'. Sono fatte di pietra e sono alte 40 piedi.
+~
+E
+cancellata~
+La cancellata e' di ferro ed e' stata progettata per tenere gli intrusi fuori
+della citta'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12052
+Un sentiero sulla Montagna~
+   Sei su una piccola pista che conduce in alto ed in basso. Recentemente
+ha piovuto e ci sono piccole pozze dappertutto. Sei al di sotto delle nubi e
+la vista della campagna circostante ti fa tirare un sospiro sognante.
+~
+120 0 5
+D4
+La pista sale e sparisce nelle nubi.
+~
+~
+0 -1 12047 0
+D5
+La pista porta in basso.
+~
+~
+0 -1 12056 0
+E
+pista~
+La pista e' un po' fangosa a causa delle recenti piogge.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12054
+L'Acquedotto~
+   Sei in una struttura di pietra massiccia che e' stata progettata per portare
+l'acqua nella citta' di Roma. A causa della siccita' recente, il livello della
+acqua e' basso, permettendo di passare senza l'aiuto di una barca. I muri ed il
+pavimento sono coperti di alghe e limo e c'e' un alto rischio di scivolare. Ci
+sono uscite in tutte le direzioni.
+~
+120 8 6
+D0
+L'acquedotto continua.
+~
+~
+0 -1 12041 0
+D1
+L'acquedotto continua.
+~
+~
+0 -1 12054 0
+D2
+L'acquedotto continua.
+~
+~
+0 -1 12057 0
+D3
+L'acquedotto continua.
+~
+~
+0 -1 12048 0
+E
+limo alghe~
+Grazie alla disponibilita' di umidita' e di nutrienti, un verde limo viscoso e'
+cresciuto e ha coperto tutto con un rivestimento scivoloso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12055
+La Camera del Giudice~
+   Sei in una piccola stanza che e' piena di libri con vecchi processi
+legali. C'e' una piccola scrivania qui, letteralmente seppellita sotto
+documenti legali. C'e' anche una piccola finestra che da' sulla parte
+settentrionale della citta'.
+~
+120 8 0
+D3
+La sala delle udienze e' in quella direzione.
+~
+porta~
+1 12039 12050 7
+E
+libri processi~
+I libri sono molto grandi e pieni di vecchi processi legali Romani.
+~
+E
+documenti carte~
+Ci sono centinaia di pagine di petizioni, liti e delibere della corte sulla
+scrivania. Un caso particolarmente interessante coinvolge un nobile, uno
+schiavo ed un rotolo di carta igienica.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12056
+Un sentiero sulla Montagna~
+   Sei su una piccola pista che conduce attraverso un boschetto di alberi.
+Ogni cosa e' bagnata e verde qui, pare che recentemente abbia piovuto.
+"Sarebbe proprio un luogo ideale per un picnic", pensi.
+~
+120 0 5
+D4
+Vedi una piccola pista che sale ulteriormente sulla montagna.
+~
+~
+0 -1 12052 0
+D5
+Vedi una piccola pista che scende giu'.
+~
+~
+0 -1 12059 0
+E
+albero alberi vegetazione~
+Tutta la vegetazione e' bagnata, verde ed in fiore. Desidereresti fermarti
+e trarne diletto.
+~
+E
+pista sentiero~
+La pista e' un po' fangosa a causa delle recenti piogge.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12057
+L'Acquedotto~
+   Sei in una struttura di pietra massiccia che e' stata progettata per portare
+l'acqua nella citta' di Roma. A causa della siccita' recente, il livello della
+acqua e' basso, permettendo di passare senza l'aiuto di una barca. I muri ed il
+pavimento sono coperti di alghe e limo e c'e' un alto rischio di scivolare. A
+sud c'e' una valle e le altre direzioni portano addentro all'acquedotto.
+~
+120 8 6
+D0
+L'acquedotto continua.
+~
+~
+0 -1 12054 0
+D1
+L'acquedotto continua.
+~
+~
+0 -1 12054 0
+D2
+Vedi una valle rigogliosa.
+~
+~
+0 -1 12058 0
+D3
+L'acquedotto continua...
+~
+~
+0 -1 12041 0
+E
+limo alghe~
+Grazie alla disponibilita' di umidita' e di nutrienti, un verde limo viscoso e'
+cresciuto e ha coperto tutto con un rivestimento scivoloso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12058
+La Valle degli Dei~
+   Sei in una tranquilla valle alla base di una grande montagna. Un quieto
+ruscello, con alberi da frutto che crescono lungo le sue sponde, scorre
+pacifico attraverso la valle ed entra in una grande struttura di pietra ad
+ovest.
+Ci sono uccelli che cantano ed ogni tanto un'increspatura rompe la superficie
+del ruscello.
+~
+120 0 4
+D0
+Un piccolo sentiero passa attraverso gli alberi.
+~
+~
+0 -1 12057 0
+D4
+Vedi un sentiero che porta sulla montagna.
+~
+~
+0 -1 12059 0
+E
+ruscello sopporta~
+Un ruscello con l'acqua piu' chiara, piu' pulita che abbia mai visto scorre
+attraverso la valle.
+~
+E
+pesce~
+Un pesce nuota pacificamente nell'acqua fresca e chiara.
+~
+E
+alberi frutta~
+Gli alberi da frutta, nutriti dal terreno fertile al margine del ruscello sono
+sostenuti dalla luce brillante del sole, lungo le sponde del ruscello e sono
+carichi di frutta.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12059
+Un sentiero sulla Montagna~
+   Sei su un percorso che conduce attraverso una macchia di grandi alberi.
+Tutto e' verde e sembra esserci una eterna primavera -  questa e' Madre Natura.
+E' possibile scendere in una valle tranquilla da qui.
+~
+120 0 5
+D4
+Il sentiero sale ulteriormente sulla montagna.
+~
+~
+0 -1 12056 0
+D5
+Il sentiero si allarga in una valle tranquilla.
+~
+~
+0 -1 12058 0
+E
+alberi~
+Gli alberi sono vecchi e alti centinaia di piedi sopra il terreno. Se rimani
+ancora ed ascolti attentamente, puoi sentire il canto degli uccelli.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12060
+Le celle~
+   Sei nell'area delle celle, vicino alla sala delle udienze. Coloro che sono
+stati recentemente condannati sono stati portati qui, torturati, appesi
+e giustiziati. La sala delle udienze e' a nord e un'altra uscita e' ad est.
+~
+120 8 0
+D0
+La sala delle udienze e' a nord.
+~
+~
+0 -1 12050 0
+D1
+~
+~
+0 -1 12061 0
+E
+celle cella~
+Vedi piccole celle sporche. Rabbrividisci e fai voto di non far mai niente
+che possa farti divenire un residente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12061
+La camera di tortura~
+   Sei in una stanza molto piccola nella quale ci sono molti attrezzi
+progettati specificatamente per infliggere pene e sofferenze. Alcuni sono
+familiari, come la ruota e la fanciulla di ferro. Altri non li hai mai visti
+e ti chiedi chi puo' avere una mente tanto malata e sadica da averli pensati.
+La sola uscita e ad ovest.
+~
+120 8 0
+D3
+Le celle sono in quella direzione.
+~
+~
+0 -1 12060 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12062
+La Panetteria Romana~
+   Sei nella panetteria di Roma e ti sale l'acquolina in bocca per i
+deliziosi aromi che si diffondono dalla cucina. La sola uscita e ad est.
+~
+120 8 0
+D1
+~
+~
+0 -1 12030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12063
+Il negozio di articoli generali~
+   Sei nel solo negozio di articoli generali di Roma. I muri e le scansie
+sono piene di tutti quegli articoli che richiedono i cittadini Romani e gli
+avventurieri. Viale della Creta e' a sud.
+~
+120 8 0
+D2
+Viale della Creta e' in quella direzione.
+~
+~
+0 -1 12046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12064
+Davanti a Roma~
+   Viaggi su una strada che va da est ad ovest larga abbastanza da permettere
+a 30 uomini di marciare fianco a fianco. E' battuta da tanto che e' trafficata!
+Ad ovest ci sono i cancelli di Roma che ti invitano ad entrare e a partecipare
+a tutta la gloria e allo splendore che e' Roma.
+~
+120 8 1
+D1
+~
+~
+0 -1 12065 0
+D2
+Un altro sentiero
+~
+~
+0 -1 12069 0
+D3
+~
+cancellata~
+1 -1 12051 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12065
+Viale della Creta~
+   Viaggi su una strada che va da est ad ovest larga abbastanza da permettere
+a 30 uomini di marciare fianco a fianco. E' battuta da tanto che e' trafficata!
+Ad ovest, i tuoi occhi incontrano gli splendori di una potente citta'.
+~
+120 8 1
+D1
+~
+~
+0 -1 12066 0
+D3
+~
+~
+0 -1 12064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12066
+Viale della Creta~
+   Viaggi su una strada che va da est ad ovest larga abbastanza da permettere
+a 30 uomini di marciare fianco a fianco. E' battuta da tanto che e' trafficata!
+~
+120 8 1
+D1
+~
+~
+0 -1 12067 0
+D3
+~
+~
+0 -1 12065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12067
+La fine di Viale della Creta~
+   La robusta strada di creta si ramifica in strade minori, ma ancora
+trafficate. Senti un brivido che ti trapassa il corpo quando guardi ad
+est nel territorio Romano.
+~
+120 8 1
+D1
+Una pista polverosa porta verso il deserto ad est.
+~
+~
+0 -1 12068 0
+D3
+La strada di creta comincia in quella direzione.
+~
+~
+0 -1 12066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12068
+Una piccola pista polverosa~
+   Questa piccola pista polverosa sembra essere una giuntura tra una grande
+strada di creta nelle vicinanze ad ovest e la distesa di sabbia che c'e' ad
+est. La strada di creta pare condurre attraverso le colline verso la catena
+di montagne innevate ad ovest. Forse c'e' una citta' od un villaggio in quella
+direzione. Non vedi alcuna interruzione nella sabbia all'orizzonte che riempie
+la tua visuale ad est, sembra non finire mai.
+~
+120 4 1
+D3
+Una grande strada di creta inizia nelle vicinanze ad ovest.
+~
+~
+0 -1 12067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12069
+Un altro sentiero~
+   Un altro sentiero corre da nord verso sud. Sembra essere ben battuto.
+~
+120 0 2
+D0
+~
+~
+0 -1 12064 0
+D2
+Il sentiero prosegue a sud.
+~
+~
+0 -1 12070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12070
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni.
+A nord intravedi il deserto giallo.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12069 0
+D2
+Il sentiero prosegue a ovest.
+~
+~
+0 -1 12071 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12071
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni.
+A nord intravedi il deserto giallo.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12070 0
+D3
+Il sentiero prosegue a ovest.
+~
+~
+0 -1 12072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12072
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni.
+A nord intravedi il deserto giallo.
+~
+120 0 2
+D1
+Il sentiero
+~
+~
+0 -1 12071 0
+D2
+Il sentiero prosegue tortuosamente.
+~
+~
+0 -1 12073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12073
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni. Ma
+diventa sempre piu' largo e confortevole.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12072 0
+D3
+Il sentiero prosegue a ovest.
+~
+~
+0 -1 12074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12074
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni. Ma
+diventa sempre piu' largo e confortevole.
+~
+120 0 2
+D1
+Il sentiero
+~
+~
+0 -1 12073 0
+D2
+Il sentiero prosegue tortuosamente.
+~
+~
+0 -1 12075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12075
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni. Ma
+diventa sempre piu' largo e confortevole.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12074 0
+D3
+Il sentiero prosegue a ovest.
+~
+~
+0 -1 12076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12076
+Il sentiero~
+   Il sentiero continua tortuosamente in entrambe le direzioni. Ma
+diventa sempre piu' largo e confortevole.
+~
+120 0 2
+D1
+Il sentiero
+~
+~
+0 -1 12075 0
+D2
+Il sentiero prosegue tortuosamente.
+~
+~
+0 -1 12077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12077
+Un sentiero~
+   Piu' che un sentiero questa ora e' diventata una vera strada. La
+vegetazione e' rigogliosa. A sud intravedi il blu del mare e le
+mura di una citta'. A nord intravedi il deserto giallo.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12076 0
+D2
+Il sentiero prosegue a sud.
+~
+~
+0 -1 12078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12078
+Un sentiero~
+   Piu' che un sentiero questa ora e' diventata una vera strada. La
+vegetazione e' rigogliosa. A sud intravedi il blu del mare e le
+mura di una citta'. A nord intravedi il deserto giallo.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12077 0
+D2
+Il sentiero prosegue a sud.
+~
+~
+0 -1 12079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12079
+Un sentiero~
+   Piu' che un sentiero questa ora e' diventata una vera strada. La
+vegetazione e' rigogliosa. A sud intravedi il blu del mare e le
+mura di una citta'.
+~
+120 0 2
+D0
+Il sentiero
+~
+~
+0 -1 12078 0
+D2
+Il sentiero prosegue a sud.
+~
+~
+0 -1 12080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12080
+Sul sentiero~
+   Sei alle porte della grande citta' di Lamorka. Le rupi alte non
+ti permettono di vedere dentro ma il rumore e gli odori che
+percepisci ti confermano che la citta' non e' niente  male.
+~
+120 0 2
+D0
+~
+~
+0 -1 12079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12081
+Stazione di Roma~
+Questa e' la stazione della citta' di Roma. Qui regolarmente
+fa sosta la carrozza che fa' servizio di trasporto in tutte le citta' della
+Daresia. L'arrivo e la partenza sono annunciate dal personale della
+stazione. Sulla parete c'e' una mappa.
+~
+120 8 0
+D1
+~
+~
+0 -1 -1 0
+D4
+~
+~
+0 -1 12032 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia (seconda linea):
+
+
+           /J\
+          /   \
+         D      R
+        /       |
+      K         |
+      \____/\___L
+             
+    [D]  Stazione meridionale di Deira
+    [K]  Stazione di Kerofk
+    [L]  Stazione orientale di Lamorka
+  * [R]  Stazione di Roma
+    [C]  Stazione orientale di Jiroch"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12090
+&bCuoio e Pelli&0~
+L'inconfondibile odore del cuoio sovrasta ogni altra essenza
+prensete nell'aria. Per terra e in apposito scaffali decine e
+decine di indumenti perfettamente cuciti sono ripiegati e ben
+conservati. Alcune pelli sono in lavorazione dietro il grande
+bancone che e' sormontato, naturalmente, da ogni tipo di pellame.
+~
+120 0 0
+D0
+~
+~
+0 0 12564 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12091
+Il Magazzino di Cuoio e Pelli~
+Se il negozio sembrava colmo di roba questa stanza sembra esplodete
+manca l'aria... fortuna che nessuno sta mai qui sotto.
+~
+120 4398046513744 0
+D4
+~
+botola~
+1 0 12090 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12092
+Il magazzino de Il Piccolo Chimico~
+Che dire... decine e decine di vasi, ampolle, alambichi. Tutto
+perfettamente in disordine... ma la donna delle pulizie che fine
+ha fatto?
+~
+120 4398046513744 0
+D5
+Una porta di legno.
+~
+porta~
+1 847442 12580 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12093
+&7&bLa Pepita d'oro&0 in affitto a Kheldar~
+Piu' che  un negozio sembra un saloon come non ne hai miai visti.
+La merce e' evidentemente chiusa nella grande ed unica cassaforte
+che prende un intera parete. Sul resto dei muri quadri e quadri
+di oggetti preziosi...leggendari e non.
+~
+120 0 0
+D1
+~
+~
+0 0 12630 0
+D2
+~
+porta~
+2 -1 12094 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12094
+delete me~
+Ecco, sembra di stare dentro una cassaforte... tutto rigorosamente
+distribuito in altre piccole cassaforti. Sbrigati a depositare o a
+prendere la merce o rischi di rimanere chiuso dentro.
+~
+120 4398046513728 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12095
+&3Falegnameria in affitto a Shadowblade&0~
+Segatura, segatura e ancora segatura e la merce? Forse sotto quella
+MONTAGNA di legno ridotto in polvere c'e' qualcosa. Speriamo che cio'
+che cerchi sia altrove o non basteranno 10 bagni per levarti tutta
+quella polvere di dosso.
+~
+120 0 0
+D0
+~
+~
+0 0 12618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12096
+Il Magazzino de Il truciolo Dritto~
+Ma no anche qui segatura... pero' tutta pervfettamente catalogata e
+impilata... stranezze della daresia. Fortuna che ci sono molti spazi
+per la merce da vendere.
+~
+120 4398046513728 0
+D0
+~
+~
+0 0 12095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12097
+Il magazzino de I Dolci Sapori~
+Il magazzino della nuova panetteria di Deira. Molti scaffali
+ricolmi di ogni ben degi Dei, dai pani ai dolci..e qualche
+frutto mischiato a verdura.
+~
+120 4398046513728 0
+D0
+~
+Porta~
+1 0 12557 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12098
+&7&bI Fratelli Von Diehl&0~
+Armi di tutte le stazze sono perfettamente ordinate nelle rastrelliere sempre
+costantemente osservate dal suo proprietario venditore.
+~
+120 0 0
+D3
+~
+~
+0 0 12539 0
+D4
+Una porta di legno.
+~
+porta~
+2 519794 12099 143
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12099
+Il magazzino~
+You are in an unfinished room.
+~
+120 4398046513728 0
+D5
+Una porta di legno.
+~
+porta~
+2 519794 12098 175
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

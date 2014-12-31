@@ -1,0 +1,2986 @@
+#10401
+Passaggio a Volta~
+Questo è un passaggio a volta in pietra antica. 
+Varie facce di demoni ed altri arcigni quadri sono dipinti sopra lui.
+Gargoyles di pietra e demoni sfolgorano giù dalla cima dell'arco.
+C'è una targa di bronzo sopra la volta.
+~
+104 32777 0
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10402
+E
+targa~
+************
+Discesa all'Inferno
+************
+
+La GIUSTA VIA PER L'INFERNO!!!!
+*chuckle*
+
+Made for levels 50-85
+
+Brought to you by Strahd
+~
+S
+#10402
+Stanza Antica~
+Ti trovi in una grande stanza di pietra.Sembra una cripta. 
+Antichi disegni raffiguranti l'Inferno e la punizione ricoprono i muri.
+Nel mezzo della stanza vedi una scala che scende nell'oscurità.
+Vicino alla scalinata  senti odore di zolfo e solfato.
+Verso ovest c'e' un Altare.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10401
+D3
+Vedi un antico Altare.
+~
+~
+0 -1 10418
+D5
+Vedi una scala buia.
+~
+~
+0 -1 10403
+S
+#10403
+Scala Buia~
+Ti trovi all'inizio di una lunga scala oscura. 
+L'odorato di zolfo e i vapori sulfurei quasi ti soffocano. 
+Grida di pena e terrore riempono l'aria.
+Facce di pietra intagliate nei muri sembrano ridere di te.
+Forse proseguire non e' un'ottima idea dopo tutto.........
+~
+104 32777 0
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10404
+D4
+Vedi una scala buia.
+~
+~
+0 -1 10402
+S
+#10404
+Terra~
+Questa terra è stata devastata dal fuoco.
+Pezzi di cenere e vegetazione bruciata ricoprono tutto.Muri e pavimento 
+sono distrutti ed il soffitto è intagliato da anticchi simboli e rune.
+Un grande cancello nero di ferro torreggia ad ovest.
+Vede una grande entrata ad ovest.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10403
+D3
+Vedi i cancelli dell'Inferno
+~
+cancellata~
+1 -1 10405
+E
+cancelli~
+Questi neri cancelli sono ricoperti da facce grottesche e mostri
+in varie pose di atti di violenza.
+La vista dei cancelli sembra raggelarti il sangue...
+~
+S
+#10405
+Ingresso all'Inferno~
+Sei nei pressi dell'ingresso all'Inferno. Sei circondato da 
+suoni di tortura e pena. Le grida perforano l'aria e i tuoi nervi
+si tendono. I segni che sei arrivato all'Inferno sono presenti ovunque.
+Un grande cancello nero e' ad est.
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10416
+D1
+I cancelli dell'Inferno
+~
+cancellata~
+1 -1 10404
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10426
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10406
+E
+cancelli~
+Questi neri cancelli sono ricoperti da facce grottesche e mostri
+in varie pose di atti di violenza.
+La vista dei cancelli sembra raggelarti il sangue...
+~
+S
+#10406
+Sala del Condannato~
+Questo atrio è un monumento alle milioni di anime condannate a vivere all'inferno.
+I muri sono stati costruiti con pezzi di corpi putrefatti ed altri rifiuti.
+I muri sembrano vivi e ti implorano di aiutarli a ritrovare la pace eterna..
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10415
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10405
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10425
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10407
+S
+#10407
+Sala del Condannato~
+Questo atrio è un monumento alle milioni di anime condannate a vivere all'inferno.
+I muri sono stati costruiti con pezzi di corpi putrefatti ed altri rifiuti.
+I muri sembrano vivi e ti implorano di aiutarli a ritrovare la pace eterna..
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10414
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10406
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10424
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10408
+S
+#10408
+Sala del Condannato~
+Questo atrio è un monumento alle milioni di anime condannate a vivere all'inferno.
+I muri sono stati costruiti con pezzi di corpi putrefatti ed altri rifiuti.
+I muri sembrano vivi e ti implorano di aiutarli a ritrovare la pace eterna..
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10413
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10407
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10423
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10409
+S
+#10409
+Sala del Condannato~
+Questo atrio è un monumento alle milioni di anime condannate a vivere all'inferno.
+I muri sono stati costruiti con pezzi di corpi putrefatti ed altri rifiuti.
+I muri sembrano vivi e ti implorano di aiutarli a ritrovare la pace eterna..
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10412
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10408
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10422
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10410
+D5
+Vedi un buio scalone scendere verso il basso.
+~
+scale~
+0 -1 10421
+S
+#10410
+Sala del condannato~
+Questo atrio è un monumento alle milioni di anime condannate a vivere all'inferno.
+I muri sono stati costruiti con pezzi di corpi putrefatti ed altri rifiuti.
+I muri sembrano vivi e ti implorano di aiutarli a ritrovare la pace eterna..
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10411
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10409
+S
+#10411
+Murales del Morto~
+Sei di fronte ad un enorme murales. Il Murales raffigura una montagna 
+di corpi infilzati in pali che sembrano toccare il cielo. Il Murales
+ricopre tutta la stanza,compreso il pavimento,ad un tratto ti sembra 
+che i corpi sian veri.Ti sembra di odorare la carne bruciata.
+~
+104 32777 0
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10412
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10410
+S
+#10412
+Muri viventi~
+Questi muri grigi son composti da pezzi di carne bruciacchiata- facce, mani,
+ossa rotte, piedi, e dita del piede sporgono dalla superficie. Senti dei soffocati
+lamenti misti a grida di orrore uscire dai muri.
+~
+104 32777 0
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10413
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10409
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10411
+S
+#10413
+Anime intrappolate~
+Ci sono molte anime intrappolate dentro i muri di questa stanza. Quasi come se
+fossero prigioniere sotto la superficie di un lago gelato.Pavimento e soffitto
+hanno impressi facce strillanti dentro di loro.
+~
+104 32777 0
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10414
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10408
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10412
+S
+#10414
+Esseri Torturati~
+Questa stanza è piena di strumenti di tortura. Esseri di forme e taglie
+svariate sono portati alle soglie di pena edolore assurdi. Alcuni sono affettati
+in centinaia di pezzi. Altri sono sciolti come fossero di gomma.
+Il tutto sembra un'agonia senza fine.
+~
+104 32777 0
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10415
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10407
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10413
+S
+#10415
+Ghiottoneria~
+Hai di fronte a te una stanza riempita con tutte le sorte di cibo. 
+L'odore di pasticceria e Hamburger assalta i tuoi sensi. 
+Tutti questi pezzi di cibo sparso sembrano avere occhi per guardarti .
+Biscotti,fette di carne,costole primarie,quasi pensi che ti stiano
+chiamando.Improvvisamente ti senti MOLTO affamato.
+~
+104 32777 0
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10416
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10406
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10414
+S
+#10416
+Avidità~
+Che immensa fortuna! Una stanza pieno di tesori. Oro, diamanti,
+ricchezze oltre la tua immaginazione! Aspetta! 
+Improvvisamente si sente come se è tutto lentamente scompare.
+Qualcuno prende il Tuo tesoro. Non hanno diritto! E tuo! 
+Lo hai trovato per primo. Il Tuo Tesoro ti ha abbandonato!
+Vedi una porta verso est.
+~
+104 32777 0
+D1
+Vedi la porta della camera da letto.
+~
+porta~
+1 -1 10417
+D2
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10405
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10415
+S
+#10417
+Camera da letto.~
+Questa è una piccola camera da letto. Noti un cambio drastico rispetto
+alla stanza da cui sei appena uscito. Un letto spicca alla tua vista.
+Sul testata del letto del letto sono intagliati due cherubini con strane 
+figure, con le parole 'DEE& DEE' scritte sotto loro.
+La porta della camera da letto è a ovest.
+~
+104 32777 0
+D3
+Vedi la porta della camera da letto.
+~
+porta~
+1 -1 10416
+S
+#10418
+Antico Sacrario~
+Questo è un  antico sacrario abbandonato da ignoti Dei.
+E' molto danneggiato.Quello che era un sacrario è adesso ridotto a
+un cumulo di pietre ed altri frammenti. Rune varie e facce demoniache
+sono dipinti su muri e pavimento. Puoi vedere un assortimento
+di scheletri inchiodati al soffitto.La morte e' passata da molto tempo
+in questa stanza. Sangue essiccato e polvere ricoprono tutta la stanza.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10402
+S
+#10419
+Stanza piena di Parti di Corpo.~
+La stanza è piena di braccia, gambe, teste, ed altri indefiniti
+parti di creature diverse. La puzza e'asfissiante. I pezzi dei corpi
+sembrano dimenarsi e gridano come ti avvicini. Sono ancora vivi!!
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10420
+D2
+E' troppo buio per vedere.
+~
+~
+0 -1 10429
+S
+#10420
+Fontana di Sangue.~
+Questa stanza è fatta di una nera e grezza pietra. 
+I muri sembrano filtrare nero fango. Nel centro della stanza 
+c'e' una fontana di pietra con sembianze di demone 
+che sputa sangue.
+~
+104 32777 0
+D2
+E' troppo buio per vedere.
+~
+~
+0 -1 10430
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10419
+S
+#10421
+Scalinata Insanguinata.~
+Sei su una scalinata molto scivolosa. Muri e scalini sono coperti
+da sangue fresco e sangue coagulato. Pezzi di materia appiccicosa
+e fanghiglia gocciolano dal soffitto. A momenti quasi scivoli e
+ti rompi il collo. La puzza riempe l'aria in maniera nauseante.
+~
+104 32777 0
+D4
+E' troppo buio per vedere.
+~
+~
+0 -1 10409
+D5
+E' troppo buio per vedere.
+~
+~
+0 -1 10431
+S
+#10422
+Antica Stanza~
+Questa è una stanza molto vecchia e polverosa. Guardandoti in giro
+vedi solo alcuni cocci di ossa e pezzi di carne rappresa.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10409
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10423
+S
+#10423
+Stanza delle Anime Perdute~
+Questa somiglia ad una sorta di sala d'attesa. Polvere e ragnatele 
+sono dappertutto. Delle panche di legno son disposte lungo i muri. 
+Un pannello con numeri digitali e' appeso al muro.
+Attualmente legge, 'Adesso serviamo il Numero 1.'
+Un distributore di biglietti è appeso al muro.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10408
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10424
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10422
+E
+distributore~
+Questo è un distributore di biglietti rossi
+ma sembra non aver mai lavorato .
+~
+S
+#10424
+Stanza delle Anime Perdute~
+Questa somiglia ad una sorta di sala d'attesa. Polvere e ragnatele 
+sono dappertutto. Delle panche di legno son disposte lungo i muri. 
+Un pannello con numeri digitali e' appeso al muro.
+Attualmente legge, 'Adesso serviamo il Numero 1.'
+Un distributore di biglietti è appeso al muro.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10407
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10425
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10423
+E
+distributore~
+Questo è un distributore di biglietti rossi
+ma sembra non aver mai lavorato .
+~
+S
+#10425
+Bocca del Fuoco~
+Entri in una stanza di semplice pietra con un buco che sprigiona fiamme 
+nel centro di essa. Guardando più da vicino comprendi che son centinaia
+di persone ad alimentare le fiamme. Gridano verso di Te. 
+Il rumore e assordante. Diversi diavoletti minori e lavoratori 
+fischiettando spingono la gente giu' nella buca..
+~
+104 32776 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10406
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10426
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10424
+S
+#10426
+Atrio Oscurato~
+Questo atrio buio che stai osservando sembra costruito da un verme di lava..
+Tutta la superficie si brucia e tende a liquefarsi.
+L'odore di zolfo e i vapori sulfurei riempono l'aria.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10405
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10427
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10425
+S
+#10427
+Atrio Oscurato~
+Questo atrio buio che stai osservando sembra costruito da un verme di lava..
+Tutta la superficie si brucia e tende a liquefarsi.
+L'odore di zolfo e i vapori sulfurei riempono l'aria.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10428
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10426
+S
+#10428
+Alloggi del Sangue~
+Entri nella stanza e sei immediatamente assalito dall'odore della 
+decomposizione di carne e sangue. I muri sono coperti da un fluido 
+cremisi che scorre giù dal soffitto.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10429
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10427
+S
+#10429
+Muri viventi~
+Questi muri grigi son composti da pezzi di carne bruciacchiata- facce, mani,
+ossa rotte, piedi, e dita del piede sporgono dalla superficie. Senti dei soffocati
+lamenti misti a grida di orrore uscire dai muri.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10419
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10430
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10428
+S
+#10430
+Fabbrica dello Scheletro~
+In questo posto probabilmente creano scheletri per incubi e cimiteri.
+La stanza è fatta semplicemente con ossa. C'e' un manifesto sul muro
+con scritto, "Ricorda. .il teschio è attaccato all'osso del collo."
+Il manifesto continua cosi'. .ma otterrai una noiosa tecnica..
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10420
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10429
+S
+#10431
+Fondo della Scalinata~
+Sei in fondo ad una scalinata insanguinata. O al meno pensi che sia
+una scalinata. Il muro sembra essere pitturato da poco col sangue.
+Qualcuno ha rudemente intagliato delle rune demoniache sul pavimento 
+di pietra. C'è un atrio verso est.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10432
+S
+#10432
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale.
+La sala continua a sud ed ovest.
+~
+104 32777 0
+D2
+E' troppo buio per vedere.
+~
+~
+0 -1 10442
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10431
+S
+#10433
+Cella~
+La cella è umida e molto ammuffita. I muri sono coperti da umidita' 
+ed immondizia. L'odore di orina è molto potente qui.
+Le sbarre d'acciaio sono a sud.
+~
+104 32777 0
+D2
+Vedi delle sbarre
+~
+sbarre~
+1 -1 10443
+S
+#10434
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a sud ed est.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10435
+D2
+E' troppo buio per vedere.
+~
+~
+0 -1 10444
+S
+#10435
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+Verso sud vedi le sbarre di una cella.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10436
+D2
+Vedi le sbarre di una cella.
+~
+sbarre~
+1 -1 10445
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10434
+S
+#10436
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale..
+La sala continua a sud ed ovest.
+~
+104 32777 0
+D2
+E' troppo buio per vedere.
+~
+~
+0 -1 10446
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10435
+S
+#10437
+Cella~
+La cella è umida e molto ammuffita. I muri sono coperti da umidita' 
+ed immondizia. L'odore di orina è molto potente qui.
+Le sbarre d'acciaio sono a sud.
+~
+104 32777 0
+D2
+Vedi delle sbarre
+~
+sbarre~
+1 -1 10447
+S
+#10438
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a sud ed est.
+~
+104 32777 0
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10439
+D2
+~
+~
+0 0 10448
+S
+#10439
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a ovest.
+~
+104 32777 0
+D1
+Vedi le sbarre d'acciaio di una cella.
+~
+sbarre~
+1 -1 10440
+D2
+Vedi le sbarre d'acciaio di una cella.
+~
+sbarre~
+1 -1 10449
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10438
+D5
+Vedi una buia scala che va verso il basso....
+~
+~
+0 -1 10450
+S
+#10440
+Cella~
+La cella è umida e molto ammuffita. I muri sono coperti da umidita' 
+ed immondizia. L'odore di orina è molto potente qui.
+Le sbarre d'acciaio sono a ovest.
+~
+104 32777 0
+D3
+Vedi delle sbarre
+~
+sbarre~
+1 -1 10439
+S
+#10441
+Stanza ignota~
+Questo stanza e' stata dimenticata da molto tempo. 
+Antiche attrezzature da tortura sono sparse in giro.
+La maggior parte di questa roba e' stata sostituita probabilmente 
+con moderne apparecchiature da tortura e per ragioni sentimentali
+non sono state gettate via.
+~
+104 9 0
+D2
+E' troppo buio per vedere.
+~
+~
+0 -1 10451
+S
+#10442
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a nord ed est.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10432
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10443
+S
+#10443
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a ovest ed est.
+Verso nord vedi le sbarre di una cella.
+~
+104 32777 0
+D0
+Vedi le sbarre di una cella.
+~
+sbarre~
+1 -1 10433
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10444
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10442
+S
+#10444
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a ovest e a nord.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10434
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10443
+S
+#10445
+Cella~
+La cella è umida e molto ammuffita. I muri sono coperti da umidita' 
+ed immondizia. L'odore di orina è molto potente qui.
+Le sbarre d'acciaio sono a nord.
+~
+104 32777 0
+D0
+Vedi delle sbarre
+~
+sbarre~
+1 -1 10435
+S
+#10446
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a est e a nord.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10436
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10447
+S
+#10447
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a est e a ovest.
+Vedi le sbarre di una cella a nord.
+~
+104 32777 0
+D0
+Vedi le sbarre di una cella.
+~
+sbarre~
+1 -1 10437
+D1
+E' troppo buio per vedere.
+~
+~
+0 -1 10448
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10446
+S
+#10448
+Sala della pietra~
+Questo atrio è costruito rozzamente. L'aria è umidità e sa di muffa.  
+Ascolti il suono di qualche cosa che gocciola non molto lontano. 
+I tuoi passi danno origine ad un eco nella sala. 
+C'è uno strano silenzio mortale che riempe queste sale...
+La sala continua a nord e a ovest.
+~
+104 32777 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10438
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10447
+S
+#10449
+Cella~
+La cella è umida e molto ammuffita. I muri sono coperti da umidita' 
+ed immondizia. L'odore di orina è molto potente qui.
+Le sbarre d'acciaio sono a nord.
+~
+104 32777 0
+D0
+Vedi delle sbarre
+~
+sbarre~
+1 -1 10439
+S
+#10450
+Scala Calda~
+Sei su una lunga scala. L'aria e'pesante e calda.
+Il muro di pietra e' bollente al tocco ed il tuo sudore frigge appena
+cade. Flussi d'aria fresca arrivano da una fessura del muro ad est.
+L'odorato di zolfo e fumo sono tutto intorno a TE.
+La scala continua giù.
+~
+104 32777 0
+D4
+E' troppo buio per vedere.
+~
+~
+0 -1 10439
+D5
+E' troppo buio per vedere.
+~
+~
+0 -1 10461
+S
+#10451
+Breccia nel Muro~
+C'è una grande breccia nel muro. Ispezionando la breccia più da vicino 
+scopri che era un antico passaggio murato e poi riaperto da qualche sisma
+mostruoso o qualcosa del genere.
+L'Antico Passaggio continua verso nord.
+Raffiche di aria calda provengono da ovest.
+~
+104 9 0
+D0
+E' troppo buio per vedere.
+~
+~
+0 -1 10441
+D3
+E' troppo buio per vedere.
+~
+~
+0 -1 10450
+S
+#10452
+Arco di Pietra~
+Hai di fronte a te un enorme arco di pietra,decorato con simboli
+runici per te incomprensibili.
+Noti che deve essere stato chiuso per molto tempo.
+Verso est c'e' un atrio infuocato.
+A sud vedi una grande porta di metallo con la scritta , 'FOREMAN'
+sulla porta.
+C'è una scalinata scura che scende verso il basso 
+nell'angolo della stanza.
+~
+104 32777 0
+D1
+Vedi l'atrio infuocato.
+~
+~
+0 -1 10453
+D2
+Vedi l'ufficio del Foreman.
+~
+porta~
+1 -1 10462
+D5
+Vedi una buia scala che va'in basso.
+~
+~
+0 -1 10463
+S
+#10453
+Sala di Fuoco~
+Ti trovi in un atrio fatto di fuoco. I muri sono infiammati con
+fiamme gialle e blu. L'aria calda e la puzza di zolfo bruciano
+i tuoi polmoni come inali, ed asciugano la Tua bocca come esali.
+Il pavimento di pietra brucia i tuoi piedi ed asciuga ogni singola
+goccia di sudore che cade dal tuo corpo.
+La sala di fuoco continua verso est.
+Vedi un archivolto di pietra ad ovest.
+~
+104 32777 0
+D1
+Vedi la sala di fuoco.
+~
+~
+0 -1 10454
+D3
+Vedi l'archivolto di pietra.
+~
+~
+0 -1 10452
+S
+#10454
+Sala di Fuoco~
+Ti trovi in un atrio fatto di fuoco. I muri sono infiammati con
+fiamme gialle e blu. L'aria calda e la puzza di zolfo bruciano
+i tuoi polmoni come inali, ed asciugano la Tua bocca come esali.
+Il pavimento di pietra brucia i tuoi piedi ed asciuga ogni singola
+goccia di sudore che cade dal tuo corpo.
+La sala di fuoco continua verso sud ed ovest.
+~
+104 32777 0
+D2
+Vedi la sala di fuoco.
+~
+~
+0 -1 10464
+D3
+Vedi l'archivolto di pietra.
+~
+~
+0 -1 10453
+S
+#10455
+Area in Costruzione~
+Questa parte di Inferno sembra essere in riparazione. Dei lavoratori fissano 
+e sostituiscono tubi per il trasporto di gas,benzine ed altri raccordi simili. 
+Puoi vedere molte condotte del gas e linee elettriche smantellate sui muri. 
+Nei soffitti ci sono degli spruzzatori di fiamme parzialmente installati.
+Vedi più cantieri verso est e sud.
+~
+104 32777 0
+D1
+Vedi un'area in costruzione.
+~
+~
+0 -1 10456
+D2
+Vedi un'area in costruzione.
+~
+~
+0 -1 10465
+S
+#10456
+Area in Costruzione~
+Questa parte di Inferno sembra essere in riparazione. Dei lavoratori fissano 
+e sostituiscono tubi per il trasporto di gas,benzine ed altri raccordi simili. 
+Puoi vedere molte condotte del gas e linee elettriche smantellate sui muri. 
+Nei soffitti ci sono degli spruzzatori di fiamme parzialmente installati.
+Vedi più cantieri verso est e ovest.
+~
+104 32777 0
+D1
+Vedi un'area in costruzione.
+~
+~
+0 -1 10457
+D2
+Vedi un'area in costruzione.
+~
+~
+0 -1 10455
+S
+#10457
+Area in Costruzione~
+Questa parte di Inferno sembra essere in riparazione. Dei lavoratori fissano 
+e sostituiscono tubi per il trasporto di gas,benzine ed altri raccordi simili. 
+Puoi vedere molte condotte del gas e linee elettriche smantellate sui muri. 
+Nei soffitti ci sono degli spruzzatori di fiamme parzialmente installati.
+Vedi più cantieri verso sud e ovest.
+~
+104 32777 0
+D2
+Vedi un'area in costruzione.
+~
+~
+0 -1 10467
+D3
+Vedi un'area in costruzione.
+~
+~
+0 -1 10456
+S
+#10458
+Sala di Fuoco~
+Ti trovi in un atrio fatto di fuoco. I muri sono infiammati con
+fiamme gialle e blu. L'aria calda e la puzza di zolfo bruciano
+i tuoi polmoni come inali, ed asciugano la Tua bocca come esali.
+Il pavimento di pietra brucia i tuoi piedi ed asciuga ogni singola
+goccia di sudore che cade dal tuo corpo.
+La sala di fuoco continua verso sud ed est.
+~
+104 32777 0
+D1
+Vedi la sala di fuoco.
+~
+~
+0 -1 10459
+D2
+Vedi la sala di fuoco.
+~
+~
+0 -1 10468
+S
+#10459
+Sala di Fuoco~
+Ti trovi in un atrio fatto di fuoco. I muri sono infiammati con
+fiamme gialle e blu. L'aria calda e la puzza di zolfo bruciano
+i tuoi polmoni come inali, ed asciugano la Tua bocca come esali.
+Il pavimento di pietra brucia i tuoi piedi ed asciuga ogni singola
+goccia di sudore che cade dal tuo corpo.
+La sala di fuoco continua verso ovest.
+Una stanza piena di buche di fuoco e' a est.
+Un muro di fuoco crepita allegramente a sud.
+~
+104 32777 0
+D1
+Vedi una stanza con delle buche infuocate.
+~
+~
+0 -1 10460
+D2
+Vedi un muro di fuoco.
+~
+~
+0 -1 10469
+D3
+Vedi un muro di fuoco.
+~
+~
+0 -1 10458
+S
+#10460
+Buche di fuoco dell'Inferno~
+Questa stanza è piena di piccole buche sputafuoco. Innumerevoli anime
+sono condannate a bruciare ed arrostito tra le fiamme bianche che 
+eruttano dalle molte buche. 
+Lamenti e agghiaccianti grida di pena Ti scuotono le ossa.
+A sud vedi un lago di fuoco.
+Una sala di fuoco e'a ovest.
+~
+104 32777 0
+D2
+Vedi un lago di fuoco.
+~
+~
+0 -1 10470
+D3
+Vedi una sala di fuoco.
+~
+~
+0 -1 10459
+S
+#10461
+Fuoco Disegnato~
+I muri di questa stanza sembrano un disegno enorme. Scene di corpi
+bruciati ed anime torturate sono il tema principale. Rosso brillante e
+un blu radioso vengono enfatizzati in modo particolare. Guardando bene
+vedi che il tutto da una forte sensazione di disgusto e di pena.
+C'e' un forte odore di zolfo e metano misto all'aria calda.
+Verso sud c'e' un atrio di pietra.
+Soffi di aria calda ti arrivano dalla porta e il metano di cui e'
+composto ti fa tossire e quasi soffocare.
+
+~
+104 32777 0
+D2
+Vedi una stanza di pietra.
+~
+~
+0 -1 10471
+S
+#10462
+Ufficio del Foreman~
+Sei in un rozzo ufficio in costruzione. Progetti e variazioni sono sparsi
+un po' dappertutto. In un angolo c'e' un armadietto in ferro,
+probabilmente l'archivio. Davanti a te c'e' un tavolo di pietra con
+sopra steso un progetto.
+Sul muro c'è una placca con scritto," 4th DEMONsion Contruction"
+~
+104 32777 0
+D0
+Vedi la porta dell'ufficio.
+~
+porta~
+1 -1 10452
+S
+#10463
+Scalinata fredda~
+Ti trovi adesso su una scala dalla pietra fredda. L'aria calda ti arriva
+dall'alto. Dal basso invece ti arrivano raffiche di vento ghiacciate
+e ti fan rabbrividire. I ghiaccioli sul soffitto non fanno in tempo 
+a formarsi che gia' si sciolgono,cadendo sul pavimento di pietra.
+~
+104 32777 0
+D4
+E' troppo buio per vedere.
+~
+~
+0 -1 10452
+D5
+E' troppo buio per vedere.
+~
+~
+0 -1 10476
+S
+#10464
+Sala di Fuoco~
+Ti trovi in un atrio fatto di fuoco. I muri sono infiammati con
+fiamme gialle e blu. L'aria calda e la puzza di zolfo bruciano
+i tuoi polmoni come inali, ed asciugano la Tua bocca come esali.
+Il pavimento di pietra brucia i tuoi piedi ed asciuga ogni singola
+goccia di sudore che cade dal tuo corpo.
+La sala di fuoco continua verso nord e est.
+~
+104 32777 0
+D0
+Vedi la sala di fuoco.
+~
+~
+0 -1 10454
+D1
+Vedi un muro di fuoco.
+~
+~
+0 -1 10465
+S
+#10465
+Area in Costruzione~
+Questa parte di Inferno sembra essere in riparazione. Dei lavoratori fissano 
+e sostituiscono tubi per il trasporto di gas,benzine ed altri raccordi simili. 
+Puoi vedere molte condotte del gas e linee elettriche smantellate sui muri. 
+Nei soffitti ci sono degli spruzzatori di fiamme parzialmente installati.
+Vedi più cantieri verso nord ed est.
+La stanza del fuoco e' a ovest.
+~
+104 32777 0
+D0
+Vedi un'area in costruzione.
+~
+~
+0 -1 10455
+D1
+Vedi un'area in costruzione.
+~
+~
+0 -1 10466
+D3
+Vedi la sala di fuoco.
+~
+~
+0 -1 10464
+S
+#10466
+Area in Costruzione~
+Questa parte di Inferno sembra essere in riparazione. Dei lavoratori fissano 
+e sostituiscono tubi per il trasporto di gas,benzine ed altri raccordi simili. 
+Puoi vedere molte condotte del gas e linee elettriche smantellate sui muri. 
+Nei soffitti ci sono degli spruzzatori di fiamme parzialmente installati.
+Vedi più cantieri verso est e ovest.
+~
+104 32777 0
+D1
+Vedi un'area in costruzione.
+~
+~
+0 -1 10467
+D3
+Vedi un'area in costruzione.
+~
+~
+0 -1 10465
+S
+#10467
+Area in Costruzione~
+Questa parte di Inferno sembra essere in riparazione. Dei lavoratori fissano 
+e sostituiscono tubi per il trasporto di gas,benzine ed altri raccordi simili. 
+Puoi vedere molte condotte del gas e linee elettriche smantellate sui muri. 
+Nei soffitti ci sono degli spruzzatori di fiamme parzialmente installati.
+Vedi più cantieri verso nord e ovest.
+Verso est c'e' la sala di fuoco.
+~
+104 32777 0
+D0
+Vedi un'area in costruzione.
+~
+~
+0 -1 10457
+D1
+Vedi la sala di fuoco.
+~
+~
+0 -1 10468
+D3
+Vedi un'area in costruzione.
+~
+~
+0 -1 10466
+S
+#10468
+Sala di Fuoco~
+Ti trovi in un atrio fatto di fuoco. I muri sono infiammati con
+fiamme gialle e blu. L'aria calda e la puzza di zolfo bruciano
+i tuoi polmoni come inali, ed asciugano la Tua bocca come esali.
+Il pavimento di pietra brucia i tuoi piedi ed asciuga ogni singola
+goccia di sudore che cade dal tuo corpo.
+La sala di fuoco continua verso nord.
+Da ovest arrivano rumori ,come di un cantiere edile.
+~
+104 32777 0
+D0
+Vedi la sala di fuoco.
+~
+~
+0 -1 10458
+D3
+Vedi un'area in costruzione.
+~
+~
+0 -1 10467
+S
+#10469
+Muro di Fuoco~
+Questa grande stanza è divisa in sezioni da piccoli muri di fuoco. 
+Muovendosi lentamente,i muri cambiano in continuazione la configurazione
+della stanza. Esaminando attentamente la stanza,noti che e' la gente
+incatenata a far muovere i muri,cercando di fuggire dalle fiamme.
+Ovviamente la loro e' una vana speranza,perche' il fuoco inesorabilmente
+li consuma pian piano, provocando in loro piaghe pustole e un dolore atroce.
+Tanti implorano inutilmente la morte,aumentando cosi' la propria agonia....
+A nord vedi una sala di fuoco.
+A est vedi un lago di fuoco.
+~
+104 32777 0
+D0
+Vedi un muro di fuoco.
+~
+~
+0 -1 10459
+D1
+Vedi un lago di fuoco.
+~
+~
+0 -1 10470
+S
+#10470
+Lago di Fuoco~
+Sei su una spiaggia di un grande lago di fuoco. Fumo e calore riempono
+questa stanza enorme. Puoi vedere le fiamme color blu ed oro che prendono 
+forme strane, quasi sembrano danzare.
+~
+104 32777 0
+D0
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10460
+D1
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10471
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10469
+S
+#10471
+Sala calda~
+Il pavimento di pietra e' roventa ed i tuoi piedi cominciano a non
+sopportare il calore. Soffitto e muri ardono e sono di un ottuso rosso 
+e tu sudi e soffri per il forte calore.
+~
+104 32777 0
+D0
+Vedi una stanza disegnata.
+~
+~
+0 -1 10461
+D3
+C'e' troppo fumo per vedere.
+~
+~
+0 -1 10470
+S
+#10472
+Terra ghiacciata~
+Questo terra è fatto interamente di ghiaccio. Sui muri son descritte scene
+di battaglia e caccia in basso rilievo. Le scene ghiacciate raffigurano
+diavoli che uccidono angeli,cacciano mortali ed altre storie simili. 
+A est vedi una stanza di ghiaccio.
+~
+104 32777 0
+D1
+Vedi una stanza di ghiaccio.
+~
+~
+0 -1 10541
+S
+#10473
+Stanza del ghiaccio~
+Ti trovi in una stanza di ghiaccio. Stalattiti di ogni taglia scendono
+dal soffitto. Alcune stalattiti emettono suoni sgradevoli. I muri
+di ghiaccio sembrano danzare sotto i tuoi occhi e forse si muovono...
+Verso sud vedi una ghiacciaia.
+Verso ovest vedi una terra Ghiacciata.
+~
+104 32777 0
+D2
+Vedi una stanza di ghiaccio.
+~
+~
+0 -1 10483
+D3
+Vedi una stanza di ghiaccio.
+~
+~
+0 -1 10541
+S
+#10474
+Cella per la carne~
+Qui' probabilmente si conserva la carne. Fette di manzo ed altra carne
+sono appese al muro con grossi ganci d'acciaio. Osservando meglio
+vedi che non sono animali,bensi' cadaveri di persone. Mentre passi
+i cadaveri si prolungano verso di Te supplicandoti di aiutarli...
+Lei come passa loro come se supplicare per aiuta dalle loro bocche gelate. 
+La cella della carne continua a est e sud.
+~
+104 32777 0
+D1
+Vedi una cella per la carne
+~
+~
+0 -1 10475
+D2
+Vedi una cella per la carne
+~
+~
+0 -1 10484
+S
+#10475
+Cella per la carne~
+Qui' probabilmente si conserva la carne. Fette di manzo ed altra carne
+sono appese al muro con grossi ganci d'acciaio. Osservando meglio
+vedi che non sono animali,bensi' cadaveri di persone. Mentre passi
+i cadaveri si prolungano verso di Te supplicandoti di aiutarli...
+Lei come passa loro come se supplicare per aiuta dalle loro bocche gelate. 
+La cella della carne continua a ovest e sud.
+Verso est c'e' una porta del congelatore.
+~
+104 32777 0
+D1
+Vedi la porta di un congelatore.
+~
+congelatore~
+1 -1 10476
+D2
+Vedi altre celle per la carne
+~
+~
+0 -1 10485
+S
+#10476
+Alloggiamento del Pinguino~
+Questo sembra essere la copia di un iceberg. Ci son Pinguini che ancheggiando 
+beccano le povere anime intrappolate nel pavimento ghiacciato. 
+I muri son dipinti da sembrare un vasto oceano e hai l'impressione
+di esserci dentro. 
+L'iceberg continua a sud ed est.
+C'è una porta del congelatore a ovest.
+~
+104 32777 0
+D1
+Vedi ghiaccio all'infinito.
+~
+~
+0 -1 10477
+D2
+Vedi ghiaccio all'infinito.
+~
+~
+0 -1 10486
+D3
+Vedi la porta del congelatore.
+~
+porta del congelatore~
+1 -1 10475
+S
+#10477
+Alloggiamento del Pinguino~
+Questo sembra essere la copia di un iceberg. Ci son Pinguini che ancheggiando 
+beccano le povere anime intrappolate nel pavimento ghiacciato. 
+I muri son dipinti da sembrare un vasto oceano e hai l'impressione
+di esserci dentro. 
+L'iceberg continua a sud ed est.
+C'è una porta del congelatore a ovest.
+~
+104 32777 0
+D2
+Vedi ghiaccio all'infinito.
+~
+~
+0 -1 10487
+D3
+Vedi ghiaccio all'infinito.
+~
+~
+0 -1 10476
+S
+#10478
+Gelateria~
+Ti sembra di essere in una fabbrica di gelati. Molti lavoratori 
+corrono freneticamente intorno alle macchine,lavorando il gelato.
+La fabbrica continua a est e sud.
+~
+104 32777 0
+D1
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10479
+D2
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10488
+S
+#10479
+Gelateria~
+Ti sembra di essere in una fabbrica di gelati. Ops laggiu' sembra
+che un gruppo di persone urli da dentro i contenitori,ed immediatamente 
+i lavoranti vanno a chiudere i contenitori. 
+gruppo di gente qui grida in contenitori ed allora rapidamente copertura 
+loro. Cominci ad avere dei dubbi sulla natura del gelato......
+La fabbrica continua a sud ed ovest.
+C'è una porta d'acciaio a est.
+~
+104 32777 0
+D1
+Vedi una porta d'acciaio.
+~
+porta d'acciaio~
+1 -1 10480
+D2
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10489
+D3
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10478
+S
+#10480
+Sala del Marmo bianco~
+Sei in un atrio dal marmo bianco, asciutto e pulito. Molti ritratti 
+di demoni e diavoli adornano i muri in ambedue i lati della sala.
+La sala continua a sud.
+A ovest c'è una porta d'acciaio.
+~
+104 32777 0
+D2
+Vedi una sala dal marmo bianco.
+~
+~
+0 -1 10490
+D3
+Vedi una porta d'acciaio.
+~
+porta d'acciaio~
+1 -1 10479
+S
+#10481
+Cella Frigorifera~
+Questa stanza è piena di frigoriferi giganti. I frigoriferi non hanno porta 
+ed i loro contenuto e' steso sul pavimento.
+La sola uscita è a est.
+~
+104 32777 0
+D1
+Vedi la stanza del ghiaccio.
+~
+~
+0 -1 10482
+S
+#10482
+Stanza del ghiaccio~
+Ti trovi in una stanza di ghiaccio. Stalattiti di ogni taglia scendono
+dal soffitto. Alcune stalattiti emettono suoni sgradevoli. I muri
+di ghiaccio sembrano danzare sotto i tuoi occhi e forse si muovono...
+Ad est e a nord vedi alcune stanze ghiacciate.
+Ad ovest vedi una stanza piena di congelatori.
+~
+104 32777 0
+D0
+Vedi una stanza di ghiaccio.
+~
+~
+0 -1 10541
+D1
+Vedi una stanza di ghiaccio.
+~
+~
+0 -1 10483
+D3
+Vedi una stanza piena di congelatori.
+~
+~
+0 -1 10481
+S
+#10483
+Stanza del ghiaccio~
+Ti trovi in una stanza di ghiaccio. Stalattiti di ogni taglia scendono
+dal soffitto. Alcune stalattiti emettono suoni sgradevoli. I muri
+di ghiaccio sembrano danzare sotto i tuoi occhi e forse si muovono...
+Ad ovest e a nord vedi alcune stanze ghiacciate.
+Verso est vedi la porta del congelatore.
+~
+104 32777 0
+D0
+Vedi una stanza di ghiaccio.
+~
+~
+0 -1 10473
+D1
+Vedi la porta del congelatore.
+~
+porta del congelatore~
+1 -1 10484
+D3
+Vedi la stanza di ghiaccio.
+~
+~
+0 -1 10482
+S
+#10484
+Cella per la carne~
+Qui' probabilmente si conserva la carne. Fette di manzo ed altra carne
+sono appese al muro con grossi ganci d'acciaio. Osservando meglio
+vedi che non sono animali,bensi' cadaveri di persone. Mentre passi
+i cadaveri si prolungano verso di Te supplicandoti di aiutarli...
+Lei come passa loro come se supplicare per aiuta dalle loro bocche gelate. 
+La cella della carne continua a nord ed est.
+Verso ovest c'e' la porta del congelatore.
+~
+104 32777 0
+D0
+Vedi molte celle per la carne
+~
+~
+0 -1 10474
+D1
+Vedi molte celle per la carne
+~
+~
+0 -1 10485
+D3
+Vedi la porta del freezer.
+~
+porta del freezer~
+1 -1 10483
+S
+#10485
+Cella per la carne~
+Fette di manzo ed altra carne sono appese al muro 
+con grossi ganci d'acciaio.
+La cella della carne continua a nord ed ovest. 
+~
+104 32777 0
+D0
+Vedi molte celle per la carne
+~
+~
+0 -1 10475
+D3
+Vedi molte celle per la carne
+~
+~
+0 -1 10484
+S
+#10486
+Alloggiamento del Pinguino~
+Questo sembra essere la copia di un iceberg. Ci son Pinguini che ancheggiando 
+beccano le povere anime intrappolate nel pavimento ghiacciato. 
+I muri son dipinti da sembrare un vasto oceano e hai l'impressione
+di esserci dentro. 
+L'iceberg continua a nord ed est.
+~
+104 32777 0
+D0
+Vedi ghiaccio all'infinito.
+~
+~
+0 -1 10476
+D1
+Vedi ghiaccio all'infinito.
+~
+~
+0 -1 10487
+S
+#10487
+Alloggiamento del Pinguino~
+Questo sembra essere la copia di un iceberg. Ci son Pinguini che ancheggiando 
+beccano le povere anime intrappolate nel pavimento ghiacciato. 
+I muri son dipinti da sembrare un vasto oceano e hai l'impressione
+di esserci dentro. 
+L'iceberg continua a nord ed ovest.
+Da est provengono rumori di macchinari.
+~
+104 32777 0
+D0
+Vedi un'infinita' di ghiaccio.
+~
+~
+0 -1 10477
+D1
+Vedi un buio passaggio.
+~
+~
+0 -1 10488
+S
+#10488
+Gelateria~
+Stai attraversando parte di una fabbrica di gelati. Diverse qualita'
+di gelati ed altri dessert escono da queste macchine. Su una 
+di queste macchine noti una scritta, 'Eye Splean I Screamery.'
+La fabbrica continua verso nord ed est.
+Da ovest provengono rumori di pinguini.
+~
+104 32777 0
+D0
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10478
+D1
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10489
+D3
+Vedi un buio passaggio.
+~
+~
+0 -1 10487
+S
+#10489
+Gelateria~
+Ti trovi tra dozzine di macchine per il gelato. I lavoratori 
+si muovono da una macchina all'altra aggiustando quadranti
+e controllando gli apparecchi.
+La fabbrica continua a nord ed ovest.
+~
+104 32777 0
+D0
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10479
+D3
+Vedi molte macchine per il gelato.
+~
+~
+0 -1 10488
+S
+#10490
+Sala del Marmo~
+Stai camminando in un atrio dal marmo bianco. Molti ritratti 
+di demoni e diavoli adornano i muri in ambedue i lati della sala.
+Guardando con piu' attenzione capisci che non sono demoni
+e diavoli dopotutto, ma avvocati ...bene ok......
+dipende dal tuo punto di vista
+La sala continua a nord.
+A sud c'e' un ufficio.
+~
+104 32777 0
+D0
+Vedi una sala dal marmo bianco.
+~
+~
+0 -1 10480
+D2
+Vedi un ufficio.
+~
+~
+0 -1 10500
+S
+#10491
+Sala dell'archivio~
+Questo sala enorme è un archivio. Qui' ci sono miliardi di dati
+sulle persone vive ...morte...... e future.
+Questi dati sono riservati e solo a pochi eletti e' permesso accedervi.
+L'archivio continua a est.
+~
+104 32777 0
+D1
+Vedi un archivio.
+~
+~
+0 -1 10492
+S
+#10492
+Sala dell'archivio~
+Questo sala enorme è un archivio. Qui' ci sono miliardi di dati
+sulle persone vive ...morte...... e future.
+Questi dati sono riservati e solo a pochi eletti e' permesso accedervi.
+L'archivio continua a est e ad ovest.
+~
+104 32777 0
+D1
+Vedi un enorme archivio.
+~
+~
+0 -1 10493
+D2
+Vedi la sala di Giustizia.
+~
+~
+0 -1 10502
+D3
+Vedi un enorme archivio.
+~
+~
+0 -1 10491
+S
+#10493
+Sala dell'archivio~
+Questo sala enorme è un archivio. Qui' ci sono miliardi di dati
+sulle persone vive ...morte...... e future.
+Questi dati sono riservati e solo a pochi eletti e' permesso accedervi.
+L'archivio continua a est e ad ovest.
+~
+104 32777 0
+D1
+Vedi un enorme archivio.
+~
+~
+0 -1 10494
+D3
+Vedi un enorme archivio.
+~
+~
+0 -1 10492
+S
+#10494
+Sala dell'archivio~
+Questo sala enorme è un archivio. Qui' ci sono miliardi di dati
+sulle persone vive ...morte...... e future.
+Questi dati sono riservati e solo a pochi eletti e' permesso accedervi.
+L'archivio continua ad ovest.
+~
+104 32777 0
+D3
+Vedi un enorme archivio.
+~
+~
+0 -1 10493
+S
+#10495
+Piccolo Altare~
+Questa è la stanza privata in cui viene a pregare il Sommo Prete. 
+Un piccolo altare e' situato nella parte ovest della stanza attaccato
+al muro. Simboli demoniaci e quadri orribili sono presenti dappertutto.
+Il nuovo Poster di propaganda per l'Inferno e' appeso dietro l'altare.
+Vedi una sala scura ad est.
+~
+104 32777 0
+D1
+Vedi una sala bruciata.
+~
+~
+0 -1 10496
+E
+poster~
+
+Non andare in cielo....Ti annoierai di sicuro....
+
+        ***VIENI ALL'INFERNO!!!****
+
+Sarai dannato se non lo farai  ;)
+~
+S
+#10496
+Sala Bruciata~
+Questa sala sembra essere stata bruciata recentemente. I muri sono 
+completamente anneriti e fumano ancora. Cenere e pezzi di legno
+ardente scricchiolano sotto i tuoi piedi mentre cammini.
+Una scritta sul muro dice, 'No Non-smoking Please.' 
+La sala continua a sud.
+Verso est c'e' una porta di pietra.
+Verso ovest c'e' una stanza di preghiera.
+~
+104 32777 0
+D1
+Vedi una porta di pietra.
+~
+porta di pietra~
+1 -1 10497
+D2
+Vedi una sala bruciata.
+~
+~
+0 -1 10506
+D3
+Vedi una stanza di preghiera.
+~
+~
+0 -1 10495
+S
+#10497
+Ufficio del Sommo Prete~
+Questo è l'ufficio del Sommo Prete dell'Inferno. Una scrivania fatta
+di pietra nera sta' di fronte a te. L'ufficio è prodigiosamente
+fornito di oro, gemme e molti altri pezzi d'antiquariato.
+Un grande ritratto raffigurante le faccie dei demoni è appeso dietro 
+alla sua scrivania.
+Vede una porta della pietra all'ovest.
+~
+104 32777 0
+D3
+Vedi una porta di pietra.
+~
+porta di pietra~
+1 -1 10496
+S
+#10498
+Sala Bruciata~
+Questa sala sembra essere stata bruciata recentemente. I muri sono 
+completamente anneriti e fumano ancora. Cenere e pezzi di legno
+ardente scricchiolano sotto i tuoi piedi mentre cammini.
+Una scritta sul muro dice, 'No Non-smoking Please.' 
+La sala continua a est e a  sud.
+~
+104 32777 0
+D1
+Vedi una sala bruciata.
+~
+~
+0 -1 10499
+D2
+Vedi una sala bruciata.
+~
+~
+0 -1 10508
+S
+#10499
+Sala Bruciata~
+Questa sala sembra essere stata bruciata recentemente. I muri sono 
+completamente anneriti e fumano ancora. Cenere e pezzi di legno
+ardente scricchiolano sotto i tuoi piedi mentre cammini.
+Una scritta sul muro dice, 'No Non-smoking Please.' 
+La sala continua a ovest.
+Verso est c'e' una porta di vetro.
+~
+104 32777 0
+D1
+Vedi una porta di vetro.
+~
+porta di vetro~
+1 -1 10500
+D3
+Vedi una sala bruciata.
+~
+~
+0 -1 10498
+S
+#10500
+Amministrazione dell'Inferno~
+Questo è l'ingresso dell'Amministrazione dell'Inferno. I segretari
+son tranquillamente seduti vicino alle scrivanie nel centro della stanza.
+A sud c'è una porta in metallo con una targa infissa, 
+'Authorized Personale Only'
+Verso ovest c'e' una grande porta di vetro.
+Una scalinata va in basso sul lato opposto della stanza.
+C'è un cartello affisso vicino alla scala.
+~
+104 32777 0
+D0
+Vedi una sala di marmo.
+~
+~
+0 -1 10490
+D2
+Vedi una porta di metallo.
+~
+porta di metallo~
+1 -1 10510
+D3
+Vedi una porta di vetro.
+~
+porta vetro~
+1 -1 10499
+D5
+Vedi una scala che va verso il basso.
+~
+scala~
+0 -1 10509
+E
+cartello~
+****ATTENZIONE***
+L'Abyss è CHIUSO per manutenzione.
+
+Sara' aperto per i vostri dolorosi piaceri
+
+presto....
+
+-Strahd-
+~
+S
+#10501
+Sala di Giustizia~
+Ti trovi in una Sala di Giustizia. Ci sono molte alcove le quali
+contengono diversi metodi di tortura. Ciascuno più grottesco 
+dell'altro. Sul muro c'e' una placca con scritto, 
+'Se tu sei qui...Tu sei Colpevole. .You sei stato giudicato....
+Ti suona promettente? Molto male. .'
+La sala continua a est.
+La sala della Corte è a sud.
+~
+104 32777 0
+D1
+Vedi la sala di giustizia.
+~
+~
+0 -1 10502
+D2
+Vedi la corte dell'Inferno.
+~
+~
+0 -1 10511
+S
+#10502
+Sala di Giustizia~
+Ti trovi in una Sala di Giustizia. Ci sono molte alcove le quali
+contengono diversi metodi di tortura. Ciascuno più grottesco 
+dell'altro. 
+La sala continua a est e a ovest.
+Verso nord c'e' l'Archivio.
+~
+104 32777 0
+D0
+Vedi l'archivio.
+~
+~
+0 -1 10492
+D1
+Vedi la sala di giustizia.
+~
+~
+0 -1 10503
+D3
+Vedi la sala di giustizia.
+~
+~
+0 -1 10501
+S
+#10503
+Sala di Giustizia~
+Ti trovi in una Sala di Giustizia. Ci sono molte alcove le quali
+contengono diversi metodi di tortura. Ciascuno più grottesco 
+dell'altro. 
+La sala continua a est e a ovest.
+L'Ufficio Lamentele e' a sud.
+~
+104 32777 0
+D1
+Vedi la sala di giustizia.
+~
+~
+0 -1 10504
+D2
+Vedi l'Ufficio Lamentele.
+~
+~
+0 -1 10513
+D3
+Vedi la sala di giustizia.
+~
+~
+0 -1 10502
+S
+#10504
+Sala di Giustizia~
+Ti trovi in una Sala di Giustizia. Ci sono molte alcove le quali
+contengono diversi metodi di tortura. Ciascuno più grottesco 
+dell'altro. 
+La sala continua a est e a ovest.
+~
+104 32777 0
+D1
+Vedi la sala di giustizia.
+~
+~
+0 -1 10505
+D3
+Vedi la sala di giustizia.
+~
+~
+0 -1 10503
+S
+#10505
+Sala di Giustizia~
+Ti trovi in una Sala di Giustizia. Ci sono molte alcove le quali
+contengono diversi metodi di tortura. Ciascuno più grottesco 
+dell'altro. 
+La sala continua a est e a ovest.
+~
+104 32777 0
+D1
+Vedi la sala di giustizia.
+~
+~
+0 -1 10506
+D3
+Vedi la sala di giustizia.
+~
+~
+0 -1 10504
+S
+#10506
+Sala Bruciata~
+Questa sala sembra essere stata bruciata recentemente. I muri sono 
+completamente anneriti e fumano ancora. Cenere e pezzi di legno
+ardente scricchiolano sotto i tuoi piedi mentre cammini.
+Una scritta sul muro dice, 'No Non-smoking Please.' 
+Ci sono uscite in tutte le direzioni.
+~
+104 32777 0
+D0
+Vedi una sala bruciata.
+~
+~
+0 -1 10496
+D1
+Vedi una sala bruciata.
+~
+~
+0 -1 10507
+D2
+Vedi un atrio con molti negozi Infernali.
+~
+~
+0 -1 10516
+D3
+Vedi la sala di Giustizia.
+~
+~
+0 -1 10505
+S
+#10507
+Sala Bruciata~
+Questa sala sembra essere stata bruciata recentemente. I muri sono 
+completamente anneriti e fumano ancora. Cenere e pezzi di legno
+ardente scricchiolano sotto i tuoi piedi mentre cammini.
+Una scritta sul muro dice, 'No Non-smoking Please.' 
+La sala continua a est e a ovest.
+~
+104 32777 0
+D1
+Vedi una sala bruciata.
+~
+~
+0 -1 10508
+D3
+Vedi una sala bruciata.
+~
+~
+0 -1 10506
+S
+#10508
+Sala Bruciata~
+Questa sala sembra essere stata bruciata recentemente. I muri sono 
+completamente anneriti e fumano ancora. Cenere e pezzi di legno
+ardente scricchiolano sotto i tuoi piedi mentre cammini.
+Una scritta sul muro dice, 'No Non-smoking Please.' 
+La sala continua a nord e a ovest.
+~
+104 32777 0
+D0
+Vedi una sala bruciata.
+~
+~
+0 -1 10498
+D3
+Vedi una sala bruciata.
+~
+~
+0 -1 10507
+S
+#10509
+Scalinata per l'Abisso~
+Queste scale oscure son costruite con le  ossa dei condannati. 
+Tremano leggermente non appena appoggi il piede ed iniziano a piangere 
+e a lamentarsi. L'atmosfera e' satura di urla e lamenti delle anime perdute
+ma intanto qualcuno fissa le scale col sangue e tremano un po' meno.
+~
+104 32777 0
+D5
+Vedi l'eterna oscurita' dell'Abisso.
+~
+~
+0 -1 10518
+S
+#10510
+Marciapiede in Manutenzione~
+Questo è un marciapiede in manutenzione. Non vedi nulla di speciale 
+per adesso ma sai bene che non restera' cosi' per molto.
+Il marciapiedi continua a sud.
+A nord c'e' una porta di metallo.
+~
+104 32777 0
+D0
+Vedi una porta di metallo.
+~
+porta di metallo~
+1 -1 10500
+D2
+Vedi un marciapiedi in manutenzione.
+~
+~
+0 -1 10520
+S
+#10511
+Stanza della Corte~
+Questa è la Corte dell'Inferno. Qui vengono emesse condanne ,punizioni 
+e sentenze. Oh no. .tu non presenti prove. Non lo meriti.
+La Sala della Corte e' piena di spettatori e membri della giuria.
+Sembrano non avere nessuna ragione reale per essere sinceri ed
+aspettare una prova. Tu sei al centro della stanza e loro
+ridono e si prendono gioco di te.
+A nord c'è la Sala di Giustizia.
+Dietro alla panca dei giudici c'è una porta di legno.
+~
+104 32777 0
+D0
+Vedi la sala di giustizia.
+~
+~
+0 -1 10501
+D2
+Vedi una larga porta di legno.
+~
+~
+0 -1 10521
+S
+#10512
+Ufficio degli avvocati~
+Guardantoti intorno ti accorgi di essere entrato nell'ufficio 
+degli avvocati. Adesso sai che sei all'Inferno....tutti in questo
+ufficio sembrano muoversi silenziosamente.
+Questo è il solo ufficio degli avvocati in tutto l'Inferno, così se non 
+dovesse piacerti sarebbero affari tuoi.
+Ma allora di nuovo. .se sei all'inferno. .tu hai avuto molta fortuna
+qualche attimo fa ,he he he. 
+A est c'è l'Ufficio delle Lamentele.
+A sud vedi un Cortile.
+~
+104 32777 0
+D1
+Vedi l'ufficio delle Lamentele.
+~
+~
+0 -1 10513
+D2
+Vedi un Cortile.
+~
+~
+0 -1 10522
+S
+#10513
+Ufficio Lamentele~
+Questo è un ufficio relativamente piccolo. C'è un grande buco nel muro 
+dove un impiegato di solito si siede e prende le lamentele riguardanti
+l'inferno. C'e' uno scaffalino con i moduli per le richieste.
+Una targa sopra la scrivania degli impiegati dice,i reclami si accettano 
+nei seguenti orari:, 'Orario: 12: 00am- 12: 01am'
+Ad ovest c'è l'ufficio degli avvocati.
+A nord vedi la Sala di Giustizia.
+~
+104 32777 0
+D0
+Vedi la sala di Giustizia.
+~
+~
+0 -1 10503
+D3
+Vedi l'uffico avvocati
+~
+~
+0 -1 10512
+S
+#10514
+Negozio dei Pegni~
+Ti trovi nel negozio di Hiramoto,qui' compri e vendi. 
+Questo povero bastardo e' dannato a servire il pubblico per l'eternita'.
+Comprerà la maggior parte della roba che hai, anche se e' lento negli
+affari. Non c'e' molta gente che visita l'Inferno.
+Il negozio è pieno di pezzi schifosissimi. 
+Emorroidi dentro palle dall'alluminio,e bottiglie con cappelli dentro
+riempono gli angoli della stanza.Insomma c'e' proprio di tutto.
+Verso est vedi molti negozi dell'Inferno.
+~
+104 32777 0
+D1
+Vedi molti negozi Infernali.
+~
+~
+0 -1 10515
+S
+#10515
+Quartiere dei negozi dell'Inferno~
+Questo è definito l'edificio con molti negozi dell'inferno. .
+ma non c'è nessuno negozio!
+Solo all'inferno esistono i negozi vuoti.
+A est vedi il quartiere dei negozi.
+A ovest vedi il negozio di Hiramoto.
+La sala continua a est e a sud.
+~
+104 32777 0
+D1
+Vedi il quartiere dei negozi fell'Inferno.
+~
+~
+0 -1 10516
+D2
+Vedi il quartiere dei negozi fell'Inferno.
+~
+~
+0 -1 10525
+D3
+Vedi il negozio di Hiramoto.
+~
+~
+0 -1 10514
+S
+#10516
+Quartiere dei negozi dell'Inferno~
+Questo è definito l'edificio con molti negozi dell'inferno. .
+ma non c'è nessuno negozio!
+Solo all'inferno esistono i negozi vuoti.
+A est vedi l'ufficio di Big Mouth.
+A nord vedi una sala bruciata.
+La sala continua a ovest.
+~
+104 32777 0
+D0
+Vedi la Sala Bruciata.
+~
+~
+0 -1 10506
+D1
+Vedi l'ufficio di Big Mouth.
+~
+~
+0 -1 10517
+D3
+Vedi il quartiere dei negozi dell'Inferno.
+~
+~
+0 -1 10515
+S
+#10517
+L'Ufficio di Big Mouth~
+Questo è l'ufficio di Big Mouth,capo demone dell'Amministrazione
+dell'Inferno.La stanza è addobbata con disegni di donne nude firmati
+dai piu' famosi torturatori di anime.
+Dietro alla scrivania sta dormendo Big Mouth.
+La sua Bocca e' talmente grande che puo' fare un sol boccone di un
+essere umano.Ti meravigli che non ti abbia ancora mangiato......
+~
+104 32777 0
+D3
+Vedi il quartiere dei negozi dell'Inferno.
+~
+~
+0 -1 10516
+D5
+Vedi la Bocca di Big Mouth.
+~
+bocca di Big Mouth~
+1 -1 10526
+S
+#10518
+Scalinata per l'Abisso~
+Queste scale oscure son costruite con le  ossa dei condannati. 
+Tremano leggermente non appena appoggi il piede ed iniziano a piangere 
+e a lamentarsi. L'atmosfera e' satura di urla e lamenti delle anime perdute
+ma intanto qualcuno fissa le scale col sangue e tremano un po' meno.
+~
+104 32777 0
+D5
+Vedi l'eterna oscurita' dell'Abisso.
+~
+~
+0 -1 10527
+S
+#10519
+Marciapiede in Manutenzione~
+Questo è un marciapiede in manutenzione. Non vedi nulla di speciale 
+per adesso ma sai bene che non restera' cosi' per molto.
+Il marciapiedi continua a est e a sud.
+~
+104 32777 0
+D1
+Vedi un marciapiedi.
+~
+~
+0 -1 10520
+D2
+Vedi un marciapiedi.
+~
+~
+0 -1 10529
+S
+#10520
+Marciapiede in Manutenzione~
+Questo è un marciapiede in manutenzione. Non vedi nulla di speciale 
+per adesso ma sai bene che non restera' cosi' per molto.
+Il marciapiedi continua a nord e a ovest.
+~
+104 32777 0
+D0
+Vedi un marciapiedi.
+~
+~
+0 -1 10510
+D3
+Vedi un marciapiedi.
+~
+~
+0 -1 10519
+S
+#10521
+Camere del Giudice~
+Queste sono camere private dell'Alto Giudice dell'Inferno. Ha un lavoro 
+importante ed il suo ufficio riflette quello che fa.Un candelabro d'oro 
+illumina il muro con scintillanti luci color blu e gialle.
+Gli scintilli della scrivania in cristallo nero enfatizzano l'effetto
+del candelabro.  
+~
+104 32776 0
+D0
+Vedi la sala della corte dell'Inferno.
+~
+~
+0 -1 10511
+S
+#10522
+Cortile~
+Questo cortile è sterile e trascurato. Piccole erbacce crescono in
+continuazione tra le lastre. Una vecchia fontana ormai in rovina
+schizza una fanghiglia grigio-marrone.
+L'ufficio degli avvocati è a nord.
+Il cortile continua a est e a sud.
+~
+104 32777 0
+D0
+Vedi l'ufficio degli avvocati.
+~
+~
+0 -1 10512
+D1
+Vedi proseguire il cortile.
+~
+~
+0 -1 10523
+D2
+Vedi proseguire il cortile.
+~
+~
+0 -1 10532
+S
+#10523
+Cortile~
+Questo cortile è sterile e trascurato. Piccole erbacce crescono in
+continuazione tra le lastre. Una vecchia fontana ormai in rovina
+schizza una fanghiglia grigio-marrone.
+Il cortile continua a ovest e a sud.
+I Destrieri Magici di Stanley sono a est.
+~
+104 32777 0
+D1
+Vedi il negozio Destrieri Magici di Stanley.
+~
+~
+0 -1 10524
+D2
+Vedi proseguire il cortile.
+~
+~
+0 -1 10533
+D3
+Vedi proseguire il cortile.
+~
+~
+0 -1 10522
+S
+#10524
+I Destrieri Magici di Stanely~
+Questo è il negozio di Stanely. Un tempo vendeva ciondoli maledetti
+nella città di Solace. Da un po di tempo ha aperto questo negozio
+all'Inferno per vendere figurine magiche. Le figurine assomigliano 
+vagamente a destrieri. Si dice che Stanely abbia fatto un patto
+col Diavolo...sai di non sbagliare, ha un contratto d'affitto per 
+sette anni.......
+Il cortile è a ovest.
+A sud vedi il quartiere dei negozi dell'Inferno
+~
+104 32777 0
+D2
+Vedi il quartiere dei negozi dell'Inferno.
+~
+~
+0 -1 10534
+D3
+Vedi un cortile abbandonato.
+~
+~
+0 -1 10523
+S
+#10525
+Quartiere dei negozi dell'Inferno~
+Questo è definito l'edificio con molti negozi dell'inferno. .
+ma non c'è nessuno negozio!
+Solo all'inferno esistono i negozi vuoti.
+L'atrio continua a nord e a sud.
+~
+104 32777 0
+D0
+~
+~
+0 0 10515
+D2
+~
+~
+0 0 10535
+S
+#10526
+Dentro lo stomaco di Big Mouth~
+Sei dentro lo stomaco di Bigh Mouth. E' grande qui'. Piccoli animale
+ed altre disparità nuotano nello stomaco. Vedi un dragone?????  
+Nah...non puo' essere...
+~
+104 32777 0
+D4
+Vedi la gola di Big Mouth.
+~
+gola di Big Mouth~
+1 -1 10517
+S
+#10527
+Scalinata per l'Abisso~
+Queste scale oscure son costruite con le  ossa dei condannati. 
+Tremano leggermente non appena appoggi il piede ed iniziano a piangere 
+e a lamentarsi. L'atmosfera e' satura di urla e lamenti delle anime perdute
+ma intanto qualcuno fissa le scale col sangue e tremano un po' meno.
+~
+104 32777 0
+D5
+Vedi l'eterno buio dell'abisso.
+~
+~
+0 -1 10536
+S
+#10528
+Centro controllo Reattore~
+Da questa stanza si controlla il reattore dell'inferno. Da qui 
+i lavoratori controllano il reattore principale e tutta l'energia
+per approvvigionare tutto l'inferno e l'abisso. Molti lavoratori
+si muovono freneticamente,affinche' tutto sia efficiente.
+Un grande vetro permette di guardare nel cuore del reattore.
+Nella parte sud della stanza c'e' una scala che porta sotto.
+C'è una sala di manutenzione ad est.
+~
+104 32777 0
+D1
+Vedi la sala di manutenzione.
+~
+~
+0 -1 10529
+D2
+Vedi delle scale che portano sotto il reattore.
+~
+~
+0 -1 10538
+S
+#10529
+Sala di Manutenzione~
+Ti trovi nella principale stanza di manutenzione dell'inferno. Attrezzi 
+di tutte le forme e misure sono appesi sui muri, ciascuno col proprio
+colore e numero.
+A ovest c'e' il centro controllo del reattore.
+A est c'è l'alloggio per la pausa.
+Al nord c'è un marciapiedi in manutenzione.
+Al sud c'è una stanza di controllo secondaria.
+~
+104 32777 0
+D0
+Vedi un marciapiedi in manutenzione.
+~
+~
+0 -1 10519
+D1
+Vedi un alloggio per la pausa.
+~
+~
+0 -1 10530
+D2
+Vedi una stanza di controllo secondaria.
+~
+~
+0 -1 10539
+D3
+Vedi la sala controllo reattore.
+~
+~
+0 -1 10528
+S
+#10530
+Alloggio per la pausa~
+Questa è la stanza della pausa per i lavoratori della manutenzione. 
+Sui tavoli trovi dal caffè alle brioches con la marmellata. 
+Che scherzo crudele, l'Ingegniere capo ha messo i suoi cani da guardia
+a proteggere la stanza, cosi' nessuno puo' smettere di lavorare.
+A ovest c'è la sala di manutenzione primaria.
+A sud c'è l'ufficio dell'Ingegnere capo.
+~
+104 32777 0
+D2
+Vedi l'ufficio dell'ingegnere capo.
+~
+~
+0 -1 10540
+D3
+Vedi la primaria sala di manutenzione.
+~
+~
+0 -1 10529
+S
+#10531
+Cucina dell'Inferno~
+Benvenuto nelle cucine dell'Inferno, dove tutto è delizioso....come tu
+giustamente puoi supporre...Qui' vengono costruiti molti cibi, anche
+per il mondo di Farside. I cuochi di solito son molto occupati, ma
+trovano sempre il tempo per torturare qualche ospite.
+A est c'e' un cortile.
+~
+104 32777 0
+D1
+Vedi un cortile abbandonato.
+~
+~
+0 -1 10532
+S
+#10532
+Cortile~
+Questo cortile è sterile e trascurato. Piccole erbacce crescono in
+continuazione tra le lastre. Una vecchia fontana ormai in rovina
+schizza una fanghiglia grigio-marrone.
+Il cortile continua a nord e a est.
+Vedi una cucina verso ovest.
+~
+104 32777 0
+D0
+Vedi i cortili dell'inferno susseguirsi.
+~
+~
+0 -1 10522
+D1
+Vedi i cortili dell'inferno susseguirsi.
+~
+~
+0 -1 10533
+D3
+Vedi una cucina.
+~
+~
+0 -1 10531
+S
+#10533
+Cortile~
+Questo cortile è sterile e trascurato. Piccole erbacce crescono in
+continuazione tra le lastre. Una vecchia fontana ormai in rovina
+schizza una fanghiglia grigio-marrone.
+Il cortile continua a nord e a ovest.
+~
+104 32777 0
+D0
+Vedi i cortili dell'inferno susseguirsi.
+~
+~
+0 -1 10523
+D3
+Vedi i cortili dell'inferno susseguirsi.
+~
+~
+0 -1 10532
+S
+#10534
+Quartiere dei negozi dell'Inferno~
+Questo è definito l'edificio con molti negozi dell'inferno. .
+ma non c'è nessuno negozio!
+Solo all'inferno esistono i negozi vuoti.
+L'atrio continua a est.
+I destrieri magici di Stanely sono a nord.
+~
+104 32777 0
+D0
+Vedi i destrieri magici di Stanely.
+~
+~
+0 -1 10524
+D1
+Vedi il quartiere dei negozi dell'Inferno.
+~
+~
+0 -1 10535
+S
+#10535
+Quartiere dei negozi dell'Inferno~
+Questo è definito l'edificio con molti negozi dell'inferno. .
+ma non c'è nessuno negozio!
+Solo all'inferno esistono i negozi vuoti.
+L'atrio continua a nord e a ovest.
+~
+104 32777 0
+D0
+Vedi il quartiere dei negozi dell'Inferno.
+~
+~
+0 -1 10525
+D3
+~
+~
+0 0 10534
+S
+#10536
+Scalinata per l'Abisso~
+Queste scale oscure son costruite con le  ossa dei condannati. 
+Tremano leggermente non appena appoggi il piede ed iniziano a piangere 
+e a lamentarsi. L'atmosfera e' satura di urla e lamenti delle anime perdute
+ma intanto qualcuno fissa le scale col sangue e tremano un po' meno.
+Non ti sembra di trovare l'Abisso...ti sembra di vedere un segno.........
+hmmm cosa dice adesso??????...........
+~
+104 32777 0
+S
+#10537
+Dentro il Cuore del Reattore~
+Sei nel centro del reattore. Ti sembra di galleggiare nel plasma 
+e stai assorbendo energia. Il centro ti fa paura solo a guardarlo.
+Particelle nucleari ed altre cose strane ti bombardano ad altissima
+velocita'.
+Vedi un portello di manutenzione verso est.
+~
+104 32777 0
+D1
+Vedi un portello di manutenzione.
+~
+portello di manutenzione del cuore del reattore~
+1 -1 10538
+S
+#10538
+Pavimento della sala del Reattore~
+La stanza è coperta quasi interamente dal centro del reattore . 
+Il centro pulsa ritmicamente generando calore e potere per l'intera
+regione dell'inferno. Molti lavoratori in tuta arancione corrono
+freneticamente per chiudere ed aprire le valvole di sfiato, o per
+fissare la temperatura del plasma.
+Verso ovest vedi una botola di manutenzione del cuore del reattore.
+Verso nord c'e' una scala per il centro di controllo.
+~
+104 32777 0
+D0
+Vedi una scala per il centro di controllo.
+~
+~
+0 -1 10528
+D3
+Vedi una botola per il cuore del reattore.
+~
+botola per il mantenimento del reattore~
+1 -1 10537
+S
+#10539
+Sala di Controllo Secondaria~
+Questa è sala di controllo secondaria del centro del reattore. E' usata 
+di solito in caso di emergenza, quando la sala primaria è contaminato 
+o danneggiata. In pratica non viene mai usata perche' la sala primaria 
+ha un efficienza perfetta.
+~
+104 32777 0
+D0
+Vedi la primaria sala di mantenimento.
+~
+~
+0 -1 10529
+S
+#10540
+Ufficio dell'Ingegnere Capo~
+Questo ufficio appartiene all'ingegnere capo dell'inferno. Progetti
+e matite sono sparsi in giro per la stanza.
+L'aria è pesante e senti odore di ammonio e sudore.
+Un monitor per il controllo del centro del reattore e' montato nel muro.
+Molti altri monitor invece descrivono tutte le altre funzioni 
+del reattore.
+~
+104 32777 0
+D0
+Vedi la sala della pausa.
+~
+~
+0 -1 10530
+S
+#10541
+Stanza del ghiaccio~
+Ti trovi in una stanza di ghiaccio. Stalattiti di ogni taglia scendono
+dal soffitto. Alcune stalattiti emettono suoni sgradevoli. I muri
+di ghiaccio sembrano danzare sotto i tuoi occhi e forse si muovono...
+~
+104 32777 0
+D1
+Vedi una stanza del ghiaccio.
+~
+~
+0 -1 10473
+D2
+Vedi una stanza del ghiaccio.
+~
+~
+0 -1 10482
+D3
+Vedi una stanza del ghiaccio.
+~
+~
+0 -1 10472
+S
+$~

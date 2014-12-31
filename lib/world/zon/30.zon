@@ -1,0 +1,28 @@
+#30
+Nisba~
+Northern Deira Main City~
+3000 3099 10 2 0
+M 0 3060 8 3088 	(&bUna guardia del borgo&d)
+M 0 3060 8 3094 	(&bUna guardia del borgo&d)
+M 0 3060 8 3081 	(&bUna guardia del borgo&d)
+M 0 3060 8 3080 	(&bUna guardia del borgo&d)
+D 0 3095 4 0 	(La dogana Sud del Borgo di Deira)
+M 0 12630 16 3095 	(un cavaliere della corona)
+V 0 2 1 3056 vnum_grimaldello 51017
+V 1 2 1 3056 door_flags abce
+V 1 2 1 3056 dentini 7
+O 0 51019 1 3056 	(uno scrigno di legno perfettamente conservato)
+V 0 2 1 3045 vnum_grimaldello 51016
+V 1 2 1 3045 door_flags abce
+V 1 2 1 3045 dentini 6
+V 0 2 1 3044 vnum_grimaldello 51015
+V 1 2 1 3044 door_flags abce
+V 1 2 1 3044 dentini 5
+V 0 2 1 3057 vnum_grimaldello 51014
+V 1 2 1 3057 door_flags abce
+V 1 2 1 3057 dentini 4
+V 1 2 1 3057 immune_Exit west
+D 0 3070 0 1 	(Un corridoio)
+D 0 3070 0 2 	(Un corridoio)
+S
+$

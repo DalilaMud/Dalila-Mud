@@ -1,0 +1,1640 @@
+#29000
+Area~
+Sei all'entrata di un'area
+~
+290 0 1
+D2
+~
+~
+0 0 1484559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29001
+Il cammino degli Dei~
+   Il viale e' pavimentato di pietra bianchissima. Al centro c'e' una canaletta
+di scolo, e le lastre adiacenti sono minuziosamente decorate. Ai lati del viale
+c'e' un portico, e su ogni colonna che sorregge la tettoia, e' presente una torcia.
+Gli edifici che delimitano la strada sono anch'essi costruiti della stessa pietra
+bianca della strada. Sopra ogni colonna del portico c'e' una piccola scultura con
+la funzionalita' di lanterna. Come luogo dovrebbe essere ben illuminato anche la
+notte.
+~
+290 132096 1
+D0
+Vedi un maestosissimo viale completamente bianco.
+~
+~
+0 0 29002 0
+D1
+Dopo il porticato, riesci a scorgere la scritta "&3&bL'EMPORIO&0" sopra ad una porta.
+~
+~
+0 0 29003 0
+D2
+Vedi una bianca piazza circolare, con al centro una fontana.
+~
+~
+0 0 29000 0
+E
+sculture~
+Le sculture assumono molte forme e molti significati,
+materiali e astratti.
+~
+E
+colonna~
+Sono delle alte colonne, liscie e candide.
+~
+E
+pietra~
+E' del marmo con venature grigie.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29002
+Il cammino degli Dei~
+Tutto il viale e' interamente costruito di un marmo bianchissimo. Anche gli edifici
+sono stati realizzati con quel materiale. Verso nord gli edifici si aprono lasciando
+intravedere una piazza. Sui lati ci sono due porticati, con lanterne appese molto
+frequentemente, e una fontanella ogni qualche passo. Verso est puoi scorgere una torre
+molto alta, anch'essa costruita di candida pietra. Verso nord invece, puoi vedere
+un'arcata gigantesca.
+~
+290 132096 1
+D0
+Oltre all'arcata vedi una piazza con strane luci.
+~
+~
+0 0 29005 0
+D1
+Vedi un grosso portone.
+~
+Portone~
+2 0 29004 9
+D2
+Vedi un bianchissimo viale.
+~
+~
+0 0 29001 0
+E
+Porticati~
+Sono dei porticati molto spaziosi, illuminati
+da ambo i lati.
+~
+E
+lanterna~
+Una lanterna di ferro battuto e di vetro blu.
+~
+E
+torre~
+E' un'altissima torre, sara' almeno cinque piani,
+interamente costruita in marmo bianco, con le
+vetrate della finestra blu.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29003
+L'Emporio ~
+E' una grande stanza, ma in gran parte occupata da oggetti di ogni tipo.
+Sul soffito sono appesi due lampadari di cristallo. Al centro della stanza
+ci sono degli scaffali disposti a cerchio, mentre sui lati ci sono delle
+tavolate dove vengono appoggiati gli oggetti. Il bancone e' di pietra, e
+occupa tutto un lato del negozio.
+~
+290 131084 0
+D3
+Vedi un viale bianchissimo.
+~
+~
+0 0 29001 0
+E
+Lampadario~
+E' un lampadario molto grande, i cristalli fanno un bellissimo gioco di luce.
+~
+E
+Scaffali~
+Sono degli scaffali d'ebano molto antichi.
+Tutti sono decorati con dei particolari motivi.
+~
+E
+bancone~
+Un massiccio bancone di marmo bianco con venature grigie,
+decorato minuziosamente in tutta la sua superficie. Sopra
+il blocco di marmo e' appoggiata una tavola di legno, su
+cui appoggiare la merce.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29004
+La Torre di &7Marmo&0~
+Tutto di marmo bianco. Pareti, pavimento e soffitto. Sul lato est
+dell'edificio e' presente un piccolo guardaroba. Verso nord inizia la
+scala a chiocciola sui lati della torre. Sui muri ci sono appesi vari
+quadri che ricordano la storia della Daresia. Sotto tutti i quadri, i
+blocchi di pietra sono decorati finemente. Un lampadario di cristalli
+e' appeso nel centro della stanza, tenendo costantemente illuminato
+l'atrio.
+~
+290 131148 0
+D3
+Vedi un viale bianchissimo.
+~
+Portone~
+2 0 29002 9
+D4
+Riesci solo a vedere un soffitto di legno.
+~
+~
+0 0 29006 0
+E
+guardaroba~
+E' un armadio, che potra' contenere qualche capo d'abbigiamento.
+~
+E
+scala~
+E' una scala che sale verso il
+secondo piano dell'edificio.
+~
+E
+quadri~
+Ci sono quattro quadri appesi: Uno raffigura 
+molti degli Eroi della Daresia. Un'altro rappresenta
+Chyrellos invasa dai Demoni. Il terzo quadro
+rappresenta la tranquillita' di Ilweran, mentre
+l'ultimo quadro e' una mappa della Daresia.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29005
+Piazzale del fuoco~
+Nei quattro angoli della piazza ci sono dei braceri, i quali contengono
+del fuoco sempre acceso. Specchi sopra essi riflettono luce in tutta
+la piazza. Anche il calore sembra essere in tutta la piazza.
+Intorno ad essa, costruita interamente di marmo bianco, finemente
+decorato. Al centro una alta scala a chiocciola sempre in pietra si
+staglia verso il cielo. In cima ad essa c'e' una strana costruzione sferica.
+~
+290 6422528 1
+D2
+~
+~
+0 0 29002 0
+D4
+~
+uscita~
+1 0 29040 1
+E
+porte~
+Sono quattro archi immensi. Ai lati di questi
+archi, sono presenti due piccole arcate per
+passare senza uscire dal portico.
+~
+E
+specchi~
+Dei grandi e tondi specchi diffondono la
+luce rossastra per tutta la piazza, riuscendo
+anche in uno stupendo gioco di luci.
+~
+E
+braceri~
+Sono dei grandi recipienti semisferici,
+i quali contengono rossi braci.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29006
+Il primo piano~
+Il pavimento e' di un bellissimo legno di quercia, sembra molto pregiato.
+Quasi tutto pero' e' coperto da dei tappetti decorati con strani disegni
+di forme geometriche, tutti astratti senza neanche una rappresentazione
+realistica. Su ogni lato della torre c'e' una finestra, da cui si puo'
+osservare tutta la cittadella. Sulla parete ovest c'e' una scrivania rivolta
+verso le scale.
+~
+290 68719610376 0
+D5
+Vedi un pavimento bianco.
+~
+~
+0 0 29004 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29007
+Via dell'Alba~
+Su ambo i lati della via sono presenti dei maestosi porticati, decorati con preziose
+lanterne di vetro colorato di azzurro.
+Tutto e' costruito con del marmo bianchissimo, e i vetri blu formano strani giochi di
+luce. Tutta la via e' pavimentata dello stesso marmo bianco, e ad intervalli regolari
+si trovano delle piccole grate di rame, dedite a coprire il collegamento dei canali di
+scolo con i corsi d'acqua sotterranei.
+Oltre ai portici, si possono notare delle splendide case.
+~
+290 131072 0
+D0
+~
+cancellata~
+1 0 29080 1
+D1
+~
+~
+0 0 29020 0
+D3
+Vedi una splendida piazza bianca.
+~
+cancello~
+1 0 29000 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29008
+Vicolo del Tramonto~
+La strada e le vicine case sono costruite tutte di un candido marmo, ma a cadenza
+regolare sono appese delle lanterne coperte da dei vetri rossi e gialli.
+Gli edifici sovrastano la strada, e lunghi tubi di rame riflettono le luci rossastre.
+Le lastre di marmo che ricoprono la strada sono posizionate a scaglie, e danno il senso
+di camminare su di un enorme Drago Bianco.
+~
+290 131072 0
+D1
+Intravedi una splendida piazza bianca.
+~
+~
+0 0 29000 0
+D3
+~
+~
+0 0 29010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29009
+Il Sacro Tempio di Sikh~
+------------------------------
+~
+290 34357774856 0
+D2
+~
+portale~
+2 0 1413451 9
+D5
+~
+portale~
+2 0 29006 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29010
+Vicolo del Tramonto~
+La strada e' lastricata in marmo bianco, con un ordine sovraumano. L'illuminazione
+e' di colori caldi, autunnali, e gli effetti di luce sembrano foglie che cadono
+d'autunno. Ai lati della strada ci sono dei porticati, e sopra ad essi sono presenti
+degli edifici, bianchi anch'essi.
+~
+290 131072 0
+D1
+~
+~
+0 0 29008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29011
+Piazza del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29013 0
+D1
+~
+~
+0 0 29010 0
+D2
+~
+~
+0 0 29037 0
+D3
+~
+~
+0 0 29014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29012
+Piazza delle Stelle~
+Un enorme arcata decorata da piu' statue sovrasta tutto.
+~
+290 131072 0
+D0
+~
+cancellata~
+1 0 1454518 1
+D2
+~
+~
+0 0 29005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29013
+La prima stanza~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29015 0
+D1
+~
+~
+0 0 29060 0
+D2
+~
+~
+0 0 29011 0
+D3
+~
+~
+0 0 29046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29014
+Porta Ovest~
+You are in an unfinished room.
+~
+290 131072 1
+D1
+~
+~
+0 0 29011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29015
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29016 0
+D2
+~
+~
+0 0 29013 0
+D3
+~
+~
+0 0 29045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29016
+Piazza delle erbe~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29017 0
+D2
+~
+~
+0 0 29015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29017
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 1
+D1
+~
+~
+0 0 29018 0
+D3
+~
+~
+0 0 29016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29018
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29050 0
+D2
+~
+~
+0 0 29051 0
+D3
+~
+~
+0 0 29017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29019
+Viale del mercato~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29020
+Via dell'Alba~
+You are in an unfinished room.
+~
+290 131072 0
+D3
+~
+~
+0 0 29007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29021
+La forgia~
+You are in an unfinished room.
+~
+290 2228224 0
+D0
+~
+~
+0 0 29029 0
+D1
+~
+~
+0 0 29041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29022
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D1
+~
+~
+0 0 29023 0
+D3
+~
+~
+0 0 29019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29023
+Piazzale del mulino~
+You are in an unfinished room.
+~
+290 131072 0
+D2
+~
+~
+0 0 29024 0
+D3
+~
+~
+0 0 29022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29024
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 1
+D0
+~
+~
+0 0 29023 0
+D1
+~
+~
+0 0 29061 0
+D2
+~
+~
+0 0 29025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29025
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29024 0
+D1
+~
+~
+0 0 29067 0
+D2
+~
+~
+0 0 29026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29026
+piazza del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29025 0
+D2
+~
+~
+0 0 29027 0
+D3
+~
+~
+0 0 29020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29027
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29026 0
+D2
+~
+~
+0 0 29028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29028
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29027 0
+D1
+~
+~
+0 0 29065 0
+D2
+~
+~
+0 0 29029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29029
+Piazzetta dei metalli~
+You are in an unfinished room.
+~
+290 131072 1
+D0
+~
+~
+0 0 29028 0
+D3
+~
+~
+0 0 29030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29030
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D1
+~
+~
+0 0 29029 0
+D3
+~
+~
+0 0 29031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29031
+Viale del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29064 0
+D1
+~
+~
+0 0 29030 0
+D2
+~
+~
+0 0 29054 0
+D3
+~
+~
+0 0 29032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29032
+Piazza del mercato~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29039 0
+D1
+~
+~
+0 0 29031 0
+D2
+~
+~
+0 0 1456518 0
+D3
+~
+~
+0 0 29033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29033
+Viale del mercato~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29032 0
+D3
+~
+~
+0 0 29034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29034
+Viale del mercato~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29044 0
+D1
+~
+~
+0 0 29033 0
+D2
+~
+~
+0 0 29043 0
+D3
+~
+~
+0 0 29035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29035
+Piazza dei cristalli~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29036 0
+D1
+~
+~
+0 0 29034 0
+D4
+~
+~
+0 0 31501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29036
+Viale del mercato~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29037 0
+D2
+~
+~
+0 0 29035 0
+D3
+~
+~
+0 0 29049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29037
+Viale del mercato~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29011 0
+D2
+~
+~
+0 0 29036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29038
+Viale della Luce~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29000 0
+D2
+~
+~
+0 0 29039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29039
+Viale della Luce~
+You are in an unfinished room.
+~
+290 131072 0
+D0
+~
+~
+0 0 29038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29040
+La sfera di pietra bianca~
+Tutta la stanza e' bianca e vuota, ad eccezione di quattro
+luminosi portali disposti lungo i quattro punti cardinali.
+In tutta la stanza percepisci una strana sensazione magica.
+~
+290 131200 0
+D0
+~
+portale~
+1 0 8691 1
+D1
+~
+portale~
+1 0 12500 1
+D2
+~
+portale~
+1 0 6601 1
+D3
+~
+portale~
+1 0 21073 1
+D5
+~
+~
+0 0 29005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29041
+Armi e Armature~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29040 0
+D3
+~
+~
+0 0 29021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29042
+La Gioielleria~
+You are in an unfinished room.
+~
+290 67239936 0
+D0
+~
+~
+0 0 29043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29043
+Il laboratorio del Gioielliere~
+You are in an unfinished room.
+~
+290 33685504 0
+D0
+~
+~
+0 0 29034 0
+D2
+~
+~
+0 0 29042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29044
+Pietre preziose e Gioielli~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29045
+La falegnameria~
+You are in an unfinished room.
+~
+290 8519680 0
+D1
+~
+~
+0 0 29015 0
+D2
+~
+~
+0 0 29046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29046
+La carpenteria~
+You are in an unfinished room.
+~
+290 16908288 0
+D0
+~
+~
+0 0 29045 0
+D1
+~
+~
+0 0 29013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29047
+Bacchette~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29048
+Il laboratorio di squadratura delle pietre~
+You are in an unfinished room.
+~
+290 134348800 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29049
+Negozio~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29050
+La Stanza della Televisione~
+Un &1&bENORME&0 televisore e' piazzato in mezzo alla stanza, distruggendo il cervello
+di ogni persona che lo guarda.
+Uno strano mezzobusto di una signora con dei serpenti al posto dei capelli e' posto
+sopra il televisore, puntandoti sempre dritto negli occhi.
+~
+290 206158563852 0
+D5
+~
+bocca~
+1 0 29000 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29051
+Il laboratorio alchemico~
+You are in an unfinished room.
+~
+290 1073741824 0
+D0
+~
+~
+0 0 29018 0
+D3
+~
+~
+0 0 29052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29052
+Pozioni ed erbe~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29053
+La cucina~
+You are in an unfinished room.
+~
+290 6442450944 0
+D2
+~
+~
+0 0 29056 0
+D3
+~
+~
+0 0 29058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29054
+Il laboratorio di scuoiatura~
+You are in an unfinished room.
+~
+290 8589934592 0
+D0
+~
+~
+0 0 29031 0
+D1
+~
+~
+0 0 29055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29055
+La conceria~
+You are in an unfinished room.
+~
+290 17179869184 0
+D0
+~
+~
+0 0 29030 0
+D3
+~
+~
+0 0 29054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29056
+Pane e torte~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29053 0
+D3
+~
+~
+0 0 29023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29057
+Pesce~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29058
+Carne (trattoria)~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29053 0
+D2
+~
+~
+0 0 29023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29059
+Pellicce e Cuoio~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29060
+Carretti e armadi~
+You are in an unfinished room.
+~
+290 0 0
+D3
+~
+~
+0 0 29013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29061
+Uno stretto vicolo~
+You are in an unfinished room.
+~
+290 131072 0
+D1
+~
+~
+0 0 29062 0
+D3
+~
+~
+0 0 29024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29062
+Uno stretto vicolo~
+You are in an unfinished room.
+~
+290 131072 0
+D3
+~
+~
+0 0 29061 0
+D5
+~
+~
+0 0 29063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29063
+Delle strette scalette~
+You are in an unfinished room.
+~
+290 131072 0
+D4
+~
+~
+0 0 29062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29064
+La posta~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29065
+La banca~
+You are in an unfinished room.
+~
+290 131072 0
+D3
+~
+~
+0 0 29028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29066
+Il negozio magico~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29067
+La locanda~
+You are in an unfinished room.
+~
+290 131072 0
+D3
+~
+~
+0 0 29025 0
+D4
+~
+~
+0 0 29068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29068
+Le stanze~
+You are in an unfinished room.
+~
+290 131072 0
+D5
+~
+~
+0 0 29067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29069
+Gilda Cyrinic (1)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29070
+Gilda Cyrinic (2)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29071
+Gilda Cyrinic (3)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29072
+Gilda Cyrinic (4)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29073
+Gilda Alcioni (1)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29074
+Gilda Alcioni (2)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29075
+Gilda Alcioni (3)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29076
+Gilda Alcioni (4)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29077
+La tana dell'alce~
+E' una caverna spaziosa, attrezzata come una stalla. Il soffitto e' alto,
+probabilmente per evitare che l'alce sbatta le sue corna sul soffitto.
+In un angolo si puo' notare la mangiatoia piena, anche se non sembra
+commestibile il contenuto, almeno per un essere umano.
+~
+290 0 7
+D5
+~
+Corna~
+1 0 8582 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29078
+Gilda Peloi (2)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29079
+Gilda Peloi (3)~
+You are in an unfinished room.
+~
+290 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29080
+Un sentiero di ciottoli argentei~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+Cancellata~
+1 0 29081 1
+D2
+~
+cancellata~
+1 0 29007 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29081
+L'entrata del Tempio~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29082
+Il primo piano~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29089 0
+D1
+~
+~
+0 0 29088 0
+D3
+~
+~
+0 0 29091 0
+D4
+~
+~
+0 0 29092 0
+D5
+~
+~
+0 0 29081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29083
+Il soggiorno~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29087 0
+D2
+~
+~
+0 0 29081 0
+D3
+~
+~
+0 0 29086 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29084
+La cucina~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29087 0
+D3
+~
+porta~
+1 0 29081 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29085
+La veranda~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29086 0
+D1
+~
+~
+0 0 29081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29086
+Un piccolo giardino~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29083 0
+D2
+~
+~
+0 0 29085 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29087
+La sala da pranzo~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29084 0
+D3
+~
+~
+0 0 29083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29088
+Lo studio di Danae~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29090 0
+D3
+~
+~
+0 0 29082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29089
+Lo studio di Sikh?~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29090 0
+D2
+~
+~
+0 0 29082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29090
+Un balcone~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29088 0
+D3
+~
+~
+0 0 29089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29091
+La stanza dell'allenamento~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29092
+La camera da letto~
+You are in an unfinished room.
+~
+290 0 0
+D2
+~
+~
+0 0 29093 0
+D3
+~
+~
+0 0 29094 0
+D5
+~
+~
+0 0 29082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29093
+Un piccolo balconcino~
+You are in an unfinished room.
+~
+290 0 0
+D0
+~
+~
+0 0 29092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29094
+Un ampio e luminoso bagno~
+You are in an unfinished room.
+~
+290 0 0
+D1
+~
+~
+0 0 29092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29097
+La Stanza della Conoscenza~
+E' una stanza rotonda, con il tetto a cupola. Proprio al centro della cupola
+si trova una finestra con i vetri blu, la quale da un tono del medesimo colore
+a tutta la stanza.
+Su tutta la alla rotonda parete e' presente un mosaico, il quale rappresenta
+la vista del mare all'orizzonte. Anche per terra e' presente un mosaico, composto
+da dodici triangoli, di avorio e vetro blu, con il punto in comune il centro
+della stanza.
+~
+290 2564 0
+D1
+~
+~
+0 0 29098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29098
+L'infinito~
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+.                .        .    .  . .. .  .    .        .                .
+~
+290 2564 0
+D1
+~
+~
+0 0 29099 0
+D3
+~
+~
+0 0 29097 0
+D5
+~
+~
+0 0 2815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#29099
+Stanza~
+You are in an unfinished room.
+~
+290 137438956036 0
+D2
+~
+~
+0 0 2815 0
+D3
+~
+~
+0 0 29098 0
+D5
+~
+~
+0 0 29050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

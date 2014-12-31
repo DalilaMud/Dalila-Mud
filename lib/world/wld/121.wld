@@ -1,0 +1,1860 @@
+#12100
+Un tetro sentiero~
+Ti trovi disperso in una tetra foresta ad un tratto scorgi un sentiero, buio e
+silenzioso, e spinto da una irrefrenabile voglia di esplorarlo avanzi
+inspiegabilmente attraverso la densa foschia...    
+~
+121 65 0
+D0
+~
+cancellata~
+2 12100 12105 15
+D1
+~
+porticina~
+2 12100 12101 15
+D2
+~
+pietra~
+1 -1 1455575 1
+D3
+~
+~
+0 0 12110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12101
+Ingresso alla Roccaforte Ombra~
+Un imponente edificio ti si para di fronte, immerso in una surreale foschia che
+non ti permette di vedere al di l di qualche metro altissime torri, le cui cime
+scompaiono fra gli immensi nuvoloni neri che avvolgono la fortezza, si
+innalzano verso il cielo imperiose come le orrende statue che ornano e
+sovrastano la facciata.    
+~
+121 64 0
+D1
+~
+~
+0 0 12102 0
+D3
+~
+porticina~
+1 0 12100 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12102
+I dormitori~
+Una piccola grata sulla parte alta della parete opposta all'ingresso lascia
+filtrare una debolissima luce che riflette sulle due statue di dragone poste ai
+lati della sala al centro e sulle pareti adiacenti noti diversi armadietti
+serrati ed alcuni letti a baldacchino.    
+~
+121 64 0
+D0
+~
+grata~
+2 12115 12103 15
+D3
+~
+~
+0 0 12101 0
+D5
+~
+~
+0 0 12104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12103
+Le segrete~
+Un odore acre rende l'aria quasi irrespirabile, le pareti sono macchiate di
+sangue in diverse zone e il soffitto sembrerebbe crollare da un momento
+all'altro davanti a te una spessa grata di ferro ti blocca la fuga, e ti rendi
+conto che probabilmente quelle quattro mura che vedi diverranno il tuo
+sepolcro.    
+~
+121 268435665 0
+D2
+~
+grata~
+2 12115 12102 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12104
+Il magazzino~
+Ti trovi in una stanza piccola ad angusta, colma nell'aria di un sapore
+dolciastro misto a sangue, mentre la polvere depositata sui numerosi scaffali
+si alza ad ogni tuo movimento rendendo la respirazione notevolmente
+difficoltosa.    
+~
+121 65 0
+D4
+~
+~
+0 0 12102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12105
+Ingresso della cattedrale nera~
+Il tempio che ti trovi di fronte immenso, sovrastato dalle alte torri nere
+intorno alle quali volteggiano superbi draghi neri l'enorme portone nero
+immerso in una densa nebbia, mentre sibili e gemiti che sembrano provenire
+dall'interno si propagano incessantemente all'interno della tua mente, fino a
+raggiungere la parte pi nascosta dell'inconscio.    
+~
+121 64 0
+D0
+~
+~
+0 0 12106 0
+D2
+~
+cancellata~
+0 0 12100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12106
+Sala delle concessioni~
+Di fronte a te vedi un immenso altare adornato con varie raffigurazioni
+demoniache sopra ad esso noti un polveroso libro incomprensibile, alcuni ceri
+neri accesi ed un calice grondante sangue di fronte ad esso, numerose panche di
+legno scuro sono sparse in tutto il salone in modo disordinato.    
+~
+121 0 0
+D0
+~
+~
+0 0 12108 0
+D2
+~
+~
+0 0 12105 0
+D3
+~
+~
+0 0 12107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12107
+Sala del Sommo Consiglio~
+Quando apri leggermente le due grosse ante della stanza rimani affascinato
+dall'incredibile atmosfera che si respira all'interno di quell'immenso salone:
+un tavolo di marmo nero di forma pentagonale illuminato al centro della stanza
+da numerose torce appese alle pareti laterali che riflettono una strana luce
+bluastra, mentre su quella opposta all'ingresso vi sono due imponenti sedie
+dorate simili a troni, sovrastate da un grande quadro raffigurante Shade a
+cavallo di un maestoso drago nero che riconosci nella figura di NightShadow.  
+
+
+Vedi per terra, il calco di un volto... forse un teschio, alzando un po' lo sguardo noti i graffi di unghie che terminano sul pavimento, non lasciando tracce.
+Un senso di paura ti pervade... forse e' meglio essere preparati ad affrontare qualche tranello.
+~
+121 320 0
+D1
+~
+~
+0 0 12106 0
+D3
+~
+~
+0 0 12109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12108
+Il loggiato oscuro~
+L'oscurit caratterizza questa tetra stanza, dai lineamenti indefiniti e
+surreali una cupa melodia arcana riecheggia fra le pareti insanguinate, mentre
+un enorme quadro raffigurante una donna dal volto di teschio sovrasta diversi
+macchinari di tortura.    
+~
+121 65 0
+D2
+~
+~
+0 0 12106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12109
+Tesoreria del culto~
+Scendi con ansia alcuni gradini scricchiolanti, arrivando una specie di cripta
+buia ed umida; solo uno spiraglio di luce proveniente dal piano superiore ti 
+permette di vedere con tua grande ammirazioni cumuli d'oro e gioielli e maestosi
+forzieri dorati appoggiati alle pareti della stanza.
+~
+121 64 0
+D1
+~
+~
+0 0 12107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12110
+Una sporca stalla~
+Non e' il massimo della bellezza ma il suo onesto lavoro questo luogo lo fa.
+Anche se dalla sporcizia che imbratta ogni cosa si dovrebbe chiamare porcile
+e non stalla.
+~
+121 0 0
+D1
+~
+~
+0 0 12100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12111
+Il fondo di un pozzo~
+WooooooooooooooooohW!
+
+P
+R
+E
+C
+I
+P
+I
+T
+I
+
+Finalmente trovi il fondo di questo infinito pozzo. Non c'e via di scampo...
+no a Nord vedi un piccolo bagliore
+~
+121 268435965 0
+D0
+~
+~
+0 0 12112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12112
+La tana dei Leoni~
+Ma che fortuna. Leoni affamati. Addio!
+~
+121 66 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#12113
+Un lucente palazzo di cristallo~
+Sei nell'anticamera di un alto edificio che pare costruito quasi per
+intero di vetro risplendente. Enormi finestre decorate sormontano la porta
+di ingresso, e gli arredi sono di alabastro, occhio di tigre e altre
+pietre trasparenti. La luce delle lanterne colorate viene cosi' riflessa
+tanto da abbagliarti.
+~
+121 2572 0
+D0
+~
+~
+0 0 12114 0
+D3
+~
+~
+0 0 12614 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12114
+Un lucente corridoio~
+Dall'anticamera, un corridoio ti conduce nei saloni di questo strano e
+meraviglioso palazzo. Le pareti sembrano fatte di strane sostanze vetrose,
+azzurre e verdi. Anziche' quadri, sulle pareti del lato est ci sono
+vetrate decorate con immagini fiabesche. Sei veramente incantato e non
+puoi fare a meno di guardarti intorno rapito. Il corridoio continua verso
+nord, mentre a ovest un'ampia volta rivela un enorme salone.
+~
+121 8 0
+D0
+~
+~
+0 0 12117 0
+D2
+~
+~
+0 0 12113 0
+D3
+~
+~
+0 0 12115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12115
+Il lucente Salone delle feste~
+Sei in un Salone dal pavimento candido, con un altissimo soffitto
+decorato. Gli arredi qui sembrano di cristallo purissimo: anche l'enorme
+tavolo che occupa il centro del salone, cosi' grande che per muoverti devi
+aggirarlo, si direbbe fatto di vetro. E' imbandito come se fossi nel pieno
+svolgimento di qualche festa, sicuramente molto esclusiva. L'immenso
+salone si estende a nord e a ovest, mentre a est torni nel corridoio
+d'ingresso.
+~
+121 8 0
+D0
+~
+~
+0 0 12118 0
+D1
+~
+~
+0 0 12114 0
+D3
+~
+~
+0 0 12116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12116
+Il lucente Salone delle feste~
+Sei in un Salone dal pavimento candido, con un altissimo soffitto
+decorato. Gli arredi qui sembrano di cristallo purissimo: anche l'enorme
+tavolo che occupa il centro del salone, cosi' grande che per muoverti devi
+aggirarlo, si direbbe fatto di vetro. E' imbandito come se fossi nel pieno
+svolgimento di qualche festa, sicuramente molto esclusiva. L'immenso
+salone si estende a nord e a est.
+~
+121 8 0
+D0
+~
+~
+0 0 12121 0
+D1
+~
+~
+0 0 12115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12117
+Un lucente corridoio~
+Prosegui per il corridoio che fiancheggia i saloni di questo strano e
+meraviglioso palazzo. Le pareti sembrano fatte di strane sostanze vetrose,
+azzurre e verdi. Anziche' quadri, sulle pareti del lato est ci sono
+vetrate decorate con immagini fiabesche. Sei veramente incantato e non
+puoi fare a meno di guardarti intorno rapito. Alla fine del corridoio, una
+porta nasconde scale che portano in basso, mentre a ovest un'ampia volta
+rivela un enorme salone.
+~
+121 8 0
+D2
+~
+~
+0 0 12114 0
+D3
+~
+~
+0 0 12118 0
+D5
+~
+porta~
+1 0 12131 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12118
+Il lucente Salone delle feste~
+Sei in un Salone dal pavimento candido, con un altissimo soffitto
+decorato. Gli arredi qui sembrano di cristallo purissimo: anche l'enorme
+tavolo che occupa il centro del salone, cosi' grande che per muoverti devi
+aggirarlo, si direbbe fatto di vetro. E' imbandito come se fossi nel pieno
+svolgimento di qualche festa, sicuramente molto esclusiva. L'immenso
+salone si estende a sud e a ovest, mentre a est torni nel corridoio
+d'ingresso.
+~
+121 8 0
+D1
+~
+~
+0 0 12117 0
+D2
+~
+~
+0 0 12115 0
+D3
+~
+~
+0 0 12121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12119
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12129 0
+D3
+~
+~
+0 0 12109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12120
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12130 0
+D3
+~
+~
+0 0 12110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12121
+Il lucente Salone delle feste~
+Sei in un Salone dal pavimento candido, con un altissimo soffitto
+decorato. Gli arredi qui sembrano di cristallo purissimo: anche l'enorme
+tavolo che occupa il centro del salone, cosi' grande che per muoverti devi
+aggirarlo, si direbbe fatto di vetro. E' imbandito come se fossi nel pieno
+svolgimento di qualche festa, sicuramente molto esclusiva. L'immenso
+salone si estende a sud e a est. In fondo, uno scalone di alabastro ti
+conduce ai piani alti.
+~
+121 8 0
+D1
+~
+~
+0 0 12118 0
+D2
+~
+~
+0 0 12116 0
+D4
+~
+~
+0 0 12133 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12122
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D1
+~
+~
+0 0 12132 0
+D2
+~
+~
+0 0 12123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12123
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12122 0
+D2
+~
+~
+0 0 12124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12124
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12123 0
+D1
+~
+~
+0 0 12134 0
+D2
+~
+~
+0 0 12125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12125
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12124 0
+D2
+~
+~
+0 0 12126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12126
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12125 0
+D2
+~
+~
+0 0 12127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12127
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12126 0
+D1
+~
+~
+0 0 12137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12128
+Una buca profondissima~
+Una voragine ti ha inghittito. Sei sul fondo di una profondissima buca.
+Fortunatamente ci sono appigli sufficienti per farti risalire.
+~
+121 1 0
+D4
+~
+~
+0 0 12194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12129
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12139 0
+D3
+~
+~
+0 0 12119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12130
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12140 0
+D3
+~
+~
+0 0 12120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12131
+La stanza dei preziosi tesori~
+Sei sceso in una stanza buia e umida, fatichi a vedere intorno ma ti
+sembra di essere in una cripta. Certamente ci sono decorazioni preziose
+come al piano di sopra, ma non c'e' quella luminosita' che prima ti
+abbagliava. Anche gli spazi sono molto piu' angusti: un tavolino di
+ossidiana e' al centro della sala, e pochi altri mobili sono
+intorno. Diresti che qui, nel cuore misterioso del palazzo, si nascondano
+i tesori piu' segreti.
+~
+121 2825 0
+D4
+~
+botola~
+1 0 12117 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12132
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D1
+~
+~
+0 0 12142 0
+D3
+~
+~
+0 0 12122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12133
+In cima alle scale lucenti~
+Alla fine dei gradini di alabastro ti ritrovi ancora circondato da arredi
+sontuosi, anche se l'atmosfera e' molto piu' tranquilla che ai piani
+inferiori. Mentre il salone sembrava eternamente in festa, qui c'e'
+silenzio e pace: pensi che oltre le scale ci siano gli appartamenti
+privati del padrone di questo splendido palazzo.
+~
+121 2568 0
+D2
+~
+~
+0 0 12141 0
+D3
+~
+~
+0 0 12135 0
+D5
+~
+~
+0 0 12121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12134
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D1
+~
+~
+0 0 12144 0
+D3
+~
+~
+0 0 12124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12135
+Le camere del Palazzo Lucente~
+Percorri le piccole sale del primo piano, circondato da un'atmosfera
+ancora piu' surreale: se il piano terra era pieno di arredi ricchi e
+preziosi, questo lo e' ancora di piu'. Ma, mentre nel salone c'era musica
+e aria di festa, qui c'e' calma e silenzio: sembra di essere fuori dal
+tempo e dallo spazio. Ti fermi davanti a un enorme portone di vetro
+translucido che conduce a sud.
+~
+121 2568 0
+D1
+~
+~
+0 0 12133 0
+D2
+~
+porta~
+1 0 12136 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12136
+La camera da letto del Palazzo Lucente~
+Sei in un ampia camera con sculture di vetro di tutte le forme. Un enorme
+letto a baldacchino troneggia nel centro, con drappeggi e veli
+chiarissimi. La sala e' pervasa da una strana luminescenza, prodotta da
+uno strano globo luminoso che manda raggi azzurri tutt'attorno. Nel globo,
+strane forme vitree sembrano contorcersi senza tregua. Se il padrone di
+queste stanze non e' a conoscenza della tua intrusione forse faresti
+meglio a uscire al piu' presto. 
+~
+121 2568 0
+D0
+~
+porta~
+1 0 12135 3
+D1
+~
+porta~
+1 0 12141 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12137
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D2
+~
+~
+0 0 12138 0
+D3
+~
+~
+0 0 12127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12138
+Una piccola anticamera.~
+Per passare da un corridoio all'altro bisogno per forza transitare
+per questa piccola stanzetta. Ci sono molti oggetti decorativi, ma
+nulla di veramente eccezionale.
+~
+121 4 0
+D0
+~
+~
+0 0 12137 0
+D2
+~
+~
+0 0 12139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12102
+#12139
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12138 0
+D1
+~
+~
+0 0 12149 0
+D3
+~
+~
+0 0 12129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12140
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12150 0
+D3
+~
+~
+0 0 12130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12141
+Le camere del Palazzo Lucente~
+Percorri le piccole sale del primo piano, circondato da un'atmosfera
+ancora piu' surreale: se il piano terra era pieno di arredi ricchi e
+preziosi, questo lo e' ancora di piu'. Ma, mentre nel salone c'era musica
+e aria di festa, qui c'e' calma e silenzio: sembra di essere fuori dal
+tempo e dallo spazio. Ti fermi davanti a un enorme portone di vetro
+translucido che conduce a ovest.
+~
+121 2568 0
+D0
+~
+~
+0 0 12133 0
+D3
+~
+porta~
+1 0 12136 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12142
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D1
+~
+~
+0 0 12152 0
+D3
+~
+~
+0 0 12132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12143
+La cantina dei vini.~
+Scavata nella roccia sta' la cantina dei vini. Antichi sapori sono
+ben custoditi su scaffali di pregiato ciliegio. Alcune bottiglie 
+recano date d'imbottigliamento con cifre da capogiro.
+Molte ragnatele rendono ancora piu' vecchio l'ambiente
+~
+121 0 0
+D1
+~
+~
+0 0 12153 0
+D5
+~
+botola~
+0 0 12165 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12144
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D2
+~
+~
+0 0 12145 0
+D3
+~
+~
+0 0 12134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12145
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D0
+~
+~
+0 0 12144 0
+D2
+~
+~
+0 0 12146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12146
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D0
+~
+~
+0 0 12145 0
+D1
+~
+~
+0 0 12156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12147
+12147~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12148
+12148~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12149
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12159 0
+D3
+~
+~
+0 0 12139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12150
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12160 0
+D2
+~
+~
+0 0 12151 0
+D3
+~
+~
+0 0 12140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12151
+Una piccola anticamera.~
+Per passare da un corridoio all'altro bisogno per forza transitare
+per questa piccola stanzetta. Ci sono molti oggetti decorativi, ma
+nulla di veramente eccezionale.
+~
+121 4 0
+D0
+~
+~
+0 0 12150 0
+D2
+~
+~
+0 0 12152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12103
+#12152
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12151 0
+D1
+~
+~
+0 0 12162 0
+D3
+~
+~
+0 0 12142 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12153
+La cantina dei vini.~
+Scavata nella roccia sta' la cantina dei vini. Antichi sapori sono
+ben custoditi su scaffali di pregiato ciliegio. Alcune bottiglie 
+recano date d'imbottigliamento con cifre da capogiro.
+Molte ragnatele rendono ancora piu' vecchio l'ambiente
+~
+121 0 0
+D1
+~
+~
+0 0 12163 0
+D3
+~
+~
+0 0 12143 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12154
+12154~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12155
+12155~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12156
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D2
+~
+~
+0 0 12157 0
+D3
+~
+~
+0 0 12146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12157
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D0
+~
+~
+0 0 12156 0
+D1
+~
+~
+0 0 12167 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12158
+12158~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12159
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12169 0
+D3
+~
+~
+0 0 12149 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12160
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12170 0
+D3
+~
+~
+0 0 12150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12161
+12161~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12162
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D1
+~
+~
+0 0 12172 0
+D3
+~
+~
+0 0 12152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12163
+La cantina dei vini.~
+Scavata nella roccia sta' la cantina dei vini. Antichi sapori sono
+ben custoditi su scaffali di pregiato ciliegio. Alcune bottiglie 
+recano date d'imbottigliamento con cifre da capogiro.
+Molte ragnatele rendono ancora piu' vecchio l'ambiente
+~
+121 0 0
+D3
+~
+~
+0 0 12153 0
+D4
+~
+grata~
+1 0 12164 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12164
+La stanza segreta.~
+Finalmente la stanza forziere, nascosta ai ladri e occhi indiscreti.
+Molti armadi e casse sono chiuse ma sicuramente pieni di oggetti di
+gran valore e potere.
+~
+121 0 0
+D1
+~
+pannello scorrevole~
+1 0 12174 1
+D5
+~
+tappeto~
+2 12163 12163 27
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12165
+Un posto umido.~
+Umidita' e freddo ti gelano il fiato e le ossa. Sinistri rumori
+provengono da ogni dove e un tanfo di morte ti solletica il naso
+facendoti rabbrividire.
+~
+121 0 0
+D2
+~
+~
+0 0 12166 0
+D4
+~
+botola~
+1 0 12143 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12166
+La cripta laboratorio.~
+Quella che una volta doveva essere la cripta di famiglia e' ora
+palesemente trasformata in un laboratorio alchemico. Pozioni e filtri
+puzzolenti ribollono in un turbino di fumi puzzolenti. Libri di
+magia sono accatastati qua e la, alcuni interi altri praticamente a
+brandelli.
+~
+121 0 0
+D0
+~
+~
+0 0 12165 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12167
+Corridoio di legno.~
+Tutto in torno e' cambiato il paesaggio. Il marmo e la pregiata
+tappezzeria lasciano posto ad una serie di locali costruiti ed
+arredati con legno di mogano.
+~
+121 256 0
+D1
+~
+~
+0 0 12177 0
+D3
+~
+~
+0 0 12157 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12104
+#12168
+12168~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12169
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12179 0
+D3
+~
+~
+0 0 12159 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12170
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12180 0
+D3
+~
+~
+0 0 12160 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12171
+12171~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12172
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D2
+~
+~
+0 0 12173 0
+D3
+~
+~
+0 0 12162 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12173
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12172 0
+D2
+~
+~
+0 0 12174 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12174
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12173 0
+D2
+~
+~
+0 0 12175 0
+D3
+~
+parete nascosta~
+0 12164 12164 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12175
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12174 0
+D2
+~
+~
+0 0 12176 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12176
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12175 0
+D2
+~
+~
+0 0 12177 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12177
+Uno stratto corridoio.~
+Le piccole dimensioni di questo corridoio interno e tortuoso rendono
+l'atmosfera attorno un pochino opprimente. Come se strane forze man
+mano che si prosegue ti sottraggono le energie vitali.
+Lo sfarzo e' decisamente minore. Sinistri quadri ti scrutano.
+~
+121 0 0
+D0
+~
+~
+0 0 12176 0
+D3
+~
+~
+0 0 12167 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12178
+12178~
+You are in an unfinished room.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12179
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12189 0
+D3
+~
+~
+0 0 12169 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12180
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12190 0
+D3
+~
+~
+0 0 12170 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12181
+Stanza principale~
+Ti trovi in una piccola stanza rettangolare umida e angusta.  Senti un forte
+odore di muffa e di chiuso segno che in questo posto non circolata mai molta
+aria.  Davanti a te vedi un piccolo tavolino con un uomo scostumatamente
+intento a giocherellare con un affilato pugnale.  Appena percepisce la tua
+presenza la guardia scatta in piedi goffamente causando un gran baccano...  
+Dall'altra parte della Sala scorgi una porta serrata da molte serrature e
+lucchetti.    
+~
+121 1096 0
+D3
+~
+~
+0 0 8583 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12182
+Una buia stanza~
+Accedi ad una stanza circolare sicuramente la piu' umida e triste.  Questo
+posto e' ricco di ragnatele e polvere, testimonianza che l'igene non e' la cosa
+piu' importante in questo luogo.  Alcuni simboli inequivocabili indicano che
+sei entrato nel segretissimo covo della Fenice Nera, un corpo speciale composto
+da un gruppo di Alcioni Tolnedran pronti a tutto per la salvaguardia del regno
+e della loro patria.  Davanti a te scorgi tre porte che danno accesso a due
+stanze ad est e ad ovest e a uno stretto corridoio a nord.    
+~
+121 35184372092489 0
+D0
+Una porta di legno.
+~
+porta~
+1 671681 12184 167
+D1
+~
+~
+0 0 12183 0
+D2
+~
+porta blindata~
+2 12182 8583 15
+D3
+~
+~
+0 0 12185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12183
+La sala riunioni~
+Che spettacolo meraviglioso !!!!
+
+Ti trovi in una grande stanza quadrata completamente ricoperta di arazzi
+rappresentati una Fenice Nera che volteggia nel cielo.  Al centro scorgi un
+enorme tavola quadrata circondata da sedie.  Sul tavolo sono sparsi schizzi e
+progetti di missioni svolte dal Corpo.  Questa deve essere la Stanza dove i
+membri della Fenice Nera si riuniscono per discutere i loro piani.  Non avresti
+mai pensato che un gruppo di rozzi alcioni avrebbe potuto mettere in piedi una
+cosa del genere ...    
+Sulla parete noti un &b&5quadro&0.
+~
+121 1125899906846408 0
+D3
+~
+~
+0 0 12182 0
+E
+quadro~
+Il quadro rappresenta il Tolnar Strategus Dark.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12184
+Uno stretto corridoio~
+Attraversi una porta che ti immette in uno stretto corridoio.
+Davanti a te scorgi una pesante porta di quercia rinforzata con assi d'acciaio.
+Sulla tua sinistra c'e'  un altra pesante porta ornata con un enorme numero 6 
+scolpito in oro sulla sua superfice.
+Sulla tua destra vedi una lunga rampa di scale che sale nel buio...
+~
+121 1097 0
+D2
+Una porta di legno.
+~
+porta~
+1 671681 12182 135
+D3
+Una porta di legno.
+~
+porta~
+1 722806 12186 135
+D4
+~
+~
+0 0 40135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12185
+La stanza dell'equipaggiamento~
+Sei in una stanza quadrata abbastanza ampia.  Sulle pareti noti una serie di
+rastrelliere con tanti armi e equipaggiamento necessari alla sopravvivenza
+dell'alcione.  Al centro delle sala c'e' una possente colonna circondata da
+panche di legno.  Intuisci che questa deve essere la sala dove i membri della
+Fenice Nera si preparano per le loro segretissime missioni.  In alto davanti a
+te scorgi un arazzo con ricamato in caratteri neri e rossi la seguente scritta
+:
+
+&1&b"LA FENICE RISORGE SEMPRE DALLE PROPRIE CENERI"&0
+~
+121 3656 0
+D1
+~
+~
+0 0 12182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12186
+La stanza del capo~
+All'interno di questa stanza, tappezzata di mappe e piani, noti al centro una
+scrivania con una comoda sedia.  Sul tavolo scorgi una innumerevole serie di
+cartacce e fogli appuntati sotto uno stiletto lucente.  In fondo vedi qualche
+armadio e una serie di scaffalature.  Il resto della stanza e' arredata
+semplicemente anche se si denota facilmente un certo buon gusto.    
+~
+121 3656 0
+D1
+Una porta di legno.
+~
+porta~
+1 722806 12184 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12187
+Deposito &3&bOro&0~
+Immenso deposito di lingotti di oro.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12188
+Deposito &2&bZinco&0~
+Immenso deposito di lingotti di zinco.
+~
+121 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#12189
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D1
+~
+~
+0 0 12199 0
+D3
+~
+~
+0 0 12179 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12190
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D2
+~
+~
+0 0 12191 0
+D3
+~
+~
+0 0 12180 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12191
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12190 0
+D2
+~
+~
+0 0 12192 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12192
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12191 0
+D2
+~
+~
+0 0 12193 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12193
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12192 0
+D2
+~
+~
+0 0 12194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12194
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12193 0
+D2
+~
+~
+0 0 12195 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+T 12105
+#12195
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12194 0
+D2
+~
+~
+0 0 12196 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12196
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12195 0
+D2
+~
+~
+0 0 12197 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12197
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12196 0
+D2
+~
+~
+0 0 12198 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12198
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12197 0
+D2
+~
+~
+0 0 12199 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+#12199
+Il lungo corridoio principale.~
+Il corridoio si estende in tutta la sua magnificenza sia a nord che
+a sud. Ovunque lo sfarzo si fa sentire. Pavimento tirato a specchio
+e muri ben tapezzati.
+~
+121 0 0
+D0
+~
+~
+0 0 12198 0
+D3
+~
+~
+0 0 12189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 12100
+$~

@@ -1,0 +1,4045 @@
+#9000
+La "Locanda della Rosa"~
+   Entri in un accogliente sala riscaldata da due grandi camini dove
+ardono gorssi ciocchi di legno. In fondo alla stanza dietro il
+bancone vedi la splendida Roberta che si occupa di assegnare
+le camere del piano superiore a tutti gli avventurieri che non
+possono permettersi una casa propria e che vogliono riposarsi
+senza dormire sotto le stelle.
+Vedi un cartello alle spalle di Roberta
+~
+90 24 1
+D1
+~
+~
+0 -1 9033 0
+E
+Cartello~
+Scritto con lettere dorate vedi:
+"Il costo della stanza e di 100 monete al giorno.
+Per oggetti di valore che devono essere conservati in cassaforte la direzione
+si riserva il diritto di determinare i prezzi di deposito di volta in volta."
+
+Per andare a dormire : RENT o AFFITTA
+Per vedere il costo giornaliero della stanza e del deposito : OFFER o OFFERTA~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9001
+Il tempio della Vita.~
+   In questa splendido Tempio si erge una stupenda statua di donna
+rappresentante la Dea della Vita.
+Qui molti avventurieri hanno cominciato le loro avventure e
+molti giovani hanno intrapreso la via dei mestieri.
+Se anche tu sei qui per iniziare la tua vita in Daresia ti
+consigliamo di fare "LOOK ISCRIZIONE".
+Verso Nord vedi il "Corso del Cavaliere" mentre a Nord Est vedi
+un cantiere
+~
+90 24 1
+D0
+~
+~
+0 -1 9059 0
+D1
+~
+~
+0 -1 9141 0
+D2
+~
+~
+0 0 9156 0
+D3
+~
+~
+0 0 9157 0
+E
+Ninfa~
+
+&1Cosi voglio vedere la mia Piccola Ninfetta.
+
+                 Cuore Oscuro
+~
+E
+iscrizione~
+
+"I nuovi arrivati che avessero bisogno di aiuto, facciano subito
+HANDBOOK, poi e quindi HELP WILDERNESS. Grazie"
+
+Il centro amministrativo della citta si trova dalla parte opposta, a nord,
+quindi seguite Via dei templi poi fate tutto il corso del cavaliere verso
+Nord e infine salite verso la collina.
+La' troverete tutto cio' che vi serve a castello e in municipio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9002
+La Bottega degli Animali~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9003
+Il Magazzino degli Animali~
+   Questa e' una piccola stanza scura dove sono alloggiati gli
+animali. E' importante che il numero virtuale di questa stanza
+sia uno di piu' del numero virtuale del negozio.     
+~
+90 1032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9004
+La Bottega della Carne~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9005
+La Bottega della Magia~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9006
+La Bottega delle Armi~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+D3
+~
+~
+0 -1 9053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9007
+La Bottega delle Armature~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+D3
+Vedi il Corso del Cavaliere
+~
+~
+0 0 9055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9008
+La Bottega degli Archi~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9009
+Il Bazar~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9010
+L'Entrata alla Gilda dei Peloi~
+   Sei alla base della torre dei Peloi. Due guardie Peloi
+sorvegliano l'ingresso.
+Se vuoi entrare a far parte dei Peloi e te lo puoi permettere
+sei il benvenuto altrimenti vattene prima che si innervosiscano.
+~
+90 8 0
+D1
+~
+~
+0 0 2184650 0
+D2
+~
+~
+0 0 2184749 0
+D4
+~
+~
+0 -1 9011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9011
+La Gilda dei Peloi~
+   Vedi il Maestro Peloi intento ad intagliare figure in legno.
+E' anziano e non e' piu fatto per esplorare (sempre che esista
+qualcosa che lui non abbia esplorato) cosi' dispensa la sua
+saggezza a chi ha la temerarieta' di seguire le sue orme.
+~
+90 8 0
+D4
+~
+~
+0 0 9190 0
+D5
+~
+~
+0 -1 9010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9012
+La Bottega del Pane~
+   Questa e' una bottega ancora in costruzione. Se vuoi, puoi
+affittarla.    
+~
+90 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9013
+Il Forno~
+   Sei dentro una piccola panetteria. Un dolce profumo di pasticceria
+e di buon pane riempiono la stanza. Pane e paste sono allineate
+in buon ordine sulle scansie e sembrano essere di ottima qualita'.
+C'e' un piccolo cartello sul banco.     
+~
+90 152 0
+D3
+~
+~
+0 -1 9109 0
+E
+pasta paste pasticcino pasticcini~
+Noti che questa e' una deliziosa pasta. Fatta da uno che se ne
+intende. Questo posto ti fa venire l'acquolina in bocca e un
+groppo in gola.     
+~
+E
+cartello~
+Istruzioni fornite nella bottega:    Buy  - Potrai comprare del
+pane o delle paste.    List - Il fornaio gentilmente ti fornira'
+il prezzo degli articoli esposti.     
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9014
+La Bottega degli Animali~
+Questa e il Negozio di animali meglio assortito di Cimmura
+Qui puoi comprare e vendere tutti gli animali del mondo
+Almeno a quanto dice il cartello ale spalle del negoziante
+Dietro il bancone vedi una porta che da su una grande stalla
+A Sus torni sulla via del drago mentre a Est esci dalla citta.
+~
+90 132 0
+D2
+~
+~
+0 0 9138 0
+E
+cartello~
+Il cartello recita:   Usa 'List'          per vedere gli animali
+disponibili.   Usa 'Buy <animale>' per comprare un animale. 
+ Istruzioni per gli animali:   Puoi usare 'order <animale> <istruzione>'
+per ordinare all'animale di                                 
+           fare qualcosa   Se abusi dell'animale, egli non ti
+riconoscera' piu' come maestro.   Se hai diversi animali puoi
+usare 'order followers <istruzione>'   Puoi dare un nome al tuo
+animale con: 'buy <animale> <nome>'   Saluti,   Il Bottegaio
+    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9015
+Il Magazzino degli Animali~
+   Questa e' una piccola stanza scura dove sono alloggiati gli
+animali. E' importante che il numero virtuale di questa stanza
+sia uno di piu' del numero virtuale del negozio.     
+~
+90 1032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9016
+La Bottega della Carne~
+   Uno sgradevole odore ti assale le narici quando varchi la soglia
+di questo negozio. Gli odori di carne fresca, sangue e sudore
+sono chiaramente avvertibili; e' un classico per una buona macelleria.
+Uno schermo di vetro ti separa da uno sconcertante spiu'gamento
+di fette e spalle di manzo, cervo, coniglio ed altro. Un cartello
+dice: "per un servizio migliore si prega di prendere un numero"
+    
+~
+90 28 0
+D1
+~
+~
+0 -1 9126 0
+E
+cartello numero numeri~
+Il prossimo numero e' il 4. Abbastanza vicino, possiamo aspettare.
+    
+~
+E
+sangue~
+Del sangue e' sparso sul bancone e sul pavimento. Cosa ti saresti
+aspettato in una macelleria?     
+~
+E
+schermo vetro~
+Credi che sia chiamato "anti-starnuto".     
+~
+E
+carne fette fetta carni spalla spalle manzo cervo coniglio~
+E' buona se ti piace la carne cruda.     
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9017
+La Bottega della Magia~
+   Entri nella piccola torre e vedi che qui e' stata ricavata una
+piccola bottega.
+Dietro al banco vedi vari articoli ben allineati sugli scaffali;
+presumibilmente la maggior parte di essi sono magici.     
+~
+90 140 0
+D5
+~
+~
+0 -1 9086 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9018
+La Bottega delle Armi~
+   Vedi ben allineate dentro slendide rastreliere alcune delle
+armi migliori che tu abbia mai visto.
+Peccato che quelle non siano in vendita.
+Sei nell'armeria. C'e' una piccola nota sul muro.     
+~
+90 136 0
+D1
+~
+~
+0 -1 9046 0
+E
+nota~
+La nota recita:  List  - Elenco degli articoli presenti nel negozio.
+ Buy   - Compra un articolo.  Value - Il negoziante ti fara'
+un'offerta per l'articolo che gli proponi.   Sell  - Vendi un
+articolo.     
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9019
+La Bottega delle Armature~
+   Un grosso omone muscoloso sta lucidando una splendida armatura
+completa.
+Questo negozio e' fornito di ogni tipo di armatura. Vedi elmetti,
+scudi e cotte di maglia. Sul muro una piccola nota.
+
+~
+90 136 0
+D1
+~
+~
+0 -1 9044 0
+E
+nota~
+Puoi usare questi comandi:   value <item> - Per avere un'offerta
+dal fabbro di merce in tuo possesso.   sell <item>  - Per vendere
+un articolo.   buy <item>   - Per comprare un articolo.   list
+        - Per avere l'elenco dell'inventario del negozio.   
+     NON SI CONCEDE CREDITO; NON CI ASPETTIAMO DI RICEVERLO!
+                            NESSUNO SCONTO     
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9020
+La Bottega degli Archi~
+   Sei nella fabbrica di Archi e frecce. Il miglior artigiano
+del mondo conosciuto ha approntato tutta un serie di armi. C'e'
+un cartello sul muro. Ad est vedi Corso del Mercante.     
+~
+90 0 1
+D3
+~
+~
+0 -1 9050 0
+E
+cartello~
+Puoi usare questi comandi:   value <item> - Per avere un'offerta
+dal bottegaio di un articolo                  in tuo possesso.
+  sell <item>  - Per vendere un articolo.   buy <item>   - Per
+comprare un articolo.   list         - Per avere l'elenco dell'inventario
+del negozio.         NON SI CONCEDE CREDITO; NON CI ASPETTIAMO
+DI RICEVERLO!                           NESSUNO SCONTO     
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9021
+Il Bazar~
+   Sei nel Bazar. Ogni tipo di merce e' ben allineata sulle scansie
+dietro il bancone, ben lontana dalle tue mani. Una piccola nota
+e' appesa al muro.    
+~
+90 136 0
+D1
+~
+~
+0 -1 9111 0
+E
+nota~
+La nota recita:   List  - Elenco degli articoli presenti nel negozio.
+  Buy   - Compra un articolo.   Value - Il negoziante ti dara'
+una sua offerta per l'articolo che            gli proponi.  
+Sell  - Vendi un articolo.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9022
+La Tesoreria~
+   Sei nella Tesoreria del castello di Cimmura e qui potrai conservare
+i tuoi soldi Uno scudo magico divide i cittadini dal tesoriere.
+In piu quattro guardie sorvegliano continuamente questa stanza
+mentre alcuni impiu'gati tramite una porta sul retro portano
+in un altra stanza el castello i sachi di monete d'oro.
+~
+90 144 1
+D3
+~
+sbarramento~
+2 9056 9145 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9023
+Entrata alla scuola dei cavalieri Genidian~
+   L'ingresso e' una vasta e modesta stanza tutta sottosopra che
+rispecchia la natura prorompente dei Genidian. L'uscita e' ad
+est mentre Kronan il capo delle guardie tiene le sue lezioni
+qui ad Ovest.
+~
+90 8 0
+D1
+~
+sbarramento~
+0 -1 9149 0
+D3
+~
+sbarramento~
+0 -1 9024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9024
+La Gilda dei Genidian~
+   La sala d'ingresso alla gilda dei Cavalieri. Un posto non proprio
+tranquillo, ma qui puoi imparare le norme del Cavalierato.   
+~
+90 8 0
+D1
+~
+~
+0 -1 9023 0
+D4
+~
+~
+0 0 9191 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9025
+Entrata alla Gilda dei Pandion~
+   L'ingresso e' una modesta e scura stanza invasa da carte e
+armi. L'uscita e' a sud mentre la Gilda e' a nord.     
+~
+90 8 0
+D2
+~
+~
+0 0 2184856 0
+D3
+~
+~
+0 0 2184755 0
+D4
+~
+~
+0 -1 9026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9026
+La Gilda dei Pandion~
+   La sala d'ingresso alla gilda dei Cavalieri. Un posto tranquillo
+dove poter imparare le norme del Cavalierato.     
+~
+90 8 0
+D4
+~
+~
+0 0 9192 0
+D5
+~
+~
+0 -1 9025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9027
+Entrata alla Gilda dei Cyrinic~
+   L'ingresso e' una piccola e modesta stanza che rispecchia la
+mite natura dei Cyrinic. La Gilda e' a nord mentre a sud c'e'
+l'uscita.     
+~
+90 8 0
+D0
+~
+~
+0 0 2185149 0
+D1
+~
+~
+0 0 2185250 0
+D4
+~
+~
+0 -1 9028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9028
+La Gilda dei Cyrinic~
+   La sala d'ingresso alla gilda dei Cavalieri. Un posto tranquillo
+dove poter imparare le norme del Cavalierato.
+~
+90 8 0
+D4
+~
+~
+0 0 9193 0
+D5
+~
+~
+0 -1 9027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9029
+Entrata alla Gilda degli Alcioni~
+   L'ingresso e' una piccola e modesta stanza che rispecchia la
+natura degli Alcioni. L'uscita e' a sud e porta verso il Corso
+del Cavaliere, una piccola porta a nord da' accesso alla Gilda
+degli Alcioni.     
+~
+90 8 0
+D0
+~
+~
+0 0 2185156 0
+D3
+~
+~
+0 0 2185255 0
+D4
+~
+~
+0 -1 9030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9030
+La Gilda degli Alcioni~
+   La sala d'ingresso alla gilda dei Cavalieri. Un posto tranquillo
+dove poter imparare le norme del Cavalierato.
+~
+90 8 0
+D4
+~
+~
+0 0 9194 0
+D5
+~
+~
+0 -1 9029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9031
+La Sala di Lettura~
+Sei in una grande sala dove alla perete sono appessi tutti gli annunci e i
+comunicati dei cittadini di cimmura . Se vuoi mettere un annuncio questo e il
+posto giusto Da Ovest senti provenire il tramestio di gente che va e viene
+dagli ufffici
+~
+90 8 1
+D3
+~
+~
+0 -1 9034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9032
+L'ufficio postale~
+Dietro una grande scrivania vedi Wally l'ex cartografo.  Sulla parete c'e un
+grande ritratto di Feanor Primo l'attuale RE di Cimmura.  E' grazie a Re Fenoar
+che Wally ha trovato questo lavoro
+~
+90 8 1
+D3
+~
+~
+0 -1 9033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9033
+La parte meridionale della Piazza degli Incontri~
+   Verso Sud vedi gli immensi portoni del Municipio che si
+ergono dirimpetto al castelo di Cimmura che vedi a Nord 
+della piazza.
+Ad Ovest vedi l'insegna della "Locanda della Rosa" mentre
+ad Est puoi vedere l'ufficio postale.
+~
+90 0 0
+D0
+~
+~
+0 -1 9035 0
+D1
+~
+~
+0 -1 9032 0
+D2
+~
+~
+0 -1 9034 0
+D3
+~
+~
+0 -1 9000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9034
+L'atrio del Municipio~
+   Attraversi i grandi portoni e ti ritrovi nell'atrio del municipio.
+Verso Sud vedi il corridoio dei Mestieri, mentre qui ad Est vedi
+la stanza degli annunci.
+~
+90 0 0
+D0
+~
+~
+0 -1 9033 0
+D1
+~
+~
+0 -1 9031 0
+D2
+~
+~
+0 0 9170 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9035
+Il centro della Piazza degli Incontri~
+   Qui si possono incontrare le maggiori personalita' della citta'.
+Ad Ovest ed ad Est vedi le due Fontane volute da Re Feanor I.
+A Nord e a Sud ci sono i due centri piu importanti della 
+Citta' che sono rispettivamente il Castello e il Municipio.
+~
+90 0 0
+D0
+~
+~
+0 -1 9038 0
+D1
+~
+~
+0 -1 9036 0
+D2
+~
+~
+0 -1 9033 0
+D3
+~
+~
+0 -1 9037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9036
+La parte Orientale della Piazza degli Incontri~
+   Vedi qui una splendida fontana di colore nero che si contrappone
+alla Fontana bianca che si trova dall'altra parte della piazza.
+Tipi poco raccomandabili si trovano qui intenti a dissetarsi.
+nella parte meridionale della piazza vedi la "Locanda della Rosa"
+e il Municipio mentre nella parte settentrionale vedi il castello 
+di Cimmura. Verso Ovest esci dal perimetro abitato e verso nord fiancheggi
+le mura del castello. A sud c'e il corso dei cavalieri.
+~
+90 0 0
+D0
+~
+~
+0 0 9152 0
+D1
+~
+~
+0 0 9155 0
+D2
+~
+~
+0 -1 9039 0
+D3
+~
+~
+0 -1 9035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9037
+La parte Occidentale della Piazza degli Incontri~
+   Vedi qui una splendida fontana di colore bianco che si contrappone
+alla Fontana nera che si trova dall'altra parte della piazza.
+Ci sono dei bambini qui che giocano e si schizzano con l'acqua
+nella parte meridionale della piazza vedi la "Locanda della Rosa"
+e il Municipio mentre nella parte settentrionale vedi il castello 
+di Cimmura. Verso Ovest esci dal perimetro abitato e verso nord fiancheggi
+le mura del castello. A sud c'e il corso dei cavalieri.
+~
+90 0 0
+D0
+~
+~
+0 0 9150 0
+D1
+~
+~
+0 -1 9035 0
+D2
+~
+~
+0 -1 9040 0
+D3
+~
+~
+0 0 9154 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9038
+La parte settentrionale della Piazza degli Incontri~
+   Sei di fronte alle imponenti Mura del Castello di Cimmura.
+Sule alte Torri puoi vedere gli stendardi della Citta', lo
+stemma della Toldaria e uno strano stemma di cui non conosci
+il significato.
+Il ponte levatoio e' calato sul fossato e puoi entrare nel
+castelllo se vuoi.
+~
+90 0 0
+D0
+~
+~
+0 -1 9144 0
+D2
+~
+~
+0 -1 9035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9039
+La via del Colle~
+   Sei sulla via che congiunge il Corso del Cavaliere con il "Colle",
+centro diplomatico e organizzativo di Cimmura.
+In cima al "Colle" c'e' la grande piazza degli incontri.
+~
+90 0 1
+D0
+~
+~
+0 -1 9036 0
+D2
+~
+~
+0 -1 9050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9040
+La via del Colle~
+   Sei sulla via che congiunge il Corso del Cavaliere con il "Colle",
+centro diplomatico e organizzativo di Cimmura.
+In cima al "Colle" c'e la grande piazza degli incontri.
+~
+90 0 1
+D0
+~
+~
+0 -1 9037 0
+D2
+~
+~
+0 -1 9041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9041
+Corso del Cavaliere (Lato Ovest)~
+   Questa e la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9040 0
+D1
+~
+~
+0 -1 9050 0
+D2
+~
+~
+0 -1 9042 0
+D3
+~
+~
+0 0 9196 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9042
+Corso del Cavaliere (Lato Ovest)~
+   Questa e la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+Dal corso verso Ovest si diparte la "via dei nobili".
+~
+90 0 1
+D0
+~
+~
+0 -1 9041 0
+D1
+~
+~
+0 -1 9051 0
+D2
+~
+~
+0 -1 9043 0
+D3
+~
+~
+0 -1 9061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9043
+Corso del Cavaliere (Lato Ovest)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9042 0
+D1
+~
+~
+0 -1 9052 0
+D2
+~
+~
+0 -1 9044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9044
+Corso del Cavaliere (Lato Ovest)~
+   Questa e la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9043 0
+D1
+~
+~
+0 -1 9053 0
+D2
+~
+~
+0 -1 9045 0
+D3
+~
+~
+0 -1 9019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9045
+Corso del Cavaliere (Lato Ovest)~
+   Questa e la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+Il Corso in questo punto incrocia la "Via del Drago" che
+attraversa la citta da Ovest a Est.
+~
+90 0 1
+D0
+~
+~
+0 -1 9044 0
+D1
+~
+~
+0 -1 9054 0
+D2
+~
+~
+0 -1 9046 0
+D3
+~
+~
+0 -1 9133 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9046
+Corso del Cavaliere (Lato Ovest)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9045 0
+D1
+~
+~
+0 -1 9055 0
+D2
+~
+~
+0 -1 9047 0
+D3
+~
+~
+0 -1 9018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9047
+Corso del Cavaliere (Lato Ovest)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+
+~
+90 0 1
+D0
+~
+~
+0 -1 9046 0
+D1
+~
+~
+0 -1 9056 0
+D2
+~
+~
+0 -1 9048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9048
+Corso del Cavaliere (Lato Ovest)~
+Questa e la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+Dal corso verso Ovest si diparte la "via del mare".
+~
+90 0 1
+D0
+~
+~
+0 -1 9047 0
+D1
+~
+~
+0 -1 9057 0
+D2
+~
+~
+0 -1 9049 0
+D3
+~
+~
+0 -1 9075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9049
+Corso del Cavaliere (Lato Ovest)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9048 0
+D1
+~
+~
+0 -1 9058 0
+D2
+~
+~
+0 -1 9059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9050
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9039 0
+D1
+~
+~
+0 -1 9020 0
+D2
+~
+~
+0 -1 9051 0
+D3
+~
+~
+0 -1 9041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9051
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+Dal corso verso Est si diparte la "via dei Mercanti".
+~
+90 0 1
+D0
+~
+~
+0 -1 9050 0
+D1
+~
+~
+0 -1 9103 0
+D2
+~
+~
+0 -1 9052 0
+D3
+~
+~
+0 -1 9042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9052
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9051 0
+D2
+~
+~
+0 -1 9053 0
+D3
+~
+~
+0 -1 9043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9053
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9052 0
+D1
+~
+~
+0 -1 9006 0
+D2
+~
+~
+0 -1 9054 0
+D3
+~
+~
+0 -1 9044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9054
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+Il Corso in questo punto incrocia la "Via del Drago" che
+atraversa la citta da Ovest a Est.
+~
+90 0 1
+D0
+~
+~
+0 -1 9053 0
+D1
+~
+~
+0 -1 9134 0
+D2
+~
+~
+0 -1 9055 0
+D3
+~
+~
+0 -1 9045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9055
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9054 0
+D1
+~
+~
+0 -1 9007 0
+D2
+~
+~
+0 -1 9056 0
+D3
+~
+~
+0 -1 9046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9056
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9055 0
+D1
+Il negozio di materiali edili
+~
+~
+0 0 9197 0
+D2
+~
+~
+0 -1 9057 0
+D3
+~
+~
+0 -1 9047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9057
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+Dal corso verso Ovest si diparte la "via dei Mercenari".
+~
+90 0 1
+D0
+~
+~
+0 -1 9056 0
+D1
+~
+~
+0 -1 9089 0
+D2
+~
+~
+0 -1 9058 0
+D3
+~
+~
+0 -1 9048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9058
+Corso del Cavaliere (Lato Est)~
+   Questa e' la via principale di Cimmura che la attraversa da
+Nord a Sud.
+Lungo questo corso sono passati tutti gli eroi di questa citta'
+per raggiungere il castello e ricevere varie onoreficenze.
+~
+90 0 1
+D0
+~
+~
+0 -1 9057 0
+D2
+~
+~
+0 -1 9060 0
+D3
+~
+~
+0 -1 9049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9059
+La via dei templi~
+   Il "corso del Cavaliere" si divide in due per aggirare i Templi
+di Cimmura.
+Verso Nord vedi il colle su cui si ergono il Municipio e il
+Castello.
+~
+90 0 1
+D0
+~
+~
+0 -1 9049 0
+D2
+~
+~
+0 -1 9001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9060
+La via dei templi~
+   Il "corso del Cavaliere" si divide in due per aggirare i Templi
+di Cimmura.
+Verso Nord vedi il colle su cui si ergono il Municipio e il
+Castello.
+~
+90 4 1
+D0
+~
+~
+0 -1 9058 0
+D2
+~
+~
+0 0 9139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9061
+La via dei Nobili~
+   Lungo questa strada ci sono le ville piu' belle di Cimmura.
+Tutte le persone che contano devono avere una casa in questa
+zona della citta'.
+~
+90 0 0
+D1
+~
+~
+0 -1 9042 0
+D3
+~
+~
+0 -1 9062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9062
+La via dei Nobili~
+   Lungo questa strada ci sono le ville piu' belle di Cimmura.
+Tutte le persone che contano devono avere una casa in questa
+zona della citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9068 0
+D1
+~
+~
+0 -1 9061 0
+D2
+~
+~
+0 -1 9067 0
+D3
+~
+~
+0 -1 9063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9063
+La via dei Nobili~
+   Lungo questa strada ci sono le ville piu' belle di Cimmura.
+Tutte le persone che contano devono avere una casa in questa
+zona della citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9071 0
+D1
+~
+~
+0 -1 9062 0
+D2
+~
+~
+0 -1 9072 0
+D3
+~
+~
+0 -1 9064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9064
+La via dei Nobili~
+   Lungo questa strada ci sono le ville piu' belle di Cimmura.
+Tutte le persone che contano devono avere una casa in questa
+zona della citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9118 0
+D1
+~
+~
+0 -1 9063 0
+D2
+~
+~
+0 -1 9117 0
+D3
+~
+~
+0 -1 9065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9065
+La via dei Nobili~
+   Lungo questa strada ci sono le ville piu' belle di Cimmura.
+Tutte le persone che contano devono avere una casa in questa
+zona della citta'.
+Verso Nord vedi le mura di Cimmura
+~
+90 0 0
+D1
+~
+~
+0 -1 9064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9066
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 0 9067 0
+D2
+~
+~
+0 -1 9132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9067
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9062 0
+D2
+~
+~
+0 -1 9066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9068
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9069 0
+D2
+~
+~
+0 0 9062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9069
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D2
+~
+~
+0 -1 9068 0
+D3
+~
+~
+0 -1 9070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9070
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D1
+~
+~
+0 -1 9069 0
+D2
+~
+~
+0 -1 9071 0
+D3
+~
+~
+0 -1 9119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9071
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9070 0
+D2
+~
+~
+0 -1 9063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9072
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9063 0
+D2
+~
+~
+0 -1 9073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9073
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9072 0
+D2
+~
+~
+0 -1 9131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9074
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9117 0
+D2
+~
+~
+0 -1 9130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9075
+La via dei Sogni~
+   Lungo questa via potrai vedere le cose piu' strane di tutto il
+mondo di Daresia.
+Molte leggende parlano di questa via, la via dove i desideri
+diventano realta'.
+~
+90 0 0
+D1
+~
+~
+0 -1 9048 0
+D3
+~
+~
+0 -1 9076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9076
+La via dei Sogni~
+   Lungo questa via potrai vedere le cose piu' strane di tutto il
+mondo di Daresia.
+Molte leggende parlano di questa via, la via dove i desideri
+diventano realta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9081 0
+D1
+~
+~
+0 -1 9075 0
+D2
+~
+~
+0 -1 9082 0
+D3
+~
+~
+0 -1 9077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9077
+La via dei Sogni~
+   Lungo questa via potrai vedere le cose piu' strane di tutto il
+mondo di Daresia.
+Molte leggende parlano di questa via, la via dove i desideri
+diventano realta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9086 0
+D1
+~
+~
+0 -1 9076 0
+D2
+~
+~
+0 -1 9085 0
+D3
+~
+~
+0 -1 9078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9078
+La via dei Sogni~
+   Lungo questa via potrai vedere le cose piu' strane di tutto il
+mondo di Daresia.
+Molte leggende parlano di questa via, la via dove i desideri
+diventano realta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9120 0
+D1
+~
+~
+0 -1 9077 0
+D2
+~
+~
+0 -1 9121 0
+D3
+~
+~
+0 -1 9079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9079
+La via dei Sogni~
+   Lungo questa via potrai vedere le cose piu' strane di tutto il
+mondo di Daresia.
+Molte leggende parlano di questa via, la via dove i desideri
+diventano realta'.
+Verso Sud vedi le mura di Cimmura
+~
+90 0 0
+D1
+~
+~
+0 -1 9078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9080
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9132 0
+D2
+~
+~
+0 -1 9081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9081
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago
+
+
+
+~
+90 0 0
+D0
+~
+~
+0 -1 9080 0
+D2
+~
+~
+0 -1 9076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9082
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9076 0
+D2
+~
+~
+0 -1 9083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9083
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9082 0
+D3
+~
+~
+0 -1 9084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9084
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9085 0
+D1
+~
+~
+0 -1 9083 0
+D3
+~
+~
+0 -1 9122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9085
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9077 0
+D2
+~
+~
+0 -1 9084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9086
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+Vedi una scala che sale nella Torre difianco alla strada.
+~
+90 0 0
+D0
+~
+~
+0 -1 9087 0
+D2
+~
+~
+0 -1 9077 0
+D4
+~
+~
+0 -1 9017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9087
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9131 0
+D2
+~
+~
+0 -1 9086 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9088
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9130 0
+D2
+~
+~
+0 -1 9120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9089
+La via dei Mercenari~
+   Questa e' la via che attraversa il quartiere piu' malfamato della
+citta'. Se vuoi allontanarti dalla strada lo puoi fare ma a tuo rischio
+e pericolo.
+~
+90 4 0
+D1
+~
+~
+0 -1 9090 0
+D3
+~
+~
+0 -1 9057 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9090
+La via dei Mercenari~
+   Questa e' la via che attraversa il quartiere piu' malfamato della
+citta'. Se vuoi allontanarti dalla strada lo puoi fare ma a tuo rischio
+e pericolo.
+~
+90 0 0
+D0
+~
+~
+0 -1 9095 0
+D1
+~
+~
+0 -1 9091 0
+D2
+~
+~
+0 -1 9096 0
+D3
+~
+~
+0 -1 9089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9091
+La via dei Mercenari~
+   Questa e' la via che attraversa il quartiere piu' malfamato della
+citta'. Se vuoi allontanarti dalla strada lo puoi fare ma a tuo rischio
+e pericolo.
+~
+90 0 0
+D0
+~
+~
+0 -1 9100 0
+D1
+~
+~
+0 -1 9092 0
+D2
+~
+~
+0 -1 9099 0
+D3
+~
+~
+0 -1 9090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9092
+La via dei Mercenari~
+   Questa e' la via che attraversa il quartiere piu' malfamato della
+citta'. Se vuoi allontanarti dalla strada lo puoi fare ma a tuo rischio
+e pericolo.
+~
+90 0 0
+D0
+~
+~
+0 -1 9123 0
+D1
+~
+~
+0 -1 9093 0
+D2
+~
+~
+0 -1 9124 0
+D3
+~
+~
+0 -1 9091 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9093
+La via dei Mercenari~
+   Questa e' la via che attraversa il quartiere piu' malfamato della
+citta'. Se vuoi allontanarti dalla strada lo puoi fare ma a tuo rischio
+e pericolo.
+verso Sud vedi le mura di Cimmura.
+~
+90 0 0
+D3
+~
+~
+0 -1 9092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9094
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 4 0
+D0
+~
+~
+0 -1 9135 0
+D2
+~
+~
+0 -1 9095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9095
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9094 0
+D2
+~
+~
+0 -1 9090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9096
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9090 0
+D2
+~
+~
+0 -1 9097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9097
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9096 0
+D1
+~
+~
+0 -1 9098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9098
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9099 0
+D1
+~
+~
+0 -1 9125 0
+D2
+~
+~
+0 0 9163 0
+D3
+~
+~
+0 -1 9097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9099
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9091 0
+D2
+~
+~
+0 -1 9098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9100
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9101 0
+D2
+~
+~
+0 -1 9091 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9101
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 4 0
+D0
+~
+~
+0 -1 9136 0
+D2
+~
+~
+0 -1 9100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9102
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 4 0
+D0
+~
+~
+0 -1 9137 0
+D2
+~
+~
+0 -1 9123 0
+F
+ 2 0 0 0 0 0 0 0 0 0
+S
+#9103
+La via dei Mercanti~
+   Questa e' la via su cui si affacciano la maggior parte
+delle botteghe di Cimmura.
+Lungo le vie che si dipartono lungo la strada vedi una
+calca di gente incredibile.
+~
+90 0 0
+D1
+~
+~
+0 -1 9104 0
+D3
+~
+~
+0 -1 9051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9104
+La via dei Mercanti~
+   Questa e' la via su cui si affacciano la maggior parte
+delle botteghe di Cimmura.
+Lungo le vie che si dipartono lungo la strada vedi una
+calca di gente incredibile.
+~
+90 0 0
+D0
+~
+~
+0 -1 9110 0
+D1
+~
+~
+0 -1 9105 0
+D2
+~
+~
+0 -1 9109 0
+D3
+~
+~
+0 -1 9103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9105
+La via dei Mercanti~
+   Questa e' la via su cui si affacciano la maggior parte
+delle botteghe di Cimmura.
+Lungo le vie che si dipartono lungo la strada vedi una
+calca di gente incredibile.
+~
+90 0 0
+D0
+~
+~
+0 -1 9113 0
+D1
+~
+~
+0 -1 9106 0
+D2
+~
+~
+0 -1 9114 0
+D3
+~
+~
+0 -1 9104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9106
+La via dei Mercanti~
+   Questa e' la via su cui si affacciano la maggior parte
+delle botteghe di Cimmura.
+Lungo le vie che si dipartono lungo la strada vedi una
+calca di gente incredibile.
+~
+90 0 0
+D0
+~
+~
+0 -1 9127 0
+D1
+~
+~
+0 -1 9107 0
+D2
+~
+~
+0 -1 9126 0
+D3
+~
+~
+0 -1 9105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9107
+La via dei Mercanti~
+   Questa e' la via su cui si affacciano la maggior parte
+delle botteghe di Cimmura.
+Lungo le vie che si dipartono lungo la strada vedi una
+calca di gente incredibile.
+Verso Nord vedi le mura di Cimmura.
+~
+90 0 0
+D3
+~
+~
+0 -1 9106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9108
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 0 9109 0
+D2
+~
+~
+0 -1 9135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9109
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 0 9104 0
+D1
+~
+~
+0 -1 9013 0
+D2
+~
+~
+0 0 9108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9110
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 -1 9111 0
+D2
+~
+~
+0 -1 9104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9111
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D1
+~
+~
+0 -1 9112 0
+D2
+~
+~
+0 -1 9110 0
+D3
+~
+~
+0 -1 9021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9112
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D1
+~
+~
+0 -1 9128 0
+D2
+~
+~
+0 -1 9113 0
+D3
+~
+~
+0 -1 9111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9113
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 -1 9112 0
+D2
+~
+~
+0 -1 9105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9114
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 -1 9105 0
+D2
+~
+~
+0 0 9115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9115
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 0 9114 0
+D2
+~
+~
+0 -1 9136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9116
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 -1 9126 0
+D2
+~
+~
+0 -1 9137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9117
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9064 0
+D2
+~
+~
+0 -1 9074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9118
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D0
+~
+~
+0 -1 9119 0
+D2
+~
+~
+0 -1 9064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9119
+Quartiere Nobiliare~
+   Questa e' la zona delle piu' belle ville di Cimmura.
+Tutte le persone che contano a Cimmura hanno una villa
+in questo quartiere della Citta'.
+~
+90 0 0
+D1
+~
+~
+0 -1 9070 0
+D2
+~
+~
+0 -1 9118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9120
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9088 0
+D2
+~
+~
+0 -1 9078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9121
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9078 0
+D2
+~
+~
+0 -1 9122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9122
+Il quartiere dei Sogni~
+   Questo e' il miglior mercato che tratti oggetti magici di tutta
+Daresia. Qui i tuoi sogni possono diventare realta'.
+Sai che con i giusti agganci con le associazioni di Cimmura
+in questo quartiere puoi arrivare addirittura a comprare un 
+Drago.
+~
+90 0 0
+D0
+~
+~
+0 -1 9121 0
+D1
+~
+~
+0 -1 9084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9123
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9102 0
+D2
+~
+~
+0 -1 9092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9124
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+~
+90 0 0
+D0
+~
+~
+0 -1 9092 0
+D2
+~
+~
+0 -1 9125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9125
+Il Nido~
+   "Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+Un mucchio di individui gironzola qua' in torno.
+Verso sud vedi una piccola locanda dall'aspetto alquanto sinistro....
+~
+90 0 0
+D0
+~
+~
+0 -1 9124 0
+D2
+Vedi una piccola porticina d'ingresso.
+~
+porticina~
+2 9084 9162 9
+D3
+~
+~
+0 -1 9098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9126
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu' una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 -1 9106 0
+D2
+~
+~
+0 -1 9116 0
+D3
+~
+~
+0 -1 9016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9127
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu' una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D0
+~
+~
+0 -1 9128 0
+D2
+~
+~
+0 -1 9106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9128
+Il Mercato~
+   Tutte le case al piano terra hanno piccole botteghe che vendono
+tutti i generi di prima necessita' piu' una miriade di cose inutili.
+Se vuoi aprire una bottega questo e' il quartiere giusto.
+~
+90 0 0
+D2
+~
+~
+0 -1 9127 0
+D3
+~
+~
+0 -1 9112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9129
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+Verso Ovest vedi le mura di Cimmura
+~
+90 0 0
+D1
+~
+~
+0 -1 9130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9130
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D0
+~
+~
+0 -1 9074 0
+D1
+~
+~
+0 -1 9131 0
+D2
+~
+~
+0 -1 9088 0
+D3
+~
+~
+0 -1 9129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9131
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D0
+~
+~
+0 -1 9073 0
+D1
+~
+~
+0 -1 9132 0
+D2
+~
+~
+0 -1 9087 0
+D3
+~
+~
+0 -1 9130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9132
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D0
+~
+~
+0 -1 9066 0
+D1
+~
+~
+0 -1 9133 0
+D2
+~
+~
+0 -1 9080 0
+D3
+~
+~
+0 -1 9131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9133
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D1
+~
+~
+0 -1 9045 0
+D3
+~
+~
+0 -1 9132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9134
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D1
+~
+~
+0 -1 9135 0
+D3
+~
+~
+0 -1 9054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9135
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D0
+~
+~
+0 -1 9108 0
+D1
+~
+~
+0 -1 9136 0
+D2
+~
+~
+0 -1 9094 0
+D3
+~
+~
+0 -1 9134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9136
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D0
+~
+~
+0 -1 9115 0
+D1
+~
+~
+0 -1 9137 0
+D2
+~
+~
+0 -1 9101 0
+D3
+~
+~
+0 -1 9135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9137
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+~
+90 0 0
+D0
+~
+~
+0 -1 9116 0
+D1
+~
+~
+0 -1 9138 0
+D2
+~
+~
+0 -1 9102 0
+D3
+~
+~
+0 -1 9136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9138
+La via Del Drago~
+   La leggenda vuole che questa strada sia stata tracciata
+in mezzo a Cimmura dal grande drago INCUBO con un solo
+soffio dalle sue possenti fauci.
+Il fatto che il Corso del cavaliere e questa via si incrocino
+ha un grande significato per i cittadini di Cimmura.
+Verso Est vedi le mura di Cimmura
+~
+90 0 0
+D0
+~
+~
+0 0 9014 0
+D3
+~
+~
+0 -1 9137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9139
+Il Tempio della Morte~
+   Questo e' il tempio dedicato alla DEA Morte e il luogo dove vengono
+portati i morti della citta' sperando che la DEA restituisca 
+l'energia vitale rubata con la morte.
+Le leggende narrano di due famose "Resurrezioni" avvenute qui.
+Verso Nord vedi il "Corso del Cavaliere" mentre a Nord Ovest vedi
+un cantiere
+~
+90 24 1
+D0
+~
+~
+0 0 9060 0
+D1
+~
+~
+0 0 9158 0
+D2
+~
+~
+0 0 9159 0
+D3
+~
+~
+0 -1 9141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9141
+Il cantiere~
+   Appena Feanor ha conquistato Cimmura ha fatto aprire questo 
+cantiere in mezzo ai due antichi tempi di Cimmura per 
+convertire man mano i suoi cittadini ai "VERI DEI".
+Molti operai si stanno adoperando oltre gli sbarramenti.
+La discesa porta fuori Cimmura.
+~
+90 0 0
+D1
+~
+~
+0 -1 9139 0
+D2
+Gli operai hanno eretto una sbarramento per edificare il cantiere
+~
+porta~
+1 -1 22800 1
+D3
+~
+~
+0 -1 9001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9142
+Il cantiere~
+   Oltrepassato lo sbarramento vedi che il cantiere e in piena
+attivita' per costruire la piu' grande cattedrale di tutta 
+Daresia.
+Alcune cappelle sembrano quasi ultimate mentre si sta 
+lavorando ancora sulla navata centrale.
+Non c'e' ancora il portone sulla facciata della cattedrale,
+puoi entrare a dare una sbirciata se vuoi.
+~
+90 0 0
+D0
+~
+Sbarramento~
+1 -1 9141 1
+D2
+~
+~
+0 -1 9143 0
+E
+sud~
+Guardando a SUD vedi.
+La navata centrale della cattedrale e' stupenda e lungo di essa
+si aprono le cappelle di tutti gli DEI della Daresia.
+In cima alla navata vedi uno splendido dipinto in cui sono 
+visibili la maggior parte dei "VERI DEI"~
+E
+s~
+Guardando a SUD vedi.
+La navata centrale della cattedrale e' stupenda e lungo di essa
+si aprono le cappelle di tutti gli DEI di Daresia.
+In cima alla navata vedi uno splendido dipinto in cui sono 
+visibili la maggior parte dei "VERI DEI"~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9143
+La cattedrale~
+Entri nella navata centrale e mentre estasiato guardi
+l'arazzo rappresentante tutti i "VERI DEI", un blocco
+di pietra rompe l'imbragatura che lo reggeva e ti cade
+in testa ..........maledetta curiosita!
+~
+90 2 0
+D0
+~
+~
+0 -1 9142 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#9144
+Il ponte levatoio~
+   Sei sul ponte levatoio del castello e vicino all'ingresso
+quattro guardie robuste conttrollano la gente che entra e
+che esce dal castello.
+Dalle mura altre guardie controllano sia l'esterno che l'interno
+delle mura del castello.
+~
+90 4 0
+D0
+~
+~
+0 -1 9145 0
+D2
+~
+sbarramento~
+0 -1 9038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9145
+Il cortile del castello~
+Sei nel Cortile del castello e verso Nord vedi la Magione di
+Re Feanor mentre verso East vedi la Tesoreria del castello.
+Verso Ovest vedi l'ufficio giudiziario e il campo di 
+addestramento.
+Verso Sud c'e' il ponte levatotio da cui tutti i cittadini
+entrano a castello.
+~
+90 0 0
+D0
+~
+~
+0 -1 9146 0
+D1
+~
+sbarramento~
+2 9056 9022 9
+D2
+~
+sbarramento~
+0 -1 9144 0
+D3
+~
+sbarramento~
+0 -1 9147 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9146
+La Magione~
+   Questa e' la Magione di Re Feanor, una grande palazzo
+in pietra con annessa una grande Torre da dove si dice
+si possa vedere fino ai confini di toldaria e nei
+giorni in cui il cielo e' piu terso scorgere all'orizzonte
+le citta' di Deira e di Chyrellos.
+Le guardie impediscono l'accesso alla magione.
+~
+90 0 0
+D1
+~
+~
+0 0 9195 0
+D2
+~
+sbarramento~
+0 -1 9145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9147
+Il cortile del castello~
+   Sei nella parte occidentale del cortile interno del castello
+Verso sud c'e' l'ufficio giudiziario mentre verso Nord c'e' il
+campo di addestramento e la scuola dei Cavalieri Genidian.
+~
+90 0 0
+D0
+~
+sbarramento~
+0 -1 9149 0
+D1
+~
+~
+0 -1 9145 0
+D2
+~
+sbarramento~
+0 -1 9148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9148
+Ufficio Giudiziario~
+   Qui vengono consegnati i ricercati che poi vengono rinchiusi
+nelle segrete dela magione.
+Verso nord c'e l'ufficio del capo delle guardie ma e' chiuso
+visto che il capo delle guardie e' come al solito al campo di
+addestramento.
+~
+90 35184372088832 0
+D0
+~
+~
+0 -1 9147 0
+D1
+~
+~
+0 0 9198 0
+D3
+~
+grata~
+2 9099 9160 15
+D5
+~
+Botola~
+1 0 -1 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9149
+Il Cortile~
+   Verso Nord c'e la scacchiera dove molti guerrieri si esercitano
+nell'arte del combattimento per poter magari un giorno entrare
+nella scuola dei cavalieri Genidian che si trova qui in una
+modesta costruzione.
+~
+90 0 0
+D1
+~
+~
+0 0 9199 0
+D2
+~
+~
+0 -1 9147 0
+D3
+~
+~
+0 -1 9023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9150
+Le mura del castello~
+Stai fiancheggiando le mura ovest del castello
+Verso Nord vedi le mura della citta di Cimmura
+Mentre a sud vedi la piazza degli incontri.
+~
+90 0 1
+D0
+~
+~
+0 0 9151 0
+D2
+~
+~
+0 0 9037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9151
+Le mura del castello~
+Stai fiancheggiando le mura ovest del castello
+Verso Nord vedi le mura della citta di Cimmura
+Mentre in lontananza verso sud vedi la piazza degli incontri.
+~
+90 0 0
+D2
+~
+~
+0 0 9150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9152
+Le mura del castello~
+Stai fiancheggiando le mura est del castello
+Verso Nord vedi le mura della citta di Cimmura
+Mentre sud vedi la piazza degli incontri.
+~
+90 0 0
+D2
+~
+~
+0 0 9036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9153
+Le mura est del castello~
+Stai fiancheggiando le mura est del castello
+Verso Nord vedi le mura della citta di Cimmura
+Mentre in lontananza verso sud vedi la piazza degli incontri.
+~
+90 0 0
+D0
+~
+~
+0 0 2184753 0
+D2
+~
+~
+0 0 9152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9154
+La via dell'ovest~
+La via dell'ovest e la via che seguono coloro che arrivando da ovest vogliono
+giungere a castello senza passare per il centro di Cimmura
+Verso Est vedi la piazza degli incontri
+~
+90 0 0
+D1
+~
+~
+0 0 9037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9155
+La via dell'est~
+La via dell'est e la via che seguono coloro che arrivando da est vogliono
+giungere a castello senza passare per il centro di Cimmura
+Verso Ovest vedi la piazza degli incontri
+~
+90 0 1
+D3
+~
+~
+0 0 9036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9156
+La via della vita~
+Queta e la via della vita che conduce dalle porte sud di Cimmura
+verso il tempio pagano della vita
+A Nord vedi il Tempio della Vita 
+A Sud vedi le mura di Cimmura
+~
+90 0 0
+D0
+~
+~
+0 0 9001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9157
+La fede dall'Ovest~
+Questa e la via che i pellegrini percorrono per raggiungere i templi
+di Cimmura senza entrare in citta
+A Est vedi il Tempio della Vita e dietro la cattedrale di Cimmura!
+A Ovest ci sono le Mura di Cimmura
+~
+90 0 0
+D1
+~
+~
+0 0 9001 0
+D3
+~
+~
+0 0 2185051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9158
+La Fede dall'Est~
+Questa e la via che i pellegrini percorrono per raggiungere i templi
+di Cimmura senza entrare in citta
+A Ovest vedi il Tempio della Vita e dietro la cattedrale di Cimmura!
+A Est ci sono le Mura di Cimmura
+~
+90 4 0
+D1
+~
+~
+0 0 2185054 0
+D3
+~
+~
+0 0 9139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9159
+La via della morte~
+Queta e la via della morte che conduce dalle porte sud di Cimmura
+verso il tempio pagano della morte
+A Nord vedi il Tempio della Morte 
+A Sud vedi le mura di Cimmura
+~
+90 0 0
+D0
+~
+~
+0 0 9139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9160
+La prigione di Cimmura~
+Sei in una sporca e puzzolente prigione.
+Ovviamente, e' quello che ti meriti!
+Vedrai che ti ci abituerai velocemente, ai topi (non so loro!)
+~
+90 216 0
+D1
+~
+grata~
+2 9099 9148 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9161
+&1BAR MOE'S!&0~
+Il bar lo vedi alquanto sporco e piccolo, sulla destra c'e' il
+bancone dove alcuni ubriachi sbevazzano. Sulla sinistra c'e'
+qualche tavolo malridotto e sporco con sedie messe un po ovunque
+La stanza e appena illuminata visto che le imposte sono perennemente
+chiuse e la puzza di chiuso e coperta solo dall'intenso odore di birra
+che come vedi dai presenti viene servita a fiumi.
+~
+90 212 0
+D1
+~
+~
+0 0 9163 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9162
+&1&bLa Locanda del vecchio Ladro&0~
+Entri in quella che sembra essere una squallida locanda di terz'ordine.
+Al tuo ingresso il locandiere e tutti i clienti ti osservano da capo a piedi....
+questa forse e' l'ultima volta che entri in una locanda con le tue gambe.
+Sei sicuro di voler bere qualcosa qui...! Non penserai poi di alloggiarci?!
+La pelle e' tua fai come ti pare.....
+Vedi un cartello con un iscrizione sulla parete dietro al bancone.
+~
+90 1048776 0
+D0
+Uscita dalla locanda
+~
+Porta~
+2 9084 9125 9
+D1
+~
+porticina~
+2 9088 2185359 9
+E
+cartello insegna manifesto~
+Questa locanda non fa credito! La direzione si riserva di cacciare a calci
+la clientela non desiderata.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9163
+Il Nido~
+"Il Nido" cosi' e' chiamato il ghetto di Cimmura dove si trovano
+i peggiori ladri e assassini di Daresia. In questa zona non entra
+nessuna guardia se non in casi eccezionali in cui tutte le guardie
+di Cimmura entrano per catturare Grandi Ricercati.
+A ovest vedi l'insegna del BAR MOE'S
+~
+90 0 0
+D0
+~
+~
+0 0 9098 0
+D3
+~
+~
+0 0 9161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9164
+Corpo di guardia di Cimmura~
+La caserma e' enorme e ospita numerose brande.
+Diversi soldati si addestrano fuori all'aperto altri sono qui di riposo.
+Al tuo ingrasso tutti ti guardano.
+~
+90 24 0
+D0
+L'uscita della caserma
+~
+~
+0 0 2185151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9165
+Una piccola costruzione segreti nelle profundita' della Daresia~
+Ti trovi in una piccola stanza buia ed umida in un posto non ben definito.
+Speri che qualcuno si ricordi di te!
+~
+90 72 0
+D2
+~
+porta~
+2 9165 1483500 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9170
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro mestiere e aiutarti
+nelle tue prime esperienze lavorative
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti una tua bottega
+Il grande via via di gente ti permette inoltre di scambiare con facilita la tua merce
+A Ovest vedi la corporazione dei Forgiatori mentre ad est c'e quella dei Fabbri.
+~
+90 16 0
+D0
+~
+~
+0 0 9034 0
+D1
+~
+~
+0 0 9178 0
+D2
+~
+~
+0 0 9171 0
+D3
+~
+~
+0 0 9177 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9171
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro mestiere e aiutarti
+nelle tue prime esperienze lavorative
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti una tua bottega
+Il grande via via di gente ti permette inoltre di scambiare con facilita la tua merce
+A Ovest vedi la corporazione dei Carpentieri mentre ad est c'e quella dei Falegnami.
+~
+90 16 0
+D0
+~
+~
+0 0 9170 0
+D1
+~
+~
+0 0 9180 0
+D2
+~
+~
+0 0 9172 0
+D3
+~
+~
+0 0 9179 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9172
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro
+mestiere e aiutarti nelle tue prime esperienze lavorative.
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti
+una tua bottega Il grande via via di gente ti permette inoltre di scambiare
+con facilita' la tua merce.
+A Ovest vedi la corporazione degli sgrossatori di pietre preziose mentre ad 
+est c'e quella dei Gioiellieri
+~
+90 16 0
+D0
+~
+~
+0 -1 9171 0
+D1
+~
+~
+0 0 9182 0
+D2
+~
+~
+0 0 9173 0
+D3
+~
+~
+0 0 9181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9173
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro mestiere e aiutarti
+nelle tue prime esperienze lavorative
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti una tua bottega
+Il grande via via di gente ti permette inoltre di scambiare con facilita la tua merce
+A Ovest vedi la corporazione dei Mugnai mentre ad est c'e quella dei Cuochi
+~
+90 0 0
+D0
+~
+~
+0 0 9172 0
+D1
+~
+~
+0 0 9184 0
+D2
+~
+~
+0 0 9174 0
+D3
+~
+~
+0 0 9183 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9174
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro mestiere e aiutarti
+nelle tue prime esperienze lavorative
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti una tua bottega
+Il grande via via di gente ti permette inoltre di scambiare con facilita la tua merce
+A Ovest vedi la corporazione degli Erboristi mentre ad est c'e quella degli Alchimisti
+~
+90 0 0
+D0
+~
+~
+0 0 9173 0
+D1
+~
+~
+0 0 9186 0
+D2
+~
+~
+0 0 9175 0
+D3
+~
+~
+0 0 9185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9175
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro mestiere e aiutarti
+nelle tue prime esperienze lavorative
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti una tua bottega
+Il grande via via di gente ti permette inoltre di scambiare con facilita la tua merce
+A Ovest vedi la corporazione dei Cacciatori mentre ad est c'e quella dei Sarti
+~
+90 16 0
+D0
+~
+~
+0 0 9174 0
+D1
+~
+~
+0 0 9188 0
+D2
+~
+~
+0 0 9176 0
+D3
+~
+~
+0 0 9187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9176
+Il corridoio dei Mestieri~
+Lungo questo corridoio si aprono gli uccifi delle corporazioni di Cimmura.
+In questi uffici i maestri delle corporazioni potranno insegnarti il loro mestiere e aiutarti
+nelle tue prime esperienze lavorative
+Inoltre potrai venire qui per lavorare i tuoi prodotti se non puoi permetterti una tua bottega
+Il grande via via di gente ti permette inoltre di scambiare con facilita la tua merce
+A Ovest vedi la corporazione dei Marmisti
+~
+90 0 0
+D0
+~
+~
+0 0 9175 0
+D3
+~
+~
+0 0 9189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9177
+La corporazione dei Forgiatori~
+Questa stanza emana un terribile calore e i tuoi occhi sono abbagliati 
+dalla luce dei fuochi delle fucine.
+Qui i garzoni continuano a gettare metalli grezzi nelle camere di fusione
+per colare negli stmapi e ottenere lingotti di purissimi metalli o di leghe
+utili per i fabbri.
+Qui la gente viene per lavorare i lingotti di metallo quindi datti da fare con:
+"Lavora lingotto" e se non hai gli attrezzi adatti comprali dal
+Mastro Forgiatore.
+~
+90 274880004252 0
+D1
+~
+~
+0 0 9170 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9178
+La corporazione dei Fabbri~
+Qui il calore e forte ma pare non dare fastidio ai fabbri che continuano
+con i loro spessi grembiuli di pelle a spingere sul mantice per aumentare
+la temperatura Il rombo del rumore che fanno picchiando i martelli sulle 
+incudini ti sta facendo impazzire anche se dopo poco tempo ti abitui all'ambiente
+Qui la gente viene per lavorare i lingotti di metallo quindi datti da fare con:
+"Lavora metallo" e se non hai gli attrezzi adatti comprali dal
+Mastro Fabbro.
+~
+90 274882101404 0
+D3
+~
+~
+0 0 9170 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9179
+La corporazione dei Falegnami~
+Scavalchi l'asse che stava sull'uscio per impedire alle montagne di
+segatura presenti nella stanza di riversarsi nel corridio del municipio,
+ed eccoti nella segheria della citta di Cimmura.
+Qui la gente viene per produrre assi di legno  quindi datti da fare con:
+"Lavora legno" e se non hai gli attrezzi adatti comprali dal
+Mastro Falegname Geppetto.
+~
+90 8388624 0
+D1
+~
+~
+0 0 9171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9180
+La corporazione dei Carpentieri~
+Scavalchi l'asse che stava sull'uscio per impedire alle montagne di
+segatura presenti nella stanza di riversarsi nel corridio del municipio,
+ed eccoti nella carpenteria della citta di Cimmura.
+Qui la gente viene per lavorare il legno quindi datti da fare con:
+"Lavora asse" e se non hai gli attrezzi adatti comprali dal
+Mastro Carpentiere.
+~
+90 274894684316 0
+D3
+~
+~
+0 0 9171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9181
+Sgrossatura pietre preziose e Squadratura pietre~
+Appena entri in questa stanza vedi come abili artigiani selezionino
+le pietre grezze da cui ricavare le migliori gemme che verrano poi 
+utilizzate dagli abili gioilellieri per realizzare splendi gioielli.
+Qui la gente viene per lavorare le pietre grezze quindi datti da fare
+con : "Lavora pietra" e se non hai gli attrezzi adatti comprali dal
+Mastro Sgrossatore.
+~
+90 167772176 0
+D1
+~
+~
+0 0 9172 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9182
+La corporazione dei Gioiellieri~
+Qui sono stati preparati alcuni dei gioielli piu belli di tutto il
+mondo della Daresia.
+Abili orafi sono intenti ad incastonare splendide gemme il 
+altrettanto stupende intelaiature di metalli preziosi per realizzare
+gioielli destinati alle nobil donne del Regno.
+Puoi tentare di realizzare un gioiello anche tu facendo "lavora pietra"
+e se non hai gli attrezzi adatti comprali dal Mastro Gioielliere.
+~
+90 2473968271376 0
+D3
+~
+~
+0 0 9172 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9183
+La corporazione dei Mugnai~
+In questa stanza vengono macinati tutti i farinacei del regno di cimmura
+Le macine del Mulnio sono fatte muovere da due muli che girano in toindo
+facendo ruotare un grande ingranaggio.
+Qui la gente viene per lavorare i farinacei quindi datti da fare con:
+"lavora grano" e se non hai gli attrezzi adatti comprali dal 
+Mastro Mugnaio.
+~
+90 2147483664 0
+D1
+~
+~
+0 0 9173 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9184
+La corporazione dei Cuochi~
+Un intenso profumo di cornetti alla crema ti inebria le narici
+Qui i cuochi di Cimmura si raduna per prearare succletti piatti
+ma vengono anche molti garzioni a cuocere il pane destinato alle
+panetterie della citt.
+Puoi tentare di realizzare un gioiello anche tu facendo "lavora pietra"
+e se non hai gli attrezzi adatti comprali dal
+Mastro Cheff.
+~
+90 279172874396 0
+D3
+~
+~
+0 0 9173 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9185
+La corporazione degli Erboristi~
+Entri in questa stanza e subito profumi esotici ti inebriano le narici
+D'entro alcuni braceri vengono bruciate strane erbe che nella combustione
+emanano fumi colorati che si inalzano fino al soffitto dove formano
+stranissime forme nelle quali cominci a vedere materializzarsi ogni cosa
+che ti passi per la testa.
+Qui la gente viene per lavorare le erbe grezze quindi datti da fare con:
+"lavora ebra" e se non hai gli attrezzi adatti comprali dal 
+Mastro Erborista Larsen
+~
+90 536870928 0
+D1
+~
+~
+0 0 9174 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9186
+La corporazione degli Alchimisti~
+Appena entri qui rimani estasiato dai vari alambicchi che ribollono e dagli
+strani contenitori di vetro utilizzati per distillare preparare e analizzare
+pozioni dagli effetti per lo piu casuali.
+Attento a come ti muovi perche da come vedi daisegni presenti sui muri
+le esplosioni qui sono una cosa all'ordine del giorno.
+Qui la gente viene per lavorare le erbe grezze e distillare pozioni quindi 
+datti da fare con: "distilla" e se non hai gli attrezzi adatti comprali dal 
+Mastro Alchimista Panoramix.
+~
+90 275951648924 0
+D3
+~
+~
+0 0 9174 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9187
+La corporazione dei cacciatori~
+In questa sala aleggia un odore di morte non indifferente anche se viene
+coperto in parte dall'odore degli unguenti che usano i pellettieri per
+scuoiare gli animali e conservarne le pelli.
+Su un grande tavolo di marmo infine le carcasse vengono macellate
+puntigliosamente e preparate per la cottura.
+Qui la gente viene per scuoiare i velli delle prede piu belle e macellare
+la selvaggina di qualita inferiore.
+datti da fare con: "lavora cadavere" e se non hai gli attrezzi adatti comprali
+dal Mastro Cacciatore, Diana.
+~
+90 8589934608 0
+D1
+~
+~
+0 0 9175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9188
+La corporazione dei Sarti~
+Entri in un grande salone dove sulla destra vedi forti uomini che mettono in
+forma pelli per ricavarne armature di cuoio mentre sulla sinistra vedi delle
+donne intente a cucire abiti e rammendarne altri.
+Qui la gente viene per lavorare armature di pelle o cucire piccoli vestiti
+quindi datti da fare con: "lavore pelle" e se non hai gli attrezzi adatti
+comprali dal Mastro Sarto Valentino.
+~
+90 292057776284 0
+D3
+~
+~
+0 0 9175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9189
+La Zecca Reale~
+Diverse forge sono qui disposte per creare delle brillanti monete dai diversi lingotti d'oro e argento presenti nella stanza. Molti garzoni sono intenti ad immagazzinare la merce.
+~
+90 1649267441680 0
+D1
+~
+~
+0 0 9176 0
+D5
+~
+porta~
+0 0 2404756 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9190
+La Donation~
+In questa stanza puoi trovare tutto l'equipaggiamento che ti serve per
+iniziarela tua vita nelle terre di Daresia.  Fanne buon uso !
+~
+90 28 0
+D5
+~
+~
+0 0 9011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9191
+La Donation~
+In questa stanza puoi trovare tutto l'equipaggiamento che ti serve per iniziare
+la tua vita nelle terre di Daresia.  Fanne buon uso !
+~
+90 28 0
+D5
+~
+~
+0 0 9024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9192
+La Donation~
+In questa stanza puoi trovare tutto l'equipaggiamento che ti serve per iniziare
+la tua vita nelle terre di Daresia.  Fanne buon uso !
+~
+90 28 0
+D5
+~
+~
+0 0 9026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9193
+La Donation~
+In questa stanza puoi trovare tutto l'equipaggiamento che ti serve per iniziare
+la tua vita nelle terre di Daresia.  Fanne buon uso !
+~
+90 28 0
+D5
+~
+~
+0 0 9028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9194
+La Donation~
+In questa stanza puoi trovare tutto l'equipaggimento che ti serve per iniziare
+la tua vita nelle terre di Daresia.  Fanne buon uso !
+~
+90 156 0
+D5
+~
+~
+0 0 9030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9195
+Magazzino Reale~
+In questo magazzino, Re Feanor custodisce i beni del Regno.
+Il magazzino e' enorme e diviso in enormi scaffali in legno.
+~
+90 2576 0
+D3
+~
+~
+0 0 9146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9196
+Gioia il Gioielliere~
+Questo e' il negozio di Gioia il famoso gioielliere di Cimmura. La sua merce e'
+molto prezziosa e raffinata.
+Qui arrivano prodotti artigianali da tutta la Deresia.
+~
+90 24 0
+D1
+~
+~
+0 0 9041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9197
+Da Buld il Costruttore~
+Questo piu' che un negozio sembra un enorme magazzino di travi, assi e pietre per
+costruire.
+~
+90 28 0
+D3
+Corso del Cavaliere
+~
+~
+0 0 9056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9198
+Ufficio della prigione~
+L'ufficio e' pieno scartoffie. Al centro della stanza c'e' una sedia e una
+scrivania. Sulle pareti vedi tutti i manifesti dei ricercati con una croce rossa
+sopra.
+~
+90 12 0
+D3
+~
+~
+0 0 9148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9199
+La caserma dell'esercito~
+Qui l'esercito di Tolnedra si esercita giorno e notte.
+~
+90 28 0
+D3
+~
+~
+0 0 9149 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

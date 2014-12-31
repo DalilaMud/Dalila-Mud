@@ -1,0 +1,988 @@
+#3500
+Le pianure~
+   Sei sulle pianure. Questo e' un enorme luogo desolato dove
+il vento ulula indisturbato e ti intralcia la strada. Comunque non sei il
+primo a passare per queste terre. Prima di te qualcuno ha percorso
+questo piccolo sentiero. E' faticoso procedere e questo non e' il tipo di
+sentiero che conduce a qualche posto significativo o importante ma
+porta alle lontane colline a nord. Una stretta pista conduce su verso
+un pendio.
+~
+35 0 1
+D2
+~
+~
+0 -1 3501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3501
+La stradina di campagna~
+   Stai camminando lungo una simpatica stradina ombrosa. La strada
+e' fiancheggiata su ambi i lati da alti alberi maestosi che danno alla
+scena un senso di quieta serenita'.
+Puoi proseguire per la strada a nord o a sud.
+~
+35 0 1
+D0
+~
+~
+0 -1 3500 0
+D2
+~
+~
+0 -1 3502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3502
+La stradina di campagna~
+   Gli alberi sono vicini e la alta, cespugliosa vegetazione non ti permette
+di vedere lontano salvo ad est, dove prosegue una larga strada, e ad ovest
+dove la stessa strada continua verso quella che sembra una citta' abbastanza
+grande. I deboli rumori dell'attivita' urbana ti raggiungono da una certa
+distanza: cani che abbaiano, pianti di bambini, e ambulanti che gridano.
+Un sentiero conduce giu' verso nord-est al Villaggio dei Nani, ed una
+piccola pista passa attraverso gli alberi e conduce verso le colline a nord.
+~
+35 0 1
+D0
+~
+~
+0 -1 3501 0
+D3
+~
+~
+0 -1 3503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3503
+L'entrata alla citta'~
+   Sei alla periferia di una grande citta' - Deira; la capitale di questa
+terra. La strada conduce ad est nel calmo e silenzioso - e pericoloso -
+bosco, ad ovest diventa la strada principale della citta', circondata da
+una confusione di negozi, bar e mercati.
+~
+35 4 1
+D1
+~
+~
+0 -1 3502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3504
+L'inizio del sentiero~
+   Qui,al confine tra le colline dell'Asturia e la catena dei monti
+Khalist,inizia un piccolo e polveroso sentiero che porta verso la macchia di
+Miden'Nir (che nella lingua dei Goblin vuol dire "Sangue Verde").  A sud c'e'
+aria fresca e fogliame.    
+~
+35 4 3
+D0
+~
+~
+0 0 1473449 0
+D2
+Se vai a sud, entri in Miden'Nir.
+~
+~
+0 -1 3505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3505
+La pista per Miden'Nir~
+   Sei in un bosco. Un percorso conduce a sud, ma il passaggio ad
+est e' piu' agevole. Ad ovest vedi del fumo sopra la cima degli alberi.
+Deira e' verso nord.
+~
+35 4 3
+D0
+A nord vedi il cancello meridionale di Deira.
+~
+~
+0 -1 3504 0
+D1
+Ancora il bosco.
+~
+~
+0 -1 3506 0
+D2
+Questo sentiero passa attraverso Miden'Nir.
+~
+~
+0 -1 3507 0
+D3
+Ad ovest vedi la locanda del Boscaiolo, sembra la fonte del fumo.
+~
+~
+0 -1 3570 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3506
+Miden'nir~
+   Sei in un buio bosco. Ad est, delle montagne bloccano il passaggio.
+Da qui, solo il bosco ad est o a sud offre un sentiero percorribile.
+~
+35 0 3
+D1
+Ad est vedi le montagne.
+~
+~
+0 -1 3550 0
+D2
+Il bosco e' piu' buio a sud.
+~
+~
+0 -1 3509 0
+D3
+Il bosco e' piu agevole ad ovest.
+~
+~
+0 -1 3505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3507
+Miden'nir~
+   Il bosco e' profondo qui ed il vento soffia attraverso gli alberi e fra
+i tuoi capelli. A nord il bosco e' piu' agevole. Comunque, i sentieri
+meridionale ed occidentale si inoltrano piu' profondamente nel bosco.
+~
+35 0 3
+D0
+Il bosco e' piu agevole in questa direzione.
+~
+~
+0 -1 3505 0
+D2
+Ancora il bosco.
+~
+~
+0 -1 3510 0
+D3
+C'e' un piccolo sentiero ad ovest.
+~
+~
+0 -1 3508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3508
+Su un piccolo sentiero~
+   Un percorso e' qui, porta ad est e a sud attraverso i boschi scuri di
+Miden'nir. Delle montagne si stagliano ad ovest.
+~
+35 0 3
+D1
+Il vento spazza il bosco.
+~
+~
+0 -1 3507 0
+D2
+A sud, la pista continua.
+~
+~
+0 -1 3511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3509
+Miden'nir~
+   Gli alberi di Miden'nir sono umidi e verdi, occultano i malvagi che si
+appostano in questi boschi. Gli alberi si infittiscono ad ovest, ma puoi
+andare a nord, sud o viaggiare verso le montagne ad est.
+~
+35 0 3
+D0
+Vedi alti alberi.
+~
+~
+0 -1 3506 0
+D1
+Montagne enormi grigie sono in questa direzione.
+~
+~
+0 -1 3512 0
+D2
+Il bosco continua.
+~
+~
+0 -1 3514 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3510
+Un incrocio~
+   Qui  si incrociano dei sentieri e portano verso nord, sud ed est.
+Gli alberi sembrano chiudersi sopra di te in questo punto, e puoi
+appena vedere il cielo attraverso gli spessi rami.
+~
+35 0 3
+D0
+Alberi.
+~
+~
+0 -1 3507 0
+D1
+C'e' una parte particolarmente scura del bosco in questa direzione.
+~
+~
+0 -1 3514 0
+D2
+C'e' una parte particolarmente scura del bosco in questa direzione.
+~
+~
+0 -1 3516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3511
+La pista~
+   Sei su una pista che va in direzione nord-sud attraverso i boschi. Ad
+ovest montagne impraticabili ti ammiccano, ed i fitti boschi e la vegetazione
+ti bloccano la strada ad occidente.
+~
+35 0 3
+D0
+La pista curva a nord.
+~
+~
+0 -1 3508 0
+D2
+A sud, il sentiero ritorna nel bosco.
+~
+~
+0 -1 3515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3512
+Miden'nir~
+   Gli alberi di Miden'nir sono umidi e verdi, occultano i malvagi che si
+appostano in questi boschi. Puoi andare a nord verso le montagne o ad ovest
+verso il bosco.
+~
+35 0 3
+D0
+A nord vedi le montagne.
+~
+~
+0 -1 3550 0
+D2
+Una parte del bosco.
+~
+~
+0 -1 3513 0
+D3
+Il bosco continua.
+~
+~
+0 -1 3509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3513
+Miden'nir~
+   La foresta e' scura, e diviene ancor piu' scura ad ovest. Senti
+che c'e' qualcosa di malvagio nascosto in questi boschi. Il bosco
+diviene piu' agevole a nord.
+~
+35 0 3
+D0
+C'e' una piccola radura a nord.
+~
+~
+0 -1 3512 0
+D3
+Diventa piu' scuro e piu' spesso da questa parte.
+~
+~
+0 -1 3514 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3514
+Nel bosco~
+   E' piuttosto buio qui, il bosco ti circonda. Ad ogni passo il bosco
+sembra chiudersi intorno a te, e' un cattivo presagio.
+Faresti meglio a tornare indietro verso qualche luogo piu' sicuro.
+~
+35 0 3
+D0
+Ancora il bosco.
+~
+~
+0 -1 3509 0
+D1
+Il bosco e le montagne in lontananza.
+~
+~
+0 -1 3513 0
+D2
+Ancora alberi.
+~
+~
+0 -1 3517 0
+D3
+Il bosco continua.
+~
+~
+0 -1 3510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3515
+Il bosco~
+   Il bosco e' illuminato qui e puoi scegliere in che direzione andare
+attraverso la pista. Ad est, il bosco si infittisce e diventa piu' scuro.
+A sud la pista continua.
+~
+35 0 3
+D0
+Una pista porta in direzione nord-sud.
+~
+~
+0 -1 3511 0
+D1
+Il bosco diventa piu' fitto ad est.
+~
+~
+0 -1 3516 0
+D2
+Ancora alberi e qualche piccola collina.
+~
+~
+0 -1 3518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3516
+Del terreno fangoso~
+   Il terreno e' fangoso qui e ci sono pozze dappertutto. I tuoi stivali
+fanno un disgustoso SQUISH. Puoi andare per tutte e quattro le direzioni.
+Sperando che siano piu' secchi.
+~
+35 0 3
+D0
+Miden'nir continua.
+~
+~
+0 -1 3510 0
+D1
+Ancora alberi.
+~
+~
+0 -1 3517 0
+D2
+Il bosco e' MOLTO fitto a sud. Vedi appena...
+~
+~
+0 -1 3519 0
+D3
+Alcuni alberi e la luce del giorno.
+~
+~
+0 -1 3515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3517
+Vicino alle montagne~
+   La caratteristica piu' evidente qui sono le montagne ad est. Puoi solo
+andare a nord e ad ovest da qui perche' le rocce bloccano le altre direzioni.
+~
+35 0 3
+D0
+Molti alberi a nord.
+~
+~
+0 -1 3514 0
+D3
+C'e' un pendio ad ovest.
+~
+~
+0 -1 3516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3518
+La pista sparisce~
+   La pista diviene quasi impercorribile qui. Puoi andare a nord
+dove il bosco e' relativamente fitto. A sud vedi un sentiero.
+~
+35 0 3
+D0
+Vedi una pista.
+~
+~
+0 -1 3515 0
+D1
+Gli alberi qui sono cosi' fitti che i tronchi quasi si toccano.
+~
+~
+0 -1 -1 0
+D2
+Il bosco buio.
+~
+~
+0 -1 3522 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3519
+Lo scuro sentiero~
+   Sei circondato dagli alberi. Il sentiero continua a nord e
+a sud, e benche' il bosco sia molto fitto da esplorare ad
+ovest, puoi entrarci abbastanza agevolmente.
+~
+35 0 3
+D0
+Il bosco e' meno fitto.
+~
+~
+0 -1 3516 0
+D1
+Il bosco continua.
+~
+~
+0 -1 3520 0
+D2
+C'e' un forte puzzo che proviene da questa direzione.
+~
+~
+0 -1 3521 0
+D3
+Gli alberi sono tronco a tronco.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3520
+Il bosco scuro~
+   Sei nel sottobosco. Il bosco scuro di Miden'nir e' abbastanza fitto
+qui, e gli alti rami sulla tua testa sono cosi' spessi che bloccano tutta
+la luce del sole. Mentre ad est e' troppo fitto per poter passare, a
+sud e ad ovest la strada e' accessibile.
+~
+35 0 3
+D2
+Il fitto bosco continua.
+~
+~
+0 -1 3523 0
+D3
+Il fitto bosco continua.
+~
+~
+0 -1 3519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3521
+La Strage~
+   Qui, c'e' una vista orrenda. Sangue dappertutto... sugli alberi e sul
+terreno fradicio. Due carcasse sono davanti a te, sembrano guardarti.
+Il bosco e' inaccessibile a sud, ma le altre direzioni sono ok.
+~
+35 1 3
+D0
+Oscurita'...
+~
+~
+0 -1 3519 0
+D1
+La tua luce non va cosi' lontano.
+~
+~
+0 -1 3523 0
+D3
+Ancora il buio bosco.
+~
+~
+0 -1 3522 0
+E
+cadaveri corpi carcasse cadavere corpo carcassa~
+I cadaveri hanno l'aspetto di essere stati trafitti da una grande
+lancia dentellata. Il danno sostenuto da queste persone ti stupisce
+semplicemente. La cosa peggiore e' che le labbra sono viola, un
+chiaro indice di avvelenamento.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3522
+In profondita' nel bosco di Miden'nir~
+   C'e' un puzzo nauseabondo qui. Odore di sangue e morte.
+A nord vedi di sfuggita la luce del sole. Ad est, semplicemente
+non vedi. Gli alberi sono vicini e soffocanti.
+~
+35 0 3
+D0
+Vedi la luce del sole ed una pista da seguire.
+~
+~
+0 -1 3518 0
+D1
+Il puzzo sembra provenire da questa direzione.
+~
+~
+0 -1 3521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3523
+Il bosco buio~
+   I rami sopra di te impediscono il passaggio della luce del sole diretta,
+rendendo il bosco in questa zona piuttosto scuro. Il bosco continua ad est,
+dove incontra le montagne. L'aria e' ancora soffocante - della puzza proviene
+da ovest e un brutto presentimento ti fa rizzare i peli sul collo!
+~
+35 0 3
+D0
+E' molto piu' buio in quella direzione.
+~
+~
+0 -1 3520 0
+D1
+Il bosco e' molto piu' buio in quella direzione.
+~
+~
+0 -1 3551 0
+D3
+Il cielo si schiarisce in questa direzione.
+~
+~
+0 -1 3521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3550
+Ai piedi delle montagne~
+   Ti trovi ai piedi delle montagne, ed e' molto ripido continuare a
+nord o ad est. Vedi l'umido bosco verde di Miden'nir a sud e ad ovest.
+~
+35 0 5
+D2
+Il bosco di Miden'nir si estende davanti a te.
+~
+~
+0 -1 3512 0
+D3
+Il bosco di Miden'nir si estende davanti a te.
+~
+~
+0 -1 3506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3551
+In profondita' nel bosco di Miden'nir~
+   I rami sopra di te impediscono il passaggio della luce del sole diretta,
+rendendo il bosco in questa zona piuttosto scuro. Il bosco continua ad
+ovest, e le montagne bloccano ulteriori esplorazioni in tutte le direzioni
+eccetto sud, dove noti un piccolo tunnel scavato nella montagna.
+~
+35 1 3
+D2
+Il tunnel porta nella montagna.
+~
+~
+0 -1 3552 0
+D3
+Il bosco continua.
+~
+~
+0 -1 3523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3552
+Un tunnel nelle montagne~
+   Le pareti di questo tunnel sono state scavate molti anni fa dai goblin
+di questo bosco. Il pavimento e' in buono stato, e continua a sud, nella
+montagna, o indietro a nord verso il bosco.
+~
+35 1 1
+D0
+Fuori, vedi il bosco di Miden'nir.
+~
+~
+0 -1 3551 0
+D2
+Il tunnel continua a sud.
+~
+~
+0 -1 3553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3553
+Un tunnel nelle montagne~
+   Il tunnel diviene piu' agevole a nord, probabilmente porta fuori, mentre
+a sud il passaggio diviene ancor piu' piccolo. Una piccola alcova e' stata
+ricavata nella parete ad est.
+~
+35 1 1
+D0
+Il tunnel si allarga in questa direzione.
+~
+~
+0 -1 3552 0
+D1
+Vedi una piccola alcova.
+~
+~
+0 -1 3554 0
+D2
+Il tunnel si restringe in questa direzione.
+~
+~
+0 -1 3555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3554
+Una piccola alcova~
+   Una piccola alcova e' stata ricavata qui. Ci sono un mucchio di ramoscelli
+e di foglie qui in terra, probabilmente servono da letto.
+~
+35 1 1
+D3
+Vedi il passaggio principale.
+~
+~
+0 -1 3553 0
+E
+mucchio foglie ramoscelli~
+I ramoscelli e le foglie sono stati ammucchiati per essere usati da letto
+per qualche piccolo umanoide.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3555
+Un tunnel nelle montagne~
+   Quando esplori piu' a fondo la montagna, ti accorgi che il tunnel diviene
+piu' piccolo a sud. Ti devi piegare per proseguire attraverso questa area. Un
+piccolo passaggio a volta porta a sud in una grande camera.
+~
+35 1 1
+D0
+Il tunnel continua a nord.
+~
+~
+0 -1 3553 0
+D2
+Vedi una piccola caverna.
+~
+~
+0 -1 3556 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3556
+Il quartier generale dei Goblin~
+   Il tunnel si allarga in una grande (beh, grande per i goblin) caverna che
+serve da quartier generale per i goblins di Miden'nir. Le ossa di numerose
+creature dei boschi sono sparse nella stanza, i resti di un pasto recente.
+~
+35 1 1
+D0
+Il tunnel porta a nord.
+~
+~
+0 -1 3555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3570
+Il davanti della locanda~
+   Sei su un sentiero ben tenuto che si apre in una radura. Un vecchio
+edificio di legno e' davanti a te e ondate di fumo si levano ad ondate
+dal camino. Una scritta dipinta e' visibile nel portico ad ovest. Puoi
+andare a nord o a sud intorno alll'edificio o lascia questo luogo e
+tornare nel bosco.
+~
+35 0 3
+D0
+Puoi andare a nord attorno alla locanda.
+~
+~
+0 -1 3571 0
+D1
+Indietro attraverso gli alberi a Miden'nir.
+~
+~
+0 -1 3505 0
+D2
+Puoi andare a sud attorno alla locanda.
+~
+~
+0 -1 3572 0
+D3
+La porta della locanda.
+~
+~
+0 -1 3574 0
+E
+scritta~
+La scritta dice:
+
+   Il Boscaiolo
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3571
+Nord della locanda~
+   Sei nella parte nord della Locanda. Le cose non sembrano molto diverse
+da questo angolo. L'aria e' piena di odori di fumo e di cibi cotti.
+A sud, il portico ti aspetta... o puoi vedere se c'e' una porta posteriore.
+~
+35 0 3
+D2
+Vedi il davanti della locanda.
+~
+~
+0 -1 3570 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3572
+Sud della locanda~
+   Sei nella parte sud della Locanda. Puoi andare facilmente a nord ed
+entrare attraverso la porta di fronte, o ad ovest nel retro dello stabile.
+Senti provenire dei pianti dalla piccola pista a sud.
+~
+35 0 3
+D0
+Questa direzione porta sul davanti della locanda.
+~
+~
+0 -1 3570 0
+D2
+La pista porta a sud.
+~
+~
+0 -1 3575 0
+D3
+Questa direzione porta nel retro della locanda.
+~
+~
+0 -1 3573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3573
+Dietro la locanda~
+   Ora sei nel retro della locanda. L'odore qui non e' molto piacevole perche'
+il padrone ed il suo aiuto gettano molta immondizia qui. Un paio di pile di
+rifiuti sono ad ovest, e da la' proviene l'odore peggiore. Come alternativa,
+puoi andare a nord o ad est intorno alla locanda.
+~
+35 4 3
+D1
+Puoi girare attorno alla locanda per questa direzione.
+~
+~
+0 -1 3572 0
+D3
+Solo ratti ed avventurieri sciocchi giocano con l'immondizia.
+~
+~
+0 -1 3578 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3574
+La locanda del Boscaiolo~
+   Sei nella stanza comune della locanda del Boscaiolo. Una sottile foschia
+di fumo permea l'aria. La Locanda e' spesso vuota da quando il bosco si e'
+riempito di goblins e questi posti non sono piu' sicuri.
+Il bar e' a nord  Se vuoi un tavolo, ce n'e' uno libero a sud.
+~
+35 12 1
+D0
+Il bar e' qui, dietro al banco c'e' il locandiere.
+~
+~
+0 -1 3576 0
+D1
+Puoi uscirtene ora e andare all'aria aperta.
+~
+~
+0 -1 3570 0
+D2
+Un tavolo vuoto e' una comodita' rara.
+~
+~
+0 -1 3579 0
+D3
+C'e' un tavolo occupato da un robusto bevitore.
+~
+~
+0 -1 3577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3575
+L'Imboscata~
+   Questa e' una pista a sud della locanda sulla quale e' cresciuta della
+vegetazione. Conduce ad ovest, ma e' dura da percorrere. Dei cespugli
+calpestati e dei rami di media grandezza sono sparsi per terra.
+Evidentemente c'e' stata una qualche battaglia recentemente.
+~
+35 0 3
+D0
+La locanda e' a nord.
+~
+~
+0 -1 3572 0
+D3
+Una pista attraversa il bosco.
+~
+~
+0 -1 3581 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3576
+Il bar~
+   Questo e' il posto dove la gente e' usa trarre diletto da cibo,
+vino e ospitalita' del locandiere, ma ultimamente, lui presta i suoi
+servigi solo ai pochi avventurieri che sopravvivono al viaggio attraverso
+il bosco. Puoi uscire a sud e tornare nella stanza comune.
+~
+35 8 1
+D2
+ Puoi uscire a sud e tornare nella stanza comune.
+~
+~
+0 -1 3574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3577
+Il tavolo del bardo~
+   Sei nell'angolo piu' buio della locanda. C'e' una grande tavola rotonda
+con delle sedie di legno. C'e' una grande macchia sulla tavola, i resti
+di un bicchiere rovesciato.
+~
+35 8 1
+D1
+Vedi la stanza principale ad est.
+~
+~
+0 -1 3574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3578
+La discarica dei rifiuti~
+   Sei piantato profondamente nell'immondizia. YECCH!!! Odori terribili e
+chissa' che parassiti vivono in queste pile di rifiuti...
+~
+35 0 3
+D1
+Puoi tornare in terre piu' pulite.
+~
+~
+0 -1 3573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3579
+Una quieta zona della locanda~
+Non sembra esserci nessuno in questa parte della locanda, probabilmente
+un luogo sicuro per riposare e leccarti le ferite.
+~
+35 8 0
+D0
+Vedi la stanza comune.
+~
+~
+0 -1 3574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3581
+Sulla pista dei cavalieri~
+   Il sentiero continua ad est e ad ovest di qui. Noti tracce fresche nel
+terreno molle che mostra cavalieri fuggiti ad ovest.
+~
+35 0 3
+D1
+Indietro all'imboscata.
+~
+~
+0 -1 3575 0
+D3
+La pista continua.
+~
+~
+0 -1 3582 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3582
+Sulla pista dei cavalieri~
+   Il sentiero continua ad est e a sud. Noti tracce fresche nel
+terreno molle che mostra cavalieri fuggiti a sud.
+~
+35 0 3
+D1
+La pista continua.
+~
+~
+0 -1 3581 0
+D2
+Le tracce portano a sud.
+~
+~
+0 -1 3583 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3583
+Sulla pista dei cavalieri~
+   Il sentiero continua ad est e a nord lungo questo sentiero attraverso
+il bosco. Le tracce sono ancora fresche, cosicche' i cavalieri devono
+essere ancora nelle vicinanze.
+~
+35 0 3
+D0
+La pista continua.
+~
+~
+0 -1 3582 0
+D3
+Le tracce portano ad est.
+~
+~
+0 -1 3584 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3584
+La fine della pista~
+   Il sentiero finisce improvvisamente qui, gli alberi si chiudono intorno a
+te e ti rendono impossibile esplorare piu' lontano. Tracce fresche ricoprono
+il terreno, e finiscono qui. I cavalieri devono essere vicini.
+~
+35 0 3
+D1
+Indietro lungo la pista.
+~
+~
+0 -1 3583 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,234 @@
+#19000
+Castello libero~
+Questa sala come l'intera torre e' stata costruita in uno spartano stile gotico.
+Questo salone circolare e' incredibilmente cupo ed oscuro, l'unica luce nella
+stanza e' data da delle finestre strette e lunghe che filtrano la chiara luce
+del sole emanando freddi bagliori violacei.~
+190 724 0
+D4
+~
+~
+0 -1 19007
+S
+#19001
+Sala degli Arcani~
+   Questa e' la sala delle riunioni del clan, qui vengono prese tutte le decisioni
+che riguardano il clan ed i suoi singoli membri.
+Al centro della stanza vi e' una grande tavola rotonda con 22 posti.
+Sulla parete c'e' un'incisione con le leggi del clan.
+~
+190 144 0
+D1
+~
+~
+0 -1 19008
+E
+incisione~
+                         ---LEGGE PRIMA---
+l'assassinio non e' ammesso nel clan Tenebra se non approvato dal consiglio.
+
+                        ---LEGGE SECONDA---
+Solo chi nel suo cuore porta la magia potra' salire i ranghi nel clan Tenebra.
+
+                         ---LEGGE TERZA---
+Nessun membro del clan dovra' reagire con la violenza ad una provocazione di altri clan,
+cio' dovra' essere subito riferito ad un Arcano.~
+S
+#19002
+Salone privato di Rusty~
+   Questa stanza e' sobriamente arredata da un'immensa scrivania di legno
+scuro dietro la quale si innalza un enorme scultura murale raffigurante
+un gruppo di dannati che si contorcono.
+~
+190 528 0
+D2
+~
+~
+0 -1 19009
+S
+#19003
+Salone del riposo~
+   Questo enorme salone e' stato riempito con dei letti per offrire a tutti i membri
+del clan un alloggio gratuito.
+~
+190 16 0
+D1
+~
+~
+0 -1 19007
+S
+#19004
+Biblioteca~
+   Questo enorme salone e' utilizzato dal clan per custodirvi tutto il
+sapere magico del clan.
+Enormi scaffali di libri sono allineati alle pareti, vi sono alcuni tavoli
+coperti interamente da polverosi libri.~
+190 144 0
+D3
+~
+~
+0 -1 19008
+S
+#19005
+Sala delle donazioni~
+   In questo luogo i membri del clan depositano il loro equipaggiamento
+in  surplus cosi da permetterne l'utilizzo da parte di altri.
+La stanza e' spartana e fredda, la tonalita' fredda del marmo troneggia
+in questa stanza.
+~
+190 4624 0
+D3
+~
+~
+0 -1 19007
+S
+#19006
+Giardino interno~
+   Un sontuoso giardino si estende nel cortile interno della torre,
+fantastici giochi d'acqua rendono questo posto incantevole tanto
+da farti sentire una fantastica sensazione di rilassamento.
+~
+190 16 0
+D2
+~
+~
+0 -1 19000
+S
+#19007
+Corridoio del secondo piano~
+   Questo lungo corridoio divide in due l'intero piano.
+Nel mezzo del corridoio si aprono due porte, la prima, porta al
+salone del riposo e l'altra alla sala delle donazioni.
+ ~
+190 16 0
+D1
+~
+~
+0 -1 19005
+D3
+~
+~
+0 -1 19003
+D4
+~
+~
+0 -1 19008
+D5
+~
+~
+0 -1 19000
+S
+#19008
+Corridoio del terzo piano~
+   Questo lungo corridoio divide in due l'intero piano.
+Nel mezzo del corridoio si aprono due porte, la prima porta alla
+Sala degli Arcani e l'altra alla Biblioteca.
+~
+190 16 0
+D1
+~
+~
+0 -1 19004
+D3
+~
+~
+0 -1 19001
+D4
+~
+~
+0 -1 19009
+D5
+~
+~
+0 -1 19007
+S
+#19009
+Attico~
+   Ti trovi all'ultimo piano della torre, davanti a te c'e' un enorme
+portale in ferro annerito con una targa sopra.
+~
+190 0 0
+D0
+~
+~
+0 -1 19002
+D5
+~
+~
+0 -1 19008
+S
+#19010
+L'apertura dimensionale.~
+Grazie al potere delle tenebre i potenti maghi del clan hanno potuto aprire
+un'apertura tra lo spazio ed il tempo per facilitare l'esplorazione di Dalila.
+Le superfici di questa stanza sembrano in costante cambiamento.
+da qui si possono raggiungere diverse zone di dalila ma attenzione alcune possono
+riservare mortali sorprese...
+~
+190 0 0
+D0
+~
+~
+0 0 19011
+D1
+Le torri di camelot
+~
+~
+0 0 19012
+D2
+~
+~
+0 0 19013
+D3
+~
+~
+0 0 19014
+D5
+~
+~
+0 0 19009
+S
+#19011
+Il villaggio dei nani. !!SOUND(portal1.wav L=2)~
+Questa stanza e' strana..sembra che il pavimento si muova
+sotto i tuoi piedi....
+~
+190 0 0
+D2
+~
+~
+0 0 19010
+S
+#19012
+Le torri di camelot.!!SOUND(recall.wav L=1)~
+Questa stanza e' strana..sembra che il pavimento si muova
+sotto i tuoi piedi....
+~
+190 0 0
+D3
+~
+~
+0 0 19010
+S
+#19013
+L'Inferno.....!!SOUND(laugh.wav L=3)~
+Senti un discreto calore entrando in questa stanza.....
+Ma dove sei finito????
+~
+190 0 0
+D0
+~
+~
+0 0 19010
+S
+#19014
+La citta' degli uomini lucertola.!!SOUND(portal1.wav L=2)~
+Il pavimento di questa stanza si muove ... si muove.....
+~
+190 0 0
+D1
+~
+~
+0 0 19010
+S
+$~

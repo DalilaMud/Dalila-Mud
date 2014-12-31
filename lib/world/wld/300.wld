@@ -1,0 +1,1996 @@
+#30000
+La stanza reale~
+E' la stanza piu' bella dell'intero villaggio, sia il pavimento che le pareti
+e il soffitto sono ricoperti con stupende stoffe nonche' tappeti. Re
+Kajashan e'  sdraiato su un ammasso di cuscini mentre fuma la sua pipa , due
+schiave gli fanno vento con degli enormi ventagli, e due guardie poderose
+vigilano sulla vita del re. A sud vedi un'anticamera.
+~
+300 8 1
+D2
+~
+~
+0 -1 30003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30001
+La sala del tesoro di re Kajashan~
+Quando pensi al un tesoro, non immagineresti mai una cosa del genere, tutto
+tranne che delle brutte maschere, dei bastoni inutili, pietre senza nessun
+valore e altre cianfrusaglie. A est c'e' la stanza da letto del re.
+~
+300 8 1
+D1
+~
+~
+0 -1 30002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30002
+La stanza da letto~
+Poco piu' lussuosa di quelle comuni, e' praticamente il luogo dove vive la
+regina Lemshei, ella come moglie del re non puo' avere una vita pubblica se
+non nelle cerimonie ufficiali, per il resto della sua vita' e' assistita da
+delle damigelle. A ovest intravedi quello che si direbbe una stanza dei
+tesori, mentre a est c'e' una pesante porta in legno.
+~
+300 8 1
+D1
+~
+porta pesante legno~
+2 30011 30003 15
+D3
+~
+~
+0 -1 30001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30003
+L'anticamera del palazzo reale~
+Ti trovi nel punto nevralgico del palazzo reale, anche qua ci sono delle
+guardie che controllano che non vi siano dei male intenzionati che si siano
+intrufolati all'interno. A ovest c'e' una grande porta in legno, a nord
+vedi la stanza reale, mentre a est c'e' l'alloggio delle guardie. Il
+corridoio continua a sud.
+~
+300 8 1
+D0
+~
+~
+0 -1 30000 0
+D1
+~
+~
+0 -1 30004 0
+D2
+~
+~
+0 -1 30015 0
+D3
+~
+porta pesante legno~
+2 30011 30002 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30004
+L'alloggio delle guardie~
+Qui le guardie vengono a riposarsi quando sono fuori servizio e a bere
+qualcosa di ristorante come la birra. A parte cio' il locale e' un casino
+unico vi sono armi e armature abbandonate da tutte le parti. Alcune guardie
+ubriache si stanno giocando la loro paga a dadi.
+~
+300 8 1
+D3
+~
+~
+0 -1 30003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30005
+L'armeria di Gashna~
+L'armeria e' un piccolo negozio, infondo anche l'armaiolo e' piccolo,
+cosparso di armi di vario genere.
+~
+300 8 0
+D1
+~
+~
+0 -1 30006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30006
+Piazza grande~
+Ti ritrovi nell'angolo nord-occidentale della piazza grande, nonostante il
+nome, essa non e' altro che uno grande sterrato. Qui vedi un sacco di gente
+che traffica, compra, vende, scambia, ecc.; praticamente sei nel cuore
+pulsante di Gashna. La piazza si estende verso sud-est, mentre a ovest
+intravedi un armeria.
+~
+300 0 1
+D1
+~
+~
+0 -1 30007 0
+D2
+~
+~
+0 -1 30018 0
+D3
+~
+~
+0 -1 30005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30007
+Piazza grande~
+Ti ritrovi nell'angolo nord-orientale della piazza grande, nonostante il
+nome, essa non e' altro che uno grande sterrato. Qui vedi un sacco di gente
+che traffica, compra, vende, scambia, ecc.; praticamente sei nel cuore
+pulsante di Gashna. La piazza continua verso sud-ovest, ad est c'e' la via
+che costeggia la palizzata che protegge il villaggio.
+~
+300 0 1
+D1
+~
+~
+0 -1 30008 0
+D2
+~
+~
+0 -1 30019 0
+D3
+~
+~
+0 -1 30006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30008
+La via della palizzata~
+Questa via e' la meno frequentata dagli abitanti, la maggior parte della
+gente che passa sono soldati che controllano che nessun nemico entri
+sfondando la palizzata. La via continua verso est, mentre a ovest sbuca in
+piazza grande.
+~
+300 0 1
+D1
+~
+~
+0 -1 30009 0
+D3
+~
+~
+0 -1 30007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30009
+La via della palizzata~
+Questa via e' la meno frequentata dagli abitanti, la maggior parte della
+gente che passa sono soldati che controllano che nessun nemico entri
+sfondando la palizzata. La via continua verso est e ovest. Vedi un buco a
+nord.
+~
+300 0 1
+D0
+~
+buco palizzata~
+1 -1 30075 3
+D1
+~
+~
+0 -1 30010 0
+D3
+~
+~
+0 -1 30008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30010
+La via della palizzata~
+Questa via e' la meno frequentata dagli abitanti, la maggior parte della
+gente che passa sono soldati che controllano che nessun nemico entri
+sfondando la palizzata. La via continua verso est e ovest.
+~
+300 0 1
+D1
+~
+~
+0 -1 30011 0
+D3
+~
+~
+0 -1 30009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30011
+L'inizio della via della palizzata~
+Questa via e' la meno frequentata dagli abitanti, la maggior parte della
+gente che passa sono soldati che controllano che nessun nemico entri
+sfondando la palizzata. La via continua verso ovest, in lontananza a sud
+vedi l'incrocio di Gashna
+~
+300 0 1
+D2
+~
+~
+0 -1 30023 0
+D3
+~
+~
+0 -1 30010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30012
+Una capanna popolare~
+L'abitazione assomiglia in tutto per tutto ad una capanna, la costruzione
+circolare ha le pareti in legno e il tetto in paglia, mentre il terreno fa
+da pavimento. L'interno e' praticamente privo di mobilio se non per qualche
+telo steso per terra e qualche borsa appesa alla parete. L'uscita e' a est.
+~
+300 8 0
+D1
+~
+~
+0 -1 30013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30013
+La fine del quartiere residenziale~
+La strada finisce improvvisamente contro la palizzata del villaggio,
+intravedi una capanna popolare a ovest, mentre a est c'e' la casa piu'
+grande del quartiere.
+~
+300 0 1
+D1
+~
+~
+0 -1 30014 0
+D2
+~
+~
+0 -1 30025 0
+D3
+~
+~
+0 -1 30012 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30014
+Una grande casa~
+Al contrario delle capanne, questa casa e' costruita in pietra, ha il tetto
+in legno e il pavimento piastrellato, la costruzione non sembra tipica del 
+villaggio, anche l'arredamento e fuori dal comune: sedie, tavoli e specchi.
+A ovest c'e' l'uscita mentre a est c'e' un'altra stanza. 
+~
+300 8 0
+D1
+~
+~
+0 -1 30072 0
+D3
+~
+~
+0 -1 30013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30015
+La curva nel corridoio~
+Il corridoio curva bruscamente verso nord, e finisce poco piu' avanti in
+una specie di anticamera. Ad est invece c'e' l'entrata del palazzo.
+~
+300 8 1
+D0
+~
+~
+0 -1 30003 0
+D1
+~
+~
+0 -1 30016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30016
+L'entrata del palazzo~
+Ti trovi all'entrata del palazzo di re Kajashan, e' la costruzione piu'
+imponente dell'intero villaggio, vi sono guardie dappertutto. A ovest vedi
+un corridoio mentre a est c'e' un grosso cancello in legno.
+~
+300 8 1
+D1
+~
+cancello legno~
+1 -1 30017 3
+D3
+~
+~
+0 -1 30015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30017
+Davanti al palazzo reale~
+Sei davanti al cancello che da accesso al palazzo di re Kajashan, due
+guardie sorvegliano l'entrata. A est vedi piazza grande.
+~
+300 0 1
+D1
+~
+~
+0 -1 30018 0
+D3
+~
+cancello legno~
+1 -1 30016 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30018
+Piazza grande~
+Ti ritrovi nell'area occidentale della piazza grande, nonostante il nome,
+essa non e' altro che uno grande sterrato. Qui vedi un sacco di gente che
+traffica, compra, vende, scambia, ecc.; praticamente sei nel cuore pulsante
+di Gashna. La piazza continua verso nord-sud-est, a ovest invece scorgi un
+enorme palazzo.
+~
+300 0 1
+D0
+~
+~
+0 -1 30006 0
+D1
+~
+~
+0 -1 30019 0
+D2
+~
+~
+0 -1 30029 0
+D3
+~
+~
+0 -1 30017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30019
+Piazza grande~
+Ti ritrovi nell'area orientale della piazza grande, nonostante il nome,
+essa non e' altro che uno grande sterrato. Qui vedi un sacco di gente che
+traffica, compra, vende, scambia, ecc.; praticamente sei nel cuore pulsante
+di Gashna. La piazza continua verso nord-sud-ovest, a est c'e' un negozio
+di armature.
+~
+300 0 1
+D0
+~
+~
+0 -1 30007 0
+D1
+~
+~
+0 -1 30020 0
+D2
+~
+~
+0 -1 30030 0
+D3
+~
+~
+0 -1 30018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30020
+Il negozio delle armature~
+Piu' che un negozio sembra una bottega, il negoziante appare indaffarato a
+tagliare e cucire pezzi di cuoio. Quando ti guardi intorno ti accorgi che
+armature in metallo praticamente non ne esistono qua dentro.
+~
+300 8 0
+D3
+~
+~
+0 -1 30019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30021
+Un negozio di commestibili~
+Quando entri ti viene quasi da vomitare dall'odore nauseabondo che c'e', ti
+chiedi se veramente e' un negozio di commestibili. Appesi o sistemati
+dentro a dei barattoli ci sono vari pezzi di animai.
+~
+300 8 0
+D2
+~
+~
+0 -1 30032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30022
+Il negozio degli utensili~
+Qui c'e' tutto quello che ti puo' servire per il tuo tempo libero, ammesso
+che tu ne abbia di tempo libero. Il negoziante al momento e' indaffarato a
+sistemare gli ultimi prodotti arrivati.
+~
+300 8 0
+D1
+~
+~
+0 -1 30023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30023
+Una strada sterrata~
+Stai percorrendo una delle tante strade sterrate di Gashna, a nord vedi la
+via della palizzata, a sud l'incrocio, mentre a est c'e' un negozio di
+bevande e a ovest un negozio di utensili.
+~
+300 0 1
+D0
+~
+~
+0 -1 30011 0
+D1
+~
+~
+0 -1 30024 0
+D2
+~
+~
+0 -1 30034 0
+D3
+~
+~
+0 -1 30022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30024
+Un negozio di bevande~
+Questo negozio e' il piu' strano che tu abbia mai visto, assomiglia di
+piu' ad un laboratorio di un mago, vedi strani contenitori in vetro con
+vari liquidi colorati che vi scorrono dentro. A ovest c'e' l'uscita.
+~
+300 8 0
+D3
+~
+~
+0 -1 30023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30025
+Il quartiere residenziale~
+Stai attraversando il quartiere residenziale di Gashna, qui vedi tanti
+bambini giocare, mentre gli adulti sono indaffarati ad andare su e giu'. La
+via residenziale continua verso nord e sud, a est vedi una capanna.
+~
+300 0 1
+D0
+~
+~
+0 -1 30013 0
+D1
+~
+~
+0 -1 30026 0
+D2
+~
+~
+0 -1 30036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30026
+Una capanna popolare~
+L'abitazione assomiglia in tutto per tutto ad una capanna, la costruzione
+circolare ha le pareti in legno e il tetto in paglia, mentre il terreno fa
+da pavimento. L'interno e' praticamente privo di mobilio se non per qualche
+telo steso per terra e qualche borsa appesa alla parete. L'uscita e' a
+ovest.
+~
+300 8 0
+D3
+~
+~
+0 -1 30025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30027
+Una cella sotterranea~
+La piccola stanza sembra una sala di torture, le pareti sono macchiate di
+sangue e il suolo e cosparso di una qualcosa di indescrivibile. Guardando
+piu' attentamente ti accorgi che cio' che hai davanti e' una gabbia per
+esperimenti, anzi di incubi. C'e' una porta a sud.
+~
+300 73 0
+D2
+~
+porta~
+1 0 30040 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30028
+Una cella sotterranea~
+La piccola stanza sembra una sala di torture, le pareti sono macchiate di
+sangue e il suolo e cosparso di una qualcosa di indescrivibile. Guardando
+piu' attentamente ti accorgi che cio' che hai davanti e' una gabbia per
+esperimenti, anzi di incubi. C'e' una porta a sud.
+~
+300 73 0
+D2
+~
+porta~
+1 0 30042 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30029
+Piazza grande~
+Ti ritrovi nell'angolo sud-occidentale della piazza grande, nonostante il
+nome, essa non e' altro che uno grande sterrato. Qui vedi un sacco di gente
+che traffica, compra, vende, scambia, ecc.; praticamente sei nel cuore
+pulsante di Gashna. La piazza si estende verso nord-est.
+~
+300 0 1
+D0
+~
+~
+0 -1 30018 0
+D1
+~
+~
+0 -1 30030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30030
+Piazza grande~
+Ti ritrovi nell'angolo sud-orientale della piazza grande, nonostante il
+nome, essa non e' altro che uno grande sterrato. Qui vedi un sacco di gente
+che traffica, compra, vende, scambia, ecc.; praticamente sei nel cuore
+pulsante di Gashna. A est c'e' l'imbocco della via principale.
+~
+300 0 1
+D0
+~
+~
+0 -1 30019 0
+D1
+~
+~
+0 -1 30031 0
+D3
+~
+~
+0 -1 30029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30031
+La strada principale di Gashna~
+La strada sterrata attraversa il centro della citta', questa e' la via piu'
+trafficata dell'intero villaggio, essa continua verso est, mentre verso
+ovest sbuca nella piazza grande.
+~
+300 0 1
+D1
+~
+~
+0 -1 30032 0
+D3
+~
+~
+0 -1 30030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30032
+La strada principale di Gashna~
+La strada sterrata attraversa il centro della citta', questa e' la via piu'
+trafficata dell'intero villaggio, essa continua verso est e ovest. A nord
+vedi un  negozio di commestibili mentre a sud vedi il negozio dello
+stregone.
+~
+300 0 1
+D0
+~
+~
+0 -1 30021 0
+D1
+~
+~
+0 -1 30033 0
+D2
+~
+~
+0 -1 30045 0
+D3
+~
+~
+0 -1 30031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30033
+La strada principale di Gashna~
+La strada sterrata attraversa il centro della citta', questa e' la via piu'
+trafficata dell'intero villaggio, essa continua verso est e ovest.
+~
+300 0 1
+D1
+~
+~
+0 -1 30034 0
+D3
+~
+~
+0 -1 30032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30034
+L'incrocio di Gashna~
+Questo e' il punto cardine di Gashna, a sud c'e' l'entrata al villaggio, a
+est i quartieri residenziali, mentre verso nord-ovest si apre il centro
+della citta'.
+~
+300 0 1
+D0
+~
+~
+0 -1 30023 0
+D1
+~
+~
+0 -1 30035 0
+D2
+~
+~
+0 -1 30047 0
+D3
+~
+~
+0 -1 30033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30035
+Una strada sterrata~
+Questa e' la strada che porta al quartiere residenziale di Gashna, scorgi
+in lontananza alcune case circolari fatte di legna con il tetto in paglia,
+verso ovest c'e' invece l'incrocio.
+~
+300 0 1
+D1
+~
+~
+0 -1 30036 0
+D3
+~
+~
+0 -1 30034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30036
+Il quartiere residenziale~
+Sei all'inizio del quartiere residenziale di Gashna, il quartiere si
+estende verso nord-est, verso ovest intravedi l'incrocio, punto cardine di
+Gashna, mentre a sud c'e' l'entrata di una casa popolare.
+~
+300 0 1
+D0
+~
+~
+0 -1 30025 0
+D1
+~
+~
+0 -1 30037 0
+D2
+~
+~
+0 -1 30049 0
+D3
+~
+~
+0 -1 30035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30037
+Una piccola piazza~
+Ti ritrovi in una piccola piazza nel centro del quartiere residenziale di
+Gashna, in mezzo allo spiazzo sterrato c'e' un piccolo pozzo arrugginito che
+ormai deve essere in disuso. A est e a sud ci sono due case popolari,
+mentre la strada a ovest conduce verso il centro della citta'.
+~
+300 0 1
+D1
+~
+~
+0 -1 30038 0
+D2
+~
+~
+0 -1 30050 0
+D3
+~
+~
+0 -1 30036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30038
+Una casa popolare~
+La casa e' mediamente grossa, si vede che ci abita qualche benestante,
+nonostante cio' lo stile di costruzione e' simile alle altre case. Ti
+ritrovi in una stanza quasi circolare scarsamente ammobiliata, le pareti
+sono in legno mentre il soffitto e' in paglia. A sud c'e' un'altra stanza
+mentre a ovest c'e' una piccola piazza.
+~
+300 8 0
+D2
+~
+porta~
+1 -1 30074 3
+D3
+~
+~
+0 -1 30037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30039
+Una cella sotterranea~
+La piccola stanza sembra una sala di torture, le pareti sono macchiate di
+sangue e il suolo e cosparso di una qualcosa di indescrivibile. Guardando
+piu' attentamente ti accorgi che cio' che hai davanti e' una gabbia per
+esperimenti, anzi di incubi. C'e' una porta a est.
+~
+300 73 0
+D1
+~
+porta~
+1 0 30040 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30040
+La fine del tunnel sottoterra~
+Il tunnel scavato nella roccia finisce improvvisamente, qui l'aria e' ancora
+piu' umida e' puzzolente, anche il suolo e' diventato viscido e scivoloso.
+Vedi una luce provenire da est, mentre a nord e ovest ci sono due porte
+abbastanza rovinate, come se qualcuno avesse cercato di sfondarle
+dall'interno con una violenza disumana.
+~
+300 73 0
+D0
+~
+porta~
+1 0 30027 7
+D1
+~
+~
+0 -1 30041 0
+D3
+~
+porta~
+1 0 30039 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30041
+Il tunnel sottoterra~
+Il tunnel e' buoi e l'area maleodorante, dal soffitto cadono in continuazione
+gocce d'acqua, mentre il suolo si fa sempre piu' appiccicaticcio. Vedi
+provenire da una tenue luce da est, mentre a ovest il tunnel si fa piu'
+cupo. A sud c'e una porta abbastanza rovinata.
+~
+300 73 0
+D1
+~
+~
+0 -1 30042 0
+D2
+~
+porta~
+1 0 30051 7
+D3
+~
+~
+0 -1 30040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30042
+Il tunnel sottoterra~
+Il tunnel diventa sempre piu' scuro, mentre si va diffondendo uno strano
+odore ancora poco percettibile, il suolo sabbioso e' leggermente umido. A
+est vedi una luce provenire dall'alto mentre a ovest il tunnel sprofonda
+nelle tenebre. C'e' una porta a nord.
+~
+300 73 0
+D0
+~
+porta~
+1 0 30028 7
+D1
+~
+~
+0 -1 30043 0
+D3
+~
+~
+0 -1 30041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30043
+L'inizio del tunnel~
+Ti trovi all'inizio di un tunnel nel sottosuolo, sembra che sia stato
+scavato nella roccia in maniera primitiva. Il fondo sabbioso rende pero'
+confortevole il proseguire. Il tunnel avanza verso ovest mentre una scala
+in legno ricoperta di muffa conduce verso l'alto ad una botola.
+~
+300 73 0
+D3
+~
+~
+0 -1 30042 0
+D4
+~
+botola~
+2 30010 30044 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30044
+Il laboratorio di Alashaka lo stregone~
+Dire che la stanza e' incasinata e' dir poco. Sparsi per tutta la camera vi
+sono barattoli con dentro svariati animali morti o anche solo parti di
+animali dei quali non riesci a decifrarne la provenienza, carte stroppiciate,
+scarabocchiate e macchiate nonche' gli oggetti piu' disparati da una specie
+di tubo con tante lenti a maschere stranissime. Verso ovest c'e' il negozio
+della magia del villaggio, mentre guardando in basso scorgi una botola dall'aria
+sospetta.
+~
+300 8 0
+D1
+~
+~
+0 -1 30045 0
+D5
+~
+botola~
+2 30010 30043 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30045
+La bottega di Alashaka lo stregone~
+Il negozio assomiglia ai tanti altri che hai visto nella tua vita se non
+fosse  per l'aspetto primordiale dell'arredamento e dei prodotti esposti.
+L'uscita e' a nord e da direttamente sulla strada sterrata del villaggio. A
+ovest c'e' la porta che conduce al laboratorio di Alashaka.
+~
+300 8 0
+D0
+~
+~
+0 -1 30032 0
+D3
+~
+~
+0 -1 30044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30046
+L'ufficio di Daloshan~
+Ti ricorda un museo, ove sono appese ovunque decine di medaglie e trofei,
+nonche' quadri del vecchio capitano Reijshem e del nuovo Daloshan, durante le
+battaglie e subito dopo....  A est c'e' l'uscita.    
+~
+300 8 0
+D1
+~
+porta~
+1 -1 30047 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30047
+Una strada sterrata~
+Sei all'entrata di Gashna, a ovest vedi l'ufficio di Reijshem, il capo
+delle guardie, a est vedi un locale di guardia, dove controllano in modo
+puntiglioso  ogni passante, a nord c'e' l'incrocio a sud l'imponente
+portone d'entrata.
+~
+300 0 1
+D0
+~
+~
+0 -1 30034 0
+D1
+~
+~
+0 -1 30048 0
+D2
+~
+~
+0 -1 30054 0
+D3
+~
+porta~
+1 -1 30046 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30048
+Un locale di guardia~
+La stanza e' molto sobria, l'unica funzione che ha e' di controllare i
+documenti e il carico dei visitatori sospetti che entrano in citta'.
+L'uscita e' a ovest.
+~
+300 8 0
+D3
+~
+~
+0 -1 30047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30049
+Una capanna popolare~
+L'abitazione assomiglia in tutto per tutto ad una capanna, la costruzione
+circolare ha le pareti in legno e il tetto in paglia, mentre il terreno fa
+da pavimento. L'interno e' praticamente privo di mobilio se non per qualche
+telo steso per terra e qualche borsa appesa alla parete. L'uscita e' a
+nord.
+~
+300 8 0
+D0
+~
+~
+0 -1 30036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30050
+Una capanna popolare~
+L'abitazione assomiglia in tutto per tutto ad una capanna, la costruzione
+circolare ha le pareti in legno e il tetto in paglia, mentre il terreno fa
+da pavimento. L'interno e' praticamente privo di mobilio se non per qualche
+telo steso per terra e qualche borsa appesa alla parete. L'uscita e' a
+nord.
+~
+300 8 0
+D0
+~
+~
+0 -1 30037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30051
+Una cella sotterranea~
+La piccola stanza sembra una sala di torture, le pareti sono macchiate di
+sangue e il suolo e cosparso di una qualcosa di indescrivibile. Guardando
+piu' attentamente ti accorgi che cio' che hai davanti e' una gabbia per
+esperimenti, anzi di incubi. C'e' una porta a nord.
+~
+300 73 0
+D0
+~
+porta~
+1 0 30041 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30052
+La torretta di osservazione~
+Sei in cima alla torretta di osservazione occidentale, di qui puoi vedere
+l'intero villaggio di Gashna, in lontananza verso nord-ovest vedi una grande
+piazza con un enorme edificio vicino. Sotto di te c'e' il portone
+d'entrata. C'e' una scala in legno che porta in basso.
+~
+300 8 0
+D5
+~
+~
+0 -1 30053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30053
+Dentro la torretta di osservazione~
+Ti trovi dentro la torretta di osservazione occidentale, qui ci sono un
+paio di guardie che stanno riposandosi. Vedi una scala che porta verso
+l'alto ed un'uscita a est.
+~
+300 8 0
+D1
+~
+~
+0 -1 30054 0
+D4
+~
+~
+0 -1 30052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30054
+Il portone d'entrata~
+Una massiccia porta di legno completa perfettamente il recinto intorno a
+Gashna, hai due lati del portone ci sono due alte torri d'osservazione. La
+strada per il villaggio continua verso nord, a sud c'e' il portone
+d'entrata.
+~
+300 0 1
+D0
+~
+~
+0 -1 30047 0
+D1
+~
+~
+0 -1 30055 0
+D2
+~
+portone entrata~
+1 -1 30057 3
+D3
+~
+~
+0 -1 30053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30055
+Dentro la torretta di osservazione~
+Ti trovi dentro la torretta di osservazione orientale, qui ci sono un paio
+di guardie che stanno riposandosi. Vedi una scala che porta verso l'alto ed
+un'uscita a ovest.
+~
+300 8 0
+D3
+~
+~
+0 -1 30054 0
+D4
+~
+~
+0 -1 30056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30056
+La torretta di osservazione~
+Sei in cima alla torretta di osservazione orientale, di qui puoi vedere
+l'intero villaggio di Gashna, in lontananza verso nord-ovest vedi una grande
+piazza con un enorme edificio vicino. Sotto di te c'e' il portone
+d'entrata. C'e' una scala in legno che porta in basso.
+~
+300 8 0
+D5
+~
+~
+0 -1 30055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30057
+Davanti a Gashna~
+Ti trovi davanti al portone d'entrata di Gashna la citta' degli uomini
+lucertola, due enormi torri fiancheggiano il portone, sara' meglio non fare
+troppo i furbi. Il sentiero continua verso ovest.
+~
+300 12 1
+D0
+~
+portone entrata~
+1 -1 30054 3
+D2
+~
+~
+0 0 1423438 0
+D3
+~
+~
+0 -1 30058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30058
+Un sentiero nella stretta valle~
+Stai seguendo un piccolo sentiero poco marcato in una piccola valle, la
+vegetazione e' molto rigogliosa. Il sentiero continua a est e ovest.
+~
+300 0 2
+D1
+~
+~
+0 -1 30057 0
+D3
+~
+~
+0 -1 30059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30059
+Un sentiero nella stretta valle~
+Stai seguendo un piccolo sentiero poco marcato in una piccola valle, la
+vegetazione e' molto rigogliosa. Il sentiero continua a nord e ovest.
+~
+300 0 2
+D0
+~
+~
+0 -1 30060 0
+D1
+~
+~
+0 -1 30058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30060
+Un sentiero nella stretta valle~
+Stai seguendo un piccolo sentiero poco marcato in una piccola valle, la
+vegetazione e' molto rigogliosa. Il sentiero continua a sud, a ovest
+incomincia a salire verso le montagne.
+~
+300 0 2
+D2
+~
+~
+0 -1 30059 0
+D4
+~
+~
+0 -1 30061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30061
+Un sentiero in collina~
+Stai seguendo un piccolo sentiero poco marcato in una piccola valle, la
+vegetazione e' molto rigogliosa. Il sentiero continua verso est in basso e
+a nord.
+~
+300 0 4
+D0
+~
+~
+0 -1 30062 0
+D5
+~
+~
+0 -1 30060 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30062
+Un sentiero in collina~
+Stai seguendo un piccolo sentiero poco marcato in una piccola valle, la
+vegetazione e' molto rigogliosa. Il sentiero continua verso ovest in cima
+alle montagne e verso sud.
+~
+300 0 4
+D2
+~
+~
+0 -1 30061 0
+D4
+~
+~
+0 -1 30063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30063
+Scalando la montagna~
+Sei su un irto sentiero che si arrampica sul lato orientale di una
+montagna, la cui cima e' ricoperta di neve. Il sentiero continua verso
+ovest sulla vetta e verso est in basso nella valle.
+~
+300 0 5
+D4
+~
+~
+0 -1 30064 0
+D5
+~
+~
+0 -1 30062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30064
+In cima alla vetta~
+Stai camminando in mezzo alla neve, il vento gelido ti ghiaccia la faccia,
+nonostante cio' il panorama e' stupendo, verso oriente intravedi una
+piccola valle ricoperta da una folta vegetazione, ti sembra di scorgere
+anche un villaggio. Il sentiero prosegue verso ovest e scende verso est.
+~
+300 0 5
+D3
+~
+~
+0 -1 30065 0
+D5
+~
+~
+0 -1 30063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30065
+In cima alla vetta~
+Stai camminando in mezzo alla neve, il vento gelido ti ghiaccia la faccia,
+nonostante cio' il panorama e' stupendo. Il sentiero continua verso nord e
+est.
+~
+300 0 5
+D0
+~
+~
+0 -1 30066 0
+D1
+~
+~
+0 -1 30064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30066
+In cima alla vetta~
+Stai camminando in mezzo alla neve, il vento gelido ti ghiaccia la faccia,
+nonostante cio' il panorama e' stupendo. Il sentiero continua verso sud e
+scende verso ovest.
+~
+300 0 5
+D0
+~
+blocco neve~
+1 -1 30090 3
+D2
+~
+~
+0 -1 30065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30067
+Scalando la montagna~
+Sei su un irto sentiero che si arrampica sul lato occidentale di una
+montagna, la cui cima e' ricoperta di neve. Il sentiero continua verso est
+sulla vetta e verso ovest in basso.
+~
+300 0 5
+D4
+~
+~
+0 -1 30066 0
+D5
+~
+~
+0 -1 30068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30068
+Una rada collina~
+Stai seguendo un sentiero poco marcato su di una collina con una
+vegetazione a dir poco patetica. Il sentiero continua verso est su di una
+montagna e verso ovest.
+~
+300 0 4
+D3
+~
+~
+0 -1 30069 0
+D4
+~
+~
+0 -1 30067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30069
+Una rada collina~
+Stai seguendo un sentiero poco marcato su di una collina con una
+vegetazione a dir poco patetica. Il sentiero continua verso est e in basso
+verso ovest.
+~
+300 0 4
+D1
+~
+~
+0 -1 30068 0
+D5
+~
+~
+0 -1 30070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30070
+Un sentiero~
+La strada principale si restringe sempre di piu' fino a diventare un
+sentiero poco battuto. Il sentiero continua verso est in alto e verso
+ovest.
+~
+300 0 1
+D3
+~
+~
+0 -1 30071 0
+D4
+~
+~
+0 -1 30069 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30071
+La strada~
+Hai abbandonato la strada principale e stai seguendo una strada secondaria
+che col passare del tempo si restringe sempre di piu'. Essa continua verso
+est e ovest.
+~
+300 0 1
+D1
+~
+~
+0 -1 30070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30072
+Una stanza~
+Anche questa stanza non rassomigli per niente alle costruzioni tipiche di
+questo villaggio, c'e' un enorme tavolo che riempie la stanza. Vedi un'altra
+stanza a ovest e una porta a sud.
+~
+300 8 0
+D2
+~
+porta~
+1 -1 30073 3
+D3
+~
+~
+0 -1 30014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30073
+Un piccolo ripostiglio~
+Oltre al fatto che' e' microscopico e ripieno di cianfrusaglie non c'e'
+niente da dire. La porta d'uscita e' a nord.
+~
+300 8 0
+D0
+~
+porta~
+1 -1 30072 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30074
+Un piccolo vano~
+Ti trovi in una stanza piu' piccola che sembra usata come camera da letto,
+vi sono un paio di cuscini e tappeti per terra, per il resto e'
+completamente spoglia. L'uscita e' a nord.
+~
+300 8 0
+D0
+~
+porta~
+1 -1 30038 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30075
+Una foresta molto fitta~
+La foresta e' cosi' fitta che la luce del sole non riesce a passare,
+malgrado cio' la vegetazione e' rigogliosa. Senti versi strani provenire da
+tutte le parti, e hai come l'impressione che centinaia di occhi ti stiano
+guardando. Vedi un buco in una palizzata a sud.
+~
+300 65 3
+D0
+~
+~
+0 -1 30075 0
+D1
+~
+~
+0 -1 30076 0
+D2
+~
+buco palizzata~
+1 -1 30009 3
+D3
+~
+~
+0 -1 30075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30076
+Una foresta molto fitta~
+La foresta e' cosi' fitta che la luce del sole non riesce a passare,
+malgrado cio' la vegetazione e' rigogliosa. Senti versi strani provenire da
+tutte le parti, e hai come l'impressione che centinaia di occhi ti stiano
+guardando.
+~
+300 65 3
+D0
+~
+~
+0 -1 30077 0
+D1
+~
+~
+0 -1 30076 0
+D2
+~
+~
+0 -1 30076 0
+D3
+~
+~
+0 -1 30075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30077
+Una foresta molto fitta~
+La foresta e' cosi' fitta che la luce del sole non riesce a passare,
+malgrado cio' la vegetazione e' rigogliosa. Senti versi strani provenire da
+tutte le parti, e hai come l'impressione che centinaia di occhi ti stiano
+guardando.
+~
+300 65 3
+D0
+~
+~
+0 -1 30077 0
+D1
+~
+~
+0 -1 30077 0
+D2
+~
+~
+0 -1 30076 0
+D3
+~
+~
+0 -1 30078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30078
+Una foresta molto fitta~
+La foresta e' cosi' fitta che la luce del sole non riesce a passare,
+malgrado cio' la vegetazione e' rigogliosa. Senti versi strani provenire da
+tutte le parti, e hai come l'impressione che centinaia di occhi ti stiano
+guardando. Vedi la sponda di un laghetto a nord.
+~
+300 65 3
+D0
+~
+~
+0 -1 30079 0
+D1
+~
+~
+0 -1 30077 0
+D2
+~
+~
+0 -1 30078 0
+D3
+~
+~
+0 -1 30078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30079
+La sponda del lago~
+La foresta arriva fino alle sponde del lago e vi ci protende sopra, l'acqua
+riflette il verde della foresta e piu' che un lago ti sembra un'enorme
+lastra di marmo verde. In mezzo al lago c'e' una piccolissima isola. A sud
+c'e' la foresta. 
+~
+300 65 3
+D0
+~
+~
+0 -1 30080 0
+D1
+~
+~
+0 -1 30079 0
+D2
+~
+~
+0 -1 30078 0
+D3
+~
+~
+0 -1 30079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30080
+In mezzo al lago~
+Il lago e' molto calmo, ma il riflesso verde della foresta sulla superficie
+ti impedisce di vederci attraverso. Vedi un isolotto a nord-ovest, mentre
+a sud c'e' un attracco sicuro sulla sponda.
+~
+300 0 7
+D0
+~
+~
+0 -1 30080 0
+D1
+~
+~
+0 -1 30080 0
+D2
+~
+~
+0 -1 30079 0
+D3
+~
+~
+0 -1 30081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30081
+In mezzo al lago~
+Il lago e' molto calmo, ma il riflesso verde della foresta sulla superficie
+ti impedisce di vederci attraverso. Vedi un isolotto a nord. Qui l'acqua
+e' piu' limpida e riesci a scorge qualcosa di scuro sul fondo.
+~
+300 0 7
+D0
+~
+~
+0 -1 30082 0
+D1
+~
+~
+0 -1 30080 0
+D2
+~
+~
+0 -1 30081 0
+D3
+~
+~
+0 -1 30081 0
+D5
+~
+~
+0 -1 30084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30082
+Sull'isolotto~
+Sei sulla sponda dell'isolotto, e' ancora piu' piccolo di quello che
+credevi, ci sono solo un paio di alberi e una piccola caverna a ovest. A
+sud c'e' il lago.
+~
+300 0 2
+D2
+~
+~
+0 -1 30081 0
+D3
+~
+~
+0 -1 30083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30083
+Nella piccola grotta~
+La grotta e' veramente minuscola, infondo ad essa vedi una statua di
+qualcosa che sembra una Dea-lucertola. Devi essere capitato in una specie
+di tempio primordiale degli uomini-lucertola. Vedi un'uscita a est.
+~
+300 9 0
+D1
+~
+~
+0 -1 30082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30084
+Sott'acqua nel lago~
+Stai nuotando appena sotto la superficie, l'acqua e' notevolmente limpida,
+ma non riesci a scorgere nessun tipo di vita acquatica. Vedi una grossa
+macchia nera sul fondo verso nord-est.
+~
+300 168 8
+D0
+~
+~
+0 -1 30084 0
+D1
+~
+~
+0 -1 30086 0
+D2
+~
+~
+0 -1 30084 0
+D3
+~
+~
+0 -1 30084 0
+D4
+~
+~
+0 -1 30081 0
+D5
+~
+~
+0 -1 30085 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30085
+Sul fondo del lago~
+Stai nuotando sul fondo del lago, qui la luce filtra a fatica anche qua
+non  vedi la benche' minima traccia di una qualsiasi forma di vita. La
+macchia scura  e' a nord-est.
+~
+300 169 8
+D0
+~
+~
+0 -1 30085 0
+D1
+~
+~
+0 -1 30086 0
+D2
+~
+~
+0 -1 30085 0
+D3
+~
+~
+0 -1 30085 0
+D4
+~
+~
+0 -1 30084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30086
+Sul fondo del lago~
+Stai nuotando sul fondo del lago, qui la luce filtra a fatica, anche qua
+non vedi la benche' minima traccia di una qualsiasi forma di vita. La
+macchia scura  e' a nord.
+~
+300 169 8
+D0
+~
+~
+0 -1 30087 0
+D1
+~
+~
+0 -1 30086 0
+D2
+~
+~
+0 -1 30086 0
+D3
+~
+~
+0 -1 30085 0
+D4
+~
+~
+0 -1 30084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30087
+Una caverna sottomarina~
+Ti ritrovi in una caverna sott'acqua, la temperatura si e' abbassata
+notevolmente e l'assenza di luce e' totale se non per una flebile bagliore
+che vedi giungere da sopra la tua testa. A nord c'e l'uscita nel lago.
+~
+300 169 8
+D2
+~
+~
+0 -1 30086 0
+D4
+~
+~
+0 -1 30088 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30088
+Nella caverna sotto terra~
+Davanti ai tuoi occhi si para uno spettacolo impressionante, le pareti
+della caverna sono ricoperte di splendidi cristalli che riflettono la  tua
+immagine in mille e poi ancora mille sfaccettature differenti. Vedi una luce
+provenire da ovest, mentre sotto di te' c'e' uno specchi d'acqua.
+~
+300 8 0
+D3
+~
+~
+0 -1 30089 0
+D5
+~
+~
+0 -1 30087 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30089
+La stanza dei cristalli~
+Sei nel mezzo di una caverna enorme, tutta ricoperta di cristalli i quali
+riflettono, spezzettano e deformano la tua immagine in milioni di piccoli
+e grossi frammenti. La grotta sembra illuminata da una specie di luce
+magica che viene dall'interno dei cristalli. Vedi a est un tunnel e sopra
+di te uno strano cristallo.
+~
+300 136 0
+D1
+~
+~
+0 -1 30088 0
+D4
+~
+cristallo~
+1 -1 30083 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30090
+Un tunnel nella neve~
+Sei in piedi in mezzo ad una specie di caverna scavata nella neve, guardando
+bene le pareti ti sembra che siano state scolpite con degli artigli molto
+affilati. Proprio davanti a te c'e' un'iscrizione, anche quella incisa con
+degli artigli:
++-------+
+|N E W E|
++-------+
+Vedi un'uscita a sud e un buco che sprofonda nel terreno.
+~
+300 32 0
+D2
+~
+blocco neve~
+1 -1 30066 3
+D5
+~
+~
+0 -1 30091 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30091
+Nel labirinto di neve~
+riesci a mala pena a capire se davanti non c'e' niente o c'e' un muro.
+Senti dei strani versi provenire ... da tutte le direzioni!
+~
+300 289 0
+D0
+~
+~
+0 -1 30092 0
+D1
+~
+~
+0 -1 30091 0
+D2
+~
+~
+0 -1 30091 0
+D3
+~
+~
+0 -1 30091 0
+D4
+~
+~
+0 -1 30090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30092
+Nel labirinto di neve~
+riesci a mala pena a capire se davanti non c'e' niente o c'e' un muro.
+Senti dei strani versi provenire ... da tutte le direzioni!
+~
+300 289 0
+D0
+~
+~
+0 -1 30091 0
+D1
+~
+~
+0 -1 30093 0
+D2
+~
+~
+0 -1 30092 0
+D3
+~
+~
+0 -1 30092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30093
+Nel labirinto di neve~
+Sei in uno strettissimo tunnel scavato nella neve, riesci a mala pena a
+capire se davanti non c'e' niente o c'e' un muro. Senti dei strani versi
+provenire ... da tutte le direzioni!
+~
+300 289 0
+D0
+~
+~
+0 -1 30093 0
+D1
+~
+~
+0 -1 30092 0
+D2
+~
+~
+0 -1 30093 0
+D3
+~
+~
+0 -1 30094 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30094
+Nel labirinto di neve~
+Sei in uno strettissimo tunnel scavato nella neve, riesci a mala pena a
+capire se davanti non c'e' niente o c'e' un muro. Senti dei strani versi
+provenire ... da tutte le direzioni!
+~
+300 289 0
+D0
+~
+~
+0 -1 30094 0
+D1
+~
+~
+0 -1 30096 0
+D2
+~
+~
+0 -1 30094 0
+D3
+~
+~
+0 -1 30093 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30096
+La tana dello Yeti~
+Quando ti guardi in giro ti accorgi di aver fatto il tuo piu' grosso errore,
+sei finito nella tane dell'abominevole uomo delle nevi! Forse un giorno
+potrai raccontarlo ... Vedi un'uscita a ovest e un mucchio di neve sul
+pavimento.
+~
+300 33 0
+D3
+~
+~
+0 -1 30094 0
+D5
+~
+mucchio neve~
+1 -1 30097 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30097
+Il tesoro dello Yeti~
+Sei in una piccola buca scavata nella neve, non sembra che chi l'abbia
+fatta pensasse di poterci stare dentro perche' e' molto scomoda. C'e' un
+buco che conduce in alto e un passaggio a sud.
+~
+300 33 0
+D2
+~
+~
+0 -1 30098 0
+D4
+~
+mucchio neve~
+1 -1 30097 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30098
+In piccolo passaggio~
+Stai strisciando in un piccolo passaggio ricavato nella neve. Le pareti
+sembrano restringersi sempre di piu' e hai come l'impressione di rimanerci
+incastrato. Il passaggio continua verso nord e sud.
+~
+300 289 0
+D0
+~
+~
+0 -1 30097 0
+D2
+~
+~
+0 -1 30099 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#30099
+La camera d'uscita~
+Ti ritrovi in una cameretta sotto la neve, dal soffitto filtrano degli
+effimeri raggi di luce, ma abbastanza forti da permetterti di vedere che
+c'e' come un cumulo di neve che blocca un'uscita sul soffitto. Vedi anche
+uno stretto tunnel a nord.
+~
+300 32 0
+D0
+~
+~
+0 -1 30098 0
+D4
+~
+cumulo neve~
+1 -1 30064 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

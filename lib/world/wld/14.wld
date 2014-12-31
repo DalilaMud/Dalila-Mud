@@ -1,0 +1,1032 @@
+#1400
+The beginning~
+You are in an unfinished room.
+~
+14 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1431
+Magazzino di cavalli?~
+Questo DOVREBBE essere un magazzino di cavalli
+Vedremo se funziona!
+~
+14 2560 0
+D0
+~
+~
+0 0 1601 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1432
+&7&bStanza del &0&3Creatore&0~
+La stanza non e' molto spaziosa ma e' sufficentemente grande da
+accogliere molte scatole e mobili. Una finestra semichiusa fa filtrare
+dei raggi di sole che rendono la casa sufficientemente illuminata.
+Anche in questa stanza c'e' un certo disordine...
+~
+14 2560 0
+D3
+~
+~
+0 0 40657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1433
+&7La camera da letto&0~
+La trovi molto confortevole.
+Al centro della stanza c'e' un comodissimo &9&bletto&0 a due piazze,
+alla sua destra un &1&bcamino&0 accogliente che riscalda la stanza,
+mentre uno &6&bspecchio&0 appeso al muro ti permette di osservarti.
+Iu una &1libreria&0 vedi un sacco di libri di magia che fai fatica
+a capire, mentre da una luminosa finestra entra un raggio di luce
+che sembra darti il benvenuto.
+~
+14 2560 0
+D2
+~
+~
+0 0 40942 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40984 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1434
+&4&bLo studio&0~
+In questo luogo il padrone di casa studia le sue &6&bmagie&0 i suoi
+&5artefatti&0 e gli &9&barcani&0 per capire quali poteri sovrannaturali
+li avolgano e gli diano vita.
+Inoltre, come si puo' capire dalle attrezzature, qui svolge parte del
+suo lavoro. E' il posto adatto per concentrarsi, privo di fronzoli e
+distrazioni, illuminato solo dalla luce soffusa di una &1sfera di luce&0
+infinita che risplende in eterno. I mobili e le mensole sono pieni di
+strani oggetti che ti sembra non aver mai visto prima, ti viene da
+pensare che piu' che uno studio sia un negozio esoterico.
+~
+14 2560 0
+D0
+~
+~
+0 0 40790 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1435
+&7la Sala delle Riunioni&0 ~
+&0&2Sei in un ambiente molto illuminato da lanterne d'oro sistemate ovunque.
+Le pareti sono tappezzate con un materiale rosso intenso, ricamato con
+del filo d'oro e sei circondato da capitelli, statue, busti e quadri.
+Davati a te vedi un enorme tavolo e tante sedie attorno.
+~
+14 2560 0
+D2
+~
+~
+0 0 40235 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1436
+&3il Centro Ristoro&0~
+&0&2Una piccola cucina, ma funzionale. E' questa l'impressione che ti da'
+questa stanza appena entri. Vedi un caminetto acceso, un tavolo al
+centro della stanza ed un armadio che contiene diversa roba da
+mangiare e da sgranocchiare.
+~
+14 2560 0
+D1
+~
+~
+0 0 40235 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1437
+&6la Camera da letto&0~
+Un letto matrimoniale con baldacchino ti colpisce subito, appena entri.
+C'e' un lampadario al centro e una lanterna d'ottone spenta, sul
+comodino. In alto la &8scrivania&0&2 c'e' un ritratto di Bridge il Solo,
+a fianco c'e' una libreria con testi antichi e un armadio. Una porta
+chiusa a nord porta alla toilette.
+~
+14 2560 0
+D0
+~
+~
+0 0 1438 0
+D3
+~
+~
+0 0 40235 0
+E
+scrivania~
+&2Ti avvicini ad una antica scrivania in mogano. Su di essa vedi una candela, un pennino d'oca e un diario chiuso.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1438
+&2la Toilette&0~
+Tutto l'occorrente per la cura della persona e' qui dentro. A
+giudicare pero' il sentore di Bridge pensi che questa stanza non sia
+tanto utilizzata...
+~
+14 2560 0
+D2
+~
+~
+0 0 1437 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1439
+Il tempio della preghiera~
+Ti trovi in un ambiente Luminoso che ispira Pace e Armonia.
+Vedi sopra un immenso altare, dei simboli magici,
+che riconosci come Sacri, ma che non sapresti definire in quale religione,
+forse lo sono in tutte le religioni, forse sono ancestralmente Sacri!.
+Le pareti sono Arancioni, e un soave odore ti penetra e ti sembra di volare.
+In questo ambiente la tua parte logica e razionale svanisce....
+...lasciando il posto alla preghiera interiore.
+~
+14 2560 0
+D3
+~
+~
+0 0 40800 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1440
+&8&9La Sala Comune &9dell'&8&7Ordine &0&8&9dei &1Paladini&0~
+&7Appena varchi la soglia della sala la prima cosa che distingui e' un
+grande arazzo che raffigura &9&bl'&7Ordine &9dei &1Paladini&0&7 e i sui rappresentanti,
+sulla parete opposta, sopra il portone e' collocata una grande bandiera
+che reca la &bcroce bianca&0&7 e &1&brossa&0&7 dell'Ordine dei Paladini. Il centro
+della sala e' occupato da un grande tavolo rotondo sul quale sono scritti
+in rilievo i nomi dei Paladini dell'Ordine e in un lato della stanza un
+grande &1camino&7 riscalda l'ambiente, proiettando le sue luci sui muri.&0
+~
+14 2564 0
+D0
+~
+~
+0 0 21350 0
+D2
+~
+~
+0 0 1441 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1441
+&8&9L'&4Armeria &9dell'&8&7Ordine &0&8&9dei &1Paladini&0~
+&7Questa sala, sebbene sia la piu' piccola, e' la piu' ricca di oggetti.
+Le pareti sono zeppe di scaffali e armadi e il pavimento e' per la maggior
+parte occupato da casse piene di &8&9scudi &0&7e &8&9spade&0&7. Appeso al muro di
+fronte a te fa bella mostra di se' lo stendardo &8bianco&0&7 e &1&8rosso
+&9dell'&8&7Ordine &0&8&9dei &1Paladini&0&7.&0
+~
+14 2560 0
+D0
+~
+~
+0 0 1440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1442
+L'ufficio del Demarca~
+Entri dentro un enorme stanza, e i tuoi piedi sentono il confortevole tappeto,
+i tuoi occhi subito si fissano alla scrivania, grande e pregiata, piena di 
+documenti, con la potrona principale dietro di essa, e un po di confortanti sedie
+per gli eventuali ospiti.
+La le tante finestre illuminano a giorno l'intero locale.
+Solo adesso ti accorgi delle ricchezze che adornano questo luogo, quadri, statue
+e arazzi pregiati.
+~
+14 2560 0
+D0
+~
+~
+0 0 1443 0
+D3
+Una porta di legno.
+~
+porta~
+1 768560 9720 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1443
+Il Magazzino~
+Entrando, vedi tanti scaffali pieni di cartelle e libri, molto probabilmente si
+tratta dei documenti necessari al proprietario di questo magazzino.
+La stanza segue perfettemente l'arredamento della principale, ancora arazzi e
+quadri.
+In fondo noti degli scaffali con qualcosa di diverso... Evidentemente li sono
+custodite le cose piu' importanti.
+~
+14 2560 0
+D2
+~
+~
+0 0 1442 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1444
+L'ufficio del &1TolnarRationis&0~
+Entri in un immensa stanza, due file di colonne sono disposte ai lati, vicino
+alle pareti a cui sono affissi arazzi con stemmi nobiliari.
+Il pavimento e' in marmo &9&bnero&0 lucido, puoi persino specchiarti e vedere riflesso
+lo sfarzoso soffitto colmo di bassorilievi raffiguranti le gesta degli eroi di
+Tolnedra, i loro sguardi sembrano rivolti verso di te.
+Grandi finestre si aprono a destra e a sinistra, in fondo noti una scrivania in
+&6legno pregiato&0, due piccole poltroncine, e dietro una maestosa poltrona in
+&b&7argento&0 sembra attirare l'attenzione.
+~
+14 2560 0
+D0
+Una porta di legno.
+~
+porta~
+1 879054 9720 167
+D2
+~
+~
+0 0 1445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1445
+Un'altra stanza.~
+Nonostante l'architettura non lo lasci pensare, la stanza deve essere adibita
+a magazzino, difatti gli imponenti scaffali e gli armadi, sono sicuramente
+utili al Rationis per conservare documenti e oggetti importanti.
+Una finestra a nord illumina poco sufficientemente la stanza, per questo sono
+stati affissi pregevoli torcie in argento alle pareti.
+Su un piedistallo al centro della stanza, un mezzobusto raffigura Cabal, il
+TolnarRationis in carica.
+~
+14 2560 0
+D0
+~
+~
+0 0 1444 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1446
+La camera da letto~
+Appena entri,un aroma fantastico di incenso ti pervade e ti fa rilassare a tal punto
+da invogliare anche il piu resistente a sdraiarsi sul comodo letto.
+Quadri raffiguranti ritratti del padrone di casa invadono i muri, mentre l'oscurita' della stanza
+ti impedisce di scorgere qualcosa...
+~
+14 2560 0
+D3
+~
+~
+0 0 40023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1447
+Lo studio ~
+Sei nella stanza preferita dal padrone.
+E' un vero e proprio ufficio organizzato per svolgere compiti piu' disparati: stendere liste di lavoratori,
+disegnare mappe,controllare il bilancio bancario,indire banchetti,organizzare feste etc...
+Tutto pero' e' in perfetto ordine.
+Uno strano odore pervade lo studio...
+e ti soffermi a guardare una strana pianta...
+~
+14 10752 0
+D2
+~
+~
+0 0 40023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1448
+Laboratorio Evanescente.~
+Ti trovi in un posto illuminato solo da tiepide luci provenenti da strani quadri appesi,
+L'ambiente e' enorme, ma la presenza di innumerevoli scaffali, armadi e ogni genere di prodotti, lo fa sembrare piu' modesto.
+Senti un intenso odore di carta, di polvere e muffa.
+~
+14 2560 0
+D2
+~
+~
+0 0 40800 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1449
+La cantina di &8&1Piagolo&0~
+La cantina di &8&1Piagolo&0...e' incredibile la quantita' abnorme di botti grosse, botti
+piccole, botti medie, bottiglie, damigiane, damigianine, cartocci, tini grossi,
+tini piccoli, tini medi, anfore grosse, anfore medie, anfore piccole, otri medi,
+otri enormi, otri colossali, otri faraonici, otri piccoli... qualunque legge fisica
+dentro questa stanza e' completamente abolita..ci saranno tonnellate di vino...
+tutto catalogato, e ordinato, e Piagolo, ne sei sicuro, conosce tutte le varianti
+di cio' che ha, a partire dal vino dei colli ..
+~
+14 2560 0
+D4
+~
+~
+0 0 40434 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1450
+La stanza di &8&1Piagolo&0~
+Questa e' la camera personale di &8&1Piagolo&0 ..c'e' un CASINO!!!....tutto per terra...
+biancheria a giro per la stanza..mantelli per terra... stivali dovunque....guanti
+che adornano cumuli di armature...in pratica non si capisce nulla..pero', si nota
+un letto da una parte, una scrivania dall'altra, e qualcosa che potrebbe ricordare
+un'armadio da una parte...
+Cosa ci terra' nell'armadio, se tutto e' per terra??? Comunque, qui, come in tutte
+le altre stanze, &8&1Piagolo&0 suona e si allena...infatti sui muri, al posto di
+carta o di arazzi, si trovano spartiti appesi un poo' dovunque, oltre a strumenti
+un po' di tutti i generi...
+C'e' un unica cosa che si vede bene: UN quadro appeso da una parte...un gruppo di
+persone lo affollano, sembrano molto affiati, stanno scherzando..sono tutti
+guerrieri, di varie gilde...
+Un cyrinic sembra assomigliare, alla lontana, a &8&1Piagolo&0...
+~
+14 2560 0
+D4
+~
+~
+0 0 1451 0
+D5
+~
+~
+0 0 40434 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1451
+La soffitta di &8&1Piagolo&0~
+La soffitta...entrando, ti aspetteresti una specie di discarica considerando come
+viene tenuta la casa, avendo gia' visitato le altre stanze...e invece...non c'e'
+un granello di polvere a cercallo nei posti piu' impossibili, i bauli la occupano,
+ma sono ordinati e messi l'uno accanto all'altro con precisione geometrica...
+chissa perche'..dalle finestre si vede benissimo la stuopenda citta' di Chyrellos,
+tutto il suo via vai, il suo tran tran....
+In questa stanza c'e' una strana atmosfera...e' tutto tranquillo, calmo, e' l'unica
+stanza dove la musica che domina la casa non si sente...eppure spartiti si trovano
+anche qui...c'e' una strana luce che pervade l'atmosfera....
+~
+14 2560 0
+D5
+~
+~
+0 0 1450 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1452
+&6&bSul pontile all'ingresso della casa&0~
+Vedi reti, canne da pesca, cassette da pescatore, utensili da cucina per pulire e
+cucinare il pesce sparsi un po' ovunque, senza la minima parvenza di ordine. 
+Nonostante tutto il posto e' pulito,  e anche abbastanza confortevole.  In fianco
+alla porta  in vetro &1&bc&2o&3l&4o&5r&6a&7t&9o&0,  vedi una comoda panchina  colma di &6&benormi cuscini
+azzurri&0 e' pronta ad accoglierti mentre attendi il ritorno della padrona di casa.
+Una volta seduto,  ti rendi conto che la straodinaria bellezza di questa casa non
+sta tanto nell'edificio in se',  quanto al panorama che  ti si presenta una volta
+seduto:  un mare favoloso,  una brezza che  ti sferza il viso con gentilezza,  il
+profumo dell'acqua marina che ti riempie il cuore e la mente.
+~
+14 2572 0
+D0
+~
+~
+0 0 1453 0
+D2
+Una porta di legno.
+~
+porta~
+1 235601 2404946 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1453
+&6&bUn'enorme stanza circolare&0~
+Un piccolo camino circolare e' posto, sempre acceso, nel mezzo della stanza, pare
+sia il centro di tutta la vita che si trova all'interno della casa. Alla sua
+sinistra vedi  un letto incassato nel pavimento di legno,  ricoperto di  piumoni e
+cuscini di ogni dimensione.  Piu' in la' vedi mobilia di ogni genere,  messa alla
+meno peggio: la stanza, nel complesso, non pare molto curata, sebbene sia pulita.
+Girando lo  sguardo  trovi  l'angolo  dove  Earien  lavora  il  pesce  che  pesca
+quotidianamente ed infine, nella parte piu' consistente della casa, trovi un
+catasto di armi di ogni genere: asce, coltelli, daghe, kriss, mazze... e tra
+queste un piccolo altare di &7marmo bianco&0 su cui e' poggiato un piccolo bicchiere
+pieno fino all'orlo del &1&bsangue&0 di... Earien!
+~
+14 2560 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 41003 0
+D2
+~
+~
+0 0 1452 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1454
+&2&bLa Torre comune Verde&0~
+Dopo un piccolo corridoio si giunge dall'ingresso a questa splendida stanza.
+Un &1camino&0 sempre accesso riscalda la stanza e le pareti sono in pietra scura, questa stanza
+rende un idea di sicurezza e tranquillita'.
+&3Un affresco sulla parete opposta al camino raffigura Lamorka,due leoni immobili sono all'entrata della citt.. davanti a loro
+una spada e' piantata in terra.&0
+in un angolo della stanza una scala conduce alla stanza superiore, un altra invece porta al magazzino.
+Il governo ha costruito questa torre per accogliere i giovani cittadini sendariani, con la speranza che diventino
+grandi partendo da queste torri.
+~
+14 2560 0
+D2
+Una porta di legno.
+~
+porta~
+1 137157 6614 167
+D4
+~
+~
+0 0 1456 0
+D5
+~
+~
+0 0 1455 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1455
+&1Il deposito della torre&0~
+Una piccola candela illumina lievemente le pareti di questo magazzino.
+Nonostante si trovi sottoterra questa stanza e' stata murata con pietre dell'Argentario in modo tale
+da rendere la stanza protetta dall'umidit e dalle fredde temperature invernali.
+Alcuni armadi sono posti agli angoli della stanza,alcune casse di legno sono appoggiate in terra.
+In questa stanza i cittadini possono mettere a disposizione degli altri oggetti o materiali utili.
+~
+14 2560 0
+D4
+~
+~
+0 0 1454 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1456
+Il primo piano~
+Da una finestra  possibile affacciarsi e poter ammirare le bellissime vie di lamorka,
+un &1camino&0 si trova nel lato opposto alle scale che portano alle stanze superiori ed inferiori.
+Un grande quadro e' posto su una parete.
+&3Rappresenta la piazza degli Eroi dove tutti i sendariani sono riuniti,sono tutti armati e bardati,
+ma sorridono... difenderanno il loro Regno.&0
+~
+14 2560 0
+D4
+~
+~
+0 0 1457 0
+D5
+~
+~
+0 0 1454 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1457
+Il secondo piano~
+Sono presenti due finestre in questa stanza,una rivolta verso l'interno di Lamorka, l'altra rivolta
+verso il castello e al di la' delle mura che proteggono la citta'.
+Anche in questa stanza un &1camino&0 sempre acceso riscalda la stanza.
+&3Un quadro di medie proporzioni raffigura un'arpa in terra, nella polvere... una moneta gli e' stata posta vicino.&0
+~
+14 2560 0
+D4
+~
+~
+0 0 1458 0
+D5
+~
+~
+0 0 1456 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1458
+Il terzo piano~
+Sono presenti due finestre in questa stanza,una rivolta verso il golfo di Lamorka, l'altra rivolta
+verso l'entrata di lamorka.
+Anche in questa stanza un &1camino&0 sempre acceso riscalda la stanza.
+&3Un affresco su di una parete raffigura a destra la forgia di Lamorka da dove le scintille escono fino in strada spegnendosi... a sinistra
+una locanda dell'ovest dove la gente e' seduta a parlare davanti ad una bottiglia di vino.&0
+~
+14 2560 0
+D4
+~
+~
+0 0 1459 0
+D5
+~
+~
+0 0 1457 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1459
+L'attico della torre~
+L'ultimo piano della torre si trova ad una altezza tale da permettere la vista,grazie alle quattro finestre su tutti i lati, di tutto
+il paesaggio, sia collinare sia marittimo che circonda Lamorka.
+Un camino leggermente pi grande degli altri e' posto in un angolo,in questa stanza d'inverno sarebbe impossibile resistere senza.
+&3Un piccola scritta e' stata incisa sul legno di una trave del tetto, riporta le seguenti parole:
+Nel giorno ogni fiamma scompare tra la luce, ma nel buio invece diventa fonte di vita. &0
+~
+14 2560 0
+D5
+~
+~
+0 0 1458 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1460
+&1Il deposito della torre&0~
+Una piccola candela illumina lievemente le pareti di questo magazzino.
+Nonostante si trovi sottoterra questa stanza e' stata murata con pietre dell'Argentario in modo tale
+da rendere la stanza protetta dall'umidit e dalle fredde temperature invernali.
+Alcuni armadi sono posti agli angoli della stanza,alcune casse di legno sono appoggiate in terra.
+In questa stanza i cittadini possono mettere a disposizione degli altri oggetti o materiali utili.
+~
+14 2560 0
+D4
+~
+~
+0 0 1461 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1461
+&4&bLa Torre comune Blu&0~
+Dopo un piccolo corridoio si giunge dall'ingresso a questa splendida stanza.
+Un &1camino&0 sempre accesso riscalda la stanza e le pareti sono in pietra scura, questa stanza
+rende un idea di sicurezza e tranquillita'.
+&3Un affresco sulla parete opposta al camino raffigura Lamorka,due leoni immobili sono all'entrata della citt.. davanti a loro
+una spada e' piantata in terra.&0
+in un angolo della stanza una scala conduce alla stanza superiore, un altra invece porta al magazzino.
+Il governo ha costruito questa torre per accogliere i giovani cittadini sendariani, con la speranza che diventino
+grandi partendo da queste torri.
+~
+14 2560 0
+D3
+Una porta di legno.
+~
+porta~
+1 941582 6614 167
+D4
+~
+~
+0 0 1462 0
+D5
+~
+~
+0 0 1460 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1462
+Il primo piano~
+Da una finestra  possibile affacciarsi e poter ammirare le bellissime vie di lamorka,
+un &1camino&0 si trova nel lato opposto alle scale che portano alle stanze superiori ed inferiori.
+Un grande quadro e' posto su una parete.
+&3Rappresenta la piazza degli Eroi dove tutti i sendariani sono riuniti,sono tutti armati e bardati,
+ma sorridono... difenderanno il loro Regno.&0
+~
+14 2560 0
+D4
+~
+~
+0 0 1463 0
+D5
+~
+~
+0 0 1461 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1463
+Il secondo piano~
+Sono presenti due finestre in questa stanza,una rivolta verso l'interno di Lamorka, l'altra rivolta
+verso il castello e al di la' delle mura che proteggono la citta'.
+Anche in questa stanza un &1camino&0 sempre acceso riscalda la stanza.
+&3Un quadro di medie proporzioni raffigura un'arpa in terra, nella polvere... una moneta gli e' stata posta vicino.&0
+~
+14 2560 0
+D4
+~
+~
+0 0 1464 0
+D5
+~
+~
+0 0 1462 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1464
+Il terzo piano~
+Sono presenti due finestre in questa stanza,una rivolta verso il golfo di Lamorka, l'altra rivolta
+verso l'entrata di lamorka.
+Anche in questa stanza un &1camino&0 sempre acceso riscalda la stanza.
+&3Un affresco su di una parete raffigura a destra la forgia di Lamorka da dove le scintille escono fino in strada spegnendosi... a sinistra
+una locanda dell'ovest dove la gente e' seduta a parlare davanti ad una bottiglia di vino.&0
+~
+14 2560 0
+D4
+~
+~
+0 0 1465 0
+D5
+~
+~
+0 0 1463 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1465
+L'attico della torre~
+L'ultimo piano della torre si trova ad una altezza tale da permettere la vista,grazie alle quattro finestre su tutti i lati, di tutto
+il paesaggio, sia collinare sia marittimo che circonda Lamorka.
+Un camino leggermente pi grande degli altri e' posto in un angolo,in questa stanza d'inverno sarebbe impossibile resistere senza.
+&3Un piccola scritta e' stata incisa sul legno di una trave del tetto, riporta le seguenti parole:
+Nel giorno ogni fiamma scompare tra la luce, ma nel buio invece diventa fonte di vita. &0
+~
+14 2560 0
+D5
+~
+~
+0 0 1464 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1466
+&1&bUna stanza&0~
+You are in an unfinished room.
+(Non si capiva che era unfinished)
+~
+14 2560 0
+D3
+~
+~
+0 0 40577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1467
+La dispensa~
+Ci sono scaffali ovunque, l'unica luce naturale e' data da una piccola
+finestrella tonda posta in alto alla parete opposta all'entrata.
+Appeso all'alto soffitto, c'e' un grandissimo lampadario che riempie
+il vuoto. Delle lampade sono poste anche ai quattro angoli della stanza.
+~
+14 2560 0
+D1
+~
+~
+0 0 40838 0
+D5
+~
+~
+0 0 1468 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1468
+Gli scantinati~
+Le scale a chiocciola sono in mezzo alla stanza, tutta in pietra. Su tutte
+le pareti ci sono delle torce appese. La luce naturale sembra che qui
+non ci sia mai stata.
+~
+14 2560 0
+D1
+~
+~
+0 0 1469 0
+D4
+~
+~
+0 0 1467 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1469
+Un nascondiglio~
+E' scavato tutto nella roccia, numerose nicchie si riescono a intravedere
+nelle pareti. Il pavimento e' di pietra, e due archi si incrociano in centro 
+per sorreggere il tutto. Al centro della stanza c'e' un tavolo tondo, con
+un foro nel mezzo dove c'e' un focolare sempre acceso. Una cappa di rame e'
+posta sopra il focolare, per raccogliere tutto il fumo.
+~
+14 2560 0
+D0
+~
+~
+0 0 1470 0
+D3
+~
+~
+0 0 1468 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1470
+La cassaforte~
+E' grande per essere una cassaforte, ci starebbero comodamente una dozzina 
+di persone. Tutto il parallelepipedo e' di acciaio, con molti rinforzi per
+renderlo inaccessibile. 
+~
+14 2560 0
+D2
+~
+~
+0 0 1469 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1483
+&9&bRifugium alterum peccatorium omnium&0~
+Quante brutte cose!
+~
+14 2560 0
+D0
+~
+~
+0 0 1484 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1484
+&9&bRifugium peccatorium omnium&0~
+Tanti tanti mali
+~
+14 2560 0
+D2
+~
+~
+0 0 1483 0
+D3
+~
+~
+0 0 40193 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1485
+La zona industriale~
+   Il chiasso del lavoro costeggia la strada mentre procedi guardandoti
+attorno. Figure losche scrutano i lavoratori cercando persone abili ad una
+loro misteriosa causa, e ognuno degli uomini cerca di badare solo al proprio
+mestiere evitando chiunque attorno a se', umano, non morto o... altro.
+~
+14 0 0
+D0
+~
+~
+0 0 5700 0
+D1
+~
+~
+0 0 1486 0
+D2
+~
+~
+0 0 5701 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1486
+La zona industriale~
+   Il chiasso del lavoro costeggia la strada mentre procedi guardandoti
+attorno. Figure losche scrutano i lavoratori cercando persone abili ad una
+loro misteriosa causa, e ognuno degli uomini cerca di badare solo al proprio
+mestiere evitando chiunque attorno a se', umano, non morto o... altro.
+~
+14 0 0
+D0
+~
+~
+0 0 5704 0
+D1
+~
+~
+0 0 1487 0
+D2
+~
+~
+0 0 5705 0
+D3
+~
+~
+0 0 1485 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1487
+La zona industriale~
+   Il chiasso del lavoro costeggia la strada mentre procedi guardandoti
+attorno. Figure losche scrutano i lavoratori cercando persone abili ad una
+loro misteriosa causa, e ognuno degli uomini cerca di badare solo al proprio
+mestiere evitando chiunque attorno a se', umano, non morto o... altro.
+~
+14 0 0
+D0
+~
+~
+0 0 5707 0
+D1
+~
+~
+0 0 1488 0
+D2
+~
+~
+0 0 5709 0
+D3
+~
+~
+0 0 1486 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1488
+La zona industriale~
+   Il chiasso del lavoro costeggia la strada mentre procedi guardandoti
+attorno. Figure losche scrutano i lavoratori cercando persone abili ad una
+loro misteriosa causa, e ognuno degli uomini cerca di badare solo al proprio
+mestiere evitando chiunque attorno a se', umano, non morto o... altro.
+~
+14 0 0
+D0
+~
+~
+0 0 5711 0
+D1
+~
+~
+0 0 1489 0
+D3
+~
+~
+0 0 1487 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1489
+La zona industriale~
+   Il chiasso del lavoro costeggia la strada mentre procedi guardandoti
+attorno. Figure losche scrutano i lavoratori cercando persone abili ad una
+loro misteriosa causa, e ognuno degli uomini cerca di badare solo al proprio
+mestiere evitando chiunque attorno a se', umano, non morto o... altro.
+~
+14 0 0
+D1
+~
+~
+0 0 1490 0
+D3
+~
+~
+0 0 1488 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1490
+La zona industriale~
+   Il chiasso del lavoro costeggia la strada mentre procedi guardandoti
+attorno. Figure losche scrutano i lavoratori cercando persone abili ad una
+loro misteriosa causa, e ognuno degli uomini cerca di badare solo al proprio
+mestiere evitando chiunque attorno a se', umano, non morto o... altro.
+~
+14 4 0
+D1
+~
+~
+0 0 5433 0
+D3
+~
+~
+0 0 1489 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1495
+&7&8Giardino Pensile&0~
+Hai appena lasciato quel senso di freddo quando avverti un piacevole torpore.
+I raggi del sole illuminano questo splendido giardino pensile e non ti sembra ancora vero 
+di esserre uscito da quella sinistra casa. Ma ripensandoci bene dovrai tornare indietro e 
+incominci a sentirti male. Saluti il sole mentre con i suoi raggi ti accarezza la chioma
+quasi a consolarti... sara' l' ultima che lo rivedrai...
+~
+14 2560 0
+D5
+~
+~
+0 0 1496 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1496
+&7&8Sala &6&8della &7&8Meditazione&0~
+Appena si chiude dietro di te la massiccia porta ti ritrovi in una libreria.
+Oltre alla porta, incominci a notare altre cose strane... il fatto che non ci siano fonti di luce, 
+ma che la stanza sia illuminata di luce propria. Apri un libro e quando leggi una delle tante 
+strane formule scritte su di esso senti una sferzata di aria gelida dietro alla schiena. 
+Decidi cosi' di lasciare anche questa stanza al piu' presto...
+~
+14 2560 0
+D4
+~
+~
+0 0 1495 0
+D5
+~
+~
+0 0 1497 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1497
+&7&8Sala &6&8della &7&8Guerra&0~
+Appena hai lasciato il salone tiri un sospiro e ti senti di nuovo a casa.
+Grosse fiaccole illuminano lucenti armature e armi forgiate dai migliori fabbri della 
+Daresia. Dietro ad alcune vetrine sono custoditi trofei di guerra e numerosi quadri di 
+condottieri appesi alle pareti richiamano i tuoi ricordi.
+Una nostalgia profonda ti pervade e allunghi i tuoi passi per lasciartela alle spalle...
+~
+14 2560 0
+D4
+~
+~
+0 0 1496 0
+D5
+~
+~
+0 0 1498 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1498
+&7&8Lussuoso Salone&0~
+Appena varcata la soglia ti ritrovi in un immenso salone dalle pareti color rosso.
+Ti accorgi subito della lussuosita' della stanza... uno stupendo lampadario di diamanti
+sovrasta la stanza e ovunque cada l' occhio ci sono inestimabili gioielli e gemme.
+Ogni particolare e' di materiale pregiato e minuziosamente curato, tanto da farti
+sentire a disagio, decidi cosi' di proseguire oltre...
+~
+14 2560 0
+D4
+~
+~
+0 0 1497 0
+D5
+~
+~
+0 0 1499 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1499
+&7&bTempio Arcano&0~
+Appena attraversate due alte colonne di marmo rosa eccoti nell' ingresso principale.
+Strane sfere fluttuanti illuminano l' ampia stanza e incamminandoti verso una scaletta
+vedi comodi e morbidi divani foderati in seta bianca e sulle pareti color blu cobalto
+quadri con cornici in oro zecchino raffiguranti nobili e stemmi di famose casate.
+Sembra una casa molta accogliente e ti accingi per gli scalini...
+~
+14 2560 0
+D2
+Una porta di legno.
+~
+porta~
+1 757708 12664 167
+D4
+~
+~
+0 0 1498 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,2097 @@
+#3000
+(A4)dogana~
+Deposito merci temporaneo
+~
+30 0 2
+D0
+~
+~
+0 -1 3005 0
+D2
+~
+~
+0 -1 3043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3001
+Entrata provvisoria~
+Andate down per entrare nella Nuova Deira
+~
+30 8 1
+D5
+~
+~
+0 0 12500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3002
+(A4)dogana~
+Deposito merci temporaneo
+~
+30 0 2
+D0
+~
+~
+0 -1 12500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3003
+(A4)dogana~
+Deposito merci temporaneo
+~
+30 0 2
+D0
+~
+~
+0 -1 3005 0
+D2
+~
+~
+0 -1 3043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3004
+(A4) Il mercato esterno~
+Finalemnte una bancarella come si deve! Dopo tanta merce di dubbio
+valore e gusto in questo piccolo spazio c'e' tutto quello che
+serve. Il venditore sembra molto indaffarato a trattare con la
+gente; questo ti permette di osservare meglio gli oggetti in
+vendita. Dopo una rapida occhiata deduci che la merce migliore non
+e' esposta e quindi decidi di aspettare il tuo turno e sentire che
+cosa ha da offrirti il venditore. Mentre stai facendo questo
+ragionamento i compratori davanti a te se ne vanno lasciandoti a
+tu per tu con il venditore.
+~
+30 0 2
+D0
+~
+~
+0 -1 3005 0
+D2
+~
+~
+0 -1 3043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3005
+(A5) Il mercato esterno~
+Proprio di fronte a te e' steso un tappeto con funzione di
+bancarella, ci sono molti oggetti appoggiati sopra; seduto dietro
+al tappeto c'e' un venditore intento a sistemare la merce che
+viene costantemente urtata dai passanti. Forse non e' la migliore
+bancaerella del mercato ma pur di vendere ogni posto e' buono.~
+30 0 2
+D0
+~
+~
+0 -1 3006 0
+D2
+~
+~
+0 -1 3004 0
+D3
+~
+~
+0 -1 3027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3006
+(A6) Il mercato esterno~
+Ti trovi di fronte ad una delle tante bancarelle di questo
+gigantesco mercato all'aperto. Questa bancarella in particolare
+e' stata messa in piedi utilizzando una blocco di marmo e una
+tavola di legno grezzo. La merce e ben disposta, tutta ordinata e
+ben conservata. Incuriosito ti avvicini al tavolo e tendi la mano
+verso un oggetto ma vieni bloccato dallo sguardo attento del
+venditore. Forse e' meglio chiedere prima!
+~
+30 0 2
+D0
+~
+~
+0 -1 3007 0
+D2
+~
+~
+0 -1 3005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3007
+(A7) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D0
+~
+~
+0 -1 3008 0
+D2
+~
+~
+0 -1 3006 0
+D3
+~
+~
+0 -1 3025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3008
+(A8) Il mercato esterno~
+Finalemnte una bancarella come si deve! Dopo tanta merce di dubbio
+valore e gusto in questo piccolo spazio c'e' tutto quello che
+serve. Il venditore sembra molto indaffarato a trattare con la
+gente; questo ti permette di osservare meglio gli oggetti in
+vendita. Dopo una rapida occhiata deduci che la merce migliore non
+e' esposta e quindi decidi di aspettare il tuo turno e sentire che
+cosa ha da offrirti il venditore. Mentre stai facendo questo
+ragionamento i compratori davanti a te se ne vanno lasciandoti a
+tu per tu con il venditore.
+~
+30 0 2
+D0
+~
+~
+0 -1 3009 0
+D2
+~
+~
+0 -1 3007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3009
+(A9) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D2
+~
+~
+0 -1 3008 0
+D3
+~
+~
+0 -1 3010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3010
+(B5) Il mercato esterno~
+Appena girato l'angolo di questo immenso mercato ti trovi di 
+fronte una bancarella tutta addobbata a festa. Sembra che il
+proprietario non abbia badato a spese.Tutta la merce e ben esposta
+sopra una tovaglia di seta, tutt'attorno ci sono dei vasi di
+terracotta ricolmi di essenze e come tocco finale ci sono molti 
+fiori. Questo angolo di mercato ti attira molto e come puoi ben
+notare attira anche tanta gente, per lo piu' curiosi. Il venditore
+sempra un tipo simpatico; chissa' quale raffinatezza ha da proporti.
+~
+30 0 2
+D1
+~
+~
+0 -1 3009 0
+D3
+~
+~
+0 -1 3011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3011
+(C9) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D1
+~
+~
+0 -1 3010 0
+D2
+~
+~
+0 -1 3035 0
+D3
+~
+~
+0 -1 3012 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3012
+(D5) Il mercato esterno~
+Gente, gente e ancora gente. Sembra che questo mercato non 
+finisce mai. In tutta questa baraonda arrivi in un piccolo spazio
+che sembra vuoto, ma facendoti largo tra le persone scorgi un 
+mercante che sta animatamente discutendo con un ragazzo. Ti
+avvicini incuriosito e con l'intento di intervenire in caso si 
+metta male per il ragazzo. Ma appena arrivi di fronte ai due ti
+accorgi con stupore e con imbarazzo che il ragazzo altri non e' 
+che un elfo di bassa statura e che ai suoi piedi c'e' un piccolo
+lembo di stoffa ricolmo di oggetti. Cribbio, un altra bancarella!
+~
+30 0 2
+D1
+~
+~
+0 -1 3011 0
+D3
+~
+~
+0 -1 3013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3013
+(E9) Il mercato esterno~
+Proprio di fronte a te e' steso un tappeto con funzione di
+bancarella, ci sono molti oggetti appoggiati sopra; seduto dietro
+al tappeto c'e' un venditore intento a sistemare la merce che
+viene costantemente urtata dai passanti. Forse non e' la migliore
+bancaerella del mercato ma pur di vendere ogni posto e' buono.
+Aguzzando l'udito ti accorgi di un vociare proveneinte da ovest.
+Non sembra che il mercato continui in quella direzione, ma la tua
+curiosita' ti spinge a dare un occhiatina lo stesso.~
+30 0 2
+D1
+~
+~
+0 -1 3012 0
+D2
+~
+~
+0 -1 3014 0
+D3
+~
+~
+0 -1 3038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3014
+(E8) Il mercato esterno~
+Ti trovi di fronte ad una delle tante bancarelle di questo
+gigantesco mercato all'aperto. Questa bancarella in particolare
+e' stata messa in piedi utilizzando una blocco di marmo e una
+tavola di legno grezzo. La merce e ben disposta, tutta ordinata e
+ben conservata. Incuriosito ti avvicini al tavolo e tendi la mano
+verso un oggetto ma vieni bloccato dallo sguardo attento del
+venditore. Forse e' meglio chiedere prima!
+~
+30 0 2
+D0
+~
+~
+0 -1 3013 0
+D2
+~
+~
+0 -1 3015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3015
+(E7) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D0
+~
+~
+0 -1 3014 0
+D1
+~
+~
+0 -1 3028 0
+D2
+~
+~
+0 -1 3016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3016
+(E6) Il mercato esterno~
+Ancora una bancarella. Dopo tante stranezze questa sembra essere
+normale. Un tavolino piccolo, visto lo spazio a disposizione, ma
+robusto e capiente, la merce e' suddivisa per tipologie ed e' ben
+conservata in appositi recipienti, tondi, quardi, romboidali, ogni
+forma un categoria. Il venditore non e' da meno della bancarella.
+La sua veste e' attillata e perfetta in tutte le sue piege, sembra
+appena indossata. Ti accorgi che il venditore ti sta squadrando per
+benino e in quell'istante un cenno d'imbarazzo compare sulle
+tue guance; sicuramente avrai qual'cosa nell'abbigliamento fuori
+posto. Superi questo momento e come se nulla fosse successo inizi
+a dare un occhiata alla merce in vendita.~
+30 0 2
+D0
+~
+~
+0 -1 3015 0
+D2
+~
+~
+0 -1 3017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3017
+(E5) Il mercato esterno~
+Proprio di fronte a te e' steso un tappeto con funzione di
+bancarella, ci sono molti oggetti appoggiati sopra; seduto dietro
+al tappeto c'e' un venditore intento a sistemare la merce che
+viene costantemente urtata dai passanti. Forse non e' la migliore
+bancaerella del mercato ma pur di vendere ogni posto e' buono.~
+30 0 2
+D0
+~
+~
+0 -1 3016 0
+D1
+~
+~
+0 -1 3026 0
+D2
+~
+~
+0 -1 3018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3018
+(E4) Il mercato esterno~
+Ti trovi di fronte ad una delle tante bancarelle di questo
+gigantesco mercato all'aperto. Questa bancarella in particolare
+e' stata messa in piedi utilizzando una blocco di marmo e una
+tavola di legno grezzo. La merce e ben disposta, tutta ordinata e
+ben conservata. Incuriosito ti avvicini al tavolo e tendi la mano
+verso un oggetto ma vieni bloccato dallo sguardo attento del
+venditore. Forse e' meglio chiedere prima!
+~
+30 0 2
+D0
+~
+~
+0 -1 3017 0
+D2
+~
+~
+0 -1 3019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3019
+(E3) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D0
+~
+~
+0 -1 3018 0
+D1
+~
+~
+0 -1 3029 0
+D2
+~
+~
+0 -1 3037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3020
+(X) Il cuore del mercato esterno~
+Ecco il cuore del mercato esterno. La gente frettolosamente arriva
+e va in tutte le direzioni, sembrano tante formiche che lavorano
+freneticamente tutte immerse in un calendoscopio di odori e colori.
+Qui non vi e' situata nessuna bancarella ma al loro posto ogni
+volta si esibisce un artista esordiente diverso. Vengono da tutto
+il regno per esibirsi qui nel tentativo di raccimolare un po di
+monete. Ti fai largo tra la folla, che assite allo spettacolo, nel
+tentativo di capire chi e' di scena oggi.~
+30 0 2
+D0
+~
+~
+0 -1 3032 0
+D1
+~
+~
+0 -1 3027 0
+D2
+~
+~
+0 -1 3036 0
+D3
+~
+~
+0 -1 3026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3021
+(E1) Il mercato esterno~
+Proprio di fronte a te e' steso un tappeto con funzione di
+bancarella, ci sono molti oggetti appoggiati sopra; seduto dietro
+al tappeto c'e' un venditore intento a sistemare la merce che
+viene costantemente urtata dai passanti. Forse non e' la migliore
+bancaerella del mercato ma pur di vendere ogni posto e' buono.~
+30 0 2
+D0
+~
+~
+0 -1 3037 0
+D1
+~
+~
+0 -1 3022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3022
+(D1) Il mercato esterno~
+Gente, gente e ancora gente. Sembra che questo mercato non 
+finisce mai. In tutta questa baraonda arrivi in un piccolo spazio
+che sembra vuoto, ma facendoti largo tra le persone scorgi un 
+mercante che sta animatamente discutendo con un ragazzo. Ti
+avvicini incuriosito e con l'intento di intervenire in caso si 
+metta male per il ragazzo. Ma appena arrivi di fronte ai due ti
+accorgi con stupore e con imbarazzo che il ragazzo altri non e' 
+che un elfo di bassa statura e che ai suoi piedi c'e' un piccolo
+lembo di stoffa ricolmo di oggetti. Cribbio, un altra bancarella!
+~
+30 0 2
+D1
+~
+~
+0 -1 3034 0
+D3
+~
+~
+0 -1 3021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3023
+(B1) Il mercato esterno~
+Appena girato l'angolo di questo immenso mercato ti trovi di 
+fronte una bancarella tutta addobbata a festa. Sembra che il
+proprietario non abbia badato a spese.Tutta la merce e ben esposta
+sopra una tovaglia di seta, tutt'attorno ci sono dei vasi di
+terracotta ricolmi di essenze e come tocco finale ci sono molti 
+fiori. Questo angolo di mercato ti attira molto e come puoi ben
+notare attira anche tanta gente, per lo piu' curiosi. Il venditore
+sempra un tipo simpatico; chissa' quale raffinatezza ha da proporti.
+~
+30 0 2
+D1
+~
+~
+0 -1 3041 0
+D3
+~
+~
+0 -1 3034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3024
+(B2) Il mercato esterno~
+Gente, gente e ancora gente. Sembra che questo mercato non 
+finisce mai. In tutta questa baraonda arrivi in un piccolo spazio
+che sembra vuoto, ma facendoti largo tra le persone scorgi un 
+mercante che sta animatamente discutendo con un ragazzo. Ti
+avvicini incuriosito e con l'intento di intervenire in caso si 
+metta male per il ragazzo. Ma appena arrivi di fronte ai due ti
+accorgi con stupore e con imbarazzo che il ragazzo altri non e' 
+che un elfo di bassa statura e che ai suoi piedi c'e' un piccolo
+lembo di stoffa ricolmo di oggetti. Cribbio, un altra bancarella!
+~
+30 0 2
+D1
+~
+~
+0 -1 3043 0
+D3
+~
+~
+0 -1 3030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3025
+(B4) Il mercato esterno~
+Gente, gente e ancora gente. Sembra che questo mercato non 
+finisce mai. In tutta questa baraonda arrivi in un piccolo spazio
+che sembra vuoto, ma facendoti largo tra le persone scorgi un 
+mercante che sta animatamente discutendo con un ragazzo. Ti
+avvicini incuriosito e con l'intento di intervenire in caso si 
+metta male per il ragazzo. Ma appena arrivi di fronte ai due ti
+accorgi con stupore e con imbarazzo che il ragazzo altri non e' 
+che un elfo di bassa statura e che ai suoi piedi c'e' un piccolo
+lembo di stoffa ricolmo di oggetti. Cribbio, un altra bancarella!
+~
+30 0 2
+D1
+~
+~
+0 -1 3007 0
+D3
+~
+~
+0 -1 3031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3026
+(D3) Il mercato esterno~
+Gente, gente e ancora gente. Sembra che questo mercato non 
+finisce mai. In tutta questa baraonda arrivi in un piccolo spazio
+che sembra vuoto, ma facendoti largo tra le persone scorgi un 
+mercante che sta animatamente discutendo con un ragazzo. Ti
+avvicini incuriosito e con l'intento di intervenire in caso si 
+metta male per il ragazzo. Ma appena arrivi di fronte ai due ti
+accorgi con stupore e con imbarazzo che il ragazzo altri non e' 
+che un elfo di bassa statura e che ai suoi piedi c'e' un piccolo
+lembo di stoffa ricolmo di oggetti. Cribbio, un altra bancarella!
+~
+30 0 2
+D1
+~
+~
+0 -1 3020 0
+D3
+~
+~
+0 -1 3017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3027
+(B3) Il mercato esterno~
+Appena girato l'angolo di questo immenso mercato ti trovi di 
+fronte una bancarella tutta addobbata a festa. Sembra che il
+proprietario non abbia badato a spese.Tutta la merce e ben esposta
+sopra una tovaglia di seta, tutt'attorno ci sono dei vasi di
+terracotta ricolmi di essenze e come tocco finale ci sono molti 
+fiori. Questo angolo di mercato ti attira molto e come puoi ben
+notare attira anche tanta gente, per lo piu' curiosi. Il venditore
+sempra un tipo simpatico; chissa' quale raffinatezza ha da proporti.
+~
+30 0 2
+D1
+~
+~
+0 -1 3005 0
+D3
+~
+~
+0 -1 3020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3028
+(D4) Il mercato esterno~
+Appena girato l'angolo di questo immenso mercato ti trovi di 
+fronte una bancarella tutta addobbata a festa. Sembra che il
+proprietario non abbia badato a spese.Tutta la merce e ben esposta
+sopra una tovaglia di seta, tutt'attorno ci sono dei vasi di
+terracotta ricolmi di essenze e come tocco finale ci sono molti 
+fiori. Questo angolo di mercato ti attira molto e come puoi ben
+notare attira anche tanta gente, per lo piu' curiosi. Il venditore
+sempra un tipo simpatico; chissa' quale raffinatezza ha da proporti.
+~
+30 0 2
+D1
+~
+~
+0 -1 3031 0
+D3
+~
+~
+0 -1 3015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3029
+(D2) Il mercato esterno~
+Appena girato l'angolo di questo immenso mercato ti trovi di 
+fronte una bancarella tutta addobbata a festa. Sembra che il
+proprietario non abbia badato a spese.Tutta la merce e ben esposta
+sopra una tovaglia di seta, tutt'attorno ci sono dei vasi di
+terracotta ricolmi di essenze e come tocco finale ci sono molti 
+fiori. Questo angolo di mercato ti attira molto e come puoi ben
+notare attira anche tanta gente, per lo piu' curiosi. Il venditore
+sempra un tipo simpatico; chissa' quale raffinatezza ha da proporti.
+~
+30 0 2
+D1
+~
+~
+0 -1 3030 0
+D3
+~
+~
+0 -1 3019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3030
+(C3) Il mercato esterno~
+Ti trovi di fronte ad una delle tante bancarelle di questo
+gigantesco mercato all'aperto. Questa bancarella in particolare
+e' stata messa in piedi utilizzando una blocco di marmo e una
+tavola di legno grezzo. La merce e ben disposta, tutta ordinata e
+ben conservata. Incuriosito ti avvicini al tavolo e tendi la mano
+verso un oggetto ma vieni bloccato dallo sguardo attento del
+venditore. Forse e' meglio chiedere prima!
+~
+30 0 2
+D0
+~
+~
+0 -1 3036 0
+D1
+~
+~
+0 -1 3024 0
+D2
+~
+~
+0 -1 3033 0
+D3
+~
+~
+0 -1 3029 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#3031
+(C7) Il mercato esterno~
+Ti trovi di fronte ad una delle tante bancarelle di questo
+gigantesco mercato all'aperto. Questa bancarella in particolare
+e' stata messa in piedi utilizzando una blocco di marmo e una
+tavola di legno grezzo. La merce e ben disposta, tutta ordinata e
+ben conservata. Incuriosito ti avvicini al tavolo e tendi la mano
+verso un oggetto ma vieni bloccato dallo sguardo attento del
+venditore. Forse e' meglio chiedere prima!
+~
+30 0 2
+D0
+~
+~
+0 -1 3035 0
+D1
+~
+~
+0 -1 3025 0
+D2
+~
+~
+0 -1 3032 0
+D3
+~
+~
+0 -1 3028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3032
+(C6) Il mercato esterno~
+Finalemnte una bancarella come si deve! Dopo tanta merce di dubbio
+valore e gusto in questo piccolo spazio c'e' tutto quello che
+serve. Il venditore sembra molto indaffarato a trattare con la
+gente; questo ti permette di osservare meglio gli oggetti in
+vendita. Dopo una rapida occhiata deduci che la merce migliore non
+e' esposta e quindi decidi di aspettare il tuo turno e sentire che
+cosa ha da offrirti il venditore. Mentre stai facendo questo
+ragionamento i compratori davanti a te se ne vanno lasciandoti a
+tu per tu con il venditore.
+~
+30 0 2
+D0
+~
+~
+0 -1 3031 0
+D2
+~
+~
+0 -1 3020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3033
+(C2) Il mercato esterno~
+Finalemnte una bancarella come si deve! Dopo tanta merce di dubbio
+valore e gusto in questo piccolo spazio c'e' tutto quello che
+serve. Il venditore sembra molto indaffarato a trattare con la
+gente; questo ti permette di osservare meglio gli oggetti in
+vendita. Dopo una rapida occhiata deduci che la merce migliore non
+e' esposta e quindi decidi di aspettare il tuo turno e sentire che
+cosa ha da offrirti il venditore. Mentre stai facendo questo
+ragionamento i compratori davanti a te se ne vanno lasciandoti a
+tu per tu con il venditore.
+~
+30 0 2
+D0
+~
+~
+0 -1 3030 0
+D2
+~
+~
+0 -1 3034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3034
+(C1) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D0
+~
+~
+0 -1 3033 0
+D1
+~
+~
+0 -1 3023 0
+D3
+~
+~
+0 -1 3022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3035
+(C8) Il mercato esterno~
+Ancora una bancarella. Dopo tante stranezze questa sembra essere
+normale. Un tavolino piccolo, visto lo spazio a disposizione, ma
+robusto e capiente, la merce e' suddivisa per tipologie ed e' ben
+conservata in appositi recipienti, tondi, quardi, romboidali, ogni
+forma un categoria. Il venditore non e' da meno della bancarella.
+La sua veste e' attillata e perfetta in tutte le sue piege, sembra
+appena indossata. Ti accorgi che il venditore ti sta squadrando per
+benino e in quell'istante un cenno d'imbarazzo compare sulle
+tue guance; sicuramente avrai qual'cosa nell'abbigliamento fuori
+posto. Superi questo momento e come se nulla fosse successo inizi
+a dare un occhiata alla merce in vendita.~
+30 0 2
+D0
+~
+~
+0 -1 3011 0
+D2
+~
+~
+0 -1 3031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3036
+(C4) Il mercato esterno~
+Ancora una bancarella. Dopo tante stranezze questa sembra essere
+normale. Un tavolino piccolo, visto lo spazio a disposizione, ma
+robusto e capiente, la merce e' suddivisa per tipologie ed e' ben
+conservata in appositi recipienti, tondi, quardi, romboidali, ogni
+forma un categoria. Il venditore non e' da meno della bancarella.
+La sua veste e' attillata e perfetta in tutte le sue piege, sembra
+appena indossata. Ti accorgi che il venditore ti sta squadrando per
+benino e in quell'istante un cenno d'imbarazzo compare sulle
+tue guance; sicuramente avrai qual'cosa nell'abbigliamento fuori
+posto. Superi questo momento e come se nulla fosse successo inizi
+a dare un occhiata alla merce in vendita.~
+30 0 2
+D0
+~
+~
+0 -1 3020 0
+D2
+~
+~
+0 -1 3030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3037
+(E2) Il mercato esterno~
+Ancora una bancarella. Dopo tante stranezze questa sembra essere
+normale. Un tavolino piccolo, visto lo spazio a disposizione, ma
+robusto e capiente, la merce e' suddivisa per tipologie ed e' ben
+conservata in appositi recipienti, tondi, quardi, romboidali, ogni
+forma un categoria. Il venditore non e' da meno della bancarella.
+La sua veste e' attillata e perfetta in tutte le sue piege, sembra
+appena indossata. Ti accorgi che il venditore ti sta squadrando per
+benino e in quell'istante un cenno d'imbarazzo compare sulle
+tue guance; sicuramente avrai qual'cosa nell'abbigliamento fuori
+posto. Superi questo momento e come se nulla fosse successo inizi
+a dare un occhiata alla merce in vendita.~
+30 0 2
+D0
+~
+~
+0 -1 3019 0
+D2
+~
+~
+0 -1 3021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3038
+(Y) La mini bisca~
+Ti sei lasciato alle spalle la frenetica vita del mercato per 
+immergerti in un buio tendone saturo di fumo. Ti guardi attorno
+e noti le facce delle persone attorno. Non sono certamente dei
+santi. Ti accorgi dopo qualche secondo che in un angolo del
+tendone si trova un tavolino e attorno ad esso ci sono degli 
+uomini intenti a puntare e a lanciare dadi. Una bisca qui? nel
+mercato? Non ti era mai capitata una cosa simile; sei indeciso
+se andar via o se tentar la sorte. Ad un tratto ti accorgi che
+tutti gli occhi sono rivolti a te e al tuo sacchetto con le monete.
+Brutto segno!
+~
+30 0 2
+D1
+~
+~
+0 -1 3013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3039
+L'ufficio del mercato esterno.~
+Ti trovi in uno dei più ampi e spaziosi uffici di tutta la 
+capitale. Colonne di marmo appoggiate su piastrelle azzurro mare
+sorreggono immense arcate bianco avorio. Molta luce entra dalle
+finestre poste a decine lungo tutte le pareti. Ci sono molte 
+persone in piedi che discutono animatamente tra di loro.
+Ci sono molti sportelli e ad alcuni di loro c'e' molta gente in
+coda. Fortunatamente il tuo sportello è vuoto. Sopra di esso c'e
+un enorme CARTELLO, ti conviene leggerlo!~
+30 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3040
+(E) Il sentiero per il mercato~
+Stai percorrendo un piccolo sentiero di erba schiacciata creato
+dal continuo viavai di mercanti, servitori e semplici curiosi.
+A sud c'e' la strada principale che ti conduce alla Capitale
+mentre piu' avanti intravedi il caos del mercato; i suoi rumori
+e i suoi odori ti giungono chiaramente e la tua speranza di trovare
+qualche oggetto raro e utile si fa sempre piu' incalzante. Fai
+qualche passo immerso nei tuoi pensieri quando incappi in un
+mendicante dall'aspetto buffo con una gran voglia di parlare.
+      
+~
+30 0 2
+D0
+~
+~
+0 -1 3041 0
+D2
+~
+~
+0 0 12600 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3041
+(A1) Il mercato esterno~
+Questo e' l'inizio del mercato. Molte bancarelle variopinte e
+stracolme di oggetti si estendono a nord e a ovest. Proprio di
+fronte a te e' steso un tappeto con funzione di bancarella, ci
+sono molti oggetti appoggiati sopra; seduto dietro al tappeto
+c'e' un venditore intento a sistemare la merce che viene costantemente
+urtata dai passanti. Forse non e' la migliore bancaerella del
+ mercato ma e' senza ombra di dubbio nella locazione migliore.
+ Per uscire devi per forza passare di qui.   
+~
+30 0 2
+D0
+~
+~
+0 -1 3042 0
+D2
+~
+~
+0 0 3040 0
+D3
+~
+~
+0 -1 3023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3042
+(A2) Il mercato esterno~
+Ti trovi di fronte ad una delle tante bancarelle di questo
+gigantesco mercato all'aperto. Questa bancarella in particolare
+e' stata messa in piedi utilizzando una blocco di marmo e una
+tavola di legno grezzo. La merce e ben disposta, tutta ordinata e
+ben conservata. Incuriosito ti avvicini al tavolo e tendi la mano
+verso un oggetto ma vieni bloccato dallo sguardo attento del
+venditore. Forse e' meglio chiedere prima!
+~
+30 0 2
+D0
+~
+~
+0 -1 3043 0
+D2
+~
+~
+0 -1 3041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3043
+(A3) Il mercato esterno~
+Una bancarella molto spartana ti si presenta appena sbuchi in 
+quest'angolo di mercato. La merce che il venditore si appresta a 
+contrattare non e' delle migliore, anche se girando tra le
+bancarelle hai visto di peggio. 
+Una serie di piccole candele poste su di un barile cercano di
+abbellire l'ambiente. Inutilmente.
+~
+30 0 2
+D0
+~
+~
+0 -1 3004 0
+D2
+~
+~
+0 -1 3042 0
+D3
+~
+~
+0 -1 3024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3044
+Sgabuzzino~
+Un piccolo e stretto sgabuzzino interrato e percio' privo di finestre. La luce proviene 
+da una lampada ad olio appesa sul soffito sopra la parete ovest, ad illuminare un &3affresco&0.
+Una &3rastrelliera&0, unico mobilio della stanza e' appoggiata alla parete est.
+~
+30 256 0
+D3
+Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+~
+pannello~
+1 51375 3057 7
+D5
+Una botola nascosta sotto un asse del pavimento.
+~
+botola~
+1 64948 3045 23
+E
+affresco~
+Raffigura degli uomini intenti a spartirsi del denaro. Sotto l'opera  incisa una 
+massima degli alcioni:
+&3&bChi sa contare, ottiene sempre di piu'...&0
+~
+E
+rastrelliera~
+Una piccola impalcatura di legno con dei piccoli fori che possono alloggiare dei 
+grimaldelli. Puoi prenderne solo uno secondo le regole della gilda.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#3045
+Sotterraneo~
+Ti trovi in un sotterraneo scavato nella roccia viva. Il passaggio e' molto stretto e le
+pareti irregolari, devi muoverti con cautela per non inciampare nei massi o non cadere nei 
+dislivelli del suolo. Una &3nicchia&0 e' stata scavata nella parete est.
+~
+30 417 0
+D2
+Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+~
+pannello~
+2 74892 3056 31
+D4
+Una botola incassata nel soffitto
+~
+botola~
+1 149507 3044 23
+E
+nicchia~
+Una piccola rientranza scavati con grezzi colpi di piccone.
+Ospita qualcosa al suo interno
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#3050
+Magazzino fabbro reale~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "armi di vario genere".~
+30 4398046513728 0
+D1
+~
+~
+0 -1 3070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3051
+Magazzino armeria reale~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "armature, scudi, parabraccia, cinture, scudi,etc..".~
+30 4398046513728 0
+D3
+~
+~
+0 -1 3070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3052
+Il magazzino del falegname~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 4398046513728 0
+D1
+Una porta di legno.
+~
+porta~
+1 472801 3071 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3053
+Magazzino del sarto~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 4398046513728 0
+D3
+~
+~
+0 -1 3071 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3054
+Magazzino pozioni~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 4398046513728 0
+D1
+~
+~
+0 -1 3072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3055
+Magazzino Cibarie~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 4398046513728 0
+D3
+~
+~
+0 -1 3072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3056
+Sotterraneo~
+Le pareti sono in roccia viva, hanno un profilo molto irregolare, tranne quella a nord
+che addirittura ospita un &3affresco&0. Sembra in effetti che qui sia stato svolto qualche 
+lavoro di architettura per rendere l'ambiente piu' accogliente, ma i risultati sono stati 
+piuttosto scarsi.La solita &3nicchia&0 e' stata ricavata sulla parte est, ma stavolta e' 
+piu' elegante ed elaborata.
+~
+30 417 0
+D0
+Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+~
+pannello~
+2 748922 3045 31
+E
+affresco~
+Raffigura degli uomini intenti in una partita di shangai. Il tavolo raffigurato  pieno di 
+bastoncini colorati &4blu&0, &1rossi&0,verdi e &3gialli&0, posti uno sopra all'altro.
+Sotto  incisa una massima degli Alcioni:
+&3&bUn alcione senza velocita' rischia di perder tutto.
+Un alcione senza pazienza rischia di non ottenere nulla.&0
+~
+E
+nicchia~
+Una nicchia scavata nella roccia viva.
+L'interno e' rivestito di velluto nero.
+Sul muro intorno invece e' dipinta una
+&3&belaborata cornice dorata&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21357
+T 21352
+#3057
+Sgabuzzino~
+Un piccolo e stretto sgabuzzino seminterrato. Completamente spoglio d'ogni arredamento
+fatta eccezione per una &3rastrelliera&0 appesa alla parete est. L'unica fonte di luce e
+la grata di un lucernario che da sulla strada.
+~
+30 256 0
+D1
+Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+~
+pannello~
+1 9894 3044 23
+D3
+Una porta di legno
+~
+porta~
+1 146 12669 7
+E
+rastrelliera~
+Una piccola impalcatura di legno con dei piccoli fori che possono alloggiare dei 
+grimaldelli. Puoi prenderne solo uno secondo le regole della gilda.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#3058
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D1
+Una porta di legno.
+~
+porta~
+1 952253 3074 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3059
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D3
+Una porta di legno.
+~
+porta~
+1 891002 3074 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3060
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D1
+Una porta di legno.
+~
+porta~
+1 700926 3075 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3061
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D3
+Una porta di legno.
+~
+porta~
+1 758726 3075 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3062
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D1
+Una porta di legno.
+~
+porta~
+1 360486 3076 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3063
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D3
+Una porta di legno.
+~
+porta~
+1 469486 3076 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3064
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D1
+Una porta di legno.
+~
+porta~
+1 554132 3077 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3065
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D3
+Una porta di legno.
+~
+porta~
+1 412439 3077 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3066
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D1
+Una porta di legno.
+~
+porta~
+1 506643 3078 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3067
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D3
+Una porta di legno.
+~
+porta~
+1 495714 3078 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3068
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D1
+Una porta di legno.
+~
+porta~
+1 986499 3079 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3069
+Magazzino "XXXX"~
+Ti trovi in un magazzino ben ordinato, un grande cartello appesso 
+sull'entrata indica cosa cosa contiene, "XXXXX".~
+30 2624 0
+D3
+Una porta di legno.
+~
+porta~
+1 318205 3079 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3070
+Un corridoio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 2560 0
+D0
+~
+portone~
+2 533 12608 15
+D1
+~
+~
+0 -1 3051 0
+D2
+Una porta di legno.
+~
+porta~
+1 195048 3071 167
+D3
+~
+~
+0 -1 3050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3071
+Un corridoio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 195048 3070 135
+D1
+~
+~
+0 -1 3053 0
+D2
+~
+~
+0 -1 3072 0
+D3
+Una porta di legno.
+~
+porta~
+1 472801 3052 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3072
+Un corridoio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3071 0
+D1
+~
+~
+0 -1 3055 0
+D2
+~
+~
+0 -1 3073 0
+D3
+~
+~
+0 -1 3054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3073
+Un corridoio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 2560 0
+D0
+~
+~
+0 -1 3072 0
+D1
+~
+~
+0 -1 3057 0
+D2
+~
+~
+0 -1 3074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3074
+Un corridorio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3073 0
+D1
+Una porta di legno.
+~
+porta~
+1 891002 3059 135
+D2
+~
+~
+0 -1 3075 0
+D3
+Una porta di legno.
+~
+porta~
+1 952253 3058 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3075
+Un corridorio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3074 0
+D1
+Una porta di legno.
+~
+porta~
+1 758726 3061 135
+D2
+~
+~
+0 -1 3076 0
+D3
+Una porta di legno.
+~
+porta~
+1 700926 3060 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3076
+Un corridorio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3075 0
+D1
+Una porta di legno.
+~
+porta~
+1 469486 3063 135
+D2
+~
+~
+0 -1 3077 0
+D3
+Una porta di legno.
+~
+porta~
+1 360486 3062 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3077
+Un corridorio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3076 0
+D1
+Una porta di legno.
+~
+porta~
+1 412439 3065 135
+D2
+~
+~
+0 -1 3078 0
+D3
+Una porta di legno.
+~
+porta~
+1 554132 3064 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3078
+Un corridorio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3077 0
+D1
+Una porta di legno.
+~
+porta~
+1 495714 3067 135
+D2
+~
+~
+0 -1 3079 0
+D3
+Una porta di legno.
+~
+porta~
+1 506643 3066 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3079
+Un corridorio~
+Ti trovi in un lungo corridoio che porta ai magazzini generali di Deira,
+dove vengono custodite tutte le merci prodotte. Lungo tutto il corridoio
+si vedono moltissime porte sia a sinistra che ha destra.
+~
+30 0 0
+D0
+~
+~
+0 -1 3078 0
+D1
+Una porta di legno.
+~
+porta~
+1 318205 3069 135
+D3
+Una porta di legno.
+~
+porta~
+1 986499 3068 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3080
+L'Entrata Est del Borgo di Deira~
+Nothing.
+Questo e' l'ingresso est del borgo edificato nei pressi
+della citta' di Deira.
+Nonostante tutta la buona volonta degli architetti del
+regno il luogo non rispecchia la magnificenza della capitale.
+~
+30 8796093022464 0
+D1
+Nothing.
+~
+~
+0 0 2125459 0
+D2
+Una porta di legno.
+~
+porta~
+1 582211 40472 135
+D3
+~
+~
+0 0 3082 0
+D4
+Una porta di legno.
+~
+porta~
+1 820398 40491 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3081
+L'entrata Ovest del Borgo di Deira~
+Questo e' l'ingresso ovest del borgo edificato nei pressi
+della citta' di Deira.
+Da qui inizia un viale che porta verso est ad una piazza.
+~
+30 256 0
+D0
+Una porta di legno.
+~
+porta~
+1 738127 40471 135
+D1
+~
+~
+0 0 3084 0
+D2
+Una porta di legno.
+~
+porta~
+1 904178 40455 135
+D3
+~
+~
+0 0 2125454 0
+D4
+Una porta di legno.
+~
+porta~
+1 293782 40508 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3082
+Viale del Borgo Est~
+Un bel viale ricco di finiture. molto luminoso, ampio e di
+gradevole aspetto.
+~
+30 8796093022208 0
+D1
+~
+~
+0 0 3080 0
+D2
+Una porta di legno.
+~
+porta~
+1 203015 40219 135
+D3
+~
+~
+0 0 3083 0
+D4
+Una porta di legno.
+~
+porta~
+1 137843 40480 135
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3083
+Piazza d'Armi~
+   Per tutto il perimetro della piazza fiori di ogni colore e forma offrono uno
+spettacolo piacevole ai molti passanti.  Nel mezzo e' situata una imponente
+statua raffigurante alcuni Cavalieri di Deira, intenti a combattere le forze
+del male che in tempi remoti provarono ad impossessarsi della citta'.  Un tempo
+situata nel mezzo della citta', questo monumento venne spostato per volere di
+Re Rodric nel borgo al momento della sua costruzione.    
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 3086 0
+D1
+~
+~
+0 0 3082 0
+D2
+~
+~
+0 0 3085 0
+D3
+~
+~
+0 0 3084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3084
+Viale del Borgo Ovest~
+Un bel viale ricco di finiture. molto luminoso, ampio e di
+gradevole aspetto.
+~
+30 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 290700 40162 135
+D1
+~
+~
+0 0 3083 0
+D2
+Una porta di legno.
+~
+porta~
+1 187947 40188 135
+D3
+~
+~
+0 0 3081 0
+D4
+Una porta di legno.
+~
+porta~
+1 926471 40515 135
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3085
+Strada Nuova, parte sud~
+Nothing.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 3083 0
+D1
+Una porta di legno.
+~
+porta~
+1 583369 40180 135
+D2
+Una porta di legno.
+~
+porta~
+1 639919 40141 135
+D3
+Una comunissima porta di legno.
+~
+porta~
+1 34562 40682 7
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40242 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3086
+Strada Nuova, parte nord~
+Nothing.
+~
+30 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 886683 40876 135
+D1
+Una porta di legno.
+~
+porta~
+1 104715 40564 135
+D2
+~
+~
+0 0 3083 0
+D3
+Una porta di legno.
+~
+porta~
+1 823579 40599 135
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40973 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3087
+La Strada dei pensieri~
+Una semplice via ben tenuta e pulita. Ogni tanto un ciuffo d'erba
+spunta da qualche frattura del pavimento o da qualche angolo.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 40204 0
+D1
+Una porta di legno.
+~
+porta~
+1 300205 40249 135
+D2
+Una porta di legno.
+~
+porta~
+1 376984 40250 135
+D3
+~
+~
+0 0 3088 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3088
+Strada dei pensieri~
+Una semplice via ben tenuta e pulita. Ogni tanto un ciuffo d'erba
+spunta da qualche frattura del pavimento o da qualche angolo.
+~
+30 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 554648 40278 135
+D1
+~
+~
+0 0 3087 0
+D2
+Una porta di legno.
+~
+porta~
+1 166694 40373 135
+D3
+~
+~
+0 0 3089 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40580 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3089
+Strada dei pensieri~
+Una semplice via ben tenuta e pulita. Ogni tanto un ciuffo d'erba
+spunta da qualche frattura del pavimento o da qualche angolo.
+~
+30 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 667895 40567 135
+D1
+~
+~
+0 0 3088 0
+D2
+Una porta di legno.
+~
+porta~
+1 949603 40504 135
+D3
+~
+~
+0 0 40233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3090
+Il Viale dei principi~
+Questo e' il viale che nacque in memoria dei vari principi di Aldaria.
+Intorno a te alcune statue ricordano la reggenza di Laika.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 40242 0
+D1
+Una porta di legno.
+~
+porta~
+1 534577 40710 135
+D2
+~
+~
+0 0 3091 0
+D3
+Una porta di legno.
+~
+porta~
+1 128766 40713 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3091
+Il Viale dei principi~
+Questo e' il viale che nacque in memoria dei vari principi di Aldaria.
+I palazzi tra cui cammini sono ricoperti da affreschi raffiguranti la lunga reggenza di Khardan. Una fontanella e' situata nel mezzo della strada, completamente lastricata in pietre.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 3090 0
+D1
+Una porta di legno.
+~
+porta~
+1 393223 40730 135
+D2
+~
+~
+0 0 3092 0
+D3
+Una porta di legno.
+~
+porta~
+1 992346 40722 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3092
+Il Viale dei Principi~
+You are in an unfinished room.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 3091 0
+D1
+Una porta di legno.
+~
+porta~
+1 409297 40753 135
+D2
+~
+~
+0 0 3093 0
+D3
+Una porta di legno.
+~
+porta~
+1 778145 40752 199
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3093
+Il Viale dei Principi~
+You are in an unfinished room.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 3092 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40761 0
+D2
+~
+~
+0 0 3094 0
+D3
+Una porta di legno.
+~
+porta~
+1 895102 40762 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3094
+Il Viale dei Principi~
+You are in an unfinished room.
+~
+30 8796093022208 0
+D0
+~
+~
+0 0 3093 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40763 0
+D2
+~
+~
+0 0 3095 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40764 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3095
+La dogana Sud del Borgo di Deira~
+You are in an unfinished room.
+~
+30 0 0
+D0
+~
+~
+0 0 3094 0
+D2
+~
+~
+0 0 2125657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3099
+Ufficio di &1Sarbyn&0~
+C'e' una gran puzza qua dentro!
+~
+30 2564 0
+D4
+Una porta di legno.
+~
+porta~
+1 999351 6681 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

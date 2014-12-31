@@ -1,0 +1,1383 @@
+#7900
+Esterno della residenza di Redferne~
+   Una enorme nube forma l'altopiano sul quale ti trovi ora. Il vento qui
+e' assolutamente calmo ed il sole splende vividamente sopra di te.
+Da sotto le nubi puoi sentire i deboli suoni provenienti da Deira. Giusto
+davanti a te a nord c'e' la grande Magione di Naris.
+~
+79 516 0
+D0
+Vedi un enorme cancello arcuato che porta in questo edificio magnifico.
+~
+cancellata enorme arcuato~
+2 7901 7901 15
+D3
+~
+~
+0 0 7970 0
+D5
+Vede una Enorme Catena che ancora la Magione di Naris al terreno.
+~
+~
+0 -1 7918 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7901
+La fine meridionale della sala~
+   Sei in una sala enorme fiocamente illuminata, ma da che parte provenga
+la luce, e' un mistero. I muri sembrano irradiare calore e danno un senso di
+cordiale accoglienza qui. Un grande ritratto grande e' appeso su una delle
+pareti. Una grande scala di legno conduce su nella la torre. Ad est c'e' un
+alto passaggio che porta fuori dalla sala.
+Questo finisce dopo poco a causa di una alta porta di quercia. L'enorme sala
+si estende ulteriormente a nord di qui. A sud puoi vedere una enorme, pesante
+porta di ferro battuto. Sembra che questa sia la sola uscita di questa
+magnifica vecchia casa.
+~
+79 524 0
+D0
+L'atrio continua per questa direzione. Puoi vedere piu' passaggi sotto la
+scala di legno in quella direzione.
+~
+~
+0 -1 7904 0
+D1
+Vedi una alta porta di quercia. Sembra ermeticamente chiusa. Sud di
+essa piccole rune sono cesellate nel legno.
+~
+porta quercia alta~
+1 -1 7910 3
+D2
+Qui vedi una VERA porta. Sarebbe piu' opportuno chiamare questo un
+"CANCELLO", piuttosto che una porta. E' veramente ENORME! Su di essa
+c'e' un grande cartello compilato con lettere molto grandi:
+
+                           USCITA DI EMERGENZA
+
+~
+cancellata ferro enorme~
+2 7901 7900 15
+D3
+Questa e' una "porta" nel vero senso della parola. Il legno di frassino
+e' dipinto in una particolare tonalita' di giallo. Lettere minuscole sono scritte
+in nero.
+~
+porta frassino giallo legno~
+1 -1 7902 3
+D4
+Vedi la scala che sale nell'alta torre Finisce in quella che sembra.
+essere una grande camera da letto.
+~
+~
+0 -1 7909 0
+E
+lettere~
+Dicono:
+
+                                BIBLIOTECA
+
+~
+E
+rune~
+Queste rune sono strane per te, ma hai fortuna oggi: sotto
+le rune c'e' la traduzione nella lingua comune. Dice:
+
+Stai fuori, se ti preme la vita. Questo se sei mortale.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7902
+La Biblioteca di Redferne~
+   Questo e' veramente un luogo magnifico! Libri e pergamene sono insieme
+su ogni mensola. Un grande globo, con sopra la mappa del mondo, e' in
+penombra nell'angolo nordoccidentale della stanza. Due grandi e comode
+poltrone di cuoio adornano il centro della biblioteca insieme con una enorme
+scrivania di quercia. Un enorme lampadario di cristallo irradia una fioca da
+una altezza di circa 10 piedi dal pavimento. Ad est c'e' una grande e vecchia
+porta di frassino. Una grande finestra incornicia la parete ad ovest.
+~
+79 524 0
+D1
+Vedi una vecchia porta di frassino, dipinta in una particolare tonalita' di giallo.
+~
+porta legno frassino~
+1 -1 7901 3
+E
+fiume~
+Vedi un grande serpeggiante fiume che taglia il panorama, iniziando da un
+enorme lago nel retroterra, passa attraverso Deira e finalmente finisce nel
+Mare Grande sulla costa occidentale della terra.
+~
+E
+fuori esterno~
+Le nubi si raccolgono e formano il terreno sul quale questo edificio e' costruito.
+Attraverso la piu' sottile delle nubi vedi Deira con tutta la sua attivita'.
+~
+E
+finestra finestre~
+Queste finestre sono veramente GRANDI!  Vanno da circa 20 pollici dal pavimento
+a circa 10 dal soffitto. Se provi a fare "look out", puoi vedere quello che c'e' all'esterno.
+~
+E
+poltrone cuoio sedie poltrona~
+Queste due sedie sono esattamente simili l'una all'altra. Sembrano incredibilmente
+comode. Sono entrambe fatte di cuoio vecchio, ed ancora sembrano
+così porta che possono essere nulla ma un luogo perfetto per un lungo ha avuto bisogno di
+riposo.
+~
+E
+deira citta'~
+Vedi una piccola macchiolina con boschi ad ovest di essa, pianure ad est
+e montagne a nord. Ad est vedi una stretta pista che porta ad un grande
+castello. Alla fine noti un grande fiume che attraversa Deira al centro.
+~
+E
+mondo globo mappa~
+Vedi una grande mappa del mondo disegnata sull'enorme globo. Al centro
+della mappa vedi una grande citta' col nome "Deira" scritto sopra. Il resto sono
+montagne, boschi, pianure ed acqua.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7903
+La stanza degli artefatti di Naris~
+   Questa e una stanza scura con solo una debole luce che si irradia dalle
+pareti. Un gruppo di articoli divertenti sono al centro della stanza. Non c'e'
+nessun mobile. La sola uscita e' ad ovest, attraverso la porta bassa d'acciaio.
+~
+79 524 0
+D3
+Vedi solo il retro della porta d'acciaio.
+~
+porta acciaio~
+2 7900 7910 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7904
+La fine settentrionale della sala~
+   Sei alla fine settentrionale dell'enorme sala. Questa parte e' sotto
+la scala di legno cosi' la luce sembra essere un po' meno brillante
+qui. A nord c'e' la cucina. A sud c'e' la fine meridionale della sala. Ad
+est c'e' una porta di metallo enorme. Ad ovest c'e' una grande porta
+di legno.
+~
+79 524 0
+D0
+~
+~
+0 -1 7906 0
+D1
+Vedi una porta di metallo enorme. Da lei proviene un cattivo odore. L'odore e'
+l'esperienza più terribile della tua vita intera. Un pensiero passa attraverso questo
+puzzo terribile e nella tua mente: "Mostri", ti sente MALE ad aprire quella porta.
+~
+porta enorme metallo~
+2 -1 7913 11
+D2
+Il resto della sala e' in quella direzione, e cosi' l'uscita.
+~
+~
+0 -1 7901 0
+D3
+Sulla porta c'e' scritto "SALA DI ATTESA". E' in legno ed e' intagliata a meraviglia
+con piccoli elfi come tema principale.
+~
+porta legno~
+1 -1 7905 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7905
+La sala di attesa di Naris~
+   Sei al centro di un luogo veramente comodo. Le pareti sono
+decorate con dipinti di Re e Regine sorridenti. Il quadro piu' attraente
+e' quello di un Principe in brillante armatura. Vicino ad una parete
+c'e' una vecchia poltrona. La sola uscita e' attraverso la porta ad est.
+~
+79 524 0
+D1
+La porta sembra essere molto pesante ed intagliata.
+~
+porta legno pesante~
+1 -1 7904 3
+E
+poltrona sedia~
+Questa e' veramente una meravigliosa reliquia del passato. Sopra c'e' un grande cuscino.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7906
+La cucina di Naris~
+   Questo e' il luogo dove si mangia e si beve. Puoi sentire il debole rumore di ratti
+che banchettano con carne e pane provenire da qualche luogo indeterminabile. Il suono
+ti fa sentire l'agonia della FAME.
+~
+79 524 0
+D0
+E scuro di la'. Ma i suoni che vengono da la' sono chiari.
+~
+dispensa armadio a muro di legno~
+1 -1 7907 3
+D1
+Può vedere il frigo da qui. Sopra ci sono delle bibite.
+~
+frigo~
+1 -1 7908 3
+D2
+Puoi vedere la fine settentrionale della sala.
+~
+~
+0 -1 7904 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7907
+La dispensa~
+   Puoi vedere cibo sopra tutto. Fra i mucchi di cibo noti ENORMI ratti che
+passeggiano tutto intorno, mordicchiando di qua' e di la'.
+~
+79 524 0
+D2
+~
+porta legno dispensa~
+1 -1 7906 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7908
+Il frigo~
+   Questo luogo e' CARICATO con bibite ed acqua.
+~
+79 524 0
+D3
+~
+porta frigo~
+1 -1 7906 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7909
+Sulle scale~
+   Puoi vedere su e giu' la scalinata. Sembra procedere all'infinito. Sopra
+c'e' la camera da letto di Redferne, e giu' scende verso la fine meridionale
+della sala.
+~
+79 524 0
+D4
+~
+~
+0 -1 7911 0
+D5
+~
+~
+0 -1 7901 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7910
+La stanza del tesoro~
+   Questo luogo e' buio. Una ENORME cassaforte e' cementata nel muro ad ovest. La
+sola uscita visibile e' ad ovest, attraverso la porta di quercia.
+~
+79 524 0
+D1
+~
+cassaforte acciaio~
+2 7900 7903 15
+D3
+Vedi una grande porta di quercia.
+~
+grande porta di quercia~
+1 -1 7901 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7911
+La stanza da letto di Redferne~
+   Questa e' una camera da letto con tutte le necessita' per una romantica
+sera. Un grande focolare e' nella parete ad est, con la legna che sta sfrigolando.
+Il letto e' enorme, ricopre almeno META' di questa grande stanza. La stanza
+e' lunga almeno 140 piedi, cosi' riesci ad immaginare il LETTO?
+Una scala conduce giu' alla sala. Una porta doppia si apre su un largo balcone
+a sud.
+~
+79 524 0
+D2
+Il sole sembra splendere la' fuori, vivido e confortante.
+~
+porta porte~
+1 -1 7912 3
+D5
+~
+~
+0 -1 7909 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7912
+Il Balcone di Redferne~
+   Vedi la maggior parte di questo mondo. Le valli si allungano quando
+l'occhio si volge a sud da qui. Sotto a te vedi l'ingresso di questo edificio
+magnifico. A nord ci sono le porte della camera da letto di Redferne.
+~
+79 516 0
+D0
+Vedi la confortabile stanza da letto di Naris.
+~
+porte~
+1 -1 7911 3
+D5
+Vedi il terreno sul quale e' edificato questo castello.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7913
+Monster Pen~
+   Questa sembra essere la gabbia nella quale e' tenuto un grande carnivoro.
+A giudicare dallo stato dei muri, questo potrebbe essere benissimo un grande
+Animale AGGRESSIVO. Questo ti fa abbastanza insicuro.
+~
+79 520 0
+D3
+Sembra essere la sola uscita da qui.
+~
+porta gabbia pen metallo~
+1 -1 7904 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7914
+Sulla Enorme Catena~
+   Questo luogo ha una buona vista di Deira. Puoi andare solo in alto ed in basso.
+A meno che tu voglia lasciare l'apparente sicurezza di questa, allora quelle sono
+le direzioni che dovresti prendere da qui.
+~
+79 4 5
+D3
+~
+~
+0 0 1523532 0
+D4
+Verso l'alto, vedi la catena che svanisce nelle nuvole.
+~
+~
+0 -1 7915 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7915
+La catena dove c'e' troppo vento~
+   Appeso alla catena capisci che non c'e' modo di lasciarsi cadere giu' da qui.
+Il vento ti spinge da tutte le direzioni. Sembra un compito totalmente impossibile.
+Salire e' la sola possibilita' che hai. Altrimenti rischieresti di morire cadendo sul
+terreno duro sottostante. NON SCENDERE ORA O CERTAMENTE MORIRAI!!!!
+~
+79 4 5
+D4
+Quella via sembra essere la sola per andarsene da qui.
+~
+~
+0 -1 7916 0
+D5
+Nothing.
+~
+~
+0 -1 7914 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7916
+Sulla Grande Catena di Naris~
+   Sei circa alla meta' della infida Catena. Un passo falso e sopraggiungera'
+una morte rapida. La catena conduce verso l'alto e verso il basso. Nessun
+modo per scendere ora... devi solo cominciare ad arrampicarti. Scendere potrebbe
+costarti la vita. Guarda in basso e vedi perche'.
+~
+79 4 5
+D4
+Sembra esserci solo una via da qui e quello che e' sopra.
+~
+~
+0 -1 7918 0
+D5
+La catena laggiu' dondola molto avanti ed indietro. Andare laggiu' sembra abbastanza
+rischioso!
+~
+~
+0 -1 7915 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7917
+La Catena~
+   Come scendi, la catena sembra assorbire il tempo intorno ad essa, dondolando
+sempre meno nel vento molto potente. La Catena sembra ridacchiare quietamente,
+e quando scendi ulteriormente sente un bisbiglio causato dalla Catena * STESSA*.
+Dice: "Bentornato, straniero. La tua compagnia e' sempre... hmmm... interessante".
+La catena scende ulteriormente attraverso le nubi.
+~
+79 4 5
+D4
+Ti sembra che la Catena si dissolva di nuovo. Forse e' solo un'altra illusione.
+~
+~
+0 -1 -1 0
+D5
+Questa via sembra sicura... ora.
+~
+~
+0 -1 7914 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7918
+La Potente Catena di Naris~
+   Questo luogo mostra una vista veramente splendida di TUTTO IL PAESE!
+Un magnifico splendore di luce su di te e la via attraverso le nubi e' aperta. Lassu'
+ora puoi vedere la Magione di Naris, la Residenza del Dio piu' grande Redferne.
+La catena sotto di te sembra evaporare nelle nubi.
+~
+79 4 5
+D4
+Vedi la cima esposta al sole delle nubi. Oltre queste, la Magione torreggia davanti
+i tuoi occhi. Bellissimo!!
+~
+~
+0 -1 7900 0
+D5
+Non vedi altro oltre le nubi spesse. Si sono chiuse completamente intorno alla Catena.
+~
+~
+0 -1 7917 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7920
+La caduta libera dalla Catena~
+   Questo e' probabilmente il terzo luogo peggiore dove essere in tutto l'intero MUD.
+Cadi
+.
+.
+.
+e cadi
+.
+.
+.
+e cadi
+.
+.
+.
+e COLPISCI IL TERRENO CON UN TALE *SPLUTCH* che muori orrendamente ed immediatamente.
+Addio mondo crudele.
+~
+79 10 0
+D0
+~
+~
+0 -1 7914 0
+D1
+~
+~
+0 -1 7915 0
+D2
+~
+~
+0 -1 7916 0
+D3
+~
+~
+0 -1 7917 0
+D4
+~
+~
+0 -1 7918 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#7921
+Il nascondiglio~
+Come d'incanto ti si apre ai tuoi occhi uno dei piu' grandi e maestosi
+saloni di tutta la Daresia. Oggetti e arredamenti provenienti da terre
+vicine e lontane, conosciute e sconosciute. Questa e' evidentemente la
+sala preferita da Redferne.
+~
+79 0 0
+D1
+~
+~
+0 0 7922 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7922
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D2
+~
+~
+0 0 7924 0
+D3
+~
+~
+0 0 7921 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7923
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D0
+~
+~
+0 0 7922 0
+D1
+~
+~
+0 0 7924 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7924
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D2
+~
+~
+0 0 7925 0
+D3
+~
+~
+0 0 7923 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7925
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D0
+~
+~
+0 0 7924 0
+D3
+~
+~
+0 0 7926 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7926
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D1
+~
+~
+0 0 7925 0
+D3
+~
+~
+0 0 7927 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7927
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D1
+~
+~
+0 0 7926 0
+D2
+~
+~
+0 0 7928 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7928
+Il sinuoso corridoio~
+Prosegue il tortuoso corridoio riccamente adornato di  opere davvero
+uniche. Quadri, specchi, antichi mobili ti accompagnano nel tuo cammino.
+
+Ogni tanto un inserviente sbuca da chissa' dove e pulisce uno degli
+oggetti esposti per poi ritornare nel nulla.
+~
+79 0 0
+D0
+~
+~
+0 0 7927 0
+D1
+~
+~
+0 0 7929 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7929
+Il lungo corridoio~
+Da qui inizia un lunghissimo e dritto corridoio. L'ambiente cambia un
+po'. Ora il pavimento non e' piu' tanto luccicante, il velluto alle
+pareti e il tappetto verde lasciano spazio ad una volgare carta oleata
+e al nudo del marmo. I mobili e i quadri sono dimezzati.
+~
+79 0 0
+D2
+~
+~
+0 0 7930 0
+D3
+~
+~
+0 0 7928 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7930
+Il lungo corridoio~
+Il corridoio ti assale con la sua disarmante semplicita'. Non c'e'
+piu' segno di sfarzo e ricchezza ma un vuoto assai poco rassicurante.
+~
+79 0 0
+D0
+~
+~
+0 0 7929 0
+D2
+~
+~
+0 0 7931 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7931
+Il lungo corridoio~
+Il corridoio ti assale con la sua disarmante semplicita'. Non c'e'
+piu' segno di sfarzo e ricchezza ma un vuoto assai poco rassicurante.
+~
+79 0 0
+D0
+~
+~
+0 0 7930 0
+D2
+~
+~
+0 0 7932 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7932
+Il lungo corridoio~
+Il corridoio ti assale con la sua disarmante semplicita'. Non c'e'
+piu' segno di sfarzo e ricchezza ma un vuoto assai poco rassicurante.
+Una stanzetta chisa si apre a ovest. Chissa' cosa contiene.
+~
+79 0 0
+D0
+~
+~
+0 0 7931 0
+D2
+~
+~
+0 0 7934 0
+D3
+~
+~
+0 0 7933 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7933
+La stanza della servitu'~
+Una semplice ma pulita stanzetta. Ingombra di stracci, strofinacci e alcuni
+letti sfatti. Un angolo cucina e un caminetto spendo. Qualcosa da sotto i
+mucchi di cenci si muove freneticamente. Incuriosito aspetti di vedere
+cosa o chi salta fuori.
+~
+79 0 0
+D1
+~
+~
+0 0 7932 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7934
+Il lungo corridoio~
+Il corridoio ti assale con la sua disarmante semplicita'. Non c'e'
+piu' segno di sfarzo e ricchezza ma un vuoto assai poco rassicurantte.
+~
+79 0 0
+D0
+~
+~
+0 0 7932 0
+D2
+~
+~
+0 0 7935 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7935
+Corridoio giallo~
+Ancora una volta l'ambiente cambia faccia. Ora tutto attorno, e' colorato
+di giallo. Dal soffitto al pavimento, dagli oggetti ai quadri. Buffo.
+~
+79 0 0
+D0
+~
+~
+0 0 7934 0
+D1
+~
+~
+0 0 7936 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7936
+Corridoio giallo~
+Ora tutto attorno, e' colorato di giallo.
+Dal soffitto al pavimento, dagli oggetti ai quadri. Buffo.
+~
+79 0 0
+D0
+~
+~
+0 0 7937 0
+D3
+~
+~
+0 0 7935 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7937
+Corridoio giallo~
+Ora tutto attorno, e' colorato di giallo.
+Dal soffitto al pavimento, dagli oggetti ai quadri.
+~
+79 0 0
+D1
+~
+~
+0 0 7938 0
+D2
+~
+~
+0 0 7936 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7938
+Corridoio blu~
+Un finissimo e stranissimo marmo blu innonda questo corridoio.
+Ti senti osservato da qualcuno, ma non riesci a scorgere nessuno.
+~
+79 0 0
+D0
+~
+~
+0 0 7939 0
+D3
+~
+~
+0 0 7937 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7939
+Il corridoio blu~
+Un finissimo e stranissimo marmo blu innonda questo corridoio.
+Ti senti osservato da qualcuno, ma non riesci a scorgere nessuno.
+~
+79 0 0
+D0
+~
+~
+0 0 7940 0
+D2
+~
+~
+0 0 7938 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7940
+Il corridoio blu~
+Un finissimo e stranissimo marmo blu innonda questo corridoio.
+Ti senti osservato da qualcuno, ma non riesci a scorgere nessuno.
+~
+79 0 0
+D0
+~
+~
+0 0 7941 0
+D2
+~
+~
+0 0 7939 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7941
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D0
+~
+~
+0 0 7946 0
+D1
+~
+~
+0 0 7942 0
+D2
+~
+~
+0 0 7940 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7942
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D0
+~
+~
+0 0 7945 0
+D1
+~
+~
+0 0 7943 0
+D3
+~
+~
+0 0 7941 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7943
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D0
+~
+~
+0 0 7944 0
+D3
+~
+~
+0 0 7942 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7944
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D0
+~
+~
+0 0 7949 0
+D2
+~
+~
+0 0 7943 0
+D3
+~
+~
+0 0 7945 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7945
+Sala da ballo~
+Sei al centro della immensa sala da ballo di questa strana casa. Sei in mezzo
+ad un turbinio di danzatori e danzatrici. Li ammiri con stupere, poi alzi lo
+sguardo e rimani incantato dal colossale lambadario che adorna la sala.
+~
+79 0 0
+D0
+~
+~
+0 0 7948 0
+D1
+~
+~
+0 0 7944 0
+D2
+~
+~
+0 0 7942 0
+D3
+~
+~
+0 0 7946 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7946
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D0
+~
+~
+0 0 7947 0
+D1
+~
+~
+0 0 7945 0
+D2
+~
+~
+0 0 7941 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7947
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D1
+~
+~
+0 0 7948 0
+D2
+~
+~
+0 0 7946 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7948
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D1
+~
+~
+0 0 7949 0
+D2
+~
+~
+0 0 7945 0
+D3
+~
+~
+0 0 7947 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7949
+Sala da ballo~
+Un meraviglioso ed enorme salone da ballo si illumina alla tau vista.
+Mai visto nulla del genere. Gli specchi alla parete rendono infinita
+questa gia' immensa stanza. Una sottile musica eccheggia nell'aria
+mentre alcuni strani personaggi danzano a ritmo.
+~
+79 0 0
+D0
+~
+~
+0 0 7950 0
+D2
+~
+~
+0 0 7944 0
+D3
+~
+~
+0 0 7948 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7950
+Il corridoio bianco~
+Rimani quasi abbagliato dal candore di questa stanza. Tutto
+rigorosamente bianco. Soffitto, pavimento, pareti, mobili
+e oggetti vari. Anche alcuni INQUILINI che ti guardano con
+disprezzo. Stai sporcando tutto quello che tocchi.
+~
+79 0 0
+D0
+~
+~
+0 0 7951 0
+D2
+~
+~
+0 0 7949 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7951
+Il corridoio biano~
+Da qui inizia un lungo corridoio sinuoso. Le pareti sono riccamente
+decorate con uno strano velluto blu. Il pavimento in marmo riflette
+perfettamente la tua immagine, menre il tappeto verde che lo ricopre
+ti da la sensazione di camminare su di un prato.
+~
+79 0 0
+D1
+~
+~
+0 0 7952 0
+D2
+~
+~
+0 0 7950 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7952
+Il corridoio bianco~
+Rimani quasi abbagliato dal candore di questa stanza. Tutto
+rigorosamente bianco. Soffitto, pavimento, pareti, mobili
+e oggetti vari. Anche alcuni INQUILINI che ti guardano con
+disprezzo. Stai sporcando tutto quello che tocchi.
+~
+79 0 0
+D2
+~
+~
+0 0 7953 0
+D3
+~
+~
+0 0 7951 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7953
+Il corridoio nero~
+Qui non si vede nulla. Non capisci se e' colpa del buio o del
+colore che nero che assorbe qualsiasi cosa. Ma c'e' qualcosa che
+cammina sul soffitto o e' la tua immaginazione?
+~
+79 0 0
+D0
+~
+~
+0 0 7952 0
+D1
+~
+~
+0 0 7954 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7954
+Il corridoio nero~
+Qui non si vede nulla. Non capisci se e' colpa del buio o del
+colore che nero che assorbe qualsiasi cosa. Ma c'e' qualcosa che
+cammina sul soffitto o e' la tua immaginazione?
+~
+79 0 0
+D2
+~
+~
+0 0 7955 0
+D3
+~
+~
+0 0 7953 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7955
+Il lungo corridoio~
+Qui non si vede nulla. Non capisci se e' colpa del buio o del
+colore che nero che assorbe qualsiasi cosa. Ma c'e' qualcosa che
+cammina sul soffitto o e' la tua immaginazione?
+~
+79 0 0
+D0
+~
+~
+0 0 7954 0
+D2
+~
+~
+0 0 7956 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7956
+Il cancello~
+Opps. Qui cambia decisamente l'ambiente. Basta sfarzo, basta oggetti
+preziosi. Qui le pareti sono intrise di sangue e un tetro e meschino
+cancello ti porta in un luogo decisamente deprimente. Prudenza.
+~
+79 0 0
+D0
+~
+~
+0 0 7955 0
+D2
+~
+~
+0 0 7957 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7957
+Il corridoio della morte~
+Terrore. Questa e' la parola che prima ti viene in mente. Resti di corpi
+umani e non, scheletri, armi ed equipaggiamenti abbandonati qua da chissa'
+quanto tempo. Un brivido ti percorre. Alcune urla ti allertano.
+~
+79 0 0
+D0
+~
+~
+0 0 7956 0
+D2
+~
+~
+0 0 7958 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7958
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D0
+~
+~
+0 0 7957 0
+D1
+~
+~
+0 0 7960 0
+D3
+~
+~
+0 0 7959 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7959
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D1
+~
+~
+0 0 7958 0
+D2
+~
+~
+0 0 7961 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7960
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D2
+~
+~
+0 0 7962 0
+D3
+~
+~
+0 0 7958 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7961
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D0
+~
+~
+0 0 7959 0
+D2
+~
+~
+0 0 7964 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7962
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D0
+~
+~
+0 0 7960 0
+D2
+~
+~
+0 0 7963 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7963
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D0
+~
+~
+0 0 7962 0
+D3
+~
+~
+0 0 7965 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7964
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D0
+~
+~
+0 0 7961 0
+D1
+~
+~
+0 0 7965 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7965
+L'anello della morte~
+Morte e orrore si ripetono all'infinito. Mostri, trabocchetti, persone
+in fin di vita. La liberta', ora piu' che mai, ti sembra un ricordo.
+~
+79 0 0
+D1
+~
+~
+0 0 7963 0
+D2
+~
+~
+0 0 7966 0
+D3
+~
+~
+0 0 7964 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7966
+La sala torture~
+Sei nella piu' terribili delle stanze dell'impero di Redferne. Qui il
+padrone di casa si diverte a torturare i malcapitati. Oggetti da tortura
+di ogni genere sono disposti qui in attesa di essere utilizzati.
+~
+79 0 0
+D0
+~
+~
+0 0 7965 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7970
+Un passaggio fra la boscaglia~
+Un piccolo passaggio fra la boscaglia ti porta in una radura dove vedi una statua e una tomba.
+~
+79 0 0
+D1
+~
+~
+0 0 7900 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

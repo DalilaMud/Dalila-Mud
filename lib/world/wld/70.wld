@@ -1,0 +1,1722 @@
+#7000
+La Fenditura sotto La Sponda~
+   E' una piccola fenditura nella solida roccia. Sotto di te giace una pozza
+scura e profonda. L'acqua gocciola quieta dalla sponda sopra di te. L'acqua
+ha l'odore dell'acqua in una fogna.
+~
+70 13 5
+D4
+~
+~
+0 -1 7070 0
+D5
+Il bordo dell'acqua (Il filo dell'acqua).
+~
+~
+0 -1 7100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7001
+La Fogna Melmosa~
+   Stai nel fango fino alle ginocchia. Questo non e' proprio il posto
+ideale per un picnic. La fogna melmosa prosegue piu lontano verso sud.
+~
+70 9 5
+D2
+Puoi vedere la fogna melmosa proseguire nell'oscurita' verso sud.
+~
+~
+0 -1 7002 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7002
+L'incrocio della Fogna Melmosa~
+   La fogna melmosa prosegue nell'oscurita' verso sud. Sembra che nessuno
+abbia mai messo piede qui prima. E' troppo fangosa per poterlo fare.
+La fogna da qui prosegue a nord, sud ed est.
+~
+70 9 5
+D0
+La fogna melmosa prosegue nell'oscurita' verso nord.
+~
+~
+0 -1 7001 0
+D1
+Est.  La fogna melmosa si piega in una curva verso sud.
+~
+~
+0 -1 7007 0
+D2
+Sud.  La fogna melmosa termina in una pozza di fango.
+~
+~
+0 -1 7003 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7003
+La Pozza di Fango~
+   Sei immerso nel fango fino all'altezza delle cosce e questo non
+e' molto piacevole se sei abituato ad un ambiente diverso. La fogna
+da qui prosegue verso nord. Nel centro puoi notare un enorme tubo di 
+scarico scendere verso il basso.
+~
+70 13 5
+D0
+Nord.  L'incrocio melmoso prosegue in questa direzione.
+~
+~
+0 -1 7002 0
+D5
+Un fangoso tubo di scarico scende in mezzo al fango ancora piu' scuro.
+~
+~
+0 -1 7101 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7004
+La Buia Voragine~
+   Sei sull'ordo di una buia vorgine che scende verso una profonda
+oscurita'. >PUUAAAH!!< - L'odore che viene dal basso e' veramente
+insopportabile. La fogna scende nell'oscurita' verso est.
+~
+70 9 0
+D1
+Est. La fogna si dirige verso l'incrocio fognario.
+~
+~
+0 -1 7009 0
+D5
+La buia voragine scende giu giu e giu ... non riesci piu' a vederne
+la cima. Ci sono delle sbarre ai lati che potrebbero fungere da scala.
+~
+~
+0 -1 7102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7005
+La Fogna Melmosa~
+   Ti trovi al centro della curva del condotto fognario. Intorno a te e'
+davvero molto buio e il fango ti arriva alle cosce, proprio poco piacevole.
+Il condotto prosegue vero est e verso sud.
+
+~
+70 9 4
+D1
+Est. Il fango scende ancora nell'oscurita'.
+~
+~
+0 -1 7011 0
+D2
+Sud. Se possibile in questa direzione c'e' ancor piu' fango di dove ti
+trovi adesso. Incredibile.
+~
+~
+0 -1 7006 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7006
+La Fogna Melmosa~
+   Ti trovi immerso in un qualcosa che ti ricorda una sorta di pappetta,
+l'unico vantaggio e' che non e' calda, anzi in questo momento e' piuttosto
+fredda. Il condotto prosegue a nord e ad est.
+~
+70 9 5
+D0
+Il fangoso condotto fognario si piega in una curva verso est.
+~
+~
+0 -1 7005 0
+D1
+Il condotto si piega in una curva verso sud. Interessante davvero, c'e' 
+fango dappertutto anche qui.
+~
+~
+0 -1 7012 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7007
+La Curva nella Fogna Melmosa~
+   Questo non e' certo un posto dove restare a lungo. Sei immerso fino
+alle ginocchia in qualcosa che assomiglia al fango, ma non ne sei molto
+sicuro. La curva nella quale ti trovi prosegue ad ovest e a sud.
+~
+70 9 5
+D2
+Il condotto scende verso un incrocio che va a sud e ad est. Anche qui il 
+pavimento e' coperto di fango.
+~
+~
+0 -1 7008 0
+D3
+Il condotto (sempre pieno di fango) scende verso un incrocio che va a
+nord e a sud. Interessante.
+~
+~
+0 -1 7002 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7008
+Un Incrocio Fangoso~
+   Hai entrambi i piedi saldamente conficcati nel fango. Non e' il fango il
+problema ma il suo odore, i suoni, la totale oscurita' che ti circonda.
+Tutto qui e' totalmente deprimente. Il condotto prosegue verso nord, est e
+sud con una scia di fango denso.
+~
+70 9 4
+D0
+Nord. Il condotto si piega in una curva le cui parete sono totalmente piene
+di fango. La curva prosegue ad ovest.
+~
+~
+0 -1 7007 0
+D1
+Est. Questo sembra il posto adatto per il festival annuale del fango, ma il
+tanfo che c'e' qui non porta certo allegria. Il condotto prosegue in una
+curva verso nord.
+~
+~
+0 -1 7014 0
+D2
+Sud. C'e' ancora piu' fango in questa direzione. La tua luce illumina
+giusto un piccolo raggio che ti permette di vedere che prosegue verso
+sud verso una specie di incrocio. 
+~
+~
+0 -1 7009 0
+E
+mud~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7009
+L'incrocio fognario~
+   Ti trovi al centro di un immenso incrocio di tubi fognari proprio sotto
+a quella che tu pensi essere una presa d'aria. I tubi delle fogne proseguono
+a nord, sud, est e ovest. Sembra piuttosto impossibile prendere la strada
+verso l'alto. 
+~
+70 9 3
+D0
+Nord. In questa direzione il fango fa da basamento al pavimento. WOW.
+~
+~
+0 -1 7008 0
+D1
+YYYYUUU! QUESTO e' proprio il posto perfetto per 'cose' striscianti.
+~
+~
+0 -1 7017 0
+D2
+Sud. Questa direzione sembra un po' migliore al momento. Il tubo si 
+piega in una curva verso est.
+~
+~
+0 -1 7010 0
+D3
+Alcuni mentri piu avanti -fuori da questo incrocio- c'e' una voragine che
+scende giu ... ma l'odore che da li proviene .... PUUUAAAHH!
+~
+~
+0 -1 7004 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7010
+Una curva nel condotto fognario~
+   Sei in una curva del condotto fognario. Un forte odore proviene da
+nord. Il condotto va a nord e a est.
+~
+70 9 2
+D0
+Nord. Ti trovi in un grande incrocio con uscite in ogni direzione.
+~
+~
+0 -1 7009 0
+D1
+Est. Il tubo prosegue nella piu totale oscurita'.
+~
+~
+0 -1 7018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7011
+Un tubo nella fogna melmosa~
+   Sei entrato in una sorta di incrocio di tubi che vanno a sud, ovest
+ed est. Le tue gambe sono immerse nel fango fino alle cosce. YUUUUU!! 
+~
+70 9 5
+D1
+Est. C'e' meno fango in questa direzione, o e' solo una tua impressione?
+~
+~
+0 -1 7024 0
+D2
+Questa via si perde nell'oscurita', probabilmente intuisci ci sia meno 
+fango in quella direzione, o forse la fine di questa melma che ti
+circonda.
+~
+~
+0 -1 7021 0
+D3
+Ovest. Il fango riempie anche questa via ovunque e fino sui muri.
+~
+~
+0 -1 7005 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7012
+Una Curva nella Fogna Melmosa~
+   Questa non e' certo la tua idea di vacanza! Sei sommerso nel fango fino 
+alle cosce. Non riesci proprio a capire come tutto questo fango sia arrivato
+fino a qui. La tubatura prosegue a ovest e a sud.
+~
+70 9 5
+D2
+Sud. C'e' ancora piu' fango qui, incredibile! Comunque sembra esserci
+un incrocio nel sistema fognario che va verso est e sud.
+~
+~
+0 -1 7013 0
+D3
+Ovest. Tutto quello che puoi vedere e' che il condotto prosegue in una
+curva che gira a nord. Ma c'e' tanto di quel fango e strani rumori in
+quella direzione!
+~
+~
+0 -1 7006 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7013
+Un Incrocio Melmoso~
+   Non vuoi proprio sapere cosa si provi ad essere immersi in questo fango
+fino alla vita! BBBRRRRR. L'unica cosa che mantiene sana la tua mente adesso
+e' il miraggio di un bagno caldo. Lo sai che il fango non e' molto pulito no?
+Ricordati che sei in una fogna! La tubatura prosegue a nord, sud ed est.
+~
+70 9 5
+D0
+Nord. Melma e sedimenti riempiono questo corridoio che prosegue in una
+curva verso ovest.
+~
+~
+0 -1 7012 0
+D1
+Est. Non viene niente di speciale in questa direzione (probabilmente 
+proprio per questo e' cosi' dannatamente interessante ...) Non c'e' fango 
+da questa parte, GRANDE!
+~
+~
+0 -1 7026 0
+D2
+Sud. Tutto quello che puoi vedere e' ancora fango! Il condotto gira in 
+una curva verso ovest.
+~
+~
+0 -1 7014 0
+E
+sedimenti~
+Questo non e' quel tipo di cosa che tu generalmente consideri molto, ma
+visto che ci sei proprio nel mezzo, probabilmente e' giunto il momento
+di considerarlo! BBBLLLEAAAHHH!
+~
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7014
+La Fogna Melmosa~
+   Ti trovi in una curva delle condotture del sistema fognario con il fango
+che ti arriva alle cosce. Star qui a far considerazioni su un piu' elevato
+stato dell'esistenza sarebbe totalmente inappropriato, poiche' il tanfo che
+senti indurrebbe qualsiasi creatura intelligente a pensare a come uscire da
+questa fogna. La curva va da nord a ovest.
+
+~
+70 9 5
+D0
+Nord. Pieno di fango, questo posto pare un incrocio insuperabile con le
+tubatura che vanno verso nord ed est.
+~
+~
+0 -1 7013 0
+D3
+Ovest. C'e' un po' meno fango in questa direzione, forse sei sulla strada 
+giusta per uscire di qui!
+~
+~
+0 -1 7008 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7015
+Il Vecchio Pozzo~
+   Sei vicino ad un pozzo vecchio di secoli. Il condotto da qui prosegue
+verso est e il pozzo scende giu nell'oscurita'. Ci sono delle sbarre di
+metallo infisse ai lati del pozzo che scendono come fossero una scaletta.
+~
+70 9 3
+D1
+Est. A causa della totale oscurita' che ti circonda, non vedi assolutamente
+nulla. La tua luce non e' sufficiente per tale distanza.
+~
+~
+0 -1 7028 0
+D5
+Giu' nel pozzo c'e' ancora meno luce che su, e quindi ... spiacente ... ma
+non ci vedi proprio niente! Ci sono della barre metalliche ai lati che
+scendono nell'oscurita'.
+~
+~
+0 -1 7105 0
+E
+barre~
+Sembrano essere piuttosto scivolse e non molto sicure, ma forse abbastanza
+sicure per scendere, tenendoti ad esse con ENTRAMBE le mani!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7016
+Una Curva Comune~
+   Sei nel centro di una curva nelle condotture del sistema fognario, ma
+CHE BEL posto!!! Il condotto prosegue a sud e ad est.
+~
+70 9 1
+D1
+Est.  Ma che posticino tranquillo hai trovato qui... E' un incrocio da cui le
+condotture si dirigono verso nord e verso est.
+~
+~
+0 -1 7021 0
+D2
+Sud. E' troppo buio, non vedi assolutamente niente in questa direzione.
+~
+~
+0 -1 7017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7017
+L'incrocio fognario~
+   Sei in un incrocio che porta a nord, ovest e sud.
+~
+70 9 1
+D0
+Nord. Vedi una curva.
+~
+~
+0 -1 7016 0
+D2
+Sud. Sembra pure questo un incrocio di condotti. Solo che questo va
+verso est e ovest.
+~
+~
+0 -1 7018 0
+D3
+Ovest. Puoi vedere un incrocio con quattro condotti.
+~
+~
+0 -1 7009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7018
+Un Normale Incrocio~
+   Sembra proprio un normale incrocio e in questo momento sembra tutto
+tranquillo qui. I condotti proseguono a ovest, est e nord.
+~
+70 13 1
+D0
+Verso nord puoi vedere un incrocio come questo che prosegue a nord ed ovest.
+~
+~
+0 -1 7017 0
+D1
+Verso est non c'e' niente di particolarmente interessante, vedi solo 
+un incrocio di condotti che vanno verso nord ed est.
+~
+~
+0 -1 7031 0
+D3
+C'e' una curva a ovest che prosegue verso nord.
+~
+~
+0 -1 7010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7021
+Un Incrocio Tranquillo~
+   Questo e' un posto dove restare, anche se l'odore dovrebbe essere
+un pochino migliore di questo ... Il condotto va ad est, nord e ovest.
+~
+70 13 1
+D0
+Non puoi vedere niente in questa direzione. E' troppo buio.
+~
+~
+0 -1 7011 0
+D1
+C'e' un normale incrocio nel sistema fognario verso est.
+~
+~
+0 -1 7029 0
+D3
+Ovest. In questa direzione vedi una normale curva del sistema fognario
+che prosegue a sud.
+~
+~
+0 -1 7016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7022
+Una Strana Stanza dalle Pareti Lisce~
+   Appena entri senti un preoccupante 'click' provenire dalle pareti ... e
+tu cadi, cadi e cadi ...
+.
+.
+.
+.
+... E giungi improvvisamente al termine. Questo si che e' strano. C'e' una
+entrata ad arco verso il basso.
+~
+70 9 5
+D5
+Giu. Questa via e' ancor piu buia, ma puoi scorgere un incrocio del sistema
+fognario dirigersi verso ovest, nord ed est.
+~
+~
+0 -1 7112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7024
+La Fogna~
+   Il fango ti arriva alle caviglie. Questo e' un incrocio da cui i condotti
+si dirigono verso est, sud e ovest.
+~
+70 13 1
+D1
+Verso est c'e' una strana stanza circolare.
+~
+~
+0 -1 7037 0
+D2
+A sud c'e' un altro incrocio da cui le condutture si dirigono a sud e est.
+~
+~
+0 -1 7025 0
+D3
+A ovest c'e' un altro incrocio come questo, con i condotti fognari che
+proseguono verso sud ed ovest.
+~
+~
+0 -1 7011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7025
+Un Altro Incrocio~
+   Non hai mai visto niente di cosi' NOIOSO ... C'e' un incrocio da cui le
+condutture si dirigono verso nord, sud ed est.
+~
+70 9 1
+D0
+A nord c'e' un incrocio da cui le condutture proseguono verso ovest ed est.
+Noti che il pavimento verso ovest e ricoperto di fango.
+~
+~
+0 -1 7024 0
+D1
+Est. Non vedi niente di interessante in questa direzione, giusto un
+altro incrocio. Quest'incrocio prosegue verso est e sud.
+~
+~
+0 -1 7038 0
+D2
+Un altro incrocio si trova a sud. Questo prosegue a ovest e sud.
+~
+~
+0 -1 7026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7026
+Un incrocio~
+   Questo incrocio parrebbe interessante, e' molto differente dagli altri e 
+sembra anche piu' pulito degli altri. Magico! Qualcosa che sembra essere una
+presa d'aria sta in alto, ma e' troppo lontana per salirci.
+I condotti proseguono a sud, ovest e nord.
+~
+70 13 0
+D0
+Nord. Qui vedi un incrocio che prosegue verso nord ed est.
+~
+~
+0 -1 7025 0
+D2
+A sud c'e' UN ALTRO incrocio che prosegue verso ovest ed est.
+~
+~
+0 -1 7028 0
+D3
+Verso ovest vedi un cumulo di fango e sedimenti nel condotto. Dovrebbe 
+esserci un incrocio qui ma non ne sei molto sicuro.
+~
+~
+0 -1 7013 0
+E
+fango~
+E' cosi' scuro e catramoso che sembra uscito da un gabinetto, la
+sua superficie emana un odore veramente opprimente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7028
+Un Incrocio Fognario~
+   Ti trovi in un incrocio di condotti fognari che proseguono verso
+nord, est e ovest.
+~
+70 9 1
+D0
+~
+~
+0 -1 7026 0
+D1
+Verso est vedi una curva del condotto che va verso sud.
+~
+~
+0 -1 7034 0
+D3
+A ovest puoi scorgere un vecchio pozzo.
+~
+~
+0 -1 7015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7029
+L'Incrocio Triplo~
+    Sei nel centro di un grande incrocio di condutture in calcestruzzo. Le
+condutture si dirigono in tre differenti direzioni: est, sud e ovest.
+~
+70 9 1
+D1
+Est. Vedi una curva nel condotto fognario che va verso nord.
+~
+~
+0 -1 7035 0
+D2
+A sud c'e' un ENORME incrocio quadruplo che doveva essere illuminato da
+una strana luce.
+~
+~
+0 -1 7030 0
+D3
+A ovest puoi scorgere un altro incrocio simile a quello in cui ti trovi
+adesso.
+~
+~
+0 -1 7021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7030
+L'Incrocio Quadruplo sotto lo Scarico~
+   Sei in un luogo che ti ricorda l'ingresso ad un formicaio. Ci sono enormi
+condutture in calcestruzzo che vanno a nord, sud, est e ovest. C'e' anche una
+scala metallica al muro che sale su attraverso uno strato di immondizia.  
+~
+70 13 1
+D0
+A nord puoi vedere un grande incrocio triplo da cui le condutture vanno
+verso est e ovest.
+~
+~
+0 -1 7029 0
+D1
+Est. Puoi vedere una fossa nel pavimento.
+~
+~
+0 -1 7036 0
+D2
+A sud c'e' un grande incrocio da cui i condotti si dirigono a est e 
+ovest.
+~
+~
+0 -1 7031 0
+D3
+A ovest scorgi una strana stanza dalle pareti completamente lisce.
+~
+~
+0 -1 7022 0
+D4
+Sopra l'immondizia puoi scorgere quel che sembra essere uno scarico della
+citta' di Deira.
+~
+~
+2 3005 1504501 9
+E
+scala~
+Sembra essere fatta di acciaio inossidabile, e potrebbe funzionare quasi
+come una mazza dal potere considerevole ... ma non puoi afferrarla 
+perche' e' saldamente conficcata nella parete.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7031
+Un Incrocio Triplo~
+   Sei ad un incrocio da cui le tubature si dipartono verso ovest,
+nord ed est.
+~
+70 9 1
+D0
+A nord c'e' un ENORME incrocio quadruplo, illuminato da una strana luce.
+~
+~
+0 -1 7030 0
+D1
+Est.  Puoi scorgere un incrocio triplo che prosegue verso nord ed est.
+~
+~
+0 -1 7044 0
+D3
+Ovest.  Puoi scorgere un incrocio triplo che prosegue verso nord ed ovest.
+~
+~
+0 -1 7018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7034
+Una Curva nel Sistema Fognario~
+   Puoi guardare nelle due direzioni verso cui si dirigono le tubature:
+sud e ovest.
+~
+70 9 2
+D2
+Verso sud puoi vedere un'altra curva dirigersi ad ovest.
+~
+~
+0 -1 7035 0
+D3
+Ovest.  Puoi scorgere un incrocio triplo proseguire verso nord e ovest.
+~
+~
+0 -1 7028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7035
+Una Curva nel Condotto~
+   Puoi guardare nelle due direzioni verso cui si dirigono le tubature:
+ovest e nord.
+~
+70 9 2
+D0
+Nord.  Vedi un'altra curva proseguire verso ovest.
+~
+~
+0 -1 7034 0
+D3
+Vedi un altro incrocio ma questo e' triplo con tubature che vanno verso
+sud e ovest.
+~
+~
+0 -1 7029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7036
+La Voragine~
+   Ti trovi nella sezione di un condotto a vicolo cieco. Sul pavimento c'e'
+una voragine che scende giu. Ci sono delle sbarre conficcate ai sui lati 
+che potrebbero fungere da scala.
+~
+70 9 5
+D3
+Ovest.  Puoi vedere un quadruplo incrocio debolmente illuminato con
+un'uscita verso l'alto.
+~
+~
+0 -1 7030 0
+D5
+Giu nella voragine e' talmente buio che non riesci a vedere nulla.
+~
+~
+0 -1 7122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7037
+La Stanza Circolare~
+   Appena entri nella stanza essa comincia a ruotare - all'inzio
+lentamente, poi sempre piu' velocemente. Sei veramente confuso: non capisci
+dove sia il basso e dove l'alto, ma sei assolutamente certo che l'entrata e'
+dalla parte opposta dalla quale sei passato tu. E ora si trova ad est.
+C'e' solo questa uscita.
+~
+70 9 1
+D1
+Puoi scorgere una stanza piu' piccola con una sedia.
+~
+~
+0 -1 7050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7038
+Un Incrocio a Tre uscite~
+   Sei ad un incrocio di tubi che vanno ad ovest, est e sud.
+~
+70 9 1
+D1
+Est.  Puoi scorgere la Stanza della Guardia debolmente illuminata.
+~
+~
+0 -1 7045 0
+D2
+A sud puoi vedere quello che sembra essere un magazzino.
+~
+~
+0 -1 7039 0
+D3
+Ovest.  Vedi un altro incrocio simile a questo ma che prosegue verso nord
+e sud.
+~
+~
+0 -1 7025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7039
+Il Magazzino nelle Fogne~
+   Sei in una piccola stanza appena illuminata da un'unica torcia infissa nel
+muro. L'unica via d'uscita e' a nord.
+~
+70 8 1
+D0
+A nord puoi vedere un incrocio di tubature.
+~
+~
+0 -1 7038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7041
+Lo Sfiatatoio~
+   Sei sul bordo di un nero e scuro sfiatatoio che va verso il basso. Una
+unica scala e' il tuo mezzo per scendere giu se proprio lo vuoi. Il condotto
+prosegue da qui verso sud.
+~
+70 9 1
+D2
+A sud puoi vedere il condotto proseguire ancora a sud nell'oscurita'.
+~
+~
+0 -1 7043 0
+D5
+Su e giu solo oscurita'. Non c'e' assolutamente niente da vedere in questa
+direzione.
+~
+~
+0 -1 7123 0
+E
+scala~
+Saldamente conficcata nel muro, ti rendi conto che e' assolutamente impossibile
+smuoverla.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7043
+L'Ingresso alla Fogna~
+   Sei al centro di un condotto che va da nord a sud. Sopra di te una presa
+d'aria che si apre verso l'esterno. Ma vedi che e' assolutamente impossibile 
+salire da qui.
+~
+70 9 1
+D0
+A nord puoi scorgere un enorme sfiatatoio scendere verso il basso.
+~
+~
+0 -1 7041 0
+D2
+A sud puoi vedere un incrocio triplo che prosegue verso ovest ed est.
+~
+~
+0 -1 7044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7044
+L'Incrocio che va in Tre Direzioni~
+   Sei in un corridoio fra le condutture del sistema fognario che va a
+nord, est ed ovest.
+~
+70 9 1
+D0
+Vedi un condotto fognario proseguire a nord.
+~
+~
+0 -1 7043 0
+D1
+~
+~
+0 -1 7049 0
+D3
+Ovest. Vedi un altro incrocio molto simile a quello in cui ti trovi adesso.
+Prosegue a nord e ad ovest.
+~
+~
+0 -1 7031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7045
+La Stanza nella Fogna~
+   Sei in una grande stanza con alcune sedie fissate alle pareti. Hai la
+sensazione di essere osservato. A sud c'e' l'ingresso ad una stanza piu'
+grande. La stanza e' illuminata da cinque torce, anch'esse infisse nella
+parete. A ovest c'e' un passaggio che porta verso le condutture.
+~
+70 8 1
+D2
+Vedi una stanza ancor piu grande di questa, piena di luce.
+~
+~
+0 -1 7046 0
+D3
+A ovest puoi vedere le fogne.
+~
+~
+2 -1 7038 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7046
+Una Stanza nelle Fogne~
+   In questa Stanza le pareti luccicano quasi come oro ma non proprio come
+oro. E' strano, ma sembra che questo luccichio illumini tutta la stanza.
+E' davvero splendente. Verso sud il pavimento è coperto da un'acquetta 
+disgustosa. A nord scorgi una specie di stanza di guardia.
+~
+70 8 1
+D0
+A nord puoi vedere la stanza di guardia.
+~
+~
+0 -1 7045 0
+D2
+A sud non c'e' nient'altro che acqua e scorgi un'uscita verso est.
+~
+~
+0 -1 7047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7047
+La Pozza nelle Fogne~
+   Stai nell'acqua fino alla vita. A nord c'e' l'entrata a questa stanza.
+Una porta si trova ad est.
+~
+70 8 1
+D0
+A nord puoi vedere l'entrata a questa stanza.
+~
+~
+0 -1 7046 0
+D1
+Puoi scorgere un'enorme sala al di la della porta.
+~
+porta~
+1 -1 7053 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7048
+Le Fogne~
+   Sei in un vicolo cieco. L'unica via d'uscita e' verso sud. Puoi
+scorgere uno sfiatatoio che va verso l'alto ma ti sembra troppo 
+difficile salire da quella parte.
+~
+70 9 1
+D2
+~
+~
+0 -1 7049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7049
+L'Incrocio~
+   Sei in un incrocio che va a nord, ovest ed est.
+~
+70 9 1
+D0
+~
+~
+0 -1 7048 0
+D1
+Questa parte del sistema fognario e' completamento celata dall'oscurita'.
+Non riesci a vedere assolutamente niente in quella direzione.
+~
+~
+0 -1 7060 0
+D3
+Ovest.  Vedi un altro incrocio molto simile a quello in cui ti trovi.
+Prosegue a nord ed ovest.
+~
+~
+0 -1 7044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7050
+Una Piccola Stanzina~
+  L'unica cosa interessante in questa stanzetta e' una sedia che sembra 
+quasi essere inghiottita dal pavimento di roccia. Un'ingresso si trova
+a sud ed un altro ad est verso l'oscurita'.
+~
+70 9 1
+D1
+E' buio pesto...
+~
+~
+0 -1 7055 0
+D2
+Vedi una stanza con parecchie luci. Non puoi scorgere alcun dettaglio.
+~
+~
+0 -1 7051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7051
+Il Condotto Fognario~
+   Sei in un luogo che ti rammenta una fogna puzzolente: pare ti piaccia
+stare qui! Vedi due uscite verso nord e verso sud.
+~
+70 8 1
+D0
+~
+~
+0 -1 7050 0
+D2
+Noti che da sud rifluisce una strana luce ...
+~
+~
+0 -1 7052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7052
+La Grande Fogna~
+   Sei in un grande condotto. Questo si allunga verso sud. E' veramente 
+grande! Un passaggio porta verso est.
+~
+70 8 1
+D0
+A nord puoi vedere un passaggio.
+~
+~
+0 -1 7051 0
+D1
+Non vedi niente in tutta questa oscurita'.
+~
+~
+0 -1 7056 0
+D2
+Il "pavimento" della fine del condotto verso sud e' coperto d'acqua.
+~
+~
+0 -1 7053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7053
+La Fine Sud del Grande Condotto~
+   Sei immerso nell'acqua fino alle ginocchia. Un passaggio si dirige verso
+ovest. Il condotto prosegue a nord.
+~
+70 8 1
+D0
+Vedi parecchie immagini che decorano le pareti.
+~
+~
+0 -1 7052 0
+D3
+~
+porta~
+1 -1 7047 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7055
+Il Bordo del Condotto dell'Acqua~
+   Sei in una stanza il cui pavimento e' per meta' coperto d'acqua.
+L'acqua va verso est e un passaggio porta ad ovest.
+~
+70 9 3
+D1
+A malapena puoi capire che il prossimo posto in cui ti troverai sara' un
+condotto con ancor piu' acqua ...
+~
+~
+0 -1 7061 0
+D3
+~
+~
+0 -1 7050 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo. 
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7056
+Il Corridoio Buio~
+   Non puoi vedere piu' di cosi', neanche con una luce. Il corridoio porta
+ad un passaggio verso sud. Un passaggio si trova ad ovest.
+~
+70 9 1
+D2
+Non vedi assolutamente niente in questa direzione ... e' troppo buio.
+~
+~
+0 -1 7057 0
+D3
+Vedi molte luci, splendenti come la luce del giorno, ma niente di
+interessante.
+~
+~
+0 -1 7052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7057
+Il Tunnel Scuro~
+   Non vedi assolutamente niente tranne il pavimento ai tuoi piedi. Il
+tunnel sembra continuare a sud e nord.
+~
+70 9 1
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7056 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7058
+Il Tunnel Scuro~
+   Non vedi assolutamente niente tranne il pavimento ai tuoi piedi. Il
+tunnel sembra continuare a sud e nord.
+~
+70 9 1
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7057 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7059
+Il Tunnel Scuro~
+   Non vedi assolutamente niente tranne il pavimento ai tuoi piedi. Il
+tunnel sembra continuare a sud e nord.
+~
+70 9 1
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7058 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7060 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7060
+Il Tunnel Scuro~
+   Non vedi assolutamente niente tranne il pavimento ai tuoi piedi. 
+Il tunnel sembra continuare a ovest e a nord. A est il pavimento e'  
+coperto d'acqua e questa scorre attraverso un'arcata verso un canale 
+acquitrinoso.
+~
+70 9 1
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7059 0
+D1
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7068 0
+D3
+Scorgi un incrocio triplo che prosegue verso nord e ovest.
+~
+~
+0 -1 7049 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7061
+Una Curva nel Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue a sud e ovest.
+~
+70 9 5
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+
+~
+~
+0 -1 7062 0
+D3
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7055 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7062
+Il Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue a sud e nord.
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7061 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7063 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7063
+Il Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue a sud e nord.
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7062 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7064 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7064
+L'Incrocio del Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue verso un incrocio da cui si dipartono condotti verso sud,
+nord e est.
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7063 0
+D1
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7069 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7065 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7065
+Il Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue a sud e nord.
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7064 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7066 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7066
+L'incrocio del Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue verso un incrocio da cui si dipartono condotti verso nord, 
+sud ed est.
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7065 0
+D1
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7070 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7067 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7067
+Il Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue a sud e nord.
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7066 0
+D2
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7068 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7068
+Una Curva del Condotto Acquitrinoso~
+   Non vedi assolutamente nulla tranne l'acqua che ti arriva alla vita. Il
+condotto prosegue verso un incrocio da cui si dipartono condotti verso nord
+e ovest.
+   
+~
+70 9 5
+D0
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7067 0
+D3
+Non vedi assolutamente niente in questa direzione e la tua luce non e' 
+abbastanza forte per questa oscurita'.
+~
+~
+0 -1 7060 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7069
+La Sponda di una Pozza Scura~
+  Qui puoi vedere molto meglio ma l'eco ti avverte che sei vicino ad un
+precipizio. Nell'oscurita' riesci a distinguere una grande pozza scura, 
+soprattutto dallo sgocciolio dell'acqua. L'acqua fuoriesce dal condotto
+sopra questa sponda e la rende piuttosto scivolosa. Da qui cade giu, come
+una cascata, nella pozza sottostante.  
+~
+70 9 5
+D2
+Non vedi niente. E' troppo buio ...
+~
+~
+0 -1 7070 0
+D3
+Non vedi niente. E' troppo buio ...
+~
+~
+0 -1 7064 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7070
+La Sponda di una Pozza Scura~
+  Qui puoi vedere molto meglio ma l'eco ti avverte che sei vicino ad un
+precipizio. Nell'oscurita' riesci a distinguere una grande pozza scura, 
+soprattutto dallo sgocciolio dell'acqua. L'acqua fuoriesce dal condotto
+sopra questa sponda e la rende piuttosto scivolosa. Da qui cade giu, come
+una cascata, nella pozza sottostante. Sotto di te c'e' una piccola fenditura 
+nella roccia. Questa sembra abbastanza grande da poter contenere alcune
+persone.
+~
+70 9 5
+D0
+Non vedi niente. E' troppo buio ...
+~
+~
+0 -1 7069 0
+D3
+Non vedi niente. E' troppo buio ...
+~
+~
+0 -1 7066 0
+D5
+~
+~
+0 -1 7000 0
+E
+acqua~
+E' scura e densa ed emana un puzzo nauseabondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7071
+&b&7L'Ingresso della &b&3Luce Di Silue&0~
+&d&7Questo enorme &b&7salone di ingresso&d&7 e illuminato da cosi 
+tante finestre che non riesci a contarle tutte. La vetrata che da sulla 
+facciata della costruzione filtra i &b&3raggi solari&d&7 proiettando 
+mille colori sul pavimento. Guardandoti attorno scorgi Statue che 
+rappresentano &b&6angeli&d&7 ed &b&6esseri divini&d&7 ammantati di luce.
+Alle pareti sono appesi dipinti che rappresentano 
+la &b&3Dama Silue&d&7 cosi come se la immaginano gli artisti 
+&0Sendariani&d&7, avvolta in uno splendente manto di &b&3Luce&d&7. Il pavimento 
+e ricoperto con i tappeti piu belli, fatti arrivare appositamente dai 
+luoghi piu lontani e alzando lo sguardo noti delle parole incise in 
+oro sulla parete innanzi a te: &b&4La Luce Sia Con Te, Ospite Della 
+Dama&d&7.&0
+~
+70 28 0
+D0
+~
+~
+0 0 6765 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 7072 0
+D4
+~
+~
+0 0 7076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7072
+&b&7Il Tempio Della Luce&0~
+&d&7Appena entri nel &b&7Tempio di Silue&d&7 la tua testa comincia a 
+girare, mai i tuoi occhi avevano visto una costruzione cosi' spettacolare 
+costruita da esseri umani: il soffitto e decorato con cassettoni 
+d'&d&3oro&d&7 massiccio e intarsiato nei fregi piu fini e spingendo il tuo 
+sguardo fino al fondo della lunghissima navata sei abbagliato dalla 
+&b&3luce&d&7 proiettata dal rosone che rappresenta la &b&3Dea Silue&d&7 in 
+tutto il suo splendore. I lati della navata centrale ospitano le navate 
+laterali, decorate con dipinti e affreschi dei migliori artisti di 
+tutta la &d&3Daresia&d&7 e il pavimento e impreziosito da rifiniture in 
+&d&3oro&d&7 e &b&7argento&d&7 che risplendono alla &b&3luce del sole&d&7 
+e porgono ai tuoi occhi uno spettacolo unico rilucendo della luce 
+lunare. Quando termini il tuo cammino ti trovi di fronte il gigantesco 
+altare consacrato alla Dama Silue, le parole scritte in &d&3oro&d&7 su di 
+esso recitano: &d&3La Luce Di Silue Illumini Il Tuo Cammino&d&7.&0
+~
+70 0 0
+D0
+~
+~
+0 0 7071 0
+D2
+Una porta di legno.
+~
+porta~
+1 191256 7073 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7073
+&d&7Il Quartier Generale Dell'&b&7Ordine &d&7Dei &b&1Paladini&0~
+&d&7Limmenso salone in cui ti trovi ha un aspetto molto diverso 
+dallingresso, e  molto piu austero, sebbene sia decorato con scudi e armi 
+appese alle pareti recanti leffige dell' &b&7Ordine&d&7 dei
+&b&1Paladini&d&7. Un grande dipinto attira la tua attenzione, in alto al centro 
+della parete che ti sta di fronte, sono raffigurati in questo quadro i
+primi &b&1Paladini&d&7 dell'&b&7Ordine&d&7: vedi &b&7Alhandir&d&7,
+&b&7Lain&d&7,&b&7 Storm&d&7, &b&7Esmeralda&d&7, &b&7Bridge&d&7, 
+&b&7Alcamara&d&7, &b&7Danvon&d&7, &b&7Shiver&d&7, &b&7Variant&d&7, &b&7Kolderas&d&7, 
+&b&7Cry &d&7e &b&7Bondersai&d&7. Uniscrizione sopra il dipinto recita: 
+&b&3Semper Propugnatores!&d&7  Al centro del salone troneggia una 
+grande tavola rotonda decorata con la croce &b&1rossa&d&7 e &b&7bianca 
+&d&7dei &b&1Paladini&7.&0
+~
+70 2560 0
+D0
+Una porta di legno.
+~
+porta~
+1 191256 7072 167
+D1
+~
+~
+0 0 7075 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 41022 0
+D3
+~
+~
+0 0 7074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7074
+&d&7Il Deposito Dell'&b&7Ordine &d&7Dei &b&1Paladini&0~
+&d&7In questa sala vedi appese alle pareti tante armi, armature e scudi 
+quante raramente ne avevi mai viste, vedi appoggiati al muro scaffali 
+pieni di oggetti, ampolle e pozioni. Sul pavimento sono state posate 
+diverse casse che traboccano degli oggetti piu stravaganti e sopra di te 
+sono appesi stendardi rossi e bianchi decorati con la 
+&b&1{&b&7P&b&1}&d&7 dell'&b&7Ordine&d&7.&0
+~
+70 2560 0
+D1
+~
+~
+0 0 7073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7075
+&b&7Le Stanze Di &b&4Alhandir&0~
+&d&7Questa grande sala ti appare subito molto accogliente, la &d&1brace 
+&d&7arde nel camino davanti a te e &d&3tappeti&d&7 di diverse misure e
+colori coprono il pavimento. Accostati ai muri sono disposti quattro 
+divani e una scrivania e collocata in un angolo. Sulle pareti vedi 
+cinque stemmi araldici raffiguranti lo stemma della famiglia 
+&b&2Rehelay&d&7, l'&b&4Ordine &d&7di &0Gaia&d&7, L'&b&7Ordine &d&7dei 
+&b&1Paladini&d&7, I &b&7Cavalieri &b&4Primi &d&7e al centro l'effige della &b&3Dama  
+Silue&d&7. Vedi due &d&3armature&d&7 accanto alla porta dalla quale entri 
+che risplendono d'&d&3oro&d&7 e d'&b&7argento&d&7 e due &d&3spade&d&7 
+incastonate di &b&4pietre preziose&d&7 sono incrociate sopra il camino.
+~
+70 2560 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 41002 0
+D3
+~
+~
+0 0 7073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7076
+&7La Torre Dell'&b&3Alba&0~
+&d&7Le scale che portano alla cima della torre sono &b&3illuminate&d&7
+da minuscole finestre che tempestano i muri come &b&6diamanti&d&7 e 
+&d&1torce&d&7 appese ai lati dei gradini. Mano a mano che sali la 
+&b&3luce&d&7 diventa piu' forte e ti pare di scorgere qualcosa di strano alla 
+fine della gradinata&0
+~
+70 0 0
+D4
+~
+~
+0 0 7077 0
+D5
+~
+~
+0 0 7071 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7077
+&b&3La Cima Della Torre&0~
+&d&7Ti accorgi che la tua vista non ti ingannava: la &b&7cima della 
+torre&d&7 e' piena di &b&2alberi verdeggianti&d&7! Sembrerebbe di essere 
+in un &0giardino&d&7 piuttosto che su una torre, almeno tre o quattro 
+tipi di &0piante&d&7 diverse ti circondano e scorgi cespugli di rose 
+&b&7bianche&d&7 e &b&1rosse&d&7 intorno a te. Al centro dello spiazzo c'e'
+un tavolo di &d&3legno&d&7 con quattro panche intorno e in un angolo 
+vedi lasta della bandiera che reca leffige della &b&3Dama&d&7: un 
+&b&7Globo di Luce&d&7 sormontato dalla &b&7figura splendente &d&7della 
+&b&7Dama Silue&d&7.&0
+~
+70 0 0
+D5
+~
+~
+0 0 7076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

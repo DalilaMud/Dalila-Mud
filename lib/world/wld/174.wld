@@ -1,0 +1,2149 @@
+#17400
+Ingresso alla valle~
+   Questa e' la strada che porta alla Valle Maledetta. Il tempo sembra fermarsi
+mentre muovi un passo dopo l'altro. Qui un cupo silenzio copre ogni altro
+rumore e lo scricchiolio della tua armatura aumenta di intensita' fino a
+spostarsi nella tua mente. Non smette, ti stringi la testa tra le mani ma
+il tintinnio persiste e diventa sempre piu' forte e doloroso. Stai impazzendo,
+devi tornare indietro verso la vita. Su un'asse di legno semibruciata vedi un
+MESSAGGIO scritto col sangue.
+~
+174 165 3
+D0
+La cancellata e' fatta di ossa e teschi infilati sopra paletti appuntiti.
+Alcune teste sono ancora in uno stato di putrefazione e il puzzo che emanano
+tiene lontano la maggior parte dei curiosi.
+~
+cancellata~
+1 -1 17401 1
+E
+messaggio~
+Maledetto chi osa violare il silenzio degli spiriti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17401
+Una stradina~
+   Qui le fronde degli alberi formano una cupola che impedisce ai raggi del
+sole di illuminare il percorso. Verso nord entri in un vero e proprio tunnel
+buio. Qui l'aria e' densa e pesante. All'improvviso ti compare davanti un uomo
+scalzo e con un libro in mano. Urla verso di te parole sacrileghe e ti intima
+di non continuare.
+~
+174 1 3
+D0
+~
+~
+0 -1 17402 0
+D2
+La cancellata e' fatta di ossa e teschi infilati sopra paletti appuntiti.
+Alcune teste sono ancora in uno stato di putrefazione e il puzzo che emanano
+tiene lontano la maggior parte dei curiosi.
+~
+cancellata~
+1 -1 17400 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17402
+Una stradina~
+   La vegetazione si sta trasformando. Verso sud la foresta e' verde e viva.
+Verso nord assume toni opachi e sembra invecchiata. Un'atmosfera triste
+pervade l'ambiente ed hai la sensazione di essere osservato.
+~
+174 5 3
+D0
+Vedi un incrocio con un cartello segnaletico al centro.~
+~
+0 -1 17403 0
+D2
+~
+cancellata~
+0 -1 17401 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17403
+Un incrocio~
+   Giungi in una radura soleggiata. Strano. Qui sembra essere tornati alla vita
+normale. Dev'essere una zona benedetta dagli Dei. Conficcato nel terreno, un
+CARTELLO con delle frecce indica alcune direzioni. Da questo punto si diramano
+3 sentieri a parte la stradina che porta verso sud.
+~
+174 4 3
+D0
+~
+~
+0 -1 17412 0
+D1
+~
+~
+0 -1 17410 0
+D2
+~
+cancellata~
+0 -1 17402 0
+D3
+~
+~
+0 -1 17404 0
+E
+cartello~
+Feudo di Sir Teinko ad EST, Collina dei Golem a WEST, Villaggio zingaro a
+NORD, Salvezza a SUD.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17404
+Il rigagnolo~
+   La foresta e' cosi' fitta e buia che ti trovi a camminare nell'acqua senza
+accorgetene. Per fortuna non sembra essere profonda. Si tratta di un piccolo
+rigagnolo che sparisce verso nord e continua verso ovest. L'acqua e' putrida
+ed emana un odore di morte.
+~
+174 1 3
+D1
+Vedi un incrocio con un cartello segnaletico al centro.~
+~
+0 -1 17403 0
+D3
+~
+~
+0 -1 17405 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17405
+Il rigagnolo~
+   Prosegui lungo il fiumiciattolo anche se ormai l'acqua ti arriva alla
+cinta. Strani vapori condensano l'aria riducendo la gia' scarsa visibilita'.
+Il rigagnolo continua sia verso est che verso ovest. A nord si apre una pista
+poco battuta mentre a sud comincia un sentiero lastricato.
+~
+174 1 3
+D0
+~
+~
+0 -1 17424 0
+D1
+Vedi il rigagnolo che si allontana e una radura in lontananza.~
+~
+0 -1 17404 0
+D2
+~
+~
+0 -1 17407 0
+D3
+~
+~
+0 -1 17406 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17406
+Sabbia~
+   ARRRRGHHHH!!!... sei finito nelle sabbie mobili... per te e' la FINE.
+~
+174 2 3
+D1
+~
+~
+0 -1 17405 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#17407
+Viale di pietra~
+   Qui inizia un vialetto pavimentato con enormi lastre di solida pietra.
+Non troppo largo, e' circondato da una foresta ormai desolata e priva di
+ogni bellezza. Tuttavia la fabbricazione del viale e' sicuramente opera di
+una qualche forma di vita intelligente e molto forte. Spinto dalla curiosita'
+puoi continuare verso ovest altrimenti a nord senti il rumore di un ruscello.
+
+~
+174 1 3
+D0
+~
+~
+0 -1 17405 0
+D3
+~
+~
+0 -1 17408 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17408
+Viale di pietra~
+   Prosegui lungo il viale ignaro di cosa ti aspetta. La natura morta che
+ti circonda non aiuta certo il morale. Attenzione agli occhi rossi che ti
+osservano da dietro gli alberi. In entrambe le direzioni possibili il
+lastricato continua e sparisce dietro un albero.
+~
+174 1 3
+D1
+~
+~
+0 -1 17407 0
+D3
+~
+~
+0 -1 17409 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17409
+Viale di pietra~
+   Questa e' l'altra estremita' del sentiero lastricato. Miracolosamente gli
+alberi sembrano piu' vivi e piu' sparsi. La fitta vegetazione allenta la sua
+morsa e verso ovest intravedi una cancellata.
+~
+174 1 3
+D1
+~
+~
+0 -1 17408 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17410
+Una mulattiera~
+   Questo sentiero e' spesso usato per trasportare merci. Le tracce sul
+selciato denunciano infatti il passaggio di carrozze e muli. Tutto intorno
+alberi decapitati e tronchi squarciati sembrano tanti uomini caduti durante
+un'atroce battaglia. Verso ovest intravedi una radura mentre verso est
+l'orrendo spettacolo della natura devastata continua.
+~
+174 1 3
+D1
+~
+~
+0 -1 17411 0
+D3
+Vedi un incrocio con un cartello segnaletico al centro.~
+~
+0 -1 17403 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17411
+Una mulattiera~
+   Lo stretto e impervio sentiero non facilita il cammino. Grossi sassi e
+tronchi abbattuti ricoprono la pista. Strani sogghigni provengono dalle tue
+spalle e presto ti accorgi di non essere solo. Verso est noti una schiarita
+ed un vecchio cancello.
+~
+174 1 3
+D3
+~
+~
+0 -1 17410 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17412
+Letto del fiume~
+   Questo sentiero percorre il letto di un fiume ormai secco. L'acqua, fonte
+di vita, ha abbandonato questa valle da molto tempo e quel poco che ne rimane
+porta con se' malattie e cadaveri. Il fondo ciottoloso del letto ostacola i
+movimenti del tuo pesante equipaggiamento. Verso sud intravedi una piccola
+radura mentre il letto del fiume continua verso nord.
+~
+174 1 3
+D0
+~
+~
+0 -1 17413 0
+D2
+Vedi un incrocio con un cartello segnaletico al centro.~
+~
+0 -1 17403 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17413
+Letto del fiume~
+   Anche qui il sentiero corrisponde al vecchio corso d'acqua che probabilmente
+una volta dava vita alla vegetazione e agli animali che abitavano la foresta.
+Ora, invece, i grigi alberi piegati su se stessi come se pregassero dominano il
+paesaggio. Ogni tanto uno strillo e uno strepitio accompagnano la tua anima
+nel lungo viaggio. A nord vedi un ponte, verso est solo la foschia.
+~
+174 1 3
+D0
+~
+~
+0 -1 17414 0
+D2
+~
+~
+0 -1 17412 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17414
+Un ponte~
+   Sei su quello che una volta doveva servire per permettere ai viaggiatori di
+oltrepassare il fiume. Ora invece quel che rimane serve a proteggere qualche
+animale dal freddo a dai predatori. Uno scricchiolio preoccupante sotto i tuoi
+piedi ti consiglia di affrettarti. Sotto il ponte vedi una tana. Ad ovest un
+antico sentiero si perde nella vegetazione. A sud il letto del fiume e'
+percorribile a piedi.
+~
+174 1 3
+D2
+~
+~
+0 -1 17413 0
+D3
+~
+~
+0 -1 17415 0
+D5
+~
+~
+0 -1 17427 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17415
+Un antico sentiero~
+   Questo che stai percorrendo non e' un sentiero normale. Le tue capacita'
+mentali percepiscono un qualcosa di mistico che pervade questa strada. Un
+qualcosa di magico ed antico, di incomprensibile e spirituale. Verso nord
+vedi una colonna di fumo salire alta verso il cielo. A est un ponte malconcio
+aspetta di essere attraversato.
+~
+174 1 3
+D1
+~
+~
+0 -1 17416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17416
+Foschia~
+   Questo posto fa venire i brividi. Non riesci a vedere neanche dove cammini
+o su cosa!! Tutto e' avvolto da una nebbiolina grigia che soffoca qualunque
+cosa.
+Non vedi nulla di strano ma e' perche' non riesci a vedere nulla. AHHHH...
+qualcosa ti sfiora un piede e striscia via. Verso est la foschia diventa ancora
+piu' fitta. Ad ovest intravedi un letto prosciugato.
+~
+174 37 3
+D1
+~
+~
+0 -1 17417 0
+D3
+~
+~
+0 -1 17415 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17417
+Nebbia~
+   Ti sembra di essere in una nuvola. Non vedi ad un palmo dal naso. Persino
+le tue parole sono inghiottite dalla nebbia che ti circonda. Una strana
+sensazione prende posto nella tua mente... sembra quasi... ma si.. la nebbia
+ti osserva e poi TI ATTACCA!!!
+~
+174 33 3
+D0
+~
+~
+0 -1 17418 0
+D2
+~
+~
+0 -1 17428 0
+D3
+~
+~
+0 -1 17416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17418
+Un ruscello~
+   Qui c'e' solo una lieve foschia mattutina che accompagna lo scrosciare
+dell'acqua di un piccolo ruscello che proveniente da ovest si perde verso nord.
+Carcasse e resti di animali vicino alle sponde non lasciano presagire nulla di
+buono, forse qualche predatore affamato attende qui le sue vittime. A sud vedi
+una nebbia fittissima mentre a nord inizia una zona paludosa.
+~
+174 1 3
+D0
+~
+~
+0 -1 17419 0
+D2
+~
+~
+0 -1 17417 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17419
+Palude~
+   La melma ti sale fino al ginocchio mentre a fatica attraversi questo tratto
+paludoso. Insetti e zecche vivono da secoli in questo luogo. I pochi alberi
+che ti circondano sembrano affetti da gravi malattie. Un puzzo nauseabondo
+pervade tutta la palude che gira verso est e prosegue. A sud senti lo
+scrosciare di un ruscello.
+~
+174 1 3
+D0
+~
+~
+0 -1 17408 0
+D1
+~
+~
+0 -1 17420 0
+D2
+~
+~
+0 -1 17418 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17420
+Palude~
+   Ancora fango e acqua putrida. Il paesaggio tetro incute timore. Nella
+melma galleggiano di tanto in tanto ossa e vecchi stracci sporchi di sangue.
+Fastidiosi insetti ti girano intorno aspettando la tua morte per potersi
+sfamare con cibo fresco. Sbatti contro qualcosa... ti chini a vedere e prendi
+in mano un cranio umano senza occhi e naso.... CHE SCHIFO!!!
+La palude continua...
+~
+174 1 3
+D1
+~
+~
+0 -1 17421 0
+D3
+~
+~
+0 -1 17419 0
+D5
+Una discesa senza pericoli.~
+~
+0 -1 17423 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17421
+Palude~
+   Ancora fango e acqua putrida. Il paesaggio tetro incute timore. Nella
+melma galleggiano di tanto in tanto ossa e vecchi stracci sporchi di sangue.
+Un freddo vento fa sbattere i rami secchi degli alberi e qualche strana forma
+di vita si alza in volo allontanandosi. Ormai sei inzuppato fino alla cintola
+ed i piedi ghiacciati fanno un male incredibile. La palude continua...
+~
+174 1 3
+D0
+~
+~
+0 -1 17422 0
+D3
+~
+~
+0 -1 17420 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17422
+Palude~
+   Qui la melma e' meno densa che altrove. Evidentemente nelle vicinanze
+c'e' un corso d'acqua o un lago. La corrente non e' forte ma basta per ripulire
+l'equipaggiamento dal fango, dagli stracci e dalle ossa. Lo scheletro di una
+mano resiste finche' un tuo poderoso calcio non lo spacca in mille pezzi.
+La palude continua a sud mentre verso nord intravedi il sole che si specchia
+su un lago. C'e' un AVVISO inciso nel fango.
+~
+174 1 3
+D0
+~
+~
+0 -1 17475 0
+D2
+~
+~
+0 -1 17421 0
+E
+avviso~
+IL LAGO SPERDUTO OSPITA MOB DAL 35 AL 50 LIVELLO.
+CONSIGLIATO AD EROI CON ALMENO 40-45 LIVELLI SULLE SPALLE.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17423
+Un fosso~
+   Sei sprofondato in una buca e non c'e' modo per risalirla. Sei in buone
+condizioni ma per uscire di qui serve la magia, se non la conosci...
+COMINCIA A GRIDARE!!!!
+~
+174 5 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17424
+Una pista~
+   Una pista selvaggia si inoltra tra i fitti cespugli fino a sparire.
+Raccapriccianti rumori sembrano urla di dolore e lamenti mentre ti fai largo
+con la tua spada tra l'ostile vegetazione. Non c'e' piu' traccia di un
+sentiero, ma il tuo istinto ti indica una curva verso ovest. A sud vedi un
+rigagnolo.
+~
+174 1 3
+D2
+~
+~
+0 -1 17405 0
+D3
+Un antro buio e pieno di ragnatele.~
+~
+0 -1 17425 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17425
+Una caverna~
+   Non e' molto grande e le fitte ragnatele formano una parete quasi d'acciaio.
+A fatica procedi verso il buio ma mentre cammini calpesti qualcosa e senti
+uno SPLASH. Per tutti gli Dei, hai calpestato delle uova grandi come il tuo
+pugno... AHIA... All'improvviso un urlo di dolore lacera il silenzio ed un
+mostro ti si scaglia contro.
+~
+174 9 0
+D0
+~
+~
+0 -1 17426 0
+D1
+~
+~
+0 -1 17424 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17426
+Un passaggio~
+   Entri in uno stretto cunicolo che si dirama in molte direzioni. Ti sei
+perso ma se torni indietro ora hai qualche speranza di salvarti. L'umidita'
+qui rende l'aria irrespirabile.
+~
+174 269 0
+D0
+~
+~
+0 -1 17411 0
+D2
+Ragnatele dovunque.~
+~
+0 -1 17425 0
+D3
+~
+~
+0 -1 17417 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17427
+Una tana~
+   Sei entrato nella tana di qualche terribile animale. Resti scheletrici
+di uomini e bestie sono sparsi dappertutto. Un CUMULO di teschi rosicchiati
+attira la tua attenzione mentre a stento cerchi di girarti per andartene.
+Guardando verso l'alto vedi il vecchio ponte.
+~
+174 1 0
+D4
+~
+~
+0 -1 17414 0
+E
+cumulo~
+Un mucchio di teschi sembra custodire un segreto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17428
+Nebbia~
+   La tremenda cappa grigiobianca assorbe ancora la poca vita rimasta qui
+intorno. Ombre sembrano muoversi dietro di te ma forse e' solo la tua
+immaginazione. Sei come isolato e perso in un oceano bianco,solo che
+qui la luce non e' mai giunta.
+~
+174 1 3
+D0
+Il bianco.~
+~
+0 -1 17417 0
+D1
+~
+~
+0 -1 17429 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17429
+Il covo~
+   Questo e' il nascondiglio di qualche brigante. Alcune cianfrusaglie sono
+buttate in un angolo e una timida candela rischiara questa casupola fatta
+di travi di legno appoggiate ad una parete rocciosa. E' il luogo ideale per
+nascondersi dai cerca taglie di Daresia. Ad ovest la coltre bianca nasconde
+perfettamente ogni traccia.
+~
+174 1 0
+D3
+Tutto bianco.~
+~
+0 -1 17428 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17430
+Un antico sentiero~
+   Di nuovo quella sensazione di onnipresenza sembra emanare da ogni
+cosa in questo luogo. Una cancellata a nord segna l'entrata al villaggio degli
+zingari, un popolo nomade che ha trovato pace solo in queste desolate terre.
+Un popolo grande conoscitore dei segreti della magia e della vita. Gli stregoni
+zingari sono i piu' temuti e rispettati all'interno della grande famiglia che
+viene guidata da un capo che si e' guadagnato il rispetto di tutti uccidendo i
+guerrieri piu' forti. Appesa alla cancellata c'e' una TARGA.
+Un AVVISO inciso nell'aria attira la tua attenzione.
+~
+174 12 0
+D0
+Un cancello di ferro e' l'unico modo per entrare ed uscire dal villaggio.~
+cancellata~
+1 -1 17431 3
+D2
+~
+~
+0 0 1536455 0
+E
+avviso~
+IL VILLAGGIO ZINGARO OSPITA MOB DAL 35 AL 45 LIVELLO.
+CONSIGLIATO AD EROI CON ALMENO 35-40 LIVELLI SULLE SPALLE.
+~
+E
+targa~
+Questo e' l'ingresso al mistico villaggio degli zingari.
+Non sconsacrate la nostra pace.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17431
+Torre di guardia~
+   L'ingresso del villaggio e' una torre di pietra che ha il compito di
+respingere l'attenzione dei curiosi. Le pareti fredde ospitano larghe fessure
+dalle quali spiffera un gelido vento. A nord torni all'aperto mentre a sud la
+cancellata di ferro sbarra l'accesso.
+~
+174 0 0
+D0
+~
+~
+0 -1 17432 0
+D2
+Un cancello di ferro e' l'unico modo per entrare ed uscire dal villaggio.~
+cancellata~
+1 -1 17430 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17432
+Un bivio~
+   Sei nei pressi di una biforcazione. L'erba qui e' consumata e calpestata.
+Tutt'intorno si sviluppa l'accampamento di questa popolazione: tende di ogni
+dimensione e colore, fuochi accesi sotto pentoloni, bambini che giocano a
+rincorrersi, e donne intente a cucire. Alcuni uomini affilano le proprie lame e
+portano legna per il fuoco. Una stradina ben tenuta procede girando verso
+est. Una curva ad ovest invece sparisce in vicolo tra due tende.
+~
+174 4 2
+D1
+~
+~
+0 -1 17444 0
+D2
+Una torre di pietra e legno protegge l'ingresso al villaggio.~
+~
+0 -1 17431 0
+D3
+~
+~
+0 -1 17433 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17433
+Un vicolo~
+   Lo stretto passaggio gira intorno ad una tenda bianca e blu. Dall'interno
+provengono voci e rumori di un focolaio domestico a cui non sei abituato.
+Molti buchi sulla tenda sono stati rattoppati alla meglio con vecchi stracci.
+Puoi proseguire verso nord o verso est.
+~
+174 0 2
+D0
+~
+~
+0 -1 17434 0
+D1
+~
+~
+0 -1 17432 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17434
+Un vicolo~
+   Il vicolo prosegue e ti trovi a passare attorno ad un gran tendone.
+Origliando senti piu' uomini discutere ad alta voce dei propri trofei
+di caccia. Alcuni incitano un compagno a sfidare il capo del villaggio
+per la guida del clan, altri lo scoraggiano raccontando le imprese
+eroiche dell'attuale leader. Il vicolo gira verso ovest e continua a sud.
+~
+174 0 2
+D2
+~
+~
+0 -1 17433 0
+D3
+~
+~
+0 -1 17435 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17435
+Una radura~
+   Questo piccolo piazzale d'erba scura e' abbastanza frequentato. Molti
+zingari passano di qua per recarsi alla tenda del ritrovo dove bere qualcosa
+in compagnia, parlottare e se va bene fare una bella e salutare rissa. Un
+sentiero curva verso nord. A sud c'e' un tendone affollato. Strano pero',
+nessuno procede verso ovest.
+~
+174 0 2
+D0
+~
+~
+0 -1 17440 0
+D1
+Un vicoletto che passa tra due tende.~
+~
+0 -1 17434 0
+D2
+~
+~
+0 -1 17436 0
+D3
+~
+~
+0 -1 17437 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17436
+Tenda del ritrovo~
+   Questa e' il posto dove comunemente si radunano gli zingari per bere
+qualcosa e scazzottare fino a mattina inoltrata. Due energumeni tutto muscoli
+si sfidano a braccio di ferro tra un boccale di birra e l'altro. C'e' molta
+confusione qui, e questo ti permette di passare inosservato, ma attento a
+cio' che fai. Per terra, cocci di brocche e ceneri testimoniano la scarsa
+attenzione alla pulizia che caratterizza questo popolo. A nord l'uscita porta
+verso un piccolo spazio erboso.
+~
+174 8 0
+D0
+~
+~
+0 -1 17435 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17437
+Una pista~
+   Questo tragitto si inoltra nell'oscura foresta che circonda il villaggio.
+Tuttavia qui la vegetazione non e' morta ma in qualche modo sembra
+rispettare una forza piu' grande. Pochi abitanti si avventurano fin qui e
+quelli che ci sono si allontanano velocemente. Per terra centinaia di petali
+multicolore indicano il passaggio di una specie di processione. Il cammino
+continua verso ovest mentre ad est intravedi una radura.
+~
+174 5 3
+D1
+~
+~
+0 -1 17435 0
+D3
+~
+~
+0 -1 17438 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17438
+Una pista~
+   La sensazione di una forte energia ora diventa reale. Percepisci forze
+che gravitano intorno a te e che culminano nella struttura che hai di fronte.
+Sembra un tempio ma e' di originale costruzione. Il portico presenta alcune
+aperture circolari all'interno delle quali tante piccole statue sono ornate di
+fiori e profumate di incenso. Un'ampia porta permette l'accesso al tempio.
+~
+174 1 3
+D1
+~
+~
+0 -1 17437 0
+D3
+~
+ingresso~
+1 -1 17439 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17439
+Il tempietto~
+   Pochissima luce illumina questo luogo sacro. Contro le pareti sono appese
+strane maschere di animali. Nel mezzo della stanza un braciere, circondato
+da pietre colorate, emana uno strano odore che ti confonde la mente ed
+ostacola ogni tuo tentativo di ricorrere alla magia. In questo posto la tua
+magia non funzionera'. Forze che non puoi concepire annullano i tuoi
+incantesimi.
+Un uomo con una testa di lupo interrompe la sua cantilena e ti guarda con
+odio.
+~
+174 136 0
+D1
+~
+ingresso~
+1 -1 17438 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17440
+Un sentiero ciottoloso~
+   Questo sentiero passa al limite della foresta che e' talmente folta da
+creare un muro naturale. Molte pietre sono state sistemate qui probabilmente
+per evitare allagamenti verso il centro abitato. Il sentiero gira verso est.
+A sud vedi una piazzola.
+~
+174 0 3
+D0
+~
+~
+0 -1 17441 0
+D2
+~
+~
+0 -1 17435 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17441
+Un sentiero ciottoloso~
+   Una grande curva porta verso est ad una costruzione in legno con una
+apertura molto grande in un fianco. Grandi casse sono accatastate lungo
+le pareti esterne. Anche qui il bosco protegge il villaggio e piccole
+cordicelle tese con campanellini alle estremita' funzionano come allarmi
+nel caso qualcuno o qualcosa tenti di avvicinarsi.
+~
+174 0 3
+D1
+~
+~
+0 -1 17442 0
+D2
+~
+~
+0 -1 17440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17442
+Magazzino~
+   Qua trovi di tutto. Derrate alimentari, vecchi vestiti, archi e balestre
+per la caccia. Tutto ammucchiato senza ordine su sporchi e scardinati scaffali.
+Verso ovest c'e' un sentiero mentre a sud una porta di legno ha una SCRITTA
+incisa sopra.
+~
+174 9 0
+D2
+Una massiccia porta di legno.~
+porta~
+1 17400 17443 7
+D3
+~
+~
+0 -1 17441 0
+E
+scritta~
+ARMERIA. Vietato l'accesso senza autorizzazione.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17443
+Armeria~
+   Entri in una stanza molto buia. Un grandissimo stipo riempie la maggior
+parte dello spazio. Una rastrelliera raccoglie una varieta' notevole di armi.
+Il soffitto basso e' in qualche punto rosicchiato dal perpetuo lavoro dei topi.
+Il palmo di polvere sul pavimento quasi nasconde una botola.
+~
+174 9 0
+D0
+Una massiccia porta di legno.~
+porta~
+1 17400 17442 7
+D5
+La botola ha una maniglia in ferro. La polvere che la ricopre indica che
+nessuno l'ha aperta da molto tempo ormai.~
+botola~
+1 -1 17465 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17444
+Strada~
+   Questa via attraversa il centro dell'accampamento costellato da bivacchi e
+capanne montate a ferro di cavallo. Torce sistemate su alti paletti illuminano
+questo posto. Anche di giorno infatti la triste nebbia che scende impedisce ai
+raggi del sole di riscaldare questa terra. La strada continua verso est. Ad
+ovest intravedi un bivio.
+~
+174 0 2
+D1
+~
+~
+0 -1 17445 0
+D3
+~
+~
+0 -1 17432 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17445
+Strada~
+   Questo e' il centro del villaggio. Grandi tende costeggiano il bosco. Donne
+indaffarate parlano in un dialetto che non conosci mentre cercano di
+acchiappare i loro marmocchi che corrono sfrenati inseguendo un grillo.
+Attorno a te ci sono alcune tende, verso nord vedi una piazza con un pozzo
+ed una specie di impalcatura.
+~
+174 0 2
+D0
+~
+~
+0 -1 17448 0
+D1
+~
+~
+0 -1 17447 0
+D2
+~
+~
+0 -1 17446 0
+D3
+~
+~
+0 -1 17444 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17446
+Una tenda verde~
+   Un'umile e semplice tenda ospita un numero spropositato di persone. La
+sporcizia ed il disordine regnano ovunque ma gli occupanti non sembrano
+farci molto caso. Cianfrusaglie e vestiti compongono un unico mucchio in un
+angolo. Vettovaglie galleggiano in una bacinella di acqua sporca. Poca aria
+entra dall'entrata e da un foro praticato su un lato della tenda.
+~
+174 8 0
+D0
+~
+~
+0 -1 17445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17447
+Una tenda scura~
+   Questa tenda e' leggermente piu' grande delle altre viste sinora. Molti
+panni bagnati penzolano da un bastone incastrato orizzontalmente tre due
+perni. Una lanterna illumina un pagliericcio ed un materasso mezzo bruciato.
+Anche qui l'odore non e' gradevole.
+~
+174 8 0
+D3
+~
+~
+0 -1 17445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17448
+Una piazza~
+   Una spaziosa e abbastanza pulita piazza ti si apre davanti. Qui c'e'
+veramente tanta gente che canta e balla. Verso ovest vedi un palco
+circondato da un centinaio di zingari che gridano e applaudono. Verso
+nord vedi donne con secchi in testa in fila davanti ad un pozzo. A sud
+torni verso le abitazioni.
+~
+174 0 1
+D0
+~
+~
+0 -1 17451 0
+D2
+~
+~
+0 -1 17445 0
+D3
+~
+~
+0 -1 17449 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17449
+Una piazza~
+   Qui si sta volgendo uno spettacolo. Su un palco alcune danzatrici muovono
+il loro sinuoso corpo coperto solo da pochi veli. Una folla di uomini e donne
+gridano, ballano e bevono senza preoccuparsi di altro. Verso nord vedi un
+gruppo di suonatori e musici. Verso est molta gente torna ubriaca alla propria
+tenda.
+~
+174 0 1
+D0
+~
+~
+0 -1 17450 0
+D1
+~
+~
+0 -1 17448 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17450
+Una piazza~
+   Una melodica e gioiosa canzone dialettale accompagna la festa in questa
+piazza. Musici suonano e cantano mentre altre danzatrici eccitano il pubblico.
+Alcuni robusti individui tengono a bada i piu' entusiasti mentre un ragazzo
+passa tra la folla con un cappello in mano. Verso est c'e' un pozzo dove
+alcune donne attingono dell'acqua. Verso sud un palco ospita uno spettacolo
+seducente. A nord due energumeni sbarrano il passo.
+~
+174 0 1
+D0
+~
+~
+0 -1 17452 0
+D1
+~
+~
+0 -1 17451 0
+D2
+~
+~
+0 -1 17449 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17451
+Una piazza~
+   Un grande pozzo e' l'unica fonte di acqua potabile in tutto il villaggio.
+Una fila di donne con bottiglie e secchi aspettano in coda il loro turno.
+Verso ovest senti il ritmo di una festosa musica. Verso sud vedi le donne coi
+secchi pieni tornare verso le proprie tende.
+~
+174 0 1
+D2
+~
+~
+0 -1 17448 0
+D3
+~
+~
+0 -1 17450 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17452
+Un oscuro passaggio~
+   Questo angusto passaggio porta verso sud alla piazza, dove alcuni musici
+intrattengono una folla scalmanata, e girando verso ovest arriva sino ad una
+piccola CAPANNA. Alcuni zingari sono qui di guardia ed appena ti vedono
+sguainano la loro arma e TI ATTACCANO!!!
+~
+174 1 3
+D2
+Vedi musici suonare una canzone popolare ballata da tanta gente.~
+~
+0 -1 17450 0
+D3
+La porticina di legno e' pesantemente rinforzata con chiodi e assi.~
+porticina~
+1 17401 17453 7
+E
+capanna~
+Dall'esterno capisci che e' troppo piccola per essere una abitazione.
+Guardando meglio vedi una scala di corda che parte dal soffitto e sale
+fino ad alcuni alberi perdendosi nella foschia. Un insegna sbilenca dice
+'Quartier generale di Tzegano, capoclan di questo villaggio'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17453
+Una capanna~
+   La stanza e' vuota. Solo alcune lunghi bastoni sono appoggiati alla parete.
+Alzando la testa vedi una SCALA di corda che prosegue verso l'alto
+attraversando una botola sul tetto dell'edificio. Ad est una porta rinforzata
+alla meglio sbarra l'uscita.
+~
+174 8 0
+D1
+La porticina di legno e' pesantemente rinforzata con chiodi e assi.~
+porticina~
+1 17401 17452 7
+D4
+~
+~
+0 -1 17454 0
+E
+scala~
+Fatta di robusta corda intrecciata secondo antichi e saggi insegnamenti,
+questa scala sembra molto resistente e sicura.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17454
+Una scala di corda~
+   Sei sulla scala di corda. Un freddo vento ti avvolge e sospinge. La scala
+dondola pericolosamente e le tue mani diventano una cosa sola con i pioli
+di corda. Guardare su e giu' ti fa venire mal di stomaco ma e' necessario.
+~
+174 4 3
+D4
+La scala continua a salire e non ti sembra di scorgerne la fine.~
+~
+0 -1 17455 0
+D5
+Un grosso buco con una scala che scende all'interno di una piccola capanna.~
+~
+0 -1 17453 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17455
+Una scala di corda~
+   Qui siamo veramente in alto. Hai i muscoli tirati come mai e una goccia di
+freddo sudore ti attraversa il viso. Attorno vedi solo qualche ramo secco che
+spunta dalla bianca foschia e che sembra voglia afferrarti. Non vorresti
+guardare su e giu' ma e' necessario.
+~
+174 4 3
+D4
+Siiiii!! Vedi una piattaforma di legno sospesa tra due grossi alberi.
+Ancora qualche sforzo e la raggiungerai.~
+~
+0 -1 17456 0
+D5
+Vedi la scala che scende... scende... scende...~
+~
+0 -1 17454 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17456
+Piattaforma~
+   Mmmmm non e' granche' ma per lo meno sembra stabile. Sei a circa 30
+metri dal suolo e puoi intravedere tutto il villaggio. Chiunque abiti quassu'
+deve avere dei buoni motivi per farlo. L'aria e' pungente e non ci sono appigli
+cui aggrapparsi in caso una folata di vento decida di spingerti nel vuoto. Sia
+verso nord che verso est un ponte di legno scompare nella nebbia.
+~
+174 0 3
+D0
+~
+~
+0 -1 17457 0
+D1
+~
+~
+0 -1 17459 0
+D5
+~
+~
+0 -1 17455 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17457
+Un ponte di legno~
+   Questo ponte barcolla vistosamente ma per lo meno e' dotato di due
+robuste corde situate a mezz'altezza. Lo scricchiolio del legno non ti
+rassicura e decidi di affrettare il passo. Il ponte gira verso est finendo
+contro un albero, e verso sud dove una piattaforma da' il via ad una
+scala di corda.
+~
+174 0 3
+D1
+~
+~
+0 -1 17458 0
+D2
+~
+~
+0 -1 17456 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17458
+Incavo~
+   Entri all'interno di un gigantesco albero. Il tempo e l'uomo hanno creato
+una straordinaria opera d'arte. Tutto fatto con il legno dell'albero, anche
+la scala a chiocciola nell'angolo a nord-ovest. E' incredibile quanto sia
+grande. Sembra una casa vera e propria. Ti giri intorno ma non noti nulla di
+interessante.
+~
+174 12 0
+D3
+~
+~
+0 -1 17457 0
+D5
+~
+~
+0 -1 17470 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17459
+Un ponte di legno~
+   Il vento sospinge il ponte da una parte all'altra. Per fortuna sembra essere
+stato costruito con un minimo di buon senso. Molte travi di rinforzo bloccano
+le assi di legno, che unite insieme da una robusta corda, permettono il
+passaggio da un albero ad un altro. Verso ovest c'e' una piattaforma, mentre
+il ponte continua girando verso sud.
+~
+174 0 3
+D2
+~
+~
+0 -1 17460 0
+D3
+~
+~
+0 -1 17456 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17460
+Un ponte di legno~
+   Questo tratto del ponte sospeso nell'aria e' particolarmente suggestivo.
+A causa della foschia, che riduce la visibilita', si ha la sensazione di
+galleggiare nel vuoto. Tuttavia verso est senti la voce di alcuni uomini.
+~
+174 0 3
+D0
+~
+~
+0 -1 17459 0
+D1
+~
+~
+0 -1 17463 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17461
+Una stanzetta~
+   Questa e' la camera privata del capoclan. Trofei di guerra sono appesi alle
+pareti, mentre cibo e vino sono disposti su un tavolo. Alcune donne seminude
+massaggiano il corpo muscoloso del capo, mentre altre ragazze gli passano
+da mangiare e cantano per lui. Sei arrivato dove pochi arrivano, ed il capoclan
+si alza e ti scruta per capire le tue intenzioni.
+~
+174 72 0
+D1
+~
+porta~
+0 -1 17462 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17462
+Capanna del capoclan~
+   Questa stanza e' arredata molto bene, cibo di ottima qualita' abbonda sui
+tavoli di ebano. Sbarre alle finestre impediscono a chiunque di entrare. E' un
+vero bunker a protezione di colui che tutti vogliono sopprimere per assumere
+il controllo del clan. Cammini su petali di rosa selvatica misti a spezie
+profumate. Da una stanza adiacente senti un dolce canto di giovani fanciulle.
+Ma la tua presenza ha attirato l'attenzione delle guardie personali del
+capoclan, che ti circondano e si preparano ad attaccarti.
+~
+174 72 0
+D2
+~
+porta~
+1 17430 17464 7
+D3
+~
+~
+0 -1 17461 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17463
+Il terrazzo~
+   Sei una grande struttura che poggia su cinque diversi alberi. E' un grande
+terrazzo tutto in legno con una recinzione che percorre tutto il perimetro.
+Alcuni barili sono disposti in un angolo, ma vedi anche cesti di frutta e di
+selvaggina. Una buona parte del terrazzo e' occupata da una grande capanna
+fatta meta' in legno e meta' scavando in un albero. Ad ovest senti lo
+scricchiolio del ponte.
+~
+174 0 3
+D1
+~
+~
+0 -1 17464 0
+D3
+~
+~
+0 -1 17460 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17464
+Il terrazzo~
+   Anche questa parte della grande piattaforma e' molto stabile e ben tenuta.
+Intorno a te alcune alcove, costruite tra gli alberi, contengono dei giacigli
+in paglia e qualche vettovaglia mal custodita. Verso nord c'e' l'entrata ad una
+capanna costruita per meta' in un albero. Alcuni brutti ceffi sono a guardia
+della porta.
+~
+174 0 3
+D0
+~
+porta~
+1 17430 17462 7
+D3
+~
+~
+0 -1 17463 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17465
+Una scala segreta~
+   Questa scala scende nell'oscurita' tra pareti di pietra ammuffite che
+trasudano umidita'. In basso si apre una grande cantina con un soffitto
+di pietra a volta. Vedi un RACCONTO sul muro.
+~
+174 9 0
+D4
+~
+botola~
+1 -1 17443 1
+D5
+~
+~
+0 -1 17466 0
+E
+racconto~
+Si narra che nei tempi antichi esistesse un popolo di creature meta' uomini
+e meta' draghi. Di indole pacifica, questo popolo era pero' spesso soggetto
+alla brama dei cacciatori di draghi e alle superstizioni contadine. Col tempo
+la razza si estinse, ma la leggenda racconta che un vecchio custode si salvo'
+alla strage e porto' con se' due draghi unici al mondo perche' capaci di
+procreare la specie degli uominidrago.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17466
+Il rifugio~
+   Questa enorme cantina e' illuminata da decine di torce disposte lungo le
+pareti. Nel mezzo della stanza una vecchia scrivania traballante e' colma di
+antichi scritti e leggende. In un angolo nella penombra una creatura spalanca
+gli occhi rossi come il fuoco e urlando in modo disumano si prepara alla
+carica. Ci sono tre porte.
+~
+174 8 0
+D1
+~
+porta~
+1 -1 17469 3
+D2
+~
+porta~
+1 -1 17468 3
+D3
+~
+porta~
+1 -1 17467 3
+D4
+~
+botola~
+0 -1 17465 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17467
+Una stanza~
+   Sei entrato nella stanza dove riposa il grande Drago Bianco. Uno dei due
+draghi capaci di riprodurre la stirpe degli uominidrago. Un grande pagliericcio
+e' situato in un angolo, mentre resti di animali sono sparsi ovunque.
+~
+174 8 0
+D1
+~
+porta~
+1 -1 17466 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17468
+Una stanza~
+   Questa camera e' piu' piccola delle altre. E' molto calda ed uno strano
+odore pervade l'ambiente. Qui dovrebbero nascere gli uominidrago ma la stanza
+e' deserta. All'improvviso strane creature scendono dal soffitto e si
+dispongono in cerchio attorno alla preda, che naturalmente sei tu. Ma questi
+non sono uominidrago, sono mostri deformi. Evidentemente col passare dei secoli
+una mutazione dei geni dei due draghi ha prodotto il risultato che ora hai
+davanti.
+~
+174 72 0
+D0
+~
+porta~
+1 -1 17466 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17469
+Una stanza~
+   Sei entrato nella stanza dove riposa il grande Drago Nero. Uno dei due
+draghi capaci di riprodurre la stirpe degli uominidrago. Un grande pagliericcio
+e' situato in un angolo, mentre resti di animali sono sparsi ovunque.
+~
+174 8 0
+D3
+~
+porta~
+1 -1 17466 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17470
+Una scala di legno~
+   Stai percorrendo una scala intagliata nell'albero. Sei infatti all'interno
+di un gigantesca quercia. Il legno interno e' ben levigato sia dal vento che
+dall'opera dell'uomo. Alcune torce illuminano a malapena la scala che a
+spirale continua la sua discesa. In alto vedi l'entrata all'albero.
+~
+174 9 0
+D4
+~
+~
+0 -1 17458 0
+D5
+~
+~
+0 -1 17471 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17471
+Una scala di legno~
+   Stai percorrendo una scala intagliata nell'albero. Sei infatti all'interno
+di un gigantesca quercia. Il legno interno e' ben levigato sia dal vento che
+dall'opera dell'uomo. Alcune torce illuminano a malapena la scala che a
+spirale continua a salire e scendere. Man mano che prosegui senti l'umidita'
+impadronirsi del tuo corpo.
+~
+174 72 0
+D4
+~
+~
+0 -1 17470 0
+D5
+~
+~
+0 -1 17472 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17472
+Il centro dell'albero~
+   Sei arrivato in quello che sembra essere il centro dell'albero. Il posto e'
+adattato per essere uno studiolo. C'e' un tavolo in un angolo con sopra una
+lanterna. Una libreria colma di antichi manoscritti e' accanto ad un letto reso
+morbido da un abbondante strato di paglia. Tutto il mobilio e' rigorosamente
+di legno, dello stesso legno dell'albero. La scala a chiocciola sale e scende.
+~
+174 72 0
+D4
+~
+~
+0 -1 17471 0
+D5
+~
+~
+0 -1 17473 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17473
+Verso la base~
+   Qui la scala e' piu' ripida e stretta. Non c'e' nulla al di fuori dei
+gradini. Alcune incisioni sul tronco rappresentano una specie di calendario.
+Verso il basso intravedi una concavita' molto spaziosa e luminosa. In alto
+c'e' lo studio.
+~
+174 76 0
+D4
+~
+~
+0 -1 17472 0
+D5
+~
+~
+0 -1 17474 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17474
+La base dell'albero~
+   Questa e' la base della quercia. Grosse radici attraversano la stanza
+creando un mobilio naturale. Alcuni fori a mezz'altezza permettono alla luce
+del giorno di illuminare l'ambiente. Su una grossa radice ci sono alambicchi
+e provette. Libri di magia buttati qua e la' identificano questo posto come un
+laboratorio in piena attivita'.
+~
+174 72 0
+D4
+~
+~
+0 -1 17473 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17475
+Un fiume~
+   Questo tratto del fiume delinea il confine tra la palude ed il lago. L'acqua
+gelida comincia ad essere piu' limpida man mano che ci si dirige verso nord.
+La corrente non e' forte ma meglio procedere con cautela. Una specie di
+INSEGNA e' affissa su un ramo pendente.
+~
+174 4 6
+D0
+~
+~
+0 -1 17476 0
+D2
+~
+~
+0 -1 17422 0
+E
+insegna~
+A nord di qui si trova il Lago Perduto. Nessuno e' mai tornato vivo dopo
+averne esplorato i segreti. Chi avra' il piacere di ucciderti? I draghi marini?
+I cannibali dell'isola? Oppure...la BESTIA???
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17476
+Lago~
+   Sei ora nelle fredde acque del lago. Il fondo e' ormai troppo distante per
+essere scandagliato ma per fortuna qui la visibilita' e' buona. Il cielo si
+apre sopra di te ed i raggi del sole fanno risplendere la calma superficie
+d'acqua.
+A sud un piccolo fiume si inoltra nella foresta.
+~
+174 0 6
+D0
+~
+~
+0 -1 17479 0
+D1
+~
+~
+0 -1 17477 0
+D2
+~
+~
+0 -1 17475 0
+D3
+~
+~
+0 -1 17477 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17477
+Lago~
+   Sei ora nelle fredde acque del lago. Il fondo e' ormai troppo distante
+per essere scandagliato ma per fortuna qui la visibilita' e' buona. A fatica
+avanzi nell'acqua e guardandoti intorno vedi solo il grande lago in mezzo
+alla foresta.
+~
+174 0 6
+D0
+~
+~
+0 -1 17480 0
+D1
+~
+~
+0 -1 17478 0
+D2
+~
+~
+0 -1 17477 0
+D3
+~
+~
+0 -1 17476 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17478
+Lago~
+   Sei ora nelle fredde acque del lago. Il fondo e' ormai troppo distante
+per essere scandagliato ma per fortuna qui la visibilita' e' buona. Lontano
+verso nord vedi le sponde di un isolotto. Ma ti sembra ancora troppo lontano.
+Tutto intorno vedi solo acqua.
+~
+174 0 6
+D0
+~
+~
+0 -1 17478 0
+D1
+~
+~
+0 -1 17479 0
+D2
+~
+~
+0 -1 17476 0
+D3
+~
+~
+0 -1 17478 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17479
+Lago~
+   Sei ora nelle fredde acque del lago. Il fondo e' ormai troppo distante per
+essere scandagliato ma per fortuna qui la visibilita' e' buona. Anche da qua
+verso nord vedi un'isola e alcune piante attorno alle quali girano in cerchio
+parecchi uccelli. Ma per ora c'e' solo acqua.
+~
+174 0 6
+D0
+~
+~
+0 -1 17477 0
+D1
+~
+~
+0 -1 17480 0
+D2
+~
+~
+0 -1 17476 0
+D3
+~
+~
+0 -1 17478 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17480
+Lago~
+   Sei ora nelle fredde acque del lago. Il fondo e' ormai troppo distante per
+essere scandagliato ma per fortuna qui la visibilita' e' buona. Finalmente
+TERRA!!! A nord alcuni scogli ti permettono di raggiungere una sponda
+insabbiata.
+~
+174 0 6
+D0
+~
+~
+0 -1 17484 0
+D1
+~
+~
+0 -1 17481 0
+D2
+~
+~
+0 -1 17477 0
+D3
+~
+~
+0 -1 17479 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17481
+Lago~
+   Sei ora nelle fredde acque del lago. Il fondo e' ormai troppo distante per
+essere scandagliato ma per fortuna qui la visibilita' e' buona. Sei sfinito...
+devi assolutamente raggiungere la riva. Ormai il freddo ti sta paralizzando le
+gambe e l'armatura diventera' ben presto una vecchia ferraglia, se non esci
+in fretta dall'acqua.
+~
+174 0 6
+D0
+~
+~
+0 -1 17481 0
+D1
+~
+~
+0 -1 17477 0
+D2
+~
+~
+0 -1 17478 0
+D3
+~
+~
+0 -1 17480 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17482
+Bassa vegetazione~
+   In questa zona predominano rovi e bassi cespugli che intralciano il
+cammino e offrono rifugio a piccoli animali selvatici. Alcune bacche
+pendono dai rovi, mentre altre marciscono al suolo alimentando l'humus
+dell'isola. A sud ed ovest vedi solo il lago, mentre verso est torni al
+centro dell'isola.
+~
+174 0 2
+D1
+~
+~
+0 -1 17483 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17483
+Bassa vegetazione~
+   In questa zona predominano rovi e bassi cespugli che intralciano il cammino
+e offrono rifugio a piccoli animali selvatici. Alcune bacche pendono dai rovi,
+mentre altre marciscono al suolo alimentando l'humus dell'isola. Ad est c'e'
+una piccola strada ciottolata.
+~
+174 0 2
+D1
+~
+~
+0 -1 17484 0
+D3
+~
+~
+0 -1 17482 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17484
+Stradina~
+   Sei sulla sponda meridionale dell'isolotto. La sabbia si trasforma
+lentamente in pietra mentre prosegui verso nord. Tutto intorno cresce
+bassa e alta vegetazione. Sul terreno ci sono alcune impronte di piedi
+umani, ma anche brandelli di carne putrefatta.
+~
+174 4 2
+D0
+~
+~
+0 -1 17488 0
+D1
+~
+~
+0 -1 17485 0
+D2
+~
+~
+0 -1 17480 0
+D3
+~
+~
+0 -1 17483 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17485
+Alta vegetazione~
+   Questo intricato labirinto di alberi potrebbe ospitare qualsiasi forma di
+vita. Cibo, acqua e riparo infatti non mancano, anzi, al contrario, e' anche
+il posto ideale per tendere una trappola alla propria preda. Ad ovest
+intravedi una stradina, mentre a nord un ormai cancellato sentiero si
+inerpica verso una scogliera.
+~
+174 0 3
+D0
+~
+~
+0 -1 17489 0
+D3
+~
+~
+0 -1 17484 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17486
+Una stretta navata~
+   Percorri una lunga, stretta e curva navata. Alle pareti sono appesi dipinti
+che raffigurano antichi Dei mentre compiono azioni eroiche. Una sola fiaccola
+illumina il passaggio ed il silenzio copre qualsiasi altro rumore.
+~
+174 489 0
+D0
+~
+~
+0 -1 17490 0
+D1
+~
+~
+0 -1 17487 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17487
+Ingresso al Tempio di Offar~
+   Finalmente l'hai trovato!!! Questo e' il leggendario tempio di Offar. Lunghe
+candele rosse costeggiano le pareti adornate con reliquie e simboli sacri. Al
+centro della stanza una SFERA di cristallo, grossa quanto la testa di un
+gigante, e' sospesa a mezz'aria. Due strette navate partono da ovest e nord.
+~
+174 193 0
+D0
+~
+~
+0 -1 17491 0
+D1
+~
+cancellata~
+1 -1 17488 1
+D3
+~
+~
+0 -1 17486 0
+E
+sfera cristallo~
+Guardandola attentamente sembra quasi che al suo interno ci sia un
+mondo popolato da eroi che combattono il male e visitano luoghi lontani...
+un regno... una citta'... un villaggio... un'isola...un Tempio!!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17488
+Davanti al Tempio~
+   Arrivi davanti ad una costruzione molto antica. E' un edificio circolare con
+eleganti archi di pietra marina che ne adornano la superficie. Alzando la testa
+noti una cupola di quarzo bianco su cui sono state incise figure di cavalieri e
+maghi. L'entrata al Tempio e' ad ovest.
+~
+174 0 2
+D0
+~
+~
+0 -1 17492 0
+D2
+~
+cancellata~
+0 -1 17484 0
+D3
+~
+cancellata~
+1 -1 17487 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17489
+Scogliera~
+   Wow...sei sulla parte piu' alta dell'isola. Da qui puoi vedere tutto il
+lago intorno a te e persino molta foresta. Lontano verso ovest vedi levarsi
+al cielo una colonna di fumo. A nord prosegue la scogliera, mentre a sud una
+fitta vegetazione rappresenta un grave ostacolo.
+~
+174 0 2
+D0
+~
+~
+0 -1 17493 0
+D2
+~
+cancellata~
+0 -1 17485 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17490
+L'altare~
+   Questa sala e' il luogo piu' sacro di tutto il Tempio. Qui una scalinata per
+nulla ripida porta verso un altare dove su un semplice tavolo vedi un LIBRO
+e una TARGA in oro massiccio. Un'INCISIONE e' stata scolpita in una lastra
+d'argento affissa alla parete. Nell'aria aleggia lo spirito severo di Offar.
+~
+174 233 0
+D1
+~
+~
+0 -1 17491 0
+D2
+~
+cancellata~
+0 -1 17486 0
+E
+targa~
+QUESTO E' IL TEMPIO DEL DIO OFFAR. PREGATE O MORTALI CHE LA
+VOSTRA ANIMA VENGA CUSTODITA NEL SACRO LIBRO DI OFFAR IN
+MODO CHE SOPRAVVIVA NEI SECOLI.
+~
+E
+libro~
+LE ANIME CUSTODITE IN QUESTO LIBRO NON DOVRANNO MAI
+TEMERE NULLA DALLE TENEBRE CHE CERCANO DI CARPIRLE E
+POTRANNO SEMPRE CONTARE SULLA BENEDIZIONE DI OFFAR.
+ANIME: Okawa;
+~
+E
+incisione~
+VOI CHE SIETE AL COSPETTO DELL'ANIMA DEL GRANDE DIO OFFAR
+INGINOCCHIATEVI E VENERATE IL NOME DI COLUI CHE VIGILA
+SEMPRE SULLA VOSTRA ANIMA INDIFESA.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17491
+Una stretta navata~
+   Percorri una lunga, stretta e curva navata. Alle pareti sono appesi dipinti
+che raffigurano antichi Dei mentre compiono azioni eroiche. Una sola fiaccola
+illumina il passaggio ed il silenzio copre qualsiasi altro rumore.
+~
+174 489 0
+D2
+~
+cancellata~
+0 -1 17487 0
+D3
+~
+cancellata~
+0 -1 17490 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17492
+Stradina~
+   Qui sei all'estremita' settentrionale dell'isola dove il terreno pian piano
+diventa scosceso fino a sparire sott'acqua. Anche qui profonde impronte
+bagnate attraversano la piccola spiaggia fino a perdersi nella vegetazione.
+Quest'isola e' sicuramente abitata. Ad ovest costeggi un muro, mentre ad
+est puoi salire in cima ad una scogliera.
+~
+174 4 2
+D0
+~
+~
+0 -1 17495 0
+D1
+~
+~
+0 -1 17493 0
+D2
+~
+~
+0 -1 17488 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17493
+Scogliera~
+   Da qui hai l'intera visuale dell'isola. Al centro un Tempio circolare
+domina la scena. Attorno bassa e alta vegetazione sembrano abbracciare
+la costruzione sacra come per difenderla. Guardando in basso vedi il lago
+ma un salto da qui sarebbe mortale.
+~
+174 0 2
+D2
+~
+~
+0 -1 17489 0
+D3
+~
+~
+0 -1 17492 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17494
+Lago~
+   Brrr.....l'acqua e' gelida e scura come la notte. Questo posto spaventerebbe
+il piu' temerario degli esploratori. Infatti non puoi immaginare cosa nuota
+sotto di te sfiorandoti le gambe...
+~
+174 0 6
+D0
+~
+~
+0 -1 17496 0
+D1
+~
+~
+0 -1 17495 0
+D2
+~
+~
+0 -1 17494 0
+D3
+~
+~
+0 -1 17494 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17495
+Lago~
+   Essendo vicino alla riva, l'acqua qui non e' molto profonda e facilmente
+puoi scorgere il fondo coperto di pietre levigate. Il lago si perde a vista
+d'occhio e cerchi di scacciare dalla mente quali orribili creature si
+potrebbero nascondere nelle sue profondita'. A sud c'e' un isola.
+~
+174 0 6
+D0
+~
+~
+0 -1 17497 0
+D1
+~
+~
+0 -1 17496 0
+D2
+~
+~
+0 -1 17492 0
+D3
+~
+~
+0 -1 17494 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17496
+Lago~
+   Ancora e sempre acqua. Una bottiglia chiusa con un tappo di sughero
+galleggia obliqua con un movimento ondulante. Ma all'improvviso ti accorgi che
+delle bolle d'aria stanno salendo in superficie... non sei solo... scappa!!!
+~
+174 0 6
+D0
+~
+~
+0 -1 17494 0
+D1
+~
+~
+0 -1 17495 0
+D2
+~
+~
+0 -1 17496 0
+D3
+~
+~
+0 -1 17495 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17497
+Il mulinello~
+   Sei finito in un vortice che per tua fortuna non e' abbastanza forte da
+risucchiarti. Tuttavia apre una sorta di passaggio verso il fondo buio del
+lago. Non e' una cosa che faresti tutti i giorni ma la curiosita' ti spinge
+ad inoltrarti nelle profonde e fredde acque. Tutt'intorno c'e' solo il lago.
+~
+174 0 6
+D0
+~
+~
+0 -1 17496 0
+D1
+~
+~
+0 -1 17495 0
+D2
+~
+~
+0 -1 17495 0
+D3
+~
+~
+0 -1 17494 0
+D5
+~
+~
+0 -1 17498 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17498
+Il turbine~
+   Sei sott'acqua e la corrente e' sufficiente per rallentare la tua discesa.
+Da qui puoi osservare un altro mondo. Pesci, alghe e carcasse di imbarcazioni
+arredano il fondo del lago. In alto la luce e' sempre piu' lontana.
+~
+174 193 8
+D4
+~
+~
+0 -1 17497 0
+D5
+~
+~
+0 -1 17499 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#17499
+Il turbine~
+Sei ormai quasi arrivato sul fondo di rocce quando vedi ai tuoi piedi una
+strana apertura. Avvicinandoti noti che il passaggio scende per poi salire
+di colpo verso non sai che cosa. Sei avvolto completamente dall'oscurita'
+del lago e puoi solo tornare in superficie o proseguire verso l'antro.
+~
+174 197 8
+D4
+~
+~
+0 -1 17498 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

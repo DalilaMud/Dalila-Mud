@@ -1,0 +1,4141 @@
+#28000
+Il Giardino del Palazzo~
+   Attraversi un'arcata di marmi policromi e ti ritrovi su un sentiero
+costeggiato da basse siepi ben curate che si inoltrano a labirinto.
+Intorno a te vedi marmoree statue di taglio classico disseminate lungo
+il sentiero. Questo posto ti conduce in un ideale cammino verso la dimora
+del Sovrano di Lamorka. In un angolo noti un piccolo pozzo chiuso.
+Accanto al pozzo noti una grande pietra con una &3TARGA&0 d'oro.
+~
+280 68 2
+D0
+~
+~
+0 -1 28001 0
+D3
+~
+~
+0 0 2094159 0
+E
+pozzo~
+Questo pozzo e' chiuso con una pesante lastra in metallo. E' impossibile
+smuoverla dall'alto.
+~
+E
+targa~
+   Questa prima pietra e' stata depositata da Sephrenia la Piccola Maga che ha
+realizzato il progetto del Castello.  La leggenda narra che Madame Ginetta
+apparve in sogno alla Piccola Maga confidandole l'antica sapienza che pervade
+tutto il Castello.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28001
+Il Piazzale davanti al Palazzo Reale~
+   Il labirinto di siepi si apre in un enorme spiazzo. Lo spettacolo
+che ti trovi davanti ti lascia senza fiato. Hai davanti a te l'imponente
+palazzo di solida pietra del grande Sovrano di Lamorka. Piccoli cannoni
+montati sui loro affusti perimetrano il piazzale, fra i merli delle torri
+noti numerosi arcieri mentre l'ingresso al Palazzo e' attraverso un grande
+portone centrale e due portoncine piu piccole poste alle due estremita'.
+~
+280 64 2
+D1
+~
+~
+0 -1 28002 0
+D2
+~
+~
+0 -1 28000 0
+E
+cannoni~
+Mmm il castello e' ben difeso, bello e assai accogliente.
+Quale sala e' piu' splendente e il vessillo dall'alto pende.
+
+         Chi Sventola? Chi Osa?
+         Bagnalo nel sangue
+         Brucialo nel fuoco
+         Alzalo nel vento
+         Piantalo nel terreno
+         Chi Distorce? Che vita noiosa?
+
+Non ho parole ma solo una Runa, la 'N'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28002
+Davanti al portone~
+   Sei sotto l'arco dell'ingresso al Palazzo. Il portone e' stato lavorato
+dai migliori intarsiatori di Sendaria e mostra due draghi che accompagnano
+un cavaliere lungo un sentiero alberato. Un drappello di guardie sbuca
+dalla caserma a sud e per un attimo pensi al peggio. Per fortuna i soldati
+ti ignorano e si apprestano solo a cambiare la guardia davanti al portone.
+Le due guardie al portone sembrano veterani super addestrati. Non sara'
+facile passare.
+~
+280 35184372088896 2
+D1
+~
+portone~
+2 28004 28004 15
+D2
+~
+~
+0 -1 28003 0
+D3
+~
+~
+0 -1 28001 0
+E
+draghi~
+Come fornace il loro petto
+custodisce arcane fiamme
+portan in dono gemme argento e oro,
+hanno guidato un cavalier alle porte
+fermando il tempo e la sua morte.
+~
+E
+cavaliere~
+     Chi scocca ? Chi Osa?
+     Che infame destino
+     Che amara sorte
+     la sua ignobile arma
+     mi ha dato la morte
+     Chi scocca? Chi vedi ogni cosa?
+
+Da qui inizia la cerca ma non perder la strada
+la prima runa e' codesta '' S ''
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28003
+Il posto di guardia~
+   Sei all'interno della piccola casermetta che ospita il drappello di
+soldati che hanno il compito di picchettare il portone. Pochi mobili e
+qualche letto sono gli unici arredi oltre ad un grande tavolo posto al
+centro della stanza. Alcuni soldati che si stavano riposando si alzano
+e ti guardano in modo poco convinto.
+~
+280 8 0
+D0
+~
+~
+0 -1 28002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28004
+Il Cortile del Re~
+   Attraversi il grande portone centrale e ti trovi in un piccolo cortile
+interno in terra battuta. Molti servitori corrono velocemente avanti e
+indietro mentre giovani cavalieri e valenti maghi si riuniscono in piccoli
+gruppi per scambiarsi i racconti delle loro eroiche gesta. Guardandoti
+intorno vedi che ogni cosa rispecchia la potenza e la benevolenza del
+sovrano e ti auguri di poter essere un giorno accettato al suo cospetto.
+~
+280 35184372088896 1
+D0
+~
+~
+0 0 28010 0
+D1
+~
+~
+0 -1 28005 0
+D2
+~
+~
+0 -1 28039 0
+D3
+~
+portone~
+2 28004 28002 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28005
+I locali della servitu'~
+   Passi una piccola arcata in pietra ed entri nei locali dove la servitu'
+del palazzo svolge le sue quotidiane mansioni. C'e' un gran via vai di
+donne indaffarate e di uomini carichi di merci e vettovaglie. Senti degli
+invitanti profumi provenienti dalla cucina verso est mentre gli odori pungenti
+che provengono da sud indicano che quello e' il luogo dove si custodiscono
+gli animali del castello.
+~
+280 64 0
+D1
+~
+~
+0 -1 28007 0
+D2
+~
+~
+0 -1 28006 0
+D3
+~
+~
+0 -1 28004 0
+E
+donne~
+Dalla bocca sputan fiamme e ti sbarrano la soglia
+si quel rombo e' sicurezza per il Re e il Suo volere.
+
+     Chi Rompe? Chi Osa?
+     era un drago o un diavoletto
+     lancia il mondo tondo tondo
+     ma fu gnomo e il suo intelletto
+     a ghermirne fuoco e affondo
+     Chi Piange? Chi travolge ogni cosa?
+
+Manca poco non temere metti in fila Rune Nere 'O'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28006
+Le Stalle Reali~
+   Le stalle del castello sono pulite e ben tenute, il locale ampio e ben
+arieggiato. Qui gli animali vengono accuditi e foraggiati. Vedi grandi
+stie di polli e conigli mentre appartati nella zona nord della stalla ci
+sono i ricoveri per i cavalli preferiti del Re, conosciuti in tutto il
+regno per la loro bellezza e velocita'.
+~
+280 64 0
+D0
+~
+~
+0 -1 28005 0
+E
+pollo polli~
+Scappa scappa questi luoghi son Reali
+se ti beccan qui son guai!!! Ma perche' da Lui non vai?
+
+     Chi Fissa? Chi Osa?
+     Son dell'anima lo specchio
+     E' la voce del comando
+     Niente acqua nel suo secchio
+     Solo sangue per il mondo
+     Chi China? Chi Osa?
+
+Sul terreno la gallina ha raspato
+questa Runa assai carina 'U'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28007
+La cucina~
+   Entri nella grande cucina del Palazzo. Qui ci sono enormi forni in
+pietra dentro i quali si preparano le pietanze per la corte ed un camino
+che occupa tutta la parete nord della stanza ove dentro ci vedi girare
+invitanti arrosti. Grandi madie in legno sono allineate lungo le pareti
+e vedi che contengono ogni genere di attrezzatura per la cucina, dalle
+belle pentole in rame ai piatti di raffinata porcellana. Dalla cucina
+si apre una comoda scala che porta direttamente al salone dei ricevimenti
+mentre nella parete a sud noti una piccola porta che conduce alla dispensa.
+Sulla parete accanto all'imbocco della scala e' affissa una lavagnetta con 
+i Piatti del giorno.
+~
+280 4294967504 0
+D2
+~
+~
+0 -1 28008 0
+D3
+~
+~
+0 -1 28005 0
+D4
+~
+~
+0 -1 28009 0
+E
+Lista Piatti Menu~
+&3  _____________________
+&3 /  &5PIATTI DEL GIORNO&3  \ 
+&3|   &7Pesce   Fritto&3      |
+&3|   &7Aragosta&3            |
+&3|   &7Caviale&3             |
+&3|   &7Pizza   Rustica&3     |
+&3|   &7Patate  Speziate&3    |
+&3|   &7Arrosto Misto&3       |
+&3| &7Coniglio alla Sendar&3  |
+&3|       &5 DOLCI&3          |
+&3|     &7Pastarella&3        |
+&3|     &7Millefoglie&3       |
+&3 \_____________________/&0
+~
+E
+Pietanze~
+Cerca meglio ma e' qui
+~
+E
+madie~
+La Festa continua su dacci una mano!
+Prendi un vassoio quello con la Runa 'K' sopra
+e corri su ma stai attento a non far disastri!
+Come chi ti ha preceduto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28008
+La dispensa~
+   Questo locale e' fresco e ben arieggiato anche se poco illuminato.
+Qui in ordine su puliti scaffali vedi ogni tipo di genere alimentare
+e non puoi fare a meno di notare che abbondano prodotti rari ed esotici
+provenienti da ogni terra conosciuta. La fama ed il lustro della corte
+del Grande Re sono ben meritati!
+~
+280 2752 0
+D0
+~
+~
+0 -1 28007 0
+D1
+~
+~
+0 0 28049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28009
+Una scala di pietra~
+   Ti trovi su un'ampia scala che conduce direttamente al salone dei
+ricevimenti. Da qui i paggi e i valletti si affrettano avanti ed
+indietro per servire le portate ai convitati. Faresti meglio a scansarti
+se non vuoi che qualcuna delle preziose suppellettili che trasportano
+vada in frantumi!
+~
+280 64 0
+D4
+~
+~
+0 -1 28026 0
+D5
+~
+~
+0 -1 28007 0
+E
+suppellettili frantumi~
+Bravo Bravo ormai sei il vincente!
+Un'altro vassoio caduto in frantumi peccato era quello
+con la Runa 'Y' un ultimo sforzo verso il Tesoro!
+Il piu' difficile direi.
+ 
+         Chi Tace? Chi Osa?
+         E' inno alla morte nel vento di guerra
+         Se urla e non tace ti toglie il respiro 
+         E' pace al tramonto nel sonno dispera
+         Se porta bandiera e' festa e delirio
+         Chi Osa? Chi Suona?
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28010
+Una preziosa arcata~
+   Passi sotto una bellissima arcata dipinta con colori che si mischiano
+allegramente col resto del cortile. Uomini d'affari, messaggeri, sovrani
+e chiunque voglia presentarsi al cospetto del potente Re deve passare da
+questo ingresso.
+~
+280 64 0
+D2
+~
+~
+0 -1 28004 0
+D4
+~
+~
+0 -1 28011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28011
+La Scalinata~
+   Sali una larga scalinata in pietra serena che ti porta al piano
+superiore. La scalinata si apre fra archi imponenti nella loro
+semplicita', mentre le pareti sono cariche di fiorite piante rampicanti.
+Il grande loggiato a cui ti conduce la scalinata gira tutto attorno al
+cortile affacciandovisi. Qui i dignitari di corte si ritrovano e da qui
+puoi accedere alle sale piu' importanti del palazzo. Il loggiato continua
+ad est e ad ovest.
+~
+280 92 0
+D1
+~
+~
+0 -1 28027 0
+D3
+~
+~
+0 -1 28012 0
+D5
+~
+~
+0 -1 28010 0
+E
+piante pareti rampicanti~
+Il Profumo dei fiori e' assai piacevole ma altri
+profumini attirano la tua attenzione e il tuo palato!
+Trova l'origine di questi sapori e segui la scia senza timori!
+La Runa e' 'O'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28012
+Lungo il Loggiato dell'ala ovest~
+   Percorri il bellissimo loggiato che perimetra il cortile dal quale
+senti provenire le voci gioiose di chi vive e lavora nel castello. Il
+loggiato prosegue a nord.
+~
+280 72 0
+D0
+~
+~
+0 -1 28013 0
+D1
+~
+~
+0 -1 28011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28013
+Lungo il Loggiato dell'ala ovest~
+   Prosegui il tuo cammino sotto questo confortevole loggiato che da'
+accesso a numerose sale del palazzo. Verso ovest noti due scintillanti
+armature poste ai lati di una grande porta a doppio battente che ti
+introduce nella Sala del Trono di Re Otak, mentre il loggiato prosegue
+verso nord. Noti che la porta per il trono e' sempre aperta ad indicare
+che il Re gode piena fiducia nei suoi sudditi.
+~
+280 88 0
+D0
+~
+~
+0 -1 28016 0
+D2
+~
+~
+0 -1 28012 0
+D3
+~
+~
+0 -1 28014 0
+E
+armature~
+Il tuo volto e'riflesso, la luce e' splendente che' avvolge il vincente
+conservala a lungo or vai nel profondo.
+
+        Chi Vede? Chi Osa?
+        ti guida nel buio
+        ti porta al suo tempio
+        il capo nell'olio
+        ed e' fuoco e il suo scempio
+        Chi Spegne? Chi Posa?
+
+Ormai e' gia' chiaro il nostro segreto ma accetane un'altra
+di Runa di Vetro 'E'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28014
+La Sala del Trono~
+   Passi con timore riverenziale fra le due armature ed uno squillo di
+chiarine ti annuncia che sei nella Sala in cui il grande Re Otak riceve
+sudditi imploranti e dignitari di paesi stranieri. La sala e' illuminata
+da grandi ed alte finestre, alle pareti stendardi variopinti omaggio di
+tutti coloro che hanno preferito avere nel Grande Otak un amico piuttosto
+che un avversario. Uno splendente tappeto segna il tuo cammino fino ai
+piedi del trono che si erge maestoso davanti a te sormontato da due grandi
+alabarde incrociate, monito per tutti coloro che osassero sfidare il grande
+re di Lamorka. Le voci dei dignitari di corte e degli ambasciatori stranieri
+sono basse e composte per non turbare l'atmosfera solenne di questa sala.
+Proprio accanto al trono noti una porticina semi nascosta da un drappeggio.
+~
+280 220 0
+D0
+~
+porticina~
+0 28001 28018 0
+D1
+~
+~
+0 -1 28013 0
+D2
+~
+~
+0 -1 28015 0
+E
+stendardi stendardo~
+Esci da qui forse il cammino hai sbagliato!
+Chiedi ai guardiani silenti in armature splendenti.
+
+       Chi Cerca? Chi Osa?
+       Son morti ma desti
+       Son vuoti ma duri
+       Son fermi ma lesti
+       Son guardia di porta signori dei muri
+       Chi Parte? Chi Resta?
+
+Attento al tranello rimuovilo in tempo se questo o se quello
+un'altra Runa che bello! 'V'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28015
+La Sala Tattica~
+   Questa stanza è illuminata solo dalla luce delle molte fiaccole disposte
+lungo tutte le pareti. Su un grande tavolo rotondo al centro della stanza
+vedi una particolareggiatissima miniatura dell'intero regno di Lamorka
+e dei regni ad esso confinanti. Accatastate su numerosi scaffali puoi vedere
+pile di mappe e carte geografiche e grossi tomi antichi che riportano
+le cronanche delle imprese e delle spedizioni condotte dai grandi Re del
+passato. In questa sala il grande Re con i suoi generali decide le sorti
+del Regno.
+~
+280 84 0
+D0
+~
+~
+0 -1 28014 0
+E
+miniatura mappa~
+
+     Chi Ride? Chi Osa?
+     Segue il tomo alla cima
+     Or riposa Or ristora le tue membra
+     Del sollazzo fa' la rima
+     Muove testa gamba e braccia ma non sembra
+     Chi Sghignazza? Chi chi scusa?
+
+Con l'inchiostro la tua Runa sulla mappa a miniatura 'O'.
+~
+F
+ 3 0 0 0 0 0 0 0 0 0
+S
+#28016
+Lungo il Loggiato dell'ala ovest~
+   Prosegui il tuo cammino sotto questo confortevole loggiato che da'
+accesso a numerose sale del palazzo. Verso nord puoi vedere una semplice
+porta di legno intarsiato sorvegliata da una guardia in alta uniforme.
+Dietro la porta si trovano gli appartamenti privati del Re. Ad est invece
+vedi una stretta scala che porta ai merli del castello. La guardia ti
+blocca il passaggio.
+~
+280 72 0
+D0
+Una porta di legno.
+~
+porta~
+1 330578 28017 135
+D1
+~
+~
+0 -1 28019 0
+D2
+~
+~
+0 -1 28013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28017
+Gli appartamenti di Owain~
+   Vieni ammesso nell'appartamento privato del re. La semplicità di questa
+stanza contrasta con lo sfarzo che hai incontrato fino a qui. Sobri ed
+eleganti mobili in legno pregiato adornano la stanza. Attira la tua attenzione
+un bellissimo scrittoio antico dove vedi tutto il necessario per scrivere. Ti
+accorgi che la stanza e' colma di doni che i fedeli sudditi di Sendaria hanno
+portato al loro amato sovrano.  
+~
+280 2892 0
+D0
+~
+~
+0 0 28046 0
+D2
+Una porta di legno.
+~
+porta~
+1 330578 28016 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28018
+Il passaggio verso il tesoro~
+   Passato uno stretto cunicolo buio ti trovi in una stanzetta buia e
+senza finestre. Una piccola lampada ad olio e' l'unica cosa che potrebbe
+illuminare la stanza. Non appena i tuoi occhi si sono abituati all'oscurita'
+noti che ci sono solo alcune casse ed un enorme forziere chiuso da numerosi
+chiavistelli.
+~
+280 3036 0
+D2
+~
+porticina~
+0 28001 28014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28019
+L'inizio della scala~
+   In questo punto la parete del Loggiato si apre verso una piccola scala
+che si inerpica fra le mura e che ti condurra' sui merli del castello.
+Il Loggiato prosegue verso l'ala est ed ovest del castello.
+~
+280 88 0
+D1
+~
+~
+0 -1 28020 0
+D3
+~
+~
+0 -1 28016 0
+D4
+~
+~
+0 -1 28028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28020
+Lungo il Loggiato dell'ala est~
+   Prosegui il tuo cammino sotto questo confortevole loggiato che da'
+accesso a numerose sale del palazzo. Da questo angolo il Loggiato si
+apre verso sud ed ovest.
+~
+280 88 0
+D2
+~
+~
+0 -1 28021 0
+D3
+~
+~
+0 -1 28019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28021
+Lungo il Loggiato dell'ala est~
+   Da questo punto del Loggiato si apre una bellissima terrazza fiorita
+mentre verso est la tua attenzione e' attirata da una musica di antichi
+strumenti a corda e senti le baritonali voci dei cavalieri mescolarsi al
+lieve chiacchierio delle dame. Ad est si apre il salone dei Ricevimenti
+del Palazzo. Il Loggiato prosegue verso sud.
+~
+280 88 0
+D0
+~
+~
+0 -1 28020 0
+D1
+~
+~
+0 -1 28023 0
+D2
+~
+~
+0 -1 28027 0
+D3
+~
+~
+0 -1 28022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28022
+La terrazza fiorita~
+   Ti fermi un attimo sulla terrazza coperta da un pergolato di lilla'
+che emanano un profumo intenso e gradevole. Puoi vedere la vita di palazzo
+correre frenetica nel cortile sotto di te ed assaporare un attimo di ristoro
+dissetandoti alla fonte che e' posta in un angolo della terrazza.
+~
+280 64 0
+D1
+~
+~
+0 -1 28021 0
+E
+pergolato~
+Ammiri i fiori e la vita al castello
+il profumo ti sale alla testa rampicante
+son forse fiorite le pareti al cervello
+
+     Chi Scala? Chi Osa?
+     E' verde la mano e ha fiori di neve
+     avvinghia ogni pietra ogni sasso lei tiene
+     se usa una corda scalarla non deve
+     e' verde la mano e al cielo lei sviene
+
+Su forza pivello e' ancora poi quello tu prendi
+una Runa e' 'E' la bruna.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28023
+Il Salone dei Ricevimenti~
+   Eccoti finalmente giunto nel magnifico salone dei Ricevimenti di Re Otak.
+La fama della grandiosita' di questa sala ha attraversato gli oceani e non
+puoi far altro che ammirare l'opera dei valenti artigiani che con il loro
+lavoro hanno contribuito a questo sfarzo. La luce entra prepotente e colorata
+dalle immense vetrate intarsiate poste nella parte alta delle pareti e ogni
+cosa colpita dalla luce ti abbaglia e ti stupisce. La sala prosegue verso est
+dove da un piccolo arco si accede alla zona dedicata alla musica e alle danze
+mentre verso sud puoi vedere una grandissima tavola imbandita.
+Un &b&1AFFISSO&0 al muro, con su scritto il primo indizio
+per partecipare alla Caccia al Tesoro.
+~
+280 88 0
+D1
+~
+~
+0 -1 28024 0
+D2
+~
+~
+0 -1 28026 0
+D3
+~
+~
+0 -1 28021 0
+E
+affisso~
+Armati di penna e calamaio, d'ingegno e intelletto
+da qui la tua cerca puoi cominciar. 
+Gli indizi segui attento e le Rune unisci per diletto
+orsu' muoviti il tempo corre e non sei solo a cercar..
+ma chi ! ma cosa!
+
+      Chi bussa ? Chi Osa?
+      Le fornaci volanti scortan
+      Il suo cammino
+      Codice e misura son la sua fede
+      Son il suo destino
+      Chi bussa ? Chi Osa?
+
+~
+E
+vetrata vetrate~
+Sforzo invano e' il tuo girare? Corri corri non pensare
+tutti gli altri son gia' passati e alla meta' son quasi arrivati.
+Non son Dame ma signore portan vesti assai lussuose 
+ma non l'hanno mai a indossare.
+
+     Chi Monde? Chi Osa?
+     Regine del fuoco e i suoi segreti
+     Donan forza all'acqua e al vento
+     Crescon figli e combattenti
+     Nessun pianto nessun lamento
+     Chi Serve? Chi giammai si Riposa?
+
+Ma allor e' vero sei sveglio e astuto
+un'altra Runa hai conosciuto 'S'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28024
+La Sala dei musici~
+   Passi un piccolo arco e ti trovi nella zona della musica. Una piccola
+orchestra formata dai migliori musici del regno sta suonando una dolce
+melodia di sottofondo che accompagna le danze di dame e cavalieri. La
+luce di mille candele riempie la sala e gli abiti dei suo occupanti di
+curiosi bagliori esaltati dal movimento delle coppie che danzano. Da qui
+puoi vedere nella parte piu' a sud del grande salone un gruppo di persone
+vestite stranamente.
+~
+280 88 0
+D2
+~
+~
+0 -1 28025 0
+D3
+~
+~
+0 -1 28023 0
+E
+Tromba~
+E ora dove andrai?
+Ultimo passo ma stai attento che sbagliare non potrai.
+questo luogo il tesoro ti donera' 
+o alla schiavitu' a vita ti condannera'!
+              
+
+              Chi Vince? Chi Osa?
+              No tu ma un ultima cosa
+              Ne sposa ne rosa
+              No non c'entra sta cosa
+              Radiosa operosa no no non e' cosa
+              Chi Vince? Chi trova l'ultima Runa ed Esclama Vincera'!'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28025
+Davanti alla tavola imbandita~
+   Attraversi un altro piccolo arco e ti trovi nel grande spazio che sta
+davanti al tavolo del banchetto. Qui i saltimbanchi ed i giocolieri piu'
+abili del regno, vestiti di abiti colorati e sgargianti, fanno sfoggio
+della loro maestria intrattenendo i convitati e strappando spesso applausi
+di approvazione! Andando verso ovest ti puoi avvicinare al grande banchetto
+e se il Re sara' magnanimo con te potrai sedere alla sua tavola.
+~
+280 72 0
+D0
+~
+~
+0 -1 28024 0
+D3
+~
+~
+0 -1 28026 0
+E
+saltimbanchi giocolieri~
+Bene bene ti diverti? E' difficil la tenzone?
+Ma dai su non esser pollo o con lor dividerai il giorno.
+
+     Chi Becca? Chi Osa?
+     Non c'e' onore nel suo artiglio
+     Cerca il verme che ha tradito
+     poi lo estirpa al nascondiglio
+     e al fin gli mozza il capo ogni di' all'infinito
+     Chi Schiamazza? Chi che Osa?
+
+I Paladini del diletto la runa 'F' portan
+ricamata sull'agil lor petto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28026
+Il banchetto~
+   Re Otak in persona ti squadra dal suo scranno posto nella parte centrale
+del grande banchetto. Uno sguardo gelido che ti ghiaccia il sangue, ma un
+sorriso rischiara il suo volto e ti invita a sedere alla sua tavola e godere
+di tutte le prelibatezze che vedi davanti a te. Alla destra della grande
+tavola imbandita noti una comoda scala che scende verso il basso e da qui
+valletti affaccendati fanno la spola con la cucina per servire le portate
+e non far mancar niente ai convitati.
+~
+280 88 0
+D0
+~
+~
+0 -1 28023 0
+D1
+~
+~
+0 -1 28025 0
+D5
+~
+~
+0 -1 28009 0
+E
+re~
+Non e' poco il tuo coraggio
+ma non basta forza avanti all'aREmbaggio
+~
+E
+sguardo occhi~
+Si' impavido il tuo cuore
+scopri il petto ai guerrieri dell'amore.
+
+      Chi Tende? Chi Osa?
+      Sono in tanti e tutti intorno
+      La tua spada e' assai lontana
+      Sono in alto al vento al giorno
+      Fugge il corvo nella tana
+      Chi Mira? Chi Sposa?
+
+La tua mente al Re si apre
+runa 'R' dal buio scopre.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28027
+Lungo il Loggiato dell'ala  est~
+   Prosegui il tuo cammino sotto questo confortevole loggiato. Nell'ala est
+del castello si trova il grande salone dei ricevimenti che non puoi mancare
+di andare a vedere e magari sperare di poter essere ammesso alla tavola
+del Gran Re in persona!
+~
+280 88 0
+D0
+~
+~
+0 -1 28021 0
+D3
+~
+~
+0 -1 28011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28028
+Una stretta scala~
+   Sali la stretta scala che si apre fra le fredde mura in pietra del castello.
+Piccoli bracieri posti ad intervalli regolari illuminano il tuo procedere.
+Vedi una fievole luce provenire dall'alto.
+~
+280 76 0
+D4
+~
+~
+0 -1 28029 0
+D5
+~
+~
+0 -1 28019 0
+E
+bracieri braciere~
+Su o giu' non sai dove forse e' meglio aspettare
+Qual dolce profumo ti dona il polline nel vento.
+
+     Chi Annusa? Chi Osa?
+     son fragili ed esili di fronte al gigante
+     si chiudon s'abbraccian si piegan umilmente
+     ma la falce del tempo lo spezza all'istante
+     son piccoli e tanti sul petto al gigante
+     Chi Strappa? Distrugge una Rosa?
+ 
+Beh siamo vicini meglio esser brevi la Runa e' 'C'
+Ora corri all'altare e cerca un'altra parola di Giullare.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28029
+La cima della stretta scala~
+   Aria, finalmente un po' di aria fresca! Il passaggio dalla piccola scala
+ti ha lasciato senza fiato ma ora puoi godere della vista dell'intero regno.
+Ti trovi sulle merlature del castello. Quattro torrette poste ai quattro
+angoli vegliano sul regno e lungo le merlature noti le postazioni per gli
+arcieri ed i balestrieri pronti a difendere il castello a costo della loro
+stessa vita!
+~
+280 64 0
+D1
+~
+~
+0 -1 28037 0
+D3
+~
+~
+0 -1 28030 0
+D5
+~
+~
+0 -1 28028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28030
+La torretta di sud ovest~
+   Ti trovi all'ingresso della torre di sud ovest. Due imponenti guardie
+armate di balestra ti impediscono l'accesso alla torretta ma scrutando fra
+i due imponenti figuri puoi dare un'occhiata al grande piazzale antistante
+l'entrata del Palazzo.
+~
+280 64 0
+D0
+~
+~
+0 -1 28031 0
+D1
+~
+~
+0 -1 28029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28031
+Lungo la merlatura~
+   Cammini lungo la merlatura del castello e noti che le difese son ben
+approntate ed efficienti. Noti piccole armi da lancio con le loro munizioni
+vicino ordinate in piccole cataste e guardie armate di grandi archi fanno
+la ronda avanti e indietro lungo questa parte delle merlature.
+~
+280 64 0
+D0
+~
+~
+0 -1 28032 0
+D2
+~
+~
+0 -1 28030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28032
+La torretta di nord ovest~
+   Ti trovi ai piedi della torretta di nord ovest. Qui due imponenti guardie
+armate di balestra sembrano volerti sbarrare il cammino, ma ad uno sguardo
+piu' attento vedi che si scostano per lasciarti salire sulla piccola torre.
+~
+280 64 0
+D1
+~
+~
+0 -1 28034 0
+D2
+~
+~
+0 -1 28031 0
+D4
+~
+~
+0 -1 28033 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28033
+La cima della torretta di nord ovest~
+   Dopo aver salito una corta scaletta ti trovi di nuovo all'aria aperta
+sulla cima della torretta. Da qui puoi ammirare il panorama dell'intero
+regno di Lamorka che si stende ai tuoi piedi e il tuo sguardo puo' spaziare
+liberamente nelle quattro direzioni, lontano verso nuove terre di conquista.
+~
+280 64 0
+D5
+~
+~
+0 -1 28032 0
+E
+panorama~
+Che mente assai svelta ti porti a zavorra l'hai vista 
+la scala e la brace distorta un passo veloce lo meriti ancora
+la Runa e' nel mondo due volte soltanto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28034
+Lungo la merlatura~
+   Cammini lungo la merlatura del castello e noti che le difese son ben
+approntate ed efficienti. Noti piccole armi da lancio con le loro munizioni
+vicino ordinate in piccole cataste e guardie armate di grandi archi fanno
+la ronda avanti e indietro lungo questa parte delle merlature.
+~
+280 64 0
+D1
+~
+~
+0 -1 28035 0
+D3
+~
+~
+0 -1 28032 0
+E
+guardie arcieri~
+Son qui Arcieri e Balestrieri urlan 'B' la Runa d'oro.
+Se sin qui tu hai capito sei a un passo dal tesoro.
+Come il corno sta sul toro cosi il fuoco nel camino.
+Cosa all'arco e alla balestra? cosa posa qui' vicino?
+Vola un sasso sulla testa no un nome ma nel coro. 
+~
+E
+munizioni~
+Sarai un mago dei plurali o un favore a te del fato
+resta il fatto e non lo nego la Runa 'O' hai qui trovato.
+L'aria e' fresca il luogo e' bello 
+Regna il sole e suoi colori ma non qui! Ma nel castello !
+
+     Chi Illumina? Chi Osa?
+     mai fu gesta si' vetrosa
+     da li parti e or ritorni
+     se la pugni e' sanguinosa
+     la citta' e i suoi dintorni
+     Chi Vince? Colui che Osa?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28035
+La torretta di nord est~
+   Ti trovi all'ingresso della torre di Nord Est. Due imponenti guardie
+armate di balestra ti impediscono l'accesso alla torretta.
+~
+280 64 0
+D2
+~
+~
+0 -1 28036 0
+D3
+~
+~
+0 -1 28034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28036
+Lungo la merlatura~
+   Cammini lungo la merlatura del castello e noti che le difese son ben
+approntate ed efficienti. Noti piccole armi da lancio con le loro munizioni
+vicino ordinate in piccole cataste e guardie armate di grandi archi fanno
+la ronda avanti e indietro lungo questa parte delle merlature.
+~
+280 64 0
+D0
+~
+~
+0 -1 28035 0
+D2
+~
+~
+0 -1 28037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28037
+La torretta di sud est~
+   Ti trovi ai piedi della torretta di nord ovest. Qui due imponenti guardie
+armate di balestra sembrano volerti sbarrare il cammino, ma ad uno sguardo
+piu' attento vedi che si scostano per lasciarti salire sulla piccola torre.
+~
+280 64 0
+D0
+~
+~
+0 -1 28036 0
+D3
+~
+~
+0 -1 28029 0
+D4
+~
+~
+0 -1 28038 0
+E
+guardia guardie~
+    
+    Chi Veglia ? chi Osa?
+    Non c'e onore nel lancio
+    ma c'e' morte nel dardo
+    il segreto e' nell'arma
+    del mio gelido sguardo
+    Chi urla ? Chi annoda ogni Cosa?
+
+Sul cuoio delle armature e' incisa la Runa 'T'
+e due son le guardie.
+~
+E
+Balestra~
+    Chi approda? Chi Osa?
+    Urlo nel vento di morte il mio canto
+    Infame nel petto per sempre lui m'ode
+    e' di me che narrava ma nessun vanto
+    che corsa che affanno sali ancora mio prode
+    Chi doma nel vento? Chi scioglie ogni cosa?
+
+E' giusto il percorso ma attento al tranello
+tu cerca lo sporto ma non correre al porto
+se perdi il filo s'annebbia il cervello
+La Runa 'O' per poco non fu prima del segno piu' torto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28038
+La cima della torretta di sud est~
+   Dopo essere salito su per una corta scala ti trovi di nuovo all'aria
+aperta sulla cima della torretta. Da qui puoi ammirare il panorama che ti
+offre il fiume che sfocia nel grande mare. In lontananza verso sud scorgi
+l'industrioso porto di Lamorka che ha reso la citta' una delle piu' fervide
+potenze commerciali e militari.
+~
+280 64 0
+D5
+~
+~
+0 -1 28037 0
+E
+panorama porto~
+E bravo il campione avanza sornione.
+
+    Chi Trama? Chi Osa?
+    Da qui parte il dardo che spezza il respiro
+    ma dove ha deciso chi gioca la guerra
+    la gira l'avvolge le punta il suo dito
+    la mette nel sacco la sua amata terra
+    Chi sceglie la mossa? Che Cosa?
+
+Sul sasso del merlo qualcuno o nessuna
+a tracciato per te la terza Runa 'N'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28039
+Un passaggio buio~
+   Ti trovi in uno stretto passaggio in terra battuta. Il luogo e' a
+malapena illuminato da poche torce disposte lunghe le pareti. Ti accorgi
+che il passaggio è in leggera discesa.
+~
+280 76 0
+D0
+~
+~
+0 -1 28004 0
+D5
+~
+~
+0 -1 28040 0
+E
+torce torcia~
+Ihhh che brutto posto qui finirai se non sarai accorto,
+Torna alla luce alzati nel cielo del Regno e del Bello 
+se cerchi la Luna 'L' e' la Runa.
+
+                Chi Sale? Chi Osa?
+                E' li il tuo nemico
+                si stende infinito
+                E' li il tuo amico
+                dall'alba al tramonto
+                Chi Ammira? E' immensa e armoniosa?
+
+Non conta il suo segno e' nulla e ogni cosa ti bastano l'occhi
+prendi una Runa ma forse son troppi 'L'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28040
+Un passaggio buio~
+   Qui l'atmosfera e' ancora piu' deprimente e preoccupante. Le fiaccole
+sono lontane ed il terreno battuto in questo punto ha una pendenza maggiore.
+Ragnatele e odore di chiuso non ti attirano a proseguire verso il lieve
+bagliore che intravedi ancora piu' in basso. Puoi tornare sui tuoi passi
+oppure varcare la grata scricchiolante piu' in basso.
+~
+280 76 0
+D4
+~
+~
+0 -1 28039 0
+D5
+~
+~
+0 -1 28041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28041
+La grata~
+   Attraversi la grata scricchiolante e appena i tuoi occhi si abituano
+all'oscurita' vorresti subito tornare su tuoi passi. Ti trovi nelle
+segrete del castello di Re Otak, un luogo dove nei tempi passati
+traditori e fuorilegge venivano lasciati per essere per sempre dimenticati!
+Catene alle pareti e numerose celle ormai piene solo di raccapriccianti
+mucchi di ossa sono tutto intorno a te e ti auguri di cuore che questo
+luogo rimanga chiuso ed abbandonato per molto molto tempo ancora.
+Un cartello nuovo e pulito e' appeso ad una cella.
+~
+280 72 0
+D1
+~
+cella~
+2 28003 28042 15
+D4
+~
+porticina~
+0 -1 28040 0
+E
+cartello~
+Bene eccoti qui! Adesso raduna quel che hai appreso, prendi fiato e di' la tua.
+Se la frase giusta sara' il tesoro apparira' altrimenti il boia ti aspetta 
+per far festa con la tua testa!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28042
+Una cella~
+   Ti trovi in una cella umida e buia. Intravedi solo una brandina vicino
+alla parete a nord che comunque non dista piu' di due metri da quella sud.
+La porta e' molto robusta e solo una piccola inferriata all'altezza dei
+piedi lascia passare un po' d'aria. Sei nelle prigioni di Otak!!
+Sara' dura fuggire ora.
+~
+280 253 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28043
+Centro manovali di Lamorka~
+  Se cercavi il posto in cui assoldare manovali sei arrivato nel luogo
+giusto. Seduto dietro ad una scrivania vedi il venditore di manovali di
+Lamorka. Questi, non appena ti vede, ti sorride e ti fa accomodare. 
+&1&b
+ Per sapere quali manovali sono disponibili e a quale tariffa
+ usare il comando LISTA.
+&6
+ Per acquistare un manovale  usare il comando COMPRA MANOVALE 
+
+~
+280 0 1
+D3
+~
+~
+0 0 6638 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28044
+Centro ricerche~
+   Il centro di questa sala e' occupato da tavoli su cui sono distese le
+mappe delle varie regioni della Daresia, mentre numerosi schedari sono
+accostati alle pareti. Meredith l'addetta alle ricerche dei manovali di
+Lamorka si trova nella stanza intenta ad osservare una delle mappe.
+
+ &1&bPer ricercare i propri manovali dispersi basta dare la modica cifra&0
+&1&bdi 500 coins all'addetto.&0
+~
+280 0 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28045
+Sala ritrovo~
+   In questa sala sono numerose panche e un paio di comodi divani.
+Un'intera parete della stanza sembra funzionare da magazzino, vi vedi
+infatti ammassate numerose risorse in vari stadi di lavorazione, come pure 
+vari attrezzi necessari per la loro raccolta. I manovali che si trovano
+nella stanza attendono che i loro padroni gli assegnino nuovi incarichi.
+~
+280 16 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28046
+Il salottino personale della regina~
+   Qui la regina di Sendaria riceve amici ed intimi. L'azzurro, che sembra
+essere il suo colore preferito, anche qui predomina: l'impressione che si ha e'
+di entrare in uno squarcio di cielo. Ad un lato, delle poltroncine foderate in
+velluto - naturalmente azzurro - circondano un tavolino in legno scuro
+intarsiato; all'altro capo della stanza, vedi alcuni strumenti musicali - un
+liuto, un'arpa, un violino, ed alcuni flauti. Un'ampia finestra da' sul
+giardino del castello.  
+~
+280 2560 0
+D2
+~
+~
+0 0 28017 0
+D3
+~
+porta~
+0 0 28047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28047
+La camera da letto di Kya~
+   L'azzurro sembra essere il colore preferito della regina di Sendaria:
+sebbene le pareti siano in grigia pietra come il resto del castello, azzurri
+sono i velluti delle sedie, le tende alle finestre, le lenzuola dell'ampio
+letto a baldacchino; e vedi un paio di orecchini in zaffiro lasciati sul
+ripiano dell'elegante necessaire. I mobili semplici sono stati costruiti in
+legno scuro, tagliato in modo da far risaltare le venature naturali del legno;
+la stanza e' ampia, luminosa e semplice, e l'unico vezzo sono dei piccoli
+frammenti di quarzo intagliato abilmente disposti per la stanza in maniera tale
+da riflettere la luce del giorno, in modo da creare un eterno e fluttuante
+arcobaleno sulle pareti della stanza.  
+~
+280 2560 0
+D1
+~
+~
+0 0 28046 0
+D2
+~
+~
+0 0 28048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28048
+La camera da letto del Re~
+   Spartana e frugale, la camera da letto del Re e' arredata in modo rustico.
+L'unica concessione al lusso e' un elegante stemma araldico dorato impreziosito
+da gemme, il primo stemma regale di Sendaria. Avanzi lentamente nella stanza
+osservando i mobili di legno massiccio, mentre dietro ad un drappo candido puoi
+intravedere la sagoma del letto a baldacchino.  
+~
+280 2816 0
+D0
+~
+~
+0 0 28047 0
+D2
+~
+~
+0 0 28018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28049
+Il vivaio dei pesci~
+Attenzione... sei entrato in una specie di enorme piscina artificiale.
+Qui vedi nuotare pesci di varie forme e colori... evidentemente
+in questa enorme vasca vengono allevati pesci che poi verranno
+pescati per essere serviti in tavola al banchetto del Re.
+~
+280 8 6
+D3
+~
+~
+0 0 28008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28050
+Ingresso del Comune~
+   Non esageratamente sfarzoso, questo atrio e' l'entrata al Comune di Lamorka.
+Un grande tappeto ricopre tutto il pavimento mentre quadri raffiuguranti i
+pionieri della citta' sono appesi ovunque.  Ad ovest ed est ci sono degli
+uffici mentre il corridorio continua verso sud.    
+~
+280 28 0
+D1
+~
+~
+0 0 28052 0
+D2
+~
+~
+0 0 28053 0
+D3
+~
+~
+0 0 28051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28051
+Equipaggiamento~
+Nothing.
+~
+280 2588 0
+D1
+~
+~
+0 0 28050 0
+E
+avviso~
+Puoi chiedere (in say) informazioni generali su:
+zonanewbie, negozi, castello, porto, scacchiera, addestramento, mestieri,
+sotterranei, casa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28052
+Pozioni~
+Nothing.
+~
+280 2588 0
+D3
+~
+~
+0 0 28050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28053
+Piccola anticamera~
+   Questa saletta d'attesa offre l'opportunita' di sedersi comodamente sui
+sofa' aspettando di essere ammessi al cospetto del Sindaco.  Altri uffici si
+trovano ad ovest ed est.    
+~
+280 28 0
+D0
+~
+~
+0 0 28050 0
+D1
+~
+~
+0 0 28055 0
+D2
+~
+~
+0 0 28056 0
+D3
+~
+~
+0 0 28054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28054
+Armi~
+Nothing.
+~
+280 2588 0
+D1
+~
+~
+0 0 28053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28055
+Viveri~
+Nothing.
+~
+280 2588 0
+D3
+~
+~
+0 0 28053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28056
+L'Auditorium~
+   Questo grandissimo salone circolare e' il cuore del Comune.  Qui si svolgono
+le assemblee popolari e i comizi dei cittadini.  Spesso il Sindaco parla dal
+palco costruito al centro della sala e discute dei problemi e degli sviluppi
+della citta'.  A nord intravedi il corridorio.    
+~
+280 156 0
+D0
+~
+~
+0 0 28053 0
+D1
+~
+~
+0 0 28057 0
+D3
+~
+~
+0 0 28058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28057
+Sartoria~
+Nothing.
+~
+280 2588 0
+D3
+~
+~
+0 0 28056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28058
+Carpenteria~
+Nothing.
+~
+280 2708 0
+D1
+~
+~
+0 0 28056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28059
+Pescheria~
+   Un ampio negozio ben areato e' l'ideale per vendere e comprare il pesce
+fresco del golfo di Lamorka.  Un giovane e forte marinaio in camicia sistema le
+varieta' di pesce sul bancone coprendole con sale e ghiaccio.    
+~
+280 156 0
+D2
+~
+~
+0 0 3035147 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28060
+Verso l'antico ponte Otals Olta~
+   Questo ponte prende il nome del suo ideatore, la leggenda racconta
+che terminata la costruzione di questa ciclopica opera in granito,
+mentre provava il meccanismo di chiusura che permette al ponte, in caso
+di emergenza, di rientrare in una cavita' scavata sotto le porte della
+citta', Otlas Otla perse l'equilibrio e cadde giu' nel profondo vallone
+dove il suo corpo scomparve fra le rapide del fiume Quiet.
+A nord vedi le fertili terre dell'altopiano di Lamorka.
+~
+280 4 1
+D0
+~
+~
+0 0 2095458 0
+D2
+~
+~
+0 0 3014043 0
+D4
+~
+~
+0 -1 28090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28061
+La Galleria~
+   Centinaia di piccoli lumi ad olio illuminano a giorno questa enorme
+galleria che scende ad est verso il Porto e sale a Nord verso un ponte.
+Dai lavori di scavo di questa galleria furono ricavati la maggior parte
+dei materiali con cui e' stata costruita l'odierna citta' di Lamorka.
+Terminati i lavori Re Otak il Grande convoco' a corte i migliori artisti
+della Daresia affinche' abbellissero con affreschi raffiguranti le sue
+gesta le pareti della galleria.
+~
+280 8 0
+D0
+~
+~
+0 0 3015143 0
+D1
+~
+~
+0 -1 28062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28062
+Una Curva nella Galleria~
+   In questo punto la Galleria compie un'ampia curva, gli inconfondibili
+odori del porto provenienti da sud raggiungono le tue narici, in alto ad
+ovest vedi l'inizio del ponte, sulla parete ad est e' raffigurato Re Otak
+il Grande che trafigge con la sua spada il cuore di un enorme Drago Nero.
+~
+280 0 0
+D0
+Una oscura arcata nella parete.
+~
+~
+0 0 6742 0
+D2
+~
+~
+0 -1 28063 0
+D3
+~
+~
+0 -1 28061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28063
+La Galleria~
+   Centinaia di piccoli lumi ad olio illuminano a giorno questa enorme
+galleria che scende a sud verso la Banchina del Porto e sale a nord verso
+la citta'. Sulla parete ovest e' raffigurato Re Otak il Grande che cavalca
+il suo fedele destriero e guida le sue Armate in battaglia, sulla parete
+est il Grande Re e' raffigurato alla guida di un'invincibile flotta navale.
+~
+280 8 0
+D0
+~
+~
+0 -1 28062 0
+D2
+~
+~
+0 -1 3045248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28064
+La Banchina del Porto~
+   Sei sulla Banchina del Porto di Lamorka. A nord vedi la galleria che
+conduce con una ripida salita alla citta'. In alto vedi le pareti a
+strapiombo del profondo vallone scavato nel corso dei secoli dal fiume
+Quiet. A sud, ai piedi della banchina, scorrono impetuose le acque del
+fiume; la banchina prosegue ad est.
+~
+280 0 1
+D0
+~
+~
+0 -1 28063 0
+D1
+~
+~
+0 -1 28065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28065
+La Banchina del Porto~
+   In questo punto il fiume sfocia in un largo estuario e le sue acque
+improvvisamente si calmano e diventano sufficientemente profonde tanto
+da consentire la navigazione. La banchina continua ad ovest, ad est vedi
+la Piazza del Porto.
+~
+280 0 1
+D1
+~
+~
+0 -1 28066 0
+D3
+~
+~
+0 -1 28064 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28066
+La Piazza del Porto~
+   Sei nel punto centrale del porto; questo e' il ritrovo di tutti i
+venditori della regione. La merce e' esposta su dei banchetti di legno
+oppure messa in bella vista su stupendi tappeti stesi a terra, decine di
+venditori ambulanti ti si avvicinano offrendoti oggetti a te sconosciuti
+provenienti da lontane terre. Anche se confuso da questo improvviso
+assembramento di persone, noti nella folla alcuni figuri strani, di certo
+ladri in cerca di bottino per nulla intimoriti dalla forca che si vede a nord.
+Ormeggiate lungo la banchina a ovest vedi delle barche di pescatori cariche
+di pesce fresco, ad est continua la banchina.
+Al centro della piazza noti un cerchio di pietre contenente un'antica ISCRIZIONE.
+~
+280 0 1
+D1
+~
+~
+0 -1 28076 0
+D3
+~
+~
+0 -1 28065 0
+E
+iscrizione~
+   Tutto il Mondo conosciuto deve ringraziare Lord Igor il Drago Plumbeo che
+dirigendo i lunghi lavori di costruzione ha permesso alla fiorente citta' di
+Lamorka di esibire uno tra i Porti piu' belli e imponenti.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28067
+La Forca~
+   All'ombra di un vecchio albero e' eretta la disperazione di tutti i
+ladri ed assassini, la forca. Un 'inquietante patibolo di legno, un uomo
+dal cappuccio nero, il suo sguardo che lentamente si sposta da un passante
+all'altro come se stesse cercando la sua prossima vittima. Le esecuzioni
+avvengono ancora a intervalli irregolari, per la gioia di nemici ignoti e
+cittadini rispettosi della legge. Noti che ci sono molti spettatori.
+~
+280 128 1
+D2
+~
+~
+0 -1 28108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28068
+La bottega di Adno il Barcaiolo~
+   Seduto su una grossa botte Adno ti guarda distrattamente mentre cerca
+di accendere una bianca pipa d'avorio. Sparsi qua e la' alcuni disegni
+raffiguranti la scheletrica struttura di alcune navi, appese al muro
+piccole barche ed alcune canoe. Se disponi di sufficiente denaro puoi
+chiedergli di venderti una vera nave.
+La gente mormora che nonostante Adno sia uno dei migliori carpentieri
+navali della Daresia e che abbia progettato e costruito tutte le navi
+del Re, in realta' egli non abbia mai trascorso un solo minuto in mare
+visto che ne ha paura e non sa nuotare.
+~
+280 24 0
+D2
+~
+~
+0 0 3064848 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28069
+La Capitaneria di Porto~
+   Un Alto Ufficiale del Re e' qui seduto alla sua scrivania sommerso
+da permessi d'imbarco, note di carico, tabelle di dazi e tasse da riscuotere
+e tante altre scartoffie che vista velocemente con un sigillo in ceralacca.
+Noti nel mucchio di documenti caduti a terra una copia della gazzetta di
+Lamorka vistata almeno tre volte. Sulla scrivania di fronte, il Comandante
+del Porto giocherella con un mazzo di chiavi, probabilmente quelle delle
+celle che vedi a nord lungo un tetro corridoio.
+~
+280 8 0
+D0
+~
+~
+0 -1 28070 0
+D1
+~
+~
+0 -1 28108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28070
+Le Segrete~
+   Percorri un freddo ed umido corridoio ed in basso dietro le sbarre vedi
+una piccola cella scavata nell'umidita'.
+~
+280 8 0
+D0
+~
+~
+0 0 28110 0
+D2
+~
+~
+0 -1 28069 0
+D5
+~
+cella~
+2 28003 28071 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28071
+La Cella ~
+   Alcune tavole di legno ed un po' di paglia sono l'unico arredamento
+di questa piccola stanza. Poca luce entra da una piccola finestra il cui
+unico ed immobile panorama e' un vecchio albero sotto il quale un uomo
+dal cappuccio nero sta in piedi a braccia conserte volgendoti le spalle.
+Un freddo e gelido soffio avvolge il tuo collo. Sul muro ammuffito leggi
+una scritta che dice:
+		Re Otak il Grande
+    mai concesse grazia a ladri e tagliagole.
+~
+280 173 0
+D4
+~
+cella~
+0 28003 28070 6
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28072
+L'Inceneritore~
+   Questo posto e' la nuova discarica di Lamorka. Un grandissimo forno
+sempre acceso emana un calore straordinario. Un addetto alla manutenzione
+butta nella bocca di fuoco quintali di vecchi equippaggiamenti o di oggetti
+inutili. Aiuta a tenere Lamorka pulita scaricando qui tutto cio' che non
+ti serve.
+~
+280 156 0
+D2
+~
+~
+0 -1 3034452 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#28073
+Taverna del Drago Marino~
+   Questa e' l'unica locanda del Porto ed e' quindi frequentata da capitani,
+scaricatori e pirati sotto falsa identita'. Il lungo bancone e' sempre pieno
+di bicchieri colmi di birra spumeggiante e alcune donne passano a rallegrare
+i vecchi lupi di mare. Senti raccontare antiche leggende e strane storie di
+porti lontani e di mostri marini. Salendo le scale puoi affittare una stanza
+mentre se preferisci scambiare due parole vai verso i posti a sedere.
+~
+280 24 0
+D1
+~
+~
+0 -1 28075 0
+D2
+~
+~
+0 0 3045144 0
+D4
+~
+~
+0 -1 28074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28074
+Camere~
+   Oltre la reception vedi un lungo corridoio con poche porte.
+Il ragazzino al banchetto ti squadra e facendo una smorfia ti porge il
+libro degli ospiti per una firmetta.
+Qui puoi riposare qualche ora in santa pace se non dai fastidio a nessuno.
+~
+280 28 0
+D5
+~
+~
+0 -1 28073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28075
+Posti a sedere~
+   Questo e' piu' un retrobottega che un vero bar. Alcuni tavoli sbilenchi
+offrono la scusa per lunghe partite a dadi e chiacchierate tre vecchi e
+nuovi amici. L'unica finestra presente non basta per arieggiare la stanza
+che puzza cosi' di sale.
+~
+280 72 0
+D3
+~
+~
+0 -1 28073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28076
+La Banchina del Porto~
+   Ad ovest vedi la piazza del porto come al solito piena di gente, a sud
+comincia il Molo a cui sono armeggiate le navi.
+~
+280 0 1
+D1
+~
+~
+0 -1 28077 0
+D2
+~
+~
+0 -1 28079 0
+D3
+~
+~
+0 -1 28066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28077
+La Fine della Banchina~
+   Qui termina la banchina del porto. Vedi una Guardia che sonnecchia
+appoggiata ad una colonna di metallo, da cui parte una catena di bronzo
+che sfiorando il pelo dell'acqua si ancora sulla parete Nord della gola,
+probabilmente una difesa contro qualche folle avventuriero che scendendo
+il fiume tenti di entrare in citta' inosservato. In lontananza ad ovest
+vedi la bianca schiuma delle rapide del fiume Quiet ed in alto si staglia
+la figura del Ponte Otlas Otla.
+~
+280 0 1
+D1
+~
+~
+0 -1 28078 0
+D3
+~
+~
+0 -1 28076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28078
+La Spiaggia Nera~
+   Sei su una spiaggia di sabbia nera.
+Ad est vedi l'immenso mare che scompare all'orizzonte donandoti una
+sensazione di pace e di nullita'. A nord vedi un grosso scoglio nero
+che ormai da secoli non viene piu' toccato dall'acqua del mare, la
+leggenda racconta che Re Otak il Grande seppelli' qui i poveri corpi
+dei due architetti che progettarono le modifiche di Lamorka, fu questa
+la moneta con cui il Re li ripago' quando i due poverelli presentarono
+il conto delle spese. Sullo scoglio il Dio Offar scrisse col fuoco questa
+frase:
+
+	Come puo' uno scoglio
+        Arginare il mare;
+	Anche se non voglio
+	Torno gia' a volare.
+
+~
+280 4 2
+D0
+~
+~
+0 0 3065054 0
+D1
+~
+~
+0 0 3065155 0
+D2
+~
+~
+0 0 3065254 0
+D3
+~
+~
+0 -1 3065153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28079
+Il Molo~
+   Sei su un lungo molo di legno che si protende nell'estuario ed a cui
+sono armeggiate le navi.
+~
+280 0 1
+D0
+~
+~
+0 -1 28076 0
+D2
+~
+~
+0 -1 28080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28080
+Il Molo~
+   Sei su un lungo molo di legno che si protende nell'estuario ed a cui
+sono armeggiate le navi.
+~
+280 0 1
+D0
+~
+~
+0 -1 28079 0
+D2
+~
+~
+0 -1 28081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28081
+La Fine del Molo~
+   Sei arrivato al termine di questo lungo ponte in legno che si perde
+nelle profondita' del mare. Ti fermi un attimo a guardare la bellezza
+che ti circonda. In lontananza intravedi alcune barche che fanno ritorno
+dopo una lunga giornata di pesca.
+~
+280 4 1
+D0
+~
+~
+0 -1 28080 0
+D2
+~
+~
+0 0 1537569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28082
+la Sala del Rischio~
+   Scendendo le anguste scalette ti ritrovi in un ambiente poco illuminato ma
+molto affollato.  Persone di ogni rango sociale, eta', sesso e idea politica si
+ritrovano qui a Rischiare tutti insieme, tutti uniti.  Alcuni gridano di gioia
+sventolando grosse somme di denaro, altre piangono disperate avendo perso
+tutto.  Questo posto ti attrae con una strana forza che fa crescere dentro di
+te il desiderio di Rischiare!!
+Un AVVISO e' appeso al muro con un chiodo arrugginito.
+Una REGOLA e' incisa su un tavolo davanti a voi.
+~
+280 148 0
+D0
+~
+~
+0 0 28084 0
+D1
+~
+~
+0 0 28086 0
+D2
+~
+~
+0 0 28083 0
+D3
+~
+~
+0 0 28085 0
+D4
+~
+paglia~
+1 0 1552 3
+D5
+~
+~
+0 0 28087 0
+E
+avviso~
+Regole per restare vivi:
+1) Prima di Rischiare lasciar TERMINARE la giocata in corso.
+2) Chi RUBA sara' condannato a MORTE.
+3) Per scommettere date la GOCCIA ai diversi personaggi.
+4) Per ora potete scommettere UNA sola goccia alla volta
+5) Leggete le Regole (se ci sono) nelle diverse stanze..
+~
+E
+regola~
+La piu' grande regola e' quella di stare tranquilli e lasciar giocare tutti.
+Se possibile mettetevi d'accordo tra voi per chi deve giocare e chi deve aspettare.
+NON DATE GOCCE AI PERSONAGGI QUANDO E' INIZIATA UNA PARTITA!!!!
+Siccome lo farete lo stesso vi avverto che ci sono gravi sanzioni per i colpevoli.
+Se sbagliate pagate il danno causato e continuate a divertirvi.
+Questo locale e' il primo di molti altri ma se ci accorgiamo che non sapete
+essere abbastanza maturi verra' tolto a scapito di tutti. Grazie.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28083
+Gioco dei Numeri~
+   Questo ampio locale e' abbastanza illuminato.  Molti posti a sedere
+circondano un tavolo da gioco con sopra 9 numeri intagliati.  Una gran folla e'
+pronta a scommettere e a vincere.  Il prossimo fortunato potresti essere tu.  
+~
+280 148 0
+D0
+~
+~
+0 0 28082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28084
+La Pesca~
+   Questa stanza profuma di vari aromi naturali appesi ad una cordicella che
+circonda il piccolo tavolo sul quale e' poggiata un'antica cornucopia.  Una
+bellissima ragazza vestita di bianco ti sorride sinceramente e ti invita a
+tentare la sorte.    
+~
+280 156 0
+D2
+~
+~
+0 0 28082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28085
+L'angolo del Dado~
+   Questa piccola stanza e' illuminata da un cerchio di candele che ti
+circonda.  In mezzo al cerchio Hinon agita con aria furba i suoi dadi e ti
+sfida con lo sguardo.  A te la scelta.    
+~
+280 156 0
+D1
+~
+~
+0 0 28082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28086
+Tavolo Verde~
+   Un tavolo verde occupa buona parte del locale in questo punto.  Molta gente
+guarda incuriosita un uomo elegante e di classe che dispone alcune carte sul
+tavolo.  Qui i giocatori piu' accaniti passano il loro tempo giocando a Ventuno
+e sperando di vincere naturalmente.    
+Alcune Regole sono scritte sulla parete.
+~
+280 156 0
+D3
+~
+~
+0 0 28082 0
+E
+regole~
+Vince chi ottiene il numero piu' alto senza superare il 21.
+Potete usare al massimo QUATTRO carte. Le prime due vi spettano all'inizio
+mentre le altre potrete chiederle se lo riterrete necessario.
+Non esistono carte che valgono mezzo punto.
+In caso di parita' vince il Banco.
+Alla prima richiesta del Banco rispondete: carta oppure stop.
+Alla seconda eventuale domanda semplicemente si o no.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28087
+Alla Corsa~
+   Questa ampia sala sotterranea rappresenta il centro vitale dell'intero
+locale.  Nel mezzo potete vedere una struttura ovale con un grosso canale che
+costeggia tutto il perimetro.  Parecchia gente incita i concorrenti a dare il
+meglio di se' in quella che e' una delle corse piu' spettacolari della Daresia:
+la Corsa dei Topi!!!    
+Leggi le Regole appese alla parete.
+~
+280 156 0
+D4
+~
+~
+0 0 28082 0
+E
+regole~
+I nomi dei Topi partecipanti sono:
+Spidi, Ammazzagatti, Quattroventi, Cordileone e Saetta.
+Scommettere Piazzato significa vincere se il topo arriva primo, secondo o terzo.
+Scommettere Vincente significa sperare che il topo vinca!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28088
+An empty room~
+You are standing in an empty room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28089
+An empty room~
+You are standing in an empty room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28090
+Sentiero sterrato~
+
+   Ti inerpichi per uno streto ed angusto sentiero in terra battuta, veramente
+poco trafficato.
+~
+280 4 1
+D1
+~
+via~
+0 0 6815 0
+D5
+~
+~
+0 -1 28060 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28091
+Il pianoro del Faro ~
+   Difronte a te si erge alto e massiccio il Vecchio Faro del porto di Lamorka.
+Gli architetti incaricati della ristrutturazione della citta' si son presi cura
+anche di questa antica costruzione ed hanno affidato a mastri costruttori,
+carpentieri e fabbri il compito di riportare all'antico splendore questa
+costruzione.  La sua forma circolare e' affusolata ed esaltata dalle pietre
+usate per costruirla e sulla sua cima puoi intravedere la bellissima lanterna
+del Faro che le abili mani dei fabbri e degli intarsiatori della città son
+riuscite a far nuovamente splendere sul mare circostante.  Verso nord
+l'ingresso al Faro e' consentito da una porta sovrastata da un'arcata in
+pietra.    
+~
+280 0 1
+D0
+~
+~
+0 -1 28092 0
+D2
+~
+~
+0 0 3044961 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28092
+La stanzetta d'entrata~
+   Entri in una piccola stanza da cui parte la scala per salire alla lanterna.
+Il vecchio faro sembra essere ancora utilizzato, e nonostante la non più tenera
+età ha sempre l'aria di essere un luogo ben tenuto.  Sulla parete destra vi
+sono vari quadri raffiguranti imbarcazioni di ogni genere e per ognuna una
+piccola descrizione, la stanza e' ben pulita, e anche se un po' spartana
+risulta avere un fascino gotico e misterioso.  Una lunga scala a chiocciola in
+pietra sale fin su in alto a perdita d'occhio.    
+~
+280 8 0
+D2
+~
+~
+0 -1 28091 0
+D4
+~
+~
+0 -1 28093 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28093
+La scala a chiocciola~
+   Cominci a salire stretti gradini in pietra.  Le pareti attorno a te ti danno
+un leggero senso di claustrofobia, ma ti basta guardare verso l'alto dove
+scorgi il bagliore proveniente dalla luce filtrata attraverso i vetri
+variopinti della lanterna e ti senti subito rasserenato.  Puoi continuare a
+salire oppure curiosare dietro una porticina che si apre ad est.    
+~
+280 8 0
+D1
+~
+porta~
+1 28090 28094 7
+D4
+~
+~
+0 -1 28095 0
+D5
+~
+~
+0 -1 28092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28094
+Il ripostiglio~
+   Questa stanzina sembra essere un ripostiglio pieno di armadi impolverati che
+racchiudono utensili da pesca, torce e attrezzi per imbarcazioni.  In fondo
+alla stanza c'è un baule con un grosso lucchetto centrale che ha l'aria di non
+essere stato aperto da molto, molto tempo.  Dietro a questo vi sono una dozzina
+di taniche d'olio per lampada e un paio di scatole di grossi stantuffi per la
+lanterna del faro.    
+~
+280 9 0
+D3
+~
+porta~
+1 28090 28093 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28095
+Ancora lungo la scala~
+   Prosegui la tua salita e ormai ogni senso di chiuso ti ha abbandonato.  
+Vuoi arrivare in cima al faro per poter godere della splendida vista del mare
+attraverso i variopinti vetri della lanterna.  Verso ovest noti una solida
+porta che porta all'abitazione del guardiano del faro.    
+~
+280 8 0
+D3
+~
+porta~
+1 -1 28096 3
+D4
+~
+~
+0 -1 28097 0
+D5
+~
+~
+0 -1 28093 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28096
+L'abitazione del guardiano del faro~
+   Entri in questa stanza che sembra essere l'abitazione del guardiano.  Ti
+guardi rapidamente intorno e noti che e' composta da un angolo cucina, un
+caminetto, una branda, un piccolo comodino e un pesante tavolo di quercia
+mentre le pareti sono completamente tappezzate da mappe che rappresentano tutta
+la Daresia.  Dentro al caminetto c'è uno scoppiettante fuoco sul quale e'
+appesa una pignatta.  Questo rende la stanza vivibile e accogliente.  Accanto
+al camino seduto su una sedia a dondolo di vimini c'e' l'anziano guardiano del
+faro che fuma la sua pipa e ti guarda con occhietti vispi e arguti.  A sud vedi
+un'arcata protetta solo da un pesante tendaggio.    
+~
+280 8 0
+D1
+~
+porta~
+1 -1 28095 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28097
+In cima alla scala a chiocciola~
+   Sei giunto finalmente alla stanza più alta del faro.  Un'enorme cupola di
+vetro intarsiata racchiusa in mirabolanti opere di ferro battute la ricopre.  
+Nel centro della stanza vi è la potentissima luce alimentata ad olio che si
+muove costantemente roteando su se stessa ed indicando l'ingresso del porto
+alle navi al largo.  Da quest'altezza si gode di un panorama straordinario:
+verso nord la citta' attorniata dalle sue alte mura e fra esse riesci a
+distinguere le piu' belle costruzioni di Lamorka: il suo Tempio e il suo
+Municipio, in lontananza la superba torre della Magia, che spicca fra i tetti
+della zona residenziale; verso sud invece il mare: di un blu che rispecchia il
+blu del cielo e quasi vi si confonde e in lontananza bianche vele delle
+imbarcazioni che guidate dalla luce della lanterna si avvicinano al porto.    
+~
+280 8 0
+D5
+~
+~
+0 -1 28095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28098
+Il Giardino dell'Armonia~
+&7&bUna lieve armonia ti guida in un luogo di pace e serenita'.
+I fiori intorno a te &6&b hanno tutte le sfumature dell'azzurro
+del bianco e del blu.&7&bSenti il gorgogliare di una sorgente che
+affiora da alcune rocce splendenti e luccicanti.
+~
+280 2644 0
+D0
+~
+scalinata~
+0 0 9514 0
+D1
+~
+aperto~
+0 0 1534560 0
+D2
+~
+piazza~
+0 0 12500 0
+D3
+~
+tempio~
+0 0 21208 6
+D4
+~
+cielo~
+0 0 28099 0
+D5
+~
+~
+0 0 6619 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28099
+Tra l'&BOceano&d e la &WLuna&d~
+
+&6. ... . ..   . . .... .&7            ooooo       &6.... . . ..      . .  . . . .    ..&0
+&6  . .  .   .   .    ...   .&7       oooo              &6.   .   ....   ..  ...   . . . .&0
+&6.        .    ...    .. .&7        oooo            &6. ....   . . . . .      .   ..&0
+&6  .....    .. . .   ..  .&7         oooo       &6.  .   ....          . . .    .    ..&0
+&6. .    ..     .  .  .    .&7         ooooo         &6...  . .    . .   ..   ...     ....&0
+
+~
+280 7748 2
+D4
+~
+passaggio~
+0 0 30 18
+D5
+~
+via~
+0 0 28098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28100
+Sotto il ponte~
+Sei sotto l'arcata di un maestoso ponte che unisce le ripide pareti del canale.
+L'acqua urtando contro i pilastri di pietra crea piccoli vortici che lentamente
+ti fanno girare in tondo, vedi alcune rocce affilate affiorare nella bianca
+spuma dell'acqua.    
+~
+280 0 0
+D1
+~
+~
+0 0 3014546 0
+D2
+~
+~
+0 0 28101 0
+D3
+~
+~
+0 0 3014540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28101
+Sotto il ponte~
+L'acqua spinge con forza contro i pilastri del maestoso ponte che ti sovrasta.
+Tra i vortici di spuma bianca intravedi lunghe dita nere che tentano di
+emergere dal fondo scuro del fiume.  Sono le viscide foglie di alghe che
+crescono rigogliose nella fredda acqua salmastra.    
+~
+280 0 7
+D0
+~
+~
+0 0 28100 0
+D1
+~
+~
+0 0 3014746 0
+D3
+~
+~
+0 0 3014740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28102
+&7T&bempietto&0~
+Sei in un piccolo Tempio a base circolare.  Sette colonne, bianche come la
+neve, sorreggono una cupola concava di basalto nero.  Un nero profondo ed
+irreale che non riesci a fissare a lungo.  Il pavimento e' ricoperto da uno
+spesso strato di cenere grigia.  Sospesa a mezz'aria nel centro del tempio, una
+Sfera di metallo verde sembra assorbire ogni raggio di luce, ogni piccolo
+suono, ogni alito di vento gelando l'aria intorno a se.    
+~
+280 240 0
+D2
+~
+~
+0 0 3015454 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28103
+I Magici Sorbetti di Sudnif~
+Il tipico tanfo del porto non riesce a penetrare in questa piccola bottega
+di legno. L'aria e' fresca e frizzante, come il contenuto dei tegami di
+rame esposti dietro una lunga teca di cristallo azzurro.
+Sudnif, un anziano mago di basso rango, prepara ogni giorno i suoi gelidi
+e magici sorbetti, mescolando i suoi scarsi incantesimi con latte di capra,
+spezie e frutta fresca. Ma nessun viandante puo' visitare questo porto senza
+assaggiare il famoso '&1Gabbiano Rosso&0', una gustosa granita fatta con crema 
+di granchio e sangue di squalo, esaltata nel sapore da un misterioso e a
+dir di molti curativo ingrediente segreto.
+~
+280 24 0
+D2
+~
+~
+0 0 3064547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28104
+L'Arte del Regalo.~
+   Numerosi quadri sono appesi lungo le pareti di questo angusto locale, tra
+questi spicca una lapide di marmo bianco alta due metri e larga uno con su scritto:
+&7
+                Qui riposano le corte ossa di Rog
+                Abile Scultore di ogni materia conosciuta
+                Raffinato Pittore d'ogni brezza del cuore
+                Famoso Poeta dei flutti marini e umani
+                Nonche' Inventore, Alchimista e Cantore
+                Qui giaciono le inutili spoglie di un Genio
+
+
+                ROG il Superbo.&0
+
+Centinai di oggetti sono appesi al soffitto, altri sono riposti a casaccio
+su alcuni scaffali, altri ancora sono confusi tra stoffe colorate all'interno
+di una lunga bancarella che occupa il centro del locale rendendo difficile
+ogni movimento.     
+~
+280 0 0
+D2
+~
+porta~
+1 0 3064247 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28105
+&6&bBoorg Sei Lame&0~
+   Un forte odore di olio per armi impregna le mura di questa stanza.
+In alcune botti sono riposte lunghe lance di legno e metallo, appesi alle pareti
+coltelli dalle strane forme riflettono minacciosi la luce del fuoco nel camino.
+Alcuni ritratti sono affissi accanto ad una lavagna di graffite nera, e una
+grossa gabbia dondola appesa al soffitto. 
+Quattro grosse ciotole piene di carne sono disposte in fila accanto a un giaciglio di paglia.
+~
+280 0 0
+D2
+cyrgo
+~
+~
+0 0 3035647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28106
+In Vendita~
+Un locale abbandonato, alcuni pezzi di legno marcio sono sparsi in giro.
+~
+280 0 0
+D2
+~
+~
+0 0 3034747 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28107
+In Vendita.~
+Un'ampia stanza vuota e un forte odore di chiuso.
+~
+280 0 0
+D2
+~
+~
+0 0 3034462 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28108
+La Rocca Rossa~
+Un'arcata in pietra e' l'unico accesso alla &1Rocca Rossa&0, battezzata con
+questo nome perche' interamente costruita con la rossa roccia dei monti Kor.  
+All'interno verso nord si apre una largo spiazzo al centro del quale spicca un
+palco di legno con corde e ceppi.  Ai lati dell'arcata l'accesso alla
+Capitaneria di porto e ad un posto di guardia.  Le mura della Rocca Rossa si
+fondono con la ripida parete rocciosa, ma come molti suoi ospiti raccontano, le
+segrete che custodiscono i condannati a morte o al carcere a vita, continuano
+dentro il cuore della montagna .
+~
+280 0 0
+D0
+~
+~
+0 0 28067 0
+D1
+~
+~
+0 0 28109 0
+D2
+~
+~
+0 0 3034457 0
+D3
+~
+~
+0 0 28069 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28109
+Gendarmeria~
+Una lunga fila di lance e' disposta lungo una parete insieme ad enormi casse di
+legno chiuse con lucchetti.  Sull'atra parete sacchi di stoffa, appesi a ganci
+di ferro, contengono probabilmente gli averi confiscati agli ospiti delle
+segrete.  Su una lavagna appesa sopra la scrivania di un ufficiale, intento a
+risolvere un complicato solitario, sono scritte le date delle prossime
+esecuzioni.  Un guardia, seduta ad un piccolo tavolo, ti fissa per alcuni
+secondi, poi inizia a sfogliare una strana pila di fogli piena di ritratti.
+~
+280 0 0
+D0
+Una spessa porta in legno di castagno.
+~
+porta~
+1 0 28117 3
+D3
+~
+~
+0 0 28108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28110
+Le Segrete~
+Qui termina il tetro corridoio, appesi a chiodi di legno ammuffito,
+oggetti dall'aspetto strano sono l'unico arredo di questo luogo.
+Di certo quella arrotolata e' una vecchia frusta di cuoio, le altre
+sono corde ingrassate pronte a stringere il collo di un condannato.
+Meglio non chiedersi a cosa servono gli oggetti in legno e le loro
+lame arrugginite impregnate di sangue rappreso.
+Anche qui sul pavimento c'e' un buco circolare chiuso da una grata,
+costruita con pesanti sbranghe di ferro.
+~
+280 0 0
+D2
+~
+~
+0 0 28070 0
+D5
+Una grata circolare costruita con larghe sbarre di ferro.
+~
+grata~
+2 0 28111 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28111
+Celle~
+L'aria e' carica d'umidita' e porta con se il tanfo di uomini che non
+si lavano da mesi, forse anni. Le bianche ossa di un piccolo topo 
+riposano su un cumulo di paglia sporca. Un rivoletto d'aqua scorre
+lungo una parete ricoperta di muffa, formando una piccola pozzanghera.
+~
+280 0 0
+D0
+~
+~
+0 0 28112 0
+D4
+Una grata costruita con larghe sbarre di ferro.
+~
+grata~
+2 0 28110 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28112
+Le Segrete~
+You are in an unfinished room.
+~
+280 0 0
+D1
+~
+~
+0 0 28113 0
+D2
+~
+~
+0 0 28111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28113
+Le Segrete~
+You are in an unfinished room.
+~
+280 0 0
+D1
+~
+~
+0 0 28114 0
+D3
+~
+~
+0 0 28112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28114
+Le Segrete~
+You are in an unfinished room.
+~
+280 0 0
+D2
+~
+~
+0 0 28115 0
+D3
+~
+~
+0 0 28113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28115
+Le Segrete~
+You are in an unfinished room.
+~
+280 0 0
+D0
+~
+~
+0 0 28114 0
+D4
+~
+~
+0 0 28116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28116
+Accesso alla Segrete~
+You are in an unfinished room.
+~
+280 0 0
+D2
+~
+~
+0 0 28117 6
+D5
+~
+~
+0 0 28115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28117
+Stanza delle Guardie~
+Piatti sporchi, bicchieri di ferro e alcune bottiglie vuote, sono
+sparsi su di un lungo tavolo in noce al centro della stanza.
+Alcuni uomini riposano su spartane brande in attesa del prossimo
+turno di guardia, altri lucidano annoiati parti della loro armatura.
+~
+280 0 0
+D0
+Una porta di metallo borchiata
+~
+porta~
+2 0 28116 15
+D2
+Una spessa porta in legno di castagno.
+~
+porta~
+1 0 28109 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28118
+Una veranda. ~
+   La salsedine qui ha fatto un buon lavoro, le assi di legno sono veramente ridotte male.
+La tettoia sembra debba crollarti in testa da un momento all'altro, e il pavimento
+scricchiola sotto i tuoi piedi. Sotto una larga finestra annerita con la pece c'e'
+una vecchia sedia a dondolo che oscilla lentamente spinta dal vento.
+Su l'unica porta per accedere a quella che sembra una taverna abbandonata,
+e' inciso col fuoco uno strano simbolo,  sembra l'occhio d'un pesce.
+~
+280 35184372088832 2
+D0
+&6Un Occhio di Pesce ti guarda&0
+~
+porta~
+2 0 28120 15
+D2
+~
+~
+0 0 3075659 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28118
+T 28119
+T 28120
+#28119
+&4La Taverna dei Cinque Assi&0~
+
+   Poche candele appoggiate su vecchie bottiglie di liquore, illuminano la sala.
+Strane ampolle di vetro, riempite in parte di liquido verdastro, sono appoggiate al centro di ogni tavolo.
+Su ogni ampolla al posto del tappo e' accesa una piccola fiammella azzurra, e dal collo di ognuna di esse, parte
+uno corto tubo simile ad una corda di canapa, con alla fine un beccuccio d'avorio.
+   Solo il lungo bancone dell'oste e' liscio e pulito, il resto della taverna e' lercio come una discarica.
+~
+280 0 0
+D3
+~
+~
+0 0 28120 0
+D5
+~
+~
+0 0 28082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28120
+&4&b La taverna dei Cinque Assi&0~
+
+   La debole luce di una vecchia lanterna ad olio illumina questa parte della taverna.
+Un forte odore di pessimo tabacco rende l'aria quasi irrespirabile, tra le nauseanti nuvole di fumo noti
+attaccate alle pareti con vecchi pugnali arruginiti, cinque carte da gioco.
+  Sono i Cinque assi, usati in un antico gioco di carte, osservandoli con attenzione vedi: 
+   Un Aquila d'Oro, un Pugnale d'argento, una Mazza di legno, una Spada di ferro e un Occhio di cristallo.
+~
+280 35184372088840 0
+D1
+~
+~
+0 0 28119 0
+D2
+&7Una porta di legno&0
+~
+Porta~
+2 0 28118 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28121
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28122
+undefined~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28123
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28124
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28125
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28126
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28127
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28128
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28129
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28130
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28131
+Un tempio scavato nella roccia~
+You are in an unfinished room.
+~
+280 72 0
+D1
+~
+~
+0 0 12500 0
+D2
+~
+~
+0 0 28136 0
+D3
+~
+~
+0 0 28132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28132
+Un tempio scavato nella roccia~
+  La tenue luce verde che illumina questo luogo proviene dalla roccia, soffitto e pavimento
+emettono a intervalli regolari leggeri bagliori. Una densa cortina di fumo serpeggia sul
+pavimento nascondendo i tuoi pieidi. Un luce piu' forte proviene dalla sala centrale a cui 
+accedi passando tra due grosse colonne quadrate. Su ogni lato delle colonne e' scolpito
+in rilievo un volto senza tempo privo di ogni espressione.
+~
+280 72 0
+D1
+~
+~
+0 0 28131 0
+D2
+~
+~
+0 0 28135 0
+D3
+~
+~
+0 0 28133 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28133
+Un tempio scavato nella roccia~
+You are in an unfinished room.
+~
+280 72 0
+D0
+~
+~
+0 0 8691 0
+D1
+~
+~
+0 0 28132 0
+D2
+~
+~
+0 0 28134 0
+D3
+~
+~
+0 0 6600 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28134
+Un tempio scavato nella roccia~
+  La tenue luce verde che illumina questo luogo proviene dalla roccia, soffitto e pavimento
+emettono a intervalli regolari leggeri bagliori. Una densa cortina di fumo serpeggia sul
+pavimento nascondendo i tuoi pieidi. Un luce piu' forte proviene dalla sala centrale a cui 
+accedi passando tra due grosse colonne quadrate. Su ogni lato delle colonne e' scolpito
+in rilievo un volto senza tempo privo di ogni espressione.
+~
+280 72 0
+D0
+~
+~
+0 0 28133 0
+D1
+~
+~
+0 0 28135 0
+D2
+~
+~
+0 0 28138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28135
+La sala centrale~
+La roccia del pavimento e del soffito sembra viva, si muove lentamente creando
+un vortice verso il centro della sala.  Intensi bagliori di luce scorrono tra
+le pieghe del vortice e si concentrano al suo centro, creando una colonna di
+luce verde . Quattro volti senza tempo e privi di ogni espressione sono
+scolpiti su quattro colonne quadrate, unici testimoni di questo evento.    
+~
+280 72 0
+D0
+~
+~
+0 0 28132 0
+D1
+~
+~
+0 0 28136 0
+D2
+~
+~
+0 0 28139 0
+D3
+~
+~
+0 0 28134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28136
+Un tempio scavato nella roccia~
+  La tenue luce verde che illumina questo luogo proviene dalla roccia, soffitto e pavimento
+emettono a intervalli regolari leggeri bagliori. Una densa cortina di fumo serpeggia sul
+pavimento nascondendo i tuoi pieidi. Un luce piu' forte proviene dalla sala centrale a cui 
+accedi passando tra due grosse colonne quadrate. Su ogni lato delle colonne e' scolpito
+in rilievo un volto senza tempo privo di ogni espressione.
+~
+280 72 0
+D0
+~
+~
+0 0 28131 0
+D2
+~
+~
+0 0 28137 0
+D3
+~
+~
+0 0 28135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28137
+Un tempio scavato nella roccia~
+You are in an unfinished room.
+~
+280 72 0
+D0
+~
+~
+0 0 28136 0
+D1
+~
+~
+0 0 9700 0
+D3
+~
+~
+0 0 28139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28138
+Un tempio scavato nella roccia~
+You are in an unfinished room.
+~
+280 72 0
+D0
+~
+~
+0 0 28134 0
+D1
+~
+~
+0 0 28139 0
+D3
+~
+~
+0 0 21208 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28139
+Un tempio scavato nella roccia~
+  La tenue luce verde che illumina questo luogo proviene dalla roccia, soffitto e pavimento
+emettono a intervalli regolari leggeri bagliori. Una densa cortina di fumo serpeggia sul
+pavimento nascondendo i tuoi pieidi. Un luce piu' forte proviene dalla sala centrale a cui 
+accedi passando tra due grosse colonne quadrate. Su ogni lato delle colonne e' scolpito
+in rilievo un volto senza tempo privo di ogni espressione.
+~
+280 35184372088840 3
+D0
+~
+~
+0 0 28135 0
+D1
+~
+~
+0 0 28137 0
+D3
+~
+~
+0 0 28138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28140
+Tra le nere nuvole dell'abisso.~
+   Cadi nel vuoto dell'abisso, nere nuvole ti avvolgono, alcuni lampi ti colpiscono.
+Cio che resta del tuo corpo carbonizzato si schianta al suolo.
+Che orribile morte!!!
+~
+280 281474976710786 5
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+T 28111
+#28141
+Un solido sperone di roccia~
+  Due alberi morti sorreggono le vecchie corde del ponte, lo spazio e' ristretto
+e le forti raffiche di gelido vento cercano di trascinarti in basso nelle nere 
+nuvole che riempiono l'abisso che si apre ai piedi delle ripide pareti di roccia.
+Una porta di metallo verde incassata nella roccia emana strani bagliori verdi.
+Tra le molte rune che sono incise sopra di essa leggi un nome e senti il sangue 
+gelarsi improvviso nelle vene.
+~
+280 64 5
+D2
+~
+~
+0 0 28142 0
+E
+porta~
+     &b*S*H*U*N*D*A*R*&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28113
+T 28111
+#28142
+Un ponte di corde~
+  Quel solido sperone di roccia che intravedi a tratti nella nebbia e' un posto
+decisamente piu' sicuro di questo vecchio ponte. Fissando le vecchie corde e il
+legno marcio sotto i tuoi piedi ti chiedi come possa sorreggere il tuo peso.
+~
+280 320 5
+D0
+~
+~
+0 0 28141 0
+D1
+~
+~
+0 0 28140 0
+D2
+~
+~
+0 0 28143 0
+D3
+~
+~
+0 0 28140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28111
+#28143
+Un ponte di corde~
+  Solo stringendo con forza le vecchie e logore corde riesci a restare in equilibrio,
+ti sembra quasi di volare trascinato nella fitta nebbia. I vortici ti avvolgono gelando
+il sangue nelle vene. Non vedi le ripide pareti delle montagne ma solo il nero abisso
+che si apre infinito sotto i tuoi piedi. 
+~
+280 281474976710976 5
+D0
+~
+~
+0 0 28142 0
+D1
+~
+~
+0 0 28140 0
+D2
+~
+~
+0 0 28144 0
+D3
+~
+~
+0 0 28140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28144
+Un ponte di corde~
+  Solo stringendo con forza le vecchie e logore corde riesci a restare in equilibrio,
+ti sembra quasi di volare trascinato nella fitta nebbia. I vortici ti avvolgono gelando
+il sangue nelle vene. Non vedi le ripide pareti delle montagne ma solo il nero abisso
+che si apre infinito sotto i tuoi piedi. 
+~
+280 281474976710976 5
+D0
+~
+~
+0 0 28143 0
+D1
+~
+~
+0 0 28140 0
+D2
+~
+~
+0 0 28145 0
+D3
+~
+~
+0 0 28140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28145
+Un ponte di corde~
+  Qui le oscillazioni del ponte sono piu' forti la nebbia trascinata dalle forti
+raffiche di vento disegna strani mulinelli nell'aria, che a tratti nascondono
+lo sperone dei dannati. 
+~
+280 320 5
+D0
+~
+~
+0 0 28144 0
+D1
+~
+~
+0 0 28140 0
+D2
+~
+~
+0 0 28146 0
+D3
+~
+~
+0 0 28140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28146
+Un ponte di corde~
+  Il ponte oscilla spinto dalle fredde raffiche di vento, le vecchie tavole di legno
+scricchiolano sotto i tuoi piedi. La tua vita e' appesa a un filo, o meglio a vecchie
+corde sospese nel vuoto tra due pareti rocciose. Puoi tornare indietro al sicuro sulla
+solida roccia dello sperone o proseguire nella nebbia sperando che la fine del ponte 
+non sia troppo lontana. 
+~
+280 320 5
+D0
+~
+~
+0 0 28145 0
+D1
+~
+~
+0 0 28140 0
+D2
+~
+~
+0 0 28148 0
+D3
+~
+~
+0 0 28140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28111
+#28147
+Un anfratto tra i massi.~
+Una piccola e bassa grotta scavata dal tempo nella dura parete rocciosa.
+Alcuni massi all'ingresso ti protegono dal vento e da sguardi indesiderati.
+~
+280 141 0
+D1
+~
+~
+0 0 28148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28148
+Lo sperone dei dannati.~
+  Sei su una terrazza naturale scavata nella roccia di una parete rocciosa, che
+scende a precipizio nel nulla.  Guardando con prudenza oltre il bordo dello
+sperone vedi solo un manto di nere nubi che celano il fondo dell'abisso.  Un
+lungo ponte di corda ed assi di legno malridotte e' attaccato a due alberi
+morti ormai da secoli, una fitta foschia ti impedisce di vedere la fine
+del ponte. In un angolo l'ingresso ad una piccola grotta puo' offrirti riparo
+dal gelido vento che soffia tra gli alti picchi della montagna.    
+~
+280 208 5
+D0
+~
+~
+0 0 28146 0
+D3
+~
+~
+0 0 28147 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28111
+#28149
+Una Bolla di Sapone.~
+&1&b Stanxa Esplosiva fare molta attenxione&0
+~
+280 0 0
+E
+suppaman~
+&7&b
+                                            SRRRRRRRRRRs
+                                          RRRRRRRRRRRRRRRRR
+                                         SRRRRs    tsSRRRRRRS
+                                        RRRS            CRRRRRs
+                                       tRRRs             cRRRRRs
+                         sScSctSss    SRRRR   Scts       SRRCRRR
+                        scSCSccCSts   SRSRS  ct   s    csRSs tRRS
+                       RctSsSscSstSts   RS         S    t     tRR
+                       RccctcctsScCccS S s        Sss          SR
+                       SccttccccccCSSS cc           ts C CSSS  RR
+                      tttccttccccsS StS S       tt   cSsS    S Rt
+                      sttcccccccccStt   S                 c ttsR
+                     RctttctccccctS t            C     t      Rs
+                     tSSCccctCcccsRSC            cSs    t
+                      S tcsSSSSSSSt                  t   t   R
+                      s t t ttt  ssS  t  Ct      Cct        st   RsS
+                     Sttttttttt  SsS   st           t       R CssCtSccRS
+                 SRsCSttt tttttttScsS          tSt   s    ct CCttSCScRccS
+               tSssssSttttttttttSsSSSS           t        SRRSttsRSStScSt
+            CRsssssSS ttttttttttRsssssRC              tstRtttttttCtttRctS
+        SRRsssssssRS tttttttttttRsssssCSS             csRttttttttccccccR
+     RRRsssssssssS S  tttttttttRSsssssSSsSRSt        SSRCttttttttctccRt
+  sRRsssssssssssRS st tttttttttRSsssssCCSSssRRRSSSSRSRtsRtttttttcCcccR
+RRssssssssssssssRRt S t  ttttsSttsSRRSSSSssSRRSsssSsSttttRstttcccCcCC
+  RssssssssssssSRRR  Ss ttt s   SRRRSSc cSRSssssssRRttttttsRCcctCtcSt
+   RsssssssssssRRRRR  cS   tt SStttsSs tSCtSsssssSstttstttttsRscctS
+    RssssssssssRRRRRR  cSSt   RRRRC    SRRRRsssssRttttSttttttCCRRR
+      RsssssssSRRRRRRRSSRSRss cRRRS  tst tsRRRRRStttttSttttCR
+       SRssssssRRRRRRRRRRs cSsttRR  sCtCRRCt  CtttttttSRSRt
+        tRssssSRRRRRRRRRRRR  sR  sRsRSccRRRS  stttttttRssS
+          sRssRSsRRRRRRRRRRRcR sRStsSRSRRSc tcttttttttRsSS
+           SRRSt tRRRRRRRRRRRS StttSC SRSssttttttttttRssR
+           SRCst   tRRRRRRRRRRRRstSs St  SRRRRRSRRRRRssSS
+          RtcccS    tSSRRRRRRRRRRRRRRRRSRRRRt  ttt SRssS
+          RttcccS     tSRRRRRRRRRRRRRRRRRRRRRRRRRRRsssR
+          cttcccCsSssstsSSRRRRRRRRRRRRRRRRRRRRRRRssssR
+         RcttccCCcCCCssRsSttsRRRRRRRRRRRRRRRRRRssssssS
+         RccccCCcCssSSscccsRs tttsSRRRRRRRRRSssssssSR
+          RttccCCsRstcctcCCCSSSSSsSSRssssssssssssssRt
+           tRRRRR RttccccccctccsSRssssssssssssssssRS
+                   RccccccRRRRt SRRRSssssssssssssSc
+                   sRccccRR           RSssssssssRS
+                       SS              SRSssssssR
+                                           tRRSSR
+&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28150
+PurgaRoom~
+&7&b              .o######0o.
+             0###########0.      .
+            o#### ######0.    (## m#o
+            0####o   ### ## (##o.######
+    o00o.    0#####o,##. ,#  #######(
+  .0#####0.   0###########0     ########
+ .0#######0.   0#########  _.o###'"00"
+0#### #########################0      .0#0n0
+0#####.     ###################._.o##o.#####
+"0#####..##mn ""#############################
+  "0#######""_    ""##################"#####"
+     ""####m###m      ""############"   ####
+    .########         .########     ##
+    "##".###,##     .o#o ""####.
+         "##"      .0############.
+                 .n###############
+&0
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28150
+#28151
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+D2
+~
+~
+0 0 28151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28152
+&7Deposito Anime&0~
+Riposa in pace.
+~
+280 4398046511168 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28153
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28154
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28155
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28156
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28157
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28158
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28159
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28160
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28161
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28162
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28163
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28164
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28165
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28166
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28167
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28168
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28169
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28170
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28171
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28172
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28173
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28174
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28175
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28176
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28177
+NewPort~
+You are in an unfinished room.
+~
+280 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28178
+Nelle Fredde acque della Grotta~
+   L'acqua e' fredda e limpida, il fondale dall'aspetto sabbioso,
+e' in realta' composto dai gusci frantumati di conchiglie e 
+altri grossi molluschi simili a granchi. Una forte corrente 
+fa oscillare a intervalli regolari le foglie di quelle che 
+sembrano grosse lattughe rosse. 
+~
+280 128 8
+D1
+~
+~
+0 0 28197 0
+D4
+~
+~
+0 0 28199 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28179
+NewPort~
+You are in an unfinished room.
+~
+280 4 0
+D0
+~
+~
+0 0 28180 0
+D1
+~
+~
+0 0 3084754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28180
+NewPort~
+You are in an unfinished room.
+~
+280 4 0
+D2
+~
+~
+0 0 28179 0
+D5
+~
+~
+0 0 28181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28181
+Pozzo del Demone di Mare~
+Spostarsi sulla parete del pozzo richiede molta forza e una buona dose di
+agilita', vorresti fermarti a riposare, ma non puoi farlo per molto tempo.
+La forte umidita' rende gli aculei di marmo viscidi e sia le tue mani che i 
+tuoi piedi lentamente scivolano via. 
+Con sgomento scopri che per riuscire nell'impresa avrai bisogno anche di una
+buona dose di fortuna. Al contatto della tua mano uno degli aculei rientra
+rapido tra le scaglie di granito, solo il tuo istinto ha impedito alle tue ossa
+di aggiungersi a quelle che gia' riposano sul fondo del pozzo.
+~
+280 0 0
+D4
+~
+~
+0 0 28180 0
+D5
+~
+~
+0 0 28182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28182
+Pozzo del Demone di Mare~
+Spostarsi sulla parete del pozzo richiede molta forza e una buona dose di
+agilita', vorresti fermarti a riposare, ma non puoi farlo per molto tempo.
+La forte umidita' rende gli aculei di marmo viscidi e sia le tue mani che i 
+tuoi piedi lentamente scivolano via. 
+Con sgomento scopri che per riuscire nell'impresa avrai bisogno anche di una
+buona dose di fortuna. Al contatto della tua mano uno degli aculei rientra
+rapido tra le scaglie di granito, solo il tuo istinto ha impedito alle tue ossa
+di aggiungersi a quelle che gia' riposano sul fondo del pozzo.
+~
+280 0 0
+D4
+~
+~
+0 0 28181 0
+D5
+~
+~
+0 0 28183 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28183
+Pozzo del Demone di Mare~
+Una debole luce arriva fin qui dall'alto, sei alla base di un profondo pozzo.
+Sulla parete circolare e' scolpito il corpo di un serpente che avvolto in spirale
+sale verso la superficie. A intervalli regolari aculei di marmo bianco spuntano
+tra le scaglie di pietra, sembrano essere l'unica strada per raggiungere l'esterno.
+Profondi solchi hanno distrutto parte di questa scultura, ma sembra ancora possibile
+salire le ripide pareti. L'acqua qui e' poco profonda e puoi camminare poggiando i
+piedi sulle bianche ossa che ricoprono il fondo del pozzo.
+~
+280 0 0
+D0
+~
+~
+0 0 28184 0
+D4
+~
+~
+0 0 28182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28184
+Grotta~
+L'aria fresca che respiri solleva sottili nubi di fumo, mentre sfiora 
+la calda acqua in cui nuoti. Dal soffitto grosse goccie di acqua salata
+cadono come pioggia insistente, e l'eco dell'acqua che violenta colpisce
+se stessa si perde tra le pareti della grotta. Un leggero vento fresco
+soffia da sud, portando con se odori che appartengono al mondo esterno.
+~
+280 8 6
+D2
+~
+~
+0 0 28183 0
+D3
+~
+~
+0 0 28185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28185
+Grotta~
+L'aria fresca che respiri solleva sottili nubi di fumo, mentre sfiora 
+la calda acqua in cui nuoti. Dal soffitto grosse goccie di acqua salata
+cadono come pioggia insistente, e l'eco dell'acqua che violenta colpisce
+se stessa si perde tra le pareti della grotta. Il leggero vento fresco
+soffia da est, portando con se odori che appartengono al mondo esterno.
+~
+280 8 6
+D1
+~
+~
+0 0 28184 0
+D3
+~
+~
+0 0 28186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28186
+Grotta~
+Quattro colonne scolpite nella nuda roccia donano a questa grotta l'aspetto
+di un piccolo tempio. Figure di strani animali marini sono incise sulle
+pareti, tutte con lo sguardo rivolto verso un gigantesco portone di pietra.
+Incastonata con gemme azzurre la sagoma di una testa di Drago, adorna il
+portone di pietra, un anello d'oro e' appeso alle sue narici.
+~
+280 8 6
+D1
+~
+~
+0 0 28185 0
+D3
+~
+~
+0 0 28187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28187
+Grotta~
+Quattro colonne scolpite nella nuda roccia donano a questa grotta l'aspetto
+di un piccolo tempio. Figure di strani animali marini sono incise sulle
+pareti, tutte con lo sguardo rivolto verso un gigantesco portone di pietra.
+Incastonata con gemme azzurre la sagoma di una testa di Drago, adorna il
+portone di pietra, un anello d'oro e' appeso alle sue narici.
+~
+280 8 6
+D0
+~
+~
+0 0 28188 0
+D1
+~
+~
+0 0 28186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28188
+Caverna sotto il mare~
+L'acqua, nera come la pece, e' molto salata, cio' ti permette di
+galleggiare con estrema facilita', sulla superficie di questo piccolo
+mare sotterraneo. L'aria e' molto calda e nuvole di vapore sulfureo
+si sollevano verso la volta della gigantesca caverna. 
+La luce di piccoli coni vulcanici, disposti in cerchio lungo le pareti, 
+illumina la cavita', lasciando immerso nell'ombra un'isolotto situato
+al centro  della caverna. Nessun approdo, le pareti cadono ripide nella
+scura acqua, solo verso sud vedi l'ingresso ad una grotta.
+~
+280 8 6
+D2
+~
+~
+0 0 28187 0
+D5
+~
+~
+0 0 28189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28189
+Acqua Nera~
+Infinite tenebre ti avvolgono, liquida e salata l'oscurita' ti culla.
+Una direzione vale l'altra e' come nuotare nel nulla. Viscidi tentacoli
+ti sfiorano assaggiando la tua pelle, viscide pareti senza appigli.
+Calde acque ti trascinano nelle profondita' dell'abisso, fredde correnti
+ti rifiutano spingendoti in alto.
+~
+280 128 8
+D4
+~
+~
+0 0 28188 0
+D5
+~
+~
+0 0 28190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28190
+Acqua Nera~
+Infinite tenebre ti avvolgono, liquida e salata l'oscurita' ti culla.
+Una direzione vale l'altra e' come nuotare nel nulla. Viscidi tentacoli
+ti sfiorano assaggiando la tua pelle, viscide pareti senza appigli.
+Calde acque ti trascinano nelle profondita' dell'abisso, fredde correnti
+ti rifiutano spingendoti in alto.
+~
+280 128 8
+D4
+~
+~
+0 0 28189 0
+D5
+~
+~
+0 0 28191 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28191
+Acqua Nera~
+Infinite tenebre ti avvolgono, liquida e salata l'oscurita' ti culla.
+Una direzione vale l'altra e' come nuotare nel nulla. Viscidi tentacoli
+ti sfiorano assaggiando la tua pelle, viscide pareti senza appigli.
+Calde acque ti trascinano nelle profondita' dell'abisso, fredde correnti
+ti rifiutano spingendoti in alto.
+~
+280 128 8
+D3
+~
+~
+0 0 28192 0
+D4
+~
+~
+0 0 28190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28192
+Acqua Nera~
+Infinite tenebre ti avvolgono, liquida e salata l'oscurita' ti culla.
+Una direzione vale l'altra e' come nuotare nel nulla. Viscidi tentacoli
+ti sfiorano assaggiando la tua pelle, viscide pareti senza appigli.
+Fredde acque ti trascinano nelle profondita' dell'abisso, calde correnti
+ti rifiutano spingendoti in alto.
+~
+280 128 8
+D1
+~
+~
+0 0 28191 0
+D3
+~
+~
+0 0 28193 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28193
+Acqua Nera~
+Infinite tenebre ti avvolgono, liquida e salata l'oscurita' ti culla.
+Una direzione vale l'altra e' come nuotare nel nulla. Viscidi tentacoli
+ti sfiorano assaggiando la tua pelle, viscide pareti senza appigli.
+Fredde acque ti trascinano nelle profondita' dell'abisso, calde correnti
+ti rifiutano spingendoti in alto.
+~
+280 128 8
+D1
+~
+~
+0 0 28192 0
+D3
+~
+~
+0 0 28194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28194
+Acqua Nera~
+Infinite tenebre ti avvolgono, liquida e salata l'oscurita' ti culla.
+Una direzione vale l'altra e' come nuotare nel nulla. Viscidi tentacoli
+ti sfiorano assaggiando la tua pelle, viscide pareti senza appigli.
+Fredde acque ti trascinano nelle profondita' dell'abisso, calde correnti
+ti rifiutano spingendoti in alto.
+~
+280 128 8
+D1
+~
+~
+0 0 28193 0
+D4
+~
+~
+0 0 28195 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28195
+La Bocca del Serpente~
+Non si vede quasi nulla, il riflesso luminoso delle zanne di cristallo, 
+oscilla lentamente sulle pareti dello stretto cunicolo. Pareti innaturali
+che qualcuno ha scolpito, disegnando nel granito tanti piccoli occhi
+uniti tra loro come le scaglie di un serpente. Acqua tiepida proviene dal 
+basso dove, nell'oscuro fondale del tunnel, si apre il cerchio perfetto
+di un pozzo. Fissando per alcuni istanti quell'abisso fatto di tenebre,
+avverti improvviso un brivido gelido attraversare il tuo corpo, 
+non e' la tua carne a tremare ma la tua stessa anima a cercare la fuga.
+~
+280 128 8
+D3
+~
+~
+0 0 28196 0
+D5
+~
+~
+0 0 28194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28196
+Nelle fredde acque della grotta.~
+La poca luce che penetra in questa parte della grotta, illumina una 
+fitta foresta di alghe pietrificate. Qualcosa striscia lentamente
+tra le foglie morte in cerca di cibo. Non si puo' emergere la caverna
+e' completamente sommersa, una grande testa di serpente dalle fauci
+aperte e' scolpita nella roccia della parete. A intervalli regolari 
+una forte corrente marina trascina tutto verso l'inquietante ingresso,
+dopo pochi minuti le fauci di pietra vomitano nella grotta un violento
+getto d'acqua calda.
+~
+280 35184372088992 8
+D1
+~
+~
+0 0 28195 0
+D3
+~
+grata~
+2 0 28197 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28197
+Nelle Fredde acque della Grotta ~
+
+Disposti in file come soldati, grossi squali scolpiti nella pietra
+giaciono sul fondale sabbioso. Il loro muso affusolato e' rivolto
+verso una grata di bronzo, oltre la quale la caverna prosegue
+avvolta nelle tenebre. Un anello di metallo e' appeso ad una piccola
+sporgenza della parete sul lato destro della grata.
+Una leggera nuvoletta di sabbia si solleva in prossimita' delle rigide
+branchie di una delle tante statue, forse spaventata dal tuo arrivo
+un'innocua creatura marina ha cercato rifugio sotto la sabbia.
+~
+280 35184372088992 8
+D1
+~
+grata~
+2 0 28196 15
+D3
+~
+~
+0 0 28178 0
+D4
+~
+~
+0 0 28198 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28198
+La Grotta degli squali~
+La grotta si allarga creando quello che sembra un piccolo lago sotterraneo,
+solo le onde provocate dalla marea arrivano a smuovere la calma superfice
+dell'acqua.  Sulla paerete sud anch'essa piena di strani e profondi solchi, e'
+posata una &blastra&0 di marmo con su inciso il disegno di uno squalo.  Qui ogni
+plenilunio i pescatori portano parte del pescato e lo gettano nelle acque.  
+Seguono questo rituale da sempre per placare la fame degli squali che come
+incantati dormono sul fondo della grotta.  Molte enormi ombre giacono, infatti
+immobili nell'acqua cristallina.    
+~
+280 0 6
+D3
+~
+~
+0 0 28199 0
+D5
+~
+~
+0 0 28197 0
+E
+lastra~
+&7
+                /""-._
+               .      '-,
+               :         '',
+               :      *     '.
+               ' *         () '.
+                \               \
+                 \      _.---.._ '.
+                  :  .' _.--''-''  \ ,'
+    .._            '/.'             . :
+     : `-.          ,                \'
+      :   `,         :              ._\
+       :    \     _,-'                ''--._
+        :    \_,-'                          '-._
+         \ ,-'                       .          '-._
+        .'         __.-'':            \...,__       '.
+       .'      _,-'       \              \   ''--.,__ '\
+      /   _,--' :          \             :           "^.}
+     :_,-' )     \  )\      )            :
+          /       \/  \_.,-'             :
+         /                              :
+      ,-'  _,-'''-.    ,-.,            : 
+   ,-' _.-'        \  /    |/'-._...--'
+  :--``             )/&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#28199
+Grotta~
+Nel corso dei secoli le onde tempestose hanno consumato la dura roccia
+aprendosi un varco nelle viscere della terra.  Eppure quei profondi solchi
+sulle pareti e sulla volta donano un aspetto innaturale a questo luogo, e' come
+se un grosso felino avesse tentato di allargare il passaggio.  L'aqua e'
+cristallina e amplifica la scarsa luce che filtra dall'ingresso orientato a
+nord, piccole e grandi ombre nuotano lentamente sul fondo.  Sembra un buon
+posto per pescare ...  O per essere pescati!    
+~
+280 0 6
+D0
+~
+~
+0 0 3074256 0
+D1
+~
+~
+0 0 28198 0
+D5
+~
+~
+0 0 28178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

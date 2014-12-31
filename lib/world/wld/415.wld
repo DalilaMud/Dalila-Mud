@@ -1,0 +1,1706 @@
+#41500
+&7INGRESSO&0~
+&4Un ampio ingresso con un tappeto rosso, vecchio e tarlato sul pavimento. Alla parete
+EST  addossato un armadio per i soprabiti, gracidante di termiti, alla parete OVEST
+una specchiera infranta.&0
+~
+415 0 0
+D0
+~
+~
+0 0 41502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41501
+&7SALONE&0~
+&4Un'enorme salone per ricevimenti. A fatica lo sguardo riesce ad abbracciarlo tutto.
+nonostante le dimensioni comunque, l'ambiente  pregno di un odore acre e stantio.
+Le tende lacere e strappate delle vetrate sulla parete sud, filtrano una lugubre 
+luce azzurrognola, che accresce l'atmosfera lugubre del posto.&0
+~
+415 0 0
+D0
+Una porta di legno nero
+~
+porta~
+1 0 41509 1
+D1
+Una porta di legno, quasi scardinata.
+~
+porta~
+1 0 41511 3
+D3
+~
+~
+0 0 41502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41502
+&7SALONE&0~
+&4Un'enorme salone per ricevimenti. A fatica lo sguardo riesce ad abbracciarlo tutto.
+nonostante le dimensioni comunque, l'ambiente  pregno di un odore acre e stantio. 
+Le tende lacere e strappate delle vetrate sulla parete sud, filtrano una lugubre 
+luce azzurrognola, che accresce l'atmosfera lugubre del posto&0
+~
+415 0 0
+D0
+~
+~
+0 0 41508 0
+D1
+~
+~
+0 0 41501 0
+D2
+~
+~
+0 0 41500 0
+D3
+~
+~
+0 0 41503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41503
+&7SALONE&0~
+&4Un'enorme salone per ricevimenti. A fatica lo sguardo riesce ad abbracciarlo tutto.
+nonostante le dimensioni comunque, l'ambiente  pregno di un odore acre e stantio. 
+Le tende lacere e strappate delle vetrate sulla parete sud, filtrano una lugubre 
+luce azzurrognola, che accresce l'atmosfera lugubre del posto&0
+~
+415 0 0
+D0
+Una vecchia porta tarlata
+~
+porta~
+1 0 41506 3
+D1
+~
+~
+0 0 41502 0
+D3
+Una vecchia porta di legno tarlata
+~
+porta~
+1 0 41504 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41504
+&7SALA DA PRANZO&0~
+&4Un lungo salone immerso nella penombra. L'unica luce e' quella che riesce a farsi strada
+tra le spaccature e le crepe delle imposte, oramai troppo vecchie. Un enorme tavolo di marmo 
+occupa il centro del salone, sopra vi sono due candelabri vuoti. Alle pareti sono appesi 
+due &3dipinti&4 di paesaggi campestri che sembrano non trovarsi a loro agio in questo posto.&0
+~
+415 0 0
+D0
+~
+~
+0 0 41505 0
+D1
+Una vecchia porta di legno tarlata
+~
+porta~
+1 0 41503 3
+E
+dipinti~
+Uno ritraeva un prato in fiore con un bosco sullo sfondo,
+l'altro una verde collina percorsa da un fresco ruscello...
+Purtroppo queste opere sembrano esser state profanate:
+macchie e strisce di sangue incrostano le tele, componendo
+strani simboli occulti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41505
+&7SALA DA PRANZO&0~
+&4Un lungo salone immerso nella penombra. L'unica luce e' quella che riesce a farsi strada
+tra le spaccature e le crepe delle imposte, oramai troppo vecchie. Un enorme tavolo di marmo 
+occupa il centro del salone, sopra vi sono due candelabri vuoti. Alle pareti sono appesi 
+due &3dipinti&4 di paesaggi campestri che sembrano non trovarsi a loro agio in questo posto.&0
+~
+415 0 0
+D1
+Una vecchia porta tarlata
+~
+porta~
+1 0 41506 3
+D2
+~
+~
+0 0 41504 0
+E
+dipinti~
+Uno ritraeva un prato in fiore con un bosco sullo sfondo,
+l'altro una verde collina percorsa da un fresco ruscello...
+Purtroppo queste opere sembrano esser state profanate:
+macchie e strisce di sangue incrostano le tele, componendo
+strani simboli occulti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41506
+&7CUCINE&0~
+&4L'ambiente  diviso in 3 "navate" da due enormi &3tavoli&4 carichi di carne rancida
+e altri ingredienti inutilizzabili. Un camino riposa al centro della stqanza. ;
+Alle pareti sono appesi utenisli da cucina e addossate credenze tarlate, con gli 
+sportelli sigillati da ragnatele. Un intollerabile odore di putrefazione permea la stanza.&0
+~
+415 0 0
+D0
+Una vecchia porta tarlata.
+~
+porta~
+1 0 41512 3
+D1
+una vecchia porta tarlata
+~
+porta~
+1 0 41507 3
+D2
+Una vecchia porta tarlata
+~
+porta~
+1 0 41503 3
+D3
+Una vecchia porta tarlata
+~
+porta~
+1 0 41505 3
+E
+tavoli~
+&1ORRORE E DISGUSTO! Tra la carne ammucchiata sopra
+riconosci una mano ed un polpaccio umani!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41507
+&1SCARICHI&0~
+&4 Questa stanza dalle pareti rivestite di legno ha tre tombini sul pavimento di pietra.
+Senti un debole scrosciare d'acqua provenire da sotto di essi, il che, unito all'odore forte
+e poco gradevole ti fa supporre che si tratt idi una stanza adibita allo scarico dei rifiuti
+sia organici che non...&0
+~
+415 0 0
+D3
+una vecchia porta tarlata.
+~
+porta~
+1 0 41506 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41508
+&7SCALINATA&0~
+&4Una larga scalinata con gradini di pietra abbastanza ampi da permettere un passo
+prima di salire al successivo. Un vecchio tappeto azzurro ricopre la parte centrale.&0
+~
+415 0 0
+D2
+~
+~
+0 0 41502 0
+D4
+~
+~
+0 0 41515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41509
+&7STUDIO&0~
+&4Questa e' l'unica sala che sembra tenuta in ordine, sebbene non sia pulita.
+Un largo tavolo troneggia al centro della stanza, con sopra vari tipi di minerali,
+pietre ma anche ampolle e altri utensili peralchimisti. Un enorme macchia di 
+umidita' sulla parete NORD ti ricorda quanto questa villa sia decrepita.
+Le altre pareti sono tappezzate di librerie ricolme di manoscritti.&0
+~
+415 0 0
+D2
+Una vecchia porta di legno nero
+~
+porta~
+1 0 41501 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41510
+&7ESPOSIZIONE&0~
+&4Ampie finestre sulla parete EST dovevano fornire l'illuminazione necessaria alla
+galleria di &3quadri&4 allestita sulla parete OVEST. Ogni dipinto era accompagnato
+da una didascalia. Ora invece, tutto e' immerso in una luce grigio-polvere, le
+didascalie sono state strappate e i dipinti hanno dei tratti... confusi. Un solo
+quadro, un autoritratto, e' posto tra le due finestre, come se guardasse gli altri 
+dipinti di fronte a lui.&0
+~
+415 0 0
+D2
+~
+~
+0 0 41511 0
+E
+quadri~
+&1Altro che confusi! I dipinti sono stati profanati con 
+incisioni e simboli di dannazione e derisione tracciati
+con il sangue! L'autoritratto in particolare sembra 
+versare vermiglie lacrime contemplando lo scempio delle 
+proprie opere... &0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41511
+&7ESPOSIZIONE&0~
+&4Ampie finestre sulla parete EST dovevano fornire l'illuminazione necessaria alla
+galleria di &3quadri&4 allestita sulla parete OVEST. Ogni dipinto era accompagnato
+da una didascalia. Ora invece, tutto e' immerso in una luce grigio-polvere, le
+didascalie sono state strappate e i dipinti hanno dei tratti... confusi. Un solo
+quadro, un autoritratto, e' posto tra le due finestre, come se guardasse gli altri 
+dipinti di fronte a lui.&0
+~
+415 0 0
+D0
+~
+~
+0 0 41510 0
+D3
+Una porta di legno, quasi scardinata.
+~
+~
+1 0 41501 3
+E
+quadri~
+&1Altro che confusi! I dipinti sono stati profanati con 
+incisioni e simboli di dannazione e derisione tracciati
+con il sangue! L'autoritratto in particolare sembra 
+versare vermiglie lacrime contemplando lo scempio delle 
+proprie opere... &0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41512
+&7DISPENSA&0~
+&4Scaffali di legno, vuoti e tarlati riempiono la stanza. Forse un tempo ospitavano cibi e 
+bevande, oggi sono oggetto di contesa per i ragni e gli scarafaggi. Un odore stantio
+permea l'intero ambiente.&0
+~
+415 0 0
+D1
+~
+~
+0 0 41513 0
+D2
+Una vecchia porta tarlata.
+~
+~
+1 0 41506 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41513
+&7DISPENSA&0~
+&4Scaffali di legno, vuoti e tarlati riempiono la stanza. Forse un tempo ospitavano cibi e 
+bevande, oggi sono oggetto di contesa per i ragni e gli scarafaggi. Un odore stantio
+permea l'intero ambiente.&0
+~
+415 0 0
+D3
+~
+~
+0 0 41512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41514
+&7STANZA SEGRETA&0~
+&4La stanza e' quasi completamente vuota, ci sono solo alcuni materiali per la pittura,
+un vecchio cavalletto, vernici e colori rappresi e qualche pennello spennacchiato.
+La vera attrazione e' costituta dall'enorme &3affresco&4 sulla parete NORD.&0
+~
+415 1 0
+D2
+una porta dipinta
+~
+porta~
+1 0 41509 3
+E
+affresco~
+&b&1                  _ ---- _&3 _ 
+&2              .-' \ &1. :  &3/  '-.
+&2            / .  . \   &1.&3/.  .  \
+          &4_&2|&4_&2   .          &3.   &2_&3|&2_
+        &4 /    '-.  &3######&3  . &2-'   \
+        &4|   .    &3##########&2    .   |
+       &4 |  . .  &3############&2  . .  |
+        &4 \___ .-'&3##########&2 '-.___/
+          &3| .   .  *####*&4  .     |
+           &3\  &3. . &1/ . . .\ &4 . .  /
+            &3\    &1/ .  .  .\ &4 .  /
+              &3'-&1( .    .  .)&4-.'
+                  &1' ----- '
+                    &2/ /
+                   / /
+                   ( (
+                    \ \
+                     \ \
+                      ) )&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41515
+&7PIANEROTTOLO&0~
+&4E'l'ingresso al I piano della villa. L'unico arredamento e' un mobile addossato alla 
+parete EST. Le assi del pavimento scricchiolano in modo sinistro. &0
+~
+415 0 0
+D0
+~
+~
+0 0 41516 0
+D5
+~
+~
+0 0 41508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41516
+&7CORRIDOIO&0~
+&4Polvere e muffa dominano questo ambiente. I muri sono rovinati in piu' punti e le 
+crepe si sono rimarginate riempiendosi di sporcizia.
+C' e' puzza di chiuso.&0
+~
+415 0 0
+D1
+~
+~
+0 0 41517 0
+D2
+~
+~
+0 0 41515 0
+D3
+~
+~
+0 0 41518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41517
+&7CORRIDOIO&0~
+&4Polvere e muffa dominano questo ambiente. I muri sono rovinati in piu' punti e le 
+crepe si sono rimarginate riempiendosi di sporcizia.
+C' e' puzza di chiuso.&0
+~
+415 0 0
+D0
+una porta a vetri...infranta.
+~
+porta~
+1 0 41527 3
+D1
+Una vecchia porta tarlata su cui, un tempo, era inciso un stemma
+~
+porta~
+1 0 41522 3
+D2
+una vecchia porta su cui, un tempo, era inciso uno stemma
+~
+porta~
+1 0 41524 3
+D3
+~
+~
+0 0 41516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41518
+&7CORRIDOIO&0~
+&4Polvere e muffa dominano questo ambiente. I muri sono rovinati in piu' punti e le 
+crepe si sono rimarginate riempiendosi di sporcizia.
+C' e' puzza di chiuso.&0
+~
+415 0 0
+D0
+una porta a vetri...infranta.
+~
+porta~
+1 0 41525 1
+D1
+~
+~
+0 0 41516 0
+D2
+~
+porta~
+1 0 41520 3
+D3
+una vecchia porta semi-marcita
+~
+porta~
+1 0 41519 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41519
+&7CAMERA DELLA SERVITU'&0~
+&4Ci sono due letti a castello. Alcuni sembrano inutilizzati da molto tempo, su altri invece
+si trovano ancora dei corpi oramai in decomposizione avanzata, Qualcunque cosa abbia ucciso
+la servitu', deve averlo fatto mentre dormiva. Appesi alle pareti ci sono delel divise:
+una da cuoco, una da cocchiere e una da giardiniere... oramai inutilizzabili...&0
+~
+415 0 0
+D1
+Una vecchia porta tarlata
+~
+porta~
+1 0 41518 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41520
+&7CAMERA DELLA SERVITU'&0~
+&4Ci sono due letti a castello. Alcuni sembrano inutilizzati da molto tempo, su altri invece
+si trovano ancora dei corpi oramai in decomposizione avanzata, Qualcunque cosa abbia ucciso
+la servitu', deve averlo fatto mentre dormiva. Appesi alle pareti ci sono delle divise da cameriera&0
+~
+415 0 0
+D0
+Una vecchia porta tarlata
+~
+porta~
+1 0 41518 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41521
+&7SERVIZI DELLA SERVITU'&0~
+&4Alla parete SUD, seminascosti da cadenti separe' di legno ci sono 2 latrine, collegate con
+uno scarico esterno. Alla parete EST e' addossato una vasca e alla NORD alcuni lavelli.&0
+~
+415 0 0
+D0
+Una vecchia porta tarlata
+~
+porta~
+1 0 41519 3
+D1
+Una vecchia porta tarlata
+~
+porta~
+1 0 41520 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41522
+&7CAMERA DA LETTO&0~
+&4L'arredamento elegante di questa stanza ti fa pensare che fosse riservata al proprietario
+della villa. Il letto a baldacchino sembra morbido e confortevole e il camino all'angolo
+SUD-OVEST sembra ancora funzionante... anzi ci sono addiittura delle braci ancora &1ardenti!&0
+~
+415 0 0
+D2
+una vecchia porta
+~
+porta~
+1 0 41523 3
+D3
+Una vecchia porta tarlata su cui, un tempo, era inciso un stemma
+~
+porta~
+1 0 41517 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41523
+&7SERVIZI&0~
+&4Questa stanza e' rivestita di ceramica e ha al centro un'enorme vasca di pietra sulla 
+quale sono ormai spuntati muschi e funghi. Accanto al camino ci sono enormi calderoni con
+dell'acqua dentro. Alla parete Ovest sono appesi asciugamani e delle vestaglie. Nell'angolo 
+SUD EST una latrina alla turca, collegata direttamente con l'esterno.&0
+~
+415 0 0
+D0
+Una vecchia porta
+~
+porta~
+1 0 41522 3
+D3
+una vecchia porta
+~
+porta~
+1 0 41524 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41524
+&7CAMERA DA LETTO&0~
+&4L'arredamento elegante di questa stanza ti fa pensare che fosse riservata al proprietario
+della villa. Il letto a baldacchino sembra morbido e confortevole e il camino all'angolo 
+NORD-EST sembra ancora funzionante... anzi ci sono addiittura delle braci ancora &1ardenti!&0
+~
+415 0 0
+D0
+una vecchia porta semi-marcita
+~
+porta~
+1 0 41517 3
+D1
+una vecchia porta
+~
+porta~
+1 0 41523 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41525
+&7BALCONE&0~
+&9&bL'ampia balconata ha uno scricchilante pavimento di legno. Fa un freddo innaturale qui 
+fuori e il paesaggio e' costituito da uno sconfinato grigio. Sembra infatti che la casa sia
+circondata da una sua nuvola personale... questo spiegherebbe l'umidita' e l'elettricita' 
+che sono nell'aria... &0
+~
+415 0 0
+D1
+~
+~
+0 0 41526 0
+D2
+una porta a vetri...infranta.
+~
+porta~
+1 0 41518 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41526
+&7BALCONE&0~
+&9&bL'ampia balconata ha uno scricchilante pavimento di legno. Fa un freddo innaturale qui 
+fuori e il paesaggio e' costituito da uno sconfinato grigio. Sembra infatti che la casa sia
+circondata da una sua nuvola personale... questo spiegherebbe l'umidita' e l'elettricita' 
+che sono nell'aria... &0
+~
+415 0 0
+D1
+~
+~
+0 0 41527 0
+D3
+~
+~
+0 0 41525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41527
+&7BALCONE&0~
+&9&bL'ampia balconata ha uno scricchilante pavimento di legno. Fa un freddo innaturale qui 
+fuori e il paesaggio e' costituito da uno sconfinato grigio. Sembra infatti che la casa sia
+circondata da una sua nuvola personale... questo spiegherebbe l'umidita' e l'elettricita' 
+che sono nell'aria... &0
+~
+415 0 0
+D2
+una porta a vetri...infranta.
+~
+porta~
+1 0 41517 3
+D3
+~
+~
+0 0 41526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41528
+&3TUNNEL SOTTERRANEO&0~
+&3Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.&0
+~
+415 0 0
+D1
+~
+~
+0 0 41529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41529
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D1
+~
+~
+0 0 41530 0
+D3
+~
+~
+0 0 41528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41530
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D0
+~
+~
+0 0 41531 0
+D3
+~
+~
+0 0 41529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41531
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D0
+~
+~
+0 0 41532 0
+D2
+~
+~
+0 0 41530 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41532
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D2
+~
+~
+0 0 41531 0
+D3
+~
+~
+0 0 41533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41533
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D1
+~
+~
+0 0 41532 0
+D3
+~
+~
+0 0 41534 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41534
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D0
+~
+~
+0 0 41535 0
+D1
+~
+~
+0 0 41533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41535
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D0
+Un massiccio portone di acciaio. Sembra molto pesante.
+~
+portone~
+2 110115 41536 15
+D2
+~
+~
+0 0 41534 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41536
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D1
+~
+~
+0 0 41537 0
+D2
+Un massiccio portone di acciaio. Sembra molto pesante.
+~
+portone~
+2 110115 41535 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41537
+&3TUNNEL SOTTERRANEO&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+Sulla parete EST e' inciso uno strano &3graffito&0.
+~
+415 0 0
+D1
+~
+~
+0 0 41538 0
+D3
+~
+~
+0 0 41536 0
+E
+graffito~
+Il graffito sembra riprodurre delle rocce
+in movimento.Reca una scritta in caratteri 
+molto rozzi e spigolosi:
+&1Incidi la Runa che rappresenta questo
+Sotterraneo&0.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41538
+&3 LA FINE DEL TUNNEL&0~
+Un ampio tunnel scavato nella roccia viva. Il percorso e' costellato
+di stalattiti e stalagmiti che a volte si incontrano a formare delle
+colonne naturali, simili a inanimate clessidre di pietra. L'ambiente
+e' illuminato da torce i cui bagliori si riflettono sulle pareti umide
+creando inquietanti giochi di luce.
+~
+415 0 0
+D3
+~
+~
+0 0 41537 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41539
+&3TUNNEL PRINCIPALE&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 1 0
+D2
+~
+~
+0 0 41540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41540
+&3TUNNEL PRINCIPALE&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 1 0
+D0
+~
+~
+0 0 41539 0
+D2
+~
+~
+0 0 41541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41541
+&3TUNNEL PRINCIPALE&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 1 0
+D0
+~
+~
+0 0 41540 0
+D1
+~
+~
+0 0 41542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41542
+&3TUNNEL PRINCIPALE&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D2
+~
+~
+0 0 41543 0
+D3
+~
+~
+0 0 41541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41543
+&3TUNNEL PRINCIPALE&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D0
+~
+~
+0 0 41542 0
+D1
+un pannello di legno scorrevole
+~
+pannello~
+5 0 41544 19
+D2
+~
+~
+0 0 41547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41544
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile.La cavita' 
+naturale presenta delle strutture di rinforzo di legno, per scongiurare crolli,soprattutto 
+lungo la parete EST. Tendendo l'orecchio si puo' percepire un gorgoglio proveniente da 
+chissa' quale sorgente sotterranea.
+~
+0 0 0
+D2
+~
+~
+0 0 41548 0
+D3
+un pannello di legno scorrevole
+~
+pannello~
+5 0 41543 19
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41545
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D1
+~
+~
+0 0 41546 0
+D2
+~
+~
+0 0 41550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41546
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D1
+una pannello di legno scorrevole
+~
+pannello~
+5 456 41547 23
+D3
+~
+~
+0 0 41545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41547
+&3FINE DEL TUNNEL&0~
+Il tunnel si chiude in una parete piuttosto irregolare, divisa in vari strati rocciosi.
+Non deve essere molto solida, ci sono infatti molti rinforzi di legno, soprattutto lungo la
+parete WEST, che presenta vere e proprie impalcature di legno.
+La luce proviene da una lampada ad olio appesa al soffito.
+~
+0 0 0
+D0
+~
+~
+0 0 41543 0
+D3
+un pannello di legno scorrevole
+~
+pannello~
+1 456 41546 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41548
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D0
+~
+~
+0 0 41544 0
+D2
+~
+~
+0 0 41551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41549
+&3MAGAZZINO DEI CIBI&0~
+Sacchi di grano ammucchiati in un angolo, ceste di frutta secca, alcune casse di carne salata
+e, naturalmente, qualche botte di vino. Ci sono anche degli scaffali con alcuni barattoli di
+spezie. Semplice e spartano, questo e' la dispensa della Congrega.
+~
+0 0 0
+D1
+una porta di legno
+~
+porta~
+1 0 41550 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41550
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D0
+~
+~
+0 0 41545 0
+D2
+~
+~
+0 0 41553 0
+D3
+una porta di legno
+~
+porta~
+1 0 41549 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41551
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D0
+~
+~
+0 0 41548 0
+D1
+~
+~
+0 0 41552 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41552
+&3TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D3
+~
+~
+0 0 41551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41553
+&3 TUNNEL&0~
+Terreno sdrucciolevole e roccia friabile si alternano all'interno di questo cupo passaggio
+sotterraneo con larghi e solidi massi grigi, dove camminare diventa piu' facile. Tendendo 
+l'orecchio si puo' percepire un gorgoglio proveniente da chissa' quale sorgente sotterranea.
+~
+0 0 0
+D0
+~
+~
+0 0 41550 0
+D2
+~
+~
+0 0 41555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41554
+&3POSTO DI GUARDIA&0~
+Un anfratto del tunnel, arredato con un &3tavolino&0 e alcune sedie. C'e' pure un pagliericcio
+in un angolo e una piccola botte. Il posto e' bene illuminato da alcune lampade.
+~
+0 0 0
+D1
+~
+~
+0 0 41555 0
+E
+tavolino~
+Sopra ci sono boccali vuoti, dadi e carte da gioco.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41555
+&3 UNO SPIAZZO &0~
+Qui il tunnel si stringe e si biforca. Prosegue sia a EST che a OVEST, dove puoi vedere delle
+luci. Sulla parete a sud invece c'e' una strana porta di legno, alla quale si accede salendo 
+alcuni ampi gradini.
+~
+0 0 0
+D0
+~
+~
+0 0 41553 0
+D1
+~
+~
+0 0 41556 0
+D2
+Una porta molto pesante e robusta
+~
+Porta~
+1 41557 41557 7
+D3
+~
+~
+0 0 41554 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41556
+&3DIMENTICATOIO&0~
+In questo anfratto del tunnel sono ammassati oggetti di ogni tipo, per la maggior parte rotti
+o in disuso. Non sembra ci sia nulla di interessante, a parte magari qualche topo intento a 
+rosicchiare vecchi mobili.
+~
+0 1 0
+D3
+~
+~
+0 0 41555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41557
+&3DEPOSITO&0~
+Questo ampio salone e' semi-vuoto, ma la parte piena sembra davvero molto interessante: ci sono
+stoffe ammucchiate da una parte, quadri da un'altra, alcuni bauli e forzieri e vari scaffali 
+con dei libri, probabilmente preziosi. Sarebbe bello, ma impossibile riuscire a prendere tutto.
+~
+0 0 0
+D0
+Una porta molto pesante e robusta
+~
+Porta~
+1 41557 41555 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41558
+&3PIAZZALE&0~
+In questo angolo del piazzale sono accumulate varie casse con viveri, ed un odore di cibi
+cotti proviene da nord. Alcuni gatti gironzolano intorno alle provviste, probabilmente sono
+di guardia contro eventuali roditori. Lunghe tavolate sono disposte piu' o meno al centro 
+dello spazio.
+~
+0 0 0
+D0
+una porta di legno
+~
+porta~
+1 0 41564 3
+D1
+~
+~
+0 0 41559 0
+D2
+~
+~
+0 0 41560 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41559
+&3PIAZZALE&0~
+In questo angolo del piazzale sono accumulate varie casse con viveri, ed un odore di cibi
+cotti proviene da nord. Alcuni gatti gironzolano intorno alle provviste, probabilmente sono
+di guardia contro eventuali roditori. Lunghe tavolate sono disposte piu' o meno al centro 
+dello spazio.
+~
+0 0 0
+D0
+una porta di legno
+~
+porta~
+1 0 41565 3
+D1
+una porta di legno
+~
+porta~
+1 0 41569 3
+D2
+~
+~
+0 0 41561 0
+D3
+~
+~
+0 0 41558 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41560
+&3 INGRESSO PIAZZALE&0~
+Qui il sotterraneo si allarga e anche il soffitto si alza di molto, al punto di permettere 
+addirittura la costruzione di bassi edifici, che in effetti sono sorti tutto intorno allo 
+spiazzo. Il suolo e' piuttosto sconnesso e a tratti sabbioso.Vedi in lontananza un pozzo, 
+ecco spiegato il continuo rumore di acqua corrente.
+~
+0 0 0
+D0
+~
+~
+0 0 41558 0
+D1
+~
+~
+0 0 41561 0
+D2
+~
+~
+0 0 41562 0
+D3
+~
+~
+0 0 41552 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41561
+&3CENTRO DEL PIAZZALE&0~
+Questo e' il punto piu' centrale del piazzale, addirittura il terreno sembra spianato
+artificialmente e differisce molto dal terreno brullo e sconnesso del resto del piazzale.
+Un vivace rumore di acqua corrente proviene dal sottosuolo. Ci sono delle panche sparse 
+qua e la'.
+~
+0 0 0
+D0
+~
+~
+0 0 41559 0
+D1
+una porta di legno
+~
+porta~
+1 0 41567 3
+D2
+~
+~
+0 0 41563 0
+D3
+~
+~
+0 0 41560 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41562
+&3PIAZZALE D'ARMI&0~
+Questo lato del piazzale sembra destinato all'allenamento dei guerrieri, c'e' infatti un
+recinto che simula un'arena con dentro numerosi manichini e bersagli, il tutto e' ben 
+illuminato da torce infisse nel terreno. Ci sono pure alcune panchine.
+~
+0 0 0
+D0
+~
+~
+0 0 41560 0
+D1
+~
+~
+0 0 41563 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41563
+&3PIAZZALE DEL FALO'&0~
+Guardando in alto ti accorgi che la volta presenta un'apertura, una sorta di canale proprio 
+sopra questo punto, intelligentemente sfruttata per convogliare il fumo di un eventuale falo'.
+Noti infatti, per terra in corrispondenza dell'apertura, una pira di legna secca preparata 
+probabilmente per essere accesa in futuro. Tutto intorno alla pira ci sono sedie e sgabelli 
+disposte in cerchio, tra essi spicca un sedile rivestito di pelli.
+~
+0 0 0
+D0
+~
+~
+0 0 41561 0
+D1
+una porta di legno
+~
+porta~
+1 0 41568 3
+D3
+~
+~
+0 0 41562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41564
+&3CUCINE&0~
+Questo  un vero e proprio edificio in legno, composto da una sola stanza stanza. 
+E' incredibile che abbiano costruito in un sotterraneo, ad ogni modo sembra funzionale, ci
+sono 3 tavoli e un forno, svariate casse di cibo e un'inifinta' di utensili da cucina sparsi
+tutto intorno.
+~
+0 0 0
+D2
+una porta di legno
+~
+porta~
+1 0 41558 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41565
+&3ALLOGGI&0~
+Questo  un vero e proprio edificio in legno, e' incredibile che abbiano costruito in un 
+sotterraneo. All'interno ci sono una decina di letti a castello, ognuno con una piccola
+cassa ai suoi piedi. Non deve essere piacevole dormire qui quando e' pieno, ma e' comunque
+una sistemazione.
+~
+0 0 0
+D1
+~
+~
+0 0 41566 0
+D2
+una porta di legno
+~
+porta~
+1 0 41559 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41566
+&3ALLOGGI&0~
+Questo  un vero e proprio edificio in legno, e' incredibile che abbiano costruito in un 
+sotterraneo. All'interno ci sono una decina di letti a castello, ognuno con una piccola
+cassa ai suoi piedi. Non deve essere piacevole dormire qui quando e' pieno, ma e' comunque
+una sistemazione.
+~
+0 0 0
+D2
+~
+~
+0 0 41569 0
+D3
+~
+~
+0 0 41565 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41567
+&3ARMERIA&0~
+Questo  un vero e proprio edificio in legno, e' incredibile che abbiano costruito in un 
+sotterraneo.Dentro c'e' una piccola forgia con una grossa incudine al centro della sala.
+Le pareti sono tapezzate di rastrelliere piene di armi di media qualita'. Delle morse per 
+piegare il legno e il metallo giacciono in un angolo.
+~
+0 0 0
+D3
+una porta di legno
+~
+porta~
+1 0 41561 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41568
+&3SALA COMANDO&0~
+Questo  un vero e proprio edificio in legno, e' incredibile che abbiano costruito in un 
+sotterraneo. Sembrerebbe un ufficio, dentro c'e' un tavolo con una poltrona e alcune sedie,
+alcuni scaffali con qualche libro e qualche trofeo.
+~
+0 0 0
+D3
+una porta di legno
+~
+porta~
+1 0 41563 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41569
+&3ALLOGGI&0~
+Questo  un vero e proprio edificio in legno, e' incredibile che abbiano costruito in un 
+sotterraneo. All'interno ci sono una decina di letti a castello, ognuno con una piccola
+cassa ai suoi piedi. Non deve essere piacevole dormire qui quando e' pieno, ma e' comunque
+una sistemazione.
+~
+0 0 0
+D0
+~
+~
+0 0 41566 0
+D3
+una porta di legno
+~
+porta~
+1 0 41559 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41570
+LA PIETRA~
+La volta degli alberi si interrompe di fronte ad un alto monolito bianco, ricoperto da 
+strisce di muschio profumato. Su una delle sue facciate ci sono delle incisioni, degli
+strani simboli colmi di una brillante &b&fluce verde&0 che li percorre, intermittente.
+La &b&fluce&0, e l'atmosfera in generale ti rilassano molto. Questo e' sicuramente un 
+luogo adatto alla &3meditazione&0.
+~
+0 0 0
+D0
+~
+~
+0 0 41572 0
+D2
+~
+~
+0 0 41580 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41571
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da NORD 
+curvando verso EST. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D0
+~
+~
+0 0 41574 0
+D1
+~
+~
+0 0 41572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41572
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da WEST
+curvando verso EST. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D0
+~
+~
+0 0 41575 0
+D1
+~
+~
+0 0 41573 0
+D2
+~
+~
+0 0 41570 0
+D3
+~
+~
+0 0 41571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41573
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da WEST
+curvando verso NORD. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D0
+~
+~
+0 0 41576 0
+D3
+~
+~
+0 0 41572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41574
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da SUD
+curvando verso NORD. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D0
+~
+~
+0 0 41577 0
+D1
+~
+~
+0 0 41575 0
+D2
+~
+~
+0 0 41571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41575
+&7IL CENTRO DELLA RADURA&0~
+You are in an unfinished room.
+Qui, isolata da  tutte le altre, vi e' una grande &7Pietra bianca&0. Tutto intorno l'erba cresce rigogliosa
+e i fiori splendono di colori brillanti, diffondendo odori preziosi tutt'intorno.
+Anche gli animali, Uccelli, predatori, erbivori... tutti passano accanto alla &7Pietra&0 con reverenziale 
+rispetto o vi sostanoper un po', ignorando tutto il resto, perfino la vostra presenza.
+~
+0 0 0
+D0
+~
+~
+0 0 41579 0
+D1
+~
+~
+0 0 41577 0
+D2
+~
+~
+0 0 41572 0
+D3
+~
+~
+0 0 41574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41576
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da SUD
+curvando verso NORD. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D0
+~
+~
+0 0 41579 0
+D2
+~
+~
+0 0 41573 0
+D3
+~
+~
+0 0 41575 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41577
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da SUD
+curvando verso EST. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D1
+~
+~
+0 0 41578 0
+D2
+~
+~
+0 0 41574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41578
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da EST
+curvando verso WEST. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D1
+~
+~
+0 0 41579 0
+D2
+~
+~
+0 0 41575 0
+D3
+~
+~
+0 0 41577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41579
+&b&9L&7A &9R&7A&9D&7U&9R&7A&0~
+Una lunga fila curvilinea di pietre attraversa questa parte della radura da SUD
+curvando verso WEST. Le pietre sono di colore grigio cangiante, a volte sembrano
+piu chiare, a volte piu' scure. Noti che piu' o meno a meta' della parte di
+pietre che riesci ad abbracciare con lo sguardo, vi e' una &3Pietra&0 molto piu'
+grande, simile a quella fuori dalla radura, con un incavo sulla sua sommita'.
+Anche qui c'e' un' &bincisione verde&0, ma non sembra difficile da leggere.
+~
+0 0 0
+D2
+~
+~
+0 0 41576 0
+D3
+~
+~
+0 0 41578 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#41580
+&2UN PASSAGGIO TRA GLI ALBERI&0~
+Questo posto ha qualcosa di surreale. Sebbene oramai ti sia abituato al paesaggio del 
+bosco qui noti qualcosa di diverso, e' come se tutto sia immerso in una patina brillante
+che rende i colori piu' vividi e lucenti e i profumi piu' intensi. Anche i suoni sembrano
+avere un timbro diverso... piu' squillante e nitido e ti sembra di riconoscere 
+distintamente tutti i versi degli animali. Verso NORD gli alberi intrecciano i loro rami 
+formando una volta naturale.
+~
+0 0 0
+D0
+~
+~
+0 0 41570 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

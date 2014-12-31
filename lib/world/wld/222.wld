@@ -1,0 +1,917 @@
+#22201
+Cancello di luce della Cattedrale di Dolmant~
+  Sei di fronte ad un magnifico cancello formato da luce rossa
+e verde. E' cosi' ampio che non riesci a vederne la fine ne' a
+destra ne' a sinistra, in altezza poi sembra arrivare alle
+stelle. Anche il suo spessore sembra enorme, ma se allunghi la
+mano fino a toccarlo ti accorgi che e' tutto un'illusione: il
+cancello non e' solido, ma semplice luce.
+~
+222 35184372088836 0
+D0
+~
+~
+0 0 22202 0
+D1
+~
+cancellata magica~
+2 0 21208 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22202
+Strada del vento~
+  La cattedrale di Dolmant sorge su una penisola rocciosa,
+collegata al resto della citta' da uno stretto lembo di terra
+su cui corre la strada che stai percorrendo. Mentre cammini la
+schiuma delle onde che si infrange sugli scogli attorno a te
+quasi sommerge la strada. Sei colto da un senso di vertigini e
+sei preso dal timore che quella strada, cosi' come il vicino
+cancello di luce, non sia altro che un'illusione. Ma poi,
+davanti ai tuoi occhi, si accendono centinaia di piccole luci
+che delineano chiaramente la via e cosi' ti fai coraggio e
+continui il cammino.
+~
+222 0 0
+D0
+~
+~
+0 -1 22203 0
+D2
+~
+~
+0 -1 22201 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22203
+Stelle~
+  Hai l'impressione di trovarti al centro del firmamento!
+Il tuo corpo sembra perdere consistenza e svanire, mentre una
+incredibile energia lo pervade.
+  Dubbi, delusioni, rimorsi, rancori sono ormai lontani, li
+hai lasciati fuori assieme al tuo corpo. Qui tutto e' diverso
+e ti senti solo, leggero e felice di essere cosi' immateriale.
+Ti e' chiaro ormai che qui, solo pensiero ed essenza possono
+esistere, tutto cio' che e' materiale qui non puo' penetrare.
+Stai per entrare in un luogo consacrato allo spirito, dove
+tutto e' pura essenza e per potervi entrare anche tu devi
+diventare tale.
+~
+222 16 0
+D0
+~
+~
+0 -1 22204 0
+D1
+~
+~
+0 -1 22214 0
+D2
+~
+~
+0 -1 22202 0
+D3
+~
+~
+0 -1 22209 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22204
+Cassiopea~
+  La luce delle dieci stelle di questa costellazione penetrano
+nel profondo del tuo spirito. Le cinque piu' brillanti ti
+infondono nuova speranza, le tre di media intensita' rendono
+leggeri i tuoi pensieri, le due piu' piccole scacciano le tue
+paure.
+  Alzi la testa, senti il cuore nel petto battere con un ritmo
+calmo e costante, respiri profondamente e ti senti pronto per
+procedere oltre.
+~
+222 16 0
+D0
+~
+~
+0 -1 22205 0
+D2
+~
+~
+0 -1 22203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22205
+Orione~
+  Questa costellazione e la sua nebulosa, formata da piu' di
+150 astri, incarnano di fronte ai tuoi occhi la potenza. Ti
+senti affascinato dal possente disegno di luce che queste
+stelle creano, ma avverti chiaramente che il nucleo di tale
+potenza risiede nel quadrilatero di Orione. Esso rappresenta
+e l'essenza stessa della forza umana, la fierezza di un animo
+coraggioso e di un cuore impavido. Ora che hai potuto ammirare
+la nebulosa di Orione, sei convinto di essere pronto a tutto,
+anche ad affrontare le montagne e a sconfiggerle.
+~
+222 16 0
+D0
+~
+~
+0 -1 22206 0
+D2
+~
+~
+0 -1 22204 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22206
+L'altare di Cyrgon~
+  Non appena giungi nel centro esatto della cattedrale sei
+colto dal panico. Ti trovi, infatti, davanti alla tua piu' pura
+essenza. Questa e' l'unica che puo' giungere in questo luogo.
+  Qui, davanti alla statua di Cyrgon, avverti una strana
+presenza, quella stessa che, nei momenti in cui tutto sembrava
+perduto, ti ha spinto ad andare avanti, quella stessa che, in
+situazioni critiche o di estremo pericolo, ti ha dato sicurezza
+e ti ha fatto essere coerente. Guardando questa magnifica statua,
+l'immagine di un Dio che non si e' mai arreso di fronte a nulla,
+per un attimo ti sembra di riuscire a cogliere il senso della
+vita, e questo attimo di estrema lucidita' ti infonde la speranza
+di riuscire, un giorno, a realizzare i tuoi sogni.
+~
+222 16 0
+D0
+~
+~
+0 -1 22207 0
+D2
+~
+~
+0 -1 22205 0
+D5
+Proprio dietro l'altare ben mimetizzata dalle venature
+marmoree del pavimento vedi una piccola botola.
+~
+botola~
+0 0 22234 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22207
+Ursa minor~
+  Questa stella, come quella polare, ti indica la direzione da
+seguire per non perdere la rotta. Osservarla ti infonde sicurezza
+in te stesso e nel cammino che stai percorrendo. Sei
+consapevole che, anche nei momenti bui, ti e' sufficiente alzare
+lo sguardo verso di essa per trovare di nuovo il coraggio di
+andare avanti.
+~
+222 16 0
+D0
+Una porta di legno.
+~
+porta~
+1 2744487 22208 135
+D1
+~
+~
+0 -1 22218 0
+D2
+~
+~
+0 -1 22206 0
+D3
+~
+~
+0 -1 22212 0
+D4
+~
+~
+0 -1 22227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22208
+Mensa~
+  La grande Nebulosa di Magellano ti avvolge infondendoti la
+sensazione di precipitare di nuovo nel caos della vita:
+migliaia di stelle attorno a te sfrecciano ovunque, microscopiche
+meteore passano davanti ai tuoi occhi, orrendi buchi neri ti
+attraggono verso trappole mortali.
+  La Nebulosa non ha confini definiti, essi mutano in
+continuazione essendo determinati dagli armoniosi movimenti di
+ogni singola meteora, di ogni pianeta, di ogni sole che essa
+comprende.
+~
+222 2572 0
+D2
+Una porta di legno.
+~
+porta~
+1 2744487 22207 167
+D5
+Una porta di legno.
+~
+porta~
+1 336470 21262 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22209
+Eracle~
+  Qui, al cospetto della stella del divino gemello, puoi
+essere spettatore delle gesta di eroi immortali.  Le loro
+imprese qui si ripetono incessantemente e di continuo,
+fermandoti ad osservarle puoi condividere con loro azioni,
+sentimenti, pensieri e sentirti parte delle loro eroiche imprese.
+  Dopo aver assistito a questo spettacolo, sei pronto a scrivere
+tu stesso parte della Storia.
+~
+222 16 0
+D0
+~
+~
+0 -1 22210 0
+D1
+~
+~
+0 -1 22203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22210
+Chirone~
+  La costellazione del saggio centauro e' ispiratrice e guida
+di tutti gli eroi. Non deve sorprenderti che anche gli eroi
+abbiano bisogno di guide.
+  Se hai tempo per fermarti, puoi riuscire a sentire le lezioni
+che il saggio Chirone sta impartendo ad un nuovo eroe. Le sue
+parole si imprimono nel profondo del tuo cuore e ti danno
+fiducia. Sei ormai talmente fiducioso circa te stesso da avere
+il sospetto che il prossimo eroe a cui Chirone insegnava sia tu.
+~
+222 16 0
+D0
+~
+~
+0 -1 22211 0
+D2
+~
+~
+0 -1 22209 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22211
+Ara del Giuramento~
+ Sei finalmente giunto nel luogo piu' sacro dell'intero
+edificio. L'atmosfera che respiri e' solenne non solo per
+la magnifica semplicita' dell'altare che hai di fronte, ma
+anche e soprattutto per l'evento che essa celebra.
+ Guardando l'ara rivivi, da attonito spettatore, quel momento
+fondamentale per la storia della Daresia quando gli Dei
+poggiarono le loro mani su questo altare, giurando prima
+della battaglia, di vegliare per la salvezza di questa terra e
+di combattere con ogni mezzo le Forze caotiche che ne volevano
+la distruzione.
+ Ti sembra di avvertire il battito accelerato dei loro cuori,
+l'esaltazione del loro spirito e la certezza di prevalere
+perche' sono ben consapevoli che la fine della Daresia sarebbe
+anche la loro.
+~
+222 16 0
+D2
+~
+~
+0 -1 22210 0
+E
+vetrata~
+  &z&P____&d
+ &z&P/&N(&G++&z&N)&P\
+&PI&G\&z&P () &G/&z&PI
+&PI &G\&z&P/\&G/&z&P I
+&PI_/&G\/&z&P\_I
+&PI \&G/\&z&P/ I
+&PI &G/&z&P\/&G\&z&P I
+&PI&G/&z&P -- &G\&z&PI
+&PI&T__/\__&PI
+&PI&T  \/  &PI
+&PI&T/\&N&G/\&z&T/\&PI
+&PI&T\/&N&G\/&z&T\/&PI
+&PI&T  /\  &PI
+&PI&T()\/()&PI
+&PI______I
+&d
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22212
+Polluce~
+ Quest'ala dell'edificio ti conduce al cospetto della stella
+dedicata a Polluce, il divino gemello che sacrifico' parte
+della sua immortalita' per condividere con Castore, il
+fratello mortale, anche l'ultima esperienza: la morte.
+ Qui, la tua mente e' colpita da una serie infinita di
+immagini, parole, sentimenti che ti aiutano a rivivere le
+eroiche imprese di uomini che hanno scelto di sacrificarsi per
+la salvezza di un familiare. I tuoi occhi si riempiono di
+lacrime di commozione mentre assisti, in silenzio, alla morte
+di tanti eroi, ma al contempo lo spettacolo ti infonde
+coraggio e determinazione e, sei certo che il ricordo di
+questa visione ti fornira', al momento opportuno, il coraggio
+necessario per non mostrarti meno degno di questi eroi
+del passato.
+~
+222 16 0
+D1
+~
+~
+0 -1 22207 0
+D2
+~
+~
+0 -1 22213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22213
+Urano~
+ Sei giunto infine alla cappella dedicata al pianeta Urano,
+simbolo ancestrale della figura paterna, prodiga di consigli e
+bonariamente incline a perdonare gli errori dei suoi figli.
+ L'atmosfera di questa sala e' estremamente rilassante, un
+senso di pace ed armonia pervade il tuo essere non appena ne
+varchi la soglia. Senti la tua mente aprirsi per lasciare
+entrare i ricordi di una vita incredibilmente lunga e felice.
+Quando lasci questa stanza ti senti decisamente piu' saggio.
+~
+222 16 0
+D0
+~
+~
+0 -1 22212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22214
+Corona borealis~
+ Solo il tuo spirito riesce a penetrare in questa sala dove
+la corona di Arianna, simbolo di bellezza e intelligenza,
+fluttua nell'aria.
+  Nonostante la sensazione di incorporeita', avverti
+chiaramente di non riuscire a compiere il passo definitivo: il
+tuo corpo, seppure come sensazione lontana, e' ancora presente
+ed incatena miseramente il tuo spirito al piano materiale.
+~
+222 16 0
+D0
+~
+~
+0 -1 22215 0
+D3
+~
+~
+0 -1 22203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22215
+Hercules~
+ Sei sicuro di non aver bevuto, eppure davanti ai tuoi occhi
+ci sono moltissime stelle doppie. Ti stropicci gli occhi, ma
+la visione non muta. Che anche questa stranezza visiva voglia
+insegnarti qualcosa? Ti fermi ad osservare con maggiore
+attenzione queste strane stelle e ne scopri sconcertato il
+significato simbolico. Le stelle doppie non sono uguali, ma
+una e' piu' grande dell'altra, una e' luminosa l'altra spenta,
+una buona l'altra cattiva.
+ Si narra che Hercules, uomo e dio al contempo, fu trasformato
+in un astro siffatto per rappresentare, in eterno, la duplice
+essenza delle cose.
+~
+222 16 0
+D0
+~
+~
+0 -1 22216 0
+D2
+~
+~
+0 -1 22214 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22216
+Phoenix~
+ La storia di questo favoloso uccello e' nota a tutti coloro
+che abitano la Daresia, siano essi dediti ad azioni eroiche o
+quotidiane. 
+ Non c'e' per la tua mente esempio piu' calzante per
+simboleggiare il cambiamento radicale di quello rappresentato
+da queste stelle che, risorgendo ogni volta a nuova vita,
+mutano continuamente, trasformando le loro imperfezioni in
+qualcosa di nuovo e perfetto che affascina e rapisce i tuoi
+sensi.
+~
+222 16 0
+D2
+~
+~
+0 -1 22215 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22217
+Marte~
+ Questo ambiente sembra enorme, cosi' grande che il tuo
+spirito di conquista si sente appagato, ma al contempo resta
+attonito di fronte a tanta grandezza.
+ Alla vista delle divine armi che fabbri eccelsi hanno saputo
+forgiare e che sono ordinatamente disposte lungo le pareti
+questa sala, le tue mani sono colte da un leggero tremore,
+senti che la paura si allontana mentre forza e decisione
+prendono il suo posto.
+ Resti incantato davanti ad una spada cosi' sottile da
+sembrare impossibile che possa penetrare una corazza senza
+spezzarsi, ma sei pronto a scommettere che in realta' niente e
+nessuno puo' riuscire a scalfirla. Tutto intorno a te e'
+meraviglioso vorresti impadronirti di questi oggetti, ma senti
+che non sarebbe giusto trafugare tale bellezza.
+~
+222 16 0
+D0
+~
+~
+0 -1 22218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22218
+Corpo di guardia~
+ Ampio, spazioso, sobrio e semplice, ma altamente funzionale.
+Puoi solo immaginare quante guardie possano dimorare qui. Il
+loro numero, come anche la loro possanza ed abilita', sono
+ormai una leggenda.
+ Si crede che lo stesso Cyrgon ne aumenti in ogni istante il
+numero per rendere piu' tangibile la sua presenza in questo
+mondo.
+~
+222 0 0
+D2
+~
+~
+0 -1 22217 0
+D3
+~
+~
+0 -1 22207 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22219
+Ala ricevimenti~
+ Migliaia di comete qui ti sfrecciano accanto in una danza di
+luce tanto aggraziata quanto dal sapore antico: i meteoriti
+rincorrono le comete cercando di prenderle al volo. Anche
+tu sei coinvolto in questa danza luminosa, rapito da una
+melodia di infinita bellezza e complessit'. Ti senti felice
+ed il tuo spirito cade in estasi.
+~
+222 16 0
+D0
+~
+~
+0 -1 22223 0
+D1
+~
+~
+0 -1 22225 0
+D3
+~
+~
+0 -1 22220 0
+D5
+~
+~
+0 -1 22203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22220
+Vela~
+ Ti senti leggero, cullato dal vento e coinvolto in una danza
+lenta e romantica, quale solo la brezza del mare riesce a
+suggerire.
+  L'aria e' cosi' densa che avverti l'odore salmastro del mare
+e quello dolce della brina mattutina. Non riesci a resistere
+alla dolcezza che ti circonda e sei preso dall'irresistibile
+desiderio di donarti agli altri.
+~
+222 16 0
+D0
+~
+~
+0 -1 22221 0
+D1
+~
+~
+0 -1 22219 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22221
+Carina~
+ Ti trovi proprio al centro delle sale riservate alle danze.
+L'arredamento e' semplice, ma elegante. Al posto delle
+sedie ci sono delle soffici nuvole, su cui puoi sedere per
+riposare il corpo e, nello stesso tempo, la mente godendoti il
+rilassante rumore del mare che il vento porta fino alle tue
+orecchie.
+ Graziose ninfe servono agli invitati calici ripieni di
+nettari multicolori dal sapore inenarrabile. Ti senti cosi' a
+tuo agio e rilassato che non riesci ad allontanarti da questa
+sala.
+~
+222 16 0
+D0
+~
+~
+0 -1 22222 0
+D1
+~
+~
+0 -1 22223 0
+D2
+~
+~
+0 -1 22220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22222
+Puppis~
+ Sei entrato nell'ultima sala destinata alle danze della
+Cattedrale. Senti la fresca acqua del mare bagnare i tuoi
+piedi, il vento scompigliare i tuoi capelli, il calore del
+sole accarezzarti il volto. Il ritmo della musica qui e'
+frenetico e tu ne sei completamente avvolto, ti ritrovi a
+ballare con talmente tanta foga ed energia da restare senza
+fiato. Ti sei quasi convinto che non riuscirai a danzare a
+lungo, quando ti ricordi che il tuo corpo e' rimasto fuori
+dalla cattedrale e che la tua stanchezza e' solo un'illusione.
+Qui puoi continuare a ballare per l'eternita' se lo desideri.
+~
+222 16 0
+D1
+~
+~
+0 -1 22224 0
+D2
+~
+~
+0 -1 22221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22223
+Auriga~
+ In questa sala puoi discutere su tutto: dai tuoi problemi
+personali alle eroiche gesta di uomini il cui nome e' ormai
+perso nei meandri del tempo. Le stelle e le galassie di Auriga
+sono, infatti, pronte ad ascoltarti e a conversare con te. La
+loro compagnia e' talmente piacevole che hai la sensazione che
+tu ed i tuoi ascoltatori siate gli unici abitanti dell'universo.
+dell'universo.
+~
+222 16 0
+D0
+~
+~
+0 -1 22224 0
+D2
+~
+~
+0 -1 22219 0
+D3
+~
+~
+0 -1 22221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22224
+Cepheus~
+Sopra di te la costellazione di Cepheus ti illumina
+solennemente e ti rendi subito conto che ilarita' e giochi
+qui sarebbero fuor di luogo. Qui c'e' spazio solo per la
+solennita'. Ogni volta che entri in questa stanza sei,
+infatti, sopraffatto dai ricordi dei momenti piu'
+significativi della tua vita e questo contribuisce a
+rendere l'atmosfera di questo ambiente grave e solenne.
+ Le cerimonie piu' importanti del Regno di Elenia avvengono
+qui, acquistando una grandiosita' tale da imprimerle
+indelebilmente nella memoria di tutti coloro che vi
+prendono parte.
+~
+222 16 0
+D2
+~
+~
+0 -1 22223 0
+D3
+~
+~
+0 -1 22222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22225
+Halley~
+ La fuggiasca cometa ti offre la possibilita' di sottrarti
+al clamore delle feste e delle cerimonie. Davanti ai tuoi
+occhi sfrecciano le migliaia di luoghi solitari che Halley
+incontra lungo il suo cammino. E' facile trovare un luogo
+adatto a te dove sostare in tranquillita' e pace.
+~
+222 16 0
+D3
+~
+~
+0 -1 22219 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22226
+Leo minor~
+ Hai finalmente raggiunto la dimora della conoscenza. Miliardi
+di tomi aprono le loro pagine di fronte a te e ti trasmettono
+le conoscenze e l'esperienze di studiosi ormai scomparsi. Ogni
+istante che trascorri in questa sala accresce la tua sapienza
+e ti fornisce nuove conoscenze. Qui trovi la risposta ad ogni
+tua domanda e questa nuova consapevolezza ti trasmette un
+piacere inesprimibile.
+~
+222 16 0
+D1
+~
+~
+0 -1 22227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22227
+Triangulum~
+ Sei giunto ad un incrocio. Le stelle ti indicano le strade
+che puoi imboccare: scegli la via che ti sembra piu' adatta al
+tuo spirito e percorrila senza timore fino in fondo!
+~
+222 16 0
+D0
+~
+~
+0 -1 22229 0
+D1
+~
+~
+0 -1 22228 0
+D2
+~
+~
+0 -1 22236 0
+D3
+~
+~
+0 -1 22226 0
+D4
+~
+~
+0 -1 22233 0
+D5
+~
+~
+0 -1 22207 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22228
+Perseus~
+ Non appena metti piede in questa sala, hai la sensazione che
+la tua mente sia catturata da un vortice. Vieni trasportato in
+mille luoghi differenti, di infinita bellezza. Questo viaggio
+velocissimo ti apre gli occhi e ti fa intuire che la Madre
+Chiesa Elena non si interessa solo alle cose della Daresia, ma
+tutto la riguarda in questo universo ed in migliaia di altri
+simili.
+~
+222 16 0
+D2
+~
+~
+0 -1 22230 0
+D3
+~
+~
+0 -1 22227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22229
+Cygnus~
+ Cinque stelle formano una croce di luce proprio al centro
+dell'abside, la cui grande luminosita' ti acceca per un
+istante e ti induce a distogliere lo sguardo. Ma non e'
+questo che Cyrgon vuole! Alza gli occhi e volgili verso la
+luce! Solo cosi' potrai accorgerti che non e' una croce ad
+abbagliarti, ma un Cigno di straordinario candore che vola
+in picchiata dirigendosi verso il centro della Cattedrale,
+attorno al quale si dispongono tutte le costellazioni: 
+                  &7&bl'Altare di Cyrgon!&0
+~
+222 16 0
+D2
+~
+~
+0 -1 22227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22230
+Lyra~
+ Varcando questa soglia percepisci l'incantevole suono di una
+lira con cui qualcuno sta producendo una musica celestiale.
+Resti stupito riflettendo sul fatto che uno strumento cosi'
+semplice possa produrre suoni capaci di incantare il tuo
+spirito narrandogli la storia del mondo, passata e futura.
+Eppure e' cosi'. 
+ Dopo aver trascorso qualche minuto assaporando questa musica
+stupenda, ti accorgi di non essere solo, ma che altre persone
+stanno attendendo di prendere il tuo posto per poter anch'esse
+ascoltare la voce del mondo.
+~
+222 35184372089104 0
+D0
+~
+~
+0 -1 22228 0
+D2
+~
+Porta d'argento~
+2 535 22231 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22231
+Andromeda~
+ Sei travolto e rapito, il tuo cuore non batte piu' nel petto,
+le tue mani cominciano a sudare ed inizi a tremare colto da
+un'emozione travolgente. Tutti i tuoi sensi sono paralizzati,
+il tuo coraggio e il tuo ardire sono spariti. Andromeda, la
+segretaria di Dolmant, e' qui davanti a te, stupenda come 
+nessun'altra puo' esserlo nel Creato. La sua forma e' eterea,
+ma al contempo abbastanza consistente da scatenare la tua
+fantasia.
+ Andromeda dono' la vita per la liberta' del popolo eleno, ed
+ora Dolmant l'ha voluta accanto a se' perche' sa che lei e'
+sempre disponibile ad ascoltare le richieste degli eleni.
+Eppure tu, di fronte a lei, non riesci a proferire parola.
+~
+222 35184372088976 0
+D0
+~
+Porta d'argento~
+2 535 22230 15
+D2
+~
+~
+0 -1 22232 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1485
+#22232
+Dominio di Dolmant~
+ Ti ritrovi nel bel mezzo del piu' profondo universo. Sopra di
+te, vedi nascere senza sosta le stelle, le galassie ed i mondi.
+Alla tua destra &4stelle imperfette&0 lottano per migliorarsi,
+alla tua sinistra sono invece giganti &3gialle&0 e &1rosse&0,
+&7nane bianche&0 e pianeti morenti. Sotto ai tuoi piedi
+supernove e galassie si scontrano producendo esplosioni
+dalle dimensioni titaniche. Sei proprio nel mezzo di questo
+incredibile e affascinante spettacolo, ne sei spaventato,
+vorresti fuggire ma... volgi lo sguardo innanzi e vedi, dietro
+ad una scrivania di pura energia, Re Dolmant pronto ad
+ascoltare le tue parole.
+~
+222 68719476868 0
+D0
+~
+~
+0 -1 22231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 22203
+T 22205
+#22233
+Campi elisi~
+ La tua casa, il tuo paese, il tuo mondo, la tua galassia, il
+tuo universo, tutto e' ormai lontano, sotto di te. Sei conscio
+di fare ancora parte di quella realta' lontana, ma sei
+ugualmente consapevole che quassu' sei pura essenza.
+ Un barlume di consapevolezza si fa strada in te, ed inizi a
+comprendere il significato delle cose e senti che esse, piano
+piano, sono divenute parte di te. Sei spettatore di una
+incredibile mutazione che sta avvenendo in te e ti accorgi con
+meraviglia che ogni tuo desiderio si realizza, ogni tuo
+pensiero si trasforma in azione, ogni tua domanda trova
+un'immediata risposta. Quassu' tutto risulta semplice e al
+tempo stesso, meravigliosamente complesso.
+~
+222 16 0
+D5
+~
+~
+0 -1 22227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22234
+Tesoro dell' Aurora Boreale~
+ La pioggia di luce multicolore visibile solo nelle terre piu'
+a Nord del continente, deposita qui i suoi tesori, lasciandoli
+alla merce' dell'avventuriero che si mostrera' cosi' intrepido
+e fortunato da spingersi fin qui.
+~
+222 17 0
+D4
+~
+botola segreta~
+1 0 22206 19
+D5
+Dopo aver osservato con attenzione il pavimento di questa stanza
+scorgi una pietra mobile proprio in un angolo.
+~
+pietra mobile~
+0 0 22235 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22235
+Tesoro di Hople~
+ Ogni volta che la cometa di Hople passa nelle vicinanze della
+terra, depone qui i tesori raccolti nel suo lungo pellegrinare,
+lasciandoli a colui che con pazienza ha cercato questo luogo
+incantato.
+~
+222 17 0
+D4
+~
+pietra mobile~
+1 0 22234 19
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22236
+Lynx~
+ Un numero incalcolabile di piccole comete sfreccia attorno a
+te. Sembrano danzare nell'aria senza una meta precisa, ma
+osservandole con maggiore attenzione ti accorgi che stanno
+eseguendo un compito ben preciso. Trasportano, infatti,
+per tutta la Daresia con impressionante efficienza ordini,
+editti e lettere dei sovrani di Elenia.
+~
+222 16 0
+D0
+~
+~
+0 -1 22227 0
+D3
+~
+~
+0 -1 22237 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22237
+Grus~
+ La coda della costellazione dei pesci crea in questa stanza
+uno splendido tavolo di luce, dove i grandi del mondo sono
+soliti riunirsi per discuterne le sorti.
+ Il tavolo e' immenso, sembra non finire mai, eppure una serie
+di linee luminose fa si' che tutti coloro che vi siedono
+attorno possano comunicare con facilita'.
+ Le sedie, intorno al tavolo, sono contrassegnate dai nomi
+delle stelle piu' luminose del firmamento e si narra che
+ciascuna infonda saggezza in colui che vi prende posto.
+~
+222 16 0
+D1
+~
+~
+0 -1 22236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

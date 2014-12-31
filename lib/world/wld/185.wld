@@ -1,0 +1,1315 @@
+#18500
+Un sentiero fangoso e poco battuto~
+Il fango ti arriva sino alle ginocchia, fai fatica a muoverti e
+in lontananza verso nord vedi alcuni luci blu e un grande cancello.
+Non hai davvero idea di cosa ci sia, sempre che tu riesca ad
+arrivarci !
+~
+185 12 2
+D0
+~
+~
+0 -1 18501 0
+D2
+~
+~
+0 0 1583478 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18501
+L' entrata al &1Cimitero di Rasheen&0~
+Presto il sentiero fangoso lascia posto ad una strada in pietra.
+Arrivi ad un piccolo piazzale, e finalmente riesci a leggere
+l' &1insegna&0 rovinata sopra la cancellata nord.
+Il Cimitero di Rasheen !!! Mai sentito eh ?
+A est vedi una porta con un &4cartellino&0 mentre senti una puzza
+nauseabonda provenire da ovest.
+Che strano posto... sembra abbandonato da molto tempo, questo 
+cimitero ti fa davvero paura !
+~
+185 8 2
+D0
+~
+cancellata~
+1 -1 18508 3
+D1
+~
+porta~
+1 -1 18502 3
+D2
+~
+~
+0 -1 18500 0
+D3
+~
+~
+0 -1 18504 0
+E
+cartellino~
+Casa del Guardiano
+Se siete dei vivi non disturbatemi
+se siete gia' morti avete una ragione in piu' per non farlo !
+
+Kjodan il guardiano~
+E
+insegna~
+Cimitero Di Rasheen
+@@@*%$&$$%&&
+seguono scritte illeggibili molto danneggiate, pare che nessuno
+venga piu' qua da mooolto tempo !~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18502
+La casa del guardiano~
+La porta crolla non appena provi a bussare...
+entri in una stanza buia, completamente spoglia se non per dei
+pezzi di legno scheggiati riposti in un angolo.
+Da alcune mattonelle rotte escono dei serpenti !
+Attento !
+Vedi che in fondo c'e' una scala (sara' sicura?) che porta al
+piano superiore.
+~
+185 1 0
+D3
+~
+porta~
+1 -1 18501 3
+D4
+~
+~
+0 -1 18503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18503
+La camera di Kjodan~
+-Ahahahahah- un piccolo uomo deforme scoppia in una pazza risata.
+-Ecco Ecco ! Non si puo' mai stare in pace ! Volete parlare coi
+morti ? Ci penso io ! CI PENSO IO !!! -
+Kjodan il guardiano ti attacca !
+~
+185 1 0
+D5
+~
+~
+0 -1 18502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18504
+Verso la palude~
+Ti inoltri nella boscaglia, e' cosi' fitta che impedisce alla luce
+del sole di passare.
+Per tua sfortuna il terreno inizia a rifarsi fangoso e presto
+capisci il motivo. Vedi verso nord una palude, molto densa e 
+probabilmente profonda, ti servira' una barca per proseguire.
+~
+185 1 2
+D0
+~
+~
+0 -1 18505 0
+D1
+~
+~
+0 -1 18501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18505
+La palude di Rasheen~
+Che puzza !
+La palude non sembra aver nulla di particolare, se non questa
+terribile puzza che ti impregna perfino i vestiti.
+
+~
+185 1 7
+D0
+~
+~
+0 -1 18506 0
+D2
+~
+~
+0 -1 18504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18506
+La fine della palude~
+Qui la melma e' sempre piu' densa... e vedi galleggiare dei cadaveri !
+Alcuni di loro indossano ancora resti di armature e spade, che siano
+stati avventurieri ?
+Vedi che quel che resta delle loro carni e' come masticato...
+ma chi puo' averli ridotti cosi' ?
+Forse il ruggito che proviene da sotto di te e' la risposta...
+~
+185 1 7
+D2
+~
+~
+0 -1 18505 0
+D5
+~
+~
+0 -1 18507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18507
+Il fondo della palude~
+Respiri a pieni polmoni e ti tuffi nella melma !!!
+Sei in un ambiente ostile, dove e' piu' difficile muoverti, non
+puoi parlare e di certo non puoi fare magie !
+Ma almeno la tua curiosita' e' appagata !
+Capisci infatti che il Serpente della Palude si e' accorto di te
+e ti si sta avventando contro... buona fortuna !
+(un serpente che ruggisce.... brrrrr !!! )
+~
+185 161 2
+D4
+~
+~
+0 -1 18506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18508
+Il sentiero meridionale del cimitero~
+Un sentiero di pietre rotte e appuntite delimita una strada che
+sembra tagliare l'estremita' sud della struttura.
+Ai lati della stradina ci sono molte tombe, tutte in rovina, in
+nessuna di esse ci sono candele o fiori.. e ALCUNE SONO APERTE!!!
+Strani versi provengono da ogni direzione, e' pieno di nonmorti !
+Ora ti spieghi perche' questi dannati fuochi blu sembrano vivi !
+La strada a sud ti permette di scappare da questo inferno.
+~
+185 0 2
+D0
+~
+~
+0 -1 18513 0
+D1
+~
+~
+0 -1 18509 0
+D2
+~
+cancellata~
+1 -1 18501 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18509
+Il sentiero meridionale del cimitero~
+Un sentiero di pietre rotte e appuntite delimita una strada che
+sembra tagliare l'estremita' sud della struttura.
+Ai lati della stradina ci sono molte tombe, tutte in rovina, in
+nessuna di esse ci sono candele o fiori.. e ALCUNE SONO APERTE!!!
+Strani versi provengono da ogni direzione, e' pieno di nonmorti !
+Ora ti spieghi perche' questi dannati fuochi blu sembrano vivi !
+~
+185 0 2
+D0
+~
+~
+0 -1 18512 0
+D1
+~
+~
+0 -1 18510 0
+D3
+~
+~
+0 -1 18508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18510
+Il sentiero meridionale del cimitero~
+Un sentiero di pietre rotte e appuntite delimita una strada che
+sembra tagliare l'estremita' sud della struttura.
+Ai lati della stradina ci sono molte tombe, tutte in rovina, in
+nessuna di esse ci sono candele o fiori.. e ALCUNE SONO APERTE!!!
+Strani versi provengono da ogni direzione, e' pieno di nonmorti !
+Ora ti spieghi perche' questi dannati fuochi blu sembrano vivi !
+A sud vedi un piccolo piazzale e una piccola bottega abbandonata
+piena di fiori che pero' sembrano appena colti.
+~
+185 0 2
+D0
+~
+~
+0 -1 18511 0
+D2
+~
+~
+0 -1 18526 0
+D3
+~
+~
+0 -1 18509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18511
+Le tombe dei bambini~
+Il sentiero ti porta in un luogo davvero macabro.
+Noti che nelle poche tombe dove sono riportate le date di nascita
+e morte la differenza tra i due anni e' sempre molto bassa.
+troppo bassa !
+Si tratta di bambini purtroppo, e non riesci a trattenere tutte
+le lacrime.
+Ad est c'e' una stradina, e un &6&bcartello&0.
+~
+185 0 2
+D0
+~
+~
+0 -1 18516 0
+D1
+~
+~
+0 -1 18517 0
+D2
+~
+~
+0 -1 18510 0
+E
+cartello~
+il cartello e' molto vecchio, ma riesci a cogliere una parola:
+Ossario.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18512
+Le tombe degli uomini~
+Arrivi nella parte centrale del cimitero.
+Qui ci sono tutte le tombe degli uomini, anche se a dire il vero
+la maggior parte di esse e' aperta e piu' che dei freddi cadaveri
+vedi degli zombie affamati.
+Ti colpisce una tomba posta al centro della strada, la cui lastra
+e' totalmente in marmo ed e' stranamente pulita.
+~
+185 0 2
+D0
+~
+~
+0 -1 18515 0
+D2
+~
+~
+0 -1 18509 0
+D5
+~
+lastra~
+1 -1 18520 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18513
+Le tombe delle donne~
+Qui si trovano solo tombe di donne.
+Anche queste sono per lo piu' rotte o in rovina.
+Sulla parete ovest vedi una stretta porta sbarrata, accanto ad
+essa c'e' un tritaerbe.
+~
+185 0 2
+D0
+~
+~
+0 -1 18514 0
+D2
+~
+~
+0 -1 18508 0
+D3
+~
+porta~
+1 -1 18521 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18514
+Il sentiero settentrionale del cimitero~
+Sei in un sentiero identico e parallelo a quello meridionale.
+Ci sono tantissime foglie morte a terra e anche molte ossa.
+La morte e' sempre brutta, sia quella dei vegetali che quella
+degli animali.
+A nord vedi un sentiero che sale lungo una collinetta
+~
+185 0 2
+D0
+~
+~
+0 -1 18522 0
+D1
+~
+~
+0 -1 18515 0
+D2
+~
+~
+0 -1 18513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18515
+Il sentiero settentrionale del cimitero~
+Sei in un sentiero identico e parallelo a quello meridionale.
+Ci sono tantissime foglie morte a terra e anche molte ossa.
+La morte e' sempre brutta, sia quella dei vegetali che quella
+degli animali.
+A nord vedi una grossa grata e una sagoma umana perfettamente
+immobile. Senti provenire un' aurea molto malvagia e potente.
+~
+185 0 2
+D0
+~
+~
+0 -1 18531 0
+D1
+~
+~
+0 -1 18516 0
+D2
+~
+~
+0 -1 18512 0
+D3
+~
+~
+0 -1 18514 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18516
+Il sentiero settentrionale del cimitero~
+Sei in un sentiero identico e parallelo a quello meridionale.
+Ci sono tantissime foglie morte a terra e anche molte ossa.
+La morte e' sempre brutta, sia quella dei vegetali che quella
+degli animali.
+Ad est vedi un cancello, con una &3&binsegna&0.
+~
+185 0 2
+D1
+~
+cancello~
+1 18500 18527 7
+D2
+~
+~
+0 -1 18511 0
+D3
+~
+~
+0 -1 18515 0
+E
+insegna~
+Parte del cimitero riservata alla famiglia Bendor.
+L' ingresso e' permesso solo ai parenti o agli amici.
+Il guardiano controllera' personalmente e punira' gli intrusi.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18517
+Verso l'ossario~
+Ti avvicini alla struttura diroccata.
+La porta e' fradicia, dentro deve essere molto umido.
+A terra vedi molto sangue... sei sicuro di voler entrare ?
+~
+185 0 2
+D1
+~
+porta~
+1 -1 18518 3
+D3
+~
+~
+0 -1 18511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18518
+Nell' ossario~
+Ti guardi attorno aspettandoti di vedere tantissime ossa sparse
+ovunque...
+beh le ossa ci sono, peccato che siano scheletri affamati di sangue!
+Vedi che dietro di loro c'e' una scaletta, ma le tue osservazioni
+sono interrotte da un attacco che riesci a schivare per un pelo.
+Attento !
+~
+185 1 0
+D3
+~
+porta~
+1 -1 18517 3
+D5
+~
+~
+0 -1 18519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18519
+La nicchia~
+Scendi in una piccola nicchia, vedi una sagoma umana che sta
+pulendo alcune ossa e le sta ordinando.
+Appena ti avvicini la sagoma si volta... e rimani terrorizzato !
+Ora hai finalmente visto un Mujina... i non morti senza volto !
+Forse tiene qua i suoi trofei !
+~
+185 1 0
+D4
+~
+~
+0 -1 18518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18520
+Dentro la bara~
+Sollevi timidamente la lastra ed entri nella fossa che conteneva
+la bara. All' inizio ti senti osservato, anche se non vedi nessuno.
+Poi inizi a sentire dei lamenti, una voce fredda e lontana...
+quando ormai riesci a vedere l' ectoplasma alle tue spalle e'
+troppo tardi !
+~
+185 1 0
+D4
+~
+lastra~
+1 -1 18512 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18521
+Il ripostiglio~
+E' una piccola stanza quadrata piena di cianfrusaglie per lo piu'
+rotte o seriamente danneggiate dal tempo.
+Improvvisamente la porta dietro di te si chiude...
+e gli oggetti iniziano ad animarsi come posseduti da una forza
+sovrannaturale !
+~
+185 1 0
+D1
+~
+porta~
+1 -1 18513 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18522
+Verso la collinetta di Rasheen~
+La stradina in salita si fa stretta e tortuosa, vedi pero' che
+le pietre con cui e' lastricata sono molto pregiate e nonostante
+il passare del tempo si sono conservate bene.
+Probabilmente ti stai dirigendo verso un luogo importante.
+~
+185 0 2
+D2
+~
+~
+0 -1 18514 0
+D3
+~
+~
+0 -1 18523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18523
+Il grande albero~
+Arrivi in un piccolo bosco, noti subito che l' albero centrale e'
+piu' grosso degli altri. Sembra molto vigoroso, mentre gli altri
+sono tutti rinsecchiti.
+All' improvviso l'albero emette una luce violastra, e un sacco di
+strane foglie iniziano a cadere...
+Ti pare di aver sentito che esistano spiriti nonmorti che amino
+prendere il possesso di vegetali... che questo sia un Odic ?
+~
+185 0 2
+D1
+~
+~
+0 -1 18522 0
+D4
+~
+~
+0 -1 18524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18524
+Sulla cima della collina~
+La stradina termina davanti ad un cancello.
+C'e' un &2&bInsegna&0.
+Da qua puoi vedere tutto il cimitero... e' davvero uno spettacolo
+agghiacciante, non avevi mai visto cosi' tanti nonmorti in cosi'
+poco spazio. Ti chiedi quale possa essere la maledizione che abbia
+reso questo luogo cosi'.
+~
+185 0 2
+D0
+~
+cancello~
+2 18504 18525 15
+D5
+~
+~
+0 -1 18523 0
+E
+insegna~
+Ingresso alla tomba del Barone Hans.
+Portate il vostro rispetto a quello che in vita fu un valoroso
+combattente, vincitore di oltre 1000 battaglie.
+
+in fondo c'e' un aggiunta, scritta con della vernice nera:
+ahahahahah Hans ! finalmente stai dove meriti !
+Non oserai mai piu' sfidarmi !
+Rasheen~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18525
+La tomba del Barone Hans~
+Vedi ovunque macerie... animali morti, piante sradicate, stracci
+insanguinati.
+Al centro vedi uno zombie, piu' grosso di quelli che avevi visto
+fino ad ora, completamente pazzo che urla e piange e non riesce
+a trattenersi dal distruggere qualunque cosa.
+- Rasheen !!! Pagherai quello che mi hai fatto !!! Tutti pagheranno
+per questo !!! -
+Capisci che quello che una volta era il nobile Hans, ora e' un
+povero pazzo condannato alla nonmorte. Forse uccidendolo potresti
+fargli un piacere, liberandolo da questa lunga agonia.
+~
+185 0 2
+D2
+~
+cancello~
+2 18504 18524 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18526
+La bancarella dei fiori~
+Che cosa strana !
+Vedi in mezzo a questo orrore una bancarella pieni di fiori.
+Non c'e' anima viva, ma pare che i nonmorti non osino avvicinarsi
+ai fiori.
+Quest'ultimi sono molto strani, alcuni emanano una sottile aurea gialla.
+Ti chiedi la natura di questo luogo, probabilmente magica.
+~
+185 0 2
+D0
+~
+~
+0 -1 18510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18527
+L'ingresso alla cripta della famiglia Bendor~
+Entri un po' titubante nella cripta, vedi che all' interno e'
+illuminata da alcune strane lampade poste ai lati delle pareti.
+Come cripta ti sembra molto rumorosa, senti in lontananza come
+se qualcuno stesse masticando qualcosa.
+Puoi proseguire a est o a nord.
+~
+185 0 0
+D0
+~
+~
+0 -1 18528 0
+D1
+~
+~
+0 -1 18530 0
+D3
+~
+cancello~
+1 18500 18516 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18528
+La cripta della famiglia Bendor~
+Anche qua e' pieno di bare rotte, ma vedi subito che molte di esse
+erano lavorate accuratamente. Probabilmente la famiglia Bendor
+doveva essere piuttosto benestante.
+In alto i vetri colorati creano strani riflessi di luce, a volte
+fastidiosi.
+~
+185 0 0
+D1
+~
+~
+0 -1 18529 0
+D2
+~
+~
+0 -1 18527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18529
+La parte centrale della cripta~
+Qui sono riposte alcune busti raffiguranti i defunti della famiglia.
+Ci sono anche quadri, poesie e alcune targhette.
+A terra c'e' un sacco di spazio per posarvi fiori e candele, ma
+pare nessuno lo faccia da moltissimo tempo.
+~
+185 0 0
+D2
+~
+~
+0 -1 18530 0
+D3
+~
+~
+0 -1 18528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18530
+La cripta della famiglia Bendor~
+Anche qua e' pieno di bare rotte, ma vedi subito che molte di esse
+erano lavorate accuratamente. Probabilmente la famiglia Bendor
+doveva essere piuttosto benestante.
+In alto i vetri colorati creano strani riflessi di luce, a volte
+fastidiosi.
+~
+185 0 0
+D0
+~
+~
+0 -1 18529 0
+D3
+~
+~
+0 -1 18527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18531
+Verso la grotta~
+Vedi che la grata ostruisce il passaggio verso una caverna scavata
+nella collina che si innalza di fronte al cimitero.
+A guardia di questa grata vedi uno zombie, che subito ti pare piu'
+agile e intelligente degli altri.
+- Vattene ! Rasheen non vuole visitatori ! Fuggi ora o nessuno
+ti salvera' dalla maledizione del Revenant ! -
+Vedi che lo zombie tiene in mano una chiave, probabilmente e' quella
+della grata.
+~
+185 1 0
+D0
+~
+grata~
+2 18505 18532 15
+D2
+~
+~
+0 -1 18515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18532
+L'entrata della grotta di Rasheen~
+Oltrepassi la grata ed eccoti alla grotta.
+E' un luogo davvero tetro, oltre ad essere immerso nell' oscurita'
+senti l'umidita' del posto fin nelle ossa.
+Nel terreno ci sono impronte fresche, le segui fino a lunga discesa
+che si inoltra nelle profondita' di questi cunicoli.
+~
+185 1 0
+D2
+~
+grata~
+2 18505 18531 15
+D5
+~
+~
+0 -1 18533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18533
+Un grande incrocio~
+La caverna si dirama in tutte le direzioni.
+Verso nord e ovest vedi altre 2 grate metalliche, mentre i cunicoli
+che vanno ad est ti sembrano molto stretti ed intricati.
+In alcuni forse dovrai proseguire a carponi, e questo un po' ti
+preoccupa perche' non e' la posizione in cui sai lottare meglio.
+~
+185 1 0
+D0
+~
+~
+0 -1 18552 0
+D1
+~
+~
+0 -1 18541 0
+D3
+~
+~
+0 -1 18534 0
+D4
+~
+~
+0 -1 18532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18534
+La grata occidentale~
+Per terra vedi molte macchie di sangue e alcuni frammenti di catene
+spezzate.
+Senti in lontananza dei lamenti e delle urla di dolore.
+Rabbrividisci perche' ti sembrano umane.
+Oltre la grata vedi un' altra discesa che ti porta ancora piu'
+in profondita'.
+~
+185 1 0
+D1
+~
+~
+0 -1 18533 0
+D5
+~
+grata~
+1 -1 18535 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18535
+L'orrore~
+Appena scendi la discesa riesci a malapena a trattenere i conati
+di vomito che questo spettacolo ti procura.
+Vedi accatastati in un angolo decine di corpi di giovani uomini
+e donne in parte mutilati e ustionati.
+Hanno la pelle di uno strano colore, alcuni incredibilmente rantolano
+ancora supplicandoti di ucciderli.
+Non hai idea di cosa possa averli ridotti cosi', ma ti prometti
+che se lo scoprirai farai di tutto per vendicare questi poveracci.
+~
+185 1 0
+D3
+~
+~
+0 -1 18536 0
+D4
+~
+grata~
+1 -1 18534 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18536
+Le prigioni di Rasheen~
+Arrivi in un corridoio, vedi che ai lati ne sono state ricavate
+delle celle. Dentro ci sono giovani uomini e donne completamente
+nudi e incatenati. Vedi che non ricevono cibo da molto tempo e
+molti di loro sono impazziti. Urlano e bestemmiano, alcuni fanno
+riferimenti a torture ed esperimenti mostruosi che hanno subito.
+~
+185 1 0
+D0
+~
+sbarre~
+1 18501 18537 7
+D1
+~
+~
+0 -1 18535 0
+D3
+~
+~
+0 -1 18538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18537
+La cella~
+Davvero poche delle persone rinchiuse qua dentro sono ancora in
+grado di muoversi, parlare o pensare coerentemente.
+Vedi che oltre agli umani ci sono anche alcuni elfi e degli strani
+ibridi davvero ripugnanti.
+Pensi che chiunque abbia progettato questo luogo meriti davvero
+la piu' atroce delle morti.
+~
+185 1 0
+D2
+~
+sbarre~
+1 18501 18536 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18538
+Le prigioni di Rasheen~
+Arrivi in un corridoio, vedi che ai lati ne sono state ricavate
+delle celle. Dentro ci sono giovani uomini e donne completamente
+nudi e incatenati. Vedi che non ricevono cibo da molto tempo e
+molti di loro sono impazziti. Urlano e bestemmiano, alcuni fanno
+riferimenti a torture ed esperimenti mostruosi che hanno subito.
+~
+185 1 0
+D0
+~
+sbarre~
+1 18501 18539 7
+D1
+~
+~
+0 -1 18536 0
+D3
+~
+porta~
+1 -1 18540 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18539
+La cella~
+Davvero poche delle persone rinchiuse qua dentro sono ancora in
+grado di muoversi, parlare o pensare coerentemente.
+Vedi che oltre agli umani ci sono anche alcuni elfi e degli strani
+ibridi davvero ripugnanti.
+Pensi che chiunque abbia progettato questo luogo meriti davvero
+la piu' atroce delle morti.
+~
+185 1 0
+D2
+~
+sbarre~
+1 18501 18538 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18540
+La stanza del carceriere~
+Appena entri vieni accolto da un grugnito.
+Un gigantesco troll si volta e ti osserva mentre impugna la sua
+mazza.
+- Nessuno deve fuggire - balbetta con difficolta' avvicinandosi
+a te.
+~
+185 1 0
+D1
+~
+porta~
+1 -1 18538 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18541
+Lo stretto cunicolo~
+Questo cunicolo e' davvero strettissimo, per fortuna dopo alcuni
+metri vedi che c'e' una leggera salitache si allarga in una parte
+della grotta decisamente piu' spaziosa.
+~
+185 385 0
+D3
+~
+~
+0 -1 18533 0
+D4
+~
+~
+0 -1 18542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18542
+L'incrocio orientale~
+Finalmente qua c'e' abbastanza spazio per muoversi liberamente.
+La grotta prosegue sia verso est che verso nord, ovunque e' infestato
+da orribili pipistrelli giganti affamati.
+Ci sono delle &1&bimpronte&0 che si dirigono verso nord.
+La roccia della parete est invece ha dei graffi mostruosi.
+Non hai idea ci cosa possa avere degli artigli cosi' potenti.
+~
+185 1 0
+D0
+~
+~
+0 -1 18543 0
+D1
+~
+~
+0 -1 18544 0
+D5
+~
+~
+0 -1 18541 0
+E
+impronte~
+Sono di piedi umani molto grossi, e devono essere state lasciate
+da qualcuno di molto pesante, perche' sono profonde parecchi
+centimetri !~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18543
+La grande grotta~
+Sei in una grotta molto spaziosa, al centro vedi un piccolo fuoco
+ancora acceso e in lontananza verso est una cavita' che non ti
+sembra naturale, probabilmente e' stata scavata.
+Vedi infatti che ci sono alcuni orchetti minatori che senza curarsi
+di te continuano a scavare qualcosa. Sembrano come sotto charme.
+~
+185 1 0
+D0
+~
+~
+0 -1 18547 0
+D1
+~
+~
+0 -1 18550 0
+D2
+~
+~
+0 -1 18542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18544
+La parete graffiata~
+Le pareti della grotta sono entrambe graffiate, alcune molto 
+profondamente.
+C'e' una discesa molto ripida vicino a te, non sei sicuro di
+riuscire a percorrerla e cadere potrebbe essere molto pericoloso.
+A est invece il cunicolo si rifa' strettissimo, pensi che forse 
+sia meglio tornare indietro.
+~
+185 1 0
+D1
+~
+~
+0 -1 18545 0
+D3
+~
+~
+0 -1 18542 0
+D5
+~
+~
+0 -1 18548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18545
+Stretto tra la roccia~
+E' talmente stretto che ad ogni passo rischi di incastrarti e 
+rimanere immobile.
+Pensi che passare qua sia impossibile quando ti accorgi che
+finalmente la grotta si riallarga, in un'ennesima lunga discesa
+verso le tenebre...
+~
+185 449 0
+D3
+~
+~
+0 -1 18544 0
+D5
+~
+~
+0 -1 18546 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18546
+La tana~
+Scendi... e non vorresti averlo mai fatto !!!
+Solo ora capisci la causa di quei tremendi graffi... e' davanti
+a te !!!
+Un immenso scheletro dall' aspetto di un Drago si volta rabbiosamente
+verso di te, e 2 sfere di luce ne illuminano gli occhi.
+Sei di fronte ad un Dracolich, troppo spesso l'ultima cosa vista
+da avventurieri ora morti. Chiama i tuoi amici o scappa !
+~
+185 1 0
+D4
+~
+~
+0 -1 18545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18547
+La grande grotta~
+Sei in una grotta molto spaziosa, al centro vedi un piccolo fuoco
+ancora acceso e in lontananza verso est una cavita' che non ti
+sembra naturale, probabilmente e' stata scavata.
+Vedi infatti che ci sono alcuni orchetti minatori che senza curarsi
+di te continuano a scavare qualcosa. Sembrano come sotto charme.
+~
+185 1 0
+D1
+~
+~
+0 -1 18549 0
+D2
+~
+~
+0 -1 18543 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18548
+L' ultima discesa~
+Inizi a scendere prudentemente lungo la parete rocciosa.
+Un passo, due passi, tre passi, OPS !!!
+*crack !*
+Una pietra su cui avevi posato il piede cede sotto il tuo peso
+sbilanciandoti e facendoti cadere.
+Tenti piu' volte di fermare la tua caduta, ma invano.
+AAAAAAAAHHHHHHHHH!!!!!!!!
+SPLAT.
+~
+185 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#18549
+Verso la piccola cavita'~
+Quando arrivi vedi che una tenda viola ti impedisce di vedere
+dentro la piccola cavita'.
+Senti il rumore di qualcosa che bolle all'interno, e una luce
+posizionata oltre la tenda ti permette di cogliere l'ombra di una
+sagoma molto alta.
+~
+185 1 0
+D1
+~
+tenda~
+1 -1 18551 3
+D2
+~
+~
+0 -1 18550 0
+D3
+~
+~
+0 -1 18547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18550
+La grande grotta~
+Sei in una grotta molto spaziosa, al centro vedi un piccolo fuoco
+ancora acceso e in lontananza verso est una cavita' che non ti
+sembra naturale, probabilmente e' stata scavata.
+Vedi infatti che ci sono alcuni orchetti minatori che senza curarsi
+di te continuano a scavare qualcosa. Sembrano come sotto charme.
+~
+185 1 0
+D0
+~
+~
+0 -1 18549 0
+D3
+~
+~
+0 -1 18543 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18551
+L' antro della strega~
+Scosti la tenda ed entri velocemente.
+Vedi un pentolone con della melma verde in ebollizione sopra un
+fuoco.
+Non ti soprendi nel vedere qui anche una strega. Una vecchia che
+nonostante la sua gobba e' piu' alta di te e che impugna saldamente
+il suo bastone.
+Capisci che una strana magia rendera' inutile ogni tuo tentativo
+di fare magie.
+Questa si che e' stregoneria !
+~
+185 128 0
+D3
+~
+tenda~
+1 -1 18549 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18552
+La grata settentrionale~
+Una pesantissima grata in metallo ti impedisce di proseguire.
+Non riesci a scorgere nulla oltre di essa, e' troppo buio.
+Senti solo alcuni strani rumori, che rimbombano provocando un
+effetto molto fastidioso.
+~
+185 1 0
+D0
+~
+grata~
+2 18502 18553 15
+D2
+~
+~
+0 -1 18533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18553
+Un cunicolo molto umido~
+L'incessante rumore di piccole gocce di acqua che cadono a terra
+inizia a renderti nervoso.
+A nord la il cunicolo scende ancora piu' in basso, mentre invece
+ad est e' particolarmente silenzioso, sembra che niente vada in
+quella direzione.
+~
+185 1 0
+D1
+~
+~
+0 -1 18554 0
+D2
+~
+grata~
+2 18502 18552 15
+D5
+~
+~
+0 -1 18556 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18554
+Il macigno~
+Questa parte della grotta oltre ad essere molto tranquilla presenta
+una peculiarita'. Vedi in alto un macigno, incastrato tra alcune
+rocce nella parte superiore della parete.
+La cosa non ti piace per niente, non sembra molto stabile.
+~
+185 1 0
+D0
+~
+~
+0 -1 18555 0
+D3
+~
+~
+0 -1 18553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18555
+La fine del cunicolo umido~
+Uff, e' un vicolo cieco !
+Stai per voltarti quando ti accorgi che hai pestato una pietra
+che inizia a sprofondare. Capisci di aver attivato una trappola
+ma prima di capire quale vedi un immendo masso rotolare verso di
+te da sud. Il masso occlude l'intera grotta.
+SPLAT
+~
+185 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#18556
+Verso la fine della grotta~
+Finalmente riesci a vedere la fine della grotta.
+Verso nord infatti vedi che la parete rocciosa finisce lasciando
+spazio a due primordiali baracche costruite nell' ultimo antro.
+Ti chiedi chi possa aver scelto di vivere in un luogo come questo.
+~
+185 1 0
+D0
+~
+~
+0 -1 18557 0
+D4
+~
+~
+0 -1 18553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18557
+La fine della grotta~
+Arrivi esausto per la lunga esplorazione all' ultimo antro.
+A est c'e' una piccola baracca sporca, a nord una baracca
+leggermente piu' grande.
+Da quella nord senti provenire una strana litania, ti sembrano
+formule magiche che pero' non riconosci.
+~
+185 1 0
+D0
+~
+porta~
+2 18503 18559 15
+D1
+~
+porta~
+1 -1 18558 3
+D2
+~
+~
+0 -1 18556 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18558
+La baracca dell' Orco Zombie~
+Entri in una baracca disordinata. C'e' una puzza assurda,
+probabilmente generata dall' orco che vi vive. Noti che l'orco
+e'... come zombificato !
+Ti fissa con uno sguardo assente, sei indeciso su cosa fare, ti
+aspettavi un attacco improvviso ma cosi' non e'.
+~
+185 1 0
+D3
+~
+porta~
+1 -1 18557 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18559
+La baracca di Rasheen~
+Appena entri vedi sparsi antichi libri e pergamene, a terra ci
+sono dei cadaveri. La baracca e' piena di macabre decorazioni.
+Vedi verso ovest un uomo vestito da mago occupato nei suoi riti.
+Improvvisamente 2 mani ti attaccano !
+Sembrano essersi staccate dal cadavere a terra !
+~
+185 65 0
+D2
+~
+porta~
+2 18503 18557 15
+D3
+~
+~
+0 -1 18560 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18560
+La camera di Rasheen~
+Sei finalmente davanti all' artefice di tutto questo orrore!
+Pensi ai morti, alle tombe dissacrate, alle prigioni e a tutte
+le terribili cose che hai visto arrivando fino a qua.
+RASHEEN ! E' ARRIVATO IL MOMENTO DI VENDICARE HANS !
+Non sai piu' se i veri mostri fossero gli zombie o questo necromante.
+La rabbia ti fa bollire il sangue.
+~
+185 1 0
+D1
+~
+~
+0 -1 18559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

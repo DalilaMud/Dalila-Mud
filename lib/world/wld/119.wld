@@ -1,0 +1,591 @@
+#11900
+L'entrata al Castello ed il posto di guardia~
+   Sei alfin giunto davanti all'entrata del Castello.
+Un imponente maniero si erge davanti a te e vieni colto da improvviso
+timore.
+Il castello e' una costruzione di discrete dimensioni, ne hai visti
+di piu' grandi ma mai di cosi' maestosi. Quattro grigie torri si
+stagliano alte ai lati delle mura e davanti a te si apre l'entrata
+al castello custodita da due guardie maestose che ti accolgono
+cordialmente.
+~
+119 0 0
+D0
+~
+~
+0 -1 11901
+S
+#11901
+L'atrio~
+   Sei nell'atrio del Castello. La fastosita' del luogo ti incute
+timore: alle pareti splendidi arazzi del Rendor allietano lo sguardo,
+severi mobili sendariani di splendida fattura sono dappertutto e
+diverse statue di marmo e di bronzo sono sparse nella sala.
+~
+119 0 0
+D0
+Vedi la sala d'attesa.
+~
+~
+0 -1 11902
+D2
+Vedi l'entrata al Castello.
+~
+~
+0 -1 11900
+S
+#11902
+La Sala d'Attesa~
+   Sei entrato nella sala d'attesa. Qui il nobile incaricato
+di annunciare la presenza di visitatori al Re ritira le tue
+generalita' e si fa carico di presentarti alla Corte.
+Nel mentre che aspetti hai modo di notare diverse panche di
+chiara fattura sendariana allineate lungo le pareti, parecchi
+posti sono gia' occupati, hai timore che l'attesa sia lunga.
+~
+119 0 0
+D0
+Vedi la sala del trono.
+~
+~
+0 -1 11904
+D2
+Vedi l'atrio.
+~
+~
+0 -1 11901
+D4
+C'e' uno splendido scalone.
+~
+~
+0 -1 11913
+D5
+C'e' una scala poco illuminata.
+~
+~
+0 -1 11906
+S
+#11903
+La Sala d'Intrattenimento~
+   Sei entrato nell'immensa sala dove il Re ama trascorrere
+il suo tempo libero con gli amici e coi suoi fedeli.
+Un'immenso palco sulla destra mostra chiaramente di essere
+adibito a palco per l'orchestra, mentre lunghi tavoli al centro
+della sala dimostrano che si sta preparando un banchetto reale.
+~
+119 0 0
+D1
+Vedi la Sala del Trono.
+~
+~
+0 -1 11904
+S
+#11904
+La Sala del Trono~
+   Sei entrato nella Sala piu' importante di questa parte
+del mondo occidentale. I tuoi occhi bruciano dalla luce che
+proviene da migliaia di candele e si riflette sui grandi
+specchi e sulle finiture d'oro zecchino presenti in ogni
+dove. Questa sala e' usata per le riunioni importanti, per
+definire il ruolo di ognuno e per segnare il destino di
+questo o quel regno.
+Al centro, stranamente, c'e' uno splendido trono di
+ossidiana nera intarsiato con immagini di antiche battaglie.
+~
+119 0 0
+D1
+Vedi la Stanza del Tesoro.
+~
+~
+0 -1 11905
+D3
+Vedi la Sala d'intrattenimento.
+~
+~
+0 -1 11903
+S
+#11905
+La Stanza del Tesoro~
+   Non c'e' mobilio qui, solo qualche baule e delle casse
+sparse qua e la'. Ma in compenso in terra ci sono gioielli,
+oro e pietre preziose sparse ovunque. Una ricchezza e' qui
+davanti ai tuoi occhi. Da che parte cominciamo?
+~
+119 0 0
+D3
+Vedi la Sala del Trono.
+~
+~
+0 -1 11904
+S
+#11906
+Le prigioni~
+   Sei entrato nelle prigioni del Re. C'e' una scarna
+illuminazione ma non sembra siano troppo umide o sporche.
+Evidentemente il nostro Re non e' un re malvagio.
+In un angolo c'e' una branda con delle coperte piegate sopra,
+un tavolino con una brocca e un paio di torce inficcate in
+anelli nel muro.
+~
+119 0 0
+D4
+Vedi la sala d'attesa.
+~
+~
+0 -1 11902
+S
+#11907
+La Torre Sudoccidentale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo
+sudoccidentale del Castello.
+Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con
+del pane e delle sedie attorno ti invogliano a riposare un
+istante le tue stanche membra. Approfittane che non ci sono le
+guardie adesso.
+~
+119 0 0
+D0
+Vedi le mura.
+~
+~
+0 -1 11912
+D1
+Vedi le mura.
+~
+~
+0 -1 11908
+S
+#11908
+Il camminamento meridionale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte meridionale della citta' di Deira.
+~
+119 0 0
+D1
+Vedi il posto di guardia.
+~
+~
+0 -1 11909
+D3
+Vedi la torre sudoccidentale.
+~
+~
+0 -1 11907
+S
+#11909
+Il posto di guardia sulle mura~
+   Sei entrato nella stanza delle guardie. Un caldo
+ambiente ben illuminato ti accoglie, un grande camino
+scalda l'aria e finalmente ti senti a tuo agio. Le
+guardie sono da sempre isolate dal resto del mondo,
+se non ti sbrighi ad andartene vorranno sapere cosa
+succede al di fuori del castello.
+~
+119 0 0
+D0
+Vedi l'atrio.
+~
+~
+0 -1 11913
+D1
+Vedi le mura.
+~
+~
+0 -1 11910
+D3
+Vedi le mura.
+~
+~
+0 -1 11908
+S
+#11910
+Il camminamento meridionale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte meridionale della citta' di Deira.
+~
+119 0 0
+D1
+Vedi la torre sudorientale.
+~
+~
+0 -1 11911
+D3
+Vedi il posto di guardia.
+~
+~
+0 -1 11909
+S
+#11911
+La Torre Sudorientale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo
+sudorientale del Castello.
+Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con
+del pane e delle sedie attorno ti invogliano a riposare un
+istante le tue stanche membra. Approfittane che non ci sono le
+guardie adesso.
+~
+119 0 0
+D0
+Vedi le mura.
+~
+~
+0 -1 11914
+D3
+Vedi le mura.
+~
+~
+0 -1 11910
+S
+#11912
+Il camminamento occidentale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte occidentale della citta' di Deira.
+~
+119 0 0
+D0
+Vedi le mura.
+~
+~
+0 -1 11915
+D2
+Vedi la torre sudoccidentale.
+~
+~
+0 -1 11907
+S
+#11913
+L'Atrio del piano superiore~
+   Sei al primo piano del Castello. Anche qui arazzi
+e panche allietano la vista.
+~
+119 0 0
+D0
+Vedi la zona notte.
+~
+~
+0 -1 11917
+D2
+Vedi il posto di guardia sulle mura.
+~
+~
+0 -1 11909
+D5
+Vedi uno scalone.
+~
+~
+0 -1 11902
+S
+#11914
+Il camminamento orientale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte orientale della citta' di Deira.
+~
+119 0 0
+D0
+Vedi le mura.
+~
+~
+0 -1 11919
+D2
+Vedi la torre sudorientale.
+~
+~
+0 -1 11907
+S
+#11915
+Il camminamento occidentale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte occidentale della citta' di Deira.
+~
+119 0 0
+D0
+Vedi le mura.
+~
+~
+0 -1 11920
+D2
+Vedi le mura.
+~
+~
+0 -1 11912
+S
+#11916
+La Camera dei Nobili~
+   Questa e' la camera per i nobili ospiti del nostro
+beneamato Re. Qui puoi riposarti da tutte le avventure
+(presunte e no) a cui ti sei allegramente abbandonato
+oggi. Occhio all'affitto pero', il nostro beneamato e'
+famoso per essere un taccagno.
+~
+119 0 0
+D1
+Vedi l'ingresso alla zona notte.
+~
+~
+0 -1 11917
+S
+#11917
+L'ingresso alla zona notte~
+   Sei all'ingresso della zona notte. Diverse porte che
+danno accesso alle camere da letto si aprono su questo
+ingresso, ma l'unica ancora libera e' quella ad ovest.
+~
+119 0 0
+D0
+Vedi il corridoio.
+~
+~
+0 -1 11922
+D1
+Vedi una camera.
+~
+~
+0 -1 11918
+D2
+Vedi l'atrio.
+~
+~
+0 -1 11913
+D3
+Vedi la camera dei nobili.
+~
+~
+0 -1 11916
+S
+#11918
+Una camera~
+   Sei in una bella, confortevole e lussuosa camera.
+Al centro della stanza un enorme letto a baldacchino
+riempie la visuale, un armadio sulla parete a destra
+e' destinato ad essere il custode delle armi e delle
+armature del ricco possessore di questa stanza.
+Sulla parete davanti a te uno specchio immenso riflette
+la tua altera figura, si, stai proprio bene oggi.
+~
+119 0 0
+D3
+Vedi l'ingresso alla zona notte.
+~
+~
+0 -1 11917
+S
+#11919
+Il camminamento orientale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte orientale della citta' di Deira.
+~
+119 0 0
+D0
+Vedi le mura.
+~
+~
+0 -1 11924
+D2
+Vedi le mura.
+~
+~
+0 -1 11914
+S
+#11920
+Il camminamento occidentale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte occidentale della citta' di Deira.
+~
+119 0 0
+D0
+Vedi la torre nordoccidentale.
+~
+~
+0 -1 11925
+D2
+Vedi le mura.
+~
+~
+0 -1 11915
+S
+#11921
+Una camera~
+   Sei in una bella, confortevole e lussuosa camera.
+Al centro della stanza un enorme letto a baldacchino
+riempie la visuale, un armadio sulla parete a destra
+e' destinato ad essere il custode delle armi e delle
+armature del ricco possessore di questa stanza.
+Sulla parete davanti a te uno specchio immenso riflette
+la tua altera figura, si, stai proprio bene oggi.
+~
+119 0 0
+D1
+Vedi il corridoio.
+~
+~
+0 -1 11922
+S
+#11922
+Il Corridoio~
+   Sei nel corridoio del piano superiore del Castello.
+Delle porte si aprono ad est e ad ovest mentre a nord
+vedi l'ennesimo posto di guardia.
+~
+119 0 0
+D0
+Vedi il posto di guardia.
+~
+~
+0 -1 11927
+D1
+Vedi una camera
+~
+~
+0 -1 11923
+D2
+Vedi l'ingresso alla zona notte.
+~
+~
+0 -1 11917
+D3
+Vedi una camera.
+~
+~
+0 -1 11921
+S
+#11923
+Una camera~
+   Sei in una bella, confortevole e lussuosa camera.
+Al centro della stanza un enorme letto a baldacchino
+riempie la visuale, un armadio sulla parete a destra
+e' destinato ad essere il custode delle armi e delle
+armature del ricco possessore di questa stanza.
+Sulla parete davanti a te uno specchio immenso riflette
+la tua altera figura, si, stai proprio bene oggi.
+~
+119 0 0
+D3
+Vedi il corridoio.
+~
+~
+0 -1 11922
+S
+#11924
+Il camminamento orientale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte orientale della citta' di Deira.
+~
+119 0 0
+D0
+Vedi la torre nordorientale.
+~
+~
+0 -1 11929
+D2
+Vedi le mura.
+~
+~
+0 -1 11907
+S
+#11925
+La Torre Nordoccidentale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo
+sudorientale del Castello.
+Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con
+del pane e delle sedie attorno ti invogliano a riposare un
+istante le tue stanche membra. Approfittane che non ci sono le
+guardie adesso.
+~
+119 0 0
+D1
+Vedi le mura.
+~
+~
+0 -1 119026
+D2
+Vedi le mura.
+~
+~
+0 -1 11920
+S
+#11926
+Il camminamento settentrionale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte orientale della citta' di Deira.
+~
+119 0 0
+D1
+Vedi il posto di guardia.
+~
+~
+0 -1 11927
+D3
+Vedi la torre nordoccidentale.
+~
+~
+0 -1 11925
+S
+#11927
+Il posto di guardia sulle mura~
+   Sei entrato nella stanza delle guardie. Un caldo
+ambiente ben illuminato ti accoglie, un grande camino
+scalda l'aria e finalmente ti senti a tuo agio. Le
+guardie sono da sempre isolate dal resto del mondo,
+se non ti sbrighi ad andartene vorranno sapere cosa
+succede al di fuori del castello.
+~
+119 0 0
+D1
+Vedi le mura.
+~
+~
+0 -1 11928
+D2
+Vedi il corridoio.
+~
+~
+0 -1 11922
+D3
+Vedi le mura.
+~
+~
+0 -1 11926
+S
+#11928
+Il camminamento settentrionale~
+   Sei sulle mura del Castello. Da qui hai la visione della
+parte orientale della citta' di Deira.
+~
+119 0 0
+D1
+Vedi la torre nordorientale.
+~
+~
+0 -1 11929
+D3
+Vedi il posto di guardia.
+~
+~
+0 -1 11927
+S
+#11929
+La Torre Nordoccidentale~
+   Hai lasciato le mura e sei entrato nella torre dell'angolo
+sudorientale del Castello.
+Una grigia stanza scarna di arredamento e mal illuminata ti
+accoglie. Un tavolaccio con sopra una brocca ed un piatto con
+del pane e delle sedie attorno ti invogliano a riposare un
+istante le tue stanche membra. Approfittane che non ci sono le
+guardie adesso.
+~
+119 0 0
+D2
+Vedi le mura.
+~
+~
+0 -1 11924
+D3
+Vedi le mura.
+~
+~
+0 -1 11928
+S
+$~

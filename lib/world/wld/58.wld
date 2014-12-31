@@ -1,0 +1,422 @@
+#5800
+La tenda est~
+In questa tenda respiri una strana atmosera, quasi elettrica.  E' come se
+un'enorme potere magico vigilasse su chiunque entri, e a dire il vero ti senti
+osservato.  Sara' meglio stare in guardia, perche' chiunque sia alloggiato qui
+non pare amare avere visite indesiderate.    
+~
+58 13 0
+D1
+~
+porta~
+1 0 5801 3
+D3
+~
+~
+0 0 2465451 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5801
+L'anticamera~
+Questa anticamera e' piena di strumenti magici: potenti glifi sono disegnati in
+terra, mentre sfere luminose ed archi elettrici volteggiano qui e li.  
+Probabilmente e' da questa stanza che Furcus evoca i suoi eserciti da mandare
+in battaglia.    
+~
+58 424 0
+D0
+~
+~
+0 0 5809 0
+D1
+~
+porta~
+2 0 5809 9
+D2
+~
+~
+0 0 5802 0
+D3
+~
+porta~
+1 0 5800 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5802
+La stanza di &9&bFurcus&0~
+Questa stanza e' stracolma di strani oggetti, pozioni e pergamene magiche.  
+Nonostante sia all'interno di un accampamento, questo capo dei mercenari non si
+fa mancare qualche comodita', e a giudicare dall'arredamento della stanza, deve
+essere di gusti raffinati.  Furcus preferisce evocare i suoi mercenari,
+piuttosto che assoldarli e pagarli....  Come dargli torto?    
+~
+58 8 0
+D0
+~
+~
+0 0 5811 0
+D1
+~
+~
+0 0 5811 0
+D2
+~
+~
+0 0 5811 0
+D3
+~
+porta~
+2 0 5801 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5803
+La tenda tempio~
+Questa tenda e' stata addobbata per rassomigliare ad un tempio, ad un piccolo
+tempio di &7&bSilue&0.  Nonostante i mezzi limitati, l'obiettivo di portare lo
+sguardo di Silue da queste parti e' stato raggiunto e appena entri senti che la
+calma e la forza della &3&bLuce&0 ti avvolgono, facendoti sentire a tuo agio.
+La &7&bBianca Dama&0 accoglie a braccia aperte tutti i figli della &3&bLuce&0,
+anche in queste terre incenerite.  I suoi seguaci vogliono indagare sulla
+natura dei Draghi per capire se siano creature della &3&bLuce&0 o delle
+tenebre.    
+~
+58 76 0
+D1
+~
+~
+0 0 5813 0
+D3
+~
+~
+0 0 2465652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5804
+La tenda ovest~
+Entri lentamente dentro alla tenda situata nella parte ovest dell'accampamento. Ti trovi in un ambiente molto
+spazioso, la tenda e' piu' grande di quello che pensavi. Sulla parete ovest vedi una porticina di stoffa che
+separa un altro ambiente . Alcuni mercenari vestiti di nero sono in terra a confabulare qualcosa. Non sembrano aver
+notato la tua presenza...
+~
+58 12 0
+D1
+~
+~
+0 0 2465449 0
+D3
+~
+porta~
+1 0 5805 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5805
+Un anticamera &9Nera&0~
+Socchiudi lentamente la porticina alle tue spalle, entrando in uno stanzino di pochi metri. Tutte le pareti sono
+completamente nere, con strane maschere esotiche e cappucci lugubri appesi al muro. Dei cuscini a terra ti
+fanno intuire che probabilmente ti trovi in una sala utilizzata come stanza d'aspetto...
+~
+58 12 0
+D1
+~
+porta~
+1 0 5804 3
+D3
+~
+porta~
+1 0 5806 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5806
+La stanza di &9Slith&0~
+Sei in una stanza di medie dimensioni. Le mura sono ricoperte di cartine e mappe topografiche di Cimmura e dei
+suoi dintorni. Un armatura delle Tigri di Tolnedra e' montata in un angolo come statua. Un tavolo e' situato
+al centro dell'ambiente. Uno stiletto e' conficcato nel legno. Svariate cartine della zona sono sparpagliate
+disordinatamente su di esso. Un uomo dal volto concentrato e onesto sta studiando attentamente il materiale..
+~
+58 12 0
+D1
+~
+porta~
+1 0 5805 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5807
+La tenda nord~
+Scosti lentamente una porta di stoffa, e fai pochi passi in un ambiente abbastanza grande..arredato con pelli di
+svariati tipi d'animale, e completamente ricoperto di tappetti e di arazzi sulla caccia. Ti colpisce un enorme
+quadro sulla parete nord raffigurante una gigantesca quercia centenaria. Due porte sui lati ovest ed est attirano
+la tua attenzione..
+~
+58 12 0
+D1
+~
+~
+0 0 5808 0
+D2
+~
+~
+0 0 2465450 0
+D3
+~
+~
+0 0 5808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5808
+La stanza dei &2Peloi&0~
+Ti trovi una stanza sobria, con due poltrone, due brandine e un tavolo di mogano. Arazzi raffiguranti le gesta dei
+grandi Peloi ricorprono le pareti. Due uomini dall'aspetto sveglio stanno discutendo al centro della Sala. Non
+sembrano essere attirati dalla tua presenza. Discutono vivacemente riguardo alla linea da seguire contro i
+draghi che abitano nella zona. Sospetti che presto potrebbero venire alle mani..
+Improvvisamente uno dei due estrae un pugnale dalla cintura e trapassa a morte l'altro..ti senti invadere dalla rabbia e
+dal rimorso per non averli fermati..
+~
+58 12 0
+D1
+~
+~
+0 0 5807 0
+D3
+~
+~
+0 0 5807 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5809
+La stanza di &9&bFurcus&0~
+Questa stanza e' stracolma di strani oggetti, pozioni e pergamene magiche.  
+Nonostante sia all'interno di un accampamento, questo capo dei mercenari non si
+fa mancare qualche comodita', e a giudicare dall'arredamento della stanza, deve
+essere di gusti raffinati.  Furcus preferisce evocare i suoi mercenari,
+piuttosto che assoldarli e pagarli....  Come dargli torto?    
+
+Ehi un attimo.. questa non e' la stanza di Furcus.. e' una trappola magica!
+Non appena questo pensiero ti attraversa la mente, un fulmine fa altrettanto.
+
+ADDIO!
+~
+58 10 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#5810
+La tenda sud~
+Entri con cura in una stanza completamente vuota, spoglia e triste. L'unica cosa rilevante e' una porta intarsiata
+da simboli runici. Due massicci uomini, vestiti con pelli e ricoperti da tatuaggi e colori tribali. Ti guardano
+in modo deciso e in cagnesco. Non ti faranno mai entrare...
+~
+58 35184372088844 0
+D0
+~
+~
+0 0 2465450 0
+D2
+~
+porta~
+2 5815 5812 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5811
+L'anticamera~
+Questa anticamera e' piena di strumenti magici: potenti glifi sono disegnati in
+terra, mentre sfere luminose ed archi elettrici volteggiano qui e li.  
+Probabilmente e' da questa stanza che Furcus evoca i suoi eserciti da mandare
+in battaglia.
+
+Ehi... qui c'e' qualcosa che non va!!!!
+
+Appena ti accorgi del tuo errore, precipiti in un nero baratro.
+
+Addio
+~
+58 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#5812
+La stanza di &1&bBoneHead&0~
+Superate le guardie accedi in una stanza illuminata da alcune torce. Pelli di lupo e scaglie di drago sono appese
+ovunque. La luce soffusa illumina un luogo caotico e confusionario, pieno di trofei di caccia e di armi esotiche.
+Al centro della stanza un uomo studia attentamente una mappa su un tavolo. Appena nota la tua presenza si rivolge a
+te urlando "NON AVRAI LA MIA MAPPA,L'HO TROVATO IO!!". Non capisci neanche di cosa sta parlando e cerchi di obiettare
+qualcosa, ma il gigantesco guerriero si lancia contro di te intonando un urlo di guerra tribale..
+~
+58 35184372088844 0
+D0
+~
+porta~
+2 5815 5810 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5813
+Lo studio di Jaioel~
+Appena entrato in questa stanza senti una profonda sensazione di pace, un dolce
+e delicato profumo proviene da dell'incenso che sta bruciando lentamente.  
+Molti tomi di conoscenza e storia antica sono aperti in tutta la stanza, mentre
+una piccola statua rappresentante la &7&bBianca Dama&0 e' posta al centro della
+stanza.    
+~
+58 12 0
+D3
+~
+~
+0 0 5803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5814
+&3Giu' tra le sabbie...&0~
+Inizi a sprofondare in un gorgo di sabbia, roteando vorticosamente senza sosta. L'aria ti manca, ti sembra di
+affogare in un mare di sabbia. Vedi ovunque granelli color cenere che ti sommergono non lasciandoti via di scampo.
+Inizi a perdere le speranze e a rassegnarti alla morte, quando improvvisamente senti un dolore intenso alla schiena..
+Sei finito in una galleria alta poco piu' di 3 metri, cadendo da un buco del soffitto..sei un po' ammaccato, ma vivo!
+La galleria prosegue davanti a te..
+~
+58 76 0
+D0
+~
+~
+0 0 5815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5815
+Seguendo le gallerie...~
+Inizi a seguire con cautela i tunnel. Ti sembra di perdere l'orientamente, la strada gira e percorre numerose
+deviazione. Hai perso completamente il senso dell'orientamento, e sai benissimo che non potresti in nessun modo
+tornare indietro. Puoi solo proseguire nella speranza di trovare un uscita. Improvvisamente un rumore interrompe
+il silenzio...
+~
+58 76 0
+D0
+~
+~
+0 0 5816 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2594
+#5816
+&3La tana&0~
+Fai pochi passi attraverso una piccola strettoia, entrando in una caverna. La volta e' alta piu' di 100 metri, e il
+diametro e' maggiore ai 300. Non hai mai visto in vita tua una cupola cosi' grande interamente scavata nella roccia.
+Al centro della grotta un gigantesco essere rettiliforme e' placatamente adagiato su un cumulo di detriti. Sembra
+che stia dormendo, e il rumore che hai sentito poco fa non e' altro che il suo violento russare. Poco vicino a lui
+una pila di cadaveri e di ossa ti mostra la sorte dei mercenari che sono arrivati qui prima di te...
+~
+58 200 0
+D2
+~
+~
+0 0 5815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5817
+La stanza di &6Kaius&0~
+Entri in una tenda, arredata con tesori e ricercatezze di ogni genere. Arazzi esotici adornano le pareti e preziose
+armi risiedono in rastrelliere d'oro massiccio. La tenda diversamente dalle altre non e' difesa da nessuno. Colui
+che alloggia qui non ha bisogno di guardie...un uomo seduto su un tavolo mangia scompostamente delle cosce di pollo
+senza degnarti di uno sguardo. Riconosceresti la sua figura in mezzo a mille..costui e' Kaius, il capo supremo
+delle 5 gilde Daresiane. Pochi l'hanno visto e nessuno l'ha mai sconfitto. L'emergenza dei draghi deve essere
+veramente importante se addirittura LUI si trova qui..
+~
+58 12 0
+D2
+~
+~
+0 0 2465250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5818
+&1In trappola!&0~
+Fai qualche passo in avanti, quando improvvisamente il terreno sotto i tuoi
+piedi frana risucchiandoti nella terra.  Dopo un volo di pochi metri cadi a
+terra e ti ritrovi sul fondo di una buca.  Probabilmente e' stata costruita da
+qualcuno o QUALCOSA.  Non c'e' modo di uscirne...  Sei costretto ad
+&1&b&uarrampicarti&0
+~
+58 236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2591
+#5819
+Il nido del Roc~
+Sei in un'enorme nido tra le rupi delle montagne di cenere.  A dir la verita'
+piu' che enorme e' titanico: potrebbe ospitare comodamente una decina di
+persone!  Sul fondo del nido vedi le carcasse e gli scheletri di parecchi
+animali, un paio potrebbero appartenere a piccoli draghi, mentre un teschio ti
+sembra decisamente quello di una persona.    
+~
+58 12 0
+D2
+~
+~
+0 0 2464862 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5820
+La grotta subacquea~
+Ti trovi in una piccola grotta, poco piu' di una fessura, sommersa d'acqua dove
+non arriva nessuna luce.  Pare non esserci nulla d'interessante da queste
+parti, ma forse potresti continuare l'esplorazione e scendere piu' in
+profondita'.    
+~
+58 301 8
+D0
+~
+~
+0 0 5821 0
+D4
+~
+~
+0 0 2465457 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5821
+All'interno della grotta subacquea~
+Scendi ancora piu' in profondita'...  Pare che qui non ci sia proprio nulla di
+interessante.  Il fondale e' fatto di cenere e nessuna luce arriva fin
+quaggiu'.  Sara' meglio voltarsi e tornare a vedere la luce del sole.    
+~
+58 297 8
+D2
+~
+~
+0 0 5820 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5822
+Uno stretto passaggio~
+Uno stretto passaggio tra le montagne messo in vista da una recente frana
+conduce fino ad un'amplia vallata...    
+~
+58 268 0
+D1
+~
+~
+0 0 2464540 0
+D2
+~
+~
+0 0 1456591 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

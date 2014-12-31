@@ -1,0 +1,2377 @@
+#18800
+Un tumulo~
+   Ti trovi sulla sommita' di un tumulo di circa 5 metri di diametro.  Non c'e'
+vegetazione all'interno del cerchio e questo e' abbastanza strano.  Una
+sinistra nebbiolina sale dal terreno e ti arriva alle ginocchia, e sembra quasi
+che le tue gambe siano per meta' sotto terra.    
+~
+188 5 3
+D4
+~
+~
+0 0 1480474 0
+D5
+~
+tumulo~
+1 18803 18801 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18801
+I confini della citta' di Ghenna~
+   Ti trovi all'interno dei confini della citta' di Ghenna.  Una volta era una
+citta' in grossa espansione, mentre ora e' il paradiso per il male che si e'
+nutrito per lunghi anni dei misfatti di Lord Suzerain, il goverante della
+citta'.  In ogni angolo vedi rovine ed ossa spolpate e frantumate da animali.
+   Ci sono uscite che vanno in tutte le direzioni.
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18802 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18859 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18803 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18857 0
+D4
+Troppo buio per vedere.
+~
+tumulo~
+1 0 18800 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18802
+Una fontana di lacrime~
+   Una grossa fontana riempita dalle lacrime di tutti coloro che sono stati
+uccisi all'interno della citta' sorge davanti a te.  La fontana e' addossata al
+muro orientale della citta' - sembra molto larga e profonda.  L'acqua e' di un
+blu cristallino ed emana un'aura benefica, cosa alquanto strana da vedersi in
+una citta' malvagia.    
+   Vi sono uscite verdo ovest, nord e sud.
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18867 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18801 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18804 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18803
+L'odore della morte~
+   Ti trovi in quello che sembra essere il cimitero della citta'.  Nessuno qui
+sembra sentire la necessita' di seppellire i morti e cosi' i corpi sono gettati
+qua' e la' senza un particolare ordine.  E l'odore!  Tutto quello che puoi fare
+ora e' evitare di rimettere il tuo ultimo pasto.    
+   I corpi formano un cumulo troppo alto per andare ad est, ma puoi
+andare a nord, sud od ovest.
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18801 0
+D2
+Una siepe contorta.
+~
+~
+0 0 18805 0
+D3
+Le strade di Ghenna.
+~
+~
+0 0 18851 0
+D5
+~
+budello~
+1 -1 18853 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18804
+Una nicchia~
+   Ti trovi all'interno di un cerchio formato da ciottoli nei pressi di una
+nicchia.  Ad est c'e' una grossa fontana e, a nord, vedi una porta sopra alla
+quale si trova l'insegna dipinta di una taverna.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+porta~
+1 -1 18815 3
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18805
+Una siepe contorta~
+   Ti trovi in mezzo a delle piante che formano una siepe contorta alta circa 2
+metri.  I viottoli fiancheggiati dalla siepe si dirigono in ogni direzione.  
+
+~
+188 1 1
+D0
+La siepe contorta.
+~
+~
+0 0 18805 0
+D1
+La siepe contorta.
+~
+~
+0 0 18808 0
+D2
+La siepe contorta.
+~
+~
+0 0 18805 0
+D3
+La siepe contorta.
+~
+~
+0 0 18806 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18806
+Una siepe contorta~
+   Ti trovi in mezzo a delle piante che formano una siepe contorta alta circa 2
+metri.  I viottoli fiancheggiati dalla siepe si dirigono in ogni direzione.  
+
+~
+188 1 1
+D0
+Una siepe contorta.
+~
+~
+0 0 18809 0
+D1
+Una siepe contorta.
+~
+~
+0 0 18806 0
+D2
+Una siepe contorta.
+~
+~
+0 0 18805 0
+D3
+Una siepe contorta.
+~
+~
+0 0 18808 0
+D5
+~
+botola segreta ~
+1 -1 18810 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18807
+Una siepe contorta~
+   Ti trovi in mezzo a delle piante che formano una siepe contorta alta circa 2
+metri.  I viottoli fiancheggiati dalla siepe si dirigono in ogni direzione.  
+
+~
+188 1 1
+D0
+Una siepe contorta.
+~
+~
+0 0 18805 0
+D1
+Una siepe contorta.
+~
+~
+0 0 18806 0
+D2
+Una siepe contorta.
+~
+~
+0 0 18805 0
+D3
+Una siepe contorta.
+~
+~
+0 0 18809 0
+D5
+Il reame dei disperati.
+~
+porta~
+1 -1 18810 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18808
+Una siepe contorta~
+   Ti trovi in mezzo a delle piante che formano una siepe contorta alta circa 2
+metri.  I viottoli fiancheggiati dalla siepe si dirigono in ogni direzione.  
+
+~
+188 1 1
+D0
+Una siepe contorta.
+~
+~
+0 0 18805 0
+D1
+Una siepe contorta.
+~
+~
+0 0 18800 0
+D2
+Una siepe contorta.
+~
+~
+0 0 18806 0
+D3
+Una siepe contorta.
+~
+~
+0 0 18805 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18809
+Una siepe contorta~
+   Ti trovi in mezzo a delle piante che formano una siepe contorta alta circa 2
+metri.  I viottoli fiancheggiati dalla siepe si dirigono in ogni direzione.  
+
+~
+188 1 1
+D0
+Una siepe contorta.
+~
+~
+0 0 18808 0
+D1
+Una siepe contorta.
+~
+~
+0 0 18808 0
+D2
+Una siepe contorta.
+~
+~
+0 0 18807 0
+D3
+Una siepe contorta.
+~
+~
+0 0 18805 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18810
+Il reame dei disperati~
+   L'incessante lamento delle anime condannate al tormento eterno ti fa venire
+i brividi.  Le pareti, il pavimento ed il soffitto sono una massa sanguinolenta
+e viscida, impossibile da descrivere.  Un foro nel soffitto proprio sopra di te
+fa penetrare una leggera brezza che ti scompiglia i capelli.  Un portale magico
+si trova a sud.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18811 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18800 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18811
+Una stanza oscillante~
+   Le pareti di questa stanza si muovono ritmicamente e avverti la presenza di
+qualcosa di estremamente malvagio.  Il continuo movimento del pavimento ti fa
+tremare senza controllo, mentre il soffitto ritmicamente si avvicina ed
+allontana dalla tua testa.  Ti senti venir meno.  Se resti qui a lungo, di
+certo sara' la tua fine.    
+~
+188 16389 1
+D0
+Il pozzo senza fondo.
+~
+~
+0 0 18812 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18824 0
+D2
+Il reame dei disperati.
+~
+~
+0 0 18810 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18806 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18812
+Il pozzo senza fondo~
+Cominci a
+ 
+             ||C       ||
+             || A      ||
+             ||  D     ||
+             ||   E    ||
+             ||    R   ||
+             ||     E  ||
+             ||        ||
+             ||        ||
+             ||       E||
+             ||        ||
+             ||        ||
+             ||     C  ||
+             ||    A   ||
+             ||   D    ||
+             ||  E     ||
+             || R      ||
+             ||E       ||
+             ||        ||
+~
+188 12 0
+D0
+~
+~
+0 0 18813 0
+D1
+~
+~
+0 0 18813 0
+D2
+~
+~
+0 0 18813 0
+D3
+~
+~
+0 0 18813 0
+D4
+~
+~
+0 0 18813 0
+D5
+~
+~
+0 0 18813 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18813
+In caduta libera~
+Continui a
+ 
+             ||C       ||
+             || A      ||
+             ||  D     ||
+             ||   E    ||
+             ||    R   ||
+             ||     E  ||
+             ||        ||
+             ||        ||
+             ||       E||
+             ||        ||
+             ||        ||
+             ||     C  ||
+             ||    A   ||
+             ||   D    ||
+             ||  E     ||
+             || R      ||
+             ||E       ||
+             ||        ||
+~
+188 12 0
+D0
+~
+~
+0 0 18813 0
+D1
+~
+~
+0 0 18813 0
+D2
+~
+~
+0 0 18813 0
+D3
+~
+~
+0 0 18813 0
+D4
+~
+~
+0 0 18813 0
+D5
+~
+~
+0 0 18813 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18814
+Le strade di Ghenna~
+   Ti trovi in una via di Ghenna.  La strada continua a Est ed ad Ovest,
+correndo placidamente lungo una piccola valle.    
+~
+188 1 1
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18804 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18843 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18815
+Taverna del Sangue~
+   Ti trovi all'interno della Taverna del Sangue - un luogo dall'aspetto
+bizarro a prima vista.  Il pavimento di legno scricchiola sotto il peso di uno
+strano bancone che vedi a nord e che sembra muoversi in qualche modo.  Accanto
+al bancone ci sono delle scale a chiocciola che scompaiono nell'oscurita'.  Il
+soffitto e' a volta e tre candelieri pendono da esso.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18816 0
+D2
+~
+porta~
+1 -1 18804 3
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18817 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18816
+Vicino ad un bancone non-morto~
+   Un lungo bancone si trova qui.  Sembra essere fatto di carne umana cucita
+assieme con peli di varie bestie.  Sebbene appaina massiccio, il bancone e'
+molto morbido al tatto e ...  Sembra muoversi leggermente, come se fosse VIVO!
+   Una scala a chiocciola sale, nell'oscurita', verso l'alto.
+~
+188 1 1
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18815 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18818 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18817
+Il tavolo da gioco~
+   Un tavolo da gioco costruito con gli scheletri di strani quadrupedi si trova
+qui.  Sopra di esso vedi delle carte abbandonate...  La porta della taverna e'
+ad est, mentre a nord vedi un bancone fatto di qualcosa che assomiglia molto
+alla pelle umana.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18816 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18818
+In cima alle scale~
+   Ti trovi in cima alle scale della Taverna del Sangue.  L'oscurita' riempie
+tutto lo stretto corridoio che corre da est ad ovest.  Sotto di te vedi un
+bancone fatto di pelle umana.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18819 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18821 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18816 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18819
+Il corridoio~
+   Ti trovi in uno stretto corridoio.  Ad ovest vedi delle scale, mentre a nord
+c'e' una porta da cui proviene un debole canto...  La debole voce sembra
+femminile.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+porta~
+1 0 18820 7
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18818 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18820
+Una sudicia camera da letto~
+   Ti trovi all'interno di una sudicia stanza da letto, arredata con un letto
+MOLTO malandato ed una semplice scrivania.  Una finestra, lungo la parete nord,
+si affaccia sull'oscurita'.    
+~
+188 9 0
+D2
+Troppo buio per vedere.
+~
+porta~
+1 0 18819 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18821
+Un corridoio~
+   Ti trovi nel corridoio della Taverna del Sangue.  Una porta si trova a sud,
+mentre ad est vedi delle scale.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18818 0
+D2
+Troppo buio per vedere.
+~
+porta~
+2 18816 18822 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18822
+La stanza del padrone~
+   Questa e' la stanza della Taverna del Sangue riservata al padrone.  Un
+armadietto con i liquori si trova appoggiato ad una parete.  E' pieno di
+bottiglie impolverate.  Un letto gigantesco si trova esattamente davanti
+all'armadio.  Una porta socchiusa ad ovest conduce nella sala da bagno.    
+~
+188 8 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18821 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18823 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18823
+La stanza da bagno~
+   L'odore qui e' pestilenziale!!  C'e' un buco nel pavimento che serve come
+latrina - molto primitiva.  Un catino, pieno di acqua insanguinata, e' poggiato
+sul pavimento ed uno specchio sporco riflette la tua immagine.    
+~
+188 8 0
+D0
+Troppo buio per vedere.
+~
+specchio~
+1 0 18843 3
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18822 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18824
+Una piega temporale~
+   Sei afferrato da un vortice temporale che ti provoca una sensazione di forte
+nausea.  Giri e giri, non sapendo quale via stai percorrendo.  Ti sembra di
+poter finire in diversi posti, a seconda della direzione che prendi.    
+~
+188 5 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18800 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18805 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18825 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18805 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18811 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18814 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18825
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18826 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18826 0
+D2
+Un labirinto di corpi.    
+~
+~
+0 0 18826 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18826
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+D1
+~
+~
+0 0 18827 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18826 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18827 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18827
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18826 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18828 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18828 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18828
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18827 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18826 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18829 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18829
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18828 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18827 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18830
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18830 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18831 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18830 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18826 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18831
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18812 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18811 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18832 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18828 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18832
+Un labirinto di corpi~
+   Ti trovi in un labirinto le cui pareti sono costituite da corpi accatastati
+gli uni sugli altri per 3 metri di altezza.  Sembra che alcuni corpi siano
+ancora caldi, e, a volte, grida di disperazione sembrano provenire dalla massa
+di carne che ti circonda.    
+~
+188 17 0
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18833 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18800 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18820 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18833
+L'ingresso di una grande caverna~
+   Sei uscito dal labirinto finalmente!  Ma dove sei?  Ti trovi davanti
+all'entrata di una grossa caverna, di almeno 30 metri di diametro.  Un rivolo
+di sangue sembra avere la sua origine all'interno della caverna - Hai il
+coraggio di entrare?    
+~
+188 1 1
+D0
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+D1
+Un labirinto di corpi.
+~
+~
+0 0 18828 0
+D2
+Un labirinto di corpi.
+~
+~
+0 0 18827 0
+D3
+Un labirinto di corpi.
+~
+~
+0 0 18825 0
+D4
+Un labirinto di corpi.
+~
+~
+1 0 18834 1
+D5
+A pit of jutting spears (which will DEFINITELY kill you) if you enter).~
+pit~
+1 -1 -1 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18834
+All'interno di una caverna~
+   Hai varcato l'ingresso della caverna e subito ti assale un forte odore di
+zolfo.  Grosse pietre sono sparse qua e la', come pure un enorme quantita' di
+cadaveri.  Un rivolo di sangue sembra avere la sua origine a nord, da dove ti
+sembra provenire anche uno strano suono simile a quello di una campana gigante.
+~
+188 5 0
+D0
+Corpi dilaniati.
+~
+~
+0 0 18835 0
+D4
+~
+grotta~
+1 -1 18838 3
+D5
+L'entrata di una grossa caverna.
+~
+~
+0 0 18833 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18835
+Dilaniati!~
+   L'odore di zolfo e' sempre piu' forte!  E come se cio' non bastasse, ci sono
+centinaia di cadaveri sfigurati qui.  Sembra che i loro corpi siano stati
+dilaniati a morsi mentre erano ancora in vita.  Il rivolo di sangue, che vedevi
+all'ingresso della caverna, qui e' ancora piu' grosso.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18836 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18834 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18836
+Ingresso della tana~
+   Ti trovi in una caverna di grosse dimensioni, il cui soffitto che forma un
+arco sopra di te.  Un grosso ponte di roccia si trova sopra la tua testa e
+sembra coperto di sangue e di resti umani.  Un suono roco, simile a quello di
+qualcuno che mangia e che poi si lecca le dita, ti da il voltastomaco.  Poi
+senti...  Una voce di incoraggiamento che ti ripete senza smettere "Si, Si, e'
+lui...  Ancora pochi passi...  Ci sei quasi.  "
+~
+188 9 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18835 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18837 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18837
+Una tana piena di cadaveri~
+   Questo ponte naturale e' bagnato del sangue di centinaia di avventurieri che
+hanno fatto l'errore di entrare qui dentro.  Cadaveri, cadaveri ovunque.  
+Almeno hai finalmente trovato la fonte di quell'orrendo odore di zolfo.  Una
+sostanza nera e viscida si trova sulle pareti attorno a te ed emana questo
+nauseabondo odore.  Come se non bastasse, hai l'orribile sensazione che la tua
+vita finira' presto.    
+~
+188 9 0
+D4
+~
+segreta botola~
+1 -1 18853 3
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18836 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18838
+Un'angusta grotta~
+   Ti trovi in un'angusta grotta posta sopra l'ingresso della caverna.  Anche
+se non soffri di claustrofobia questo posto sicuramente ti rende nervoso.  Un
+cunicolo va verso ovest.  Attento alla testa!    
+~
+188 9 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18839 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18834 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18839
+Uno slargo nella grotta~
+   La grotta si allarga un po', consentendoti di metterti in piedi.  
+Stalattiti e stalagmiti pendono dal sofitto e spuntano dal pavimento.  Ci sono
+uscite a nord, est ed ovest.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18840 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18838 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18840
+Un cunicolo~
+   Ti trovi in un cunicolo in cui riesci a stento a passare.  C'e' una curva
+poco piu' avanti, ma non riesci a capire da che parte vada.  E' cosi' stretto
+che non riesci a girarti per tornare indietro.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18841
+L'antro dell'Efreeti~
+   Sei entrato nel magico antro del grande Efreeti.  Decorata da disegni
+orientali, questa stanza sembra contenere ogni cosa che un uomo possa volere.
+Cuscini, tende e candelabri sono ovunque.  Questo sembra essere il regno della
+lussuria.  A nord c'e' la stanza del tesoro...  Entrarvi vuol dire cercare la
+morte.    
+~
+188 9 0
+D0
+Morte certa.
+~
+~
+0 0 18842 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18840 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18853 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18842
+Morte certa~
+   Hai fatto uno stupido errore, amico mio.  Una mano gigantesca compare dal
+nulla e ti schiaccia, come un insetto.    
+                    ------------------
+                     
+                          SPLAT!!
+                              .
+                                  .
+                                      .  SEI MORTO!!
+~
+188 6 0
+D2
+~
+~
+0 0 18841 0
+D4
+~
+~
+0 0 18841 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#18843
+Una zona che odora di muffa dietro al muro~
+   Ti trovi in un'area nascosta e che odora di muffa, posta proprio dietro la
+parete della sala da bagno.  Una scalinata di granito molto stretta conduce
+verso il basso, nell'oscurita'.    
+~
+188 9 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18823 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18846 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18844
+In fondo ad una scala di granito~
+   Hai raggiunto il fine di una scalinata di granito.  L'ambiente in cui sei
+arrivato sembra essere il primo piano della Taverna del Sangue.  Un buco nel
+soffitto coperto di escrementi si trova proprio sopra un'enorme montagna di
+feci.  Vi sono pareti ad ovest, nord e sud - l'unica via accessibile sembra
+essere ad est, oltre il cumulo di letame.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18847 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18845 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18845
+La scalinata di granito~
+   Ti trovi su una stretta scalinata di granito che scende a spirale verso il
+basso.  Puoi scendere o salire come preferisci.    
+~
+188 9 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18846 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18844 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18846
+Sulle scale~
+   Ti trovi su una stretta scalinata di granito che scende a spirale verso il
+basso.  Puoi scendere o salire come preferisci.    
+~
+188 9 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18843 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18845 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18847
+Una nicchia~
+   Questa nicchia e' umida, buia e polverosa.  Il muro di mattoni mostra i
+segni del tempo - pezzi di mattone rossi e neri giacciono sul pavimento.  I
+resti di un vecchio barilotto di Porto sono in un angolo, una reliquia dei
+tempi passati.  La sola apparente uscita e' verso ovest.    
+~
+188 9 0
+D2
+~
+barilotto porto~
+1 -1 18848 3
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18844 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18848
+Caduta libera~
+Cominci a
+          \S
+            \C
+              \I
+                \V
+                  \O
+                    \L
+                      \A
+                        \R
+                          \E
+                            \
+                              \G
+                                \I
+                                  \U'
+                                                                     
+                                    Ed atterri su un mucchio di
+                                    rifiuti, proprio alla destra
+                                    di un piccolo foro nel 
+                                    pavimento da cui proviene
+                                    un odore di roba cotta.
+~
+188 9 0
+D5
+~
+areazione tubo~
+1 -1 18849 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18849
+Circondato dalle fiamme~
+   Argh!  Ti sembra di essere finito all'inferno...  O almeno, in un angolo di
+esso.  Le fiamme danzano lungo le pareti e la luce che ne emana inganna i tuoi
+occhi.  Riesci appena a scorgere una figura scura verso nord.  Non c'e'
+assolutamente modo di tornare indietro.  Puoi, comunque, uscire verso est,
+ovest e nord.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18852 0
+D1
+Una camera da letto improvvisata.
+~
+~
+0 0 18850 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18847 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18850
+Una camera da letto improvvisata~
+   Una branda si trova lungo il muro orientale di questa piccola alcova,
+proprio oltre un pentacolo disegnato al contrario sul pavimento.  Il pentacolo
+sembra tracciato col sangue.  Un armadietto si trova di fronte ad esso.  La
+sola uscita e' verso ovest.    
+~
+188 9 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18849 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18851
+Le strade di Ghenna~
+   Ti trovi per le vie di Ghenna.  La strada, lastricata di ciottoli, e'
+scivolosa per il sangue sparso da molti avventurieri incauti.  Fai attenzione!
+  
+~
+188 1 1
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18803 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18854 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18852
+La sede del potere~
+   Fuoco, fuoco ovunque.  Una predella di marmo nero, circondata dalle fiamme,
+sorregge una sedia di marmo, nera e decisamente vuota.  Sembra un trono di un
+qualche tipo.  Le fiamme ti impediscono di avvicinarti e puoi dirigerti solo
+per la strada da cui sei venuto o provare a salire verso l'alto.
+~
+188 1 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18849 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18853 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18853
+Sotto le ossa~
+   Ti trovi sotto una pila di ossa accatastate.  Il cielo notturno ti appare
+attraverso l'orbita vuota di un teschio umano posto poco sopra di te.  Con un
+minimo sforzo puoi riuscire ad uscire.    
+~
+188 5 0
+D1
+~
+porta~
+1 0 18891 3
+D4
+Troppo buio per vedere.
+~
+grata~
+1 0 18803 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18854
+Le strade di Ghenna~
+   Ti trovi in una delle molte strade di Ghenna.  Un alto muro ti blocca il
+passaggio verso ovest, ma puoi andare a nord, sud od est.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18855 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18851 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18898 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18855
+Le strade di Ghenna~
+   Ti trovi su una strada che va da nord a sud.  Il lastricato di ciottoli ti
+fa dolere i piedi.  Ad ovest ci sono le mura della citta', mentre a est c'e' un
+edificio bruciato, che sembra reggersi in piedi a stento e che minaccia di
+cadere sotto la spinta della piu' leggera brezza.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18857 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18856 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18854 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18856
+Un edificio bruciato~
+   Macerie carbonizzate riempiono questa stanza ed una trave giace sopra uno
+scheletro che sembra essere qui da molti anni.  Ad ovest vedi le strade di
+ciottoli di Ghenna.  Faresti meglio ad uscire in fretta da questo edificio,
+poiche' potrebbe crollare da un momento all'altro.    
+~
+188 1 1
+D3
+Le strade di Ghenna.
+~
+~
+0 0 18855 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18857
+Le strade di Ghenna~
+   Ti trovi ad un angolo di strada.  Ad ovest ci sono le mura della citta',
+mentre a nord c'e' una porta.  La strada continua a sud ed a est.    
+~
+188 1 1
+D0
+~
+rossa~
+1 -1 18858 3
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18801 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18855 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18858
+L'antro della dominatrice~
+   Questa stanza e' piena di vestiti di cuoio rinforzato, neri e argentati.  
+Catene, fruste e manette sono appese a ciascuna delle tre pareti.  Una sedia
+regolabile e' posta al centro della stanza, disponibile per i tuoi piu'
+perversi desideri.    
+~
+188 1 1
+D2
+Troppo buio per vedere.
+~
+rossa~
+1 0 18857 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18859
+Le strade di Ghenna~
+   Questa stretta strada, debolmente illuminata si dirige verso est, dove regna
+la piu' totale oscurita', e verso ovest, verso le porte della citta'.  Le
+macerie di edifici in rovina hanno reso ogni altra direzione impraticabile.  
+
+~
+188 1 1
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18860 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18860
+Le strade di Ghenna~
+   Ci sono molte crepe nella strada qui, cosi' che devi camminare a zigzag per
+evitarle.  Gli stipiti di una porta sono tutto cio' che resta dell'edificio che
+un tempo sorgeva a sud.  La costruzione a nord, comunque, sembra in migliori
+condizioni.  La strada finisce a est davanti ad un cumulo di macerie.  Ad ovest
+la strada sembra proseguire.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18861 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18866 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18862 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18859 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18861
+La stazione commerciale~
+   Ti trovi in quello che una volta era la stazione commerciale.  Una predella
+si trova nella parte settentrionale della stanza e sopra di essa si eleva un
+basso podio.  Panche di legno sono ovunque in questa stanza e le danno
+l'aspetto di un piccolo auditorio.  Le strade cittadine di Ghenna sono a sud.
+~
+188 9 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18860 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18862
+Una casa in rovina~
+   Questo luogo sembra essere stato un tempo una graziosa casetta.  
+L'arredamento ora e' completamente rotto, ma da cio' che resta ne deduci che
+doveva essere di stile vittoriano.  Una scalinata ttaballante sale verso
+l'alto.  Meglio che fai attenzione se vuoi salire.    
+~
+188 1 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18860 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18863
+Il piano superiore di una casa in rovina~
+   Le cose qui non sembrano essere conservate meglio.  Il soffitto presenta
+molti buchi, e macerie ti impediscono di andare ad est e ad ovest.  Qualche
+strana muffa e' cresciuta sopra i detriti.  Una porta che si regge ad uno solo
+dei cardini si trova a nord.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18864 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18862 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18864
+La stanza dei bambini~
+   Questa era la stanza dei bambini.  Giocattoli (la maggior parte dei quali
+rotti) sono sparsi ovunque.  Un materasso e' appoggiato contro la parete di
+fronte a te, ha un grosso foro nel centro e la sua imbottitura e' sparsa qua e
+la' sul pavimento.  Una delle bambole sembra straordinariamente perfetta...  
+Quasi viva!    
+~
+188 1 0
+D2
+Too dark to tell.~
+~
+0 0 18863 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18865
+Un armadio distrutto~
+   Ti trovi in un piccolo armadio guardaroba.  Abiti da bambini, e scatole di
+scarpe sono ovunque e tutto e' coperto dalla muffa.  C'e' una sola uscita ad
+est.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18864 0
+D5
+~
+scatola scarpe~
+2 18865 18811 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18866
+Le strade di Ghenna~
+   Ti trovi su una via di Ghenna.  Le mura cittadine si trovano ad est e ti
+impediscono il passaggio in quella direzione.  Puoi andare a nord, sud e ovest.
+Fai attenzione a non inciampare nei molti cadaveri che giacciono per le strade.
+  
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18868 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18878 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18860 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18867
+Una strada di Ghenna~
+   Questa strada e' molto stretta, ma sembra allargarsi verso sud.  Un edificio
+crollato si trova ad ovest, e le mura cittadine ti bloccano il cammino verso
+nord.    
+~
+188 1 1
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18869 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18868
+Una strada di Ghenna che va da su a nord~
+   Questa stretta via corre da nord a sud.  Le mura cittadine torreggiano sopra
+di te ad est, mentre una porta e' ad ovest.  Da sotto la porta sembra provenire
+una luce rossa.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18869 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18866 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18870 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18869
+Una curva nella strada~
+   Ti trovi in un punto in cui la strada curva.  Le mura cittadine sono a nord
+e ad est.  Una stretta via va verso ovest.    
+~
+188 1 1
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18868 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18867 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18870
+Il miglior bordello di Ghenna~
+   Questa stanza e' illuminata da alcune luci rosse.  Biancheria intima e vari
+oggetti sono sparsi per il pavimento, su cui e' disteso un tappeto color malva.
+A sud c'e' una sala d'attesa dove vedi un divano ed un tavolino basso.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18868 0
+D2
+La sala d'attesa.
+~
+~
+0 0 18871 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18871
+La sala d'attesa~
+   Questa stanza era una piccola sala d'attesa dove gli avventori del bordello
+potevano rilassarsi ed attendere comodamente.  Un grazioso divano a fiori si
+trova qui, subito dietro un piccolo e basso tavolo di vetro su cui sono delle
+riviste di biancheria intima.  Ad ovest c'e' una scalinata.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18870 0
+D3
+In fondo ad una scalinata.
+~
+~
+0 0 18872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18872
+In fondo alle scale~
+   Una scalinata si trova qui.  Un paio di pantaloni e' appeso alla ringhiera.
+Ad est c'e' una sala d'attesa.    
+~
+188 9 0
+D1
+La sala d'attesa.
+~
+~
+0 0 18871 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18873 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18873
+In cima alle scale~
+   Apparentemente i domestici che lavorano qui, sono molto svogliati.  Ci sono
+abiti di tutti i tipi sparsi sul pavimento - la maggior parte di essi e' sporca
+e rovinata.  Un corridoio, illuminato da un'unica lampada rossa, si dirige
+verso ovest.    
+~
+188 8 0
+D3
+Un corridoio.
+~
+~
+0 0 18874 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18874
+Un corridoio~
+   Il corridoio continua ad est e ad ovest, mentre a nord c'e' una porta alla
+cui maniglia e' appeso un cartello con su scritto 'Non disturbare'.    
+~
+188 8 0
+D0
+Impossibile da capire.
+~
+~
+0 0 18875 0
+D1
+In cima alle scale.
+~
+~
+0 0 18873 0
+D3
+La fine del corridoio.
+~
+~
+0 0 18876 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18875
+Una squallida camera da letto~
+   Beh se avevi intenzione di fare del sesso, i tuoi desideri sono scomparsi
+non appena hai varcato la soglia di questa stanza.  C'e' un letto qui al cui
+centro c'e' una grossa ed umida macchia marrone.  Macchie d'unto sono sulle
+pareti vicino alla testata del letto.  Il pavimento e' appiccicoso - meglio non
+chiederti il perche'.    
+~
+188 9 0
+D2
+Un corridoio.
+~
+~
+0 0 18874 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18876
+La fine del corridoio~
+   Hai raggiungo una delle estremita' del corridoio.  Una porta si trova verso
+sud, mentre il corridoio continua ad est.    
+~
+188 1 0
+D1
+Un corridoio.
+~
+~
+0 0 18874 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18877 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18877
+La stanza della padrona~
+   Questa e' la stanza della padrona.  Un grosso letto si trova proprio di
+fronte a te.  Il soffitto e' coperto di specchi.  Due lampade sono ai lati del
+letto e sono decorate con uno strano materiale rosso.  Le lampade gettano sulla
+stanza una luce rossastra che, colpendo alcune bacchette di metallo appese alle
+pareti, crea strani giochi di luce.    
+~
+188 8 0
+D0
+La fine del corridoio.
+~
+~
+0 0 18876 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18878
+Una strada coperta~
+   Questa e' una strada coperta che si dirige, in discesa, verso la piu' totale
+oscurita'.  L'aria e' cosi' umida che puoi quasi vederla.  A nord c'e' un
+pozzo.    
+~
+188 1 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18866 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18879 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18879
+Un sentiero fangoso~
+   Questo sentiero e' coperto da una sostanza viscida e melmosa.  Il sentiero
+e' cosi' scivoloso che non puoi risalire verso la strada coperta che vedi piu'
+a sud.  La tua sola possibilita' e' proseguire verso ovest.    
+~
+188 5 1
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18880 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18880
+Un sentiero fangoso~
+   Il fango sembra divenire piu' solido man mano che cammini.  Ci sono molte
+carogne di animali che, apparentemente, sono rimaste intrappolate quaggiu'.  
+Puoi andare a nord e ad est.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18881 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18879 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18881
+Un sentiero fangoso~
+   Fango, fango ovunque.  Un nano ferito giace a terra, immerso per met nella
+melma insanguinata.  Puoi uscire andando verso ovest o verso sud.    
+~
+188 1 1
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18880 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18882 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18882
+Un sentiero fangoso~
+   Il fango qui sembra essere di meno, anche se la via e' ancora scivolosa.  
+Intravedi uno spiazzo verso sud.    
+~
+188 1 1
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18881 0
+D2
+Un piccolo spiazzo.
+~
+~
+0 0 18883 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18883
+Un piccolo spiazzo~
+   Non c'e' fango qui.  Questo spiazzo e' formato da una polverosa argilla
+rossa su cui sono alcune pietre.  Apparentemente sembra essere una sorta di
+primitivo stradello che conduce a sud, verso l'entrata di una caverna.    
+~
+188 1 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18882 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18884
+L'ingresso di una piccola caverna~
+   Sei giunto davanti all'entrata di una piccola caverna, che si apre sul
+fianco di un'alta collina.  Una rozza scala scende verso il basso, mentre a
+nord c'e' un piccolo spiazzo.    
+~
+188 1 1
+D0
+Un piccolo spiazzo.
+~
+~
+0 0 18883 0
+D5
+Troppo buio per vedere.
+~
+~
+0 0 18885 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18885
+Una caverna sotterranea~
+   Questa piccola caverna sotterranea e' il luogo piu' umido in cui tu sia mai
+stato.  Dell'acqua calcarea gocciola giu' dalle lisce pareti rocciose, e gocce
+d'acqua cadono sulla tua testa dal soffitto.  Un passaggio va verso sud.    
+~
+188 9 1
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18886 0
+D4
+Troppo buio per vedere.
+~
+~
+0 0 18884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18886
+Un lungo tunnel inclinato~
+   Ti trovi in un lungo tunnel che scende leggermente verso sud.  Le lisce
+pareti di roccia sembrano sudare - c'e' dell'acqua piena di calcare su di esse.
+  
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18885 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18887 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18887
+Un lungo tunnel inclinato~
+   Ti trovi in un lungo tunnel che scende leggermente verso sud.  Le lisce
+pareti di roccia sembrano sudare - c'e' dell'acqua piena di calcare su di esse.
+  
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18886 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18888 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18888
+Un lungo tunnel inclinato~
+   Ti trovi in un lungo tunnel che scende leggermente verso sud.  Le lisce
+pareti di roccia sembrano sudare - c'e' dell'acqua piena di calcare su di esse.
+  
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18887 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18889 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18889
+La fine del tunnel~
+   Il tunnel termina con un incrocio a T.  Puoi quindi andare ad est, ovest e,
+naturalmente, nord da dove sei venuto.  La caverna ha un soffitto a volta, che
+si trova circa a 7 metri sopra la tua testa...  Questo ambiente sembra molto
+buio.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18888 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18892 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18890 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18890
+Un tunnel che va da est ad ovest~
+   Questo tunnel e' alto solo 1 metro e mezzo.  Licheni simili a muschio
+pendono dal soffitto e ti graffiano la faccia di tanto in tanto.  Il tunnel
+continua ad est e ad ovest.    
+~
+188 9 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18889 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18891
+Un tunnel che va da est ad ovest~
+   Questo cunicolo angusto termina qui davanti ad un grosso masso.  La sola
+apparente uscite sembra essere quella alle tue spalle, da dove sei venuto.    
+~
+188 13 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18890 0
+D3
+~
+masso~
+1 -1 18853 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18892
+Un ampio tunnel~
+   Questo tunnel e' un po' piu' largo ed e' piu' facile camminarci.  Comunque
+ti senti disorientato...  Da quale parte dovevi andare?  C'e' un buco nella
+parete a nord e un'altra direzione percorribile e' a sud.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18885 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18893 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18889 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18893
+Uno stretto cunicolo~
+   Strisci nel buco che e' infestato da insetti, schiacciati dal tuo peso.  
+Puoi continuare verso sud, se gli insetti non ti danno troppo noia, o puoi
+tornare nel tunnel a nord.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18892 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18894 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18894
+Uno stretto cunicolo~
+   Il cunicolo sbuca in una stanza di 3 metri quadrati, piena di insetti di
+tutti i tipi, alcuni dei quali enormi.  Spera di non essere aracnofobico,
+perche' se lo sei, questo posto sara' certamente la tua tomba.  Le uscite vanno
+in tutte le direzioni.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18893 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18853 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18812 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18895 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18895
+Una stanza tremolante~
+   Sei entrato in un ambiente tremolante.  Ti senti come se fossi nel ventre di
+una bestia gigantesca.  Le pareti trasudano una sostanza mucosa e sono di un
+colore rossastro.  La sola uscita e' a nord.    
+~
+188 9 0
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18896 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18896
+Una stanza tremolante~
+   Questa stanza si muove cosi' tanto che riesci a stento a tenerti in piedi.
+Il muco rosso trasuda dalle pareti e dal soffitto che ha un aspetto ripugnante.
+Un buco nella parete ad ovest e' la sola uscita possibile.    
+~
+188 9 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18897 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18897
+La tana del Demone degli Abissi~
+   Sei entrato in un ambiente di 6 metri quadrati che sembra essere una sorta
+di tana.  Ossa giacciono sparse ovunque - la maggior parte di esse sembrano
+umane.  Un grosso tesoro si trova al centro della stanza, coperto dallo stesso
+muco rosso che trasuda dalle pareti.  Le uscite conducono in tutte le
+direzioni.    
+~
+188 9 0
+D0
+Il pozzo senza fondo.
+~
+~
+0 0 18812 0
+D1
+Troppo buio per vedere.
+~
+~
+0 0 18853 0
+D2
+Troppo buio per vedere.
+~
+~
+0 0 18811 0
+D3
+Troppo buio per vedere.
+~
+~
+0 0 18885 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18898
+Un vicolo cieco~
+   La strada termina qui davanti ad una contorta massa di rami.  Un alto muro
+di cinta si trova alla tua sinistra.  Sembra che la sola direzione percorribile
+sia a nord.    
+~
+188 9 1
+D0
+Troppo buio per vedere.
+~
+~
+0 0 18854 0
+D2
+~
+rami cespuglio~
+1 -1 18805 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18899
+La stanza segreta~
+Hai trovato una stanza segreta !!!
+~
+188 65 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,13 @@
+#415
+Quest_ulexon_1 (zephy)~
+41599 20 2 0
+D 0 41503 3 1 	(&7SALONE&0)
+D 0 41504 1 1 	(&7SALA DA PRANZO&0)
+D 0 41505 1 1 	(&7SALA DA PRANZO&0)
+D 0 41506 1 1 	(&7CUCINE&0)
+D 0 41506 2 1 	(&7CUCINE&0)
+D 0 41506 3 1 	(&7CUCINE&0)
+D 0 41512 2 1 	(&7DISPENSA&0)
+O 0 41504 1 41513 	(Un armadietto da muro.)
+S
+$

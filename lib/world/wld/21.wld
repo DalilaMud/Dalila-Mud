@@ -1,0 +1,1855 @@
+#2100
+Nel piccolo laghetto.~
+In questa zona il mare e' apparentemente calmo.
+Riesci a scorgere qualcosa che si muove in profondita'...
+~
+21 4 6
+D4
+~
+~
+0 0 2455261 0
+D5
+~
+~
+0 0 2101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2101
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+21 33 8
+D0
+~
+~
+0 0 2101 0
+D1
+~
+~
+0 0 2102 0
+D2
+~
+~
+0 0 2103 0
+D3
+~
+~
+0 0 2101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2102
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+21 33 8
+D0
+~
+~
+0 0 2102 0
+D1
+~
+~
+0 0 2104 0
+D2
+~
+~
+0 0 2102 0
+D3
+Nothing.
+~
+~
+0 0 2101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2103
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+21 33 8
+D0
+~
+~
+0 0 2101 0
+D1
+~
+~
+0 0 2107 0
+D2
+~
+~
+0 0 2105 0
+D3
+~
+~
+0 0 2104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2104
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+21 33 8
+D0
+~
+~
+0 0 2104 0
+D1
+~
+~
+0 0 2103 0
+D2
+~
+~
+0 0 2102 0
+D3
+~
+~
+0 0 2101 0
+D4
+~
+~
+0 0 2100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2105
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+21 33 8
+D0
+~
+~
+0 0 2103 0
+D1
+~
+~
+0 0 2106 0
+D2
+~
+~
+0 0 2102 0
+D3
+Nothing.
+~
+~
+0 0 2104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2106
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+~
+21 33 8
+D0
+Nothing.
+~
+~
+0 0 2104 0
+D1
+~
+~
+0 0 2101 0
+D2
+~
+~
+0 0 2107 0
+D3
+Nothing.
+~
+~
+0 0 2105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2107
+Dispersi tra le correnti marine~
+Dannazione!
+Le correnti marine sono molto forti qui', e non riesci a vedere assolutamente nulla, non puoi neanche riemergere!
+Un mucchio di alghe offuscano la zona...
+~
+21 33 8
+D0
+~
+~
+0 0 2106 0
+D1
+Un mucchio di alghe
+~
+alghe alga~
+0 -1 2108 18
+D2
+~
+~
+0 0 2102 0
+D3
+~
+~
+0 0 2101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2108
+I Cancelli del villaggio degli Sahuagin~
+Ooooooh, che villaggio stranissimo!
+Non avresti mai immaginato di poter osservare un normalissimo villaggio, con case, palizzate, strade... Ma tutte sott'acqua!
+Ora ti trovi ai cancelli della cittadina, chiedendoti se sia bene o no proseguire...
+~
+21 36 8
+D1
+~
+cancello~
+1 2100 2109 7
+D3
+~
+alga alghe~
+1 0 2107 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2109
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come
+si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e
+triste.    
+~
+21 0 0
+D0
+~
+~
+0 0 2112 0
+D1
+~
+~
+0 0 2110 0
+D3
+~
+cancello~
+1 2100 2108 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2110
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+21 0 0
+D0
+~
+~
+0 0 2111 0
+D2
+~
+~
+0 0 2115 0
+D3
+~
+~
+0 0 2109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2111
+Una capanna subacquea~
+Che sorpresa!
+Ti trovi all'interno di una capanna... subacquea! Eppure non e' molto diversa dalle controparti terrestri, Infatti vedi un tavolo, delle sedie, degli utensili... perfino un quadro!
+L'unica differenza e' costituita dal fatto che tutte queste cose appartengono a degli Uomini-Pesce!
+~
+21 0 0
+D2
+~
+~
+0 0 2110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2112
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+21 0 0
+D0
+~
+~
+0 0 2120 0
+D2
+~
+~
+0 0 2109 0
+D3
+~
+~
+0 0 2113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2113
+Il giardino~
+Entri in un bellissimo giardino, composto da licheni, alghe, muffe marine e altre meraviglie multicolori. E' realmente uno spettacolo per gli occhi.
+A nord si trova una grossa costruzione.
+~
+21 4 8
+D0
+Una porta in ferro massiccio
+~
+porta~
+2 2101 2114 15
+D1
+~
+~
+0 0 2112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2114
+La Villa di Globoth~
+Questa casa e' diversa dalle altre, e' molto piu' ricca e, si potrebbe dire, adornata con gusto, deve appartenere ad una personalita' importante tra gli Sahuagin.
+~
+21 0 8
+D2
+~
+porta~
+1 0 2113 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2115
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+21 0 0
+D0
+~
+~
+0 0 2110 0
+D1
+~
+~
+0 0 2117 0
+D2
+Una grossa cancellata in ferro battuto chiude l'ingresso
+~
+cancello~
+2 2102 2118 15
+D3
+~
+porta~
+1 0 2116 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2116
+Un posto di guardia~
+Questa piccola capanna viene utilizzata dalle guardie addette al tempio in riposo, Quando una guardia finisce il turno viene a riposarsi qui.
+~
+21 4 0
+D1
+~
+porta~
+1 0 2115 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2117
+Una capanna subacquea~
+Che sorpresa!
+Ti trovi all'interno di una capanna... subacquea! Eppure non e' molto diversa dalle controparti terrestri, Infatti vedi un tavolo, delle sedie, degli utensili... perfino un quadro!
+L'unica differenza e' costituita dal fatto che tutte queste cose appartengono a degli Uomini-Pesce!
+~
+21 0 0
+D3
+~
+~
+0 0 2115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2118
+L'ingresso del tempio~
+Ti rendi subito conto che questo dev'essere l'ingresso di un tempio, dedicato probabilmente ad una delle oscure divinita' che regolano la vita degli Sahuagin.
+~
+21 12 8
+D0
+~
+cancello~
+1 0 2115 7
+D5
+una botola nascosta dietro l'altare... chissa' dove porta?
+~
+botola~
+2 2103 2119 27
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2119
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 1 0
+D0
+~
+~
+0 0 2119 0
+D1
+~
+~
+0 0 2127 0
+D2
+~
+~
+0 0 2126 0
+D3
+~
+~
+0 0 2119 0
+D4
+~
+botola~
+1 0 2118 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2120
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+21 0 0
+D0
+~
+~
+0 0 2121 0
+D1
+~
+~
+0 0 2122 0
+D2
+~
+~
+0 0 2112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2121
+Un sentiero nel villaggio~
+Questa stradina sembra esser il viale principale del piccolo villaggio, da come si presenta questo viale, il villaggio dev'essere proprio un luogo lugubre e triste.
+~
+21 0 0
+D0
+~
+porta~
+1 0 2125 3
+D1
+~
+~
+0 0 2123 0
+D2
+~
+~
+0 0 2120 0
+D3
+~
+~
+0 0 2124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2122
+Un negozio~
+Oh, anche tra gli Sahuagin esiste qualche negozio!
+Questo vende poche cose: stoffe, vestiti, borse, qualche razione di cibo, oggetti comunissimi in daresia, ma rari nelle profondita' marine.
+~
+21 16 0
+D3
+~
+~
+0 0 2120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2123
+Una capanna subacquea~
+Che sorpresa!  Ti trovi all'interno di una capanna...  Subacquea!  Eppure non
+e' molto diversa dalle controparti terrestri, Infatti vedi un tavolo, delle
+sedie, degli utensili...  Perfino un quadro!  L'unica differenza e' costituita
+dal fatto che tutte queste cose appartengono a degli Uomini-Pesce!    
+~
+21 0 0
+D3
+Nothing.
+~
+~
+0 0 2121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2124
+Un negozio~
+Oh, anche tra gli Sahuagin esiste qualche negozio!
+Sembra esser un negozio specializzato in conchiglie... Non ne avevi mai visto cosi' tanti tipi raccolti assieme!
+Certo che alcune di queste conchiglie sembrano proprio strane...
+~
+21 4 8
+D1
+~
+~
+0 0 2121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2125
+Il dormitorio delle guardie~
+Questo grosso baraccone e' utilizzato come dormitorio comune per le guardie Sahuagin.
+E' un luogo spoglio, sporco e fetiscente, di certo le guardie non vengono considerate la classe dominante tra gli Sahuagin, ma vivono certamente meglio degli altri Sahuagin
+~
+21 8 8
+D2
+Nothing.
+~
+porta~
+1 0 2121 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2126
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 1 0
+D0
+~
+~
+0 0 2119 0
+D1
+~
+~
+0 0 2127 0
+D2
+~
+~
+0 0 2119 0
+D3
+Nothing.
+~
+~
+0 0 2118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2127
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 1 0
+D0
+~
+~
+0 0 2119 0
+D1
+~
+~
+0 0 2129 0
+D2
+~
+~
+0 0 2128 0
+D3
+~
+~
+0 0 2126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2128
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 1 0
+D0
+~
+~
+0 0 2127 0
+D1
+~
+~
+0 0 2119 0
+D2
+~
+~
+0 0 2126 0
+D3
+~
+~
+0 0 2119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2129
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 1 0
+D0
+~
+~
+0 0 2130 0
+D1
+~
+~
+0 0 2119 0
+D2
+~
+~
+0 0 2126 0
+D3
+~
+~
+0 0 2127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2130
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 1 0
+D0
+~
+~
+0 0 2131 0
+D1
+~
+~
+0 0 2128 0
+D2
+~
+~
+0 0 2129 0
+D3
+~
+~
+0 0 2127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2131
+Nel buio totale!~
+Come hai fatto ad entrare qui dentro?
+Ci sono solo rumori strani, molto buio e... Hey! cosa si e' mosso la in fondo?!?
+~
+21 257 0
+D0
+~
+~
+0 0 2128 0
+D1
+~
+~
+0 0 2132 0
+D2
+~
+~
+0 0 2130 0
+D3
+~
+~
+0 0 2119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2132
+Un piccolo ingresso~
+Finalmente!
+Delle candele illuminano questo piccolo ingresso, e ringrazi il cielo d'esser uscito da quell'inferno.
+Noti due porte, una ad est ed una a sud... non sembrano particolarmente invitanti.
+~
+21 4 0
+D1
+~
+~
+0 0 2134 0
+D3
+~
+~
+0 0 2131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2133
+La fonte miracolosa!~
+Che sorpresa!
+l'interno della stanza e' riccamente decorato, con bassorilievi in marmo ed oro, e la stanza sembra quasi esser fuori dal tempo.
+Rimani sorpreso dalla ricchezza di particolari che la fontana situata al centro della stanza possiede... che sia...?
+no, non puo essere!
+Hai Trovato la fonte della giovinezza?!?
+~
+21 144 0
+D0
+~
+~
+2 0 2132 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2134
+Il tempio degli Sahuagin~
+L'interno di questa stanza farebbe rivoltare lo stomaco anche agli stomaci piu' tenaci.
+Vi sono molti corpi sgozzati, sventrati e seviziati per terra, alcuni in evidente stato di decomposizione. E' risaputo che gli Sahuagin usano le membra dei nemici per costruire oscuri feticci magici.
+~
+21 0 0
+D3
+~
+~
+0 0 2132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2135
+magazzino~
+e' un magazzino.
+~
+21 4398046511104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2232
+La cappella del Castello~
+Recentemente il Conte di Barl ha voluto l'edificazione di questa cappella dove
+vengono adorate tutte le divinita' Daresiane...  Vecchie e nuove.  
+Evidentemente, dopo la dura prigionia patita durante l'occupazione di Barl da
+parte del Celeste Impero, il Conte ha preso a badare di piu' alla salvezza
+della propria anima.  Sulle pareti noti la raffigurazione di molte divinita'...
+~
+21 44 0
+D2
+~
+~
+0 0 2454647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2233
+La Cancellata della Roccaforte~
+Eccoti infine davanti all'immensa roccaforte.  Il Grosso cancello e' sbarrato
+ed un paio di uomini sono di guardia, sembrano particolarmente vigili.    
+~
+21 4 0
+D0
+~
+Cancello~
+1 2108 2234 7
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 2454847 0
+D3
+~
+~
+0 0 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2234
+L'ingresso al cortile interno~
+Un piccolo cortile interno e' la prima cosa che ti si presenta davanti gli
+occhi qua dentro.  Comunque ora riesci a capire molto dell'architettura della
+roccaforte.  Sembra esser divisa in tre blocchi principali, connessi dal
+cortile.    
+~
+21 0 0
+D0
+~
+~
+0 0 2454647 0
+D2
+~
+cancello~
+1 2108 2233 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2235
+Il portico Sudorientale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D0
+~
+~
+0 0 2236 0
+D3
+Nothing.
+~
+~
+0 0 2234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2236
+Il portico Orientale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D0
+~
+~
+0 0 2237 0
+D1
+~
+~
+0 0 2264 0
+D2
+~
+~
+0 0 2235 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2237
+Il portico Nordorientale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D2
+~
+~
+0 0 2236 0
+D3
+~
+~
+0 0 2241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2238
+Il portico Sudoccidentale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D0
+~
+~
+0 0 2239 0
+D1
+~
+~
+0 0 2234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2239
+Il portico Occidentale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D0
+~
+~
+0 0 2240 0
+D2
+~
+~
+0 0 2238 0
+D3
+~
+~
+0 0 2271 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2240
+Il portico Nordoccidentale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D1
+~
+~
+0 0 2241 0
+D2
+~
+~
+0 0 2239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2241
+Il portico Settentrionale~
+Sei sotto un lungo porticato che circonda il piccolo giardino interno della
+roccaforte, anche questa zona e' curata in maniera straordinaria.    
+~
+21 0 0
+D0
+~
+~
+0 0 2242 0
+D1
+~
+~
+0 0 2237 0
+D3
+~
+~
+0 0 2240 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2242
+L'ingresso al bastione Centrale~
+Eccoti di fronte al Bastione Centrale della Roccaforte.  E' molto piu' grande
+dei bastioni laterali, ed e' evidentemente tenuta meglio.  Il Conte Barl
+dev'essere molto ricco.    
+~
+21 0 0
+D0
+~
+cancello~
+2 2111 2243 15
+D2
+~
+~
+0 0 2454447 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2243
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.    
+~
+21 0 0
+D0
+~
+~
+0 0 2244 0
+D2
+~
+cancello~
+2 2111 2242 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2244
+La Stanzetta della &5Ninfa&0~
+Questa Stanzetta funge da raccordo tra le arie sezioni del corridoio, Al centro
+si trova una bellissima Fontana raffigurante una Ninfa che ammalia un uomo.  
+Un vero capolavoro.    
+~
+21 4 0
+D0
+~
+~
+0 0 2245 0
+D1
+~
+~
+0 0 2253 0
+D2
+~
+~
+0 0 2243 0
+D3
+~
+~
+0 0 2263 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2245
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.  Il muro sembra essere dipinto d'un
+colore leggermente piu' chiaro, qui.    
+~
+21 0 0
+D0
+~
+muro~
+0 0 2246 18
+D2
+~
+muro~
+1 0 2244 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2246
+Un Passaggio Segreto!~
+Hey!  Cos'e' questo corridoio dietro il finto muro?  Non puo' essere...  Forse
+hai trovato l'ingresso alle stanze private del conte Barl!    
+~
+21 4 0
+D2
+~
+muro~
+1 0 2245 3
+D5
+~
+~
+0 0 2280 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2247
+La &2Grande Biblioteca &6di &1Barl&0~
+Che spettacolo!  Non hai mai visto una raccolta di volumi tanto imponente!  Vi
+sono Testi appartenenti ad i piu' grandi scrittori di tutti i tempi...  
+Racconti del Reggente di Aldaria Khardan, di Galadriel degli spiriti, i vecchi
+racconti di Roland di Gilead...  E sono tutti in edizione originale!    
+~
+21 0 0
+D0
+~
+~
+0 0 2248 0
+D2
+~
+~
+0 0 2288 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2248
+Nel &1Cuore &6della &2Biblioteca&0~
+E' di certo una collezione imponente!  In quest'area sono raccolte tutti i
+testi sacri cari alle divinita' della Daresia...  Vi si trovano quelli di tutte
+le divinita' conosciute ed anche di qualcuna sconosciuta...    
+~
+21 0 0
+D0
+~
+~
+0 0 2249 0
+D1
+~
+~
+0 0 2251 0
+D2
+~
+~
+0 0 2247 0
+D3
+~
+~
+0 0 2250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2249
+La Stanza privata del Conte Barl~
+Benvenuto nel regno del Conte Barl!  Quest' ufficio e' pieno di carte dal
+valore assurdo!  Pergamene magiche di inaudita potenza, rituali oscuri non
+formulati da secoli, vecchie formule alchemiche...  Sei giunto nel luogo dove
+sono raccolte tutte le conoscenze occulte della razza umana!    
+~
+21 0 0
+D1
+~
+~
+0 0 2290 0
+D2
+~
+~
+0 0 2248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2250
+La &2Grande Biblioteca &6di &1Barl&0~
+Libri ovunque!  In questa sezione sono racolti testi scientifici sulla flora e
+sulla fauna della Daresia, molte delle conoscenze scientifiche di questa terra
+sono convogliate qui'!    
+~
+21 0 0
+D1
+~
+~
+0 0 2248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2251
+La &2Grande Biblioteca &6di &1Barl&0~
+In quest'ala della Biblioteca e' contenuta molta della saggezza popolare del
+popolo della Daresia.  Vi si trovano infatti Ballate, indovinelli, storie e
+leggende su furbi contadini e sciocchi gaglioffi, poesie etniche e molto molto
+altro.    
+~
+21 0 0
+D3
+~
+~
+0 0 2248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2252
+La saletta della &b&7Musica&0~
+In questa piccola sala, dalla forma ovale, trovi molti strumenti tipici della
+Daresia.  Arpe, Liuti, tamburini sono tutti raccolti qui, in stato perfetto.  
+Alcuni di questi sono Evidentemente antichi.    
+~
+21 0 0
+D0
+~
+porta~
+1 0 2253 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2253
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.    
+~
+21 0 0
+D0
+~
+~
+0 0 2254 0
+D2
+~
+porta~
+1 0 2252 3
+D3
+~
+~
+0 0 2244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2254
+La saletta della &b&4Arti&0~
+In questa saletta sono riposti dipinti, statuette, arazzi e quant'altro la
+mente umana possa aver prodotto nella Daresia.  Molti di questi oggetti
+sembrano essere pregiatissimi.    
+~
+21 0 0
+D2
+~
+~
+0 0 2253 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2255
+Un sentiero poco frequentato~
+Sterpaglia ed erbacce fanno ben intuire che il sentiero non e' usato
+frequentemente.  A quanto pare si dirige verso un laghetto in zona.    
+~
+21 0 0
+D1
+~
+~
+0 0 2256 0
+D3
+~
+~
+0 0 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2256
+Un sentiero poco frequentato~
+Sterpaglia ed erbacce fanno ben intuire che il sentiero non e' usato
+frequentemente.  A quanto pare si dirige verso un laghetto in zona.    
+~
+21 0 0
+D2
+~
+~
+0 0 2257 0
+D3
+~
+~
+0 0 2255 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2257
+Un sentiero poco frequentato~
+Sterpaglia ed erbacce fanno ben intuire che il sentiero non e' usato
+frequentemente.  A quanto pare si dirige verso un laghetto in zona.    
+~
+21 0 0
+D0
+~
+~
+0 0 2256 0
+D2
+~
+~
+0 0 2289 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2258
+La camera degli Ospiti~
+Sei appena entrato in una piccola reggia!  Un grande letto a baldacchino domina
+la scena, mentre un'ampia finestra permette d'osservare nella sua bellezza il
+territorio Daresiano.    
+~
+21 0 0
+D0
+~
+porta~
+1 0 2263 3
+D3
+~
+~
+0 0 2259 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2259
+Il Bagno degli ospiti~
+Un lussuoso Bagno, con rifiniture in marmo ed in porcellana.  Dev'essere
+proprio piacevole esser ospiti del conte!    
+~
+21 0 0
+D0
+~
+~
+0 0 2260 0
+D1
+~
+~
+0 0 2258 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2260
+La camera degli Ospiti~
+Sei appena entrato in una piccola reggia!  Un grande letto a baldacchino domina
+la scena, mentre un'ampia finestra permette d'osservare nella sua bellezza il
+territorio Daresiano.    
+~
+21 0 0
+D1
+~
+porta~
+1 0 2263 3
+D2
+~
+~
+0 0 2259 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2261
+La Sala di &2Smeraldo&0~
+La seconda parte del grande salone e' invece piena di smeraldi!  Di certo il
+conte Barl ama dimostrare in maniera sfacciata la sua ricchezza!    
+~
+21 0 0
+D1
+~
+~
+0 0 2262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2262
+La sala di &1Rubino&6&0~
+Questa sala e' completamente tapezzata di Rubini!  A quanto pare dev'essere una
+sala che il conte Barl usa per il ricevimento dei suoi ospiti.    
+~
+21 0 0
+D2
+~
+~
+0 0 2263 0
+D3
+~
+~
+0 0 2261 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2263
+Un Meraviglioso Corridoio~
+Sei in un corridoio Stupendo, pieno di affreschi ai muri, ed con il pavimento
+in avorio ed oro, l'illuminazione e' ben curata, grazie ad alcuni globi magici
+che inondano il corridoio con i loro raggi.    
+~
+21 0 0
+D0
+~
+~
+0 0 2262 0
+D1
+~
+~
+0 0 2244 0
+D2
+~
+porta~
+1 0 2258 3
+D3
+~
+porta~
+1 0 2260 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2264
+L'ingresso al bastione Orientale~
+Ti trovi davanti il bastione orientale della Roccaforte, che, come quello
+occidentale, e' notevolmente piu' piccolo del Bastione centrale.  In questa
+zona sembrano trovarsi le cucine e le stanze dei Servi.    
+~
+21 0 0
+D1
+~
+Portone~
+1 0 2265 3
+D3
+~
+~
+0 0 2454549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2265
+Un angusto corridoio~
+Questo corridoio e' molto sporco, ed e' evidente che questa zona non e' teenuta
+in ordine.  A quanto pare al padrone di questo Maniero non interessano le
+condizioni dei propri servi.    
+~
+21 0 0
+D0
+~
+~
+0 0 2266 0
+D3
+~
+portone~
+1 0 2264 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2266
+Un angusto corridoio~
+Questo corridoio e' molto sporco, ed e' evidente che questa zona non e' teenuta
+in ordine.  A quanto pare al padrone di questo Maniero non interessano le
+condizioni dei propri servi.    
+~
+21 0 0
+D0
+~
+~
+0 0 2267 0
+D1
+~
+~
+0 0 2269 0
+D2
+~
+~
+0 0 2265 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2267
+La cucina~
+In questa cucina vengono sfornate le delizie che il Conte Barl offre ad i suoi
+invitati nei giorni di gala.  La cucina e' piuttosto pulita, anche grazie al
+lavoro dello Chef, che obbliga chiunque alla massima igiene.    
+~
+21 0 0
+D2
+~
+~
+0 0 2266 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2268
+Il Magazzino dei cibi e delle bevande~
+Questo magazzino e' forse l'unica cosa sontuosa in questa parte del maniero!  
+Infatti vi trovi cibi e spezie rarissime, vini provenienti dalle migliori vigne
+di Chyrellos ed un sacco di Leccornie adatte anche ai palati piu' delicati!  
+
+~
+21 0 0
+D2
+~
+porta~
+1 0 2269 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2269
+Un angusto corridoio~
+Questo corridoio e' molto sporco, ed e' evidente che questa zona non e' tenuta
+in ordine.  A quanto pare al padrone di questo Maniero non interessano le
+condizioni dei propri servi.    
+~
+21 0 0
+D0
+~
+Porta~
+1 0 2268 3
+D2
+~
+~
+0 0 2270 0
+D3
+~
+~
+0 0 2266 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2270
+La stanza dei servitori~
+Un grosso stanzone e' stato addobbato per essere sfruttato come dormitorio per
+i pochi servi e manovali del Maniero.  Vi sono infatti posti letto per dieci
+persone, ed un paio di armadi comuni.    
+~
+21 0 0
+D0
+~
+~
+0 0 2269 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2271
+Ingresso al Bastione Occidentale~
+Il bastione Occidentale dev'essere usato dalle guardie del Conte come caserma,
+infatti noti molti uomini in uniforme che parlottano, ed un gran trambusto
+all'interno.    
+~
+21 4 0
+D1
+~
+~
+0 0 2454545 0
+D3
+Una Cancellata chiude il passaggio al bastione.
+~
+Cancellata~
+1 0 2272 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2272
+Un semplice corridoio~
+Il corridoio non e' ornato con magnificienza, ma conserva un gusto
+particolarmente militaresco, probabilmente le guardie dei dragoni
+apprezzerebbero lo stile...    
+~
+21 0 0
+D0
+~
+~
+0 0 2275 0
+D1
+~
+porta~
+1 0 2271 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2273
+La camera di Verax~
+La camera del Capitano Verax, il capitano delle guardie del conte, e'
+nettamente piu' ricca del resto del bastione Occidentale.  Vi si trovano
+infatti molti gingilli ed orpelli, probabilmente guadagnati dal capitano in
+qualche razzia.    
+~
+21 0 0
+D0
+~
+porta~
+1 0 2274 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2274
+Un semplice corridoio~
+Il corridoio non e' ornato con magnificienza, ma conserva un gusto
+particolarmente militaresco, probabilmente le guardie dei dragoni
+apprezzerebbero lo stile...    
+~
+21 0 0
+D0
+~
+porta~
+1 0 2277 3
+D1
+Nothing.
+~
+~
+0 0 2275 0
+D2
+~
+porta~
+1 0 2273 3
+D3
+~
+~
+0 0 2279 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2275
+Un semplice corridoio~
+Il corridoio non e' ornato con magnificienza, ma conserva un gusto
+particolarmente militaresco, probabilmente le guardie dei dragoni
+apprezzerebbero lo stile...    
+~
+21 0 0
+D0
+~
+porta~
+1 0 2276 3
+D2
+~
+~
+0 0 2272 0
+D3
+~
+~
+0 0 2274 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2276
+La mensa~
+Ti trovi nella mensa dei soldati, Un buon odore di pane allo zenzero e
+&G&1Zuppa di Drago&0 riempie l'aria.  I Soldati si trattano proprio bene!    
+~
+21 0 0
+D2
+~
+porta~
+1 0 2275 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2277
+Il Dormitorio~
+Le guardie del conte, come nella migliore tradizione militare, dormono tutte
+nella stessa camerata.  La camerata e' spaziosa ed accogliente, con un grande
+camino sempre acceso durante l'inverno.    
+~
+21 0 0
+D2
+~
+porta~
+1 0 2274 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2279
+La Sala allenamento~
+In questa stanza le guardie del Conte Barl si allenano, per questo scopo sono
+stati allestiti vari manichini ed e' possibile trovare un sacco di armi in
+legno.    
+~
+21 0 0
+D1
+~
+~
+0 0 2274 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2280
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2280 0
+D1
+~
+~
+0 0 2280 0
+D2
+~
+~
+0 0 2281 0
+D3
+~
+~
+0 0 2280 0
+D4
+~
+~
+0 0 2246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2281
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2281 0
+D1
+~
+~
+0 0 2282 0
+D2
+~
+~
+0 0 2281 0
+D3
+Nothing.
+~
+~
+0 0 2280 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2282
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2281 0
+D1
+~
+~
+0 0 2283 0
+D2
+~
+~
+0 0 2280 0
+D3
+~
+~
+0 0 2281 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2283
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2284 0
+D1
+~
+~
+0 0 2280 0
+D2
+~
+~
+0 0 2281 0
+D3
+~
+~
+0 0 2282 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2284
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2281 0
+D1
+~
+~
+0 0 2282 0
+D2
+~
+~
+0 0 2280 0
+D3
+~
+~
+0 0 2285 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2285
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2286 0
+D1
+~
+~
+0 0 2282 0
+D2
+~
+~
+0 0 2281 0
+D3
+Nothing.
+~
+~
+0 0 2283 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2286
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2282 0
+D1
+~
+~
+0 0 2283 0
+D2
+~
+~
+0 0 2284 0
+D3
+~
+~
+0 0 2287 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2287
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2281 0
+D1
+~
+~
+0 0 2283 0
+D2
+~
+~
+0 0 2280 0
+D3
+Nothing.
+~
+~
+0 0 2288 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2288
+Un ammasso di scaffali!~
+Vedi solo libri su libri...  Ma questi non hanno alcun valore!  Dove sono le
+ricchezze che ti sono state promesse?!?    
+~
+21 1 0
+D0
+~
+~
+0 0 2247 0
+D1
+~
+~
+0 0 2281 0
+D2
+~
+~
+0 0 2283 0
+D3
+~
+~
+0 0 2281 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2289
+Un placido laghetto~
+La limpida acqua di questo laghetto lambisce i tuoi piedi, e la sensazione di
+pace ed armonia in questo luogo sembra diffondersi come la luce.  Forse
+potresti fare una nuotatina, l'acqua non sembra particolarmente mossa.    
+~
+21 0 0
+D1
+~
+~
+0 0 2100 0
+D3
+~
+~
+0 0 2257 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2290
+una piccola scalinata~
+Questa piccola scalinata sembra risalire verso la superficie.    
+~
+21 5 0
+D3
+~
+~
+0 0 2249 0
+D4
+~
+~
+0 0 2455158 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

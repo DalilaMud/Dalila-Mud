@@ -1,0 +1,1102 @@
+#31100
+&6La nave dei cieli&0~
+Ti trovi su un grande galeone da tre alberi.  Nessun equipaggio, nessun
+capitano..  Le vele vecchie e bucate sferzate dal vento..  E quando ti affacci
+a guardare l'orizzonte rimani stupefatto!  Sotto di te non v'e' il mare, non
+sono le onde a spingere questa nave!  Galleggia nel cielo infinito tra nuvole e
+stelle, lontano dalla superficie e dal mondo...  Veleggia lentamente, in
+viaggio verso dimensioni e universi perduti
+~
+311 0 0
+D5
+~
+~
+0 0 1494500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31101
+La lama di Uther~
+Questo piccolo negozio e' completamente scavato nella roccia..  Vecchie
+rastrelliere sono ordinatamente disposte lungo le pareti e riempite con armi di
+tutti i tipi, per lo piu' abbastanza scadenti.  Noti che su un lato della
+stanza c'e' un'altra porta che da' su un piccolo laboratorio con forgia e
+fornace, da cui proviene un gran caldo.    
+~
+311 0 0
+D1
+~
+~
+0 0 31111 0
+D3
+~
+porta~
+1 0 31102 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31102
+L' ingresso dei grandi sotterranei~
+Ti trovi in una grande caverna naturale, dalla quale si dividono decine di
+corridoi.  Una volta sceso dalla scaletta in pietra, hai subito notato sulla
+parete di fronte a te una porticina con un'insegna raffigurante due spade
+incrociate illuminate da una torcia.  Le diramazioni dei corridoi sono invece
+avvolte nell'oscurita'.    
+~
+311 12 0
+D0
+~
+~
+0 0 31103 0
+D1
+~
+porticina~
+1 0 31101 3
+D3
+~
+~
+0 0 31104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31103
+I grandi cunicoli~
+E' incredibile e inquietante..  Cammini attraverso lunghi corridoi scavati
+nella pietra, indistinguibili l'uno dall'altro, la cui larghezza varia dai due
+ai venti metri a sbalzi improvvisi.  Sperando che l'aria non venga a mancare in
+questo infossamento ti viene in mente che forse sarebbe utile lasciare dei
+segni per non perdere l'orientamento.    
+~
+311 0 0
+D0
+~
+~
+0 0 31105 0
+D2
+~
+~
+0 0 31102 0
+D3
+~
+~
+0 0 31106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31104
+I grandi cunicoli~
+E' incredibile e inquietante..  Cammini attraverso lunghi corridoi scavati
+nella pietra, indistinguibili l'uno dall'altro, la cui larghezza varia dai due
+ai venti metri;a sbalzi improvvisi.  Sperando che l'aria non venga a sbalzi
+improvvisi.  Sperando che l'aria non venga a mancare in questo infossamento ti
+viene in mente che forse sarebbe utile lasciare dei segni per non perdere
+l'orientamento.    
+~
+311 0 0
+D0
+~
+~
+0 0 31106 0
+D1
+~
+~
+0 0 31102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31105
+I grandi cunicoli~
+E' incredibile e inquietante..  Cammini attraverso lunghi corridoi scavati
+nella pietra, indistinguibili l'uno dall'altro, la cui larghezza varia dai due
+ai venti metri;a sbalzi improvvisi.  Sperando che l'aria non venga a sbalzi
+improvvisi.  Sperando che l'aria non venga a mancare in questo infossamento ti
+viene in mente che forse sarebbe utile lasciare dei segni per non perdere
+l'orientamento.    
+~
+311 0 0
+D0
+~
+~
+0 0 31175 0
+D2
+~
+~
+0 0 31102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31106
+I grandi cunicoli~
+E' incredibile e inquietante..  Cammini attraverso lunghi corridoi scavati
+nella pietra, indistinguibili l'uno dall'altro, la cui larghezza varia dai due
+ai venti metri;a sbalzi improvvisi.  Sperando che l'aria non venga a sbalzi
+improvvisi.  Sperando che l'aria non venga a mancare in questo infossamento ti
+viene in mente che forse sarebbe utile lasciare dei segni per non perdere
+l'orientamento.    
+~
+311 0 0
+D0
+~
+~
+0 0 31107 0
+D1
+~
+~
+0 0 31103 0
+D2
+~
+~
+0 0 31104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31107
+I grandi cunicoli~
+E' incredibile e inquietante..  Cammini attraverso lunghi corridoi scavati
+nella pietra, indistinguibili l'uno dall'altro, la cui larghezza varia dai due
+ai venti metri;a sbalzi improvvisi.  Sperando che l'aria non venga a sbalzi
+improvvisi.  Sperando che l'aria non venga a mancare in questo infossamento ti
+viene in mente che forse sarebbe utile lasciare dei segni per non perdere
+l'orientamento.    
+~
+311 0 0
+D0
+~
+~
+0 0 31201 0
+D2
+~
+~
+0 0 31106 0
+D3
+~
+~
+0 0 31113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31111
+La stanza degli artefatti e dei macchinari~
+Che posto assurdo!!  E' il laboratorio della bottega di Uther, dove ti sembrava
+di vedere forgia e fornace si trovano in realta' macchinari molto piu'
+complessi, tra l'altro circondati da alambicchi, strumenti e oggetti
+assolutamente demenziali.  Dagol ti spiega che utilizza il materiale di rifiuto
+di Uther per realizzare i suoi stranissimi artefatti!    
+~
+311 0 0
+D3
+~
+~
+0 0 31101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31112
+MAGAZZINO PROVA~
+You are in an unfinished room.
+~
+311 4398046511120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31113
+Una grotta piu' grande~
+L'ambiente di questa grotta, piu' spazioso e areggiato, si distacca
+piacevolmente da quello dei corridoi appena attraversati e ti lascia il tempo
+di tirare un sospiro di sollievo.  Osservando una moltitudine di rifiuti e
+impronte coprire il pavimento scomposto, deduci che deve trattarsi di una zona
+molto camminata.  Altri corridoi comunque si diramano in tutte le direzioni..
+Gia'..  E da quale sei venuto!?    
+~
+311 0 0
+D2
+~
+~
+0 0 31104 0
+D3
+~
+~
+0 0 31114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31114
+Il corridoio di pietra~
+Questo corridoio si direbbe scavato dal corso di un fiume e reso camminabile
+dalle mani di qualcuno, poiche' il pavimento e' piattissimo e mucchi di pietre
+giacciono appoggiate alle mura.  A tratti ti sembra addirittura di calpestare
+piastrelle cementificate, inconfutabile simbolo della lavorazione.  L'aria
+resta ad ogni modo viziata, e il soffitto solcato da alte stalattiti.    
+~
+311 0 0
+D1
+~
+~
+0 0 31113 0
+D3
+~
+~
+0 0 31115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31115
+Il corridoio di pietra~
+Il corridoio continua, allargandosi radicalmente, l'aria e' sempre respirabile
+ma hai la brutta sensazioni di starti inabissando.  Alcuni vecchissimi picconi
+sono stati gettati sulle pareti e in un angolo una vena d'acqua ha formato una
+piccola polla naturale, nella quale potrai rinfrescarti.    
+~
+311 0 0
+D1
+~
+~
+0 0 31114 0
+D3
+~
+~
+0 0 31116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31116
+La diramazione del corridoio~
+Il lungo corridoio sotterraneo si divide ora in due rami.  Uno gira bruscamente
+a destra, attraverso uno strettissimo buco nella roccia.  L'altro ne sembra
+invece la prosecuzione naturale, sebbene immediatamente dopo la svolta il
+soffitto si faccia molto piu' basso e svaniscano i segni della presunta
+attivita' architettonica.    
+~
+311 0 0
+D0
+~
+~
+0 0 31117 0
+D1
+~
+~
+0 0 31115 0
+D2
+~
+~
+0 0 31140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31117
+Attraverso il buco~
+Decidi di avventurarti attraverso il buco nella pietra ma gia' dopo il primo
+passo qualcosa ti fa desistere...  Il terreno, prima di solidissima roccia
+granitica, sembra essere friabile e cedevole, come se stessi camminando su una
+massa gia' franata.  Con molta cautela cerchi di farti strada..    
+~
+311 0 0
+D0
+~
+~
+0 0 31118 0
+D2
+~
+~
+0 0 31116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31117
+#31118
+Un corridoio lastricato~
+Il buco si allarga su un altro piccolo corridoio, e non appena ne esci un
+fortissimo rumore ti manda il cuore in gola...  Dietro di te la molliccia terra
+sulla quale hai camminato sembra essere franata!!!  Chissa' dove andresti a
+finire ora tentando di tornare indietro..  Ad ogni modo il corridoio in cui ti
+trovi e' lastricato da mattonelle rossicce, probabilmente porta in qualche
+luogo frequentato.    
+~
+311 0 0
+D3
+~
+~
+0 0 31119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31119
+Il corridoio verso Nad'Gare~
+Ti ritrovi improvvisamente in mezzo a un viavai di figure piu' o meno losche, e
+guardando poco lontano ti rendi conto di esserti avvicinato ad un centro
+abitato.  Su una parete coperta da rossi mattoni spicca un cartello:
+
+&1Nad'Gare &7 - &0Vietato l'accesso alle lingue lunghe.
+~
+311 0 0
+D1
+~
+~
+0 0 31118 0
+D3
+~
+~
+0 0 31120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31120
+L'entrata di &1Nad'Gare&0~
+Arrivi ad un piccolo portone, che da' accesso a questo misterioso villaggio
+sotterraneo.  Due sentinelle sorvegliano l'entrata, che conduce direttamente
+all'unica strada del complesso.  I volti loschi si fanno piu' frequenti, e se
+l'idea di arrivare in un centro popolato ti attirava ora ti senti davvero a
+disagio.    
+~
+311 0 0
+D1
+~
+~
+0 0 31119 0
+D3
+~
+~
+0 0 31121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31121
+la piazza di &1Nad'Gare&0~
+Non appena superi il portone accedi alla piccola piazza, e noti con sgomento
+che il presunto villaggio non e' altro che un agglomerato di una decina di
+edifici e 2-3 vicoli mal frequentati.  Mentre il tuo disagio aumenta,
+circondato da volti che ti fissano minacciosamente, noti che a sud un vicolo
+porta ad un'osteria dalla quale si ode una graziosa musica.    
+~
+311 0 0
+D0
+~
+~
+0 0 31123 0
+D1
+~
+~
+0 0 31120 0
+D2
+~
+~
+0 0 31122 0
+D3
+~
+~
+0 0 31124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31122
+L'osteria sotterranea~
+Finalmente!  Un posto caldo e amichevole!  Che quasi ti strappa un sorriso,
+dato che la tua entrata e' stata accolta da un'allegra melodia di cornamusa e
+un brindisi istantaneo.  Evidentemente la gente che tanto sembrava losca altro
+non cercava che un po' di divertimento.  Creature di tutti i tipi, ma
+fondamentalmente uomini e nani del sottosuolo, urlano e cantano ubriachi tra un
+pugno in faccia e una pacca alla cameriera.    
+~
+311 0 0
+D0
+~
+~
+0 0 31121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31123
+Un vecchio edificio di &1Nad'Gare&0~
+Si direbbe un vecchissimo dormitorio, dato che vedi allineate alcune panche di
+mogano semidistrutte dai tarli e alcuni illeggibili tabelloni apparentemente
+utilizzati per lo smistamento dei visitatori.  Ad ogni modo e' rimasto un
+orribile puzzo di chiuso, e in effetti dare aria al locale e' abbastanza
+improbabile.  Noti una piccola botola mezza scoperta in uno degli angoli.    
+~
+311 0 0
+D2
+~
+~
+0 0 31121 0
+D5
+~
+~
+0 0 31130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31124
+Le strade di &1Nad'Gare&0~
+Intraprendi il tuo cammino lungo le stradine del villaggio, che si rivela
+essere piu' piccolo di quanto immaginavi.  Dopo pochi metri la strada si
+interrompe bruscamente e alcune grossolane transenne sembrano delimitare la
+fine di Nad'Gare.  A Nord osservi uno splendido edificio completamente scolpito
+nella nuda roccia ed eccezionalmente rifinito.  Una vera opera d'arte, a
+dispetto del cartello che lo identifica come un magazzino.    
+~
+311 0 0
+D0
+~
+~
+0 0 31125 0
+D1
+~
+~
+0 0 31121 0
+D2
+~
+~
+0 0 31126 0
+D3
+~
+~
+0 0 31127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31125
+Il magazzino di &1Nad'Gare&0~
+Questa poi..  Il magazzino, all'esterno una vera opera d'arte decorata con
+archi in quarzo bianco e portone in frassino dipinto, appena entri si rivela un
+miserabile stanzone di 6 metri per 6 circa, con casse buttate ovunque e una
+fastidiosissima puzza di chiuso.  I mattoni sono rossastri e opachi, manca la
+pavimentazione e merce inutilizzabile e' disordinatamente gettata ovunque.    
+~
+311 0 0
+D2
+~
+~
+0 0 31124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31126
+L'arena di &1Nad'Gare&0~
+Arrivi in un piazzale sterrato e recintato, attorno al quale sono stati montati
+grossolani spalti di pietra.  Un gruppo di loschi figuri sta accordando
+scommesse per il combattimento tra due grotteschi animali che ancora non riesci
+ad identificare.  Abbastanza disgustato da questa gente ti chiedi se non sia il
+caso di andarsene.  Ma forse con un po' di sangue freddo (e viscido) potresti
+sperare di guadagnarti qualcosa.    
+~
+311 131072 0
+D0
+~
+~
+0 0 31124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31127
+I confini di &1Nad'Gare&0~
+Qui l'unica strada del villaggio dapprima perde la pavimentazione, poi si
+interrompe bruscamente in uno strapiombo arginato da rozze transenne in legno
+vecchio e marcio.  Alcune figure passeggiano nell'oscurita', ognuno con
+qualcosa che brucia negli occhi, ognuno che in questo momento sembra trovarsi
+qui per il tuo stesso motivo.  Ovvero per nessuna ragione.    
+~
+311 0 0
+D1
+~
+~
+0 0 31124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31130
+Una cantina~
+Ti trovi in una piccola, buia stanza che probabilmente un tempo serviva da
+cantina al dormitorio sovrastante.  Ora del mobilio e' rimasto solo un vecchio
+armadio corroso dal tempo, e qualche inutile cianfrusaglia.  Uno dei quattro
+muri e' molto rovinato, mezzo franato come se qualcuno lo avesse preso a
+picconate.  Non ti sembra ci siano altre uscite se non la botola da cui vieni e
+in realta' questo posto asfissiante ti fa venire voglia di imboccarla subito.
+  
+~
+311 0 0
+D4
+~
+~
+0 0 31123 0
+D5
+~
+~
+0 0 31230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31140
+Uno scuro, stretto passaggio~
+Ti fai strada attraverso uno strettissimo, buio passaggio scavato rozzamente
+nella roccia.  Le pareti sono umide e marce ma sembra che qualcuno sia passato
+molto di recente.  In lontananza, attraverso le pareti di oscurita', ti sembra
+di sentire gorgogliare dell'acqua corrente.    
+~
+311 0 0
+D0
+~
+~
+0 0 31116 0
+D3
+~
+~
+0 0 31141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31141
+Il fiume sotterraneo~
+Ti trovi in un altro altissimo corridoio ricchissimo di stalattiti calcaree.  
+Di fronte a te scorre impetuoso un gelido fiume sotterraneo dall'acqua
+cristallina, i cui flutti rimbombano sui numerosi scogli affioranti,
+echeggiando nel corridoio come immensi tamburi.  Quasi affascinato dalla scena,
+cammini in uno slargo pietroso di 4-5 metri che prosegue nel buio, parallelo al
+fiume.    
+~
+311 4 0
+D1
+~
+~
+0 0 31140 0
+D2
+~
+~
+0 0 31142 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31142
+Lungo il corso dell'Esidur~
+Continui a camminare lungo il corso del fiume, lanciandoti uno sguardo alle
+spalle ogni tanto.  In realta', nonostante tra due secolari mura, non riesci a
+fare a meno di sentirti osservato.  Noti che in un lato del fiume e' stato
+costruito un piccolo pontile, ma ti chiedi se davvero possa esistere qualcuno
+tanto folle da voler navigare questo stretto micidiale.    
+~
+311 0 0
+D0
+~
+~
+0 0 31141 0
+D2
+~
+~
+0 0 31143 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31143
+Dall'altra parte dell'Esidur~
+Lo slargo che attraversavi gira ora bruscamente dall'altro lato del fiume, in
+una sorta di ponte roccioso.  Un'opera d'arte della natura, tra l'altro molto
+stabile per quanto stretto..  Ti incammini sull'altra sponda, osservando
+l'acqua cristallina esplodere in onde schiumose e pericolosi vortici aprirsi e
+chiudersi sulla sua superficie.    
+~
+311 0 0
+D0
+~
+~
+0 0 31142 0
+D2
+~
+~
+0 0 31144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31144
+Lungo il corso dell'Esidur~
+Continui a camminare lungo il fiume, ma il terreno si fa velocemente fangoso e
+pieno di sassolini.  Quando il passaggio si stringe e i tuoi piedi iniziano ad
+affondare, ti chiedi se e' il caso di proseguire.  Mentre decidi sul da farsi
+noti che alla tua destra una spaccatura nel muro da' inizio all'ennesimo,
+misterioso tunnel
+~
+311 0 0
+D0
+~
+~
+0 0 31143 0
+D2
+~
+~
+0 0 31145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31145
+La fine dell'Esidur~
+Quando il fango ti arriva ormai alle ginocchia ti trovi di fronte ad una
+sorpresa..!  Il fiume qui si rigetta in un'enorme, altissima cascata a una
+decina di metri da te, che sei costretto ad interrompere il cammino.  A meno
+che tu non sia abbastanza pazzo da voler tentare la discesa, ovviamente...  Lo
+sei..?    
+~
+311 0 0
+D0
+~
+~
+0 0 31144 0
+D5
+~
+~
+0 0 31146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31146
+Travolto dalla cascata!~
+Deciso a tentare un folle tutto per tutto, ti lanci nei flutti dell'Esidur.  
+La corrente ti trascina con violenza e in pochi istanti senti il vuoto..  
+L'alta cascata d'acqua ti scaraventa per lunghi metri, fino a sbatterti con
+impeto sulle rocce sottostanti.  Per un istante e' tutto nero...  Un lungo
+istante...    
+~
+311 4 6
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31146
+#31147
+Su un argine sassoso~
+A fatica ti rialzi e ti guardi intorno..  Sei riuscito a trascinarti su un
+argine pietroso e pieno di terriccio, miracolosamente ancora in vita.  Riesci a
+tirarti in ginocchio e guardi dietro di Te...  La grande cascata crolla
+incessante, e il suo flusso sparisce velocemente attraverso un canale
+sotterraneo.  Alla tua sinistra si apre un grande, misterioso corridoio buio..
+Risalire la cascata e' impossibile anche con un incantesimo, quindi senti di
+non avere altra scelta.    
+~
+311 0 0
+D3
+~
+~
+0 0 31148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31148
+Un passaggio nel buio~
+Attraversi lo stretto passaggio e ti ritrovi in un corridoio ancor piu'
+stretto, tanto che devi quasi accovacciarti per riuscire a muoverti.  Speri che
+finisca in fretta o almeno prima che tu diventi claustrofobico, e piano piano
+ti incammini appoggiandoti alle pareti.    
+~
+311 0 0
+D1
+~
+~
+0 0 31147 0
+D3
+~
+~
+0 0 31149 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31149
+Attraverso pareti di roccia~
+Cammini tra altissime pareti di roccia nera, in una sorta di canyon dal cielo
+coperto.  Il terreno e' sabbioso, e ti preoccupi al pensiero che possa essere
+stato scavato dall'Esidur, o piu' che altro che il fiume possa svegliarsi e
+tornare all'attacco.  Ma in fondo tutto attorno e' asciutto, e c'e' poca
+umidita', l'aria e' persino quasi respirabile..    
+~
+311 0 0
+D0
+~
+~
+0 0 31150 0
+D1
+~
+~
+0 0 31148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31150
+L'accesso alla miniera~
+Il pavimento si fa duro e pietroso, e il passaggio si allarga leggermente.  
+Camminando, il sentiero sotterraneo si interrompe di fronte ad un grande
+squarcio nella pietra che si apre su un enorme cunicolo.  All'ingresso di
+questa strana struttura, su una grossa tavola di roccia levigata scolpita nel
+muro sono state incise alcune parole in lingua dei nani, tra le quali a
+malapena distingui il termine "miniera".  Molto probabilmente sei all'accesso
+(o all'uscita)
+~
+311 0 0
+D0
+~
+~
+0 0 31151 0
+D2
+~
+~
+0 0 31149 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31151
+Camminando lungo la miniera~
+Senza dubbio scavata artificialmente, questa miniera (ormai abbandonata) e'
+misteriosamente aereata.  Guardandoti intorno ti accorgi che sul soffitto sono
+stati praticati dei fori dai quali entra aria corrente, e ti chiedi quale mente
+geniale possa aver realizzato un'opera tanto impensabile.  Camminando sul
+sentiero inciampi spesso su vecchissimi strumenti abbandonati e coperti da
+un'altissima cortina di polvere.    
+~
+311 0 0
+D0
+~
+~
+0 0 31152 0
+D2
+~
+~
+0 0 31150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31152
+Il filone d'argento~
+Camminando tra il labirinto di cunicoli arrivi finalmente in un luogo piuttosto
+interessante.  E' una larghissima grotta dalle pareti scomposte, il pavimento
+e' stato malamente costruito con mattoncini di ghiaia e vecchissimi strumenti
+da lavoro sono buttati ovunque.  Analizzando la superficie delle pareti noti
+che a tratti tra la roccia spiccano scure colate metalliche.  Abituato alle
+forgie dei fabbri, ti sembra di riconoscere un grosso filone d'argento grezzo!!
+  
+~
+311 0 0
+D0
+~
+~
+0 0 31154 0
+D1
+~
+~
+0 0 31153 0
+D2
+~
+~
+0 0 31151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31153
+La grande vena d'oro~
+Qualche passo distratto, ti guardi intorno e rimani a bocca aperta.  Alla tua
+destra, illuminata dal bagliore della tua luce, risplende una immensa,
+altissima vena dorata incastonata nelle rocce come un immenso gioiello, grezza
+ma impressionante, e probabilmente dal valore incommensurabile.  E la miniera
+e' abbandonata..!!  Quando ti avvicini per guardare meglio, sussulti di fronte
+a un grande cartello, posto su disordinate transenne in legno, sul quale
+risalta la scritta "NON TOCCARE" accompagnata da un grande teschio ad ossa
+incrociate!    
+~
+311 0 0
+D3
+~
+~
+0 0 31152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31153
+#31154
+Attraverso la miniera~
+I larghi corridoi della miniera sono qui definiti e piallati, alle mura sono
+appese torce ormai spente e bisunte, e a tratti mucchi di pietre grigie
+giacciono sommersi da un oceano di polvere.  Ti chiedi se non siano franate, e
+un secondo dopo ti chiedi se non possano franare ancora.  Nell'atrocita' del
+dubbio ti rimetti in cammino tranquillo e noncurante degli strani rumori.    
+~
+311 0 0
+D0
+~
+~
+0 0 31155 0
+D2
+~
+~
+0 0 31152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31155
+L'accesso alla miniera~
+Sei in una delle imboccature d'accesso della grande miniera sotterranea, da
+tempo abbandonata dai lavoratori dei sotterranei per causa misteriosa.  Il
+sentiero ciottolato a Nord si disperde nell'infinita catena di sotterranei che
+danno vita all'Underground..  A Sud c'e' l'entrata della struttura.  E ti
+sembra di sentire un melodico battere di pietre da dentro..    
+~
+311 0 0
+D1
+~
+~
+0 0 31300 0
+D2
+~
+~
+0 0 31154 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31175
+Il sentiero dei cristalli~
+Volti l'angolo e porti d'istinto le mani agli occhi.  Una forte luce brilla da
+ogni angolo delle pareti, quasi irritando i tuoi occhi abituati al buio pesto
+dei cunicoli.  Quando riesci a mettere a fuoco lo sguardo capisci di che si
+tratta: dappertutto nel corridoio cristalli bianchissimi brillano di misteriosa
+luce propria, in uno spettacolo assurdo e meraviglioso.  Un sentiero di
+normalissimo terriccio si fa strada tra i cristalli sotto ai tuoi piedi..    
+~
+311 0 0
+D0
+~
+~
+0 0 31176 0
+D2
+~
+~
+0 0 31105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31176
+Il sentiero dei cristalli~
+Il grande corridoio cristallino continua nella sua meravigliosa armonia di luci
+e riflessi, i cristalli sono tanti che non puoi appoggiarti alle pareti per non
+rischiare di tagliarti sulle loro superfici appuntite.  Quasi aumenta la tua
+nostalgia del cielo aperto, ma non puoi permetterti di volare con
+l'immaginazione ora che sei qui, perche' a dispetto della sua luce questo luogo
+potrebbe rivelarsi molto pericoloso.    
+~
+311 0 0
+D0
+~
+~
+0 0 31177 0
+D2
+~
+~
+0 0 31175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31177
+&6La grotta di cristallo&0~
+Il cielo sembra vivere in questa grotta di luce.  Appena ci metti piede sei
+illuminato dai milioni di cristalli che costellano le pareti, ancor piu' forti
+che nei corridoi, e trattieni il fiato per qualche istante.  La grotta e' larga
+e alta e al centro, sul soffitto, un'immensa gemma si impone sulle altre con un
+azzurro che sembra strappato al firmamento.  Una volta ripreso dalla sorpresa,
+ti accorgi che nel corridoio che segue i cristalli spariscono graduatamente.  
+
+~
+311 0 0
+D1
+~
+~
+0 0 31178 0
+D2
+~
+~
+0 0 31176 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31178
+Un corridoio nella roccia~
+Una normalissima galleria di pietra, scavata artificialmente e pavimentata con
+lastroni rocciosi, si estende davanti a te priva di diramazioni.  Una delle
+pareti e' stata ripetutamente incisa e rovinata, probabilmente da gente di
+passaggio..  E sulla stessa parete dopo un centinaio di metri si apre uno
+stretto passaggio illuminato da torce accese e sorretto da un'impalcatura in
+legno.  All'accesso e' appeso un &1Cartello&0 di marmo rosa.    
+~
+311 0 0
+D1
+~
+~
+0 0 31179 0
+D2
+~
+~
+0 0 31180 0
+D3
+~
+~
+0 0 31177 0
+E
+guarda cartello~
+Il cartello in marmo reca la seguente iscrizione:
+
+&5Fattoria e Coltivazione Fiori - Zio Buck&0
+
+Gia'.. ha tutta l'aria di uno scherzo..
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31179
+Il corridoio nella roccia~
+L'aria si fa lentamente meno rarefatta, il corridoio si allarga e con tuo
+grande stupore comincia a sembrare frequentato.  Diverse creature camminano sui
+lastroni di roccia avanti e indietro per dei piccoli corridoi pochi passi piu'
+avanti, e ti accorgi che a pochi passi da te la strada termina in un vero e
+proprio palazzo costruito nella roccia!!!    
+~
+311 0 0
+D1
+~
+~
+0 0 31183 0
+D3
+~
+~
+0 0 31178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31180
+La stradina~
+Un bellissimo pavimento in piastrelle bianche e mura levigate e piallate ti
+accolgono quando ti incammini per il piccolo corridoio.  Il soffitto e' stato
+inciso con cura ed e' sorretto da impalcature in quercia, e a tratti grandi
+torce accese illuminano l'ambiente con luci allegre.  Dopo aver camminato un
+pochino un inaspettato, delizioso profumo di fiori entra nelle tue narici..  E
+per un istante sei convinto di essere vittima di allucinazioni.    
+~
+311 0 0
+D0
+~
+~
+0 0 31178 0
+D2
+~
+~
+0 0 31181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31181
+La tenuta dello zio Buck~
+Il profumo di fiori aumenta notevolmente, forte e delizioso, tanto che ti
+sembra di vedere nuvole di petali aleggiare nell'aria.  Intorno a te tutto e'
+stato reso molto carino da mani artigiane.  E dopo qualche altro passo ti trovi
+di fronte ad una piccola casetta di legno, che delimita la fine del corridoio.
+Dentro una luce brilla accesa...    
+~
+311 0 0
+D0
+~
+~
+0 0 31180 0
+D2
+~
+~
+0 0 31182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31182
+La casetta dello zio Buck~
+Mille immagini..  Un piccolo camino, degli armadi, un letto, tutto scolpito con
+cura e decorato con maestria...  Ma cio' che ti lascia esterrefatto sono le
+decine di orologi a pendolo, di tutti i tipi, che dondolano ovunque intorno a
+te.  Da una finestra a destra scorgi un grandissimo giardino, mentre di fronte
+a te il caminetto brilla di fuoco vivo.    
+~
+311 0 0
+D0
+~
+~
+0 0 31181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31183
+Davanti al tempio di Lol'th~
+Il corridoio termina bruscamente in questo stranissimo edificio..  Un'enorme
+statua in altorilievo si sorregge su due grandi pilastri di pietra nera,
+costellati di piccole, brillanti torce che (almeno per quanto vociferano i
+passanti) bruciano magicamente in eterno.  Lol'th e' la dea del buio, e ti
+sembra di ricordare che gli elfi scuri la venerino arditamente, seppure
+pronunciando in modo diverso il suo nome.    
+~
+311 0 0
+D1
+~
+~
+0 0 31184 0
+D3
+~
+~
+0 0 31179 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31184
+L'altare del tempio di Lol'th~
+Attraversi le due alte colonne, sali alcuni bassi gradini di marmo e ti trovi
+al cospetto dell'altare...  Una struttura impressionante.  Una grandissima
+statua raffigura una mostruosa creatura simile ad un ragno dalle lunghe zampe e
+il volto di donna, sulla cui lunghissima lingua brilla la luce di un braciere.
+Due alti sacerdoti dalle vesti nere accolgono i numerosi fedeli, che si
+esibiscono in stranissimi rituali.  La stanza sembra scavata nella roccia...  
+
+~
+311 0 0
+D3
+~
+~
+0 0 31183 0
+D5
+~
+~
+0 0 31185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31185
+La cripta~
+Attraverso alcune scale trovate in fondo alla stanza dell'altare, ti inoltri in
+un corridoio scarsamente illuminato e molto inquietante...  Le pareti sono
+rovinate e graffiate, tutto e' unto e sporco.  Il corridoio termina in una
+piccola stanza esagonale, al centro della quale una grande tomba, scavata in un
+blocco di granito, custodisce i resti di un antico eroe di Lol'th..  Per il
+resto tutto e' molto spartano, e un corridoio davvero spaventoso si trova a
+nord.    
+~
+311 4 0
+D0
+~
+~
+0 0 31186 0
+D4
+~
+~
+0 0 31184 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31186
+La strada del terrore~
+Quel corridoio apparentemente minaccioso nel suo silenzio aveva tutte le
+ragioni di preoccuparti.  Dopo solo qualche passo ti senti circondato...  
+Dozzine di presenze spaventose, profumate di morte, sono dappertutto.  Spettri
+che si muovono in silenzio, ma anche orrendi corpi zombificati che si
+protendono verso di te.  Senti di doverti preparare ad un lungo combattimento
+~
+311 0 0
+D2
+~
+~
+0 0 31185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

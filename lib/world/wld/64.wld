@@ -1,0 +1,931 @@
+#6400
+Le Montagne della Paura~
+   Questo sentiero conduce su, su, verso le montagne.
+Prega di non cadere, perche' ti faresti molto,  molto
+male!    Il sentiero continua a est, ma puoi scendere
+verso la piccola valle nascosta a ovest.
+~
+64 0 5
+D1
+~
+~
+0 -1 6401 0
+D3
+~
+~
+0 0 1523550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6401
+Le Montagne della Paura~
+   Adesso sei veramente in alto.  Puoi continuare in
+su verso le montagne a est, o tornare verso il basso
+a ovest.
+~
+64 0 5
+D1
+~
+~
+0 -1 6402 0
+D3
+~
+~
+0 -1 6400 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6402
+Le Montagne della Paura~
+   Lembi di nuvole ti circondano,  e le orecchie si
+chiudono per l'altitudine.  A est riesci a scorgere
+la sommita' della montagna e dalla forma con cui le
+cime sono disposte dietro ad essa,  ti sembra possa
+nascondere una grande vallata.  Puoi anche scendere
+verso ovest.
+~
+64 0 5
+D1
+~
+~
+0 -1 6403 0
+D3
+~
+~
+0 -1 6401 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6403
+Vicino al Picco della Montagna~
+   La cima della montagna e' a un centinaio di metri sopra
+la tua testa, ma proprio qui il sentiero svolta giu' verso
+la valle...  Che incredibile scenario!
+   La vallata sembra essere  stata  riempita  da centinaia
+di metri di lava molti anni fa. L'impressione che da e' di
+un suolo stranamente scuro e piatto.   Il cammino prosegue
+verso east nella valle e ad ovest verso la civilta'.
+~
+64 0 5
+D1
+~
+~
+0 -1 6404 0
+D3
+~
+~
+0 -1 6402 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6404
+Il Sentiero della Valle~
+   Il sentiero  conduce  giu' nella valle,  dove,  a giudicare
+dall'altezza degli alberi, la lava si e' raffreddata centinaia
+di anni fa.  Piu' in basso  scorgi  un cammino  che lentamente
+si perde nell'interno di una piccola foresta.
+Ad est entri nella valle, a ovest torni alla civilta'.
+~
+64 0 5
+D1
+~
+~
+0 -1 6405 0
+D3
+~
+~
+0 -1 6403 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6405
+Nella Valle~
+   Il terreno sembra ricoperto da uno strato di sporcizia,
+ma  questa vallata  e' troppo piatta e rocciosa per capire
+la catastrofe accaduta tanto tempo fa.  Guardando verso le
+montagne  che circondano  questa zona,  noti come  diverse
+montagne sembra  siano 'esplose', il che e' curioso, se si
+considera che non si tratta di vulcani.
+   Il sentiero conduce verso gli alberi a est, e torna in
+alto verso le montagne a ovest.
+~
+64 0 3
+D1
+~
+~
+0 -1 6406 0
+D3
+~
+~
+0 -1 6404 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6406
+Una Radura~
+   Arrivi in una piccola radura, dopo aver camminato per
+diversi  minuti tra gli  alberi  silenziosi.  Uno strano
+monolito spunta dal terreno... aspetta un attimo. Queste
+pietre sembrano troppo regolari, e dalla forma circolare 
+e dalla  dimensione  potrebbero quasi  assomigliare a...
+dei merli?  Puo' essere che qualche edificio sia sepolto
+sotto la lava?  Un anello arrugginito spunta in mezzo al
+terreno...  una botola?  Sembra troppo bello  per essere
+vero!
+~
+64 0 3
+D3
+~
+~
+0 -1 6405 0
+D5
+Un'antica botola, incrostata dalla terra e dagli anni.
+~
+botola trappola~
+1 -1 6407 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6407
+Una scalinata~
+   Questa piccola stanza e' in cima ad una scalinata che
+scende nella torre. Da una piccola botola in alto filtra
+la luce del giorno.  A sud vedi una porta di legno,  che
+inspiegabilmente sembra aver vinto il tempo.
+Ad ovest scorgi una piccola sala.
+~
+64 9 0
+D2
+~
+porta~
+1 -1 6408 3
+D3
+~
+~
+0 -1 6409 0
+D4
+Un'antica botola, incrostata dalla terra e dagli anni.
+~
+botola trappola~
+1 -1 6406 3
+D5
+~
+~
+0 -1 6413 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6408
+Il guardaroba~
+   Questa piccola stanza e' colma di vesti adagiate sugli 
+scaffali lungo le pareti.   Sono indubbiamente conservate
+magicamente  dall'incuria  del tempo,  e sembra che siano
+appena state lavate e piegate.   Ti domandi che genere di
+mago  possa avere un tale potere da  poterlo sprecare per
+cose cosi' futili.
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6407 3
+E
+vesti scaffale scaffali~
+Lenzuola bianche, federe, etc.  Niente di cui tu abbia
+veramente bisogno, ma interessanti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6409
+Un corridoio~
+   E' solo un corridoio pulito, che riporta verso la 
+scalinata ad est,  in cui si aprono  delle porte che
+conducono ad altre stanze a nord e a sud.
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6411 3
+D1
+~
+~
+0 -1 6407 0
+D2
+~
+porta~
+1 -1 6410 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6410
+Un bagno~
+   E' un bagno molto strano,  come non ne avevi mai visti
+prima...  I rubinetti spuntano dal nulla e sgorgano acqua
+corrente calda e fredda in lavandini che scolano... dove?
+Che strano!
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6409 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6411
+La Camera da Letto del Maestro~
+   Questa e' una stanza opulenta, decorata in seta e oro.
+C'e' una  scrivania d'ebano  lungo il muro,  ricoperta da
+rami di lava  solidificata  che attraversano  la finestra
+sulla quale una volta si affacciava.   Un armadio bello e
+spazioso e' pieno di abiti appena puliti e stirati.
+~
+64 9 0
+D2
+~
+porta~
+1 -1 6409 3
+E
+scrivania~
+La scrivania e' priva di interesse, come le carte che la
+ricoprono...
+~
+E
+armadio~
+Bei vestiti, ma nessuno della tua taglia.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6412
+La Libreria~
+   Una grande libreria di magia  occupa questo piano
+della torre.   Senti che potresti imparare qualunque
+cosa se solo cercassi e leggessi abbastanza a lungo.
+Una porta si apre verso la scalinata in alto a est.
+~
+64 9 0
+D1
+~
+porta~
+1 -1 6413 3
+D3
+Una grande libreria, dall'aspetto sinistro.
+~
+libreria~
+1 -1 6414 3
+E
+libro libri~
+Ci sono libri su qualunque cosa qui!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6413
+La Scalinata~
+   La scalinata continua in alto e in basso, e c'e'
+una porta ad ovest.
+~
+64 9 0
+D3
+~
+porta~
+1 -1 6412 3
+D4
+~
+~
+0 -1 6407 0
+D5
+~
+~
+0 -1 6415 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6414
+Una Sala Nascosta~
+   Questa e' una piccola sala nascosta, con un'entrata segreta
+nella  libreria  all'estremita'  nord del  muro ovest,  ed una
+botola all'estremita' sud.
+~
+64 9 0
+D1
+Il fondo di una libreria mobile.
+~
+libro libreria~
+1 -1 6412 3
+D5
+~
+botola trappola~
+1 -1 6416 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6415
+Una scalinata~
+   La scalinata continua in alto e in basso, e c'e' una porta
+a ovest che si apre a questo piano.
+~
+64 9 0
+D3
+~
+porta~
+1 -1 6417 3
+D4
+~
+~
+0 -1 6413 0
+D5
+~
+~
+0 -1 6422 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6416
+La Stanza del Tesoro~
+   Jackpot!  Una piccola stanza piena di tesori!  Corri a prenderli!
+~
+64 9 0
+D4
+~
+botola trappola~
+1 -1 6414 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6417
+Un vestibolo~
+   Questo vestibolo corre attraverso la torre. Ci sono altri
+corridoi a ovest, e porte a nord e a sud. Una porta a est ti
+riporta alla scalinata.
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6419 3
+D1
+~
+porta~
+1 -1 6415 3
+D2
+~
+porta~
+1 -1 6418 3
+D3
+~
+~
+0 -1 6420 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6418
+La Stanza dei Servi~
+   Questa piccola stanza sembra la camera da letto della
+servitu',  scarsamente decorata  e riempita da un letto,
+sedia, tavolo, ecc.  Niente di realmente importante.
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6417 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6419
+La Stanza della Servitu'~
+   Questa piccola stanza sembra la camera da letto della
+servitu',  scarsamente decorata  e riempita da un letto,
+sedia, tavolo, ecc.  Niente di realmente importante.
+~
+64 9 0
+D2
+~
+porta~
+1 -1 6417 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6420
+Un Vestibolo~
+   Questo vestibolo prosegue a est, e ha una porta
+a nord.  Giureresti che il modo in cui e' disposto
+questo livello... no, non puo' essere.
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6421 3
+D1
+~
+~
+0 -1 6417 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6421
+La Stanza della Servitu'~
+   Questa piccola stanza sembra la camera da letto della
+servitu',  scarsamente decorata  e riempita da un letto,
+sedia, tavolo, ecc.  Niente di realmente importante.
+~
+64 9 0
+D2
+~
+porta~
+1 -1 6420 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6422
+La Scalinata~
+   La scalinata continua in alto e in basso, e c'e' una grande
+stanza aperta ad ovest.
+~
+64 9 0
+D3
+~
+~
+0 -1 6423 0
+D4
+~
+~
+0 -1 6415 0
+D5
+~
+~
+0 -1 6425 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6423
+La Sala da Pranzo~
+   Sei in una grande sala da pranzo, con un lungo tavolo che la
+attraversa per tutta la sua lunghezza.    I posti a sedere sono
+sufficenti per dieci persone.  Le pareti sono coperte di arazzi
+e dipinti, che aggiungono un tocco di colore alle nude pietre.
+La lava deforme colata attraverso le finestre rende tutto cosi'
+strano che hai quasi i brividi.   C'e' una porta a nord, mentre
+la scalinata si apre verso est.
+~
+64 9 0
+D0
+~
+porta~
+1 -1 6424 3
+D1
+~
+~
+0 -1 6422 0
+E
+arazzo arazzi dipinto dipinti~
+Molti raffigurano scene di eroismo e alta magia.
+Come quasi tutti gli arazzi e i dipinti che hai visto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6424
+La Cucina~
+   Questa e' una cucina ben fornita, le dispense piene
+e pulite come per magia.  Forse questo sarebbe un buon
+posto per riposare un po'.
+~
+64 9 0
+D2
+~
+porta~
+1 -1 6423 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6425
+La Scalinata~
+   La scalinata continua in alto e in basso, e c'e' una stanza
+ad ovest.
+~
+64 9 0
+D3
+~
+~
+0 -1 6426 0
+D4
+~
+~
+0 -1 6422 0
+D5
+~
+~
+0 -1 6429 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6426
+Una Sala~
+   Questa zona della torre sembra umida e opprimente.  La
+sala corre da nord a sud, e noti una cella vuota a ovest.
+La scalinata e' ad est.
+~
+64 9 0
+D0
+~
+~
+0 -1 6427 0
+D1
+~
+~
+0 -1 6425 0
+D2
+~
+~
+0 -1 6428 0
+E
+cella celle~
+E' aperta, vuota e priva di interesse.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6427
+Una Sala~
+   Questa e' l'estremita' nord della sala. Ci sono celle
+a destra e a sinistra, vuote e in attesa di occupanti.
+~
+64 9 0
+D2
+~
+~
+0 -1 6426 0
+E
+cella celle~
+E' aperta, vuota e priva di interesse.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6428
+Una Sala~
+   Questa e' l'estremita' nord della sala. Ci sono celle
+a destra e a sinistra, vuote e in attesa di occupanti.
+~
+64 9 0
+D0
+~
+~
+0 -1 6426 0
+E
+cella celle~
+E' aperta, vuota e priva di interesse.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6429
+Una Scalinata~
+   La scalinata continua in alto e in basso. Una larga stanza
+si apre a ovest.
+~
+64 9 0
+D3
+~
+~
+0 -1 6430 0
+D4
+~
+~
+0 -1 6425 0
+D5
+~
+~
+0 -1 6431 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6430
+L'Ufficio del Mago~
+   Una piccola scrivania e' coperta da carte e documenti
+magicamente conservati. Niente sembra di valore, eccetto
+ad uno storico.  Questo posto sembra poco interessante.
+~
+64 9 0
+D1
+~
+~
+0 -1 6429 0
+E
+carta carte documenti documento~
+Dunque, una delle carte narra di come il mago di questa
+torre,  Rand,  tormento' molti re,  e racconta  di come
+essi marciarono contro di lui.    Che la lava la' fuori
+sia un tentativo fallito di distruggere il nemico?
+~
+E
+scrivania~
+E' imbrattata da ogni genere di carte.  Alcune in verita'
+sembrano vagamente interessanti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6431
+La Scalinata~
+   La scala continua in alto e in basso, e c'e' una stanza
+a ovest...
+~
+64 9 0
+D3
+~
+~
+0 -1 6432 0
+D4
+~
+~
+0 -1 6429 0
+D5
+~
+~
+0 -1 6433 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6432
+Un Salotto~
+   E' una stanza molto semplice, piena di sedie.
+Un caminetto fa capolino da una parete,  il fumo
+e' senza dubbio magicamente guidato...
+   E' un bel posto per riposare un po'...
+~
+64 12 0
+D1
+~
+~
+0 -1 6431 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6433
+La Scalinata~
+    Sei giunto alla fine della scalinata. C'e' un'atrio
+a ovest.
+~
+64 9 0
+D3
+~
+~
+0 -1 6434 0
+D4
+~
+~
+0 -1 6431 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6434
+Un Atrio~
+   Questo piccolo atrio al  'piano terra'  corre da nord a
+sud.  Ad est  inizia  la scalinata  che conduce  verso gli
+oscuri recessi della torre. A ovest scorgi l'entrata della
+torre. Il passaggio a nord e' completamente ostruito dalla
+lava, ma a sud e' ancora transitabile.
+~
+64 9 0
+D1
+~
+~
+0 -1 6433 0
+D2
+~
+~
+0 -1 6437 0
+D3
+~
+~
+0 -1 6435 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6435
+L'ingresso~
+   Sei in una grande camera con un imponente portale ad
+west.  Ad est scorgi il piano terra della torre. Questa
+stanza e' arredata in modo attraente ed impressionante,
+con sculture e arazzi dappertutto.   Il portale sembra
+impenetrabile...  Difficilmente riusciresti a varcarlo,
+se mai ce ne fosse veramente bisogno...
+~
+64 9 0
+D1
+~
+~
+0 -1 6434 0
+D3
+Questo portale e' incredibile. Sfortunatamente e' chiuso a chiave.
+~
+porta portale~
+1 0 6436 7
+E
+scultura arazzo sculture arazzi~
+Sono belli, ma non valgono molto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6436
+L'entrata~
+   Questa era l'entrata della torre.    Ma ora la lava ha
+ostruito completamente l'accesso. Tuttavia:
+   Sembra che, durante la colata, un uomo fosse fuori dal
+portale. Sembra morto all'istante 'spalmato' sulla porta,
+ma il suo scheletro stringe ancora  un bastone  in ottime
+condizioni...
+~
+64 9 0
+D1
+Il profilo di un uomo decora le doppie porte...
+~
+doppie porte~
+1 0 6435 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6437
+L'atrio~
+    Questa e' la parte sud dell'atrio. C'e' una porta a
+ovest, sbarrata da luminosi fasci di luce.
+L'atrio prosegue verso nord.
+~
+64 9 0
+D0
+~
+~
+0 -1 6434 0
+D3
+~
+porta~
+1 -1 6438 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6438
+Le Scale~
+   Delle scale portano giu' verso il basamento della torre,
+mentre ad est raggiungi l'ingresso della torre.
+~
+64 9 0
+D1
+~
+porta~
+1 -1 6437 3
+D5
+~
+~
+0 -1 6439 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6439
+Le Scale~
+   Queste scale portano al piano terra, o puoi andare a est
+verso il basamento della torre.
+~
+64 9 0
+D1
+~
+~
+0 -1 6440 0
+D4
+~
+~
+0 -1 6438 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6440
+Una Nicchia~
+   Questa nicchia conduce a un'enorme stanza a nord, verso
+delle scale che scendono ad est, e scale che salgono verso 
+ovest.
+~
+64 9 0
+D0
+~
+~
+0 -1 6441 0
+D1
+~
+~
+0 -1 6442 0
+D3
+~
+~
+0 -1 6439 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6441
+Il Laboratorio~
+   Questo laboratorio e' zeppo di attrezzi.  Alambicchi,
+fiasche, fornelletti, pinze, mortai and pestelli, giare
+colme di cose normali,  giare colme di cose 'anormali',
+giare colme di cose a cui e' meglio non pensare...
+Una ricerca potrebbe rivelare molte cose...
+~
+64 9 0
+D2
+~
+~
+0 -1 6440 0
+E
+alambicco alambicchi fiasca fiasche fornelletto fornelletti pinza pinze~
+Sembra normale, un fragile attrezzo da laboratorio.
+~
+E
+mortaio mortai pestello pestelli giara giare~
+Sembra normale, un fragile attrezzo da laboratorio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6442
+Le Scale~
+   Delle scale scendono verso il secondo livello del basamento,
+o torni ad ovest verso la nicchia.
+~
+64 9 0
+D3
+~
+~
+0 -1 6440 0
+D5
+~
+~
+0 -1 6443 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6443
+Le Scale~
+   Delle scale salgono verso il primo livello del basamento, o
+puoi entrare in un'altra grande stanza a est.
+~
+64 9 0
+D1
+~
+~
+0 -1 6444 0
+D4
+~
+~
+0 -1 6442 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6444
+Camera di Evocazione~
+   Al centro della stanza un gigantesco pentragramma iridescente
+rompe l'oscurita'. Fasci di energia magica circondano un qualche
+tipo di essere.   Pensandoci bene, forse entrare la' dentro puo'
+rivelarsi una PESSIMA idea...
+~
+64 8 0
+D0
+~
+~
+0 -1 6445 0
+D3
+~
+~
+0 -1 6443 0
+E
+pentagramma~
+E' vecchio di secoli.  Non pensi che avvicinarsi sia una
+buona idea.
+~
+E
+essere~
+Non puoi vederlo chiaramente attraverso il campo di energia del
+pentagramma,  ma senti che qualunque cosa sia, e' molto, molto,
+molto, molto, arrabbiato.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6445
+Dentro un Pentagramma~
+   Il piccolo dio intrappolato dal mago ti guarda con una insana espressione.
+Quattrocento anni di prigionia non migliorano certo il carattere...    
+~
+64 8 0
+D2
+~
+~
+0 -1 6444 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

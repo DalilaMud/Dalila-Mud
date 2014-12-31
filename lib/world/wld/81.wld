@@ -1,0 +1,2588 @@
+#8100
+Uno stretto passaggio basso~
+   Ahi! Puoi appena passare attraverso questo passaggio che e' alto solo un
+piede e mezzo. Era anche nascosto dietro a un blocco di pietra; questa
+e' senza dubbio la ragione per la quale i globlins non hanno cercato di
+seguirti, essendo troppo deboli per spostarlo. Tu, comunque, puoi ancora
+spostarlo, se desideri tornare a nord. Il largo passaggio a sud sembra
+pero' molto piu' invitante.
+~
+81 281 5
+D2
+Il basso passaggio non e' molto lungo; e' a sud.
+~
+~
+0 -1 8101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8101
+Un Tunnel nelle Montagne~
+   E' molto facile camminare qui. Un fiume dimenticato ha tappezzato questa
+caverna di molle creta, sabbia, e striato i muri con increspature gelate.
+La parete nord ha una piccola fessura, e a sud questo largo tunnel diviene
+piu' alto, e leggermente piu' stretto. Un'ombra sulla parete ovest indica
+l'inizio di un tunnel, fuori dalla portata della tua lanterna.
+~
+81 9 0
+D0
+Vedi la parete nord. Forse potrebbe essere giusto passare da li'.
+~
+~
+0 -1 8100 0
+D2
+Sembra un piacevole, sebbene buio, passaggio a sud.
+~
+~
+0 -1 8102 0
+D3
+~
+~
+0 -1 8133 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8102
+Un Tunnel nelle Montagne~
+   Che bel luogo!  Non e' largo qui - le tue spalle si adattano alla
+compagnia di questa piccola stanza. Giudichi che il tetto della caverna deve
+essere almeno 70 piedi sopra la tua testa. Formazioni cristalline nei muri
+increspati spezzettano la luce della torcia producendo innumerevoli scintille
+di fiamma riflettendosi sulle vene di quarzo che ricamano la pietra in un
+broccato senza tempo. I muri sono essenzialmente verticali, ma si affusolano
+abbastanza da sostenere una stalattite, appesa come una spada di Damocle
+quindici piedi piu' in alto. Dubito che cadra', comunque. Il tunnel e' piu'
+basso ma piu' largo a nord. Un piccolo rivolo d'acqua gocciola da un piccolo
+buco, in alto sul muro, per uscire attraverso un tunnel a sud. Ad est, una
+caverna piu' grande fa una curva. Quel masso ti agita. Ansiosamente esamini
+il suo appoggio, e noti un avviso scritto sul muro.
+C'e' un avviso INTAGLIATO DI RECENTE qui. Leggilo!
+~
+81 9 2
+D0
+Il tunnel si allarga e si abbassa a nord, dove apparentemente finisce.
+~
+~
+0 -1 8101 0
+D1
+La tua luce mostra una curva, vicino ad est.
+~
+~
+0 -1 8105 0
+D2
+Il rivolo gocciola a sud.
+~
+~
+0 -1 8103 0
+E
+nuovo avviso~
+                         Avviso!
+                    Il tunnel orientale
+                    e' stato riparato.
+                    E' ora sicuro; cosi' 
+                    Thrash e Pippin 
+                    non moriranno qui di nuovo.
+~
+E
+scritte muro~
+Le rune sono di linea nota, ma non conosci la lingua.
+Dicono qualche cosa come questo:
+				 Tuo sdael lennut nretsae.
+                         Retsasid ot sdael lennut htuos.
+                         Ekat ot eno eht si nretsae eht
+                         Htaed ylrae na diova ot tnaw uoy fi.
+                                     Nam Mooreeffoc Eht Morf.
+Cosa potrebbe volere dire?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8103
+Una stretta sporgenza~
+   Il ruscello si congiunge con un altro, che schiuma e ribolle lontano
+sotto di te in un profondo canyon.  Non senti nulla a causa del ruggito
+dell'acqua. Come un gatto ti arrampichi su una sporgenza bagnata larga solo
+sei pollici. Non e' un bel luogo. Non guarda gin basso mentre continui.
+Un viaggiatore deve contare sul coraggio che ha nel suo bagaglio, no?
+Forse sarai ripagato.
+Attraverso le nebbie a sud vedi di sfuggita uno scintillio d'oro. Per andare
+la' devi camminare cautamente a carponi lungo la stretta sporgenza come un
+gatto, attento perche' e' sdrucciolevole come le squame di un pesce.
+Non e' troppo tardi per tornare indietro!
+Una stretta fenditura conduce giu' verso la rupe, ma solo un acrobata
+discenderne. Vedi un'iscrizione.
+~
+81 393 5
+D0
+L'uomo saggio (se povero) tornerebbe a nord nella caverna piu' grande.
+~
+~
+0 -1 8102 0
+D2
+Tua nonna ti ha detto una volta di una miniera d'oro perduta fra queste
+montagne.
+~
+~
+0 -1 8104 0
+E
+iscrizione~
+E' in ogni lingua nota, ed anche in alcune altre:
+                     A T T E N Z I O N E  ! ! !
+                La sporgenza a sud non e' sicura!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8104
+Il salto e' eccellente ma l'atterraggio fa male~
+   Hai trovato la miniera perduta! Pezzi d'oro sono sul terreno, grandi
+come la tua testa! Fra loro giacciono grezzi rubini scavati molto tempo fa.
+Ti affretti ad entrare nella cava e raccimoli la ricchezza trovata, fai un
+balzo dalla piccola sporgenza alla larga pietra piatta vicina all'ingresso.
+Cerchi di fare un passo in quella direzione.
+I tuoi piedi scivolano. Oh caro.
+~
+81 11 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#8105
+Un Tunnel Corto~
+   Questo tunnel non va molto lontano. Presto gira di nuovo a sud.
+I muri qui sono nessuno piu' ruvidi ma lisci e coperti di scritture. Ci sono
+molte piccole iscrizioni, ma puoi leggerne solo tre: uno in orchesco,
+un'altra nella lingua comune, ed una terza, scritta in grandi caratteri da
+mano robusta, nella lingua segreta dei nani.
+Guardando piu' da vicino, ne vedi un'altra, nella lingua degli ogre.
+~
+81 9 1
+D2
+Vedi un barlume di luce del giorno, non molto lontano da qui.
+~
+~
+0 -1 8106 0
+D3
+Puoi andare ad ovest, esaminare quelle iscrizioni. O quella caverna piccola.
+~
+~
+0 -1 8102 0
+E
+lingua ogre~
+                  Ugh... qualcuno... qualcuno passare di qua...
+                  Thrash bisogno di aiuto... chi legge questo
+                  bisogno sapere... dove Thrash comprare torce. 
+                                 ...Ugh...
+                                       Thrash l'Ogre
+~
+E
+lingua segreta nani~
+Hmm... e' in lingua comune dopo tutto..., sebbene usino le rune dei nani.
+Buon per te, se non sei un nano che conosce la lingua segreta.
+Dice:
+                    Andasti dalla caverna a Sorvecgden citta'.
+                    Sei passato da qui lunedi', il quattro del mese di Yule.
+                    Di' a Gloin che sua moglie lo inganna.            
+                    Lo so perche' lo inganna con me.
+                              Dorig dei Foehammers.
+~
+E
+lingua comune~
+Questa e' piu' facile da leggere:
+                    O avventuriero! Attento! 
+                    Dei goblins vivono qui vicino!
+~
+E
+iscrizione orchesca~
+Dice, piu' o meno:
+                    Krsd be al tem blude noms
+                    Krsd be al tem blude dwrvs
+                    Krsd be al tem blude elfs
+                    Krsd be da hobits but tey tasty
+                    Haf ogrs aint bad fokes
+                    Rit by Orfax da orc
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8106
+L'Ingresso del Tunnel~
+   O avventuriero, il tuo viaggio non e' finito, ma comincia! Sei all'ingresso
+della caverna. Si inoltra profondamente nelle oscurita' delle montagne.
+Ad est, un ruscello sotterraneo esce da una caverna piu' bassa. L'acqua che
+scorre all'interno della caverna, e' passata da un livello piu' basso, in una
+gola profonda piu' di settanta piedi.
+A sud vedi una strada che passa fra i boschi.
+Un segno e' intagliato nella pietra qui.
+~
+81 8 0
+D0
+Puoi andare piu' in profondita' nella buia caverna.
+~
+~
+0 -1 8105 0
+D2
+La strada sembra invitare ad una piacevole passeggiata.
+~
+~
+0 -1 8107 0
+E
+segno~
+                        ______________________________________
+                        |   Questa caverna nella Montagna    |
+                        |             -------                |
+                        |    E' stata scavata da Pippin      |
+                        |  Nell'anno di Nostro Signore 1997  |
+                        |____________________________________|
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8107
+La Strada dell'Asse Vecchia~
+   I tuoi piedi echeggiano sulle assi di questa strada, costruita per viaggi
+tranquilli in tempi ormai lontani da Korbor il Grasso, Re di Lonoya.
+La strada pavimentata con assi porta ad est e a sud. Una pietra miliare e'
+qui vicino. Un cartello e' all'incrocio fra questa bella strada ed il
+sentiero per la caverna della montagna. La strada sporca a sud era usata per
+bloccare il passaggio ma ora la via e' stata pulita.
+~
+81 64 1
+D0
+Un sentiero nell'erba alta porta alla caverna a nord.
+~
+~
+0 -1 8106 0
+E
+cartello~
+Ha cartelli con dita che puntano a nord, sud ed ovest.
+
+                          EST- Ofingia
+                          SUD- Sorvecgden-Lacgorr 
+              Benvenuto, Straniero, al Fiefdom di Lonoya.
+              Potrai girare liberamente attraverso il nostro
+              regno. Riporta tutti gli eventi strani
+              a Pippin Imperatore delle Terre di Ottanta Uno.
+~
+E
+pietra miliare ~
+Dice: "Sorvecgden-Lacgorr 6 stadia"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8108
+Sul Ponte alle Porte di Ofingia~
+Un ponte di pietra attraversa il torrente Snofur qui,che scorre in una ravina
+profonda 80 piedi,largo 25 iarde,che proviene da una piccola caverna nelle
+montagne.  Avresti bisogno di ali per andarci.  Questa gola certamente serve ad
+Ofingia come fossato; il ponte ha una sezione di legno che puo' essere rimossa
+facilmente durante un assedio.  I Cancelli della citta' si trovano proprio alla
+fine del ponte.  Se continui verso est puoi addentrarti nell' antico regno del
+vecchio re Korbor.    
+~
+81 64 1
+D1
+Il cancello di Ofingia e' oltre il ponte.
+~
+cancellata di legno~
+1 8107 8109 3
+D3
+Puoi ancora tornare indietro ad ovest.
+~
+~
+0 -1 1533503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8109
+Via del Re~
+    Se ti annoia viaggiare cosi' lontano per vedere una citta' piccola come
+Ofingia, puoi riprenderti forse alla vista di una semplice locanda a sud.
+Non e' tanto grande quanto il Grunting Boar, ma, come un marinaio accetta
+qualsiasi porto in un temporale, cosi' tu berrai in qualunque posto dopo
+una cosi' lunga astinenza!
+Sebbene Ofingia sia una citta' sotto assedio oggi, con tutto le incursioni
+dei goblin, Reilly mantiene la locanda aperta.
+~
+81 0 0
+D1
+Via del Re continua ad est.
+~
+~
+0 -1 8110 0
+D2
+Una bella, semplice locanda e' a sud. C'e' un cartello qui.
+~
+porta quercia~
+1 -1 8128 1
+D3
+Un grande cancello e' qualche iarda ad ovest. E' riccamente intagliato.
+~
+cancellata di legno~
+1 8107 8108 3
+E
+cartello~
+                Locanda Crossbow
+                da Reilly Morgan
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8110
+Una Piazza Piccola~
+   Una volta questo piccolo parco era un luogo calmo dove passare il
+pomeriggio della domenica; ora che quasi tutti gli Ofingiani hanno preso
+le armi per difendere la loro citta', le sole persone che vengono qui
+sono le guardie. A sud c'e' un capannone ed una chiesa piccina a nord.
+~
+81 0 0
+D0
+La chiesa ha un grande cartello sulla facciata.
+~
+porta della chiesa~
+1 -1 8118 1
+D1
+Via del Re va per un po' ancora ad est.
+~
+~
+0 -1 8111 0
+D2
+C'e'una firma sul capannone che dice "Z. Rykalp, Sceriffo"
+~
+~
+0 -1 8127 0
+D3
+Cosa? Gia' lasci la citta'?
+~
+~
+0 -1 8109 0
+E
+cartello della chiesa~
+dice:
+                 Chiesa di St. John Nepomucene
+                     Sermone di oggi:
+                    Ogri e il Gospel:
+                 Possono essere salvati?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8111
+Via del Re~
+   Piccoli negozi sono a nord e a sud mentre cammini verso la piazza del
+mercato di Ofingia. L'edificio settentrionale e' un capannone aperto, dove
+un fabbro e' impegnato a martellare l'acciaio. A sud il negozio di un
+falegname riempie l'aria con la fragranza del bosco.
+~
+81 0 0
+D0
+Senti un martello battere sul ferro caldo e il tintinnio dell'incudine.
+~
+~
+0 -1 8119 0
+D1
+Senti il battito di piedi che si affrettano e cavalieri dall'andatura pesante.
+~
+~
+0 -1 8112 0
+D2
+Un nano corpulento passa per la via, porta un tronco su una spalla.
+~
+~
+0 -1 8114 0
+D3
+Che materiale? Non ti piace questa citta'?
+~
+~
+0 -1 8110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8112
+Piazza del Mercato~
+   Il tintinnio di corazze ed il rumore di piedi che marciano riempiono
+l'aria di questa piazza una volta pacifica, mentre i cittadini pattugliano
+la loro citta'. Un negozio di articoli generali e' a nord.
+~
+81 0 0
+D0
+Senti qualcuno maledire dei taccheggiatori.
+~
+~
+0 -1 8120 0
+D1
+Questa piazza del mercato e' grande almeno quattro volte quella di Deira.
+~
+~
+0 -1 8121 0
+D2
+Questa piazza del mercato e' grande almeno quattro volte quella di Deira.
+~
+~
+0 -1 8113 0
+D3
+Realmente non ti piace Ofingia?
+~
+~
+0 -1 8111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8113
+Piazza del Mercato sudoccidentale~
+   Vede il cortile del falegname dietro molte case ad ovest, ma una
+staccionata ti blocca l'accesso. Qualcuno ha scarabocchiato la staccionata
+con del gesso. A sud una strada attraversa Ofingia.
+~
+81 0 0
+D0
+Il clamore della piazza crea echi tutt'intorno a te.
+~
+~
+0 -1 8112 0
+D1
+Ancora piazza del mercato.
+~
+~
+0 -1 8122 0
+D2
+Questa sembra essere la parte migliore della citta'.
+~
+~
+0 -1 8115 0
+D3
+Senti i tonfi di un ascia.
+~
+~
+0 -1 8114 0
+E
+recinto gesso~
+Dice: "Occhio! I goblins sono abili".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8114
+La carpenteria di Joel Kreb~
+   Joel e' un uomo molto occupato. Lui dice cosi'. Solo ora siede con
+un boccale di birra chiara in mano. Egli puo' fare quasi tutto quello
+che ti occorre, se e' di legno, ma ora ha pochi articoli di scorta.
+Puo' darti l'elenco, se glielo chiedi in modo corretto.
+~
+81 8 0
+D0
+A nord c'e una piccola strada.
+~
+~
+0 -1 8111 0
+D1
+Puoi vedere una larga strada.
+~
+~
+0 -1 8113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8115
+Via dei Mandriani~
+Once farmers drove their herds of cattle through this now-fancy part of
+Ofingia, on the way to the Market Square.  No more.  It has been paved, 
+and far fewer hogs roam here than on King's Way.
+   Una volta gli allevatori portavano i loro armenti attraverso questa parte
+di Ofingia, sulla via per la Piazza del Mercato. Non piu'. E' stata
+pavimentata.
+~
+81 0 0
+D0
+A nord vai verso piazza del mercato.
+~
+~
+0 -1 8113 0
+D1
+Verso est c'e' il Municipio di Ofingia
+~
+porta~
+1 -1 8123 3
+D2
+Via dei Mandriani va verso sud.
+~
+~
+0 -1 8116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8116
+Dentro il Cancello Sud di Ofingia~
+    Bene, ora hai raggiunto la fine del piccolo quartiere dei nobili di
+Ofingia. A sud c'e' un grande cancello e ad est, una robusta costruzione
+in pietra.
+~
+81 0 0
+D0
+Perche' non vai al municipio e rispondi dei tuoi 200 furti con scasso?
+~
+~
+0 -1 8115 0
+D1
+Questa sembra essere una delle caserme delle guardie cittadine.
+~
+porta~
+1 8109 8117 7
+D2
+~
+Cancellata~
+1 0 1535505 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8117
+Il quartier generale delle guardie~
+   Questo e' il posto dove pranzano gli uomini che proteggono Ofingia.
+Guardati attorno! Puoi trovare un pugnale, ma la maggior parte delle armi
+sono in uso.  Perche' mai le lascerebbero qui mentre sono in perlustrazione?
+Solo in Deira le sciocche guardie hanno addosso delle monete d'oro che
+Pippin o qualche ladro piu' vecchio possono rubare.
+~
+81 8 0
+D0
+Una porta rossa porta a nord al municipio.
+~
+porta rossa~
+2 8109 8123 15
+D3
+Una robusta porta di quercia porta all'esterno.
+~
+porta~
+1 8109 8116 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8118
+La Chiesa di San John Nepomucene.~
+   E' piccola, ma adeguata e difendibile. Questa e' la piu' importante
+in questi tempi pericolosi. Non trovi idoli qui, gli Ofingiani sono
+di religione cristiana.
+~
+81 152 0
+D2
+Puoi andartene ed andare nella piazza della citta'.
+~
+porta della chiesa~
+1 -1 8110 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8119
+La Fucina di Dorig Foehammer~
+   Puoi solo guardare con timore riverenziale Dorig, il famoso
+fabbro-guerriero dei nani. 
+Forgia una sbarra di ferro in una lama di coltello in quindici minuti.
+Fa alcune spade eccellenti e cotte di maglia, ma una buona armatura non e'
+conveniente!
+Un'ascia da battaglia e' appesa al muro.
+~
+81 8 0
+D2
+Puoi andartene ed evitare le scintille di ferro fuso che volano copiose.
+~
+~
+0 -1 8111 0
+E
+ascia muro~
+L'ascia appesa al muro e' troppo in alto da raggiungere, ma puoi vedere che
+e' chiamata "Lucille".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8120
+Le merci secche di Maxtrum Holloknob~
+   Max comprera' qualunque cosa a basso prezzo e la vendera' ad alto,
+che sia utile o no. La maggior parte della sua roba non ti serve, ad ogni
+buon conto. Perche' vuoi unghie, o pentole e tegami, o bulbi di tulipano?
+I ferro di cavallo non sembrano essere utili per un viaggio lungo.
+Uno strano cartello bloccato da dei dardi e' appeso al muro.
+~
+81 8 0
+D2
+Puoi cercare un negozio piu' a buon mercato in Piazza del Mercato.
+~
+~
+0 -1 8112 0
+E
+cartello muro simbolo~
+Ci sono anche delle balestre in questo quadro di uno gnomo, che ghigna e
+ha in mano una borsa d'oro. Non e' una grande opera d'arte; forse il
+bottegaio prova del rancore contro gli gnomi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8121
+Piazza del Mercato nordorientale~
+   Sei in un angolo stranamente silenzioso per una piazza cosi' agitata.
+Un negozio in legno a nord e' pieno di gente mentre nessuno mai va nel
+negozio ad est.  Forse e' chiuso.
+~
+81 0 0
+D0
+La puzza di cuoio conciato proviene dal nord.
+~
+~
+0 -1 8129 0
+D1
+Stretto fra due case grandi c'e' un piccolo edificio di granito nero.
+~
+~
+0 -1 8130 0
+D2
+C'e' ancora la piazza a sud.
+~
+~
+0 -1 8122 0
+D3
+C'e' ancora la piazza ad ovest.
+~
+~
+0 -1 8112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8122
+Piazza del Mercato sudorientale~
+   La fragranza di pane fresco riempie l'aria qui. Il pane Ofigiano
+e' considerato il migliore del mondo fra i VERI amatori di questo
+alimento.
+~
+81 0 0
+D0
+C'e' ancora la piazza a nord.
+~
+~
+0 -1 8121 0
+D1
+Un delizioso profumo di pane fresco proviene da est.
+~
+~
+0 -1 8131 0
+D2
+Non hai idea di che tipo di negozio sia questo; non ha finestre.
+~
+~
+0 -1 8132 0
+D3
+C'e' ancora la piazza ad ovest.
+~
+~
+0 -1 8113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8123
+La Grande Sala~
+   Due file di alte colonne di legno circondano questa sala sostenendo
+il tetto sui loro forti capitelli. Un camino al centro la scalda, e
+il fumo sale su per la canna fumaria ed esce dalla parte piu' alta dell'alto
+frontone.
+Questa antica sala ti ricorda le descrizioni delle vecchie storie di Deira,
+ma qui uno e' ancora funzionante, ed usato per il suo scopo originario:
+vedi un grande trono che brilla d'oro a nord.
+Oh si'; una scala a spirale di ferro scende in basso. Un'iscrizione e'
+incisa nel muro di legno sopra di esso. C'e' una porta, ed un cartello,
+a sud.
+~
+81 8 0
+D1
+Vedi la maggior parte della sala.
+~
+~
+0 -1 8126 0
+D2
+C'e' un cartello su una porta rossa.
+~
+porta rossa~
+2 8109 8117 15
+D3
+Puoi uscire dalla sala ad ovest.
+~
+porta~
+1 -1 8115 3
+D5
+Una scala scende di sotto.
+~
+~
+0 -1 8124 0
+E
+cartello~
+                        Quartier Generale delle Guardie di Ofingia
+~
+E
+iscrizione~
+                        Giu': Biblioteca Pubblica di Ofingia
+                              E Negozio del Libro.
+                              Apertura: 8 - 11 A.M.
+                              E:        5 - 9 P.M.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8124
+Biblioteca Pubblica di Ofingia~
+   Qui puoi prendere in prestito, o comprare, molta della grande letteratura
+di Ofingia, che malinconicamente non riempie proprio molte mensole. Una
+volta questa biblioteca aveva molti piu' lavori, ma i goblins hanno fatto
+molte scorrerie in questa citta' negli scorsi anni e hanno bruciato o rubato
+la maggior parte di quelli che parlavano di magia. Uno dei muri ha un enorme
+ritratto ad olio.
+Guardandoti attorno, sei stupito dal numero di libri che ancora esistono,
+ma la maggior parte sono lavori di narrativa popolare scritti poveramente.
+Ahime'! Ci sono pero' alcune eccezioni; una mappa e' appesa al muro, per
+esempio.
+~
+81 8 0
+D0
+La parte e' piena di mensole.
+~
+~
+0 -1 -1 0
+D1
+La parte e' piena di mensole.
+~
+~
+0 -1 -1 0
+D2
+La parte e' piena di mensole.
+~
+mensola mensole~
+2 8108 8125 9
+D3
+La parte e' piena di mensole.
+~
+~
+0 -1 -1 0
+D4
+Una scala a spirale in ferro sale di sopra.
+~
+~
+0 -1 8123 0
+E
+mappa~
+                     Chiesa di| |             Drogheria
+ @  M A P P A  @     St. John|_+_|    Fucina   ____   ____ Calzolaio
+  di  Ofingia  Cancello       | |       _____ |    | |    |   
+       &       Ovest__________|_|_______|___|_|____|_|____|____
+    dintorni       :                                       |   |Forno 
+                   :           o  Via del Re               |   |
+       o           :___________________________  Piazza    |___|
+    by Sir          |      | |_|         |    |    del     |
+   Mischa di        |      | Sceriffo    |    |  Mercato   |___
+    Wazen.          |______|             |____|            |   |Farmacia  
+                    Cross Bow      Carpentiere|       _____|___|      
+                   R. Morgan, Prop.           | S  M | |   |
+                                              | t  a | |   |
+                                              | a  n | |___|
+                                              | d  d |__________
+     Le distanze in questa mappa non sono     | a  r |          |
+     in scala. Le case ho scelto di non       |    i |Municipio |
+     rappresentarle in quanto ne sono         | d  a |__________|
+     rimaste piuttosto poche dall'inizio      | e  n |   |
+     delle invasioni dei Goblin               | i  i |___|
+                      Sir Mischa              |......|
+                                           Cancello Sud 
+~
+E
+disegno ritratto~
+E' il ritratto di Claeregina Mahzi, regina of Adacaract.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8125
+La biblioteca segreta~
+   Wow! C'e' polvere abbastanza qui per far crescere un raccolto di mais
+sulle mensole.
+Ma ci possono essere cose piu' interessanti del mais sulle mensole.
+Perche', su quella mensola fuori portata, vedi un libro che deve essere
+il Libro di Herblore il Nano. Non puoi prenderlo; esso e' utile solo ad
+un mago. Qualche pagina stracciata giace sulla mensola piu' in basso,
+piu' vicine del grande tomo polveroso.
+~
+81 9 0
+D0
+La sezione aperta al pubblico della biblioteca e' a nord.
+~
+~
+2 8108 8124 9
+E
+blu masticata carta~
+E' una lettera, o piuttosto, meta' di una lettera.
+Mai fatto. Dico piu' allegramente che il tuo anello e' finito. Esso
+e' un lavoro di grande arte, nessuno re ne indossa uno uguale. Infatti,
+la pietra e' stata scavata dal [nano?] nelle miniere di Holdraxe che si
+dice abbiano proprieta' magiche. Conosco poco di questi. Ma si dice che
+il giusto tipo di opale rende l'uomo che porta l'anello invisibile. Magia
+o no, l'anello e' piuttosto bello, e glielo spediro' per corriere appena
+le strade si asciugheranno dai fanghi della primavera e diventeranno come
+una volta.
+                                            Firmato di mio proprio pugno,
+                                                   Rzesk Kural
+~
+E
+appassito arricciato arricciatura~
+                      I.  O.  U.
+   Per generi alimentari................... 3 cr. 1 f. 3 1/ 2 d.
+    (Firmato) Tim, figlio di Tom il Lifeguard. 
+    (Firmato) Maxtrum Holloknob
+~
+E
+papiro rotolo frammento~
+Alcuni antichi scrivani hanno redatto un elenco di armi leggendarie, del quale
+solo questo piccolo frammento rimane.
+Il gran guerriero Highlander, si dice, disegno' una potente spada a doppio
+taglio, che mi e' ignota. Il grande fabbro Durgandon la forgio' nelle sale
+dei nani; il suo incantesimo e' di opporsi ad ogni malvagio e protegge chi
+la porta, si dice. Non so se questo e' vero. La lama e' famosa solo nelle
+leggende; se davvero e' mai esistita, ora e' persa per sempre.
+Nessuna parola di Highlander e' stata sentita da lungo tempo.
+Zebenak Rykalp di Wazen ebbe una spada fatta dal fabbro Dorig, del clan
+Foehammer. Il suo nome e' Krat, o "Rasoio" nella lingua Valloniana,
+cosi' chiamata per la sua sottilezza ed il suo filo rinomato. E' acciaio
+flessibile, ma piuttosto robusto, e ho visto Zeb infilarla profondamente
+in una quercia senza rovinare la lama. Dorig e' veramente un grande artigiano.
+Ci sono strane dicerie scure di una scimitarra posseduta dal Re dei Goblins,
+Sparerebbe! Non esiste piu'.
+~
+E
+grande rosso~
+E' tratto da un libro chiamato "L'Arte della Battaglia". La lingua e' arcaica,
+la scrittura pessima e l'inchiostro e' stinto.
+Quanto fortunato e' l'esercito che conta [?] un maestro [illeggibile] nei
+suoi ranghi! Dove il [illeggibile] ha [illeggibile], puoi guarire e, al pari,
+[illeggibile] riporta un guerriero morente in vita e gli da' vigore fisico.
+E davanti alla tromba piangente o ai tamburi battenti questi sono gli usi,
+per il Re del cielo che favorisce l'uomo di buon cuore che cerca aiuto [?].
+E puo' accadere anche che con le sue benedizioni la spada manchera''il
+bersaglio.
+E per l'armamento: ti dico, con la tua lancia, raggiungi il bersaglio per
+quanto in alto possa essere, e quattro piedi dovrebbe essere la sua
+lunghezza.
+Ma sebbene potrebbe essere piu' lunga, mai sia piu' corta, per questo e'
+stata la causa della morte di molti buoni cavalieri. La lancia e' un braccio
+eccellente, che puo' facilmente uccidere un uomo armato con una lunga spada,
+tenendolo a distanza. Ma per l'uomo che viaggia solo, che cerca di farsi un
+nome, non consiglio la lancia, non e' un'arma adatta per i boschi o per le
+caverne. Prendi invece una spada, e se sei un ragazzo di roccia [?], l'ascia
+piu' piccola fra quelle che portano gli eserciti. E dico anche, che il bastone
+e' proprio un [illeggibile] braccio, buono per il commerciante o per il
+viaggiatore su strade solitarie. Il saggio viaggia in compagnia, solo gli
+sciocchi da soli dicendo che salveranno il proprio oro, [illeggibile] non paga
+per gli oziosi. Ma la notte sopraggiunge scura, ed i banditi del luogo gli
+saltano addosso, lo uccidono e prendono l'oro che aveva cercato di salvare.
+Lasciano le sue ossa come un [illeggibile] di fratellanza [?] dappertutto.
+Vediamo, allora, che la piccola spada, piu' costosa, e' migliore da lontano del
+bastone in battaglia, e piu' conveniente, e meno buono, della spada lunga o
+della spada larga. E in giro lo spadone a due mani, o a doppio taglio, supera
+questi in prezzo e valore.
+Amo meno l'ascia e la mazza, le mie mani si adattano meglio alla spada, che
+sfortunatamente non ce ne sono piu'.
+~
+E
+piccola pergamena~
+Come il resto e' un frammento:
+L'Eta' del Ferro e' prossima; e' la nostra era. In questi giorni uomini
+bassi sia di statura che di nobilta' ancora preferiscono l'Eta' del Bronzo,
+cosi' dicono i filosofi. Hanno cominciato a forgiare i loro attrezzi e lame
+di ferro, e nessuno piu' ha scritto i grandi poemi epici grandi della passata
+Era.
+La Morte ancora ha regnato, e regna, sul mondo degli uomini.
+Come grande sono sembrati! Ancora tutto non e' perduto.
+Cosi' dice il filosofo:
+               Al mondo che inciampa perduto e solo,
+               Un re discende dal trono in cielo. 
+               Morte da morte non guarda in faccia
+ Qui la pagina e' stata strappata.
+~
+E
+pagine~
+Una e' una piccola pagina di pergamena, un'altra e' grande, con lettere
+rosse. Una terza e' un frammento di papiro arrotolato. Un'altra ancora,
+si e' arricciata nell'asciugarsi. In un angolo un pezzo di carta blu e'
+stata masticata dai topi.
+~
+E
+libro herblore~
+E' aperto, e puoi leggere parte di una pagina:
+A lungo questa saggezza e' stata persa per gli uomini, e a lungo giacque
+profondamente seppellito sotto le caverne dei Goblins. Ma il coraggioso
+Nambor ha recuperato un rotolo di pergamena recante alcune rune nell'antica
+lingua dei nani, che solo io, Bog Grundelgrin, posso leggere. Ora ascolta
+bene le mie parole, O incantatore, perche' se prendi la foglia della
+pianta del mevais caduta in terra e la impasti con acqua dalla Fonte di Jakur,
+puoi fare un unguento che guarisce tutte le ferite. Ma e' difficile da
+preparare. La foglia sul terreno deve essere raccolta con luna calante alla
+fine di Novembre, quando il mevais e' asciutto e brunito. Allora devono
+ 
+Non puoi leggere di piu', e non puoi raggiungere il libro.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8126
+La Fine Orientale della Sala Grande~
+   Questa e' la fine della Sala Grande. La sua grandezza ti impaurisce. Il Re,
+comunque, non e' qui, ed il suo trono e' polveroso. Con la sua gente ha preso
+l'esercito ed e' partito per lottare con gli eserciti malvagi che ultimamente
+hanno assalito il suo regno. Lunga vita a Re Korbor!
+Un antico trono di noce intagliato e' sistemato qui, brillante d'oro.
+Sul muro e' appeso un scudo.
+~
+81 12 0
+D3
+La sala si estende ad ovest.
+~
+~
+0 -1 8123 0
+D5
+Vedi una tegola.
+~
+botola~
+2 8110 8149 15
+E
+scudo muro~
+Sullo scudo ci sono una croce ed un cervo, lo stemma di Re Korbor.
+~
+E
+trono~
+Avevi immaginato che il bagliore visto fosse vernice, ma non e' cosi'. Il
+trono intagliato di noce nera e' meravigliosamente intarsiato, con intarsi
+semplici, abbastanza per essere bello ma senza far venire la voglia di
+possederlo.
+Placcato d'oro guarda amorevolmente il bosco scuro. Non hai bisogno di leggere
+la targa per riconoscere il lavoro di Joel Kreb.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8127
+L'Ufficio dello Sceriffo~
+   Lo Sceriffo di Brocdenborough ha portato il suo ufficio qui, in un capannone
+costruito da Joel il falegname, dopo che i Goblins l'hanno cacciato da
+Brocdenborough. Infatti, molti dei cittadini di quel villaggio ora vivono
+qui, o in Venango. Lo Sceriffo non si e' dimesso; no, e' venuto qui perche'
+da qui ora comanda una piccolo manipolo di guardie che vanno a caccia di
+Goblin.
+Un annuncio stracciato ed un manifesto stampato di recente sono appesi al muro
+di questo capannone.
+~
+81 8 0
+D0
+Puoi uscire solo a nord.
+~
+~
+0 -1 8110 0
+E
+annuncio stracciato~
+                  R I C E R C A T I !
+                    
+                     Vivi o Morti
+                    Thrash l'Ogre 
+                          &
+                   Pippin l'Hobbit
+                         per
+                  Disturbo della Pace
+                Incitamento alla Rivolta
+                          &
+                   Assassinio di Nani
+                 nel Villaggio dei Nani.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8128
+La locanda la Balestra~
+   Questa e'la famosa Balestra, nota in tutto il regno di Korbor, dove
+il cibo e' eccellente e le bibite piu' o meno legali. Reilly Morgan e'
+il locandiere, e la sua specialita' e' whisky d'importazione. Lui e'
+favorevole acciocche' tu faccia baldoria. O preferisci birra?
+La sua fermentazione non e' seconda a nessuna, migliore di quella del
+Grunting Boar.
+La testa incoronata di un cervo con corna a 12 punte e' appeso sopra il
+camino e due zampe di cervo con tanto di zoccoli alzati sostengono uno
+strano oggetto.
+~
+81 8 0
+D0
+Puoi lasciare la locanda, se e' questo che desideri.
+~
+porta di quercia~
+1 -1 8109 1
+E
+oggetto fucile zoccoli strano~
+Un tubo di metallo lungo messo in un manico di acero, con una sorta di leva
+riposa sugli zoccoli. Forse e' un articolo magico. Ha intagliato l'iscrizione:
+"Winchester Modello 1889".
+~
+E
+trofeo testa corna~
+   Sono un paio di corna bianche d'un cervo magnifico, il genere nativo
+solo a Ofingia in questa parte del mondo. Questo cervo e' l'animale pi'
+abile del bosco; se ne vedi camminare uno impettito e ucciderlo con un arco,
+era solito dire Fred Bear, anche tu puoi camminare impettito.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8129
+L'Armatura Eccellente di D. Shattershock.~
+   Dek, il Ranger Elfo andato di recente in pensione, ora vende armature
+appropriate al suo guardaboschi.
+Nulla e' molto pesante, non ci vuole un'armatura pesante se strisci nei boschi,
+a caccia di Goblins.
+~
+81 8 0
+D2
+A sud c'e' piazza del mercato.
+~
+~
+0 -1 8121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8130
+Il Mortaio e Pestello di Churt~
+   L'aria e' fragrante di aromi e fumo pallido colorato in questo
+piccolo negozio. Pulviscolo di polvere scintillante, forse derivante
+da qualche arcano incantesimo riempie l'aria.  Sembra che questa sia
+una specie di farmacia, ha molte preparazioni magiche e medicinali.
+Uno strano complesso vetroso bolle su un braciere a carbone dietro la cassa,
+e molte bottiglie di liquidi colorati sono a portata di mano.
+~
+81 8 0
+D3
+Puoi lasciare questo questo misterioso negozio da ovest.
+~
+~
+0 -1 8121 0
+E
+bottiglia liquido~
+Sfortunatamente, una qualche sorta di barriera magica ti previene da assaggiare
+il liquido in queste bottiglie.
+~
+E
+vetrame ancora~
+Un alambicco bolle su un braciere di carbone, ripieno con chiaro e profumato
+liquido.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8131
+Il forno di Marya Luzarna~
+   L'aroma di pane fresco cotto nel forno riempie questo negozio, mescolato con
+l'odore piu' sottile di segale del sourdough. Nessuno panettiere ne' in Deira,
+Jiroch, o Roma puo' eguagliare Marya Luzarna, che proviene da una vecchia 
+stirpe di panettieri. Il Suo bis-bis-bis-nonno Ogann ha cotto al forno la
+Grande Pagnotta di Segale di Ofingia, che puo' essere portato in una tasca, ed 
+ha anche alimentato un esercito di Ofingiani per trenta giorni.
+~
+81 8 0
+D3
+Puoi inspirare profondamente e uscire ad ovest.
+~
+~
+0 -1 8122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8132
+Rzesk e Zykub, Gioiellieri.~
+   Sembra non esserci nessuno in questo negozio polveroso. La finestra in
+una parete e' rotta. Puoi vedere il bagliore di oro e gemme attraverso il vetro
+sporco di alcuni vetrine che non puoi rompere perche' e' un materiale degli
+gnomi e non puo' essere fracassato.
+Un avviso e' stato dipinto sopra in modo strano.
+~
+81 8 0
+D0
+~
+~
+0 -1 8122 0
+E
+avviso~
+"Rzesk & Zykub" e' stato attraversato da una linea singola, e sotto lui
+e' stato dipinto "Chiuso per Rinnovo".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8133
+La Zampa-di-Cane~
+   Questa e' una caverna molto strana. Va verso ovest per solo dodici
+iarde, finendo contro un piatto muro di pietra. Fra le altre cose, c'e'
+una PORTA nella parete ovest - Che cosa ci fa in una la caverna? C'e' un
+avviso su di essa, forse potrebbe spiegare chi ha messo una porta qui.
+Il pavimento e' completamente piatto, e la sabbia che lo ricopre e' assente
+qui. Forse merita una seconda occhiata.
+~
+81 9 2
+D1
+~
+~
+0 -1 1536481 0
+D3
+La porta e' una singola lastra di calcare levigato, fissata su cardini
+d'acciaio.
+~
+porta di pietra~
+0 -1 -1 0
+D5
+~
+pavimento~
+1 -1 8134 3
+E
+avviso~
+E' intarsiato nella porta.
+L'avviso dice:
+                      A gnotiyen na purxe Grob.
+~
+E
+pavimento pietra~
+Non e' certamente naturale. C'e' una fessura quadrata, e tu sospetti che
+si apra da li'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8134
+Giu', Giu', per la citta' dei Goblin!~
+   Il pavimento si e' aperto! Ma scivolare giu' nel tunnel bagnato vuol dire
+chiudersi dentro. Non c'e' nessuna fuga ora e scende sempre piu' profondamente.
+C'e' odore di Goblins in questo luogo.
+~
+81 9 1
+D2
+Vedi un atrio di pietra.
+~
+~
+0 -1 8135 0
+D4
+~
+pavimento~
+1 -1 8133 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8135
+L'atrio di pietra~
+   I muri sono erosi dal calcare e dall'acqua gocciolante, cosi' questa caverna
+e' sempre molto umida e molto fredda.
+~
+81 9 2
+D0
+Le pareti sono umide a nord.
+~
+~
+0 -1 8134 0
+D3
+I muri sono umidi ad ovest.
+~
+~
+0 -1 8136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8136
+L'atrio di pietra~
+   I muri sono erosi dal calcare e dall'acqua gocciolante. Cominci a temere per
+la tua salute ed il freddo non e' la tua piu' grande preoccupazione.
+~
+81 9 2
+D1
+I muri sono umidi ad est.
+~
+~
+0 -1 8135 0
+D3
+C'era una porta una volta, ora e' rotta.
+~
+~
+0 -1 8137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8137
+L'atrio di pietra~
+   Senti uno strano sfregamento ed un picchiettio provenire da un buco nel
+pavimento della caverna. Un forte puzza proviene da li'.
+Ad ovest c'e' una porta.
+~
+81 9 2
+D1
+I muri sono umidi ad est.
+~
+~
+0 -1 8136 0
+D2
+L'atrio gira a sud, e' umido come sempre.
+~
+~
+0 -1 8139 0
+D3
+La porta ad ovest e' ricoperta da oscure, maligne rune.
+~
+porta rune~
+1 -1 8138 3
+E
+rune~
+Non capisci molto ma il nome Orfax e' ripetuto spesso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8138
+La stanza delle guardie~
+   Questa e' una piccola caverna scavata dai Goblins.
+Spesso anche le armi sono immagazzinate qui, in caso di invasione. Le guardie
+sono cosi' malvagie, comunque, che i Goblins ripongono molta fiducia in loro,
+la loro prima linea di difesa.
+~
+81 8 1
+D1
+Puoi andare solo ad est.
+~
+porta rune~
+1 -1 8137 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8139
+L'atrio di pietra~
+   Non si puo'scappare da questo fredda, umida caverna. Ritorna in mente
+il Grunting Boar, ma non puoi raggiungere i suoi fuochi caldi ora. Solo
+attraverso il peggiore pericolo puoi lasciare queste caverne.
+~
+81 9 2
+D0
+I muri sono umidi a nord.
+~
+~
+0 -1 8137 0
+D1
+Una porta di pietra ad est e' istoriata da facce che sbirciano e rune malvagie.
+~
+porta di pietra~
+2 8100 8140 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8140
+L'atrio di pietra~
+   Le pareti calcaree di questa stanza sono crepate e cola acqua ghiacciata.
+I tuoi stivali sono bagnati fradici.
+~
+81 9 2
+D1
+I muri sono umidi ad est.
+~
+~
+0 -1 8141 0
+D3
+C'e' una porta di pietra ad ovest.
+~
+porta di pietra~
+2 8100 8139 15
+E
+acqua~
+E' molto fredda, troppo fredda da bere.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8141
+L'atrio di pietra~
+   Le pareti sgocciolano molto qui, come in ogni altro posto e ti avvolgi
+il mantello stretto intorno a te e continui. Non tornare indietro ora!
+Il pavimento e' piu' asciutto qui; l'acqua sgocciola in un pannello quadrato
+sul pavimento.
+~
+81 8 2
+D1
+Una porta di pietra luminescente e' posta su cardini d'acciaio ed e' chiusa.
+~
+porta di pietra luminescente~
+1 8101 8142 7
+D3
+Sente lo sgocciolio dell'acqua in tutto il tunnel.
+~
+~
+0 -1 8140 0
+D5
+Un buco e' stato scavato nel pavimento e chiuso con una lastra di pietra.
+~
+lastra di pietra~
+1 -1 8143 1
+E
+porta di pietra luminescente~
+   Il suo bagliore accende questo tunnel, ma non porta alcun piacevole
+ricordo della luce del giorno. E' una luce malaticcia verde pallido, come se
+le lampade che sono state rubate nelle magioni dei Nani siano state rovinate
+dai Goblin. Anche in Moria alcune luci dei nani bruciano ancora con la loro
+vecchia luce. Se anche i Nani hanno vissuto qui una volta, deve essersene
+andati molto tempo fa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8142
+Una piccola camera~
+   Anche questa potrebbe essere un alloggio per le guardie, ma non ne sei
+sicuro. Forse e' un magazzino, non vedi guardie.
+La luce della porta non arriva lontano, e la tua torcia getta ombre lunghe.
+Questa stanza contiene molte cose raccapriccianti da nascondere.
+~
+81 9 2
+D3
+C'e' una porta luminosa ad ovest.
+~
+porta luminosa~
+2 8101 8141 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8143
+Il Tunnel a spirale~
+   Questo tunnel scende lentamente a spirale ed in senso orario, scende
+profondamente nel budello della montagna. Deve essere molto in basso ora.
+~
+81 9 3
+D4
+L'acqua ghiacciata cola su questa lastra di pietra, ti bagna la giacca.
+~
+lastra di pietra~
+1 -1 8141 1
+D5
+Giu' verso i pendii del tunnel, verso la citta' dei Goblin.
+~
+~
+0 -1 8144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8144
+Il Tunnel a spirale~
+   Il tunnel si inclina gradualmente, gira e rigira nel suo percorso verso la
+citta dei Goblin. Che pazzia venire qui, e' troppo tardi per maledire la tua
+sciocchezza, Goblin dappertutto intorno a te.
+~
+81 9 3
+D4
+Un ruscello d'acqua scorre da questa direzione.
+~
+~
+0 -1 8143 0
+D5
+Il tunnel si muove a spirale ma piu' lontano nella roccia.
+~
+~
+0 -1 8145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8145
+Il Tunnel a spirale~
+   Il ruscello d'acqua sembra essere il tuo amico ultimo. La sua acqua e'
+fangosa ma e' ancora buona dopo tutto questo camminare. L'oscurita' di queste
+caverne cominciano ad innervosirti, e desideri la comune stanza della Locanda
+Grunting Boar.
+~
+81 9 3
+D4
+Il tunnel senza fine si muove a spirale diretto verso l'alto.
+~
+~
+0 -1 8144 0
+D5
+Il tunnel senza fine si muove a spirale ancor piu' profondamente nella terra.
+~
+~
+0 -1 8146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8146
+Il Tunnel a spirale~
+   Il ruscello d'acqua sembra essere il tuo amico ultimo. La sua acqua e'
+fangosa ma e' ancora buona dopo tutto questo camminare. L'oscurita' di queste
+caverne cominciano ad innervosirti, e desideri la comune stanza della Locanda
+Grunting Boar.
+~
+81 9 3
+D1
+Il tunnel senza fine corre ad est.
+~
+~
+0 -1 8147 0
+D4
+Il tunnel senza fine si arrampica in alto.
+~
+~
+0 -1 8145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8147
+Il Tunnel a spirale~
+   Non riesci a contare quante spirali faccia questo tunnel. I Goblins
+devono essere vicini, ne senti l'odore.
+~
+81 9 3
+D3
+Il tunnel senza fine corre ad ovest.
+~
+~
+0 -1 8146 0
+D5
+Il tunnel scende ripidamente ora.
+~
+~
+0 -1 8148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8148
+Il Tunnel a spirale~
+   Non riesci a contare quante spirali ha fatto questo tunnel. Non ti
+interessa neanche saperlo. Il puzzo dei Goblin della caverna e' molto
+forte qui, ma sopportabile.
+~
+81 9 3
+D4
+Il tunnel senza fine si arrampica in alto.
+~
+~
+0 -1 8147 0
+D5
+Il tunnel scende ripidamente ora.
+~
+~
+0 -1 8150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8149
+La Tesoreria~
+   Ehi! Non devi entrare qui! Esci subito!
+~
+81 9 0
+D4
+Meglio andarsene ora!
+~
+botola~
+2 8110 8126 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8150
+La fine del tunnel a spirale~
+   Che sia stata la pagnotta che hai mangiato, o la semplice sabbia, hai
+trovato la forza di tenere duro ed ora trovi un'uscita da questo orribile
+il tunnel a spirale. E piu' caldo qui di quando eri piu' in alto, ed il
+terribile puzzo dei Goblin delle caverne si diffonde da un buco nel pavimento.
+~
+81 9 2
+D4
+Il tunnel senza fine si arrampica verso l'alto.
+~
+~
+0 -1 8148 0
+D5
+Un buco scende verso un livello piu' basso.
+~
+~
+0 -1 8151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8151
+La citta' dei Goblin superiore~
+   Hai raggiunto il primo livello della citta' dei Goblin. Ora devi lottare per
+la tua vita, avventuriero! Sfodera l'arma e stai in guardia!
+~
+81 9 2
+D2
+Un atrio porta a sud.
+~
+~
+0 -1 8153 0
+D3
+C'e' una porta di ferro ad ovest. Ha un'iscrizione.
+~
+porta di ferro~
+2 8105 8152 15
+D4
+Una scala conduce su attraverso un buco nel soffitto.
+~
+~
+0 -1 8150 0
+E
+iscrizione~
+                Lascia il fato di chi armato resta qui
+              Avverti lo sciocco che lo segue della citta' dei Goblin
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8152
+Una piccola armeria~
+   I Goblins tengono alcune arme qui, forse quelle che ad essi non piace
+usare.
+~
+81 9 1
+D1
+Una porta di ferro porta ad est.
+~
+porta di ferro~
+2 8105 8151 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8153
+Una sala scura nella citta' dei Goblin~
+   Questa sala e' mortalmente pericolosa. I Goblin cercano di chiuderti in un
+angolo, ma ti getti su ogni ombra. Devi scappare!
+~
+81 9 1
+D0
+Il corridoio porta a nord.
+~
+~
+0 -1 8151 0
+D1
+C'e' una porta nera ad est.
+~
+porta nera~
+2 8105 8154 15
+D2
+Il corridoio corre a sud.
+~
+~
+0 -1 8155 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8154
+Una piccola dispensa~
+   Non sei sicuro sugli articoli immagazzinati in questa stanza, ma ci sono
+molte cassapanche da aprire. Molte appaiono essere di fabbricazione dei Nani;
+depredate, senza dubbio.
+~
+81 9 1
+D3
+Una porta nera e' ad ovest.
+~
+porta nera~
+2 8105 8153 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8155
+Una sala scura nella citta' dei Goblin~
+   Questo passaggio finisce qui! No, aspetta, ci sono porte ad est e a sud.
+Ma sono chiuse a chiave, forse puoi scassinarle, o hai le chiavi?
+Se no, aspetta e combatti! Non tutto e' perduto.
+~
+81 9 1
+D0
+Un corridoio continua a nord.
+~
+~
+0 -1 8153 0
+D1
+Una porta di ferro e' ad est.
+~
+porta ferro~
+1 8100 8157 7
+D2
+Una porta di pietra porta a sud.
+~
+porta di pietra~
+2 8103 8156 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8156
+Una piccola stanza~
+   Questa e' un'altra dispensa. Tutto questo livello e', come la
+stiva di una nave, dedicato a deposito.
+~
+81 9 1
+D0
+La sola uscita e' una porta di pietra a nord.
+~
+porta di pietra~
+2 8103 8155 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8157
+Una stanza delle guardie~
+   Non ora! Non un'altra stanza delle guardie! Ma questo e' un posto
+dove uno dovrebbe essere; dopo che tutto, non c'e' altro su questo
+pavimento.
+~
+81 9 1
+D1
+C'e' una porta d'acciaio ad est.
+~
+porta di acciaio~
+2 8100 8158 15
+D3
+Una porta di acciaio e' ad ovest.
+~
+porta di acciaio~
+1 8100 8155 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8158
+La discesa~
+   Una scala scende al livello successivo qui. Ad ovest una porta d'acciaio
+ti impedisce il passaggio.
+~
+81 9 1
+D3
+Una porta d'acciaio blocca questa via.
+~
+porta di acciaio~
+2 8100 8157 15
+D5
+Una botola si apre verso il basso.
+~
+botola~
+1 -1 8159 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8159
+La caserma~
+   Goblins errano per questo livello liberamente, ed il puzzo e'...
+come se da centomila anni carne di orco marcia ti spettasse qui.
+Questa sala non e' buia; i muri ardono di pallida luce, un'imitazione
+magica del segreto della luce delle lampade dei Nani che ancora si puo'
+trovare in certe parti di Moria.
+~
+81 8 0
+D2
+La sala luminosa va verso sud.
+~
+~
+0 -1 8160 0
+D4
+Una botola conduce in alto.
+~
+botola~
+1 -1 8158 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8160
+Una sala pallidamente illuminata nella citta' dei Goblin~
+   Non e' un luogo piacevole per una passeggiata domenicale! Ti chiedi
+a che profondita' ti trovi.
+~
+81 8 0
+D0
+La sala va verso nord.
+~
+~
+0 -1 8159 0
+D2
+C'e' una porta di bronzo a sud.
+~
+porta di bronzo~
+1 8103 8175 7
+D3
+Le pareti illuminano verso ovest.
+~
+~
+0 -1 8161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8161
+Una sala pallidamente illuminata nella citta' dei Goblin~
+   La bizzarra magia che fa ardere questi muri si indebolisce. Questi tunnel
+sono certamente quel genere di anfratti umidi e sporchi che piacciono tanto
+ai Goblins. Ossa e carne marcia giacciono sul pavimento, e strane bestie
+striscianti vivono su mucchi di immondizia.
+~
+81 8 0
+D0
+Una porta di bronzo porta a nord.
+~
+porta di bronzo~
+1 8100 8162 3
+D1
+Le pareti illuminano verso est.
+~
+~
+0 -1 8160 0
+D2
+C'e' una porta di bronzo a sud.
+~
+porta di bronzo~
+1 8103 8174 3
+D3
+Le pareti illuminano verso ovest.
+~
+~
+0 -1 8163 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8162
+Una stanza nella caserma~
+   Cuccette ricavate dalle pareti di pietra, accatastate cinque o sei
+una sopra l'altra, sono allineate lungo le pareti di granito di questa
+stanza. Sei parecchio in basso, ora. I Goblins dormono qui. Alcuni
+stanno dormendo ora! Che sogni straordinari devono fare queste orrende
+creature!
+~
+81 8 0
+D2
+C'e' una porta di bronzo a sud.
+~
+porta di bronzo~
+1 8100 8161 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8163
+Una sala pallidamente illuminata nella citta' dei Goblin~
+   Le pareti qui brillano un po', dove vene di metallo vengono alla
+superficie. Questo e' proprio deprimente, non aiuta ad evitare i Goblins.
+~
+81 8 0
+D0
+C'e' una porta di bronzo a nord.
+~
+porta di bronzo~
+1 8100 8164 3
+D1
+La sala continua ad est.
+~
+~
+0 -1 8161 0
+D2
+C'e' una porta di bronzo a sud.
+~
+porta di bronzo~
+1 8100 8173 3
+D3
+Le pareti illuminano verso ovest.
+~
+~
+0 -1 8165 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8164
+Una stanza nella caserma~
+   I Goblin dormono qui, stretti come sardine. Le stanze puzzano peggio
+di una scatola di sardine vecchia di una settimana, sporche come sono di
+sporcizia accumulata. Faresti meglio ad andartene.
+~
+81 8 0
+D2
+C'e' una porta di bronzo a sud.
+~
+porta di bronzo~
+1 8100 8163 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8165
+Una sala pallidamente illuminata nella citta' dei Goblin~
+   Uh oh... questo passaggio sembra andare ad una grande stanza ben piantonata.
+Qui c'e' un'ombra ed e' piu' grande di qualsiasi Goblin tu abbia mai visto.
+~
+81 8 0
+D0
+Una porta di bronzo porta verso nord.
+~
+porta di bronzo~
+1 8100 8166 3
+D1
+Le pareti illuminano verso est.
+~
+~
+0 -1 8163 0
+D2
+C'e' una grande stanza con molte guardie lontano a sud.
+~
+~
+0 -1 8167 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8166
+Una stanza nella caserma~
+   La stanza potrebbe adattarsi ai Goblins, ma tu non dormiresti mai qui,
+a meno di non essere costretto da un bisogno urgente. Qui armi e armature
+giacciono scartate, ma potrebbero esserti un po' d'aiuto.
+~
+81 8 0
+D2
+C'e' una porta di bronzo a sud.
+~
+porta di bronzo~
+1 8100 8165 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8167
+Un'atrio illuminato nella citta' dei Goblin~
+   Sbrigati! Quell'immensa ombra vicina a sud potrebbe non averti visto
+attraversare le sale, ma probabilmente tu non vuoi passare inosservato.
+~
+81 8 0
+D0
+Le pareti sembrano scoppiettare, gettando una luce lampeggiante.
+~
+~
+0 -1 8165 0
+D2
+Questa porta ad una grande sala scavata nella roccia, piena di Goblin e peggio.
+~
+~
+0 -1 8168 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8168
+La Confusione~
+   E' realmente una confusione. Ossa di ogni sorta giacciono sul pavimento
+sabbioso. Molte hanno ancora della carne attaccata. I Goblins sono usi a
+mordere qualcosa e a gettarlo via, anche se viene dalla tavola del Re.
+Grotteschi guerrieri con la pelle verde di tutte le taglie ed estremamente
+brutti, errano masticando carne, la cui origine non hai voglia di conoscere.
+~
+81 8 0
+D0
+Senti forti grida ed il trapestio di piedi che corrono provenire da  nord.
+~
+~
+0 -1 8167 0
+D1
+Un terribile puzzo e del vapore provengono da est.
+~
+~
+0 -1 8169 0
+D2
+Molti Goblins stanno mangiando a sud.
+~
+~
+0 -1 8170 0
+E
+ossa carne~
+Tutte queste ossa provocano un terribile puzzo. Non ti fanno certo venire
+appetito. Oltretutto, potrebbero anche essere avvelenati.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8169
+La Confusione~
+   Qui vedi il cuoco dei Goblin - e pensi che potresti fare una buona cena.
+Piuttosto non mettere via la tua armatura, la sua pentola necessita sempre
+di un altro pezzo di carne. Intorno a lui ci sono vasi contenenti strane
+sostanze che aggiunge alla sua pentola, probabilmente non gustose spezie.
+Ossa bollite ed asciutte sono accatastate nell'angolo.
+~
+81 8 0
+D2
+Un altro passaggio lascia questa caverna e va verso sud est.
+~
+~
+0 -1 8171 0
+D3
+Goblins ingoiano e sbavano ad ovest.
+~
+~
+0 -1 8168 0
+E
+ossa pila angolo~
+Sono di tante taglie diverse. Alcune sono di cervo o coniglio, ma molte
+sono di creature che camminano su due gambe.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8170
+La Confusione~
+   Questo angolo e' una caricatura di una semplice locanda, come il buon
+vecchio Grunting Boar. L'amicizia ed il godimento di bere buona birra sono
+ignoti fra queste brutte creature, cosi' inalano terribili puzzolenti miscele
+di sterco di caverna finoche' questo non li uccide. Non c'e' nessun felice
+ubriaco qui.
+~
+81 8 0
+D0
+Puoi lasciare questo posto, ma verso nord c'e' solo piu' trambusto.
+~
+~
+0 -1 8168 0
+D1
+~
+~
+0 -1 8171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8171
+La Confusione~
+   E che confusione! Qui la sala e' meno piena di Goblins e molti hanno fatto
+dei giacigli con i rifiuti. Una porta guardata a vista conduce ad est; e' di
+pietra ed elaboratamente intagliata con alcune rune di orco.
+~
+81 8 0
+D0
+Un camino con un calderone ribollente emette cattivi odori.
+~
+~
+0 -1 8169 0
+D1
+Una porta di pietra intagliata porta ad est.
+~
+porta di pietra intagliata~
+2 8100 8172 15
+D3
+Un odore di  vino acido e bosco ammuffito si diffonde da li'.
+~
+~
+0 -1 8170 0
+E
+rune di orco~
+Dicono:
+               Krsd be da hammer wieldn dwarfs
+~
+E
+porta di pietra intagliata intagli~
+I Goblins non hanno mai fatto niente di bello, ma questa porta e' molto
+ben fatta. Forse questa caverna una volta aveva degli occupanti migliori.
+La porta e' in condizioni eccellenti (sebbene sia stata scarabocchiata)...
+e splende.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8172
+Una piccola stanza~
+   La porta dalla quale sei passato e' certamente di fabbricazione nanesca.
+Puoi spingerla facilmente per aprirla, cosi' ben bilanciata su cardini di
+acciaio.
+Qualche incantesimo probabilmente l'ha salvata dalla rovina.
+Questa stanza particolare sarebbe potuta essere una volta una tesoreria o una
+armeria dei Nani o degli Gnomi, con una tale serratura, ma ora un grezzo buco
+nel pavimento scende verso il basso.
+~
+81 8 0
+D3
+Una porta di pietra porta verso ovest.
+~
+porta di pietra intagliata~
+2 8100 8171 15
+D5
+Rozzi appigli sono intagliati ai lati di questo tunnel.
+~
+~
+0 -1 8176 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8173
+Una stanza nella caserma~
+   Cuccette grezze sono nei muri qui, cosi' che cinquanta spiritelli possono
+dormira in questa stanza piuttosto grande. Questo luogo sembra essere
+davvero comodo, e suggerisce che non e' stato fatto dai Goblins, che non
+l'avrebbero fatto cosi' grande. Cosi' come e', stanno nelle cuccette il piu'
+vicino possibile, perche' le loro pareti sono troppo sottili, e sono crollate
+sulla cuccetta sottostante.
+~
+81 8 0
+D0
+Una porta di bronzo e' a nord.
+~
+porta di bronzo~
+1 8100 8163 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8174
+Una stanza nella caserma~
+   Tutte queste stanze della caserma sono simili, con cuccette intagliate
+nelle pareti, molte sono come le tombe di una catacomba. Al centro di tutte
+queste stanze della caserma i pavimenti hanno buche profonde nella pietra,
+ed un orrendo puzzo diretto verso l'alto suggerisce il loro scopo ed uso.
+~
+81 8 0
+D0
+Una porta di bronzo e' a nord.
+~
+porta di bronzo~
+1 8100 8161 3
+E
+buco buchi~
+Sembrano essere latrine.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8175
+L'Alloggio del capo tribu'~
+   Questa e' evidentemente la camera di un capo dei Goblin, ma ancora non
+vuoi vivere qui. Una spatola di pellicce di insetti parassiti e' su una lastra
+di pietra che serve da letto. A nessun nano piacerebbe un tale vita!
+Le pareti sono intagliate con rune di orco e segni, e decorato con scalpi e
+crani. Non vivresti a lungo se il capo ti trovasse qui.
+~
+81 8 0
+D0
+Una porta di bronzo porta a nord. Ha dei simboli scolpiti sopra.
+~
+porta di bronzo~
+2 8103 8160 15
+E
+scalpi crani~
+Molto sono umani, ma alcuni sono di Elfi.
+~
+E
+simboli porta~
+Sono danneggiati, ma ancora mostrano la stella e l'incudine del Re dei
+Nani Bob Grundelgrin. Cosi' queste erano una volta le sue sale.
+~
+E
+segni~
+Tutti hanno un scudo con una croce e un cervo.
+~
+E
+parete pareti orco rune~
+Cio' che puoi leggere dice:
+               Dy kng Korbor! Todstol lede sune!
+               
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8176
+Un Tunnel~
+   Qui i muri sono rozzamente scavati; questo e' sicuramente opera dei Goblin.
+Del pietrisco e' sul pavimento. Questa caverna e' buia, cosi' devi accendere
+di nuovo la lanterna.
+~
+81 9 1
+D0
+Il tunnel contina a nord.
+~
+~
+0 -1 8177 0
+D4
+Puoi arrampicarsi su per un buco che porta ad un tunnel pallidamente
+illuminato.
+~
+~
+0 -1 8172 0
+E
+pietrisco pavimento~
+Il pietrisco sul pavimento e' rotto. Questo passaggio, allora, e' probabilmente
+stato fatto di recente, e deve ancora essere allargato.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8177
+Un Tunnel~
+   Qui i muri sono rozzamente scavati; questo e' sicuramente opera dei Goblin.
+Del pietrisco e' sul pavimento. Questa caverna e' buia, cosi' devi accendere
+di nuovo la lanterna.
+~
+81 9 2
+D0
+Il tunnel continua a nord.
+~
+~
+0 -1 8178 0
+D2
+Una debole luce proviene da sud.
+~
+~
+0 -1 8176 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8178
+Un Tunnel~
+   Qui i muri sono rozzamente scavati, e' dove i goblins cercano l'acciaio.
+Pietrisco e minerale metallico sono sul pavimento. Anche questa caverna e'
+buia
+~
+81 9 2
+D0
+Il tunnel continua a nord.
+~
+~
+0 -1 8179 0
+D2
+Una luce molto debole proviene da sud.
+~
+~
+0 -1 8177 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8179
+Un Tunnel~
+   La luce della tua lampada getta strane ombre sui muri di questo passaggio.
+Il picchiettio dei minatori goblin che lavorano puo' essere sentito qui.
+~
+81 9 2
+D0
+Senti scorrere acqua a nord.
+~
+~
+0 -1 8181 0
+D1
+Bagliori d luce di fuoco tremola sotto una porta di legno.
+~
+porta di legno~
+1 -1 8180 3
+D2
+Il tunnel continua a sud.
+~
+~
+0 -1 8178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8180
+La Fonderia del Ferro~
+   I goblins amano il fumo ed il macchinario rumoroso. La fornace che illumina
+questa stanza e' uno dei loro migliori lavori.
+Un soffiatore che soffia aria e sparge scintille dappertutto sostituisce il
+mantice, e poi corre da diversi robusti Trolls che sono attorno ad una macina.
+~
+81 8 2
+D0
+Una porta d'acciaio porta a nord.
+~
+porta d'acciaio~
+1 -1 8182 3
+D3
+Una porta di legno porta ad ovest.
+~
+porta di legno~
+1 -1 8179 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8181
+Un angolo nelle miniere~
+   E' molto faticosp passare per un buco nel pavimento. Se lo volevi, potevi
+passare piu' facilmente tuffandoti; la lanterna mostra la superficie di un lago
+non lontano.
+~
+81 9 3
+D1
+Il tunnel continua ad est.
+~
+~
+0 -1 8182 0
+D2
+Il tunnel corre a sud.
+~
+~
+0 -1 8179 0
+D5
+Un buco porta ad un lago sotterraneo.
+~
+~
+0 -1 8185 0
+E
+buco~
+Questa acqua defluisce verso qualche uscita; forse conduce fuori da questa
+montagna? Ma una volta che ti tuffi, non puoi tornare indietro a meno che
+tu non abbia un paio di ali.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8182
+Un Tunnel~
+   I muri divengono leggermente piu' lisci qui e qualcuno e' riuscito a
+scarabocchiare alcune parole nel linguaggio comune sulla pietra.
+~
+81 9 1
+D1
+Il tunnel continua ad est.
+~
+~
+0 -1 8183 0
+D2
+Una porta d'acciaio porta a sud, da dove senti un rumoroso ruggito.
+~
+porta d'acciaio~
+1 -1 8180 3
+D3
+Senti scorrere acqua a nord.
+~
+~
+0 -1 8181 0
+E
+parole comune pietra muro~
+Dicono:
+    Stai attento viaggiatore! Pensi di aver lasciato i goblin
+    ma il peggiori deve ancora avvenire! Presta fede al mio avvertimento! 
+    Un fiume scorre da questa montagna, la sua corrente e' veloce 
+    e forte, ma e' piu' sicura di questi buchi per ratti!
+                                         Gloin
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8183
+Un angolo nelle miniere~
+   Qui una vena di ferro e' stata scavata nella montagna, ed il tunnel
+e' piuttosto largo ma ancora buio. Pietrisco e' dappertutto ed un acre
+fumo solforoso appesta l'aria. Senza dubbio i goblin hanno qualche strana
+magia per estrarre il minerale dai muri. I muri sono butterati da buchi poco
+profondi.
+~
+81 9 3
+D0
+Un debole alone di luce proviene da nord.
+~
+~
+0 -1 8184 0
+D3
+Le pareti del tunnel sono piu' lisce ad ovest.
+~
+~
+0 -1 8182 0
+E
+pietrisco muri buchi~
+C'e' uno strano odore di zolfo in questi buchi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8184
+La freccia della miniera~
+   Qui il passaggio della miniera finisce. Un pallido luccichio proviene
+da una botola nel pavimento.
+~
+81 9 2
+D2
+Il tunnel curva dietro ad un angolo.
+~
+~
+0 -1 8183 0
+D5
+Una botola porta in basso. E' molto scomoda l'apertura
+~
+botola~
+2 8103 8194 11
+E
+botola pavimento~
+La botola ha alcune rune di nano incise.
+Dicono:
+                Io, Gloin, ti avverto di non passare per questa via
+                a meno che tu non sia un guerriero coraggioso, il cui
+                cuore mai lo tradisce!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8185
+Sul lago sotterraneo~
+   Questa piccola caverna e' illuminata da un debole bagliore proveniente
+dall'alto, che e' utile in quanto ti guida nel lago. Il lago non e' proprio
+grande; e' tondo circa come una ciotola, largo cinquanta piedi, e profondo 15
+piedi. A nord un piccolo ruscello esce da un tunnel. Fra tutti i numerosi
+affluenti che alimentano questo lago, nessuno e' grande abbastanza, o basso
+abbastanza, da lasciartelo attraversare.
+~
+81 204 6
+D0
+Il ruscello scorre veloce, ma non troppo da nuotarci.
+~
+~
+0 -1 8186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8186
+Sul Ruscello Sotterraneo~
+   Il ruscello scorre da sud ad est, dove il tetto sembra essere molto piu'
+alto.
+E' piu' buio qui, ma le correnti ti spingono ad est, non hai molto tempo
+per vedere.
+~
+81 201 6
+D1
+Il ruscello scorre leggermente ad est.
+~
+~
+0 -1 8187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8187
+Il Ruscello sotto una sporgenza~
+   Qui il ruscello passa a sud di una sporgenza ghiaiosa, e scorre ad est.
+La caverna e' molto piu' bassa la', e la corrente ruggisce quando passa
+vicino alle rocce. Avresti fatto meglio a lasciare il ruscello qquando potevi. 
+Come i muri si restringono, il ruscello scorre piu' veloce, e senti un
+grande rumore provenire da est.
+~
+81 201 6
+D0
+Assomiglia acghiaia.
+~
+~
+0 -1 8189 0
+D1
+~
+~
+0 -1 8188 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8188
+La cascata~
+   Per alcuni minuti pensi di aver inventato un nuovo sport estremo.
+Non c'e'modo di tornare indietro ora; la corrente e' troppo forte.
+Allora vedi la cascata davanti a te, e scoprirai presto come ci si sente
+ad andare sulle cascate del Niagara senza un barile.
+~
+81 202 6
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#8189
+La Sporgenza~
+   Puoi' entrare nel torrente a sud, o cercare una via sulle rupi che
+costeggiano questo piccolo ruscello. Una fessura vicina sembra essere
+un appiglio.
+~
+81 9 1
+D2
+Il ruscello scorre velocemente ad est.
+~
+~
+0 -1 8187 0
+D4
+Non sara' facile, ma pensi di poterlo fare.
+~
+~
+0 -1 8190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8190
+La fessura~
+   E' duro arrampicarsi, e non tenti di scendere per questa via, ma hai
+fatto buoni progressi.
+~
+81 201 5
+D4
+Puoi tentare di arrampicarti.
+~
+~
+0 -1 8191 0
+D5
+Veramente, veramente non vuoi guardare in basso.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8191
+La fessura~
+   E' faticoso, ti arrampichi sempre piu' lentamente, ma ancora sali con
+un buon ritmo. Sei quasi a meta' strada.
+~
+81 201 5
+D4
+~
+~
+0 -1 8192 0
+D5
+Veramente, veramente non vuoi guardare in basso.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8192
+La fessura~
+   E' faticoso, ti arrampichi sempre piu' lentamente, ma ancora sali con
+un buon ritmo.
+~
+81 201 5
+D4
+You can keep climbing up, but you certainly won't do this again!
+~
+~
+0 -1 8193 0
+D5
+Veramente, veramente non vuoi guardare in basso.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8193
+Sulla rupe dove vogliamo andare~
+   Ogni mossa e' una tortura pura e semplice mentre ti tiri su per questa
+fessura nella rupe, ma sei quasi in cima!
+~
+81 201 5
+D4
+~
+~
+0 -1 8103 0
+D5
+Veramente, veramente non vuoi guardare in basso.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8194
+Un attraversamento del Tunnel~
+   Quattro passaggi conducono a nord, a sud, ad est e ad ovest, ma tutti
+sono bloccati da porte; una porta di legno a nord, una porta d'ottone ad est,
+una porta di ferro a sud ed una porta di diamante ad ovest. Puoi anche scappare
+per la via dalla quale sei venuto.
+~
+81 9 0
+D0
+La porta di legno sembra la scommessa piu' sicura; probabilmente nulla e' la'.
+~
+porta di legno~
+1 8100 8195 7
+D1
+La porta d'ottone puo' nascondere qualcosa di interessante.
+~
+porta di ottone~
+2 8102 8196 15
+D2
+La porta di ferro sembra molto robusta.
+~
+porta di ferro~
+2 8103 8197 15
+D3
+La porta adamantina sembra quasi infrangibile.
+~
+porta di diamante~
+2 8105 8198 15
+D4
+Una botola porta in alto.
+~
+botola~
+2 8103 8184 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8195
+La dispensa~
+   Questo luogo non e' molto interessante; comunque, le gabbie di legno
+accatastate in questa polverosa caverna risvegliano la tua curiosita'.
+~
+81 9 0
+D2
+Una porta di legno porta a sud.
+~
+porta di legno~
+1 8100 8194 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8196
+La camera della guardia~
+   Dietro a questa porta, i guerrieri piu' mortali dei goblins aspettano
+che il Grande Goblin li spedisca a devastare Lonoya. Puoi uccidere queste
+malvagie creature, o fuggirai?
+~
+81 8 0
+D3
+~
+porta di bronzo~
+2 8102 8194 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8197
+La fine nord di una sala~
+   Sei entrato nelle sale del Grande Goblin. A sud di qui lui siede
+sul suo grande trono d'osso. La volta del soffitto e' fatta abilmente
+sbilenca, ma solo abbastanza da disturbare.  Bassorilievi adornano i muri,
+ma hanno dettagli leggermente distorti. Rabbrividisci involontariamente.
+Questo luogo e' malvagio.
+~
+81 8 0
+D0
+Potrebbe essere saggio andarsene, ORA, attraverso quella porta di ferro.
+~
+porta di ferro~
+2 8103 8194 15
+D2
+Ti senti cosi' coraggioso?
+~
+~
+0 -1 8199 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8198
+La tesoreria dei Goblin~
+   Bene! Non so come hai ottenuto la chiave, ma sei alla fin giunto.
+Ora puoi depredare oro, gemme, e meravigliose armi che i goblin hanno rubato
+in questi anni.
+~
+81 9 0
+D1
+Hai raggruppato tutto? Allora vattene attraverso la porta di diamante.
+~
+porta di diamante~
+2 8105 8194 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8199
+La Sala del Trono~
+   Qui c'e' il brutto trono brutto del Grande Goblin grottescamente intagliato
+d'osso.
+Siede qui fra le sue guardie del corpo, pronto a controllare il peso del tuo
+cranio!
+~
+81 8 0
+D0
+Scappa verso nord finche' puoi!
+~
+~
+0 -1 8197 0
+E
+trono di ossa osso~
+E' fatto, apparentemente, con le ossa dei molti nemici che il Grande Goblin
+ha ucciso. Tutto sopra esso sono intagliati segni malvagi; arde di luce
+pallida, malaticcia.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

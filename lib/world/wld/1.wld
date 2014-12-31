@@ -1,0 +1,3490 @@
+#100
+Il Tempio del MouseRider~
+   L'interno di questo tempio e' austero oltre che maestoso. Le colonne di
+di marmo salgono fino al soffitto, fondendosi nella cupola in alto senza
+alcuna linea di giunzione. Un tappeto rosso e' ai piedi del trono al centro
+della stanza. Questa e' veramente la casa di un grande saggio!
+~
+1 524 0
+D0
+~
+~
+0 -1 101 0
+D2
+~
+~
+0 -1 102 0
+E
+trono~
+E' bella, come sedia, ma triste, per un trono.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#101
+La Camera da letto del MouseRider~
+   Questa assomiglia appena ad una camera da letto - questa e' una stanza
+cosi' spartana che certamente nessun umano potrebbe passare del tempo qui!
+C'e' un comodino in un angolo, con una sedia, sulla quale c'e' un pezzo di 
+carta, vicino ed esso. Una piccola lampada illumina quella piccola zona,
+lasciando il resto della stanza nell'oscurita'. Ad ovest, c'e' una grande
+porta d'acciaio.
+~
+1 8 0
+D2
+~
+~
+0 -1 100 0
+E
+porta ovest~
+Questa porta sembra saldamente chiusa. Non l'aprirai mai!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#102
+Piazza di Kerofk~
+   Questo e' il centro di Kerofk, fisicamente e culturalmente. C'e' molta
+gente, passeggia o aspetta di entrare nel grande tempio bianco a nord. A sud
+c'e' un tempio piu' piccolo blu, le sue porte sono chiuse da grandi nastri
+magici.
+~
+1 8 1
+D0
+~
+~
+0 -1 100 0
+D1
+~
+~
+0 -1 104 0
+D2
+~
+cancellate~
+2 125 103 9
+D3
+~
+~
+0 -1 125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#103
+Il Tempio Blu~
+   Entri nel tempio, ti guardi intorno con meraviglia per la polvere
+che c'e' all'interno.  Da intagli ed iscrizioni, immagini che e' stato
+costruito da Elfi e Nani durante un'era di pace molto tempo fa.
+La polvere ricopre quasi tutto, specialmente i gradini che scendono
+nella terra.
+~
+1 12 0
+D0
+~
+cancellate~
+1 125 102 1
+D5
+~
+~
+0 -1 200 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#104
+Strada del Centro, Est~
+   Questa strada e' molto trafficata. Sembra che tutti i cittadini di
+Kerofk siano qui, agitandosi e accalcandosi l'un l'altro nel tentativo
+di ottenere tutto che possono il piu' in fretta possibile.  Thud Argh
+Mi scusi! C'e' la Gilda dei Pandion a nord.
+~
+1 8 1
+D0
+~
+~
+0 -1 149 0
+D1
+~
+~
+0 -1 105 0
+D3
+~
+~
+0 -1 102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#105
+Incrocio~
+   Questa e' l'Incrocio tra Citizen Road e Strada del Centro. Le file di
+pedoni passano da una parte all'altra agevolmente. Non hai nessuna idea
+di come attraversare. Aspetta, c'e' un'apertura!  Corri, Gira, Salta!
+Corri, corri, corri... ci sei sopra!
+~
+1 8 1
+D0
+~
+~
+0 -1 118 0
+D1
+~
+~
+0 -1 106 0
+D2
+~
+~
+0 -1 113 0
+D3
+~
+~
+0 -1 104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#106
+Strada del Centro, Est~
+   Le stelle splendono su di te accecandoti mentre cammini su Citizen
+Road, e per un momento ti dimentichi del luogo strano in cui ti trovi.
+Una confezione di fiori appassiti ti riportano alla realta'; questa citta'
+non vede il sole da decenni.
+~
+1 8 1
+D1
+~
+~
+0 -1 108 0
+D3
+~
+~
+0 -1 105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#107
+La Carta Rossa~
+   Questo luogo e' uno sporco, brutto, disgustoso salotto per il gioco
+d'azzardo della piu' infima classe. Le porte della Carta Rossa sono
+perennamente aperte. Cameriere stanche prendono ordini in maniera annoiata,
+e poi si affrettano ad esaudirli proprio un attimo prima che i clienti
+se ne vadano. Schiacci qualcosa e hai paura di vedere cos'era...
+aspetti un po'?
+~
+1 8 0
+D0
+~
+~
+0 -1 119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#108
+Mura~
+Mura della citta'.
+~
+1 0 1
+D0
+~
+~
+0 -1 114 0
+D1
+~
+~
+0 -1 166 0
+D2
+~
+~
+0 -1 109 0
+D3
+~
+~
+0 -1 106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#109
+Via del Dirupo, Sud~
+   Questo sembra un posto interessante.
+Come ti avvicini agli edifici per tenerti lontano dal dirupo ad est (che
+ti UCCIDEREBBE certamente), vedi un grande casino'chiamato "Il limite
+della Fortuna" ad ovest. Abbastanza stranamente, la cittadinanza di
+Kerofk cammina su e giu' la strada, quasi dimentica dell'incredibile
+dirupo qualche metro piu' in la'.
+Via del Dirupo continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 108 0
+D1
+~
+~
+0 -1 167 0
+D2
+~
+~
+0 -1 110 0
+D3
+~
+~
+0 -1 141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#110
+Incrocio in Via del Dirupo~
+   Qui e' dove Via del Dirupo e Strada del Cancello della Luna si incontrano:
+sul bordo di una rupe. Ti sente distintamente sconfortato quardi giu' dalla
+rupe e pensi non sarebbe molto saggio procedere ancora ad est.
+Verso nord c'e' Via del Dirupo, ad ovest c'e' Strada del Cancello della Luna
+e ad est una enorme distesa di stelle che splendono sopra il buio oceano.
+~
+1 8 1
+D0
+~
+~
+0 -1 109 0
+D1
+~
+~
+0 -1 167 0
+D3
+~
+~
+0 -1 111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#111
+Strada del Cancello della luna, Est~
+   Ti avvicini alla fine di Strada del Cancello della Luna.
+Un grande edificio a sud ha appeso all'esterno il disegno di una trota
+in un piatto. "Bob Armature e attrezzatura" proclama.  Armature?
+Attrezzatura?!? Curioso!
+Strada del Cancello della luna continua ad est e ad ovest.
+~
+1 8 1
+D1
+~
+~
+0 -1 110 0
+D2
+~
+~
+0 -1 143 0
+D3
+~
+~
+0 -1 112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#112
+Incrocio~
+   Strada del Cancello della luna e Citizen's Road si intersecano qui. Molti
+cittadini gironzolano sotto la luce delle stelle, affrettandosi verso i
+negozi, le loro case, al lavoro, eccetera. Citizen's Road e' a nord, Strada
+del Cancello della Luna continua ad est e ad ovest.
+~
+1 8 1
+D0
+~
+~
+0 -1 113 0
+D1
+~
+~
+0 -1 111 0
+D2
+~
+~
+0 -1 254 0
+D3
+~
+~
+0 -1 126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#113
+Citizen's Road, Sud~
+   Molte case private in questa strada: questo e' evidentemente un quartiere
+residenziale. Improvvisamente ti accorgi di come e' stata progettata questa
+citta'. E' stato fatto apposta? Allora, sembra non esserci niente di
+interessante qui, la strada continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 105 0
+D2
+~
+~
+0 -1 112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#114
+Via del Dirupo, Nord~
+   Cliff Side Road continues to the north and south.
+C'e' una movimentata taverna ad ovest chiamata "L'appeso alla rupe"!
+E' distante solo 5 piedi circa dall'orlo della rupe. Quella rupe sembra
+pericolosa davvero. Tuttavia la taverna sembra buona.
+Via del Dirupo continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 115 0
+D1
+~
+~
+0 -1 167 0
+D2
+~
+~
+0 -1 108 0
+D3
+~
+~
+0 -1 146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#115
+Incrocio in Via del Dirupo~
+   Questa e' una scena non terrena: le stelle brillano di pallida luce su
+questa Incrocio tra Via del Dirupo e la Strada del Cancello della Stella,
+la rupe e' ad est con l'oceano sotto.  Hmm... qualcosa ti dice di non
+andare ad est...
+Via del Dirupo va a sud, Strada del Cancello della Stella va ad ovest.
+~
+1 8 1
+D2
+~
+~
+0 -1 114 0
+D3
+~
+~
+0 -1 116 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#116
+Strada del Cancello della stella, Est~
+   Questa zona e' stranamente quieta per un citta' cosi' viva. Le stelle
+splendono mentre cerchi la causa di tutto questo silenzio. Ah,
+c'e' una libreria/biblioteca a nord! La Strada del Cancello della luna
+continua ad est e ad ovest.
+~
+1 8 1
+D0
+~
+~
+0 -1 147 0
+D1
+~
+~
+0 -1 115 0
+D3
+~
+~
+0 -1 117 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#117
+Incrocio~
+   Strada del Cancello della stella e Citizen's Road si incontrano qui dove
+molta gente passeggia o si fa gli affari suoi. Ci sono alcune case private
+a sud e Strada del Cancello della Stella continua ad est e ad ovest.
+~
+1 8 1
+D0
+~
+~
+0 -1 259 0
+D1
+~
+~
+0 -1 116 0
+D2
+~
+~
+0 -1 118 0
+D3
+~
+~
+0 -1 119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#118
+Citizen's Road, Nord~
+   Case private fiancheggiano questa strada, ma tutte sembrano stare alla
+larga da una potente magione ad ovest. I suoi muri sembrano emanare un'aria
+di morte. Possibile che qualcuno viva la'?
+Citizen's Road continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 117 0
+D2
+~
+~
+0 -1 105 0
+D3
+~
+~
+0 -1 178 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#119
+Strada del Cancello della stella, Est~
+   Strada del Cancello della stella continua su, verso la rupe ad est.
+Verso sud c'e' il salotto del gioco d'azzardo chiamato 'La Carta Rossa".
+L'odore che proviene dalle sue porte aperte e' abbastanza forte da fare
+allontanare un uomo in preda al disgusto.
+Strada del Cancello della stella continua ad est e ad ovest.
+~
+1 8 1
+D1
+~
+~
+0 -1 117 0
+D2
+~
+~
+0 -1 107 0
+D3
+~
+~
+0 -1 120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#120
+Strada del Cancello della stella~
+   Qui finiscono le spinte e la confusione di Strada del Cancello della
+Stella. A nord c'e' il negozio di un grosso contadino dove molta gente
+entra ed esce.
+~
+1 8 1
+D0
+~
+~
+0 0 252 0
+D1
+~
+~
+0 -1 119 0
+D2
+~
+~
+0 -1 255 0
+D3
+~
+~
+0 -1 121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#121
+Strada del Cancello della stella, Ovest~
+   Lo splendore delle stelle nella notte a sud, provocano uno scintillio
+spettacolare sul metallo.
+Il cartello dice:"Kell House". Senti molta gente che parla e che ride li'
+dentro; e' evidente una taverna o una locanda, e popolare anche.
+Strada del Cancello della stella continua ad est e ad ovest.
+~
+1 8 1
+D1
+~
+~
+0 -1 120 0
+D2
+~
+~
+0 -1 163 0
+D3
+~
+~
+0 -1 122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#122
+Incrocio~
+   Strada degli Affari qui si congiunge a Strada del Cancello della Stella.
+A sud sono allineati piccoli negozi mentre Strada del Cancello della Stella
+continua sia ad est che ad ovest.
+Da nord proviene una stranza sensazione di potere.
+~
+1 8 1
+D0
+~
+~
+0 -1 175 0
+D1
+~
+~
+0 -1 121 0
+D2
+~
+~
+0 -1 123 0
+D3
+~
+~
+0 -1 137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#123
+Strada degli Affari, Nord~
+   Un lieve aroma riempie la strada qui, proviene dalle porte aperte
+del negozio dell'erborista ad est. Una grande varieta' di piante sono
+ordinate fuori delle sue porte sotto pesante lampioni ed un cartello
+proclama l'assortimento delle erbe e delle specialita' della giornata.
+Strada degli Affari continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 122 0
+D1
+~
+~
+0 -1 154 0
+D2
+~
+~
+0 -1 124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#124
+Incrocio~
+   C'e' troppa gente qui all'intersecazione di Strada del Centro e Strada degli
+Affari! Inoltre, e' tutta gente che cammina con evidente fretta.
+Spingi per evitare di essere travolto ma quasi ottieni l'effetto contrario.
+I tuoi riflessi ti salvano, ma cerchi di uscire da quest'incrocio in fretta.
+Strada del Centro va ad est e ad ovest, Strada degli Affari va a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 123 0
+D1
+~
+~
+0 -1 125 0
+D2
+~
+~
+0 -1 130 0
+D3
+~
+~
+0 -1 138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#125
+Strada del Centro, Ovest~
+   Strada del Centro e' un manicomio di gente che sbatte contro altra gente,
+tu incluso! Una delle attrazioni principali qui sono il municipio a nord,
+dove c'e' la prigione della citta', la sala delle udienze e la camera del
+consiglio, per non menzionare l'ufficio del sindaco Kell. Ad est vedi un
+tempio enorme bianco ed un tempio piu' piccolo blu.
+Strada del Centro continua ad est e ad ovest.
+~
+1 8 1
+D0
+~
+~
+0 -1 155 0
+D1
+~
+~
+0 -1 102 0
+D3
+~
+~
+0 -1 124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#126
+Strada del Cancello della luna, Est~
+   Questa e' Strada del Cancello della Luna, che corre da Cancello della
+Luna fino alla rupe. C'e' una piccola locanda a nord, con una cartello
+all'esterno.
+Strada del Cancello della luna continua ad est e ad ovest.
+~
+1 8 1
+D0
+~
+~
+0 -1 144 0
+D1
+~
+~
+0 -1 112 0
+D3
+~
+~
+0 -1 127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#127
+I Cancelli Sud~
+Ti trovi ai Cancelli Sud di Kerofk.  Sembra non ci siano uomini di guardia al
+cancello.    
+~
+1 8 1
+D1
+~
+~
+0 -1 126 0
+D2
+~
+~
+0 -1 1566463 0
+D3
+~
+~
+0 -1 128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#128
+Strada del Cancello della luna, Ovest~
+   La luce delle stelle da' stranamente a questa parte di Strada del
+Cancello della Luna un aspetto surreale. Ci sono alcuni negozi in questa
+strada, ma non sembrano interessanti sotto questo aspetto. Guardandoti
+intorno, vedi l'ingresso al cimitero a sud.
+~
+1 8 1
+D1
+~
+~
+0 -1 127 0
+D2
+~
+~
+0 0 248 0
+D3
+~
+~
+0 -1 129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#129
+Incrocio~
+   Strada del Cancello della luna incrocia Strada degli Affari e anche qui
+molta gente va in giro per i propri affari. Lungo Strada degli Affari a nord
+vedi molti tipi di negozi diversi, e Strada del Cancello della luna continua
+ad est e ad ovest.
+~
+1 8 1
+D0
+~
+~
+0 -1 130 0
+D1
+~
+~
+0 -1 128 0
+D3
+~
+~
+0 -1 131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#130
+Strada degli Affari, Sud~
+   Negozi in questa strada, alcuni aperti altri chiusi. Verso nord vedi
+l'incrocio tra Strada del Centro e Strada degli Affari, mentre verso sud c'e'
+l'incrocio tra Strada degli Affari e Strada del Cancello della Luna.
+C'e' un negozio ad ovest, uno sporco cartello lo proclama: "APERTO".
+~
+1 8 1
+D0
+~
+~
+0 -1 124 0
+D2
+~
+~
+0 -1 129 0
+D3
+~
+porta~
+1 0 139 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#131
+Strada del Cancello della luna, Ovest~
+   Un commerciante intraprendente ha il suo negozio appena a nord, il
+cartello proclama: "Posto di Jenk". Sembra sia una sorta di negozio di articoli
+generali. Strada del Cancello della Luna continua ad est verso la rupe, ad
+ovest verso il Cancello della Luna Cancello.
+~
+1 8 1
+D0
+~
+~
+0 -1 139 0
+D1
+~
+~
+0 -1 129 0
+D2
+~
+~
+0 -1 257 0
+D3
+~
+~
+0 -1 132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#132
+Incrocio~
+   Respiri l'aria fredda della notte e ti guarda intorno: la cittadinanza
+passeggia appena dentro uno dei cancelli della citta'. Questa citta'
+ti crea un po' di confusione... deve essere tutta questa vita notturna!
+Sentendoti compiaciuto per le prospettive ti guardi intorno per fare
+qualcosa...
+Strada delle Mura porta a nord mentre Strada del Cancello della Luna ad est.
+~
+1 8 1
+D0
+~
+~
+0 -1 133 0
+D1
+~
+~
+0 -1 131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#133
+Strada delle mura, Sud~
+   Tutti gli edifici in questa area sono semi distrutti, sembrano vittime
+di un incursione o di qualche guerra. C'e' qualche segno di costruzione, ma
+sembra che non ci sia un grande bisogno di edifici nuovi ora.
+Strada delle mura continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 134 0
+D2
+~
+~
+0 -1 132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#134
+Incrocio~
+   Strada del Centro comincia qui, correndo profondamente nel cuore di Kerofk.
+Vedi tanti tipi di edifici che corrono per tutta la sua lunghezza, incluso
+un grande tempio bianco lontano ad est, con un tempio piu' piccolo blu di
+fronte ad esso. Con questa grande architettura, e la maesta' dei cieli
+stellati, sai che questa e' una vista che non dimenticherai mai.
+Strada del Centro porta ad est, Strada delle Mura continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 135 0
+D1
+~
+~
+0 -1 138 0
+D2
+~
+~
+0 -1 133 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#135
+Strada delle Mura, Nord~
+   Questa e' Strada delle Mura, cosi' chiamata per la sua prossimita' a...
+alle mura della citta'. Ad est c'e' un ufficio di reclutamente della milizia
+urbana di Kerofk. Strada delle Mura continua a nord e a sud.
+~
+1 8 1
+D0
+~
+~
+0 -1 136 0
+D1
+~
+~
+0 -1 171 0
+D2
+~
+~
+0 -1 134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#136
+Incrocio~
+   Entri nella citta' coi suoni della folla agitata intorno a te. Un po'
+di gente sembra fare i propri affari mattutini, altri sembrano tenere pronto
+il letto... deve essere strano vivere in un mondo di crepuscolo eterno.
+Un cartello stradale ti informa che Strada delle Mura corre a sud e che
+Strada del Cancello della Stella va ad est.
+~
+1 8 1
+D1
+~
+~
+0 -1 137 0
+D2
+~
+~
+0 -1 135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#137
+Strada del Cancello della stella, Ovest~
+   La cittadinanza di Kerofk cammina qui intorno, ti osserva appena mentre
+cammini giu' per questa strada. Sembra che siano usi ad incontrare degli
+avventurieri e non se ne curano. Strada del Cancello della stella continua
+ad est e ad ovest, incrociando rispettivamente Strada degli Affari e Strada
+delle Mura.
+~
+1 8 1
+D0
+~
+~
+0 -1 258 0
+D1
+~
+~
+0 -1 122 0
+D2
+~
+~
+0 -1 256 0
+D3
+~
+~
+0 -1 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#138
+Strada del centro, Ovest~
+   Strada del centro e' fiancheggiata da grandi edifici per tutta la sua
+lunghezza; per esempio c'e' il tempio enorme di Nevyn a sud. Anche per
+un tempio questo e' un grande edificio! Forse varrebbe dare un'occhiata
+intorno.
+Strada del centro continua ad est e ad ovest.
+~
+1 8 1
+D1
+~
+~
+0 -1 124 0
+D2
+~
+~
+0 -1 169 0
+D3
+~
+~
+0 -1 134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#139
+Il Posto di Jenk~
+   Questo negozio e' in cosi' tale confusione che non sai da che parte
+iniziare a guardare. Ti senti che avresti potuto trovare ESATTAMENTE
+quello che cercavi, se solo avessi avuto tempo abbastanza per cercarlo...
+Forse non sarebbe una cattiva idea provare qualcosa dopo tutto.
+~
+1 152 0
+D1
+Questa e' una grande porta di metallo con un cartello che dice: "FUORI!"
+~
+porta~
+1 -1 130 3
+D2
+~
+~
+0 0 131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#140
+Il retro~
+   Questa stanza e' piccola, chiusa e silenziosa. Non c'e' alcuna finestra,
+solo l'entrata per la quale sei passato, e virtualmente null'altro se non
+una tavola rachitica, una sedia ed una lanterna appesa soffitto.
+~
+1 12 0
+D3
+~
+porta~
+0 -1 139 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#141
+Il limite della Fortuna~
+   Una ventata di suoni e musica ti assalgono come entri in questo salotto
+del gioco d'azzardo.  Questo e' un luogo per i ceti alti, dove il ricco ed
+inattivo di Kerofk perde una montagna di soldi. Tutto il luogo e' decorato
+in ombre di rosso, e la maggior parte delle finestre fronteggiano la vicina
+rupe - evidentemente per dare ai giocatori d'azzardo un ulteriore brivido.
+~
+1 8 0
+D1
+~
+~
+0 -1 109 0
+D3
+~
+~
+0 -1 142 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#142
+L'Ufficio di Benzaldeide~
+   Questo ufficio e' piuttosto opulento. L'enorme scrivania d'ebano di
+fronte a te domina completamente la stanza. La scrivania e' ingombra come
+la mente e' affilata; Benzaldeide non e' uno sciocco. Alcuni quadri con i
+membri della famiglia sul muro mostrano che Ben potrebbe avere un lato buono,
+ma sospetti che siano la' solo per fare scena. Sono appese anche alcune armi
+esotiche, sembrano molto affilate.
+~
+1 8 0
+D1
+~
+~
+0 -1 141 0
+E
+arma armi~
+Un esame piu' ravvicinato rivela che le armi sono a pezzi.
+~
+E
+quadri~
+Con un'occhiata piu' vicina comprendi che i quadri sono tutti di qualcuno
+della famiglia.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#143
+Bob Armatura ed Attrezzatura~
+   Questo luogo deve essere il negozio piu' SOVRANNATURALE che sia mai
+esistito. Arpioni ed alabarde decorano i muri. Breast plates accatastate.
+Pile di corde d'arco e da pesca, etc, etc, etc. Il bottegaio ha creato
+questo incubo piuttosto casalingo.
+~
+1 8 0
+D0
+~
+~
+0 -1 111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#144
+La Fortezza~
+   Wow! Questo luogo e' difeso meglio di alcuni castelli che hai visto.
+In caso Kerofk mai cascasse, questo luogo sara' certamente l'ultimo posto
+dove rifugiarsi: muri alti 15 piedi, feritoie per le freccie... e' un
+pezzo straordinario di ingegneria. Come entri, osservi che ognuno qui
+porta qualche tipo di arma, e sanno come usarle. Sembra proprio un luogo
+sicuro!
+~
+1 8 0
+D2
+~
+~
+0 -1 126 0
+D4
+~
+~
+0 -1 145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#145
+La Reception~
+   Qui ci sono le stanze private della Fortezza. Porte d'acciaio che
+portano alle camere da letto fiancheggiano le sale, ciascuna con una
+serratura piu grande di un tuo pugno. Un cartello qui proclama
+l'inespugnabilita' della fortezza, "Finestre sbarrate, e Guardie sulle
+quali puoi contare veramente!" Una piccola scrivania piccola e' qui,
+con un annoiato receptionist dietro ad essa.
+~
+1 24 0
+D5
+~
+~
+0 -1 144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#146
+L'appeso alla Rupe~
+   Questo locale per bevitori e' sistemato vicino al bordo della rupe per
+tuo grande conforto - vicino circa cinque piedi! Brevemente preghi Nevyn,
+gli domandi che non ci sia nessun terremoto nell'immediato futuro.
+Come ti guardi intorno, vedi molta gente svenuta sul pavimento, questo e'
+evidentemente un locale per i ceti bassi. La stanza e' cupa, la gente
+sudata, i camerieri al banco sono stanchi, e tu vuoi una bibita.
+~
+1 8 0
+D1
+~
+~
+0 -1 114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#147
+La Libreria~
+   Le mensole di questo negozio sono stracolme di libri. Tomi su gatti,
+ratti, piatti, grate, maghi, gabbie, palcoscenici, spade, ammassi, dragoni,
+capre, fossati, soldi, miele, incantesimi, campane, Inferno, profumi e
+ancora e ancora e ancora! Potresti trovare qualcosa di interessante qui.
+~
+1 152 0
+D2
+~
+~
+0 -1 116 0
+D3
+~
+libreria~
+1 124 148 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#148
+La Gilda degli Alcioni~
+   Il pannello aperto nascosto dietro a te non sembra emettere nessuna luce,
+e ti trovi nell'oscurita' piu' completa. Senti la presenza di qualcuno
+nella stanza insieme a te - era un dito sulla tua borsa?!?
+Veloce! Accendi una luce!
+~
+1 9 0
+D1
+~
+libreria~
+1 124 147 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#149
+Gilda dei Pandion, Entrata~
+   Questa e' un'area molto bella, spaziosa, piena di luci brillanti che
+mantengono l'eterno crepuscolo all'esterno. Ci sono tre porte che portano
+profondamente nella gilda: ad est e' indicato "Libreria", a nord e' marcato
+"Leonna Office" e ad ovest e' segnato "Dispensa".
+~
+1 8 0
+D0
+~
+porta nord~
+1 -1 151 1
+D1
+~
+porta est~
+1 -1 153 1
+D2
+~
+~
+0 -1 104 0
+D3
+~
+porta ovest~
+1 123 152 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#150
+La stanza delle scelte dei Mob di Kerofk~
+   Questa stanza smista random i mob nella citta', e non dovrebbe essere
+raggiungibile dai giocatori. Grazie a Locke di Cthulhu mud per questa idea!
+~
+1 8 0
+D0
+~
+~
+0 0 125 0
+D1
+~
+~
+0 0 113 0
+D2
+~
+~
+0 0 108 0
+D3
+~
+~
+0 0 116 0
+D4
+~
+~
+0 0 137 0
+D5
+~
+~
+0 0 134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#151
+L'Ufficio di Leonna~
+   Questo e' l'ufficio della Guildmistress Leonna. E' brillante ed allegra,
+con un fuoco che ruggisce in un focolare e molti uccelli canori in gabbie.
+La sua scrivania e' immacolata ma per qualche lavoro era giusto occupata
+qualche momento fa. Sedie nere coperte di raso sono pronte per dare conforto
+ai suoi ospiti, e hai un'urgenza improvvisa di sedertie riposarti a parlarle
+un po'.
+~
+1 8 0
+D2
+~
+porta~
+1 -1 149 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#152
+Dispensa della Gilda dei Pandion~
+   La Gilda dei Pandion di Kerofk immagazzina i propri approvvigionamenti qui.
+Pile di rotoli di carta bianca, calami, inchiostro, bacchette magiche e doghe,
+fiale vuote e tutto il necessario per le arti magiche.
+~
+1 8 0
+D1
+~
+porta~
+1 123 149 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#153
+La libreria dei Pandion~
+   La prima cosa che noti in questa stanza, (oltre all'incredibile numero
+di libri), e' il fatto che questa stanza non PUO' esistere nell'edificio.
+Hmm, non si puo' mai dire con chi utilizza la magia.
+I libri sembrano molto ben organizzati dal "Tewey Teleportation System",
+un'altra di quelle cose magiche.
+~
+1 8 0
+D3
+~
+porta~
+1 -1 149 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#154
+L'erboristeria~
+   Un piacevole profumo ti assale i sensi quando entri in questo negozio.
+Questo e' un bel luogo! Fiori appena tagliati decorano ogni cosa, in piccole
+pentole tisane di erbe formano piccole bolle.
+Lanterne estremamente lucenti tengono il luogo perpetuamente illuminato.
+Ti senti perfettamente a tuo agio, e l'atmosfera e' tale che non vorresti mai
+andartene.
+~
+1 152 0
+D3
+~
+~
+0 -1 123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#155
+Municipio, Ingresso~
+   Pazzia organizzata. C'e' gente che va in ogni direzione qui, su,
+attraverso, di sopra, di sotto! Spedizioni, comunicazioni, visite,
+appuntamenti, WHEW! Sei contento di non lavorare qui!
+
+	   C'e' una comunicazione della direzione:
+		Sopra - Sindaco Kell
+		Sotto - Prigioni
+		Nord  - Sala delle udienze
+		Ovest - Camera del Consiglio
+
+~
+1 8 0
+D0
+~
+~
+0 -1 158 0
+D2
+~
+~
+0 -1 125 0
+D3
+~
+~
+0 -1 159 0
+D4
+~
+~
+0 -1 156 0
+D5
+~
+~
+0 -1 161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#156
+Ufficio esterno~
+   Questo e' un bel ufficio, con una grande scrivania al centro. E' la
+scrivania della segretaria ed e' una confusione di lavori non finiti ed
+il cestino e' stracolmo di carta.
+~
+1 8 0
+D0
+~
+~
+0 -1 157 0
+D5
+~
+~
+0 -1 155 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#157
+L'Ufficio del Sindaco Kell~
+   L'ufficio del Sindaco Kell e' proprio casalingo.  C'e' qualche sedia
+imbottita, una bella scrivania con poggiapiedi, quadri di amici e parenti
+sui muri ed altre cose da ufficio. C'e' anche un bel bar attrezzato,
+probabilmente rifornito dalla stessa taverna di proprieta' di Kell nella
+parte settentrionale della citta'.
+~
+1 12 0
+D2
+~
+~
+0 -1 156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#158
+Sala delle udienze~
+   Qui e' dove gli assessori dispensano le decisioni su Kerofk e sulla
+cittadinanza. Al momento non c'e' nessuno caso in discissione, ma sembra
+che presto ce ne sara' uno.
+~
+1 8 0
+D2
+~
+~
+0 -1 155 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#159
+Camera esterna~
+   Questa e' una piccola anticamera fuori la Camere del Consiglio. E'
+decorata con pannelli di legno. Attendere potrebbe essere una buona idea.
+~
+1 12 0
+D1
+~
+~
+0 -1 155 0
+D3
+~
+porta~
+1 -1 160 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#160
+Camera interna~
+   Ora l'hai fatto! Hai interrotto una Sessione del Consiglio! Non lavorerai
+mai piu' in questa citta'! Cosa?!? Non lavori qui? Guardie,
+ALL'ATTACCO!!!
+
+   C'e' una grande tavola grande con sei sedie. Altrimenti, questa stanza
+sembrerebbe semplice, per minimizzare le distrazioni dei Membri del Consiglio.
+~
+1 8 0
+D1
+~
+porta~
+1 -1 159 1
+E
+tavolo~
+Osserva una piccola incisione su uno lato:
+		"Amanda era qui".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#161
+Stanza del Carceriere~
+   Una piccola stanza pulita. Ci sono una sedia comoda ed una chiave
+appesa al muro. In un angolo vicino alla sedia, c'e' un pila di
+giornali scartati.
+~
+1 8 0
+D1
+~
+porta~
+1 126 162 1
+D4
+~
+~
+0 -1 155 0
+E
+sedia~
+C'e' un cartellino su di essa: "Laz-E-Goblin"
+~
+E
+giornale~
+Sembra tutto su notizie di guerra.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#162
+Celle~
+    Finalmente!  Una cella che non ha umidita', non e' ammuffita,
+puzzolente e fredda... devono aerare questo luogo almeno una volta al
+giorno. C'e' un po' di sporcizia qui.
+~
+1 13 0
+D3
+~
+porta~
+1 126 161 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#163
+La Casa di Kell~
+   Questa e' la Casa di Kell, il sindaco di Kerofk. Ad est c'e' la
+taverna e lui e la sua famiglia corre, a sud c'e' la reception.
+~
+1 8 0
+D0
+~
+~
+0 -1 121 0
+D1
+~
+~
+0 -1 165 0
+D2
+~
+~
+0 -1 164 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#164
+Reception~
+   La moglie di Kell, Myrama, ti saluta con un sorriso. Le stanze qui sono
+grandi e pulite e non avrai mai un soggiorno piu' comodo della Casa di Kell.
+~
+1 28 0
+D0
+~
+~
+0 -1 163 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#165
+La Taverna di Kell~
+   Questa e' la taverna della Casa di Kell. Molta gente e' qui, per
+parlare di tutto dalla politica alla caccia. Sembra che questo sia piu' il
+bar di un pensatore che di un bevitore, comunque. La cameriera al banco
+sembra efficiente, e il bar e' molto ben approvvigionato.
+~
+1 8 0
+D3
+~
+~
+0 -1 163 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#166
+Uh-Oh!~
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (respiro) AAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHH!!!!
+			THUD! CRACK!  KerPLOOMP!
+
+   	    (quella non era una buona idea, ora lo sai, eh?)
+
+			  SEI MORTO!  R.I.P.
+
+~
+1 2 0
+D0
+~
+~
+0 -1 115 0
+D3
+~
+~
+0 -1 108 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#167
+Whoops...~
+
+   Accelerare a 9,81 m/s2 non e' di solito una buona idea a meno che tu
+non abbia un...
+              
+               SSSSSSPPPPPPPLLLLLLAAAAAAAAATTTTTTTTT!!!!!
+
+ ewww! (sei morto, R.I.P.)
+~
+1 2 0
+D0
+~
+~
+0 -1 110 0
+D3
+~
+~
+0 -1 109 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#168
+La stanza delle scelte dei Mob di Kerofk~
+   Questa stanza smista random i mob nella citta', e non dovrebbe essere
+raggiungibile dai giocatori. Grazie a Locke di Cthulhu mud per questa idea!
+~
+1 0 0
+D0
+~
+~
+0 0 124 0
+D1
+~
+~
+0 0 105 0
+D2
+~
+~
+0 0 117 0
+D3
+~
+~
+0 0 122 0
+D4
+~
+~
+0 0 129 0
+D5
+~
+~
+0 0 112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#169
+Tempio di Fizban~
+Una vista familiare! L'altare di Fizban e' decorato coi soliti
+simboli delle aquile in volo ed altro segni del potere del dio. La statua
+sta in piedi orgogliosa... ha un mano alzata e l'altra regge un libro
+aperto. Ad ovest ci sono le aree dei Preti di Nevyn ma pensi che siano
+ristrette ai devoti.
+~
+1 8 0
+D0
+~
+~
+0 -1 138 0
+D3
+~
+~
+0 -1 170 0
+E
+statua~
+Ad una ispezione approfondita noti che la statua ti fa la linguaccia.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#170
+Area dei Preti~
+   Piccoli comodini sono posati in maniera ordinata per i preti.
+Un piccolo ed una scrivania sono in un angolo, un vecchio uomo lavora
+tranquillamente dietro ad essa. Una finestra lascia entrare una luce fioca
+supplendo alle lanterne appese ai muri.
+~
+1 8 0
+D1
+~
+~
+0 -1 169 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#171
+Ufficio di Reclutamento~
+   Questo ufficio e' pulito e spazioso. Una grande scrivania fronteggia la
+porta, con un burbero sergente dietro ad essa. Gira il registro e te lo
+mette sotto al naso: "Nome, Razza, Sesso, Eta', Indirizzo..." dietro a lui
+c'e' l'ufficio del Capitano della Guardia.
+~
+1 8 0
+D1
+~
+~
+0 -1 172 0
+D3
+~
+~
+0 -1 135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#172
+Ufficio del Capitano~
+   L'ufficio di questo uomo e' una testimonianza alla guerra. Armi
+esotiche che non hai mai visto sono appese ai muri, e noti anche
+gocce di sangue sul pavimento. Al centro c'e' una grande che permette
+di fare a pugni.
+~
+1 8 0
+D3
+~
+~
+0 -1 171 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#173
+Lotto vacante~
+C'e' una grande area battuta in questo lotto. Senti che qualcosa dovrebbe
+esserci qui, ma non c'e'. Strano!
+Strada del Cancello della luna e' a nord.
+~
+1 8 0
+D0
+~
+~
+0 -1 127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#174
+Storia di Kerofk~
+   Questa e' una "stanza casuale", creata solo per la continuita' del gioco.
+   E cosi', la storia di Kerofk...
+   La citta' di Kerofk e' stata pensata dalla mente del Builder_5, come
+una citta' maggiore in un gioco di ruolo che andava al tempo (una pesante
+variazione di Powers & Perils - un modulo di Avalon Hill).
+Amanda Eterniale era un giocatore in questo gioco, e ha amato la citta'.
+In questo periodo, Amanda ha ricevuto l'invito a costruire sull'ora
+defunto AlbertMUD. Le e' stato insegnato come costruire da un implementor
+chiamato MJPrime, e lei come prima cosa ha creato la citta' di Kerofk, in
+onore del gioco Builder_5.
+   AlbertMUD e' morto in maniera abbastanza sporca, e circa sei mesi piu'
+tardi, Amanda ha convinto gli implementors a mandarle le loro aree. Lei
+li ha dati al Builder_5, ha sorriso, e detto:
+    "Compili questi? Per favore?"
+   Builder_5 ci ha messo tre mesi buoni per compilare, fissare e convertire
+questi files in una versione piu' appropriata per una rilascio pubblico.
+Questo e' il risultato.
+Tutti noi speriamo che traiate diletto da questa area, ad un anno dalla sua
+creazione.
+	Amanda Eterniale Builder_5
+~
+1 8 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#175
+Sacrario all'Imperatore~
+   Questo e' un posto storico per la gente di Kerofk, e' dove il mago Rand
+e' entrato in questo reame attraverso il "portale dimensionale" che creo',
+e piu' tardi ha continuato nel fondare questa citta'. Una gigantesca lastra
+di terra e' caduta qui dal cielo, con incorporata una strana pietra sagomata
+a forma di occhio. Uno strano senso di enorme potere proviene da essa...
+resti ed echi del potere di Rand, evidentemente.
+~
+1 12 0
+D2
+~
+~
+0 -1 122 0
+E
+occhio pietra sagomato occhio-sagomato~
+   Ora che la esamini piu' da vicino, sembra essere realmente un occhio di
+pietra intagliato, resa liscia dal tempo e dagli elementi. E' stranamente
+calda al tocco, e si sente un formicolio quando si passa la mano sopra
+essa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#176
+Cancello della stella~
+   Questo piccolo cancello sembra essere l'ingresso principale per i
+contadini che entrano in citta' con i loro prodotti. C'e' un grande cartello
+qui che potresti voler leggere.
+~
+1 12 0
+D1
+~
+~
+0 0 136 0
+D3
+~
+~
+0 0 240 0
+E
+cartello~
+			  AVVENTURIERI!!!!
+
+Ho bisogno di un gruppo di anime coraggiose per entrare nel tempio blu e
+distruggere il globo cattivo. Paghero' bene per l'atto!!! Per favore fermati
+al mio tempio e prendi il rotolo magico ed usalo per entrare nell'area se
+sei potente abbastanza da resistere alle prove!!!
+--MouseRider, saggio di Kerofk.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#177
+Cancello della luna~
+   Questo e' il Cancello della Luna, l'ingresso principale a Kerofk e MOLTO
+ben difeso. Le guardie ti guardano sospettosamente, ma ti lasciano entrare
+senza problemi. C'e' anche un grande cartello qui che potresti voler leggere.
+~
+1 12 0
+D1
+~
+~
+0 0 132 0
+D3
+~
+~
+0 0 235 0
+E
+cartello~
+			  AVVENTURIERI!!!!
+
+Ho bisogno di un gruppo di anime coraggiose per entrare nel tempio blu e
+distruggere il globo cattivo. Paghero' bene per l'atto!!! Per favore fermati
+al mio tempio e prendi il rotolo magico ed usalo per entrare nell'area se
+sei potente abbastanza da resistere alle prove!!!
+--MouseRider, saggio di Kerofk.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#178
+Il Cortile~
+   Questo, il cortile della terribile magione, sembra essere piu' simile
+ad una giungla che al tuo normale prato coltivato. E' ovvio che questa zona
+non e' stata curata da molti anni, almeno decenni! La porta sembra fare un
+cenno e ti invita ad entrare. Le strane sensazioni che provi non possono
+essere attribuite ad orrore o cattiveria, cosi' perche' non tenti la fortuna?
+~
+1 12 0
+D1
+~
+~
+0 -1 118 0
+D3
+~
+~
+0 -1 179 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#179
+Atrio~
+   Profonde crepe solcano i muri, lasciando buchi grandi abbastanza da
+permettere a qualche cosa di piuttosto sporco di viverci. La porta cigola
+dietro a te, e ti gira, aspettandi di sentirla sbattere. Non succede e ti
+senti sciocco. "Nessuno vive qui", dici a te stesso, mentre sali al piano
+superiore.
+~
+1 8 0
+D1
+~
+~
+0 -1 178 0
+D3
+~
+~
+0 -1 180 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#180
+Sala principale~
+   Questa e' una vecchia stanza polverosa. Le macchie di sporcizia sul
+pavimento indicano che diverse persone hanno abitato questa casa anche
+in tempi recenti. Una scalinata una volta riccamente ornata conduce al
+secondo piano e sotto alla sua cima c'e' una serie porte di vetro rotte
+che portano nel cortile interno. La sala della casa continua a nord e
+a sud, dando accesso ad alcune delle stanze interne.
+~
+1 8 0
+D0
+~
+~
+0 -1 186 0
+D1
+~
+~
+0 -1 179 0
+D2
+~
+~
+0 -1 189 0
+D3
+~
+~
+0 -1 181 0
+D4
+~
+~
+0 -1 191 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#181
+Cortile interno~
+   Il cortile interno e' ancor piu' caotico del cortile esterno. Qua e
+la' panche che una volta dovevano essere bianche, sono invase dalle erbe
+alte. Ti senti molto piu' a tuo agio qui che all'interno della casa,
+sebbene una presenza appaia in lontananza nel giardino ad ovest.
+Un leggero puzzo di vecchiaia ti passa accanto, e desideri tornare all'interno
+della casa ad est.
+~
+1 8 0
+D1
+~
+~
+0 -1 180 0
+D3
+~
+~
+0 -1 182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#182
+Ingresso al Giardino~
+   La luce delle stelle da' questa illuminazione apparentemente malata al
+giardino, il fioco scintillio da' l'illusione del movimento alle piante.
+Tutto intorno a te, viti strisciano su tralicci decadenti e l'altra
+vegetazione cresce senza controll, inattesa. Senti un gentile scorrere
+di acqua da nord, e ti addentri piu' profondamente nel giardino ad est,
+ma in definitiva pensi che andare ad ovest potrebbe essere l'idea migliore.
+~
+1 8 0
+D0
+~
+~
+0 -1 183 0
+D1
+~
+~
+0 -1 181 0
+D3
+~
+~
+0 -1 185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#183
+La zona della fontana~
+   Alberi non potati bloccano la poca luce che c'era fuori nel giardino.
+Una piccola fontana di marmo annerito e' al centro, con uno spesso strato
+di sporcizia ed alghe sulla sua superficie. Piccole creature si annidano
+nelle sue profondita' e non sei sicuro di voler sapere cosa sono esattamente.
+Puoi andare a sud, all'ingresso del giardino, o ad ovest, verso una zona piu'
+illuminata del giardino.
+~
+1 9 0
+D2
+~
+~
+0 -1 182 0
+D3
+~
+~
+0 -1 184 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#184
+Nel Giardino~
+   Qui il giardino e' buio e minaccioso, ma ancora stranamente bello.
+Un cavalletto e' stato sistemato qui, e delle tele da disegno sono in
+terra in attesa di essere usate. Una debole luce passa attraverso le
+foglie come acqua su questa scena, e ti senti stranamente in pace con
+il giardino, riconoscendolo come singola entita' viva quale e'.
+~
+1 8 0
+D1
+~
+~
+0 -1 183 0
+D2
+~
+~
+0 -1 185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#185
+Nel Giardino~
+   Uh! Il giardino e' assolutamente morto qui! Fumi provevienti dalle
+vecchie piante morte ti fan venire le vertigini e la nausea. Qualunque
+cosa abbia ucciso le piante non ti interessa a questo punto.
+Forse sarebbe saggio lasciare il posto velocemente.
+~
+1 8 0
+D0
+~
+~
+0 -1 184 0
+D1
+~
+~
+0 -1 182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#186
+Atrio~
+   Questo atrio una volta era tappezzato di bei colori e ben illuminato
+dalle lampade sui muri. Ora le tappezzerie sono sfilacciate e mangiate
+dalle falene e la maggior parte delle lampade sono scomparse, lasciando
+buchi scuri nei muri. C'e' una porta alla tua sinistra ed una alla tua
+destra. Una finestra a nord guarda fuori su un vicolo dietro al casino'
+e a sud c'e' la stanza principale della magione.
+~
+1 8 0
+D1
+~
+~
+0 -1 187 0
+D2
+~
+~
+0 -1 180 0
+D3
+~
+~
+0 -1 188 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#187
+Sala da pranzo~
+   Sedie imbottite estremamente vecchie sono qui. Ci sono anche alcuni
+tavole ricoperti di muffa e cosparsi di qualcosa che assomiglia a melassa.
+Una grande credenza con antico vasellame cinese sta in piedi contro la
+parete nord. Ti sembra come una di quelle stanze preparate per i drammi e
+non per l'uso di tutti i giorni.
+~
+1 8 0
+D3
+~
+~
+0 -1 186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#188
+Una stanza distrutta~
+   Questa stanza doveva essere una biblioteca una volta. Ora tutta la mobilia
+e'stata tolta. Sembra che una grande tempesta (o solo furia?) sia passata
+in questa stanza, come se migliaia di lotte avessero avuto luogo nel corso
+degli anni.
+~
+1 8 0
+D1
+~
+~
+0 -1 186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#189
+Atrio~
+   Questa sezione dell'atrio interno, a causa delle impronte sul pavimento,
+sembra ancora usato. Ci sono porte ad est e ad ovest, e verso nord c'e la
+stanza principale della magione. Una finestra una volta ha onorato la fine sud
+di questo atrio, ma e' stata chiusa con assi.
+~
+1 8 0
+D0
+~
+~
+0 -1 180 0
+D1
+~
+~
+0 -1 190 0
+D3
+~
+~
+0 -1 192 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#190
+Stanza da pranzo~
+   Questa una volta era una grande sala da pranzo. Ora la grande tavola di
+quercia e' completamente rotta e appoggiata contro un muro. Evidentemente
+gli attuali proprietari di questa magione non si curano molto di questo luogo
+se la lasciano cadere in rovina cosi'.
+~
+1 8 0
+D3
+~
+~
+0 -1 189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#191
+Atrio del primo piano~
+   Questo e' l'atrio in cima ai gradini, che porta a nord e a sud.
+Porte fiancheggiano l'atrio in entrambe le direzioni, e puoi scendere
+nella stanza principale. Una grande finestra alta dieci piedi e' nella
+parete ovest sembra essere stata una finestra dai vetri colorati una volta.
+Ora i cocci sono in terra.
+~
+1 8 0
+D0
+~
+~
+0 -1 195 0
+D2
+~
+~
+0 -1 193 0
+D5
+~
+~
+0 -1 180 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#192
+Cucina~
+   Come tutte le altre stanze di questa casa, questa cucina ha subito
+l'ingiuria del tempo e l'incuria degli attuali proprietari. C'e' ancora
+del cibo, ma riempie l'aria di puzzo di marcio.
+Una cosa di cui sei sicuro e' che non vuoi mangiare niente di cio' che e'
+stato preparato qui!
+~
+1 8 0
+D1
+~
+~
+0 -1 189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#193
+Atrio~
+   Questo e' un atrio corto che permette al focolare nella cucina di
+raggiungere il tetto. Una porta e' nella parete est e la sala porta
+a nord dove c'e' la scala che scende di sotto.
+~
+1 8 0
+D0
+~
+~
+0 -1 191 0
+D1
+~
+~
+0 -1 194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#194
+Camera da letto~
+   Questa camera da letto e' stata fatta per due persone. Ci sono cuccette
+al centro della stanza, e diverse serie di scendiletto su ciascuno lato.
+Sulla destra c'e' un scrivania piuttosto pulita, una sedia, una cassettiera
+e sulla sinistra c'e' una confusione di vestiti, carte, libri, e cibo semi
+mangiato. Non c'e' molto di interessante qui.
+~
+1 8 0
+D3
+~
+~
+0 -1 193 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#195
+Atrio~
+   Questa sala conduce alla parte settentrionale del primo piano, dove ci
+sono due camere da letto ad est e ad ovest. Non c'e' niente di lontanamente
+interessante qui, dalla decadenza generale della casa ora niente e' "nuovo"
+per te. Un'altra finestra guarda fuori sul casino' a nord, dove vedi molti
+tipi di bassa morale. La luce delle stelle filtra attraverso la finestra
+rendendo questa sala piu' illuminata del resto della casa.
+~
+1 8 0
+D1
+~
+~
+0 -1 196 0
+D2
+~
+~
+0 -1 191 0
+D3
+~
+~
+0 -1 197 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#196
+Camera degli ospiti~
+   Questa e' una piccola stanza piccina, di sei piedi quadrati e contiene
+solo un piccolo letto, un piccolo comodino ed un scala a libro appoggiata al
+muro in un angolo. La molta polvere sul pavimento ti fa capire che questa
+stanza non e' stata usata da lungo tempo.
+~
+1 8 0
+D3
+~
+~
+0 -1 195 0
+D4
+~
+botola~
+1 -1 198 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#197
+Camera da letto~
+   Indovineresti che una giovane vive in questa stanza, dalla qualita' e
+dalla novita' dei vestiti che sono accatastati su una cassapanca aperta,
+e dai cosmetici su una mensola sotto uno specchio sulla parete lontano.
+Un piccolo comodino e' sul pavimento ed osservi che non c'e' ombra di
+polvere in questa stanza al contrario del resto della casa.
+~
+1 8 0
+D1
+~
+~
+0 -1 195 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#198
+Attico~
+   Questo e' l'attico della casa. Ci sono mensole infilate in tutto il
+tetto con sopra oggetti strani galleggianti in vasi.
+La puzza di formaldeide e' molto forte qui e ti senti svenire.
+C'e' una porta costruita in una sezione a sud... potresti farlo...
+~
+1 9 0
+D2
+~
+porta~
+1 -1 199 1
+D5
+~
+botola~
+1 -1 196 1
+E
+vasi vaso~
+   Um, piu' guardi questo vaso, e piu' la cosa galleggiante al suo
+interno comincia ad assomigliare ad un pezzo di anatomia umana. * [urp]*
+comincia a sentire molto male.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#199
+Camera da letto~
+   Qualche cosa puzza di morto qui.
+   C'e' un letto da regina che occupa la maggior parte di questa piccola
+stanza dell'attico. Alcuni vestiti sono sparsi in disordine ed il letto e'
+sfatto. Una sedia e' sotto una scrivania, dove qualcuno ci lavora
+frequentemente. Quassu' e' proprio freddo, molto piu' freddo di fuori.
+~
+1 8 0
+D0
+~
+porta~
+1 -1 198 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#200
+Ingresso alle Prove Blu~
+   Entri nell'area ammuffita sotto il tempio blu e ti fermi in timore
+riverenziale.
+I lavori in pietra qui sono semplicemente incredibili - una combinazione
+di lavorazione manuale della pietra dei Nani e la qualita' artistica degli 
+Elfi.  Sul muro c'e' un'iscrizione:
+
+"Solo coloro che hanno il coraggio delle bestie possono salvarsi dal male".
+
+C'e' una porta ad est.
+~
+1 9 0
+D1
+~
+porta~
+1 -1 201 1
+D4
+~
+~
+0 -1 103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#201
+Corridoio~
+   Sembra che la porta dalla quale sei appena passato sia scomparsa dietro
+di te!
+La sola cosa da fare e' avanzare, allora, piu profondamente nei passaggi. E
+non ti senti sicuro...
+
+   Il passaggio continua a sud.
+~
+1 9 0
+D2
+~
+~
+0 -1 202 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#202
+Corridoio~
+   Corridoio bianco, con mattoni cosi' attaccati insieme che ogni muratore
+sarebbe curioso di conoscere l'autore di tale opera. Il passaggio
+continua verso ovest e a nord.
+~
+1 9 0
+D0
+~
+~
+0 -1 201 0
+D3
+~
+~
+0 -1 203 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#203
+Corridoio~
+   Qui c'e' un'altra porta, e hai il sospetto che anche questa scompaia
+dopo che sei passato. Il corridoio torna indietro verso est per la strada
+dalla quale sei venuto, e la porta e' a sud.
+~
+1 9 0
+D1
+~
+~
+0 -1 202 0
+D2
+~
+porta~
+1 -1 204 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#204
+Stanza Ottagonale~
+   Come entri, vede una luce brillante che splende al centro di questa
+stanza ottagonale. Ci sono anche molte ossa di avventurieri precedenti.
+Sfortunatamente, la porta e' di nuovo scomparsa dietro a te. La solo via
+d'uscita e' ad est.
+~
+1 8 0
+D1
+~
+porta~
+1 -1 205 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#205
+Corridoio~
+   Torni nel corridoio, e, ancora una volta, la porta e' scomparsa
+dietro a te. La solo via d'uscita e' a nord.
+~
+1 9 0
+D0
+~
+~
+0 -1 206 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#206
+Corridoio~
+   Ancora una volta ti trovi davanti ad una porta dall'aspetto normale nella
+parete a nord. Il corridoio conduce a sud, e poi corre su verso una fine
+certa. Di nuovo un'uscita sola.
+~
+1 9 0
+D0
+~
+porta~
+1 -1 207 1
+D2
+~
+~
+0 -1 205 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#207
+Prova~
+   Questa e' una grande stanza rettangolare con tre uscite, porte a
+nord, est ed ovest. La porta dalla quale sei entrato e'... sparita!
+Non sei sorpreso, comunque. Ci sono anche alcune strane tracce di piedi
+strascicati sul pavimento, e giureresti che il sangue scolorito e' vecchio.
+~
+1 8 0
+D0
+~
+nord~
+1 -1 211 1
+D1
+~
+est~
+1 -1 209 1
+D3
+~
+ovest~
+1 -1 208 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#208
+Corridoio~
+   La porta dietro a te e' scomparsa, e tiri un sospiro. E' vecchio ormai.
+Questa e' giusto una piccola stanza con una porta a sud. Sai che l'hai gia'
+vista.
+~
+1 9 0
+D2
+~
+porta~
+1 -1 201 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#209
+Corridoio~
+   La porta dietro a te scompare nella parete senza lasciare traccia.
+Chiunque abbia perso energie magiche per queste porte certamente aveva
+acume, se non un certo senso dell'umorismo.
+Il passaggio continua verso sud.
+~
+1 9 0
+D2
+~
+~
+0 -1 210 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#210
+Corridoio~
+   Sei arrivato alla fine del passaggio. Ma, invece di trovare una
+porta, trovi una botola! L'eccitamento e' palpabile; un cambio di ritmo,
+forse?
+~
+1 9 0
+D0
+~
+~
+0 -1 209 0
+D5
+~
+botola~
+1 -1 202 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#211
+Corridoio~
+Qui il corridoio ha ai lati due alcove, ciascuna con una statua di qualche
+Dio dimenticato. Le placche sono arrugginite cosi' che non puoi leggerne i
+nomi. Probabilmente queste erano omaggi a Dei ed un tempo erano in qualche
+tempio in superficie. C'e' una botola sul pavimento oltre loro: la sola uscita.
+~
+1 9 0
+D5
+~
+botola~
+1 -1 212 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#212
+Corridoio~
+   Ti lasci cadere dalla botola (che svanisce) in questo nuovo passaggio.
+Corre ad est. Cominci a chiederti se vedrai mai Kerofk di nuovo. Questo
+labirinto e' terribile!
+~
+1 9 0
+D1
+~
+~
+0 -1 213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#213
+Corridoio~
+   Il passaggio continua ad est e ad ovest fuori dal tuo piccolo cerchio di
+luce. Non sembra esserci nulla di interessante qui, solo lavori in pietra e te.
+~
+1 9 0
+D1
+~
+~
+0 -1 214 0
+D3
+~
+~
+0 -1 212 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#214
+Fine del Corridoio~
+   Il corridoio finisce qui, con una porta nel muro settentrionale. Il
+passaggio sembra ancora misterioso.
+~
+1 9 0
+D0
+~
+porta~
+1 -1 215 1
+D3
+~
+~
+0 -1 213 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#215
+Seconda Prova~
+   Qui ci sono due porte, a nord e ad est. La porta dalla quale sei arrivato
+e' sparita nel vento. Non c'e' nessun indizio su quale porta e' quella
+corretta per uscire da qui, e ti chiedi se questa e' soltanto una prova per
+indovini.
+~
+1 8 0
+D0
+~
+nord~
+1 -1 217 1
+D1
+~
+est~
+1 -1 216 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#216
+Corridoio~
+   Senti che questa era la decisione sbagliata, in qualche modo. Ci sono due
+"nests" qui, per la mancanza di una migliore parola, sembrano usati di recente.
+~
+1 9 0
+D2
+~
+porta~
+1 -1 201 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#217
+Corridoio~
+   Senti ha preso la decisione giusta, in qualche modo. La porta dietro
+a te e' svanita, ma il corridoio conduce a nord.
+~
+1 9 0
+D0
+~
+~
+0 -1 218 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#218
+Corridoio~
+   Qui c'e' una porta a nord. Una placca dice: "Prova di Difesa".
+Ti vengono CATTIVI pensieri.
+~
+1 9 0
+D0
+~
+porta~
+1 -1 219 1
+D2
+~
+~
+0 -1 217 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#219
+Prova di Difesa!~
+   Questo e' una piccolo stanza chiusa, con una porta all'esatto opposto
+di dove sei entrato. La porta dietro a te... che porta???
+~
+1 8 0
+D0
+~
+porta~
+1 -1 220 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#220
+Corridoio (Di nuovo!)~
+   Senti che qualcosa passa sopra di te per un momento. Questo posto sembra
+essere un luogo dove bello, sicuro per riposare.
+~
+1 13 0
+D1
+~
+~
+0 -1 221 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#221
+Corridoio~
+   Ora ti senti proprio perso!
+~
+1 9 0
+D2
+~
+~
+0 -1 222 0
+D3
+~
+~
+0 -1 220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#222
+Corridoio~
+   Ora ti senti proprio perso!
+~
+1 9 0
+D0
+~
+~
+0 -1 221 0
+D1
+~
+~
+0 -1 223 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#223
+Corridoio~
+   Ora ti senti proprio perso!
+~
+1 9 0
+D0
+~
+~
+0 -1 224 0
+D3
+~
+~
+0 -1 222 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#224
+Fine del Corridoio~
+   Sembri esser giunto alla fine dei corridoi, senza una uscita evidente.
+Potrebbe esserci qualcosa di nascosto qui?
+~
+1 9 0
+D2
+~
+~
+0 -1 225 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#225
+Prova di Persistenza~
+   In questa piana stanza quadrata, ci sono quattro porte, ciascuna ad
+ogni angolo. Ad una prima occhiata sembrano uguali, e per un momento ti
+senti confuso.
+~
+1 8 0
+D0
+~
+nord~
+1 -1 227 1
+D1
+~
+est~
+1 -1 226 1
+D2
+~
+sud~
+1 -1 226 1
+D3
+~
+ovest~
+1 -1 226 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#226
+Corridoio~
+   Sai di aver preso l'uscita sbagliata, ma la sembra esserci un
+buco nel pavimento come sola uscita.
+~
+1 9 0
+D5
+~
+~
+0 -1 220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#227
+Corridoio~
+   Il corridoio conduce a nord, sai di avere scelto l'uscita giusta.
+Che fortuna!
+~
+1 9 0
+D0
+~
+~
+0 -1 228 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#228
+Corridoio~
+   C'e' una porta a nord, con una placca che dice:
+		   "Prova di Morte!"
+
+   Uh-oh.  Ti chiedi se per caso ti e' rimasta una scroll of recall...
+~
+1 9 0
+D0
+~
+porta~
+1 -1 229 1
+D2
+~
+~
+0 -1 227 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#229
+Ucciso da una Arrow Trap!~
+
+   Improvvisamente migliaia di frecce ti infilzano... recandoti
+un dolore gigantesco!!!!
+
+SEI MORTO (R.I.P.!)
+
+
+
+
+
+
+******-->Benvenuto nel Fantastico mondo di DALILA!<--******
+
+0) Esci da Dalila.		1) Entra nel gioco.
+2) Descrivi il personaggio.	3) Leggi la Storia.
+4) Cambia la password.		5) Cancella il personaggio.
+
+***********************************************************
+
+   Scegli:
+
+
+
+
+
+ (ed ora, l'illusione lentamente scompare).
+~
+1 8 0
+D0
+~
+~
+0 -1 230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#230
+Alcova~
+   Davanti, vedi una luce brillante, molto piu' brillante di qualsiasi
+fonte di luce che tu abbia mai visto. Sembra provenire da un piccolo globo
+che e' nella prossima stanza su un piedistallo.
+~
+1 8 0
+D0
+~
+~
+0 -1 231 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#231
+Piedistallo del Globo!~
+   Questa e' una grande stanza quadrata. Tutto intorno sui muri ci sono
+fregi di Nani e di Elfi, dipinti proprio come lo e' il globo che si libra
+libra sul piedistallo al centro di questa stanza. Il piedistallo e' di oro
+puro, ed il globo si libra sopra di lui, ronza ed arde con tale luce che
+puoi vedere a malapena la sua forma. Questo, allora, e' l'oggetto della tua
+cerca.
+~
+1 12 0
+D0
+~
+porta~
+1 -1 232 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#232
+Il Tempio del MouseRider~
+   Sei di nuovo nel Tempio del MouseRider, attraverso un bizzarro
+salto nello spazio. L'ingresso principale sembra essere andato, comunque.
+Il MouseRider afferra uno dei cocci del globo distrutto. Ride malvagiamente
+mentre prende un pugnale e si disassembla (?), spandendo organi sopra i
+suoi piedi e sul pavimento.
+   "O Dei!" piange, "Ora anch'io sono un immortale, ora sono un liche!!"
+Ride, e dirige i suoi favoriti ad attaccare!
+~
+1 12 0
+D0
+~
+porta~
+1 -1 233 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#233
+Vuoto~
+   La camera da letto del Mouserider e' andata. Stai galleggiando nello
+spazio, e molti oggetti ti fanno l'occhiolino. Una ricompensa dagli dei,
+forse?
+ 
+   Una fessura si apre sotto di te, e schizzi fuori sulla strada davanti
+al Tempio Bianco di Kerofk. Una voce rimbomba intorno a te:
+
+    "Prendi questi giocattoli, e ricorda questo:  non aspettarti continuita'
+da un MUD!".
+~
+1 12 0
+D5
+~
+~
+0 -1 102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#234
+Vista di una Citta'~
+   Incredibile! Da questo posizione vantaggiosa vedi una citta' enorme ad
+est, grande abbastanza da contenere migliaia di persone. Grandi mura
+circondano la citta', senza dubbio per tenere lontani i mostri. La citta' e'
+in un posto MOLTO difendibile considerando che meta' della sua lunghezza e'
+assiepata sul margine di una rupe. Oltre la rupe vedi un oceano scuro che
+riflette la flebile luce delle stelle. La strada continua ad ovest e ad
+ed est.
+~
+1 8 2
+D1
+~
+~
+0 -1 235 0
+D3
+~
+~
+0 0 241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#235
+Vicino alla Citta'~
+   Sei molto vicino alla citta' ora. C'e' un grande cancello ad est,
+con guardie che controllano l'accesso della gente dentro e fuori. Le mura
+che circondano la citta' sembrano insormontabili, ma molti segni di
+bruciature superficiali lungo la sua lunghezza raccontano di guerre ed
+incursioni. Ad ovest c'e' un rialzo da dove puoi vedere meglio la citta'.
+~
+1 8 2
+D1
+~
+~
+0 -1 177 0
+D3
+~
+~
+0 -1 234 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#236
+Strada Sporca~
+   La strada va da nord a sud qui seguendo il profilo delle montagne.
+A nord vedi alcuni campi coltivati, a sud un bivio.
+Il cielo sembra misterioso, specialmente ad ovest dove il bagliore del
+cielo rende l'orizzonte...
+~
+1 8 2
+D0
+~
+~
+0 -1 237 0
+D2
+~
+~
+0 0 241 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#237
+Curva nella Strada~
+   La strada gira qui verso est. Intorno a te ved piccoli campi coltivati,
+curati da coltivatori che sembrano paranoici e rapidi. I vegetali che
+raccolgono sembrano pallidi ed esanimi. Dai molti gusci di case bruciate
+immagini che i coltivatori cercano di far crescere quello che possono prima
+che la citta' venga di nuovo messa sotto assedio.
+~
+1 8 2
+D1
+~
+~
+0 -1 238 0
+D2
+~
+~
+0 -1 236 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#238
+Una Citta' sull'Orlo~
+   Da qui vedi una grande citta' con mura da un lato. Solo meta', l'altra
+e' seduta in modo scomposto direttamente sull'orlo di una grande rupe
+che precipita sull'oceano sottostante. Ad est vedi un piccolo cancello,
+dal quale i coltivatori passano sporadicamente.
+~
+1 8 2
+D1
+~
+~
+0 -1 239 0
+D3
+~
+~
+0 -1 237 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#239
+Campi vicino ad una Citta'~
+   Ci sono alcuni campi piu' piccoli qui, e piu' case bruciate.
+Dall'odore di legna verde e dai suoni di costruzione, pensi che l'ultima
+razzia non deve essere avvenuta troppo tempo fa.
+~
+1 8 2
+D1
+~
+~
+0 -1 240 0
+D3
+~
+~
+0 -1 238 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#240
+Vicino alla Citta'~
+   C'e' un piccolo cancello ad est dove le guardie hanno lasciato i
+coltivatori dentro e fuori della citta' con la loro produzione. Le mura
+sembrano indistruttibili, ma bruciature superficiali lungo la sua lunghezza
+raccontano di guerre ed incursioni.
+~
+1 8 2
+D1
+~
+~
+0 0 176 0
+D3
+~
+~
+0 -1 239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#241
+Strada Sporca~
+   La strada  si biforca in diverse direzioni qui, una porta a nord e si
+perde nel cielo stellato, una sale su per una collina ad est e verso le
+montagne ad ovest.
+Sembra molto silenzioso e pacifico qui.  Una brezza ti accarezza la faccia.
+~
+1 8 2
+D0
+~
+~
+0 0 236 0
+D1
+~
+~
+0 0 234 0
+D3
+~
+~
+0 0 242 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#242
+Strada Sporca~
+   La strada continua ad est e ad ovest. Ad ovest vedi la luminosita' che
+cola sopra e tra le montagne. Verso est lo strano, innaturale cielo serale
+che ricopre tutto, con la sua permanente illuminazione stellare.
+~
+1 8 2
+D1
+~
+~
+0 0 241 0
+D3
+~
+~
+0 0 243 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#243
+Strada Sporca~
+   Sei sulle colline davanti alle montagne. Una strada porta ad est
+ed un passo di montagna a nord. Lo scenario su questo lato delle
+montagne sembrano tetro, probabilmente dovuto alla mancanza di sole.
+~
+1 8 4
+D0
+~
+~
+0 0 244 0
+D1
+~
+~
+0 0 242 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#244
+Passo montano~
+   Il passo di montagna porta ad ovest e a sud. Sembra esserci uno strano
+crepuscolo piu' lontano ad ovest, getta un bagliore misterioso sopra le
+pietre e sugli arbusti. Puoi vedere un pianoro grande e scuro ad est sul
+quale il sole non e' mai sorto.
+~
+1 8 4
+D2
+~
+~
+0 0 243 0
+D3
+~
+~
+0 0 245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#245
+Passo montano~
+   Sta in piedi all'apice del passo montano, il cielo normale ad ovest
+e ll strano cielo serale ad est. L'orlo della notte e' delineato
+chiaramente sopra di te...
+~
+1 0 4
+D1
+~
+~
+0 0 244 0
+D2
+~
+~
+0 0 246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#246
+Passo montano~
+   Le montagne si ergono alte qui, il piccolo passo e' a nord.
+Il cielo sembra scuro sopra le montagne, come se le montagne siano
+i custodi della notte.
+~
+1 0 4
+D0
+~
+~
+0 0 245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#247
+Fleecem e Figlio~
+   Questo e' un piccolo buco nel muro dell'ufficio, fiancheggiato
+da scatole e gabbie di carta ed archivi. Una vecchia scrivania e'
+vicino alla porta. L'aria e' spessa ed umida, le decorazioni sgargianti,
+lo spazio e' affollato.
+Una placchetta sulla scrivania dice: "Bungle Fleecem, Esq."
+~
+1 8 0
+D1
+~
+~
+0 0 130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#248
+Ingresso al cimitero~
+   Sei su un sentiero che porta ad un cimitero misterioso. Un passaggio a
+volta conduce a nord verso Strada del Cancello ed il sentiero continua ad
+est e a sud. Nell'oscurita' della notte e con lo scintillio delle stelle
+sopra, le lapidi sembrano prendere vita. Non pensi sia un genere che ti
+possa interessare.
+~
+1 12 1
+D0
+~
+~
+0 0 128 0
+D1
+~
+~
+0 0 249 0
+D2
+~
+~
+0 0 251 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#249
+Cimitero~
+   Questo sentiero conduce attraverso il cimitero a sud e ad ovest. Osservi
+che molte tombe sono state profanate, ed una tomba e' stata interamente
+dissotterrata. Le ossa di un nano morto giacciono esposte sul fondo della
+tomba, le sue mani apparentemente si aggrappano al cielo. La lapide sulla
+tomba e' completamente illeggibile.
+~
+1 8 1
+D2
+~
+~
+0 0 250 0
+D3
+~
+~
+0 0 248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#250
+Cimitero~
+   Sei all'angolo di sudest del cimitero. Le lapidi qui sono vecchie e
+alterate dal tempo e dagli elementi. Qualcuna e' caduta.
+Dell'erba cresce a mazzetti sulla roccia, pallida per la mancanza di sole.
+In questa area si sente la pace della morte, invece del solito decadimento
+associato ai cimiteri.
+~
+1 8 1
+D0
+~
+~
+0 0 249 0
+D3
+~
+~
+0 0 251 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#251
+Cimitero~
+   La terra qui e' stata buttata recentemente sulle nuove tombe.
+Le pietre tombali raccontano storie di mogli fedeli e mariti coraggiosi,
+che incontrano la propria fine con dignita'. Due buche sono vangate
+vicino al muro per una sepoltura che ancora deve aver luogo. Ti senti
+raffreddato dall'aria della notte...
+~
+1 8 1
+D0
+~
+~
+0 0 248 0
+D1
+~
+~
+0 0 250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#252
+La bancarella del coltivatore~
+   Alcune bancarelle di legno qui sono piene di frutta e vegetali cresciuti
+sotto questo cielo serale senza fine. Questo luogo sembra avere un discreto
+successo negli affari, ma non clienti entusiasti. Puoi capire perche' dalla
+qualita' della merce.
+~
+1 8 0
+D2
+~
+~
+0 0 120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#253
+La casa di Junk~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 2740 0
+D0
+~
+~
+1 0 116 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#254
+La cometa bianca.~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 692 0
+D0
+~
+~
+1 0 112 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#255
+Una casa privata~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 180 0
+D0
+~
+~
+1 0 120 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#256
+Una casa privata~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 2740 0
+D0
+~
+~
+1 0 137 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#257
+Una casa privata~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 692 0
+D0
+~
+~
+0 0 131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#258
+Una casa privata~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 2740 0
+D2
+~
+~
+1 0 137 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#259
+Una casa privata~
+   Sei nella tua casa. Ahhh!!! Finalmente a casa ...
+L'ambiente e' molto bello e accogliente. Sulla parete destra
+c'e' uno specchio. Il letto e' lasciato sottosopra ma
+ti invita ugualmente a riposare le tue stanche ossa.
+Qui puoi quittare tranquillamente. Il tuo equipaggiamento
+rimarra' al sicuro fino al tuo risveglio. Per sicurezza
+fai un SAVE prima di quittare!
+~
+1 180 0
+D2
+~
+~
+1 0 117 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#260
+Stazione di Kerofk~
+Questa e' la stazione della citta' di Kerofk. Qui regolarmente
+fa sosta la carrozza che fa' servizio di trasporto in tutte le citta' della
+Daresia. L'arrivo e la partenza sono annunciate dal personale della
+stazione. Sulla parete c'e' una mappa.
+~
+1 8 0
+D4
+~
+~
+0 -1 130 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia (seconda linea):
+
+
+           /J\
+          /   \
+         D      R
+        /       |
+      K         |
+      \____/\___L
+             
+    [D]  Stazione meridionale di Deira
+  * [K]  Stazione di Kerofk
+    [L]  Stazione orientale di Lamorka
+    [R]  Stazione di Roma
+    [C]  Stazione orientale di Jiroch"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#261
+&1&bGenkan&0~
+Pareti a listelli di legno robusto ma flessibile ricoperti da carta tirata, 
+pavimento in legno levigato ricoperto da materassine rettangolari 
+impagliate ad ammorbidire il passo...
+In alcuni punti i pannelli che formano le pareti hanno la via libera allo 
+scorrimento dando quindi accesso alle altre stanze.
+Qui si trova di fronte alla porta di ingresso uno spazio in pietra adibito 
+alla deposizione delle calzature obbligatoria prima dell'ingresso in segno 
+di rispetto verso chi vi abita e per non contaminare l'interno con le brume 
+dell'esterno.
+~
+1 2564 0
+D1
+~
+~
+0 0 262 0
+D3
+Una porta di legno.
+~
+porta~
+1 388614 2434955 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#262
+&1&bOusetsuma&0~
+Pareti a listelli di legno robusto ma flessibile ricoperti da carta tirata, 
+pavimento in legno levigato ricoperto da materassine rettangolari 
+impagliate ad ammorbidire il passo...
+In alcuni punti i pannelli che formano le pareti hanno la via libera allo 
+scorrimento dando quindi accesso alle altre stanze.
+Queste caratteristiche insieme al focolaio in pietra presente al centro di 
+questa stanza principale rendono l'ambiente sobrio, caloroso ed 
+accogliente, atto all'intrattenimento degli ospiti.
+~
+1 2560 0
+D0
+~
+~
+0 0 264 0
+D1
+~
+~
+0 0 266 0
+D2
+~
+~
+0 0 263 0
+D3
+~
+~
+0 0 261 0
+D4
+~
+~
+0 0 265 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#263
+&1&bDaidokoro&0~
+Pareti a listelli di legno robusto ma flessibile ricoperti da carta tirata, 
+pavimento in legno levigato ricoperto da materassine rettangolari 
+impagliate ad ammorbidire il passo...
+In alcuni punti i pannelli che formano le pareti hanno la via libera allo 
+scorrimento dando quindi accesso alle altre stanze.
+Qui si trovano vari fornelli in pietra contornati da una moltitudine di 
+mensole sulle quali sta poggiato ogni genere di pentolame ed altre 
+stoviglie, a dei ganci alle pareti sono appesi forchettoni, cucchiai, 
+coltelli e mestoli, il luogo ideale per la preparazione dei migliori 
+piatti.
+~
+1 6442453504 0
+D0
+~
+~
+0 0 262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#264
+&1&bShinshitsu&0~
+Pareti a listelli di legno robusto ma flessibile ricoperti da carta tirata, 
+pavimento in legno levigato ricoperto da materassine rettangolari 
+impagliate ad ammorbidire il passo...
+In alcuni punti i pannelli che formano le pareti hanno la via libera allo 
+scorrimento dando quindi accesso alle altre stanze.
+Qui si trova un materasso di lana avvolto in pesanti coperte in un angolo, 
+all'angolo opposto un piccolo focolaio e' posto per assicurare il tepore 
+anche durante le ore notturne di sonno, c'e' anche spazio per ospitare 
+altri giacigli nel caso ce ne sia bisogno.
+~
+1 2560 0
+D2
+~
+~
+0 0 262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#265
+&1&bMonooki no ma&0~
+Pareti a listelli di legno robusto ma flessibile ricoperti da carta tirata, 
+pavimento in legno levigato ricoperto da materassine rettangolari 
+impagliate ad ammorbidire il passo...
+In alcuni punti i pannelli che formano le pareti hanno la via libera allo 
+scorrimento dando quindi accesso alle altre stanze.
+Questa e' una stanza senza particolare mobilio pronta a ricevere qualunque 
+oggetto vi si voglia depositare.
+~
+1 2560 0
+D5
+~
+~
+0 0 262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#266
+&1&bOfuro&0~
+Pareti a listelli di legno robusto ma flessibile ricoperti da carta tirata, 
+pavimento in legno levigato ricoperto da materassine rettangolari 
+impagliate ad ammorbidire il passo...
+In alcuni punti i pannelli che formano le pareti hanno la via libera allo 
+scorrimento dando quindi accesso alle altre stanze.
+Qui e' presente una vasca in roccia pronta ad essere riempita di acqua 
+caldissima per trovare un attimo di riposo e rilassamento dopo dure 
+giornate.
+~
+1 2560 0
+D3
+~
+~
+0 0 262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#267
+La Villa 58~
+Entri in una bellissima villa, ben arredata, i muri colorati sui toni azzurri.
+Le finestre lasciano entrare molta luce.  Sulle pareti vedi dei quadri molto
+pittoreschi.  L'arredamento interamente in legno fa pensare a una villa di
+famiglia.    
+~
+1 2560 0
+D0
+Una porta di legno.
+~
+porta~
+1 217386 2434042 167
+D4
+~
+~
+0 0 269 0
+D5
+~
+~
+0 0 268 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#268
+Il sotterraneo~
+Entri ed e'tutto buio non vedi niente....  Inizi a scendere le scale .....  
+Spam!!!  Hai mancato l'ultimo gradino e ti ritrovi con la faccia per terra e
+col sedere al tetto.  Ma questo posto e pieno di Insetti che girano su tutto un
+mucchio di robaccia.    
+~
+1 2560 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40987 0
+D4
+~
+~
+0 0 267 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#269
+Il Terrazzo~
+Aaaaa....  Da qua su vedi il mare, che bellissimo paesaggio.  L'aria che
+respiri assieme alla vista ti da una sensazione di pace che quasi ti metteresti
+a dormire.    
+~
+1 2560 0
+D5
+~
+~
+0 0 267 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#299
+Una tana~
+Sei in buco ... si non capisci esattamente cosa sia quello dove
+sei capitato. C'e' umidita' dappertutto e le ragnatele ti si
+calano sugli occhi appena tenti di muoverti.
+Sulla destra vedi un po' di paglia raccolta in una specia
+di castello di un letto. Non c'e' luce ... solo la poca
+che filtra dai buchi della porta.
+~
+1 0 0
+D0
+~
+porta~
+1 299 1480475 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

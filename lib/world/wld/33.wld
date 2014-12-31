@@ -1,0 +1,1875 @@
+#3300
+Una pista trasandata~
+   Questa pista sale verso l'alto e si allontana dalla strada
+principale verso ovest. In certi punti la pista sembra sparire
+nell'oscurita' della pietra grigia e l'erba montana quasi grigia
+comune qui. La pista conduce generalmente verso est e su verso
+l'alto nel terreno roccioso. C'e' un cartello qui, apparentemente
+fuori luogo in questo rozzo paese.
+~
+33 68 0
+D1
+~
+~
+0 -1 3301 0
+D3
+~
+~
+0 -1 1508590 0
+E
+cartello~
+        ,_____________________________.
+        |                             |
+	|         La forgia        |
+	|         di Gabadiel         |
+	|      -------------->        |
+	|			      |
+        |           -- BUAG SIGNS INC.|
+	`-----------------------------'
+		     |  |
+		     |  |
+		     |  |
+		     |  |     
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3301
+Una pista trasandata~
+   Quella che puo' appena essere chiamata una pista scende
+ad ovest dalla montagna, e giu' in una valle molto piccola 
+dove c'e' una piccola casa al centro di un recinto ben tenuto.
+La porta della casa e' aperta ed invitante, ti accoglie
+cordialmente per una visita.
+
+~
+33 4 5
+D3
+~
+~
+0 -1 3300 0
+D5
+~
+~
+0 -1 3302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3302
+Un sentiero ripulito~
+   Sei alla fine occidentale di una valle piccola piccola,
+grande appena per contenere una casetta ad est. Da qui vedi
+che la porta del comodo cottage e' aperta ed invitante, ma
+l'interno sembra molto scuro. Un sentiero delimitato da una
+piantagione d'arbusti porta su verso la struttura e finisce
+dove sei tu ora.
+~
+33 0 5
+D1
+~
+~
+0 -1 3303 0
+D4
+~
+~
+0 -1 3301 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3303
+All'esterno di una casa~
+   Il percorso sul quale sei va dal davanti del cottage
+al tuo est, al limitare della piccola valle ad ovest.
+L'edificio sembra quieto... quasi troppo quieto.
+Una vocina nella tua testa, la stessa vocina che
+ti ha salvato la vita innumerevoli volte, ti dice
+che qualcosa e' molto, molto sbagliato qui.
+~
+33 0 2
+D1
+E' una normale porta di una normale casa.
+~
+porta davanti~
+1 -1 3304 1
+D3
+~
+~
+0 -1 3302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3304
+La fabbreria~
+   Devastazione.
+   La fucina e' stata danneggiata, insieme con la maggior
+parte della porta posteriore. Martelli, molle ed incudini sono
+accatastati in una confusione gigantesca, ed il letto del fabbro
+brucia ancora. Questo luogo e' stato distrutto da piu' di un uomo
+se diamo retta alle orme lasciate nella polvere.
+~
+33 8 0
+D1
+E un normale buco nel muro che porta fuori in un giardino.
+~
+~
+0 -1 3305 0
+D3
+E' una normale porta di una normale casa.
+~
+porta davanti~
+1 -1 3303 1
+E
+orme polvere~
+Tre serie di orme dove c'era la porta posteriore.
+~
+E
+letto~
+Ha! Fortunato, sei sempre fortunato! Sotto il guanciale c'e'
+una lettera scritta a meta', senza indirizzo. Pezzi di testo
+che non e' macchiato, bruciato, o imbrattato raccontano la
+storia del granmastro fabbro/mago Gabadiel: una spada di potere
+ineguagliato, e due spade fatte prima, scartate come "Non belle
+abbastanza perche' io ci lavori ancora". Guardandoti attorno, non
+le vedi. Pensi che ora puoi avere una scusa...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3305
+Un piccolo giardino~
+   Questo giardino una volta era probabilmente tenuto ordinato e
+senza erbacce. Sfortunatamente, sembra che qualcuno abbia
+infierito con una fireball. Non c'e' piu' nulla ora qui, solo bruciature
+e cenere; quello che resta della pista porta al margine est di questa
+piccola valle.
+~
+33 0 2
+D1
+~
+~
+0 -1 3306 0
+D3
+~
+~
+0 -1 3304 0
+E
+orme orma~
+Portano ad est.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3306
+Il crinale della montagna~
+   Sei in piedi su una cresta nelle montagne, giusto ad est
+di una valle molto piccola. Distingui un piccolo cottage al
+centro della valle, e la cresta continua verso sud. Notando
+i precipizi a nord e ad ovest,  decidi di non andare in quelle
+direzioni.
+~
+33 0 5
+D2
+~
+~
+0 -1 3307 0
+D3
+~
+~
+0 -1 3305 0
+E
+orme orma~
+Le tracce portano a sud.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3307
+Il crinale della montagna~
+    La montagna continua verso nord e  si allarga in un
+piccolo altopiano giusto a sud. Andare ad est e ad ovest
+sarebbe una cattiva idea in considerazione della ripidita'
+dei precipizi. Da questa altezza hai una buona vista
+panoramica a sud e vedi quello che appare essere un 
+piccolo villaggio montano a sud e ad ovest; sempre ad
+ovest vedi un alto picco.
+~
+33 0 5
+D0
+~
+~
+0 -1 3306 0
+D2
+~
+~
+0 -1 3308 0
+E
+orme orma~
+Le tracce portano a sud.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3308
+I sentieri si dividono~
+   Sei su un piccolo altopiano nelle montagne, giusto a
+sud di una cresta che conduce verso nord attraverso la
+zona rocciosa. Ad est, sud, ed ovest dolci pendii portano
+in zone diverse delle montagne.
+   Un gigantesco picco scuro e' ad ovest,  sembra davvero
+piuttosto sinistro!
+~
+33 0 5
+D0
+~
+~
+0 -1 3307 0
+D1
+~
+~
+0 -1 3341 0
+D2
+~
+~
+0 -1 3309 0
+D3
+~
+~
+0 -1 3359 0
+E
+orme orma~
+Le tre serie di orme si dividono: una va ad est, una a sud ed una ad ovest.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3309
+Un pendio~
+   Questo pendio scende in basso e ad ovest. Sopra di te vedi
+un altopiano alla fine meridionale di un lungo crinale montano.
+Sorprendentemente, sembra essere una zona trafficata.
+Sembra essere piuttosto pericoloso, e decidi di essere MOLTO
+cauto.
+~
+33 0 4
+D0
+~
+~
+0 -1 3308 0
+D3
+~
+~
+0 -1 3310 0
+D4
+~
+~
+0 -1 3308 0
+E
+traffico orme orme~
+Nella polvere ci sono delle tracce di stivali. E' una zona 
+decisamente trafficata questa, ma non e' decisamente
+agevole.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3310
+Un piccolo altopiano~
+   Sei su un altro piccolo altopiano, delimitato da un muro di
+roccia a nord. Puoi arrampicarti su per il pendio ad , o continuare
+lungo l'altopiano ad ovest. Un altro pendio scende verso sud,
+sembra pericoloso ma scalabile.
+~
+33 0 4
+D1
+~
+~
+0 -1 3309 0
+D2
+~
+~
+0 -1 3314 0
+D3
+~
+~
+0 -1 3311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3311
+Un piccolo altopiano~
+   Questo altopiano finisce qui, con un precipizio a sud ed
+un solido muro solido di pietra a nord. L'altopiano  continua
+verso est, e pensi di poterti arrampicare su per il pendio
+roccioso appena ad ovest di qui. Ti e' concessa una buona
+visuale delle zone piu' basse di questa depressione, e noti
+qualcosa che potrebbe essere una caverna a sud ed in basso
+da qui...
+~
+33 0 4
+D1
+~
+~
+0 -1 3310 0
+D3
+~
+~
+0 -1 3312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3312
+Un pendio roccioso~
+   Questo pendio e' abbastanza infido, sembra essere 
+piuttosto piu' sicuro a nord. Ad est il pendio conduce su
+verso un piccolo altopiano anche quello notevolmente piu'
+sicuro delle altre possibili scelte. L'argilla del pendio ti
+fa scivolare, e cadi perdendo l'equilibrio; 
+questo non e' un luogo dove puoi fare a meno
+dell'equipaggiamento d'alpinismo.
+~
+33 0 5
+D0
+~
+~
+0 -1 3313 0
+D1
+~
+~
+0 -1 3311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3313
+Panorama~
+   Sei su un punto che ha una bella vista delle montagne
+a nord. Lontano, in basso, vedi quello che sembra essere
+ un sentiero arrampicabile che porta fino al centro della
+montagna, un picco scuro e tetro.
+A guardare quella montagna, per una ragione che non ti
+sai spiegare, ti vengono i brividi; non sembra un'idea molto
+buona cercare di trovare una via per andare la'.
+La sola via sicura per lasciare questo posto e' a sud.
+~
+33 0 4
+D2
+~
+~
+0 -1 3312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3314
+Un pendio roccioso~
+    Scivoli sul terreno bagnato, e' difficile mantenere l'equilibrio.
+Puoi arrampicarti fino ad un piccolo altopiano a nord, o scendere
+cautamente nella depressione ad ovest.  
+Non sei sicuro quale strada sia la piu' sicura.
+~
+33 0 5
+D0
+~
+~
+0 -1 3310 0
+D3
+~
+~
+0 -1 3315 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3315
+La depressione~
+   Un piccolo sentiero conduce a sud, via dal pendio roccioso.
+Odi un debole borbottio, forse proviene dall'altopiano molto
+trafficato. A guardare in alto, vedi dei semplici muri di roccia
+che circondano la maggior parte della depressione creando
+fortezza naturale.
+~
+33 0 4
+D1
+~
+~
+0 -1 3314 0
+D2
+~
+~
+0 -1 3316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3316
+La depressione~
+   Il piccolo sentiero sul quale ti trovi porta a nord, ad est
+in quella che sembra essere una grande caverna scavata
+in un lato della montagna. Tutto il luogo sembra calmo,
+troppo calmo in effetti. L'intuito di esperto avventuriero ti
+avverte della possibilita' che ci siano delle trappole.
+~
+33 0 4
+D0
+~
+~
+0 -1 3315 0
+D1
+~
+~
+0 -1 3317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3317
+Un'entrata della caverna~
+   Una caverna conduce nel cuore della montagna, bene
+illuminata da torce infisse nei muri. Una grande roccia e' da
+un lato qui, vicino ad un piccolo focolare. In terra ci sono dei
+rifiuti: ossa di coniglio, meta' di una cote e altre cose.
+Il terreno e' privo di erba, ed allora noti parecchie impronte
+da molte paia di stivali. Strano che qualcuno possa vivere
+cosi' in profondita' nelle montagne...
+~
+33 4 0
+D1
+~
+~
+0 -1 3318 0
+D3
+~
+~
+0 -1 3316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3318
+Un corridoio della caverna~
+   Sei vicino all'ingresso della caverna. La luce esterna proviene
+da ovest, accompagnata da una leggera brezza, facendo tremolare
+le fiamme delle torce e gettando strane ombre sui muri. Questo
+corridoio porta a nord e a sud da qui, ciascuna via apparentemente
+buia e soffocante. Dalle tracce sul pavimento, immagini che quella
+a nord e' la piu' usata.
+~
+33 8 0
+D0
+~
+~
+0 -1 3319 0
+D2
+~
+~
+0 -1 3331 0
+D3
+~
+~
+0 -1 3317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3319
+Un corridoio della caverna~
+   Il passaggio qui gira, una finisce a sud, verso l'ingresso
+della caverna, l'altro porta molto piu' in profondita' nella
+montagna. La luce delle torce mantiene l'area illuminata
+abbastanza da vedere, ma non tanto da essere completamente 
+tranquillo in questo luogo strano. Senti provenire gli echi
+di voci lontane.
+~
+33 8 0
+D1
+~
+~
+0 -1 3320 0
+D2
+~
+~
+0 -1 3318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3320
+Un corridoio della caverna~
+   Questo passaggio conduce ad est e ad ovest da qui.  
+Verso est senti i suoni chiari di voci basse. Gli echi
+provocano effetti divertenti su di te, non sei sicuro da
+quanto lontano potrebbero venire.
+~
+33 8 0
+D1
+~
+~
+0 -1 3321 0
+D3
+~
+~
+0 -1 3319 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3321
+Un corridoio della caverna~
+   Il passaggio gira ad ovest e a sud da qui. Una delle
+torce qui e' spenta, rendendo questa zona estremamente
+buia. Vedi luci a sud comunque, apparentemente piu'
+luminosa delle zone che hai visto finora.
+~
+33 8 0
+D2
+~
+~
+0 -1 3322 0
+D3
+~
+~
+0 -1 3320 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3322
+Un corridoio della caverna~
+   Qui sei ad un incrocio a T della caverna, a nord scendi
+verso l'ingresso della caverna (o almeno pensi!), ad ovest
+vai verso una zona molto ben illuminata. Ad est il corridoio
+continua negli ombrosi recessi della montagna. Gli echi di 
+voci ti confondono un po', non sei sicuro se devi continuare
+a rimanere calmo o meno.
+~
+33 8 0
+D0
+~
+~
+0 -1 3321 0
+D1
+~
+~
+0 -1 3324 0
+D3
+~
+~
+0 -1 3323 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3323
+Una caverna~
+   Molte torce sono sui muri qui, gettando luce su alcune
+rastrelliere d'armi e casse piene di armature. Tutto e' pulito,
+ordinato, e ben spolverato. Qualcuno presta delle cure
+a questi articoli... e frequentemente anche.
+~
+33 8 0
+D1
+~
+~
+0 -1 3322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3324
+Un corridoio della caverna~
+   Il corridoio nel quale ti trovi porta a sud e ad ovest.
+Molte grandi pietre e rocce sono sparse sul terreno della
+caverna, e' difficile camminare nella luce fioca delle torce
+sui muri. Senti gli echi continui delle voci, apparentemente
+piu' lontane ora. Deve essere la strana acustica di questo luogo.
+~
+33 8 0
+D2
+~
+~
+0 -1 3325 0
+D3
+~
+~
+0 -1 3322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3325
+Un corridoio della caverna~
+   La caverna si  torce come un serpente a spirale,
+porta ad est e a nord. Comincia a chiederti se il tuo
+orientamento e' ancora affidabile. Cio' ti preoccupa.
+~
+33 8 0
+D0
+~
+~
+0 -1 3324 0
+D1
+~
+~
+0 -1 3326 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3326
+Un corridoio della caverna~
+   Puoi andare a nord e ad ovest attraverso i corridoi della caverna,
+entrambe le vie sono debolmente illuminate dalle torce presenti sui
+muri. Gli echi che hai sentito prima sembrano piu' alte e provengono
+dal passaggio a nord.
+Ti senti raffreddato dalla fresca aria della caverna e rabbrividisci un po'
+nel debole bisbiglio della brezza. Questo luogo e' troppo misterioso
+e buio per essere confortevole.
+~
+33 8 0
+D0
+~
+~
+0 -1 3327 0
+D3
+~
+~
+0 -1 3325 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3327
+Un corridoio della caverna~
+   Gli echi sono piu' forti e sembrano provenire dalla fine
+settentrionale di questo corridoio. A sud vedi che il tunnel
+continua e fa' un'altra curva. Scorgi un piccolo pezzo di stoffa
+rossa lacera trattenuta da una affilata roccia che sporge in
+un lato del passaggio. Sembra seta, molto bella in effetti.
+~
+33 8 0
+D0
+~
+~
+0 -1 3328 0
+D2
+~
+~
+0 -1 3326 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3328
+Un corridoio della caverna~
+   Il corridoio principale conduce a sud da qui, uno piu' piccolo
+porta verso ovest. Due grandi macigni sono contro una parete,
+sporchi lerci. Un involucro di carta con del cibo dentro e' stato
+pestato da molte paia di piedi; probabilmente questo e' un posto
+di guardia.
+~
+33 8 0
+D2
+~
+~
+0 -1 3327 0
+D3
+~
+~
+0 -1 3329 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3329
+La fine del corridoio~
+   Il corridoio finisce improvvisamente qui a nord contro una grande 
+porta di legno posizionata nella roccia. E' un capolavoro! Puoi anche
+tornare indietro nel passaggio principale ad ovest, dove c'e' piu' luce
+di qua. Un rumore proveniente dal passaggio ti fa chiedere per un
+momento se per caso sei seguito, ma non vedi nessuno.
+~
+33 8 0
+D0
+E' una robusta porta di legno.
+~
+porta legno~
+1 -1 3330 3
+D1
+~
+~
+0 -1 3328 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3330
+Una caverna~
+   Questa caverna naturale e' adibita ad uso ufficio/dispensa.
+Un rivolo d'acqua scaturisce dalla parete a sud ed esce da
+un piccolo buco nella parete ad ovest. Scatole e casse sono
+accatastate contro i muri, una scrivania di quercia e' vicina
+alla porta; sopra vi sono accatastate delle carte scritte da mano
+incerta. Alcune grandi lanterne rendono il luogo molto ben illuminato.
+~
+33 8 0
+D2
+E' una robusta porta di legno.
+~
+porta legno~
+1 -1 3329 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3331
+Un corridoio della caverna~
+   Sei a sud dell'ingresso principale di questa caverna. Il
+passaggio continua a sud, molto male illuminato dalle
+torce che sono sistemate a circa quindici piedi l'una
+dall'altra Da qualche luogo lontano della caverna, senti un
+debole, ritmico suono distorto dalla strana acustica del
+passaggio.
+~
+33 8 0
+D0
+~
+~
+0 -1 3318 0
+D2
+~
+~
+0 -1 3332 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3332
+Un corridoio della caverna~
+   Sei sulla curva meridionale di questo passaggio, puoi
+andare ad est e a nord. La roccia intorno a te trasmette
+gli echi di lontani rumori di martelli, il luogo sembra in
+qualche modo vivo, come se fosse un battito cardiaco.
+Questo luogo e' abbastanza misterioso.
+~
+33 8 0
+D0
+~
+~
+0 -1 3331 0
+D1
+~
+~
+0 -1 3333 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3333
+Un corridoio della caverna~
+   Il corridoio fa una curva ad "U" qui, porta a nord e verso
+ovest. L'aria sembra umida ed e' duro respirare. Delle alghe
+crescono sul pavimento in macchie lisce, emanando un sottile
+odore di decomposizione.
+~
+33 8 0
+D0
+~
+~
+0 -1 3334 0
+D3
+~
+~
+0 -1 3332 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3334
+Un corridoio della caverna~
+   Il tunnel devia a sud e ad est, e' cupo e non c'e' anima
+viva in giro. Un debole battito e' trasmesso dai muri.
+Allunghi le orecchie per cercare di capire da dove proviene.
+~
+33 8 0
+D1
+~
+~
+0 -1 3335 0
+D2
+~
+~
+0 -1 3333 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3335
+Un corridoio della caverna~
+   Questa area e' piu' buia del resto del corridoio, dovuto
+al fatto che le torce finiscono improvvisamente qui.
+La via a sud e' completamente buia, in diretto contrasto
+coi tunnel ad ovest. Sbirci a sud, ma non puoi penetrare
+l'oscurita'. E ancora quel distante battito ti urta i nervi.
+~
+33 8 0
+D2
+~
+~
+0 -1 3336 0
+D3
+~
+~
+0 -1 3334 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3336
+Un corridoio della caverna~
+   Sei in un tunnel che porta verso nord e sud scavato
+naturalmente nella pietra della montagna. A nord il tunnel
+e' illuminato da torce infisse nel muro, a bandire la profonda
+oscurita' nella quale ora ti trovi. A sud non vedi nulla.
+Il battito qui e' piu' forte, proviene da qualche luogo nelle
+vicinanze.
+~
+33 9 0
+D0
+~
+~
+0 -1 3335 0
+D2
+~
+~
+0 -1 3337 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3337
+Un corridoio della caverna~
+   Il corridoio cambia direzione di nuovo nella buia oscurita'
+della montagna, portando a nord e ad est da qui. Come giri
+l'angolo, l'acustica da' l'impressione che il profondo martellio
+che hai sentito in precedenza sia a due passi! Proprio spiacevole.
+~
+33 9 0
+D0
+~
+~
+0 -1 3336 0
+D1
+~
+~
+0 -1 3338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3338
+Un corridoio della caverna~
+   Il tunnel gira intorno, si torce a nord e ad ovest di qui.
+L'oscurità intorno e' totale. Davanti, senti i rumori di qualcosa
+di metallico che colpisce la pietra. Qualcuno sta scavando nel
+tunnel?
+~
+33 9 0
+D0
+~
+~
+0 -1 3339 0
+D3
+~
+~
+0 -1 3337 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3339
+Un corridoio della caverna~
+   Un barlume di luce ad est ti allarma per il fatto che
+qualcosa si muove nel tunnel vicino. L'uscita a sud
+del tunnel e' nella piu' completa oscurita'. Tutto intorno,
+per terra, ci sono pile di terra e pietra, intralciando il
+cammino. Hmm...
+~
+33 9 0
+D1
+~
+~
+0 -1 3340 0
+D2
+~
+~
+0 -1 3338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3340
+La fine del passaggio~
+   Il tunnel finisce improvvisamente qui contro una fessura
+nella pietra. Tutto intorno per terra c'e' roccia e ghiaia, scavata
+dalla fessura nel tentativo di allargarla abbastanza per creare
+un passaggio. Alcuni pezzi di carta per terra ti fanno pensare
+che questo sia un lavoro relativamente recente.
+~
+33 8 0
+D3
+~
+~
+0 -1 3339 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3341
+Un pendio roccioso~
+   Questo infido pendio porta giu' verso una valle dove
+c'e' un piccolo villaggio!
+Che ci fa un villaggio cosi' lontano dalla civilta', e come
+sopravvive? Del fumo esce da alcuni camini, questo luogo
+e' ancora abitato. Ora, se solo potessi scendere giu' per
+questo pendio senza romperti una caviglia...
+~
+33 0 5
+D1
+~
+~
+0 -1 3342 0
+D3
+~
+~
+0 -1 3308 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3342
+Un pendio roccioso~
+   Stai scivolando lungo questo pendio, difficile arrivare a
+destinazione senza rompersi una gamba o fracassarsi la
+testa. Sotto, scorgi del movimento nel villaggio, prova che
+non e' una citta' fantasma.
+La strada principale del villaggio comincia sul fondo del
+pendio ad est, ed il pendio continua ad ovest e in alto,
+lontano sulla montagna.
+~
+33 4 5
+D1
+~
+~
+0 -1 3343 0
+D3
+~
+~
+0 -1 3341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3343
+Main Road~
+   Questo luogo ti lascia molto impressionato. Ed annoiato.  
+Sei decisamente stufo di questo luogo. La gente e' sbadata,
+va in giro per i loro lavori domestici quotidiani con una lentezza 
+che ti fa pena. Un pendio ad ovest si arrampica su per la
+montagna, e due negozi di legno e pietra sono a nord e sud.
+Questa strada continua verso est.
+C'e' un piccolo cartello qui.
+~
+33 0 1
+D0
+~
+~
+0 -1 3344 0
+D1
+~
+~
+0 -1 3346 0
+D2
+~
+~
+0 -1 3345 0
+D3
+~
+~
+0 -1 3342 0
+E
+cartello~
+
+        ,_____________________________.
+        |                             |
+	|   Stanneg delle Montagne    |
+	|                             |
+	|       Popolazione: 27       |
+	|			      |
+        |           -- BUAG SIGNS INC.|
+	`-----------------------------'
+		     |  |
+		     |  |
+		     |  |
+		     |  |   
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3344
+La Taverna della Montagna~
+   Hmm.  Sembra non ci sia nessuno qui, neanche un cameriere al banco.
+Evidentemente sei arrivato nell'orario di chiusura, visto che nel bar non c'e'
+NESSUNO. Le pareti sono decorate con teste di animale, frecce, archi ed
+altri trofei di caccia.
+Tutto sembra piuttosto semplice.
+~
+33 8 0
+D2
+~
+~
+0 -1 3343 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3345
+Il negozio di articoli generali~
+   Un annoiato bottegaio porta una mano stanca verso la sua scorta
+di roba. Browse, type list, buy, sell, qualunque cosa...
+~
+33 8 0
+D0
+~
+~
+0 -1 3343 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3346
+Main Road~
+   Nulla va in questa parte del villaggio. Ad est c'e' un incrocio, ad
+ovest vedi una fine di questa strada. Una grande zona erbosa a sud
+ha un recinto per cavalli.
+~
+33 0 1
+D1
+~
+~
+0 -1 3348 0
+D2
+~
+~
+0 -1 3347 0
+D3
+~
+~
+0 -1 3343 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3347
+Il recinto~
+   Molti cavalli ti guardano quando entri in questo recinto.
+I cavalli sono trattenuti da una grande staccionata di legno,
+sembrano piuttosto felici. Non vedi nessuno che si curi di
+questi cavalli, ma qualcuno probabilmente qui vicino c'e'.
+~
+33 8 0
+D0
+~
+~
+0 -1 3346 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3348
+L'incrocio~
+   Sei ad un incrocio profondo nel cuore di Stanneg delle
+Montagne.  Ci sono alcuni edifici a nord, a sud, ad est e
+ad ovest. Nessuno e' particolarmente piu' attraente di un
+altro.
+~
+33 0 1
+D0
+~
+~
+0 -1 3349 0
+D1
+~
+~
+0 -1 3355 0
+D2
+~
+~
+0 -1 3353 0
+D3
+~
+~
+0 -1 3346 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3349
+Una piccola strada~
+   Questa strada corre a nord attraverso Stanneg delle Montagne, 
+se attraversare e' la parola giusta per una tale multicolore 
+raccolta di edifici. Ad ovest c'e' un piccolo edificio senza tetto,
+che sembra essere il negozio di un coltivatore. La strada continua
+a nord, a sud c'e' un incrocio.
+~
+33 0 1
+D0
+~
+~
+0 -1 3351 0
+D2
+~
+~
+0 -1 3348 0
+D3
+~
+~
+0 -1 3350 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3350
+Il negozio del coltivatore~
+   Qui c'e' la moglie di un contadino, in attesa che qualcuno
+compri i prodotti che la sua famiglia ha coltivato. Sembra
+annoiata, ma non infelice... nessuna competizione!
+~
+33 0 1
+D1
+~
+~
+0 -1 3349 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3351
+Una piccola strada~
+   La piccola strada che attraversa Stanneg delle Montagne
+da nord a sud, finisce qui, arrestandosi davanti alla porta
+di una casa privata ad est. La strada corre a sud da questa
+casa verso il centro del villaggio.
+~
+33 0 1
+D1
+Una porta di legno normale per una casa normale. Niente altro da dire.
+~
+porta davanti~
+1 -1 3352 3
+D2
+~
+~
+0 -1 3349 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3352
+Una casa privata~
+   L'interno di questa casa e' semplice e rustico. Una scala
+porta fino alla soffitta. Una stufa brucia legna e mantiene il
+luogo ben caldo e confortevole. Una sedia a dondolo fatta in
+casa e' in un angolo, drappeggiata con una vecchia coperta
+afgana. Questa casa e' un luogo molto bello e confortevole.
+~
+33 8 0
+D3
+C'e' una porta normalissima nella parete ad ovest.
+~
+porta~
+1 -1 3351 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3353
+Una piccola strada~
+   La strada finisce qui, porta fino a una casa di pietra
+a sud. Pennacchi di fumo nero escono dal camino,
+le finestre sono gelate dall'umidita'.
+A nord vedi l'incrocio di Stanneg.
+~
+33 0 1
+D0
+~
+~
+0 -1 3348 0
+D2
+Una normale porta di legno.
+~
+porta~
+1 -1 3354 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3354
+Una casa privata~
+   Questa casa e' insopportabilmente calda e scomoda.
+Il focolare ha un alto falo', una catasta di legna da ardere
+e' accanto ad esso contro il muro. Le decorazioni sono
+piuttosto spartane e semplici; un quadro che rappresenta
+un panorama, un vecchio arco da caccia... niente altro di
+interessante.
+~
+33 8 0
+D0
+Vedi una normale porta di legno.
+~
+porta~
+1 -1 3353 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3355
+Main Road~
+   La strada principale di Stanneg finisce qui contro un grande
+pozzo che scende in profondita' nella terra. A nord del pozzo
+c'e' un grande edificio, con una grande stuoia con sopra scritto
+BENVENUTO davanti alla porta. Ad ovest c'e' un incrocio.
+Intorno a te c'e' un roccioso terreno al centro di questa montagna,
+non ci sono molti altri luoghi dove andare.
+~
+33 0 1
+D0
+C'e' una grande porta di legno a due ante che blocca il passaggio.
+~
+porta anta ante legno~
+1 -1 3356 3
+D3
+~
+~
+0 -1 3348 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3356
+Locanda Stanneg~
+   Questo e' una  stanza decorata, la stanza principale della
+Locanda Stanneg. Un grande arco ad ovest porta nella stanza
+comune dove puoi ordinare cibi e bevande; una serie di gradini
+di legno malfermi conducono alle stanze al piano superiore. Un
+tappeto e' al centro del pavimento, evidentemente il luogo preferito
+dal gatto a giudicare dalla quantita' di peli che ci sono sopra.
+~
+33 8 0
+D2
+C'e' una grande porta di legno a due ante che blocca il passaggio.
+~
+porta anta ante legno~
+1 -1 3355 3
+D3
+~
+~
+0 -1 3357 0
+D4
+~
+~
+0 -1 3358 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3357
+La stanza comune~
+   Un grande focolare scalda questa stanza in grandi onde di
+calore per combattere il freddo che passa dalle finestre ad
+ovest e a nord. Delle panche e delle tavole sono sparse in
+tutta la stanza.
+~
+33 8 0
+D1
+~
+~
+0 -1 3356 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3358
+La Reception~
+   Una sala conduce ad ovest fiancheggiata da piccole porte
+marroni. C'e' una piccola tavola da un lato della stanza con
+un registro sopra, apparentemente quasi nuovo. La sala e'
+semplice e senza alcuna decorazione, a parte un bel  dipinto
+di una montagna, proprio sopra i gradini che conducono alla
+locanda.
+~
+33 24 0
+D0
+~
+pannello~
+0 0 3376 18
+D5
+~
+~
+0 -1 3356 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3359
+Un pendio roccioso~
+   Questo pendio e' poco ripido ed e' facile camminarci sopra,
+malgrado sia di argilla e ghiaia. Ad est c'e' una alta cresta sulla
+quale puoi salire, ad ovest c'e' un'area piatta vicina a due piste
+che portano su e giu' nelle montagne.  
+Alto sopra di, ad ovest, c'e' quel picco scuro, che sembra
+emanare un senso di disperazione...
+~
+33 0 5
+D1
+~
+~
+0 -1 3308 0
+D3
+~
+~
+0 -1 3360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3360
+Una sporgenza~
+   Da questa sporgenza vedi un piccolo sentiero che conduce
+su e giu' da qui. Sotto, vedi il sentiero che porta giu' ad una
+grande area piatta dove e' annidato un piccolo cottage nelle
+montagne, fumo esce dal camino in lente spirali. Sopra, il
+sentiero sembra andare verso quel picco scuro. Noti alcune
+tracce di stivali in terra, che apparentemente conducono verso
+il cottage.
+~
+33 0 4
+D1
+~
+~
+0 -1 3359 0
+D4
+~
+~
+0 -1 3363 0
+D5
+~
+~
+0 -1 3361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3361
+All'esterno del Cottage~
+   Ora che sei piu' vicino al cottage, noti che il fumo non
+proviene dal camino, ma piuttosto dalle rovine dell'edificio.
+Qualche cosa ha devastato questo luogo. Non vedi nessun
+segno di vita fra i ruderi. Puoi entrare attraverso uno dei buchi
+particolarmente grande nella parete ad ovest, con cautela.
+~
+33 0 4
+D3
+~
+~
+0 -1 3362 0
+D4
+~
+~
+0 -1 3360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3362
+I resti fumanti del Cottage~
+   Questo luogo sta ancora bruciando. Sul pavimento vicino
+al centro della struttura rovinata c'e' il cadavere carbonizzato
+di un uomo, disteso ed annerito.  
+Non c'e' molto da vedere qui; qualunque cosa abbia deciso da
+distruggere questo luogo c'e' riuscito molto bene.
+~
+33 0 1
+D1
+~
+~
+0 -1 3361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3363
+Una pista montana~
+   Questa pista montana porta dritta su nelle malvagie
+montagne. Alto sopra di te, un picco sembra emanare
+pericolo e paura. Ti chiedi se e' saggio continuare per
+questa strada.
+La pista va ad ovest e in basso.
+~
+33 0 5
+D3
+~
+~
+0 -1 3364 0
+D5
+~
+~
+0 -1 3360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3364
+Una pista montana~
+   La pista porta piu' in alto sulle montagne ad ovest. Rabbrividisci
+a causa della fredda aria di montagna, ti chiedi se qualche cosa
+vive qui, o meglio, qualche COSA DI PERICOLOSO. Forse
+tornare ad est potrebbe essere una buona idea.
+~
+33 0 5
+D1
+~
+~
+0 -1 3363 0
+D3
+~
+~
+0 -1 3365 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3365
+Una pista montana~
+   La pista conduce sul lato della montagna piu' alta,
+un braccio che si eleva dritto nel cielo nero come
+monumento alla morte e alla futilita'. La pista conduce
+ad est e piu' in alto ad ovest.
+~
+33 0 5
+D1
+~
+~
+0 -1 3364 0
+D3
+~
+~
+0 -1 3366 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3366
+Vicino al picco~
+   Ti stai avvicinando al picco, e se continui in questa direzione
+ci arriverai, a meno che tu non prenda quel sentiero piccino
+piccino a nord. Sul lato della montagna vedi una caverna grande 
+scavata nella roccia. Il sentiero conduce giu' nelle montagne ad
+est, che sembra essere il luogo migliore dove andare.
+~
+33 576 5
+D0
+~
+~
+0 -1 3367 0
+D1
+~
+~
+0 -1 3365 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3367
+Un piccolo, pericoloso sentiero~
+   Questo percorso conduce su, su, sul lato della montagna,
+fino a quella sinistra caverna. Il sentiero porta anche verso il
+basso a sud - un luogo molto piu' sicuro dove andare. Infatti,
+senti dei passi sopra la tua testa.
+~
+33 576 5
+D2
+~
+~
+0 -1 3366 0
+D4
+~
+~
+0 -1 3368 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3368
+Un piccolo, pericoloso sentiero~
+   Sfortunatamente, comprendi troppo in ritardo che questa
+sporgenza piu' grande che porta a nord alla scura caverna
+e' un ideale posto per una imboscata. Questa sporgenza
+ha una bella vista panoramica della montagna.
+Respira!
+~
+33 576 5
+D0
+~
+~
+0 -1 3369 0
+D5
+~
+~
+0 -1 3367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3369
+L'ingresso della caverna~
+   Sei all'ingresso di una caverna semplicemente enorme!
+Tutto intorno all'ingresso ci sono ossa bruciate e vari tipi
+di legno e frammenti di metallo. Giganteschi graffi di
+artigli sono profondamente incisi su tutto il terreno, e
+si addentrano in profondita' nella caverna.
+   Due tunnel cominciano qui, uno porta in alto, uno in basso.
+Ci sono graffi d'artiglio in tutte e due le direzioni.
+~
+33 585 4
+D2
+~
+~
+0 -1 3368 0
+D4
+~
+~
+0 -1 3370 0
+D5
+~
+~
+0 -1 3373 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3370
+Un tunnel inclinato~
+   Il tunnel scende a nord piu' profondamente nella montagna.
+Una ventata piuttosto violenta ti fa svolazzare gli abiti.
+I graffi di artiglio sul pavimento continuano nel passaggio,
+attraverso l'oscurita'.
+~
+33 585 0
+D0
+~
+~
+0 -1 3371 0
+D5
+~
+~
+0 -1 3369 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3371
+Un tunnel inclinato~
+   Il tunnel continua a salire per il pendio, ed il vento ti colpisce
+piu' forte ancora. I graffi terminano improvvisamente qui, dove
+sembra esserci molta sporcizia e pietre ammucchiate sul
+pavimento. Ti senti infelice in questo luogo.
+~
+33 585 4
+D0
+~
+~
+0 -1 3372 0
+D2
+~
+~
+0 -1 3370 0
+E
+pavimento~
+Il pavimento sembra... strano.  Pensi che procedere non sia
+una buona idea.
+~
+E
+graffi graffio traccia tracce artigli artiglio~
+Si fermano improvvisamente qui, giusto dove incominciano le pile di terra.
+~
+E
+sporcizia pietra pietre~
+Sono state portate qui, ma da dove?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3372
+La buca~
+  Cadi attraverso l'illusione di un pavimento.
+
+  Colpisci le punte avvelenate sottostanti.
+
+  Muori molto lentamente dissanguato, con la testa piegata in un angolo goffo.
+
+  
+
+
+
+
+
+~
+33 586 0
+D2
+~
+~
+0 -1 3371 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#3373
+Un tunnel inclinato~
+   Questo tunnel scende profondamente nel cuore della montagna.
+L'aria e' ancora sgradevolmente calda. C'e' un forte odore di muschio
+nell'aria, ed i giganteschi graffi di artigli continuano verso il basso.
+~
+33 585 4
+D4
+~
+~
+0 -1 3369 0
+D5
+~
+~
+0 -1 3374 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3374
+Un tunnel inclinato~
+   Una luce brillante proveniente da nord ti accieca, e' in
+netto contrasto con l'oscurita' del tunnel in alto. Sudi a
+causa del calore opprimente dell'aria. L'odore di muschio
+e' diventato piuttosto intenso, permeando l'aria e rendendo
+difficile respirare. Qualche cosa nelle tue budella comincia
+a contorcersi quando ti chiedi cosa c'e' davanti.
+~
+33 585 4
+D0
+~
+~
+0 -1 3375 0
+D4
+~
+~
+0 -1 3373 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3375
+Il Covo~
+   Questo luogo e' enorme!!! Dalle dimensioni potrebbe anche
+contenere un drago. Comunque, invece di trovare le consuete
+stragi e cumuli d'oro che di solito corredano le tane dei
+draghi, questa e' decorata con tappezzerie, drappi ed altri
+comforts di origine umana... C'e' un enorme letto della taglia
+di un dragone.
+~
+33 72 4
+D2
+~
+~
+0 -1 3374 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3376
+Uno sgabuzzino segreto~
+Ben nascosto alla vista degli intrusi questo sgabuzzino tiene conservate
+alcune proprieta' della gente di questo piccolo villaggio.
+Per lo piu' ci sono oggetti di poco interesse e qualche vecchio ricordo
+di famiglia.
+Uno spiffero proviene dal pavimento
+~
+33 0 0
+D2
+~
+pannello~
+1 0 3358 1
+D5
+~
+botola~
+0 0 3377 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3377
+Una scala~
+Sei in cima ad una scala ridemente scolpita nella viva roccia. Un forte vento ti
+penetra nelle vesti e ti fa gelare tutte le ossa.
+Appena sopra la tua testa una tenua luce fa intravvedere una specie di ripostiglio mentre
+sotto di te la scala continua perdendosi nel bui piu' profondo.
+MOLTO piu' sotto percepisci della luce.
+~
+33 0 0
+D4
+~
+botola~
+1 0 3376 1
+D5
+~
+~
+0 0 3378 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3378
+Una scala~
+Il vento gelido proveniente dal basso in questo tratto e' molto piu' forte e incalza
+a raffiche violente.
+Le tue mani faticano a mantenere la presa nei cradini della scala che stai percorrendo.
+E' buoi pesto anche se sia sopra che sotto di te' si vede della fioca luce.
+~
+33 1 0
+D4
+~
+~
+0 0 3377 0
+D5
+~
+~
+0 0 3379 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3379
+Una scala~
+Qui la scala scavata nella roccia prosegue verso il basso quasi incastrandosi in
+uno stratto cunicolo.
+Il vento qui e' fortissimo e il rumore provocato da esso e' quasi assordante. Ad
+occhio e croce sei un una specie di camino artificiale creato nel cuore della montagna.
+Il buio ti attanaglia anche se scorgi della luminescenza appena poco sotto di te.
+Ma prima devi passare lo strecco passaggio.
+~
+33 1 0
+D4
+~
+~
+0 0 3378 0
+D5
+~
+~
+0 0 3380 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3380
+Uno stretto passaggio~
+Ti sembra quasi di soffocare, se non fosse per il perenne vento che ti fa respirare
+a forza. Il passaggio e' stretto, buio e la scala intagliata nella roccia inizia a perdere
+la sua artificiale natura e ad assumere piu' una forma creata a casaccio dalla forza
+erosiva di madre natura.
+Sotto di te' vedi chiaramente della luce.
+~
+33 257 0
+D4
+~
+~
+0 0 3379 0
+D5
+~
+~
+0 0 3381 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3381
+Una grotta~
+Ti trovi in una immensa grotta naturale che si apre nel cuore della montagna.
+Non c'e' nessuna luce che ti possa indicare una via d'uscita sicura.  Verso est
+vedi l'unica uscita praticabile anche se ti servira' o una barca o qualcosa di
+simile.  Infatti un fiume sotterraneo passa proprio da queste parti e mentre
+verso ovest arriva da un inaccessibile passaggio, verso esa, appunto, prosegue
+in una ampia galleria praticabile.    
+Sopra di te un &4foro&0 rompe la stupenda volta armonia della volta della grotta.
+~
+33 1 0
+D1
+~
+~
+0 0 3382 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3382
+Un fiume sotterraneo~
+Il corso d'acqua e' pacifico e la sua percorrenza non ti da' troppe noie.
+Una leggera pendenza muova la massa del fiume verso est e piu' avanti noti con
+estrema facilita' che devia verso sud. Ottimo, ti stia avvicinando ad una fonte
+luminosa... speriamo almeno che si amica.
+~
+33 0 7
+D2
+~
+~
+0 0 3383 0
+D3
+~
+~
+0 0 3381 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3383
+Un fiume sotterraneo~
+Il fiume piega prepotentemente verso sud e la corrente accellera pericolosamente
+il suo ritmo.
+La luce e', naturale, ormai ha preso del tutto il sopravvento sul buio delle grotte
+ma un altro pensiero ora ti attanaglia la mente.
+Un rombo invade la galleria con il suo terribile ruggito.
+Ti accorgi solo ora che la corrente e' troppo forte per risalire puoi solo
+proseguire a sud... e incrociare le dita.
+~
+33 0 7
+D2
+~
+~
+0 0 3384 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3384
+Le rapide~
+Brutto segno. I tuoi timori diventano fondati. La corrente sta' aumentando in
+modo vertiginoso e il fiume, placido e tranquillo di poco fa, si e' tramutato
+in una pericolosissima rapida.
+Stai cercando di trovare il modo di non finire contro le rocce quando ti accorgi
+all'ultimo momento che sei a pochi metri dal termine nel fiume.
+Una voragine che si apre a sud fa precipitare la massa d'acqua verso il basso
+crando una rumorosa e spaventosa cascata.
+~
+33 0 7
+D2
+~
+~
+0 0 3386 0
+D3
+~
+~
+0 0 3385 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3385
+Un anfratto~
+Qui la corrente del fiume e' decisamente piu' pacifica. Una insenatura naturale
+ti permette di entrare ed uscire dall'acqua facilmente.
+L'unica via d'uscita, escludendo le rapide del fiume, e' data da una piccola
+galleria che si apre verso il basso.
+Strano, guardandoti intorno hai la netta sensazione che questa grotta sia il nascondiglio
+di qualche oscura creatura.
+~
+33 0 0
+D1
+~
+~
+0 0 3384 0
+D5
+~
+~
+0 0 3387 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3386
+La cascata~
+Ormai il corso del fiume sotterraneo ti trascina e scaraventa ovunque.
+Non hai il tempo materiale ne per pensare ne per agire dopo pochi istanti la
+cascata ti afferra le gambe ed il resto del corpo e ti trascina con violenza
+verso il basso in un vortice di acqua, schiuma e bolle.
+Non hai piu' il senso della realta' e dell'orientamento... sai solo che stai
+precipitando verso il nulla.
+~
+33 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#3387
+Una galleria~
+Appena entri nella galleria ti accorgi che le sue pareti sono liscie e umide,
+non hai quindi presa e piano piano ti accorgi che stai scivolando sempre piu' velocemente
+verso il basso.
+Auguri.
+~
+33 256 0
+D5
+~
+~
+0 0 3388 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3388
+Una splendida caverna~
+Ti ritrovi in una splendida caverna illuminata e ben areata.  Sei alla base di
+una potente e rumorosa cascata che forma un bel laghetto il quale verso sud
+prosegue sottoforma di torrente ed esce dalla caverna perdendosi alla tua
+vista.    
+~
+33 0 0
+D2
+~
+~
+0 0 1509599 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

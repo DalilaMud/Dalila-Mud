@@ -1,0 +1,1876 @@
+#8800
+L'entrata al grande &1Circo Daresiano&0~
+Ti trovi davanti all'ingresso di un recinto.Un'alta palizzata di legno ti impedisce di scorgere cosa c'e' 
+all'interno. Le mura sembrano essere costruite di recente, e hanno un diametro di molte centinaia di metri.
+Davanti c'e' un omino buffo e grassottello che controlla una porticina nascosta da una tenda colorata.
+Il piccolo inserviente controlla ogni persona che entra nel circo,alcune le allontana..altre no. Chissa' su
+cosa si basa per questa bizzarra cernita.
+~
+88 549755814044 0
+D3
+~
+~
+0 0 1545557 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8801
+La strada sud del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 0 0
+D0
+~
+~
+0 -1 8802 0
+D2
+~
+~
+0 -1 8800 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8802
+La strada sud del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 1024 0
+D0
+~
+~
+0 0 8817 0
+D1
+~
+~
+0 0 8806 0
+D2
+~
+~
+0 -1 8801 0
+D3
+~
+~
+0 0 8803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8803
+Il Baraccone del &7Tiro a segno&0~
+Apri una porticina di legno e ti trovi in un ambiente molto grande,che simula una fitta foresta equatoriale.
+La stanza e' tutta in legno e la ricostruzione e' molto grossolana e spartana. Un uomo dall'occhio guercio
+si trova al centro con ai suoi piedi una cesta di coltelli. Ti indica con un sorriso sdentato la foresta e
+mima il gesto del lancio del coltello. Che ne pensi di un po' di tiro a segno?
+Un &7cartello&0 e' appeso a un finto albero in legno.
+~
+88 1028 0
+D1
+~
+~
+0 0 8802 0
+D3
+~
+porta~
+1 0 8804 3
+E
+cartello~
+&1Solo 100 monete per una sessione di tiro, 5 tiri, premi fantastici!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8804
+Il retrobottega~
+Socchiudi la porta alle tue spalle, entrando in una stanza disordinata e stretta. Quintali di oggetti sono accatastati
+ovunque nel caos. Un omino sghignazza mentre rovista nel cumulo di ciarpame. Rimani leggermente scosso, ma all'
+improvviso in un angolo scorgi il vaso Cysneghiano che e' scomparso da casa tua qualche settimana fa..
+Maledetti ladri bastardi, e' ora di fargliela vedere!
+~
+88 1032 0
+D0
+~
+porta~
+1 0 8805 3
+D1
+~
+porta~
+1 0 8803 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8805
+La stanza da letto~
+Apri una porticina seminascosta dalle cianfrusaglie ed entri con cautela. Sei in una stanzetta semibuia sul
+retro del baraccone. Delle brandine sporche sono in un angolo, mentre nell'angolo scorgi un enorme cassaforte
+di ferro. Non fai in tempo a fare un passo che un omino si getta su di te dal soffitto urlando qualcosa,
+a quanto pare vuole vendere cara la pelle!
+~
+88 9 0
+D2
+~
+porta~
+1 0 8804 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8806
+La tenda del &6Forzuto&0~
+Scosti la tendina ed entri in ambiente non molto grande, con delle gradinate in legno che girano tutt'intorno
+a una pista in terra. Al centro dell'arena c'e' un enorme marchingegno composto da una pedana collegata
+a un asse graduata alta 2 metri. Sulla cima dell'asta c'e' un grosso Gong di ottone. Un uomo a petto nudo
+avvolto con delle pesanti catene brandisce un martello e ti invita a testare la tua forza!
+Un &7cartello&0 e' appeso al macchinario.
+~
+88 1036 0
+D3
+~
+~
+0 0 8802 0
+E
+cartello~
+Il cartello dice:
+
+&1Solo 1000 coins per testare la tua forza, riuscirai a essere come Maciste??&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8807
+La strada sud del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 1024 0
+D0
+~
+~
+0 0 8824 0
+D1
+~
+~
+0 0 8818 0
+D2
+~
+~
+0 0 8817 0
+D3
+~
+~
+0 0 8808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8808
+L'ingresso all'&5Ottovolante&0~
+Sorpassi un arco di legno ed entri in una piccola casetta di legno. L'interno e' vuoto e spoglio, ma le mura sono
+colorate in modo allegro e divertente.Al centro dell'ambiente una rotaia attraversa orizzontalmente l'intera casupola
+ospitando fermo un carrello a forma di catapulta. Un uomo sorridente e professionale sorveglia attentamente
+il mezzo.
+Un &1cartello&0 e' piantato in terra.
+~
+88 4 0
+D1
+~
+~
+0 0 8807 0
+D3
+~
+~
+0 0 8816 0
+E
+cartello~
+&1Per soli 500 coins fai un giro sull'ottovolante!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8809
+&1Sempre piu' in alto..&0~
+Appena ti accomodi sul carrello, l'ottovolante inizia a salire lentamente con una serie di curve e cambi di
+direzione non molto pericolosi e nausanti. Pensi che in fondo questo giostra non e' altro che un giochetto
+da bambini...ti aspettavi qualcosa di piu' emozionante. Improvvisamente vedi a qualche decina di metri
+da te la sommita' della giostra...Oh oh a quanto pare la salita e' finita...
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8810
+&5WHOAAAAAAAAAAAAA!&0~
+Arrivato sulla sommita' il carrello si ferma per qualche secondo, mostrandoti una delle discese piu' terribili
+che tu abbia mai visto. La rotaia scompare a picco sotto di te nella nebbia..inizi a tremare dalla paura al 
+solo pensiero di quello che ti aspetta. Il carrello riprende la sua corsa e si getta giu' a tutta velocita'...
+&5WHOAAAAAAAAAAAAAAAAAAAAA!&0
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8811
+&6Velocita' terminale!&0~
+AAAAAAAAAAAAAAAAAAAAAAAAAH! La discesa si rivela piu' terribile di quello che pensavi..il carrello raggiunge una
+velocita' impressionante allargandoti le guance per l'attrito con l'aria. La discesa e' rettilinea e sembra non
+finire mai...Sei talmente terrorizzato che non riesci neanche a chiudere gli occhi.Ti tornano in mente quelle poche
+cognizioni di fisica che hai imparato a scuola..."Si definisce &6Velocita' Terminale&0 la massima velocita' che puo'
+raggiungere un corpo in caduta..."
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8812
+&7Compressione!&0~
+Grazie a Silue la discesa finalmente termina, e il carrello affronta una nuova piccola salita. Il cambio di
+pendenza e la tremenda decelerazione ti comprime schiacciandoti nel carrello. La testa ti gira e ti sembra
+di svenire da un momento all'altro. Ce la farai a non perdere i sensi e a rimanere aggrappato al carrello??
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8813
+&8Volareeeeeee Oh OooooooooooH!&0~
+Oh Oh, non ce l'hai fatta a tenerti..vieni sbalzato via dal carrello e stai volando in aria! Inizi a pensare che
+dopo zombie,minotauri e potenti maghi la tua morte arrivera' per colpa di una stupida giostra. Ouch, atterri pesantemente
+con una gran botta alla schiena..ehi il volo e' durato meno del previsto! Ehi, ma non sei a terra, ti trovi su una
+sporgenza rocciosa pochi metri sotto la rotaia dell'ottovolante..che fortuna!
+~
+88 136 0
+D5
+~
+~
+0 0 8808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2545
+#8814
+&2Non-stop spinning world!&0~
+Incredibilmente ce l'hai fatta a rimanere aggrappato al manubrio del carrello..la corsa continua con una serie di
+curve maledettamente strette, talmente rapide e senza respira da mandarti lo stomaco in subbuglio..Ti viene da
+vomitare come non ti e' mai capitato in vita tua.. ma non e' finita, una serie di terribili giri della morte si
+trova davanti a te!!
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8815
+&3Death Loop!&0~
+AIUTOOOOOOOOOO! Ti trovi coinvolto in una serie di terribili giri della morte...il mondo gira tutto sotto i tuoi occhi,
+non riesci piu' a distinguere il cielo dalla terra. Le forze iniziano ad abbandonarti..maledici il momento in cui
+hai deciso di salire su questo strumento di morte! Resisti, a poche decine di metri da te c'e' finalmente la fine
+di questa tortura!
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8816
+&9&bSotto i binari&0~
+Qui sei sotto i binari dell'ottovolante...  Ci sara' voluto un bel lavoro a
+mettere in piedi questa attrazione!  Vedi alcune losche figure che stanno
+trafficando con dei bulloni che tengono insieme la struttura...  Ehi ma che
+fanno?  Non staranno mica sabotando la giostra?    
+~
+88 8 0
+D1
+~
+~
+0 0 8808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8817
+La strada sud del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 9 0
+D0
+~
+~
+0 0 8807 0
+D2
+~
+~
+0 -1 8802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8818
+L'entrata al recinto dei &5Maiali&0~
+Prendi una stradina laterale e ti incammini fino a giungere davanti a un recinto di legno non molto grande, pieno
+di fango letame e sporcizia. All'interno dei maialini sgambettano attorno a un maiale ENORME...ci tieni cosi' poco
+al tuo igiene da entrare li dentro?
+~
+88 12 0
+D1
+~
+~
+0 0 8819 0
+D3
+~
+~
+0 0 8807 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8819
+Nel fango!~
+Che schifo..fango e sterco ovunque. La tua lavandaia non sara' contenta di quello che stai facendo sai!
+~
+88 8 0
+D1
+~
+~
+0 0 8820 0
+D2
+~
+~
+0 0 8821 0
+D3
+~
+~
+0 0 8818 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8820
+Nel fango!~
+Che schifo..fango e sterco ovunque. La tua lavandaia non sara' contenta di quello che stai facendo sai!
+~
+88 8 0
+D2
+~
+~
+0 0 8822 0
+D3
+~
+~
+0 -1 8819 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8821
+Nel fango!~
+Che schifo..fango e sterco ovunque. La tua lavandaia non sara' contenta di quello che stai facendo sai!
+~
+88 8 0
+D0
+~
+~
+0 0 8819 0
+D1
+~
+~
+0 0 8822 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8822
+Nel fango!~
+Che schifo..fango e sterco ovunque. La tua lavandaia non sara' contenta di quello che stai facendo sai!
+~
+88 8 0
+D0
+~
+~
+0 0 8820 0
+D3
+~
+~
+0 -1 8821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8823
+&6&b&fIn Volo!&0~
+Stai volando sopra la Daresia... che bello essere quassu'!
+
+uh....forse l'atterraggio sara' un tantino meno bello!
+~
+88 136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8824
+Il centro del &1Circo Daresiano&0~
+Improvvisamente la strada si allarga formando uno spiazzo del diametro di una cinquantina di metri. Tutte le strade
+che attraversano il circo finiscono qui. Un gran numero di persone si trovano qui, cercando di orientarsi e di
+trovare qualche baraccone che non hanno ancora visitato. Un venditore con un carrello incita i visitatori a
+comprare le sue vettovaglie. Hai fame per caso?
+Una piccola scaletta a chiocciola in legno conduce ad uno strano negozio.
+~
+88 8 0
+D0
+~
+~
+0 0 8825 0
+D1
+~
+~
+0 0 8828 0
+D2
+~
+~
+0 0 8807 0
+D3
+~
+~
+0 0 8847 0
+D4
+~
+~
+0 0 8876 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8825
+La strada nord del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 0 0
+D0
+~
+~
+0 0 8867 0
+D1
+~
+~
+0 0 8826 0
+D2
+~
+~
+0 0 8824 0
+D3
+~
+~
+0 0 8840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8826
+Il mirabolante &9&bCANNONE&0~
+Ehi, ma che attrazione e' questa? Un gigantesco &9&bCANNONE&0 montato su ruote di legno domina la scena, mentre un simpatico ometto tutto sporco di nero ti invita ad avvicinarsi!
+Ad una ventina di metri vedi un enorme materasso disegnato con un bersaglio di cerchi concentrici... uhm, forse cominci a capire!
+Un &3cartello&0 avvisa che solo per oggi quest'attrazione e' gratuita!
+~
+88 549755813892 0
+D2
+~
+porta~
+1 0 8827 1
+D3
+~
+~
+0 -1 8825 0
+E
+cartello~
+APPROFITTATE DELLA GRANDE OCCASIONE! SOLO PER OGGI POTRETE PROVARE IL MAGICO CANNONE GRATUITAMENTE!
+L'UNICA CONDIZIONE E' CHE VI PROCURIATE UNA PROTEZIONE PER LA TESTA!
+&1&b*LA DIREZIONE DECLINA OGNI RESPONSABILITA' SU EVENTUALI DANNI PROVOCATI DAL LANCIO DI PERSONE A VELOCITA' BALISTICA*&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2547
+#8827
+Il magazzino della &9&bpolvere&0~
+In questo magazzino ci sono vari sacchi colmi di una polvere nera...
+Sara' meglio evitare l'uso di fiamme o incantesimi basati sul fuoco qui dentro, non si sa mai!
+~
+88 137 0
+D0
+~
+porta~
+1 0 8826 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8828
+La strada est del &1Circo Daresiano&0~
+   Ora ti trovi sulla strada che interseca quella principale, e' meno ampia ma
+altrettanto allegra!  Innanzi a te puoi scorgere un grande tendone davanti al
+quale si sta accalcando molta gente, chissa' cosa ci sara' da vedere li' dentro?
+~
+88 8 0
+D1
+~
+~
+0 0 8829 0
+D3
+~
+~
+0 0 8824 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8829
+L'ingresso al &7t&1e&7n&1d&7o&1n&1e &7d&1e&7g&1l&7i &1a&7n&1i&7m&1a&7l&1i&0~
+Ti trovi all'ingresso di un grande tendone colorato.  C'e' un po' di puzza, ma
+l'ambiente e' decisamente allegro.  Un grande striscione invita ad ammirare
+belve provenienti dai quattro angoli della Daresia!  Ci devono essere animali
+davvero esotici e strani qui dentro, probabilmente animali che non avrai mai
+piu' occasione di vedere!    
+Ben in vista e' posto un &3cartello&0 con istruzioni per i visitatori.
+~
+88 12 0
+D1
+~
+~
+0 0 8830 0
+D3
+~
+~
+0 0 8828 0
+E
+cartello~
+&1&bE' SEVERAMENTE VIETATO DAR DA MANGIARE AGLI ANIMALI&0
+&1&bALCUNI ANIMALI SONO PERICOLOSI, STATE A DEBITA DISTANZA DALLE GABBIE!&0
+&1&bNON INDISPETTITE GLI ANIMALI CON URLA O SCHIAMAZZI!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8830
+Tra le gabbie~
+Alla tua destra e alla tua sinistra ci sono gabbie molto molto grandi, di
+sicuro gli animali qui non hanno problemi di spazio!  Gli animali stessi sono
+ben pasciuti e paiono felici se pur in cattivita'!  Certo che esistono creature
+davvero strane e magnifiche!  Non ti stancheresti mai di stare a guardarle...
+Sebbene forse l'odore qui non sia dei migliori!    
+~
+88 8 0
+D0
+~
+gabbia~
+1 8825 8833 7
+D1
+~
+~
+0 0 8831 0
+D2
+~
+gabbia~
+1 8825 8834 7
+D3
+~
+~
+0 -1 8829 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8831
+Tra le gabbie~
+Alla tua destra e alla tua sinistra ci sono gabbie molto molto grandi, di
+sicuro gli animali qui non hanno problemi di spazio!  Gli animali stessi sono
+ben pasciuti e paiono felici se pur in cattivita'!  Certo che esistono creature
+davvero strane e magnifiche!  Non ti stancheresti mai di stare a guardarle...
+Sebbene forse l'odore qui non sia dei migliori!    
+~
+88 8 0
+D0
+~
+gabbia~
+1 8825 8835 7
+D1
+~
+~
+0 -1 8832 0
+D2
+~
+gabbia~
+1 8825 8836 7
+D3
+~
+~
+0 -1 8830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8832
+Tra le gabbie~
+Alla tua destra e alla tua sinistra ci sono gabbie molto molto grandi, di
+sicuro gli animali qui non hanno problemi di spazio!  Gli animali stessi sono
+ben pasciuti e paiono felici se pur in cattivita'!  Certo che esistono creature
+davvero strane e magnifiche!  Non ti stancheresti mai di stare a guardarle...
+Sebbene forse l'odore qui non sia dei migliori!    
+~
+88 8 0
+D0
+~
+gabbia~
+1 8825 8837 7
+D1
+~
+gabbia~
+1 8825 8839 7
+D2
+~
+gabbia~
+1 8825 8838 7
+D3
+~
+~
+0 0 8831 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8833
+La gabbia dei &5Vermi Viola&0~
+Questa e' la gabbia dove vengono tenuti i cuccioli di verme viola, da piccoli
+sono quasi carini!  Ti stai chiedendo perche' tengano i cuccioli e non i vermi
+viola adulti?  Perche' un verme viola adulto con ogni probabilita' si
+mangerebbe tutto il circo ed i suoi abitanti in un sol boccone!    
+~
+88 8 0
+D2
+~
+gabbia~
+1 8825 8830 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8834
+La gabbia della &9&bpantera nera&0~
+Un ruggito selvaggio, ed il bellissimo felino ti appare in tutta la sua
+eleganza.  Nera come la notte, altrettanto misteriosa e ancor piu'
+pericolosa...  Attento, se riuscira' ad ammaliarti con il suo sguardo poi le
+sara' ancor piu' facile tranciarti la giugulare!    
+~
+88 8 0
+D0
+~
+gabbia~
+1 8825 8830 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8835
+La gabbia delle &1Alci&0~
+Alcune alci ti guardano con sorpresa al tuo ingresso, questi maestosi animali
+vengono dalle lontane lande del nord, e solo i piu' bravi cacciatori sono in
+grado di averne ragione!  Tuttavia a queste alci paiono essere state accorciate
+le corna per renderle meno pericolose...  Speriamo bene!    
+~
+88 8 0
+D2
+~
+gabbia~
+1 8825 8831 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8836
+La gabbia dei &2&bDinosauri&0~
+Wow!  Non ci puoi credere!  Dei rettili preistorici!  Naturalmente questi sono
+solo cuccioli...  Poco piu' che lucertole troppo cresciute.  Si narra che i
+responsabili del circo un giorno abbiano fatto una spedizione nella misteriosa
+terra di Atlantide e siano tornati con molte uova!  Forse un giorno anche tu ti
+recherai laggiu' ad esplorare quella pericolosa terra!  Ma per ora e' meglio
+accontentarsi di guardare questi simpatici cuccioli!    
+~
+88 8 0
+D0
+~
+gabbia~
+1 8825 8831 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8837
+La gabbia dei &9&bGorilla&0~
+Ti trovi davanti a due enormi gorilla che urlano e digrignano i denti!  E' uno
+spettacolo che fa un po' paura!  Forse sara' meglio non disturbarli oltre e
+andarsene alla chetichella...    
+~
+88 8 0
+D2
+~
+gabbia~
+1 8825 8832 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8838
+La gabbia delle &7Capre&0~
+Ehi che puzza!  Pero' le caprette sono simpatiche...  Ma stai attento, queste
+non sono capre comuni!  Sono nate sui lontani Monti Mordor e hanno una
+resistenza e una forza fuori dal comune!    
+~
+88 8 0
+D0
+~
+gabbia~
+1 8825 8832 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8839
+La gabbia dei &5Bradipi&0~
+Che strani animali..  Molto pigri e simpatici...  Ehi ma cosa e' quello sguardo
+assassino?  Uhm...  Qualcosa ti dice che questi non sono semplici bradipi!    
+~
+88 8 0
+D3
+~
+gabbia~
+1 8825 8832 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8840
+&7Il tunnel dell'&1Orrore&0~
+Questa attrazione e' fatta in modo da ricordare una caverna fredda, umida, buia
+e soprattutto paurosa!  Diversi pipistrelli finti pendono legati al soffitto
+mentre bizzarri teschi sono sparsi qui e li'.  A giudicare dalle urla che
+senti arrivare da dentro il tunnel...  deve fare paura sul serio!    
+~
+88 13 0
+D1
+~
+~
+0 0 8825 0
+D3
+~
+~
+0 0 8841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8841
+&7Dentro al tunnel dell'&1Orrore&0~
+Ti addentri con un po' di timore dentro il tunnel...  Un rumore alle tue spalle
+ti fa voltare di scatto...  Ehi ma dove e' finita l'uscita?  Be', dovevi
+aspettartelo!  Ora sara' meglio fare attenzione a dove metti i piedi, hai una
+brutta sensazione e le grida che vengono da chi sta piu' avanti non ti lasciano
+tranquillo.    
+~
+88 265 0
+D3
+~
+~
+0 -1 8842 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2554
+#8842
+&7Dentro al tunnel dell'&1Orrore&0~
+Brrrrr...  Questo posto mette davvero i brividi.  Ti addentri sempre piu' a
+fondo nel tunnel, hai i nervi a fior di pelle!  Ti domandi chi te l'abbia fatto
+fare!  Senti qualcosa che ti tocca i piedi, trattieni il fiato e provi a
+deglutire.    
+~
+88 265 0
+D0
+~
+~
+0 0 8843 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2555
+#8843
+&7Dentro al tunnel dell'&1Orrore&0~
+Che freddo, e che brutta sensazione!  Questo posto sembra proprio adatto ad un
+fantasma!  Senti dei sussurri e del rumore di catene, decisamente questo non e'
+un buon posto dove passare la notte!  Rimpiangi sempre piu' di esserti
+inoltrato in questo tunnel!    
+~
+88 393 0
+D0
+~
+~
+0 -1 8844 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2556
+#8844
+&7Dentro al tunnel dell'&1Orrore&0~
+Che batticuore!  Appena riesci a calmarti vedi, nella penombra, due terribili
+occhi &1&brossi&0 che ti fissano!  Sei caduto dalla padella nella brace!  Una
+risata satanica si alza tutto intorno a te...    
+~
+88 265 0
+D1
+~
+~
+0 0 8845 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2557
+#8845
+&7Dentro al tunnel dell'&1Orrore&0~
+Il terrore ti rende sempre piu' difficile qualsiasi movimento.  Mentre cammini
+pian piano senti un rumore sopra di te, alzi lo sguardo e...  Aiuto!  Ora si'
+che ti tocchera' cambiare pantaloni!    
+~
+88 265 0
+D1
+~
+~
+0 -1 8846 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2559
+#8846
+&7Dentro al tunnel dell'&1Orrore&0~
+Forse sei in vista dell'uscita, finalmente!  Ma e' proprio quando si e' sicuri
+di avercela fatta, che si cade piu' spesso.  C'e' qualcosa di dannatamente
+puzzolente in questa stanza, qualcosa di profondamente sbagliato.    
+~
+88 265 0
+D2
+~
+~
+0 -1 8840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2660
+#8847
+La strada ovest del &1Circo Daresiano&0~
+   Ora ti trovi sulla strada che interseca quella principale, e' meno ampia ma
+altrettanto allegra!  Innanzi a te puoi scorgere un grande tendone davanti al
+quale si sta accalcando molta gente, chissa' cosa ci sara' da vedere li' dentro?
+~
+88 8 0
+D1
+~
+~
+0 0 8824 0
+D3
+~
+~
+0 0 8848 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8848
+Il &6F&7r&6e&7a&6k&7S&6h&7o&6w&0~
+Scosti lentamente la tendina ed entri in un tendone un po' buio, stranamente silenzioso e poco affollato.
+Improvvisamente un ometto con una lunga cresta verde ti corre incontro gridando qualcosa. Sembra molto preoccupato e
+spaventato. Cosa succede qui?!
+~
+88 12 0
+D1
+~
+~
+0 -1 8847 0
+D3
+~
+~
+0 0 8849 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8849
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D1
+~
+~
+0 -1 8848 0
+D3
+~
+~
+0 -1 8850 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8850
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D1
+~
+~
+0 -1 8849 0
+D2
+~
+~
+0 0 8853 0
+D3
+~
+~
+0 -1 8851 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8851
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D1
+~
+~
+0 -1 8850 0
+D2
+~
+~
+0 0 8852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8852
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D0
+~
+~
+0 0 8851 0
+D1
+~
+~
+0 0 8853 0
+D2
+~
+~
+0 0 8855 0
+D3
+~
+gabbia~
+2 8852 8858 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8853
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D0
+~
+~
+0 -1 8850 0
+D1
+~
+~
+0 0 8854 0
+D2
+~
+~
+0 0 8856 0
+D3
+~
+~
+0 0 8852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8854
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D0
+~
+~
+0 0 8849 0
+D2
+~
+~
+0 0 8857 0
+D3
+~
+~
+0 -1 8853 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8855
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D0
+~
+~
+0 -1 8852 0
+D1
+~
+~
+0 -1 8856 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8856
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D0
+~
+~
+0 0 8853 0
+D1
+~
+~
+0 0 8857 0
+D3
+~
+~
+0 0 8855 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8857
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D0
+~
+~
+0 -1 8854 0
+D3
+~
+~
+0 0 8856 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8858
+&9&bLa gabbia di acciaio temperato&0~
+Sei entrato in una gabbia larga circa 10 metri..completamente spoglia e senza oggetti. Le sbarre sono di acciaio
+temperato e sembrano praticamente indistruttibili. Ti chiedi quale sia l'utilita' di questa robustezza quando
+improvvisamente un urlo spaventosa risuona nell'aria..
+~
+88 12 0
+D1
+~
+gabbia~
+2 8852 8852 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8859
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8858 0
+D3
+~
+~
+0 -1 8860 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8860
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8861 0
+D1
+~
+~
+0 -1 8859 0
+D3
+~
+~
+0 -1 8863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8861
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8862 0
+D2
+~
+~
+0 -1 8860 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8862
+All'interno del tendone~
+Cammini in un grosso ambiente del diametro di almeno 50 metri, ovunque vedi sparse gabbie, piedistalli, cartelli
+che indicano la presenza delle piu' grosse stranezze della Daresia. Ma qualcosa deve essere andato storto e le
+bizzarre creature devono essersi rivoltate contro i loro padroni.Ovunque vedi gente che fugge inseguita da buffi
+esseri. Stai attento!!
+~
+88 8 0
+D2
+~
+~
+0 -1 8861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8863
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8860 0
+D3
+~
+~
+0 -1 8864 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8864
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8863 0
+D3
+~
+~
+0 -1 8865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8865
+La strada nord del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 35184372088840 0
+D0
+~
+~
+0 0 8869 0
+D1
+~
+porta~
+2 0 8866 15
+D2
+~
+~
+0 -1 8867 0
+D3
+~
+~
+0 0 8868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8866
+&6&bLa Pentolaccia&0~
+Questa deve essere un'attrazione davvero divertente!  Molti vasi di terracotta
+pendono da delle corde legate al soffitto.  Per giocare, si viene bendati e
+forniti di una mazza con la quale rompere un vaso.  Il premio che ne uscira'
+sara' tuo!    
+Una simpatica vecchiarella ti invita a provare!
+&3&bUn CARTELLO e' esposto qui&0
+~
+88 36009005809804 0
+D3
+~
+porta~
+2 8833 8865 15
+E
+cartello~
+Il costo per giocare è di 100 monete d'oro.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8867
+La strada nord del &1Circo Daresiano&0~
+Wow! Che posto allegro! Ti trovi su una strada sterrata che procede verso nord. Sei completamente circondato
+da baracconi e tende che ospitano attrazioni, bancarelle e giochi. Numerosi giovanotti circolano per la via
+guardandosi attorno estasiati. Hai solo l'imbarazzo della scelta!
+~
+88 8 0
+D0
+~
+~
+0 0 8865 0
+D2
+~
+~
+0 0 8825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8868
+Il negozio dei &3&bDolci!&0~
+Dolci!  Dolci ed ancora dolci!  Sei letteralmente circondato da cose
+buonissime!  Non c'e' praticamente modo di resistere alla tentazione che la
+merce in vendita ti procura!  Serviti pure, i prezzi paiono essere buoni!    
+~
+88 12 0
+D1
+~
+~
+0 0 8865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8869
+Il labirinto di specchi~
+Ti sei appena addentrato nell'immenso labirinto di specchi e gia'
+hai perso ogni traccia del tuo infallibile senso di orientamento. Per
+fortuna dietro di te una freccia lampeggiante indica l'uscita, facendo
+risplendere tutta la stanza di un tripudio di luci gialle rosse e
+verdi. Stai attento, pochi passi e potresti perderti del tutto.
+~
+88 172 0
+D0
+~
+~
+0 0 8870 0
+D1
+~
+~
+0 0 8865 0
+D2
+~
+~
+0 0 8865 0
+D3
+~
+~
+0 0 8870 0
+D4
+~
+~
+0 0 8871 0
+D5
+~
+~
+0 0 8872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3011
+#8870
+Il labirinto di specchi~
+Davanti, dietro, a destra e a sinistra, solo specchi!
+Persino sotto ai tuoi piedi il pavimento lucente riflette la tua
+immagine, e con il soffitto compone un intricato spettacolo. Ciascuna
+immagine viene rifranta, respinta e rigirata ad ogni ulteriore urto
+contro una qulsiasi parete, rimpicciolita dagli specchi concavi e
+ingrandita dai convessi. E' impossibile determinare a cosa appartenga
+ogni particolare che ti vedi attorno, e ogni cosa che si muove
+potrebbe essere tanto un topolino quanto un dragone.
+~
+88 168 0
+D0
+~
+~
+0 0 8873 0
+D1
+~
+~
+0 0 8871 0
+D2
+~
+~
+0 0 8869 0
+D3
+~
+~
+0 0 8871 0
+D4
+~
+~
+0 0 8870 0
+D5
+~
+~
+0 0 8869 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3012
+#8871
+Il labirinto di specchi~
+Tanti specchi ordinati e disposti a incastro riflettono la tua
+immagine da ogni parte attorno a te. Ad ogni vetro triangolare si
+affianca un altro uguale e rovesciato che mostra di te una figura
+tozza e capovolta. Certo che sono aguzzi! Qualcuno potrebbe farsi
+male...
+~
+88 168 0
+D0
+~
+~
+0 0 8872 0
+D1
+~
+~
+0 0 8871 0
+D2
+~
+~
+0 0 8873 0
+D3
+~
+~
+0 0 8869 0
+D4
+~
+~
+0 0 8871 0
+D5
+~
+~
+0 0 8870 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3012
+#8872
+Il labirinto di specchi~
+Un rosso vivo e incostante colpisce i tuoi occhi quando entri in
+questa specie di stanza. E' una nicchia ricavata con specchi che
+sembrano essi stessi rilucere di un'intensa luce rossa molto
+disturbante, non troppo spaziosa e apparentemente senza uscite.
+Al centro sotto una sfera di vetro arde una torcia, e sulla sua
+superficie scorre... sangue!
+~
+88 168 0
+D0
+~
+~
+0 0 8870 0
+D1
+~
+~
+0 0 8871 0
+D2
+~
+~
+0 0 8872 0
+D3
+~
+~
+0 0 8872 0
+D4
+~
+~
+0 0 8873 0
+D5
+~
+~
+0 0 8870 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3012
+#8873
+Il labirinto di specchi~
+Qui il passaggio si fa impervio. Il tetto e' basso e devi proseguire in
+ginocchio sulla salita.
+Dalla cima del dosso sul quale sei giunto vedi attorno a te un'altra
+moltitudine di specchi, specchi e ancora specchi; la discesa per passare
+oltre e' molto ripida e rischi di ferirti se fai un passo falso, stai
+attento!
+~
+88 168 0
+D0
+~
+~
+0 0 8873 0
+D1
+~
+~
+0 0 8870 0
+D2
+~
+~
+0 0 8870 0
+D3
+~
+~
+0 0 8873 0
+D4
+~
+~
+0 0 8871 0
+D5
+~
+~
+0 0 8872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3012
+#8874
+Il labirinto di specchi~
+Nel mezzo di una stanza pentagonale stranamente semplice e lineare, in
+uno spazio vuoto tra sette grossi specchi, si erge un piedistallo di
+cristallo lucente. Tre piedi spessi e trasparenti reggono un disco
+d'argento con sopra disegnata una stella a 5 punte, rigorosamente
+allineate con le pareti attorno a te.
+~
+88 168 0
+D0
+~
+~
+0 0 8870 0
+D1
+~
+~
+0 0 8872 0
+D2
+~
+~
+0 0 8870 0
+D3
+~
+~
+0 0 8873 0
+D4
+~
+~
+0 0 8871 0
+D5
+~
+~
+0 0 8873 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3012
+#8875
+Il labirinto di specchi~
+Quattro spesse colonne al centro della stanza rispecchiano in piu'
+modi la tua immagine quando entri, respingendola sulle pareti e
+facendole acquisire le forme piu' varie.
+Al centro del quadrato che delimitano sembra concentrarsi una grande
+energia che assume forma propria, in continua modifica. Temi cosa ti
+puo' succedere avvicinandoti...
+~
+88 168 0
+D0
+~
+~
+0 0 8873 0
+D1
+~
+~
+0 0 8873 0
+D2
+~
+~
+0 0 8873 0
+D3
+~
+~
+0 0 8870 0
+D4
+~
+~
+0 0 8872 0
+D5
+~
+~
+0 0 8869 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 3012
+#8876
+&5Il Bazaar!&0~
+In questa stanza e' ammassato quanto di piu' futile e vacuo tu riesca a immaginare!
+Se c'e' qualcosa che non ti serve probabilmente lo troverai qui.
+Per non parlare del losco figuro che sta dietro al bancone... probabilmente ha qualcosa da raccontarti o da proporti...
+E potrebbe non piacerti..
+~
+88 28 0
+D5
+~
+~
+0 0 8824 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8877
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8878 0
+D2
+~
+~
+0 -1 8876 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8878
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8879 0
+D2
+~
+~
+0 -1 8877 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8879
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D2
+~
+~
+0 -1 8878 0
+D3
+~
+~
+0 -1 8880 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8880
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 11 0
+D1
+~
+~
+0 -1 8879 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#8881
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8875 0
+D2
+~
+~
+0 -1 8882 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8882
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8881 0
+D2
+~
+~
+0 -1 8883 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8883
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8882 0
+D1
+~
+~
+0 -1 8884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8884
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8885 0
+D3
+~
+~
+0 -1 8883 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8885
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8889 0
+D3
+~
+~
+0 -1 8884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8886
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8889 0
+D2
+~
+~
+0 -1 8887 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8887
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8886 0
+D2
+~
+~
+0 -1 8888 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8888
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 11 0
+D0
+~
+~
+0 -1 8887 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#8889
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8890 0
+D2
+~
+~
+0 -1 8886 0
+D3
+~
+~
+0 -1 8885 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8890
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8891 0
+D3
+~
+~
+0 -1 8889 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8891
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8892 0
+D3
+~
+~
+0 -1 8890 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8892
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8893 0
+D3
+~
+~
+0 -1 8891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8893
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D0
+~
+~
+0 -1 8894 0
+D3
+~
+~
+0 -1 8892 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8894
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 11 0
+D2
+~
+~
+0 -1 8893 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#8895
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8869 0
+D3
+~
+~
+0 -1 8896 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8896
+Cunicolo~
+Uno scuro e stretto cunicolo scavato nella dura
+roccia del sottosuolo porta chissa' dove.~
+88 9 0
+D1
+~
+~
+0 -1 8895 0
+D3
+~
+~
+0 -1 8897 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8897
+Scala~
+Una larga stanza scavata nel sottosuolo delle terre
+di Tolnedra.
+Una scala a chiocciola in pietra porta verso l'alto.
+A Est un lungo corridoio si perde nel buio.~
+88 9 0
+D1
+~
+~
+0 -1 8896 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

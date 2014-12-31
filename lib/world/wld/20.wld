@@ -1,0 +1,1597 @@
+#2001
+Una larga strada di ciottoli~
+Una larga strada di ciottoli si allontana dal villaggio verso nord.
+Ai lati della strada immensi campi coltivati a frumento risplendono riflettendo
+la luce del sole. In lontananza distingui le alte cime degli alberi che formano
+una fitta macchia.
+~
+20 0 3
+D0
+~
+entrata~
+1 0 1525588 1
+D3
+La strada continua ad ovest.
+~
+~
+0 -1 2002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2002
+Una Strada~
+     la strada sulla quale ti trovi si sta restringendo. Ti stai avvicinando
+ad una vasta macchia d'alberi, e' un grande bosco.
+~
+20 0 3
+D1
+La strada continua ad est.
+~
+~
+0 -1 2001 0
+D3
+La strada prosegue ad ovest.
+~
+~
+0 -1 2003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2003
+Un Sentiero~
+     Qui la strada si restringe fino quasi a diventare un sentiero. 
+Davanti a te si apre un vasto bosco mentre dietro hai una strada.
+~
+20 0 3
+D1
+La strada continua ad est.
+~
+~
+0 -1 2002 0
+D3
+Ad ovest inizia il bosco.
+~
+~
+0 -1 2004 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2004
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+Nonostante la fitta vegetazione intravedi un cunicolo che scende sotto terra.
+~
+20 0 3
+D1
+Il bosco prosegue a est
+~
+~
+0 -1 2003 0
+D3
+Il bosco prosegue a ovest
+~
+~
+0 -1 2005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2005
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+~
+20 0 3
+D1
+Il bosco prosegue a est
+~
+~
+0 -1 2004 0
+D3
+Il bosco prosegue a ovest
+~
+~
+0 -1 2006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2006
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+~
+20 0 3
+D1
+Il bosco prosegue a est
+~
+~
+0 -1 2005 0
+D2
+~
+~
+0 0 2011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2007
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+~
+20 0 3
+D1
+Il bosco prosegue a est.
+~
+~
+0 -1 2006 0
+D3
+Il bosco prosegue a ovest.
+~
+~
+0 -1 2008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2008
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+~
+20 0 3
+D1
+Il bosco prosegue a est.
+~
+~
+0 -1 2007 0
+D3
+Il bosco prosegue a ovest.
+~
+~
+0 -1 2009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2009
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+~
+20 0 3
+D1
+Il bosco prosegue a est.
+~
+~
+0 -1 2008 0
+D3
+Il bosco prosegue a ovest.
+~
+~
+0 -1 2010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2010
+Bosco~
+	Come i tuoi occhi si sono abituati all'oscurità, riesci a vedere un
+piccolo sentiero che attraversa la foresta. Di tanto in tanto un raggio
+di sole penetra nella fitta foresta riscaldandoti la pelle e allontanado
+la senzazione di soffocamento provocata dalla fitta vegetazione.
+~
+20 0 3
+D1
+Il bosco prosegue a est.
+~
+~
+0 -1 2009 0
+D3
+Il bosco prosegue a ovest.
+~
+~
+0 -1 115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2011
+Un Sentiero~
+   Sei su uno stretto sentiero che si allontana dal bosco.
+Uno strano silenzio ti circonda e sei intimorito.
+A nord c'e' il bosco mentre il sentiero prosegue a sud.
+~
+20 0 3
+D0
+Vedi il bosco.
+~
+~
+0 -1 2006 0
+D2
+Il sentiero continua.
+~
+~
+0 -1 2012 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2012
+Un Sentiero Silenzioso~
+   Sei su un sentiero che rimane stranamente silenzioso.
+Non un canto di uccello, non un ronzio di insetto; il tuo timore
+cresce.
+~
+20 0 3
+D0
+Il sentiero continua a nord.
+~
+~
+0 -1 2011 0
+D2
+Il sentiero continua a sud.
+~
+~
+0 -1 2013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2013
+Un Sentiero Silenzioso~
+   Sei su un sentiero che rimane stranamente silenzioso.
+Non un canto di uccello, non un ronzio di insetto; il tuo timore
+continua a crescere. Noti anche che la temperatura comincia
+a salire.
+~
+20 0 3
+D0
+Il sentiero continua a nord.
+~
+~
+0 -1 2012 0
+D2
+Il sentiero prosegue a sud.
+~
+~
+0 -1 2014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2014
+Un Sentiero Silenzioso e Caldo~
+      Sei su un sentiero dove c'e' assoluto silenzio. La tua paura
+oramai e' evidente. Il caldo continua ad aumentare.
+~
+20 0 3
+D0
+Il sentiero continua a nord.
+~
+~
+0 -1 2013 0
+D2
+Il sentiero prosegue a sud.
+~
+~
+0 -1 2015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2015
+Un Sentiero Silenzioso e Caldo~
+      Sei su un sentiero dove c'e' assoluto silenzio. La tua paura
+oramai e' evidente. Il caldo e' ormai insopportabile.
+~
+20 0 3
+D0
+Il sentiero continua a nord.
+~
+~
+0 -1 2014 0
+D5
+~
+~
+0 0 2021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2021
+Il tunnel sotterraneo~
+Uno stretto cunicolo si snoda davanti a te scendendo rapidamente verso
+il basso. Le pareti sono un misto di roccia e argilla e sono ricoperte
+quasi completamente di muschio. All'entrata del cunicolo noti una
+vecchissima insegna di legno ormai logorata dal tempo.
+Il cunicolo conduce a sud a una grotta e a nord in una fitta foresta.
+~
+20 12 0
+D2
+Intravedi una grotta enorme e abbastanza illuminata che si apre proprio
+alla fine del tunnel.~
+~
+0 -1 2022 0
+D4
+Il tunnel sbocca in una fitta e oscura foresta.~
+~
+0 -1 2015 0
+E
+insegna legno
+~
+L'iscrizione sull'insegna dice: "Attenti a voi, temerari avventurieri:
+nella casa di Gnell tutti entrano ma pochi riescono a uscire."
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2022
+La grande grotta~
+Sei all'interno di una immensa grotta. Alcune aperture del soffitto
+permettono alla luce del sole di penetrare e illuminare quasi
+completamente la grotta. Nei pochi punti al buio il terreno è ricoperto
+di una strana sostanza marrone.
+La grotta è collegata a est, sud e ovest con altre tre grotte minori
+mentre a nord si dirama un tunnel.
+~
+20 8 0
+D0
+Vedi un tunnel che sembra risalire verso l'alto.~
+~
+0 -1 2021 0
+D1
+Dopo un brevissimo cunicolo intravedi un grotta di dimensioni ridotte.~
+~
+0 -1 2024 0
+D2
+Dopo un brevissimo cunicolo intravedi un grotta di dimensioni ridotte.~
+~
+0 -1 2025 0
+D3
+Dopo un brevissimo cunicolo intravedi un grotta di dimensioni ridotte.~
+~
+0 -1 2023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2023
+La stanza di guardia~
+Questa stanza era utilizzata come alloggiamento per le guardie.
+La luce provieniente dalla grotta a est garantisce una buona luminosità.
+Una discreta quantità di armi e armature arrugginite è ammassata in
+un angolo della stanza. Al centro un tavolo e due sedie di legno hanno
+sfidato il tempo e sono ancora miracolosamente integre.
+A est la stanza è collegata tramite un breve cunicolo a una enorme
+grotta.
+~
+20 8 0
+D1
+Intravedi una grotta enorme discretamente illuminata.~
+~
+0 -1 2022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2024
+La stanza di guardia~
+Questa stanza era utilizzata come alloggiamento per le guardie.
+La luce provieniente dalla grotta a ovest garantisce una buona luminosità.
+Armi, armature e mobili ormai consumati e danneggiati dal tempo sono
+sparsi per tutta la stanza.
+A ovest la stanza è collegata tramite un breve cunicolo a una enorme
+grotta.
+~
+20 8 0
+D3
+Intravedi una grotta enorme discretamente illuminata.~
+~
+0 -1 2022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2025
+La stanza di controllo~
+Questa grotta è molto diversa dalle precedenti, in quanto le pareti sono
+lavorate e levigate tanto bene da sembrare quasi le mura di un castello.
+Una fitta griglia di metallo divide a metà la stanza, permettendo il
+passaggio a una sola persona alla volta attraveso una specie di buco al
+suo centro: questo ti fa pensare che questa grotta fosse adibita al
+controllo dei mostri e dei personaggi. La luminosità non è delle migliori,
+tranne che in vicinanza del buco dove una serie di piccole pietre luminose
+provvedono a illuminare la zona.
+A nord la stanza è collegata tramite un breve cunicolo a una enorme
+grotta.
+A sud c'è un cunicolo.
+~
+20 8 0
+D0
+Intravedi una enorme grotta bene illuminata.~
+~
+0 -1 2022 0
+D5
+Intravedi un cunicolo avvolto nell'oscurità.~
+~
+0 -1 2026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2026
+Il passaggio~
+Sei in uno stretto cunicolo che scende molto rapidamente verso il basso.
+Le pareti del tunnel sono piene di protuberanze e nicchie, mentre sul
+terreno scorre un piccolo rivo d'acqua.
+Il cunicolo conduce sia a nord sia in basso in una piccola grotta.
+~
+20 12 0
+D4
+C'è una grotta di dimensioni ridotte con una grata di ferro che la
+divide a metà.~
+~
+0 -1 2025 0
+D5
+Vedi una piccola grotta molto buia.~
+~
+0 -1 2027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2027
+L'entrata del 2° livello~
+Sei in una piccola grotta avvolta nell'oscurità. Solo uno spiraglio di
+luce proveniente da una apertura a sud ti permette di intravedere
+qualcosa.
+La grotta ha quattro uscite: in alto c'è un cunicolo mentre a sud, ovest
+e est ci sono tre porte.
+~
+20 8 0
+D1
+Vedi una grande porta di legno massiccio.
+~
+porta~
+1 -1 2032 3
+D2
+Vedi una grande porta di legno massiccio.
+~
+porta~
+1 -1 2037 3
+D3
+Vedi una grande porta di legno massiccio.
+~
+porta~
+1 -1 2028 3
+D4
+Intravedi un cunicolo avvolto nell'oscurità.~
+~
+0 -1 2026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2028
+Il corridoio stretto~
+Uno stretto e angusto corridoio collega due piccole grotte. Una serie di
+minuscole pietre incastonate nei muri irradia una debole luce che ti permette
+almeno di vedere dove metti i piedi. Il soffitto è talmente basso che un
+uomo alto farebbe fatica a camminare eretto. Una grossa scritta campeggia sopra
+l'entrata del cunicolo.
+~
+20 8 0
+D1
+Vedi una porticina di metallo.
+~
+porta~
+1 -1 2027 3
+D3
+Vedi una piccola grotta.
+~
+~
+0 -1 2029 0
+E
+scritta insegna~
+La scritta recita: "Le prigioni minori".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2029
+L'atrio delle celle~
+Sei in una piccola grotta bene illuminata. In un angolo noti due panche,
+un tavolo e un letto in buono stato, sintomo del fatto che sono stati usati di
+recente. La stanza comunica con due celle separate tramite una grossa grata
+metallica ed è anche collegata a un corridoio.
+~
+20 8 0
+D1
+Vedi un corridoio.
+~
+~
+0 -1 2028 0
+D2
+Vedi una grata di metallo.
+~
+porta~
+2 2015 2031 15
+D3
+Vedi una grata di metallo.
+~
+porta~
+2 2016 2030 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2030
+La prima cella~
+Sei in una piccola cella costruita per contenere al massimo due persone. Una
+trave di legno infissa nel muro è il "comodo" letto del prigioniero, mentre
+una sedia e un tavolino minuscoli sono l'unico lusso della stanza.
+La cella ha una sola entrata ed è protetta da una spessa grata di ferro.
+~
+20 8 0
+D1
+Vedi una grata di metallo.
+~
+porta~
+2 2016 2029 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2031
+La seconda cella~
+Sei in una piccola cella costruita per contenere al massimo due persone. Una
+trave di legno infissa nel muro è il "comodo" letto del prigioniero, mentre
+una sedia e un tavolino minuscoli sono l'unico lusso della stanza.
+La cella ha una sola entrata ed è protetta da una spessa grata di ferro.
+~
+20 8 0
+D0
+Vedi una grata di metallo.
+~
+porta~
+2 2015 2029 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2032
+L'inizio del tunnel~
+Sei in un tunnel scavato nella roccia. Una fitta nebbia ti oscura quasi
+completamente la visuale. Il tunnel prosegue a sud mentre a ovest conduce a una
+grotta.
+~
+20 8 0
+D2
+Intravedi il proseguimento del tunnel
+~
+~
+0 -1 2033 0
+D3
+Vedi una grande porta di legno massiccio.
+~
+porta~
+1 -1 2027 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2033
+La fine del tunnel~
+Sei alla fine del tunnel scavato nella roccia. La nebbia qui è più rada e
+ti permette di vedere una strana peculiarità del tunnel, cioè quella di
+avere decine di piccole nicchie nascoste sia sulle pareti laterali che sul
+soffitto. A nord il tunnel continua, mentre a est conduce in una grotta.
+~
+20 8 0
+D0
+Vedi l'inizio del tunnel.
+~
+~
+0 -1 2032 0
+D1
+Intravedi una grotta.
+~
+~
+2 -1 2034 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2034
+L'anticamera del dormitorio~
+Sei in una grande grotta bene illuminata da piccole pietre azzurre poste sui
+muri della stanza. Nella stanza ci sono delle panche e delle tavole che sono
+ancora utilizzabili.
+~
+20 8 0
+D1
+Vedi una grande porta di legno massiccio.
+~
+porta~
+2 2017 2036 15
+D3
+Vedi un tunnel
+~
+~
+0 -1 2033 0
+D5
+Vedi un tunnel che scende in basso
+~
+~
+0 -1 2035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2035
+Il passaggio al terzo livello~
+Sei in un tunnel che scende rapidamente verso il basso e che collega
+il secondo e il terzo livello del labirinto.
+~
+20 12 0
+D4
+Vedi l'anticamera del dormitorio
+~
+~
+0 -1 2034 0
+D5
+Vedi una grotta molto grande
+~
+~
+0 -1 2042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2036
+La camera da letto~
+Sei in una grande grotta con una decina di letti: se così si possono
+chiamare delle travi di legno sollevate dal terreno di qualche decina di
+centimetri. La stanza è piena di ossa sparse un pò dovunque. L'unica
+uscita a ovest è protetta da una porta con serratura.
+~
+20 8 0
+D3
+Vedi una grande porta di legno massiccio
+~
+porta~
+0 2017 2034 6
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2037
+L'ingresso della chiesa~
+Sei in una grotta immensa e bene illuminata, anche se non capisci come visto
+che non ci sono aperture e il soffitto è troppo alto per distinguere bene
+le fonti di luce. Al centro della grotta svetta una struttura circolare di
+colonne, mentre sul lato sud si può notare la presenza di una facciata di
+una chiesa con il suo grandissimo portone completamente aperto come per
+invitarti a entrare.
+~
+20 8 0
+D0
+Vedi una grande porta di legno massiccio
+~
+porta~
+1 -1 2027 3
+D2
+Intravedi l'interno di una chiesa
+~
+~
+0 -1 2038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2038
+L'interno della chiesa~
+Sei all'interno di una chiesa ormai in disuso. Le panche sono ribaltate e
+sparse ovunque, i quadri e gli arazzi sono strappati e sparsi sul pavimento.
+L'unico cosa che sembra essere stata risparmiata è il grande altare che
+troneggia in mezzo alla chiesa.
+Da questa zona centrale della chiesa si diramano tre ali a est, ovest e sud.
+~
+20 8 0
+D0
+~
+~
+0 0 2037 0
+D1
+Vedi l'ala est della chiesa
+~
+~
+0 -1 2039 0
+D2
+Vedi l'ala sud della chiesa
+~
+~
+0 -1 2041 0
+D3
+Vedi l'ala ovest della chiesa
+~
+~
+0 -1 2040 0
+E
+altare
+~
+L'altare è costituito da un unico blocco di marmo sul quale sono stati
+incisi delle immagini e dei simboli religiosi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2039
+L'ala est della chiesa~
+Sei in una piccola cappella stranamente molto ben tenuta. Gli affreschi alle
+pareti e sul soffitto non mostrano il minimo segno di usura e il resto della
+stanze è in perfetto ordine.
+Un altare di discrete dimensioni fa da punto focale della stanza.
+~
+20 8 0
+D3
+Vedi la navata centrale della chiesa
+~
+~
+0 -1 2038 0
+E
+altare
+~
+Osservi l'altare: ha poche incisioni e decorazioni, ma la sua struttura di
+marmo gli dona comunque un aspetto discretamente imponente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2040
+L'ala ovest della chiesa~
+Sei in una piccola cappella dove regnano incontrastati la confusione e il
+disordine. Il pavimento è ricoperto da centrimetri e centimetri di polvere
+e negli ancoli della stanza potete notare anche piccoli mucchietti di ossa.
+~
+20 8 0
+D1
+Vedi la navata centrale della chiesa
+~
+~
+0 -1 2038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2041
+L'ala sud della chiesa~
+Sei dietro all'altare della navata centrale. La stanza è abbastanza grande e
+bene illuminata da una fonte luminosa proveniente dall'alto. Dai muri scendono
+alcuni rivoli d'acqua che hanno formato nel centro della stanza tante pozze
+d'acqua che unite alla polvere accumulata nel tempo hanno reso il terreno
+particolarmente fangoso e scivoloso.
+~
+20 8 0
+D0
+Vedi la navata centrale della chiesa
+~
+~
+0 -1 2038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2042
+L'entrata del terzo livello~
+Sei all'interno di una grande grotta a forma di cupola. Le pareti sono quasi
+lisce e sembrano essere state lavorate da mani umane. L'atmosfera ha qualcosa
+di strano e un brivido di freddo ti percorre la schiena mentre ti aggiri in
+questa cupa caverna. La grotta ha ben quattro uscite: una per ogni direzione
+cardinale e ognuna protetta da una pesante porta in ferro battuto. In più c'è
+il tunnel che conduce al secondo livello.
+~
+20 8 0
+D0
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2050 3
+D1
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2043 3
+D2
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2065 3
+D3
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2081 3
+D4
+Vedi un tunnel che sale verso l'alto
+~
+~
+0 -1 2035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2043
+La grotta est~
+Sei in una piccola grotta a est dell'entrata del terzo livello.
+Qui l'atmosfera è un pò più tranquilla e serena, anche se hai ancora il
+presentimento della presenza di qualcosa di sinistro.
+~
+20 8 0
+D1
+Vedi un tunnel
+~
+~
+0 -1 2045 0
+D2
+Vedi una porta di ferro molto malandata
+~
+porta~
+1 -1 2044 3
+D3
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2042 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2044
+La stanza di allenamento~
+Sei in una grotta molto grande e bene illuminata. Le pareti e il soffitto
+sono stati lavorati e levigati e il terreno è stato ricoperto da uno strato
+di mattoni. La grotta è piena di strumenti di allenamento al combattimento
+corpo a corpo e il loro ottimo stato fa presumere che siano tuttora utilizzati.
+~
+20 8 0
+D0
+Vedi una porta di ferro molto malandata
+~
+porta~
+1 -1 2043 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2045
+Il tunnel~
+Nel tunnel in cui ti trovi echeggiano strani suoni simili a versi di animali.
+Il terreno ricoperto in gran parte da larghe pozze d'acqua non ti aiuta certo
+a restare rilassato. 
+Il tunnel prosegue a sud, mentre è collegato a nord e a est a due grotte.
+~
+20 8 0
+D0
+Vedi una inferriata arruginita che sbarra l'ingresso di una grotta
+~
+porta~
+1 -1 2046 3
+D2
+Vedi la prosecuzione del tunnel
+~
+~
+0 -1 2047 0
+D3
+Vedi una piccola grotta
+~
+~
+0 -1 2043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2046
+Il cimitero~
+Entri in una grotta dall'aspetto spettrale e lugubre. Dovunque guardi vedi
+montagnole di teschi accatastate alla meno peggio. L'aria è pesante e fai
+fatica a respirare.
+L'unica uscita della stanza è quella dalla quale sei appena entrato.
+~
+20 8 0
+D2
+Vedi una inferriata arrugginita che sbarra l'ingresso di una grotta
+~
+porta~
+1 -1 2045 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2047
+La fine del tunnel~
+Sei nell'ultimo tratto del tunnel. Un odore intenso di carne putrefatta e di
+sangue ti assale le narici e ti fa rivoltare lo stomaco.
+~
+20 8 0
+D0
+Vedi l'inizio del tunnel
+~
+~
+0 -1 2045 0
+D1
+Vedi una grotta gigantesca
+~
+~
+0 -1 2049 0
+D2
+Vedi una grotta enorme
+~
+~
+0 -1 2048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2048
+L'ala sud del cimitero~
+Appena metti piede nella grotta una terribile paura ti assale .... percepisci
+una presenza malvagia nell'aria ... qualcosa di sinistro e pericoloso.
+Non appena ti riprendi dallo paura noti che la grotta altro non è che un
+cimitero ed è piena zeppa di tombe di ogni forma e misura.
+~
+20 8 0
+D0
+Vedi un tunnel
+~
+~
+0 -1 2047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2049
+L'ala est del cimitero~
+Sei in una grotta adabita a cimitero. In ogni sua parte sono presenti una
+quantità inimmaginale di tombe di ogni forma e misura, alcune delle quali
+scoperchiate e molto probabilmente depredate.
+~
+20 8 0
+D3
+Vedi un tunnel
+~
+~
+0 -1 2047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2050
+Il bivio~
+Sei in un cunicolo che si dirama in tre direzioni: a nord prosegue
+restringendosi, a est conduce a una grata di ferro, a sud c'è una porta.
+~
+20 8 0
+D0
+Vedi il proseguimento del cunicolo
+~
+~
+0 -1 2053 0
+D1
+Vedi una grossa grata di ferro
+~
+porta~
+1 -1 2051 3
+D2
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2042 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2051
+L'anticamera~
+Sei in un'ampia stanza che si distacca nettamente dalle grotte in cui sei
+appena passato: questa stanza sembra essere quella di un ricco castello, con
+muri perfettamente costruiti, quadri e arazzi alle pareti e perfino uno
+splendido lampadario al soffitto. In tutto questo splendore risalta
+nettamente una iscrizione sopra la porta a nord.
+~
+20 8 0
+D0
+Vedi una porta di metallo dall'aspetto veramente massicio e imponente
+~
+porta~
+2 2018 2052 15
+D3
+Vedi una grossa grata di ferro
+~
+porta~
+1 -1 2050 3
+E
+iscrizione scritta
+~
+L'iscrizione è scritta in una lingua a te sconosciuta ma allo stesso tempo
+vagamente familiare. Dopo qualche minuto passato a osservare attentamente
+l'iscrizione riesci a decifrarne almeno una parte: "Attentenzione: nessuno
+osi disturbare il sonno del grande guerriero Krel !!!".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2052
+La camera di Krel~
+Sei in una camera da letto lussuosamente arredata e abbastanza grande da
+ospitare almeno dieci persone comodamente; invece tu noti un solo immenso
+letto a baldacchino al centro della stanza e talmente alto che per salirci
+tu dovresti saltare o arrampicarti.
+~
+20 8 0
+D2
+Vedi una porta di metallo dall'aspetto veramente massiccio e imponente
+~
+porta~
+2 2018 2051 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2053
+Il tunnel~
+Il tunnel svolta a novanta gradi e progesue sia a ovest che a sud.
+~
+20 8 0
+D2
+Vedi un tunnel
+~
+~
+0 -1 2050 0
+D3
+Vedi un tunnel
+~
+~
+0 -1 2054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2054
+Il tunnel~
+Sei in un tunnel scavato nella roccia. Il tunnel prosegue sia a est che a ovest.
+~
+20 8 0
+D1
+Vedi un tunnel
+~
+~
+0 -1 2053 0
+D3
+Vedi un tunnel
+~
+~
+0 -1 2055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2055
+Il tunnel~
+Sei in un tunnel scavato nella roccia. Stranamente la temperatura è più alta
+del normale. Il tunnel prosegue a est, mentre a ovest termina con una porta
+di legno. Sopra la porta c'è una insegna di legno.
+~
+20 8 0
+D1
+Vedi un tunnel
+~
+~
+0 -1 2054 0
+D3
+Vedi una porta di legno
+~
+porta~
+2 2019 2056 15
+E
+insegna legno scritta
+~
+L'insegna dice: "Fare silenzio".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2056
+La biblioteca~
+Sei in una sala piena di scaffali e di libri. La luce è soffusa e l'odore di
+chiuso è veramente insopportabile. Una strana sensazione di fastidio ti
+tormenta le braccia e le gambe. Da questa sala puoi accedere anche a altre
+parti della biblioteca. La temperatura è salita ulteriormente.
+~
+20 8 0
+D1
+Vedi una porta
+~
+porta~
+2 2019 2055 15
+D2
+Vedi l'ala sud della biblioteca
+~
+~
+0 -1 2057 0
+D3
+Vedi l'ala ovest della biblioteca
+~
+~
+0 -1 2058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2057
+L'ala sud della biblioteca~
+Sei nell'ala sud della biblioteca. Qui il calore è diventato insopportabile e
+fai veramente fatica a respirare. Il fastidio alle braccia e alle gambe è ora
+diventato un vero e proprio tormento e non puoi resistere per più di un minuto
+senza grattarti. La stanza è piena di scaffalature e di libri ben tenuti e
+conservati.
+~
+20 8 0
+D0
+Vedi l'ala centrale della biblioteca
+~
+~
+0 -1 2056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2058
+L'ala ovest della biblioteca~
+Sei nell'ala ovest della biblioteca. Appena oltrepassi il punto di divisione
+fra l'ala centrale e l'ala ovest della biblioteca la temperatura scende di
+una trentina di gradi, provocandoti della nausea e dei crampi allo stomaco.
+Una volta abituato alla nuova situazione climatica ti rendi conto che questo
+freddo non è normale, proprio come non lo era il caldo eccessivo di prima:
+ora però avverti una vera e propria senzazione di pericolo mortale.
+Chiaramente anche qui i padroni assoluti dell'arredamento sono scaffali e libri.
+~
+20 8 0
+D1
+Vedi l'ala centrale della biblioteca
+~
+~
+0 -1 2056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2059
+Il bivio~
+Sei arrivato a un bivio: a nord c'è una porta di ferro, mentre a sud continua il
+corridoio.
+~
+20 8 0
+D0
+Vedi una porta di ferro
+~
+porta~
+1 -1 2060 3
+D1
+Vedi un corridoio bene illuminato
+~
+~
+0 -1 2081 0
+D2
+Vedi un corridoio
+~
+~
+0 -1 2061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2060
+La sala riunioni~
+Sei all'interno di una grande sala. Le pareti e il soffitto sono di pietra,
+mentre il pavimento è di marmo pregiato. Un enorme tavolo quadrato è al
+centro della stanza, ricoperto di carte geografiche e di strumenti di
+misurazione ormai logorati dal tempo. Anche le pareti sono ricoperte di
+carte geografiche e questo ti fa immaginare di essere in una sala adibita
+a ospitare riunioni di stampo militare.
+~
+20 8 0
+D2
+Vedi una porta di ferro
+~
+porta~
+1 -1 2059 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2061
+La fine del corridoio~
+Sei alla fine del corridoio in pietra, il quale termina sfociando a ovest
+in una piccola stanza.
+~
+20 8 0
+D0
+Vedi un bivio
+~
+~
+0 -1 2059 0
+D3
+Vedi una piccola stanza
+~
+~
+0 -1 2062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2062
+L'anticamera~
+Sei in una piccola stanza riccamente arredata con quadri e arazzi.
+Però nonostante questo ti senti teso e un alone di paura mista a terrore
+ti assale e aumenta in proporzione alla tua vicinanza dalle porte sulla
+parete nord e sulla parete ovest della stanza. Invece avvicinandoti al
+corridoio a est questa senzazione tende a scomparire.
+~
+20 8 0
+D0
+Vedi una porta di ferro
+~
+porta~
+2 2020 2063 15
+D1
+Vedi il corridoio
+~
+~
+0 -1 2061 0
+D3
+Vedi una porta di ferro
+~
+porta~
+2 2021 2064 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2063
+La stanza nera~
+Sei in una stanza enorme: sembra grande quanto una arena per gladiatori.
+L'arredamento è piuttosto strano ed è costituito in gran parte da teschi,
+tombe e altri oggetti molto lugubri. Però la cosa più insolita e
+preoccupante è l'aspetto dei muri: qusti sembrano percorsi al loro interno
+da gigantesche vene e in qualche punto dalle crepe che si sono formate
+sgorga uno strano liquido nero.
+~
+20 8 0
+D2
+Vedi una porta di ferro
+~
+porta~
+2 2020 2062 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2064
+La stanza rossa~
+Sei in una stanza enorme. Praticamente dovunque tu posi lo sguardo puoi
+vedere dei brandelli di carne maciullata. Schizzi di sangue ricoprono pareti
+e pavimento e se osservi bene puoi osservare una delle più complete
+collezioni di attrezzi da macello che ti sia mai capitato di vedere.
+~
+20 8 0
+D1
+Vedi una porta di ferro
+~
+porta~
+2 2021 2062 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2065
+Il tunnel~
+Sei in un tunnel scavato nella roccia. Il tunnel prosegue a sud mentre a
+nord c'è una porta.
+~
+20 8 0
+D0
+Vedi una porta di ferro
+~
+porta~
+1 -1 2042 3
+D2
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2066
+Il tunnel~
+Sei in un tunnel scavato nella roccia. Il tunnel prosegue a nord mentre
+a sud c'è un bivio.
+~
+20 8 0
+D0
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2065 0
+D2
+Vedi un bivio
+~
+~
+0 -1 2067 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2067
+Il bivio~
+Il tunnel si divide in due tronconi: uno a ovest e uno a sud.
+~
+20 8 0
+D0
+~
+~
+0 0 2066 0
+D2
+Vedi il proseguimento sud del tunnel
+~
+~
+0 -1 2073 0
+D3
+Vedi il proseguimento ovest del tunnel
+~
+~
+0 -1 2068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2068
+Il ramo ovest del tunnel~
+Sei nel ramo ovest del tunnel. Qui sembra che la temperatura sia calata
+di qualche grado e un leggero venticello ti fa venire i brividi.
+~
+20 8 0
+D1
+Vedi un bivio
+~
+~
+0 -1 2067 0
+D3
+Vedi il proseguimento del ramo ovest del tunnel
+~
+~
+0 -1 2069 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2069
+Il ramo ovest del tunnel~
+Sei nel ramo ovest del tunnel. La temperatura continua a calare e ormai
+devi sforzarti per non tremare di freddo. Il venticello è diventato una
+corrente gelida e fastidiosa.
+~
+20 8 0
+D1
+Vedi un tunnel
+~
+~
+0 -1 2068 0
+D3
+Vedi un bivio
+~
+~
+0 -1 2070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2070
+Il bivio~
+Sei a un bivio. Il tunnel gira e prosegue a nord e a sud. In questo punto
+il freddo è incredibile; infatti da diversi punti della roccia giungono
+correnti fredde ad alta velocità e questo fa sì che la temperatura si
+aggiri intorno ai venti gradi sotto lo zero.
+~
+20 8 0
+D0
+Vedi la fine nord del tunnel
+~
+~
+0 -1 2071 0
+D1
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2069 0
+D2
+Vedi la fine sud del tunnel
+~
+~
+0 -1 2072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2071
+La fine nord del tunnel~
+Sei nell'ultimo tratto del tunnel. Qui una grossa frana interrompe bruscamente
+il passaggio impedendoti di andare oltre.
+~
+20 8 0
+D2
+Vedi un bivio
+~
+~
+0 -1 2070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2072
+La fine sud del tunnel~
+Sei nell'ultimo tratto sud del tunnel. Una decina di attrezzi da scavo
+abbandonati per terra ti fa pensare che i lavori di ampiamento del tunnel
+si siano interrotti proprio in questo punto. Non sai spiegarti perchè ma
+la tua sensazione è che l'interruzione dei lavori sia stata determinata
+da qualche cosa di malvagio; quella stessa cosa che adesso ti fa avvertire
+una forte sensazione di pericolo e di paura.
+~
+20 8 0
+D0
+Vedi un bivio
+~
+~
+0 -1 2070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2073
+Il ramo sud del tunnel~
+Sei nel ramo sud del tunnel. Quest'ultimo compie una curva a 90 gradi e
+prosegue verso est; a nord c'è un bivio.
+~
+20 8 0
+D0
+Vedi un bivio
+~
+~
+0 -1 2067 0
+D1
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2074
+Il ramo sud del tunnel~
+Sei nel ramo sud del tunnel. In questo punto una piccola frana ha ostruito
+metà del passaggio e per passare devi arrampicarti sopra i resti del crollo.
+Ogni tanto denti cadere dall'alto qualche sasso, il che ti fa supporre che
+questo non sia il posto più sicuro del mondo per fermarsi a riposarsi.
+~
+20 8 0
+D1
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2075 0
+D3
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2075
+Il ramo sud del tunnel~
+Sei nel ramo sud del tunnel. In questo punto il tunnel comincia a diventare
+più largo e spazioso. Anche il terreno che prima era pieno zeppo di detriti
+sembre più liscio e pulito.
+~
+20 8 0
+D1
+Vedi la fine del ramo sud del tunnel
+~
+~
+0 -1 2076 0
+D3
+Vedi il proseguimento del ramo sud del tunnel
+~
+~
+0 -1 2074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2076
+La fine del ramo sud del tunnel~
+Sei nel tratto finale del ramo sud del tunnel. Il cunicolo termina con una
+porta a nord.
+~
+20 8 0
+D0
+Vedi una porta di legno
+~
+porta~
+1 -1 2077 3
+D3
+Vedi il proseguimento del tunnel
+~
+~
+0 -1 2075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2077
+La stanza di guardia~
+Sei in una grotta di medie dimensioni. Nella grotta ci sono un paio di tavoli
+rotondi con una decina di sedie. Sul lato est della grotta puoi notare una
+massiccia e grande porta di ferro rinforzata. Sopra la porta dondola una
+insegna di metallo.
+~
+20 8 0
+D1
+Vedi una porta di ferro rinforzata
+~
+porta~
+2 2022 2078 15
+D2
+Vedi una porta di legno
+~
+porta~
+1 -1 2076 3
+E
+insegna metallo
+~
+Sull'insegna c'è inciso: "Tesoreria"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2078
+La seconda stanza di guardia~
+Sei in una grotta di medie dimensioni. Le pareti sono piene di lance, balestre
+e altre varie armi. La stanza ha tre porte di ferro rinforzate.
+~
+20 8 0
+D0
+Vedi una porta di ferro
+~
+porta~
+2 2023 2079 15
+D1
+Vedi una porta di ferro
+~
+porta~
+2 2024 2080 15
+D3
+Vedi una porta di ferro
+~
+porta~
+2 2022 2077 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2079
+La stanza della trappola~
+Sei in una grande grotta. Alle basi delle pareti puoi notare decine di grate
+che sembrano gabbie di animali e alcune di esse sono aperte ... cominci a
+pensare di essere caduto in una trappola.
+~
+20 8 0
+D2
+Vedi una porta di ferro
+~
+porta~
+2 2023 2078 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2080
+La stanza del tesoro~
+Sei in una grotta di medie dimensioni. La grotta è perfettamente illuminata
+ed il pavimento è pieno di sacchi e altri piccoli contenitori.
+~
+20 8 0
+D3
+Vedi una porta di ferro
+~
+porta~
+2 2024 2078 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2081
+Il corridoio~
+Sei in un corridoio di mattoni. L'ottima illuminazione è garantita da una
+decina di grandissime torce appese in alto alle pareti. Il corridoio conduce
+a ovest a un bivio e a est a una porta.
+~
+20 8 0
+D1
+Vedi una porta in ferro battuto
+~
+porta~
+1 -1 2042 3
+D3
+Vedi un bivio
+~
+~
+0 -1 2059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

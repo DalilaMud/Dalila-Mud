@@ -1,0 +1,3351 @@
+#1
+Vetta di Montagna~
+Questo e' il punto piu' alto dei monti in cui ti trovi
+~
+X 2 0
+10 4000 0
+5 0
+#2
+Mare di Daresia~
+Immensa distesa d'acqua salata, non distingui nessuna terra all'orizzonte voltato dalla Daresia
+~
+~ 5 0
+8 0 1
+7 0
+#3
+Muro Nord-Sud~
+Un alto muro di circa 20metri
+~
+| 2 0
+100 20 0
+1 0
+#4
+Muro Est-Ovest~
+Un alto muro di circa 20metri
+~
+- 2 0
+100 20 0
+1 0
+#5
+Ponte~
+Un ampio ponte sul fiume
+~
+= 6 0
+4 0 1
+1 1048576
+#6
+Area~
+Sei all'entrata di un'area
+~
+@ 6 0
+4 0 0
+1 0
+#7
+Torre d'angolo~
+Alta circa 35metri sovrasta la citta'
+~
+O 2 0
+200 35 0
+1 0
+#8
+Vette innevate~
+Sei coperto di neve fino alla vita e cammini a stento nella bufera mentre rimpiangi di essere 
+salito fin quassu'
+~
+^ 8 0
+60 4000 1
+7 0
+#9
+Abitazioni~
+nodesc.
+~
+G 6 0
+3 0 1
+1 0
+#10
+Largo sentiero battuto~
+Sei su un chiaro sentiero frequentato, largo circa un metro.
+~
+: 6 0
+2 0 1
+10 0
+#11
+Area transitabile~
+Sei in un nuovo tipo di regione non finito.
+~
+@ 4 0
+2 0 1
+1 4
+#12
+Strada tra Deira e Lamorka~
+Sei una strada sterrata, larga all'incirca due metri, facilmente transitabile
+~
+: 6 0
+2 0 1
+1 0
+#13
+Strada tra Deira e Cimmura~
+Sei una strada sterrata, larga all'incirca due metri, facilmente transitabile
+~
+: 6 0
+2 0 1
+1 0
+#14
+Strada tra Cimmura e Chyrellos~
+Sei una strada sterrata, larga all'incirca due metri, facilmente transitabile
+~
+: 6 0
+2 0 1
+1 0
+#15
+Strada da Lamorka a Chyrellos ~
+Sei una strada sterrata, larga all'incirca due metri, facilmente transitabile
+~
+: 6 0
+2 0 1
+1 0
+#16
+Strada tra Cimmura e Jiroch~
+Sei una strada sterrata, larga all'incirca due metri, facilmente transitabile
+~
+: 6 0
+2 0 1
+1 0
+#17
+Strada verso Roma~
+Sei una strada sterrata, larga all'incirca due metri, facilmente transitabile
+~
+: 6 0
+3 0 1
+1 0
+#18
+Mini area~
+Mini area
+~
+a 6 0
+1 0 0
+2 0
+#19
+Castello~
+Sei in un nuovo tipo di regione non finito.
+~
+O 6 0
+1 0 0
+1 0
+#20
+Vette montuose~
+Nothing.
+~
+X 2 0
+2 0 0
+5 0
+#21
+Una macrorisorsa alimentare~
+   Campi coltivati in ogni direzione offrono uno spettacolo piacevole,
+affiancati in maniera regolare da centri produttivi per la creazione dei
+prodotti farinacei.  Nelle vicinanze un lago naturale fornisce un buon supporto
+per la pesca mentre su una zona e' interamente ricoperta da diversi file di
+alberi da frutto .
+~
+R 6 0
+2 0 1
+2 786432
+#26
+Terreno roccioso impraticabile~
+Empty~
+X 2 0
+100 0 0
+5 0
+#27
+Scarpata~
+Empty~
+x 2 0
+80 0 1
+5 0
+#28
+Montagne rocciose~
+empty~
+x 2 0
+80 1000 0
+5 0
+#29
+Colline rocciose~
+empty~
+x 4 0
+20 500 0
+5 0
+#37
+Spalti dell'arena, area Regale~
+Sei in una delle file dell'arena, da qui godi di una ottima veduta assieme alle persone che contano
+~
+o 6 0
+1 0 1
+1 0
+#38
+Nell'arena~
+Sei nel mezzo dell'arena, le persone piu' importanti della citta' o dell'intera Daresia
+ forse ti stanno osservando combattere, fatti valere!
+~
+. 4 0
+1 0 1
+1 131072
+#39
+Spalti dell'arena~
+Sei in una delle file dell'arena, da qui godi di una buona veduta
+~
+o 3 0
+1 0 1
+1 0
+#40
+Colline non passabili~
+Empty~
+x 4 0
+1 800 0
+6 0
+#41
+Borgo esterno di Deira~
+Nothing.
+~
+a 6 0
+1 0 0
+2 0
+#42
+Una macrorisorsa mineraria.~
+Entri in una zona completamente cambiata da quando ci eri passato l'ultima volta, 
+dove si trovava una piccola foresta ora vedi solo piazzali spianati, dovuti allo 
+sfruttamento di alcune grosse miniere di rari metalli quali Oro e Argento, e li 
+che c'era un piccolo stagno ora un vasto lago ricopre la zona.
+Poi noti anche delle grosse gallerie che portano nelle viscere della terra
+dove sicuramente la vena aurifera portata alla luce di recente si espande in
+uno dei giacimenti piu' grandi scoperti nella storia della Daresia.
+~
+R 6 0
+2 0 1
+2 786432
+#43
+Una macrorisorsa di erbe.~
+Raggiungi questo luogo e se sei un erborista noterai di certo come qui riescono a
+crescere le piu' svariate erbe, anche le piu' rare, anche le piu' difficili, in 
+quanto bisognose di un abita particolare per vivere, sono qui che crescono l'una 
+accanto all'altra, tutto merito, si pensa, e' ancora sotto studio da parte di 
+esperti, di una sorgente sotterranea che affiora in questa zona con un acqua 
+ricchissima di sostanze essenziali per la vita di queste erbe.
+~
+R 6 0
+2 0 1
+2 786432
+#44
+Una macrorisorsa di pietre preziose.~
+Mentre cammini inciampi su una roccia che colpita dal tuo stivale emette uno strano
+suono come se fosse cava, infatti prendendola in mano ti accorgi che il suo peso e'
+molto inferiore a quello che dovrebbe essere se fosse piena, ti sistemi per benino e
+subito prendi la tua picca dallo zaino e giu' un colpo secco la apri a meta', non
+credi hai tuoi occhi e' una geode di rara bellezza al suo interno vedi brillare dei
+grossi cristalli color rosso scuro che subito ti fanno pensare alla leggendaria
+miniera di Rubini in cui si narra in piu' di un libro di storia antica della Daresia.
+Cerchi di trovare subito la tua lente per esaminare bene la roccia e dopo un
+accurata osservazione ti accorgi, si che il Rubino e' quello che spicca, ma che 
+fra un cristallo e l'altro di Rubino ci sono delle microgemme di altri rarissimi
+minerali quali Smeraldi, Topazi, Zaffiri e soprattutto Diamanti.
+~
+R 6 0
+2 0 1
+2 786432
+#45
+Una macrorisorsa metallurgica.~
+Sei in un nuovo tipo di regione non finito.
+La regione montuosa in cui ti sei inoltrato ti porta in questo luogo dove scorgi dei
+grossi centri di lavorazione del metallo, molti uomini lavorano per portare a termine
+la catena di produzione, da un'immensa fornace vedi una grossa colata di
+metallo fuso, chiedi in giro che metallo sia, e ti viene risposto che probabilmente
+e' Rame, non si e' ancora sicuri perche il punto di fusione del rame e dello zinco e'
+molto simile quindi solo dopo averlo raffreddato e solo dopo aver eseguito vari
+test si riesce a capire di che metallo si tratta.
+~
+R 6 0
+2 0 1
+2 786432
+#46
+Un santuario~
+Nothing.
+~
+S 6 0
+1 0 1
+3 786432
+#47
+Una macrorisorsa boschiva~
+   Molti falegnami sono intenti a trasportare i tronchi appena ricavati da
+alcuni degli alberi della immensa foresta che circonda l'area.  In lontananza
+si intravedono delle costruzioni in cui avvengono i processi di lavorazione
+della legna.    
+~
+R 6 0
+1 0 1
+3 786432
+#48
+Una macrorisorsa di selvaggina~
+   Innumerevoli pascoli si estendono a perdita d'occhio per le colline e le
+foreste della regione.  Diversi uomini sono intenti a badare alle varie bestie
+tenute in cattivita' mentre molti cacciatori stanno tornando con un ottimo
+bottino di caccia.    
+~
+R 6 0
+1 0 1
+2 786432
+#50
+Una locanda~
+   SEi sul tetto di una piccola locanda.    
+~
+L 6 0
+1 0 1
+2 0
+#90
+Santuario~
+Nessuna per ora.
+~
+S 6 0
+1 0 1
+0 524444
+#100
+Palude-aquitrino di Magras (Sendaria)~
+Terra, fango, foglie, sterpi, sanguisughe....si alternano in questa zona in mezzo ad ampi alberi
+i cui rami riducono la visibilita' rendendo la palude ancora piu' tetra.
+~
+u 3 0
+5 400 1
+2 0
+#101
+Altopiano di Cryion (Sendaria)~
+Il clima, nonstante la lontananza dalle regioni aride, e' qui temperato arido, a causa della
+mancanza totale di vento e degli scarsi temporali, deviati dal Sistema collinoso di Dridan.~
+a 8 0
+3 0 1
+2 0
+#102
+Il Pianoro di Deira (Aldaria) ~
+La citta' di Deira, sovrana nelle terre conosciute, si trova nel mezzo di codesto brullo pianoro,
+poco fertile a causa della massiccia presenza di rocce nella sua composizione e quindi quasi 
+privo di vegetazione, il clima qui e' temperato con rari momenti di gelo o di forte caldo.
+~
+I 8 0
+3 800 1
+2 0
+#103
+La Valle dell'Aldur (aldaria) ~
+Questa zona pianeggiante accompagna il fiume Aldur per tutta la sua prima meta' di corsa verso 
+il Mare Orientale, il terreno e' ricoperto da floridi cespugli e piante selvatiche accompagnate 
+da un soffice manto d'erba verde ricco di fiori.
+~
+v 8 0
+3 600 1
+2 0
+#104
+La Valle dell'Argath (aldaria) ~
+Il terreno qui sale costantemente mano a mano che si avanza verso la foce del fiume Argath. 
+Tutta la valle e' ricoperta da pini e abeti, piu' fitti verso l'inizio della valle, il terreno 
+e' riccamente coperto dal sottobosco e aghi degli alberi mentre il vicino fiume rende l'ambiente
+quanto mai piacevole e ricco di animali.
+~
+v 3 0
+3 1100 1
+2 0
+#105
+Pianoro dell'Anduin (Sendaria)~
+Poche zone sono comparabili in bellezza con questo pianoro, circostante il bellissimo lago 
+Argento. Piccoli sedimenti roccioso sono sparsi per terra, quasi a simboleggiare quel grigio 
+chiaro riflesso dal lago. L'erba in questa zona trova uno spazio alquanto limitato tra le
+vaste zone ricoperte da ogni tipo di fiore da montagna. Avvicinandosi alle colline sovrastanti
+aumenta la presenza di alti pini.
+
+~
+p 8 0
+3 1500 1
+2 0
+#106
+La Vallata di Lamorka (sendaria)~
+Umida pianura verdeggiante con sparsi cespugli, il vento porta qui le calde arie provenienti dal Mare d'Oriente rendendo la zona molto fertile e utile per le coltivazioni Lamorkiane.
+~
+p 8 0
+3 200 1
+2 0
+#107
+Spiaggia con sabbia fine~
+Le onde battono costanti sulla dolce sabbia mentre un gruppo di gabbiani vola alto 
+all'orizzonte, l'acqua sulla costa e' fredda ma sopportabile.
+~
+b 4 0
+3 5 1
+2 0
+#108
+La valle di Dacrud (Daconia)~
+Fresche terre in leggera pendenza ricoperte da zone boscose ricche di larici. Risalendo il corso
+del fiume Dacrud il terreno diventa sempre meno ricco di vegetazione fino ad essere coperto solo
+da un leggero manto erboso verso la foce. La regione e' ben riparata dalle correnti delle 
+regioni vicine, lasciando cosi' spazio ad un clima piu' caldo rispetto persino alla fertile 
+Aldaria, nonostante la lontananza dalle calde regioni Settentrionali. Forti piogge scuotono 
+pero' la zona.
+~
+v 3 0
+3 600 1
+2 0
+#109
+Brughiere tra Daconia e Sendaria~
+Forti venti freddi provenienti da sud-ovest vengono ad esaurirsi proprio in questo punto,
+rendendo difficile lo sviluppo di molte forme vegetali, tutto cio' che resiste al vento e al
+terreno scosceso e poco fertile e' solo qualche rara pianta grassa e sterpe.
+~
+p 8 0
+3 300 1
+2 0
+#110
+Il Delta del Dakrud (Daconia)~
+Terreno umido e fertilissimo con temperature quasi Cysnegane in certi mesi grazie alle 
+correnti calde del Mar Orientale.
+~
+; 3 0
+3 30 1
+2 0
+#111
+Rocce a dirupo sul mare~
+nodesc.~
+x 8 0
+5 50 1
+2 0
+#112
+Pianoro di Irdan(Nyissa)~
+Terreno spoglio a tratti erboso intervallato da sterpi e piante selvatiche, coperto di neve
+nei mesi piu' freddi dell'anno. Venti fortissimi provenienti da sud rendono quasi inesistente la
+presenza animale nella zona.
+~
+p 8 0
+3 70 1
+2 0
+#113
+Valle del Nedrane (Tolnedra)~
+La temperatura mite e le frequenti piogge rendono la flora rigogliosa: stupendi abeti e larici
+regnano per tutta la valle fino alle pendici del monte Nidra, punto d'incontro tra khalist 
+Merdionali e Occidentali.
+~
+v 3 0
+3 600 1
+2 0
+#114
+Valle del fiume Kerofonte (Tolnedra)~
+Corta erba verde chiara ricopre le sponde del gelido fiume,
+mentre le chiome stentate di piccoli pini sovrastano i molti aghi marroncini sparsi
+al suolo. Le temperature vanno rapidamente calando man mano che si avanza verso i monti Khalist.
+~
+v 3 0
+3 600 1
+2 0
+#115
+Foresta di Trinidad (Tolnedra)~
+Alberi dalle folte chiome ma simili ad abeti coprono un verdissimo sottobosco attraversato da
+ruscelli, cervi e scoiattoli; favoriti dall'aria fresca e dal caldo sole coperto dalle frasche. 
+~
+F 3 0
+3 400 1
+3 0
+#116
+Pianoro nella Tolnedra Meridionale ~
+Scoscese regioni erbose ricche di piante selvatiche e fiori alternate da chiazze di olmi.
+~
+p 8 0
+3 200 1
+2 0
+#117
+Terre brulle nella Tolnedra Settentrionale~
+Terreno coperto da Pini marittimi verso la costa e distese erbose con clima temperato con 
+temperature piuttosto elevate d'estate a causa delle correnti calde provenienti da nord.
+~
+p 8 0
+3 300 1
+2 0
+#118
+Palude della morte (Nyissa)~
+Gelida zona paludosa caratterizzata dalla presenza di neve, ghiaccio e, soprattutto, folti
+manti nebbiosi che hanno portato la gente di Nyissa a dare l'attuale tetro nome alla  palude.
+~
+u 3 0
+7 200 1
+2 0
+#119
+Ampie savane ad erba secca e giallastra in Arendia~
+nodesc.
+~
+$ 8 0
+3 300 1
+2 0
+#120
+Altopiano di Turak~
+nodesc.
+~
+a 8 0
+3 1200 1
+2 0
+#121
+Spoglio, secco Pianoro di Dansir (Drasnia)~
+nodesc.~
+p 8 0
+3 350 1
+2 0
+#122
+Il Grande Deserto di Polvere~
+nodesc.
+~
+. 4 0
+4 200 1
+2 0
+#123
+Savane Cysneghiane~
+Scarsi alberi sparsi con erba verde solo nei mesi piovosi dell'anno.
+~
+$ 8 0
+3 220 1
+2 0
+#124
+La gola dello Cthol~
+nodesc.
+~
+g 8 0
+4 -100 1
+2 0
+#125
+Altopiano di Krift~
+Vasta distesa di origine glaciale, ne sono un palese segno le innumerevoli rocce residue tra le
+terre brulle della zona.
+~
+a 8 0
+4 700 1
+2 0
+#126
+Altopiano di Astrart~
+Il terreno e' molto sconnesso e scivoloso; pietra e terra sono umide, povere di vegetazione.
+~
+a 8 0
+3 1100 1
+2 0
+#200
+Ripide Colline Aldariane e Sendariane (Aldaria-Sendaria) ~
+Pini sparsi e terreno scosceso erboso .
+~
+c 4 0
+4 1000 1
+4 0
+#201
+Promontorio dell'Asturia (Aldaria)~
+Solo piante selvatiche e grasse ricoprono il terreno a tratti tendente	all'arido. Dalla cima
+di questo promontorio si vede persino il Mare Occidentale e buona parte della sconfinata vallata
+dell'Aldur.
+~
+C 4 0
+6 2200 1
+4 0
+#202
+Colline dell'Asturia (Aldaria)~
+Franose zone di pietre sgretolabili, camminare in questa zona diventa ogni passo piu' pericoloso.
+~
+c 4 0
+4 1500 1
+4 0
+#203
+Collina di Agrav (Aldaria)~
+Zona prevalentemente rocciosa e piuttosto ripida coperta per lo piu' da cespugli e piante 
+selvatiche, con qualche macchia boschiva.
+~
+c 4 0
+4 1400 1
+4 0
+#204
+Promontorio dell'Agrav (Aldaria)~
+Totalmente ricoperto da rocce vulcaniche, la zona e' ricca di piccoli frammenti di pietre, 
+reduci da una delle frequenti frane della zona. Questo promontorio simile ad un cuneo divide 
+la valle dell'Aldur dalla vallata dell'Argath.
+~
+C 4 0
+6 1900 1
+4 0
+#205
+Ascesa verso le Colline dell'Argentario (sendaria)~
+Il terreno diventa qui roccioso, a tratti friabile, ricco di piante minori ma quasi privo di
+alberi, cosi' da avere da lontano un aspetto argentato.
+~
+c 4 0
+4 1500 1
+4 0
+#206
+Colline dell'Argentario(Sendaria)~
+Il terreno diventa qui ancora piu' ripido, coperto interamente da rocce grigie
+~
+C 4 0
+6 2200 1
+4 0
+#207
+Sistema collinoso di Dridan (Sendaria) ~
+Riccamente ricoperto di alberi, queste colline separano Sendaria e Drasnia, offrono tra l'altro
+un'ottima protezione dai venti freddi provenienti da sud-ovest. Il terreno appare fresco e fertile.
+~
+C 4 0
+4 1300 1
+4 0
+#208
+Colline della Daconia~
+Terreno regolarmente discendente verso la valle di Dacrud coperto di abeti nella parte meno 
+elevata e di rocce friabili nelle zone piu' ripide e in genere elevate.
+~
+C 4 0
+6 1600 1
+4 0
+#209
+Promontorio di Zedar (Nyissa)~
+Terreno piuttosto scosceso con cespugli da clima continentale e boschetti di cedri.
+~
+C 4 0
+6 1200 1
+4 0
+#210
+Ripida zona discendente dai Monti Khalist~
+Pochi isolati pini intervallati da rocce e tratti erbosi, clima freddo e piovoso.
+~
+c 4 0
+4 1300 1
+4 0
+#211
+Zona discendente dai Monti Khalist verso la Tolnedra Settentrionale~
+Ricoperta per lo piu' da folti pini con un clima temperato tendente al freddo.
+~
+c 4 0
+4 1300 1
+4 0
+#212
+Una Radura (Tolnedra)~
+Vasta distesa erbosa, priva di ogni vegetazione a parte qualche rara pianta selvatica e muschio
+~
+p 4 0
+3 1000 1
+4 0
+#213
+Colline di Marak (Arendia)~
+nodesc.
+~
+c 4 0
+4 900 1
+4 0
+#214
+Colline discendenti dai monti Camaar~
+nodesc.
+~
+c 4 0
+4 1000 1
+4 0
+#215
+Colline discendenti dai monti Agraba~
+nodesc.
+~
+c 4 0
+4 800 1
+4 0
+#216
+Promontorio di Caergoth~
+nodesc.
+~
+C 2 0
+6 900 1
+4 0
+#217
+Terreno friabile discendente nel Canyon~
+nodesc.
+~
+c 4 0
+4 0 1
+4 0
+#218
+Grandi colline di Obros~
+nodesc.
+~
+C 4 0
+6 1500 1
+4 0
+#219
+Alte colline di Nardan~
+nodesc.
+~
+C 4 0
+6 1600 1
+4 0
+#220
+Promontorio di Cimmos~
+nodesc.
+~
+C 4 0
+6 1400 1
+4 0
+#221
+Vallata scoscesa di Erdanos ~
+nodesc.
+~
+v 3 0
+4 1000 1
+4 0
+#222
+Colline di Sdurnan (Sendaria)~
+nodesc.
+~
+c 4 0
+4 700 1
+4 0
+#223
+Colline di Dornendil~
+Sei sulla parte bassa del sistema collinoso situato nel centro del pianoro di Deira
+~
+c 4 0
+4 0 1
+4 0
+#224
+Colline di Dornendil, parte alta~
+Sei nel sistema collinoso che circonda Deira e il pianoro, da qui riesci quasi a vedere tutta l'Aldaria nei giorni di bel tempo.
+~
+C 4 0
+6 0 1
+4 0
+#225
+Stradina collinosa nelle colline di Dornendil~
+Sei in un nuovo tipo di regione non finito.
+~
+: 4 0
+3 0 1
+4 0
+#300
+Massiccio montuoso di Agraba, parte inferiore.~
+Terreno molto ripido con scarsa vegetazione tra le fredde rocce
+~
+m 2 0
+9 2400 1
+5 0
+#301
+Massiccio montuoso di Agraba, parte superiore.~
+Montagne rocciose antichissime di puro granito, temperatura gelata
+~
+M 2 0
+15 3800 1
+5 0
+#302
+Catena Monti Khalist, parte inferiore~
+Rocce umide coperte a chiazze da vegetazione alpina
+~
+m 2 0
+9 2500 1
+5 0
+#303
+Catena Monti Khalist, parte superiore~
+Montagne nevose ripidissime di alta quota e temperatura gelida, sopportabile solo nei Khalist 
+occidentali.
+~
+M 2 0
+15 4000 1
+5 0
+#304
+Monti Hordil, parte inferiore~
+Ripide rocce spesso bagnate dalla piogga, altamente scivolose.
+~
+m 2 0
+8 2300 1
+5 0
+#305
+Monti Hordil, parte superiore~
+Tortuosissime montagne di terreno sgretolabile e clima di alta quota.
+~
+M 2 0
+14 3700 1
+5 0
+#306
+Monti Mordor, parte inferiore~
+nodesc.
+~
+m 2 0
+9 2100 1
+5 0
+#307
+Monti Mordor, parte superiore~
+nodesc. 
+~
+M 2 0
+16 3200 1
+5 0
+#308
+Catena montuosa di Camaar, parte inferiore~
+nodesc.
+~
+m 2 0
+10 2500 1
+5 0
+#309
+Catena montuosa di Camaar, parte superiore~
+Alte ed aride cime montuose spazzate dal vento, fanno da sfondo ad un paesaggio desolante
+~
+M 2 0
+16 4500 1
+5 0
+#400
+Foresta di Hoan-Dor (Aldaria)~
+Strani alberi simili a castagni stendono i loro rami in cielo fino ad oscurare
+parte del sole, molte foglie e gusci di castagne sono frequentemente
+attraversati da piccoli animali boschivi favoriti dal clima umido-temperato.
+~
+F 3 0
+3 800 1
+3 0
+#401
+Foresta di Lanowar (Aldaria)~
+Bellissima foresta di enormi querce ricca di cespugli e piante selvatiche e una vivida 
+fauna.
+~
+f 3 0
+3 800 1
+3 0
+#402
+Foresta di Magras (Sendaria)~
+Densa foresta paludosa ricca di sterpi, umida e ombrosa.
+~
+f 3 0
+4 600 1
+3 0
+#403
+Gola di accesso alla Valle dell'Anduin(Sendaria)~
+foreste molto fitte 
+~
+F 3 0
+5 1300 1
+3 0
+#404
+Foresta di Sandir (Sendaria)~
+Terreno coperto da larghi abeti e pioppi
+~
+f 3 0
+3 200 1
+3 0
+#405
+Foresta di Oros (Sendaria)~
+Fresca Foresta ombrosa di betulle vicino al villaggio di Ofingia, in una delle zone piu'
+isolate di Daresia.
+~
+f 3 0
+3 1100 1
+3 0
+#406
+Foresta di Scribb (Aldaria)~
+Foresta di altissimi alberi secolari che non lasciano trapelare luce
+~
+F 3 0
+4 500 1
+3 0
+#407
+Salici piangenti vicino al lago (Daconia)~
+Passare in questa foresta e' piuttosto faticoso a causa della notevole densita' degli alberi,
+l'ambiente circostante e' molto umido mentre per terra il terreno e' spugnoso a causa della 
+vicina presenza del lago Crysamilis.
+~
+f 3 0
+3 400 1
+3 0
+#408
+Foresta di Vordue (Tolnedra)~
+Su un terreno per lo piu' pianeggiante si trovano foltissime querce, ma soprattutto le sequoie
+piu' grandi delle terre conosciute, alte fino a 60metri con un diametro di anche 15metri 
+~
+F 3 0
+5 300 1
+3 0
+#409
+Rigogliosissima foresta tropicale di Atun (giungla)~
+nodesc.
+~
+T 3 0
+5 250 1
+3 0
+#410
+Giungla di Cysna~
+nodesc.
+~
+T 3 0
+6 200 1
+3 0
+#411
+Foresta di Wayreth~
+nodesc.
+~
+F 3 0
+9 200 1
+3 0
+#412
+Foresta di Kyrm~
+nodesc.
+~
+f 3 0
+4 300 1
+3 0
+#500
+Fiume Aldur (Aldaria, Sendaria)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#501
+Fiume Argath (Aldaria)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#502
+Fiume Anduin (Sendaria)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#503
+lago sotterraneo Argento (Sendaria)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#504
+Fiume Dacrud (Daconia)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#505
+Lago Crysamilis (Daconia)~
+Empty~
+~ 7 0
+10 1 1
+7 0
+#506
+Fiume Nedrane (Tolnedra)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#507
+Fiume Kerofonte (Tolnedra)~
+Empty~
+s 7 0
+50 1 1
+7 0
+#508
+Fiume Torbor (Tolnedra)	~
+Empty~
+s 7 0
+50 1 1
+7 0
+#509
+Fiume Cthol~
+nodesc.
+~
+s 7 0
+50 1 1
+7 0
+#510
+Il lago Rheon, privo di emissario~
+nodesc.
+~
+~ 7 0
+50 1 1
+7 0
+#511
+Lago Mistral~
+nodesc.
+~
+~ 7 0
+50 1 1
+7 0
+#512
+Fiume Mishra~
+nodesc.
+~
+s 7 0
+50 1 1
+7 0
+#513
+Fiume Arend~
+nodesc.
+~
+s 7 0
+50 1 1
+7 0
+#514
+Fiume Seldon~
+nodesc.
+~
+s 7 0
+50 1 1
+7 0
+#515
+Lago di Haon-Dor~
+Un piccolo laghetto contornato da alberi secolari riluccica di verde smeraldo
+e blu zaffiro. Una quiete circoda questo piccolo paradiso terrestre.
+~
+~ 7 0
+1 0 1
+7 0
+#516
+Il Fiume Dard~
+Nothing.
+~
+s 7 0
+8 0 1
+7 0
+#600
+Pianura di HighCastle~
+Empty~
+p 8 1
+1 500 1
+2 0
+#601
+Collinette di Gildel~
+Empty~
+c 4 0
+2 800 1
+6 1048576
+#602
+Il fiume Gildanren~
+Empty~
+s 7 0
+4 500 1
+7 1048576
+#603
+Bosco di Doen~
+Empty~
+f 3 0
+2 500 1
+3 1048576
+#604
+&7Strada verso il Monastero di Fizban&0~
+Nothing.
+~
+: 6 0
+1 0 1
+1 0
+#605
+Pianura di Bas-Tyra~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#606
+Colline di Brandel~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#607
+Il fiume Tyran~
+Empty~
+s 7 0
+4 500 1
+7 1048576
+#608
+Bosco di Basir~
+Empty~
+f 3 0
+2 600 1
+3 1048576
+#609
+Strada verso il Castello di Bas-Tyra~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#610
+Montagne Tornan~
+undefined
+~
+m 2 0
+3 1200 1
+5 1048576
+#611
+Vallata del Tyran~
+Empty~
+v 8 0
+1 800 1
+2 1048576
+#612
+Pianura di Carthmoor~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#613
+Bosco di Carnan~
+Empty~
+f 3 0
+2 600 1
+3 1048576
+#614
+Il fiume Krynn~
+Empty~
+s 7 0
+4 500 1
+7 1048576
+#615
+Colline di Gramdel~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#616
+Strada verso il Castello di Carthmoor~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#617
+Colline Khalow~
+undefined
+~
+C 4 0
+5 1200 1
+4 1048576
+#618
+Vallata del fiume Krynn~
+Empty~
+v 8 0
+1 800 1
+2 1048576
+#619
+Il Lago Karnynn~
+undefined
+~
+~ 7 0
+1 800 1
+7 1048576
+#620
+Pianura di Agriland~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#621
+Bosco di Andor~
+Empty~
+f 3 0
+3 600 1
+3 1048576
+#622
+Il fiume Levian~
+Empty~
+s 7 0
+4 500 1
+7 1048576
+#623
+Colline di Balin~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#624
+Strada verso il Castello dell'Armonia~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#625
+Il Lago Leviatan~
+Empty~
+~ 7 0
+1 800 1
+7 1048576
+#626
+Pianura di Arger~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#627
+Bosco di Elvandar~
+Empty~
+f 3 0
+2 600 1
+3 1048576
+#628
+Il fiume Argon~
+Empty~
+s 7 0
+4 500 1
+7 1048576
+#629
+Colline di Brindad~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#630
+Strada verso il Castello dei Divini~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#631
+Il Lago Xenen~
+Empty~
+~ 7 0
+1 800 1
+7 1048576
+#632
+Valle dell'Argon~
+Empty~
+v 8 0
+1 400 1
+2 1048576
+#633
+Bosco di Elvandar, parte fitta~
+Empty~
+F 3 0
+2 600 1
+3 1048576
+#634
+Appendice dei monti Hordil~
+Empty~
+m 2 0
+6 800 1
+6 1048576
+#635
+Pianura di Darkland~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#636
+Boscaglie di Dendern~
+Empty~
+f 3 0
+2 600 1
+3 1048576
+#637
+Colline brulle~
+Sei in un nuovo tipo di regione non finito.
+~
+N 4 0
+1 0 1
+2 1048576
+#638
+Tortuose Colline di Bernal~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#639
+Strada verso il Castello di Sethanon~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#640
+Un nuovo tipo di regione non finito.~
+Sei in un nuovo tipo di regione non finito.
+~
+N 4 0
+1 0 1
+2 1048576
+#641
+Scoscesa Valle di Brundal~
+Empty~
+v 8 0
+1 400 1
+2 1048576
+#642
+Pianura di Sarland~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#643
+Bosco di Sarfel~
+Empty~
+f 3 0
+2 400 1
+3 1048576
+#644
+Alte colline di Sarth~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#645
+Strada verso il Castello di Sarth~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#646
+Scoscesa Valle del fiume Sirion~
+Empty~
+v 8 0
+1 400 1
+2 1048576
+#647
+Il fiume Sirion~
+Empty~
+s 7 0
+1 300 1
+7 1048576
+#648
+Il Lago Soren~
+Empty~
+~ 7 0
+1 300 1
+7 1048576
+#649
+Piano di Corwin~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#650
+Boschi di Gundam~
+Empty~
+f 3 0
+2 400 1
+3 1048576
+#651
+Colline di Tith~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#652
+Strada verso il Castello di Armengar~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#653
+Verde vallata del Gwynn~
+Empty~
+v 8 0
+1 400 1
+2 1048576
+#654
+Il fiume Gwynn~
+Empty~
+s 7 0
+1 300 1
+7 1048576
+#655
+Il Lago Gwyain~
+Empty~
+~ 7 0
+1 300 1
+7 1048576
+#656
+Il fiume Waren~
+Empty~
+s 7 0
+1 300 1
+7 1048576
+#657
+Boschi di Turen~
+Empty~
+f 3 0
+2 400 1
+3 1048576
+#658
+Colline di Isnar~
+Empty~
+c 4 0
+2 700 1
+6 1048576
+#659
+Strada verso il Castello di Gilead~
+Empty~
+: 6 0
+1 0 1
+1 1048576
+#660
+Il Lago Warlake~
+Empty~
+~ 7 0
+1 300 1
+7 1048576
+#661
+Colline di Isnar, parte alta~
+Empty~
+C 4 0
+5 900 1
+6 1048576
+#662
+Il fiume Gundar~
+Empty~
+s 7 0
+1 300 1
+7 1048576
+#663
+Boschi di Feyer~
+Empty~
+f 3 0
+2 400 1
+3 1048576
+#664
+Colline di Sturnil~
+Empty~
+c 4 0
+3 700 1
+6 1048576
+#665
+Colline di Sturnil, parte alta~
+Empty~
+C 4 0
+6 700 1
+6 1048576
+#666
+Il Lago Graundal~
+Empty~
+~ 7 0
+1 300 1
+7 1048576
+#667
+Pianeggiante valle del Bundar~
+Empty~
+v 8 0
+2 400 1
+2 1048576
+#668
+Pianura Briceland~
+Empty~
+p 8 0
+1 400 1
+2 1048576
+#669
+Acquitrino~
+Empty~
+~ 7 0
+60 400 1
+1 131072
+#670
+Passerella instabile~
+nodesc.
+~
+. 6 0
+5 1000 1
+5 131072
+#671
+Portale mistico~
+Empty~
+@ 6 0
+5 700 1
+1 131072
+#672
+Il fiume Dard~
+Empty~
+s 7 0
+1 300 1
+7 0
+#673
+Boschi di Deira~
+Empty~
+f 3 0
+3 400 1
+3 0
+#674
+Colline di Dornendil~
+Empty~
+c 4 0
+5 700 1
+6 0
+#675
+Valle del fiume Dard~
+Empty~
+v 8 0
+3 400 1
+2 0
+#676
+Pianoro di Deira~
+Empty~
+I 8 0
+2 400 1
+2 0
+#677
+Strada verso Deira, la Capitale del Regno d'Aldaria~
+Empty~
+: 6 0
+1 400 1
+2 0
+#678
+Il fiume Cimmor~
+Empty~
+s 7 0
+1 300 1
+7 0
+#679
+Boschi di Crydeel~
+Empty~
+f 3 0
+3 400 1
+3 0
+#680
+Colline di Cimmor~
+Empty~
+c 4 0
+5 700 1
+4 0
+#681
+Strada verso Cimmura, Capitale del Regno di Tolnedra~
+Empty~
+: 6 0
+1 400 1
+2 0
+#682
+Pianoro di Cimmura~
+Empty~
+i 8 0
+2 400 1
+2 0
+#683
+La strada nel Borgo~
+Cammini in mezzo a persone semplici come le case di legno in cui abitano.
+~
+: 6 0
+1 0 1
+10 0
+#684
+Una strada ben tenuta~
+Pulita, ben fatta e ben tenuta. Questa strada collega la via principale che porta alla
+capitale con il sobborgo d Cimmura.
+~
+: 6 0
+1 0 1
+10 0
+#685
+Sobborgo di Cimmura~
+Sobborgo di Cimmura
+~
+s 8 0
+1 0 0
+1 0
+#698
+Sito di costruzione generico~
+Sei in un nuovo tipo di regione non finito.
+~
+X 6 0
+1 0 0
+1 0
+#699
+Capitale~
+Capitale
+~
+A 6 0
+1 0 0
+1 0
+#700
+Foresta di Lamorka~
+Nonostante sia vicino ad una grande citta',
+questa foresta e' incredibilmente fitta e selvaggia.
+~
+F 3 0
+4 100 1
+3 1
+#701
+Pineta~
+Questo spazio alberato offre numerosi sentieri 
+facilmente attraversabili.
+~
+f 3 0
+2 500 1
+3 0
+#702
+Dolce sorgente~
+Empty
+~
+s 7 0
+8 100 1
+6 0
+#703
+Golfo di Lamorka~
+Empty~
+~ 5 0
+15 0 1
+7 0
+#704
+Parete rocciosa~
+Questi tratti montani sono veramenti ardui da attraversare.
+~
+m 2 0
+5 400 1
+5 9
+#705
+Dirupo~
+Empty
+~
+x 2 0
+3 300 0
+5 0
+#706
+Altopiano di Lamorka~
+Una grande pianura si estende sopra questo altopiano.
+~
+a 8 0
+2 500 1
+2 0
+#707
+Strada della Capitale~
+Questa strada lastricata e' stata fatta costruire da Re Otak in persona.
+~
+: 2 0
+1 300 1
+1 0
+#708
+Via del Porto~
+Questa strada collega la citta' al ricco porto sul mare.
+~
+: 2 0
+1 300 1
+1 0
+#709
+Via del Castello~
+Attenzione. Questa e' la strada che porta al castello di Re Otak!!.
+~
+: 2 0
+1 300 1
+1 0
+#710
+Foresta di Chyrellos~
+Nonostante sia vicino ad una grande citta',
+questa foresta e' incredibilmente fitta e selvaggia.
+~
+F 3 0
+4 100 1
+3 1
+#711
+Pianura di Chyrellos~
+Una grande pianura si estende dalla costa verso i terreni interni.
+~
+a 8 0
+2 500 1
+2 0
+#712
+Golfo di Chyrellos~
+Empty~
+~ 5 0
+3 0 1
+6 0
+#713
+Strada verso Chyrellos, la Capitale del Regno di Elenia~
+Nothing.
+~
+: 2 0
+1 300 1
+2 0
+#714
+Colline di Chyrellos~
+Empty~
+c 4 0
+5 700 1
+6 0
+#715
+Palude~
+In alcuni punti l'accqua sfiora le ginocchia, grosse zolle di fango
+rendono difficili i movimenti.
+~
+- 7 0
+15 0 1
+2 0
+#716
+L'arena di Chyrellos~
+Ti trovi nella imponente arena Elena.  Tutto intorno a te vedi campi
+sconfinati, con poca erba, qualche pozza ogni tanto e qualche rado arbusto.  
+Il posto sembra fatto apposta per allenarsi e combattere, e l'aria tutta
+intorno, secca e ferma, sembra aspettare solo l'inizio d'un combattimento.    
+~
+a 8 0
+1 1 1
+2 131072
+#717
+L'arena di Chyrellos~
+Sei nel punto piu' alto dell'arena.  Domini con lo sguardo tutta l'area dove
+avvengono i combattimenti, in lontananza vedi Chyrellos, la stalla di Loris e 
+senti il profumo del mare che viene dal porto.    
+~
+C 4 0
+4 800 1
+2 131072
+#718
+L'arena di Chyrellos~
+Stai salendo leggermente e' pi difficile combattere qui, e pi stancante, vedi
+tutta l'arena, la torre, e la palude in fondo.    
+~
+c 4 0
+3 400 1
+2 131072
+#719
+L'arena di Chyrellos~
+La palude dell' arena, pochissime forme di vita, principalmente insetti, la
+popolano.  Forse qualche stoico pesce solitario vive nella melma che mano mano
+va a sostituirsi all'acqua.  Difficilmente questo posto cambiera' mai.    
+~
+- 3 0
+5 0 1
+2 131072
+#720
+L'arena di Chyrellos~
+Sei nel punto pi verde dell'arena, qui, vicino alla palude, gli alberi, anche
+se con difficolt, crescono.  Gli arbusti sono in perenne lotta fra di loro per
+avere la poca luce che filtra dai fitti alberi.    
+~
+f 3 0
+2 20 1
+2 131072
+#721
+L'Arena di Chyrellos~
+Sei in cima alla torre dell'arena di Chyrellos!
+~
+O 6 0
+20 500 0
+1 131072
+#722
+L'arena di Chyrellos~
+Sei sugli spalti dell'arena
+~
+o 4 0
+1 0 0
+2 131072
+#723
+Lande incenerite~
+Forse un tempo questa era una pianura rigogliosa, ma ora non e' altro che una
+piatta distesa di cenere e polvere.    
+~
+. 1 0
+3 50 1
+2 0
+#724
+Montagne di cenere~
+Queste montagne sono di nuda roccia e cenere, non un filo d'erba nasce sui loro fianchi anneriti
+~
+M 2 0
+8 700 1
+5 0
+#725
+Rigagnolo~
+Questo flebile rivolo d'acqua scorre giu' dalle montagne di cenere
+~
+s 7 0
+8 50 1
+7 0
+#726
+Una vetta delle montagne di cenere~
+Lo sguardo spazio su un'ampia landa desolata e bruciata
+~
+x 2 0
+10 2000 0
+5 0
+#727
+Una pozza d'acqua~
+Questa pozza e' tutto cio' che rimane del rivolo che scende dalle montagne
+cineree.  Non pare avere emissari
+~
+~ 5 0
+5 50 1
+6 0
+#728
+Una parete rocciosa~
+Una parete rocciosa
+~
+/ 8 0
+1 0 0
+2 0
+#729
+Una parete rocciosa~
+Una parete rocciosa
+~
+\ 8 0
+1 0 0
+2 0
+#730
+Una parete rocciosa~
+Una parete rocciosa
+~
+- 8 0
+1 0 0
+2 0
+#731
+Tenda~
+Una tenda
+~
+A 8 0
+1 0 0
+0 0
+#732
+&1&bLava incandescente&0~
+&1&bTi trovi sopra uno spaventoso fiume di lava incandescente!&0
+
+&1&bTi sciogli come neve al sole...&0
+~
+~ 2 0
+1 0 1
+2 2
+#733
+Piana del Terennon~
+Ti trovi sul terreno di lava solidificata ai piedi del Monte Terennon
+~
+. 1 0
+1 200 1
+2 64
+#1006
+Colline morte~
+Alte colline disseminate con una multitudine di cumuli di varie dimensione. Sicuramente
+tombe di un qualche popolo della zona. Nei cieli stormi di avvoltoi perlustrano dall'alto la
+terra circostante in cerca di nuove carogne da divorare.
+~
+C 4 0
+6 400 1
+4 64
+#1016
+Bassa collina~
+Un leggero pendio ti avverte del cambio di altitudine
+~
+c 4 0
+2 100 1
+4 0
+#1023
+Gran Massiccio dell'Er~
+Ripidi pendi e angusti anfratti. Bisogna far attenzione a dove mettere i piedi, le mani e
+e la testa.
+~
+M 2 0
+8 3000 1
+5 0
+#1026
+Picchi dei monti serpente~
+Il punto piu' alto di questa terrificante zona. Occhi aperti e antiveleno sempre pronto.
+~
+M 2 0
+8 2500 1
+5 64
+#1033
+Monti speranza~
+Soleggiati e tranquilli monti. Una rarita' da queste aprti.
+~
+m 2 0
+6 1000 1
+5 4
+#1036
+Monte serpente~
+Aspri monti infestati da serpenti di ogni specie e dimensione.
+~
+m 2 0
+5 1000 1
+5 0
+#1042
+Pianura del freddo~
+Correnti gelide, strani crateri ghiacciati rendono questo luogo una specie di miraggio
+ghiacciato e desolato. Nelle vicinane qualcosa di sospetto di muove mimetizzato nel
+falso e bianco candore del ghiaccio. misto a neve.
+~
+n 8 0
+4 50 1
+2 0
+#1044
+Terreno fangoso~
+La vicina palude ha creato questo luogo al confine tra l'asciutto e il bagnato.
+Uno schifoso conglomerato di fango e insetti
+~
+p 8 0
+4 1 1
+2 0
+#1058
+Palude della disperazione~
+Palude triste e terrificante. Ogni tanto misteriose bolle affiorano in superficie create
+da chissa' quale terrificante creatura.
+Alcuni teschi e resti di animali sono sparsi in cumuli nauseabondi.
+~
+~ 7 0
+10 1 1
+2 320
+#1067
+Torre abbandonata~
+Una torre diroccata nel belmezzo di una palude.
+~
+@ 6 0
+1 1 0
+0 0
+#1076
+Un pozzo~
+Un pozzo
+~
+a 4 0
+1 1 0
+0 0
+#1077
+Una casetta~
+Una casetta immersa nella palude
+~
+a 4 0
+1 1 0
+0 0
+#1093
+Ponte sabbioso~
+L'umidita' circostante e il continuo vento hanno creata un effetto strano su questo,
+apparentemente solido, ponte. La sabbia incollata alla struttura portante crea uno
+strano effetto.
+~
+= 4 0
+2 3 1
+10 384
+#1096
+Ponte in legno~
+Una struttura in legno marcio e poco stabile.
+~
+= 4 0
+2 3 1
+10 256
+#1097
+Ponte viscido~
+Una strana bava verde ricopre la struttura di questo improbabile ponte
+~
+= 3 0
+2 5 1
+10 320
+#1103
+Strada erbosa~
+Una strada celata tra le erbacce si snoda attraverso i monti serpente per finire chissa' dove.
+~
+: 6 0
+1 1 1
+10 0
+#1107
+Strada ciottolata~
+Una strada fatta di strane pietra bianche, alcune rotte... yuck guardando bene non sono
+affatto pietre..ma teschi. Pero' sono ben disposti e il tutto e' ben livellato... non ci si cammina
+poi cosi' male.
+~
+: 6 0
+1 1 1
+10 0
+#1116
+Sabbie mobili~
+In alcuni punti e' possibile passare con molta cautela ma in altri la morte e' sicuramente
+in agguato.
+~
+. 4 0
+10 1 1
+2 356
+#1122
+Picchi dell'Er~
+Invalicabili picchi
+~
+x 8 0
+20 5000 0
+5 0
+#1134
+Foresta della disperazione~
+Piante morte, avvinghiate tra loro in un quasi impenetrabile muro ligneo. Silenzio, buio
+e tanta tristezza aleggiano intorno mischiati da vortici creati da un gelido vento.
+~
+F 3 0
+15 1 1
+2 289
+#1136
+Foresta di pietra~
+Molti alberi pietrificati giacciono ovunque.
+~
+F 3 0
+1 1 1
+3 0
+#1144
+Foresta di Cedri~
+Un odore acre proviene dalla corteccia di alcuni alberi di cedro saturano l'aria rendendola
+a tratti inrespirabile.
+~
+f 3 0
+2 1 1
+3 0
+#1152
+L'isola inaccessibile~
+E' un isola praticamente inaccessibile.
+~
+X 8 0
+20 50 0
+5 0
+#1346
+Collina Dolce~
+Spendidi e dolci pendii ricoperti di tenera e sofficie erba.
+~
+C 3 0
+2 300 1
+4 0
+#1356
+Bassa collina~
+Un leggero pendio ti avverte del cambio di altitudine.
+~
+c 4 0
+2 100 1
+4 0
+#1363
+Gran Massiccio dell'Er~
+Ripidi pendi e angusti anfratti. Bisogna far attenzione a dove mettere i piedi, le mani e
+la testa.
+~
+M 2 0
+8 3000 1
+5 0
+#1373
+Monte~
+Una discreta pendenza di roccia, sassi ed erba bruciata dal sole.
+~
+m 2 0
+4 2500 1
+5 0
+#1398
+Lago Melmoso~
+L'acqua e' torbida e non e' possibile scorgere nulla appena sotto la superficie. Ogni tanto
+qualche ciuffo di erba simile ad alga spunta appena sopra il pelo d'acqua.
+~
+~ 3 0
+5 1 1
+6 0
+#1403
+una cittadella arroccata sui monti~
+Una cittadella di medie dimensioni. Ben fortificata e protetta da molte guardie.
+~
+@ 6 0
+1 1500 0
+1 262144
+#1407
+La Fornace~
+La grande fornace
+~
+@ 8 0
+1 1 0
+2 0
+#1416
+La villa del custone~
+La villa del custone
+~
+a 4 0
+1 1 0
+0 0
+#1427
+una fonte luminosa di luce~
+La grotta dell'oracolo del nord.
+~
+S 7 0
+1 8000 0
+1 262144
+#1433
+Il ponte del pentimento~
+Un altissimo ponte sospeso nel nulla. Sotto di te n baratro si perde nelle profondita' della terra.
+Le assi che compongono la struttura e' abbastanza solida per portare solo una persona alla volta.
+~
+= 1 0
+1 2000 1
+10 452
+#1443
+Strada ciottolata~
+Una strada di media grandezza formata da sassi molto arrotondati.
+~
+: 6 0
+1 1 1
+10 0
+#1446
+Sentiero~
+Un piccolo solco tracciato tra l'erba e l'acquitrino ti indica il cammino.
+~
+: 6 0
+1 1 1
+10 0
+#1447
+Strada battuta~
+Strada molto poco frequentata viste le erbacce.
+~
+: 6 0
+1 1 1
+10 0
+#1456
+Il sentiero dell'oracolo~
+Il sentiero per l'oracolo. Una salita stretta tra la morsa di due pareti che costringe il passaggio
+ad una persona sola alla volta. Non c'e modo di tornare indietro.
+~
+. 4 0
+1 200 1
+4 332
+#1462
+Picchi dell'Er~
+Invalicabili picchi.
+~
+x 8 0
+20 1400 0
+5 0
+#1474
+La forseta botanica~
+Un ricco giardino fatto di piante note, ignote, rare e comuni tutte perfettamente curate.
+~
+F 3 0
+5 1 1
+3 0
+#1476
+Foresta Morta~
+Alcuni alberi della foresta botanica in questo punto sono morti. Come uccisi da qualche
+strana malattia o parassita.
+~
+F 4 0
+5 1 1
+3 1
+#1478
+Foresta dei giganti~
+Attorno innumerevoli e giganteschi alberi secolari.
+~
+F 3 0
+3 1 1
+3 0
+#1484
+Foresta bassa~
+Bassi arbusti, molto curati e ricchi di verde vitalita'
+~
+f 3 0
+3 1 1
+3 0
+#1488
+Pioppi~
+Decine e decine di pioppi...pietrificati.
+~
+f 3 0
+3 1 1
+3 0
+#1489
+un ponte in pietra~
+E' un semplice ponte, molto comune. La piccola e robusta arcata permette di
+attraversare lo specchio d'acqua sottostante con molta facilit. Ai lati
+alti parapetti impediscono un qualsiasi "atto suicida".
+~
+= 8 0
+1 2 1
+10 262144
+#1522
+Una grotta~
+Una grotta
+~
+o 8 0
+1 1 0
+0 0
+#1523
+La grotta~
+La grotta
+~
+o 2 0
+1 1 0
+0 0
+#1601
+Area di Plasmon~
+Se sei finito qui meriti la morte. Addio.
+~
+F 3 0
+1 0 0
+1 0
+#1607
+una casa~
+La casa del piccolo Arcere
+~
+G 6 0
+1 1 0
+0 262144
+#1636
+Tundra~
+Il terreno che ti circonda e' simile ad una palude ma molto meno mefitica.
+Licheni e muschi coprono tronchi e sassi sporgenti.
+~
+T 4 0
+4 100 1
+3 0
+#1646
+Tundra~
+Zona semipaludosa ricca di muschio.
+~
+t 4 0
+2 1 1
+3 0
+#1722
+Terre brulle nella Tolnedra Settentrionale~
+Terreno coperto da Pini marittimi verso la costa e distese erbose con clima temperato con
+temperature piuttosto elevate d'estate a causa delle correnti calde provenienti da nord.
+~
+p 8 0
+3 300 1
+2 0
+#1738
+Mare~
+Immensa distesa d'acqua salata, non distingui nessuna terra all'orizzonte voltato dalla Daresia.
+~
+~ 5 0
+15 0 1
+7 0
+#1786
+Strada lastricata~
+I tuoi piedi posano sopra una perfetta strada costituita principalmente da lastre squadrate e levigate di granito.
+~
+: 4 0
+1 1 1
+10 0
+#1787
+Strada ciottolata~
+Ti trovi su di una strada abbastanza larga costruita con pietre grezze arrotondate.
+~
+: 6 0
+1 1 1
+10 0
+#1795
+Tra i bastioni~
+Sei sulle prime mura difensive della citta' di Cimmura.
+~
+. 5 0
+1 7 1
+1 8
+#1796
+Sabbia finissima~
+Finissima sabbia d'orata depositata qui dall onde le mare.
+~
+. 4 0
+2 4 1
+2 0
+#1802
+Scoglio~
+Scoglio
+~
+X 8 0
+20 1 0
+5 0
+#1838
+La citta~
+La citta
+~
+@ 7 0
+1 1 0
+2 0
+#1846
+Spiaggia con sabbia fine~
+Le onde battono costanti sulla dolce sabbia mentre un gruppo di gabbiani vola alto all'orizzonte,
+l'acqua sulla costa e' fredda ma sopportabile.
+~
+b 4 0
+3 5 1
+2 0
+#1853
+Torre portone~
+Torre portone
+~
+O 2 0
+1 10 0
+2 0
+#1854
+Torretta~
+Sei all'interno di una torretta di avvistamento. All'esterno puoi ammirare tutto il territorio di
+Tolnedra mentre verso l'interno vedi la citta' ed il castello.
+~
+O 3 0
+1 12 1
+1 8
+#1856
+Torre di guardia~
+Torre di guardia
+~
+O 4 0
+1 15 0
+2 0
+#1863
+Torre Piccola~
+Torre piccola
+~
+o 2 0
+1 10 0
+2 0
+#1873
+Bastione~
+Bastione
+~
+- 2 0
+1 8 0
+2 0
+#1883
+Bastione~
+Bastione
+~
+| 2 0
+1 8 0
+2 0
+#1886
+Bastioni Principali~
+Bastioni Principali
+~
+| 4 0
+1 10 0
+2 0
+#1913
+Incrocio di mura~
+Incrocio di mura
+~
++ 2 0
+1 8 0
+2 0
+#1964
+Vegetazione~
+Canneti e altre piante acquatiche circondano la zona.
+~
+V 3 0
+3 5 1
+3 0
+#2036
+Collinetta~
+Della terra e della pietra riportata manualmente formano una piccola collina
+dove sono posate le mura del castello del Re.
+~
+c 4 0
+2 3 1
+4 0
+#2058
+Fango acido~
+Un densissimo liquame ti affatica il movimento oltre a procurarti un dolore atroce.
+~
+~ 3 0
+20 1 1
+6 131072
+#2074
+Fossato~
+Fossato di acqua verdastra ma non puzzolente.
+~
+~ 3 0
+2 1 1
+7 0
+#2087
+Santuario~
+Santuario
+~
+S 6 0
+1 10 0
+2 0
+#2093
+Ponte delle sfide~
+E' uno stretto ponte costituito da un unico lungo e massiccio tronco dove gli sfidanti duellano
+senza esclusione di colpi.
+~
+= 2 0
+1 2 1
+10 131072
+#2106
+il &3&bSantuario&0 del cimitero di Cimmura~
+Santuario di Cimmura.
+~
+S 4 0
+1 6 0
+2 0
+#2107
+Sentiero dei Santuari~
+Questo e' il sacro sentiero dei Santuari. La via ti conduce verso i luoghi del sapere
+e della lotta.
+~
+: 8 0
+1 1 1
+2 144
+#2112
+Campo di lotta~
+Sabbia nera fine e pesante.
+~
+. 1 0
+1 1 1
+2 131072
+#2113
+Ponte levatoio~
+Il ponte levatoio che consente l'accsso al castello del Re.
+~
+= 2 0
+1 2 1
+10 0
+#2122
+Viale dei funzionari~
+Questa via lastricata in marmo bianco purissimo e' stata costruita per volere
+del Re Feanor proprio in onore a tutti quei funzionari che contribuiscono al
+mantenimento del Regno.
+~
+: 8 0
+1 1 1
+10 0
+#2127
+Viale esterno~
+Il viale principale della citta' di Cimmura, lastricato in granito bianco, costeggia tutte
+le prime mura del castello del Re.
+~
+: 8 0
+1 1 1
+10 0
+#2164
+Querce~
+Lunga schiera di quercie alcune giovani, altre piu' vecchie.
+~
+f 3 0
+1 1 1
+3 0
+#2173
+Torre~
+Torre
+~
+O 2 0
+1 10 0
+2 0
+#2174
+Torre~
+Torre
+~
+O 3 0
+1 10 0
+2 0
+#2176
+Torre~
+Torre
+~
+O 4 0
+1 10 0
+2 0
+#2183
+Torre~
+Torre
+~
+o 2 0
+1 4 0
+2 0
+#2193
+Muro~
+Muro
+~
+- 2 0
+1 5 0
+2 0
+#2198
+Castello del Re~
+Castello del Re
+~
+O 7 0
+1 15 0
+2 0
+#2203
+Muro~
+Muro
+~
+| 2 0
+1 5 0
+2 0
+#2208
+Torre del castello~
+Torre del castello
+~
+o 7 0
+1 10 0
+2 0
+#2218
+Mura del castello~
+Mura del castello
+~
+- 7 0
+1 8 0
+2 0
+#2228
+Mura del castello~
+Mura del castello
+~
+| 7 0
+1 8 0
+2 0
+#2253
+Recinto del cimitero~
+Recinto del cimitero
+~
++ 2 0
+1 1 0
+2 0
+#2273
+Tetto~
+Tetto
+~
+o 2 0
+1 0 0
+2 0
+#2284
+Le gilde e l'arena~
+Le gilde e l'arena
+~
+G 3 0
+1 1 0
+2 0
+#2404
+Prato verde e soffice~
+Un bellissimo prato verde, sofficie e profumato accoglie i tuoi piedi
+~
+p 3 0
+1 0 1
+1 8
+#5006
+Collina~
+Una serpeggiante collina.
+~
+C 4 0
+2 100 1
+4 0
+#5016
+Collinetta~
+Una piccola collina.
+~
+c 4 0
+2 50 1
+4 0
+#5023
+Montagna alta~
+Sei in cima alla montagna. Da qui puoi scorgere tutta la valle Barl.
+~
+M 2 0
+4 300 1
+5 0
+#5033
+Montagna~
+Una bassa montagnetta da cui puoi vedere parte della valle Barl.
+~
+m 2 0
+3 200 1
+5 0
+#5042
+Pianura~
+Una deserta pianura.
+~
+p 8 0
+2 1 1
+2 0
+#5058
+Fiume~
+Fiume.
+~
+~ 7 0
+4 1 1
+6 0
+#5065
+Locazione~
+Locazione.
+~
+@ 5 0
+1 1 0
+2 0
+#5067
+Locazione~
+Locazione.
+~
+@ 6 0
+1 1 0
+2 0
+#5068
+Locazione~
+Locazione.
+~
+@ 7 0
+4 1 1
+6 0
+#5097
+Ponte~
+Un ponte.
+~
+= 6 0
+1 1 1
+10 0
+#5107
+Strada~
+Una strada trasandata che tuttavia evoca una passata fastosita'.
+~
+: 6 0
+1 1 1
+10 0
+#5116
+Sabbia~
+Una sottile striscia di spiaggia.
+~
+. 4 0
+2 1 1
+2 0
+#5134
+Foresta fitta~
+Gli alberi secolari si infittiscono ostacolando il tuo passaggio.
+~
+F 3 0
+3 1 1
+3 0
+#5144
+Bosco~
+Bosco di alberi secolari.
+~
+f 3 0
+2 1 1
+3 0
+#5166
+Sabbie mobili~
+Strana sabbia. Molle. Troppo molle! Sono sabbie mobili, attento!
+~
+s 4 0
+4 1 1
+6 0
+#5173
+Torre grande.~
+Una torre grande.
+~
+O 2 0
+1 1 0
+2 0
+#5183
+Torre piccola~
+Torre piccola.
+~
+o 2 0
+1 1 0
+2 0
+#5193
+Muro~
+Muro.
+~
+- 2 0
+1 1 0
+2 0
+#5203
+Muro.~
+Muro.
+~
+| 2 0
+1 0 0
+2 0
+#5213
+Muro~
+Muro.
+~
+\ 2 0
+1 1 0
+2 0
+#5223
+Muro~
+Muro.
+~
+/ 2 0
+1 1 0
+2 0
+#5267
+Cancello~
+Un cancello.
+~
+G 6 0
+1 1 0
+2 0
+#6002
+Locazione.~
+Locazione.
+~
+C 8 0
+1 1 0
+2 0
+#6016
+Collinetta.~
+Sei su una ripida collinetta da cui puoi ammirare tutto il Golfo di Lamorka.
+~
+c 4 0
+3 300 1
+4 0
+#6023
+Alte montagne di Kor.~
+Alte montagne di Kor.
+~
+M 2 0
+4 1000 1
+5 0
+#6033
+Montagne di Kor.~
+Montagne di Kor.
+~
+m 2 0
+3 500 1
+5 0
+#6052
+Muro.~
+Muro.
+~
+~ 8 0
+1 1 0
+2 0
+#6055
+Golfo di Lamorka.~
+Stai navigando nelle tiepide acque del Golfo di Lamorka.
+~
+~ 5 0
+8 1 1
+7 0
+#6062
+Locazione.~
+Locazione.
+~
+@ 8 0
+1 1 0
+2 0
+#6066
+Locazione.~
+Locazione.
+~
+@ 4 0
+1 1 0
+2 0
+#6067
+Locazione.~
+Locazione.
+~
+@ 6 0
+1 1 0
+2 0
+#6068
+Locazione.~
+Locazione.
+~
+@ 7 0
+1 1 0
+2 0
+#6072
+Altopiano di Lamorka.~
+Sei su un leggero altopiano.
+~
+a 8 0
+2 50 1
+2 0
+#6096
+Pontile.~
+Sei sul pontile che domina il Golfo di Lamorka. Puo vedere diverse imbarcazioni.
+~
+= 4 0
+1 1 1
+10 0
+#6097
+Ponte.~
+Un ponte.
+~
+= 6 0
+1 1 1
+10 0
+#6107
+Strada del Porto.~
+Una strada lastricata che collega la zona portuale con la citta' di Lamorka.
+~
+: 6 0
+1 1 1
+10 0
+#6112
+Muro.~
+Muro.
+~
+. 8 0
+1 1 0
+2 0
+#6113
+Muro.~
+Muro.
+~
+. 2 0
+1 1 0
+2 0
+#6114
+Prato.~
+Stai calpestando un piccolo prato fiorito.
+~
+. 3 0
+1 1 1
+2 0
+#6116
+Sabbia.~
+Sei su una spiaggia di sabbia finissima.
+~
+. 4 0
+2 1 1
+2 0
+#6118
+Facciata.~
+Facciata.
+~
+. 7 0
+1 1 0
+2 0
+#6123
+Scogli.~
+Scogli.
+~
+x 2 0
+1 1 0
+2 0
+#6132
+Forca.~
+Forca.
+~
+F 8 0
+1 1 0
+2 0
+#6134
+Foresta.~
+Una foresta fitta e buia.
+~
+F 3 0
+4 1 1
+3 0
+#6144
+Bosco.~
+Un bosco.
+~
+f 3 0
+3 1 1
+3 0
+#6152
+Entrata.~
+Entrata.
+~
+n 8 0
+1 1 0
+2 0
+#6182
+Muro.~
+Muro.
+~
+o 8 0
+1 1 0
+2 0
+#6183
+Muro.~
+Muro.
+~
+o 2 0
+1 1 0
+2 0
+#6186
+Molo.~
+Sei all'estremita' di un molo per l'attracco di ogni tipo di imbarcazione.
+~
+o 4 0
+1 1 1
+10 0
+#6192
+Muro.~
+Muro.
+~
+- 8 0
+1 1 0
+2 0
+#6193
+Muro.~
+Muro.
+~
+- 2 0
+1 1 0
+2 0
+#6198
+Muro.~
+Muro.
+~
+- 7 0
+1 1 0
+2 0
+#6202
+Muro.~
+Muro.
+~
+| 8 0
+1 1 0
+2 0
+#6203
+Muro.~
+Muro.
+~
+| 2 0
+1 1 0
+2 0
+#6206
+Muro.~
+Muro.
+~
+| 4 0
+1 0 0
+2 0
+#6212
+Muro.~
+Muro.
+~
+\ 8 0
+1 1 0
+2 0
+#6213
+Muro.~
+Muro.
+~
+\ 2 0
+1 1 0
+2 0
+#6216
+Muro.~
+Muro.
+~
+\ 4 0
+1 0 0
+2 0
+#6222
+Muro.~
+Muro.
+~
+/ 8 0
+1 1 0
+2 0
+#6223
+Muro.~
+Muro.
+~
+/ 2 0
+1 1 0
+2 0
+#6226
+Muro.~
+Muro.
+~
+/ 4 0
+1 0 0
+2 0
+#6228
+Entrata.~
+Entrata.
+~
+/ 7 0
+1 1 0
+2 0
+#6243
+Muro.~
+Muro.
+~
++ 2 0
+1 0 0
+2 0
+#6252
+Muro.~
+Muro.
+~
+^ 8 0
+1 0 0
+2 0
+#6253
+Tetto.~
+Tetto.
+~
+^ 2 0
+1 0 0
+2 0
+#6272
+Entrata.~
+Entrata.
+~
+V 8 0
+1 1 0
+2 0
+#6284
+Vegetazione.~
+Piccola vegetazione.
+~
+v 3 0
+2 1 1
+2 0
+#6292
+Taverna.~
+Taverna.
+~
+T 8 0
+1 1 0
+2 0
+#6317
+Locazione.~
+Locazione.
+~
+@ 6 0
+1 1 0
+2 0
+#50001
+&b&1Un ruscello di sangue&0~
+Un piccolo ruscello di sangue scuro, maleodorante e parzialmente coagulato
+scorre attorno alla piazza della citta', di tanto in tanto vedi affiorare dei
+bulbi oculari e dei pezzi di interiora.    
+~
+F 1 0
+2 0 1
+7 0
+#50002
+&7Ponticello&0~
+Questo piccolo e stretto ponticello passa sopra il ruscello di sangue e collega
+la piazza alle principali vie della citta'.    
+~
+= 8 0
+1 0 1
+10 0
+#50003
+Mosaico~
+&0Questo mosaico che rappresenta la figura della &1Divina Shaarr&0 e' posto qui a
+decorare la piazza centrale della citta'.    
+~
+m 4 0
+1 0 1
+1 0
+#50004
+&1- Piazza Centrale&0~
+Sei nella piazza centrale di Alorn.
+~
+s 2 0
+1 0 1
+1 0
+#50005
+Magma incandescente~
+Sei su un lago di magma incandescente, non faresti meglio a toglierti di torno?
+~
+L 2 0
+4 0 1
+0 0
+#50006
+Viale della Carestia~
+&0Sei all'inizio di &1Viale della Carestia&0.
+~
+@ 6 0
+1 0 1
+10 0
+#50007
+Viale della Pestilenza~
+&0Sei all'inizio di &1Viale della Pestilenza&0.
+~
+@ 6 0
+1 0 1
+10 0
+#50008
+Viale della Guerra~
+&0Sei all'inizio di &1Viale della Guerra&0.
+~
+@ 6 0
+1 0 1
+10 0
+#50009
+Viale della Morte~
+&0Sei all'inizio di &1Viale della Morte&0.
+~
+@ 6 0
+1 0 1
+10 0
+#50010
+Sentiero~
+Ti trovi su un grande sentiero che ti porta a una delle sei piazze della citta'.
+~
+S 4 0
+1 0 1
+1 0
+#50011
+Mura~
+Le mura della citta'.
+~
+M 1 0
+1 0 0
+1 0
+#50012
+Piazza~
+Ti trovi su una piazza in marmo nero, la tua immagine viene quasi riflessa
+dallo splendore di quest'ultimo.    
+~
+P 8 0
+1 0 1
+1 0
+#50013
+Mura~
+Mura della citta'.
+~
+| 8 0
+1 0 0
+1 0
+#50014
+Mura~
+Mura della citta'.
+~
+- 8 0
+1 0 0
+1 0
+#50015
+Mura~
+Mura della citta'.
+~
+O 8 0
+1 0 0
+1 0
+#50016
+Intercapedine~
+Le mura
+~
+- 8 0
+1 0 0
+1 0
+#50017
+Inizio viale dell'Apocalisse~
+Qui inizia il Viale dell'Apocalisse
+~
+@ 6 0
+1 0 1
+2 0
+#50018
+Ingresso all'arena~
+Di qui si va all'arena di Alorn.
+Preparati a prenderle di santa ragione!
+~
+a 3 0
+1 0 1
+2 0
+#50020
+La palude di Mordh.~
+Sei in una fetida palude: vapori mefitici ti penetrano fin nel midollo, ma chi
+te lo fa fare di immergerti in questo letamaio?!?    
+~
+u 3 0
+2 0 1
+2 0
+#50021
+La fitta foresta~
+Una foresta fitta, buia ed umidissima: ovunque ti muovi ti ritrovi imbrigliato
+nel sottobosco, oltre che ricoperto di enormi ragnatele e dai piu' enormi e
+schifosi insetti che tu abbia mai visto!    
+~
+F 3 0
+3 0 1
+3 0
+#50022
+Folta vegetazione~
+Erba fittissima che ti supera in altezza, ragni e scorpioni che ti saltano
+addosso da ogni dove, zanzare grandi come condor...  Deve davvero esserci una
+eccellente ragione per stare qui!    
+~
+V 3 0
+2 0 1
+2 0
+#50023
+La palude di Mordoch~
+C'e' qualcosa di diverso in questo punto della palude...
+~
+. 3 0
+1 0 1
+2 0
+#50024
+Entrata dell'arena~
+Ingresso dell'arena di Alorn. Preparati a prenderle di santa ragione!
+~
+@ 6 0
+1 0 1
+2 0
+#50030
+Spiaggia vulcanica di Mishrak~
+Sei su una spiaggia desolata, piena di ciottoli puntuti e gusci di ricci...  
+Non e' proprio un bel luogo di villeggiatura.    
+~
+s 8 0
+1 0 1
+2 0
+#50031
+Ascesa dei monti Mishrak~
+Ti arrampichi sui fianchi brulli e polverosi dei monti Mishrak. Di tanto in
+tanto devi aggirare delle tane di animali che non hai nemmeno intenzione di
+scoprire cosa siano.    
+~
+c 2 0
+2 0 1
+2 0
+#50032
+Monti Mishrak~
+Sei vicino alla cima dei piu' brutti e desolati monti che tu abbia mai visto:
+versanti spogli, cime coperte da eterne nubi scure e pesanti...    
+~
+m 2 0
+2 0 1
+5 0
+#50033
+Monti Mishrak~
+Sulla cima di questi monti quasi non riesci a respirare: grevi nubi rossastre
+ti tolgono il fiato e ti fanno bruciare gli occhi, camminare qui e' una gran
+pena!    
+~
+M 2 0
+10 0 1
+5 0
+#50034
+Verso la miniwild~
+Se leggi questa descrizione, rivolgiti a Sheep che ti regalera' una bambolina :)
+~
+X 2 0
+1 0 0
+2 0
+#50035
+Sentiero battuto~
+Un sentiero battuto da piedi enormi e dotati di mostruosi artigli.  Di tanto in
+tanto vedi in terra qualche osso umano sgranocchiato, forse gli avanzi degli
+spuntini dei viaggiatori.    
+~
+: 4 0
+1 0 1
+10 0
+#50036
+Entrata alla citta'~
+Riesci a leggere qui? Axx, allora va corretto :(
+~
+a 6 0
+1 0 0
+2 0
+#50040
+Un oscuro ponte in pietra~
+Ti trovi in uno stretto ponte in pietra nera senza corrimano in cui lo spazio
+per passare e' ridotto al minimo essenziale.  Sotto di te vedi solo sabbia.  
+
+~
+= 1 0
+1 0 1
+10 0
+#50041
+Le sabbie mobili~
+La sabbia ti inizia a risucchiare... ESCI FINCHE' SEI IN TEMPO !
+~
+s 4 0
+2 0 1
+2 0
+#50042
+Le sabbie mobili~
+La sabbia ti inizia a risucchiare... ESCI FINCHE' SEI IN TEMPO !
+~
+S 4 0
+3 0 1
+2 0
+#50043
+Rocce magmatiche~
+Scegliti un altro luogo per salvarti dalle sabbie mobili, qui di certo finirai arrosto!!
+~
+C 2 0
+2 0 1
+2 0
+#50044
+La Montagna di Lava~
+Pareti con canaloni di lava che colano dalla cima, crepacci che si aprono in
+continuazione sprizzando roccia fusa, atmosfera paurosamente arroventata e
+irrespirabile: l'inferno non puo' essere peggio di cosi.    
+~
+M 2 0
+10 0 1
+5 0
+#50045
+I Cancelli di Aldeeran~
+Ti trovi di fronte agli oscuri cancelli di Alderaan.  Alcune grosse e nere
+figure sorvegliano la sola via di entrata di questo nefasto luogo.
+~
+u 1 0
+1 0 1
+2 0
+#50046
+Cima dei monti~
+Cratere dei monti: qui ci vengono favolose caldarroste, la prossima volta
+portati la padella bucata e un po' di marroni di Antrodoco :p
+~
+X 2 0
+1 0 0
+5 0
+#50047
+Ingresso in citta'~
+Questa non si deve leggere, per cui ci scrivo quello che stracaxxo mi pare :-)
+~
+@ 6 0
+1 0 0
+2 0
+#50050
+Il mare di Alorn~
+E' un mare scuro e tempestoso, coperto da un'eterna cappa di nubi
+grigio-rossastre...  Che brutto posto!!    
+~
+~ 5 0
+10 0 1
+6 0
+#50060
+Magma incandescente~
+Sei su un lago di lava incandescente: senti quel buon profumo di arrosto da sotto i tuoi piedi?
+~
+L 2 0
+2 0 1
+2 0
+#50061
+Sentiero di pietre nere~
+Un sentiero di pietroni basaltici ti mette relativamente al sicuro dalla lava.
+~
+: 1 0
+1 0 1
+10 0
+#50062
+Ripida Collina~
+Una ripida collina a strapiombo sul lago di lava sottostante.
+~
+c 4 0
+3 0 1
+4 0
+#50063
+Rocce a strapiombo~
+Roccioni a strapiombo sulla lava.
+~
+m 2 0
+6 0 1
+5 0
+#50064
+Rocce a strapiombo~
+Roccioni enormi a strapiombo sul lago di magma sottostante.
+~
+M 2 0
+10 0 1
+5 0
+#50065
+Un oscuro ponte in pietra~
+Un ponte di pietrone basaltiche che passa pochi centimetri al di sopra del
+magma: sarai al sicuro, ma qui fa caldo!    
+~
+= 1 0
+1 0 1
+10 0
+#50066
+Mura~
+Mura, e se stai qui significa che c'e' qualche casino.
+~
+o 8 0
+1 0 1
+2 0
+#50067
+Ingresso al castello~
+Ingresso al castello
+~
+@ 6 0
+1 0 0
+2 0
+#50070
+La via di ciottoli~
+Un sentiero polveroso e pieno di ciottoli puntuti e taglienti, ai bordi vedi
+numerosi resti umani con vistosi segni di zanne demoniache.    
+~
+u 4 0
+1 0 1
+10 0
+#50071
+Il ponte sul fiume~
+Sei su un ponte alquanto precario, investito da ondate di lava bollente.
+~
+= 7 0
+1 0 1
+10 0
+#50072
+Il fiume di lava~
+Qui la lava deve costare un soldo la tonnellata: mai avresti immaginato di
+vederne cosi' tanta tutta assieme!  E come brucia!    
+~
+s 2 0
+10 0 1
+6 0
+#50073
+Accesso alle house degli abitanti~
+Le case degli abitanti (contenti loro a vivere in questo postaccio...)
+~
+@ 6 0
+1 0 0
+2 0
+$

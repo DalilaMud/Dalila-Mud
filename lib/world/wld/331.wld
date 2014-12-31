@@ -1,0 +1,2009 @@
+#33100
+Alcuni passi nella sabbia~
+Deserto, sempre e solo deserto...
+ma... ehi! vedi chiaramente alcune impronte nella sabbia,
+sicuramente di qualche cammello. Portano verso nord, che
+siano semplici mercanti?
+~
+331 12 1
+D0
+~
+~
+0 -1 33101 0
+D2
+~
+~
+0 0 1402583 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33101
+Un rudimentale recinto~
+Incredibile! Vedi un piccolo recinto che protegge un gruppo di
+tende, probabilmente un accampamento di nomadi intorno ad una
+sorgente di acqua dolce. Le sentinelle pero' non sembrano felici
+di vederti, probabilmente hanno ricevuto ordini precisi.
+~
+331 0 1
+D0
+~
+cancello~
+1 33104 33102 7
+D2
+~
+~
+0 -1 33100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33102
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33103 0
+D2
+~
+cancello~
+1 33104 33101 7
+D3
+~
+tenda~
+1 -1 33123 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33100
+#33103
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33106 0
+D1
+~
+~
+0 -1 33104 0
+D2
+~
+~
+0 -1 33102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33104
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33105 0
+D1
+~
+~
+0 -1 33107 0
+D3
+~
+~
+0 -1 33103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33105
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33109 0
+D1
+~
+tenda~
+1 -1 33125 3
+D2
+~
+~
+0 -1 33104 0
+D3
+~
+~
+0 -1 33106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33106
+Il centro dell' accampamento~
+Un' &3&boasi!!!&0 Non riesci a pensare a nulla ora, solo al
+desiderio di dissetarti dopo il lungo cammino nella sabbia, e...
+c'e' acqua in abbondanza per lavarsi e rinfrescarsi. Questa e'
+davvero una meraviglia della natura.
+~
+331 0 1
+D1
+~
+~
+0 -1 33105 0
+D2
+~
+~
+0 -1 33103 0
+D3
+~
+~
+0 -1 33114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33107
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D2
+~
+~
+0 -1 33108 0
+D3
+~
+~
+0 -1 33104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33108
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33107 0
+D1
+~
+tenda~
+1 -1 33124 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33109
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33112 0
+D1
+~
+~
+0 -1 33110 0
+D2
+~
+~
+0 -1 33105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33110
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D1
+~
+cancello~
+1 33104 33111 7
+D3
+~
+~
+0 -1 33109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33101
+#33111
+Un rudimentale recinto~
+Incredibile! Vedi un piccolo recinto che protegge un gruppo di
+tende, probabilmente un accampamento di nomadi intorno ad una
+sorgente di acqua dolce. Le sentinelle pero' non sembrano felici
+di vederti, probabilmente hanno ricevuto ordini precisi.
+~
+331 12 1
+D1
+~
+~
+0 0 1401584 0
+D3
+~
+cancello~
+1 33104 33110 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33112
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+tenda~
+1 -1 33130 3
+D2
+~
+~
+0 -1 33109 0
+D3
+~
+~
+0 -1 33113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33113
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D1
+~
+~
+0 -1 33112 0
+D2
+~
+~
+0 -1 33116 0
+D3
+~
+tenda~
+1 -1 33126 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33114
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33115 0
+D1
+~
+~
+0 -1 33106 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33115
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D1
+~
+~
+0 -1 33116 0
+D2
+~
+~
+0 -1 33114 0
+D3
+~
+~
+0 -1 33117 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33116
+Un piccolo accampamento~
+Sei circondato da tende, che costituiscono un piccolo presidio
+di soldati del Sultando di Jiroch. La sabbia e' bollente, ma
+stranamente sembra esserci acqua in abbondanza. La tua presenza
+ha allertato tutti i soldati, e' meglio stare in guardia!
+~
+331 0 1
+D0
+~
+~
+0 -1 33113 0
+D2
+~
+tenda~
+2 33100 33121 15
+D3
+~
+~
+0 -1 33115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33117
+Un sentiero ventoso~
+Questo sentiero e' piuttosto strano, il vento sembra sibilare
+macabri avvertimenti in lingue che non conosci, e le impronte
+che lasci nella sabbia si gonfiano fino ad esplodere.
+~
+331 0 1
+D1
+~
+~
+0 -1 33115 0
+D3
+~
+~
+0 -1 33118 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33118
+Un sentiero ventoso~
+Questo sentiero e' piuttosto strano, il vento sembra sibilare
+macabri avvertimenti in lingue che non conosci, e le impronte
+che lasci nella sabbia si gonfiano fino ad esplodere.
+~
+331 0 1
+D1
+~
+~
+0 -1 33117 0
+D3
+~
+~
+0 -1 33119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33119
+Un sentiero ventoso~
+Questo sentiero e' piuttosto strano, il vento sembra sibilare
+macabri avvertimenti in lingue che non conosci, e le impronte
+che lasci nella sabbia si gonfiano fino ad esplodere.
+~
+331 4 1
+D1
+~
+~
+0 -1 33118 0
+D2
+~
+~
+0 -1 33120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33120
+Un cancello gigantesco~
+Vedi un &1enorme cancello&0 che blocca l'ingresso ad un buio
+cunicolo. Sembra che la sabbia ... invece di scendere e perdersi
+nelle sue profondita', risalga !!!
+~
+331 0 1
+D0
+~
+~
+0 -1 33119 0
+D2
+~
+cancello~
+2 33101 33131 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33106
+#33121
+La tenda del figlio del Sultano~
+La pelle di questa tenda e' ricamata con preziosissimi fili
+d'oro, mentre al suo interno trovi ogni specie di sfarzo e
+comodita'. Ci sono moltissimi tappeti antichi e un bel vaso pieno
+di pietre preziose.
+~
+331 0 0
+D0
+~
+tenda~
+2 33100 33116 15
+D4
+~
+~
+0 -1 33122 0
+D5
+~
+~
+0 -1 33129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33122
+La tenda del figlio del capo~
+La pelle di questa tenda e' ricamata con preziosissimi fili
+d'oro, mentre al suo interno trovi ogni specie di sfarzo e
+comodita'. Ci sono moltissimi tappeti antichi e un bel vaso pieno
+di pietre preziose.
+~
+331 0 0
+D5
+~
+~
+0 -1 33121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33123
+Una tenda delle milizie di Jiroch~
+Questa tenda fa parte del piccolo accampamento, dentro di essa
+vedi alcuni semplici utensili e alcune strane cartine che non
+comprendi, sembrano mappe sotterranee.
+~
+331 0 0
+D1
+~
+tenda~
+1 -1 33102 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33124
+Una tenda delle milizie di Jiroch~
+Questa tenda fa parte del piccolo accampamento, dentro di essa
+vedi alcuni semplici utensili e alcune strane cartine che non
+comprendi, sembrano mappe sotterranee.
+~
+331 0 0
+D3
+~
+tenda~
+1 -1 33108 3
+D5
+~
+~
+0 -1 33128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33125
+Una tenda delle milizie di Jiroch~
+Questa tenda fa parte del piccolo accampamento, dentro di essa
+vedi alcuni semplici utensili e alcune strane cartine che non
+comprendi, sembrano mappe sotterranee.
+~
+331 0 0
+D3
+~
+tenda~
+1 -1 33105 3
+D5
+~
+~
+0 -1 33127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33126
+Una tenda delle milizie di Jiroch~
+Questa tenda fa parte del piccolo accampamento, dentro di essa
+vedi alcuni semplici utensili e alcune strane cartine che non
+comprendi, sembrano mappe sotterranee.
+~
+331 0 0
+D1
+~
+tenda~
+1 -1 33113 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33127
+Una tenda delle milizie di Jiroch~
+Questa tenda fa parte del piccolo accampamento, dentro di essa
+vedi alcuni semplici utensili e alcune strane cartine che non
+comprendi, sembrano mappe sotterranee.
+~
+331 0 0
+D4
+~
+~
+0 -1 33125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33128
+Una tenda delle milizie di Jiroch~
+Questa tenda fa parte del piccolo accampamento, dentro di essa
+vedi alcuni semplici utensili e alcune strane cartine che non
+comprendi, sembrano mappe sotterranee.
+~
+331 0 0
+D4
+~
+~
+0 -1 33124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33129
+La tenda del figlio del capo~
+La pelle di questa tenda e' ricamata con preziosissimi fili
+d'oro, mentre al suo interno trovi ogni specie di sfarzo e
+comodita'. Ci sono moltissimi tappeti antichi e un bel vaso pieno
+di pietre preziose.
+~
+331 0 0
+D4
+~
+~
+0 -1 33121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33130
+La tenda del mercato~
+Questa tenda e' piena di stranissimi oggetti che sembrano...
+totalmente inutili, ma non sai perche' ti vien voglia di
+comprarli !!
+&1&bNOTI UN CARTELLO&0
+~
+331 148 0
+D2
+~
+tenda~
+1 -1 33112 3
+E
+cartello~
+Non si prendono indietro gli oggetti ! Non vendo merce difettosa quindi non cercate di fregarmi !
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33131
+Nel gorgo di sabbia!!!!~
+Un cunicolo strettissimo, non riesci quasi a muoverti,
+vieni trascinato dal gorgo di sabbia sempre piu' in basso...
+Tornare indietro e' impossibile, come ti salverai ?
+~
+331 481 0
+D1
+~
+~
+0 -1 33134 0
+D2
+~
+~
+0 -1 33132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33103
+#33132
+Nel gorgo di sabbia!!!!~
+Un cunicolo strettissimo, non riesci quasi a muoverti,
+vieni trascinato dal gorgo di sabbia sempre piu' in basso...
+Tornare indietro e' impossibile, e.......
+
+OH NO ORMAI E' TROPPO TARDI!!!
+Muori tra atroci sofferenze mentre la sabbia riempe i tuoi
+polmoni....
+~
+331 483 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#33133
+Nel gorgo di sabbia!!!!~
+Un cunicolo strettissimo, non riesci quasi a muoverti,
+vieni trascinato dal gorgo di sabbia sempre piu' in basso...
+Tornare indietro e' impossibile, come ti salverai ?
+~
+331 481 0
+D0
+~
+~
+0 -1 33132 0
+D1
+~
+~
+0 -1 33136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33103
+#33134
+Nel gorgo di sabbia!!!!~
+Un cunicolo strettissimo, non riesci quasi a muoverti,
+vieni trascinato dal gorgo di sabbia sempre piu' in basso...
+Tornare indietro e' impossibile, come ti salverai ?
+~
+331 481 0
+D2
+~
+~
+0 -1 33135 0
+D3
+~
+~
+0 -1 33131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33103
+#33135
+Nel gorgo di sabbia!!!!~
+Un cunicolo strettissimo, non riesci quasi a muoverti,
+vieni trascinato dal gorgo di sabbia sempre piu' in basso...
+Tornare indietro e' impossibile, come ti salverai ?
+~
+331 481 0
+D0
+~
+~
+0 -1 33134 0
+D2
+~
+~
+0 -1 33136 0
+D3
+~
+~
+0 -1 33132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33103
+#33136
+Nel gorgo di sabbia!!!!~
+Un cunicolo strettissimo, non riesci quasi a muoverti,
+vieni trascinato dal gorgo di sabbia sempre piu' in basso...
+Tornare indietro e' impossibile, come ti salverai ?
+~
+331 481 0
+D0
+~
+~
+0 -1 33135 0
+D3
+~
+~
+0 -1 33133 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33103
+#33137
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33148 0
+D1
+~
+~
+0 -1 33138 0
+D2
+~
+~
+0 -1 33150 0
+D3
+~
+~
+0 -1 33142 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33138
+Sopra la botola~
+Avevi ormai perso ogni speranza quando finalmente vedi una
+grossa botola in ferro sul terreno. Un pesante lucchetto tuttavia
+rende la sua apertura molto difficile.
+~
+331 65 0
+D1
+~
+~
+0 -1 33139 0
+D2
+~
+~
+0 -1 33140 0
+D3
+~
+~
+0 -1 33137 0
+D5
+~
+botola~
+2 33102 33159 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33139
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33141 0
+D1
+~
+~
+0 -1 33143 0
+D3
+~
+~
+0 -1 33138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33140
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33138 0
+D1
+~
+~
+0 -1 33154 0
+D2
+~
+~
+0 -1 33147 0
+D3
+~
+~
+0 -1 33150 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33141
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33156 0
+D1
+~
+~
+0 -1 33144 0
+D2
+~
+~
+0 -1 33139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33142
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D1
+~
+~
+0 -1 33137 0
+D2
+~
+~
+0 -1 33151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33143
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D3
+~
+~
+0 -1 33139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33144
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D1
+~
+~
+0 -1 33145 0
+D3
+~
+~
+0 -1 33141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33145
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33146 0
+D3
+~
+~
+0 -1 33144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33146
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 485 0
+D2
+~
+~
+0 -1 33145 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33147
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33140 0
+D2
+~
+~
+0 -1 33157 0
+D3
+~
+~
+0 -1 33153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33148
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33149 0
+D2
+~
+~
+0 -1 33137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33149
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D2
+~
+~
+0 -1 33148 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33150
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33137 0
+D1
+~
+~
+0 -1 33140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33151
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33142 0
+D3
+~
+~
+0 -1 33152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33152
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 485 0
+D1
+~
+~
+0 -1 33151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33153
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 485 0
+D1
+~
+~
+0 -1 33147 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33154
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D1
+~
+~
+0 -1 33155 0
+D3
+~
+~
+0 -1 33140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33155
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 485 0
+D3
+~
+~
+0 -1 33154 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33156
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D2
+~
+~
+0 -1 33141 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33157
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 65 0
+D0
+~
+~
+0 -1 33147 0
+D1
+~
+~
+0 -1 33158 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33158
+Perso nelle grotte sotterranee~
+Ti sei perso!
+Non hai idea di dove trovi, non sai dove siano finiti i tuoi
+compagni. Osservi con un po' di timore le pareti di queste grotte,
+sembrano scavate con degli artigli. E... ci sono molte carcasse
+di animali morti a terra. Improvvisamente senti un cupo ruggito
+echeggiare per i cunicoli. Come uscirai da qua ?
+~
+331 485 0
+D3
+~
+~
+0 -1 33157 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33159
+Un cunicolo nella sabbia~
+Questo cunicolo deve essere sicuramente magico, infatti la sabbia
+che lo circonda e' tenuta compatta da strane forze. Questo rende
+possibile il passaggio. Mentre cammini ti accorgi che sotti i
+tuoi piedi si formano delle &6iscrizioni&0.
+~
+331 1 0
+D4
+~
+botola~
+2 -1 33138 15
+D5
+~
+~
+0 -1 33160 0
+E
+iscrizioni iscrizione~
+&3Per sempre maledetto in questo luogo di rovine&0
+&3E' stato imprigionato lo spirito del malvagio Hokron&0
+&3Sacerdote che sfido' tutti gli Dei, ma si trovo' battuto&0
+&3Da valorosi mortali di cui sono narrate le leggende&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33160
+Un cunicolo nella sabbia~
+Questo cunicolo deve essere sicuramente magico, infatti la sabbia
+che lo circonda e' tenuta compatta da strane forze. Questo rende
+possibile il passaggio. Mentre cammini ti accorgi che sotti i
+tuoi piedi si formano delle &6iscrizioni&0.
+~
+331 1 0
+D0
+~
+cancello~
+1 -1 33161 3
+D4
+~
+~
+0 -1 33159 0
+E
+iscrizioni iscrizione~
+&3Per sempre maledetto in questo luogo di rovine&0
+&3E' stato imprigionato lo spirito del malvagio Hokron&0
+&3Sacerdote che sfido' tutti gli Dei, ma si trovo' battuto&0
+&3Da valorosi mortali di cui sono narrate le leggende&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33161
+L' entrata al tempio maledetto di Hokron~
+Davanti a te vedi un grande arco di pietra. Alcune crepe ne
+minano la stabilita', e oltre l'apertura vedi alcune colonne
+di luce che emanano un' aurea malvagia. Questo e' un luogo
+maledetto, devi stare molto attento.
+~
+331 4 0
+D0
+~
+~
+0 -1 33162 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33162
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D0
+~
+~
+0 -1 33164 0
+D1
+~
+~
+0 -1 33163 0
+D2
+~
+~
+0 -1 33161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33163
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D0
+~
+~
+0 -1 33165 0
+D1
+~
+~
+0 -1 33173 0
+D3
+~
+~
+0 -1 33162 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33164
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D0
+~
+~
+0 -1 33167 0
+D1
+~
+~
+0 -1 33165 0
+D2
+~
+~
+0 -1 33162 0
+D3
+~
+~
+0 -1 33169 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33165
+La decorazione di sabbia~
+Al centro della sala vedi una stranissima statua di sabbia che
+magicamente ha assunto la forma di un drago. Gli occhi emanano
+una strana luce verde, che crea dei teschi luminosi sulla tua
+ombra....
+~
+331 0 0
+D0
+~
+~
+0 -1 33166 0
+D1
+~
+~
+0 -1 33172 0
+D2
+~
+~
+0 -1 33163 0
+D3
+~
+~
+0 -1 33164 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33166
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D2
+~
+~
+0 -1 33165 0
+D3
+~
+~
+0 -1 33167 0
+D4
+~
+~
+0 -1 33168 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33167
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+&3&bLa barriera di sabbia a nord sembra impenetrabile !&0
+~
+331 0 0
+D0
+~
+barriera~
+2 33103 33171 15
+D1
+~
+~
+0 -1 33166 0
+D2
+~
+~
+0 -1 33164 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33168
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D0
+~
+~
+0 -1 33170 0
+D5
+~
+~
+0 -1 33166 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33169
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D1
+~
+~
+0 -1 33164 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33170
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D2
+~
+~
+0 -1 33168 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33171
+L' altare di Hokron~
+&1Hai fatto del deserto la tua tana, per vedere tutto quello
+che possedevi scivolarti via come la sabbia tra le mani...&0
+&2Cosi' mi maledissero gli Dei!&0
+
+Sabbia, sabbia e solo sabbia... questo e' il tormento di Hokron!
+~
+331 128 0
+D2
+~
+barriera~
+2 33103 33167 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33172
+Gli spettri antichi~
+Un groviglio di spettri maledetti infesta questo luogo... sono le
+anime dannate di Hokron !
+Una di esse si accorge della tua presenza e si getta su di te...
+La senti spingere dentro la tua carne, entrare nel tuo corpo,
+rubarti i ricordi e sconfiggere definitivamente la tua vita!
+Addio Avventuriero!
+~
+331 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#33173
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D0
+~
+~
+0 -1 33172 0
+D3
+~
+~
+0 -1 33163 0
+D5
+~
+~
+0 -1 33174 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33174
+La maledizione di Hokron~
+Il tempio scavato nella roccia, una volta splendente, e' ora in
+rovina. Senti che cio' che e' rimasto della malvagita' di Hokron,
+dopo la sua morte, ha corrotto ogni singola roccia. Ai lati delle
+pareti vedi molti forzieri... ma sono stati gia' violati da
+qualcun altro!
+~
+331 0 0
+D4
+~
+~
+0 -1 33173 0
+D5
+~
+~
+0 -1 33175 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33175
+Le grotte del non ritorno~
+Un lungo e stretto cunicolo scende sottoterra. Sembra l'unica
+uscita del tempio maledetto, tuttavia un' &3iscrizione&0 ti
+avverte che potrebbe essere molto pericoloso.
+~
+331 321 0
+D4
+~
+~
+0 -1 33174 0
+D5
+~
+~
+0 -1 33176 0
+E
+iscrizione~
+Ancora piu' sotto, dove lo scivolare della sabbia si trasormera'
+in un lungo tormento... li' imprigioneremo le creature che si
+allearono con il blasfemo sacerdote della sabbia, affinche' non
+vedano mai piu' la luce del giorno, e si dimentichino dell'
+esistenza del mondo. Cosi' e' deciso.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33176
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 261 0
+D2
+~
+~
+0 -1 33177 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33177
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D0
+~
+~
+0 -1 33176 0
+D1
+~
+~
+0 -1 33178 0
+D2
+~
+~
+0 -1 33179 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33178
+I cunicoli oscuri~
+Cerchi di camminare cautamente, ma.... 
+*splot* un tuo piede affonda in una strana pozza di quella bava
+che cola dalle pareti ! Cerchi di tirarlo indietro inorridito, ma
+senti che qualcosa da sotto ti afferra e...
+
+Ti trascina verso le sue fauci con decine di tentacoli! Ormai sei
+completamente immobilizzato... cibo per mostri ! Addio !
+~
+331 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#33179
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D0
+~
+~
+0 -1 33177 0
+D1
+~
+~
+0 -1 33180 0
+D5
+~
+~
+0 -1 33192 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33180
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D0
+~
+~
+0 -1 33178 0
+D1
+~
+~
+0 -1 33181 0
+D3
+~
+~
+0 -1 33179 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33181
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D0
+~
+~
+0 -1 33183 0
+D1
+~
+~
+0 -1 33184 0
+D2
+~
+~
+0 -1 33182 0
+D3
+~
+~
+0 -1 33180 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33182
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D0
+~
+~
+0 -1 33181 0
+D4
+~
+~
+0 -1 33185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33183
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D2
+~
+~
+0 -1 33181 0
+D4
+~
+~
+0 -1 33185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33184
+I cunicoli oscuri~
+Ancora una volta ti sei perso nei meandri del sottosuolo...
+Questi dannati cunicoli sembrano tutti identici, non sara' facile
+uscire! Le pareti sono ricoperte da della strana bava rosa,
+piuttosto densa e gommosa.
+~
+331 1 0
+D3
+~
+~
+0 -1 33181 0
+D4
+~
+~
+0 -1 33185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33185
+Verso la luce~
+Finalmente hai trovato un cunicolo che sale verso l'alto. Ormai
+non riesci a pensare ad altro che ad andartene da questo posto
+maledetto... sempre se esista un modo per riuscirci!
+~
+331 1 0
+D0
+~
+~
+0 -1 33187 0
+D1
+~
+~
+0 -1 33186 0
+D2
+~
+~
+0 -1 33186 0
+D3
+~
+~
+0 -1 33186 0
+D5
+~
+~
+0 -1 33181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33186
+Verso la luce~
+Finalmente hai trovato un cunicolo che sale verso l'alto. Ormai
+non riesci a pensare ad altro che ad andartene da questo posto
+maledetto... sempre se esista un modo per riuscirci!
+~
+331 5 0
+D1
+~
+~
+0 -1 33189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33113
+#33187
+Le uova~
+Questo cunicolo e' stranamente silenzioso... la bava rosa e'
+molto piu' densa e sembra ricoprire decine e decine di uova!
+Con terrore realizzi che una Regina dei Beholder deve essere
+molto vicina...
+~
+331 1 0
+D0
+~
+~
+0 -1 33188 0
+D2
+~
+~
+0 -1 33185 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 33114
+#33188
+Il nido~
+Centinaia di uova ormai pronte a schiudersi ricoprono tutto il
+cunicolo. Al centro di esse, la loro madre si accorge della tua
+intrusione e si prepara a difenderle a costo della vita!
+~
+331 1 0
+D2
+~
+~
+0 -1 33187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33189
+Verso la luce~
+Finalmente hai trovato un cunicolo che sale verso l'alto. Ormai
+non riesci a pensare ad altro che ad andartene da questo posto
+maledetto... sempre se esista un modo per riuscirci!
+~
+331 1 0
+D3
+~
+~
+0 -1 33186 0
+D4
+~
+~
+0 -1 33190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33190
+Verso la luce~
+Finalmente hai trovato un cunicolo che sale verso l'alto. Ormai
+non riesci a pensare ad altro che ad andartene da questo posto
+maledetto... sempre se esista un modo per riuscirci!
+~
+331 1 0
+D4
+~
+~
+0 -1 33191 0
+D5
+~
+~
+0 -1 33189 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33191
+Gli ultimi sforzi~
+Finalmente intravedi la luce del sole!!!
+Coraggio manca poco, non puoi arrenderti adesso!
+~
+331 0 0
+D4
+~
+~
+0 0 1401566 0
+D5
+~
+~
+0 -1 33190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33192
+Una ripidissima discesa~
+CADIIIII verso il basso!!!
+
+.......................................
+~
+331 5 0
+D4
+~
+~
+0 -1 33179 0
+D5
+~
+~
+0 -1 33193 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33193
+I sotterranei maledetti~
+Questi cunicoli sono caldissimi e l' aria e' sempre piu' rarefatta,
+capisci che qua sono stati confinati, per punizione, gli esseri
+piu' malvagi che aiutarano Hokron nelle sue imprese.
+~
+331 1 0
+D4
+~
+~
+0 -1 33192 0
+D5
+~
+~
+0 -1 33194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33194
+I sotterranei maledetti~
+Questi cunicoli sono caldissimi e l' aria e' sempre piu' rarefatta,
+capisci che qua sono stati confinati, per punizione, gli esseri
+piu' malvagi che aiutarano Hokron nelle sue imprese.
+~
+331 1 0
+D4
+~
+~
+0 -1 33193 0
+D5
+~
+~
+0 -1 33195 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33195
+I sotterranei maledetti~
+Questi cunicoli sono caldissimi e l' aria e' sempre piu' rarefatta,
+capisci che qua sono stati confinati, per punizione, gli esseri
+piu' malvagi che aiutarano Hokron nelle sue imprese.
+~
+331 1 0
+D1
+~
+~
+0 -1 33196 0
+D4
+~
+~
+0 -1 33194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33196
+I sotterranei maledetti~
+Questi cunicoli sono caldissimi e l' aria e' sempre piu' rarefatta,
+capisci che qua sono stati confinati, per punizione, gli esseri
+piu' malvagi che aiutarano Hokron nelle sue imprese.
+~
+331 1 0
+D3
+~
+~
+0 -1 33195 0
+D5
+~
+~
+0 -1 33197 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33197
+I sotterranei maledetti~
+Questi cunicoli sono caldissimi e l' aria e' sempre piu' rarefatta,
+capisci che qua sono stati confinati, per punizione, gli esseri
+piu' malvagi che aiutarano Hokron nelle sue imprese.
+~
+331 1 0
+D4
+~
+~
+0 -1 33196 0
+D5
+~
+~
+0 -1 33198 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33198
+I sotterranei maledetti~
+Questi cunicoli sono caldissimi e l' aria e' sempre piu' rarefatta,
+capisci che qua sono stati confinati, per punizione, gli esseri
+piu' malvagi che aiutarano Hokron nelle sue imprese.
+~
+331 1 0
+D4
+~
+~
+0 -1 33197 0
+D5
+~
+~
+0 -1 33199 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#33199
+&1&bLa Tana dell' Orrore&0~
+Questo e' il luogo dove e' stato dannato il Drago che utilizzo'
+la sua potente magia per procreare con le sacerdotesse di Hokron
+i temutissimi uominidrago del deserto. La specie si estinse dopo
+la sconfitta del Sacerdote, e il Drago e' stato lasciato qua
+perche' rifletta sempre su cio' che aveva fatto.
+~
+331 65 0
+D4
+~
+~
+0 -1 33198 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

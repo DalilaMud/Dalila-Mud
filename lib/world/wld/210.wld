@@ -1,0 +1,2985 @@
+#21001
+Le Porte di Chyrellos~
+   Rimani di stucco davanti allo splendore di Chyrellos.
+Per quanto ti sforzi, non vedi altro che guglie e campanili che svettano alti
+nel cielo. Sei finalmente arrivato nella citta' santa di Chyrellos!!!
+~
+210 0 1
+D0
+Vedi un'indaffarata Piazza del Cavaliere.
+~
+~
+0 -1 21002 0
+D3
+~
+~
+0 0 21122 0
+D5
+Vedi il quartiere residenziale di Chyrellos.
+~
+~
+0 0 22000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21002
+Piazza del Cavaliere Centrale~
+   Appena entri nella piazza un grosso mercante ti si para davanti e cerca
+di venderti i suoi costosi articoli. Quando comprende che non hai nessuna
+intenzione di comprare la sua merce, scompare cosi' velocemente come
+era apparso.
+Piazza del Cavaliere continua ad est e ad ovest. A nord vedi il centro di
+Chyrellos.
+~
+210 0 1
+D0
+A nord c'e' Via delle Rose, la strada principale della citta'.
+~
+~
+0 -1 21003 0
+D1
+Piazza del Cavaliere continua ad est.
+~
+~
+0 -1 21004 0
+D2
+A sud c'e' l'entrata alla citta' di Chyrellos.
+~
+~
+0 -1 21001 0
+D3
+Piazza del Cavaliere continua ad ovest.
+~
+~
+0 -1 21005 0
+D5
+~
+cella~
+1 0 21199 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21003
+Via delle Rose~
+   Sei in Via delle Rose, la citta' principale di Chyrellos. File e file di
+negozi si affacciano sulla strada. Sei impressionato.
+Ad occhio e croce ti sembra che la citta' sia almeno 1000 volte meglio
+di Deira.
+Ad est c'e' la Pescheria. Ad ovest si va verso Tin Can Alley, la strada
+economica della citta'. Via delle Rose continua a nord.
+~
+210 4 1
+D0
+Vedi che Via delle Rose continua.
+~
+~
+0 -1 21006 0
+D1
+Vedi la Pescheria.
+~
+~
+0 -1 21007 0
+D2
+Vedi l'indaffarata Piazza del Cavaliere.
+~
+~
+0 -1 21002 0
+D3
+Vedi Tin Can Alley.
+~
+~
+0 -1 21008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21004
+Piazza del Cavaliere Est~
+   Ora sei nella sezione est della piazza. Di quei noiosi negozianti ce ne sono
+meno qui, ma ci sono un mucchio di personaggi che sembra non abbiano
+niente da fare.
+La piazza continua a sud e ad ovest.
+~
+210 0 1
+D2
+Vedi che la piazza continua a sud.
+~
+~
+0 -1 21009 0
+D3
+Vedi la centrale Piazza del Cavaliere.
+~
+~
+0 -1 21002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21005
+Piazza del Cavaliere Ovest~
+   Una grossa folla rallenta il tuo cammino. Qualcuno ti riconosce
+e cerca di nascondersi fra la moltitudine di gente accalcata.
+La piazza continua a sud e ad est.
+~
+210 0 1
+D1
+Vedi la centrale piazza del cavaliere.
+~
+~
+0 -1 21002 0
+D2
+Vedi che la piazza continua a sud.
+~
+~
+0 -1 21010 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21006
+Via delle Rose~
+   Sei davanti ad uno dei 200 negozi di Via delle Rose. Ad est vedi
+l'entrata alla Taverna. Ad ovest c'e' l'entrata della Farmacia.
+~
+210 0 1
+D0
+Via delle Rose continua.
+~
+~
+0 -1 21011 0
+D1
+Vedi la costosa, fragile vetrina della Sexy Taverna.
+~
+~
+0 -1 21012 0
+D2
+Ancora Via delle Rose.
+~
+~
+0 -1 21003 0
+D3
+Vedi la Farmacia di Harry.
+~
+~
+0 -1 21013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21007
+Pescheria di Charlie~
+   Come entri nella pescheria, sei travolto dal forte odore di pesce. Lungo
+il muro posteriore noti una grande quantita' di pesce. Dopo un attimo, ti
+accorgi che e' tonno. C'e una grande lavagna nera appesa al muro con la
+lista dei pesci fra i quali puoi scegliere.
+Digita <list> per vedere la lista dei prodotti.
+~
+210 8 0
+D3
+Attraverso le finestre sporche riesci a vedere Via delle Rose.
+~
+~
+0 -1 21003 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21008
+Tin Can Alley~
+   Sei attento in quanto questa e' la strada economica della citta' di
+Chyrellos. Fra tanta gente per bene sicuramente girovagano anche criminali
+e poco di buono.
+Vedi l'entrata alla gilda dei Cavalieri Alcioni a sud. Il vicolo continua
+ad ovest.
+Via delle Rose e' ad est.
+~
+210 0 1
+D1
+Vedi Via delle Rose.
+~
+~
+0 -1 21003 0
+D2
+Un brivido ti corre lungo la schiena quando il tuo sguardo si posa sull'entrata
+della gilda dei Cavalieri Alcioni.
+~
+~
+0 -1 21014 0
+D3
+Il Vicolo continua ad ovest.
+~
+~
+0 -1 21015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21009
+Nel Palazzo della Corporazione dei Tessitori~
+   Sei nel palazzo della Corporazione dei Tessitori. Vedi tanti abili
+artigiani che corrono indaffarati da una parte all'altra del locale.
+A nord c'e' la fine orientale di piazza del cavaliere.
+~
+210 0 1
+D0
+Vedi la fine orientale di piazza del cavaliere.
+~
+~
+0 -1 21004 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21010
+Nel Palazzo della Corporazione degli Orafi~
+Sei nel palazzo della Corporazione degli Orafi. Vedi tanti abili
+artigiani che corrono indaffarati da una parte all'altra del locale.
+A nord c'e' la fine occidentale di piazza del cavaliere.
+~
+210 0 1
+D0
+Vedi la fine occidentale di piazza del cavaliere.
+~
+~
+0 -1 21005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21011
+Via delle Rose~
+   Sei davanti a dei negozi in Via delle Rose. Ad est c'e' l'armeria e
+ad ovest c'e' il Seven-Eleven. Via delle Rose continua a nord e a sud di qui.
+~
+210 0 1
+D0
+Ancora Via delle Rose.
+~
+~
+0 -1 21016 0
+D1
+Vedi l'Armeria.
+~
+~
+0 -1 21017 0
+D2
+Via delle Rose continua.
+~
+~
+0 -1 21006 0
+D3
+Vedi un conveniente negozio 7-11.
+~
+~
+0 -1 21018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21012
+La Sexy Taverna~
+   No, questo non e' un posto dove puoi trovare cantanti settantenni.
+Qui si commemorano gli avvenimenti dell'ultimo decennio. Arazzi con scene
+di caccia prosperose ragazze adornano la parete. C'e' un'atmosfera sognante
+nella Taverna. Ti accorgi che in un angolo cresce una piantina di marijuana.
+   Ad ovest, puoi tornare in Via delle Rose (e al mondo reale).
+~
+210 8 0
+D3
+Puoi uscire verso Via delle Rose se scavalchi la massa di corpi che si frappone
+fra te e la porta.
+~
+~
+0 -1 21006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21013
+La Farmacia di Harry~
+   Come entri nella stanza, sei avvolto dall'odore di incenso.
+Senti in sottofondo un canto di ballate religiose che provengono dal retro.
+Avvicinandoti al cassiere, ti accorgi che e' un abitante di Rendor. Ti chiedi
+se per caso non sia un Eshandist che propaganda la sua eresia.
+In ogni caso, puoi pagare poco le merci che comprerai qui.
+L'entrata alla gilda dei Cavalieri Cyrinic e' ad ovest. Via delle Rose e'
+ad est.
+~
+210 520 0
+D1
+Vedi Via delle Rose.
+~
+~
+0 -1 21006 0
+D3
+Vedi la gilda dei Cavalieri Cyrinic.
+~
+~
+0 -1 21019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21014
+L'Entrata alla Gilda dei Cavalieri Alcioni~
+   Questa e' l'entrata alla Gilda dei Cavalieri Alcioni.
+Il Bar dei Cavalieri e'a sud di qui e Tin Can Alley e' a nord.
+~
+210 8 0
+D0
+Vedi Tin Can Alley.
+~
+~
+0 -1 21008 0
+D2
+Vedi il Bar.
+~
+~
+0 -1 21095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21015
+Tin Can Alley~
+   Stai camminando lungo Tin Can Alley, che porta nella parte peggiore
+della citta'. Considerando come e' la situazione qui, non ti immagini nemmeno
+come possa essere la'.
+   Tin Can Alley continua ad est e ad ovest.
+~
+210 0 1
+D1
+Ancora Tin Can Alley.
+~
+~
+0 -1 21008 0
+D3
+Ancora Tin Can Alley.
+~
+~
+0 -1 21022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21016
+L'intersezione fra Via dei Tigli e Via delle Rose~
+   Qui Via delle Rose attraversa un'altra strada principale, Via dei Tigli,
+che attraversa da est ad ovest la città'. Via dei Tigli non e' largo come
+Via delle Rose, ma porta sia All'Hell's Kitchen che alla nuova arena.
+Via delle Rose continua a nord e a sud; Via dei Tigli si estende ad ovest
+verso Hell's Kitchen e ad est verso lo stadio.
+~
+210 0 1
+D0
+Ancora Via delle Rose.
+~
+~
+0 -1 21066 0
+D1
+Vedi Via dei Tigli.
+~
+~
+0 -1 21029 0
+D2
+Via delle Rose continua.
+~
+~
+0 -1 21011 0
+D3
+Vedi Via dei Tigli.
+~
+~
+0 -1 21114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21017
+L'Armeria~
+   L'Armeria e' autoesplicativa. Questo e' il posto dove comprare
+e vendere le armi (cos'altro ti saresti aspettato?)
+   La Gilda dei Cavalieri Genidian e' ad est e Via delle Rose ad ovest.
+~
+210 6664 0
+D1
+Vedi l'entrata alla Gilda dei Cavalieri Genidian.
+~
+~
+0 -1 21023 0
+D3
+Vedi Via delle Rose attraverso la finestra.
+~
+~
+0 -1 21011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21018
+Il Seven-Eleven~
+   Con tua sorpresa, c'e' un amichevole 7-11 in Chyrellos. Come tutti
+gli altri 7-11, qui puoi comprare molti beni a prezzi scontati a tutte
+le ore del giorno. E che cosa sarebbe un 7-11 senza un impiegato
+straniero con uno strano accento?
+~
+210 8 0
+D1
+E' Via delle Rose.
+~
+~
+0 -1 21011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21019
+L'Entrata alla Gilda dei Cavalieri Cyrinic~
+   L'atrio d'entrata e' una piccola e modesta stanza che rispecchia la
+vera natura dei Cavalieri Cyrinic.
+   La farmacia di Harry e' ad est ed il bar ad ovest.
+~
+210 8 0
+D1
+La farmacia di Harry.
+~
+~
+0 -1 21013 0
+D3
+Vedi il Bar dei Cyrinic.
+~
+~
+0 -1 21020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21020
+Il Bar dei Cyrinic~
+   Il Bar e' uno dei piu' fini della terra, fortunatamente e' per soli membri.
+Pregiati mobili arredano tutta la stanza. Un piccolo cartello e' appeso
+al muro.
+~
+210 8 0
+D1
+Entrata alla Gilda dei Cavalieri Cyrinic.
+~
+~
+0 -1 21019 0
+D3
+Il Rifugio dei Cyrinic.
+~
+~
+0 -1 21021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21021
+Il Rifugio dei Cyrinic~
+   Questo e' il suolo sacro dei Cyrinic. Ti senti in pace col mondo
+qui e nello stesso tempo senti che il posto sprigiona uno strano
+potere.
+   Il Bar dei Cyrinic e' ad est.
+~
+210 8 0
+D1
+Il Bar dei Cyrinic.
+~
+~
+0 -1 21020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21022
+Tin Can Alley~
+   Piu' tempo stai nel vicolo, piu' ti convinci che questo non e' il posto per
+te. Poi ti viene in mente tutte le piu' belle cose che hai visto in Chyrellos
+e quanto vorresti essere la'!
+A sud c'e' Via delle Virtu', un cancello che immette a Hell's Kitchen e' ad
+ovest e Tin Can Alley continua ad est verso Via delle Rose.
+~
+210 0 1
+D1
+Vedi Tin Can Alley.
+~
+~
+0 -1 21015 0
+D2
+Vedi Via delle Virtu', il famoso distretto a luci rosse.
+~
+~
+0 -1 21026 0
+D3
+Vedi il cancello chiuso che protegge la citta' dai cittadini di Hell's Kitchen.
+~
+cancello~
+2 -1 21115 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21023
+L'Entrata alla Gilda dei Cavalieri Genidian~
+   Questa e' l'entrata alla Gilda dei Cavalieri Genidian, un posto dove
+bisogna stare attenti a quello che si dice (o che non si dice).
+Il Bar dei Genidian e' a sud e l'Armeria e' ad ovest.
+~
+210 8 0
+D2
+Vedi il Bar dei Genidian.
+~
+~
+0 -1 21024 0
+D3
+Vedi l'Armeria.
+~
+~
+0 -1 21017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21024
+Il Bar dei Genidian~
+ Il Bar dei Genidian una volta era arredato molto bene, ma ora i
+mobili sono in piccoli spezzi sparsi tutto attorno a te.
+   A sud vedi il Cortile di Addestramento e Torneo e a nord c'e'
+l'Entrata alla Gilda dei Cavalieri Genidian.
+~
+210 8 0
+D0
+Vedi l'entrata alla Gilda dei Cavalieri Genidian.
+~
+~
+0 -1 21023 0
+D2
+Vedi il Cortile di Addestramento e Torneo
+~
+~
+0 -1 21025 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21025
+Il Cortile di Addestramento e di Torneo~
+   Il campo di pratica dei combattenti. A nord c'e' il bar.
+~
+210 8 0
+D0
+Vedi il Bar dei Cavalieri Genidian.
+~
+~
+0 -1 21024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21026
+Via delle Virtu'~
+   Sei nel famoso quartiere a luci rosse di Chyrellos (hey, ogni citta'
+ne ha almeno uno), un piacevole posto dove spendere i soldi in un giorno
+piovoso (un'ulteriore ragione per imparare Control Weather).
+   Ad est c'e' il Peep Show di Pee Wee e a sud continua Via delle Corporazioni.
+~
+210 0 1
+D0
+Vedi Tin Can Alley.
+~
+~
+0 -1 21022 0
+D1
+Vedi il Peep Show di Pee Wee.
+~
+~
+0 -1 21027 0
+D2
+Vedi una buona parte di Via delle Virtu'.
+~
+~
+0 -1 21028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21027
+Il Peep Show di Pee Wee~
+   Appena entrato, i tuoi occhi immediatamente si fissano sulle
+sgargianti danzatrici che sono qui per tuo divertimento. Pee Wee
+e' occupato in un angolo a fare qualcosa. Meno male che non ci
+sono le guardie!
+Via delle Virtu' e' ad ovest.
+~
+210 8 0
+D3
+Se riuscissi mai a distogliere la tua attenzione da queste turbinanti
+donne, ad ovest vedresti Via delle Virtu'.
+~
+~
+0 -1 21026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21028
+Via delle Virtu'~
+   Questa e' la fine della strada. Ci sono delle scritte sulla parete a sud.
+Via delle Virtu' e' a nord.
+~
+210 0 1
+D0
+Vedi Via delle Virtu'.
+~
+~
+0 -1 21026 0
+E
+scritte~
+Prova Peggy da Pee Wee, e' la migliore!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21029
+Via dei Tigli~
+   Sei nella parte ovest di Via dei Tigli. Lontano ad est vedi il
+WarDome. Via delle Virtu' e' ad ovest.
+~
+210 0 1
+D1
+Vedi l'entrata al WarDome.
+~
+~
+0 -1 21030 0
+D3
+Vedi Via delle Virtu'.
+~
+~
+0 -1 21016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21030
+L'Entrata al WarDome~
+   Guardi con suggestione il mastodontico palazzo. E' un capolavoro di
+architettura, circondato da gigantesche colonne di marmo sormontate
+da statue dorate raffiguranti i tipici spettatori da arena  -- belle, ma al
+tempo stesso abbastanza grottesche. Una cupola ricopre l'arena ma se
+le condizioni del tempo sono ideali, la si puo' togliere. Un cartello e'
+appeso al muro.
+Via dei Tigli e' ad ovest, ad est ti porta nell'arena.
+~
+210 0 1
+D1
+Vedi dentro il WarDome.
+~
+~
+0 -1 21031 0
+D3
+Via dei Tigli continua.
+~
+~
+0 -1 21029 0
+E
+cartello~
+ 
+        **********************************************************
+        *                                                        *
+        *                         WarDome                        *
+        *                         -------                        *
+        *                   Capacita': 82,172                    *
+        *                                                        *
+        *       Oggi:            Gli  Atan                       *
+        *                           vs.                          *
+        *                        Gli Orchi                       *
+        *                                                        *
+        *                                                        *
+        *                     SOLO POSTI IN PIEDI                *
+        **********************************************************
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21031
+Dentro al WarDome~
+   L'interno dell'arena presenta un drammatico contrasto. Come per
+l'esterno, i palchi offrono le piu' lussuriose sistemazioni per gli
+spettatori. Il campo tuttavia, e' un terreno di battaglia composto da
+fango, prato e rocce sormontato da un muro di pietra alto 8 piedi. Ci
+sono due entrate sul campo di gioco - sebbene la partecipazione degli
+spettatori sia bene accetta, non e' sicuramente raccomandabile.
+Ad est c'e' il Settore Blue, a nord i Palchi Ovest. Andando ad ovest
+esci dallo stadio.
+~
+210 12 0
+D0
+Vedi i Palchi Ovest.
+~
+~
+0 -1 21032 0
+D1
+Vedi il Settore Blue.
+~
+~
+0 -1 21043 0
+D3
+Vedi l'esterno del WarDome.
+~
+~
+0 -1 21030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21032
+I Palchi Ovest~
+   Sei nei Palchi Ovest, l'entrata generale del WarDome.
+Diversi spettatori sono qui che osservano gli incontri.
+I Palchi Ovest proseguono a nord, e l'angolo sudovest
+dell'arena e' a sud.
+~
+210 8 1
+D0
+Vedi una gran parte dei Palchi Ovest.
+~
+~
+0 -1 21033 0
+D2
+Vedi l'angolo sudovest del WarDome.
+~
+~
+0 -1 21031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21033
+I Palchi Ovest~
+   Sei nei Palchi Ovest, l'entrata generale del WarDome.
+Diversi spettatori sono qui che osservano gli incontri.
+I Palchi Ovest proseguono a nord e sud.
+~
+210 8 1
+D0
+Vedi una gran parte dei Palchi Ovest.
+~
+~
+0 -1 21034 0
+D2
+Vedi una gran parte dei Palchi Ovest.
+~
+~
+0 -1 21032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21034
+I Palchi Ovest~
+   Sei al centro dei Palchi Ovest i quali si affacciano sul centro del
+campo. Noti che sotto di te ci sono delle scale che portano verso il
+campo dei giochi. Se segui il tuo istinto per l'avventura sei pronto a
+scendere giu'...
+I Palchi Ovest continuano a nord e a sud, le scale scendono al livello
+del campo.
+~
+210 8 1
+D0
+Vedi una gran parte dei Palchi Ovest.
+~
+~
+0 -1 21035 0
+D2
+Vedi una gran parte dei Palchi Ovest.
+~
+~
+0 -1 21033 0
+D5
+Vedi le scale che scendono la livello del campo... portano verso l'AZIONE!!!
+~
+~
+0 -1 21046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21035
+I Palchi Ovest~
+    Sei nei Palchi Ovest, l'entrata generale del WarDome.
+Diversi spettatori sono qui che osservano gli incontri. I palchi si affacciano
+sulla zona occupata dagli Orchi.
+I palchi continuano a nord e a sud.
+~
+210 8 1
+D0
+Vedi i Palchi Ovest.
+~
+~
+0 -1 21036 0
+D2
+Vedi i Palchi Ovest
+~
+~
+0 -1 21034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21036
+I Palchi Ovest~
+   Sei alla fine settentrionale dei Palchi Ovest. Questa e' probabilmente
+la peggior sistemazione per vedere gli incontri, ma e' il posto migliore
+per vedere le gladiatrici.
+I Palchi Ovest continuano a sud, a nord c'e' l'angolo di nordovest del
+WarDome.
+~
+210 8 1
+D0
+Vedi l'angolo di nordovest del WarDome.
+~
+~
+0 -1 21037 0
+D2
+Vedi i Palchi Ovest.
+~
+~
+0 -1 21035 0
+E
+gladiatrici~
+Questo gruppo di bionde, brune e rosse e' uno dei piu' sbalorditivi che
+tu abbia visto. Sono il meglio che Chyrellos ha da offrire.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21037
+L'angolo di nordovest del WarDome~
+   Sei forse nel posto piu' silenzioso e piu' desolato di tutto il WarDome.
+Raramente qualcuno viene in questo posto eccetto i gladiatori e lo
+staff del WarDome..
+I Palchi Ovest sono a sud e ad est c'e' il WarVision, la sezione dei
+giudici dell'arena.
+~
+210 12 0
+D1
+Vedi la parte posteriore del WarVision.
+~
+~
+0 -1 21038 0
+D2
+Vedi i Palchi Ovest.
+~
+~
+0 -1 21036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21038
+Dietro il WarVision~
+   Sei dietro alla postazione degli arbitri. A nord vedi la Casa del
+Custode, che e' stata chiusa al pubblico.
+Il passaggio dietro la postazione continua ad est, ad ovest c'e'
+l'angolo di nordovest del WarDome.
+~
+210 8 0
+D1
+Il passaggio continua.
+~
+~
+0 -1 21039 0
+D3
+Vedi l'angolo di nordovest del WarDome.
+~
+~
+0 -1 21037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21039
+Il Passaggio dietro il WarVision~
+   Stai camminando dietro il WarVision nelle vicinanze degli
+spogliatoi dei gladiatori. Il passaggio continua ad est e ad ovest.
+~
+210 8 0
+D1
+Vedi quello che credi essere la fine del passaggio.
+~
+~
+0 -1 21040 0
+D3
+Il passaggio continua.
+~
+~
+0 -1 21038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21040
+La Fine del Passaggio~
+   Come arrivi alla fine del passaggio, trovi l'entrata ai Palchi Est
+del WarDome -- i SuperPalchi. Sfortunatamente non ti e' concesso
+entrare perche' sono riservati ai nobili ed ai connestabili della citta'.
+C'e' un cartello sulla porta dei SuperPalchi
+Dopo aver superato il disappunto per l'inconveniente (avresti sempre
+desiderato vedere un SuperPalco), noti che qualche anima pia ha
+gentilmente lasciato aperta la porta dello spogliatoio dei Visitatori,
+invitandoti cosi' ad entrare.
+Il passaggio porta ad ovest, a nord puoi entrare nello spogliatoio.
+~
+210 12 0
+D0
+Vedi la porta aperta dello spogliatoio dei Visitatori.
+~
+porta~
+0 -1 21041 0
+D3
+Il passaggio continua.
+~
+~
+0 -1 21039 0
+E
+cartello~
+ 
+                 ******************************************
+                 *                                        * 
+                 *            WarDome SuperPalchi         *
+                 *            ------------------          *
+                 *    I SuperPalchi sono riservati ai     *
+                 *    ricchi ed ai privilegiati. Se non   *
+                 *    rientri in una di queste categorie, *
+                 *    LASCIA PERDERE!!!!!                 *
+                 *                       Grazie,          *
+                 *                       La Direzione     *
+                 *                                        *
+                 ******************************************
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21041
+Lo Spogliatoio dei Visitatori~
+   Cio' che vedi e' il tipico spogliatoio da gladiatori, pieno di
+fango, sangue e pezzi assortiti di equipaggiamento.
+Ad ovest c'e' la doccia, a sud c'e' il passaggio.
+~
+210 8 0
+D2
+Vedi il passaggio.
+~
+~
+0 -1 21040 0
+D3
+Vedi la doccia.
+~
+~
+0 -1 21042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21042
+La Doccia~
+   Sei in una cupa stanza che sembra essere sorprendentemente
+decrepita se confrontata con il WarDome. Difficile che qualcuno possa
+lavarsi qui. Ti guardi intorno attraverso la fioca luce e noti che c'e' una
+grata nascosta nell'angolo lontano. Incuriosito, sollevi la grata e trovi
+una lunga scala che scende nell'oscurita'.
+~
+210 8 0
+D1
+Vedi la stanza chiusa.
+~
+~
+0 -1 21041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21043
+Il Settore Blue~
+   Ahh, il famoso Settore Blue.  Questo settore e' utilizzato
+dai tifosi piu' sfegatati e non vorresti proprio incontrarli.
+Ignobili, sudati, libidinosi, rudi, grezzi e di solito ubriachi --
+questo non e' il posto per i deboli di cuore.
+Il Settore Blue continua ad est, ad ovest c'e' l'uscita dal WarDome.
+~
+210 8 1
+D1
+Vedi la maggior parte del Settore Blue.
+~
+~
+0 -1 21044 0
+D3
+Vedi l'uscita dal WarDome.
+~
+~
+0 -1 21031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21044
+Il Settore Blue~
+   Sei al centro del Settore Blue -- territorio certamente pericoloso.
+Se ti senti pronto per una sfida, puoi sempre scendere i gradini che
+scendono verso il campo di gioco.
+Il Settore Blue continua ad est e ad ovest, le scale scendono a livello
+del campo.
+~
+210 8 1
+D1
+Il Settore Blue continua.
+~
+~
+0 -1 21045 0
+D3
+Il Settore Blue continua.
+~
+~
+0 -1 21043 0
+D5
+Gradini portano sul campo.
+~
+~
+0 -1 21047 0
+E
+gradini~
+Molti si sono avventurati giu' per questi gradini... pochi ne sono tornati.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21045
+Il Settore Blue~
+   Sei nel settore di gradinata piu' libidinoso che qualcuno abbia mai
+visto o sentito. Se sei un Alcione ti conviene tapparti le orecchie.
+Il Settore Blue continua ad ovest.
+~
+210 8 1
+D3
+Vedi il Settore Blue.
+~
+~
+0 -1 21044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21046
+Il Tunnel~
+   Sei alla fine di un lungo tunnel, il lungo passaggio dove i piu'
+impavidi gladiatori riordinano i loro pensieri prima di scendere sul
+terreno di battaglia. C'e' una luce alla fine del tunnel che ti invita
+ad entrare.
+Senti il rumore della folla e dentro di te sorge un istinto animalesco.
+Perche' non entri nell'arena?
+Sopra di te ci sono le gradinate, ad est il campo.
+~
+210 12 0
+D1
+Vedi il campo che ti aspetta.
+~
+~
+0 -1 21048 0
+D4
+Vedi le gradinate sopra di te.
+~
+~
+0 -1 21034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21047
+Il Tunnel~
+   Sei alla fine di un lungo tunnel, il lungo passaggio dove i piu'
+impavidi gladiatori riordinano i loro pensieri prima di scendere sul
+terreno di battaglia. C'e' una luce alla fine del tunnel che ti invita
+ad entrare.
+Senti il rumore della folla e dentro di te sorge un istinto animalesco.
+Perche' non entri nell'arena?
+Sopra di te ci sono le gradinate, a nord il campo.
+~
+210 12 0
+D0
+Vedi il campo che ti aspetta.
+~
+~
+0 -1 21052 0
+D4
+Sopra di te ci sono le gradinate.
+~
+~
+0 -1 21044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21048
+Il Bordo dell'Arena~
+   Sei al centro dei combattimenti. A sud c'e' la zona degli
+Atan, a nord gli Orchi. Il centro dell'arena e' ad est ed il tunnel
+ad ovest.
+~
+210 8 1
+D0
+Vedi la zona degli Orchi.
+~
+~
+0 -1 21061 0
+D1
+Vedi il centro dell'arena.
+~
+~
+0 -1 21053 0
+D2
+Vedi il territorio degli Atan.
+~
+~
+0 -1 21049 0
+D3
+Vedi il tunnel.
+~
+~
+0 -1 21046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21049
+Il Territorio degli Atan~
+   Sei nelle retrovie degli Atan. A nord vedi la linea che delimita
+la meta' del campo degli Atan, a sud c'e' la fine dell'arena.
+Il campo continua ad est.
+~
+210 8 1
+D0
+Vedi la linea che delimita la meta' del campo degli Atan.
+~
+~
+0 -1 21048 0
+D1
+Il campo continua.
+~
+~
+0 -1 21051 0
+D2
+Vedi la fine dell'arena di Chyrellos.
+~
+~
+0 -1 21050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21050
+La Fine del Territorio degli Atan~
+   Sei alla fine del territorio degli Atan, l'inviolabile terreno della loro
+squadra. E' decorato coi colori della squadra e c'e' il loro simbolo,
+un fiero guerriero.
+La fine del territorio continua ad est. A nord c'e una linea difensiva
+degli Atan.
+~
+210 8 1
+D0
+Vedi la zona difensiva.
+~
+~
+0 -1 21049 0
+D1
+La fine della zona continua.
+~
+~
+0 -1 21052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21051
+Il Territorio degli Atan~
+   Sei nella linea difensiva degli Atan. A nord c'e' il centro dell'arena,
+a sud la fine dell'arena. il campo continua ad est e ad ovest.
+~
+210 8 1
+D0
+Vedi il centro dell'arena.
+~
+~
+0 -1 21053 0
+D1
+Il campo continua.
+~
+~
+0 -1 21057 0
+D2
+Vedi la fine dell'arena di Chyrellos.
+~
+~
+0 -1 21052 0
+D3
+Il campo continua.
+~
+~
+0 -1 21049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21052
+La Fine del Territorio degli Atan~
+   Sei alla fine del territorio degli Atan, l'inviolabile terreno della loro
+squadra. E' decorato coi colori della squadra e c'e' il loro simbolo,
+un fiero guerriero.
+La fine dell'arena continua ad est e ad ovest. A nord c'e' la linea
+difensiva degli Atan, a sud c'e' il tunnel.
+~
+210 8 1
+D0
+Vedi la linea difensiva.
+~
+~
+0 -1 21051 0
+D1
+La fine dell'arena continua.
+~
+~
+0 -1 21056 0
+D2
+Vedi il tunnel.
+~
+~
+0 -1 21047 0
+D3
+La fine dell'arena continua.
+~
+~
+0 -1 21050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21053
+Il Centro dell'Arena~
+   Questo e' il centro di tutte le azioni nel WarDome. Corpi che volano
+(e anche parti di corpo) sono tutto attorno a te.
+Le rispettive zone difensive sono a nord e a sud e la linea mediana
+dell'arena va da est ad ovest.
+~
+210 8 1
+D0
+Vedi la zona difensiva degli Orchi.
+~
+~
+0 -1 21054 0
+D1
+La linea mediana.
+~
+~
+0 -1 21055 0
+D2
+Vedi la linea difensiva di Chyrellos.
+~
+~
+0 -1 21051 0
+D3
+La linea mediana.
+~
+~
+0 -1 21048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21054
+Il Territorio degli Orchi~
+   Sei nella retroguardia degli Orchi. A sud c'e' il centro dell'arena,
+a nord la fine dell'arena. Il campo continua ad est e ad ovest.
+~
+210 8 1
+D0
+Vedi la fine del territorio degli Orchi.
+~
+~
+0 -1 21062 0
+D1
+Il campo continua.
+~
+~
+0 -1 21058 0
+D2
+Vedi il centro dell'arena.
+~
+~
+0 -1 21053 0
+D3
+Il campo continua.
+~
+~
+0 -1 21061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21055
+La Linea Mediana~
+   Sei al centro delle azioni. A sud c'e' la zona degli Atan, a
+nord gli Orchi. Il centro dell'arena e' ad ovest.
+~
+210 12 1
+D0
+Vedi il territorio degli Orchi.
+~
+~
+0 -1 21058 0
+D2
+Vedi il territorio degli Atan.
+~
+~
+0 -1 21057 0
+D3
+Vedi il centro dell'arena.
+~
+~
+0 -1 21053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21056
+La Fine del Territorio degli Atan~
+   Sei alla fine del territorio degli Atan, l'inviolabile terreno della loro
+squadra. E' decorato coi colori della squadra e c'e' il loro simbolo,
+un fiero guerriero.
+Il loro territorio continua ad ovest. A nord c'e' la linea difensiva degli
+Atan.
+~
+210 8 1
+D0
+Vedi la linea difensiva.
+~
+~
+0 -1 21057 0
+D3
+La fine dell'arena continua.
+~
+~
+0 -1 21052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21057
+Il Territorio degli Atan~
+   Sei nel territorio difensivo degli Atan. A nord c'e' la linea mediana,
+a sud la fine dell'arena. Il campo continua ancora ad ovest.
+~
+210 8 1
+D0
+Vedi la linea mediana.
+~
+~
+0 -1 21055 0
+D2
+Vedi la fine dell'arena di Chyrellos.
+~
+~
+0 -1 21056 0
+D3
+Il campo continua.
+~
+~
+0 -1 21051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21058
+Il Territorio degli Orchi~
+   Sei nella linea difensiva degli Orchi A sud c'e' la linea
+mediana, a nord la fine dell'arena. Il campo continua ancora ad ovest.
+~
+210 8 1
+D0
+Vedi la fine del territorio degli Orchi.
+~
+~
+0 -1 21059 0
+D2
+Vedi la linea mediana.
+~
+~
+0 -1 21055 0
+D3
+Il campo continua.
+~
+~
+0 -1 21054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21059
+La Fine del Territorio degli Orchi~
+   Sei alla fine del territorio degli Orchi, l'inviolabile terreno della loro
+squadra. team. E' decorato coi colori della squadra e c'e' il loro simbolo,
+la testa di un gladiatore adornata da uno scudo nero, ricorda un po'
+la bandiera dei pirati.
+La fine dell'arena continua ad ovest. A sud c'e' la linea difensiva
+degli Orchi.
+~
+210 8 1
+D2
+Vedi la Linea difensiva.
+~
+~
+0 -1 21058 0
+D3
+La fine dell'arena continua.
+~
+~
+0 -1 21062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21060
+La Fine del Territorio degli Orchi~
+   Sei alla fine del territorio degli Orchi, l'inviolabile terreno della loro
+squadra. team. E' decorato coi colori della squadra e c'e' il loro simbolo,
+la testa di un gladiatore adornata da uno scudo nero, ricorda un po'
+la bandiera dei pirati.
+La fine dell'arena continua ad est. A sud c'e' la linea difensiva
+degli Orchi.
+~
+210 8 1
+D1
+La fine dell'arena continua.
+~
+~
+0 -1 21062 0
+D2
+Vedi la linea difensiva.
+~
+~
+0 -1 21061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21061
+Il Territorio degli Orchi~
+   Sei nella linea difensiva degli orchi. A sud c'e' la linea mediana,
+a nord la fine dell'arena. Il campo continua ancora ad est.
+~
+210 8 1
+D0
+Vedi la fine del territorio degli Orchi.
+~
+~
+0 -1 21060 0
+D1
+Il campo continua.
+~
+~
+0 -1 21054 0
+D2
+Vedi la linea mediana.
+~
+~
+0 -1 21048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21062
+La Fine del Territorio degli Orchi~
+   Sei alla fine del territorio degli Orchi, l'inviolabile terreno della loro
+squadra. team. E' decorato coi colori della squadra e c'e' il loro simbolo,
+la testa di un gladiatore adornata da uno scudo nero, ricorda un po'
+la bandiera dei pirati.
+La fine dell'arena continua ad est e ad ovest. A sud c'e' la linea difensiva
+degli Orchi.
+~
+210 8 1
+D1
+La fine dell'arena continua.
+~
+~
+0 -1 21059 0
+D2
+Vedi la linea difensiva.
+~
+~
+0 -1 21054 0
+D3
+La fine dell'arena continua.
+~
+~
+0 -1 21060 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21066
+Via delle Rose~
+   Sei in Via delle Rose e stai guardando dei buchi nella strada.
+Le strade cittadine sono proprio uguali dappertutto!!!
+Via delle Rose continua a nord e a sud. La bottega del fabbro e'
+ad est e il negozio della magia ad ovest.
+~
+210 0 1
+D0
+Vedi Via delle Rose.
+~
+~
+0 -1 21069 0
+D1
+Vedi la bottega del fabbro.
+~
+~
+0 -1 21067 0
+D2
+Vedi l'incrocio fra Via dei Tigli e Via delle Rose.
+~
+~
+0 -1 21016 0
+D3
+Vedi il negozio della magia.
+~
+~
+0 -1 21068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21067
+La bottega del Fabbro~
+   Questa e' una tipica bottega di fabbro, piena zeppa di armature ed altre
+altre merci assortite.
+Via delle Rose e' ad ovest.
+~
+210 8 0
+D3
+Vedi Via delle Rose.
+~
+~
+0 -1 21066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21068
+Il Meraviglioso Mondo della Magia di Wally~
+   Sei impressionato dalle migliaia di oggetti magici che trovi qui
+(purtroppo sono molto pochi quelli in vendita ora).
+Via delle Rose e' ad est e l'entrata alla Gilda dei Cavalieri Pandion
+e' ad ovest.
+~
+210 8 0
+D1
+Vedi Via delle Rose.
+~
+~
+0 -1 21066 0
+D3
+Vedi l'entrata alla gilda dei Pandion.
+~
+~
+0 -1 21075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21069
+Via delle Rose~
+   Sei in Via delle Rose. Il negozio degli animali e' ad est e la 
+Chyrellos National Bank e' ad ovest. Via delle Rose continua a
+nord e a sud.
+~
+210 0 1
+D0
+Via delle Rose continua.
+~
+~
+0 -1 21070 0
+D1
+Vedi il negozio degli animali.
+~
+~
+0 -1 21116 0
+D2
+Vedi la maggior parte di Via delle Rose.
+~
+~
+0 -1 21066 0
+D3
+Vedi la Chyrellos National Bank.
+~
+~
+0 -1 21079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21070
+Intersezione fra Via delle Rose e Via delle Corporazioni~
+   Questa e' l'intersezione fra Via delle Rose e Via delle Corporazioni. Via
+delle Corporazioni porta ad ovest verso la discarica e ad est verso la chiesa
+e la Gilda dei Peloi. Via delle Rose va da nord a sud e Via delle Corporazioni
+da est ad ovest.
+~
+210 0 1
+D0
+Via delle Rose.
+~
+~
+0 -1 21071 0
+D1
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21098 0
+D2
+Vedi Via delle Rose.
+~
+~
+0 -1 21069 0
+D3
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21071
+Via delle Rose~
+   Sei in Via delle Rose e dalle costruzioni che fiancheggiano
+la strada, capisci che sei nel quartiere bene della citta' di Chyrellos.
+Via delle Rose prosegue a nord e a sud. Ad est c'e' l'entrata al
+Museo di Storia Nazionale e ad ovest l'entrata alla Taverna delle Oche.
+~
+210 0 1
+D0
+Via delle Rose prosegue.
+~
+~
+0 -1 21074 0
+D1
+Vedi l'entrata al Museo di Storia Nazionale.
+~
+~
+0 -1 21072 0
+D2
+Vedi Via delle Rose.
+~
+~
+0 -1 21070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21072
+Il Museo di Storia Nazionale~
+   Sei nella penombra dell'ingresso del Museo di Storia Nazionale.
+Appena inizi ad esaminare l'ingresso, ti si affianca l'amministratore del
+museo. L'amministratore si lamenta con te di come il museo sia ancora
+sotto restauro data la mancanza di fonti provenienti dalla citta' che 
+rallentano il processo. Dopo una lunga e noiosa storia,  riesci a liberarti
+del seccatore e velocemente guadagni l'uscita.
+Via delle Rose e' ad ovest.
+~
+210 8 0
+D3
+Vedi Via delle Rose.
+~
+~
+0 -1 21071 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21073
+Fonte della Vita~
+  Ti trovi in un ambiente molto luminoso e dalla forma
+vagamente circolare, almeno a giudicare dal pavimento di
+candido marmo. La stanza in cui ti trovi, infatti, non ha
+pareti, ma il suo perimetro e' delimitato da una ringhiera in
+ferro battuto. Al centro della sala si trova una piccola
+fontana da cui zampilla dell'acqua limpidissima. Proprio sotto
+ai tuoi piedi si trova una &3targa dorata&0 e poco piu' avanti
+vedi delle scale in ferro battuto che conducono alla via
+principale di Chyrellos, via della Rosa Blu.
+&1Qui si puo' RESUSCITARE e RIGENERARE le proprie ferite.&0
+~
+210 17592186044444 0
+D5
+~
+~
+0 0 21208 0
+E
+targa~
+  Questa fontana e' stata eretta per volere di Re Dolmant nel
+luogo in cui si trovava una sorgente miracolosa che, un
+giorno, comparve all'improvviso sopra alla piazza principale
+di Chyrellos, sospesa per aria. L'acqua di questa fonte e' in
+grado di ridare vita ai morti e di nutrire e rinfrancare gli
+eleni che tornano a casa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21074
+Via delle Rose~
+   Sei in Via delle Rose. Il Cheers Bar e' ad ovest mentre la libreria
+e' ad est. Via delle Rose prosegue a nord e a sud.
+~
+210 0 1
+D0
+Vedi Via delle Rose.
+~
+~
+0 -1 21080 0
+D1
+Vedi la libreria.
+~
+~
+0 -1 21081 0
+D2
+Vedi che Via delle Rose prosegue.
+~
+~
+0 -1 21071 0
+D3
+Vedi la piazza felice del Cheers Bar.
+~
+~
+0 -1 21082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21075
+L'Ingresso alla Gilda dei Cavalieri Pandion~
+   L'ingresso e' una piccola e mal illuminata stanza.
+~
+210 8 0
+D0
+Vedi il Bar dei Pandion.
+~
+~
+0 -1 21076 0
+D1
+Vedi il Mondo di Wally.
+~
+~
+0 -1 21068 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21076
+Il Bar dei Pandion~
+   Questo bar e' uno dei piu' misteriosi sulla terra. Immagini mistiche
+fluttuano in aria. Illusioni di magnifici mobili arredano la stanza.
+~
+210 8 0
+D1
+Vedi il Laboratorio dei Maghi.
+~
+~
+0 -1 21077 0
+D2
+Vedi l'ingresso alla Gilda dei Pandion.
+~
+~
+0 -1 21075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21077
+Il Laboratorio dei Pandion~
+   Questo e' il laboratorio per gli Esperimenti Magici. La volta e' formata
+da pietre scurite dal tempo (e dagli esperimenti non andati a buon fine),
+in mezzo alla stanza ci sono immensi tavoli di quercia, la maggior parte
+dei quali hanno inciso sopra strani e misteriosi simboli, c'e' anche una
+lavagna in un angolo solo parzialmente cancellata, sono ancora visibili
+alcune lettere.
+~
+210 8 0
+D3
+Vedi il Bar dei Pandion.
+~
+~
+0 -1 21076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21079
+Chyrellos National Bank~
+   Questa e' la Chyrellos National Bank, la piu' sicura banca della
+citta'... forse anche perche' la sola!!! L'unico problema e' che rimarra'
+chiusa fino a che non sia completamente sicura per proteggere i tuoi
+soldi dai criminali della citta'!
+Via delle Rose e' ad est.
+~
+210 8 0
+D1
+Vedi Via delle Rose.
+~
+~
+0 -1 21069 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21080
+Via delle Rose~
+   Sei alla fine di Via delle Rose. Ma e' anche l'ingresso al parco.
+Vedi il parco a nord, Via delle Rose a sud, un negozio ad ovest e
+il Municipio di Chyrellos e' ad est.
+~
+210 0 1
+D0
+Vedi il Giardino di Aphrael.
+~
+~
+0 -1 21112 0
+D1
+Vedi il Municipio.
+~
+~
+0 -1 21092 0
+D2
+Vedi Via delle Rose.
+~
+~
+0 -1 21074 0
+D3
+Vedi un grande negozio.
+~
+~
+0 -1 21097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21081
+L'Ingresso alla Libreria~
+   Sei annichilito dal semplice potere generato dall'intelligenza
+combinata in questo palazzo. Questa e' la libreria di un famoso filosofo,
+Oscagne. Qui, ricercatori ed intellettuali imparano dalle grandi conoscenze
+del sapere. Il solo problema e' che recentemente la libreria e' infestata dai
+cacciatori di taglia. La libreria e' anche fonte di pergamene magiche per
+gli avventurieri di Chyrellos.
+Via delle Rose prosegue ad ovest.
+~
+210 8 0
+D3
+Vedi Via delle Rose.
+~
+~
+0 -1 21074 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21082
+L'Ingresso al Cheers Bar~
+   Oggi girando per il mondo hai deciso di fare e vedere ogni cosa.
+Facendo una sosta nel tuo lungo peregrinare, ti fermi qui a prendere
+un drink con Norm e i giocatori. E se anche non ti dovesse piacere,
+troverai sicuramente qualcos'altro da fare.
+Il Bar Principale e' ad ovest, Via delle Rose ad est.
+~
+210 12 0
+D1
+Vedi Via delle Rose.
+~
+~
+0 -1 21074 0
+D3
+Vedi Woody, sta aspettando di poterti servire.
+~
+~
+0 -1 21083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21083
+Il Bar Principale~
+   Ti fermi al bar e assapori l'atmosfera di una vecchia cara taverna di
+altri tempi. Sei sempre sicuro di trovare una faccia amica qui.
+Il bar continua a nord e ad ovest. A sud ci sono le scale per Melville's,
+ad est c'e' l'uscita.
+~
+210 8 0
+D0
+Vedi i tavoli del bar.
+~
+~
+0 -1 21085 0
+D1
+Vedi l'ingresso al Cheers Bar.
+~
+~
+0 -1 21082 0
+D2
+Vedi le scale che portano a Melville's.
+~
+~
+0 -1 21086 0
+D3
+Vedi gli sgabelli sparsi per il bar.
+~
+~
+0 -1 21084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21084
+Gli Sgabelli del Bar~
+   Ci si siedono regolarmente tutti. Noti che qualche sgabello
+porta l'impronta, quasi un marchio, di un qualche posteriore.
+Il bar principale e' ad est. La sala del biliardo e' ad ovest.
+Il bar continua ancora a nord e sud.
+~
+210 8 0
+D0
+Il bar prosegue.
+~
+~
+0 -1 21087 0
+D1
+Vedi il Bar Principale.
+~
+~
+0 -1 21083 0
+D2
+Il bar prosegue.
+~
+~
+0 -1 21088 0
+D3
+Vedi la nota sala da biliardo e non la dannata Sala da Te di Rebecca.
+~
+~
+0 -1 21089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21085
+Dentro il Bar~
+   Sei dentro il Cheers. Ci sono molti clienti qui, seduti ai tavoli.
+Il bar continua ad ovest, a sud c'e' il Bar Principale.
+~
+210 8 0
+D2
+Vedi il Bar Principale.
+~
+~
+0 -1 21083 0
+D3
+Il bar prosegue.
+~
+~
+0 -1 21087 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21086
+Le Scale per Melville's~
+   Sei in fondo alle scale che portano su al Ristorante di Melville,
+proprieta' di quel pelato uomo malvagio chiamato Jonathan Hill.
+C'e' un robusto stuoino che da' il benvenuto alla fine delle scale con
+sopra la figura di una papera. Lo stuoino non si strappa e non si
+brucia, e battendolo con una mazza non si ottiene alcun effetto.
+Ricordati che se vuoi andare da Melville's devi essere vestito
+accuratamente. Oh, e non scordarti di pulirti le scarpe.
+Le scale salgono da Melville's, a nord c'e' il Bar Principale e ad
+ovest il bar continua.
+~
+210 8 0
+D0
+Il bar prosegue.
+~
+~
+0 -1 21083 0
+D3
+Il bar prosegue.
+~
+~
+0 -1 21088 0
+D4
+Le scale portano da Melville's.
+~
+~
+0 -1 21090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21087
+Dentro il Bar~
+   Sei nel Cheers, a destra c'e' un bancone multiuso che e' stato
+usato per tutto: dalle sedute spiritiche al Monopoli con dadi truccati.
+Il bar continua ad est, gli sgabelli sono a sud.
+~
+210 8 0
+D1
+Il bar continua ad est.
+~
+~
+0 -1 21085 0
+D2
+Vedi gli sgabelli del bar.
+~
+~
+0 -1 21084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21088
+Dentro il Bar~
+   In questo angolo del bar, c'e' un pianoforte molto vecchio e
+un quadro raffigurante i quattro Ordini di Cavalieri.
+A nord ci sono gli sgabelli, ad ovest c'e' l'Ufficio di Cheers,
+dietro ad una porta. Ad est vedi le scale per il Melville's
+Restaurant.
+~
+210 8 0
+D0
+Vedi gli sgabelli.
+~
+~
+0 -1 21084 0
+D1
+Vedi le scale che portano su da Melville's.
+~
+~
+0 -1 21086 0
+D3
+Vedi l'entrata dell'ufficio del Cheers Bar.
+~
+porta~
+1 -1 21091 3
+E
+quadro~
+E' un quadro raffigurante i 4 Ordini di Cavalieri aiutati dai Peloi
+e impegnati nella famosa battaglia del Lago Rendera.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21089
+La Sala da Biliardo~
+   Come vedi la sala da biliardo, pensi che se Norm bevesse abbastanza,
+potresti vincergli dei soldi. Poi realizzi che:
+1) non puoi permetterti di buttare tutti quei soldi necessari a farlo ubriacare
+2) non pensi realmente che Norm lascerebbe mai il suo sgabello incustodito.
+Vedi tavoli da gioco e stecche da biliardo.
+Gli sgabelli del bar sono ad est.
+~
+210 8 0
+D1
+Vedi gli sgabelli del bar.
+~
+~
+0 -1 21084 0
+E
+tavolo~
+Questo e' un classico tavolo da gioco :-)
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21090
+Melville's Restaurant~
+   Questo e' il famoso ristorante del piano superiore del Cheers bar.
+Attualmente e' di proprieta' di un uomo malvagio pelato, Jonathan Hill.
+Sebbene la compagnia potrebbe essere migliore, decidi di fare un buon pasto.
+Se non sei vestito bene, sarebbe meglio che tu uscissi velocemente prima
+che Mr. Hill se ne accorga e ti butti fuori.
+Il Cheers Bar e' al piano di sotto.
+~
+210 8 0
+D5
+Vedi il Cheers Bar (wow!).
+~
+~
+0 -1 21086 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21091
+Ufficio di Rebecca~
+   Come entri nell'ufficio, la prima cosa che noti e' un confortevole
+divano e pensi che sia stato usato non solo per un sonnellino.
+Dal divano deduci che anche la scrivania non e' stata usata solo per
+affari (beh... potrebbe essere stata usata per un diverso tipo di affari).
+Il bar e' ad est.
+~
+210 8 0
+D1
+Vedi la porta dell'ufficio.
+~
+porta~
+1 -1 21088 3
+E
+scrivania~
+E' una scrivania buona per diversi utilizzi. :-)
+~
+E
+divano~
+E' un confortevole divano.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21092
+Municipio~
+   Questo e' il posto dove tutti i giorni servitori sovrappagati pianificano
+le riunioni di famiglia dell'anno.
+Via delle Rose e' ad ovest, l'Ufficio del Sindaco e' ad est.
+~
+210 8 0
+D1
+Vedi l'Ufficio del Sindaco Abe.
+~
+~
+0 -1 21093 0
+D3
+Il nastro rosso ostruisce la tua vista.
+~
+~
+0 -1 21080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21093
+Ufficio del Sindaco Abe~
+   Questa e' la residenza di uno dei meno ispirati e interessati sindaci
+dai tempi di Maryon Barry (e' in prigione in questo momento!). L'ufficio
+ti fa sentire come osservato ed allora ti vengono in mente tutte le
+dicerie su Satana e sul sindaco stesso.
+Il Municipio e' ad ovest.
+~
+210 8 0
+D3
+Vedi il Municipio.
+~
+~
+0 -1 21092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21094
+La Reception della Taverna delle Oche~
+   Questa e' una reception molto elegante adatta ad un hotel molto elegante.
+Questo fatto accentuato dalla semplice bellezza della receptionist.
+L'ingresso alla Taverna e' al piano di sotto.
+~
+210 8 0
+D1
+~
+~
+0 0 21277 0
+D5
+Vedi l'ingresso.
+~
+~
+0 -1 21073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21095
+Il Bar degli Alcioni~
+   Questa e' una scura stanza piena di ombre, ma agli Alcioni piace
+cosi'. Questo e' il posto perfetto per nascondersi dalle autorita' locali
+o da qualsiasi altra persona!
+L'Ingresso alla Gilda dei Cavalieri Alcioni e' a nord e il Cortile Segreto
+e' ad ovest.
+~
+210 8 0
+D0
+Vedi l'Ingresso alla Gilda dei Cavalieri Alcioni.
+~
+~
+0 -1 21014 0
+D3
+Vedi il Cortile Segreto.
+~
+~
+0 -1 21096 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21096
+Il Cortile Segreto~
+   Questo e' il cortile segreto per gli allenamenti dei Cavalieri Alcioni.
+Il Bar degli Alcioni e' ad est.
+~
+210 8 0
+D1
+Vedi il bar.
+~
+~
+0 -1 21095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21097
+Il Supermercato~
+   Questo e' un moderno negozio pieno di tutti quegli accessori di cui al
+giorno d'oggi gli avventurieri non possono fare a meno.
+Via delle Rose e' ad est.
+~
+210 8 0
+D1
+Vedi Via delle Rose.
+~
+~
+0 -1 21080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21098
+Via delle Corporazioni~
+   Questa e' una strada minore che porta verso una chiesa e la Gilda dei
+Peloi. Dalla condizione della strada sembrerebbe che gli abitanti non abbiano
+mai pagato le tasse.
+Via delle Rose e' ad ovest e la fine di Via delle Corporazioni e' ad est.
+~
+210 0 1
+D1
+Vedi la fine orientale di Via delle Corporazioni.
+~
+~
+0 -1 21099 0
+D3
+Vedi l'incrocio fra Via delle Rose e Via delle Corporazioni.
+~
+~
+0 -1 21070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21099
+La Fine Orientale di Via delle Corporazioni~
+   Questa e' la fine orientale di Via delle Corporazioni. La Chiesa e' a nord
+e la Gilda dei Peloi a sud.
+~
+210 0 1
+D0
+Vedi la chiesa.
+~
+~
+0 -1 21100 0
+D2
+Vedi la Gilda dei Peloi.
+~
+~
+0 -1 21101 0
+D3
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21100
+La Chiesa~
+   Guardando le condizioni della chiesa non ti sembra neanche di
+essere nella citta' santa del continente Eosian. Guardandoti attorno
+noti un cartello che dice: Chiesa di Otha (???).
+Dopo che hai pensato un attimo (ma proprio un attimo!!!) ti rendi conto
+che e' la chiesa sconsacrata del Primate Annias. Ricorda... il Primate
+sta guardando TE!!!
+Via delle Corporazioni e' a sud.
+~
+210 12 0
+D2
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21099 0
+E
+cartello~
+Il cartello recita: Chiesa di Otha (???)
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21101
+Ingresso alla Gilda dei Peloi~
+   Questo e' il punto di ritrovo dei Peloi.
+Scale portano su al bar dei Peloi, Via delle Corporazioni e' a nord
+mentre a sud c'e' il campo di addestramento.
+~
+210 8 0
+D0
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21099 0
+D2
+Stai guardando il bar dei Peloi.
+~
+~
+0 -1 21102 0
+D4
+Vedi il campo di addestramento dei Peloi.
+~
+~
+0 -1 21103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21102
+Il Bar dei Peloi~
+   Questo sarebbe un bar??? Sembra un accampamento.
+Un mucchio di strani oggetti sono sparsi sul terreno..
+L'Ingresso alla Gilda dei Peloi e' a nord.
+~
+210 8 0
+D0
+Vedi il bar.
+~
+~
+0 -1 21101 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21103
+Il Campo di Addestramento dei Peloi~
+   Questo e' il campo di addestramento di quella razza di
+fier guerrieri che sono i Peloi.
+L'ingresso alla Gilda dei Peloi e' al piano di sotto.
+~
+210 8 0
+D5
+Vedi l'ingresso alla Gilda dei Peloi.
+~
+~
+0 -1 21101 0
+E
+oggetti~
+Sembrano essere un qualche tipo di contraccettivo usato.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21104
+Via delle Corporazioni~
+   Niente qui... puoi andare ora. I muratori non hanno ancora iniziato a
+erigere palazzi da questa parte della strada
+Ad est c'e' l'incrocio fra Via delle Rose e Via delle Corporazioni mentre
+da ovest senti provenire odori sgradevoli. A nord c'e' Piazza del Pozzo
+Sacro.
+~
+210 0 1
+D0
+Vedi Piazza del Pozzo Sacro.
+~
+~
+0 -1 21119 0
+D1
+Via delle Rose.
+~
+~
+0 -1 21070 0
+D3
+Via delle Corporazioni.
+~
+~
+0 -1 21105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21105
+Via delle Corporazioni~
+   Il fetore e' veramente forte qui. Cosi' forte che non riesci a distinguere
+se gli odori provengono dalla discarica ad ovest, dai maiali a sud o dagli 
+animali a nord.
+~
+210 0 1
+D0
+Senti un mucchio di guaiti e di miagolii.
+~
+~
+0 -1 21106 0
+D1
+Non ti ha ancora annoiato vedere Via delle Corporazioni? :-)
+~
+~
+0 -1 21104 0
+D2
+Vedi il Corpo di Guardia.
+~
+~
+0 -1 21107 0
+D3
+Ora che ti sei fermato per un attimo, ti accorgi che l'odore proviene da 
+questa direzione.
+~
+~
+0 -1 21108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21106
+Il Recinto~
+   Si, come favore a tutti i newbie, abbiamo creato il recinto riempiendolo con
+cani e gatti per una veloce esperienza. Via delle Corporazioni e' a sud.
+~
+210 8 0
+D2
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21107
+Il Corpo di Guardia~
+   Ci sono dozzine di soldati della chiesa che stanno freneticamente cercando
+notizie su tutti gli omicidi e assassini di Chyrellos. Occhio, potrebbero
+avere il tuo nome!
+Via delle Corporazioni e' a nord, l'ufficio del Comandante dei soldati 
+e' a sud e la prigione e' ad ovest.
+~
+210 8 0
+D0
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21105 0
+D2
+Vedi l'ufficio del Comandante.
+~
+door~
+1 -1 21109 3
+D3
+Vedi la prigione.
+~
+~
+0 -1 21110 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21108
+La Jersey Discarica~
+   Questa e' la discarica principale, dove tutti i cittadini portano i loro
+rifiuti. Fai in fretta -- liberati dei rifiuti ma non rimanerci troppo a lungo,
+potresti ammalarti seriamente.
+Via delle Corporazioni porta ad est.
+~
+210 0 1
+D1
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21109
+L'Ufficio del Comandante~
+   Sei nell'ufficio del nuovo comandante dei soldati della chiesa di
+Chyrellos, il Comandante O'Hara, che e' appena stato trasferito dalle
+forze di stanza ad Emsat. Il suo ufficio e' decorato col suo manganello
+personale su una parete, e un bar piuttosto fornito sull'altra.
+Una porta a nord porta al resto della guarnigione.
+~
+210 8 0
+D0
+Vedi il corpo di guardia.
+~
+porta~
+0 -1 21107 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21110
+La Prigione~
+   Hai l'impressione che ci siano piu' cose di quanto si creda. A sud c'e'
+la cella, dove risiedono i piu' famosi criminali di Chyrellos.
+Ci sono solo due modi per uscire dalla cella -- essere scarcerati o essere
+condannati...
+Il Corpo di Guardia e' ad est.
+~
+210 8 0
+D1
+Vedi il Corpo di Guardia.
+~
+~
+0 -1 21107 0
+D2
+Vedi la cella, piena di vari criminali fra i quali il famoso Esprit.
+~
+porta cella~
+2 21000 21111 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21111
+La Cella~
+   Se sei qui, sicuramente avrai anche la chiave della cella, altrimenti
+da qui non uscirai piu', considerando che la porta della cella e'
+veramente resistente da aprire dall'interno. Oh, solo una parola
+per avvisarti.... non girarti a cercare il sapone!
+~
+210 8 0
+D0
+Vedi la porta della cella che porta nel libero mondo.
+~
+porta cella~
+2 21000 21110 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21112
+L'Entrata al Giardino di Aphrael~
+   Questa e' l'entrata al Giardino di Aphrael, il parco pubblico di
+Chyrellos. Il parco e' dedicato alla famosa Dea Bambina che tanto
+ha aiutato gli Elene: Aphrael.
+A nord c'e' la statua di Aphrael, a sud c'e' Via delle Rose.
+~
+210 0 1
+D0
+Vedi la statua di Aphrael.
+~
+~
+0 -1 21113 0
+D2
+Vedi Via delle Rose.
+~
+~
+0 -1 21080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21113
+La Statua di Cyrgon~
+La statua rappresenta il Dio Cyrgon che ha guidato gli ordini militari nella guerra contro gli Zemoch.
+~
+210 0 1
+D0
+Nothing.
+~
+~
+0 0 21118 0
+D2
+Vedi il Giardino di Aphrael.
+~
+~
+0 -1 21112 0
+E
+statua aphrael~
+Rimani attonito davanti alla bellezza di questa statua che rappresenta
+la Dea Bambina Aphrael mentre e' impegnata a suonare un flauto.
+Noti che lo scultore ha pure rappresentato i piedini sporchi di verde,
+potrebbe anche essere erba.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21114
+Via dei Tigli~
+   Immediatamente realizzi che la citta' piomba nella disperazione 
+quando lasci Via delle Rose e diventa pericolosa.
+Senti i rumori di quella che immagini essere una battaglia provenire da ovest
+e ti domandi se e' saggio andare in quella direzione.
+L'Incrocio fra Via dei Tigli e Via delle Rose e' ad est e l'Hell's Kitchen e'
+ad ovest.
+~
+210 0 1
+D1
+Vedi l'Incrocio fra Via dei Tigli e Via delle Rose.
+~
+~
+0 -1 21016 0
+D3
+Vedi l'entrata all'Hell's Kitchen.
+~
+~
+0 -1 21115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21115
+L'Ingresso a Hell's Kitchen~
+   Come entri, ti chiedi il perche' sia cosi' buio qui... e poi capisci
+che la gente e' troppo povera qui per potersi permettere dei ceri.
+Avverti una tremenda malvagita' che si nasconde qui dentro e decisi che
+la tua sicurezza personale e' ben piu' importante di un piacevole giro
+esplorativo...
+Ci saranno almeno un'altra dozzina di posti piu' piacevoli dell'Hell's
+Kitchen.
+Decidi che la sola vera uscita e' su Via dei Tigli che e' ad est.
+~
+210 1 1
+D1
+Vedi Via dei Tigli.
+~
+~
+0 -1 21114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21116
+Il Negozio degli Animali~
+   Questo e' il piu' raggiungibile negozio di animali dei dintorni...
+Qui sono specializzati in animali esotici. C'e' un cartello sulla parete.
+Via delle Rose e' ad ovest.
+~
+210 8 0
+D3
+Vedi una porta che da' su Via delle Rose.
+~
+~
+0 -1 21069 0
+E
+cartello~
+Il cartello recita:
+
+  Usa 'List' per vedere gli animali disponibili.
+  Usa 'Buy <animale>' per comprarlo.
+
+Istruzioni per l'addestramento degli animali:
+
+  Puoi usare 'order <animale> <istruzione>' per far fare all'animale qualcosa.
+  Se abusi del tuo animale, non ti riconoscera' piu' come maestro.
+  Se hai piu' animali puoi usare 'order followers <istruzione>'
+
+  Puoi dare un nome all'animale che compri con: "buy <animale> <nome>"
+
+Saluti,
+
+ Il Negoziante
+~
+F
+ 2 0 0 0 0 0 0 0 0 0
+S
+#21117
+Il Deposito degli animali~
+Questa e' una piccola stanza nella quale sono ospitati gli animali da vendere.
+E' importantissimo che il numero virtuale della stanza sia esattamente uno
+in piu' di quello del negozio,
+~
+210 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21118
+Le Porte Settentrionali di Chirellos~
+Davanti a te vedi le Porte Settentrionali della citta'.  Una guardia di turno
+al cancello ti saluta con un cenno.  A sud vedi una piazza con una grande
+statua al centro.  Piu a sud ancora si estende la citta' di Chirellos in tutta
+la sua maestosita'.    
+~
+210 8 0
+D2
+Vedi la Statua di Aphrael.
+~
+~
+0 -1 21113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21119
+Piazza del Pozzo Sacro~
+   Sei nella Piazza del Pozzo Sacro. Nel centro vedi un
+vecchio pozzo in pietra.
+Le leggende dicono che il primo eroe Pandion si aggirasse
+spesso intorno al pozzo....
+A sud vedi Via delle Corporazioni.
+~
+210 0 1
+D2
+Vedi Via delle Corporazioni.
+~
+~
+0 -1 21104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21120
+La Vecchia Casa~
+   Sei in una vecchia casa diroccata, la leggenda dice che fu edificata
+dal primo Cavaliere Pandion con le sue stesse mani, si dice che lo si
+poteva veder entrare ma mai uscire.
+Ad est c'e' Piazza del Pozzo Sacro.
+~
+210 0 1
+D3
+Vedi Piazza del Pozzo Sacro.
+~
+porta~
+2 21031 21119 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21121
+Stazione di Chyrellos~
+Questa e' la stazione della citta' di Chyrellos. Qui regolarmente fa sosta
+la carrozza che fa' servizio di trasporto in tutte le citta' della
+Daresia. L'arrivo e la partenza sono annunciate dal personale della
+stazione. Sulla parete c'e' una mappa.
+~
+210 8 0
+D1
+~
+~
+0 -1 -1 0
+D4
+Vedi Piazza del mercato.
+~
+~
+0 -1 21002 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia:
+
+
+      C\    /J\
+      | \  /   \
+      |  D      L
+      |         |
+      Ch        |
+      \____/\___|
+             
+    [D]  Stazione di Deira
+    [J]  Stazione di Jiroch
+    [L]  Stazione di Lamorka
+  * [Ch] Stazione di Chyrellos
+    [C]  Stazione di Cimmura"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le 5 citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21122
+Via del Commercio~
+   Un'ampia strada riccamente lastricata passa in mezzo a palazzi di ogni
+genere e grandezza. Sei nel nuovo quartiere di Chyrellos, quello costruito
+seguendo il periodo di grande evoluzione economica che questa citta' sta
+attraversando.
+~
+210 0 0
+D0
+~
+~
+0 0 21132 0
+D1
+~
+~
+0 0 21001 0
+D2
+~
+~
+0 0 21131 0
+D3
+~
+~
+0 0 21123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21123
+Via del Commercio~
+   Un'ampia strada riccamente lastricata passa in mezzo a palazzi di ogni
+genere e grandezza. Sei nel nuovo quartiere di Chyrellos, quello costruito
+seguendo il periodo di grande evoluzione economica che questa citta' sta
+attraversando.
+~
+210 0 0
+D0
+~
+~
+0 0 21129 0
+D1
+~
+~
+0 0 21122 0
+D2
+~
+~
+0 0 21130 0
+D3
+~
+~
+0 0 21124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21124
+Via del Commercio~
+   Un'ampia strada riccamente lastricata passa in mezzo a palazzi di ogni
+genere e grandezza. Sei nel nuovo quartiere di Chyrellos, quello costruito
+seguendo il periodo di grande evoluzione economica che questa citta' sta
+attraversando.
+~
+210 0 0
+D1
+~
+~
+0 0 21123 0
+D3
+~
+~
+0 0 21125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21125
+Via del Commercio~
+   Un'ampia strada riccamente lastricata passa in mezzo a palazzi di ogni
+genere e grandezza. Sei nel nuovo quartiere di Chyrellos, quello costruito
+seguendo il periodo di grande evoluzione economica che questa citta' sta
+attraversando.
+~
+210 0 0
+D0
+~
+~
+0 0 21127 0
+D1
+~
+~
+0 0 21124 0
+D2
+~
+~
+0 0 21133 0
+D3
+~
+~
+0 0 21126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21126
+Via del Commercio~
+   Un'ampia strada riccamente lastricata passa in mezzo a palazzi di ogni
+genere e grandezza. Sei nel nuovo quartiere di Chyrellos, quello costruito
+seguendo il periodo di grande evoluzione economica che questa citta' sta
+attraversando.
+~
+210 0 0
+D0
+~
+~
+0 0 21128 0
+D1
+~
+~
+0 0 21125 0
+D2
+~
+~
+0 0 21134 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21127
+La Forgia di Chyrellos~
+   La stanza e' ampiamente illuminata e riscaldata dalle molte fornaci disposte
+in varie file.  Alcuni uomini robusti sono intenti a trasportare e ad
+immagazzinare grandi scorte di metalli grezzi di ogni genere, mentre alcuni
+Forgiatori stanno fondendo dei lingotti.
+~
+210 2097152 0
+D2
+~
+~
+0 0 21125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21128
+La Segheria pubblica~
+   Parecchi tavoli appositi sono disposti in varie file in questa sala
+affollata e ricca di attivita', diversi carpentieri sono intenti a lavorare dei
+tronchi lasciando per terra una montagna di truccioli. Una guardia e'
+all'entrata per ritirare la tassa d'entrata, mentre un tavolo all'interno e'
+gia' predisposto per un nuovo uso.
+~
+210 16777216 0
+D2
+~
+~
+0 0 21126 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21129
+La Gioielleria~
+   Sei in una stanza alquanto spaziosa e ricca di strumenti dagli aspetti
+bizzarri. Alcuni uomini riccamente vestiti girano con delle pietre dai
+riflessi variopinti anche se ancora molto grezze. Un tavolo con relativa
+strumentazione e' libero, pronto per l'uso.
+~
+210 67108864 0
+D2
+~
+~
+0 0 21123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21130
+La Fucina dei Fabbri~
+   Un iimane calore fuoriesce da questa enorme stanza, dove diversi forni
+ardono per riscaldare i lingotti che giungono qui per essere lavorati nelle
+piu' svariate forme. Diversi prodotti, spade, armature, elmi, travi da
+costruzione ed altro ancora vengono portati fuori da diversi esperti fabbri.
+~
+210 4194304 0
+D0
+~
+~
+0 0 21123 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21131
+La Falegnameria Pubblica~
+   In questo locale i tronchi degli alberi appena raccolti vengono lavorati per
+produrre travi da costruzione in legno per gli architetti oppure delle semplici
+assi da lavorazione, da cui poi i carpentieri potranno tirar fuori i vari prodotti
+lavorati.
+~
+210 8388608 0
+D0
+~
+~
+0 0 21122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21132
+La Quadrella Pubblica di Chyrellos~
+   Molti uomini entrano ed escono trasportando enormi massi di quarzo, marmo o
+granito, c'e' chi entra con pietre grezze e chi ne esce con pietre pulite e
+bagnate. Molta acqua viene versata sulle pietre in lavorazione onde evitare i
+maligni vapori che esse emanerebbero. Diverse postazioni sono libere per l'uso.
+~
+210 134217728 0
+D2
+~
+~
+0 0 21122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21133
+Locale di Pulitura Pietre Preziose~
+   In questo posto giungono tutti i piu' esperti gioiellieri di Aldaria
+per dare una ripulita alle loro magnifiche pietre grezze, poche delle quali,
+a dir la verita', diverranno preziosissimi gioielli.
+~
+210 33554432 0
+D0
+~
+~
+0 0 21125 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21134
+La Banca Commerciale di Chyrellos~
+   Il salone per il pubblico e' enorme ed estremamente trafficato, gente
+abbigliata riccamente e' pronta a servire clienti di ogni grado sociale, in
+questa banca tutti vengono serviti dignitosamente in un luogo di bellezza
+appena inferiore alla Basilica del Patriarca Dolmant. Digita WITHDRAW per ritirare
+il tuo denaro, DEPOSIT per depositare e BALANCE per vedere il tuo bilancio.
+~
+210 0 0
+D0
+~
+~
+0 0 21126 0
+D2
+~
+porta~
+1 0 21135 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21135
+La tesoreria della banca~
+   Sei in una stretta sala allungata, in fondo alla quale un'enorme cassaforte
+ricopre l'intero muro sud. Una serratura molto complessa e' l'unica via per
+avere accesso agli averi di tutti i cittadini della citta'.
+~
+210 0 0
+D0
+~
+porta~
+1 0 21134 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#21199
+Prigione Provvisoria~
+You are in an unfinished room.
+~
+210 268435485 0
+D4
+~
+cella~
+1 0 21002 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

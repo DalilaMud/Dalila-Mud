@@ -1,0 +1,228 @@
+#11100
+Entrata~
+   Sei in un grande atrio tutto pieno di luci magice che volano intorno
+ad una grande fontana e sop…a uo piccolo laghetto che occupano il centro
+della sala circondata da piccole panchine in marmo. Il rumore dei getti
+che cadono dalla fontana nel laghetto ti riempe di una sensazione di
+benessere e di pace. Sotto l'arcobaleno a nord si intravede un'entrata. 
+~
+111 0 0
+D0
+A nord si vede un'entrata proprio sotto l'arcobaleno. 
+~
+~
+0 -1 11101
+E
+Arcobaleno~
+Un piccolo arcobaleno e' visibile da qualsiasi angolo, ti sembra strano e
+ovviamente di fonte magica. Sovrasta l'entrata della sala riunioni. 
+~
+E
+fontana~
+   La fontana levita una decina di centimetri sopra la superficie del
+laghetto e non ha nessun supporto visibile, ma sembra che contenga una
+fonte di cqua inesauribile. Piccole gocce d'acqua creano una nebbia
+intorno alla fontana nella quale si riflettono luci volanti che creano
+piccoli arcobaleni. 
+~
+S
+#11101
+Sala riunioni.~
+   Sei in una sala rotonda dominata da un enorme tavolo rotondo fatto
+di granito bianco. Della luce proviene da un'enorme sfera di cristallo
+che levita sul tavolo, sulle pareti e sulla volta della stanza sono
+dipinte delle grandi battaglie del clan: Spartakus la spada, Silverion
+il fuoco, Shaolin l'ombra e altri grandi eroi che combattono il dracolich
+e armate di drow, lucertoloni, demoni e altri nemici. Il punto piu' alto
+e' coperto da una sorta di nebbia argentata che sembra avere vita interna.
+~
+111 0 0
+D0
+Tra le colonne si vedono tanti armadi, scaffali, restrelliere e cesti che
+contengono i tantissimi oggetti accumulati nel tempo dai membri del clan. 
+~
+~
+0 -1 11102
+D1
+Un grande corridoio porta alle camere private dei membri del clan.
+~
+~
+0 -1 11106
+D2
+Attraverso l'arco d'entrata si intravede la bellissima fontana ed il
+laghetto centrale dove supponi siano nascoste le bellissime guardiane
+del clan.
+~
+~
+0 -1 11100
+D3
+Un grande corridoio porta alle camere private dei membri del clan. 
+~
+~
+0 -1 11103
+D4
+La nebbia argentata nasconde il punto piu' alto del soffitto. 
+~
+nebbia mist~
+1 -1 11111
+E
+nebbia~
+La nebbia si muove di vita propria avvolgendosi attorno alla sfera di
+cristallo e alzandosi lentamente creando dentro di essa strani lampi e
+movimenti. Ogni tanto ti sembra che qualcuno ti osservi da dentro essa.
+~
+E
+parete eroe spada~
+Spartakus, il piu' grande tra i piu' grandi eroi del clan, taglia con una
+enorme spada il drago rosso proteggendosi dietro un meraviglioso scudo di
+fuoco mentre questi cerca di arrostirlo. Decine di persone lo ringraziano
+dell'aiuto e per averli salvati dal nemico eterno e si arruolano dietro la
+sua bandiera di liberta' e democrazia.
+~
+E
+mago muro fuoco ~
+Scrivendo con una mano note in un enorme libro, Il mago Silverion con
+l'altra mano lancia una tempesta di meteoriti sulle armate delle tenebre che
+cercano di nascondersi dietro gli alberi di una foresta infuocata. Il suo
+Drago divora nemici arrostiti e accumula oggetti interessanti per futura
+disamina.
+~
+E
+guerriero ombra quadro~
+Dietro le ombre Shaolin assassina i nemici del clan non lasciando nessuna
+traccia, solo un lampo della sua micidiale spada alla luce della luna rossa. 
+~
+E
+tavolo rotondo tavola rotonda~
+Il tavolo ha visto gia' inumerevoli sedute, e' logorato dall'uso ed e'
+circondato da tanti scranni dove i membri del clan possono tranquillamente
+sedersi, riposare e discutere dei piani futuri.
+~
+S
+#11102
+Ripostiglio~
+   Un magazzino pieno di armadi, scaffalature e rastrelliere, contiene
+tantissimi oggetti del clan. Entrando leggi una nota sul muro. 
+~
+111 0 0
+D2
+Attraverso le colonne si vede un grande tavolo e gli innumerevoli scranni
+della sala riunioni. 
+~
+~
+0 -1 11101
+E
+Nota~
+Tutti i membri sono pregati di depositare oggetti non comuni in questa sala.
+Vi preghiamo di usare armadi e scaffalature a seconda del tipo di oggetto:
+armi, armature, anelli, collane, pozioni, pergamene, bacchette magiche e altro.
+~
+S
+#11103
+Un corridoio curvo~
+   Un corridoio curvo.
+~
+111 0 0
+D0
+Una porta di legno massiccio ti blocca la strada a nord.
+~
+porta~
+1 -1 11107
+D1
+Alla fine del corridoio si vede il grande tavolo e gli innumerevoli scranni
+della sala riunioni.
+~
+~
+0 -1 11101
+D3
+Un grande corridoio porta alle camere private dei membri del clan.
+~
+~
+0 -1 11104
+S
+#11104
+Un corridoio curvo~
+   Un corridoio curvo.
+~
+111 0 0
+D1
+~
+~
+0 -1 11103
+D3
+~
+~
+0 -1 11105
+S
+#11105
+Un corridoio curvo~
+   Un corridoio porta alla grande sala riunioni curvando ad est.
+~
+111 0 0
+D1
+~
+~
+0 -1 11104
+D3
+~
+~
+0 -1 11106
+S
+#11106
+Una curva nel corridoio~
+   Un corridoio porta alla grande sala riunioni curvando ad est.
+~
+111 0 0
+D1
+Il corridoio fa un curva a nord.
+~
+~
+0 -1 11105
+D3
+Alla fine del corridoio si vede il grande tavolo e gli innumerevoli scranni
+della sala riunioni.
+~
+~
+0 -1 11101
+S
+#11107
+Una camera~
+   Il fuoco felicemente brucia nel camino e le ombre che causa ballano sui
+muri coperti di legno. Il tappeto che copre il pavimento e' di colore rosso
+con tanti piccoli disegni dipinti sopra.
+~
+111 0 0
+D2
+Una porta di legno massiccio si apre in un grande corridoio.
+~
+Porta~
+1 -1 11103
+E
+disegni~
+Ahhh, guarda, su questo piccolo dipinto c'e' la tua prima battaglia in Dalila,
+te l'eri dimenticata gia' da tanto tempo. E non e' l'unica, tutte le tue
+battaglie sono magicamente dipinte nei piccoli quadri del tappeto, ma ci sono
+ancora tanti posti vuoti per dipingere il futuro.
+~
+E
+fuoco~
+Guardando nel fuoco la tua mente si perde per un attimo e il passato ti
+scorre davanti agli occhi. Ahhh ..........
+~
+S
+#11111
+La nebbia Argentata~
+   Voli in mezzo a della nebbia argentata. Palle di vetro trasparente
+contengono migliaia e migliaia di oggetti, dai piu' comuni fino a cose mai
+viste. Mappe, pergamene e altre cose sono disposte sull'oggetto rotondo che
+e' in mezzo a questa strana nuvola. Qui senti una strana sensazione di
+importanza, come se questa camera fosse fuori dallo spazio e dal tempo, un
+posto dove si decidono le cose piu' importanti e segrete. 
+~
+111 0 0
+D5
+~
+~
+0 -1 11101
+S
+$~

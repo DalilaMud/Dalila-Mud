@@ -1,0 +1,327 @@
+#3700
+Uno stretto corridoio~
+   Stai percorrendo uno stretto corridoio. Alle pareti grandi
+fiaccole illuminano la scena. Un tappeto rosso e' stato steso
+sul pavimento per accogliere vinti e vincitori.
+Il corridoio procede ad est e ad ovest.
+~
+37 163844 1
+D1
+Vedi il corridoio illuminato.
+~
+~
+0 -1 3701 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3701
+Uno stretto corridoio~
+   Stai percorrendo uno stretto corridoio. Alle pareti grandi
+fiaccole illuminano la scena. Un tappeto rosso e' stato steso
+sul pavimento per accogliere vinti e vincitori.
+Il corridoio procede ad est e ad ovest.
+~
+37 131072 1
+D1
+Vedi il corridoio illuminato.
+~
+~
+0 -1 3702 0
+D3
+Vedi
+~
+~
+0 -1 3700 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3702
+Un incrocio a T~
+   In questo punto il corridoio si ramifica procedendo a nord, sud ed
+ovest. Alle pareti grandi fiaccole illuminano la scena. Un tappeto
+rosso e' stato steso sul pavimento per accogliere vinti e vincitori.
+Il corridoio procede a nord, sud e ad ovest.
+~
+37 131072 1
+D0
+Vedi l'anticamera dell'arena.
+~
+~
+0 -1 3703 0
+D2
+Vedi l'anticamera dell'arena.
+~
+~
+0 -1 3710 0
+D3
+~
+~
+0 0 3701 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3703
+L'anticamera~
+   Sei giunto nell'anticamera dell'arena di Daresia. Anche qui
+grandi fiaccole illuminano la scena. Il tappeto rosso avrebbe
+bisogno di essere lavato, e' pieno di macchie, sembrerebbe
+sangue coagulato. BLEAH!
+Ad est c'e' l'accesso all'arena, a sud c'e' il corridoio.
+~
+37 131072 1
+D1
+Vedi l'arena.
+~
+~
+0 -1 3704 0
+D2
+Da quella parte c'e' il corridoio.
+~
+~
+0 -1 3702 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3704
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D1
+Vedi l'arena.
+~
+~
+0 -1 3705 0
+D2
+Vedi l'arena.
+~
+~
+0 -1 3707 0
+D3
+Vedi l'anticamera.
+~
+~
+0 -1 3703 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3705
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D1
+Vedi l'arena.
+~
+~
+0 -1 3706 0
+D2
+Vedi l'arena.
+~
+~
+0 -1 3708 0
+D3
+Vedi l'arena.
+~
+~
+0 -1 3704 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3706
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D2
+Vedi l'arena.
+~
+~
+0 -1 3709 0
+D3
+Vedi l'arena.
+~
+~
+0 -1 3705 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3707
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D0
+Vedi l'arena.
+~
+~
+0 -1 3704 0
+D1
+Vedi l'arena.
+~
+~
+0 -1 3708 0
+D2
+Vedi l'arena.
+~
+~
+0 -1 3711 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3708
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D0
+Vedi l'arena.
+~
+~
+0 -1 3705 0
+D1
+Vedi l'arena.
+~
+~
+0 -1 3709 0
+D2
+Vedi l'arena.
+~
+~
+0 -1 3712 0
+D3
+Vedi l'arena.
+~
+~
+0 -1 3707 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3709
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D0
+Vedi l'arena.
+~
+~
+0 -1 3706 0
+D2
+Vedi l'arena.
+~
+~
+0 -1 3713 0
+D3
+Vedi l'arena.
+~
+~
+0 -1 3708 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3710
+L'anticamera~
+   Sei giunto nell'anticamera dell'arena di Daresia. Anche qui
+grandi fiaccole illuminano la scena. Il tappeto rosso avrebbe
+bisogno di essere lavato, e' pieno di macchie, sembrerebbe
+sangue coagulato. BLEAH!
+Ad est c'e' l'accesso all'arena, a nord c'e' il corridoio.
+~
+37 131072 1
+D0
+Da quella parte c'e' il corridoio.
+~
+~
+0 -1 3702 0
+D1
+Vedi l'arena.
+~
+~
+0 -1 3711 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3711
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D0
+Vedi l'arena.
+~
+~
+0 -1 3707 0
+D1
+Vedi l'arena.
+~
+~
+0 -1 3712 0
+D3
+Vedi l'anticamera.
+~
+~
+0 -1 3710 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3712
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D0
+Vedi l'arena.
+~
+~
+0 -1 3708 0
+D1
+Vedi l'arena.
+~
+~
+0 -1 3713 0
+D3
+Vedi l'arena.
+~
+~
+0 -1 3711 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#3713
+L'arena~
+   Questa stanza serve solo ed esclusivamente per
+incontri AMICHEVOLI all'ultimo sangue.
+Buona Fortuna!
+~
+37 131072 1
+D0
+Vedi l'arena.
+~
+~
+0 -1 3709 0
+D3
+Vedi l'arena.
+~
+~
+0 -1 3712 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

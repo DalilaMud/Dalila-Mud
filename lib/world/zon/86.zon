@@ -1,0 +1,76 @@
+#86
+Nessuno.~
+Mura esterne nuova Cimmura~
+8600 8699 720 2 0
+V 0 2 1 8665 vnum_grimaldello 51016
+V 1 2 1 8665 door_flags abce
+V 1 2 1 8665 dentini 6
+V 0 2 1 8664 vnum_grimaldello 51015
+V 1 2 1 8664 door_flags abce
+V 1 2 1 8664 dentini 5
+V 0 2 1 8663 vnum_grimaldello 51014
+V 1 2 1 8663 door_flags abce
+V 1 2 1 8663 immune_exit west
+V 1 2 1 8663 dentini 4
+V 0 2 1 8681 vnum_grimaldello 51013
+V 1 2 1 8681 door_flags ab
+V 1 2 1 8681 immune_exit east
+V 1 2 1 8681 dentini 3
+O 0 229 5 8681 	(il mantello della sorpresa)
+O 0 21452 5 8681 	(un pugnale arcuato)
+O 0 227 5 8681 	(degli stivali di pelle)
+O 0 226 5 8681 	(un passamontagna)
+O 0 225 5 8681 	(un giubbotto)
+M 0 9522 1 8681 	(il maestro degli Alcioni)
+O 0 51013 5 8681 	(Un grimaldello di legno  con la punta acuminata ma fragile.)
+V 0 2 1 8666 vnum_grimaldello 51017
+V 1 2 1 8666 door_flags abce
+V 1 2 1 8666 dentini 7
+O 0 51019 1 8666 	(uno scrigno di legno perfettamente conservato)
+M 0 9526 1 8689 	(una guardia reale)
+M 0 21071 1 8683 	(una guardia genidian)
+O 0 234 5 8684 	(un pugno di ferro)
+O 0 21454 5 8684 	(una spada bilama)
+O 0 232 5 8684 	(degli stivali borchiati)
+O 0 231 5 8684 	(un elmetto di metallo)
+O 0 230 5 8684 	(un'armatura di maglia)
+M 0 9518 1 8684 	(un maestro genedian)
+M 0 9514 1 8686 	(una guardia pandion)
+M 0 9519 1 8687 	(un maestro della gilda)
+O 0 214 5 8687 	(una bacchetta di missile magico)
+O 0 21455 5 8687 	(una lancia)
+O 0 212 5 8687 	(un paio di stivaletti)
+O 0 211 5 8687 	(un cappello a cono)
+O 0 210 5 8687 	(una tunica nera)
+M 0 9517 1 8680 	(una guardia alcione)
+M 0 9516 1 8677 	(una guardia peloi)
+O 0 224 5 8678 	(una cintura)
+O 0 21453 5 8678 	(un pugnale affilato)
+O 0 222 5 8678 	(calzature di cuoio)
+O 0 221 5 8678 	(un berretto verde)
+O 0 220 5 8678 	(una giacca di cuoio)
+M 0 9521 1 8678 	(una maestra peloi)
+M 0 9515 1 8674 	(una guardia cyrinic)
+O 0 219 5 8675 	(il bastone della salute)
+O 0 21456 5 8675 	(una mazza benedetta)
+O 0 217 5 8675 	(un paio di sandali)
+O 0 216 5 8675 	(un cappuccio)
+O 0 215 5 8675 	(un saio)
+M 0 9520 1 8675 	(l'alto chierico.)
+M 0 9517 1 8679 	(una guardia alcione)
+M 0 9516 1 8676 	(una guardia peloi)
+M 0 9515 1 8673 	(una guardia cyrinic)
+E 1 9511 100 6 	(&b&9un elmo nero&0)
+E 1 9512 100 12 	(&b&9un armatura nera&0)
+E 1 9513 100 10 	(&b&9un paio di parabraccia di metallo nero&0)
+E 1 9514 100 7 	(&b&9un paio di gambali in metallo nero&0)
+E 1 9515 100 9 	(&b&9un paio di guanti in metallo nero&0)
+E 1 9516 100 11 	(&1uno scudo rosso sangue&0)
+E 1 9517 100 16 	(un'affilata spada di adamantio)
+E 1 9518 100 20 	(un mantello con il sigillo di Tolnedra)
+D 0 8690 5 2 	(&1&bSala Donazioni&0)
+D 0 8662 5 1 	(Celle)
+D 0 8672 2 1 	(Una enorme testa di Drago)
+D 0 8672 0 1 	(Una enorme testa di Drago)
+S
+$

@@ -1,0 +1,1277 @@
+#500
+&d&3L'Antro della &1Prova&0~
+Stai entrando in una piccola grotta, verso nord scorgi un passaggio verso
+un corridoio piu' illuminato. Secondo le leggende e' qua che tutti i grandi
+guerrieri iniziano la loro avventura... forza e coraggio allora, la fama e
+la gloria ti aspettano!
+~
+5 4 1
+D0
+Vedi l'inizio della zona newbie.
+~
+~
+0 -1 501 0
+D3
+Torni indietro... rinunci di gia'?
+~
+~
+0 -1 2094443 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#501
+L'inizio del passaggio~
+   Ti trovi in un lungo corridoio. Puoi sentire il rumore
+delle creature che si muovono qui, ma non puoi dire da dove
+provengono esattamente.
+Le uscite portano ad est lungo l'atrio, a sud da dove provieni
+e a nord, dove scorgi un'apertura nella roccia viva... come
+fosse una... tana?
+~
+5 8 0
+D0
+~
+~
+0 0 548 0
+D1
+C'e' l'atrio... quanto e' eccitante!
+~
+~
+0 -1 502 0
+D2
+L'ingresso alla zona dei newbie.
+~
+~
+0 -1 500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#502
+Lo sporco atrio~
+   Continui il vagabondaggio nell'atrio. Niente di molto differente qui,
+ma e' positivo. Senti rumori provenire da dietro la porta a sud e da est.
+~
+5 8 0
+D1
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 503 0
+D2
+Una stanza piccola e' a sud... senti qualcosa muoversi all'interno.
+~
+porta~
+1 -1 506 3
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#503
+L'incrocio~
+   Bene... hai raggiunto un incrocio fra due passaggi, a nord e ad est,
+un passaggio illuminato, mentre l'atrio piu' scuro continua a sud.
+~
+5 8 0
+D0
+Un atrio piu' brillante comincia per quella via.
+~
+porta~
+1 -1 544 3
+D1
+Un atrio piu' brillante comincia per quella via.
+~
+porta~
+1 -1 546 3
+D2
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 507 0
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#504
+Uno stretto passaggio~
+   Lo stretto passaggio e' semplice e non decorato, ma pulito. Esso
+finisce improvvisamente a sud contro una porta di quercia piccola,
+dietro alla quale senti del movimento.
+~
+5 9 0
+D0
+Una grande stanza a volta.
+~
+~
+0 -1 547 0
+D2
+Una piccola ingombra stanza.
+~
+porta~
+1 -1 512 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#505
+La buca scura~
+   Argh... un'umida scura sporca buca. Cosa e' quell'umida scura
+cosa sporca che ti guarda dall'angolo?  Ewww... forse dovresti tornare
+indietro verso un luogo un po' piu' sicuro, a meno che tu non pensi di
+poter afferrare quella cosa nell'angolo.
+~
+5 9 0
+D4
+Vedi una scala che porta in alto.
+~
+grata~
+1 508 506 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#506
+Una piccola stanza~
+   Hmmm... questa e' una piccola stanza interessante. Ah... e c'e'
+anche una piccola creatura interessante che ti guarda. Sembra un po'
+sorpresa della tua intrusione. Puoi andartene per le porte a nord o
+ad est, o puoi stare ad importunarla un altro po'. Sembra esserci
+anche un'altra uscita, ma e' chiusa da una grata piuttosto solida.
+~
+5 8 0
+D0
+L'atrio... quanto e' eccitante!
+~
+porta~
+1 -1 502 3
+D1
+L'atrio... quanto e' eccitante!
+~
+porta~
+1 -1 507 3
+D5
+Una scala scende nell'oscurita'.
+~
+grata~
+1 508 505 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#507
+L'atrio~
+   Oh Cielo! Ancora questo irritante passaggio. Forse c'e' qualcosa di
+piu' eccitante attraverso quella porta ad ovest? O puoi andare negli atri
+a nord o a sud.
+~
+5 8 0
+D0
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 503 0
+D2
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 511 0
+D3
+~
+porta~
+1 -1 506 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#508
+Un campo aperto~
+   Finalmente sei in un campo aperto... e' cosi' bello respirare aria fresca
+di nuovo! Puoi ritornare in quel luogo umido, puzzolente ad est o uscire a
+nord verso la strada.
+~
+5 4 0
+D0
+Sembra esserci una strada di campagna a nord.
+~
+~
+0 -1 2094443 0
+D1
+La fine di quello maledetto atrio e' ad est.
+~
+~
+0 -1 509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#509
+La fine del passaggio~
+    Ahhh... finalmente, la fine dell'atrio... puoi uscire all'aria
+aperta ad ovest, o tornare ad est per essere sicuro di non esserti
+perso niente.
+~
+5 8 0
+D1
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 510 0
+D3
+Vedi un campo aperto vicino al Grande Campo di Lamorka.
+~
+~
+0 -1 508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#510
+Un atrio piu' illuminato~
+   L'atrio continua in direzione est-ovest... e sembra essere piu'
+illuminato ad ovest.
+~
+5 8 0
+D1
+Un angolo nel passaggio e' ad est.
+~
+~
+0 -1 511 0
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#511
+Un altro angolo~
+   Un altro angolo del passaggio, e tanto in disordine quanto il
+resto di questo luogo (potrebbe essere piu' di cosi'?). C'e' una
+porta ad est sebbene... ti chiedi dove possa portare.
+Oh, e l'atrio continua ad ovest e a nord.
+~
+5 8 0
+D0
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 507 0
+D1
+Sbirci in un'ingombra piccola stanza ad est.
+~
+porta~
+1 -1 512 3
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#512
+La stanza dell'Alchimista~
+   Ci sono molte bottiglie e fiaschi in questa stanza, ma tutto sembra
+essere in un indegno disordine. Pare che chiunque sia l'alchimista che ha
+ha lavorato qui non sia proprio esperto nella sua arte. Ci sono molte
+formule ed incantesimi scritte anche sui muri... non poteva comprare della
+carta? C'e' una porta a nord ed anche una scalinata scura nell'angolo che
+porta in basso, con un grande cartello che probabilmente faresti bene a
+leggere...
+~
+5 8 0
+D0
+Un atrio bello luccicante!
+~
+porta~
+1 -1 504 3
+D3
+Un angolo nel passaggio e' ad ovest.
+~
+porta~
+1 -1 511 3
+D5
+Una scura scala porta in basso.
+~
+~
+0 -1 532 0
+E
+cartello scala gradini~
+Il cartello vicino alle scale dice:
+
+Se sei sotto al livello 7 e solo, o sotto al livello 4 vai via!
+Altrimenti non biasimarmi se muori.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#513
+&d&3Oltre le &6stalattiti&0~
+Riesci ad infilarti attraverso le stalattiti che occludevano
+la vista della parete ovest: per terra puoi scorgere altre
+ossa, nascoste nella penombra. Un forte odore di sangue
+impregna le pareti di questa angusta apertura.
+~
+5 128 1
+D1
+~
+~
+0 0 548 0
+D2
+~
+~
+0 0 515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#514
+Un passaggio buio~
+La luce ora ti abbandona completamente, mentre il passaggio si fa sempre piu' stretto
+ed umido... quando ancora durera' il tuo cammino?
+~
+5 1 0
+D1
+~
+~
+0 0 515 0
+D5
+~
+~
+0 0 516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#515
+Un angusto passaggio~
+Facendoti strada tra ossa e rocce riesci ad infilarti in questo stretto budello,
+la luce che ti lasci alle spalle scompare piano piano fino a che ti ritrovi nel
+buio...
+~
+5 4 0
+D0
+~
+~
+0 0 513 0
+D3
+~
+~
+0 0 514 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#516
+Un passaggio in discesa~
+Il tuo cammino prosegue ora in discesa. Buio ed umido sembrano penetrarti fin nelle ossa,
+mentre mille occhi paiono spiarti dalle pareti di roccia che ti circondano.
+~
+5 1 0
+D0
+~
+~
+0 0 517 0
+D4
+~
+~
+0 0 514 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#517
+Un passaggio piu' largo~
+Arrivato alla fine della discesa il passaggio pare allargarsi progressivamente, noti
+anche una flebile luce alla fine di esso.
+~
+5 1 0
+D0
+~
+~
+0 0 518 0
+D2
+~
+~
+0 0 516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#518
+&d&3La grande grotta sotterranea&0~
+Finalmente ecco la fine del passaggio! La stradina che hai percorso si e' finalmente
+allargata in quella che scopri essere una delle piu' grandi grotte sotterranee che tu
+abbia mai visto. Alle pareti sono appese delle torcie che forniscono illuminazione
+cosi' che puoi esaminare ogni particolare dell'ambiente nel quale ti trovi. Un fiume
+sotterraneo scorre in mezzo alla grande grotta ed alcune casse e giacigli sono sparsi
+un po' ovunque sul pavimento fatto di roccia e sassi. Segno che questo posto e' abitato...
+ma da chi? Forse non tarderai a scoprirlo.
+~
+5 0 0
+D0
+Una piccola porta di legno
+~
+porticina~
+1 0 549 1
+D2
+~
+~
+0 0 517 0
+D3
+Una grata piccola e rozza
+~
+grata~
+1 0 519 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#519
+&d&6La rozza cella&0~
+E' qui che i predoni tengono i malcapitati che hanno la sfortuna di capitare
+nelle loro grinfie, avanzi di cibo andato a male, topi e ossa riempiono questo
+piccolo e scomodo antro... ma che ci stai facendo qua dentro??
+~
+5 1 0
+D1
+Una grata piccola e rozza
+~
+grata~
+1 0 518 1
+F
+ 3 0 0 0 0 0 0 0 0 0
+S
+#520
+Una curva in un passaggio~
+   Questo angolo e' come tutti gli altri... eccetto il fatto che vedi
+uno strano bagliore provenire da nord. Potrebbe essere un'uscita...
+~
+5 9 0
+D0
+~
+~
+0 0 529 0
+D1
+Il passaggio continua ad est.
+~
+~
+0 -1 521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#521
+Un incrocio a T nel passaggio~
+   Questo e' l'incrocio di un passaggio che va da est ad ovest con un
+corridoio che va a nord. L'aria sembra un po' piu' chiara qui, come se
+ti stessi per avvicinare ad un'uscita.
+~
+5 9 0
+D0
+~
+~
+0 0 533 0
+D1
+~
+~
+0 -1 522 0
+D3
+~
+~
+0 -1 520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#522
+Un altro angolo~
+   Il passaggio curva da nord ad ovest qui. I muri sono ancora coperti
+con lo stesso disgustoso fungo verde che hai visto dappertutto, e senti
+rumori di creature che si muovono tutto intorno a te...
+~
+5 9 0
+D2
+~
+~
+0 -1 528 0
+D3
+~
+~
+0 -1 521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#523
+Un angolo nell'atrio~
+   Puoi sentire creature muoversi tutto intorno a te... e non sono
+rumori confortanti dopo tutto. Non c'e' niente altro da dire sul
+luogo, mattoni semplici, grigi, con funghi verdi che vi crescono sopra.
+~
+5 9 0
+D1
+~
+~
+0 -1 524 0
+D2
+~
+~
+0 -1 527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#524
+Un'altra curva~
+   Hmmm... il passaggio gira a sud qui. Cominci a comprendere che
+e' facile perdersi se non stai attento, e non vorrai passare molto
+tempo qui...
+~
+5 9 0
+D2
+~
+~
+0 -1 530 0
+D3
+~
+~
+0 -1 523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#525
+Una grande stanza~
+   Il passaggio porta in una grande stanza ovale. Non c'e' veramente
+niente d'interessante qui.
+~
+5 9 0
+D1
+~
+~
+0 -1 526 0
+D2
+~
+~
+0 -1 531 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#526
+Un lungo passaggio da est ad ovest~
+   Questo e' un lungo, stretto passaggio che porta ad est e ad ovest.
+I muri sono umidi e coperti di muffa e funghi. C'e' un aria molto poco
+sana in questo luogo e cominci ad aver voglia di andartene da qui...
+presto.
+~
+5 9 0
+D1
+~
+~
+0 -1 527 0
+D3
+~
+~
+0 -1 525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#527
+Un attraversamento dei corridoi~
+   Qui uno stretto passaggio che va da est ad ovest stretto attraversa
+un passaggio piu' largo che porta a nord e a sud. L'aria e' umida e ha
+un odore di decadenza.
+Dopo tutto non e' realmente un luogo molto bello...
+~
+5 9 0
+D0
+~
+~
+0 -1 523 0
+D1
+~
+~
+0 -1 528 0
+D2
+~
+~
+0 -1 532 0
+D3
+~
+~
+0 -1 526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#528
+Una stanza d'angolo~
+   Questa stanza e' appena di piu' di un attraversamento di passaggi.
+Senti una brezza che si diffonde giu' per il passaggio a nord, ma e'
+alquanto puzzolente...
+~
+5 9 0
+D0
+~
+~
+0 -1 522 0
+D3
+~
+~
+0 -1 527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#529
+&d&1La stanza rossa&0~
+   Ti occorre un attimo per comprendere che il bagliore rosso presente
+qui proviene da un portale rotondo nel pavimento. Sembra quasi che
+qualcuno abbia dipinto un campo sul pavimento di questa stanza.
+Abbastanza stranamente, e' così realistico che puoi sentire il vento
+provenire da li'.
+~
+5 9 0
+D1
+~
+~
+0 -1 530 0
+D2
+~
+~
+0 0 520 0
+E
+portale pavimento~
+Sembra di poter scenderci dentro... ma non sei sicuro di dove finira',
+o se potrai tornare...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#530
+Un passaggio ramificato~
+   Il passaggio di nord-sud si ramifica ad est qui. C'e' uno strano rosso
+bagliore che proviene da direzione, insieme con una debole brezza.
+~
+5 9 0
+D0
+~
+~
+0 -1 524 0
+D2
+~
+~
+0 -1 534 0
+D3
+Uno strano rosso bagliore proviene da quella direzione.
+~
+~
+0 -1 529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#531
+Un passaggio~
+   Argh... questo luogo e' proprio disgustoso. Provi a rimanere lontano
+dai muri, ma il passaggio e' stretto cosi' li tocchi in continuazione.
+Sei quasi convinto che il rivestimento di funghi dei muri afferrera'
+anche te.
+~
+5 9 0
+D0
+~
+~
+0 -1 525 0
+D1
+~
+~
+0 -1 532 0
+D2
+~
+~
+0 -1 538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#532
+L'entrata~
+   E' scuro, umido, disgustoso e freddo qui. In piu' senti i rumori
+di creature tutto intorno a te... ed in qualche modo non suonano
+amichevoli. E' probabilmente saggio esercitare un qualche tipo di
+cautela qui... nessuno ti puo' dire in che cosa puoi incappare qui.
+~
+5 13 0
+D0
+~
+~
+0 -1 527 0
+D2
+~
+~
+0 -1 535 0
+D3
+~
+~
+0 -1 531 0
+D4
+~
+~
+0 -1 512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#533
+Un altro angolo~
+   Bene... che c'e' da dire. Piu' funghi, suoni piu' soprannaturali,
+ed una leggera brezza che proviene da sud. Scommetto che vuoi firmare
+un contratto d'affitto, no...?
+~
+5 9 0
+D1
+~
+~
+0 -1 534 0
+D2
+~
+~
+0 0 521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#534
+Un incrocio di passaggi~
+   Freddo, puzzolente, e rivestito di funghi verdi... giusto come la
+settimana scorsa. Inoltre, non vuoi avere niente a che fare con altri,
+vuoi solo uscire da qui ora.
+~
+5 9 0
+D0
+~
+~
+0 -1 530 0
+D2
+~
+~
+0 -1 537 0
+D3
+~
+~
+0 -1 533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#535
+Una curva nel passaggio~
+   Questo luogo e' semplicemente nauseante... certamente puzza come se
+qualcosa (o qualcuno) sia morto qui. Speri di non essere il prossimo,
+ma dai rumori che senti intorno a te, sembra come se qualcosa non abbia
+la tua stessa idea.
+~
+5 9 0
+D0
+~
+~
+0 -1 532 0
+D1
+~
+~
+0 -1 536 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#536
+Un ramo a sud~
+   Il passaggio est-ovest si ramifica verso sud. Tutto intorno a te
+c'e' l'odore della morte. Attualmente, la muffa e i funghi sui muri
+stanno aumentando, ma d'altra parte... bene... non vuoi pensare a cosa
+altro vive qui.
+~
+5 9 0
+D1
+~
+~
+0 -1 537 0
+D2
+~
+~
+0 -1 539 0
+D3
+~
+~
+0 -1 535 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#537
+Ancora un altro angolo~
+   Il passaggio qui gira e porta a nord. Senti che la' c'e' qualcosa, ma
+non sei sicuro di cosa sia. E non sei neanche sicuro di volerlo sapere!
+~
+5 9 0
+D0
+~
+~
+0 -1 534 0
+D3
+~
+~
+0 -1 536 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#538
+Una grande stanza~
+   Quasi inciampi quando entri in questa stanza... la sensazione
+improvvisa che non ci siano muri ai lati ti fanno sentire un po'
+nervoso. Improvvisamente sei vulnerabile da tutti i lati. Non puoi
+dire quanto grande sia questa stanza perche' si estende ad est piu'
+lontano di dove arriva la tua luce.
+~
+5 9 0
+D0
+~
+~
+0 -1 531 0
+D1
+La stanza si perde nelle ombre...
+~
+~
+0 -1 539 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#539
+Una grande stanza~
+   Quando entri, illumini la parete ad est. Pare ci siano scarabocchiate
+delle parole sopra, e pure un grezzo dipinto. Ad ovest la stanza si
+estende oltre la portata della tua luce, e le ombre scure ti fanno
+diventare paranoico... qualche cosa potrebbe essere nascosta la'.
+Sei dolorosamente consapevole di quanto sei esposto senza muri intorno
+a te.
+~
+5 73 0
+D0
+~
+~
+0 -1 536 0
+D3
+La stanza si estende piu' lontano di quanto puoi vedere.
+~
+~
+0 -1 538 0
+E
+scritte parole~
+La scrittura sembra dire: "attenti al Minotauro..."
+~
+E
+muro parete~
+C'e' un grezzo quadro di un uomo con la testa di toro con delle parole
+scritte vicino.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#540
+La stanza della &d&7Statua&0~
+   Qui, il passaggio entra in una piccola stanza. Le uscite sono ad
+est e a sud, ed osservi una meravigliosa, grande statua a nord.
+~
+5 9 0
+D1
+Un lungo atrio, che finisce contro una scala.
+~
+~
+0 -1 541 0
+D2
+La sala si estende a sud dove sembra essere piuttosto buio.
+~
+~
+0 -1 544 0
+E
+statua~
+Ad un'ispezione ravvicinata, vedi che la statua ha una piccola placca
+attaccata sopra. La faccia ti sembra notevolmente familiare.
+~
+E
+placca nome~
+Dice:
+
+Maynard, Burlone della Morte degli Arlecchini
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#541
+L'atrio~
+Mentre continui a vagabondare per l'atrio noti bandiere, quadri,
+ed altre decorazioni eccellenti che adornano i muri fin dall'inizio
+questo passaggio. Sembra molto diverso dal cupo passaggio da dove
+sei entrato.
+~
+5 9 0
+D1
+L'atrio finisce contro una grande scala di marmo.
+~
+~
+0 -1 542 0
+D3
+Il passaggio porta in una piccola stanza.
+~
+~
+0 -1 540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#542
+I gradini a nord~
+   Qui, la sala diventa una stanza larga, con un alto soffitto a cupola.
+Ora che il passaggio si e' rischiarato, puoi vedere che i gradini portano
+diritti verso l'alto ad un balcone prospiciente l'area. A sud la stanza
+continua, e un'altra scala e' proprio davanti a te.
+~
+5 9 0
+D2
+Vedi un'altra scala e due passaggi che portano ad ovest e a sud.
+~
+~
+0 -1 547 0
+D3
+Un ingresso a un passaggio illuminato.
+~
+~
+0 -1 541 0
+D4
+Un balcone.
+~
+~
+0 -1 543 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#543
+Lungo il &d&6fiume &b&9nero&0~
+   Da qui puoi guardare fuori ed osservare il mondo intorno. Costruito
+in semi cerchio intorno alla cupola della stanza, il balcone ti permette
+di guardare fuori in quasi tutte le direzioni. Guardando a nord, vedi il
+Grande Campo di Lamorka che continua verso le Montagne del Dragone a nord.
+~
+5 9 0
+D2
+La fine a sud del balcone.
+~
+~
+0 -1 545 0
+D5
+Giu' per la scala in una grande stanza a volta.
+~
+~
+0 -1 542 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#544
+Un atrio illuminato~
+Questa stanza e' molto diversa dal passaggio che hai appena lasciato
+a sud, muri e pavimento sono puliti e noti un disegno sotto i tuoi piedi.
+Verso nord scorgi un piccolo arco che conduce ad un'altra stanza.
+~
+5 9 0
+D0
+Una piccola stanza con una statua.
+~
+~
+0 -1 540 0
+D2
+Un incrocio di passaggi.
+~
+porta~
+1 -1 503 3
+E
+pavimento disegno~
+Sembra essere Crest della Gilda degli Arlecchini.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#545
+Il balcone~
+   Da qui puoi guardare fuori ed osservare il mondo intorno. Costruito
+in semi cerchio intorno alla cupola della stanza, il balcone ti permette
+di guardare fuori in quasi tutte le direzioni. Guardando a sud, vedi la
+grande citta' di Lamorka.
+~
+5 9 0
+D0
+La fine nord del balcone.
+~
+~
+0 -1 543 0
+D5
+Giu' per la scala.
+~
+~
+0 -1 547 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#546
+Un atrio illuminato~
+La stanza nella quale stai entrando e' illuminata e pulita e 
+scorgi un passaggio nella direzione opposta a quella dalla
+quale provieni.
+~
+5 9 0
+D1
+Il passaggio passa in una stanza con una grande scala di marmo.
+~
+~
+0 -1 547 0
+D3
+Un buio incrocio di passaggi.
+~
+porta~
+1 -1 503 3
+E
+pavimento disegno~
+Sembra essere Crest della Gilda degli Arlecchini.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#547
+I gradini a sud~
+   Qui, la sala diventa una stanza larga, con un alto soffitto a cupola.
+Ora che il passaggio si e' rischiarato, puoi vedere che i gradini portano
+diritti verso l'alto ad un balcone prospiciente l'area. A nord la stanza
+continua, e un'altra scala e' proprio davanti a te
+~
+5 9 0
+D0
+Un'altra scala e' a nord, cosi' come un passaggio ad ovest.
+~
+~
+0 -1 542 0
+D2
+Uno stretto passaggio a sud, che finisce contro una porta di legno.
+~
+~
+0 -1 504 0
+D3
+Giu' verso l'atrio illuminato.
+~
+~
+0 -1 546 0
+D4
+Un balcone.
+~
+~
+0 -1 545 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#548
+&d&3La Tana del Drago&0~
+Una grotta nella roccia viva, con un rivolo d'acqua che scorre sulla parete est.
+La parete ovest e' invece seminascosta da stalagmiti e stalattiti che ne occludono la visuale.
+Nell'ambiente, a parte la forte umidita', regna un odore forte come di pelo bagnato.
+Alcune ossa rosicchiate sono sparse per terra.
+~
+5 0 0
+D2
+~
+~
+0 0 501 0
+D3
+~
+~
+0 0 513 0
+E
+stalattite stalagmite parete~
+Incredibile! Dietro la muraglia formata dalle formazioni calcaree scopri una sorta 
+di cuccia ricavata nella roccia rivestita di paglia e stracci di stoffa.. morsicati.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#549
+Gli alloggi dei predoni~
+Ti trovi in una grande stanza, rozza e disordinata. Diversi giacigli scomposti
+sono sparsi per tutto il pavimento, casse piene di oggetti, cibo e avanzi
+ingombrano gli angoli e l'unica fonte di luce di tutta la stanza e' rappresentata
+da poche torce appese alle fredde pareti di roccia.
+~
+5 0 0
+D2
+Una piccola porta di legno
+~
+porticina~
+1 0 518 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#591
+Una stanza sotterranea~
+Chissa' da quanto tempo questo posto e' stato sepolto.. dimenticato dagli uomini.
+Nel centro noti una specie di rozzo altare, sopra cui giace un amuleto.
+~
+5 424 0
+D4
+~
+~
+0 0 1537550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#592
+I lavori per la &1Cattedrale&0~
+A quanto pare sono in corso i lavori per una grande opera architettonica qui.
+Vedi schiavi Duergar andare e venire portando attrezzi e materiali, mentre i
+loro aguzzini non morti li frustano per farli lavorare piu' alacremente!    
+~
+5 140511940 1
+D2
+~
+~
+0 0 5445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#593
+&7&bAvvolta nelle Nebbie...&0~
+Improvvisamente le fredde e mistiche &7&bnebbie&0 di Avalon ti avvolgono, facendo sparire tutto cio'
+che si trova attorno a te. Inizi a camminare lungo un percorso etereo fatto di &b&6rugiada&0,fino a scorgere
+in lontananza una luce bianca e fredda.
+~
+5 0 0
+D0
+~
+~
+0 0 597 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#594
+La Stanza delle &1Ubriacature&0!~
+L'esalazioni di questa stanza ti danno alla testa ad ogni angolo trovi
+catasti di persone e bottiglie di alcolici di varia natura...
+Quattro tavoli con le loro sedie sono stati messi al centro di questa
+stanza, il posto non sara' ospitale ma a quanto pare se vuoi ubriacarti
+sei al posto giusto!
+~
+5 0 0
+D0
+~
+~
+0 0 595 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#595
+&0Al &1&bDrago&6 Dormiente&0~
+
+Attraversando la soglia arrivi in un ampia stanza &9&bpolverosa&0, un oste
+dal volto sfregiato sta pulendo un bicchiere. Un raggio di luce si proietta
+dalla finestra rotta su un tavolo sgangherato di legno, sulla destra vedi 
+invece tre piccoli hobbit bere una &3&bbirra&0 allegramente. Alla parete a
+sud una porta semichiusa sbatte continuamente per via dei capricci del vento.
+~
+5 0 0
+D2
+~
+~
+0 0 594 0
+D3
+~
+~
+0 0 8541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#596
+&6La Stanza della Meditazione.&0~
+Tutto cio' che ti circonda e' avvolto dalle &b&7nebbie&0 e una strana armonia ti pervade, fino a 
+rapirti la mente.. Una dolce melodia invade l'aria tutt'intorno e lentamente i tuoi occhi mettono a 
+fuoco cio che ti circonda
+Vedi un piccolo &7&bletto di soffici piume&0 posto nei pressi di una spessa &b&6finestra
+&6&b di cristallo&0. Una pianta d'&2edera&0 si arrampica lungo le pareti di questa stanza di cui non riesci
+ad intravedere il soffitto
+Noti una &3ciotola&0 colma di &7latte&0 poggiata accanto al letto e , in un angolo della stanza, 
+una maestosa &b&3arpa dorata&0 emana un &7tenue bagliore&0.
+Ti avvicini alla finestra per guardare il panorama..
+&b&7Nebbia&0..
+
+Un &1iscrizione&0 e' impressa fuoco sulla parete orientale...&0
+
+~
+5 240518171136 0
+D1
+~
+~
+0 0 597 0
+E
+iscrizione~
+L'affetto e' una cosa troppo grande da comprare, Sacerdotessa di Avalon. Questo dono divino viene solo
+dal mio cuore e dal mio rispetto, eterno nei secoli dei secoli. 
+
+&1M.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#597
+&7L'Antro delle &bNebbie&0~
+Spingi i tuoi passi sino ad un &7cancelletto d'argento&0 interamente ricoperto d'&bedera&0, con 
+cautela lo socchiudi per sbirciare un po quel posto che richiama cosi' tanto la tua attenzione.
+Mentre avanzi lentamente , riccioli di fitta &b&7nebbia&0 iniziano ad avvolgerti le caviglie 
+risalendoti sino al volto e offuscandoti totalmente la vista.
+Ti senti smarrito, e vorresti tornare indietro..se solo riuscissi a vedere la strada..
+D'un tratto una &b&3tenue luce&0 proveniente dall'alto attira il tuo sguardo, infondendoti uno 
+strano senso di quiete.
+~
+5 171798694476 0
+D3
+~
+~
+0 0 596 0
+D5
+~
+~
+0 0 2134345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#598
+Uno scuro e lungo corridoio~
+Questo corridoio e' molto scuro e soffocante. Ti manca l'aria!
+~
+5 140737488355753 0
+D0
+~
+~
+0 0 12182 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#599
+L'isola dei sogni~
+L'isola dei sogni e' il luogo in cui convergono i pensieri piu' assurdi di
+tutti gli abitanti della Daresia.  Qui strane parole, esperienze impossibili,
+argomenti impensati scorrono nell'aria eterei...  Qui tutto e' permesso!    
+Ti abitui lentamente e ti integri con il gruppo di anime chiacchierone e fluttuanti..
+
+&1In questa stanza ogni argomento (OT, gioco e quant'altro) e' valido. Fatene buon uso
+e digitate "ritorna" per tornare alla vostra piazza cittadina!&0
+~
+5 131092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

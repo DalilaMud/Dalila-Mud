@@ -1,0 +1,2281 @@
+#1600
+The Beginning~
+Not much here.
+~
+16 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1601
+L'altare di Nimrhuin~
+You are in an unfinished room.
+Questo e' il sacro altare dedicato a Nimrhuin
+Lascia un'offerta per lui o verrai fulminato dal cielo!
+~
+16 985162418489296 0
+D0
+Nothing.
+~
+porta~
+1 0 1600 1
+D2
+Una porta di legno.
+~
+porta~
+1 890121 1333 135
+E
+altare~
+E' semplicemente immenso, segno di grande potere!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1602
+Il primo piano della torre~
+La torre va restringendosi, e a questo piano e' ancora molto ampia.
+Senti strani lamenti provenire da nord, non spaventosi, ne' ti muovono
+a pieta'. Sembrano quasi dei... belati!
+Sul pavimento sono incisi degli strani segni a formare un misterioso
+cerchio, e un fascio di luce quanto meno singolare sembra sprigionarsi
+da esso, ad ogni momento cambiando la provenienza con un risultato
+piuttosto deconcentrante...
+Sul soffitto si riflette quella luce rossa, a formare delle lettere!
+~
+16 0 0
+D0
+~
+~
+0 0 1603 0
+D5
+~
+~
+0 0 1622 0
+E
+scritta lettere luce~
+"Se la scarpa e' comoda e il suolo duro
+spesso son lungo, agile e sicuro.
+Mi usano anche per superare i monti,
+sono naturale e piu' resistente dei ponti."
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1603
+Uno spiazzo al primo piano della torre~
+Una piccola folla occupa gli angoli di questa stanza, producendo un
+discreto rumore che di certo non ti aiuta a capire il motivo di tutto
+cio'. Esseri di ogni tipo ti guardano con aria disperata e un po'
+comica, e a stento riesci a trattenere le risa.
+Hai la costante impressione che se ti lasciassi andare la tua vita
+potrebbe rivelarsi assai breve, pertanto taci e continui l'ascesa.
+~
+16 0 0
+D2
+~
+~
+0 0 1602 0
+D4
+~
+~
+0 0 1604 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1604
+Il secondo piano della torre~
+Questo piano e' frammantato in molte piccole stanze, dalle quali
+saltuariamente esce il suono di un lamento o di una piccola
+esplosione... di certo si tratta degli inesperti allievi dello
+stregone.
+Delle fiamme basse e imperiture sono disposte sul terreno in modo
+alquanto bizzarro, non hai mai visto un fuoco cosi' ordinato!
+Un tempo questa doveva essere la stanza piu' trafficata e
+caratteristica della torre, ma ora gli allievi distratti evitano di
+passarci per non rischiare scottature nelle fiamme...
+~
+16 0 0
+D0
+~
+~
+0 0 1605 0
+D5
+~
+~
+0 0 1603 0
+E
+fiamme scritta~
+Queste fiamme ordinate sono disposte in un modo davvero particolare...
+sembrano formare delle parole!
+Nella tua mente si delinea una frase, alquanto priva di senso, e tu
+non dubiti che sia solo frutto della tua immaginazione:
+"Esisto da sempre ma non sono mai nato,
+sono gioia e sconfitta per il creato,
+piu' ti agiti, prima sarai inerme contro me;
+ma se ti rilassi, ti colpiro' inesorabile."
+Sotto, in piccolo, c'e' scritto:
+"Fate l'azione prima detta su cio' quivi detto, e arriverete al luogo
+esatto"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1605
+Un atrio sul secondo piano~
+Colonnine di fumo si alzano ai lati di questa stanza, da alcuni fori
+sul terreno piuttosto che dagli strani intrugli che alcuni giovani
+maghi sono intenti a trasportare con cautela. Gli angoli della stanza
+sono piuttosto confusi e offuscati, ma riesci anche qui a sentire
+alcuni strani lamenti quasi comici... Inizi a pensare che questo
+stregone, o i suoi allievi, facciano strani incantesimi e usino la
+torre come prigione e i suoi abitanti come cavie!
+~
+16 0 0
+D0
+~
+~
+0 0 1606 0
+D1
+~
+~
+0 0 1607 0
+D2
+~
+~
+0 0 1604 0
+D3
+~
+~
+0 0 1606 0
+D5
+~
+~
+0 0 1606 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1606
+La stanza di un adepto~
+Metti il piede all'interno di questa stanza e senti uno strano
+click...
+L'aria comincia a vibrare, e un leggero rumore si diffonde nell'aria,
+come se qualcosa si stesse caricando...
+Tra due poli ai lati opposti della stanza si crea immediatamente un
+campo di stasi, e una saetta inizia a rimbalzare per la stanza
+colpendoti ripetutamente.
+Maledette trappole magiche!
+~
+16 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1607
+Il sottoscala del secondo piano~
+Una scala a chiocciola parte da qui per raggiungere l'ultimo piano
+della torre.
+E' molto lunga, e dubiti di aver mai visto in vita tua un edificio
+con dei piani cosi' alti, ne' capisci l'utilita' di questa strana
+particolarita'.
+Vedi una strana luce sul piano superiore, e ti viene spontaneo
+allentare la spada nella sua fodera...
+~
+16 4 0
+D3
+~
+~
+0 0 1605 0
+D4
+~
+~
+0 0 1608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1608
+Il terzo piano della torre~
+Sei prossimo alla sommita' della torre, ma puoi notare come essa in
+realta' non si restringa molto, poiche' ancora lo spazio e' notevole.
+A nord vedi una piccola stanza da cui proviene una luce forte e molto
+anomala, mentre ad est vedi una porta, ed oltre ad essa il vuoto...
+Tutte le ombre roteano minacciosamente a seconda del luogo della
+stanzetta a nord dal quale proviene la luce, e quando raggiungono i
+tuoi occhi ti senti stranamente inquieto...
+Del sangue gocciola dal soffitto, e va a formare una scritta
+disponendosi magicamente... raccapricciante!
+~
+16 0 0
+D0
+~
+~
+0 0 1609 0
+D5
+~
+~
+0 0 1607 0
+E
+sangue scritta~
+"Il principe ha molti tesori, tutti belli, tutti preziosi.
+Il principe ha molte guardie, tutte forti, tutte minacciose.
+Il principe ha molto a cuore, tutti i tesori, tutte i beni.
+Il principe ha una maledizione, tanto grande, tanto tremenda.
+La maledizione incombe, si' incombe, si' incombe.
+La maledizione e' pesante, tanto dura, tanto dannosa.
+La maledizione lo schiaccera', si' lo schiaccera', lo uccidera'.
+La maledizione e' su un oggetto, tanto carino, tanto dannato.
+Quell'oggetto puo' essere utile, si' utile, tanto utile.
+Quell'oggetto puo' uccidere i demoni, tutta la citta', si' tutta.
+Quell'oggetto puo' chiudere il male, tanto brutto, tanto cattivo.
+Quell'oggetto e' pero' del mondo, la gloria, la rovina."
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1609
+Il portale per un'altra dimensione~
+Un portale al centro di questa piccola stanza risplende di luce
+propria, e il suo colore non ti piace...
+Ma ancor meno ti piace il grosso demone che gli fa la guardia!
+~
+16 4 0
+D0
+~
+~
+0 0 1632 0
+D2
+~
+~
+0 0 1608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1610
+Il labirinto degli spettri~
+Sei appena entrato nel labirinto, ed hai gia' perso completamente il
+senso dell'orientamento!
+Vedi una luce provenire da est...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1621 0
+D1
+~
+~
+0 0 1611 0
+D2
+~
+~
+0 0 1623 0
+D3
+~
+~
+0 0 1623 0
+D4
+~
+~
+0 0 1623 0
+D5
+~
+~
+0 0 1623 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1611
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Senti un'eco indistinta provenire dal basso...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1623 0
+D1
+~
+~
+0 0 1623 0
+D2
+~
+~
+0 0 1621 0
+D3
+~
+~
+0 0 1623 0
+D4
+~
+~
+0 0 1612 0
+D5
+~
+~
+0 0 1610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1612
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Senti uno strano odore di erbe bruciate proveniente da est...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1610 0
+D1
+~
+~
+0 0 1626 0
+D2
+~
+~
+0 0 1611 0
+D3
+~
+~
+0 0 1623 0
+D4
+~
+~
+0 0 1621 0
+D5
+~
+~
+0 0 1613 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1613
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+La strada diventa stranamente piu' liscia e regolare a nord...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1627 0
+D1
+~
+~
+0 0 1623 0
+D2
+~
+~
+0 0 1612 0
+D3
+~
+~
+0 0 1610 0
+D4
+~
+~
+0 0 1614 0
+D5
+~
+~
+0 0 1611 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1614
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Il tuo sesto senso non si sbaglia! Sei assolutamente convinto di dover
+procedere verso est!
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1615 0
+D1
+~
+~
+0 0 1628 0
+D2
+~
+~
+0 0 1610 0
+D3
+~
+~
+0 0 1613 0
+D4
+~
+~
+0 0 1611 0
+D5
+~
+~
+0 0 1623 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1615
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Vedi una luce provenire dal basso...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1623 0
+D1
+~
+~
+0 0 1611 0
+D2
+~
+~
+0 0 1614 0
+D3
+~
+~
+0 0 1612 0
+D4
+~
+~
+0 0 1616 0
+D5
+~
+~
+0 0 1624 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1616
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Senti un'eco indistinta provenire da nord...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1625 0
+D1
+~
+~
+0 0 1610 0
+D2
+~
+~
+0 0 1617 0
+D3
+~
+~
+0 0 1612 0
+D4
+~
+~
+0 0 1623 0
+D5
+~
+~
+0 0 1615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1617
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Senti uno strano odore di erbe bruciate proveniente da sud...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1611 0
+D1
+~
+~
+0 0 1616 0
+D2
+~
+~
+0 0 1626 0
+D3
+~
+~
+0 0 1613 0
+D4
+~
+~
+0 0 1623 0
+D5
+~
+~
+0 0 1618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1618
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+La strada diventa stranamente piu' liscia e regolare a sud...
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1623 0
+D1
+~
+~
+0 0 1623 0
+D2
+~
+~
+0 0 1627 0
+D3
+~
+~
+0 0 1619 0
+D4
+~
+~
+0 0 1611 0
+D5
+~
+~
+0 0 1614 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1619
+Il labirinto degli spettri~
+Hai completamente perso l'orientamento!
+Sia maledetto questo labirinto, e con esso i suoi creatori!
+Il tuo sesto senso non si sbaglia! Sei assolutamente convinto di dover
+procedere verso ovest!
+~
+16 140737488356353 0
+D0
+~
+~
+0 0 1623 0
+D1
+~
+~
+0 0 1623 0
+D2
+~
+~
+0 0 1623 0
+D3
+~
+~
+0 0 1628 0
+D4
+~
+~
+0 0 1620 0
+D5
+~
+~
+0 0 1610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1620
+Il labirinto degli spettri~
+Finalmente... l'uscita!
+Riprendi a respirare, e vedi anche una luce risplendere verso l'alto.
+Non appena i tuoi occhi si abituano alla maggiore illuminazione, ti
+accorgi che questo posto e' molto meno buio di quanto non pensassi, e
+vedi luci anche ai tuoi fianchi, e davanti a te.
+Le luci ti circondando, ma sono... fiamme!
+Le fiamme ti circondano, ti stanno bruciando! Devi sfuggire al piu'
+presto, e l'unica uscita che a prima vista ti pare agibile e' quella
+verso l'alto.
+~
+16 70368744178852 0
+D4
+~
+~
+0 0 1629 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1621
+Il labirinto degli spettri~
+La stessa aria di questo posto trasuda insieme morte e terrore!
+Ogni minimo rumore ti fa disperare, e sognare la tua ospitale casa,
+i volti amici, una buona taverna.
+Lo squittio di un topo ti fa sobbalzare, e subito dopo un poderoso
+boato ti fa rimanere paralizzato...
+Un'&1iscrizione&0 e' intagliata sul muro, e uno strano colorante rosso
+le da' rilievo... ti convinci che e' di gran lunga meglio non indagare
+sulla sua natura.
+~
+16 1157 0
+D1
+~
+~
+0 0 1610 0
+E
+iscrizione~
+Dispera, avventuriero!
+Questo e' il labirinto degli spettri, mai nessuno e' riuscito a
+fuggire di qui, ne' tu hai speranza di compiere quest'impresa.
+La morte ti attende, o forse un destino di gran lunga peggiore...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1622
+L'entrata alla torre dello stregone delle vesti nere~
+Alta di fronte a te si erge la torre dello stregone delle vesti nere.
+Il suo potere e' di certo grande, e non dubiti che egli l'abbia
+costruita con la sola forza della volonta'. Dalle piccole finestre
+esce luce di colore cangiante, e ogni tanto qualche piccolo oggetto
+seguito dalle imprecazioni di una bestia selvaggia.
+Qualcosa non deve andare per il meglio la' dentro...
+~
+16 388 0
+D3
+~
+~
+0 0 1487451 0
+D4
+~
+~
+0 0 1602 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1623
+Il labirinto degli spettri~
+Svolti lungo il percorso del labirinto, ma ti accorgi di essere
+arrivato ad un vicolo cieco. Ti giri per tornare indietro appena in
+tempo per vedere la strada chiudersi dietro di te.
+Un terribile ghigno permea l'aria, e vedi una schiera di fantasmi
+avanzare, piangendo quasi a formare un'unica, dolorosa, canzone.
+L'ultima cosa che vedi e' i fantasmi intenti a far scempio del tuo
+corpo, per invidia e rabbia verso l'aspetto di cui furono privati. Mai
+riuscisti a sognare una morte tanto atroce!
+~
+16 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1624
+Il labirinto degli spettri~
+Arrivi finalmente in un posto ben illuminato, dove puoi respirare un
+po'. C'e' davvero tanta luce in questo posto!
+La luce ti circonda, che belle fiammelle!
+La luce si avvicina, che calde fiammelle!
+La luce ti sovrasta, che cattive fiammelle!
+Tutto va in fiamme! La tua immagine e' ormai quella di una triste
+figura con una corona di fuoco, e gli occhi vitrei... Le trappole
+degli spettri hanno avuto la meglio su di te!
+~
+16 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1625
+Il labirinto degli spettri~
+Arrivi di fronte ad una semplice parete vuota, sulla quale certamente
+il suono e' rimbalzato prima di giungere alle tue orecchia.
+Di certo quella che avevi udito era solo un'eco, e sembra che gli
+spettri abbiano utilizzato questo banale trucco per trarti in inganno,
+tanto che si apprestano ad incedere verso di te...
+Il tuo spirito e' colmo di disperazione, quando ormai sono a meno di
+due metri da te, e senti la pesante mano del fato raggiungerti.
+I tuoi nemici, da parte loro, cercano sollievo nelle loro pene
+infliggendone agli altri di maggiori, e di certo tu non farai
+eccezione.
+Addio folle avventuriero!
+~
+16 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1626
+Il labirinto degli spettri~
+Un grosso braciere arde in mezzo alla stanza, e alcune foglie
+aromatiche si stanno scaldando sopra di esso, diffondendo un piacevole
+odore. Non avresti pensato che in luoghi cosi' bui e reconditi potesse
+esistere un luogo di tale relativo benessere...
+Ti rilassi un attimo, appoggiando la schiena alla parete, e sprofondi
+in un piacevole e rilassante sonno...
+Solo una fredda e scomoda lama disturba il tuo sonno, ma proprio sul
+tuo collo doveva posarsi?
+Ti giri dall'altra parte e continui a riposare, piu' comodamente, e per
+l'eternita'.
+~
+16 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1627
+Il labirinto degli spettri~
+Finalmente il cammino si fa piu' agevole, la strada e' piu' liscia e
+le pareti regolari, e l'aria molto piu' respirabile.
+Una serie regolare di torce sono allineate sulla parete destra, e
+prendi a seguirla fiducioso. All'improvviso le luci si interrompono, e
+risolvi di girarti per tornare al tuo primo cammino...
+Orrore!
+Le luci si sono completamente spente, e sei arrivato in un punto cosi'
+buio che non riesci piu' a vedere alcunche'...
+Un sogghigno terribile ti paralizza, e una crudele lama ti trafigge.
+~
+16 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1628
+Il labirinto degli spettri~
+Finalmente, il tuo sesto senso ti ha portato fuori di quel posto
+infernale!
+In preda al buon umore dimentichi ogni saggia decisione, inizi a
+muoverti qua e la', tastando le pareti e cercando l'uscita, poiche'
+le migliori condizioni che senti sono inequivocabili segni di
+un'uscita vicina.
+Tocchi una parete meno regolare, una piccola sporgenza, provi a
+scuoterla e senti un gran dolore all'addome...
+Maledette trappole degli spettri!
+~
+16 7 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1629
+Una scala verso la cima~
+Approfitti della relativa calma per rinfiatare un po', e leccarti le
+ferite... verso l'alto la lunga scala conduce ai piani piu' alti di
+questa misteriosa torre, fino a scomparire alla vista negli insalubri
+fumi che riempono queste stanze, mentre ormai ti resta impossibile
+tornare indietro verso il basso senza saltare alla cieca tra le
+fiamme, rischiando nella migliore delle ipotesi di romperti il collo
+o morire tra le fiamme...
+Non ti resta che salire, e, a quanto pare, sfidare il signore degli
+spettri!
+~
+16 1153 0
+D4
+~
+~
+0 0 1630 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1630
+Il penultimo piano della torre~
+Questa sala e' quasi perfettamente rotonda, e tende a restringersi
+verso l'alto. Sopra di te raggiunge una dimensione tale che due uomini
+farebbero molta fatica a passarvi insieme, chi avra' scelto un posto
+tanto angusto come abitazione?
+Purtroppo non devi affatto interrogarti a lungo per trovare una
+risposta...
+~
+16 1153 0
+D4
+~
+~
+0 0 1631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1631
+La cima della torre dello spettro~
+La cima della torre si allarga all'improvviso a creare uno spiazzo
+liscio e rotondo in cima al quale soffiano forti venti.
+L'oscurita' sopra di te e' come pece, e ti circonda opprimendoti...
+Un ghigno ti giunge alle orecchia, nitido tra gli ululati dell'aria,
+tremendo come mai non ne avevi sentiti, forte come un limpido urlo sul
+campo di battaglia.
+I rumori ti circondano, e pensi che presto impazzirai...
+Se guardi di sotto vedi un'interminabile oscurita'...
+~
+16 281474976711681 0
+D5
+~
+~
+0 0 1653 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1632
+Il portale per la dimensione terrestre~
+Un grosso portale torreggia scintillante, e l'energia che emana e'
+davvero notevole.
+Due maghi sono costantemente attivi a mantenere sicuro l'accesso,
+talmente sicuri delle difese della loro cittadina da rischiare pur di
+mandare i propri abitanti altrove, a discapito della dimensione che
+un tempo amavi.
+~
+16 0 0
+D0
+~
+~
+0 0 1633 0
+D2
+~
+~
+0 0 1609 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1633
+Un incrocio incurato~
+Questa strada e' completamente trascurata ormai da tempo immemore!
+Non esiste piu' una via sicura attraverso di essa, ma i demoni
+camminano spediti incuranti delle difficolta', specie quelli
+volanti...
+Questo deve essere l'accesso e il centro della cittadella, e ti senti
+tremendamente osservato.
+~
+16 0 0
+D0
+~
+~
+0 0 1640 0
+D1
+~
+~
+0 0 1637 0
+D2
+~
+~
+0 0 1632 0
+D3
+~
+~
+0 0 1634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1634
+La lunga strada est-ovest~
+La strada corre a lungo in senso latitudinale, e con sommo stupore
+riesci a percorrerla senza incappare in troppi nemici, e lo sforzo
+maggiore e' rappresentato da evitare slogature sul fondo dissestato.
+Qualche orchetto corre qua e la' inseguito da un demone, e cerchi
+(spesso invano) di evitarli, ma ti aspettavi una resistenza ben
+maggiore... che siano tutti impegnati in una spedizione in un'altra
+dimensione?
+~
+16 0 0
+D0
+~
+~
+0 0 1635 0
+D1
+~
+~
+0 0 1633 0
+D3
+~
+~
+0 0 1636 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1635
+Un posto di guardia~
+Appena entri una moltitudine di occhi ti puntano, e avverti molte
+intenzioni in questi sguardi, ma nessuno buono.
+Senti un bisbiglio, e quando comprendi bene che dice inizi a
+spaventarti:
+"Finalmente un po' di buona carne!"
+~
+16 0 0
+D2
+~
+~
+0 0 1634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1636
+Uno spiazzo vuoto~
+Quel poco che poteva rendere minimamente vario l'ambiente attorno a
+questa strada distrutta qui cessa improvvisamente di essere, e la
+strada stessa sembra piu' curata per il semplice fatto che e' stata
+spianata da un fuoco distruttore. O forse da qualcosa di si'
+distruttore, ma ben peggiore del fuoco...
+~
+16 0 0
+D0
+~
+~
+0 0 1650 0
+D1
+~
+~
+0 0 1634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1637
+La lunga strada est-ovest~
+La strada corre a lungo in senso latitudinale, e con sommo stupore
+riesci a percorrerla senza incappare in troppi nemici, e lo sforzo
+maggiore e' rappresentato da evitare slogature sul fondo dissestato.
+Qualche orchetto corre qua e la' inseguito da un demone, e cerchi
+(spesso invano) di evitarli, ma ti aspettavi una resistenza ben
+maggiore... che siano tutti impegnati in una spedizione in un'altra
+dimensione?
+~
+16 0 0
+D1
+~
+~
+0 0 1638 0
+D3
+~
+~
+0 0 1633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1638
+Un presidio insanguinato~
+Due grossi rivoli di sangue scorrono ai lati della strada malridotta
+in canali improvvisati che, probabilmente, si sono creati da soli.
+Una considerevole pila di cadaveri ostacola il tuo cammino, e tra
+essi puoi vedere impavidi guerrieri del passato, come orchetti e
+demoni che avevano dato le loro arti militari alla difesa della
+cittadella. Che furia puo' aver provocato tutto cio'?
+~
+16 0 0
+D0
+~
+~
+0 0 1641 0
+D1
+~
+~
+0 0 1639 0
+D3
+~
+~
+0 0 1637 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1639
+Un atrio presidiato~
+Al tuo arrivo un brusio misto a grida dissolute cessa immediatamente,
+e l'aria si fa tesa e ferma.
+Puoi sentire la presenza di nemici tutto attorno a te, e il grosso
+edificio rosso fuoco che si erge in prossimita' e' probabilmente la
+causa della loro presenza.
+~
+16 0 0
+D0
+~
+~
+0 0 1647 0
+D3
+~
+~
+0 0 1638 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1640
+Una strada sorvegliata~
+Questa strada minore si dirama da nord a sud, ma di certo non e'
+lasciata sgombra di guardie dai Grandi Demoni. Un grosso guerriero
+avanza infatti senza timore, difendendendo, non solitario, la via del
+nord.
+~
+16 0 0
+D0
+~
+~
+0 0 1643 0
+D2
+~
+~
+0 0 1633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1641
+Un passo irto~
+Un sentiero si inerpica su per una piccola montagna rocciosa e
+spoglia, ma il senso della sua creazione ti sfugge. Probabilmente in
+cima si trova un posto d'osservazione, e inizi a temere di venir
+vigliaccamente trafitto dal dardo di un arciere invisibile.
+Affretti il passo stanco, e qualche sassolino si stacca rotolando
+per qualche metro e poi cadendo sopra la testa di un orchetto poco
+sotto. Se avevi qualche speranza di nascondere il tuo arrivo, e' di
+certo svanita.
+~
+16 4 5
+D2
+~
+~
+0 0 1638 0
+D4
+~
+~
+0 0 1642 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1642
+La cima del monte~
+Di quassu' puoi godere di una vista chiara quanto orripilante della
+mostruosa cittadella. Ti si svela la posizione strategica dei due
+edifici di comando, posti ai due estremi nord, in grado di
+controllare tutto il territorio e di formare un triangolo equilatero
+con il luogo ove si e' aperto il portale.
+Se qualche mago imprudente l'ha aperto nella tua dimensione, di certo
+non e' stata del tutto opera sua, e forse l'ha fatto davvero
+involontariamente...
+~
+16 0 5
+D5
+~
+~
+0 0 1641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1643
+Un incrocio sotto la roccia~
+La strada si divide in questo punto. Verso sud riesci a vedere in
+lontananza una luce scintillante, mentre ad est e ad ovest due grossi
+edifici dominano l'orizzonte. La strada e' estremamente rovinata sul
+lato occidentale, e vedi muoversi quello che ti sembrava un enorme
+masso...
+~
+16 0 0
+D1
+~
+~
+0 0 1644 0
+D2
+~
+~
+0 0 1640 0
+D3
+~
+~
+0 0 1646 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1644
+La lunga strada settentrionale~
+Questa strada e' quella frequentata con maggior frequenza e
+velocita', perche' porta al palazzo contenente anche le prigioni.
+Nonostante esse siano poco affollate, vi e' sempre qualche schiavo
+che tenta di fuggire, e nella migliore delle ipotesi la fuga finisce
+nel (suo) sangue.
+Purtroppo dubiti che il tuo arrivo possa essere utile alla fuga di
+qualcuno, e piuttosto cerchi di evitare una fine comune ad
+entrambi...
+~
+16 0 0
+D1
+~
+~
+0 0 1645 0
+D3
+~
+~
+0 0 1643 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1645
+La lunga strada settentrionale~
+Questa strada e' quella frequentata con maggior frequenza e
+velocita', perche' porta al palazzo contenente anche le prigioni.
+Nonostante esse siano poco affollate, vi e' sempre qualche schiavo
+che tenta di fuggire, e nella migliore delle ipotesi la fuga finisce
+nel (suo) sangue.
+Purtroppo dubiti che il tuo arrivo possa essere utile alla fuga di
+qualcuno, e piuttosto cerchi di evitare una fine comune ad
+entrambi...
+~
+16 0 0
+D1
+~
+~
+0 0 1647 0
+D3
+~
+~
+0 0 1644 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1646
+Un presidio distrutto~
+Questo posto e' continuamente scosso da forti scosse, che, purtroppo
+per te, ti accorgi essere generate da una specie di masso enorme che
+ti viene incontro...
+Le continue vibrazioni hanno contribuito alla distruzione quasi
+totale che governa questo posto, ma pensi che quella... cosa che ti
+viene incontro ami distruggere tutto cio' che vede.
+~
+16 4 0
+D1
+~
+~
+0 0 1643 0
+D3
+~
+~
+0 0 1650 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1647
+Un edificio rosso fuoco~
+Le pareti che esternamente brillavano d'un vivo rosso fuoco sono
+sottoposte, sul lato interno, all'inesorabile azione delle fiamme.
+Tale e tanto forte e' stata nel tempo la loro permanenza a contatto
+con la spessa parete di roccia che questa si  surriscaldata fino in
+profondita'.
+Tremi al pensiero di come queste fiamme perpetue siano tenute accese,
+ma pensandoci ti rilassi un po'... il grasso umano brucia male!
+~
+16 0 0
+D2
+~
+~
+0 0 1639 0
+D3
+~
+~
+0 0 1645 0
+D4
+~
+~
+0 0 1648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1648
+La torre minore~
+Questa torre, relativamente bassa, riluce di un'intensa luce rosso
+fuoco ed e' contorniata di fiaccole e fuochi d'ogni tipo al punto da
+risultare quasi invivibilmente calda. I pochi piani che la compongono
+conducono ad un ultimo piuttosto ampio e ancora piu' caldo.
+Tremi al pensiero di quale entita' possa richiedere una simile
+temperatura per sopravvivere, ma, qualunque cosa sia, non ha bisogno
+di particolari guardie a sorvegliare la propria entrata.
+Anche perche' poche resisterebbero a queste temperature!
+~
+16 70368744177668 0
+D4
+~
+~
+0 0 1649 0
+D5
+~
+~
+0 0 1647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1649
+Una stanza in fiamme~
+Folate di calore provengono dal magma informe che ribolle al centro
+della stanza, e il tuo corpo inizia a soffrire per la temperatura
+insostenibile. Ti chini in ginocchio soffrendo per te stesso e le
+strazianti grida di dolore che ti circondano, stringendo l'elsa della
+tua arma fino quasi a farti sanguinare le mani.
+La tua mente fluttua in un mare di dolore, e riesci appena ad alzare
+un sopracciglio per accorgerti che e' gia' ora di combattere!
+~
+16 70368744177708 0
+D5
+~
+~
+0 0 1648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1650
+Un edificio rosso sangue~
+Le pareti di questa stanza sembrano muoversi attorno a te... Che
+succede? Una sostanza vischiosa e scura cola da ogni angolo delle
+pareti, cadendo a terra ed essendo poi convogliato in larghe tubature.
+Una grossa e densa goccia ti cade in testa sporcandoti i capelli. La
+tocchi e ti accorgi che e... sangue! Linfa vitale ovunque, ti
+circonda! Ma chi sara' il creatore di tutto cio'??
+~
+16 1024 0
+D1
+~
+~
+0 0 1646 0
+D2
+~
+~
+0 0 1636 0
+D4
+~
+~
+0 0 1651 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1651
+Un'ara sacrificale~
+Salendo la risposta ti si rivela: un orrido scempio di corpi umani si
+presenta ai tuoi occhi ed esseri ancora in vita penzolano da grosse
+catene arrugginite. Demoni senza pieta' agiscono su di essi con
+pugnali affiliati, con grande attenzione per non ucciderli
+la loro
+sofferenza e' atroce, e rosso sangue sgorga in inumane quantita' dalle
+loro ferite, alimentando l'iniquo spettacolo delle pareti. Chini il
+capo riconoscendo un tuo caro amico da tempo scomparso.
+~
+16 140737488356353 0
+D4
+~
+~
+0 0 1652 0
+D5
+~
+~
+0 0 1650 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1652
+Una stanza scura~
+Una stanza scura si apre immensa davanti a te, fredda e vuota. Le
+strazianti grida echeggiano sulla volta spoglia, e delle gocce cadono
+dall'alto con un monotono e triste tintinnio. Un sogghigno arriva
+dalla tua sinistra, che, nella distorta lingua dei demoni, ti minaccia
+di morte.
+Infine vedi nel luogo donde proveniva la stridula voce vedi due
+piccoli demoni ringhianti, a difesa di uno stretto passaggio. "Non
+arriverai al tenebroso labirinto!"
+~
+16 1029 0
+D1
+~
+~
+0 0 1621 0
+D5
+~
+~
+0 0 1651 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1653
+L'oscurita' piu' totale~
+Spicchi un salto...
+Intorno a te tutto e' oscurita', impenetrabile.
+Ti sembra di cadere, ma il vuoto e' tale che non puoi nemmeno esserne
+sicuro. Ti accorgi che stai trattenendo il respiro e, forse, e' bene
+non inalare quest'aria densa e pesante.
+Non vedi alcun fondo della caduta, ne' un fine delle tue azioni.
+Ti rassegni ad una fine fluttuante in perenne caduta.
+~
+16 40 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 28169
+#1654
+La proiezione dei tuoi sogni~
+Infine cadi, quasi sofficemente, su un suolo duro e irreale.
+Ti guardi attorno, come appena ripreso da un lungo sogno, senza
+comprendere la ragione del tuo viaggio. Sei stordito, ma riconosci
+sicura davanti a te la strada verso casa.
+~
+16 0 0
+D0
+Nothing.
+~
+~
+0 0 2135357 0
+D1
+~
+~
+0 0 1481419 0
+D2
+~
+~
+0 0 2124858 0
+D3
+Nothing.
+~
+~
+0 0 2094753 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1655
+Una stanza da banchetto~
+Sei in un'immensa stanza dominata da un lungo tavolo interamente
+ricoperto con ogni tipo di cibo e bevanda. Grossi festoni pendono dal
+soffitto e delle fiamme magiche danzano in un'ara, formando una &b&1scritta&0
+mistica. Affascinanti giochi di luce si dipingono sul soffitto, e
+folate di fumo colorate disegnano figure di grandi combattimenti e
+guerre in un modo unico e un po' buffo.
+Una grossa testa di drago troneggia su un muro di pietra sul lato
+a sud della stanza e dalla sua bocca penzolano, legati ad un
+resistente filo, una spada e un pugnale, simboli inequivocabili dei
+due combattenti ormai ritirati.
+~
+16 12 0
+D0
+~
+~
+0 0 1660 0
+D2
+~
+~
+0 0 1656 0
+E
+scritta fiamme fuoco~
+&1&b     ______       __________    __________
+    /      |     /          \  /          \
+   /       |     |          |  |          |
+  /   /|   |     |    __    |  |    __    |
+  \__/ |   |     |   |  |   |  |   |  |   |
+       |   |     |   |  |   |  |   |  |   |
+       |   |     |   |__|   |  |   |__|   |
+    ___|   |__   |          |  |          |
+   |          |  |          |  |          |
+   |__________|  \__________/  \__________/&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1656
+Un ampio passaggio nella roccia~
+La grotta si rimpicciolisce leggermente in questo punto, andando a
+formare una specie di corridoio. Sebbene non dubiti che qui potrebbero
+entrare molte piu' persone di quante tu ne abbia mai viste tutte
+assieme, l'utilizzo di questa parte della caverna e' stata ridotta a
+quella di solo passaggio.
+Grossi stendardi ornano le pareti laterali e torce crepitanti
+illuminano il terreno e i pesanti drappi; folate di fumo colorate si
+alzano qua e la' come per ricordare che qui si sta tenendo uno degli
+eventi piu' importanti che mai abbiano avuto luogo in daresia.
+~
+16 8 0
+D0
+~
+~
+0 0 1655 0
+D1
+~
+~
+0 0 1657 0
+D3
+~
+~
+0 0 1658 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1657
+Le cucine~
+Le immense cucine dove si cucinano i preziosi manicaretti che
+impreziosiscono la festa si aprono sconfinate in questo lato della
+caverna. Il capo cuoco urla ordini qua e la', sbraitando e minacciando
+i giovani assistenti con un lungo coltello affilato. Non sembra
+affatto contento della tua intrusione, e sarebbe una scelta saggia
+affrettarsi verso l'uscita per non invitarlo ad usare quell'arma,
+magari ridicola, ma di certo dolorosa.
+~
+16 8 0
+D3
+~
+~
+0 0 1656 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1658
+I bagni scavati nella roccia~
+Le pareti rocciose si fanno stranamente piu' lisce e regolari, e
+capisci che l'antro in cui ti trovi e' frutto del sudore umano piu'
+che dell'azione dell'acqua.
+Riconosci vari lavabi riforniti d'acqua fluviale e molte strane
+&9&bstrutture&0, per lo piu' inventate da Spini stesso (e per questo
+tremendamente scomode), utili per ogni fabbisogno piu' immediato.
+Il pavimento e' rivestito di una roccia marmorea che sfuma nel verde
+e nel rosa e l'illuminazione e' assicurata da delle strane sfere
+che rotolano qua e la' colorando la stanza di una tenue luce
+rossastra.
+~
+16 8 0
+D1
+~
+~
+0 0 1656 0
+E
+strutture~
+In questa stanza sono stati piazzati gli oggetti piu' incredibili ed
+inutili che tu abbia mai visto!
+Alcuni tronchi di cono rovesciati sono ordinatamente riposti in una
+parete, accuratamente coperti da tende di seta scura. Sembrano fatti
+per la comodita' di sedercisi, ma non hanno motivo d'essere in quanto
+sgabelli, chi siederebbe in solitudine? Quando ti rialzi da uno di
+questi un gorgo d'acqua invade il suo interno, e balzi in avanti per 
+evitare di bagnare il tuo vestito pregiato.
+In un angolo vedi un paio di piccolissime stanze con un tubo che esce
+dal muro buttando, a piacere, dell'acqua calda.
+Come se tutte queste stranezze non bastassero noti che accanto ai
+lavabi sono riposti con ordine pregiati pezzi di stoffa ricamata, come
+si volesse vestire le mani che li toccano!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1659
+La stanza del fuoco~
+You are in an unfinished room.
+~
+16 8 0
+D0
+~
+~
+0 0 1656 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1660
+L'entrata nella caverna~
+Una grossa apertura nel terreno conduce gradualmente verso il basso ad
+una caverna naturale erosa nella roccia. Luci magiche e fiamme
+altissime ne lambiscono il bordo, creando un cammino fortemente
+illuminato e suggestivo verso il basso, in direzione dell'apertura
+piu' ampia della grotta.
+Un enorme &4&bdrappo&0 ricamato in seta e lino troneggia sopra di te mentre
+entri nella cavita', riportando la scritta "Shiver e Spini" decorata
+con uno stupendo filo iridescente.
+Benvenuti alla piu' grande festa mai tenutasi!
+~
+16 4 0
+D0
+~
+~
+0 0 1540523 0
+D1
+~
+~
+0 0 1541524 0
+D2
+~
+~
+0 0 1655 0
+D3
+~
+~
+0 0 1541522 0
+E
+scritta drappo bandiera~
+&b&1  _____   _   _   _   _    _   _____   _____ 
+ |  ___| | | | | | | | |  | | |  ___| |  _  |
+ | |___  | |_| | | | | |  | | | |__   | |_| |
+ |___  | |  _  | | | | |  | | |  __|  |    _|
+  ___| | | | | | | |  \ \/ /  | |___  | |\ \ 
+ |_____| |_| |_| |_|   \__/   |_____| |_| \_\
+&4                    _____
+                   |  ___|
+                   | |__
+                   |  __|
+                   | |___
+                   |_____|
+&7        _____   _____   _   _   _   _
+       |  ___| |  _  | | | | \ | | | |
+       | |___  | |_| | | | |  \| | | |
+       |___  | |  ___| | | | \ \ | | |
+        ___| | | |     | | | |\  | | |
+       |_____| |_|     |_| |_| |_| |_|&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1661
+&6Una vuota parete di roccia&0~
+Sei arrivato al limitare della miniera, che termina bruscamente con
+una parete verticale. Un filone di adamianto brilla sulla parte nord
+della parete, e vedi che i lavori procedono avvicinandosi in quella
+direzione.
+Dei picconi sono abbandonati ovunque, e una fine polvere di lucido
+adamianto, misto a volgare roccia, ricopre alcuni punti della miniera
+facendoti rischiare piu' volte una brutta caduta.
+~
+16 0 0
+D1
+~
+~
+0 0 31329 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1662
+Una Sala d'attesa~
+In questa sala sono allineate alcune panche in legno, dove vengono
+atti accomodare coloro che devono parlare con i funzionari di
+giustizia del Regno in attesa di essere ricevuti. Il silenzio qui e'
+d'obbligo per non disturbare il lavoro dei funzionari nei loro studi.
+Sui tre lati della stanza vedi gli ingressi per gli studi dei
+funzionari; mentre un'ampia scala in marmo conduce direttamente allo
+studio del Siniscalco.
+~
+16 4 0
+D0
+Una porta di legno.
+~
+porta~
+1 781010 1666 135
+D1
+~
+~
+0 0 40340 0
+D2
+Una porta di legno.
+~
+porta~
+1 677165 1667 135
+D3
+~
+~
+0 0 1665 0
+D4
+~
+~
+0 0 1664 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1663
+La stanza del giudice~
+La stanza e' completamente vuota, c'e' solo un tavolo al centro sul
+quale il giudice si ritira per deliberare sul caso.
+~
+16 12 0
+D1
+~
+~
+0 0 40341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1664
+Lo Studio del &4&bSiniscalco&0~
+In questa stanza sono disposti in buon ordine vagonate di volumi
+contenenti tutte le leggi del Regno di Elenia. Un po' in disparte, su
+un leggio in legno pregiato e intarsiato meravigliosamente, scorgi una
+copia della Costituzione del Regno di Elenia che fa bella mostra di
+se'...
+L'arredamento e' sobrio, funzionale e di buon gusto; questa e' la
+stanza dove il Siniscalco riceve visite e dove puo' starsene in pace a
+studiare nuove punizioni per i criminali! Davanti all'ampia scrivania
+in noce, sono sistemate alcune poltrone; sulla parete dietro ad essa
+si erge fiero lo stendardo di Elenia, mentre su una delle pareti
+laterali un ritratto di Re Dolmant pare essere messo apposta per
+incutere soggezione a chi osa fissarlo.
+~
+16 2564 0
+D5
+~
+~
+0 0 1662 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1665
+Lo studio del &b&2C&1onsigliere&0~
+Libri, codici, pergamene... Non ti capaciti della quantita' di carta
+che e' stata stipata qui dentro! Il Principe del Foro deve conoscere a
+menadito tutte le leggi del Regno, anche quelle che non riguardano
+direttamente la giustizia, cosi' per assolvere il suo compito deve
+continuamente tenersi aggiornato su tutto quanto di ufficiale viene
+pubblicato nel Regno!
+La scrivania pare essere l'unica superficie della stanza a non essere
+ingombra di documenti, davanti ad essa una poltrona attende eventuali
+ospiti del Principe del Foro.
+~
+16 2564 0
+D1
+~
+~
+0 0 1662 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1666
+Lo Studio del &4Giudice&0~
+You are in an unfinished room.
+Entri in una stanza molto grande, con librerie alle pareti dove sono
+disposti in buon ordine svariati libri di legge. Questo e' lo studio
+del Giudice, qui egli dispone mandati di cattura, di perquisizione,
+taglie e quant'altro. Inoltre prima di una sentenza controversa spesso
+si ritira qui a studiare nuovamente il caso e a consultare le
+disposizioni del Siniscalco per la pena da infliggere a quel tipo di
+reato.
+Davanti all'ampia scrivania sono disposte un paio di poltrone dove
+spesso il Giudice riceve i testimoni di un reato per ascoltare le loro
+deposizioni.
+~
+16 2564 0
+D2
+Una porta di legno.
+~
+porta~
+1 781010 1662 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1667
+Lo Studio dell' &4Inquisitore&0~
+La stanza e' abbastanza scura e tetra, con un brivido di freddo ti
+accorgi che alle pareti sono appesi svariati strumenti di tortura. Ti
+dici che fortunatamente la tortura e' vietata in Elenia dalla
+magnanimita' di Re Dolmant; probabilmente questi sono solo cimeli di
+un passato piu' violento.
+In questa stanza l'Inquisitore raccoglie le testimonianze, interroga
+gli imputati, studia le prove per venire a capo di casi complessi. La
+sua scrivania e' posta di fronte all'unica piccola finestrella, in
+modo che l'ombra nasconda il viso dell'Inquisitore a chi viene
+interrogato, ma il viso di costui risulti ben illuminato affinche'
+possa essere studiato.
+~
+16 2564 0
+D0
+Una porta di legno.
+~
+porta~
+1 677165 1662 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1670
+Una stanza segretissima~
+Shhhhh! L'esistenza di questa stanza e' sconosciuta ai piu'!
+~
+16 70368744178423 0
+D0
+~
+~
+0 0 31535 0
+D2
+~
+~
+0 0 1900 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1671
+L'ingresso al Forte dell'Esercito di Elenia~
+Sei all'interno del forte del Regio Esercito di Elenia. Tutto e' in
+perfetto ordine, l'atmosfera che si respira e' austera e solenne. Ti
+rendi conto che questo forte e' stato pensato per essere inattaccabile
+E' costruito in solida roccia, protetto da alte torri merlate ospita i
+soldati e gli alti gradi dell'esercito al servizio di Re Dolmant.
+Capisci subito che attaccare questo forte puo' portare solo alla
+sconfitta. Una solida scala in pietra conduce ai piani superiori ed
+agli alloggi degli altri gradi dell'esercito, mentre lo stendardo del
+Regno di Elenia campeggia fiero su tutte le pareti.
+~
+16 12 0
+D0
+Una porta di legno.
+~
+porta~
+1 273598 1672 135
+D1
+Una porta di legno.
+~
+porta~
+1 599879 1673 135
+D2
+Una porta di legno.
+~
+porta~
+1 462605 1679 135
+D3
+~
+~
+0 0 2135362 0
+D4
+~
+~
+0 0 1674 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1672
+&3Le camerate dei soldati&0~
+Vedi molte brande in fila, ognuna con una piccola cassa ai piedi;
+anche qui l'ordine e la disciplina regnano sovrani. Qui i soldati
+dell'esercito vengono a riposarsi e ristorarsi dopo le estenuanti
+sessioni di addestramento a cui vengono sottoposti dai loro comandanti.
+Il Feldmaresciallo tiene molto al fatto che qui dentro regnino la
+massima pulizia, ordine e disciplina ed e' per questo che spesso
+ordina ispezioni a sorpresa!
+~
+16 2564 0
+D2
+Una porta di legno.
+~
+porta~
+1 273598 1671 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1673
+&6&bL'ufficio del Diplomatico&0~
+L'ufficio del Diplomatico, sebbene posto all'interno del forte
+dell'esercito, non ha un aspetto molto militare. Qui la politica la
+fa da padrona e lunghe ore vengono spese in interminabili discussioni
+tra i diplomatici dei vari regni. L'arredamento e' elegante e alquanto
+lussuoso, e comode poltrone aspettano di accogliere i dignitari di
+paesi molto lontani.
+Pensi che le intenzioni del Re quando ha voluto la costruzione di
+questo ufficio all'interno del forte militare fosse quella di
+impressionare tutti i diplomatici stranieri che passano di qui con la
+visione dell'esercito Eleno.
+~
+16 2564 0
+D3
+Una porta di legno.
+~
+porta~
+1 599879 1671 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1674
+&1&bSala di Rappresentanza&0~
+In questa sala vengono accolti dagli alti gradi militari eventuali
+visite da parte di ospiti illustri. La sala e' pervasa dall'eleganza
+sobria tipica degli alti ambienti militari. Qui avvengono spesso
+incontri con rappresentanti di regni alleati in modo da pianificare
+strategie comuni, oppure vengono ricevute alte cariche del Regno in
+visita al forte.
+~
+16 4 0
+D0
+~
+~
+0 0 1675 0
+D5
+~
+~
+0 0 1671 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1675
+&3Sala Tattica&0~
+Le pareti della stanza sono letteralmente tapezzate di mappe e
+cartine di tutta la Daresia. Un enorme tavolo quadrato al centro della
+stanza e' ricoperto di tante piccole statuine rappresentanti dei
+soldati: tutte le forze militari dei Regni di Daresia paiono essere
+state rappresentate e stilizzate in quelle piccole figure.
+Evidentemente in questa stanza i comandanti dell'esercito studiano le
+loro tattiche e le loro strategie per avere la meglio sui nemici!
+~
+16 2564 0
+D0
+~
+~
+0 0 1676 0
+D1
+~
+~
+0 0 1677 0
+D2
+~
+~
+0 0 1674 0
+D3
+~
+~
+0 0 1678 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1676
+Studio del &3Feldmaresciallo&0~
+Questo e' l'ufficio del temutissimo Feldmaresciallo: il comandante in
+capo dell'esercito e della diplomazia elena! Pochi sono coloro ammessi
+alla sua presenza! La stanza e' austera, appoggiata ad una parete vi
+e' la bandiera di guerra dell'esercito, ricoperta dalle medaglie
+ottenute durante i secoli. Su un treppiede posto accanto alla
+scrivania del Pari, vi e' una copia della Costituzione del Regno,
+mentre sulla parete di fronte all'ingresso vi e' un grande ritratto di
+Re Dolmant III.  Due finestre ad est ed ad ovest offrono uno scorcio
+suggestivo della citta' di Chyrellos e delle campagne circostanti.
+~
+16 2564 0
+D2
+~
+~
+0 0 1675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1677
+Studio dello &1S&3tratega&0~
+Lo stratega e' colui che esercita effettivamente il comando
+sull'esercito Eleno. L'ordine che regna in questa stanza puo' essere
+frutto solo di una mente militare! Pile di documenti sono allineate
+in buon ordine sulla scrivania, mentre una sedia posta innanzi alla
+scrivania e' pronta a ricevere eventuali ospiti, subordinati o
+tremanti soldati che si rechino a fare rapporto!
+~
+16 2564 0
+D3
+~
+~
+0 0 1675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1678
+Studio del &1C&3omandante&0~
+Il comandante ha il compito di guidare l'esercito sul campo di
+battaglia! Lui si che sa cosa sono le fatiche della battaglia, il
+sangue, il sudore. Deve inoltre preoccuparsi di addestrare le reclute
+e di far si' che la disciplina dell'esercito sia sempre a livelli
+eccellenti. La stanza ha un arredamento sobrio ma piacevole, l'ampia
+scrivania ne domina il centro: e' da qui che il comandante scrive i
+suoi rapporti per i superiori e gli ordini per le sue truppe.
+~
+16 2564 0
+D1
+~
+~
+0 0 1675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1679
+&3&3Le camerate dei soldati&0~
+Vedi molte brande in fila, ognuna con una piccola cassa ai piedi;
+anche qui l'ordine e la disciplina regnano sovrani. Qui i soldati
+dell'esercito vengono a riposarsi e ristorarsi dopo le estenuanti
+sessioni di addestramento a cui vengono sottoposti dai loro comandanti.
+Il Feldmaresciallo tiene molto al fatto che qui dentro regnino la
+massima pulizia, ordine e disciplina ed e' per questo che spesso
+ordina ispezioni a sorpresa!
+~
+16 2564 0
+D0
+Una porta di legno.
+~
+porta~
+1 462605 1671 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1680
+La prefettura~
+In questo edificio ci sono gli uffici del Prefectum e di tutti i suoi
+collaboratori. L'andirivieni di cittadini e' cospicuo, ognuno ha i
+suoi motivi per venire qui: chi cerca l'aiuto del Precettore, chi
+vuole chiedere al Questor di essere arruolato, chi vuole mettere in
+regola la propria abitazione nell'ufficio dell'Aedile. Inoltre gli
+alloggi dei Vigilantes sono in questo edificio e loro vanno e vengono
+mentre si danno il cambio nel pattugliamento delle strade di Chyrellos.
+Una scala in marmo conduce al piano superiore.
+~
+16 4 0
+D0
+Una porta di legno.
+~
+porta~
+1 524745 1684 135
+D1
+Una porta di legno.
+~
+porta~
+1 949070 1681 135
+D3
+~
+~
+0 0 21386 0
+D4
+~
+~
+0 0 1682 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1681
+Gli uffici dell'&RAE&dpigrafo Regni~
+In costruzione
+~
+16 14852 0
+D3
+Una porta di legno.
+~
+porta~
+1 949070 1680 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1682
+Sala d'attesa~
+In questa sala vengono fatti attendere i cittadini che abbiano affari
+da sbrigare in qualche ufficio della Prefettura.
+Comode panchine sono allineate lungo le pareti e ampie finestre
+inondano la stanza di luce, offrendo un ampio panorama della citta'
+di Chyrellos. Vedendo funzionari cosi' indaffarati andare avanti ed
+indietro dagli uffici ti viene da riflettere su quanto debba essere
+complicato far funzionare senza intoppi una grande citta' come
+Chyrellos. Le porte dei vari uffici si affacciano in questa stanza,
+mentre una scala elegante porta direttamente a quello del Prefectum.
+~
+16 4 0
+D0
+Una porta di legno.
+~
+porta~
+1 839347 1687 135
+D1
+~
+~
+0 0 1685 0
+D3
+Una porta di legno.
+~
+porta~
+1 414513 1686 129
+D4
+~
+~
+0 0 1683 0
+D5
+~
+~
+0 0 1680 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1683
+Ufficio del &3&bPrefectum&0~
+Lo stendardo del Regno di Elenia domina la parete di fronte
+all'ingresso, e davanti ad esso e' posta una enorme scrivania. Lo
+studio e' elegante e confortevole, qui il Prefectum pensa all'economia
+del regno, a combattere il crimine e all'amministrazione della citta'
+di Chyrellos.
+Qui vengono spesso ricevuti personaggi di spicco sia eleni che di
+altri Regni per discutere di affari e di finanza. Su un treppiede
+accanto alla scrivania vedi una copia della Costituzione Elena.
+~
+16 2564 0
+D5
+~
+~
+0 0 1682 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1684
+Ufficio del &1&bQuestor&0~
+Questo e' l'ufficio del Questor, il capo del corpo dei Vigilantes.
+Numerosi schedari contengono informazioni sui criminali della Daresia
+in modo da avere sempre sottomano le informazioni che possono servire.
+L'impegno che quest'uomo per rendere Chyrellos una citta' sicura e'
+massimo e i Vigilantes sanno che non devono deluderlo. La scrivania e'
+ricoperta dei fascicoli sui casi aperti su cui il Questor sta
+lavorando.
+~
+16 2564 0
+D2
+Una porta di legno.
+~
+porta~
+1 524745 1680 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1685
+Ufficio  del &3&bP&1recettore&0~
+Questo e' il luogo dove lavora il Precettore, incaricato del pubblico
+benessere nel Regno. A lui si rivolgono i giovani in cerca di un
+futuro nel regno di Elenia, inoltre spetta a lui organizzare feste,
+palii e spettacoli per ravvivare la vita della citta'.
+La stanza e' calda ed accogliente, con un bel caminetto scopiettante e
+tutto e' confortevole in modo da rassicurare i nuovi venuti. Una
+bella scrivania fa bella mostra di se' al centro della stanza, davanti
+ad essa sono posizionate alcune comode poltroncine. Dalla finestra
+scorgi una stupenda vista della citta' di Chyrellos.
+~
+16 2564 0
+D3
+~
+~
+0 0 1682 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1686
+Studio del &RT&gesoriere&d~
+Il tesoriere e' un uomo molto indaffarato, e questo puoi capirlo dal
+suo ufficio. E' pieno di libri ricoperti da astrusi calcoli contabili.
+Lui e' responsabile che le casse del Regno rimangano in buona salute,
+e per far questo e' spesso costretto a delle vere e proprie acrobazie
+monetarie! Una scrivania piena di fogli e registri domina la stanza,
+illuminata da un'ampia finestra che mostra una spettacolare visione
+di via della Rosa Blu. Questo aiuta il Tesoriere a trovare la giusta
+concentrazione quando e' oppresso da mille conti!
+~
+16 2564 0
+D1
+Una porta di legno.
+~
+porta~
+1 414513 1682 161
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1687
+Ufficio dell' &GAE&Bdile&d~
+La prima cosa che noti entrando e' che sulla parete di fronte
+all'ingresso c'e' una enorme mappa di Chyrellos che ne copre quasi
+tutta la superficie. Vari segnali colorati sono appicicati alla
+cartina, ad indicare tutte le case private della citta'. Anche sulla
+scrivania e' disposta una mappa piu' piccola, dove sono disegnati
+tutti i previsti cambiamenti futuri della citta' di Chyrellos. Uno
+schedario in un angolo contiene i nomi di tutti i proprietari di
+case a Chyrellos.
+~
+16 2564 0
+D2
+Una porta di legno.
+~
+porta~
+1 839347 1682 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1688
+La base delle Ombre~
+Entri nella leggendaria base delle Ombre. Sulle pareti sono presenti
+cartine della Daresia e delle principali citta'. In un angolo sono
+presenti schedari che raccolgono le informazioni su tutti i possibili
+obiettivi. Un tavolo al centro della stanza circondato da alcune sedie
+e' usato dall'organizzazione per decidere le strategie delle prossime
+missioni e per discutere gli ordini. Ricorda che tu non sei mai stato
+in questo posto, anche perche' non esiste.
+~
+16 2756 0
+D1
+~
+~
+0 0 2135357 0
+D3
+~
+~
+0 0 1689 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1689
+La stanza della Vestizione~
+In questa stanza le Ombre tengono tutti gli equipaggiamenti che
+useranno in missione. Armadi colmi di pozioni e pergamene,
+rastrelliere con i piu' letali pugnali e ogni oggetto possa essere
+utile al loro lavoro e' qui custodito con cura. Ogni Ombra sa bene che
+e' da questi oggetti che la sua vita dipende: se sapra' come e quando
+usarli al momento opportuno la sua missione avra' successo.
+~
+16 2564 0
+D1
+~
+~
+0 0 1688 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1690
+Un posto tutto buio~
+Ma dove sei finito? Questo posto e' tutto buio!! Non vedi
+assolutamente nulla.... ti rendi conto che e' molto stretto ed
+angusto perche' riesci a toccare le pareti con le mani, ma non vedi
+nient'altro!
+~
+16 140737488355501 0
+D0
+~
+~
+0 0 1691 0
+D1
+~
+~
+0 0 1691 0
+D2
+~
+~
+0 0 1691 0
+D3
+~
+~
+0 0 1691 0
+D4
+~
+~
+0 0 1691 0
+D5
+~
+~
+0 0 1691 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1691
+La stanza dei serpenti~
+Appena entri ti stupisce il senso di ampiezza che domina questa stanza,
+e ti senti un po' intimidito.
+Con un'occhiata alle tue spalle ti accorgi di un movimento, di certo
+non sei solo. Dovunque le pareti sembrano muoversi, scivolare,
+strisciare su se stesse facendo scomparire il senso di solidita' che
+prima regnava, e riconosci centinaia di serpenti muoversi verso di te!
+Arrivano da ogni direzione, ti tagliano ogni via di fuga, ti sono
+sopra.
+L'ultima cosa che ricordi e' un dolore terribile che ti colpiva mentre
+venivi strangolato e infettato da mortali veleni.
+~
+16 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1694
+&7Villa &b.&6:&1+&6:&3Ren-Ren&6:&1+&6:&7. &9(Cimmura)&0~
+&4Entri in una grande casa con un alto soffitto, alle pareti vi sono pelli di ogni
+animale, pelli &b&3l&9e&3o&9p&3a&9r&3d&9a&3t&9e&0&4, &b&7z&9&b&7e&9b&7r&9a&7t&9e&0&4 sono solo una piccola parte di tutta il lusso della casa.
+Sulla parete a nord vedi ben tre paia di &bCorna&0 di &2&bAlce&0&4, e sotto noti
+una targhetta con scritte delle strane rune, sembrano formare un &btre&0&4.
+Il Pavimento della stanza e' abbastanza lucido da potersi specchiare.
+Una grande porta a ovest conduce alla cappella interna.&0
+~
+16 2572 0
+D0
+Una porta di legno.
+~
+porta~
+1 560329 2434949 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1695
+La Sala Ipostila~
+Non appena oltrepassi il portale giungi in un'enorme stanza, che contiene una selva di 134 colonne 
+papiriformi ancora non capisci il motivo di tutte queste colonne ma appena alzi lo sguardo verso 
+il soffitto comprendi la loro fondamentale funzione e cioe' impedire a quei giganteschi lastroni 
+monolitici, che costituiscono la copertura, di schiacciarti.Le scale in fondo alla sala portano verso 
+una stanza poco illuminata..mentre piu' in la' noti il sacrario.
+~
+16 2560 0
+D2
+~
+~
+0 0 40814 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1696
+&7Il Quarto Piano Seminterrato&0~
+Ehi! Ma dove diavolo sei finito?!? Che posto e' questo???
+Una luce soffusa pervade l'intera stanza, luce che arriva dal liquido contenuto in centinaia di ampolle
+che affollano lunghi scaffali appoggiati alle pareti.
+Ci sono erbe sparse ovunque, ti sembra di riconoscerne qualcuna...
+Ma si, quello e' vischio, e li' c'e' dell'achillea e quel mucchietto in fondo sembra proprio assenzio...
+Appoggiato alla parete c'e' un lungo bastone che finisce ad un estremita' con una zampa di drago
+la quale regge un globo di vetro in cui nubi vorticose si rincorrono all'infinito.
+Una veste rossa da arcimago e' appesa vicino al letto.
+Magie... pozioni... forse e' meglio andarsene da questa stanza!
+~
+16 2560 0
+D4
+~
+~
+0 0 1697 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1697
+&7Il Terzo Piano Seminterrato&0~
+Elmi, armature, gambali, parabraccia... armi di ogni tipo, spade, lance, mazze...
+Questa stanza e' un vero caos!!
+Ferro, zinco, oro e argento, metalli ovunque! Sei letteralmente circondato!
+Appeso a una parete c'e' un gigantesco martello con un manico di legno pieni di mille bruciacchiature.
+Non vuoi neanche provare ad immaginare la dimensione del braccio che lo impugna di solito!
+A fianco c'e' un grembiule di cuoio che ha sicuramente passato momenti migliori...
+Non c'e' dubbio, questa e' proprio la stanza di un maestro fabbro.
+ 
+Vedi una strana luminosita' che ti incita a discendere ulteriormente le scale...
+~
+16 2560 0
+D4
+~
+~
+0 0 40695 0
+D5
+~
+~
+0 0 1696 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1698
+&6&bIl fiume sotterraneo&0~
+Questa grotta non  altro che il vecchio alveo del fiume che ora si
+e' ritirato, lasciando spazio per poter comodamente camminare. Una
+passerella di legno porta da una parte all'altra  delle sponde. Il
+fiume, nonostante il ritiro, continua ad avere una portata notevole,
+e devi fare attenzione a dove metti i piedi, se non vuoi fare un
+bagno fuori programma. Un piccolo molo di legno tiene ancorata una
+barca.
+~
+16 2560 0
+D4
+~
+~
+0 0 1699 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1699
+&2&bUna grotta naturale&0~
+Intorno a te &3stalattiti&0 e &3stalagmiti&0 rendono questa grotta naturale
+una vera meraviglia della natura. Dalla parete destra, all'altezza
+della faccia, sgorga una sorgenete di &6&bacqua&0 zampillante che va a
+cadere in un piccolo stagno. In fondo allo stagno alcune pietre di
+&3&bpirite&0 splendono quando ti avvicini con la tua luce, creando un
+effetto di cielo stellato.
+Un rivolo d'acqua parte dalla pozza e finisce in un buco, i cui
+fianchi sono stati intagliati dei gradini. In fondo senti il rombo
+di un fiume sotterraneo.
+~
+16 2560 0
+D4
+~
+~
+0 0 40742 0
+D5
+~
+~
+0 0 1698 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

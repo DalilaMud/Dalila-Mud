@@ -1,0 +1,2100 @@
+#16000
+Davanti al Castello~
+Pensavi di esserti perso nella foresta ed ora vedi davanti a te l'enorme
+ponte levatoio di un castello. Il ponte levatoio e' abbassato e nella parte
+superiore dell'entrata vedi un'ISCRIZIONE.
+~
+160 4 3
+D0
+Il cortile~
+Ponte levatoio~
+1 -1 16001 1
+D3
+~
+~
+0 0 1543445 0
+D5
+~
+~
+0 0 -1 0
+E
+ISCRIZIONE~
+CASTELLO DI ASTRAKAN NEL REGNO DI KRONDAL~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16001
+Il cortile~
+Ti trovi nel piccolo cortile esterno del castello di Astrakan. Lo spiazzo
+e' tutto mattonato e ben curato con fiori variopinti e alcuni alberi da
+frutta. A nord puoi vedere l'ingresso al castello, ad est c'e' un cancello
+e, dall'odore che senti arrivare da quella direzione, immagini che ci siano
+le stalle, ad ovest c'e' una grata mentre a sud c'e' un ponte levatoio
+che porta alla foresta.           
+~
+160 0 0
+D0
+~
+Portone~
+1 16002 16004 7
+D1
+~
+Cancello~
+1 -1 16002 1
+D2
+~
+Ponte levatoio~
+1 -1 16000 1
+D3
+~
+Grata~
+1 -1 16005 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16002
+Le stalle~
+Queste sono le stalle che il Re Krondal sovrano di Astrakan mette a disposizione
+dei viandanti. A nord vedi una staccionata di legno e ad ovest il cortile
+dietro il cancello.           
+~
+160 152 1
+D0
+~
+Staccionata Legno~
+1 -1 16003 1
+D2
+~
+~
+0 -1 16006 0
+D3
+~
+Cancello~
+1 -1 16001 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16003
+La stalla privata~
+Questa e' la stalla privata del Re. Qui puoi ammirare i piu' begli esemplari
+di Stallone di Aster, cavalli di grossa stazza e dal pelo color nero corvino
+che prendono il nome dalla regione dove, la prima volta furono scoperti,
+durante uno dei suoi lunghi viaggi dal re, in persona. L'unica uscita e'
+a sud, dove puoi vedere le stalle.           
+~
+160 8 1
+D2
+~
+Staccionata Legno~
+1 -1 16002 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16004
+Ingresso del castello~
+Rimani sbalordito dallo splendore della sala, vedi tutt'intorno a te grosse
+armature luccicanti probabilmente forgiate dai fabbri di corte, toccandole
+ti accorgi che sono molto lisce la tua mano ci scorre sopra molto velocemente
+senza attrito, dal colore si direbbe che sono fatte di oro massiccio. Si
+prosegue a nord lungo un corridoio.         
+~
+160 8 0
+D0
+~
+~
+0 -1 16007 0
+D2
+~
+Portone~
+1 16002 16001 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16005
+Ingresso delle prigioni di Astrakan~
+Questo e' l'ingresso alle prigioni, qui vengono rinchiusi i detenuti che
+devono scontare le pene minori mentre per i reati piu' gravi ci sono le
+segrete poste nelle viscere della terra sotto il castello, senti dei lamenti
+provenire da ovest, attaccato al muro vedi un oggetto portachiavi. Ad ovest
+vedi delle sbarre d'acciaio.         
+~
+160 8 0
+D1
+~
+Grata~
+1 -1 16001 1
+D3
+~
+Sbarre~
+0 -1 16070 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16006
+La foresta~
+Esci dalla fitta vegetazione e ti trovi in un prato dove a nord puoi scorgere
+un grosso castello. Senti il nitrito di cavalli provenire da nord probabilmente
+sono le stalle del castello.
+WILDERNESS
+~
+160 0 3
+D0
+~
+~
+0 -1 16002 0
+D3
+~
+~
+0 -1 16000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16007
+Il lungo corridoio~
+Ti trovi nel corridoio che porta all'ingresso del castello ad est ed ovest
+vedi i corpi di guardia principali. A sud si vede la magnificenza dell'ingresso
+principale mentre a nord il corridoio continua.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16008 0
+D1
+~
+~
+0 -1 16010 0
+D2
+~
+~
+0 -1 16004 0
+D3
+~
+~
+0 -1 16009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16008
+Il corridoio~
+Splendidi arazzi raffiguranti scene di guerra sono posti ai due lati del
+corridoio che prosegue a nord e a sud.         
+~
+160 8 0
+D0
+~
+~
+0 -1 16011 0
+D2
+~
+~
+0 -1 16007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16009
+Il corpo di guardia ovest~
+Questo e' il corpo di guardia principale ovest, e' posto qui a protezione
+del castello ci sono due grossi individui e tu non riesci a capire se sono
+altre statue o le guardie. Fossi in te non proverei ad attaccarle. L'uscita
+da' sul corridoio ad est.           
+~
+160 8 0
+D1
+~
+~
+0 -1 16007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16010
+Il corpo di guardia est~
+Questo e' il corpo di guardia principale est, e' posto qui a protezione
+del castello ci sono due grossi individui e tu non riesci a capire se sono
+altre statue o le guardie. Fossi in te non proverei ad attaccarle. L'uscita
+da' sul corridoio ad ovest.           
+~
+160 8 0
+D3
+~
+~
+0 -1 16007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16011
+Il corridoio~
+   Splendidi arazzi raffiguranti scene di guerra sono posti ai due lati del
+corridoio che prosegue a sud. A nord vedi il grosso cortile interno del
+castello, senti delle grida e ti sembra di essere vicino ad un mercato.
+~
+160 8 0
+D0
+~
+~
+0 -1 16013 0
+D2
+~
+~
+0 -1 16008 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16012
+Il centro del cortile~
+Ti trovi nello spiazzo proprio al centro del castello qui la gente si ritrova
+per scambi commerciali di ogni genere, il castello quindi e' autosufficiente
+infatti Re Krondal ha messo a disposizione dei suoi sudditi un grosso lotto
+di terra da poter coltivare, e sfruttare. In tutte le direzioni vedi sempre
+il cortile. In lontananza ad est la via che porta alle terre messe a disposizione
+dal re.           
+~
+160 0 0
+D0
+~
+~
+0 -1 16016 0
+D1
+~
+~
+0 -1 16017 0
+D2
+~
+~
+0 -1 16013 0
+D3
+~
+~
+0 -1 16018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16013
+Il cortile interno sud~
+Ti trovi nello spiazzo proprio al centro del castello qui la gente si ritrova
+per scambi commerciali di ogni genere. Ad est vedi un banco vuoto mentre
+ad ovest vedi il banco del pane. A nord il centro del cortile e a sud il
+corridoio che porta all'ingresso del castello.         
+~
+160 0 0
+D0
+~
+~
+0 -1 16012 0
+D1
+~
+~
+0 -1 16014 0
+D2
+~
+~
+0 -1 16011 0
+D3
+~
+~
+0 -1 16015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16014
+Un banco vuoto~
+Un banco vuoto, forse e' in vendita chiedi in giro se sei interessato. A
+nord e ad ovest vedi il cortile interno.           
+~
+160 0 0
+D0
+~
+~
+0 -1 16017 0
+D3
+~
+~
+0 -1 16013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16015
+Il banco del pane~
+Senti un odore di panini e pasticcini appena sfornati tanto da farti venire
+l'acquolina in bocca, alle spalle del gestore vedi un forno tutto decorato
+all'interno del quale le focacce sono ormai pronte. A nord e ad est vedi
+il cortile interno.           
+~
+160 0 0
+D0
+~
+~
+0 -1 16018 0
+D1
+~
+~
+0 -1 16013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16016
+Il cortile interno nord~
+   Ti trovi nello spiazzo proprio al centro del castello qui la gente si ritrova
+per scambi commerciali di ogni genere. Ad ovest vedi il banco degli articoli
+vari mentre ad est vedi il banco della frutta e verdura. A sud il centro
+del cortile e a nord il corridoio che porta alla tesoreria del castello.
+~
+160 0 0
+D0
+~
+~
+0 -1 16022 0
+D1
+~
+~
+0 -1 16021 0
+D2
+~
+~
+0 -1 16012 0
+D3
+~
+~
+0 -1 16019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16017
+Il cortile interno est~
+Ti trovi nello spiazzo proprio al centro del castello qui la gente si ritrova
+per scambi commerciali di ogni genere. A sud vedi un banco vuoto, a nord
+vedi il banco della frutta e verdura. Ad ovest il centro del cortile e
+ad est la via per le terre di Krondal.           
+~
+160 0 0
+D0
+~
+~
+0 -1 16021 0
+D1
+~
+~
+0 -1 16023 0
+D2
+~
+~
+0 -1 16014 0
+D3
+~
+~
+0 -1 16012 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16018
+Il cortile interno ovest~
+Ti trovi nello spiazzo proprio al centro del castello qui la gente si ritrova
+per scambi commerciali di ogni genere. A nord vedi il banco degli articoli
+vari mentre a sud vedi il banco del pane. Ad est il centro del cortile
+e ad ovest il corridoio che porta alle sale da pranzo.           
+~
+160 4 0
+D0
+~
+~
+0 -1 16019 0
+D1
+~
+~
+0 -1 16012 0
+D2
+~
+~
+0 -1 16015 0
+D3
+~
+~
+0 -1 16020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16019
+Il banco degli articoli vari~
+Ti guardi intorno e vedi di tutto: da borse a pezzi di armatura, da oggetti
+souvenir ad armi molto strane, comunque la c'e' una grossa confusione la
+gente sembra quasi impazzita, i collezionisti di ogni parte del mondo approdano
+a questo banco per accaparrarsi i pezzi migliori; guardati intorno se sei
+fortunato anche tu potresti trovarne qualcuno. A sud e ad est vedi il cortile
+interno.           
+~
+160 0 0
+D1
+~
+~
+0 -1 16016 0
+D2
+~
+~
+0 -1 16018 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16020
+Il corridoio~
+Questa parte del castello e' molto luminosa con finestre molto grandi sulle
+quali appaiono chiari disegni formati da pezzi di vetro di diversi colori.
+Proseguendo verso ovest il corridoio continua, ad est vedi il grosso cortile
+interno del castello, senti delle grida e ti sembra di essere vicino ad
+un mercato.            
+~
+160 8 0
+D1
+~
+~
+0 -1 16018 0
+D3
+~
+~
+0 -1 16044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16021
+Il banco della frutta e verdura~
+Il banco e' ben fornito, ogni tipo di frutta e' qui esposto mentre sulla
+parte sinistra vedi tutte le verdure. A sud e ad ovest vedi il cortile
+interno.                  
+~
+160 0 0
+D2
+~
+~
+0 -1 16017 0
+D3
+~
+~
+0 -1 16016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16022
+Il corridoio~
+Ti trovi nel corridoio a nord del cortile, il corridoio e' illuminato da
+file di torce che corrono lungo tutti e due i lati. Guardandoti in giro
+vedi che a est c'e' un armeria mentre ad ovest una stanza molto illuminata
+ti attrae. A nord continua il corridoio e a sud c'e' il cortile.      
+~
+160 8 0
+D0
+~
+~
+0 -1 16024 0
+D1
+~
+~
+0 -1 16025 0
+D2
+~
+~
+0 -1 16016 0
+D3
+~
+~
+0 -1 16026 0
+D4
+~
+~
+0 -1 16027 0
+D5
+~
+~
+0 -1 16028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16023
+La via fra il feudo ed il castello~
+La strada e' sterrata e porta al feudo adiacente al castello, una fitta
+vegetazione la circonda e sia a nord che a sud gli alberi la costeggiano.
+~
+160 0 2
+D1
+~
+~
+0 -1 16098 0
+D3
+~
+~
+0 -1 16017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16024
+la fine del corridoio~
+Qui finisce il lungo corridoio a nord del cortile interno, ai due lati vedi
+gli ingressi del Duello dove i piu' valorosi guerrieri si vanno a scontrare
+per aggiudicarsi il titolo di guerriero dell'anno, comunque sono anni che
+Morkans, colui che addestra personalmente tutte le guardie fidate di Krondal,
+detiene il titolo. A nord invece il posto di guardia.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16035 0
+D1
+~
+~
+0 -1 16036 0
+D2
+~
+~
+0 -1 16022 0
+D3
+~
+~
+0 -1 16037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16025
+L'armeria~
+Qui puoi ammirare le armi piu' belle e potenti di tutti i regni, appese
+alle pareti delle spade, asce, mazze chiodate, sciabole, pugnali di ogni
+tipo e dimensione. Vedi ad ovest il corridoio.           
+~
+160 8 0
+D3
+~
+~
+0 -1 16022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16026
+La sala dei trofei~
+Una grossa vetrata illumina la stanza, dovunque ti volti vedi oggetti, armature,
+armi e trofei che ti fanno pensare alle storie delle guerre sostenute e
+vinte dal popolo di Astrakan dai tempi piu' remoti. L'unica uscita e' il
+corridoio ad est da dove sei venuto.          
+~
+160 8 0
+D1
+~
+~
+0 -1 16022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16027
+La base della torre~
+Una lunga scala sale lungo la parete della torre, stai attento non c'e'
+protezione un semplice passo falso ti potrebbe far scivolare giu' nel vuoto!!!
+Dalle piccole finestre riesci a vedere le mura del castello. Puoi ancora
+salire se vuoi o scendere verso il corridoio sottostante.           
+~
+160 8 0
+D4
+~
+~
+0 -1 16029 0
+D5
+~
+~
+0 -1 16022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16028
+La scalinata sotto il castello~
+Una lunga scala a chiocciola fatta di gradini piccoli piccoli ti porta verso
+il basso.           
+~
+160 8 0
+D4
+~
+~
+0 -1 16022 0
+D5
+~
+Grata~
+0 -1 16075 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16029
+La torre~
+Una lunga scala sale lungo la parete della torre, ti accorgi che a sud c'e'
+una balconata. Dalle piccole finestre riesci a vedere ancora le mura del
+castello ed alcuni degli alberi secolari che le sovrastano e le circondano.
+Puoi ridiscendere o salire ancora e anche affacciarti sul balcone, sara'
+sicuro?            
+~
+160 8 0
+D2
+~
+~
+0 -1 16030 0
+D4
+~
+~
+0 -1 16031 0
+D5
+~
+~
+0 -1 16027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16030
+La balconata~
+Ti affacci sul balcone e ti accorgi che sei proprio sopra il cortile riesci
+ad intravedere la gente, i banchi e anche la via che porta al feudo ad
+est. A nord c'e' la torre.           
+~
+160 0 0
+D0
+~
+~
+0 -1 16029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16031
+La torre~
+La lunga scala continua a salire lungo la parete della torre, a nord vedi
+il palchetto. Dalle piccole finestre ora scorgi l'infinita' della foresta
+che circonda il castello. Puoi ridiscendere o salire ancora e poi c'e'
+il palchetto a nord.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16033 0
+D4
+~
+~
+0 -1 16032 0
+D5
+~
+~
+0 -1 16029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16032
+Il corpo di guardia della torre~
+Sei arrivato quasi in cima e qui due guardie ti bloccano la strada, per
+arrivare allo stendardo che si trova in cima alla torre dovrai passare
+sopra il loro corpo ma stai attento sono molto forti!!! Sopra c'e' la parte
+piu' alta della torre mentre in basso una lunga rampa di scale.       
+~
+160 8 0
+D4
+~
+~
+0 -1 16034 0
+D5
+~
+~
+0 -1 16031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16033
+Il Palchetto~
+Ti trovi sul palchetto che si affaccia sulla zona dei duelli, e' da qui
+che il Re Krondal guarda l'avvicendarsi degli sfidanti di Morkans l'addetto
+all'addestramento delle guardie, ormai imbattuto da diversi anni. A sud
+c'e' la torre che sale ancora!!!!           
+~
+160 0 0
+D2
+~
+~
+0 -1 16031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16034
+La cima della torre~
+   Che spettacolo!  Da qui puoi vedere oltre l'immensa foresta e riesci a
+scorgere la citta' di Chyrellos.  Lo stendardo con il simbolo del castello, una
+Cometa Bianca, si muove sinuoso al vento.    
+~
+160 0 0
+D5
+~
+~
+0 -1 16032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16035
+Il posto di guardia nord~
+Questo e' il posto di guardia a protezione del tesoro, ci sono due guardie
+di notevole stazza e in piu' vedi Kefren. L'ordine e' quello di non far
+passare nessuno.    
+~
+160 8 0
+D0
+~
+~
+0 -1 16038 0
+D2
+~
+~
+0 -1 16024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16036
+Ingresso al duello parte est~
+Questo e' il passaggio che conduce alla palestra di riscaldamento.     
+~
+160 8 0
+D0
+~
+~
+0 -1 16043 0
+D3
+~
+~
+0 -1 16024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16037
+Ingresso al duello parte ovest~
+Questo e' il passaggio che conduce alla palestra di allenamento.       
+~
+160 8 0
+D0
+~
+~
+0 -1 16039 0
+D1
+~
+~
+0 -1 16024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16038
+La tesoreria~
+Accatastati tutt'intorno a te vedi i tesori accumulati nel tempo dall'esercito
+di Astrakan durante le molte guerre sostenute.      
+~
+160 8 0
+D2
+~
+~
+0 -1 16035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16039
+La palestra~
+Questa e' la palestra dove i guerrieri si allenano fra di loro, le armi
+usate qui sono fatte in modo da non inferire colpi mortali, anzi la maggior
+parte sono praticamente innocue. A sud vedi l'ingresso ovest e a nord la
+parte esterna del duello dove avvengono i combattimenti veri e propri.
+~
+160 8 0
+D0
+~
+~
+0 -1 16040 0
+D2
+~
+~
+0 -1 16037 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16040
+Arena dei duelli parte ovest~
+L'arena, un grosso spazio pianeggiante dove si tengono i duelli. E' vuoto!!!
+Ma si sentono dei colpi di spada e dei sibili provenire da est probabilmente
+nell'altra ala si sta' tenendo un combattimento. Ad est vedi il campo del
+tiro con l'arco e a sud c'e' la palestra.         
+~
+160 0 0
+D1
+~
+~
+0 -1 16041 0
+D2
+~
+~
+0 -1 16039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16041
+Il tiro con l'arco~
+Vedi dei tabelloni messi a diverse distanze 50 mt, 75 mt, 100 mt, e' qui
+che si tengono i vari tornei di tiro con l'arco del regno di Astrakan.
+Il giorno piu' lungo dell'anno il Solstizio d'estate qui si tiene anche
+il grande torneo di tiro con l'arco famosissimo anche nei regni vicini
+che attira migliaia di partecipanti che ambiscono oltre che al titolo naturalmente,
+soprattutto alla grossa somma di denaro messa in palio da Krondal. Ad est
+e ad ovest vedi l'arena.           
+~
+160 0 0
+D1
+~
+~
+0 -1 16042 0
+D3
+~
+~
+0 -1 16040 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16042
+Arena dei duelli parte est~
+L'arena, un grosso spazio pianeggiante dove si tengono i duelli. Due sfidanti
+sono pronti al combattimento, si contendono la possibilita' di sfidare
+Morkans che assiste impassibile ai preparativi del combattimento. Ad ovest
+vedi i tabelloni del tiro con l'arco mentre a sud c'e' una palestra.  
+~
+160 0 0
+D2
+~
+~
+0 -1 16043 0
+D3
+~
+~
+0 -1 16041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16043
+La palestra~
+Questa e' la palestra dove i guerrieri si riscaldano prima del combattimento
+ci sono strani oggetti molto pesanti che i guerrieri alzano e abbassano
+per riscaldare i muscoli. A sud vedi l'ingresso ovest e a nord la parte
+esterna del duello dove avvengono i combattimenti veri e propri.      
+~
+160 8 0
+D0
+~
+~
+0 -1 16042 0
+D2
+~
+~
+0 -1 16036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16044
+Il corridoio~
+Qui si intravede una scala che porta ai piani superiori ed un'altra che
+invece porta a quelli inferiori. Ad est ed ovest continua il corridoio.
+~
+160 8 0
+D1
+~
+~
+0 -1 16020 0
+D3
+~
+~
+0 -1 16045 0
+D4
+~
+~
+0 -1 16051 0
+D5
+~
+~
+0 -1 16050 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16045
+Il corridoio~
+Questa parte del castello e' molto luminosa con finestre molto grandi sulle
+quali appaiono chiari disegni formati da pezzi di vetro di diversi colori.
+Il corridoio prosegue ad est mentre ad ovest c'e' la sala da pranzo.  
+~
+160 8 0
+D1
+~
+~
+0 -1 16044 0
+D3
+~
+~
+0 -1 16046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16046
+Il banchetto~
+Ti trovi davanti ad una tavola imbandita, ogni ben di Dio e' qui sistemato
+con cura, il buffet e' talmente grande che il tavolo prosegue sia a nord
+che a sud. Da ovest sebbene la porta sia chiusa ti attrae un odorino di
+pietanze appena sfornate.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16047 0
+D1
+~
+~
+0 -1 16045 0
+D2
+~
+~
+0 -1 16048 0
+D3
+~
+~
+0 -1 16049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16047
+La tavola imbandita~
+Entrando non puoi non notare come il tutto sia curato nei minimi particolari,
+candelabri d'argento al centro del tavolo illuminano il tutto, i piatti
+sono rifiniti con decorazioni in oro zecchino, le posate in argento e per
+finire dei calici di cristallo come bicchieri. A sud continua il tavolo
+che passa sotto l'enorme arco che divide le due camere.           
+~
+160 8 0
+D2
+~
+~
+0 -1 16046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16048
+La tavola imbandita~
+Entrando non puoi non notare come il tutto e' curato nei minimi particolari,
+candelabri d'argento al centro del tavolo illuminano il tutto, i piatti
+sono rifiniti con decorazioni in oro zecchino, le posate in argento e per
+finire dei calici di cristallo come bicchieri. A nord continua il tavolo
+che passa sotto l'enorme arco che divide le due camere.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16049
+Le cucine~
+E' qui dove i cuochi di castello cucinano le loro specialita'. Puoi vedere
+un bel cinghiale, appena cacciato nella riserva personale del re da Krondal
+in persona, sistemato sull'enorme spiedo azionato, tramite uno strano meccanismo,
+da un mulino a pale mosso dalle acque di una deviazione, appositamente
+creata, del ruscello chiamato dai locali "il ruscello dorato" forse per
+il fatto che quando i salmoni lo risalgono sono talmente tanti che l'acqua
+prende il colore delle loro squame. Ad est c'e' la tavola del banchetto.
+~
+160 8 0
+D1
+~
+~
+0 -1 16046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16050
+I piani inferiori~
+Scendendo le scale arrivi ai piani inferiori qui e' tutto molto tetro e
+buio ma intravedi una fioca luce provenire da ovest.           
+~
+160 8 0
+D3
+~
+~
+0 -1 16052 0
+D4
+~
+~
+0 -1 16044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16051
+I piani superiori~
+In cima alle scale ti trovi nell'atrio superiore, a nord vedi un posto di
+guardia, a sud delle stanze, e ad ovest un altro posto di guardia.    
+~
+160 8 0
+D0
+~
+~
+0 -1 16058 0
+D2
+~
+~
+0 -1 16059 0
+D3
+~
+~
+0 -1 16060 0
+D5
+~
+~
+0 -1 16044 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16052
+Gli alloggi della servitu'~
+Poche fiaccole illuminano la stanza a stento riesci a vedere cosa ti circonda
+comunque ad ovest continuano gli alloggi mentre ad est vedi una scala.
+A nord e a sud vedi due stanze.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16055 0
+D1
+~
+~
+0 -1 16050 0
+D2
+~
+~
+0 -1 16054 0
+D3
+~
+~
+0 -1 16053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16053
+Gli alloggi della servitu'~
+Poche fiaccole illuminano la stanza a stento riesci a vedere cosa ti circonda
+comunque ad est continuano gli alloggi mentre a nord e a sud vedi due stanze.
+~
+160 8 0
+D0
+~
+~
+0 -1 16056 0
+D1
+~
+~
+0 -1 16052 0
+D2
+~
+~
+0 -1 16057 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16054
+L'alloggio delle cameriere~
+La camera e' molto grande vedi lunghe file di letti a castello su ambo i
+lati intervallati da armadi, qui tutto e' in ordine, non c'e' una cosa
+fuori posto, il letti sono tutti rifatti, non puo' essere altro che l'alloggio
+delle cameriere, chi se non loro che si occupano dell'intero castello potevano
+mantenere un ordine simile!!! A nord l'uscita.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16055
+La stanza del cuoco~
+Questo e' l'alloggio del cuoco, vedi in un angolo un piccolo armadietto,
+il letto che e' ancora disfatto, un lucernaio con una luce leggera leggera,
+e nient'altro, non deve essere molto bello vivere qui!!! A sud c'e' la
+porta d'ingresso.           
+~
+160 8 0
+D2
+~
+~
+0 -1 16052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16056
+La stanza del maggiordomo~
+Entrando noti subito il grosso stipo appoggiato al muro di destra ha quattro
+ante nella parte superiore e quattro nella parte inferiore. E' qui che
+il maggiordomo conserva con cura tutti gli oggetti che anni dopo anni sono
+stati lasciati per errore dai vari ospiti che hanno pernottato al castello,
+su ogni cosa c'e' un cartellino con su scritto chi e quando l'ha lasciato,
+ci si potrebbe metter su un negozio di articoli generali. Ogni tanto, ma
+molto raramente, qualcuno torna a riprendersi le sue cose infatti molti
+viandanti passano di qui solo per caso e comunque per trascorrere una notte
+al coperto durante il loro viaggio. a sud c'e' l'uscita.           
+~
+160 8 0
+D2
+~
+~
+0 -1 16053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16057
+Le camerate~
+Questa stanza e' lunghissima sembra non aver fine sulla sinistra vedi una
+serie pressoche' infinita di letti, alcuni sono vuoti ma rifatti, altri
+pieni, altri ancora non hanno nemmeno le coperte. Deve essere la stanza
+dove dormono le guardie infatti sulla destra vedi armi e armature.    
+~
+160 8 0
+D0
+~
+~
+0 -1 16053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16058
+Il posto di guardia agli alloggi~
+Questo e' il posto di guardia a protezione degli alloggi reali, ci sono
+due guardie sempre di notevole stazza come del resto tutte qui a castello.
+L'ordine e' quello di non far passare nessuno se non accompagnato dal re
+o dalla regina in persona. A nord gli alloggi, a sud la scala che porta
+qui al primo piano.                 
+~
+160 8 0
+D0
+~
+~
+0 -1 16062 0
+D2
+~
+~
+0 -1 16051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16059
+Gli alloggi degli ospiti~
+Un corridoio non molto lungo ai lati del quale vedi le varie stanze.  
+~
+160 8 0
+D0
+~
+~
+0 -1 16051 0
+D1
+~
+~
+0 -1 16094 0
+D2
+~
+~
+0 -1 16097 0
+D3
+~
+~
+0 -1 16093 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16060
+Il posto di guardia al trono~
+Arrivi in un corridoio molto largo e sfarzoso, oggetti in metalli preziosi
+e in cristallo di Grestel sono qui posti ad ornare la stanza, due guardie
+accanto a due grosse colonne ad ovest ti bloccano la strada, oltre le colonne
+vedi l'enorme stanza del trono di Krondal. Ad est c'e' la grossa scalinata
+che porta alla base del castello.           
+~
+160 8 0
+D1
+~
+~
+0 -1 16051 0
+D3
+~
+~
+0 -1 16061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16061
+Il trono~
+You are standing in an empty room.           
+~
+160 8 0
+D1
+~
+~
+0 -1 16060 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16062
+Gli alloggi reali~
+Questo e' l'atrio degli alloggi reali a nord le camere da letto, ad est
+le stanze del re, ad ovest quelle della regina e a sud c'e' il posto di
+guardia a protezione degli alloggi reali.           
+~
+160 8 0
+D0
+~
+~
+0 -1 16063 0
+D1
+~
+~
+0 -1 16064 0
+D2
+~
+~
+0 -1 16058 0
+D3
+~
+~
+0 -1 16065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16063
+Camera da letto reale~
+Un bellissimo letto matrimoniale e' qui, le coperte sono ricamate con fili
+di oro zecchino e la spalliera, anch'essa in oro, raffigura un intricato
+intreccio di serpenti dalle cui due teste, che si trovano ai due lati della
+spalliera esce una fioca luce. A sud l'ingresso della stanza, mentre ad
+est ed ovest vedi due porte chiuse.           
+~
+160 8 0
+D1
+~
+~
+1 -1 16066 1
+D2
+~
+~
+0 -1 16062 0
+D3
+~
+~
+1 -1 16067 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16064
+Alloggi del re~
+E' qui che il re riceve per colloqui privati, sulla parete di destra e'
+possibile vedere una grande mappa che alle sue estremita' sembra essere
+incompleta, molto probabilmente e' la mappa dei territori da lui esplorati
+sin ora. Al centro della stanza un enorme tavolo circondato da bellissime
+sedie rivestite di stoffe pregiatissime, mentre a sinistra una vetrata
+si affaccia sulla vallata, da notare come questo sia l'unico posto dal
+quale si riesce a vedere oltre le mura del castello infatti da questo lato
+le mura sono piu' basse per il fatto che il fossato che circonda il castello
+in questo punto e' particolarmente profondo. Alle tue spalle l'entrata
+da cui sei venuto. Ad est puoi vedere un camino, e' talmente grande che
+ci potresti addirittura entrare per sbucare chissa' dove....          
+~
+160 8 0
+D1
+~
+~
+0 -1 16027 0
+D3
+~
+~
+0 -1 16062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16065
+Alloggi della regina~
+Qui la regina Armiria si diletta nel suo passatempo preferito, il ricamo,
+di fronte a te puoi ammirare enormi arazzi fatti dalla regina stessa che
+raffigurano particolarissime composizioni di fiori tra cui ne spicca uno
+in particolare non molto grande ma sicuramente bellissimo raffigurante
+5 orchidee di diverso colore.         
+~
+160 8 0
+D1
+~
+~
+0 -1 16062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16066
+Il bagno del re~
+Ti trovi nella sala da bagno del re, direttamente da una fonte sotterranea
+giungono fin qui acque termali che, a getto continuo, finiscono in un enorme
+vasca in cui il re adora fare l'idromassaggio, l'odore di zolfo e' smorzato
+da bastoncini di incenso sempre accesi. L'uscita e' ad ovest.         
+~
+160 8 0
+D3
+~
+~
+0 -1 16063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16067
+Il bagno della regina~
+Il bagno della regina e' fatto tutto di marmo bianco, la luce che emana
+quasi ti acceca, non e' un marmo normale ma bensi' un marmo magico che
+emana luce propria; si racconta che l'intero bagno e' stato scavato e scolpito
+in un unico blocco trasportato qui dalle lontanissime montagne di Melandra
+e che per trasportarlo ci sono voluti piu' di duecento cavalli che per
+nove mesi hanno trascinato il blocco per centinaia di chilometri. Ad est
+la camera da letto.           
+~
+160 8 0
+D1
+~
+~
+0 -1 16063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16068
+La cella del ladro~
+La cella e' molto sporca, buia e un cattivo odore aleggia. Vedi un uomo
+nell'angolo sdraiato sul letto.           
+~
+160 8 0
+D0
+~
+Grata~
+1 -1 16070 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16069
+La cella vuota~
+L'ambiente e' molto squallido, un letto, una finestrella, da cui filtra
+pochissima luce, e ragnatele un po' dappertutto. A sud l'uscita.      
+~
+160 8 0
+D2
+~
+Grata~
+1 -1 16070 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16070
+Il carcere~
+Non appena i tuoi occhi si abituano al buio noti che a nord c'e una cella
+vuota mentre a sud una grata ne chiude un'altra. Ad ovest continua il carcere
+mentre ad est ci sono le sbarre.           
+~
+160 8 0
+D0
+~
+Grata~
+1 -1 16069 1
+D1
+~
+Sbarre~
+0 -1 16005 0
+D2
+~
+Grata~
+1 -1 16068 3
+D3
+~
+~
+0 -1 16071 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16071
+Il carcere~
+Tutt'intorno a te vedi delle celle, sia a nord che a sud sono vuote mentre
+quella ad ovest e' chiusa. Ad est continua il carcere.           
+~
+160 8 0
+D0
+~
+Grata~
+1 -1 16073 1
+D1
+~
+~
+0 -1 16070 0
+D2
+~
+Grata~
+1 -1 16074 1
+D3
+~
+Grata~
+1 -1 16072 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16072
+La cella dell'ubriaco~
+Appena entrato senti una puzza di vino insopportabile, e vedi un ubriaco
+sdraiato per terra, si direbbe che e' quasi agonizzante, non ce la fa nemmeno
+a parlare.         
+~
+160 8 0
+D1
+~
+Grata~
+1 -1 16071 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16073
+La cella vuota~
+L'ambiente e' molto squallido, un letto, una finestrella, da cui filtra
+pochissima luce, e ragnatele un po' dappertutto. A sud l'uscita.      
+~
+160 8 0
+D2
+~
+Grata~
+1 -1 16071 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16074
+La cella vuota~
+L'ambiente e' molto squallido, un letto, una finestrella, da cui filtra
+pochissima luce, e ragnatele un po' dappertutto. A sud l'uscita.      
+~
+160 8 0
+D0
+~
+Grata~
+1 -1 16071 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16075
+La scalinata~
+Non si vede quasi niente tranne gli scalini che portano sia su che giu.
+~
+160 8 0
+D4
+~
+~
+0 -1 16028 0
+D5
+~
+Grata~
+0 -1 16076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16076
+La scalinata~
+Non si vede quasi niente tranne gli scalini che portano sia su che giu.
+Delle grida sembrano arrivare dal basso, ma sono molto lontane.       
+~
+160 8 0
+D4
+~
+~
+0 -1 16075 0
+D5
+~
+Grata~
+0 -1 16077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16077
+Verso la fine dei gradini~
+Ormai qui e' buio pesto e senza l'ausilio della tua luce non riusciresti
+a vedere nulla, a nord riesci a scorgere uno stretto cunicolo, e' talmente
+stretto che a stento ci riesce a passare una persona, chissa' dove porta.
+Intanto i gradini portano sia su che giu. Le urla sono sempre piu' forti
+e questa cosa non ti convince, sara' prudente scendere ancora?        
+~
+160 8 0
+D0
+~
+Grata~
+0 -1 16092 0
+D4
+~
+~
+0 -1 16076 0
+D5
+~
+Grata~
+0 -1 16091 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16078
+La curva nel tunnel~
+E' sempre piu' stretto, continua verso est e puoi andare solo avanti.  
+~
+160 264 0
+D1
+~
+Sbarra~
+0 -1 16079 0
+D2
+~
+~
+0 -1 16092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16079
+Il tunnel~
+a stento riesci ad andare avanti, il rischio di incastrarti e' molto alto
+e capisci bene che rimanere incastrato qui vuol dire solo una cosa: morte
+certa. Piu' in la vedi una luce sempre ad est.           
+~
+160 264 0
+D1
+~
+Sbarra~
+0 -1 16080 0
+D3
+~
+~
+0 -1 16078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16080
+La stanzetta del mago~
+Un omino piccolo piccolo, ed ora ti spieghi come mai il passaggio fosse
+cosi' stretto!!!, e' qui che prepara una pozione, sara' un mago?  Per quanto
+e' piccolo lo potresti sopraffare in un niente ma una SCRITTA sul tavolo
+ti mette in guardia. SCRITTA: (Harquilat il piu' potente mago dell'universo.)
+Una corda penzola qui, e' forse l'unico modo per uscire di qui.       
+~
+160 8 0
+D3
+~
+~
+0 -1 16079 0
+D4
+~
+Sbarra~
+0 -1 16081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16081
+Il boschetto~
+Ti trovi in un boschetto. Eppure sei sicuro di essere giunto qui dal basso,
+ma non vedi piu' nulla. Puoi andare in tutte le direzioni.           
+~
+160 0 0
+D0
+~
+Sbarra~
+0 -1 16085 0
+D1
+~
+Sbarra~
+0 -1 16083 0
+D2
+~
+Sbarra~
+0 -1 16084 0
+D3
+~
+Sbarra~
+0 -1 16082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16082
+I cespugli~
+Una serie di cespugli fanno da ottimi nascondigli alla Cacciagione.    
+~
+160 0 0
+D0
+~
+~
+0 -1 16105 0
+D1
+~
+~
+0 -1 16081 0
+D2
+~
+~
+0 -1 16107 0
+D3
+~
+~
+0 -1 16100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16083
+La radura~
+Ancora ampi spazi di pianura.           
+~
+160 0 0
+D0
+~
+~
+0 -1 16108 0
+D1
+~
+~
+0 -1 1539455 0
+D2
+~
+~
+0 -1 16106 0
+D3
+~
+~
+0 -1 16081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16084
+La siepe bassa~
+Una bassa siepe separa la radura da un piccolo specchio d'acqua.       
+~
+160 0 0
+D0
+~
+~
+0 -1 16081 0
+D1
+~
+~
+0 -1 16106 0
+D3
+~
+~
+0 -1 16107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16085
+Il cespuglio~
+Un cespuglio nella radura.           
+~
+160 0 0
+D1
+~
+~
+0 -1 16108 0
+D2
+~
+~
+0 -1 16081 0
+D3
+~
+~
+0 -1 16105 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16086
+Una cella vuota~
+La cella e' piccolissima, non c'e' neanche il letto!!!         
+~
+160 8 0
+D3
+~
+~
+0 -1 16089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16087
+Una cella vuota~
+La cella e' piccolissima, non c'e' neanche il letto!!!         
+~
+160 8 0
+D2
+~
+Sbarra~
+0 -1 16089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16088
+La cella dell'assasino~
+Non fai in tempo ad entrare che una figura ti si avvinghia... C'e' pochissimo
+spazio per batterti comunque ora non puoi far altro che difenderti.   
+~
+160 8 0
+D0
+~
+~
+0 -1 16089 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16089
+Sala delle torture~
+Queste sono le segrete di Astrakan, finire qui sotto puo' voler dire non
+uscire mai piu'. Il re le ha fatte costruire per dare esempio a chi volesse
+violare le leggi piu' severe. Le piu' strane macchine da tortura che tu
+abbia mai visto sono disposte in un preciso ordine e cioe' da quella che
+provoca soltanto piccoli dolori a quella che in estremi casi porta fino
+ad una lenta morte in agonia. Un uomo che non ti ispira molto fiducia e'
+qui che aziona proprio l'ultima macchina, lo vedi quasi con il sorriso
+sulle labbra come se provasse piacere a torturare la sua vittima. Con un
+brusco movimento si gira e ti si scaglia contro. A sud e ad est vedi due
+celle vuote mentre a nord una sbarra blocca la porta di un metallo scurissimo
+e resistentissimo.          
+~
+160 8 0
+D0
+~
+Sbarra~
+0 -1 16087 0
+D1
+~
+Grata~
+0 -1 16086 0
+D2
+~
+Grata~
+0 -1 16088 0
+D3
+~
+~
+0 -1 16090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16090
+Il corridoio sotterraneo~
+Sei in un corto corridoio, le urla di prima ora le senti molto vicine e
+provengono da est. Ad ovest vedi una scala.           
+~
+160 8 0
+D1
+~
+Grata~
+0 -1 16089 0
+D3
+~
+~
+0 -1 16091 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16091
+In fondo alla scala~
+CRACK!!! CRACK!!! CRACK!!!
+
+            OH! OH!   
+
+Senti uno scricchiolio molto sospetto, non fai in tempo a realizzare che 
+l'ultimo gradino in legno si spezza, cadi, sbatti la testa e ti si annebbia
+un po' la vista, sei molto confuso!!! Ti guardi intorno un po' stralunato e
+vedi delle luci provenire da est, purtroppo non vedi molto bene cosa c'e'
+forse sara' meglio avvicinarsi un po'.~
+160 8 0
+D1
+~
+Grata~
+0 -1 16090 0
+D4
+~
+~
+0 -1 16077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16092
+Il tunnel~
+E' talmente stretto che a stento ci passi, continua verso nord e ti accorgi
+che non hai nemmeno lo spazio per girarti quindi puoi andare solo avanti.
+~
+160 264 0
+D0
+~
+Sbarra~
+0 -1 16078 0
+D2
+~
+~
+0 -1 16077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16093
+La stanza del cieco~
+Questa stanza e' diversa dalle altre sembra fatta apposta per un non vedente,
+pochi oggetti in giro, angoli smussati dei mobili, non ci sono gradini
+insomma tutto cio' che poteva creare intralcio ad un cieco e' stato tolto.
+~
+160 8 0
+D1
+~
+~
+0 -1 16059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16094
+Una stanza~
+Una stanza vuota. Tutto e' curato nei minimi particolari i re stesso ha
+dato disposizioni perche' le stanze degli ospiti siano sempre molto accoglienti.
+~
+160 8 0
+D3
+~
+~
+0 -1 16059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16095
+Una stanza~
+Una stanza vuota. Tutto e' curato nei minimi particolari i re stesso ha
+dato disposizioni perche' le stanze degli ospiti siano sempre molto accoglienti.
+~
+160 8 0
+D1
+~
+~
+0 -1 16097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16096
+Una stanza~
+Tutto e' curato nei minimi particolari i re stesso ha dato disposizioni
+perche' le stanze degli ospiti siano sempre molto accoglienti.  
+~
+160 8 0
+D3
+~
+~
+0 -1 16097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16097
+Gli alloggi degli ospiti~
+Un corridoio non molto lungo ai lati del quale vedi le varie stanze.  
+~
+160 8 0
+D0
+~
+~
+0 -1 16059 0
+D1
+~
+~
+0 -1 16096 0
+D3
+~
+~
+0 -1 16095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16098
+L'incrocio sulla via~
+Arrivi ad un incrocio, a nord ci sono sempre gli alberi, mentre a sud vedi
+l'inizio del feudo e ad est la via prosegue.           
+~
+160 0 0
+D1
+~
+~
+0 -1 16102 0
+D3
+~
+~
+0 -1 16023 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16099
+La foresta~
+WILDERNESS           
+~
+160 0 0
+D3
+~
+~
+0 0 16083 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16100
+La tenuta di caccia~
+La strada qui si perde nella distesa fatta di cespugli, alberi, zone pianeggianti....
+~
+160 0 2
+D0
+~
+~
+0 -1 16103 0
+D1
+~
+~
+0 -1 16082 0
+D2
+~
+~
+0 -1 16104 0
+D3
+~
+~
+0 -1 16102 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16101
+Il feudo~
+MINIWILD           
+~
+160 0 0
+D0
+~
+~
+0 -1 16098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16102
+Verso la tenuta di caccia~
+Ti trovi nei pressi della famosa tenuta di caccia del re Krondal che inizia
+qui ad est dove finisce la strada.         
+~
+160 0 0
+D1
+~
+~
+0 -1 16100 0
+D3
+~
+~
+0 -1 16098 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16103
+La radura~
+Una radura molto vasta, da qui riesci a vedere molto, fino ai vari cespugli
+dove si potrebbero nascondere le varie prede, e proprio mentre scruti l'orizzonte
+un leprotto salta fuori da uno di questi cespugli.         
+~
+160 0 0
+D1
+~
+~
+0 -1 16105 0
+D2
+~
+~
+0 -1 16100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16104
+La fitta vegetazione~
+Qui la vegetazione e' molto fitta ad est vedi un piccolo specchio d'acqua.
+~
+160 0 0
+D0
+~
+~
+0 -1 16100 0
+D1
+~
+~
+0 -1 16107 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16105
+Vicino al ruscello~
+Senti uno scroscio d'acqua ma non vedi nulla comunque viene sicuramente
+da est.            
+~
+160 0 0
+D1
+~
+~
+0 -1 16085 0
+D2
+~
+~
+0 -1 16082 0
+D3
+~
+~
+0 -1 16103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16106
+Gli alberi di ciliegio~
+Arrivi fin sotto a degli alberi secolari, sono ciliegi e a terra vedi una
+gran quantita' di ciliege mature.         
+~
+160 0 0
+D0
+~
+~
+0 -1 16083 0
+D3
+~
+~
+0 -1 16084 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16107
+Un piccolo specchio d'acqua~
+Un laghetto di modeste proporzioni e' qui alimentato da un ruscello che
+sembra provenire da nord.           
+~
+160 0 7
+D0
+~
+~
+0 -1 16082 0
+D1
+~
+~
+0 -1 16084 0
+D3
+~
+~
+0 -1 16104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16108
+Al ruscello~
+Giungi, senza farti sentire, al ruscello dove spesso si abbeverano i cervi
+della tunuta. L'acqua e' cristallina e talmente pulita che potresti berla.
+~
+160 0 0
+D2
+~
+~
+0 -1 16083 0
+D3
+~
+~
+0 -1 16085 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

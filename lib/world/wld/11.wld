@@ -1,0 +1,1479 @@
+#1100
+La vecchia quercia~
+Noti una gigantesca quercia nella foresta, decidi di avvicinarti incuriosito.
+Questa vecchia quercia nasconde una botola, puoi notare una &1&bISCRIZIONE&0
+nel tronco. 
+~
+11 4 3
+D5
+~
+botola~
+1 -1 1101 1
+E
+iscrizione~
+Attento incauto visitatore, su questo albero si dicono molte macabre leggende,
+fossi in te ne starei alla larga, soprattutto nelle ore notturne!!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1101
+Uno stretto passaggio~
+Scendi dopo aver aperto la botola lungo una stretta scala. Nel terreno ci
+sono orme fresche. 
+~
+11 0 0
+D2
+~
+botola~
+0 -1 1102 0
+D4
+~
+botola~
+0 -1 1100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1102
+Un incrocio~
+Improvvisamente le strade si dividono, il corridoio e' illuminato da alcune
+torce, capisci che questo posto non e' deserto. 
+~
+11 0 0
+D0
+~
+botola~
+0 -1 1101 0
+D1
+~
+porta~
+1 -1 1121 1
+D2
+~
+botola~
+0 -1 1103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1103
+La scala di corda~
+Il corridoio scavato nella terra termina con una scala di corda che scende
+verso l'oscurita'. 
+~
+11 0 0
+D0
+~
+porta~
+0 -1 1102 0
+D5
+~
+botola~
+0 1100 1104 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1104
+Il sotterraneo~
+Eccoti finalmente dentro la tana dei pericolosi banditi! Puoi andare un
+po' in tutte le direzioni, ti senti osservato e inizi a preoccuparti, forse
+era meglio non immischiarsi in questa storia. 
+~
+11 1 0
+D1
+~
+porta~
+1 -1 1105 1
+D2
+~
+botola~
+0 -1 1107 0
+D3
+~
+botola~
+0 -1 1106 0
+D4
+~
+botola~
+0 -1 1103 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1105
+Una stanza~
+Arrivi in una stanza, ci sono alcuni bauli in terra. Al centro c'e' un tavolo
+con alcuni piatti sporchi, c'e' anche un &1&bFOGLIO&0 appoggiato su di
+una bottiglia. 
+~
+11 0 0
+D1
+~
+porta~
+0 -1 1108 0
+D3
+~
+porta~
+0 -1 1104 0
+E
+foglio~
+Non disturbare, sto riposando.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1106
+Il sotterraneo~
+Eccoti finalmente dentro la tana dei pericolosi banditi! Senti molti rumori
+provenire dall'alto, poi d'un tratto il silenzio... C'e' una scala per
+salire, ma qualcosa ti dice di non farlo.
+~
+11 1 0
+D1
+~
+porta~
+0 -1 1104 0
+D4
+~
+porta~
+0 -1 1111 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1107
+La grande porta~
+La strada e' bloccata da una grande e massiccia porta in ferro. L'umidita'
+inizia a farsi insopportabile, meno male che non soffri di claustrofobia....
+
+~
+11 1 0
+D0
+~
+porta~
+0 -1 1104 0
+D2
+~
+porta~
+2 1101 1112 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1108
+Un angolo della stanza~
+Scopri che dietro ad alcune casse si celano delle scale che scendono in
+uno stretto tunnel, non hai idea di dove possa portare. 
+~
+11 0 0
+D3
+~
+porta~
+0 -1 1105 0
+D5
+~
+porta~
+0 -1 1109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1109
+Un piccolo magazzino~
+Arrivi in quello che sembra essere un piccolo magazzino. Ci sono ovunque
+cassoni e sacchi, forse i banditi mettono qua gli oggetti pronti per essere
+rivenduti. 
+~
+11 1 0
+D2
+~
+porta~
+1 -1 1110 1
+D4
+~
+porta~
+0 -1 1108 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1110
+Una camera privata~
+Entri in una camera e... Dentro ci sono alcuni banditi ubriachi che appena
+ti vedono ti insultano e ti attaccano!!! 
+~
+11 0 0
+D0
+~
+porta~
+0 -1 1109 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1111
+La stanza delle guardie~
+Appena sali la scala vedi una decina di banditi pronti ad ucciderti!!! Stai
+per prepararti a fuggire quando qualcosa di molto freddo ti si infila nella
+schiena.... Stramazzi a terra perdendo la vita. 
+~
+11 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1112
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro.
+~
+11 1 0
+D0
+~
+porta~
+2 1101 1107 15
+D1
+~
+porta~
+0 -1 1116 0
+D2
+~
+porta~
+0 -1 1114 0
+D3
+~
+porta~
+0 -1 1113 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1113
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro. 
+~
+11 1 0
+D1
+~
+porta~
+0 -1 1112 0
+D2
+~
+porta~
+0 -1 1115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1114
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro. 
+~
+11 1 0
+D0
+~
+porta~
+0 -1 1112 0
+D1
+~
+porta~
+0 -1 1117 0
+D2
+~
+porta~
+0 -1 1118 0
+D3
+~
+porta~
+0 -1 1115 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1115
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro. 
+~
+11 1 0
+D0
+~
+porta~
+0 -1 1113 0
+D1
+~
+porta~
+0 -1 1114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1116
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro. 
+~
+11 1 0
+D2
+~
+porta~
+0 -1 1117 0
+D3
+~
+porta~
+0 -1 1112 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1117
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro. 
+~
+11 1 0
+D0
+~
+porta~
+0 -1 1116 0
+D2
+~
+porta~
+0 -1 1119 0
+D3
+~
+porta~
+0 -1 1114 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1118
+La grotta sotterranea~
+Arrivi in una grande caverna!!! I peggiori banditi della Daresia si rifugiano
+qua per trovare riposo e protezione, e di certo non sono felici di vedere
+un intruso tra loro. 
+~
+11 1 0
+D0
+~
+porta~
+0 -1 1114 0
+D1
+~
+porta~
+0 -1 1119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1119
+La fine della grotta sotterranea~
+Giungi in un angolo della grotta, vedi a terra una botola circondata da
+teschi. 
+~
+11 1 0
+D0
+~
+porta~
+0 -1 1117 0
+D3
+~
+porta~
+0 -1 1118 0
+D5
+~
+botola~
+0 1102 1120 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1120
+La stanza del capo~
+Il temibile capo dei banditi e' qua, pronto a rubarti la vita!!! Non perdonera'
+mai la tua intrusione, attento!!! 
+~
+11 0 0
+D4
+~
+botola~
+0 -1 1119 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1121
+La scala tra i rami~
+Un buco nella parete superiore del tunnel ti permette di salire su una scala
+nascosta tra i rami della quercia. 
+~
+11 0 0
+D3
+~
+botola~
+0 -1 1102 0
+D4
+~
+botola~
+0 -1 1122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1122
+Nascosto tra i rami~
+Questo nascondiglio e' perfetto, ti permette di osservare la foresta dall'alto
+senza essere visto. 
+~
+11 0 0
+D0
+~
+botola~
+0 -1 1123 0
+D4
+~
+botola~
+0 -1 1124 0
+D5
+~
+botola~
+0 -1 1121 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1123
+La casa sulla quercia~
+Questa piccola casa e' usata... dalle sentinelle dei banditi!!! Qui riposano
+i criminali con la vista migliore e abili nell'arco. Pronti a segnalare
+la presenza di intrusi e a... ucciderli? 
+~
+11 0 0
+D2
+~
+botola~
+0 -1 1122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1124
+Nascosto tra i rami~
+Questo nascondiglio e' perfetto, ti permette di osservare la foresta dall'alto
+senza essere visto. 
+~
+11 0 0
+D4
+~
+botola~
+0 -1 1125 0
+D5
+~
+botola~
+0 -1 1122 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1125
+In cima alla quercia~
+Da qua riesci a vedere quasi tutta la foresta, ovviamente dalla foresta
+e' impossibile vederti, davvero un ottimo nascondiglio. 
+~
+11 0 0
+D5
+~
+botola~
+0 -1 1124 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1126
+Il gorgo di sabbia~
+Vedi un gorgo magico nel bel mezzo del deserto.
+Una potente forza magica lo fa muovere ritmicamente, nel suo centro c'e' una scala
+che si addentra in profondita'.
+Hai un po' paura a scendere... e se si richiudesse?
+~
+11 0 0
+D5
+~
+~
+0 0 1127 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1127
+La lunga scala~
+Appena scendi... OH NO ! Il gorgo si agita con violenza, e' impossibile risalire !!!
+Ormai sei costretto ad addentrarti in profondita', senti in lontananza un canto
+misterioso in una lingua che pero' non conosci.
+~
+11 0 0
+D5
+~
+~
+0 0 1128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1128
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D1
+~
+~
+0 0 1132 0
+D3
+~
+~
+0 0 1129 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1129
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D1
+~
+~
+0 0 1128 0
+D3
+~
+~
+0 0 1130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1130
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D1
+~
+~
+0 0 1129 0
+D2
+~
+~
+0 0 1131 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1131
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D0
+~
+~
+0 0 1130 0
+D2
+~
+~
+0 0 1135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1132
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D1
+~
+~
+0 0 1133 0
+D3
+~
+~
+0 0 1128 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1133
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D2
+~
+~
+0 0 1134 0
+D3
+~
+~
+0 0 1132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1134
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D0
+~
+~
+0 0 1133 0
+D2
+~
+~
+0 0 1136 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1135
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D0
+~
+~
+0 0 1131 0
+D1
+~
+~
+0 0 1137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1136
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D0
+~
+~
+0 0 1134 0
+D3
+~
+~
+0 0 1138 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1137
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D1
+~
+~
+0 0 1139 0
+D3
+~
+~
+0 0 1135 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1138
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D1
+~
+~
+0 0 1136 0
+D3
+~
+~
+0 0 1139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1139
+Il corridoio di sabbia~
+Una strana forza magica impedisce a questo corridoio scavato malamente nella sabbia di
+collassare su se stesso. Gia' questo ti fa preoccupare, e il tuo stato d'animo non migliora
+quando ti accorgi che questa strana forza assorbe ogni fonte di luce e suono.
+Il corridoio sembra sempre uguale... forse e' un' illusione per tenerti incastrato qua per
+il resto dei tuoi giorni!
+~
+11 33 0
+D0
+~
+~
+0 0 1140 0
+D1
+~
+~
+0 0 1138 0
+D2
+~
+porta~
+2 1104 1145 15
+D3
+~
+~
+0 0 1137 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1140
+Il Tempio Di Hokron~
+Eccoti nel tempio dove i fedeli di Hokron stanno svolgendo il potente rito che anima i mostri
+di sabbia. Questo ambiente per un attimo ti affascina: e' tutto composto di sabbia !!!
+Sembra che una strana forza magica la compatti per dare forma a ogni tipo di oggetto.
+I fedeli si accorgono presto della tua presenza e senza esitare decidono di attaccarti urlando
+strane formule in quella dannata lingua...
+~
+11 1 0
+D0
+~
+~
+0 0 1143 0
+D1
+~
+~
+0 0 1141 0
+D2
+~
+~
+0 0 1139 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1141
+Il Tempio Di Hokron~
+Eccoti nel tempio dove i fedeli di Hokron stanno svolgendo il potente rito che anima i mostri
+di sabbia. Questo ambiente per un attimo ti affascina: e' tutto composto di sabbia !!!
+Sembra che una strana forza magica la compatti per dare forma a ogni tipo di oggetto.
+I fedeli si accorgono presto della tua presenza e senza esitare decidono di attaccarti urlando
+strane formule in quella dannata lingua...
+~
+11 1 0
+D0
+~
+~
+0 0 1142 0
+D3
+~
+~
+0 0 1140 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1142
+Il Tempio Di Hokron~
+Eccoti nel tempio dove i fedeli di Hokron stanno svolgendo il potente rito che anima i mostri
+di sabbia. Questo ambiente per un attimo ti affascina: e' tutto composto di sabbia !!!
+Sembra che una strana forza magica la compatti per dare forma a ogni tipo di oggetto.
+I fedeli si accorgono presto della tua presenza e senza esitare decidono di attaccarti urlando
+strane formule in quella dannata lingua...
+~
+11 1 0
+D2
+~
+~
+0 0 1141 0
+D3
+~
+~
+0 0 1143 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1143
+Il Tempio Di Hokron~
+Eccoti nel tempio dove i fedeli di Hokron stanno svolgendo il potente rito che anima i mostri
+di sabbia. Questo ambiente per un attimo ti affascina: e' tutto composto di sabbia !!!
+Sembra che una strana forza magica la compatti per dare forma a ogni tipo di oggetto.
+I fedeli si accorgono presto della tua presenza e senza esitare decidono di attaccarti urlando
+strane formule in quella dannata lingua...
+~
+11 1 0
+D1
+~
+~
+0 0 1142 0
+D2
+~
+~
+0 0 1140 0
+D4
+~
+~
+0 0 1144 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1144
+La Tana Del Drago Di Sabbia~
+Sali una piccola scaletta e ti trovi in un' immensa stanza piena di scheletri...
+con orrore ti rendi conto di avere di fronte un terribile mostro dall' aspetto di un grosso
+drago ma composto di sabbia !!!
+~
+11 0 0
+D5
+~
+~
+0 0 1143 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1145
+La stanza di Hokron~
+Questa e' la stanza da cui sentivi quel canto nel corridoio.
+Le ultime guardie tentano di fermarti mentre vedi che un uomo vestito con una tunica dorata
+scende delle strette scale.
+~
+11 0 0
+D0
+~
+porta~
+1 0 1139 1
+D5
+~
+~
+0 0 1146 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1146
+L' Uscita~
+Hai finalmente trovato l'unico modo per tornare in superficie!
+C'e' infatti un altro gorgo magico simile a quello da cui sei entrato. Ma con te c'e' anche
+Hokron... fissandoti con odio decide ti farti capire tutto il suo potere !!!
+~
+11 0 0
+D4
+~
+~
+0 0 1404554 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1147
+Una stanza segreta~
+Hai trovato una stanza segreta !
+~
+11 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1150
+Una buia scala~
+Inizi a scendere per la scala buia, ti sembra che le pareti siano
+state come raschiate per cancellare le decorazioni.
+Alcuni gradini sono rotti e traballanti, devi stare molto attento.
+Non riesci a vedere la fine delle scale, in basso e' molto buio.
+~
+11 12 0
+D4
+~
+~
+0 0 7332 0
+D5
+~
+~
+0 0 1151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1151
+La fine della scala~
+Arrivi in una piccola stanzetta in rovina. Vedi i resti di
+quelle che una volta erano statue e affreschi. Uno stretto
+passaggio scende ancora piu' in profondita'.
+~
+11 1 0
+D4
+~
+~
+0 0 1150 0
+D5
+~
+~
+0 0 1152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1152
+L' ingresso del tempio in rovina~
+Bingo ! Hai trovato i resti di quello che una volta era il Tempio
+Di Fizban ! Le iscrizioni sulle pareti non lasciano dubbi,
+nonostante ora sia tutto in rovina capisci che questo una volta
+era un luogo maestoso.
+~
+11 257 0
+D1
+~
+~
+0 0 1153 0
+D4
+~
+~
+0 0 1151 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1153
+L'entrata al tempio diroccato~
+La stanza contiene i resti delle statue dei vecchi Sacerdoti del
+culto. Si dice che le statue furono distrutte da Fizban in persona
+profondamente deluso dalla loro gestione dell' ordine.
+La grande Arcata a est e' crollata, tonnellate di roccia bloccano
+per sempre i resti del cuore del vecchio tempio.
+Ci sono invece 2 piccoli corridoi laterali le cui porte sono ormai
+distrutte.
+~
+11 1 0
+D0
+~
+~
+0 0 1154 0
+D2
+~
+~
+0 0 1158 0
+D3
+~
+~
+0 0 1152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1154
+Il corridoio nord~
+Questo corridoio una volta circondava la parte centrale del Tempio
+Sorridi un po' quando noti delle finestre ormai in frantumi, qua
+sotto non servono piu' a molto.
+Vedi anche una piccola statua con una &1iscrizione&0.
+~
+11 1 0
+D1
+~
+~
+0 0 1155 0
+D2
+~
+~
+0 0 1153 0
+E
+iscrizione~
+Sempre sia lodato Fizban,
+Dio Del Bene 
+e protettore di Aldaria.
+
+Lothan - Gran Sacerdote -
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1155
+La zona dei templari~
+A terra ci sono i resti di un portone.
+Capisci che questa era la zona dei Templari, dove i guerrieri
+fedeli a Fizban potevano pregare, addestrarsi, lasciare i loro
+averi.
+~
+11 1 0
+D1
+~
+~
+0 0 1157 0
+D3
+~
+~
+0 0 1154 0
+D4
+~
+~
+0 0 1156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1156
+La sala dei templari~
+Questo e' il luogo dove i templari si riunivano per studiare le
+loro missioni e precisare le tattiche che avrebbero usato contro
+i nemici. Peccato che molti secoli fa i Templari associarono il
+loro nome alle azioni piu' infami e vergognose di quei tempi.
+~
+11 1 0
+D5
+~
+~
+0 0 1155 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1157
+La fine del corridoio nord~
+Qua vedi che il corridoio e' crollato, e svariate tonnellate di
+terra ti impediscono di proseguire.
+C'e' pero una piccola grotta su di un lato.
+~
+11 1 0
+D0
+~
+porta~
+2 1108 1162 15
+D3
+~
+~
+0 0 1155 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1158
+Il corridoio sud~
+Questo corridoio una volta circondava la parte centrale del Tempio
+Sorridi un po' quando noti delle finestre ormai in frantumi, qua
+sotto non servono piu' a molto.
+Il corridoio prosegue a est.
+~
+11 1 0
+D0
+~
+~
+0 0 1153 0
+D1
+~
+~
+0 0 1159 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1159
+La zona dei preti~
+Arrivi in una stanza che miracolosamente e' rimasta quasi intatta.
+Vedi che qua si trovano alcuni simboli sacri, era la stanza dove
+i preti svolgevano le loro ultime preghiere prima di ritirarsi
+nelle loro stanze.
+Con un po' di inquietudine scopri che questi simboli sacri sembrano
+essere stati in parte modificati... che sacrilegio !!!
+~
+11 1 0
+D0
+~
+~
+0 0 1160 0
+D3
+~
+~
+0 0 1158 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1160
+Le stanze dei preti~
+Queste sono le rovine delle stanze dei preti, vedi dozzine di
+camere diroccate e oggetti in frantumi.
+Le librerie che contenevano i testi sacri sono state simbolicamente
+bruciate dalla furia di Fizban.
+~
+11 1 0
+D2
+~
+~
+0 0 1159 0
+D5
+~
+~
+0 0 1161 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1161
+Un piccolo passaggio~
+Cerchi di farti strada tra le rovine rimanenti, ma per proseguire
+dovresti spostare troppa roccia.
+Decidi saggiamente che l'unica cosa da fare e' tornare indietro.
+Forse e' giusto cosi', le vergogne degli uomini che scatenarono
+su di se la furia di Fizban non meritano di essere riscoperte.
+~
+11 1 0
+D4
+~
+~
+0 0 1160 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1162
+La tomba di Lothan~
+Questa era la stanza del Gran Sacerdote Lothan .... ma con orrore
+lo vedi vivo e vegeto !!! Ma e' impossibile, saranno passati diversi
+secoli da allora... c'e' qualcosa di terribile in lui !!!
+Il suo sguardo cosi' affascinante... e' un Vampiro !!!
+<< Morte a Fizban e a tutti i suoi inutili fedeli !!! , Il male vi
+divorera', prima qua e infine in superficie !!! Muahahah >>
+Lothan e i suoi non morti vogliono prendersi una rivincita su
+tutta la Daresia.... attenti avventureri !!!!
+~
+11 1 0
+D2
+~
+porta~
+2 1108 1157 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1180
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D1
+~
+~
+0 0 1181 0
+D2
+~
+~
+0 0 1183 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1181
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D1
+~
+~
+0 0 1182 0
+D2
+~
+~
+0 0 1184 0
+D3
+~
+~
+0 0 1180 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1182
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D2
+~
+~
+0 0 1185 0
+D3
+~
+~
+0 0 1181 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1183
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D0
+~
+~
+0 0 1180 0
+D1
+~
+~
+0 0 1184 0
+D2
+~
+~
+0 0 1186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1184
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D0
+~
+~
+0 0 1181 0
+D1
+~
+~
+0 0 1185 0
+D2
+~
+~
+0 0 1187 0
+D3
+~
+~
+0 0 1183 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1185
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D0
+~
+~
+0 0 1182 0
+D2
+~
+~
+0 0 1188 0
+D3
+~
+~
+0 0 1184 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1186
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D0
+~
+~
+0 0 1183 0
+D1
+~
+~
+0 0 1187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1187
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D0
+~
+~
+0 0 1184 0
+D1
+~
+~
+0 0 1188 0
+D3
+~
+~
+0 0 1186 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1188
+L' Arena Del Dio Khud~
+Un immenso pubblico di sadici e guardoni non aspetta altro che vedere il tuo sangue !!!
+Mostra a Khud il tuo valore o muori tra atroci sofferenze!!!
+~
+11 0 0
+D0
+~
+~
+0 0 1185 0
+D3
+~
+~
+0 0 1187 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1189
+Il Tempio Del Dio Khud~
+Un tempio che riesce ad essere contemporaneamente maestoso e spartano,
+statue di guerrieri leggendari circondano tutto l'atrio, e al centro vedi
+un altare di pietra, su cui brucia uno strano fuoco bluastro di origine
+mistica. Intorno all' altare sono posate arme di straordinaria potenza e
+bellezza, a cui ti e' impossibile avvicinarti.
+~
+11 76 0
+D0
+~
+~
+0 0 1190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1190
+Un piccolo antro~
+Entri in un piccolo antro naturale di quella che sembrerebbe essere una grotta.
+Al suo interno ci sono strane colonne, perfettamente lucide, e ovunque puoi osservare
+pitture di immense battaglie, alcune istoriate.
+Ci sono strani effetti di luce, probabilmente magici.
+~
+11 72 6
+D1
+~
+~
+0 0 1557483 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 18115
+T 18116
+#1191
+L' Anticamera Del Tempio Di Khud~
+Ti trovi nella stanza subito antistante la cappella del culto di 
+Khud, la stanza e' decorata da arazzi raffiguranti scene di guerra e 
+guerrieri famosi di varie nazionalita'.
+Noti che un cavaliere controlla i fedeli prima di ammetterli alla 
+cappella.
+~
+11 72 0
+D0
+~
+~
+0 0 1192 0
+D1
+~
+~
+0 0 1190 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1192
+La Cappella Del Tempio Di Khud~
+Centinaia di guerrieri fedeli a Khud si trovano in questa grande 
+stanza nell'atto di venerare il grande dio della guerra, il tempo 
+sembra quasi fermarsi quando i martelli di Khud aprono la cerimonia.
+Di sicuro sanno come infervorare i cuori e gli spiriti dei 
+combattenti! 
+~
+11 0 0
+D0
+~
+~
+0 0 1194 0
+D1
+Una porta di legno.
+~
+porta~
+1 791153 1193 135
+D2
+~
+~
+0 0 1191 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1193
+La Camera dei Sacerdoti~
+Questa stanza e' molto spartana, vedi infatti alcuni letti disposti 
+parallelamente con un baule per raccogliere gli oggetti comuni del 
+culto. Nessun sacerdote, non importa il rango, puo' vivere 
+separatamente, il cameratismo e l'unione sono importantissimi tra i 
+compagni di battaglia.
+~
+11 2560 0
+D3
+Una porta di legno.
+~
+porta~
+1 791153 1192 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1194
+L' Altare di Khud~
+Un 'imponente raffigurazione di Khud e' stata scolpita in questo 
+altare, Khud viene raffigurato in battaglia mentre combatte da solo 
+contro innumerevoli nemici. Ti sembra di percepire uno strano soffio 
+d'aria provenire da dietro l'altare...
+~
+11 0 0
+D2
+~
+~
+0 0 1192 0
+D5
+~
+~
+0 0 1195 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1195
+La Camera dell'Ordalia~
+Una macabra luce ti accoglie nel luogo dove i nemici del Culto di Khud vengono
+martoriati, resi inoffensivi e uccisi dopo atroci sofferenze.    
+~
+11 131072 0
+D4
+~
+~
+0 0 1194 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1199
+La tana del tremendo &1Drago Rosso&0~
+Entri in una caverna che erge dalla palude, la prima cosa che noti e' un bagliore
+provenire dal pavimento di roccia ruvida, e' una gemma di grosse dimensioni e non 
+capisci come passa essere finita in questo luogo poi ti giri e vedi una montagna di
+altre gemme, oro, tesori e preziosi che non avevi mai visto prima... un dubbio ti 
+sorge nella mente, e dopo pochi attimi il dubbio si fa realta' un enorme essere sbuca
+ dalle tenebre in fondo alla grotta, il temibile Drago Rosso si sta' avvicinando e'
+la fine
+~
+11 1 0
+D3
+~
+Caverna~
+2 1199 1582477 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

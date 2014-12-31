@@ -1,0 +1,2250 @@
+#2300
+A Bordo di una scialuppa~
+Una piccola barca a remi. Sembra essere piuttosto vecchia e 
+mal ridotta, infatti vi sono diverse spaccature nello scafo
+dalle quali filtra un po' d'acqua. A prua un corda mantiene
+la scialuppa ad una certa distanza di sicurezza da una ben 
+piu' grande nave: dalle dimensioni dello scafo e delle vele
+sembrerebbe un mercantile. Una scaletta di corda scende dal 
+ponte del mercantile, mentre verso il basso puoi osservare la
+continuazione della chiglia sott'acqua. Qui il mare e'
+particolarmente limpido, e si possono vedere gran gruppi di
+pesci nuotare con tranquillita'.
+~
+23 28 0
+D4
+~
+~
+0 0 2301 0
+D5
+~
+~
+0 0 2308 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2301
+Una Scaletta di Corda~
+Ti trovi piu' o meno a meta' strada tra il ponte della nave
+e la scialuppa sotto di te. Ad ogni movimento le corde che
+costituiscono la scaletta scricchiolano, le tavolette sembrano
+star per cedere, forse a cause della salsedine o forse per il
+prolungato inutilizzo. Da questa posizione comunque riesci a 
+dare un'occhiata attorno a te e verso nord ti sembra di vedere
+una costa, forse un porto. Nelle altre direzioni solo acqua, 
+foschia, solitudine. 
+~
+23 392 0
+D4
+~
+~
+0 0 2302 0
+D5
+~
+~
+0 0 2300 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2302
+Il Ponte a Prua~
+Non avevi mai visto un ponte di una nave grande come questo,
+infatti nonostante qui l'imbarcazione inizi a restringersi, 
+il ponte e' piu' largo di qualsiasi imbarcazione tu abbia visto
+o sentito parlare. Il pavimento e' interamente in legno, consumato,
+eroso, impolverato. In effetti la nave sembra essere deserta, forse
+abbandonata.
+~
+23 8 0
+D1
+~
+~
+0 0 2303 0
+D3
+~
+~
+0 0 2304 0
+D5
+Nothing.
+~
+~
+0 0 2301 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2303
+La Prua dell'Imbarcazione~
+Sei a prua, qui il ponte si restringe notevolmente pur restando
+veramente grande. Lateralmente vi sono numerosi barili legati tra 
+loro con robuste corde. Per il resto non sembra esserci nulla di
+valore o d'interessante. 
+~
+23 8 0
+D3
+~
+~
+0 0 2302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2304
+Il Ponte~
+Davanti a te c'e' un gigantesco palo, composto da numerosi 
+tronchi d'albero legati, fissati l'uno con l'atro. Guardando
+verso l'alto quasi non si vede la sua fine, una scaletta di 
+corda pero' sembra condurre alla sua vetta. Due portelloni
+di legno rinforzato compongono qui il pavimento, probabilmente
+chiudono la stiva. Sono troppo grandi e pesanti da potersi aprire
+e non vedi nulla qui attorno che faccia presagire all'esistenza
+di un meccanismo per far arrivare la luce in stiva. Oltre a corde
+casse e qualche barile qui non vi e' assolutamente nulla.
+~
+23 8 0
+D1
+~
+~
+0 0 2302 0
+D3
+~
+~
+0 0 2305 0
+D4
+~
+~
+0 0 2307 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2305
+Il Ponte verso Poppa~
+Due scale di legno conducono a ovest sul castelletto di poppa,
+mentre qui al centro vi e' un altro albero, questo pero' con le
+vele ammainate. Come il resto del ponte anche qui non vi alcunche'
+di interessante o di valore. Chiunque abbia abbandonato questa 
+nave si e' portato dietro tutto il possibile. Solo corde e barili
+vuoti ricoprono ormai le consumate tavole del ponte.
+~
+23 8 0
+D1
+~
+~
+0 0 2304 0
+D4
+~
+~
+0 0 2306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2306
+Sul Castelletto~
+Al centro il timone, consumato, mangiato dalle termiti,
+ma si riesce ancora a riconoscerlo come tale. Sui lati,
+una panchina costeggia la poppa della nave, tutt'attorno
+il parapetto. In un angolo un mucchio di stoffa, forse 
+una bandiera, e' stato abbandonato ad ammuffire. 
+~
+23 8 0
+D5
+~
+~
+0 0 2305 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2307
+In cima all'albero maestro~
+Questa e' la postazione della vedetta. Non vi sono grandi cose,
+una coperta, una pentola arruginita, alcune corde, una spada
+arruginita e null'altro. Sulla cima dell'albero pero' vi e' ancora
+una corda, con la quale veniva fissata la bandiere dal mercantile
+che pero' al momento sembra mancare.
+~
+23 264 0
+D5
+~
+~
+0 0 2304 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2308
+Sotto la chiglia della nave~
+Stai nuotando sotto la nave. Ovunque ci sono pesci di mille
+colori, l'acqua limpida e non troppo fredda ti permette di
+vedere anche a grande profondita', cosi' ti rendi conto
+di trovarti in una gran brutta posizione. Ovunque attorno
+a te infatti vi sono gorghi, vortici, e forti correnti che
+oltre a mantenere l'acqua pulita rendono molto pericolosa 
+l'area, ed ogni movimento potrebbe protarti alla morte.
+~
+23 140737488355360 8
+D0
+~
+~
+0 0 2388 0
+D1
+~
+~
+0 0 2456 0
+D2
+~
+~
+0 0 2388 0
+D3
+~
+~
+0 0 2309 0
+D4
+~
+~
+0 0 2300 0
+D5
+~
+~
+0 0 2388 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2309
+Seguendo la Deriva~
+Sopra di te c'e' lo scafo del mercantile. Sul legno vi sono
+molti crostacei, alghe, e verso ovest noti una maggior luce.
+Forse una falla. Attorno a voi ancora gorghi, vortici, e molti
+pesci. Un bell'ambiente se non ci fosse il rischio di morire
+affogati in qualunque istante.
+~
+23 136 8
+D0
+~
+~
+0 0 2388 0
+D1
+~
+~
+0 0 2308 0
+D2
+~
+~
+0 0 2388 0
+D3
+~
+~
+0 0 2310 0
+D5
+~
+~
+0 0 2456 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2310
+Sott'acqua a Poppa~
+Sopra di te una botola nello scafo che sembra condurre
+dentro l'imbarcazione. Il legno quasi non si vede a cause
+di alghe e conchiglie varie che lo ricoprono. Una leggere
+luminescenza sembra provenire dall'interno, forse una 
+lanterna o una torcia. Alcuni pesci ti si avvicinano senza
+alcuna paura o timore, evidentemente non sono mai stati 
+a contatto con esseri umani. Vortici, e forti correnti
+continuano a circondare la nave.
+~
+23 136 8
+D0
+~
+~
+0 0 2388 0
+D1
+~
+~
+0 0 2309 0
+D2
+~
+~
+0 0 2388 0
+D3
+~
+~
+0 0 2388 0
+D4
+~
+~
+0 0 2311 0
+D5
+~
+~
+0 0 2388 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2311
+All'Interno dello Scafo~
+Finalmente hai trovato una botola che ti ha condotto dentro
+la nave. Sembra che tu sia in un settore dell'imbarcazione non
+molto usato, forse si trova sotto i rematori. Il soffitto e' molto
+basso, il pavimento e' la chiglia stessa della nave, completamente
+ricoperto da una sostanza vischiosa ed appicicaticcia, che sembra
+servire da isolante. Data la posizione, e' piuttosto umido qui, e
+non vi e' alcune fonte di luce. IL passaggio comunque prosegue verso
+est.
+~
+23 265 0
+D1
+~
+~
+0 0 2312 0
+D4
+~
+botola~
+0 0 2315 18
+D5
+~
+~
+0 0 2310 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2312
+Uno stretto passaggio~
+L'angusto passaggio prosegue, il soffitto ed il pavimento restano
+invariati. Inoltre si riescono a sentire alcune voci indistinte
+provenire dall'alto, sembrano quasi lamentele, mugulii. Purtroppo
+pero' data la tua posizione non risci a capire assolutamente nulla
+di quello che effettivamente stanno dicendo. Mentre strisci al buoio
+noti che l'ambiente e' piuttosto pulito nonostante non sia altro che
+una paratia di isolamento. Forse in realta' e' una specie di stiva
+segreta, dove il capitano usa nascondere le merci che trasporta
+illegalmente.
+~
+23 265 0
+D1
+~
+~
+0 0 2313 0
+D3
+~
+~
+0 0 2311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2313
+Uno stretto passaggio~
+Pur restanto molto stretto il fondo della nave, lo spazio qui e'
+maggiore, forse sei arrivato nel punto in cui la larghezza del
+mercantile e' massima. Infatti qui ci sono alcuni piccoli barili
+e casse, ben legate tra loro per evitare che si spostino. Il vociare
+proveniente dal piano di sopra sembra farsi sempre piu' forte man
+mano che procedi verso est, la prua.
+~
+23 265 0
+D1
+~
+~
+0 0 2314 0
+D3
+~
+~
+0 0 2312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2314
+Uno stretto passaggio~
+Finalmente dopo tanto strisciare al buio sei arrivato a prua.
+Qui il passaggio termina bruscamente a punta, seguendo appunto
+la forma della nave. Lo spazio e' veramente limitato, ed anche il
+pavimento impolverato sembra indicare che non venga quasi per niente
+usato, forse proprio a cause della scomodita'. Da sopra si sente un
+gran urlare, quasi qualcuno stesse impartendo dei comandi.
+~
+23 265 0
+D3
+~
+~
+0 0 2313 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2315
+Uno Sgabuzzino~
+Ti trovi in una stanza quadrata, piuttosto grande, con il
+soffitto alto piu' o meno 2 metri. Non vi sono finestre solo
+una porta verso est. Dalla posizione si direbbe che ti trovi a poppa.
+La stanza deve essere una specie di magazzino, vi sono molte 
+corde arrotolate su se stesse, alcuni barili, casse, adirittura
+remi di riserva. In un angolo noti un'intera vela ben piegata. 
+~
+23 8 0
+D1
+~
+porta~
+1 0 2316 3
+D5
+~
+botola~
+1 0 2311 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2316
+Una Passerella tra i Rematori~
+Alcune tavole costituiscono un lungo e stretto corridoio
+che segue il centro della nave nel senso della lunghezza.
+Ai lati vi sono numerose panche ad intervalli regolari, ed
+a ognuna corrisponde una piccola finestrella attraverso la 
+quale i remi permettono al mercantile di muoversi anche
+in assenza di vento. Da est si sentono grandi urla, accompagnate
+da un ritmico suono ti tamburo.
+~
+23 8 0
+D0
+~
+~
+0 0 2324 0
+D1
+~
+~
+0 0 2317 0
+D2
+~
+~
+0 0 2325 0
+D3
+~
+~
+0 0 2315 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2317
+Una Passerella tra i Rematori~
+Il passaggio tra i rematori prosegue verso prua. 
+Numerosi remi sono tirati in secca e poggiano sulle
+stesse panche. L'aria e' piuttosto pesante, non sembra
+possibile arieggiare molto questa parte della nave, ed
+il duro lavoro dei rematori qui si fa sentire. 
+~
+23 8 0
+D0
+~
+~
+0 0 2322 0
+D1
+~
+~
+0 0 2318 0
+D2
+~
+~
+0 0 2323 0
+D3
+~
+~
+0 0 2316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2318
+Una Passerella tra i Rematori~
+Ti trovi quasi a prua e nonostante la passerella 
+sia sempre uguale, le panche sono molto piu' corte
+ed anche i remi destinati a questa parte della nave
+sono piu' piccoli. Il suono ritmico proveniente da
+est sembra intensificarsi sempre di piu'. Tra poco
+ne scorgerai la sorgente.
+~
+23 8 0
+D0
+~
+~
+0 0 2320 0
+D1
+~
+~
+0 0 2319 0
+D2
+~
+~
+0 0 2321 0
+D3
+~
+~
+0 0 2317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2319
+Il Palco dell'Urlatore~
+Sei a prua, la passerella qui finisce lasciando
+spazio ad un piccolo palco, dove siede un energumeno
+gigantesco che urla strani ordini e suona un tamburo
+posizionato ai suoi piedi. Dietro di lui una scaletta
+porta di sopra, forse alla stiva. Sulla sua destra 
+un barile sostiene un calice mentre sulla sinistra
+e' appesa ad un chiodo una lunga frusta consumata.
+~
+23 136 0
+D3
+~
+~
+0 0 2318 0
+D4
+~
+~
+0 0 2326 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2320
+Le Panche dei Rematori~
+Sei quasi giunto a prua, la nave inesorabilmente qui si
+restringe e quindi anche le panche sono molto piu' corte.
+Cio' nonostante vi sono rematori a sufficienza per maneggiare
+i pesanti remi che sono ancora all'asciutto dentro la nave. 
+Questi rematori inoltre hanno il delicato compito di iniziare
+e dare il ritmo alle remate. Sono infatti i piu' vicini all'
+urlatore e quindi sono quelli che meglio possono sentire i
+comandi. Adesso pero' sembra essere un momento di pausa ed
+infatti stanno tutti parlottando tra di loro, ignorando quasi
+completamente quel che succede attorno a loro.
+~
+23 8 0
+D2
+~
+~
+0 0 2318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2321
+Le Panche dei Rematori~
+Sei quasi giunto a prua, la nave inesorabilmente qui si
+restringe e quindi anche le panche sono molto piu' corte.
+Cio' nonostante vi sono rematori a sufficienza per maneggiare
+i pesanti remi che sono ancora all'asciutto dentro la nave. 
+Questi rematori inoltre hanno il delicato compito di iniziare
+e dare il ritmo alle remate. Sono infatti i piu' vicini all'
+urlatore e quindi sono quelli che meglio possono sentire i
+comandi. Adesso pero' sembra essere un momento di pausa ed
+infatti stanno tutti parlottando tra di loro, ignorando quasi
+completamente quel che succede attorno a loro.
+~
+23 8 0
+D0
+~
+~
+0 0 2318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2322
+Le Panche dei Rematori~
+Alcune lunghe panche sono posizionate perpendicolarmente
+alle fiancate della nave. I remi che normalmente sono 
+immersi in acqua e solo una piccola loro parte si trova qui,
+adesso sono completamente ritirati e poggiano sulle stesse
+panche. Nonostante questo pero' i rematori devono sempre essere
+pronti a partire e per questo, nonostante le loro lamentele
+sono tutti ai loro posti, pronti ad impugnare i remi e seguendo
+i comandi dell'urlatore portare al largo quest'enorme mercantile.
+~
+23 8 0
+D2
+~
+~
+0 0 2317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2323
+Le Panche dei Rematori~
+Alcune lunghe panche sono posizionate perpendicolarmente
+alle fiancate della nave. I remi che normalmente sono 
+immersi in acqua e solo una piccola loro parte si trova qui,
+adesso sono completamente ritirati e poggiano sulle stesse
+panche. Nonostante questo pero' i rematori devono sempre essere
+pronti a partire e per questo, nonostante le loro lamentele
+sono tutti ai loro posti, pronti ad impugnare i remi e seguendo
+i comandi dell'urlatore portare al largo quest'enorme mercantile.
+~
+23 8 0
+D0
+~
+~
+0 0 2317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2324
+Le Panche dei Rematori~
+Alcune lunghe panche sono posizionate perpendicolarmente
+alle fiancate della nave. I remi che normalmente sono 
+immersi in acqua e solo una piccola loro parte si trova qui,
+adesso sono completamente ritirati e poggiano sulle stesse
+panche. Nonostante questo pero' i rematori devono sempre essere
+pronti a partire e per questo, nonostante le loro lamentele
+sono tutti ai loro posti, pronti ad impugnare i remi e seguendo
+i comandi dell'urlatore portare al largo quest'enorme mercantile.
+~
+23 8 0
+D2
+~
+~
+0 0 2316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2325
+Le Panche dei Rematori~
+Alcune lunghe panche sono posizionate perpendicolarmente
+alle fiancate della nave. I remi che normalmente sono 
+immersi in acqua e solo una piccola loro parte si trova qui,
+adesso sono completamente ritirati e poggiano sulle stesse
+panche. Nonostante questo pero' i rematori devono sempre essere
+pronti a partire e per questo, nonostante le loro lamentele
+sono tutti ai loro posti, pronti ad impugnare i remi e seguendo
+i comandi dell'urlatore portare al largo quest'enorme mercantile.
+~
+23 8 0
+D0
+~
+~
+0 0 2316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2326
+La Stiva a Prua~
+Uno stanzone trapezoidale che corrisponde a quasi tutta
+la prua della nave. A est vi e' una porta, nel centro
+del pavimento vi sono alcuni gradini che scendono piu'
+in profondita' nel mercantile. A ovest invece prosegue
+la stiva, questa enorme stanza che contiene ogni tipo
+di mercanzia immaginabile, proveniente chissa' da quali
+magnifici luoghi del mondo conosciuto e perche' no, magari
+anche da zone tutt'ora inesplorate.
+~
+23 8 0
+D1
+~
+porta~
+1 2305 2340 7
+D3
+~
+~
+0 0 2327 0
+D5
+~
+~
+0 0 2319 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2327
+La Stiva~
+Al centro un enoerme albero scende dal soffito, e prosegue
+sotto il pavimento. Dev'essere l'albero maestro della nave
+che collega il fondo della chiglia a tutti i piani, ed esce
+dal ponte. Vicino vi sono due enormi portelloni di legno
+rinforzato. E' impensabile che si possano aprire, sono talmente
+grandi e sicuramente pesanti. Evidentemente dev'esserci qualche
+meccanismo che ne permette l'apertura, pero' qui attorno non
+se ne vede traccia. Oltre ad uno stretto passaggio lasciato libero
+al centro dello stanzone, il resto del pavimento e' ricoperto
+da ogni tipo di mercanzia, da bellissimi tappeti a pesanti botti,
+e persino armi rare se non uniche sono ben ammucchiate un po' 
+ovunque in questo magazzino galleggiante.
+~
+23 8 0
+D0
+~
+~
+0 0 2337 0
+D1
+~
+~
+0 0 2326 0
+D2
+~
+~
+0 0 2339 0
+D3
+~
+~
+0 0 2328 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2328
+La Stiva~
+Lo stanzone prosegue verso sud, nord ed ovest, mentre ad
+est una parete pone termine alla stiva. Comunque un massiccia
+porta di legno indica che vi e' ancora qualcosa verso poppa.
+Questa parte della nave sembra non essere stata ancora riempita
+completamente, infatti vi e' parecchio spazio libero e le casse
+sono ammucchiate solo a ridosso della porta, quasi in un tentativo
+di nasconderla o semplicemente perche' sono state caricate ma 
+non ancora posizionate. 
+~
+23 8 0
+D0
+~
+~
+0 0 2336 0
+D1
+~
+~
+0 0 2327 0
+D2
+~
+~
+0 0 2338 0
+D3
+~
+porta~
+2 2303 2329 15
+D4
+~
+~
+0 0 2341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2329
+Uno Stretto Corridoio~
+Uno stretto corridoio che taglia a meta' la poppa della nave.
+Da nord proviene un buon profumino invitante, mentre a sud
+un'altra porta ha inciso alcuni simboli, ad indicare pane carne 
+ed altri cibi. A ovest il corridoio prosegue raggiungendo altre
+stanze situate proprio sotto il castelletto.
+~
+23 264 0
+D0
+~
+porta~
+1 0 2334 3
+D1
+~
+porta~
+2 2303 2328 15
+D2
+~
+porta~
+2 0 2335 15
+D3
+~
+~
+0 0 2330 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2330
+Sotto il Castelletto~
+Vi sono tre porte in questa stanza che non e' altro che la fine
+di uno stretto corridoio: una a nord ed una a sud che conducono
+molto probabilmente nelle camerate dell'equipaggio del mercantile
+ed una porta a ovest. A est invece il corridoio prosegue verso la
+stiva. 
+~
+23 264 0
+D0
+~
+porta~
+1 0 2331 3
+D1
+~
+~
+0 0 2329 0
+D2
+~
+porta~
+1 0 2332 3
+D3
+~
+porta~
+2 0 2333 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2331
+Una Piccola Camerata~
+Questa stanza e' adibita a dormitorio, infatti numerosi letti 
+a castello sono posizionati su tre file parallele lungo le pareti.
+Vi sono adirittura 4 letti uno sopra l'altro per guadagnare il
+maggior spazio possibile ed in ogni caso qui vi dormira' l'equipaggio
+a turno, quasi mai tutti assieme e quindi vi e' spazio ed aria a 
+sufficienza per tutti. 
+~
+23 41 0
+D2
+~
+porta~
+1 0 2330 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2332
+Una Piccola Camerata~
+Questa stanza e' adibita a dormitorio, infatti numerosi letti 
+a castello sono posizionati su tre file parallele lungo le pareti.
+Vi sono adirittura 4 letti uno sopra l'altro per guadagnare il
+maggior spazio possibile ed in ogni caso qui vi dormira' l'equipaggio
+a turno, quasi mai tutti assieme e quindi vi e' spazio ed aria a 
+sufficienza per tutti. 
+~
+23 41 0
+D0
+~
+porta~
+1 0 2330 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2333
+Un Piccolo Laboratorio~
+Nonostante sia su una nave, in questa stanza il mobilio e'
+interamente in marmo. Un tavolo rotondo in marmo nero e'
+posizionato al centro della stanza, dietro un trono, anch'esso
+in marmo, e' rivolto verso la vetrata che guarda il mare a poppa.
+Sulla destra della porta alcuni scaffali sorreggono numerosi
+libri, rilegati in copertine di vari colori. Sulla sinistra invece
+la mensole sostengono ampolle, boccette, bottglie di varie dimensioni.
+L'aria e' intrisa di uno strano odore, sembra quasi zolfo.
+Il resto dell'ambiente e' particolarmente spoglio, si notano
+solo alcune bruciature qua e la'.
+~
+23 136 0
+D1
+~
+porta~
+2 2304 2330 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2334
+Una Modesta Cucina~
+Un caminetto di pietra e' posizionato a ridosso della parete
+nord, sulla quale c'e' un foro per permettere al fumo di uscire.
+Enormi pentoloni sono appesi un po' ovunque, alcuni stanno facendo
+bollire qualcosa sul fuoco, alcuni barili sono appoggiati alle pareti
+altri legati vicino lo stesso caminetto. Mensole piene di contenitori
+di vetro ricoprono quasi l'interezza di tutte le pareti, ed un forte
+profumo di cibo riempie completamente l'aria della piccola stanza. 
+Dev'essere la cucina dell'imbarcazione, dove il cuoco prepara il cibo
+per l'equipaggio.
+~
+23 8 0
+D2
+~
+porta~
+1 0 2329 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2335
+Il Magazzino delle Vivande~
+Un piccolo buio sgabuzzino. Ci riesce ad entrare a mala pena
+una persona dato che vi sono barili e scaffali ovunque, riempiendo
+interamente la stanza. Qui, in questo ambiente umido e buio il
+cuoco conserva le vivande di cui avra' presto bisogno, senza dover
+recarsi ogni volta in stiva. La si puo' considerare una piccola 
+stiva privata.
+~
+23 265 0
+D0
+Nothing.
+~
+porta~
+2 0 2329 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2336
+La Stiva sul fianco nord~
+Ti trovi sul fianco nord della nave e della stessa stiva. 
+Numerose casse son ben sistemate una sopra l'altra e con 
+robuste corde sono fissate al pavimento legandole ad alcuni
+anelli di metallo. Alcune lanterne sono appese alle colonne 
+che sostengono il soffitto ed illuminano l'ambiente. Su ogni
+mucchio di casse un piccolo cartello ne indica il contenuto
+e la provenienza in modo da permetterne un rapido controllo
+o per favorirne la vendita.
+~
+23 8 0
+D1
+~
+~
+0 0 2337 0
+D2
+~
+~
+0 0 2328 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2337
+La Stiva sul fianco nord~
+Ti trovi sul fianco nord della nave e della stessa stiva. 
+Numerose casse son ben sistemate una sopra l'altra e con 
+robuste corde sono fissate al pavimento legandole ad alcuni
+anelli di metallo. Alcune lanterne sono appese alle colonne 
+che sostengono il soffitto ed illuminano l'ambiente. Su ogni
+mucchio di casse un piccolo cartello ne indica il contenuto
+e la provenienza in modo da permetterne un rapido controllo
+o per favorirne la vendita.
+~
+23 8 0
+D2
+~
+~
+0 0 2327 0
+D3
+~
+~
+0 0 2336 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2338
+La Stiva sul fianco sud~
+Ti trovi sul fianco sud della nave e della stessa stiva. 
+Numerose casse son ben sistemate una sopra l'altra e con 
+robuste corde sono fissate al pavimento legandole ad alcuni
+anelli di metallo. Alcune lanterne sono appese alle colonne 
+che sostengono il soffitto illuminando l'ambiente. Su ogni
+mucchio di casse un piccolo cartello ne indica il contenuto
+e la provenienza in modo da permetterne un rapido controllo
+o per favorirne la vendita.
+~
+23 8 0
+D0
+~
+~
+0 0 2328 0
+D1
+~
+~
+0 0 2339 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2339
+La Stiva sul fianco sud~
+Ti trovi sul fianco sud della nave e della stessa stiva. 
+Numerose casse son ben sistemate una sopra l'altra e con 
+robuste corde sono fissate al pavimento legandole ad alcuni
+anelli di metallo. Alcune lanterne sono appese alle colonne 
+che sostengono il soffitto illuminando l'ambiente. Su ogni
+mucchio di casse un piccolo cartello ne indica il contenuto
+e la provenienza in modo da permetterne un rapido controllo
+o per favorirne la vendita.
+~
+23 8 0
+D0
+~
+~
+0 0 2327 0
+D3
+~
+~
+0 0 2338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2340
+Una Stanzetta~
+Questa piccola stanza a punta, infatti si trova proprio sulla 
+punta della prua, sembra essere adibita a camera da letto. Vi
+e' infatti un piccolo giaciglio di paglia in un angolo, con 
+affianco una lanterna ed un barilotto. Sulla parete destra vi e'
+uno scaffale che sostiene alcuni libri, probabilmente raccolte
+di carte nautiche. Dietro la porta inoltre vi e' un grande
+tamburo nuovo coperto da un piccolo pezzo di stoffa bianco.
+~
+23 24 0
+D3
+~
+porta~
+1 2305 2326 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2341
+Sul Ponte~
+Ti senti un po' stordito, e ti gira un po' la testa.
+Guardandoti in giro ti rendi conto di essere sul ponte
+della nave, un enorme, quasi senza fine ponte. A est
+c'e' l'entrata per una costruzione di discrete dimensioni
+a forma di piramide quadrata. A nord ed a sud, dove ti ricordi
+che c'era il mare, ora vi sono altre imbarcazioni, tutte 
+collegate tra di loro attraverso strani zatteroni di legno
+che rendono il tutto molto simile ad un'isola artificiale.
+Su di questi vi sono addirittura piccola case, capanne, come
+fosse una vera citta' in mezzo al mare. All'orizzonte non si
+vede nient'altro che una leggera foschia, non vi e' alcun
+segno di altre navi o di terra.
+~
+23 0 0
+D1
+~
+porta~
+2 2309 2342 15
+D2
+~
+~
+0 0 2343 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2342
+Una Capanna a Piramide~
+Ti trovi all'interno della capanna che si dimostra essere in realta'
+una camera da letto. L'ambiente e' estremamente lussuoso infatti costosi
+e raffinati tappeti ricoprono le pareti ed il pavimento nel tentativo
+di rendere l'ambiente il piu' caldo possibile. Inoltre sulla parete nord
+un grande caminetto in pietra e' incastrato nella stessa parete.
+Nel centro della stanza vi e' un comdo e spazioso letto, dove riposa un
+anziano uomo, attorno al quale numerosi candelabri ed alcuni bastoncini
+d'incenso bruciano illuminando e riempiendo la stanza di strani odori.
+Ai piedi del letto alcune ampolle, un piccolo barilotto ed un catino
+pieno d'acqua fresca sono pronti per essere usati in qualsiasi momento.
+Osservando meglio l'uomo noti che non sembra godere di ottima saluta, anzi,
+data l'eta' avanzata sembra piu' essere sul punto di morire da un momento
+all'altro.
+~
+23 60 0
+D3
+~
+porta~
+2 2309 2341 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2343
+Una Scala~
+Un'ampia scala di legno scende dal ponte della nave
+verso una piattaforma che e' ad essa stessa ancorata.
+Visto che questa nave sembra non dover proprio navigare,
+la scala e' fissata, e' permanente e per questo e' larga,
+spaziosa, comoda. Ad intervalli regolari vi sono alcune 
+lanterne in modo che la scala sia sempre ben visibile.
+~
+23 264 1
+D0
+~
+~
+0 0 2341 0
+D5
+~
+~
+0 0 2344 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2344
+Una Piattaforma~
+Su di te incombe una grande imbarcazione, veramente gigantesca
+una piccola scala sembra condurre sul ponte mentre verso ovest 
+noti alcune piattaforme che sembrano collegare questa con altre
+aree piu' stabili. 
+~
+23 64 0
+D3
+~
+~
+0 0 2437 0
+D4
+~
+~
+0 0 2343 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2345
+&3&bCOPYRIGHT&0~
+Area iniziata ad editare il giorno 18 dicembre 2001
+Si rigrazia infinitamente per la collaborazione Offar, Amanu, Phantom
+e tutto lo staff di Dalila2 Mud.
+Inoltre si ringraziano Zazi, Luke, Fox per le idee.
+Grazie.
+~
+23 1090715534754220 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2346
+Un'Ampia Taverna~
+Ti trovi all'interno del corpo stesso di una nave, piuttosto grande
+dalle dimensioni di questa stanza. A ridosso della parete nord un lungo
+bancone divide i clienti dai barili di birra, ed alcolici vari. Nell'angolo
+nord est vi e' un corridoio che prosegue verso nord ed alcuni gradini che
+conducono verso una stanza rialzata ad est sulla cui porta c'e' la scritta
+'PRIVATO'. Il resto della stanza e' riempito da numerosi tavoli e sedie, in
+un angolo c'e' un mucchio di persone con occhi neri, sanguinanti e mal ridotti
+dall'alcol o da una rissa di troppo. L'aria e' resa pesante non solo dal fumare
+di numerose candele e dal grande caminetto che si trova sulla parete ovest, ma
+anche dalla puzza che emanano i clienti abitudinali di questa taverna.
+Dietro il bancone un ometto piccolo e grasso, con un lungo naso a punta sembra
+aspettare che qualcuno vada a ordinare qualcosa o ascolta le richieste delle 
+cameriere che corrono indaffarate da un tavolo ad un altro.
+~
+23 8 0
+D0
+~
+~
+0 0 2349 0
+D2
+~
+~
+0 0 2425 0
+D4
+~
+porta~
+2 0 2348 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2347
+La Cucina~
+Ti trovi nella seconda meta' della nave, la prima era adibita
+a taverna, mentre questa e' la cucina. Le due stanza sono quasi 
+grandi uguali, una minima differenza di larghezza infatti le rende
+diverse. Qui comunque vi sono due grandi camini dove varie pentole
+stanno cuocendo zuppe ed altri cibi che riempiono la stanza di squisiti
+profumi. Barili, alcune casse, mensole piene di vasetti, bottiglie, 
+ampolle riempiono le pareti e la maggior parte del pavimento. In effetti
+non vi e' molto ordine e per questo muoversi risulta particolarmente
+difficile, quasi pericoloso.
+~
+23 8 0
+D2
+~
+porta~
+1 0 2349 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2348
+Una Saletta Privata~
+Ti trovi in una piccola saletta rettangolare. Un tavolone di legno
+ne occupa quasi l'interezza, attorno al quale vi e' una cassapanca di 
+noce. Due lampadari di ferro battuto e vetro pendono dal soffitto
+illuminando di una dolce luce chiara l'intero ambiente. L'aria della 
+stanza e' fresca, granzie anche alla finestra situata sulla parete
+est. Stranamente pero' senti uno strano formicolio che ti sale lungo le
+braccia, che ti mette in un certo qual modo in soggezione. Forti forze
+agiscono in questa stanza, forze che tu non riesci a capire, ma sai che
+sono sicuramente malvagie.
+~
+23 136 0
+D5
+~
+porta~
+2 0 2346 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2349
+Uno stretto Corridoio~
+Alte e strette pareti di legno e rade lanterne rendono questo
+corridoio piuttosto scomodo da percorrere. A est sembra proseguire
+mentre a nord si interrompe davanti ad un porta, dalla quale 
+provengono dolci e succulenti profumi di cibo, mentre da sud si
+sente il vociare continuo dei clienti della taverna.
+~
+23 264 0
+D0
+~
+porta~
+1 0 2347 3
+D1
+~
+~
+0 0 2350 0
+D2
+~
+~
+0 0 2346 0
+D3
+~
+porticina~
+0 0 2453 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2350
+Uno stretto Corridoio~
+Alte e strette pareti di legno e rade lanterne rendono questo
+corridoio piuttosto scomodo da percorrere. A est, nord e sud vi
+sono porte che conducono in tre camere da letto, quelle che 
+probabilmente si possono affittare in questa locanda. Pero'
+non vi sono molti viandanti in questa citta' galleggiante, quindi
+probabilmente le camere hanno altri scopi, piu' intimi.
+~
+23 264 0
+D0
+~
+porta~
+2 0 2351 15
+D1
+~
+porta~
+2 0 2353 15
+D2
+~
+porta~
+2 0 2352 15
+D3
+~
+~
+0 0 2349 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2351
+Una Camera in Affitto~
+Una camera matrimoniale, con un gran bel letto a baldacchino
+posizionato al centro. Ai lati due piccoli comodini sorreggono
+dei vasi di fiori freschi che riempiono la stanza di un delicato
+profumo primaverile. Numerose candele appoggiate su sostegni di
+pietra illuminano fiocamente la stanza. Il soffitto e' ricoperto
+da un grande arazzo come anche le pareti, dando all'ambiente 
+una forte sensazione di intimita'.
+~
+23 0 0
+D2
+~
+porta~
+2 0 2350 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2352
+Una Camera in Affitto~
+Una camera matrimoniale, con un gran bel letto a baldacchino
+posizionato al centro. Ai lati due piccoli comodini sorreggono
+dei vasi di fiori fresci che riempiono la stanza di un delicato
+profumo primaverile. Numerose candele appoggiate su sostegni di
+pietra illuminano fiocamente la stanza. Il soffitto e' ricoperto
+da un grande arazzo come anche le pareti, dando all'ambiente 
+una forte sensazione di intimi
+~
+23 0 0
+D0
+~
+porta~
+2 0 2350 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2353
+Una Camera in Affitto~
+Una camera matrimoniale, con un gran bel letto a baldacchino
+posizionato al centro. Ai lati due piccoli comodini sorreggono
+dei vasi di fiori fresci che riempiono la stanza di un delicato
+profumo primaverile. Numerose candele appoggiate su sostegni di
+pietra illuminano fiocamente la stanza. Il soffitto e' ricoperto
+da un grande arazzo come anche le pareti, dando all'ambiente 
+una forte sensazione di intimita'.
+~
+23 0 0
+D3
+~
+porta~
+2 0 2350 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2354
+Una Piccola Capanna~
+You are in an unfinished room.
+~
+23 0 0
+D3
+~
+porta~
+1 0 2391 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2355
+L'entrata di una Casetta~
+Un piccolo corridoio tra tre porte: una a est che riconduce
+sulla piattaforma principale, e una a nord e a sud, che conducono
+a due piccole stanze adibite a celle.
+Non vi sono finestre o alcun tipo di mobiglio. E' completamente
+spoglia.
+~
+23 35184372088840 0
+D0
+~
+porta rinforzata~
+2 0 2357 15
+D1
+~
+porta~
+1 0 2358 7
+D2
+~
+porta rinforzata~
+2 0 2356 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2356
+Una Piccola Cella~
+Una piccola stanza rettangolare. Una piccola finestra con una
+grata e' situata sulla parete sud, sotto la quale un pagliericcio
+maleodorante e' ammucchiato alla benemeglio. A nord vi e' la porta
+d'entrata, una porta di legno massiccio rinforzata da borchie 
+d'acciaio. Non sembra vi sia null'altro qui a parte alcune incisioni
+su di una parete. Sebrano essere date, forse i giorni di prigionia
+di qualcuno, che per non perdere il senso del tempo si segnava il suo
+scorrere inesorabile.
+~
+23 35184372089085 0
+D0
+~
+porta rinforzata~
+2 0 2355 9
+D5
+~
+botola~
+0 0 2368 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2357
+Una Buia Cella~
+Una stanzetta buia ed umida. Vi e' una piccola finestra
+chiusa con pesanti battenti sulla parete ovest. Un piccolo
+letto e' posizionato nell'angolo nord est, mentre una barilotto
+d'acqua si trova nell'angolo opposto. Sulla parete sud vi
+e' una pesante porta di legno massiccio rinforzato da placche
+di metallo arruginito.
+~
+23 35184372089085 0
+D2
+~
+porta rinforzata~
+2 0 2355 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2358
+Una Piattaforma tra le Capanne~
+Sei sopra una piattaforma di travi di legno, consumate dalla
+salsedine, ma comunque in ottime condizioni. A est e ovest
+vi sono due porte per due costruzioni, anch'esse in legno.
+A ridosso della parete a ovest vi e' un piccolo tavolino ed 
+una sedia, e sullo stipite della porta vi e' un chiodo che 
+sostiene una piccola chiave arruginita. L'ambiente sembra
+essere molto frequentato, infatti un via vai continuo di uomini
+sembra star ad indicare che l'area ha una certa importanza, o
+nasconde qualcosa di un certo valore.
+~
+23 0 0
+D0
+~
+~
+0 0 2360 0
+D1
+~
+porta~
+1 0 2359 3
+D2
+~
+~
+0 0 2364 0
+D3
+~
+porta~
+1 0 2355 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2359
+Una Capanna di Legno~
+Un piccolo monolocale di legno, con spifferi e fessure un po'
+ovunque, sulle pareti, sul soffitto e sul stesso pavimento.
+La stanza e' praticamante vuota, non vi e' assolutamente nulla
+se non un piccolo tavolino in un angolo ed un giaciglio di paglia.
+Non vi sono finestre ne' lanterne o altre fonti di luce. I pochi
+raggi luminosi filtrano dalle fessure assieme all'aria fresca
+del mare.
+~
+23 8 0
+D3
+~
+porta~
+1 0 2358 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2360
+Una Piattaforma verso Nord~
+You are in an unfinished room.
+~
+23 0 0
+D0
+~
+~
+0 0 2439 0
+D2
+~
+~
+0 0 2358 0
+D3
+~
+~
+0 0 2361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2361
+Una Piattaforma sul lato nord della Casetta~
+You are in an unfinished room.
+~
+23 0 0
+D1
+~
+~
+0 0 2360 0
+D3
+~
+~
+0 0 2366 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2362
+Una Piattaforma sul lato Ovest della Casetta~
+You are in an unfinished room.
+~
+23 0 0
+D0
+~
+~
+0 0 2366 0
+D2
+~
+~
+0 0 2365 0
+D4
+~
+~
+0 0 2367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2363
+Una Piattaforma sul lato Sud della Casetta~
+You are in an unfinished room.
+~
+23 0 0
+D1
+~
+~
+0 0 2364 0
+D3
+~
+~
+0 0 2365 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2364
+Una Piattaforma verso Sud~
+A sud inizia una serie di ponti sospesi, che non si
+direbbe siano in ottimo stato. A ovest la piattaforma continua
+e gira attorno al piccolo edificio di legno. A nord l'entrata
+delle casette. Il legno qui, come un po' ovunque in questo strano
+luogo, e' consumato ed eroso dal sale e dal tempo, comunque 
+sembra essere abbastanza ben tenuto, segno che qualcuno se ne 
+occupa regolarmente, proprio per evitare danni permanenti.
+~
+23 0 0
+D0
+~
+~
+0 0 2358 0
+D2
+~
+~
+0 0 2438 0
+D3
+~
+~
+0 0 2363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2365
+Una Piattaforma D'Angolo~
+You are in an unfinished room.
+~
+23 0 0
+D0
+~
+~
+0 0 2362 0
+D1
+~
+~
+0 0 2363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2366
+Una Piattaforma D'Angolo~
+You are in an unfinished room.
+~
+23 0 0
+D1
+~
+~
+0 0 2361 0
+D2
+~
+~
+0 0 2362 0
+D3
+~
+~
+0 0 2444 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2367
+Sul Tetto della Casetta~
+You are in an unfinished room.
+~
+23 132 0
+D5
+~
+~
+0 0 2362 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2368
+Sotto La Piattaforma~
+You are in an unfinished room.
+~
+23 0 0
+D4
+~
+botola~
+1 0 2356 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2369
+Dentro una Stiva~
+L'interno di questa piccola imbarcazione sembra esser stata
+adibita a negozio, infatti di fronte l'entrata vi e' un pesante
+e robusto bancone di legno massiccio alle cui spalle, sulla parete,
+numerosi scaffali sostengono bottiglie, contenitori e vasetti di varie
+forme e dimensioni, tutti con la propria etichetta. Lateralmente vi sono
+barili e casse ed ovunque aleggia uno strano odore nell'aria. In un angolo,
+su di una piccola sedia scricchiolante, un anziano uomo ti guarda in attesa
+che tu gli dica qualcosa.
+~
+23 0 0
+D1
+Nothing.
+~
+porta~
+2 0 2370 15
+D3
+~
+~
+0 0 2423 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2370
+Il Magazzino~
+Questa parte dell'imbarcazione sembra esser stata adibita a magazzino,
+dato che un po' ovunque sono sparse casse, armadi, e persino carretti
+stracolmi di erbe, boccette e qualsiasi altra che possa interessare l'anziano
+negoziante. Verso sud vi e' un piccolo molo da dove probabilmente vengono
+caricate le mercanzie. Per il resto la stanza e' particolarmente spoglia
+e l'unica fonte di luce e' un piccola lanterna ad olio appesa in mezzo
+al soffitto.
+~
+23 0 0
+D2
+~
+grata~
+1 0 2371 7
+D3
+~
+porta~
+2 0 2369 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2371
+Il Molo~
+Questo piccolo pontile non e' altro che un insieme di barili inchiodati
+tra di loco e fissati con delle tavole che fungono anche da pavimento.
+~
+23 0 0
+D0
+~
+grata~
+1 0 2370 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2372
+L'Entrata della zona dei moli~
+A prima vista una piattaforma come le altre, con tavole di legno consumate
+dalla salsedine per pavimento, alcune corde tese lateralmente come parapetto
+ed alcuni soliti gruppi di schiavi che puliscono con rozze spazzole i ponti.
+Inoltre qui c'e' un arco, un arco di legno sul quale pende un piccolo cartello:
+"Per i moli proseguire verso sud".
+~
+23 76 0
+D0
+~
+~
+0 0 2391 0
+D2
+~
+~
+0 0 2373 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2373
+Una Piattaforma tra i Magazzini~
+Questa piattaforma galleggiante e' molto grande, tanto da poter
+sostenere due enormi capannoni, probabilmente due magazzini. Uno a est
+ed uno a ovest. Entrambi hanno un portellone ben chiuso, utile per
+nascondere il contenuto ad occhi indiscreti e per proteggere le
+mercanzie dalla furia del mare. A sud un ponticello di legno porta 
+ad un'altra sezione dei moli. In lontananza infatti si possono scorgere
+gli alberi maestri di numerose navi attraccate.
+~
+23 0 0
+D0
+~
+~
+0 0 2372 0
+D1
+Una placca sulla parete mostra la scritta:
+'Magazzino Equipaggiamente Vari'
+~
+portone~
+1 0 2377 7
+D2
+~
+~
+0 0 2390 0
+D3
+Una placca sulla parete mostra la scritta:
+'Magazzino Vivande'
+~
+portone~
+1 0 2374 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2374
+Un Capannone~
+E' una grande costruzione mista di legno, metallo e pietra.
+La base delle pareti e' in pietra, una specie di fondamenta,
+mentre le pareti e lo stesso soffitto e' in legno rinforzato
+da travi in metallo. Vi e' molto spazio occupato da casse e 
+sacchi di varie forme e dimensioni, ma cio' nonostante almeno
+meta' capannone e' ancora libero. Questo dev'essere il deposito
+comune delle vivande. Sulla parete ovest una grata ti 
+permette di vedere un piccolo pontile che si spinge nel mare
+aperto, forse destinato al carico e scarico delle navi che
+raggiungono questa citta'.
+~
+23 8 0
+D1
+~
+portone~
+1 0 2373 7
+D3
+~
+grata~
+1 0 2376 3
+D4
+~
+porta~
+1 0 2375 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2375
+Un Piccolo Ufficio~
+Una piccola stanza sopraelevata, infatti si trova su nove colonnine
+di metallo ed una scaletta di legno conduce vicino al portone d'entrata
+del capannone. All'interno dell'ufficio non vi sono grandi cose, solo una
+libreria a scaffali, una scrivania con alcune sedie e nella parete della
+porta una gran vetrata che permette di controllare continuamente il
+magazzino. Al centro del basso soffitto due lanterne illuminano costantemente
+l'ambiente, indipendentemente se sia giorno e notte, visto che non vi sono
+altre possibili fonti di luce.
+~
+23 136 0
+D5
+~
+porta~
+1 0 2374 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2376
+Un Piccolo Pontile~
+Alcune piattaforme galleggianti che seguono costantemente il
+rollio del mare sono legate tra di loro a formare quello che
+sembra un piccolo pontile. Probabilmente viene utilizzato
+unicamente per permettere alle navi di scaricare le loro merci
+con maggiore rapidita', senza dover attraversare a piedi gran
+parte dell'area portuale.
+~
+23 0 1
+D1
+~
+grata~
+1 0 2374 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2377
+Un Capannone~
+E' una grande costruzione mista di legno, metallo e pietra.
+La base delle pareti e' in pietra, una specie di fondamenta,
+mentre le pareti e lo stesso soffitto e' in legno rinforzato
+sacchi di varie forme e dimensioni, ma cio' nonostante almeno
+meta' capannone e' ancora libero. Questo dev'essere il deposito
+comune di mercanzie di vario tipo: dai tesori a corde di riserva,.
+dalle vele a travi ed altri oggetti di uso quasi comune. Sulla parete
+est una grata ti permette di vedere un piccolo pontile che si spinge
+in un piccolo angolo di mare racchiuso tra le piattaforme, forse 
+destinato al carico e scarico delle navi che raggiungono questa citta'.
+~
+23 8 0
+D1
+~
+grata~
+1 0 2379 3
+D2
+~
+~
+0 0 2380 0
+D3
+~
+portone~
+1 0 2373 7
+D4
+~
+porta~
+1 0 2378 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2378
+Un Piccolo Ufficio~
+Una piccola stanza sopraelevata, infatti si trova su nove colonnine
+di metallo ed una scaletta di legno conduce vicino al portone d'entrata
+del capannone. All'interno dell'ufficio non vi sono grandi cose, solo una
+libreria a scaffali, una scrivania con alcune sedie e nella parete della
+porta una gran vetrata che permette di controllare continuamente il
+magazzino. Al centro del basso soffitto due lanterne illuminano costantemente
+l'ambiente, indipendentemente se sia giorno e notte, visto che non vi sono
+altre possibili fonti di luce.
+~
+23 136 0
+D5
+~
+porta~
+1 0 2377 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2379
+Un Molo Ovale~
+Alcune piattaforme galleggianti che seguono costantemente il
+rollio del mare sono legate tra di loro a formare quello che
+sembra un piccolo pontile. Probabilmente viene utilizzato
+unicamente per permettere alle navi di scaricare le loro merci
+con maggiore rapidita', senza dover attraversare a piedi gran
+parte dell'area portuale. A differenza pero' dei soliti pontili
+questo e' a forma di anello, con al centro un piccolo specchio
+d'acqua inacessibile alle navi.
+~
+23 0 0
+D3
+~
+grata~
+1 0 2377 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2380
+L'inizio della banchina~
+Sembra di trovarsi in un normalissimo porto di una citta'
+marittima. Un forte odore di salsedine misto a pesce riempie
+l'aria, il pavimento di pietra consumato dal sale e' calpestato
+da una folla di manovali e braccianti di ogni genere, nazionalita'
+razza. Persino mostri che non avevi mai visto prima si aggirano
+qui trasportando pesanti casse verso qualche magazzino. Ad intervalli
+regolari alcune guardie controllano che gli schiavi facciano il
+loro lavoro senza rompere niente o cercare di fuggire, pronti in
+qualsiasi momento a punirli con la loro lunga fruta. A nord un
+piccolo negozietto, per gli acquisti dell'ultimo minuto prima
+di salpare mostra una simpatica insegna raffigurante una creatura
+marina gigantesca muninita di lunghi e possenti tentacoli nell'atto
+di affondare un grande veliero. A est altri pontili, a ovest le
+piattaforme di legno che conducono fuori dal porto.
+~
+23 0 10
+D0
+~
+porta~
+1 0 2389 3
+D1
+~
+~
+0 0 2382 0
+D2
+~
+~
+0 0 2381 0
+D3
+~
+~
+0 0 2390 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2381
+Un pontile a L~
+Tre piattaforme fissate tra di loro con robusti ganci
+metallici andando a formare una lunga L. Il pavimento
+e' di robuste tavole di legno, molto consumate ma data
+la loro posizione, il camminare e il catrame che spesso
+viene versato, per sbaglio, su di loro le han rese quasi
+indistruttibili, ma anche particolarmente scivolose. In
+effetti e' piuttosto pericoloso camminare, si rischia ad
+ogni passo di sciviolare a terra o in acqua.
+Ai lati enormi velieri sono ormeggiati, tutti ben sorvegliati
+da possenti e robusti uomini armati fino ai denti, mentre
+manovali scaricano o caricano le navi. 
+~
+23 0 10
+D0
+~
+~
+0 0 2380 0
+D3
+~
+~
+0 0 18036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2382
+Altri Pontili~
+Sembra di trovarsi in un normalissimo porto di una citta'
+marittima. Un forte odore di salsedine misto a pesce riempie
+l'aria, il pavimento di pietra consumato dal sale e' calpestato
+da una folla di manovali e braccianti di ogni genere, nazionalita'
+razza. Persino mostri che non avevi mai visto prima si aggirano
+qui trasportando pesanti casse verso qualche magazzino. Ad intervalli
+regolari alcune guardie controllano che gli schiavi facciano il
+loro lavoro senza rompere niente o cercare di fuggire, pronti in
+qualsiasi momento a punirli con la loro lunga frusta. A nord 
+un portellone indica la presenza di un altro magazzino. Questo e' 
+pero' notevolmente sorvegliato da alcune pattuglie che vi camminano
+davanti di continuo. A est ed a sud due altri lunghi pontili mentre
+verso ovest altri pontili. Ci troviamo infatti un porto.
+~
+23 0 10
+D0
+~
+portone~
+2 0 2385 15
+D1
+~
+~
+0 0 2383 0
+D2
+~
+cancello~
+1 0 2384 3
+D3
+~
+~
+0 0 2380 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2383
+Il Pontile Est~
+Un lungo pontile di pietra si spinge verso est. E' formato
+da 3 piattaforme, ognuna che nonostante il notevole peso sembra
+fluttuare a poche decine di centimetri dalla superficie del
+mare. Non vi sono pali o altri sostegni, semplicemente galleggia
+nell'aria. Una potente magia deve governare l'intera isola, e'
+anche qui ne hai una dimostrazione. Imbarcazioni di varie dimensioni
+e tipo sono qui ormeggiate su entrambi i lati, uomini indaffarati
+le stanno scaricando, mentre alcuni schiavi le lavano o invece
+le caricano seguendo scrupolosamente gli ordini di alcune 
+guardie armate di lunghe fruste nere.
+~
+23 0 10
+D3
+~
+~
+0 0 2382 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2384
+Il Pontile Sud~
+Si deve trattare di un molo privato, infatti vi e' molta
+sorveglianza qui, e al momento non vi e' alcuna nave
+attraccata, probabilmente sono al largo. Il molo comunque
+e' di pietra, massicci blocchi di pietra che fluttuano
+ad una costante altezza dalla superficie del mare. Data la 
+presenza delle guardie e del cancello, non vi e' molta gente
+qui, se non gli addetti ai lavori.
+~
+23 0 10
+D0
+~
+cancello~
+1 0 2382 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2385
+Un Capannone~
+Ti trovi all'interno di un enorme capannone. Le pareti di pietra legno e
+metallo sembrano essere particolarmente resistenti e spesse. Vicino la 
+porta d'entrata vi sono due guardie che controllano con attenzione qualunque
+cosa succeda tra le mercanzie ben organizzate in casse o ermadi. A differenza
+degli altri magazzini questo sembra venir tenuto sotto maggior controllo, 
+e chiunque vi entri e' sempre accompagnato da uomini in armi. 
+~
+23 8 0
+D1
+~
+grata~
+2 0 2387 15
+D2
+~
+portone~
+2 0 2382 15
+D4
+~
+porta~
+2 0 2386 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2386
+L'Ufficio Contabile~
+You are in an unfinished room.
+~
+23 0 0
+D5
+~
+porta~
+2 0 2385 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2387
+Un Pontile molto sorvegliato~
+You are in an unfinished room.
+~
+23 0 0
+D3
+~
+grata~
+2 0 2385 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2388
+Un vortice~
+Il mare e' in balia di fortissime correnti, probabilmente causate
+dal forte vento tipico di questa zona della Daresia.
+Quello che vedi e' impressionante... un immenso gorgo in cui l'acqua
+ruota molto velocemente portando ogni cosa negli abissi marini.
+Che questo sia... il grande gorgo magico delle leggende ?
+Si dice che sia impossibile fermarlo e che sia qua da centinaia
+di anni, alcuni hanno ipotizzato che sia l'entrata per Atlantide,
+ma realmente nessuno sa dove porti, se effettivamente porti da qualche
+parte invece di limitarsi ad uccidere chiunque vi finisca dentro.
+~
+23 140 8
+D5
+~
+~
+0 0 18100 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2389
+Un negozietto tutto-fare~
+Ti trovi in una piccola stanza quadrata, le cui pareti sono formate da veri
+e propri tronchi d'albero grezzo. Il pavimento invece e' in pietra levigata.
+Difronte la porta e' posizionato un pesante bancone in mogano dietro il quale
+un uomo di una certa eta' sta aspettanto eventuali clienti. Alle sue spalle
+un'armeria espone spade mazze archi di discreta fattura mentre sulla parte
+destra ve ne sono altre pero' piuttosto arrugginite ed erose dal tempo e 
+dalla salsedine. Ai lati della porta e sulla parete sinistra invece, vi si
+possono trovare reti da pesca, barili, esce, secchi, corde e tutto cio' che
+puo' servire su di una nave o in mezzo al mare.
+~
+23 0 1
+D2
+~
+porta~
+1 0 2380 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2390
+Una Piattaforma~
+Ti trovi su una piattaforma piuttosto grande, come tutte in questa
+zona. A sud il mare aperto, all'orizzone assolutamente niente se non
+un po' di foschia. A ovest alcuni piccoli zatteroni galleggianti che
+conducono al faro, a est altre piattaforme, queste pero' in pietra 
+alle quali lunghi moli si attaccano alla citta'. Verso nord invece
+l'entrata alla zone portuale. In questa parte della citta' sembra
+esser concentrata la maggior parte della popolazione, inffati una
+gran folla iperdinamica si muove caoticamente un po' ovunque, quasi 
+nel tentativo di rispettare una tabella di marcia. 
+~
+23 0 10
+D0
+~
+~
+0 0 2373 0
+D1
+~
+~
+0 0 2380 0
+D3
+~
+~
+0 0 2394 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2391
+Una serie di piattaforme collegate~
+Large tavole di legno ricoperto da pece compongono il pavimento
+di queste strane piattaforme. Delle spesse corde e arrugginite
+mantengono questo piccolo ponte ben saldo e lo collega con quelli
+vicini. Ai bordi non vi e' alcun parapetto o ringhiera e sporgendosi
+un po' si puo' notare che non vi e' alcun sostegno e che la piattaforma
+si trova sospesa a mezz'aria, a circa mezzo metro dalla superficie
+del mare. 
+~
+23 0 0
+D0
+~
+~
+0 0 2392 0
+D1
+~
+porta~
+1 0 2354 3
+D2
+~
+~
+0 0 2372 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2392
+Una serie di piattaforme collegate~
+Large tavole di legno ricoperto da pece compongono il pavimento
+di queste strane piattaforme. Delle spesse corde e arrugginite
+mantengono questo piccolo ponte ben saldo e lo collega con quelli
+vicini. Ai bordi non vi e' alcun parapetto o ringhiera e sporgendosi
+un po' si puo' notare che non vi e' alcun sostegno e che la piattaforma
+si trova sospesa a mezz'aria, a circa mezzo metro dalla superficie
+del mare.
+~
+23 0 0
+D0
+~
+~
+0 0 2403 0
+D1
+~
+~
+0 0 2393 0
+D2
+~
+~
+0 0 2391 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2393
+Dentro Uno Scafo~
+You are in an unfinished room.
+~
+23 0 0
+D1
+~
+porta blindata~
+2 0 2399 15
+D3
+~
+~
+0 0 2392 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2394
+In Direzione Del Faro~
+Ti trovi su di una piattaforma interamente di legno che si muove
+sotto il ritmico rollio delle onde. Il legno che la compongono
+e' piuttosto consumato dal sale, e dalle intemperie in generale.
+Alcuni crostacei e varie piccole alghe ricoprono la parte immersa
+della piattaforma. Non e' molto alta e l'acqua per molto poco non
+riesce a bagnarse la superficie dove tu stai camminando. Verso sud
+e' agganciata con pesanti catene un'altra piattaforma molto simile 
+a questa mentra a est ci sono le solide ed asciute piattaforme del 
+molo
+~
+23 260 10
+D1
+~
+~
+0 0 2390 0
+D2
+~
+~
+0 0 2395 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2395
+In Direzione Del Faro~
+A sud scorgi un grande scoglio la cui punta sembra esser
+stata praticamente spezzata. A nord un'altra piattaforma 
+in legno quasi marcio, molti simile a questa. Alghe, crostacei
+stanno invadendo quasi completamente la parte immersa della 
+piattaforma, facendoti capire che da perecchio tempo nessuno
+si assume il compito della manutenzione di questa parte della
+citta', oltrettutto sul sale rimasto sul pavimento non si scorgono
+impronte o alcun segno di qualche passaggio.
+~
+23 260 10
+D0
+~
+~
+0 0 2394 0
+D2
+~
+~
+0 0 2396 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2396
+Lo Scoglio Del Faro~
+Ti trovi all'entrata di una caverna scavata in uno scoglio.
+Sopra di te noti una botola di metallo, bloccata con un 
+chiavistello piuttosto arruginito che si trova dalla tua parte.
+Li' a fianco sulla parete liscia e' appoggiata una scaletta a
+pioli, interamente in legno trattato con la pece forse per 
+aumentarne la resistenza alle intemperie.
+~
+23 8 10
+D0
+~
+~
+0 0 2395 0
+D4
+~
+porta~
+2 0 2397 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2397
+Il Piano Terra Del Faro~
+Ti trovi in una piccola stanza rotonda, come se fossi 
+all'interno di una torre. Al centro del pavimento e
+del soffitto vi e' una botola che conduce ai piani
+superiori ed a quelli inferiori. Non vi sono finestre
+ne' alcun mobilio. L'ambiente sembra piuttosto pulito
+segno che non e' in disuso. Nonostante cio' non si
+sente alcun rumore, il silenzio regna sovrano.
+~
+23 0 0
+D4
+~
+botola~
+1 0 2398 3
+D5
+~
+porta~
+2 0 2396 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2398
+Il Primo Piano Del Faro~
+La stanza e' rotonda, ma sembra che le pareti siano
+leggermente inclinate verso l'interno, segno che ti
+stai avvicinando alla cima di questa strana torre.
+Verso est vi e' una piccola feritoia dalla quale 
+puoi vedere il mare aperto. Avvicinando alla piccola
+finestra ti rendi conto di trovarti proprio dentro
+uno scoglio, infatti le stanza, i vari piani della 
+torre sono scavati nella roccia, rendendo questo faro
+perfettamente invisibile, ben mimmetizzato con l'ambiente
+marino circostante. Anche qui vi sono due botole, una che 
+sembra condurre ad un altro piano superiore ed una verso
+il basso. 
+~
+23 0 0
+D4
+~
+botola~
+1 0 2401 3
+D5
+~
+botola~
+1 0 2397 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2399
+Un'Enorme Cassaforte~
+Ti trovi in una strana stanza, e' quadrata e le pareti, il
+pavimento e lo stesso soffitto sono in metallo, che a prima
+vista sembra essere molto resistente. Il resto della stanza 
+e' occupato da montagne di gioielli, monete, armi, ed oggetti
+di ogni tipo e fattura. Dev'essere dove gli oggetti piu' importanti
+o di valore vengono conservati. Forse non e' una bella idea sostare
+qui senza autorizzazione.
+~
+23 39719857553900 0
+D3
+~
+porta blindata~
+2 0 2393 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

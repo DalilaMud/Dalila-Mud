@@ -1,0 +1,364 @@
+#14000
+Il Palazzo dell'Armonia~
+   L'entrata ha un aspetto nobile, tipico delle sedi dei Clan della Daresia.
+L'imponente portone del palazzo e' inquadrato da un'arcata di preziosi e rari
+marmi policromi. Questa e' la sede della Stirpe della Luna e il suo stemma
+attira la tua attenzione: una Luna piena con al centro una Rosa Nera.
+Noti una TARGA sul muro accanto al portone.
+~
+140 156 0
+D2
+~
+~
+0 -1 14001
+S
+#14001
+Il Salone d'ingresso~
+   Sei nel salone di ingresso del palazzo. La stanza e' interamente affrescata
+con dipinti raffiguranti le costellazioni celesti e piccoli bracieri di bronzo
+ne delimitano il perimetro. La bellezza della sala e dei suoi arredi ti fanno
+sentire molto orgoglioso del clan a cui hai votato la tua spada e le tue abilita'.
+~
+140 152 0
+D0
+~
+~
+0 -1 14000
+D2
+~
+~
+0 -1 14002
+D4
+~
+~
+0 -1 14014
+S
+#14002
+Il corridoio dei mosaici~
+   Stai percorrendo un lungo corridoio che porta all'interno del castello.
+Le finestre a bifora sono intarsiate da fini mosaici che illustrano le gesta
+degli eroi del clan. Da queste trai nuovo coraggio e vigore!
+~
+140 136 0
+D0
+~
+~
+0 -1 14001
+D2
+~
+~
+0 -1 14004
+D3
+~
+~
+0 -1 14003
+S
+#14003
+La Sala degli Eroi~
+Ti trovi in una grande sala circolare. Alle pareti dipinti degli epici scontri
+e delle magiche imprese che hanno visto trionfare il clan. Qui Sephrenia ha
+deciso di rendere onore ai membri della Stirpe della Luna che si sono distinti
+in imprese importanti o che hanno fatto dono delle proprie capacita' e conoscenze
+agli altri membri per accrescere la luminosita' del clan. Capisci che farai di
+tutto per essere un giorno annoverato fra questo manipolo di eroi. 
+Al centro della sala, magicamente sospesa a mezz'aria, vedi una sfavillante pergamena.
+~
+140 8 0
+D1
+~
+~
+0 -1 14002
+S
+#14004
+Il corridoio dei mosaici~
+   Stai percorrendo un lungo corridoio che porta all'interno del castello.
+Le finestre a bifora sono intarsiate da fini mosaici che illustrano le gesta
+degli eroi del clan. A est noti una piccola arcata e il profumo che da li'
+arriva ti attira verso quell'accogliente angolo.
+~
+140 8 0
+D0
+~
+~
+0 -1 14002
+D1
+~
+~
+0 -1 14005
+D2
+~
+~
+0 0 14006
+S
+#14005
+Un accogliente angolo~
+   Ti trovi nel giardino interno del castello. Rose, rose, rose dappertutto,
+da esse deriva il profumo che ti ha attirato. Al centro del piazzale, inquadrato
+in un cerchio di violette, vedi un pozzo dal quale poterti dissetare. L'acqua del
+pozzo ti ridona nuova forza e nuovo entusiasmo per affrontare le missioni che ti
+attendono!
+~
+140 88 0
+D3
+~
+~
+0 -1 14004
+S
+#14006
+Il corridoio dei mosaici~
+   Il corridoio dei mosaici prosegue verso nord e verso sud. A ovest puoi vedere
+l'imponente sala delle riunioni.
+~
+140 8 0
+D0
+~
+~
+0 -1 14004
+D2
+~
+~
+0 -1 14008
+D3
+~
+~
+0 -1 14007
+S
+#14007
+La sala delle riunioni~
+   Entri nella grande sala delle riunioni. Qui i membri della Stirpe della
+Luna si ritrovano per discutere le strategie e l'organizzazione del clan.
+Al centro della Sala si trova un enorme tavolo ovale circondato da poltrone
+di velluto blu. Alle pareti noti accurate carte geografiche che illustrano
+tutto il mondo conosciuto. Fra queste spicca maestoso lo stemma del Clan e
+sopra di esso il motto che porterai sempre nel tuo cuore:
+PER ASPERA AD ASTRA.
+~
+140 220 0
+D1
+~
+~
+0 -1 14006
+S
+#14008
+Verso la fine del corridoio dei mosaici~
+   Sei giunto quasi alla fine del corridoio. A sud intravedi un enorme arazzo
+mentre ad est una piccola porta di legno finemente intarsiata attira la tua
+attenzione. Questa porta ti introduce nello studio di Sephrenia.
+~
+140 8 0
+D0
+~
+~
+0 -1 14006
+D2
+~
+~
+0 -1 14010
+S
+T 14000
+T 14007
+#14009
+Lo studio di Sephrenia~
+   La stanza non e' grande ma vieni subito colpito dalla sua semplice bellezza.
+La parete sud e' interamente occupata da un acquario dove vedi nuotare pesci che
+mai avevi visto prima. Noti inoltre una libreria che sembra non poter contenere
+tutti i tomi che vi sono stati messi e davanti ad una grandissima finestra
+semi-aperta che illumina tutta la stanza, una semplice scrivania e alcune poltroncine
+di velluto blu. L'unico altro ornamento e' una rigogliosa pianta di rose rampicanti
+nell'angolo vicino alla finestra. Questa stanza profuma di magia.
+~
+140 604 0
+D3
+~
+~
+0 -1 14008
+S
+#14010
+La fine del corridoio~
+   Il corridoio finisce qui. Il grande arazzo davanti a te raffigura a colori
+vivi e quasi reali l'immensa tempesta dell'Oceano nel suo tentativo supremo di
+ricongiungersi all'amata Luna alta nel cielo.
+~
+140 8 0
+D0
+~
+~
+0 -1 14008
+D4
+~
+~
+0 -1 14011
+S
+#14011
+Una scala di marmi grigi~
+   Sei sulla scala a chiocciola che porta alla torre del castello.
+~
+140 8 0
+D4
+~
+~
+0 -1 14012
+D5
+~
+~
+0 -1 14010
+S
+#14012
+La scala di marmi grigi~
+   Stai salendo una stretta scala a chioccola piastrellata di marmi grigi
+e illuminata da lanterne collocate lungo le pareti. Verso l'alto vedi il
+chiarore della luce naturale.
+~
+140 8 0
+D4
+~
+~
+0 -1 14013
+D5
+~
+~
+0 -1 14011
+S
+#14013
+In cima della torre~
+   Ti trovi in cima alla torre. La stanza ha forma ottagonale, pareti di marmo
+grigio intercalate da grandi finestre a trifora che ti lasciano senza fiato.
+Dalle finestre vedi il panorama sulle campagne curate, le colline e le foreste
+che circondano il castello mentre verso nord puoi distinguere il laghetto dove
+la Luna ama specchiarsi. Per difendere questo luogo ti senti pronto a donare la
+tua stessa vita!
+~
+140 200 0
+D5
+~
+~
+0 -1 14012
+S
+#14014
+In cima alla scalinata di marmo~
+   La grande scalinata di marmi rosa ti porta al piano superiore del castello.
+Qui si apre un vasto corridoio che conduce e numerose stanze. Fiaccole poste ad
+intervalli regolari illuminano il tuo procedere.
+~
+140 8 0
+D1
+~
+~
+0 -1 14015
+D5
+~
+~
+0 -1 14001
+S
+#14015
+Nel corridoio delle fiaccole~
+   Stai percorrendo un vasto corridoio lastricato di marmi rosa. Alla luce
+delle fiaccole vedi le porte delle stanze piu' avanti.
+~
+140 8 0
+D1
+~
+~
+0 -1 14016
+D2
+~
+~
+0 -1 14021
+D3
+~
+~
+0 -1 14014
+S
+#14016
+Ancora nel corridoio delle fiaccole~
+   Stai percorrendo un vasto corridoio lastricato di marmi rosa. In questa zona
+del palazzo si trovano le stanze che sono a disposizione dei membri del clan per
+il loro benessere.
+~
+140 8 0
+D0
+~
+~
+0 -1 14017
+D1
+~
+~
+0 -1 14018
+D3
+~
+~
+0 -1 14015
+S
+#14017
+La stanza delle comunicazioni~
+   La stanza ha un'aria accogliente, arazzi preziosi adornano le pareti mentre
+i membri della Stirpe della Luna possono riposarsi su piccoli divanetti di velluto
+blu disposti in circolo. Vicino alla grande finestra vedi la bacheca del clan che
+i membri possono usare per comunicare fra di loro.
+Una grande bacheca sociale e' appesa al muro.
+~
+140 220 0
+D2
+~
+~
+0 -1 14016
+S
+#14018
+La fine del corridoio delle fiaccole~
+   Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+donation del palazzo.
+Il corridoio termina davanti ad una grandissima finestra che illumina  quest'angolo
+del palazzo. Da qui il corridoio si apre verso le stanze della generosita'.
+~
+140 8 0
+D0
+~
+~
+0 -1 14019
+D2
+~
+~
+0 -1 14020
+D3
+~
+~
+0 -1 14016
+S
+#14019
+La stanza della generosita'~
+   In questa stanza i membri del clan dimostrano la loro generosita' mettendo a
+disposizione dei nuovi membri o di quelli che hanno perso il loro equipaggiamento,
+cio' che puo' aiutarli a proseguire nel loro luminoso cammino.
+~
+140 220 0
+D2
+~
+~
+0 0 14018
+S
+#14020
+Seconda stanza della generosita'~
+   In questa stanza i membri del clan dimostrano la loro generosita' mettendo a
+disposizione dei nuovi membri o di quelli che hanno perso il loro equipaggiamento,
+cio' che piu' aiutarli a proseguire nel loro luminoso cammino.
+~
+140 220 0
+D0
+~
+~
+0 -1 14018
+S
+#14021
+Le camere da letto~
+   Ti trovi in una piccola stanza adornata da suppellettili di uso comune dalla
+quale puoi vedere alcune porte che conducono alle camere da letto pronte ad
+accogliere e a garantire il meritato ristoro ai membri del clan dopo le loro
+lunghe battaglie.
+~
+140 152 0
+D0
+~
+~
+0 -1 14015
+S
+$~

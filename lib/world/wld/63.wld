@@ -1,0 +1,957 @@
+#6301
+Un'entrata semiostruita dalle ragnatele~
+Tutto intorno a te e' appiccicoso.  Il suolo e' cosparso di foglie, resti
+putrefatti di grilli, scarafaggi, topi, cani e anche umani, tutti avvolti nella
+ragnatela.  Inizi a chiederti cosa si trovi di fronte a te.  L'aria e' immobile
+ed anche la poca luce che riesce a penetrare il tetto di foglie della foresta
+sembra assorbita dalla ragnatela.    
+~
+63 4 1
+D0
+~
+~
+0 -1 6302 0
+D2
+~
+~
+0 -1 1512518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6302
+Un sentiero semiostruito dalle ragnatele~
+   Camminare per questo sentiero sembra agevole, forse troppo agevole.  I rami
+sono coperti di tela di ragno e sembrano insolitamente resistenti per essere
+dei rami di albero.  Il sentiero si dirama in ogni direzione.  Verso est sembra
+scendere leggermente.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6304 0
+D1
+~
+~
+0 -1 6305 0
+D2
+~
+~
+0 -1 6301 0
+D3
+~
+~
+0 -1 6303 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6303
+L'alveare delle vespe~
+   Vespe operaie affollano quest'ambiente.  Le cellette lungo le pareti sono
+piene di miele e di larve.  Le vespe che vedi hanno temibili pungiglioni sui
+loro corpi.  Intravedi un certo ordine nei loro movimenti.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6304
+Un sentiero semiostruito dalle ragnatele~
+   Un altro sentiero invaso dalle ragnatele, appiccicoso ed umido.  Piccoli
+ragni appesi a sottili fili di ragnatela sono ovunque.  Sembra che siano appena
+nati.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6305 0
+D2
+~
+~
+0 -1 6302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6305
+Sotto un sentiero frequentato~
+   Avverti i suoni emessi dagli aracnidi proprio sopra di te.  Il rumore
+ritmico dei loro movimenti sembra suggerire un certo ordine nelle loro azioni.
+La luce lassu', sembra piu' brillante.    
+~
+63 0 2
+D3
+~
+~
+0 -1 6304 0
+D4
+~
+~
+0 -1 6306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6306
+Un sentiero frequentato~
+   Ragni, ragni, ovunque!  Ti sembra di essere spettatore dell'organizzazione
+tipica delle formiche, ma c'e' una differenza: i ragni qui stanno trascinando
+cadaveri di formiche, come anche di topi, lupi e uomini!    
+~
+63 0 2
+D2
+~
+~
+0 -1 6307 0
+D5
+~
+~
+0 -1 6305 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6307
+Un sentiero frequentato~
+   Ragni, ragni, ovunque!  Ti sembra di essere spettatore dell'organizzazione
+tipica delle formiche, ma c'e' una differenza: i ragni qui stanno trascinando
+cadaveri di formiche, come anche di topi, lupi e uomini!    
+~
+63 0 2
+D0
+~
+~
+0 -1 6306 0
+D1
+~
+~
+0 -1 6308 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6308
+Un sentiero frequentato~
+   Ragni, ragni, ovunque!  Ti sembra di essere spettatore dell'organizzazione
+tipica delle formiche, ma c'e' una differenza: i ragni qui stanno trascinando
+cadaveri di formiche, come anche di topi, lupi e uomini!    
+~
+63 0 2
+D0
+~
+~
+0 -1 6307 0
+D1
+~
+~
+0 -1 6306 0
+D2
+~
+~
+0 -1 6305 0
+D3
+~
+~
+0 -1 6309 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6309
+Un bivio nel sentiero~
+   Ti trovi nei pressi di un bivio.  Una strada e' cosparsa di antenne di
+grilli.  L'altra e' ben tenuta e sembra consentire un cammino agevole.  Le
+ragnatele che affollavano gli ambienti che hai percorso finora sembrano essere
+quasi del tutto scomparse.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6310 0
+D1
+~
+~
+0 -1 6308 0
+D2
+~
+~
+0 -1 6320 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6310
+Il ramo peloso di un albero~
+   Ti trovi sul ramo 'peloso' di un albero.  E' singolare, perche' i rami
+sembrano avere 'capelli' che spuntano dalla corteccia.  Quando osservi piu' da
+vicino il ramo di accorgi che in realta' e' coperto da milioni di afidi.    
+~
+63 0 2
+D2
+~
+~
+0 -1 6309 0
+D3
+~
+~
+0 -1 6311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6311
+Il tronco di un albero~
+   Hai la sensazione che qui potrai riposare con tranquillita'.  Ci sono resti
+di ragnatela, ma e' di un tipo molto piu' sottile e resistente rispetto a
+quella che hai visto finora.    
+~
+63 4 2
+D1
+~
+~
+0 -1 6310 0
+D2
+~
+~
+0 -1 6312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6312
+L'ingresso della tana~
+   Sembra che chi abita questo luogo non sia solito racchiudere le sue vittime
+nella ragnatela, almeno a giudicare dai resti che vedi di fronte a te.  L'area
+e' piena di corpi essiccati, apparentemente uccisi a morsi e privati di ogni
+liquido.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6311 0
+D3
+~
+~
+0 -1 6313 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6313
+La tana del ragno lupo~
+   Molto buia, come tutte le tane dei ragni del resto.  Non c'e' molto qua,
+tranne l'uscita.  Il ragno lupo non conserva i cadaveri delle sue vittime qua
+dentro, ma li getta lontano dalla sua dimora.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6320
+Il sentiero senza ragnatele~
+   Strano.  Non ci sono ragnatele qui.  In realta' non avverti neanche alcun
+suono.  Il sentiero continua verso nord, dove si apre un profondo burrone, per
+superare il quale sara' necessario usare una fune.  Forse il filo di ragno che
+vedi protendersi nel vuoto di fronte a te, fa al tuo caso.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6309 0
+D3
+~
+~
+0 -1 6321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6321
+Sopra il burrone~
+   Sempre piu' strano.  I tuoi piedi sembrano avere una presa salda e sicura
+sul filo di ragnatela su cui stai procedendo.  Ti trovi sopra un profondo
+burrone ed il filo di ragnatela unisce due alberi.  Sotto di te vedi una
+ragnatela a forma di prisma su cui si trovano impigliate molte ossa di animali:
+alcuni di orsi e di cervi.  Nessun scheletro umano e' visibile.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6320 0
+D2
+~
+~
+0 -1 6323 0
+D5
+~
+~
+0 -1 6322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6322
+La Ragnatela Arcobaleno~
+   Ti trovi su una ragnatela arcobaleno -- ogni filo, ogni collegamento ha una
+tonalita' ed un colore diverso.  Colui che abita qui sembra essere in grado di
+comandare i colori e la luce.    
+~
+63 0 2
+D4
+~
+~
+0 -1 6321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6323
+La Foresta di Ragnatela~
+   Gli alberi qui sono decisamente singolari -- non sono alberi veri e propri,
+ma ammassi di ragnatela modellati a mo' di alberi, appiccicosi al tatto e dalle
+foglie che sembrano di stoffa.  Ti sembra di essere davanti a prodotti di un
+altro mondo.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6321 0
+D5
+~
+~
+0 -1 6324 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6324
+La fossa degli schiavi~
+   Sei entrato nella fossa degli schiavi.  Una voce in lontananza urla 'Tornate
+al lavoro, vermi!  ' Vagoni e vagoni di oro ed argento grezzo sono davanti a
+te.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6325 0
+D4
+~
+~
+0 -1 6323 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6325
+Il sentiero delle catene~
+   Un altro sentiero percorso da prigionieri incantenati.  Sorprendentemente,
+e' ben illuminato da globi dorati appesi alle pareti, puoi vedere il sentiero
+divenire sempre piu' agevole.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6326 0
+D3
+~
+~
+0 -1 6324 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6326
+Un incrocio di strade~
+   Un altro strato di ragnatele, per la verita' dall'aspetto alquando etereo.
+  
+~
+63 0 2
+D3
+~
+~
+0 -1 6325 0
+D4
+~
+~
+0 -1 6327 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6327
+Un robusto filamento~
+   Questo filamento e' piu' spesso e robusto.  Risplende mentre ci cammini
+sopra.  Decisamente non sei piu' nel regno di Aldaria.  Non capisci dove ti
+trovi.  Ti sembra di muoverti nell'etere.  Puoi ancora tornare indietro verso
+lidi piu' sicuri.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6328 0
+D5
+~
+~
+0 -1 6326 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6328
+Ingresso alla Ragnatela Eterea~
+   Ti trovi all'ingresso della ragnatela eterea.  Ogni filamento appare e
+scompare, mostrandoti, ciascuno, una tonalita' diversa dal nero al verde al
+blu.    
+~
+63 0 2
+D2
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6330
+La tana del piccolo verme~
+   Si tratta di una sorta di camera dei balocchi, con larve di vespa ed altri
+piccoli di insetto.  Ti accorgi che anche degli umani devono aver giocato qui,
+solo che poi sono stati mangiati.  Sembra che il proprietario di quest'ambiente
+abbia l'appetito di un drago ed utilizzi questa stanza come area per
+l'allevamento.    
+~
+63 0 2
+D4
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6331
+La base della ragnatela~
+   Grossi filamenti si incontrano qui.  Il punto d'unione risplende ed appare e
+scompare ritmicamente.  Vedi molte creature in volo -- insetti, pegasi e larve
+di draghi -- che attraversano i pericolosi passaggi della ragnatela.  Ci sono
+uscite che vanno in ogni direzione.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6330 0
+D1
+~
+~
+0 -1 6332 0
+D2
+~
+~
+0 -1 6333 0
+D3
+~
+~
+0 -1 6334 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6332
+Tra gli alberi~
+   Questa parte della ragnatela si estende tra i rami di alcuni alberi.  
+Foglie ed altri rifiuti che i ragni operai hanno tralasciato di raccogliere,
+giacciono qui.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6331 0
+D2
+~
+~
+0 -1 6335 0
+D3
+~
+~
+0 -1 6333 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6333
+Sopra le nuvole~
+   Vedi tutta Deira da questa ragnatela.  Molti grossi draghi si avvicinano ed
+allontanano dai filamenti appiccicosi della ragnatela.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6331 0
+D2
+~
+~
+0 -1 6334 0
+D3
+~
+~
+0 -1 6335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6334
+Su una nuvola~
+   Questa nube e' piuttosto consistente.  Capisci, quasi subito, che non e' una
+nube normale, ma potrebbe essere il nido di qualche creatura volante.    
+~
+63 0 2
+D5
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6335
+Un accesso alla ragnatela eterea~
+   Ti trovi di fronte ad un altro accesso della ragnatela eterea.  Varie
+creature sono state catturate (o ipnotizzate) dai suoi appiccicosi filamenti.
+  
+~
+63 0 2
+D1
+~
+~
+0 -1 6336 0
+D3
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6336
+Un filamento sottile~
+   C'e' molto vento qui e c'e' un sottile filamento che sale verso il cielo.  
+Comunque, ti sembra ancora sufficientemente sicuro muoverti qua attorno.    
+~
+63 0 2
+D2
+~
+~
+0 -1 6340 0
+D3
+~
+~
+0 -1 6341 0
+D5
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6340
+La stanza del verme anziano~
+   Sembra che questa sia la dimora di un verme piu' grosso.  Diversi tomi che
+trattano di scienze arcane sono sparsi per la stanza, cosi' come varie armature
+ed armi.    
+~
+63 0 2
+D5
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6341
+Un altro ramo d'albero~
+   Ancora una volta la ragnatela incrocia un ramo d'albero.  Ad est ti sembra
+di scorgere la tana di una creatura.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6342 0
+D2
+~
+~
+0 -1 6334 0
+D3
+~
+~
+0 -1 6345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6342
+La tana del ragno uccello~
+   Quello che hai davati e' il piu' abile ragno cacciatore che esista.  
+Gioielli ed armi rotte ti fanno pensare che il proprietario della tana abbia
+zanne formidabili.  Fai attenzione!    
+~
+63 0 2
+D5
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6345
+Un accesso alla ragnatela eterea~
+   Ti trovi di fronte ad un altro accesso alla ragnatela eterea.  Varie
+creature sembrano impigliate (o ipnotizzate) dai suoi appiccicosi filamenti.  
+
+~
+63 0 2
+D2
+~
+~
+0 -1 6350 0
+D3
+~
+~
+0 -1 6346 0
+D4
+~
+~
+0 -1 6345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6346
+La tranquilla cima di un albero~
+   Ti trovi in cima ad un albero.  Sotto di te vedi un sentiero familiare che
+forse ti potra' ricondurre a Deira.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6345 0
+D3
+~
+~
+0 -1 6347 0
+D5
+~
+~
+0 -1 6132 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6347
+Sulla ragnatela~
+   RRRRRRRROOOOOOOOOAAAAAAAAARRRRRRR!  Senti il "ruggito" di una potente
+bestia.  Forse un drago.  Avverti un brivido lungo la schiena mentre ti
+avventuri sopra questa parte della ragnatela.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6346 0
+D2
+~
+~
+0 -1 6355 0
+D5
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6350
+La stanza della Ki-Rin~
+   Una saggia Ki-rin e' stata intrappolata qui diversi anni or sono.  E' da lei
+che l'imperatrice di questo mondo prende la sua forza magica.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6355
+Un accesso alla ragnatela eterea~
+   Ti trovi di fronte ad un altro accesso della ragnatela eterea.  Varie
+creature sono state catturate (o ipnotizzate) dai suoi appiccicosi filamenti.
+Verso nord ti sembra di percepire il pesante respiro di un qualche animale.  
+
+~
+63 0 2
+D0
+~
+~
+0 -1 6360 0
+D2
+~
+~
+0 -1 6365 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6360
+La tana di Yevaud~
+   Yevaud, l'usurpatore di Midgaard, risiede qui.  Una voce grida 'Attento,
+l'usurpatore di Midgaard vive qui!  Fuggi finche' puoi!  ' Ma anche Yevaud deve
+avere un padrone...  O cosi' credi.    
+~
+63 0 2
+D2
+~
+~
+0 -1 6355 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6365
+Un accesso alla ragnatela eterea~
+   Ti trovi di fronte ad un altro accesso della ragnatela eterea.  Varie
+creature sono state catturate (o ipnotizzate) dai suoi appiccicosi filamenti.
+Un grosso ragno si trova a nord, mentre ti sembra di scorgere esseri spettrali
+verso sud.  L'entrata alla tana di Arachnos, infine, e' proprio sotto di te.  
+
+~
+63 0 2
+D0
+~
+~
+0 -1 6371 0
+D1
+~
+~
+0 -1 6331 0
+D2
+~
+~
+0 -1 6366 0
+D5
+~
+~
+0 -1 6390 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6366
+L'ingresso al Torrione~
+   La' dove finisce la ragnatela, comincia uno scuro sentiero.  Vedi la luce di
+una torcia che rischiara una stanza in cui si agitano, digrignando i denti,
+anime di avventurieri sfortunati.  Le grida e i sospiri di molte voci giungono
+alle tue orecchie.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6367
+La Standa della Guardia~
+   Vedi una sedia, posta qui per consentire il riposo della guardia che si
+assicura che nessuna anima fugga.  Per il resto, la stanza non presenta altri
+ornamenti.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6368 0
+E
+chair~
+An ordinary chair, well used, glued to the ground by spiderweb.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6368
+Il Regno dei Disperati~
+   Vedi molte anime di gente che crede ancora di essere viva.  Cercano i loro
+assassini per vendicarsi e tentano di impossessarsi delle anime di coloro che
+si trovano a passare nelle loro vicinanze, forse per gettarsi, ancora una
+volta, nell'avventura.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6369 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6369
+Il regno dei Disperati~
+   Vedi molte anime di gente che crede ancora di essere viva.  Cercano i loro
+assassini per vendicarsi e tentano di impossessarsi delle anime di coloro che
+si trovano a passare nelle loro vicinanze, forse per gettarsi, ancora una
+volta, nell'avventura.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6368 0
+D2
+~
+~
+0 -1 6370 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6370
+Il Torrione~
+   Nessun essere vivente sembra aver mai abitato questo luogo.  I lamenti degli
+schiavi e gli ululati dei lupi sono gli unici suoni che possono essere
+avvicinati a quelli che odi in questo momento.  Le pareti sono sottili e la
+sola luce che rischiara l'ambiente e' il bagliore che proviene dalla ragnatela
+eterea dalla quale sei giunto.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6371 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6371
+Un singolo filamento di ragnatela~
+   Un solo filamento di ragnatela ti sostiene.  Mentre guardi attraverso
+l'etere vedi una casupola proprio di fronte a te, sembra esservi una luce
+accesa all'interno.  Avverti la presenza di una grande malvagita' verso nord e
+ti senti inclune a tornare sui tuoi passi, verso la ragnatela eterea.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6331 0
+D2
+~
+~
+0 -1 6372 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6372
+Un singolo filamento di ragnatela~
+   Un solo filamento di ragnatela ti sostiene.  La casupola si fa sempre piu'
+vicina e senti ancor piu' forte il desiderio di tornare indietro.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6371 0
+D2
+~
+~
+0 -1 6373 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6373
+Il rifugio dell'eremita~
+   Hai di fronte agli occhi la dimora di un eremita.  La casupola e' proprio a
+nord, se hai il coraggio di entrare.  Hai ancora la sensazione che sarebbe
+molto meglio se tu tornassi indietro.  Il cielo sopra di te si sta annuvolando
+e, in lontananza, odi il rimbombare di un tuono.    
+~
+63 0 2
+D0
+~
+~
+0 -1 6372 0
+D2
+~
+~
+0 -1 6380 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6380
+La Trappola Mortale di Mahatma~
+   Mahatma, quel sanguinario ladro, e' qui e ti sta rubando tutto cio' che hai.
+Mentre affonda il suo pugnale nero nella tua schiena ti dice "Fai Buon viaggio
+fino al piu' vicino tempio!.  "
+~
+63 10 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#6390
+Ingresso alla Tana di Arachnos~
+   Tutti i filamenti sembrano condurre qui, al centro della ragnatela,
+l'ingresso alla tana di Arachnos.    
+~
+63 0 2
+D1
+~
+~
+0 -1 6391 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6391
+Una stanza appiccicosa~
+   Puoi ancora tornare indietro visto che le tue ginocchia stanno tremando per
+il desiderio di conoscere chi risiede dietro quella grossa porta ad est (non
+sara' mica paura vero?  ).  Il cielo sopra di te e' terso e, sorprendentemente,
+la ragnatela non sembra essere appiccicosa.  Il filamento su cui ti trovi non
+vibra al vento come gli altri.  Alcuni ragni ti passano accanto, e ti
+sussurrano con una sinistra risatina 'Stai per morire, sei fritto.  Addio!  '
+~
+63 0 2
+D1
+~
+~
+0 -1 6392 0
+D5
+~
+~
+0 -1 6331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6392
+Una grande porta~
+   Davanti a te vedi una grossa porta a forma di ragnatela.  Varie antiche rune
+ed i nomi di eroi del passato sono incisi sul legno della porta.  E' forse una
+lista di vittime?  Non puoi dirlo.    
+~
+63 8 2
+D0
+~
+porta~
+2 6300 6399 15
+D3
+~
+~
+0 -1 6391 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6399
+La tana di Arachnos~
+   Questa e' la tana dell'Imperatrice dei Ragni, Arachnos.  Puoi vederla qui,
+ricoperta di ragnatele multicolori.  Il suo covo le permette di muoversi, a suo
+piacimento, da un universo all'altro utilizzando i vari filamenti magici che si
+dipartono dal Primo Piano Materiale.  Pile e pile d'oro, gioielli magici e
+gemme ti attendono.  Sfortunatamente Arachnos e' un ragno molto avido e ha
+legato i tesori al suo corpo grazie a filamenti di seta.    
+~
+63 64 2
+D2
+~
+porta~
+2 6300 6392 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

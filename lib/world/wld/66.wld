@@ -1,0 +1,7157 @@
+#6600
+La corte del Tempio~
+   Il cielo riversa sempre una fioca luce su questa corte cosi' come l'insieme
+tremolante del bagliore delle torce fissate nei loro supporti.  Molti cittadini
+trovano piacere a passeggiare qui.  A nord c'e' il tempio di marmo che sorge
+imponente e maestoso come la Luna alta nel cielo.  Vedi la libreria verso ovest
+ed un arco di pietra verso sud.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6601 0
+D1
+~
+~
+0 -1 6606 0
+D2
+~
+~
+0 -1 6607 0
+D3
+~
+~
+0 -1 6605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6601
+Il Tempio della Luce e del Buio~
+   Una miriade di candele, luminose in tonalita' ambrate, illuminano la parte
+posteriore del tempio.  Questo e' il posto dove tutti gli avventurieri del
+genere umano iniziano le prove di pericolo e scoperta.  Sei al centro di un
+riflesso di luce rosa-dorato che si allunga sul pavimento da una finestra
+sporca che usi per osservare il mondo conosciuto.  L'ignoto ti aspetta con
+tentacoli aperti.  C'e' un'ISCRIZIONE sulla parete nord.
+Su una lastra di marmo appesa al muro e' scritto:
+"I NUOVI ARRIVATI CHE AVESSERO BISOGNO DI AIUTO, SI RECHINO SUBITO A EST PER
+OTTENERE LE PRIME PREZIOSE INFORMAZIONI. Usate da subito il comando LEGGI MANUALE.
+I piu' esperti possono recarsi in Libreria a Sud Ovest o al Comune situato a Ovest
+del Piazzale degli Eroi, dove saranno aiutati ad ambientarsi."
+&1Qui si puo' RESUSCITARE e RIGENERARE le proprie ferite.&0
+~
+66 17592186044552 0
+D0
+~
+~
+0 -1 6604 0
+D1
+~
+~
+0 -1 6602 0
+D2
+~
+~
+0 -1 6600 0
+D3
+~
+~
+0 -1 6603 0
+E
+iscrizione~
+   L'iscrizione dice:
+Incontrai un viaggiatore proveniente da una antica terra,
+Che disse: "Due ampie e grandi zampe di pietra
+Son nel deserto... Vicino a loro, sulla sabbia,
+Giace un viso semi coperto che, dalle accigliate
+E rugose labbra e dal sogghigno di freddo comando,
+Dice che il suo scultore interpreta bene queste passioni
+Che ancora sopravvivono, stampate su queste cose senza vita,
+La mano che li ha beffati e il cuore che li ha alimentati.
+E sul piedistallo appaiono queste parole:
+Io sono Re Fallen, Re dei Re,
+Guarda i miei Lavori, o tu Potente, e disperati!
+Niente rimane. Intorno alla decadenza
+Di questo colossale naufragio, illimitato e nudo,
+Solo la sabbia scorre via lontano."
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6602
+Gilda dei Newbie e &1&bSala Donazioni&0~
+   Alcuni drappi di stoffa colorata rivestono le pareti marmoree di questa
+sala, rendendola calda ed accogliente.  Qui ti senti al sicuro e lontano da
+ogni pericolo.  Sul soffitto un affresco raffigura dei draghi in volo fra cui
+spicca la sagoma di un rilucente Drago d'oro che innalza il suo volo verso la
+luce del sole.  Una vestale dell'ordine della Luce e del Buio e' qui a
+custodire il sacro fuoco del Creatore, offrendole un obolo di poche monete
+d'oro lei ti fara' dono di qualche utile oggetto o manuale.    
+Sulla parete nord vedi affisso un &3CARTELLO GIALLO&0 con alcune utili informazioni. 
+Sul lato sud c'e' invece una bacheca con un &1CARTELLO ROSSO&0 appeso su un lato.
+~
+66 6812 0
+D3
+~
+~
+0 -1 6601 0
+E
+cartello giallo~
+   Entro le mura cittadine e' stata segnalata la presenza di abili
+borseggiatrici, vi consigliamo di depositare subito i vostri averi nella sicura
+Banca di Lamorka situata lungo il Viale Ombreggiato sul lato ovest della
+citta'.  Per i beni di prima necessita' quali armi e cibo esplorate il viale ad
+est, li c'e' tutto tranne quello che manca!  Se volete esercitare il Mestiere
+che avete scelto a sud del Tempio troverete tutto il necessario.  
+Il coraggio non vi manca !?!  Oggi vi prudono le mani !?!  Dirigetevi ad ovest 
+di questa stanza e scendete nei sotterranei, troverete pane per i vostri 
+denti da latte !!!  
+   Sua Maesta' Re Otak ha dato incarico ad alcuni funzionari di aiutare i
+nuovi cittadini.  Se avete problemi non esitate a contattarli ma prima di farlo
+vi consigliamo di leggere tutti i manuali ed i cartelli che trovate.  
+Ecco l'elenco dei Funzionari, aggiornato ad oggi:
+Sephrenia, LordIgor, Terrytop, Gozard, Ramku
+~
+E
+cartello rosso~
+   SE HAI QUALCHE DOMANDA SENZA RISPOSTA SCRIVILA NELLA SACRA BACHECA DEI
+NEWBIE E FRA QUALCHE GIORNO TORNA A LEGGERLA.  
+&b&1 IMPORTANTE: &0 
+LA BACHECA E' RISERVATA AI NUOVI CITTADINI PER CHIEDERE INFORMAZIONI, 
+VIETATO L'USO AI PIU' ANZIANI, NON SONO AMMESSI MESSAGGI DI DUBBIO GUSTO 
+E FUORI TEMA.  
+I TRASGRESSORI, CHIUNQUE ESSI SIANO, SARANNO SEVERAMENTE PUNITI.  
+(Se Proprio Vi Scappa e Non Riuscite a Trattenervi Ci Sono Altre Bacheche 
+Dove Potrete Scrivere Liberamente Quello Che Volete).
+
+   LordIgor    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6603
+All'altare~
+   Sei in una silenziosa stanza tutta arredata da drappi neri, ad
+esclusione della parete sud, sulla quale e' disegnato un calendario
+stellare con simboli difficili da interpretare. Sono qui rappresentate
+anche onoreficenze alle misteriose divinita'.
+~
+66 24 0
+D1
+~
+~
+0 -1 6601 0
+D5
+~
+~
+0 -1 6661 0
+E
+calendario~
+   Il diagramma circolare mostra simboli che sembrano essere i giorni
+della settimana e del mese, e come corrispondono al lento movimento
+delle stelle, e forse, a qualche segreto significato conosciuto solo
+dal clero locale.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6604
+Il piazzale del tempio~
+   Sei in un piazzale circolare in gran parte occupato da un'enorme aiuola di
+fiori variopinti.  Al centro di essa si erge maestoso il marmoreo tempio di cui
+puoi vedere l'ingresso fra sorprendenti colonne dai capitelli dorici.  Una
+serie di scalini anch'essi in marmo bianco salgono verso la piazza
+settentrionale mentre enormi sequoie delimitano il piazzale.    
+~
+66 0 1
+D0
+~
+~
+0 0 6608 0
+D2
+~
+~
+0 -1 6601 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6605
+La libreria della citta'~
+   Qui regna il silenzio.  Alle pareti e' dipinto un grande murale, con
+immagini allegoriche della conoscenza.  Un grande arco nero e oro ti conduce a
+ovest a un salone pieno di libri che puoi consultare liberamente, nella
+speranza che ti siano utili.
+~
+66 28 0
+D1
+~
+~
+0 -1 6600 0
+D3
+~
+~
+0 0 20032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6606
+Il giardino del Tempio~
+   Vedi una macchia impressionistica di rosso, nero ed oro, accompagnato
+dalla fragranza inebriante delle rose quasi selvatiche che crescono in
+questo giardino.
+~
+66 0 1
+D0
+La locanda.
+~
+~
+0 0 6788 0
+D3
+~
+~
+0 -1 6600 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6607
+Un arco di pietra~
+   Sei sotto un imponente arco in pietra grigio-bianca, semi coperto dalla
+scura edera che vi cresce sopra.  A sud dei gradini di pietra portano verso un
+maestoso piazzale a nord c'e' la corte del tempio.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6600 0
+D2
+~
+~
+0 0 6619 0
+D3
+~
+~
+0 0 6785 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6608
+Piazza Antica~
+   Questa e' stata la prima piazza ad essere costruita,quando ancora Lamorka
+era poco piu' di un villaggio.  Il pavimento in pietra antica gode ancora di un
+ottimo splendore e qui puoi incontrare i cittadini cosi' come gli stranieri che
+affollano la via.  Intensi profumi esotici riempiono l'aria.  Il promontorio ed
+il cancello settentrionale della citt sono a nord verso est il sentiero porta
+sulla scogliera mentre verso ovest sul promontorio,l'entrata del Tempio a sud .
+Una grande INSEGNA con la parola Classi incisa sopra e' qui.
+~
+66 0 1
+D0
+~
+~
+0 -1 6848 0
+D1
+~
+~
+0 -1 6635 0
+D2
+~
+~
+0 0 6604 0
+D3
+~
+~
+0 -1 6610 0
+E
+insegna~
+Ecco le indicazioni per giungere alle gilde di ogni classe:
+* PELOI: Sud fino a Piazzale degli Eroi e poi due volte Ovest.
+* ALCIONI:  Sud fino a Piazzale degli Eroi e poi due volte Est.
+* PANDION: Ovest fino al Parco e poi Nord.
+* CYRINIC: Sud fino al Tempio, poi Ovest, Giu' e ancora Ovest.
+* GENIDIAN: seguite la strada verso Est fino alla Taverna del Dragone,
+entrate e andate Ovest e Giu'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6609
+Il Cancello settentrionale.~
+   Il vento ti scompiglia duramente i capelli e l'abbigliamento.  La citta'
+rimane dietro di te mentre il mondo si apre davanti a te.  Attorno a te vedi
+muschi,licheni ed erica porpora e il tuo sguardo spazia lontano sopra la
+nebbia.    
+~
+66 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6610
+La strada che porta al promontorio~
+   La brezza che porta il profumo del mare ad est, si fa strada fra i tetti
+della citt e riempie la strada del suo aroma salato.  La strada e'
+fiancheggiata da olivi antichissimi, i negozi sono a nord e sud.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6611 0
+D1
+~
+~
+0 -1 6608 0
+D2
+~
+~
+0 -1 6612 0
+D3
+~
+~
+0 -1 6613 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6611
+Il Grande Chimico~
+   Fiale e bottiglie di tutte le forme e taglie sono allineate sulle scansie
+ingombre questo piccolo negozio.  Su una finestra della parete nord siede una
+bizzarra creatura simile ad un calamaro.  Ti meravigli delle stranezze che
+possono essere trovate in questo negozio.    
+~
+66 140 0
+D2
+~
+~
+0 -1 6610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6612
+Omaggi alla Luna!~
+   Sei in un piccolo ma bene accessoriato negozio di ciottoli e mortai,
+interamente ingombro di rotoli di carta, bacchette ardenti, reagenti e
+componenti. Il luogo ha un evidente profumo di zolfo e la maga sembra
+saggia.
+~
+66 140 0
+D0
+~
+~
+0 -1 6610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6613
+La strada che porta al promontorio~
+   Ti trovi ad un nuovo incrocio.  Un piacevole profumo di attira verso il
+parco a nord, mentre la strada continua, restringendosi, verso il promontorio
+ad ovest dove si trovano le case dei residenti.  Ad est intravedi le entrate di
+alcuni negozi mentre il sentiero di pietra serena scende verso sud.    
+~
+66 0 1
+D0
+~
+cancellata~
+1 -1 6614 1
+D1
+~
+~
+0 -1 6610 0
+D2
+~
+~
+0 -1 6636 0
+D3
+~
+~
+0 -1 6664 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6614
+Il Parco Wisteria~
+   La fiorita vite porpora di Wisteria si arrampica sulle mura della citta'
+a nord e sugli edifici di pietra ad est. Il parco e' silenzioso, luogo
+rilassante, con l'eccezione di esplosioni occasionali provienti da una pallida
+torre che sorge a nord-ovest, accompagnati da un brillante bagliore di luce.
+~
+66 0 1
+D0
+Una porta di legno.
+~
+porta~
+1 137157 1454 135
+D1
+Una porta di legno.
+~
+porta~
+1 941582 1461 135
+D2
+~
+cancellata~
+1 -1 6613 1
+D3
+~
+~
+0 -1 6615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6615
+Il Parco Wisteria~
+    Lo scuro fogliame del parco si estende ad est; anche su di esso cresce
+la stessa vite porpora che gia' cresce sulle mura della citta'.
+A sud il sentiero della rupe scorre da est ad ovest.
+Esplosioni occasionali provengono da una torre di pietra pallida e ti
+spaventano e ti incuriosiscono.
+~
+66 0 1
+D0
+~
+~
+0 -1 6616 0
+D1
+~
+~
+0 -1 6614 0
+D2
+~
+~
+0 -1 6664 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6616
+La Torre dei Pandion~
+   Dolci rune ritorte sono state incise su questa antica torre dei Pandion che
+domina la parte alta di Lamorka.  Tenuta splendidamente dagli apprendisti
+maghi, la torre si innalza in tutta la sua maestosita' lungo una possente scala
+di marmo biancoperla.  Un leggero bagliore viola e' sprigionato dai mille
+cilindri di vetro che sporgono scintillanti dalle pareti.  Ti rendi conto di
+trovarti nel luogo piu' magico di tutta Lamorka: la Torre dei Pandion!!    
+~
+66 12 0
+D2
+~
+~
+0 -1 6615 0
+D4
+~
+~
+0 -1 6617 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6617
+La splendida scala di marmo~
+   Il bagliore viola si mischia lungo questa scala con uno rosso ancora piu'
+leggero e sovrannaturale.  Dall'alto senti voci di giovani maghi che discutono
+sulla potenza di questa e quella magia con gioia ed entusiasmo.    
+~
+66 28 0
+D4
+~
+~
+0 -1 6618 0
+D5
+~
+~
+0 -1 6616 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6618
+Il Laboratorio dei Pandion~
+   Entri in una sala riccamente arredata.  Il bagliore rossa svanisce nel nulla
+per lasciar posto alla fievole luce di parecchie candele.  Sei al cospetto di
+uno dei quattro maghi piu' potenti di tutta Daresia e il suo fascino unito alla
+sua forza interiore ti affascinano e intimoriscono alla stesso tempo
+~
+66 28 0
+D0
+~
+~
+0 -1 6660 0
+D2
+~
+~
+0 -1 6755 0
+D5
+~
+~
+0 -1 6617 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6619
+Piazzale degli Eroi~
+   Questa grandissima piazza ti colpisce per la sua imponenza.  La strada di
+porfido scuro gira attorno ad un largo spiazzo verde delimitato da molte statue
+che rievocano alla tua memoria gli eroi e le leggende che hai sentito narrare
+nelle fumose taverne durante i tuoi viaggi.  Al centro dello spiazzo noti un
+elegante monumento con il quale il giusto Re Otak ha voluto rendere omaggio a
+tutti coloro che con il loro spirito indomito hanno contribuito alla fama e al
+lustro del Regno.  Sul monumento centrale noti una TARGA in oro massiccio. 
+Un'INSEGNA attrae la tua intenzione.
+~
+66 0 1
+D0
+~
+~
+0 0 6607 0
+D1
+~
+~
+0 -1 6628 0
+D2
+~
+~
+0 -1 6622 0
+D3
+~
+~
+0 -1 6641 0
+E
+targa~
+   E' grazie all'inesauribile impegno di Sephrenia e Lord Igor che Re Otak ha
+potuto restaurare Lamorka, rendendola oggi una delle Capitali piu' belle e
+famose.    
+~
+E
+insegna~
+   Tutti i piu' importanti negozi della citta', compresi Banca e Ufficio
+Postale, possono essere facilmente raggiunti seguendo la strada verso Est.    
+Vicino a Sud ce' la traversa dei Mestieri. Buon lavoro!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6620
+Piazza Affari~
+   Questa e' la seconda piazza per importamza di Lamorka.  Qui si riuniscono
+uomini d'affari e pellegrini da tutto il mondo.  Il marmo bianco risalta la
+bellezza del posto,arricchita da splendidi alberi fioriti.  Qui incrocia la
+strada dei mestieri che prosegue verso est ed ovest.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6622 0
+D1
+~
+~
+0 0 6796 0
+D2
+~
+~
+0 -1 6623 0
+D3
+~
+~
+0 0 6790 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6621
+Nightbreak Caffe'~
+   Sei entrato nel famoso Nightbreak Caffe', ritrovo notturno per coloro che di
+giorno lavorano e combattono.  Il locale e' rinomato per l'ottimo vino e la
+buona musica Qui puoi rilassarti e goderti il meritato riposo.    
+~
+66 8 0
+D3
+~
+~
+0 -1 6627 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6622
+Viale alberato~
+   Questo sentiero illuminato dalle torce che lo costeggiano,porta verso la
+parte meridionale della citta'.  Verso nord vedi una strana piattaforma mentre
+a sud si apre una splendida piazza cittadina.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6619 0
+D2
+~
+~
+0 -1 6620 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6623
+Viale alberato~
+   Stai passeggiando sulla comoda strada che porta a sud della citta'.  Dai
+balconi delle case che ti costeggiano sbucano fiori colorati e bucati freschi.
+Vorresti che tutto il mondo conosciuto fosse come questo vicolo.  A nord puoi
+vedere una grande piazza.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6620 0
+D2
+~
+~
+0 -1 6627 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6624
+Caserma~
+   L'entrata alla gendarmeria una stanza enorme, alta almeno 4 metri, sul
+soffitto vi sono immensi affreschi raffiguranti i pi grandi eroi del regno
+intenti nelle loro battaglie.  La stanza rettangolare sembra quasi essere un
+corridoio, da entrambi i lati noti due file di armature complete radenti ai
+muri che danno un senso di regalit a questo luogo, appesi alle pareti grandi
+quadri di famosi generali di Sendaria.  A est puoi vedere una porta di legno
+chiusa sorvegliata da una guardia, a nord un enorme portale in quercia
+presidiato da due guardie veterane.    
+~
+66 140 0
+D0
+Una porta di legno.
+~
+porta~
+1 293716 6625 135
+D1
+~
+~
+0 0 6626 0
+D2
+~
+~
+0 0 6641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6625
+Magazzino~
+   Sei in una grande stanza molto ordinata, dove i Dragoni radunano tutto
+cio' che puo' servire per proteggere la loro capitale.
+Molte rastrelliere ai muri che contengono armi e parti di equipaggiamento
+tutti ben puliti e ben tenuti a disposizione delle guardie.
+Su una parete un grande stipo che sicuramente contiene provviste e generi
+di prima necessita'.
+&1-Lavori in corso- Armadi hamias danae rodrigo slayer
+~
+66 2700 0
+D2
+Una porta di legno.
+~
+porta~
+1 293716 6624 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6626
+L'Armeria~
+   Una stanza buia e angusta, ben tenuta e strettamente sorvegliata sembra
+essere l'armeria della citt.  Intere pareti tappezzate di rastrelliere, sono
+piene di ogni tipo di armi di ogni taglia.  Le armi sono tenute e lustrate
+maniacalmente e sempre pronte all'utilizzo, ma nessuna di esse sembra essere di
+particolare valore: sono tutte armi per le truppe regolari del regno.  Un uomo
+siede impettito dietro ad una scrivania e ha tutta l'aria di essere un
+burocrate di tanto in tanto scrive qualcosa sui suoi documenti.    
+~
+66 140 0
+D3
+~
+~
+0 0 6624 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6627
+Viale alberato~
+   Continua ancora questa stupenda passeggiata che porta alle porte meridionali
+della citta'.  La strada lastricata prosegue verso sud e nord,mentre attraversi
+questo luminoso quartiere.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6623 0
+D2
+~
+~
+0 0 6733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6628
+La strada di porfido scuro~
+   La strada di porfido scuro sembra messa apposta li per il passaggio di
+enormi quantita' di persone ed animali.  Ti rendi conto che questa strada
+converge verso un grande piazzale verso ovest che attira la tua attenzione.  
+Verso nord, davanti ad un muro, vedi come uno specchio fatto di liquido.
+~
+66 0 1
+D0
+~
+~
+0 0 1830 0
+D1
+~
+~
+0 -1 6630 0
+D2
+~
+~
+0 -1 6642 0
+D3
+~
+~
+0 -1 6619 0
+E
+sentiero sanguinolento~
+   La sabbia e' stata faticosamente tolta dalla maggior parte del sentiero,
+ma e' evidentemente che c'e' stat un'uccisione recente.
+Una nota sull'edificio dice: "La Casa del Macellaio e dei suoi Amici".
+Sembra che l'individuo abbia uno strano senso dell'umorismo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6629
+Una stanza troppo brutta~
+   Sei in una stanza vuota, troppo brutta, nessuno l'ha ancora editata!
+~
+66 0 1
+D1
+~
+~
+0 -1 6630 0
+D3
+~
+~
+0 -1 6628 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6630
+Una curva~
+   Questa curva segna l'incrocio tra via dei Marmi e la strada di porfido scuro
+che prosegue verso ovest.  Verso est noti una grande cancellata murata e
+un'iscrizione sulla parete.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6631 0
+D3
+~
+~
+0 -1 6628 0
+E
+iscrizione~
+   La cancellata orientale e' stata murata per ordine del Primo Re di Lamorka.
+  
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6631
+Via dei Marmi~
+   Qui la strada e' piu' larga, l'aria e' satura di fumo e delle grida dei
+commercianti che tentano di attirarti ad acquistare la loro merce.  Dentro
+l'arcata a ovest intravedi il negozio delle armi.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6632 0
+D1
+~
+~
+0 0 6831 0
+D2
+~
+~
+0 -1 6630 0
+D3
+~
+~
+0 -1 6646 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6632
+Via dei Marmi~
+   In questa zona della strada si trovano le botteghe che un buon avventuriero
+non puo' mancare di visitare.  L'armeria si apre dietro l'arcata ad ovest,
+mentre da est senti provenire qualche risata e musiche allegre.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6633 0
+D1
+~
+~
+0 0 6648 0
+D2
+~
+~
+0 -1 6631 0
+D3
+~
+~
+0 -1 6647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6633
+Via dei Marmi~
+   Questa strada che va verso sud e' lastricata di marmi rosa.  Annusando
+l'aria il tuo stomaco gioisce: senti profumi di pane fresco, cibi deliziosi e
+aromatiche spezie provenienti dalle botteghe disseminate lungo la strada.  
+Noti che gli ingressi di tutti i negozi che danno su questa strada sono
+inquadrati in preziose arcate di marmi variopinti.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6634 0
+D1
+~
+~
+0 0 6650 0
+D2
+~
+~
+0 -1 6632 0
+D3
+~
+~
+0 -1 6653 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6634
+Una curva nel sentiero lastricato~
+   Sei arrivato ad una stretta curva, e puoi sentire il debole calore di un
+fuoco proveniente da una piccola pietra annerita a nord mentre alla fine del
+sentiero lastricato vedi quello che ti sembra un magazzino di generi vari.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6654 0
+D1
+~
+~
+0 -1 6782 0
+D2
+~
+~
+0 0 6633 0
+D3
+~
+~
+0 -1 6635 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6635
+Il sentiero sulla scogliera~
+   Questo sentiero lastricato corre lungo la scogliera.  L'atmosfera e' quella
+rarefatta dei posti di mare con una leggera nebbia proveniente dalle acque e
+dalle foreste vicine alla citta'.  Senti un lieve richiamo di uccelli provenire
+dall'edificio a sud.    
+~
+66 0 1
+D0
+~
+porta~
+2 -1 6781 9
+D1
+~
+~
+0 -1 6634 0
+D3
+~
+~
+0 -1 6608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6636
+Un sentiero ombreggiato~
+   Le foglie cadono in lievi spirali sul sentiero nel bosco quando l'estate
+lascia il posto all'autunno. Tra gli alberi ad ovest, provengono degli
+scintillii dall'oscuro ingresso di un piccolo negozio. Ad est scorgi
+la cupola del tempio.
+~
+66 0 1
+D0
+~
+~
+0 -1 6613 0
+D1
+~
+~
+0 0 6761 0
+D2
+~
+~
+0 -1 6638 0
+D3
+~
+~
+0 0 6759 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6637
+Un sentiero ombreggiato~
+   Viaggi su un largo sentiero fiancheggiato da cenere ed alberi di quercia,
+coi rami curvi che sembra diano indicazioni e amipe ombre.
+Piccoli scintillii provengono dall'ingresso di un edificio ad ovest, sebbene
+sia duro da qui  dire esattamente cosa siano.
+~
+66 0 1
+D0
+~
+~
+0 -1 6613 0
+D2
+~
+~
+0 -1 6638 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6638
+Un sentiero ombreggiato~
+   Sei all'esterno della tesoreria della citta', subito ad ovest di qui,
+rendendo questo luogo pieno di attivita', incluso l'occasionale attenzione di
+un borsaiolo o due. Comunque, la presenza di guardie da' un senso di
+sicurezza.
+~
+66 0 1
+D0
+~
+~
+0 -1 6636 0
+D1
+~
+~
+0 0 28043 0
+D2
+~
+~
+0 -1 6639 0
+D3
+~
+~
+0 -1 6758 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6639
+Un sentiero ombreggiato~
+   Gli olmi sono cosi' grandi ed antichi che i loro rami si intrecciano sopra
+la tua testa formando una sorta di galleria attraverso la quale la luce del
+sole filtra variopinta.  Ad ovest vedi l'ufficio postale.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6638 0
+D1
+~
+~
+0 0 6760 0
+D2
+~
+~
+0 -1 6640 0
+D3
+~
+~
+0 -1 6657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6640
+La strada di porfido scuro~
+   La strada di porfido si apre ad un incrocio occupato in parte da una scura
+macchia di alberi.  Il vento tenta di suonare fra le foglie ma i rumori della
+citta' vanificano i suoi sforzi.  Verso ovest vedi il grande cancello mentre un
+sentiero ombroso lastricato in pietra prosegue verso nord.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6639 0
+D1
+~
+~
+0 -1 6641 0
+D2
+~
+~
+0 0 6672 0
+D3
+~
+~
+0 -1 6847 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6641
+La strada di porfido scuro~
+   La strada di porfido scuro sembra messa apposta li per il passaggio di
+enormi quantita' di persone ed animali.  Ti rendi conto che questa strada
+converge verso un grande piazzale che attira la tua attenzione.    
+Una grande bandiera del Regno di Lamorka sventola sopra la tua testa verso sud.
+~
+66 0 1
+D0
+~
+~
+0 0 6624 0
+D1
+~
+~
+0 -1 6619 0
+D3
+~
+~
+0 -1 6640 0
+D5
+~
+~
+0 0 6812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6642
+&1La macelleria&0~
+   Sei in una soffocante e poco illuminata stanza che odora di sangue,
+carne salata e conservanti strani che non hai mai pensato potessero
+esistere . Vasi di peltro sono riempiti di ghiaccio e un arrosto gira sul
+fuoco vicino alla parete est.
+~
+66 140 0
+D0
+~
+~
+0 -1 6628 0
+D1
+~
+retrobottega~
+0 0 6766 0
+D2
+~
+~
+0 0 1552 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6643
+Le stalle~
+   Nessuno nitrito proviene dalle scure stalle di questo luogo; i cavalli sono
+ancora indomati e le stalle sono vuote. Non e' insolito per un vagabondo
+fare la sua casa qui, comunque, prima di essere scacciato dalle guardie o
+di essere attaccato dai gufi del granaio.
+~
+66 9 0
+D0
+~
+~
+0 -1 6641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6644
+Il cancello est di Lamorka~
+   Sei alla fine orientale di Lamorka, davanti ad un cancello pesante
+forgiato dal ferro e dipinto di bianco. Un caldo vento del deserto soffia
+sporadicamente attraverso l'inferriata dando un'idea delle regioni enormi
+al di la' di esso.
+~
+66 0 1
+D1
+~
+~
+0 -1 1535566 0
+D3
+~
+~
+0 -1 6630 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6645
+L'entrata ovest di Lamorka~
+   Un cancello riccamente ornato, pesante e lavorato di ferro nero, pende da
+antichi cardini ad ovest delimitato da snelli olmi.  L'edera cosi' abbondante
+nella citta' e' ritorta ed intrecciata in volute forme intricate e lavorate.  
+~
+66 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6646
+La Daga ed il Pugnale~
+   Una pietra circolare gira in rotazioni veloci mentre l'armaiolo aguzza
+attentamente le armi, e poi le riappende per mostrarle.  Una finestra singola
+permette alla luce di specchiarsi sulle armi appena lucidate.  Il negoziante e'
+un uomo di poche parole e preferisce isolarsi dal resto del mondo per dedicarsi
+unicamente al suo lavoro.    
+~
+66 140 0
+D1
+~
+~
+0 -1 6631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6647
+Lo Scudo d'Argento~
+   Sei in un negozio i cui muri luccicano per le varie armature che vi sono
+appese che riflettono i bagliori del fuoco dalla fucina.  Articoli di metallo
+possono essere comprati e venduti qui, a prezzi quasi ragionevoli.
+Digita 'PRODOTTI' per scegliere.
+~
+66 140 0
+D1
+~
+~
+0 -1 6632 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6648
+Taverna Collera del Dragone~
+   In questa taverna si radunano gli uomini d'arme alla fine delle loro
+sanguinose imprese.  La birra scorre a fiumi cosi' come scorrono le narrazioni
+delle eroiche gesta.  Con l'elmo sotto il braccio alcuni soldati passeggiano
+tra i tavoli per calmare gli animi dei piu' sanguigni.  Due graziose ma
+alquanto robuste fanciulle servono da bere ai presenti.    
+
+&3&b Una grande bacheca e' qui. &0
+
+&1&b PER LA MUSICA DARE 10 COINs al MUSICO &0
+~
+66 8 0
+D2
+~
+~
+0 -1 6649 0
+D3
+~
+~
+0 -1 6632 0
+D5
+~
+~
+0 -1 6652 0
+E
+bacheca~
+&3
+1  - Cimmura battle                  2 - Le praterie di Lamorka
+2  - Arpe di Cyrga                   4 - Isole Lontane
+5  - Lacrime di Haon dor             6 - Le 3 spade
+7  - Anon village                    8 - Il grande est
+9  - Jiroch                         10 - Yuk Birra
+11 - Sole e relax                   12 - Krog grog?
+13 - Lamorka (Sephrenia ballet)     14 - Torre della Magia
+15 - La Cattedrale                  16 - Night, Thief an the terror
+17 - Tolnedra caos                  18 - Deira
+19 - Run run little Demostenee      20 - Jack Taglialegna
+21 - Ramku in the kitchen           22 - Zingari!
+23 - Khristian build up             24 - Chyrellos 
+25 - Teinko assedium                26 - Salomon fury
+27 - The Aurin                      28 - La guerra dei regni&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6649
+Lungo il bancone del bar~
+   Siedi lungo il bancone della trattoria, dove gli avventurieri amano
+raccontare le loro verita' riguardo alle imprese compiute.  Probabilmente
+potresti imparare qualcosa ascoltandoli e farti un'idea del mondo che esiste al
+di la delle mura della citta'.  Senti una musica allegra in sottofondo.    
+~
+66 8 0
+D0
+~
+~
+0 -1 6648 0
+D1
+~
+~
+0 -1 6749 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6650
+La cucina lamorkiana di Mekala~
+   Una stanza grande piena di elefanti di porcellana, piatti di incenso
+e divisori. Profumi di spezie provengono dalla cucina.
+Ad est una stretta scala sale di sopra.
+~
+66 140 0
+D3
+~
+~
+0 -1 6633 0
+D4
+~
+~
+0 -1 6651 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6651
+Il tetto di Mekala~
+   Il tetto aperto da' qualche refrigerio al calore sottostante. Uccelli
+selvatici volano sopra la tua testa, attirati dal cibo ma troppo
+timido per scendere. Alcuni tavoli sono apparecchiate con semplici
+tovaglie bianche e candele rosse.
+~
+66 0 1
+D5
+~
+~
+0 -1 6650 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6652
+Qualche gradino di pietra~
+   Gradini larghi, poco profondi di pietra scura scendono in un caldo atrio dal
+sapore di antiche sfide fra guerrieri.  Sopra di te i suoni della trattoria ti
+distraggono.  Ad ovest c'e' un passaggio ammaccato da un'ascia sormontato da
+due spadoni incrociati.    
+~
+66 12 0
+D3
+~
+~
+0 -1 6750 0
+D4
+~
+~
+0 0 6648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6653
+Il Cesto del Pane~
+   Sei in un insolito, umile negozio della citta', costruito con creta cotta e
+riscaldato dai forni del pane.  L'odore di pane fresco fa venire l'acquolina in
+bocca.    
+~
+66 156 0
+D1
+~
+~
+0 -1 6633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6654
+Centro Esportazione Gioielli~
+   Questo lussuoso e affollato locale e' il posto dove i gioiellieri di Lamorka
+e zone limitrofe vengono a vendere i loro bellissimi artefatti.  Nello stesso
+tempo decine di scrivani timbrano col sigillo Reale i papiri che
+accompagneranno i preziosi oggetti fino nelle casse dei Regni che li hanno
+richiesti.  Qui infatti i tuoi gioielli saranno commerciati e trasformati cosi'
+in valuta contante per accrescere il potere del Regno.    
+~
+66 2199023255692 0
+D2
+~
+~
+0 -1 6634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6655
+&6La pietra dura di &bMartis&0~
+   In questo piccolo negozietto puoi comprare o vendere i vari tipi di pietra
+prodotti.  Ammassati negli angoli ci sono carichi di zinco, rame, argento e
+altri ancora che non distingui.  Parecchie persone cercano di mercanteggiare
+sul prezzo, ma il negoziante e' inflessibile e risponde con un secco NO a tutte
+le richieste.    
+~
+66 140 0
+D1
+~
+porta~
+2 0 6799 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6656
+Le gabbie per gli uccelli~
+   Agli uccelli piace il loro riserbo, tieni l'inferno fuori!
+~
+66 520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6657
+L'ufficio postale~
+   Il locale e' spoglio e disadorno, vedi un lungo bancone dietro al quale si
+agitano diversi impiegati, decisamente scontenti della situazione.  Ma tu hai
+altro a cui pensare, puoi chiedere a uno di loro di curarsi della tua posta.  
+C'e' un cartello affisso sulla parete a nord.    
+~
+66 12 0
+D1
+~
+~
+0 -1 6639 0
+E
+cartello~
+**********************************************************
+*                                                        *
+*    Istruzioni per la posta:                            *
+*                                                        *
+*      Per mandare della posta a qualcuno:               *
+*         SCRIVI nome giocatore                          *
+*                                                        *
+*      Per vedere se hai posta:                          *
+*         CONTROLLA                                      *
+*                                                        *
+*      Per avere la tua posta:                           *
+*         RICEVI                                         *
+*                                                        *
+*       I Francobolli costano 15 monete per lettera      *
+*       Digita HELP MAIL per avere piu' informazioni     *
+*                                                        *
+**********************************************************
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6658
+Sull'orlo~
+Un mare di luminosa nebbia fluttuante e' davanti a te, ingoia la
+maggior parte della rupe e delle terre attorno. Lontano oltre il
+nitore vedi l'azzurro del mare. Una pista scompare in basso nella
+nebbia.
+~
+66 0 4
+D2
+~
+cancellata~
+1 6679 6609 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6659
+Uno stretto sentiero scende dalla rupe~
+   Sei in una stanza vuota, troppo brutta, nessuno l'ha ancora editata!
+~
+66 0 4
+D4
+~
+~
+0 -1 6658 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6660
+Un balcone della torre~
+   Questo alto punto al margine settentrionale di Lamorka ha una vista
+magnifica.  Oltre al pianoro sottostante puoi scorgere le torri del castello
+del grande Otak e piu' a est lo sconfinato mare che bagna il regno.  I Pandion
+hanno reso questo luogo il posto favorito per studi ricreativi.    
+~
+66 0 1
+D2
+~
+~
+0 -1 6618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6661
+Un percorso argenteo~
+   Senti l'eco dei tuoi passi sulla scala di pietra nuda. L'aria risplende
+di luce e il silenzio scende intorno a te come una cortina di neve,
+sebbene senti provenire una salmodia, apparentemente lontana, dalla
+camera ad ovest. Lampade sui muri sprigionano un bagliore argenteo
+reminescenza di santi e martiri.
+~
+66 28 0
+D3
+~
+~
+0 -1 6662 0
+D4
+~
+~
+0 -1 6603 0
+D5
+~
+~
+0 -1 6770 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6662
+La stanza dell'insegnamento~
+   Manufatti e reliquie precedenti il mondo conosciuto sono incassati
+e illuminati in armadietti neri di vetro privi d'aria, il loro scintillio
+dorato ed argentato colpisce il tuo occhio con immortalita' beffarda. Urne di
+ceneri sono allineate su mensole di legno levigate, ed un altare piccolo,
+semplice, ornato d'avorio e' contro la parete a nord.
+Coloro di pia tendenza studiano qui.
+~
+66 28 0
+D1
+~
+~
+0 -1 6661 0
+D2
+~
+~
+0 -1 6753 0
+D5
+~
+~
+0 -1 6663 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6663
+La camera delle donazioni~
+   Questa stanza contiene il primo utile equipaggiamento per i nuovi cavalieri
+della Chiesa.  Tuttavia spesso Cyrinic dal cuore particolarmente nobile
+depositano quello che a loro non serve per aiutare i nuovi arrivati.    
+~
+66 28 0
+D4
+~
+~
+0 -1 6662 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6664
+Un cancello in ferro battuto.~
+   Apri un cancello cigolante forgiato dal duro lavoro di qualche Fabbro.
+Tra le foglie di bronzo che ornano questo cancello appaiono tre piccoli Draghi
+in argento e per un attimo i sei piccoli smeraldi incastonati nei loro occhi
+emettono un piccolo bagliore. Su una lastra d'ottone sono incise queste parole:
+ZONA RESIDENZIALE DI LAMORKA.
+~
+66 0 1
+D0
+~
+~
+0 -1 6615 0
+D1
+~
+~
+0 -1 6613 0
+D3
+~
+cancellata~
+1 23 6665 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6665
+Una strada di mattoni rossi.~
+   Uno dei famosi Architetti di Lamorka ha progettato questa strada di mattoni
+ricavati da blocchi di granito rosso tagliati e lucidati nei laboratori della
+citta'.  La strada sale verso la cima della collina.    
+~
+66 8796093022212 1
+D0
+~
+~
+0 0 6674 0
+D1
+~
+cancellata~
+1 23 6664 1
+D2
+Una porta di legno.
+~
+porta~
+1 605317 1760 135
+D3
+~
+~
+0 -1 6666 0
+D4
+Una porta di legno.
+~
+porta~
+1 481623 41026 135
+D5
+Una porta di legno.
+~
+porta~
+1 838264 40879 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6666
+Una strada di mattoni rossi.~
+   Da questo punto puoi scorgere tra gli alberi i tetti di piccole case e dal
+camino di alcune vedi uscire un sottile filo di fumo.  Forse qualche Cuoco sta
+cucinando qualcosa di buono.  A est la strada prosegue verso la citta' e a Nord
+devia verso la cima della collina.    
+~
+66 8796093022208 1
+D0
+~
+~
+0 -1 6667 0
+D1
+~
+~
+0 -1 6665 0
+D2
+Una porta di legno.
+~
+porta~
+1 999659 40049 195
+D3
+~
+~
+0 -1 6673 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6667
+Una piccola piazza circolare.~
+   Mani esperte hanno piallato le panche di legno che adornano il perimetro di
+questa piazza panche offerte alla citta' dalla Gilda dei Falegnami.  Una
+leggera brezza proveniente dal mare rinfresca le ore pomeridiane mentre alcuni
+vecchi guerrieri riposano appisolati sulle panchine.  Ad est e ovest due viali
+alberati, in alto un'ampia scalinata di marmo sale verso la cima della collina.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 420220 40063 129
+D1
+~
+~
+0 0 6853 0
+D2
+~
+~
+0 -1 6666 0
+D3
+~
+~
+0 0 6850 0
+D4
+~
+~
+0 -1 6668 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6668
+Sulla collina~
+   Una piccola fontana da cui sgorga fresca acqua di sorgente e' qui per
+ristorare chi ha appena affrontato la lunga scalinata o per dare nuovo vigore a
+coloro che di buon ora scendono in citta' per recarsi al loro lavoro o verso
+chissa' quale battaglia.    
+~
+66 8796093022208 1
+D0
+~
+~
+0 0 6717 0
+D1
+~
+~
+0 0 6715 0
+D2
+~
+~
+0 0 6710 0
+D3
+Una porta di legno.
+~
+porta~
+1 492688 40087 135
+D5
+~
+~
+0 -1 6667 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6669
+Esterno dell'Ambasciata di Torre d'Avorio~
+   Verso Nord vedi l'edificio dell'Ambasciata di Torre d'Avorio, delicata
+costruzione in marmo bianco.  Le sue grottesce e i mascheroni decorano la
+superfice della facciata come candide incrostazioni calcaree.  Sul portone
+d'ingresso si staglia luminoso lo stemma di Torre d'Avorio, simbolo di pace e
+fratellanza fra i popoli.  Questa e' la residenza di Galadriel degli Spiriti,
+Ambasciatore di Torre d'Avorio in Daresia.    
+~
+66 4 1
+D0
+Una porta di legno.
+~
+porta~
+1 791655 6670 135
+D2
+~
+~
+0 0 6734 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6670
+Sala di rappresentanza dell'Ambasciata~
+   Sala di rappresentanza dell'Ambasciata: Passato il portone avverti una
+strana sensazione, come se qualcosa nella realta' si fosse modificato, ma
+decidi di andare avanti comunque.  Attraversi un lungo corridoio che accede a
+un profumato giardino porticato.  Accedi alla sala di Rappresentanza
+dell'Ambasciata, le pareti sono coperte di splendidi arazzi raffiguranti la
+terra d'origine dell'Ambasciatore, Fantasia.  Questa sala e' arredata con gusto
+e raffinatezza.  Ogni tanto una porta si apre per lasciar passare un dipendente
+dell'ambasciata in livrea ufficiale intento nei suoi affari.  Vieni avvolto da
+una sensazione di serenita' come se in questo posto tutto, le persone e persino
+le pareti, abbiano desiderio di ascoltare la tua storia.    
+~
+66 10776 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40351 0
+D1
+~
+~
+0 0 6671 0
+D2
+Una porta di legno.
+~
+porta~
+1 791655 6669 167
+D3
+~
+~
+0 0 6675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6671
+Gli appartamenti degli ospiti~
+   Benvenuto negli appartamenti degli ospiti di Galadriel.  Sei nella zona
+dell'Ambasciata dedicata agli ospiti dell'Ambasciatore.  Un leggero tintinnio
+di campanelli ti accompagna nelle sale che attraversi.  Ti raggiunge un buon
+odore di cibo in preparazione che sale dalle cucine.  La tua camera e' arredata
+in modo sobrio e delicato.  Il soffitto blu' e' decorato con piccole stelle
+dorate e le chiare pareti sensibili sembrano cambiare colore seguendo le
+oscillazioni del tuo umore.  Alle finestre delicati tendaggi giocherellano con
+la luce del giorno.  In questo luogo avverti la sensazione che nulla possa
+accaderti e un senso di pace ti avvolge.  Qui puoi depositare tranquillamente
+le tue cose e riposare, tutto rimarra' com'e' fino al tuo risveglio.    
+~
+66 2568 0
+D3
+~
+~
+0 0 6670 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6672
+L'entrata alla Gilda dei Peloi~
+   Sei in una quieta, spoglia stanza.
+Assolutamente niente che possa distrarre la guardia dalla sua attivita'.
+~
+66 12 0
+D0
+~
+~
+0 -1 6640 0
+D2
+Vedi la gilda.
+~
+~
+0 -1 6786 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6673
+Una strada di mattoni rossi~
+E' molto bella questa via tutta mattonata in rosso, puoi notare varie case in tutte le direzioni tranne ad est dove la strada continua.
+~
+66 8796093022216 0
+D0
+Una porta di legno.
+~
+porta~
+1 499427 40089 199
+D1
+~
+~
+0 -1 6666 0
+D2
+Una porta di legno.
+~
+porta~
+1 392123 40091 131
+D3
+Una porta di legno.
+~
+porta~
+1 277786 40090 131
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6674
+La cima della collina~
+Uno dei famosi Architetti di Lamorka ha progettato questa strada di mattoni
+ricavati da blocchi di granito rosso tagliati e lucidati nei laboratori della
+citta'.
+Sei arrivato sulla cima della collina e riesci a scorgere tutta Lamorka da qui su.
+~
+66 8796093022216 0
+D0
+Una porta di legno.
+~
+porta~
+1 305936 40027 135
+D1
+Una porta di legno.
+~
+porta~
+1 327087 40022 135
+D2
+~
+~
+0 -1 6665 0
+D3
+Una porta di legno.
+~
+porta~
+1 855138 40025 135
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6675
+Gli appartamenti privati di Galadriel~
+   La sensazione che avevi provato all'ingresso dell'Ambasciata qui per un
+attimo diventa vertigine, i tuoi sensi ti dicono che questo posto e' veramente
+parte di un'altro universo ma l'istinto ti suggerisce che non c'e' nulla da
+temere.  Alle candide pareti enormi tele rappresentano paesaggi di terre
+lontanissime, i luoghi dove Galadriel e' cresciuto.  Nella parete di fronte
+scorgi il ritratto a grandezza naturale di Galadriel in compagnia di Sua
+Maesta' Imperiale, Diamante Adamas, IV imperatore di Fanta'sia.  Su una
+scrivania ci sono montagne di pergamene con la corrispondenza privata di
+Galadriel.  In un angolo una grande libreria carica di libri e giochi di tutti
+i tipi.  Al centro della sala un verde pentacolo che Galadriel usa per
+comunicare con il piano d'esistenza di Torre d'Avorio.    
+~
+66 34359741080 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40349 0
+D1
+~
+~
+0 0 6670 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40350 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6676
+Una dimora di pietra nera~
+   Sei in una quieta, vuota abitazione di robusta arenaria nera.
+Occupata ora solo da alcuni ragni, sembra essere un buon
+luogo dove vivere e lavorare. Con danaro sufficiente forse
+qualche implementor potrebbe vendertela.
+~
+66 8 0
+D0
+~
+~
+0 -1 6669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6677
+Una casa sulla rupe~
+   Ciottoli caratteristici e muri di mattoni, creano una calda atmosfera.
+Questa casa e'  abitata ora solo da alcuni topini, sembra essere un buon
+luogo dove vivere e lavorare. Con danaro sufficiente forse qualche
+implementor potrebbe vendertela.
+~
+66 8 0
+D2
+~
+~
+0 -1 6670 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6678
+Un sentiero sulla rupe ventosa~
+   Un vento umido e gelido soffia da sopra le case delle brughiera.
+Attorno a te il soffio aumenta; arenaria pallida grigia e scura, liscia
+scolpita dai venti, e' soffocata da muschi porpora e verde.
+Un sentiero devia verso la cima delle colline.
+~
+66 0 2
+D0
+~
+~
+0 -1 6716 0
+D1
+~
+~
+0 -1 6671 0
+D3
+~
+~
+0 -1 6679 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6679
+Un sentiero sulla rupe ventosa~
+   Un vento umido e gelido soffia da sopra le case delle brughiera.
+Attorno a te il soffio aumenta; arenaria pallida grigia e scura, liscia
+scolpita dai venti, e' soffocata da muschi porpora e verde.
+Un sentiero devia verso la cima delle colline.
+~
+66 0 2
+D0
+~
+~
+0 -1 6680 0
+D1
+~
+~
+0 -1 6678 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6680
+Ingresso al Comune~
+   Salendo una rampa di scale sempre controllata da due guardie del Black Watch
+in alta uniforme, attraversi l'ampio portone che immette nella sala d'ingresso
+del Palazzo Comunale.  La luce filtra a fasci ben definiti dalle finestre
+disposte lungo la cupola che ti sovrasta; non puoi fare a meno di sollevare lo
+sguardo per ammirare la stupenda volta completamente affrescata con un dipinto
+a progressione circolare rappresentante la storia di Lamorka dalle origini ai
+giorni nostri.  Sul pavimento, in opposizione, una immensa Rosa dei Venti
+indica i punti cardinali e noti che il Palazzo costruito interamente lungo la
+retta Nord-Sud.  Ogni tanto degli impiegati attraversano frettolosamente la
+sala da un lato all'altro, facendo la spola tra la Sala delle informazioni a
+Ovest e la Sala dei Problemi a Est con in mano un mucchio di scartoffie
+volanti, e i loro passi riecheggiano nel salone.    
+~
+66 12 0
+D0
+~
+~
+0 0 6734 0
+D1
+~
+~
+0 0 6682 0
+D2
+~
+~
+0 0 6681 0
+D3
+~
+~
+0 0 6683 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6681
+Anticamera~
+   Eccoti finalmente giunto nella sala per chi aspetta di essere ricevuto dal
+Sindaco.  Due file di colonne dividono la sala in tre navate, tutte illuminate
+dalle due file di finestre disposte lungo le pareti laterali, lungo le quali
+puoi anche notare le statue di tutte le piu' importanti personalita' della
+storia di Lamorka.  Avanzi nell'eco dei tuoi stessi passi lungo la navata
+centrale.  Il pavimento di pietra di marmo e' opera dei grandi maestri pietrai
+di Lamorka, che hanno passato due interi anni per procurarsi della pietra di
+tale qualita', per poi pavimentare con esso l'intero Palazzo.  Le imponenti
+colonne hanno uno stile molto semplice, ma la loro altezza non ti lascia
+purtroppo ammirare a pieno gli elaborati capitelli, tutti diversi da colonna a
+colonna.  Camminando tra esse noti comunque che ci sono due porte ad arco sulle
+pareti laterali, mentre verso Sud c' un grande portone in legno intarsiato e
+scolpito.    
+~
+66 24 0
+D0
+~
+~
+0 -1 6680 0
+D1
+Una porta di legno.
+~
+porta~
+1 875364 6685 129
+D2
+~
+~
+0 0 6686 0
+D3
+Una porta di legno.
+~
+porta~
+1 788646 6684 135
+D4
+Una porta di legno.
+~
+porta~
+1 347062 6689 135
+D5
+Una porta di legno.
+~
+porta~
+1 999351 3099 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6682
+Sala dei Problemi~
+   Dal colore dell'ingresso, alla penombra di questa piccola stanza.  Montagne
+di fogli, papiri, pergamene, mappe e chissa' cos'altro sono ammassate in pile
+disposte in modo apparentemente casuale!  Al centro della buia stanzetta scorgi
+una piccola scrivania, con su una candela e qualche pergamena srotolata.  Un
+vecchio mugugnante in tunica azzurra sta in piedi con in mano una lente di
+ingrandimento e un papiro.  A giudicare dal cornetto acustico che porta appeso
+al collo, non deve sentirci molto bene.  Muovendoti verso di lui per parlargli,
+urti inavvertitamente un cumulo di materiale cartaceo, che precipita al
+suolo...  Ma l'archivista non sembra accorgersene.  Guardando in giro, scorgi
+documenti antichissimi e nuove domande a cui qualcuno dara' una risposta!  I
+tuoi passi scricchiolano sul pavimento marmoreo ricoperto di carte e l'addetto
+si gira verso di te sorridente.    
+~
+66 152 0
+D3
+~
+~
+0 0 6680 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6683
+Sala delle Informazioni~
+   Questa stanza e' semplicemente arredata.  Un tavolo con una sedia, alcuni
+scaffali contenenti plichi e libri, qualche pianta ed un acquario che risplende
+alla luce proveniente dall'unica grande finestra.  Qui puoi chiedere
+informazioni su alcuni argomenti.  Digita &1'say informazioni'&0. 
+Se non trovi quello che cerchi comunicalo nella Sala dei Problemi.
+~
+66 152 0
+D1
+~
+~
+0 0 6680 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6684
+&7Ufficio del &4Duca di &6Sandir&0~
+Stranamente ti senti a tuo agio benche' immerso in un piccolo ambiente 
+spoglio riscaldato e illuminato all'occorrenza dalla &1&bfiamma&0
+che vive in un camino in pietra lavorata.
+Un armadio, una scrivania e una tappeto che non sembran nemmeno 
+provenire
+da tesori un tempo nascosti. Lo  sguardo volge velocemente su un 
+&7&darazzo&0 oramai impresso sul muro. Realizzi dopo alcuni secondi
+la &2&bfigura&0 contenuta in esso: un Cigno Nero con ali aperte,
+alle spalle di esso due Pugnali Incrociati dai quali scaturisce un 
+Ombra.
+
+Sotto l'arazzo vi e' una targa con racchiusa un antica frase:
+
+    &2&b "La Natura ama nascondersi, segui le sue tracce" &0
+~
+66 2712 0
+D1
+Una porta di legno.
+~
+porta~
+1 788646 6681 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6685
+Ufficio di &2Nalef&0~
+   La stanza e' molto ben illuminata grazie a un'immensa vetrata che
+sostituisce la parete rivolta verso lo stupendo golfo di Lamorka.  E' molto
+ampia e spaziosa ed emana un senso di tranquillita'.  La tinta delle pareti e'
+un marroncino chiaro, quasi color sabbia, intonato al tappeto persiano al
+centro della sala.  Il mobilio e' scarso: un tavolo in mogano e due sedie
+finemente lavorate con fregi e strani arabeschi.  Dietro il tavolo, appeso al
+muro, un arazzo blu notte con ricamato l'argenteo stemma di Darnos: il cavallo
+rampante.    
+&7Tutti gli oggetti della stanza sono stati rimossi,alcuni teloni coprono poche casse di legno rimaste.&0
+~
+66 2712 0
+D3
+Una porta di legno.
+~
+porta~
+1 875364 6681 161
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6686
+Auditorium~
+   Se credevi di aver visto una sala molto grande, e' solo perche' non avevi
+ancora visto l'Auditorium del Palazzo Comunale!  Un'immenso anfiteatro a
+gradini si allarga di fronte a te, con una capienza che si aggira sulle 3000
+persone circa.  Al centro, nella parte abbassata, c'e' il palchetto del
+Sindaco, da dove le autorita' presiedono le riunioni dei funzionari o del
+popolo tutto.  Delle poltroncine non molto comode sono divise in quattro
+settori da cinque rampe di scale che dipartono a raggio dal centro della sala
+semisferica.  La parete Sud, alle spalle del palchetto del Sindaco e dei posti
+riservati ai Funzionari, e' stata sostituita da un'immensa vetrata trasparente
+che si affaccia sul golfo di Lamorka, offrendo una stupenda visuale del mare e
+del Porto cittadino.    
+~
+66 24 0
+D0
+~
+~
+0 -1 6681 0
+D1
+~
+~
+0 -1 6687 0
+D2
+Una porta di legno.
+~
+porta~
+1 769035 1795 135
+D3
+~
+~
+0 0 6688 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6687
+Sala del Tesoro~
+   La spaziosa stanza quasi totalmente occupata dai forzieri in legno
+rinforzato con sbarre d'acciaio che proteggono degnamente i tesori del Regno.
+Avvicinandoti meglio, scorgi una leggera luminescenza viola che circonda i
+bauli...  Probabilmente un qualche incantesimo di protezione!  Stranamente non
+ci sono guardie in giro solo una scrivania vuota con una targhetta che dice:
+- Lord Igor Tesoriere Reale di Sendaria -
+~
+66 152 0
+D0
+Una parete mobile in grado di nascondere il passaggio.
+~
+parete~
+1 0 6835 1
+D3
+~
+~
+0 0 6686 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6688
+Lo Studio di Sephrenia~
+   La stanza non e' grande ma vieni subito colpito dalla sua semplice bellezza.
+La parete sud e' interamente occupata da un acquario dove vedi nuotare pesci
+dai colori quasi incredibili e che mai avevi visto prima.  Vedi anche una
+libreria in legno chiaro che occupa la parete opposta e sembra non poter
+contenere tutti i volumi e le pergamene che vi sono stati messi.  Davanti ad
+una grandissima finestra semi-aperta che illumina tutta la stanza c'e' una
+semplice scrivania anch'essa in legno chiaro con alcune poltroncine di velluto
+blu sparse con ordine per la stanza.  L'unico altro ornamento e' una rigogliosa
+pianta di rose rampicanti che emanano un intenso profumo nell'angolo vicino
+alla finestra, ed alcune mappe autografe che l'Ambasciatore Galadriel ha voluto
+donare al Comune.  Una targhetta d'oro sulla scrivania riporta la dicitura:
+- Sephrenia Sindaco di Lamorka e Alto Consigliere di Sendaria -
+~
+66 152 0
+D1
+~
+~
+0 0 6686 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6689
+&7&bIl Senato&0~
+La &7luce&0 filtra nella stanza da un grande lucernario di &6&bvetro azzurro&0
+incastonato al centro del soffito.  La parete est e' coperta da un enorme
+arazzo raffigurante lo stemma araldico del &7&MGufo d&Gi Magras&0 sotto cui e'
+dipinto un &5nastro&0 recante la scritta &7&bSEMPER PRIMIS&0.  Le pareti nord e
+sud son costellate di candelabri e portatorce, intervallate a miniature
+raffiguranti le &7&b4 virtu'&0.  Infine sulla parete ovest sono appesi 2 scudi:
+uno col l'&Y&1Orso&0 di &5Sendaria&0, simbolo della casa reale, e l'altro con
+il &2&bLupo di Hur&0.  Uno scranno di legno e delle poltroncine di vimini sono
+gli unici sedili.    
+~
+66 2568 0
+D5
+Una porta di legno.
+~
+porta~
+1 347062 6681 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6690
+Il Belvedere e lo Zodiaco di Lamorka.~
+   Su questa terrazza naturale non crescono alberi, solo alcune alte rocce nere
+emergono tra la verde erba piegata dal costante soffio del vento.  Su ogni
+roccia e' scritto, in una lingua ormai dimenticata, l'antico nome delle
+Divinita' che crearono il mondo.  Al centro della radura una meridiana segna
+l'alternarsi infinito del giorno e della notte.    
+~
+66 8796093022208 2
+D0
+~
+~
+0 -1 6691 0
+D1
+Una porta di legno.
+~
+porta~
+1 793532 40137 199
+D2
+~
+~
+0 -1 6715 0
+D3
+~
+~
+0 -1 6709 0
+D4
+Una porta di legno.
+~
+porta~
+1 187039 40741 135
+D5
+Una porta di legno.
+~
+porta~
+1 859963 40742 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6691
+Sull'orlo~
+   Sei appollaiato sull'orlo roccioso delle rupi di Lamorka.  Il tuo sguardo e'
+libero di spaziare in ogni direzione fino ai confini del Regno di Re Otak puoi
+vedere i campi coltivati e alcuni cavalli selvatici correre sull'altopiano, le
+foreste ricche di legname che si arrampicano sulle montagne innevate.  Ma la
+maggior parte dell'orizzonte e' riempito dal blu del mare e la tua attenzione
+va alle bianche vele di alcuni vascelli che entrano nel porto.  Alcuni scalini
+scavati nella roccia conducono in basso perdendosi fra cespugli di erica
+fiorita.    
+~
+66 8796093022208 4
+D0
+Una porta di legno.
+~
+porta~
+1 255310 40197 135
+D1
+Una porta di legno.
+~
+porta~
+1 129790 40424 135
+D2
+~
+~
+0 -1 6690 0
+D3
+Una porta di legno.
+~
+porta~
+1 434255 40078 135
+D5
+~
+~
+0 -1 6692 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6692
+Gli scalini nella roccia.~
+   Si racconta che questi scalini furono una delle prime opere di Otlas Otla,
+che ancora giovane e apprendista, apprese su questa parete a strapiombo l'arte
+della lavorazione e del taglio del granito.  Ogni tre scalini un corto palo di
+quercia e' conficcato nella roccia a sorreggere un passamano di corda, per
+evitare che i piu' distratti precipitino nel vuoto.  Alcuni cespugli in fiore
+spezzano il costante soffio del vento che proviene dal mare.  Puoi salire in
+alto sull'orlo oppure scendere verso una piccola terrazza.    
+~
+66 8796093022208 4
+D0
+Una porta di legno.
+~
+porta~
+1 457686 40221 135
+D1
+Una porta di legno.
+~
+porta~
+1 659286 40223 135
+D2
+Una porta di legno.
+~
+porta~
+1 435572 40222 135
+D3
+Una porta di legno.
+~
+porta~
+1 817365 40353 135
+D4
+~
+~
+0 -1 6691 0
+D5
+~
+~
+0 -1 6693 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6693
+Una piccola terrazza.~
+   Su questa piccola terrazza naturale Otlas Otla costrui' la sua dimora ormai
+abbandonata, occasionalmente gli abitanti di Lamorka lasciano alcuni fiori
+sotto la LAPIDE eretta in sua memoria da Re Otak il Grande.  Puoi salire
+lungo gli scalini scavati nella roccia oppure scendere nella valle boscosa.  
+
+~
+66 8796093022208 4
+D0
+Una porta di legno.
+~
+porta~
+1 838229 40621 135
+D1
+~
+~
+0 -1 6708 0
+D2
+Una porta di legno.
+~
+porta~
+1 518953 40895 135
+D3
+Una porta di legno.
+~
+porta~
+1 138730 40244 135
+D4
+~
+~
+0 -1 6692 0
+D5
+~
+~
+0 -1 6694 0
+E
+lapide~
+   La lapide dice: Qui visse il piu' grande Architetto del Regno, armato solo
+di martello, di scalpello e del suo ingegno, strappo' alla roccia la bellezza
+che celava.  Sfido' le altezze piu' impervie per render la nostra vita piu'
+facile e comoda, dimentico del fatto che soffriva di vertigini.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6694
+Una valle boscosa.~
+   Gli scalini lungo la ripida parete rocciosa sono l'unica via d'accesso a
+questa valle di origine vulcanica circondata da inaccessibili pareti a
+strapiombo.  Il terreno fertile e la forte umidita' hanno favorito la crescita
+di un fitto e lussureggiante bosco.  Due sentieri erbosi si addentrano nel
+bosco e conducono alle dimore di alcuni residenti di Lamorka che hanno scelto
+di vivere in un luogo tranquillo, lontano dal caos della citta'.    
+~
+66 8796093022209 3
+D0
+Una porta di legno.
+~
+porta~
+1 589463 40376 135
+D1
+~
+~
+0 -1 6703 0
+D2
+Una porta di legno.
+~
+porta~
+1 876209 40388 135
+D3
+~
+~
+0 -1 6695 0
+D4
+~
+~
+0 -1 6693 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6695
+Un sentiero erboso.~
+   Il sentiero sceglie la sua via all'ombra degli alti alberi.  Con la coda
+dell'occhio vedi alcuni animaletti compiere rapidi movimenti in cerca di un
+riparo sicuro.  Una casa costruita in legno e pietra e' qui quasi completamente
+mimetizzata con la vegetazione locale.  Il sentiero prosegue ad est ed ovest.
+Alcuni gradini fatti con robuste assi di legno conducono in una conca.    
+~
+66 8796093022208 2
+D0
+Una porta di legno.
+~
+porta~
+1 693198 40154 135
+D1
+~
+~
+0 -1 6694 0
+D3
+~
+~
+0 -1 6696 0
+D4
+Una porta di legno.
+~
+porta~
+1 514150 40989 135
+D5
+~
+~
+0 -1 6700 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6696
+Un sentiero erboso.~
+   Il sentiero sceglie la sua via all'ombra degli alti alberi.  Il richiamo di
+un gufo per un attimo ti gela il sangue nelle vene.  Ma le mille voci del bosco
+che rispondono al canto del gufo riempendo l'aria di vita, ti fanno sorridere.
+Per fortuna che questo doveva essere un posto tranquillo lontano dal chiasso
+della citta'.  Il sentiero prosegue ad est ed ovest.    
+~
+66 8796093022208 2
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40595 0
+D1
+~
+~
+0 -1 6695 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40554 0
+D3
+~
+~
+0 -1 6697 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6697
+Un sentiero erboso.~
+   Qui il sentiero termina, enormi sequoie bloccano il tuo cammino.  All'ombra
+di questi secolari alberi vedi un giardino con cespugli di fragola selvatica ed
+una piccola casa circolare.  L'ingresso al giardino e' a sud ed il sentiero
+erboso conduce verso est.    
+~
+66 8796093022208 2
+D0
+Una porta di legno.
+~
+porta~
+1 854413 40724 135
+D1
+~
+~
+0 -1 6696 0
+D2
+~
+~
+0 0 6698 0
+D3
+Una porta di legno.
+~
+porta~
+1 704808 40322 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6698
+Un giardino di fragole selvatiche.~
+Le fragole selvatiche sparse nei cespugli sono molto piccole, eppure il loro
+profumo riempie l'aria invitandoti a raccoglierne qualcuna ed assaggiarne il
+sapore.  A sud del giardino vedi una piccola baracca circolare priva di
+finestre e di porte.  Quale pazzo mai sceglierebbe di vivere in una simile
+casa!?!    
+~
+66 8796093022209 3
+D0
+~
+~
+0 0 6697 0
+D1
+Una porta di legno.
+~
+porta~
+1 323443 40703 135
+D2
+~
+~
+0 -1 6699 0
+D3
+Una porta di legno.
+~
+porta~
+1 456779 40045 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6699
+&1La Taverna dei Sogni Spezzati&0~
+   Una luce che colora tutto ...&6 le forme ti si presentano come un film in
+bianco e nero ma sui toni dell'axxurro&0. I tavoli e le sedie sono vecchi,
+molto vecchi e rovinati ... ma non hai per niente paura.
+Sulla parete un camino nel quale brucia &6un fuoco axxurro ... la sua fiamma
+e' fredda ma non gela il tuo corpo ... e' solo la tua anima che trema brrrr!&0
+In questo luogo il passato ed il presente convivono e costruiscono il futuro
+un futuro fatto con pexxi di sogni infranti.
+~
+66 8 0
+D0
+~
+~
+0 -1 6698 0
+D3
+Una porta di legno.
+~
+porta~
+1 335503 40331 135
+D4
+~
+~
+0 0 40045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6700
+Una Conca.~
+   Sei tra un mucchio di pietre di varie grandezze ed ombre di grigio ed ebano.
+Un falco vola in alto, emettendo un tremante lamento.  Al centro della conca la
+base tagliata di un gigantesco albero perfettamente levigata mette in risalto
+centinaia di cerchi concentrici.  Forse questo ripiano verra' usato come
+altare, oppure per imbandire una ricca tavolata.  Chissa'?  Alcune case sono
+nascoste tra la fitta vegetazione ai lati della conca.    
+~
+66 8796093022208 5
+D0
+Una porta di legno.
+~
+porta~
+1 193153 40243 135
+D1
+~
+~
+0 -1 6702 0
+D2
+Una porta di legno.
+~
+porta~
+1 529034 40077 135
+D4
+~
+~
+0 -1 6695 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6701
+Sgabuzzino ~
+Un piccolo e stretto sgabuzzino seminterrato. Completamente spoglio d'ogni arredamento
+fatta eccezione per una &3rastrelliera&0 appesa alla parete est. L'unica fonte di luce e
+la grata di un lucernario che da sulla strada.
+~
+66 264 0
+D1
+Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+~
+pannello~
+1 3225 6705 23
+D3
+Una porta di legno
+~
+porta~
+1 6519 6743 7
+E
+rastrelliera~
+Una piccola impalcatura di legno con dei piccoli fori che possono alloggiare dei 
+grimaldelli. Puoi prenderne solo uno secondo le regole della gilda.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#6702
+Uno spiazzo nella conca~
+   Ti trovi in mezzo a quelle che assomigliano alle rovine di un'antica casa in
+pietra, sembra un insediamento molto antico.  Probabilmente si tratta di una
+delle prime dimore costruite in questa zona da uno dei primi abitanti di
+Lamorka.  Oramai pero' la struttura della vecchia casa s'intravede a malapena,
+evidentemente molte pietre devono essere state prelevate per costruire le
+piccole casette che vedi intorno sparse tra la vegetazione.    
+~
+66 8796093022208 1
+D3
+~
+~
+0 -1 6700 0
+D4
+Una porta di legno.
+~
+porta~
+1 450565 40960 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6703
+Un sentiero erboso.~
+   Il sentiero sceglie la sua via all'ombra degli alti alberi.  Ai lati del
+sentiero noti dei funghi dallo strano colore, meglio non toccarli servirebbe il
+consiglio di un bravo Erborista per decidere se aggiungerli nello stufato
+oppure lasciarli li dove si trovano.  Il sentiero prosegue ad ovest verso un
+largo spiazzo tra gli alberi.    
+~
+66 8796093022208 2
+D0
+Una porta di legno.
+~
+porta~
+1 610259 40300 135
+D1
+~
+~
+0 -1 6704 0
+D2
+Una porta di legno.
+~
+porta~
+1 371318 40498 135
+D3
+~
+~
+0 -1 6694 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6704
+Uno Spiazzo alberato.~
+   Un largo spiazzo circolare e' stato ricavato in questo punto del bosco.  Su
+alcuni telai di legno sono appese, pronte per essere conciate, pelli di orso e
+di lupo.  In alcune piccole gabbie vedi degli uccelli colorati e alcuni falchi.
+Nelle case ai lati dello spiazzo sicuramente vivono gli appartenenti alla Gilda
+dei cacciatori, e a giudicare dalle armi appoggiate accanto alle porte qui vive
+anche qualche cacciatore di taglie.    
+~
+66 8796093022209 3
+D0
+Una porta di legno.
+~
+porta~
+1 897351 40202 135
+D1
+~
+~
+0 -1 6706 0
+D3
+~
+~
+0 -1 6703 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6705
+Sgabuzzino~
+Un piccolo e stretto sgabuzzino interrato e percio' privo di finestre. La luce proviene 
+da una lampada ad olio appesa sul soffito sopra la parete ovest, ad illuminare un &3affresco&0.
+Una &3rastrelliera&0, unico mobilio della stanza e' appoggiata alla parete est.
+~
+66 264 0
+D3
+Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+~
+pannello~
+1 63914 6701 7
+D5
+Una botola nascosta sotto un asse del pavimento.
+~
+botola~
+1 72265 6713 23
+E
+rastrelliera~
+Una piccola impalcatura di legno con dei piccoli fori che possono alloggiare dei 
+grimaldelli. Puoi prenderne solo uno secondo le regole della gilda.
+~
+E
+affresco~
+Raffigura degli uomini intenti a spartirsi del denaro. Sotto l'opera  incisa una 
+massima degli alcioni:
+&3&bChi sa contare, ottiene sempre di piu'...&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#6706
+Una casa.~
+Con una piccola ristrutturazione potrebbe diventare una gran dimora.
+~
+66 8 0
+D0
+Una porta di legno.
+~
+porta~
+1 533635 40577 135
+D1
+Una porta di legno.
+~
+porta~
+1 664154 40203 135
+D3
+~
+~
+0 -1 6704 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6707
+Sotterraneo~
+Le pareti sono in roccia viva, hanno un profilo molto irregolare, tranne quella a nord
+che addirittura ospita un &3affresco&0. Sembra in effetti che qui sia stato svolto qualche 
+lavoro di architettura per rendere l'ambiente piu' accogliente, ma i risultati sono stati 
+piuttosto scarsi.La solita &3nicchia&0 e' stata ricavata sulla parte est, ma stavolta e' 
+piu' elegante ed elaborata.
+~
+66 425 0
+D0
+Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+~
+pannello~
+1 4641258 6713 7
+E
+nicchia~
+Una nicchia scavata nella roccia viva.
+L'interno e' rivestito di velluto nero.
+Sul muro intorno invece e' dipinta una
+&3&belaborata cornice dorata&0
+~
+E
+affresco~
+Raffigura degli uomini intenti in una partita di shangai. Il tavolo raffigurato  pieno di 
+bastoncini colorati &4blu&0, &1rossi&0,verdi e &3gialli&0, posti uno sopra all'altro.
+Sotto  incisa una massima degli Alcioni:
+&3&bUn alcione senza velocita' rischia di perder tutto.
+Un alcione senza pazienza rischia di non ottenere nulla.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21357
+T 21352
+#6708
+Una abitazione precariamente appollaiata sull'orlo~
+   Questa casa e' tenacemente avvinghiata all'orlo di pietra e fango e ti
+meravigli che le piogge ancora non l'abbiano trascinata via.
+Comunque, se un dio ti assicura che e' sicura, lo deve essere... giusto?
+Hai fiducia in noi, o no?
+~
+66 8 0
+D1
+Una porta di legno.
+~
+porta~
+1 492159 40295 135
+D3
+~
+~
+0 -1 6693 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6709
+Una dimora di pietra nera~
+Puoi affittare o comprare questa casa rivolgendoti al Comune.
+~
+66 8 0
+D0
+Una porta di legno.
+~
+porta~
+1 370099 40594 135
+D1
+~
+~
+0 -1 6690 0
+D2
+Una porta di legno.
+~
+porta~
+1 150611 40589 199
+D3
+Una porta di legno.
+~
+porta~
+1 627568 40304 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6710
+Un giardino di rose selvatiche~
+   Cespugli densi di rose spinose che crescono selvatiche, riempiono il
+giardino con lampi di colori bianchi e rossi.  C'e' uno spazio erboso al
+centro, circondato da liscie pietre nere, dove alcuni bambini stanno giocano.
+Questa e' una zona prestigiosa dove vivono ricchi commercianti e la nobilta' di
+Lamorka, ma nessuno di loro ha dimenticato il duro lavoro che gli ha permesso
+di raggiungere il meritato benessere.  Le case sono ben rifinite, solide e
+spaziose.    
+~
+66 0 2
+D0
+~
+~
+0 -1 6668 0
+D1
+~
+~
+0 -1 6712 0
+D2
+~
+~
+0 -1 6711 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6711
+Una dimora di pietra nera~
+Una casa ben tenuta e spaziosa.
+~
+66 8 0
+D0
+~
+~
+0 -1 6710 0
+D2
+Una porta di legno.
+~
+porta~
+1 931520 40436 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6712
+Una dimora di pietra nera~
+Una casa ben tenuta e spaziosa.
+~
+66 8 0
+D3
+~
+~
+0 -1 6710 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6713
+Sotterraneo~
+Ti trovi in un sotterraneo scavato nella roccia viva. Il passaggio e' molto stretto e le
+pareti irregolari, devi muoverti con cautela per non inciampare nei massi o non cadere nei 
+dislivelli del suolo. Una &3nicchia&0 e' stata scavata nella parete est.
+~
+66 425 0
+D2
+Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+~
+pannello~
+1 464125 6707 7
+D4
+Una botola incassata nel soffitto
+~
+botola~
+1 705181 6705 7
+E
+nicchia~
+Una piccola rientranza scavati con grezzi colpi di piccone.
+Ospita qualcosa al suo interno
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#6714
+Una dimora di pietra rossa~
+   Sei in una quieta, vuota abitazione di mattoni rossi.
+Occupata ora solo da alcuni ragni, sembra essere un buon
+luogo dove vivere e lavorare. Con danaro sufficiente forse
+qualche implementor potrebbe vendertela.
+~
+66 8 0
+D1
+~
+~
+0 -1 6680 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6715
+Un cancello inghirlandato~
+   Sei davanti ad un cancello sul quale una vite verde senza frutti si
+avviluppata.  Il cancello aperto ma il sentiero sembra poco trafficato.  Da qui
+vedi tra gli alberi i tetti della grande citt e in lontananza verso l'orizzonte
+la linea blu del mare.    
+~
+66 8796093022208 2
+D0
+~
+~
+0 0 6690 0
+D1
+Una porta di legno.
+~
+porta~
+1 155611 40179 135
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40167 0
+D3
+
+~
+~
+0 -1 6668 0
+D4
+Una porta di legno.
+~
+porta~
+1 635643 41032 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6716
+Una dimora di pietra nera~
+   Sei in una quieta, vuota abitazione di robusta arenaria nera.
+Occupata ora solo da alcuni ragni, sembra essere un buon
+luogo dove vivere e lavorare. Con danaro sufficiente forse
+qualche implementor potrebbe vendertela.
+~
+66 8 0
+D2
+~
+~
+0 -1 6678 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6717
+Una strada illuminata da lanterne dorate~
+   Qui la strada e' fiancheggiata da pioli con appese lanterne che emettono un
+alone dorato e dondolano nella brezza.  In questa zona tranquilla dove non sono
+graditi schiamazzi e rumori riposano i Funzionari della citta' cercando di
+dimenticare le enormi pile di pergamene che ancora devono vistare.    
+~
+66 8796093022208 1
+D0
+~
+~
+0 -1 6718 0
+D1
+Una porta di legno.
+~
+porta~
+1 841363 40113 135
+D2
+~
+~
+0 -1 6668 0
+D3
+Una porta di legno.
+~
+porta~
+1 407332 40139 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6718
+Un cerchio di lanterne dorate~
+   La strada finisce in una larga radura circolare, attorniata da pietre
+bianche e lanterne dorate che irradiano una luce brillante.  Qualche casa di
+pietra bianca, piccole ma sembrerebbero comode a giudicare.    
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 388050 40121 135
+D1
+~
+~
+0 -1 6720 0
+D2
+~
+~
+0 0 6717 0
+D3
+~
+~
+0 -1 6719 0
+D4
+Una porta di legno.
+~
+porta~
+1 275940 40248 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6719
+Una dimora di pietra bianca~
+   Una piccola abitazione e' stata ricavata da pietre di gesso bianche e 
+mattoni grigi. Non c'e' segno di vita. Senti, ciononostante, che questo
+potrebbe essere un luogo comodo dove vivere.
+~
+66 8796093022216 0
+D0
+Una porta di legno.
+~
+porta~
+1 658196 40227 135
+D1
+~
+~
+0 -1 6718 0
+D2
+Una porta di legno.
+~
+porta~
+1 780120 40230 135
+D3
+Una porta di legno.
+~
+porta~
+1 585324 40696 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6720
+Una dimora di pietra bianca~
+   Una piccola abitazione e' stata ricavata da pietre di gesso bianche e 
+mattoni grigi. Non c'e' segno di vita. Senti, ciononostante, che questo
+potrebbe essere un luogo comodo dove vivere.
+~
+66 8 0
+D0
+Una porta di legno.
+~
+porta~
+1 453013 40178 135
+D1
+Una porta di legno.
+~
+porta~
+1 101951 40177 135
+D2
+Una porta di legno.
+~
+porta~
+1 139146 40257 135
+D3
+~
+~
+0 -1 6718 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6721
+Un sentiero del largo carrello~
+   La strada che esce dalla citta' di Lamorka e' trafficata dai veicoli
+dei commercianti... e' un sentiero per carrelli larghi, o un sentiero largo
+per carrelli? Ad ovest, una foresta e' semi nascosta da una coltre
+di nubi.
+~
+66 0 2
+D1
+~
+cancellata~
+1 -1 6645 3
+D3
+~
+~
+0 -1 6727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6722
+Un sentiero non trafficato~
+   Una linea sottile di terreno che assomiglia appena ad un sentiero si
+infila tra le pietre grige.
+~
+66 0 2
+D1
+~
+~
+0 -1 6715 0
+D3
+~
+~
+0 -1 6723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6723
+Un sentiero non trafficato~
+   Una linea sottile di terreno che assomiglia appena ad un sentiero si
+infila tra le pietre grige.
+~
+66 0 2
+D0
+~
+~
+0 -1 6724 0
+D1
+~
+~
+0 -1 6722 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6724
+Un sentiero non trafficato~
+   Una linea sottile di terreno che assomiglia appena ad un sentiero si
+infila tra le pietre grige.
+~
+66 0 2
+D2
+~
+~
+0 -1 6723 0
+D4
+~
+~
+0 -1 6725 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6725
+Arrampicandosi su di una piccola scogliera alta e ripida~
+   Qualche nodoso albero che il vento ha torturato, ha curvato i suoi rami
+magri in archi verso est. C'e' poco di straordinario in questo luogo.
+E' abbandonato, e' solitario, ancora con zone particolarmente verdi alte e
+ripide e formano un altopiano proprio sopra di te. Ti chiama in un modo
+magico, ancora emette una caotica aura.
+~
+66 0 4
+D4
+~
+~
+0 -1 6726 0
+D5
+~
+~
+0 -1 6724 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6726
+La scogliera dell'uomo cieco~
+   La cima solitaria del colle e' coperta da una strana vegetazione
+verde, ed il solo suono e' quello del vento che fischia sopra la brughiera.
+Un'inquietante presenza di altri mondi ha fatto la sua casa su
+questa scogliera, gettando la sua malevolenza sul mondo mortale e
+dndo il suo nome alla scogliera.
+~
+66 0 2
+D5
+~
+~
+0 -1 6725 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6727
+Una radura circolare di querce ed aceri~
+   Il sentiero di pietra si apre su una radura piena di immondizia,
+circondata da querce larghe ed aceri con tronchi color del miele.
+A nord un cancello nero e' chiuso al rumore del mondo, e la strada
+continua verso est per la citta', e ad ovest svanisce in una nebbia che
+ricopre la foresta.
+~
+66 0 3
+D0
+~
+~
+0 -1 6728 0
+D1
+~
+~
+0 -1 6721 0
+D3
+~
+~
+0 -1 6748 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6728
+Il cancello nero del frutteto~
+Un piccolo cancello di ferro lavorato a fiori neri ed archi, oscilla lentamente
+a causa di un debole vento. Dietro, file di rovi nascondono il frutteto al
+tuo sguardo.
+~
+66 0 2
+D0
+~
+cancellata~
+2 6679 6729 11
+D2
+~
+~
+0 -1 6727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6729
+Il frutteto di more~
+   Rovi scuri con appesi delle bacche brillanti formano delle siepi,
+crescono allineate e protendono i loro viticci spinosi attraverso il
+tuo percorso. I rami si strascinano in basso, pesanti con frutta in
+un clima moderato. Muri alti di pietra proteggono questa pergola preziosa
+dal rumore distruttivo e pensieri di umani.
+~
+66 0 2
+D0
+~
+~
+0 -1 6730 0
+D2
+~
+cancello~
+2 23 6728 11
+D3
+~
+~
+0 -1 6732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6730
+Sotto una quercia nera e umida di pioggia~
+Una quercia larga, annodato dagli eoni che ha visto, e' in mezzo ad un
+cerchio di arbusti di more che sembrano formare un sudario protettivo
+di spine. Tralci di edera pendono sciolti dai suoi rami.
+Alcune immagini sono state intagliate sulla quercia.
+~
+66 0 2
+D0
+~
+~
+0 -1 6747 0
+D2
+~
+~
+0 -1 6729 0
+D3
+~
+~
+0 -1 6731 0
+E
+quercia~
+La quercia gigante e' ricoperta da muschio blu verde scuro ed
+edera. Alcune immagini sono state intagliate e incise con fieri tratti,
+una bella donna di una con un pugnale vermiglio appeso alla
+vita sta in piedi accanto a un uomo con la tunica del sacerdozio.
+Il vento freddo del mare dondola le vele della nave sulla quale sono.
+La donna canaglia implora un secondo uomo di distruggere una
+lontana bestia troppo grande le sue forze, un sorriso crudele gioca
+sulle labbra di lei.
+L'immagine e' ferma, immobile, sembra evidente che lei sta per
+vincere la battaglia. Sotto il disegno sono incise le parole:
+"Conosci i tuoi limiti."
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6731
+Il frutteto di more~
+   Rovi scuri con appesi delle bacche brillanti formano delle siepi,
+crescono allineate e protendono i loro viticci spinosi attraverso il
+tuo percorso. I rami si strascinano in basso, pesanti con frutta in
+un clima moderato. Muri alti di pietra proteggono questa pergola preziosa
+dal rumore distruttivo e pensieri di umani.
+~
+66 0 2
+D1
+~
+~
+0 -1 6730 0
+D2
+~
+~
+0 -1 6732 0
+D3
+~
+~
+0 -1 6746 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6732
+Il frutteto di more~
+   Rovi scuri con appesi delle bacche brillanti formano delle siepi,
+crescono allineate e protendono i loro viticci spinosi attraverso il
+tuo percorso. I rami si strascinano in basso, pesanti con frutta in
+un clima moderato. Muri alti di pietra proteggono questa pergola preziosa
+dal rumore distruttivo e pensieri di umani.
+~
+66 0 2
+D0
+~
+~
+0 -1 6731 0
+D1
+~
+~
+0 -1 6729 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6733
+Viale alberato~
+   E' un vero piacere camminare su questo stradone lastricato che attraversando
+il quartiere meridionale, porta direttamente al cuore di Lamorka, situato a
+nord di qui.  A sud infatti vedi le porte della citta'.    
+~
+66 0 1
+D0
+~
+~
+0 -1 6627 0
+D1
+~
+~
+0 0 6734 0
+D2
+~
+~
+0 -1 6846 0
+D3
+~
+parco~
+0 0 6889 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6734
+&6Corso dei Sigilli&0~
+   Una lunga strada lastricata con pietre perfettamente esagonali, frutto di
+mesi di lavoro, comincia qui la lastra di marmo incastonata nel muro del
+Palazzo Comunale ti indica che qui inizia Corso dei Sigilli, la nuova strada
+voluta da Re Otak in persona, dove e' racchiusa tutta la vita politica ed
+economica del Regno.  A fatica ti muovi attraverso il flusso di passanti che
+vanno su e giu' per il largo stradone fiancheggiato da due file di panchine
+messe li' per far fermare la gente a riposarsi e chiacchierare.  Un ingegnoso
+sistema di specchi e lanterne tiene degnamente illuminato il Corso anche di
+notte.  Guardando verso nord intravedi un edificio che ti incuriosisce molto:
+e' l'Ambasciata di Torre d'Avorio.  Verso sud, invece, si erge il nuovo
+edificio del Comune.    
+~
+66 0 1
+D0
+~
+~
+0 0 6669 0
+D1
+~
+corso~
+0 0 6765 0
+D2
+~
+~
+0 0 6680 0
+D3
+~
+~
+0 0 6733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6735
+Il cancello meridionale~
+   Sei davanti al cancello meridionale, forgiato con ornamenti in ferro nero e
+coperto con edera.  Dietro ad esso, distante giorni, le montagne di vetro nero
+sono avvolte da una grande foresta verde.  A nord c'e' la citta' di Lamorka,
+che si estende in tutta la sua maestosita'.    
+~
+66 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6736
+Una brutta scala~
+Una scala scende in un passaggio dove strisciano i ratti ed odora di...
+la tua immaginazione non necessita di incoraggiamenti.
+~
+66 24 0
+D0
+~
+~
+0 -1 6737 0
+D4
+~
+~
+0 0 6601 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6737
+Uno scuro passaggio~
+   Scivoli cautamente nell passaggio. Il muro e' punteggiato da grandi
+buchi, ampi abbastanza per un grande ratto... o qualcosa d'altro...
+che puo' passare con facilita'.
+Un puzzo fetido scende da sopra di te fra i buchi. Il passaggio continua
+a sud e ad est nel buio.
+~
+66 24 0
+D1
+~
+~
+0 -1 6738 0
+D2
+~
+~
+0 -1 6736 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6738
+Uno scuro passaggio~
+   I tuoi piedi scivolano come le scarpe calpestano della sostanza sgradevole
+sul pavimento fangoso... sterco? Solo un'ispezione con migliore luce lo
+dira'. ad est il passaggio si inclina in una pozza scura, e scompare ad
+ovest nell'oscurita'.
+~
+66 24 0
+D1
+~
+~
+0 -1 6739 0
+D3
+~
+~
+0 -1 6737 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6739
+Camminare a fatica attraverso una pozza di limo~
+   Il passaggio scuro si inclina in una pozza di prosciugamento
+delle strade di citta', che cola attraverso fessure sopra di te e ti bagna
+i capelli con limo. C'e' una sensazione misteriosa in questo luogo,
+come se solo pochi e privilegiati siano i benvenuti qui.
+~
+66 24 0
+D1
+~
+~
+0 -1 6740 0
+D3
+~
+~
+0 -1 6738 0
+D4
+~
+~
+0 -1 6745 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6740
+Un passaggio con pugnali appesi~
+   La sala scura del sottosuolo finisce qui davanti una alta, stretta
+porta di quercia robusta, sfregiata con pugnali. Il suolo e' bagnato
+da uno scuro fluido... limo degli stivali di qualcuno? Naturalmente.
+Un emblema circolare e' appeso sulla porta.
+~
+66 24 0
+D1
+~
+porta~
+1 -1 6741 3
+D3
+~
+~
+0 -1 6739 0
+E
+emblema~
+...
+Un emblema del naga nero che insegue la sua coda e' inciso
+in un cremisi contorno sulla spessa porta di quercia.
+Sotto, qualche cosa e' stato scarabocchiato da un pugnale.
+...
+Rotondo la forca, uno armato e gentile
+Balliamo e balliamo, il nastro proprio del diavolo
+Di banditi accorti.
+Lascia che a nessun criminale manchi la sua testa.
+Non c'e' nessuno convento qui, dico, sei morto.
+...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6741
+Una sala nella Gilda degli Alcioni~
+   Sei nel largo, scuro atrio della Gilda degli Alcioni. Sul
+soffitto appare un murale gigantesco del naga simile ad un serpente nero,
+un modello di furtivita' ed intelligenza, nella sua tenuta blu e nero.
+Un elegante tavolo e' contro il muro, sul quale sono posati una semplice
+stoffa nera ed alcuni pugnali.
+~
+66 24 0
+D0
+~
+~
+0 -1 6744 0
+D1
+~
+~
+0 -1 6742 0
+D3
+~
+porta~
+1 -1 6740 3
+D5
+~
+botola~
+1 467 6743 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6742
+Il Covo dell'Alcione~
+   Il covo degli Alcioni e' notevolmente comodo.  Benche' non ci sia riparo dal
+sangue e dal rischio della loro esistenza quotidiana, e' ciononostante un posto
+nel quale la generosita' ed il riposo possono essere condivisi.  Da un caldo
+focolare pendono i pugnali della gilda, pieni di abilita' ed affusolati.  Un
+bar incavato nel lontano muro della pietra assiste alla tua destrezza...  
+Cosi' si dice...  E cuccette sono ad est.    
+~
+66 28 0
+D2
+~
+~
+0 0 28062 0
+D3
+~
+~
+0 -1 6741 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6743
+Un nascondiglio segreto~
+  Scivoli giu' nel nascondiglio.  Una stanza piacevole, senza finestre,
+sconosciuta alla popolazione.  Qui puoi trovare il primo essenziale
+equippaggiamento per affrontare i pericoli del mondo, la maggior parte dei
+quali sarai tu a creare...  Lascia qui quello che non ti serve e pensi possa
+servire ad un tuo fratello Alcione.    
+~
+66 28 0
+D1
+Una porta di legno
+~
+porta~
+1 201 6701 7
+D4
+~
+botola~
+1 -1 6741 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 21352
+#6744
+Accanto a una fila di spine dorsali~
+   Qui e' dove i vagabondi di Lamorka vengono guadagnare e migliorare
+le loro abilita' nei mestieri. Una fila di spine dorsali di precedente
+vittime coprono il muro est, sfregiate coi pugnali di innumerevoli
+ladri. Devi viaggiare lontano in cerca di abilita' migliori, ma la maestra
+e' disposta ad istruire i nuovi venuti.
+~
+66 24 0
+D2
+~
+~
+0 -1 6741 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6745
+Passi sulla pietra sdrucciolevole~
+   L'oscurita' di un'umida scala ti attanaglia. Lo sgocciolio e i suoni
+attutiti di limo strisciante giu' per i muri sono appena udibili sotto i rumori
+del tuo respiro. La' sembrano esserci tracce di piedi nel limo...
+evidentemente questo serve come passaggio segreto, regolarmente usato, ad
+alcuni individui di natura ombrosa.
+~
+66 24 0
+D4
+~
+~
+0 0 6620 0
+D5
+~
+~
+0 -1 6739 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6746
+Il cancello nero del frutteto~
+Un piccolo cancello di ferro lavorato a fiori neri ed archi, oscilla lentamente
+a cauda di un debole vento. Dietro, file di rovi nascondono il frutteto al
+tuo sguardo.
+~
+66 0 2
+D1
+~
+~
+0 -1 6731 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6747
+Il cancello nero del frutteto~
+Un piccolo cancello di ferro lavorato a fiori neri ed archi, oscilla lentamente
+a cauda di un debole vento. Dietro, file di rovi nascondono il frutteto al
+tuo sguardo.
+~
+66 0 2
+D2
+~
+~
+0 -1 6730 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6748
+Un sentiero del largo carrello~
+   La strada che esce dalla citta' di Lamorka e' trafficata dai veicoli
+dei commercianti... e' un sentiero per carrelli larghi, o un sentiero largo
+per carrelli? Ad ovest, una foresta e' semi nascosta da una coltre di nubi.
+~
+66 0 2
+D1
+~
+~
+0 -1 6727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6749
+Un angolo poco illuminato~
+   Questo angolo e' illuminato da un'unica candela al centro del tavolo.  Qui
+la musica non arriva, cosi' gli avventurieri piu' sfortunati possono nascondere
+la propria vergogna affogandola in galloni di spiriti liquidi, sperando di
+rimanere abbastanza sobri per non essere derubati da qualche ladro di
+passaggio.    
+~
+66 9 0
+D3
+~
+~
+0 -1 6649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6750
+La Loggia dei Genidian~
+   La loggia dei Genidian e' un luogo notevolmente comodo, fornito di un
+tappeto spesso, di un ardito rosso cosi' scuro che e' quasi nero, letti sono
+allineati in cuccette di quercia, un focolare ruggisce nell'angolo.  Molte
+grandi sedie imbottite di lana comune sono situate attorno al fuoco.    
+~
+66 8 0
+D0
+~
+~
+0 -1 6751 0
+D1
+~
+~
+0 -1 6652 0
+D3
+~
+~
+0 0 6757 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6751
+Un portale rosso~
+   Sei al centro di un bagliore brillante di un portale di rosso
+profondo. Questo e' il dono del Precettore dei Pandion alla gilda
+dei Genidian, come ricompensa per certi favori, naturalmente.
+Dietro lo sfolgorio vedi il cortile del tempio, il centro della citta',
+ad ovest.
+~
+66 8 0
+D2
+~
+~
+0 -1 6750 0
+D3
+~
+~
+0 -1 6601 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6752
+Un portale nero~
+   Sei al centro di un bagliore brillante di un portale di luce nera.
+Questo e' il dono del Precettore dei Pandion alla gilda degli Alcioni,
+come ricompensa per certi favori, naturalmente. Mai ti meravigli che
+ha messo l'Earl di Lamorka al potere?... Sia mai! Dietro il buio
+sfolgorio vedi il cortile del tempio, il centro della citta', sopra di te.
+~
+66 8 0
+D4
+~
+~
+0 -1 6601 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6753
+Il Santuario~
+   Tra queste mura i devoti Cyrinic pregano gli Dei per una gloriosa giornata.
+Un semplice altare occupa il centro della stanza mentre su parecchi scrittoi
+poggiamo libri di fede destinati a coloro che vogliono ricordare le gesta dei
+propri antenati.  Alcune piccole celle scavate nella pietra servono ai
+cavalieri per meditare sul lor
+~
+66 24 0
+D0
+~
+~
+0 -1 6662 0
+D1
+~
+~
+0 -1 6754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6754
+Un portale bianco~
+   Stai facendo il bagno nel bagliore di un portale di luce bianca.
+Questo e' il dono del Precettore dei Pandion alla gilda dei Cyrinic,
+come ricompensa per certe benedizioni, naturalmente. Dietro il
+pallido sfolgorio vedi il cortile del tempio, il centro della citta',
+sotto di te.
+~
+66 8 0
+D3
+~
+~
+0 -1 6753 0
+D5
+~
+~
+0 -1 6601 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6755
+Il Nascondiglio dei Pandion~
+   Il nascondiglio dei Pandion e' un comodo luogo, bene illuminato da una rosa
+magica e magici fuochi viola per la lettura di tomi.  C'e' un tappeto coi
+colori della gilda di blu e violetta, ed amache pendono in fila, dove i Pandion
+riposano le stanche membra.  Una serie di scaffali provvede alla letteratura,
+ed un tavolo di quercia davanti un divano domina la stanza.  Qui i Pandion
+trovano anche il primo equipaggiamento fornito dalla gilda, preziosissimo per
+sopravvivere ai primi duri tempi di cavalierato.    
+~
+66 28 0
+D0
+~
+~
+0 -1 6618 0
+D5
+~
+~
+0 -1 6756 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6756
+Un portale blu~
+   Sei nel mezzo del magico bagliore di un portale di luce brillante blu.
+Questo e' il dono del vecchio Precettore dei Pandion alla propria gilda.
+Ha continuato a forgiare portali tutt'intorno nel mondo noto, davanti
+all'Assassino della Signora ha estinto la sua vita.
+Dietro il blu sfolgorante vedi il cortile del tempio, il centro della citta'.
+~
+66 8 0
+D2
+~
+~
+0 -1 6601 0
+D4
+~
+~
+0 -1 6755 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6757
+La sala delle sfide~
+   Scudi ed altri articoli di araldica fiancheggiano i muri di pietra incavati
+della stanza delle sfide.  Mentre per non essere fraintesi, le teste dei nemici
+sono accatastate una sopra l'altra su un piolo di legno levigato nell'angolo.
+Se hai intenzione di migliorare le tue abilita' nell'arte della guerra, questo
+potrebbe essere un buon luogo dove cominciare.  Inoltre qui intorno puoi
+utilizzare il primo prezioso equipaggiamento che la gilda ti mette a
+disposizione.  Usalo con accortezza e sa hai qualcosa che pensi possa tornare
+utile a qualcun'altro lascialo pure qui.    
+~
+66 8 0
+D1
+~
+~
+0 0 6750 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6758
+La tesoreria della citta'~
+   La stanza della tesoreria e' semplice ed adornata solo da alcuni ritratti di
+notabili e benefattori della citta'.  Fra di essi spicca un grande ritratto del
+Sovrano di Lamorka.  Una grandissima quantita' di beni della citta' e' qui
+protetta da magici schermi impenetrabili.    
+~
+66 12 0
+D1
+~
+~
+0 -1 6638 0
+E
+pila~
+Non puoi avvicinarti di piu'. Uno schermo protettivo ti devia la mano se
+provi ad allungarla sui beni della citta', come se ci fosse uno schermo
+d'acciaio. Comunque, puoi aprire il tuo conto proprio per depositare un po' di
+soldi. Se vuoi conoscere l'ammontare del tuo conto, digita balance, 
+se vuoi prelevare digita withdraw (quantita').
+~
+E
+coins~
+Non puoi avvicinarti di piu'. Uno schermo protettivo ti devia la mano se
+provi ad allungarla sui beni della citta', come se ci fosse uno schermo
+d'acciaio. Comunque, puoi aprire il tuo conto proprio per depositare un po' di 
+soldi.
+Se vuoi conoscere l'ammontare del tuo conto, digita balance, se vuoi prelevare
+digita withdraw (quantita').
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6759
+Il Carro~
+   Questo ampio locale e' un negozio dove puoi vendere e acquistare vari mezzi
+di trasporto delle merci.  Per ora sono disponibili solo gli esemplari piu'
+semplici ma col tempo nuovi prototipi accenderanno la tua curiosita'.    
+~
+66 12 0
+D1
+~
+~
+0 -1 6636 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6760
+Manufatti in Legno~
+   Completamente costruito con svariate qualita' di legno, questo piccolo
+negozietto acquista e rivende i prodotti finiti dei falegnami.  Due piccole
+ante socchiuse lasciano intravedere la strada principale sempre affollata ma
+quasi magicamente queste pareti trattengono fuori ogni rumore.    
+~
+66 156 0
+D3
+~
+~
+0 0 6639 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6761
+Ago e Filo~
+   Questo locale di nuova costruzione si impone su uno degli incroci piu'
+frequentati della citta'.  Appena poco a sud infatti il parco e' il luogo dove
+molti si ritrovano per trascorrere alcuni momenti seduti sulle panchine e, se
+la professione lo consente, per completare le proprie rifiniture ai vestiti che
+piu' tardi venderanno proprio qui.    
+~
+66 140 0
+D3
+~
+~
+0 0 6636 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6762
+Il Palazzo dei Primi del Granduca di Hur~
+   Il grosso portone d'entrata fa accedere a questa spaziosa sala quadrata.
+Il pavimento e' di lucidissimo marmo nero. Sulla parete di fronte a te,
+incastonate nel muro, ci sono delle lettere di un argento splendente che
+compongono la scritta &7SEMPER PRIMIS&0 e sotto di essa si apre una porta
+che conduce alla camerata dei &8Primi&0.
+Il grosso stemma del regno di Sendaria campeggia sulla parete alla tua
+sinistra, con ai piedi la scritta 'honore et veritas'.
+Alla tua destra la porta, sotto lo stemma del Lupo, conduce all'ufficio
+di &7 Ray McCoy&0
+~
+66 1125899906845188 0
+D0
+~
+porta~
+0 0 6764 0
+D1
+~
+porta~
+0 0 6763 0
+D2
+Una porta di legno.
+~
+porta~
+1 627328 6765 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6763
+&b&7L'ufficio di Ray McCoy&0~
+   Questa stanza trasmette sfarzo e tranquillita'. Alle pareti sono appesi
+alcuni dipinti che raffigurano i paesaggi familiari della terra di Sendaria.
+Fra di essi, alle spalle della scrivania, campeggiano incorniciate d'oro
+due cartine disegnate dall'Ambasciatore Galadriel in persona. Una raffigura
+il Regno di Sendaria, l'altra la Daresia tutta.
+L'ufficio del Lord dei Primi, e un posto in cui si prendono
+alcune delle decisioni piu' importanti che muovono il regno, sebbene abbia
+l'aria di un comodo e accogliete salottino.
+~
+66 2560 0
+D3
+~
+porta~
+0 0 6762 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6764
+&7La stanza comune dei Primi&0~
+   Il grande stanzone atto ad ospitare e intrattenere i membri del corpo
+dei Primi, ha le pareti coperte da un'imponente affresco, che raffigura
+la citta' di Lamorka: il castello del Re arroccato sulla collina da cui
+discende il resto della citta' fino al porto. Fra le pareti degli edifici
+di solida roccia spicca alta, bianca e luminosa l'Ambasciata di Torre
+d'Avorio.
+~
+66 1125899906845184 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40950 0
+D1
+~
+~
+0 0 40678 0
+D2
+~
+porta~
+0 0 6762 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40679 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6765
+&6Corso dei Sigilli&0~
+   Sebbene lo stile di costruzione qui sia simile al primo tratto del Corso,
+questa zona sembra essere stata costruita piu' di recente.
+Qui si allarga in una piazzetta al cui centro sorge un monumento in marmo che
+rappresenta tre forti guerrieri armati di spade e corazzati. Ai piedi
+del monumento una targa laccata d'argento recita: &6Talador, Ramku e
+Yaemon - I Guerrieri Invincibili&0.
+A nord, proprio di fianco alla stupenda Ambasciata di Torre d'Avorio, puoi
+vedere il Palazzo dei Primi, residenza di Ray McCoy
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 627328 6762 135
+D2
+~
+~
+0 0 7071 0
+D3
+~
+corso~
+0 0 6734 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6766
+&1Il retrobottega&0~
+   Nel retrobottega della macelleria, il garzone si da' da fare a preparare
+i pezzi delle carni che vengono vendute dai cacciatori. La stanza e' pulita
+e non poca inquietudine ti viene dai grossi coltelli che vedi riposti sul 
+banco di marmo difronte a te.
+~
+66 140 0
+D3
+~
+macelleria~
+0 0 6642 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6767
+&1Ai &b2&0 &1colpi &1&bd'Ascia&0~
+   Ti trovi nella famosa segheria di Tazio Braccio Pesante, un tempo umile
+tagliaboschi divenuto un mito per aver abbattutto una quercia secolare con due
+soli colpi della sua potente ascia (almeno questo raccontano le leggende).  
+Ritiratosi a vita piu' tranquilla Tazio ha aperto la sua attivita'.  Qui
+entrano tronchi, ciocchi e rami provenienti da tutte le foreste di Sendaria ed
+escono assi pali e travi della miglior qualita'.    
+~
+66 140 1
+D0
+~
+~
+0 0 6768 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6768
+Via dei Mestieri~
+In allestimento.
+~
+66 0 1
+D1
+~
+~
+0 0 6791 0
+D2
+~
+~
+0 0 6767 0
+D3
+~
+~
+0 0 6799 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6769
+La capanna~
+   Sei nella capanna dei selvaggi Peloi.  Qui puoi trovare sparso il primo
+utile equipaggiamento per affrontare il mondo la' fuori.  Quando vuoi donare
+qualcosa ai tuoi compagni portalo qui, magari quello che a te non serve piu'
+puo' salvare la vita di un'altro.    
+~
+66 24 0
+D1
+~
+~
+0 -1 6786 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6770
+La palestra dei newbie~
+   Inizia qui un area dedicata all'apprendimento dei rudimenti di battaglia.
+Coloro che non hanno esperienza possono acquisirla qui per poter vivere qualche
+giorno in piu' se non altro.
+Alcuni cartelli con importanti consigli sono appesi alle pareti. 
+Se siete nuovi in queste selvagge terre sarebbe una buona idea leggerli 
+attentamente, prima di procedere oltre.
+Vedi un cartello ROSSO e uno VERDE (guarda rosso/verde).
+~
+66 8 1
+D1
+~
+~
+0 -1 6772 0
+D4
+~
+~
+0 -1 6661 0
+E
+cartello rosso~
+   Se volete proseguire lungo il corridoio buio e' necessario che prima 
+acquistiate delle torce o delle lanterne se non ne avete in inventario.
+Per far questo recatevi al negozio La Grande Borsa di Hawk situato nell'angolo
+NordEst della citta', esplorando un po' lo troverete facilmente. Una volta li' 
+fate LIST e poi COMPRA <nome oggetto>. Facile no!!! 
+Ah non dimenticate AFFERRA <nome oggetto> per accendere la luce!
+    Firmato: Hawk eh eh eh !!!
+~
+E
+cartello verde~
+   Visto che in questo mondo si puo' morire di fame o di sete vi consigliamo
+vivamente di riempire la vostra borraccia ad una delle bellissime fontane
+della citta'(RIEMPI borraccia fontana), e di fare scorta di provviste al negozio
+Il Cesto del Pane situato a sud del Negozio di Hawk.
+    Firmato: Il Fornaio :D
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6771
+Una scala~
+      La vecchia scala termina la sua discesa qui, ed un passaggio singolo,
+piomba nell'oscurita' buia come inchiostro, ad est. Continui, o torni indietro? 
+A volte il buio puo' formare una scogliera di grande pericolo nei meandri 
+dell'immaginazione.
+~
+66 9 0
+D1
+~
+~
+0 -1 6773 0
+D4
+~
+~
+0 -1 6772 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6772
+Un corridorio buio~
+   Questa zona e' infestata da strani Fantasmi. Si invitano i nuovi abitanti
+della citta' a prodigarsi nel tentativo di elimarli. 
+Re Otak il Grande ne sara' lieto.
+~
+66 9 0
+D3
+~
+~
+0 -1 6770 0
+D5
+~
+~
+0 -1 6771 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6773
+Un corridoio buio~
+   Affreschi sbiaditi dal tempo adornano le pareti di questo corridoio; 
+su uno di essi e' ancora riconoscibile l'immagine di un enorme Orso che assume
+le sembianxe di un uomo.
+Un cumulo di pietre preziose e gioielli e' accatastato al centro del corridoio. 
+Cerchi di afferrarne qualcuno ma ti accorgi che hanno la consistenza di un miraggio.
+
+~
+66 9 0
+D1
+~
+~
+0 -1 6774 0
+D3
+~
+~
+0 -1 6771 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6774
+Un atrio buio~
+   L'atrio curva duramente, andando a sud e ad ovest. Nessuna luce
+arriva da quelle direzioni, cosi' come sempre la domanda di dove vuoi
+andare dipende da dove sei stato. 
+A Nord vedi una porta chiusa su cui e' affisso un AVVISO.
+
+~
+66 9 0
+D0
+~
+porta~
+1 -1 6784 3
+D2
+~
+~
+0 -1 6775 0
+D3
+~
+~
+0 -1 6773 0
+E
+avviso~
+   Vi consigliamo di non entrare se non muniti di una forte dose di coraggio.
+(apri porta).
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6775
+Una Scala a chiocciola~
+   Una tortuosa scala a chiocciola in ferro battuto, ormai arrugginita, 
+scende in una stanza ancora piu' buia. Speriamo che tu ti sia ricordato
+di portare qualche torcia in piu'!
+~
+66 9 0
+D0
+~
+~
+0 -1 6774 0
+D5
+~
+~
+0 -1 6776 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6776
+Una Stanza ancora piu' buia~
+   Qui molti piani sotto terra l'umidita' dell'aria penetra fin dentro 
+il midollo delle ossa. Tuttavia la stanza e' stranamente calda e questo 
+ti permette di sopportare ogni altro disagio.
+Alcuni funghi di pallido color grigio crescono in questo luogo fin quasi 
+a sfiorare il soffitto.
+~
+66 13 0
+D2
+~
+~
+0 -1 6778 0
+D4
+~
+~
+0 -1 6775 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6777
+Una stanza vuota~
+   Questa stanza e' completamente vuota. Non c'e' proprio niente.
+Nessun disegno sulle pareti, nessun ornamento al soffitto, il pavimento 
+e' piatto e scuro.
+Solo un'ISCRIZIONE su una roccia le cui prime parole sono:
+'' Se vuoi sapere cos'e' una Quest leggi qui''. (guarda iscrizione)
+
+~
+66 9 0
+D0
+~
+~
+0 -1 6778 0
+D1
+~
+~
+0 -1 6779 0
+E
+iscrizione~
+gorIdroL  :otamriF
+anutroF anouB e otnemitrevid nouB 
+.tseuQ aunitnoc anu es rep id 'e alilaD adrocir aM 
+.arocna ortla de erarepucer ad itteggo ,ereipmoc ad inoissim ,erevlosir ad imginE 
+.ias ol 'aig ereggel a icseir eS
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6778
+Le terme~
+   Al centro di questa sala c'e' un enorme vasca, un tempo colma di calde acque
+termali in cui gli abitanti della citta' venivano a ristorarsi. Prosciugata la 
+sorgente la zona e' stata abbandonata, e l'enorme vasca e' oggi vuota, resta solo 
+la fedele riproduzione in marmo di un Brigantino da guerra al centro della vasca.
+
+~
+66 9 0
+D0
+~
+~
+0 -1 6776 0
+D1
+~
+~
+0 -1 6780 0
+D2
+~
+~
+0 -1 6777 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6779
+Il giardino d'inverno~
+   Vasi rotti e piante ormai fossilizzate dallo scorrere del tempo, sono cio' 
+che resta di questo luogo che  ospitava le piante piu' belle e stravaganti 
+della Daresia. La luce del sole che forma un cerchio splendente al centro 
+della sala, giunge qui attraverso un pozzo scavato nel soffitto, e nutre la 
+debole vita di alcuni muschi e non poche muffe.   
+~
+66 9 0
+D0
+~
+~
+0 -1 6780 0
+D3
+~
+~
+0 -1 6777 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6780
+La sorgente termale~
+   Da una fenditura nella roccia che vedi sulla parete nord, un tempo sgorgava 
+calda acqua mista a vapore, proveniente dalle profondita' del suolo. I minerali 
+disciolti conferivano all'acqua proprieta' curative, per questo il Re decise di 
+costruire le Terme oggi in abbandono.
+Solo alcune gocce d'acqua scivolano lungo la roccia, e qualche raro sbuffo di vapore. 
+
+~
+66 9 0
+D2
+~
+~
+0 -1 6779 0
+D3
+~
+~
+0 -1 6778 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6781
+La Zecca del Regno~
+   Sei all'interno della zecca di Stato dove i lingotti in oro e argento
+vengono fusi per coniare moneta sonante destinata a riempire le casse del
+Regno.  Qui puoi vendere i tuoi lingotti e partecipare cosi alla crescita
+economica della tua patria.  Alcuni addetti stanno facendo gli ultimi
+preparativi in attesa che un funzionario del Regno venga a dare l'ordine di
+coniare e naturalmente a controllare il corretto andamento dell'operazione.  
+~
+66 1649267441804 0
+D2
+Una porta di spesso metallo.
+~
+porta~
+2 -1 6635 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6782
+La Grande Borsa~
+Questa bottega,gestita direttamente dal Re,vende mercanzie utili e anche
+rare se sei fortunato.  Gli scaffali sono pieni di cianfrusaglie di ogni
+genere,pigne di scatoloni spuntano da una grande arcata che da' sul retro e
+sacchi stracolmi di oggetti nuovi e usati riempiono ogni angolo.  Sembra
+impossibile non trovare qui quello che si cerca.  L'unico problema e' il
+prezzo. 
+~
+66 140 0
+D3
+~
+~
+0 0 6634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6783
+Una strada acciottolata~
+   Sei in piedi fuori dal cancello meridionale della citta' di Lamorka.
+Le mura sono alte abbastanza da rendere la citta' sicura.
+Il mormorio della vita cittadina puo' essere sentito al di la' di esso.
+A sud la strada acciottolata attraversa un incrocio e scompare in un bosco
+scuro.
+~
+66 0 2
+D0
+~
+cancellata~
+1 6679 6735 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6784
+La stanza buia~
+   Alcune macchie di sugo impiastrano i muri e dense nubi di vapore ti offuscano
+la vista. Fa un caldo insopportabile e manca l'aria, sembra di essere in una sauna.
+~
+66 9 0
+D2
+~
+porta~
+1 -1 6774 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6785
+Utensili da lavoro~
+Questo piccolo negozietto appoggiato alla libreria vende tutti gli utensili
+necessari per lavorare.  Il costo e' molto contenuto perche' il Regno si
+prodiga per avere una forte economia e nello stesso tempo cittadini
+soddisfatti.  Punta alla qualita' del tuo lavoro e il successo sara'
+garantito!!
+&7Fare list attrezzo per vedere gli attrezzi disponibili&0
+~
+66 274877906972 0
+D1
+~
+~
+0 0 6607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6786
+Gilda dei Peloi~
+   Sei nella Gilda dei Peloi.  La stanza e' completamente spoglia, solo qualche
+cuscino in terra.  Alcune lance sono riposte nella rastrelliera.  Questa e' la
+vita dei Peloi: loro e la natura da soli.  Niente comodita'.  La vita dedicata
+all'esplorazione di luoghi selvaggi e mai raggiunti prima dove solo loro
+possono sopravvivere.  Nascere Peloi non e' una scelta, e' una sfida.    
+~
+66 24 0
+D0
+Vedi l'entrata della gilda.
+~
+~
+0 -1 6672 0
+D3
+~
+~
+0 0 6769 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6787
+La locanda dei Sogni Immaginari~
+   Sei nella locanda dei Sogni Immaginari. Qui la gente va' e viene
+cercando dimora per la notte.
+~
+66 152 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6788
+Locanda dei Sogni Immaginari~
+   Sei nella principale taverna di Lamorka.  L'ambiente e' caldo e
+confortevole.  Nell'atrio diversi mercanti borbottano di qualche genere di
+prodotto.  Seppur non sfarzosa questa locanda e' rinomata per l'attenzione
+verso gli stanchi viaggiatori.    
+~
+66 12 0
+D2
+Vedi i giardini del Tempio.
+~
+~
+0 0 6606 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia:
+
+
+      C\    /J\
+      | \  /   \
+      |  D      L
+      |         |
+      Ch        |
+      \____/\___|
+             
+    [D]  Stazione di Deira
+    [J]  Stazione di Jiroch
+  * [L]  Stazione di Lamorka
+    [Ch] Stazione di Chyrellos
+    [C]  Stazione di Cimmura"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le 5 citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6789
+Stazione orientale di Lamorka~
+Questa e' la stazione orientale della citta' di Lamorka. Qui regolarmente
+fa sosta la carrozza che fa' servizio di trasporto in tutte le citta' della
+Daresia. L'arrivo e la partenza sono annunciate dal personale della
+stazione. Sulla parete c'e' una mappa.
+~
+66 8 0
+D4
+~
+~
+0 -1 6633 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia (seconda linea):
+
+
+           /J\
+          /   \
+         D      R
+        /       |
+      K         |
+      \____/\___L
+             
+    [D]  Stazione meridionale di Deira
+    [K]  Stazione di Kerofk
+ *  [L]  Stazione orientale di Lamorka
+    [R]  Stazione di Roma
+    [C]  Stazione orientale di Jiroch"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6790
+Via dei Mestieri~
+   Sei su una delle principali strade di Lamorka.  Qui la gente si agita e
+grida per vendere la propria merce.  Ovunque guardi vedi solo bancarelle,negozi
+e ambulanti.  Sei nel vivo del commercio.  Verso est scorgi una piazza.    
+~
+66 0 1
+D0
+~
+~
+0 0 6792 0
+D1
+~
+~
+0 0 6620 0
+D2
+~
+~
+0 0 6793 0
+D3
+~
+~
+0 0 6791 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6791
+Via dei Mestieri~
+   Sei sempre in una delle vie piu' importanti di Lamorka.  Qui infatti si
+svolgono i principali mestieri che permettono poi ai negozi di avere ottima
+mercanzia per ogni gusto.  Se cerchi un lavoro questo e' il posto che fa per
+te.    
+~
+66 0 1
+D0
+~
+~
+0 0 6794 0
+D1
+~
+~
+0 0 6790 0
+D2
+~
+~
+0 0 6795 0
+D3
+~
+~
+0 0 6768 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6792
+La Forgia di Re Otak~
+   Questo ambiente caldo e' dovuto alla presenza di molti forni ad altassima
+temperatura.  Del resto non potrebbe essere altrimenti, ti trovi nella forgia
+di Lamorka dove puoi lavorare i tuoi metalli grezzi.    
+Vedi un AVVISO legato sopra un forno.
+~
+66 2097164 0
+D2
+~
+~
+0 0 6790 0
+D3
+~
+~
+0 0 6794 0
+E
+avviso~
+Holda il martello.
+Assicurati di avere in inventario parecchie pietre grezze di metallo.
+Digita LAVORA PIETRA
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6793
+La Falegnameria di Re Otak.~
+   Decine e decine di tronchi accatastati lungo i muri sono il principale
+arredamento del locale insieme agli arnesi per lavorarli.  Qui puoi tagliare i
+tronchi per poi lavorarli in carpenteria.    
+Un AVVISO e' affisso al muro.
+~
+66 8388620 0
+D0
+~
+~
+0 0 6790 0
+D3
+~
+~
+0 0 6795 0
+E
+avviso~
+Con l'ASCIA in manovai nelle foreste e trova alberi da tagliare.
+Torna qui coi tronchi e afferrando la SEGA lavora i tronchi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6794
+Il Fabbro di Re Otak.~
+   Qui il caldo e' ancora piu' intenso se possibile.  Le ampie finestre sulla
+parete nord permettono pero' all'aria di passare rinfrescando con ripetute
+folate le tue spalle sudate.    
+Vedi un AVVISO appeso ad un chiodo.
+~
+66 4194316 0
+D1
+~
+~
+0 0 6792 0
+D2
+~
+~
+0 0 6791 0
+E
+avviso~
+Prendi in mano il martello da fabbro.
+Assicurati di avere in inventario parecchi lingotti.
+Digita il comando LAVORA LINGOTTO e segui i suggerimenti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6795
+La Carpenteria di Re Otak.~
+   Questa stanza ha parecchie assi e resti di legno ovunque.  Attrezzi piu'
+avanzati sono disposti sopra scaffali pronti a creare dal legno oggetti utili e
+ben fatti.    
+Puoi vedere un AVVISO appeso ad un chiodo.
+~
+66 16777228 0
+D0
+~
+~
+0 0 6791 0
+D1
+~
+~
+0 0 6793 0
+E
+avviso~
+Procurati travi/assi da lavorazione.
+Afferra la SEGA e LAVORA travi/assi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6796
+Via dei Mestieri~
+   Le botteghe degli artigiani attirano mercanti e curiosi.  Alcune guardie
+controllano che i ricchi passanti non vengano molestati dai mendicanti.  Gli
+apprendisti portano i materiali ai loro padroni sperando in una buona paga che
+un giorno permetta di aprire un' attivita' in proprio.    
+~
+66 0 1
+D0
+~
+~
+0 0 6802 0
+D1
+~
+~
+0 0 6797 0
+D2
+~
+~
+0 0 6805 0
+D3
+~
+~
+0 0 6620 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6797
+Via dei Mestieri~
+   Compra!  Compra!  Ti gridano da ogni angolo.  Qui si puo' trovare di tutto.
+Oggetti preziosi,utensili,armi e tanto ancora.  Se cerchi un buon lavoro prova
+a chiedere qui intorno,magari qualcuno ha bisogno di un apprendista.    
+~
+66 0 1
+D0
+~
+~
+0 0 6803 0
+D1
+~
+~
+0 0 6798 0
+D2
+~
+~
+0 0 6807 0
+D3
+~
+~
+0 0 6796 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6798
+Via dei Mestieri~
+   Le botteghe sembrano non finire mai.  I prodotti sbucano da ogni parte e i
+mercanti ti invitano a provare qualche oggetto.  Attento a non romperlo pero'!!
+Noti una certa allegria nella gente di questa citta' che non hai mai visto in
+nessun altro posto.  Qui si lavora contenti.    
+~
+66 0 1
+D3
+~
+~
+0 0 6797 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6799
+Via dei Mestieri~
+   Un bracciante trasporta un carico di lingotti d'oro,mentre un uomo d'affari
+ne valuta il prezzo.  Il commercio e' vita,gioia e guadagno soprattutto.  
+Senti un grido e noti un ladro preso con le mani nel sacco.  Ora per lui sono
+guai.    
+~
+66 0 1
+D0
+~
+~
+0 0 6847 0
+D1
+~
+~
+0 0 6768 0
+D2
+~
+~
+0 0 6801 0
+D3
+~
+porta~
+2 0 6655 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6800
+La Gioielleria di Re Otak~
+   Questo locale e' ricco di oggetti preziosi esposti agli occhi dei vanitosi e
+degli apprendisti gioiellieri che possono ammirarne finezza e splendore.
+Un AVVISO in una cornice di diamanti attrae la tua attenzione.
+~
+66 67108876 0
+D2
+~
+~
+0 0 6802 0
+E
+avviso~
+Tieni in mano il MARTELLETTO da gioielliere.
+Lavora le pietre preziose per trasformarle in fantastici gioielli.
+Puoi vendere i prodotti finiti al Centro Esportazione Gioielli.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6801
+Il Quadrello di Re Otak~
+   Questo e' il ritrovo degli architetti del Regno.  Grossi blocchi di pietra
+stazionano in angoli con martelli pesanti appoggiati.  Qui un architetto puo'
+lavorare le sue pietre da costruzione per edificare un giorno una grande opera
+personale o pubblica al servizio del Regno.    
+Un AVVISO si trova sopra un blocco di marmo.
+~
+66 134217740 0
+D0
+~
+~
+0 0 6799 0
+E
+avviso~
+Procurati pietre di marmo,quarzo o granito.
+Impugnando il MARTELLO DA COSTRUZIONE usa il comando LAVORA PIETRA.
+Leggi attentamente il manuale online.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6802
+Il Laboratorio prezioso di Re Otak~
+   Questo laboratorio contiene parecchi tavoli con lente d'ingrandimento per
+permettervi di trasformare i vostri grezzi in autentiche pietre preziose di
+ottima qualita'.    
+Un AVVISO e' appeso al muro.
+~
+66 33554444 0
+D0
+~
+~
+0 0 6800 0
+D2
+~
+~
+0 0 6796 0
+E
+avviso~
+Usa il MARTELLETTO da gioielliere.
+Lavora le pietre grezze trovate nella wilderness.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6803
+L'Erboristeria di Re Otak~
+   Strumenti da giardinaggio e tanti piccoli sacchetti ripieni di erbe tritate
+riempiono tutti gli scaffali di questa stanza.  Qui un erborista puo' preparare
+le sue erbe raccolte qua e la' in attesa di passare nel laboratorio di alchimia
+dove potra' creare delle ottime pozioni.    
+Un AVVISO pende da sopra la porta.
+~
+66 536870924 0
+D0
+~
+~
+0 0 6804 0
+D2
+~
+~
+0 0 6797 0
+E
+avviso~
+Con la PICCOZZA da erborista LAVORA le erbe che trovi in giro.
+Torna qui, afferra il TRITAERBE e LAVORA le erbe che hai trovato.
+Procurati le BOCCETTE per la distillazione.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6804
+Il Laboratorio di Alchimia di Re Otak~
+   Ampolle e alambicchi, boccette di ogni dimensione e strani libri impolverati
+circondano una schiera di giovani alchimisti dediti all'arte chimica.  Due
+passi e &b&1 BOOOOOMMMMM &0 ....  Un maldestro apprendista ha aggiunto troppa
+belladonna alla sua pozione bruciacchiando se stesso e la parete, sulla quale
+noti comunque segni evidenti di ripetuti errori.    
+Un AVVISO bruciacchiato e' appeso storto su una parete.
+~
+66 1073741836 0
+D2
+~
+~
+0 0 6803 0
+E
+avviso~
+Afferra le BOCCETTE.
+Digita MISCHIA xerba1 yerba2 etc.
+Es... Mischia 2belladonna 1ortica 3alchimilla
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6805
+Mulino e Fornace di Re Otak~
+   Un profumo di pane appena sfornato ti investe appena entri in questo
+frantoio.  Qui i mugnai di tutto il Regno vengono a macinare e ripulire i
+prodotti che la fertile terra dona loro in cambio di un duro lavoro.    
+C'e' un AVVISO sporco di farina sul muro.
+~
+66 2147483660 0
+D0
+~
+~
+0 0 6796 0
+D2
+~
+~
+0 0 6806 0
+E
+avviso~
+Con la FALCE trova le risorse nella wilderness e lavorale.
+Qui usa PESTELLO E SETACCIO per ripulire i prodotti.
+Altro strumento utile e' il MATTARELLO.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6806
+La Cucina di Re Otak~
+   Qui la pulizia e l'ordine sono di casa, quindi attento a non sporcare o le
+donne ai fornelli ti faranno assaggiare il loro mattarello.  Puoi cucinare ogni
+cibo qui se hai con te gli ingredienti ovviamente.    
+Un AVVISO e' appeso sopra uno scaffale.
+~
+66 4294967308 0
+D0
+~
+~
+0 0 6805 0
+E
+avviso~
+Qui con gli STRUMENTI DA CUCINA puoi sfornare cibi cotti.
+Leggi il manuale per maggiori dettagli.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6807
+Il locale di Scuoiatura di Re Otak~
+   Un odore di sangue aleggia in tutta la stanza dove diversi corpi di animali
+penzolano da grossi chiodi fissati a mezz'altezza.  Sei nella sala della
+Scuoiatura e Ripulitura delle pelli dove parecchi cacciatori passano le ore
+successive alla caccia asportando la preziosa pelle delle prede.  A sud si apre
+un arco in pietra che conduce verso una stanza piu' pulita e ordinata.    
+Vedi un AVVISO macchiato di sangue.
+~
+66 8589934604 0
+D0
+~
+~
+0 0 6797 0
+D2
+~
+~
+0 0 6808 0
+E
+avviso~
+Col comando CACCIA animale potete uccidere la selvaggina.
+Dovete anche avere impugnato il COLTELLO DA CACCIA.
+Portate qui gli animali e digitate SCUOIA cadavere.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6808
+La Conceria di Re Otak~
+   Qui le pelli ricavate a nord vengono trattate con speciali unguenti che ne
+amplificano la morbidezza e la lucentezza.  Splendidi mantelli di Tatanka e
+Lupo sono appesi lungo la parete.  Qui puoi trovare tutto lo spazio per creare
+i tuoi capi e cercare poi di venderli a buon prezzo.    
+C'e' un AVVISO in un angolo.
+~
+66 17179869196 0
+D0
+~
+~
+0 0 6807 0
+E
+avviso~
+Tieni in mano AGO e FILO e procurati un po' di pelli.
+Col comando CUCI crei il vestiario.
+Puoi anche creare e personalizzare vestiti di stoffa.
+Il comando e' LAVORA STOFFA VESTITO <descrizione>.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6810
+Mercatino del Cavallo~
+   A dir la verita' sembra piu' un grande fienile ma dato che e' mantenuto e
+pulito molto bene a prima vista puo' apparire come un semplice negozietto di
+animali.  Qui un giovane garzone vende piccoli e grandi animali da compagnia o
+&1Usa il comando LISTA*BESTIE per sapere quali animali puoi comprare.&0
+~
+66 132 0
+D2
+~
+~
+0 0 6847 0
+D5
+~
+~
+0 0 6875 0
+F
+ 2 0 0 0 0 0 0 0 0 0
+S
+#6811
+Magazzino degli Animali~
+   Un semplice locale dove vivono gli animali in attesa di essere venduti.    
+~
+66 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6812
+L'ingresso alle &1&bNUOVE&0 prigioni di &5&bSendaria&0~
+   Questo ampio atrio e' l'anticamera del'inferno per tutti i criminali della
+Sendaria.  Pareti spoglie e poche panche allineate a est sono l'unico
+arredamento insieme ad un tavolo e un armadio di quercia.  A sud vedi le spesse
+sbarre che separano questa stanza dalla angusta cella per i prigionieri.    
+~
+66 12 0
+D2
+~
+grata~
+1 -1 6813 3
+D4
+~
+~
+0 0 6641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6813
+La Cella~
+   Fredda e umida come tutte le prigioni che si rispettano, questa ha pero' una
+caratteristica particolare: e' solo una sala d'attesa per coloro che aspettano
+di essere trasportati nel grande carcere di sale da dove nessuno e' mai
+fuggito.  Sul pavimento rozzo noti solchi e unghia spezzate, come se i tuoi
+predecessori avessero cercato in tutti i modi di rimanere in questo purgatorio
+piuttosto che andare dove anche la morte non puo' arrivare.  Trema e spera
+nella grazia del Re
+&2&bIl Regno di Sendaria non e' responsabile per oggetti ed averi che vi vengano
+sottratti durante il vostro lieto soggiorno nelle patrie galere. &0
+~
+66 268435612 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6814
+Magazzino dell'armiere~
+You are in an unfinished room.
+~
+66 156 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6815
+&bSentiero di pietre bianche&0~
+
+   Questo sentiero, recentemente lastricato, prosegue verso est e porta ad alcune casette colorate,
+che segnano l'inizio del quartiere dell'Arenile.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 398109 40656 135
+D1
+~
+via~
+0 0 6816 0
+D2
+Una porta di legno.
+~
+porta~
+1 155529 40662 135
+D3
+~
+via~
+0 0 28090 0
+D5
+Entrata in un edificio~
+entrata~
+0 -1 40972 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6816
+&2&bSentiero di pietre bianche&0~
+Sei all'inizio del quartiere dell'Arenile, una lieve brezza soffia verso
+di te portandoti l'odore del mare. Le pietre su cui stai camminando sono
+ciottoli bianchi e levigati. Per contrasto, le case circostanti hanno i
+muri di colori sgargianti, azzurro, rosa, giallo acceso. Il sentiero si
+dipana tortuosamente da ovest verso est, dove intravedi una grande scalinata.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 786953 40482 135
+D1
+~
+via~
+0 0 6817 0
+D2
+Una porta di legno.
+~
+porta~
+1 674540 40494 135
+D3
+~
+via~
+0 0 6815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6817
+&2&bUn'ampia scalinata bianca&0~
+Sei davanti ad una scalinata, intorno a te ci sono ancora casette
+variopinte, piccole ma confortevoli. Scendendo puoi giungere alla Piazza
+dell'Arenile, centro del quartiere, salendo ti incammini verso le zone
+alte del porto. Di giorno i pescatori stendono le reti da riparare
+sulle ringhiere in ferro battuto della scalinata. Di notte le 
+fiaccole accese inserite nelle cariatidi ai lati della scala sembrano
+lunga processione che si avvia verso la grande lanterna del
+faro ... un vero spettacolo!
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 870984 40157 195
+D1
+Una porta di legno.
+~
+porta~
+1 424644 40314 135
+D2
+Una porta di legno.
+~
+porta~
+1 361312 40175 135
+D3
+~
+via~
+0 0 6816 0
+D5
+~
+via~
+0 0 6818 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6818
+&2&bPiazza dell'Arenile&0~
+Nella piccola piazza, ai piedi della grande scalinata da cui puoi dirigerti
+verso le altre zone del quartiere, c'e' molto silenzio. Dal mare spira
+lieve brezza che ti passa tra i capelli e l'acqua che sgorga da una
+fontana a forma di delfino sembra riecheggiare il mormorio delle onde.
+Questi sono gli unici rumori che si sentono, perche' i pochi passanti
+che vedi paiono tutti estremamente tranquilli e silenziosi, dal pescatore
+che trascina il suo carretto alla vecchina che cammina lentamente.
+Alla base della fonte vedi un'&2&bincisione&0.
+~
+66 8796093022208 1
+D0
+~
+via~
+0 0 6873 0
+D1
+~
+via~
+0 0 6819 0
+D2
+Una porta di legno.
+~
+porta~
+1 712683 40985 135
+D3
+~
+via~
+0 0 6878 0
+D4
+~
+via~
+0 0 6817 0
+D5
+~
+via~
+0 0 6859 0
+E
+incisione~
+ *** Per volere del Re, per opera di Lord Ashmet ***
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6819
+&2&bViale dei Pini Marittimi&0~
+Sei all'inizio di un viale assolato, con alti pini marittimi che gettano
+le loro nitide ombre sull'acciottolato. Anche qui non c'e' gente in giro
+e c'e' molto silenzio. Tra i pini ci sono altre case come al solito 
+intonacate con colori vivaci, qui domina il verde chiaro. A est il viale
+prosegue, a ovest torni verso la Piazza dell'Arenile.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 439421 40505 135
+D1
+~
+via~
+0 0 6857 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40565 0
+D3
+~
+via~
+0 0 6818 0
+D4
+Una porta di legno.
+~
+porta~
+1 915544 41023 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6820
+Magazzini del Regno~
+   Sei nel primo grande salone dei Magazzini gestiti dal Regno.  Qui puoi
+vendere la maggior parte dei tuoi prodotti che verranno usati per
+vestire,armare e sfamare l'esercito e le guardie, costruire case e monumenti,
+rendere piu' potente il Regno.  Cerca il magazzino che compra i tuoi prodotti e
+leggi attentamente le istruzioni.  Puoi anche comprare prodotti che possono
+servirti.    
+~
+66 12 0
+D0
+~
+~
+0 0 6821 0
+D1
+Una porta di legno.
+~
+porta~
+2 344878 6888 143
+D2
+Una porta di legno.
+~
+porta~
+2 215667 6823 143
+D3
+~
+~
+0 0 6622 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6821
+Bazaar~
+Eccoti arrivato nel negozio di Bazaar. Questo e' poco piu' che uno scarno
+ufficio con una scrivania e due sedie. Sul muro di fronte a te c'e' un
+cartello con la scritta: &1&bhttp://daresiabazaar.cjb.net&0 mentre sulla parete
+est noti una bellissima vetrata dalla quale emerge lo stupendo golfo di
+Lamorka. 
+~
+66 274877907100 0
+D2
+~
+~
+0 0 6820 0
+D5
+Una porta di legno.
+~
+porta~
+1 348165 6822 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6822
+Deposito Equipaggiamento Pesante e Leggero~
+You are in an unfinished room.
+~
+66 2588 0
+D4
+Una porta di legno.
+~
+porta~
+1 348165 6821 163
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6823
+Magazzino materie prime ALIMENTARI~
+In questo magazzino sono accatastate in sacchi di tela e iuta molte
+materie prime alimentari, che serviranno poi ai cuochi per preparare
+i loro cibi.
+~
+66 2716 0
+D0
+Una porta di legno.
+~
+porta~
+1 215667 6820 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6824
+Deposito~
+Sei in un'ampia stanza adibita a deposito.
+~
+66 2716 0
+D1
+~
+porta~
+0 0 6826 0
+D3
+~
+porta~
+0 0 6830 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6825
+ENTRATA ARSENALE GENERICO~
+Da qui si accede ai magazzini dell'arsenale dedicati ai materiali
+generici.
+~
+66 274877907356 0
+D0
+Una porta di legno.
+~
+porta~
+1 790746 6885 135
+D1
+Una porta di legno.
+~
+porta~
+1 418578 6886 135
+D3
+Una parete mobile.
+~
+parete~
+1 0 6835 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6826
+Magazzino falegnameria~
+Arsenale, stanza di deposito per materiali di falegnameria.
+~
+66 2716 0
+D0
+~
+~
+0 0 6837 0
+D1
+~
+porta~
+0 0 6832 0
+D2
+~
+porta~
+0 0 6828 0
+D3
+~
+porta~
+0 0 6824 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6827
+Magazzini del Regno~
+Sei nel secondo grande salone dei Magazzini gestiti dal Regno.  Qui puoi
+vendere la maggior parte dei tuoi prodotti che verranno usati per
+vestire,armare e sfamare l'esercito e le guardie, costruire case e monumenti,
+rendere piu' potente il Regno.  Cerca il magazzino che compra i tuoi prodotti e
+leggi attentamente le istruzioni.  Puoi anche comprare prodotti che possono
+servirti.    
+~
+66 24 0
+D0
+~
+~
+0 0 6825 0
+D1
+~
+~
+0 0 6834 0
+D2
+Una porta di legno.
+~
+porta~
+1 518331 6829 135
+D3
+~
+~
+0 0 6820 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6828
+magazzino panettiere~
+Magazzino per il negozio del pane
+7s
+~
+66 4398046513692 0
+D4
+~
+~
+0 0 6829 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6829
+delete me~
+NEGOZIO CHIUSO
+~
+66 2716 0
+D0
+Una porta di legno.
+~
+porta~
+1 518331 6827 167
+D5
+~
+botola~
+2 0 6828 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6830
+Deposito Viveri~
+You are in an unfinished room.
+~
+66 4398046513816 0
+D1
+~
+magazzino~
+0 0 6824 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6831
+Spaccio di beni alimentari~
+Accatastati sugli scaffali si trovano una gran quantita' di beni
+alimentari di prima necessita'.
+Grossi sacchi di farina appoggiati al terreno recano ben visibile il
+loro prezzo, verdure di ogni tipo e provenienza si trovano ben
+ordinati e confezionati in grossi ed economici pacchi.
+~
+66 140 0
+D3
+~
+~
+0 0 6631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6832
+Deposito Pozioni~
+You are in an unfinished room.
+~
+66 4398046513820 0
+D3
+~
+porta~
+0 0 6826 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6833
+Magazzino delle Pozioni~
+NEGOZIO CHIUSO
+~
+66 274877907100 0
+D0
+~
+~
+0 0 6834 0
+D5
+~
+botola~
+2 0 6832 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6834
+Magazzini del Regno~
+   Sei nel terzo grande salone dei Magazzini gestiti dal Regno.  Qui puoi
+vendere la maggior parte dei tuoi prodotti che verranno usati per
+vestire,armare e sfamare l'esercito e le guardie, costruire case e monumenti,
+rendere piu' potente il Regno.  Cerca il magazzino che compra i tuoi prodotti e
+leggi attentamente le istruzioni.  Puoi anche comprare prodotti che possono
+servirti.    
+~
+66 24 0
+D2
+~
+~
+0 0 6833 0
+D3
+~
+~
+0 0 6827 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6835
+Accesso segreto~
+E' una piccola stanzetta con strani marchingegni sparsi un po' ovunque.
+Angusta ma pulita ... anche se la sentinella che qui vedi non fa
+niente per mantenerla in ordine!
+~
+66 412 0
+D2
+parete
+~
+parete~
+1 0 6687 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 6674
+T 6675
+T 6676
+T 6677
+#6836
+INGRESSO ARSENALE POZIONI E VIVERI~
+You are in an unfinished room.
+~
+66 4398046514076 0
+D0
+Una parete mobile.
+~
+parete~
+1 0 6838 1
+D1
+Una parete mobile.
+~
+parete~
+1 0 6835 3
+D2
+~
+~
+0 0 6839 0
+D4
+~
+botola~
+0 0 6894 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6837
+Empty~
+Nothing.
+~
+66 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6838
+ARSENALE - ARMI ED EQUIPAGGIAMENTO~
+In questa stanza sono riposti in rastrelliere e su lunghi banconi
+armi ed equipaggiamenti splendenti e pronti ad essere utilizzati per
+il bene del regno.
+~
+66 1130297953356420 0
+D2
+~
+~
+0 0 6836 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6839
+ARSENALE - POZIONI~
+Questa stanza conserva in pulitissime bacheche di cristallo
+ogni genere di pozione che gli alchimisti sendariani sono
+riusciti a produrre.
+
+~
+66 1130297953356420 0
+D0
+~
+~
+0 0 6836 0
+D2
+Una porta di legno.
+~
+porta~
+2 949091 6894 187
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6840
+Entrata del Campo di Addestramento~
+   Entrati in un enorme portale di noce vedete davanti a voi un lungo corridoio
+di armature linde e pulite, che danno l'idea di ordine e potenza.  Sulla destra
+un lungo arazzo mostra dei guerrieri che si addestrano ed e' intarsiato con
+fili d'oro, mentre sulla sinistra una statua classica raffigura un muscoloso
+guerriero con lo sguardo perso nel vuoto e con la spada sguainata.    
+&b&1CHI MUORE NEL CAMPO DI ADDESTRAMENTO NON PERDE NE' PUNTI ESPERIENZA NE' EQUIPAGGIAMENTO!!&0
+
+&1&b RICORDATEVI DI TOGLIERE IL WIMPY ... IL PERCHE' CHIEDETELO A NIGHT &0
+~
+66 131100 0
+D1
+~
+~
+0 0 6841 0
+D3
+~
+~
+0 0 2095256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6841
+Campo Nord-Ovest~
+   Sei all'aperto ora in un grande campo sterrato con decine di sacchi
+perforati da frecce e lance, combattenti che si affrontano corpo a corpo e
+insegnanti che incitano ad effettuare questo o quel colpo.  In questa sezione
+del campo puoi affrontare un vero guerriero oppure un tuo compagno d'armi.    
+~
+66 131072 1
+D1
+~
+~
+0 0 6842 0
+D2
+~
+~
+0 0 6844 0
+D3
+~
+~
+0 0 6840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6842
+Campo Nord-Est~
+   Quest'ala del campo di addestramento e' generalmente utilizzata dai chierici
+combattenti, i Cyrinic.  Un monaco con una lunga veste e cappuccio e' qui per
+aiutarti nel sommo studio della magia della Chiesa, oppure se desideri puoi
+affrontare un qualsiasi tuo compagno.    
+~
+66 131072 1
+D2
+~
+~
+0 0 6843 0
+D3
+~
+~
+0 0 6841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6843
+Campo Sud-Est~
+   Uno spiazzo di terra battuta si trova all'esterno dell'edificio, sembra
+essere molto frequentato e le varie impronte lo confermano.  Un sguardo sulla
+citt di Lamorka non ti rende felice di trovarti li' in quel momento, dati i
+bellissimi palazzi e i rumori, ma sai che questa e' l'unico posto dove poterti
+tranquillamente allenare.  Qui puoi affrontare un vero mago oppure sfidare un
+tuo compagno in un allenamento di magia.    
+~
+66 131072 1
+D0
+~
+~
+0 0 6842 0
+D3
+~
+~
+0 0 6844 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6844
+Campo Sud-Ovest~
+   Questa grande sezione del campo di addestramento e' spesso utilizzata da
+gruppi di pg che si sfogano in risse fino a notte fonda.  Saltuariamente si
+svolgono alcuni tornei per il semplice gusto del divertimento.    
+~
+66 131072 1
+D0
+~
+~
+0 0 6841 0
+D1
+~
+~
+0 0 6843 0
+D3
+~
+~
+0 0 6845 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6845
+La Sala del Riposo~
+   Una piccola stanzetta con una lettiga, una scrivania e vari strani strumenti
+sembra essere la stanza della guaritrice che aiuta tutte le persone che si
+rifugiano da lei in un cattivo stato fisico dopo un duro allenamento Vari
+unguenti e pozioni sono disposti in ordine su di una mensola poco sopra
+l'altezza di un uomo di altezza media.    
+~
+66 28 0
+D1
+~
+~
+0 0 6844 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6846
+Il cancello meridionale~
+Sei davanti al cancello meridionale, forgiato con ornamenti in ferro nero e
+coperto con edera.  Dietro ad esso, distante giorni, le montagne di vetro nero
+sono avvolte da una grande foresta verde.  A nord c'e' la citta' di Lamorka,
+che si estende in tutta la sua maestosita'.
+~
+66 35184372088836 1
+D0
+~
+~
+0 0 6733 0
+D2
+~
+cancellata~
+2 574 2095056 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6847
+L'entrata ovest di Lamorka~
+   Un cancello riccamente ornato, pesante e lavorato di ferro nero, pende da
+antichi cardini ad ovest delimitato da snelli olmi.  L'edera cosi' abbondante
+nella citta' e' ritorta ed intrecciata in volute forme intricate e lavorate. 
+~
+66 35184372088836 1
+D0
+~
+~
+0 0 6810 0
+D1
+~
+~
+0 0 6640 0
+D2
+~
+~
+0 0 6799 0
+D3
+~
+cancellata~
+2 574 2094753 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6848
+Il Cancello settentrionale.~
+   Il vento ti scompiglia duramente i capelli e l'abbigliamento.  La citta'
+rimane dietro di te mentre il mondo si apre davanti a te.  Attorno a te vedi
+muschi,licheni ed erica porpora e il tuo sguardo spazia lontano sopra la
+nebbia.  
+~
+66 4 0
+D0
+~
+cancellata~
+1 6750 2094456 1
+D2
+~
+~
+0 0 6608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6849
+Il magazzino del Bazaar~
+Ti trovi nel grande magazzino del Bazaar.
+~
+66 4398046513748 0
+D4
+~
+~
+0 0 6821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6850
+Viale degli Aranci~
+   Ti trovi in un largo viale fiancheggiato da bellissimi alberi di arancio in
+fiore.  Questi alberi dalle verdi foglie sono stati piantati qui da una delle
+maggiori gilde di Coltivatori della citta'.  Ai lati del viale due piccole case
+di legno con giardino, a ovest il viale degli ippocastani ed est una piccola
+piazza circolare.    
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 757544 40074 135
+D1
+~
+~
+0 0 6667 0
+D2
+Una porta di legno.
+~
+porta~
+1 914226 40119 135
+D3
+~
+~
+0 0 6851 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6851
+Il viale degli Ippocastani~
+   In questo punto del viale, alla base degli enormi ippocastani verde
+splendente, odi un curioso gorgoliare.  Sei talmente assorto dalla vastit delle
+piante che quasi non ti accorgi che alla loro base, da entrambi i lati del
+viale, ci sono due vivaci ruscelli di acque limipide che corrono veloci verso
+lo spiazzo che intravedi verso ovest.  Le abitazioni in questa zona sono
+piccole ma molto confortevoli, quasi mimetizzate tra il verde fogliame degli
+alberi che le proteggono.    
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 602772 40086 135
+D1
+~
+~
+0 0 6850 0
+D2
+Una porta di legno.
+~
+porta~
+1 818582 40109 135
+D3
+~
+~
+0 0 6852 0
+D4
+Una porta di legno.
+~
+porta~
+1 527553 40377 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6852
+Lo spiazzo dell'Orologio ad acqua~
+   I grandi alberi che hanno accompagnato il tuo cammino, improvvisamente si
+aprono su di uno spiazzo dalla forma irregolare.  Un ruscello proveniente
+dall'alto della collina termina la sua corsa qui in un piccolo laghetto
+racchiuso dalle sapienti mani della Gilda dei Minatori in una conca di preziosi
+minerali che, colpiti dal sole, illuminano le acque di mille bagliori colorati.
+Al centro del laghetto, posato su di una grotta artificiale, noti un meccanismo
+dalla bellezza stupefacente, opera dei mastri Gioiellieri.  E' un raffinato
+orologio racchiuso da trasparenti pareti di purissimo cristallo, le cui
+lancette sono azionate dal movimento dell'acqua.    
+Alla base dell'orologio vedi una INCISIONE consumata dal tempo.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 678265 40070 135
+D1
+~
+~
+0 0 6851 0
+D2
+Una porta di legno.
+~
+porta~
+1 550917 40094 135
+D3
+Una porta di legno.
+~
+porta~
+1 530457 40067 135
+D4
+Entrata in un edificio~
+entrata~
+0 -1 41025 0
+E
+incisione~
+"Non c'e' un tempo per noi, non c'e' un luogo per noi
+cos'e' questo qualcosa che concretizza i nostri sogni e gia' ci sfugge via
+questo mondo puo' offrirci solo un dolce momento creato proprio per noi
+chi vuole vivere per sempre? per sempre e' il nostro presente
+chi aspetta per sempre e comunque?".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6853
+Viale delle Magnolie~
+   Questa parte della zona residenziale e' tranquilla ed adattissima per chi
+vuole trascorrere in pace le ore che riesce a sottrarre ai propri doveri di
+lavoro e di battaglia!  Le case sono basse e dal colore candido contornato da
+magnolie profumate e dalle foglie verde chiaro.    
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 137216 40085 135
+D1
+~
+~
+0 0 6854 0
+D2
+Una porta di legno.
+~
+porta~
+1 877947 40103 135
+D3
+~
+~
+0 0 6667 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6854
+Viale dei Marmi~
+   Passeggiando in questo vialetto profumato i tuoi occhi vengono distratti da
+numerosi busti di candido marmo, opera degli scultori del regno, i busti sul
+lato destro raffigurano personaggi storici del regno, mentre quelli sul lato
+sinistro rappresentano immagini fantastiche di gorgoni, unicorni, centauri e
+strane creature alate.    
+Ad Ovest vedi viale delle Magnolie mentre ad Est noti un altissimo Obelisco.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 961946 40128 135
+D1
+~
+~
+0 0 6855 0
+D2
+Una porta di legno.
+~
+porta~
+1 939410 40099 135
+D3
+~
+~
+0 0 6853 0
+D4
+Una porta di legno.
+~
+porta~
+1 560047 40766 135
+D5
+Una porta di legno.
+~
+porta~
+1 498928 40817 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6855
+Piazza dell'Obelisco~
+   Il vialetto delle Magnolie termina in uno spiazzo quadrato al cui centro si
+erge un altissimo obelisco di lucido marmo nero.  Sui quattro lati
+dell'obelisco gli scalpellini reali hanno inciso tutta la storia del regno di
+Lamorka, la grandezza del suo Re e dei suoi Eroi.  In questo luogo la storia si
+fonde alla leggenda rendendo questo luogo al tempo stesso glorioso e magico.  
+Ai lati nord della Piazza due grandi e solide abitazioni .
+Alla base dell'obelisco puoi vedere una TARGA leggermente consumata.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 815877 40092 135
+D1
+Una porta di legno.
+~
+porta~
+1 530424 40102 135
+D2
+Una porta di legno.
+~
+porta~
+1 392818 40101 135
+D3
+~
+~
+0 0 6854 0
+D4
+Una porta di legno.
+~
+porta~
+1 132283 40859 135
+E
+targa~
+"Siamo qui per servire e difendere il nostro Re.
+Siamo i Custodi della pace e della guerra.
+Combattiamo per sopravvivere, in un mondo di poteri oscuri.
+Combattiamo e siamo liberi".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6856
+FREGATO!~
+&2&bCredevi di fare il furbo. Di poter rubare a destra e a manca.&0
+&2&bLa tua avidita' ti ha condannato. Rimarrai qui a marcire IN ETERNO&0
+
+~
+66 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6857
+&bViale dei Pini Marittimi&0~
+Il viale qui prosegue, e nel silenzio tra i pini puoi udire chiaramente il
+frinire monotono delle cicale. Nell'aria c'e' un buon odore di pesce cotto,
+probabilmente qualcuno nei paraggi sta cucinando. A ovest torni verso il 
+centro del quartiere, a est invece il viale si apre in una piccola piazzetta.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 403136 40485 135
+D1
+~
+via~
+0 0 6858 0
+D2
+Una porta di legno.
+~
+porta~
+1 341123 40447 135
+D3
+~
+via~
+0 0 6819 0
+D4
+Una porta di legno.
+~
+porta~
+1 439105 40881 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6858
+&2&bPiazzetta del Legionario&0~
+Al centro di questa piazzetta c'e' la statua di un soldato con un grande
+elmo, nell'atto di estrarre dal fodero la sua spada. La statua e'
+circondata da grossi pini che rendono la zona molto ombreggiata e fresca.
+Tra le casette che si aprono sulla piazza puoi vedere a nord 
+l'Ufficio Doganale di Torre d'Avorio e a est la sede locale della
+Alleanza di Videssos. A sud invece un cancello di ferro ti fa entrare
+in una splendida villetta.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 191701 40476 135
+D1
+Una porta di legno.
+~
+porta~
+1 478452 40479 135
+D2
+Una porta di legno.
+~
+porta~
+1 691830 40028 135
+D3
+~
+via~
+0 0 6857 0
+D4
+Una porta di legno.
+~
+porta~
+1 210948 40855 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6859
+&2&bAl molo dell'Arenile&0~
+Davanti a te si estende un canale che collega il quartiere al mare.
+Su nel cielo qualche gabbiano vola alto per poi scendere a tuffarsi
+acqua o appollaiarsi beffardo su una delle piccole imbarcazioni
+ormeggiate ad un molo di legno. Tutt'intorno ci sono magazzini e abitazioni
+dei marinai che lavorano qui. Un ponte di barche conduce a sud sulla
+isoletta della Roccaforte, a nord ritorni nella Piazza del quartiere.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 717982 40750 131
+D1
+Una porta di legno.
+~
+porta~
+1 172304 40760 131
+D2
+~
+via~
+0 0 6860 0
+D3
+Una porta di legno.
+~
+porta~
+1 9076124 40771 135
+D4
+~
+via~
+0 0 6818 0
+D5
+Una porta di legno.
+~
+porta~
+1 801275 41005 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6860
+&2&bUn ponte di barche&0~
+Ti trovi su un ponte di imbarcazioni di legno, che attraversa il canale
+per dirigersi sull'isola della Roccaforte a sud. 
+Cammini con cautela per non finire in acqua: le barche ondeggiano quando 
+ci appoggi il piede sopra e a volte non ti senti affatto sicuro. A est
+le imbarcazioni ancorate nella darsena possono dirigersi verso il mare
+aperto. A nord vedi il quartiere dell'Arenile sovrastato dal
+grande Faro della citta'.
+~
+66 8796093022208 1
+D0
+~
+~
+0 0 6859 0
+D1
+Una porta di legno.
+~
+porta~
+1 809120 40815 135
+D2
+~
+via~
+0 0 6861 0
+D3
+Una porta di legno.
+~
+porta~
+1 727320 40155 135
+D4
+Una porta di legno.
+~
+porta~
+1 828930 40862 135
+D5
+Una porta di legno.
+~
+porta~
+1 540311 40861 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6861
+&2&bAl molo della Roccaforte&0~
+Sei sul molo dell'Isola della Roccaforte, un grande marciapiede e lastroni
+si estende a fianco del canale. A sud ci sono costruzioni recenti, per lo
+piu' magazzini e case di gente del posto. Qui sono ormeggiate anche 
+imbarcazioni militari che servono la Roccaforte, che puoi vedere chiaramente
+a est. Dall'altro lato vedi un tempio con la facciata impreziosita da marmi 
+che si tingono di rosa al tramonto: e' dedicato ad Aphrael, figlia di
+Armonia e Caos.
+~
+66 8796093022208 1
+D0
+~
+via~
+0 0 6860 0
+D1
+~
+via~
+0 0 6863 0
+D2
+Una porta di legno.
+~
+porta~
+1 566740 40641 135
+D3
+~
+~
+0 0 6862 0
+D4
+Una porta di legno.
+~
+porta~
+1 886652 41004 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6862
+&2&bDavanti al tempietto di Aphrael&0~
+Sei all'estremo occidentale dell'Isola della Roccaforte. Da qui si gode
+una splendida vista del sole quando tramonta dietro l'altopiano di Lamorka
+mandando riflessi rosati sui marmi del tempietto che si specchiano nelle
+acque del canale. Davvero han scelto bene i devoti della Dea ad erigerle
+qui un tempio, sei incantato.
+Oltre al tempietto, qui intorno ci sono solo abitazioni, e ad est il
+molo dell'Isola.
+~
+66 8796093024768 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40637 0
+D1
+~
+via~
+0 0 6861 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40495 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40640 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 40669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6863
+&2&bLungo l'Isola della Roccaforte&0~
+Stai camminando a fianco del canale che separa l'isola dal quartiere 
+dell'Arenile. Qui iniziano le costruzioni della Roccaforte, l'enorme
+torrione adibito ad arsenale navale che da' il nome all'isola
+Intorno i marinai si danno un gran daffare nel riparare le assi
+delle barche, impeciare gli scafi, piantare alberi nuovi nelle
+piccole e grandi imbarcazioni del cantiere.
+~
+66 8796093022208 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40717 0
+D1
+~
+via~
+0 0 6864 0
+D2
+Una porta di legno.
+~
+porta~
+1 284745 40663 135
+D3
+~
+via~
+0 0 6861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6864
+&2&bAccesso alla Roccaforte&0~
+Sei davanti ad una grande struttura in muratura, simile ad una torre
+merlata, ma piuttosto tozza: non puo' essere altro che la Roccaforte.
+Costruita in pietra scura, ha un aspetto davvero temibile per le
+imbarcazioni che entrano nel canale che separa l'Isola dall'Arenile,
+in particolare di notte quando le luci le conferiscono l'aspetto di 
+un volto minaccioso. Un'arcata in mattoni nerastri costituisce l'ingresso
+del cortile interno est, sorvegliata da guardie.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 783347 40725 135
+D1
+~
+via~
+0 0 6865 0
+D2
+Una porta di legno.
+~
+porta~
+1 752954 40726 135
+D3
+~
+via~
+0 0 6863 0
+D4
+Entrata in un edificio~
+entrata~
+0 -1 41006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6865
+&2&bIl cortile interno della Roccaforte&0~
+Sei entrato nella cerchia della Roccaforte: ti trovi in un cortile
+interno semicoperto da crociere di pietra scura, il terreno e'
+sabbioso. A ovest c'e' l'ampio voltone da cui si accede alla
+costruzione, nelle altre direzioni ci sono doppi portoni di legno 
+che forse contengono i materiali per le riparazioni delle
+imbarcazioni o forse sono usci sicuri di case molto ben protette.
+Nell'angolo nord est inizia uno scalone che porta ai piani superiori
+della Roccaforte, e li' a fianco una piccola scala a pioli conduce
+invece verso il basso: dalle tracce di umidita' che ci sono sulla parete
+intorno puoi ben immaginare dove essa conduca.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 895178 40728 135
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40727 0
+D3
+~
+via~
+0 0 6864 0
+D4
+~
+via~
+0 0 6866 0
+D5
+~
+via~
+0 0 6868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6866
+&2&bIl piano intermedio della Roccaforte&0~
+Sei nel cuore di questo torrione tozzo e largo che e' la Roccaforte.
+Probabilmente l'hanno voluta costruire cosi' perche' resistesse alle
+intemperie e ai forti venti. Uno scalone parte dal basso e conduce in
+alto, alla sommita' della Roccaforte. Ai quattro lati di questo salone
+cui ti trovi ora si aprono grandi portoni in legno.
+~
+66 8796093022208 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40622 0
+D1
+Una porta di legno.
+~
+porta~
+1 274809 40619 135
+D2
+Una porta di legno.
+~
+porta~
+1 755553 40647 135
+D3
+Una porta di legno.
+~
+porta~
+1 146077 40740 135
+D4
+~
+via~
+0 0 6867 0
+D5
+~
+via~
+0 0 6865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6867
+&2&bIn cima alla Roccaforte&0~
+Sei sulla sommita' della Roccaforte. Da qui puoi salire ad una balconata
+merlata da cui puoi ammirare da un parapetto il mare che si estende
+sterminato, mentre la brezza marina soffia impetuosa.
+Stando quassu' e volgendo lo sguardo puoi vedere tutta Lamorka nel suo
+splendore, dalle coste al Palazzo di Re Otak, il Faro, il Porto, il 
+quartiere Vecchio, il quartiere dell'Arenile e il centro della citta'
+pieno di vita.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 877350 40729 131
+D1
+Una porta di legno.
+~
+porta~
+1 197060 40799 199
+D2
+Una porta di legno.
+~
+porta~
+1 763251 40712 135
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40733 0
+D4
+Una porta di legno.
+~
+porta~
+1 523076 40814 135
+D5
+~
+via~
+0 0 6866 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6868
+&2&bLa darsena della Roccaforte&0~
+Sei sceso solo di pochi metri e gia' senti nell'aria una forte umidita'.
+Qui i marinai lavorano incessantemente per riparare navi e metterle
+in mare dalla darsena che e' stata ricavata con un ingegnoso lavoro
+di muratura dall'estremo orientale dell'Isola. Attutito dalle grosse
+mura della Roccaforte, senti lo scrosciare delle onde che si infrangono
+sugli scogli. Se vuoi puoi calare da qui la tua barca per prendere
+la via del mare.
+~
+66 8796093022208 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40743 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40813 0
+D4
+~
+via~
+0 0 6865 0
+D5
+~
+mare~
+0 0 1537569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6869
+Zona in costruzione~
+ --- stiamo lavorando!!! non disturbare pls! :) ---
+~
+66 0 0
+D3
+~
+via~
+0 0 28090 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6870
+In attesa~
+   Sei in una grande sala decorata con ogni tipo di strumento e prodotto che tu
+possa mai immaginare.  Qui gli aspiranti lavoratori aspettano il loro turno per
+usufruire dei consigli di antichi maestri.  A nord di qui puoi vedere la
+Forgia, a sud invece l'Erboristeria.    
+~
+66 28 0
+D0
+~
+~
+0 0 6871 0
+D2
+~
+~
+0 0 6872 0
+D5
+~
+~
+0 0 6605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6871
+Minatore e Fabbro~
+   Questa stanza emana un calore quasi insopportabile.  Un uomo robusto lavora
+alcune pietre grezze forgiando magnifiche spade.  Qui potrai fare pratica
+ascoltando gli insegnamenti di un Maestro.    
+~
+66 6291736 0
+D5
+~
+~
+0 0 6605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6872
+Erborista e Alchimista~
+   Un dolce profumo di erbe tritate ti avvolge appena entri.  In questa stanza
+piena di alambicchi, mortai e pestelli, potrai fare pratica seguendo i consigli
+che ti verranno dati.    
+~
+66 280 0
+D5
+~
+~
+0 0 6605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6873
+&2&bViale degli Aranci&0~
+In questo viale la tranquillita' del borgo si unisce ad un lieve
+profumo che ti sembra di cogliere nell'aria: proviene dagli aranci
+piantati tutt'intorno, che quando sono fioriti emanano un odore soave.
+Ai lati del viale, casette color crema si aprono verso sud nella Piazza
+dell'Arenile. A nord puoi invece proseguire nell'inebriante
+atmosfera del viale, tra due file di piccole abitazioni.
+~
+66 8796093022208 1
+D0
+~
+via~
+0 0 6874 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40578 0
+D2
+~
+via~
+0 0 6818 0
+D3
+Una porta di legno.
+~
+porta~
+1 903563 40944 131
+D4
+Entrata in un edificio~
+entrata~
+0 -1 41007 0
+D5
+Una porta di legno.
+~
+porta~
+1 524695 41008 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6874
+&2&bViale degli Aranci&0~
+Stai percorrendo un tratto del viale davvero incantevole.
+Le case basse e chiare hanno ampi tendaggi rossi che oscillano al vento,
+alle finestre vedi decorazioni di pizzo. Sembra che tu sia finito
+in una zona del quartiere dove abitano molti sarti, il cui tranquillo
+lavoro e' favorito dal silezio che circonda l'area. Sbirciando nelle
+case puoi intravedere arcolai e arnesi da cucire, per lo piu'
+utilizzati per riparare le reti da pesca. A nord il viale termina in 
+una piazza, a sud torni verso le altre zone dell'Arenile.
+~
+66 8796093022208 1
+D0
+~
+via~
+0 0 6877 0
+D1
+Una porta di legno.
+~
+porta~
+1 815536 40098 135
+D2
+~
+via~
+0 0 6873 0
+D3
+Una porta di legno.
+~
+porta~
+1 298270 40115 135
+D4
+Una porta di legno.
+~
+porta~
+1 874818 40909 135
+D5
+Una porta di legno.
+~
+porta~
+1 818759 40988 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6875
+&2&bEquo's Emporium&0~
+Il nome tutto un programma. I migliori cibi per cavalli di tutta la daresia.
+Qui ora il tuo animale preferito e' sicuramente ben servito.
+
+&5&b Qui in vendita del FIENO per ogni occasione &0
+~
+66 0 0
+D4
+~
+~
+0 0 6810 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6876
+Il magazzino del Equo' Emporium~
+Fiuu che puzza !
+~
+66 4398046511168 0
+D4
+~
+~
+0 0 6875 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6877
+&2&bPiazza dell'Ancora-Meridiana&0~
+Al centro di questa piazza, un'enorme ancora arrugginita e' stata
+trasformata in meridiana. L'ombra che l'anello dell'ancora proietta sul
+quadrante di metallo sembra in realta' immobile: piu' ti soffermi a 
+guardarla e piu' hai la sensazione che il tempo in questo quartiere
+scorra in maniera lentissima. Intorno alla piazza, piccole case
+di colore giallo chiaro o bianco che non sembrano molto diverse da
+quelle del resto del quartiere.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 927767 40448 135
+D1
+Una porta di legno.
+~
+porta~
+1 943562 40450 135
+D2
+~
+via~
+0 0 6874 0
+D3
+Una porta di legno.
+~
+porta~
+1 427826 40449 135
+D4
+Una porta di legno.
+~
+porta~
+1 760607 40623 129
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6878
+&2&bViale delle Farnie&0~
+Sei all'inizio di un viale molto ampio, costeggiato a intervalli 
+irregolari da alte farnie che troneggiano sulle abitazioni. All'ombra
+di questo tipo di querce dall'ampia chioma c'e' molto fresco, sei
+tentato di sedere a riposare per sempre. Se vuoi muoverti puoi
+invece tornare alla Piazza dell'Arenile andando a est, oppure
+in direzione opposta per proseguire lungo il viale.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 879690 40344 135
+D1
+~
+via~
+0 0 6818 0
+D2
+Una porta di legno.
+~
+porta~
+1 656849 40315 135
+D3
+~
+via~
+0 0 6879 0
+D4
+Una porta di legno.
+~
+porta~
+1 483793 40659 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6879
+&2&bViale delle Farnie&0~
+Il viale prosegue e vedi che ad ovest inizia un ampio porticato. 
+Il quartiere sembra piu' ricco di vita qui rispetto alle zone a est:
+sei nella zona in cui la gente si reca a passeggio o per sbrigare delle
+commissioni. Sul lato sud della strada vedi un'ampia palazzina 
+azzurra, al pian terreno c'e' un'insegna in legno scolorita dal sole.
+Non riesci a capire di cosa si tratti, probabilmente e' una bottega
+o un qualcosa del genere.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 593305 40378 135
+D1
+~
+via~
+0 0 6878 0
+D2
+Una porta di legno.
+~
+porta~
+1 840364 40395 135
+D3
+~
+via~
+0 0 6883 0
+D4
+Una porta di legno.
+~
+porta~
+1 70328870 40820 199
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6880
+Il sito di Costruzione dell'Anfiteatro~
+Da questa piccola piazzetta si dirameranno i locali dell'Anfiteatro.
+Leggete bene il manuale per capire come costruire.
+~
+66 34359738516 2
+D2
+~
+~
+0 0 2094860 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 41502
+#6881
+Area in costruzione~
+Nulla.
+~
+66 34359740928 0
+D0
+~
+~
+0 0 6882 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 41505
+#6882
+Area in costruzione~
+Sei al fondo del sito di costruzione.
+~
+66 34359740928 0
+D0
+~
+~
+0 0 1891 0
+D2
+~
+~
+0 0 6881 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6883
+&2&bPortici Alti&0~
+Di giorno questi portici di pietra bianca fanno da riparo al sole accecante.
+Al crepuscolo invece strani giochi di luce fanno capolino tra le
+colonne bianche del porticato. C'e' un po' di gente che cammina avanti
+e indietro, talvolta si ferma ad osservare ai lati dell'acciottolato
+un vecchio marinaio che intreccia vimini: diresti che e' in realta' un
+pretesto per scambiare qualche parola coi passanti. In fondo ai portici,
+strada sale leggermente verso una piazzetta dalla quale senti provenire
+qualcosa di simile ad una musica.
+~
+66 8796093022208 1
+D0
+Una porta di legno.
+~
+porta~
+1 504038 40401 135
+D1
+~
+via~
+0 0 6879 0
+D2
+Una porta di legno.
+~
+porta~
+1 241938 40461 135
+D3
+Una porta di legno.
+~
+porta~
+1 163783 40462 135
+D4
+~
+via~
+0 0 6884 0
+D5
+Una porta di legno.
+~
+porta~
+1 723917 40630 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6884
+&2&bPiazza delle Conchiglie&0~
+Sei in una piccola piazza circolare sopraelevata rispetto ad una 
+scogliera. Un basso parapetto la separa dallo strapiombo sul mare,
+e quando arriva un'onda violenta gli spruzzi dell'acqua ti bagnano
+il viso. Ma cio' che ti colpisce e' la distesa di strani sonagli di
+conchiglie appesi alla ringhiera sul parapetto: il vento passando per
+i sonagli avvolge tutta la piazza con una lieve e soffusa melodia.
+E' questa un'antica tradizione degli abitanti del porto: i marinai
+affidano al canto di quelle collanine fatte di conchiglie i loro
+desideri e le loro pene d'amore.
+~
+66 8796093022208 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40496 0
+D1
+Una porta di legno.
+~
+porta~
+1 194002 40628 135
+D2
+Una porta di legno.
+~
+porta~
+1 963161 40451 135
+D3
+Una porta di legno.
+~
+porta~
+1 410872 40452 135
+D5
+~
+via~
+0 0 6883 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6885
+ARSENALE - VIVERI~
+Questa stanza contiene le riserve e le scorte di cibo per
+l'intero regno di Sendaria.
+~
+66 1130297953356420 0
+D2
+Una porta di legno.
+~
+porta~
+1 790746 6825 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6886
+ARSENALE - FABBRO~
+Il deposito di tutti i generi di falegnameria
+~
+66 1130297953356420 0
+D0
+Una porta di legno.
+~
+porta~
+2 778817 6893 187
+D3
+Una porta di legno.
+~
+porta~
+1 418578 6825 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6887
+Magazzino negozio del pane~
+Il magazzino del fornaio
+~
+66 4398046513728 0
+D2
+~
+magazzini~
+0 0 6892 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6888
+Magazzino Travi~
+Ti trovi nel magazzino delle travi
+~
+66 4398046513796 0
+D3
+Una porta di legno.
+~
+porta~
+1 344878 6820 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6889
+&7Valle degli Dei&0~
+Ti addentri lungo un piccolo sentiero ciottolato sovrastato da un alto
+roseto fiorito. I giochi d'ombra creati dalla scarsa luce che attraversa
+il fitto intrico di foglie e fiori profumati ti inducono a credere che 
+stai entrando in un luogo sacro. Qui infatti sorgono i templi che i
+Sendariani hanno voluto dedicare agli Dei che nella loro infinita saggezza
+hanno permesso a queste lande di prendere forma.
+Lo sguardo attento dei grifoni dagli occhi di rubino di guardia ai cancelli
+ti suggerisce di osservare un comportamento adatto al luogo.
+Proseguendo verso ovest ti incammini verso il grande Parco dell Riflessione.
+
+~
+66 8796093022208 1
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40463 0
+D1
+~
+parco~
+0 0 6733 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40877 0
+D3
+~
+parco~
+0 0 6890 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6890
+&7Parco della Riflessione&0~
+Quasi senza accorgerti ti ritrovi in un immenso parco ricco di piante
+provenienti da ogni angolo della Daresia.
+Il profumo inebriante dell'erba appena falciata dai giardineri reali ti
+riempie i polmoni e senti la mente liberarsi da ogni preoccupazione. 
+Il silenzio interrotto solo dal gorgogliare di un cristallino torrente
+e una panchina in marmo bianco ti invitano a sederti all'ombra di una
+secolare quercia per raccogliere le idee e fare chiarezza nei tuoi
+pensieri. Se lo ritieni opportuno puoi rivolgerti alla Dea Aphrael o al
+Dio Ilweran nei templi che intravedi a ovest e a nord.
+
+~
+66 0 1
+D1
+~
+parco~
+0 0 6889 0
+D3
+~
+parco~
+0 0 6891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6891
+&7Valle di Aphrael&0~
+Rimani abbagliato alla vista dello spettacolo che ti si presenta davanti
+agli occhi. A ovest su di una collina, sorge la maestosa struttura in
+marmo bianco dedicata alla Signora di Armonia e Caos. Candidi cigni si
+specchiano nelle acque dorate del grande lago che circonda la collina.
+Tutt'attorno crescono rigogliose rose rampicanti che per potere divino
+fioriscono tutto l'anno. Una fitta nebbia avvolge in parte il tempio
+e ne cela l'ingresso, un robusto portale sul quale abili intagliatori
+hanno raffigurato il simbolo sacro della Dea: una rosa nera al centro di
+una argentea luna piena.
+
+~
+66 0 1
+D1
+~
+parco~
+0 0 6890 0
+D3
+Entrata in un edificio~
+entrata~
+0 -1 40484 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6892
+Magazzino macelleria e pesce~
+magazzino macelleria
+
+~
+66 4398046513856 0
+D0
+~
+magazzino~
+0 0 6887 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6893
+prova passaggio~
+You are in an unfinished room.
+~
+66 0 0
+D0
+~
+porta~
+0 0 6885 0
+D2
+Una porta di legno.
+~
+porta~
+1 778817 6886 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6894
+passaggio2arsenale~
+You are in an unfinished room.
+~
+66 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 949091 6839 135
+D2
+~
+botola~
+0 0 6838 0
+D5
+~
+~
+0 0 6836 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6895
+Il retro della cella~
+Un angolo oscuro e dannatamente puzzolente, hai orrore persino a poggiare i
+piedi in terra!! Ma e' questo il luogo giusto per la feccia come te!
+
+~
+66 268435612 0
+D4
+~
+~
+0 0 6813 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6896
+Ufficio del Capitano delle Guardie~
+Questa camera ha un'atmosfera confortevole. Il pavimento e'
+coperto da un'ampio tappeto le cui trame si intrecciano a rappresentare
+la testa di un Lupo.
+La scrivania trabocca di libri e pergamene di ogni tipo, sulla perete
+alle sue spalle e' appeso un'arazzo che raffigura la citta'  di
+&7Torre d'Avorio&0 e ogni singolo particolare e' cosi preziosamente 
+intagliato che lo si potrebbe prendere per un reticolo di finissimo 
+merletto.
+A lato un caldo fuoco scoppietta nel camino, sopra di esso un ritratto
+a figura intera raffigura un giovane in alta uniforme, con lunghi capelli
+lisci che scendono oltre le spalle: e' &8Chan Hur&0 il Capitano delle Guardie.
+~
+66 2568 0
+D1
+~
+~
+0 0 6897 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6897
+&1Caserma delle Guardie di Ambasciata&0~
+Questa e la sede del piu' antico corpo di Guardie di tutta la Daresia.
+Ti trovi in un grande salone circolare, le volte a grottesca intervallano
+gli affreschi che raffigurano le imprese di Grandi eroi Sendar.
+Sulla parete Sud lo stemma del Regno di Sendaria e' posto maestoso.
+Il pavimento e' composto da un minuzioso mosaico, i cui minusculi tasselli
+rappresentano un'immenso giardino colmo di colori da sogno, al centro di
+esso si erge in una fatato candore scintillante un'immensa citta' fatta del
+piu' puro e fantastico avorio dall'aspetto simile ad una montagna alta e
+appuntita che si avvolge su se stessa come il guscio di una lumaca:
+e' &7Torre d'Avorio&0, il cuore di Fantasia.
+Sulla parete nord il ritratto di &8Galadriel degli Spiriti&0 
+Ambasciatore della Torre d'Avorio in Daresia. Sotto il ritratto una
+TARGA d'argento con sopra inciso il motto delle Guardie.
+~
+66 0 0
+D0
+~
+~
+0 0 2094350 0
+D1
+~
+~
+0 0 6898 0
+D2
+~
+~
+0 0 6899 0
+D3
+~
+~
+0 0 6896 0
+E
+targa targ tar~
+
+&1Sempre primi nel bene
+   Sempre primi per gli altri
+   Sempre primi per il popolo
+   Sempre primi per Galadriel 
+   SEMPER PRIMIS&0
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6898
+&4Magazzino delle Guardie&0~
+Ti trovi nel luogo di deposito delle Guardie. Qui si trovano
+le scorte alimentari e qualunque oggetto le Guardie vogliano
+depositare a beneficio dell'intero corpo.
+L'ambiente poco illuminato trabocca degli oggetti piu' svariati,
+spesso inutili cianfrusaglie, ma con sorpresa ti imbatti anche in
+cose che non ti saresti mai immaginato di trovare qui.
+~
+66 2560 0
+D3
+~
+~
+0 0 6897 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#6899
+&6Dormitorio delle Guardie&0~
+Lo splendore del salone principale  rispecchiato anche in quasta accogliente
+stanza. Le vetrate colorate e gli affreschi sul soffitto narrano le storie
+di Torre d'Avorio e di Fantasia, la terra di origine dell'Ambasciatore.
+In questa stanza ci sono due lunghe file di comode brande accostate
+alle pareti, intervallate da alcuni armadi in cui le Guardie conservano
+i propri effetti personali.
+Nella parete opposta all'entrata il fuoco di un grosso camino riscalda
+l'ambiente.
+~
+66 2560 0
+D0
+~
+~
+0 0 6897 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

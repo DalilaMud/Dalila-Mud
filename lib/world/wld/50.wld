@@ -1,0 +1,1461 @@
+#5001
+Un lungo tunnel~
+   Quando entri in questo tunnel incontri alcune rapide del fiume
+che attraversa le montagne.
+~
+50 32777 7
+D1
+~
+~
+0 -1 5002
+D3
+Ci sono delle sbarre qui, che rendono difficile andare ad ovest.
+~
+~
+0 -1 3205
+S
+#5002
+Un lungo tunnel~
+   Il tunnel proviene da nord.
+~
+50 32777 7
+D0
+~
+~
+0 -1 5008
+D1
+~
+~
+0 -1 5003
+D3
+~
+~
+0 -1 5001
+S
+#5003
+Un lungo tunnel~
+   Il tunnel proviene da sud.
+~
+50 32777 7
+D1
+~
+~
+0 -1 5004
+D2
+~
+~
+0 -1 5017
+D3
+~
+~
+0 -1 5002
+S
+#5004
+Un incrocio del tunnel~
+      Il tunnel proviene da nord e da sud.
+~
+50 32777 7
+D1
+~
+~
+0 -1 5005
+D2
+~
+~
+0 -1 5018
+D3
+~
+~
+0 -1 5003
+S
+#5005
+Un lago sotterraneo~
+   Stai galleggiando su un lago sotterraneo nero alimentato dal gocciolare
+dell'acqua e del limo. Il tunnel continua ad est ed il fiume torna indietro ad
+ovest. Un atrio sale in alto verso nord-ovest.
+~
+50 32777 7
+D0
+~
+~
+0 -1 5671
+D1
+~
+~
+0 -1 5006
+D2
+~
+~
+0 -1 5023
+D3
+~
+~
+0 -1 5004
+S
+#5006
+Un lungo stretto tunnel~
+   Il tunnel procede ad est. Un altro stretto tunnel porta a nord.
+~
+50 33033 5
+D0
+~
+~
+0 -1 5016
+D1
+~
+~
+0 -1 5007
+D3
+~
+~
+0 -1 5005
+S
+#5007
+Un grande tunnel~
+   Il tunnel continua ad est e ad ovest. Ad est il tunnel si tuffa in una
+zona illuminata. Un piccolo passaggio si apre a nord.
+~
+50 32777 5
+D1
+~
+~
+0 -1 5026
+D3
+~
+~
+0 -1 5006
+S
+#5008
+L'entrata della caverna~
+   Sei al bordo di una grande pila di detriti di roccia provocati dall'ultima
+frana..
+~
+50 32777 5
+D2
+~
+~
+0 -1 5002
+D5
+Puoi facilmente scivolare giu' dalle rocce senza farti male.
+~
+~
+0 -1 5009
+S
+#5009
+Ai piedi dei detriti~
+   Sei sul fondo di una grande pila di detriti. Un tunnel porta a nord
+e ad est.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5010
+D1
+~
+~
+0 -1 5012
+D4
+~
+~
+0 -1 5008
+S
+#5010
+L'entrata della caverna~
+   Sei al centro di una grande e bella caverna. Un sentiero porta in
+profondita' nell'oscurita'.
+~
+50 32777 5
+D2
+~
+~
+0 -1 5009
+D5
+Guardi giu' verso la caverna. Ossa dappertutto.
+~
+~
+0 -1 5011
+S
+#5011
+Una caverna gigantesca~
+   Questa caverna ti sovrasta. Le pareti ed il soffitto sembrano lontanissime.
+Ossa di precedenti avventurieri giacciono sul pavimento della caverna. C'e'
+un passaggio a spirale che porta in basso nell'angolo di nord-est della caverna.
+~
+50 32777 5
+D4
+~
+~
+0 -1 5010
+D5
+Il passaggio a spirale porta giu' nell'oscurita'.
+~
+~
+0 -1 5100
+S
+#5012
+Una stretta curva~
+   Il tunnel curva a sud e ad ovest.
+~
+50 32777 5
+D2
+~
+~
+0 -1 5013
+D3
+~
+~
+0 -1 5009
+S
+#5013
+Una grande caverna ~
+   Sei in una grande caverna. Molte pelli sono sparse sul pavimento.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5012
+D1
+~
+~
+0 -1 5014
+S
+#5014
+Un atrio umido~
+   I muri qui sono estremamente umidi, cosi' come pure il pavimento.
+~
+50 32777 5
+D1
+Senti il rumore dell'acqua.
+~
+~
+0 -1 5015
+D3
+~
+~
+0 -1 5013
+S
+#5015
+Una polla nel sottosuolo~
+   Passi a guado un polla d'acqua limacciosa profonda fino al ginocchio.
+~
+50 32777 6
+D1
+~
+~
+0 -1 5016
+D3
+~
+~
+0 -1 5014
+S
+#5016
+Un atrio umido~
+   I muri del tunnel qui sono estremamente umidi. Il tunnel porta
+a sud ed inizia a stringersi.
+~
+50 32777 5
+D2
+~
+~
+0 -1 5006
+D3
+Senti il rumore dell'acqua.
+~
+~
+0 -1 5015
+S
+#5017
+Uno stretto corridoio~
+   Questo corridoio e' grande appena perche' un uomo riesca a strisciarci
+attraverso o per un halfling camminarci.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5003
+D1
+~
+~
+0 -1 5018
+D2
+Annusi il fragrante odore di funghi.
+~
+~
+0 -1 5019
+S
+#5018
+Una grande caverna~
+   Sei entrato una caverna molto grande. Le formazioni di roccia stupirebbero
+quasi tutti i nani.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5004
+D3
+~
+~
+0 -1 5017
+S
+#5019
+Una macchia di funghi~
+   Quando passi su una macchia di funghi, sei colpito da molti millioni di
+spore. Puoi respirare appena.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5017
+D1
+L'odore fragrante di spore di funghi continua ad est.
+~
+~
+0 -1 5020
+S
+#5020
+Una macchia di funghi~
+   Quando passi su una macchia di funghi, sei colpito da molti millioni di
+spore. E' difficile respirare.
+~
+50 32777 5
+D2
+A sud c'e' un gigantesco tempio ricavato da un fungo.
+~
+~
+0 -1 5021
+D3
+L'odore fragrante di spore continua ad ovest.
+~
+~
+0 -1 5019
+S
+#5021
+Il tempio di fungo~
+   Ti trovi all'interno di un fungo gigantesco. L'interno e' decorato
+alla maniera di un tempio.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5020
+D1
+~
+~
+0 -1 5022
+S
+#5022
+Un passaggio inclinato~
+   Segui un percorso inclinato giu' dal tempio di fungo.
+~
+50 32777 5
+D0
+~
+~
+0 -1 5023
+D2
+~
+~
+0 -1 5021
+S
+#5023
+Un passaggio inclinato~
+   Sei su un sentiero che dolcemente porta su dalla piscina del sottosuolo.
+~
+50 32777 5
+D0
+Senti i rumori di gocciolio d'acqua.
+~
+~
+0 -1 5005
+D2
+~
+~
+0 -1 5022
+S
+#5024
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est ed una catena montuosa
+innevata e' ad ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5030
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5034
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5025
+S
+#5025
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est ed una catena montuosa
+e' ad ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5024
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5031
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5026
+S
+#5026
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est ed una catena montuosa
+e' ad ovest.  Il buco nel quale sei caduto e' troppo alto da raggiungere.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5025
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5036
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5027
+S
+#5027
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est ed una catena montuosa
+e' ad ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5026
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5033
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5028
+S
+#5028
+Il Grande Deserto Orientale~
+Un enorme deserto che si estende per miglia e miglia,le dune di sabbia cambiano
+continuamente intorno a te.  Una piramide e' a nord est ed una catena montuosa
+e' ad ovest.    
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5027
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5033
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5029
+S
+#5029
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord est ed una catena montuosa
+e' ad ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5028
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5037
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5044
+S
+#5030
+Una piccola oasi~
+   Sei accanto ad una piccola polla di acqua di color blu cristallo
+che e' all'ombra di alcuni alberi di palma. A nord vedi un piccolo
+accampamento.
+~
+50 32768 2
+D0
+Vede tre tende ed alcuni cammelli attaccati ad un palo. Le ombre che
+intravedi attraverso i teli delle tende suggeriscono che c'e' dell'attivita'.
+~
+~
+0 -1 5056
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5036
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5032
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5025
+S
+#5031
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5031
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5031
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5032
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5024
+S
+#5032
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5035
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5036
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5033
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5032
+S
+#5033
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5037
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5037
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5043
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5028
+S
+#5034
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5038
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5035
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5034
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5035
+S
+#5035
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad est, sembra enorme vista da
+qui.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5039
+D1
+Fin da qui, riesci a sentire qualcosa di enormemente malvagio provenire
+dalla piramide ad est.
+~
+~
+0 -1 5300
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5032
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5034
+S
+#5036
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5035
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5041
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5032
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5030
+S
+#5037
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5048
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5033
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5042
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5033
+S
+#5038
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5046
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5045
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5040
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5034
+S
+#5039
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud. I cancelli di una
+citta' sono a breve distanza a nord.
+~
+50 32768 2
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5039
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5048
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5039
+S
+#5040
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Sei a circa duecento metri da una gigantesca
+piramide situata ad ovest. Da qui senti un qualcosa di enormemente
+malvagio che risiede in quella grande struttura.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5036
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5049
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5041
+D3
+Vedi la piramide attraverso la sabbia ad ovest.
+~
+~
+0 -1 5300
+S
+#5041
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord.
+~
+50 32768 2
+D0
+Fin da qui, riesci a sentire qualcosa di enormemente malvagio provenire
+dalla piramide a nord.
+~
+~
+0 -1 5040
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5048
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5041
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5037
+S
+#5042
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio..
+~
+~
+0 -1 5049
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5055
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5043
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5041
+S
+#5043
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5042
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5055
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5044
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5033
+S
+#5044
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord e le rovine di una citta'
+ad ovest.
+~
+50 32772 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5050
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5055
+D2
+~
+~
+0 0 5700
+S
+#5045
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5045
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5052
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5045
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5038
+S
+#5046
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5038
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5047
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5047
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5039
+S
+#5047
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5046
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5051
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5053
+D3
+Even from here, you can sense a great evil residing within the pyramid
+protruding from the sand to the west.
+~
+~
+0 -1 5040
+S
+#5048
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5039
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5048
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5053
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5041
+S
+#5049
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord ovest.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5053
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5054
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5050
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5042
+S
+#5050
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio... ed una piramide ad una certa distanza.
+~
+~
+0 -1 5300
+D1
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5054
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5044
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5042
+S
+#5051
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud ovest ed un profondo
+canyon ad est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5051
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5052
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5047
+S
+#5052
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a sud ovest ed un profondo
+canyon ad est. Appena sotto di te c'e' una piccola sporgenza.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5051
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5053
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5045
+D5
+~
+~
+0 -1 5063
+S
+#5053
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad ovest ed un profondo canyon
+ad est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5052
+D1
+Un traballante ponte di corda e' teso attraverso il canyon... non sembra troppo sicuro.
+~
+~
+0 -1 5062
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5054
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5049
+S
+#5054
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' ad ovest ed un profondo canyon
+ad est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5053
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5055
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5050
+S
+#5055
+Il Grande Deserto Orientale~
+   Un enorme deserto che si estende per miglia, le dune di sabbia cambiano
+continuamente intorno a te. Una piramide e' a nord ovest ed un profondo canyon
+ad est.
+~
+50 32768 2
+D0
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5054
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5055
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5043
+S
+#5056
+L'accampamento nomade~
+   Questo piccolo gruppo di nomadi del deserto si e' fermato per riposare
+e rinfrescarsi accanto a questa bella oasi. Ci sono tre tende e qualche
+cammello. Da due tende provengono delle voci, evidentemente sorpresi
+della tua visita.
+~
+50 64 2
+D0
+Alcuni cammelli sono legati a dei pali conficcati nel terreno.
+~
+~
+0 -1 5058
+D1
+All'interno delle tende vedi della gente accalcata, probabilmente schiavi.
+~
+~
+0 -1 5057
+D2
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5030
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5025
+S
+#5057
+Dentro una piccola tenda~
+   Questa e' una piccola e semplice tenda con pochi arredi. Qui giacciono
+uomini e donne giovani, probabilmente schiavi del capo di questa banda.
+~
+50 72 2
+D3
+Vedi il centro del campo dei nomadi.
+~
+~
+0 -1 5056
+S
+#5058
+Dietro i cammelli~
+   Qui ci sono dieci cammelli, legati ad alcuni pali conficcati nel terreno.
+Ad est vedi una piccola tenda mentre a nord c'e' una tenda piu' grande,
+piu' elaborata.
+~
+50 64 2
+D0
+Questa tenda sembra essere la dimora provvisoria del capo dei nomadi. Ti
+riprometti di visitarla prima di andartene.
+~
+~
+0 -1 5060
+D1
+In questa tenda ci sono uomini molto grossi, tutti hanno delle armi.
+~
+~
+0 -1 5059
+D2
+Vedi il centro del campo dei nomadi.
+~
+~
+0 -1 5056
+D3
+Sabbia a perdita d'occhio.
+~
+~
+0 -1 5024
+S
+#5059
+La tenda dei guerrieri~
+   Questa tenda ha alcuni mobili, ma principalmente e' il quartier
+generale della banda. Ti guardano freddamente quando entri.
+~
+50 72 2
+D3
+Fuori ci sono dei pacifici cammelli.
+~
+~
+0 -1 5058
+S
+#5060
+La tenda principale~
+   Questa tenda e' munificamente decorata sia all'interno che all'esterno.
+Un bel tappeto e' sulla sabbia e numerosi cesti sono allineati lungo i
+muri.
+~
+50 72 2
+D1
+~
+~
+0 -1 5061
+D2
+Fuori ci sono dei pacifici cammelli.
+~
+~
+0 -1 5058
+S
+#5061
+La tenda principale~
+   Qui risiede il capo di questa banda di nomadi. E' infinitamente
+ricco a giudicare dalle tappezzerie, dai cesti e da qualche dipinto.
+~
+50 72 2
+D3
+Vedi l'entrata della tenda.
+~
+~
+0 -1 5060
+S
+#5062
+Il traballante ponte di corda~
+   Cominci ad attraversare attentamente il ponte, ma improvvisamente la corda
+cede e tu cadi...
+             ... e cadi
+                  ... e cadi
+                       ... e cadi
+                            ... morendo sulle rocce sottostanti.
+~
+50 32778 5
+D3
+~
+~
+0 -1 5053
+S
+#5063
+La sporgenza battuta dal vento~
+   Stando molto attento a non perdere l'equilibrio, ti guardi intorno e
+scopri che questo canyon e' profondo circa mezzo chilometro. Ad
+ovest c'e' una buia caverna che scende sotto la sabbia del deserto
+e sopra di te c'e' un ponte di corda.
+~
+50 32768 5
+D3
+~
+~
+0 -1 5064
+D4
+La sabbia del deserto ti arriva in faccia.
+~
+~
+0 -1 5052
+S
+#5064
+La bocca della caverna~
+   L'aria qui e' MOLTO piu' fresca dell'esterno. Provenire da ovest senti
+strani suoni, ma non vedi nulla. La caverna scende nell'oscurita'.
+~
+50 32777 5
+D1
+Fuori c'e' molta luce e molto vento.
+~
+~
+0 -1 5063
+D3
+~
+~
+0 -1 5065
+S
+#5065
+Il covo misterioso~
+   Sei inciampato nella casa di qualche cosa. Dal tesoro sparso sul
+terreno e le carcasse in decomposizione, pensi che questo sia il
+il covo di un dragone. Di che tipo pero', non puoi dirlo realmente.
+La caverna si restringe in un tunnel ad ovest.
+~
+50 201 5
+D1
+~
+~
+0 -1 5064
+D3
+~
+~
+0 -1 5066
+S
+#5066
+Un largo tunnel~
+   Questo tunnel sembra continuare per sempre nell'oscurita'. Procedi
+con cautela tastando le pareti.
+~
+50 9 5
+D1
+~
+~
+0 -1 5065
+D3
+~
+~
+0 -1 5067
+S
+#5067
+Un tunnel piu' stretto~
+   Il tunnel diviene molto piu' stretto e lotti per passarci attraverso.
+Il pavimento sembra pareggiarsi un po'.
+~
+50 9 5
+D1
+~
+~
+0 -1 5066
+D2
+~
+~
+0 -1 5068
+S
+#5068
+Una stretta fessura ~
+   Questa parte del tunnel e'  piu' dura per muoversi e sembra che le
+pareti si muovano per incontrarti.
+~
+50 265 5
+D0
+~
+~
+0 -1 5067
+D3
+~
+~
+0 -1 5069
+S
+#5069
+Una piccola caverna~
+   E' scuro ed umido e dei pipistrelli sono appesi al soffitto. Nella parete
+ad est c'e' una stretta fessura. Il pavimento ora sale verso l'alto.
+~
+50 9 5
+D1
+~
+~
+0 -1 5068
+D3
+~
+~
+0 -1 5070
+S
+#5070
+Un piccolo pozzo~
+   Da dentro questo pozzo vedi uno stretto buco nel soffitto grande
+appena per una persona. Ad est c'e' la caverna.
+~
+50 9 5
+D1
+~
+~
+0 -1 5069
+D4
+~
+~
+0 -1 5009
+S
+$~

@@ -1,0 +1,3929 @@
+#1700
+La Stanza del Male~
+Tutte l'energie maligne sono concentrate in questo posto. Solo pochi eletti possono entrare qui, chi non lo e' potrebbe essere distrutto in pochi attimi.
+~
+17 2049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1701
+L'entrata della caverna~
+Ti trovi in una caverna umida e sporca.  Le pareti sono imbrattate di sangue
+che gocciola sul terreno.  Guardando oltre non vedi nulla...  Una tremenda
+puzza proviene dal fondo.    
+~
+17 0 0
+D0
+Piu' in la per la caverna
+~
+~
+0 0 1702 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1702
+Piu' all'interno nella caverna~
+Una fetida puzza di morte ti accoglie...  La caverna diventa sempre piu' umida,
+il sangue sulle pareti abbonda le tue paure aumentano...  Cosa ci sara oltre?
+  
+~
+17 1 0
+D2
+L'entrata della caverna
+~
+~
+0 0 1701 0
+D3
+~
+~
+0 0 1703 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1703
+Una stanza illuminata~
+Questa stanza e' illuminatissima.  Vi sono 4 fiaccole attaccate ai muri, il
+fetore e' sempre piu' forte...  Quando cali lo sguardo verso il basso vedi uno
+scenario raccapricciante...  Mucchi di ossa e molti CADAVERI!!  Il timore
+creshe in te, la paura e' sempre piu' viva...  Farai la stessa fine di questi
+poveretti?!    
+~
+17 0 0
+D0
+~
+~
+0 0 1704 0
+D1
+~
+~
+0 0 1702 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1704
+Un corridoio illuminato~
+Questa parte della caverna e' illuminata...  Le fiaccole si ripetono poste
+sempre alla stessa distanza l'una dall'altra, il pavimento e' tapezzato di
+cadaveri...  La paura di quello che ti aspetta ha fatto aumentare
+irrefrenabilmente le pulsazioni del tuo cuore
+~
+17 0 0
+D0
+~
+~
+0 0 1705 0
+D2
+~
+~
+0 0 1703 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1705
+Il corridoio illuminato~
+You are in an unfinished room.
+Questa parte della caverna e' illuminata...  Le fiaccole si ripetono poste
+sempre alla stessa distanza l'una dall'altra, il pavimento e' tapezzato di
+cadaveri...  La paura di quello che ti aspetta ha fatto aumentare
+irrefrenabilmente le pulsazioni del tuo cuore
+~
+17 0 0
+D0
+~
+~
+0 0 1707 0
+D2
+~
+~
+0 0 1704 0
+D5
+~
+~
+0 0 1706 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1706
+Il covo~
+Nemmeno il tempo di entrare all'interno di questa stanza che....  UN VAMPIRO TI
+ASSALTA!!  TI IMMOBBILIZZA E TI AZZANNA IL COLLO SUCCHIANDO TUTTO IL TUO
+SANGUE....  Le forze ti abbandonano..  Non hai speranze..  Sei morto!    
+~
+17 2 0
+D4
+~
+~
+0 0 1705 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1707
+L'oscura stanza~
+Il buio ti avvolge di nuovo, rendendo tutto piu' misterioso, vedi una luce
+offuscata provenire da nord...  Cosa ci sara' oltre??    
+~
+17 1 0
+D0
+~
+~
+0 0 1708 0
+D1
+~
+~
+0 0 1709 0
+D2
+~
+~
+0 0 1705 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1708
+La stanza del rituale~
+La stanza e' avvolta da un arcana luce.  Al centro vi e' un altare circondato
+da fiamme.  Qua si sono rinuiti i piu' grandi vampiri per scegliere gli eredi
+del loro immenso potere
+~
+17 0 0
+D2
+~
+~
+0 0 1707 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1709
+Il dormitorio ~
+Diverse bare dispostre in fila servono a far riposare i vampiri quando la luce
+sopraffae la notte, La caverna e' fredda e per niente accogliente, ma di sicuro
+molto tranquilla...  Per ora!    
+~
+17 0 0
+D3
+~
+~
+0 0 1707 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1710
+&4Casa Azzurri&0~
+Questo rifugio pieno di idioti si sta riempiendo di mignotte,calciatori e assistenti misteriosi del trap.
+Gattuso ormai strafatto si sta avvicinando a del piero fornendogli altre canne...
+Il trap sta studiando con il super_nintendo la nuovissima e astutissima formazione dell'italia 
+BOBO si sta mangiando la solita padellata di tagliatelle alla carbonara mentre ci scola 1/4 di vino..
+Buffon preparandosi alla partita sistema la sua capigliatura con tanto di TUBONE di gel.
+Totti si sta facendo le treccine mentre un ladro di merendine gli frega le scarpe...
+
+prova anche tu il nuovo BIBITONE per fare sputi belli densi sui danesi.
+~
+17 2048 0
+D0
+~
+~
+0 0 6619 0
+D1
+~
+~
+0 0 21301 0
+D3
+~
+~
+0 0 1711 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1711
+Un buco puzzolente~
+questo e' il famoso buco puzzolente di Draesmon
+~
+17 2048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1712
+Foresta di Kyrm~
+nodesc.
+~
+17 0 3
+D3
+~
+~
+0 0 1713 0
+D4
+~
+~
+0 0 1714 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1713
+&4La Fossa della resuscitazione.&0~
+Questa stanza da' ai morti la vita.
+
+
+
+ma
+
+
+ai vivi la Morte.
+
+
+Addio.
+~
+17 2 0
+D1
+~
+~
+0 0 1715 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1714
+&6L'Anticamera dello studio&0~
+You are in an unfinished room.
+Questo corridoio in discesa e' molto freddo e buio..
+Probabilmente prima dava l'accesso a qualche tunnel sotterraneo ma adesso e' stato usato come anticamera allo studio del GranTemplare.
+Alcuni scalini sono completamente consumati..  faticosamente arrivi all'ingresso dello studio.
+~
+17 0 0
+D4
+~
+~
+0 0 1716 0
+D5
+Nothing.
+~
+Porticina~
+1 1715 1715 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1715
+&1Lo studio del GranTemplare&0~
+You are in an unfinished room.
+La piccola stanza e' interamente arredata con armadi piedi di libri e pergamene.
+All'interno di questi libri sono presenti le formule di antica guarigione
+Un piccolo banco di legno e' al centro della stanza.
+~
+17 2048 0
+D3
+~
+~
+0 0 1713 0
+D4
+~
+~
+0 0 1714 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1716
+&6Sotto il tempio.&0~
+Un piccolo ingresso conduce alle stanze dei templari sotto il tempio.
+Questo ingresso molto piccolo sembra essere stato attraversato recentemente ma non e' stato curato.
+Una guardia davanti all'entrata sta dormendo profondamente.
+~
+17 0 0
+D5
+~
+~
+0 0 1714 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1718
+&3L'ingresso alla vecchia Caverna.&0~
+Questa entrata, in parte nascosta non deve essere stata usata molto frequentemente..
+Scavato nella roccia l'ingresso in parte e' ostruito dalla vegetazione...
+Alcune ragnatele impediscono la vista dell'interno...
+Si possono ancora intravvedere i segni degli ultimi avventuerieri che hanno cercato vanamente di entrare..
+~
+17 12 0
+D0
+~
+~
+0 0 1719 0
+D4
+~
+masso~
+1 0 1501573 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1719
+&7L'interno del Santuario&0~
+Una grande stanza circolare parzialmente illuminata da delle antiche torce....
+Un piccolo altare si trova al centro della stanza.. sopra ad alcuni gradini di pietra consumati dal tempo.
+L'altare inciso interamente da delle &1antiche rune&0 e' sede del potente libro protetto.
+~
+17 0 0
+D2
+~
+~
+0 0 1718 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1720
+&6Le onde immobili.&0~
+&6L'acqua sotto i tuoi piedi sembra indurirsi.. quasi solidificando...
+Il vento si ferma.. e riesci a muoverti con fatica...
+Un campo di forza racchiude ,come una prigione immobile tutto lo spazio che ti circonda...rendendolo stabile...&0
+~
+17 65536 7
+D4
+~
+~
+0 0 0 0
+E
+prova~
+prova1
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1721
+&6Il cerchio d'acqua&0~
+Sospeso in aria dal campo di forza,ti trovi circondato da un acqua che gira vorticosamente intorno a te a pochi metri di distanza.
+Non riesci a muoverti, il campo di forza lentamente ti compressa.
+La temperatura si abbassa.. si cominciano a formare alcuni cristalli di ghiaccio nel vortice..
+~
+17 4 0
+D0
+~
+~
+0 0 1722 0
+D5
+~
+~
+0 0 1720 0
+E
+cerchio~
+Un cerchio d'acqua, che quasi sferico ti avvolge gira freneticamente con un raggio di circa 5 metri,e con centro dove ti trovi.
+Alcuni piccoli cristalli si sono formati nel vortice,e se impattassero con te potrebbero rivelarsi letali per la loro velocita'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1722
+&6L'entrata del Tempio&0~
+Attraversate le sette colonne di ghiaccio che segnano l'entrata del tempio,
+si arriva ad una grande stanza molto alta.
+Questa stanza formata da ghiaccio e cristallo sembra essere molto antica.
+Alcuni Elementali dell'acqua proteggono il Tempio.
+~
+17 0 0
+D0
+~
+~
+0 0 1730 0
+D2
+~
+~
+0 0 1721 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1723
+&3Dentro il Tempio&0~
+Ti trovi al centro del Tempio,un grosso altare si trova davanti a te,
+Sopra all'altare ci sono alcuni pesantissimi oggetti che sono stati usati da Aquiras.
+Aquiras il Signore degli Oceani dell'Est ha ucciso in moltissimi anni tutti quelli che
+si sono opposti al suo volere,ed in questo Tempio di Ghiaccio risiedono alcuni dei resti
+degli ultimi avventurieri che hanno trovato la fine del loro viaggio proprio qua.
+~
+17 0 0
+D0
+~
+~
+0 0 1724 0
+D1
+~
+~
+0 0 1725 0
+D2
+~
+~
+0 0 1730 0
+D3
+~
+~
+0 0 1726 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1724
+&3Dietro l'altare.&0~
+Ti trovi dietro il grande altare che ampiamente riempe tutta la sala centrale.
+Guardando attentamente questo piccolo atrio nascosto.....
+Nell'ombra era coperta in visuale dall'altare una piccola scaletta che scende obliquamente.
+~
+17 0 0
+D2
+~
+~
+0 0 1723 0
+D5
+~
+~
+0 0 1727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1725
+&3L'Abside Est.&0~
+Una piccola stanza intermente di ghiaccio, una lastra posta orizzontalemente nella
+parete davanti ti separa da alcuni resti di Grismok,uno dei pochi avventuerieri che
+riusci' a combattere ad armi pari con Aquiras.
+~
+17 0 0
+D3
+~
+~
+0 0 1723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1726
+&3L'Abside Ovest&0~
+Una piccola stanza intermente di ghiaccio, una lastra posta orizzontalemente nella
+parete davanti ti separa da alcuni resti di Seranul l'unico avventueriero che riusci' a
+sconfiggere Aquiras.....ma..
+~
+17 0 0
+D1
+~
+~
+0 0 1723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1727
+&5Una scaletta di Legno&0~
+Una piccola scaletta di legno traballante parte da dietro l'altare e scende in obliquo..fermandosi
+davanti ad una piccola porticina sempre in legno.
+Questa porticina,nascosta nella semiombra.. sembra essere stata colorata di rosso molto tempo
+fa,alcune incisioni fatte con un coltello sembrano intimare i visitatori del tempio a tenersi lontani da quell'entrata.
+~
+17 0 0
+D4
+~
+~
+0 0 1724 0
+D5
+~
+porticina~
+1 0 1728 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1728
+&7Il Pilastro d'Argento&0~
+Questa piccola stanzetta sembra essere stata abitata per lungo tempo da qualche guardiano che doveva proteggere
+un grande &7Pilastro d'argento&0 che si trova nel centro della stanza ed illumina le pareti con una luce irradiante molto leggera.
+Lungo la circonferenza segnata dall'incontro del pilastro con il pavimento in pietra nera massiccia alcune &7rune&0
+sono state incise seguendo una lunga spirale.
+Purtroppo non e' possibile capire cosa indichino le rune essendo scritte in "lingua abissale".
+~
+17 0 0
+D4
+~
+~
+0 0 1727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1729
+&6Il Sigillo dell'Acqua&0~
+You are in an unfinished room.
+~
+17 0 0
+D4
+~
+~
+0 0 1728 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1730
+&3Dentro il Tempio&0~
+Ti trovi al centro del Tempio,un grosso altare si trova davanti a te,
+Sopra all'altare ci sono alcuni pesantissimi oggetti che sono stati usati da Aquiras.
+Aquiras il Signore degli Oceani dell'Est ha ucciso in moltissimi anni tutti quelli che
+si sono opposti al suo volere,ed in questo Tempio di Ghiaccio risiedono alcuni dei resti
+
+degli ultimi avventurieri che hanno trovato la fine del loro viaggio proprio qua.
+~
+17 0 0
+D0
+~
+~
+0 0 1723 0
+D2
+~
+~
+0 0 1722 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1731
+&4L'iceberg di Therin&0~
+Questo enorme iceberg si trova da molti secoli in queste gelide acque...
+Solo nelle estati diminuisce leggermente il suo volume...
+E'molto grande e sembra essere stato teatro di molte battaglie....
+~
+17 0 0
+D0
+~
+~
+0 0 1733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1732
+&4La Vetta dell'Iceberg&0~
+Ti trovi in uno spiazzo molto piccolo sulla vetta dell'iceberg.... 
+Una spada e' piantata nel &4Ghiaccio&0 a pochi passi da te.
+Il corpo di un potente Arcimago e' ancora imprigionato nel ghiaccio....
+~
+17 0 0
+D2
+~
+~
+0 0 1733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1733
+&4La Scarpata dell'Iceberg&0~
+Stai salendo faticosamente sul &4Ghiaccio&0 per giungere alla punta piu' alta dell'Iceberg.
+Fa molto freddo... stai molto male... fortunatamente la salita e' quasi terminata.
+~
+17 0 0
+D0
+~
+~
+0 0 1732 0
+D1
+~
+~
+0 0 1735 0
+D2
+~
+~
+0 0 1731 0
+D3
+~
+~
+0 0 1734 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1734
+&4L'iceberg di Therin&0~
+Questo enorme iceberg si trova da molti secoli in queste gelide acque...
+Solo nelle estati diminuisce leggermente il suo volume...
+E'molto grande e sembra essere stato teatro di molte battaglie....
+~
+17 0 0
+D1
+~
+~
+0 0 1733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1735
+&4L'iceberg di Therin&0~
+Questo enorme iceberg si trova da molti secoli in queste gelide acque...
+Solo nelle estati diminuisce leggermente il suo volume...
+E'molto grande e sembra essere stato teatro di molte battaglie....
+~
+17 0 0
+D2
+~
+~
+0 0 1592578 0
+D3
+~
+~
+0 0 1733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1736
+&2&bUna Fitta Foresta&0~
+Ti trovi avvolto in una fitta foresta
+
+
+~
+17 0 0
+D3
+~
+~
+0 0 1737 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1737
+&2&bUn Piccolo Spiazzo Nella Foresta&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1736 0
+D3
+~
+~
+0 0 1738 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1738
+&3&bL'entrata di un Antico Tempio&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1737 0
+D3
+~
+~
+0 0 1739 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1739
+&1Una Antica Navata&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1738 0
+D3
+~
+~
+0 0 1740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1740
+&1Lungo la Navata Centrale&0~
+You are in an unfinished room.
+~
+17 0 0
+D0
+~
+~
+0 0 1742 0
+D1
+~
+~
+0 0 1739 0
+D2
+~
+~
+0 0 1743 0
+D3
+~
+~
+0 0 1741 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1741
+&7Le Antiche Colonne di Yhiendertal&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1742
+&7La Barricata di Ferro Orientale&0~
+You are in an unfinished room.
+~
+17 0 0
+D2
+~
+~
+0 0 1740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1743
+&7La Barricata di Ferro Occidentale&0~
+You are in an unfinished room.
+~
+17 0 0
+D0
+~
+~
+0 0 1740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1744
+Vetta di Montagna~
+Questo e' il punto piu' alto dei monti in cui ti trovi
+~
+17 0 5
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1745
+Un piccolo stretto sentiero.~
+Stai percorrendo un lungo stretto sentiero nella foresta situata sopra la montagna..
+Sembra essere stato usato continuamente per il passaggio degli avventuerieri ma le carovane non possono percorrerlo.
+La strada si fa sempre piu' stretta e sabbiosa..
+Sopra la tua testa le frasche quasi coprono il cielo.. .
+~
+17 4 3
+D0
+~
+~
+0 0 1746 0
+D2
+~
+~
+0 0 1482571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1746
+L'ingresso di un piccolo villaggio.~
+Ti trovi alle porte di un piccolo villaggio montagno...
+Sembra essere stato fortificato recentemente,l'entrata infatti e' molto sicura protetta da
+delle lunghe palizzate di legno.
+Alcune guardie si trovano alla porta nella palizzata e controllano il passaggio.
+Agli angoli alcune piccole torrette di legno si stagliano sopra gli alberi della foresta e vigilano.
+~
+17 4 5
+D0
+Un enorme Portone e' qua..
+~
+Portone~
+1 0 1747 1
+D1
+~
+~
+0 0 1751 0
+D2
+~
+~
+0 0 1745 0
+D3
+~
+~
+0 0 1750 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1747
+Dentro il piccolo Villaggio.~
+Poche abitazioni sono racchiuse nelle solide mura, un piccolo paese montano tranquillo.
+Risci a vedere intorno non piu' di 20 persone..
+Il centro del paesino sembra essere rappresentato da una chiesetta.
+Una delle abitazioni ha le sembianze di un piccolo palazzo e sembra essere la sede del capo villaggio.
+Nelle altre abitazioni invece gli altri cittadini svolgono i quotidiani lavori.
+~
+17 0 0
+D0
+~
+~
+0 0 1752 0
+D1
+~
+~
+0 0 1749 0
+D2
+~
+~
+0 0 1746 0
+D3
+~
+~
+0 0 1748 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1748
+Una vecchia casa di pietra.~
+In questa vecchia casa, leggermente piu' grande delle altre riesiede il capo.villaggio.
+Alcuni stendardi.. di provenienza assai strana.. probabilmente falsi sono attaccati alle pareti.
+Pareti molto vecchie,probabilmente le piu' vecchie del villaggio.. che sembrano reggersi in piedi per pura inerzia.
+La casa e' arredata in malomodo e sembra piu' che una residenza un ufficio.
+~
+17 4 0
+D1
+~
+~
+0 0 1747 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1749
+Da Kurul il fabbro del villaggio.~
+Una insegna indica questo luogo appartato dal centro del villaggio..
+E' la fornace di Kurul, il fabbro del villaggio, che si occupa della manutenzione
+e della produzione degli strumenti necessari agli abitanti.
+~
+17 0 0
+D3
+~
+~
+0 0 1747 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1750
+La Torretta Ovest~
+Questa e' una piccola torretta di legno sulla palizzata.
+L'interno e' molto accogliente e sale abbastanza in alto da poter vedere sopra la foresta,..
+Alcune guardie risiedono di guardia qua.
+~
+17 0 0
+D1
+~
+~
+0 0 1746 0
+D2
+~
+~
+0 0 1758 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1751
+La Torretta Est.~
+Questa e' una piccola torretta di legno sulla palizzata.
+L'interno e' molto accogliente e sale abbastanza in alto da poter vedere sopra la foresta,..
+Alcune guardie risiedono di guardia qua.
+~
+17 0 0
+D3
+~
+~
+0 0 1746 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1752
+Una altissima Casa-torre.~
+Questa casa torre  stata realizzata con della pietra presa direttamente dai monti nei paraggi.
+E' molto alta e sembra essere disabitata all'apparenza.
+L'interno e' polveroso e maleodorante.. probabilmente e' stata ignorata per decenni.
+Alcuni avanzi di cibo si sono putrefatti su di un tavolo con esso.
+Probabilmente questa casa e' stata abbandonata in fretta.. e chissa' perche non e' stata riaperta.
+~
+17 1 0
+D1
+~
+~
+0 0 1753 0
+D2
+~
+~
+0 0 1747 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1753
+&4Un buio Scantinato&0~
+L'aria diventa irrespirabile.. fai fatica ad addentrarti in questa casa maledetta...
+&5Senti dello strisciare ai tuoi piedi... qualcosa si muove...&0
+~
+17 65540 0
+D3
+~
+~
+0 0 1752 0
+D5
+~
+~
+0 0 1754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1754
+&5&bLa Cantina del Terrore&0~
+&5Questa stanza e' coperta da una sottile e pungente nube violacea...&0
+&5Una tavola e' nel centro della stanza... sembra essere stata usata per torturare e macellare persone umane&0
+&5Ossa e brandelli di carne umana sono sparsi per la stanza e si putrefanno.&0
+&5Un fortissimo odore di morte pervade la stanza.. cadaveri ed ossa intralciano i tuoi passi&0
+~
+17 0 0
+D1
+~
+~
+0 0 1755 0
+D4
+~
+~
+0 0 1753 0
+E
+bancone~
+&1Il Bancone di legno e' formato da solide e robuste travi di legno..&0
+&1Le travi sono scheggiate dai pesati colpi mancati con il macete dello Squartatore..&0
+&1Alcune fediture nel legno permettono un maggiore deflusso del sangue,&0
+&1cio' nonostante il bancone e' rimasto coperto da molti brandelli di carne...&0
+&1L'unica parte riconoscibile di tutta quella carne e' solo una mano&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1755
+&b&4La Buca&0~
+I resti dei corpi vengono buttati in questa buca...
+La tua fine si avvicina.. come quella di tutte le persone che sono finite qua dentro...
+Pali di legno.. e lame di ferro cominciano a smembrare il tuo corpo.. 
+
+
+
+Cadendo sul fondo serpenti e vari insetti divorano quello che rimane del tuo corpo
+
+
+Addio
+
+Stupido mortale.
+~
+17 3 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1756
+La piccola capanna di Nalef~
+Delineata da un piccolo recinto di legno ed accanto ad un piccolo orticello
+questa piccola capanna di legno scuro si trova sulle sponde del fiume.
+La piccola porta di legno ha un vecchio stemma sulla porta,sigillo sendariano,
+entrando attraverso di essa si giunge in una piccola stanza calda ed accogliente.
+Lungo le pareti sono appese molti stemmi e tre piccole medaglie sul caminetto in muratura.
+Una piccola scrivania accoglie molti scritti e antiche memorie del tempo che fu.
+Accanto ad essa una piccola finestra si affaccia sul fiume che scorre tranquillo e limpido
+nelle vallate di Sendaria.
+~
+17 2568 0
+D1
+~
+~
+0 0 1525549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1758
+Una Buia Tana~
+Questa enorme buca sembra essere la dimora di un potente Cinghiale
+Non riesci a vederlo... probabilmente e' uscito per cacciare
+~
+17 0 0
+D0
+~
+~
+0 0 1750 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1759
+Entrata al Quartier Generale della Real Armata~
+Un avamposto situato su questa piccola altura e' protetto da una semplice barricata di legno sui lati.
+L'entrata del caposaldo e' protetta da alcune delle guardie della Real Armata.
+Questo avamposto sembra essere stato costruito non molto tempo fa per accogliere le truppe dell'esercito di Gandyr.
+L'accampamento e' molto semplice, le costruzioni piu' solide sono in legno e sono riservate al Generale e al Luogotenente.
+Una piccola torretta si alza sopra l'entrata e alcune guardie situate sopra di essa ti osservano.
+~
+17 4 0
+D0
+~
+~
+0 0 1765 0
+D2
+~
+~
+0 0 1487588 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1760
+&7Casa dell'Armonia&0~
+Entri in un'ampia sala con un pavimento in pietra ricoperto da semplici ma
+raffinati tappeti rossi in cui la luce dal cielo sia essa emanata dalla pallida
+luna o da un sole splendente passa attraverso una finestra sul soffitto e si
+propaga nella stanza.
+Appoggiate ai lati della stanza tremano le luci di centinaia di candele che
+illuminano la stanza dandole un'aria vivace ma elegante.
+Senti rumore dello scoppiettio del &1fuoco&0 che proviene da camino in pietra
+sempre acceso che riscalda dolcemente l'aria attorno ad un tavolo tondo di legno
+d'ebano di fronte ad esso.Al tavolo sono poste due sedie in legno con schienale imbottito e foderato di
+&1una morbida stoffa rossa&0 e su di esso un semplice candelabro e' posto sul
+tavolo e lo illumina tenuemente donandogli un'atmosfera intima e romantica.
+A parte il rumore del &1fuoco&0 non riesci a sentire altri rumori se non quelli
+della natura e a fatica senti il desiderio di parlare rovinando l'armonia che
+questa stanza sembra aver creato al suo interno.
+~
+17 2568 0
+D0
+Una porta di legno.
+~
+porta~
+1 605317 6665 167
+D4
+~
+~
+0 0 1761 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1761
+&6La Camera dei Sogni&0~
+Una piccola scaletta in legno conduce dalla sala a questa calda e accogliente stanza.
+Un grande letto a due piazze affianca la parete a nord e cassettiere in noce
+sembrano esserne i guardiani. Sul letto un morbido materasso e' ricoperto da
+&7semplici lenzuola di raso bianche e lisce.&0
+Dalle finestre su ogni lato entra gentilmente &3la luce del sole&0 a dare
+allegria e vitalita' alla stanza. Anche qui un camino di pietra e di fronte un
+tappeto stanno in opposizione al letto e sembrano aspettare qualche serata
+speciale. Una scrivania di fronte a una finestra a cui appoggiarsi nei momenti
+di ispirazione sembra pero' volor invitare lo scrittore stanco a perdersi nella
+magia della natura che circonda la casa.
+Alle pareti sono appesi quadri raffiguranti albe e tramonti visti dai monti piu'
+alti e dai &3deserti&0 di Jiroch o dalle &3spiagge&0 di ogni regno della
+Daresia.
+~
+17 2568 0
+D4
+~
+~
+0 0 1762 0
+D5
+~
+~
+0 0 1760 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1762
+L'Osservatorio~
+Questa stanza sembra essere la stanza piu' in alto di tutta la casa e appena
+entrati non si puo' non notare la differenza con le altre camere sia in stile sia in atmosfera.
+Sembra di essere in un vecchio laboratorio di chissa quale studioso del passato.
+Della fine polvere vela alcune carte astronomiche disposte in maniera confusa su
+una scrivania, mentre alla parete sono stati disegnate in carboncino altre mappe
+stellari e alcuni appunti e calcoli. Un'altra peculiarita' della stanza e' un
+enorme telescopio puntato verso &6il cielo a mirar le stelle&0 e che esce dal
+soffitto attraverso un'apertura circolare.
+La stanza pero' non e' riscaldata e non ci sono fonti di luce se non due torce
+appese alla parete, ma vedi una coperta abbastanza grande per avvolgere due
+persone abbracciate sotto il suo calore vicina alla finestra. Affacciato alla
+finestra sta un'altro piccolo telescopio per osservazioni meno dettagliate ma
+piu' dolci e poetiche.
+~
+17 2568 0
+D5
+~
+~
+0 0 1761 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1763
+&3L'entrata della Grande Biblioteca Daresiana&0~
+Un enorme tempio stile classico, con grandi colonne marmoree bianche che si innalzano fino al cielo..
+Un grande transetto raffigura scolpite immagini mitologiche della Daresia... 
+Alcuni scontri epici sono rappresentati su delle piastrelle di metallo sul grande portone d'entrata...
+Una costruzione veramente maestosa.. unico luogo degno di poter accogliere tutti i codici
+e le lettere che segnano la storia e gli eventi della Daresia.
+Alcune statue di potenti Dei sono posizionate in alto sul tempio e guardano lontano dalla loro sommita'
+Una serie di guardie protegge l'entrata della Grande Biblioteca dagli invasori che potrebbero
+cercare di distruggere il contenuto di queste gigantesce pareti di marmo.
+Nel pavimento alcune grandi incisioni ricordano che questo e' un luogo sacro agli Dei
+e per questo deve rimanere inviolato
+~
+17 2056 0
+D0
+~
+~
+0 0 1764 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1764
+&3Dentro la Grande Biblioteca Daresiana&0~
+Entrato nella Grande Biblioteca una stanza molto grande accoglie gli avventueri
+prima di entrare nelle sale di consultazione degli antichi testi.
+Sul soffitto un enorme affresco rappresenta i regni della Daresia nello splendore dei paesaggi.
+Una Piccola Sfera Arancione posta su di un piedistallo di pietra scura
+illumina tutta la stanza con una luce soffusa.
+Alcuni gradini ti separano dalla sala Centrale,dove vedi entrare molte persone.
+~
+17 8 0
+D2
+~
+~
+0 0 1763 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1765
+Dentro il Quartier Generale.~
+Entrato nell'avamposto a destra e a sinistra puoi vedere gli alloggi delle guardie corazzate della Real Armata.
+Sono delle piccole tende distribuite secondo un piano rigoroso e preciso.
+Alcuni affilano le proprie armi, altri si dirigono verso le cucine che puoi riconoscere dalla piccola colonna 
+di fumo che si alza dal forno.
+Senti battere in lontananza il metallo, probabilmente alcuni ancora aspettano di essere equipaggiati.
+La strada principale che attraversa accampamento continua a nord.
+~
+17 4 0
+D0
+~
+~
+0 0 1776 0
+D2
+~
+~
+0 0 1759 0
+D3
+~
+~
+0 0 1775 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1766
+magazzino 1~
+You are in an unfinished room.
+magazzino negozio
+~
+17 16 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1767
+&2Il negozietto dello stregone.&0~
+Questo piccolo negozio presenta oggetti molto preziosi poiche' provenienti dalle
+antiche foreste del lontano est. Un lieve profumo invade la stanza che ben curata tiene 
+pochi oggetti in mostra ma avvolti in raffinate e soffici stoffe.
+Ganrash ti sorride mentre riordina lo scaffale con le pergamene.
+~
+17 140 0
+D1
+~
+~
+0 0 1769 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1768
+Colonia Sendariana in Aldaria~
+Ti trovi alle porte di un piccolo forte difeso da robuste palizzate di sormontate da quattro
+piccole torri di guardia ai quattro angoli del perimetro.
+Alcune guardie difendono l'entrata che delimita la piccola colonia dove  in vigore il codice civile e 
+penale relativo ai territori sendariani.
+Luogo difeso per i lavoratori e per i viaggiatori in cerca di riparo in lontananza da Lamorka.
+Alcuni arceri sulle palizzate proteggono l'ingresso da eventuali criminali che cercano di avvicinarsi.
+~
+17 12 1
+D0
+~
+~
+0 0 1769 0
+D2
+~
+~
+0 0 1495538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1769
+Una piccola piazza.~
+Al centro della colonia si trova questa piccola piazza , da una piccola fontana sgorga acqua 
+purissima. Alcuni mercanti ed alcuni lavoratori trovano riposo in questo luogo,altri si preparano a 
+partire.La piazza   composta di piccole piastrelle quadrate scure ma molto lisce che di sera 
+riflettono lievemente la luce delle torce appese lungo gli edifici circostanti.
+Al centro della fontana una piccola statua raffigura tre cavalieri vicini che si spostano cavalcando 
+velocemente, i due ai lati impugnano una spada e una lancia mentre quello tra i due si trova 
+leggermente davanti e porta con se lo stendardo di Sendaria.
+~
+17 28 1
+D0
+~
+~
+0 0 1770 0
+D1
+~
+~
+0 0 1772 0
+D2
+~
+~
+0 0 1768 0
+D3
+~
+~
+0 0 1767 0
+D5
+~
+~
+0 0 1774 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1770
+&1Una piccola Forgia&0~
+Questo ambiente caldo e' dovuto alla presenza di molti forni ad altassima
+della Colonia Sendariana dove puoi lavorare i tuoi metalli grezzi. 
+Questa forgia e' stata voluta appositamente dai Governatori per il bene dei lavoratori
+~
+17 2097176 0
+D0
+~
+~
+0 0 1771 0
+D2
+~
+~
+0 0 1769 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1771
+Il Laboratorio prezioso della Colonia~
+ Questo laboratorio contiene parecchi tavoli con lente d'ingrandimento per
+permettervi di trasformare i vostri grezzi in autentiche pietre preziose di
+ottima qualita'.
+~
+17 33554440 0
+D2
+~
+~
+0 0 1770 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1772
+Mulino e Fornace della Colonia~
+Un profumo di pane appena sfornato ti investe appena entri in questo
+frantoio.  Qui i mugnai di tutto il Regno vengono a macinare e ripulire i
+prodotti che la fertile terra dona loro in cambio di un duro lavoro.    
+~
+17 2147483656 0
+D1
+~
+~
+0 0 1773 0
+D3
+~
+~
+0 0 1769 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1773
+La Falegnameria della Colonia~
+ Decine e decine di tronchi accatastati lungo i muri sono il principale
+arredamento del locale insieme agli arnesi per lavorarli.  Qui puoi tagliare i
+tronchi per poi lavorarli in carpenteria.    
+~
+17 8388616 0
+D3
+~
+~
+0 0 1772 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1774
+I Magazzini della Colonia~
+Ti trovi in un enorme  magazzino sotterraneo, adibito alla conservazione dei materiali
+usati dai lavoratori sendariani.
+Le fredde pareti della stanza non lasciano entrare umidita' che potrebbe danneggiare
+il contenuto delle stanze.
+Una fioca luce di torcia invade la stanza,molte scaffalature e armadi posti
+lungo le pareti aspettano solo di essere riempiti.
+~
+17 0 0
+D4
+~
+~
+0 0 1769 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1775
+Gli alloggi delle Guardie Corazzate.~
+Un forte odore di brace pervade l'interno di questa grande serie di tende.
+Sono disposte in modo da formare ovali, al centro dei quali si trova un focolare sempre acceso.
+Dentro le tende puoi vedere letti ben ordinati e armature smontate poste lungo di essi.
+Molti cercano di divertirsi in attesa del giorno della battaglia.
+~
+17 4 0
+D0
+~
+~
+0 0 1781 0
+D1
+~
+~
+0 0 1765 0
+D3
+~
+~
+0 0 1780 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1776
+Il Centro dell'accampamento.~
+Ti trovi davanti ad una grande quercia, punto di riferimento di tutto l'accampamento.
+Qua i piu' valorosi cavalieri si riuniscono a meditare e la sera si raccontano le loro avventure nelle terre dell'est.
+A contrario di tutto il resto dell'accampamento qua resiste un vigoroso silenzio durante tutto il giorno.
+Ai piedi della quercia e' stato appeso un lungo manifesto con il quale le nuove notizie riguardanti il movimento
+dell'esercito nemico vengono diffuse all'armata, sottolineando l'importanza della disciplina, esaltando l'onore e
+invitando tutto l'esercito a tenedersi sempre porto ad una immediata partenza.
+~
+17 4 0
+D0
+~
+~
+0 0 1779 0
+D1
+~
+~
+0 0 1778 0
+D2
+~
+~
+0 0 1765 0
+D3
+~
+~
+0 0 1777 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1777
+Gli alloggi delle Guardie della Real Armata.~
+Un forte odore di brace pervade l'interno di questa grande serie di tende.
+Sono disposte in modo da formare ovali, al centro dei quali si trova un focolare sempre acceso.
+Dentro le tende puoi vedere letti ben ordinati e armature smontate poste lungo di essi.
+Molti cercano di divertirsi in attesa del giorno della battaglia.
+~
+17 4 0
+D1
+~
+~
+0 0 1776 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1778
+Gli alloggi dei Picchieri.~
+You are in an unfinished room.
+Un forte odore di brace pervade l'interno di questa grande serie di tende.
+Sono disposte in modo da formare ovali, al centro dei quali si trova un focolare sempre acceso.
+Dentro le tende puoi vedere letti ben ordinati e armature smontate poste lungo di essi.
+Molti cercano di divertirsi in attesa del giorno della battaglia.
+~
+17 4 0
+D3
+~
+~
+0 0 1776 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1779
+La sede degli ufficiali.~
+Questo rifugio in legno si trova all'estremo nord dell'accampamento.
+L'interno e' ben arredato e pulito,una grande bandiera con lo stemma della Real Casata di Gandyr
+e' posta dietro una piccola scrivania sormontata da mappe e pergamene con schemi di guerra.
+~
+17 0 0
+D2
+~
+~
+0 0 1776 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1780
+Gli alloggi delle Guardie Corazzate.~
+Un forte odore di brace pervade l'interno di questa grande serie di tende.
+Sono disposte in modo da formare ovali, al centro dei quali si trova un focolare sempre acceso.
+Dentro le tende puoi vedere letti ben ordinati e armature smontate poste lungo di essi.
+Molti cercano di divertirsi in attesa del giorno della battaglia.
+~
+17 4 0
+D1
+~
+~
+0 0 1775 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1781
+Gli alloggi delle Guardie Corazzate.~
+Un forte odore di brace pervade l'interno di questa grande serie di tende.
+Sono disposte in modo da formare ovali, al centro dei quali si trova un focolare sempre acceso.
+Dentro le tende puoi vedere letti ben ordinati e armature smontate poste lungo di essi.
+Molti cercano di divertirsi in attesa del giorno della battaglia.
+~
+17 4 0
+D2
+~
+~
+0 0 1775 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1782
+Lungo il sentiero~
+Il sentiero, stretto e poco battuto,  si muove sinuosamente attraverso le fronde
+degli alberi, cespugli selvatici e fiori di ogni genere. Mano a mano che cammini
+perdi il senso dell'orientamento...  le cime degli  imponenti alberi oscurano il
+cielo,  impedendoti di orientarti.  Deboli raggi  attraversano le  fronde quanto
+basta per lasciarti intravedere il corso  di un piccolo fiume che allieta le tue
+orecchie, facendoti scordare il disagio provato per la perdita della via.
+~
+17 0 0
+D0
+~
+~
+0 0 6002 0
+D1
+~
+~
+0 0 6002 0
+D2
+~
+~
+0 0 1783 0
+D3
+~
+~
+0 0 6002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1783
+Lungo il sentiero~
+Il sentiero, stretto e poco battuto,  si muove sinuosamente attraverso le fronde
+degli alberi, cespugli selvatici e fiori di ogni genere. Mano a mano che cammini
+perdi il senso dell'orientamento...  le cime degli  imponenti alberi oscurano il
+cielo,  impedendoti di orientarti.  Deboli raggi  attraversano le  fronde quanto
+basta per lasciarti intravedere il corso  di un piccolo fiume che allieta le tue
+orecchie, facendoti scordare il disagio provato per la perdita della via.
+~
+17 0 0
+D0
+~
+~
+0 0 6002 0
+D1
+~
+~
+0 0 6001 0
+D2
+~
+~
+0 0 6002 0
+D3
+~
+~
+0 0 6002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1787
+&3Una piccola luce ingannevole...&0~
+Credevi di poter uscire facilmente da questa piccola apertura ma...
+
+
+
+&1Una Caduta di Macerie ti sommerge!.....
+
+
+&0Sei completamente intrappolato in questa stanza.. che ormai non ha piu' vie d'uscita.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1788
+Un Passaggio Segreto~
+Entrato in questa piccola stanza dalla porticina del tunnel ti trovi in una stanza apparentemente senza uscite.
+Improvvisamente capisci che una di queste pareti nasconde un passaggio ad est...
+Non vedi il momento di uscire da questo stretto tunnel.. l'aria comincia a mancarti..
+~
+17 0 0
+D1
+~
+~
+0 0 20032 0
+D5
+~
+~
+0 0 1790 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1789
+Uno stretto tunnel~
+Questo strettissimo tunnel sotterraneo e' leggermente illuminato da delle torce poste lungo il cammino.
+Scende in profondita' sotto Lamorka e si dirige verso nord.
+Ad una profondit pari a quella delle fogne e dei sotterranei continua orizzontalemente..
+Intravedi una piccola porticina di legno... forse sei arrivato alla fine del tunnel
+~
+17 0 0
+D2
+~
+~
+0 0 1791 0
+D4
+~
+~
+0 0 1788 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1790
+Uno stretto tunnel~
+Questo strettissimo tunnel sotterraneo e' leggermente illuminato da delle torce poste lungo il cammino.
+Scende in profondita' sotto Lamorka e si dirige verso nord.
+Ad una profondit pari a quella delle fogne e dei sotterranei continua orizzontalemente..
+~
+17 0 0
+D0
+~
+~
+0 0 1789 0
+D2
+~
+~
+0 0 1791 0
+D4
+~
+~
+0 0 1787 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1791
+Uno stretto tunnel~
+Questo strettissimo tunnel sotterraneo e' leggermente illuminato da delle torce poste lungo il cammino.
+Scende in profondita' sotto Lamorka e si dirige verso nord.
+Ad una profondit pari a quella delle fogne e dei sotterranei continua orizzontalemente..
+~
+17 0 0
+D0
+~
+~
+0 0 1790 0
+D4
+~
+~
+0 0 1792 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1792
+La stanza della Riflessione.~
+In questa stanza ben arredata i Senatori possono ritrovarsi per discutere o riflettere.
+Una piccola scaletta di pietra posta in un angolo conduce verso il basso.
+Nella parte opposta della stanza vi sono invece quattro poltrone riunite a cerchio attorno ad un tavolino.
+~
+17 0 0
+D3
+~
+~
+0 0 1796 0
+D5
+~
+~
+0 0 1791 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1793
+&1Un piccolo Rifugio&0~
+Questa piccola stanzetta ha le pareti rivestite in ferro.
+E' un riugio essenziale, per proteggere i Senatori in caso di pericolo.&0
+Alcuni armadi contengono delle provviste per garantire una tranquilla permanenza prolungata nella stanza.
+~
+17 2712 0
+D1
+~
+~
+0 0 1798 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1794
+Una uscita segreta~
+Questo piccolo passaggio e' una interessante via di fuga.
+~
+17 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 765296 1799 135
+D2
+~
+~
+0 0 2095057 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1795
+&7L'ingresso del Senato Sendariano.&0~
+&7&dUn lungo corridoio fiancheggiato lateralmente da delle grandi colonne di marmo bianco...&0
+&7Lungo le pareti del corridoio .. tra le colonne .. e' possibile vedere alcuni bellissimi &3affreschi&0...&0
+&7Continua per diversi metri e porta all'ingresso del Senato Sendariano.&0
+~
+17 2568 0
+D0
+Una porta di legno.
+~
+porta~
+1 769035 6686 167
+D1
+~
+~
+0 0 1792 0
+D2
+~
+~
+0 0 1796 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1796
+&7L'ingresso del Senato Sendariano&0~
+&7Terminato il lungo corridoio arrivi in una grandissima stanza circolare.&0
+&7Un piccolo pilastro si trova al centro della stanza, porta su di esso lo stemma Sendariano&0
+&7Molte magnifiche &4Statue&7 di Leggendari Sendariani sono state posizionate tra le colonne.&0
+~
+17 2568 0
+D0
+~
+~
+0 0 1795 0
+D2
+~
+~
+0 0 1797 0
+E
+governatori~
+Puoi riconoscere le statue dei seguenti Governatori:
+Nalef
+Sarbyn
+Pop
+Irin
+Esmeralda
+Hamias
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1797
+&7La Camera Inferiore.&0~
+&7Una enorme stanza esagonale sempre in marmo bianchissimo.&0
+&7Un Tavolo ricavato da una antica quercia proveniente dalle foreste sendariane...&0
+&7a forma ottagonale si trova al centro della stanza,per accogliere i Senatori.&0
+&7Molte bellissime sedie sono state poste intorno al grande tavolo&0
+&7Al Centro del Tavolo si trova Una piccola Statuetta di Silue che emette una forte luce&0.
+~
+17 2568 0
+D0
+~
+~
+0 0 1796 0
+D2
+~
+~
+0 0 1798 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1798
+&7La Camera Superiore&0~
+&7Una Grandissima Stanza dalla forma rettangolare con un soffitto molto alto.&0
+&7Una grande tavola ovale in pietra per accogliere i Senatori...&0
+&7Quattro camini sono stati posti lungo le pareti per scaldare l'ambiente d'inverno&0
+&7Alcuni bellissimi quadri sono posizionati tra i camini....&0 
+&7Da una piccola stupenda fontana al centro del Tavolo di Pietra zampilla acqua purissima..&0
+~
+17 2568 0
+D0
+~
+~
+0 0 1797 0
+D2
+~
+~
+0 0 1799 0
+D3
+~
+~
+0 0 1793 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1799
+&7Il Consiglio dei Governatori&0~
+&7Una piccola stanza ovale con un piccolo tavolo al centro.&0
+&7Un piccolo &1camino&0&7 si trova in fondo alla stanza&0
+&7Due divani coperti da stoffe pregiatissime al lato desto e sinistro della stanza&0
+&7Due Grandi finestre si trovano sopra i divani dalle quali si puo' vedere le mura di Lamorka.&0
+Una piccola porticina....
+~
+17 2568 0
+D0
+~
+~
+0 0 1798 0
+D2
+Una porta di legno.
+~
+porta~
+1 765296 1794 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1800
+Terreno fangoso~
+La vicina palude ha creato questo luogo al confine tra l'asciutto e il bagnato.
+Uno schifoso conglomerato di fango e insetti
+~
+17 0 2
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1801
+Un oscuro tunnel.~
+Il buio avvolge tutto , impedendoti di vedere le pareti del tunnel . L'aria e' greve di un odore stagnante e rimbomba per le sordide grida che provengono dal fondo.
+~
+17 261 0
+D4
+~
+~
+0 0 1537528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1802
+Giu' nel tunnel .~
+Una tenue luce inizia a provenire dal basso , su un lato del tunnel scorgi le radici del grande albero , che appaio come tagliate in alcuni punti da cui sgorga un argentea linfa.
+~
+17 261 0
+D4
+Verso la luce.
+~
+~
+0 0 1801 0
+D5
+Una tenue e strana luce proviene dal basso ... scorgi la fine delle radici del grande albero...
+~
+~
+0 0 1803 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1803
+Le grandi radici .~
+Le grosse e forti radici dell'albero terminano poco sotto i tuoi piedi , piccole fiaccole sono poste ai lati del tunnel ,che gira intorno all'albero .
+La tenue luce si riflette su delle strane &7&dpozzanghere argentee&0 , da cui viene riflessa in strani giochi di luce che si proiettano sulle pareti
+~
+17 0 0
+D2
+~
+~
+0 0 1804 0
+D4
+Lontano intravedi una tenue luce....
+~
+~
+0 0 1802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1804
+Intorno alle grandi radici .~
+Alla tua sinistra continui a vedere le radici del grande albero , ovunque senti strani rumori ... ti sembra che qualcuno sia intento a segare e tagliare.
+~
+17 0 0
+D0
+~
+~
+0 0 1803 0
+D1
+~
+~
+0 0 1805 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1805
+Le radici spezzate.~
+Un forte e acido odore ti penetra nelle narici , ovunque pezzi di radici miste all'&b&9argentea linfa&0 imputridiscono ,uno forte senso di sconforto e  tristezza ti coglie innanzi a tanta crudelta' e devastazione
+~
+17 0 0
+D0
+~
+~
+0 0 1807 0
+D2
+Il terrore ti blocca nn riesci a muovere un singolo muscolo in quella direzione.
+~
+~
+0 0 1806 0
+D3
+~
+~
+0 0 1804 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1806
+La grande caduta .~
+Appena guardi verso sud il apnico ti coglie .... un enorme voragine si apre innanzi ai tuoi piedi ...
+Calde esalazioni provengono dai bollori della terra ....
+
+Hai solo il tempo di ripensare ai tuoi cari nella latale caduta.
+
+ADDIO !! Sei morto .
+~
+17 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1807
+&9&bL'oscuro bivio.&0~
+Scoppiettanti fiaccole lambiscono l'entrata di due caverne , fronde sono accostate in un angolo a coprire oscuri passaggi . 
+Ruvide ,voci provenienti da tutte le direzioni  , si uniscono in un assordante e confuso eco ....
+~
+17 0 0
+D0
+~
+~
+0 0 1815 0
+D1
+~
+Le fronde.~
+0 0 1812 0
+D2
+~
+~
+0 0 1805 0
+D3
+~
+~
+0 0 1814 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1808
+Vette innevate~
+Sei coperto di neve fino alla vita e cammini a stento nella bufera mentre rimpiangi di essere 
+salito fin quassu'
+~
+17 0 7
+D3
+~
+~
+0 0 1 0
+D5
+~
+~
+0 0 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1809
+L'intensa luce.~
+La luce si fa piu' intensa , scorgi chiaramente verso ovest delle grottesche figure di orchi addormentati su un tavolo innanzi a rozzi boccali ...
+Il vociare e' intenso e concitato .
+~
+17 260 0
+D4
+~
+~
+0 0 1810 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1810
+La scala di corda~
+La scala di corda scende verso il basso , i pioli sono con una forte e grossa corda intrecciata.
+~
+17 260 0
+D4
+~
+~
+0 0 1812 0
+D5
+~
+~
+0 0 1809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1812
+Dietro le fronde.~
+Sei riuscito a spostare delle fitte fronde
+Al centro della stanza scorgi una profonda buca dentro la quale si snoda verso il basso una solida scala a corda.
+~
+17 0 0
+D3
+~
+~
+0 0 1807 0
+D5
+~
+~
+0 0 1810 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1813
+&1La tragica visione.&0~
+La luce porveniente da sopra illumina parzialmente la stanza ,lasciando al buio 
+le pareti laterali della caverna .
+Al centro della sala noti un figura distesa , coperta parzialmente &bda un verde mantello.&0
+~
+17 0 0
+D4
+~
+~
+0 0 1814 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1814
+Intorno all'albero.~
+Qui le radici dell'albero sembrano ancora integre , forti e vigorose le vedi affondare nel terreno.
+In un angolo del tunnel vedi riverso su una sega il corpo privo di vita di un orco , mortalmente colpito alle spalle.
+~
+17 0 0
+D1
+~
+~
+0 0 1807 0
+D5
+~
+~
+0 0 1813 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1815
+Il sentiero in discesa.~
+Grosse travi di legno sostengono un enorme tunnel , la strada scende per un lungo tratto , finche' scompare dietro un curva .
+Tremolanti fiaccole illuminano la strada.
+~
+17 0 0
+D0
+~
+~
+0 0 1816 0
+D2
+~
+~
+0 0 1807 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1816
+Verso la curva.~
+Il tuo sguardo riesce a spingersi poco lontano , perche' un muro ti si para innanzi 
+ma vedi una forte luce provenire da est
+~
+17 0 0
+D0
+~
+~
+0 0 1817 0
+D2
+~
+~
+0 0 1815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1817
+La stretta curva.~
+Il sentiero termina innanzi ad una muro ma ad est scorgi un forte bagliore e delle strane ombre che si muovono .
+Noti che grossi speroni di solida roccia restringono fortemente il passaggio.
+~
+17 0 0
+D1
+~
+~
+0 0 1818 0
+D2
+~
+~
+0 0 1816 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1818
+Lo stretto passaggio.~
+Passi lentamente e con cautela attraverso degli appuntiti speroni di roccia .
+La pietra e' rozzamente tagliata e vivi spigoli , affilati come lame spuntano da essa
+lacerandoti le vesti.
+~
+17 261 0
+D1
+~
+~
+0 0 1819 0
+D3
+~
+~
+0 0 1817 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1819
+Davanti al portone.~
+Due alta colonne di pietra incisa si ergono ai lati di un immenso portone d'ebano 
+nero , strane raffigurazioni demoniache si rincorrono in malvaggi e festosi sabba 
+infernali . Sopra la porta vedi un immensa statua di uno strano essere avvolto in 
+una tunica , nulla si vede del suo aspetto tranne due rossi occhi fatti di rubino 
+che spiaccano crudeli e vigorosi da sotto il capuccio .
+~
+17 0 0
+D0
+~
+~
+0 0 1820 0
+D2
+~
+~
+0 0 1821 0
+D3
+~
+~
+0 0 1818 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1820
+Il posto di guardia.~
+Sedie , barili e cibo sono accumulati alla rinfusa nella stanza per sostentare le guardie durante gli interminabili turni di guardia .
+Forti e grosse sentinelle si accorgono subito della tua presenza e ti corrono incontro, pronte ad ucciderti!
+~
+17 0 0
+D2
+~
+~
+0 0 1819 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1821
+Il posto di guardia~
+You are in an unfinished room.
+Sedie , barili e cibo sono accumulati alla rinfusa nella stanza per sostentare le guardie durante gli interminabili turni di guardia .
+Forti e grosse sentinelle si accorgono subito della tua presenza e ti corrono incontro, pronte ad ucciderti!
+~
+17 0 0
+D0
+~
+~
+0 0 1819 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1822
+Alle porte del borgo~
+Un massiccio portone di legno si staglia alto e solenne all'interno di un grande arco
+di ruvida pietra . Le mura del borgo si ergono forti ed invalicabili culminando in 
+due piccole torrette poste ai lati del portone , da cui intravedi sagome in movimento.
+~
+17 4 0
+D0
+L'imponente portone
+~
+Portone~
+1 0 1823 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1823
+La via maestra.~
+Un ampia via sembra percorrere il piccolo borgo da nord a sud , basse casette costeg
+giano la strada , ma guardandole noti che sono tutte sbarrate pesantemente tranne
+alcune dove gli usci sono stati barbaramente divelti . Ovunque vedi vasellame rotto 
+vestiti abbandonati , cocci di ogni genere e forma
+~
+17 0 0
+D2
+~
+~
+0 0 1822 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1824
+Accampamento della Mano Nera.~
+L'esercito di Xari'an ha abbandonato questo accampamento da qualche ora ed adesso un
+desolante silenzio ristagna tra le varie tende lasciate al tempo.
+Una piccola torre probabilmente usata dalle sentinelle per osservare in lontanaza adesso
+copre la fioca luce del sole dal tuo viso.
+~
+17 0 0
+D0
+~
+~
+0 0 1825 0
+D2
+~
+~
+0 0 1439593 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1825
+L'incrocio delle strade.~
+Il centro dell'accampamento era costituito da un grande focolare ormai spento da molte ore.
+Da sotto le pietre scure che compongono il focolare si alzano ancora piccole scie di fumo che
+si mescolano con le fredde nebbie che coprono le tende circostanti.
+~
+17 0 0
+D0
+~
+~
+0 0 1827 0
+D2
+~
+~
+0 0 1824 0
+D3
+~
+~
+0 0 1826 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1826
+Le tende dell'Esercito.~
+Alla tua vista un enorme e selvaggia distesa di sporche e decadenti tende da viaggio.
+Barbaramente disposte contengono giacigli di paglia e terra.
+Lungo le strette vie tra le tende resti di animali divorati e carcasse di cavalli.
+Dalla notte precedente lunghe scie di sangue scorrono tra le varie tende,testimonianze
+di riti oscuri.
+~
+17 0 0
+D1
+~
+~
+0 0 1825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1827
+La grande tenda di Xari'an.~
+Tra le varie tende degli ufficiali questa e' sicuramente la pi spaziosa e abitabile.
+Un grosso tavolo di quercia scura domina l'alloggio piu' pulito e decoroso.
+A differenza delle altre tende questa sembra essere stata abbandonata in attesa di un ritorno.
+~
+17 0 0
+D2
+~
+~
+0 0 1825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1830
+I manicaretti di "&3Dolce Patata&0"~
+L'ambiente curato e confortevole offre la deliziosa, familiare sensazione della
+tavola casareccia, e ti mette allegria dal primo passo.  Squisiti profumi di
+cibo genuino aleggiano dal forno creando una gustosa nebbiolina che si insinua
+nelle tue narici fomentando notevolmente il tuo appetito.  La stanza, piccola e
+dominata dal forno, e' sobria e priva di tavoli.  Qui ti senti a casa tua!    
+
+C'e' un vistoso &7&bCARTELLO&0 attaccato sul bancone.
+~
+17 0 0
+D2
+~
+~
+0 0 6628 0
+E
+cartello~
+Negozio riaperto grazie al benevolo aiuto di un investitore che vuole rimanere nell'anonimato... nel Nulla.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1841
+Un ampio salone~
+Ah! Il grande salone! I tuoi occhi si perdono nelle enormi profondita' spaziali di questa stanza.
+Il soffitto sembra lontanissimo, dipinto con affreschi tanto complessi che non riesci a distinguerne
+il soggetto.
+Le grandi scale bianche davanti a te conducono ai piani superiori, ma sono ben piu'
+di un semplice mezzo di collegamento, la loro grandezza e bellezza ti lascia senza fiato, come
+ogni cosa qui dentro.
+Dai candelabri ai tappeti, dai quadri appesi al muro ai raffinati intagli dei mobili, tutto e' stupendo 
+e niente e' lasciato al caso.
+~
+17 21 0
+D0
+~
+~
+0 0 1092 0
+D2
+~
+~
+0 0 5676 0
+D3
+~
+~
+0 0 5678 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1842
+I monoliti.~
+Appena varchi la soglia ti rendi conto di essere innannzi a qualcosa di unico ,
+grandioso e tremendo allo stesso tempo . Una sottile lingua di roccia porta
+verso un enorme spiazzo ; ai lati dello stretto passaggio solo vuoto , senza
+fine , senza ritorno , tutto lascia pensare che la caduta nn si arresterebbe se
+non nelle viscere della terra . Sporgi cautamente lo sguardo oltre lo stretto
+cammino e cio' che vedi ti lascia stupefatto ed attonito , l'enorme spiazzo al
+di sotto ha la forma di un enorme cono sospeso magicamente nel vuoto , nulla lo
+regge ...  Avanzi cautamente verso lo spiazzo e noti che quelli che da lontano
+sembravano semplici pietre sono invece enormi monoliti ellittici , che si
+stagliano verso l'alto immensi e tremendi . Al centro dell'imperfetto cerchio
+formato dai monoliti vedi un guerriero , alto ,fiero , il mantello si muove
+leggermente al tiepido vento degli inferi che proviene dall'alto ...  Ti guarda
+e pone la mano sull'elsa della luminosa spada ...  E ti sorride.    
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1850
+Una piccola sala fumosa~
+Ti trovi in una piccola stanza in cui aleggia un puzzolente fumo di sigaro.  
+Sedute ad un angolo alcune losche figure (di varie indefinibili razze)
+parlottano osservandoti, altri sono appoggiati ai muri o litigano di fronte a
+grossi calici di liquore.  Se cercavi un mercenario sei arrivato nel luogo
+giusto, in caso contrario forse sarebbe il caso di allontanarsi in fretta
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1851
+Magazzino mercenari~
+La sala dove si accumulano i mercenari
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1852
+Un corridoio nelle galere~
+E' un corridoio sporco e umido
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1853
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1854
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1855
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1856
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1857
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1858
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1859
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1860
+Una Cella~
+You are in an unfinished room.
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1861
+Una Cella~
+Questa cella e' sporca e umida come qualsiasi altra..  In compenso e' anche
+piuttosto buia, in quanto l'unico spiraglio d'aria scende da alcune grate
+costruite sommariamente sul soffitto.  Sara' difficile uscirne.    
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1862
+Una Cella~
+Questa cella e' sporca e umida come qualsiasi altra..  In compenso e' anche
+piuttosto buia, in quanto l'unico spiraglio d'aria scende da alcune grate
+costruite sommariamente sul soffitto.  Sara' difficile uscirne.    
+~
+17 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1863
+Una Cella~
+Questa cella e' sporca e umida come qualsiasi altra..  In compenso e' anche
+piuttosto buia, in quanto l'unico spiraglio d'aria scende da alcune grate
+costruite sommariamente sul soffitto.  Sara' difficile uscirne.    
+~
+17 0 0
+D3
+~
+~
+0 0 1865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1864
+Una Cella~
+Questa cella e' sporca e umida come qualsiasi altra..  In compenso e' anche
+piuttosto buia, in quanto l'unico spiraglio d'aria scende da alcune grate
+costruite sommariamente sul soffitto.  Sara' difficile uscirne.    
+~
+17 0 0
+D1
+~
+~
+0 0 1865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1865
+Il corridoio delle prigioni~
+Un corridoio stretto, scavato nella pietra, si estende per pochi metri dando
+accesso alle quattro umide celle delle prigioni di Chyrellos.  Le mura in
+pietra sono rovinate e graffiate...  Da qui non si esce senza un colpo di
+fortuna..    
+~
+17 0 0
+D1
+~
+~
+0 0 1863 0
+D2
+~
+~
+0 0 1866 0
+D3
+~
+~
+0 0 1864 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1866
+La fine del corridoio delle prigioni~
+Con le porte delle ultime due celle finisce l'angusto corridoio...  
+Sicuramente non ti trovi qui per questioni piacevoli.  Ad ogni modo, puoi
+sentire i passi assonnati della guardia di turno...    
+~
+17 0 0
+D0
+~
+~
+0 0 1865 0
+D1
+~
+~
+0 0 1862 0
+D3
+~
+~
+0 0 1861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1867
+&7La poppa del "&1Venusia&7"&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1868 0
+D5
+~
+~
+0 0 1876 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1868
+&7Sul ponte del "&1Venusia&7"&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1869 0
+D3
+~
+~
+0 0 1867 0
+D5
+~
+~
+0 0 1871 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1869
+&7Sul ponte del "&1Venusia&7"&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1870 0
+D3
+~
+~
+0 0 1868 0
+D5
+~
+~
+0 0 1874 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1870
+&7La prua del "&1Venusia&7"&0~
+You are in an unfinished room.
+~
+17 0 0
+D3
+~
+~
+0 0 1869 0
+D4
+~
+~
+0 0 1875 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1871
+Sotto Coperta!~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1872 0
+D3
+~
+~
+0 0 1874 0
+D4
+~
+~
+0 0 1868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1872
+&7La stanza dei rematori del "&1Venusia&7"&0~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1873 0
+D3
+~
+~
+0 0 1871 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1873
+&7La stiva del "&1Venusia&7"&0~
+Nothing.
+~
+17 0 0
+D3
+~
+~
+0 0 1872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1874
+&7Le cucine del "&1Venusia&7"~
+You are in an unfinished room.
+~
+17 0 0
+D4
+~
+~
+0 0 1869 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1875
+&7La cabina della capitana&0~
+You are in an unfinished room.
+~
+17 0 0
+D5
+~
+~
+0 0 1870 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1876
+&7L'infermeria del "&1Venusia&7"~
+You are in an unfinished room.
+~
+17 0 0
+D4
+~
+~
+0 0 1867 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1890
+Un cantiere~
+You are in an unfinished room.
+~
+17 0 0
+D0
+~
+~
+0 0 1891 0
+D2
+~
+~
+0 0 6882 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1891
+Un cantiere dell'anfiteatro~
+You are in an unfinished room.
+~
+17 68719479308 0
+D0
+~
+~
+0 0 1893 0
+D1
+~
+~
+0 0 1892 0
+D2
+~
+~
+0 0 6882 0
+D3
+~
+~
+0 0 1894 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1892
+Un cantiere dell'anfiteatro~
+You are in an unfinished room.
+~
+17 68719479308 0
+D3
+~
+~
+0 0 1891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1893
+Un cantiere dell'anfiteatro~
+You are in an unfinished room.
+~
+17 68719479308 0
+D2
+~
+~
+0 0 1891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1894
+Un cantiere dell'anfiteatro~
+You are in an unfinished room.
+Una delle aree in cui si preparavano le fondamenta dell'anfiteatro di lamorka.
+~
+17 68719479308 0
+D1
+~
+~
+0 0 1891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1895
+Il cantiere delle nuove officine di Cimmura~
+Operai a torso nudo camminano freneticamente in questo grande spiazzale
+sterrato, che il regno di Cimmura ha adibito a cantiere per la costruzione
+della nuova zona lavorativa.  Il fragore dei martelli che battono sulle pietre,
+i fumi della fucina, l'odore della calce, ti circondano quando ti guardi
+intorno.    
+~
+17 0 0
+D0
+~
+~
+0 0 1896 0
+D2
+~
+~
+0 0 1897 0
+D3
+~
+~
+0 0 8540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1896
+Un magazzino del cantiere~
+Merce di ogni tipo e' ammucchiata dappertutto, per lo piu' metallo e materiali edili
+~
+17 2056 0
+D2
+~
+~
+0 0 1895 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1897
+Un magazzino del cantiere~
+Merce di ogni tipo e' ammucchiata dappertutto, per lo piu' metallo e materiali edili
+~
+17 2048 0
+D0
+~
+~
+0 0 1895 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1900
+&6Una strada in disuso&0~
+Ti lasci alle spalle le fortificazioni della capitale e ti incammini
+lungo una strada che, a giudicare dallo stato di incuria, non usa piu'
+nessuno da molti mesi. Ti viene il sospetto che probabilmente se gli
+abitanti della citta' non usano piu' questa strada avranno un valido
+motivo, di cui forse faresti bene ad informarti prima di proseguire.
+~
+17 1092 0
+D1
+~
+~
+0 0 31552 0
+D3
+~
+~
+0 0 1901 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1901
+&7Risaia abbandonata&0~
+A quanto pare questa risaia e' stata lasciata a se stessa molti mesi
+fa e ormai e' piena di erbacce di ogni tipo che la fanno sembrare una
+piccola palude. A nord ed a sud scorgi altri campi di riso
+abbandonati, mentre ad ovest scorgi le propaggini di un bosco, il
+pantano diventa cosi' profondo pero' in quella direzione da rendere
+impossibile raggiungerlo da qui.
+~
+17 1088 0
+D0
+~
+~
+0 0 1902 0
+D1
+~
+~
+0 0 1900 0
+D2
+~
+~
+0 0 1903 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1902
+&7Risaia abbandonata&0~
+A quanto pare questa risaia e' stata lasciata a se stessa molti mesi
+fa e ormai e' piena di erbacce di ogni tipo che la fanno sembrare una
+piccola palude. Il bosco che intravedevi ad ovest qui si avvicina alle
+risaie ed il terreno pare un poco piu' solido. Facendo attenzione a
+dove metti i piedi dovresti riuscire a raggiungerlo.
+~
+17 1089 0
+D2
+~
+~
+0 0 1901 0
+D3
+~
+~
+0 0 1904 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1903
+&7Risaia abbandonata&0~
+A quanto pare questa risaia e' stata lasciata a se stessa molti mesi
+fa e ormai e' piena di erbacce di ogni tipo che la fanno sembrare una
+piccola palude. Qui il terreno si abbassa e diventa sempre pi
+paludoso rendendoti impossibile proseguire in qualsiasi direzione.
+L'unica soluzione pare essere quella di tornare sui tuoi passi. Il
+ronzio degli insetti e' assordante!
+~
+17 1088 0
+D0
+~
+~
+0 0 1901 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1904
+&2&bIl bosco Kaede&0~
+Il terreno comincia decisamente a salire, sei contento di lasciarti
+alle spalle tutta quella fanghiglia. Vieni presto circondato da aceri,
+imponenti castagni e quercie in quello che pare un bosco molto fitto.
+Se stai fermo e zitto, ogni tanto puoi cogliere degli strani fruscii,
+ma in cuor tuo sai che sono dovuti unicamente alle creature della
+foresta. O no? Il bosco ti circonda completamente e sei un po'
+indeciso su quale direzione prendere.
+~
+17 1088 0
+D0
+~
+~
+0 0 1906 0
+D1
+~
+~
+0 0 1902 0
+D2
+~
+~
+0 0 1905 0
+D3
+~
+~
+0 0 1909 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1905
+&2&bIl bosco Kaede&0~
+La vegetazione diventa sempre piu' fitta ed intricata, ma forse hai
+trovato quello che pare un sentiero tortuoso che si arrampica verso
+l'alto serpeggiando tra la vegetazione. Fruscii continui paiono venire
+da tutte le direzioni, in special modo dalle alte fronde degli alberi
+sopra la tua testa.
+Ad un tratto il sentiero si biforca: un ramo prosegue verso ovest
+mentre l'altro svolta a sud. A Nord invece il bosco pare ancor piu'
+fitto.
+~
+17 1088 0
+D0
+~
+~
+0 0 1904 0
+D2
+~
+~
+0 0 1907 0
+D3
+~
+~
+0 0 1910 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1906
+&2&bIl bosco Kaede&0~
+Ti inoltri un altro po' nel bosco, quando ad un tratto senti un
+click inquietante. Abbassando lo sguardo noti di avere strattonato col
+piede un filo teso tra due alberi. Ti volti appena in tempo per vedere
+un tronco di legno dalla punta acuminata dirigersi verso il tuo volto,
+sfondandoti il cranio.
+~
+17 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1907
+&2&bIl bosco Kaede&0~
+Prosegui con fatica lungo il sentiero appena accennato quando
+all'improvviso ti accorgi che sul tronco dell'enorme quercia alla tua
+sinistra e' stata fissata una rudimentale scala a pioli. Guardando
+verso l'alto scorgi quella che pare una baracca di legno costruita tra
+i rami dell'albero. Il sentiero prosegue verso sud attraverso gli
+alberi.
+~
+17 1088 0
+D0
+~
+~
+0 0 1905 0
+D2
+~
+~
+0 0 1908 0
+D4
+~
+~
+0 0 1912 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1908
+&2&bIl bosco Kaede&0~
+Mentre prosegui lungo il sentiero domandandoti dove ti condurra',
+all'improvviso senti la terra mancare sotto i tuoi piedi! Una profonda
+buca era stata abilmente nascosta da qualcuno utilizzando rami e zolle
+di terra. Peccato che sul fondo della buca ci siano anche parecchi
+pali acuminati. Ora hai finalmente trovato la risposta alla domanda
+che ti stavi facendo.
+~
+17 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1909
+&2&bIl bosco Kaede&0~
+Gli alberi paiono aprirsi in una radura luminosa in questo angolo del
+bosco. Quelli che sembrano essere i resti di una casetta andata a
+fuoco stanno in mezzo allo spiazzo erboso. Mentre ti chini ad
+esaminare i ruderi un freddo pugnale si pianta nella tua schiena
+trapassando il polmone sinistro e andando a squarciare il cuore,
+uccidendoti. L'ultima cosa che vedi mentre ti accasci e' la figura di
+un uomo vestito di nero: un Ninja del clan Genji!
+~
+17 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1910
+&2&bIl bosco Kaede&0~
+Il sentiero continua a salire, probabilmente ti stai arrampicando
+sulle pendici di una collina, anche se la vegetazione ti impedisce di
+capire la morfologia del territorio intorno a te. Ben presto ad est e
+ad ovest compaiono pareti di roccia a dirupo che ti impediscono di
+andare in quelle direzioni. Non ti rimane che proseguire lungo questo
+piccolo canyon o tornare sui tuoi passi.
+~
+17 1088 0
+D1
+~
+~
+0 0 1905 0
+D3
+~
+~
+0 0 1911 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1911
+&2&bL'imboccatura di una valle&0~
+All'improvviso sbuchi fuori dalla vegetazione e dal canyon e ti
+ritrovi all'imboccatura di una valle che prosegue verso ovest.
+Guardando meglio ti accorgi che il sentiero prosegue fino a quello
+che in lontananza pare essere un accampamento militare circondato da
+un'alta palizzata fatta di tronchi appuntiti e protetto da due torri
+in legno. Di sicuro non e' uno sciocco chi ha scelto una tale
+posizione per il suo avamposto: i fianchi impervi delle colline
+proteggono tutti i lati dell'accampamento e l'unico accesso
+praticabile e' quello che arriva dal bosco.
+~
+17 1092 0
+D0
+~
+~
+0 0 1913 0
+D1
+~
+~
+0 0 1910 0
+D2
+~
+~
+0 0 1914 0
+D3
+~
+~
+0 0 1915 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1912
+&1La capanna dell'eremita&0~
+In questa capanna appollaiata sulla grande quercia vive un monaco
+eremita che ha lasciato la grande citta' molti anni fa per dedicarsi
+allo studio delle arti marziali e alla contemplazione della natura.
+Gli scout del clan Genji che pattugliano la foresta si guardano bene
+dal disturbare quest'uomo, ma lui non si cura minimamente di loro e di
+quanto succede nel vasto mondo.
+Noti un grande ordine unito ad una spartanita' assoluta nei pochi
+oggetti all'interno della capanna.
+~
+17 1124 0
+D5
+~
+~
+0 0 1907 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1913
+&b&9Un dirupo pietroso&0~
+Verso nord il terreno diventa pietroso e prende a salire molto
+velocemente, rendendoti ben presto impossibile l'ascesa. Non c'e'
+molto da vedere qui e faresti bene a tornare indietro prima di
+inciampare e ruzzolare giu'.
+~
+17 1088 0
+D2
+~
+~
+0 0 1911 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1914
+&2&bLe ultime propaggini del bosco Kaede&0~
+Verso sud le colline salgono dolcemente e sono ricoperte dalla
+vegetazione del bosco. Questo luogo ti pare molto tranquillo e un
+buon posto dove riposare e decidere il da farsi: tornare indietro o
+rischiare di avvicinarsi all'accampamento che scorgi in lontananza?
+Mentre rifletti sul tuo destino ti accorgi di una apertura nel fianco
+della collina abbastanza ampia da poter essere l'entrata di una grotta.
+Avvicinandoti per osservare meglio ti accorgi che dentro la grotta e'
+molto buio e che il terreno all'interno punta decisamente verso il
+basso, hai la netta impressione che la caverna non sia molto ampia,
+ma il forte odore di animale che ne fuoriesce ti mette in guardia.
+~
+17 1088 0
+D0
+~
+~
+0 0 1911 0
+D5
+~
+~
+0 0 1916 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1915
+&3L'entrata all'accampamento Genji&0~
+Eccoti giunto all'ingresso dell'accampamento Genji. Il clan Genji,
+una volta molto potente, e' ora caduto in disgrazia a causa
+dell'attuale Shogun e ha cosi' deciso di muovere guerra allo stesso
+Shogun per esautorarlo.
+Guidato dal potente Daimyo Toshiaki, il clan Genji e' riuscito con la
+sorpresa ad impossessarsi di questa valle in posizione strategica,
+preparando cosi' l'attacco alla citta'. Nonostante fin'ora tutti gli
+attacchi dei Genji alla citta' siano stati respinti, i fedeli dello
+Shogun non sono riusciti a scacciarli da questa valle, a causa
+dell'eccellente vantaggio tattico conferito dalla posizione
+dell'avamposto e della ferocia dei guerrieri Genji.
+Convincere le due guardie pesantemente corazzate ed armate che hai di
+fronte a farti entrare, non sara' impresa da poco.
+~
+17 1092 0
+D0
+~
+~
+0 0 1925 0
+D1
+~
+~
+0 0 1911 0
+D2
+~
+~
+0 0 1927 0
+D3
+~
+cancello~
+2 1906 1917 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1916
+&9&bLa tana di Kimmun Kamui&0~
+Appena entri nella grotta ti accorgi di una figura enorme innanzi a
+te. Pare un orso, ma e' grosso almeno il doppio di qualsiasi altro
+orso tu abbia visto fin'ora. Se tu conoscessi le leggende di questo
+luogo remoto sapresti che questa creatura non e' altri che Kimmun
+Kamui, il mitico Dio della Montagna, che quando fa visita ai mortali
+indossa una pelle d'orso trasformandosi nell'animale piu' forte della
+foresta. Oggi deve essere il tuo giorno fortunato, pare infatti che
+l'enorme orso stia dormendo profondamente.
+~
+17 1092 0
+D2
+~
+~
+0 0 1950 0
+D4
+~
+~
+0 0 1914 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1917
+&3La strada principale dell'accampamento&0~
+Questa strada attraversa tutto l'accampamento in direzione est-ovest,
+dall'entrata fino al padiglione dove alloggiano i comandanti del clan
+Genji. Guardandoti intorno vedi un'attivita' febbrile: soldati che si
+addestrano, altri che preparano fortificazioni, altri ancora stanno
+cercando un posto all'ombra, dove prendere un po' di fiato dopo
+un'estenuante sessione di esercizazioni di manovra.
+~
+17 1088 0
+D0
+~
+~
+0 0 1929 0
+D1
+~
+cancello~
+2 1906 1915 15
+D2
+~
+~
+0 0 1930 0
+D3
+~
+~
+0 0 1918 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1918
+&3La strada principale dell'accampamento&0~
+Questa strada attraversa tutto l'accampamento in direzione est-ovest,
+dall'entrata fino al padiglione dove alloggiano i comandanti del clan
+Genji. Guardandoti intorno vedi un'attivita' febbrile: soldati che si
+addestrano, altri che preparano fortificazioni, altri ancora stanno
+cercando un posto all'ombra, dove prendere un po' di fiato dopo
+un'estenuante sessione di esercizazioni di manovra.
+~
+17 1088 0
+D0
+~
+~
+0 0 1921 0
+D1
+~
+~
+0 0 1917 0
+D2
+~
+~
+0 0 1923 0
+D3
+~
+~
+0 0 1919 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1919
+&3La strada principale dell'accampamento&0~
+Questa strada attraversa tutto l'accampamento in direzione est-ovest,
+dall'entrata fino al padiglione dove alloggiano i comandanti del clan
+Genji. Guardandoti intorno vedi un'attivita' febbrile: soldati che si
+addestrano, altri che preparano fortificazioni, altri ancora stanno
+cercando un posto all'ombra, dove prendere un po' di fiato dopo
+un'estenuante sessione di esercizazioni di manovra.
+~
+17 1088 0
+D0
+~
+~
+0 0 1940 0
+D1
+~
+~
+0 0 1918 0
+D2
+~
+~
+0 0 1943 0
+D3
+~
+~
+0 0 1920 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1920
+&3La strada principale dell'accampamento&0~
+Questa strada attraversa tutto l'accampamento in direzione est-ovest,
+dall'entrata fino al padiglione dove alloggiano i comandanti del clan
+Genji. Guardandoti intorno vedi un'attivita' febbrile: soldati che si
+addestrano, altri che preparano fortificazioni, altri ancora stanno
+cercando un posto all'ombra, dove prendere un po' di fiato dopo
+un'estenuante sessione di esercizazioni di manovra.
+~
+17 1088 0
+D1
+~
+~
+0 0 1919 0
+D3
+~
+~
+0 0 1945 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1921
+&2Verso il campo di manovra della cavalleria&0~
+Ti stai dirigendo verso l'ampio prato dove la cavalleria si addestra a
+fare le manovre necessarie in battaglia. Il rombo che senti e l'enorme
+polverone che si sta alzando ti fanno capire che probabilmente e'
+stata appena provata una carica di cavalleria.
+~
+17 1088 0
+D0
+~
+~
+0 0 1922 0
+D2
+~
+~
+0 0 1918 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1922
+&2Il campo di manovra della cavalleria&0~
+La tua posizione e' tutt'altro che invidiabile. Alla tua sinistra
+scorgi una unita' di cavalleria pesante che sta prendendo velocita'
+caricando proprio verso la tua posizione; mentre alla tua destra
+un'unita' di lancieri a cavallo, la terribile cavalleria Yari sta
+facendo lo stesso. Evidentemente questo esercizio serve a cavalli e
+cavalieri ad imparare a non temere lo scontro. Il fatto che tu sia
+proprio in mezzo alle due unita' di cavalleria non pare preoccupare
+nessuno, tranne te ovviamente.
+~
+17 1088 0
+D0
+~
+~
+0 0 1931 0
+D2
+~
+~
+0 0 1921 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1923
+&3Gli alloggi dei cavalieri&0~
+In questo enorme padiglione alloggiano i cavalieri che compongono la
+forza di cavalleria dell'esercito messo insieme dal clan Genji.
+Sebbene questi uomini siano abituati a combattere in sella ad un
+cavallo, la loro abilita' a terra non e' da sottovalutare: i riflessi,
+la forza e la coordinazione necessari per i combattimenti a cavallo li
+rendono degli avversari letali.
+~
+17 1092 0
+D0
+~
+~
+0 0 1918 0
+D2
+~
+porta~
+1 0 1924 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1924
+&4&bLa stanza di Goemon&0~
+Questa e' la stanza privata di Goemon,  il comandante della cavalleria
+dell'esercito Genji. Egli stesso ha voluto che comunicasse
+direttamente sia con la stalla dei cavalli sia con gli alloggi dei
+suoi uomini: entrambi i componenti hanno la medesima importanza in una
+forza di cavalleria, e Goemon vuole poterli controllare continuamente.
+~
+17 1088 0
+D0
+Nothing.
+~
+porta~
+1 0 1923 3
+D3
+~
+~
+0 0 1932 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1925
+&3La base della torre Nord&0~
+Questa torretta di legno e' stata innalzata a guardia dell'ingresso
+dell'accampamento. Protetti su tre lati dalle colline, i comandanti
+del clan Genji hanno fortificato pesantemente il lato dell'ingresso in
+modo da poter respingere gli attacchi delle truppe dello Shogun. Una
+stretta scala a pioli conduce in cima alla torre.
+~
+17 1088 0
+D2
+~
+~
+0 0 1915 0
+D4
+~
+~
+0 0 1926 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1926
+&3La cima della torre Nord&0~
+Dalla cima della torretta puoi far spaziare lo sguardo sopra tutto il
+bosco Kaede, fino a scorgere, distante e coperta dalla foschia che si
+innalza dalla vegetazione del bosco, la citta'. Quattro arcieri sono
+sempre qui di vedetta pronti a trafiggere con le loro frecce ospiti
+indesiderati che si presentino innanzi all'ingresso.
+~
+17 1088 0
+D5
+~
+~
+0 0 1925 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1927
+&3La base della torre Sud&0~
+Questa torretta di legno e' stata innalzata a guardia dell'ingresso
+dell'accampamento. Protetti su tre lati dalle colline, i comandanti
+del clan Genji hanno fortificato pesantemente il lato dell'ingresso in
+modo da poter respingere gli attacchi delle truppe dello Shogun. Una
+stretta scala a pioli conduce in cima alla torre.
+~
+17 1088 0
+D0
+~
+~
+0 0 1915 0
+D4
+~
+~
+0 0 1928 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1928
+&3La cima della torre Sud&0~
+Dalla cima della torretta puoi far spaziare lo sguardo sopra tutto il
+bosco Kaede, fino a scorgere, distante e coperta dalla foschia che si
+innalza dalla vegetazione del bosco, la citta'. Quattro arcieri sono
+sempre qui di vedetta pronti a trafiggere con le loro frecce ospiti
+indesiderati che si presentino innanzi all'ingresso.
+~
+17 1088 0
+D5
+~
+~
+0 0 1927 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1929
+&3Le cucine&0~
+Entrando in questo padiglione vieni assalito da molti profumi, alcuni
+dei quali tutt'altro che sgradevoli. Alcuni cucinieri sono infatti
+indaffarati nella preparazione dei pasti per l'esercito Genji.
+Maneggiano enormi mannaie con un'abilita' invidiabile, soprattutto in
+considerazione dell'enorme mole che paiono avere questi strani cuochi.
+Evidentemente amano assaggiare quanto preparano.
+~
+17 1092 0
+D2
+~
+~
+0 0 1917 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1930
+&1&bLa forgia di Kuemon&0~
+Il calore all'interno di questo padiglione e' quasi intollerabile; qui
+vengono forgiate e riparate le armi per l'esercito del clan Genji.
+Molte armi di ogni tipo sono allineate in rastrelliere: la loro
+qualita' va dalla semplice picca destinata ai piu' umili tra gli
+Ashigaru; alle enormi no-dachi, le spade a due mani destinate alla
+fanteria di sfondamento; fino alle fantastiche katana, destinate ai
+samurai, di cui solo i fabbri di questo strano paese conoscono i
+segreti per la loro fabbricazione.
+~
+17 1092 0
+D0
+~
+~
+0 0 1917 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1931
+&2Il campo di manovra della cavalleria&0~
+Una unita' di arcieri a cavallo sta galoppando a folle velocita'
+intorno a dei fantocci di paglia tirando al contempo nugoli di frecce.
+Noti con stupore che molte delle frecce lanciate vanno a segno sui
+bersagli, ti domandi quanto allenamento sia necessario per riuscire a
+mirare e tirare con l'arco mentre si galoppa su un cavallo da guerra.
+Il buon senso ti consiglia di non disturbare l'allenamento di questi
+cavalieri, non vorresti mai fare la fine di quei fantocci di paglia!
+Ad est della tua posizione noti un padiglione molto grande.
+~
+17 1092 0
+D1
+~
+~
+0 0 1933 0
+D2
+~
+~
+0 0 1922 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1932
+&3La stalla dei cavalli&0~
+In questo ambiente vengono custoditi e nutriti i preziosi cavalli
+della cavalleria dell'esercito Genji. L'odore e' forte ma non del
+tutto sgradevole, un paio di robusti uomini vanno avanti ed indietro
+prendendosi cura dei cavalli che oggi non partecipano alle
+esercitazioni, forse e' meglio non disturbare il loro lavoro.
+~
+17 1088 0
+D1
+~
+~
+0 0 1924 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1933
+&3Gli alloggiamenti degli Ashigaru&0~
+Questo padiglione e' molto grande, arredato poveramente e pieno di
+confusione. Qui vivono gli Ashigaru ossia le truppe di fanteria
+composte da samurai di basso rango o anche solo da semplici contadini.
+L'odore di sporcizia e' abbastanza forte e ti chiedi come possano
+dormire in questo luogo; a giudicare dal numero di giacigli intatti
+pare pero' che l'esercito del clan Genji abbia gia' subito pesanti
+perdite, o forse sono seplicemente stati preparati in attesa di
+rinforzi.
+~
+17 1088 0
+D0
+~
+~
+0 0 1934 0
+D3
+~
+~
+0 0 1931 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1934
+&1&bLa stanza del comandante Kanzaburo&0~
+Questa e' la stanza privata di Kanzaburo, il comandante della fanteria
+Ashigaru. L'ordine che regna in questa stanza e' in netto contrasto
+con quanto hai visto negli alloggi della truppa; Kanzaburo e' un
+veterano di molte battaglie, agli ordini di diversi clan. E' un Ronin
+dei piu' famosi e temuti. Da quando il suo padrone fu ucciso e ed egli
+non trovo' il coraggio di eseguire il rito del Seppuku, cerca
+costantemente la morte in battaglia per lavare il proprio onore,
+combattendo con una furia contro cui molti eserciti e samurai si sono
+schiantati.
+~
+17 1088 0
+D0
+~
+~
+0 0 1935 0
+D2
+~
+~
+0 0 1933 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1935
+&9&bIl posto di guardia delle celle&0~
+Appena entri in questa stanza un paio di robuste guardie ti sbarrono
+l'accesso. Nel pavimento si apre una una botola che conduce alle celle
+scavate sottoterra, dove il clan Genji tieni i prigionieri fatti
+durante le frequenti razzie effettuate tra i contadini della citta'.
+Questi disgraziati vengono poi usati all'interno del campo come
+schiavi per i lavori piu' umili e sono alla completa mercee degli
+umori dei soldati. Non vorresi essere nei loro panni!
+~
+17 1088 0
+D2
+~
+~
+0 0 1934 0
+D5
+~
+botola~
+2 1902 1936 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1936
+&9&bL'ingresso alle celle&0~
+Il fetore qui sotto e' insopportabile, evidentemente i prigionieri
+sono costretti a vivere nelle celle insieme ai propri escrementi;
+la mancanza di qualsiasi fonte di luce ti porta a supporre che siano
+anche costretti a stare nella piu' completa oscurita'. La vista di
+tanta disumanita' ti fa provare un moto di profondo odio verso il clan
+Genji!
+~
+17 35184372089920 0
+D1
+~
+porta~
+2 1902 1937 15
+D4
+~
+~
+0 0 1935 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1937
+&9&bLa cella di mezzo&0~
+Il tanfo di questo posto e' disumano e ti senti quasi svenire. In
+terra, in mezzo a cumuli di sporcizia, vedi tre uomini che stanno
+divorando avidamente quello che ti pare essere un topo che ancora si
+contorce nelle loro mani.
+~
+17 35184372089920 0
+D0
+~
+porta~
+2 1902 1938 15
+D2
+~
+porta~
+2 1902 1939 15
+D3
+~
+porta~
+2 1902 1936 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 1654
+#1938
+&9&bLa cella Nord&0~
+In questa cella e' rinchiusa una donna di cui riesce vagamente a
+distinguere le forme. Appena entri volge lo sguardo verso di te e ti
+si avventa contro cercando di morderti la gola con rabbia famelica!
+~
+17 1088 0
+D2
+~
+porta~
+2 1902 1937 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1939
+&9&bLa cella Sud&0~
+Quando entri in questa cella senti il sangue che si ghiaccia nelle
+vene. Qualcuno vive qui dentro, ma non sono persone: senti la presenza
+di qualcosa di molto potente, alieno a questo mondo quanto lo sei tu.
+Uno Youkai e' stato chissa' come catturato dagli uomini del clan Genji
+e rinchiuso qui sotto, forse nella speranza di poterlo usare in
+battaglia. Non pare molto contento di vederti.
+~
+17 1088 0
+D0
+~
+porta~
+2 1902 1937 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1940
+&3Verso il padiglione dei Samurai&0~
+Lasci la strada che attraversa l'accampamento per dirigerti verso un
+padiglione che non pare molto grande ma, almeno da fuori, pare piu'
+confortevole di quelli che hai visto fin'ora. Qui i rumori
+dell'accampamento si fanno meno fastidiosi, pare essere una surreale
+isola di calma in mezzo a tanto marasma.
+~
+17 1092 0
+D0
+~
+~
+0 0 1941 0
+D2
+~
+~
+0 0 1919 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1941
+&1&bIl padiglione dei Samurai&0~
+Il silenzio che regna qui dentro e' quasi assordante. In mezzo alla
+stanza, quasi del tutto sgombra di mobiglio, due uomini sono seduti
+per terra con le gambe incrociate. Al tuo ingresso spalancano gli
+occhi e li piantano nei tuoi: nello sguardo d'acciaio di quelle
+pupille puoi leggere la tua condanna a morte. Il Bushido, il codice
+d'onore dei Samurai,  dice che il peso della propria vita e' come
+quello di una piuma rispetto a quello del dovere verso il proprio
+signore. Loro sono pronti a morire... e tu?
+~
+17 35184372089920 0
+D2
+~
+~
+0 0 1940 0
+D4
+~
+botola~
+2 1903 1942 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1942
+&1&bIl piano di sopra&0~
+In questa stanza sono allineati con ordine molti giacigli, dalla parte
+opposta  quella dove sei entrato si trova una gigantesca vasca piena
+di acqua fumante dove un enorme uomo sta facendo il bagno. Forse non
+ti ha visto, circondato com'e' dal vapore, e il buon senso suggerisce
+che sarebbe saggio non disturbarlo in un momento cosi' intimo. Noti
+che una bellissima Katana e' appoggiata sul bordo della vasca e sei
+sicuro che nonostante la mole l'abilita' di quell'uomo con la spada
+sia letale.
+~
+17 1088 0
+D5
+~
+botola~
+2 1903 1941 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1943
+&9&bUn piccolo padiglione nascosto tra gli alberi&0~
+Questo e' il padiglione dei Ninja: evidentemente il clan Genji ha
+corso il rischio di assoldare un clan di Ninja per raggiungere il suo
+scopo. Questi Guerrieri Ombra sono molto diversi dai Samurai: per loro
+conta solo il raggiungimento dell' obiettivo; non esistono onore o
+vigliaccheria, solo l'obiettivo.
+Un Ninja puo' trasformare in arma qualsiasi oggetto, e conosce decine
+di modi diversi per uccidere una persona con un solo letale colpo;
+disprezzati dai Samurai e dai Ronin, nonche' dagli stessi signori
+feudali che spesso usano i loro servigi, vivono costantemente nel
+pericolo, confidando solo nella loro sovrumana abilita' nell'uccidere.
+~
+17 1093 0
+D0
+~
+~
+0 0 1919 0
+D3
+~
+~
+0 0 1944 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1944
+&9&bLa stanza del Chunin&0~
+Un uomo completamente vestito di nero e' in piedi al centro di questa
+stanza e segue i tuoi movimenti con attenzione. Questa e' la stanza
+del Chunin, il coordinatore tattico di un gruppo di Ninja: e' lui che
+dirige i Ninja che stanno aiutando il clan Genji; fossi in te alzerei
+i tacchi e cercherei di andar via. Quest'uomo puo' uccidere una
+persona in modi che tu non riusciresti nemmeno a concepire. Nel centro
+della stanza noti la presenza di una botola.
+~
+17 35184372089924 0
+D1
+~
+~
+0 0 1943 0
+D5
+~
+botola~
+1 1901 1954 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1945
+&1&bIl padiglione di Toshiaki&0~
+Questo padiglione e' riccamente decorato ed e' pieno di comodita' ed
+oggetti lussuosi. Qui dimora Toshiaki, il Daymio del clan Genji che e'
+sceso in guerra contro lo Shogun. La sua forza e ferocia, accompagnate
+al suo acume tattico e strategico stanno mettendo in serio imbarazzo
+le pur imponenti difese della citta'. Seppure il clan Genji sia caduto
+in disgrazia agli occhi dello Shogun, conserva ancora moltissime
+ricchezze con cui sta finanziando la guerra, ed e' arrivato al punto
+di correre il rischio di pagare i servigi di un clan di Ninja per
+cercare di uccidere lo Shogun. Stranamente, la tua visita non pare
+essere stata annunciata alle due imponenti guardie che sorvegliano
+l'ingresso.
+Una rampa di scale conduce verso l'alto.
+~
+17 35184372089924 0
+D1
+~
+~
+0 0 1920 0
+D4
+~
+porta~
+1 1904 1946 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1946
+&1&bLa stanza di Tokimasa&0~
+Questa e' la stanza di Tokimasa, figlio maggiore e braccio destro di
+Toshiaki. Sebbene la sua forza e abilita' siano ancora inferiori a
+quella del padre, tutto lascia pensare che presto potrebbe addirittura
+superarle. Numerose mappe sono posate su un tavolo al centro della
+stanza, con disegnati simboli che probabilmente indicano la strategia
+per il prossimo attacco dei Genji alla citta'.
+~
+17 1088 0
+D3
+~
+porta~
+2 1905 1947 9
+D5
+~
+porta~
+1 1904 1945 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1947
+&1&bLa stanza di Toshiaki&0~
+L'imponente figura di Toshiaki siede in mezzo alla stanza, affiancata
+da due samurai incaricati di proteggere la sua persona. Tutto e'
+immobile e i loro sguardi si posano su di te. La stanza ha un
+arredamento molto ricco, ma la tensione, che ti tende tutti i muscoli
+mentre osservi quei tre volti che paiono scolpiti nella pietra, ti
+impedisce di notarlo.
+~
+17 1088 0
+D0
+~
+~
+0 0 1949 0
+D1
+~
+porta~
+1 0 1946 1
+D5
+~
+botola~
+1 0 1948 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1948
+&3&bLa stanza del tesoro&0~
+In questa stanza Toshiaki ha ammassato una grossa fetta delle
+ricchezze del clan Genji, questo tesoro gli servira' per pagare le
+truppe e i Ninja. Ti pare strano che nessuno sia qui a vigilare su un
+bottino cosi' cospicuo. Molto strano.. Eppure non vedi nessuno... mah.
+Ad un tratto abbassi lo sguardo e vedi centinaia di serpenti velenosi!
+Ma da dove sono usciti? Non fai tempo a capirlo che uno di loro ti
+morsica, lasciandoti solo il tempo di pensare per un'ultima volta ai
+tuoi cari.
+~
+17 6 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#1949
+&6&bLa stanza da letto&0~
+Questa e' la stanza dove Toshiaki e suo figlio Tokimasa vengono a
+riposarsi dopo le estenuanti ore passate a studiare strategie e
+tattiche per vincere la guerra contro lo Shogun. Un imponente armadio
+domina tutta una parete della stanza, evidentemente contiene gli
+equipaggimanti da battaglia dei due nobili.
+~
+17 1092 0
+D2
+~
+~
+0 0 1947 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1950
+&9&bUn buio e stretto cunicolo&0~
+Ti infili in un cunicolo molto stretto che basta a malapena a farti
+passare. Probabilmente e' un passaggio segreto usato dalle truppe dei
+Genji per sbucare alle spalle di un eventuale esercito che dovesse
+assediare l'accampamento.
+~
+17 1344 0
+D0
+~
+~
+0 0 1916 0
+D3
+~
+~
+0 0 1951 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1951
+&9&bUn buio e stretto cunicolo&0~
+Sei allo sbocco esterno di in un cunicolo molto stretto che basta a
+malapena a farti passare. Probabilmente e' un passaggio segreto usato
+dalle truppe dei Genji per sbucare alle spalle di un eventuale
+esercito che dovesse assediare l'accampamento.
+~
+17 1344 0
+D1
+~
+~
+0 0 1950 0
+D3
+~
+~
+0 0 1952 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1952
+&9&bUn buio e stretto cunicolo&0~
+Ti trovi in un cunicolo molto stretto che basta a malapena a farti
+passare. Probabilmente e' un passaggio segreto usato dalle truppe dei
+Genji per sbucare alle spalle di un eventuale esercito che dovesse
+assediare l'accampamento.
+~
+17 1344 0
+D1
+~
+~
+0 0 1951 0
+D3
+~
+~
+0 0 1953 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1953
+&9&bUn buio e stretto cunicolo&0~
+Ti trovi in un cunicolo molto stretto che basta a malapena a farti
+passare. Probabilmente e' un passaggio segreto usato dalle truppe dei
+Genji per sbucare alle spalle di un eventuale esercito che dovesse
+assediare l'accampamento.
+~
+17 1344 0
+D1
+~
+~
+0 0 1952 0
+D3
+~
+~
+0 0 1954 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1954
+&9&bUn buio e stretto cunicolo&0~
+Un cunicolo molto stretto si diparte da sotto quella che pare essere
+una botola sopra la tua testa. Il cunicolo basta a malapena a farti
+passare. Probabilmente e' un passaggio segreto usato dalle truppe dei
+Genji per sbucare alle spalle di un eventuale esercito che dovesse
+assediare l'accampamento.
+~
+17 35184372090176 0
+D1
+~
+~
+0 0 1953 0
+D4
+~
+botola~
+1 0 1944 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#1955
+La Daga ed il Pugnale~
+   Una pietra circolare gira in rotazioni veloci mentre l'armaiolo aguzza
+attentamente le armi, e poi le riappende per mostrarle.  Una finestra singola
+permette alla luce di specchiarsi sulle armi appena lucidate.  Il negoziante e'
+un uomo di poche parole e preferisce isolarsi dal resto del mondo per dedicarsi
+unicamente al suo lavoro.
+~
+17 0 0
+D1
+~
+~
+0 0 6631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

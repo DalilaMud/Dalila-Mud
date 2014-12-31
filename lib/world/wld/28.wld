@@ -1,0 +1,684 @@
+#2800
+&7 Il viale della rinascita &0~
+Imbocchi una splendida strada,  e intorno a te ammiri splendidi palazzi e
+costruzioni di età recente. Una &7 lapide &0 ricorda il progetto e la
+realizzazione di questa grande opera voluta dal Reggente Khardan nell'anno
+delle ombre 1015 per celebrare la rinascita e la nuova gloria
+e prosperità di Aldaria.     
+ 
+~
+28 192 1
+D0
+Una porta di legno.
+~
+porta~
+1 469483 1392 135
+D1
+
+~
+~
+0 -1 2825 0
+D2
+-l'entrata alla cittadella   
+~
+~
+0 -1 2801 0
+D3
+~
+~
+0 0 27000 0
+E
+lapide~
+&7&b Khardan Reggente di Aldaria fece realizzare questo viale e le
+splendide costruzioni annesse per festeggiare la volontà di rinascere  e prosperare
+degli aldariani.&0   
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2801
+&1 La corte minore &0~
+ Attraverso una grande porta di bronzo accedete in un grande cortile
+spazioso, dove grandi stendardi sorreggono gli stemmi bianchi e blu del regno di
+Aldaria. Numerosi lancieri fanno la guardia al cuore politico del regno, e
+proteggono la vita del &7 Reggente &0 e dei suoi consiglieri che dimorano
+in questa fortezza.       
+~
+28 192 1
+D0
+-Il viale della rinascita  
+~
+~
+0 -1 2800 0
+D1
+-Il palazzo dell'economia
+~
+~
+0 -1 2812 0
+D2
+-la corte maggiore   
+~
+~
+0 -1 2802 0
+D3
+Una porta di legno.
+~
+porta~
+1 838682 2815 135
+E
+reggente~
+&7&b Khardan II reggente di Aldaria, diplomatico e uomo d'arte &0   
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2802
+&5 La corte maggiore &0~
+Proseguite su un tratto del cortile lastricato di marmo nero, fino a che si
+staglia dinanzi ai vostri occhi il palazzo della Reggenza, in tutta la sua
+magnificenza e e splendore artistico. Ai vostri fianchi si trovano il
+palazzo della Diplomazia e i bellissimi giardini pensili, dove vengono curate
+le piante piu' antiche ed esotiche di tutte le terre di Daresia.   
+~
+28 208 1
+D0
+-La corte minore  
+~
+~
+0 -1 2801 0
+D1
+-Il palazzo della diplomazia
+~
+~
+0 -1 2809 0
+D2
+-&7&B Il palazzo della Reggenza di Khardan &0  
+~
+~
+0 -1 2803 0
+D3
+-I giardini pensili
+~
+~
+0 -1 2818 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2803
+&7Il Palazzo della Reggenza&0~
+Il peristilio 
+ Quando attraversate l'entrata del palazzo, due lancieri
+aldariani scattano sull'attenti e vi ritrovate in una grande e spaziosa sala,
+tutta affrescata: vengono raffigurate le storie e le avventure di &1
+Khardan &0, dagli anni della sua giovinezza fino alla Reggenza del regno. Nel
+centro della sala vi e' una piccola vasca di marmo che raccoglie l'acqua
+piovana da un buco circolare nella cupola.      
+~
+28 192 0
+D0
+~
+~
+0 0 2802 0
+D2
+- Il portico dello scrivano  
+~
+~
+0 -1 2804 0
+E
+khardan~
+&7 Diplomatico, scrivano e reggente di Aldaria. Rivolse la sua vita a
+servire il regno e per il benessere degli aldariani. Non tanto religioso, ma
+sinceramente devoto di tutti gli Dei.  
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2804
+&7Il Palazzo della Reggenza&0~
+&5 Il portico dello scrivano &0                                           
+    E' un grande portico con colonne di marmo con capitelli corinzi. Nel
+centro della corte si trova un piccolo angolo di verde, con piante esotiche
+curate con grande maestria. Khardan si ferma spesso in questo luogo ameno a
+meditare le decisioni piu' importanti per il regno e a scrivere pergamene
+di racconti eroici. "Arma virumque cano"  
+~
+28 208 0
+D0
+-Il peristilio  
+~
+~
+0 -1 2803 0
+D1
+-Lo studio di Khardan  
+~
+~
+0 -1 2805 0
+D2
+-La galleria degli specchi  
+~
+~
+0 -1 2807 0
+D3
+-La sala delle udienze  
+~
+~
+0 -1 2806 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2805
+&7Il Palazzo della Reggenza&0~
+Lo studio del Principe. 
+E' una grande stanza luminosa e ariosa, con grandi
+biblioteche ricolme di pergamene e manoscritti. In fondo troneggia un tavolo
+di noce intarsiato con scene mitologiche raffiguranti il mito di Fizban e
+Shade. Tutta la costruzione emana un'atmosfera di serenità e pace.  
+~
+28 2752 0
+D3
+- Il portico dello scrivano 
+~
+~
+0 -1 2804 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2806
+&7Il Palazzo della Reggenza&0~
+&7&b La sala delle udienze &0 
+ E' un enorme locale, con i muri ricoperti
+di drappi e arazzi preziosi. In fondo si trova un trono di corallo rosa,
+intarsiato con stupendi motivi decorativi. La ricercatezza e il preziosismo
+degli arredi di questa sala ispirano rispetto e soggezione agli ospiti
+stranieri che vengono accolti calorosamente dal Reggente.  
+~
+28 2752 0
+D1
+- Il portico dello scrivano 
+~
+~
+0 -1 2804 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2807
+&7Il Palazzo della Reggenza&0~
+&9 La galleria degli specchi &0                                          
+  E' un  lungo corridoio con i muri ricoperti si splendidi specchi
+racchiusi in preziose cornici rifinite in oro e avorio. Lungo il cammino si
+incontrano statue di grandi personaggi e eroi daresiani. Tra tutte spicca la
+statua dell'ambasciatore Galadriel degli Spiriti, grande confidente e amico di
+Khardan, II reggente di Aldaria.  
+~
+28 2752 0
+D0
+-Il portico dello scrivano
+~
+~
+0 -1 2804 0
+D2
+-La camera di Khardan
+~
+~
+0 -1 2808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2808
+&7 Il palazzo della reggenza &0~
+&8 La camera da letto del Principe. &0                                    
+E'una stanza spaziosa e ariosa, con mobili di legno e avorio intarsiato. Le
+pareti sono affrescate con storie mitologiche che narrano di Dei ed eroi
+persi nella notte dei tempi. Il soffitto della stanza raffigura un cielo
+stellato dove spiccano le grandi costellazioni dell'unicorno,&1 stemma &0 di
+Aldaria, e di Orione, guerriero mitologico.
+~
+28 2768 0
+D0
+-La galleria degli specchi
+~
+~
+0 -1 2807 0
+E
+stemma~
+ Un grande stendardo mostra l'unicorno che corre sotto le stelle di Orione,
+il grande guerriero mitologico, in campo blu e bianco come i colori di
+Aldaria. Sopra di questi, il motto brevis semper.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2809
+&3 Il palazzo della diplomazia &0~
+&2 La sala delle cartine &0                                              
+     E' una grande sala tappezzata di arazzi e cartine che raffigurano la
+Daresia e i protagonisti della vita dei suoi regni.  Il tuo sguardo non
+puo' fare a meno di rimanere estasiato di fronte a tali opere d'arte.
+~
+28 192 0
+D1
+Una porta di legno.
+~
+porta~
+1 639055 2810 135
+D2
+
+~
+~
+0 -1 2811 0
+D3
+-La corte maggiore
+~
+~
+0 -1 2802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2810
+&2 Il palazzo della diplomazia &0~
+Lo studio dell'ambasciatrice Alorie                                        
+   E' una stanza accogliente e confortevole, arredata con gusto e stile
+indici di grande raffinatezza. Qui l'ambasciatrice Alorie lavora a trattati e
+incontri diplomatici che determinano la politica estera del regno.
+~
+28 2752 0
+D3
+Una porta di legno.
+~
+porta~
+1 639055 2809 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2811
+&2 Il palazzo della diplomazia &0~
+&7 La sala degli accordi &0                                              
+    E' una grande sala con al centro un lungo tavolo di legno di noce,
+dove le delegazioni diplomatiche siedono a discutere accordi e compromessi. E'
+rinomata in tutto il mondo la fama del corpo diplomatico aldariano, il
+famigerato CDA.
+~
+28 208 0
+D0
+
+~
+~
+0 -1 2809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2812
+Il palazzo dell'economia~
+&7 La sala delle once d'oro &0                                           
+  Ti trovi all'ingresso del palazzo della tesoreria del regno. Qui si
+decide la politica economica e i finanziamenti per le attività del regno. Sotto
+la reggenza di Khardan si iniziò ad attuare una politica di rinascita
+economica da cui prende anche il nome l'omonimo viale.
+~
+28 2752 0
+D1
+
+~
+~
+0 -1 2813 0
+D2
+
+~
+~
+0 -1 2814 0
+D3
+
+~
+~
+0 -1 2801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2813
+Il palazzo dell'economia~
+Lo studio del tesoriere                                                    
+Vedi montagne di pergamene accumulate su tantissimi scaffali,
+conti lasciati in sospeso, abachi e tabelle per calcoli.Qui il tesoriere del
+regno tiene i bilanci
+~
+28 2752 0
+D3
+
+~
+~
+0 -1 2812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2814
+&9 Il palazzo dell'economia &0~
+La corte dei conti                                                         
+ Qui si riunisce l'assemblea dei funzionari economici del regno
+e dei feudatari. Essi sono chiamati i conti, e il loro compito e'
+controllare lo stato di salute economica della nazione.
+~
+28 2560 0
+D0
+
+~
+~
+0 -1 2812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2815
+&5 Il palazzo della milizia &0~
+La sala delle legioni                                                      
+I lancieri aldariani scattano sull'attenti quando varchi questa
+soglia. Le pareti sono lavorate a bassorilievo e raccontano episodi
+mitologici di guerrieri e battaglie, dove riesci a distinguere famosi combattenti
+daresiani.
+~
+28 2560 0
+D1
+Una porta di legno.
+~
+porta~
+1 838682 2801 167
+D2
+
+~
+~
+0 -1 2817 0
+D3
+
+~
+~
+0 -1 2816 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2816
+&5 Il palazzo della milizia &0~
+Lo studio dello stratega reale                                             
+Bassorilievi raccontano le vicende di SirGyles, famoso guerriero e
+stratega reale del regno di Aldaria: infatti ti trovi nel suo studio. Qui
+egli decide le strategie militari piu' adatte per l'espansione e la difesa
+del regno.
+~
+28 2752 0
+D0
+~
+~
+0 0 29000 0
+D1
+
+~
+~
+0 -1 2815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2817
+&5 Il palazzo della milizia &0~
+Il consiglio di guerra                                                     
+In questa cupa sala vengono organizzati i consigli di guerra
+del regno che si tengono in momenti delicati della vita dello stesso. Ad
+esso prendono parte i guerrieri piu' forti e i generali  piu' abili.
+~
+28 2768 0
+D0
+
+~
+~
+0 -1 2815 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2818
+&7&b i giardini pensili &0~
+Sono degli splendidi giardini con piante esotiche e rare, fatte portare qui
+dal reggente in persona. Egli e i suoi funzionari si ritirano qua a
+meditare e a trovare un pacifico angolo dove poter riflettere con calma sulle
+loro decisioni.
+~
+28 208 0
+D1
+
+~
+~
+0 -1 2802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2819
+&1Magazzini nuovi del Regno e Entrata dell'Arsenale Aldar&0~
+Il posto di guardia                                                        
+Ti trovi al corpo di guardia dove i lancieri aldariani
+controllano l'accesso ai nuovi magazzini del regno.                  
+&5 VIETATO L'ACCESSO AI NON AUTORIZZATI &0                 
+~
+28 2560 0
+D1
+
+~
+~
+0 -1 2820 0
+D2
+
+~
+~
+0 -1 2800 0
+D3
+
+~
+~
+0 -1 2821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2820
+&1 Magazzini nuovi del regno &0~
+Magazzino di vettovaglie                                                   
+      Qui vengono immagazzinate le vettovaglie di scorta per gli eserciti
+e i guerrieri aldariani.
+~
+28 1125899906857600 0
+D3
+
+~
+~
+0 -1 1392 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2821
+&1 Magazzini nuovi del regno &0~
+Magazzino di equipaggiamento                                               
+Qui viene immagazzinato equipaggiamento utile in futuro al regno
+~
+28 1125899906857600 0
+D1
+
+~
+~
+0 -1 1392 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2822
+&1L'Arsenale del Regno Aldariano&0~
+La galleria                                                                
+                Uno stretto passaggio ti conduce ad altri magazzini
+~
+28 1125899906857472 0
+D0
+Entrata in un edificio~
+entrata~
+0 -1 40590 0
+D1
+
+~
+~
+0 -1 2823 0
+D2
+
+~
+~
+0 -1 1392 0
+D3
+
+~
+~
+0 -1 2824 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2823
+&1Magazzini nuovi del regno&0~
+Magazzino pozioni                                                          
+         Vedi scaffali ricolmi di ampolle e intrugli sistemati con cura
+~
+28 1125899906845184 0
+D3
+
+~
+~
+0 -1 2822 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2824
+&1 Magazzini nuovi del regno &0~
+Magazzino roba varia                                                       
+       Vedi innumerevoli tipi di oggetti riposti a seconda della grandezza
+e del peso sui vari scaffali
+~
+28 1125899906845184 0
+D1
+
+~
+~
+0 -1 2822 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2825
+&7 Il viale della rinascita &0~
+Continui il tragitto su questo grande viale lastricato di marmo. Vedi molte
+persone vestite con abiti sontuosi e seguite da stuoli di servi, e
+riconosci i funzionari e i notabili del regno. Ai lati vedi altri splendidi
+palazzi
+~
+28 8796093022336 1
+D0
+Una porta di legno.
+~
+porta~
+1 562329 40468 135
+D1
+
+~
+~
+0 -1 2826 0
+D2
+Una porta di legno.
+~
+porta~
+1 363646 40316 135
+D3
+
+~
+~
+0 -1 2800 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2826
+&5 Il piazzale dei sospiri &0~
+Ti ritrovi in una grande piazza, dove una lapide celebra i martiri della
+patria barbaramente uccisi in guerre e scontri con altri regni e bande di
+briganti. Una fiaccola sempre accesa arde ai piedi della lapide, affianco alla
+quale due lancieri di Aldaria fanno buona guardia.
+~
+28 1134695999864832 1
+D1
+Una porta di legno.
+~
+porta~
+1 220873 40399 135
+D2
+
+~
+~
+0 -1 2827 0
+D3
+
+~
+~
+0 -1 2825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2827
+&7 Il viale della rinascita &0~
+A est vedi la nuova zona commerciale della citta'. Venditori ambulanti ti
+invitano a comprare le loro merci, e i loro prodotti tipici del regno.
+Riesci a stento a farti largo in mezzo alla calca e ad avviarti verso una grande
+piazza a sud.
+~
+28 8796093022208 1
+D0
+
+~
+~
+0 -1 2826 0
+D2
+
+~
+~
+0 -1 2828 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2828
+&7&b Il piazzale del principato &0~
+E' una grande piazza mosaicata con scene mitologiche, e raffiguranti Re
+Rodric, Laika prima reggente di Aldaria e Lady Death, e Khardan secondo
+reggente di Aldaria e scrivano degli Dei. Lo stupore e un grande senso di
+orgoglio pervade gli aldariani che guardano queste opere d'arte.
+Un mosaico piu' recente raffigura SirJosh, terzo principe di Aldaria, mentre sorride al cielo notturno stellato.
+~
+28 8796093022224 0
+D0
+
+~
+~
+0 -1 2827 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40978 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2830
+&1Magazzini nuovi del regno&0~
+Vedi innumerevoli tipi di oggetti riposti a seconda della grandezza e del peso sui vari scaffali
+~
+28 1125899906845184 0
+D1
+~
+~
+0 0 40590 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2831
+&1Magazzini nuovi del regno&0~
+Vedi innumerevoli tipi di oggetti riposti a seconda della grandezza e del peso sui vari scaffali
+~
+28 1125899906845184 0
+D3
+~
+~
+0 0 40590 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,1292 @@
+#21600
+La zona industriale~
+Attraversi l’arcata che si apre nelle alte mura che circondano i laboratori
+di produzione di Chyrellos. Appena varcata la soglia comprendi il motivo
+di una tale protezione. Il tuo naso si ribella per l'odore acre dell'aria
+ed i tuoi occhi cominciano a lacrimare. Le tue orecchie non sono meno infastidite
+degli altri sensi per il frastuono infernale che accompagna la lavorazione
+delle materie prime.
+~
+216 20 0
+D1
+~
+~
+0 -1 21302
+D3
+~
+~
+0 0 21601
+D4
+~
+~
+0 0 21630
+S
+#21601
+Viale delle Primule Argentate~
+La strada che percorri e', se possibile, ancora piu' affollata del resto
+della citta'. Uomini e donne procedono a passo spedito in ogni direzione,
+carri pieni di merci lavorate e grezze sono fermi o in movimento lungo
+il viale. Solo questo eccessivo via vai, oltre al frastuono e all’odore
+acre dell’aria, ti fa comprendere di essere nella zona industriale di Chyrellos,
+se non ci fosse potresti tranquillamente pensare di essere nella zona residenziale.
+La via e’ coperta da arcate in modo che la pioggia non  isturbi gli operosi
+lavoratori e fiancheggiata da aiuole ben curate, in cui crescono delicate
+e profumate primule. Ancora una volta rimani sorpreso per la singolarità
+di questa citta’ dove anche la zona industriale appare splendida.
+~
+216 0 0
+D0
+~
+~
+0 -1 21603
+D1
+~
+~
+0 -1 21600
+D2
+~
+~
+0 -1 21606
+D3
+~
+~
+0 -1 21633
+D4
+~
+~
+0 -1 21639
+S
+#21602
+La fornace~
+Non appena entri ti avvolge una vampata di calore. Un grosso forno si trova
+infatti al centro del locale e diversi operai sono all’opera intorno ad
+esso. Li osservi mentre pongono grosse pietre di metallo all’interno nella
+camera della fornace. Le pietre diventano rapidamente incandescenti, poi
+si fondono ed un liquido incandescente fuoriesce da un apposito canaletto
+posto sul lato per andare a riempire degli stampi rettangolari.
+~
+216 2097152 0
+D2
+~
+~
+0 -1 21604
+D4
+~
+~
+0 -1 21603
+S
+#21603
+Il negozio delle pietre grezze di metallo~
+Se cerchi pietre di minerale da lavorare nella adiacente fornace o al contrario
+non hai tempo per trasformare quelle che trasporti in pregiati lingotti
+questo e’ il posto che fa per te. Centinaia di pietre di vari metalli sono
+ammassate ovunque. Vulbak e’ qui, al centro del locale che attende nuovi
+acquirenti.
+~
+216 8192 0
+D2
+~
+~
+0 -1 21601
+D5
+~
+~
+0 -1 21602
+S
+#21604
+Il negozio dei lingotti~
+Centinaia di splendenti lingotti sono impilati ovunque. La luce delle torce
+colpendo la loro superficie riempie il locale di strani e meravigliosi
+riflessi. Hular, il proprietario del locale, e’ seduto in un angolo dietro
+ad un grosso bancone.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21602
+D2
+~
+~
+0 -1 21605
+S
+#21605
+La forgia del fabbro~
+Un piccolo forno si trova lungo la parete sud di questa stanza. Davanti
+ad essa si trova una grossa incudine, accanto alla quale e’ una vasca piena
+d’acqua. Un grosso e muscoloso fabbro sta colpendo ritmicamente con un
+martello una barra di metallo incandescente. I gesti che compie sono calcolati
+e cadenzati, sembra quasi intento a compiere un magico rituale, e se ci
+rifletti la sua opera e’ veramente "magica". Con pochi e sapienti movimenti
+trasforma una massa di metallo rettangolare in un oggetto utile  lla tua
+vita.
+~
+216 4194304 0
+D0
+~
+~
+0 -1 21604
+D4
+~
+~
+0 -1 21606
+S
+#21606
+Il negozio del fabbro~
+Questo e’ davvero uno strano negozio! Invece di scaffali su cui e’ esposta
+la merce vedi ovunque grosse rastrelliere su cui sono poggiate armature
+e scudi di ogni tipo. Busper il proprietario e’ intento a lucidare uno
+scudo appena acquistato.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21601
+D5
+~
+~
+0 -1 21605
+S
+#21607
+Le secondi armi di Quall~
+A quanto pare il signor Quall ha una catena di negozi a Chyrellos! Qui pero’
+trovi oggetti un po’ piu’ rifiniti e curati nei particolari. Le armature,
+sempre di grande varieta’, sono di fattura un po’ piu’ pregiata, ma ancora
+economiche.
+~
+216 0 0
+D5
+~
+~
+0 -1 21606
+S
+#21608
+Viale delle Primule Argentate~
+Procedi a fatica facendoti largo tra i cittadini indaffarati e cercando
+di evitare carri e cavalli che si trovano ovunque. Ad ovest e ad est il
+viale alberato continua, a sud vedi una piccola torre, mentre da nord giunge
+alle tue narici il gradevole profumo di erbe appena raccolte.
+~
+216 0 0
+D0
+~
+~
+0 -1 21609
+D1
+~
+~
+0 -1 21641
+D2
+~
+~
+0 -1 21613
+D3
+~
+~
+0 -1 21630
+S
+#21609
+Il negozio delle erbe grezze~
+Non appena entri in questo locale un fresco odore di erba colpisce le tue
+narici. Se ti sei accorto che per fare la pozione che avevi in mente ti
+manca qualche ingrediente forse qui potrai trovarlo. Certo dovrai ripulirlo
+e potrebbe rovinarsi mentre compi questa delicata operazione, ma l’alternativa
+e’ uscire nuovamente alla ricerca di erbe. Qui puoi anche vendere i carichi
+che non intendi utilizzare, Marles la proprietaria ne sara’ lieta.
+~
+216 8192 0
+D2
+~
+~
+0 -1 21608
+D5
+~
+~
+0 -1 21610
+S
+#21610
+L’erboristeria~
+In questo locale si trovano numerose vasche piene d’acqua fredda e tavoli
+sopra ai quali sono coltelli di varie dimensioni. Diverse persone si trovano
+nella stanza intente a sciacquare e pulire con cura carichi di preziose
+erbe.
+~
+216 536870912 0
+D2
+~
+~
+0 -1 21611
+D4
+~
+~
+0 -1 21609
+S
+#21611
+Il negozio dei mazzetti di erbe~
+Questo negozio e’ pieno di vasi di ceramica dai brillanti colori, su ognuno
+dei quali fa bella mostra di se’ una colorata etichetta con l’indicazione
+di cio’ che vi e’ contenuto. Renard il proprietario sembra ansioso di illustrarti
+le proprieta’ di ogni erba disponibile.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21610
+D2
+~
+~
+0 -1 21612
+S
+#21612
+La stanza delle alchimie~
+Un piccolo fornello si trova al centro di questa sala piuttosto buia. Sopra
+di esso si trova un’ampolla piena di un liquido colorato. Da essa parte
+un tubicino di vetro lungo e ricurvo che termina in un altro contenitore
+di vetro. Un paio di alchimisti stanno controllando che il processo di
+distillazione avvenga senza intoppi, in particolare badano a che il fuoco
+non si spenga o divenga troppo forte.
+~
+216 1073741824 0
+D0
+~
+~
+0 -1 21611
+D4
+~
+~
+0 -1 21613
+S
+#21613
+Il negozio di pozioni~
+Questo locale e’ pieno di ampolle di vetro, tanto pieno che hai paura di
+muoverti. Se ne rompi qualcuna dovrai certamente ripagarla e, considerando
+la preziosità delle pozioni, probabilmente finiresti sul lastrico. Didie
+la negoziante ti osserva con preoccupazione.
+~
+216 8212 0
+D0
+~
+~
+0 -1 21608
+D5
+~
+~
+0 -1 21612
+S
+#21614
+La torre magica~
+Appena entrato senti che ti avvolge una strana energia, un senso di leggerezza
+ed una straordinaria chiarezza di idee ti pervadono. La stanza, dalla strana
+forma pentagonale, e’ spoglia con muri di nuda pietra. C’e’ solo una poltrona
+su cui siede Berdise intento nella lettura di un libro che fluttua nell’aria.
+Berdise allunga una mano nell’aria come se volesse afferrare il nulla,
+ma quando la ritira a se’ impugna un bicchiere pieno di una sostanza verde,
+fumante che trangugia tutto d’un fiato.
+~
+216 0 0
+D5
+~
+~
+0 -1 21613
+S
+#21615
+Viale delle Primule Argentate~
+Questa parte del viale sembra popolata esclusivamente da garzoni ricoperti
+di farina e donne con le sporte piene di frutta e verdura. Dopo aver dato
+un’occhiata in giro comprendi facilmente il perché di questa strana concentrazione.
+A sud vedi infatti l’insegna di un forno, mentre a nord sono disposte disordinatamente
+sul terreno casse piene di frutta e verdura.
+~
+216 0 0
+D0
+~
+~
+0 -1 21616
+D1
+~
+~
+0 -1 21620
+D2
+~
+~
+0 -1 21623
+D3
+~
+~
+0 -1 21641
+D4
+~
+~
+0 -1 21618
+S
+#21616
+Frutta e Verdura all’ingrosso~
+Questo negozio e’ ingombro di gigantesche cassette piene di ortaggi e frutta.
+Le cassette non sono state impilate con ordine e la merce e’ piena di terra,
+di foglie e di rami che andranno tolti se hai intenzione di preparare qualcosa
+da mangiare. Orces il grosso fruttivendolo sta contrattando sul prezzo
+con un cliente.
+~
+216 8192 0
+D2
+~
+~
+0 -1 21615
+D4
+~
+~
+0 -1 21617
+S
+#21617
+La stanza della ripulitura dei cibi~
+Piu’ che una stanza e’ una grossa ed umida cantina piena di vasche di pietra
+colme di acqua fresca. Lungo la parete est sono disposti grossi tavolacci
+di legno su cui, se vuoi, puoi ripulire la frutta, la verdura, il pesce
+o la carne cosi’ come stanno facendo numerose persone. 
+~
+216 2147483648 0
+D0
+~
+~
+0 -1 21619
+D2
+~
+~
+0 -1 21618
+D5
+~
+~
+0 -1 21616
+S
+#21618
+La cucina~
+Un grosso camino si trova lungo la parete ovest, mentre in un angolo c’e’
+un piccolo forno. Il camino e’ acceso e sopra al fuoco si trova una grossa
+pentola piena d’acqua, accanto e’ stata predisposta una brace su cui si
+trova una griglia arroventata. Nel forno puoi cuocere del pane se hai gli
+ingredienti adatti, nella pentola puoi bollire le verdure e sulla griglia
+puoi cuocere carne o pesce.
+~
+216 4294967296 0
+D0
+~
+~
+0 -1 21617
+D1
+~
+~
+0 -1 21649
+D2
+~
+~
+0 -1 21621
+D3
+~
+~
+0 -1 21647
+D5
+~
+~
+0 -1 21615
+S
+#21619
+Il negozio di frutta e verdura~
+Se hai poco tempo e desideri cucinarti un veloce pranzetto nella cucina
+che si trova piu’ a sud, qui puoi comprare frutta e verdura gia’ pulita.
+Naturalmente puoi anche vendere quella che hai, ma deve essere stata accuratamente
+lavata o Jina, la proprietaria del negozio, non l’acquistera’.
+~
+216 8192 0
+D2
+~
+~
+0 -1 21617
+S
+#21620
+La tavola calda~
+In questo negozio non ci sono tavoli, ma solo un grosso bancone ed un piccolo
+forno. Sul bancone sono disposti in bell’ordine cibi gia’ cotti, pronti
+per essere mangiati e frutta gia’ tagliata e sbucciata!. Qui puoi anche
+vendere a Gioel del cibo pronto se non sai che fartene.
+~
+216 0 0
+D3
+~
+~
+0 -1 21615
+S
+#21621
+Il mulino~
+Una grossa macina di pietra riempie quasi completamente il locale. La macina
+gira lentamente mossa da un ruota munita di pale. Il movimento di quest’ultima
+e’ consentito dalle acque di un impetuoso torrente che scorre accanto al
+mulino.
+~
+216 2147483648 0
+D0
+~
+~
+0 -1 21618
+D2
+~
+~
+0 -1 21622
+D5
+~
+~
+0 -1 21623
+S
+#21622
+Il negozio dei sacchi di farina~
+Questo locale e’ secco e ben arieggiato, il clima ideale per conservare
+i sacchi di farina. Nelle pareti della stanza si aprono numerosi fori da
+cui entra luce ed aria calda. L’ambiente e’ pieno di sacchi di farina e
+una finissima polvere bianca ricopre il pavimento. Yvonne la mugnaia e’
+che sistema i sacchi.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21621
+S
+#21623
+Il forno del Piacere~
+L’aroma del pane fresco ti satura i polmoni e ti trasmette inebrianti emozioni.
+Come fa una cosa cosi’ semplice e consueta a darti tanto piacere ed a soddisfare
+la tua fame? Si, qui puoi trovare proprio la base della tua alimentazione.
+Per i lunghi viaggi niente e’ meglio del pane! In realta’ non trovi solo
+pane, ma tutto cio’ che si puo’ ricavare dalla farina.
+~
+216 0 0
+D0
+~
+~
+0 -1 21615
+D4
+~
+~
+0 -1 21621
+S
+#21624
+Viale delle Primule Argentate~
+L’atmosfera caotica che caratterizza il viale sembra non esistere in questa
+zona. Anche i passanti sembrano piu’ tranquilli e rilassati. A sud vedi
+il negozio di gioielli, mentre a nord si trova la vetrina del negozio delle
+gemme grezze.
+~
+216 0 0
+D0
+~
+~
+0 -1 21625
+D1
+~
+~
+0 -1 21633
+D2
+~
+~
+0 -1 21629
+S
+#21625
+Il negozio delle Gemme grezze~
+Il negozio e’ molto piccolo, ma pieno di piccole pietre dai mille colori
+ordinatamente disposte in scatoline di cartone. Su ogni scatola e’ scritto
+in eleganti caratteri il nome della pietra. Puck, il negoziante, e’ seduto
+dietro ad un piccolo banco.
+~
+216 8192 0
+D2
+~
+~
+0 -1 21624
+D4
+~
+~
+0 -1 21626
+S
+#21626
+Il laboratorio di ripulitura delle gemme~
+Anche questa stanza non e’ molto spaziosa. Al centro si trova un tavolo
+di medie dimensioni sopra al quale sono disposti in ordine gli arnesi necessari
+a compiere lavori di precisione: lenti di ingrandimento, limette di diversa
+grana, piccoli martelli e scalpelli altrettanto piccoli.
+~
+216 33554432 0
+D2
+~
+~
+0 -1 21627
+D5
+~
+~
+0 -1 21625
+S
+#21627
+Il negozio delle gemme lavorate~
+La luce di un grosso candelabro colpendo le pietre sfaccettate disposte
+all’interno delle piccole vetrine che si trovano in questa stanza diffondono
+una luce multicolore. Se hai bisogno di una pietra per un nuovo gioiello
+o hai intenzione di vendere quelle che hai, chiedi pure ad Ylgase.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21626
+D2
+~
+~
+0 -1 21628
+S
+#21628
+Il laboratorio dei gioielli~
+Un piccolo fornello si trova sopra un tavolo, sopra di esso si trova uno
+strano marchingegno. Ti avvicini per osservarlo meglio e ti accorgi che
+si tratta di una fornace in miniatura. Se hai intenzione di costruire dei
+capolavori di gioielleria qui troverai tutti cio’ di cui hai bisogno.
+~
+216 67108864 0
+D0
+~
+~
+0 -1 21627
+D5
+~
+~
+0 -1 21629
+S
+#21629
+La gioielleria~
+Vuoi vendere o comprare un oggetto unico? Beh, questo e il posto che fa
+per te. Dentro le vetrine ben chiuse disposte lungo le pareti di questa
+stanza puoi vedere anelli, collane, bracciali in cui sono incastonate pietre
+di ogni tipo, grandezza e valore. Ollie contempla ammirata la sua ultima
+creazione.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21624
+D4
+~
+~
+0 -1 21628
+S
+#21630
+Viale delle Primule Argentate~
+La strada che percorri e', se possibile, ancora piu' affollata del resto
+della citta'. Uomini e donne procedono a passo spedito in ogni direzione,
+carri pieni di merci lavorate e grezze sono fermi o in movimento lungo
+il viale. Solo questo eccessivo via vai, oltre al frastuono e all’odore
+acre dell’aria, ti fa comprendere di essere nella zona industriale di Chyrellos,
+se non ci fosse potresti tranquillamente pensare di essere nella zona residenziale.
+La via e’ coperta da arcate in modo che la pioggia non  isturbi gli operosi
+lavoratori e fiancheggiata da aiuole ben curate, in cui crescono delicate
+e profumate primule. Ancora una volta rimani sorpreso per la singolarità
+di questa citta’ dove anche la zona industriale appare splendida.
+~
+216 8 0
+D0
+~
+~
+0 -1 21651
+D1
+~
+~
+0 -1 21608
+D2
+~
+~
+0 -1 21632
+D4
+~
+~
+0 -1 21648
+D5
+~
+~
+0 0 21600
+S
+#21631
+Il negozio di animali~
+Non si puo’ certo dire che ci sia un odore gradevole in questo negozio,
+ma del resto non potevi aspettarti di provare una sensazione diversa nel
+momento in cui hai deciso di varcarne la soglia. Il locale e’ molto grande
+e pieno di recinti e gabbie dentro alle quali puoi vedere animali di ogni
+tipo. Se hai intenzione di vendere o comprare animali questo e’ il posto
+che fa per te, basta chiedere a Rudolph il proprietario.
+~
+216 0 0
+S
+#21632
+Il negozio degli attrezzi~
+Cerchi gli attrezzi adattati per praticare il tuo mestiere? Beh qui da Wooz
+li troverai di certo, basta cercarli. Il negozio e’ grande e ben illuminato,
+gli attrezzi che cerchi sono ordinatamente disposti su scaffali non troppo
+alti, ciascun tipo su un ripiano diverso.
+&7Fare list attrezzo per vedere gli attrezzi disponibili&0
+~
+216 0 0
+D0
+~
+~
+0 -1 21630
+S
+#21633
+Viale delle Primule Argentate~
+Procedi a fatica facendoti largo tra i cittadini indaffarati e cercando
+di evitare carri e cavalli che si trovano ovunque. Qui il terreno del viale
+e’ cosparso di trucioli e segatura. A nord vedi infatti il negozio dei
+tronchi, mentre a sud c’e’ il negozio degli oggetti di legno.
+~
+216 0 0
+D0
+~
+~
+0 -1 21634
+D1
+~
+~
+0 -1 21601
+D2
+~
+~
+0 -1 21638
+D3
+~
+~
+0 -1 21624
+D4
+~
+~
+0 -1 21640
+S
+#21634
+Il negozio di tronchi~
+Grossi tronchi di legno sono diligentemente accatastati l'uno sull'altro
+lungo le pareti di questo locale. Sulla sinistra riconosci con facilita'
+un cumulo di legno ciliegio, mentre sulla destra vedi una catasta di tronchi
+di pioppo. Al centro della grande stanza distingui infine un grosso bancone
+dietro al quale si trova Dert il proprietario del negozio.
+~
+216 8192 0
+D2
+~
+~
+0 -1 21633
+D5
+~
+~
+0 -1 21635
+S
+#21635
+La falegnameria~
+Tutto in questo locale e’ ricoperto dalla polvere di legno prodotta dalle
+grosse seghe che vedi al centro del locale. Le gigantesche lame sono azionate
+da una decina di operosi falegnami. Ti accorgi di respirare con un certo
+affanno e di provare un certo pizzicore alla gola, ma dovrai farci l'abitudine
+se hai intenzione di fare il falegname!
+~
+216 8388608 0
+D2
+~
+~
+0 -1 21636
+D4
+~
+~
+0 -1 21634
+S
+#21636
+Il negozio delle assi da lavorazione~
+Se quello che stai cercando e' un buon pezzo di legno per costruire archi,
+frecce, scudi o altro questo è il posto che fa per te. Stirow, il proprietario
+del locale, ti sembra una persona con cui e’ facile mettersi d’accordo
+e sei certo che con lui farai ottimi affari.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21635
+D2
+~
+~
+0 -1 21637
+S
+#21637
+La carpenteria~
+Grossi tavoli pieni di pialle, raspe, martelli, chiodi di varie dimensioni
+e lime di varia grandezza si trovano in questa stanza. Il rumore prodotto
+dai carpentieri e' decisamente "martellante" anche se non fortissimo: e'
+un continuo battere, segare, sfregare. In un angolo puoi vedere i magnifici
+oggetti frutto di tanto lavoro.
+~
+216 16777216 0
+D0
+~
+~
+0 -1 21636
+D4
+~
+~
+0 -1 21638
+S
+#21638
+Il negozio degli oggetti di legno~
+Qui puoi vendere o comprare tutto cio' che ha come materia prima il legno.
+In un angolo vedi appoggiate delle grosse e massicce porte, mentre lungo
+la parete meridionali si trovano diversi armadi, sul bancone sono amuleti
+e bracciali di legno. Till il venditore di oggetti di legno ti mostra sorridendo
+un magnifico scudo di legno.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21633
+D5
+~
+~
+0 -1 21637
+S
+#21639
+La quadrella di Chyrellos~
+Al centro di questa stanza si trovano enormi macchinari per segare e squadrare
+le pietre. Diversi operai stanno squadrando un grosso blocco di quarzo,
+mentre altri si apprestano a tagliare in lastre un blocco di marmo gia’
+squadrato.
+~
+216 134225920 0
+D5
+~
+~
+0 -1 21601
+S
+#21640
+Il negozio delle travi da costruzione~
+Travi di ogni tipo e misura giacciono sul pavimento di questa stanza. Se
+hai intenzione di costruire una casa, un castello o un negozio, o piu'
+semplicemente hai del materiale da costruzione in eccesso, Koowly sara’
+felicissimo di fare affari con te.
+~
+216 8192 0
+D5
+~
+~
+0 -1 21633
+S
+#21641
+Viale delle Primule Argentate~
+Un acre odore di pelle conciata e di sangue rappreso ti assale mentre procedi
+lungo il viale. L’odore dell’acido con cui conciano le pelli viene da nord,
+a sud si trova il negozio degli articoli in pelle, mentre in alto vedi
+la macelleria.
+~
+216 0 0
+D0
+~
+~
+0 -1 21642
+D1
+~
+~
+0 -1 21615
+D2
+~
+~
+0 -1 21646
+D3
+~
+~
+0 -1 21608
+D4
+~
+~
+0 -1 21647
+S
+#21642
+Il negozio delle pelli fresche~
+Volgendo lo sguardo intorno in questo negozio vedi numerose carcasse di
+animali mal scuoiati. Se sei in grado di ripulire la pelle senza rovinarla,
+o intendi vendere quella che hai appresso Ferton sara’ felice di accontentarti.
+~
+216 8192 0
+D0
+~
+~
+0 0 21375
+D2
+~
+~
+0 -1 21641
+D5
+~
+~
+0 -1 21643
+S
+#21643
+La conceria~
+In questa ampia sala si trovano grosse vasche piene di acido in grado di
+distruggere i resti della carne ancora rimasta attaccata alle pelli. Una
+volta effettuata questa operazione potrai stendere le pelli ad asciugare
+sulle apposite tavole, ed infine, utilizzando le grosse spatole ed i raschietti
+posti sui banconi potrai togliere i peli e rendere morbida la pelle.
+~
+216 8589934596 0
+D2
+~
+~
+0 -1 21644
+D4
+~
+~
+0 -1 21642
+S
+#21644
+Il negozio delle pelli~
+Pile e pile di pelli conciate sono stese su larghi banconi al centro di
+questo locale. Puoi scegliere quella che preferisci tra quelle disponibili
+se hai i soldi sufficienti per acquistarla oppure puoi decidere di vendere
+le tue a Laorst.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21643
+D2
+~
+~
+0 -1 21645
+S
+#21645
+La sartoria~
+Sui due grossi tavoli che si trovano in questa stanza sono stati lasciati
+aghi e fili di ogni tipo, un paio di fettucce metriche, del gesso e dei
+grossi taglierini. Insomma qui c’e’ tutto l’occorrente per confezionare
+un abito in pelle o cuoio.
+~
+216 17179869184 0
+D0
+~
+~
+0 -1 21644
+D4
+~
+~
+0 -1 21646
+S
+#21646
+Il negozio degli articoli in pelle~
+Se quello che cerchi e’ un comodo e leggero abito in pelle, che ti protegga,
+ma allo stesso tempo non ti impacci nei movimenti, finalmente hai trovato
+il negozio che cercavi. Leandro sara’ a tua disposizione, pronto a mostrarti
+le sue ultime creazioni.
+~
+216 8192 0
+D0
+~
+~
+0 -1 21641
+D5
+~
+~
+0 -1 21645
+S
+#21647
+La macelleria~
+Questo locale e’ molto pulito, ma l’odore di carne fresca e sangue che lo
+pervade e’ disgustoso. C’e’ un unico bancone su cui sono diversi tagli
+di carne. Carcasse intere ancora da tagliere sono appese a dei grossi ganci
+in un angolo della stanza. Cursell il macellaio e’ intento ad affettare
+una grossa pecora. 
+~
+216 8192 0
+D1
+~
+~
+0 -1 21618
+D5
+~
+~
+0 -1 21641
+S
+#21648
+Il bar di Chyrellos~
+Se hai intenzione di fare rifornimento d’acqua o intendi comprare un nuovo
+e piu’ capiente contenitore perche’ hai intenzione di intraprendere un
+viaggio lungo e faticoso, qui puoi trovare quello che fa per te e Astelia
+sara’ felicissima di consigliarti cio’ che piu’ si adatta alle tue esigenze.
+~
+216 0 0
+D5
+~
+~
+0 -1 21630
+S
+#21649
+La pescheria~
+L’odore del pesce fresco qui e’ fortissimo ed il pavimento e’ completamente
+bagnato. Polgard il negoziante ti mostra con orgoglio gli ultimi arrivi
+ordinatamente disposti sul bancone inclinato in cassette di legno.
+~
+216 8192 0
+D3
+~
+~
+0 -1 21618
+S
+#21650
+La stanza delle pietre~
+Appena entri si alza una nuvola di polvere bianca che inevitabilmente
+va a sporcare i tuoi vestiti. Dopo esserti pulito tutto intorno a te vedi
+grandi blocchi di marmo e granito, tagliati e pronti al trasporto.
+Molto probabilmente andranno a servire per la costruzione o la
+riparazione di qualche casa.
+~
+216 2560 0
+D3
+~
+~
+0 0 21639
+S
+#21651
+Il negozio di animali~
+Non si puo certo dire che ci sia un odore gradevole in questo negozio,
+ma del resto non potevi aspettarti di provare una sensazione diversa nel
+momento in cui hai deciso di varcarne la soglia. Il locale e molto grande
+e pieno di recinti e gabbie dentro alle quali puoi vedere animali di ogni
+tipo. Se hai intenzione di vendere o comprare animali questo e il posto
+che fa per te, basta chiedere a Rudolph il proprietario.
+&7Uscita con la cavalcatura ad ovest&0
+~
+216 0 0
+D2
+~
+~
+0 0 21630
+D3
+~
+~
+0 0 2134854
+S
+#21652
+Il magazzino degli animali~
+   Questa e' una piccola stanza scura dove sono alloggiati gli
+animali. E' importante che il numero virtuale di questa stanza
+sia uno di piu' del numero virtuale del negozio.
+~
+216 0 0
+S
+#21655
+Il Roseto di Ludwig~
+   In questo giardino si erge un maestoso e bellissimo roseto, le cui rose,
+rosse come il sangue, sono state poste a memoria dell'uomo che ebbe il
+coraggio di sacrificare la propria vita per gli altri, divenendo cosi'
+il simbolo del cavalierato della rosa insanguinata.
+~
+216 0 0
+D0
+~
+~
+0 0 21656
+D1
+~
+~
+0 0 21657
+D2
+~
+~
+0 0 21658
+D3
+~
+~
+0 0 21659
+S
+#21656
+Il dormitorio~
+   Appena varcata la soglia, senti che l'aria che proviene da questa stanza
+e' molto piu' calda ed accogliente che all'esterno. Ti trovi infatti nel
+dormitorio del castello, Dove due file di letti sono state accuratamente
+disposte ai due lati della stanza, ed il camino che si trova dall'altro lato
+contribuisce a rendere il luogo ancora piu' caldo e confortevole.
+~
+216 0 0
+D2
+~
+~
+0 0 21655
+S
+#21657
+La sala del consiglio~
+   In questa stanza si svolgono le riunioni del consiglio della
+Rosa Insanguinata, ed e' qui' che vengono decise le mosse future
+del cavalierato, e vengono approvate le leggi interne ad esso.
+La stanza e' arredata con un lungo tavolo in legno, sulle pareti
+sono esposti numerosi trofei guadagnati con il sudore da valorosi
+Cavalieri.
+~
+216 0 0
+D3
+~
+~
+0 0 21655
+S
+#21658
+I magazzini~
+   In questo capannone trovi riposti gli innumerevoli oggetti che il
+cavalierato ha raccolto durante questi anni. Negli scaffali, infatti,
+accuratamente schedati, sono riposti cibi provenienti da luoghi quasi
+leggendari, ed armi che vengono invidiate dai fabbri eleni e della
+Daresia intera.
+~
+216 0 0
+D0
+~
+~
+0 0 21655
+S
+#21659
+L'ingresso del castello~
+   Le due guardie poste a difesa del cancello ti osservano amichevolmente,
+dato che hanno capito che non hai intenzioni ostili, e cio' ti rassicura.
+Senti, infatti, che mettersi contro qualche cavaliere della Rosa Insanguinata
+potrebbe portare a conseguenze poco piacevoli.
+~
+216 0 0
+D1
+~
+~
+0 0 21655
+D3
+~
+~
+0 0 1557447
+S
+#21660
+Magazzini di Orces~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D2
+~
+~
+0 0 21616
+S
+#21661
+Magazzino di Hular~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D1
+~
+~
+0 0 21604
+S
+#21662
+Magazzini di Vulbak~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21603
+S
+#21663
+Magazzini di Dert~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21634
+S
+#21664
+Magazzino di Koowly~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D1
+~
+~
+0 0 21640
+S
+#21665
+Magazzini di Stirow~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D1
+~
+~
+0 0 21636
+S
+#21666
+Magazzini di Puck~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21625
+S
+#21667
+Magazzino di Ylgase~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21627
+S
+#21668
+Magazzino di Renard~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21611
+S
+#21669
+Magazzino di Marles~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D1
+~
+~
+0 0 21609
+S
+#21670
+Magazzino di Ferton~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21642
+S
+#21671
+Magazzino di Laorst~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21644
+S
+#21672
+Magazzino di Jina~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21619
+S
+#21673
+Magazzino di Polgard~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21649
+S
+#21674
+Magazzino di Yvonne~
+Qui puoi lasciare la tua merce senza problemi.
+~
+216 4398046513728 0
+D3
+~
+~
+0 0 21622
+S
+#21695
+L'Armeria~
+Vedi centinaia di armi disposte ordinatamente su grossi scaffali.
+Alcune sono di legno e servono per l'addestramento. Noti con stupore
+che in tutte le spade, gli scudi e le armature e' raffigurato lo stemma
+Elene. Qualunque fabbro nativo di Chyrellos sarebbe orgoglioso di
+sapere che le sue creazioni sono finite qua.
+~
+216 68719487492 0
+D0
+~
+~
+0 0 21696
+D1
+~
+~
+0 0 21697
+D2
+Nothing.
+~
+~
+0 0 2135362
+D3
+~
+~
+0 0 21698
+S
+#21696
+La Mensa~
+Un appetitoso odore ti conduce verso dei grossi tegami. A dire il vero
+vedi che i tavoli sono abbastanza sporchi, ma sembra che ai soldati
+affamati non importi poi molto. E' di sicuro il luogo preferito dalle
+truppe, che possono felicemente riposarsi in attesa di nuovi ordini.
+~
+216 68719479300 0
+D2
+~
+~
+0 0 21695
+S
+#21697
+La Stanza Del Generale~
+Eccoti nella stanza di Yaemon, Il Capo Delle Forze Armate Elene.
+Ovviamente non manca una cartina della Daresia ben disposta sopra un
+tavolo. Di certo contiene informazioni riservate. Per il resto la stanza
+e' accogliente, ma abbastanza spartana. Immagini che qua vengano prese
+tutte le decisioni piu' importanti ed escogitate le strategie di
+battaglia.
+~
+216 68719479300 0
+D3
+~
+~
+0 0 21695
+S
+#21698
+La Stanza Dell' Addestramento~
+Sei in un enorme stanza, e vieni letteralmente assordato dalle urla di
+battaglia di uomini agguerriti. Per un attimo credi di essere in un vero
+e proprio campo di battaglia. Yaemon ti rassicura ricordandoti che qua
+l'esercito usa armi di legno. Rimani infine sorpreso dalla tenacia con
+cui questi uomini danno il meglio di se, probabilmente sanno che prima
+o poi non dovranno abbattere solo degli innocui manichini.
+~
+216 68719479300 0
+D1
+~
+~
+0 0 21695
+S
+$~

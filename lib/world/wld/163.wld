@@ -1,0 +1,1800 @@
+#16300
+Un buio sottopassaggio~
+   Sei in un oscuro sottopassaggio umido e sporco, si capisce subito
+che la gente non passa di qui da secoli per chissa' quale motivo.
+~
+163 77 0
+D0
+~
+~
+0 -1 16301 0
+D2
+~
+~
+0 0 1458440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16301
+Un buio sottopassaggio~
+   Il sottopassaggio e' sempre piu' buio e umido, continua in
+direzione nord e sud, da dove proviene calda luce solare...
+~
+163 77 0
+D0
+~
+~
+0 -1 16302 0
+D2
+~
+~
+0 -1 16300 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16302
+Un buio sottopassaggio~
+   Sei nella continuazione di questo lungo sottopassaggio. Forse
+faresti meglio a tornare indietro!
+~
+163 73 0
+D0
+~
+~
+0 -1 16303 0
+D2
+~
+~
+0 -1 16301 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16303
+Il buio sottopassaggio~
+   La respirazione comincia ad essere difficoltosa a causa del
+mancato ricambio d'aria, l'unica luce che vedi e' quella della
+tua lanterna.
+~
+163 73 0
+D0
+~
+~
+0 -1 16304 0
+D2
+~
+~
+0 -1 16302 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16304
+Il buio sottopassaggio~
+   Finalmente vedi una fievole luce fredda a nord, a sud invece c'e'
+buio totale.
+~
+163 73 0
+D0
+~
+~
+0 -1 16305 0
+D2
+~
+~
+0 -1 16303 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16305
+La parte illuminata del sottopassaggio~
+   La luce si fa un poco piu' forte ma stranamente non senti
+alcun calore provenire da nord, cominci a pensare di tornare nella
+tua cara casetta al mare.
+~
+163 72 0
+D0
+~
+~
+0 -1 16306 0
+D2
+~
+~
+0 -1 16304 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16306
+Il Portale Luminoso~
+   Sei in una stanza, se cosi' si puo' definire, senza tempo e senza
+spazio, non c'e' alto, non c'e' basso, non c'e' nord e non c'e'
+sud, le mura sono inesistenti e il pavimento pure...
+Chissa', se ti fossi portato una bussola magari l'avresti vista
+girare intorno impazzita.
+~
+163 244 0
+D0
+~
+~
+0 -1 16307 0
+D2
+~
+~
+0 -1 16305 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16307
+Le porte Sud del Regno di Leah~
+   Incredibile!!! Non sai come hai fatto, ma sei arrivato alle porte
+di una citta' bellissima e ridente! Senti ancora il formicolio
+di quando stavi attraversando quello stranissimo portale luminoso
+e tutto d'un tratto...Un flash! Arrivi qui!
+~
+163 0 1
+D0
+~
+~
+0 -1 16308 0
+D2
+~
+~
+0 -1 16306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16308
+Dentro le porte Sud della citta' di Leah~
+   Eccoti in questa bellissima citta', antico Regno governato
+dalla dinastia dei Leah, da cui la Capitale prende il nome.
+Gli abitanti che passano ti salutano cordialmente, sono quasi
+tutti vestiti con tuniche bianche e cinture dorate, orecchini
+d'argento e elmi di bronzo all'ultima moda!!!
+~
+163 192 1
+D0
+~
+~
+0 -1 16309 0
+D2
+~
+~
+0 -1 16307 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16309
+Corso Balinor~
+   Sei nella piccola via all'estremita' sud della citta' dedicata a
+Balinor, l'antico eroe che resistette coraggiosamente all'invasione
+dell'esercito del Signore degli Inganni nella grande citta' di
+Tyrsis.
+~
+163 64 1
+D0
+~
+~
+0 -1 16310 0
+D2
+~
+~
+0 -1 16308 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16310
+Corso Balinor~
+   Sei nella continuazione di questo piccolo corso, le case sono
+piccole ma ben curate, evidentemente non sono della classe
+dirigente...
+~
+163 64 1
+D0
+~
+~
+0 -1 16311 0
+D1
+~
+~
+0 -1 16326 0
+D2
+~
+~
+0 -1 16309 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16311
+Corso Balinor~
+   Sei alla fine del Corso Balinor, le case sono uguali a quelle di
+poco fa, a nord vedi invece una via molto affollata, ad ovest c'e'
+il bar della citta', ad est invece una piccola locanda.
+~
+163 0 1
+D0
+~
+~
+0 -1 16315 0
+D1
+~
+~
+0 -1 16312 0
+D2
+~
+~
+0 -1 16310 0
+D3
+~
+~
+0 -1 16314 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16312
+Una Locanda mal frequentata~
+   Sei in una locanda poco curata e frequentata evidentemente dalla
+gente appartenente alle classi piu' povere della citta'.
+~
+163 8 0
+D3
+~
+~
+0 -1 16311 0
+D5
+~
+botola~
+0 -1 16313 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16313
+Il magazzino di merce illegale~
+   Allora poco fa non stavi malignando, questa locanda e'
+veramente frequentata da ladri e assassini! Per terra c'e' di
+tutto, cibo (avvelenato), pozioni (per uccidere), armi... e
+naturalmente i frutti di tante rapine.
+~
+163 9 0
+D0
+~
+~
+0 0 16390 0
+D4
+~
+botola~
+0 16307 16312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16314
+Il Bar~
+   Sei in un piccolo bar poco frequentato, la poca gente che viene
+si siede davanti al focolare o ai tavolini e racconta storie.
+~
+163 8 0
+D1
+~
+~
+0 -1 16311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16315
+Via dei Re~
+   Eccoti nella via principale della citta'. Dovunque ti giri vedi
+nobili che ti guardano dall'alto verso il basso vestiti con
+tuniche di seta, cinture d'oro, anelli con brillanti, orecchini
+di diamante, collane con enormi rubini.
+~
+163 192 1
+D0
+~
+~
+0 -1 16316 0
+D2
+~
+~
+0 -1 16311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16316
+Via dei Re~
+   La via continua, le enormi case dalle mura austere ma graziose
+ti opprimono.
+~
+163 192 1
+D0
+~
+~
+0 -1 16317 0
+D2
+~
+~
+0 -1 16315 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16317
+Via dei Re~
+   Sei alla fine di questa via, a nord vedi il Palazzo Reale mentre
+ad Est c'e' la Piazza dove solitamente si riunisce la gente piu'
+colta, nobile e pettegola del regno.
+~
+163 192 1
+D0
+~
+~
+0 -1 16318 0
+D1
+~
+~
+0 -1 16321 0
+D2
+~
+~
+0 -1 16316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16318
+L'entrata al Palazzo Reale~
+   Ecco l'entrata al Palazzo Reale, modesto come dimenzioni ma
+fatto interamente d'oro.
+Al muro vedi appesa la mappa del Palazzo Reale per aiutare i
+turisti a non perdersi...Anche se pare facile orientarsi.
+~
+163 72 0
+D0
+~
+~
+0 -1 16319 0
+D1
+~
+~
+0 -1 16320 0
+D2
+~
+~
+0 -1 16317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16319
+Segreteria~
+   Sei nell'ufficio del segretario di Corte, con una scrivania ornata
+da brillanti, un lampadario interamente di rubino e le mura, come al
+solito, d'oro!
+~
+163 72 0
+D0
+~
+~
+0 -1 16327 0
+D2
+~
+~
+0 -1 16318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16320
+Itinerario turistico~
+   Beh? Non vorrai fare il turista spero! Torna indietro, qui non
+hai nulla da fare.
+~
+163 20 0
+D3
+~
+~
+0 -1 16318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16321
+La Piazza principale della citta'~
+   Sei nella piazza principale della citta', e' affolatissima di
+mendicanti vestiti di stracci e nobili vestiti con seta, diamanti
+e oggetti d'oro: pazzo il mondo, vero?
+
+~
+163 192 1
+D0
+~
+~
+0 -1 16322 0
+D3
+~
+~
+0 -1 16317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16322
+Via Flick Ohmsford~
+   Sei nella via situata al fianco del Palazzo Reale, continua fino
+alle porte Nord della Citta', unica entrata oltre a quelle a Sud.
+C'e' una targa appesa al muro, narra la vita dell'eroe a cui e'
+dedicata la via.
+~
+163 0 1
+D0
+~
+~
+0 -1 16323 0
+D2
+~
+~
+0 -1 16321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16323
+Via Flick Ohmsford~
+   Ti avvicini sempre piu' alle mura Nord della citta', chissa' dove
+uscirai...
+~
+163 0 1
+D0
+~
+~
+0 -1 16324 0
+D2
+~
+~
+0 -1 16322 0
+D5
+~
+botola~
+1 -1 16398 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16324
+Via Flick Ohmsford~
+   Eccoti vicinissimo alle Porte Nord, sei sempre piu' curioso di
+sapere dove sbucherai...
+~
+163 0 1
+D0
+~
+~
+0 -1 16325 0
+D2
+~
+~
+0 -1 16323 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16325
+All'interno delle Porte Nord~
+   Oh, no! Le porte sono state murate, ora e' impossibile uscire da
+qui, ma come faranno gli abitanti ad uscire? Prendono da quel maledetto
+passaggio o restano sempre all'interno di questa citta' misteriosa?
+~
+163 128 1
+D2
+~
+~
+0 -1 16324 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16326
+Vicolo Panamon Creel~
+   Sei nel vicolo dedicato all'antico eroe-ladro-gentiluomo che
+aiuto' Shea Ohmsford nella sua impresa, beh, non sembra tanto
+sfarzoso dopotutto il vicoletto...
+~
+163 1 1
+D3
+~
+~
+0 -1 16310 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16327
+La sala del Trono~
+   Sei nell'ultima stanza del piccolo palazzo, e' la sala del trono,
+dove il Re e la Regina si occupano degli affari del regno.
+Le poltrone sono d'oro ed i cuscini di seta, le alabarde impugnate
+dalle guardie sono d'argento e le pergamene con scritte le leggi
+sono di papiro intrecciate con oro.
+~
+163 8 0
+D2
+~
+~
+0 -1 16319 0
+D5
+~
+~
+0 -1 16328 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16328
+Uscita segreta della citta'~
+   Sei nell'uscita segreta della citta', da qui la gente esce per
+cacciare/esplorare/fuggire, l'uscita continua ad est con un largo
+tunnel illuminato.
+~
+163 8 0
+D0
+~
+~
+0 -1 16329 0
+D4
+~
+botola~
+0 16301 16327 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16329
+Un breve e largo tunnel~
+   Sei in un tunnel largo e breve, illuminato da torce poste alle
+pareti rocciose, qui non c'e' troppa umidita', il tunnel e'
+probabilmente artificiale, fatto con qualche stregoneria.
+~
+163 392 0
+D0
+~
+~
+0 -1 16330 0
+D2
+~
+botola~
+0 -1 16328 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16330
+L'uscita dal piccolo tunnel~
+   Sei gia' arrivato all'uscita del tunnel, una botola conduce
+all'aria aperta, nel nuovo mondo che stavi cercando...
+~
+163 392 0
+D2
+~
+botola~
+0 -1 16329 0
+D4
+~
+~
+0 -1 16331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16331
+Le montagne di Leah~
+   Sei sui monti di Leah, le piu' alte vette delle citta' del Sud
+delle Quattro Terre.
+~
+163 64 5
+D0
+~
+~
+0 -1 16332 0
+D1
+~
+~
+0 -1 16336 0
+D5
+~
+botola~
+1 -1 16330 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16332
+Le montagne di Leah~
+   La parte sudorientale delle montagne di Leah.
+~
+163 64 5
+D2
+~
+botola~
+0 -1 16331 0
+D3
+~
+~
+0 -1 16335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16333
+Le montagne di Leah~
+   La parte nord delle montagne di Leah.
+~
+163 64 5
+D1
+~
+~
+0 -1 16341 0
+D2
+~
+botola~
+0 -1 16334 0
+D3
+~
+botola~
+0 -1 16342 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16334
+Le montagne di Leah~
+   La parte centrale delle montagne di Leah.
+~
+163 64 5
+D0
+~
+botola~
+0 -1 16333 0
+D1
+~
+~
+0 -1 16339 0
+D2
+~
+~
+0 -1 16340 0
+D3
+~
+botola~
+0 -1 16338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16335
+Le montagne di Leah~
+   La parte sudorientale delle montagne di Leah.
+~
+163 64 5
+D0
+~
+botola~
+0 -1 16339 0
+D1
+~
+botola~
+0 -1 16332 0
+D3
+~
+botola~
+0 -1 16340 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16336
+Le montagne di Leah~
+   La parte sud orientale delle montagne di Leah.
+~
+163 64 5
+D3
+~
+botola~
+0 -1 16331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16337
+Le montagne di Leah~
+   Sei nella parte sud occidentale delle montagne di Leah.
+~
+163 64 5
+D0
+~
+~
+0 -1 16338 0
+D1
+~
+botola~
+0 -1 16331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16338
+Le montagne di Leah~
+   La fine occidentale delle montagne di Leah.
+~
+163 64 5
+D0
+~
+botola~
+0 -1 16342 0
+D1
+~
+botola~
+0 -1 16334 0
+D2
+~
+botola~
+0 -1 16337 0
+D3
+~
+botola~
+0 -1 16344 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16339
+Le montagne di Leah~
+   Sei nella fine orientale delle montagne di Leah.
+~
+163 64 5
+D0
+~
+botola~
+0 -1 16341 0
+D2
+~
+~
+0 -1 16335 0
+D3
+~
+botola~
+0 -1 16334 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16340
+Le montagne di Leah~
+   Sei nella parte sud delle montagne di Leah.
+~
+163 64 5
+D0
+~
+botola~
+0 -1 16334 0
+D1
+~
+~
+0 -1 16335 0
+D2
+~
+~
+0 -1 16373 0
+D3
+~
+botola~
+0 -1 16337 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16341
+Le montagne di Leah~
+   Sei nella parte nord orientale delle montagne di Leah.
+~
+163 64 5
+D2
+~
+~
+0 -1 16339 0
+D3
+~
+botola~
+0 -1 16333 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16342
+Le montagne di Leah~
+   Sei nella parte nord occidentale delle montagne di Leah.
+~
+163 64 5
+D1
+~
+~
+0 -1 16333 0
+D2
+~
+~
+0 -1 16338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16343
+Rooker Line~
+   Sei nel piccolo negozio di articoli nautici di Stebb, chiamato
+Rooker Line.
+~
+163 200 0
+D0
+~
+~
+0 -1 16351 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16344
+Una pianura~
+   Sei in una pianura nei pressi del fiume Rappahalladran.
+~
+163 64 2
+D1
+~
+~
+0 -1 16338 0
+D3
+~
+~
+0 -1 16345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16345
+Una pianura~
+   Sei in una pianura nei pressi del fiume Rappahalladran.
+~
+163 64 2
+D0
+~
+~
+0 -1 16346 0
+D1
+~
+botola~
+0 -1 16344 0
+D2
+~
+~
+0 -1 16353 0
+D3
+~
+~
+0 -1 16348 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16346
+Una pianura~
+   Sei in una pianura nei pressi del fiume Rappahalladran.
+Cresce una flora tipica delle rive dei fiumi qui.
+~
+163 64 2
+D0
+~
+botola~
+0 -1 16347 0
+D2
+~
+botola~
+0 -1 16345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16347
+La riva del fiume~
+   Ti trovi in una sponda del fiume Rappahalladran. Vedi il fiume
+piuttosto agitato oggi, impensabile attraversarlo senza una barca!
+~
+163 64 2
+D0
+~
+~
+0 -1 16358 0
+D1
+~
+~
+0 -1 16351 0
+D2
+~
+botola~
+0 -1 16346 0
+D3
+~
+~
+0 -1 16350 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16348
+Una pianura~
+   Sei nella pianura nei pressi del fiume Rappahalladran. Cresce
+vegetazione tipica delle rive dei fiumi qui.
+~
+163 64 2
+D0
+~
+~
+0 -1 16350 0
+D1
+~
+botola~
+0 -1 16345 0
+D2
+~
+~
+0 -1 16352 0
+D3
+~
+~
+0 -1 16349 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16349
+La riva del fiume~
+   Sei in una sponda del fiume Rappahalladran. Il fiume sembra molto
+agitato oggi, impensabile attraversarlo senza una barca!
+~
+163 64 2
+D1
+~
+botola~
+0 -1 16348 0
+D2
+~
+~
+0 -1 16354 0
+D3
+~
+~
+0 -1 16360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16350
+La riva del fiume~
+   Sei in una sponda del fiume Rappahalladran, le sue acque sembrano
+essere agitate oggi, impensabile attraversarlo senza una barca!
+~
+163 64 2
+D0
+~
+~
+0 -1 16359 0
+D1
+~
+botola~
+0 -1 16347 0
+D2
+~
+~
+0 -1 16348 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16351
+La foce del Rappahalladran~
+   Sei alla foce del Rappahalladran, verso est vedi il Lago
+Arcobaleno, a Sud c'e' il negozio Rooker Line.
+~
+163 64 2
+D2
+~
+botola~
+0 -1 16343 0
+D3
+~
+~
+0 -1 16347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16352
+Una pianura~
+   Sei nella pianura nei pressi del grande fiume Rappahalladran.
+Cresce vegetazione tipica delle rive dei fiumi qui.
+~
+163 64 2
+D0
+~
+~
+0 -1 16348 0
+D1
+~
+~
+0 -1 16353 0
+D2
+~
+~
+0 -1 16357 0
+D3
+~
+~
+0 -1 16354 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16353
+Una pianura~
+   Sei nella pianura nei pressi del fiume Rappahalladran.
+~
+163 64 2
+D0
+~
+~
+0 -1 16345 0
+D3
+~
+~
+0 -1 16352 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16354
+La riva del fiume~
+   Sei su una sponda del fiume Rappahalladran, sembra molto agitato
+oggi, impensabile attraversarlo senza una barca!
+~
+163 64 2
+D0
+~
+~
+0 -1 16349 0
+D1
+~
+~
+0 -1 16352 0
+D2
+~
+~
+0 -1 16355 0
+D3
+~
+~
+0 -1 16361 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16355
+Una pianura~
+   Sei nella pianura nei pressi del fiume Rappahalladran. Noti della
+vegetazione tipica delle rive dei fiumi qui.
+~
+163 64 2
+D0
+~
+~
+0 -1 16354 0
+D1
+~
+~
+0 -1 16357 0
+D3
+~
+~
+0 -1 16356 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16356
+La riva del fiume~
+   Sei su una sponda del fiume Rappahalladran, sembra molto agitato
+oggi, impensabile attraversarlo senza una barca!
+~
+163 64 2
+D1
+~
+~
+0 -1 16355 0
+D3
+~
+~
+0 -1 16362 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16357
+Una pianura~
+   Sei su una pianura nei pressi del fiume Rappahalladran.
+~
+163 64 2
+D0
+~
+~
+0 -1 16352 0
+D3
+~
+~
+0 -1 16355 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16358
+Il fiume Rappahalladran~
+   Stai navigando sullo splendido fiume Rappahalladran, sebbene oggi
+sia molto agitato, puoi vedere i pesciolini nuotare e immaginare
+il dolce gorgoglio delle acque quando sono piu' calme.
+~
+163 64 7
+D1
+~
+~
+0 -1 16363 0
+D2
+~
+~
+0 -1 16347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16359
+Il fiume Rappahalladran~
+   Stai navigando sullo splendido fiume Rappahalladran, sebbene oggi
+sia molto agitato, puoi vedere i pesciolini nuotare e immaginare
+il dolce gorgoglio delle acque quando sono piu' calme.
+~
+163 64 7
+D2
+~
+~
+0 -1 16350 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16360
+Il fiume Rappahalladran~
+   Stai navigando sullo splendido fiume Rappahalladran, sebbene oggi
+sia molto agitato, puoi vedere i pesciolini nuotare e immaginare
+il dolce gorgoglio delle acque quando sono piu' calme.
+~
+163 64 7
+D1
+~
+~
+0 -1 16349 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16361
+Il fiume Rappahalladran~
+   Stai navigando sullo splendido fiume Rappahalladran, sebbene oggi
+sia molto agitato, puoi vedere i pesciolini nuotare e immaginare
+il dolce gorgoglio delle acque quando sono piu' calme.
+~
+163 64 7
+D1
+~
+~
+0 -1 16354 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16362
+Il fiume Rappahalladran~
+   Stai navigando sullo splendido fiume Rappahalladran, sebbene oggi
+sia molto agitato, puoi vedere i pesciolini nuotare e immaginare
+il dolce gorgoglio delle acque quando sono piu' calme.
+~
+163 64 7
+D1
+~
+~
+0 -1 16356 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16363
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16366 0
+D1
+~
+~
+0 -1 16364 0
+D2
+~
+~
+0 -1 16365 0
+D3
+~
+~
+0 -1 16358 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16364
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16367 0
+D1
+~
+~
+0 -1 16370 0
+D2
+~
+~
+0 -1 16368 0
+D3
+~
+~
+0 -1 16363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16365
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16363 0
+D1
+~
+~
+0 -1 16368 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16366
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D1
+~
+~
+0 -1 16367 0
+D2
+~
+~
+0 -1 16363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16367
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16369 0
+D1
+~
+~
+0 -1 16372 0
+D2
+~
+~
+0 -1 16364 0
+D3
+~
+~
+0 -1 16366 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16368
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16364 0
+D1
+~
+~
+0 -1 16371 0
+D3
+~
+~
+0 -1 16365 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16369
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+A Nord vedi la Foce del Fiume Mermidon.
+~
+163 208 7
+D2
+~
+~
+0 -1 16367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16370
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+Verso est vedi il Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16372 0
+D2
+~
+~
+0 -1 16371 0
+D3
+~
+~
+0 -1 16364 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16371
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D0
+~
+~
+0 -1 16370 0
+D3
+~
+~
+0 -1 16368 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16372
+Il Lago Arcobaleno~
+   Non hai mai visto nulla di piu' meraviglioso. Pesci di mille
+colori, acqua cristallina, uccelli marini dalle penne argentate.
+Vorresti restare qui per sempre, per l'eternita'. Questo lago ti fa
+pensare all'eternita' del Dio che lo cura: il Re del Fiume Argento.
+~
+163 208 7
+D2
+~
+~
+0 -1 16370 0
+D3
+~
+~
+0 -1 16367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16373
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+Ad est ci sono sabbie mobili, meglio non andarci!
+~
+163 64 2
+D0
+~
+~
+0 -1 16340 0
+D2
+~
+~
+0 -1 16374 0
+D3
+~
+~
+0 -1 16375 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16374
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+Ad est ci sono sabbie mobili, meglio non andarci!
+~
+163 64 2
+D0
+~
+~
+0 -1 16373 0
+D2
+~
+~
+0 -1 16377 0
+D3
+~
+~
+0 -1 16376 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16375
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+
+~
+163 64 2
+D1
+~
+~
+0 -1 16374 0
+D2
+~
+~
+0 -1 16376 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16376
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+~
+163 64 2
+D0
+~
+~
+0 -1 16375 0
+D1
+~
+botola~
+0 -1 16374 0
+D2
+~
+~
+0 -1 16379 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16377
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+~
+163 64 2
+D0
+~
+botola~
+0 -1 16374 0
+D1
+~
+~
+0 -1 16382 0
+D2
+~
+~
+0 -1 16378 0
+D3
+~
+~
+0 -1 16379 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16378
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+~
+163 64 2
+D0
+~
+botola~
+0 -1 16377 0
+D1
+~
+~
+0 -1 16381 0
+D3
+~
+~
+0 -1 16380 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16379
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+~
+163 64 2
+D0
+~
+botola~
+0 -1 16376 0
+D1
+~
+botola~
+0 -1 16377 0
+D2
+~
+~
+0 -1 16380 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16380
+Pianure di Clete~
+   Sei nelle verdi Pianure di Clete, in questo periodo qui crescono
+fiori splendidi e rari, l'erba e' soffice e bassa, la temperatura
+e' ottima, un po' umida ma per fortuna non c'e' nebbia!
+~
+163 64 2
+D0
+~
+botola~
+0 -1 16379 0
+D1
+~
+botola~
+0 -1 16378 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16381
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D0
+~
+~
+0 -1 16382 0
+D1
+~
+~
+0 -1 16384 0
+D3
+~
+botola~
+0 -1 16378 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16382
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D0
+~
+~
+0 -1 16383 0
+D1
+~
+~
+0 -1 16385 0
+D2
+~
+botola~
+0 -1 16381 0
+D3
+~
+botola~
+0 -1 16377 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16383
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D1
+~
+~
+0 -1 16386 0
+D2
+~
+botola~
+0 -1 16382 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16384
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D0
+~
+~
+0 -1 16385 0
+D1
+~
+~
+0 -1 16387 0
+D3
+~
+botola~
+0 -1 16381 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16385
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D0
+~
+~
+0 -1 16386 0
+D1
+~
+~
+0 -1 16388 0
+D2
+~
+botola~
+0 -1 16384 0
+D3
+~
+botola~
+0 -1 16382 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16386
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D1
+~
+~
+0 -1 16389 0
+D2
+~
+botola~
+0 -1 16385 0
+D3
+~
+botola~
+0 -1 16383 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16387
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D0
+~
+~
+0 -1 16388 0
+D3
+~
+botola~
+0 -1 16384 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16388
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D0
+~
+~
+0 -1 16389 0
+D2
+~
+botola~
+0 -1 16387 0
+D3
+~
+botola~
+0 -1 16385 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16389
+Palude della Nebbia~
+   Sei nelle Paludi della Nebbia, sono famose per le migliaia di
+vittime che i suoi abitanti, mostri e affini, hanno mietuto.
+Non riesci a vedere ad un palmo dal naso, gli insetti sono grossi
+come cani, vedi ogni tanto qualche liana.
+~
+163 0 2
+D2
+~
+botola~
+0 -1 16388 0
+D3
+~
+botola~
+0 -1 16386 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16390
+Un sentiero all'aperto~
+   Avverti una vertigine e per un attimo chiudi gli occhi.  Al riaprirli ti
+ritrovi in un posto fuori della realta.  Nella nebbia non riesci a capire
+esattamente dove ti trovi.  Enormi radici di un albero ti circondano e in alto,
+sulla tua testa, ogni tanto scorgi dei fuochi fatui che danzano fra le foglie.
+Molto molto piu su avverti le note di una musica.  , questo e un luogo magico
+dedicato a un Dio e questo molto probabilmente e un albero a lui caro.    
+~
+163 2564 0
+D2
+~
+~
+0 0 16313 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#16398
+Il rifugio~
+   Sei nel rifugio di Flick Ohmsford, c'e' odore di minestra nell'aria,
+vedi un pentolone che bolle su un piccolo fuoco, davanti ad esso
+c'e' una persona.
+~
+163 8 0
+D4
+~
+~
+0 -1 16323 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

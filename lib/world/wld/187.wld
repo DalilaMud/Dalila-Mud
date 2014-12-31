@@ -1,0 +1,1378 @@
+#18700
+Il Chiostro della Basilica~
+   Foglie spinte dal vento riempiono questo chiostro vecchio di
+innumerevoli secoli con il loro sordo monotono fruscio. Come ti
+guardi in giro, una strana sensazione ti fa rabbrividire: e' come
+se qualcuno ti stesse osservando.
+A nord, vedi quella che una volta doveva essere stata una
+stupenda doppia porta che immetteva nella basilica: giace ora
+in terra divelta lasciando libero accesso alla basilica stessa.
+In fondo al chiostro puoi vedere un grande cancello di ferro battuto
+che il vento fa cigolare. Oltre il cancello, c'e' una vecchia strada che
+si allontana dalla basilica.
+~
+187 0 2
+D0
+Una grande fontana si intravede attraverso le porte aperte a nord.
+~
+~
+0 -1 18701 0
+D2
+~
+Portone~
+1 -1 1499438 3
+E
+porta porte~
+I resti delle due porte che servivano come ingresso principale alla
+basilica giacciono ora in rovina sul terreno. Le porte sono coperte
+di orme e scarabocchi e sono solo una pallida ombra delle
+meravigliose porte che erano una volta.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18701
+L'Entrata alla Basilica~
+   In questo grande spazio aperto appena all'interno delle porte della
+basilica, puoi vedere quello che una volta era un bel fonte battesimale
+dal quale sgorgava l'acqua santa. Tutto quello che resta ora e'
+il risultato della distruzione causata da qualche cosa che ora si aggira
+per la basilica.
+Sembra che tutto sia stato corrotto e guastato.
+Ci sono piccole alcove sia ad est che ad ovest. La basilica continua
+a nord verso l'altare. A sud c'e' una una larga via d'accesso che porta
+al chiostro.
+~
+187 8 0
+D0
+Il passaggio a nord e' semi bloccato da panche rovesciate.
+~
+~
+0 -1 18704 0
+D1
+Ad est c'e' una piccola nicchia.
+~
+~
+0 -1 18702 0
+D2
+A sud si puo' vedere il chiostro della basilica.
+~
+~
+0 -1 18700 0
+D3
+Ad ovest c'e' una piccola nicchia.
+~
+~
+0 -1 18703 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18702
+Una Nicchia~
+   Questa e' una piccola nicchia situata subito ad est dell'ingresso
+principale della basilica. Ad ovest vedi il fonte battesimale. Ad est
+vedi una scala a chiocciola che porta in alto ed in basso.
+~
+187 9 0
+D1
+Ad est c'e' una scala a chiocciola.
+~
+~
+0 -1 18713 0
+D3
+Ad ovest si vede l'entrata alla basilica.
+~
+~
+0 -1 18701 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18703
+Una Nicchia~
+   Questa e' una piccola alcova situata subito ad ovest dell'ingresso
+principale della basilica. Ad est vedi il fonte battesimale. Ad ovest
+vedi una scala a chiocciola che porta in alto ed in basso.
+~
+187 8 0
+D1
+Ad est si vede l'entrata alla basilica.
+~
+~
+0 -1 18701 0
+D3
+Ad ovest c'e' una scala a chiocciola.
+~
+~
+0 -1 18712 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18704
+La Navata Laterale delle Panche~
+   Per muoverti nella navata sei costretto a scavalcare le panche rovesciate.
+In mezzo alle panche vedi dei vecchi libri ammuffiti. La polvere e i decenni
+hanno ricoperto tutto qui indicando chiaramente che da anni nulla e' stato
+toccato.
+A sud c'e' l'entrata alla basilica mentre l'altare e' situato da qualche parte
+a nord.
+Senti un gemito sommesso provenire da qualche punto in basso.
+~
+187 8 0
+D0
+A nord termina la confusione di panche rovesciate proprio dove inizia la
+sala delle orazioni.
+~
+~
+0 -1 18705 0
+D2
+L'entrata alla basilica ed il chiostro si trovano a sud. Da li' proviene un
+vento secco.
+~
+~
+0 -1 18701 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18705
+La Sala delle Orazioni~
+   Questa parte della basilica e' uno spazio aperto tra le panche e
+l'altare. Questo e' il posto dove i credenti facevano le proprie offerte.
+Ora c'e' solo sfacelo. Guardandoti attorno delle macchie: una sul
+terreno ed una sulla parete. Ti sembra anche di sentire dei lamenti
+piu' forti... o e' qualcos'altro?
+Ad est e ad ovest vedi dei confessionali.
+A nord c'e' qualche panca mentre a sud ci sono le panche rovesciate.
+~
+187 8 0
+D0
+Davanti a te ci sono altre panche, ma sono molto piu' belle delle panche
+che hai appena visto.
+Subito dietro c'e' quello che sembra essere l'altare.
+~
+~
+0 -1 18708 0
+D1
+C'e' una tenda che chiude l'ingresso al confessionale.
+~
+tenda~
+1 -1 18707 3
+D2
+A sud puoi vedere le panche rovesciate e sparse nella basilica.
+~
+~
+0 -1 18704 0
+D3
+C'e' una tenda che chiude l'ingresso al confessionale.
+~
+tenda~
+1 -1 18706 3
+E
+parete pareti muro muri pavimento macchia macchie~
+Le macchie sul pavimento e sul muro sembrano essere relativamente
+recenti se comparate alla distruzione che ha colpito la basilica. 
+Non sei della loro origine ma sono abbastanza grandi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18706
+Il Confessionale~
+   In questa piccola stanza scura la gente soleva confessarsi. Non c'e'
+sollievo ora per coloro che hanno perso la loro anima.
+Una tenda chiude l'entrata del confessionale ad est.
+~
+187 9 0
+D1
+La tenda ad est e' appesa ad un'asta. Scostandola puoi vedere una vasta area.
+~
+tenda~
+1 -1 18705 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18707
+Il Confessionale~
+   In questa piccola stanza scura la gente soleva confessarsi. Non c'e'
+sollievo ora per coloro che hanno perso la loro anima.
+Una tenda chiude l'entrata del confessionale ad ovest.
+~
+187 9 0
+D3
+La tenda ad ovest e' appesa ad un'asta. Scostandola puoi vedere una vasta area.
+~
+tenda~
+1 -1 18705 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18708
+Le Panche Alte~
+   Ti trovi fra queste panche e noti che sono in condizioni migliori di quelle
+a sud. Un'altra cosa che noti e' che sono anche di qualita' superiore alle
+altre. Forse questo e' il posto dove venivano a pregare i nobili.
+Sfortunatamente, tutto e' in decadenza e trascurato.
+L'altare e' a nord, ma ha qualcosa di sospetto.
+C'e' uno spazio aperto a sud proprio davanti alla confusione di panche.
+~
+187 8 0
+D0
+L'altare e' proprio di fronte a te.
+~
+~
+0 -1 18709 0
+D2
+C'e' una vasta zona vuota fra queste panche e quelle per la gente comune.
+~
+~
+0 -1 18705 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18709
+L'Altare~
+   Sei davanti alle panche della basilica. Di fronte c'e' l'altare.
+Il pavimento intorno all'altare, compresi i gradini, presenta delle
+macchie che sembrano ancora abbastanza fresche. Ci sono anche
+alcune impronte appiccicose.
+La basilica prosegue a sud attraverso le panche. A nord ovest c'e' una
+tendina tirata.
+~
+187 8 0
+D0
+La tendina e' tirata e ti impedisce di vedere attraverso il passaggio.
+~
+tenda tendina~
+1 -1 18710 3
+D2
+A sud vedi file e file di panche.
+~
+~
+0 -1 18708 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18710
+Le Camere dei Chierici~
+   Queste camere sono grandi e abbastanza pulite. Noti che i letti sono fatti
+e che accappatoi puliti sono appesi a dei ganci sopra ognuno di essi.
+I letti sono sistemati in modo che i piedi siano al centro della stanza mentre
+la testa in una piccola nicchia del muro.
+C'e' un piccola cassapanca ai piedi di ogni letto e un rapido sguardo
+non rivela niente di anormale.
+L'unica cosa strana che noti e' che non ci sono letti lungo la parete nord ma
+solo una porticina nel suo angolo est.
+C'e' una tendina alla fine della stanza e strette finestre nei muri est
+ed ovest.
+~
+187 8 0
+D0
+Vedi una porticina nell'angolo est della parete a nord.
+~
+porta~
+2 18703 18711 15
+D2
+C'e' una tenda tirata attraverso la via d'accesso e tu supponi che porti nella
+navata principale della basilica.
+~
+tenda~
+1 -1 18709 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18711
+Il Rifugio dei Chierici~
+   Questa piccola stanza e' celata sul retro della basilica. Dall'esterno
+non ti saresti mai accorto della sua esistenza. Le pareti sono arredate da
+scaffali ed intelaiature. Sotto le mensole i muri sono quasi completamente
+nascosti da cassapanche. Non ci sono luci visibili nella stanza e la porta
+a sud sembra perfettamente nascosta nella parete.
+Una porta a sud blocca l'ingresso a questa stanza.
+~
+187 9 0
+D2
+Vedi una porta.
+~
+porta~
+2 18703 18710 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18712
+La Scala a Chiocciola~
+   Sei ai piedi di una scala di legno. Guardando ad est noti che uno stretto
+corridoio di pietra si allontana dalla scala. I gradini di legno proseguono
+sopra e sotto di te portandoti su nell'alta torre della basilica e giu'
+nell'oscurita' in quelle che sospetti essere le cripte della basilica.
+~
+187 9 0
+D1
+Uno stretto corridoio si allontana dalla scala.
+~
+~
+0 -1 18703 0
+D4
+La scala di legno sale verso la torre campanaria della basilica.
+~
+~
+0 -1 18716 0
+D5
+La scala scende nell'oscurita' sottostante.
+~
+~
+0 -1 18732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18713
+La Scala a Chiocciola~
+   Sei ai piedi di una scala di legno. Guardando ad ovest noti che uno stretto
+corridoio di pietra si allontana dalla scala. I gradini di legno proseguono
+sopra e sotto di te portandoti su nell'alta torre della basilica e giu'
+nell'oscurita' in quelle che sospetti essere le cripte della basilica.
+   Guardando in alto vedi che la scala ondeggia pericolosamente e sembra
+non essere attaccata saldamente a niente.
+~
+187 9 0
+D3
+Uno stretto corridoio si allontana dalla scala.
+~
+~
+0 -1 18702 0
+D4
+Guardando in alto decidi che la scala e proprio instabile.
+~
+~
+0 -1 18714 0
+D5
+La scala porta nell'oscurita' sottostante.
+~
+~
+0 -1 18734 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18714
+La Scala a Chiocciola~
+   Sei salito su per la scala a chiocciola e sei arrivato in un posto dove,
+accidentalmente, sembra non esserci il pavimento. Comunque, la scala
+continua sopra e sotto di te.
+~
+187 11 9
+D4
+La scala prosegue verso l'alto.
+~
+~
+0 -1 18715 0
+D5
+La scala scende in basso.
+~
+~
+0 -1 18713 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#18715
+La Torre Campanaria~
+   Sei in una piccola stanza in cima alla vecchia scala di legno. Ad ovest
+un'uscita porta verso quella che e' la stanza della campana principale.
+Un forte scampanio ti fa ronzare le orecchie.
+Sebbene tu riesca a sentire i bei toni della campana, il cigolio dei gradini
+ti disturba, cosi' come pure l'instabilita' del pavimento sul quale ti trovi.
+~
+187 9 0
+D3
+Guardando ad ovest, vedi che la fioca luce crea ombre misteriose con gli
+oggetti della stanza.
+~
+~
+0 -1 18718 0
+D5
+Guardando in basso, vedi che ad ogni tuo movimento la scala ondeggia
+da un lato all'altro. Non e' certo una scala sicura.
+~
+~
+0 -1 18714 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18716
+La Scala a Chiocciola~
+   Sei su una scala di legno. Guardando a est noti che un corridoio
+porta a nord e a sud. La scala di legno continua sopra e sotto di te
+portandoti su nell'alta torre della basilica e giu' nell'oscurita'.
+~
+187 9 0
+D1
+Un corridoio porta in alto.
+~
+~
+0 -1 18719 0
+D4
+I gradini continuano a salire nella torre.
+~
+~
+0 -1 18717 0
+D5
+La scala di legno porta in basso verso il piano terra.
+~
+~
+0 -1 18712 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18717
+La Torre Campanaria~
+   Sei in una piccola stanza in cima alla vecchia scala di legno. Ad ovest
+un'uscita porta verso quella che certamente e' la stanza della campana
+principale.
+Un forte scampanio ti fa ronzare le orecchie.
+La scala di legno porta indietro verso la sezione principale della chiesa.
+~
+187 9 0
+D1
+Guardando ad ovest, vedi che la fioca luce crea ombre misteriose con gli
+oggetti della stanza.
+~
+~
+0 -1 18718 0
+D5
+La scala scende verso il piano terra.
+~
+~
+0 -1 18716 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18718
+La Camera Campanaria~
+   In questa grande stanza, ti senti piuttosto piccolo. Guardando in alto
+vedi innumerevoli campane appese dondolare lievemente avanti ed indietro.
+La fioca luce che c'e' qui getta strane ombre in tutto il luogo.
+Okkio! Fai bene a muoverti?
+~
+187 8 0
+D1
+Attraverso l'entrata vedi solo oscurita'.
+~
+~
+0 -1 18715 0
+D3
+Attraverso l'entrata vedi solo oscurita'.
+~
+~
+0 -1 18717 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18719
+La Sala del Chiostro~
+   Sei nel mezzo di un lungo corridoio sul quale si aprono delle
+porte di legno. Il corridoio sembra proseguire lontano a nord e sud,
+potrebbero essere le stanze ove hanno avuto la loro residenza i preti,
+i monaci e le monache che hanno custodito la basilica.
+Un altro corridoio porta ad ovest verso il buio.
+~
+187 9 0
+D0
+Il corridoio prosegue a nord di qui.
+~
+~
+0 -1 18723 0
+D2
+La fine meridionale della sala e' notevolmente buia ma non ci pensi.
+~
+~
+0 -1 18720 0
+D3
+Uno stretto corridoio porta nell'oscurita'.
+~
+~
+0 -1 18716 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18720
+La Fine della Stanza Buia~
+   Ti trovi in quello che sembra essere la fine sud di un corridoio
+piuttosto lungo sul quale si aprono delle porte di legno.
+Guardando a nord noti che qualcosa illumina il lungo corridoio ma
+non c'e' luce a sufficienza per aiutarti a vedere tutto.
+C'e' una porta aperta in legno ad est mentre una chiusa ad ovest.
+~
+187 9 0
+D0
+Il corridoio porta a nord e sembra esserci piu' luce che qui.
+~
+~
+0 -1 18719 0
+D1
+L'accesso ad est sembra essere stato aperto da un qualcosa di... hmm...
+abbastanza grande. Una volta doveva esserci una porta qui.
+~
+~
+0 -1 18721 0
+D3
+L'accesso ad ovest sembra essere piu' robusto di quello ad est,
+ma non vuol dire molto visto che la porta pende da un cardine
+e ne mancano dei pezzi.
+~
+porta~
+1 -1 18722 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18721
+La Stanza di Un Monaco~
+   Questa stanza e' un completo macello. Quello che una volta
+era un letto ora e' sparso in piccoli pezzi per tutta la stanza.
+Vicino all'entrata ad ovest c'e' una porta fracassata in terra.
+Qualcuno l'ha buttata giu' a spallate.
+Oltre ai pezzi di legno sparsi per la stanza, non c'e' nient'altro
+in disordine, niente sangue, nessun altro materiale, solo legno rotto.
+~
+187 9 0
+D3
+Fuori della porta solo oscurita'. Non molta diverso da quello che c'e' qui.
+~
+~
+0 -1 18720 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18722
+La Stanza dell'Abate~
+   Questa sembra essere la classica residenza di un monaco.
+Nell'angolo sotto la stretta finestra la branda e' ancora in buone condizioni 
+e al centro del pavimento c'e' un piccolo tappeto.
+L'entrata ad est e' un macello e sembra che chiunque sia entrato da li'
+non abbia avuto grosse difficolta'.
+Non sembrano esserci segni di lotta, quindi sembrerebbe che l'Abate
+non fosse nella sua stanza quando qualcuno (o qualcosa) e' entrato.
+~
+187 9 0
+D1
+La porta, o meglio ancora, cio' che e' rimasto della porta di legno, ti
+blocca il passaggio.
+~
+porta~
+1 -1 18720 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18723
+La Sala del Recluso~
+   Sei in un lungo corridoio sul quale si aprono sia ad est che ad ovest
+delle vie d'accesso. Per la maggior parte dei passaggi le porte che una
+volta erano intere sono ora fracassate e distrutte.
+~
+187 9 0
+D0
+Il corridoio continua a nord.
+~
+~
+0 -1 18726 0
+D1
+Ad est un'altra porta che si apriva sul lungo corridoio e' stata distrutta.
+~
+~
+0 -1 18725 0
+D2
+A sud vedi che il corridoio prosegue ma vedi anche che non e' molto
+illuminato.
+~
+~
+0 -1 18719 0
+D3
+~
+~
+0 -1 18724 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18724
+La Stanza di Un Monaco~
+   Questa stanza e' un completo macello. Quello che una volta
+era un letto ora e' sparso in piccoli pezzi per tutta la stanza.
+Vicino all'entrata ad ovest c'e' una porta fracassata in terra.
+Qualcuno l'ha buttata giu' a spallate.
+Oltre ai pezzi di legno sparsi per la stanza, non c'e' nient'altro
+in disordine, niente sangue, nessun altro materiale, solo legno rotto.
+~
+187 9 0
+D1
+Il passaggio ad est e' libero eccetto che per tutto quel legno che
+e' sparso per la stanza. Il passaggio sembra condurre in un altro
+corridoio.
+~
+~
+0 -1 18723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18725
+La Stanza di Un Monaco~
+   Questa stanza e' un completo macello. Quello che una volta
+era un letto ora e' sparso in piccoli pezzi per tutta la stanza.
+Vicino all'entrata ad ovest c'e' una porta fracassata in terra.
+Qualcuno l'ha buttata giu' a spallate.
+Oltre ai pezzi di legno sparsi per la stanza, non c'e' nient'altro
+in disordine, niente sangue, nessun altro materiale, solo legno rotto.
+~
+187 9 0
+D3
+Il passaggio ad ovest e' libero eccetto che per tutto quel legno che
+e' sparso per la stanza. Il passaggio sembra condurre in un altro
+corridoio.
+~
+~
+0 -1 18723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18726
+La Sala del Recluso~
+   Sei in un lungo corridoio sul quale si aprono sia ad est che ad ovest
+delle vie d'accesso. Per la maggior parte dei passaggi le porte che una
+volta erano intere sono ora fracassate e distrutte.
+Le porte dall'altra parte del corridoio non sono in condizioni differenti.
+Fermandoti un attimo in questa parte del corridoio senti una strana
+sensazione. Forse dovuta alla strana sorgente di luce che c'e' a nord.
+~
+187 8 0
+D0
+Il corridoio continua a nord e la strana sorgente di luce proviene da la'.
+~
+~
+0 -1 18727 0
+D1
+Un'altra porta distrutta e' ad est del corridoio.
+~
+~
+0 -1 18729 0
+D2
+Il corridoio continua a sud perdendosi nell'oscurita'.
+~
+~
+0 -1 18723 0
+D3
+~
+~
+0 -1 18728 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18727
+La Sala del Recluso~
+   Sei in un lungo corridoio sul quale si aprono sia ad est che ad ovest
+delle vie d'accesso. Per la maggior parte dei passaggi le porte che una
+volta erano intere sono ora fracassate e distrutte.
+Le porte dall'altra parte del corridoio non sono in condizioni differenti.
+Una strana sensazione pervade il tuo corpo e noti che ogni cosa sembra
+ricoperta da uno strano, brillante, giallo scintillio.
+~
+187 8 0
+D1
+Il passaggio ad est e' bloccato da una porta di legno che sembra essere
+abbastanza robusta.
+~
+porta~
+1 -1 18731 3
+D2
+Il corridoio continua a sud perdendosi nell'oscurita'.
+~
+~
+0 -1 18726 0
+D3
+La porta ad ovest e' rotta, proprio come tutte le altre porte.
+~
+~
+0 -1 18730 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18728
+La Stanza di Una Monaca~
+   Questa che una volta era una bella stanza e' andata completamente
+distrutta. Almeno, tutto quello che c'era fra le quattro pareti.
+I resti di vari articoli di abbigliamento e scaffali giacciono in terra sparsi.
+C'e' un largo passaggio ad est dove una volta una porta di legno era
+appesa a dei cardini di ottone.
+~
+187 8 0
+D1
+Il corridoio e' ad est.
+~
+~
+0 -1 18726 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18729
+La Stanza di Una Monaca~
+   Questa che una volta era una bella stanza e' andata completamente
+distrutta. Almeno, tutto quello che c'era fra le quattro pareti.
+I resti di vari articoli di abbigliamento e scaffali giacciono in terra sparsi.
+C'e' un largo passaggio ad est dove una volta una porta di legno era
+appesa a dei cardini di ottone.
+~
+187 8 0
+D3
+Attraverso il passaggio aperto puoi vedere il corridoio ad ovest.
+~
+~
+0 -1 18726 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18730
+La Stanza di Una Monaca~
+   Questa che una volta era una bella stanza e' andata completamente
+distrutta. Almeno, tutto quello che c'era fra le quattro pareti.
+I resti di vari articoli di abbigliamento e scaffali giacciono in terra sparsi.
+C'e' un largo passaggio ad est dove una volta una porta di legno era
+appesa a dei cardini di ottone.
+~
+187 8 0
+D1
+Ad est c'e' il corridoio.
+~
+~
+0 -1 18727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18731
+La Stanza della Madre Superiora~
+   Questa stanza e' grande come tutte le altre, ma e' arredata piu'
+lussosamente: una scrivania ed una sedia in aggiunta alla branda che e'
+adiacente alla parete nord. Una stretta finestra e' nella parete est ma ti
+offre solo la visione della nera notte.
+Una semplice porta di legna chiude l'accesso a questa stanza ad est.
+~
+187 8 0
+D3
+La porta di legno ad ovest sembra abbastanza robusta se paragonata
+a quelle che hai visto finora.
+~
+porta~
+1 -1 18727 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18732
+Una Cripta~
+   Noti che c'e' una scala in un angolo della stanza che porta al piano
+superiore. Questa piccola stanza ha altre due uscite, una ad est ed una
+a sud attraverso un paio di passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 9 0
+D1
+La cripta continua attraverso il passaggio a volta ad est.
+~
+~
+0 -1 18733 0
+D2
+La cripta continua attraverso il passaggio a volta a sud.
+~
+~
+0 -1 18735 0
+D4
+Una scala di legno porta al piano superiore.
+~
+~
+0 -1 18712 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18733
+Una Cripta~
+   Questa piccola stanza ha tre uscite, una ad ovest, una ad est ed una
+a sud attraverso dei passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 9 0
+D1
+La cripta continua attraverso il passaggio a volta ad est.
+~
+~
+0 -1 18734 0
+D2
+La cripta continua attraverso il passaggio a volta a sud.
+~
+~
+0 -1 18736 0
+D3
+La cripta continua attraverso il passaggio a volta ad ovest.
+~
+~
+0 -1 18732 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18734
+Una Cripta~
+   Noti che c'e' una scala in un angolo della stanza che porta al piano
+superiore. Questa piccola stanza ha altre due uscite, una ad est ed una
+a sud attraverso un paio di passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 8 0
+D2
+La cripta continua attraverso il passaggio a volta a sud.
+~
+~
+0 -1 18737 0
+D3
+La cripta continua attraverso il passaggio a volta ad ovest.
+~
+~
+0 -1 18733 0
+D4
+Una scala di legno porta al piano superiore.
+~
+~
+0 -1 18713 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18735
+Una Cripta~
+   Questa piccola stanza ha tre uscite, una a nord, una ad est ed una
+a sud attraverso dei passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 8 0
+D0
+La cripta continua attraverso il passaggio a volta a nord.
+~
+~
+0 -1 18732 0
+D1
+La cripta continua attraverso il passaggio a volta ad est.
+~
+~
+0 -1 18736 0
+D2
+La cripta continua attraverso il passaggio a volta a sud.
+~
+~
+0 -1 18738 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18736
+Una Cripta~
+   Questa piccola stanza ha tre uscite, una a nord, una ad est ed una
+ad ovest attraverso dei passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 8 0
+D0
+La cripta continua attraverso il passaggio a volta a nord.
+~
+~
+0 -1 18733 0
+D1
+La cripta continua attraverso il passaggio a volta ad est.
+~
+~
+0 -1 18737 0
+D3
+La cripta continua attraverso il passaggio a volta ad ovest.
+~
+~
+0 -1 18735 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18737
+Una Cripta~
+   Questa piccola stanza ha tre uscite, una a nord, una a sud ed una
+ad ovest attraverso dei passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 9 0
+D0
+La cripta continua attraverso il passaggio a volta a nord.
+~
+~
+0 -1 18734 0
+D2
+La cripta continua attraverso il passaggio a volta a sud.
+~
+~
+0 -1 18740 0
+D3
+La cripta continua attraverso il passaggio a volta ad ovest.
+~
+~
+0 -1 18736 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18738
+Una Cripta~
+   Questa piccola stanza ha due uscite, una a nord ed una ad est
+attraverso dei passaggi a volta.
+Noti anche dei piccoli piatti di metallo alle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 9 0
+D0
+La cripta continua attraverso il passaggio a volta a nord.
+~
+~
+0 -1 18735 0
+D1
+La cripta continua attraverso il passaggio a volta ad est.
+~
+~
+0 -1 18739 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18739
+Una Cripta~
+   Questa piccola stanza ha due uscite, una ad ovest ed una a sud
+attraverso dei passaggi a volta.
+Noti anche dei piccoli piatti di metallo nelle pareti ognuno dei quali contiene
+placche di ottone.
+~
+187 8 0
+D2
+Attraverso il passaggio a volta a sud vedi un deposito.
+~
+~
+0 -1 18741 0
+D3
+La cripta continua attraverso il passaggio a volta ad ovest.
+~
+~
+0 -1 18738 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18740
+Una Cripta~
+   Questa piccola stanza della cripta ha una sola uscita, che e' a
+nord attraverso un passaggio a volta di pietra. La sola altra cosa di
+un certo interesse qui e' il grande numero di piccoli piatti di metallo
+alle pareti ognuno dei quali contiene placche di ottone.
+~
+187 8 0
+D0
+La cripta continua attraverso il passaggio a volta a nord.
+~
+~
+0 -1 18737 0
+E
+metallo placca ottone piatto muro muri~
+I piccoli piatti di metallo alle pareti sembrano essere dei cassetti.
+Ognuno ha una piccola placca di ottone.
+Ogni placca ha il nome dell'occupante inciso sopra (gasp!).
+Non riconosci nessun nome.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18741
+L'Anticamera~
+   Questa sembra essere un'anticamera... ma un'anticamera di che cosa?
+Ci sono degli scaffali pieni di polvere.
+Il pavimento e' coperto di impronte smentendo il fatto che la stanza sembra
+non essere stata non visitata da lungo tempo. La cosa che ti dimostra quanto
+sia strano e' che in un angolo c'e' una bara nuova.
+I muri sono ricoperti di mosaici e un passaggio a volta si apre nel muro
+a nord.
+~
+187 13 0
+D0
+Attraverso il passaggio a volta a nord vedi una cripta.
+~
+~
+0 -1 18739 0
+D2
+Il mosaico a sud non sembra attaccato a dovere, forse si puo' aprire...
+~
+mosaico~
+2 18711 18742 15
+E
+mosaico mosaici muri muro parete pareti~
+I mosaici che ricoprono le pareti di questa stanza sembrano essere soltanto
+una moltitudine di piccole tessere. Uno a sud non e' ben attaccato al muro,
+forse lo puoi aprire...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18742
+La Cripta Interna~
+   Continui a vagare in questa cripta interna. Questo e' il posto dove la nobilta'
+riposa dopo le elaborate cerimonie che avvengono nella basilica.
+L'unica uscita e' ad est. Noti che il pavimento si abbassa vistosamente.
+~
+187 9 0
+D0
+Guardando attentamente la parete a nord, noti che c'e' qualcosa fuori posto.
+Controllando le tracce sul pavimento nel punto in cui incontra la parete,
+scopri la maniglia di una porta molto ben nascosta.
+~
+maniglia~
+2 18711 18741 15
+D1
+La cripta continua ad est.
+~
+~
+0 -1 18743 0
+E
+parete~
+Guardando attentamente la parete a nord, noti che c'e' qualcosa fuori posto.
+Controllando le tracce sul pavimento nel punto in cui incontra la parete,
+scopri la maniglia di una porta molto ben nascosta.
+~
+E
+pavimento traccia tracce~
+La traccia che scende nel pavimento porta alla parete a nord.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18743
+La Cripta Interna~
+   Continui a vagare in questa cripta interna. Questo e' il posto dove la nobilta'
+riposa dopo le elaborate cerimonie che avvengono nella basilica.
+La cripta continua a sud e ad ovest. C'e' anche un buco nella parete ad est,
+dal quale filtra una grande quantita' di luce.
+~
+187 8 0
+D1
+Attraverso il buco della parete est vedi una caverna.
+La caverna sembra essere ben illuminata.
+~
+~
+0 -1 18749 0
+D2
+La cripta continua a sud.
+~
+~
+0 -1 18744 0
+D3
+La cripta continua ad ovest.
+~
+~
+0 -1 18742 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18744
+La Cripta Interna~
+   Continui a vagare in questa cripta interna. Questo e' il posto dove la nobilta'
+riposa dopo le elaborate cerimonie che avvengono nella basilica.
+La cripta continua a nord e ad est.
+~
+187 9 0
+D0
+La cripta continua a nord.
+~
+~
+0 -1 18743 0
+D1
+La cripta continua ad est.
+~
+~
+0 -1 18745 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18745
+La Cripta Interna~
+   Continui a vagare in questa cripta interna. Questo e' il posto dove la nobilta'
+riposa dopo le elaborate cerimonie che avvengono nella basilica.
+La cripta continua a sud e ad ovest.
+~
+187 9 0
+D2
+La cripta continua a sud.
+~
+~
+0 -1 18746 0
+D3
+La cripta continua ad ovest.
+~
+~
+0 -1 18744 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18746
+La Cripta Interna~
+   Continui a vagare in questa cripta interna. Questo e' il posto dove la nobilta'
+riposa dopo le elaborate cerimonie che avvengono nella basilica.
+La cripta continua a nord e ad ovest.
+~
+187 9 0
+D0
+La cripta continua a nord.
+~
+~
+0 -1 18745 0
+D3
+La cripta continua ad ovest.
+~
+~
+0 -1 18747 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18747
+La Cripta Interna~
+   Continui a vagare in questa cripta interna. Questo e' il posto dove la nobilta'
+riposa dopo le elaborate cerimonie che avvengono nella basilica.
+La cripta continua ad est e a sud e uno strano vento proviene da sud.
+C'e' anche una grande porta di pietra nella parte ovest della cripta.
+~
+187 9 0
+D1
+La cripta continua ad est.
+~
+~
+0 -1 18746 0
+D2
+Guardando in questa direzione, noti che qualcuno ha scavato nel pavimento
+della cripta.
+~
+~
+0 -1 18750 0
+D3
+Ad ovest c'e' una pesante porta di pietra che blocca il passaggio.
+La porta e' coperta da strane incisioni.
+~
+porta~
+2 18710 18748 15
+E
+porta rune incisioni~
+La porta ad ovest e' coperta da strane ed eleganti incisioni.
+Sembrano essere rune di protezione. La maggior parte contro
+decadenza e rovina, ma una al centro del disegno sembra servire
+da protezione contro i non morti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18748
+La Tomba della Principessa Evalynn~
+   Questa e' la tomba nella quale la leggendaria Principessa Evalynn ha
+riposato per anni ed anni. Guardandola noti numerose candele ancora
+accese attorno alla bara di ebano. La stanza profuma di fiori: rose e
+garofani per essere precisi. Un leggera brezza fa' tremolare per un attimo
+le candele. Le pareti sono piene di una moltitudine di piccoli dipinti e
+disegni, probabilmente sulla vita della Principessa Evalynn.
+~
+187 8 0
+D1
+Ad est c'e' una grande porta di pietra che blocca l'entrata di questo
+stupendo posto.
+~
+porta~
+2 18710 18747 15
+E
+bara~
+La bara e' fatta di ebano ed e' ben sigillata.
+~
+E
+parete pareti muro muri disegno disegni~
+I disegni sulle pareti mostrano vari eventi della vita della Principessa
+Evalynn. Uno mostra il giorno del suo sfortunato matrimonio, quando
+durante la festa che precede la cerimonia il Principe Michael e' stato
+attaccato e rapito da un grande drago d'oro. Un altro mostra la Principessa
+mentre indossa la sua armatura di smeraldo mentre si prepara alla guerra.
+E' stata forzata a prendere in mano le redini del regno e l'ha difeso nel corso
+degli anni dai molti attacchi di coloro che pensavano che il regno sarebbe
+caduto facilmente senza un forte comando maschile.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18749
+La Grande Caverna~
+   Questa stanza, ehm, caverna, e' abbastanza grande e si protende a nord
+e ad est e sembra essere stata ricavata dalla pietra sottostante le fondamenta
+della basilica. Centinaia di migliaia di ossa giacciono in piccoli cumuli.
+C'e' una pila piuttosto grande nell'angolo a nord ovest della caverna
+La pietra del pavimento e' stata sagomata per creare una sporgenza nell'angolo
+a sud est.
+~
+187 8 0
+D3
+Ad ovest c'e' uno stretto corridoio che ti fa domandare come puo' qualcosa di
+piu' grande di un orco entrare in questa camera.
+~
+~
+0 -1 18743 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18750
+Una Buca Smisurata~
+   Vicino, sembra che tu abbia scelto la strada sbagliata per continuare il
+tuo viaggio. Sembra che questa buca sprofondi nel terreno e cadere vorrebbe
+dire...
+~
+187 9 0
+D0
+Guardando a nord, vedi che la cripta continua per una strada piu' sicura.
+~
+~
+0 -1 18747 0
+D5
+Giu' per la buca. Sai che continua all'infinito.
+~
+~
+0 -1 18751 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18751
+Giu' per la Buca Smisurata~
+   Ti ritrovi molto, molto piu' in basso nella buca. Sembra non finire molto
+presto. Le pareti della buca sono completamente lisce rendendoti
+chiaramente impossibile rallentare la caduta.
+~
+187 9 9
+D4
+La buca si allontana dalla cima.
+~
+~
+0 -1 18750 0
+D5
+La buca si apre sotto di te. Sembra essere molto profonda. Bhe, allora,
+se continui a cadere, deve essere proprio profonda.
+~
+~
+0 -1 18752 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18752
+Cadendo per La Buca Smisurata~
+   Continui a cadere per questa buca profonda. Ti cominci a chiedere quanto
+lontano e' la cima, e poi pensi a te, non ti interessa davvero sapere quanto
+lontana e' la cima ma DOVE E' LA FINE! La buca sembra continuare a scendere
+nell'oscurita' all'infinito.
+~
+187 9 9
+D4
+La buca si allontana dalla cima.
+~
+~
+0 -1 18751 0
+D5
+La buca prosegue sotto di te, ma noti una luce provenire da qualche parte
+la' sotto.
+~
+~
+0 -1 18753 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18753
+Sopra la Lava~
+   Sei vicino alla lava che e' subito sotto di te. Le pareti della buca sono
+lisce come vetro in questo punto, probabile che qualche pietra si sia fusa
+in quella forma.
+La buca continua verso l'alto nel buio e in basso nella lava.
+~
+187 8 9
+D4
+La buca si allontana dall'alto da quanto puoi vedere.
+~
+~
+0 -1 18752 0
+D5
+C'e' una grande quantita' di lava proprio sotto di te.
+Credi che la buca non continui ancora per molto.
+~
+~
+0 -1 18754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18754
+Bruciato Vivo nella Lava~
+   Hai bisogno veramente di saperne di piu'? E' sufficiente dire che dopo
+essere stato esposto a temperature superiori a 3000 gradi di te non rimane
+niente, se non cenere.
+~
+187 10 0
+D4
+La buca continua verso l'alto come sai.
+~
+~
+0 -1 18753 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+$~

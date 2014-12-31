@@ -1,0 +1,2086 @@
+#8500
+I grandi cancelli~
+Ti fronte a te si apre un enorme e massiccio cancello.  La sua solida e
+massiccia figura prevalentemente costituita da sbarre d'acciaio forgiato dai
+migliori fabbri di Tolnedra e' sormontata da due granti &bstemmi&0 in oro
+massiccio.  Oltre i cancelli puoi vedere l'interno di una citta'.  Una
+&3&binsegna&0 e' appesa sopra ad una largo uscio senza porte che
+inequivocabilmente si apre in una stalla ben tenuta ed un altra &1&bscritta&0
+appesa ad un cartello ti introduce in un serio ufficio.    
+~
+85 128 0
+D0
+~
+~
+0 -1 8582 0
+D1
+~
+cancello~
+2 8500 2404858 137
+D2
+~
+~
+0 -1 8585 0
+D3
+Nothing.
+~
+~
+0 0 8501 0
+E
+stemmi~
+In oro massiccio puoi notare uno stemma di magnifica fattura con
+in rilievo un araldo e sotto la scritta &1CIMMURA&0~
+E
+insegna~
+&7&b
+    (__
+    ,_) \_,-/
+   /__      )__,
+  )/  _\_    /
+  /&2O&7   \ \   \__     
+ /  _.'  /    ( '
+(,-,) |  |_   |_,  &1Il puledro Rampante&7
+ ,-.___|_  /_,  /         &3A NORD&7
+ ) .__        ) \
+ \ \\`-..-    \(`.
+  \( \_\          `._
+   \`-,'`.           `-.
+    `'    `-.__         \
+               `,'      |-,._)
+               !       ,')   `-.
+               (    ,-'  (   ,-.)
+                \   \  \ _/   \_
+                 \_ |\_ \`-'._  )
+                 ( ,'( /      )/
+             __,','__/(
+            /__(^  ..&0  
+~
+E
+scritta~
+&3&b  .-.---------------------------------.-.
+ ((o))                                   )
+  \U/_______          _____         ____/
+    |                                  |
+    |                                  |
+    |                                  |
+    |                                  |
+    |                                  |
+    |                                  |
+    |        &1L'antica posta&3            |
+    |             &2A SUD&3                |
+    |                                  |
+    |                                  |
+    |                                  |
+    |                                  |
+    |                                  |
+    |                                  |
+    |____    _______    __  ____    ___|
+  /A\                                  \
+ ((o))                                  )
+  '-'----------------------------------' &0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8501
+La volta~
+Sei sotto ad un grande arco fatto in pietra. A nord e a sud un lungo
+porticato prosegue per molto dopo di che sparisce dalla tua vista.
+A est enormi cancelli ti portano al di fuori di questa citta' verso le
+sue mure difensife, mentre a ovest un altro cancello e' ben custodito
+da guardie armate.
+~
+85 0 0
+D0
+~
+~
+0 -1 8503 0
+D1
+Nothing.
+~
+~
+0 0 8500 0
+D2
+~
+~
+0 -1 8541 0
+D3
+~
+~
+0 -1 8502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8502
+Cancelli interni~
+Sei nei piu' interni cancelli di questo complesso. La sua importanza
+e' sottolineata dalle guardie che ne regolano la chiusura e l'apertura.
+A ovest una ampia strada prosegue verso l'interno. A est un grande arco
+e piu' in la un enorme cancello.
+A nord la strada scende verso il  basso e si dirige verso altri locali.
+Un &3&binsegna&0 e' appesa sopra la porta che da a sud.
+~
+85 0 1
+D0
+~
+~
+0 -1 8597 0
+D1
+~
+~
+0 -1 8501 0
+D2
+~
+~
+0 -1 8584 0
+D3
+~
+~
+0 0 8698 0
+E
+insegna~
+ -------------
+*------------*|
+| &1&bB A N C A&0 | |
+|   &1&b D I&0    | |
+| &1&b CIMMURA&0  | |
+|   &6&ba sud&0   | |
+*------------*
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8503
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.
+~
+85 0 0
+D0
+~
+~
+0 -1 8504 0
+D1
+~
+~
+0 0 9830 0
+D2
+~
+~
+0 -1 8501 0
+D3
+~
+~
+0 0 9679 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8504
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.
+~
+85 8 0
+D0
+~
+~
+0 -1 8505 0
+D1
+~
+~
+0 0 9613 0
+D2
+~
+~
+0 -1 8503 0
+D3
+~
+~
+0 0 9616 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8505
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.
+~
+85 8 0
+D0
+~
+~
+0 -1 8506 0
+D1
+~
+~
+0 0 9620 0
+D2
+~
+~
+0 -1 8504 0
+D3
+~
+~
+0 0 9634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8506
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.
+~
+85 0 0
+D0
+~
+~
+0 -1 8507 0
+D1
+~
+~
+0 0 9680 0
+D2
+~
+~
+0 -1 8505 0
+D3
+~
+~
+0 0 9629 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8507
+Portico~
+Sei sotto un porticato chiuso. Sul soffitto delle lanterne a petrolio
+permettono di vedere anche con l'oscurita' piu' totale.
+Una scala a chiocciola porta verso l'alto.
+~
+85 8 0
+D0
+~
+~
+0 0 9624 0
+D1
+~
+~
+0 0 9622 0
+D2
+~
+~
+0 -1 8506 0
+D3
+~
+~
+0 -1 8508 0
+D4
+~
+~
+0 -1 8551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8508
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 0 9631 0
+D1
+~
+~
+0 -1 8507 0
+D3
+~
+~
+0 -1 8509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8509
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 0 9623 0
+D1
+~
+~
+0 -1 8508 0
+D2
+~
+~
+0 0 9632 0
+D3
+~
+~
+0 -1 8510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8510
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 0 9615 0
+D1
+~
+~
+0 -1 8509 0
+D2
+~
+~
+0 0 9630 0
+D3
+~
+~
+0 -1 8511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8511
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8510 0
+D3
+~
+~
+0 -1 8512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8512
+Portico~
+Sei sotto un porticato chiuso. Sul soffitto delle lanterne a petrolio
+permettono di vedere anche con l'oscurita' piu' totale.
+Una lunga scalinata porta verso il basso mentre a nord una portone aperto
+porta fuori.~
+85 8 0
+D1
+~
+~
+0 -1 8511 0
+D2
+~
+~
+0 0 2404754 0
+D3
+~
+~
+0 -1 8513 0
+D5
+~
+~
+0 -1 8580 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8513
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.
+~
+85 8 0
+D1
+~
+~
+0 -1 8512 0
+D3
+~
+~
+0 -1 8514 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8514
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8513 0
+D3
+~
+~
+0 -1 8515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8515
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8514 0
+D3
+~
+~
+0 -1 8516 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8516
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato sud. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8515 0
+D3
+~
+~
+0 -1 8517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8517
+Portico~
+Sei sotto un porticato chiuso. Sul soffitto delle lanterne a petrolio
+permettono di vedere anche con l'oscurita' piu' totale.
+Una scala a chiocciola porta verso l'alto.~
+85 8 0
+D1
+~
+~
+0 -1 8516 0
+D2
+~
+~
+0 -1 8518 0
+D4
+~
+~
+0 -1 8542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8518
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8517 0
+D2
+~
+~
+0 -1 8519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8519
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.
+~
+85 8 0
+D0
+~
+~
+0 -1 8518 0
+D2
+~
+~
+0 -1 8520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8520
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8519 0
+D2
+~
+~
+0 -1 8521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8521
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8520 0
+D2
+~
+~
+0 -1 8522 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8522
+Portico~
+Sei sotto un porticato aperto sul lato est mentre a ovest, custodito da
+guardie, un portone porta verso il mare.
+~
+85 8 0
+D0
+~
+~
+0 -1 8521 0
+D1
+~
+~
+0 0 2404852 0
+D2
+~
+~
+0 -1 8523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8523
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 0 0
+D0
+~
+~
+0 -1 8522 0
+D2
+~
+~
+0 -1 8524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8524
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8523 0
+D2
+~
+~
+0 -1 8525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8525
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8524 0
+D2
+~
+~
+0 -1 8526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8526
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8525 0
+D2
+~
+~
+0 -1 8527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8527
+Portico~
+Sei sotto un porticato chiuso. Sul soffitto delle lanterne a petrolio
+permettono di vedere anche con l'oscurita' piu' totale.
+Una scala a chiocciola porta verso l'alto.~
+85 8 0
+D0
+~
+~
+0 -1 8526 0
+D1
+~
+~
+0 -1 8528 0
+D4
+~
+~
+0 -1 8569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8528
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato nord. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8529 0
+D3
+~
+~
+0 -1 8527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8529
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8530 0
+D3
+~
+~
+0 -1 8528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8530
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8531 0
+D3
+~
+~
+0 -1 8529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8531
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 4 0
+D1
+~
+~
+0 -1 8532 0
+D3
+~
+~
+0 -1 8530 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8532
+Portico~
+Sei sotto un porticato chiuso. Sul soffitto delle lanterne a petrolio
+permettono di vedere anche con l'oscurita' piu' totale.
+Una lunga scalinata porta verso il basso mentre a sud una portone aperto
+porta fuori.~
+85 8 0
+D0
+~
+~
+0 0 2404954 0
+D1
+~
+~
+0 -1 8533 0
+D3
+~
+~
+0 -1 8531 0
+D5
+~
+~
+0 -1 8581 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8533
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8534 0
+D3
+~
+~
+0 -1 8532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8534
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8535 0
+D3
+~
+~
+0 -1 8533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8535
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8536 0
+D3
+~
+~
+0 -1 8534 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8536
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato est. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D1
+~
+~
+0 -1 8537 0
+D3
+~
+~
+0 -1 8535 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8537
+Portico~
+Sei sotto un porticato chiuso. Sul soffitto delle lanterne a petrolio
+permettono di vedere anche con l'oscurita' piu' totale.
+Una scala a chiocciola porta verso l'alto.~
+85 8 0
+D0
+~
+~
+0 -1 8538 0
+D3
+~
+~
+0 -1 8536 0
+D4
+~
+~
+0 -1 8560 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8538
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8539 0
+D2
+~
+~
+0 -1 8537 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8539
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8540 0
+D2
+~
+~
+0 -1 8538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8540
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 8 0
+D0
+~
+~
+0 -1 8541 0
+D1
+~
+~
+0 0 1895 0
+D2
+~
+~
+0 -1 8539 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8541
+Portico~
+Sei sotto un porticato aperto e ben illuminato sul lato ovest. Sul
+soffitto delle lanterne a petrolio permettono di vedere anche con
+l'oscurita' piu' totale.~
+85 12 0
+D0
+~
+~
+0 -1 8501 0
+D1
+~
+~
+0 0 595 0
+D2
+~
+~
+0 -1 8540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8542
+Piano superiore~
+Sei al primo piano sopra il porticato principale della citta'.
+Una scala a chiocciola prosegue sia verso il basso che verso l'alto
+mantre due lughi corridoi proseguono a sud e a est.~
+85 8 0
+D1
+~
+~
+0 -1 8543 0
+D2
+~
+~
+0 -1 8577 0
+D4
+~
+~
+0 0 2404651 0
+D5
+~
+~
+0 -1 8517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8543
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8544 0
+D3
+~
+~
+0 -1 8542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8544
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8545 0
+D3
+~
+~
+0 -1 8543 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8545
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8546 0
+D3
+~
+~
+0 -1 8544 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8546
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8547 0
+D3
+~
+~
+0 -1 8545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8547
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8548 0
+D3
+~
+~
+0 -1 8546 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8548
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8549 0
+D3
+~
+~
+0 -1 8547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8549
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D1
+~
+~
+0 -1 8550 0
+D2
+~
+~
+0 0 40305 0
+D3
+~
+~
+0 -1 8548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8550
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato sud costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato nord.~
+85 8 0
+D0
+~
+~
+0 0 40306 0
+D1
+~
+~
+0 -1 8551 0
+D2
+Una porta di legno.
+~
+porta~
+1 135394 40370 135
+D3
+~
+~
+0 -1 8549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8551
+Piano superiore~
+Sei al primo piano sopra il porticato principale della citta'.
+Una scala a chiocciola prosegue sia verso il basso che verso l'alto
+mantre due lughi corridoi proseguono a sud e a ovest.~
+85 8 0
+D2
+~
+~
+0 -1 8552 0
+D3
+~
+~
+0 -1 8550 0
+D4
+~
+~
+0 0 2404657 0
+D5
+~
+~
+0 -1 8507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8552
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8551 0
+D1
+Una porta di legno.
+~
+porta~
+1 876243 40417 135
+D2
+~
+~
+0 -1 8553 0
+D3
+Una porta di legno.
+~
+porta~
+1 702439 40361 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8553
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8552 0
+D1
+Una porta di legno.
+~
+porta~
+1 885073 40251 135
+D2
+~
+~
+0 -1 8554 0
+D3
+Una porta di legno.
+~
+porta~
+1 128240 40215 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8554
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8553 0
+D1
+~
+~
+0 0 40080 0
+D2
+~
+~
+0 -1 8555 0
+D3
+Una porta di legno.
+~
+porta~
+1 496458 40302 129
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8555
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8554 0
+D1
+~
+~
+0 0 40149 0
+D2
+~
+~
+0 -1 8556 0
+D3
+Una porta di legno.
+~
+porta~
+1 523757 40435 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8556
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8555 0
+D1
+~
+~
+0 0 40150 0
+D2
+~
+~
+0 -1 8557 0
+D3
+Una porta di legno.
+~
+porta~
+1 685856 40474 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8557
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8556 0
+D2
+~
+~
+0 -1 8558 0
+D3
+~
+~
+0 0 40082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8558
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8557 0
+D2
+~
+~
+0 -1 8559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8559
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D0
+~
+~
+0 -1 8558 0
+D1
+Una porta di legno.
+~
+porta~
+1 369986 3488 135
+D2
+~
+~
+0 -1 8560 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8560
+Piano superiore~
+Sei al primo piano sopra il porticato principale della citta'.
+Una scala a chiocciola prosegue sia verso il basso che verso l'alto
+mantre due lughi corridoi proseguono a nord e a ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8559 0
+D3
+~
+~
+0 -1 8561 0
+D4
+~
+~
+0 0 2405057 0
+D5
+~
+~
+0 -1 8537 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8561
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato nord costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato sud.~
+85 8 0
+D1
+~
+~
+0 -1 8560 0
+D3
+~
+~
+0 -1 8562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8562
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8561 0
+D3
+~
+~
+0 -1 8563 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8563
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8562 0
+D3
+~
+~
+0 -1 8564 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8564
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8563 0
+D3
+~
+~
+0 -1 8565 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8565
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8564 0
+D3
+~
+~
+0 -1 8566 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8566
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8565 0
+D3
+~
+~
+0 -1 8567 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8567
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8566 0
+D3
+~
+~
+0 -1 8568 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8568
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato ovest costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato est.~
+85 8 0
+D1
+~
+~
+0 -1 8567 0
+D3
+~
+~
+0 -1 8569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8569
+Piano superiore~
+Sei al primo piano sopra il porticato principale della citta'.
+Una scala a chiocciola prosegue sia verso il basso che verso l'alto
+mantre due lughi corridoi proseguono a nord e a est.~
+85 8 0
+D0
+~
+~
+0 -1 8570 0
+D1
+~
+~
+0 -1 8568 0
+D4
+~
+~
+0 0 2405051 0
+D5
+~
+~
+0 -1 8527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8570
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8571 0
+D2
+~
+~
+0 -1 8569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8571
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8572 0
+D2
+~
+~
+0 -1 8570 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8572
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8573 0
+D2
+~
+~
+0 -1 8571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8573
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8574 0
+D2
+~
+~
+0 -1 8572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8574
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8575 0
+D2
+~
+~
+0 -1 8573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8575
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8576 0
+D2
+~
+~
+0 -1 8574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8576
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8577 0
+D2
+~
+~
+0 -1 8575 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8577
+Corridoio piano superiore~
+Un corridoio aperto con finestre sul lato est costruito interamente
+in solida pietra e finemente lavorata.
+La struttura e' ben compatta e c'e' la possibilita' di ricavare una 
+serie di locali sul lato ovest.~
+85 8 0
+D0
+~
+~
+0 -1 8542 0
+D2
+~
+~
+0 -1 8576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8578
+Cella~
+Anche se ti trovi nelle tremende celle di Cimmura la stanza non e'
+del tutto deprimente. Una grata non molto grande sulla soffitto ti
+fa vedere il cielo di Tolnedra. Alcuni letti a castello sono messi
+su tre pareti, sulla quarta una solida porta divide te dalla liberta'.
+~
+85 268435676 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8579
+Prigione~
+Sei nell accoglienti prigioni di Cimmura. In questo locale vengono
+consegnati i criminali e i traditori e portati nella spaziosa cella a ovest.
+Alcuni manifesti di pericolosi criminali sono appesi qua e la.~
+85 8 1
+D0
+~
+~
+0 -1 8580 0
+D1
+~
+porta~
+1 -1 8583 3
+D2
+~
+~
+0 -1 8581 0
+D3
+~
+grata~
+1 -1 8578 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8580
+Segrete~
+Sei all'ingresso delle segrete principali della citta' e ai locali
+adibiti alle guardie e alle celle. Il complesso e' stato scavato
+nella dura roccia e murato in parte in modo da evitare infiltrazioni
+che potrebbero danneggiare la struttura.~
+85 8 1
+D2
+~
+~
+0 -1 8579 0
+D4
+~
+~
+0 -1 8512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8581
+Segrete~
+Sei all'ingresso delle segrete principali della citta' e ai locali
+adibiti alle guardie e alle celle. Il complesso e' stato scavato
+nella dura roccia e murato in parte in modo da evitare infiltrazioni
+che potrebbero danneggiare la struttura.~
+85 0 1
+D0
+~
+~
+0 -1 8579 0
+D4
+~
+~
+0 -1 8532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8582
+Una stalla~
+L'inconfondibile odore di stalla ti avvolge appena entri. Il posto e'
+grande quanto basta per contenere un centinaio di cavalli.
+~
+85 0 0
+D2
+~
+~
+0 -1 8500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8583
+Ufficio del carceriere~
+Sei nell'ufficio del carceriere. Uno spoglio ufficio adorno semplicemente
+con un tavolaccio sepolto da volantini, manifesti, editti e una robusta
+sedia.~
+85 8 0
+D1
+~
+~
+0 0 12181 0
+D3
+~
+porta~
+1 -1 8579 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8584
+Banca~
+Questa stanzetta e' adibita a banca. Un banchetto, un libro contabile, un forziere ben
+custodito e un omino dall'aspetto arcigno ti accolgono.
+La stanza e' illuminata di giorno dall'unica finestra con sbarre che da sull'interno
+della citta' mentre di sera una serie di torce appese al muro sostituiscono la luce
+solare.
+Un &bmanifesto&0 e' appeso al muro deitro il cassiere.
+~
+85 8 0
+D0
+~
+~
+0 0 8502 0
+E
+manifesto~
+Scritto a mano leggi....
+&0
+"Per evitare i soliti perdigiono che disturbano i cassieri solo per sapere le
+piu' comuni procedure bancarie, ecco uno schema riassuntivo...
+&0
+&6&b    Deposita cifra&0
+    Per depositare i vostri soldi, al sicuro. Potete ritirarli in qualunque
+    delle nostre filiali.
+&0
+&6&b    Preleva cifra&0
+    Per prelevare denaro dal vostro conto, naturalmente per prenderlo dovete
+    averlo depositato prima... non facciamo i furbi.
+&0
+&6&b    Bilancio&0
+    Vi viene fornita dai nostri impiegati, lo stato attuale del vostro conto.
+&0
+Mi raccomando depositate i vostri averi da noi, siamo i migliori !
+&0
+&1&b&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8585
+L'ufficio postale~
+Ti trovi nell'ordinato primo ufficio postale di Cimmura. Da qui
+regolarmente corrieri a cavallo prelevano e portano la posta da
+tutta Tolnedra e da tutta Daresia.
+~
+85 8 0
+D0
+~
+~
+0 -1 8500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8586
+La sala dell'architetto~
+Una scala in pietra porta a questa imponente sala in cui si compie la squadratura delle
+pietre da costruzione. La sala e' veramente enorme ed e' un peccato che lo stupendo
+pavimento in marmi bianchi sia coperto da un discreto stato di polvere proveniente dalla
+squadratura. Grossa parte del lavoro e' facilitato dalla presenza di semplici macchinari 
+costruiti in legno per lo spostamento delle pietre.
+~
+85 134217736 0
+D2
+~
+~
+0 -1 8588 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8587
+Forgia~
+Una grande fornace sempre pronta a ricevere pietre di metallo
+per la fabbricazione di lingotti.~
+85 2097160 0
+D0
+~
+~
+0 -1 8588 0
+D1
+~
+~
+0 0 9801 0
+D5
+~
+~
+0 0 8693 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8588
+Piazza dei laboratori~
+Da qui puoi scaricare la tua merce e portarla nei vari laboratori per
+la sgrezzatura e la lavorazione.~
+85 0 0
+D0
+~
+~
+0 -1 8586 0
+D1
+~
+~
+0 -1 8597 0
+D2
+~
+~
+0 -1 8587 0
+D3
+~
+~
+0 -1 8596 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8589
+Piazza dei laboratori~
+Da qui puoi scaricare la tua merce e portarla nei vari laboratori per
+la sgrezzatura e la lavorazione.~
+85 0 0
+D0
+~
+~
+0 -1 8590 0
+D1
+~
+~
+0 -1 8595 0
+D2
+~
+~
+0 -1 8591 0
+D3
+~
+~
+0 -1 8597 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8590
+Conceria~
+Alcuni ganci ti permettono di appendere le pelli che ti sei
+procurato per meglio lavorarle.~
+85 25769803784 0
+D2
+~
+~
+0 -1 8589 0
+D5
+~
+~
+0 0 8696 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8591
+Erboristeria~
+Qui puoi pulire le varie erbe e ricavarne pozioni~
+85 536870920 0
+D0
+~
+~
+0 -1 8589 0
+D5
+~
+~
+0 0 8697 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8592
+Cucina~
+Non appena entri nella grande stanza, vieni raggiunto da profumi di spezie e
+cibi di ogni genere. Le pareti sono coperte da banconi per lavorare i prodotti 
+alimentari, per pulirli, per cucinarli. Mensole di ogni grandezza fanno da appoggio
+per pentole, padelle tegami, coperchi, mestoli, utensili vari. In fondo alla stanza
+c'e' una credenza destinata a coltelli di ogni genere, dal pelapatate allo spaccaossa... 
+meglio non far arrabbiare gli chef, si sa quanto siano suscettibili nel loro lavoro.
+~
+85 4294967304 0
+D4
+~
+~
+0 0 8595 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8593
+Piazza dei laboratori~
+Da qui puoi scaricare la tua merce e portarla nei vari laboratori per
+la sgrezzatura e la lavorazione.~
+85 0 0
+D2
+~
+~
+0 -1 8597 0
+D3
+~
+~
+0 -1 8594 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8594
+La segheria~
+Qui puoi lavorare i tronchi pe ottenere travi e assi di legno~
+85 8388616 0
+D0
+~
+~
+0 0 9803 0
+D1
+~
+~
+0 -1 8593 0
+D5
+~
+~
+0 0 8695 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8595
+Il Mulino~
+Tante piccole finestre poste in cima alle pareti fanno filtrare soffusamente le
+luci provenienti dall'esterno.  Il legno chiaro, il pagliericcio volatile
+proveniente delle balle di fieno accatastate in un angolo, i profumi dei cibi
+appena raccolti, danno a questa stanza un'aria agreste.  Un'enorme ruota si
+muove lentamente al centro della stanza, pronta a lavorare per i contadini
+tolnedran.  Addossati alle pareti orientali ci sono grandi tavoli ed attrezzi
+adibiti alla ripulitura dei prodotti alimentari.    
+~
+85 2147483656 0
+D3
+~
+~
+0 0 8589 0
+D5
+~
+~
+0 0 8592 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8596
+Ripulitura~
+In questo locale puoi ricavare le pietre prezione.~
+85 33554440 0
+D1
+~
+~
+0 -1 8588 0
+D5
+~
+~
+0 0 8694 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8597
+Piazzetta dei lavoratori~
+Un ambia piazza sotterranea e' stata ricavata scavando il terreno e
+rinforzando la struttura con mattoni e travi.
+Verso sud una larga strada porta verso l'alto nel resto delle direzioni
+si aprono piccole zone per lo scarico delle merci.~
+85 0 0
+D0
+~
+~
+0 -1 8593 0
+D1
+~
+~
+0 -1 8589 0
+D2
+~
+~
+0 -1 8502 0
+D3
+~
+~
+0 -1 8588 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8598
+Locale delle guardie~
+Stanza adibita alle guardie e al loro riposo. Alcune comode brande, una
+tinozza d'acqua sempre pulita per lavarsi e un paio di armadi per gli
+effetti personali degli uomini in servizio.~
+85 8 0
+D0
+~
+~
+0 -1 8502 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#8599
+&RLa caserma delle &gTigri&0 di &rTolnedra&0 &bd'elite&0~
+Una stanza piuttosto spoglia. Ci sono alcuni lettini ai cui piedi.
+Puoi notare dei bauli chiusi e inviolabili. La stanza e' tenuta molto in ordine.
+~
+85 8 0
+D2
+~
+porta~
+1 0 8689 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 8500
+$~

@@ -1,0 +1,1669 @@
+#2600
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da est ad ovest.  Le pareti emettono
+un debole bagliore magico che ti fornisce luce sufficiente a vedere dove vai.
+   Una porta d'argento e' a nord.
+~
+25 72 0
+D0
+~
+porta argento~
+1 -1 2601 3
+D1
+~
+~
+0 -1 2599 0
+D3
+~
+~
+0 -1 2604 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2601
+Un magazzino~
+   Ti trovi in un ampio magazzino.  Casse e casse di materiali sono
+disordinatamente disposte ed impilate qua e la'.  Molte verghe, bacchette e
+bastoni di grandezza differente ed appena realizzati si trovano qui.    
+   Vedi una porta d'argento ad ovest.
+~
+25 72 0
+D2
+~
+porta argento~
+1 -1 2600 3
+D3
+~
+porta argento~
+1 -1 2602 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2602
+La Stanza del Maestro degli Incanti~
+   Ti trovi nelle stanze del Maestro degli Incanti.  A differenza degli altri
+laboratori magici, questo non mostra attrezzature o arredi.  Il Maestro degli
+Incanti naturalmente non ne ha bisogno per praticare la sua arte.    
+   Una porta d'argento e' ad ovest.
+~
+25 72 0
+D1
+~
+porta argento~
+1 -1 2601 3
+D3
+~
+porta argento~
+2 2524 2603 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2603
+Il Magazzino del Maestro degli Incanti~
+   Hai appena scoperto il magazzino del Maestro degli Incanti.  Ci sono due
+grossi armadi d'argento qui, per il resto la stanza e' vuota.    
+   Una porta d'argento e' a sud.
+~
+25 72 0
+D1
+~
+porta argento~
+2 2524 2602 11
+D2
+~
+porta argento~
+2 2524 2605 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2604
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da est ad ovest.  Le pareti emettono
+una debole luminescenza magica che fornisce luce sufficiente a vedere.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2600 0
+D3
+~
+~
+0 -1 2605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2605
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da est ad ovest.  Le pareti emettono
+una debole luminescenza magica che fornisce luce sufficiente a vedere.    
+   Una porta d'argento e' a nord.
+~
+25 72 0
+D0
+~
+porta argento~
+2 2524 2603 11
+D1
+~
+~
+0 -1 2604 0
+D3
+~
+~
+0 -1 2606 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2606
+Una curva nel corridoio~
+   Ti trovi nel punto in cui il corridoio fa una curva.  Le pareti emettono una
+debole luminescenza magica che fornisce luce sufficiente a vedere.    
+   Il corridoio continua ad est e a sud.
+~
+25 72 0
+D1
+~
+~
+0 -1 2605 0
+D2
+~
+~
+0 -1 2607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2607
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da nord ad sud.  Le pareti emettono
+una debole luminescenza magica che fornisce luce sufficiente a vedere.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2606 0
+D2
+~
+~
+0 -1 2608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2608
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da nord ad sud.  Le pareti emettono
+una debole luminescenza magica che fornisce luce sufficiente a vedere.    
+   Una vecchia porta arrugginita si trova ad ovest.
+~
+25 72 0
+D0
+~
+~
+0 -1 2607 0
+D2
+~
+~
+0 -1 2613 0
+D3
+~
+porta arrugginita~
+1 -1 2609 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2609
+Il Laboratorio del Maestro dei Golem~
+   Ti trovi nel laboratorio del Maestro dei Golem.  Alcuni umanoidi
+dall'aspetto incompleto, fatti di manteriali diversi sono qui, alcuni si
+muovono, altri no.  Quelli animati sembrano volerti attaccare.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2610 0
+D1
+~
+porta arrugginita~
+1 -1 2608 3
+D2
+~
+~
+0 -1 2611 0
+D5
+~
+botola~
+1 -1 2612 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2610
+Un Magazzino~
+   Ti trovi in un piccolo magazzino.  Grossi cumuli di argilla, pietra, legno e
+altri materiali si trovano qui.    
+~
+25 72 0
+D2
+~
+~
+0 -1 2609 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2611
+La Stanza dei Golem~
+   Ti trovi nella stanza dei golem.  Golem fatti di ogni materiale immaginabile
+sono qui.  La lor altezza varia da mezzo metro a toccare quasi il soffitto.  
+Sembrano tutti addormentati.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2609 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2612
+E' molto buio qui...~
+   E' molto buio qui...    
+~
+25 73 0
+D4
+~
+botola~
+1 -1 2609 3
+D5
+~
+foro areazione~
+1 -1 2581 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2613
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da nord a sud.  Le pareti emettono una
+debole luminescenza che ti permette di vedere dove cammini.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2608 0
+D2
+~
+~
+0 -1 2614 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2614
+Una curva nel corridoio~
+   Ti trovi nel punto in cui il corridoio curva.  Le pareti emettono una debole
+luminescenza che ti consente di vedere dove cammini.    
+   Il corridoio continua a nord e ad est.
+~
+25 72 0
+D0
+~
+~
+0 -1 2613 0
+D1
+~
+~
+0 -1 2615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2615
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da est ad ovest.  Le pareti emettono
+una debole luminescenza che ti consente di vedere dove cammini.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2616 0
+D3
+~
+~
+0 -1 2614 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2616
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da est ad ovest.  Le pareti emettono
+una debole luminescenza che ti consente di vedere dove cammini.    
+   Una porta di smeraldo si trova a sud.
+~
+25 72 0
+D1
+~
+~
+0 -1 2619 0
+D2
+~
+porta smeraldo~
+1 -1 2617 3
+D3
+~
+~
+0 -1 2615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2617
+La Stanza del Maestro Illusionista~
+   Ti trovi nella stanza del Maestro Illusionista.  Le pareti qui cambiano
+colore ed aspetto ogni momento, come se mutassero nella composizione davanti ai
+tuoi occhi.  Molti splendidi tesori sono accumulati qua e la' o, almeno,
+sembrano tesori...    
+~
+25 72 0
+D0
+~
+porta smeraldo~
+1 -1 2616 3
+D3
+~
+~
+0 -1 2618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2618
+Una camera da letto~
+   Ti trovi nella stanza da letto del Maestro delle Illusioni.  Oggetti
+dall'aspetto strano e artifatti ancor piu' singolari sono sospesi in aria qua e
+la'.  Avverti chiaramente la presenza di una grossa forza magica.    
+   La stanza sembra molto piu' grande di quello che e'...
+~
+25 72 0
+D0
+La stanza si estende a nord.
+~
+~
+0 -1 2618 0
+D1
+~
+~
+0 -1 2617 0
+D2
+La stanza si estende a sud.
+~
+~
+0 -1 2618 0
+D3
+La stanza si estende ad ovest.
+~
+~
+0 -1 2618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2619
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da est ad ovest.  Le pareti emettono
+una debole luminescenza magica che ti consente di vedere attorno.    
+   Una porta di vetro si trova a sud.
+~
+25 72 0
+D1
+~
+~
+0 -1 2621 0
+D2
+~
+porta vetro~
+1 -1 2620 3
+D3
+~
+~
+0 -1 2616 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2620
+La Stanza della Meditazione~
+   Ti trovi nella stanza destinata alla Meditazione.  E' molto silenziosa,
+tanto che non riesci a sentire nemmeno i tuoi passi.    
+   Ti senti in pace.
+~
+25 92 0
+D0
+~
+porta vetro~
+1 -1 2619 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2621
+Una curva nel corridoio~
+   Ti trovi nel punto in cui il corridoio curva.  Le pareti emettono una debole
+luminescenza magica che ti consente di vedere attorno.    
+   Il corridoio prosegue a nord e ad ovest.
+~
+25 72 0
+D0
+~
+~
+0 -1 2622 0
+D3
+~
+~
+0 -1 2619 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2622
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da nord a sud.  Le pareti emettono una
+debole luminescenza magica che ti consente di vedere attorno.    
+   Una porta annerita si trova ad est.
+~
+25 72 0
+D0
+~
+~
+0 -1 2626 0
+D1
+~
+porta nera~
+1 -1 2623 3
+D2
+~
+~
+0 -1 2621 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2623
+Una stanza buia~
+   Ti trovi in un'ampia stanza buia.  L'aria sembra stagnare qui e ti assale
+una sensazione di estremo terrore.  Un odore di carne in putrefazione sembra
+provenire dalla porta aperta a nord.    
+~
+25 73 0
+D0
+~
+~
+0 -1 2624 0
+D3
+~
+porta nera~
+1 -1 2622 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2624
+Una stanza buia~
+   Ti trovi in un'ampia stanza buia.  La puzza qui ti da il voltastomaco e un
+forte senso di nausea.  Ci sono parti di corpi in putrefazione completamente
+abbandonati sul pavimento.  Ci sono anche diversi tavoli operatori su cui sono
+distesi esseri che non hai mai visto in vita tua.    
+   Urla di gente torturata provengono da nord.
+~
+25 73 0
+D0
+Mentre cerchi di vedere a nord, sei preso da un profondo terrore.
+~
+~
+0 -1 2625 0
+D2
+~
+~
+0 -1 2623 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2625
+Il covo del Necromante~
+   Ti trovi nel covo di un malvagio Necromante.  Non-morti di ogni tipo, umani
+e non, sono qui in attesa degli ordini del loro signore.  Alcune rune
+intermittenti dall'arcano potere sono state tracciate sulle pareti e sul
+pavimento, certamente per proteggere il padrone dalle sue mostruose creazioni.
+  
+~
+25 73 0
+D2
+~
+~
+0 -1 2624 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2626
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da nord a sud.  Le pareti emettono un
+tenue bagliore magico che ti consente di vedere dove cammini.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2627 0
+D2
+~
+~
+0 -1 2622 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2627
+Il corridoio~
+   Ti trovi su un lungo corridoio che va da nord a sud.  Le pareti emettono un
+tenue bagliore magico che ti consente di vedere dove cammini.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2628 0
+D2
+~
+~
+0 -1 2626 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2628
+La fine del corridoio~
+   Ti trovi alla fine di un lungo corridoio.  Le pareti emettono un tenue
+bagliore magico che ti consente di vedere dove cammini.    
+   Delle scale salgono al piano superiore della torre, mentre il
+corridoio prosegue verso sud.
+~
+25 72 0
+D2
+~
+~
+0 -1 2627 0
+D4
+~
+~
+0 -1 2629 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2629
+Un corridoio~
+   Ti trovi all'estremita' orientale di un lungo corridoio.  Pareti di
+ossidiana su cui sono incise antiche rune di potere ti fiancheggiano.  Energie
+magiche sembrano opporsi al potere che circonda tutto l'ambiente e sussurrare
+parole arcane in lingue ormai da tempo dimenticate, quasi come se il corridoio
+fosse vivo.    
+~
+25 72 0
+D3
+~
+~
+0 -1 2630 0
+D5
+~
+~
+0 -1 2628 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2630
+Un corridoio~
+   Ti trovi su un lungo corridoio.  Pareti di ossidiana su cui sono incise
+antiche rune di potere ti fiancheggiano.  Energie magiche sembrano opporsi al
+potere che circonda tutto l'ambiente e sussurrare parole arcane in lingue ormai
+da tempo dimenticate, quasi come se il corridoio fosse vivo.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2629 0
+D3
+~
+~
+0 -1 2631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2631
+Una curva nel corridoio~
+   Ti trovi nel punto in cui il corridoio curva.  Pareti di ossidiana su cui
+sono incise antiche rune di potere ti fiancheggiano.  Energie magiche sembrano
+opporsi al potere che circonda tutto l'ambiente e sussurrare parole arcane in
+lingue ormai da tempo dimenticate, quasi come se il corridoio fosse vivo.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2630 0
+D2
+~
+~
+0 -1 2632 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2632
+Un corridoio~
+   Ti trovi su un lungo corridoio che va da nord a sud.  Pareti di ossidiana su
+cui sono incise antiche rune di potere ti fiancheggiano.  Energie magiche
+sembrano opporsi al potere che circonda tutto l'ambiente e sussurrare parole
+arcane in lingue ormai da tempo dimenticate, quasi come se il corridoio fosse
+vivo.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2631 0
+D2
+~
+~
+0 -1 2633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2633
+Un incrocio~
+   Ti trovi ad un incrocio nel corridoio.  Le pareti di ossidiana, pulsanti a
+causa del potere delle rune incise su di esse, si estendono in ogni direzione
+da qui.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2632 0
+D1
+~
+~
+0 -1 2634 0
+D2
+~
+~
+0 -1 2646 0
+D3
+~
+~
+0 -1 2636 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2634
+Un corridoio~
+   Ti trovi alla fine di un lungo corridoio.  Pareti di ossidiana su cui sono
+state incise arcane rune di potere ti fiancheggiano.  Una porta annerita e' ad
+est.  Una leggera nebbiolina copre il pavimento qui, sembra provenire da sotto
+la porta nera.    
+~
+25 72 0
+D1
+~
+porta nera~
+1 -1 2635 3
+D3
+~
+~
+0 -1 2633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2635
+La stanza delle visioni~
+   Ti trovi nella stanza delle visioni dell'alta torre della Stregoneria.  E'
+qui che vengono compiuti gli arcani rituali che permettono a coloro che li
+praticano di osservare i potenti del mondo e spiare il loro piu' oscuri
+segreti.  Un enorme calderone nero si trova al centro della stanza, in esso
+qualcosa bolle ed emette gorgoglii.  Dal calderone fuoriesce del fumo denso che
+forma una specie di nebbia.  Qua e la' ci sono piedistalli di grandezza
+differente su cui sono sfere di cristallo e specchi dalla forma strana.    
+~
+25 73 0
+D3
+~
+porta nera~
+1 -1 2634 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2636
+Un corridoio~
+   Hai raggiungo l'estremita' occidentale di un lungo corridoio.  Pareti di
+ossidiana su cui sono incise arcane rune di potere ti fiancheggiano.  Un suono
+simile al russare di un uomo sembra provenire da ovest.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2633 0
+D3
+~
+porta legno~
+1 -1 2637 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2637
+L'ingresso della biblioteca~
+   Ti trovi nella sala d'ingresso della grande biblioteca di magia.  Una
+gigantesca scrivania e' qui, completamente sommersa da libri e pergamene.  
+Lunghi scaffali pieni di libri si estendono a perdita d'occhio in ogni
+direzione.    
+~
+25 72 0
+D0
+Non vedi altro che libri.
+~
+~
+0 -1 2639 0
+D1
+~
+porta legno~
+1 -1 2636 3
+D2
+Non vedi altro che libri.
+~
+~
+0 -1 2640 0
+D3
+Non vedi altro che libri.
+~
+~
+0 -1 2638 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2638
+Nella biblioteca~
+   Ti trovi nella grande biblioteca di magia della torre.  Un forte odore di
+muffa riempie completamente l'ambiente.  Sugli scaffali sospesi poco sopra di
+te, ci sono centinaia di libri, tomi e pergamene di ogni forma e colore.  
+Alcuni libri sembrano sparire prima che tu possa leggerne il titolo.  E' molto
+tranquillo qui.    
+~
+25 72 0
+D0
+Non vedi altro che libri.
+~
+~
+0 -1 2641 0
+D1
+Non vedi altro che libri.
+~
+~
+0 -1 2637 0
+D2
+Non vedi altro che libri.
+~
+~
+0 -1 2642 0
+D3
+Non vedi altro che libri.
+~
+~
+0 -1 2643 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2639
+Nella biblioteca~
+   Ti trovi nella grande biblioteca di magia della torre.  Un forte odore di
+muffa riempie completamente l'ambiente.  Sugli scaffali sospesi poco sopra di
+te, ci sono centinaia di libri, tomi e pergamene di ogni forma e colore.  
+Alcuni libri sembrano sparire prima che tu possa leggerne il titolo.  E' molto
+tranquillo qui.
+~
+25 72 0
+D0
+Non vedi altro che libri.
+~
+~
+0 -1 2640 0
+D1
+Non vedi altro che libri.
+~
+~
+0 -1 2642 0
+D2
+Non vedi altro che libri.
+~
+~
+0 -1 2637 0
+D3
+Non vedi altro che libri.
+~
+~
+0 -1 2641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2640
+Nella biblioteca~
+   Ti trovi nella grande biblioteca di magia della torre.  Un forte odore di
+muffa riempie completamente l'ambiente.  Sugli scaffali sospesi poco sopra di
+te, ci sono centinaia di libri, tomi e pergamene di ogni forma e colore.  
+Alcuni libri sembrano sparire prima che tu possa leggerne il titolo.  E' molto
+tranquillo qui.
+~
+25 72 0
+D0
+Non vedi altro che libri.
+~
+~
+0 -1 2637 0
+D1
+Non vedi altro che libri.
+~
+~
+0 -1 2641 0
+D2
+Non vedi altro che libri.
+~
+~
+0 -1 2639 0
+D3
+Non vedi altro che libri.
+~
+~
+0 -1 2642 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2641
+Nella biblioteca~
+   Ti trovi nella grande biblioteca di magia della torre.  Un forte odore di
+muffa riempie completamente l'ambiente.  Sugli scaffali sospesi poco sopra di
+te, ci sono centinaia di libri, tomi e pergamene di ogni forma e colore.  
+Alcuni libri sembrano sparire prima che tu possa leggerne il titolo.  E' molto
+tranquillo qui.
+~
+25 72 0
+D0
+Non vedi altro che libri.
+~
+~
+0 -1 2642 0
+D1
+Non vedi altro che libri.
+~
+~
+0 -1 2639 0
+D2
+Non vedi altro che libri.
+~
+~
+0 -1 2638 0
+D3
+Non vedi altro che libri.
+~
+~
+0 -1 2640 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2642
+Nella biblioteca~
+   Ti trovi nella grande biblioteca di magia della torre.  Un forte odore di
+muffa riempie completamente l'ambiente.  Sugli scaffali sospesi poco sopra di
+te, ci sono centinaia di libri, tomi e pergamene di ogni forma e colore.  
+Alcuni libri sembrano sparire prima che tu possa leggerne il titolo.  E' molto
+tranquillo qui.
+~
+25 72 0
+D0
+Non vedi altro che libri.
+~
+~
+0 -1 2638 0
+D1
+Non vedi altro che libri.
+~
+~
+0 -1 2640 0
+D2
+Non vedi altro che libri.
+~
+~
+0 -1 2641 0
+D3
+Non vedi altro che libri.
+~
+~
+0 -1 2639 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2643
+Nella biblioteca~
+   Ti trovi nella grande biblioteca di magia della torre.  Un forte odore di
+muffa riempie completamente l'ambiente.  Sugli scaffali sospesi poco sopra di
+te, ci sono centinaia di libri, tomi e pergamene di ogni forma e colore.  
+Alcuni libri sembrano sparire prima che tu possa leggerne il titolo.  E' molto
+tranquillo qui.
+~
+25 72 0
+D1
+Non vedi altro che libri.
+~
+~
+0 -1 2638 0
+D3
+Vedi un piccolo spazio vuoto tra gli scaffali.
+~
+~
+0 -1 2644 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2644
+Tra gli scaffali~
+   Ti trovi nella grande biblioteca di magia della torre.  Gli scaffali qui
+sono talmente vicini che riesci a stento a muoverti.  L'odore di muffa e'
+ancora molto forte e alcuni libri ancora scompaiono prima che tu possa
+toccarli.    
+   Una debole luce sembra provenire da nord.
+~
+25 72 0
+D0
+~
+~
+0 -1 2645 0
+D1
+~
+~
+0 -1 2643 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2645
+La sala di lettura~
+   Ti trovi in una piccola stanza completamente priva di arredi.  La sola cosa
+presente e' un enorme tomo, che giace aperto sul pavimento.  Il grande libro
+sembra pesante e vecchissimo.  La sua copertina e' decorata da pietre preziose
+come foglie che adornano un albero.  Una grafia a te incomprensibile ha
+tracciato strani segni sulle pagine del libro.  Qualcosa sembra incastrata tra
+le pagine.    
+~
+25 72 0
+D2
+~
+~
+0 -1 2644 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2646
+Un corridoio~
+   Ti trovi su un lungo corridoio che va da nord a sud.  Pareti di ossidiana su
+cui sono incise antiche rune di potere ti fiancheggiano.  Energie magiche
+sembrano opporsi al potere che circonda tutto l'ambiente e sussurrare parole
+arcane in lingue ormai da tempo dimenticate, quasi come se il corridoio fosse
+vivo.
+~
+25 72 0
+D0
+~
+~
+0 -1 2633 0
+D2
+~
+~
+0 -1 2647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2647
+La fine del corridoio~
+   Ti trovi all'estremita' meridionale di un lungo corridoio.  Le pareti di
+ossidiana si interrompono bruscamente davanti ad un'arcata dorata.  L'energia
+magica e' cosi' potente qui, che quasi ti paralizza.    
+   L'arcata e' proprio di fronte a te. Risplende e pulsa di energia.
+~
+25 72 0
+D0
+~
+~
+0 -1 2646 0
+D2
+~
+~
+0 -1 2648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2648
+Un'arcata~
+   Senti un leggero formicolio mentre attraversi l'arcata, come se le energie
+magiche qui presenti fossero penetrate nel tuo corpo e ti avessero poi
+lasciato.  L'intenso bagliore proveniente dall'arco sopra di te ora e' quasi
+accecante.  Riesci a stento a vedere una scalinata che sale verso l'alto.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2647 0
+D4
+~
+~
+0 -1 2649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2649
+Il pianerottolo~
+   Ti trovi su un piccolo pianerottolo che si trova circa a meta' della
+scalinata che porta in alto.  I tuoi sensi sembrano averti abbandonato qui, non
+odi alcun suono, ne' avverti alcun odore e la sola cosa che riesci a vedere e'
+una scala infinita che sale e scende.    
+~
+25 72 0
+D4
+~
+~
+0 -1 2650 0
+D5
+~
+~
+0 -1 2648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2650
+Un incrocio~
+   Ti trovi nel punto in cui alcuni corridoi si incontrano.  Avverti una strana
+sensazione, come se forze mistiche si stiano scontrando e fondendo tutt'intorno
+a te.  La fastidiosa sensazione di essere intrappolato qui e' divenuta quasi
+tangibile.    
+   Un corridoio dal pavimento grigio va verso sud, uno dal pavimento nero
+verso est, uno dal pavimento bianco va verso ovest ed un corridoio dal
+pavimento multicolore va verso nord.
+~
+25 72 0
+D0
+~
+~
+0 -1 2673 0
+D1
+~
+~
+0 -1 2658 0
+D2
+~
+~
+0 -1 2651 0
+D3
+~
+~
+0 -1 2665 0
+D5
+~
+~
+0 -1 2649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2651
+Un corridoio dal pavimento grigio~
+   Ti trovi su un corridoio dal pavimento grigio che va da nord a sud.  Sfere
+di energia fluttuano nell'aria illuminando il corridoio e indicando la strada
+da seguire.  Una sensazione di pace ed equilibrio ti assale.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2650 0
+D2
+~
+~
+0 -1 2652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2652
+Un corridoio dal pavimento grigio~
+   Ti trovi su un corridoio dal pavimento grigio che va da nord a sud.  Sfere
+di energia fluttuano nell'aria illuminando il corridoio e indicando la strada
+da seguire.  Una sensazione di pace ed equilibrio ti assale. 
+   Vedi delle grosse porte doppie di metallo grigio a sud.
+~
+25 72 0
+D0
+~
+~
+0 -1 2651 0
+D2
+~
+porta grigia~
+1 -1 2653 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2653
+L'anticamera~
+   Ti trovi nell'anticamera del Mago Maestro della Luce Grigia.  L'aria e'
+pervasa dalla magia, ti sembra quasi ti poter toccare il potere racchiuso da
+queste mura.    
+   Una volta che i tuoi occhi si sono abituati alla penombra, puoi vedere
+la grossa stanza che si estende a sud.
+~
+25 72 0
+D0
+~
+porta grigia~
+1 -1 2652 3
+D2
+~
+~
+0 -1 2654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2654
+La Camera Principale~
+   Una sensazione di tranquillita' s'impadronisce di te, non appena entri nella
+stanza principale della Neutralita'.  Alcuni artefatti sono appesi alle pareti
+o posti su alcuni piedistalli.  La stanza sembra accogliente e formale.  
+Probabilmente questo e' il luogo in cui il Maestro della Neutralita' da
+udienza.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2653 0
+D1
+~
+~
+0 -1 2656 0
+D2
+~
+~
+0 -1 2657 0
+D3
+~
+~
+0 -1 2655 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2655
+Lo studio~
+   Ti trovi in un ampio studio.  Scaffali pieni di libri o pergamene sono su
+ogni parete.  Una grossa scrivania di quercia e' al centro e su di essa sono
+molti fogli e pergamene.  La cosa piu' notevole della stanza e' una piccola
+serie di piatti che fluttuano in aria a varie altezze.  In perfetto equilibrio,
+i piatti sono, senza dubbio, un segno del Maestro della Neutralita'.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2656
+Un armadio~
+   Ti trovi in un piccolo armadio.  E' pieno di mantelli ed altre vesti.    
+~
+25 73 0
+D3
+~
+~
+0 -1 2654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2657
+Una stanza da letto~
+   Ti trovi nella stanza da letto del Maestro della Neutralita'.  Finestre con
+le tende tirate sono lungo la parete sud.  Un grosso e comodo letto occupa la
+maggior parte della stanza.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2658
+Un corridoio buio~
+   Ti trovi su un lungo corridoio buio che va da est ad ovest.  Non puoi vedere
+molto a causa dell'oscurita' innaturale che pervade tutto.  Man mano che ti
+immergi nell'oscurita' ti assale un senso di terrore.    
+~
+25 73 0
+D1
+~
+~
+0 -1 2659 0
+D3
+~
+~
+0 -1 2650 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2659
+Un corridoio buio~
+   Ti trovi su un lungo corridoio buio che va da est ad ovest.  Non puoi vedere
+molto a causa dell'oscurita' innaturale che pervade tutto.  Man mano che ti
+immergi nell'oscurita' ti assale un senso di terrore. 
+~
+25 73 0
+D1
+~
+~
+0 -1 2660 0
+D3
+~
+~
+0 -1 2658 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2660
+La fine di un corridoio~
+Ti trovi alla fine di un lungo corridoio buio.  L'oscurita' qui e' quasi
+tangibile.  Un profondo senso di terrore e scoramento si impadronisce di te.  
+
+~
+25 73 0
+D1
+~
+porta ossidiana~
+1 -1 2661 3
+D3
+~
+~
+0 -1 2659 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2661
+La stanza dell'Oscurita'~
+   Ti trovi in una vasta stanza.  Le pareti si perdono nell'oscurita',
+lasciandoti solo una vaga idea della reale dimensione della stanza.  Qua e la'
+nel buio sono varie macchie scure che girano vorticosamente e che sembrano
+inghiottire la luce e rilasciare, al suo posto, oscurita'.    
+~
+25 73 0
+D0
+~
+~
+0 -1 2662 0
+D1
+~
+~
+0 -1 2664 0
+D2
+~
+~
+0 -1 2663 0
+D3
+~
+porta ossidiana~
+1 -1 2660 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2662
+E' molto buio qui...~
+E' molto buio qui...
+~
+25 73 0
+D2
+~
+~
+0 -1 2661 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2663
+Una stanza delle torture~
+   Ti trovi in una stanza mal illuminata.  Strumenti di tortura sono appesi ad
+una rastrelliera lungo il muro, sembrano fremere per il desiderio di una nuova
+vittima, come se avessero vita propria.  Un tavolo operatorio si trova qui, ma
+e' vuoto.    
+   Una sensazione di estrema malvagita' permea l'intera stanza.
+~
+25 73 0
+D0
+~
+~
+0 -1 2661 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2664
+La stanza interna~
+   Ti trovi in una piccola stanza buia.  Sulle pareti ci sono incise e dipinte
+delle rune in una lingua malvagia ormai sconosciuta per tutti gli abitanti di
+Daresia.  C'e' un altare di ossidiana che sembra splendere, eppure non emette
+nessuna luce, in realta' sembra assorbire la luce.    
+~
+25 73 0
+D3
+~
+~
+0 -1 2661 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2665
+Un corridoio luminoso~
+   Ti trovi su un lungo corridoio ben illuminato che va da est ad ovest.  Le
+pareti sono di un color bianco latte ed emanano una calda luce come anche il
+pavimento.  Un senso di bonta' permea l'area e ti senti indegno di calpestare
+questo pavimento consacrato.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2650 0
+D3
+~
+~
+0 -1 2666 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2666
+Un corridoio illuminato~
+   Ti trovi su un lungo corridoio ben illuminato che va da est ad ovest.  Le
+pareti sono di un color bianco latte ed emanano una calda luce come anche il
+pavimento.  Un senso di bonta' permea l'area e ti senti indegno di calpestare
+questo pavimento consacrato.
+   Delle enormi porte doppie d'avorio sono ad ovest.
+~
+25 72 0
+D1
+~
+~
+0 -1 2665 0
+D3
+~
+porta avorio~
+1 -1 2667 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2667
+Un'anticamera~
+   Ti trovi in una piccola anticamera.  E' ben illuminata eppure non vedi fonti
+di luce.  E' quasi come se la stanza stessa emanasse una calda luminescenza.  
+Una stanza piu' ampia si trova ad ovest, ma non ti senti degno di varcare la
+soglia.    
+~
+25 72 0
+D1
+~
+porta avorio~
+1 -1 2666 3
+D3
+~
+~
+0 -1 2669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2669
+La Stanza della Luce Bianca~
+   Ti trovi in una vasta stanza, le sue pareti, il pavimento ed il soffitto
+sono di un ignoto materiale metallico, bianchissimo e tanto luminoso da
+accecare.  Una fiamma tremolante si trova al centro della stanza, sembra
+nutrirsi del buio e, nello stesso tempo, scacciare ogni male dalla stanza.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2670 0
+D1
+~
+~
+0 -1 2667 0
+D2
+~
+~
+0 -1 2671 0
+D3
+~
+~
+0 -1 2672 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2670
+La Stanza della Meditazione~
+   Ti trovi in una piccola stanza della meditazione.  Cuscini di seta bianca
+sono ovunque e sembrano molto comodi.  Provi una sensazione di pace e
+rilassamento qui, ti viene quasi voglia di stenderti ed addormentarti.    
+~
+25 72 0
+D2
+~
+~
+0 -1 2669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2671
+Uno studio~
+   Ti trovi in un ampio studio.  E' tutto estremamente ordinato, sembra quasi
+asettico.  Ti chiedi come qualcuno potrebbe studiare senza sentirsi a disagio
+qua dentro, ma evidentemente il proprietario di questa stanza riesce a farlo.
+  
+~
+25 72 0
+D0
+~
+~
+0 -1 2669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2672
+Un armadio~
+   Ti trovi in un piccolo armadio.  Mantelli e vesti sono appesi a dei ganci e
+dei vecchi stivali sono posti sul fondo.    
+~
+25 73 0
+D1
+~
+~
+0 -1 2669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2673
+Un ampio corridoio~
+   Ti trovi in un largo corridoio, ampio a sufficienza per permettere il
+passaggio simultaneo di diverse persone.  Il pavimento qui presenta un disegno
+multicolore che muta di continuo.    
+   Una enorme porta di metallo grigio blocca la strada verso nord.
+Sembra molto resistente.
+~
+25 72 0
+D0
+~
+porta metallo grigio~
+2 2593 2674 15
+D2
+~
+~
+0 -1 2650 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2674
+Un ampio corridoio~
+   Ti trovi in un largo corridoio, ampio a sufficienza per permettere il
+passaggio simultaneo di diverse persone.  Il pavimento qui presenta un disegno
+multicolore che muta di continuo.
+   Un'enorme porta di ossidiana nera blocca la strada verso nord, sembra
+abbastanza robusta.
+~
+25 72 0
+D0
+~
+porta nera ossidiana~
+2 2594 2675 15
+D2
+~
+porta grigia metallo~
+2 2593 2673 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2675
+Un ampio corridoio~
+   Ti trovi in un largo corridoio, ampio a sufficienza per permettere il
+passaggio simultaneo di diverse persone.  Il pavimento qui presenta un disegno
+multicolore che muta di continuo.
+   Un'enorme porta d'avorio blocca la via verso nord, sembra molto
+robusta.
+~
+25 72 0
+D0
+~
+porta bianca avorio~
+2 2595 2676 15
+D2
+~
+porta nera ossidiana~
+2 2594 2674 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2676
+L'ingresso~
+   Sei all'ingresso della sala delle udienze della Signora della Magia.  
+Bellissimi arazzi raffiguranti i predecessori della Signora sono appesi alle
+pareti ed il pavimento e' coperto da un soffice tappeto multicolorem che sembra
+fremere e muoversi non appena i tuoi stivali lo sfiorano.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2677 0
+D2
+~
+porta bianca avorio~
+2 2595 2675 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2677
+La Sala delle Udienze~
+   Ti trovi in un'ampia camera.  Piccoli dardi di energia vanno da una parete
+all'altra, crepitando di energia.  Il pavimento e' un vorticoso insieme di
+colori e forme sempre in mutamento.  Fiammate di colori brillanti sembrano
+esplodere nell'aria per poi sparire e riapparire in maniera casuale.  Questo
+spettacolo attira la tua attenzione fino ad un grosso trono posto al centro
+della stanza, sembra ricavato da un unico, enorme smeraldo.    
+~
+25 72 0
+D0
+~
+~
+0 -1 2680 0
+D1
+~
+~
+0 -1 2678 0
+D2
+~
+~
+0 -1 2676 0
+D3
+~
+~
+0 -1 2679 0
+E
+trono~
+Questo gigantesco smeraldo e' senza difetti e deve valere moltissimo.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2678
+Uno spogliatoio~
+   Sei in un elegante spogliatoio.  Preziosi gioielli di varia manifattura ed
+alcune stoffe dai colori insoliti pendono da una rastrelliera sospesa in aria
+all'altezza degli occhi.  Il solo altro arredo della stanza degno di interesse
+e' un grosso specchio d'argento poggiato su un piedistallo d'oro.    
+~
+25 72 0
+D3
+~
+~
+0 -1 2677 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2679
+La biblioteca~
+   Ti trovi in una piccola biblioteca.  Pochi libri, ma magnifici sono posti
+sugli scaffali lungo le pareti.  Un grosso scrittoio di quercia si trova al
+centro della stanza e su di esso sono strani fogli e pergamene.  
+L'illuminazione qui e' fornita, cosa alquanto sorprendente, da una comunissima
+lampada ad olio.    
+~
+25 72 0
+D1
+~
+~
+0 -1 2677 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2680
+L'altare~
+   Ti trovi in una piccola cappella che circonda un magnifico altare d'oro.  
+Molte immagini di divinita' minori sono disposte in fila lungo le pareti, ma a
+giudicare dallo splendente simbolo che campeggia sull'altare, questa stanza e'
+dedicata a Mystra, la dea della magia.    
+Il grande tetto in alabastro e' aperto sul cielo infinito.
+~
+25 72 0
+D1
+~
+porta segreta~
+1 -1 2681 3
+D2
+~
+~
+0 -1 2677 0
+D3
+~
+porta segreta~
+1 -1 2682 3
+D4
+Nothing.
+~
+tetto~
+1 0 20509 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2681
+La Tesoreria~
+   Ti trovi in una piccola camera, l'aria e' stantia, fatto che prova che la
+stanza non e' stata aperta da anni.    
+~
+25 72 0
+D3
+~
+porta segreta~
+1 -1 2680 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2682
+Un passaggio~
+   Ti trovi in uno stretto passaggio buio che non avrebbe nulla di
+straordinario se non terminasse, verso ovest, con una luce blu.  Alcuni
+mantelli ed uno zaino di cuoio sono appesi a dei ganci infissi nelle pareti.  
+Sembra che qualcuno abbia preparato questa stanza con tutto il necessario per
+fuggire rapidamente in caso di pericolo.    
+~
+25 73 0
+D1
+~
+porta~
+1 -1 2680 3
+D3
+~
+~
+0 -1 2683 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#2683
+Nella luce~
+   Ti sembra di fluttuare in balia di energie magiche, sebbene tu non riesca a
+vedere la fonte dell'energia, senti che il suo potere ti sballottola qua e la'
+nullificando completamente gli effetti della gravita'.    
+   Sopra la tua testa scorgi una leggera imperferzione nel blu uniforme della luce,
+potrebbe forse essere un'uscita.
+~
+25 72 0
+D4
+~
+~
+0 0 1465498 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,1450 @@
+#800
+L'entrata alla zona Newbie~
+Ahhh... l'ingresso alla zona newbie! Proprio il luogo che stavi
+cercando. Allora, quando sei pronto puoi andare a nord.
+~
+8 4 1
+D0
+Vedi l'inizio della zona newbie.
+~
+~
+0 -1 801 0
+D3
+Torni indietro... rinunci di gia'?
+~
+~
+0 -1 1551432 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#801
+L'inizio del passaggio~
+   Ti trovi in un lungo corridoio. Puoi sentire il rumore
+delle creature che si muovono qui, ma non puoi dire da dove
+provengono esattamente.
+Le uscite portano ad est lungo l'atrio, e a sud all'ingresso.
+~
+8 8 0
+D1
+C'e' l'atrio... quanto e' eccitante!
+~
+~
+0 -1 802 0
+D2
+L'ingresso alla zona dei newbie.
+~
+~
+0 -1 800 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#802
+Lo sporco atrio~
+   Continui il vagabondaggio nell'atrio. Niente di molto differente qui,
+ma e' positivo. Senti rumori provenire da dietro la porta a sud e da est.
+I muri sono limacciosi ed ammuffiti... yeech, non potevano assumere
+qualcuno per pulire questo luogo? Che pensano i newbies?
+Oh allora, puoi continuare per l'atrio ad est o ad ovest.
+~
+8 8 0
+D1
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 803 0
+D2
+Una stanza piccola e' a sud... senti qualcosa muoversi all'interno.
+~
+porta~
+1 -1 806 3
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 801 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#803
+A Nexus~
+   Bene... hai raggiunto un incrocio fra due passaggi, a nord e ad est,
+un passaggio illuminato, mentre l'atrio piu' scuro continua a sud.
+~
+8 8 0
+D0
+Un atrio piu' brillante comincia per quella via.
+~
+porta~
+1 -1 844 3
+D1
+Un atrio piu' brillante comincia per quella via.
+~
+porta~
+1 -1 846 3
+D2
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 807 0
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#804
+Uno stretto passaggio~
+   Lo stretto passaggio e' semplice e non decorato, ma pulito. Esso
+finisce improvvisamente a sud contro una porta di quercia piccola,
+dietro alla quale senti del movimento.
+~
+8 9 0
+D0
+Una grande stanza a volta.
+~
+~
+0 -1 847 0
+D2
+Una piccola ingombra stanza.
+~
+porta~
+1 -1 812 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#805
+La buca scura~
+   Argh... un'umida scura sporca buca. Cosa e' quell'umida scura
+cosa sporca che ti guarda dall'angolo?  Ewww... forse dovresti tornare
+indietro verso un luogo un po' piu' sicuro, a meno che tu non pensi di
+poter afferrare quella cosa nell'angolo.
+~
+8 9 0
+D4
+Vedi una scala che porta in alto.
+~
+grata~
+1 808 806 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#806
+Una piccola stanza~
+   Hmmm... questa e' una piccola stanza interessante. Ah... e c'e'
+anche una piccola creatura interessante che ti guarda. Sembra un po'
+sorpresa della tua intrusione. Puoi andartene per le porte a nord o
+ad est, o puoi stare ad importunarla un altro po'. Sembra esserci
+anche un'altra uscita, ma e' chiusa da una grata piuttosto solida.
+~
+8 8 0
+D0
+L'atrio... quanto e' eccitante!
+~
+porta~
+1 -1 802 3
+D1
+L'atrio... quanto e' eccitante!
+~
+porta~
+1 -1 807 3
+D5
+Una scala scende nell'oscurita'.
+~
+grata~
+1 808 805 7
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#807
+L'atrio~
+   Oh Cielo! Ancora questo irritante passaggio. Forse c'e' qualcosa di
+piu' eccitante attraverso quella porta ad ovest? O puoi andare negli atri
+a nord o a sud.
+~
+8 8 0
+D0
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 803 0
+D2
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 811 0
+D3
+~
+porta~
+1 -1 806 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#808
+Un campo aperto sul grande campo~
+   Finalmente sei in un campo aperto... e' cosi' bello respirare aria fresca
+di nuovo! Puoi ritornare in quel luogo umido, puzzolente ad est o uscire a
+nord verso un grande campo.
+~
+8 4 0
+D0
+Sembra esserci una strada di campagna a nord.
+~
+~
+0 -1 1551432 0
+D1
+La fine di quello maledetto atrio e' ad est.
+~
+~
+0 -1 809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#809
+La fine del passaggio~
+    Ahhh... finalmente, la fine dell'atrio... puoi uscire all'aria
+aperta ad ovest, o tornare ad est per essere sicuro di non esserti
+perso niente.
+~
+8 8 0
+D1
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 810 0
+D3
+Vedi un campo aperto vicino al Grande Campo di Chyrellos.
+~
+~
+0 -1 808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#810
+Un atrio piu' illuminato~
+   L'atrio continua in direzione est-ovest... e sembra essere piu'
+illuminato ad ovest.
+~
+8 8 0
+D1
+Un angolo nel passaggio e' ad est.
+~
+~
+0 -1 811 0
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#811
+Un altro angolo~
+   Un altro angolo del passaggio, e tanto in disordine quanto il
+resto di questo luogo (potrebbe essere piu' di cosi'?). C'e' una
+porta ad est sebbene... ti chiedi dove possa portare.
+Oh, e l'atrio continua ad ovest e a nord.
+~
+8 8 0
+D0
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 807 0
+D1
+Sbirci in un'ingombra piccola stanza ad est.
+~
+porta~
+1 -1 812 3
+D3
+L'atrio... quanto e' eccitante!
+~
+~
+0 -1 810 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#812
+La stanza dell'Alchimista~
+   Ci sono molte bottiglie e fiaschi in questa stanza, ma tutto sembra
+essere in un indegno disordine. Pare che chiunque sia l'alchimista che ha
+ha lavorato qui non sia proprio esperto nella sua arte. Ci sono molte
+formule ed incantesimi scritte anche sui muri... non poteva comprare della
+carta? C'e' una porta a nord ed anche una scalinata scura nell'angolo che
+porta in basso, con un grande cartello che probabilmente faresti bene a
+leggere...
+~
+8 8 0
+D0
+Un atrio bello luccicante!
+~
+porta~
+1 -1 804 3
+D3
+Un angolo nel passaggio e' ad ovest.
+~
+porta~
+1 -1 811 3
+D5
+Una scura scala porta in basso.
+~
+~
+0 -1 832 0
+E
+cartello scala gradini~
+Il cartello vicino alle scale dice:
+
+Se sei sotto al livello 7 e solo, o sotto al livello 4 vai via!
+Altrimenti non biasimarmi se muori.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#820
+Una curva in un passaggio~
+   Questo angolo e' come tutti gli altri... eccetto il fatto che vedi
+uno strano bagliore provenire da nord. Potrebbe essere un'uscita...
+~
+8 9 0
+D0
+~
+~
+0 0 829 0
+D1
+Il passaggio continua ad est.
+~
+~
+0 -1 821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#821
+Un incrocio a T nel passaggio~
+   Questo e' l'incrocio di un passaggio che va da est ad ovest con un
+corridoio che va a nord. L'aria sembra un po' piu' chiara qui, come se
+ti stessi per avvicinare ad un'uscita.
+~
+8 9 0
+D0
+~
+~
+0 0 833 0
+D1
+~
+~
+0 -1 822 0
+D3
+~
+~
+0 -1 820 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#822
+Un altro angolo~
+   Il passaggio curva da nord ad ovest qui. I muri sono ancora coperti
+con lo stesso disgustoso fungo verde che hai visto dappertutto, e senti
+rumori di creature che si muovono tutto intorno a te...
+~
+8 9 0
+D2
+~
+~
+0 -1 828 0
+D3
+~
+~
+0 -1 821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#823
+Un angolo nell'atrio~
+   Puoi sentire creature muoversi tutto intorno a te... e non sono
+rumori confortanti dopo tutto. Non c'e' niente altro da dire sul
+luogo, mattoni semplici, grigi, con funghi verdi che vi crescono sopra.
+~
+8 9 0
+D1
+~
+~
+0 -1 824 0
+D2
+~
+~
+0 -1 827 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#824
+Un'altra curva~
+   Hmmm... il passaggio gira a sud qui. Cominci a comprendere che
+e' facile perdersi se non stai attento, e non vorrai passare molto
+tempo qui...
+~
+8 9 0
+D2
+~
+~
+0 -1 830 0
+D3
+~
+~
+0 -1 823 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#825
+Una grande stanza~
+   Il passaggio porta in una grande stanza ovale. Non c'e' veramente
+niente d'interessante qui.
+~
+8 9 0
+D1
+~
+~
+0 -1 826 0
+D2
+~
+~
+0 -1 831 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#826
+Un lungo passaggio da est ad ovest~
+   Questo e' un lungo, stretto passaggio che porta ad est e ad ovest.
+I muri sono umidi e coperti di muffa e funghi. C'e' un aria molto poco
+sana in questo luogo e cominci ad aver voglia di andartene da qui...
+presto.
+~
+8 9 0
+D1
+~
+~
+0 -1 827 0
+D3
+~
+~
+0 -1 825 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#827
+Un attraversamento dei corridoi~
+   Qui uno stretto passaggio che va da est ad ovest stretto attraversa
+un passaggio piu' largo che porta a nord e a sud. L'aria e' umida e ha
+un odore di decadenza.
+Dopo tutto non e' realmente un luogo molto bello...
+~
+8 9 0
+D0
+~
+~
+0 -1 823 0
+D1
+~
+~
+0 -1 828 0
+D2
+~
+~
+0 -1 832 0
+D3
+~
+~
+0 -1 826 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#828
+Una stanza d'angolo~
+   Questa stanza e' appena di piu' di un attraversamento di passaggi.
+Senti una brezza che si diffonde giu' per il passaggio a nord, ma e'
+alquanto puzzolente...
+~
+8 9 0
+D0
+~
+~
+0 -1 822 0
+D3
+~
+~
+0 -1 827 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#829
+La stanza rossa~
+   Ti occorre un attimo per comprendere che il bagliore rosso presente
+qui proviene da un portale rotondo nel pavimento. Sembra quasi che
+qualcuno abbia dipinto un campo sul pavimento di questa stanza.
+Abbastanza stranamente, e' così realistico che puoi sentire il vento
+provenire da li'.
+~
+8 9 0
+D1
+~
+~
+0 -1 830 0
+D2
+~
+~
+0 0 820 0
+E
+portale pavimento~
+Sembra di poter scenderci dentro... ma non sei sicuro di dove finira',
+o se potrai tornare...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#830
+Un passaggio ramificato~
+   Il passaggio di nord-sud si ramifica ad est qui. C'e' uno strano rosso
+bagliore che proviene da direzione, insieme con una debole brezza.
+~
+8 9 0
+D0
+~
+~
+0 -1 824 0
+D2
+~
+~
+0 -1 834 0
+D3
+Uno strano rosso bagliore proviene da quella direzione.
+~
+~
+0 -1 829 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#831
+Un passaggio~
+   Argh... questo luogo e' proprio disgustoso. Provi a rimanere lontano
+dai muri, ma il passaggio e' stretto cosi' li tocchi in continuazione.
+Sei quasi convinto che il rivestimento di funghi dei muri afferrera'
+anche te.
+~
+8 9 0
+D0
+~
+~
+0 -1 825 0
+D1
+~
+~
+0 -1 832 0
+D2
+~
+~
+0 -1 838 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#832
+L'entrata~
+   E' scuro, umido, disgustoso e freddo qui. In piu' senti i rumori
+di creature tutto intorno a te... ed in qualche modo non suonano
+amichevoli. E' probabilmente saggio esercitare un qualche tipo di
+cautela qui... nessuno ti puo' dire in che cosa puoi incappare qui.
+~
+8 13 0
+D0
+~
+~
+0 -1 827 0
+D2
+~
+~
+0 -1 835 0
+D3
+~
+~
+0 -1 831 0
+D4
+~
+~
+0 -1 812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#833
+Un altro angolo~
+   Bene... che c'e' da dire. Piu' funghi, suoni piu' soprannaturali,
+ed una leggera brezza che proviene da sud. Scommetto che vuoi firmare
+un contratto d'affitto, no...?
+~
+8 9 0
+D1
+~
+~
+0 -1 834 0
+D2
+~
+~
+0 0 821 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#834
+Un incrocio di passaggi~
+   Freddo, puzzolente, e rivestito di funghi verdi... giusto come la
+settimana scorsa. Inoltre, non vuoi avere niente a che fare con altri,
+vuoi solo uscire da qui ora.
+~
+8 9 0
+D0
+~
+~
+0 -1 830 0
+D2
+~
+~
+0 -1 837 0
+D3
+~
+~
+0 -1 833 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#835
+Una curva nel passaggio~
+   Questo luogo e' semplicemente nauseante... certamente puzza come se
+qualcosa (o qualcuno) sia morto qui. Speri di non essere il prossimo,
+ma dai rumori che senti intorno a te, sembra come se qualcosa non abbia
+la tua stessa idea.
+~
+8 9 0
+D0
+~
+~
+0 -1 832 0
+D1
+~
+~
+0 -1 836 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#836
+Un ramo a sud~
+   Il passaggio est-ovest si ramifica verso sud. Tutto intorno a te
+c'e' l'odore della morte. Attualmente, la muffa e i funghi sui muri
+stanno aumentando, ma d'altra parte... bene... non vuoi pensare a cosa
+altro vive qui.
+~
+8 9 0
+D1
+~
+~
+0 -1 837 0
+D2
+~
+~
+0 -1 839 0
+D3
+~
+~
+0 -1 835 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#837
+Ancora un altro angolo~
+   Il passaggio qui gira e porta a nord. Senti che la' c'e' qualcosa, ma
+non sei sicuro di cosa sia. E non sei neanche sicuro di volerlo sapere!
+~
+8 9 0
+D0
+~
+~
+0 -1 834 0
+D3
+~
+~
+0 -1 836 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#838
+Una grande stanza~
+   Quasi inciampi quando entri in questa stanza... la sensazione
+improvvisa che non ci siano muri ai lati ti fanno sentire un po'
+nervoso. Improvvisamente sei vulnerabile da tutti i lati. Non puoi
+dire quanto grande sia questa stanza perche' si estende ad est piu'
+lontano di dove arriva la tua luce.
+~
+8 9 0
+D0
+~
+~
+0 -1 831 0
+D1
+La stanza si perde nelle ombre...
+~
+~
+0 -1 839 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#839
+Una grande stanza~
+   Quando entri, illumini la parete ad est. Pare ci siano scarabocchiate
+delle parole sopra, e pure un grezzo dipinto. Ad ovest la stanza si
+estende oltre la portata della tua luce, e le ombre scure ti fanno
+diventare paranoico... qualche cosa potrebbe essere nascosta la'.
+Sei dolorosamente consapevole di quanto sei esposto senza muri intorno
+a te.
+~
+8 73 0
+D0
+~
+~
+0 -1 836 0
+D3
+La stanza si estende piu' lontano di quanto puoi vedere.
+~
+~
+0 -1 838 0
+E
+muro parete~
+C'e' un grezzo quadro di un uomo con la testa di toro con delle parole
+scritte vicino.
+~
+E
+scritte parole~
+La scrittura sembra dire: "attenti al Minotauro..."
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#840
+La stanza della statua~
+   Qui, il passaggio entra in una piccola stanza. Le uscite sono ad
+est e a sud, ed osservi una meravigliosa, grande statua a nord.
+~
+8 9 0
+D1
+Un lungo atrio, che finisce contro una scala.
+~
+~
+0 -1 841 0
+D2
+La sala si estende a sud dove sembra essere piuttosto buio.
+~
+~
+0 -1 844 0
+E
+placca nome~
+Dice:
+
+Maynard, Burlone della Morte degli Arlecchini
+
+~
+E
+statua~
+Ad un'ispezione ravvicinata, vedi che la statua ha una piccola placca
+attaccata sopra. La faccia ti sembra notevolmente familiare.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#841
+L'atrio~
+   Mentre continui a vagabondare per l'atrio, noti bandiere, quadri,
+ed altre decorazioni eccellenti che adornano i muri fin dall'inizio
+questo passaggio. Sembra molto diverso dal cupo passaggio da dove
+sei entrato.
+~
+8 9 0
+D1
+L'atrio finisce contro una grande scala di marmo.
+~
+~
+0 -1 842 0
+D3
+Il passaggio porta in una piccola stanza.
+~
+~
+0 -1 840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#842
+I gradini a nord~
+   Qui, la sala diventa una stanza larga, con un alto soffitto a cupola.
+Ora che il passaggio si e' rischiarato, puoi vedere che i gradini portano
+diritti verso l'alto ad un balcone prospiciente l'area. A sud la stanza
+continua, e un'altra scala e' proprio davanti a te.
+~
+8 9 0
+D2
+Vedi un'altra scala e due passaggi che portano ad ovest e a sud.
+~
+~
+0 -1 847 0
+D3
+Un ingresso a un passaggio illuminato.
+~
+~
+0 -1 841 0
+D4
+Un balcone.
+~
+~
+0 -1 843 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#843
+Il balcone~
+   Da qui puoi guardare fuori ed osservare il mondo intorno. Costruito
+in semi cerchio intorno alla cupola della stanza, il balcone ti permette
+di guardare fuori in quasi tutte le direzioni. Guardando a nord, vedi il
+Grande Campo di Chyrellos che continua verso le Montagne del Dragone a nord.
+~
+8 9 0
+D2
+La fine a sud del balcone.
+~
+~
+0 -1 845 0
+D5
+Giu' per la scala in una grande stanza a volta.
+~
+~
+0 -1 842 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#844
+Un atrio illuminato~
+   Wow!  Che cambio rispetto al cupo passaggio a sud! Chiunque tenga
+questa stanza, deve approvare realmente i newbies. I muri ed il
+pavimento sono puliti e decorati. Noti anche un disegno interessante
+sul pavimento.
+~
+8 9 0
+D0
+Una piccola stanza con una statua.
+~
+~
+0 -1 840 0
+D2
+Un incrocio di passaggi.
+~
+porta~
+1 -1 803 3
+E
+pavimento disegno~
+Sembra essere Crest della Gilda degli Arlecchini.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#845
+Il balcone~
+   Da qui puoi guardare fuori ed osservare il mondo intorno. Costruito
+in semi cerchio intorno alla cupola della stanza, il balcone ti permette
+di guardare fuori in quasi tutte le direzioni. Guardando a sud, vedi la
+grande citta' di Chyrellos.
+~
+8 9 0
+D0
+La fine nord del balcone.
+~
+~
+0 -1 843 0
+D5
+Giu' per la scala.
+~
+~
+0 -1 847 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#846
+Un atrio illuminato~
+   Wow!  Che cambio rispetto al cupo passaggio ad ovest! Chiunque tenga
+questa stanza, deve approvare realmente i newbies. I muri ed il
+pavimento sono puliti e decorati. Noti anche un disegno interessante
+sul pavimento.
+~
+8 9 0
+D1
+Il passaggio passa in una stanza con una grande scala di marmo.
+~
+~
+0 -1 847 0
+D3
+Un buio incrocio di passaggi.
+~
+porta~
+1 -1 803 3
+E
+pavimento disegno~
+Sembra essere Crest della Gilda degli Arlecchini.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#847
+I gradini a sud~
+   Qui, la sala diventa una stanza larga, con un alto soffitto a cupola.
+Ora che il passaggio si e' rischiarato, puoi vedere che i gradini portano
+diritti verso l'alto ad un balcone prospiciente l'area. A nord la stanza
+continua, e un'altra scala e' proprio davanti a te
+~
+8 9 0
+D0
+Un'altra scala e' a nord, cosi' come un passaggio ad ovest.
+~
+~
+0 -1 842 0
+D2
+Uno stretto passaggio a sud, che finisce contro una porta di legno.
+~
+~
+0 -1 804 0
+D3
+Giu' verso l'atrio illuminato.
+~
+~
+0 -1 846 0
+D4
+Un balcone.
+~
+~
+0 -1 845 0
+E
+gradini gradino scala~
+Sono costruiti di bel marmo liscio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#848
+Il Nero Cancello~
+&b&9La nebbia e' molto fitta su questo colle.  Un freddo umido ti punge le
+ossa.  Alcune cornacchie gracchiano in lontananza, e ti pare per un istante di
+udire un ululato.  Cammini lentamente finche'dinanzi a te si erge tetro un
+largo e alto cancello in ferro battuto.  E' conficcatto &0&3 nella nuda roccia,
+&1 trafiggendola come lame che straziano la carne.  &b&9 Oltre non scorgi altro
+che &4buio ed un &7sentiero pavimentato in discesa, &0&1all'interno della
+montagna.  &9&b Sei torce fissate asimmetricamente sulla facciata del cancello,
+&0&1 emnano una debole luce ed un fastidioso odore di carne bruciata.  &b&9Le
+sbarre del cancello sono irte di spuntoni aguzzi e seghettati, di varie
+dimensioni e forme.  &6Su una piastra e' incisa una scritta: &5Vrugr Tzemlak
+Karuf.  &9Il cancello e' socchiuso, ed alcuni biechi figuri vi entrano
+guardandosi attorno.  &0
+~
+8 12 0
+D2
+~
+~
+0 0 5445 0
+D5
+~
+~
+0 0 849 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#849
+Il Cimitero Sotterraneo~
+&9&bUn cunicolo scavato nella montagna discende dal cancello.  &0&3Le pareti
+naturali sono annerite e stuprate da una &b&7pavimentazione di marmo.  &9Delle
+&1fiaccole&9 sono sparse lungo &7il sentiero, &1 piu' numerose via via che si
+scende.  &2 L'odore di rancido e' insopportabile.  &9 Noti con orrore che in
+alcune nicchie laterali sono affossati &0&2corpi e resti umanoidi, &b&9 come
+una sorta di fosse comuni.  Alcuni grossi topi fuggono via veloci lungo le
+crepe nelle pareti, squittendo in maniera ossessiva.  Una fila di individui
+sale e discende il sentiero.  Alcuni sono vestiti di pochi stracci, altri
+indossano abiti piu' eleganti e si muovono con circospezione mormorando &4nelle
+tenebre.  &0
+~
+8 0 0
+D4
+~
+~
+0 0 848 0
+D5
+~
+~
+0 0 850 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#850
+La Facciata della Cattedrale~
+&9&bUn Muro di nero basalto chiude &7il sentiero&9 verso il basso.  
+Avvicinandoti, noti che non si tratta di un semplice ostacolo.  E' la facciata
+di una costruzione che si perde &0&3nelle profodita' della roccia.  &9&b Si
+possono distinguere le singole pietre utilizzate per la realizzazione di questa
+imponente opera.  In alto sono in evidenza nicchie e parapetti, sui quali si
+poggiano inquietanti statue di demoni alati accovacciati.  &0&1Un alto portone
+di bronzo rompe bruscamente la cupa armonia della struttura, ricoprendone per
+un quinto base e altezza.  &9&b Qualche metro sopra al portone, e' posto &0&6un
+vetro a forma di stella a 5 punte, &5che riflette nella caverna la luce
+proveniente dall'interno dell'edificio.  &9&bOdi una specie di musica
+incalzante provenire oltre il portone.  Verso est e' ammassata &0&7una pila di
+scheletri nanici...  &b&9tutti schiavi morti durante la costruzione
+dell'edificio...  &0
+~
+8 0 0
+D2
+~
+~
+0 0 851 0
+D4
+~
+~
+0 0 849 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#851
+La Navata Centrale~
+&9&bSei all'interno di una imponente cattedrale.  Osservi meravigliato e
+intimorito, mentre un &2acre odore di incenso ti pervade le narici e &6una
+cantilena risuona veloce, &7accompagnata dalle basse note di un organo.  
+&9Dinanzi a te si estende in lungo la navata centrale.  La pavimentazione e'
+formata interamente &7da pietre bianche squadrate, sulle quali sono dipinte a
+gruppi di dodici, &9nere trame arzigogolate e sinuose.  Il soffitto e' quello
+&0&3della caverna, colmo di stalattiti lavorate a mo' di artigli, che pendono
+minacciosi sulle teste dei visitatori.  &b&2Dodici colonne di malachite si
+ergono fino &0&3ad alcune stalattiti piu' ampie, &1penetrandole e conficcandosi
+nella roccia.  &b&9Sulla parete nord e' ubicato un mosaico, con una &5cornice&9
+sulla quale e' inciso il numero &1I&9.    
+~
+8 0 0
+D0
+~
+~
+0 0 850 0
+D1
+~
+~
+0 0 856 0
+D2
+~
+~
+0 0 852 0
+D3
+~
+~
+0 0 854 0
+E
+mosaico~
+&b&9Il mosaico ritrae &1un demone scheletrico che sorge &9da un oscuro pozzo,&4
+&4&bsotto un cielo notturno senza luci.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#852
+La Navata Centrale~
+&9&bLa Navata prosegue a sud verso l'altare.  Oltre alle medesime decorazione
+dell'ingresso, sono fissate al pavimento &7 45 panche di pietra, disposte su 3
+file da 15.  &9Alcuni fedeli stanno in ginocchio, bisbigliando preghiere con le
+mani frai capelli.  Una lunga scala a chiocciola di ferro conduce ad un
+soppalco, ove e' ubicato un pesante organo a 99 canne.  A terra e' posto un
+mosaico, con una &5cornice&9 sulla quale e' inciso il numero &1IV&9.  Il
+mosaico ritrae &1un demone sheletrico in groppa &9ad un feroce dracolich, alla
+testa di un'orda di creature malevole.  L'esercito porta scompiglio e
+disperazione presso un villaggio in &1fiamme,&9 i cui cittadini scappano e
+vengono &1massacrati barbaramente.  &9L'intera cattedrale e'&1 illuminata &7da
+un massiccio lampadario di ossa.&0
+~
+8 0 0
+D0
+~
+~
+0 0 851 0
+D1
+~
+~
+0 0 857 0
+D2
+~
+~
+0 0 853 0
+D3
+~
+~
+0 0 855 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#853
+L'Altare~
+&b&7Un grande altare di marmo e' posto in prossimita' &9della parete sud.  
+&7Agli angoli si dipartono quattro colonne, che incurvandosi si toccano &9in
+una sfera dentata, a mo' di parodia di una grottesca piramide.  Sulla cima
+della sfera &0&1arde &5un fuoco violaceo.  &b&9Sulla cima dell'altare, catene e
+bracciali attendono la prossima vittima sacrificale.  Dietro l'Altare, il sommo
+sacerdote urla i suoi sermoni, incutendo timore e riverenza nei fedeli.  Sulla
+parete sud e' incastrata una gigantesca statua ritraente &1Shaarr&9, che
+protende minacciosa i suoi artigli verso l'infinito.  &7Su una lastra sul
+pavimento, perpendicolare all'altare,&9 nel lato della navata, sono incisi
+quattro quadrati, esternamente tangenti a sei cerchi.  Sui cerchi e' posta una
+numerazione in senso antiorario.  Sui quadrati sono incise rune
+incomprensibili.  &0
+~
+8 0 0
+D0
+~
+~
+0 0 852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#854
+La Navata Destra~
+&b&9Dinanzi a te si estende in lungo la navata destra.  In una cappella
+laterale e' ubicata una statua della dea &1Shaarr&9, attorniata &0&2da decine
+di cadaveri essiccati, &9&bmorti probabilmente per inedia.  Sulla parete est e'
+ubicato un mosaico, con una &5cornice&9 sulla quale e' inciso il numero &1II&9.
+Il mosaico ritrae &1un demone scheletrico &9al centro di un cerchio formato da
+altre 5 figure: una donna con uno scettro, un uomo-topo, un demone muscoloso,
+un cavaliere nero, un uomo scuro di carnagione.  La navata e'&0&1illuminata&b&9
+da teste umane conficcate alle pareti laterali, che stringono fra i denti
+ognuna una candela.  &0&3Una lunga stalattite arriva a toccare la
+pavimentazione.  Su di essa vi e' un BASSORILIEVO.  &0
+~
+8 0 0
+D1
+~
+~
+0 0 851 0
+D2
+~
+~
+0 0 855 0
+E
+bassorilievo~
+Magna Opera Honore Shaarr Falciatrix Animis Cogitata Nagash Facta C'Thol Drow. 
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#855
+La Navata Destra~
+&9&bLa Navata prosegue a sud verso &7la grande statua di marmo di un possente
+guerriero avvolto da una nube di fiamme.  Impugna una grande ascia e la mano
+sinistra, aperta, rivela artigli minacciosi.  &9 In una cappella laterale e'
+ubicata una statua della dea &1Shaarr&9, attorniata &0&2da decine di cadaveri
+mutilati, con evidenti &1segni di battaglia sul corpo.  &9&bSulla parete est e'
+ubicato un mosaico, con una &5cornice&9 sulla quale e' inciso il numero
+&1III&9.  Il mosaico ritrae &1un demone scheletrico&9 nell'atto di
+&1schiacciare&9 una citta' &0&3circondata dal deserto.  &9&b Sulla parete sud,
+c'e' un cancelletto di ferro.  La navata e'&0&1illuminata&b&9 da teste umane
+conficcate alle pareti laterali, che stringono fra i denti ognuna una candela.
+&0
+~
+8 0 0
+D0
+~
+~
+0 0 854 0
+D1
+~
+~
+0 0 852 0
+D2
+~
+~
+0 0 859 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#856
+La Navata Sinistra~
+&9&bDinanzi a te si estende in lungo la navata sinistra.  In una cappella
+laterale e' ubicata una statua della dea &1Shaarr&9, attorniata &0&2da corpi in
+avanzato stato di putrefazione, ricoperti di &bpustole, &0&3bubboni &1e piaghe.
+&9&b Sulla parete ovest e' ubicato un mosaico, con una &5cornice&9 sulla quale
+e' inciso il numero &1VI&9.  Il mosaico ritrae &1un demone scheletrico&9 con un
+libro nella mano destra e una spada nella sinistra, con le braccia allargate, a
+mo' di preghiera, dinanzi alla dea &1Shaarr&9.  La navata e'&0&1illuminata&b&9
+da teste umane conficcate alle pareti laterali, che stringono fra i denti
+ognuna una candela.  &0
+~
+8 0 0
+D2
+~
+~
+0 0 857 0
+D3
+~
+~
+0 0 851 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#857
+La Navata Sinistra~
+&9&bLa Navata prosegue a sud verso &7la grande statua di marmo di un possente
+guerriero avvolto da una nube di fiamme.  Impugna una grande ascia e la mano
+sinistra, aperta, rivela artigli minacciosi.  &9 In una cappella laterale e'
+ubicata una statua della dea &1Shaarr&9, attorniata &0&2da decine di zombie e
+scheletri,&9&b che intonano macabri una litania senza senso.  Sulla parete
+ovest e' ubicato un mosaico, con una &5cornice&9 sulla quale e' inciso il
+numero &1V&9.  Il mosaico ritrae &1un demone scheletrico&9, con alla sua
+sinistra &0&5un uomo incappacciuto,&b&9 che osserva tre figure porre le loro
+mani sinistre le une sulle altre: uno e' un nano, uno un guerriero dai corti
+capelli neri, uno un troll dall'aria infida.  Sulla parete sud, delle scale
+discendono verso la cripta.  La navata e'&0&1illuminata&b&9 da teste umane
+conficcate alle pareti laterali, che stringono fra i denti ognuna una candela.
+&0
+~
+8 0 0
+D0
+~
+~
+0 0 856 0
+D3
+~
+~
+0 0 852 0
+D5
+~
+~
+0 0 858 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#858
+La Cripta~
+&9&bL'odore di &3muffa e rancido e' asfissiante.  &9 Questa stanza e'
+totalmente buia.  Dal poco che riesci a scorgere, noti che e' interamente
+costruita &0&7con ossa, probabilmente umane.  &b&9Eh il pavimento che stai
+pestando...  &0&1sono volti umani!  &9&b al centro della empia stanzetta si
+trova un tavolino sul quale e' poggiato un grande LIBRO, aperto a meta'.  Su di
+esso sono incise parole strane...  La cripta e' colma di scaffali dove sono
+adagiati tomi riguardanti i piu' disparati argomenti mistici e occulti.  &0
+~
+8 0 0
+D4
+~
+~
+0 0 857 0
+D5
+~
+~
+0 0 861 0
+E
+libro~
+Abbiamo atteso per secoli la nostra venuta.
+Abbiamo servito con dedizione la nostra causa.
+Siamo stati cacciati, ripudiati, banditi.
+Alla luce, abbiamo risposto con il silenzio, professando in segreto il Verbo.
+Nella notte, abbiamo combattuto i nostri nemici.
+Il sangue e' stato versato, i sigilli infranti.
+Ma ora il tempo e' giunto, poiche' la Padrona e' tornata a consolarci e darci vigore.
+Colei che col tempo prende via la vita. Colei che regna sul destino dei vivi.
+Colei che divora, Colei che annulla. 
+La Necrarchia trionfera'.
+Sia lode a Shaarr
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#859
+La Sagrestia~
+&9&bQuesta stanza e' in realta' la base di una torre.  Su degli scaffali sono
+ammassate pile di libri ed altri oggetti di vario interesse.  Piccole ragnatele
+si mischiano alla polvere.  In un confessionale, un sacerdote di Shaarr sta
+dispensando buoni consigli ad un marito tradito, suggerendogli di porre fine
+all'esistenza dell'adultera ed offrendogli un pugnale per adempiere al suo
+dovere.  Una lunga scala a chiocciola di pietra si perde verso l'alto.  &0
+~
+8 0 0
+D0
+~
+~
+0 0 855 0
+D4
+~
+~
+0 0 860 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#860
+Il Campanile~
+&9&bLa scala a chiocchiola che parte dalla sagrestia si inalza fino a entrare
+&0&1nel soffitto roccioso.  &9&b Lungo il tragitto&0&2 cadaveri appesi a testa
+in giu' penzolano,&9&b provocando un fastidioso cigolio.  Sulla sommita',
+superata una botola in ferro, ci si trova su un campanile.  Puoi osservare da
+qui la strada che hai intrapreso prima di entrare nel nero cancello:Ti trovi
+sulla cima di una torre che fuoriesce &0&3da un colle &1nella montagna.  
+&b&3Una grande campana di ottone e &1bronzo &9e' immobile, attendendo di
+risuonare nell'ora dell'Apocalisse.  &0
+~
+8 0 0
+D5
+~
+~
+0 0 859 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#861
+Il tempio~
+&b&9Una piccola stanza buia.  A terra un pentacolo contiene una pozza di
+liquido nero.  Sulle 4 pareti perimetrali sono poste quattro &4[&1N&4]&9.  Nel
+tempietto c'e' &7un piccolo altare, sul quale e' poggiata una statuetta della
+dea &1 Shaarr,&7 con viso scheletrico,&9&b che imbraccia un falcione.  Dietro
+l'altare &5e' situato un trono di ametista.  &0
+~
+8 0 0
+D4
+~
+~
+0 0 858 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#862
+La base della torre~
+Ti trovi in una piccola stanza , vuota, senza ornamenti, l'ambiente e' asciutto
+, pulito, ben tenuto, anche se spoglio, vedi una scala a chiocciola da una
+parte, ed una botola vicino alla parete nord.    
+~
+8 131076 0
+D0
+~
+~
+0 0 2504752 0
+D1
+~
+~
+0 0 2504853 0
+D2
+~
+~
+0 0 2504952 0
+D3
+~
+~
+0 0 2504851 0
+D4
+~
+~
+0 0 863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#863
+I Piano della Torre~
+Cominci a salire lungo la scala a chiocciola che conduce in cima alla torre.  
+Vedi diverse armi e gonfaloni appesi alle pareti.    
+~
+8 131072 0
+D4
+~
+~
+0 0 864 0
+D5
+~
+~
+0 0 862 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#864
+II Piano della Torre~
+Vedi sul pavimento dipinta una rosa dei venti, una finestra e' aperta nelle
+direzioni dei punti cardinali.    
+~
+8 131072 0
+D4
+~
+~
+0 0 865 0
+D5
+~
+~
+0 0 863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#865
+III Piano della Torre~
+Del tutto inaspettata, vedi innanzi a te una vecchia fontanella, mentre un
+vecchietto seduto dietro un tavolo pare avere qualcosa da vendere.    
+~
+8 131072 1
+D4
+~
+~
+0 0 2504852 0
+D5
+~
+~
+0 0 864 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 2564
+#866
+L'ingresso all'arena di Chyrellos~
+Ti trovi sotto gli spalti dell'arena di Chyrellos
+~
+8 131460 0
+D1
+~
+~
+0 0 2134254 0
+D3
+~
+~
+0 0 2504457 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#867
+&7La Sfera Planare&0~
+Sei in una specie di bolla tra i Piani. Nessuno ti puo' raggiungere qui!
+~
+8 70368744177828 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#899
+La sala di controllo~
+Sei in un posto assolutamente fuori dal mondo! Intorno a te, luci colorate,
+scatoloni metallici che emettono strani ronzii, quadrati di materiali a te ignoti
+e con strane scritte che sporgono da questi scatoloni...
+
+Per Silue, ma dove diavolo sei finito?!?
+
+Al centro della stanza, nella piu' strana sedia che tu abbia mai visto, c'e' un
+tipo grasso e pelato che russa come un rinoceronte.
+~
+8 16 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

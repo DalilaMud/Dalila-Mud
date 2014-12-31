@@ -1,0 +1,4162 @@
+#9500
+&1&bLe Prigioni di Cimmura&0~
+Nuovissima struttura sorta nel centro della citta' per tutelare i cittadini del
+regno dai criminali provenienti da fuori confine.
+~
+95 4 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9501
+La Volta Sud~
+Sei sotto l'ampia volta di pietra dell'entrata sud. Hai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmurra. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.
+Verso ovest, davanti al muro di pietra, vedi come uno specchio fatto di liquido.
+~
+95 0 0
+D0
+~
+~
+0 -1 9502 0
+D1
+~
+~
+0 -1 9612 0
+D2
+~
+~
+0 0 2185153 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9502
+Corso del Cavaliere~
+Ti trovi nel piu' grande viale della citta', per la precisione sul lato est.
+Questo grande corso, divide la capitale in quattro parti distinte, ne avevi
+sentito parlare, ma ora che lo vedi con i tuoi occhi rimani sorpreso
+da questa giometria cosi precisa e ordinata. Mentre ti osservi intorno
+sei strattonato e spintonato dalla folla che scorre come un fiume.
+~
+95 0 0
+D0
+~
+~
+0 -1 9504 0
+D2
+~
+~
+0 -1 9501 0
+D3
+~
+~
+0 -1 9503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9503
+Corso del Cavaliere~
+Ti trovi nel lato ovest del grande e famoso Viale del Cavaliere, a nord
+riesci a vedere il grande castello di re Feanor mentre a sud molto vicino
+vedi la porta che ti conduce fuori da Cimmurra. Osservando gli edifici
+capisci che la zona ovest della citta' e' stata riservata alle grandi
+costruzioni, proprio accanto a te vedi il temuto "Colosseo" che a Cimmurra
+sostituisce le prigioni.~
+95 0 0
+D1
+~
+~
+0 -1 9502 0
+D3
+~
+~
+0 -1 9660 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9504
+Corso del Cavaliere~
+Sul lato est del viale, devi numerosi negozzi, ristoranti e altre attivita',
+quindi ne deduci che la zona est sia adibita al commercio e al lavoro.
+Ad avvalorare la tua ipotesi, osservi che molti viaggiatori e mercanti
+con carri carichi di materie prime, si dirigono in quella direzione.
+La folla di persone si muove velocemente intorno a te...~
+95 0 0
+D0
+~
+~
+0 -1 9506 0
+D2
+~
+~
+0 -1 9502 0
+D3
+~
+~
+0 -1 9505 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9505
+Corso del Cavaliere~
+Ti guardi intorno, un po' spaesato, in questo immenso viale, le facce
+dei viaggiatori intorno a te non sembrano molto rassicuranti, mercenari,
+mercanti, avventurieri.. un po' come in tutte le citta'. Al momento ti
+trovi nel lato ovest del viale, sul lato della stda piuo vedere imponenti
+costruzioni come il colosseo, mentre sull'altro lato vedi la zona commerciale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9507 0
+D1
+~
+~
+0 -1 9504 0
+D2
+~
+~
+0 -1 9503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9506
+Corso del Cavaliere~
+Ti trovi nel piu' grande viale della citta', per la precisione sul lato est.
+Questo grande corso, divide la capitale in quattro parti distinte, ne avevi
+sentito parlare, ma ora che lo vedi con i tuoi occhi rimani sorpreso
+da questa giometria cosi precisa e ordinata. Mentre ti osservi intorno
+noti anche un viale secondario che entra nella zona comerciale ad est.
+~
+95 0 0
+D0
+~
+~
+0 -1 9508 0
+D1
+~
+~
+0 -1 9560 0
+D2
+~
+~
+0 -1 9504 0
+D3
+~
+~
+0 -1 9507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9507
+Corso del Cavaliere~
+Ti trovi nel lato ovest del grande e famoso Viale del Cavaliere, a nord
+riesci a vedere il grande castello di re Feanor mentre a sud molto vicino
+vedi la porta che ti conduce fuori da Cimmurra. Osservando gli edifici
+capisci che la zona ovest della citta' e' stata riservata alle grandi
+costruzioni. Un viale secondaia si addentra nella zona ovest.
+~
+95 0 0
+D0
+~
+~
+0 -1 9509 0
+D1
+~
+~
+0 -1 9506 0
+D2
+~
+~
+0 -1 9505 0
+D3
+~
+~
+0 -1 9611 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9508
+Corso del Cavaliere~
+Sul lato est del viale, devi numerosi negozzi, ristoranti e altre attivita',
+quindi ne deduci che la zona est sia adibita al commercio e al lavoro.
+Ad avvalorare la tua ipotesi, osservi che molti viaggiatori e mercanti
+con carri carichi di materie prime, si dirigono in quella direzione.
+La folla di persone si muove velocemente intorno a te...
+~
+95 0 0
+D0
+~
+~
+0 -1 9510 0
+D2
+~
+~
+0 -1 9506 0
+D3
+~
+~
+0 -1 9509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9509
+Corso del Cavaliere~
+Ti guardi intorno, un po' spaesato, in questo immenso viale, le facce
+dei viaggiatori intorno a te non sembrano molto rassicuranti, mercenari,
+mercanti, avventurieri.. un po' come in tutte le citta'. Al momento ti
+trovi nel lato ovest del viale, sul lato della stda piuo vedere imponenti
+costruzioni come il lago, mentre sull'altro lato vedi la zona commerciale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9511 0
+D1
+~
+~
+0 -1 9508 0
+D2
+~
+~
+0 -1 9507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9510
+Corso del Cavaliere~
+Ti trovi nel piu' grande viale della citta', per la precisione sul lato est.
+Questo grande corso, divide la capitale in quattro parti distinte, ne avevi
+sentito parlare, ma ora che lo vedi con i tuoi occhi rimani sorpreso
+da questa giometria cosi precisa e ordinata. Mentre ti osservi intorno
+sei strattonato e spintonato dalla folla che scorre come un fiume.
+~
+95 0 0
+D0
+~
+~
+0 -1 9512 0
+D1
+~
+~
+0 -1 9777 0
+D2
+~
+~
+0 -1 9508 0
+D3
+~
+~
+0 -1 9511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9511
+Corso del Cavaliere~
+Ti trovi nel lato ovest del grande e famoso Viale del Cavaliere, a nord
+riesci a vedere il grande castello di re Feanor mentre a sud molto vicino
+vedi la porta che ti conduce fuori da Cimmurra. Osservando gli edifici
+capisci che la zona ovest della citta' e' stata riservata alle grandi
+costruzioni, proprio accanto a te vedi il rinomato "Lago Interno" un bacino
+lago artificiale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9513 0
+D1
+~
+~
+0 -1 9510 0
+D2
+~
+~
+0 -1 9509 0
+D3
+~
+~
+0 -1 9663 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9512
+Corso del Cavaliere~
+Sul lato est del viale, devi numerosi negozzi, ristoranti e altre attivita',
+quindi ne deduci che la zona est sia adibita al commercio e al lavoro.
+Ad avvalorare la tua ipotesi, osservi che molti viaggiatori e mercanti
+con carri carichi di materie prime, si dirigono in quella direzione.
+La folla di persone si muove velocemente intorno a te...
+~
+95 0 0
+D0
+~
+~
+0 -1 9514 0
+D2
+~
+~
+0 -1 9510 0
+D3
+~
+~
+0 -1 9513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9513
+Corso del Cavaliere~
+Ti guardi intorno, un po' spaesato, in questo immenso viale, le facce
+dei viaggiatori intorno a te non sembrano molto rassicuranti, mercenari,
+mercanti, avventurieri.. un po' come in tutte le citta'. Al momento ti
+trovi nel lato ovest del viale, sul lato della stda piuo vedere imponenti
+costruzioni come il lago, mentre sull'altro lato vedi la zona commerciale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9514 0
+D1
+~
+~
+0 -1 9512 0
+D2
+~
+~
+0 -1 9511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9514
+La Piazza del Potere~
+Ti trovi in una piazza piastrellata in marmo bianco, che conduce al viale
+del cavaliere e alla reggia di Re Feanor. Hai lati della piazza noti delle 
+statue di re e condottieri di ere passate, davvero di ottima fattura. Al 
+contrario degli altri viali, qui regna la quiete e il silenzio, anche se 
+piu' della pace, la sensazione e' come della calma prima della tempesta.
+~
+95 0 0
+D0
+~
+~
+0 0 9700 0
+D1
+~
+~
+0 -1 9512 0
+D3
+~
+~
+0 -1 9513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9515
+La Volta Est~
+Sei sotto l'ampia volta di pietra dell'entrata est. Hai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmurra. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.~
+95 0 0
+D0
+~
+~
+0 -1 9516 0
+D1
+~
+~
+0 0 2184955 0
+D2
+~
+~
+0 -1 9633 0
+D3
+~
+~
+0 -1 9517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9516
+La Volta Est~
+Sei sotto l'ampia volta di pietra dell'entrata est. Hai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmurra. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.
+~
+95 0 0
+D1
+~
+~
+0 0 2184855 0
+D2
+~
+~
+0 -1 9515 0
+D3
+~
+~
+0 -1 9523 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9517
+Corso del Cavaliere~
+Ti trovi nel piu' grande viale della citta', per la precisione sul lato sud.
+Questo grande corso, divide la capitale in quattro parti distinte, ne avevi
+sentito parlare, ma ora che lo vedi con i tuoi occhi rimani sorpreso
+da questa giometria cosi precisa e ordinata. Mentre ti osservi intorno
+sei strattonato e spintonato dalla folla che scorre come un fiume.
+~
+95 0 0
+D0
+~
+~
+0 -1 9523 0
+D1
+~
+~
+0 -1 9515 0
+D3
+~
+~
+0 -1 9518 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9518
+Corso del Cavaliere~
+Sul lato sud del viale, devi numerosi negozzi, ristoranti e altre attivita',
+quindi ne deduci che la zona sud sia adibita al commercio e al lavoro.
+Ad avvalorare la tua ipotesi, osservi che molti viaggiatori e mercanti
+con carri carichi di materie prime, si dirigono in quella direzione.
+La folla di persone si muove velocemente intorno a te...~
+95 0 0
+D0
+~
+~
+0 -1 9524 0
+D1
+~
+~
+0 -1 9517 0
+D3
+~
+~
+0 -1 9519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9519
+Corso del Cavaliere~
+Ti trovi nel piu' grande viale della citta', per la precisione sul lato sud.
+Questo grande corso, divide la capitale in quattro parti distinte, ne avevi
+sentito parlare, ma ora che lo vedi con i tuoi occhi rimani sorpreso
+da questa giometria cosi precisa e ordinata. Mentre ti osservi intorno
+noti anche un viale secondario che entra nella zona comerciale a sud.
+~
+95 0 0
+D0
+~
+~
+0 -1 9525 0
+D1
+~
+~
+0 -1 9518 0
+D2
+~
+~
+0 -1 9566 0
+D3
+~
+~
+0 -1 9520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9520
+Corso del Cavaliere~
+Sul lato sud del viale, devi numerosi negozzi, ristoranti e altre attivita',
+quindi ne deduci che la zona sud sia adibita al commercio e al lavoro.
+Ad avvalorare la tua ipotesi, osservi che molti viaggiatori e mercanti
+con carri carichi di materie prime, si dirigono in quella direzione.
+La folla di persone si muove velocemente intorno a te...
+~
+95 0 0
+D0
+~
+~
+0 -1 9526 0
+D1
+~
+~
+0 -1 9519 0
+D3
+~
+~
+0 -1 9521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9521
+Corso del Cavaliere~
+Ti trovi nel piu' grande viale della citta', per la precisione sul lato sud.
+Questo grande corso, divide la capitale in quattro parti distinte, ne avevi
+sentito parlare, ma ora che lo vedi con i tuoi occhi rimani sorpreso
+da questa giometria cosi precisa e ordinata. Mentre ti osservi intorno
+sei strattonato e spintonato dalla folla che scorre come un fiume.
+~
+95 0 0
+D0
+~
+~
+0 -1 9527 0
+D1
+~
+~
+0 -1 9520 0
+D3
+~
+~
+0 -1 9522 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9522
+Corso del Cavaliere~
+Sul lato sud del viale, devi numerosi negozzi, ristoranti e altre attivita',
+quindi ne deduci che la zona sud sia adibita al commercio e al lavoro.
+Ad avvalorare la tua ipotesi, osservi che molti viaggiatori e mercanti
+con carri carichi di materie prime, si dirigono in quella direzione.
+La folla di persone si muove velocemente intorno a te...
+~
+95 0 0
+D0
+~
+~
+0 -1 9528 0
+D1
+~
+~
+0 -1 9521 0
+D2
+~
+~
+0 -1 9767 0
+D3
+~
+~
+0 -1 9529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9523
+Corso del Cavaliere~
+Stai camminado lungo il lato nord del corso del cavaliere, il piu' grande
+viale di tutta Cimmurra. Guardando gli edifici con occhio critico vedi
+chiaramente che sono i piu' antichi e curati di tutta la citta'.
+Dopo aver letto alcune targhe capisci che la zona nord e' dedicata alle
+scuole di combattimento che esistono in tutta la Daresia.
+~
+95 0 0
+D1
+~
+~
+0 -1 9516 0
+D2
+~
+~
+0 -1 9517 0
+D3
+~
+~
+0 -1 9524 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9524
+Corso del Cavaliere~
+Il fiume di gente, nel quale sei immerso, pare scorrere uniformemente
+in tutte le direzioni. Tra le teste della folla, in lontanaza, riesci
+a scorgere la porta est, mentre ben visibile a west vedi alzarsi la
+reggia di Re Feanor. Un brivido gelito ti scuote, mentre osservi il nero
+castello, casa dello spietato Re.
+~
+95 0 0
+D1
+~
+~
+0 -1 9523 0
+D2
+~
+~
+0 -1 9518 0
+D3
+~
+~
+0 -1 9525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9525
+Corso del Cavaliere~
+Stai camminado lungo il lato nord del corso del cavaliere, il piu' grande
+viale di tutta Cimmurra. Guardando gli edifici con occhio critico vedi
+chiaramente che sono i piu' antichi e curati di tutta la citta'.
+Dopo aver letto alcune targhe capisci che la zona nord e' dedicata 
+alle scuole di combattimento. Un viale secondario entra verso nord 
+nell'antica zona.
+~
+95 0 0
+D0
+~
+~
+0 -1 9573 0
+D1
+~
+~
+0 -1 9524 0
+D2
+~
+~
+0 -1 9519 0
+D3
+~
+~
+0 -1 9526 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9526
+Corso del Cavaliere~
+Il fiume di gente, nel quale sei immerso, pare scorrere uniformemente
+in tutte le direzioni. Tra le teste della folla, in lontanaza, riesci
+a scorgere la porta est, mentre ben visibile a west vedi alzarsi la
+reggia di Re Feanor. Un brivido gelito ti scuote, mentre osservi il nero
+castello, casa dello spietato Re.
+~
+95 0 0
+D1
+~
+~
+0 -1 9525 0
+D2
+~
+~
+0 -1 9520 0
+D3
+~
+~
+0 -1 9527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9527
+Corso del Cavaliere~
+Stai camminado lungo il lato nord del corso del cavaliere, il piu' grande
+viale di tutta Cimmurra. Guardando gli edifici con occhio critico vedi
+chiaramente che sono i piu' antichi e curati di tutta la citta'.
+Dopo aver letto alcune targhe capisci che la zona nord e' dedicata alle
+scuole di combattimento che esistono in tutta la Daresia.
+~
+95 0 0
+D0
+~
+~
+0 -1 9636 0
+D1
+~
+~
+0 -1 9526 0
+D2
+~
+~
+0 -1 9521 0
+D3
+~
+~
+0 -1 9528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9528
+Corso del Cavaliere~
+Il fiume di gente, nel quale sei immerso, pare scorrere uniformemente
+in tutte le direzioni. Tra le teste della folla, in lontanaza, riesci
+a scorgere la porta est, mentre ben visibile a west vedi alzarsi la
+reggia di Re Feanor. Un brivido gelito ti scuote, mentre osservi il nero
+castello, casa dello spietato Re.
+~
+95 0 0
+D0
+~
+~
+0 -1 9637 0
+D1
+~
+~
+0 -1 9527 0
+D2
+~
+~
+0 -1 9522 0
+D3
+~
+~
+0 -1 9529 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9529
+La Piazza del Denaro~
+Ti trovi in una piazza piastrellata in marmo rosa, che conduce al viale
+del cavaliere e alla reggia di Re Feanor. ai lati della piazza noti delle 
+statue di re e condottieri di ere passate, davvero di ottima fattura. Al 
+contrario degli altri viali, qui regna la quiete e il silenzio, anche se 
+piu' della pace, la sensazione e' come della calma prima della tempesta.
+~
+95 0 0
+D0
+~
+~
+0 -1 9528 0
+D2
+~
+~
+0 -1 9522 0
+D3
+~
+~
+0 0 9700 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9530
+La Volta Nord~
+Sei sotto l'ampia volta di pietra dell'entrata nord. Ai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmura. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.~
+95 0 0
+D0
+~
+~
+0 0 2184653 0
+D2
+~
+~
+0 -1 9532 0
+D3
+~
+~
+0 -1 9531 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9531
+La Volta Nord~
+Sei sotto l'ampia volta di pietra dell'entrata nord. Hai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmurra. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.
+~
+95 0 0
+D0
+~
+~
+0 0 2184652 0
+D1
+~
+~
+0 -1 9530 0
+D2
+~
+~
+0 -1 9538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9532
+Corso del Cavaliere~
+Stai camminado lungo il lato est del corso del cavaliere, il piu' grande
+viale di tutta Cimmura. Guardando gli edifici con occhio critico vedi
+chiaramente che sono i piu' antichi e curati di tutta la citta'.
+Dopo aver letto alcune targhe capisci che la zona est e' dedicata alle
+scuole di combattimento che esistono in tutta la Daresia.
+~
+95 0 0
+D0
+~
+~
+0 -1 9530 0
+D1
+~
+~
+0 -1 9639 0
+D2
+~
+~
+0 -1 9533 0
+D3
+~
+~
+0 -1 9538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9533
+Corso del Cavaliere~
+Il fiume di gente, nel quale sei immerso, pare scorrere uniformemente
+in tutte le direzioni. Tra le teste della folla, in lontanaza, riesci
+a scorgere la porta nord, mentre ben visibile a sud vedi alzarsi la
+reggia di Re Feanor. Un brivido gelito ti scuote, mentre osservi il nero
+castello, casa dello spietato Re.
+~
+95 0 0
+D0
+~
+~
+0 -1 9532 0
+D1
+~
+~
+0 -1 9656 0
+D2
+~
+~
+0 -1 9534 0
+D3
+~
+~
+0 -1 9539 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9534
+Corso del Cavaliere~
+Stai camminado lungo il lato est del corso del cavaliere, il piu' grande
+viale di tutta Cimmurra. Guardando gli edifici con occhio critico vedi
+chiaramente che sono i piu' antichi e curati di tutta la citta'.
+Dopo aver letto alcune targhe capisci che la zona est e' dedicata 
+alle scuole di combattimento. Un viale secondario entra verso est 
+nell'antica zona.
+~
+95 0 0
+D0
+~
+~
+0 -1 9533 0
+D1
+~
+~
+0 -1 9585 0
+D2
+~
+~
+0 -1 9535 0
+D3
+~
+~
+0 -1 9540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9535
+Corso del Cavaliere~
+Il fiume di gente, nel quale sei immerso, pare scorrere uniformemente
+in tutte le direzioni. Tra le teste della folla, in lontanaza, riesci
+a scorgere la porta nord, mentre ben visibile a sud vedi alzarsi la
+reggia di Re Feanor. Un brivido gelito ti scuote, mentre osservi il nero
+castello, casa dello spietato Re.
+~
+95 0 0
+D0
+~
+~
+0 -1 9534 0
+D2
+~
+~
+0 -1 9536 0
+D3
+~
+~
+0 -1 9541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9536
+Corso del Cavaliere~
+Stai camminado lungo il lato est del corso del cavaliere, il piu' grande
+viale di tutta Cimmurra. Guardando gli edifici con occhio critico vedi
+chiaramente che sono i piu' antichi e curati di tutta la citta'.
+Dopo aver letto alcune targhe capisci che la zona est e' dedicata alle
+scuole di combattimento che esistono in tutta la Daresia.
+~
+95 0 0
+D0
+~
+~
+0 -1 9535 0
+D1
+~
+~
+0 -1 9638 0
+D2
+~
+~
+0 -1 9537 0
+D3
+~
+~
+0 -1 9542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9537
+Corso del Cavaliere~
+Il fiume di gente, nel quale sei immerso, pare scorrere uniformemente
+in tutte le direzioni. Tra le teste della folla, in lontanaza, riesci
+a scorgere la porta nord, mentre ben visibile a sud vedi alzarsi la
+reggia di Re Feanor. Un brivido gelito ti scuote, mentre osservi il nero
+castello, casa dello spietato Re.
+~
+95 0 0
+D0
+~
+~
+0 -1 9536 0
+D2
+~
+~
+0 -1 9544 0
+D3
+~
+~
+0 -1 9543 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9538
+Corso del Cavaliere~
+Mentre osservi la bellezza e la maestosita' del largo viale in cui ti
+trovi, lo sguardo ti cade sulla parte ovest della citta'. In quella
+zona vedi solo qualche edificio sporadico, ancora attivo, per il resto
+vedi solo palazzi abbandonati e grandi piazzali vuoti. Ti chiedi a 
+cosa sia riservata quella zona.. non che te ne importi piu' di tanto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9531 0
+D1
+~
+~
+0 -1 9532 0
+D2
+~
+~
+0 -1 9539 0
+D3
+~
+~
+0 -1 9657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9539
+Corso del Cavaliere~
+Il paesaggio del lato ovest della citta' ti rattrista un po', solo vecchi
+palazzi ed edifici abbandonati, quindi provi a guardare sul lato est del
+vale, ma sopra le teste della gente, spunta solo qualche tetto qua e la.
+Sbuffando riprendi a camminare, fissando incuriosito il castello al
+centro della capitale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9538 0
+D1
+~
+~
+0 -1 9533 0
+D2
+~
+~
+0 -1 9540 0
+D3
+La Zecca Reale
+~
+~
+0 0 9774 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9540
+Corso del Cavaliere~
+Mentre osservi la bellezza e la maestosita' del largo viale in cui ti
+trovi, lo sguardo ti cade sulla parte ovest della citta'. In quella
+zona vedi solo qualche edificio sporadico, ancora attivo, per il resto
+vedi solo palazzi abbandonati e grandi piazzali vuoti. Un viale
+secondario entra nella zona desolata a ovest.
+~
+95 0 0
+D0
+~
+~
+0 -1 9539 0
+D1
+~
+~
+0 -1 9534 0
+D2
+~
+~
+0 -1 9541 0
+D3
+~
+~
+0 -1 9586 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9541
+Corso del Cavaliere~
+Il paesaggio del lato ovest della citta' ti rattrista un po', solo vecchi
+palazzi ed edifici abbandonati, quindi provi a guardare sul lato est del
+vale, ma sopra le teste della gente, spunta solo qualche tetto qua e la.
+Sbuffando riprendi a camminare, fissando incuriosito il castello al
+centro della capitale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9540 0
+D1
+~
+~
+0 -1 9535 0
+D2
+~
+~
+0 -1 9542 0
+D3
+~
+~
+0 -1 9658 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9542
+Corso del Cavaliere~
+Mentre osservi la bellezza e la maestosita' del largo viale in cui ti
+trovi, lo sguardo ti cade sulla parte ovest della citta'. In quella
+zona vedi solo qualche edificio sporadico, ancora attivo, per il resto
+vedi solo palazzi abbandonati e grandi piazzali vuoti. Ti chiedi a 
+cosa sia riservata quella zona.. non che te ne importi piu' di tanto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9541 0
+D1
+~
+~
+0 -1 9536 0
+D2
+~
+~
+0 -1 9543 0
+D3
+~
+~
+0 0 9835 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9543
+Corso del Cavaliere~
+Il paesaggio del lato ovest della citta' ti rattrista un po', solo vecchi
+palazzi ed edifici abbandonati, quindi provi a guardare sul lato est del
+vale, ma sopra le teste della gente, spunta solo qualche tetto qua e la.
+Sbuffando riprendi a camminare, fissando incuriosito il castello al
+centro della capitale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9542 0
+D1
+~
+~
+0 -1 9537 0
+D2
+~
+~
+0 -1 9544 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9544
+La Piazza della Conoscenza~
+Ti trovi in una piazza piastrellata in marmo rosa, che conduce al viale
+del cavaliere e alla reggia di Re Feanor. Hai lati della piazza noti delle 
+statue di re e condottieri di ere passate, davvero di ottima fattura. Al 
+contrario degli altri viali, qui regna la quiete e il silenzio, anche se 
+piu' della pace, la sensazione e' come della calma prima della tempesta.
+~
+95 0 0
+D1
+~
+~
+0 -1 9537 0
+D2
+~
+~
+0 0 9700 0
+D3
+~
+~
+0 -1 9543 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9545
+La Volta Ovest~
+Sei sotto l'ampia volta di pietra dell'entrata ovest. Hai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmurra. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.~
+95 0 0
+D1
+~
+~
+0 -1 9547 0
+D2
+~
+~
+0 -1 9546 0
+D3
+~
+~
+0 0 2184850 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9546
+La Volta Ovest~
+Sei sotto l'ampia volta di pietra dell'entrata ovest. Hai lati dell'arco 
+si alzano due torri di pietra, sorvegliate notte e giorno dallo sguardo
+attento delle guardie di Cimmurra. La tua attenzione viene attratta 
+dalle numerose bandiere che sventolano alte sopra le mura, su tutte
+e presente lo stemma del regno di Tolnedra.
+~
+95 0 0
+D0
+~
+~
+0 -1 9545 0
+D1
+~
+~
+0 -1 9553 0
+D3
+~
+~
+0 0 2184950 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9547
+Corso del Cavaliere~
+Mentre osservi la bellezza e la maestosita' del largo viale in cui ti
+trovi, lo sguardo ti cade sulla parte nord della citta'. In quella
+zona vedi solo qualche edificio sporadico, ancora attivo, per il resto
+vedi solo palazzi abbandonati e grandi piazzali vuoti. Ti chiedi a 
+cosa sia riservata quella zona.. non che te ne importi piu' di tanto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9548 0
+D2
+~
+~
+0 -1 9553 0
+D3
+~
+~
+0 -1 9545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9548
+Corso del Cavaliere~
+Il paesaggio del lato nord della citta' ti rattrista un po', solo vecchi
+palazzi ed edifici abbandonati, quindi provi a guardare sul lato sud del
+vale, ma sopra le teste della gente, spunta solo qualche tetto qua e la.
+Sbuffando riprendi a camminare, fissando incuriosito il castello al
+centro della capitale.
+~
+95 0 0
+D1
+~
+~
+0 -1 9549 0
+D2
+~
+~
+0 -1 9554 0
+D3
+~
+~
+0 -1 9547 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9549
+Corso del Cavaliere~
+Mentre osservi la bellezza e la maestosita' del largo viale in cui ti
+trovi, lo sguardo ti cade sulla parte nord della citta'. In quella
+zona vedi solo qualche edificio sporadico, ancora attivo, per il resto
+vedi solo palazzi abbandonati e grandi piazzali vuoti. Un viale
+secondario entra nella zona desolata a nord.
+~
+95 0 0
+D0
+~
+~
+0 -1 9598 0
+D1
+~
+~
+0 -1 9550 0
+D2
+~
+~
+0 -1 9555 0
+D3
+~
+~
+0 -1 9548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9550
+Corso del Cavaliere~
+Il paesaggio del lato nord della citta' ti rattrista un po', solo vecchi
+palazzi ed edifici abbandonati, quindi provi a guardare sul lato sud del
+vale, ma sopra le teste della gente, spunta solo qualche tetto qua e la.
+Sbuffando riprendi a camminare, fissando incuriosito il castello al
+centro della capitale.
+~
+95 0 0
+D1
+~
+~
+0 -1 9551 0
+D2
+~
+~
+0 -1 9556 0
+D3
+~
+~
+0 -1 9549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9551
+Corso del Cavaliere~
+Mentre osservi la bellezza e la maestosita' del largo viale in cui ti
+trovi, lo sguardo ti cade sulla parte nord della citta'. In quella
+zona vedi solo qualche edificio sporadico, ancora attivo, per il resto
+vedi solo palazzi abbandonati e grandi piazzali vuoti. Ti chiedi a 
+cosa sia riservata quella zona.. non che te ne importi piu' di tanto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9552 0
+D2
+~
+~
+0 -1 9557 0
+D3
+~
+~
+0 -1 9550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9552
+Corso del Cavaliere~
+Il paesaggio del lato nord della citta' ti rattrista un po', solo vecchi
+palazzi ed edifici abbandonati, quindi provi a guardare sul lato sud del
+vale, ma sopra le teste della gente, spunta solo qualche tetto qua e la.
+Sbuffando riprendi a camminare, fissando incuriosito il castello al
+centro della capitale.
+~
+95 0 0
+D1
+~
+~
+0 -1 9559 0
+D2
+~
+~
+0 -1 9558 0
+D3
+~
+~
+0 -1 9551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9553
+Corso del Cavaliere~
+Ti trovi nel lato sud del grande e famoso Corso del Cavaliere, a est
+riesci a vedere il grande castello di re Feanor mentre a ovest molto vicino
+vedi la porta che ti conduce fuori da Cimmurra. Osservando gli edifici
+capisci che la zona sud della citta' e' stata riservata alle grandi
+costruzioni, proprio accanto a te vedi il grande "Arboreto", la maggiore
+serra di Cimmurra.~
+95 0 0
+D0
+~
+~
+0 -1 9547 0
+D1
+~
+~
+0 -1 9554 0
+D2
+~
+~
+0 -1 9668 0
+D3
+~
+~
+0 -1 9546 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9554
+Corso del Cavaliere~
+Ti guardi intorno, un po' spaesato, in questo immenso viale, le facce
+dei viaggiatori intorno a te non sembrano molto rassicuranti, mercenari,
+mercanti, avventurieri.. un po' come in tutte le citta'. Al momento ti
+trovi nel lato sud del viale, sul lato della stada puoi vedere imponenti
+costruzioni come l'Arboreto, mentre sull'altro lato vedi la zona desolata.
+~
+95 0 0
+D0
+~
+~
+0 -1 9548 0
+D1
+~
+~
+0 -1 9555 0
+D3
+~
+~
+0 -1 9553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9555
+Corso del Cavaliere~
+Ti trovi nel lato sud del grande e famoso Corso del Cavaliere, a est
+riesci a vedere il grande castello di re Feanor mentre a ovest molto vicino
+vedi la porta che ti conduce fuori da Cimmurra. Osservando gli edifici
+capisci che la zona sud della citta' e' stata riservata alle grandi
+costruzioni, proprio accanto a te vedi il grande "Arboreto", la maggiore
+serra di Cimmurra. Un viale secondario si addentra nella zona sud.
+~
+95 0 0
+D0
+~
+~
+0 -1 9549 0
+D1
+~
+~
+0 -1 9556 0
+D2
+~
+~
+0 -1 9599 0
+D3
+~
+~
+0 -1 9554 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9556
+Corso del Cavaliere~
+Ti guardi intorno, un po' spaesato, in questo immenso viale, le facce
+dei viaggiatori intorno a te non sembrano molto rassicuranti, mercenari,
+mercanti, avventurieri.. un po' come in tutte le citta'. Al momento ti
+trovi nel lato sud del viale, sul lato della stada puoi vedere imponenti
+costruzioni come il Lago, mentre sull'altro lato vedi la zona desolata.
+~
+95 0 0
+D0
+~
+~
+0 -1 9550 0
+D1
+~
+~
+0 -1 9557 0
+D3
+~
+~
+0 -1 9555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9557
+Corso del Cavaliere~
+Ti trovi nel lato sud del grande e famoso Corso del Cavaliere, a est
+riesci a vedere il grande castello di re Feanor mentre a ovest molto vicino
+vedi la porta che ti conduce fuori da Cimmurra. Osservando gli edifici
+capisci che la zona sud della citta' e' stata riservata alle grandi
+costruzioni, propio accanto a te vedi il rinomato "Lago Interno" un bacino
+artificiale.
+~
+95 0 0
+D0
+~
+~
+0 -1 9551 0
+D1
+~
+~
+0 -1 9558 0
+D2
+~
+~
+0 -1 9664 0
+D3
+~
+~
+0 -1 9556 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9558
+Corso del Cavaliere~
+Ti guardi intorno, un po' spaesato, in questo immenso viale, le facce
+dei viaggiatori intorno a te non sembrano molto rassicuranti, mercenari,
+mercanti, avventurieri.. un po' come in tutte le citta'. Al momento ti
+trovi nel lato sud del viale, sul lato della stada puoi vedere imponenti
+costruzioni come il Lago, mentre sull'altro lato vedi la zona desolata.
+~
+95 0 0
+D0
+~
+~
+0 -1 9552 0
+D1
+~
+~
+0 -1 9559 0
+D3
+~
+~
+0 -1 9557 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9559
+La Piazza dell'Astuzia~
+Ti trovi in una piazza piastrellata in marmo rosa, che conduce al viale
+del cavaliere e alla reggia di Re Feanor. Ai lati della piazza noti delle 
+statue di re e condottieri di ere passate, davvero di ottima fattura. Al 
+contrario degli altri viali, qui regna la quiete e il silenzio, anche se 
+piu' della pace, la sensazione e' come della calma prima della tempesta.
+~
+95 0 0
+D0
+~
+~
+0 -1 9552 0
+D1
+~
+~
+0 0 9700 0
+D2
+~
+~
+0 -1 9558 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9560
+Via dei Mercanti~
+Carri e muli carichi di borse sfilano lungo la via trascinati dai loro
+padroni. Tutto intorno a te e' coperto da bancarelle e negozzi di vario
+tipo che vendono le piu' disparate mercanzie. Ti trovi nella zona 
+commerciale di Cimmurra, se cerchi qualcosa o devi vendere le tue 
+merci, sei arrivato nel posto giusto.~
+95 0 0
+D0
+~
+~
+0 -1 9785 0
+D1
+~
+~
+0 -1 9561 0
+D2
+~
+~
+0 -1 9615 0
+D3
+~
+~
+0 -1 9506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9561
+Via dei Mercanti~
+Questa zona e' una delle parti vitali della capitale, infatti ti trovi
+nella parte commerciale, qui puoi concludere affari con mercanti provenienti
+da tutti i regni della Daresia. Alzando lo sguardo al cielo intravedi le
+guglie del nero castello del Re, fare capolino dei tetti piu' bassi.
+~
+95 0 0
+D1
+~
+~
+0 -1 9562 0
+D3
+~
+~
+0 -1 9560 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9562
+Via dei Mercanti~
+Carri e muli carichi di borse sfilano lungo la via trascinati dai loro
+padroni. Tutto intorno a te e' coperto da bancarelle e negozzi di vario
+tipo che vendono le piu' disparate mercanzie. Ti trovi nella zona 
+commerciale di Cimmurra, se cerchi qualcosa o devi vendere le tue 
+merci, sei arrivato nel posto giusto.~
+95 0 0
+D1
+~
+~
+0 -1 9563 0
+D3
+~
+~
+0 -1 9561 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9563
+Via dei Mercanti~
+Camminando nella folla sei arrivato ad un crocevia. Le bancarelle si
+fanno da parte per lasciare spazio a una piccola piazzetta, dove
+vedi una piccola folla che tratta i prezzi delle merci. La folla ti
+impedisce di guardare in fondo alle vie, ma il tuo istinto al momento
+ti consiglia di dare un occhio alla tua borsa... non si sa mai.
+~
+95 0 0
+D0
+~
+~
+0 -1 9564 0
+D1
+~
+~
+0 -1 9570 0
+D2
+~
+~
+0 -1 9567 0
+D3
+~
+~
+0 -1 9562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9564
+Via dei Mercanti~
+Carri e muli carichi di borse sfilano lungo la via trascinati dai loro
+padroni. Tutto intorno a te e' coperto da bancarelle e negozzi di vario
+tipo che vendono le piu' disparate mercanzie. Ti trovi nella zona 
+commerciale di Cimmurra, se cerchi qualcosa o devi vendere le tue 
+merci, sei arrivato nel posto giusto.~
+95 0 0
+D0
+~
+~
+0 -1 9565 0
+D2
+~
+~
+0 -1 9563 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9565
+Via dei Mercanti~
+Questa zona e' una delle parti vitali della capitale, infatti ti trovi
+nella parte commerciale, qui puoi concludere affari con mercanti provenienti
+da tutti i regni della Daresia. Alzando lo sguardo al cielo intravedi le
+guglie del nero castello del Re, fare capolino dei tetti piu' bassi.
+~
+95 0 0
+D0
+~
+~
+0 -1 9566 0
+D2
+~
+~
+0 -1 9564 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9566
+Via dei Mercanti~
+Carri e muli carichi di borse sfilano lungo la via trascinati dai loro
+padroni. Tutto intorno a te e' coperto da bancarelle e negozzi di vario
+tipo che vendono le piu' disparate mercanzie. Ti trovi nella zona 
+commerciale di Cimmurra, se cerchi qualcosa o devi vendere le tue 
+merci, sei arrivato nel posto giusto.~
+95 0 0
+D0
+~
+~
+0 -1 9519 0
+D2
+~
+~
+0 -1 9565 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9567
+Via dei Mercanti~
+Questa zona e' una delle parti vitali della capitale, infatti ti trovi
+nella parte commerciale, qui puoi concludere affari con mercanti provenienti
+da tutti i regni della Daresia. Alzando lo sguardo al cielo intravedi le
+guglie del nero castello del Re, fare capolino dei tetti piu' bassi.
+~
+95 0 0
+D0
+~
+~
+0 -1 9563 0
+D1
+~
+~
+0 -1 9620 0
+D2
+~
+~
+0 -1 9568 0
+D3
+~
+~
+0 -1 9617 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9568
+Via dei Mercanti~
+Carri e muli carichi di borse sfilano lungo la via trascinati dai loro
+padroni. Tutto intorno a te e' coperto da bancarelle e negozzi di vario
+tipo che vendono le piu' disparate mercanzie. Ti trovi nella zona 
+commerciale di Cimmurra, se cerchi qualcosa o devi vendere le tue 
+merci, sei arrivato nel posto giusto.~
+95 0 0
+D0
+~
+~
+0 -1 9567 0
+D2
+~
+~
+0 -1 9569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9569
+Via dei Mercanti~
+Questa zona e' una delle parti vitali della capitale, infatti ti trovi
+nella parte commerciale, qui puoi concludere affari con mercanti provenienti
+da tutti i regni della Daresia. Alzando lo sguardo al cielo intravedi le
+guglie del nero castello del Re, fare capolino dei tetti piu' bassi.
+~
+95 0 0
+D0
+~
+~
+0 -1 9568 0
+D1
+Nothing.
+~
+~
+0 0 2185054 0
+D3
+~
+~
+0 -1 9619 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9570
+Via dei Mercanti~
+Questa zona e' una delle parti vitali della capitale, infatti ti trovi
+nella parte commerciale, qui puoi concludere affari con mercanti provenienti
+da tutti i regni della Daresia. Alzando lo sguardo al cielo intravedi le
+guglie del nero castello del Re, fare capolino dei tetti piu' bassi.
+~
+95 0 0
+D1
+~
+~
+0 -1 9571 0
+D3
+~
+~
+0 -1 9563 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9571
+Via dei Mercanti~
+Carri e muli carichi di borse sfilano lungo la via trascinati dai loro
+padroni. Tutto intorno a te e' coperto da bancarelle e negozzi di vario
+tipo che vendono le piu' disparate mercanzie. Ti trovi nella zona 
+commerciale di Cimmurra, se cerchi qualcosa o devi vendere le tue 
+merci, sei arrivato nel posto giusto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9572 0
+D3
+~
+~
+0 -1 9570 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9572
+Via dei Mercanti~
+Questa zona e' una delle parti vitali della capitale, infatti ti trovi
+nella parte commerciale, qui puoi concludere affari con mercanti provenienti
+da tutti i regni della Daresia. Alzando lo sguardo al cielo intravedi le
+guglie del nero castello del Re, fare capolino dei tetti piu' bassi.
+~
+95 0 0
+D0
+~
+~
+0 -1 9621 0
+D2
+~
+~
+0 0 2185054 0
+D3
+~
+~
+0 -1 9571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9573
+Via delle Gilde~
+Antichi palazzi, costruiti in epoche precedenti, e larghe insegne con
+gli stemmi delle scuole piu' rinomate, fanno bella mostra un po' tutto
+intorno a te. Davanti a molte porte vedi le guardie giovani e scattanti
+delle confraternite, che in silenzio osservano le persone che camminano
+per la via.
+~
+95 0 0
+D0
+~
+~
+0 -1 9574 0
+D1
+~
+~
+0 -1 9640 0
+D2
+~
+~
+0 -1 9525 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9574
+Via delle Gilde~
+Intorno a te non vedi camminarti nelle vicinaze ne mercanti ne gente 
+comune, ma solo avventurieri sia maghi che guerrieri, che si muovono
+in silenzio per le antiche via, rispettosi di secoli di tradizioni e 
+storia che il loro addestramento gli ha insegnato. Ti senti un po' a
+disagio, ma nessuno fa caso a te che continui a camminare.
+~
+95 0 0
+D0
+~
+~
+0 -1 9575 0
+D1
+~
+~
+0 0 9683 0
+D2
+~
+~
+0 -1 9573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9575
+Via delle Gilde~
+Antichi palazzi, costruiti in epoche precedenti, e larghe insegne con
+gli stemmi delle scuole piu' rinomate, fanno bella mostra un po' tutto
+intorno a te. Davanti a molte porte vedi le guardie giovani e scattanti
+delle confraternite, che in silenzio osservano le persone che camminano
+per la via.
+~
+95 0 0
+D0
+~
+~
+0 -1 9576 0
+D2
+~
+~
+0 -1 9574 0
+D3
+~
+~
+0 -1 9652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9576
+Via delle Gilde~
+I palazzi qui si allargano per fare spazio ad una piazzetta che fa da 
+incrocio per le quattro vie che si diramano da essa. Per il resto puoi
+vedere ben pochi intorno a te, la gente ti impedisce di vedere nei lunghi
+viali, e i tetti dei palazzi ti coprono il panorame fuori dalle mura
+della citta'.~
+95 0 0
+D0
+~
+~
+0 -1 9577 0
+D1
+~
+~
+0 -1 9582 0
+D2
+~
+~
+0 -1 9575 0
+D3
+~
+~
+0 -1 9583 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9577
+Via delle Gilde~
+Antichi palazzi, costruiti in epoche precedenti, e larghe insegne con
+gli stemmi delle scuole piu' rinomate, fanno bella mostra un po' tutto
+intorno a te. Davanti a molte porte vedi le guardie giovani e scattanti
+delle confraternite, che in silenzio osservano le persone che camminano
+per la via.
+~
+95 0 0
+D0
+~
+~
+0 -1 9578 0
+D2
+~
+~
+0 -1 9576 0
+D3
+~
+~
+0 -1 9655 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9578
+Via delle Gilde~
+Intorno a te non vedi camminarti nelle vicinaze ne mercanti ne gente 
+comune, ma solo avventurieri sia maghi che guerrieri, che si muovono
+in silenzio per le antiche via, rispettosi di secoli di tradizioni e 
+storia che il loro addestramento gli ha insegnato. Ti senti un po' a
+disagio, ma nessuno fa caso a te che continui a camminare.
+~
+95 0 0
+D0
+~
+~
+0 -1 9579 0
+D2
+~
+~
+0 -1 9577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9579
+Via delle Gilde~
+Antichi palazzi, costruiti in epoche precedenti, e larghe insegne con
+gli stemmi delle scuole piu' rinomate, fanno bella mostra un po' tutto
+intorno a te. Davanti a molte porte vedi le guardie giovani e scattanti
+delle confraternite, che in silenzio osservano le persone che camminano
+per la via.
+~
+95 0 0
+D1
+~
+~
+0 0 2184754 0
+D2
+~
+~
+0 -1 9578 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9580
+Via delle Gilde~
+Intorno a te non vedi camminarti nelle vicinaze ne mercanti ne gente 
+comune, ma solo avventurieri sia maghi che guerrieri, che si muovono
+in silenzio per le antiche via, rispettosi di secoli di tradizioni e 
+storia che il loro addestramento gli ha insegnato. Ti senti un po' a
+disagio, ma nessuno fa caso a te che continui a camminare.
+~
+95 0 0
+D0
+~
+~
+0 0 2184754 0
+D3
+~
+~
+0 -1 9581 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9581
+Via delle Gilde~
+Antichi palazzi, costruiti in epoche precedenti, e larghe insegne con
+gli stemmi delle scuole piu' rinomate, fanno bella mostra un po' tutto
+intorno a te. Davanti a molte porte vedi le guardie giovani e scattanti
+delle confraternite, che in silenzio osservano le persone che camminano
+per la via.
+~
+95 0 0
+D1
+~
+~
+0 -1 9580 0
+D3
+~
+~
+0 -1 9582 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9582
+Via delle Gilde~
+Intorno a te non vedi camminarti nelle vicinaze ne mercanti ne gente 
+comune, ma solo avventurieri sia maghi che guerrieri, che si muovono
+in silenzio per le antiche via, rispettosi di secoli di tradizioni e 
+storia che il loro addestramento gli ha insegnato. Ti senti un po' a
+disagio, ma nessuno fa caso a te che continui a camminare.
+~
+95 0 0
+D0
+~
+~
+0 -1 9643 0
+D1
+~
+~
+0 -1 9581 0
+D3
+~
+~
+0 -1 9576 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9583
+Via delle Gilde~
+Intorno a te non vedi camminarti nelle vicinaze ne mercanti ne gente 
+comune, ma solo avventurieri sia maghi che guerrieri, che si muovono
+in silenzio per le antiche via, rispettosi di secoli di tradizioni e 
+storia che il loro addestramento gli ha insegnato. Ti senti un po' a
+disagio, ma nessuno fa caso a te che continui a camminare.
+~
+95 0 0
+D0
+~
+~
+0 -1 9655 0
+D1
+~
+~
+0 -1 9576 0
+D3
+~
+~
+0 -1 9584 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9584
+Via delle Gilde~
+Antichi palazzi, costruiti in epoche precedenti, e larghe insegne con
+gli stemmi delle scuole piu' rinomate, fanno bella mostra un po' tutto
+intorno a te. Davanti a molte porte vedi le guardie giovani e scattanti
+delle confraternite, che in silenzio osservano le persone che camminano
+per la via.
+~
+95 0 0
+D0
+~
+~
+0 -1 9646 0
+D1
+~
+~
+0 -1 9583 0
+D3
+~
+~
+0 -1 9585 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9585
+Via delle Gilde~
+Intorno a te non vedi camminarti nelle vicinaze ne mercanti ne gente 
+comune, ma solo avventurieri sia maghi che guerrieri, che si muovono
+in silenzio per le antiche via, rispettosi di secoli di tradizioni e 
+storia che il loro addestramento gli ha insegnato. Ti senti un po' a
+disagio, ma nessuno fa caso a te che continui a camminare.
+~
+95 0 0
+D0
+~
+~
+0 -1 9656 0
+D1
+~
+~
+0 -1 9584 0
+D2
+~
+~
+0 -1 9649 0
+D3
+~
+~
+0 -1 9534 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9586
+Via del Drago~
+La zona in cui stai camminando sembra la piu' triste e vuota di tutta
+Cimmurra, vedi solo qualche palazzo abbandonato qua e la. Il valore
+della terra qui deve essere molto basso e ne convieni che sarebbe un
+posto ideale per avviare un negozio o per costruire una casa, ma
+per il resto rimane solo un lungo viale semideserto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9540 0
+D3
+~
+~
+0 -1 9587 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9587
+Via del Drago~
+Guardandoti intorno, noti che della folla che ti aveva accompaganto 
+in tutte le altre vie, qui non ve ne e' traccia, al massimo vedi qualche 
+barbone appoggiato ad un muro. In effetti questa zona e' piuttosto
+vuota e scarna, benche il lastricato della strada sia sempre nuovo ed
+evidentemente ben tenuto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9586 0
+D3
+~
+~
+0 -1 9588 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9588
+Via del Drago~
+La zona in cui stai camminando sembra la piu' triste e vuota di tutta
+Cimmurra, vedi solo qualche palazzo abbandonato qua e la. Il valore
+della terra qui deve essere molto basso e ne convieni che sarebbe un
+posto ideale per avviare un negozio o per costruire una casa, ma
+per il resto rimane solo un lungo viale semideserto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9587 0
+D3
+~
+~
+0 -1 9589 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9589
+Via del Drago~
+Sei arrivato ad un incrocio, qui la sensazione di vuoto e' ancora piu'
+pronunciata. Alzando lo sguardo, vedi l'ombra del nero palazzo di Re
+Feanor che cade su di te come un avvoltoio, un piccolo brivido ti 
+scuote, e riprendi ad osservare le varie strade che ti si parano davanti,
+tutte uguali... e tutte vuote...
+~
+95 0 0
+D0
+~
+~
+0 -1 9595 0
+D1
+~
+~
+0 -1 9588 0
+D2
+~
+~
+0 -1 9596 0
+D3
+~
+~
+0 -1 9590 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9590
+Via del Drago~
+La zona in cui stai camminando sembra la piu' triste e vuota di tutta
+Cimmurra, vedi solo qualche palazzo abbandonato qua e la. Il valore
+della terra qui deve essere molto basso e ne convieni che sarebbe un
+posto ideale per avviare un negozio o per costruire una casa, ma
+per il resto rimane solo un lungo viale semideserto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9589 0
+D3
+~
+~
+0 -1 9591 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9591
+Via del Drago~
+Guardandoti intorno, noti che della folla che ti aveva accompaganto 
+in tutte le altre vie, qui non ve ne e' traccia, al massimo vedi qualche 
+barbone appoggiato ad un muro. In effetti questa zona e' piuttosto
+vuota e scarna, benche il lastricato della strada sia sempre nuovo ed
+evidentemente ben tenuto.
+~
+95 0 0
+D1
+~
+~
+0 -1 9590 0
+D2
+Una porta di legno.
+~
+porta~
+1 358350 40308 135
+D3
+~
+~
+0 -1 9592 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9592
+Via del Drago~
+La zona in cui stai camminando sembra la piu' triste e vuota di tutta
+Cimmurra, vedi solo qualche palazzo abbandonato qua e la. Il valore
+della terra qui deve essere molto basso e ne convieni che sarebbe un
+posto ideale per avviare un negozio o per costruire una casa, ma
+per il resto rimane solo un lungo viale semideserto.
+~
+95 0 0
+D0
+~
+~
+0 0 2184751 0
+D1
+~
+~
+0 -1 9591 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9593
+Via del Drago~
+Guardandoti intorno, noti che della folla che ti aveva accompaganto 
+in tutte le altre vie, qui non ve ne e' traccia, al massimo vedi qualche 
+barbone appoggiato ad un muro. In effetti questa zona e' piuttosto
+vuota e scarna, benche il lastricato della strada sia sempre nuovo ed
+evidentemente ben tenuto.
+~
+95 0 0
+D2
+~
+~
+0 -1 9594 0
+D3
+Nothing.
+~
+~
+0 0 2184751 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9594
+Via del Drago~
+La zona in cui stai camminando sembra la piu' triste e vuota di tutta
+Cimmurra, vedi solo qualche palazzo abbandonato qua e la. Il valore
+della terra qui deve essere molto basso e ne convieni che sarebbe un
+posto ideale per avviare un negozio o per costruire una casa, ma
+per il resto rimane solo un lungo viale semideserto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9593 0
+D2
+~
+~
+0 -1 9595 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9595
+Via del Drago~
+Guardandoti intorno, noti che della folla che ti aveva accompaganto 
+in tutte le altre vie, qui non ve ne e' traccia, al massimo vedi qualche 
+barbone appoggiato ad un muro. In effetti questa zona e' piuttosto
+vuota e scarna, benche il lastricato della strada sia sempre nuovo ed
+evidentemente ben tenuto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9594 0
+D2
+~
+~
+0 -1 9589 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9596
+Via del Drago~
+Guardandoti intorno, noti che della folla che ti aveva accompaganto 
+in tutte le altre vie, qui non ve ne e' traccia, al massimo vedi qualche 
+barbone appoggiato ad un muro. In effetti questa zona e' piuttosto
+vuota e scarna, benche il lastricato della strada sia sempre nuovo ed
+evidentemente ben tenuto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9589 0
+D2
+~
+~
+0 -1 9597 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9597
+Via del Drago~
+La zona in cui stai camminando sembra la piu' triste e vuota di tutta
+Cimmurra, vedi solo qualche palazzo abbandonato qua e la. Il valore
+della terra qui deve essere molto basso e ne convieni che sarebbe un
+posto ideale per avviare un negozio o per costruire una casa, ma
+per il resto rimane solo un lungo viale semideserto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9596 0
+D2
+~
+~
+0 -1 9598 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9598
+Via del Drago~
+Guardandoti intorno, noti che della folla che ti aveva accompaganto 
+in tutte le altre vie, qui non ve ne e' traccia, al massimo vedi qualche 
+barbone appoggiato ad un muro. In effetti questa zona e' piuttosto
+vuota e scarna, benche il lastricato della strada sia sempre nuovo ed
+evidentemente ben tenuto.
+~
+95 0 0
+D0
+~
+~
+0 -1 9597 0
+D2
+~
+~
+0 -1 9549 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9599
+Via dei Mercenari~
+Ti trovi in una via secondaria, e puoi vedere chiaramente il flusso
+di gente che arriva dal Corso dei Cavalieri. Intondo a te si trovano
+giganteschi edifici ,e pochissime abitazioni. Puoi vedere chiaramente
+il Colosseo, il Lago, e una grande serra, tutti edifici regalati da
+Re Feanor alla popolazione, regalati logicamente dopo la riscossione 
+delle tasse...
+~
+95 0 0
+D0
+~
+~
+0 -1 9555 0
+D2
+~
+~
+0 -1 9600 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9600
+Via dei Mercenari~
+Il sole non riesce a raggiungere la strade, infatti noti che la via
+dove cammini e' completamente all'ombra dei grandi edifici che si 
+trovano attorno. Questa zona e' riservata agli edifici di uso pubblico,
+e al mantenimento dell'ordine come il grande e temuto Colosseo, finire
+li dentro per una pena significa morire.
+~
+95 0 0
+D0
+~
+~
+0 -1 9599 0
+D1
+~
+~
+0 -1 9665 0
+D2
+~
+~
+0 -1 9601 0
+D3
+~
+~
+0 -1 9667 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9601
+Via dei Mercenari~
+Ti trovi in una via secondaria, e puoi vedere chiaramente il flusso
+di gente che arriva dal Corso dei Cavalieri. Intondo a te si trovano
+giganteschi edifici ,e pochissime abitazioni. Puoi vedere chiaramente
+il Colosseo, il Lago, e una grande serra, tutti edifici regalati da
+Re Feanor alla popolazione, regalati logicamente dopo la riscossione 
+delle tasse...
+~
+95 0 0
+D0
+~
+~
+0 -1 9600 0
+D2
+~
+~
+0 -1 9602 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9602
+Via dei Mercenari~
+I palazzi qui si allargano per fare spazio ad una piazzetta che fa da 
+incrocio per le quattro vie che si diramano da essa. Per il resto puoi
+vedere ben pochi intorno a te, la gente ti impedisce di vedere nei lunghi
+viali, e i tetti dei palazzi ti coprono il panorame fuori dalle mura
+della citta'.
+~
+95 0 0
+D0
+~
+~
+0 -1 9601 0
+D1
+~
+~
+0 -1 9609 0
+D2
+~
+~
+0 -1 9603 0
+D3
+~
+~
+0 -1 9608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9603
+Via dei Mercenari~
+Ti trovi in una via secondaria, e puoi vedere chiaramente il flusso
+di gente che arriva dal Corso dei Cavalieri. Intondo a te si trovano
+giganteschi edifici ,e pochissime abitazioni. Puoi vedere chiaramente
+il Colosseo, il Lago, e una grande serra, tutti edifici regalati da
+Re Feanor alla popolazione, regalati logicamente dopo la riscossione 
+delle tasse...
+~
+95 0 0
+D0
+~
+~
+0 -1 9602 0
+D2
+~
+~
+0 -1 9604 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9604
+Via dei Mercenari~
+Il sole non riesce a raggiungere la strade, infatti noti che la via
+dove cammini e' completamente all'ombra dei grandi edifici che si 
+trovano attorno. Questa zona e' riservata agli edifici di uso pubblico,
+e al mantenimento dell'ordine come il grande e temuto Colosseo, finire
+li dentro per una pena significa morire.
+~
+95 0 0
+D0
+~
+~
+0 -1 9603 0
+D2
+~
+~
+0 -1 9605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9605
+Via dei Mercenari~
+Ti trovi in una via secondaria, e puoi vedere chiaramente il flusso
+di gente che arriva dal Corso dei Cavalieri. Intondo a te si trovano
+giganteschi edifici ,e pochissime abitazioni. Puoi vedere chiaramente
+il Colosseo, il Lago, e una grande serra, tutti edifici regalati da
+Re Feanor alla popolazione, regalati logicamente dopo la riscossione 
+delle tasse...
+~
+95 0 0
+D0
+~
+~
+0 -1 9604 0
+D3
+~
+~
+0 0 2185051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9606
+Via dei Mercenari~
+Il sole non riesce a raggiungere la strade, infatti noti che la via
+dove cammini e' completamente all'ombra dei grandi edifici che si 
+trovano attorno. Questa zona e' riservata agli edifici di uso pubblico,
+e al mantenimento dell'ordine come il grande e temuto Colosseo, finire
+li dentro per una pena significa morire.
+~
+95 0 0
+D1
+~
+~
+0 -1 9607 0
+D2
+~
+~
+0 0 2185051 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9607
+Via dei Mercenari~
+Ti trovi in una via secondaria, e puoi vedere chiaramente il flusso
+di gente che arriva dal Corso dei Cavalieri. Intondo a te si trovano
+giganteschi edifici ,e pochissime abitazioni. Puoi vedere chiaramente
+il Colosseo, il Lago, e una grande serra, tutti edifici regalati da
+Re Feanor alla popolazione, regalati logicamente dopo la riscossione 
+delle tasse...
+~
+95 0 0
+D0
+~
+~
+0 -1 9669 0
+D1
+~
+~
+0 -1 9608 0
+D3
+~
+~
+0 -1 9606 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9608
+Via dei Mercenari~
+Il sole non riesce a raggiungere la strade, infatti noti che la via
+dove cammini e' completamente all'ombra dei grandi edifici che si 
+trovano attorno. Questa zona e' riservata agli edifici di uso pubblico,
+e al mantenimento dell'ordine come il grande e temuto Colosseo, finire
+li dentro per una pena significa morire.
+~
+95 0 0
+D1
+~
+~
+0 -1 9602 0
+D3
+~
+~
+0 -1 9607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9609
+Via dei Mercenari~
+Il sole non riesce a raggiungere la strade, infatti noti che la via
+dove cammini e' completamente all'ombra dei grandi edifici che si 
+trovano attorno. Questa zona e' riservata agli edifici di uso pubblico,
+e al mantenimento dell'ordine come il grande e temuto Colosseo, finire
+li dentro per una pena significa morire.
+~
+95 0 0
+D1
+~
+~
+0 -1 9610 0
+D3
+~
+~
+0 -1 9602 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9610
+Via dei Mercenari~
+Ti trovi in una via secondaria, e puoi vedere chiaramente il flusso
+di gente che arriva dal Corso dei Cavalieri. Intondo a te si trovano
+giganteschi edifici ,e pochissime abitazioni. Puoi vedere chiaramente
+il Colosseo, il Lago, e una grande serra, tutti edifici regalati da
+Re Feanor alla popolazione, regalati logicamente dopo la riscossione 
+delle tasse...
+~
+95 0 0
+D0
+~
+~
+0 -1 9666 0
+D1
+~
+~
+0 -1 9611 0
+D3
+~
+~
+0 -1 9609 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9611
+Via dei Mercenari~
+Il sole non riesce a raggiungere la strade, infatti noti che la via
+dove cammini e' completamente all'ombra dei grandi edifici che si 
+trovano attorno. Questa zona e' riservata agli edifici di uso pubblico,
+e al mantenimento dell'ordine come il grande e temuto Colosseo, finire
+li dentro per una pena significa morire.
+~
+95 0 0
+D1
+~
+~
+0 -1 9507 0
+D3
+~
+~
+0 -1 9610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9612
+L'ammaestratore~
+Una tremenda puzza di cane bagnato ti fa storcere in naso appena entri
+nel negozio di animali. Guardandoti intorni vedi un uomo che svogliatamente
+versa il cibo nelle ciotole di alcuni cani, gli altri animali del 
+negozio aspettano frementi nelle gabbie il loro turno per mangiare.
+
+
+
+&1&b UN CARTELLO e' appeso al muro &0
+
+&1&b Causa cessata attivit il negozio ha chiuso i battenti.
+
+Rivolgersi a Miss Phoenix del &2SON TUTTE BESTIE&1 sempre a nord da questo negozio&0
+~
+95 0 0
+D3
+~
+~
+0 -1 9501 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9613
+La Casa dell'Alcione~
+Appena entri nel negozio vieni osservato dai tipi loschi che gironzolano intorno
+agli articoli esposti. A prima vista sembrano articoli di poco conto e di scarsa utilita'.
+Cianfrusaglie di vario genere rienpiono il locale ma nessuno oggetto sembra interesarti,
+un cartello esposto nel negozio informa: "Per qualsiasi cosa chiedere al negoziante"
+~
+95 8 0
+D2
+~
+~
+0 -1 9614 0
+D3
+~
+~
+0 -1 8504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9614
+La sala dei giochi~
+La sala della taverna, riporta con fedelta' lo stile dalla sala principale,
+ovvero sporco e disordine. A parte i tavolini pieni di avventori l'unico
+gioco che riesci a vedere fare e' "il lancio dell'accetta" che tre giovani
+nani stanno facendo in fondo alla stanza, anche se sembrano litigare
+sul punteggio.
+~
+95 0 0
+D0
+~
+~
+0 -1 9613 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9615
+Il Riposo Eterno~
+Strano nome per una locanda, comunque a parte questo sembra una buona
+locanda. Quello dove ti trovi dovrebbe essere il salone principale,
+davvero arredato con buon gusto, tenendo conto della scarsa qualita'
+del mobilio. Una scala a chiocciola di legno porta hai piani superiori
+dove molto probabilmente vengono affittate le camere.
+~
+95 0 0
+D2
+~
+~
+0 0 8510 0
+D4
+~
+~
+0 -1 9618 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9616
+La Gioielleria~
+Appena dentro noti subbito due guardie private che sorvegliano la 
+porta, entrambe ti guardano con aria diffidente. Intorno a te vedi
+diverse creazioni realizzate con pietre preziose. Un vecchio uomo
+da dietro il bancone si toglie il monocolo e ti guarda con un sorriso,
+ne deduci che si tratti del proprietario.
+
+~
+95 0 0
+D1
+~
+~
+0 0 8504 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9617
+La Banca Centrale~
+Pulita ed ordinata si trova davanti a te in tutto il suo splendore la
+banca centrale di Cimmura. Un lungo banco di legno divide i dipendenti
+dai clienti, e vi e' incisa una frase "Qui si applicano gli interessi
+fissati da Re Feanor, ovvero nessuno". La frase ti lascia un po' 
+interdetto, ma pe gli altri clienti sembra una cosa normale.
+Un &7grande manifesto&0 e' appeso alla parete.
+~
+95 0 0
+E
+manifesto~
+Scritto a mano leggi....
+
+"Per evitare i soliti perdigiono che disturbano i cassieri solo per sapere le
+piu' comuni procedure bancarie, ecco uno schema riassuntivo...
+
+&uComandi&0:
+    &7Deposita <cifra>&0
+    Per depositare i vostri soldi, al sicuro. Potete ritirarli in qualunque
+    delle nostre filiali.
+
+    &7Preleva <cifra>&0
+    Per prelevare denaro dal vostro conto, naturalmente per prenderlo dovete
+    averlo depositato prima... non facciamo i furbi.
+
+    &7Bilancio&0
+    Vi viene fornita dai nostri impiegati, lo stato attuale del vostro conto.
+
+"Mi raccomando depositate i vostri averi da noi, siamo i migliori !"
+
+&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9618
+La reception~
+Una giovane donna dietro al bancone sta riordinando le chiavi delle
+stanze, mentre si e' formata una piccola fila di clienti che aspettano
+di avere una stanza. Se vuoi riposare questo pare il posto giusto, devi
+solo aspettare il tuo turno e chiedere una stanza. La luce delle
+fiaccole appese alle pareti sembra indurdi un po di sonno.
+~
+95 0 0
+D5
+~
+~
+0 -1 9615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9619
+Un edificio vuoto~
+Le pareti sembra buone e robuste, e una grande finestra da sulla strada,
+per il resto della grande sala puoi solo dire che e' vuota. Molto
+probabilmente puoi comprarlo se hai abbastanza denaro rivolgendoti 
+hai funzionari economici di Cimmurra.
+~
+95 0 0
+D1
+~
+~
+0 -1 9569 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9620
+Il Tuttofare~
+Sei nel negozio piu' sconclusionato che tu abbia mai visto, ci sono
+oggetti di tutti i tipi e per tutti gli usi accatastati un po' ovunque.
+Un grande cartello recita "Qui abbiamo tutto", il problema piu' urgente
+per comprare non e' trovare la merce, ma e' trovare il negoziante in
+questo caos. Un &7grande manifesto&0 e' appeso accanto all'entrata.
+&7Fare list attrezzo per vedere gli attrezzi disponibili&0
+~
+95 274877906944 0
+D3
+~
+~
+0 -1 8505 0
+E
+manifesto~
+"Questo appartiene alla categoria dei negozzi dati in gestione a commercianti
+sotto la supervisione di Re Feanor. Onde evitare confusioni con le procedure
+standard degli altri negozzi a gestione reale, riporto i comandi usabili qui"
+
+&uComandi&0:
+
+    &7"buy <nomeoggetto>"&0
+    Serve per acquistare un oggetto nella lista del venditore.
+
+    &7"value <nomeoggetto>"&0  oppure  &7"valuta <nomeoggetto>"&0
+    Serve per valutare un oggetto che posiedi nell'inventario. In poche
+    parole ti dice il valore di vendita in questo negozio.
+
+    &7"list"&0
+    Visualizza la lista degli oggetti in vendita.
+
+ &uNb)&0 Il parametro "<nomeoggetto>" puo' essere sostituito con il numero che
+      appare nella lista.
+
+&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9621
+Un edificio vuoto~
+Le pareti sembra buone e robuste, e una grande finestra da sulla strada,
+per il resto della grande sala puoi solo dire che e' vuota. Molto
+probabilmente puoi comprarlo se hai abbastanza denaro rivolgendoti 
+hai funzionari economici di Cimmurra.
+~
+95 0 0
+D2
+~
+~
+0 -1 9572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9622
+L'Incudine~
+Un nerboruto negoziante sta sistemando delle lunghe spade in una
+grande rastrelliera attaccata alla parete. Ti guardi intorno e vedi
+che questa armeria e' ben fornita di prodotti fatti da fabbri locali,
+peraltro conosciuti come buoni lavoratori in tutta la Daresia. Le armi
+di Tolnedra sono conosciute ovunque come le piu' letali e resistenti.
+~
+95 0 0
+D0
+~
+~
+0 0 8692 0
+D3
+~
+~
+0 -1 8507 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9623
+L'Antica Quercia~
+Ti trovi in una grande sala molto areata e piena di armadi, tavoli, sedie e mobilio
+vario. L'odore del legno fresco appena lavorato permea l'aria che ti circonda
+dandoti un po fastidio, cosa a cui non sembra fare caso il giovane elfo che lucida
+un grande tavolo di mogano. Tutta la mobilia e ben tenuta ed etichettata con il prezzo
+di vendita. Se cerchi dei mobili sei nel posto giusto.
+~
+95 0 0
+D0
+~
+~
+0 -1 -1 0
+D2
+~
+~
+0 0 8509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9624
+La Pelletteria~
+Appese alle pareti di questa grande sala ci sono diverse pelli stese ad asciugare,
+noti tra esse diversi vestiti gia confezionati e di pregiata fattura.
+In un angolo diversi vestiti un po meno pregiati fanno mucchio, in attesa di 
+qualche compratore meno esigente, potresti trovarci qualcosa di buono frugando.
+~
+95 0 0
+D2
+~
+~
+0 0 8507 0
+D3
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9625
+La corporazione dei &7"Gioiellieri"&0~
+La piccola sala in cui ti trovi e' piena di lunghi tavoli di legno
+massicio, sui quali sono appoggiati numerose lampade magiche.
+Intenti al taglio delle gemme, vedi numerosi lavoratori che cercano
+con perizia di sciupare il meno possibile i preziosi cristalli.
+~
+95 67108864 0
+D1
+~
+~
+0 0 9772 0
+D2
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9626
+La corporazione dei &7"Carpentieri"&0~
+Il pavimento e' coperto da una fitta segatura di legna, sembra quasi di 
+camminare sopra un morbido tappeto, per il resto le pareti della sala
+sono coperte da assi di legno di ogni dimensione e forma, assi che aspettano
+solo mani esperte per essere trasformate in prodotti finiti come mobili o
+armadi.
+~
+95 16777216 0
+D0
+~
+~
+0 -1 -1 0
+D3
+~
+~
+0 0 9772 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9627
+La corporazione dei &7"Fabbri"&0~
+Tonc.. Tonc.. l'icessante martellare del maglio sul ferro incandescente ti
+pare quasi una musica o un ritmo di altri tempi, e ti soffermi ad osservare
+i nerboruti fabbri che incessantemente forgiano il metallo per creare 
+micidiali armi e impenetrabili corrazze. Tra la folla di lavoratori scorgi
+un incudine ancora libera, se vuoi lavorare un po di ferro sei stato fortunato.
+~
+95 4194304 0
+D1
+~
+~
+0 -1 9784 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9628
+La corporazione degli &7"Squadratori"&0~
+La grande sala dove ti trovi e' completamenta ricolma di grossi
+blocchi di pietra, marmo ed altre pietra, tutte ancora da scalpellare
+e ripulire dalle impurita'. Guardando i grandi blocchi ti domandi quanto
+ci vuole per lavorarli e renderli perfettamente squadrati, di sicuro non
+poco, ma per un bravo lavoratore di certo deve essere cosa di tutti i giorni.
+~
+95 134217728 0
+D2
+~
+~
+0 -1 -1 0
+D3
+~
+~
+0 0 9784 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9629
+La Panetteria~
+Ti trovi in una piccola stanza illuminata da grandi torce appese al muro,
+intorno a te vedi grandi sacchi si farina e cereali pronti per essere
+usati per fare fragranti pagnotte e invitanti focacce. Dietro al bancone
+di legno due fornai stanno impastando del pane con il lievito, tra un
+po' saranno pronti ad una nuova infornata.
+~
+95 0 0
+D1
+~
+~
+0 0 8506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9630
+Il Fabbro~
+La grande galleria e piena di manichini che indossano pregiate armature
+complete. Cimmurra e' sempre stata una delle maggiori produttrici di
+armature e' armi fin dal passato, grazie alla grande qualita' delle
+stesse, datagli dalle numerose esperienze in battaglie. Un giovane
+commesso ti guarda, speranzoso di un tuo acquisto.
+~
+95 0 0
+D0
+~
+~
+0 -1 8510 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9631
+La Pergamena~
+Grandi pile di pergamene e reagenti magici si trovano sparsi un po'
+ovunque nel piccolo negozio. Una donna di mezza eta' sta etichetando
+delle pozioni di vario colore, non si accorge nemmeno di te tanto e'
+presa dal suo lavoro. Menrte continui ad osservarti intorno curioso
+vedi anche una bacheca con degli oggetti strani.
+~
+95 0 0
+D2
+~
+~
+0 0 8508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9632
+Il Pirata di Mare~
+Grandi reti da pesca fanno da soffitto al negozio, anche per il resto
+del locale e' perfettamente arridato in stile marinaro, con grandi
+conchiglie e pesci imbalsamati. Vedi una foto appesa al muro di un
+pescatore che tiene in mano un gigantesco mazzugoru. Il negoziante
+sta pigramente guardando fuori dalla porta.
+Un &7grande manifesto&0 e' appeso accanto all'entrata.
+~
+95 0 0
+D0
+~
+~
+0 -1 8509 0
+E
+foto~
+Vedi un giovane pescatore che tiene tra le braccia un mazzugoru di 20Kg.
+La foto in basso ripota una scritta a mano che dice "Il primo Mazzugoru
+di 20Kg pescato in Beta da Gilean".
+~
+E
+manifesto~
+"Questo appartiene alla categoria dei negozzi dati in gestione a commercianti
+sotto la supervisione di Re Feanor. Onde evitare confusioni con le procedure
+standard degli altri negozzi a gestione reale, riporto i comandi usabili qui"
+
+&uComandi&0:
+    &7"sell <nomeoggetto>"&0
+    Serve per vendere un oggetto che avete in inventario.
+
+    &7"buy <nomeoggetto>"&0
+    Serve per acquistare un oggetto nella lista del venditore.
+
+    &7"value <nomeoggetto>"&0  oppure  &7"valuta <nomeoggetto>"&0
+    Serve per valutare un oggetto che posiedi nell'inventario. In poche
+    parole ti dice il valore di vendita in questo negozio.
+
+    &7"list"&0
+    Visualizza la lista degli oggetti in vendita.
+
+ &uNb)&0 Il parametro "<nomeoggetto>" puo' essere sostituito con il numero che
+     appare nella lista.
+
+&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9633
+L'Ufficio Postale~
+Ti trovi in una piccola stanza di pietra, ai lati vedi due grandi panche
+di legno per sedersi. Dalla porta posteriore vedi uscire di continuo i
+messaggeri con lo stemma di Tolnedra, che provvedono a recapitare le
+lettere in tutta la Daresia. Dietro un bancone di marmo vedi alcuni
+funzionari a tua disposizione.
+~
+95 0 0
+D0
+~
+~
+0 -1 9515 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9634
+La Tavola dei Buongustai~
+Sei entrato in un piccolo ristorante, la sala dove ti trovi e abbastanza
+piccola, infatti i tavolini sono pressati assieme per poter far posto
+a un maggior numero di avventori. Un cameriere corre tra i tavoli per
+servire prontamente i clienti.
+
+&1&b Una bacheca e' qui. &0
+
+&1&b PER LA MUSICA DARE 10 COINs al MUSICO &0
+~
+95 0 0
+D1
+~
+~
+0 -1 8505 0
+D2
+~
+~
+0 -1 9635 0
+E
+bacheca~
+&3
+1  - Cimmura battle                  2 - Le praterie di Lamorka
+2  - Arpe di Cyrga                   4 - Isole Lontane
+5  - Lacrime di Haon dor             6 - Le 3 spade
+7  - Anon village                    8 - Il grande est
+9  - Jiroch                         10 - Yuk Birra
+11 - Sole e relax                   12 - Krog grog?
+13 - Lamorka (Sephrenia ballet)     14 - Torre della Magia
+15 - La Cattedrale                  16 - Night, Thief an the terror
+17 - Tolnedra caos                  18 - Deira
+19 - Run run little Demostenee      20 - Jack Taglialegna
+21 - Ramku in the kitchen           22 - Zingari!
+23 - Khristian build up             24 - Chyrellos 
+25 - Teinko assedium                26 - Salomon fury
+27 - The Aurin                      28 - La guerra dei regni&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9635
+La cucina~
+Ti trovi nella piccola cucina del ristorante, accanto al fuoco vedi
+numerose pentole piene di una trana zuppa marrone, e sul pavimento vedi
+anche due alte pile di piatti sporchi in attesa di essere lavati.
+Alcuni cuochi e un inserviente si danno da fare per pulire e preparare
+il cibo.
+~
+95 0 0
+D0
+~
+~
+0 0 9634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9636
+Il "Bodyguard RENT"~
+Piu' che un negozio sembra una grande palestra. Ovunque ci sono uomini e donne che
+si allenano combattendo tra loro o con pupazzi piu' o meno realistici. Alcuni
+usano delle armi in legno, i piu' bravi armi in ferro, altri ingaggiano duelli a
+mani nude. C'e' l'imbarazzo della scielta non c'e' che dire.
+
+&1&b Il venditore e' al momento influenzato... scusate il disagio&0
+~
+95 0 0
+D2
+~
+~
+0 -1 9527 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9637
+Un edificio vuoto~
+Le pareti sembra buone e robuste, e una grande finestra da sulla strada,
+per il resto della grande sala puoi solo dire che e' vuota. Molto
+probabilmente puoi comprarlo se hai abbastanza denaro rivolgendoti 
+hai funzionari economici di Cimmurra.
+~
+95 0 0
+D2
+~
+~
+0 -1 9528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9638
+L'Ufficio Postale di Cimmura~
+L'ufficio postale di Cimmura. In questo edificio vengono recapitate le
+comunicazioni e le lettere degli abitanti di Cimmura.
+Sulla parete e' appeso un manifesto.
+~
+95 0 0
+D3
+~
+~
+0 -1 9536 0
+E
+manifesto~
+Sul manifesto c'e' scritto:
+RICEVI per ricevere la posta
+SCRIVI per scrivere una lettera
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9639
+Un edificio vuoto~
+Le pareti sembra buone e robuste, e una grande finestra da sulla strada,
+per il resto della grande sala puoi solo dire che e' vuota. Molto
+probabilmente puoi comprarlo se hai abbastanza denaro rivolgendoti 
+hai funzionari economici di Cimmurra.
+~
+95 0 0
+D3
+~
+~
+0 -1 9532 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9640
+La Scuola degli Alcioni~
+Ti trovi in una sala di attesa, fatta in marmo rosa e marmo nero. Un
+grande braciere arde nel centro della saletta, dove alcuni iniziati
+stanno aspettanto di essere ricevuti dal maestro del loro ordine.
+Ai lati della saletta si trovano due archi di pietra che conducono
+rispettivamente dal maestro della scuola e alla sala delle donazioni.
+~
+95 0 0
+D0
+~
+~
+0 -1 9642 0
+D2
+~
+~
+0 -1 9641 0
+D3
+~
+~
+0 -1 9573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9641
+La Stanza delle Donazioni~
+Qui i membri piu' esperti della gilda lasciano del buon equipaggiamento
+per gli iniziati. Le donazioni sono volontarie e ogniuno piu' prendere 
+quello che vuole, ma vendere questa merce regalata viene considerato
+un reato. Quando sarai piu' grande ricorda di lasciare qualcosa qui 
+anche tu.
+~
+95 2052 0
+D0
+~
+~
+0 -1 9640 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9642
+La Stanza dei Maestri~
+Davanti a te seduto su un alto seggio si trova il maestro degli Alcioni
+che ti fissa in silenzio. Ti senti fortemente in soggezione di fronte al
+tuo maestro, ma ti pare di cogliere sul suo volto un sorriso e ti avvicini
+nella speranza di apprendere qualche nuova tecnica della tua scuola.
+~
+95 0 0
+D2
+~
+~
+0 -1 9640 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9643
+La Scuola dei Pandion~
+Ti trovi in una sala di attesa, fatta in marmo rosa e marmo nero. Un
+grande braciere arde nel centro della saletta, dove alcuni iniziati
+stanno aspettanto di essere ricevuti dal maestro del loro ordine.
+Ai lati della saletta si trovano due archi di pietra che conducono
+rispettivamente dal maestro della scuola e alla sala delle donazioni.
+~
+95 0 0
+D1
+~
+~
+0 -1 9644 0
+D2
+~
+~
+0 -1 9582 0
+D3
+~
+~
+0 -1 9645 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9644
+La Stanza delle Donazioni~
+Qui i membri piu' esperti della gilda lasciano del buon equipaggiamento
+per gli iniziati. Le donazioni sono volontarie e ogniuno piu' prendere 
+quello che vuole, ma vendere questa merce regalata viene considerato
+un reato. Quando sarai piu' grande ricorda di lasciare qualcosa qui 
+anche tu.
+~
+95 2052 0
+D3
+~
+~
+0 -1 9643 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9645
+La Stanza dei Maestri~
+Davanti a te seduto su un alto seggio si trova il maestro dei Pandion
+che ti fissa in silenzio. Ti senti fortemente in soggezione di fronte al
+tuo maestro, ma ti pare di cogliere sul suo volto un sorriso e ti avvicini
+nella speranza di apprendere qualche nuova tecnica della tua scuola.
+~
+95 0 0
+D1
+~
+~
+0 -1 9643 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9646
+La Scuola dei Cyrinic~
+Ti trovi in una sala di attesa, fatta in marmo rosa e marmo nero. Un
+grande braciere arde nel centro della saletta, dove alcuni iniziati
+stanno aspettanto di essere ricevuti dal maestro del loro ordine.
+Ai lati della saletta si trovano due archi di pietra che conducono
+rispettivamente dal maestro della scuola e alla sala delle donazioni.
+~
+95 0 0
+D1
+~
+~
+0 -1 9647 0
+D2
+~
+~
+0 -1 9584 0
+D3
+~
+~
+0 -1 9648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9647
+La Stanza delle Donazioni~
+Qui i membri piu' esperti della gilda lasciano del buon equipaggiamento
+per gli iniziati. Le donazioni sono volontarie e ogniuno piu' prendere 
+quello che vuole, ma vendere questa merce regalata viene considerato
+un reato. Quando sarai piu' grande ricorda di lasciare qualcosa qui 
+anche tu.
+~
+95 2052 0
+D3
+~
+~
+0 -1 9646 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9648
+La Stanza dei Maestri~
+Davanti a te seduto su un alto seggio si trova il maestro dei Cyrinic
+che ti fissa in silenzio. Ti senti fortemente in soggezione di fronte al
+tuo maestro, ma ti pare di cogliere sul suo volto un sorriso e ti avvicini
+nella speranza di apprendere qualche nuova tecnica della tua scuola.
+~
+95 0 0
+D1
+~
+~
+0 -1 9646 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9649
+La Scuola dei Peloi~
+Ti trovi in una sala di attesa, fatta in marmo rosa e marmo nero. Un
+grande braciere arde nel centro della saletta, dove alcuni iniziati
+stanno aspettanto di essere ricevuti dal maestro del loro ordine.
+Ai lati della saletta si trovano due archi di pietra che conducono
+rispettivamente dal maestro della scuola e alla sala delle donazioni.
+~
+95 0 0
+D0
+~
+~
+0 -1 9585 0
+D1
+~
+~
+0 -1 9650 0
+D3
+~
+~
+0 -1 9651 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9650
+La Stanza delle Donazioni~
+Qui i membri piu' esperti della gilda lasciano del buon equipaggiamento
+per gli iniziati. Le donazioni sono volontarie e ogniuno piu' prendere 
+quello che vuole, ma vendere questa merce regalata viene considerato
+un reato. Quando sarai piu' grande ricorda di lasciare qualcosa qui 
+anche tu.
+~
+95 2052 0
+D3
+~
+~
+0 -1 9649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9651
+La Stanza dei Maestri~
+Davanti a te seduto su un alto seggio si trova il maestro dei Peloi
+che ti fissa in silenzio. Ti senti fortemente in soggezione di fronte al
+tuo maestro, ma ti pare di cogliere sul suo volto un sorriso e ti avvicini
+nella speranza di apprendere qualche nuova tecnica della tua scuola.
+~
+95 0 0
+D1
+~
+~
+0 -1 9649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9652
+La Scuola dei Genedian~
+Ti trovi in una sala di attesa, fatta in marmo rosa e marmo nero. Un
+grande braciere arde nel centro della saletta, dove alcuni iniziati
+stanno aspettanto di essere ricevuti dal maestro del loro ordine.
+Ai lati della saletta si trovano due archi di pietra che conducono
+rispettivamente dal maestro della scuola e alla sala delle donazioni.
+~
+95 0 0
+D0
+~
+~
+0 -1 9654 0
+D1
+~
+~
+0 -1 9575 0
+D2
+~
+~
+0 -1 9653 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9653
+La Stanza delle Donazioni~
+Qui i membri piu' esperti della gilda lasciano del buon equipaggiamento
+per gli iniziati. Le donazioni sono volontarie e ogniuno piu' prendere 
+quello che vuole, ma vendere questa merce regalata viene considerato
+un reato. Quando sarai piu' grande ricorda di lasciare qualcosa qui 
+anche tu.
+~
+95 2052 0
+D0
+~
+~
+0 -1 9652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9654
+La Stanza dei Maestri~
+Davanti a te seduto su un alto seggio si trova il maestro dei Genedian
+che ti fissa in silenzio. Ti senti fortemente in soggezione di fronte al
+tuo maestro, ma ti pare di cogliere sul suo volto un sorriso e ti avvicini
+nella speranza di apprendere qualche nuova tecnica della tua scuola.
+~
+95 0 0
+D2
+~
+~
+0 -1 9652 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9655
+La Banca~
+Ti trovi in una delle tante filiali della banca principale di Cimmurra,
+che gestisce le banche di tutto il regno. Il pavimento e' fatto di 
+marmo nero e bianco, stile scacchiera, e anche il resto e ben curato
+e pulito. Insieme a te, qui si trovano altre persone per depositare i
+loro sudati averi.
+Un &7grande manifesto&0 e' appeso alla parete.
+~
+95 0 0
+D1
+~
+~
+0 -1 9577 0
+D2
+~
+~
+0 -1 9583 0
+E
+manifesto~
+"Per evitare i soliti perdigiono che disturbano i cassieri solo per sapere le
+piu' comuni procedure bancarie, ecco uno schema riassuntivo...
+
+&uComandi&0:
+    &7Deposita <cifra>&0
+    Per depositare i vostri soldi, al sicuro. Potete ritirarli in qualunque
+    delle nostre filiali.
+
+    &7Preleva <cifra>&0
+    Per prelevare denaro dal vostro conto, naturalmente per prenderlo dovete
+    averlo depositato prima... non facciamo i furbi.
+
+    &7Bilancio&0
+    Vi viene fornita dai nostri impiegati, lo stato attuale del vostro conto.
+
+"Mi raccomando depositate i vostri averi da noi, siamo i migliori !"
+
+&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9656
+La Tana del Troll~
+Ti trovi in una taverna, che nonostante il suo nome molto folcloristico
+e ben arredata e pulita. Numerosi avventori sono seduti ai tavoli, in
+attesa di essere serviti parlano animatamente tra loro. Una giovane
+cameriera dai capelli rossi corre tra i tavoli, piena di vassoi e 
+boccali di buona birra.
+~
+95 0 0
+D2
+~
+~
+0 -1 9585 0
+D3
+~
+~
+0 -1 9533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9657
+La Locanda Magica~
+Appena entrato, noti che i clienti che frequentano questa locanda sono
+tutt'altro che rassicuranti, sono armati fino hai denti, e chiusi nelle
+loro armature e mantelli scuri. Per il resto questa locanda pare un po'
+scarna e povera negli arredamenti, il che ti fa presumere che le camere
+non siano molto accoglienti. Una donna ozia dietro il bancone.
+~
+95 0 0
+D1
+~
+~
+0 -1 9538 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9658
+L'ufficio delle guardie~
+Un grande caos regna sopra le numerose scrivanie che occupano tutta 
+la stanza. Facendoti largo tra le guardie di Cimmurra riesci a scorgere
+sulla parete nord il manifesto dei ricercati, e noti con un sorriso che
+non e' una lista molto lunga visto le leggi permissive imposte da Re 
+Feanor.
+~
+95 0 0
+D1
+~
+~
+0 -1 9541 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9659
+La Biblioteca Pubblica~
+Grandi scaffali pieni di antichi libri e tomi, occupano tutta la grande
+sala, pavimentata in pietra. Camminando tra i numerosi corridoi vedi
+che il tema dei libri spazia dalla piantina delle capitali, alla storia
+del Cataclisma. Ti guardi intorno un attimo e noti che sei quasi solo,
+non ti sorprende visto che i cittadini di Cimmurra non sono molto intellettuali.
+~
+95 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9660
+Il Colosseo~
+Sei nell'ingresso che conduce al temuto Colosseo. Una grande porta in
+ferro battuto protegge l'entrata, inizialmente credevi servisse per non
+far entrare la gente ma dal tipo di chiusa capisce che e' serve per
+non far uscire nessuno... Una guardia staziona assonnata davanti alla
+porta, incurante delle urla che provengono da dentro.
+~
+95 0 0
+D1
+~
+~
+0 -1 9503 0
+D3
+~
+~
+0 0 9300 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9661
+Il Colosseo~
+Sei nell'ingresso che conduce al temuto Colosseo. Una grande porta in
+ferro battuto protegge l'entrata, inizialmente credevi servisse per non
+far entrare la gente ma dal tipo di chiusa capisce che e' serve per
+non far uscire nessuno... Una guardia staziona assonnata davanti alla
+porta, incurante delle urla che provengono da dentro.
+~
+95 0 0
+D0
+~
+~
+0 -1 9610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9662
+Il Colosseo~
+Sei nell'ingresso che conduce al temuto Colosseo. Una grande porta in
+ferro battuto protegge l'entrata, inizialmente credevi servisse per non
+far entrare la gente ma dal tipo di chiusa capisce che e' serve per
+non far uscire nessuno... Una guardia staziona assonnata davanti alla
+porta, incurante delle urla che provengono da dentro.
+~
+95 0 0
+D1
+~
+~
+0 0 9300 0
+D3
+~
+~
+0 -1 9604 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9663
+Il Lago Interno~
+Sei davanti alla porta di bronzo, che chiude uan cupola di cristallo
+sopra il Lago Interno. Questo bacino artificiale e' stato studiato 
+per aiutare i meno abbienti e i lavoratori agli inizzi della carriera,
+a tutti gli altri l'accesso e' precluso. Una guardia si assicura che
+nessuno faccia il furbo.
+~
+95 0 0
+D1
+~
+~
+0 -1 9511 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9664
+Il Lago Interno~
+Sei davanti alla porta di bronzo, che chiude uan cupola di cristallo
+sopra il Lago Interno. Questo bacino artificiale e' stato studiato 
+per aiutare i meno abbienti e i lavoratori agli inizzi della carriera,
+a tutti gli altri l'accesso e' precluso. Una guardia si assicura che
+nessuno faccia il furbo.
+~
+95 0 0
+D0
+~
+~
+0 -1 9557 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9665
+Il Lago Interno~
+Sei davanti alla porta di bronzo, che chiude uan cupola di cristallo
+sopra il Lago Interno. Questo bacino artificiale e' stato studiato 
+per aiutare i meno abbienti e i lavoratori agli inizzi della carriera,
+a tutti gli altri l'accesso e' precluso. Una guardia si assicura che
+nessuno faccia il furbo.
+~
+95 0 0
+D3
+~
+~
+0 -1 9600 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9666
+Il Lago Interno~
+Sei davanti alla porta di bronzo, che chiude uan cupola di cristallo
+sopra il Lago Interno. Questo bacino artificiale e' stato studiato 
+per aiutare i meno abbienti e i lavoratori agli inizzi della carriera,
+a tutti gli altri l'accesso e' precluso. Una guardia si assicura che
+nessuno faccia il furbo.
+~
+95 0 0
+D2
+~
+~
+0 -1 9610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9667
+L'Arboreto~
+Questa dove ti trovi e' l'entrata della piu' grande serra esistente
+in tutta la Daresia conosciuta. Creata con lo scopo di aiutare i 
+lavoratori in difficolta' o all'inizio della carriera, e diventata
+un vanto per tutto il regno. Una guardia davanti alla porta evita che 
+qualcuno faccia il furbo entrando dove non deve.
+~
+95 0 0
+D1
+~
+~
+0 -1 9600 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9668
+L'Arboreto~
+Questa dove ti trovi e' l'entrata della piu' grande serra esistente
+in tutta la Daresia conosciuta. Creata con lo scopo di aiutare i 
+lavoratori in difficolta' o all'inizio della carriera, e diventata
+un vanto per tutto il regno. Una guardia davanti alla porta evita che 
+qualcuno faccia il furbo entrando dove non deve.
+~
+95 0 0
+D0
+~
+~
+0 -1 9553 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9669
+L'Arboreto~
+Questa dove ti trovi e' l'entrata della piu' grande serra esistente
+in tutta la Daresia conosciuta. Creata con lo scopo di aiutare i 
+lavoratori in difficolta' o all'inizio della carriera, e diventata
+un vanto per tutto il regno. Una guardia davanti alla porta evita che 
+qualcuno faccia il furbo entrando dove non deve.
+~
+95 0 0
+D2
+~
+~
+0 -1 9607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9670
+La corporazione degli &7"Alchimisti"&0~
+La piccola saletta e' letteralmente invasa da grandi scaffali di legno 
+massiccio che ospitano tantissime ampolle piene di liquidi variopinti.
+L'aria e' impregnata da un forte odore di spezie, che ti disturba un po'
+anche se vedi i giovani alchimisti che lavorano non farci molto caso.
+~
+95 1073741824 0
+D3
+~
+~
+0 0 9768 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9671
+La corporazione dei &7"Cuochi"&0~
+Un grande fuoco la fa da padrone al centro della sala, sopra di esso bollono
+numerose pentole, da cui esce un buon profumo di cobo cotto. Affascinato
+osservi le mani esperte di un cuoco che dosa con calma e precisione delle
+spezie, piu' come fosse un rito che una semplice ricetta di cucina, non vedi
+l'ora di dare un assaggino a quanche prelibata pietanza.
+~
+95 4294967296 0
+D1
+~
+~
+0 0 9768 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9672
+La corporazione dei &7"Conciatori"&0~
+La stanza e' letteralmente tappezzate di pelli di animale, che sono tese e pulite
+pronte per essere tagliate a stole. In un angolo vedi una catasta di animali
+morti, pronti per essere scuoiati a dovere da mani esperte, nella massa riesci a
+scorgere anche qualche ermellino, quel conciatore fara' una fortuna con la pelliccia.
+~
+95 17179869184 0
+D3
+~
+~
+0 0 9782 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9673
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&d&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9674 0
+D1
+~
+~
+0 0 9678 0
+D2
+~
+~
+0 0 9682 0
+D3
+~
+~
+0 0 9677 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9674
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&d&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9681 0
+D1
+~
+~
+0 0 9677 0
+D2
+~
+~
+0 0 9673 0
+D3
+~
+~
+0 0 9675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9675
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&d&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9678 0
+D1
+~
+~
+0 0 9681 0
+D2
+~
+~
+0 0 9677 0
+D3
+~
+~
+0 0 9675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9676
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&d&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9681 0
+D1
+~
+~
+0 0 9682 0
+D2
+~
+~
+0 0 9675 0
+D3
+~
+~
+0 0 9674 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9677
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&d&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9676 0
+D1
+~
+~
+0 0 9676 0
+D2
+~
+~
+0 0 9673 0
+D3
+~
+~
+0 0 9681 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9678
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&d&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9678 0
+D1
+~
+~
+0 0 9676 0
+D2
+~
+~
+0 0 9677 0
+D3
+~
+~
+0 0 9673 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9679
+Il Mobilificio~
+Sparsi ovunque vedi mobili e suppellettili di tutti i tipi, dal semplice
+candeliere a pregiate librerie. La scelta e' davvero enorme, con tutta
+questa roba e un po' di buon gusto potresti rendere il tuo appartamento
+davvero confortevole. Un &7grande manifesto&0 e' appeso accanto all'entrata.
+~
+95 0 0
+D1
+~
+~
+0 0 8503 0
+E
+manifesto~
+"Questo appartiene alla categoria dei negozzi dati in gestione a commercianti
+sotto la supervisione di Re Feanor. Onde evitare confusioni con le procedure
+standard degli altri negozzi a gestione reale, riporto i comandi usabili qui"
+
+&uComandi&0:
+    &7"sell <nomeoggetto>"&0
+    Serve per vendere un oggetto che avete in inventario.
+
+    &7"buy <nomeoggetto>"&0
+    Serve per acquistare un oggetto nella lista del venditore.
+
+    &7"value <nomeoggetto>"  oppure  "valuta <nomeoggetto>"&0
+    Serve per valutare un oggetto che posiedi nell'inventario. In poche
+    parole ti dice il valore di vendita in questo negozio.
+
+    &7"list"&0
+    Visualizza la lista degli oggetti in vendita.
+
+&b&2NB) Gli oggetti che acquiti in questo negozio possono essere sistemate SOLO
+UNA VOLTA, con &7"drop <nomeoggetto>"&b&2, poi non potrenno essere riracolti !&0
+
+&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9680
+Il Negozio Magico~
+Tutto intorno a te e' pieno di oggetti scintillanti e bellissimi di diverso tipo come
+spade, scudi, armature e suppellettili vari. Ogni oggetto e' corredato da un pregiato
+foglietto che ne elenca la storia, le proprieta' e gli usi. Leggendo qua e la a casaccio
+noti che sono tutti oggetti magici molto potenti... e anche i prezzi non scherzano.
+Un &7grande manifesto&0 e' appeso accanto all'entrata.
+~
+95 0 0
+D3
+~
+~
+0 0 8506 0
+E
+manifesto~
+"Questo appartiene alla categoria dei negozzi dati in gestione a commercianti
+sotto la supervisione di Re Feanor. Onde evitare confusioni con le procedure
+standard degli altri negozzi a gestione reale, riporto i comandi usabili qui"
+
+&uComandi&0:
+    &7"sell <nomeoggetto>"&0
+    Serve per vendere un oggetto che avete in inventario.
+
+    &7"buy <nomeoggetto>"&0
+    Serve per acquistare un oggetto nella lista del venditore.
+
+    &7"value <nomeoggetto>"&0  oppure  &7"valuta <nomeoggetto>"&0
+    Serve per valutare un oggetto che posiedi nell'inventario. In poche
+    parole ti dice il valore di vendita in questo negozio.
+
+    &7"list"&0
+    Visualizza la lista degli oggetti in vendita.
+
+&uNb)&0 Questo negozio vista la singolarita degli oggetti, NON RICOMPRA la
+    merce venduta, nemmeno in caso sia difettosa.
+
+&uL'Esattore di Cimmura&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9681
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9681 0
+D1
+~
+~
+0 0 9678 0
+D2
+~
+~
+0 0 9673 0
+D3
+~
+~
+0 0 9675 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9682
+Tra le nebbie..~
+&7Tutto e' avvolto nella nebbia piu' profonda, impossibile orientarsi !!
+Senti solo delle &1urla strazianti&7 rimbombare ovunque....&0
+~
+95 65 0
+D0
+~
+~
+0 0 9673 0
+D1
+~
+~
+0 0 9676 0
+D2
+~
+~
+0 0 9675 0
+D3
+~
+~
+0 0 9681 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9683
+La Casa del Daresiano~
+Qui puoi trovare tutto il necessario per poter vivere a Cimmura.
+Non e' molto , ma e' cio' che passa il Regno!
+~
+95 0 0
+D3
+~
+~
+0 0 9574 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9690
+&1&bLe nuove prigioni di Cimmura&0~
+L'ingresso poco accogliente denota a quale genere di trattamento e' sottoposto
+un cercerato ingabbiato qui.
+~
+95 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9699
+Magazzino~
+You are in an unfinished room.
+~
+95 2560 0
+D1
+~
+~
+0 0 9623 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

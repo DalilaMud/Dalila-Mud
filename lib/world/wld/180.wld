@@ -1,0 +1,749 @@
+#18026
+La scaletta di corda~
+Hai trovato una scaletta di corda penzolante, probabilemte e'
+stata tagliata o dimenticata da qualche arrembaggio.
+Se cerchi guai puoi salire.
+~
+180 12 0
+D3
+~
+~
+0 0 1480406 0
+D4
+~
+~
+0 -1 18027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18027
+Sulla nave dei Pirati~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D0
+~
+~
+0 -1 18029 0
+D1
+~
+~
+0 -1 18028 0
+D2
+~
+~
+0 -1 18031 0
+D5
+~
+~
+0 -1 18026 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18028
+Al centro della nave~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+Sei proprio sotto l'albero maestro !
+~
+180 8 0
+D0
+~
+~
+0 -1 18030 0
+D1
+~
+~
+0 -1 18034 0
+D2
+~
+~
+0 -1 18032 0
+D3
+~
+~
+0 -1 18027 0
+D4
+~
+~
+0 -1 18042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18029
+Sulla nave dei Pirati~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D1
+~
+~
+0 -1 18030 0
+D2
+~
+~
+0 -1 18027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18030
+Sulla nave dei Pirati , verso Poppa~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D0
+~
+~
+0 -1 18044 0
+D1
+~
+~
+0 -1 18033 0
+D2
+~
+~
+0 -1 18028 0
+D3
+~
+~
+0 -1 18029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18031
+Sulla nave dei Pirati~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D0
+~
+~
+0 -1 18027 0
+D1
+~
+~
+0 -1 18032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18032
+Sulla nave dei Pirati , verso Prua~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D0
+~
+~
+0 -1 18028 0
+D1
+~
+~
+0 -1 18035 0
+D2
+~
+~
+0 -1 18037 0
+D3
+~
+~
+0 -1 18031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18033
+Sulla nave dei Pirati~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D2
+~
+~
+0 -1 18034 0
+D3
+~
+~
+0 -1 18030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18034
+Sulla nave dei Pirati~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D0
+~
+~
+0 -1 18033 0
+D2
+~
+~
+0 -1 18035 0
+D3
+~
+~
+0 -1 18028 0
+D5
+~
+~
+0 -1 18036 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18035
+Sulla nave dei Pirati~
+Sei nella piattaforma centrale della nave dei pirati. Vedi
+dei brutti tizi che ti guardano con disprezzo e si preparano a
+farti la festa...
+~
+180 8 0
+D0
+~
+~
+0 -1 18034 0
+D3
+~
+~
+0 -1 18032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18036
+La scaletta di corda~
+Hai trovato una scaletta di corda penzolante, probabilemte e'
+stata tagliata o dimenticata da qualche arrembaggio.
+Se cerchi guai puoi salire.
+~
+180 12 0
+D1
+~
+~
+0 0 1480408 0
+D4
+~
+~
+0 -1 18034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18037
+Verso Prua~
+Ti dirigi verso l'estremita' anteriore della nave. Sei preoccupato
+sapendo che da un momento all' altro potresti essere assalito...
+C'e' una botola, deve essere l'entrata per la stiva.
+~
+180 0 0
+D0
+~
+~
+0 -1 18032 0
+D2
+~
+~
+0 -1 18038 0
+D5
+~
+botola~
+1 -1 18061 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18038
+A Prua~
+Sei arrivato a prua, vedi a sud l' ingresso per la cabina del
+comandante, a ovest un piccolo ripostiglio.
+~
+180 0 0
+D0
+~
+~
+0 -1 18037 0
+D2
+~
+~
+0 -1 18040 0
+D3
+~
+~
+0 -1 18039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18039
+Un piccolo ripostiglio~
+Il posto ideale per un' imboscata...
+~
+180 261 0
+D1
+~
+~
+0 -1 18038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18040
+Verso la stanza del capo~
+Alcune scalette scendono verso il basso, mentre 2 mozzi a guardia
+della zona decidono di convincerti a scappare.
+~
+180 4 0
+D0
+~
+~
+0 -1 18038 0
+D5
+~
+botola~
+2 18000 18041 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18041
+Uno stretto passaggio~
+Lo spazio per passare e' davvero poco, devi addirittura chinarti
+per non sbattere la testa.
+~
+180 296 0
+D4
+~
+botola~
+2 18000 18040 15
+D5
+~
+~
+0 -1 18059 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18042
+Scalando l'albero maestro~
+Decidi coraggiosamente di avventurarti verso la cima dell' albero
+maestro della nave, sicuramente vuoi raggiungere il posto di
+vedetta.
+~
+180 384 0
+D4
+~
+~
+0 -1 18043 0
+D5
+~
+~
+0 -1 18028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18043
+Sulla cima dell' albero maestro~
+Eccoti in cima, nel posto della vedetta. Da qua puoi scrutare il
+mare fino all' orizzonte e vedere molto prima degli altri la
+terra o navi in avvicinamento.
+~
+180 8 0
+D5
+~
+~
+0 -1 18042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18044
+Verso Poppa~
+Ti dirigi verso l'estremita' posteriore della nave. Vedi verso
+nord parecchi pirati che si stanno armando velocemente per darti
+il benvenuto
+~
+180 4 0
+D0
+~
+~
+0 -1 18045 0
+D2
+~
+~
+0 -1 18030 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18045
+A Poppa~
+Eccoti arrivato a Poppa. Noti subito una botola a terra, mentre
+intorno a te vedi agguerriti pirati pronti ad attaccarti senza
+nessuna pieta'.
+~
+180 0 0
+D0
+~
+~
+0 -1 18049 0
+D1
+~
+~
+0 -1 18050 0
+D2
+~
+~
+0 -1 18044 0
+D3
+~
+~
+0 -1 18047 0
+D5
+~
+botola~
+2 18001 18051 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18046
+Sul ponte~
+Sei circondato dai pirati! E' tempo di mostrare la tua bravura
+nella lotta, o di sparire per sempre in pasto agli squali!
+~
+180 0 0
+D2
+~
+~
+0 0 18050 0
+D3
+~
+~
+0 -1 18049 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18047
+Sul ponte~
+Sei circondato dai pirati! E' tempo di mostrare la tua bravura
+nella lotta, o di sparire per sempre in pasto agli squali!
+~
+180 0 0
+D0
+~
+~
+0 -1 18048 0
+D1
+~
+~
+0 -1 18045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18048
+Sul ponte~
+Sei circondato dai pirati! E' tempo di mostrare la tua bravura
+nella lotta, o di sparire per sempre in pasto agli squali!
+~
+180 0 0
+D1
+~
+~
+0 -1 18049 0
+D2
+~
+~
+0 -1 18047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18049
+Sul ponte~
+Sei circondato dai pirati! E' tempo di mostrare la tua bravura
+nella lotta, o di sparire per sempre in pasto agli squali!
+~
+180 0 0
+D1
+~
+~
+0 -1 18046 0
+D2
+~
+~
+0 -1 18045 0
+D3
+~
+~
+0 -1 18048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18050
+Sul ponte~
+Sei circondato dai pirati! E' tempo di mostrare la tua bravura
+nella lotta, o di sparire per sempre in pasto agli squali!
+~
+180 0 0
+D0
+~
+~
+0 0 18046 0
+D3
+~
+~
+0 -1 18045 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18051
+Verso gli alloggi dei pirati~
+Le scale scendono in un corridoio che probabilmente porta agli
+alloggi privati dei pirati. Capisci che proseguendo a sud pero'
+si raggiungono anche i remi, dove gli schiavi di battaglia sono
+costretti a remare fino alla morte.
+~
+180 0 0
+D2
+~
+~
+0 -1 18052 0
+D4
+~
+botola~
+2 18001 18045 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18052
+Un incrocio~
+C'e' un incrocio nel corridoio, a sud verso i rematori o ad est
+verso gli alloggi dei pirati.
+~
+180 0 0
+D0
+~
+~
+0 -1 18051 0
+D1
+~
+porta~
+1 -1 18053 3
+D2
+~
+porta~
+1 -1 18054 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18053
+Gli alloggi dei Pirati~
+Piccole porte danno in stanze disordinate e molto sporche.
+A terra c'e' un po' di tutto, e la puzza e' insopportabile.
+Vedi ovunque bottiglie di liquori vuote.
+~
+180 0 0
+D0
+~
+~
+0 -1 18057 0
+D1
+~
+~
+0 -1 18056 0
+D3
+~
+porta~
+1 -1 18052 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18054
+Le panche dei rematori~
+Vedi dei rematori esausti, con facce spaventose che siedono su
+delle panche di legno sporche di sangue. Le loro schiene sono
+segnate dalle innumerevoli frustrate che le guardie infliggono
+sadicamente.
+~
+180 0 0
+D0
+~
+porta~
+1 -1 18052 3
+D2
+~
+~
+0 -1 18055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18055
+Le panche dei rematori~
+Vedi dei rematori esausti, con facce spaventose che siedono su
+delle panche di legno sporche di sangue. Le loro schiene sono
+segnate dalle innumerevoli frustrate che le guardie infliggono
+sadicamente.
+~
+180 0 0
+D0
+~
+~
+0 -1 18054 0
+D2
+~
+~
+0 -1 18058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18056
+Gli alloggi dei Pirati~
+Piccole porte danno in stanze disordinate e molto sporche.
+A terra c'e' un po' di tutto, e la puzza e' insopportabile.
+Vedi ovunque bottiglie di liquori vuote.
+~
+180 0 0
+D3
+~
+~
+0 -1 18053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18057
+Gli alloggi dei Pirati~
+Piccole porte danno in stanze disordinate e molto sporche.
+A terra c'e' un po' di tutto, e la puzza e' insopportabile.
+Vedi ovunque bottiglie di liquori vuote.
+~
+180 0 0
+D2
+~
+~
+0 -1 18053 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18058
+Le panche dei rematori~
+Vedi dei rematori esausti, con facce spaventose che siedono su
+delle panche di legno sporche di sangue. Le loro schiene sono
+segnate dalle innumerevoli frustrate che le guardie infliggono
+sadicamente.
+~
+180 0 0
+D0
+~
+~
+0 -1 18055 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18059
+Vicino alla stanza del capo~
+Sei infine arrivato a pochi passi dalla stanza del capo, ci
+sono ancora delle guardie che ti sbarrano il passaggio.
+~
+180 9 0
+D1
+~
+porta~
+1 -1 18060 3
+D4
+~
+~
+0 -1 18041 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18060
+La stanza del capo dei Pirati~
+Arrivi in una stanza lussuosa, piena di forzieri stracarichi di
+oro e di oggetti di valore. Disteso su un comodo letto c'e' il
+Capo dei Pirati, che appena ti vede impugna la sua sciabola e si
+alza di scatto.
+~
+180 9 0
+D3
+~
+porta~
+1 -1 18059 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18061
+Nella Stiva~
+Vedi ovunque grossi sacchi accatastati vicino alle pareti. Ci sono
+anche molti barili e grosse casse in legno, nonche' qualche topo.
+~
+180 41 0
+D1
+~
+~
+0 -1 18064 0
+D2
+~
+~
+0 -1 18062 0
+D4
+~
+botola~
+1 -1 18037 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18062
+Nella Stiva~
+Vedi ovunque grossi sacchi accatastati vicino alle pareti. Ci sono
+anche molti barili e grosse casse in legno, nonche' qualche topo.
+~
+180 41 0
+D0
+~
+~
+0 -1 18061 0
+D1
+~
+~
+0 -1 18063 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18063
+Nella Stiva~
+Vedi ovunque grossi sacchi accatastati vicino alle pareti. Ci sono
+anche molti barili e grosse casse in legno, nonche' qualche topo.
+~
+180 41 0
+D0
+~
+~
+0 -1 18064 0
+D3
+~
+~
+0 -1 18062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#18064
+Nella Stiva~
+Vedi ovunque grossi sacchi accatastati vicino alle pareti. Ci sono
+anche molti barili e grosse casse in legno, nonche' qualche topo.
+~
+180 41 0
+D2
+~
+~
+0 -1 18063 0
+D3
+~
+~
+0 -1 18061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

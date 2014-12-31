@@ -1,0 +1,243 @@
+#260 
+Cyrga livello 4
+26099 30 2
+*
+M 0 26005  1 26001  	; Abitante del villaggio nel villaggio bruciato
+G 1 26024  1      	; 	Coins
+M 0 26000  1 26001  	; Abitante insano del villaggio nel villaggio bruciato
+G 1 26000  1      	; 		Una razione da campo
+G 1 26004  1      	;		Un sacco
+M 0 26002  1 26005  	; Un cavaliere nero nell'accampamento dei taglialegna
+E 1 26001 100 12		; 	Una cotta di maglia nera sulle spalle
+E 1 26015 100 6		; 	Una maschera a forma di teschio in testa
+G 1 26000 1		; 		Una razione da campo
+M 0 26004 1 26005	; Un soldato nero nell'accampamento
+O 0 26009 1 26005	; Un carro di legno nell'accampamento
+O 0 26014 1 26005	; Una balestra nell'accampamento
+O 0 26014 1 26005	; Una balestra nell'accampamento
+M 0 26004 1 26005	; Un soldato nero nell'accampamento
+M 0 26045 1 26005	; Una guardia cynesgan
+M 0 26045 1 26005	; Una guardia cynesgan
+M 0 26001 1 26007	; Un abitante ferito del villaggio al Panorama
+M 0 26038 1 26012	; Un uomo lucertola nella Caverna di Cristallo
+E 1 26063 100 16	; 	Un bastone di pietra (1)
+M 0 26035 3 26014	; Un serpe di fiume in un fiume sotterraneo
+M 0 26035 4 26015	; Un serpe di fiume a Fiume cavalca.
+M 0 26035 5 26016	; Un serpe di fiume a fiume Scuro freddo.
+O 0 26016 1 26018	; Un vecchio pozzo nella Piazza del Pozzo
+M 0 26005 1 26019	; Un abitante del villaggio nella Piazza Occidentale
+G 1 26017 1		; 		Un set di pentole e tegami
+M 0 26008 1 26021	; Capitano Jack nella fucina del fabbro
+G 1 26080 1		; 		Un anello magico
+G 1 26081 1		; 		Una cotta di maglia
+G 1 26082 1		; 		Uno scudo bianco
+M 0 26005 1 26023	; Un abitante del villaggio nella Piazza Orientale
+M 0 26004 1 26025	; Un soldato nero al Pendio
+M 0 26002 1 26026	; Un cavaliere nero al campo di battaglia
+E 1 26015 100 6		; 	Una maschera a forma di teschio in testa
+E 1 26001 100 5		; 	Una cotta di maglia nera sul corpo
+G 1 26000 1		; 		Una razione da campo
+M 0 26002 4 26026	; Un cavaliere nero nel campo di battaglia
+E 1 26001 100 5		; 	Una cotta di maglia nera sul corpo
+E 1 26015 100 6		; 	Una maschera a forma di teschio in testa
+G 1 26000 1		; 		Una razione da campo
+M 0 26004 1 26026	; Un cavaliere nero nel campo di battaglia
+M 0 26004 1 26026	; Un cavaliere nero nel campo di battaglia
+M 0 26003 1 26027	;	Capitano Vader a Davanti i Cancelli
+E 1 26001 100 5		; 	Una cotta di maglia nera sul corpo
+E 1 26002 100 6		;	Un elmo nero cornuto di sopra la testa
+E 1 26003 100 16		;	Una spada falsa ha maneggiato (1)
+G 1 26000 1		; 		Una razione da campo
+M 0 26002 4 26027	; Un cavaliere nero a Davanti i Cancelli
+E 1 26001 100 5		; 	Una cotta di maglia nera sul corpo
+E 1 26015 100 6		;	Una maschera a forma di teschio in testa
+M 0 26004 1 26027	; Un soldato nero a Davanti i Cancelli
+M 0 26006 4 26029	; Una guardia reale a Palazzo segue la traccia di
+E 1 26007 100 7		;	Un paio di gambali sulle gambe
+E 1 26005 100 11	;	Uno scudo con falcone come scudo
+E 1 26008 100 16	;	Una spada lunga impugnata (1)
+M 0 26006 4 26029	; Una guardia reale sulla Strada del Palazzo
+M 0 26012 1 26029	; Un sergente reale sulla Strada del Palazzo
+E 1 26010 100 1		;	Un anello reale al dito sinistro
+E 1 26006 100 5		;	Un'armatura completa sul corpo
+E 1 26011 100 16	;	Un manganello impugnato (1)
+M 0 26006 4 26029	; Una guardia reale sulla Strada del Palazzo
+M 0 26005 1 26030	; Un abitante del villaggio nel Viale del Parco
+G 1 26019 1		;		Un dipinto
+M 0 26005 2 26030	; Un abitante del villaggio nel Viale del Parco
+E 1 26027 100 17	;	Una granata tenuta in mano
+M 0 26005 1 26030	; Un abitante del villaggio nel Viale del Parco
+M 0 26005 1 26031	; Un abitante del villaggio alla Fine meridionale del Parco
+G 1 26020 1		;		Un tappeto persiano
+M 0 26005 1 26031	; Un abitante del villaggio alla Fine meridionale del Parco
+M 0 26006 4 26032	; Una guardia reale all'Ingresso del Palazzo
+E 1 26010 100 1		;	Un anello reale al dito sinistro
+G 1 26000 1		;		Una razione da campo
+M 0 26007 1 26034	; Beppe il Panettiere nella Panetteria
+G 1 26000 1		; 		Una razione da campo
+G 1 26053 1		;		Una torta degli angeli
+G 1 26054 1		;		Un biscotto
+G 1 26055 1		;		Una torta di compleanno
+M 0 26009 1 26035	; Armon l'armaiolo nell'armeria
+G 1 26031 1		;	Un palanchino
+G 1 26013 1		;	Una grande alabarda
+M 0 26005 1 26036	; Un abitante del villaggio nella Piazza Meridionale
+M 0 26015 4 26036	; Un giovane cadetto nella Piazza Meridionale
+M 0 26011 1 26037	; Il Maestro della guerra nella zona di addestramento
+M 0 26015 4 26037	; Un giovane cadetto nella zona di addestramento
+M 0 26015 4 26037	; Un giovane cadetto nella zona di addestramento
+M 0 26016 1 26039	; Sacerdote Ekatas nell'oscurita'
+M 0 26005 1 26040	; Un abitante del villaggio nel giardino della guerra
+E 1 26027 100 17	; 	Una granata tenuta in mano
+M 0 26006 4 26041	; Una guardia reale in Caserma
+M 0 26015 3 26041	; Un giovane cadetto in Caserma
+M 0 26015 3 26042	; Un giovane cadetto al primo piano
+M 0 26014 2 26043	; Una sentinella nell'armeria
+E 1 26006 100 5		; 	Un'armatura completa sul corpo
+E 1 26013 100 16	; 	Una grande alabarda impugnata (1)
+M 0 26014 2 26043	; Una sentinella nell'armeria
+E 1 26006 100 5		;	Un'armatura completa sul corpo
+E 1 26013 100 16	;	Una grande alabarda impugnata (1)
+O 0 26031 100 26043	; 		Un palanchino nell'armeria
+O 0 26008 100 26043	; 		Una spada lunga nell'armeria
+M 0 26017 1 26044	; Una Sentinella in Strada del Palanchino
+E 1 26032 100 16	; 	Un artiglio d'arpia impugnato (1)
+M 0 26036 1 26044	; Una nana scura in Strada del Palanchino
+G 1 26049 1		; 		Un tesoro
+G 1 26050 1		; 		Una trappola
+G 1 26051 1		; 		Un articolo
+M 0 26017 1 26045	; Una sentinella sulla Strada di Kiki
+E 1 26031 100 16	; 	Un palanchino impugnato (1)
+G 1 26033 1		;		La grande chiave
+M 0 26006 4 26046	; Una guardia reale all'Ingresso del Corpo di Guardia
+E 1 26013 100 16	; 	Una grande alabarda impugnata (1)
+M 0 26012 2 26046	; Un sergente reale all'Ingresso del Corpo di Guardia
+E 1 26010 100 1		;	Un anello reale al dito sinistro
+E 1 26010 100 2		;	Un anello reale al dito destro
+E 1 26006 100 5		;	Un'armatura completa sul corpo
+E 1 26007 100 7		;	Un paio di gambali sulle gambe
+E 1 26005 100 11	;	Uno scudo con falcone come scudo
+E 1 26011 100 16	;	Un manganello impugnato (1)
+E 1 26028 100 17	;	Una pietra della luna tenuta in mano
+M 0 26017 1 26046	; Una sentinella all'Ingresso del Corpo di Guardia
+M 0 26020 1 26048	; Un cortigiano nella Sala Verde
+M 0 26028 1 26048	; Una ragazza delle pulizie nella Sala Verde
+M 0 26018 2 26049	; Un servo nella Sala da Pranzo
+M 0 26018 3 26049	; Un servo nella Sala da Pranzo
+M 0 26021 1 26051	; Un attendente dei bagni ai bagni al coperto
+M 0 26019 1 26052	; Il grasso cuoco in cucina
+M 0 26025 1 26053	; Ed l'apprendista sulla scala
+M 0 26026 1 26054	; Guardiano della torre nel Primo Anello
+M 0 26026 1 26055	; Guardiano della torre nel Secondo Anello
+M 0 26024 1 26056	; Il Mago Reale nel Terzo Anello
+E 1 26039 100 3		; 	Il medaglione del potere intorno al collo (1)
+E 1 26036 100 6		;	Il cappello del mago sopra la testa
+E 1 26038 100 13	;	Una borsa porpora intorno alla vita
+E 1 26035 100 17	;	Lo staff del banditore tenuto in mano
+E 1 26041 100 9		;	Un paio di guanti del potere sulle mani
+G 1 26037 1		;		Una pozione verde
+G 1 26037 1		;		Una pozione verde
+G 1 26048 1		;		Una parola magica
+M 0 26020 2 26057	; Un cortigiano nella Sala Rossa
+M 0 26018 2 26057	; Un servo nella Sala Rossa
+M 0 26006 5 26057	; Una Guardia Reale nella Sala Rossa
+M 0 26006 6 26058	; Una Guardia Reale nella Sala Grande
+M 0 26012 3 26058	; Un Sergente Reale a Sala Grande
+E 1 26006 100 5		;	Un'armatura completa sul corpo
+E 1 26011 100 16	;	Un manganello impugnato (1)
+M 0 26006 7 26059	; Una Guardia Reale a Camera del Pubblico
+M 0 26022 1 26059	; Re Santheocles nella Sala delle Udienze
+E 1 26010 100 1		; 	Un anello reale al dito sinistro
+E 1 26010 100 2		; 	Un anello reale al dito destro
+E 1 26056 100 5		; 	Una cotta di maglia scarlatta sul corpo
+E 1 26057 100 6		; 	Un elmo scarlatto sulla testa
+E 1 26059 100 7		; 	Un paio di gambali scarlatti sulle gambe
+E 1 26060 100 8		; 	Un paio di stivali scarlatti ai piedi
+E 1 26061 100 9		; 	Un paio di guanti scarlatti sulle mani
+E 1 26005 100 11	; 	Uno scudo con falcone come scudo
+E 1 26058 100 12	; 	Una cappa scarlatta sulle spalle
+E 1 26062 100 16	; 	Una spada razor impugnata (1)
+M 0 26023 1 26059	; 	La Regina Chloe nella Sala delle Udienze
+M 0 26006 8 26059	; 	Una Guardia Reale nella Sala delle Udienze
+M 0 26020 4 26059	; 	Un cortigiano nella Sala delle Udienze
+M 0 26018 2 26059	; 	Un servo nella Sala delle Udienze
+M 0 26029 1 26064	; 	Un ragazzo del vaso da notte alla Fine della Sala
+M 0 26028 1 26064	; 	Una ragazza delle pulizie alla Fine della Sala
+M 0 26029 1 26066	; 	Un ragazzo del vaso da notte nella Stanza dei Visitatori
+M 0 26029 1 26066	; 	Un ragazzo del vaso da notte nella Stanza dei Visitatori
+M 0 26028 1 26066	; 	Una ragazza delle pulizie nella Stanza dei Visitatori
+M 0 26028 1 26067	; 	Una ragazza delle pulizie nella Camera da Letto Reale
+M 0 26029 1 26067	; 	Un ragazzo del vaso da notte nella Camera da Letto Reale
+M 0 26017 1 26067	; 	Una sentinella nella Camera da Letto Reale
+O 0 26043 1 26067	; 			Un letto nella Camera da Letto Reale
+O 0 26045 1 26067	; 			Una credenza di cedro nella Camera Reale
+M 0 26029 1 26068	; 	Un ragazzo del vaso da notte nella Camera della Regina
+M 0 26028 1 26068	; 	Una ragazza delle pulizie nella Camera della Regina
+M 0 26017 1 26068	; 	Una sentinella nella Camera della Regina
+O 0 26043 1 26068	; 			Un letto nella Camera della Regina
+O 0 26045 1 26068	; 			Una credenza nella Camera della Regina
+O 0 26044 1 26068	; 			Un ritratto nella Camera della Regina
+M 0 26027 1 26069	; 	Il Bibliotecario nella Biblioteca
+G 1 26040 1		; 			Un libro
+M 0 26017 1 26072	; 	Una sentinella in uno stretto passaggio
+M 0 26030 1 26074	; 	Il Demone Grigio nella Caverna Naturale
+M 0 26031 1 26075	; 	Un'ameba nera alla fine della caverna
+M 0 26031 1 26075	; 	Un'ameba nera alla fine della caverna
+M 0 26032 1 26077	; 	Un'arpia al panorama della caverna
+M 0 26032 2 26078	; 	Un'arpia nel Covo
+O 0 26018 1 26078	; 			Dell'argenteria nel Covo
+O 0 26014 1 26078	; 			Una balestra d'assedio nel Covo
+O 0 26032 1 26078	; 			Un artiglio d'arpia nel Covo
+M 0 26033 1 26079	; 	Un drago alato in una buia caverna pericolosa
+M 0 26033 2 26080	; 	Un drago alato nella Stanza del tesoro
+M 0 26033 2 26080	; 	Un drago alato nella Stanza del tesoro
+M 0 26032 1 26080	;	Un'arpia nella Stanza del tesoro
+O 0 26019 1 26080	; 			Un dipinto nella Stanza del tesoro
+O 0 26020 1 26080	; 			Un tappeto persiano nella Stanza del tesoro
+O 0 26024 1 26080	; 			Delle monete d'oro nella Stanza del tesoro
+O 0 26029 1 26080	; 			Del platino nella Stanza del tesoro
+O 0 26038 1 26080	; 			Un borsa porpora nella Stanza del tesoro
+O 0 26042 1 26080	; 			Una pila di monete nella Stanza del tesoro
+O 0 26013 1 26080	; 			Una grande alabarda nella Stanza del tesoro
+O 0 26003 1 26080	; 			Una bastard sword nella Stanza del tesoro
+O 0 26047 1 26080	; 			La bardatura del drago alato nella Stanza 
+M 0 26030 1 26080	; 	Il Demone Grigio nella stanza del tesoro
+M 0 26034 1 26083	; 	Il torturatore reale nella camera delle torture 
+O 0 26046 1 26084	; 			Una ciotola in una cella sotterranea
+M 0 26010 1 26088	; 	Stella la Commerciante nel Bazar
+G 1 26000 1		; 			Una razione da campo
+G 1 26009 1		; 			Un carro di legno
+G 1 26017 1		; 			Un set di pentole e tegami
+M 0 26037 3 26092	; 	Un serpente mortale a Il tunnel della cascata
+M 0 26035 4 26092	; 	Un serpe di fiume a Il tunnel della cascata
+M 0 26038 1 26093	; 	Un uomo lucertola in una grande caverna sotterranea
+E 1 26064 100 1		; 		Un anello di lisca al dito sinistro
+E 1 26063 100 16	; 		Un bastone di pietra impugnato (1)
+M 0 26037 3 26093	; 	Un serpente mortale in una grande caverna sotterranea
+M 0 26038 1 26093	; 	Un uomo lucertola in una grande caverna sotterranea
+M 0 26039 1 26094	; 	Il Drago Albino nella Stanza del Dio
+E 1 26067 100 5		; 		Una corazza di drago albino sul corpo
+E 1 26066 100 6		;	Un elmetto di teschio del Drago Albino sulla testa
+E 1 26065 100 16	; 		Un artiglio del drago albino (1)
+M 0 26041 1 26095	; 	Orrore nella sala degli Orrori
+G 1 26079 1		; 			Una strana pozione 
+G 1 26079 1		; 			Una strana pozione 
+M 0 26040 1 26096	; 	Il Mostro dell'abisso nello scuro abisso
+E 1 26069 100 1		; 		Un anello dell'abisso al dito sinistro
+E 1 26069 100 2		; 		Un anello dell'abisso al dito destro
+E 1 26070 100 3		; 		Un amuleto dell'abisso al collo (1)
+E 1 26070 100 4		; 		Un amuleto dell'abisso al collo (2)
+E 1 26071 100 5		;		 Un corpetto dell'abisso sul corpo
+E 1 26068 100 6		; 		Un elmo dell'abisso sulla testa
+E 1 26072 100 7		; 		Gambali dell'abisso sulle gambe
+E 1 26073 100 8		; 		Stivali dell'abisso ai piedi
+E 1 26074 100 9		; 		Guanti dell'abisso sulle mani
+E 1 26075 100 10	; 		Maniche dell'abisso sulle braccia
+E 1 26076 100 11	; 		Uno scudo dell'abisso come scudo
+E 1 26077 100 14	; 		Un bracciale dell'abisso al polso sinistro
+E 1 26077 100 15	; 		Un bracciale dell'abisso al polso destro
+G 1 26078 1		; 			Una pozione dell'abisso
+G 1 26078 1		; 			Una pozione dell'abisso
+G 1 26078 1		; 			Una pozione dell'abisso
+S
+$~

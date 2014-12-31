@@ -1,0 +1,1620 @@
+#22000
+Casa del Custode~
+   Sei davanti alla vecchia casa del custode che e' disabitata.
+I cancelli sono aperti e dalla ruggine che ricopre i cardini capisci
+che sono molto vecchi. Ad ovest c'e' la citta' di Chyrellos mentre
+ad est c'e' una lunga strada che passa attraverso il centro di
+questo quartiere residenziale.
+~
+220 8 0
+D1
+~
+~
+0 0 22001 0
+D4
+~
+~
+0 0 21001 0
+E
+cancello cancelli~
+Grande, di ferro e arrugginito. Pare ci voglia un atto estremamente
+violento per chiuderli...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22001
+Via dei Mestieri~
+   Questa e' la parte piu' occidentale di Via dei Mestieri.
+Verso est, la strada continua inoltrandosi nel quartiere.
+Ad ovest vedi la casa del custode, sembra abbastanza silenziosa.
+~
+220 0 1
+D0
+Uno stretto vicolo porta a nord.
+~
+~
+0 0 22004 0
+D1
+~
+~
+0 0 22002 0
+D2
+Uno stretto vicolo porta a sud. Sembra sinistro.
+~
+~
+0 0 22009 0
+D3
+~
+~
+0 0 22000 0
+E
+vicolo vicoli~
+Ci sono vicoli a nord e a sud.
+~
+E
+Casa del Custode~
+La casa del custode e' ad ovest, che fa da accesso ed uscita
+attraverso le mura che circondano il quartiere. Alto approssimativamente
+5 metri, il cancello e' perennemente aperto consentendo libero passaggio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22002
+Via dei Mestieri~
+   Questa grande strada passa direttamente attraverso il cuore del
+quartiere residenziale di Chyrellos. Ad ovest un cancello segna la fine
+strada mentre la via continua ad est. Ai lati della strada si trovano due
+negozi: quello a nord sembra piu' pieno mentre quello a sud sembra
+attrarre una clientela migliore.
+~
+220 0 1
+D0
+C'e' un piccolo negozio con sopra un cartello. Il cartello
+ha la forma della silhouette di una mucca.
+~
+~
+0 0 22035 0
+D1
+~
+~
+0 0 22003 0
+D2
+A sud c'e' un negozio tenuto piuttosto bene, con una grande
+porta di ferro mantenuta aperta da un ceppo di legno. Un grande
+cartello rettangolare e' posto sulla finestra: "Ciondoli e Ninnoli".
+~
+~
+0 0 22036 0
+D3
+~
+~
+0 0 22001 0
+E
+cancello cancelli casa custode~
+La casa del custode e' ad ovest, che fa da accesso ed uscita
+attraverso le mura che circondano il quartiere. Alto approssimativamente
+5 metri, il cancello e' perennemente aperto consentendo libero passaggio.
+~
+E
+negozio negozi~
+Dopo una attenta ispezione decidi che il negozio a nord e'
+una macelleria mentre quello a sud ha un cartello sul quale leggi:
+"Ciondoli e Ninnoli".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22003
+Via dei Mestieri~
+   Qui Via dei Mestieri interseca un'altra strada piu' piccola.
+Un cartello stradale la identifica come Via della Creta.
+Uno sguardo veloce a nord ed uno a sud rivela un negozio
+o due e niente d'altro d'interessante. Guardando ad ovest
+vedi un cancello mentre Via dei Mestieri continua ad est.
+~
+220 0 1
+D0
+~
+~
+0 0 22008 0
+D1
+~
+~
+0 0 22014 0
+D2
+~
+~
+0 0 22013 0
+D3
+~
+~
+0 0 22002 0
+E
+cancello cancelli casa custode~
+La casa del custode e' ad ovest, che fa da accesso ed uscita
+attraverso le mura che circondano il quartiere. Alto approssimativamente
+5 metri, il cancello e' perennemente aperto consentendo libero passaggio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22004
+Vicolo~
+   Stai camminando per questo vicolo, i tuoi passi scricchiolano
+sui rifiuti. Il vicolo si apre fra due palazzi di Via dei Mestieri
+a sud e il vicolo prosegue a nord. C'e' un debole odore di
+decomposizione che ti fa storcere il naso; e' arrivato il
+momento di muoversi...
+~
+220 0 1
+D0
+~
+~
+0 0 22005 0
+D2
+A sud c'e' Via dei Mestieri.
+~
+~
+0 0 22001 0
+E
+immondizia rifiuti~
+Immondizie, rifiuti ed affini. Decidi che non c'e' ragione di
+piantare radici qui.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22005
+Vicolo~
+   Un vicolo porta a sud di qui da un'entrata ad est su Via
+della Creta. Immondizie e rifiuti scricchiolano sotto le scarpe
+anche se cammini in punta di piedi; ovviamente questa non e'
+una delle attrazioni da far risaltare di Chyrellos.
+~
+220 0 1
+D1
+Via della Creta e' ad est.
+~
+~
+0 0 22006 0
+D2
+~
+~
+0 0 22004 0
+E
+immondizia rifiuti~
+Immondizie, rifiuti ed affini. Decidi che non c'e' ragione di
+piantare radici qui.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22006
+Via della Creta~
+   Via della Creta finisce bruscamente qui. Guardandoti attorno
+scorgi qualche uscita - una che torna indietro per Via della
+Creta ad est, sulle mura, ed un negozio a sud. Comunque le mura
+non sembrano molto sicure con tutte quelle guardie sul camminamento.
+A questo punto il negozio a sud sembra il posto piu' accogliente
+dove dirigere i propri passi.
+~
+220 0 1
+D1
+~
+~
+0 0 22007 0
+D2
+Un piccolo negozio e' a sud. Il cartello dice:
+           "Libreria di Sakifan"
+~
+~
+0 0 22040 0
+D3
+Ad ovest c'e' uno stretto vicolo.
+~
+~
+0 0 22005 0
+E
+mura~
+   Guardando in alto, vedi una guardia sopra di te. Non vuoi
+una chance; potresti essere morto prima di aver raggiunto
+il camminamento e di aver iniziato a difenderti.
+~
+E
+negozio~
+Un piccolo negozio e' a sud. Il cartello dice:
+           "Libreria di Sakifan"
+~
+E
+guardia guardie~
+Una guardia di pattuglia ti guarda svogliatamente e poi
+passa oltre...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22007
+Via della Creta~
+   Via della Creta curva verso ovest. A sud vedi l'intersezione
+fra Via dei Mestieri e Via della Creta. A nord c'e' una grande
+palazzo dalla quale senti provenire delle risate. La
+palazzo e' alta ed imponente.
+~
+220 0 1
+D0
+C'e' una grande palazzo a nord, sembra essere una fabbrica.
+Senti un debole aroma di alcool nell'aria.
+~
+~
+0 0 22039 0
+D1
+C'e' un vicolo che porta ad est.
+~
+~
+0 0 22025 0
+D2
+~
+~
+0 0 22008 0
+D3
+~
+~
+0 0 22006 0
+E
+palazzo~
+C'e' una grande palazzo a nord, sembra essere una fabbrica.
+Senti un debole aroma di alcool nell'aria.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22008
+Via delle Creta~
+   Via della Creta conduce a nord ed incrocia Via dei Mestieri
+a sud. Qui le palazzi sono leggermente decadenti; evidentemente
+non c'e' un piano di ristrutturazione.
+Ad ovest una statua di gargoyle in pietra sembra indicare le
+macerie di una antica chiesa. Ti assale una tale malinconia che
+chini la testa.
+~
+220 34359738368 1
+D0
+~
+~
+0 0 22007 0
+D2
+~
+~
+0 0 22003 0
+D3
+Uno stretto sentiero passa attraverso le macerie.
+~
+~
+0 0 22038 0
+E
+gargoyle~
+Ti fa le boccacce. Puoi chiaramente avvertire il suo spasso.
+~
+E
+macerie chiesa sentiero~
+Sembra sia andata distrutta molti, molti anni fa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22009
+Vicolo~
+   Un gatto morto giace all'ingresso del vicolo. Nessuno dei
+passanti di Via dei Mestieri ha buttato uno sguardo in questa
+direzione. Il vicolo prosegue a sud.
+Un forte odore di sangue rappreso e zaffate di marciume
+impesta l'aria...
+~
+220 4 1
+D0
+Vedi Via dei Mestieri a nord.
+~
+~
+0 0 22001 0
+D2
+~
+~
+0 0 22010 0
+E
+gatto morto~
+Sembra essere morto da pochi giorni. Cibo per uccelli e topi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22010
+Vicolo~
+   Un tavolo e' stato messo qui, sopra c'e' una tovaglia
+piuttosto bella ed e' adornato con diversi utensili di legno.
+Due corpi sono riversi sulle sedie proprio davanti al tavolo
+ed il loro stato di decomposizione fa supporre che siano
+morti da almeno due settimane.
+Il vicolo prosegue a nord e ad est.
+~
+220 0 1
+D0
+~
+~
+0 0 22009 0
+D1
+~
+~
+0 0 22011 0
+E
+corpo corpi~
+Sembrano corpi appartenenti al ceto medio-alto di Chyrellos,
+i vestiti dovevano essere veramente belli una volta.
+~
+E
+tavolo utensili tovaglia sedia sedie~
+A dir poco un'esperienza davvero disgustosa!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22011
+Vicolo~
+   In mezzo al vicolo c'e' un piccolo giaciglio di paglia
+decorato con un pezzo di legno e del cordone.
+Il vicolo porta a sud e ad est in Via della Creta mentre ad
+ovest si inoltra profondamente fra i palazzi.
+Un forte puzzo ti fa lacrimare gli occhi.
+Ci sono dei graffiti sul muro, disegnati con mano tremante
+e utilizzando materiale di rifiuto.
+~
+220 4 1
+D1
+Vedi Via della Creta ad est.
+~
+~
+0 0 22012 0
+D3
+~
+~
+0 0 22010 0
+E
+giaciglio letto~
+Pieno di pulci, e' un posto veramente poco appetibile dove dormire.
+~
+E
+graffiti scritte muro ~
+dice:
+
+"Drazel kamp miya fond."
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22012
+Via della Creta~
+   Via della Creta finisce contro le mura a sud, la sola strada e'
+tornare indietro verso Via dei Mestieri. Una leggera brezza ti
+porta un terribile odore e te ne vai velocemente.
+Qualcosa ti rende infelice, ma forse e' solo la tua immaginazione.
+~
+220 0 1
+D0
+~
+~
+0 0 22013 0
+D1
+Uno stretto vicolo porta ad est.
+~
+~
+0 0 22032 0
+D3
+Vedi uno stretto vicolo che si apre ad ovest.
+~
+~
+0 0 22011 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22013
+Via della Creta~
+   L'intersezione fra Via dei Mestieri e Via della Creta e' subito
+a nord. A sud, Via della Creta continua verso le mura sud
+del quartiere, non molto lontano. Una bella palazzo di
+squisita architettura e' ad est mentre un tipico odore di tannino
+proviene da un negozio ad ovest.
+~
+220 0 1
+D0
+~
+~
+0 0 22003 0
+D1
+Ad est c'e' un bel negozio.
+~
+~
+0 0 22042 0
+D2
+~
+~
+0 0 22012 0
+D3
+C'e' un vecchio negozio ad ovest. La porta sta quasi per uscire
+dai cardini.
+~
+~
+0 0 22041 0
+E
+muro~
+Le mura sono alte e sembrano dure da scalare. Penso che le guardie
+ti potrebbero buttare di sotto prima ancora che tu arrivi sulla camminata
+~
+E
+palazzo~
+Ad est c'e' un bel negozio.
+~
+E
+negozio~
+C'e' un vecchio negozio ad ovest. La porta sta quasi per uscire
+dai cardini.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22014
+Via dei Mestieri~
+   Il traffico su questa strada e' scarso all'inizio, ma aumenta
+ad est. Ad ovest vedi l'incrocio fra Via dei Mestieri e Via della
+Creta che scorre da nord a sud. Una grande palazzo senza
+tetto e' a nord mentre a sud c'e' un gran lotto di terreno: un parco
+chiuso fino a data da destinarsi.
+~
+220 0 1
+D0
+A nord c'e' una palazzo con molti posti recintati.
+~
+~
+0 0 22053 0
+D1
+~
+~
+0 0 22015 0
+D3
+~
+~
+0 0 22003 0
+E
+prati prato lotto~
+E' una grande area, adatta per mercati, festivals, fiere e feste.
+Purtroppo ora e' chiusa.
+~
+E
+palazzo~
+A nord c'e' una palazzo con molti posti recintati.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22015
+Via dei Mestieri~
+   Qui Via dei Mestieri si allarga leggermente, permettendo
+un traffico maggiore. Ti accorgi che ci sono casette identiche
+ad est e ad ovest che marcano il confine fra Via dei Mestieri
+ed il vicinato. A sud c'e' un grande parco chiuso fino a data
+da destinarsi. Una grande casa a nord sembra chiusa e reca
+il cartello: "AFFITTASI"
+~
+220 0 1
+D1
+~
+~
+0 0 22016 0
+D3
+~
+~
+0 0 22014 0
+E
+cartello~
+Dice: "AFFITTASI". Cio' vuol dire che la casa non e' occupata.
+~
+E
+casa~
+E' in affitto. Puoi leggere sul cartello: "AFFITTASI".
+~
+E
+casa custode case~
+La casa del custode e' ad ovest, che fa da accesso ed uscita
+attraverso le mura che circondano il quartiere. Alto approssimativamente
+5 metri, il cancello e' perennemente aperto consentendo libero passaggio.
+~
+E
+prati prato~
+E' una grande area, adatta per mercati, festivals, fiere e feste.
+Purtroppo ora e' chiusa.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22016
+Via dei Mestieri~
+   Diverse persone stanno camminando qui, ma sembrano evitarti.
+La cittadinanza sembra silenziosa, depressa e sedentaria.
+Via dei Mestieri porta lontano ad ovest mentre c'e' una grande
+casa non lontano ad est. Una strada chiamata Corso dei Calmi
+incrocia qui alleggerendo molto traffico della strada principale.
+~
+220 0 1
+D0
+~
+~
+0 0 22018 0
+D1
+~
+~
+0 0 22017 0
+D2
+~
+~
+0 0 22026 0
+D3
+~
+~
+0 0 22015 0
+E
+casa custode case cancello cancelli~
+La casa del custode e' ad ovest, che fa da accesso ed uscita
+attraverso le mura che circondano il quartiere. Alto approssimativamente
+5 metri, il cancello e' perennemente aperto consentendo libero passaggio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22017
+Casa del Custode~
+   Questa e' una casa piuttosto grande all'interno delle mura.
+Attraverso i cancelli puoi vedere Via dei Mestieri.
+
+Il cancello sembra essere un punto ben difendibile delle mura.
+Ad ovest un grande strada porta attraverso il quartiere.
+~
+220 0 1
+D3
+~
+~
+0 0 22016 0
+E
+cancello cancelli~
+Grande e di ferro. Questi cancelli sono stati fatti per tenere la
+gente fuori del quartiere. Sembra essere fatto bene.
+~
+E
+mura~
+Le mura sono alte e fiere. Guardie percorrono per tutta la
+sua lunghezza la camminata controllando per la sicurezza
+della città'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22018
+Corso dei Calmi~
+   Questo e' Corso dei Calmi appena a nord di dove interseca
+Via dei Mestieri. I dintorni sembrano essere abitati da gente
+di ceto medio-basso ma non sono invivibili.
+La maggior parte delle palazzi sembra di basso costo per
+la popolazione comune di Chyrellos; la densita' della popolazione
+e' molto alta qui.
+~
+220 0 1
+D0
+~
+~
+0 0 22019 0
+D2
+~
+~
+0 0 22016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22019
+Corso dei Calmi~
+ Corso dei Calmi continua e a nord vedi un altro incrocio.
+Ci sono molte palazzi adibite ad abitazione in quest'area.
+~
+220 0 1
+D0
+~
+~
+0 0 22020 0
+D2
+~
+~
+0 0 22018 0
+E
+casa case palazzi~
+Sembrano essere di bassa classe e di bassa qualita'.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22020
+Via dei Suonatori~
+   Il cartello stradale identifica questa strada come Via dei Suonatori.
+Corso dei Calmi porta a sud di qui verso Via dei Mestieri e la sezione
+meridionale del quartiere. Via dei Suonatori qui segue il perimetro
+delle mura, delimitato da appartamenti e da poche case a due piani.
+A nord c'e' una pensione particolarmente brutta.
+~
+220 0 1
+D0
+C'e' una pensione a nord.
+~
+~
+0 0 22043 0
+D1
+~
+~
+0 0 22022 0
+D2
+~
+~
+0 0 22019 0
+D3
+~
+~
+0 0 22021 0
+E
+palazzo palazzi~
+Casamenti, appartamenti e pensioni.
+~
+E
+pensione~
+C'e' una sporca, sgradevole pensione a nord.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22021
+Via dei Suonatori~
+   Questa, la parte ovest di Via dei Suonatori, e' delimitata
+dai grandi palazzi e case tipici di questa parte della citta'.
+Pigramente noti che mancano i graffiti tipici delle altre zone
+della città'.
+~
+220 0 1
+D0
+A nord c'e' una comune casa.
+~
+~
+0 0 22047 0
+D1
+~
+~
+0 0 22020 0
+D3
+~
+~
+0 0 22023 0
+E
+palazzi palazzo casa case~
+Non e' un posto molto bello da visitare e sicuramente neanche da viverci.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22022
+Via dei Suonatori~
+   Via dei Suonatori corre in modo strano qui, i palazzi dall'altra
+parte sembrano piegati e curvati dal terreno diseguale.
+I dintorni sembrano silenziosi, quasi silenziosi. Strano...
+~
+220 0 1
+D0
+A nord c'e' una comune casa.
+~
+~
+0 0 22045 0
+D2
+A sud c'e' una comune casa.
+~
+~
+0 0 22046 0
+D3
+~
+~
+0 0 22020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22023
+Via dei Suonatori~
+   Questa e' la fine ovest di Via dei Suonatori. Ad ovest puoi
+vedere Corso dei Calmi che scende a sud non lontana da qui.
+Non c'e' molto traffico dopo tutto... un rione davvero calmo.
+~
+220 0 1
+D1
+Ad est c'e' una casa privata.
+~
+~
+0 0 22021 0
+D2
+A sud c'e' un'altra casa comune.
+~
+~
+0 0 22048 0
+D3
+Un vicolo porta ad ovest.
+~
+~
+0 0 22024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22024
+Vicolo~
+   Questo e' un vicolo vicino a Via dei Suonatori che porta a
+sud. Un putrido fetore ti imbambola un attimo, il vicolo e'
+pieno di immondizia e rifiuti umani, Respiri tramite la bocca
+per rendere un poco tollerabile la cosa, ma non di molto.
+I palazzi dall'altra parte della strada si ergono alti e ti tolgono
+la luce disponibile. Il fetore e l'oscurita' ti fanno drizzare i
+capelli.
+~
+220 0 1
+D1
+Via dei Suonatori va verso est.
+~
+~
+0 0 22023 0
+D2
+~
+~
+0 0 22025 0
+E
+immondizia rifiuto rifiuti~
+Acque di scolo. Yuck.
+~
+E
+palazzo palazzi~
+Si profilano, alti e spettrali sopra di te.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22025
+Vicolo~
+   Questa e' la fine sud del vicolo che si collega con Corso
+dei Calmi ad ovest. Un vento malato che spira da nord ti arruffa
+i capelli, portando con se' un puzzo di fogna e decomposizione.
+Ti senti abbastanza nauseato.
+~
+220 0 1
+D0
+~
+~
+0 0 22024 0
+D3
+La fine nord di Corso dei Calmi e' ad ovest.
+~
+~
+0 0 22007 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22026
+Corso dei Calmi~
+   Corso dei Calmi porta a sud da Via dei Mestieri verso il
+fiume. La qualita' dei negozi e dei palazzi in questa zona
+e' notevolmente peggiorata. Rifiuti insozzano la strada.
+~
+220 0 1
+D0
+~
+~
+0 0 22016 0
+D1
+~
+~
+0 0 22049 0
+D2
+~
+~
+0 0 22027 0
+E
+fiume~
+Il fiume scorre imponente, solo appena inquinato dalla citta'
+e dalla popolazione. Sembra pulito, ma bevi a monte.
+~
+E
+pannolini~
+Vedi numerosi pannolini da newbie. Dannati NEWBIE!!!
+~
+E
+negozio negozi palazzo palazzi~
+Sono ben peggiori ora.
+
+Subisci un improvviso attacco di nostalgia.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22027
+Corso dei Calmi~
+   Sei vicino alla fine sud di Corso dei Calmi, dove si interseca
+con Viale dei Briganti vicino al fiume. Ad ovest c'e' un negozio
+aperto con fuori una mostruosa ancora.
+~
+220 0 1
+D0
+~
+~
+0 0 22026 0
+D2
+~
+~
+0 0 22028 0
+D3
+Ad ovest c'e' un piccolo negozio.
+~
+~
+0 0 22050 0
+E
+fiume~
+Il fiume scorre imponente, solo appena inquinato dalla citta'
+e dalla popolazione. Sembra pulito, ma bevi a monte.
+~
+E
+negozio~
+Ad ovest c'e' un piccolo negozio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22028
+Viale dei Briganti~
+   Viale dei Briganti corre parallelo alla sponda del fiume.
+Ad est vedi le banchine che si protendono nell'acqua, le
+sue tavole di legno usate dalle ciurme delle navi commerciali
+che caricano e scaricano tutti i giorni. Lungo la strada, a nord,
+in entrambe le direzioni vedi alcune tipiche taverne che ti
+saresti aspettato fossero chiuse. A nord di qui Corso dei Calmi
+porta verso Via dei Mestieri e verso la zona centrale della citta'.
+~
+220 0 1
+D0
+~
+~
+0 0 22027 0
+D1
+~
+~
+0 0 22033 0
+D3
+~
+~
+0 0 22029 0
+E
+fiume~
+Il fiume scorre imponente, solo appena inquinato dalla citta'
+e dalla popolazione. Sembra pulito, ma bevi a monte.
+~
+E
+banchina banchine~
+Le banchine si spingono nel fiume per le navi di passaggio.
+Sono a sud-est
+~
+E
+taverna taverne~
+C'e' una taverna a nord ovest di qui.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22029
+Viale dei Briganti~
+   Le mura della città' iniziano qui, dove il fiume scende dolcemente
+dalla città'. Di palazzi qui ce ne sono meno, ma non molto.
+Non sembra un buon posto dove vivere.
+~
+220 0 1
+D0
+A nord c'e' una orribile, disgustosa taverna . E' aperta.
+~
+~
+0 0 22052 0
+D1
+~
+~
+0 0 22028 0
+D3
+~
+~
+0 0 22030 0
+E
+fiume~
+Il fiume scorre imponente, solo appena inquinato dalla citta'
+e dalla popolazione. Sembra pulito, ma bevi a monte.
+~
+E
+palazzo palazzi negozio negozi taverna taverne~
+A nord c'e' una orribile, disgustosa taverna.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22030
+Viale dei Briganti~
+   Viale dei Briganti finisce qui, proprio contro le mura che curvano.
+Le mura sono specialmente alte qui, forse per proteggere le guardie
+dalla folla sottostante. I muri sono sporchi di immondizie e rifiuti,
+ovviamente tiri mancati alle guardie di pattuglia sul camminamento.
+~
+220 0 1
+D0
+Ci deve essere un vicolo a nord...
+~
+~
+0 0 22031 0
+D1
+~
+~
+0 0 22029 0
+E
+mura~
+Le mure si ergono alte e fiere. Guardie camminano lungo il
+camminamento proteggendo la città' dagli invasori.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22031
+Vicolo~
+   Questo stretto vicolo e' percorso da parecchia gente. Nella
+polvere ci sono orme che vanno in tutte le direzioni. Il vicolo
+prosegue ad ovest e a sud vedi Viale dei Briganti.
+~
+220 0 1
+D2
+Vedi Viale dei Briganti a sud.
+~
+~
+0 0 22030 0
+D3
+~
+~
+0 0 22032 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22032
+Vicolo~
+   Questo e' uno stretto vicolo, polveroso e dimenticato.
+Delle cianfrusaglie giacciono in terra, dimenticate o buttate
+via. Questo vicolo sembra non essere trafficato per niente,
+o usato come discarica. Il percorso tra i palazzi continua
+ad est mentre ad ovest sfocia su Via della Creta.
+~
+220 0 1
+D1
+~
+~
+0 0 22031 0
+D3
+La fine sud di Via della Creta e' ad ovest.
+~
+~
+0 0 22012 0
+E
+cianfrusaglia cianfrusaglie~
+Mobili rotti, carta straccia e ogni genere di vecchio ciarpame.
+Cianfrusaglie.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22033
+Viale dei Briganti~
+   Viale dei Briganti finisce qui. Un muretto attraversa la strada.
+A sud ci sono le banchine della città' che si protendono nel
+fiume che scorre dolcemente. Una nave solitaria naviga verso
+est e sfoggia una bandiera mercantile.
+A nord c'e' un palazzo in rovina.
+~
+220 0 1
+D0
+A nord c'e' quello che una volta doveva essere un negozio.
+~
+~
+0 0 22051 0
+D2
+A sud ci sono delle banchine in legno.
+~
+~
+0 0 22034 0
+D3
+~
+~
+0 0 22028 0
+E
+muretto muro~
+Sembra fresco. Ed e' anche stato costruito frettolosamente.
+Serve per mantenere qualcuno fuori (o dentro?).
+~
+E
+nave~
+Naviga in mare aperto.
+~
+E
+banchina banchine~
+A sud ci sono delle banchine in legno.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22034
+Le banchine della citta'~
+   Passerelle in legno e fragili ponti di corda sparsi dappertutto.
+Le banchine sono piccole - troppo piccole per il traffico che c'e'.
+Una grande nave e' ancorata lontano dalle altre barche; sulla
+fiancata al posto del nome c'e' uno strano disegno. La sua passerella
+e' sollevata ora, non si sale per oggi.
+~
+220 0 5
+D0
+A nord c'e' Viale dei Briganti.
+~
+~
+0 0 22033 0
+E
+nave~
+E' una bella nave, a pensarci bene.
+~
+E
+barca barche~
+Barche galleggianti. Niente di speciale.
+~
+E
+banchina banchine~
+Le assi sono consunte. Non e' ora di costruire della banchine
+nuove?
+~
+E
+fiume~
+Il fiume scorre imponente, solo appena inquinato dalla citta'
+e dalla popolazione. Sembra pulito, ma bevi a monte.
+~
+E
+disegno~
+Sostituiscilo. =)
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22035
+Macelleria~
+   Uno sgradevole odore ti assale le narici quando varchi la
+soglia di questo negozio. Gli odori di carne fresca, sangue
+e sudore sono chiaramente avvertibili; e' un classico per una
+buona macelleria. Un pannello di vetro ti separa da uno
+sconcertante spiegamento di fette e spalle di manzo, cervo,
+coniglio ed altro. Un cartello dice: "per un servizio migliore
+si prega di prendere un numero"
+~
+220 8 0
+D2
+Il negozio da' su Via dei Mestieri a sud.
+~
+~
+0 0 22002 0
+E
+carne fette fetta carni spalla spalle manzo cervo coniglio~
+E' buona se ti piace la carne cruda.
+~
+E
+pannello vetro~
+Credi che sia chiamato "anti-starnuto".
+~
+E
+sangue~
+Del sangue e' sparso sul bancone e sul pavimento.
+Cosa ti saresti aspettato in una macelleria?
+~
+E
+cartello numero numeri~
+Il prossimo numero e' 4. Abbastanza vicino, possiamo aspettare.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22036
+Gioielleria~
+   Poche luci sistemate strategicamente illuminano questo
+locale privo di finestre. Sorprendentemente, c'e' solo una panca
+e qualche sedia; non c'e' assolutamente niente da comprare!!!
+Presto pero' diviene chiaro che il metodo di vendita del mercante
+consiste nell'informarsi dal cliente dell'articolo che desidera
+ed in seguito recarsi nel retro bottega, dietro una grande porta
+di metallo, per prendere una serie di oggetti similari a quelli
+richiesti.
+E' un metodo chiaramente discutibile di vendita ma di certo molto
+sicuro.
+~
+220 8 1
+D0
+A nord c'e' Via dei Mestieri.
+~
+~
+0 0 22002 0
+E
+luce luci lanterna lanterne~
+Solo una classica lanterna, disponibile in qualsiasi supermercato.
+~
+E
+panca sedia sedie~
+Normali mobili in legno.
+~
+E
+porta metallo sud retro bottega~
+E' chiusa e non vedi la serratura. Strano...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22038
+Macerie e Rovine~
+   Segui un passaggio tra il pietrisco che ti porta dritto
+verso quello che una volta era il centro della chiesa.
+Qualche vecchio torsolo di mela e un pupazzo di legno rotto
+sul terreno sono chiari segni che ora questa e' un'area di
+gioco per bambini, ma i lavori in pietra rotti tutt'intorno
+testimoniano di un'eta' migliore.
+Un senso di malinconia ti assale e decidi che e' ora di
+andartene da li'.
+~
+220 4 4
+D1
+~
+~
+0 0 22008 0
+E
+pupazzo rotto legno~
+   E' un piccolo giocattolo fatto con amore, ora trattato
+senza cura.
+~
+E
+lavori pietra pietrisco~
+Evidenza di una grande chiesa e di una grande catastrofe.
+~
+E
+mela torsolo torsoli~
+Vecchi di qualche ora, non piu' di tanto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22039
+Birreria~
+   Barili di birra e vino sono accatastati lungo le pareti,
+aspettando di essere venduti nelle taverne di tutto il mondo.
+L'odore di fermentazione e' forte ed i pavimenti della birreria
+sono permanentemente macchiati di rosso e bruno a causa della
+spillatura dell'alcool. Diversi cartelli con eccitanti slogans
+sono sparsi per l'area, ovviamente per il morale dei lavoratori.
+Noti anche che alcuni barili sono aperti per l'assaggio dei
+clienti.
+~
+220 8 0
+D2
+Via della Creta e' ad est.
+~
+~
+0 0 22007 0
+E
+cartello cartelli~
+NON PREOCCUPARTI, SII FELICE. BEVI DELLA BUONA BIRRA.
+~
+E
+barile barili birra vino~
+C'e' un mucchio d'alcool qui. Questa birreria produce molto
+liquido... abbastanza da ubriacare tutta la citta'.
+~
+E
+pavimento pavimenti~
+Grandi e piccole macchie. Gli operai ti guardano divertiti
+mentre esamini il pavimento...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22040
+Libreria di Sakifan~
+   LIBRI!
+   Scaffali di libri, pile di libri, muri di libri!
+Sei impressionato dalla quantita' di carta e di inchiostro
+che ti circonda. Se cerchi qualcosa e' sicuramente qui...
+da qualche parte.
+~
+220 8 0
+D0
+Via della Creta e' a nord.
+~
+~
+0 0 22006 0
+E
+libro libri scaffale scaffali scansia scansie~
+"Le Vie di Poke-Fu" "Come addestrare un gabbiano" "Elementare
+Elementali" "Rituali dei Nani" "La storia di Chyrellos" 
+"L'arte di piacere ad un uomo".
+L'ultimo ti fa arrossire un poco e tenti di fare l'indifferente.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22041
+Conceria~
+   Il negozio e' impermeato di odore di tannino. Al centro
+della stanza c'e' un lungo bancone sul quale si trovano
+varie strisce e pezzi di pelli. Molti articoli gia' finiti sono
+appesi alle pareti in attesa di un compratore.
+~
+220 8 0
+D1
+Via della Creta corre a nord e a sud.
+~
+~
+0 0 22013 0
+E
+bancone~
+E' un bancone semplice in legno alto fino alla cintura.
+~
+E
+striscia strisce pezzo pezzi pelle cuoio~
+Alcuni sembrano quasi finiti, per gli altri fai fatica a stabilire
+che provengono da una mucca.
+~
+E
+articolo articoli finito finiti~
+Non male, non male dopo tutto... per essere pelle.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22042
+Il Notaio Ceran~
+   Questo negozio consiste semplicemente di una grande
+scrivania in legno con alcune sedie davanti ad esso. Lungo
+le pareti ci sono i prospetti di molti dei palazzi di Chyrellos
+e in un angolo c'e' un cavalletto con un disegno di quello che
+sembra essere una grande centro commerciale.
+~
+220 8 0
+D3
+Via della Creta e' appena fuori di qui.
+~
+~
+0 0 22013 0
+E
+scrivania sedia sedie~
+Classici pezzi di mobili in legno. Che pensavi?
+~
+E
+prospetto prospetti disegno disegni~
+Sono stati eseguiti con estrema cura. I palazzi sembrano
+identici agli originali.
+~
+E
+cavalletto centro commercio commerciale~
+E' bello. Un solo problema penso...
+
+Sembra sia stato progettato sopra un grappolo di
+appartamenti. Questo e' "progresso!".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22043
+Pensione~
+   Questa stanza serve da entrata principale ed atrio per questa
+pensione. Le pareti di legno sono macchiate dalla muffa e gli dei
+sanno di cosa d'altro. I pavimenti non sono mai stati puliti.
+Una vecchia scrivania traballante e' posta vicino alla porta interna
+con un registro lacero e scucito sul ripiano. L'aria e' umida e c'e'
+un non so che di disperazione, ti senti decisamente depresso.
+~
+220 12 0
+D0
+~
+~
+0 0 22044 0
+D2
+Via dei Suonatori corre fuori di qui.
+~
+~
+0 0 22020 0
+E
+muri pavimenti scrivania pavimento muro~
+Sporco. Sgangherato. Stracciato. Macchiato. Danneggiato. Terribile.
+~
+E
+registro~
+C'e' una sola pagina rimasta nel registro. Cosi' molta gente ha
+firmato su quell'unica pagina e l'ha resa illeggibile.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22044
+Corridoio~
+   Questo corridoio attraversa tutta la costruzione e da' su
+diverse piccole stanze ad intervalli regolari. Una porta socchiusa
+ti permette di dare una rapida occhiata in degli ambienti minuscoli;
+appena sufficienti per un letto, un baule ed una persona. Guardandoti
+in giro disgustato non trovi nessuna ragione valida per entrare in quelle
+stanze. L'atrio a sud e' la sola uscita interessante.
+~
+220 8 0
+D2
+~
+~
+0 0 22043 0
+E
+sporco macchie~
+Che cosa ti aspetti esattamente di vedere?
+~
+E
+letto baule quadro quadri~
+Questi dovrebbero essere sec..er..thir...err.. mobili fatti a mano?
+~
+E
+stanza stanze~
+Piccole, molto piccole. A dormire qui si potrebbe essere assaliti
+dai crampi!!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22045
+Una casa privata~
+   Questa e' una piccola e graziosa casetta. Dall'esterno ti sembra
+esattamente uguale alle altre case tipiche dei dintorni di Chyrellos,
+ma all'interno... beh... dopotutto... e' uguale a tutte le altre.
+Vedi quello che di solito c'e' in un posto dove si abita: una comoda
+sedia a dondolo in un angolo e un piccolo giocattolo abbandonato sul tavolo
+vicino.
+~
+220 12 0
+D2
+All'esterno c'e' Via dei Suonatori.
+~
+~
+0 0 22022 0
+E
+sedia dondolo~
+Il tempo e la cura hanno permesso a questa sedia di vedere tanti
+nipotini..
+~
+E
+giocattolo~
+E' un pupazzo di pezza. E' molto carino.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22046
+Una casa privata~
+   Questa e' una piccola e graziosa casetta. Dall'esterno ti sembra
+esattamente uguale alle altre case tipiche dei dintorni di Chyrellos,
+ma all'interno... beh... dopotutto... e' uguale a tutte le altre.
+Vedi quello che di solito c'e' in un posto dove si abita: una catasta
+di legna in un angolo per il caminetto e un impasto per il pane ancora
+in lievitazione avvolto in un asciugamani.
+~
+220 12 0
+D0
+A nord c'e' Via dei Suonatori.
+~
+~
+0 0 22022 0
+E
+legna pila camino caminetto~
+Parecchia legna dell'ultimo inverno.
+~
+E
+impasto asciugamano asciugamani pane~
+Il profumo e' ottimo ma non ha ancora finito di lievitare...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22047
+Una casa privata~
+   Questa e' una piccola e graziosa casetta. Dall'esterno ti sembra
+esattamente uguale alle altre case tipiche dei dintorni di Chyrellos,
+ma all'interno... beh... dopotutto... e' uguale a tutte le altre.
+Vedi quello che di solito c'e' in un posto dove si abita: un piatto in pezzi
+dell'ultimo pasto giace vicino a una sedia sovraccarica di roba.
+~
+220 12 0
+D2
+A sud c'e' Via dei Suonatori.
+~
+~
+0 0 22021 0
+E
+sovraccarica sedia~
+Sarebbe una sedia molto confortevole se ci si potesse sedere sopra!
+~
+E
+piatto pezzo pezzi pasto~
+Sembra sia stato rotto mentre lo pulivano.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22048
+Una casa privata~
+   Questa e' una piccola e graziosa casetta. Dall'esterno ti sembra
+esattamente uguale alle altre case tipiche dei dintorni di Chyrellos,
+ma all'interno... beh... dopotutto... e' uguale a tutte le altre.
+Vedi quello che di solito c'e' in un posto dove si abita: una
+partita a scacchi interrotta sul tavolo fra due sedie in legno
+dallo schienale rigido.
+~
+220 12 0
+D0
+La fine ovest di Via dei Suonatori e' a nord.
+~
+~
+0 0 22023 0
+E
+partita scacco scacchi~
+Il Nero sta vincendo.
+~
+E
+legno sedia sedie tavolo~
+Fatto in casa, ma molto meglio rifiniti dei mobili che hai visto
+nei negozi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22049
+Una casa privata~
+   Questa e' una piccola e graziosa casetta. Dall'esterno ti sembra
+esattamente uguale alle altre case tipiche dei dintorni di Chyrellos,
+ma all'interno... beh... dopotutto... e' uguale a tutte le altre.
+Vedi quello che di solito c'e' in un posto dove si abita: una bottiglia
+di birra vuota su una bozza con le ultime notizie del Chyrellos' Magazine.
+~
+220 12 0
+D3
+Corso dei Calmi e' ad ovest.
+~
+~
+0 0 22026 0
+E
+bottiglia vuota birra~
+L'etichetta dice:
+
+"Fermentazione Mistica"
+
+e nient'altro.
+~
+E
+notizie bozza Chyrello's Magazine~
+E' vecchio. Buttalo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22050
+Marina~
+   Questo negozio e' decorato con corde e reti appese lungo le
+pareti. In un secondo tempo realizzi che le corde e le reti sono
+gli articoli del negozio, insieme a molto altro utile equipaggiamento
+marinaresco. Il banco del mercante e' un semplice ripiano di legno
+che poggia su due piccole ancore... questo posto ha una atmosfera
+incredibile! Una finestra aperta sul fiume fa entrare una piacevole brezza
+nel locale che ti scompiglia gentilmente i capelli.
+~
+220 8 0
+D1
+Corso dei Calmi e' ad est.
+~
+~
+0 0 22027 0
+E
+corda corde rete reti equipaggiamento ancora ancore~
+Bell'articolo con prezzi abbordabili per le tasche dei marinai.
+Se volessi potresti trovare qualcosa di utile qui.
+~
+E
+fiume~
+Il fiume scorre imponente, solo appena inquinato dalla citta'
+e dalla popolazione. Sembra pulito, ma bevi a monte.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22051
+Drogheria~
+   Questo una volta doveva essere un negozio di granaglie.
+Cammini leggero fra grano ammuffito sparso in terra e dei
+barili rotti. Il posto assomiglia ad un letamaio!
+~
+220 12 0
+D2
+Viale dei Briganti corre parallelo al fiume a sud.
+~
+~
+0 0 22033 0
+E
+grano barile barili~
+Inutili. Rifiuti.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22052
+La Taverna di Grebe~
+    Taverna. Questo e' tutto quello che puoi dire su questo posto.
+Stai attento a dove metti i piedi! Potresti pestare dei marinai e per dive.
+ubriachi! Non ci sono decorazioni alle pareti; sono tutte state adoperate
+come armi nelle risse. Cerchi invano di trovare un tavolo libero.
+~
+220 24 0
+D2
+A sud c'e' Viale dei Briganti.
+~
+~
+0 0 22029 0
+E
+tavolo tavoli~
+Trovi un tavolo che e' relativamente pulito.
+~
+E
+muro muri~
+Nudi, eccetto che per i buchi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#22053
+Stazione Commerciale~
+   Cumuli di stoffe e barili di spezie sono ammucchiati
+in caotica confusione.
+Un piccolo uomo entra dalla stanza sul retro, prende una
+scatola di qualcosa di non ben identificato ed esce velocemente.
+Una tabella sul muro tiene traccia delle carovane e delle navi che
+passano da qui - informazioni molto importanti per un mercante.
+~
+220 8 0
+D2
+All'esterno vedi Via dei Mestieri.
+~
+~
+0 0 22014 0
+E
+cumulo cumuli stoffa~
+Bel materiale... ci si farebbe una bella maglia.
+~
+E
+barile barili spezia spezie~
+Che buon odore! Veramente... aromatico.
+~
+E
+commercio merce merci~
+Il mercante dice: "Posso aiutarla, Signore?"
+~
+E
+tabella~
+Sembra sia in arrivo un'altra carovana.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

@@ -1,0 +1,459 @@
+#900
+Sul Veloce Fluente Fiume~
+   Come il fiume esce dalla citta' di Midgaard accelera la sua corsa e ti
+trascina lungo gli alti argini fiancheggiati dagli alberi di Haon-Dor. Come la citta'
+sbiadisce verso est, verso ovest ti avvicini ad un'oscura foresta.
+~
+9 0 7
+D1
+~
+~
+0 -1 -1 0
+D3
+~
+~
+0 -1 901 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#901
+L'Argine~
+   Il fiume e' profondo e corre velocemente da est ad ovest. A nord il
+fiume gira vorticosamente e forma una risacca dove un piccolo argine si
+protende verso il basso da un buio, grosso gruppo di alberi. In ogni caso
+non sembra particolarmente invitante.
+~
+9 0 7
+D1
+~
+~
+0 -1 900 0
+D3
+~
+~
+0 -1 902 0
+D4
+~
+~
+0 0 1466412 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#902
+La Parte Sinuosa del Fiume~
+   Il fiume svolta e torna e quasi ti sbalza fuori della tua barca.
+L'acqua e' scura, fredda, sembra quasi un rettile nella sua lucentezza.
+Sembra quasi viva. Il fiume scorre a est ed a sud.
+~
+9 0 7
+D1
+~
+~
+0 -1 901 0
+D2
+~
+~
+0 -1 903 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#903
+L'Itinerario~
+La scura foresta di Haon-Dor recede dietro di te a nord-est. Il
+fiume scorre a occidente verso il delta, dove puoi scorgere
+una grande isola.
+~
+9 0 7
+D1
+~
+~
+0 -1 902 0
+D3
+~
+~
+0 -1 904 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#904
+Il Veloce Delta del Fiume~
+   Tu sei all'estremita' del delta, dove il fiume diventa mare.
+Profondo. Buio. Mortale. Le ondate si avventano su di te, intorno
+a te, sopra e sotto di te.
+~
+9 0 7
+D0
+~
+~
+0 -1 911 0
+D1
+~
+~
+0 -1 903 0
+D2
+~
+~
+0 -1 906 0
+D3
+~
+~
+0 -1 905 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#905
+Vicino alle Rocce~
+   Sobbalzi su e giu' sulle onde andando pericolosamente vicino ad alcune
+grandi, acuminate rocce sulla spiaggia orientale di una strana isola.
+Non c'e' modo di arrivare a terra qui senza rimanere ucciso.
+~
+9 0 7
+D1
+~
+~
+0 -1 904 0
+D2
+~
+~
+0 -1 906 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#906
+La Parte Sud del Delta~
+   Sei lungo un canale del delta fra l'isola a ovest e la spiaggia
+a sud e ad est. Guardando a sud vedi un molo vecchio e rotto appena
+fuori terra e verso ovest il canale cinge l'isola nel suo abbraccio.
+~
+9 0 7
+D0
+~
+~
+0 -1 905 0
+D1
+~
+~
+0 -1 904 0
+D2
+~
+~
+0 -1 907 0
+D3
+~
+~
+0 -1 908 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#907
+Il Molo~
+   Stai galleggiando vicino ad un molo sgretolato trascurato
+da lungo tempo. A ovest l'acqua scorre pigramente e molte erbe e
+alghe galleggiano tutt'intorno.
+~
+9 0 7
+D0
+~
+~
+0 -1 906 0
+D3
+~
+~
+0 -1 908 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#908
+Invischiato nelle Alghe~
+   Proseguire e' duro qui.  La marea lotta col percorso del fiume e
+vicino a riva c'e' una gran quantita' di alghe. A ovest il canale
+oltrepassa la punta meridionale dell'isola e va verso il mare
+aperto.
+~
+9 0 7
+D0
+~
+~
+0 -1 906 0
+D1
+~
+~
+0 -1 907 0
+D3
+~
+~
+0 -1 909 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#909
+L'Ultima Sosta~
+   Qui il delta incontra il mare. A ovest, fino all'orizzonte vedi
+solo oceano. Gli uccelli marini si lamentano chiassosamente al tuo
+avvicinarsi e si alzano in volo dalla vicina spiaggia. Sembra essere
+l'ultima sosta prima del mare aperto.
+~
+9 0 7
+D0
+~
+~
+0 -1 910 0
+D1
+~
+~
+0 -1 908 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#910
+La Spiaggia~
+   Questa e' una spiaggia isolata sulla punta meridionale dell'isola.
+Non c'e' molto da vedere e non c'e' modo di superare lo scosceso dirupo
+in questo posto.
+~
+9 0 2
+D2
+~
+~
+0 -1 909 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#911
+Il Canale Nord~
+   Il fiume si divide quando incontra l'isola e forma un canale
+navigabile verso nord e verso ovest.
+~
+9 4 7
+D0
+~
+~
+0 -1 912 0
+D2
+~
+~
+0 -1 904 0
+D3
+~
+~
+0 -1 912 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#912
+Il Canale Nord~
+   La corrente ti porta velocemente verso ovest e come il canale
+si restringe ti spinge a nord-est dell'isola.
+~
+9 0 7
+D1
+~
+~
+0 -1 911 0
+D2
+~
+~
+0 -1 911 0
+D3
+~
+~
+0 -1 913 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#913
+Vicino all'Isola~
+   Sei seduto su di un piccolo spiazzo dell'isola che sembra non
+essere altro che un piccolo sentiero che ti porta verso una collina.
+~
+9 4 7
+D2
+~
+~
+0 0 914 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#914
+Il Sentiero dei Giacenti~
+   Corpi giacciono ovunque. Cittadini, contadini, duca e duchessa. Gli
+Dei non ti ascolteranno se li invocherai in questo posto. Da questo
+momento non ti ascolteranno piu'. A sud il sentiero finisce all'entrata
+di una buia caverna.
+C'e' un cartello presso l'entrata.
+~
+9 0 1
+D0
+~
+~
+0 -1 913 0
+D2
+~
+~
+0 -1 915 0
+E
+Il Cartello della Caverna~
+Un cartello accanto alla buia spelonca recita:
+
+   ATTENZIONE! Solo gli stupidi e i morti entrano qui.
+   Le teste di Minosse, nostro glorioso Sovrano, attendono.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#915
+La Prima Prova di Minosse~
+   Ah... ti trovi nel campo di battaglia di Minosse.  
+Minosse ama torturare la sua gente in questi posti.
+Egli riunisce tutti i mostri e li porta qui.
+~
+9 9 1
+D1
+~
+~
+0 -1 916 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#916
+La Seconda Prova di Minosse~
+   La voce di Minosse risuona dai quatto muri della stanza:
+"Riposati e cerca di essere guarito. Ne avrai bisogno per il
+prossimo mostro. O sei forte abbastanza?"
+   A sud c'e' l'ingresso alla fortezza di Minosse per la
+prossima sfida.
+~
+9 9 1
+D2
+~
+~
+0 -1 917 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#917
+La Terza Prova di Minosse~
+   Entri in una stanza rossa. Molto rossa. Come se il Re Minosse
+la usasse per sventrare i suoi ospiti. Il sentiero continua ad est. In
+quella direzione vedi luci blu.
+~
+9 9 0
+D1
+~
+~
+0 -1 918 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#918
+La Quarta Prova di Minosse~
+   Minosse deve essere una mostruosa macchina devastatrice. Scorgi
+una luce blu tremolante. Una voce gracchia: "Perche' sei qui?"
+~
+9 9 0
+D2
+~
+~
+0 -1 919 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#919
+La Quinta Prova di Minosse~
+   Questa e' la zona del Generale Woundwort. Corpi consunti di conigli
+giacciono disseminati in quest'inferno. Il Generale non e' una persona
+molto ordinata come puoi ben notare.
+~
+9 9 0
+D1
+~
+~
+0 -1 920 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#920
+La Sesta Prova di Minosse~
+   Osiamo ipotizzare quante stanze ha Minosse? Il sentiero appare essere
+senza fine. Le grida di morte provenienti da est ti fanno rabbrividire.
+Una voce possente grida un altro avvertimento: "Vattene ora o affronterai
+la mia ira!".
+C'e' una via serpeggiante che porta in fondo alla stanza conduce verso 
+l'alto e una fresca brezza proviene da la'.
+~
+9 9 0
+D2
+~
+~
+0 -1 921 0
+D4
+~
+~
+0 -1 923 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#921
+La Prova Finale di Minosse~
+   Questa e' la stanza di Minosse. Che altro ti saresti aspettato? La stanza
+e' generosamente arredata per questo re bovino. Ogni cosa e' tanto piena di
+opulenza che ti fa strabuzzare gli occhi. La sola uscita che vedi e' una grande
+porta di quercia che si apre nel muro ad est.
+~
+9 9 0
+D1
+Vedi una porta di quercia piuttosto grande chiusa.
+~
+porta di quercia~
+2 900 922 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#922
+La Camera Reale~
+   La stanza del tesoro di Minosse e' buia ma tu la illumini con la
+tua lanterna. Fortunatamente non e' ancora stata saccheggiata dai 
+molti e famosi ladri di Midgaard. Un passaggio segreto ti guida al
+piano di sopra.
+~
+9 521 0
+D4
+~
+~
+0 -1 1466412 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#923
+Sopra, sulla Spiaggia~
+   Tu siedi fra le rocce che si affacciano su una piccola spiaggia
+nel sud-est dell'isola. Ti puoi calare abbastanza facilmente, ma 
+facendolo sarebbe un'altra storia.
+~
+9 0 4
+D5
+~
+~
+0 -1 910 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#998
+Vuota. Davvero.~
+Stanza vuota
+Ma non toglietegli la flag tempio che mi serve &7&b->S<-&0
+~
+9 17592186044480 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#999
+Libera~
+Qui succedono cose brutte.
+~
+9 1024 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

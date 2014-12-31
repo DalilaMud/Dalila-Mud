@@ -1,0 +1,929 @@
+#5702
+OFFICINA DEI TAGLIALEGNA~
+Uffa...  C'e' cosi' tanta segatura qua in giro che ti viene da starnutire.  Su un
+lato di questa segheria sono ammassati molti carichi di legno marcio.    
+~
+57 16777224 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5703
+OFFICINA DEI FABBRI~
+Un grosso altoforno ha un ciminiera che sputa fumo e vapori insalubri.  La
+struttura e' alimentata da un sistema idraulico sotterraneo.  La maggior parte
+degli armamenti dei necrarchi viene da questa nociva fabbrica.    
+~
+57 2097160 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5706
+OFFICINA DEI GIOIELLIERI~
+In questa stanza asfissiante sono poggiati decine di fornellini.  Su una
+bacheca laterale sono fissate con dei ganci delle forme di ghisa.    
+~
+57 67108872 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5708
+OFFICINA DEI CUOCHI~
+Ma perche' perdere tutto questo tempo nella cottura dei cibi?  Questa e' la
+frase che i controllori necrarchi ripetono agli schiavi.  Questi sospirano,
+pensando forse che la degustazione di un piatto cotto e' l'unica liberta' che
+resta loro.    
+~
+57 4294967304 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5710
+OFFICINA DEI TESSITORI~
+Una fila di telai automatici crea un rumore molto fastidioso e ripetitivo.  Ma
+la grossa stanza e' colma anche di piccoli sgabelli per i lavori di maggiore
+precisione.    
+~
+57 17179869192 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5713
+Sala dell'arsenale~
+Attraversi enormi archi in pietra prima di giungere in una gigantesca sala.  
+E' l'ingresso dell'arsenale di Aldeeran.  Strane sculture sono scolpite nella
+nera roccia delle pareti, intorno a te ci sono 4 ingressi che portano in
+altrettante sale, mentre poco piu' avanti delle scale conducono ancora piu' in
+profondita'.    
+~
+57 1125899906845325 0
+D0
+~
+~
+0 0 5714 0
+D1
+~
+~
+0 0 5715 0
+D2
+~
+~
+0 0 5716 0
+D3
+~
+~
+0 0 5717 0
+D5
+~
+~
+0 0 5718 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5714
+Sala delle Pergamene~
+Enormi scaffali sono scavati nella roccia e riempiti da una quantita
+inimmaginabile di pergamene!  Delle scrivanie sono poste in un angolo
+dell'enorme sala, li i maghi e i cavalieri cyrinic scrivono le loro pergamene.
+  
+~
+57 1125899906845184 0
+D2
+~
+~
+0 0 5713 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5715
+Sala delle Armi~
+Appena entrato vedi subito un enorme scudo con lo stemma di Alorn e due spade
+che si incrociano nella parente di fronte all'entrata.  Enormi scaffali
+contengono i piu svariati tipi di armi, riposte accuratamente per la loro
+tipologia.    
+~
+57 1125899906845184 0
+D3
+~
+~
+0 0 5713 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5716
+Sala degli Equipaggiamenti~
+Armadi e cassapanche disposti nelle pareti rocciose contengono pregiatissimi
+equipaggiamenti.  Un servo li sta pulendo e ordinando con cura.    
+~
+57 1125899906845184 0
+D0
+~
+~
+0 0 5713 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5717
+Sala delle Pozioni~
+Enormi banconi con una quantita di pozioni inimmaginabili!  Sono disposte tutte
+infila e ordinatamente!  Un altro bancone un po' piu' in la e' totalmente
+sgombro con solo pogiata qualche boccetta vuota che sara' presto riempita dagli
+archimisti del regno.    
+~
+57 1125899906845184 0
+D1
+~
+~
+0 0 5713 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5718
+Stanza del Tesoro~
+Entri e vieni abbagliato dallo splendore di alcuni scrigni d'orati riposti qui!
+Questa e' sicuramente la sala del tesoro del regno di Alorn.  Qui tutti gli
+adepti di Shaarr ripongono la refurtiva recuperata durante le loro battaglie!
+  
+~
+57 1125899906845184 0
+D4
+~
+~
+0 0 5713 0
+D5
+~
+~
+0 0 5719 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5719
+Stanza degli equipaggiamenti~
+Armi e armature proveniente da chissa' quale parte della Daresia stanno
+ammassate in questa stanza.  Uno schiavo sta cercando di sistemarli secondo la
+tipologia in degli armadi scavati nella roccia.    
+~
+57 1125899906845184 0
+D4
+~
+~
+0 0 5718 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5720
+&b&5La Torre Oscura&0~
+&b&3La Torre Oscura, costruita da re Mashir, rappresentava il posto piu'
+temuto dall'esercito dello stesso re che, per suo volere, vi era
+costretto ad allenarcisi giorno e notte.&0
+~
+57 12 0
+D0
+~
+~
+0 0 5723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5723
+&b&4Il portale d'ingresso nella Torre&0~
+&b&1Oscuro e terribile il portale, un aguzzo paio di fauci di un pesce abissale,
+una nera mostruosità avida di vite.  Il legno scuro come ebano, ricavato da
+alberi innominabili che si nutrono di terra di cimitero, non punto liscio ma i
+rigonfiamenti da cui percorso ricordano volti ghignanti e beffardi, i quali
+accolgono sardonici gli imprudenti visitatori.Una nebbia malsana, una terribile
+aria di morte circonda l'ingresso, e in tale aria è facile intravedere forme
+inquietanti aggirarsi, e sentirne le grida isteriche o i lamenti disperati.  
+Nascoste tra gli anfratti, posate su punte e lame per suggere il sangue fresco
+che le ricopre, o in volo nell'aere si notano facilmente falene di un giallo
+velenoso, contraddistinte tutte da un simbolo di teschio sul dorso.   
+~
+57 12 0
+D0
+~
+~
+0 0 5724 0
+D2
+~
+~
+0 0 5720 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5724
+&b&7 La guardiola della Torre&0~
+&b&5Impassibili, alte e piazzate, guardie ricoperte di corazze complete presidiano
+a coppie l'ingresso, i punti cardinali ed il crocevia.  Sono armate di pesanti
+spadoni dai bordi frastagliati ed enormi alabarde dall'aria antica, ricoperte
+di incisioni e decorazioni di grande valore e di lugubre gusto.  Spallacci e
+schinieri sono ampi e affilati, come le protezioni per piedi e gomiti spesso
+sono sbrecciati o arrugginiti.  Ali, corna , punte, o figure di esseri
+mostruosi li decorano.&0  
+~
+57 8 0
+D0
+~
+~
+0 0 5726 0
+D2
+~
+~
+0 0 5723 0
+D3
+~
+~
+0 0 5725 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5725
+&b&1Il ritrovo delle guardie&0~
+&b&3In questo luogo centurioni, fanteria, cavalleria e arceri 
+del re Mashir si ritrovano per riposarsi, bere, ridere,
+ballare e...
+Questo luogo caldo e umido e' il posto ideale per far festa 
+assieme ai compagni di battaglia!&0
+~
+57 8 0
+D1
+~
+~
+0 0 5724 0
+D2
+~
+~
+0 0 5727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5726
+&b&7Il maestoso portone d'oro zecchino&0~
+&b&3La sola visione di questo portone d'oro zecchino,tutto tempestato di rubini 
+e zaffiri, ti incute un profondo senso di gioia mista ad invidia.
+L'esistenza di quest'opera d'arte è merito di un famosissimo architetto Sendariano.&0  
+~
+57 8 0
+D0
+~
+~
+0 0 5731 0
+D2
+~
+~
+0 0 5724 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5727
+&b&3L'inizio della lunga scala che porta al sotterraneo&0~
+&b&7All'improvviso ti ritrovi sul bordo di un'immensa rampa di scale che porta al 
+&b&7sotterraneo. L'aria diventa piu' pesante e le luci cominciano a perdere di
+&b&7intensità, chissà dove porterà quest'interminabile rampa di scale...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5725 0
+D3
+~
+~
+0 0 5728 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5728
+&b&3La ripida discesa verso il sotterraneo&0~
+&b&5La luce improvvisamente comincia a calare, le tenebre ti avvolgono e...
+&b&5in un batter d'occhio ti accorgi che stai per entrare nel sotterraneo
+&b&5di questa magica torre. La paura e il terrore cominciano a diventar
+&b&5le tue migliori compagne di viaggio...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5729 0
+D1
+~
+~
+0 0 5727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5729
+&b&4Il sotterraneo&0~
+&b&1Ti accorgi di essere arrivato nei sotterranei della Torre, qui l'aria 
+&b&1è pesante, stendardi appesi ai muri e corazze ai quattro angoli della
+&b&1stanza ti fan pensare di essere arrivato nel luogo dove le guardie 
+&b&1della torre passano il loro tempo libero...Attenzione!!!
+&0
+~
+57 8 0
+D1
+~
+~
+0 0 5730 0
+D2
+~
+~
+0 0 5728 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5730
+&b&6La sala del supplizio...&0~
+&b&7Vedi guardie, tante guardie, son tutte qui attorno ad un tavolo che...
+&b&7ma, cosa vedi... Di colpo compare la sagoma di un uomo ma... chi sarà?
+&b&7Le guardie infieriscono sul suo corpo, urlano, gridano, che macabro
+&b&7festino! La paura ti pervade il corpo fin dentro le ossa...&0
+~
+57 8 0
+D3
+~
+~
+0 0 5729 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5731
+&b&3L'anticamera della Torre&0~
+&b&6Intravedi in lontananza un forte bagliore e in un attimo realizzi di esser 
+&b&6finalmente arrivato nell'atrio della Torre, ora il percorso da seguire starà 
+&b&6a te deciderlo...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5732 0
+D2
+~
+~
+0 0 5726 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5732
+&b&1Le imponenti scalinate&0~
+&b&5Una luce intensa entra dalle splendide vetrate di cui questa Torre è ornata.
+La tua mente per un secondo smette di esser intimidità ma, non appena realizzi
+dove ti trovi e qual'è il tuo scopo, improvvisamente la paura torna a farla da
+padrona...E ora il dilemma, che strada scegliere?&0
+~
+57 8 0
+D0
+~
+~
+0 0 5734 0
+D1
+~
+~
+0 0 5735 0
+D2
+~
+~
+0 0 5731 0
+D3
+~
+~
+0 0 5733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5733
+&b&7La scalinata ovest&0~
+&b&3Ti trovi sulla scalinata ovest della Torre, in questa zona l'aria si fà
+più rarefatta e le luci diventano più soffuse, senti la fatica attanagliarti
+le gambe... Sta attento, nn sempre il posto più bello e quello più ospitale!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5736 0
+D1
+~
+~
+0 0 5732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5734
+&b&7La scalinata nord&0~
+&b&6Una scala di legno e mattoni, piuttosto instabile, ti porta verso l'ala 
+&b&6nord della Torre... In cima noti diverse luci e, a mano a mano che sali,
+&b&6alcune urla giungono fino al tuo orecchio! Non riesci a localizzare la 
+&b&6provenienza delle urla ma... Sta attento!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5737 0
+D2
+~
+~
+0 0 5732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5735
+&b&7La scalinata est&0~
+&b&9Una corta scaletta di mattoni ti conduce nell'ala est della Torre, qui
+l'aria si fa' piu fine e dolci note musicali rinfrancano il tuo animo
+stanco... La gioia sembra pervaderti e la stanchezza improvvisamente 
+scompare!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5738 0
+D3
+~
+~
+0 0 5732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5736
+&b&3Il primo piano dell'ala ovest&0~
+&b&9Sei appena giunto al primo piano dell'ala ovest di questa Torre.
+&b&9Oltre queste porte molti misteri e molti pericoli potrebbero star
+&b&9lì ad attenderti. I quadri sulle pareti raffiguranti scene di 
+&b&9battaglia intorpidiscono la tua mente e richiamano la paura!
+&0
+~
+57 8 0
+D1
+~
+~
+0 0 5739 0
+D2
+~
+~
+0 0 5733 0
+D3
+~
+~
+0 0 5740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5737
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D1
+~
+~
+0 0 5753 0
+D2
+~
+~
+0 0 5734 0
+D3
+~
+~
+0 0 5756 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5738
+&b&5 Il primo piano dell'ala est&0~
+&b&6Appena ti accorgi di esser giunto in cima alle scale, realizzi che la
+&b&6dolce musica che sentivi proviene da alcune stanze di quest'ala. Ora
+&b&6ignaro del pericolo, ti appresti a seguire questa dolce melodia che
+&b&6sembra averti stregato.&0
+~
+57 8 0
+D2
+~
+~
+0 0 5735 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5739
+&b&6L'ingresso nella stanza da letto reale&0~
+&b&5Le stanze diventano sempre più basse, non riesci a capire se i 
+&b&5muri, ormai a pochi centrimetri da te, si stiano muovendo o se sia 
+&b&5la tua immaginazione che stia iniziando a tirarti brutti scherzi...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5748 0
+D3
+~
+~
+0 0 5736 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5740
+&b&5 L'ingresso nel salone centrale&0~
+&b&3Ti trovi a pochi passi dall'ingresso nel salone centrale dell'ala
+&b&3ovest... In lontananza, rumori di ferraglia e urla, ti distraggono
+&b&3al punto da farti scordare il pericolo al quale stai andando incontro.&0
+~
+57 8 0
+D0
+~
+~
+0 0 5742 0
+D1
+~
+~
+0 0 5736 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5742
+&b&7Il salone centrale&0~
+&b&6Appena giungi in questa stanza noti, appesi sulle pareti, parecchi
+&b&6cimeli di guerra appartenenti alla collezione privata di re Mashir.
+&b&6Questa sala, larga e accogliente, sembrerebbe un posto così mite...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5743 0
+D2
+~
+~
+0 0 5740 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5743
+&b&1Il salone centrale&0~
+&b&6Appena giungi in questa stanza noti, appesi sulle pareti, parecchi
+&b&6cimeli di guerra appartenenti alla collezione privata di re Mashir.
+&b&6Questa sala, larga e accogliente, sembrerebbe un posto così mite...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5744 0
+D2
+~
+~
+0 0 5742 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5744
+&b&5L'uscita dal salone centrale&0~
+&b&3Una volta uscito da questo salone un pò particolare, ti ritrovi
+&b&3a seguire un corridoio che sembra portare verso il basso...
+&b&3Capisci che la tua avventura non è ancora finita e che stai per
+&b&3imbatterti in nuovi pericoli!&0
+~
+57 8 0
+D1
+~
+~
+0 0 5745 0
+D2
+~
+~
+0 0 5743 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5745
+&b&6L'inizio della scalinata che porta al porticciolo&0~
+&b&7Ti trovi ad un bivio... Noti che verso nord c'e una lunga 
+&b&7scalinata che porta verso il basso. Da una delle finestre
+&b&7noti un piccolo porticciolo interno alla Torre.&0
+~
+57 8 0
+D0
+~
+~
+0 0 5749 0
+D1
+~
+~
+0 0 5746 0
+D3
+~
+~
+0 0 5744 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5746
+&b&4Un passaggio segreto&0~
+&b&3In caso di evenienza Re Mashir utilizza questo passaggio per
+far uscire dalla camera da letto le sue molte amanti o per  
+salvaguardarsi la vita..
+&0
+~
+57 8 0
+D2
+~
+~
+0 0 5747 0
+D3
+~
+~
+0 0 5745 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5747
+&b&7 Il bagno reale&0~
+&b&6In questo luogo sua maestà Re Mashir ama passare le sue ore
+&b&6architettando piani diabolici da far eseguire al suo esercito.
+&b&6Secondo sua maestà questo è l'unico luogo dove, non essendoci
+&b&6ne rumori ne schiamazzi, la concetrazione è massima...
+&0
+~
+57 8 0
+D0
+~
+~
+0 0 5746 0
+D2
+~
+~
+0 0 5748 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5748
+&b&7La stanza da letto reale&0~
+&b&3Improvvisamente si staglia davanti ai tuo occhi qualcosa di 
+&b&3eccezionale... Una stanza così non l'avevi mai vista in vita
+&b&3tua. Un maestoso letto a baldacchino, un porta asciugamani
+&b&3d'oro massiccio e chissa quant'altro...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5747 0
+D2
+~
+~
+0 0 5739 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5749
+&b&1La scala a chiocciola&0~
+&b&3Cominci a scendere, la scala si fa' sempre piu' stretta e...
+&b&3ARGH, all'improvviso sei costretto ad abbassare la testa, il
+&b&3soffitto diventa sempre più basso e intravedi delle piccole
+&b&3punte su di esso...&0
+~
+57 8 0
+D0
+~
+~
+0 0 5750 0
+D2
+~
+~
+0 0 5745 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5750
+&b&7La scala a chiocciola&0~
+&b&3Cominci a scendere, la scala si fa' sempre piu' stretta e...
+&b&3ARGH, all'improvviso sei costretto ad abbassare la testa, il
+&b&3soffitto diventa sempre più basso e intravedi delle piccole
+&b&3punte su di esso...&0
+~
+57 8 0
+D1
+~
+~
+0 0 5751 0
+D2
+~
+~
+0 0 5749 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5751
+&b&5Al fondo della scala&0~
+&b&6Al fondo della scala trovi un piccolo slargo dove intravedi, dritto
+&b&6di fronte a te, un'altra scala che scende nella tua direzione.
+&b&6Sei all'aperto, quì l'aria odora di salsedine capisci di esser 
+&b&6vicino al porticciolo che vedevi dall'alto delle scale.&0
+~
+57 8 0
+D1
+~
+~
+0 0 5752 0
+D2
+~
+~
+0 0 5750 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5752
+&b&3La via verso il porticciolo&0~
+&b&7Qualcosa non và...Ti accorgi che ti sti avviando verso una zona 
+che gia' conosci è, eccoti, verso nord intravedi il molo del 
+porto di Lamorka! Beh, la tua avventura in questa pericolosa ma
+affascinante Torre è finita.&0
+~
+57 8 0
+D0
+~
+~
+0 0 3014643 0
+D1
+~
+~
+0 0 5761 0
+D3
+~
+~
+0 0 5751 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5753
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D1
+~
+~
+0 0 5754 0
+D3
+~
+~
+0 0 5737 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5754
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D1
+~
+~
+0 0 5755 0
+D3
+~
+~
+0 0 5753 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5755
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D3
+~
+~
+0 0 5754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5756
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5757 0
+D1
+~
+~
+0 0 5737 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5757
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5758 0
+D2
+~
+~
+0 0 5756 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5758
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5759 0
+D2
+~
+~
+0 0 5757 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5759
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5760 0
+D2
+~
+~
+0 0 5758 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5760
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D0
+~
+~
+0 0 5761 0
+D2
+~
+~
+0 0 5759 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5761
+&b&3Il primo piano dell'ala nord&0~
+&b&5Giunto al primo piano le urla si fan sempre più vicine ma, 
+ancora non riesci a capire di cosa si tratta...
+Qui le luci si fanno più intense e ora riesci a distinguere
+meglio il pericolo che devi affrontare!&0
+~
+57 8 0
+D2
+~
+~
+0 0 5760 0
+D3
+~
+~
+0 0 5751 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

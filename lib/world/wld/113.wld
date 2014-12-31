@@ -1,0 +1,1987 @@
+#11300
+Tra le nuvole.~
+In un attimo ti ritrovi in mezzo alle nuvole in
+direzione di  un altissima montagna che sale verso
+i Cieli più alti di Daresia. Il freddo è pungente
+e il vento ti scompiglia i capelli ma sai che
+questo non è nulla al confronto delle folate della
+ Montagna dei Venti         
+~
+113 192 2
+D0
+La torre dei Venti~
+~
+0 -1 11301
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11301
+La Montagna dei Venti.~
+Sei di fronte ead un altissima montagna che aguzza
+ sala verso i celo piu alti di Daresia. Un varco
+si apre nel fianco della Montagna che puo offrirti
+riparo dai tremendi venti di alta quota.     
+
+~
+113 192 2
+D0
+~
+~
+0 -1 11302
+D2
+~
+~
+0 -1 11300
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11302
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i cieli piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.          
+~
+113 193 0
+D2
+~
+~
+0 -1 11301
+D4
+~
+~
+0 -1 11314
+D5
+~
+~
+0 -1 11303
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11303
+Il fondo della Montagna dei Venti~
+Scendi verso il fondo della Montagna e ti rendi
+conto che si appoggia sulle nuvole sotto le quali
+puoi vedere il mondo di Daresia. Puoi uscire da
+una del cuore di questa Montagna da una delle
+ tante aperture che ti cirondano.         
+~
+113 192 2
+D0
+~
+~
+0 -1 11305
+D1
+~
+~
+0 -1 11307
+D2
+~
+~
+0 -1 11313
+D3
+~
+~
+0 -1 11306
+D4
+~
+~
+0 -1 11302
+D5
+~
+~
+0 -1 11304
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11304
+In volo sopra Deira~
+Ti allontani dalle Nubi su cui si erge la Montagna
+dei Venti e inizi a scendere di quota in modo
+da riconoscere gli stedardi della citta che stai
+sorvolando. Ecco ora vedi nitidamente le insegne
+di Deira         
+~
+113 192 2
+D4
+~
+~
+0 -1 11303
+D5
+~
+~
+0 -1 11308
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11305
+In volo sopra Jiroch~
+Ti allontani dalle Nubi su cui si erge la Montagna
+dei Venti e inizi a scendere di quota in modo
+da riconoscere gli stedardi della citta che stai
+sorvolando. Ecco ora vedi nitidamente le insegne
+di Jiroch         
+~
+113 192 2
+D2
+~
+~
+0 -1 11303
+D5
+~
+~
+0 -1 11309
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11306
+In volo sopra Cimmura~
+Ti allontani dalle Nubi su cui si erge la Montagna
+dei Venti e inizi a scendere di quota in modo
+da riconoscere gli stedardi della citta che stai
+sorvolando. Ecco ora vedi nitidamente le insegne
+di Cimmura         
+~
+113 192 2
+D1
+~
+~
+0 -1 11303
+D5
+~
+~
+0 -1 11310
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11307
+In volo sopra Lamorka~
+Ti allontani dalle Nubi su cui si erge la Montagna
+dei Venti e inizi a scendere di quota in modo
+da riconoscere gli stedardi della citta che stai
+sorvolando. Ecco ora vedi nitidamente le insegne
+di Lamorka         
+~
+113 192 2
+D3
+~
+~
+0 -1 11303
+D5
+~
+~
+0 -1 11311
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11308
+Atterraggio a Deira~
+Un piccolo gesto il tuo dragone inarca le ali e
+attera dolcemente dietro il Tempio di Deira. Ora
+attende i tuoi ordini decidi tu se scendere e
+ concedergli il meritato riposo o ripartire verso
+i celi piu alti di Daresia.         
+~
+113 192 0
+D4
+~
+~
+0 -1 11304
+D5
+~
+~
+0 0 3059
+E
+Dragone~
+Docile e mansueto e qui pronto ad ubbidire ad ogni
+tuo ordine.          
+~
+S
+#11309
+Atterraggio a Jiroch~
+Un piccolo gesto il tuo dragone inarca le ali e
+attera dolcemente ... Ora attende i tuoi ordini
+decidi tu se scendere e  concedergli il meritato
+riposo o ripartire verso i celi piu alti di Daresia.
+         
+~
+113 192 0
+D4
+~
+~
+0 -1 11305
+D5
+~
+~
+0 0 5411
+E
+Drsagone~
+Docile e mansueto e qui pronto ad ubbidire ad ogni
+tuo ordine.          
+~
+S
+#11310
+Atterraggio a Cimmura~
+Un piccolo gesto il tuo dragone inarca le ali e
+attera dolcemente ... Ora attende i tuoi ordini
+decidi tu se scendere e  concedergli il meritato
+riposo o ripartire verso i celi piu alti di Daresia.
+         
+~
+113 192 0
+D4
+~
+~
+0 -1 11306
+D5
+~
+~
+0 0 9012
+E
+Dragone~
+Docile e mansueto e qui pronto ad ubbidire ad ogni
+tuo ordine.         
+~
+S
+#11311
+Atterraggio a Lamorka~
+Un piccolo gesto il tuo dragone inarca le ali e
+attera dolcemente ... Ora attende i tuoi ordini
+decidi tu se scendere e  concedergli il meritato
+riposo o ripartire verso i celi piu alti di Daresia.
+         
+~
+113 192 0
+D4
+~
+~
+0 -1 11307
+D5
+~
+~
+0 0 6658
+E
+Dragone~
+Docile e mansueto e qui pronto ad ubbidire ad ogni
+tuo ordine.          
+~
+S
+#11312
+Atterraggioa Chyrellos~
+Un piccolo gesto il tuo dragone inarca le ali e
+attera dolcemente ... Ora attende i tuoi ordini
+decidi tu se scendere e  concedergli il meritato
+riposo o ripartire verso i celi piu alti di Daresia.
+         
+~
+113 192 0
+D4
+~
+~
+0 -1 11313
+D5
+~
+~
+0 0 21001
+E
+Dragone~
+Docile e mansueto e qui pronto ad ubbidire ad ogni
+tuo ordine.          
+~
+S
+#11313
+In volo sopra Chyrellos~
+Ti allontani dalle Nubi su cui si erge la Montagna
+dei Venti e inizi a scendere di quota in modo
+da riconoscere gli stedardi della citta che stai
+sorvolando. Ecco ora vedi nitidamente le insegne
+di Chyrellos         
+~
+113 192 2
+D0
+~
+~
+0 -1 11303
+D5
+~
+~
+0 -1 11312
+S
+#11314
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.          
+~
+113 193 0
+D0
+~
+~
+0 -1 11326
+D1
+~
+~
+0 -1 11315
+D2
+~
+~
+0 -1 11323
+D3
+~
+~
+0 -1 11322
+D5
+~
+~
+0 -1 11302
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.          
+~
+S
+#11315
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.          
+~
+113 193 0
+D0
+~
+~
+0 -1 11323
+D1
+~
+~
+0 -1 11320
+D2
+~
+~
+0 -1 11316
+D3
+~
+~
+0 -1 11314
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11316
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D0
+~
+~
+0 -1 11315
+D1
+~
+~
+0 -1 11317
+D2
+~
+~
+0 -1 11319
+D3
+~
+~
+0 -1 11325
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11317
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D0
+~
+~
+0 -1 11316
+D1
+~
+~
+0 -1 11321
+D2
+~
+~
+0 -1 11318
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11318
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Il tuo Dragone qui ha bisogno di parole di conforto
+per riuscire a proseguire. 
+~
+113 193 0
+D3
+~
+~
+0 -1 11317
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+T 11301
+#11319
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D0
+~
+~
+0 -1 11325
+D2
+~
+~
+0 -1 11326
+D3
+~
+~
+0 -1 11326
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11320
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D1
+~
+~
+0 -1 11321
+D2
+~
+~
+0 -1 11324
+D3
+~
+~
+0 -1 11315
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11321
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D1
+~
+~
+0 -1 11320
+D2
+~
+~
+0 -1 11315
+D3
+~
+~
+0 -1 11324
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11322
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D1
+~
+~
+0 -1 11325
+D2
+~
+~
+0 -1 11326
+D3
+~
+~
+0 -1 11314
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11323
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D0
+~
+~
+0 -1 11315
+D1
+~
+~
+0 -1 11324
+D2
+~
+~
+0 -1 11325
+D3
+~
+~
+0 -1 11314
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11324
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D1
+~
+~
+0 -1 11320
+D2
+~
+~
+0 -1 11321
+D3
+~
+~
+0 -1 11323
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11325
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D0
+~
+~
+0 -1 11323
+D2
+~
+~
+0 -1 11319
+D3
+~
+~
+0 -1 11322
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11326
+All'interno della Montagna~
+Sei all'interno della Montagna dei Venti. Il vento
+che soffia all'interno di questa Montagna e fortissimo
+ma allo stesso caldo e carico di ossigeno. Se
+vuoi raggiungere i celi piu alti di Daresia questo
+e il sistema migliore ma riuscirai a superare
+indenne le correnti che ci sono in questo luogo.
+Molti sono i cavalcatori di draghi disarcionati
+da queste temibili forze.       
+~
+113 193 0
+D0
+~
+~
+0 -1 11322
+D1
+~
+~
+0 -1 11319
+D2
+~
+~
+0 -1 11319
+D3
+~
+~
+0 -1 11314
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11327
+Sopra le nuvole~
+Finalmente esci dalla Montagna dei Venti ma una
+grande  coltre di nubi ti impedisce di vedere
+le tanto amate terre di  Daresia. Le nubi che circondano
+la montagna dei venti non sono nubi  naturali
+sembra che vengano generate da una struttura che
+vedi piu in alto. Si una struttura volante una
+vera e prorpia citta e qui sopra  di te.     
+
+~
+113 192 2
+D4
+~
+~
+0 -1 11328
+D5
+~
+~
+0 -1 11318
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11328
+Tunnel nella Citta d'Aria~
+Sati volando in mezzo alla base di citta d'aria.
+Tutto intorno a te vedi strani marchingegni con
+incastonati dei cristalli ambrati. Tutta la citta
+sembra costruita d'oro e ambra. In alto puoi vedere
+delle terrazze dove il tuo dragone puo facilmente
+atterrare.   
+~
+113 192 1
+D4
+~
+~
+0 -1 11329
+D5
+~
+~
+0 -1 11327
+E
+Dragoone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11329
+Città d'Aria~
+Il tuo dragone e atterrato qui sulla piu grande
+terrazza di  Citta d'Aria. da qui ti puoi muovere
+a piedi in questa splendida citta che ti sembra
+deserta.Sei su la seconda terrazza di  Citta d'Aria.
+ Ci sono altre 4 terrazze sopra questa; degli
+ascensori le collegano 
+~
+113 196 1
+D0
+~
+~
+0 -1 11341
+D1
+~
+~
+0 -1 11342
+D2
+~
+~
+0 -1 11346
+D3
+~
+~
+0 -1 11348
+D4
+~
+~
+0 -1 11331
+D5
+~
+~
+0 -1 11328
+E
+Dragone~
+Docile e mansueto ubbidisce magistralmente ad ogni
+tuo ordine.       
+~
+S
+#11330
+Citta d'Aria~
+Sei sulla piu grande terrazza di  Citta d'Aria
+ma il tuo dragone non epiu qui.Ci sono altre 4
+terrazze sopra questa; degli ascensori le collegano
+
+~
+113 192 1
+D0
+~
+~
+0 -1 11341
+D1
+~
+~
+0 -1 11342
+D2
+~
+~
+0 -1 11346
+D3
+~
+~
+0 -1 11348
+D4
+~
+~
+0 -1 11331
+S
+#11331
+Citta d'Aria~
+Sei sula seconda terrazza di  Citta d'Aria.  Ci
+sono altre 3 terrazze sopra questa e 1 sotto;
+degli ascensori le collegano 
+~
+113 192 1
+D3
+~
+~
+0 -1 11351
+D4
+~
+~
+0 -1 11332
+D5
+~
+~
+0 -1 11330
+S
+#11332
+Citta d'Aria~
+Sei sula terza terrazza di  Citta d'Aria.  Ci sono
+altre 2 terrazze sopra questa e 2 sotto; degli
+ascensori le collegano 
+~
+113 192 1
+D2
+~
+~
+0 -1 11361
+D4
+~
+~
+0 -1 11333
+D5
+~
+~
+0 -1 11331
+S
+#11333
+Citta d'Aria~
+Sei sula quarta terrazza di  Citta d'Aria.  Ci
+sono altre 1 terrazza sopra questa e 3 sotto;
+degli ascensori le collegano 
+~
+113 192 1
+D0
+~
+~
+0 -1 11378
+D2
+~
+~
+0 -1 11374
+D4
+~
+~
+0 -1 11334
+D5
+~
+~
+0 -1 11332
+S
+#11334
+Citta d'Aria~
+Sei sula quinta terrazza di  Citta d'Aria.  Ci
+sono altre 4 terrazze sotto questa; degli ascensori
+le collegano 
+~
+113 192 1
+D0
+~
+~
+0 -1 11335
+D5
+~
+~
+0 -1 11333
+S
+#11335
+Il Tempio di Citta d'Aria~
+Sei in un grande tempio totalmente realizzato in
+oro. Splendide vetrate di cristallo d'ambra filtrano
+i  caldi raggi del sole dando all'ambiente un
+aura mistica
+~
+113 192 1
+D0
+~
+~
+0 -1 11338
+D2
+~
+~
+0 -1 11334
+S
+#11336
+Navata Ovest~
+Sei nella navata ovest del grande tempio di Citta
+d'Aria. Splendide vetrate di cristallo d'ambra
+filtrano i  caldi raggi del sole dando all'ambiente
+un aura mistica
+~
+113 192 1
+D0
+~
+~
+0 -1 11339
+D1
+~
+~
+0 -1 11338
+D2
+~
+~
+0 -1 11335
+D3
+~
+~
+0 -1 11340
+S
+#11337
+Navata Est~
+Sei nella navata ovest del grande tempio di Citta
+d'Aria. Splendide vetrate di cristallo d'ambra
+filtrano i  caldi raggi del sole dando all'ambiente
+un aura mistica
+~
+113 192 1
+D0
+~
+~
+0 -1 11339
+D2
+~
+~
+0 -1 11335
+D3
+~
+~
+0 -1 11338
+S
+#11338
+Il centro del tempio~
+Una splendida Fontana fatta interamente di cristalli
+d'ambra è qui al centro del tempio. Strane iscrizioni
+ricoprono i bordi della fontana. potrebbero parlare
+della civilta che ha fondato questa citta delle
+loro credenze e dei segreti di questa magica struttura.
+~
+113 64 1
+D0
+~
+~
+0 -1 11339
+D1
+~
+~
+0 -1 11337
+D2
+~
+~
+0 -1 11335
+D3
+~
+~
+0 -1 11336
+S
+#11339
+La statua~
+Quella che da lontano poteva sembrare solo una
+statua  di un drago si rivela essere invece un
+Vero Drago Ambrato. Ti sta guardando come uno
+che aspetta qualcosa...
+~
+113 192 1
+D1
+~
+~
+0 -1 11337
+D2
+~
+~
+0 -1 11338
+D3
+~
+~
+0 -1 11336
+S
+#11340
+Libreria~
+C'e' uno scaffale su cui sono ammucchiate molte
+pergamene Sul muro c'e appeso un Indice ma riuscirai
+a leggerlo?
+~
+113 192 1
+D1
+~
+~
+0 -1 11336
+E
+INDICE~
+vaseqt emeguo doxge ixlis
+~
+S
+#11341
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11345
+D1
+~
+~
+0 -1 11342
+D2
+~
+~
+0 -1 11330
+D3
+~
+~
+0 -1 11349
+S
+#11342
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11344
+D1
+~
+~
+0 -1 11343
+D2
+~
+~
+0 -1 11343
+D3
+~
+~
+0 -1 11341
+S
+#11343
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11342
+D1
+~
+~
+0 -1 11342
+D2
+~
+~
+0 -1 11344
+D3
+~
+~
+0 -1 11346
+S
+#11344
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11343
+D1
+~
+~
+0 -1 11343
+D2
+~
+~
+0 -1 11342
+D3
+~
+~
+0 -1 11345
+S
+#11345
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11346
+D1
+~
+~
+0 -1 11344
+D2
+~
+~
+0 -1 11341
+D3
+~
+~
+0 -1 11347
+S
+#11346
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11330
+D1
+~
+~
+0 -1 11343
+D2
+~
+~
+0 -1 11345
+D3
+~
+~
+0 -1 11348
+S
+#11347
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11348
+D1
+~
+~
+0 -1 11345
+D2
+~
+~
+0 -1 11342
+D3
+~
+~
+0 -1 11344
+S
+#11348
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11349
+D1
+~
+~
+0 -1 11346
+D2
+~
+~
+0 -1 11347
+D3
+~
+~
+0 -1 11349
+S
+#11349
+Città d'Aria~
+Stai girando nella zona meno sfarzosa di Città
+d'Aria Sembra che in questo piano ci siano i marchingegni
+che  permettono alla itta di reggersi in volo.
+C'e una specie di rampa di lancio che ti permette
+di  tornare sulla terra. Per tornare sulla terra
+basta che vai verso il basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11344
+D1
+~
+~
+0 -1 11341
+D2
+~
+~
+0 -1 11348
+D3
+~
+~
+0 -1 11348
+S
+#11350
+Non usata~
+Empty room
+~
+113 192 1
+S
+#11351
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11352
+D2
+~
+~
+0 -1 11356
+S
+#11352
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11359
+D3
+~
+~
+0 -1 11353
+S
+#11353
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11354
+D3
+~
+~
+0 -1 11355
+S
+#11354
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11358
+D1
+~
+~
+0 -1 11351
+S
+#11355
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11354
+D3
+~
+~
+0 -1 11353
+S
+#11356
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11357
+D3
+~
+~
+0 -1 11355
+S
+#11357
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11358
+D1
+~
+~
+0 -1 11359
+S
+#11358
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11354
+D3
+~
+~
+0 -1 11331
+S
+#11359
+Città d'Aria~
+Stai girando nella zona mercantile di Città d'Aria
+Sembra che in questo piano si svolgessero le attivita
+commerciali della citta. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11357
+D2
+~
+~
+0 -1 11358
+S
+#11360
+Non Usata~
+Empty room 
+~
+113 192 1
+S
+#11361
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+
+~
+113 192 1
+D0
+~
+~
+0 -1 11332
+D1
+~
+~
+0 -1 11368
+D2
+~
+~
+0 -1 11362
+D3
+~
+~
+0 -1 11364
+D5
+~
+~
+0 -1 11369
+S
+#11362
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11369
+D3
+~
+~
+0 -1 11363
+S
+#11363
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11364
+D1
+~
+~
+0 -1 11362
+D4
+~
+~
+0 -1 11361
+S
+#11364
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11365
+D2
+~
+~
+0 -1 11363
+S
+#11365
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11366
+D2
+~
+~
+0 -1 11364
+D4
+~
+~
+0 -1 11361
+S
+#11366
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11367
+D3
+~
+~
+0 -1 11365
+S
+#11367
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D2
+~
+~
+0 -1 11368
+D3
+~
+~
+0 -1 11366
+D4
+~
+~
+0 -1 11361
+S
+#11368
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11367
+D2
+~
+~
+0 -1 11369
+S
+#11369
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11368
+D3
+~
+~
+0 -1 11362
+D4
+~
+~
+0 -1 11361
+S
+#11370
+Non Usata~
+Empty room 
+~
+113 192 1
+S
+#11371
+Città d'Aria~
+Stai girando nella zona Borghese di Città d'Aria
+Sembra che in questo piano abitassero le persone piu
+colte di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11374
+D1
+~
+~
+0 -1 11372
+D2
+~
+~
+0 -1 11378
+D3
+~
+~
+0 -1 11376
+S
+#11372
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D3
+~
+~
+0 -1 11371
+S
+#11373
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11379
+D3
+~
+~
+0 -1 11374
+S
+#11374
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11333
+D1
+~
+~
+0 -1 11373
+D2
+~
+~
+0 -1 11371
+D3
+~
+~
+0 -1 11375
+S
+#11375
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11374
+D3
+~
+~
+0 -1 11377
+S
+#11376
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11371
+S
+#11377
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11378
+D2
+~
+~
+0 -1 11333
+D3
+~
+~
+0 -1 11375
+S
+#11378
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D0
+~
+~
+0 -1 11371
+D1
+~
+~
+0 -1 11379
+D2
+~
+~
+0 -1 11333
+D3
+~
+~
+0 -1 11377
+S
+#11379
+Città d'Aria~
+Stai girando nella zona Nobile di Città d'Aria
+Sembra che in questo piano abitassero le persone 
+Nobili di Citta d'Aria. C'e una specie di rampa
+di lancio che ti permette di  tornare sulla terra.
+Per tornare sulla terra basta che vai verso il
+basso.
+~
+113 192 1
+D1
+~
+~
+0 -1 11373
+D2
+~
+~
+0 -1 11333
+D3
+~
+~
+0 -1 11378
+S
+#11380
+Un Nuovo Mondo~
+In ogni angolo della sala puoi vedere affreschi che ricordano le Gesta degli
+Antichi e ti sembra di poterti riconoscere quasi nei visi di quegli eroi che
+hanno riempito le tue fantasie di bambino Ora sei cresciuto e sei tu
+l'avventuriero e a poco servono le leggende della battaglia per "L'Arpa della
+Pace" perche ora sei tu a dover combattere con orde di creature leggendarie e
+al limite dell'immaginabile La lotta continua o forse ricomincia solo ma tu sei
+qui per questo dopotutto.  Per questo sei stato addestrato e non puoi piu
+fatnatasticare ma devi ricominciare a lottare.  La gloria ti aspetta ma nella
+stanza a North potrai saziarti ancora un attimo prima di partire nuovamente
+alla volta della lande inesplorate del mondo di Daresia.    
+~
+113 192 1
+S
+#11381
+La Festa~
+La piu bella sala che tu abbia mai visto....
+La piu bella muscica che tu abbia mai sentito ...
+Il piu bel banchetto che tu abbia mai visto
+Le piu gnocche che tu abbia mai visto....
+Tutto questo per TE e adesso in un colpo solo ????
+Goditelo non avrai molto altro dalla vita ! GRIN
+~
+113 0 0
+D2
+~
+~
+0 0 11380
+D5
+Il Tempio
+~
+~
+0 0 3001
+S
+#11388
+La dimensione oscura~
+Sei sospeso nel buio piu pesto.  Passa un attimo e appena inizi a pensare a cio
+che si puo nascondere in questo buio ecco che le tue paure si materializzano
+davanti ai tuoi occhi.  Sai che rimanere qui a lungo potrebbe portarti alla
+pazzia.
+Solo una cosa ti evita di perdere il lume della ragione...
+
+La paura piu grande per un mortale ...
+
+Sei nel Regno di Mister DIO del Male e Signore dei Ladri.
+E se sei qui ancora vivo e perche Mister lo ha voluto.
+Ma cosa vorra LUI da te?
+~
+113 1024 9
+D5
+~
+~
+0 0 666
+S
+#11390
+Sala per Praccare~
+In questa sala si possono far praccare tutte le classi che si vuole.    
+~
+113 0 0
+D0
+~
+~
+0 0 11391
+S
+#11391
+Sala EQ~
+In questa sala si vestono e si preparano i pg per i test
+~
+113 0 0
+D2
+~
+~
+0 0 11390
+D3
+~
+~
+0 0 11392
+S
+#11392
+THIEF~
+You are in an unfinished room.  Stanza thief per far crescere i player a
+livellli esorbitanti
+~
+113 0 0
+D1
+~
+~
+0 0 11391
+S
+$~

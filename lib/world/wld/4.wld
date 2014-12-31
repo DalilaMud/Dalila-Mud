@@ -1,0 +1,1237 @@
+#401
+Entrata del Castello della Rosa dei Venti~
+L'entrata ha un aspetto nobile, tipico delle sedi dei Clan di Daresia. Sul
+portone vi e' lo stemma di una Rosa dei Venti. C'e' una targa sul muro.
+
+~
+4 220 1
+D2
+~
+~
+0 -1 402
+E
+targa~
+La targa avvisa che il castello e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#402
+Salone di benvenuto~
+Sei nel salone di entrata del castello. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+4 728 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 401
+D2
+Un lungo corridoio.
+~
+~
+0 -1 403
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 404
+S
+#403
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+4 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 402
+D2
+Un lungo corridoio.
+~
+~
+0 -1 405
+S
+#404
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+4 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 414
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 402
+S
+#405
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+4 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 403
+D2
+Un largo corridoio.
+~
+~
+0 -1 406
+S
+#406
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+4 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 405
+D2
+Un lungo corridoio.
+~
+~
+0 -1 407
+D3
+La sala delle riunioni.
+~
+~
+0 -1 412
+S
+#407
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+4 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 406
+D1
+
+~
+~
+1 -1 413
+D2
+La fine del corridoio.
+~
+~
+0 -1 408
+S
+#408
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+4 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 407
+D4
+Una scala a chiocciola. 
+~
+~
+1 -1 409
+S
+#409
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+4 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 410
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 408
+S
+#410
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+4 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 411
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 409
+S
+#411
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta Lamorka. 
+~
+4 24 0
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 410
+S
+#412
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+4 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 406
+S
+#413
+Ufficio del Clan Master~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+4 732 0
+D3
+Sul corridoio.
+~
+~
+1 -1 407
+S
+#414
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+4 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 416
+D2
+I dormitori.
+~
+~
+0 -1 415
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 404
+S
+#415
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+4 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 414
+S
+#416
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze forziere del castello.
+~
+4 216 0
+D0
+Una stanza del castello.
+~
+~
+0 -1 417
+D1
+La fine del corridoio.
+~
+~
+0 -1 418
+D3
+Nel corridoio.
+~
+~
+0 -1 414
+S
+#417
+Una stanza del castello.~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+4 216 0
+D2
+
+~
+~
+0 -1 416
+S
+#418
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+forziere del castello.
+~
+4 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 419
+D2
+Stanza donation.
+~
+~
+1 -1 420
+D3
+Nel corridoio.
+~
+~
+0 -1 416
+S
+#419
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+4 728 0
+D1
+~
+~
+0 0 1466412
+D2
+
+~
+~
+1 -1 418
+S
+#420
+Stanza donation.~
+Questa e' la stanza donation del castello. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+4 92 0
+D0
+Nel corridoio.
+~
+~
+1 -1 418
+S
+#421
+Entrata del Palazzo delle Regine di Jiroch~
+L'entrata ha un aspetto nobile, tipico delle sedi dei Clan della Daresia. Sul
+portone vi e' lo stemma con uno scudo. C'e' una targa sul muro.
+
+~
+4 732 1
+D0
+Main street ovest.~
+~
+0 -1 5424
+E
+targa~
+La targa avvisa che il palazzo e' aperto solo ai membri del clan ed hai
+suoi ospiti ufficiali.  
+~
+S
+#422
+Salone di benvenuto~
+Sei nel salone di entrata del palazzo. La stanza e' tapezzata di grandi
+arazzi. Una serie di braceri con il fuoco acceso delimitano il perimetro
+della stanza. Il colpo d'occhio e la fattezza degli oggetti che vedi nella
+ stanza ti fanno sentire orgoglioso del clan a cui appartieni.
+~
+4 216 0
+D0
+Vedi il portone di uscita sulla strada.
+~
+~
+0 -1 421
+D2
+Un lungo corridoio.
+~
+~
+0 -1 423
+D4
+Una larga scala che porta ai piani superiori.
+~
+~
+0 -1 424
+S
+#423
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+ finestre e la luce e' quella che viene esclusivamente dalle torce accese
+ riposte sulle pareti.
+~
+4 216 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 422
+D2
+Un lungo corridoio.
+~
+~
+0 -1 425
+S
+#424
+In cima alla larga scala.~
+Sei al piano superiore del castello. A est continua un  largo corridoio non
+ perfettamente illuminato. A malapena individui in lontananza delle porte che
+ danno su altre stanze.
+~
+4 88 0
+D1
+Un largo corridoio.
+~
+~
+0 -1 434
+D5
+Il salone del piano inferiore del castello.
+~
+~
+0 -1 422
+S
+#425
+Un lungo corridoio.~
+Stai percorrendo un lungo corridoio che porta a diverse stanze. Non ci sono
+finestre e la luce e' quella che viene esclusivamente dalle torce accese 
+riposte sulle pareti.
+~
+4 88 0
+D0
+Un largo corridoio.
+~
+~
+0 -1 423
+D2
+Un largo corridoio.
+~
+~
+0 -1 426
+S
+#426
+Un lungo corridoio.~
+Il corridoio prosegue a nor e sud. A ovest vedi la sala delle riunioni.
+~
+4 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 425
+D2
+Un lungo corridoio.
+~
+~
+0 -1 427
+D3
+La sala delle riunioni.
+~
+~
+0 -1 432
+S
+#427
+Verso la fine del corridoio.~
+Sei quasi alla fine del lungo corridoio. A sud intravedi una porta di legno
+massiccio. Ad est una porta di legno finemente intarsiata porta nel'ufficio
+del Clan Master.
+~
+4 88 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 426
+D1
+
+~
+~
+1 -1 433
+D2
+La fine del corridoio.
+~
+~
+0 -1 428
+S
+#428
+La fine del corridoio.~
+Il lungo corridoio finisce quasi in penombra davanti ad una massiccia porta
+in legno scuro.
+~
+4 72 0
+D0
+Un lungo corridoio.
+~
+~
+0 -1 427
+D4
+Una scala a chiocciola. 
+~
+~
+1 -1 429
+S
+#429
+Una scala a chiocciola.~
+Sei su una scala a chiocciola nella torre del castello.
+~
+4 8 0
+D4
+Lungo la scala a chiocciola della torre.
+~
+~
+0 -1 430
+D5
+Alla base della scala chiocciola.
+~
+~
+0 -1 428
+S
+#430
+Lungo la scala a chiocciola della torre.~
+Sei sulla scala a chiocciola della torre del castello. Vedi un leggero
+bagliore provenire dall'alto. In basso  solo buio.
+~
+4 88 0
+D4
+In cima alla torre.
+~
+~
+0 -1 431
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 429
+S
+#431
+In cima della torre.~
+Sei arrivato in cima alla torre del castello. Da qui godi un'ottima veduta su
+tutta Jiroch. 
+~
+4 24 0
+D5
+Lungo la scala a chiocciola.
+~
+~
+0 -1 430
+S
+#432
+La sala delle riunioni~
+Sei nella sala delle riunioni del clan. Qui si tengono le riunioni
+periodiche per decidere i piani strategici della organizzazione. Al centro
+della stanza c'e' un tavolo ovale molto grande con poltrone in velluto 
+intorno. Lo stemma del clan e' appeso nel muro sinistro. 
+Due armature con alabarda fanno da guardia simbolica al prezioso stemma.
+~
+4 24 0
+D1
+Nel corridoio.
+~
+~
+0 -1 426
+S
+#433
+Ufficio del Clan Master~
+L'ufficio e' maestoso. Segno della potenza del clan. Al centro una enorme
+scrivania in mogano con numerose carte riposte ordinatamente sopra. 
+Sbirciando le carte riesci ad intravedere che parlano di piani strategici
+di guerra. Preziosi quadri arredano le pareti e una ampia finestra da'
+luce a tutta la stanza.
+~
+4 220 0
+D3
+Sul corridoio.
+~
+~
+1 -1 427
+S
+#434
+Nel lungo corridoio al piano superiore.~
+Sei nel lungo corridoio al piano superiore del castello. Intravedi alcune 
+stanze piu' avanti.
+~
+4 88 0
+D1
+Lungo il corridoio.
+~
+~
+0 -1 436
+D2
+I dormitori.
+~
+~
+0 -1 435
+D3
+In cima alla grande e larga scala che conduce al piano inferiore.
+~
+~
+0 -1 424
+S
+#435
+I dormitori.~
+Sei in una stanza del castello che porta alle varie camere da letto messe a
+ disposizione dal Clan Master a tutti i membri del clan che non hanno un 
+proprio alloggio.
+~
+4 88 0
+D0
+Nel corridoio.
+~
+~
+0 -1 434
+S
+#436
+Nel lungo e maledettamente largo corridoio al piano superiore del castello.~
+Sei nel corridoio che conduce alle stanze donation del palazzo.
+~
+4 216 0
+D0
+Una stanza del palazzo.
+~
+~
+0 -1 437
+D1
+La fine del corridoio.
+~
+~
+0 -1 438
+D3
+Nel corridoio.
+~
+~
+0 -1 434
+S
+#437
+Una stanza del palazzo.~
+La stanza e' completamente vuota. Il Clan Master ha deciso che qui e' possibile
+utilizzare la bacheca per comunicare con gli altri membri del clan.
+~
+4 216 0
+D2
+
+~
+~
+0 -1 436
+S
+#438
+Alla fine del corridoio.~
+Sei arrivato alla fine del corridoio. Da qui a nord e a sud ci sono le stanze
+donation del palazzo.
+~
+4 216 0
+D0
+Stanza donation.
+~
+~
+1 -1 439
+D2
+Stanza donation.
+~
+~
+1 -1 440
+D3
+Nel corridoio.
+~
+~
+0 -1 436
+S
+#439
+Stanza donation.~
+Questa e' la stanza donation del palazzo. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+4 216 0
+D2
+
+~
+~
+1 -1 438
+S
+#440
+Stanza donation.~
+Questa e' la stanza donation del palazzo. Qui vengono di norma lasciati
+oggetti preziosi,  oggetti che possono servire ai nuovi membri o a quelli
+che hanno perso il loro equipaggiamento.
+~
+4 92 0
+D0
+Nel corridoio.
+~
+~
+1 -1 438
+S
+#460
+La strada delle colline~
+Sei su una strada che sinuosamente va' da nord a sud. E' ben tenuta
+il che fa' sembrare che sia abbastanza battuta dai mercanti.
+~
+4 4 2
+D1
+~
+~
+0 -1 365
+D2
+~
+~
+0 -1 461
+S
+#461
+La strada delle colline~
+Sei su una strada che sinuosamente va' da nord a sud. E' ben tenuta
+il che fa' sembrare che sia abbastanza battuta dai mercanti. Verso
+nord vedi una citta' mentre a sud la strada si insinua nella montagna.
+~
+4 4 2
+D0
+~
+~
+0 -1 460
+D1
+~
+~
+0 -1 462
+S
+#462
+La strada delle colline~
+Sei su una strada che sinuosamente va' da nord a sud. E' ben tenuta
+il che fa' sembrare che sia abbastanza battuta dai mercanti. Verso
+nord vedi una citta' mentre a sud la strada si insinua nella montagna.
+~
+4 4 2
+D1
+~
+~
+0 -1 463
+D3
+~
+~
+0 -1 461
+S
+#463
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 4
+D2
+~
+~
+0 -1 464
+D3
+~
+~
+0 -1 462
+S
+#464
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D0
+~
+~
+0 -1 463
+D2
+~
+~
+0 -1 466
+S
+#465
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 4
+D1
+~
+~
+0 -1 466
+D2
+~
+~
+0 -1 469
+S
+#466
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 4
+D0
+~
+~
+0 -1 464
+D3
+~
+~
+0 -1 465
+S
+#467
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 4
+D1
+~
+~
+0 -1 468
+D2
+~
+~
+0 -1 470
+S
+#468
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 4
+D1
+~
+~
+0 -1 469
+D3
+~
+~
+0 -1 467
+S
+#469
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 4
+D0
+~
+~
+0 -1 465
+D3
+~
+~
+0 -1 468
+S
+#470
+Radura in alto nella montagna~
+Ti trovi in una radura povera di vegetazione. Qualche albero limita
+il precipizio verso la valle. In lontananza intravedi come una
+caverna nella montagna.
+~
+4 4 5
+D2
+~
+~
+0 -1 472
+D3
+Una caverna nella montagna.~
+~
+0 -1 482
+S
+#471
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D1
+~
+~
+0 -1 472
+D2
+~
+~
+0 -1 473
+S
+#472
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D0
+~
+~
+0 -1 470
+D3
+~
+~
+0 -1 471
+S
+#473
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D0
+~
+~
+0 -1 471
+D2
+~
+~
+0 -1 476
+S
+#474
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D1
+~
+~
+0 -1 475
+D2
+~
+~
+0 -1 478
+S
+#475
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D1
+~
+~
+0 -1 476
+D3
+~
+~
+0 -1 474
+S
+#476
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 5
+D0
+~
+~
+0 -1 473
+D3
+~
+~
+0 -1 475
+S
+#477
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 2
+D1
+~
+~
+0 -1 478
+D2
+~
+~
+0 -1 479
+S
+#478
+La strada delle colline~
+La strada ha molti tornanti. Da una parte vedi il fondo della valle,
+mentre dall'altra la roccia incombe sulla tua testa.
+~
+4 4 2
+D0
+~
+~
+0 -1 474
+D3
+~
+~
+0 -1 477
+S
+#479
+La strada delle colline~
+Sei su una strada che sinuosamente va' da nord a sud. E' ben tenuta
+il che fa' sembrare che sia abbastanza battuta dai mercanti.
+~
+4 12 0
+D0
+~
+~
+0 -1 477
+D2
+~
+~
+0 -1 480
+S
+#480
+La strada delle colline~
+Sei su una strada che sinuosamente va' da nord a sud. E' ben tenuta
+il che fa' sembrare che sia abbastanza battuta dai mercanti.
+~
+4 12 0
+D0
+~
+~
+0 -1 479
+D2
+~
+~
+0 -1 481
+S
+#481
+La strada delle colline~
+Sei su una strada che sinuosamente va' da sud a nord. E' ben tenuta
+il che fa' sembrare che sia abbastanza battuta dai mercanti.
+~
+4 12 0
+D0
+~
+~
+0 -1 480
+D2
+~
+~
+0 -1 10004
+S
+#482
+Una caverna nella montagna.~
+L'entrata della caverna e' scura e ti intimorisce...
+~
+4 12 0
+D1
+L'uscita dalla caverna.~
+~
+0 -1 470
+D4
+Vedi un cunicolo illuminato con torce
+~
+~
+0 -1 483
+S
+#483
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D4
+~
+~
+0 -1 484
+D5
+Una caverna nella montagna.~
+~
+0 -1 482
+S
+#484
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D1
+~
+~
+0 -1 485
+D5
+~
+~
+0 -1 483
+S
+#485
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D1
+~
+~
+0 -1 486
+D3
+~
+~
+0 -1 484
+S
+#486
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D2
+~
+~
+0 -1 487
+D3
+~
+~
+0 -1 485
+S
+#487
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D0
+~
+~
+0 -1 486
+D4
+~
+~
+0 -1 488
+S
+#488
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D2
+~
+~
+0 -1 489
+D5
+~
+~
+0 -1 487
+S
+#489
+Lungo il tunnel~
+Continui la tua salita nel ventre della montagna.
+~
+4 12 0
+D0
+~
+~
+0 -1 488
+D4
+~
+~
+0 -1 490
+S
+#490
+Nella stanza ricavata nella roccia~
+Ti trovi in una stanza ricavata nella roccia della montagna. Un tappeto
+rosso e' steso a partire dall'ingresso della stanza fino ad una specie
+di trono, in fondo alla stanza. Il trono e' fatto di roccia ed ha uno
+stemma araldico scolpito nello schienale. Intorno alla stanza ci sono
+numerosi candelabri accesi per dare luce a questa dimora REGALE!
+~
+4 12 0
+D5
+~
+~
+0 -1 489
+S
+#491
+Stanza degli assassini~
+Sei nella stanza dove gli assassini in genere riposano.
+~
+4 12 0
+S
+#498
+La carrozza~
+Sei nella carrozza che regolarmente fa servizio di trasporto passeggeri
+tra le citta' della Daresia. La carrozza e' abbastanza grande e 
+confortevole cosi' da poter ospitare diverse persone contemporaneamente.
+Ai lati ci sono alcuni finestrini. Una tenda nera impedisce che la
+polvere sollevata dai cavalli, entri nella cabina. C'e' una mappa
+su una delle pareti.
+~
+4 8 0
+D3
+~
+~
+0 -1 12081
+E
+mappa parete~
+
+La mappa mostra:
+
+Stazioni della Daresia (seconda linea):
+
+
+           /J\
+          /   \
+         D      R
+        /       |
+      K         |
+      \____/\___L
+             
+    [D]  Stazione meridionale di Deira
+    [K]  Stazione di Kerofk
+    [L]  Stazione orientale di Lamorka
+    [R]  Stazione di Roma
+    [C]  Stazione orientale di Jiroch"
+
+~
+S
+#499
+La carrozza~
+Sei nella carrozza che regolarmente fa servizio di trasporto passeggeri
+tra le citta' della Daresia. La carrozza e' abbastanza grande e 
+confortevole cosi' da poter ospitare diverse persone contemporaneamente.
+Ai lati ci sono alcuni finestrini. Una tenda nera impedisce che la
+polvere sollevata dai cavalli, entri nella cabina. C'e' una mappa
+su una delle pareti.
+~
+4 8 0
+D3
+~
+~
+0 -1 6788
+E
+mappa parete~
+La mappa mostra:
+
+"Stazioni della Daresia:
+
+
+      C\    /J\
+      | \  /   \
+      |  D      L
+      |         |
+      Ch        |
+      \____/\___|
+             
+    [D]  Stazione di Deira
+    [J]  Stazione di Jiroch
+    [L]  Stazione di Lamorka
+    [Ch] Stazione di Chyrellos
+    [C]  Stazione di Cimmura"
+~
+S
+$~

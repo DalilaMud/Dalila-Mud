@@ -1,0 +1,5753 @@
+#5400
+L'entrata alla locanda Il Demone Danzante~
+Questo non e' certamente il benvenuto che ti aspettavi, sulle pareti sono
+spiaccicati i resti di altri incauti visitatori che ti hanno preceduto e
+davanti all'ingresso si staglia la figura di un enorme Zombie buttafuori...  
+Sei proprio sicuro che il suo compito sia quello di far uscire gli ospiti...  
+E non di farli rimanere in eterno?    
+~
+54 8 0
+D2
+Vedi della gente che balla e che beve.
+~
+~
+0 -1 5402 0
+D3
+Vedi della gente che passeggia su Camminata del Sultano.
+~
+~
+0 -1 5420 0
+D4
+La scala a spirale porta alla reception.
+~
+~
+0 -1 5401 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5401
+La sala delle torture~
+Non appena metti piede in questa stanza i tuoi occhi sono assaliti dalla vista
+di una miriade di marchingegni per la tortura.  Vedi Vergini di Ferro, corde
+con cappi ben stretti, ruote, chiodi, martelli, scioglilingua, rasoi e tante
+altre cose di cui non hai nemmeno mai sentito parlare.  L'odore di sangue e di
+morte riempie tutta questa stanza le eco dei lamenti continuano a infestare le
+tue orecchie anche quando nessun "ospite" e' presente nella stanza.
+&1Qui si puo' RESUSCITARE e RIGENERARE le proprie ferite.&0
+~
+54 17592186044568 0
+D5
+La scala porta giu' alla locanda.
+~
+~
+0 -1 5400 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5402
+La locanda del Demone Danzante~
+Un enorme banco circolare occupa la maggior parte dello spazio ad est della
+locanda.  Cio' che rimane dell'oste si agita all'interno del bancone, pronto a
+servire le sue vittim..  Ehm i suoi "ospiti".  Un gruppo di creature deformi e
+cadenti stanno producendo dei suoni orribili sul palcoscenico, i loro muggiti
+sono la tortura peggiore per chiunque si intenda un minimo di musica!  Dal
+soffitto senti provenire dei terrificanti e prolungati lamenti...  Non credi
+sia saggio seguire la tua curiosita'...  Che ti spinge a cercare la loro
+origine.    
+~
+54 8 0
+D0
+Vedi l'entrata alla locanda.
+~
+~
+0 -1 5400 0
+E
+bar~
+Il bar sembra leggermente fuori posto, puoi solo immaginare la potente magia
+del cameriere al banco.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5403
+Quartieri del dolore~
+   Sei nella Medina, una delle aree aperte piu' grandi di Jiroch.
+Della gente indaffarata cammina avanti e indietro. La Piazza del Comune si
+apre a sud e la Medina continua a nord.
+~
+54 0 1
+D0
+Vedi la Medina.
+~
+~
+0 -1 5404 0
+D2
+Vedi Piazza del Comune.
+~
+~
+0 -1 5410 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5404
+Quartieri del dolore~
+   Stai camminando su una larga strada  che connette Piazza del Mercato con
+Piazza del Comune. Disgraziati, mendicanti, e altra ciurmaglia vaga con la
+speranza di intenerire qualcuno di buon cuore. La Medina continua a sud e
+Piazza del Mercato e' a nord.
+~
+54 0 1
+D0
+Vedi Piazza del Mercato.
+~
+~
+0 -1 5405 0
+D2
+Vedi la Medina.
+~
+~
+0 -1 5403 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5405
+Piazza del nero apostolo~
+Davanti a te si stende una nera piazza, al cui centro si erge l'imponente
+statua del Nero Apostolo, la guida dei Necrarchi.  Tutte le creature che
+passano di qui non si astengono dal rendere un giusto saluto al loro padrone,
+inchinandosi.  A nord la strada prosegue verso il Mercato delle ossa, mentre a
+sud si dirige verso l'uscita meridionale.    
+~
+54 0 1
+D0
+~
+~
+0 -1 5406 0
+D1
+~
+~
+0 -1 5407 0
+D2
+~
+~
+0 -1 5404 0
+D3
+~
+~
+0 -1 5408 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5406
+Mercato d'ossa~
+Incredibile!  La pavimentazione di questa piazza e' interamente composta di
+ossa. Ma non solo, anche le poche costruzioni che ci sono intorno sono fatte con
+questi macabri "mattoni".  Il puzzo di morte qui e' insopportabile e ad ogni
+passo lo scricchiolio delle ossa che si spezzano una sopra l'altra ti trapassa
+i timpani.    
+~
+54 0 1
+D0
+~
+~
+0 -1 5415 0
+D1
+~
+~
+0 -1 5417 0
+D2
+~
+~
+0 -1 5405 0
+D3
+~
+~
+0 -1 5409 0
+E
+statua~
+Davanti a te c'e' la statua di un potentissimo Beholder!
+Una grande bestia dai multipli occhi e cattivo... cattivo... hmm.... occhi...
+Il Beholder e' in eccellenti condizioni.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5407
+Piazza del Mercato sudorientale~
+   In questo angolo del mercato ci sono alcuni dei piu' grandi guerrieri
+della terra che ti sovrastano. E' facile capire perche' sono qui una volta
+che hai notato l'armeria e il negozio delle armature. Forse potresti fermarti
+un attimo e vedere cosa offrono.
+~
+54 0 1
+D0
+~
+~
+0 -1 5417 0
+D1
+~
+~
+0 -1 5529 0
+D2
+~
+~
+0 -1 5536 0
+D3
+~
+~
+0 -1 5405 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5408
+Piazza del Mercato sudoccidentale~
+   Questa area del mercato sembra relativamente calma.
+A sud c'e' il negozio del pane e ad ovest c'e' l'ingresso della drogheria.
+   Il mercato continua ad est e a nord di qui.
+~
+54 0 1
+D0
+~
+~
+0 -1 5409 0
+D1
+~
+~
+0 -1 5405 0
+D2
+Vedi la drogheria.
+~
+~
+0 -1 5535 0
+D3
+Vedi il general store.
+~
+~
+0 -1 5528 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5409
+Piazza del Mercato occidentale~
+   Questa zona del mercato sembra un po' pacata rispetto al resto.
+Noti che la maggior parte degli avventurieri stranieri si aggirano
+verso la parte meridionale del mercato mentre i cittadini sembrano
+intrattenersi nella parte settentrionale.
+West Main Street inizia qui e porta verso i cancelli della citta',
+il mercato si espande nelle altre direzioni.
+~
+54 0 1
+D0
+~
+~
+0 -1 5414 0
+D1
+~
+~
+0 -1 5406 0
+D2
+~
+~
+0 -1 5408 0
+D3
+~
+~
+0 -1 5426 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5410
+Piazza del sangue~
+Non si puo' certo dire che questa piazza abbia la vitalita' di un tempo.
+Tutto cio' che rimane dell'antica frenesia sono ombre che scivolano nei vicoli,
+carcasse umane che si trascinano stancamente e lamenti provenienti da chissa' dove.
+A completare il tutto, il tremendo fetore proveniente dal fiume maledetto che scorre da ovest a est.
+In effetti.. vorresti essere da un altra parte.
+~
+54 0 1
+D0
+Vedi la Medina.
+~
+~
+0 -1 5403 0
+D1
+~
+~
+0 -1 5437 0
+D2
+Vedi il ponte.
+~
+~
+0 -1 5412 0
+D3
+~
+~
+0 -1 5436 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5411
+Fuori della cancellata meridionale di Jiroch~
+   Vedi davanti a te il Grande Deserto Orientale.
+Hai udito molte storie sulla Grande Piramide, sulla citta' perduta
+di Old Thalos e sull'amichevole Brass Dragon che riposa sotto il deserto.
+A sud c'e' il deserto e la citta' di Jiroch e' a nord.
+~
+54 4 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5412
+Il Ponte Meridionale~
+Camminando sul ponte vedi le nere acque del fiume Gule.  A sud vedi il cancello
+meridionale mentre la Piazza del Sangue e' a nord.    
+~
+54 4 1
+D0
+~
+~
+0 -1 5410 0
+D2
+~
+~
+0 -1 5413 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5413
+Dentro il cancello meridionale di Necropolis~
+Una grande nuvola di fumo blocca la tua vista: un immenso incendio
+ha raso al suolo questa citta' oramai maledetta!
+~
+54 0 1
+D2
+~
+~
+0 0 1412555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5414
+Piazza del Mercato nordoccidentale~
+   Questo angolo del mercato e' abitato dalla gente piu' civilizzata
+di Jiroch. A nord c'e' l'umile negozio del mercante Akheem i cui abiti
+si dice siano i migliori della citta', ad ovest c'e' l'entrata alla Real
+Banca di Jiroch.
+~
+54 0 1
+D0
+~
+~
+0 -1 5514 0
+D1
+~
+~
+0 -1 5415 0
+D2
+~
+~
+0 -1 5409 0
+D3
+~
+~
+0 -1 5521 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5415
+Piazza del Mercato settentrionale~
+   Sei in una delle zone piu' pesantemente trafficate di Jiroch. A nord
+c'e' il Palazzo di Jiroch e la Casbah, ad est, ovest e sud il mercato
+prospera di vita.
+~
+54 0 1
+D0
+~
+~
+0 -1 5418 0
+D1
+~
+~
+0 -1 5416 0
+D2
+~
+~
+0 -1 5406 0
+D3
+~
+~
+0 -1 5414 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5416
+Piazza del Mercato nordorientale~
+   Pandemonio. Caos. Pazzia. Poche altre parole vengono alla mente
+per descrivere questa zona del mercato. Il banchetto della verdura
+e' abbastanza silenzioso, quindi presumi che tutto il frastuono provenga
+dalla Macelleria. Pensaci prima di entrare in questo negozio.
+Il mercato continua a sud e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 -1 5515 0
+D1
+~
+~
+0 -1 5522 0
+D2
+~
+~
+0 -1 5417 0
+D3
+~
+~
+0 -1 5415 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5417
+Piazza del Mercato orientale~
+   Sei nel mercato di Jiroch, la gemma del deserto.  Il mercato e' il fulcro
+della citta', tutto mestieri e commercio di ogni genere. Il mercato si dirama
+in tutte le direzioni tranne ad est, qui Main Street porta al cancello
+orientale.
+~
+54 0 1
+D0
+~
+~
+0 -1 5416 0
+D1
+~
+~
+0 -1 5427 0
+D2
+~
+~
+0 -1 5407 0
+D3
+~
+~
+0 -1 5406 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5418
+La strada maledetta~
+Questa strada viscida e vischiosa porta dal mercato delle ossa alla parte nord della citta',
+dove potrai raggiungere il terrificante Palazzo dei Necrarchi.
+~
+54 0 1
+D0
+~
+~
+0 -1 5419 0
+D2
+~
+~
+0 -1 5415 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5419
+La strada maledetta~
+Questa parte della strada passa fra le nere mura del Palazzo e della locanda il Demone Danzante.
+A est, in una crepa nel muro, scorgi l'interno della locanda: da quello che riesci a intravedere...
+i Non-morti devono avere una strana idea di...ristoro e intrattenimento...
+~
+54 0 1
+D0
+~
+~
+0 -1 5420 0
+D2
+~
+~
+0 -1 5418 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5420
+La strada maledetta~
+Ti senti oppresso dalla grandezza del Palazzo, da qui lo puoi vedere in tutta la sua interezza 
+ed e' spaventoso, non vuoi nemmeno pensare a cosa i Necrarchi facciano e architettino li dentro.
+Ad est l'ingresso della locanda il Demone Danzante non e' molto piu' rassicurante...
+difficilmente riusciresti a riposarti li.
+~
+54 0 1
+D0
+~
+~
+0 -1 5421 0
+D1
+~
+~
+0 -1 5400 0
+D2
+~
+~
+0 -1 5419 0
+D3
+~
+~
+0 -1 5558 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5421
+La strada maledetta~
+La parte nord della strada principale continua superando il Palazzo e la
+locanda.  A nord vedi l'imponente cancello nero e da sud senti i lamenti delle
+anime che vagano per il mercato delle ossa.    
+~
+54 0 1
+D0
+~
+~
+0 -1 5422 0
+D2
+~
+~
+0 -1 5420 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5422
+I cancelli nord di Necropolis~
+Due grandi e nere torri di pietra si ergono davanti a te minacciose con un
+cancello da cui e' sparito lo stemma di Jiroch, Le imponenti mura che un tempo
+difendevano la splendida citta' di Jiroch ora proteggono i non-morti di
+Necropolis.    
+~
+54 0 1
+D0
+~
+~
+0 0 1406555 0
+D1
+~
+~
+0 -1 5449 0
+D2
+~
+~
+0 -1 5421 0
+D3
+~
+~
+0 -1 5448 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5423
+I cancelli ovest di Necropolis~
+Due grandi e nere torri di pietra si ergono davanti a te minacciose con un
+cancello da cui e' sparito lo stemma di Jiroch.  Le imponenti mura che un tempo
+difendevano la splendida citta' di Jiroch ora proteggono i non-morti di
+Necropolis.    
+~
+54 4 1
+D0
+~
+~
+0 -1 5680 0
+D1
+~
+~
+0 -1 5424 0
+D2
+~
+~
+0 -1 5526 0
+D3
+~
+cancellata~
+1 0 5569 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5424
+Corridoi dell'orrore ovest~
+   Questa e' la strada principale che attraversa la citta'. A sud vedi il
+maestoso palazzo delle Regine di Jiroch e a nord c'e' un campo erboso noto
+come Piazza del Tempio. Main Street continua ad est e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 -1 5520 0
+D1
+~
+~
+0 -1 5425 0
+D2
+Palazzo delle Regine di Jiroch~
+~
+0 -1 -1 0
+D3
+~
+~
+0 -1 5423 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5425
+Corridoi dell'orrore ovest~
+Il caposquadra e i suoi muratori sono impegnati a chiudere una buca che sembra non volersi riempire...
+ogni volta si svuota e devono ricominciare da capo. Una potente maledizione li costringe a lavorare per
+l'eternita' nel punto in cui la non-morte li ha colti.
+~
+54 0 1
+D0
+~
+~
+0 -1 5471 0
+D1
+~
+~
+0 -1 5426 0
+D2
+~
+~
+0 -1 5472 0
+D3
+~
+~
+0 -1 5424 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5426
+Corridoi dell'orrore ovest~
+Ti stai trascinando in una strada che era incastrata fra gli edifici di Jiroch.
+Ovunque ti rigiri non senti altro che lamenti e sospiri e l'aria e' satura dell'odore di morte...a stento 
+riesci a respirare.
+~
+54 0 1
+D1
+~
+~
+0 -1 5409 0
+D3
+~
+~
+0 -1 5425 0
+E
+manifesto~
+Il manifesto raffigura un ricco uomo vestito di rosso che ti sorride.
+Il sottotitolo recita:
+
+         IL SULTANO TI RICORDA DI PAGARE LE TASSE!
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5427
+Corridoi dell'orrore Est~
+   Qui sei su Main Street Est, senti l'odore carne fresca macellata
+e il suono martellante che proviene dall'armeria. La Piazza e' ad
+ovest ed un incrocio e' ad est.
+~
+54 0 1
+D1
+~
+~
+0 -1 5428 0
+D3
+~
+~
+0 -1 5417 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5428
+Corridoi dell'orrore Est~
+   Sei su Main Street Est. A nord inizia Corso delle Gilde. A sud c'e'
+un vicolo scuro. La strada continua ancora ad est.
+C'e' un piccolo cartello in mezzo all'incrocio.
+~
+54 0 1
+D0
+~
+~
+0 -1 5464 0
+D1
+~
+~
+0 -1 5429 0
+D2
+~
+~
+0 -1 5465 0
+D3
+~
+~
+0 -1 5427 0
+E
+cartello~
+Il cartello dice:
+
+                       NESSUN RITARDO!
+
+              (ordine del Sultano di Jiroch)
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5429
+Corridoi dell'orrore Est~
+   Come ti incammini verso la gilda dei mercenari, un brivido freddo ti
+scorre lungo la schiena. Vedi oscuri figuri vicino all'entrata di
+questa casa di gente "aiutevole".
+A nord vedi le porte aperte della farmacia dove si possono comprare
+molti lenitivi magici.
+Main Street continua ad est e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 -1 5523 0
+D1
+~
+~
+0 -1 5430 0
+D2
+~
+~
+0 -1 5530 0
+D3
+~
+~
+0 -1 5428 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5430
+Corridoi dell'orrore Est~
+   La strada principale che attraversa la parte orientale di Jiroch comincia
+qui e porta ad ovest verso Piazza del Mercato. Uno dei cancelli principali
+si vede ad est ed il negozio della Magia di Braheem e' a nord.
+~
+54 0 1
+D0
+~
+~
+0 -1 5524 0
+D1
+~
+~
+0 -1 5431 0
+D3
+~
+~
+0 -1 5429 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5431
+Dentro i cancelli est di Necropolis~
+Due grandi e nere torri di pietra si ergono davanti a te minacciose con un
+cancello da cui e' sparito lo stemma di Jiroch.  Le imponenti mura che un tempo
+difendevano la splendida citta' di Jiroch ora proteggono i non-morti di
+Necropolis.    
+~
+54 4 1
+D0
+~
+~
+0 -1 5525 0
+D1
+~
+~
+0 0 1409559 0
+D3
+~
+~
+0 -1 5430 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5432
+Novita' del giorno di Cassandra~
+Non appena metti piede nel negozio un puzzo fetido ti assale le narici.  Tutta
+la stanza e' piena di orrendi contenitori pieni di resti umani, funghi velenosi
+e pezzi di animali di cui si nutrono gli abitanti di Necropolis.  Quella che un
+tempo era la bella bottegaia Cassandra e' ora una creatura disgustosa e infida,
+potrebbe venderti qualcosa di mortale solo per vederti agonizzare sul suo
+pavimento.    
+~
+54 12 0
+D2
+~
+~
+0 -1 5441 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5433
+L'ingresso alla zona industriale~
+   La strada in questo punto e' delimitata da un imponente arco verso ovest, e
+da quella direzione proviene un agitato frastuono di martelli al lavoro, seghe
+e coltelli. Il lato nord della strada si affaccia su un imponente magazzino,
+in parte crollato. A sud il venefico Ishtar scorre lento.
+~
+54 0 1
+D0
+~
+~
+0 -1 5540 0
+D1
+~
+~
+0 -1 5434 0
+D3
+~
+~
+0 0 1490 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5434
+Lungo l'argine dell'Ishtar maledetto~
+   Alcuni uomini quasi ti buttano fuori dalla strada mentre sono impegnati
+a caricare e scaricare le navi. Un ingresso a uno degli enormi magazzini
+di Jiroch e' a nord ed il Fiume Ishtar quietamente scorre a sud.
+L'Ishtar Drive continua ad est e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 -1 5541 0
+D1
+~
+~
+0 -1 5435 0
+D3
+~
+~
+0 -1 5433 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5435
+Lungo l'argine dell'Ishtar maledetto~
+   La strada acciottolata e' umida qui, una cascata d'acqua scende sulla
+scaletta della nave.
+Cercando di mantenere l'equilibrio cominci a scivolare sul pavimento liscio e
+cerchi di aggrapparti alla ringhiera che qualcuno ha sapientemente messo qui.
+A nord c'e' lo Shipwright e l'Ishtar Drive continua ad est e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 -1 5542 0
+D1
+~
+~
+0 -1 5436 0
+D2
+~
+~
+0 -1 5443 0
+D3
+~
+~
+0 -1 5434 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5436
+Lungo l'argine dell'Ishtar maledetto~
+   Una brezza fresca proviene dal fiume e raffredda il sudore presente sulla
+tua pelle.
+Ordini e qualche maledizione provengono da ovest dalla direzione del magazzino.
+La Piazza del Comune e' ad est e l'Ishtar Drive
+continua ad ovest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5410 0
+D3
+~
+~
+0 -1 5435 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5437
+Le nere sponde dell'Ishtar~
+Tutto cio' che e' bagnato dalle nere acque dell'Ishtar e' andato in rovina.  
+La passeggiata sull'argine, che un tempo era un quartiere animato e fremente di
+attivita' adesso e' poco piu' di una triste landa silenziosa e invivibile, per
+il puzzo che viene dal fiume.    
+~
+54 0 1
+D0
+~
+~
+0 -1 5544 0
+D1
+~
+~
+0 -1 5439 0
+D3
+~
+~
+0 -1 5410 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5438
+Lungo il fiume nero~
+   La larga strada costeggia la parte sud della citta' e prosegue verso est
+ed ovest, delimitata solo da un fienile a nord e dal fiume Ishtar a sud.
+~
+54 0 1
+D1
+~
+~
+0 -1 5440 0
+D3
+~
+~
+0 -1 5439 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5439
+Lungo il fiume nero~
+   Piccole balle di fieno per terra ti avvisano del fatto che hai raggiunto
+le stalle. Stalloni arabi, cosi' come molte altre razze di cavalli, possono
+essere acquistati a buoni prezzi. L'Ishtar Drive continua ad est e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 -1 5545 0
+D1
+~
+~
+0 -1 5438 0
+D3
+~
+~
+0 -1 5437 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5440
+Lungo il fiume nero~
+   Con fatica riesci a vedere nel vicolo scuro che inizia qui e procede
+verso nord. Rumori di gente ubriaca e occasionali miagolii di gatti provengono
+da li'. Fortunatamente hai la possibilita' di andare ad est o ad ovest.
+~
+54 0 1
+D0
+Vedi solo oscurita'.
+~
+~
+0 -1 5468 0
+D1
+~
+~
+0 -1 5441 0
+D3
+~
+~
+0 -1 5438 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5441
+L'argine dei cadaveri~
+Quello che un tempo era il mercato del pesce adesso e' una zona abbandonata e
+deserta.  Del resto...  Quale forma di vita potrebbe trovare spazio nel fango
+putrido che forma il fiume nero?    
+~
+54 0 1
+D0
+~
+~
+0 -1 5432 0
+D1
+~
+~
+0 -1 5442 0
+D3
+~
+~
+0 -1 5440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5442
+La foce del fiume nero~
+In questo punto l'Ishtar sembra piu' una palude che un fiume, l'acqua fetida si mescola al 
+fango grigio e maleodorante. Riesci a scorgere dei resti umani nella melma, ma rimarranno li
+per poco, il fiume nero ingoia tutto.
+~
+54 0 1
+D0
+~
+~
+0 -1 5547 0
+D3
+~
+~
+0 -1 5441 0
+E
+cartello~
+#====================================================#
+|                                                    |
+|              LA DISCARICA DI JIROCH                |
+|                                                    |
+|                                                    |
+|                      -----                         |
+|                                                    |
+|             Non si risponde dei danni subiti.      |
+|                            -la Direzione           |
+|                                                    |
+#====================================================#
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5443
+La scaletta della nave~
+   Questa lastra di pietra inclinata permette un facile passaggio da e
+per il fiume Ishtar. Barche sono ormeggiate nei bacini e attendono che
+i loro padroni ritornino dai magazzini e dalle osterie.
+Le acque del fiume Ishtar ti lambiscono i piedi a sud e l'Ishtar Drive
+e' a nord.
+~
+54 4 1
+D0
+~
+~
+0 -1 5435 0
+D2
+~
+~
+0 -1 5486 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5444
+Casbah Ovest~
+   Sei fermo davanti alle prigioni di Jiroch e l'aria e' grave e mesta.
+Con un po' di fortuna non vedrai mai l'interno di questa struttura.
+Qui c'e' la torre di nordovest con una scala a spirale che porta verso
+l'alto. Il viale finisce qui, l'unica uscita e' ad est.
+~
+54 0 1
+D1
+~
+~
+0 -1 5445 0
+D2
+~
+cancellata~
+2 5493 5553 15
+D4
+~
+~
+0 -1 5559 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5445
+Casbah Ovest~
+   Hai quasi raggiunto la fine del viale, il numero di guardie in
+questa parte della citta' e' quasi raddoppiato. A nord vedi le familiari
+mura della citta' che proteggono dalle regioni selvagge, a sud gradini di
+marmo portano verso il municipio circondato da alte colonne bianche.
+Il viale continua ad est e ad ovest.
+~
+54 0 1
+D0
+~
+~
+0 0 848 0
+D1
+~
+~
+0 -1 5446 0
+D2
+~
+~
+0 -1 5554 0
+D3
+~
+~
+0 -1 5444 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5446
+I quartieri della dannazione~
+   I muri del palazzo curvano a sud da qui, un vicolo buio lo costeggia
+in quella direzione. Ad ovest di qui vedi i gradini del municipio e noti
+che le guardie sono notevolmente aumentate.
+Il viale continua ad est.
+~
+54 0 1
+D1
+~
+~
+0 -1 5447 0
+D2
+~
+~
+0 -1 5458 0
+D3
+~
+~
+0 -1 5445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5447
+I quartieri della dannazione~
+   Come scendi per la strada verso il municipio vedi le guardie che fanno
+la ronda. A sud ci sono i grandi muri del Palazzo ed il viale va ad est e
+ad ovest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5448 0
+D3
+~
+~
+0 -1 5446 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5448
+I quartieri della dannazione~
+   L'acciottolato prosegue lungo il muro nord. A sud ci sono i grandi muri
+del Palazzo ed il viale va ad est e ad ovest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5422 0
+D3
+~
+~
+0 -1 5447 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5449
+I quartieri della dannazione~
+Addentrandoti nei quartieri della dannazione non riesci a distinguere niente di cio' che fu:
+dove un tempo dialogavano gli anziani e giocavano i bambini ora ci sono solo gruppi di ripugnanti
+creature strappate alla morte dalla magia dei Necrarchi, alle quali sembra passata la voglia di giocare...
+~
+54 0 1
+D1
+~
+~
+0 -1 5450 0
+D3
+~
+~
+0 -1 5422 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5450
+I quartieri della dannazione~
+   A camminare sull'acciottolato ci si sente sicuri con i muri della citta'
+che ti sovrastano. Senti i raschi del metallo sulla pietra e vedi una
+grande. forte guardia a nord.
+Ad est c'e' l'incrocio fra il Corso delle Gilde e la cancellata nord e'
+nelle prossimita' ad ovest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5451 0
+D3
+~
+~
+0 -1 5449 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5451
+I quartieri della dannazione~
+   Il chiasso delle gilde sopraffa' i tuoi sensi come raggiungi questo
+incrocio, il martellio, l'odore di cuoio conciato ed il fumo che proviene
+dalla fucina ti salutano.
+Il viale continua ad est e ad ovest da qui e il Corso delle Gilde porta a sud.
+~
+54 0 1
+D1
+~
+~
+0 -1 5452 0
+D2
+~
+~
+0 -1 5460 0
+D3
+~
+~
+0 -1 5450 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5452
+I quartieri della dannazione~
+   Stai camminando fra le solide mura della citta' e la Gilda dei Muratori.
+Dei ragazzini con le loro bambinaie approfittano della sicurezza della
+citta' e passeggiano tranquillamente.
+Il viale va ad est e ad ovest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5453 0
+D3
+~
+~
+0 -1 5451 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5453
+I quartieri della dannazione~
+   Hai quasi raggiunto la fine del viale in questa direzione. Camminando
+verso la parte nordest della citta' noti che la densita' della popolazione
+e' molto minore qui rispetto al resto della citta'. Qualche vecchio che
+cammina zoppicando appoggiato al suo bastone di canna e qualche giovane
+intento a studiare sono le uniche persone che incontri.
+Il viale va ad est e ad ovest.
+~
+54 0 1
+D1
+~
+~
+0 -1 5454 0
+D3
+~
+~
+0 -1 5452 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5454
+I quartieri della dannazione~
+   Il viale finisce qui, torna a sud per diventare Corso di Kali.
+Viaggiando in quella direzione arriverai alla Biblioteca e alla grande
+sala da ballo della citta'.
+Puoi salire sulla torre di nordest tramite una scala a spirale.
+~
+54 0 1
+D2
+~
+~
+0 -1 5455 0
+D3
+~
+~
+0 -1 5453 0
+D4
+~
+~
+0 -1 5562 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5455
+Vicolo della morte~
+   Questa e' una piccola recente sezione aggiunta alla citta'. Puoi entrare
+nella biblioteca della citta' attraverso la porta ad ovest e la Casbah
+comincia il suo percorso appena a nord delle vie di qui.
+Il Corso e l'ingresso alla sala da ballo e' a sud.
+~
+54 0 1
+D0
+~
+~
+0 -1 5454 0
+D2
+~
+~
+0 -1 5456 0
+D3
+~
+~
+0 -1 5551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5456
+Vicolo della morte~
+   Il corto corso finisce improvvisamente all'entrata della sala da ballo
+di Jiroch. L'ingresso alla sala e' ad ovest e il corso continua verso nord.
+~
+54 0 1
+D0
+~
+~
+0 -1 5455 0
+D3
+~
+~
+0 -1 5552 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5457
+Sottosuolo~
+   Il piccolo passaggio continua a nord e a sud.
+~
+54 9 1
+D0
+~
+~
+0 -1 5478 0
+D2
+~
+~
+0 -1 5480 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5458
+Vicolo~
+   Questo e' uno scuro vicolo che corre fra il Palazzo e il Municipio.
+Non c'e' molto qui ad esclusione di ragni e ratti.
+~
+54 0 1
+D0
+~
+~
+0 -1 5446 0
+D2
+~
+~
+0 -1 5459 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5459
+Vicolo~
+   Il vicolo finisce qui.
+~
+54 1 1
+D0
+~
+~
+0 -1 5458 0
+D5
+Vedi uno stradino che chiude una buca nella strada.
+~
+buca~
+1 -1 5475 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5460
+Strada del male~
+   Questo corso brulica di attivita' ed e' secondo solo a quello di Piazza
+del Mercato. Lungo questo corso ci sono tutte le gilde delle classi
+lavoratrici di Jiroch, qui sono fatti tutti gli articoli che sono venduti in
+piazza.
+Il Corso procede a sud e la Casbah orientale e' a nord.
+~
+54 0 1
+D0
+~
+~
+0 -1 5451 0
+D1
+~
+~
+0 -1 5556 0
+D2
+~
+~
+0 -1 5461 0
+D3
+~
+~
+0 -1 5555 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5461
+Strada del male~
+   Le gilde continuano qui, ad ovest c'e' la Gilda della Tessitori, e ad est
+c'e' la Gilda degli Artisti.
+Corso delle Gilde prosegue a nord e a sud.
+~
+54 0 1
+D0
+~
+~
+0 -1 5460 0
+D1
+~
+~
+0 -1 5507 0
+D2
+~
+~
+0 -1 5462 0
+D3
+~
+~
+0 -1 5506 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5462
+Strada del male~
+   Solo una gilda qui ha un'entrata: la Gilda dei Conciatori, ad ovest.
+Ad est c'e' una porta marmorea meravigliosamente scolpita che permette
+l'entrata al Museo degli Dei Maggiori.
+Corso delle Gilde prosegue a nord e a sud.
+~
+54 0 1
+D0
+~
+~
+0 -1 5461 0
+D1
+~
+~
+0 -1 5511 0
+D2
+~
+~
+0 -1 5463 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5463
+Strada del male~
+   Dopo che le gilde sono state costruite la gente della citta' hanno
+adoperato degli spazi addizionali per erigere un sacrario ai loro protettori.
+Il risultato di questo lavoro e' divenuto il Museo degli Dei Maggiori.
+Puoi entrare nella sala sacra che e' ad est.
+~
+54 0 1
+D0
+~
+~
+0 -1 5462 0
+D1
+~
+~
+0 -1 5516 0
+D2
+~
+~
+0 -1 5464 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5464
+Strada del male~
+   Questa piccola strada e' frequentata dagli apprendisti delle gilde
+che corrono a rifornire i negozi in Piazza del Mercato.
+Le sedi delle gilde sono a nord e Main Street e' a sud.
+~
+54 0 1
+D0
+~
+~
+0 -1 5463 0
+D2
+~
+~
+0 -1 5428 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5465
+Vicolo oscuro~
+   Anche con la luce non riesci a penetrare il mantello magico di oscurita'
+che ricopre questo vicolo.
+~
+54 5 1
+D0
+~
+~
+0 -1 5428 0
+D2
+~
+~
+0 -1 5466 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5466
+Vicolo oscuro~
+   Anche con la luce non riesci a penetrare il mantello magico di oscurita'
+che ricopre questo vicolo.
+~
+54 1 1
+D0
+~
+~
+0 -1 5465 0
+D1
+~
+~
+0 -1 5467 0
+D3
+~
+~
+0 -1 5537 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5467
+Vicolo oscuro~
+   Anche con la luce non riesci a penetrare il mantello magico di oscurita'
+che ricopre questo vicolo.
+~
+54 1 1
+D1
+~
+~
+0 -1 5538 0
+D2
+~
+~
+0 -1 5468 0
+D3
+~
+~
+0 -1 5466 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5468
+Vicolo oscuro~
+   Anche con la luce non riesci a penetrare il mantello magico di oscurita'
+che ricopre questo vicolo.
+~
+54 5 1
+D0
+~
+~
+0 -1 5467 0
+D2
+~
+~
+0 -1 5440 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5469
+Vicolo oscuro~
+   Sei in un angolo del stretto vicolo.  I muri del tempio sono a nord e
+ad ovest. Osservi un notevole numero di impronte ad est.
+~
+54 1 1
+D1
+~
+~
+0 -1 5470 0
+D2
+~
+~
+0 -1 5471 0
+E
+impronta impronte~
+Sembrerebbero essere impronte di yeti... hmmmm.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5470
+Vicolo oscuro~
+   Sei alla fine dello stretto vicolo. Osservi un notevole numero di impronte
+sul terreno.
+~
+54 1 1
+D3
+~
+~
+0 -1 5469 0
+D5
+Vedi un piccolo cerchio di ferro nel terreno.
+~
+buca~
+1 -1 5478 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5471
+Vicolo oscuro~
+Ti trovi in uno stretto vicolo tra il tempio e quella che era la banca.  Senti
+i lamenti dei lavoratori maledetti provenire da sud.  Il terreno e' rovinato...
+Una strana sostanza fangosa riempie le numerose buche che tappezzano la strada.
+Certo non vorresti mettere il piede li dentro!    
+~
+54 5 1
+D0
+~
+~
+0 -1 5469 0
+D2
+~
+~
+0 -1 5425 0
+E
+buca~
+Perche' guardi in una buca? Sei povero o cosa?
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5472
+Vicolo oscuro~
+   Sei in un piccolo vicolo fra il negozio delle riparazioni e quello
+degli articoli generali. Non c'e' molto qui... solo topolini e polvere.
+~
+54 5 1
+D0
+~
+~
+0 -1 5425 0
+D2
+~
+~
+0 -1 5473 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5473
+Vicolo oscuro~
+   Sei in uno stretto vicolo dietro i magazzini e la gilda dei Genidian.
+~
+54 1 1
+D0
+~
+~
+0 -1 5472 0
+D1
+~
+~
+0 -1 5474 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5474
+Vicolo oscuro~
+   Il vicolo qui finisce cosi' come finiscono anche le impronte che avevi
+notato prima.
+~
+54 1 1
+D3
+~
+~
+0 -1 5473 0
+D5
+Vedi un piccolo coperchio di ferro nel terreno.
+~
+buca~
+1 -1 5481 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5475
+Sottosuolo~
+   Sei in un piccolo passaggio sotterraneo sotto la citta'. Vedi un debole
+scintillio di luce provenire dall'alto ed il passaggio continua a sud.
+~
+54 9 1
+D2
+~
+~
+0 -1 5476 0
+D4
+~
+buca~
+1 -1 5459 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5476
+Sottosuolo~
+   Il passaggio continua a nord e a sud.
+~
+54 9 1
+D0
+~
+~
+0 -1 5475 0
+D2
+~
+~
+0 -1 5477 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5477
+Sottosuolo~
+   Il tunnel si ramifica e va a nord, est ed ovest.
+~
+54 9 1
+D0
+~
+~
+0 -1 5476 0
+D1
+~
+~
+0 -1 5478 0
+D3
+~
+~
+0 -1 5479 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5478
+Sottosuolo~
+   Il vicolo gira di nuovo qui e porta a sud ed ovest. Osservi un
+debole scintillio di luce provenire dall'alto.
+~
+54 9 1
+D2
+~
+~
+0 -1 5457 0
+D3
+~
+~
+0 -1 5477 0
+D4
+~
+buca~
+1 -1 5470 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5479
+Sottosuolo~
+   Il passaggio finisce qui e senti qualche bassa salmodia da ovest.
+Osservi anche che non c'e' polvere sul terreno ma non sembrano esserci
+passaggi in quella direzione.
+~
+54 9 1
+D1
+~
+~
+0 -1 5477 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5480
+Sottosuolo~
+   Il piccolo passaggio continua a nord e sud.
+~
+54 9 1
+D0
+~
+~
+0 -1 5457 0
+D2
+~
+~
+0 -1 5481 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5481
+Sottosuolo~
+   Il piccolo passaggio porta a nord e ad est. Il rumore della citta' e'
+sopra di te.
+~
+54 9 1
+D0
+~
+~
+0 -1 5480 0
+D1
+~
+~
+0 -1 5482 0
+D4
+~
+buca~
+1 -1 5474 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5482
+Sottosuolo~
+   Il tunnel continua ad ovest e ad est. Speriamo che tu abbia un buon senso
+d'orientamento.
+~
+54 9 1
+D1
+~
+~
+0 -1 5492 0
+D3
+~
+~
+0 -1 5481 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5483
+Fiume Ishtar~
+   In alto sopra di te sulla cima delle mura le guardie la citta' controllano
+se desideri uscire dalla citta' via fiume. Se vuoi uscire da li' essi devono
+aprire la grata di ferro di fronte a te dall'alto. Il puzzo tremendo della
+discarica si diffonde dalla spiaggia.
+~
+54 0 7
+D1
+~
+~
+0 -1 5624 0
+D3
+~
+grata~
+1 -1 5484 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5484
+Fiume Ishtar~
+   Il lento flusso del fiume ti porta verso est, guarda in su vedi delle
+coppie che girano sulla strada.  Ad ovest vedi il ponte meridionale e ad est
+vedi la grata di ferro che protegge la citta' da ospiti indesiderati.
+~
+54 0 7
+D1
+~
+grata~
+1 -1 5483 3
+D3
+~
+~
+0 -1 5485 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5485
+Fiume Ishtar~
+   Senti l'eco della tua voce mentre passi sotto il ponte. I muratori hanno
+finito recentemente la piccola scala che permette un facile accesso al fiume.
+Ad ovest e ad est vedi il fiume.
+~
+54 0 7
+D1
+~
+~
+0 -1 5484 0
+D3
+~
+~
+0 -1 5486 0
+D4
+~
+~
+0 -1 5412 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5486
+Fiume Ishtar~
+   Questa parte del fiume sembra vivo dalla tanta attivita' che c'e'.
+Delle barche sono ormeggiate ai bacini a nord della rampa da qui.
+Verso est puoi vedere il ponte meridionale.
+~
+54 0 7
+D0
+~
+~
+0 -1 5443 0
+D1
+~
+~
+0 -1 5485 0
+D3
+~
+~
+0 -1 5487 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5487
+Fiume Ishtar~
+   Il fiume scorre attraverso una grata di ferro enorme dalla regione
+selvaggia attraverso la citta'. Robuste guardie attendono le richieste
+dei cittadini per aprire o chiudere la grata.
+~
+54 0 7
+D1
+~
+~
+0 -1 5486 0
+D3
+~
+grata~
+2 10321 5623 11
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5488
+Un buio passaggio~
+   Sei inciampato in un piccolo passaggio. Il muro ad ovest non sembra
+molto ben fatto ma non rivela nessuna porta segreta. La sola uscita e' ad est.
+~
+54 9 1
+D1
+~
+~
+0 -1 5489 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5489
+Un buio passaggio~
+   Il piccolo passaggio continua ad est e ad ovest. Di nuovo noti qualche
+particolare del muro, questa tempo a nord, ma continui a non vedere porte
+segrete.  In lontananza a nord senti delle voci.
+~
+54 9 1
+D1
+~
+~
+0 -1 5490 0
+D3
+~
+~
+0 -1 5488 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5490
+Un buio passaggio~
+   Il piccolo passaggio continua ad ovest e ad est.
+~
+54 9 1
+D1
+~
+~
+0 -1 5491 0
+D3
+~
+~
+0 -1 5489 0
+E
+macigno~
+Qui c'e' un enorme macigno. Nel suo centro qualcuno ha inciso un perfetto
+buco rotondo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5491
+Un buio passaggio~
+   Il piccolo passaggio finisce qui senza nessuna ragione apparente.
+Guardandoti intorno trovi una piccola scala semi sepolta nell'immondizia.
+Sollevandola scopri una botola nel soffitto. Il passaggio continua ad ovest.
+~
+54 9 1
+D3
+~
+~
+0 -1 5490 0
+D4
+~
+segreta~
+1 -1 5570 3
+E
+fuoco~
+Vedi che questo fuoco e' attualmente GELATO. Le fiamme irradiano ancora
+calore, ma non brucia davvero. Guardandoti intorno noti un piccolo buco
+della grandezza di un pezzo di carbone alla base delle fiamme.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5492
+Sottosuolo~
+   Il piccolo passaggio continua ad ovest e ad est.
+~
+54 9 1
+D1
+~
+~
+0 -1 5493 0
+D3
+~
+~
+0 -1 5482 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5493
+Sottosuolo~
+   Il piccolo passaggio continua ad ovest e ad est.
+~
+54 9 1
+D1
+~
+~
+0 -1 5500 0
+D3
+~
+~
+0 -1 5492 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5500
+Sottosuolo~
+   Il piccolo passaggio continua ad ovest e ad est.
+~
+54 9 0
+D1
+~
+~
+0 -1 5501 0
+D3
+~
+~
+0 -1 5493 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5501
+Sottosuolo~
+   Il piccolo passaggio continua ad ovest e ad est.
+~
+54 9 0
+D3
+~
+~
+0 0 5500 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 5501
+#5502
+Sala del Potere.~
+Sei giunto nell'antica stanza del potere, in cui solo il re poteva entrare.
+Qui e' custodita la Sacra Runa.
+~
+54 9 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 5501
+#5503
+Il Rifugio dei Cyrinic~
+   Cammini giu' per la scala verso il silenzioso rifugio. Qui siede il
+tuo guildmaster pronto ad assisterti quando arriva il tempo. La stanza
+e' completamente silenziosa. La sola uscita e' indietro verso la scala che
+porta al Nettare.
+~
+54 152 0
+D1
+Noti che il pavimento alla base della parete est e' leggermente smosso.
+~
+porta segreta~
+1 -1 5479 3
+D4
+~
+~
+0 -1 5519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5504
+La camera dell'Oscuro Sacerdote~
+Sei entrato nella camera dell'anima piu' corrotta di Necropolis.  La mente del
+sacerdote e' in perenne contatto con le divinita' dei Necrarchi...  Ti conviene
+non disturbarlo non puoi immaginare come reagirebbe.    
+~
+54 8 0
+D2
+~
+~
+0 -1 5508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5505
+All'altare~
+Ti trovi di fronte a un enorme altare scolpito nell'onice privo di qualsiasi
+incisione eccettuata una runa rosso sangue marchiata su un lato.  Dietro
+l'altare un'edera nera si e' avvinghiata a quella che era la grande statua di
+Cyrgon, sbriciolandola.  Ora ne rimangono solo i piedi.    
+~
+54 88 0
+D2
+~
+~
+0 -1 5509 0
+E
+statua~
+Guardando l'enorme statua vedi il calmo (?!?) Cyrgon che guarda fisso fuori
+verso le sue terre, sembra compiaciuto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5506
+La Gilda dei Tessitori~
+   Rotoli e rotoli di stoffa intonsa sono in attesa di diventare dei vestiti.
+Un ragazzo giovane afferra una pila di abiti ed esce.
+~
+54 8 0
+D1
+~
+~
+0 -1 5461 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5507
+La Gilda dei Costruttori~
+   Sei entrato in un'officina piena di gente che corre con in mano
+attrezzi vari e materiali.  L'aria e' pregna della fretta di finire
+vari progetti completi e creazioni.
+~
+54 8 0
+D3
+~
+~
+0 -1 5461 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5508
+Nel tempio~
+   Il tempio continua qui, ma non su grande scala. Il luogo sembra ancora
+immacolato. A nord vedi la camera dell'Alto Prete ed un cartello sulla porta
+a GRANDI lettere dice: "NON DISTURBARE"
+A sud c'e' l'ingresso alla Gilda dei Cyrinic.
+~
+54 72 0
+D0
+~
+~
+0 -1 5504 0
+D1
+~
+~
+0 -1 5509 0
+D2
+~
+~
+0 -1 5512 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5509
+Nel tempio del male~
+Ciclopiche colonne sorgono dal terreno e, attorcigliandosi su di loro, si
+incuneano nel soffitto, in un ipnotico moto perpetuo.  Una gigantesca mano
+artigliata, proveniente dai piu' profondi recessi infernali, ha sfondato il
+pavimento e si erge al centro della stanza, con la funzione di pulpito.  I
+fedeli della Necrarchia si riuniscono qui per venerare le loro blasfeme
+divinita', inginocchiandosi davanti alla mano.    
+~
+54 200 0
+D0
+~
+~
+0 -1 5505 0
+D1
+~
+~
+0 -1 5510 0
+D2
+~
+~
+0 -1 5513 0
+D3
+~
+~
+0 -1 5508 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5510
+La Sala delle Donazioni~
+   Questa stanza e' nuova nel tempio, e' stata creata durante i tempi duri
+che aveva ridotto mal partito la citta' in decadi recenti. Fortunatamente
+il Sultano aveva accumulato qualche bene necessario di base giusto tale
+occasione. Ai giorni nostri la sala dipende dalla generosita' di ricchi
+avventurieri, ed una maledizione se qualcuno prende tutto!
+~
+54 12 0
+D3
+~
+~
+0 -1 5509 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5511
+Il Museo degli Dei Maggiori~
+   Quattro grandi statue di pietra sono nel museo.  Sono state costruite
+dalla gente di Jiroch per rendere omaggio ai protettori che, essi credono,
+salvi tutte loro vite.
+Il museo continua a sud.
+~
+54 12 0
+D2
+~
+~
+0 -1 5516 0
+D3
+~
+~
+0 -1 5462 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5512
+L'ingresso alla Gilda dei sacerdoti del Male~
+   Questa sala impallidisce in paragone a quella della sala principale, ma e'
+bella lo stesso. Teste rasate e vesti marroni si vedono parlare pacatamente
+l'un all'altro. Il nord e' dietro al tempio, a sud c'e' l'ingresso al bar
+dei Cyrinic.
+~
+54 8 0
+D0
+~
+~
+0 -1 5508 0
+D2
+~
+~
+0 -1 5519 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5513
+Davanti al cancello animato~
+Ti trovi di fronte a un enorme cancello, guardandolo bene noti che alla lontana puo' ricordare 
+un volto. Le sue punte sono aguzze e avvelenate, non lascera' passare nessuno che non abbia l'anima 
+corrotta fino in fondo.
+~
+54 0 1
+D0
+~
+~
+0 -1 5509 0
+D2
+~
+~
+0 -1 5520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5514
+La Roba di Ahkeem~
+I pochi vestiti rimasti in questo negozio sono tutti ammucchiati da una parte,
+sono la tana di un'intera famiglia di topi ora.
+Ahkeem ti fissa ed emette uno strano sibilo...
+~
+54 8 0
+D2
+~
+~
+0 -1 5414 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5515
+Un negozio distrutto~
+Questo antico negozio di vegetali sopraffini e' stato completamente dato alle
+fiamme e raso al suolo dalla furia dei maledetti necrarchi...  Che desolazione!
+  
+~
+54 8 0
+D2
+~
+~
+0 -1 5416 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5516
+Il Museo degli Dei Maggiori~
+   Quattro grandi statue di pietra sono nel museo.  Sono state costruite
+dalla gente di Jiroch per rendere omaggio ai protettori che, essi credono,
+salvi tutte loro vite.
+Il museo continua a nord.
+~
+54 12 0
+D0
+~
+~
+0 -1 5511 0
+D3
+~
+~
+0 -1 5463 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5517
+La base della torre contorta~
+Stai attraversando una tetra stanza sulle cui pareti sono incise misteriose
+rune magiche.  In fondo alla stanza c'e' una scala di pietra nera che porta ai
+piani superiori, li ti attende il Maestro della Magia Nera.  Attento...  
+Potrebbe chiederti l'anima in cambio delle sue conoscenze...    
+~
+54 24 0
+D1
+~
+~
+0 -1 5518 0
+D2
+Noti che il pavimento alla base della parete e' leggermente smosso. 
+~
+porta segreta~
+1 -1 5524 3
+D4
+~
+~
+0 -1 5548 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5518
+Il cortile dei Pandion~
+Ti trovi in un piccolo spiazzo con al centro una piccola fontana da cui sgorga
+una fetida acqua nera.  Ad ovest si trova la torre contorta in cui il Maestro
+delle nere arti magiche di Necropolis attende nuovi iniziati.    
+~
+54 16 1
+D2
+~
+~
+0 -1 5525 0
+D3
+~
+~
+0 -1 5517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5519
+Nettare degli Dei~
+   Sei spaventato dalla prodigalita' di questo luogo. Da quello che conosci
+dei Cyrinic, supponi che siano gente umile, che danno tutti i loro beni
+materiali per la loro causa. Forse perche' solo ai Cyrinic e' permesso
+entrare in questo bar l'hanno reso il piu' comodo possibile. Nell'angolo c'e'
+una scala che scende nella camera della meditazione.
+~
+54 152 0
+D0
+~
+~
+0 -1 5512 0
+D5
+~
+~
+0 -1 5503 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5520
+Piazza del Tempio della Non-Morte~
+Ti trovi sul terreno maledetto di fronte al tempio della Non Morte. Sacerdoti malvagi, blasfeme creature,
+orridi non-morti e perversi apprendisti si riuniscono qui per venerare gli oscuri Dei della Necrarchia.
+~
+54 68 1
+D0
+~
+~
+0 -1 5513 0
+D2
+~
+~
+0 -1 5424 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5521
+La Banca~
+   Sei in un grande edificio decorato con marmo nero e raso rosso.
+Colonne enormi sostengono un alto soffitto arcuato.
+Ti meraviglia l'abilita' che i nani hanno per i dettagli.
+~
+54 24 0
+D1
+~
+~
+0 -1 5414 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5522
+La macelleria~
+   Questo negozio ha l'odore di carne fresca macellata. Ti senti proprio
+a casa. Vedi corpi... er... pezzi di carne appesa a ganci, che ancora
+sanguinano in tegami che sversano il contenuto in un tino messo nel
+sottosuolo. Ti chiedi dove va a finire...
+~
+54 8 0
+D3
+~
+~
+0 -1 5416 0
+E
+tino~
+Pensi di sentire dei rumori provenire dal tino (naaah).
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5523
+La stanza maledetta~
+   La prima cosa che noti come entri in questo negozio spazioso e' il
+centinaio di candele allineate sulle mensole. Una nebbia turbinante ti
+circonda i piedi e ti sembra di essere entrato in un altro piano.
+Un tavolo ingombro e' vicino alla parete lontana, opposto all'entrata.
+~
+54 8 0
+D2
+~
+~
+0 -1 5429 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5524
+L'antro della magia~
+Entri in un negozio pieno di scaffali e rotoli di carta bruciacchiati.
+Su tutto il muro e sul pavimento sono dipinti col sangue un'immane quantita' di
+rune di magia nera.
+Vedi un piccolo cartello macchiato di sangue sul muro.
+~
+54 8 0
+D2
+~
+~
+0 -1 5430 0
+E
+cartello~
+Il cartello dice:
+
+Benvenuti da Braheem...
+
+LIST   - Ti mostra tutte le mie potenti creazioni.
+VALUE  - Ti mostra quanto posso pagarti un articolo.
+SELL   - Ti libera di articoli magici in eccesso.
+BUY    - Ti libera dei soldi in eccesso.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5525
+L'entrata alla torre della magia nera~
+   La sala d'ingresso e' una piccola stanza mal illuminata. Sembrerebbe
+che il suo solo scopo sia dar riparo al potente guerriero che protegge 
+l'ingresso.
+~
+54 152 0
+D0
+~
+~
+0 -1 5518 0
+D2
+~
+~
+0 -1 5431 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5526
+L'entrata alla Gilda dei Genidian~
+Questa stanza ha la funzione di ospitare il guardiano della gilda.  Sulle mura
+sono appese numerose armi insanguinate, guarda bene di non far infuriare la
+guardia...  O potrebbe farti provare quanto sono dolorose...    
+~
+54 152 0
+D0
+~
+~
+0 -1 5423 0
+D2
+~
+~
+0 -1 5533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5528
+Il negozio di articoli generali~
+   La ricchezza di questa bella citta' e' evidente dalla varieta' di
+articoli esotici in vendita qui. Ti chiedi cosa accadrebbe digitando...
+LIST...
+~
+54 8 0
+D1
+~
+~
+0 -1 5408 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5529
+Le armature di Abdul~
+   Il martellio e' forte quando entri nel negozio. Ragazzi corrono avanti
+e indietro e portano secchi di acqua e carbone. Qualche nano lavora su pezzi
+di armature nel retro del negozio, il loro martello e' troppo veloce da
+seguire. I muri sono tutti adornati con le creazioni di Abdul.
+Qui puoi acquistare pezzi di armature.
+Una nota sul muro richiama la tua attenzione.
+~
+54 8 0
+D3
+~
+~
+0 -1 5407 0
+E
+nota~
+La nota dice:
+
+LIST  : ti da' un elenco degli articoli in vendita.
+VALUE : ti dice che valore ha per Abdul un articolo.
+SELL  : vendi un articolo ad Abdul per una somma generosa.
+BUY   : il comando FAVORITO di Abdul, ti vende un articolo a basso prezzo.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5530
+La Gilda dei Mercenari~
+   Questa gilda e' mal vista dalla maggior parte della popolazione di Jiroch,
+ma le leggi di offerta e domanda e' irresistibile. Gente viene qui quando si
+sente incapace o non e' disposta a lottare per le proprie battaglie. Per
+una piccola tassa puoi noleggiare un accolito.
+~
+54 8 0
+D0
+~
+~
+0 -1 5429 0
+D1
+Noti che il pavimento alla base della parete est e' leggermente smosso.
+
+~
+porta segreta~
+1 -1 5532 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5531
+La Gilda dei Mercenari~
+   Questo e' il stanza di alloggio per i mercenari noleggiati.
+~
+54 520 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5532
+Entrata alla Gilda delle Ombre~
+Questa stanza e' completamente buia. Non riesci a capirne neppure le dimensioni.
+Quando i tuoi occhi si adattano all'oscurita' riesci a distinguere un passaggio a sud.
+Improvvisamente ti senti osservato...forse c'e' qualcuno in questa stanza che non riesci a vedere?
+~
+54 153 0
+D2
+~
+~
+0 -1 5539 0
+D3
+~
+porta segreta~
+1 -1 5530 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5533
+Un tetro atrio~
+ Uomini molto grandi con spade molto grandi bevono birra da boccali molto
+grandi.
+Tutto in questa stanza e' GRANDE. Le tavole grandi rotonde hanno i piedi
+intaccati dalle numerose risse da bar.
+C'e' un'uscita ad est dove il master Genidian attende alunni da addestrare.
+~
+54 152 0
+D0
+~
+~
+0 -1 5526 0
+D1
+~
+~
+0 -1 5534 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5534
+Il campo di addestramento e di torneo~
+Questa stanza enorme e' adibita all'addestramento. I guerrieri dei necrarchi si allenano usando come 
+bersagli e sacchi da lotta i cadaveri di chi ha osato sfidarli... se ti fermi un istante a guardare...noti che
+forse...non tutti sono cadaveri. Dimostra il tuo valore...o anche tu finirai cosi'!
+~
+54 152 0
+D1
+Noti che l'erba alla base della parete e' leggermente smossa.
+~
+porta segreta~
+1 -1 5473 3
+D3
+~
+~
+0 -1 5533 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5535
+Il banco verminoso~
+Qui c'era una bellissima bancarella che vendeva pane tipico di Jiroch...  Ora
+la viscida e strisciante mercanzia sostituisce le profumate pagnotte
+lasciandoti quasi privo di sensi dallo schifo...    
+~
+54 8 0
+D0
+~
+~
+0 -1 5408 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5536
+Da "Igor il maledetto"~
+Il negozio d'armi di Jiroch era decisamente piu' gradevole prima di essere
+infestato..  Sara' che non c'erano quei funghi metallici, o quel grasso
+sanguinolento con cui il "nuovo" negoziante arrota le sue armi orripilanti e
+nerissime...  O forse sara' semplicemente una tua impressione?  Devi solo
+fingere che quei due uomini non siano appesi veramente al soffitto.    
+~
+54 8 0
+D0
+~
+~
+0 -1 5407 0
+E
+nota~
+La nota dice semplicemente:
+
+LEGGI LA NOTA NELL'ARMERIA
+
+                          Igor.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5537
+Il negozio del vecchio cuoio~
+   Sei su uno spesso tappeto orientale circondato da tutti i lati da
+scansie piene di numerose merci di cuoio. Alcune donne siedono su cuscini
+di cuoio cucendo delle giacche.
+~
+54 8 0
+D1
+~
+~
+0 -1 5466 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5538
+La locanda del Contrabbandiere~
+   Sei dentro una sporca locanda, che e' stata apparentemente pulita decadi
+or sono. Tavoli da poker sono allineati lungo i muri e tutti ti guardano
+fisso quando entri, non ti sente molto benvenuto. Il bar ha numerosi buchi
+di coltello ed il cameriere al banco si china verso di te per ricevere
+l'ordine.
+~
+54 8 0
+D3
+~
+~
+0 -1 5467 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5539
+L'Unicorno Lordo~
+   Un vento gelido ti gela le ossa come entri, sebbene non vedi nessuna porta
+o finestra aperta. Figure incappucciate si appostano intorno nelle ombre e
+parlano a voce bassa. Un bagliore di acciaio ti dice che le armi sono in
+grande abbondanza qui. Rapidamente controlli la tua sacca e noti una piccola
+scala che scende.
+~
+54 152 0
+D0
+~
+~
+0 -1 5532 0
+D5
+~
+~
+0 -1 5546 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5540
+L'orrido magazzino~
+   Sei in una grande stanza usata per immagazzinare la merce fatta in
+citta' prima di essere spedita. Tutti gli articoli qui sono fatti in Jiroch
+e mandati in ogni parte della terra.
+~
+54 8 0
+D1
+~
+~
+0 -1 5541 0
+D2
+~
+~
+0 -1 5433 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5541
+L'orrido magazzino~
+   Uomini camminano avanti e indietro conta gabbie ed annotando le loro
+scoperte.
+Questa area del magazzino e' usata come magazzinaggio delle materie prime
+portate da aree fuori della citta'. Queste merci sono quindi consegnate alle
+varie gilde. L'area dell'esportazione del magazzino e' a sud.
+~
+54 8 0
+D2
+~
+~
+0 -1 5434 0
+D3
+~
+~
+0 -1 5540 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5542
+Il Shipwright~
+   Il legno sotto di te scricchiola per gli anni passata nell'acqua salata.
+Un uomo vecchio dalla barba riccia e grigia e' dietro a un piccolo banco ed
+attende il tuo ordine. Dietro a lui ci sono vari modelli di barca a vela e
+grandi pesci.
+~
+54 8 0
+D1
+~
+~
+0 -1 5543 0
+D2
+~
+~
+0 -1 5435 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5543
+La Stanza delle bozze~
+   I muri sono coperti da carta schizzata con disegni. Questa stanza e' usata
+dal shipwright per costruire le sue creazioni su carta prima di ricavarle
+dal legno.
+~
+54 8 0
+D3
+~
+~
+0 -1 5542 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5544
+La fucina~
+Questa stanza e' diventata la prigione di quello che era il fabbro.
+Come per molti altri...la necrarchia ha portato per lui solo una tremenda maledizione:
+egli infatti non puo' piu' uscire da questo locale...e' costretto a lavorare in eterno.
+~
+54 8 0
+D2
+~
+~
+0 -1 5437 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5545
+Le Stalle Reali~
+   Nulla che non ti aspetteresti e' qui. Molte del Sultano contengono
+stalloni arabi di prima qualita', ciascuno ha il proprio trogolo per bere.
+Un ragazzo con una pala rimuove i rifiuti di tali bestie.
+~
+54 8 1
+D1
+~
+~
+0 -1 5549 0
+D2
+~
+~
+0 -1 5439 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5546
+Il campo segreto~
+   Questo e' un campo conosciuto solo da qualcuno in Jiroch. Qui puoi
+addestrarti nelle arti di furto, apertura di serrature, e divenire quasi
+invisibile.
+Una piccola scala riporta all'Unicorno.
+~
+54 152 0
+D2
+Noti che la parete a sud e' sbrecciata.
+~
+porta segreta~
+1 -1 5489 3
+D4
+~
+~
+0 -1 5539 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5547
+La gora dell'eterno fetore~
+CHE PUZZA!  Hai respirato solo per un istante, dopo di che hai dovuto tapparti
+il naso o saresti morto, ma hai sentito distintamente le orride flatulenze che
+esalano dall'acquitrino che ti sta davanti.  La melma che lo forma genera ogni
+tanto delle enormi bolle d'aria di color marrone...  Non appena esplodono un
+puzzo ancor maggiore infesta la zona.  Se per disgrazia dovessi cadere in
+quella pozza puzzeresti per il resto dei tuoi giorni...  E anche dopo!    
+~
+54 0 1
+D2
+~
+~
+0 -1 5442 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5548
+Il laboratorio dei Pandion~
+Ti trovi all'ultimo piano della torre contorta.  Lungo le pareti innumerevoli
+quantita' di pergamene e tomi di magia si alternano a incisioni arcane, sul
+pavimento e' raffigurato un grande circolo magico.  Davanti a te si staglia la
+scheletrica figura di quello che un tempo era l'insegnante di magia di Jiroch,
+non appena ti vede sul suo viso si dipinge un ghigno di soddisfazione...  
+Ormai e' troppo tardi per iniziare a pensare che la magia nera forse non fa per
+te...    
+~
+54 152 0
+D5
+~
+~
+0 -1 5517 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5549
+Il fienile~
+   Non tanto grande quanto quelli che hai visto nelle varie fattorie del
+paese, questo fienile serve da ricovero per i cavalli nelle stalle.
+Il ragazzo che visto prima con la pala ora e' qui.
+~
+54 8 0
+D3
+~
+~
+0 -1 5545 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5550
+La Grande Entrata~
+   In nessun luogo hai mai visto una tale ostentata di ricchezza come in
+questo corridoio. Il peloso tappeto sotto i tuoi piedi ti fa sentire come
+camminassi su una nube. Candelabri di platino pendono delicatamente dal
+soffitto e illuminano le antiche tappezzerie dei muri. Ad ovest ci sono
+le numerose sale del palazzo ed il cancello e' ad est.
+~
+54 8 0
+D0
+~
+~
+0 -1 5560 0
+D1
+~
+cancellata~
+2 5400 5558 15
+D2
+~
+~
+0 -1 5557 0
+D3
+~
+~
+0 -1 5605 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5551
+La biblioteca fantasma~
+   Questo edificio contiene l'enorme raccolta di libri e documenti
+che sono stati portati qui per preservare l'antica conoscenza di Jiroch.
+File di archivi pieni di libri su ogni mensola sono allineati alle pareti.
+L'aria ha l'aroma di pergamena vecchia e colla.
+~
+54 40 0
+D1
+~
+~
+0 -1 5455 0
+D3
+~
+~
+0 0 20038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5552
+La stanza della paura~
+   Ti sembra di avere perso una grande festa. I custodi raccolgono confetti
+e pezzi di cibo. Centinaia di bottiglie di birra vuote sui tavoli suggerisce
+che i cittadini amano questa bibita. C'e' anche una bandiera sul muro.
+~
+54 8 0
+D1
+~
+~
+0 -1 5456 0
+E
+bandiera~
+========================================================================
+
+             B U O N   C O M P L E A N N O   A   N O I
+
+========================================================================
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5553
+La prigione~
+   Sei in prigione. Per qualche ragione qualcuno sente che sei stato
+abbastanza cattivo e dovresti metterti in salvo.
+~
+54 696 0
+D0
+~
+cancellata~
+2 5493 5444 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5554
+Municipio~
+   Sei all'interno del quartiere amministrativo della citta'. Qui le
+si prendono le decisioni riguardo alla politica urbana. Benche' la parola
+del Sultano sia legge, di solito passa il suo tempo in affari fuori della
+citta'.
+~
+54 8 0
+D0
+~
+~
+0 -1 5445 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5555
+La Gilda degli Arcieri~
+   I muri di questa stanza sono irti di pioli a cui sono appesi vari tipi
+di archi. C'e' poca gente che lavora qui, forse per il fatto che e' una
+abilita' rara. Alcuni ragazzi sono occupati nell'angolo a preparare penne
+per le eccellenti aste delle frecce. Degli artigiani elfi ispezionano
+ciascuno arco appena e' finito.
+~
+54 8 0
+D1
+~
+~
+0 -1 5460 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5556
+La Gilda dei Muratori~
+   Senza dubbio i Nani sanno quello che fanno. Non sono stati apprezzati
+nella costruzione di questa bella citta'. Qui stanno lavorando duramente
+facendo quello che sanno fare meglio. I martelli volano mentre questi
+artigiani d'ingegno lavorano la pietra in mattoni istoriati, colonne e altro.
+~
+54 8 0
+D3
+~
+~
+0 -1 5460 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5557
+La Casa delle Guardie~
+   Sei all'interno delle due principali case delle guardie meridionali.
+L'interno e' spartano, c'e' solo il minimo necessario.
+Qualche arma e' appoggiata ai muri nel caso ne avessero bisogno.
+~
+54 8 0
+D0
+~
+~
+0 -1 5550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5558
+Il cancello del palazzo~
+   Sei davanti ad una magnifica cancellata d'oro massiccio. Sei in timore
+riverenziale davanti allo splendore delle torri spiraleggianti oltre il
+portale.
+Il governatore di tutte le terre orientali risiede in questo bel palazzo, e
+non e' un uomo povero. La grande entrata e' dietro al cancello e la Camminata
+del Sultano e' ad est.
+~
+54 0 1
+D1
+~
+~
+0 -1 5420 0
+D3
+~
+cancellata~
+2 5400 5550 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5559
+La torre di nordovest~
+   Sei in una delle quattro torri che proteggono la citta'. La vista da
+qui e' grande!  Ad ovest vedi le alte montagne che oltre le quali c'e'
+Deira. Il fiume Ishtar lentamente scorre da quella direzione. A sud puoi
+vedere l'intera citta' Jiroch ed il Grande Deserto orientale a sud.
+~
+54 8 0
+D5
+~
+~
+0 -1 5444 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5560
+La Casa delle Guardie~
+   Sei all'interno delle due principali case delle guardie settentrionali.
+L'interno e' spartano, c'e' solo il minimo necessario.
+La sola uscita e' a sud.
+~
+54 8 0
+D2
+~
+~
+0 -1 5550 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5561
+La cucina~
+   I tuoi passi echeggiano sulle piastrelle di pietra della cucina. Sulla
+parete sud vedi un grande camino ed una pentola di rame che ribolle.
+Lo chef e' occupato con verdure ed altri vegetali per il pasto di stasera.
+Servitori si affrettano nell'utilizzo di utensili e preparano lepri fresche.
+   Una porta piccola conduce fuori della sala verso nord e la via d'accesso
+alla sala da pranzo e' ad ovest.
+~
+54 8 0
+D0
+~
+porta~
+1 -1 5563 3
+D3
+~
+~
+0 -1 5571 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5562
+La torre di nordest~
+   Sei in una delle quattro torri che proteggono la citta'. A nord vedi
+le grandi pianure. A sud vedi la citta' ed il Grande Deserto Orientale.
+~
+54 8 0
+D5
+~
+~
+0 -1 5454 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5563
+Una sala~
+   Sei alla fine orientale dell'atrio meridionale. Un piccolo ingresso per
+i servitori da' accesso alla cucina e la sala continua ad ovest.
+~
+54 8 0
+D2
+~
+piccola porta~
+1 -1 5561 3
+D3
+~
+~
+0 -1 5572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5564
+Entrata in Cyrellos post-mortem~
+Nothing.
+~
+54 8 0
+D5
+Nothing.
+~
+~
+0 0 21073 0
+E
+nota~
+La nota sembra dire:
+
+                       Io odio essere un Conciatore
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5565
+Una sala~
+   Sei arrivato alla fine orientale dell'atrio settentrionale. La sola
+uscita e' ad ovest a parte la semplice porta di legno a nord.
+C'e' una placca dorata sopra la porta.
+~
+54 8 0
+D3
+~
+~
+0 -1 5574 0
+E
+placca~
+Inciso sulla placca ci sono le seguenti parole:
+
+                     Il Santo Sacrario di Allah
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5566
+Entrata in Elenia post mortem/crash~
+Nothing.
+~
+54 8 0
+D5
+~
+~
+0 0 21073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5567
+Fuori dal cancello settentrionale di Jiroch~
+   Sei in piedi fuori del cancello di Jiroch. La citta' e' a sud e la
+regione selvaggio a nord.
+~
+54 4 1
+D0
+~
+~
+0 -1 5681 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5568
+Fuori del cancello orientale di Jiroch~
+   Sei in piedi fuori dalle mura protettive della citta'. Il cancello
+di ferro massiccio e' ad ovest ed l'ignoto ti attende ad est.
+~
+54 0 1
+D1
+~
+~
+0 -1 5690 0
+D3
+~
+cancellata~
+1 0 5431 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5569
+Fuori dal cancello occidentale di Necropolis~
+   Sei in piedi fuori dalle mura della citta', il cancello e' ad est. La citta'
+e' in quella direzione e la strada per Deira e' ad ovest.
+~
+54 0 1
+D1
+~
+cancellata~
+1 0 5423 3
+D3
+~
+~
+0 -1 1409551 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5570
+Fuori dalle mura~
+   Sei in un piccola radura fuori le mura est della citta'. Il terreno
+sembra bene calcato ma non vedi nessuna uscita apparente salvo quella
+a nord.
+~
+54 0 2
+D0
+~
+~
+0 -1 5568 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5571
+La Grande Sala da Pranzo~
+   Una lunga tavola di quercia, ricoperta d'argento, piatti, ed una tovaglia
+con ricami d'oro, domina la stanza. Benche' nessuno occupi la stanza, i
+servitori si affannano ad apparecchiare la tavola.
+L'ingresso della cucina e' ad est, e due enormi porte doppie sono a nord.
+~
+54 8 0
+D0
+~
+porte doppie~
+1 -1 5572 3
+D1
+~
+~
+0 -1 5561 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5572
+Una sala~
+   Sei in un incrocio a T nei lunghi corridoi. Ci sono due grandi doppie
+porte a sud.
+~
+54 8 0
+D0
+~
+~
+0 -1 5573 0
+D1
+~
+~
+0 -1 5563 0
+D2
+~
+porte doppie~
+1 -1 5571 3
+D3
+~
+~
+0 -1 5577 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5573
+Una sala~
+   Sta in piedi ad un'intersezione dei corridoi. Corridoi di legno
+cominci in tutte le direzioni tranne ovest, c'e' l'entrata al giardino
+del palazzo la'.
+~
+54 8 0
+D0
+~
+~
+0 -1 5574 0
+D1
+~
+~
+0 -1 5605 0
+D2
+~
+~
+0 -1 5572 0
+D3
+~
+~
+0 -1 5578 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5574
+Una sala~
+   Sei arrivato ad un incrocio a T nei corridoi. I corridoi continuano ad
+est, ovest e sud. C'e' una grande porta di ferro a nord.
+~
+54 8 0
+D0
+~
+porta ferro pesante~
+1 -1 5575 3
+D1
+~
+~
+0 -1 5565 0
+D2
+~
+~
+0 -1 5573 0
+D3
+~
+~
+0 -1 5579 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5575
+L'Ingresso alla prigione sotterranea~
+   Entri in una stanza umida, fredda, con nudi muri di pietra.
+Questa stanza sembra molto fuori luogo se comparata allo splendore del
+resto del Palazzo.
+Una grata d'acciaio conduce giu' verso l'oscurita', ed una porta di ferro
+da' sui corridoi.
+~
+54 8 0
+D2
+~
+porta ferro~
+1 -1 5574 3
+D5
+~
+grata acciaio~
+1 -1 5591 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5576
+Una stanza per gli ospiti~
+   Questa e' una semplice stanza usata dai nobili in visita. Un appendi
+abiti e' sulla parete est e sopra di lui c'e' appeso uno specchio.
+La sola uscita e' a nord.
+~
+54 8 0
+D0
+~
+porta~
+1 -1 5577 3
+E
+specchio~
+Vedi un immaginario combattimento di un umanoide vestito con una qualche
+armatura e che maneggia un'arma.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5577
+Una sala~
+   La sala lunga continua qui con una porta di legno nella parete sud. Sulla
+parete nord e' appeso il quadro di qualche nobile dimenticato che una volta
+governo' la terra.
+~
+54 8 0
+D1
+~
+~
+0 -1 5572 0
+D2
+~
+porta~
+1 -1 5576 3
+D3
+~
+~
+0 -1 5582 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5578
+Il giardino del Sultano~
+   Sei entrato nei giardini privati del Sultano. Cominci a sudare a causa
+dell'umidita'. Tutto intorno migliaia di piante esotiche e fiori. Il profumo
+dolce di gelsomino e caprifoglio ti ricorda di giorni piu' felici a casa.
+A nord, attraverso gli alberi di palma, vedi un gazebo delicato bianco.
+Un percorso conduce fuori nel corridoio e ad ovest verso il gazebo.
+Alla tua destra c'e' un cartello d'oro.
+~
+54 0 2
+D1
+~
+~
+0 -1 5573 0
+D3
+~
+~
+0 -1 5583 0
+E
+cartello~
+=========================================================================
+=========================================================================
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||        Benvenuto nel mio umile giardino. Ho creato questo           ||
+||        pezzo di paradiso per il piacere del mio popolo.             ||
+||        Ricorda questo... lascia solo impronte...                    ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||                                 Il Sultano                          ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+=========================================================================
+=========================================================================
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5579
+Una Sala~
+   Il lungo corridoio continua ad est e ad ovest. Il tappeto rosso e'
+sempre sotto i tuoi piedi ed una panca occasionale o qualche pianta in vaso
+sono lungo il muro.
+C'e' una porta qui a nord con una placca montata sopra.
+~
+54 8 0
+D0
+~
+porta~
+1 -1 5580 3
+D1
+~
+~
+0 -1 5574 0
+D3
+~
+~
+0 -1 5584 0
+E
+placca porta~
+La placca sulla porta dice:
+
+                   THE ART EXHIBIT
+                         di
+                       JIROCH
+
+                  - la direzione non e' responsabile degli oggetti persi.
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5580
+The Art Exhibit~
+   Sei a tributare il Sultano dalle virtu' piu' eccellenti.
+Grandi dipinti sono appesi ai muri e mostrano scene della natura, nudi,
+e gloriose vittorie in battaglia. Strane sculture sono su piedistalli
+a ciascun angolo della stanza e specchi sono messo in ubicazioni strategiche
+cosi' l'osservatore puo' vedere una scultura intera con uno sguardo.
+I tuoi occhi, comunque, sono attratti verso un dipinto che domina il muro
+lontano.
+~
+54 8 0
+D2
+~
+porta~
+1 -1 5579 3
+E
+dipinto~
+Il grande dipinto sul muro ad ovest sembra rappresentare il tempio di Jiroch
+ed occupa l'intera parete occidentale di questa stanza.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5581
+Una stanza per gli ospiti~
+   Questa e' un'altra semplice stanza usata dai nobili in visita. Un appendi
+abiti e' sulla parete est e sopra di lui c'e' appeso uno specchio.
+~
+54 8 0
+D0
+~
+porta~
+1 -1 5582 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5582
+Una sala~
+   Hai raggiunto la fine occidentale del corridoio meridionale. La sola
+uscita e' ad est a parte le porte nei muri meridionali ed occidentali.
+~
+54 8 0
+D1
+~
+~
+0 -1 5577 0
+D2
+~
+porta~
+1 -1 5581 3
+D3
+~
+porta~
+2 5401 5587 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5583
+Il Gazebo del giardino~
+   Cammini attraverso i giardini ed incontri per caso una piccola bianca
+struttura di legno. Canti di uccelli, i profumi dei fiori, ahhh, paradiso.
+Non ti ricordi di essere mai stato in un posto piu' pacifico.
+~
+54 8 0
+D1
+~
+~
+0 -1 5578 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5584
+Una sala~
+   Questa e' la fine occidentale del corridoio settentrionale. Due porte sono
+nei muri qui, una a nord, un'altra ad ovest.
+~
+54 8 0
+D0
+~
+porta~
+1 -1 5585 3
+D1
+~
+~
+0 -1 5579 0
+D3
+~
+porta~
+1 -1 5589 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5585
+La stanza delle guardie~
+   Sei nella stanza che le guardie usano quando sono fuori servizio per
+dormire, loro possono lasciare il Palazzo solo con un permesso speciale.
+L'uscita e' a sud.
+~
+54 8 0
+D2
+~
+porta~
+1 -1 5584 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5586
+La stanza delle guardie~
+   Questo e' il quartiere dove vivono le guardie del palazzo. Sulle pareti
+vedi quadri di cavalieri noti che hanno dato prestigio alla Guardia del
+Sultano.
+~
+54 8 0
+D0
+~
+~
+0 -1 5587 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5587
+L'Harem~
+   Questa e' la stanza dove il Sultano tiene le belle donne del suo
+Palazzo. Ci sono dieci ragazze qui nella stanza vestite in abiti di seta
+che puoi quasi vederci attraverso. Alla fine occidentale della stanza su un
+cumulo di guanciali c'e' una bella fanciulla giovane seduta.
+Sei sfortunato, solo il Sultano puo' entrare qui.
+~
+54 8 0
+D0
+~
+porta segreta~
+1 -1 5588 3
+D1
+~
+porta~
+2 5401 5582 15
+D2
+~
+~
+0 -1 5586 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5588
+Una piccola stanza~
+   Questa e' la camera segreta che permette al Sultano di entrare nel suo
+harem quando vuole.
+~
+54 8 0
+D0
+~
+porta~
+1 -1 5589 3
+D2
+~
+porta segreta~
+1 -1 5587 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5589
+La stanza del trono~
+   Sei nella stanza del trono del potente Sultano di Jiroch. Delle guardie
+controllano attentamente chi gli si avvicina pronti a fare l'ultimo sacrificio
+per il loro comandante adorato. Il trono d'oro e' ornato da borchie con
+gioielli. Il Sultano non e' un uomo qualsiasi.
+~
+54 8 0
+D0
+~
+trono~
+2 5400 5590 15
+D1
+~
+porta~
+1 -1 5584 3
+D2
+~
+porta~
+1 -1 5588 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5590
+La stanza del tesoro~
+   In qualche modo sei riuscito ad entrare nella stanza del tesoro del
+Sultano. L'allarme suona sullo sfondo, percio' devi essere inciampato
+in qualche genere di sistema d'allarme.
+~
+54 8 0
+D2
+~
+porta~
+2 5400 5589 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5591
+La stanza del carceriere~
+   Arrampicarsi giu' per la vecchia scala di legno entri in una piccola
+caverna grande come una stanza.  C'e' una piccola panca con alcuni periodici
+vecchi ed una candela accesa. Una porta si apre nella pietra della parete
+nord e la grata d'acciaio e' in alto.
+~
+54 9 0
+D1
+~
+porta~
+1 -1 5592 3
+D4
+~
+acciaio~
+1 -1 5575 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5592
+Un tunnel nella prigione sotterranea~
+   Sei in un tunnel rozzamente scavato nella pietra con celle a nord e
+sud. Il tunnel continua ad est.
+~
+54 9 0
+D0
+~
+cella~
+2 5493 5597 15
+D1
+~
+~
+0 -1 5593 0
+D2
+~
+cella~
+2 5493 5601 15
+D3
+~
+porta~
+1 -1 5491 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5593
+Un tunnel nella prigione sotterranea~
+   Sei in un tunnel rozzamente scavato nella pietra con celle a nord e
+sud. Il tunnel continua ad est e ad ovest.
+~
+54 9 0
+D0
+~
+cella~
+2 5493 5598 15
+D1
+~
+~
+0 -1 5594 0
+D2
+~
+cella~
+2 5493 5602 15
+D3
+~
+~
+0 -1 5592 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5594
+Un tunnel nella prigione sotterranea~
+   Sei in un tunnel rozzamente scavato nella pietra con celle a nord e
+sud. Il tunnel continua ad est e ad ovest.
+~
+54 9 0
+D0
+~
+cella~
+2 5493 5599 15
+D1
+~
+~
+0 -1 5595 0
+D2
+~
+cella~
+2 5493 5603 15
+D3
+~
+~
+0 -1 5593 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5595
+Un tunnel nella prigione sotterranea~
+   Sei in un tunnel rozzamente scavato nella pietra con celle a nord e
+sud. Il tunnel continua ad ovest e noti una fenditura nella pietra ad est.
+~
+54 9 0
+D0
+~
+cella~
+2 5493 5600 15
+D1
+~
+fenditura~
+2 5400 5596 15
+D2
+~
+cella~
+2 5493 5604 15
+D3
+~
+~
+0 -1 5594 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5596
+La cella segreta~
+   Questa stanza sembra piu' simile ad un covo che ad una cella. Piccoli
+pezzi di fieno ricoprono il pavimento nascondendo delle ossa di origine
+sconosciuta. Sangue e ciuffi di capelli grigi sono su stuoie in uno angolo.
+Come giri lo sguardo, vedi un paio di piccoli occhi rossi che ti sbirciano
+dall'oscurita'.
+~
+54 649 0
+D3
+~
+fenditura~
+2 5400 5595 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5597
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D2
+~
+cella~
+2 5493 5592 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5598
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D2
+~
+cella~
+2 5493 5593 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5599
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D2
+~
+cella~
+2 5493 5594 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5600
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D2
+~
+cella~
+2 5493 5595 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5601
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D0
+~
+cella~
+2 5493 5592 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5602
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D0
+~
+cella~
+2 5493 5593 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5603
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D0
+~
+cella~
+2 5493 5594 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5604
+La Cella~
+   Sei in una fredda camera con solo un'uscita.
+~
+54 553 0
+D0
+~
+cella~
+2 5493 5595 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5605
+Una sala~
+   Sei in una grande sala di legno di cedro che porta ad est ed ovest. Sul
+pavimento c'e' un sottile e stretto tappeto imporporato. La sala conduce
+ad ovest nel Palazzo e ad est alla grande entrata.
+~
+54 28 0
+D1
+~
+~
+0 -1 5550 0
+D3
+~
+~
+0 -1 5573 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5606
+Un sentiero sulle montagne~
+   Lo stretto sentiero gira e porta a sud e ad ovest.
+~
+54 0 5
+D2
+~
+~
+0 -1 5607 0
+D3
+~
+~
+0 -1 5611 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5607
+Un sentiero sulle montagne~
+   Viaggiare e' duro e lento, devi quasi arrampicarti.
+~
+54 0 5
+D0
+~
+~
+0 -1 5606 0
+D1
+~
+~
+0 -1 5608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5608
+L'orlo delle Ravine~
+   Il terreno e' sotto di te, e' il letto del fiume. Un piccolo ponte di
+corda ondeggia avanti e indietro nel vento.
+~
+54 0 5
+D1
+~
+~
+0 -1 5609 0
+D3
+~
+~
+0 -1 5607 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5609
+Su un ponte di corda~
+   Il ponte di corda traballa sotto il tuo peso quando lo attraversi.
+~
+54 0 2
+D1
+~
+~
+0 -1 5627 0
+D3
+~
+~
+0 -1 5608 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5610
+La sporgenza sulla valle~
+   Cammini su una piccola sporgenza prospiciente una grande valle
+profondamente incastrata fra le montagne orientali. Un sentiero scende
+dalla sporgenza verso la valle mentre una pista continua ad est.
+~
+54 2560 5
+D1
+~
+~
+0 -1 5611 0
+D5
+~
+scappatoia~
+0 0 1408550 18
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5611
+Un sentiero sulle montagne~
+   Cammini attraverso un percorso che si inoltra profondamente fra le
+montagne ad est di Deira. Il sentiero e' malmesso e continui a prendere
+storte.
+~
+54 0 5
+D1
+~
+~
+0 -1 5606 0
+D3
+~
+~
+0 -1 5610 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5612
+Sull'orlo orientale delle montagne~
+   Sei sull'orlo orientale delle montagne orientali. Gli alti picchi
+sono ad ovest e colline e pianure sono ad est.
+~
+54 0 5
+D2
+~
+~
+0 -1 5613 0
+D3
+~
+~
+0 -1 5629 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5613
+Ai piedi delle colline~
+   Il sentiero scende giu' dalla montagna e ti permette di andare
+su o giu' per questo ammasso di pietra.
+~
+54 0 5
+D0
+~
+~
+0 -1 5612 0
+D1
+~
+~
+0 -1 5614 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5614
+Ai piedi delle colline~
+   Il sentiero scende giu' dalla montagna e ti permette di andare
+su o giu' per questo ammasso di pietra.
+~
+54 0 5
+D2
+~
+~
+0 -1 5615 0
+D3
+~
+~
+0 -1 5613 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5615
+Un sentiero pietroso~
+   Il debole rumore di un fiume raggiunge le tue orecchie da sud e 
+attraverso gli alberi puoi vedere l'acqua. Il sentiero continua a nord
+e ad est.
+~
+54 0 5
+D0
+~
+~
+0 -1 5614 0
+D1
+~
+~
+0 -1 5630 0
+D2
+~
+~
+0 -1 5645 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5616
+Su una strada~
+   Questa lunga strada continua ad est e sud.
+~
+54 0 2
+D1
+~
+~
+0 -1 5617 0
+D2
+~
+~
+0 -1 5633 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5617
+Su una strada~
+   La strada continua ad est e ad ovest.
+~
+54 0 2
+D1
+~
+~
+0 -1 5618 0
+D3
+~
+~
+0 -1 5616 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5618
+Su una strada~
+   Sei su una strada ben tenuta che porta ad est verso Jiroch e ad ovest
+verso le Montagne Orientali.  A nord puoi vedere larghi pianori che si
+perdono all'orizzonte. A sud inizia una scura foresta.
+~
+54 0 2
+D3
+~
+~
+0 -1 5617 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5619
+Le sorgenti del Fiume delle Anime Perdute~
+   Sei alle sorgenti di quello che e' chiamato il fiume piu' scuro
+della terra. Guardando l'acqua puoi vedere perche' e' cosi' scura.
+I muri di pietra che ti circondano bloccano tutte le uscite eccetto
+quella a sud dove scorre il fiume.
+~
+54 0 7
+D2
+~
+~
+0 0 5634 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5620
+Fiume Ishtar~
+   Il fiume si calma un po' dopo che essere e' entrato all'interno della
+montagna. Benche' ancora profondo fra le rocce puoi vedere deboli tracce
+di verde ad est.
+~
+54 0 7
+D1
+~
+~
+0 -1 5621 0
+D3
+~
+~
+0 -1 5639 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5621
+Fiume Ishtar~
+   Il fiume scorre ad est e ad ovest attraverso le colline.
+~
+54 0 7
+D1
+~
+~
+0 -1 5622 0
+D3
+~
+~
+0 -1 5620 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5622
+Fiume Ishtar~
+   Il fiume comincia ad uscire dalle montagne ora e continua a scorrere
+ad est.
+~
+54 0 7
+D1
+~
+~
+0 -1 5644 0
+D3
+~
+~
+0 -1 5621 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5623
+Fiume Ishtar~
+   Il fiume scorre sotto le mura della citta' ad est e va verso
+le alte montagne innevate lontano lontano ad ovest.
+~
+54 0 7
+D1
+~
+grata~
+1 -1 5487 3
+D3
+~
+~
+0 -1 5649 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5624
+Fiume Ishtar~
+   Il fiume scorre fuori dalla citta' e scava canali. A sud c'e' il Grande
+Deserto Orientale e a nord una distesa erbosa.
+~
+54 0 7
+D1
+~
+~
+0 -1 5625 0
+D3
+~
+~
+0 -1 5483 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5625
+Fiume Ishtar~
+   Il fiume continua la sua dolce discesa a sud verso i bassopiani.
+E' duro credere che questo sia lo stesso fiume burrascoso che proviene
+dalle montagne.
+~
+54 0 7
+D1
+~
+~
+0 -1 5626 0
+D3
+~
+~
+0 -1 5624 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5626
+Fiume Ishtar~
+   Piccoli animali e mandrie si sentono a distanza, sebbene non se ne
+veda alcuno vicino al fiume. Forse il pendio non gli permette di avvicinarsi.
+~
+54 0 7
+D1
+~
+~
+0 -1 5684 0
+D3
+~
+~
+0 -1 5625 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5627
+L'orlo delle Ravine~
+  Sei sull'orlo di un dirupo veramente alto. Un piccolo ponte di corda
+e' stato messo qui per poter passare dall'altra parte del dirupo.
+Sfortunatamente il vento sembra intralciare il cammino, il ponte ondeggia
+leggermente.  Il sentiero passa attraverso le montagne ad est.
+
+~
+54 0 5
+D1
+~
+~
+0 -1 5628 0
+D3
+~
+~
+0 -1 5609 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5628
+Un sentiero attraverso le montagne~
+   Lo stretto sentiero attraversa le montagne ad est e ad ovest.
+Senti il verso roco di un grande uccello sopra di te, probabilmente
+una poiana e' in attesa di una tua caduta.
+~
+54 0 5
+D1
+~
+~
+0 -1 5629 0
+D3
+~
+~
+0 -1 5627 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5629
+Un sentiero attraverso le montagne~
+   Un grande masso improvvisamente decide che vuole occupare lo stesso
+spazio di dove sei tu attualmente.
+~
+54 0 5
+D1
+~
+~
+0 -1 5612 0
+D3
+~
+~
+0 -1 5628 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5630
+Su una strada~
+   La strada continua ad est e ad ovest.
+~
+54 0 4
+D1
+~
+~
+0 -1 5631 0
+D3
+~
+~
+0 -1 5615 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5631
+Su una strada~
+   La strada continua ad est e ad ovest.
+~
+54 0 2
+D1
+~
+~
+0 -1 5632 0
+D3
+~
+~
+0 -1 5630 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5632
+Su una strada~
+   La strada continua ad est e ad ovest.
+~
+54 0 2
+D1
+~
+~
+0 -1 5633 0
+D3
+~
+~
+0 -1 5631 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5633
+Su una strada~
+   La strada qui gira verso l'argine da cui si accede al fiume Ishtar.
+La strada continua a nord e ad ovest dall'argine.
+~
+54 0 2
+D0
+~
+~
+0 -1 5616 0
+D2
+~
+~
+0 -1 5649 0
+D3
+~
+~
+0 -1 5632 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5634
+Il Fiume delle Anime Perdute~
+   Il fiume fluisce a sud attraverso una valle nelle montagne. Puoi vedere
+un piccolo villaggio ad ovest.
+~
+54 0 7
+D0
+~
+~
+0 -1 5619 0
+D2
+~
+~
+0 -1 5635 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5635
+Il Fiume delle Anime Perdute~
+   Il fiume scorre a sud nella fine meridionale di questa larga valle.
+Le pareti della valle sono vicine a sud.
+~
+54 0 7
+D0
+~
+~
+0 -1 5634 0
+D2
+~
+~
+0 -1 5636 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5636
+Il Fiume delle Anime Perdute~
+   Il fiume aumenta di velocita' mentre scende giu' per la cascata dal
+crinale di questa montagna. Alto sopra di te un piccolo ponte di corda
+ondeggia nel vento.
+~
+54 0 7
+D0
+~
+~
+0 -1 5635 0
+D2
+~
+~
+0 -1 5637 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5637
+Il Fiume delle Anime Perdute~
+   Il fiume rapidamente scorre giu' per questa fenditura nel lato sud della
+montagna.
+~
+54 0 7
+D0
+~
+~
+0 -1 5636 0
+D2
+~
+~
+0 -1 5638 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5638
+Il Fiume delle Anime Perdute~
+   Il fiume sembra calmarsi un po' quando il letto si allarga e diminuisce
+la forza delle acque. Il fiume continua a nord attraverso una fenditura e
+scorre al sud.
+~
+54 0 7
+D0
+~
+~
+0 -1 5637 0
+D2
+~
+~
+0 -1 5639 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5639
+Una biforcazione nel fiume~
+   Le acque del fiume cadono giu' dalla roccia e si dividono in
+due corpi di acqua. Il fiume sul quale sei continua  la sua corsa a sud
+mentre l'altro va ad est. Ad ovest noti che le pietre sono state sbriciolate
+da qualche forza massiccia. E' impossibile attraversare. Il Fiume delle
+Anime Perdute continua anche a nord.
+~
+54 0 7
+D0
+~
+~
+0 -1 5638 0
+D1
+~
+~
+0 -1 5620 0
+D2
+~
+~
+0 -1 5640 0
+D3
+~
+~
+0 0 1411513 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5640
+Il Fiume delle Anime Perdute~
+   Il fiume continua a nord e a sud attraverso una valle erosa dall'acqua.
+~
+54 0 7
+D0
+~
+~
+0 -1 5639 0
+D2
+~
+~
+0 -1 5641 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5641
+Il Fiume delle Anime Perdute~
+   Il fiume continua a nord e a sud attraverso una valle erosa dall'acqua.
+~
+54 0 7
+D0
+~
+~
+0 -1 5640 0
+D2
+~
+~
+0 -1 5642 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5642
+Il Fiume delle Anime Perdute~
+   Il fiume continua a nord e a sud attraverso una valle erosa dall'acqua.
+~
+54 0 7
+D0
+~
+~
+0 -1 5641 0
+D2
+~
+~
+0 -1 5643 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5643
+Il Fiume delle Anime Perdute~
+   Il fiume qui compie una stretta curva e prosegue verso sud.  Non c'e' modo
+di procedere lungo il fiume, verso sud, le acque sono troppo impetuose e ti
+trascinerebbe via.    
+~
+54 0 7
+D0
+~
+~
+0 -1 5642 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5644
+Fiume Ishtar~
+   Il fiume si allarga qui, non piu' delimitato dalle rocce, e scorre as est
+verso un pianoro.
+~
+54 0 7
+D1
+~
+~
+0 -1 5645 0
+D3
+~
+~
+0 -1 5622 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5645
+Fiume Ishtar~
+   Il fiume continua ad est e ad ovest.  C'e' un'area di sbarco a
+nord dove puoi guadagnare l'accesso alla spiaggia.
+~
+54 0 7
+D0
+~
+~
+0 -1 5615 0
+D1
+~
+~
+0 -1 5646 0
+D3
+~
+~
+0 -1 5644 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5646
+Fiume Ishtar~
+   Il fiume zigzaga attraverso le colline delle montagne orientali.
+L'aria e' secca  su questo lato del continente diviso e sembra
+un po' piu' calda.
+~
+54 0 7
+D1
+~
+~
+0 -1 5647 0
+D3
+~
+~
+0 -1 5645 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5647
+Fiume Ishtar~
+   Il fiume continua il suo viaggio verso est scorrendo attraverso i
+pianori. Ad ovest vedi i picchi innevati delle grandi montagne e ad est
+vedi i contorni di una grande citta'.
+~
+54 0 7
+D1
+~
+~
+0 -1 5648 0
+D3
+~
+~
+0 -1 5646 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5648
+Fiume Ishtar~
+   Il fiume scorre ad est e ad ovest.
+~
+54 0 7
+D1
+~
+~
+0 -1 5649 0
+D3
+~
+~
+0 -1 5647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5649
+Fiume Ishtar~
+   Il fiume rallenta quando passa attraverso i bassopiani. Una piccola
+banchina da' accesso ad una spiaggia a nord.
+~
+54 0 7
+D0
+~
+~
+0 -1 5633 0
+D1
+~
+~
+0 -1 5623 0
+D3
+~
+~
+0 -1 5648 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5650
+Una spiaggia~
+Ti risvegli sdraiato su di un'immensa distesa di sabbia, cullato
+dal rumore delle onde del mare che si infrangono sulla riva.
+Guardandoti intorno non vedi altro che la spiaggia su cui ti sei svegliato, di
+cui non riesci a scorgere la fine.
+L'unico punto di riferimento e' un grande edificio, forse un castello, lontano
+verso ovest.
+~
+54 136 2
+D3
+~
+~
+0 0 5687 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5651
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652 0
+D1
+~
+~
+0 -1 5656 0
+D2
+~
+~
+0 -1 5654 0
+D3
+~
+~
+0 -1 5657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5652
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652 0
+D1
+~
+~
+0 -1 5655 0
+D2
+~
+~
+0 -1 5652 0
+D3
+~
+~
+0 -1 5651 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5653
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654 0
+D1
+Vedi un grande masso che ti blocca il sentiero.
+~
+masso roccia fenditura~
+1 -1 5639 3
+D2
+~
+~
+0 -1 5656 0
+D3
+~
+~
+0 -1 5657 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5654
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654 0
+D1
+~
+~
+0 -1 5658 0
+D2
+~
+~
+0 -1 5657 0
+D3
+~
+~
+0 -1 5660 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5655
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5655 0
+D1
+~
+~
+0 -1 5659 0
+D2
+~
+~
+0 -1 5658 0
+D3
+~
+~
+0 -1 5654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5656
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 0
+D0
+~
+~
+0 -1 5653 0
+D1
+~
+~
+0 -1 5658 0
+D2
+~
+~
+0 -1 5655 0
+D3
+~
+~
+0 -1 5651 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5657
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5654 0
+D1
+~
+~
+0 -1 5658 0
+D2
+~
+~
+0 -1 5654 0
+D3
+~
+~
+0 -1 5654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5658
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5655 0
+D1
+~
+~
+0 -1 5657 0
+D2
+~
+~
+0 -1 5659 0
+D3
+~
+~
+0 -1 5654 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5659
+Nelle montagne~
+   Stai camminando su rocce e pietre attraverso le montagne tra 
+l'Ishtar e i fiumi Scuri.
+E' divertente come tutte le rocce sembrino simili.
+~
+54 0 5
+D0
+~
+~
+0 -1 5652 0
+D1
+~
+~
+0 -1 5659 0
+D2
+~
+~
+0 -1 5654 0
+D3
+~
+~
+0 -1 5658 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5660
+Le sorgenti del Fiume Scuro~
+   Una grande naturale sorgente scaturisce dal cuore della montagna
+e scorre ad ovest giu' per la montagna. Sembra ci sia stato un terribile
+terremoto qui non tanto tempo fa, ed un sentiero che conduce verso est
+attraverso le montagne e' ricoperto dalle rocce, rendendo difficile
+procedere.
+~
+54 1 7
+D1
+~
+~
+0 -1 5654 0
+D3
+~
+~
+0 -1 5661 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5661
+Sul Fiume Scuro~
+   Il fiume scorre giu' dalla montagna attraverso una grande crepa ad ovest
+e su nelle montagne est.
+~
+54 1 7
+D1
+~
+~
+0 -1 5660 0
+D3
+~
+~
+0 -1 5662 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5662
+Sul Fiume Scuro~
+   Le pareti di questo canyon torreggiano alte sul fiume che continua ad
+est e ad ovest.
+~
+54 1 7
+D1
+~
+~
+0 -1 5661 0
+D3
+~
+~
+0 -1 5663 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5663
+Sul Fiume Scuro~
+   Le pareti di roccia attorno a te lentamente si abbassano a livello del
+terreno come il fiume scorre fuori dalle montagne e sopra i pianori.
+~
+54 1 7
+D1
+~
+~
+0 -1 5662 0
+D3
+~
+~
+0 -1 5664 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5664
+Sul Fiume Scuro~
+   Il fiume continua ad est da qui uscendo dalle colline ad est e
+procede verso le montagne a sud di qui.
+~
+54 1 7
+D1
+~
+~
+0 -1 5663 0
+D2
+~
+~
+0 -1 5665 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5665
+Sul Fiume Scuro~
+   Il fiume, seguendo la conformazione delle colline, si curva e si torce.
+Alte montagne si vedono a sud e ad est.
+~
+54 1 7
+D0
+~
+~
+0 -1 5664 0
+D2
+~
+~
+0 -1 5666 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5666
+Sul Fiume Scuro~
+   Il fiume fa un largo giro qui nella montagna.
+~
+54 1 7
+D0
+~
+~
+0 -1 5665 0
+D3
+~
+~
+0 -1 5667 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5667
+Sul Fiume Scuro~
+   Il fiume scorre ad ovest da qui verso il cuore delle montagne e ad est
+verso le colline ancora una volta.
+~
+54 9 7
+D1
+~
+~
+0 -1 5666 0
+D3
+~
+~
+0 -1 5668 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5668
+Sul Fiume Scuro~
+   Puoi appena dare un'occhiata intorno che il fiume scorre lentamente
+attraverso un passaggio.
+~
+54 9 7
+D1
+~
+~
+0 -1 5667 0
+D2
+~
+~
+0 -1 5669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5669
+Sul Fiume Scuro~
+   Il fiume scorre lentamente ad ovest verso il cuore della montagna.
+Ci sono piccole fessure nella parete del passaggio a nord da dove potrebbe
+uscire dell'acqua.
+~
+54 9 7
+D0
+~
+~
+0 -1 5672 0
+D1
+~
+~
+0 -1 5668 0
+D3
+~
+~
+0 -1 5670 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5670
+Sul Fiume Scuro~
+   Il fiume continua ad est e ad ovest da qui scorrendo a sud da una buia
+sporgenza alta sul livello dell'acqua.
+~
+54 9 7
+D1
+~
+~
+0 -1 5669 0
+D3
+~
+~
+0 -1 5671 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5671
+Sul Fiume Scuro~
+   Il fiume si restringe nel passaggio come si inoltra nella montagna.
+~
+54 9 7
+D1
+~
+~
+0 -1 5670 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5672
+Su una piccola sporgenza~
+   Ti arrampichi fuori dall'acqua su sopra questa stretta sporgenza per
+vedere se conduce piu' profondamente nella montagna. Sfortunatamente,
+la sporgenza e' solo larga abbastanza per riposare un momento e non sembra
+esserci alcuna altra uscita oltre il fiume sotterraneo.
+~
+54 9 2
+D2
+~
+~
+0 -1 5669 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5673
+Un grande Roseto~
+Qui e' pieno di rose!
+L'enorme quantita' di fiori genera come un piccolo labirinto, probabilmente opera del giardiniere.
+Nonostante la totale assenza di colore il luogo e' incantevole ed e' come se ti invitasse a riposarti qui,
+dove puoi essere lontano da tutto e al riparo da ogni cosa, in fondo cosa saranno mai cinque minuti di 
+pausa?
+~
+54 8 0
+D1
+~
+~
+0 0 5689 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5674
+&3& Una piccola stanza votiva scavata nella roccia&0~
+Questa piccola stanza e' stata palesemente scavata da mani
+umane:l'irregolarita' del soffitto e delle pareti e' qui infatti mitigata dal
+lavoro.  Sui muri, noti alcuni bassorilievi sacri, ma le icone sono a te
+sconosciute e devono riferirsi a un tempo assai remoto.  Quattro piccoli lumi
+sono posti in altrettante nicchie scavate nella viva roccia, bruciando senza
+emettere ne' fumo ne' odori di alcuna sorta.  Apparentemente senza uscita,
+questo luogo ti trasmette una strana sensazione, come se ti trovassi al di la'
+del Tempo.  Il Tunnel dal quale sei giunto qui e' perso nell'oscurita' dietro
+di te, e ti senti in bilico, isolato in un luogo remoto oltre i confini dello
+scibile.  Tuttavia non hai paura, la Sacralita' che aleggia qui ti infonde
+piuttosto un senso di eterna calma e risolutezza, e le raffigurazioni alle
+pareti sembrano sussurrarti parole di Antica Saggezza.    
+~
+54 136 0
+D0
+~
+~
+0 0 5675 0
+D2
+~
+~
+0 0 5678 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5675
+Niente~
+Nothing.
+~
+54 8 0
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5676
+Il grande Portone davanti al Palazzo~
+Ti trovi davanti all'enorme portone d'ingresso del palazzo.
+La mole di queste ante spaventerebbe qualsiasi usciere, probabilmente c'e' un sistema meccanico
+che fa scorrere la porta sul pavimento, altrimenti sarebbe impossibile aprirla senza
+uno sforzo sovrumano.
+~
+54 137 0
+D0
+~
+portone~
+1 0 1841 1
+D2
+~
+~
+0 0 5689 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5677
+&b&1 Una stanza colma di calore&0~
+L'aria qui si fa chiara e pulita, l'oscurita' cede il passo a un tenue bagliore
+proveniente da una spaccatura nel terreno, nella quale vedi agitarsi pigro un
+denso rivolo di magma, molti metri piu' sotto.  Le figure dei tuoi compagni
+tornano amichevoli e vicine come sempre, riassumendo le loro fattezze.  Ansimi
+pesantemente per riprenderti dai mostri partoriti dalla tua testa solo pochi
+istanti fa, spossato nel fisico e nell'intelletto.  Tuttavia, sei deciso a
+continuare il tuo cammino: la strada dietro a te appare rarefatta e perigliosa,
+e l'unica possibilita' sembra avanzare...  Di fronte a te, a sud, si snoda un
+corridoio assai ripido, che pare discendere molto velocemente nel ventre della
+montagna.    
+~
+54 8 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5678
+La sala da pranzo~
+Benche' piu' piccola della Grande Sala questa stanza non sfigura certamente.
+La tavola e' enorme ed e' apparecchiata per piu' di trenta persone, quando si danno ricevimenti qui si 
+fanno le cose in grande.
+Avvicinandoti al tavolo puoi notare la precisione con cui le posate sono state posizionate, nemmeno una e'
+fuori posto e sono talmente lucide che puoi specchiartici.
+Dalla vicina cucina proviene un invitante profumino..
+~
+54 8 0
+D0
+~
+~
+0 0 1091 0
+D1
+~
+~
+0 0 1841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5679
+La Gilda dei Peloi~
+Questa era la sala dove risiedeva il Ranger che istruiva i nuovi Peloi...  Sul
+pavimento giacciono i corpi dei piu' valorosi che hanno difeso fino all'ultimo
+il loro maestro.  Quello che un tempo era un un grande Ranger...  Adesso e' un
+terribile Zombie impazzito che si muove freneticamente per tutta la stanza.  
+
+~
+54 152 0
+D2
+~
+~
+0 -1 5680 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5680
+Entrata alla Gilda dei Peloi~
+Sei in una stanza completamente vuota.  Ci sono numerosi segni di lotta...  
+Sembra che i Peloi abbiano combattuto fino alla fine contro i Necrarchi.  Sul
+pavimento ci sono i resti di coloro che hanno inutilmente cercato di resistere
+alle oscure forze dei non-morti.    
+~
+54 152 0
+D0
+V1
+~
+~
+0 -1 5679 0
+D2
+~
+~
+0 -1 5423 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5681
+Sui pianori~
+   Sei su una distesa aperta di erba che si estende in tutte le direzioni.
+A sud ci sono i potenti cancelli settentrionali di Jiroch. Ad est e ad ovest
+di te, i campi erbosi continuano e nord, in distanza vedi degli alberi.
+~
+54 0 2
+D0
+~
+~
+0 -1 5682 0
+D1
+~
+~
+0 -1 5681 0
+D2
+~
+~
+0 -1 5567 0
+D3
+~
+~
+0 -1 5681 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5682
+Sui pianori~
+   Sei su un campo aperto d'erba. La foresta a nord e' vicina ma c'e'
+ancora una certa distanza. A sud un piccolo sporco sentiero battuto
+porta verso Jiroch.
+~
+54 0 2
+D0
+~
+~
+0 -1 5683 0
+D1
+~
+~
+0 -1 5682 0
+D2
+~
+~
+0 -1 5681 0
+D3
+~
+~
+0 -1 5682 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5683
+Il margine della foresta~
+   Sei ai margini di una enorme foresta. La fila di alberi continua
+lontano fin oltre l'orizzonte sia ad est che ad ovest. Una grande distesa
+d'erba e' a sud.
+~
+54 0 2
+D2
+~
+~
+0 -1 5682 0
+D3
+~
+~
+0 -1 5683 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5684
+Fiume Ishtar~
+   Il fiume si allarga qui e le acque divengono scure. Ad est vedi il
+contorno di una citta' e a nord vedi una grande distesa di erba.
+~
+54 0 7
+D1
+~
+~
+0 -1 5685 0
+D3
+~
+~
+0 -1 5626 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5685
+Il fiume sotterraneo~
+   Qui l'Ishtar finisce il suo corso. Con un piccolo salto precipita
+in una pozza chiusa da una grata.
+~
+54 0 7
+D3
+~
+~
+0 -1 5684 0
+D5
+~
+grata~
+1 -1 5699 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5686
+Un cancello nella sabbia davanti al grande castello~
+Questo grande cancello e' l'accesso a l'unica costruzione che hai visto nel raggio
+di miglia, il grande castello bianco che vedi oltre la recinzione.
+Immobile ma fiera, si erge davanti a te la statua di una guardia armata di lancia, forse
+allo scopo di intimorire eventuali visitatori sgraditi.
+~
+54 137 2
+D0
+~
+~
+0 0 5689 0
+D1
+~
+~
+0 0 5688 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5687
+Proseguendo lungo la spiaggia~
+La spiaggia sembra interminabile e il castello irraggiungibile, inizi 
+a credere che sia solo un miraggio.
+Mentre ti trascini stancamente lungo la riva il tuo sguardo cade su un particolare che
+non avevi notato prima: una lunga fila di impronte impresse sulla sabbia.
+Adesso che te ne rendi conto...erano accanto a te fin da principio di questo cammino.
+~
+54 136 2
+D1
+~
+~
+0 0 5650 0
+D3
+~
+~
+0 0 5688 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5688
+Seguendo le orme sulla sabbia~
+Le orme proseguono in linea retta, sempre accanto a voi.
+In lontananza scorgi qualcosa di immobile vicino alla battigia, avvicinandoti riconosci una figura umana.
+Le impronte proseguono senza curvare verso la figura, come se questa fosse stata ignorata...
+e continuano verso il castello.
+Quando sei in prossimita' della figura immobile...realizzi che si tratta di una statua.
+~
+54 136 0
+D1
+~
+~
+0 0 5687 0
+D3
+~
+~
+0 0 5686 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5689
+Uno splendido giardino in fiore~
+Ti trovi in un grande giardino, attraversato da un piccolo viale di ciottoli che collega il
+cancello col portone del castello.
+Tutt'intorno a te ci sono tantissimo fiori bellissimi ma, come tutto il resto, privi di qualsiasi colore.
+Ad est una piccola stradina conduce in un grande Roseto.
+~
+54 137 2
+D0
+~
+~
+0 0 5676 0
+D2
+~
+~
+0 0 5686 0
+D3
+~
+~
+0 0 5673 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5690
+Su una strada~
+   La gente di Jiroch e' orgogliosa dei servizi che la citta' fornisce.
+Uno di questi servizi e' rappresentato dalle squadre di manutenzione
+che mantengono in ordine le strade. Benche' le tasse di Jiroch siano solo
+di poco piu' basse di quelle che ci pratica Prodi, la maggior parte dei
+soldi sono usati per il bene della gente.
+~
+54 0 2
+D1
+~
+~
+0 -1 5691 0
+D3
+~
+~
+0 -1 5568 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5691
+Su una strada~
+   Cammini lungo una bella strada con un bel panorama. A nord alti
+alberi di pino formano un muro che continua per miglia. Tra la strada
+e gli alberi c'e' una grande distesa di pianori erbosi. A sud di qui, oltre
+il fiume, c'e' il Grande Deserto Orientale. La strada continua ad est e
+ad ovest.
+~
+54 0 2
+D1
+~
+~
+0 -1 5692 0
+D3
+~
+~
+0 -1 5690 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5692
+Su una strada~
+   La strada continua ad est e ad ovest. A sud senti i rumori delle
+barche che trasportano merci lungo il fiume Ishtar.
+~
+54 0 2
+D1
+~
+~
+0 -1 5693 0
+D3
+~
+~
+0 -1 5691 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5693
+Su una strada~
+   Questa e' la strada che attraversa la terra. I commercianti possono
+portare le loro merci dalla linea costiera traghettando su navi per
+l'esportazione. Viaggiando a piedi prenderai la strada che attraversa
+Jiroch su fin sulle Montagne Orientali e giu' per Deira.
+In lontananza verso nord-est, in cima ad un alta montagna, intravedi una Torre.
+~
+54 0 2
+D1
+~
+~
+0 -1 -1 0
+D3
+~
+~
+0 -1 5692 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5694
+Stazione di Jiroch~
+Questa e' la stazione della citta' di Jiroch. Qui regolarmente fa sosta
+la carrozza che fa' servizio di trasporto in tutte le citta' della
+Daresia. L'arrivo e la partenza sono annunciate dal personale della
+stazione. Sulla parete c'e' una mappa.
+~
+54 8 0
+D1
+~
+~
+0 -1 -1 0
+D4
+Vedi Piazza del mercato.
+~
+~
+0 -1 5406 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia:
+
+
+      C\    /J\
+      | \  /   \
+      |  D      L
+      |         |
+      Ch        |
+      \____/\___|
+             
+    [D]  Stazione di Deira
+  * [J]  Stazione di Jiroch
+    [L]  Stazione di Lamorka
+    [Ch] Stazione di Chyrellos
+    [C]  Stazione di Cimmura"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le 5 citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5695
+Stazione orientale di Jiroch~
+Questa e' la stazione orientale della citta' di Jiroch. Qui regolarmente
+fa sosta la carrozza che fa' servizio di trasporto in tutte le citta' della
+Daresia. L'arrivo e la partenza sono annunciate dal personale della
+stazione. Sulla parete c'e' una mappa.
+~
+54 8 0
+D1
+~
+~
+0 -1 -1 0
+D4
+~
+~
+0 -1 5431 0
+E
+mappa parete~
+La mappa dice:
+
+"Il biglietto costa 500 coins. Usa buy per comprarne uno.
+
+Stazioni della Daresia (seconda linea):
+
+
+           /J\
+          /   \
+         D      R
+        /       |
+      K         |
+      \____/\___L
+             
+    [D]  Stazione meridionale di Deira
+    [K]  Stazione di Kerofk
+    [L]  Stazione orientale di Lamorka
+    [R]  Stazione di Roma
+  * [C]  Stazione orientale di Jiroch"
+
+
+   * = Voi siete qui.
+
+  La carrozza viaggia tra le citta' della Daresia. La prossima
+arrivera' molto presto. Buon viaggio!"
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5696
+Una gola scende verso il basso~
+Il cunicolo scende verso il basso, portandoti nelle viscere della montagna.  
+Man mano che avanzi il soffitto si abbassa, fino a diventare non piu' alto di
+due metri: le stalattiti uniscono la volta con il pavimento, rendendo quasi
+impraticabile il terreno.  Nuvole di polvere densa e soffocante si sollevano ad
+ogni tuo passo insinuandosi nella tua gola, lasciandola secca e aspra: come se
+nessuno posasse qui il piede da molto tempo.  Intorno a te, ogni gemito di vita
+e' spento...  Neppure le creature piu' elementari che solitamente popolano
+queste spelonche trovano posto qui, dove tutto sa di immota minaccia.  Pian
+piano lunghi brividi si fanno strada nel profondo del tuo animo: che sia stato
+un errore giungere fin qui?    
+~
+54 9 0
+D1
+~
+~
+0 0 5698 0
+D4
+~
+~
+0 0 1516490 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5697
+Entrando nella battaglia!~
+Appena fatti i primi passi capisci che stai abbandonando l'invisibile barriera
+che ti divideva e proteggeva da questo mondo al quale non appartieni.  
+Deglutisci a vuoto maledicendoti per la tua stupidita', in un istante le tue
+membra vengono attraversate da un lungo brivido: il Tempo da te poco prima
+beffato si avventa sul tuo corpo come un serpente impazzito...  In pochi
+secondi la materia stessa del mondo si squarcia avviluppandoti e riducendoti a
+brandelli, penso proprio che per te sia la...  Fine!    
+~
+54 139 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#5698
+Un tunnel angusto~
+Una lieve ed innaturale foschia aleggia in questo tunnel, impregnandoti i
+vestiti e annebbiandoti la vista, danzando ritmicamente avanti e indietro, come
+se fosse la manifestazione stessa del respiro della Terra.  Il passaggio si
+slarga un po' rispetto al precedente, permettendoti di camminare piu'
+agilmente, ma le asimmetriche conformazioni rocciose costituiscono comunque un
+notevole impaccio.  Snelle ed eteree figure saettano veloci, prive di
+consistenza, attraverso la coltre di nebbia.  Odi risa e sollazzi a te
+indirizzati da un'invisibile folla di osservatori, che pare conoscere assai
+bene il proprio oggetto di scherno...    
+~
+54 137 0
+D3
+~
+~
+0 0 5696 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5699
+Il covo dell'Ixitxachitl~
+   Sangue turbina nell'acqua mentre l'Ixitxachitl divora il suo pasto.
+Mulinando intorno rapidamente quando gli interrompi il pasto, il grande
+pungiglione ti attacca!
+~
+54 1 7
+D4
+~
+grata~
+1 -1 5685 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

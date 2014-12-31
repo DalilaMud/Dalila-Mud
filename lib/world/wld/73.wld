@@ -1,0 +1,1072 @@
+#7300
+L'Entrata di una Caverna~
+   Ti trovi di fronte all'entrata di una caverna.  E' molto buio quaggiu', ma
+nondimento riesci a vedere che c'e' una scritta sul muro.  Una scala sale verso
+l'alto.    
+~
+72 9 1
+D0
+A nord vedi un piccolo tunnel.
+~
+~
+0 -1 7301 0
+D4
+Vedi delle scale che salgono nella piu' completa oscurita'.
+~
+~
+2 -1 7102 9
+E
+scritta muro~
+La scritta recita 'Avventurieri ATTENZIONE!'
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7301
+Un Tunnel~
+   Stai percorrendo un tunnel.  Fa molto freddo ed avverti la presenza di
+qualcosa di vivo ...  DA QUALCHE PARTE.    
+~
+72 9 1
+D0
+A nord vedi che il tunnel continua.
+~
+~
+0 -1 7302 0
+D2
+A sud il tunnel continua.
+~
+~
+0 -1 7300 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7302
+Una caverna~
+   Ti trovi in una caverna.  Fa ancora piu' freddo qui e le pareti rocciose
+emanano uno strano bagliore.    
+~
+72 8 1
+D1
+Ad est vedi un tunnel che si inoltra nell'oscurita'.
+~
+~
+0 -1 7303 0
+D2
+A sud vedi un tunnel buio.
+~
+~
+0 -1 7301 0
+D3
+~
+~
+0 -1 7321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7303
+Un incrocio a T~
+   Ti trovi immerso in una sostanza simile al fango.  L'odore qui e'
+spiacevole, sembra roba in decomposizione.  Verso ovest vedi della luce.    
+~
+72 9 2
+D1
+Ad est il tunnel prosegue.
+~
+~
+0 -1 7304 0
+D2
+~
+~
+0 -1 7308 0
+D3
+Vedi della luce ad ovest.
+~
+~
+0 -1 7302 0
+E
+fango~
+Quando esamini il fango, noti che dei piccoli vermi vi nuotano in mezzo.
+~
+E
+vermi~
+I vermi sono violacei. Non sembrano commestibili.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7304
+Una curva~
+   Il fango e' sempre piu' alto.  Ti stai chiedendo 'Come posso uscire da
+questa melma prima di sparirvi dentro?  '.  A sud noti una roccia piatta che ti
+blocca la strada.  Ad ovest vedi altro fango.    
+~
+72 9 2
+D2
+Vedi un'apertura dietro la pietra.
+~
+pietra piatta rotonda~
+1 -1 7305 3
+D3
+~
+~
+0 -1 7303 0
+E
+pietra piatta rotonda~
+La pietra non sembra molto interessante.  Ma mentre ti stai per allontanare da
+essa, noti una luce provenire da un piccolo buco dietro di essa.  Conclusione:
+la pietra puo' essere spostata.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7305
+La Stanza Segreta~
+   C'e' polvere ovunque.  Sembra che nessuno sia stato qui da anni.  Al centro
+della stanza vedi un piedistallo con un globo di cristallo.  Il globo risplende
+emettendo una luce intermittente.  A nord vedi una porta di pietra.  A sud vedi
+un blocco grigio.    
+~
+72 8 1
+D0
+Vedi una porta rotonda fatta di pietra.
+~
+porta rotonda pietra~
+1 -1 7304 3
+D2
+Vedi un blocco grigio.
+~
+blocco grigio~
+1 -1 7306 3
+E
+piedistallo~
+Il piedistallo sembra essere opera di un nano. E' molto bello.
+~
+E
+globo cristallo~
+Il globo di cristallo sta emanando una luce intermittende.  Sembra come se
+all'interno vi sia del fumo.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7306
+La pozza di fango~
+   Ti trovi in un mare di fango.  Il fango ti arriva al torace.  Senti la
+presenza di qualcosa all'interno del fango.  La sola uscita sembra essere ad
+ovest.    
+~
+72 9 6
+D0
+Non vedi nulla.
+~
+blocco grigio~
+1 -1 7305 3
+D3
+~
+~
+0 -1 7307 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7307
+Un tunnel~
+   Il fango ti arriva alle ginocchia.  Per il resto il tunnel sembra normale.
+  
+~
+72 9 5
+D0
+~
+~
+0 -1 7308 0
+D1
+Vedi una pozza di fango.
+~
+~
+0 -1 7306 0
+D2
+~
+~
+0 -1 7309 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7308
+Il lungo tunnel~
+   Qui non c'e' fango, anche perche' ti trovi in cima ad una piccola roccia.  
+Proprio accanto a te c'e' una scritta che dice 'ATTENZIONE!  I vermi sono
+pericolosi!  '
+~
+72 9 1
+D0
+Vedi un mare di fango.
+~
+~
+0 -1 7303 0
+D2
+Il tunnel prosegue per un altro po'.
+~
+~
+0 -1 7307 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7309
+Una stanza calda~
+   La temperatura di questo ambiente e' per te una vera sorpresa, e' infatti
+caldo a differenza degli altri tunnel che hai percorso.  A nord il tunnel
+sembra immergersi nel fango.  C'e' un'altra via d'uscita a ovest.    
+~
+72 9 1
+D0
+Vedi un mare di fango.
+~
+~
+0 -1 7307 0
+D3
+Vedi l'entrata di una piccola stanza.
+~
+~
+0 -1 7310 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7310
+Una piccola stanza~
+   Mentre ti guardi attorno noti una piccola statua.  Ci sono uscite ad ovest e
+ad est.    
+~
+72 9 1
+D1
+E' decisamente buio laggiu'.
+~
+~
+0 -1 7309 0
+D3
+Vedi un tunnel molto lungo.
+~
+~
+0 -1 7311 0
+E
+piccola statua~
+E' la statua di un demonietto che punta il dito verso ovest.  Il demonietto
+sembra un uomo, ma ha corna e coda.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7311
+La caverna delle stalagmiti~
+   Ti trovi in una caverna piena di stalagmiti.  L'acqua trasuda dalle pareti.
+Fa molto freddo qui.    
+~
+72 9 2
+D0
+~
+~
+0 -1 7314 0
+D1
+Vedi un lungo tunnel e del fango.
+~
+~
+0 -1 7310 0
+D2
+~
+~
+0 -1 7312 0
+E
+stalagmiti~
+Le stalagmiti sono molto alte e hanno un aspetto suggestivo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7312
+Il tunnel delle stalagmiti~
+   Sei entrato in un piccolo tunnel.  Qui e' abbastanza asciutto e se lo
+desideri ti puoi riposare.    
+~
+72 9 1
+D0
+Vedi una piccola caverna a nord.
+~
+~
+0 -1 7311 0
+D3
+~
+~
+0 -1 7313 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7313
+La stanza spugnosa~
+   Decisamente questa zona non ti piace.  E' molto umida e gran parte
+addirittura bagnata.    
+~
+72 12 3
+D1
+~
+~
+0 -1 7312 0
+D3
+~
+~
+0 -1 7345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7314
+Un incrocio a T tra le stalagmiti~
+   Ti trovi ad un incrocio.  A nord vedi della luce, altrove e' buio.    
+~
+72 12 1
+D0
+Vedi una luce davanti a te.
+~
+~
+0 -1 7317 0
+D1
+~
+~
+0 -1 7315 0
+D2
+~
+~
+0 -1 7311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7315
+Un tunnel senza uscita~
+   Ti trovi, chiaramente, in una strada senza uscita.  A nord vedi una pittura
+primitiva.    
+~
+72 9 1
+D0
+Vedi una pittura primitiva raffigurante alcune persone che danzano attorno ad
+un grande sole.  Il solo ha un diametro di circa 2 metri e questo ti da l'idea
+di quanto sia grande la pittura.    
+~
+sole~
+1 -1 7316 3
+D3
+~
+~
+0 -1 7314 0
+E
+pittura primitiva~
+Vedi una pittura primitiva raffigurante alcune persone che danzano attorno ad
+un grande sole.  Il solo ha un diametro di circa 2 metri e questo ti da l'idea
+di quanto sia grande la pittura.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7316
+La stanza del Tesoro~
+   Questa stanza e' riccamente ornata.  Le pareti sno state incise per
+raffigurare gente che danza attorno alla luna che e' dipinta sulla parete sud.  
+La stanza sembra molto vecchia e polverosa.  A sud vedi la parte posteriore di
+una porta segreta.    
+~
+72 521 1
+D2
+Vedi una pittura che raffigura delle persone che danzano attorno ad una grossa
+luna.    
+~
+luna porta~
+1 -1 7315 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7317
+La tana~
+   Ti trovi nella parte sud-orientale di una tana.  Vedi uno scheletro in un
+angolo.    
+~
+72 8 1
+D0
+Un'altra parte della tana.
+~
+~
+0 -1 7318 0
+D2
+~
+~
+0 -1 7314 0
+D3
+Un'altra parte della tana.
+~
+~
+0 -1 7320 0
+E
+scheletro~
+Sembra essere appartenuto ad un avventuriero sfortunato.  Faresti meglio a
+stare attento...    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7318
+La tana~
+   Ti trovi nella parte nord-orientale di una tana.  Vedi una scritta sulla
+parete.    
+~
+72 9 1
+D1
+Vedi una porta di legno.
+~
+porta legno~
+1 -1 7321 3
+D2
+Un'altra parte della tana.
+~
+~
+0 -1 7317 0
+D3
+Un'altra parte della tana.
+~
+~
+0 -1 7319 0
+E
+scritta parete~
+La scritta recita 'Dei della Guerra vi invoco, la spada e' al mio fianco,
+                 Cerco un'illuminazione che mi liberi dal falso orgoglio'
+                                    Reyemle Grug...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7319
+La tana~
+   Ti trovi nella parte nord-occidentale di una tana.  C'e' una scritta sul muro.
+C'e' l'uscita della tana a nord. 
+~
+72 9 1
+D0
+Vedi un piccolo tunnel che va verso nord.
+~
+~
+0 -1 7322 0
+D1
+Vedi un'altra parte della tana.
+~
+~
+0 -1 7318 0
+D2
+Vedi un'altra parte della tana.
+~
+~
+0 -1 7320 0
+E
+scritta~
+La scritta recita 'Sto vagando qua attorno in un girotondo senza fine,
+                     cercando l'illuminazione che mi fara' riconquistare il mio orgoglio
+                             Corama...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7320
+La parte finale della tana~
+   Di fronte a te si trova un tavolo.  E' molto impolverato.  Cinque scheletri
+sono seduti attorno ad esso.  Ci sono uscite a nord ed est.    
+~
+72 9 1
+D0
+La parte settentrionale della tana.
+~
+~
+0 -1 7319 0
+D1
+La parte orientale della tana.
+~
+~
+0 -1 7317 0
+E
+tavolo~
+Sul tavolo c'e' molta polvere ed al centro una piccola statua raffigurante un
+drago addormentato.    
+~
+E
+scheletri~
+Sono chiaramente stati uccisi da qualcosa, ma non sembra trattarsi di un'arma.
+  
+~
+E
+drago statua~
+Sembra un drago d'argento.  E' fissato al tavolo con dei chiodi.  Il drago
+siede sopra il corpo di un drago rosso che sembra morto.  Eppure gli occhi del
+drago rosso emettono pulsanti bagliori rossi.  Ti senti paralizzato
+dall'orrore.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7321
+Il Tunnel orientale~
+   Ti trovi in un tunnel buio, ci sono uscite ad est e ad ovest.  Verso ovest
+vedi una porta di legno.    
+~
+72 12 1
+D1
+Vedi un tunnel invaso dal fango.
+~
+~
+0 -1 7302 0
+D3
+Vedi una porta di legno.
+~
+porta legno~
+1 -1 7318 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7322
+Il Tunnel settentrionale~
+   Ti trovi in un buio tunnel che prosegue davanti a te.    
+~
+72 9 1
+D0
+Il buio tunnel continua.
+~
+~
+0 -1 7323 0
+D2
+Vedi una tana.
+~
+~
+0 -1 7319 0
+D3
+Vedi l'entrata di una caverna.
+~
+~
+0 -1 7336 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7323
+Una stanza a forma di L~
+   Ti trovi nella piu' completa oscurita'.  A sud c'e' un'uscita mentre a ovest
+c'e' una voragine.
+~
+72 9 1
+D1
+~
+~
+0 -1 7324 0
+D2
+~
+~
+0 -1 7322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7324
+Una sala circolare~
+   Ti trovi in una sala circolare.  A nord, est e sud vedi delle pietre
+sono state scolpite in modo da raffigurare delle teste.
+~
+72 9 1
+D0
+Vedi una pietra scolpita in modo da raffigurare la testa di un drago rosso.  
+
+~
+testa rosso drago~
+2 0 7324 15
+D1
+Vedi una pietra scolpita in modo da raffigurare la testa di un drago verde.  
+
+~
+testa drago verde~
+1 -1 7325 3
+D2
+Vedi una pietra scolpita in modo da raffigurare la testa di un drago blu.    
+~
+testa drago blu~
+2 0 7324 15
+D3
+Vedi una stanza in lontananza.
+~
+~
+0 -1 7323 0
+E
+testa teste~
+Quando osservi con piu' attenzione le teste ti accorgi che raffigurano dei
+draghi.  La faccia a nord e' rossa, qualla ad est verde e quella a sud blu.  
+
+~
+E
+verde~
+Sembra un drago malvagio.
+~
+E
+rosso~
+Sembra un drago neutrale.
+~
+E
+blu~
+Sembra un drago buono.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7325
+Un tunnel polveroso~
+   Ti trovi in mezzo alla polvere.  Questo posto non e' stato visitata da lungo
+tempo.  Nonostante sia sporco, questo ti sembra un buon posto per riposare!  
+Ad ovest vedi una porta.  Un tunnel conduce verso est.    
+~
+72 12 1
+D1
+Vedi un tunnel che prosegue. E' piuttosto buio.
+~
+~
+0 -1 7326 0
+D3
+Vedi il contorno di una porta.
+~
+porta~
+1 -1 7324 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7326
+Un incrocio~
+   Ti trovi ad un incrocio di corridoi.  Puoi lasciare questo posto andando in
+ogni direzione, tranne verso l'alto e verso il basso.  Noti delle strane
+impronte lasciate nella polvere.    
+~
+72 9 1
+D0
+~
+~
+0 -1 7331 0
+D1
+~
+~
+0 -1 7330 0
+D2
+~
+~
+0 -1 7327 0
+D3
+~
+~
+0 -1 7325 0
+E
+impronte~
+Non hai mai visto prima impronte simili!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7327
+Una stanza a forma di L~
+   Ti trovi al centro di una stanza a forma di L.  Puoi udire dei rumori
+provenire dal lungo tunnel che si apre verso est.  Ti senti alquanto a disagio!
+C'e' una scritta sulla parete.
+~
+72 9 2
+D0
+~
+~
+0 -1 7326 0
+D1
+~
+~
+0 -1 7328 0
+E
+scritta~
+La scritta recita:
+
+PERICOLO!!
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7328
+La tana del Drago~
+   Le pareti qui sono bruciacchiate e le pietre del pavimento sono di un color
+rosso intenso.  Ossa di tutti i tipi sono sparse sul pavimento.  Sulle pareti
+vedi delle carcasse bruciacchiate.  Un forte odore di carne bruciata colpisce
+il tuo odorato.  I resti di due creature semi-carbonizzate sono sul pavimento.
+  
+~
+72 8 2
+D0
+Vedi un lungo tunnel.
+~
+~
+0 -1 7329 0
+D3
+Non vedi nulla, e' troppo buio.
+~
+~
+0 -1 7327 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7329
+Una stanza bruciata~
+   Ti trovi in una stanza che deve essere andata a fuoco ormai da lungo tempo.
+C'e' una scritta sul muro.    
+~
+72 9 1
+D2
+Vedi un bagliore rosso...
+~
+~
+0 -1 7328 0
+D3
+~
+~
+0 -1 7330 0
+E
+scritta~
+La scritta recita:
+
+PERICOLO
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7330
+Un tunnel ventilato~
+   Ti trovi in un tunnel.  Sopra la tua testa riesci a sentire una leggera
+brezza.    
+~
+72 9 1
+D1
+E' troppo buio per vedere qualcosa.
+~
+~
+0 -1 7329 0
+D3
+~
+~
+0 -1 7326 0
+E
+brezza~
+La brezza proviene da un foro posto in alto.  Non c'e' modo di salire lassu'.
+  
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7331
+Una stanza luminosa~
+   Questa stanza e' molto illuminata.  Alle pareti vedi delle lastre d'argento.
+Le uscite sono a ovest, est e sud.    
+~
+72 8 1
+D1
+~
+~
+0 -1 7332 0
+D2
+~
+~
+0 -1 7326 0
+D3
+~
+~
+0 -1 7333 0
+E
+pareti argento~
+Lo splendore dell'argento sembra provenire dall'interno delle pareti.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7332
+Un passaggio segreto~
+   Sei entrato in una piccola stanza.  La sola uscita e' a ovest.    
+~
+72 9 1
+D3
+Puoi vedere della luce provenire da ovest.
+~
+~
+0 -1 7331 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7333
+La fine di un lungo tunnel~
+   Ti trovi alla fine di un lungo tunnel.  Proprio di fronte a te vedi un masso
+grigio.  Ad est vedi un tunnel lunghissimo, ma questo lo sai perche' e' da li'
+che vieni.    
+~
+72 9 5
+D1
+Un lungo tunnel.
+~
+~
+0 -1 7331 0
+D3
+Un masso grigio blocca la strada.
+~
+masso grigio~
+1 -1 7334 3
+E
+masso grigio~
+Il masso non e' altro che un masso, ma la sua presenza qui e' abbastanza
+sospetta!    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7334
+Una stanza di servizio~
+   Ti trovi in una piccola stanza.  Sulle pareti sono raffigurati dei volti di
+gente in preda al dolore.  Puoi sentire una forte aura malvagia impregnare
+questo posto.  C'e' una sola uscita: sud.    
+~
+72 9 1
+D2
+Niente tranne oscurita'...
+~
+~
+0 -1 7335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7335
+Un tunnel buio~
+   Ti trovi in un tunnel buio che continua a nord e a sud.  Numerose ossa
+ricoprono il pavimento.    
+~
+72 9 1
+D0
+~
+~
+0 -1 7334 0
+D2
+~
+~
+0 -1 7336 0
+E
+ossa~
+Sembrano ossa umane.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7336
+L'entrata alla tana~
+   L'odore qui e' sgradevole.  A sud vedi del fumo.  Tunnel vanno a nord e ad
+est.    
+~
+72 13 2
+D0
+~
+~
+0 -1 7335 0
+D1
+Una piccola caverna si trova ad est.
+~
+~
+0 -1 7322 0
+D2
+La sola cosa che riesci a vedere e' del fumo.
+~
+~
+0 -1 7337 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7337
+La parte nord-orientale della caverna del basilisco~
+   E' difficile riuscire a vedere qui a causa del fumo.  A nord vedi a stento
+un piccolo tunnel.  Altre uscite sono a sud e ad ovest.    
+~
+72 9 2
+D0
+~
+~
+0 -1 7336 0
+D2
+~
+~
+0 -1 7338 0
+D3
+~
+~
+0 -1 7339 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7338
+La parte sud-orientale della caverna del basilisco~
+   C'e' un piccolo buco nella parete e da questo entra il fumo.  Per il resto
+tutto e' nero come la pece.  Uscite sono a nord ed ovest.    
+~
+72 9 2
+D0
+Non vedi nulla se non del fumo.
+~
+~
+0 -1 7337 0
+D3
+Non vedi nulla se non del fumo.
+~
+~
+0 -1 7340 0
+E
+buco piccolo~
+Sembra essere un piccolo foro di circa 30 centimetri di diametro.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7339
+La parte nord-occidentale della caverna del basilisco~
+   Vedi del fieno sparso sul pavimento.  L'odore qui e' sgradevole e ti da il
+voltastomaco.  Questo e' il luogo in cui il basilisco dorme.  Attento...  
+Probabilmente non e' distante...    
+~
+72 9 2
+D1
+~
+~
+0 -1 7337 0
+D2
+~
+~
+0 -1 7340 0
+E
+fieno~
+Il fieno e' molto sporco.  L'odore che emana ti da il voltastomaco.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7340
+La parte sud-occidentale della caverna del basilisco~
+   Non vedi altro che fumo.    
+~
+72 9 5
+D0
+~
+~
+0 -1 7339 0
+D1
+~
+~
+0 -1 7338 0
+D2
+~
+~
+0 -1 7341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7341
+Una piccola caverna~
+   Ti trovi in una piccola caverna.  Puoi vedere della luce provenire da un
+angolo.  Ci sono uscire a nord e sud.    
+~
+72 13 2
+D0
+Non vedi altro che fumo.
+~
+~
+0 -1 7340 0
+D2
+Vedi una luminosita' bluastra.  E senti anche una fresca brezza....  Ahhh che
+sollievo!    
+~
+~
+0 -1 7342 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7342
+La parte settentrionale di uno stagno~
+   Hai i piedi immersi nell'acqua.  L'acqua sembra calma.  Ti accorgi di essere
+arrivato ad un piccolo lago.  Una debole luce illumina la superficie
+dell'acqua.    
+~
+72 8 4
+D0
+Vedi una piccola caverna.
+~
+~
+0 -1 7341 0
+D1
+Vedi altra acqua.
+~
+~
+0 -1 7343 0
+D2
+Vedi altra acqua.
+~
+~
+0 -1 7344 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7343
+Lo stagno~
+   Stai nuotando nell'acqua.  E' abbastanza profondo qui ed anche molto buio.
+  
+~
+72 9 6
+D2
+Vedi delle bolle sulla superficie dell'acqua.
+~
+~
+0 -1 7345 0
+D3
+Vedi dell'acqua calma.
+~
+~
+0 -1 7342 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7344
+La parte meridionale di uno stagno~
+   L'acqua ti arriva al collo!  Vedi solo acqua intorno a te.    
+~
+72 8 5
+D0
+Vedi acqua calma.
+~
+~
+0 -1 7342 0
+D1
+E' troppo buio per vedere qualcosa, ma senti la presenza di qualcuno nelle
+vicinanze.    
+~
+~
+0 -1 7345 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#7345
+Lo stagno~
+   Stai nuotando nella piu' completa oscurita'.  Senti qualcosa che tocca la
+tua gamba destra.    
+~
+72 9 6
+D0
+Troppo buio per vedere qualcosa.
+~
+~
+0 -1 7343 0
+D1
+Senti una brezza calda.
+~
+~
+0 -1 7313 0
+D3
+~
+~
+0 -1 7344 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

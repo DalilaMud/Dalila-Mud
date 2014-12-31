@@ -1,0 +1,2135 @@
+#31300
+&6L'ingresso ovest alla caverna&0~
+Alzi lo sguardo al picco innanzi a te e, nonostante la debole luce, non puoi
+fare a meno di notare l'enorme cancello che si staglia, splendente con le sue
+decorazioni in oro e argento.  L'impresa architettonica e' di palese creazione
+nanesca, e ve ne si puo' trovare conferma nei rilucenti particolari in Mithril.
+Mithril...  Una simile armatura sarebbe il sogno di molti avventurieri...  Ti
+verrebbe quasi voglia di rubarne un po', ma quello strano rivolo di sangue
+coagulato che esce dalla caverna ti fa desistere...    
+
+&9&bUna scritta e' intagliata nella pietra&0
+~
+313 1024 0
+D1
+~
+~
+0 0 31301 0
+E
+look scritta~
+Noti dei segni in carattere nanesco, risalenti a molto tempo fa.
+Benche' sbiaditi e parzialmente levigati dalla pioggia puoi
+ancora decifrare delle parole:
+
+&9&b"Io, inviato da ... alla ricerca di nuovi ... sono infine
+arrivato qui. Stiamo ... ma la missione si presenta ardua.
+Speriamo di riuscire ad arrivare dove ci siamo prefissati."&0
+
+Non riesci a decifrare di piu', ma forse il rigagnolo informa
+sull'esito della missione...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31301
+&6L'entrata della caverna&0~
+Appena entri l'oscurita' avvolge ogni tuo passo.  Forse sarebbe una saggia
+decisione tornare sul tuo cammino..  Solo i cuori piu' arditi e le braccia piu'
+forti potrebbero sopravvivere la' sotto.  Scuotendo la tua lanterna in cerca di
+un po' di luce noti infine nel lato sud della caverna un buco che scende in
+basso.  Qualche macchia di sangue compare in quel luogo ma sembra ancora piu'
+vecchio di quello visto all'entrata.  Forse sarebbe piu' saggia decisione
+proseguire verso est, dove le pareti proseguono lisce e distanziate.    
+~
+313 1025 0
+D1
+~
+~
+0 0 31335 0
+D3
+~
+~
+0 0 31300 0
+D5
+~
+~
+0 0 31303 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31303
+&6Un buco scuro&0~
+L'oscurita' si fa sempre piu' fitta attorno a te man mano che scendi, e devi
+sforzarti notevolmente per distinguere le cose attorno a te.  Infine, voltando
+le spalle al passaggio che ti ha condotto fin qui, noti un altro buco, a prima
+vista fatto dalla stessa mano del precedente, che conduce ancora piu' in
+profondita'.  Anche se una piccola &1pozza di sangue&0 vicino a quell'entrata
+ti invita ad evitarla...    
+~
+313 1025 0
+D4
+~
+~
+0 0 31301 0
+D5
+~
+~
+0 0 31304 0
+E
+look pozza~
+Questa chiazza di sangue sembra molto piu' recente delle altre.
+E' gia' in parte coagulato ma non deve risalire a troppo tempo
+fa, e ti inizi a chiedere quante battaglie abbiano visto queste
+pareti...
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31304
+&6Un buco scuro&0~
+Oooops!  Scivoli per alcuni metri e cadi a pochi centimetri da una punta di
+lancia spezzata...  Per questa volta ti e' andata bene.  Noti una strana
+luminescenza nella stanza, che poi noti essere dovuta da una torcia in un
+angolo che sta esalando gli ultimi bagliori di luce.  Ti guardi attorno per
+capire la causa dello spezzamento dell'arma, e identifichi il braccio di colui
+che brandiva l'arma un tempo integra, ormai penzolante dal corpo privo di vita.
+Chissa' quali esseri potrebbero aver causato la morte di quel povero nano
+solitario...  Noti un pugnale di adamianto conficcato nel suo petto e inizi a
+formare delle idee...  Non puoi piu' tornare indietro ormai, devi proseguire
+attraverso un altro buco, forse incontro alla causa della morte del valente
+nano...    
+~
+313 1024 0
+D5
+~
+~
+0 0 31305 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31305
+&6L'entrata per un villaggio&0~
+Continui la tua discesa senza possibilita' di ritorno, quando innanzi a te vedi
+un'entrata che non scende piu' in profondita' ma si addentra ad est verso il
+cuore della montagna.  In quella zona l'ambiente si fa sempre piu' scuro, e ti
+chiedi chi possa vivere in un luogo tanto buio, anche se un'idea inizi ad
+averla.    
+~
+313 1024 0
+D1
+~
+~
+0 0 31306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31306
+&6Una strada scura&0~
+Ti armi di lanterna ed entri.  La tua fonte di luce crea un fascio nitido che
+tuttavia tende a perdersi nell'oscurita' del posto.  La strada che stai
+percorrendo e' ancora circondata da due pareti di pietra, e non riesci a vedere
+altro col tuo debole raggio che permea la stanza.  D'un tratto al passaggio
+della lanterna un luccichio ferisce i tuoi occhi ormai abituati al buio.  Ti
+avvicini e scopri che il brillante oggetto e' uno scudo di un materiale tanto
+bello quanto presagio di cattive notizie: adamianto.    
+~
+313 1025 0
+D1
+~
+~
+0 0 31307 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31307
+&6Un passaggio pericoloso&0~
+D'un tratto le pareti si aprono e subito vieni colpito da due altissimi
+pilastri percorsi da una magia tanto potente quanto oscura.  Non sprigiona
+luce, ma il suo solo aspetto ,all'apparenza poco potente, basta ad atterrirti e
+a scoraggiarti a continuare il tuo cammino tra i monoliti.  Ripreso dallo stato
+di estasi avuto nell'ammirare la struttura, ti accorgi che tra i pilastri e
+attorno ad essi vi sono numerosi esseri non piu' alti di 1.  60m, di carnagione
+scura e capelli bianchi, atti a trafficare con attrezzature d'adamianto e
+magia: Drow, i tuoi sospetti trovano infine conferma.  La magia non sembra
+dunque pericolosa, probabilmente serve a tener lontani esseri in conflitto con
+i Drow come i Nani o gli Illithyd, ma non dovrebbe nuocere ad un essere umano.
+Anche se forse ora sarebbe il caso di preoccuparsi degli abitanti del luogo...
+  
+~
+313 1024 0
+D1
+~
+~
+0 0 31308 0
+D3
+~
+~
+0 0 31306 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31308
+&6Una strada nel villaggio&0~
+La strada prosegue dritta, innanzi a te vedi un incrocio.  Guardando ai bordi
+della strada noti strane &9&blapidi&0 e una &9&bstatua&0 in adamianto.    
+~
+313 1024 0
+D1
+~
+~
+0 0 31309 0
+D3
+~
+~
+0 0 31307 0
+E
+lapidi~
+&9&bVedi numerose lapidi di Drow defunti
+&9&b"A Renjj, che fece stragi di nani prima di essere decapitato"
+&9&b"A Mardeh, che lotto' valorosamente contro il drago rosso...
+&9&bma il drago rosso e' ancora vivo"
+&9&b"Ad Arson, che perse la testa per un nano...
+&9&bin senso letterale"
+&9&b"A Malji, che distrusse un posto d'avanguardia nanesco...
+&9&bpoi rimase succube del loro idromele"
+&9&b"A Nahin, che fondo' questo stupendo villaggio...
+&9&bI cui abitanti lo uccisero per avere il suo tesoro"&0
+~
+E
+statua~
+Vedi raffigurato un grosso Drow, probabilmente un forte
+guerriero.
+C'e' una targhetta, con una scritta:
+"&9&bNadhir, grande lottatore che unico ci libero'
+&9&bdall'incombente nemico nano."&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31309
+&6Un incrocio&0~
+Qui la strada si divide, procedendo a nord verso una curva, ad est verso
+un'umile abitazione mentre a sud verso la piazza principale del villaggio.  
+Continui a guardarti alle spalle indeciso sul comportamento da avere con questi
+strani esseri...    
+~
+313 1024 0
+D0
+~
+~
+0 0 31310 0
+D1
+~
+~
+0 0 31313 0
+D2
+~
+~
+0 0 31314 0
+D3
+~
+~
+0 0 31308 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31310
+&6Una curva&0~
+Vedi la strada principale deviare verso est in direzione di un edificio molto
+piu' grande di quelli visti finora.  Verso nord vedi un piccolo sentiero
+inoltrarsi per poi risalire in modo brusco.  Forse sarebbe piu' sicuro
+procedere verso est...  Ammesso che ci sia qualcosa di sicuro in questi
+luoghi...    
+~
+313 1024 0
+D1
+~
+~
+0 0 31311 0
+D2
+~
+~
+0 0 31309 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31311
+&6Una casata&0~
+Entri in un edificio lussuoso...  Per i gusti locali.  Come tutto cio' che hai
+visto finora costruito in adamianto, e' riccamente "decorato" di statue
+raffiguranti ragni di piccole dimensioni che a prima vista sembrano vivi.  
+Ogni tanto senti qualche sibilo minaccioso e la visione di una grossa chiazza
+di sangue vicino all'entrata ti fa sussultare...  Decidi di fare un passo in
+avanti...  Crick!  Schiacci una decina di ragnetti di sottilissimo adamianto
+che rivelano la tua presenza.  Astuzia ingegneristica o solo sfortuna?    
+~
+313 1024 0
+D1
+~
+porta~
+1 0 31312 1
+D3
+~
+~
+0 0 31310 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31312
+&6Una casata difensiva&0~
+Entri con estrema circoscrizione, dopo cio' che e' successo nella stanza
+precedente, rimanendo nel buio piu' totale.  Non senti nessun rumore, ma noti
+sulla parete di fronte a te un'armeria in adamianto che tradisce la presenza di
+ben piu' di due guardie.  Ti arrischi ad avanzare, e non trovi la zona vuota,
+anche se avresti ritenuto migliore la guardia dei drow...    
+~
+313 1024 0
+D0
+~
+cancello~
+1 -1 31339 1
+D3
+~
+porta~
+1 0 31311 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31313
+&6Una modesta abitazione&0~
+Entri in una casa che non puoi non ritenere modesta dopo la visione del
+prodigio architettonico monolitico dell'entrata.  Anch'essa interamente in
+adamianto, ti suscita uno strano paragone...  Per i tuoi gusti da raffinato
+abitante del mondo superficiale sembra quasi...  Un fungo marcio!    
+~
+313 1024 0
+D3
+~
+~
+0 0 31309 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31314
+&6La piazza principale&0~
+La strada si allarga a formare una piazza.  Il monumento votivo nel centro
+indica un certo gusto nell'arte scultorea, nonostante cio' che hai visto finora
+non rispecchi molto questo aspetto...  Da qui puoi facilmente raggiungere ogni
+parte del villaggio.    
+~
+313 0 0
+D0
+~
+~
+0 0 31309 0
+D1
+~
+~
+0 0 31319 0
+D2
+~
+~
+0 0 31317 0
+D3
+~
+~
+0 0 31315 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31315
+&6Un buco nel terreno&0~
+Che strano, chi mai tra i Drow vorra' spingersi ancora piu' sotto delle altre
+abitazioni...  Magari qualcosa di pericoloso, o qualche esiliato...  O forse
+per questa ambigua popolazione e' segno di maggior prestigio stare piu' in
+basso invece che piu' in alto...  L'unica cosa di cui sei sicuro e' che la'
+sotto c'e' qualcosa di ancor piu' strano di cio' che hai visto finora.    
+~
+313 1024 0
+D1
+~
+~
+0 0 31314 0
+D5
+~
+~
+0 0 31316 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31316
+&6Un buco scuro&0~
+Ti addentri cautamente nel silenzio piu' assoluto, quando una
+forte esplosione ti fa bruscamente notare di non esser solo
+nella stanza.
+Sforzando i tuoi occhi come non mai finora vedi un piccolo Drow
+agitare delle boccette nella parte piu' scura della stanza.
+Sembra non averti notato ma di certo non sarebbe contento di
+vederti...
+Un altro passo per cercare meglio... craaaack!
+Maledette boccette di vetro!
+~
+313 1024 0
+D4
+~
+~
+0 0 31315 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31317
+&6Una casata&0~
+Che puzza!  Un incredibile tanfo ti fa ondeggiare quando entri in questo
+edificio.  Ti giri attorno per trovare la causa di un tale maleodore...  
+Cadaveri!  La stanza e' piena di cadaveri in putrefazione, e il loro sangue
+segna macabramente il passaggio verso la stanza limitrofa.  Forse sarebbe il
+caso di starne lontano...    
+~
+313 1024 0
+D0
+~
+~
+0 0 31314 0
+D3
+~
+~
+0 0 31318 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31318
+&6Una stanza matronale&0~
+Questo luogo sembrerebbe quasi lussuoso... non fosse che la sua
+intera superficie e' decorata macabramente come l'entrata.
+La matrona non sembra molto contenta della tua interruzione...
+~
+313 1024 0
+D1
+~
+~
+0 0 31317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31319
+&6Uno svincolo nella strada&0~
+Qui la strada maestra procede verso est, ma un vicolo scuro si
+dirige verso sud. Non sembra affatto sicuro, ma vi e' qualcosa
+di sicuro qui?
+~
+313 1024 0
+D1
+~
+~
+0 0 31324 0
+D2
+~
+~
+0 0 31320 0
+D3
+~
+~
+0 0 31314 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31320
+&6Un vicolo scuro&0~
+Il vicolo procede verso sud e man mano che prosegui la tua ansia aumenta...  
+Trovarsi un pugnale tra le scapole non e' mai piacevole, fai attenzione!  Noti
+una strana costruzione ad est...  Un fungo d'adamianto?    
+~
+313 1024 0
+D0
+~
+~
+0 0 31319 0
+D1
+~
+~
+0 0 31325 0
+D2
+~
+~
+0 0 31321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31321
+&6La fine del vicolo&0~
+Qui il vicolo finisce, e scopri l'utilita' di questa diramazione della strada
+principale.  Senza nemmeno accorgertene nel buio le pareti si sono sempre piu'
+strette attorno a te, fino a richiudersi dove ti trovi ora.  Qualche piccone
+qua e la' indica che si e' giunti fino a qua per estrarre l'adamianto
+necessario alla costruzione della citta', ma l'assenza di minatori al momento
+indica che da tempo ormai la citta' ha smesso di ampliarsi...  Due caverne si
+estendono ad est e a ovest...  Sembrano abitate...    
+~
+313 1024 0
+D0
+~
+~
+0 0 31320 0
+D1
+~
+~
+0 0 31323 0
+D3
+~
+~
+0 0 31322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31322
+&6La gilda dei fabbri&0~
+A quanto pare le pietre di adamianto qui estratte non sono solo
+utilizzate per la costruzione di edifici, ma anche per le tante
+armi di cui un popolo cosi' poco diplomatico necessita.
+Benche' non vi siano persone a cercare l'adamianto il lavoro qui
+e' costante e continuo.
+~
+313 1024 0
+D1
+~
+~
+0 0 31321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31323
+&6La gilda dei costruttori&0~
+La caverna sembra vuota. Benche' il buio regnante sia un fattore
+comune in questi luoghi, l'aria stantia e una strana sensazione
+di calma e pace regnante qui ti avvertono che nessun Drow popola
+piu' questi luoghi da tempo.
+~
+313 1024 0
+D3
+~
+~
+0 0 31321 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31324
+&6La strada maestra&0~
+La strada principale procede, continuando diritta verso ovest e aprendosi in un
+incrocio ad est.  A sud noti un ingresso ad una piccola costruzione in
+adamianto.  Ma che cosa puo' vivere li' dentro?    
+~
+313 1024 0
+D1
+~
+~
+0 0 31326 0
+D2
+~
+~
+0 0 31325 0
+D3
+~
+~
+0 0 31319 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31325
+&6Una piccola casa&0~
+Superata l'entrata stretta e bassa senti un continuo di fischi e sibili,
+seguita da qualche risolino.  Ti giri attorno ma nel buio non riesci a vedere
+nulla...  Una fitta alla schiena, un pugnale in adamianto ti colpisce alle
+spalle fino ad uscirti dal petto.  Non ti rendi conto di altro, prima che dei
+famelici driader inizino a banchettare col tuo corpo infelice...
+~
+313 1026 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#31326
+&6Un grosso incrocio&0~
+Qui vedi un altro grosso incrocio dividere la strada principale.
+Vieni colpito dalla maestosita' dell'edificio che si staglia ad
+est, tetramente rilucente in nero adamianto.
+Di fronte a tale maestosita' quasi passano inosservati il posto
+di guardia appena qui a nord e l'edificio basso e tetro cui si
+accede qui a sud.
+~
+313 1024 0
+D0
+~
+~
+0 0 31327 0
+D1
+~
+~
+0 0 31330 0
+D2
+~
+0~
+0 0 31328 0
+D3
+~
+~
+0 0 31324 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31327
+&6Un posto di guardia&0~
+A quanto pare questo e' un posto di guardia posto in protezione
+della prima casata, ma non vi e' alcuna guardia e la protezione
+all'edificio della prima matrona e' nulla. Sembra che le guardie
+qui presenti siano state chiamate d'urgenza altrove per un
+incarico ancora piu' urgente della protezione della casa
+matriarcale... cosa puo' esserci di piu' importante della salute
+del regnante? Solo la sopravvivenza del proprio popolo...
+Una piccola fessura in alto conduce verso est, ma e' troppo
+lontana per arrivarvi in ogni modo.
+~
+313 1024 0
+D2
+~
+~
+0 0 31326 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31328
+&6Una caserma&0~
+Entri in questo luogo attraverso uno stretto passaggio.
+Il rumore e' forte, benche' da fuori sentissi poco piu' di un
+leggero brusio attuito dalle spesse pareti in adamianto. Molti
+giovani e forti Drow si stanno allenando per essere arruolati
+nell'esercito, e i lavori stanno procedendo a gran ritmo per
+rifornire le truppe impegnate in un'ardua lotta.
+Verso sud l'edificio da' accesso a un luogo molto buio.
+~
+313 1024 0
+D0
+~
+~
+0 0 31326 0
+D2
+~
+porta~
+1 -1 31329 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31329
+&6Una parete rocciosa&0~
+Il buio che regna in questo luogo viene interrotto solo dalle
+scintille dei picconi sulla roccia, tanto frequenti da creare
+una debole illuminazione quasi continua. Moltissimi schiavi dei
+Drow sono qui imprigionati, mentre alcuni agili Drow
+trasportano verso ovest le pietre. Ti accorgi che sono dirette
+al fabbro del villaggio, ma il passaggio e' troppo stretto
+perche' tu possa usufruirne.
+~
+313 1024 0
+D0
+~
+porta~
+2 31348 31328 9
+D3
+~
+~
+0 0 1661 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31330
+&6L'entrata alla prima casata&0~
+Appena arrivi ti sembra di essere finito in un vicolo cieco, ma
+poi ti accorgi di una robusta parete in adamianto verso est che
+dovrebbe funzionare da cancello. Sembra davvero troppo grossa
+per ogni tuo tentativo di aprirla, ma noti un &7buco&0
+abbastanza grande per permetterti di dare un'occhiata.
+~
+313 1024 0
+D3
+~
+~
+0 0 31326 0
+E
+buco~
+Noti un lungo corridoio lucente nelle decorazioni in adamianto,
+che finisce in una stanza debolmente illuminata. Riesci pero' a
+scorgere l'altare matronale contorniato da un nutrito manipolo
+di guardie... questo luogo e' davvero ben protetto.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31331
+&6Una piattaforma&0~
+Avanzi sulla piattaforma con passo cauto, e sorprendi tre
+arcieri Drow pronti a scagliare i propri mortali dardi contro
+chiunque cerchi di entrare dal grosso cancello. Non sembrano
+averti notato, ma ti auguri che cio' non possa succedere.
+~
+313 1024 0
+D3
+~
+~
+0 0 31327 0
+D5
+~
+~
+0 0 31332 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31332
+&6Un corridoio decorato&0~
+Procedi nel corridoio, e chiaro davanti a te si staglia il trono
+della prima matrona, protetto da un nutrito ed esperto manipolo
+di guardie. Un buco nel terreno conduce ad una fossa da cui
+proviene un odore persino piu' acuto di quello che arriva a
+folate da nord.
+~
+313 1024 0
+D0
+~
+~
+0 0 31333 0
+D4
+~
+~
+0 0 31331 0
+D5
+~
+~
+0 0 31334 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31333
+&6La prima casata&0~
+Sei giunto, infine, nella sala del trono. Oggetti di ogni tipo
+in adamianto bagnati di sangue decorano l'ambiente, ma la tua
+attenzione e' maggiormente indirizzata verso le possenti guardie
+che difendono la signora...
+~
+313 1024 0
+D2
+~
+~
+0 0 31332 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31334
+&6Le prigioni&0~
+Questa fossa e' destinata a contenere i prigioniri dei Drow
+inabili al lavoro. Robusti anelli di adamianto li tengono
+bloccati a terra mentre alcune guardie fannno passar loro la
+voglia di evadere...
+~
+313 1024 0
+D4
+~
+~
+0 0 31332 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31335
+&6In vista di un antro&0~
+Ti accorgi ora di come questa parte della caverna, all'apparenza
+molto piu' sicura di quella che scende verso il basso, serbi
+grossi pericoli...
+Un forte odore di morti viene da est e la fioca illuminazione
+permette di scorgere un antro.
+Inizi a tremare come un bambino, ma noti verso il basso un
+passaggio tutto sommato pulito e che non sembra denso di morte
+come il resto dei luoghi finora trovati.
+~
+313 1024 0
+D1
+~
+~
+0 0 31336 0
+D3
+~
+~
+0 0 31301 0
+D5
+~
+~
+0 0 31338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31336
+&6Una caverna piena di cadaveri&0~
+Appena entri e' il terribile odore di questi luoghi che ti fa
+trasalire...
+Poi ti guardi attorno e qualcosa ti lascia decisamente piu'
+atterrito...
+~
+313 1024 0
+D0
+~
+porta~
+2 0 31337 15
+D3
+~
+~
+0 0 31335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31337
+&6Un buco pieno d'oro&0~
+Ogni cosa che vedi e' interamente fatta d'oro! Tutto e' giallo,
+e i tuoi occhi vacillano nello splendore che vedono. Cerchi di
+capire da dove sei venuto, ma girandoti scivoli su una pietra
+preziosa e cadi...
+Per tua fortuna c'era una morbidissima lancia piantata a terra
+dove sei caduto...
+Che comodo atterraggio!
+~
+313 1030 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#31338
+&6Uno scomodo passaggio&0~
+Da qui il cammino e' inibito verso l'alto, benche' si possa
+vedere un buco che conduce ad una zona superiore... qualcuno
+potrebbe cadere di li' ma nessuno potrebbe risalirvi. Sei
+obbligato a procedere verso est o verso sud, ma il tuo buon
+senso ti ispira ad evitare quest'ultimo buio sentiero, che dopo
+pochi passi precipita in un'altra discesa verticale.
+~
+313 1024 0
+D1
+~
+~
+0 0 31340 0
+D4
+~
+~
+0 0 31335 0
+D5
+~
+~
+0 0 31339 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31339
+&6Un sentiero&0~
+E' molto buio, ma puoi vedere una piccola scala di adamianto che
+ti permette di procedere verso l'alto.
+Benche' la scala di adamianto sia un chiaro segno di presenza
+Drow intuisci che a sud questo pericolo e' ben piu' forte... e
+la scala sembra molto robusta ed invitante!
+~
+313 1024 0
+D2
+~
+~
+0 0 31312 0
+D4
+~
+~
+0 0 31338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31340
+&6In vista di un ricco villaggio&0~
+Vieni colpito dal contrasto del buio che ti lasci ad ovest e la
+ricchezza di pietre preziose e minerali d'ogni tipo che ti
+attende ad est. Anche se l'ambiente sembra abbastanza vuoto e
+spettrale l'ordine con cui ogni cosa e' tenuta tradisce la
+presenza di un nutrito gruppo di abitanti.
+~
+313 1024 0
+D1
+~
+~
+0 0 31341 0
+D3
+~
+~
+0 0 31338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31341
+&6Un cancello decorato&0~
+Vedi un robusto cancello di mithril innanzi a te che riuscirebbe
+a tener lontano qualsiasi Drow da questo insediamento. Il
+materiale adottato rivela la presenza di nani all'interno di
+questo villaggio, e inizi a credere che non sara' facile
+entrarvi.
+~
+313 1024 0
+D1
+~
+~
+0 0 31342 0
+D3
+~
+~
+0 0 31340 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31342
+&6Una strada nel villaggio&0~
+La strada corre diritta circondata da pareti rocciose, ma ne' il
+buio profondo che assorbe ogni luce ad ovest, ne' lo splendore di
+arredi che vedi ad est ti spingono a preferire una strada all'altra.
+Noti un incrocio verso est e un grosso cancello che risplende
+nell'oscurita' ad ovest.
+~
+313 1024 0
+D1
+~
+~
+0 0 31343 0
+D3
+~
+~
+0 0 31341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31343
+&6Un incrocio nel villaggio&0~
+Qui le pareti rocciose si allargano lasciando spazio ad un ampio
+incrocio. Nessuna delle strade sembra particolarmente invitante, e
+pur nel lusso che regna in questi posti traspare una certa
+sensazione di malvagita' degli abitanti.
+Ad est procedi verso un edificio basso che tradisce una presenza
+piuttosto massiccia di nani, mentre a nord e a sud si divincolano
+delle altre strade.
+~
+313 1024 0
+D0
+~
+~
+0 0 31346 0
+D1
+~
+~
+0 0 31344 0
+D2
+~
+~
+0 0 31358 0
+D3
+~
+~
+0 0 31342 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31344
+&6Un posto di guardia&0~
+Che confusione... tutto e' buttato alla rinfusa in questo posto.
+Sembra che le guardie che normalmente stanno a protezione del
+villaggio siano state chiamate con la massima urgenza in un altro
+luogo.
+Solo alcune son rimaste qui per vigilare alla grata che conduce
+verso il basso, deve contenere qualcosa di molto prezioso o molto
+pericoloso...
+~
+313 1024 0
+D3
+~
+~
+0 0 31343 0
+D5
+~
+grata~
+2 0 31345 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31345
+&6Una piccola prigione&0~
+Delle scure mura intagliate nella pietra ti circondano donando
+all'ambiente una sensazione di oppressione come non ne hai mai viste.
+Vedi delle grosse catene pendenti dalle mura a cingere inesorabili le
+caviglie di molti prigionieri, privandoli della liberta' e della
+speranza.
+~
+313 1024 0
+D4
+~
+grata~
+2 0 31344 9
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31346
+&6Una strada verso il nord del villaggio&0~
+Da qui si accede alla parte settentrionale del villaggio, mentre verso
+sud e' visibile uno scorcio del cancello occidentale.
+Una parte periferica delle attivita' economiche si trovano in questa
+ziona, tenute in vita dalla vena di argento poco distante da qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 31348 0
+D2
+~
+~
+0 0 31343 0
+D3
+~
+~
+0 0 31347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31347
+&6La gilda del fabbro&0~
+Il rumore di martelli al lavoro e' assordante! Molte abili mani stanno
+battendo una gran quantita' di materiali, soprattutto argento, per
+produrre armature d'ogni tipo, da guerra e ornamentali.
+Un acre odore di sudore permea questo luogo, e benche' la tua voglia
+di constatare l'ottima qualita' del lavoro nanesco sia molto alta, e'
+sopraffatta dalla necessita' di aria pura!
+~
+313 1024 0
+D1
+~
+~
+0 0 31346 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31348
+&6Una curva nella zona settentrionale del villaggio&0~
+La strada principale continua verso est e sud. Ad ovest puoi notare un
+altro edificio basso e fortificato, mentre ad est vedi la strada
+correre apparentemente senza fine.
+~
+313 1024 0
+D1
+~
+~
+0 0 31350 0
+D2
+~
+~
+0 0 31346 0
+D3
+~
+~
+0 0 31349 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31349
+&6Un posto di guardia&0~
+Questo luogo massicciamente fortificato serve ad impedire l'accesso
+agli indesiderati al villaggio. O sono stati cosi' astuti da capire
+che tu non serbavi grossi pericoli alla salute del villaggio o, piu'
+probabilmente, stavano facendo un riposino al tuo passaggio...
+~
+313 1024 0
+D1
+~
+~
+0 0 31348 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31350
+&6Il grosso incrocio nord&0~
+Le pareti rocciose si allargano creando uno spiazzo che collega piu'
+parti del villaggio. Una strada corre a lungo verso sud, per poi
+terminare davanti a un edificio incredibilmente lussuoso, ad est la
+strada continua apparentemente infinita e senza alcun edificio.
+A nord dopo pochi passi si entra in una scura caverna mentre ad ovest
+si procede verso un piccolo centro economico.
+~
+313 1024 0
+D0
+~
+~
+0 0 31351 0
+D1
+~
+~
+0 0 31387 0
+D2
+~
+~
+0 0 31353 0
+D3
+~
+~
+0 0 31348 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31351
+&6La fine settentrionale del sentiero&0~
+Qui il sentiero si interrompe a nord entrando in una buia caverna in
+cui senti dei picconi al lavoro. Un luccichio in quella direzione
+attira la tua anima da esploratore, ma l'edificio di gioielleria ad
+ovest sembra piu' tranquillo e forse anche piu' ricco.
+~
+313 1024 0
+D0
+~
+~
+0 0 8739 0
+D2
+~
+~
+0 0 31350 0
+D3
+~
+~
+0 0 31352 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31352
+&6Una gioielleria&0~
+Qui e' tutto stranamente ordinato e preciso. Alcuni esperti artigiani
+sono al lavoro per produrre gioielli d'ogni tipo e materiale, molti
+dei quali creati su spille o anelli d'argento proveniente dalla vicina
+miniera.
+Sembra che la tua intromissione abbia rovinato l'atmosfera e qualcuno
+se la potrebbe prendere a male...
+~
+313 1024 0
+D1
+~
+~
+0 0 31351 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31353
+&6Una strada da nord a sud&0~
+Qui la strada procede diritta da nord a sud. In lontananza vedi un
+enorme edificio dominare l'orizzonte, e uno sfavillante brillare di
+pietre preziose ti suggerisce che in quell'abitazione vi e' una
+ricchezza senza pari.
+Ad est noti invece brillare alcune lame, probabilmente asce.
+~
+313 1024 0
+D0
+~
+~
+0 0 31350 0
+D1
+~
+~
+0 0 31354 0
+D2
+~
+~
+0 0 31355 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31354
+&6Una bottega dell'armaiolo&0~
+Un gran numero d'armi d'ogni tipo e' appeso su una rastrelliera a
+muro. Spade, asce e mazze d'ogni misura e peso brillano nella scarsa
+illuminazione, il ferro che le rende solide deve essere mischiato a
+dell'argento per dar loro un simile effetto.
+Su un tavolo alcuni nani battono incessantemente il ferro per ricavare
+altre potenti armi.
+~
+313 1024 0
+D3
+~
+~
+0 0 31353 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31355
+&6Una strada da nord a sud&0~
+La strada continua diritta a nord, mentre a sud svolta improvvisamente
+verso est. Ormai vedi vicino a te verso sud-est il palazzo Reale
+Duergar, la cui ricchezza di arredi e decori trapela anche dalla sola
+facciata.
+Ad ovest vedi la gilda dei chierici mentre ad est uno spiazzale con
+vari manichini e armature.
+~
+313 1024 0
+D0
+~
+~
+0 0 31353 0
+D1
+~
+~
+0 0 31356 0
+D3
+~
+~
+0 0 31357 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31356
+&6Una zona di allenamento&0~
+Questo spiazzale rotondo e' pieno di manichini vestiti con pesanti
+armature sfigurate dai possenti colpi di mazza sferrati dagli
+apprendisti chierici.
+Anche molti tra guardie e guerrieri si allenano qui, infierendo sui
+corpi inermi con una ferocia che ti fa tremare.
+~
+313 1024 0
+D3
+~
+~
+0 0 31355 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31357
+&6La gilda dei chierici&0~
+L'aria qui e' stranamente calma. Vedi alcuni nani assorti in
+meditazione, altri che cercano la mazza piu' adatta alle loro
+capacita', ma tutti sono attenti a non far rumori particolari.
+Forse sarebbe opportuno non disturbare questa calma...
+~
+313 1024 0
+D1
+~
+~
+0 0 31355 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31358
+&6Una curva nella strada&0~
+Qui la strada curva, procedendo verso nord e verso est. Nessuna delle
+direzioni e' particolarmente attraente, benche' a nord sembra vi sia
+un'aria piu' stantia e tesa.
+Benche' non lo noti subito, verso sud si procede attraverso uno
+stretto passaggio ad una zona buia e sporca. Molti segni sono incisi
+con il sangue a monito, e ti senti tutt'altro che dell'umore per
+contraddirli.
+~
+313 1024 0
+D0
+~
+~
+0 0 31343 0
+D1
+~
+~
+0 0 31360 0
+D2
+~
+~
+0 0 31359 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31359
+&6Uno strettissimo passaggio&0~
+Che schifo! Ammassi di corpi son buttati un po' ovunque, e il sangue
+sembra stranemente vivo e affatto rappreso. Nulla ti fa pensare che
+qualcuno - o qualcosa - riesca a vivere qui intorno, e speri che se
+cosi' non e' riuscirai a scappare prima di incontrarlo!
+Spostando un cadavere trovi un buco che conduce verso il basso, e al
+rumore da te emesso risponde un tremendo boato. Era un ruggito?!?
+~
+313 1024 0
+D0
+~
+~
+0 0 31358 0
+D5
+~
+~
+0 0 8754 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31360
+&6Una strada nel sud del villaggio&0~
+La strada corre da est ad ovest, interrotta solo da un'entrata verso
+il nord.
+~
+313 1024 0
+D0
+~
+~
+0 0 31361 0
+D1
+~
+~
+0 0 31362 0
+D3
+~
+~
+0 0 31358 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31361
+&6Un posto di guardia&0~
+Qualche misera brandina domina l'arredo della stanza, e qualche veste
+da guardia giace ammonticchiata negli angoli sporchi.
+Una semplice stanza da guardie, priva di drappeggi e arricchimenti del
+paesaggio. Qualsiasi cosa tu cerchi, qui non la troverai di certo. A
+meno che tu non stia cercando la morte per mano delle guardie, ovvio.
+~
+313 1024 0
+D2
+~
+~
+0 0 31360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31362
+&6Una strada periferica&0~
+La strada ricavata da una caverna nella roccia continua a nord e a
+sud. Ha l'aspetto di una povera strada di periferia, sporca e utile
+per l'accesso ai luoghi di lavoro.
+La monotonia dell'assiduita' al lavoro dei duergar inizia ad
+annoiarti...
+~
+313 1024 0
+D0
+~
+~
+0 0 31366 0
+D2
+~
+~
+0 0 31363 0
+D3
+~
+~
+0 0 31360 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31363
+&6Una strada per i lavoratori&0~
+Questa via e' frequentata unicamente da coloro che si recano al
+proprio dovere di minatore. Invero molti di essi sono prigionieri che
+hanno un movimento limitato alla stessa strada, che divide le proprie
+stanze dalla gilda dei minatori.
+~
+313 1024 0
+D0
+~
+~
+0 0 31362 0
+D1
+~
+~
+0 0 31364 0
+D3
+~
+~
+0 0 31365 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31364
+&6La gilda dei minatori&0~
+Qualcuno riesce a lavorare qui?!?
+Tutto e' disordinato, e lamenti di stanchi prigionieri provengono un
+po' da ogni direzione. Di certo poche razze si abituano ai ritmi di
+lavoro imposto dai nani del sottosuolo...
+~
+313 1024 0
+D3
+~
+~
+0 0 31363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31365
+&6Le stanze dei prigionieri&0~
+Il rumore continuo delle pesanti catene trasportate dai prigionieri
+attira la tua attenzione: sembrerebbe quasi il triste canto di un
+fantasma schiavo della sua casa, se non fosse che i corpi incatenati
+davanti a te son vivi, anche se non sembrano destinato ad esserlo a
+lungo...
+Delle guardie ti osservano con fare minaccioso, forse e' meglio
+andarsene di qui finche' si potra' contare sulle proprie gambe...
+~
+313 1024 0
+D1
+~
+~
+0 0 31363 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31366
+&6L'accesso al centro del villaggio&0~
+La strada corre sempre uguale, ma verso nord noti un'apertura che da'
+accesso a una zona di continuo viavai. Ti rendi conto che il centro
+delle attivita' commerciali e cittadine si trova la'.
+Verso sud si accede alla zona periferica.
+~
+313 1024 0
+D0
+~
+~
+0 0 31367 0
+D2
+~
+~
+0 0 31362 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31367
+&6La piazza principale della citta'&0~
+Che confusione! Decine di Duergar camminano indaffarati per questa
+piazza, e ti guardano con aria losca. Di certo non sei il benvenuto
+qui, ma nessuno ha abbastanza tempo da intimarti alla fuga.
+Verso ovest puoi entrare nella bottega dell'armaiolo, ad est si
+prosegue per una via commerciale, a sud ci si inoltra verso la
+periferia mentre a nord un enorme edificio domina il paesaggio... deve
+essere molto pericolo avventurarsi la'.
+~
+313 1024 0
+D1
+~
+~
+0 0 31369 0
+D2
+~
+~
+0 0 31366 0
+D3
+~
+~
+0 0 31368 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31368
+&6La bottega dell'armaiolo&0~
+Mani esperte stanno forgiando un gran numero di armi mortali, e nella
+gran confusione riesci a sentire le urla di un vecchio Duergar a
+rimprovero dei giovani inesperti.
+Un acre odore di sudore permea l'ambiente, e l'aria stantia e'
+riscaldata dalla fatica dei lavoratori e dalle forge in azione. Le
+scintille dei martelli che battono sul Mithril sono l'unica
+illuminazione proveniente dall'interno.
+~
+313 1024 0
+D1
+~
+~
+0 0 31367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31369
+&6Una strada commerciale&0~
+Questa strada collega fra loro molte delle attivita' commerciali del
+villaggio, contribuendo alla presenza di una folta e utile rete
+viaria.
+Molti lavoratori camminano instancabili portando pietre di Mithril e
+prodotti finiti da una parte all'altra del villaggio.
+~
+313 1024 0
+D0
+~
+~
+0 0 31370 0
+D1
+~
+~
+0 0 31371 0
+D2
+~
+~
+0 0 31385 0
+D3
+~
+~
+0 0 31367 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31370
+&6La gilda del fabbro&0~
+Il rumore di martelli al lavoro e' assordante! Molte abili mani stanno
+battendo una gran quantita' di materiali per produrre armature d'ogni
+tipo, da guerra e ornamentali.
+Un acre odore di sudore permea questo luogo, e benche' la tua voglia
+di constatare l'ottima qualita' del lavoro nanesco sia molto alta, e'
+sopraffatta dalla necessita' di aria pura!
+~
+313 1024 0
+D2
+~
+~
+0 0 31369 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31371
+&6L'incrocio sud-orientale&0~
+Altre due strade si intersecano, quella commerciale, ad ovest, e una
+piu' piccola che taglia il lato orientale da sud a nord. In lontananza
+verso sud vedi un grosso cancello, forse un'entrata della citta'.
+Piu' vicino un piccolo ma brulicante edificio e' circondato da
+macchinari di vario tipo e misura.
+~
+313 1024 0
+D0
+~
+~
+0 0 31372 0
+D2
+~
+~
+0 0 31375 0
+D3
+~
+~
+0 0 31369 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31372
+&6La strada orientale da sud a nord&0~
+La strada corre piccola e monotona in senso longitudinale. Ad ovest
+vedi un piccolo edificio dal quale due vispi occhi ti controllano,
+mentre verso nord trovi un'altra via tagliare il villaggio in senso
+latitudinale.
+Ti senti in dovere di non compiere scorrettezze se non vuoi incorrere
+nell'ira dei vigilanti...
+~
+313 1024 0
+D0
+~
+~
+0 0 31374 0
+D2
+~
+~
+0 0 31371 0
+D3
+~
+~
+0 0 31373 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31373
+&6Un posto di guardia&0~
+Molti occhi attenti ti osservano mentre entri qui dentro...
+Di certo esistevano scelte piu' sagge...
+~
+313 1024 0
+D1
+~
+~
+0 0 31372 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31374
+&6La strada orientale da est ad ovest&0~
+La strada corre sempre uguale ad est da ormai molte centinaia di
+metri, ma improvvisamente si blocca contro un enorme palazzo,
+leggermente oscurato dalle nebbie emanate dalla fucina qui vicino.
+Si deve trattare certamente del palazzo reale, e ti guardi bene dal
+visitarlo senza motivo...
+~
+313 1024 0
+D1
+~
+~
+0 0 31378 0
+D2
+~
+~
+0 0 31372 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31375
+&6La strada orientale da sud a nord&0~
+La strada corre sempre uguale, ma attira la tua attenzione l'enorme
+cancello che si staglia a sud. Deve servire ad accedere a una zona
+molto preziosa, o contenerne una molto pericolosa...
+~
+313 1024 0
+D0
+~
+~
+0 0 31371 0
+D1
+~
+~
+0 0 31376 0
+D2
+~
+~
+0 0 31377 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31376
+&6L'officina dei macchinari da guerra&0~
+Il lavoro qui e' incessante. Molte abili mani limano, bilanciano e
+infine montano assi e travi di legno a formare strani e complicati
+macchinari in grado di conferire grande potenza d'assalto alle milizie
+dei nani.
+Sei fortunato che non ne venga usata alcuna per assicurare l'ordine
+interno, altrimenti le tue birichinate sarebbero state ripagate molto
+amaramente...
+~
+313 1024 0
+D3
+~
+~
+0 0 31375 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31377
+&6L'imponente cancello meridionale&0~
+Questo enorme &9&bcancello&0 di Mithril copre ogni minimo spazio del
+passaggio verso sud, e le sbarre sono molto vicine come a scongiurarne
+il passaggio di ogni piu' piccola creatura.
+Il lucchetto e' massiccio, e l'unica chiave di certo e' cosi' ben
+nascosta che tu piccolo umano non potrai mai aprire questo cancello.
+Rassegnati alla tua vita da piccolo essere.
+~
+313 1024 0
+D0
+~
+~
+0 0 31375 0
+D2
+~
+~
+0 0 8747 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31378
+&6La strada orientale da est ad ovest&0~
+Questa lunga strada continua interminabile in senso latitudinale,
+interrotta a nord da un piccolo edificio da cui escono continuamente
+duergar armati.
+Di certo si tratta di un'officina di qualche tipo.
+~
+313 1024 0
+D0
+~
+~
+0 0 31379 0
+D1
+~
+~
+0 0 31380 0
+D3
+~
+~
+0 0 31374 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31379
+&6L'officina dell'armaiolo&0~
+Un rumoroso battiti di martelli al lavoro ti accoglie, meno possente e
+fragoroso del solito e quasi dolce e armonico nel suo ritmo
+incessante.
+Qui devono essere prodotte meno armi che in altre parti della citta',
+ma il vicino giacimento d'oro rende molte di queste oggetti da
+collezione.
+~
+313 1024 0
+D2
+~
+~
+0 0 31378 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31380
+&6La strada orientale da est ad ovest&0~
+La strada diventa improvvisamente piu' piccola verso est, e accede a
+uno spazio stretto tra due pareti di roccia, forse una miniera...
+Il buio ti ha ormai stancato, speri sia un'uscita, ma l'oscurita' che
+proviene da li' sembra ancora piu' fitta di quella che ti avvolge...
+~
+313 1024 0
+D0
+~
+~
+0 0 31382 0
+D1
+~
+~
+0 0 8745 0
+D2
+~
+~
+0 0 31381 0
+D3
+~
+~
+0 0 31378 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31381
+&6La gilda dei gioiellieri&0~
+Un luccichio illumina debolmente l'ambiente, ogni piu' piccolo fascio
+di luce viene riflesso in ogni direzione da pietre abilmente
+sfaccettate dando un minimo di luce a questa caverna.
+Molte abili mani sono al lavoro per creare preziosi manufatti, e
+capisci il motivo della cosi' ottima fama dei gioiellieri nanici.
+~
+313 1024 0
+D0
+~
+~
+0 0 31380 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31382
+&6La gilda dei minatori&0~
+Molti schiavi son usati per il pesantissimo lavoro di miniera, che
+persino pochi duergar accettano di compiere di buon grado. Drow,
+giganti e gnomi in catene lavorano senza sosta, seppure con risultati
+molto minori a quelli che una manciata di Duergar avrebbe prodotto...
+~
+313 1024 0
+D2
+~
+~
+0 0 31380 0
+D5
+~
+~
+0 0 31383 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31383
+&6Le stanze dei prigionieri&0~
+Molti prigionieri giacciono agonizzanti sulle brandine, e un rumore
+come un unico gemito ti assale appena entri in questa stanza. Un
+cigolio di catene rende i suoni di questa stanza ancora piu' tristi, e
+inizi a desiderare di uscire di qui al pi presto.
+~
+313 1024 0
+D4
+~
+~
+0 0 31382 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31384
+&6La lunga strada nord-orientale&0~
+Ogni particolare di questa zona del villaggio e' semplicemente
+immenso. La strada corre senza fine a sud e a nord, completamente
+spoglia e incontrando solo saltuariamente qualche incrocio.
+Di qui una strada imponente procede verso est, arrivando ad un
+maestoso cancello.
+~
+313 1024 0
+D0
+~
+~
+0 0 31387 0
+D1
+~
+~
+0 0 31386 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31385
+&6La gilda dei guerrieri&0~
+Grossi nani fanno vibrare spade e asce che battono contro bersagli
+metallici creando un continuo e terrible frastuono. Manichini protetti
+con armature ridotte a distorti pezzi di metallo vibrano per alcuni
+minuti, e ti inizi a chiedere cosa succederebbe se al suo posto ci
+fosse la tua testa con quel misero elmetto che porti...
+~
+313 1024 0
+D0
+~
+~
+0 0 31369 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31386
+&6L'entrata orientale&0~
+Questo cancello e' davvero enorme! Serve a contenere qualcosa di
+davvero prezioso, o estremamente pericoloso... La fattura, la
+riconosci, e' quella dei nani Duergar, davvero mirabile.
+Inizi a pensare seriamente a far ritorno al luogo dal quale provieni,
+di certo piu' sicuro di quello che ti aspetta oltre questo cancello...
+~
+313 1024 0
+D1
+~
+~
+0 0 8744 0
+D3
+~
+~
+0 0 31384 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31387
+&6La lunga strada nord-orientale&0~
+Sei sfinito! Qui le strade corrono tutte senza fine e sempre uguali, e
+benche' siano poche per potersi perdere, son davvero faticose da
+percorrere!
+Ammiri ed invidi la proverbiale resistenza dei nani...
+~
+313 1024 0
+D0
+~
+~
+0 0 8741 0
+D2
+~
+~
+0 0 31384 0
+D3
+~
+~
+0 0 31350 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31388
+&6L'entrata ovest al palazzo reale&0~
+Sei giunto all'entrata del palazzo reale. Qui la strada si allarga
+lasciando spazio ad una grossa caverna, arredata dai nani Duergar con
+preziose pietre e abbondanti arredi.
+Verso ovest puoi tornare sui tuoi passi, mentre verso il basso noti un
+luccichio ben diverso da quello delle pietre preziose... Non esistono
+altre uscite, o almeno sono precluse ai tuoi occhi di visitatore...
+~
+313 1024 0
+D3
+~
+~
+0 0 31355 0
+D5
+~
+~
+0 0 8709 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31389
+&6L'entrata sud al palazzo reale&0~
+Sei giunto all'entrata del palazzo reale. Qui la strada si allarga
+lasciando spazio ad una grossa caverna, arredata dai nani Duergar con
+preziose pietre e abbondanti arredi.
+Verso sud puoi tornare sui tuoi passi, mentre verso il basso noti un
+luccichio ben diverso da quello delle pietre preziose... Non esistono
+altre uscite, o almeno sono precluse ai tuoi occhi di visitatore...
+~
+313 1024 0
+D2
+~
+~
+0 0 31384 0
+D5
+~
+~
+0 0 31396 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31390
+&6L'entrata est al palazzo reale&0~
+Sei giunto all'entrata del palazzo reale. Qui la strada si allarga
+lasciando spazio ad una grossa caverna, arredata dai nani Duergar con
+preziose pietre e abbondanti arredi.
+Verso est puoi tornare sui tuoi passi, mentre verso l'alto noti un
+luccichio ben diverso da quello delle pietre preziose... Non esistono
+altre uscite, o almeno sono precluse ai tuoi occhi di visitatore...
+~
+313 1024 0
+D1
+~
+~
+0 0 31374 0
+D5
+~
+~
+0 0 8701 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31391
+&6L'entrata nord al palazzo reale&0~
+Sei giunto all'entrata del palazzo reale. Qui la strada si allarga
+lasciando spazio ad una grossa caverna, arredata dai nani Duergar con
+preziose pietre e abbondanti arredi.
+Verso nord puoi tornare sui tuoi passi, mentre verso il basso noti un
+luccichio ben diverso da quello delle pietre preziose... Non esistono
+altre uscite, o almeno sono precluse ai tuoi occhi di visitatore...
+~
+313 1024 0
+D0
+~
+~
+0 0 31367 0
+D5
+~
+~
+0 0 8705 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31392
+&6Perso tra gli specchi!&0~
+Il terreno su cui poggi i piedi inizia a diventare sempre piu'
+scivoloso, finche' il tuo corpo inizia a scorrere inerme sulla liscia
+superficie.
+Ormai ti risulta impossibile fermarti, e ti accorgi che ad attenderti
+in fondo alla discesa vi sono molti vetri acuminati...
+Addio folle avventuriero, i tesori del re non ti apparterranno mai!
+~
+313 1026 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#31393
+&6Perso tra gli specchi!&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 8709 0
+D1
+~
+~
+0 0 31394 0
+D2
+~
+~
+0 0 8701 0
+D3
+~
+~
+0 0 31388 0
+D4
+~
+~
+0 0 31392 0
+D5
+~
+~
+0 0 31392 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31394
+&6Perso tra gli specchi!&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 31392 0
+D1
+~
+~
+0 0 31392 0
+D2
+~
+~
+0 0 8706 0
+D3
+~
+~
+0 0 31392 0
+D4
+~
+~
+0 0 31395 0
+D5
+~
+~
+0 0 31393 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31395
+&6Perso tra gli specchi!&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 8710 0
+D5
+~
+~
+0 0 31388 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31396
+&6Discesa verso i sotterranei&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 31397 0
+D1
+~
+~
+0 0 31392 0
+D2
+~
+~
+0 0 31392 0
+D3
+~
+~
+0 0 8702 0
+D4
+~
+~
+0 0 8709 0
+D5
+~
+~
+0 0 31389 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31397
+&6Perso tra gli specchi!&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 31398 0
+D1
+~
+~
+0 0 8705 0
+D2
+~
+~
+0 0 31392 0
+D3
+~
+~
+0 0 31396 0
+D4
+~
+~
+0 0 31391 0
+D5
+~
+~
+0 0 31392 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31398
+&6Perso tra gli specchi!&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D0
+~
+~
+0 0 31390 0
+D1
+~
+~
+0 0 31394 0
+D2
+~
+~
+0 0 31399 0
+D3
+~
+~
+0 0 31392 0
+D4
+~
+~
+0 0 31392 0
+D5
+~
+~
+0 0 31396 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31399
+&6Perso tra gli specchi!&0~
+Appena entri perdi completamente la cognizione del luogo in cui ti
+trovi. Migliaia di immagini ti circondano, tutte uguali, ti sviano
+completamente.
+Ti armi di pazienza e cerchi una strada per uscire di qui.
+~
+313 1024 0
+D1
+~
+~
+0 0 31389 0
+D2
+~
+~
+0 0 8710 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

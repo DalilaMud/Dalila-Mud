@@ -1,0 +1,350 @@
+#13001
+Entrata del Castello di Gilead~
+   Ti trovi all'entrata dell'antico Castello di Gilead, sede del clan La Torre Nera.
+al portone d'ingresso c'e' un'incisione vecchia quanto il castello: Onore e Lealta'.
+
+
+  _     _                 _     _
+  \^^^^^/                 \^^^^^/
+   |   |                   |   |
+   |   |_  _  _  _  _  _  _|   |
+    \    \/ \/ \/ \/ \/ \/    /
+     |                       |
+     |                       |
+     |    Onore e Lealta'    |
+     |         ____          |
+     |        |####| La Torre|
+     |        |####|   Nera  |
+    /         |####|          \
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~
+130 0 0
+D0
+~
+~
+0 -1 13002
+D1
+~
+~
+0 -1 1499511
+S
+#13002
+Cortile~
+
+~
+130 0 0
+D0
+~
+~
+0 -1 13005
+D1
+~
+~
+0 -1 13003
+D2
+~
+~
+0 -1 13001
+D3
+~
+~
+0 -1 13004
+S
+#13003
+Stanza delle Guardie~
+
+~
+130 0 0
+D3
+~
+~
+0 -1 13002
+S
+#13004
+Stalla~
+
+~
+130 0 0
+D1
+~
+~
+0 -1 13002
+S
+#13005
+Salone principale~
+
+~
+130 0 0
+D0
+~
+~
+0 -1 13006
+D2
+~
+~
+0 -1 13002
+D4
+~
+~
+0 -1 13009
+S
+#13006
+Cortile interno~
+
+~
+130 0 0
+D0
+~
+~
+0 -1 13007
+D2
+~
+~
+0 -1 13005
+D5
+~
+grata metallica~
+2 13001 13022
+S
+#13007
+Cortile della Prova~
+Qui i membri del clan devono superare le prove per passare di grado.
+La prova si affronta da soli ,chi non la supera perde il suo onore.
+~
+130 0 0
+D1
+~
+~
+0 -1 13008
+D2
+~
+~
+0 -1 13006
+S
+#13008
+Cortile della Prova~
+Qui i membri del clan devono superare le prove per passare di grado.
+La prova si affronta da soli ,chi non la supera perde il suo onore.
+~
+130 0 0
+D3
+~
+~
+0 -1 13007
+S
+#13009
+Primo piano~
+Sei al Primo piano del Castello di Gilead.
+~
+130 0 0
+D1
+~
+~
+0 -1 13010
+D5
+~
+~
+0 -1 13005
+S
+#13010
+Corridoio del Primo piano~
+Sei al Primo piano del Castello di Gilead.
+~
+130 0 0
+D0
+~
+~
+0 -1 13011
+D1
+~
+~
+0 -1 13012
+D3
+~
+~
+0 -1 13009
+S
+#13011
+Stanze da letto~
+Qui i membri del clan riposano.
+~
+130 0 0
+D2
+~
+~
+0 -1 13010
+S
+#13012
+Corridoio del Primo piano~
+Sei al Primo piano del Castello di Gilead.
+~
+130 0 0
+D0
+~
+~
+0 -1 13013
+D1
+~
+porta di legno massicio~
+2 13001 13015
+D2
+~
+~
+0 -1 13014
+D3
+~
+~
+0 -1 13010
+S
+#13013
+Magazzino del Clan~
+Qui i membri del clan possono trovare armi ed equipaggiamento.
+~
+130 0 0
+D2
+~
+~
+0 -1 13012
+S
+#13014
+Sala delle Riunioni del Clan~
+In questo salone si tengono le riunioni del Clan.Un cartello appeso al muro ricorda il motto del Clan:Onore e Lealta'.
+~
+130 0 0
+D0
+~
+~
+0 -1 13012
+S
+#13015
+Torre del Castello ~
+Sei al Primo piano : salendo arrivi all'ala privata del castello.
+~
+130 0 0
+D3
+~
+porta~
+1 13001 13012
+D4
+~
+~
+0 -1 13016
+S
+#13016
+Torre del Castello~
+Sei al Secondo piano : questa e' l'ala privata del castello.
+~
+130 0 0
+D3
+~
+~
+0 -1 13017
+D5
+~
+~
+0 -1 13015
+S
+#13017
+Corridoio del Secondo piano~
+Sei al Secondo piano del Castello di Gilead.
+~
+130 0 0
+D1
+~
+~
+0 -1 13016
+D3
+~
+~
+0 -1 13018
+S
+#13018
+Corridoio del Secondo piano~
+Sei al Secondo piano del Castello di Gilead.
+~
+130 0 0
+D0
+~
+~
+0 -1 13019
+D1
+~
+~
+0 -1 13017
+D2
+~
+~
+0 -1 13020
+D3
+~
+~
+0 -1 13021
+S
+#13019
+Magazzino specializzato~
+In questo magazzino trovi equipaggiamento ed armi veramente buoni.
+~
+130 0 0
+D2
+~
+~
+0 -1 13018
+S
+#13020
+Sala dei Consigli~
+Qui vengono prese le decisioni del Clan.Un cartello appeso al muro ricorda il motto del Clan:Onore e Lealta'
+~
+130 0 0
+D0
+~
+~
+0 -1 13018
+S
+#13021
+Stanza Privata di Roland~
+Empty~
+130 0 0
+D1
+~
+~
+0 -1 13018
+S
+#13022
+Segrete del Castello di Gilead~
+Sei sottoterra , nella parte riservata ai prigionieri.
+~
+130 0 0
+D0
+~
+~
+0 -1 13023
+D2
+~
+~
+0 -1 13024
+D4
+~
+grata~
+1 13001 13006
+S
+#13023
+Cella~
+Questa cella e' a prova di fuga :rassegnati.
+~
+130 0 0
+D2
+~
+~
+0 -1 13022
+S
+#13024
+Cella~
+Questa cella e' a prova di fuga :rassegnati.
+~
+130 0 0
+D0
+~
+~
+0 -1 13022
+S
+$~

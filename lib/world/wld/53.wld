@@ -1,0 +1,1591 @@
+#5300
+Un tunnel buio e stretto~
+   Qualcuno deve aver scavato questo ripido tunnel a prezzo di molta fatica.  
+Non sembra aver badato molto alla comodita' visto che riesci appena a passarci
+ed i gradini che ti consentono di salire sono stati intagliati molto
+rozzamente.    
+   Il tunnel termina davanti ad una parete rocciosa.
+~
+53 256 2
+D1
+La parete rocciosa sembra lasciar passare un po' d'aria.
+~
+porta segreta~
+1 0 5316 3
+D3
+Vedi una piccola caverna.
+~
+~
+0 0 5318 0
+E
+pyramid~
+The massive pyramid rises out of the sand, a monument to long-dead pharoahs.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5301
+Ai piedi della grande Piramide~
+   L'immensa mole della piramide torreggia sopra di te.  I suoi enormi blocchi
+di pietra sono stati levigati e resi quasi indistinguibili gli uni dagli altri
+dal vento del deserto e dalla sabbia che ha riempito i punti di contatto.  Il
+lato della piramide e' fornato da alti gradini.  Forse sei in grado di
+scalarli.  Un PAPIRO arrotolato e' stato affisso sul primo gradino.  Forse e'
+il caso che tu lo legga.    
+~
+53 4 2
+D2
+~
+~
+0 0 1404524 0
+D4
+Il gradino di pietra della piramide si trova di fronte a te.
+~
+~
+0 -1 5302 0
+E
+papiro~
+   ...  Sono giorni ormai che spero nel ritorno del mio compagno di
+avventure...  Da quando ha messo il piede sulle PIETRE PERICOLOSE non si e'
+piu' visto....  ...  Ormai ho perso ogni speranza....  Portero' i suoi pochi
+averi a sua madre.  Memorie di un avventuriero.    
+~
+E
+piramide~
+Ti chiedi chi possa aver costruito una cosa cosi' grande in questo inferno di calore.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5302
+Scalando la Grande Piramide~
+   Aria calda giunge dai fianchi della piramide ed il vento porta sabbia e
+polvere ad urtare contro di te.  Sei quasi arrivato alla met del fianco della
+costruzione.  Le pareti della piramide sono ancora costituite da altri gradini.
+  
+~
+53 0 5
+D0
+Se ti sporgi puoi riuscire a passare sul fianco settentrionale della piramide.
+  
+~
+~
+0 -1 5303 0
+D2
+If you are daring you could try to skirt around to the southern side.
+~
+~
+0 -1 5304 0
+D4
+Sembra molto pericoloso tentare di salire ancora.    
+~
+~
+0 -1 5307 0
+D5
+Molto in basso vedi la sabbia bollente del deserto.
+~
+~
+0 -1 5301 0
+E
+piramide~
+Ti chiedi chi possa aver costruito una cosa cosi' grande in questo inferno di
+calore.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5303
+Scalando la Grande Piramide~
+   Aria calda giunge dai fianchi della piramide ed il vento porta sabbia e
+polvere ad urtare contro di te.  Le pareti della piramide sono formate da
+gradini abbastanza alti e riesci a scalarli solo con difficolta' rischiando
+continuamente di scivolare di sotto.    
+~
+53 0 5
+D1
+Se ti sporgi puoi riuscire a passare sul fianco orientale della piramide.    
+~
+~
+0 -1 5305 0
+D3
+Se ti sporgi puoi riuscire a passare sul fianco occidentale della piramide.  
+
+~
+~
+0 -1 5302 0
+D4
+Sembra molto pericoloso salire ancora.    
+~
+~
+0 -1 5307 0
+D5
+Questo fianco della piramide presenta delle rocce verso il basso su cui rischi
+di schiantarti scendendo.    
+~
+~
+0 -1 5307 0
+E
+pyramid~
+You wonder how anyone could have built such a massive thing out in this
+heat.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5304
+Scalando la Grande Piramide~
+ Aria calda giunge dai fianchi della piramide ed il vento porta sabbia e
+polvere ad urtare contro di te.  Le pareti della piramide sono formate da
+gradini abbastanza alti e riesci a scalarli solo con difficolta' rischiando
+continuamente di scivolare di sotto.
+~
+53 0 5
+D1
+Se ti sporgi puoi riuscire a passare sul fianco orientale della piramide.
+~
+~
+0 -1 5305 0
+D3
+Se ti sporgi puoi riuscire a passare sul fianco occidentale della piramide.  
+
+~
+~
+0 -1 5302 0
+D4
+Sembra molto pericoloso continuare a salire.
+~
+~
+0 -1 5307 0
+D5
+Proprio sotto questo fianco della piramide sono delle rocce appuntite, e
+scendendo potresti facilmente perdere la presa e scivolare di sotto.    
+~
+~
+0 -1 5307 0
+E
+piramide~
+Ti chiedi chi possa aver costruito un edificio cos imponente in questo inferno
+di calore.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5305
+Scalando la Grande Piramide~
+Qui sul fianco orientale della piramide c'e' poco riparo dal vento e dal
+calore.  La pietra e' stata resa meno liscia dal tempo e pensi di essere in
+grado di raggiungere la cima dell'edificio da qui.    
+~
+53 0 5
+D0
+Se ti sporgi dovresti riuscire a raggiungere il lato settentrionale della
+piramide.    
+~
+~
+0 -1 5303 0
+D2
+Se ti sporgi dovresti riuscire a raggiungere il lato meridionale della
+piramide.    
+~
+~
+0 -1 5304 0
+D4
+Vedi la cima della piramide diverse centinaia di metri piu' su.
+~
+~
+0 -1 5306 0
+D5
+Sotto questo lato della piramide ci sono delle rocce e provare a scendere da
+qui potrebbe essere molto pericoloso.    
+~
+~
+0 -1 5307 0
+E
+piramide~
+Ti chiedi chi possa aver costruito un edificio cosi' imponente in mezzo a
+questo calore.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5306
+La cima della Grande Piramide~
+   Sudando copiosamente se riuscito a raggiungere la cima della grande
+piramide.  I quattro fianchi della costruzione scendono verso il basso fino
+alla calda sabbia del deserto.    
+Una placca e' stata posta quassu'.
+~
+53 0 1
+D0
+Il lato nord della piramide sembra molto ripido e scendere da qui potrebbe
+costituire un grosso rischio.    
+~
+~
+0 -1 5307 0
+D1
+Il fianco orientale della piramide scende verso la sabbia del deserto.
+~
+~
+0 -1 5305 0
+D2
+Il lato sud della piramide sembra molto ripido e scendere da qui potrebbe
+costituire un grosso rischio.    
+~
+~
+0 -1 5307 0
+D3
+Il lato ovest della piramide sembra molto ripido e scendere da qui potrebbe
+costituire un grosso rischio.    
+~
+~
+0 -1 5307 0
+D5
+Vedi delle pietre, unite tra loro, formare una superficie ruvida. 
+~
+pietre~
+1 -1 5308 3
+E
+pietre~
+Quando guardi le pietre piu' da vicino vedi un buco in basso, al centro delle
+pietre.  Con un po' di fatica dovresti riuscire a spostare la pietra ed
+entrare.    
+~
+E
+placca~
+La placca recita:
+
+                       La Grande Piramide
+
+                Opera dell'architetto Andersen
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5307
+Pietre Pericolose~
+   Qui la furia degli elementi ha divorato parte del fianco della piramide.  I
+tuoi piedi non trovano facilmente un punto sicuro in cui poggiarsi...  
+All'improvviso il vento si abbatte su di te con la sua furia e tu perdi
+l'equilibrio.  Rotoli giu' lungo il fianco della piramide e, cadendo, trovi la
+morte!    
+
+SPLAT
+~
+53 10 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#5308
+Una scala~
+   Stai scendendo verso il fondo della piramide per una antica scala.  L'aria
+intorno a te e' pesante e c'e' odore di muffa.  Sopra di te vedi un tenue
+bagliore che giunge dalle pietre del soffitto.    
+~
+53 12 0
+D4
+Vedi le pietre del soffitto.
+~
+pietre~
+1 -1 5306 3
+D5
+You see a small dusty chamber.
+Vedi una piccola stanza polverosa.
+~
+~
+0 -1 5309 0
+E
+pietre~
+Quando osservi le pietre piu' da vicino vedi un foro al centro di esse, proprio
+sopra la tua testa.  Con qualche sforzo dovresti riuscire a far leva e
+sollevare una delle pietre per uscire.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5309
+Una stanza piena di muffa~
+   Ti trovi in una stanza buia e pervasa da un forte odore di muffa.  Delle
+impronte e altri strani segni sono visibili nella polvere del pavimento.  
+Sembra che qualche custode della piramide vi viva ancora.  Le uscite vanno in
+tutte le direzioni.  Sulla porta ad ovest c'e' un'iscrizione.    
+~
+53 8 0
+D0
+Vedi un piccolo cunicolo che si apre nella parete a circa 1 metro dal suolo.  
+
+~
+~
+0 -1 5312 0
+D1
+Un corridoio coperto di polvere si dirige verso est.
+~
+~
+0 -1 5339 0
+D2
+Vedi una piccola rottura nella parete attraverso cui dovresti riuscire a
+passare.    
+~
+~
+0 -1 5324 0
+D3
+Vedi una grossa porta di pietra, coperta di segni e geroglifici.
+~
+porta pietra~
+1 -1 5310 3
+D4
+Una piccola scala sale verso l'alto.
+~
+~
+0 -1 5308 0
+E
+pietra porta~
+La porta di pietra e' coperta di strani segni e geroglifici che sembrano
+metterti in guardia dal proseguire.    
+~
+E
+segni geroglifici iscrizione~
+Non riesci a decifrare i segni che coprono la porta, ma la maggior parte di
+essi sembra rappresentare scene con del fuoco e gigantesche creature di forza
+tremenda.  Hai la sensazione che questi segni siano un avvertimento.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5310
+La pozza del fuoco~
+   Questa stanza e' quasi interamente occupata da una gigantesca pozza piena
+non d'acqua, ma di fiamme che producono un intenso calore.  Le fiamme
+multicolori quasi ti toccano, in cerca di qualcosa da bruciare.  La pozza
+continua verso est dove sembra esserci una piccola stanza.    
+~
+53 12 0
+D1
+Vedi una grossa porta di pietra.
+~
+porta pietra~
+1 -1 5309 3
+D3
+Vedi una piccola stanza dove sembra ardere un grosso fuoco.
+~
+~
+0 -1 5311 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5311
+La stanza dell'Efreeti~
+   Sei riuscito ad attraversare la pozza di fuoco e sei giunto in una piccola
+stanza dalle pareti di pietra.  Qui le fiamme sono alte quasi quanto la tua
+testa e danzano di fronte alla tua faccia, trasformando immediamente il tuo
+sudore in vapore.    
+~
+53 8 0
+D1
+La pozza di fuoco sembra finire ad est.
+~
+~
+0 -1 5310 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5312
+Uno stretto cunicolo~
+   Ti sei dovuto inginocchiare e hai dovuto procedere a carponi per entrare in
+questo spazio angusto.  Il cunicolo e' pieno di sabbia, polvere e delle
+impronte di altre creature.    
+~
+53 9 0
+D0
+Il cunicolo continua verso nord.
+~
+~
+0 -1 5313 0
+D2
+Il cunicolo finisce a sud, sbucando in una stanza piena di muffa.
+~
+~
+0 -1 5309 0
+D4
+Un piccolo foro sopra la tua testa conduce in una stanza buia.
+~
+~
+0 -1 5337 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5313
+Uno stretto cunicolo~
+   Stai strisciando a carponi all'interno di un piccolo cunicolo che attraversa
+le possenti mura della piramide.  Il cunicolo e' pieno di sabbia, polvere e di
+impronte di altre creature.    
+~
+53 9 0
+D2
+Il cunicolo continua verso sud.
+~
+~
+0 -1 5312 0
+D3
+Il cunicolo continua verso ovest.
+~
+~
+0 -1 5314 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5314
+Uno stretto cunicolo~
+   Stai strisciando a carponi all'interno di un piccolo cunicolo che attraversa
+le possenti mura della piramide.  Il cunicolo e' pieno di sabbia, polvere e di
+impronte di altre creature.    
+~
+53 9 0
+D1
+Il cunicolo continua verso est.
+~
+~
+0 -1 5313 0
+D3
+Il cunicolo diventa un po' piu' stretto verso ovest.
+~
+~
+0 -1 5315 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5315
+Una strettoia nel cunicolo~
+   Qui sei costretto a strisciare sul tuo petto visto che sei giunto ad una
+sezione del cunicolo particolarmente stretta.  Sotto di te c'e' un piccolo buco
+che si apre sull'oscurita'.    
+~
+53 9 0
+D1
+Il cunicolo si allarga un po' verso est.
+~
+~
+0 -1 5314 0
+D2
+Il cunicolo continua a restringersi verso sud.
+~
+~
+0 -1 5316 0
+D5
+Il foro sembra molto scivoloso e scuro.
+~
+~
+0 -1 5317 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5316
+La fine del cunicolo~
+   Il cunicolo termina davanti a te con un blocco di pietra.  Solo un piccolo
+serpente potrebbe proseguire verso sud.  C'e' spazio sufficiente per girarti e
+tornare indietro verso nord.    
+~
+53 9 0
+D0
+Il cunicolo si allarga un po' verso nord.
+~
+~
+0 -1 5315 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5317
+Un'apertura scivolosa~
+   Le pareti di questo cunicolo sono scivolose.  Cominci a scendere verso il
+basso con cautela...  Ma quasi subito manchi la presa!    
+
+Cadi per quello che ti sembra un'eternita', scivolando verso il basso sulle pietre...
+~
+53 13 0
+D2
+Vedi una piccola stanza coperta di ossa.
+~
+~
+0 -1 5318 0
+D4
+The hole looks far too slippery to climb back up.
+~
+~
+0 -1 -1 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5318
+Sotto all'apertura~
+   Ti trovi in una piccola stanza posta sotto l'apertura scivolosa, molto
+distante dalla cima della piramide.  Il pavimento e' coperto di ossa.  A sud
+c'e' un piccolo crepaccio.    
+~
+53 9 0
+D1
+Uno strettissimo tunnel sale nell'oscurita' poco ad est.
+~
+~
+0 0 5300 0
+D2
+Vedi un crepaccio roccioso che scende in profondita' nelle viscere della piramide.
+~
+~
+0 -1 5319 0
+D4
+The hole looks far too slippery to climb back up.
+~
+~
+0 -1 -1 0
+E
+ossa~
+Le ossa sono secche a causa dell'aria secca che qui si respira.  Probabilmente
+appartengono a qualche avventuriero o forse a ladri o altre creature che non
+sono sopravvissute alla caduta.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5319
+Un crepaccio roccioso~
+   Stai esplorando lo strano crepaccio roccioso che scende verso il basso,
+nelle viscere della piramide.  Verso sud vedi la luce di un fuoco, mentre il
+crepaccio continua verso il basso.    
+~
+53 8 0
+D0
+Vedi una piccola stanza dalle pareti rocciose e piena di ossa.    
+~
+~
+0 -1 5318 0
+D2
+Vedi la tremula luce di un fuoco.
+~
+~
+0 -1 5320 0
+D5
+Il crepaccio continua verso il basso nell'oscurita'.
+~
+~
+0 -1 5321 0
+E
+roccioso~
+Quando osservi la roccia del crepaccio, i tuoi occhi sono attirati da un
+luccicchio.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5320
+Un piccolo fuoco~
+   Qui arde tra le rocce un piccolo fuoco, fornendo calore e una debole luce
+alla stanza, fredda, scura e dall'aria secca.  Qui si trova un uomo dall'aria
+strana che ti guarda sinistramente.    
+~
+53 8 0
+D0
+Vedi un massiccio crepaccio che continua nell'oscurita'.
+~
+~
+0 -1 5319 0
+E
+vecchio uomo~
+Il vecchio uomo sembra essere rimasto intrappolato qui molto tempo fa e non
+deve avere tutte le rotelle a posto.  Si muove lentamente, parlando da solo.  
+
+
+Si volta verso di te e grida "stai lontano! stai lontano!', poi si
+volta e si risiede accanto al fuoco.
+
+'Che persona strana', pensi tra te.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5321
+Lungo il crepaccio~
+   Il crepaccio procede verso il basso nell'oscurita'.  L'aria sopra di te e'
+ora fredda e molto secca, e la tua luce comincia a spegnersi a causa della
+fredda brezza che spira dal basso.    
+~
+53 9 0
+D4
+E' troppo buio perche' tu possa vedere qualcosa.    
+~
+~
+0 -1 5319 0
+D5
+E' troppo buio per vedere qualcosa.
+~
+~
+0 -1 5322 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5322
+In fondo al crepaccio~
+   Qui il crepaccio si interrompe bruscamente.  Un vento freddo soffia sul
+tuo volto da una sagoma oscura a sud, ma la luce che porti e' troppo debole
+per consentirti di vedere cosa sia.   
+~
+53 9 0
+D2
+Vedi una strana forma scura.
+~
+sesamo~
+2 5323 5323 15
+D4
+E' troppo buio per vedere qualcosa.
+~
+~
+0 -1 5321 0
+E
+sagoma scura~
+Il vento soffia nelle tue orecchie come se fosse il ruggito di una tigre.  Non
+appena i tuoi occhi si sono abituati alla poca luce riesci a distinguere i
+lineamenti della sagoma che vedi a sud: sembra una grossa testa di animale.  
+
+~
+E
+tigre testa animale sesamo~
+Sei ormai certo che il vento che senti e' in realta' l'alito ghiacciato di un
+qualche animale, il cui respiro si percepisce appena e le cui zanne certamente
+sarebbero in grado di ingoiarti in un solo boccone.    
+
+Ti avvicini un po' per dare un'occhiata meglio, quando due occhi gialli si
+mostrano nell'oscurita' ed una gelida voce riecheggia tutt'intorno:
+
+Poi tutto diventa silenzioso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5323
+La Sala della Lampada~
+Le zanne di una gigantesca tigre di pietra si allargano rivelando una grossa
+sala voltata.  Un soffitto ricurvo si innalza sopra alla tua testa...  E
+tutt'intorno odi un basso suono gutturale e avverti la presenza di un vento
+freddo.  Cumuli giganteschi di monete, gioielli e oggetti preziosi ti
+circondano.    
+~
+53 9 0
+D0
+Attraverso le zanne della tigre vedi la parete scura del crepaccio.    
+~
+pietra~
+2 5323 5322 15
+E
+tesoro monete oggetti gioielli~
+Hai appena raggiunto uno dei cumuli quando odi un basso rimbombo e vedi un
+lampo di luce...    
+
+Poi senti risuonare nella tua mente questa frase:
+'PRENDI SOLO LA LAMPADA... NON TOCCARE ALTRO.'
+
+Poi tutto torna silenzioso.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5324
+Un buco nel muro~
+   Riesci a scivolare attraverso lo stretto buco nel muro.  La polvere ti va
+negli occhi non appena calpesti il suolo della stanza ed hai l'impressione di
+camminare su della sabbia mista a frammenti di pietra.    
+~
+53 9 0
+D0
+Vedi una stanza piena di muffa.
+~
+~
+0 -1 5309 0
+D2
+Vedi una tomba.
+~
+~
+0 -1 5325 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5325
+Una tomba violata~
+   Il pavimento di questa piccola tomba e' cosparso di frammenti di sarcofagi
+distrutti.  Qualche oggetto lasciato cadere dai ladri e dai razziatori e mummie
+sono tutt'intorno a te.    
+~
+53 8 0
+D0
+Vedi un piccolo buco nella parete attraverso il quale potresti riuscire a
+passare.    
+~
+~
+0 -1 5324 0
+D1
+Ad est vedi un'altra tomba.
+~
+~
+0 -1 5333 0
+D3
+Ad ovest vedi un'altra tomba.
+~
+~
+0 -1 5326 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5326
+Una tomba distrutta~
+   Questa tomba e' stata distrutta da ladri e razziatori in cerca dei tesori
+dei faraoni.  Niente di interessante resta in questa stanza, tranne una grossa
+bara di pietra poggiata contro la parete occidentale.    
+~
+53 8 0
+D1
+Ad est c'e' un'altra tomba.
+~
+~
+0 -1 5325 0
+D3
+Vedi una grossa bara di pietra.
+~
+bara pietra~
+2 5312 5327 15
+E
+bara pietra~
+La bara e' scolpita in modo tale da raffigurare un uomo stante e alto diversi
+centimetri piu' di te.  Indossa gli ornamenti regali dei faraoni.  Sembra che
+il tempo non abbia rovinato la bara e che neanche i razziatori siano riusciti a
+violarla.  Diversi segni ai lati del coperchio sembrano testimoniare che sono
+stati fatti molti tentativi per sollevarlo.    
+~
+E
+uomo ornamenti faraone~
+Quando osservi piu' da vicino la figura scolpita sulla bara noti una piccola
+incisione sul suo torace.  Sembra che uno scarabeo o un piccolo scarafaggio
+possa riempire adeguatamente lo spazio.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5327
+Una scalinata~
+   Ti trovi in cima ad una scalinata che scende nell'oscurita'.  I gradini e le
+pareti sono viscidi e pieni di sabbia e polvere.  Alcune iscrizioni sono state
+incise sulla parete.    
+~
+53 9 0
+D1
+Vedi il retro di una bara di pietra.
+~
+bara pietra~
+2 -1 5326 15
+D5
+E' troppo buio per vedere in fondo alla scalinata.
+~
+~
+0 -1 5328 0
+E
+iscrizioni~
+Soffiando via la polvere dalle iscrizioni riesci a leggere:
+
+Attenti alla maledizione della mummia.
+~
+E
+bara pietra~
+Su questo lato della bara la pietra non e' stata scolpita.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5328
+Una scalinata~
+   Ti trovi su una scalinata che si tuffa nell'oscurita' sia verso l'alto che
+verso il basso.  I gradini viscidi della scalinata non sembrano essere stati
+calpestati da secoli.    
+~
+53 9 0
+D4
+E' troppo buio per riuscire a vedere in cima alla scalinata.
+~
+~
+0 -1 5327 0
+D5
+E' troppo buio per riuscire a vedere in fondo alla scalinata.
+~
+~
+0 -1 5329 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5329
+Una scalinata~
+   Ti trovi alla base di una scalinata.  Le pareti, il pavimento ed il soffitto
+di questa piccola stanza sono coperti di strani geroglifici.    
+~
+53 9 0
+D2
+Vedi una specie di crepa nel muro.
+~
+pietra~
+1 -1 5330 3
+D4
+E' troppo buio per riuscire a vedere in cima alla scalinata.
+~
+~
+0 -1 5328 0
+E
+pareti soffitto pavimento geroglifici~
+I geroglifici sono coperti di polvere.  Togli la polvere con la mano e scopri
+che non riesci a comprenderli.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5330
+Un'antica sala~
+   Qui l'aria e' mortalmente immobile, i granelli di polvere oscurano la tua
+vista.  Alcune statue di pietra sono allineate lungo le pareti della sala
+raffigurando gli dei di un'antica cultura.  Strani glifi e sigilli coprono le
+pareti.  Deve trattarsi di una particolare forma di scrittura che non riesci a
+comprendere.    
+   Alcune impronte si dirigono verso sud.
+~
+53 9 0
+D0
+Vedi una giuntura nella parete di pietra.
+~
+pietra~
+1 -1 5329 3
+D2
+Vedi una piccola predella.
+~
+~
+0 -1 5331 0
+E
+scrittura glifi sigilli geroglifici simboli~
+Non riesci a comprendere il significato di questi simboli.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5331
+Una predella~
+   Ti trovi all'estremita' meridionale di un'antica sala, la polvere e
+l'oscurita' sembrano assorbire la luce cosi' che non riesci a vedere oltre la
+predella.  Un basso piedistallo si trova qui.  Qualcosa e' stato scritto sulla
+sua parte frontale.    
+~
+53 9 0
+D0
+Non puoi vedere oltre la predella.
+~
+~
+0 -1 5330 0
+D5
+Vedi una giuntura nel pavimento di pietra.
+~
+tomba~
+1 -1 5332 3
+E
+piedistallo iscrizione scritta~
+La scritta e' coperta di sabbia e sembra essere stata rovinata dal tempo
+trascorso.  Recita: 'Io sono Ramses il Dannato, una volta consigliere e braccio
+destro dei faraoni e delle regine piu' potenti di questo paese.  Molto tempo e'
+passato dal'ultima volta che ho calcato il suolo della Daresia.  Disturbi il
+mio riposo a tuo rischio.  '
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5332
+La Tomba di Ramses~
+   Ti trovi in una tomba vuota, un cubicolo non piu' largo di un metro.    
+~
+53 9 0
+D4
+Da qui puoi tornare indietro.
+~
+tomba~
+1 -1 5331 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5333
+Una tomba saccheggiata~
+   Questa tomba e' stata completamente saccheggiata e distrutta da ladri e
+razziatori.  Il pavimento e' pieno di rifiuti.    
+~
+53 8 0
+D1
+Ad est vedi il basso soffitto di un tunnel.
+~
+~
+0 -1 5334 0
+D3
+Ad ovest c'e' un'altra tomba.
+~
+~
+0 -1 5325 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5334
+Un tunnel~
+Il tunnel dal basso soffitto corre da est ad ovest.
+~
+53 9 0
+D1
+Non puoi vedere nell'oscurita' che regna nel tunnel.
+~
+~
+0 -1 5335 0
+D3
+Vedi una tomba.
+~
+~
+0 -1 5333 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5335
+Un incrocio nel tunnel~
+   Qui il tunnel si ramifica.  Un'apertura nel pavimento scende verso il basso,
+mentre ad est e ad ovest il tunnel continua.    
+~
+53 9 0
+D1
+Non riesci a vedere nell'oscurita' che regna nel tunnel.
+~
+~
+0 -1 5336 0
+D2
+The hole is low, at the floor of the southern wall.
+~
+~
+0 -1 -1 0
+D3
+Non riesci a vedere nell'oscurita' che regna nel tunnel.    
+~
+~
+0 -1 5334 0
+D5
+Attraverso il foro vedi macerie e sabbia.
+~
+~
+0 -1 5346 0
+E
+foro apertura~
+L'apertura e' stretta ed e' vicina alla parete sud del tunnel.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5336
+Un tunnel~
+   Il tunnel dal basso soffitto curva verso ovest e termina a nord in un'ampia
+e polverosa sala.    
+~
+53 9 0
+D0
+L'imboccatura del tunnel e' di pietra irregolarmente scalpellata da qualche
+razziatore.    
+~
+~
+0 -1 5342 0
+D3
+Non riesci a vedere nell'oscurita' che regna nel tunnel.
+~
+~
+0 -1 5335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5337
+Una camera umida~
+   Questa camera e' piena d'umidita', polverosa e piena di muffa.  Piccole
+impronte nella polvere rivelano il recente passaggio di qualche creatura.  
+Un'apertura nel pavimento si trova ad ovest mentre una scalinata e' ad est.  
+
+~
+53 8 0
+D1
+Vedi una scalinata di pietra.
+~
+~
+0 -1 5338 0
+D3
+Vedi solo l'oscurita' che riempie l'apertura nel pavimento.
+~
+~
+0 -1 5312 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5338
+Una scala a chiocciola~
+   Una scala polverosa e dai gradini rotti e' qui che occupa tutto lo spazio di
+questo angusto ambiente.    
+~
+53 8 0
+D4
+La scala a chiocciola sale in una stanza umida.
+~
+~
+0 -1 5337 0
+D5
+La scala a chiocciola scende verso una sala polverosa.
+~
+~
+0 -1 5341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5339
+Un corridoio coperto di polvere~
+   Questo corridoio e' coperto di polvere che deve essersi accumulata per
+secoli.  Piccole impronte e orme nella polvere rivelano il passaggio recente di
+altri -- forse ladri?    
+~
+53 8 0
+D1
+Il corridoio prosegue verso est, da dove arriva uno strano odore.
+~
+~
+0 -1 5340 0
+D3
+Il corridoio prosegue verso ovest da dove arriva un forte odore di muffa.    
+~
+~
+0 -1 5309 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5340
+Una Stanza Puzzolente~
+   Questa piccola stanza e' pervasa da un forte odore di carne in putrefazione,
+formaldeide e altri unguenti usati per mummificare i corpi.    
+~
+53 8 0
+D1
+Vedi un corridoio polveroso.
+~
+~
+0 -1 5341 0
+D3
+Vedi un corridoio polveroso.
+~
+~
+0 -1 5339 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5341
+Un corridoio coperto di polvere~
+   Questo corridoio e' coperto da uno spesso strato di polvere che si solleva
+al tuo passaggio entrandoti negli occhi.  Piccole orme ed impronte nella
+polvere tradiscono il recente passaggio di altre creature.    
+~
+53 8 0
+D1
+Il corridoio gira a nord.
+~
+~
+0 -1 5342 0
+D3
+Senti un forte e nauseante odore.
+~
+~
+0 -1 5340 0
+D4
+Una scala a chiocciola conduce verso l'alto.
+~
+~
+0 -1 5338 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5342
+Una curva nel corridoio~
+   Ti trovi nel punto in cui il corridoio piega verso nord dove dopo pochi
+passi termina.  A sud le pietre della piramide sono state divelte dai ladri che
+sono riusciti a scavare un piccolo e basso tunnel attraverso esse.    
+~
+53 8 0
+D0
+Il corridoio termina a nord.
+~
+~
+0 -1 5343 0
+D2
+Il tunnel e' buio.
+~
+~
+0 -1 5336 0
+D3
+Il tunnel coperto di polvere continua verso ovest.
+~
+~
+0 -1 5341 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5343
+La fine del corridoio~
+   Il corridoio coperto di polvere termina bruscamente di fronte ad una parete
+di pietra.  Qui e la sono i segni del recente passaggio di altre creature.    
+~
+53 8 0
+D2
+Il corridoio polveroso continua verso sud.    
+~
+~
+0 -1 5342 0
+D5
+Il pavimento e molto impolverato e sembra fatto di pietra.  Vedi alcune fessure
+sospette.    
+~
+pavimento~
+1 -1 5344 3
+E
+fessure~
+Le fessure sembrano abbastanza larghe da consentire l'inserimento di una
+qualche leva che consenta di alzare le pietre.  Forse al termine di questa
+faticosa operazione ci sara' spazio sufficiente perche' tu possa calarti nella
+fessura.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5344
+L'ingresso della Tomba~
+   Ti trovi in una piccola e umida stanza che ha l'aria di essere rimasta
+indisturbata da molti anni.  A nord si trova una massiccia tomba di pietra,
+coperta di geroglifici e raffinate incisioni.  Deve trattarsi della tomba di un
+potente faraone.    
+~
+53 13 0
+D0
+Vedi la tomba dei faraoni.
+~
+tomba~
+1 -1 5345 3
+D4
+Il soffitto di pietra presenta alcune fessure attraverso cui trapela una debole
+luce.    
+~
+soffitto~
+1 -1 5343 3
+E
+tomba~
+La tomba sembra sia rimasta inviolata da molto tempo, probabilmente da quando
+la piramide e' stata sigillata.  E' coperta di piccoli segni.    
+~
+E
+geroglifici incisioni~
+I segni indicato che questa e' la tomba di uno dei piu' grandi faraoni
+dell'antica civilta' che un tempo abitava questi luoghi.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5345
+La Tomba del Faraone~
+   Grandi sarcofagi dorati si allineano lungo le pareti di questa imponente
+tomba.  Il tempo sembra non aver toccato questa sala che neanche ladri e
+razziatori hanno raggiunto.  I tesori dei faraoni sono ancora intatti davanti a
+te.    
+~
+53 9 0
+D2
+La via conduce fuori dalla tomba.
+~
+tomba~
+1 -1 5344 3
+E
+tesori~
+I tesori sono coperti di polvere e fragili, ma sembrano ancora molto preziosi.
+Decidi di non prenderli per rispetto ai defunti di questa terra.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5346
+Un corridoio ingombro di macerie~
+   Questo corridoio in origine aveva un bellissimo soffitto voltato, ora
+crollato sotto il peso delle pietre della piramide.  Ora un ingrombante cumulo
+di macerie e' accatastato sotto un buco nel soffitto che si trova lungo la
+parete nord del corridoio.  A sud, attraverso le macerie e le pietre cadute
+vedi una cripta.    
+~
+53 13 0
+D2
+Vedi una cripta.
+~
+~
+0 -1 5347 0
+D4
+Da qui vedi solo oscurita'.
+~
+~
+0 -1 5335 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5347
+Una cripta~
+   Questa piccola cripta e' illuminata dalla luce che proviene da un buco nella
+parete a sud, attraverso cui entra anche la sabbia del deserto.  Un vento caldo
+soffia dal deserto nella stanza, seccando istantaneamente la tua pelle.  Ad est
+e a nord il corridoio voltato continua.    
+~
+53 8 0
+D0
+Il soffitto del corridoio voltato e' crollato verso nord.
+~
+~
+0 -1 5346 0
+D1
+Vedi un bellissimo corridoio dal soffitto voltato.
+~
+~
+0 -1 5348 0
+D2
+Vedi un cumulo di sabbia.
+~
+~
+0 -1 5353 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5348
+Una sala dal soffitto voltato~
+   Questa sala ha un bellissimo soffitto voltato, formato da pietre
+accuratamente levigate e lavorate.  La polvere che copra la maggior parte dei
+corridoi della piramide qui non c'e', soffiata via dal vento del deserto che
+soffia nelle tue orecchie.    
+~
+53 8 0
+D1
+La sala dal soffitto voltato prosegue verso est, girando piu' in la' verso sud.
+  
+~
+~
+0 -1 5349 0
+D3
+La sala dal soffitto voltato continua all'interno di una cripta.    
+~
+~
+0 -1 5347 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5349
+Una sala dal soffitto voltato~
+   Questa sala ha un bellissimo soffitto voltato, formato da pietre
+accuratamente levigate e lavorate.  Ad est c'e' una piccola cripta dorata e la
+sala prosegue a sud ed a nord.    
+~
+53 8 0
+D0
+La sala dal soffitto voltato continua a nord, mentre a ovest curva bruscamente.
+  
+~
+~
+0 -1 5348 0
+D1
+Una piccola cripta dorata si trova ad est.
+~
+~
+0 -1 5350 0
+D2
+La sala dal soffitto voltato continua a sud.
+~
+~
+0 -1 5351 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5350
+Una cripta dorata~
+   Ti trovi all'interno di una piccola cripta con le mura ed il soffitto
+rivestiti d'oro.  Stracci ed arazzi rovinati sono sul pavimento.  Sembra che
+qualcuno li abbia utilizzati di recente.    
+~
+53 8 0
+D3
+Vedi una sala dal soffitto voltato.
+~
+~
+0 -1 5349 0
+E
+stracci arazzi~
+   Gli stracci e gli arazzi sono di stoffa molto preziosa, ma sono rovinati dal
+tempo.  I loro colori sono ormai sbiaditi.  Vi sono raffigurate scene di vita
+in un'antica citta' del deserto.    
+~
+E
+bricks~
+The small golden bricks are very smooth and also quite soft.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5351
+Una sala dal soffitto voltato~
+   Questa sala ha un bellissimo soffitto voltato, formato da lastre di pietra
+accuratamente disposte e perfettamente adiacenti le une alle altre.  La sala
+continua verso nord, mentre a sud finisce in una piccola nicchia.    
+~
+53 8 0
+D0
+La sala continua a nord.
+~
+~
+0 -1 5349 0
+D2
+Vedi una piccola nicchia da cui entra una splendente luce.    
+~
+~
+0 -1 5352 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5352
+Una nicchia luminosa~
+   Le pietre della piramide qui sono di una strana qualita', sembrano quasi
+risplendere di una luce interna.  Quando osservi le pietre piu' da vicino vedi
+che ci sono delle piccole particelle di vetro all'interno che riflettono la
+luce cosi' bene da sembrare che risplendano.    
+~
+53 8 0
+D0
+Vedi una sala dal bellissimo soffitto voltato.
+~
+~
+0 -1 5351 0
+E
+particles glass~
+The glassy particles reflect and refract your light source in a myriad
+of dazzling colours that dance across your eyes and make you giggle.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5353
+Un'imponente duna di sabbia~
+   Ti trovi nei pressi di un'imponente duna di sabbia che si trova nei pressi
+del fianco meridionale della piramide.  Ai piedi della duna di sabbia, verso
+nord vedi un piccolo buco laddove le pietre della piramide hanno collassato.  
+Non molto a sud sembra essere scoppiata una tempesta di sabbia, il vento ulula
+impetuoso e granelli di sabbia colpiscono con violenza il tuo volto.    
+~
+53 4 2
+D0
+Vedi un piccolo buco che conduce all'interno della piramide.
+~
+~
+0 -1 5347 0
+D2
+Vedi solo una parete di sabbia che turbina e rotea su se stessa.
+~
+~
+0 -1 5354 0
+E
+sabbia duna tempesta~
+La sabbia e' bianchissima e molto fine. Ce n'e' veramente un mucchio.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5354
+Una ululante tempesta di sabbia~
+   Ti trovi proprio al centro di una tempesta di sabbia.  Il vento ulula da
+ogni parte e la sabbia ti colpisce con violenza , accecandoti e
+disorientandoti.    
+~
+53 0 2
+D0
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5353 0
+D1
+Vedi solo un muro di sabbia fine e turbinante.    
+~
+~
+0 -1 5354 0
+D2
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5355 0
+D3
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5354 0
+E
+sabbia~
+Sabbia e' tutto cio' che riesci a vedere.  Sfortunatamente, non molto
+interessante, solo bianca, fine e turbina in ogni direzione.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5355
+Una ululante tempesta di sabbia~
+   Ti trovi proprio al centro di una tempesta di sabbia.  Il vento ulula da
+ogni parte e la sabbia ti colpisce con violenza , accecandoti e
+disorientandoti.    
+~
+53 0 2
+D0
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5354 0
+D1
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5355 0
+D2
+You see only a wall of whirling, blowing, dry sand.
+~
+~
+0 -1 5356 0
+D3
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5355 0
+E
+sabbia~
+Sabbia e' tutto cio' che riesci a vedere.  Sfortunatamente, non molto
+interessante, solo bianca, fine e turbina in ogni direzione.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5356
+Una ululante tempesta di sabbia~
+   Ti trovi proprio al centro di una tempesta di sabbia.  Il vento ulula da
+ogni parte e la sabbia ti colpisce con violenza , accecandoti e
+disorientandoti.    
+~
+53 0 2
+D0
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5355 0
+D1
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5356 0
+D2
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5357 0
+D3
+Vedi solo un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5356 0
+E
+sabbia~
+Sabbia e' tutto cio' che riesci a vedere.  Sfortunatamente, non molto
+interessante, solo bianca, fine e turbina in ogni direzione.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5357
+Una ululante tempesta di sabbia~
+   Ti trovi proprio al centro di una tempesta di sabbia.  Il vento ulula da
+ogni parte e la sabbia ti colpisce con violenza , accecandoti e
+disorientandoti.    
+~
+53 0 2
+D0
+Non vedi che un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5356 0
+D1
+Non vedi che un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5357 0
+D2
+Non vedi che che un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5358 0
+D3
+Non vedi che un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5357 0
+E
+sabbia~
+Sabbia e' tutto cio' che riesci a vedere.  Sfortunatamente non e' molto
+interessante, solo bianchissima, fine e turbina ovunque intorno a te.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5358
+Un'imponente duna di sabbia~
+   In qualche modo sei riuscito a lasciarti alle spalle i venti ululanti della
+tempesta di sabbia e a salire in cima a questa duna.  Puoi vedere la tempesta
+proprio a nord e presumibilmente la piramide, da qualche parte oltre ad essa.
+Niente altro che il deserto si estende in ogni direzione.    
+~
+53 0 2
+D0
+Non vedi altro che un muro di sabbia fine e turbinante.
+~
+~
+0 -1 5357 0
+D2
+Verso sud, tra le dune vedi una buca nella sabbia.  Per qualche ragione non
+sembri riuscire a raggiungerla.    
+~
+indovinello~
+2 5317 5359 15
+E
+duna sabbia~
+La sabbia e' molto bianca e fine. Ce n'e' veramente un mucchio.
+~
+E
+indovinello~
+Una visione prende forma davanti ai tuoi occhi.  Una serie di geroglifici
+luminosi si materializzano davanti a te.    
+~
+E
+geroglifici simboli~
+Coma la maggior parte degli antichi geroglifici di questa terra, i simboli sono
+totalmente incomprensibili per te.  Forse la Sfinge conosce la risposta.    
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#5359
+Una buca nella sabbia~
+   Scivoli attraverso la piccola buca nella sabbia e giungi in una piccola
+stanza dalle pareti bianche.  Sopra di te vedi il pertugio attraverso cui sei
+giunto, ancora raggiungibile grazie allo scivolo di sabbia su cui sei
+atterrato.    
+~
+53 13 0
+D4
+Vedi una duna di sabbia.
+~
+~
+0 -1 5358 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

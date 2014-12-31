@@ -1,0 +1,3597 @@
+#30100
+Il buco della fogna~
+PUUUUUUUUUUUUAAAAAAAAAAAAHHHHHHHHHHH che schifo, sei finito in mezzo ai
+polifosfati organici, qualsiasi altro posto al confronto e' un paradiso!
+La puzza diffusa ti impedisce di parlare e quasi di respirare. Vedi una
+luce provenire da un buco sopra la tua testa.
+
+~
+301 45 0
+D4
+~
+~
+0 -1 30101
+S
+#30101
+Il gabinetto~
+Ti ritrovi nella parte piu' lugubre del bagno, apparte la sporcizia che
+ricopre ogni centimetro quadrato del locale c'e' in mezzo al paviemnto
+un buco maleodorante. La stanza continua verso est.
+~
+301 8 0
+D1
+~
+~
+0 -1 30102
+D5
+~
+~
+0 -1 30100
+S
+#30102
+Il bagno~
+Sei in una stanza che definiresti come bagno, ma a giudicare dalla
+sporcizia diffusa, dubiti che qualcuno la possa usare per pulirsi. La
+stanza continua verso ovest, mentre a sud c'e' un pavimento enorme.
+~
+301 8 0
+D2
+~
+~
+0 -1 30115
+D3
+~
+~
+0 -1 30101
+S
+#30103
+Il camino~
+Sei in cima al tetto di una casa gigantesca, di qui si ha un panorama
+fantastico, anche la brezza che soffia e' gradevole. Il tetto continua
+verso sud, mentre in basso scorgi l'imbocco di una canna fumaria.
+~
+301 0 1
+D2
+~
+~
+0 -1 30106
+D5
+~
+canna~
+1 -1 30104
+S
+#30104
+La canna della stufa~
+Stai strisciando nella canna della stufa, ti senti come la spazzola di
+uno spazzacamino, pulisci le pareti cosi' bene che potresti
+specchiartici. La canna continua verso l'alto e il basso. 
+~
+301 9 0
+D4
+canna
+~
+canna camino~
+1 28030 30103
+D5
+~
+~
+0 -1 30108
+S
+#30105
+La sommita' dell'albero~
+Sei giunto in cima ad un albero che sembra una montagna talmente e'
+alto, anche il panorama e' quello di una montagna, anche l'aria e' di
+montagna ... sicuro che sia un albero? L'unico modo per andartene e'
+scalare il tronco in discesa.
+~
+301 0 1
+D5
+~
+~
+0 -1 30109
+S
+#30106
+Una tegola rotta~
+Stai camminando sulla sommita' di un tetto grandissimo. Di qui c'e' un
+panorama bellisimo, ma se non vuoi finire da basso e' meglio che ti
+concentri dove mettere i piedi. Il tetto continua verso nord e sud.
+~
+301 0 1
+D0
+~
+~
+0 -1 30103
+D2
+~
+~
+0 -1 30107
+S
+#30107
+Un tegola incrinata~
+Stai camminando sulla sommita' di un tetto grandissimo. Di qui c'e' un
+panorama bellisimo, ma se non vuoi finire da basso e' meglio che ti
+concentri dove mettere i piedi. Il tetto continua verso nord e sud.
+~
+301 0 1
+D0
+~
+~
+0 -1 30106
+D2
+~
+~
+0 -1 30112
+S
+#30108
+Il fornello della stufa~
+Sei dentro al fornello della stufa, le pareti sono ricoperte di
+fuligine, e anche te se non vuoi fare la stessa fine sara' meglio che ti
+muovi con cautela. La stufa continua verso l'alto e il basso. 
+~
+301 13 0
+D4
+~
+~
+0 -1 30104
+D5
+~
+~
+0 -1 30113
+S
+#30109
+Sul tronco~
+Stai scalando un tronco gigantesco, che continua verso l'alto e il
+basso. A est si diparte un ramo enorme che sembra non avere fine.
+~
+301 0 1
+D1
+~
+~
+0 -1 30110
+D4
+~
+~
+0 -1 30105
+D5
+~
+~
+0 -1 30121
+S
+#30110
+In mezzo ad un nido~
+Sei finito in mezzo ad un nido gigante, non sembra che a te la cosa
+disturbi piu' di tanto, forse l'inquilino la pensa diversamente. Il ramo
+su cui e' costruito il nido continua verso est e ovest.
+~
+301 0 1
+D1
+~
+~
+0 -1 30111
+D3
+~
+~
+0 -1 30109
+S
+#30111
+La punta di un ramo~
+Sei sulla somita' di un ramo che si potrebbe definire anomalo talmente
+e' grande. Verso est giunge a pochi centrimetri sopra un tetto in
+tegole, mentre in lotananza verso ovest scorgi il tronco della pianta.
+~
+301 0 1
+D1
+~
+~
+0 -1 30112
+D3
+~
+~
+0 -1 30110
+S
+#30112
+La fine del tetto~
+Sei giunto alla fine del tetto, guardando in basso vedi un baratro,
+sicuramente non ti passa nemmeno per la mente di saltare giu'. Verso
+ovest vedi un ramo che passa a pochi centrimetri dal tetto, mentro le
+tegole continuano verso nord.
+~
+301 0 1
+D0
+~
+~
+0 -1 30107
+D3
+~
+~
+0 -1 30111
+S
+#30113
+La stufa~
+Sei nell'angolo di una stanza enorme, sopra di te scorgi una stufa
+gigantesca, sembra spenta, per tua fortuna, se no ti saresti gia'
+cucinato. verso sue e est si estende un pavimento senza fine.
+~
+301 8 0
+D1
+~
+~
+0 -1 30114
+D2
+~
+~
+0 -1 30125
+D4
+~
+~
+0 -1 30108
+S
+#30114
+Un piastrella scheggiata~
+Sei nel mezzo di una scheggiatura, in verita' sembra un fosso. Il
+paviemnto sembra continuare all'infinito verso est, sud e ovest, in
+quest'ultima direzioni scorgi in lontananza una machia nera enorme.
+~
+301 8 0
+D1
+~
+~
+0 -1 30115
+D2
+~
+~
+0 -1 30126
+D3
+~
+~
+0 -1 30113
+S
+#30115
+Una piastrella sporca~
+Stai camminando sopra una piastrella gigantesca, la sporcizia sulla
+superfice sembra avere un gradiente verso nord, dove vedi una stanza
+piu' piccola. In tutte le altre direzioni il pavimento sembra non aver
+fine. 
+~
+301 8 0
+D0
+~
+~
+0 -1 30102
+D1
+~
+~
+0 -1 30116
+D2
+~
+~
+0 -1 30127
+D3
+~
+~
+0 -1 30114
+S
+#30116
+Una piastrella ad angolo~
+Ti ritrovi nell'angolo del pavimento enorme, due enormi pareti si
+ereggono a nord e a est, mentre il pavimento continua verso sud e ovest.
+~
+301 8 0
+D2
+~
+~
+0 -1 30128
+D3
+~
+~
+0 -1 30115
+S
+#30117
+La testa del letto~
+Riesci a capire che questa e' la testa del letto perche' un ammaso di
+stoffa unto e' distaccato da tutto il resto, dovrebbe essere il cuscino.
+Il letto continua verso sud in basso vedi una grande stanza.
+~
+301 8 0
+D2
+~
+~
+0 -1 30129
+D5
+~
+~
+0 -1 30118
+S
+#30118
+Un cumulo di polvere~
+Stai camminando in mezzo ad uno strato di polvere che ti arriva al
+ginocchio. Sopra di te vedi quello che assomiglia ad un materasso, lo
+deduci dalle molle fuoriuscite dalla stoffa insieme alla lana. La stanza
+continua verso est e sud.
+~
+301 8 0
+D1
+~
+~
+0 -1 30119
+D2
+~
+~
+0 -1 30130
+D4
+~
+~
+0 -1 30117
+S
+#30119
+Un paio di pantaloni~
+Dopo esserti infilato per un paio di volte in vari cunicoli di stoffa
+puzzolente arrivi alla conclusione che ti ritrovi davanti ad un paio di
+pantaloni sporchi, unti e strappati. La stanza continua verso sud e
+ovest.
+~
+301 8 0
+D2
+~
+~
+0 -1 30131
+D3
+~
+~
+0 -1 30118
+S
+#30120
+Un ramo tagliato~
+Il ramo sembra essere stato tagliato da una sega, viste le dimensioni
+della sezione del taglio non riesci ad immaginarti una sega cosi' grande
+e chi possa usarla. L'unica via e' proseguire verso est.
+~
+301 0 1
+D1
+~
+~
+0 -1 30121
+S
+#30121
+Un tronco~
+Stai scalando un tronco colossale, ti senti come un davide contro golia,
+per fortuna non devi combattere. Il tronco continua in alto e in basso.
+Verso ovest diparte un ramo, almeno cosi' pensi visto le dimensioni non
+ne sei molto sicuro.
+~
+301 4 1
+D3
+~
+~
+0 -1 30120
+D4
+~
+~
+0 -1 30109
+D5
+~
+~
+0 -1 30140
+S
+#30122
+Un piccolo spiazzo~
+Sei in un piccolo spiazzo in terra battua, sopra di te vedi una finestra
+gigante mentre a sud vi e' come una giungla.
+~
+301 0 1
+D2
+~
+~
+0 -1 30132
+D4
+~
+~
+0 -1 30123
+S
+#30123
+Su un davanzale.~
+Ti sembrera' incredibile ma sei sul davanzale di una finestra enorme, in
+basso scorgi uno spazzio sterrato, metre a est c'e' un buco nel vetro
+della finestra.
+~
+301 4 1
+D1
+~
+~
+0 -1 30124
+D5
+~
+~
+0 -1 30122
+S
+#30124
+Un fornello~
+Ti ritrovi in mezzo ad un fornello unto e bisunto a tal punto che fai
+fatica a camminare peche' ti si incollano i piedi al fondo. Guardando in
+basso vedi un pavimento sterminato a sud c'e' una vasca enorme mentre a
+ovest scorgi un buco in un vetro.
+~
+301 8 0
+D2
+~
+~
+0 -1 30133
+D3
+~
+~
+0 -1 30123
+D5
+~
+~
+0 -1 30125
+S
+#30125
+Una piastrella unta~
+Sei nel mezzo di una piastrella totalemente ricoperta di olio o grasso,
+difficile a dirsi. Sopra di te c'e' un mobile enorme mentre il pavimento
+si estende verso nord, est e sud.
+~
+301 8 0
+D0
+~
+~
+0 -1 30113
+D1
+~
+~
+0 -1 30126
+D2
+~
+~
+0 -1 30134
+D4
+~
+~
+0 -1 30124
+S
+#30126
+Una gamba~
+Nel mezzo del camin di nostra vita ... mi ritrovai una gamba di legno
+enorme in mezzo al pavimento, cosa sara mai?  Guardandoti in giro verso
+nord, est, sud e ovest non vedi  altro che piastrelle.
+~
+301 8 0
+D0
+~
+~
+0 -1 30114
+D1
+~
+~
+0 -1 30127
+D2
+~
+~
+0 -1 30135
+D3
+~
+~
+0 -1 30125
+D4
+~
+~
+0 -1 30230
+S
+#30127
+Una gamba~
+Nel mezzo del camin di nostra vita ... mi ritrovai una gamba di legno
+enorme in mezzo al pavimento, cosa sara mai?  Guardandoti in giro verso
+nord, est, sud e ovest non vedi  altro che piastrelle.
+~
+301 8 0
+D0
+~
+~
+0 -1 30115
+D1
+~
+~
+0 -1 30128
+D2
+~
+~
+0 -1 30136
+D3
+~
+~
+0 -1 30126
+D4
+~
+~
+0 -1 30231
+S
+#30128
+Una piastrella rotta~
+Cammini lungo la crepa di una piastrella rotta, guardando in basso vedo
+solo sporcizia. Il pavimento continua verso nord, ovest e sud.
+~
+301 8 0
+D0
+~
+~
+0 -1 30116
+D2
+~
+~
+0 -1 30137
+D3
+~
+~
+0 -1 30127
+S
+#30129
+Un letto~
+Stai camminando su un enorme letto al quanto brozzo, non deve essere mai
+stato cambiato. Il letto continua verso nord, in basso c'e' una stanza
+abbastanza grande.
+~
+301 8 0
+D0
+~
+~
+0 -1 30117
+D5
+~
+~
+0 -1 30130
+S
+#30130
+Un cumulo di polvere~
+Stai camminando in mezzo ad uno strato di polvere che ti arriva al
+ginocchio. Sopra di te vedi quello che assomiglia ad un materasso, lo
+deduci dalle molle fuoriuscite dalla stoffa insieme alla lana. La stanza
+continua verso nord, est e sud.
+~
+301 8 0
+D0
+~
+~
+0 -1 30118
+D1
+~
+~
+0 -1 30131
+D2
+~
+~
+0 -1 30138
+D4
+~
+~
+0 -1 30129
+S
+#30131
+Una scarpa~
+Se una suola con qualche laccio si puo' definire scarpa, ebbene sei
+davanti ad un formato gigante del suddetto articolo. La stanza continua
+verso nord, ovest e sud.
+~
+301 8 0
+D0
+~
+~
+0 -1 30119
+D2
+~
+~
+0 -1 30139
+D3
+~
+~
+0 -1 30130
+S
+#30132
+In mezzo all'erba~
+Qui l'erba ti arriva alla vita, guardano verso vedi un piccolo spiazzo
+mentre a sud l'erba va crescendo molto ... ma veramente molto.
+~
+301 0 1
+D0
+~
+~
+0 -1 30122
+D2
+~
+~
+0 -1 30144
+S
+#30133
+Un lavandino~
+Stai sguazzando in mezzo a dell'acqua cosi' solida che potresti
+camminarci sopra, neanche la fogna piu' putrida assomiglia a questo
+schifo. Verso nord vedi qualcosa che assomiglia ad un fornello, mentre
+in basso si estende un enorme pavimento.
+~
+301 8 7
+D0
+~
+~
+0 -1 30124
+D5
+~
+~
+0 -1 30134
+S
+#30134
+Una piastrella bagnata~
+Sei nel mezzo di una pozza d'acqua non molto alta, per fortuna non
+supera l'altezza degli stivali perche' e' abbastanza sporca e puzzolente
+solo a guardare. Guardando in alto vedi una specie di mobile dal quale
+cadono ogni tanto dei goccioloni. Il pavimento continua verso nord, est
+e sud.
+~
+301 8 0
+D0
+~
+~
+0 -1 30125
+D1
+~
+~
+0 -1 30135
+D2
+~
+~
+0 -1 30145
+D4
+~
+~
+0 -1 30133
+S
+#30135
+Una gamba~
+Nel mezzo del camin di nostra vita ... mi ritrovai una gamba di legno
+enorme in mezzo al pavimento, cosa sara mai?  Guardandoti in giro verso
+nord, est, sud e ovest non vedi  altro che piastrelle.
+~
+301 8 0
+D0
+~
+~
+0 -1 30126
+D1
+~
+~
+0 -1 30136
+D2
+~
+~
+0 -1 30146
+D3
+~
+~
+0 -1 30134
+D4
+~
+~
+0 -1 30232
+S
+#30136
+Una gamba~
+Nel mezzo del camin di nostra vita ... mi ritrovai una gamba di legno
+enorme in mezzo al pavimento, cosa sara mai?  Guardandoti in giro verso
+nord, est, sud e ovest non vedi  altro che piastrelle.
+~
+301 8 0
+D0
+~
+~
+0 -1 30127
+D1
+~
+~
+0 -1 30137
+D2
+~
+~
+0 -1 30147
+D3
+~
+~
+0 -1 30135
+D4
+~
+~
+0 -1 30233
+S
+#30137
+Una piastrella consumata~
+Sicuramente questa e' la piastrella piu' pulita che tu abbia mai visto,
+non sicuramente perche' lavata spesso ma per il frequente passagio. Il
+pavimento continua a nord, ovest e sud, mentre ad est scorgi una camera
+piu' piccola.
+~
+301 12 0
+D0
+~
+~
+0 -1 30128
+D1
+~
+~
+0 -1 30138
+D2
+~
+~
+0 -1 30148
+D3
+~
+~
+0 -1 30136
+S
+#30138
+Un calzino~
+Stai passando vicino ad un calzino a dir poco puzzolente, il colore
+originario doveva essere bianco, ora e' completamente nero. La stanza
+continua verno nord e est, a sud vedi un pavimento sterminato.
+~
+301 8 0
+D0
+~
+~
+0 -1 30130
+D1
+~
+~
+0 -1 30139
+D3
+~
+~
+0 -1 30137
+S
+#30139
+Una maglietta~
+Un enorme pezzo di stoffa pieno di buchi e di colori ti blocca la
+strada, ad un esame piu' dettagliato scopri che e' una maglietta
+macchiata dell'inverosimile piena di tagli e strappi. La stanza continua
+verso nord e ovest.
+~
+301 8 0
+D0
+~
+~
+0 -1 30131
+D3
+~
+~
+0 -1 30138
+S
+#30140
+Le radici enormi~
+Sei giunto in mezzo a delle radici enormi che si dipartono da albero
+colossale. In tutta la tua vita non hai mai visto una cosa del genere,
+solo le radici sono grandi quanto i piu' grandi alberi che tu conosca.
+Un verso sue e est invece c'e' quello che definiresti un prato non
+tagliato da molto tempo.
+~
+301 0 1
+D1
+~
+~
+0 -1 30141
+D2
+~
+~
+0 -1 30149
+D4
+~
+~
+0 -1 30121
+S
+#30141
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso est,
+sud ovest.
+~
+301 0 1
+D1
+~
+~
+0 -1 30142
+D2
+~
+~
+0 -1 30150
+D3
+~
+~
+0 -1 30140
+S
+#30142
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso est,
+sud ovest.
+~
+301 0 1
+D1
+~
+~
+0 -1 30143
+D2
+~
+~
+0 -1 30151
+D3
+~
+~
+0 -1 30141
+S
+#30143
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso est,
+sud ovest.
+~
+301 0 1
+D1
+~
+~
+0 -1 30144
+D2
+~
+~
+0 -1 30152
+D3
+~
+~
+0 -1 30142
+S
+#30144
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso sud e
+ovest, a nord vedi una zona con erba piu' bassa.
+~
+301 0 1
+D0
+~
+~
+0 -1 30132
+D2
+~
+~
+0 -1 30153
+D3
+~
+~
+0 -1 30143
+S
+#30145
+Una piastrella ad angolo~
+Ti ritrovi nell'angolo del pavimento enorme, due enormi pareti si
+ereggono a nord e a est, mentre il pavimento continua verso sud e ovest.
+~
+301 8 0
+D0
+~
+~
+0 -1 30134
+D1
+~
+~
+0 -1 30146
+S
+#30146
+La piastella mancante~
+Qui dovrebbe eserci una piastrella ... ma non c'e', fa niente non ti
+cambia di certo la vita. Il pavimento continua verso ovest, nord e est.
+Guardando in alto vedi un enorme porta di legno massicia.
+~
+301 8 0
+D0
+~
+~
+0 -1 30135
+D1
+~
+~
+0 -1 30147
+D3
+~
+~
+0 -1 30145
+D4
+~
+~
+0 -1 30160
+S
+#30147
+Una piastrella gialla~
+Questa piastrella e' talmente tanto tempo che non viene toccata che e'
+diventata di un colore giallo marroncino. Il pavimento continua verso
+ovest, nord e est.
+~
+301 8 0
+D0
+~
+~
+0 -1 30136
+D1
+~
+~
+0 -1 30148
+D3
+~
+~
+0 -1 30146
+S
+#30148
+Piatrella rosicchiata~
+La piastrella e' stata rossichiata nell'angolo creando cosi'
+un'appertura verso sud. Il pavimento continua verso nord e ovest.
+~
+301 8 0
+D0
+~
+~
+0 -1 30137
+D2
+~
+~
+0 -1 30154
+D3
+~
+~
+0 -1 30147
+S
+#30149
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso nord,
+est e sud.
+~
+301 0 1
+D0
+~
+~
+0 -1 30140
+D1
+~
+~
+0 -1 30150
+D2
+~
+~
+0 -1 30155
+S
+#30150
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua in tutte le
+direzioni.
+~
+301 0 1
+D0
+~
+~
+0 -1 30141
+D1
+~
+~
+0 -1 30151
+D2
+~
+~
+0 -1 30156
+D3
+~
+~
+0 -1 30149
+S
+#30151
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua in tutte le
+direzioni.
+~
+301 0 1
+D0
+~
+~
+0 -1 30142
+D1
+~
+~
+0 -1 30152
+D2
+~
+~
+0 -1 30157
+D3
+~
+~
+0 -1 30150
+S
+#30152
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua in tutte le
+direzioni.
+~
+301 0 1
+D0
+~
+~
+0 -1 30143
+D1
+~
+~
+0 -1 30153
+D2
+~
+~
+0 -1 30158
+D3
+~
+~
+0 -1 30151
+S
+#30153
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso nord,
+ovest e sud.
+~
+301 0 1
+D0
+~
+~
+0 -1 30144
+D2
+~
+~
+0 -1 30159
+D3
+~
+~
+0 -1 30152
+S
+#30154
+Un buco nel muro~
+Stai camminando in un buco totalmente scavato nel muro, guardando le
+pareti noti come delle incisioni fatte da una specie di piccone, ma la
+punta doveva essere molto larga. Verso nord vedi un pavimento gigantesco
+mentre il buco continua a sud.
+~
+301 13 0
+D0
+~
+~
+0 -1 30148
+D2
+~
+~
+0 -1 30161
+S
+#30155
+La testa del gigante~
+GRGRGRGRGGRGOOOOOONNNFNNFNFFNFNFFFFF .... certo che fa un bel rumore un
+gigante che russa, olte all'alito molto pesante pero' e' meglio cosi'
+se  fosse sveglio ti avrebbe sicuramente gia' mangiato! Verso est vedi
+il  corpo del gigante a nord una giungla, se no puoi provare a scendere 
+dentro la bocca del gigante ...
+~
+301 0 1
+D0
+~
+~
+0 -1 30149
+D1
+~
+~
+0 -1 30156
+D5
+~
+bocca~
+1 -1 30166
+S
+#30156
+Il corpo del gigante~
+Ti sei imbattuto forse nella spiegazione di tutte queste cose enormi,
+stai camminando sul dorso di un gigante, per tua fortuna deve star
+domendo, se no ti avrebbe gia' schiacciato come una formica. Verso est
+vedi le sue gambe, a ovest la testa, a nord una giungla.
+~
+301 0 1
+D0
+~
+~
+0 -1 30150
+D1
+~
+~
+0 -1 30157
+D3
+~
+~
+0 -1 30155
+S
+#30157
+Un paio di gambe giganti~
+Ti sei imbattuto forse nella spiegazione di tutte queste cose enormi,
+stai camminando in mezzo ad un paio di gambe gigantesche, sicuramente
+appartengono a qualche gigante sdraiato qua. A ovest vedi il corpo a est
+un paio di piedi giganteschi a nord una giungla.
+~
+301 0 1
+D0
+~
+~
+0 -1 30151
+D1
+~
+~
+0 -1 30158
+D3
+~
+~
+0 -1 30156
+S
+#30158
+Un paio di piedi giganti~
+BEEEEEEEEEHHHHHHHHH che schifezza, ti trovi davanti a due piedi enormi,
+sporcchissimi e puzzolentissimi, non per niente vi sono varie mosche che
+li girano attorno come fosse miele per le api. Verso ovest vedi un paio
+di gambe enormi, mentre a nord e est c'e' una giungla.
+~
+301 0 1
+D0
+~
+~
+0 -1 30152
+D1
+~
+~
+0 -1 30159
+D3
+~
+~
+0 -1 30157
+S
+#30159
+In mezzo all'erba~
+Cammini in mezzo a dell'erba cosi' alta che se solo fossi 10 centimetri
+piu' basso non vedresti un bel niente. La giungla continua verso nord e
+ovest.
+~
+301 0 1
+D0
+~
+~
+0 -1 30153
+D3
+~
+~
+0 -1 30158
+S
+#30160
+Sulla porta enorme~
+Ti stai arrampicando su un enorme porta in legno massicio, per tua
+fortuna le venature sono cosi' distanti da permetterti dei comodi
+appigli. Sotto di te vedi un enorme pavimento mentre sopra di te c'e'
+una maniglia gigantesca.
+~
+301 12 0
+D4
+~
+~
+0 -1 30164
+D5
+~
+~
+0 -1 30146
+S
+#30161
+Un buco nel muro~
+Stai prosseguendo in un buco scavato nella roccia, i segni di incisione
+sulle pareti non ti sono familiari, non riesci a capire che utensile e'
+stato usato. Il tunnel continua a nord e est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30154
+D1
+~
+~
+0 -1 30162
+S
+#30162
+Uno strano buco~
+Incominci ad avere dei sospetti su questo buco, senti dei strani versi
+provenire da sud, che non hanno niente a che fare con qualcosa di umano,
+forse la troverai la spiegazione di questo tunnel.
+~
+301 9 0
+D2
+~
+~
+0 -1 30163
+D3
+~
+~
+0 -1 30161
+S
+#30163
+La tana dei topi~
+Sei finito nel mezzo di una tana di topi, questa non e' la tua
+esperienza piu' esaltante, mentre questi topi giganteschi ti stanno
+guardando con i loro occhi luccicanti pensi che forse sia meglio
+andarsene verso nord.
+~
+301 9 0
+D0
+~
+~
+0 -1 30162
+S
+#30164
+La maniglia gigante~
+Stai dondolando appeso ad una maniglia di dimensioni astronomiche,
+mentre oscilli su e giu' vedi a sud il buco della serattura mentre in
+basso scorgi qualche appiglio a cui aggraparti.
+~
+301 8 0
+D2
+~
+~
+0 -1 30165
+D5
+~
+~
+0 -1 30160
+S
+#30165
+Nel buco della serratura~
+Ti sei infilitato in un buco non molto largo ma neanche troppo stretto,
+guardandoti in giro vedi alcune molle, leve e perni. Vedi una luce
+provenire sia da nord mentre a sud c'e' un enorme chiave che blocca la
+strada.
+~
+301 9 0
+D0
+~
+~
+0 -1 30164
+D2
+~
+chiave~
+1 -1 30171
+S
+#30166
+Circa 32 denti~
+Sei in mezzo a circa 32 denti che emanano un odore di marcio, oltre a
+essere gia' cariati e ricoperti da uno spesso strato di tartaro. Il
+rumore del russare del gigante ti impedisce di parlare. Vedi una luce
+provenire  dall'alto mentre a est c'e' la gola.
+~
+301 41 0
+D1
+~
+~
+0 -1 30167
+D4
+~
+bocca~
+1 -1 30155
+S
+#30167
+La gola~
+Stai camminando in mezzo alla gola del gigante, speriamo che non li fai
+il solletico ... se no essere scaraventato fuori alla velocita' di 600
+metri al secondo non e' un'esperienza molto piacevole. A ovest vedi la
+bocca a est lo stomaco mentre in basso vedi i polmoni.
+~
+301 41 0
+D1
+~
+~
+0 -1 30168
+D3
+~
+~
+0 -1 30166
+D5
+~
+~
+0 -1 30205
+S
+#30168
+Lo stomaco~
+Sei finito proprio nel mezzo della digestione, lo stomaco e' pieno di
+acido cloridrico, sara' meglio stare attenti a non finirci dentro. A est
+vedi l'intestino mentre a ovest c'e' la gola.
+~
+301 9 7
+D1
+~
+pilloro~
+1 -1 30169
+D3
+~
+~
+0 -1 30167
+S
+#30169
+L'intestino~
+Stai camminando dentro un tubo con le pareti ricoperte da una specie di
+penducoli viscidi. Il tunnel continua vesro sud, mentre a ovest vedi lo
+stomaco. 
+~
+301 9 0
+D2
+~
+~
+0 -1 30172
+D3
+~
+pilloro~
+1 -1 30168
+S
+#30170
+La fine dell'intestino~
+Sei arrivato alla fine dell'intestino, di qui puoi solo tornare indietro
+o proseguire verso est per una piccola fessura dalla quale penetra un
+raggio di luce. 
+~
+301 9 0
+D1
+~
+~
+0 -1 30157
+D2
+~
+~
+0 -1 30173
+S
+#30171
+La maniglia gigante~
+Stai dondolando appeso ad una maniglia di dimensioni astronomiche,
+mentre oscilli su e giu' vedi a nord il buco di una serratura chiuso da
+un enorme chiave, guardando in basso scorgi qualche appiglio a cui
+aggraparti.
+~
+301 0 1
+D0
+~
+chiave~
+1 -1 30165
+D5
+~
+~
+0 -1 30174
+S
+#30172
+L'intestino~
+Stai camminando dentro un tubo con le pareti ricoperte da una specie di
+penducoli viscidi. Il tunnel continua vesro nord e est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30169
+D1
+~
+~
+0 -1 30173
+S
+#30173
+L'intestino~
+Stai camminando dentro un tubo con le pareti ricoperte da una specie di
+penducoli viscidi. Il tunnel continua vesro nord e ovest.
+~
+301 13 0
+D0
+~
+~
+0 -1 30170
+D3
+~
+~
+0 -1 30172
+S
+#30174
+Sulla porta enorme~
+Ti stai arrampicando su un enorme porta in legno massicio, per tua
+fortuna le venature sono cosi' distanti da permetterti dei comodi
+appigli. Sotto di te vedi uno sterrato mentre sopra di te c'e' una
+maniglia gigantesca.
+~
+301 4 1
+D4
+~
+~
+0 -1 30171
+D5
+~
+~
+0 -1 30178
+S
+#30175
+La cuccia del lupo~
+                                SEI MORTO!
+                               Sai leggere?
+    C'era scritto di stare attenti e non disturbarlo in nessun caso ...
+                        beh ormai e' troppo tardi ...
+~
+301 6 0
+D1
+~
+~
+0 -1 30176
+S
+#30176
+Davanti ad una cuccia enorme~
+Sei arrivato alla fine della pista, davanti a te a ovest c'e' una cuccia
+gigantesca, vicino alla cuccia c'e' un cartello son scrittoci sopra a
+caratteri cubitali rippassati due o te volte e sottolineati:
+                           +---------------+
+                           |ATTENTI AL LUPO|
+                           |NON DISTURBARLO|
+                           |IN NESSUN CASO!|
+                           +---------------+
+~
+301 0 1
+D2
+~
+~
+0 -1 30183
+D3
+~
+~
+0 -1 30175
+S
+#30177
+Uno sterrato enorme~
+Ti ritrovi nell'angolo di uno sterrato gigantesco, ti sembra di essere
+finito in mezzo ad un deserto, guardandoti in giro vedi che la pianura
+continua verso sue e est.
+~
+301 0 1
+D1
+~
+~
+0 -1 30178
+D2
+~
+~
+0 -1 30185
+S
+#30178
+Uno sterrato enorme~
+Stai camminando in mezzo ad uno sterrato enorme, ti sembra di essere in
+mezzo al deserto. La pianura continua verso est, sud e ovest, sopra di
+te c'e' una porta dalle dimensioni astronomiche.
+~
+301 0 1
+D1
+~
+~
+0 -1 30179
+D2
+~
+~
+0 -1 30186
+D3
+~
+~
+0 -1 30177
+D4
+~
+~
+0 -1 30174
+S
+#30179
+Uno sterrato enorme~
+Sei finito nell'angolo di uno sterrato gigantesco che assomiglia ad un
+deserto, guardandoti in giro vedi che la pianura continua verso sud e
+ovest. 
+~
+301 0 1
+D2
+~
+~
+0 -1 30187
+D3
+~
+~
+0 -1 30178
+S
+#30180
+Una cassetta per le uova~
+Sei seduto su una cessetta per le uova, sotto di te ci sono un paio di
+uova ancora calde, ti senti una gallina? Guardandoti in giro vedi un
+altra cassetta a est e il pollaio a sud.
+~
+301 8 0
+D1
+~
+~
+0 -1 30181
+D2
+~
+~
+0 -1 30189
+S
+#30181
+Una cassetta per le uova~
+Sei seduto su una cessetta per le uova, sotto di te ci sono un paio di
+uova ancora calde, ti senti una gallina? Guardandoti in giro vedi un
+altra cassetta a est e a ovest e il pollaio a sud.
+~
+301 8 0
+D1
+~
+~
+0 -1 30182
+D2
+~
+~
+0 -1 30190
+D3
+~
+~
+0 -1 30180
+S
+#30182
+Una cassetta per le uova~
+Sei seduto su una cessetta per le uova, sotto di te ci sono un paio di
+uova ancora calde, ti senti una gallina? Guardandoti in giro vedi un
+altra cassetta a ovest e il pollaio a sud.
+~
+301 8 0
+D2
+~
+~
+0 -1 30191
+D3
+~
+~
+0 -1 30181
+S
+#30183
+Una specie di pista~
+Stai seguendo una specie di pista ricavata in un prato dall'erba
+eccesivamente alta, le orme che vedi per terra sono gigantesche, e non
+riesci a capire che animale le possa aver fatte. La pista continua verso
+nord e est.
+~
+301 0 1
+D0
+~
+~
+0 -1 30176
+D1
+~
+~
+0 -1 30184
+S
+#30184
+Una specie di sentiero~
+Sei nel mezzo di una specie di pista, ma non capisci che animale possa
+averla creata, o se e' stato un animale o cos'altro. La pista continua
+verso ovest mentre verso est vedi uno sterrato enorme.
+~
+301 0 1
+D1
+~
+~
+0 -1 30185
+D3
+~
+~
+0 -1 30183
+S
+#30185
+Uno sterrato enorme~
+Stai camminando in mezzo ad uno sterrato gigantesco che si estende in
+quasi tutte le direzioni: nord, est e sud, verso ovest scorgi una specie
+di sentiero.
+~
+301 4 1
+D0
+~
+~
+0 -1 30177
+D1
+~
+~
+0 -1 30186
+D2
+~
+~
+0 -1 30195
+D3
+~
+~
+0 -1 30184
+S
+#30186
+Uno sterrato enorme~
+Stai camminando nel mezzo di uno sterrato gigantesco che si estende in
+tutte le direzione quasi fosse un deserto.
+~
+301 0 1
+D0
+~
+~
+0 -1 30178
+D1
+~
+~
+0 -1 30187
+D2
+~
+~
+0 -1 30196
+D3
+~
+~
+0 -1 30185
+S
+#30187
+Uno sterrato enorme~
+Stai camminando su un sterrato gigantesco che assomiglia ad un deserto,
+guardandoti in giro vedi solo pianura che si estende verso sud, ovest e
+nord. A est scorgi una grandissima scala che porta in alto.
+~
+301 0 1
+D0
+~
+~
+0 -1 30179
+D2
+~
+~
+0 -1 30197
+D3
+~
+~
+0 -1 30186
+D4
+~
+~
+0 -1 30188
+S
+#30188
+Incima ad una scala~
+Sei incima ad una scala enorme verso est vedi come l'entrata in una
+specie di gabbia gigante mentre sotto di te vedi un grandissimo
+sterrato.
+~
+301 8 0
+D1
+~
+~
+0 -1 30189
+D5
+~
+~
+0 -1 30187
+S
+#30189
+Un pollaio gigantesco~
+Sei finito nel mezzo di un pollaio gigante, il rumore del chicciare ti
+assorda quasi, mentre un sacco di piume svolazzano di qua e di la'. A
+ovest vedi un'uscita, il pollaio continua verso est, mentre a nord e sud
+ci sono delle cassette.
+~
+301 8 0
+D0
+~
+~
+0 -1 30180
+D1
+~
+~
+0 -1 30190
+D2
+~
+~
+0 -1 30198
+D3
+~
+~
+0 -1 30188
+S
+#30190
+Un pollaio gigantesco~
+Sei finito nel mezzo di un pollaio gigante, il rumore del chicciare ti
+assorda quasi, mentre un sacco di piume svolazzano di qua e di la'. Il 
+pollaio continua verso est e ovest, mentre a nord e sud ci sono delle
+cassette.
+~
+301 8 0
+D0
+~
+~
+0 -1 30181
+D1
+~
+~
+0 -1 30191
+D2
+~
+~
+0 -1 30199
+D3
+~
+~
+0 -1 30189
+S
+#30191
+Un pollaio gigantesco~
+Sei finito nel mezzo di un pollaio gigante, il rumore del chicciare ti
+assorda quasi, mentre un sacco di piume svolazzano di qua e di la'. Il 
+pollaio continua verso ovest a est vedi come un piccolo palco rialzato,
+mentre a nord e sud ci sono delle cassette.
+~
+301 8 0
+D0
+~
+~
+0 -1 30182
+D1
+~
+~
+0 -1 30192
+D2
+~
+~
+0 -1 30200
+D3
+~
+~
+0 -1 30190
+S
+#30192
+Un pollaio gigantesco~
+Sei su un piccolo palco rialzato, come in una posizione d'onore, ma non
+tanto in fondo, di qui si puo' controllare tutto il pollaio che si
+estende verso ovest tranquillamente.
+~
+301 8 0
+D3
+~
+~
+0 -1 30191
+S
+#30193
+Il cuore~
+Sei giunto al cuore del gigante, e' incredibile la quantita' di sangue 
+che non viene pompata qua dentro, vedi valvole che continuano ad aprirsi
+e chiudersi e muscoli che si contraggono e si dilatano. A sud vedi la
+valvola mitrea a est la tricuspide.
+~
+301 9 8
+D1
+~
+tricuspide~
+1 -1 30194
+D2
+~
+mitrea~
+1 -1 30201
+S
+#30194
+L'aorta~
+Ti stai movendo dentro l'arteria principale sei circondato da globuli
+bianchi e rossi, anticorpi, anticorpi e molta acqua. Se i tuoi calcoli
+sono giusti a est c'e' il pancreas mentre a ovest vedi la valvola
+tricuspide, a sud diparte una arteria.
+~
+301 9 8
+D1
+~
+~
+0 -1 30203
+D2
+~
+~
+0 -1 30213
+D3
+~
+tricuspide~
+1 -1 30193
+S
+#30195
+Uno sterrato enorme~
+Sei finito nell'angolo di uno sterrato enorme che si estende verso nord
+e est, ti sembra di essere all'inizio di un deserto.
+~
+301 0 1
+D0
+~
+~
+0 -1 30185
+D1
+~
+~
+0 -1 30196
+S
+#30196
+Uno sterrato enorme~
+Sei all'inizio di un enorme sterrato che sembra un deserto, guardandoti
+in giro vedi solo una grande pianura desolata che continua verso ovest,
+nord e est, verso sud ci sono delle sbarre enormi chi ti ricordano un
+cancello anzi meglio una prigione.
+~
+301 0 1
+D0
+~
+~
+0 -1 30186
+D1
+~
+~
+0 -1 30197
+D2
+~
+~
+0 -1 30208
+D3
+~
+~
+0 -1 30195
+S
+#30197
+Uno sterrato enorme~
+Sei finito in un angolo di uno sterrato gigantesco che si estende verso
+nord e ovest come un deserto.
+~
+301 0 1
+D0
+~
+~
+0 -1 30187
+D3
+~
+~
+0 -1 30196
+S
+#30198
+Una cassetta per le uova~
+Sei seduto su una cessetta per le uova, sotto di te ci sono un paio di
+uova ancora calde, ti senti una gallina? Guardandoti in giro vedi un
+altra cassetta a est e il pollaio a nord.
+~
+301 8 0
+D0
+~
+~
+0 -1 30189
+D1
+~
+~
+0 -1 30199
+S
+#30199
+Una cassetta per le uova~
+Sei seduto su una cessetta per le uova, sotto di te ci sono un paio di
+uova ancora calde, ti senti una gallina? Guardandoti in giro vedi un
+altra cassetta a est e a ovest e il pollaio a nord.
+~
+301 8 0
+D0
+~
+~
+0 -1 30190
+D1
+~
+~
+0 -1 30200
+D3
+~
+~
+0 -1 30198
+S
+#30200
+Una cassetta per le uova~
+Sei seduto su una cessetta per le uova, sotto di te ci sono un paio di
+uova ancora calde, ti senti una gallina? Guardandoti in giro vedi un
+altra cassetta a ovest e il pollaio a nord.
+~
+301 8 0
+D0
+~
+~
+0 -1 30191
+D3
+~
+~
+0 -1 30199
+S
+#30201
+Una vena~
+Ti stai muovendo dentro una vena ripiena di anticorpi, zuccheri,
+proteine e vitamine. Secondo i tuoi calcoli verso est porta ai polmoni a
+nord vedi la valvola mitrea.
+~
+301 9 8
+D0
+~
+mitrea~
+1 -1 30193
+D1
+~
+~
+0 -1 30202
+S
+#30202
+Una vena~
+Ti stai muovendo dentro una vena piena di globuli rossi, globuli
+bianchi, proteine, minerali disciolti e tanta acqua. Secondo i tuoi
+calcoli verso ovest porta al cuore mentre a sud vedi un ventricolo.
+~
+301 9 8
+D2
+~
+ventricolo~
+1 -1 30206
+D3
+~
+~
+0 -1 30201
+S
+#30203
+Il pancreas~
+Sei finito nell'organo piu' strano di tutto il corpo, quello che vedi
+qua non lo vedrai da nessun'altra parte, come le isole di Langerhans. A
+ovest vedi l'aorta a est un'arteriola.
+~
+301 9 0
+D1
+~
+~
+0 -1 30204
+D3
+~
+~
+0 -1 30194
+S
+#30204
+Un'arteriola~
+Ti stai muovendo dentro un'arteriola che pian piano va restringendosi,
+intorno a te vedi un sacco di globuli rossi e bianchi non che anti corpi
+e proteine e vitamini e zuccheri ... a ovest vedi il pancreas a sud un
+villo intestinale.
+~
+301 9 8
+D2
+~
+~
+0 -1 30207
+D3
+~
+~
+0 -1 30203
+S
+#30205
+I polmoni~
+Sei finito nel polmone sinistro, ad ogni respiro ti senti sbalzare
+avanti e indietro, con un enorme difficolta' d'avvanzamento. In alto
+vedi la gola mentre a est ci sono gli alveoli.
+~
+301 9 0
+D1
+~
+~
+0 -1 30206
+D4
+~
+~
+0 -1 30167
+S
+#30206
+Gli alveoli~
+Sei nella parte piu' bassa dei polmoni vedi vari alveoli intorno a te,
+la trachea si allarga vesro ovest.
+~
+301 13 0
+D0
+~
+alveolo~
+1 -1 30202
+D2
+~
+alveolo~
+1 -1 30211
+D3
+~
+~
+0 -1 30205
+S
+#30207
+Un villo intestinale~
+Sei compresso dentro un villo intestinale la pressione e tale che e'
+meglio che decidi in che direzione muoverti, a nord verso le arterie a
+sud verso le vene o a est per osmosi?
+~
+301 9 8
+D0
+~
+~
+0 -1 30204
+D1
+~
+~
+0 -1 30173
+D2
+~
+~
+0 -1 30214
+S
+#30208
+Davanti alle sbarre~
+Sei davanti a delle sbarre di metallo enormi,ti sembra di stare davanti ad una
+prigione o dietro,per fortuna sono cosi' larghe da poterci passare attraverso
+tranquillamente.  A nord vedi uno sterrato enorme mentre verso est diparte un
+piccolo sentiero.    
+~
+301 4 1
+D0
+~
+~
+0 -1 30196
+D1
+~
+~
+0 -1 30209
+S
+#30209
+Un piccolo sentiero~
+Stai camminando lungo un piccolo sentiero, la vegetazione intorno a te'
+molto fitta e anche molto grossa. Il sentiero continua verso est e ovest.
+~
+301 0 1
+D1
+~
+~
+0 -1 30210
+D3
+~
+~
+0 -1 30208
+S
+#30210
+Un piccolo sentiero~
+Stai camminando lungo un piccolo sentiero, la vegetazione intorno a te'
+molto fitta e anche molto grossa. Il sentiero continua verso est e sud.
+~
+301 0 1
+D2
+~
+~
+0 -1 30216
+D3
+~
+~
+0 -1 30209
+S
+#30211
+Un incrocio di vene~
+Sei arrivato all'incrocio di due vene, una proviene da est l'altra da
+ovest e vanno tutte e due verso nord agli alveoli.
+~
+301 9 8
+D0
+~
+alveolo~
+1 -1 30206
+D1
+~
+~
+0 -1 30227
+D3
+~
+~
+0 -1 30212
+S
+#30212
+Una vena~
+Ti stai muovendo dentro una vena insime a globuli rossi e bianche,
+piastrine, anticorpi e proteine varie. La vena continua verso est,
+mentre verso ovest c'e' l'emisfero destro.
+~
+301 9 8
+D1
+~
+~
+0 -1 30211
+D3
+~
+~
+0 -1 30219
+S
+#30213
+Una arteria~
+Ti stai muovendo dentro un arteria circondato da globuli bianchi e
+rossi, piastrine, minerali disciolti e molta acqua. A ovest vedi il
+l'emisfero sinistro mentre a nord c'e' l'aorta.
+~
+301 9 8
+D0
+~
+~
+0 -1 30194
+D3
+~
+~
+0 -1 30220
+S
+#30214
+Un cappilare venoso~
+Ti stai movendo dentro un capillare nenoso in mezzo a globuli rossi
+anticorpi globuli bianchi e un sacco di altre cose . Il cappillare  va
+restringendosi verso nord e allargandosi verso sud dove dovrebbe esserci
+la milza.
+~
+301 9 8
+D0
+~
+~
+0 -1 30207
+D2
+~
+~
+0 -1 30222
+S
+#30215
+Il viottolo~
+Stai prosseguendo su una specie di vittolo molto largo, guardandoti in
+giro noti che anche la vegetazione e notevolmente grossa. La via continua
+verso nord e sud.
+~
+301 0 1
+D2
+~
+~
+0 -1 30223
+S
+#30216
+Un piccolo sentiero~
+Stai camminando lungo un piccolo sentiero, la vegetazione intorno a te'
+molto fitta e anche molto grossa. Il sentiero continua verso nord e est.
+~
+301 0 1
+D0
+~
+~
+0 -1 30210
+D1
+~
+~
+0 -1 30217
+S
+#30217
+Una radura~
+Sei arrivato in una radura, qui la vegetazione e' piu' scarsa, ma sempre
+molto grossa, in lontananza verso sud-est vedi come una piccola collina.
+~
+301 0 1
+D1
+~
+~
+0 -1 30218
+D2
+~
+~
+0 -1 30224
+D3
+~
+~
+0 -1 30216
+S
+#30218
+Una radura~
+Sei arrivato in una radura, qui la vegetazione e' piu' scarsa, ma sempre
+molto grossa, in lontananza verso sud vedi come una piccola collina.
+~
+301 0 1
+D2
+~
+~
+0 -1 30225
+D3
+~
+~
+0 -1 30217
+S
+#30219
+L'emisfero destro~
+Sei giunto nella parte destra del cervello, che guarda a caso controlla
+la parte sinistra del corpo, chissa' perche'? boh! Vedi milioni di
+milioni di neuroni scambiarsi informazioni. A est c'e' una vena mentre a
+nord c'e' l'emisfero sinistro.
+~
+301 9 0
+D0
+~
+~
+0 -1 30220
+D1
+~
+~
+0 -1 30212
+S
+#30220
+L'emisfero sinistro~
+Sei giunto nella parte sinistra del cervello, che guarda a caso
+controlla la parte destra del corpo, chissa' perche'? boh! Vedi milioni
+di milioni  di neuroni scambiarsi informazioni. A est c'e' una arteria
+mentre a sud c'e' l'emisfero sinistro.
+~
+301 9 0
+D1
+~
+~
+0 -1 30213
+D2
+~
+~
+0 -1 30219
+S
+#30221
+Una veniciola~
+Ti stai muovendo dentro una veniciola stracolma di zuccheri, proteine,
+vitamine, anticorpi e molta acqua. A est vedi la milza mentre a sud c'e'
+il fegato.
+~
+301 9 8
+D1
+~
+~
+0 -1 30222
+D2
+~
+~
+0 -1 30228
+S
+#30222
+La milza~
+Ti stai aprendo un varco in mezzo alla milza, mamma mia quanto e' dura
+questa milza! Verso nord vedi un capillare venoso che diventa una 
+veniciola a ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30214
+D3
+~
+~
+0 -1 30221
+S
+#30223
+Il viotolo~
+Stai prosseguendo su una specie di vittolo molto largo, guardandoti in
+giro noti che anche la vegetazione e abbastanza grossa. La via continua
+verso nord e sud.
+~
+301 0 1
+D0
+~
+~
+0 -1 30215
+D2
+~
+~
+0 -1 30229
+S
+#30224
+Una radura~
+Sei arrivato in una radura, qui la vegetazione e' piu' scarsa, ma sempre
+molto grossa, in lontananza verso est vedi come una piccola collina.
+~
+301 0 1
+D0
+~
+~
+0 -1 30217
+D1
+~
+~
+0 -1 30225
+S
+#30225
+Una piccola collina~
+Sei incima ad una piccola collina, perfettamente circolare con un grosso
+buco nel mezzo, guardandoti in giro vedi una piccola radura verso nord e
+ovest.
+~
+301 0 1
+D0
+~
+~
+0 -1 30218
+D3
+~
+~
+0 -1 30224
+D5
+~
+~
+0 -1 30226
+S
+#30226
+Dentro al formicaio~
+Sei finito dentro ad un formicaio di formiche giganti ... ma veramente
+giganti. Guardando in alto vedi un buco da dove proviene una tenue luce,
+in basso c'e' in buio piu' profondo.
+~
+301 12 0
+D4
+~
+~
+0 -1 30225
+D5
+~
+~
+0 -1 30241
+S
+#30227
+Una vena~
+Ti stai muovendo insime a zuccheri e globuli rossi e bianchi nonche'
+proteine e vitamine in una vena. A est vedi il fegato mentre mentre la
+vena continua a ovest.
+~
+301 9 8
+D1
+~
+~
+0 -1 30228
+D3
+~
+~
+0 -1 30211
+S
+#30228
+Il fegato~
+Sei entrato nel fegato, la fabbrica chimica del corpo, vedi migliaia di
+cellule indaffarate a produrre e distruggere lo cose piu' svariate. A
+nord vedi una veniciola che diventa una vena a ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30221
+D3
+~
+~
+0 -1 30227
+S
+#30229
+Il viottolo~
+Stai prosseguendo su una specie di vittolo molto largo, guardandoti in
+giro noti che anche la vegetazione e grossa. La via continua verso nord
+e sud.
+~
+301 0 1
+D0
+~
+~
+0 -1 30223
+D2
+~
+~
+0 0 9141
+S
+#30230
+Un quarto di tavolo~
+Stai camminando sul quarto di una tavola grandissima, mentre cerchi di
+schivare resti di cibo e mosche spiaccicate per terra. La tavola continua
+verso sud e est, in basso vedi un pavimento gigante.
+~
+301 0 1
+D1
+~
+~
+0 -1 30231
+D2
+~
+~
+0 -1 30232
+D5
+~
+~
+0 -1 30126
+S
+#30231
+Un quarto di tavolo~
+Stai camminando sul quarto di una tavola grandissima, mentre cerchi di
+schivare resti di cibo e mosche spiaccicate per terra. La tavola continua
+verso sud e ovest, in basso vedi un pavimento gigante.
+~
+301 0 1
+D2
+~
+~
+0 -1 30233
+D3
+~
+~
+0 -1 30230
+D5
+~
+~
+0 -1 30127
+S
+#30232
+Un quarto di tavolo~
+Stai camminando sul quarto di una tavola grandissima, mentre cerchi di
+schivare resti di cibo e mosche spiaccicate per terra. La tavola continua
+verso nord e est, in basso vedi un pavimento gigante.
+~
+301 0 1
+D0
+~
+~
+0 -1 30230
+D1
+~
+~
+0 -1 30233
+D5
+~
+~
+0 -1 30135
+S
+#30233
+Un quarto di tavolo~
+Stai camminando sul quarto di una tavola grandissima, mentre cerchi di
+schivare resti di cibo e mosche spiaccicate per terra. La tavola continua
+verso nord e ovest, in basso vedi un pavimento gigante.
+~
+301 0 1
+D0
+~
+~
+0 -1 30231
+D3
+~
+~
+0 -1 30232
+D5
+~
+~
+0 -1 30136
+S
+#30234
+Una piega nel tunnel~
+Stai camminado quasi alla cieca quando sbatti contro una parete, sei
+giunto ad una piega nel tunnel. Ti accorgi che puoi andare verso sud o
+verso est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30235
+D2
+~
+~
+0 -1 30239
+S
+#30235
+Un tunnel~
+Sei nel mezzo di un tunnel silenzioso e completamente buio, nella penombra
+riesci a capire che continua verso est e ovest, ma non riesci a capire
+dove vada a finire.
+~
+301 9 0
+D1
+~
+~
+0 -1 30236
+D3
+~
+~
+0 -1 30234
+S
+#30236
+Una curva nel tunnel~
+Stai seguendo il tunnel e sei giunto ad un punto di svolta, esso continua
+sia a sud che a ovest, ma in entrambe le direzioni non riesci a vedere
+niente.
+~
+301 9 0
+D2
+~
+~
+0 -1 30241
+D3
+~
+~
+0 -1 30235
+S
+#30237
+Un buco nel suolo~
+Pensi di essere giunto alla fine del tunnel quando stai per cadere in un
+buco nel suolo, guardando sotto vedi il buio piu' assoluto, il tunnel
+continua verso est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30238
+D5
+~
+~
+0 -1 30257
+S
+#30238
+La curva~
+Ancora una volta il tunnel cambia direzzione, tra un po' rischi di perdere
+l'orientamento, questa volta va da sud verso ovest o vice versa.
+~
+301 9 0
+D2
+~
+~
+0 -1 30243
+D3
+~
+~
+0 -1 30237
+S
+#30239
+Il lungo tunnel~
+Stai proseguendo dentro un tunnel scuro che va da sud verso nord, cio'
+nonostante non riesci a capire dove porti.
+~
+301 9 0
+D0
+~
+~
+0 -1 30234
+D2
+~
+~
+0 -1 30244
+S
+#30240
+Un buco in discesa~
+Pensi di essere giunto ad un vicolo cieco quando ti accordi che c'e' un
+buco che porta in basso, l'uncia altra via d'uscita e' a est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30241
+D5
+~
+~
+0 -1 30260
+S
+#30241
+Un incrocio~
+Sei nel mezzo di un incrocio, l'ambiente e' incredibilmente silenzioso
+non riesci a percepire il minimo rumore, le orecchie ti fischiano dal
+silenzio. Vedi quattro tunnel uguali identici che vanno verso nord, est,
+ovest e sud, dall'alto vedi provenire una flebile luce.
+~
+301 9 0
+D0
+~
+~
+0 -1 30236
+D1
+~
+~
+0 -1 30242
+D2
+~
+~
+0 -1 30246
+D3
+~
+~
+0 -1 30240
+D4
+~
+~
+0 -1 30226
+S
+#30242
+Una tripla intersezione~
+Ti trovi nel mezzo di una tripla intersezione, vedi tre tunnel andare
+verso est, sud e ovest, quale sara' il migliore ... difficile a dirsi!
+~
+301 9 0
+D1
+~
+~
+0 -1 30243
+D2
+~
+~
+0 -1 30247
+D3
+~
+~
+0 -1 30241
+S
+#30243
+Il cambio di direzione~
+Ancora una volta il tunnel cambia di direzione improvvisamente, nel buio
+piu' profondo capisci che va da nord verso ovest o vice versa.
+~
+301 9 0
+D0
+~
+~
+0 -1 30238
+D3
+~
+~
+0 -1 30242
+S
+#30244
+La svolta nel tunnel~
+Cammini con le mani davanti perche' non vedi niente, ad un certo punto
+tocchi una parete e capisci che il tunnel cambia direzione. Puoi andare
+verso nord e est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30239
+D1
+~
+~
+0 -1 30245
+S
+#30245
+Un incocio a T~
+Sei giunto nel mezzo di un incrocio a T, e' difficile scegliere che
+direzione prendere, sembrano tutte uguali, comunque puoi andare verso
+ovest, sud e est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30246
+D2
+~
+~
+0 -1 30250
+D3
+~
+~
+0 -1 30244
+S
+#30246
+Una piega brusca~
+Cammini tranquillamente quando per poco non vai a sbattere contro una
+parete a due centimetri dal tuo naso, capisci che il tunnel curva
+bruscamente. Puoi andare verso nord o ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30241
+D3
+~
+~
+0 -1 30245
+S
+#30247
+Il tunnel~
+Stai camminando lungo un tunnel mentre con la mano continui a vedere se la
+parete e' alla tua destra, visto che sei nel buio piu' profondo. La
+galleria continua verso nord e sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30242
+D2
+~
+~
+0 -1 30252
+S
+#30248
+Il vicolo cieco~
+Sei finito in un vicolo cieco, di qui non ci sono altre vie d'uscita se
+non quella di tornare indietro verso sud.
+~
+301 9 0
+D2
+~
+~
+0 -1 30253
+S
+#30249
+Un buco in discesa~
+Sei arrivato davanti ad un buco che sprofonda nel terreno, guardandoci
+dentro non vedi assolutamente niente. L'unica altra uscita e' a est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30250
+D5
+~
+~
+0 -1 30269
+S
+#30250
+La triplice intersezione~
+Ancora una volta sei arrivato ad un bivio e scegliere in che direzione
+andare e' difficile ... a se solo le monete avessero tre facce! Puoi
+proseguire verso ovest, nord e est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30245
+D1
+~
+~
+0 -1 30251
+D3
+~
+~
+0 -1 30249
+S
+#30251
+Il lungo tunnel~
+Continui a camminare diritto, ti sembra che questo tunnel non abbia mai
+fine, il buio piu' profondo non ti da speranze d'uscita. La galleria
+continua verso est e ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30252
+D3
+~
+~
+0 -1 30250
+S
+#30252
+Il trivio~
+Cammini fino a giungere in un trivio, qui vedi un tunnel che va verso nord
+uno verso est e uno versto ovest, tutti nel buio piu' profondo.
+~
+301 9 0
+D0
+~
+~
+0 -1 30247
+D1
+~
+~
+0 -1 30253
+D3
+~
+~
+0 -1 30251
+S
+#30253
+Una piega nel tunnel~
+Avanzi a tentoni con le mani davanti e capisci che sei giunto ad una
+piega del tunnel. Puoi andare verso nord e ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30248
+D3
+~
+~
+0 -1 30252
+S
+#30254
+La deviazione~
+Sei giunto ad un punto di svolta nel tunnel, non poi piu' prosseguire
+diritto, o vai verso sud o verso ovest, ma e' talmente buio che ... e'
+difficile a dirsi cosa c'e'.
+~
+301 9 0
+D1
+~
+~
+0 -1 30255
+D2
+~
+~
+0 -1 30259
+S
+#30255
+Il lungo tunnel~
+Continui a camminare e sembra non finire mai questo maledetto tunnel, il
+buio lo rende ancora piu' deprimente, ad un certo punto inciampi e ti
+accorgi che nel suolo vi e un buco che porta verso un livelo sotto
+stante. La galleria continua verso est e ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30256
+D3
+~
+~
+0 -1 30254
+D5
+~
+~
+0 -1 30275
+S
+#30256
+Una maledetta intersezione~
+Giungi per l'ennesima volta ad una intersezione, ormai ti sembrano tutte
+uguali e pensi di esserti perso definitivamente. Comunque puoi andare a
+est, sud e ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30257
+D2
+~
+~
+0 -1 30261
+D3
+~
+~
+0 -1 30255
+S
+#30257
+Una via verso l'alto~
+Stai camminando lungo il maledetto tunnel quando una brezza d'aria fresca
+ti tonifica il viso, guardando in alto vedi un'apertura che sembra
+condurre ad un livello superiore. La gelleria continua verso est e ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30258
+D3
+~
+~
+0 -1 30256
+D4
+~
+~
+0 -1 30237
+S
+#30258
+Una curva nel tunnel~
+Giungi infine ad una curva, sei quasi contento di incontrarne una dopo
+tante intersezioni e pezzi dritti. Puoi andare o a sud o a ovest.
+~
+301 9 0
+D2
+~
+~
+0 -1 30263
+D3
+~
+~
+0 -1 30257
+S
+#30259
+Una piega nel tunnel~
+Camminando nel tunnel ti accorgi che sta cambiando direzione e tra un po'
+avrai cambiato completamente direzione. Puoi andare a nord o a est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30254
+D1
+~
+~
+0 -1 30260
+S
+#30260
+Un'apertura nel soffito~
+A forza di guardarti in giro scopri che sopra alla tua testa c'e' un buco
+che porta in alto. La galleria continua verso est e ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30261
+D3
+~
+~
+0 -1 30259
+D4
+~
+~
+0 -1 30240
+S
+#30261
+Un quadrivio~
+Sei giunto all'intersezione di due tunnel, uno sull'asse nord-sud, l'altro
+sull'asse est-ovest, puoi andare in tutte le direzioni, ma col buio che
+c'e' e' una decisione aspra.
+~
+301 9 0
+D0
+~
+~
+0 -1 30256
+D1
+~
+~
+0 -1 30262
+D2
+~
+~
+0 -1 30266
+D3
+~
+~
+0 -1 30260
+S
+#30262
+L'incrocio a T~
+Questa volta pensi di esserti perso, ti sembra di essere gia' passato di
+qua, anzi ne sei sicuro, guardando a est, sud e ovest ti sembrano tutte
+uguali queste gallerie.
+~
+301 9 0
+D1
+~
+~
+0 -1 30263
+D2
+~
+~
+0 -1 30267
+D3
+~
+~
+0 -1 30261
+S
+#30263
+Il trivio~
+Sei nel mezzo di un trivio, gurdi a sud, poi a nord ed in fine ad ovest,
+quale sara' la via giusta? Se solo non fossero tutti uguali questi
+maledetti tunnel!
+~
+301 9 0
+D0
+~
+~
+0 -1 30258
+D2
+~
+~
+0 -1 30268
+D3
+~
+~
+0 -1 30262
+S
+#30264
+Un angolo~
+Sei finito in un angolo del tunnel, in fatti non puoi piu' prosseguire
+diritto o vai verso sud o verso est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30265
+D2
+~
+~
+0 -1 30269
+S
+#30265
+Un tunnel~
+Sai seguendo un tunnel nella sua lunghezza, sembra non finire mai, con la
+mano cerchi lungo la parete quache altra via, ma non ne trovi. La
+galleria va da ovest vesro est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30266
+D3
+~
+~
+0 -1 30264
+S
+#30266
+Un incrocio a tre vie~
+Sei nel mezzo di un incrocio a tre vie, esse vanno verso nord, ovest e
+sud, ma guardando bene non vedi assolutamente niente in nessuna
+direzione, troppo buio!
+~
+301 9 0
+D0
+~
+~
+0 -1 30261
+D2
+~
+~
+0 -1 30271
+D3
+~
+~
+0 -1 30265
+S
+#30267
+Il tunnel~
+Sei in un lungo tunnel che viene da sud e va verso nord, ma poi dipende
+dai punti di vista puo' andare anche nord a sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30262
+D2
+~
+~
+0 -1 30272
+S
+#30268
+Un lungo tunnel~
+Continui a camminare lungo il tunnel controllando con la mano che non ci
+siano altre aperture, ma non ne trovi. La galleria continua verso nord e
+sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30263
+D2
+~
+~
+0 -1 30273
+S
+#30269
+Una piega nel tunnel~
+Il tunnel cambia piano piano direzione fino ad puntare completamente da un
+altra parte. O vai a nord o vai a est, ma da tutte due le parti e'
+completamente buio. Sopra di te c'e' un'apertura dalla quale soffia una
+brezza fresca.
+~
+301 9 0
+D0
+~
+~
+0 -1 30264
+D1
+~
+~
+0 -1 30270
+D4
+~
+~
+0 -1 30249
+S
+#30270
+Un lungo tunnel~
+Continui a camminare senza meta lungo un tunnel che non sembra aver fine,
+ogni tanto guardi indietro, ma il panorama e' uguale identico a quello
+davanti. Puoi prosseguire verso est o ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30271
+D3
+~
+~
+0 -1 30269
+S
+#30271
+Una brusca curva~
+Ahhiiia che botta, hai sbattuto il naso contro un muro, con molto dolore
+ti accorgi che il tunnel curva bruscamente. O pressegui verso nord o vesro
+ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30266
+D3
+~
+~
+0 -1 30270
+S
+#30272
+La svolta~
+Hai come una strana sensazione, ti fermi allunghi una mano, e scopri che
+avevi ragione, sei davanti ad un muro, il tunnel svolta improvvisamente. O
+Stai quasi per proseguire quando ti accorgi che stavi per finire in un
+buco nel terreno. Puoi andare o in basso o a nord o a est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30267
+D1
+~
+~
+0 -1 30273
+D5
+~
+~
+0 -1 30292
+S
+#30273
+Una curva nel tunnel~
+Stai camminando strnquillamente quando all'improvviso sbatti contro un
+muro, che scoperta dolorosa, il tunnel cambia direzione. Puoi andare verso
+nord o a ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30268
+D3
+~
+~
+0 -1 30272
+S
+#30274
+Una devizione~
+Il tunnel devia improvvisamente, per poco non vai a sbattere contro una
+parete se non fosse tutto cosi' maledettamente buio. La galleria continua
+verso sud e est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30275
+D2
+~
+~
+0 -1 30279
+S
+#30275
+Un buco nel soffito~
+Cammini lungo un tunnel quando noti una macchia nera sul soffito,
+controllando bene ti accorgi che e' un'apertura che conduce ad un livello
+superiore. La galleria continua verso est e ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30276
+D3
+~
+~
+0 -1 30274
+D4
+~
+~
+0 -1 30255
+S
+#30276
+Un intersezione a T~
+Sei giunto in mezzo ad una intersezzione, vedi vari tunnel che partono in
+varie direzioni: uno a est uno a sud e uno a ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30277
+D2
+~
+~
+0 -1 30281
+D3
+~
+~
+0 -1 30275
+S
+#30277
+Il trivio~
+Sei ancora davanti un'altra ardua decisione, che strada prendere, sempre la
+solita cosa, tutte uguali tutte buie, boh? Puoi andare a est a sud o a
+ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30278
+D2
+~
+~
+0 -1 30282
+D3
+~
+~
+0 -1 30276
+S
+#30278
+Una curva nel tunnel~
+Giungi in fine ad una curva che ti immete su un lungo tunnel che sembra non
+aver mai fine. Poi andare o a ovest o a sud.
+~
+301 9 0
+D2
+~
+~
+0 -1 30283
+D3
+~
+~
+0 -1 30277
+S
+#30279
+Una piega~
+Il tunnel cambia ancora una volta direzione, incominci a perdere
+l'orientamento e non sapere piu' in che direzione andare, sembra tutto
+uguale questo maledetto labirinto. Puoi continuare verso nord o verso est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30274
+D1
+~
+~
+0 -1 30280
+S
+#30280
+Una curva~
+Il tunel cambia improvvisamente direzione lasciandoti disorientato, puoi
+prosseguire verso ovest o verso sud.
+~
+301 9 0
+D2
+~
+~
+0 -1 30285
+D3
+~
+~
+0 -1 30279
+S
+#30281
+Un lunghissimo tunnel~
+E' un po' di tempo che continui a camminare nella stessa direzione e non
+trovi ne vie laterali ne curve, forse meglio cosi' forse peggio, chi puo'
+dirlo. Puoi proseguire verso nord o sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30276
+D2
+~
+~
+0 -1 30286
+S
+#30282
+Un tunnel~
+Sei nel mezzo di un tunnel che porta da sud a nord o se preferisci da nord
+a sud, comunque la situazione non cambia da che parte vai?
+~
+301 9 0
+D0
+~
+~
+0 -1 30277
+D2
+~
+~
+0 -1 30287
+S
+#30283
+Il lungo tunnel~
+Stai proseguendo lungo un maledetto tunnel che non sembra aver mai fine,
+con la mano cerchi qualche via laterale ma non ne trovi. La galleria
+prosegue verso nord e sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30278
+D2
+~
+~
+0 -1 30288
+S
+#30284
+Un buco profondo~
+Sei giunto alla fine del tunnel, pensi che non vi siano altre vie d'uscita
+se non tornare indietro verso sud quando noti un buco profondo nel suolo
+che porta verso un livello inferiore.
+~
+301 9 0
+D2
+~
+~
+0 -1 30289
+D5
+~
+~
+0 -1 30294
+S
+#30285
+Il tunnel~
+Stai camminando lungo il tunnel e non vedi altre vie laterali, forse meglio
+cosi', almeno non hai decisioni da prendere. La galleriacontinua verso nord
+e sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30280
+D2
+~
+~
+0 -1 30290
+S
+#30286
+Il lunghissimo tunnel~
+Stai camminando da un po' di tempo in un lunghissimo tunnel che non sembra
+aver mai fine. La galleria continua verso nord e sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30281
+D2
+~
+~
+0 -1 30291
+S
+#30287
+Una svolta~
+Sbatti ancora contro un muro scoprendo con gran dolore che il tunnel cambia
+ancora direzione. Quando finiranno questi cambiamenti di direzione? Puoi
+andare o a nord o a est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30282
+D1
+~
+~
+0 -1 30288
+S
+#30288
+Un incrocio~
+Giungi ad una itersezione di tre tunel, uno proviene da nord uno da ovest e
+uno da sud, in quale direzione andare?
+~
+301 9 0
+D0
+~
+~
+0 -1 30283
+D2
+~
+~
+0 -1 30293
+D3
+~
+~
+0 -1 30287
+S
+#30289
+La svolta~
+Giungi ad una svolta del tunel, esso prosegue verso nord, dove non vedi
+niente, e verso est dove non vendi ancora niente.
+~
+301 9 0
+D0
+~
+~
+0 -1 30284
+D1
+~
+~
+0 -1 30290
+S
+#30290
+Un'intersezione~
+Camminando con la mano lungo il muro ti accorgi ad un certo punto che vi e'
+una biforcazione nel tunnel, puoi andare o a est o anord o a sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30285
+D1
+~
+~
+0 -1 30291
+D3
+~
+~
+0 -1 30289
+S
+#30291
+Un trivio~
+Sei impiedi nel mezzo di un trivio, ti accorgi che e' vi sono tre vie
+possibili perche' a sud tocchi un muro, per il resto non vedi niente. Puoi
+andare a est, nord e ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30286
+D1
+~
+~
+0 -1 30292
+D3
+~
+~
+0 -1 30290
+S
+#30292
+Lo spiffero d'aria~
+Uno spiffero d'aria fresca che proviene dal soffitto, ti fa notare
+un'appertura che porta verso l'alto. Se no la galleria continua verso est e
+ovest.
+~
+301 9 0
+D1
+~
+~
+0 -1 30293
+D3
+~
+~
+0 -1 30291
+D4
+~
+~
+0 -1 30272
+S
+#30293
+La piega nel tunel~
+Il tunel gira all'improviso cambiato direzione e lasciandoti disorientato,
+in che direzione vuoi procedere verso nord o verso ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30288
+D3
+~
+~
+0 -1 30292
+S
+#30294
+Un'apertura nel soffito~
+Sei alla fine di un tunnel, sopra di te noti un'apertura dalla quale
+proviene un venticello. La galleria continua a sud.
+~
+301 9 0
+D2
+~
+~
+0 -1 30297
+D4
+~
+~
+0 -1 30284
+S
+#30295
+La camera reale~
+Sei giunto nella camera reale del formicaio, qui c'e' la regina accudita da
+tutte le altre formiche e diffesa dalle formiche guarriere. Vedi un'uscita
+a est.
+~
+301 9 0
+D1
+~
+~
+0 -1 30296
+S
+#30296
+Un'anticamera~
+Ormai il tunnel e' cosi' largo che non puoi piu' definirlo come tale,
+sembra quasi che sia l'anticamera di un qualcosa che sta a ovest. 
+~
+301 13 0
+D2
+~
+~
+0 -1 30298
+D3
+~
+~
+0 -1 30295
+S
+#30297
+Il tunnel~
+Continui camminare lungo il tunnel e man mano che procedi ti sembra che
+vada sempre di piu' ad allargarsi ... o sara' una tua impressione? Puoi
+prosseguire verso nord e sud.
+~
+301 9 0
+D0
+~
+~
+0 -1 30294
+D2
+~
+~
+0 -1 30299
+S
+#30298
+Un largo tunnel~
+Il tunnel ormai ha preso dimensioni abbastanza grandi, col buio che c'e'
+non riesci quasi a vedere le pareti. Puoi continuare verso nord e verso
+est.
+~
+301 9 0
+D0
+~
+~
+0 -1 30296
+D1
+~
+~
+0 -1 30299
+S
+#30299
+Un tunnel piu' largo~
+Col avvanzare dentro il tunnel le pareti vanno allargandosi sempre di piu',
+prensi di essere vicino a qualcosa di concreto ma cosa? La galleria
+continua versto nord e ovest.
+~
+301 9 0
+D0
+~
+~
+0 -1 30297
+D3
+~
+~
+0 -1 30298
+S
+$~

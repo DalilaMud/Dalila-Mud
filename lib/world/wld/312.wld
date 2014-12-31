@@ -1,0 +1,757 @@
+#31200
+The Beginning~
+Not much here.
+~
+312 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31201
+Il corridoio energetico~
+Il corridoio pietroso nel quale ti stai inoltrando brilla di energia viva.  
+Piccole scariche di elettricita' e qualche esplosione di scintille si
+susseguono sulle pareti, il che non ti conforta dato che ad ogni passo il tutto
+sembra aumentare.  Una grandissima &1INCISIONE&0 in altorilievi e' posta in
+bella vista alla tua sinistra, forse contiene informazioni su questo strano
+ambiente.    
+~
+312 0 0
+D0
+~
+~
+0 0 31202 0
+D2
+~
+~
+0 0 31107 0
+E
+guarda incisione~
+&1...  Ha qui inizio il campo energetico catalizzatore di potere.  Se il vostro
+potere e' grande tornate indietro, di corsa.  Le incantate rocce di questo
+corridoio riversano l'energia di chiunque abbia raggiunto una grande forza su
+egli stesso.  E questo significa sicura &7morte&1.  In guardia anche i giovani
+novizi, che se supereranno facilmente questa parete non altrettanto facilmente
+sosterranno le profondita' in cui si addentrano..    
+
+&7Longinus degli spiriti&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31202
+Il campo energetico~
+Non appena metti piede in questa grotta fulmini di energia scoppiano
+ferocemente sulle pareti tutto intorno, solcano il terreno e attraversano il
+tuo corpo dai piedi.  Senti la tua energia fisica e spirituale agitarsi
+violenta sotto la tua pelle...  Sopravviverai ai tuoi stessi poteri arcani?  
+
+~
+312 4 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31202
+#31230
+Un sotterraneo~
+La strana botola della cantina di Nad'Gare da' su un ulteriore passaggio
+sotterraneo.  Il buio e' totale, ma sei sicuro che si tratta di un corridoio...
+Non appena sceso dalle ripide scalette quasi inciampi su un rilievo in ferro
+battuto, sul quale sono riportate alcune frasi incomprensibili, ma
+apparentemente nella lingua dei nani..  Probabilmente questo cunicolo e' stato
+costruito da loro, e potrebbe condurre ad una miniera.    
+~
+312 4 0
+D0
+~
+~
+0 0 31231 0
+D4
+~
+~
+0 0 31130 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31231
+Il buio cunicolo~
+Un sentiero ciottoloso prende forma sotto i tuoi piedi, facendosi sempre piu'
+angusto, tra le strette pareti rocciose grezzamente dilaniate dai picconi dei
+nani.  Non passa molto prima che tu debba piegarti sulle ginocchia per
+proseguire lungo il buio pesto del cunicolo.    
+~
+312 257 0
+D0
+~
+~
+0 0 31232 0
+D2
+~
+~
+0 0 31230 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31232
+Il buio cunicolo~
+Prosegui chino su te stesso, massacrandoti le ginocchia sul suolo pietroso del
+cunicolo che sembra stringersi sempre di piu' sulla tua schiena.  Prosegui
+tastoni nell'oscurita' piu' totale, ma da ogni parte ti trovi circondato da roccia.
+Stai per farti prendere dallo sconforto quando senti che davanti a te si apre
+uno stretto buco nella pavimentazione.    
+~
+312 257 0
+D2
+~
+~
+0 0 31231 0
+D5
+~
+~
+0 0 31233 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31233
+Una ripida discesa~
+Scivoli cautamente per un paio di metri rotolando con la faccia nella terra
+mentre le tue ginocchia e i tuoi gomiti si feriscono in uno spiacevole scontro
+con le pareti rocciose.  Senti che il terreno sul quale giaci adesso nella vana
+speranza di capire come rimetterti in piedi (sempre che tu sappia ancora qual'e'
+l'alto e quale il basso) sembra paurosamente sgretolarsi tra le tue dita..    
+~
+312 256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31233
+#31234
+L'orlo del burrone~
+Precipiti in una nube di polvere finalmente alla fine del camino di
+roccia,pochi secondi prima che una grandinata di sassi ti piova dolorosamente
+in testa.  Sei graffiato,sporco,livido e ti bruciano gli occhi per il
+terriccio, tuttavia non puoi fare a meno di ritenerti incredibilmente fortunato
+appena riesci a percepire dove ti trovi:un pallore argenteo che spezza le
+tenebre ti consente di constatare che giaci a pochi centimenti dal ciglio di un
+interminabile baratro del quale non riesci a scorgere ne' il fondo ne' l'altra
+sponda!  Senza pensarci due volte ti affretti sullo sperone di roccia alla tua
+destra.    
+~
+312 0 0
+D1
+~
+~
+0 0 31236 0
+D2
+~
+~
+0 0 31235 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31235
+L'abisso~
+Appena metti il piede in fallo senti un coro di risate echeggiare nella tua
+testa.  Il tuo corpo precipita mentre la tua mente viene dilaniata dalle urla
+di colore che vi persero la vita prima di te..    
+
+Questa e' la tragica sorte di chi sfida l'Abisso dei Sospiri
+
+Addio, o folle.
+~
+312 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#31236
+Il ciglio di roccia~
+Ti inerpichi sulla stretta sponda rocciosa che corre lungo questo lato della
+parete che ti sovrasta;tutt'intorno a te vedi solo immensita': uno smisurato
+burrone si apre sotto i tuoi piedi,perdendosi nelle tenebre piu' cupe; sopra la
+tua testa non riesci a scorgere la fine di questa immensa volta rocciosa che
+appare inqietantemente pallida, illuminata da una luce che non ti spieghi da
+dove provenga; tutto si perde nelle tenebre cupe dell'underground.  Ora non
+puoi che proseguire lungo il ciglio.    
+~
+312 256 0
+D1
+~
+~
+0 0 31237 0
+D2
+~
+~
+0 0 31235 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31237
+Il ciglio di roccia~
+La sponda rocciosa continua lungo l'immensa voragine, mentre scopri che
+un'assurda vegetazione cresce tra le faglie della parete di roccia: piante che
+nemmeno lontanamente possono ricordare quelle della superficie qua crescono in
+abbondanza, unendo colori sbiaditi e tetri a forme quasi piu' rettili che
+vegetali.  Uno di questi viscidi rampicanti scende fino ad uno sperone roccioso
+sul ciglio del quale ti sembra di vedere la sponda di un ponte!  Puoi solo
+sperare nella fortuna e calarti lungo la radice.    
+~
+312 256 0
+D2
+~
+~
+0 0 31235 0
+D3
+~
+~
+0 0 31236 0
+D5
+~
+~
+0 0 31238 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31238
+Una viscida radice~
+E' un enorme, orrendo rampicante!
+~
+312 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31238
+#31239
+La sponda di roccia~
+La stretta sponda rocciosa si eleva sul burrone sempre piu' buio e inquietante,
+lasciando sufficiente spazio per piu' persone.  Il suolo e' unto e
+vischioso,probabilmente per causa di quella disgustosa radice che continua a
+far gocciolare un lattice dalla puzza insopportabile.  Dietro le tue spalle,
+nella smisurata parete di roccia, si apre una stretta caverna buia e
+maleodorante (anche se a malapena riesci a distinguere la puzza vomitevole
+della pianta da tutti gli altri odori), mentre a pochi passi da te uno stretto
+ponticello di assi tarlate si inoltra nelle tenebre, ondeggiando ad ogni
+sussulto di vento.    
+~
+312 0 0
+D0
+~
+~
+0 0 31241 0
+D2
+~
+~
+0 0 31240 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31240
+Una buia caverna~
+Muovi il tuo primo passo nella caverna, e gia te ne penti:il tuo piede
+lentamente affonda con un disgustoso suono di viscere in un pavimento molliccio
+e viscido, come se stessi camminando su un tappeto di frattaglie; una puzza
+insopportabile ti penetra le narici fino a farti girare la testa, e per poco
+non scivoli sui liquami viscidi che ti inzuppano i piedi.  Decidi che non ce la
+fai a resistere, ma prima di poter tornare indietro un'orrenda lingua setolosa
+si avvinghia intorno alla tua caviglia!  Sei nella tana di qualche orribile
+bestia...    
+~
+312 0 0
+D0
+~
+~
+0 0 31239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31241
+L'inizio del ponte~
+Poggi cautamente il primo piede sulle assi incerte del ponte, che per ora
+sembra reggerti.  Le corde che sostengono la passerella si inoltrano nel buio
+piu' totale, e per quanto ti sforzi di non guardare il tuo occhio scivola
+all'immenso baratro che si apre sotto di te...  Continuerai?    
+~
+312 256 0
+D0
+~
+~
+0 0 31242 0
+D2
+~
+~
+0 0 31239 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31242
+Il ponticello d'assi~
+Hai fatto solo pochi passi ma gia' la parete di roccia e' sparita nella
+penombra: ora riesci a malapena a distinguere il percorso tracciato dalle poche
+assi che vedi nell'oscurita', oltre le quali il ponte viene inghiottito dalle
+tenebre...    
+~
+312 256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31242
+#31243
+Il ponte dei sospiri~
+Il baratro sotto di te riecheggia dei lamenti angosciosi che si sollevano dal
+fondo, mentre raccogli le tue forze per vincere il terrore e trascinarti lungo
+le assi traballanti.    
+~
+312 256 0
+D0
+~
+~
+0 0 31244 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31244
+Un altro passo sul ponte dei sospiri..~
+Il ponte ondeggia paurosamente sotto i tuoi piedi, come animato dai tetri
+lamenti che salgono dall'abisso.  Non sai dire se sia la tua paura a causarti
+allucinazioni, o se veramente il ponte ora si dirami in ogni direzione, in ogni
+caso devi muovere il tuo prossimo passo o rischi di impazzire per l'angoscia.
+  
+~
+312 0 0
+D0
+~
+~
+0 0 31244 0
+D1
+~
+~
+0 0 31245 0
+D2
+~
+~
+0 0 31244 0
+D3
+~
+~
+0 0 31247 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31243
+#31245
+Un altro passo sul ponte dei sospiri~
+Il ponte ondeggia paurosamente sotto i tuoi piedi, come animato dai tetri
+lamenti che salgono dall'abisso.  Non sai dire se sia la tua paura a causarti
+allucinazioni, o se veramente il ponte ora si dirami in ogni direzione, in ogni
+caso devi muovere il tuo prossimo passo o rischi di impazzire per l'angoscia.
+  
+~
+312 256 0
+D0
+~
+~
+0 0 31247 0
+D1
+~
+~
+0 0 31244 0
+D2
+~
+~
+0 0 31245 0
+D3
+~
+~
+0 0 31246 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31245
+#31246
+Un altro passo sul ponte dei sospiri~
+Il ponte ondeggia paurosamente sotto i tuoi piedi, come animato dai tetri
+lamenti che salgono dall'abisso.  Non sai dire se sia la tua paura a causarti
+allucinazioni, o se veramente il ponte ora si dirami in ogni direzione, in ogni
+caso devi muovere il tuo prossimo passo o rischi di impazzire per l'angoscia.
+  
+~
+312 0 0
+D0
+~
+~
+0 0 31248 0
+D1
+~
+~
+0 0 31247 0
+D2
+~
+~
+0 0 31244 0
+D3
+~
+~
+0 0 31245 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31246
+#31247
+Il vortice di anime~
+L'angoscia e il terrore ti hanno fatto commettere un passo falso...  I lamenti
+assordanti ti penetrano il cervello fino a farti impazzire, mentre precipiti
+eternamente nell'Abisso dei Sospiri...    
+~
+312 2 0
+F
+ 1 0 0 0 0 0 0 0 0 0
+S
+#31248
+Uno sperone di roccia~
+Ti sembra un miracolo quando tocchi finalmente la terraferma.  Le urla
+angoscianti si affievoliscono lentamente fino a sparire del tutto, lasciandoti
+a baciare la fredda roccia.  Ma ora non riesci a fermarti per ritrovare la
+lucidit..  Devi proseguire.    
+~
+312 0 0
+D0
+~
+~
+0 0 31249 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31249
+Un'arcata nella parete rocciosa~
+Nella smisurata parete che anche da questa sponda dela burrone sovrasta
+l'Abisso dei Sospiri si apre un'arcata scolpita nella pietra, di un gusto
+tetramente grottesco.  Quantunque questo posto ti sembri assolutamente assurdo
+sei vagamente certo di aver gia' visto alcuni dei simboli incavati nella pietra
+nera.    
+~
+312 0 0
+D0
+~
+~
+0 0 31250 0
+D2
+~
+~
+0 0 31248 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31250
+Un largo corridoio in ombra~
+Prosegui sospettoso lungo le pareti accuratemente lavorate di questo basso
+camminatoio in pietra lavica, imbattendoti di tanto in tanto in altri dettagli
+di costruzione a te gia' vagamente noti: la lavorazione e' elegante e precisa,
+quasi come quella elfica, anche se i fregi acuminati e i motivi ripetuti, che
+ricordano vagamente i piu' orribili ragni esistenti, sono molto piu' tetri e
+macabri dell'architettura elfica.    
+~
+312 256 0
+D0
+~
+~
+0 0 31251 0
+D2
+~
+~
+0 0 31249 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31251
+Un cancello di metallo nero~
+Dinanzi a questa imponente cancellata di metallo scuro sei certo di non poterti
+piu' sbagliare: e' decisamente opera degli elfi scuri.  Le lunghe intelaiature
+metalliche raggiungono i venti metri di altezza, sotto una volta che ora si e'
+fatta improvvisamente piu' alta, ma oltre le sbarre di ferro non puoi vedere
+altro che tenebre.  Ti chiedi se sia il caso di tornare indietro quando noti
+con sgomento che il corridoio dietro di te e' stato inghiottito dalla roccia...
+  
+~
+312 0 0
+D2
+~
+~
+0 0 31250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31251
+#31252
+Un cancello di metallo nero~
+La porta del cancello si e' spalancata, per lasciarti al tuo destino.  
+Preparati a lottare contro te stesso.    
+~
+312 0 0
+D0
+~
+~
+0 0 31253 0
+D2
+~
+~
+0 0 31250 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31253
+&1La porta dell'Odio&0~
+La prima delle tre porte si erige davanti a te come un'immensa massa vermiglia
+pulsante di corpi contorti che si dilaniano con i denti e gli artigli l'uno con
+l'altro, tutti urlanti rabbia follemente cieca.  L'immensa porta sembra
+stagliarsi oltre la volta immersa nelle tenebre sino all'infinito,e piu' fai
+salire il tuo sguardo lungo l'oscena massa di corpi, piu' la tua mente viene
+ottenebrata da un sentimento iracondo che ti fa perdere la ragione...    
+~
+312 256 0
+D0
+
+~
+cancellata~
+2 16015 31254 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 31250
+#31254
+&b&1La porta dell'invidia&0~
+Questa seconda porta e' decisamente piu' piccola della precedente.  Una forma
+indefinita, strisciante e viscida si muove sulla superficie delle possenti
+ante, di un vago colorastro giallo smorto.  Tutto in questa porta e' viscido e
+meschino, a partire dalle dimensioni, e la sua sola vista ti suscita una
+sensazione di basso e gretto desiderio.    
+~
+312 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31255
+&1La porta della Vendetta&0~
+Quest'ultima porta, incupita del piu' basso dei sentimenti, si confonde nelle
+tenebre che la contengono, e solo di rado distingui un volto che emerge
+dall'oscurita' fissandoti con rabbia assassina.  La tua indignazione per questa
+specie di tortura che ti sembra di subire e' giunta al culmine: devi massacrare
+il tuo io piu' interiore per vincere l'ultima delle tue paure.    
+~
+312 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31256
+Un ponte instabile~
+Il lungo ponte che si stacca dalla parete di roccia sulla quale sei sbucato
+sembra inoltrarsi davanti a te per molte decine di metri qua l'ambiente e' piu'
+illuminato e riesci a realizzare che ti trovi in un'altra immensa grotta
+naturale dalla volta eccezionalmente alta, popolata da decine di quei
+disgustosi vegetali-rettili che hai gia' incontrato prima.  Ti volti verso il
+ponte per proseguire alla svelta...  Ma con la coda dell'occhio ti sembra di
+aver visto che SI E' MOSSO!    
+~
+312 0 0
+D0
+~
+~
+0 0 31257 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31257
+un ponte instabile~
+Il ponte sembra scolpito nelle forme grottesche di tante anime urlanti ogni
+dettaglio, dalla pavimentazione alla balaustra, raffigura volti contratti dal
+dolore e corpi avvinghiati in un abbraccio mortale l'uno con l'altro...  
+Quantomeno inquietante!  Stai ancora osservando la danza macabra di queste
+statue quando ti rendi conto che dopo pochi passi il ponte termina nel vuoto!
+  
+~
+312 0 0
+D2
+~
+~
+0 0 31256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31258
+Il Ponte di Anime~
+I corpi contorti dei dannati sui quali stai camminando stanno strisciando
+lentamente, continuando il percorso di quest'assurda passerella.  Lanci uno
+sguardo alla cara terraferma dietro di te, e con tuo sommo sgomento ti accorgi
+che, mentre avanza verso il vuoto, il ponte sta lentamente sparendo dietro i
+tuoi piedi!    
+~
+312 0 0
+D0
+~
+~
+0 0 31259 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31259
+Il Ponte di Anime~
+I corpi contorti dei dannati sui quali stai camminando stanno strisciando
+lentamente, continuando il percorso di quest'assurda passerella.  Lanci uno
+sguardo alla cara terraferma dietro di te, e con tuo sommo sgomento ti accorgi
+che, mentre avanza verso il vuoto, il ponte sta lentamente sparendo dietro i
+tuoi piedi!    
+~
+312 0 0
+D0
+~
+~
+0 0 31260 0
+D2
+~
+~
+0 0 31258 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31260
+Una piattaforma di pietra nera~
+Sei su una larga piattaforma circolare, scolpita nella stessa pietra nera del
+corridoio che hai attraversato poco fa.  Lo stile e' ovviamente sempre quello
+Drow, anche se le dimensioni di quest'opera sono decisamente piu' maestose.  
+Sul pavimento spicca il disegno di un gigantesco ragno che divora le creature
+di superficie.  Inquietante, come minimo...    
+~
+312 4 0
+D1
+~
+~
+0 0 31261 0
+D2
+~
+~
+0 0 31259 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31261
+Il centro della piattaforma~
+Finalmente ti rendi conto che i tuoi sforzi non sono stati vani: gli immensi
+edifici di pietra nera che si arrampicano lungo le maestose vetrate violacee
+che riflettono la luce cupa e tetra della volta e le mastodontiche piattaforme
+di roccia nera che sostengono la citta' sopra il lago di sangue sembrano
+confermare che sei giunto a Lach-Nadar, la nemesi di ogni viaggiatore
+dell'Underdark.    
+~
+312 0 0
+D0
+~
+~
+0 0 31262 0
+D1
+~
+~
+0 0 31263 0
+D3
+~
+~
+0 0 31260 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31262
+La passerella~
+Questa stretta passerella senza ringhiera ondeggia paurosamente ad ogni sbuffo
+dei venti torridi che soffiano dal lago bollente.  Dopo pochi passi tremolanti
+ti convinci che l'unica maniera per arrivare dall'altra parte in tempo utile
+sia camminare carponi.    
+~
+312 0 0
+D0
+~
+~
+0 0 31266 0
+D2
+~
+~
+0 0 31261 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31263
+La piattaforma orientale~
+Anche questa piattaforma sembra magicamente sospesa sul lago di sangue, sebbene
+le sue dimensioni siano ancora piu' imponenti delle piattaforme di passaggio.
+Sulla sua superficie finemente incisa sorge un maestoso e inquetante blocco di
+pietra nera scolpito nella forma di un edificio come mai ne hai visti:
+centinaia di feritoie si aprono lungo le sue forme contorte che si arrampicano
+fino al culmine della volta sotterranea, mentre ognuna delle cornici che
+salgono a spirale per tutta la sua lunghezza e' ornata di terrificanti
+gargoyle.    
+~
+312 0 0
+D0
+~
+~
+0 0 31264 0
+D3
+~
+~
+0 0 31261 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31264
+La casa dell'Aracnide~
+Questa piccola baracca quasi non si notava dalla piattaforma, completamente
+adombrata dal colossale edificio.  Mentre ad una prima osservazione appare una
+normalissima capanna ti accorgi dopo un rapido esame che in realta' la sua
+intera struttura e' composta di brandelli di aracnide: ogni elemento e'
+ricavato da cadaveri di ragni accuratamente sezionati e conservati.  Riesci a
+malapena a trattenere un conato di vomito quando ti si presenta il padrone di
+casa sorridendoti amichevolmente.    
+~
+312 0 0
+D2
+~
+~
+0 0 31263 0
+D3
+~
+~
+0 0 31265 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31265
+Il magazzino~
+Il magazzino delle pozioni di Rjinn e' un vomitevole obitorio di ragni
+sezionati, sviscerati e imbarattolati nei loro stessi viscidi liquami.  La
+puzza che emanano gli alambicchi e i bollitori pieni fino all'orlo di
+frattaglie di aracnide e' veramente vomitevole, e hai la nauseante sensazione
+di aver inalato qualcosa di troppo...    
+~
+312 0 0
+D1
+~
+~
+0 0 31264 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#31266
+Un colossale e tetro edificio di pietra nera~
+L'interno di questo mastodontico palazzo e' ancora piu' impressionante e tetro
+di quanto appaia dall'esterno: le altissime colonne si avvinghiano in una danza
+macabra con il muro plasmato dalla magia nella pietra nera, sorreggendo immense
+volte istoriate di simboli votivi a Lol'th; le sconfinate sale si erigono su
+pavimenti ricoperti di arazzi in adamantite che brillano alla luce pallida
+delle sfere luminose affisse alle pareti.  Ti senti sempre piu' piccolo e
+insignificante mentre il rumore dei tuoi passi rimbomba nelle ombre del
+palazzo.    
+~
+312 0 0
+D2
+~
+~
+0 0 31262 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

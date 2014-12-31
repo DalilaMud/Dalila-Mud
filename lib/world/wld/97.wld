@@ -1,0 +1,3996 @@
+#9700
+La scalinata sospesa~
+Questa e' la grande scalinata magica che ti porta su verso il castello del Re.
+Ogni gradino magico e' praticamente sospeso nell'aria; ad ogni passo fatto verso
+l'alto il gradino sottostante si illumina e sprigiona delle mini saette blu'
+segno dell'immensa carica magica che avvolge tutto cio' che ti circonda. Dopo
+alcuni gradini ti accorgi di essere arrivato ad un altezza inverosimile e sotto
+di te riesci a distinguere chiaramente la struttura della citta' di Cimmura.
+
+&1&b<--- SALA DONAZIONI a OVEST&0
+~
+97 0 1
+D0
+~
+~
+0 0 9544 0
+D1
+~
+~
+0 0 9529 0
+D2
+~
+~
+0 0 9514 0
+D3
+~
+~
+0 0 9559 0
+D4
+~
+~
+0 0 9701 0
+E
+Cimmura citta'~
+Immenso crocevia del male. Tutte le vie sono ben ordinate e disposte.
+Da quassu' vedi la vita' scorrere tra le vie e i vicoli.
+Tutto ti sembra cosi' insignificante e tremendamente piccolo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9701
+La scalinata sospesa~
+Questa e' la grande scalinata magica che ti porta giu' verso la citta' di Cimmura.
+Ogni gradino magico e' praticamente sospeso nell'aria; ad ogni passo fatto verso
+il basso il gradino sottostante si illumina e sprigiona delle mini saette blu'
+segno dell'immensa carica magica che avvolge tutto cio' che ti circonda.
+~
+97 0 1
+D4
+~
+~
+0 0 9702 0
+D5
+~
+~
+0 0 9700 0
+E
+Cimmura citta'~
+Immenso crocevia del male. Tutte le vie sono ben ordinate e disposte.
+Da quassu' vedi la vita' scorrere tra le vie e i vicoli.
+Tutto ti sembra cosi' insignificante e tremendamente piccolo.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9702
+I grandi cancelli~
+Sei nel piazzale di fronte ai grandi cancelli che chiudono l'entrata
+al castello. Tutto attorno e' circondato da una fitta nebbia nera carica
+di odio e di male dove l'unico raggio chiaro arriva da un pertugio che
+porta verso la citta' di Cimmura. Una guardia Reale, protetta dalla sua
+armatura nera, e' celata nell'oscurita' pronta a far entrare gli ospiti
+al castello oppure a massacrare gli indesiderati e i nemici del Re.
+~
+97 0 1
+D5
+~
+~
+0 -1 9701 0
+E
+I Grandi Cancelli~
+Due immensi portali di ferro nero e recanti lo stemma del regno ti
+bloccano l'accesso al castello. La loro dimensione e il loro colore
+cupo emanano un senso di paura e solitudine.~
+E
+nebbia nera~
+Una fitta e mefitica nebbia nera circonda tutto. Ad un tratto ti accorgi
+che, come un grande tentacolo, si sta attorcigliando attorno alle tue gambe.
+Senti una strana sensazione come se questa nebbia catturasse le tue forze...
+... meglio muoversi.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9703
+!!MUSIC(lbcastle.mid)L'Atrio piano terra~
+Un immenso atrio giganteggia attorno a te. Il pavimento, il soffitto,
+le colonne, tutto fatto di marmo nero venato di rosso vivo, lucidato
+a specchio. Di fronte a te in mezzo alla sala che' un vecchio usciere
+seduto dietro ad una scrivania. Di fianco a essa una scala, anch'essa 
+in marmo nero, porta verso i piani superiori, mentre a nord, est e ovest
+tre corridoi portano chissa' dove.
+~
+97 0 0
+D0
+~
+~
+0 -1 9705 0
+D2
+~
+~
+0 0 9706 0
+D3
+~
+~
+0 -1 9704 0
+D4
+~
+~
+0 -1 9718 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 9701
+#9704
+Il corridoio della guerra~
+Ti trovi nel corridoio che unisce l'atrio principale con l'anticamera
+del Signore della Guerra. Tutto e' decorato con il solito e ricorrente
+marmo nero.
+Lungo le pareti ci sono appese enormi spade incrociate e sovrastate da
+scudi recanti l'araldica del regno. Ad intervalli regolari ci sono delle
+armature nere, sembrano vive. Mentre percorri tutto il corridoio i tuoi
+passi riecheggiano e rimbombano all'inverosimile creando un tale caos
+che ti sembra di stare in mezzo ad un campo di battaglia.
+~
+97 0 0
+D1
+~
+~
+0 -1 9703 0
+D3
+~
+~
+0 -1 9707 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9705
+Il corridoio della legge~
+Ti trovi nel corridoio che unisce l'atrio principale con l'anticamera
+del grande Inquisitore. Tutto e' decorato con il solito e ricorrente 
+marmo nero.
+L'ambiente e spoglio di ogni ricchezza ed oggettistica eccezion fatta
+per delle pietre dove c'e' inciso sopra qualcosa.
+~
+97 0 0
+D0
+~
+~
+0 -1 9708 0
+D2
+~
+~
+0 -1 9703 0
+E
+Pietre~
+Leggi rapidamente le incisioni e ti accorgi che sono una interminabile
+lista di nomi, ti sorge il dubbio che questi siano  i nomi di persone
+giudicate (e condannante) dal tremendo e famoso INQUISITORE di Cimmura.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9706
+Il corridoio dell'economia~
+Ti trovi nel corridoio che unisce l'atrio principale con l'anticamera
+del Signore dei Tributi. Qui il solito marmo nero e' circondato da ogni
+tipo di sfarzo. Vasi d'oro e piatti d'argento appesi lungo le pareti,
+targhe ed incisioni recanti motti sparsi un po' ovunque. Chi ha
+arredato quest'ala del castello non deve aver badato a spese... alla
+faccia dell'economia.
+~
+97 0 0
+D0
+~
+~
+0 0 9703 0
+D1
+~
+~
+0 -1 9709 0
+E
+targhe incisioni motti~
+Leggi qui e la alcune targhe, ognuno recante un incisione di un motto diverso.
+Uno recita cosi' "Il mattino ha l'oro in bocca... e anche il pomeriggio e 
+la sera!"... un altro riporta "Una moneta guadagnata e' una tassa da Voi pagata!"
+... e ancora "L'oro e il denaro non sono per le tasche altrui".
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9707
+L'anticamera~
+Sei nell'anticamera che precede l'ufficio del signore della guerra.
+L'arredamento come il corridoio precedente e' a TEMA, spade, scudi, armature.
+Una finestra si trova dietro le spalle di una arcigna e muscolosa segretaria
+intenta, tra uno sproloquio e l'altro, a far piazza pulita di tutte le lettere
+che invadono la sua scrivania. Ogni tanto alza gli occhi verso di te e ti
+fulmina con lo sguardo.
+~
+97 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 741573 9710 135
+D1
+~
+~
+0 -1 9704 0
+E
+Finestra~
+Ti affacci alla finestra ermeticamente chiusa e vedi... NEBBIA NERA.~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9708
+L'anticamera~
+Sei nell'anticamera che precede l'ufficio del grande e temibile INQUISITORE.
+Ad est intravedi, dall'uscio semiaperto, una stanza con alcune panche.
+Di fronte a te c'e' una scrivania e dietro ad essa una segretaria dall'aspetto
+scheletrico che appena ti vede ti sorride in un modo davvero poco rassicurante.
+Il resto della stanza e' triste e tenebroso e il tutto e' reso ancora piu'
+deprimente dall'affresco dipinto sul soffitto.
+~
+97 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 994108 9711 129
+D1
+~
+~
+0 -1 9714 0
+D2
+~
+~
+0 -1 9705 0
+E
+dipinto soffitto affresco~
+
+Un affresco che ricopre tutto il soffitto della stanza ripropone alcune scene
+di ordinaria GIUSTIZIA. Un enorme uomo vestito con una tunica nera indica 
+minaccioso una serie di piccoli e indifesi uomini nudi, tutti radunati
+come pecore e tremanti dalla paura. All'orizzonte una terrificante ombra nera
+munita di falce sembra godere della scena.
+SENZA PAROLE!~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9709
+L'anticamera~
+Sei nell'anticamera che precede l'ufficio del Signore dei Tributi. La stanza,
+come il corridoio, e' tempestato con ogni tipo di oggetto prezioso, il tutto
+guardato a vista da una terribile ma bella segretaria. A nord una porta tutta
+in argento chiude l'ufficio del Signore dei tributi.
+~
+97 0 0
+D1
+Una porta di legno.
+~
+porta~
+1 876131 9712 131
+D2
+Una porta di legno.
+~
+porta~
+1 129344 51030 135
+D3
+~
+~
+0 -1 9706 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9710
+L'ufficio del SIGNORE DELLA GUERRA~
+Ti trovi in un immenso salone di marmo nero venato di rosso. Di fronte
+a te giganteggia un enorme scrivania decorata con temi militareschi e
+barbari. Il soffitto e' sorretto da quattro colonne e alla base di ognuna
+un armatura nera lucida con impugnato uno spadone a due mani e' in 
+perenne posizione d'attenti. Due enormi dipinti decorano le due pareti
+libere, mentre la terza e' interrotta da una porticina di ferro massiccio.
+Alcune mappe del regno dono appese ad una bacheca e su di esse ci sono
+marcati dei simboli strani a te sconosciuti. Che sia un piano di battaglia?
+~
+97 2560 0
+D2
+Una porta di legno.
+~
+porta~
+1 741573 9707 167
+D5
+~
+~
+0 -1 9713 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9711
+L'ufficio dell'INQUISITORE~
+Appena entri in questo immenso ufficio un brivido di percorre tutta
+la schiena. Di fronte a te c'e' solo un enorme seggiola in pelle scura
+dove di solito siede l'inquisitore di Cimmura. Non ci sono ne scrivanie
+ne armadi; questo indica che QUI la burocrazia non e' di casa...
+decisioni rapide e dolorose ecco cosa ti viene in mente.
+L'unico diversivo e' dato da un braciere vivace e scoppiettante che si
+trova in un angolo della stanza.
+Una sinistra porta si trova a est.
+~
+97 1125899906845184 0
+D1
+Una porta di legno.
+~
+porta~
+1 740593 9716 161
+D2
+Una porta di legno.
+~
+porta~
+1 994108 9708 161
+D5
+Le scale
+~
+~
+0 0 9821 0
+E
+Braciere~
+Ti avvicini curioso al braciere con la ferma intenzione di capire cosa rende
+cosi' vivace la sua fiamma. Appena ti accosti un senso di malessere 
+ti pervade per tutto il corpo; il fuoco arde grazie al carbone e ad una serie
+di occhi umani e di dita recise. Uno spettacolo davvero terrificante.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9712
+L'ufficio del SIGNORE DEI TRIBUTI~
+Una stanza cosi' non l'avevi mai vista. Oro ovunque. Sedie, scrivanie,
+armadi, per non parlare dei candelabri e di qualsiasi altro oggetto che
+ti circonda. Il tuo unico pensiero e' ora rivolto alle tasse "ECCO DOVE
+VANNO A FINIRE I TUOI SOLDI" pensi ...
+Una grande porta con una serie di strani meccanismi si trova incassata
+nella parte nord. Con lo sguardo dai ancora una rapida carrellata a cio' 
+che ti sta' attorno e alla fine il tuo sguardo cade sul tappeto che sta
+sotto i tuoi piedi. Incredibile e' ricamato con fili d'oro.
+~
+97 2560 0
+D0
+~
+~
+0 -1 9717 0
+D3
+Una porta di legno.
+~
+porta~
+1 876131 9709 163
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9713
+La piccola Armeria~
+Ti trovi nell'armeria personale del Signore della Guerra. I tuoi occhi
+sono esterrefatti alla tremenda visione che ti e' davanti; armi di tutti
+i tipi, spade, lance, pugnali, balestre, archi, mazze, asce, una serie 
+di armature robuste e indistruttibili, scudi, elmi e chi piu' ne ha
+piu' ne metta. Piu' che un armeria sembra un mini ARSENALE.
+~
+97 2560 0
+D4
+~
+~
+0 -1 9710 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9714
+La sala d'attesa~
+Questa sala d'attesa e' l'anticamera che porta al tribunale dell'INQUISITORE.
+Molti la chiamano la sala del non ritorno, perche' pochissima della gente che
+e' stata GIUDICATA nel tribunale ha poi rivisto la luce del giorno.
+Attorno trovi un paio di panche dove sedersi e dove ammirare il temibile 
+portone che porta al tribunale. Sopra l'arcata di fonte al portone c'e' una
+targa alquanto eloquente.
+~
+97 0 0
+D0
+~
+~
+0 -1 9715 0
+D3
+~
+~
+0 -1 9708 0
+E
+Targa~
+
+			***********
+	 |------------------------------------------|
+	 | LASCIATE OGNI SPERANZA O VOI CHE ENTRATE |
+	 |------------------------------------------|
+			***********
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9715
+Il tribunale~
+Sei in uno dei luoghi piu' tristi di tutto il castello; il tribunale ovunque
+e sinonimo di giustizia, ma qui questo termine ti sembra solo un suono senza
+nessun significato apparente. Tutte le finestre sono nascoste da pesanti tende
+nere con sopra ricamata l'araldica del Regno. Una serie di panche di noce sono
+disposte in dieci file di fronte al bancone dei giudici. Al centro, solitari,
+la sedia del giudizio, dove il malcapitato di turno è sotto gli occhi di tutti.
+~
+97 0 0
+D0
+~
+~
+0 -1 9716 0
+D2
+~
+~
+0 -1 9714 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9716
+La sala delle decisioni~
+Questa sala e' riservata a coloro che devono giudicare gli imputati
+per i loro crimini, o per i loro NON crimini.
+Il posto e' alquanto spoglio perche' di solito le decisioni ma soprattutto
+le PUNIZIONI sono alquanto rapide da prendere. Inutile quindi riempire
+la stanza di oggetti che prendano solo la polvere.
+~
+97 0 0
+D2
+~
+~
+0 -1 9715 0
+D3
+Una porta di legno.
+~
+porta~
+1 740593 9711 129
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9717
+La camera del tesoro~
+Un piccola cassaforte piena di ogni ricchezza.
+Vasi, piatti, lingotti, monete, bauli colmi di tesori, basta allungare
+la mano per diventare ultra ricchi. Peccato che ci siano quei 10 cani
+assassini di guardia.
+~
+97 2560 0
+D2
+~
+~
+0 -1 9712 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9718
+L'atrio primo piano~
+Ti trovi nel grande atrio al primo piano di questo immenso castello.
+Grandi colonne sorreggono la volta, sul pavimento un mosaico che 
+rappresenta la struttura citta' di Cimmura, come se fosse una grande
+mappa. A nord si trova uno stupendo portale guardato a vista da due
+guardie reali e al loro fianco si trova un omone che appena ti vede 
+ti sorride e si avvicina a te. a Est uno strano ingresso porta chissa'
+dove.~
+97 0 0
+D0
+~
+~
+0 -1 9723 0
+D1
+~
+~
+0 -1 9752 0
+D2
+~
+~
+0 -1 9719 0
+D5
+~
+~
+0 -1 9703 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9719
+Il grande corridoio~
+Un piccolo corridoio collega l'atrio del primo piano con una grande
+stanza. Quattro armature nere, mimetizzare con il nero del marmo,
+sono poste ad ognuno dei quattro angoli del corridoio.
+A nord, attraverso una porta spalancata, vedi una grande anticamera.
+~
+97 0 0
+D0
+~
+~
+0 -1 9718 0
+D2
+~
+~
+0 -1 9720 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9720
+La grande anticamera~
+Un grande stanzone si apre sotto un decoratissimo soffitto. Alcune
+statue si amalgamano perfettamente con lo stile scuro e tetro della
+stanza. Una scrivania e' al centro del locale e dietro di essa una
+pallida segretaria ti sorride amichevolmente, strano, molto strano.
+~
+97 0 0
+D0
+~
+~
+0 -1 9719 0
+D1
+Una porta di legno.
+~
+porta~
+1 768560 1442 135
+D2
+Una porta di legno.
+~
+porta~
+1 879054 1444 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9721
+L'ultima guardia~
+Ti trovi in una stanza vuota , completamente bianca e ben illuminata, le ombre qui fanno davvero fatica ad esistere
+~
+97 36 0
+D0
+~
+~
+1 0 9722 19
+D2
+~
+~
+0 0 9899 4
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9722
+La stanza sigillata~
+ti ritrovi in una stanza piena di giochi, balocchi e tutto ciò che puo servire ad un bambino per distrarlo dal fare danni 
+~
+97 14976 0
+D2
+~
+~
+1 -1 9721 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9723
+Il salone dei ricevimenti~
+Uno sfarzoso salone si apre ai tuoi occhi. Una serie di tavoli di legno 
+circondati da sedie di ottima finitura sono sparsi un po' ovunque, tutti 
+imbanditi e ben curati nell'aspetto, pronti a ricevere affamati ospiti.
+Al centro della sala, sul pavimento, un mosaico ricostruisce l'araldica del 
+regno in tutto il suo splendore. Al soffitto un unico candelabro d'oro carico di
+candele nere spadroneggia. A est e a ovest due porte chiuse portano chissa' 
+dove, mentre a nord due portali di magnifica e oscura bellezza chiudono, senza
+ombra di dubbio, la sala del trono.
+~
+97 0 0
+D0
+~
+~
+0 -1 9730 0
+D1
+~
+~
+0 -1 9726 0
+D2
+~
+~
+0 -1 9718 0
+D3
+~
+~
+0 -1 9724 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9724
+Le cucine reali~
+Fumo, odori, aromi naturali e non, pentole e fuochi accesi ovunque riempiono
+questa particolare cucina. Il re, esigentissimo in fatto di cibo, non lascia 
+un minuto libero ai suoi cuochi reali che quando non cucinano per la sua fame
+si adoperano a raffinate ricette e a sperimentarne di nuove. Fallire un 
+piatto reale potrebbe costare anche la vita... quando va bene.
+~
+97 0 0
+D1
+~
+~
+0 -1 9723 0
+D3
+~
+~
+0 -1 9725 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9725
+La dispensa~
+Una piccola dispensa si trova qui'. Piccola ma rifornitissima; ogni ripiano
+e stracolmo di spezie, frutta, spezie, grossi e succulenti pesci e animali
+di ogni tipo, in un particolare scaffale alcuni CONDIMENTI decisamente 
+sconosciuti emanano un odore non del tutto AROMATICO.
+Dal basso, proveniente da una scalinata scavata nella roccia, uno spiffero
+umido ti alita in faccia.
+~
+97 0 0
+D1
+~
+~
+0 -1 9724 0
+D5
+~
+botola~
+1 9500 9739 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9726
+La grande sala delle riunioni~
+Questa sala e' riservata agli incontri ufficiali tra il Re e i vari funzionari
+del regno. A volte ed in casi eccezionali vengono introdotti anche nobili
+e funzionari di altri regni. Le decisioni prese qui sono sempre die estrema
+importanza.
+~
+97 0 0
+D2
+~
+~
+0 -1 9730 0
+D3
+~
+~
+0 -1 9723 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9727
+Scalone Ovest~
+Una grande scalinata di marmo nero coperta da un tappeto rosso porta
+verso gli alloggi del Re. Alla base e in cima della scala due armature
+nere sorvegliano l'accesso alle stanze.
+~
+97 0 0
+D1
+~
+~
+0 -1 9730 0
+D4
+~
+~
+0 -1 9732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9728
+Scalone Est~
+Una grande scalinata di marmo nero coperta da un tappeto rosso porta
+verso gli alloggi del Re. Alla base e in cima della scala due armature
+nere sorvegliano l'accesso alle stanze.
+~
+97 0 0
+D3
+~
+~
+0 -1 9730 0
+D4
+~
+~
+0 -1 9731 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9729
+Il grande pulpito~
+Da quassu' il Re puo' affacciarsi alla stanza del trono ed eventualmente
+tenere un discorso per i suoi funzionari e primi ministri. Una tenda
+rossa bordata di nero ricopre parzialmente un balconcino che si trova
+proprio sopra il trono. Un lungo tappeto si estende a nord verso gli
+alloggi regali.
+~
+97 0 0
+D0
+~
+~
+0 -1 9733 0
+D1
+~
+~
+0 -1 9731 0
+D3
+~
+~
+0 -1 9732 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9730
+L'imperiale sala del trono~
+Sei nella stanza del trono. Subito salta all'occhio il grande trono
+fatto di ossa finemente lavorate ed intarsiate. Dodici colonne, ognuna
+delle quali decorate con fregi e simboli sacri, sorreggono un enorme
+soffitto ricoperto per intero da specchi. Sul pavimento il marmo nero
+lascia spazio, nella parte centrare, ad un grande pentagono inscritto
+in un cerchio. Due grandi scalinate salgono a est e a ovest del trono.
+Una tenda dietro il trono lascia intravedere un portoncino che porta
+chissa' dove.
+~
+97 0 0
+D0
+~
+~
+0 -1 9726 0
+D1
+~
+~
+0 -1 9728 0
+D2
+~
+~
+0 -1 9723 0
+D3
+~
+~
+0 -1 9727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9731
+Pianerottolo Est~
+Un piccolo pianerottolo decorato con un semplice tappeto sul pavimento
+collega le scalinate che portano alla sala del trono ad un piccolo pulpito
+Sulla parete un dipinto raffigurante il re ti osserva minaccioso.
+~
+97 0 0
+D3
+~
+~
+0 -1 9729 0
+D5
+~
+~
+0 -1 9728 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9732
+Pianerottolo Ovest~
+Un piccolo pianerottolo decorato con un semplice tappeto sul pavimento
+collega le scalinate che portano alla sala del trono ad un piccolo pulpito
+Sulla parete un dipinto raffigurante il re ti osserva minaccioso.
+~
+97 0 0
+D1
+~
+~
+0 -1 9729 0
+D5
+~
+~
+0 -1 9727 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9733
+L'anticamera del Re~
+Una stupenda saletta si apre ai tuoi occhi, molto curata nei particolari
+molte armature armate di tutto punto, vasi e piatti d'oro riempiono
+le varie pareti. un grande tappeto ricopre per tre quarti il pavimento.
+Due guardie reali sono appostate davanti al portone che introduce agli
+alloggi del re. Ad est si intravede una stanza dove alcune guardie si
+rilassano in attesa del loro turno di guardia.
+A ovest una porta chiusa porta verso una stanzetta riservata unicamente
+alla servitu' particolare del re.
+~
+97 16 0
+D0
+~
+~
+0 -1 9736 0
+D1
+~
+~
+0 -1 9735 0
+D2
+~
+~
+0 -1 9729 0
+D3
+~
+~
+0 -1 9734 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9734
+La stanzetta della servitu'~
+Una piccola stanza fa da alloggio ad una serie di servi e cameriere particolari
+del Re. Questi sono la servitu' meglio addestrata di tutto il regno; fieri
+di servire il loro sovrano giorno e notte si accontentano di vivere nel castello
+SENZA STIPENDIO.
+~
+97 0 0
+D1
+~
+~
+0 -1 9733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9735
+La stanza delle guardie Reali~
+Questa stanza fa da alloggio al corpo di guardia del Re. Qui puoi trovare
+l'elite delle guardie, un corpo appositamente e altamente addestrato per
+difendere fino alla morte il sovrano. Fare parte di questa corpo non
+vuol dire solo avere la fiducia del re, ma anche in tutto il regno questi
+uomini sono considerati davvero speciali e trattati ovunque con molto
+riguardo e ammirazione.
+~
+97 0 0
+D3
+~
+~
+0 -1 9733 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9736
+Gli alloggi del Re~
+Un letto con baldacchino ti appare proprio al centro della stanza tutto
+tappezzato di velluto nero con trame rosso acceso. Due enormi finestroni
+si affacciano sulla citta' di Cimmura mentre al soffitto un affresco
+ripercorre gran parte della storia della Daresia.
+Uno strano odore sulfureo si avverte in tutta la stanza.
+Ad ovest un piccolo portoncino aperto porta al guardaroba del re
+mentre a est i bagni reali sono sempre pronti ad accogliere il sovrano.
+~
+97 2560 0
+D1
+~
+~
+0 -1 9737 0
+D2
+~
+~
+0 -1 9733 0
+D3
+~
+~
+0 -1 9738 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9737
+I bagni reali~
+Ti trovi nei bagni reali. Qui una enorme vasca e' sempre pronta e ricolma di acqua
+sulfurea sgorgante da una fonte apparentemente magica. Una serie di specchi sono
+appoggiati lungo tutte le pareti, mentre un piccolo divanetto in un angolo viene
+utilizzato dalle concubine del re per i loro giochetti erotici che tanto sollazzano
+il loro sire.
+~
+97 0 0
+D3
+~
+~
+0 -1 9736 0
+D5
+~
+botola~
+1 0 9135 3
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9738
+L'enorme guardaroba~
+Mai vista una cosa del genere. Centinaia e centinaia di vestiti, velluti,
+tonache, pelli di animali rari conciate, armature di ogni tipo e colore; il
+tutto ben riposto e piegato con la massima cura. Questo e' il guardaroba
+personale del re, ogni cosa qui e' stata fatta su misura per lui senza
+badare a spese e curata fin nei minimi particolari.
+Lungo una parete un piccolo scrigno posto su di un tavolo di mogano custodisce,
+durante la notte, la corona e lo scettro del re. Non ci sono uscite,
+eccezion fatta per la porticina che porta nella stanza regale.
+~
+97 2560 0
+D1
+~
+~
+0 -1 9736 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9739
+L'ingresso dei magazzini~
+Sei nei sotterranei del castello. Un clima umido e freddo riempie questa
+stanza ricavata nella roccia. La muffa sparsa lungo tutte le pareti rende
+il tutto molto deprimente. Quattro gallerie anch'esse ricavate nella dura
+riccia partono nelle quattro direzioni principali.
+Al centro una piccola scrivania con sopra un calamaio, una penna d'oca ed 
+un enorme librone tutto sgualcito nascondono un piccolo ometto.
+~
+97 2560 0
+D0
+~
+~
+0 -1 9740 0
+D1
+~
+~
+0 -1 9742 0
+D2
+~
+~
+0 -1 9741 0
+D3
+~
+~
+0 -1 9743 0
+D4
+~
+botola~
+1 -1 9725 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9740
+Corridoio nord~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come magazzini reali.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D1
+Una porta di legno.
+~
+porta~
+1 993459 9744 135
+D2
+~
+~
+0 -1 9739 0
+D3
+Una porta di legno.
+~
+porta~
+1 201022 9745 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9741
+Corridoio sud~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come magazzini reali.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D0
+~
+~
+0 -1 9739 0
+D1
+Una porta di legno.
+~
+porta~
+1 628051 9746 135
+D3
+Una porta di legno.
+~
+porta~
+1 669975 9747 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9742
+Corridoio est~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come magazzini reali.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 599512 9748 135
+D2
+Una porta di legno.
+~
+porta~
+1 920340 9749 135
+D3
+~
+~
+0 -1 9739 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9743
+Corridoio ovest~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come magazzini reali.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D0
+Una porta di legno.
+~
+porta~
+1 541800 9750 135
+D1
+~
+~
+0 -1 9739 0
+D2
+Una porta di legno.
+~
+porta~
+1 863423 9751 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9744
+Un magazzino &7"Armature"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro.  
+~
+97 4398046513664 0
+D3
+Una porta di legno.
+~
+porta~
+1 993459 9740 167
+E
+cancello~
+Un enorme cancello in ferro lavorato sigilla l'ingresso del magazzino agli
+ indesiderati. Un enorme trave di ferro ancorato da due fibbie anch'esse
+di ferro assicurano la chiusura piu' ermetica. Come se non bastasse il
+tutto  bloccato da un enorme ed indistruttibile lucchetto. 
+~
+E
+lucchetto~
+Fatto in ferro battuto ... con decorazioni tipiche del regno. 
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9745
+Il magazzino &7"Alimentari"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D1
+Una porta di legno.
+~
+porta~
+1 201022 9740 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9746
+Un magazzino &7"Armi"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D3
+Una porta di legno.
+~
+porta~
+1 628051 9741 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9747
+Un magazzino &7"Falegnameria"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D1
+Una porta di legno.
+~
+porta~
+1 669975 9741 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9748
+Un magazzino &7"Preziosi"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D2
+Una porta di legno.
+~
+porta~
+1 599512 9742 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9749
+Un magazzino &7&b"Animali"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D0
+Una porta di legno.
+~
+porta~
+1 920340 9742 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9750
+Una magazzino &7"Alchemico"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D2
+Una porta di legno.
+~
+porta~
+1 541800 9743 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9751
+Un magazzino &7"Pelletteria"&0~
+Tutto l'interno del magazzino è ricavato nella roccia. Scavato interamente
+dagli schiavi del regno, questo luogo asciutto e freddo e' l'ideale per
+la perfetta conservazione degli alimenti che degli oggetti. L'ingresso
+e' chiuso da un enorme cancello di ferro  
+~
+97 4398046513664 0
+D0
+Una porta di legno.
+~
+porta~
+1 863423 9743 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9752
+L'ingresso delle segrete~
+Qui il marmo nero finisce per dar spazio magicamente a della roccia
+viva. Un piccolo porta ad arco porta verso i luoghi piu' odiati da
+tutto il regno, LE SEGRETE. Urla strazianti e un odore nauseabondo
+salgono dalla tromba delle scale creando nella tua mente immagini di
+davvero terribili. Morte e' l'unico tuo pensiero.
+~
+97 0 0
+D3
+~
+~
+0 -1 9718 0
+D5
+~
+~
+0 -1 9753 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9753
+La sala delle DECAPITAZIONI~
+Qui l'odore del sangue è davvero insopportabile. Un posto davvero triste
+si apre davanti ai tuoi occhi, nella roccia scavata una serie di corridoi
+portano alle celle mentre al centro un enorme ceppo di legno intriso di
+sangue viene usato per le decapitazioni. 
+Un enorme boia carceriere e' sempre vigile e pronto a svolgere senza timore
+il proprio LAVORO.
+~
+97 0 0
+D0
+~
+~
+0 -1 9754 0
+D1
+~
+~
+0 -1 9756 0
+D2
+~
+~
+0 -1 9755 0
+D3
+~
+~
+0 -1 9766 0
+D4
+~
+~
+0 -1 9752 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9754
+Segrete corridoio nord~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come celle.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D0
+~
+grata~
+1 9726 9765 3
+D1
+~
+porta~
+2 9725 9757 15
+D2
+~
+~
+0 -1 9753 0
+D3
+~
+cella~
+2 9725 9758 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9755
+Segrete corridoio  sud~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come celle.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D0
+~
+~
+0 -1 9753 0
+D1
+~
+cella~
+2 9725 9759 15
+D3
+~
+porta~
+2 9725 9760 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9756
+Segrete corridoio  est~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come celle.
+Un paio di torce illuminano a malapena l'ambiente.
+~
+97 0 0
+D0
+~
+grata~
+2 9725 9761 15
+D2
+~
+cella~
+2 9725 9762 15
+D3
+~
+~
+0 -1 9753 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9757
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D3
+~
+porta~
+2 9725 9754 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9758
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a delgi orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D1
+~
+cella~
+2 9725 9754 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9759
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D3
+~
+cella~
+2 9725 9755 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9760
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D1
+~
+porta~
+2 9725 9755 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9761
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D2
+grata
+~
+grata~
+2 9725 9756 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9762
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D0
+~
+cella~
+2 9725 9756 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9763
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D2
+~
+cella~
+2 9725 9766 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9764
+La cella~
+Fredde pareti di umida roccia, odori nauseabondi e sporcizia ovunque ecco
+cosa ti circonda. L'unica cosa presente nella stanza oltre a degli orribili
+ed enormi scarafaggi tigre sono due enormi catene, arrugginite e piene
+di sangue. La poca luce che c'e' arriva dal corridoio filtrata dall'enorme
+e pesante portone che chiude la cella; non una grata non una torcia. Qui
+la vita finisce il su cammino e inizia la corsa verso la morte. 
+~
+97 0 0
+D0
+~
+porta~
+2 9725 9766 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9765
+La cella reale~
+Triste luogo destinato a custodire i prigionieri che contano, o  per meglio
+dire che CONTAVANO. Spoglia e vuota l'unica cosa che si puo' vedere, attraverso
+l'inferriata della porta, e' il ceppo del boia.  
+Buffo. Sul pavimento c'e' un masso che scolpito un foro simile al buco si una
+serratura...
+~
+97 0 0
+D2
+~
+grata~
+1 9726 9754 3
+D5
+~
+~
+0 0 9823 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9766
+Segrete corridoio ovest~
+Un enorme corridoio scavato, da decine di schiavi, nella roccia portano
+ad una serie di piccole grotte utilizzate come celle.
+Un paio di torce illuminano a malapena l'ambiente.~
+97 0 0
+D0
+~
+cella~
+2 9725 9763 15
+D1
+~
+~
+0 -1 9753 0
+D2
+~
+porta~
+2 9725 9764 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9767
+Ingresso Nord delle Corporazioni~
+Ti trovi sotto un grande arco ben lavorato.
+A nord vedi una delle vie principali di Cimmura mentre a sud c'e' un
+via vai di persone, mercanti, carretti di tutte le forme e dimensioni,
+ricolmi di materiale grezzo e finito.
+Appesa al muro trovi una piccola mappa per orientarsi tra le varie
+corporazioni. Sotto, in cerca di elemosina, un vecchietto allunga la
+mano verso di te.
+~
+97 0 0
+D0
+~
+~
+0 0 9522 0
+D2
+~
+~
+0 -1 9768 0
+E
+mappa cartina muro pianta piantina~
+              *                        -----------------------
+              |                        |       LEGENDA       |
+ FUCINA ------+------ SEGHERIA         -----------------------
+              |                        § * = Tu sei qui      §
+              |                        § P = Piazza centrale §
+              |       RAFFINERIA       § O = Uscita Ovest    §
+              |           |            § S = Uscita Sud      §
+          O---P-----------|            §_____________________§
+	      |           |
+              |         MULINO
+              |
+              |
+ MACELLERIA---+------ ERBORISTERIA
+              |
+              S
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9768
+Vialetto Nord~
+Un mucchio di gente continua a spintonarsi  a destra e a sinistra per
+facilitarsi il cammino. Anche tu vieni urtato parecchie volte e la
+tua pazienza ormai sta' per finire quando finalmente superi la gran 
+massa di persone e sbuchi alla fine di questo piccolo vialetto.
+~
+97 0 0
+D0
+~
+~
+0 -1 9767 0
+D1
+~
+~
+0 0 9670 0
+D2
+~
+~
+0 -1 9769 0
+D3
+~
+~
+0 0 9671 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9769
+Vialetto delle Corporazioni~
+Un piccolo viale come al solito affollato ti porta ad alcune stanze
+dette CORPORAZIONI.
+A Ovest una targa in ferro indica la corporazione dei fabbri con la
+loro enorme fucina mentre a est un asse in noce da' il benvenuto alla
+corporazione dei falegnami.
+~
+97 0 0
+D0
+~
+~
+0 -1 9768 0
+D1
+~
+~
+0 -1 9771 0
+D2
+~
+~
+0 -1 9772 0
+D3
+~
+~
+0 -1 9770 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9770
+La corporazione dei &7"Forgiatori"&0~
+In questa lunghissima sala puoi ammirare il lungo e laborioso processo
+che tramuta le molte pietre minerali grezze in perfetti e splendidi
+lingotti.
+Una tramoggia permette di caricare in un enorme secchio le pietre che
+andranno successivamente immerse nella grande fucina nel mezzo della
+sala. Successivamente il liquido fuso viene fatto arrivare, tramite
+piccoli condotti, a dei piccoli stampi con la sagoma del lingotto.
+In fine un addetto stempera i lingotti e li consegna al legittimo
+proprietario.
+~
+97 2097152 0
+D1
+~
+~
+0 -1 9769 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9771
+La corporazione dei &7"Falegnami"&0~
+L'odore inconfondibile del legno tagliato ti sale subito su per le narici.
+Qui puoi lavorare i tuoi tronchi per ricavarne assi e travi da costruzione,
+il tutto sotto il vigile e attento controllo del capo falegname.
+Oltre al tuo utensile puoi trovare qui una sega circolare, una limatrice e
+qualche pialla tutto pericolosamente utile.
+~
+97 8388608 0
+D3
+~
+~
+0 -1 9769 0
+E
+sega circolare~
+Utile, veloce e micidiale ... hai notato le macchie di sangue sulla  sua lama
+rotante?
+~
+E
+limatrice~
+Sia mai che le tue assi abbiano spigoli vivi pericolosi, meglio dargli 
+una limatina qui' e li. Occhio alle dita ...
+~
+E
+Piallatrice~
+Un nastro circolare tempestato di piccoli diamanti, azionato da una  ruota
+collegata ad un mulino gira continuamente.
+Se ti serve ridurre di dimensioni qualche trave o asse troppo ingombrante
+qui fai velocemente il lavoro.
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9772
+Vialetto delle Corporazioni~
+Sei quasi nel cuore sede delle corporazioni, il via vai persone e' davvero
+impressionate. Alcune persone stanno animatamente discutendo su alcuni prezzi, altri
+invece ridono felici e spensierati. In un angolo un cagnolino sperduto ti
+guarda con occhi davvero tristi.
+A nord prosegue il vialetto mentre a sud arrivi al centro della sede.
+~
+97 0 0
+D0
+~
+~
+0 -1 9769 0
+D1
+~
+~
+0 0 9626 0
+D2
+~
+~
+0 -1 9773 0
+D3
+~
+~
+0 0 9625 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9773
+Piazza delle Corporazioni~
+Non te lo aspettavi proprio. Sei nel cuore di questa logo e ai tuoi
+occhi appare una piazza stupenda. Fine marmo lastrica il pavimento,
+mentre alcune colonne sostengono una strana costruzione quadrata al
+centro a cui si puo' accedere grazie ad una scala ben tenuta.
+A ovest e a sud, nonostante il gran numero di persone, riesci a scorgere
+un viottolo mentre a est una vietta piu' tranquilla porta chissa' dove.
+Seduto qui vicino a te una ragazzotto chiede l'elemosina.
+~
+97 0 0
+D0
+~
+~
+0 -1 9772 0
+D1
+~
+~
+0 -1 9782 0
+D2
+~
+~
+0 -1 9784 0
+D3
+~
+~
+0 -1 9776 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9774
+La zecca Reale~
+Appena salito la scala di marmo ti accorgi del perche' questo posto e'
+cosi' ben curato e pulito. Ti trovi nella zecca reale. Questo e' l'unico
+posto dove l'oro e l'argento (sotto forma di lingotti) vengono trasformati
+o cambiati in monete sonanti.
+Un piccolo macchinario, misteriosamente, ingoia i lingotti e li trasforma
+in monete luccicanti. Incuriosito ti avvicini ma vieni subito fermato da una
+guardia reale nella sua tradizionale uniforme nera.
+~
+97 3298534883328 0
+D1
+Uscita
+~
+~
+0 0 9539 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9775
+La corporazione dei &7"Raffinatori"&0~
+Appena entrato sei costretto a coprirti gli occhi tanto e' la luce che
+illumina questo salone. Appena ti abitui alla nuova illuminazione vedi
+distintamente diversi attrezzi, come lenti e mole, per la pulitura e la
+raffinazione di pietre grezze in pietre preziose.
+~
+97 33554432 0
+D2
+~
+~
+0 -1 9782 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9776
+Vialetto Ovest~
+Che strano, qui c'e' pochissima gente. 
+O meglio di gente c'e' ne', ma si muove con una certa RAPIDITA', tutta
+stranamente silenziosa. A differenza degli altri ti fermi un attimo in
+questo luogo che sembra del tutto normale e inizi a guardarti in giro.
+Ad un tratto un manifesto con disegnato su un volto ti incuriosisce.
+Leggi il cartello che dice "ATTENZIONE IL PERICOLOSO PIRATA BARBA VIOLA
+E' IN CIRCOLAZIONE, SE LO INCONTRATE GIRATE AL LARGO"... e sotto inizi
+a studiare il volto disegnato magistralmente. Mmm ti sembra di averlo gia'
+visto. Impallidisci. Proprio sotto il manifesto il temibile pirata ti sta
+fissando. Muoversi, muoversi!!!!
+~
+97 0 0
+D1
+~
+~
+0 -1 9773 0
+D3
+~
+~
+0 -1 9777 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9777
+Ingresso Ovest delle Corporazioni~
+Ti trovi sotto un grande arco ben lavorato.
+A ovest vedi una delle vie principali di Cimmura mentre a est c'e' un
+via vai di persone, mercanti, carretti di tutte le forme e dimensioni,
+ricolmi di materiale grezzo e finito.
+Appesa al muro trovi una piccola mappa per orientarsi tra le varie
+corporazioni.
+~
+97 0 0
+D1
+~
+~
+0 -1 9776 0
+D3
+~
+~
+0 0 9510 0
+E
+mappa cartina muro pianta piantina~
+              N                        -----------------------
+              |                        |       LEGENDA       |
+ FUCINA ------+------ SEGHERIA         -----------------------
+              |                        § * = Tu sei qui      §
+              |                        § P = Piazza centrale §
+              |       RAFFINERIA       § N = Uscita Nord     §
+              |           |            § S = Uscita Sud      §
+          *---P-----------|            §_____________________§
+	      |           |
+              |         MULINO
+              |
+              |
+ MACELLERIA---+------ ERBORISTERIA
+              |
+              S
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9778
+Vialetto delle Corporazioni~
+Un piccolo viale come al solito affollato ti porta ad alcune stanze
+dette CORPORAZIONI.
+A Ovest una piccola testa di porco appesa al muro indica la corporazione
+dei macellai mentre a est una insegna tutta addobbata con fiori di campo
+ti introduce nella corporazione degli erboristi.
+~
+97 0 0
+D0
+~
+~
+0 -1 9784 0
+D1
+~
+~
+0 -1 9779 0
+D2
+~
+~
+0 -1 9783 0
+D3
+~
+~
+0 -1 9780 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9779
+La corporazione degli &7"Erboristi"&0~
+Entri in questa stanza e subito profumi esotici ti inebriano le narici
+Dentro alcuni bracieri vengono bruciate strane erbe che nella combustione
+emanano fumi colorati che si innalzano fino al soffitto dove formano
+stranissime forme nelle quali cominci a vedere materializzarsi ogni cosa
+che ti passi per la testa.
+Qui la gente viene per lavorare le erbe grezze.
+~
+97 536870912 0
+D3
+~
+~
+0 -1 9778 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9780
+La corporazione degli &7"Scuoiatori"&0~
+In questa sala aleggia un odore di morte non indifferente anche se viene
+coperto in parte dall'odore degli unguenti che usano i pellettieri per
+scuoiare gli animali e conservarne le pelli.
+Su un grande tavolo di marmo infine le carcasse vengono macellate
+puntigliosamente e preparate per la cottura.
+Qui la gente viene per scuoiare i velli delle prede piu' belle e macellare
+la selvaggina di qualita' inferiore.
+~
+97 8589934592 0
+D1
+~
+~
+0 -1 9778 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9781
+La corporazione dei &7"Mugnai"&0~
+In questa stanza vengono macinati tutti i farinacei del regno.
+Per ottenere la farina dai farinacei c'e' a disposizione un enorme
+macina mossa da due muli perennemente in circolo al centro della
+stanza. A lato grossi tavoli infarinati ti permettono di completare
+il tuo lavoro.
+~
+97 2147483648 0
+D0
+~
+~
+0 -1 9782 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9782
+Viottolo ~
+Questa piccola via e' tutta bianca.
+Ti domandi il perche' ma subito di dai una risposta. A nord c'e' la
+raffineria di pietre grezze, mentre a sud c'e' il mulino ed entrambi
+i posti, durante la lavorazione, producono una tale quantita' di
+polvere bianca che imbratta ogni cosa... anzi e meglio che ti muova,
+stai per diventare un pupazzo di neve.
+~
+97 0 0
+D0
+~
+~
+0 -1 9775 0
+D1
+~
+~
+0 0 9672 0
+D2
+~
+~
+0 -1 9781 0
+D3
+~
+~
+0 -1 9773 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9783
+Vialetto Sud~
+Un mucchio di gente continua a spintonarsi  a destra e a sinistra per
+facilitarsi il cammino. Anche tu vieni urtato parecchie volte e la
+tua pazienza ormai sta' per finire quando finalmente superi la gran 
+massa di persone e sbuchi alla fine di questo piccolo vialetto.
+~
+97 0 0
+D0
+~
+~
+0 -1 9778 0
+D2
+~
+~
+0 -1 9785 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9784
+Vialetto delle Corporazioni~
+Sei vicino al centro di tutto questo marasma di persone.
+A fatica riesci a portare la tua merce (e il tuo corpo) nella direzione
+giusta. Sembra incredibile ma tutta questa gente lavora dalla mattina
+alla sera,  instancabilmente, per portare a casa un po' di monete d'oro.
+Meglio sbrigarsi prima che le finiscano tutte...
+~
+97 0 0
+D0
+~
+~
+0 -1 9773 0
+D1
+~
+~
+0 0 9628 0
+D2
+~
+~
+0 -1 9778 0
+D3
+~
+~
+0 0 9627 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9785
+Ingresso Sud delle Corporazioni~
+Ti trovi sotto un grande arco ben lavorato.
+A sud vedi una delle vie principali di Cimmura mentre a nord c'e un
+via vai di persone, mercanti, carretti di tutte le forme e dimensioni,
+ricolmi di materiale grezzo e finito.
+Appesa al muro trovi una piccola mappa per orientarsi tra le varie
+corporazioni.
+~
+97 0 0
+D0
+~
+~
+0 -1 9783 0
+D2
+~
+~
+0 0 9560 0
+E
+mappa cartina muro pianta piantina~
+              N                        -----------------------
+              |                        |       LEGENDA       |
+ FUCINA ------+------ SEGHERIA         -----------------------
+              |                        § * = Tu sei qui      §
+              |                        § P = Piazza centrale §
+              |       RAFFINERIA       § O = Uscita Ovest    §
+              |           |            § N = Uscita Nord     §
+          O---P-----------|            §_____________________§
+	      |           |
+              |         MULINO
+              |
+              |
+ MACELLERIA---+------ ERBORISTERIA
+              |
+              *
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9786
+Mercato Interno Ingresso Nord~
+Ti trovi sopra ad una strada ciottolata. Qualche ciuffo d'erba verde tenta
+di spuntare qua e' la tra i vari sassi ben piantati e livellati nel terreno.
+Questo e' l'ingresso nord del mercato di Cimmura e da qui' hai accesso alle
+bancarelle delle materie prime.
+A nord sbuchi in una via principale della citta' mentre a sud il ciottolato
+continua verso le prime bancarelle.
+~
+97 0 0
+D0
+~
+~
+0 0 2404447 0
+D2
+~
+~
+0 -1 9789 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9787
+Mercato Interno Ingresso Sud~
+Ti trovi sopra ad una strada ciottolata. Qualche ciuffo d'erba verde tenta
+di spuntare qua e' la tra i vari sassi ben piantati e livellati nel terreno.
+Questo e' l'ingresso sud del mercato di Cimmura e da qui' hai accesso alle
+bancarelle delle materie prime.
+A sud sbuchi in una via principale della citta' mentre a nord il ciottolato
+continua verso le prime bancarelle.
+~
+97 0 0
+D0
+~
+~
+0 -1 9793 0
+D2
+~
+~
+0 0 2404647 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9788
+Mercato Interno Ingresso Est~
+Ti trovi sopra ad una strada ciottolata. Qualche ciuffo d'erba verde tenta
+di spuntare qua e' la tra i vari sassi ben piantati e livellati nel terreno.
+Questo e' l'ingresso est del mercato di Cimmura ed da qui' hai accesso alle
+bancarelle delle materie prime.
+A est sbuchi in una via principale della citta' mentre a ovest il ciottolato
+continua verso le prime bancarelle.
+~
+97 0 0
+D1
+~
+~
+0 0 2404548 0
+D3
+~
+~
+0 -1 9796 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9789
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+Ad est e a ovest ci sono due bancarelle coperte da tende colorate 
+a sud il sentiero continua mentre a nord vai verso un uscita.
+~
+97 0 0
+D0
+~
+~
+0 -1 9786 0
+D2
+~
+~
+0 -1 9790 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9790
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A Ovest ce' una vivace bancarella, mentre a nord, sud e ovest il
+mercato continua.
+~
+97 0 0
+D0
+~
+~
+0 -1 9789 0
+D1
+~
+~
+0 -1 9799 0
+D2
+~
+~
+0 -1 9791 0
+D3
+~
+~
+0 -1 9802 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9791
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A nord e a Sud il sentiero continua.
+~
+97 0 0
+D0
+~
+~
+0 -1 9790 0
+D2
+~
+~
+0 -1 9792 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9792
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A nord e a sud ancora un sentiero mentre a est intravedi un po' di persone
+accodate.
+~
+97 0 0
+D0
+~
+~
+0 -1 9791 0
+D1
+~
+~
+0 -1 9807 0
+D2
+~
+~
+0 -1 9793 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9793
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque
+fuorche' in mezzo a una citta'.
+A ovest una bancarella si affacciano sul sentiero a est il ciottolato
+continua imperterrito, mentre a sud ti avvii verso un uscita.
+~
+97 0 0
+D0
+~
+~
+0 -1 9792 0
+D1
+~
+~
+0 -1 9794 0
+D2
+~
+~
+0 -1 9787 0
+D3
+~
+~
+0 -1 9804 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9794
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A ovest e a est si prosegue all'interno del mercato, a sud una bancarella
+invitante ti incuriosisce mentre a nord ci sono alcune persone in
+coda per qualcosa.
+~
+97 0 0
+D0
+~
+~
+0 -1 9807 0
+D1
+~
+~
+0 -1 9795 0
+D2
+~
+~
+0 -1 9805 0
+D3
+~
+~
+0 -1 9793 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9795
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A nord e a ovest il sentiero continua mentre a est una tenda aperta
+ti indica una bancarella.
+~
+97 0 0
+D0
+~
+~
+0 -1 9796 0
+D1
+~
+~
+0 -1 9806 0
+D3
+~
+~
+0 -1 9794 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9796
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+Da qui, verso est, vedi un uscita e piu' in la una grande via a nord il
+sentiero prosegue, mentre a ovest molta gente e' in coda per qualcosa.
+~
+97 0 0
+D0
+~
+~
+0 -1 9797 0
+D1
+~
+~
+0 -1 9788 0
+D2
+~
+~
+0 -1 9795 0
+D3
+~
+~
+0 -1 9807 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9797
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A nord e a sud il ciottolato prosegue.
+~
+97 0 0
+D0
+~
+~
+0 -1 9798 0
+D2
+~
+~
+0 -1 9796 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9798
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+Il sentiero svolta verso ovest proseguendo nel mercato, mentre a nord e
+a est intravedi due costruzioni apparentemente abitate.
+~
+97 0 0
+D2
+~
+~
+0 -1 9797 0
+D3
+~
+~
+0 -1 9799 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9799
+Sentiero ciottolato~
+Prosegui il tuo cammino all'interno del mercato. C'e' una calma quasi
+inverosimile, ti sembra di essere sperduto in qualche lontana campagna,
+profumo d'erba, arietta fresca... decisamente sembra di stare ovunque fuorche'
+in mezzo a una citta'.
+A sud ti appare una bella bancarella, mentre a est e a ovest continui
+il tuo pellegrinare nel mercato.
+~
+97 0 0
+D0
+~
+~
+0 0 9808 0
+D1
+~
+~
+0 -1 9798 0
+D3
+~
+~
+0 -1 9790 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9801
+La bottega dei lingotti~
+Molti lingotti sono accatastati qua e la'. Molti sono di materiale
+povero come zinco e stagno, ma dando un occhiata meglio riesci a
+vedere qualche traccia di rame e ferro.
+~
+97 0 0
+D3
+~
+~
+0 -1 8587 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9802
+La bancarella delle erbe~
+Se cerchi qualche erba rara questa bancarella fa al caso tuo.
+Molti mazzi di vegetali sono sparsi ovunque e alcuni sono messi su
+di un pianale nell'attesa di essere puliti da una graziosa ragazza
+tutta indaffarata.
+Se hai bisogno di qualcosa rivolgiti pure a lei.
+~
+97 0 0
+D1
+~
+~
+0 -1 9790 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9803
+La bancarella dei Tronchi.~
+Ma quanto e' grande! Sgrani gli occhi a ti stupisci una volta ancora.
+Una serie interminabile di tronchi, pregiati e non, sono appoggiati 
+un po' ovunque in attesa di essere venduti.
+Un robusto nano e' pronto per servirti e per esaudire ogni tuo 
+spendaccioso desiderio.
+~
+97 0 0
+D2
+~
+~
+0 0 8594 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9804
+La bancarella delle assi~
+Qui ben sistemate e appoggiate a delle staccionate travi, assi e tronchi
+di molte misure e materiali. L'ottima finitura dei prodotti ti attira
+come l'orso con il miele. Basta chiedere e ti sara' dato... ma che 
+fortuna  si e' liberato ora ora un garzone falegname.
+~
+97 0 0
+D1
+~
+~
+0 -1 9793 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9805
+La bancarella di prodotti commestibili.~
+Tutti i prodotti commestibili forniti da madre natura sono qui in bella
+mostra. Pesce, carne, frutta, farinacei di prima qualita' e di ogni
+tipo non aspettano altro che le tue mani esperte per essere lavorati.
+Una tizia non molto intelligente e' pronta a servirti... pallottoliere
+alla mano.
+~
+97 0 0
+D0
+~
+~
+0 -1 9794 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9806
+La bancarella delle pelli~
+Una pelle comprata e' una pelle lavorata... questo il motto che leggi
+su di un cartello appeso ad un piccolo trespolo.
+In effetti qui puoi trovare pelli di tutti gli animali liberi in
+natura.
+C'e' un po' di gente, ma appena possibile un ragazzo alto e magro sara'
+a tua completa disposizione.
+~
+97 0 0
+D3
+~
+~
+0 -1 9795 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9807
+La filiale~
+Finalmente capisci cosa fanno tutte le persone qui in coda.
+Un tavolo con un funzionario della banca centrale di Cimmura
+sono disposti qui per permettere alla gente di prelevare o
+versare del contante. Il tutto sotto l'occhio vigile di una
+Guardia Reale.
+~
+97 0 0
+D1
+~
+~
+0 -1 9796 0
+D2
+~
+~
+0 -1 9794 0
+D3
+~
+~
+0 -1 9792 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9808
+&bDa Mycaela &1i nuovi manovali&0~
+Ti trovi nel negozio del piu' grande gestore di Manovali di tutta la Tolnedra.
+Di fronte a te il venditore  pronto a fornirti i piu' validi aiutanti per il lavoro
+quotidiano.
+&1&b
+ Per sapere quali manovali sono disponibili e a quale tariffa
+ usare il comando LISTA.
+&6
+ Per acquistare un manovale  usare il comando COMPRA MANOVALE 
+&4
+ Se volete dare un nome al manovale digitare COMPRA MANOVALE nomemanovale
+ Esempio Compra manovale Juda
+&0
+~
+97 16 0
+D0
+~
+~
+0 0 9822 0
+D2
+~
+~
+0 0 9799 0
+D3
+~
+~
+0 0 9828 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9809
+L'ingresso ai magazzini~
+Ti trovi in un grosso scatolone di legno che ha conduce ad una serie
+di magazzini provvisori per il proprietari delle bancarelle.
+Qui vengono stipate tutte le vari merci.
+A Ovest torni verso il mercato a est c'e' un corridoio.
+~
+97 0 0
+D1
+~
+~
+0 -1 9810 0
+D3
+~
+~
+0 -1 9798 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9810
+Il corridoio dei magazzini del mercato~
+Un corridoio ti porta all'interno dei magazzini del mercato.
+A est c'e' un magazzino chiuso, mentre a ovest vai verso l'uscita.
+~
+97 0 0
+D0
+~
+~
+0 -1 9811 0
+D1
+~
+~
+0 -1 9814 0
+D3
+~
+~
+0 -1 9809 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9811
+Il corridoio dei magazzini del mercato~
+Un corridoio ti porta all'interno dei magazzini del mercato.
+A est e a ovest due magazzini sono ben chiusi.
+~
+97 0 0
+D0
+~
+~
+0 -1 9812 0
+D1
+Una porta di legno.
+~
+porta~
+1 653726 9815 135
+D2
+~
+~
+0 -1 9810 0
+D3
+~
+~
+0 -1 9816 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9812
+Il corridoio dei magazzini del mercato~
+Un corridoio ti porta all'interno dei magazzini del mercato.
+A est e a ovest due magazzini sono ben chiusi.
+~
+97 0 0
+D0
+~
+~
+0 -1 9813 0
+D1
+~
+~
+0 -1 9818 0
+D2
+~
+~
+0 -1 9811 0
+D3
+~
+~
+0 -1 9817 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9813
+Il corridoio dei magazzini del mercato~
+Un corridoio ti porta all'interno dei magazzini del mercato.
+A est e a ovest due magazzini sono ben chiusi.
+~
+97 0 0
+D2
+~
+~
+0 -1 9812 0
+D3
+Una porta di legno.
+~
+porta~
+1 811787 9819 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9814
+Il magazzino del mercato (Pelli)~
+Questo e' un magazzino VOLANTE per il mercato della citta'.
+C'e molta roba qui, tutta ben accatastata e sistemata pronta per
+essere disposta sulle bancarelle o portata nei rispettivi negozi.
+~
+97 4398046513664 0
+D3
+~
+~
+0 -1 9810 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9815
+Il magazzino del mercato (Assi)~
+Questo e' un magazzino VOLANTE per il mercato della citta'.
+C'e' molta roba qui, tutta ben accatastata e sistemata pronta per
+essere disposta sulle bancarelle o portata nei rispettivi negozi.
+~
+97 4398046513664 0
+D3
+Una porta di legno.
+~
+porta~
+1 653726 9811 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9816
+Il magazzino del mercato (Lingotti)~
+Questo e' un magazzino VOLANTE per il mercato della citta'.
+C'e molta roba qui, tutta ben accatastata e sistemata pronta per
+essere disposta sulle bancarelle o portata nei rispettivi negozi.
+~
+97 0 0
+D1
+~
+~
+0 -1 9811 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9817
+Il magazzino del mercato (Tronchi)~
+Questo e' un magazzino VOLANTE per il mercato della citta'.
+C'e molta roba qui, tutta ben accatastata e sistemata pronta per
+essere disposta sulle bancarelle o portata nei rispettivi negozi.
+~
+97 4398046513664 0
+D1
+~
+~
+0 -1 9812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9818
+Il magazzino del mercato (Erbe)~
+Questo e' un magazzino VOLANTE per il mercato della citta'.
+C'e molta roba qui, tutta ben accatastata e sistemata pronta per
+essere disposta sulle bancarelle o portata nei rispettivi negozi.
+~
+97 4 0
+D3
+~
+~
+0 -1 9812 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9819
+Il magazzino del mercato (Cibo)~
+Questo e' un magazzino VOLANTE per il mercato della citta'.
+C'e molta roba qui, tutta ben accatastata e sistemata pronta per
+essere disposta sulle bancarelle o portata nei rispettivi negozi.
+~
+97 4398046513664 0
+D1
+Una porta di legno.
+~
+porta~
+1 811787 9813 167
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9821
+Ripostiglio~
+Qui dentro L'inquisitore tiene tutti i suoi effetti personali.
+~
+97 2560 0
+D4
+Le scale
+~
+~
+0 0 9711 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9822
+&3&b La sala del Ritrovo &0~
+Una spartana stanza che accoglie i manovali sperduti e senza fissa dimora.
+~
+97 16 0
+D2
+~
+~
+0 0 9808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9823
+una stanza~
+La stanza e' stranamente ben tenuta e pulita segno che, anche se segretamente
+nascosta, e' costantemente visitata.
+Il basso soffitto bianco marmo si rispecchia sul pavimento e le pareti azzurro
+grigio.
+Quattro colonne ricavate da pietra scusa infondono una rassicurante stabilita'
+Oltre alla scala che porta verso l'alto vi e' una porta ben chiusa e sprangata
+e sulla parete accanto una targa.
+~
+97 1 0
+D0
+~
+porta~
+1 -1 9824 3
+D4
+~
+~
+0 0 9765 0
+E
+targa~
+Inciso su questa targa ci sono alcune parole:
+
+&1&bPer il popolo e per la memoria&0
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9824
+una spaziosa stanza~
+La stanza e' molto spaziosa, pulita e inverosibilmente profumata.
+Un aroma piacevole e coinvogente che satura tutto l'ambiente.
+~
+97 2560 0
+D2
+~
+porta~
+1 0 9823 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9828
+&3&B La lunga mano &0 &1&b Centro ricerche &0~
+Una piccola stanza racchiude tutto il centro ricerche.
+In questo posto consegnando la modesta cifra di &1&b500 coins&0 puoi richiedere
+i servigi degli addetti cercatori manovali dell'agenzia &3&b La lunga mano &0.
+
+Consegnate i soldi all'addetto e i vostri manovali verranno riportati a casa.
+
+~
+97 16 0
+D1
+~
+~
+0 0 9808 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9829
+Sala d'attesa~
+La sala d'attesa per lo smistamento dei CERCA MANOVALI
+&1&b NON TOCCATE --> CHIEDERE A JEROLD &0
+~
+97 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9830
+&2&b Son tutte bestie &0~
+Appenda varchi la soglia del negozio senti penetrare in te
+una strana sensazione.
+Qualsiasi angolo o parete della stanza tu guardi noti una 
+specie di animale differente.
+Sembra che il Dio della Natura abbia scelto questo luogo come
+magazzino per le sue creature. L'ambiente, nonostante il caos,
+e' perfettamente pulito.
+Dietro un bancone finemente intarsiato scorgi una leggiadra
+creatura.
+
+~
+97 35184372088832 0
+D3
+Nothing.
+L'uscita del negozio
+~
+~
+0 0 8503 0
+F
+ 2 0 0 0 0 0 0 0 0 0
+S
+#9831
+Il magazzino del '&3&bSon tutte Bestie&0'~
+Stipati un po da tutte le parti ci sono molti animali
+di ogni specie, colore e dimensione.
+Tutti ovviamente ben nutriti.
+
+~
+97 39582418600144 0
+D3
+~
+porta~
+2 0 9830 15
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9832
+&2&b La bancarella della carne&0~
+You are in an unfinished room.
+Una semplice bancarella ricoperta da uno strano telo oleoso e alcune anfore
+ricolme di carne e sale riempiono questo angolo di mercato.
+Qui puoi vendere e comprare dell'ottimo cibo che poi andra' cucinato per benino.
+~
+97 0 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9833
+La sala delle donazioni di &2&bTOLNEDRA&0~
+Ricavata nella roccia che sostiene la citta' questa grande stanza, adorna di ogni
+bene contiene tutti gli oggetti che il popolo di Tolnedra vuole donare agli altri
+cittadini in segno di amicizia, fiducia e sens di comunita'.
+Ricordati. Qui puoi prelevare cio' che vuoi, ma come i tuoi predecessori ogni tanto
+dona anche tu qualcosa.
+~
+97 2199023258260 0
+D4
+~
+~
+0 0 9700 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9834
+L'entrata dell'arsenale di tolnedra~
+E questo sarebbe un arsenale? Sicuramente la tua vista t'inganna. Ci saranno ad
+occhio e croce solamente una ventina di equipaggiamenti per di piu' arruginiti.
+Alcuni sacchi di farina ammucchiati qua e la, alcune boccette di pozione vuote o
+ridotte a pezzi.
+L'unica cosa strana e' un simbolo dipinto con il sangue sulla parete nord ...
+... non e' quessto il grande arsenale di Tolnedra.
+~
+97 206158432780 0
+D0
+Una porta di legno.
+~
+porta~
+1 883034 2405160 231
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+T 9730
+#9835
+L'ingresso delle &1&b NUOVE PRIGIONI &0 di Tolnedra~
+
+Una nuovissima struttura penitenziara sorge nelle vicinanze della capitale
+del regno di Tolnedra. La sua spettacolare forma richiama una antichissima 
+architettura persa nella nebbia del tempo.
+
+~
+97 4 0
+D1
+~
+~
+0 0 9542 0
+D2
+~
+porta~
+1 -1 9836 3
+E
+cartello~
+
+&2&b CELLA SPECIALE... SOLO I FUNZIONARI DEL REGNO UNA VOLTA ENTRATI POSSONO USCIRE &0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9836
+Una cella~
+
+Uno stanzone, con un unico pertugio che fa filtrare la luce esterna. Molta
+paglia per terra, alcuni ENORMI topi, pochi letti a castello, una fossa per
+i bisogni.
+Molti prigionieri hanno scritto qualcosa sul muro... delle incisioni
+~
+97 268435612 0
+E
+incisione incisioni~
+Una serie di scarabocchi, poi una frase che ti rincuora...
+&1&B La cella e' magica.. di EVADI e spera &0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9837
+Centro manovali di Deira~
+   Sei entrato in una stanza non molto grande, piena di schedari e
+fascicoli. Una piccola scrivania si trova lungo la parete sud di questo
+ambiente, dietro di essa scorgi Daloos l'addetto al collocamento di Deira
+che ti accoglie con un grosso sorriso.
+&1&b
+ Per sapere quali manovali sono disponibili e a quale tariffa
+ usare il comando LISTA.
+&6
+ Per acquistare un manovale  usare il comando COMPRA MANOVALE 
+&4
+ Se volete dare un nome al manovale digitare COMPRA MANOVALE nomemanovale
+ Esempio Compra manovale Jashel
+&0
+~
+97 16 1
+D3
+~
+~
+0 0 12572 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9838
+Centro ricerche~
+   L'unico arredamento di questa stanza e' costituito da una comoda
+poltrona, accanto alla quale scorgi un elfo, ed un basso tavolino sopra
+cui e' stato posato un magnifico arco lungo di fattura elfica. Una decina
+di mappe delle varie regioni della Daresia sono appese alle pareti,
+ricoprendole quasi per intero.
+
+&1&b Per ricercare i propri manovali dispersi basta dare la modica cifra
+di 500 coins all'addetto.&0
+~
+97 16 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9839
+Sala ritrovo~
+   Un tappeto grosso quasi quanto la stanza e cuscini giganteschi
+costituiscono l'unico arredamento della sala ritrovo per i manovali di
+Deira. L'ambiente ti ricorda vagamente i saloni di Jiroch da cui 
+probabilmente l'arredatore ha tratto ispirazione. Comunque l'ambiente
+sembra confortevole e rilassante a giudicare dai manovali che sonnecchiano
+qua e la' distesi sui cuscini in attesa che i rispettivi padroni tornino
+per assegnare loro nuovi compiti.
+~
+97 16 1
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9840
+La sala del Primo Custode~
+&d  Una larga stanza circolare ben illuminata , un enorme cerchio alchemico di finissima fattura è disegnato su tutto il pavimento, un piccolo&b cartello &d appeso alla porta nord recita qualcosa...
+~
+97 4466765994508 0
+D0
+~
+porta~
+2 1118 9899 395
+D5
+~
+~
+0 0 52000 0
+E
+cartello ~
+ABBIAMO ERETTO QUESTE DIFESE PER EVITARE CHE PAZZI O INCOSCIENTI LIBERINO I 7 CAOS DEL MONDO REINCARNATI IN UN SOLO ESSERE, BUONI O MALVAGI CHE SIATE USCITE SENZA CREARE DANNI ALLA DERESIA TUTTA 
+
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9841
+Primo magazzino dei metalli~
+Un semplice magazzino in pietra per il deposito temporaneo di materiale
+metallico
+~
+97 2560 0
+D0
+~
+~
+0 0 9842 0
+D3
+~
+~
+0 0 9849 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9842
+Secondo magazzino dei metalli~
+Un semplice magazzino in pietra per il deposito temporaneo di materiale
+metallico.
+~
+97 2560 0
+D0
+~
+~
+0 0 9843 0
+D2
+~
+~
+0 0 9841 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9843
+Terzo magazzino dei metalli~
+Un semplice magazzino in pietra per il deposito temporaneo di materiale
+metallico.
+2
+~
+97 2560 0
+D2
+~
+~
+0 0 9842 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9844
+&1&bSTANZA MOMENTANEA PER MELYANNA CHI TOCCA MUORE BY &3JEROLD&0~
+Ma che vuoi pure la descrizione? Prendi i confetti e basta :)
+&1&BFELICITAZIONE MELY&0
+~
+97 2560 0
+D5
+~
+~
+0 0 40330 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9845
+Fonte magica~
+&6&bL'acqua&0 ti circonda in un turbine violento e potente che ti lascia
+sospeso per qualche istante.  Poi una luce soto di te.    
+~
+97 256 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9846
+Primo magazzino del legname~
+Un semplice magazzino in pietra per il deposito temporaneo di legname.
+~
+97 2560 0
+D0
+~
+~
+0 0 9849 0
+D2
+~
+~
+0 0 9847 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9847
+Secondo magazzino del legname~
+Un semplice magazzino in pietra per il deposito temporaneo di legname.
+~
+97 2560 0
+D0
+~
+~
+0 0 9846 0
+D2
+~
+~
+0 0 9848 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9848
+Terzo magazzino del legname~
+Un semplice magazzino in pietra per il deposito temporaneo di legname.
+~
+97 2560 0
+D0
+~
+~
+0 0 9847 0
+D2
+Entrata in un edificio~
+entrata~
+0 -1 40774 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9849
+Magazzini di stoccaggio per la nuova Cimmura~
+Sei all'ingresso dei lunghi capannoni per lo stoccaggio delle merci necessarie
+alla costruzione della nuova Cimmura.
+&1&bUn cartello ben visibile e' appeso su di una parete&0
+~
+97 0 0
+D0
+~
+~
+0 0 2405160 0
+D1
+~
+~
+0 0 9841 0
+D2
+~
+~
+0 0 9846 0
+D3
+~
+~
+0 0 9857 0
+E
+cartello~
+&1&bOgni persona non addetta trovata a girovagare in zona sara' severamente multato
+Chi verra' trovato a rubare verra' incarcerato per 1 settimana reale, senza appello e
+per direttissima.&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9850
+&1&bLa torre d'addestramento&0~
+Sei all'ingresso della torre d'addestramento dell'esercito. Questa e' solo
+l'anticamera che porta al cuore vero e proprio della caserma militare dove
+i soldati scelti che fanno parte dell'esercito Tolnerdan vivono e si allenano
+in attesa di essere chiamati a difendere la patria
+~
+97 0 0
+D1
+~
+cancellata~
+1 0 2405250 3
+D3
+~
+~
+0 0 9851 0
+D4
+~
+~
+0 0 9852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9851
+&2&b La caserma&0~
+Immensa struttura che serve come caserma per l'esercito della Tolnedra.
+Palestra, dormitori, mini campi d'addestramento... tutto per la piu' terribile
+e potente macchina da guerra Tolnerdan.
+~
+97 0 0
+D1
+~
+~
+0 0 9850 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9852
+&7&b Un piccolo soppalco&0~
+Una specie di soppalco permette di accedere al piccolo deposito riservato all'esercito
+del regno di Tolnedra.
+~
+97 68719479300 0
+D0
+~
+~
+0 0 9853 0
+D1
+~
+~
+1 0 9854 1
+D2
+~
+~
+0 0 9855 0
+D3
+~
+~
+0 0 9856 0
+D5
+~
+~
+0 0 9850 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9853
+Una piccola stanza~
+Alcuni scaffali contengono molti oggetti utili per l'esercito.
+~
+97 68719479296 0
+D2
+~
+~
+0 0 9852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9854
+Una piccola stanza~
+Alcuni scaffali contengono molti oggetti utili per l'esercito.
+~
+97 68719479300 0
+D3
+~
+~
+0 0 9852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9855
+Una piccola stanza~
+Alcuni scaffali contengono molti oggetti utili per l'esercito.
+~
+97 68719479300 0
+D0
+~
+~
+0 0 9852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9856
+Una piccola stanza~
+Alcuni scaffali contengono molti oggetti utili per l'esercito.
+~
+97 68719479296 0
+D1
+~
+~
+0 0 9852 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9857
+Primo magazzino delle pietre~
+Un semplice magazzino in pietra per il deposito temporaneo di pietre squadrate.
+~
+97 2560 0
+D0
+~
+~
+0 0 9858 0
+D1
+~
+~
+0 0 9849 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9858
+Secondo magazzino delle pietre~
+Un semplice magazzino in pietra per il deposito temporaneo di pietre squadrate.
+~
+97 2560 0
+D0
+~
+~
+0 0 9859 0
+D2
+~
+~
+0 0 9857 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9859
+Terzo magazzino delle pietre~
+Un semplice magazzino in pietra per il deposito temporaneo di pietre squadrate.
+~
+97 2560 0
+D2
+~
+~
+0 0 9858 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9860
+L'ufficio delle pietre~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D3
+~
+~
+0 0 9861 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9861
+L'ufficio del cibo~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9860 0
+D3
+~
+~
+0 0 9862 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9862
+L'ufficio delle pozioni~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9861 0
+D3
+~
+~
+0 0 9863 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9863
+L'ufficio della selvaggina~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9862 0
+D3
+~
+~
+0 0 9865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9864
+L'ufficio dell'Argento~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9863 0
+D3
+~
+~
+0 0 9865 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9865
+L'ufficio dell'Oro~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9864 0
+D3
+~
+~
+0 0 9866 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9866
+L'ufficio dei metalli~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9865 0
+D3
+~
+~
+0 0 9867 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9867
+L'ufficio dei Preziosi~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9866 0
+D3
+~
+~
+0 0 9868 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9868
+L'ufficio del legname~
+Un modesto ufficio pieno di scartoffie
+~
+97 0 0
+D1
+~
+~
+0 0 9867 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9870
+L'ingresso al sobborgo~
+Una piccola arcata in pietra grezza ti indica che sei al confine tra
+il sobborgo e la strada che porta alla capitale.
+Una &1&bCartina&0 ti mostra dove ti trovi ora.
+~
+97 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 249890 40530 135
+D1
+Una porta di legno.
+~
+porta~
+1 112768 40574 135
+D2
+~
+~
+0 0 9887 0
+D3
+~
+~
+0 0 2414260 0
+E
+cartina~
+&9...&3O&9.&1x&9.&3O&9.......&3OOOOO&9....
+&3OOOO&9...&3O&9.......&3O&9...&3O&9....
+&3O&9......&3O&9.......&3O&9...&3O&9....
+&3OOOO&9...&3O&9.......&3O&9...&3O&9....
+&9...&3O&9...&3OOOOOOOOO&9...&3O&9....
+&9...&3O&9...............&3O&9....
+&9...&3O&9...&3OOOOOOOOO&9...&3OOOO&9.
+&9...&3O&9...&3O&9.......&3O&9......&3O&9.
+&9...&3OOOOO&9.......&3O&9...&3OOOO&9.
+&9............&3OOOO&9...&3O&9....
+&9............&3O&9......&3O&9....
+&2---------&9...&3OOOO&9...&3O&9....
+&2|&9.&2Borgo&9.&2|&9......&3O&9...&3O&9....
+&2|&9..&2di&9...&2|&9......&3O&9...&3O&9....
+&2|Cimmura|&9......&3O&9...&3O&9....
+&2---------&9......&3O&9...&3O&9....
+&9...............&3O&9...&3OOOO&9.
+&9...............&3O&9......&3O&9.
+&9...............&3OOOO&9...&3O&9.
+&9..................&3O&9...&3O&9.
+&9.
+&1x&3 = Voi siete qui!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9871
+L'ingresso al sobborgo di Cimmura~
+Una piccola arcata in pietra grezza ti indica che sei al confine tra
+il sobborgo e la strada che porta alla capitale.
+Una &1&bCartina&0 ti mostra dove ti trovi ora.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9872 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40158 0
+D2
+~
+~
+0 0 2434052 0
+E
+Cartina~
+&9...&3O&9...&3O&9.......&3OOOOO&9....
+&3OOOO&9...&3O&9.......&3O&9...&3O&9....
+&3O&9......&3O&9.......&3O&9...&3O&9....
+&3OOOO&9...&3O&9.......&3O&9...&3O&9....
+&9...&3O&9...&3OOOOOOOOO&9...&3O&9....
+&9...&3O&9...............&3O&9....
+&9...&3O&9...&3OOOOOOOOO&9...&3OOOO&9.
+&9...&3O&9...&3O&9.......&3O&9......&3O&9.
+&9...&3OOOOO&9.......&3O&9...&3OOOO&9.
+&9............&3OOOO&9...&3O&9....
+&9............&3O&9......&3O&9....
+&2---------&9...&3OOOO&9...&3O&9....
+&2|&9.&2Borgo&9.&2|&9......&3O&9...&3O&9....
+&2|&9..&2di&9...&2|&9......&3O&9...&3O&9....
+&2|Cimmura|&9......&3O&9...&3O&9....
+&2---------&9......&3O&9...&3O&9....
+&9...............&3O&9...&3OOOO&9.
+&9...............&3O&9......&3O&9.
+&9...............&3OOOO&9...&3O&9.
+&9..................&3O&9.&1x&9.&3O&9.
+&9.
+&1x&3 = Voi siete qui!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9872
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+Il viale, con una larga curva prosegue a ovest
+~
+97 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 421902 40163 135
+D1
+Una porta di legno.
+~
+porta~
+1 935796 40159 199
+D2
+~
+~
+0 0 9871 0
+D3
+~
+~
+0 0 9873 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9873
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9874 0
+D1
+~
+~
+0 0 9872 0
+D2
+Una porta di legno.
+~
+porta~
+1 117308 40189 135
+D3
+Una porta di legno.
+~
+porta~
+1 484928 40333 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9874
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9875 0
+D2
+~
+~
+0 0 9873 0
+D3
+Una porta di legno.
+~
+porta~
+1 295880 40332 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9875
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9876 0
+D2
+~
+~
+0 0 9874 0
+D3
+Una porta di legno.
+~
+porta~
+1 950260 40681 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9876
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9877 0
+D1
+Una porta di legno.
+~
+porta~
+1 763007 40657 135
+D2
+~
+~
+0 0 9875 0
+D3
+~
+~
+0 0 9891 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9877
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+Un &1&b Cartello&0 e' affisso su di un muro.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9878 0
+D1
+~
+~
+0 0 9890 0
+D2
+~
+~
+0 0 9876 0
+D3
+Una porta di legno.
+~
+porta~
+1 227833 40767 135
+E
+cartello~
+&9...&3O&9...&3O&9.......&3OOOOO&9....
+&3OOOO&9...&3O&9.......&3O&9...&3O&9....
+&3O&9......&3O&9.......&3O&9...&3O&9....
+&3OOOO&9...&3O&9.......&3O&9...&3O&9....
+&9...&3O&9...&3OOOOOOOOO&9...&3O&9....
+&9...&3O&9...............&3O&9....
+&9...&3O&9...&3OOOOOOOOO&9...&3OOOO&9.
+&9...&3O&9...&3O&9.......&3O&9.&1x&9....&3O&9.
+&9...&3OOOOO&9.......&3O&9...&3OOOO&9.
+&9............&3OOOO&9...&3O&9....
+&9............&3O&9......&3O&9....
+&2---------&9...&3OOOO&9...&3O&9....
+&2|&9.&2Borgo&9.&2|&9......&3O&9...&3O&9....
+&2|&9..&2di&9...&2|&9......&3O&9...&3O&9....
+&2|Cimmura|&9......&3O&9...&3O&9....
+&2---------&9......&3O&9...&3O&9....
+&9...............&3O&9...&3OOOO&9.
+&9...............&3O&9......&3O&9.
+&9...............&3OOOO&9...&3O&9.
+&9..................&3O&9...&3O&9.
+&9.
+&1x&3 = Voi siete qui!&0
+~
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9878
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9879 0
+D2
+~
+~
+0 0 9877 0
+D3
+~
+~
+0 0 9882 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9879
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9880 0
+D2
+~
+~
+0 0 9878 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9880
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9881 0
+D2
+~
+~
+0 0 9879 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9881
+Viale della liberta'~
+Il viale principale, il piu' bello il piu' sfarzoso. Molte piante ricoprono
+d'ombra l'assolata strada. Un via vai di gente, tutta indaffarata ti saluta
+chi con uno sguardo, chi con un cenno di mano.
+~
+97 8796093022208 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40648 0
+D2
+~
+~
+0 0 9880 0
+D3
+Una porta di legno.
+~
+porta~
+1 297514 40688 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9882
+Piazza della giustizia~
+Un largo piazzale che continua anche ad ovest. La sua dimensione permette di ospitare
+due favolosi monumenti.
+~
+97 0 0
+D1
+~
+~
+0 0 9878 0
+D3
+~
+~
+0 0 9883 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9883
+Piazza della giustizia~
+Un largo piazzale che continua anche ad est. La sua dimensione permette di ospitare
+due favolosi monumenti.
+~
+97 16 0
+D1
+~
+~
+0 0 9882 0
+D3
+~
+~
+0 0 9885 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9884
+Viale dell'indipendenza~
+Uno dei due viali principale di questo piccolo sobborgo. Una lunga e
+larga strada che porta verso l'uscita nord.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9885 0
+D2
+Una porta di legno.
+~
+porta~
+1 309689 40634 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9885
+Viale dell'indipendenza~
+You are in an unfinished room.
+Uno dei due viali principale di questo piccolo sobborgo. Una lunga e
+larga strada che porta verso l'uscita nord.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9886 0
+D1
+~
+~
+0 0 9883 0
+D2
+~
+~
+0 0 9884 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9886
+Viale dell'indipendenza~
+You are in an unfinished room.
+Uno dei due viali principale di questo piccolo sobborgo. Una lunga e
+larga strada che porta verso l'uscita nord.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9887 0
+D1
+Una porta di legno.
+~
+porta~
+1 446730 40882 135
+D2
+~
+~
+0 0 9885 0
+D3
+~
+~
+0 0 9888 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9887
+Viale dell'indipendenza~
+Uno dei due viali principale di questo piccolo sobborgo. Una lunga e
+larga strada che porta verso l'uscita nord.
+~
+97 8796093022208 0
+D0
+~
+~
+0 0 9870 0
+D1
+Entrata in un edificio~
+entrata~
+0 -1 40500 0
+D2
+~
+~
+0 0 9886 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9888
+Vicolo della ragione~
+Uno stretto e scuro vicolo.
+Una strana nebbiolina ricopre il terreno.
+~
+97 8796093022208 0
+D0
+Una porta di legno.
+~
+porta~
+1 632982 40654 135
+D1
+~
+~
+0 0 9886 0
+D2
+Una porta di legno.
+~
+porta~
+1 997090 40655 135
+D3
+~
+~
+0 0 9889 0
+D5
+Una porta di legno.
+~
+porta~
+1 876895 40920 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9889
+Vicolo della ragione~
+Uno stretto e scuro vicolo cieco. Un barile abbandonato e' ricolmo di
+acqua piovana... una strana nebbiolina ricopre il terreno.
+~
+97 8796093022208 0
+D1
+~
+~
+0 0 9888 0
+D3
+Una porta di legno.
+~
+porta~
+1 604654 40518 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9890
+Vicolo della verita'~
+Un piccolo vicolo, invaso da un odore acre di pece. Alcuni sassi del
+terreno sono mancanti e questo ha creato, con l'andar del tempo, alcune buche
+di una discreta profondita'
+~
+97 8796093022208 0
+D3
+~
+~
+0 0 9877 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9891
+Vicolo della sapienza~
+Stretto passaggio, un tantino buio, non ispira un gran che' bene. Non appena
+ti abitui all'oscurita intravedi un losco figuro sul fondo del viale. Non
+sembra mal intenzionato, ma non si sa mai.
+~
+97 8796093022208 0
+D1
+~
+~
+0 0 9876 0
+D3
+Una porta di legno.
+~
+porta~
+1 565064 40524 135
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#9899
+La stanza del Secondo custode~
+&d Su una enorme &Rparete&d c'è scritta in rifinitissimi caratteri una storia che faresti meglio a leggere attentamente:
+
+&r C'era una volta un Re che disse alla sua serva raccontami una storia, la serva gli ubidì e la storia incominciò:C'era una volta un Re che disse alla sua serva raccontami una storia, la serva gli ubidì e la storia ricominciò...&d
+~
+97 1055531162730528 8
+D0
+~
+porta~
+1 1906 9721 135
+D2
+~
+~
+0 0 9840 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

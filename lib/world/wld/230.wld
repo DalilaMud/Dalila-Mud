@@ -1,0 +1,1664 @@
+#23000
+&4Davanti ad un maestoso Portone&0~
+Ti trovi davanti alle alte mura della fortezza dei MindFlayer,alte e robuste
+salgono sul cielo oscurato anche di giorno.
+Di solida pietra nera sono anche le otto torri che percorrono la pianta ottagonale della Fortezza.
+Un grande portone rinforzato in bronzo ti sbarra la strada che e' strettamente sorvegliata
+da un gruppo di guardie corazzate,delle quali non riesci a distinguere la razza di appartenenza.
+Dalle due torri che hai davanti alcune luci rosse risplendono appena ti avvicini alle guardie.
+~
+230 12 0
+D0
+~
+~
+0 0 23001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23001
+&4L'entrata della Fortezza MindFlayer.&0~
+Le fredde e umide pareti di pietra scura riflettono la luce della tua torcia mentre passi,
+sembra che queste stanze non abbiano mai visto la luce del sole.. eppure senti che non sei solo,
+l'eco alcune frasi in una strana lingua risuonano in questo luogo oscuro.. ed il rumore
+dei passi di questi sembra avvicinarsi sembre piu'.
+~
+230 13 0
+D0
+~
+~
+0 0 23002 0
+D1
+~
+~
+0 0 23004 0
+D2
+~
+~
+0 0 23000 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23002
+&4L'Incrocio dei Corridoi.&0~
+Dall'entrata della fortezza Mindflayer hai passato poche decine di metri che ti trovi in questo
+incrocio di lunghi e oscuri corridoi, illuminati da parziali luci soffuse viola provenienti da
+varie adiacenti ai corridoi.
+Proseguendo invece noti una strana stanza dalla quale proviene del forte vento.
+~
+230 13 0
+D0
+~
+~
+0 0 23003 0
+D1
+~
+~
+0 0 23005 0
+D2
+~
+~
+0 0 23001 0
+D3
+~
+~
+0 0 23006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23003
+&4Passaggio dal Nodo Sud.&0~
+Un strana stanza sempre buia sembra essere abitata da Elementali dell'aria.
+Questi ultimi pero' sembrano avere una strana consistenza oscura.
+Probabilmente questa e' una stanza di barricata, per impedire l'accesso al Nodo Interno.
+Oltre questa stanza infatti puoi intravvedere uno dei ponti che si congiunge alla Torre Madre.
+~
+230 13 0
+D2
+~
+~
+0 0 23002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23004
+&4Alloggio delle Sentinelle.&0~
+Stranamente, questa stanza adibita al riposo delle guardie non sembra essere provvista di letti
+ma bensi di un pilastro di marmo nero sul quale una luce blu risplende volteggiando in aria.
+La scia di quest'ultima sembra dissuaderti dai tuoi precedenti pensieri mentre ti volteggia intorno.
+Alcune guardie che erano immobili negli angoli ti vengono incontro.
+~
+230 13 0
+D3
+~
+~
+0 0 23001 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23005
+&4Corridoio Sud del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Un forte odore di zolfo pervade l'aria che immobile e' stata rinchiusa in queste fredde pareti
+~
+230 13 0
+D0
+~
+~
+0 0 23007 0
+D1
+~
+~
+0 0 23031 0
+D3
+~
+~
+0 0 23002 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23006
+&4Corridoio Sud del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Un forte odore di zolfo pervade l'aria che immobile e' stata rinchiusa in queste fredde pareti
+~
+230 13 0
+D0
+~
+~
+0 0 23008 0
+D1
+Nothing.
+~
+~
+0 0 23002 0
+D2
+~
+~
+0 0 23010 0
+D3
+~
+~
+0 0 23009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23007
+&2Alloggi dei Discententi di Nequent.&0~
+Alcuni dei discentendi di Nequent si riposano contemplando nella oscurita' mentre altri
+invece comunicano telepaticamente e progettano qualcosa di malvagio e corrotto.
+Senti alcune urla provenire da una delle stanze vicine, probabilmente sono alcune vittime
+di questi MindFlayer.
+~
+230 13 0
+D2
+~
+~
+0 0 23005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23008
+&2 Alloggi dei Discendenti di Tychon.&0~
+Alcuni dei discentendi di Tychon si riposano contemplando nella oscurita' mentre altri
+Senti alcune urla provenire da una delle stanze vicine, probabilmente sono alcune vittime
+di questi MindFlayer.
+~
+230 13 0
+D2
+~
+~
+0 0 23006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23009
+&4Corridoio Sud del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Un forte odore di zolfo pervade l'aria che immobile e' stata rinchiusa in queste fredde pareti.
+~
+230 13 0
+D0
+~
+~
+0 0 23011 0
+D1
+Nothing.
+~
+~
+0 0 23006 0
+D2
+Nothing.
+~
+~
+0 0 23012 0
+D3
+~
+~
+0 0 23013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23010
+La setta dei discendenti di Tychon.~
+Entrando in questa grande stanza che si affaccia al di fuori del nodo esterno hai interrotto
+dei MindFlayer che si stavano allenando facendo strani simboli in aria.
+Improvvisamente si voltano verso di te alzando lo sguardo che prima era coperto dal cappuccio della
+veste.
+~
+230 13 0
+D0
+~
+~
+0 0 23006 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23011
+&5&bStanza del pensiero oscuro.&0~
+In questa stanza piccola e stretta alcuni Mindflayer sono concentrati nell'ombra della stanza.
+Alcuni di essi stanno lacrimando dagli occhi un sangue scuro e viscido mentre  perquotono
+le menti delle loro vittime e le costringono con il solo uso del pensiero.
+Strane rune sono state disegnate da molto tempo sul pavimento ed alcune sono quasi scomparse.
+~
+230 65549 0
+D2
+~
+~
+0 0 23009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23012
+La setta dei discendenti di Tychon.~
+Entrando in questa grande stanza che si affaccia al di fuori del nodo esterno hai interrotto
+dei MindFlayer che si stavano allenando facendo strani simboli in aria.
+Improvvisamente si voltano verso di te alzando lo sguardo che prima era coperto dal cappuccio della
+veste.
+~
+230 13 0
+D0
+~
+~
+0 0 23009 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23013
+&4Corridoio Sud del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Un forte odore di zolfo pervade l'aria che immobile e' stata rinchiusa in queste fredde pareti.
+~
+230 13 0
+D0
+~
+~
+0 0 23014 0
+D1
+Nothing.
+~
+~
+0 0 23009 0
+D2
+~
+~
+0 0 23022 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23014
+&4Corridoio Sud-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23023 0
+D2
+~
+~
+0 0 23013 0
+D3
+~
+~
+0 0 23015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23015
+&4Corridoio Sud-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23016 0
+D1
+~
+~
+0 0 23014 0
+D2
+~
+~
+0 0 23027 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23016
+&4Corridoio Sud-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23024 0
+D2
+~
+~
+0 0 23015 0
+D3
+~
+~
+0 0 23017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23017
+&4Corridoio Sud-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23018 0
+D1
+~
+~
+0 0 23016 0
+D2
+~
+~
+0 0 23028 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23018
+&4Corridoio Sud-Ovest del Nodo Esterno.&0~
+Nothing.
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D2
+Nothing.
+~
+~
+0 0 23017 0
+D3
+~
+~
+0 0 23019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23019
+&4Corridoio Ovest del Nodo Esterno.&0~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Tychon uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23020 0
+D1
+~
+~
+0 0 23018 0
+D2
+~
+~
+0 0 23026 0
+D3
+~
+~
+0 0 23029 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23020
+&4Corridoio Ovest del Nodo Esterno.&0~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Tychon uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23021 0
+D2
+~
+~
+0 0 23019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23021
+&4Corridoio Ovest del Nodo Esterno.&0~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Tychon uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23099 0
+D2
+~
+~
+0 0 23020 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23022
+&3Scale della Torre Sud-Ovest.&0~
+Le sentinelle della torre sorvegliano le attivita' dei MindFlayer nella
+biblioteca e si accertano che non rovinino i manoscritti o seguano antichi
+riti potenti di evocazione in questi luoghi che devono rimanere sicuri.
+~
+230 13 0
+D0
+~
+~
+0 0 23013 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23023
+Vittime del Flagello Mentale.~
+In questa stanza, completamente cubica e dalle pareti liscie si trovano alcune delle vittime
+dei MindFlayer. Si muovono lentamente e sbavando mentre ti guardano con occhi fissi pieni di rabbia
+e follia. Il loro cervello e' stato completamente assorbito dalle creature malefiche e adesso
+imprigionati in queste stanze  sono schiavi del pensiero oscuro dei loro padroni.
+~
+230 13 0
+D2
+~
+~
+0 0 23014 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23024
+La setta degli Adepti di Tychon.~
+Alcuni MindFlayer sono disposti in coppia e si allenano combattendo con le armi senza
+tuttavia impugnarle. Le spade ed i pugnali sono sospesi in aria e fendono l'aria veloci
+e potenti.
+~
+230 13 0
+D2
+~
+~
+0 0 23016 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23026
+&2Alloggi degli Adepti di Tychon.&0~
+Al centro di questa stanza si trova una grande tavola insanguinata, mentre lungo le 
+pareti vedi dei giacigli di ferro dove gli adepti si riposano dopo i lunghi allenamenti.
+Hai appena interrotto il sonno di un MindFlayer che si stava riposando!.
+~
+230 13 0
+D0
+~
+~
+0 0 23019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23027
+&2Alloggi degli Adepti di Tychon.&0~
+Al centro di questa stanza si trova una grande tavola insanguinata, mentre lungo le 
+pareti vedi dei giacigli di ferro dove gli adepti si riposano dopo i lunghi allenamenti.
+Hai appena interrotto il sonno di un MindFlayer che si stava riposando!.
+~
+230 13 0
+D0
+~
+~
+0 0 23015 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23028
+La setta degli Adepti di Tychon.~
+Alcuni MindFlayer sono disposti in coppia e si allenano combattendo con le armi senza
+tuttavia impugnarle. Le spade ed i pugnali sono sospesi in aria e fendono l'aria veloci
+e potenti.
+~
+230 13 0
+D0
+~
+~
+0 0 23017 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23029
+&3Scale della prima Torre Ovest.&0 ~
+&1Una lanterna giace in terra intrisa in una pozza di sangue con ancora&0
+&1la mano dello sfortunato avventueriero che la stava reggendo.&0
+&1Forse non aveva visto che su questa torre girano delle sentinelle?.&0
+&1Da questa stanza della torre si puo' salire ai piani superiori del nodo esterno oppure&0
+&1scendere sottoterra,nella prigione della torre.&0
+~
+230 13 0
+D1
+~
+~
+0 0 23019 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23031
+&4Corridoio Sud del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Un forte odore di zolfo pervade l'aria che immobile e' stata rinchiusa in queste fredde pareti.
+~
+230 13 0
+D1
+~
+~
+0 0 23034 0
+D2
+~
+~
+0 0 23032 0
+D3
+~
+~
+0 0 23005 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23032
+La setta dei discendenti di Nequent.~
+Entrando in questa grande stanza che si affaccia al di fuori del nodo esterno hai interrotto
+dei MindFlayer che si stavano allenando facendo strani simboli in aria.
+Improvvisamente si voltano verso di te alzando lo sguardo che prima era coperto dal cappuccio della
+veste.
+~
+230 13 0
+D0
+~
+~
+0 0 23031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23033
+&3Scale della torre Sud-Est.&0~
+Le sentinelle della torre sorvegliano le attivita' dei MindFlayer nella
+biblioteca e si accertano che non rovinino i manoscritti o seguano antichi
+riti potenti di evocazione in questi luoghi che devono rimanere sicuri.
+~
+230 13 0
+D0
+~
+~
+0 0 23034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23034
+&4Corridoio Sud del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Un forte odore di zolfo pervade l'aria che immobile e' stata rinchiusa in queste fredde pareti.
+~
+230 13 0
+D0
+~
+~
+0 0 23035 0
+D2
+~
+~
+0 0 23033 0
+D3
+~
+~
+0 0 23031 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23035
+&4Corridoio Sud-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D1
+~
+~
+0 0 23038 0
+D2
+~
+~
+0 0 23034 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23037
+&2Alloggi degli Adepti di Nequent.&0~
+Alcune tavole di legno sono state poste orizzontalmente nella parete e sono usate per riposare.
+Sotto di esse si trovano alcune casse piene di oggetti di scarso valore.
+Entrando hai interrotto il sonno di un MindFlayer che si stava riposando!.
+~
+230 13 0
+D0
+~
+~
+0 0 23039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23038
+&4Corridoio Sud-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23039 0
+D2
+~
+~
+0 0 23037 0
+D3
+~
+~
+0 0 23035 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23039
+&4Corridoio Sud-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23040 0
+D1
+~
+~
+0 0 23042 0
+D2
+~
+~
+0 0 23038 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23040
+La setta degli Adepti di Nequent.~
+Alcuni MindFlayer sono disposti in coppia e si allenano combattendo con le armi senza
+tuttavia impugnarle. Le spade ed i pugnali sono sospesi in aria e fendono l'aria veloci 
+e potenti.
+~
+230 13 0
+D2
+~
+~
+0 0 23039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23041
+La setta degli Adepti di Nequent.~
+Alcuni MindFlayer sono disposti in coppia e si allenano combattendo con le armi senza
+tuttavia impugnarle. Le spade ed i pugnali sono sospesi in aria e fendono l'aria veloci 
+e potenti.
+~
+230 13 0
+D0
+~
+~
+0 0 23042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23042
+&4Corridoio Sud-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D0
+~
+~
+0 0 23043 0
+D2
+~
+~
+0 0 23041 0
+D3
+~
+~
+0 0 23039 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23043
+&4Corridoio Sud-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+Alcune stanze leggermente illuminate ti identificano la forma del corridoio che curva.
+~
+230 13 0
+D1
+Nothing.
+~
+~
+0 0 23046 0
+D2
+~
+~
+0 0 23042 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23045
+&2Alloggi degli Adepti di Nequent.&0~
+Alcune tavole di legno sono state poste orizzontalmente nella parete e sono usate per riposare.
+Sotto di esse si trovano alcune casse piene di oggetti di scarso valore.
+Entrando hai interrotto il sonno di un MindFlayer che si stava riposando!.
+~
+230 13 0
+D0
+~
+~
+0 0 23047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23046
+&4Corridoio Est del Nodo Esterno.&0 ~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Nequent uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23047 0
+D1
+~
+~
+0 0 23049 0
+D2
+~
+~
+0 0 23045 0
+D3
+~
+~
+0 0 23043 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23047
+&4Corridoio Est del Nodo Esterno.&0 ~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Nequent uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23048 0
+D1
+~
+~
+0 0 23050 0
+D2
+~
+~
+0 0 23046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23048
+&4Corridoio Est del Nodo Esterno.&0 ~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Nequent uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23054 0
+D1
+~
+~
+0 0 23051 0
+D2
+~
+~
+0 0 23047 0
+D3
+~
+~
+0 0 23052 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23049
+&3Scale della prima Torre Est.&0~
+&1Oltre alle scale che portano ai piani superiori questa torre ben sorvegliata contiene un&0
+&1pozzo distrutto ma da esso proviene un intensa aria molto calda.&0
+&1Forse puoi provare ad avvicinartici e calartici dentro per vedere cosa contiene.. sicuramente&0
+&1non viene usato per prelevare acqua.&0
+~
+230 13 0
+D3
+~
+~
+0 0 23046 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23050
+&2Alloggi dei Veterani di Nequent.&0~
+Questi alloggi sono molto somiglianti a quelli adottati dal genere umano.
+Sono composti da un soffice letto imbottito di paglia, che probabilmente e' stato
+usato poche volte, e da un piccolo forziere posto sul fondo del letto.
+Questa stanza comprensiva anche di una scrivania rispecchia la natura dei veterani, 
+che nella ricerca e nella totale riflessione manifestano la loro potenza.
+Questo spirito si presenta anche negli alloggi, ben curati e ordinati.
+~
+230 13 0
+D3
+~
+~
+0 0 23047 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23051
+La setta dei Veterani di Nequent.~
+La stanza interamente in legno e' molto alta ed ospita i combattimenti tra i veterani.
+Con l'uso delle arti psioniche si combattono restando seduti a diversi metri di distanza.
+I loro attacchi mentali sono potenti e precisi, spesso capita che i perdenti dallo scontro
+non riescano a rialzarsi.
+~
+230 0 0
+D3
+~
+~
+0 0 23048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23052
+La setta dei Veterani di Nequent.~
+La stanza interamente in legno e' molto alta ed ospita i combattimenti tra i veterani.
+Con l'uso delle arti psioniche si combattono restando seduti a diversi metri di distanza.
+I loro attacchi mentali sono potenti e precisi, spesso capita che i perdenti dallo scontro
+non riescano a rialzarsi.
+~
+230 13 0
+D1
+~
+~
+0 0 23048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23054
+&4Corridoio Est del Nodo Esterno.&0 ~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Nequent uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23058 0
+D1
+~
+~
+0 0 23055 0
+D2
+~
+~
+0 0 23048 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23055
+&2Alloggi dei Veterani di Nequent.&0~
+Questi alloggi sono molto somiglianti a quelli adottati dal genere umano.
+Sono composti da un soffice letto imbottito di paglia, che probabilmente e' stato
+usato poche volte, e da un piccolo forziere posto sul fondo del letto.
+Questa stanza comprensiva anche di una scrivania rispecchia la natura dei veterani, 
+che nella ricerca e nella totale riflessione manifestano la loro potenza.
+Questo spirito si presenta anche negli alloggi, ben curati e ordinati.
+~
+230 13 0
+D3
+~
+~
+0 0 23054 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23056
+La setta dei Discententi di Chymon.~
+La stanza in legno scuro e' molto alta, sette fuochi dalla fiamma color viola sono
+disposti lungo la stanza circolarmente e da ognuno di essi parte una fonte di energia
+nera che vengono incanalate in una sfera nera controllata da alcuni MindFlayer.
+~
+230 13 0
+D0
+~
+~
+0 0 23061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23057
+&4Corridoio Nord-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Gli Adepti di Nequent abitano questa parte della Fortezza, senti i loro passi nelle stanze vicine.
+~
+230 13 0
+D0
+~
+~
+0 0 23062 0
+D1
+Nothing.
+~
+~
+0 0 23058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23058
+&4Corridoio Est del Nodo Esterno.&0 ~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Nequent uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23063 0
+D1
+~
+~
+0 0 23059 0
+D2
+~
+~
+0 0 23054 0
+D3
+~
+~
+0 0 23057 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23059
+&3Scale della seconda Torre Est .&0~
+&7Questa torre sembra non essere sorvegliata, ma cio' nonostante senti delle voci provenire&0
+&7dalle stanze superiori.&0
+~
+230 13 0
+D3
+~
+~
+0 0 23058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23061
+&4Corridoio Nord-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Gli Adepti di Nequent abitano questa parte della Fortezza, senti i loro passi nelle stanze vicine.
+~
+230 13 0
+D0
+Nothing.
+~
+~
+0 0 23073 0
+D1
+~
+~
+0 0 23062 0
+D2
+~
+~
+0 0 23056 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23062
+&4Corridoio Nord-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Gli Adepti di Nequent abitano questa parte della Fortezza, senti i loro passi nelle stanze vicine.
+~
+230 13 0
+D0
+~
+~
+0 0 23074 0
+D2
+~
+~
+0 0 23057 0
+D3
+~
+~
+0 0 23061 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23063
+&2Alloggi dei Discendenti di Chymon.&0~
+Questi alloggi sono ben arredati in confronto a quelli dei discentendi degli altri ordini.
+Dormono su letti imbottiti di paglia, hanno una piccola scrivania ed un piccolo forziere vicino al letto.
+Alcune pergamene sono poste sopra una scrivania ,alcuni scritti hanno ancora l'inchiostro fresco.
+~
+230 13 0
+D2
+~
+~
+0 0 23058 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23064
+La setta degli Adepti di Chymon.~
+In questa stanza con le pareti di pietra grezza bagnate di sangue alcuni MindFlayer combattono
+invisibili. L'unica cosa che riesci a vedere e' solo il sangue cade dai loro corpi quando vengono
+feriti.
+~
+230 13 0
+D2
+~
+~
+0 0 23092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23065
+&4Corridoio Nord-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Sembra essere stato costruito piu' recentemente delle altre zone,probabilmente e' stato
+distrutto in passato per qualche evocazione o invocazione riuscita male.
+~
+230 13 0
+D0
+~
+~
+0 0 23075 0
+D1
+~
+~
+0 0 23066 0
+D2
+~
+~
+0 0 23093 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23066
+&4Corridoio Nord-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Sembra essere stato costruito piu' recentemente delle altre zone,probabilmente e' stato
+distrutto in passato per qualche evocazione o invocazione riuscita male.
+~
+230 13 0
+D0
+~
+~
+0 0 23076 0
+D3
+~
+~
+0 0 23065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23068
+La Setta dei Veterani di Chymon.~
+Questa grande stanza di marmo bianco con venature nere contiene delle colonne d'argento che arrivano
+al soffitto. Alcuni veterani volano da una parte all'altra della stanza.. scomparendo e riapparendo
+altri si allenano creando elementi. Fiamme escono dai palmi delle loro mani e la luce di quelle fiamme
+si riflette nelle colonne d'argento.
+Il pavimento non e' sporco di sangue, un totale silenzio e anche l'aria sembra non spostarsi al passaggio
+dei corpi di questi Veterani.
+~
+230 13 0
+D0
+~
+~
+0 0 23078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23070
+La Setta dei Veterani di Chymon.~
+Questa grande stanza di marmo bianco con venature nere contiene delle colonne d'argento che arrivano
+al soffitto. Alcuni veterani volano da una parte all'altra della stanza.. scomparendo e riapparendo
+altri si allenano creando elementi. Fiamme escono dai palmi delle loro mani e la luce di quelle fiamme
+si riflette nelle colonne d'argento.
+Il pavimento non e' sporco di sangue, un totale silenzio e anche l'aria sembra non spostarsi al passaggio
+dei corpi di questi Veterani.
+~
+230 13 0
+D0
+~
+~
+0 0 23080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23072
+&4Corridoio Nord-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Gli Adepti di Nequent abitano questa parte della Fortezza, senti i loro passi nelle stanze vicine.
+~
+230 13 0
+D0
+~
+~
+0 0 23082 0
+D1
+~
+~
+0 0 23073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23073
+&4Corridoio Nord-Est del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Gli Adepti di Nequent abitano questa parte della Fortezza, senti i loro passi nelle stanze vicine.
+~
+230 13 0
+D0
+~
+~
+0 0 23083 0
+D2
+~
+~
+0 0 23061 0
+D3
+~
+~
+0 0 23072 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23074
+La setta dei Discententi di Chymon.~
+La stanza in legno scuro e' molto alta, sette fuochi dalla fiamma color viola sono
+disposti lungo la stanza circolarmente e da ognuno di essi parte una fonte di energia
+nera che vengono incanalate in una sfera nera controllata da alcuni MindFlayer.
+~
+230 13 0
+D2
+~
+~
+0 0 23062 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23075
+&2Alloggi degli Adepti di Chymon.&0~
+La porta di questa grande stanza e' stata riforzata ed il pavimento e' di una lucente
+pietra nera levigata.
+Queste stanze presentano dei letti solidi e ordinati, un forziere e' posto accanto ad essi.
+Puoi vedere una scrivania con sopra molti scritti ed un piccolo armadio vicino ad ogni letto.
+Questi alloggi degli adepti di Chymon sono paragonabili a quelli dei Veterani degli altri ordini.
+~
+230 13 0
+D2
+~
+~
+0 0 23065 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23076
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 13 0
+D0
+~
+~
+0 0 23084 0
+D1
+~
+~
+0 0 23077 0
+D2
+~
+~
+0 0 23066 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23077
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 13 0
+D0
+~
+~
+0 0 23085 0
+D1
+~
+~
+0 0 23078 0
+D3
+~
+~
+0 0 23076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23078
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 13 0
+D0
+~
+~
+0 0 23086 0
+D1
+~
+~
+0 0 23079 0
+D2
+~
+~
+0 0 23068 0
+D3
+~
+~
+0 0 23077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23079
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 13 0
+D0
+~
+~
+0 0 23087 0
+D1
+~
+~
+0 0 23080 0
+D3
+~
+~
+0 0 23078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23080
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 13 0
+D0
+~
+~
+0 0 23088 0
+D1
+~
+~
+0 0 23081 0
+D2
+~
+~
+0 0 23070 0
+D3
+~
+~
+0 0 23079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23081
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 13 0
+D0
+~
+~
+0 0 23089 0
+D1
+~
+~
+0 0 23082 0
+D3
+~
+~
+0 0 23080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23082
+&4Corridoio Nord del Nodo Esterno.&0~
+Si possono ancora vedere i segni di una vecchia esplosione nella parete sinistra che potrebbe
+appartenere al vecchio corridoio adesso ricostruito con materiale molto piu' resistente e pregiato.
+Le pareti di pietra nera sono molto piu' liscie e alcuni simboli sono posti sul soffitto.
+~
+230 0 0
+D0
+~
+~
+0 0 23090 0
+D2
+~
+~
+0 0 23072 0
+D3
+~
+~
+0 0 23081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23083
+&2Alloggi dei Discendenti di Chymon.&0~
+Questi alloggi sono ben arredati in confronto a quelli dei discentendi degli altri ordini.
+Dormono su letti imbottiti di paglia, hanno una piccola scrivania ed un piccolo forziere vicino al letto.
+Alcune pergamene sono poste sopra una scrivania ,alcuni scritti hanno ancora l'inchiostro fresco.
+~
+230 13 0
+D2
+~
+~
+0 0 23073 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23084
+&3Scale della Torre Nord-Est.&0~
+Questa torre sale con gradini molto ben definiti, segno che e' stata da poco
+costruita,alcune sentinelle bloccano il passaggio ai piani superiori.
+~
+230 13 0
+D2
+~
+~
+0 0 23076 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23085
+&2Alloggi dei Veterani di Chymon.&0~
+La stanza spaziosa e ordinata  contiene dei letti grandi e robusti
+Ogni veterano di questo ordine possiede anche una scrivania ,un armadio
+e un forziere decorato in argento.
+~
+230 13 0
+D2
+~
+~
+0 0 23077 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23086
+La Setta dei Veterani di Chymon.~
+Questa grande stanza di marmo bianco con venature nere contiene delle colonne d'argento che arrivano
+al soffitto. Alcuni veterani volano da una parte all'altra della stanza.. scomparendo e riapparendo
+altri si allenano creando elementi. Fiamme escono dai palmi delle loro mani e la luce di quelle fiamme
+si riflette nelle colonne d'argento.
+Il pavimento non e' sporco di sangue, un totale silenzio e anche l'aria sembra non spostarsi al passaggio
+dei corpi di questi Veterani.
+~
+230 13 0
+D2
+~
+~
+0 0 23078 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23087
+&3Scale della Torre Centrale Nord.&0~
+&2Questa torre molto ben arredata e' leggermente piu' grande delle altre del nodo&0
+&2Esterno, solo La Torre Madre nel Nodo Interno la supera in altezza&0.
+&2Probabilmente questa torre porta alle stanze del capitano delle Sentinelle&0.
+~
+230 13 0
+D2
+~
+~
+0 0 23079 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23088
+La Setta dei Veterani di Chymon.~
+Questa grande stanza di marmo bianco con venature nere contiene delle colonne d'argento che arrivano
+al soffitto. Alcuni veterani volano da una parte all'altra della stanza.. scomparendo e riapparendo
+altri si allenano creando elementi. Fiamme escono dai palmi delle loro mani e la luce di quelle fiamme
+si riflette nelle colonne d'argento.
+Il pavimento non e' sporco di sangue, un totale silenzio e anche l'aria sembra non spostarsi al passaggio
+dei corpi di questi Veterani.
+~
+230 13 0
+D2
+~
+~
+0 0 23080 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23089
+&2Alloggi dei Veterani di Chymon.&0~
+La stanza spaziosa e ordinata  contiene dei letti grandi e robusti
+Ogni veterano di questo ordine possiede anche una scrivania ,un armadio
+e un forziere decorato in argento.
+~
+230 13 0
+D2
+~
+~
+0 0 23081 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23090
+&3Scale della Torre Nord-est.&0~
+Questa torre ben sorvegliata porta ai piani superiori dove viene praticato il culto di
+Xhyphys,i riti religiosi delle stanze qua sopra sono spesso seguiti da sacrifici in onore
+del Dio e contatti con il piano in extradimensione dell'ombra.
+&4Molto spesso evocazioni di Mostri leggendari sono un modo per abbracciare il male.&0
+~
+230 13 0
+D2
+~
+~
+0 0 23082 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23091
+&2Alloggi degli Adepti di Chymon.&0~
+La porta di questa grande stanza e' stata riforzata ed il pavimento e' di una lucente
+pietra nera levigata.
+Queste stanze presentano dei letti solidi e ordinati, un forziere e' posto accanto ad essi.
+Puoi vedere una scrivania con sopra molti scritti ed un piccolo armadio vicino ad ogni letto.
+Questi alloggi degli adepti di Chymon sono paragonabili a quelli dei Veterani degli altri ordini.
+~
+230 13 0
+D2
+~
+~
+0 0 23097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23092
+&4Corridoio Nord-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Sembra essere stato costruito piu' recentemente delle altre zone,probabilmente e' stato
+distrutto in passato per qualche evocazione o invocazione riuscita male.
+~
+230 13 0
+D0
+~
+~
+0 0 23064 0
+D1
+~
+~
+0 0 23093 0
+D2
+~
+~
+0 0 23097 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23093
+&4Corridoio Nord-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Sembra essere stato costruito piu' recentemente delle altre zone,probabilmente e' stato
+distrutto in passato per qualche evocazione o invocazione riuscita male.
+~
+230 13 0
+D0
+~
+~
+0 0 23065 0
+D2
+~
+~
+0 0 23098 0
+D3
+~
+~
+0 0 23092 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23095
+&3Scale della seconda Torre Ovest.&0~
+Un forte odore di carne da macello pervade questa torre che porta alle cucine.
+Alcune sentinelle avrebbero dovuto sorvegliare questa torre, ma o per eccessiva
+tranquillita' o per stanchezza si sono distratte dai loro doveri.
+~
+230 13 0
+D1
+~
+~
+0 0 23096 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23096
+&4Corridoio Ovest del Nodo Esterno.&0~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Tychon uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 0 0
+D0
+~
+~
+0 0 23091 0
+D1
+~
+~
+0 0 23097 0
+D2
+~
+~
+0 0 23099 0
+D3
+~
+~
+0 0 23095 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23097
+&4Corridoio Nord-Ovest del Nodo Esterno.&0~
+Questo corridoio percorre il perimetro del pentagono del Nodo Esterno della Fortezza.
+Sembra essere stato costruito piu' recentemente delle altre zone,probabilmente e' stato
+distrutto in passato per qualche evocazione o invocazione riuscita male.
+~
+230 13 0
+D0
+~
+~
+0 0 23092 0
+D3
+~
+~
+0 0 23096 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23098
+La setta degli Adepti di Chymon.~
+In questa stanza con le pareti di pietra grezza bagnate di sangue alcuni MindFlayer combattono
+invisibili. L'unica cosa che riesci a vedere e' solo il sangue cade dai loro corpi quando vengono
+feriti.
+~
+230 13 0
+D0
+~
+~
+0 0 23093 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+#23099
+&4Corridoio Ovest del Nodo Esterno.&0~
+Il corridoio continua il suo percorso tra le stanze dei Veterani dell'ordine di Tychon uno
+dei tre supremi MindFlayer.
+Lungo di esso puoi sentire le voci dei MindFlayer che invocano qualche rito oscuro.
+~
+230 13 0
+D0
+~
+~
+0 0 23096 0
+D2
+~
+~
+0 0 23021 0
+F
+ 0 0 0 0 0 0 0 0 0 0
+S
+$~

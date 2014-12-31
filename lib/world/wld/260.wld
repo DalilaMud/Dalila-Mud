@@ -1,0 +1,1738 @@
+#26000
+Campo della Morte~
+   Il puzzo di morte quasi ti fa svenire quando entri in questa zona.
+Ci sono almeno duecento carcasse fra uomini ed animali sparse
+in terra. Frecce e lance sono piantate nel terreno e sui morti
+come un boschetto di alberi e ci saranno almeno mille fuochi di
+campo sparsi tutto intorno. Tracce di carri e di cavalli portano
+a sud ed un sentiero conduce ad est.
+
+Un pezzo di carta e' conficcato su un bastone... si agita nella
+lieve brezza.
+
+~
+260 4 2
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 -1 26001
+E
+carta~
+Il pezzo di carta dice:
+		=======================
+		= A T T E N Z I O N E =
+		=                     =
+		= Questa area e' stata=
+		=  ideata per livelli =
+		=   superiori al 15.  =
+		=                     =
+		=      Sei stato      =
+		=      AVVERTITO      =
+		=======================
+~
+S
+#26001
+Il villaggio bruciato~
+   Spirali di fumo salgono nell'aria dalle rovine che covano sotto la
+cenere di un povero villaggio. Dei dodici edifici preesistenti solo
+un muro e' rimasto piu' alto di tre metri. Questo villaggio e' stato
+brutalmente distrutto ed il solo segno di vita che rimane e' una
+grande poiana che ancora rovista alla ricerca di qualche cadavere.
+~
+260 0 2
+D0
+~
+~
+0 -1 26000
+D2
+~
+~
+0 -1 26002
+S
+#26002
+Strada per il palazzo~
+   Col villaggio che svanisce dietro di te, la strada comincia ad arrampicarsi
+verso il palazzo di Santheocles, il re di Cyrga.
+In lontananza, oltre le piccole macchie di alberi mischiati a qualche sparuta
+fattoria, vedi il palazzo. E' appollaiato su una alta collina, sopra il fiume
+Sacro, imponente ed in posizione strategica.
+~
+260 0 2
+D0
+~
+~
+0 -1 26001
+D2
+~
+~
+0 -1 26003
+S
+#26003
+Il ponte sul Fiume Sacro~
+   Questo e' un gigantesco ponte di basalto nero ma non e' sicuramente un
+capolavoro. Come per tutte le costruzioni cyrgasche, non e' l'estetica il
+fattore ricercato. A grandi linee il ponte e' sospeso trecento metri sopra il
+letto del fiume. Le sponde del ponte sono alte all'incirca cinque metri ed
+e' lungo cinquanta. Sull'altro lato del ponte c'e' una strada lastricata che
+sale verso il palazzo.
+~
+260 4 4
+D0
+~
+~
+0 -1 26002
+D1
+~
+~
+0 -1 26004
+D2
+~
+~
+0 -1 26006
+S
+#26004
+Una strada lungo il fiume~
+   Questa strada e' larga abbastanza da essere percorsa da carri.
+Una prova ne e' il fatto che secoli di approvvigionamento ai locali
+principali della cittadella hanno formato dei profondi solchi nelle
+pietre. Se ti fermi un attimo ad ascoltare, senti i rumori provenienti
+dal fiume e dal bosco vicino. Guardando avanti, vedi delle piccole
+spire di fumo che salgono verso il cielo.
+~
+260 0 4
+D1
+~
+~
+0 -1 26005
+D3
+~
+~
+0 -1 26003
+S
+#26005
+L'accampamento dei taglialegna~
+   Stai camminando al centro di un accampamento di rozzi taglialegna.
+In lontananza vedi una grande catasta di tronchi di albero, e degli uomini
+muniti di ascia muoversi nel campo. Diversamente dalla maggior parte
+degli altri campi, in questo ci sono anche donne e bambini. Delle guardie
+Cynesgan controllano che tutto si svolga nel migliore dei modi.
+~
+260 0 3
+D3
+~
+~
+0 -1 26004
+D5
+~
+~
+0 -1 26008
+S
+#26006
+Una strada lastricata~
+   Dopo che hai attraversato il ponte, ti senti rinfrancato di aver 
+raggiunto l'altra sponda. I lastroni di pietra sono stati sagomati con
+abilita' dagli schiavi, probabilmente nani, dei Cyrgai. Da qualche parte
+davanti a te proviene un grido.
+~
+260 0 1
+D0
+~
+~
+0 -1 26003
+D2
+~
+~
+0 -1 26007
+S
+#26007
+Panorama~
+   Il panorama da questa stretta strada curva e' meraviglioso.
+Lontano, sotto di te, il Fiume Sacro scorre attraverso le montagne.
+Cambia colore, diventa verde quando si imbatte nelle piante
+che sono sugli argini. Ad est c'e' il palazzo di Santheocles.
+Le tre mura che lo cingono sono alte venti metri.
+Tre torri si ergono alte nel cielo come le punte di una corona.
+Questa citta' non e' mai stata conquistata.
+~
+260 0 1
+D0
+~
+~
+0 -1 26006
+D2
+~
+~
+0 -1 26024
+S
+#26008
+Scala di corda~
+   Faresti meglio a prestare attenzione! Questa scala di corda e'
+alta almeno cento metri. E' stata ricavata intrecciando peli di
+cavallo e capelli di donna Atan. Con un po' di fortuna ti puoi
+calare sul ponte sottostante.
+~
+260 0 5
+D4
+~
+~
+0 -1 26005
+D5
+~
+~
+0 -1 26009
+S
+#26009
+Il ponte di legno~
+   Sei ora su un albero gigantesco che e' cresciuto nel punto piu'
+stretto del baratro. Le radici sono profondamente conficcate nelle
+mura della rupe. La cima invece svanisce all'ombra dell'entrata
+di una caverna. E' meglio affrettarsi!!! Non c'e' alcuna garanzia
+che il ponte regga ancora!
+~
+260 512 5
+D2
+~
+~
+0 -1 26010
+D4
+~
+~
+0 -1 26008
+S
+#26010
+L'Ingresso della Caverna~
+   Che sollievo!!! Il ponte di legno era un po' instabile. La caverna
+nella quale ti trovi ora e' stata scavata dallo scorrere del fiume nel
+corso dei millenni. Dall'interno della caverna proviene un forte odore
+di umido.
+~
+260 8 0
+D0
+~
+~
+0 -1 26009
+D1
+~
+~
+0 -1 26011
+D2
+~
+~
+0 -1 26014
+S
+#26011
+Un piccolo tunnel~
+Il tunnel e' nero come la pece! Sarebbe meglio avere
+una luce!
+~
+260 520 0
+D1
+~
+~
+0 -1 26012
+D3
+~
+~
+0 -1 26010
+S
+#26012
+La caverna di cristallo~
+   Se non fosse per i pipistrelli appesi alla volta, questa caverna
+sarebbe il luogo piu' bello nel quale sei stato.
+Gli angoli sono ancora neri come la pece, ma la conformazione
+stessa dei cristalli sulle pareti fa si' che la luce venga riflessa
+e ti permetta di vedere cio' che sta al centro della caverna.
+Stalagmiti enorme ed altre formazioni calcaree si combinano
+in un riuscito sforzo per creare il paese delle meraviglie.
+Il suono sordo del gocciolio dell'acqua rimbomba alimentato
+dall'eco.
+~
+260 26000 0
+D1
+~
+~
+0 -1 26013
+D3
+~
+~
+0 -1 26011
+S
+#26013
+Troppo scuro da dire~
+   Stai camminando in una caverna con un...
+CAAAAAAAAAAADIIIIIIIIIIIIIIIIIIIIIII < thump!>
+~
+260 8 0
+D2
+~
+~
+0 -1 26087
+D3
+~
+~
+0 -1 26012
+S
+#26014
+Il fiume sotterraneo~
+   Stai patendo molto freddo e molto umido grazie all'acqua
+gelata del fiume.
+~
+260 13 6
+D0
+~
+~
+0 -1 26010
+D1
+~
+~
+0 -1 26015
+S
+#26015
+Scendendo il fiume~
+   Sei sul fiume. L'acqua e' davvero molto fredda.
+~
+260 9 6
+D1
+~
+~
+0 -1 26016
+D3
+~
+~
+0 -1 26014
+S
+#26016
+Il nero fiume freddo~
+   Cominci a chiederti dove ti sta portando questo fiume. Stai
+finalmente realizzando che non e' il nuoto il tuo sport preferito.
+La corrente del fiume ti ha preso e scendi molto rapidamente
+giu' per questo fiume sotterraneo.
+~
+260 9 6
+D1
+~
+~
+0 -1 26089
+D2
+~
+~
+0 -1 26017
+D3
+~
+~
+0 -1 26015
+S
+#26017
+Dentro la montagna~
+   Hai finalmente trovato un luogo dove riposare. Il fiume tuona
+intorno a te e si inabissa in un buco profondo appena un po'
+oltre il punto in cui ti trovi.
+Sei quasi accecato dal bagliore della luce del giorno che proviene
+dall'alto. A prestare attenzione noti che ci sono delle sbarre di
+metallo di forma circolare dentro il tunnel sopra la tua testa.
+~
+260 12 0
+D0
+~
+~
+0 -1 26016
+D4
+~
+~
+0 -1 26018
+S
+#26018
+Piazza del Pozzo~
+   Sei in cima ad un pozzo profondo di marmo bianco.
+Una corda ed un secchio sono li', in attesa che qualcuno necessiti
+di acqua. Ad ovest, est, e sud c'e' la piazza del palazzo.
+A causa della legge marziale sempre presente in Cyrga, ai cittadini
+non e' permesso insediare un mercato, ma possono girare liberamente.
+~
+260 0 1
+D1
+~
+~
+0 -1 26023
+D2
+~
+~
+0 -1 26036
+D3
+~
+~
+0 -1 26019
+D5
+~
+~
+0 -1 26017
+S
+#26019
+Piazza occidentale~
+   L'ingresso alla Piazza e' sempre stata una delle cose favorite
+dal popolo. Le persone importanti di Cyrga devono passare
+attraverso questa stretta apertura del tunnel per entrare nella
+Piazza. Per molti cittadini questo e' il punto piu' vicino per
+poter vedere i reali o altra gente importante.
+~
+260 0 1
+D1
+~
+~
+0 -1 26018
+D2
+~
+~
+0 -1 26021
+D3
+~
+~
+0 -1 26020
+S
+#26020
+Il piccolo tunnel~
+   Questo piccolo tunnel e' molto facile da difendere. Nelle pareti
+sono state ricavate delle feritoie per le frecce e delle grate d'acciaio
+sono pronte a scendere per catturare chi entra nel tunnel senza
+permesso.
+~
+260 520 1
+D1
+~
+~
+0 -1 26019
+D3
+~
+~
+0 -1 26022
+S
+#26021
+La fucina del fabbro~
+   Il rumore del martello che batte sul metallo ti rintrona nelle
+orecchie appena entri nel migliore negozio di armature della
+citta'. Grazie a quasi tutta una vita dedicata al servizio degli
+avventurieri, il fabbro ha messo insieme delle eccellenti collezioni
+di armature.
+~
+260 8 0
+D0
+~
+~
+0 -1 26019
+D2
+~
+~
+0 -1 26035
+S
+#26022
+Un piccolo tunnel~
+   I progettisti urbani hanno reso sicuro questo tunnel che da'
+accesso alla Piazza e al cuore del palazzo.
+Con feritoie per frecce, barili di petrolio e grate d'acciaio che
+possono piombare al suolo e rinchiudere chi cerca di entrare,
+hanno previsto ogni possibile attacco e si sono cautelati creando
+difese difficili da superare.
+~
+260 520 1
+D0
+~
+~
+0 -1 26088
+D1
+~
+~
+0 -1 26020
+D3
+~
+~
+0 -1 26033
+S
+#26023
+Piazza orientale~
+   Una volta c'era un bel giardino qui, tutto erboso. Tutt'intorno
+crescevano i fiori e con la fontana vicino...
+Ora comunque, una delle capre dei nobili e' riuscita a fuggire
+dal recinto e ha mangiato l'erba. L'hanno ammazzata subito
+ma il danno ormai e' stato fatto.
+~
+260 8 1
+D2
+~
+~
+0 -1 26038
+D3
+~
+~
+0 -1 26018
+S
+#26024
+Preambolo al maligno~
+   Il palazzo e' molto, molto vicino. La sua ombra copre la
+strada proprio nel punto in cui sei ora. Il puzzo di sangue
+ti riempie il naso e noti che scende a rivoli giu' per la strada
+lastricata.
+~
+260 0 1
+D0
+~
+~
+0 -1 26007
+D1
+~
+~
+0 -1 26025
+S
+#26025
+Pendio~
+    Finalmente. Il Palazzo di Santheocles ti si para davanti.
+Sotto di te, nella piccola valle davanti i cancelli del palazzo,
+riposa un esercito di guardie. Uno stendardo nero sventola
+su diverse lance e un sordo rumore di tamburi riempie l'aria.
+La morte e' sospesa sopra la valle e necessita solo di un
+piccolo aiuto.
+~
+260 0 1
+D2
+~
+~
+0 -1 26026
+D3
+~
+~
+0 -1 26024
+S
+#26026
+Campo di battaglia~
+   Noti per la prima volta l'assenza di assistenti di campo e di
+bestie. Come puo' un esercito resistere senza il conforto delle
+proprie donne... e del cibo?  Hai visto carcasse di animali
+decomporsi al sole.
+
+Hhhmmm.   Ti fermi in contemplazione quando vedi una pentola,
+bollire su un fuoco basso. Ci guardi dentro.
+                        *** GASP ***
+Galleggiante dentro la pentola c'e' il corpo a pezzi di una piccola
+ragazza. Ora comprendi che sei alla presenza di malignita' pura.
+~
+260 8192 2
+D0
+~
+~
+0 -1 26025
+D2
+~
+~
+0 -1 26027
+S
+#26027
+Davanti ai cancelli~
+   Il palazzo appare in lontananza alto sopra la tua testa.
+La sua ombra scura copre la valle e non senti provenire
+nessuno conforto dalla sua forza. Non ora almeno.
+~
+260 0 2
+D0
+~
+~
+0 -1 26026
+D2
+~
+cancellata~
+0 0 26028
+S
+#26028
+Ingresso al palazzo~
+   Sei entrato nel palazzo. Del sangue ti sgocciola dal corpo sul pavimento.
+Guardie reali ti guardano da vicino... e per diverso tempo anche! Hanno
+pensato in un primo momento che tu fossi una spia, ora ne sono certi.
+~
+260 12 1
+D0
+~
+cancellata~
+0 0 26027
+D2
+~
+~
+0 -1 26029
+S
+#26029
+Strada del Palazzo~
+   Questa antica strada e' lastricata con le pietre piu' vecchie
+della citta'. Il resto del castello e' stato costruito alla fine di
+questa strada, e puoi dire guardandoti intorno che questa e'
+anche la zona piu' difesa della citta'. Guardie reali sono dappertutto.
+Senti le loro armature sferragliare ed il rumore dei loro stivali.
+Da qualche parte ad ovest senti gli acuti strilli di un donna e
+di bambini.
+~
+260 8 1
+D0
+~
+~
+0 -1 26028
+D1
+~
+~
+0 -1 26033
+D2
+~
+~
+0 -1 26032
+D3
+~
+~
+0 -1 26030
+S
+#26030
+Viale del parco~
+   Gli schiavi e le guardie cynesgan hanno ridotto questo parco
+ad una porcilaia. Rifiuti e scarti sono dappertutto. I bagni sono
+intasati. La vista di tutto cio' ti fa dare di stomaco.
+~
+260 8 1
+D1
+~
+~
+0 -1 26029
+D2
+~
+~
+0 -1 26031
+S
+#26031
+La fine meridionale del parco~
+   Qui una volta c'era un bello stagno. Guardi la superficie,
+ed immagini le facce sorridenti dei bambini.
+Oggi, sono i genitori che sorridono. Loro che hanno le pance
+piene per la prima volta da molte settimane.
+~
+260 0 2
+D0
+~
+~
+0 -1 26030
+S
+#26032
+Ingresso del palazzo~
+   L'ingresso al palazzo reale e' stato rinforzato con griglie di
+ferro. Molti progetti e piani sono andati nello sforzo di impedire
+al miglior ladro del mondo di aprire le porte. Ci deve essere un
+altro ingresso al palazzo.
+~
+260 0 1
+D0
+~
+~
+0 -1 26029
+S
+#26033
+Il viale di Cyrgon~
+   Questo viale, come del resto tutta Cyrga, e' dedicato a Cyrgon,
+il Distruttore.
+Le sue imprese sono leggenda, le sue malvagita' sono impresse nei
+libri di storia.
+~
+260 8 1
+D1
+~
+~
+0 -1 26022
+D2
+~
+~
+0 -1 26034
+D3
+~
+~
+0 -1 26029
+S
+#26034
+La Panetteria~
+   Anche durante la guerra... l'odore di una panetteria puo' far nascere
+un sorriso sulla faccia di chiunque. Ma a giudicare dal puzzo tremendo
+che ristagna nell'aria, il panettiere farebbe meglio a cambiare mestiere.
+~
+260 8 0
+D0
+~
+~
+0 -1 26033
+S
+#26035
+L'armeria~
+   Il rumore che senti e' provocato dall'artigiano che affila la lama
+di un'eccellente arma.
+L'ultima cosa che vuoi fare e' disturbare questo uomo. Il suo negozio
+e' immacolato e poi... ha sempre un'arma in mano!
+Grandi barili di legno contengono dozzine di lance e frecce, mentre degli
+archi sono appesi a dei ganci sul muro.
+Sugli scaffali ci sono centinaia di spade e di coltelli.
+~
+260 8 0
+D0
+~
+~
+0 -1 26021
+D1
+~
+~
+0 -1 26037
+S
+#26036
+Piazza meridionale~
+   La Piazza Meridionale e' sempre stata sede di un mercato all'aperto.
+Questo, fino all'assedio. Oggi la Piazza e' vuota. Non un venditore in
+vista. La Piazza Meridionale e' pavimentata con blocchi grigi e edera
+verde cresce sugli edifici vicini.
+~
+260 8 0
+D0
+~
+~
+0 -1 26018
+D2
+~
+~
+0 -1 26037
+S
+#26037
+Zona di addestramento~
+   Questo largo spiazzo sporco e' privo d'erba grazie agli esercizi
+di addestramento dei combattenti.
+La Guardia Reale ha sempre rivendicato questa area come propria.
+~
+260 8 0
+D0
+~
+~
+0 -1 26036
+D1
+~
+~
+0 -1 26040
+D2
+~
+~
+0 -1 26041
+D3
+~
+~
+0 -1 26035
+S
+#26038
+Uno scuro tunnel~
+   La piazza e' dietro di te e l'oscurità e' con te. Come il cuore della
+terra, questo tunnel, questo sentiero, deve portare in qualche posto
+migliore. Questo sentiero attraversa l'oscurita' e soffoca la tua anima.
+Avanti... alla fine del tunnel vedi una luce.
+~
+260 12 0
+D0
+~
+~
+0 -1 26023
+D2
+~
+~
+0 -1 26039
+S
+#26039
+L'oscurita'~
+   Sei entrato in un santuario dedicato al piu' tremendo degli Dei!
+
+Alte sopra la tua testa ci sono migliaia di palle di luce, eternamente
+accese che illuminano questa stanza. Ad ovest c'e' un'uscita e ad
+est c'e' il sacerdote del Dio, Ekatas, che sta benedicendo un gruppo
+di guardie reali. Attento a non farti vedere.
+~
+260 9224 0
+D0
+~
+~
+0 -1 26038
+D2
+~
+~
+0 -1 26040
+S
+#26040
+Il giardino della guerra~
+    Questo giardino e' uno dei piu' caotici luoghi del Palazzo. Un sentiero
+di ghiaia bianco si inoltra in mezzo a quelle che una volta erano delle siepi
+alte tre metri, mentre ora sono rimaste solo le radici.
+~
+260 4 1
+D0
+~
+~
+0 -1 26039
+D2
+~
+~
+0 -1 26044
+D3
+~
+~
+0 -1 26037
+S
+#26041
+La caserma~
+   Uh oh... Sei entrato nella Caserma della Guardia Reale. Quasi
+tutti i tavoli e le sedie sono attualmente occupate, c'e' solo un
+posto libero vicino al focolare.
+Mentre ti siedi, gli occhi si abituano alla luce fioca e vedi molti
+cadetti che lustrano la loro armatura, mentre altri si stanno
+confrontando a braccio di ferro.
+~
+260 8 1
+D0
+~
+~
+0 -1 26037
+D4
+~
+~
+0 -1 26042
+S
+#26042
+Il primo piano~
+   Questo stretto corridoio conduce a molte stanze singole e alla fine
+c'e' una scala che sale al secondo piano. Lungo tutto il corridoio ci
+sono le porte che danno accesso alle stanze. Molti cadetti dormono
+nella stessa stanza.
+Le stanze dei cadetti sono nude a parte una stuoia dove riposare,
+un vaso da notte, ed una rastrelliera per le armi.
+~
+260 8 0
+D4
+La porta dell'armeria e' a volta.
+~
+porta~
+0 0 26043
+D5
+~
+~
+0 -1 26041
+S
+#26043
+L'armeria~
+   Una porta spessa, rinforzata, e' aperta circa trenta centimetri.
+All'interno vedi restrelliere su rastrelliere piene di armi e armature.
+Molte delle armi sembrano essere fatte in casa... forse dalla milizia.
+Gli altri articoli sono proprio molto buoni.
+~
+260 8 0
+D5
+La porta dell'armeria e' a volta.
+~
+porta~
+0 0 26042
+S
+#26044
+Strada del palanchino~
+   Strada del palanchino e' stata dedicata allo spirito del guerriero
+valoroso. Un spirito senza paura, senza rimorso. Uno spirito il cui
+nemico temi l'incontro... sapendo che morra'. Forse non questo ora,
+ma presto.
+~
+260 8 1
+D0
+~
+~
+0 -1 26040
+D2
+~
+~
+0 -1 26045
+S
+#26045
+La strada di Kiki~
+   Grandi pietre provenienti da un vicino scavo sono state usate per 
+creare una primitiva, rozza, opera artistica. In onore della donna del
+grande guerriero, Kiki, il Re ha ordinato al suo miglior mago-artigiano
+di lavorare per molte settimane a mescolare l'energia della natura col
+controllo ed il potere di una donna irresistibile.
+~
+260 8 1
+D0
+~
+~
+0 -1 26044
+D2
+Questa grande porta rinforzata e' stata colpita, bruciata, attaccata con la
+magia....e ancora e' in piedi.
+~
+porta~
+0 26033 26046
+S
+#26046
+L'ingresso al Corpo di Guardia~
+   Il Palazzo di Santheocles e' protetto da tre alti muri e molte torri
+difensive. Nel labirinto c'e' il Guardiano di Santheocles. Con pareti
+spesse venti piedi, grate ad ogni ingresso questo posto e' la meta
+di ogni invasore. Costruito per resistere ad un assalto diretto, e'
+stato approvvigionato per essere autosufficiente per almeno due anni.
+~
+260 8 0
+D0
+Questa grande porta rinforzata e' stata colpita, bruciata, attaccata con la
+magia....e ancora e' in piedi.
+~
+porta~
+0 26033 26045
+D2
+~
+~
+0 -1 26047
+S
+#26047
+Sala principale~
+   Questa e' la Sala Principale del Corpo di Guardia. Degli scudi
+sono appesi alle pareti e delle bandiere scendono dal soffitto.
+Delle armature sono allineate lungo le pareti della stanza.
+~
+260 26004 0
+D0
+~
+~
+0 -1 26046
+D2
+~
+~
+0 -1 26057
+D3
+~
+~
+0 -1 26048
+S
+#26048
+Sala verde~
+   Aaaaahhhh. Le piante da interno abbondano in questa stanza.
+Alti alberi raschiano il soffitto di vetro in questa stanza alta venti
+metri, mentre la flora rigogliosa si insinua negli angoli e si avvolge
+attorno ad una statua. La statua rappresenta Re Santheocles,
+avvolto nella sua corazza favorita, mentre sta impugnando una
+spada di fiamma. E' una scena impressionante.
+~
+260 8 0
+D1
+~
+~
+0 -1 26047
+D2
+~
+~
+0 -1 26053
+D3
+~
+~
+0 -1 26049
+S
+#26049
+Sala da pranzo~
+   Tre enormi focolari illuminano e scaldano questa stanza.
+Al centro c'e' un tavolo ricavato da una gigantesca sequoia.
+Meravigliosamente levigato ed intarsiato, questo tavolo puo'
+accogliere piu' di cinquanta persone.
+Dei candelieri d'argento sono sparsi per tutta la stanza, e
+sui muri, fra scudi, bandiere ed altri trofei di guerra, ci sono
+delle catene per i prigionieri.
+~
+260 8 0
+D1
+~
+~
+0 -1 26048
+D2
+~
+~
+0 -1 26052
+D3
+~
+~
+0 -1 26051
+S
+#26050
+Serbatoio~
+Non sei stato molto furbo! Hai provato a passare sopra un serbatoio
+molto profondo.
+
+            CAAAAAAADIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!!!
+
+Atterri in una fanghiglia alta quasi un metro. Del liquido entra
+rapidamente in ogni apertura della tua armatura e QUALCHE
+COSA scivolando attraverso il limo si strofina contro la tua
+gamba e poi sparisce nell'oscurità.
+~
+260 514 0
+S
+#26051
+I bagni al coperto~
+   L'avresti mai pensato??? Bagni al coperto! Ogni giorno
+se ne impara una!
+L'attendente ha passato evidentemente molto tempo sul posto...
+RISPLENDONO!
+~
+260 520 0
+D1
+~
+~
+0 -1 26049
+D5
+~
+~
+0 -1 26050
+S
+#26052
+La cucina~
+   Il calore che proviene dai due focolari che ci sono in questa stanza
+scaldano quanto il sole... o almeno sembra.
+Alcuni piccoli tavoli sono disposti nella stanza per preparare il cibo
+e ci sono quattro armadietti dove ci si ripongono le spezie.
+Un set di pentole di rame e' appeso al soffitto. Dei coltelli molto
+affilati sono conficcati in un ceppo di legno sul tavolo piu' grande.
+~
+260 8 0
+D0
+~
+~
+0 -1 26049
+S
+#26053
+Sulla scala~
+   Quando entri in questa stanza senti un suono, come un lontano
+gong che rintrona. Sul retro della stanza, una scala a spirale sale
+verso un'oscura torre. Sul pavimento ci sono molti mesi di rifiuti
+accumulati e polvere. Tracce di scopa indicano che qualcuno ha
+tentato di pulire, ma questo e' successo parecchio tempo fa.
+~
+260 520 0
+D0
+~
+~
+0 -1 26048
+D4
+~
+~
+0 -1 26054
+S
+#26054
+Il Primo Piano~
+   Il Primo Anello della torre e' dedicato ad ospitare un grande
+mago. Con tende nere appese ai muri la stanza e' scura davvero.
+Brillanti candelieri d'argento illuminano la stanza... le candele
+hanno un aroma particolare e delicato. Librerie fiancheggiano i
+muri e bidoni pieni di rotoli di carta sono accatastati negli angoli.
+Se fossi saggio potresti passare degli anni a catalogare questo tesoro
+di informazioni.
+~
+260 8 0
+D4
+~
+~
+0 -1 26055
+D5
+~
+~
+0 -1 26053
+S
+#26055
+Il Secondo Piano~
+   Al centro di questa stanza c'e' un cerchio d'argento che serve
+ad evocare i demoni. Mentre guardi... un lampo colorato appare
+all'interno del cerchio. Svanito il bagliore scorgi una bestia di
+orrore inimmaginabile. E' rivoltante quello che vedi.
+La bestia ha quattro teste, la terza si volta verso di te e dice:
+ "Sei piccolo e non hai nulla che io desideri. Vivrai.
+Quando diverrai un Semidio (seee, ma quando?), ritorna qui e ti
+apriro' le porte per un altro luogo".
+Detto cio' il mostro svanisce.
+~
+260 8 0
+D1
+Una custodia scintillante.
+~
+Custodia~
+0 26048 26086
+D4
+~
+~
+0 -1 26056
+D5
+~
+~
+0 -1 26054
+S
+#26056
+Il Terzo Piano~
+   Quest'ultimo livello supera in altezza il palazzo stesso.
+All'aria aperta, e senza ringhiera, e' un luogo pericoloso.
+Al centro della stanza c'e' una grande urna che ispira timore
+riverenziale.
+Custodie di potere fluttuano ardenti in aria... a qualche centimetro
+dalla tua faccia. C'e' un campo brillante di potere al margine del
+livello.
+~
+260 8704 0
+D5
+~
+~
+0 -1 26055
+S
+#26057
+Sala rossa~
+   Questa meravigliosa stanza decorata contiene alcuni dei
+piu' strani trofei che tu abbia mai visto. Trofei di guerra occupano
+la maggior parte dello spazio delle pareti, ci sono anche alcuni
+trofei di caccia mescolati a scudi, bandiere, ed armi di antichi
+nemici.
+~
+260 8 0
+D0
+~
+~
+0 -1 26047
+D2
+~
+~
+0 -1 26058
+S
+#26058
+Sala grande~
+   Con bandiere che ardono magicamente e palle di luce, questa stanza
+e' illuminata a giorno. Un senso di sfiducia comincia a sorgere in te
+comprendendo che Santheocles ha la situazione allora sotto controllo.
+Il pensiero della sua vicinanza non ti fa pensare ad altro.
+~
+260 8 0
+D0
+~
+~
+0 -1 26057
+D2
+~
+~
+0 -1 26059
+S
+#26059
+Sala delle udienze~
+   Al centro della stanza c'e' un trono gigantesco. E' adorno
+come solo un pettirosso puo' essere, con le penne incastonate
+di gioielli e gemme provenienti da tutto il mondo.
+Alte candele illuminano questa zona con una forte luce che da'
+parecchio fastidio agli occhi.
+~
+260 8 0
+D0
+~
+~
+0 -1 26058
+D2
+~
+~
+0 -1 26060
+S
+#26060
+La Scalinata~
+La scalinata e' un miracolo di architettura. Non ci sono
+sostegni visibili che sostengono questa scala circolare.
+Il suo meraviglioso bagliore e' tutto naturale, non e' stato
+ottenuto magicamente.
+~
+260 8 0
+D0
+~
+~
+0 -1 26059
+D2
+~
+~
+0 -1 26069
+D3
+~
+~
+0 -1 26061
+S
+#26061
+Sala grande~
+   La Sala Grande e' l'orgoglio del Palazzo. E' stata
+arredata da architetti ed artigiani per cinque lunghi
+anni. La Sala Grande e' stata dipinta con le antiche
+imprese del popolo Cyrgai guidato in battaglia
+direttamente da Cyrgon.
+~
+260 8 0
+D1
+~
+~
+0 -1 26060
+D2
+~
+~
+0 -1 26068
+D3
+~
+~
+0 -1 26062
+S
+#26062
+La Sala Grande~
+   Dipinti meravigliosi decorano il soffitto di questo atrio. Tremendi
+sforzi sono andati nella creazione di tutto questo con il solo scopo
+di impressionare i dignitari stranieri.
+~
+260 8 0
+D1
+~
+~
+0 -1 26061
+D2
+~
+~
+0 -1 26067
+D3
+~
+~
+0 -1 26063
+S
+#26063
+La Sala Media~
+   Questa sala e' attualmente ancora in costruzione.
+Al suo completamento dovrebbe rivaleggiare con la Sala Grande.
+Se ti avvicini potrai vedere l'inizio di un grande mosaico.
+~
+260 8 0
+D1
+~
+~
+0 -1 26062
+D2
+~
+~
+0 -1 26066
+D3
+~
+~
+0 -1 26064
+S
+#26064
+Fine della Sala~
+   Stai attento! Questa parte della sala e' estremamente instabile.
+Grandi blocchi di muratura sono caduti e potrebbero cadere di nuovo.
+~
+260 8 0
+D1
+~
+~
+0 -1 26063
+D2
+~
+~
+0 -1 26065
+S
+#26065
+La grande camera da letto~
+   Sei entrato in una grande camera da letto per gli ospiti.
+In questo momento i lavoratori hanno tutta la loro attrezzatura
+immagazzinata qui. Non e' una gran bella vista, ti assicuro.
+~
+260 8 0
+D0
+~
+~
+0 -1 26064
+S
+#26066
+La stanza dei visitatori~
+   Anche questa stanza e' adibita ad ospitare dei visitatori.
+Molti dignitari hanno riposato qui.
+~
+260 8 0
+D0
+~
+~
+0 -1 26063
+S
+#26067
+La Camera da letto Reale~
+   Questa camera da letto appartiene al Re. E' magnifica.
+Opulenta e con tutti quegli oggetti antichi di cui hai solo
+sentito parlare ma che non hai mai visto. Il letto e' un
+enorme letto a baldacchino.
+~
+260 8 0
+D0
+~
+~
+0 -1 26062
+S
+#26068
+Camera da letto della Regina~
+   La Regina usa questa camera da letto in quelle notti che il Re
+ed il suo staff sono impegnati in guerra. Qui ci sono molti suoi
+articoli personali ed anche svariati gioielli. Il rosa e' il colore
+dominante.
+~
+260 8 0
+D0
+~
+~
+0 -1 26061
+S
+#26069
+La Biblioteca~
+   Questa grande biblioteca e' il centro di cultura del paese.
+Ci sono migliaia e migliaia di libri. Legno di cedro e di ciliegio
+coprono tutti e quattro i muri da cima a fondo.
+Hai bisogno di una scala per raggiungere le mensole superiori.
+Ci sono due sedie molto comode al centro della stanza.
+Una coppa ad olio illumina la stanza dal tavolo vicino.
+~
+260 8 0
+D0
+~
+~
+0 -1 26060
+D2
+Le mensole sembrano molto ben fatte, con un sistema di carrucole
+che le alzano e le abbassano.
+~
+porta~
+0 26040 26070
+S
+#26070
+Uno Scaffale~
+   Dopo che sei passato attraverso lo scaffale, sei entrato in un
+corridoio segreto. Sembra non esseci nessuno qui attorno.
+~
+260 12 0
+D0
+Le mensole sembrano molto ben fatte, con un sistema di carrucole
+che le alzano e le abbassano.
+~
+porta~
+0 26040 26069
+D2
+~
+~
+0 -1 26071
+S
+#26071
+Un oscuro passaggio~
+   Questo corridoio e' diventato molto piccolo tutto all'improvviso.
+SSSSShhhhhhhhh!!
+Silenzio! Penso di sentire qualche cosa... o qualcuno.
+~
+260 8 0
+D0
+~
+~
+0 -1 26070
+D2
+~
+~
+0 -1 26074
+D3
+~
+~
+0 -1 26072
+S
+#26072
+Uno stretto passaggio~
+   Sei obbligato a muoverti.
+
+~
+260 520 0
+D1
+~
+~
+0 -1 26071
+D5
+~
+~
+0 -1 26073
+S
+#26073
+Una scalinata traballante~
+   Questa scalinata e' estremamente piccola e non ben costruita.
+In fondo ai gradini senti il rumore di metallo che colpisce metallo.
+~
+260 520 0
+D3
+~
+~
+0 -1 26082
+D4
+~
+~
+0 -1 26072
+S
+#26074
+Caverna naturale~
+   Il tunnel nel quale stai camminando e' diventato una
+caverna naturale.
+~
+260 9 0
+D0
+~
+~
+0 -1 26071
+D2
+~
+~
+0 -1 26075
+S
+#26075
+La Fine della caverna~
+   Questa caverna e' stata scavata da un fiume o da un
+ruscello. Un fiume da tempo prosciugatosi.
+~
+260 8 0
+D0
+~
+~
+0 -1 26074
+D2
+~
+~
+0 -1 26076
+D3
+~
+~
+0 -1 26081
+S
+#26076
+Una piccola caverna~
+   Aria fresca entra attraverso una piccola apertura nella parete ad est
+della caverna. L'apertura e' larga circa tre piedi.
+~
+260 8 0
+D0
+~
+~
+0 -1 26075
+D2
+~
+~
+0 -1 26077
+D3
+~
+~
+0 -1 26079
+S
+#26077
+Il panorama della caverna~
+   Il muro esterno di questa caverna e' stato scavato da qualcuno o da
+qualche cosa, che ha creato un accesso largo quasi tre metri.
+Sotto di te e giu' per la collina c'e' una piccola strada che costeggia
+il Fiume Sacro. Da ovest proviene un odore terribile.
+~
+260 8 0
+D0
+~
+~
+0 -1 26076
+D3
+~
+~
+0 -1 26078
+D5
+~
+~
+0 -1 26004
+S
+#26078
+Il Covo~
+   Sfortunatamente per te... questa caverna e' occupata!
+SCAPPA!!!!
+~
+260 8 0
+D1
+~
+~
+0 -1 26077
+S
+#26079
+Una buia e pericolosa caverna~
+   Sei alla presenza di molti umanoidi selvatici.
+		
+		       ***ATTACCANO***
+~
+260 26000 0
+D1
+~
+~
+0 -1 26076
+D4
+~
+~
+0 -1 26080
+S
+#26080
+Stanza del tesoro~
+   Questa piccola caverna e' troppo piccola perche' gli umanoidi
+possano entrare.
+Uh oh! Forse ho parlato troppo presto. Sembra che almeno uno di
+loro sia riuscito ad entrare.
+Forse se lo aiuti, potrai ottenere il suo servizio per alcuni anni.
+~
+260 26004 0
+D5
+~
+~
+0 -1 26079
+S
+#26081
+Un lato della caverna~
+   Sei in una piccola caverna, se comparata alle altre che hai
+visto. Questa caverna sembra abbastanza tranquilla. Forse puoi
+riposare un momento.  ZZZZZzzzzz.
+~
+260 26004 0
+D1
+~
+~
+0 -1 26075
+S
+#26082
+La Buca del Boia~
+   Dopo esser sopravvisuto all'antica scala, arrivi all'ingresso
+della prigione sotterranea di Cyrga.
+
+Senti deboli urli di agonia pura.
+~
+260 26004 0
+D1
+~
+~
+0 -1 26073
+D3
+~
+~
+0 -1 26083
+S
+#26083
+Camera di tortura~
+   Questa stanza e' pregna dell'odore della morte e della tortura.
+Al centro della stanza c'e' una buca con un fuoco acceso, dentro
+al quale tre ferri sono continuamente arroventati.
+Da un lato c'e' un orrendo letto con cinghie per legare le vittime.
+A fianco del letto c'e' una penna.
+~
+260 26004 0
+D1
+~
+~
+0 -1 26082
+D3
+~
+~
+0 -1 26085
+S
+#26084
+Una cella sotterranea~
+   La cella nella quale ti trovi e' stata approvata dal Re e dal
+Sacerdote, e tanto basta!
+Ci sono delle coperte sporche sul pavimento per quando vorrai dormire.
+Molte scritte sul muro sono state ispirate dalla prigionia.
+~
+260 524 0
+E
+scritta scritte~
+Il Re e' una bestia! Sua moglie e' una puttana! I loro bambini sono dei
+maiali!
+~
+S
+#26085
+L'ultimo tratto~
+   Molta gente buona ha pianto chiedendo misericordia mentre passava
+per questo tunnel.
+~
+260 26004 0
+D0
+~
+~
+0 -1 26084
+D1
+~
+~
+0 -1 26083
+D2
+~
+~
+0 -1 26084
+D3
+~
+~
+0 -1 26084
+S
+#26086
+Dentro il cerchio di evocazione~
+   Sei completamente circondato da un anello magico argentato.
+Se provi a toccarne i margini ricevi un duro colpo e sei gettato
+all'indietro. I mostri di questa zona provengono da qui. L'anello
+stesso si occupa di mantenere il collegamento fra di loro e se lo
+guardi da vicino puoi vederne i segni del potere.
+~
+260 8716 0
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 26005
+D3
+La brillante custodia.
+~
+Custodia~
+0 26048 26055
+D4
+~
+~
+0 -1 26095
+S
+#26087
+L'uscita~
+   Sei fortunato. Bene, stai attento la prossima volta. Questa
+caverna conduce alla salvezza.
+Ad est c'e' un turbinoso vortice magico... entraci e sarai al sicuro.
+~
+260 26000 0
+D0
+~
+~
+0 -1 26013
+D1
+~
+~
+0 26048 26000
+S
+#26088
+Bazar~
+   L'edificio nel quale ti trovi ha una caratteristica atmosfera.
+Ci sono molti articoli provenienti da varie avventure appesi a
+ganci o gettati sulle mensole. Una cassa enorme attira la tua
+attenzione. Fai un passo fino alla cassa.
+~
+260 8 0
+D2
+~
+~
+0 -1 26022
+S
+#26089
+Una cascata pericolosa~
+   Il fiume diviene violento quando si tuffa in un buco enorme
+nel terreno. Il fiume sotterraneo entra nel sottosuolo.
+Sei veramente sicuro di voler continuare?
+~
+260 8 6
+D3
+~
+~
+0 -1 26016
+D5
+~
+~
+0 -1 26090
+S
+#26090
+Nessuna uscita nell'oscurita'~
+Condannato Condannato Condannato Condannato Condannato Condannato.
+
+Il fiume colpisce con ritmo la roccia. Quando l'acqua la colpisce,
+schizza verso i muri della caverna, creando interessanti disegni e
+crepe.
+~
+260 8 6
+D3
+~
+~
+0 -1 26091
+D4
+~
+~
+0 -1 26089
+S
+#26091
+Sotto la cascata~
+   Sotto la cascata c'e' una bella caverna, brilla bagnata dagli
+spruzzi dell'acqua. Vedi il muschio fluorescente che cresce sui
+muri della caverna illuminare un tunnel che entra piu' in profondita'
+nella montagna. Il pavimento di questa caverna e' molto bagnato.
+~
+260 8 0
+D0
+~
+~
+0 -1 26092
+D1
+~
+~
+0 -1 26090
+S
+#26092
+Il tunnel della cascata~
+   Questo tunnel entra profondamente nella montagna. Inoltre
+il tuo fiato si congela nell'aria.
+~
+260 8 0
+D2
+~
+~
+0 -1 26091
+D3
+~
+~
+0 -1 26093
+S
+#26093
+Una grande caverna sotterranea~
+   Sei entrato in un altro mondo. Ci sono tracce di rettili qui.
+Molte tane di fango somiglianti ad igloo sorgono qui grazie al
+terreno umido della caverna.
+~
+260 8 0
+D1
+~
+~
+0 -1 26092
+D4
+~
+~
+0 -1 26094
+S
+#26094
+La Stanza del Dio~
+   La stanza nella quale ti trovi ha molti elementi del mondo
+subacqueo. Nel profondo degli scuri recessi della caverna c'e'
+una grande massa. Sembra il corpo di qualcosa!
+~
+260 8 0
+D5
+~
+~
+0 -1 26093
+S
+#26095
+La Sala degli Orrori~
+   Sei entrato nella Sala degli Orrori. Senti dei suoni terribili...
+le grida di migliaia di anime strillanti occupati nell'ultimo pianto
+della loro vita nell'oscurita'. Sulle pareti di questa sala gli arredi
+sono formati da migliaia e migliaia di brandelli di pelle.
+Tutte le razze sono rappresentate.
+~
+260 520 0
+D5
+~
+~
+0 -1 26086
+S
+$~
