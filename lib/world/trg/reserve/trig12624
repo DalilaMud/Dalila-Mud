@@ -1,0 +1,92 @@
+trigedit 12624
+6  
+/c 
+if %speech% == monarca
+if %monarca% == 0
+set monarca %actor.name%
+global monarca
+end
+end
+if %actor.name% == %monarca%
+if %speech% /= controllore
+set %speech%
+global controllore
+end
+end
+if %actor.name% == %monarca% || %actor.name% == %controllore%
+if %speech% == azzera
+wait 2
+nod
+wait 3
+emote annulla tutti i conteggi
+unset cambio
+unset 1
+unset 2
+unset 3
+unset 4
+unset 5
+unset 1b
+unset 2b
+unset 3b
+unset 4b
+unset 5b
+end
+end
+if %speech% /= set
+if %speech% /= pg
+%speech%
+global pg
+elseif %speech% /= quanti
+%speech%
+global quanti
+if %pg% != 0
+if %pg% == %1%
+eval 1b %1b% + %quanti%
+if %1b% < 0
+set 1b 0
+end
+global 1b
+elseif %pg% == %2%
+eval 2b %2b% + %quanti%
+if %2b% < 0
+set 2b 0
+end
+global 2b
+elseif %pg% == %3%
+eval 3b %3b% + %quanti%
+if %3b% < 0
+set 3b 0
+end
+global 3b
+elseif %pg% == %4%
+eval 4b %4b% + %quanti%
+if %4b% < 0
+set 4b 0
+end
+global 4b
+elseif %pg% == %5%
+eval 5b %5b% + %quanti%
+if %5b% < 0
+set 5b 0
+end
+global 5b
+else
+if %cambio% < 5
+eval cambio %cambio% + 1
+global cambio
+set %cambio% %pg%
+global %cambio%
+eval %cambio%b %quanti%
+global %cambio%b
+end
+end
+end
+unset quanti
+unset pg
+unset pass
+end
+end
+~
+/s
+q
+y

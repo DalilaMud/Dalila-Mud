@@ -1,0 +1,146 @@
+trigedit 28066
+6  
+/c 
+wait 4 s
+if %key% == ok1 
+if %ide% == %actor.name%
+if %speech% == si
+eval pg4 %random.10%
+emote &3 allunga a %actor.name% l'ultima carta coperta. &0
+tell %actor.name% un %pg4% !!
+wait 4 s
+if %banco1% + %banco2% + %banco3% > 16
+say &3 Il banco e' servito!! &0
+set banco4 0
+wait 1 s
+grin
+else
+say &3 Ultima carta anche per il banco!! &0
+emote &3 prende un'altra carta dal mazzo. &0
+eval banco4 %random.10%
+end
+wait 5 s
+say &3 Scopriamo le carte !!! &0
+wait 2 s
+eval pgtot %pg1% + %pg2% + %pg3% + %pg4%
+eval bancotot %banco1% + %banco2% + %banco3% + %banco4%
+unset pg1
+unset pg2
+unset pg3
+unset banco1
+unset banco2
+unset banco3
+unset key
+unset ide
+mforce %actor.name% emote &x&6 ha totalizzato %pgtot% !!!!! &0
+if %pgtot% > 21
+wait 2 s
+say &3 %actor.name% ha  sballato !!! Il banco vince !!! &0
+halt
+else
+end
+wait 3 s
+say &3 il banco invece ha fatto %bancotot% !!!!! &0
+if %bancotot% > 21
+wait 2 s
+say &3 Il Banco ha sballato!!!! %actor.name% VINCE!!! &0 !!SOUND(gimmee.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &3 Eccoti il premio !!! &0
+give 3 goccia %actor.name%
+halt
+else
+end
+wait 3 s
+if %pgtot% > %bancotot%
+say &x&1 %actor.name% ha VINTO !!!!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &3 Eccoti il premio !!! &0
+give 3 goccia %actor.name%
+else
+say &3 Hai PERSO !!!!! Grazie per il contributo. &0
+end
+else
+end
+else
+say Lasciamo finire la partita di %ide% per favore!!
+end
+else
+end
+if %key% == ok1 
+if %ide% == %actor.name%
+if %speech% == no
+say &3 Bene, %actor.name% si ferma a tre carte!! &0
+wait 4 s
+if %banco1% + %banco2% + %banco3% > 16
+say &3 Anche il banco si ferma!! &0
+set banco4 0
+wait 1 s
+grin
+else
+say &3 Ultima carta per il banco!! &0
+emote &3 prende un'altra carta dal mazzo. &0
+eval banco4 %random.10%
+end
+wait 5 s
+say &3 Scopriamo le carte !!! &0
+wait 2 s
+eval pgtot %pg1% + %pg2% + %pg3%
+eval bancotot %banco1% + %banco2% + %banco3% + %banco4%
+unset pg1
+unset pg2
+unset pg3
+unset banco1
+unset banco2
+unset banco3
+unset key
+unset ide
+mforce %actor.name% emote &x&6 ha totalizzato %pgtot% !!!!! &0
+if %pgtot% > 21
+wait 2 s
+say &3 %actor.name% ha  sballato !!! Il banco vince !!! &0
+halt
+else
+end
+wait 3 s
+say &3 il banco invece ha fatto %bancotot% !!!!! &0
+if %bancotot% > 21
+wait 2 s
+say &3 Il Banco ha sballato!!!! %actor.name% VINCE!!! &0 !!SOUND(gimmee.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &3 Eccoti il premio !!! &0
+give 3 goccia %actor.name%
+halt
+else
+end
+wait 3 s
+if %pgtot% > %bancotot%
+say &x&1 %actor.name% ha VINTO !!!!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &3 Eccoti il premio !!! &0
+give 3 goccia %actor.name%
+else
+say &3 Hai PERSO !!!!! Grazie per il contributo. &0
+end
+else
+end
+else
+say Lasciamo finire la partita di %ide% per favore!!
+end
+else
+end
+~
+/s
+q
+y

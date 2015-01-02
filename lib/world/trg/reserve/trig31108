@@ -1,0 +1,11 @@
+trigedit 31108
+6  
+/c 
+wait 1 s
+oteleport %actor% 31102
+oteleport %actor.name% 31102
+oteleport actor 31102
+~
+/s
+q
+y

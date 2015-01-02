@@ -1,0 +1,164 @@
+#4000
+anello giallo verde~
+un anello giallo e verde~
+C'e' un anello con decorazioni &3&xgialle&0 e &2&xverdi&0 qui, sembra molto vecchio.~
+~
+8 78472 3
+0 0 0 0 20 20
+1 50 20 22 0 0
+E
+anello giallo verde~
+E' pesante!
+~
+A
+1 1
+#4001
+corpo goblin~
+il corpo di un goblin~
+Un pezzo del decadente corpo di un goblin e' qui, emana un terribile fetore.~
+~
+15 0 1
+1 0 -1 0 30 30
+20 0 500 1 0 0
+#4002
+moneta monete coins~
+un mucchietto di monete~
+Un piccola quantita' di monete e' sul terreno.~
+~
+20 0 1
+400 0 0 0 100 100
+0 0 0 1 0 0
+#4050
+pozione avorio~
+&7una pozione avorio&0~
+Una &7pozione avorio&0 e' qui.~
+~
+10 0 16385
+20 1 0 0 20 20
+1 3000 200 1 0 0
+E
+pozione purpurea~
+Sembra piuttosto strana!
+~
+#4051
+elmo metallo~
+un elmo di metallo~
+Un elmo di metallo e' qui.~
+~
+9 180288 17
+2 0 0 0 40 40
+4 1000 100 20 0 0
+E
+elmo metallo~
+Sembra essere magico!
+~
+A
+5 1
+#4052
+fungo~
+Un fungo~
+Un piccolo fungo e' qui.~
+~
+19 0 16385
+2 0 0 1 10 10
+1 7 3 1 0 0
+E
+fungo~
+Lascialo li fin per carita'. Io non lo mangerei!!!
+~
+#4053
+spadino~
+lo spadino del ladro~
+Un bellissimo spadino decorato da incisioni e' qui per terra.~
+~
+5 1094144 8193
+0 4 3 11 60 60
+2 850 500 1 0 0
+E
+spadino~
+E' un bellissimo spafino di media grandezza realizzato in qualche
+lega metallica grigiastra. La sua lama e' a doppio taglio e molto
+sottile... sembra un'arma perfetta per un ladro.
+~
+#4100
+lama nera~
+Una demoniaca lama nera~
+Una demoniaca lama nera giace qui.~
+~
+5 1079808 8193
+0 4 4 10 70 70
+8 10000 800 4 0 0
+E
+lama nera demoniaca~
+Diventerai maligno come quell'arma, se la userai, &1senti che le forze del male la controllano&0...
+~
+#4101
+guanti~
+Un paio di guanti da spadaccino~
+Un paio di guanti finemente decorati giacciono per terra.~
+~
+9 768 129
+4 0 0 0 30 30
+1 3500 800 69 0 0
+E
+guanti~
+Sembrano un buon pezzo per il tuo equipaggiamento.
+~
+A
+18 2
+A
+19 1
+#4102
+pergamena ysafg~
+Una pergamena con scritto 'ysafg'~
+Una pergamena sulla quale leggi 'ysafg', sembra molto fragile e piuttosto antica.~
+~
+2 0 1
+1 53 -1 -1 20 20
+1 1500 10 36 0 0
+E
+pergamena ysafg~
+Sembra istruttiva...
+~
+#4103
+viscida muffa verde~
+Della viscida muffa verde~
+Della viscida muffa verde e' qui. &3Puzza tantissimo!!!&0~
+~
+19 0 1
+1 0 0 1 10 10
+1 7 8 1 0 0
+E
+muffa viscida~
+Di sicuro non e' da mangiare -- o almeno non e' per umani!
+~
+#4104
+verde muffa viscida~
+Della viscida muffa verde~
+Della viscida muffa verde e' qui. &1Puzza tantissimo!!!&0~
+~
+19 0 1
+1 0 0 1 10 10
+1 4 8 1 0 0
+E
+muffa viscida~
+Di certo non e' cibo -- &1o almeno non per umani&0.
+~
+#4150
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+incisione~
+&1&x
+         |      
+         |    
+     |   |     
+     |   |   |
+   &u |   |   | &0
+~
+$~

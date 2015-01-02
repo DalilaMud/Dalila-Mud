@@ -1,0 +1,14 @@
+trigedit 2614
+6  
+/c 
+* Lista comandi
+if %actor.name% != erestor
+osend %actor.name% &x&2Voci di &0&7f&4o&2l&7l&4e&2t&7t&4i&0&x&2 urlanti imprecano con vigore &f&1SPACCANDOTI&0&x&2 i timpani !&0
+odamage %actor.name% 500
+else
+osend %actor.name% &3Sei un &0&7Fo&4ll&0et&7to&3 te !&0
+end
+~
+/s
+q
+y

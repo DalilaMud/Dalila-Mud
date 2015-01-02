@@ -1,0 +1,43 @@
+trigedit 2541
+6  
+/c 
+* Lista comandi
+if %actor.name% != knives
+halt
+end
+if %giustiziere% != 1
+wait 2
+msend %actor.name% &1&xPer fare giustizia... serve Cerberus.&0
+halt
+end
+if %arg.vnum% != -1
+wait 2
+msend %actor.name% Non puoi fare questo....
+halt
+end
+set giustiziere 0
+global giustiziere
+mecho &1&xLa stanza si riempie di fiamme!&0
+wait 2 s
+msend %actor.name% &1&xAd un tratto ricevi la visione di Cerberus che divora %arg%...&0 
+mat %arg% msend %arg% &1&xCerberus, il Cane Infernale, compare innanzi a te!&0
+mat %arg% mechoaround %arg% &1&xDa un'improvvisa esplosione di fiamme fuoriesce Cerberus..&0
+mat %arg% mload mob 311
+wait 2 s
+mat msxas mforce msxas mgoto %arg%
+mat %arg% mforce msxas mkill %arg%
+wait 10 s
+mat msxas mforce msxas mgoto %arg%
+mat msxas mforce msxas kill %arg%
+wait 10 s
+mat msxas mforce msxas mgoto %arg%
+mat msxas mforce msxas kill %arg%
+wait 20 s
+mat msxas mecho &1&xCerberus scompare avvolto dalle fiamme...&0
+mat msxas mforce msxas mgoto 28150
+mat msxas mforce msxas say purgami
+1
+~
+/s
+q
+y

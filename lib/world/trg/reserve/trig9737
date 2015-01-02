@@ -1,0 +1,19 @@
+trigedit 9737
+6  
+/c 
+if %speech% == devo uscire
+set a %actor.name%
+if %a% == talos || %a% == Jerold || %a% == roscellino || %a% == fender || %a% == feanor || %a% == spartakus || %a% == Thief || %a% == Kitiara || %a% == Sarib || %a% == Keli || %a% == Baal || %a% == Melyanna || %a% == Tajmaku
+wait 2 s
+wsend %actor.name% Ad un tuo cenno una guardia ti fa uscire
+wait 2 s
+wteleport %actor.name% 9835
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

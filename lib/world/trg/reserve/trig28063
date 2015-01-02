@@ -1,0 +1,104 @@
+trigedit 28063
+6  
+/c 
+if %object.vnum% == 28060
+wait 1 
+mpurge goccia
+wait 2 s
+smile %actor.name%
+wait 2 s
+say &3 Perfetto. Vediamo se hai Fortuna oggi!! &0
+eval num %random.20%
+wait 3 s
+emote &3 infila la mano in una cornucopia. &0
+wait 4 s
+emote &3 estrae lentamente un bussolotto col numero &x&1 %num% !! &0
+wait 4 s
+if %num% == 2  
+say &x&1 WOW, hai VINTO il miglior premio!!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 3 s
+say &3 Ecco CINQUE gocce per %actor.name% !! &0
+give 5 goccia %actor.name%
+halt
+elseif %num% == 20
+say &x&1 Hai vinto un buonissimo premio!!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 3 s
+say &3 Ecco QUATTRO gocce per %actor.name% !! &0
+give 4 goccia %actor.name%
+halt
+elseif %num% == 4 
+say &3 Bene. Hai vinto un buon premio!! &0
+mload obj 28064
+wait 3 s
+say &3 Ecco l'ambitissimo Cappello del Rischio per %actor.name% !! &0
+give cappello %actor.name%
+wait 1 s
+laugh
+halt
+elseif %num% == 18
+say &3 Bene. Hai vinto un buon premio!! &0
+mload obj 28064
+wait 3 s
+say &3 Ecco l'ambitissimo Cappello del Rischio per %actor.name% !! &0
+give cappello %actor.name%
+laugh
+halt
+elseif %num% == 6 
+say &3 Hai vinto una comoda pozione rinfrescante. &0
+mload obj 28062
+wait 3 s
+give pozione %actor.name%
+halt
+elseif %num% == 16
+say &3 Hai vinto una comoda pozione rinfrescante. &0
+mload obj 28062
+wait 3 s
+give pozione %actor.name%
+halt
+elseif %num% == 8 
+say &3 Complimenti hai vinto un'ottima pozione curativa. &0
+mload obj 28063
+wait 3 s
+give pozione %actor.name%
+halt
+elseif %num% == 14
+say &3 Complimenti hai vinto un'ottima pozione curativa. &0
+mload obj 28063
+wait 3 s
+give pozione %actor.name%
+halt
+elseif %num% == 10 
+say &3 Bello!! Hai vinto un BUONO per una consumazione alla taverna qui sopra. &0
+wait 3 s
+say &3 Attento a non ubriacarti!! &0
+mload obj 28061
+give buono %actor.name%
+laugh
+halt
+elseif %num% == 12
+say &3 Bello!! Hai vinto un BUONO per una consumazione alla taverna qui sopra. &0
+wait 3 s
+say &3 Attento a non ubriacarti!! &0
+mload obj 28061
+give buono %actor.name%
+laugh
+halt
+else
+say &3 Ops, che sfortuna.... non hai vinto nulla. Riprova. &0
+end
+else
+say &x&1 Cerchi di imbrogliare?? &0
+end
+~
+/s
+q
+y

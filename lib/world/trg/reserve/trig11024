@@ -1,0 +1,29 @@
+trigedit 11024
+6  
+/c 
+wait 5s
+%echo% %self.name% si concentra ed entra in un profondo stato di meditazione.
+wait 5s
+%echo% &wUn lieve suono angelico proviene da un punto imprecisato&0
+wait 20s
+%echo% &wUn lieve suono angelico proviene da un punto imprecisato&0
+wait 20s
+%echo% &wUn lieve suono angelico proviene da un punto imprecisato&0
+wait 20s
+%echo% &wIl suono si fa piu' forte...&0
+wait 20s
+%echo% &WIl suono e' sempre piu' forte&0
+wait 20s
+%echo% &BUna potente aura circonda %self.name% che viene avvolto da fiamme &Cazzurrine&0
+wait 5s
+%echo% &CIl fuoco degli angeli si propaga nella stanza&0
+wait 5 s
+%echo% &WUn potente flash di luce ti stordisce per un attimo... il rituale e' finito&0
+%echo% &b%self.name% ti sorride mentre scompare lentamente nel nulla&0
+%purge%
+%purge% %self%
+halt
+~
+/s
+q
+y

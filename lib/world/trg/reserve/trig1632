@@ -1,0 +1,29 @@
+trigedit 1632
+6  
+/c 
+* Lista comandi
+wait 2 s
+emo da' un colpo di tosse.
+wait 1 s
+say Ehi, avventuriero, hai tempo di ascoltare un povero vecchio?
+wait 1 s
+say Ho da venderti un oggetto che potrebbe interessarti...
+wait 2 s
+say Questa magnifica spada in puro argento, tua per due milioni di pezzi d'oro, un vero affare!
+wait 5 s
+say Detto tra noi, e' molto piu' di una semplice spada...
+wait 1 s
+emo da' un altro colpo di tosse.
+say Un mago dei tempi passati infuse nell'argento di cui e' fatta quest'arma una potente magia...
+wait 2 s
+say Solo due armi furono create con quel prezioso materiale, e questa e' una delle due.
+wait 1 s
+say I poteri sono ancora in parte sconosciuti, e solo quelli noti bastano a renderla gia' micidiale!
+wait 3 s
+say Se ti interessa dammi i soldi in pagamento unico, e ti consegnero' l'arma.
+wait 2 s
+emo accenna un sorriso mostrando i denti gialli e deformi.
+~
+/s
+q
+y

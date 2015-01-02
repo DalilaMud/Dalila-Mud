@@ -1,0 +1,23 @@
+trigedit 31101
+6  
+/c 
+if %actor.name% != Garrick
+wait 2 s
+oecho &5Lo stiletto Renaji dice, 'Tu.. non sei il mio padrone!!'&0
+wait 3 s
+%echoaround% %actor% &1%actor.name% urla di dolore non appena impugna lo stiletto!!&0
+%send% %actor% &1Non appena impugni lo stiletto lanci un urlo di dolore!!!&0
+wait 1 s
+%send% %actor% &1L'arma ti perfora la mano con mille spine e in un istante ti dissangua mortalmente!&0
+%damage% %actor% 550
+else
+wait 1 s
+%send% %actor% &8Senti scuro potere bruciare nella tua mano come fuoco!!&0
+%echoaround% %actor% &8Non appena Garrick impugna l'arma i suoi occhi si fanno per un istante trasparenti..&0
+wait 1 s
+%echo% &5Lo stiletto Renaji dice, 'Le mani del mio padrone... le riconosco... mie...&0
+end
+~
+/s
+q
+y

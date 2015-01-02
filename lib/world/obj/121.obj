@@ -1,0 +1,181 @@
+#12100
+chiave multiporta~
+una chiave multiporta~
+Una chaive stranissima e' stata abbandonata qui.~
+Nothing.
+~
+18 0 16385
+0 0 0 0 1 1
+1 1 1 1 0 0
+#12101
+statua shade~
+La statua di Shade~
+&1&xUna statua di Shade, dio del male, e' qui.&0~
+Nothing.
+~
+15 0 1
+500 0 -1 0 10 10
+1000 100000 10000 1 4 0
+E
+statua shade~
+Scolpita nel rarissimo marmo nero questa statua raffigura il dio del male
+nell'atto di maledire i mortali.
+Tutta la rabbia e la cattiveria sono immortalate nel marmoreo visto che ti
+sta' osservando e giudicando.
+~
+C
+32768 0 0 0
+#12102
+chiave tesoro~
+La Chiave del tesoro~
+La Chiave del tesoro e' qui.~
+Riporta lo stemma del casato ed e' di indubbia importanza.
+~
+18 0 1
+0 0 0 0 2 2
+2 0 0 0 0 0
+#12103
+armadio forziere~
+Un armadio forziere~
+Un armadio forziere e qui.~
+Un robusto e solido armadio. Sicuramente custodisce importanti tesori.
+~
+15 0 1
+100 2 12102 0 2 2
+1000 0 0 0 0 0
+#12104
+anello brillanti~
+Un anello di brillanti~
+Un anello di brillanti e' qui.~
+Brillanti, oro e... oddio e' una patacca. UN FALSO CLAMOROSO!
+~
+8 0 3
+0 0 0 0 1 1
+1 0 0 0 0 0
+#12105
+collana~
+Una collana di perle~
+Una collana di perle e' qui.~
+Una collana di perleeeeeeeeee false! Ma no!!!!!!
+~
+8 0 5
+0 0 0 0 1 1
+2 0 0 0 0 0
+#12106
+pugnale di madreperla~
+Un pugnale in madreperla~
+Un pugnale in madreperla e' qui.~
+Impugnatura in madre perla, lama in puro titanio
+~
+8 0 1
+0 0 0 0 3 3
+3 0 0 0 0 0
+#12107
+medaglione shade~
+Il medaglione di Shade~
+Il medaglione di Shade brilla nell'uscurita'~
+Impugnatura in madre perla, lama in puro titanio
+~
+8 592651 5
+0 0 0 0 10 10
+1 1000 100 1 0 0
+E
+medaglione shade~
+Il medaglione ha la forma di un un volto incappucciato su fiamme divampanti
+~
+C
+40960 0 0 0
+#12110
+talismano nero~
+talismano nero~
+Un nero talismano d'ebano e' sulla mensola, abbandonato.~
+~
+11 0 5
+0 0 0 0 0 0
+1 100 100 1 0 0
+C
+512 0 0 0
+#12111
+ciondolo bluastro azzurro~
+ciondolo azzurro~
+Un ciondolo scheggiato di colore bluastro e' appeso alla parete.~
+~
+11 0 5
+0 0 0 0 0 0
+1 100 100 1 0 0
+C
+512 0 0 0
+#12112
+spilla rossa~
+spilla rossa~
+Una vecchia spilla rosso sangue si trova qui.~
+~
+11 0 9
+0 0 0 0 0 0
+1 100 100 1 0 0
+C
+512 0 0 0
+#12113
+medaglione d'ambra~
+medaglione d'ambra~
+Vedi un medaglione di ambra, sembra davvero prezioso.~
+~
+11 32 5
+0 0 0 0 100 100
+1 100 100 1 0 0
+A
+12 35
+A
+26 3
+C
+512 0 0 0
+#12114
+bara dorata~
+una bara dorata~
+Una splendida bara decorata con fili d'oro e' qui.~
+~
+15 0 1
+120 5 -1 0 0 0
+80 0 0 0 0 0
+#12115
+chiave massiccia~
+Una chiave massiccia~
+Una chiave massiccia e' stata abbandonata qui.~
+~
+18 65576 16385
+0 0 0 0 100 100
+1 100 10 1 0 0
+E
+chiave massiccia~
+E' una comune chiave, che ti credevi!
+~
+C
+32768 0 0 0
+#12181
+grossa chiave~
+una grossa chiave~
+Una grossa chaive e' stata lasciata qui.~
+~
+18 0 16385
+0 0 0 0 1 1
+1 1 1 1 0 0
+#12182
+grossa chiave~
+una grossa chiave~
+&6&xUna grossa chiave e' appesa al muro&0~
+~
+18 0 1
+0 0 0 0 1 1
+1 1 1 1 0 0
+E
+grossa chiave~
+Attaccato alla chiave noti un cartellino con sopra scritto:
+
+&1&xQuesta chiave serve per aprire la porta a SUD. Chiunque l'adoperi
+&x&1e' pregato, dopo aver aperto la porta, di rimetterla dove l'ha trovata&0
+
+&xChi si porta via la chiave verra' punito con l'amputazione della mano&0
+
+&6G.&0
+~
+$~

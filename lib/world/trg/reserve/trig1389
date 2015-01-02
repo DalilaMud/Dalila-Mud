@@ -1,0 +1,20 @@
+trigedit 1389
+6  
+/c 
+* Lista comandi
+wait 2 s
+set punto %random.4%
+if %punto% == 1
+say GwhaR.. aglHi OrhdIGni SghiGNoRE!!!
+elseif %punto% == 2
+say GhuT?! SNorRT!!!
+elseif %punto% == 3
+say FghhhhH!!!!! IO UCCCIDERHA PehR TE!
+elseif %punto% == 4
+say MiHO PAhDRONE......
+else
+end
+~
+/s
+q
+y

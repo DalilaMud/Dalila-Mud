@@ -1,0 +1,22 @@
+trigedit 20073
+6  
+/c 
+wait 1 s
+osend %actor.name% &W5&d
+wait 1 s
+osend %actor.name% &W4&d
+wait 1 s
+osend %actor.name% &W3&d
+wait 1 s
+osend %actor.name% &W2&d
+wait 1 s
+osend %actor.name% &W1&d
+wait 1 s
+oechoaround %actor.name% &WTutto ad un tratto %actor.name% si dissolve nell'aria con un abbagliante lampo di luce!&d
+osend %actor.name% &WL'occhio cieco emana un lampo di energia...&0
+oteleport %actor.name% 20532
+halt
+~
+/s
+q
+y

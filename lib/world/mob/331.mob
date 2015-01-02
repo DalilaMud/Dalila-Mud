@@ -1,0 +1,536 @@
+#33100
+sentinella accampamento~
+Una sentinella dell' accampamento~
+Una sentinella dell' accampamento si avvicina, scrudandoti dall' alto in basso.
+~
+Questa guardia e' uno degli uomini fidati del Sultano.
+Espone con orgoglio il simbolo del suo padrone sulla corazza.
+~
+~
+~
+~
+192522 1064 400 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+949 4d11+11
+32 0
+8 8 1
+Str: 21
+Dex: 21
+Int: 18
+Wis: 18
+E
+T 33102
+#33101
+guerriero turbante~
+Un guerriero dal lungo turbante~
+Un guerriero dal lungo turbante non avra' nessuna pieta' degli intrusi !
+~
+Hai di fronte a te una delle milizie scelte di Jiroch, allertata dalle sentinelle non perdonera' la tua intrusione!
+~
+~
+~
+~
+108 1024 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+48 0
+8 8 1
+E
+#33102
+chimera~
+Una chimera~
+Una chimera ammaestrata e' stata liberata dalle guardie per trovare gli intrusi
+~
+Vedi uno stranissimo animale con il corpo di un leone, la testa di una capra e la coda di un serpente !
+Sai che il sultano e' l'unico uomo della Daresia in grado di ammaestrare queste creature.
+~
+~
+~
+~
+196729 2336478995624 -400 -1 -1 -1 -1 -1 E
+50 2 -10 1d1+849 4d10+10
+28 0
+8 8 2
+BareHandAttack: 4
+Spec: 27
+E
+#33103
+salhann principe~
+Salhann, il figlio del sultano~
+Il Principe Salhann, figlio del Sultano, sta blaterando strane teorie su delle sabbie mobili.
+~
+Salhaan e' il primogenito del Sultano di Jiroch.
+E' un Peloi che si e' fatto la fama di essere pazzo, ma non come riconoscimento ultimo della sua gilda, quanto come propria e vera
+follia. Sembra che pero' suo padre lo appoggi in ogni scelta, e che quindi tutti siano costretti a sottostare alle sue bizzarre idee.
+~
+~
+~
+~
+28682 164904 -200 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+999 4d11+11
+53 0
+8 8 1
+Dex: 25
+E
+#33104
+Khassam~
+Khassam, la guardia del corpo del principe~
+Khassam, la guardia del corpo del principe, ti attacca per difendere il suo Signore !
+~
+Khassam e' un guerriero piuttosto anziano, da sempre fedele al Sultano.
+Nella sua vita ha combattuto molte battaglie, e anche se ha quasi sempre perso, rimane uno dei migliori
+guerrieri dell' intera Jiroch
+~
+~
+~
+~
+47 1064 400 -1 -1 -1 -1 -1 E
+55 0 -9 1d1+899 4d11+11
+49 0
+8 8 1
+Spec: 16
+E
+#33105
+Selima~
+Selima, la concubina~
+Selima e' la donna preferita dal principe, e osservandola ti rendi conto che e' davvero bella.
+~
+Una bellissima donna, non molto alta e di carnagione scura, con occhi color giada che rapiscono la tua attenzione.
+~
+~
+~
+~
+45066 268436520 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+39 0
+8 8 2
+E
+#33106
+Thunk mezzorco~
+Thunk il mezzorco~
+Thunk, un mezzorco dalla pelle verde, sta dormendo qua
+~
+Un bestione verde davvero imponente... quei suoi lineamenti umani ti fanno quasi senso!
+~
+~
+~
+~
+65594 67109888 0 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+999 4d11+11
+55 0
+4 8 1
+BareHandAttack: 8
+Str: 18
+StrAdd: 100
+E
+#33107
+guardia elite~
+Una guarda d' elite del Sultano~
+Una guarda d' elite del Sultano sta proteggendo l'entrata a delle rovine
+~
+Questi sono i guerrieri che il Sultano utilizza nei corpi militari offensivi.
+~
+~
+~
+~
+12298 1064 300 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 4d11+11
+44 0
+8 8 1
+E
+#33108
+Karim mercante~
+Karim il mercante~
+Karim, un mercante che la sa davvero lunga, e' qui per servirti.
+~
+Comprate! Comprate! I miei oggetti sono rarissimi! Unici!
+~
+~
+~
+~
+134471706 1192 -500 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+29999 10d10+50
+83 0
+8 8 1
+Spec: 0
+E
+T 33110
+#33109
+archeologo~
+Un archeologo~
+Un archeologo sta studiando alcune mappe incomprensibili.
+~
+Questo studioso e' molto preso dalle sue letture, infatti nemmeno si accorge della tua presenza.
+Ogni tanto blatera qualcosa su una maledizione, ma non ne capisci molto.
+~
+~
+~
+~
+142 13312 0 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+499 3d8+6
+32 0
+8 8 1
+E
+#33110
+donna velata~
+Una donna~
+Una donna con il volto coperto da un velo cammina per l'accampamento.
+~
+Questa donna segue le tradizioni della citta' di Jiroch, e usa coprire quasi tutto il suo corpo con dei vestiti.
+Sembra piuttosto preoccupata vedendo le guardie correre qua e la.
+~
+~
+~
+~
+76 1024 0 -1 -1 -1 -1 -1 E
+40 7 -5 1d1+599 3d9+8
+27 0
+8 8 2
+E
+#33111
+uomo~
+Un uomo~
+Un uomo dell' accampamento sta cercando un riparo ed implorando l'aiuto delle guardie.
+~
+Vedi un uomo con una lunga barba che sta chiedendo alle guardie cosa stia succedendo.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+40 7 -5 1d1+599 3d9+8
+31 0
+8 8 1
+E
+#33112
+cuoco~
+Un cuoco~
+Un cuoco sta preparando il cibo per l'accampamento
+~
+Basso e grasso, proprio come te lo immagineresti!
+~
+~
+~
+~
+4106 1024 0 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+499 3d8+6
+22 0
+8 8 1
+E
+#33113
+vecchio cammelliere~
+Un vecchio cammelliere~
+Un vecchio cammelliere sta riposando qui
+~
+Sembra molto vecchio e stanco, e bada ai cammelli con pigrizia.
+~
+~
+~
+~
+4106 1024 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+449 2d12+5
+20 0
+8 8 1
+E
+#33114
+cammello~
+Un cammello~
+Un cammello si sta abbeverando
+~
+Un bell' animale con 2 gobbe, proprio l'ideale per le lunghe traversate nel deserto!
+~
+~
+~
+~
+138 1024 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+449 2d12+5
+18 0
+8 8 1
+E
+T 33111
+#33115
+umberhulk~
+Un Umberhulk affamato~
+Un Umberhulk affamato si aggira per i cunicoli
+~
+Un mostro orrendo, alto quasi 2 metri e mezzo con delle chele che sgocciolano
+saliva sulla bocca.  La sua corporatura richiama vagamente quella di un
+insettoide e quella di un orso, i suoi artigli sono cosi' duri da scavare la
+roccia come se fosse burro.    
+~
+~
+~
+~
+17179869292 412333638696 -200 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 4d11+11
+45 0
+8 8 1
+BareHandAttack: 10
+Str: 21
+Con: 21
+E
+#33116
+umberhulk gigante~
+Un Umberhulk Gigante~
+Un Umberhulk Gigante guida i suoi figli nella caccia
+~
+Questo umberhulk sara' alto almeno 3 metri, e dal rumore dei suoi passi capisci che non pesera' meno di 2 tonnellate...
+Difficilmente riusciresti a pensare ad una macchina da guerra piu' letale.
+~
+~
+~
+~
+17180098684 412333679656 0 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+949 4d12+12
+49 0
+8 8 1
+BareHandAttack: 5
+Str: 22
+StrAdd: 100
+Dex: 18
+Con: 25
+E
+#33117
+tempesta sabbia~
+Una tempesta di sabbia~
+Una tempesta di sabbia animata dalla maledizione si abbatte su di te
+~
+La forza della sabbia e del vento fara' di tutto per soffocarti!
+~
+~
+~
+~
+254072 2199157474344 0 -1 -1 -1 -1 -1 E
+50 0 -8 1d1+799 4d10+10
+31 0
+8 8 2
+BareHandAttack: 2
+E
+#33118
+jeen tagliateste~
+Jeen il tagliateste~
+Jeen detto Il Tagliateste, sta guidando il suo gruppo di banditi !
+~
+Jeen e' conosciuto e temuto in tutta Jiroch, si e' macchiato di ogni crimine immaginabile, e si e' fatto la fama di uomo
+senza pieta' e senza coscienza. Uccide per divertimento, per lui la tua vita vale meno di poche monete d'oro.
+~
+~
+~
+~
+8296 101450784 -1000 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+999 4d12+12
+46 0
+8 8 1
+Cha: 20
+E
+T 33112
+#33119
+emerald lord~
+Lord Emerald~
+Lord Emerald, il necromante oscuro, sta aiutando Jeen nel saccheggio
+~
+Pazzo ed eccentrico, e' da sempre uno degli alleati di Jeen.
+Si dice che la sua tunica sia composta con le iridi dei bambini che ha ucciso.
+~
+~
+~
+~
+192521 2098218 -1000 -1 -1 -1 0 -1 E
+50 2 -8 1d1+699 4d10+10
+35 0
+8 6 1
+Cha: 20
+Spec: 15
+E
+T 33104
+T 33105
+#33120
+sharia maledetta~
+Sharia la maledetta~
+Sharia, la maledetta sacerdotessa di Jiroch, e' da sempre complice dei crimini di Jeen
+~
+Non lasciarti ingannare dal fascino di questa donna, perche' essa e' in realta' una delle creature piu' crudeli che tu abbia mai visto.
+Si dice che i suoi progenitori fossero figli dello stesso Shade, e che piu' volte Sharia abbia sacrificato innocenti al Dio del Male.
+~
+~
+~
+~
+8297 2098216 -1000 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+699 4d10+10
+34 0
+8 6 2
+Cha: 20
+Spec: 18
+E
+T 33104
+T 33105
+#33121
+spirito hokron~
+Lo spirito dannato di Hokron~
+Lo spirito dannato di Hokron sta scontando la sua pena eterna in questo luogo
+~
+Il Grande Sacerdote della sabbia e' ora un povero spirito tormentato dall' isolamento e dalla maledizione con cui gli Dei lo hanno punito.
+Un tempo Hokron fece tremare la Daresia e riusci' a conquistare quasi tutte le terre conosciute. Commise l'errore di rinnegare tutti gli Dei, proclamandosi
+unica vera divinita', e questo gli costo' l'inimicizia degli immortali, che guidarono alcuni tra i piu' valorosi guerrieri fino al suo rifugio segreto.
+~
+~
+~
+~
+254010 269489192 -1000 -1 -1 -1 -1 -1 E
+65 -2 -10 1d1+999 4d13+13
+62 0
+8 8 1
+E
+#33122
+spettro fedele~
+Lo spettro di un fedele~
+Lo spettro di un fedele di Hokron si aggira per le stanze desolate del tempio.
+~
+E' solo un' ombra di cio' che era in vita...
+~
+~
+~
+~
+73816 525354 0 -1 -1 -1 -1 -1 E
+45 3 -8 1d1+749 4d9+9
+37 0
+8 8 0
+E
+#33123
+jub pazzo~
+Jub il pazzo~
+Jub il pazzo sta correndo in cerchio blaterando in continuazione frasi senza senso.
+~
+Jub e' pazzo !! pazzo !!
+Jub si tira la barba, si strappa i capelli, inciampa e fa capriole piangendo.
+Poi Jub ride e si morde la lingua.
+Jub e' pazzo !! pazzo !!
+~
+~
+~
+~
+12298 1064 250 -1 -1 -1 -1 -1 E
+50 5 0 1d1+799 25d2+50
+30 0
+8 8 1
+E
+T 33107
+T 33108
+#33124
+gauth piccolo~
+Un piccolo Gauth~
+Un piccolo Gauth levita a mezzo metro da terra
+~
+E' un beholder piu' piccolo e dalle scaglie tendenti al verde.
+Ha solo 5 peduncoli, invece dei tradizionali dieci.
+~
+~
+~
+~
+12361 1064 0 -1 -1 -1 -1 -1 E
+40 6 -5 1d1+599 3d9+9
+28 0
+8 8 0
+BareHandAttack: 4
+Spec: 13
+E
+#33125
+beholder~
+Un Beholder~
+Un Beholder apre le sue fauci e ti attacca !
+~
+Sei di fronte al terrore di tutti gli avventurieri... un beholder !!!
+~
+~
+~
+~
+104 1064 0 -1 -1 -1 -1 -1 E
+50 1 -8 1d1+799 4d11+11
+42 0
+8 8 0
+BareHandAttack: 4
+E
+#33126
+x'arisxya regina~
+X'arisxya la regina dei Beholder~
+X'arisxya la regina dei Beholder sta curando numerose uova della sua prole
+~
+Decine e decine di peduncoli magici sono pronti ad annientarti con le loro magie !
+~
+~
+~
+~
+254011 1064 0 -1 -1 -1 -1 -1 E
+60 -1 -9 1d1+899 4d12+12
+35 0
+8 8 2
+BareHandAttack: 4
+Spec: 15
+E
+#33127
+mani roccia~
+Delle mani di roccia~
+Delle mani di roccia escono dalle pareti e cercano di afferrarti
+~
+Lo spirito di un elementale della terra e' stato imprigionato qua per renderti impossibile la fuga!
+~
+~
+~
+~
+254010 2611356894248 250 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+999 4d11+11
+39 0
+8 8 0
+BareHandAttack: 13
+E
+#33128
+uomodrago~
+Un leggendario uomodrago~
+Un leggendario uomodrago anela la giusta vendetta contro il genere umano!
+~
+E' piu' alto forte e resistente di qualunque uomo.  Le sue lucenti scaglie ed i
+lineamenti da rettile ti fanno rabbrividire.  Sai che questi esseri leggendari
+sono rari quanto crudeli e non esiterebbero a ridurre in schiavitu' la tua
+razza per servire i loro unici veri padroni: i Draghi!    
+~
+~
+~
+~
+8300 2199040033800 0 -1 -1 -1 -1 -1 E
+58 -1 -10 1d1+899 4d12+12
+38 0
+8 8 1
+BareHandAttack: 3
+Str: 19
+StrAdd: 100
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+E
+#33129
+drago reietto Khendrax~
+Khendrax il drago reietto~
+Khendrax il drago reietto e' stato confinato in questo luogo dimenticato
+~
+Quello che una volta era uno dei piu' potenti draghi della Daresia e' stato indebolito e imprigionato per sempre in questa grotta.
+Questo dragone viola aveva pasteggiato con gli eserciti di intere citta', e insieme ai suoi figli ibridi era inarrestabile. Tuttavia dopo la sconfitta di Hokron
+la maledizione ricadde su di lui, fu privato di quasi tutto il suo potere e del suo tesoro.
+~
+~
+~
+~
+254011 2611357987880 -1000 -1 -1 -1 -1 -1 E
+70 -2 -10 1d1+1099 4d13+13
+41 0
+4 8 1
+BareHandAttack: 4
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 29
+E
+T 33109
+$

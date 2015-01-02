@@ -1,0 +1,10 @@
+trigedit 12535
+6  
+/c 
+set proprietario %actor.name%
+global proprietario
+unset sgroppato
+~
+/s
+q
+y

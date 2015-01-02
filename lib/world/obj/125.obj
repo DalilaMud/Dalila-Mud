@@ -1,0 +1,1584 @@
+#12500
+fontana~
+Una fontana.~
+Una stupenda fontana si trova al centro della piazza.~
+~
+23 16 0
+9999 9999 15 0 100 100
+10000 100000000 0 1 0 0
+E
+fontana~
+&cCompletamente costruita in pregiatissimo marmo rosa, tanto e' ben lavorata
+che non sembra nemmeno scolpita ma bensi' nata dalla viva &Zroccia&c. L'&Cacqua&c
+spruzzata verso l'alto scompone la &Wluce&c in mille &Gc&Ro&Bl&Vo&Er&Wi&c creando figure
+fantastiche e meravigliose. Alla base noti i sigilli di tutti i popoli
+della daresia, e capisci che oltre ad essere un'opera d'arte la fontana
+e' anche un simbolo di pace e unione.&d
+~
+#12501
+panchina~
+Una panchina.~
+Una comoda panchina lungo il sentiero.~
+~
+12 0 0
+0 0 0 0 100 100
+100 1000 0 1 0 0
+#12502
+fiore~
+Un fiore.~
+Uno stupendo fiore.~
+~
+12 0 32769
+0 0 0 0 100 100
+1 1 0 27 0 0
+E
+fiore~
+Sfoggia una vasta quantita' di colori che lo rendono bellissimo. Non ricordi
+pero' di aver mai visto questa specie da nessuna parte .. strano.     
+
+~
+A
+6 1
+#12503
+albero fiorito~
+Un albero fiorito.~
+Un alberello sfoggia i suoi fiori.~
+~
+12 0 0
+0 0 0 0 100 100
+1000 1 0 1 0 0
+E
+alberello albero fiorito~
+E' piu' piccolo degli alti alberi che lo circondano, non e' pero' memo bello.
+Un gradevole odore viene sprigionato dai suoi fiori.               
+~
+#12504
+targa insegna cartello~
+Una targa.~
+Una targa e' incastonata nel muro.~
+~
+12 257 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+targa insegna cartello~
+   A caratteri impressi a fuoco leggi...  "Solo il prescelto da Fizban
+potra'attraversare il CORRIDOIO DELLA FEDE per arrivare da lui.  Morte e oblio
+sara' la fine per gli altri".  L'Alto Sacerdote del Tempio.    
+~
+#12505
+rosetta panino~
+Una rosetta.~
+Un panino e' stato lasciato qui.~
+~
+19 67108864 1
+5 0 0 0 100 100
+1 60 0 1 0 0
+#12506
+treccia pane~
+Una treccia.~
+Una treccia di pane e' qui.~
+~
+19 0 1
+10 0 0 0 100 100
+1 125 0 1 0 0
+#12507
+ciaccino~
+Un ciaccino.~
+Un ciaccino e' qui.~
+~
+19 0 1
+6 0 0 0 100 100
+1 65 0 1 0 0
+#12508
+grissino pane~
+Un grissino.~
+Un grissino si trova qui.~
+~
+19 0 1
+1 0 0 0 100 100
+1 10 0 1 0 0
+#12509
+pane~
+Un pane.~
+Un grosso pane e qui.~
+~
+19 0 1
+20 0 0 0 100 100
+3 475 0 1 0 0
+#12510
+pizzetta~
+Una pizzetta.~
+Una pizzetta e qui.~
+~
+19 0 1
+15 0 0 0 100 100
+2 300 0 1 0 0
+#12511
+vino speziato~
+Vino speziato della casa.~
+Una bottiglia di vino e' qui.~
+~
+17 0 1
+10 10 8 0 100 100
+14 20 0 1 0 0
+#12512
+vino jiroch~
+Vino di Jiroch.~
+Una bottiglia di pregiato vino e' qui.~
+~
+17 0 1
+5 4 2 0 100 100
+9 35 0 1 0 0
+#12513
+Whisky~
+Whisky di GreyHawk.~
+Una bottiglia di liquore.~
+~
+17 0 1
+7 7 5 0 100 100
+12 40 0 1 0 0
+#12514
+nettare elfi~
+Nettare degli elfi.~
+Una bottiglia colorata e' qui.~
+~
+17 0 1
+7 6 2 0 100 100
+11 56 0 1 0 0
+#12515
+vino deira~
+Vino di Deira.~
+Una bottiglia e' qui.~
+~
+17 0 1
+8 8 2 0 100 100
+13 100 0 1 0 0
+#12516
+vino~
+essenza dei colli romani ...~
+Una bottiglia di vino e' qui.~
+~
+17 0 1
+7 5 2 0 100 100
+5 67 0 1 0 0
+#12517
+cartello~
+Un cartello.~
+Un cartello e' appeso sulla porta.~
+~
+12 0 0
+0 0 0 0 100 100
+10 20 0 1 0 0
+E
+cartello~
+   Ci sta scritto ...  "Proprieta' in vendita.  Rivolgersi al consigliere
+economico di Sua Maesta Re Rodric.  " In fondo vedi distintamente il sigillo
+regale stampato a fuoco.    
+~
+#12518
+panchina~
+una panchina~
+Una panchina di legno e' a un lato del viale.~
+~
+12 0 0
+0 0 0 0 0 0
+100 1000 0 1 0 0
+E
+panchina panca~
+Laborata interamente in legno di quercia, sembra di ottima fattura.  
+~
+#12519
+fiore margherita~
+una margherita~
+Una bel fiorellino spunta da un cespuglio~
+~
+12 0 32769
+0 0 0 0 10 10
+1 50 0 1 0 0
+E
+margherita fiore~
+Una piccolo e bel fiorellino.  
+~
+#12520
+rosa bianca~
+una rosa bianca~
+Una rosa bianca si trova a terra.~
+~
+12 0 32769
+0 0 0 0 10 10
+0 100 0 27 0 0
+E
+rosa fiore~
+Veramente bella, il colore bianco latte pero' ti ricorda piu'un giglio che
+una rosa.  
+~
+A
+6 1
+#12521
+fiore~
+un fiore di campo~
+Un fiorellino di campo si trova a terra~
+~
+12 0 32769
+0 0 0 0 10 10
+1 25 0 1 0 0
+E
+fiore~
+Semplice e bello allo stesso tempo. Emana un gradevole odore dolciastro.
+
+~
+#12522
+vecchio albero~
+un vecchio albero~
+Un vecchio albero si trova qui~
+~
+15 0 0
+1000 4 0 0 0 0
+200 100 0 1 0 0
+E
+albero vecchio~
+Sembra davvero vecchio, al suo interno, tra la corteccia, noti che si e'
+formata una cavita'.  
+~
+#12523
+pioppo~
+un pioppo~
+Un pioppo si eleva verso il cielo.~
+~
+12 0 0
+0 0 0 0 0 0
+100 1000 0 1 0 0
+E
+pioppo ~
+Noti delle incisioni sulla corteccia, sicuramente le ha fatto qualcuno che
+non ama la natura.  
+~
+#12524
+giovane quercia~
+&VUna giovane quercia&d~
+&VUna giovane quercia si erge fiera&d~
+~
+12 0 0
+0 0 0 0 0 0
+100 1000 0 1 0 0
+E
+giovane quercia~
+&vUna giovane quercia si erge fiera verso l'alto, per adesso e' alta non piu' di due metri ma diventerà alta e imponente e donerà ombra a tutti i passanti.&d
+~
+#12525
+ghianda frutto~
+una ghianda~
+Una piccola ghianda e' qui per terra.~
+~
+19 0 1
+1 0 0 0 0 0
+2 10 0 1 0 0
+#12526
+fragola frutto~
+una fragola~
+Una fragola e qui~
+~
+19 0 1
+3 0 0 0 0 0
+2 38 0 1 0 0
+E
+fragola~
+Rossa e invitante, non resisterai molto ancora prima di mangiarla.  
+~
+#12527
+Cassapanca~
+Una enorme cassapanca~
+Una enorme cassapanca e' qui~
+~
+15 0 0
+100000 15 12552 0 100 100
+500 0 0 1 0 0
+#12528
+albero ornamentale~
+Un albero ornamentale~
+A little thing called nothing lies here~
+~
+15 0 0
+200 0 0 0 0 0
+100 5000 0 1 0 0
+E
+albero ornamentale~
+Davvero bello e per di piu' carico di frutti coloratissimi. Strano che gli
+uccelli non ne abbiano gia' fatto mambassa.  
+~
+#12529
+bacca piccola~
+un piccola bacca~
+Una piccola bacca colorata e' qui.~
+~
+19 0 1
+4 0 0 3 0 0
+3 45 1 1 0 0
+#12530
+pentolone pentola~
+un pentolone~
+Un grande pentolone e' qui~
+~
+15 0 65537
+45 0 0 0 0 0
+20 1200 50 1 0 0
+E
+pentola pentolone~
+Grande e tutta in metallo, una bella pentola insomma. 
+~
+#12531
+coperchio~
+un coperchio~
+Un coperchio di una pentola e' qui~
+~
+9 0 513
+1 0 0 0 0 0
+7 550 105 1 0 0
+E
+coperchio~
+Appartiene e una grende pentola, non puoi caire molto altro osservandolo.
+
+~
+#12532
+mestolo~
+un mestolo~
+Un mestolo di legno e' qui.~
+~
+12 0 1
+0 0 0 0 0 0
+2 100 5 1 0 0
+E
+mestolo~
+Un normalissimo mestolo. 
+~
+#12533
+Vaso~
+Un vaso di fiori~
+Un vaso di fiori e' qui~
+~
+12 0 1
+5 0 0 0 10 10
+4 200 100 1 0 0
+E
+bistecca~
+Ottima carne, tenera e magra. Chissa che gusto fatta ai ferri.
+~
+#12534
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#12535
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#12536
+elmo imponente~
+un' imponente elmo ~
+Un elmo pregiatamente lavorato e' qui.~
+~
+9 16384 17
+9 0 0 0 100 100
+12 5000 1000 25 0 0
+E
+elmo~
+Veramente ben lavorato, poco sopra la fronte riporta il simbolo della citta' di Deira~
+A
+2 -1
+#12537
+cotta maglia~
+una cotta di maglia~
+Una pesante cotta di maglia e' a terra.~
+~
+9 81928 9
+10 0 0 0 100 100
+17 10000 2000 52 0 0
+E
+cotta maglia~
+Lavorata a dovere, sembra molto resistente, dentro una di queste sarai sicuramente al sicuro. In un angolo a destra sul sundo noti il sigillo delle guardie di Deira.~
+A
+24 5
+A
+13 15
+#12538
+mantellina disegnata~
+una mantellina disegnata~
+La mantellina delle guardie di Deira e' qui.~
+~
+12 25 1025
+0 0 0 0 100 100
+5 2306 234 77 0 0
+E
+mantellina~
+Porta stampato siu ambo i lati il simbolo della casata reale di Rodric, tre spade incrociate da una rosa, che irraggiano luce su un vessillo nero.~
+A
+6 3
+A
+17 2
+#12539
+guanti argento~
+un paio di guanti d'argento~
+Un paio di guanti di argento sono a terra.~
+~
+9 257 129
+1 0 0 0 100 100
+8 7000 1200 89 0 0
+E
+guanti argento~
+Sono molto belli, ma sembrano piu' ornamentali, non devono proteggere molto a occhio.~
+A
+1 2
+A
+18 2
+#12540
+parabraccia argento~
+un paio di parabraccia d'argento~
+Degli stupendi parabraccia sono a terra.~
+~
+9 1 257
+7 0 0 0 100 100
+4 5000 230 43 0 0
+E
+parabraccia argento~
+Molto leggeri e ben lavorati, sembrano brillare di luce propria. Il sigillo delle guardie di Deira vi e' impresso sopra.~
+A
+25 10
+#12541
+gambali argento~
+un paio di gambali d'argento~
+Un bel paio di gambali si trovano qui.~
+~
+9 257 33
+10 0 0 0 100 100
+10 9600 2400 33 0 0
+E
+gambali argento~
+Solidi e robusti, sembrano pure comodi. Serve davvero una buona mano per lavorare cosi bene dell'argento.~
+#12542
+stivali cuoio~
+un paio di stivali di cuoio~
+Degli stivali sono appoggiati a terra.~
+~
+9 256 65
+4 0 0 0 100 100
+4 3500 200 24 0 0
+E
+stivali~
+Sembrano davvero comodi, ideali per lunghe camminate.~
+A
+14 20
+#12543
+scudo inciso~
+uno scudo finemente inciso~
+Uno scudo finemente inciso e qui a terra.~
+~
+9 259 513
+10 0 0 0 100 100
+10 10200 2450 33 0 0
+E
+scudo inciso~
+Lo stemma di Deira e' inciso nel fronte dello scudo. Prima non lo avevi notato ma ora che lo maneggi ti senti piu' portetto con esso in mano.~
+A
+20 3
+A
+21 3
+A
+22 3
+A
+23 3
+A
+24 3
+#12544
+spada bastarda~
+una spada bastarda~
+Una spada dalla doppia lama e qui a terra.~
+~
+5 16387 8193
+0 4 5 3 100 100
+9 6350 1200 86 0 0
+A
+18 2
+A
+19 2
+#12545
+balestra~
+una balestra media~
+Una balestra di medie dimenzioni e' qui a terra.~
+~
+6 0 8193
+0 0 0 0 100 100
+12 9630 2000 21 0 0
+E
+balestra~
+Ben bilanciata e di ottima fattura, davvero una bella arma.~
+A
+19 1
+#12546
+faretra pelle~
+una faretra di pelle~
+Una faretra giace a terra.~
+~
+15 0 65537
+100 0 -1 0 100 100
+0 0 0 1 0 0
+E
+faretra~
+Di ottima pelle, per il resto una normalissima faretra.~
+#12547
+dardo~
+un dardo leggero~
+Un dardo , di medie dimensioni e' qui a terra.~
+~
+7 0 1
+0 0 0 0 100 100
+1 100 1 1 0 0
+#12548
+sigillo~
+un sigillo delle guardie di Deira~
+Un anello con un disegno e' a terra.~
+~
+12 273 3
+0 0 0 0 100 100
+3 8000 2930 -2 0 0
+E
+sigillo anello~
+Davvero un lavoro pregiato, delle piccole pietre preziose incastrate tra loro, formano il sigillo delle guardie di Deira.~
+A
+17 3
+#12549
+veste~
+una lunga vesta bianca~
+Una lunga veste bianca e' a terra.~
+~
+9 50433 1025
+2 0 0 0 100 100
+1 6200 600 116 0 0
+E
+veste~
+E' bianca come il latte, come si addice a molti vestimenti sacri. E' prima di simboli e segni ma pare illuminarsi di luce propria.~
+A
+26 10
+A
+12 20
+#12550
+giglio cristallo~
+un giglio di cristallo~
+Un fiore di cristallo e' qui.~
+~
+8 1361 16385
+0 0 0 0 100 100
+3 5000 1300 0 0 0
+E
+giglio fiore~
+Ti brillano gli occhi mentre lo osservi, perfetto sotto ogni aspetto, davvero un lavoro unico. Si dice che il dio Fizban lo coltivi nei suoi giardini personali e lo doni solo ai suoi fedele piu' degni, ma e' solo una leggenda.~
+A
+23 -5
+#12551
+sacca sporca~
+una sacca sporca~
+Una sacca lurida sta qui buttata in un angolo.~
+~
+15 0 65537
+100 0 0 0 100 100
+2 30 1 1 0 0
+E
+sacca~
+E' molto grande, ma sembra impregnata di una puzza davvero orribile.~
+#12552
+chiave~
+Una chiave argentata~
+Una chiave argentata giace qui~
+~
+35 0 16385
+0 0 0 0 10 10
+1 0 0 1 0 0
+#12553
+chiave fizban0~
+Una chiave con inciso l'emblema reale di Deira~
+Una chiave con inciso l'emblema reale di Deira e' qui~
+~
+35 0 5
+0 0 0 0 20 20
+1 0 0 1 0 0
+#12555
+tesoro~
+tesoro 10k~
+Tesoro 10k~
+~
+20 0 1
+10000 0 0 0 100 100
+1 0 0 1 0 0
+#12556
+bacheca~
+La bacheca sociale~
+La bacheca reale e' qui~
+~
+13 0 0
+0 0 0 0 100 100
+1 0 0 1 1 1
+E
+bacheca~
+   Questa e' la Bacheca Reale messa a disposizione da Re Rodric per i suoi
+sudditi.  Chiunque voglia ricevere udienza o porre domande importanti al Re e
+al suo Consiglio puo' farlo attraverso di essa.  Usare WRITE <titolo> e READ
+BACHECA per utilizzarla.    
+~
+#12557
+Bacheca~
+La bacheca degli architetti~
+La bacheca degli architetti e' qui~
+~
+13 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+bacheca~
+   Questa bacheca e' uno dei principali mezzi attraverso cui contattare e
+fissare un appuntamento con l'architetto Reale o il Consigliere adibito al
+rilascio delle Notifiche Reali.  Anche discorsi generici a proposito delle
+costruzioni del Regno sono ben accette.  Usare SCRIVI <titolo> per scrivere e
+READ BACHECA per leggere.    
+~
+#12558
+banchetto~
+Il Banchetto Cambiavalute~
+Il Banchetto Cambiavalute e' qui~
+~
+13 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12559
+bacheca~
+La bacheca degli &4&xAldars&0~
+La bacheca degli &4&xAldars&0 e' qui~
+~
+12 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12560
+bacheca~
+La bacheca Promemoria dei funzionari~
+La bacheca Promemoria dei funzionari e' qui~
+~
+12 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12561
+bacheca~
+Una bacheca~
+Una bacheca e' qui~
+~
+12 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12562
+chiave lega~
+Una chiave fatta in lega speciale~
+Una chiave fatta in lega speciale e' qui.~
+Una chiave di medie dimensioni risplende nelle tue mani. Al tatto sembra calda,
+ma il suo colore azzurro-rosso da la sensazione di un oggetto freddo. La sua
+leggerezza e opposta alla sua enorme resistenza all'usura... una strane e
+misteriosa lega.
+~
+18 0 1
+0 0 0 0 0 0
+1 0 0 1 0 0
+#12565
+delete me~
+delete me~
+Una chiave robusta e' qui.~
+~
+12 0 1
+0 0 0 0 1 1
+1 0 0 1 0 0
+#12567
+medaglione~
+il Medaglione della Fossa~
+Un medaglione e' qui per terra.~
+Ti sembra ad ogni istante piu' scuro, come se stesse assorbendo la luce stessa. Il tuo riflesso si fa lentamente piu' sbiadito, e distogli lo sguardo appena in tempo prima di essere assorbito anche tu
+~
+8 1 5
+0 0 0 0 0 0
+10 7777 0 1 3 1
+#12569
+Corona alloro~
+&gUna corona d'alloro&d~
+&gUna corona d'alloro&d~
+~
+11 0 17
+0 0 0 0 100 100
+1 0 0 3781 0 0
+A
+6 75
+A
+4 10
+A
+3 10
+A
+5 10
+A
+2 10
+A
+1 35
+#12570
+chiave~
+La chiave delle prigioni~
+Un vaso luminoso e brillante.~
+~
+35 0 16385
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12571
+pergamena vuota~
+una pergamena vuota~
+Una pergamena vuota e' qui~
+~
+2 0 16385
+0 0 0 0 100 100
+1 850 0 1 0 0
+#12572
+Oggetto prova - spada genidian~
+Oggetto prova - spada genidian~
+Oggetto prova - spada genidian~
+Oggetto prova - spada genidian
+~
+5 28672 8193
+5 9 20 10 100 100
+8 0 0 1126 0 0
+A
+1 1
+A
+18 20
+C
+2199241359488 0 0 0
+#12573
+oggetto prova - pugnale peloi~
+oggetto prova - pugnale peloi~
+Oggetto prova - pugnale peloi~
+oggetto prova - pugnale peloi
+~
+5 61440 129
+2 8 9 1 100 100
+2 0 0 162 0 0
+A
+1 2
+A
+2 1
+C
+2199023255552 0 0 0
+#12574
+legnetto legno~
+&v Un piccolo legnetto&d~
+&v Un piccolo legnetto&d spesso quanto un dito e lungo una spanna~
+~
+11 320 524289
+0 0 0 0 100 100
+1 0 0 315 0 0
+A
+13 100
+A
+1 2
+C
+137455730688 0 0 0
+#12575
+&g Una corona d'alloro nera&d~
+&g Una corona d'alloro nera&d~
+&g Una corona d'alloro nera&d~
+~
+11 8589934624 17
+0 0 0 0 100 100
+1 0 0 1434 0 0
+A
+1 9
+A
+2 9
+A
+3 10
+A
+5 10
+A
+4 10
+A
+6 10
+#12578
+certificato~
+un certificato reale~
+Un certificato reale e' qui~
+~
+12 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+certificato~
+Con questo foglio io, Rodric Condoin, conferisco la carica di mercante a Messer Andruz.
+
+Rodric Condoin
+~
+#12579
+soldi~
+soldi controllore negozi~
+Soldi sono qui~
+~
+20 0 1
+2000 0 0 0 100 100
+0 0 0 1 0 0
+#12580
+premio reale~
+premio reale~
+Premio reale~
+~
+16 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12581
+certifica di addestramento~
+certificato di addestramento~
+Certificato di addestramento~
+~
+16 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12582
+stipendio reale~
+Uno stipendio reale~
+Uno stipendio reale e' qui~
+~
+16 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#12583
+simbolo sacro croce Fizban~
+&7La sacra croce del Dio Fizban&0~
+&7La sacra croce del Dio Fizban&0 e' qui~
+~
+9 3075 5
+0 0 0 0 100 100
+1 0 0 90 2 5
+C
+5120 0 0 0
+#12585
+cadaveri~
+I cadaveri del distaccamento morto~
+I cadaveri del distaccamento morto sono sparsi sul campo~
+~
+12 0 0
+0 0 0 0 100 100
+1000 0 0 1 0 0
+#12586
+&cUna rosa di Cristallo&d~
+&cUna rosa di Cristallo&d~
+&cUna rosa di Cristallo&d è qui appoggiata  a terra.~
+~
+89 32 8388609
+0 0 0 0 100 100
+1 0 0 1807 0 0
+A
+6 50
+A
+5 5
+A
+3 6
+A
+2 4
+A
+4 6
+#12595
+arena~
+Pozione arena~
+Pozione arena~
+~
+10 0 1
+100 28 28 28 100 100
+1 0 0 1 0 0
+#12597
+focaccia ripiena~
+Una focaccia ripiena~
+Una focaccia ripiena e' qui per terra~
+~
+19 0 1
+12 0 0 0 100 100
+1 600 0 1 0 0
+#12598
+avviso reale~
+Un avviso reale~
+Un &1&x Avviso Reale &2(NOVITA')&0~
+~
+13 0 1
+0 0 0 0 0 0
+1000 0 0 1 0 0
+E
+avviso reale~
+.
+Un grande foglio fissato ad un sostegno in legno riporta le novita'
+recenti sul regno di Tolnedra.
+.
+&1&x1) Grazie agli ammaestratori privati del Re ora sono disponibili
+   presso il negozio di animali i cavalli ad un prezzo davvero
+   competitivo.&0
+.
+&2&x2) A grande richiesta e' stato riassunto lo stalliere reale per poter
+   custodire i cavalli dei nostri amati cittadini. La stalla si trova
+   fuori dalle mura ad est della citta'.&0
+.
+&1&x3) Necessitano architetti per ampliare la citt, rivolgersi al
+   Consigliere Spartakus per maggiori informazioni.&0
+~
+#12599
+caviale~
+Il pregiato caviale di Deira~
+Il pregiato caviale di Deira~
+~
+19 0 1
+20 0 0 0 100 100
+1 475 0 1 0 0
+#12600
+merce~
+La merce~
+La merce~
+~
+15 0 1
+1000000 0 0 0 100 100
+1 0 0 1 0 0
+#12601
+pozione1 ocra~
+&1una pozione ocra&0~
+Una &1pozione ocra&0 e' qui.~
+~
+10 67108864 16385
+15 43 0 0 100 100
+2 800 0 1 0 0
+#12602
+pozione2 avorio~
+&7una pozione avorio&0~
+Una &7pozione avorio&0 e' qui.~
+~
+10 67108864 16385
+10 1 0 0 100 100
+2 1000 0 1 0 0
+#12603
+pozione3 rosa~
+&5&xuna pozione rosa&0~
+Una &5&xpozione rosa&0 e' qui.~
+~
+10 67108864 16385
+20 14 0 0 100 100
+2 900 0 1 0 0
+#12604
+pozione4 grigia~
+&7una pozione grigia&0~
+Una &7pozione grigia&0 e' qui.~
+~
+10 67108864 16385
+20 35 0 0 100 100
+2 1200 0 1 0 0
+#12605
+pozione5 smeraldina~
+&2una pozione smeraldina&0~
+Una &2pozione smeraldina&0 e' qui.~
+~
+10 67108864 16385
+35 98 0 0 100 100
+2 2000 0 1 0 0
+#12606
+pozione6 verde~
+&2&xuna pozione verde&0~
+Una &2&xpozione verde&0 e' qui.~
+~
+10 67108864 16385
+35 19 0 0 100 100
+2 3000 0 1 0 0
+#12607
+pozione7 incolore~
+&6una pozione incolore&0~
+Una &6pozione incolore&0 e' qui.~
+~
+10 67108864 16385
+40 29 0 0 100 100
+2 4000 0 1 0 0
+#12608
+pozione8 gialla~
+&3&xuna pozione gialla&0~
+Una &3&xpozione gialla&0 e' qui.~
+~
+10 67108864 16385
+20 72 0 0 100 100
+2 2800 0 1 15 0
+#12609
+pozione9 rossa~
+&1&xuna pozione rossa&0~
+Una &1&xpozione rossa&0 e' qui.~
+~
+10 67108864 16385
+45 69 0 0 100 100
+2 2000 0 1 0 0
+#12610
+pozione0 paglierina~
+&3una pozione paglierina&0~
+Una &3pozione paglierina&0 e' qui.~
+~
+10 67108864 16385
+60 71 0 0 100 100
+2 1700 0 1 0 0
+#12611
+pozioneA marrone~
+&1una pozione marrone&0~
+Una &1pozione marrone&0 e' qui.~
+~
+10 67108864 16385
+30 84 0 0 100 100
+2 1500 0 1 0 0
+#12612
+pozioneB nera~
+&9&xuna pozione nera&0~
+Una &9&xpozione nera&0 e' qui.~
+~
+10 67108864 16385
+40 93 0 0 100 100
+2 3000 0 1 0 0
+#12613
+pozioneC celeste~
+&6&xuna pozione celeste&0~
+Una &6&xpozione celeste&0 e' qui.~
+~
+10 67108864 16385
+30 16 16 0 100 100
+2 1000 0 1 0 0
+#12614
+pozioneD azzurra~
+&6una pozione azzurra&0~
+Una &6pozione azzurra&0 e' qui.~
+~
+10 67108864 16385
+45 77 16 16 100 100
+2 3000 0 1 0 0
+#12615
+pozioneE blu~
+&4&xuna pozione blu&0~
+Una &4pozione blu&0 e' qui.~
+~
+10 67108864 16385
+40 15 16 0 100 100
+2 5000 0 1 0 0
+#12616
+pozioneF arancione~
+&1&xuna pozione arancione&0~
+Una &1&xpozione arancione&0 e' qui.~
+~
+10 67108864 16385
+35 44 18 0 100 100
+2 2400 0 1 0 0
+#12617
+pozioneG dorata~
+&3&xuna pozione dorata&0~
+Una &3&xpozione dorata&0 e' qui.~
+~
+10 67108864 16385
+45 50 0 0 100 100
+2 2000 0 1 0 0
+#12618
+pozioneH scarlatta~
+&1&xuna pozione scarlatta&0~
+Una &1&xpozione scarlatta&0 e' qui.~
+~
+10 67108864 16385
+40 39 0 0 100 100
+2 1600 0 1 0 0
+#12619
+vaso luminoso brillante~
+un vaso luminoso e brillante~
+Un vaso luminoso e brillante e' qui.~
+~
+1 67108864 1
+0 0 10 0 100 100
+1 500 0 1 0 0
+#12620
+tisana boccetta nonna~
+la tisana della nonna~
+Da una boccetta a terra sale un buon odore di erbe aromatiche ancora calde...~
+~
+93 0 1
+0 0 0 0 5 5
+1 1500 0 1 0 0
+#12621
+fieno~
+del fieno per cavalli (made in Sendaria)~
+Del fieno per cavalli~
+~
+36 0 1
+4 0 0 0 0 0
+3 90 0 1 0 0
+#12628
+fieno~
+del fieno per cavalli~
+Del fieno per cavalli~
+~
+36 0 1
+8 0 0 0 5 5
+3 200 0 1 0 0
+#12629
+fieno~
+del fieno per cavalli (made in Sendaria)~
+Del fieno per cavalli~
+Nothing.
+~
+36 0 1
+4 0 0 0 0 0
+3 90 0 1 0 0
+#12630
+fontana~
+&7Una umile fontana di pietra&0~
+&7Una umile fontana di pietra e' qui&0~
+~
+23 64 0
+100000 100000 10 0 100 100
+2147483647 0 0 1 0 0
+#12638
+acqua santa~
+Dell'acqua santa~
+Dell'acqua santa~
+~
+10 0 16385
+30 15 15 0 100 100
+0 0 1 1 0 0
+#12640
+acqua santa~
+&7Dell'acqua consacrata da Fizban&0~
+&7Dell'acqua consacrata da Fizban e' qui&0~
+~
+10 0 16385
+20 28 3 93 1 1
+1 0 0 1 0 0
+#12641
+Asya~
+Asya~
+Asya~
+~
+5 0 8193
+0 0 0 0 1 1
+0 0 0 1 0 0
+#12642
+Caos~
+Caos~
+Caos~
+~
+5 0 8193
+1 1 1 1 1 1
+0 0 0 3 0 0
+#12643
+cintura zinco~
+Una cintura in metallo~
+Una cintura in metallo e' qui (M)~
+~
+9 67108864 2049
+2 0 0 0 1 1
+2 750 0 1 2 0
+#12645
+orecchino quercia~
+Un orecchino di legno (M)~
+Un orecchino di legno e' qui (M)~
+~
+9 67108864 32769
+0 0 0 0 10 10
+1 200 0 1 2 0
+#12646
+scrivania quercia~
+Un tavolo in legno (M)~
+Un tavolo in legno e' qui (M)~
+~
+15 67108864 1
+0 0 0 0 1 1
+5 500 0 1 2 0
+#12648
+freccia~
+una freccia di legno (M)~
+Una freccia di legno e' qui. (M)~
+~
+32 67108864 16385
+0 2 4 0 100 100
+0 50 0 3 0 0
+#12649
+cassapanca quercia~
+una cassapanca di legno (M)~
+Una cassapanca di legno e' qui. (M)~
+~
+15 67108864 1
+3000 0 -1 0 100 100
+10 800 0 1 0 0
+#12650
+lingotto oro~
+un lingotto d'oro purissimo (M)~
+Un lingotto d'oro purissimo e' qui. (M)~
+~
+53 67108864 1
+0 0 0 0 100 100
+1 400 0 1 0 0
+#12651
+lingotto argento~
+un lingotto d'argento purissimo (M)~
+Un lingotto d'argento purissimo e' qui. (M)~
+~
+53 67108864 1
+0 0 0 0 100 100
+0 250 0 1 0 0
+#12652
+gambali zinco~
+dei gambali di media fattura (M)~
+Un paio di gambali di media fattura sono qui. (M)~
+~
+9 67108864 33
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12653
+elmo zinco~
+un elmo di media fattura (M)~
+Un elmo di media fattura e qui. (M)~
+~
+9 67108864 17
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12654
+Parabraccia zinco~
+dei parabraccia di media fattura (M)~
+Un paio di parabraccia di media fattura sono qui. (M)~
+~
+9 67108864 257
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12655
+armatura zinco~
+Un'armatura di media fattura e' qui (M)~
+Un'armatura di media fattura e' qui (M)~
+~
+9 67108864 9
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12656
+Stivali zinco~
+degli stivali di media fattura (M)~
+Un paio di stivali di media fattura sono qui. (M)~
+~
+9 67108864 65
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12657
+guanti zinco~
+dei guanti di media fattura (M)~
+Un paio di guanti di media fattura sono qui. (M)~
+~
+9 67108864 129
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12658
+trave zinco~
+una trave di metallo (M)~
+Vedi una trave di metallo qui in terra. (M)~
+~
+58 67108864 1
+0 0 0 0 100 100
+1 800 0 1 0 0
+#12659
+scudo zinco~
+uno scudo di media fattura (M)~
+Uno scudo di media fattura e' qui. (M)~
+~
+9 67108864 513
+7 0 0 0 100 100
+5 1000 0 22 0 0
+#12661
+Ascia~
+un ascia di buona fattura (M)~
+Un ascia di buona fattura e' qui. (M)~
+~
+5 67108864 8193
+1 2 8 3 100 100
+2 1000 0 9 0 0
+#12662
+mazza~
+una mazza di buona fattura (M)~
+Una mazza di buona fattura e' qui. (M)~
+~
+5 67108864 8193
+1 2 8 9 100 100
+3 1000 0 17 0 0
+#12663
+Lancia~
+una lancia di buona fattura (M)~
+Una lancia di buona fattura e' qui. (M)~
+~
+5 67108864 8193
+1 2 8 11 100 100
+3 1000 0 17 0 0
+#12664
+spada~
+una spada di buona fattura (M)~
+Una spada di buona fattura e' qui. (M)~
+~
+5 67108864 8193
+1 2 8 12 100 100
+2 1000 0 17 0 0
+#12665
+pugnale~
+un pugnale di buona fattura (M)~
+Un pugnale di buona fattura e' qui. (M)~
+~
+5 67108864 8193
+1 2 8 1 100 100
+1 1000 0 17 0 0
+#12666
+pane~
+un pane di campagna (M)~
+Un pane di campagna e' qui (M)~
+~
+19 67108864 1
+8 0 0 0 100 100
+1 100 0 1 0 0
+#12667
+pagnotta~
+una pagnotta di segale (M)~
+Una pagnotta di segale e' qui (M)~
+~
+19 67108864 1
+8 0 0 0 100 100
+1 100 0 1 0 0
+#12668
+verdura~
+della verdura fresca (M)~
+Della verdura fresca e' qui(M)~
+~
+19 67108864 1
+6 0 0 0 100 100
+1 65 0 1 0 0
+#12669
+Frutta~
+della frutta di campagna (M)~
+Della frutta di campagna e' qui (M)~
+~
+19 67108864 1
+7 0 0 0 100 100
+1 90 0 1 0 0
+#12670
+Pesce~
+del Pesce crudo (M)~
+Del Pesce crudo e' qui (M)~
+~
+19 67108864 1
+8 0 0 0 100 100
+1 100 0 1 0 0
+#12671
+dolce~
+un dolce confezionato (M)~
+Un dolce confezionato e' qui (M)~
+~
+19 67108864 1
+7 0 0 0 100 100
+1 90 1 1 0 0
+#12672
+torta~
+Una gustosa torta (M)~
+Una gustosa torta e' qui (M)~
+~
+19 67108864 1
+9 0 0 0 100 100
+1 105 0 1 0 0
+#12673
+focaccia~
+una focaccia fresca (M)~
+Una focaccia fresca e' qui (M)~
+Nothing.
+~
+19 67108864 1
+5 0 0 0 100 100
+1 60 0 1 0 0
+#12674
+pizza~
+una pizza fredda (M)~
+Una pizza fredda e' qui (M)~
+~
+19 67108864 1
+7 0 0 0 100 100
+1 90 0 1 0 0
+#12675
+squadrata pietra~
+una pietra squadrata (M)~
+Una grossa pietra squadrata per costruzioni e' qui. (M)~
+~
+59 67108864 1
+0 0 0 0 100 100
+6 150 0 1 0 0
+#12677
+orecchino zaffiro~
+un pregiato orecchino (M)~
+Un orecchino di pregiata fattura e' qui. (M)~
+~
+8 67108864 32769
+0 0 0 0 100 100
+1 1000 0 1 0 0
+#12678
+anello zaffiro~
+un pregiato anello (M)~
+Un anello di pregiata fattura e' qui. (M)~
+~
+8 67108864 3
+0 0 0 0 100 100
+1 1000 0 1 0 0
+#12679
+amuleto zaffiro~
+un pregiato amuleto (M)~
+Un amuleto di pregiata fattura e' qui. (M)~
+~
+8 67108864 5
+0 0 0 0 100 100
+1 1000 0 1 0 0
+#12680
+bracciale zaffiro~
+un pregiato bracciale (M)~
+Un bracciale di pregiata fattura e' qui. (M)~
+~
+8 67108864 4097
+0 0 0 0 100 100
+1 1000 0 1 0 0
+#12681
+pietra preziosa zaffiro~
+un pietra preziosa (M)~
+Vedi una pietra preziosa luccicare quando un raggio di sole l'attraversa. (M)~
+~
+8 67108864 1
+0 0 0 0 100 100
+1 2000 0 1 0 0
+#12682
+Gambali pelle~
+un paio di gambali di pelle (M)~
+Un paio di gambali di pelle sono qui. (M)~
+~
+9 67108864 33
+6 0 0 0 100 100
+1 800 0 18 0 0
+#12683
+parabraccia pelle~
+un paio di parabraccia di pelle (M)~
+Un paio di parabraccia di pelle sono qui. (M)~
+~
+9 67108864 257
+6 0 0 0 100 100
+1 800 0 18 0 0
+#12684
+armatura pelle~
+un armatura di pelle (M)~
+Un armatura di pelle e' qui. (M)~
+~
+9 67108864 9
+6 0 0 0 100 100
+1 800 0 18 0 0
+#12685
+borsa pelle~
+un borsa di pelle (M)~
+Un borsa di pelle e' qui. (M)~
+~
+15 67108864 65537
+100 0 -1 0 100 100
+1 800 0 1 0 0
+#12686
+vestito pelle~
+un vestito di pelle (M)~
+Un vestito di pelle e' qui. (M)~
+~
+12 67108864 9
+0 0 0 0 100 100
+0 400 0 1 0 0
+#12687
+guanti pelle~
+un paio di guanti di pelle (M)~
+Un paio di guanti di pelle sono qui. (M)~
+~
+9 67108864 129
+6 0 0 0 100 100
+1 800 0 18 0 0
+#12688
+stivali pelle~
+un paio di stivali di pelle (M)~
+Un paio di stivali di pelle sono qui. (M)~
+~
+9 67108864 65
+6 0 0 0 100 100
+1 800 0 18 0 0
+#12689
+mantello pelle~
+un mantello di pelle (M)~
+Un mantello di pelle e' qui. (M)~
+~
+12 67108864 1025
+0 0 0 0 100 100
+1 400 0 1 0 0
+#12690
+Carne~
+un pezzo di carne appetitosa (M)~
+Un pezzo di carne appetitosa e' qui. (M)~
+~
+19 67108864 1
+7 0 0 0 100 100
+1 90 0 1 0 0
+#12691
+trave quercia~
+una trave di legno (M)~
+Una trave di legno e' qui. (M)~
+~
+54 67108864 1
+0 0 0 0 100 100
+1 100 0 1 0 0
+#12692
+amuleto legno~
+un amuleto di legno (M)~
+Un amuleto di legno e' qui. (M)~
+~
+11 67108864 5
+0 0 0 0 100 100
+1 150 0 1 2 0
+#12693
+bracciale legno~
+un bracciale di legno (M)~
+Un bracciale di legno e' qui. (M)~
+~
+11 67108864 4097
+0 0 0 0 100 100
+1 150 0 1 2 0
+#12694
+anello legno~
+un anello di legno (M)~
+Un anello di legno e' qui. (M)~
+~
+11 67108864 3
+0 0 0 0 100 100
+1 150 0 1 2 0
+#12695
+armadio pioppo~
+un armadio di legno (M)~
+Un armadio di legno e' qui. (M)~
+~
+15 67108864 1
+3000 0 -1 0 100 100
+12 800 0 1 0 0
+#12696
+tavolo~
+tavolo pioppo~
+Un tavolo di legno e' qui. (M)~
+~
+12 67108864 1
+0 0 0 0 100 100
+10 500 0 1 0 0
+#12697
+arco legno~
+un arco di legno (M)~
+Un arco di legno e' qui. (M)~
+~
+28 67108864 8193
+2 0 0 0 100 100
+1 600 0 3 3 0
+$~

@@ -1,0 +1,60 @@
+trigedit 12600
+6  
+/c 
+if %actor.name% == %target%
+if %victim.name% == %vittima%
+eval volte %volte% + 1
+global volte
+if %volte% == 7
+unset volte
+eval scontro %scontro% + 1
+global scontro
+if %scontro% == 1
+mat %1% &1 %actor.name% sta continuando a menare fendenti notevoli contro %vittima%&0
+mat %2% &1 %actor.name% sta continuando a menare fendenti notevoli contro %vittima%&0
+mat %3% &1 %actor.name% sta continuando a menare fendenti notevoli contro %vittima%&0
+mat %4% &1 %actor.name% sta continuando a menare fendenti notevoli contro %vittima%&0
+mat %5% &1 %actor.name% sta continuando a menare fendenti notevoli contro %vittima%&0
+end
+if %scontro% == 2
+mat %1% &1 %vittima% continua ad incassare i colpi di %actor.name% &0
+mat %2% &1 %vittima% continua ad incassare i colpi di %actor.name% &0
+mat %3% &1 %vittima% continua ad incassare i colpi di %actor.name% &0
+mat %4% &1 %vittima% continua ad incassare i colpi di %actor.name% &0
+mat %5% &1 %vittima% continua ad incassare i colpi di %actor.name% &0
+end
+if %scontro% == 3
+mat %1% &1 %actor.name% ormai non ha lasciato neanche una parte di %vittima% priva di ferite&1
+mat %2% &1 %actor.name% ormai non ha lasciato neanche una parte di %vittima% priva di ferite&1
+mat %3% &1 %actor.name% ormai non ha lasciato neanche una parte di %vittima% priva di ferite&1
+mat %4% &1 %actor.name% ormai non ha lasciato neanche una parte di %vittima% priva di ferite&1
+mat %5% &1 %actor.name% ormai non ha lasciato neanche una parte di %vittima% priva di ferite&1
+end
+if %scontro% > 3
+mat %1% &1 %actor.name% sta combattendo contro un enorme ammasso rossastro! ....che sia ancora %vittima% ?&1
+mat %2% &1 %actor.name% sta combattendo contro un enorme ammasso rossastro! ....che sia ancora %vittima% ?&1
+mat %3% &1 %actor.name% sta combattendo contro un enorme ammasso rossastro! ....che sia ancora %vittima% ?&1
+mat %4% &1 %actor.name% sta combattendo contro un enorme ammasso rossastro! ....che sia ancora %vittima% ?&1
+mat %5% &1 %actor.name% sta combattendo contro un enorme ammasso rossastro! ....che sia ancora %vittima% ?&1
+end
+end
+end
+end
+if %victim.name% != %vittima%
+if %victim.name% != 0
+unset scontro
+mat %1% &1 %actor.name% ha attaccato %victim.name%!&0
+mat %2% &1 %actor.name% ha attaccato %victim.name%!&0
+mat %3% &1 %actor.name% ha attaccato %victim.name%!&0
+mat %4% &1 %actor.name% ha attaccato %victim.name%!&0
+mat %5% &1 %actor.name% ha attaccato %victim.name%!&0
+set vittima %victim.name%
+global vittima
+unset scontro
+wait 3 s
+end
+end
+~
+/s
+q
+y

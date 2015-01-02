@@ -1,0 +1,37 @@
+trigedit 28160
+6  
+/c 
+if !(%stato%)
+set stato inattivo
+global stato
+end
+wait 1 s
+%echo% Boorg lentamente e con cura conta le monete.
+wait 5 s
+say Hmmm
+if %amount% < 50000
+wait 1 s
+say %amount% monete non bastano torna quando avrai abbastanza denaro!
+give %amount% coins %actor.name%
+halt
+end
+if %stato% != inattivo
+wait 1 s
+say Non posso accettare ho gia' preso un impegno, e sto partendo per una battuta di caccia.
+give %amount% coins %actor.name%
+halt
+end
+wait 1 s
+say Si questi possono bastare ... per mettere una taglia sulla testa di qualcuno!!!
+wait 1 s
+say Non saranno restituiti in nessun caso! Questa e' la regola di Boorg!!!
+wait 1 s
+say Dimmi il nome della mia prossima preda! Come si chiama?
+set stato attivo
+global stato
+set mandante %actor.name%
+global mandante
+~
+/s
+q
+y

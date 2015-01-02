@@ -1,0 +1,29 @@
+trigedit 1383
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.name% == Nagash
+%teleport% avnagash 1381
+wpurge avnagash
+%echo% &7Una nebbia si vorma vorticosamente attorno a Nagash circondandolo!&0
+wload mob 1384
+%force% avatar segui nagash
+elseif %actor.name% == Dioniso
+%teleport% avdionis 1381
+wpurge avdionis
+%echo% &1L'ombra di Dioniso si contorce e scatta impazzita!&0
+wload mob 1383
+%force% avatar segui dioniso
+elseif %actor.name% == Destiny
+%teleport% avdestiny 1381
+wpurge avdestiny 
+wload mob 1385
+%echo% &5Dalla schiena di Destiny emergono enormi, orridi tentacoli vivi!&0
+%force% avata kill destiny
+else
+end
+~
+/s
+q
+y

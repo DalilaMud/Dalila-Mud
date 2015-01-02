@@ -1,0 +1,11 @@
+trigedit 5297
+6  
+/c 
+%echo% %self.name% &Zcompare in una nuvoletta di fumo...&0
+%load% obj 5263 %self% inv
+follow Malus
+wear anello
+~
+/s
+q
+y

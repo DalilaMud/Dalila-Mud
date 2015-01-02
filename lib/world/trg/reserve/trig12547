@@ -1,0 +1,31 @@
+trigedit 12547
+6  
+/c 
+if %azione% == pagare
+if %amount% >= %cambio%
+wait 3
+nod
+mload mob %vnum%
+say proprietario %actor.name%
+wait 5
+say ecco a voi
+unset cambio
+unset pagare
+unset azione
+unset vnum
+unset timer
+else
+wait 2
+drop %amount% coins
+wait 5
+say non bastano
+end
+else
+wait 3
+say ?
+drop %amount% coins
+end
+~
+/s
+q
+y

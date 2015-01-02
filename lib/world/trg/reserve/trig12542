@@ -1,0 +1,50 @@
+trigedit 12542
+6  
+/c 
+if %object.vnum% < 12699
+if %object.name% /= diamante || %object.name% /= topazio || %object.name% /= smeraldo || %object.name% /= rubino || %object.name% /= zaffiro
+eval gioielleriaP %gioielleriaD% + 1
+global gioielleriaP
+mat %gioielleria% drop all
+end
+if %object.name% /= pelle || %object.name% /= pelliccia || %object.name% /= stoffa
+eval pellicceriaP %pellicceriaP% + 1
+global pellicceriaP
+mat %pellicceria% drop all
+end
+if %object.type% == potion
+eval alchimistaP %alchimistaP% + 1
+global alchimistaP
+mat %alchimista% drop all
+end
+if %object.name% /= quercia || %object.name% /= mogano || %object.name% /= betulla || %object.name% /= frassino || %object.name% /= castagno || %object.name% /= noce || %object.name% /= abete || %object.name% /= pioppo
+if %object.type% != scudo
+eval falegnameP %legnameP% + 1
+global falegnameP
+mat %falegname% drop all
+end
+end
+if %object.type% == food
+eval cibo %cibo% + 1
+global cibo
+mat %alimentare% drop all
+end
+if %object.type% == armor || %object.type% /= scudo
+if %object.name% /= oro || %object.name% /= rame || %object.name% /= argento || %object.name% /= stagno || %object.name% /= ferro || %object.name% /= zinco
+eval fabbroP %fabbroP% + 1
+global fabbroP
+mat %fabbro% drop all
+end
+end
+if %object.type% == weapon || %object.type% == bow || %object.name% /= arco || %object.name% /= freccia
+eval armeriaP %armeria% + 1
+global armeriaP
+mat %armeria% drop all
+end
+set pg %actor.name%
+global pg
+end
+~
+/s
+q
+y

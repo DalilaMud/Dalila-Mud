@@ -1,0 +1,19 @@
+trigedit 2573
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &4Il pupazzetto&2 si alza e volge lo sguardo su di te&0
+wait 1 s
+oecho &4Il pupazzetto &2si guarda intorno in cerca di piccioni&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &4Il pupazzetto &5dice, 'l'unico piccione buono e' un piccione morto'&0
+else
+oecho &4Il pupazzetto &5dice, 'morte al re piccione'&0
+end
+~
+/s
+q
+y

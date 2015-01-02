@@ -1,0 +1,18 @@
+trigedit 1457
+6  
+/c 
+wait 1 s
+if %actor.name% != artemis
+osend %actor.name% &1&xVieni distrutto dalla tua stessa follia&0
+oechoaround %actor.name% &9&xLa Lama del Caos ingoia nei neri abissi l'anima di %actor.name%&0
+wait 1 s
+odamage %actor.name% 5000
+halt
+end
+wait 1 s
+oechoaround artemis &9&xViene circondato dall'Oscura Volonta' dei Grandi Antichi&0
+osend artemis &9&xSenti l'Oscuro potere degli insondabili abissi del Caos in te&0
+~
+/s
+q
+y

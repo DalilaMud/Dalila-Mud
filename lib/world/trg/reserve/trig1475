@@ -1,0 +1,23 @@
+trigedit 1475
+6  
+/c 
+mecho &9&xMiga spruzza una nube di nero inchiostro e fugge!&0
+dg_cast 'peace' %actor.name%
+dg_cast 'blind' %actor.name%
+eval fuga %random.4%
+if %fuga% == 1
+mgoto 2095262
+elseif %fuga% == 2
+mgoto 2095263
+elseif %fuga% == 3
+mgoto 2095362
+elseif %fuga% == 4
+mgoto 2095363
+end
+dg_cast 'heal'
+dg_cast 'heal'
+dg_cast 'heal'
+~
+/s
+q
+y

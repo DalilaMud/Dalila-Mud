@@ -1,0 +1,18 @@
+trigedit 28170
+6  
+/c 
+if %actor.name% == %x%
+%echo% %self.name% ringhia feroce e ti blocca il passaggio verso sud.
+wait 1 s
+say Grrr...rrr
+elseif %actor.name% != %self.name%
+%force% %actor% sud
+else
+sud
+end
+set x cyrgo
+global x
+~
+/s
+q
+y

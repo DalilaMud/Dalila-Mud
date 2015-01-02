@@ -1,0 +1,42 @@
+trigedit 28062
+6  
+/c 
+if %key% == ok
+if %ide% == %actor.name%
+unset key
+unset ide
+wait 2 s
+grin
+eval num %random.9%
+wait 3 s
+mforce %actor% emote &6 lancia una pietra sferica e liscia sul tavolo!! &0
+wait 5 s
+mforce %actor% emote &6 vede la pietra girare e rigirare sui solchi del tavolo. &0
+wait 5 s
+mforce %actor% emote &6 segue con lo sguardo speranzoso la sfera che rallenta sempre piu'. &0
+wait 5 s
+mforce %actor% emote &6 quasi sviene quando la pietra si ferma sul numero &x&6 %num% !! &0
+wait 3 s
+if %speech% == %num%
+say &x&1 Complimenti!! HAI VINTO !!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &1 Ecco il tuo premio!!! &0
+give 6 goccia %actor.name%
+else
+say &3 Peccato, hai PERSO!! Riprova dai!! &0 !!SOUND(graveyrd.wav)
+end
+else
+say &3 Lasciamo finire la partita di %ide% per favore!! &0
+end
+else
+end
+~
+/s
+q
+y

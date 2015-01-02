@@ -1,0 +1,1139 @@
+#9000
+mago~
+il mago~
+Un mago e' qui steso a terra morente...
+~
+Il mago sembra vecchio, eppure sprigiona ancora un'aura di vera
+potenza. E' vestito con abiti molto belli e indossa anelli e
+braccialetti.     
+~
+~
+~
+~
+26635 8 900 -1 -1 -1 -1 -1 E
+50 2 2 1d1+30000 2d8+18
+50 160000
+8 8 1
+E
+#9001
+Hanry fornaio~
+Hanry il fornaio~
+Hanry il rubizzo panettiere ha una faccia che ispira simpatia.
+~
+Non farti ingannare, se lo disturbi ti puo' fare a pezzi senza
+che tu neanche te ne accorga.     
+~
+~
+~
+~
+26635 1032 900 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 2d8+18
+40 160000
+8 8 1
+Spec: 0
+E
+#9002
+rigattiere~
+il rigattiere~
+Il rigattiere e' dietro al banco ed e' impaziente di esserti utile.
+~
+Il grosso rigattiere puo' spostare pesi fino a 200 kg con le sue
+spalle.    
+~
+~
+~
+~
+26635 8 900 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 2d8+18
+32 160000
+8 8 1
+E
+#9003
+arkon armiere~
+Arkon l'armiere di Cimurra~
+Arkon l'armiere di Cimurra e' qui in attesa di poterti servire.
+~
+Egli e' molto robusto e rozzo ma nel suo campo non ha rivali.
+La qualita' delle sua armature e' conosciuta in tutta la Daresia.
+~
+~
+~
+~
+26635 8 900 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 2d8+18
+39 160000
+8 8 1
+Spec: 0
+E
+#9004
+fabbro~
+il fabbro~
+Un fabbro e' qui a mostrarti le sue nuovi crezioni.
+~
+Un vecchio fabbro ma molto forte. Ha costruito piu' armature lui
+di quelle che tu potrai mai vedere in vita tua.     
+~
+~
+~
+~
+26635 8 900 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 2d8+18
+45 160000
+8 8 1
+E
+#9005
+macellaio~
+il macellaio~
+Il macellaio ti guarda brevemente e poi SLAM, cala la sua mannaia.
+~
+E' copero di sangue e frattaglie di animale. I suoi capelli sembrano
+unti e non curati.      
+~
+~
+~
+~
+11 0 100 -1 -1 -1 -1 -1 E
+50 3 -20 3d5+30000 3d8+2
+33 40000
+8 8 1
+E
+#9006
+regina ehlana ~
+La Regina Ehlana~
+La Regina Ehlana e' qui che sorride a tutti.
+~
+La Regina e' bella. Sembra nascondere bene la sua eta'. La Regina
+ha vissuto molte vicende qui nella sua citta'. Ogni tanto gli
+piace ricordare avventure forse mai vissute, ma certamente reali
+nei personaggi che cita. E' la custode della citta' ma ha perso
+completamente il suo potere. Si parla inoltre di un suo amante,
+un guerriero molto abile con l'arco, allontanato dalla citta'
+dal Re che li ha scoperti in effusioni amorose.     
+~
+~
+~
+~
+1114185 33928 900 -1 -1 -1 -1 -1 E
+100 0 0 1d1+30000 4d8+20
+81 160000
+6 6 2
+E
+#9007
+roberta~
+La splendida Roberta~
+Roberta con i suoi splendidi occhioni e' qui pronta ad ospitarti!
+~
+Da dietro la sua frangetta sbarrazzina ti guarda con occhi maliziosi. Senti che
+con lei puoi parlare di tutti i tuoi problemi visto che lei e pronta ad aiutare
+tutti quelli che glie lo chiedono. Non sei il primo e non sarai senz'altro
+l'ultimo avventuriero che si sfoghera con la piccola e tenera Receptionist di
+cimmura.    
+~
+~
+~
+~
+26634 0 900 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 2d8+12
+32 160000
+8 8 2
+E
+#9008
+locandiere krankl~
+il locandiere krankl~
+Krankl il locandiere e' qui pronto a servirti.
+~
+undefined    
+~
+~
+~
+~
+26635 8 800 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 1d8+18
+37 160000
+8 8 1
+E
+#9009
+galletto~
+un galletto~
+Un galletto sta razzolando qui.
+~
+Ma che ci fa un galletto in piazza? Sembra che questi strani animali,
+appena importati da terre oltreoceano, abbiano conquistato la
+citta'. In fondo non fanno male a nessuno...razzolano e raccolgono
+i rifiuti.     
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+1 18 9 1d1+10 1d3+1
+0 0
+8 8 2
+E
+#9010
+tacchino~
+un tacchino~
+Un tacchino sta razzolando qui.
+~
+Ma che ci fa un tacchino in piazza? Sembra che questi strani animali,
+appena importati da terre oltreoceano, abbiano conquistato la
+citta'. In fondo non fanno male a nessuno...razzolano e raccolgono
+i rifiuti.     
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+2 18 9 1d1+18 1d4+1
+2 0
+8 8 2
+E
+#9011
+cappone~
+un cappone~
+Un cappone sta razzolando qui.
+~
+Ma che ci fa un cappone in piazza? Sembra che questi strani animali,
+appena importati da terre oltreoceano, abbiano conquistato la
+citta'. In fondo non fanno male a nessuno...razzolano e raccolgono
+i rifiuti.     
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+3 17 9 1d1+25 1d5+1
+2 0
+8 8 2
+E
+#9012
+guildmaster master peloi~
+il Guildmaster peloi~
+Il tuo guildmaster e' seduto in terra ed e' pronto ad insegnarti nuove cose.
+~
+Sebbene il guildmaster sembri vecchio e stanco, puoi chiaramente
+vedere l'aura di sapere che lo circonda.     
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 0 -10 6d10+30000 1d8+24
+66 100000
+8 8 1
+Spec: 7
+E
+#9013
+guildmaster master alcione~
+il guildmaster dei cavalieri alcioni~
+Il tuo guildmaster sta pregando Dio per riuscire ad insegnarti qualcosa.
+~
+Non hai nessun dubbio sul fatto che il tuo guildmaster e' in stretto
+contatto con Dio; ha una tale aria pacifica.... Noti anche che
+e' circondato da una aura bianca.     
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 0 -10 6d10+30000 1d8+24
+75 100000
+8 8 1
+Spec: 7
+E
+#9014
+Cavaliere Alcione~
+Un Cavaliere Alcione~
+Un Cavaliere Alcione e' a guardia dell'entrata.
+~
+Questo e' un cavaliere nel pieno delle proprie forze con moltissima
+esperienza.    
+~
+~
+~
+~
+59403 136 900 -1 -1 -1 -1 -1 E
+50 0 -5 6d10+10000 1d8+22
+35 60000
+8 8 1
+Spec: 6
+E
+#9015
+Guardia Peloi~
+Una Guardia Peloi~
+Una Guardia dei Peloi e' qui a controllare l'entrata.
+~
+Non c'e' niente da dire o da discutere... e' una guardia Peloi.
+Occhio a cosa dici o cosa fai se ti preme la vita.     
+~
+~
+~
+~
+59403 136 1000 -1 -1 -1 -1 -1 E
+50 0 -5 6d10+10000 1d8+22
+31 160000
+8 8 1
+Spec: 6
+E
+#9016
+arciere~
+un arciere~
+Un arciere e' qui a vendere i suoi manufatti.
+~
+undefined    
+~
+~
+~
+~
+24586 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+30000 1d8+12
+30 80000
+8 8 1
+Spec: 0
+E
+#9017
+cameriere~
+un cameriere~
+Un cameriere gira in mezzo ai tavoli.
+~
+Sembra un vecchio e stanco cameriere. Barcolla vistosamente, sembra
+che abbia bevuto...      
+~
+~
+~
+~
+24586 0 900 -1 -1 -1 -1 -1 E
+10 18 7 1d1+80 2d8+4
+7 80000
+8 8 1
+E
+#9018
+drake mantenitore pace~
+il mantenitore della pace~
+Drake, il mantenitore della pace, e' qui per intervenire al primo
+~
+Sembra molto forte e potente. Non risponde a nessuno. Non per
+scortesia ma piuttosto perche' e' fedele all'impegno che si e'
+assunto. Il suo lavoro gli sembra importante. Guai a fermarlo!
+    
+~
+~
+~
+~
+6233 1032 1000 -1 -1 -1 -1 -1 E
+30 5 -1 1d1+500 3d10+7
+23 30000
+8 8 1
+E
+#9019
+cimmura guardia~
+La guardia di Cimmura~
+Una guardia di cimmura sta controllando la zona
+~
+
+Bardata nella lucida armatura da campo, con il fiero araldo di Cimmura sul
+pettorale, questa guardia effettua la sua ronda.    
+~
+~
+~
+~
+6217 8 1000 -1 -1 -1 -1 -1 E
+40 5 -6 1d1+480 3d10+10
+28 29000
+8 8 1
+E
+#9020
+spazzino~
+lo spazzino~
+Uno spazzino sta pulendo la citta'.
+~
+Che sporco lavoro che e' il suo. Deve sempre anticipare quegli
+sporchi gallinacei....altrimenti lo licenziano.     
+~
+~
+~
+~
+526409 0 800 -1 -1 -1 -1 -1 E
+1 20 9 1d1+10 1d4+1
+1 100
+8 8 1
+E
+#9021
+cane~
+un cane randagio~
+Un cane randagio e' in cerca di qualche rifiuto da mangiare.
+~
+Questo e' un piccolo cane che ha dei pezzi di carne in mezzo ai
+denti.     
+~
+~
+~
+~
+65769 32768 -200 -1 -1 -1 -1 -1 E
+1 20 10 1d6+4 1d4+0
+1 25
+8 8 1
+E
+#9022
+mercenario~
+il mercenario~
+Un mercenario sta attendendo un lavoro.
+~
+Puoi ben immaginare che non faccia niente se non ha un guadagno.
+    
+~
+~
+~
+~
+2058 0 -330 -1 -1 -1 -1 -1 E
+5 15 8 2d6+60 1d6+1
+4 900
+8 8 1
+E
+#9023
+mendicante~
+la mendicante~
+Una mendicante e' qui, chiede solo poche monete.
+~
+Sembra che la sorte sia in debito con la mendicante.     
+~
+~
+~
+~
+10 0 400 -1 -1 -1 -1 -1 E
+2 18 9 1d1+20 1d5+0
+2 100
+8 8 2
+E
+#9024
+Guardia Tolnedra~
+Guardia del regno di Tolnedra~
+La guardia del regno di Tolnedra controlla questa zona.
+~
+Imponente e forte come tutte le guardie del regno.
+Solo i migliori soldati possono aspirare a diventare guardie del regno
+~
+~
+~
+~
+612491748345649227 0 1000 -1 -1 -1 -1 3 E
+60 10 -7 30d20+1000 3d10+20
+51 29000
+8 8 1
+Spec: 45
+E
+#9025
+Cavaliere Genidian~
+il Cavaliere Genidian~
+Un Cavaliere Genidian e' a guardia dell'entrata.
+~
+Questo e' un cavaliere nel pieno delle proprie forze con moltissima
+esperienza.    
+~
+~
+~
+~
+59403 136 900 -1 -1 -1 -1 -1 E
+50 0 -5 6d10+10000 1d8+22
+31 60000
+8 8 1
+Spec: 6
+E
+#9026
+Cavaliere Cyrinic~
+il Cavaliere Cyrinic~
+Un Cavaliere Cyrinic e' a guardia dell'entrata.
+~
+Questo e' un cavaliere nel pieno delle proprie forze con moltissima
+esperienza.    
+~
+~
+~
+~
+59403 136 900 -1 -1 -1 -1 -1 E
+50 0 -5 6d10+10000 1d8+22
+30 60000
+8 8 1
+Spec: 6
+E
+#9027
+garzone bottega animali~
+il garzone della bottega degli animali~
+C'e' il garzone che accudisce gli animali che ha qualcosa in mano.
+~
+Come lo guardi, egli apre le mani e ti mostra un ratto!     
+~
+~
+~
+~
+26634 0 1000 -1 -1 -1 -1 -1 E
+50 10 1 1d1+30000 20d4+10
+45 9000
+8 8 1
+Spec: 0
+E
+#9028
+micetto~
+un micetto~
+Un piccolo fedele micetto e' qui.
+~
+Il micetto e' un astuto, piccolo, fiero combattente.     
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+1 19 9 1d6+11 1d4+0
+0 100
+8 8 0
+E
+#9029
+cucciolo~
+un cucciolo~
+Un piccolo fedele cucciolo e' qui.
+~
+Il cucciolo e' un astuto, piccolo, fiero combattente.     
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+2 18 9 1d6+19 1d4+0
+2 125
+8 8 0
+E
+#9030
+levriero~
+un levriero~
+Un piccolo, veloce, fedele levriero e' qui.
+~
+Il levriero e' un astuto, fiero combattente.     
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+3 18 8 1d12+22 1d5+1
+2 200
+8 8 0
+E
+#9031
+rottweiler~
+il rottweiler~
+Un grande, feroce rottweiler e' qui.
+~
+Il rottweiler e' un forte, fiero combattente.     
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+4 17 8 1d12+35 1d6+1
+3 800
+8 8 0
+E
+#9032
+lupo~
+un lupo~
+Un grande lupo ammaestrato e' qui..
+~
+Il lupo e' un forte combattente che non conosce la paura.    
+
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+5 16 8 1d12+47 1d7+2
+4 1600
+8 8 0
+E
+#9033
+Wally Cartografo Postino~
+Wally postino, ex cartografo!~
+Wally e qui intento a smistare la posta!
+~
+Vedi che Wally per leggere la posta deve strizzare gli occhi.  Il lavoro che
+per anni ha svolto come cartografo ha rovinato la sua vista ed ora e costretto
+a lavorare qui come postino
+~
+~
+~
+~
+8267 32808 900 -1 -1 -1 -1 -1 E
+55 0 -10 1d1+30000 2d8+32
+47 0
+8 8 1
+Spec: 1
+E
+#9034
+guildmaster master pandion~
+il Guildmaster Pandion~
+Il tuo guildmaster e' qui in attesa di insegnarti qualcosa.
+~
+Sebbene il guildmaster sembri vecchio e stanco, puoi chiaramente
+vedere l'aura di sapere che lo circonda.     
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 0 -10 6d10+30000 1d8+24
+74 100000
+8 8 1
+Spec: 7
+E
+#9035
+guildmaster master cyrinic~
+il Guildmaster Cyrinic~
+Il tuo guildmaster e' qui in attesa di insegnarti qualcosa.
+~
+Sebbene il guildmaster sembri vecchio e stanco, puoi chiaramente
+vedere l'aura di sapere che lo circonda.     
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 0 -10 6d10+30000 1d8+24
+68 100000
+8 8 1
+Spec: 7
+E
+#9036
+guildmaster master genidian~
+il Guildmaster Genidian~
+Il tuo guildmaster e' qui in attesa di insegnarti qualcosa.
+~
+Sebbene il guildmaster sembri vecchio e stanco, puoi chiaramente
+vedere l'aura di sapere che lo circonda.     
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 0 -10 6d10+30000 1d8+24
+68 100000
+8 8 1
+Spec: 7
+E
+#9037
+Cavaliere Pandion~
+il Cavaliere Pandion~
+Un Cavaliere Pandion e' a guardia dell'entrata.
+~
+Questo e' un cavaliere nel pieno delle proprie forze con moltissima
+esperienza.    
+~
+~
+~
+~
+59403 136 900 -1 -1 -1 -1 -1 E
+50 0 -5 6d10+30000 1d8+22
+31 60000
+8 8 1
+Spec: 6
+E
+#9038
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#9040
+guardia esercito~
+Un malvivente~
+Un malvivente tenta di metterti paura.
+~
+E' veramente cattivo!
+~
+~
+~
+~
+2201707610122 33555456 -100 -1 -1 -1 -1 -1 E
+20 17 10 20d10+100 5d12+3
+14 1000
+8 8 1
+Str: 18
+StrAdd: 30
+Dex: 15
+E
+T 9040
+#9041
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 8 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 0
+E
+#9043
+Aziz mercante~
+Aziz il mercante venuto da Jiroch~
+Aziz il padrone del Bazar
+~
+Aziz e un cittadino venuto dalla lontana citta di Jiroch
+Ha fatto fortuna aprendo questo bazar 
+~
+~
+~
+~
+10 8 1000 -1 -1 -1 -1 -1 E
+50 15 -10 1d1+2000 10d10+5
+35 0
+8 8 1
+Spec: 0
+E
+#9044
+Boe~
+Boe~
+Boe il barista sta pulendo dei boccali dietro il bancone
+~
+Capelli grigi, addosso un grembiule blu scuro che puzza della birra che serve
+continuamente
+~
+~
+~
+~
+10 0 -1000 -1 -1 -1 -1 -1 E
+30 20 10 1d1+500 1d1+10
+19 0
+8 8 1
+Spec: 0
+E
+#9045
+malvivente criminale cimmura~
+un criminale scapato dal carcere~
+Un criminale scapato dal carcere e' qui' in agguato
+~
+Fa veramente paura, un tipaccio!
+~
+~
+~
+~
+2201707612298 1024 -40 -1 -1 -1 -1 3 E
+20 16 5 20d6+50 4d10+4
+19 100
+8 8 1
+Spec: 0
+E
+#9050
+criminale malvivente~
+un criminale di Cimmura~
+Un criminale di Cimmura e' qui che ti osserva
+~
+Fa paura!. Che tipaccio!
+~
+~
+~
+~
+36030996579262474 33817640 -50 -1 -1 -1 -1 -1 E
+40 15 -5 30d10+400 6d10+5
+21 1000
+8 8 1
+E
+#9051
+evaso ergastolano~
+un ergastolano evaso dalla prigione di Cimmura~
+Un ergastolano evaso dalla prigione di Cimmura e' qui in agguato
+~
+Meglio girare alla larga.........
+~
+~
+~
+~
+2199560298506 33948712 -100 -1 -1 -1 -1 -1 E
+1 12 1 30d8+50 10d10+8
+0 3000
+8 8 1
+E
+T 9002
+#9052
+scagnozzo~
+uno scagnozzo di Gollum~
+Uno scagnozzo di Gollum e' qui
+~
+It looks unfinished.
+~
+~
+~
+~
+4398046511146 0 0 -1 -1 -1 -1 -1 E
+20 17 3 20d10+0 3d6+10
+15 0
+8 8 1
+E
+#9055
+fedele seguace~
+un fedele seguace di Gollum~
+Un fedele seguace di Gollum e' qui di guardia
+~
+Non dice nulla
+~
+~
+~
+~
+6597069940746 33555466 -30 -1 -1 -1 -1 -1 E
+50 10 1 30d12+100 10d10+10
+42 10000
+8 8 1
+BareHandAttack: 3
+E
+T 9040
+#9060
+soldato~
+un soldato delle milizie della Tolnedra~
+Un soldato delle milizie della Tolnedra e' qui
+~
+Fa la guardia
+~
+~
+~
+~
+36171733530576936 33555464 -10 -1 -1 -1 -1 -1 E
+35 18 6 30d10+100 2d8+10
+19 3454
+8 8 1
+BareHandAttack: 3
+E
+#9061
+guardia personale~
+una guardia del corpo di Gollum~
+Una guardia del corpo di Gollum e' qui' attento.
+~
+Si guarda continuamente intorno
+~
+~
+~
+~
+6597069772810 1032 -100 -1 -1 -1 -1 -1 E
+45 14 3 30d10+150 5d10+10
+35 0
+8 8 1
+BareHandAttack: 12
+Spec: 0
+E
+T 9040
+#9062
+cavallo~
+un cavallo da tiro che traina una carovana~
+Un cavallo da tiro
+~
+A bordo ci sono 2 uomini all'apparenza comuni.
+~
+~
+~
+~
+36028805684650010 0 0 -1 -1 -1 -1 -1 E
+20 20 0 1d1+5000 1d1+0
+16 0
+8 8 1
+E
+#9070
+mago adepto~
+Un mago adepto di Gollum~
+Un mago adepto di Gollum e' qui che osserva.
+~
+Porta una tunica rossa e una cinta nera
+~
+~
+~
+~
+168172 167773192 -100 -1 -1 -1 -1 -1 E
+15 15 5 6d6+150 4d6+1
+12 2000
+8 8 1
+BareHandAttack: 12
+E
+#9071
+mago sciamano~
+un Mago sciamano~
+Un Mago sciamano e' qui pronto ad attaccarti.
+~
+I suoi occhi maligni ti terrorizzano.
+~
+~
+~
+~
+4398046685358 1180712 0 -1 -1 -1 -1 -1 E
+35 5 -3 1d12+500 3d12+5
+18 1600
+8 8 1
+BareHandAttack: 12
+E
+#9072
+guardiasigillo guardia~
+una guardia del sigillo~
+Un Guardiano del Sigillo e' qui di guardia.
+~
+Sembra irremovibile
+~
+~
+~
+~
+4398046754858 1192 -100 -1 -1 -1 -1 -1 E
+40 10 -5 1d12+600 5d12+5
+25 20000
+8 8 1
+BareHandAttack: 2
+E
+#9073
+scheletro~
+uno scheletro umano~
+Uno scheletro umano animato e' qui pronto ad attaccarti.
+~
+I suoi occhi brillano di una luce rossastra.
+~
+~
+~
+~
+8594567272 1064 -100 -1 -1 -1 -1 -1 E
+10 15 6 4d8+40 2d4+1
+7 0
+8 8 0
+E
+#9074
+scheletro gigante ossa~
+uno scheletro gigante~
+Uno scheletro gigante e' qui' pronto ad attaccarti.
+~
+Nella cassa toracica arde una palla infuocata.
+~
+~
+~
+~
+8594567178 2098216 -100 -1 -1 -1 -1 -1 E
+20 13 3 8d8+140 1d1+1
+14 0
+8 8 0
+E
+#9075
+torken arcimago mago~
+Torken l'Arcimago~
+Torken l'Arcimago ti fissa con occhi di fuoco!!
+~
+Un incubo!!!! Uno dei peggiori!
+~
+~
+~
+~
+4406703794186 16778280 0 -1 -1 -1 -1 -1 E
+50 10 -5 1d1+1000 5d10+10
+41 0
+8 8 1
+Spec: 15
+E
+#9076
+brutto ceffo~
+un brutto ceffo~
+Un brutto ceffo e' qui' per farti la pelle
+~
+E' veramente brutto.
+~
+~
+~
+~
+140746615167082 33555496 -1000 -1 -1 -1 -1 -1 E
+50 5 -9 30d15+300 30d10+15
+34 0
+8 8 1
+E
+#9080
+primo discepolo statua pietra~
+Una statua di pietra~
+Una statua di pietra con sembianze umane e' qui.
+~
+Sembra cosi... viva!.
+La perfezione dei suoi lineamenti e' sbaloridtiva sembra che ti possa
+dire qualcosa da un momento all'altro... come aspettasse una tua parola
+un NOME.
+
+~
+~
+~
+~
+253963 33834 900 -1 -1 -1 -1 -1 E
+1 -30 -20 1d1+30000 30d127+50
+1 0
+6 6 1
+E
+T 9080
+#9081
+secondo discepolo pietra Klain statua~
+Il discepolo~
+La statua di un uomo e' davanti ai tuoi occhi
+~
+Ora che lo sai ti sembra di svenire.
+La statua era una persona viva... terribile.
+~
+~
+~
+~
+778315 33834 900 -1 -1 -1 -1 -1 E
+0 -30 -20 1d1+30000 30d127+50
+0 0
+6 6 1
+E
+T 9081
+#9082
+terzo discepolo pietra statua~
+Il discepolo~
+La statua di un uomo e' davanti ai tuoi occhi
+~
+Sei di fronte al terzo discepolo, vittima di questa folle storia.
+
+Coraggio sai cosa dirgli!
+~
+~
+~
+~
+253967 33834 900 -1 -1 -1 -1 -1 E
+0 -30 10 30d1000+30000 1d1+50
+0 0
+6 6 1
+E
+T 9082
+#9083
+quarto discepolo pietra statua~
+Il discepolo~
+La statua di un uomo e' davanti ai tuoi occhi
+~
+Ha le mani aperte come se stesse aspettando di ricevere qualcosa.
+~
+~
+~
+~
+253963 33834 900 -1 -1 -1 -1 -1 E
+1 -30 -20 1d1+30000 30d100+50
+1 0
+6 6 1
+E
+T 9083
+#9084
+Un enorme demone blu~
+Il demone blu~
+Il demone blu e' qui !
+~
+Viscido, mezzo topo, mezzo diavolo. Un vero skifo
+~
+~
+~
+~
+254060 33832 0 -1 -1 -1 -1 -1 E
+45 10 -5 10d10+350 4d10+10
+31 500000
+8 8 1
+E
+#9124
+stinky ladro guerriero~
+Stinky il Ladro Guerriero~
+Stinky il Ladro Guerriero e' qui appostato.
+~
+Non riesci quasi a vederlo ma lui osserva molto attentamente i tuoi movimenti.
+~
+~
+~
+~
+2394736325320766 2199057335338 0 -1 -1 -1 -1 3 E
+60 12 -5 30d8+250 5d8+9
+57 0
+8 8 1
+BareHandAttack: 14
+Str: 18
+Dex: 18
+Con: 16
+E
+#9125
+draz scaltro~
+Draz lo Scaltro~
+Draz lo Scaltro e' qui nascosto.
+~
+Ti sta guardando.
+~
+~
+~
+~
+140737488373950 34079786 0 -1 -1 -1 -1 3 E
+60 15 -7 30d10+240 6d6+10
+42 0
+8 8 1
+Str: 18
+Dex: 18
+E
+#9160
+guardia carceriere secondino~
+La guardia carceraria~
+John ,La guardia carceraria di Cimmura e' qui pronto a sbatterti in prigione
+~
+Ha un aspetto Severo ed austero.
+Possenti muscoli si tendono ad ogni suo minimo movimento.
+Ha 2 mani enormi ,che potrebbero stritolare un bue.
+Non provarci neanche ,a scappare ,tanto e' inutile!!!!
+~
+~
+~
+~
+537016330 1064 -500 -1 -1 -1 -1 -1 E
+50 10 -5 25d20+500 6d6+10
+36 1000000
+8 8 1
+BareHandAttack: 13
+E
+#9162
+manolesta locandiere~
+Manolesta il locandiere~
+Manolesta il locandiere e' qui che ti guarda con sospetto.
+~
+It looks unfinished.
+~
+~
+~
+~
+2251799948159114 1032 -10 -1 -1 -1 -1 -1 E
+100 -30 -9 30d6+30000 2d20+50
+86 0
+8 8 1
+Spec: 0
+E
+T 9003
+T 9001
+#9163
+caliostro gatto nero shade ~
+Caliostro il gatto Nero di &1Shade&0~
+Caliostro il gatto Nero di &1Shade&0 gironzola qui, non ti senti sicuro....
+~
+E' un gatto trasparente, dal manto nero e con gli occhi rossi.
+Emana un aura malvagia.
+~
+~
+~
+~
+8388744 137600050240 0 -1 -1 -1 5 -1 E
+10 10 -10 10d30+1000 10d4+10
+9 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+E
+$

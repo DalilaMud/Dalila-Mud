@@ -1,0 +1,52 @@
+trigedit 1481
+6  
+/c 
+if %actor.clan% != 2
+halt
+end
+wait 2
+switch %actor.rank%
+case 30
+emote scatta sull'attenti!
+wait 1 s
+if %direction% == east
+say Benvenuto Sire Dolmant!
+else
+say Arrivederci Sire Dolmant!
+end
+break
+case 27
+emote scatta sull'attenti!
+wait 1 s
+if %direction% == east
+say Benvenuto Siniscalco!
+else
+say Arrivederci Siniscalco!
+end
+break
+case 18
+emote scatta sull'attenti!
+wait 1 s
+if %direction% == east
+say Benvenuto Giudice!
+else
+say Arrivederci Giudice!
+end
+break   
+case 13
+emote scatta sull'attenti!
+wait 1 s
+if %direction% == east
+say Benvenuto Inquisitore!
+else
+say Arrivederci Inquisitore!
+end
+break
+default
+halt
+break
+done
+~
+/s
+q
+y

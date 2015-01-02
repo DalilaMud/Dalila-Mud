@@ -1,0 +1,26 @@
+trigedit 31518
+6  
+/c 
+wait 1
+if %actor% == NULL
+  halt
+end
+eval colpi %random.4%
+if %colpi% == 1
+ mecho &1%self.name% si getta verso il collo di %actor.name% e lo morde con forza succhiando il suo sangue!&0
+ dg_cast 'energy drain' %actor.name%
+elseif %colpi% == 2
+ mecho &6%self.name% colpisce %actor.name% con forza trasmettendogli una scarica gelida!&0
+ dg_cast 'chill touch' %actor.name%
+elseif %colpi% == 3
+ mecho &0%self.name% sputa della saliva verde negli occhi di %actor.name%!
+ dg_cast 'poison' %actor.name%
+elseif %colpi% == 4
+ mecho &5%self.name% soffia ovunque del gas tossico cercando di soffocarti!&0
+ dg_cast 'gas breath'
+end
+ 
+~
+/s
+q
+y

@@ -1,0 +1,112 @@
+trigedit 12523
+6  
+/c 
+if %actor.name% == Makud || %actor.name% == Lisandro
+if %speech% == guardia libera
+unset azione
+end
+if %speech% /= stanza
+set %speech%
+if %speech% != 0
+global stanza
+set piazzata on
+global piazzata
+end
+wait 1
+nod
+wait 1
+mgoto %stanza%
+wait 5
+emote si posiziona di guardia seguendo gli ordini
+end
+end
+if %piazzata% == on
+if %attenti% == on
+wait 1 s
+if %actor.name% == Rodric || %actor.name% == Khrom || %actor.name% == Mazzaferro || %actor.name% == alorie
+set pass ok
+global pass
+end
+if %actor.name% ==  khardan || %actor.name% == magicorty || %actor.name% == sirgyles || %actor.name% == rox
+set pass ok
+global pass
+end
+if %actor.rank% > 6
+set pass ok
+global pass
+end
+if %actor.name% ==  masterhous || %actor.name% == verena
+set pass ok
+global pass
+end
+if %actor.rank% > 5
+set pass ok
+global pass
+end
+if %pass% == ok
+if %speech% == riposo
+wait 1 s
+nod
+wait 1 s
+say Come lei desidera, Lord %actor.name%
+unset azione
+end
+if %speech% == attenti
+wait 1 s
+nod
+wait 1 s
+emote scatta sull'attenti!
+set azione on
+global azione
+end
+if %speech% == follami
+say Come lei desidera, Lord %Actor.name%
+wait 1 s
+foll %actor.name%
+end
+if %speech% == sfollami 
+wait 1 s
+foll %self%
+end
+if %speech% == stop
+stop
+end
+if %speech% == devo entrare
+wait 4
+if %self.room% == 27000
+nod
+wait 4
+mload obj 27000
+unlock cancella
+open cancella
+mforce %actor% nord
+close cancella
+lock cancella
+mat 3 drop all
+end
+end
+if %speech% == devo uscire
+wait 4
+if %self.room% == 27001
+nod
+wait 4
+mload obj 27000
+unlock cancella
+open cancella
+mforce %actor% sud
+close cancella
+lock cancella
+mat 3 drop all
+end
+end
+end
+else
+wait 1 s
+emote guarda con aria indifferente Lord %Actor.name%
+end
+end
+unset pass
+~
+/s
+q
+y

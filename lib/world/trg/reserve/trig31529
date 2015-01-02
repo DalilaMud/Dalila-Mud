@@ -1,0 +1,16 @@
+trigedit 31529
+6  
+/c 
+if %actor.vnum% == -1
+eval casuale %random.10%
+wait 2
+if %casuale% == 1
+ %send% %actor.name% &5Una freccia partita da una feritoia della seconda cerchia di mura ti colpisce in pieno!&0
+ %echoaround% %actor.name% &5Una freccia partita da una feritoia della seconda cerchia di mura colpisce in pieno %actor.name%!&0
+ %damage% %actor.name% 150
+end
+end
+~
+/s
+q
+y

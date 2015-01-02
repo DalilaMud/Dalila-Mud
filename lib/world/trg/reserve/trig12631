@@ -1,0 +1,15 @@
+trigedit 12631
+6  
+/c 
+wait 1
+if %speech% == eccomi
+say 1 + %numero%
+end
+if %speech% /= 1
+eval numero %speech% - 1
+global numero
+end
+~
+/s
+q
+y

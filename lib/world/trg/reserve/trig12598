@@ -1,0 +1,10 @@
+trigedit 12598
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &1&x %actor.name% colpisce %victim.name% con uno spell offensivo!&0
+end
+~
+/s
+q
+y

@@ -1,0 +1,140 @@
+trigedit 6676
+6  
+/c 
+* Lista comandi
+if %ascensore% == chiuso
+if %actor.clan% == 8 && %actor.rank% >= 50
+    wforce sentinella say Tenetevi forte si parte!!!
+    wait 1 s
+    wforce gatto say miaooo
+    if %speech% == armi || %speech% == pozioni
+      wait 1 s
+      wecho Una sentinella muove una leva dal pomello verde.
+      wait 1 s
+      wecho Senti un forte rumore di argani.
+      wait 1 s
+      wecho La parete a ovest si apre
+      wdoor %roomsent% w room %room2%
+      wdoor %roomsent% w description Una parete mobile.
+      wdoor %roomsent% w flag a
+      wdoor %roomsent% w name parete
+      wdoor %room2% e room %roomsent%
+      wdoor %room2% e description Una parete mobile.
+      wdoor %room2% e flag a
+      wdoor %room2% e name parete
+      wforce sentinella say Siamo arrivati sani e salvi ... grazie al cielo!
+      wait 1 s
+      wforce gatto say Miaoooo
+      set ascensore armi
+      global ascensore
+    end
+    if %speech% == cibo || %speech% == generico
+      wait 1 s
+      wecho Una sentinella muove una leva dal pomello giallo.
+      wait 1 s
+      wecho Senti un rumore assordante provenire dall'altro lato della parete.
+      wait 2 s
+      wecho la parete a est si apre
+      wdoor %roomsent% e room %room3%
+      wdoor %roomsent% e description Una parete mobile.
+      wdoor %roomsent% e flag a
+      wdoor %roomsent% e name parete
+      wdoor %room3% w room %roomsent%
+      wdoor %room3% w description Una parete mobile.
+      wdoor %room3% w flag a
+      wdoor %room3% w name parete
+      wforce sentinella say Siamo arrivati sani e salvi ... Bisognerebbe brindare per festeggiare!
+      wait 1 s
+      wforce gatto say Miaoooo!!!
+      set ascensore cibo
+      global ascensore
+    end
+    if %speech% == uscita
+      wait 1 s
+      wecho Una sentinella muove una leva dal pomello bianco.
+      wait 1 s
+      wecho Senti un forte rumore di argani.
+      wait 2 s
+      wecho La parete a sud si apre
+      wdoor %roomsent% s room %room1%
+      wdoor %roomsent% s description Una parete mobile.
+      wdoor %roomsent% s flag a
+      wdoor %roomsent% s name parete
+      wdoor %room1% n room %roomsent%
+      wdoor %room1% n description Una parete mobile.
+      wdoor %room1% n flag a
+      wdoor %room1% n name parete
+      set ascensore aperto
+      global ascensore
+      wforce sentinella say Eccoci all'uscita....ancora vivi!!!
+      wpurge
+      wload mob %sbronxo%
+      wload mob %gatto%
+      wait 1 s
+      wforce gatto say Miiiaaao
+    end
+  else
+    if %actor.name% != una sentinella
+      wait 1 s
+      wforce gatto say Miaoooo!!!
+      wait 1 s
+      wecho Una sentinella sogghigna malefica.
+      wait 1 s
+      wecho La sentinella tira una leva dal pomello nero.
+      wait 1 s
+      wecho Una enorme botola si apre nel pavimento
+      wdoor %roomsent% d room %roomtrap%
+      wdoor %roomsent% d description Piu' che una botola e' scomparso l'intero pavimento, tranne la parte dove siede la guardia.
+      wdoor %roomsent% d flag a
+      wdoor %roomsent% d name botola
+      wait 1 s
+      wforce sentinella say Volevi fare il furbo con me !? Buon viaggio e Buon divertimento %actor.name%!
+      wait 1 s
+      wsend %actor% La sentinella ti spinge con forza nella botola.
+      wechoaround %actor% La sentinella salta fulminea giu' dal barile e spinge %actor.name% nella botola.
+      wforce %actor% d
+      wdoor %roomsent% d purge  
+      set ascensore chiuso
+      global ascensore
+      wait 1 s
+      wecho Una sentinella si risistema sulla botte.
+      wait 1 s
+      wecho La sentinella prende da una tasca una fiaschetta di pelle e beve felice.
+      wait 1 s
+      wforce sentinella say Ah com'e' buono il vino di Sendaria!!! Maa..aya meeeette sonno.
+    end
+  end
+elseif %ascensore% != chiuso && %ascensore% != aperto && %actor.name% != una sentinella
+  wforce gatto say Miiaooo!!!
+  wait 1 s
+  wforce sentinella say Come lei desidera!
+  wdoor %roomsent% w purge
+  wdoor %roomsent% e purge
+  wdoor %roomsent% s purge
+  wdoor %room1% n purge
+  
+  wdoor %room2% e room %roomsent%
+  wdoor %room2% e description Una parete mobile.
+  wdoor %room2% e flag ab
+  wdoor %room2% e name parete
+  
+  wdoor %room3% w room %roomsent%
+  wdoor %room3% w description Una parete mobile.
+  wdoor %room3% w flag ab
+  wdoor %room3% w name parete
+  wait 1 s
+  wecho &7SBOOONG&0
+  wait 1 s
+  wecho La parete a sud si chiude di scatto
+  wait 1 s
+  wforce sentinella say Dove avete detto che volete andare?
+  wait 1 s
+  wforce gatto say Miaaaooo!!!
+  set ascensore chiuso
+  global ascensore
+else
+end
+~
+/s
+q
+y

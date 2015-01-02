@@ -1,0 +1,25 @@
+trigedit 2023
+6  
+/c 
+wait 1
+msend cptifedexhyphys conteggio
+set risucchiamento &xL'altare inghiotte la fiamma.&0
+global risucchiamento
+set controllore cptifedexhyphys
+global controllore
+set annientamento &xLa corruzione di Xhyphys ti pervade&0
+global annientamento
+set ncontrollore Il controllore dei punti fede di Xhyphys
+global ncontrollore
+set cap 3000
+global cap
+set nbase 2043
+global nbase
+set god &5Xhyphys&0
+global god
+set statuetta 578
+global statuetta
+~
+/s
+q
+y

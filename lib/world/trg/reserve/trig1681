@@ -1,0 +1,15 @@
+trigedit 1681
+6  
+/c 
+* Lista comandi
+eval sciogli %random.10%
+if %sciogli% == 10
+mecho &6&xIl cavallo di ghiaccio si sta sciogliendo!&0
+wait 1 s
+mteleport self 28150
+say purgami
+end
+~
+/s
+q
+y

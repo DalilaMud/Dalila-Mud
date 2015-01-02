@@ -1,0 +1,12 @@
+trigedit 5203
+6  
+/c 
+%echo% &BIl tuo attacco costringe %self.name% a mostrare la sua vera natura!&0
+%echo% &RE' un replicante!!!&0
+%load% mob 5222
+%purge% %self%
+halt
+~
+/s
+q
+y

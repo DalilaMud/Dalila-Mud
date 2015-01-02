@@ -1,0 +1,18 @@
+trigedit 6680
+6  
+/c 
+* Lista comandi
+wait 2 s
+wecho Una raffica di vento ti congela il sangue.
+if %actor.clan% == 6 && %actor.rank% >= 11
+halt
+end
+wait 2 s
+wsend %actor.name% Due mani spettrali escono dal terreno, ti afferrano trascinandoti nel nulla.
+wteleport %actor.name% 6813
+wait 1 s
+wforce %actor.name% look
+~
+/s
+q
+y

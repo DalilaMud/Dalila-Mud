@@ -1,0 +1,30 @@
+trigedit 6699
+6  
+/c 
+if %actor.canbeseen%
+  if %object.vnum% == 2266
+    %echo% Il tesoriere posa delicatamente %object.name% su una bilancia, poi lo ripone dentro una cassaforte.
+    wait 1 s
+    if %self.has_item(2266)%
+      %purge% %object%
+      *%at% 1 drop lingotto
+      wait 1 s
+      say bene... 100 monete a libbra meno il sei per cento di interessi fa... 94 coins.
+      %self.gold(94)%
+      dai 94 coins %actor.name%
+      * drop all
+    else
+      say Non ci provare, altrimenti chiamo le guardie!!!
+    end
+  else
+    say non mi occupo di questo tipo di merce.
+    return 0
+  end
+else
+ Say Non Tratto con chi non posso vedere.
+ return 0
+end
+~
+/s
+q
+y

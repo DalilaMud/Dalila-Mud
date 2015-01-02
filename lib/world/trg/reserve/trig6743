@@ -1,0 +1,55 @@
+trigedit 6743
+6  
+/c 
+wdoor 6707 north purge
+wdoor 6707 north description Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+wdoor 6707 north flags abcde
+wdoor 6707 north name pannello
+wdoor 6707 north room 6713
+wdoor 6707 north key 748922
+wdoor 6713 south purge
+wdoor 6713 south description Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+wdoor 6713 south flags abcde
+wdoor 6713 south name pannello
+wdoor 6713 south room 6707
+wdoor 6713 south key 748922
+wdoor 6713 up purge
+wdoor 6713 up description Una botola incassata nel soffitto
+wdoor 6713 up flags abce
+wdoor 6713 up name botola
+wdoor 6713 up room 6705
+wdoor 6713 up key 65473
+wdoor 6705 down purge
+wdoor 6705 down description Una botola nascosta sotto un asse del pavimento.
+wdoor 6705 down flags abce
+wdoor 6705 down name botola
+wdoor 6705 down room 6713
+wdoor 6705 down key 65473
+wdoor 6705 west purge
+wdoor 6705 west description Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+wdoor 6705 west flags abce
+wdoor 6705 west name pannello
+wdoor 6705 west room 6701
+wdoor 6705 west key 6701
+wdoor 6701 east purge
+wdoor 6701 east description Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+wdoor 6701 east flags abce
+wdoor 6701 east name pannello
+wdoor 6701 east room 6705
+wdoor 6701 east key 6701
+wdoor 6701 west purge
+wdoor 6701 west description Una porta di legno
+wdoor 6701 west flags abc
+wdoor 6701 west name porta
+wdoor 6701 west room 6743
+wdoor 6701 west key 657
+wdoor 6743 east purge
+wdoor 6743 east description Una porta di legno
+wdoor 6743 east flags abc
+wdoor 6743 east name porta
+wdoor 6743 east room 6701
+wdoor 6743 east key 657
+~
+/s
+q
+y

@@ -1,0 +1,39 @@
+trigedit 9747
+6  
+/c 
+if %actor.clan% == 3 && %actor.rank% >= 50
+if %arg% == chiudi
+say Si Signore, di qui passano solo Cittadini Tolnar
+eval citta_chiusa 1
+global citta_chiusa
+wait 1s
+%load% obj 8500
+hold chiave
+chiudi cancello
+chiudi portone
+lock cancello
+lock portone
+rimuo chiav
+emote ripone la chiave al sicuro
+mat xxxxx drop chiave
+end
+if %arg% == apri
+say Si Signore, faccio passare chiunque
+eval citta_chiusa 0
+global citta_chiusa
+wait 1 s
+%load% obj 8500
+hold chiave
+unlock portone
+unlock cancello
+open portone
+open cancello
+rimuo chiav
+emote ripone la chiave al sicuro
+mat xxxxx drop chiave
+end
+end
+~
+/s
+q
+y

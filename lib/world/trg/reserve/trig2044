@@ -1,0 +1,30 @@
+trigedit 2044
+6  
+/c 
+set valido 0
+if %actor.name% == Sagat || %actor.name% == Cassius || %actor.name% == Seth || %actor.name% == christian
+ set valido 1
+end
+if %actor.name% == Shazarak || %actor.name% == inuyasha || %actor.name% == eligor || %actor.name% == smigol
+set valido 1
+end
+if %valido% == 1
+ if %speech% == elmo di Xhyphys
+  wait 1
+  if %puntifede% < 1500
+   mecho &5L'altare inizia ad illuminarsi, ma non succede nulla&0
+   halt
+  end
+  mecho &5L'altare si illumina ed emette sinistri rumori.&0
+  mload obj 1460
+  drop elmo
+  return 0
+  eval puntifede %puntifede%-1500
+  global puntifede
+  mat cptifedexhyphys say distruggi 30
+ end
+end
+~
+/s
+q
+y

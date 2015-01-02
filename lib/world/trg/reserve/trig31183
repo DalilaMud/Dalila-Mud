@@ -1,0 +1,22 @@
+trigedit 31183
+6  
+/c 
+wait 1
+if %actor.level% > 70
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+end
+~
+/s
+q
+y

@@ -1,0 +1,25 @@
+trigedit 2619
+6  
+/c 
+* Lista comandi
+wait 2
+msend %actor.name% &1&xUno dei portali ti attrae e precipiti in esso!&0
+eval dir %random.4%
+switch %dir%
+case 1
+mforce %actor.name% n
+break
+case 2
+mforce %actor.name% s
+break
+case 3
+mforce %actor.name% e
+break
+case 4
+mforce %actor.name% w
+break
+done
+~
+/s
+q
+y

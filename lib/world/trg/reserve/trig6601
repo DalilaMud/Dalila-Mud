@@ -1,0 +1,51 @@
+trigedit 6601
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %speech% == zonanewbie
+say Esci dalle porte nord della citta', poi dirigiti ad ovest e infine a nord.
+say La' troverai mob ed equipaggiamenti adatti ai primi livelli.
+elseif %speech% == scacchiera
+say Supera la zona newbie proseguendo verso nord fino ad uscire dalla miniwild.
+say Pochi passi ancora a nord e la troverai sulla tua destra.
+say La' troverai mob ed equipaggiamenti adatti per livelli leggermente superiori.
+say Una seconda scacchiera con mob piu' difficili si trova a sud della miniwild.
+elseif %speech% == sotterranei
+say Li trovi a ovest del Tempio in cui sei nato, scendendo poi alcuni gradini.
+say E' un'area molto facile e simpatica dove ogni newbie puo' trarne giovamento.
+elseif %speech% == esercito
+say Appena uscito dalle porte sud della citta' sulla strada per il Porto....
+say ...troverai la Caserma dove potrai fare domanda per essere ammesso.
+say Il Comandante in carica e' Ramku, chiedi a lui.
+elseif %speech% == magazzini
+say A SudEst di Piazzale degli Eroi sorgono i magazzini della citta'.
+say Potrai vendere o acquistare SOLO i prodotti creati da voi giocatori.
+say Altri negozi si trovano attorno al Tempio di Lamorka.
+elseif %speech% == porto
+say Lamorka ha il piu bel porto di Daresia! Esci dalle porte sud della citta' e....
+say ...dirigiti ancora un pochino a sud. Ti troverai nel ricco porto della citta'
+say dove potrai godere della vista del faro, potrai divertirti alla taverna e alla bisca,
+say potrai acquistare barche e attrezzi per la pesca da Adno e potrai far partire
+say le tue merci per ogni angolo della Daresia.
+say Attento pero'! Al porto trovi anche la Forca costruita per tutti coloro che vogliono
+say turbare l'operosa vita della nostra citta'!
+elseif %speech% == castello
+say Il Castello di Re Otak il Grande e' normalmente chiuso ai cittadini tranne....
+say ..che in occasione di solenni festeggiamenti o per udienze personali con il re.
+say Esci dalle porte nord della citta', dirigiti a nord e poi un pochino ad est.
+say Entrerai nei bellissimi giardini del castello dove il giardiniere del Re ti accogliera'
+say cortesemente e da dove potrai assistere al famoso cambio della guardia reale di ronda!
+elseif %speech% == casa
+say Per ottenere una casa rivolgiti ad un Funzionario.
+elseif %speech% == mestieri
+say Tutto cio' che ti serve lo trovi nel negozio a Sud del Tempio.
+say Tutti i locali di produzione sono in via dei Mestieri a Sud di Piazzale degli Eroi.
+elseif %speech% == informazioni
+say Puoi chiedermi circa.....
+say zonanewbie scacchiera sotterranei esercito magazzini porto castello casa mestieri
+end
+~
+/s
+q
+y

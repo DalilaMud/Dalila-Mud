@@ -1,0 +1,25 @@
+trigedit 2019
+6  
+/c 
+wait 1
+msend cptifedesilue conteggio
+set risucchiamento &7&xL'altare viene circondato di una accecante luce per qualche istante mentre il diamante si consuma&0
+global risucchiamento
+set controllore cptifedesilue
+global controllore
+set annientamento &7&xLa luce di Silue ti consuma&0
+global annientamento
+set ncontrollore Il controllore dei punti fede di Silue
+global ncontrollore
+set cap 3000
+global cap
+set nbase 544
+global nbase
+set god &7&xSilue&0
+global god
+set statuetta 577
+global statuetta
+~
+/s
+q
+y

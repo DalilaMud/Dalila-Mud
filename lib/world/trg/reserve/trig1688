@@ -1,0 +1,174 @@
+trigedit 1688
+6  
+/c 
+* Lista comandi
+if %tirodado% == 31
+wait 2 s
+oecho &9&xUna strana arma si materializza improvvisamente dal nulla&0
+oload obj 3530
+wait 1 s
+osend %folle% Questa bizzarra spada ti comunica una brutta sensazione....
+elseif %tirodado% == 62
+wait 2 s
+oload obj 3532
+oecho &9&xUna strana arma si materializza improvvisamente dal nulla&0
+wait 1 s
+osend %folle% Questo bizzarro pugnale ti comunica una brutta sensazione....
+elseif %tirodado% == 68
+wait 2 s
+oload obj 3534
+oecho &9&xUna strana arma si materializza improvvisamente dal nulla&0
+wait 1 s
+osend %folle% Questa bizzarra ascia ti comunica una brutta sensazione....
+elseif %tirodado% == 87
+wait 2 s
+oload obj 3533
+oecho &9&xUna strana arma si materializza improvvisamente dal nulla&0
+wait 1 s
+osend %folle% Questa bizzarra lancia ti comunica una brutta sensazione....
+elseif %tirodado% == 95
+wait 2 s
+oecho &9&xUna strana arma si materializza improvvisamente dal nulla&0
+oload obj 3531
+wait 1 s
+osend %folle% Questa bizzarra mazza ti comunica una brutta sensazione....
+elseif %tirodado% == 22
+wait 2 s
+oecho &7&xUn anello magico compare dove un istante fa c'era il dado!&0
+oload obj 3514
+elseif %tirodado% == 38
+wait 2 s
+oecho &6&xUn anello magico compare dove un istante fa c'era il dado!&0
+oload obj 3535
+elseif %tirodado% == 99
+wait 2 s
+oecho &3&xUn anello magico compare dove un istante fa c'era il dado!&0
+oload obj 3536
+elseif %tirodado% == 70
+wait 2 s
+oecho &3&xUn gigantesco Drago Dorato si materializza improvvisamente!&0
+oload mob 532
+wait 1 s
+oforce drago emote ruggisce facendo risuonare l'aria per migliaia di metri intorno a se'...
+wait 1 s
+osend %folle% Se solo trovassi il modo di ammaestrarlo, questo Drago potrebbe diventare tuo!
+elseif %tirodado% == 26
+wait 2 s
+oecho &6&xUn turbine d'aria si leva improvvisamente dal dado, andando a formare un gigantesco tornado!&0
+wait 1 s
+oload mob 535
+elseif %tirodado% == 47
+wait 2 s
+oecho &5&xUn simpatico e tenero maialino prende vita!&0
+wait 1 s
+oload mob 534
+elseif %tirodado% == 59
+wait 2 s
+oecho &7&xDal nulla compare una tovaglia splendidamente ricamata!&0
+wait 1 s
+oload obj 3538
+elseif %tirodado% == 12
+wait 2 s
+oecho &1&xUn portale prende improvvisamente forma...&0
+oload obj 3539
+wait 1 s
+osend %folle% Forse non e' saggio star qui a controllare cosa uscira' dal portale.... fai finta di nulla e scappa!
+elseif %tirodado% == 73
+wait 2 s
+oecho &1&xUn enorme nube di fumo rosso fuoriesce dal dado&0
+wait 2 s
+oecho &1&xLa nube rossa comincia ad assumere un aspetto vagamente inquietante...&0
+wait 2 s
+oecho &1&xLa nube si materializza in un mostro colossale!&0
+oload mob 539
+wait 1 s
+osend %folle% Complimenti avventuriero! Hai liberato Caronos il Grande! Ora si che sono guai!
+elseif %tirodado% == 79
+wait 2 s
+oecho &7Quello che sembra un uomo appare e comincia a camminare...&0
+wait 1 s
+oload mob 537
+elseif %tirodado% == 85
+wait 2 s
+oecho &5&xD'un tratto comincia una simpatica pioggia di caramelle!&0
+oload obj 1440
+oload obj 1441
+oload obj 1442
+oload obj 1443
+oload obj 1444
+oload obj 1445
+oload obj 1446
+oload obj 1447
+elseif %tirodado% == 4
+wait 2 s
+oecho &9&xUn amuleto raffigurante un animale compare all'improvviso&0
+oload obj 3547
+elseif %tirodado% == 16
+wait 2 s
+oecho &7Un amuleto raffigurante un animale compare all'improvviso&0
+oload obj 3548
+elseif %tirodado% == 25
+wait 2 s
+oecho &9&xUn amuleto raffigurante un animale compare all'improvviso&0
+oload obj 3545
+elseif %tirodado% == 28
+wait 2 s
+oecho &3&xUn amuleto raffigurante un animale compare all'improvviso&0
+oload obj 3544
+elseif %tirodado% == 53
+wait 2 s
+oecho &7&xUn amuleto raffigurante un animale compare all'improvviso&0
+oload obj 3546
+elseif %tirodado% == 14
+wait 2 s
+oecho &7Alcune rune magiche compaiono dove un istante fa c'era il dado&0
+oload obj 3550
+oload obj 3550
+oload obj 3550
+elseif %tirodado% == 63
+wait 2 s
+oecho &2Alcune rune magiche compaiono dove un istante fa c'era il dado&0
+oload obj 3552
+oload obj 3552
+oload obj 3552
+elseif %tirodado% == 83
+wait 2 s
+oecho &6Alcune rune magiche compaiono dove un istante fa c'era il dado&0
+oload obj 3551
+oload obj 3551
+oload obj 3551
+elseif %tirodado% == 88
+wait 2 s
+oecho &1Alcune rune magiche compaiono dove un istante fa c'era il dado&0
+oload obj 3549
+oload obj 3549
+oload obj 3549
+elseif %tirodado% == 58
+wait 2 s
+oecho &9&xUna runa magica compare dove un istante fa c'era il dado&0
+oload obj 3553
+elseif %tirodado% == 13
+wait 2 s
+oecho &4&xUn enorme nube di fumo blu fuoriesce dal dado&0
+wait 2 s
+oecho &4&xLa nube blu comincia ad assumere un aspetto vagamente inquietante...&0
+wait 2 s
+oecho &4&xLa nube si materializza in un mostro colossale!&0
+oload mob 552
+wait 1 s
+osend %folle% Complimenti avventuriero! Hai liberato Sogotacon l'Antico! Ora si che sono guai!
+elseif %tirodado% == 17
+wait 2 s
+oecho &2&xUn enorme nube di fumo verde fuoriesce dal dado&0
+wait 2 s
+oecho &2&xLa nube verde comincia ad assumere un aspetto vagamente inquietante...&0
+wait 2 s
+oecho &2&xLa nube si materializza in un mostro colossale!&0
+oload mob 554
+wait 1 s
+osend %folle% Complimenti avventuriero! Hai liberato Nyrugantep il Blasfemo! Ora si che sono guai!
+end
+~
+/s
+q
+y

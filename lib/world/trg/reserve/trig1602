@@ -1,0 +1,18 @@
+trigedit 1602
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %victim.name% == %padrone%
+  wait 1
+  stand
+  follow %padrone%
+  dg_affect %actor% charm 18 20 
+  say Si Padron %victim.name%
+else
+  say Non lavoro per voi.
+end     
+~
+/s
+q
+y

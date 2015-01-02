@@ -1,0 +1,10 @@
+trigedit 2079
+6  
+/c 
+if %actor.name% == Sagat || %actor.name% == Alhandir || %actor.name% == McFly || %actor.name% == piagolo || %actor.name% == Nimrhuin
+ %echo% %arg%
+end
+~
+/s
+q
+y

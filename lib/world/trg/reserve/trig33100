@@ -1,0 +1,16 @@
+trigedit 33100
+6  
+/c 
+if %actor.vnum% == -1
+if %direction% == south
+wait 3
+wecho &3&xAppena entri nell' accampamento le guardie si accorgono di te !!!&0
+wait 3
+wecho &1Una Guardia urla: Soldati Armatevi !!! Uccidiamo gli INTRUSI!!!&0
+end
+else end
+end
+~
+/s
+q
+y

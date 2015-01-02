@@ -1,0 +1,12 @@
+trigedit 11047
+6  
+/c 
+if %temperatura% > 0
+evalt tmp %temperatura% - 3
+eval temperatura %tmp%
+global temperatura
+end
+~
+/s
+q
+y

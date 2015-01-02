@@ -1,0 +1,11 @@
+trigedit 1478
+6  
+/c 
+wait 1 s
+osend %actor.name% Il collegamento tra te ed il medaglione e' rotto: ora non tramutera' piu' la tua forza vitale in magia
+set wear 0
+global wear
+~
+/s
+q
+y

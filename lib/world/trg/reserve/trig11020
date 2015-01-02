@@ -1,0 +1,12 @@
+trigedit 11020
+6  
+/c 
+%door% 4104 down room 11012
+%door% 11014 south flags abe
+%door% 11018 north flags abe
+%at% 2444851 %purge%
+%at% 2444851 %load% obj 9747
+~
+/s
+q
+y

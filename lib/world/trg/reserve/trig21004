@@ -1,0 +1,20 @@
+trigedit 21004
+6  
+/c 
+set a %actor.name%
+global a
+if %a% == yaemon || %a% == Sauzer || %a% == dolmant || %a% == Enrique || %a% == Mcleod || %a% == Belar || %a% == Kharas || %a%==Wab || %a%==Aldayur
+unset %libera%
+set %speech%
+global libera
+set animazione on
+global animazione
+set timer 0
+global timer
+wecho &xUn enorme guardiano entra nella cella &0
+wait 1 s
+wecho  &xUn enorme guardiano dice, 'Il prigioniero da liberare mi dica &1Eccomi&0
+~
+/s
+q
+y

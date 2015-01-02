@@ -1,0 +1,13 @@
+trigedit 11027
+6  
+/c 
+if %direction% == down
+if %actor.align% != -1000
+say Tu non puoi passare!
+return 0
+end
+end
+~
+/s
+q
+y

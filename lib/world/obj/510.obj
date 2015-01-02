@@ -1,0 +1,321 @@
+#51000
+Pongo~
+Pongo~
+Un pexxo di pongo.~
+~
+0 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#51001
+Chiave Test~
+una chiave per esperimenti~
+Una chiave per i laboratori~
+~
+0 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#51002
+astaald~
+Asta portabandiera del Regno di &1&xAldaria&0~
+Su questa lunga asta, sventola imperiosa la Bandiera del &1&xRegno di Aldaria&0~
+~
+0 0 0
+0 0 0 0 100 100
+0 0 0 1 2 0
+#51003
+astaele~
+Asta portabandiera del Regno di &3&xElenia&0.~
+Su questa lunga asta, sventola imperiosa la &3&xBandiera del Regno di Elenia&0~
+~
+15 0 0
+0 0 0 0 100 100
+0 0 0 1 2 0
+#51004
+bandiera baldaria~
+La gloriosa bandiera del regno di &4&xAldaria&0~
+La gloriosa bandiera del regno di &4&xAldaria&0~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 5 2
+T 51005
+E
+bandiera~
+Uno scudo triangolare circondato da ornamenti bianchi e rossi e' posto al centro dello stemma.
+Esso raffigura gli antichi simboli della casata di Re Rodric: un leone dorato, simbolo del coraggio
+e tre merli scuri, che rappresentano l'amicizia.
+Sulla cima, una grossa ape simboleggia la grande operosita' del popolo aldariano.
+~
+#51005
+astav~
+Un'asta portabandiera~
+Un'asta portabandiera vuota si erge al centro del pavimento.~
+~
+15 0 0
+0 0 0 0 100 100
+0 0 0 1 2 0
+E
+asta~
+Su una targhetta un po' graffiata trovi inciso:
+&3Per utilizzare l'asta dovete
+&uposa&0&3re la bandiera,
+&ulega&0&3rla all'asta,
+e innalzare la &ubandiera issa&0&3ndola.&0
+~
+#51006
+bandiera belenia~
+La gloriosa bandiera del Regno di &3&xElenia&0~
+La gloriosa bandiera del Regno di &3&xElenia&0~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 5 2
+T 51005
+#51007
+bandiera bsendaria~
+La gloriosa bandiera del Regno di &5Sendaria&0~
+La gloriosa bandiera del Regno di &5Sendaria&0~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 5 2
+T 51005
+#51008
+bandiera btolnedra~
+La gloriosa bandiera del regno di &6&xTolnedra&0~
+La gloriosa bandiera del regno di &6&xTolnedra&0~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 5 2
+T 51005
+#51009
+astasen~
+Asta Portabandiera del Regno di Sendaria~
+Su questa asta sventola imperiosa la bandiera del &5Regno di Sendaria&0~
+~
+0 0 0
+0 0 0 0 100 100
+0 0 0 1 2 3
+#51010
+astatol~
+Asta Portabandiera del Regno di &6&xTolnedra&0~
+Su questa asta sventola imperiosa la bandiera del &6&xRegno di Tolnedra&0~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 2 0
+T 51003
+T 51005
+#51011
+ariete~
+Un ariete da sfondamento~
+Un lungo e possente ariete da sfondamento e' qui~
+~
+12 0 2097152
+0 0 0 0 100 100
+0 0 0 1 2 2
+T 51008
+T 51009
+T 51010
+T 51011
+#51012
+palla al piede~
+Una palla di piombo~
+Una pesante palla di piombo agganciata ad una catena.~
+~
+12 25769803920 65
+0 0 0 0 100 100
+50 50 0 -44 1 0
+A
+12 -125
+A
+14 -50
+A
+26 -125
+A
+18 -3
+C
+512 256 0 0
+#51013
+grimaldello~
+Un grimaldello di legno  con la punta acuminata ma fragile.~
+Un grimaldello di legno e' qui~
+Nothing.
+~
+98 0 16385
+3 3 0 0 40 40
+0 0 0 1 0 0
+E
+tacche~
+3 tacche fatte apposta per incastrare i dentini delle serrature.
+~
+E
+grimaldello legno~
+Noti su di una estremita' delle strane &3tacche&0
+~
+#51014
+grimaldello rame~
+Un grimaldello di rame.~
+Un grimaldello di rame e' qui.~
+~
+98 0 16385
+4 4 0 0 40 40
+0 0 0 1 0 0
+E
+tacche~
+cI sono 4 tacche atte ad incastrare i dentini delle serrature
+&c
+ci sono 4 tacche atte ad incastrare i dentini delle serrature
+~
+E
+grimaldello rame~
+Noti su di una estremita' delle strane &3tacche&0
+~
+#51015
+grimaldello ferro~
+Un lungo e sottile grimaldello di ferro, con delle tacche all'estremita'.~
+Un lungo e sottile grimaldello e' qui~
+~
+98 0 16385
+5 5 0 0 40 40
+0 0 0 1 0 0
+E
+tacche~
+5 tacche fatte apposta per incastrare i dentini delle serrature.
+~
+E
+grimaldello ferro~
+Noti su di una estremita' delle strane &3tacche&0
+~
+#51016
+grimaldello argento~
+un grimaldello nero-argento di uno strano materiale metallico...~
+Un grimaldello nero-argento di uno strano materiale.~
+~
+98 0 16385
+6 6 0 0 50 50
+0 0 0 1 0 0
+E
+tacche~
+6 tacche fatte apposta per incastrare i dentini delle serrature.
+~
+E
+grimaldello nero~
+Noti su di una estremita' delle strane &3tacche&0
+~
+#51017
+grimaldello nero~
+Un grimaldello nero, ricavato da un metallo duttile ma solido.~
+&9Un grimaldello nero e' qui. &0~
+~
+98 0 16385
+7 7 0 0 55 55
+2 0 0 1 0 0
+E
+tacche~
+7 tacche fatte apposta per incastrare i dentini delle serrature.
+~
+E
+grimaldello argento~
+Noti su di una estremita' delle strane &3tacche&0
+~
+#51018
+grimaldello avorio~
+Un raffinato ed elegante grimaldello d'avorio.~
+Un grimaldello d'avorio e' qui~
+~
+98 0 16385
+3 7 0 0 60 60
+0 0 0 1 0 0
+E
+tacche~
+8 tacche fatte apposta per incastrare i dentini
+Le raffinte incisioni sull'estremita' del grimaldello permettono
+di agganciare da 3 a 7 dentini contemporanamente!
+~
+E
+grimaldello avorio~
+Un elegante grimaldello d'&7avorio&0, con il manico
+rivestito di velluto nero e delle &3tacche&0
+all'estremit opposta.
+~
+#51019
+scrigno~
+uno scrigno di legno perfettamente conservato~
+Un piccolo scrigno di legno.~
+~
+12 0 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 21356
+E
+scrigno~
+E' piuttosto piccolo e privo di serrature, il legno sembra molto antico ma ben conservato.
+Sul coperchio ci sono cinque tessere mobili, e sei pulsanti colorati, premendo i quali è possibile,
+far ruotare le tessere. Su ogni tessera è incisa una runa diversa, probabilmente componendo
+la sequenza giusta di rune, lo scrigno si dovrebbe aprire.
+~
+#51050
+serratura~
+una serratura per porte~
+Uno strano oggetto di metallo è stato lasciato qui.~
+~
+99 0 1
+3 0 0 0 100 100
+1 200 0 1 1 0
+T 21360
+#51051
+serratura con piccolo rinforzo~
+una serratura leggermente rinforzata~
+Una serratura con un piccolo rinforzo e' poggiata qui.~
+~
+99 0 1
+4 0 0 0 100 100
+1 400 0 1 1 0
+T 21360
+#51052
+serratura con medio rinforzo~
+una serratura con rinforzo medio~
+Una serratura con rinforzo medio e' poggiata qui.~
+~
+99 0 1
+5 0 0 0 100 100
+1 800 0 1 1 0
+T 21360
+#51053
+serratura con grosso rinforzo~
+una serratura fortemente rinforzata~
+Una serratura fortemente rinforzata giace qui.~
+~
+99 0 1
+6 0 0 0 100 100
+1 1600 0 1 1 0
+T 21360
+#51054
+serratura in acciaio rinforzato~
+una serratura in acciaio rinforzato~
+Una serratura in acciaio rinforzato giace qui.~
+~
+99 0 1
+7 0 0 0 100 100
+1 3000 0 1 1 0
+T 21360
+#51055
+serratura suprema~
+una serratura suprema~
+Una serratura dall'aspetto estremamente robusto e complesso giace qui.~
+~
+99 0 1
+8 0 0 0 100 100
+1 5500 0 1 1 0
+T 21360
+#51060
+serratura rotta~
+una serratura rotta~
+Una serratura è stata abbandonata qui.~
+~
+13 8589934592 1
+0 0 0 0 30 100
+1 0 0 1 1 0
+$~

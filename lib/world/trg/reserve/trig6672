@@ -1,0 +1,51 @@
+trigedit 6672
+6  
+/c 
+* Lista comandi
+if %sentinella% == dorme
+  set sentinella neutra
+  global sentinella
+  wait 1 s
+  say Chi e'? Che c'e'!!!
+  wait 1 s
+  mecho Una sentinella lentamente apre i suoi occhi gonfi di sonno.
+  wait 2 s
+  mechoaround %actor% Una sentinella osserva %actor.name%
+  msend %actor% La sentinella ti guarda ... ma non sembra riconoscerti.
+  wait 1 s
+  say Ditemi la parola d'ordine ... oppure andate via!
+  tell owain %actor.name% e' all'arsenale Maesta'!
+  bug %actor.name% sveglia la sentinella dell'arsenale di Sendaria.
+  set sentinella vigile
+  global sentinella
+elseif %sentinella% == apre
+  set sentinella neutra
+  global sentinella
+  wait 1 s
+  grin
+  wait 1 s
+  say Ah! Ah! Ahhh!!!
+  wait 1 s
+  say questo e' un Trigger by Mister Trigger
+  wait 2 s
+  say Gloria al Fantasma di Sendaria!
+  set sentinella apre
+  global sentinella
+else
+  set sentinella neutra
+  global sentinella
+  wait 1 s
+  say Sono gia' sveglio! Allora che volete?
+  wait 2 s
+  say Mi state prendendo in giro !?!?!
+  wait 2 s
+  say Andate fuori dai piedi, ho cose piu' importanti da fare !!!
+  wait 2 s
+  mecho La sentinella si sistema sul grosso barile e lentamente torna a dormire.
+  set sentinella dorme
+  global sentinella
+end
+~
+/s
+q
+y

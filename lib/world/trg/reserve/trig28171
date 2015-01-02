@@ -1,0 +1,12 @@
+trigedit 28171
+6  
+/c 
+if %actor.name% == un alano
+set s 7
+mforce alano6 foll %x%
+global s
+end
+~
+/s
+q
+y

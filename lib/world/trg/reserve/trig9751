@@ -1,0 +1,45 @@
+trigedit 9751
+6  
+/c 
+if %actor.name% == %Padrone%
+if %stipendio_arretrato% > 0
+if %amount% < %stipendio_valore%
+wait 2 s
+emote ti guarda storto.
+wait 1 s
+say &1&x Spiacente %actor.name%. Questi soldi non bastano. &0
+wait 1 s
+give %amount% coins %actor.name%
+wait 1 s
+say &1&x La paga sindacale attuale  di %stipendio_valore% coins. &0
+elseif %amount% > %stipendio_valore%
+wait 2 s
+pa %actor.name%
+say &1&x La vostra generosite' e' commovente, ma ho ricevuto piu' soldi del dovuto. &0
+wait 1 s
+give %amount% coins %actor.name%
+wait 1 s
+say &1&x La paga sindacale attuale  di %stipendio_valore% coins. &0
+else
+junk %amount% coins
+wait 1 s
+say &1&x Grazie %actor.name%. &0
+wait 1
+eval stipendio_arretrato %stipendio_arretrato% - 1
+global stipendio_arretrato
+emote mette in un sacchetto le monete e il tutto lo ripone dentro i pantaloni.
+end
+else
+wait 1 s
+say &1&x Grazie ma al momento non ne ho bisogno &0
+wait 1 s
+give %amount% coins %actor.name%
+end
+else
+say &1&x Grazie per la mancia, siete una persona davvero generosa! &0
+junk %amount% coins
+end
+~
+/s
+q
+y

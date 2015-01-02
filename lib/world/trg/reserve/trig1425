@@ -1,0 +1,20 @@
+trigedit 1425
+6  
+/c 
+if %aquila% == 1
+wait 1 s
+osend %actor.name% Hai gia' avuto la tua aquila.. l'hai persa?
+halt
+end
+set aquila 1
+global aquila
+wait 1 s
+osend %actor.name% Non appena indossi l'amuleto senti un'ombra sopra di te...
+oechoaround %actor.name% &7Un'aquila enorme prende a volteggiare sopra il capo di %actor.name%&0
+wait 1 s
+oload mob 546
+oforce aaaap foll %actor.name%
+~
+/s
+q
+y

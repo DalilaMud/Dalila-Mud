@@ -1,0 +1,53 @@
+trigedit 12536
+6  
+/c 
+if %start% != ko
+if %start% != on
+set start on
+global start
+set fame 1
+global fame
+end
+if %self.room% != 3189 && %self.room% != 21652 && %self.room% != 9831 && %self.room% != 6811
+eval timer %timer% + 1
+global timer
+end 
+if %timer% > 5
+eval fame %fame% + 1
+global fame
+unset timer
+if %fame% > 92 && %fame% < 97
+emote &6&xnon vivra' ancora a lungo senza cibo&0
+end
+if %fame% > 96 && %fame% < 100
+emote &6&xsta per morire di fame&0
+end
+if %fame% > 99
+emote &6&ximprovvisamente si irrigidisce e si affloscia a terra, morto!&0
+if %sgroppato% != on
+mforce %proprietario% smonta
+end
+sgancia carre
+rem carre
+drop all
+mgoto 2
+mpurge
+set start ko
+global start
+end
+end
+if %fame% < 1
+set fame 1
+global fame
+end
+if %mangiato% > 16
+mload obj 12619
+mat 3 quaff pozio
+emote appare ora piu' riposato e meno affamato
+end
+unset mangiato
+end
+~
+/s
+q
+y

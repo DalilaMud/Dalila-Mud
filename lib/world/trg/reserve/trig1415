@@ -1,0 +1,15 @@
+trigedit 1415
+6  
+/c 
+eval tigre %random.20%
+if %tigre% == 1
+wait 2 s
+mpurge kttt
+mecho &3&xIl medaglione della tigre si frantuma!&0
+end
+wait 2 s
+emote emette un ruggito di pura potenza....
+~
+/s
+q
+y

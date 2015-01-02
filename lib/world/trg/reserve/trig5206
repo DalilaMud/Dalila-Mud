@@ -1,0 +1,14 @@
+trigedit 5206
+6  
+/c 
+%echo% &c%self.name% suona una dolce e melanconica melodia...&0
+%send% %actor.name% &gHai molto sonno.....&0
+dg_cast 'peace' %actor%
+dg_cast 'sleep' %actor%
+dg_cast 'sleep' %actor%
+dg_cast 'sleep' %actor%
+dg_cast 'peace' %actor%
+~
+/s
+q
+y

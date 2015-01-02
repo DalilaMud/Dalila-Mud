@@ -1,0 +1,15 @@
+trigedit 28149
+6  
+/c 
+   set naso 6
+   set base 28140
+   wait 1 s
+   %echo% Un dado rotola e rimbalza.
+   %echo% !!MUSIC(dice.wav)
+   set punto %random.6%
+   eval naso %base% + %punto%
+   otransform %naso%
+~
+/s
+q
+y

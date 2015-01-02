@@ -1,0 +1,920 @@
+#100
+MouseRider~
+MouseRider~
+MouseRider siede sul suo trono tenendosi la testa tra le mani.
+~
+MouseRider e' l'uomo piu' saggio della terra.  E' anche l'uomo con piu'
+problemi, essendo a conoscenza di cose che tu non puoi neanche immaginare.  Ti
+meravigli il fatto che un uomo cosi' saggio non desideri in alcun modo avere il
+potere.    
+~
+~
+~
+~
+8202 4198400 1000 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+600 3d8+7
+32 1
+6 6 1
+E
+#101
+sentinella bestia~
+la bestia Sentinella~
+Gli occhi della bestia sentinella risplendono rossi come il fuoco mentre ti attacca!
+~
+La bestia sentinella assomiglia vagamente ad un lupo, anche se non riesci a
+capire da quale incrocio possano essere usciti quegli occhi multi-colore, le
+corna e gli artigli lunghi 10 cm...    
+~
+~
+~
+~
+42 1032 0 -1 -1 -1 -1 -1 E
+20 15 -4 1d1+250 2d8+5
+12 10000
+8 8 0
+E
+#102
+Leonna~
+Leonna~
+Leonna, la capogilda dei Maghi di Kerofk, ti saluta.
+~
+Leonna sembra essere una donna graziosa e gioviale.  Ovviamente e' divenuta
+capogilda piu' grazie alle sua personalita' che alle sue capacita' magiche.  I
+suoi poteri non sono comunque piccoli, e' pur sempre uno dei maghi piu' forti
+della citta'.    
+~
+~
+~
+~
+8202 151003264 700 -1 -1 -1 -1 -1 E
+35 0 -2 1d1+5000 2d8+13
+25 1000
+8 8 2
+E
+#103
+venditore libri~
+il venditore di libri~
+&3Il venditore di libri sta' osservando una vecchio libro.
+~
+Il venditore di libri osserva molto annoiato tutti i libri che lo circondano.
+Osservando meglio il suo apsetto noti le sue dita scheletriche e deformi e
+i suoi occhi demoniaci... siamo sicuri che si proprio un umano?
+~
+~
+~
+~
+36028797153206282 0 -500 -1 -1 -1 -1 -1 E
+23 11 4 1d1+300 3d8+3
+14 0
+8 8 1
+Spec: 0
+E
+#104
+Seobagn ladri ladro capogilda~
+Seobagn~
+Il capogilda dei Ladri, Seobagn, ti osserva attentamente.
+~
+Seobagn ridacchia mentre gioca con una moneta.  Ti stupiresti se la moneta
+fosse sua.    
+~
+~
+~
+~
+8202 0 500 -1 -1 -1 -1 -1 E
+40 0 -4 3d10+5000 3d6+10
+32 30000
+8 8 1
+E
+#105
+barista~
+un barista~
+Un barista e' qui che versa contemporaneamente diversi drink.
+~
+Il barista sembra andare di fretta, cercando di accontentare diversi clienti
+contemporaneamente.  Forse dovresti rivolgerti a lui piu' tardi...    
+~
+~
+~
+~
+134225930 0 250 -1 -1 -1 -1 -1 E
+14 11 5 4d4+160 2d8+2
+12 16000
+8 8 1
+Spec: 0
+E
+#106
+cameriera~
+la cameriera~
+La cameriera cerca di servire i clienti il piu' in fretta possibile.
+~
+La cameriera ti guarda con un sorriso stanco mentre cerca di esaudire i
+desideri dei clienti assetati.  'Cosa desidera?  ' ti chiede mentre prende
+carta e penna per segnare l'ordine.    
+~
+~
+~
+~
+138 0 100 -1 -1 -1 -1 -1 E
+5 16 60 1d10+60 2d4+0
+4 60
+8 8 2
+E
+#107
+ubriaco~
+un ubriaco~
+Un ubriaco e' qui che balbetta parole senza senso.
+~
+L'ubriaco ti guarda e biascica 'Coooshaaaa guaaardiii?  '
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 19 6 5d10+50 1d6+1
+3 750
+8 8 1
+E
+#108
+fortunato giocatore~
+un giocatore~
+Un giocatore fortunato e' qui che osserva i soldi guadagnati!
+~
+Il giocatore fortunato ti guarda e sorride.  Povero Ragazzo!    
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+12 14 6 3d4+130 2d8+2
+12 7500
+8 8 1
+E
+#109
+mazziere~
+un mazziere~
+Il mazziere mischia le carte e le distribuisce.
+~
+Il mazziere ti guarda inespressivo e dice 'Giocate o no?  ' Non sembra gli
+interessi molto la risposta.    
+~
+~
+~
+~
+10 4 200 -1 -1 -1 -1 -1 E
+23 2 2 6d10+270 2d8+5
+21 15000
+8 8 1
+E
+#110
+Ben Benzaldehyde~
+Ben~
+Ben conta il denaro, ignorandoti completamente.
+~
+Benzaldehyde e' un omone, ti ricorda un elefante.  I suoi si illuminano un poco
+mentre conta il danaro - sembra molto avido.    
+~
+~
+~
+~
+8202 0 -785 -1 -1 -1 -1 -1 E
+24 12 1 1d1+330 2d9+4
+16 30000
+6 6 1
+E
+#111
+ginger negoziante~
+Ginger la negoziante~
+La negoziante ti sorrite non appena varchi la soglia del negozio
+~
+La negoziante qui presente e' la moglie del leggendario Bob.  Ti da il
+benvenuto nel suo negozio e ti invita ad esaminare tutto cio' che desideri.  
+
+~
+~
+~
+~
+134225930 0 900 -1 -1 -1 -1 -1 E
+50 0 2 6d10+5000 4d8+12
+31 80000
+8 8 2
+Spec: 0
+E
+#112
+giocatore sfortunato~
+il giocatore~
+Un giocatore sfortunato riesce a stento a trattenere le lacrime mentre il suo denaro si volatilizza.
+~
+Il giocatore sfortunato non dice una parola, si limita a puntare del danaro
+sperando che la sfortuna lo abbandoni.  Non sembra abbia molte possibilita' di
+rifarsi.    
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+12 15 5 1d1+120 2d6+2
+7 10000
+8 8 1
+E
+#113
+cittadino~
+un cittadino~
+Un cittadino e' qui pronto a discutere di politica con chiunque lo stia ad ascoltare.
+~
+Il cittadino sembra molto contrariato per qualcosa.  Non sai esattamente cosa,
+ma egli sembra ansioso di dirtela.  Piu' parla e piu' la tua attenzione
+diminuisce finche' non pensi sia meglio riprendere il cammino.    
+~
+~
+~
+~
+138 0 350 -1 -1 -1 -1 -1 E
+8 13 6 3d4+95 2d4+2
+6 3750
+8 8 1
+E
+#114
+locandiera moglie myrama~
+Myrama la locandiera~
+La locandiera ti sorride e ti mostra una stanza.
+~
+Myrama e' tutta un sorriso.  E' spigliata e graziosa ed e' la sola ragione per
+la quale Kell, il marito, ha successo negli affari.  Myrama e' veramente
+meravigliosa!    
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+1 20 100 1d4+0 1d4+0
+0 1
+8 8 2
+E
+#115
+erborista negoziante~
+l'erborista~
+L'erborista e' qui che prepara alcune misture.
+~
+L'erborista e' una donna anziana, ma ancora lucida e sveglia quando si tratta
+di trattare le erbe.  Non hai dubbi circa l'esperienza di questa donna nel suo
+campo.    
+~
+~
+~
+~
+134225930 0 500 -1 -1 -1 -1 -1 E
+35 0 0 6d10+5000 1d8+12
+25 50000
+8 8 2
+Spec: 0
+E
+#116
+avvocato~
+un avvocato~
+Un avvocato e' qui pronto a proferire menzogne.
+~
+L'avvocato ti guarda pronto ad illustrarti ogni vantaggio che avresti
+nell'assumerlo.  Questo e' uno degli esseri piu' viscidi dell'intera Daresia!
+  
+~
+~
+~
+~
+138 0 -1000 -1 -1 -1 -1 -1 E
+14 10 5 3d10+150 2d8+3
+9 17000
+8 8 1
+E
+#117
+segretario~
+un segretario~
+Il segretario ti chiede cosa vuoi, mentre mastica qualcosa.
+~
+Il segretario sembra un uomo annoiato e fuori posto, almeno a giudicare dai
+pugnali che spuntano dalla cinta, dagli stivali e da dietro la schiena.  
+Ovviamente il vero compito di questo uomo e' quello di proteggere il sindaco.
+  
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+24 11 1 1d1+340 2d8+3
+23 4000
+6 6 1
+E
+#118
+sindaco kell~
+Kell~
+Il sindaco Kell ti accoglie nel suo ufficio porgendoti la mano.
+~
+Il sindaco sembra felice di vederti, anche se hai interrotto il suo lavoro.  
+Si siede, ti offre una bibita e ti chiede cosa vuoi.    
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+32 8 -3 1d1+500 3d8+6
+28 50
+8 8 1
+E
+#119
+guardia consiglio~
+una guardia del Consiglio~
+La guardia del Consiglio sembra pronta a buttarti fuori se solo fai cenno di voler disturbare la riunione.
+~
+La Guardia sembra immobile.  Mentre osservi la sua lancia e la sua armatura di
+piastre, una vocina dentro di te inizia a consigliarti di non aver nulla a che
+fare con lei.    
+~
+~
+~
+~
+10 8 0 -1 -1 -1 -1 -1 E
+27 0 0 1d1+400 2d10+15
+25 100000
+8 8 1
+E
+#120
+consiglio membro~
+un membro del Consiglio~
+Un membro del Consiglio sembra alquanto irritato per la tua interruzione!
+~
+Il membro del consiglio non e' solo un politica...  Ma anche un guerriero!    
+~
+~
+~
+~
+138 0 350 -1 -1 -1 -1 -1 E
+15 12 2 1d1+130 2d8+2
+8 21000
+8 8 1
+E
+#121
+carceriere~
+un carceriere~
+Il carceriere e' seduto su una sedia e sta leggendo un foglio di giornale.
+~
+Il carceriere sembra annoiato...  E lo e' realmente!    
+~
+~
+~
+~
+11 0 100 -1 -1 -1 -1 -1 E
+10 11 2 3d5+120 2d6+1
+10 9000
+6 6 1
+Spec: 37
+E
+#122
+prigioniero~
+un prigioniero~
+Il prigioniero sembra aver perso ogni speranza di fuga.
+~
+Il prigioniero ti guarda debolmente e mormora 'Non sono un numero!  ' Tossisce
+e sviene.    
+~
+~
+~
+~
+10 0 -500 -1 -1 -1 -1 -1 E
+2 19 8 3d5+50 1d10+0
+2 200
+6 6 1
+E
+#123
+guardia~
+la guardia~
+Una guardia e' qui, pronta respingere le orde dei nemici.
+~
+La guardia sembra senza paura e pronta a difendere i padroni della Fortezza in
+ogni istante.    
+~
+~
+~
+~
+10 0 600 -1 -1 -1 -1 -1 E
+25 10 1 1d1+360 2d9+5
+13 10000
+8 8 1
+E
+#124
+Jenk~
+Jenk~
+Jenk e' qui, pronto a venderti qualsiasi cosa!
+~
+Jenk e' un pessimo negoziante, che ti vendera' qualunque cosa per ricavarne del
+danaro!  E' corrotto, avido e tu sei il tipo che fa per lui!    
+~
+~
+~
+~
+134225930 0 -500 -1 -1 -1 -1 -1 E
+25 0 0 6d10+5000 1d8+18
+14 20000
+8 8 1
+Spec: 0
+E
+#125
+mercante nero~
+il mercante nero~
+Il mercante nero e' pronto a venderti qualsiasi cosa tu voglia.
+~
+Il mercante nero ha posto il suo banco davanti a quello di Jenk ed e' pronto a
+vendere cio' che ti serve...  Cosa ti serve?    
+~
+~
+~
+~
+134225930 0 -750 -1 -1 -1 -1 -1 E
+25 0 0 7d10+5000 2d6+15
+17 20000
+8 8 1
+E
+#126
+priest~
+the Priest~
+A priest is here, performing his absolutions.
+~
+The priest looks like a kindly man who has seen too much suffering for
+one life.  He now devotes his life to XXXXX, hoping to one day ascend to
+immortality.
+~
+~
+~
+~
+138 0 0 -1 -1 -1 -1 -1 E
+7 14 4 3d5+83 2d4+1
+4 2250
+8 8 1
+E
+#127
+gran sacerdote capogilda~
+il Gran sacerdote~
+Il Gran sacerdote e' qui che risplende di una luce abbagliante.
+~
+Il Sommo Sacerdote presto raggiungera' il suo dio, ed ora il suo corpo
+risplende come la sua anima.    
+~
+~
+~
+~
+10 128 1000 -1 -1 -1 -1 -1 E
+24 10 2 4d6+200 3d8+5
+14 60000
+8 8 1
+E
+#128
+sergente reclutatore~
+un Sergente~
+Un sergente reclutatore tenta di convincerti ad arruolarti.
+~
+Il sergente reclutatore ha girato il mondo.  Ora sta tentando di convincerti a
+fare lo stesso.  ARGH!!!  Resisti!  Resisti!    
+~
+~
+~
+~
+10 0 -400 -1 -1 -1 -1 -1 E
+23 11 2 1d1+320 2d8+6
+18 10000
+8 8 1
+E
+#129
+capitano guardie~
+il capitano~
+Il Capitano delle Guardie ti saluta sollevando la spada.
+~
+Il Capitano ha una vera passione per il combattimento cavalleresco.  Solleva la
+visiera del suo elmo verso di te...  Ed attende che tu accetti la sfida.    
+~
+~
+~
+~
+10 0 200 -1 -1 -1 -1 -1 E
+25 0 1 1d1+370 3d6+4
+16 30000
+8 8 1
+E
+#130
+mendicante~
+il mendicante~
+Un mendicante siede qui in attesa dell'elemosina.
+~
+Il mendicante ti guarda con uno sguardo triste.  Comunque, noti qualcosa di
+scintillante nella sua mano...  Cosa sta nascondendo?    
+~
+~
+~
+~
+200 0 900 -1 -1 -1 -1 -1 E
+1 20 100 1d4+1 1d4+0
+1 25
+6 6 1
+E
+#131
+cittadino~
+un cittadino~
+Un cittadino e' qui che fa la fila.
+~
+Il cittadino ti guarda con occhi inespressivi.  Puoi provare a vedere se
+l'espressione muta tirandolo a forza fuori dalla fila.    
+~
+~
+~
+~
+10 0 100 -1 -1 -1 -1 -1 E
+9 14 3 1d1+90 2d5+2
+5 6000
+8 8 1
+E
+#132
+cittadino~
+un cittadino~
+Un cittadino di Kerofk e' qui che cura i suoi affari.
+~
+Questo cittadino non sembra aver tempo da perdere con te.  Ha troppo da fare.
+  
+~
+~
+~
+~
+72 0 100 -1 -1 -1 -1 -1 E
+9 14 3 1d1+90 2d5+2
+5 6000
+8 8 1
+E
+#133
+miliziano~
+un miliziano~
+Un miliziano e' qui che mantiene l'ordine.
+~
+Il miliziano sembra ben addestrato per essere un cittadino.    
+~
+~
+~
+~
+262248 1024 500 -1 -1 -1 -1 -1 E
+13 10 4 1d1+130 2d8+1
+10 16000
+8 8 1
+E
+#134
+Kervin~
+Kervin~
+Kervin, il mago errante, sta... passeggiando qui attorno.
+~
+Kervin ha un aspetto molto strano...  Ha i capelli lunghi, bianchi e arruffati
+ed indossa una veste blu elettrico che nasconde il resto del suo corpo.    
+~
+~
+~
+~
+72 17838216 700 -1 -1 -1 -1 -1 E
+33 8 -2 1d1+300 3d8+5
+24 150000
+8 8 1
+E
+#135
+guardia cancelli~
+una guardia dei cancelli~
+La guardia dei cancelli e' qui che sorveglia il cancello.
+~
+La guardia ti sta osservando.    
+~
+~
+~
+~
+10 0 400 -1 -1 -1 -1 -1 E
+15 12 3 3d6+130 2d8+2
+9 21000
+8 8 1
+E
+#136
+luce brillante~
+una luce brillante~
+Una luce brillante illumina questo ambiente e quasi ti acceca!
+~
+Tenti di osservare con maggiore attenzione la luce e quasi ti bruci gli occhi
+nel tentativo.  Non e' un po' troppo brillante, chissa' cos'e'?    
+~
+~
+~
+~
+42 8 0 -1 -1 -1 -1 -1 E
+18 11 5 1d1+210 3d5+2
+15 30000
+8 8 0
+E
+#137
+guardiana wisp~
+una wisp guardiana~
+Una wisp guardiana ti attacca!
+~
+La Wisp e' fatto di aria mistica ed e' molto irritabile.    
+~
+~
+~
+~
+42 17825792 -400 -1 -1 -1 -1 -1 E
+18 12 4 1d1+170 2d8+3
+10 30000
+8 8 0
+E
+#138
+globo~
+il Globo~
+Il Globo risplende di una pura luce bianca.
+~
+Il globo e' di cristallo purissimo ed emana un'aura brillante.    
+~
+~
+~
+~
+8202 136 1000 -1 -1 -1 -1 -1 E
+33 7 -2 1d1+3580 4d6+7
+29 310000
+8 8 0
+E
+#139
+lich mouserider~
+il Lich~
+Il Lich ti lancia una potente maledizione!
+~
+Questo lich era una volta il preoccupato Mouse Rider.  Ora ha finalmente scelto
+la via del potere e lo ha ottenuto, divenendo immortale.  Sarai in grado di
+fermarlo?    
+~
+~
+~
+~
+42 1160 -1000 -1 -1 -1 -1 -1 E
+40 4 -4 1d1+400 4d8+15
+40 800000
+8 8 0
+E
+#140
+demone tempeste~
+il Demone delle Tempeste~
+Il demone delle tempeste attacca non appena il Lich glielo ordina!
+~
+Il demone ha delle grosse ali da pipistrello e degli splendenti occhi blu.  Ti
+attacca!    
+~
+~
+~
+~
+42 8 -900 -1 -1 -1 -1 -1 E
+10 12 5 1d1+100 2d6+2
+9 9000
+8 8 0
+E
+#141
+tiersten vampiro~
+Tiersten~
+Tiersten ti osserva con occhi pieni d'ira e scopre le zanne!
+~
+Tiersten, the patriarch of this odd, odd, family, turns out to be a vampire.  
+And a demonologist to boot!  He growls incoherently at you as he attacks!  
+Tiersten, il patriarca di questa stranissima famiglia, si rivela essere un
+vampiro.  Urla parole senza senso e ti attacca!    
+~
+~
+~
+~
+42 1160 -1000 -1 -1 -1 -1 -1 E
+30 9 0 1d1+350 3d7+6
+29 70000
+8 8 1
+E
+#142
+Edimmu~
+l'Edimmu~
+Un essere fatto di nebbia cerca di strangolarti con un viticcio!
+~
+Non sei in grado di vedere molto, a parte una nuvola di nebbia che ti attacca!
+  
+~
+~
+~
+~
+42 18350218 0 -1 -1 -1 -1 -1 E
+20 6 4 1d1+200 3d6+1
+17 60000
+8 8 0
+E
+#143
+Sosivia~
+Sosivia~
+Sosivia e' qui che sogna ad occhi aperti.
+~
+Sosivia ha l'anima di un'artista, nonostante la stranezza della sua famiglia.
+E' una bellissima donna che desidereresti trascinare via da questa casa.    
+~
+~
+~
+~
+26 0 1000 -1 -1 -1 -1 -1 E
+12 14 3 1d1+120 2d7+2
+12 13000
+8 8 2
+E
+#144
+Celia~
+Celia~
+Celia ti deride!
+~
+Celia e' la sorella di Talbot e Korino e la madre di Sosivia.  E' il vero capo
+della casa ed e' attaccatissima al potere.  Che donna orribile!    
+~
+~
+~
+~
+46 1024 -600 -1 -1 -1 -1 -1 E
+21 10 4 1d1+270 2d9+6
+17 24000
+8 8 2
+E
+#145
+Talbot~
+Talbot~
+Talbot e' qui che si allena con suo fratello Korino.
+~
+Talbot ha un ghigno permanente sul volto.  Ti osserva mentre da un colpo alla
+spada del fratello per poi assestargli un pericoloso fendente...    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+22 7 1 1d1+230 2d8+2
+21 21000
+8 8 1
+E
+#146
+Korino~
+Korino~
+Korino e' qui che si allena con suo fratello Talbot.
+~
+Korino ti osserva ed un lampo di gioia compare nel suo sguardo.  
+Contemporaneamente para un fendente di Talbot e risponde...    
+~
+~
+~
+~
+6186 1024 300 -1 -1 -1 -1 -1 E
+22 18 1 1d1+200 2d8+8
+17 21000
+8 8 1
+E
+#147
+Fleecem Bungle~
+Bungle Fleecem~
+Bungle Fleece, lo scudiero, ti osserva con aria interrogativa.
+~
+Sorride, poggia la schiena sulla sedia, e tenta di sembrare annoiato per
+mascherare la sua indole da avvoltoio.  Non ha molto successo.  Del resto e' un
+avvocato.    
+~
+~
+~
+~
+138 0 -600 -1 -1 -1 -1 -1 E
+14 7 4 1d1+150 2d6+1
+11 8000
+6 6 1
+E
+#148
+becchino~
+un becchino~
+Un becchino sta facendo il turno di notte.
+~
+Sembra stanco e sporco.  Un lampo nei suoi occhi e si congeda da te.  Non
+sembra voler aver a che fare con te.    
+~
+~
+~
+~
+10 0 200 -1 -1 -1 -1 -1 E
+9 12 4 1d1+80 2d7+2
+8 6500
+8 8 1
+E
+#149
+cittadina~
+una cittadina~
+Una cittadina di Kerofk e' qui che bada ai suoi affari.
+~
+Questa cittadina non sembra aver tempo da perdere con te.  Ha molto da fare.  
+
+~
+~
+~
+~
+72 0 100 -1 -1 -1 -1 -1 E
+9 12 3 1d1+90 2d5+1
+5 6000
+8 8 2
+E
+#150
+mastino infernale~
+un mastino infernale~
+Un mastino infernale ti guarda affamato.
+~
+La sua pelliccia e' di un colore rosso-marroncino, mentre i suoi occhi sono la
+cosa che piu' ti colpisce.  Rosso dentro rosso, con una piccola pupilla nera al
+centro.    
+~
+~
+~
+~
+104 40 -500 -1 -1 -1 -1 -1 E
+18 13 3 1d1+220 2d8+3
+11 30000
+8 8 0
+E
+#151
+goblin~
+un goblin~
+Un goblin si lancia in un folle attacco!
+~
+Ti accorgi che i suoi occhi sono iniettati di sangue, e capisci che non c'e'
+alcun modo di ragionare con questa creatura...    
+~
+~
+~
+~
+42 40 -600 -1 -1 -1 -1 -1 E
+10 12 5 1d1+100 2d7+1
+7 9000
+8 8 0
+E
+#152
+contadina~
+una contadina~
+Una contadina vende le sue mercanzie garantendone la bonta'.
+~
+Sembra stanca, ma comunque continua nel suo lavoro.    
+~
+~
+~
+~
+134225930 0 200 -1 -1 -1 -1 -1 E
+18 13 4 1d1+220 3d6+2
+16 30000
+8 8 2
+Spec: 0
+E
+#153
+locandiera~
+una locandiera~
+Una locandiera e' davanti a te e si offre di aiutarti.
+~
+Ti guarda felice e ti da un amichevole buffetto.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+18 13 0 1d1+200 3d5+2
+15 25000
+8 8 2
+E
+#154
+barista~
+un barista~
+Il Barista sta servendo contemporaneamente diversi drink.
+~
+Il barista sembra molto indaffarato e tenta di servire contemporaneamente
+diversi clienti.  Forse dovresti ordinare piu' tardi...    
+~
+~
+~
+~
+134225930 0 250 -1 -1 -1 -1 -1 E
+14 8 4 1d1+160 2d8+2
+13 16000
+8 8 1
+Spec: 0
+E
+#155
+uomo semitrasparente guardia seguace~
+Un seguace di Night~
+Un seguace di Night e' qui nascosto nell'ombra
+~
+Un uomo semitrasparente, armato e recante le insegne di Night sta sorvegliando il covo.
+~
+~
+~
+~
+26123 274877908008 -500 -1 -1 -1 -1 -1 E
+70 2 -8 1d1+1399 5d13+10
+67 0
+8 8 1
+Spec: 16
+E
+T 10
+T 11
+T 12
+$

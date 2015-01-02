@@ -1,0 +1,22 @@
+trigedit 33106
+6  
+/c 
+if %actor.vnum% == -1
+wait 10
+wforce guardia say Impossibile gli intrusi sono arrivati fino a qui !
+wait 10
+wforce guardia emote decide di svegliare il suo capo
+wait 10
+wforce guardia say Sveglia Thunk ! E' ora di spaccare delle teste !
+wforce guardia sveglia thunk
+wait 10
+wforce thunk say &1&xCHI OSA DISTURBARMI! MORITE!&0
+wait 10
+wforce guardia grin
+end
+else end
+end
+~
+/s
+q
+y

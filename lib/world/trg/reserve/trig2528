@@ -1,0 +1,12 @@
+trigedit 2528
+6  
+/c 
+* Lista comandi
+wait 2
+wsend %actor.name% &6&xTi inchini, e col tuo peso il masso su cui stavi si sposta piu' avanti... un piccolo balzo ed entri nel Tempio&0'
+wechoaround %actor.name% &6&x%actor.name% si inchina...&0
+%teleport% %actor.name% 684
+~
+/s
+q
+y

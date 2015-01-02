@@ -1,0 +1,11 @@
+trigedit 64
+6  
+/c 
+tele %actor.name% Yhumm! Che boccone prelibato! La tenerezza e il sapore della
+%tele% %actor.name% carne unita alla fragranza di un vino novello. E' quasi un
+tele %actor.name% peccato masticarlo...
+echo buooono
+~
+/s
+q
+y

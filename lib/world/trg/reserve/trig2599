@@ -1,0 +1,19 @@
+trigedit 2599
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.name% != earien
+wait 1 s
+osend %actor.name% &7Pessima idea...&0
+odamage %actor.name% 5000
+halt
+end
+oechoaround earien Earien assume un'aria accidiosa
+osend earien Ora ti senti molto disponibile a sentire i problemi degli altri
+wait 1 s
+oforce earien say &5&x-| &1 Erminia e' molto bella!  &5|-&0
+~
+/s
+q
+y

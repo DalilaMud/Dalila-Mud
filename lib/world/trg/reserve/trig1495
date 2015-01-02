@@ -1,0 +1,17 @@
+trigedit 1495
+6  
+/c 
+if %actor.name% != dolmant
+halt
+end
+wsend dolmant accetta >>>>> Serve per far entrare qualcuno quando ti arriva l'avviso che qualcuno aspetta
+wsend dolmant attendi >>>>> Serve per far attendere qualcuno quando ti arriva l'avviso che qualcuno aspetta
+wsend dolmant caccia >>>>> Serve per far cacciare qualcuno quando ti arriva l'avviso che qualcuno aspetta
+wsend dolmant aprite >>>>> Serve per far aprire la porta, quando un tuo ospite se ne deve andare
+wsend dolmant piazza >>>>> Vai in piazza
+wsend dolmant fuga >>>>> Fuggi in un posto segreto
+wsend dolmant botola x >>>>> Sostituisci la x con il nome di chi ti sta rompendo le scatole, e divertiti
+~
+/s
+q
+y

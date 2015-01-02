@@ -1,0 +1,15 @@
+trigedit 9731
+6  
+/c 
+if %conta% > 4
+mpurge cerca
+set conta 0
+global conta
+else
+eval conta %conta%+1
+global conta
+end
+~
+/s
+q
+y

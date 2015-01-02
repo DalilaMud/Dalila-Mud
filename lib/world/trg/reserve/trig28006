@@ -1,0 +1,45 @@
+trigedit 28006
+6  
+/c 
+wait 1
+emote comincia ad arpeggiare qualche nota.
+eval num %random.17%
+if %num% == 1
+say Ecco per voi. :) !!MUSIC(assolpiano.mid) 
+elseif %num% == 2
+say Ecco per voi. :) !!MUSIC(avvent.mid) 
+elseif %num% == 3
+say Ecco per voi. :) !!MUSIC(bookdays.mid) 
+elseif %num% == 4
+say Ecco per voi. :) !!MUSIC(ciucca.mid) 
+elseif %num% == 5
+say Ecco per voi. :) !!MUSIC(daggerfall.mid) 
+elseif %num% == 6
+say Ecco per voi. :) !!MUSIC(evfalls.mid) 
+elseif %num% == 7
+say Ecco per voi. :) !!MUSIC(foreign.mid) 
+elseif %num% == 8
+say Ecco per voi. :) !!MUSIC(guerra.mid) 
+elseif %num% == 9
+say Ecco per voi. :) !!MUSIC(lbcastle.mid) 
+elseif %num% == 10
+say Ecco per voi. :) !!MUSIC(lothlori.mid) 
+elseif %num% == 11
+say Ecco per voi. :) !!MUSIC(life.mid) 
+elseif %num% == 12
+say Ecco per voi. :) !!MUSIC(melodia1.mid) 
+elseif %num% == 13
+say Ecco per voi. :) !!MUSIC(moonlight.mid) 
+elseif %num% == 14
+say Ecco per voi :) !!MUSIC(palazzo1.mid) 
+elseif %num% == 15
+say Ecco per voi. :) !!MUSIC(palazzo2.mid) 
+elseif %num% == 16
+say Ecco per voi. :) !!MUSIC(palazzo3.mid) 
+else
+say Ecco per voi. :) !!MUSIC(papapaaa.mid) 
+end
+~
+/s
+q
+y

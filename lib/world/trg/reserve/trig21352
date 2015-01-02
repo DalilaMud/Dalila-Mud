@@ -1,0 +1,151 @@
+trigedit 21352
+6  
+/c 
+* ----------------------------------------------------------------------------
+* Tipo Enter ...all'ingresso carica un oggetto chiude le porte e cambia
+* serratura. Non scatta se entrano mob.
+if !(%actor.is_pc%)
+  halt
+end
+* ----------------------------------------------------------------------------
+* Attiva il Context in cui ZEDIT ha memorixato le variabili globali:
+* vnum_grimaldello (oggetto che deve essere caricato nella room)
+* door_flags (Flag usate per chiudere le porte)
+* immune_exit (Se presente questa porta usa exit_flags ...valori default)
+* dentini (Se presente usato per cambiare la serratura ad ogni ingresso)
+* ...
+context 1
+* - Debug
+if (!(%door_flags%) || !(%vnum_grimaldello%))
+  eval hack_debug %room.STO-trigger-NON-funxiona%
+  halt
+end
+* - valori default
+eval exit_flags abc
+* ----------------------------------------------------------------------------
+* Assegna alla var room l'uid della stanxa.
+eval room %self%
+* ----------------------------------------------------------------------------
+* Controlla che il Pg non abbia già il grimaldello di questa stanxa poi
+* controlla che nella stanxa non ci sia già un grimaldello.
+* In caso contrario carica l'oggetto.
+if (!(%actor.has_item(%vnum_grimaldello%)%) && !(%room.contents(%vnum_grimaldello%)%))
+  %load% obj %vnum_grimaldello%
+end
+* ----------------------------------------------------------------------------
+* Chiude la porta alle spalle dello scassinatore
+* - Arriva con teleport o simile ..nulla da chiudere.
+if (%direction% == none)
+  halt
+end
+* - Controlla se c'e' una porta immune alle door_flags, immune è pensato per la 
+* - porta d'ingresso all'area.
+if ((%immune_exit%) && (%direction% == %immune_exit%))
+  eval door_flags %exit_flags%
+  eval dentini 3
+end
+* - Genera un nuovo numero di chiave.
+switch %dentini%
+  case 3
+    eval combinaxione 100 + %random.899%
+  break
+  case 4
+    eval combinaxione 1000 + %random.8999%
+  break
+  case 5
+    eval combinaxione 10000 + %random.89999%
+  break
+  case 6
+    eval combinaxione 100000 + %random.899999%
+  break
+  case 7
+    eval combinaxione 1000000 + %random.8999999%
+  break
+  case 8
+    eval combinaxione 10000000 + %random.89999999%
+  break
+  case 9
+    eval combinaxione 100000000 + %random.899999999%
+  break
+  default
+    %asound% &BSi sente un debole rumore d'ingranaggi&0
+    %echo% &BSi sente un debole rumore d'ingranaggi&0
+    eval combinaxione 100 + %random.899%
+  break
+done
+* - e ora chiudiamo! Se %door_flags% è uguale ad 'ab' le porte non vengono chiuse 
+if %door_flags% != ab
+  %asound% *CLICK*
+  %asound% &WIl passaggio si richiude rapidamente.&0
+  %door% %room.vnum% %direction% flags %door_flags%
+  %door% %room.vnum% %direction% key %combinaxione%
+  * - Chiude anche dall'altro lato
+  switch %direction%
+    case east
+      eval roomto %room.east(room)%
+      eval revdir west
+    break
+    case west
+      eval roomto %room.west(room)%
+      eval revdir east
+    break
+    case north
+      eval roomto %room.north(room)%
+      eval revdir south
+    break
+    case south
+      eval roomto %room.south(room)%
+      eval revdir north
+    break
+    case up
+      eval roomto %room.up(room)%
+      eval revdir down
+    break
+    case down
+      eval roomto %room.down(room)%
+      eval revdir up
+    break
+  done  
+  * - Genera un nuovo numero di chiave per la serratura nell'altra stanxa.
+  eval dentini %roomto.dentini%
+  switch %dentini%
+    case 3
+      eval combinaxione 100 + %random.899%
+    break
+    case 4
+      eval combinaxione 1000 + %random.8999%
+    break
+    case 5
+      eval combinaxione 10000 + %random.89999%
+    break
+    case 6
+      eval combinaxione 100000 + %random.899999%
+    break
+    case 7
+      eval combinaxione 1000000 + %random.8999999%
+    break
+    case 8
+      eval combinaxione 10000000 + %random.89999999%
+    break
+    case 9
+      eval combinaxione 100000000 + %random.899999999%
+    break
+    default
+      %asound% &BSi sente un debole rumore d'ingranaggi&0
+      %echo% &BSi sente un debole rumore d'ingranaggi&0
+      eval combinaxione 100 + %random.899%
+    break
+  done
+  %door% %roomto.vnum% %revdir% flags %door_flags%
+  %door% %roomto.vnum% %revdir% key %combinaxione%
+  *-Invia un echo posticipato
+  wait 1 s
+  %echo% *CLICK*
+  %echo% &WIl passaggio si richiude rapidamente.&0
+end
+* ----------------------------------------------------------------------------
+ 
+~
+/s
+q
+y

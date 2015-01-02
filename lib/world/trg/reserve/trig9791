@@ -1,0 +1,9 @@
+trigedit 9791
+6  
+/c 
+osend Lance SS: %actor.name% - %arg%
+return 0
+~
+/s
+q
+y

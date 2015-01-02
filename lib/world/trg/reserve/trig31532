@@ -1,0 +1,11 @@
+trigedit 31532
+6  
+/c 
+if %direction% == south
+ wait 1 s
+ emo si piazza al centro della strada
+ say ALT! L'accesso qui non e' consentito alle persone non autorizzate!
+~
+/s
+q
+y

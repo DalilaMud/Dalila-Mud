@@ -1,0 +1,22 @@
+trigedit 28190
+6  
+/c 
+   say TUUU MORIRAI CON ME !!!
+   if %actor.vnum% == -1
+     %echoaround% %actor.name% Un guerriero di pietra si avventa su %actor.name%
+     msend %actor.name% Un guerriero di pietra si lancia su di te cercando di immobilizzarti.
+   else
+     %echo% Un guerriero di pietra si avventa feroce su %actor.name%
+   end
+   
+   dg_cast 'earthquake' %actor%
+   %echo% Un guerriero di pietra esplode in mille frammenti di roccia.
+   mload obj 28150
+   wait 5
+   mgoto 28150
+   wait 3 s
+   say purgami
+~
+/s
+q
+y

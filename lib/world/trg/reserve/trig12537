@@ -1,0 +1,20 @@
+trigedit 12537
+6  
+/c 
+if %object.type% == FOOD
+if %object.name% /= fieno
+eval mangiato %mangiato% + %object.val0%
+global mangiato
+wait 1
+mat 3 drop all.fieno
+eval fame %fame% - 5
+if %fame% < 1
+set fame 1
+end
+global fame
+end
+end
+~
+/s
+q
+y

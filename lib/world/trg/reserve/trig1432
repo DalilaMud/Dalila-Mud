@@ -1,0 +1,19 @@
+trigedit 1432
+6  
+/c 
+set runa 1
+global runa
+wait 1 s
+return 0
+oechoaround %actor.name% &6%actor.name% afferra la runa che scompare mentre pare spostarsi qualche passo in la'&0
+osend %actor.name% &6Non appena afferri la runa ti senti differente&0
+dg_affect %actor.name% blink 0 2
+wait 1 s
+osend %actor.name% &1&xLa Runa diventa cosi' incandescente che sei costretto a posarla!&0
+oload mob 549
+oforce %actor.name% rimu runa
+oforce %actor.name% posa runa
+~
+/s
+q
+y

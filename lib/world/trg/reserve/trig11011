@@ -1,0 +1,30 @@
+trigedit 11011
+6  
+/c 
+if %actor.clan% != 3
+wait 1 s
+emote guarda con sprezzo %actor.name%
+halt
+end
+wait 1 s
+if %actor.rank% >= 43
+if %speech% == guardie andiamo
+say Agli ordini, %actor.name%
+follow %actor.name%
+wait 1 s
+say Pronto!!
+elseif %speech% == guardie riposo
+wait 1 s
+say Agli ordini
+wait 1 s
+follow self
+elseif %speech% == guardie saluto
+emote si inchina con fierezza
+end
+else
+emote guarda male %actor.name%
+end
+~
+/s
+q
+y

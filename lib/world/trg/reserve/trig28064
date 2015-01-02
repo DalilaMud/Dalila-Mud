@@ -1,0 +1,42 @@
+trigedit 28064
+6  
+/c 
+if %object.vnum% == 28060
+wait 1
+mpurge goccia
+wait 1 s
+smile %actor.name%
+say &3 Il 21 e' il gioco preferito dal defunto Re Otak. &0
+wait 4 s
+emote &3 prende un nuovo mazzo di carte e lo mischia con grande maestria. &0
+wait 4 s
+mforce %actor% emote &6 spacca il mazzo!! &0
+wait 3 s
+eval pg1 %random.10%
+eval pg2 %random.10%
+eval banco1 %random.10%
+eval banco2 %random.10%
+global pg1
+global pg2
+global banco1
+global banco2
+set key ok
+global key
+set ide %actor.name%
+global ide
+emote &3 allunga a %actor.name% una carta scoperta,un %pg1% ,e una coperta. &0
+tell %actor.name% un %pg2% !!
+wait 5 s
+emote &3 scopre la prima delle due carte del banco, un %banco1% !! &0
+wait 4 s
+grin
+wait 3 s
+say &3 Cosa fai? &0
+wait 1 s
+else
+say &x&1 Devo chiamare le guardie?? &0
+end
+~
+/s
+q
+y

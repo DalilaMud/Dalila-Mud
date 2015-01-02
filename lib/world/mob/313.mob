@@ -1,0 +1,678 @@
+#31303
+djinni genio~
+Lo djinni del vento~
+Un genio del vento e' stato evocato e galleggia nell'aria!!
+~
+E' una figura umana che distingui chiaramente all'interno di quello che sembra
+un vortice fluttuante!!  Si muove fedele dietro al suo padrone come un piccolo
+tornado, coprendogli le spalle e pronto ad esaudire ogni suo desiderio!    
+~
+~
+~
+~
+245770 10486824 300 -1 -1 -1 -1 -1 E
+55 15 -10 1d1+600 3d14+13
+29 0
+8 8 1
+BareHandAttack: 5
+Str: 18
+Dex: 15
+E
+#31307
+guardia drow~
+Una guardia drow~
+Una guardia Drow e' qui per bloccare gli intrusi.
+~
+Piu' alto degli altri Drow e ben armato, e' l'individuo che bada
+che nessuno di indesiderato entri nel villaggio.
+Ti guarda dal basso all'alto, ma dietro il suo equipaggiamento
+di adamianto si puo' sentire sicuro...
+~
+~
+~
+~
+12810 0 -200 -1 -1 -1 -1 -1 E
+55 7 -10 1d1+749 5d8+10
+32 0
+8 8 1
+E
+T 31306
+#31308
+architetto drow~
+Un architetto drow~
+Un architetto e' qui, sta perfezionando la forma dei pilastri.
+~
+E' piccolo, magrolino ed indifeso, ma e' molto piu' intelligente
+della media drow.
+Se non fosse un drow non sembrerebbe nemmeno troppo malvagio...
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+25 15 8 1d1+499 3d5+3
+18 0
+8 8 1
+E
+#31309
+mago drow~
+Un mago drow~
+Un mago Drow e' qui che imprime magia ai pilastri.
+~
+Evita il tuo sguardo, non si cura di te ma si vede che freme e
+se non fosse per il lavoro che deve fare avrebbe gia' assaggiato
+da tempo il tuo sangue...
+~
+~
+~
+~
+11 0 -400 -1 -1 -1 -1 -1 E
+45 13 -2 1d1+649 3d14+6
+41 0
+8 8 1
+E
+#31310
+guerriero drow~
+Un guerriero drow~
+Un drow grosso e pieno di cicatrici e' qui.
+~
+Un drow stranamente alto per la sua razza e molto muscoloso,
+armato di pericolosi arnesi di adamianto e sul cui viso puoi
+notare cicatrici di moltissimi combattimenti.
+Sarebbe meglio non averlo contro...
+~
+~
+~
+~
+8219 67108992 -400 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+1299 4d18+15
+47 0
+8 8 1
+Str: 18
+Int: 5
+Con: 13
+Spec: 16
+E
+#31311
+capitano guardie drow guardia~
+Il capitano delle guardie~
+Il capitano delle guardie sta sonnecchiando.
+~
+Questo Drow e' talmente tanto grande che se non fosse per il
+colore della pelle e dei capelli non lo penseresti che possa
+appartenere a questa razza! Forse e' meglio lasciarlo dormire...
+~
+~
+~
+~
+108042 0 0 -1 -1 -1 -1 -1 E
+65 -5 -10 1d1+1399 4d12+12
+44 0
+5 5 1
+Str: 18
+E
+#31312
+guardia drow stanca~
+Una stanca guardia drow~
+Una guardia Drow sta dormendo qui.
+~
+Non dubiti della durezza dei suoi orari di lavoro, anche se
+ti viene piu' di un'incertezza su quella del loro comandante...
+~
+~
+~
+~
+4618 0 0 -1 -1 -1 -1 -1 E
+55 7 -10 1d1+749 5d8+10
+40 0
+4 4 1
+E
+#31313
+cuoco drow~
+Un cuoco Drow~
+Un piccolo e apparentemente indifeso Drow sta cucinando...
+~
+E' molto assorto dal suo lavoro e sembra alquanto innervosito
+dall'interruzione...
+Dai un'occhiata nel suo tegame... sta trafiggendo con il suo
+coltello un cane immerso da vivo nell'acqua bollente!
+~
+~
+~
+~
+43 16777216 -400 -1 -1 -1 -1 -1 E
+40 5 10 1d1+799 3d10+5
+22 0
+8 8 1
+Spec: 14
+E
+T 31310
+#31314
+alchimista drow~
+Un alchimista drow~
+Un Drow alchimista sta preparando qualche mortale intruglio
+~
+Questo piccolo essere, abituato fin da giovane a vivere in
+un'oscurita' ancora piu' totale degli altri membri della sua
+razza, presenta un contrasto tra i candidi capelli e la cinerea
+pelle che lascia atterriti.
+E deve essere anche molto intelligente...
+~
+~
+~
+~
+32811 0 -600 -1 -1 -1 -1 -1 E
+60 0 -3 1d1+1299 3d16+5
+42 0
+6 6 1
+Spec: 15
+E
+T 31311
+#31315
+matrona drow~
+Una matrona drow~
+Una matrona e' qui, si sta riposando su un letto.
+~
+Questa Drow sembra piuttosto vecchia e di certo e' molto
+rispettata. Fossi in te non la disturberei...
+~
+~
+~
+~
+42 17825792 -200 -1 -1 -1 -1 -1 E
+50 7 -3 1d1+749 3d7+7
+38 0
+5 5 2
+E
+#31316
+guardia personale drow~
+Una guardia personale Drow~
+Una guardia personale e' pronta a proteggere la sua signora!
+~
+Questo grosso Drow riesce quasi a coprire la sua voglia di
+ucciderti dietro alla volonta' di proteggere la propria signora.
+Se disturbi la sua signora potrebbe essere doppiamente
+motivato...
+~
+~
+~
+~
+4106 33554432 -50 -1 -1 -1 -1 -1 E
+55 5 -10 6d25+700 4d12+10
+44 0
+8 8 1
+Str: 15
+Dex: 13
+E
+#31317
+fabbro drow~
+Un fabbro Drow~
+Un esperto fabbro Drow e' assorto nel lavoro, sembra non notarti
+~
+Questo e' uno dei pochi Drow che non pensa a soddisfare il
+proprio appetito di sangue ma si dedica attivamente al proprio
+mestiere. Ma il suo martello puo' facilmente battere anche altro
+oltre l'adamianto...
+~
+~
+~
+~
+106522 0 -100 -1 -1 -1 -1 -1 E
+60 5 -10 15d15+1000 4d14+15
+48 0
+8 8 1
+E
+#31318
+aiutante fabbro drow~
+Un aiutante fabbro Drow~
+Un giovane lavoratore sta seguendo gli ordini del suo capo
+~
+Un giovane e muscoloso Drow che segue attentamente il proprio
+capo, sforzandosi di non pensare al dolce sapore del tuo
+sangue...
+~
+~
+~
+~
+4106 0 -250 -1 -1 -1 -1 -1 E
+45 5 -4 15d10+400 4d10+5
+29 0
+8 8 1
+E
+#31319
+istruttore drow~
+Un istruttore drow~
+Un istruttore Drow sta impartendo ordini ai suoi discepoli
+~
+Questo Drow, ormai ritirato dall'esercito, passa la sua vita ad
+allenare i giovani per l'arruolamento
+~
+~
+~
+~
+94234 128 0 -1 -1 -1 -1 -1 E
+60 0 -10 10d15+800 3d16+10
+44 0
+8 8 1
+E
+#31320
+giovane drow~
+Un giovane drow~
+Un giovane Drow si sta allenando qui.
+~
+Questo elfo scuro e' giovane ma gia' molto robusto, e si sta
+alleando per diventare un valido aiuto contro il pericolo che
+minaccia la sua popolazione
+~
+~
+~
+~
+135178 0 -100 -1 -1 -1 -1 -1 E
+40 10 -2 1d1+599 3d10+4
+28 0
+8 8 1
+E
+#31321
+coordinatore drow~
+Un coordinatore drow~
+Un coordinatore Drow controlla che nessuno si riposi.
+~
+Questo robusto Drow e' pesantemente armato per evitare ogni
+sorta di fuga. Se sei qui forse e' meglio scavare in silenzio...
+~
+~
+~
+~
+106522 67108864 -300 -1 -1 -1 -1 -1 E
+60 6 -10 1d1+1299 3d17+16
+52 0
+8 8 1
+E
+T 31313
+#31322
+schiavo illithyd~
+Uno schiavo Illithyd~
+Uno schiavo Illithyd sta lavorando incessantemente.
+~
+Questo essere umanoide sembra indifeso di fronte ai mezzi
+brutali con i quali sono trattati gli schiavi, ma ogni drow ha
+imparato a tenersi bene a distanza da lui.
+Dei cenci attorno al suo corpo erano probabilmente in origine un
+saio, e mentre osservi con ripugnanza dei tentacoli muoversi dove
+ti aspetteresti la bocca di questa creatura capisci che fa parte
+della potente razza degli Illithyd, da sempre in lotta con i
+drow.
+Ubbidisce solo alla sua Mente.
+~
+~
+~
+~
+8203 0 0 -1 -1 -1 -1 -1 E
+65 10 10 1d1+399 4d11+2
+59 0
+8 8 0
+Spec: 15
+E
+#31323
+schiavo nano~
+Uno schiavo nano~
+Uno schiavo Nano sta picconando con veemenza.
+~
+Basso e tarchiato, indubbiamente appartenente alla razza nana,
+scava per i Drow dopo essere stato catturato in battaglia. Spera
+solo di liberarsi dell'oppressore, ma non sembra troppo
+intenzionato a ringraziare il liberatore...
+~
+~
+~
+~
+65546 0 -150 -1 -1 -1 -1 -1 E
+15 8 -2 1d1+199 2d6+0
+14 0
+8 8 1
+E
+#31324
+schiavo nano~
+Uno schiavo nano~
+Uno schiavo nano batte la pietra con veemenza.
+~
+A differenza dei suoi compagni di schiavitu' non sembra rassegnato
+al suo destino, e vedi nei suoi occhi una luce malvagia mentre
+colpisce la nuda roccia.
+Per un attimo ti sovviene l'immagine di come potrebbero esserci le
+teste dei drow al posto di quei massi.
+~
+~
+~
+~
+65546 0 -350 -1 -1 -1 -1 -1 E
+35 5 -3 1d1+399 5d10+3
+32 0
+8 8 1
+E
+T 31314
+#31325
+arciere drow~
+Un arciere drow~
+Un arciere Drow e' qui in stato di allerta.
+~
+Questo piccolo e agile Drow brandisce arco e frecce per
+difendere la casa della matrona.
+~
+~
+~
+~
+4106 0 -100 -1 -1 -1 -1 -1 E
+25 10 -2 1d1+399 4d6+3
+21 0
+8 8 1
+Dex: 21
+E
+T 31315
+#31326
+guardia scelta drow~
+Una guardia scelta Drow~
+Una guardia scelta Drow e' qui per proteggere la sua signora
+~
+Questo grosso Drow e' stato allenato fin da piccolo nell'aiutare
+solo la sua signora, ma puoi star certo che in questo e' davvero
+esperto...
+~
+~
+~
+~
+45114 0 -200 -1 -1 -1 -1 -1 E
+65 0 -10 10d29+900 3d11+15
+46 0
+8 8 1
+E
+#31327
+prima matrona drow~
+La prima matrona drow~
+La prima Matrona siede agiatamente sul trono.
+~
+Non e' giovane, ma ha ancora una forza incredibile e una follia
+insana, necessaria per governare un popolo di Drow. E
+soprattutto e' attorniata da temibili guardie...
+~
+~
+~
+~
+258074 201326720 -600 -1 -1 -1 -1 -1 E
+70 -10 -10 30d39+600 4d10+20
+43 0
+8 8 2
+Str: 20
+Dex: 25
+E
+#31328
+elfo prigioniero~
+Un elfo prigioniero~
+Un elfo della superficie giace a terra.
+~
+Questo povero elfo giace a terra. Il buio e le precarie
+condizioni lo hanno privato di ogni forma di vitalita', e ora
+giace a terra apparentemente svenuto.
+~
+~
+~
+~
+8 0 500 -1 -1 -1 -1 -1 E
+4 19 10 1d1+10 1d1+0
+3 0
+2 2 1
+E
+#31329
+saggio gnomo prigioniero~
+Un saggio gnomo~
+Un saggio gnomo e' accecato dalla sporcizia in cui vive.
+~
+Un basso e debole prigioniero, inutile per i Drow, costretto a
+vivere nelle prigioni in precarie condizioni.
+Magari nella sua lunga prigionia ha potuto imparare qualcosa di
+utile, seppur oppresso dal costante controllo delle guardie.
+~
+~
+~
+~
+1073930251 0 600 -1 -1 -1 -1 -1 E
+30 15 5 1d1+299 3d7+0
+24 0
+8 8 1
+Spec: 15
+E
+T 31317
+T 31318
+T 31319
+T 31320
+T 31321
+T 31322
+T 31323
+#31330
+maschio drow~
+Un maschio drow~
+Un drow maschio ti assale per la tua intrusione!
+~
+Questo drow maschio di media statura si aggira per le vie della sua
+citta' senza alcun impiego oltre quello di odiare gli esseri della
+superficie. I suoi capelli bianchi ricadono sulla fronte scura facendo
+un acre contrasto, e sotto di essi i grandi occhi ti osservano.
+Non sembra contento della tua presenza.
+~
+~
+~
+~
+26136 0 -400 -1 -1 -1 -1 -1 E
+45 5 -8 1d1+799 3d15+8
+25 0
+8 8 1
+E
+#31331
+femmina drow~
+Una femmina drow~
+Una femmina drow si guarda attorno con circospezione.
+~
+Nonostante la sua stazza sia piu' piccola di quella dei maschi della
+sua razza noti dal suo sguardo una ferma determinazione che deriva da
+anni passati in una sensazione di sicurezza e limitato potere.
+Quelli che sembrano essere alti ufficiali la guardano con rispetto,
+lanciando rapide occhiate alla casata che svetta lontana. A nessuno di
+loro piacerebbe essere trasformata in una driader!
+~
+~
+~
+~
+131096 0 -300 -1 -1 -1 -1 -1 E
+40 10 -5 1d1+599 3d12+4
+26 0
+8 8 2
+E
+#31332
+driader~
+Una driader~
+Una driader e' pronta a balzarti addosso solo per assaggiare il tuo sangue!
+~
+Questo orrido essere in origine era un fiero esponente della razza
+drow, ma le sue sconsiderate azioni hanno scatenato su di lui la
+rabbia della prima matrona.
+Un terribile sortilegio l'ha imprigionato in un corpo per meta'
+umanoide e per meta' di ragno, e ora vaga per la sua citta' in cerca
+di sangue fresco con cui nutrirsi.
+~
+~
+~
+~
+106552 0 -600 -1 -1 -1 -1 -1 E
+55 0 -10 1d1+999 4d16+10
+36 0
+8 8 1
+E
+#31333
+drago caverne cucciolotto~
+Il drago delle caverne~
+Il possente Drago delle caverne dorme sul suo giaciglio.
+~
+Questo tenero cucciolotto sembra dormire sonni tranquilli, ma la
+quantita' smisurata di cadaveri sbranati che lo circonda
+tradisce la sua vera natura. Vuoi far parte della sua collezione
+personale?
+~
+~
+~
+~
+254011 2336478994432 -400 -1 -1 -1 -1 -1 E
+70 -10 -10 30d50+1200 6d14+20
+41 0
+4 4 0
+Str: 20
+Dex: 17
+Spec: 29
+E
+#31334
+guardia nanica cancelli~
+Una guardia dei cancelli~
+Una guardia nanica e' qui a difesa del cancello.
+~
+Questo nano, basso e molto robusto come tipico della loro razza,
+e' ben addestrato e brandisce un'ascia che sembra piuttosto
+dolorosa... pare davvero intenzionato a fartela testare!
+~
+~
+~
+~
+96794 0 -500 -1 -1 -1 -1 -1 E
+55 0 -10 1d1+1099 4d10+13
+52 0
+8 8 1
+Str: 14
+E
+#31335
+guardia nanica prigioni~
+Una guardia nanica~
+Una guardia nanica e' qui a protezione delle prigioni.
+~
+Bassa e tozza, sembra un nemico davvero tenace, pronto a distruggere
+chiunque minacci l'ordine cittadino.
+~
+~
+~
+~
+79370 0 -300 -1 -1 -1 -1 -1 E
+55 0 -10 1d1+1099 3d12+12
+38 0
+8 8 1
+E
+#31336
+drow prigioniero~
+Un Drow prigioniero~
+Un Drow fatto prigioniero giace sdraiato e ferito.
+~
+Questo Drow, benche' piu' robusto e possente della media della sua
+razza, sembra essere caduto sotto gli implacabili colpi dei Nani
+Duergar, e pertanto giace steso nelle prigioni sotterranee.
+~
+~
+~
+~
+538 0 -500 -1 -1 -1 -1 -1 E
+30 10 3 1d1+699 2d13+3
+23 0
+8 8 1
+E
+#31337
+nano~
+Un nano della superficie~
+Un nano della superficie sta preparando un piano di fuga.
+~
+It looks unfinished.
+~
+~
+~
+~
+65562 0 300 -1 -1 -1 -1 -1 E
+45 8 -2 1d1+899 3d9+8
+27 0
+8 8 1
+E
+#31338
+vecchio nano fabbro duergar~
+Un vecchio nano fabbro~
+Un vecchio e robusto nano controlla l'operato dei giovani.
+~
+Basso e incredibilmente tozzo, porta sul volto i segni di una vita
+passata tra martelli e incudini, ma sembra ancora molto potente.
+~
+~
+~
+~
+253978 0 -200 -1 -1 -1 -1 -1 E
+60 -3 -10 1d1+1399 4d11+15
+41 0
+8 8 1
+E
+#31339
+giovane nano fabbro duergar~
+Un giovane nano fabbro~
+Un giovane e vitale nano sta battendo i metalli con incredibile vigore!
+~
+Giovane ma gia' molto robusto, e' sulla buona strada per diventare
+artefice di grandi opere!
+~
+~
+~
+~
+98330 0 -300 -1 -1 -1 -1 -1 E
+40 0 -8 1d1+999 3d14+10
+24 0
+8 8 1
+E
+#31340
+guardia duergar~
+Una guardia Duergar~
+Una guardia Duergar sta riposando.
+~
+Molto robusto ed abituato alla battaglia, si impegna per difendere
+l'ordine pubblico. O almeno e' quello che cerca di fare...
+~
+~
+~
+~
+77834 0 -240 -1 -1 -1 -1 -1 E
+55 0 -10 1d1+1099 3d15+12
+47 0
+8 8 1
+E
+#31341
+gioielliere duergar~
+Un gioielliere Duergar~
+Un gioielliere sta minuziosamente esaminando un piccolo diamante.
+~
+A differenza della maggior parte dei suoi compagni non sembra molto
+portato al combattimento, e pare aver sviluppato delle arti
+alternative.
+~
+~
+~
+~
+65546 0 -20 -1 -1 -1 -1 -1 E
+45 8 -8 1d1+999 1d1+10
+38 0
+8 8 1
+E
+#31342
+armaiolo duergar nano~
+Un armaiolo duergar~
+Un armaiolo Duergar sta battendo il ferro per ricavare ottime armi.
+~
+Grosso e muscoloso, per anni ha forgiato armi fino a diventare un
+esperto armaiolo.
+~
+~
+~
+~
+78362 0 -300 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+1099 4d12+15
+35 0
+8 8 1
+E
+$

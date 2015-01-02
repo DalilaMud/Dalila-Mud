@@ -1,0 +1,161 @@
+trigedit 11042
+6  
+/c 
+if %actor.prof(fabbro)% <= 0
+  %send% %actor.name% Non hai idea di come si faccia.
+  halt
+end
+if %arg% == accendi
+  * accensione fucina / manca acciarino e rametti
+  if %stato% == accesa
+    %send% %actor.name% E' gia' accesa.
+    halt
+  end
+  if %actor.eq(17).shortdesc% != un acciarino
+    %send% %actor.name% Devi tenere in mano un acciarino per accendere la fucina
+    halt
+  end
+  eval contenuto %self.contents%
+  eval rami 0
+  while %contenuto%
+    eval tmp %contenuto.next_in_list%
+    if %contenuto.vnum% >= 90160 & %contenuto.vnum% <= 90170
+      eval tmp2 %rami% + 1
+      eval rami %tmp2%
+      %purge% %contenuto%
+    end
+    eval contenuto %tmp%
+  done
+  %echo% Delle piccole fiamme avviluppano i rami nella fucina...
+  wait 5 s
+  if %rami% >= 3
+    %echo% Il fuoco scoppietta allegramente.
+  else
+    %echo% Le fiamme si spengono mestamente.
+    halt
+  end    
+  eval stato accesa
+  global stato
+  %send% %actor.name% Accendi la fucina.
+  %echoaround% %actor% %actor.name% accende la fucina.
+  halt
+end
+if %arg% == spegni
+  * spegnimento fucina
+  if %stato% == spenta
+    %send% %actor.name% E' gia' spenta.
+    halt
+  end
+  eval stato spenta
+  global stato
+  %send% %actor.name% Spegni la fucina.
+  %echoaround% %actor% %actor.name% spegne la fucina.
+  eval num_carb (%unita_carbone% / 5)
+  while %num_carb% > 0
+    %load% obj 2215
+    eval tmp (%num_carb% - 1)
+    eval num_carb %tmp%
+  done
+  eval unita_carbone 0
+  global unita_carbone
+  halt
+end
+if %arg% == info
+  * info fucina
+  %send% %actor.name% La fucina e' %stato%.
+  wait 1 s
+  if %temperatura% >= 1500
+    eval ferro fuso
+  else
+    eval ferro solido
+  end
+  if %temperatura% >= 950
+    eval argento fuso
+  else
+    eval argento solido
+  end
+  if %temperatura% >= 1100
+    eval rame fuso
+  else
+    eval rame solido
+  end
+  if %temperatura% >= 400
+    eval zinco fuso
+  else
+    eval zinco solido
+  end
+  if %temperatura% >= 200
+    eval stagno fuso
+  else
+    eval stagno solido
+  end
+  if %temperatura% >= 1000
+    eval oro fuso
+  else
+    eval oro solido
+  end
+  %send% %actor.name% L'indicatore del   ferro   e' %ferro%.
+  wait 1 s
+  %send% %actor.name% L'indicatore dell' argento e' %argento%.
+  wait 1 s
+  %send% %actor.name% L'indicatore del   rame    e' %rame%.
+  wait 1 s
+  %send% %actor.name% L'indicatore dello zinco   e' %zinco%.
+  wait 1 s
+  %send% %actor.name% L'indicatore dello stagno  e' %stagno%.
+  wait 1 s
+  %send% %actor.name% L'indicatore dell' oro     e' %oro%.
+  wait 1 s
+  eval tempo (%unita_carbone% / 10)
+  %send% %actor.name% La fucina contiene carbone sufficiente per circa %tempo% minuti.
+  halt
+end
+if %arg% == carica_carbone
+  * carica il carbone
+  eval uc_add %self.count(2215)%
+  eval tmp (%unita_carbone% + (%uc_add% * 10))
+  eval unita_carbone %tmp%
+  global unita_carbone
+  eval contenuto %self.contents%
+  * ciclo che purga il carbone
+  while %contenuto%
+    eval next %contenuto.next_in_list%
+    if %contenuto.vnum% == 2215
+      %purge% %contenuto%
+    end
+    eval contenuto %next%
+  done
+  %send% %actor.name% Carichi del carbone nella fucina.
+  %echoaround% %actor% %actor.name% carica del carbone nella fucina.
+  halt
+end
+if %arg% == stampo
+  * fabbrica lo stampo
+  if %temperatura% < 2050
+    %send% %actor.name% Per poter fabbricare uno stampo la fucina deve essere a piena potenza.
+    halt
+  end
+  eval martello %actor.eq(17)%
+  if %martello.vnum% != 14
+    %send% %actor.name% Devi impugnare un martello da fabbro.
+    halt
+  end
+  eval lingotto %actor.inventory(2201)%
+  eval carbone %actor.inventory(2215)%
+  if %lingotto% & %carbone%
+    %send% %actor.name% Cominci a lavorare sullo stampo...
+    wait 20 s
+    %send% %actor.name% Ottieni uno stampo per lingotti!
+    %echoaround% %actor% %actor.name% ottiene uno stampo per lingotti!
+    %load% obj 11016 %actor% inv
+    %purge% %lingotto%
+    %purge% %carbone%
+  else
+    %send% %actor.name% Devi avere un pezzo di ematite e un pezzo di carbone in inventario per fabbricare uno stampo.
+    halt
+  end
+end
+~
+/s
+q
+y

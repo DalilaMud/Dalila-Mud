@@ -1,0 +1,163 @@
+trigedit 2000
+6  
+/c 
+if %actor.vnum% != -1
+halt
+end
+if %actor.level% > 70
+wait 2 s
+inch %actor.name%
+wait 2 s
+say Mi spiace, potente %actor.name% ma non vi sono missioni qui per quelli come voi.
+halt
+end
+if %missione% == 1
+wait 2 s
+say Mi spiace %actor.name%, ma non vi posso assegnare una nuova missione finche' %pg% non completera' la sua.
+halt
+end
+if %mob% == 1
+wait 2 s
+say Spiacente %actor.name%, ma dovrete aspettare un po' di tempo prima che una nuova missione sia disponibile.
+halt
+end
+set missione 1
+set counter 0
+global counter
+global missione
+set mob 1
+global mob
+set livello %actor.level%
+global livello
+set pg %actor.name%
+global pg
+wait 2 s
+sor
+wait 1 s
+ann
+wait 1 s
+say Molto bene %pg%, Silue accetta di mettere alla prova la vostra fede in lei...
+wait 2 s
+if %livello% < 20
+eval quest %random.3%
+if %quest% == 1
+say Esiste un ricco possidente terriero, di nome Sir Teinko.
+wait 2 s
+say Quest'uomo e' molto malvagio e la Dama vuole che sia fatta giustizia.
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat ttgls mpurge teinko
+mat ttgls mload mob 11248
+mat ttgls mforce teinko mload obj 542
+mat ttgls mforce teinko get all
+mat ttgls mforce teinko indo all
+mat ttgls mforce teinko hold emblema
+halt
+elseif %quest% == 2
+say Chioma di Demonio e' un pirata molto malvagio, adora torturare gli innocenti
+wait 2 s
+say La Dama vorrebbe che sia fatta giustizia.
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat fcdgl mpurge chioma
+mat fcdgl mload mob 18000
+mat fcdgl mforce chioma mload obj 542
+mat fcdgl mforce chioma get all
+mat fcdgl mforce chioma indo all
+mat fcdgl mforce chioma hold chiave
+else
+say Un crudele Hobgoblin regna su un gruppo di immondi Coboldi, non lontano da Chyrellos.
+wait 2 s
+say La Dama vuole che il regno di questa immonda creatura abbia fine
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat tdgl mpurge djano
+mat tdgl mload mob 18308
+mat tdgl mforce djano mload obj 542
+mat tdgl mforce djano get all
+mat tdgl mforce djano indo all
+mat tdgl mforce djano hold chiave
+end
+halt
+elseif %livello% < 40
+eval quest %random.3%
+if %quest% == 1
+say Esiste un tempio dedicato a Thalos ormai profanato dopo la sua distruzione...
+wait 2 s
+say Ora e' abitato da una creatura blasfema: un beholder!
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat smtb mpurge pbqgl
+mat smtb mload mob 5200
+mat smtb mforce pbqgl mload obj 542
+mat smtb mforce pbqgl get all
+mat smtb mforce pbqgl indo all
+mat smtb mforce pbqgl hold flauto
+elseif %quest% == 2
+say Una volta in queste lande visse un grande e nobile guerriero: Krel
+wait 2 s
+say Purtroppo fu ucciso e maledetto da uno stregone che lo costringe a rinascere...
+wait 2 s
+say ...sotto forma di demone: liberatelo dal male!
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat lbkt mpurge krel
+mat lbkt mload mob 2031
+mat lbkt mforce krel mload obj 542
+mat lbkt mforce krel get all
+mat lbkt mforce krel indo all
+else
+say Nella citta' maledetta di Ghenna esiste una creatura immonda: la Gorgimera.
+wait 2 s
+say La sua esistenza e' un'offesa alla Dama.
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat fgggl mpurge gorgimera
+mat fgggl mload mob 18808
+mat fgggl mforce gorgimera mload obj 542
+end
+halt
+else
+eval quest %random.3%
+if %quest% == 1
+say Nei recessi piu' profondi della citta' Drow esiste una creatura immonda
+wait 2 s
+say Dama Silue non puo' permettere che questa creatura offenda il Creato
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat srdgl mpurge yochlol
+mat srdgl mload mob 5111
+mat srdgl mforce yochlol mload obj 542
+mat srdgl mforce yochlol get chiave
+mat srdgl mforce yochlol hold chiave
+halt
+elseif %quest% == 2
+say Nel grande deserto di polvere, esiste una enorme piramide..
+wait 2 s
+say Nei suoi recessi giace Ramses, un'orrido e blasfemo non morto.
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat srpgl mpurge ramses
+mat srpgl mload mob 5317
+mat srpgl mforce ramses mload obj 542
+mat srpgl mforce ramses get all
+mat srpgl mforce ramses indo maschera
+halt
+else
+say Nel blasfemo cimitero di Rasheen esiste uno spaventoso Dracolich
+wait 2 s
+say La sua esistenza offende Dama Silue...
+wait 2 s
+say Portatemi il Globo Luminoso di Dama Silue, e la ricompensa sara' vostra, %pg%.
+mat sdrgl mpurge ddglp
+mat sdrgl mload mob 18521
+mat sdrgl mforce ddglp mload obj 542
+mat sdrgl mforce ddglp get all
+mat sdrgl mforce ddglp indo all
+end
+halt
+end
+~
+/s
+q
+y

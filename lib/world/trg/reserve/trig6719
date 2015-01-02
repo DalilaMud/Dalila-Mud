@@ -1,0 +1,46 @@
+trigedit 6719
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1
+if %actor.clan%==8 && %actor.rank%>=21
+    if %speech% == guardia apri
+      if %actor.rank% == 29
+        wait 1 s
+        say Agli ordini Maesta'!!
+        wait 1 s
+        bow %actor.name%
+      end
+      
+      if %actor.rank% >= 26 && %actor.rank% < 29
+        wait 1 s
+        say Agli ordini Vostra Eccellenza.
+      end
+      
+      if %actor.rank% < 27
+        wait 1 
+        say Agli ordini!
+      end
+      mload obj 28004
+      unlock portone
+      open portone
+      junk palazzo
+      wait 1 s
+      say La via e' libera!
+    elseif %speech% == guardia chiudi
+      say Chiudo subito!!
+      wait 1 
+      mload obj 28004
+      close portone
+      lock portone
+      junk palazzo
+    end
+  else
+    wait 1 
+    say Non vi conosco. Allontanatevi.
+  end
+end
+~
+/s
+q
+y

@@ -1,0 +1,26 @@
+trigedit 2543
+6  
+/c 
+set valido 0
+if %actor.name% == krogg || %actor.name% == sheep
+set valido 1
+end
+if %valido% == 1
+if %speech% == purificazione di Therion
+wait 1 s
+if %puntifede% < 3000
+mecho &6&xL'altare non reagisce...&0
+halt
+end
+mecho &6&xL'altare sprigiona le fragranze ed i profumi dell'estate e della primavera....&0
+mload obj 579
+posa statuetta
+eval puntifede %puntifede%-3000
+global puntifede
+mat cptifedetherion say distruggi 60
+end
+end
+~
+/s
+q
+y

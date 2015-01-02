@@ -1,0 +1,18 @@
+trigedit 1352
+6  
+/c 
+* Lista comandi
+if %actor.name% == Nagash
+emote si inchina profondamente
+say Salve, mio eccelso padrone!
+else
+wait 1 s
+emote trema come se fosse scosso con vigore.
+wait 2 s
+say  Lontano da qui mortali: triste e' il destino di chi osa sfidare i necrarchi!
+else
+end
+~
+/s
+q
+y

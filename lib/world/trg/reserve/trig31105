@@ -1,0 +1,10 @@
+trigedit 31105
+6  
+/c 
+wait 2 s
+%echoaround% %actor% \&4\%actor% infila un anello al dito e.. per un istante ti sembra che circondato da nero fumo.. poi nulla.\&0
+%send% %actor% \&7\Non appena infili l'anello sentiti il battito aumentare.. e la vista annebbiarsi per un istante.\&0
+~
+/s
+q
+y

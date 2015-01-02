@@ -1,0 +1,27 @@
+trigedit 2537
+6  
+/c 
+* Lista comandi
+set valido 0
+if %actor.name% == alhandir
+set valido 1
+end
+if %valido% == 1
+if %speech% == giustizia di Silue
+wait 1 s
+if %puntifede% < 3000
+mecho &7&xL'altare brilla per qualche secondo, ma non pare succedere nulla...&0
+halt
+end
+mecho &7&xL'altare brilla per qualche istante...&0
+mload obj 577
+posa statuetta
+eval puntifede %puntifede%-3000
+global puntifede
+mat cptifedesilue say distruggi 60
+end
+end
+~
+/s
+q
+y

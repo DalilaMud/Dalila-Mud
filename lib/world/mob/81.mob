@@ -1,0 +1,1256 @@
+#8100
+Reilly locandiere~
+Reilly il locandiere~
+Il locandiere sta controllando i clienti e lo Scotch che ha importato.
+~
+   A vederlo non sembra il tipo che si preoccupi troppo che i suoi clienti
+siano umani o meno.  A vederlo bene sembra piu' un fannullone disoccupato
+che un locandiere.  Anche se a dire il vero la sua enorme spada che tiene a
+lato non e' molto rassicurante, ancor meno l'enorme bottiglione di whiskey che
+sta bevendo.    
+~
+~
+~
+~
+190682 263352 200 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+10000 4d8+100
+18 2
+8 8 1
+Spec: 0
+E
+#8101
+prete padre vinci~
+Padre Vinci~
+Padre Vinci ti saluta non appena gli passi accanto.
+~
+Padre Vinci non impugna armi, eppure i goblin lo evitano ugualmente, perche' il
+buon prete, prima di prendere i voti, li ha combattuti a lungo nel nome di Re
+Korbor, e ancora oggi puoi notare pendere al suo fianco una robusta clava.    
+~
+~
+~
+~
+10394 4100 900 -1 -1 -1 -1 -1 E
+15 10 4 1d1+170 1d4+4
+13 21000
+8 8 1
+E
+#8102
+sceriffo zeb~
+Zeb Rykalp~
+Zeb Rykalb, lo sceriffo di Ofingia, ti guarda attentamente.
+~
+Attento che nessun malvagio sia libero di muoversi per la citta'. Meglio stare
+dalla sua parte che contro.
+~
+~
+~
+~
+10588 4 700 -1 -1 -1 -1 -1 E
+15 10 4 1d1+170 1d4+4
+8 21000
+8 8 1
+E
+#8103
+fabbro nano dorig~
+Dorig Foehammer~
+Dorig il nano salda delle barre con un martello enorme.
+~
+E' troppo forte perche' tu riesca a batterlo in duello, e se poi ha bevuto una
+birra o due, allora e' decisamente invincibile.  O almeno, lui si crede tale.
+  
+~
+~
+~
+~
+190684 263352 700 -1 -1 -1 -1 -1 E
+20 13 4 1d10+250 2d8+3
+15 60000
+8 8 1
+Spec: 0
+E
+#8104
+carpentiere joel~
+Joel Kreb~
+Joel Kreb, il carpentiere del villaggio, sta riposando. Ha un'ascia a portata di mano.
+~
+L'ascia che Joel possiede ha un lunga serie di punte sul lato opposto
+rispetto alla lama. Non credi che tali punte servano per lavorare il legno,
+ma piuttosto per maciullare carne ed ossa, in particolare quelle
+dei goblin.
+~
+~
+~
+~
+190686 263352 700 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+5000 4d8+100
+30 600000
+8 8 1
+Spec: 0
+E
+#8105
+maxtrum halfling negoziante~
+Maxtrum Holloknob~
+Un tozzo negoziante halfling osserva, con occhi che gli brillano, la tua scarsella.
+~
+Stai ben attento al tuo danaro!  Girano voci che Maxtrum raramente sia a corto
+di soldi.  Forse non ci sarebbe nulla di strano e lo si potrebbe considerare
+semplicemente fortunato, se solo i suoi avventori non trovassero cosi' spesso
+le proprie tasche vuote al momento di lasciare il suo magazzino pur non avendo
+comprato nulla.    
+~
+~
+~
+~
+190687 263352 700 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+5000 4d8+100
+19 600000
+8 8 1
+Spec: 0
+E
+#8106
+churt elfo alchimista~
+Churt Agenris~
+Un elfo alchimista inala profondamente i fumi provenienti da alcuni alambicchi e poi singhiozza contento.
+~
+Churt ti nota entrare nel suo negozio e ti osserva con una certa sorpresa.  E'
+un potente mago, l'inventore di potenti incantesimi come 'l'irresistibile rutto
+di Churt' e la 'Parola di COmando: Va via, io...  ' Beh quest'ultima non ha
+importanza.    
+~
+~
+~
+~
+190687 263352 700 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+5000 4d8+100
+17 600000
+8 8 1
+Spec: 0
+E
+#8107
+dek ranger elfo lavoratore cuoio~
+Dek Shattershock~
+Un elfo ranger in pensione e' qui che lavora del cuoio.
+~
+Dek Shattershock - questo nome incute timore nei goblin e nei guerrieri
+githyanki!  Anche tu dovresti temerlo, omuncolo.    
+~
+~
+~
+~
+190686 263352 700 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+5000 4d8+100
+23 600000
+8 8 1
+Spec: 0
+E
+#8108
+marya fornaia~
+Marya la Fornaia~
+Una giovane donna di Ofingia sta impastando della farina.
+~
+Non e' una nobildonna, ma e' lo stesso una Signora. Ha ucciso piu'
+goblin lei con il suo mattarello di quanti semi ci sono in una spiga
+di grano.
+~
+~
+~
+~
+190686 263352 700 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+5000 4d8+80
+30 600000
+8 8 2
+Spec: 0
+E
+#8109
+serathana sacerdotessa bibliotecaria~
+Serathana la Guardiana della Conoscenza~
+Una sacerdotessa ti osserva con attenzione.
+~
+Questa sacerdotessa e' una vecchia amica di Dek, Dorig, Churt e Maxtrum.
+Queste persone hanno salvato il mondo dalla distruzione, ma non c'e'
+bisogno di eroi in tempo di pace. Puoi vedere la lunga lancia di Sara
+appesa al muro, in una posizione tale da consentirle di afferrarla in fretta
+se ne avesse bisogno.
+~
+~
+~
+~
+190494 263352 700 -1 -1 -1 -1 -1 E
+30 0 -30 1000d10+5000 4d8+100
+20 600000
+8 8 2
+Spec: 0
+E
+#8110
+kelek guardia capitano~
+Sir Kelek~
+Le guardie, passando, sollevano la loro visiera per salutare Sir Kelek, il loro capitano.
+~
+Non ha certo ottenuto il suo grado restando alla Zona Newbie.
+~
+~
+~
+~
+14619 1024 700 -1 -1 -1 -1 -1 E
+10 11 6 1d1+100 2d6+1
+8 12000
+8 8 1
+Spec: 16
+E
+#8111
+Re korbor~
+Re Korbor~
+Abbigliato di una splendente corazza di maglia e armato di una spada, Re Korbor si prepara alla guerra.
+~
+Una volta Re Korbor amava sedere nella sua sfarzosa sala del trono, ma
+ora marcia alla testa del suo esercito per ricacciare i goblin
+lontano dal suo regno.
+~
+~
+~
+~
+14618 1024 800 -1 -1 -1 -1 -1 E
+25 8 4 1d1+250 2d10+4
+22 21000
+8 8 1
+E
+#8112
+tim ladro ragazzo~
+Tim il ladro~
+Un ragazzo si dilegua silenziosamente tra le ombre.
+~
+Attento al tuo denaro! E' quel furfante di Tim!
+~
+~
+~
+~
+821309 1032 100 -1 -1 -1 -1 -1 E
+8 18 6 10d8+40 1d7+4
+8 3750
+8 8 1
+Spec: 14
+E
+#8113
+sir mischa~
+Sir Mischa~
+Sir Mischa si prende cura che creature malvagie non entrino nella sua citta'.
+~
+Questo cavaliere potrebbe uccidere Curley GreenLeaf con facilita'.
+~
+~
+~
+~
+6473 0 700 -1 -1 -1 -1 -1 E
+10 11 5 13d20+50 1d8+4
+6 9000
+8 8 1
+Spec: 18
+E
+#8114
+guardia ofingia~
+una guardia di Ofingia~
+Una guardia di Ofingia pattuglia le strade della citta'.
+~
+Una robusta guardia, fedele a Re Korbor.
+~
+~
+~
+~
+6217 0 400 -1 -1 -1 -1 -1 E
+6 15 6 1d1+70 1d10+2
+4 1500
+8 8 1
+Spec: 1
+E
+#8115
+guardia ofingia~
+una guardia di Ofingia~
+Una guardia di Ofingia sorveglia il cancello di ingresso della citta'.
+~
+Una robusta guardia sempre all'erta contro le forze del male.
+~
+~
+~
+~
+6154 0 400 -1 -1 -1 -1 -1 E
+6 15 6 1d1+69 1d10+2
+5 1500
+8 8 1
+E
+#8116
+volontario ofingia~
+un volontario di Ofingia~
+Un volontario di Ofingia pattuglia le strade della sua citta'.
+~
+Ha preso le armi per combattere i goblin.
+~
+~
+~
+~
+4168 0 400 -1 -1 -1 -1 -1 E
+3 18 7 4d20+7 1d2+0
+2 350
+8 8 1
+E
+#8117
+volontaria ofingia~
+una volontaria di Ofingia~
+Una volontaria di Ofingia e' qui pronta a rispondere agli ordini.
+~
+Pronta a impugnare le armi per combattere i Goblins.
+~
+~
+~
+~
+4168 0 400 -1 -1 -1 -1 -1 E
+3 18 7 4d20+7 1d2+0
+2 350
+8 8 2
+E
+#8118
+uomo cittadino~
+un cittadino Lonoyano~
+Un uomo di Ofingia e' qui.
+~
+Non abbandonerebbe questa citta' neanche se l'assediassero milioni di goblin,
+tutti armati d'ascia.    
+~
+~
+~
+~
+72 0 400 -1 -1 -1 -1 -1 E
+2 19 8 3d15+3 1d2+0
+2 200
+8 8 1
+E
+#8119
+donna~
+una donna lonoyana~
+Una donna lonoyana cammina per la citta'.
+~
+Sebbene i goblin penetrino nella citta' da ogni cancello, ha
+deciso di restare qui.
+~
+~
+~
+~
+72 0 400 -1 -1 -1 -1 -1 E
+2 19 8 3d15+3 1d2+0
+2 200
+8 8 2
+E
+#8120
+ragazzo~
+un ragazzo~
+Un ragazzo corre qua attorno mirando con la fionda a nemici invisibili.
+~
+E' pronto per l'arrivo dei goblin!
+~
+~
+~
+~
+200 0 300 -1 -1 -1 -1 -1 E
+1 20 10 1d10+1 1d2+0
+1 25
+8 8 1
+E
+#8121
+ragazza~
+una giovane ragazza~
+Una giovane ragazza e' qui.
+~
+Guardandola sei sicuro che ha ucciso molti troll e moltissimi goblin.
+~
+~
+~
+~
+200 0 300 -1 -1 -1 -1 -1 E
+1 20 10 1d10+1 1d2+0
+1 25
+8 8 2
+E
+#8122
+cane grosso~
+un grosso cane~
+Un grosso cane corre qua attorno.
+~
+Un grosso e stupido cane da riporto dal pelo ispido e nero.
+La sua lingua penzola dalla bocca conferendo all'animale un'aria stupida.
+~
+~
+~
+~
+4297 0 0 -1 -1 -1 -1 -1 E
+1 18 10 1d15+2 1d4+1
+0 25
+8 8 1
+Spec: 10
+E
+#8123
+cane~
+il cane di Reilly~
+Ti senti intimorito di fronte a questo piccolo cane nero che ringhia minacciosamente contro di te.
+~
+Lo schnauzer in miniatura di Reilly sembra piu' pericoloso di un
+piccolo drago.
+~
+~
+~
+~
+4168 0 0 -1 -1 -1 -1 -1 E
+6 15 8 85d1+5 5d1+1
+6 2000
+8 8 1
+E
+#8124
+contadino~
+un contadino Lonoyano~
+Un contadino gira per le vie della citta' indossando gli abiti della domenica.
+~
+Non appena ti incrocia, camminando, si ferma e ti guarda come se fossi una
+faccia nota, ma quasi subito la sua espressione cambia trasformandosi in
+rabbia.  Forse hai dimenticata aperta la porta della sua stalla in passato.  
+
+~
+~
+~
+~
+8 0 400 -1 -1 -1 -1 -1 E
+2 19 8 3d15+3 1d2+1
+2 200
+8 8 1
+E
+#8125
+nano~
+un nano~
+Un nano ubriaco si sta riposando qui. Canta talmente forte che sveglierebbe un morto.
+~
+Ci sono volute altro che 2 birre per far ubriacare il nano delle montagne.
+~
+~
+~
+~
+72 1024 400 -1 -1 -1 -1 -1 E
+10 12 7 1d1+120 2d8+4
+7 200
+8 8 1
+E
+#8126
+hobbit~
+un proprietario terriero hobbit~
+Un hobbit grassottello gira qua attorno fischiettando allegramente.
+~
+Non vivono molti hobbit a Lonoya e questo che hai di fronte sembra di
+passaggio.    
+~
+~
+~
+~
+200 0 400 -1 -1 -1 -1 -1 E
+2 19 8 3d15+3 1d2+1
+2 200
+8 8 1
+E
+#8127
+donna cameriera~
+una cameriera~
+Una graziosa donna Lonoyana serve idromele ai clienti di Reilly.
+~
+Nessuno osa importunarla mentre serve le bevande, perche' tutti sanno che ha un
+pugnale a portata di mano per chiunque abbia le mani troppo lunghe.    
+~
+~
+~
+~
+72 0 400 -1 -1 -1 -1 -1 E
+2 19 8 3d15+3 1d2+1
+2 200
+8 8 2
+E
+#8128
+vecchio uomo~
+un vecchio uomo~
+Un vecchio Lonoyano mantiene la strada pulita.
+~
+Quest'uomo, troppo vecchio per impugnare una sciabola, si e' assegnato
+il compito di raccogliere i rifiuti che i passanti gettano per le
+vie Lonoyane. Ofingia, il 'Gioiello di Lonoya', non scintillerebbe come
+la corona di Re Krobor se non fosse per questo vecchio.
+L'uomo odia gli avventurieri che curano la pulizia, propria e dei posti
+che visitano.
+~
+~
+~
+~
+72 0 400 -1 -1 -1 -1 -1 E
+5 15 8 3d15+40 1d10+2
+3 200
+8 8 1
+E
+#8129
+goblin~
+il goblin~
+Un goblin della foresta di Lonoya.
+~
+Non sembra notarti, ma se fossi in te non mi aspetterei che si fermasse per
+parlarti o osservarti.  I goblin odiano gli stranieri, specialmente quelli
+armati.    
+~
+~
+~
+~
+268392 1024 -250 -1 -1 -1 -1 -1 E
+15 10 4 1d1+100 1d8+6
+10 6000
+8 8 1
+E
+#8130
+goblin razziatore~
+un goblin razziatore~
+Un goblin razziatore assedia Lonoya in attesa di viaggiatori da derubare.
+~
+Molto basso, tarchiato, squamato di verde con una testa enorme. Brutto non trovi?
+~
+~
+~
+~
+6248 1024 -250 -1 -1 -1 -1 -1 E
+18 13 5 1d1+200 2d8+4
+13 7000
+8 8 1
+E
+#8131
+goblin~
+un goblin~
+Un goblin e' in agguato qui.
+~
+Un altro goblin, un'altra battaglia, un'altra tacca sul tuo pugnale.    
+~
+~
+~
+~
+72 1024 -250 -1 -1 -1 -1 -1 E
+18 13 5 1d1+210 2d8+3
+14 10000
+8 8 1
+E
+#8132
+goblin~
+una guardia goblin~
+Una guardia goblin e' qui di guardia.
+~
+I Goblin non sono guardie affidabili.  Cosa ti aspettavi?    
+~
+~
+~
+~
+10 1024 -250 -1 -1 -1 -1 -1 E
+22 12 3 1d1+290 2d8+3
+19 13000
+4 8 1
+E
+#8133
+serpente~
+un serpente~
+Un grosso serpente striscia per la caverna, ignorandoti.
+~
+Per qualche istante temi per il suo veleno, ma questo serpente sembra
+innocuo come, del resto, quasi tutti i rettili di un metro
+e mezzo. Forse questo serpente si nutre delle carcasse degli
+uomini uccisi dai goblin.
+~
+~
+~
+~
+588 1024 0 -1 -1 -1 -1 -1 E
+26 11 2 1d1+400 2d9+5
+25 18000
+8 8 1
+E
+#8134
+gnomo~
+uno gnomo smarrito~
+Uno gnomo delle caverne e' molto lontano da casa.
+~
+Sta vagando, come te del resto, attraverso questi tunnel per cercare un'uscita.
+~
+~
+~
+~
+2140 295936 400 -1 -1 -1 -1 -1 E
+12 13 6 2d15+120 1d7+2
+11 9000
+8 8 1
+E
+#8135
+goblin~
+una guardia goblin~
+Una guardia goblin e' qui, in allerta, che controlla che non vi siano intrusi.
+~
+Nessuno passera' senza essere notato.
+~
+~
+~
+~
+6250 1024 -350 -1 -1 -1 -1 -1 E
+23 12 2 1d1+320 2d9+3
+18 35000
+8 8 1
+E
+#8136
+goblin~
+un goblin~
+Un guerriero goblin dalla pelle verde e' qui che ripulisce dal sangue la sua scimitarra.
+~
+Sembra piu' forte degli altri goblin.
+~
+~
+~
+~
+2152 1024 -400 -1 -1 -1 -1 -1 E
+25 12 1 1d1+375 2d9+6
+22 45000
+8 8 1
+E
+#8137
+goblin~
+un guerriero goblin~
+Un guerriero goblin ti lancia un'occhiataccia. Sembra adirato perche' lo hai svegliato.
+~
+Sembra piu' forte degli altri goblin.
+~
+~
+~
+~
+262248 1024 -400 -1 -1 -1 -1 -1 E
+26 12 1 1d1+229 3d6+8
+17 1700
+4 8 1
+Spec: 24
+E
+#8138
+hobgoblin goblin~
+un hobgoblin~
+Un grosso goblin, vestito di pelli puzzolenti, ti lancia un'occhiataccia.
+~
+Non indosseresti MAI quell'armatura.  Pelli di mucca non pulite non fanno per
+te.  A lui non sembra importare, comunque, ed in ogni caso questo tizio sembra
+un avversario pericoloso per qualunque cavaliere.    
+~
+~
+~
+~
+6248 1024 -400 -1 -1 -1 -1 -1 E
+16 13 4 1d1+109 2d5+1
+13 3750
+8 8 1
+E
+#8139
+toadstool goblin capitano~
+Toadstool il Goblin~
+Toadstool, il capitano dei goblin delle foreste, urla e ti scaglia contro qualcosa.
+~
+Cosa ti sta lanciando?  Rocce, per lo piu'.  Toadstool e' piu' alto di un nano
+e piu' brutto di un rospo.  E' piu' grosso degli altri goblin, forse e' un
+orchetto o un semi-orchetto.    
+~
+~
+~
+~
+2152 1024 -500 -1 -1 -1 -1 -1 E
+28 10 0 1d1+450 2d10+6
+17 9000
+8 8 1
+E
+#8140
+goblin~
+un goblin~
+Un goblin e' qui che rosicchia un osso.
+~
+Quell'osso sembra molto buono, ma probabilmente non te ne offrira' un pezzo.  
+
+~
+~
+~
+~
+6248 1024 -250 -1 -1 -1 -1 -1 E
+12 15 4 1d1+100 2d8+5
+8 10000
+8 8 1
+E
+#8141
+groff troll cuoco~
+Groff il Troll~
+Un grosso troll peloso sta mescolando del cibo che bolle in una grossa pentola.
+~
+Mentre lo osservi di nascosto, Groff prende il cadavere di un goblin e lo getta
+nella pentola.  Fa poi la stessa cosa con alcuni funghi ed un halfling.  Poi si
+accorge di te e sembra chiedersi quale fantastico aroma aggiungerebbe alla
+zuppa il tuo corpo.    
+~
+~
+~
+~
+46 1024 -800 -1 -1 -1 -1 -1 E
+31 8 -1 1d1+500 3d7+6
+26 13000
+8 8 1
+E
+#8142
+mimic barile~
+un mimic~
+Un tozzo barile di quercia, rafforzato da cerchi di metallo, si trova in un angolo.
+~
+Questo barile non ha coperchio, ma forse potresti prenderne in presto uno dai
+goblin.  Mentre rifletti, ti accorgi che il barile ha qualcosa di strano.  Non
+si e' forse mosso?    
+~
+~
+~
+~
+196618 0 10 -1 -1 -1 -1 -1 E
+13 10 4 1d20+130 3d7+0
+11 13000
+8 8 0
+E
+#8143
+mimic armadio~
+un mimic~
+Un armadio su cui e' scritto 'Solo Oggetti Magici' si trova nell'angolo.
+~
+Hai appena aperto l'armadio quando rifletti sul fatto che i goblin non scrivono
+in Comune.  Forse e' una trappola.    
+~
+~
+~
+~
+196618 0 10 -1 -1 -1 -1 -1 E
+16 10 4 1d20+145 3d7+0
+13 18000
+8 8 0
+E
+#8144
+ibrido millepiedi cementipede~
+un cementipede~
+Uno strano ibrido fra una roccia ed un millepiedi si muove per la caverna.
+~
+Meta' insetto, meta' roccia, non puo' essere che il leggendario Cementipede!  
+
+~
+~
+~
+~
+335992 8 0 -1 -1 -1 -1 -1 E
+17 14 5 1d20+150 2d10+4
+11 15000
+8 8 0
+E
+#8145
+goblin~
+un goblin~
+Un goblin ubriaco barcolla qua attorno.
+~
+Non osi pensare a cosa abbia bevuto.
+~
+~
+~
+~
+6216 1024 -250 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+13 600
+8 8 1
+E
+#8146
+warg~
+un affamato warg~
+Un affamato warg e' qui che ringhia contro di te.
+~
+I goblin a volte allevano i warg per usarli come cavalcature e forse questo e'
+uno di quelli.  Ora come ora sai solo che le bianche zanne che ti mostra
+sembrano molto taglienti.    
+~
+~
+~
+~
+73 1024 -350 -1 -1 -1 -1 -1 E
+26 11 1 1d1+400 2d9+5
+19 1000
+8 8 0
+E
+#8147
+fanghiglia~
+una fanghiglia verde~
+Una fanghiglia verde e' qui, attaccata alla parete.
+~
+Sembra osservarti.  Eppure il fango non ha occhi solitamente...  Comunque
+questa ce li ha.    
+~
+~
+~
+~
+458856 1032 0 -1 -1 -1 -1 -1 E
+12 9 4 4d6+140 2d5+3
+10 19000
+8 8 0
+E
+#8148
+orco~
+un orco~
+Un orco sorveglia questa parte delle caverne.
+~
+Non e' grosso quanto gli altri orchi che hai visto, forse e' un mezzo goblin.
+  
+~
+~
+~
+~
+42 1024 -400 -1 -1 -1 -1 -1 E
+28 11 0 1d1+400 2d10+7
+17 40000
+4 8 1
+E
+#8149
+goblin~
+un goblin~
+Un goblin minatore sta picconando la parete rocciosa.
+~
+Non sembra essere di buon umore.  L'aspetta una lunga giornata di lavoro.    
+~
+~
+~
+~
+6248 1024 -250 -1 -1 -1 -1 -1 E
+14 16 5 1d1+120 2d6+3
+12 900
+8 8 1
+E
+#8150
+cacciatore~
+il cacciatore invisibile~
+Il cacciatore invisibile, fortunatamente, non si trova alle tue spalle.
+~
+Non riesci a vederlo.
+~
+~
+~
+~
+239705 296062 -1000 -1 -1 -1 -1 -1 E
+33 8 -2 1d1+550 3d8+8
+30 65000
+8 8 0
+Spec: 14
+E
+#8151
+coboldo~
+un coboldo~
+Uno schiavo coboldo trascina pietrame per i goblin.
+~
+Sembra stia cercando l'occasione propizia per fuggire.
+~
+~
+~
+~
+76 1024 -100 -1 -1 -1 -1 -1 E
+11 16 5 2d10+60 1d8+1
+10 800
+8 8 0
+E
+#8152
+goblin~
+un goblin~
+Un goblin minatore si sta riposando di nascosto dal sorvegliante.
+~
+Non sembra troppo stanco per uccidere chiunque lo infastidisca con la sua
+picca.    
+~
+~
+~
+~
+106 1024 -250 -1 -1 -1 -1 -1 E
+22 12 4 1d1+280 2d8+3
+22 900
+5 5 1
+E
+#8153
+mimic masso~
+un mimic~
+Un grosso masso blocca quasi completamente il tunnel.
+~
+Da dove viene questa roccia?  Ma non si appena mossa?  Hmmm...    
+~
+~
+~
+~
+196618 0 -10 -1 -1 -1 -1 -1 E
+14 7 1 3d15+150 3d5+1
+12 20000
+8 8 0
+E
+#8154
+goblin~
+un goblin~
+Uno schiavo goblin supervisiona il lavoro dei minatori, spronandoli al lavoro con la frusta!
+~
+Ti sferza con la sua grande frusta non appena ti vede arrivare nei tunnel
+minerari.    
+~
+~
+~
+~
+6252 1024 -800 -1 -1 -1 -1 -1 E
+18 13 5 1d1+200 2d7+3
+14 4000
+8 8 1
+E
+#8155
+schiavo~
+uno schiavo~
+Un ofingiano lavora come schiavo dei goblin. Non sembra avere possibilita' di fuga.
+~
+I goblin lo hanno catturato in una razzia ed ora lavorera', finche' non muore,
+nelle loro miniere.    
+~
+~
+~
+~
+72 0 400 -1 -1 -1 -1 -1 E
+4 19 8 3d15+3 1d2+0
+3 200
+8 8 1
+E
+#8156
+schiavo~
+uno schiavo umano~
+Un ofingiano lavora come schiavo dei goblin. Non sembra avere possibilita' di fuga.
+~
+I goblin lo hanno catturato in una razzia ed ora lavorera', finche' non muore,
+nelle loro miniere.    
+~
+~
+~
+~
+72 0 400 -1 -1 -1 -1 -1 E
+2 19 8 3d15+3 1d2+0
+2 200
+8 8 2
+E
+#8157
+goblin fabbro~
+il fabbro dei goblin~
+Il fabbro dei goblin e' qui che lavora presso la sua forgia impugnando un grosso martello.
+~
+I suoi muscoli, duri come l'acciaio, sembrano testimoniare grosse ore di lavoro
+all'incudine.    
+~
+~
+~
+~
+4170 1024 -800 -1 -1 -1 -1 -1 E
+28 10 0 1d1+400 2d9+6
+25 4000
+8 8 1
+E
+#8158
+goblin~
+un goblin~
+Un goblin sta azionando il mantice.
+~
+Lavora ad un ritmo incredibile per mantenere sempre calda la fornace di goblin,
+come se temesse le frustate del suo capo.
+~
+~
+~
+~
+6248 1024 -250 -1 -1 -1 -1 -1 E
+8 5 4 1d1+100 1d8+1
+5 6000
+8 8 1
+E
+#8159
+coboldo schiavo~
+uno schiavo coboldo~
+Un coboldo si avvicina rapidamente, trasportando pietre di ferro ed altri minerali.
+~
+Evita la frusta agilmente, mentre alimenta la fornace.    
+~
+~
+~
+~
+76 1024 -100 -1 -1 -1 -1 -1 E
+4 16 5 2d10+40 1d8+1
+3 800
+8 8 0
+E
+#8160
+gigante sorvegliante~
+un gigante delle colline~
+Un gigante delle colline 'incoraggia' gli schiavi facendo schioccare una grossa frusta.
+~
+Non sembra molto sveglio, come del resto tutti i giganti, e se resti qui per
+troppo tempo, potrebbe anche scambiarti per uno dei lavoranti.  Come ogni
+gigante malvagio, sembra provi piacere nel causare dolore.    
+~
+~
+~
+~
+1098 1024 -900 -1 -1 -1 -1 -1 E
+33 8 -2 1d1+550 2d10+7
+30 70000
+8 8 1
+E
+#8161
+mimic piede porco~
+un mimic~
+Uno scintillante piede di porco e' stato lasciato nella sabbia.
+~
+Questo piede di porco sembra morbido.  Strano...    
+~
+~
+~
+~
+196618 0 -10 -1 -1 -1 -1 -1 E
+22 7 1 3d15+150 3d5+1
+20 20000
+8 8 0
+E
+#8162
+orco~
+un orco~
+Un grosso orco si muove facendo rotolare dei massi che devono pesare tonnellate.
+~
+Sembra molto forte.
+~
+~
+~
+~
+200 1024 -900 -1 -1 -1 -1 -1 E
+26 11 1 1d1+400 2d10+5
+17 14000
+8 8 1
+E
+#8163
+elfo~
+un elfo~
+Un cacciatore elfo sta cacciando dei goblin qui.
+~
+Come te, e' giunto nella citta' dei Goblin per dar loro la caccia.  Sembra stia
+facendo un buon lavoro, perche' non lasciarlo continuare?    
+~
+~
+~
+~
+18776 525368 1000 -1 -1 -1 -1 -1 E
+25 13 1 1d1+300 2d9+7
+18 1700
+4 8 1
+E
+#8164
+drago~
+&1un drago rosso&0~
+Un grosso drago rosso sembra irritato perche' hai disturbato il suo riposo.
+~
+Non ti puo' vedere mentre dorme, e forse e' meglio che tu lo lasci in pace.  
+
+~
+~
+~
+~
+221259 1032 -1000 -1 -1 -1 -1 -1 E
+70 -2 -7 1d300+1800 4d16+23
+53 3000000
+4 8 0
+Spec: 27
+E
+#8165
+guardia troll~
+una guardia troll~
+Un'enorme guardia troll degli Olog-Hai e' qui di guardia.
+~
+Forse e' meglio che torni per la strada da cui sei venuto!    
+~
+~
+~
+~
+106 1024 -900 -1 -1 -1 -1 -1 E
+26 10 1 1d1+400 2d9+5
+20 50000
+8 8 1
+E
+#8166
+orco~
+un orco~
+Un grosso orco e' qui in cerca del pranzo.
+~
+Offrirgli del pan di via non e' una buona idea.  Gli orchi non amano molto gli
+elfi.  Beh, forse non tanto quanto amano gli elfi morti.  In effetti adorano
+qualsiasi tipi di carne, ed anche la tua, di certo, non gli dispiacera'.    
+~
+~
+~
+~
+108 1024 -800 -1 -1 -1 -1 -1 E
+22 11 1 1d1+350 2d8+6
+13 30000
+8 8 1
+E
+#8167
+muro~
+un muro vivente~
+Una parte del muro di pietra sembra avere murati al suo interno molti tesori.
+~
+Hai gia' sentito di muri portati in via da arcane magie e che sono soliti
+inglobare qualsiasi tesoro arrivi nei loro paraggi.    
+~
+~
+~
+~
+253978 8 -750 -1 -1 -1 -1 -1 E
+35 7 -1 1d1+500 3d7+3
+34 120000
+8 8 0
+E
+#8168
+mimic cassa~
+un mimic~
+Una graziosa cassa rafforzata da ferro attira la tua attenzione.
+~
+La cassa deve essere opera di un maestro carpentiere.    
+~
+~
+~
+~
+196618 0 -10 -1 -1 -1 -1 -1 E
+14 7 3 3d15+150 3d5+1
+10 20000
+8 8 0
+E
+#8169
+goblin moragd~
+Moragd il Goblin~
+Moragd il Goblin e' qui.
+~
+Moragd e' un grande guerriero goblin, figlio di Gorgh.
+~
+~
+~
+~
+2154 1024 -900 -1 -1 -1 -1 -1 E
+28 10 1 1d1+400 2d9+6
+24 20000
+8 8 1
+E
+#8170
+goblin gorgh~
+Gorgh il Goblin~
+Gorgh il Goblin e' qui.
+~
+Gorgh, padre di Moragd, e' il piu' grande guerriero goblin che abbia mai
+calpestato il suolo di Daresia.    
+~
+~
+~
+~
+10 1152 -900 -1 -1 -1 -1 -1 E
+33 10 -1 1d1+300 4d5+8
+31 18000
+8 8 1
+E
+#8171
+goblin Khos~
+Khos il Goblin~
+Khos il Nasone e' qui.
+~
+Khos, Gorgh e Moragd sono i tre migliori soldati dell'esercito Goblin.
+~
+~
+~
+~
+6378 1024 -900 -1 -1 -1 -1 -1 E
+23 11 2 1d1+350 2d9+5
+15 14000
+8 8 1
+E
+#8172
+goblin~
+un goblin~
+Un goblin guerriero e' qui.
+~
+Brutto, verdognolo e forte come un toro.
+~
+~
+~
+~
+6249 1024 -400 -1 -1 -1 -1 -1 E
+18 15 4 1d1+100 3d6+4
+11 1700
+8 8 1
+Spec: 16
+E
+#8173
+orco guardia thrash~
+Thrash l'orco~
+Thrash l'orco mercenario protegge il Grande Goblin.
+~
+Ti sembra di aver gia' visto Thrash prima.  Forse in qualche locanda.  
+Comunque, ora il Grande Goblin lo ha assoldato come guardia del corpo.    
+~
+~
+~
+~
+6254 1032 -900 -1 -1 -1 -1 -1 E
+27 5 0 1d1+400 2d8+4
+23 60000
+8 8 1
+E
+#8174
+gigante guardia throm~
+Throm il Gigante~
+Throm il Gigante protegge il Grande Goblin.
+~
+Ti sembra di aver gia' visto Throm prima.  Forse in qualche locanda.  
+Comunque, ora il Grande Goblin lo ha assoldato come guardia del corpo.    
+~
+~
+~
+~
+4142 1032 -900 -1 -1 -1 -1 -1 E
+28 7 0 1d1+450 3d7+8
+18 30000
+8 8 1
+E
+#8175
+uomo guardia tarus~
+Tarus~
+Tarus, lo spadaccino, protegge il Grande Goblin.
+~
+Ti sembra di aver gia' visto Tarus prima.  Questo rude umano e' una delle
+guardie del corpo del Grande Goblin.    
+~
+~
+~
+~
+6252 8 -900 -1 -1 -1 -1 -1 E
+18 5 2 1d1+230 2d8+4
+17 40000
+8 8 1
+E
+#8176
+grande goblin~
+il Grande Goblin~
+Il Grande Goblin ti nota e chiama le sue guardie!
+~
+La sua testa e' piu' grossa di quella di qualsiasi altro goblin tu abbia mai
+visto, e sembra molto orgoglioso di cio'.  Questo goblin e' abbastanza forte e
+decisamente brutto.  Attorno a lui ci sono alcune guardie.  Uccidilo, e Re
+Korbor ti ricompensera'.    
+~
+~
+~
+~
+2062 1024 -990 -1 -1 -1 -1 -1 E
+33 8 -2 1d1+550 2d10+7
+31 90000
+8 8 1
+E
+$

@@ -1,0 +1,172 @@
+trigedit 9714
+6  
+/c 
+set stipendio_valore 2000
+global stipendio_valore
+eval check_paga %check_paga% + 1
+global check_paga
+if %check_paga% > 3600
+set check_paga 0
+global check_paga
+eval stipendio_arretrato %stipendio_arretrato% + 1
+global stipendio_arretrato
+if %stipendio_arretrato% > 2
+emote si autolicenzia visti i mancati pagamenti
+mgoto 0
+mpurge
+else
+end
+else
+end
+eval attesa %attesa%+1
+global attesa
+eval recita %random.10%
+global recita
+eval recita1 %random.5%
+global recita1
+eval recita2 %random.3%
+global recita2
+eval recita3 %random.3%
+global recita3
+eval recita4 %random.3%
+global recita4
+eval recita5 %random.3%
+global recita5
+eval recita6 %random.3%
+global recita6
+eval recita7 %random.3%
+global recita7
+eval recita8 %random.3%
+global recita8
+eval recita9 %random.3%
+global recita9
+eval recita10 %random.3%
+global recita10
+if %attesa% > %tempo_emote%
+set attesa 0
+global attesa
+if %recita%==10
+emote estrare alcune monete dal suo borsello e inizia a contarle.
+wait 2 s
+if %recita1%==3
+say &3 Oh porc... mi hanno rifilato un altra moneta falsa.&0
+wait 2 s
+emote ringhia furioso
+elseif %recita1%==2
+emote osserva con attenzione una moneta molto soddisfatto
+wait 2 s
+emote lustra sulla manica la moneta.
+else
+say &3 Dovro' passare in banca un giorno di questi &0
+end
+wait 2 s
+emote rimette le monete nel borsello.
+elseif %recita%==9
+say &3Ah! che dura vita la nostra!&0
+wait 2 s
+if %recita2%==3
+emote si siede un attimo e si massaggia i piedi gonfi
+elseif %recita2%==2
+emote ringhia furioso
+else
+emote sorride con malinconia
+end
+elseif %recita%==8
+emote guarda il cielo pensieroso.
+wait 2 s
+if %recita3%==3
+say &3 Mmm la nuvole non promettono nulla di buono&0
+elseif %recita3%==2
+emote respira profondamente.
+else
+say &3 Couf! Couf! mi sa che sto' per ammalarmi.&0
+end
+elseif %recita%==7
+say &3Mi sa che quando stacco dal lavoro andro' a fare una bevutina alla Taverna...&0
+wait 2 s
+if %recita4%==3
+say &3... anche se lo stregone dice che non fa molto bene!&0
+elseif %recita4%==2
+emote estrae un fiaschettino di vino e lo tracanna.
+wait 1
+emote rimette via il fiaschettino.
+else
+say &3 ...no per oggi e' meglio di no.&0
+end
+elseif %recita%==6
+emote estrae un coltellino e inizia a pulirsi le unghie.
+wait 2 s
+if %recita5%==3
+say &3Ecco ora sono pulite!&0
+wait 2
+emote si guarda le mani soddisfatto.
+elseif %recita5%==2
+emote si procura un piccolo tagliettino sotto le unghie.
+else
+say &3 Un giorno di questi dovro' anche tagliarle... ahah!&0
+end
+wait 1 s
+emote mette via il coltellino.
+elseif %recita%==5
+say &3Oggi sono proprio felice&0
+wait 2 s
+if %recita6%==3
+say &3Devo ricordarmi di fare un regalo alla mia bella.&0
+elseif %recita6%==2
+emote sorride.
+wait 2 s
+look %padrone%
+else
+emote si stiracchia
+end
+elseif %recita%==4
+emote saltella qua e la in preda ad un raptus.
+wait 2 s
+if %recita7%==3
+say &3 Ahh ... mi ha morso un insetto... che male! &0
+elseif %recita7%==2
+say &3 Ouch! Una storta alla caviglia. &0
+else
+wait 2 s
+emote si calma.
+end
+elseif %recita%==3
+emote fa pipi' in un angolo
+wait 2 s
+if %recita8%==3
+say &3 Ehi non mi guardare cosi'...mi scappava! &0
+elseif %recita8%==2
+emote si guarda i pantaloni un po' macchiati.
+else
+emote diventa rosso in viso
+end
+elseif %recita%==2
+say &3Lavoro, lavoro... sempre lavoro &0
+way 2
+if %recita9%==3
+emote si mostra un pochino infastidito.
+elseif %recita9%==2
+say &3Pero' almeno sono sempre molto allenato &0
+wait 1 s
+emote mostra i muscoli
+else
+emote sbuffa.
+end
+else
+emote si guarda attorno.
+wait 2 s
+if %recita10%==3
+say &3 Eh! Credo di essermi perso... ma qui dove siamo? &0
+wait 2 s
+emote alza le spalle sconsolato.
+elseif %recita10%==2
+emote fissa il suo sguardo su un oggetto per terra.
+else
+say &3C'e' poca gente in giro oggi&0
+end
+end
+end
+~
+/s
+q
+y

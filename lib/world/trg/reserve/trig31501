@@ -1,0 +1,19 @@
+trigedit 31501
+6  
+/c 
+if %speech% == Siamo qui in pace || %speech% == Sono qui in pace
+ wait 1 s
+ remo sfera
+ wait 1 s
+ unlock cancello
+ wait 1 s
+ open cancello
+ wait 2 s
+ say Allora siate i benvenuti.
+ wait 1 s
+ hold sfera
+end
+~
+/s
+q
+y

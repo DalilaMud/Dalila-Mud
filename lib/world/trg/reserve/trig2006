@@ -1,0 +1,23 @@
+trigedit 2006
+6  
+/c 
+wait 1 s
+if %speech% == cura di Silue
+ if %puntigrazia% < 20
+  mecho &7&xL'altare brilla per qualche istante, ma non succede nulla&0
+  halt
+ end
+ mecho &7&xL'altare brilla per qualche istante...&0
+ dg_cast 'heal' %actor.name%
+elseif %speech% == grazia di Silue
+ if %puntigrazia% < 40
+  mecho &7&xL'altare brilla per qualche istante, ma non succede nulla&0
+  halt
+ end
+ mecho &7&xL'altare brilla per qualche istante...&0
+ dg_affect %actor.name% sanct 70 6
+end
+~
+/s
+q
+y

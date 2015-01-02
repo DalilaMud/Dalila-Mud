@@ -1,0 +1,34 @@
+trigedit 6673
+6  
+/c 
+* Lista comandi
+if %sentinella% == dorme
+  set sentinella neutra
+  global sentinella
+  wait 1 s
+  mecho La sentinella apre lentamente un occhio.
+  wait 2 s
+  say Scio scio, andate via, brutti fantasmi, lasciatemi riposare in pace.
+  set sentinella dorme
+  global sentinella
+elseif %sentinella% == vigile
+  set sentinella neutra
+  global sentinella
+  wait 1
+  mecho La sentinella si gratta pensierosa la testa
+  wait 2 s
+  say Uhmmm!!!!
+  wait 2 s
+  say Bene!!! Si si mi sembra che sia proprio questa la parola d'ordine!
+  wait 1 s
+  mecho La sentinella tira una piccola leva dal pomello rosso.
+  set sentinella apre
+  global sentinella
+else
+  wait 1 s
+  say Si ho capito ... mica dormo io!!!
+end
+~
+/s
+q
+y

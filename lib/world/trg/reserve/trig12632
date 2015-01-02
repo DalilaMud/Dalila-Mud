@@ -1,0 +1,57 @@
+trigedit 12632
+6  
+/c 
+if %speech% == monarca && %monarca% == 0
+set monarca %actor.name%
+global monarca
+end
+if %speech% == permessi
+wait 2
+say Oltre al Monarca %monarca% hanno accesso a questi magazzini:
+say 1- %funzionario% (&1Funzionario primo&0)
+say 2- %2%
+say 3- %3%
+say 4- %4%
+say 5- %5%
+end
+if %actor.name% == %monarca%
+if %speech% == funzionario
+wait 5
+say Che il nuovo funzionario si faccia avanti (&1Say Eccomi&0)
+set carica funzionario
+global carica
+end
+end
+if %speech% == eccomi
+if %carica% == funzionario
+set funzionario %actor.name%
+global funzionario
+wait 2
+unset carica
+nod
+else
+set %cambio% %actor.name%
+global %cambio%
+unset cambio
+end
+end
+if %actor.name% == %funzionario% || %actor.name% == %monarca%
+if %speech% == cambia permessi
+set cambio on
+global cambio
+wait 4
+say Che numero? (2-5)
+end
+if %cambio% == on
+if %speech% > 1 && %speech% < 6
+set cambio %speech%
+global cambio
+wait 5
+say Bene, che il nuovo privilegiato si faccia avanti (&1Say eccomi&0)
+end
+end
+end
+~
+/s
+q
+y

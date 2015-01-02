@@ -1,0 +1,12 @@
+trigedit 20093
+6  
+/c 
+* Lista comandi
+wait 2 s
+say ...morirai!!!
+wait 2 s
+kill %actor.name%
+~
+/s
+q
+y

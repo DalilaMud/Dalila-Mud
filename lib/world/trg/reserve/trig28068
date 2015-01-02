@@ -1,0 +1,49 @@
+trigedit 28068
+6  
+/c 
+wait 2 s
+if %key% == ok1
+if %ide% == %actor.name%
+unset key
+set key ok2
+global key
+if %speech% == spidi
+say &3 Benissimo, %actor.name%  ha scommesso su Spidi di Jiroch !! &0 !!SOUND(whip.wav)
+set bet1 Spidi
+global bet1
+wait 3 s
+say &3 Piazzato o vincente? &0
+elseif %speech% == ammazzagatti
+say &3 Bene, %actor.name%  ha scommesso su Ammazzagatti di Cimmura !! &0 !!SOUND(mortemob2.wav)
+set bet1 Ammazzagatti
+global bet1
+wait 3 s
+say &3 Piazzato o vincente? &0
+elseif %speech% == quattroventi
+say &3 Bene, %actor.name%  ha scommesso su Quattroventi di Deira !! &0 !!SOUND(vento1.wav)
+set bet1 Quattroventi
+global bet1
+wait 3 s
+say &3 Piazzato o vincente? &0
+elseif %speech% == cordileone
+say &3 Bene, %actor.name%  ha scommesso su Cordileone di Chyrellos !! &0 !!SOUND(spam.wav)
+set bet1 Cordileone
+global bet1
+wait 3 s
+say &3 Piazzato o vincente? &0
+else
+say &3 Bene, %actor.name%  ha scommesso su Saetta di Lamorka !! &0 !!SOUND(fireball.wav)
+set bet1 Saetta
+global bet1
+wait 3 s
+say &3 Piazzato o vincente? &0
+end
+else
+say &6 Un momento, questa e' la corsa di %ide% !!! &0
+end
+else
+end
+~
+/s
+q
+y

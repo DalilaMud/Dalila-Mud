@@ -1,0 +1,17 @@
+trigedit 2609
+6  
+/c 
+* Lista comandi
+if %arg% == statua
+if %n% == 0
+eval n %random.1000%
+global n
+end
+osend %actor.name% Oggi ci sono %n% ricordini di piccioni sulla statua di Gulamis
+else
+oforce %actor.name% esamina %arg%
+end
+~
+/s
+q
+y

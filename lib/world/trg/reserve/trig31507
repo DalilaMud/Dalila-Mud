@@ -1,0 +1,29 @@
+trigedit 31507
+6  
+/c 
+if %flag% == 1
+if %speech% == si || %speech% == Si
+set flag 0
+global flag
+say Un uomo d'onore ha sempre una parola per perdonare il prossimo..voglio farvi un dono
+wait 1 s
+rem wak
+wait 1 s
+dai wak %actor.name%
+drop wak
+wait 1 s Vi dono la mia lama corta..fanne un uso in nome del giusto e nel nome dello Shogun!
+elseif %speech% == no || %speech% == No
+set flag 0
+global flag
+emo allontana la spada dal petto non trovando il coraggio di togliersi la vita
+wait 1 s
+say Sono un samurai reietto...non trovo la forza di sacrificarmi, ma tu non vivrai a lungo per raccontare quello che hai appena visto!
+wait 1 s
+stand
+mkill %actor.name%
+end
+end
+~
+/s
+q
+y

@@ -1,0 +1,223 @@
+trigedit 28069
+6  
+/c 
+if %key% == ok2
+if %ide% == %actor.name%
+unset key
+unset ide
+wait 3 s
+emote &3 sistema i topini sul Via e un pezzetto di formaggio sul Traguardo. &0
+wait 4 s
+say &3 Pronti......VIAAAAAA!! &0
+wait 3 s
+eval pos1 %random.5%
+if %pos1% == 1
+say &3 Dopo il via %bet1% e' gia' in testa ma il gruppo dietro e' agguerrito. &0
+set pu1 3
+elseif %pos1% == 2
+say &3 Il gruppo parte compatto fin dall'inizio. %bet1% sembra in buona posizione. &0
+set pu1 2
+elseif %pos1% == 3
+say &3 %bet1% parte spintonando tutti e guadagna la testa della corsa!! &0
+set pu1 3
+elseif %pos1% == 4
+say &3 %bet1% non vuole saperne di correre oggi e saltella felice! &0 !!SOUND(giggle.wav) 
+set pu1 1
+else
+say &3 Accidenti. %bet1% e' travolto dagli avversari..sembra riprendersi pero'!! &0
+set pu1 2
+end
+wait 7 s
+eval pos2 %random.6%
+if %pos2% == 1
+say &3 Alla prima curva %bet1% viaggia in testa che e' una meraviglia !!! &0
+say &6 Il gruppo fatica a stargli dietro. &0
+set pu2 5
+elseif %pos2% == 2
+say &3 In pieno curvone %bet1% si fa valere nel gruppo. &0
+say &6 Azzanna un avversario che cosi perde contatto. &0 !!SOUND(fight4.wav)
+set pu2 4
+elseif %pos2% == 3
+say &3 Nel curvone il gruppo viaggia compatto. &0
+say &6 %bet1% e' in difficolta' ma tiene il passo!! &0
+set pu2 3
+elseif %pos2% == 4
+say &3 %bet1% scivola e sbatte contro un avversario!! &0 !!SOUND(fall1.wav)
+say &6 Per fortuna si riprende! L'altro topo giura vendetta!! &0
+set pu2 2
+elseif %pos2% == 5
+say &3 %bet1% affronta il curvone molto bene e guadagna spazio. &0
+say &6 Col muso sgambetta un avversario!! &0
+set pu2 5
+else
+say &3 Un avversario si avvicina a %bet1% e gli morde la coda....incredibile!!! &0
+say &6 %bet1% perde contatto dalla testa. &0
+set pu2 1
+end
+wait 8 s
+eval pos3 %random.7%
+if %pos3% == 1
+say &3 Sul rettilineo di meta' gara %bet1% conduce con un buon vantaggio sugli inseguitori!! &0
+set pu3 7
+elseif %pos3% == 2
+say &3 A meta' gara %bet1% e' in testa ma il vantaggio e' poco. &0
+set pu3 6
+elseif %pos3% == 3
+say &3 A meta' del rettilineo in testa ci sono tre soli topi e %bet1% e' tra questi!! &0
+set pu3 5
+elseif %pos3% == 4
+say &3 %bet1% e' un po' staccato dalla testa quando siamo a meta' gara. &0
+set pu3 4
+elseif %pos3% == 5
+say &3 Grande mossa di %bet1% che supera due avversari!! &0
+set pu3 5
+elseif %pos3% == 6
+say &3 %bet1% rallenta per rispondere agli insulti!! &0 !!SOUND(death4.wav)
+set pu3 2
+else
+say &3 Male male!! %bet1% e' ultimo. Ma puo' ancora farcela! Forza %bet1% !! &0
+set pu3 1
+end
+wait 7 s
+eval pos4 %random.7%
+if %pos4% == 1
+say &3 All'ultima curva %bet1% tiene saldamente la testa della corsa. &0 !!SOUND(level3.wav)
+set pu4 9
+elseif %pos4% == 2
+say &3 Nell'ultimo curvone %bet1% comanda la corsa con un leggero vantaggio sul secondo. &0
+set pu4 7
+elseif %pos4% == 3
+say &3 A meta' dell'ultima curva %bet1% e' in testa insieme a tre avversari. &0
+set pu4 6
+elseif %pos4% == 4
+say &3 A meta' della seconda curva %bet1% accelera per lo sprint finale!! &0
+set pu4 5
+elseif %pos4% == 5
+say &3 %bet1% non e' lontano dalla testa quando siamo a meta' curvone. &0
+set pu4 4
+elseif %pos4% == 6
+say &3 Accidenti, %bet1% ha sbandato e ha perso terreno. E' quarto ora!! &0
+set pu4 3
+else
+say &3 Nooo.crashhh. %bet1% e' andato dritto senza girare. &0 !!SOUND(death5.wav)
+say &6 Ora serve solo un miracolo. &0
+set pu4 2
+end
+wait 7 s
+eval pos5 %random.7%
+if %pos5% == 1
+say &3 Incredibile scatto di %bet1% che brucia metri e metri verso il traguardo!!! &0
+say &6 Favoloso!! &0 !!SOUND(handwind.wav)
+set pu5 11
+elseif %pos5% == 2
+say &3 Grandi possibilita' per %bet1% che guida la corsa a pochi metri dal traguardo!!! &0
+set pu5 9
+elseif %pos5% == 3
+say &3 Discrete possibilita' per %bet1% che e' in testa di mezzo baffo!! &0
+set pu5 8
+elseif %pos5% == 4
+say &3 %bet1% deve dare il meglio di se' per conquistare il podio!! &0
+set pu5 6
+elseif %pos5% == 5
+say &3 Poche possibilita' di arrivare primo per %bet1% !! Forse secondo! &0
+set pu5 4
+elseif %pos5% == 6
+say &3 %bet1% esce malissimo dalla curva e si trova in ultima posizione ora!! &0
+set pu5 2
+else
+say &3 Gli scommettitori inveiscono contro %bet1% che sta mangiando polvere la' dietro! &0
+say &6 Che disastro!! &0 !!SOUND(death1.wav)
+set pu5 1
+end
+wait 8 s
+eval pos6 %random.6%
+say &6 Sulla linea del traguardo........ &0
+if %pos6% == 1
+say &3 %bet1% sembra essere nettamente in vantaggio!!!! &0 !!SOUND(level2.wav)
+set pu6 6
+elseif %pos6% == 2
+say &3 %bet1% sembrerebbe farcela per mezza coda!! &0
+set pu6 5
+elseif %pos6% == 3
+say &3 %bet1% si fa largo a calci!! &0 !!SOUND(donkey.wav)
+set pu6 4
+elseif %pos6% == 4
+say &3 %bet1% passa alla pari con altri concorrenti! Finale incerto!! &0
+set pu6 3
+elseif %pos6% == 5
+say &3 %bet1% sembra non farcela maledizione! &0
+set pu6 2
+else
+say &3 %bet1% si e' fermato a fare un bisognino!!! &0 !!SOUND(cry2.wav)
+set pu6 -3
+end
+wait 7 s
+eval tot %pu1% + %pu2% + %pu3% + %pu4% + %pu5% + %pu6%
+say &6 Ora vediamo il piazzamento di %bet1% ....  &0
+wait 4 s
+if %speech% == piazzato
+if %tot% > 29
+say &x&1 Magnifico!! %bet1% e' PRIMO!! e %actor.name% vince 3 gocce!! &0 !!SOUND(yahoo.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 2 s
+give 3 goccia %actor.name%
+halt
+elseif %tot% > 24
+say &3 SECONDO!! Bella gara di %bet1% e %actor.name% vince 2 gocce!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+wait 2 s
+give 2 goccia %actor.name%
+halt
+elseif %tot% > 19
+say &3 %bet1% e' arrivato TERZO e %actor.name% vince il premio di consolazione. &0
+mload obj 28061
+wait 2 s
+give buono %actor.name%
+halt
+elseif %tot% > 15
+say &3 Solo il Quarto posto per %bet1%. Peccato. &0
+halt
+else 
+say &3 ULTIMO. Che vergogna per %bet1%!!! &0
+end
+elseif %speech% == vincente
+if %tot% > 29
+say &x&1 Alla grande!! %bet1% e' PRIMO!! e %actor.name% vince 5 gocce!! &0 !!SOUND(yahoo.*)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 2 s
+give 5 goccia %actor.name%
+halt
+elseif %tot% > 24
+say &3 SECONDO!! Bella gara di %bet1% e %actor.name% vince il premio di consolazione. !! &0
+mload obj 28061
+wait 2 s
+give buono %actor.name%
+halt
+elseif %tot% > 19
+say &3 %bet1% e' arrivato Terzo. &0
+halt
+elseif %tot% > 15
+say &3 Solo il Quarto posto per %bet1%. Peccato. &0
+halt
+else
+say &3 ULTIMO. Che vergogna per %bet1%!!! &0
+end
+else
+end
+unset bet1
+else
+say &6 Lasciamo finire la partita di %ide% per favore!! &0
+end
+else
+end
+~
+/s
+q
+y

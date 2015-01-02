@@ -1,0 +1,3808 @@
+#21200
+Guardia personale~
+Guardia personale di Dolmant~
+Una guardia personale di Dolmant e' qui che si guarda attentamente intorno.
+~
+Non hai quasi il coraggio di posare gli occhi su questo gigante
+di oltre due metri, dal volto severo e risoluto e dalla pelle
+dorata. Osservi con attenzione il suo abbigliamento costituito
+da una corta tunica di pelle nera, una corazza di metallo brunito
+e bassi stivali neri; sussulti quando i tuoi occhi si posano
+sui sottili cerchi d'oro che circondano la sua fronte. Questo
+colosso deve essere uno dei temibili Atan!
+~
+~
+~
+~
+10267664409 135266432 0 -1 -1 -1 -1 -1 E
+50 3 -8 800d1+800 4d10+12
+40 20
+8 8 1
+Spec: 3
+E
+T 21001
+T 12528
+T 12529
+T 12527
+#21201
+Guardia Chyrellos Cancelli~
+una Guardia dei cancelli di Chyrellos~
+Una guardia di Chyrellos e' qui che si guarda attentamente intorno.
+~
+La guardia di Chyrellos ha un aspetto agile e scattante; lo stemma del regno di
+Elenia campeggia al centro della veste che ricopre l'armatura.
+~
+~
+~
+~
+36066182025175131 1056 900 -1 -1 -1 -1 2 E
+60 -5 -9 1d400+1600 3d15+20
+38 0
+8 8 1
+Spec: 3
+E
+T 12528
+T 12529
+T 12527
+T 21001
+#21202
+Guardia Ronda Chyrellos ~
+una Guardia di Ronda di Chyrellos~
+Una guardia di Chyrellos e' qui intenta a mantenere l'ordine per le strade.
+~
+La guardia di Chyrellos ha un aspetto agile e scattante; lo stemma del regno di
+Elenia campeggia al centro della veste che ricopre l'armatura.
+~
+~
+~
+~
+36063983001919513 1056 900 -1 -1 -1 -1 2 E
+65 -5 -9 1d1+2500 4d15+20
+63 0
+8 8 1
+BareHandAttack: 10
+Spec: 3
+E
+#21203
+guardia guardiano prigioni~
+Guardia delle prigioni~
+Una guardia di Chyrellos e' qui in attesa di rinchiudere i malfattori nelle celle.
+~
+La guardia di Chyrellos ha un aspetto agile e scattante; lo stemma
+del regno di Elenia campeggia al centro della veste che ricopre l'armatura.
+~
+~
+~
+~
+24591 101712000 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+65 20
+8 8 0
+Spec: 37
+E
+#21204
+guardia porto Chyrellos~
+Guardia del porto di Chyrellos~
+Una guardia di Chyrellos e' qui intenta a pattugliare la zona del porto.
+~
+La guardia di Chyrellos ha un aspetto agile e scattante; lo stemma
+del regno di Elenia campeggia al centro della veste che ricopre l'armatura.
+~
+~
+~
+~
+2200634122251 1024 900 -1 -1 -1 -1 2 E
+45 5 -6 1d1+950 3d10+15
+26 20
+8 8 1
+E
+T 12527
+T 12528
+T 12529
+T 21001
+#21205
+guardia arimark~
+Arimark la Guardia~
+Arimark il Prode sta controllando che l'ordine cittadino venga rispettato.
+~
+Arimark il Prode e' un gigantesco guerriero che mostra con orgoglio
+i segni lasciati sul suo corpo dalle numerose battaglie in cui ha
+guidato alla vittoria l'esercito di Elenia, come Capitano delle
+Guardie del Patriarca Dolmant, Un grosso medaglione con il simbolo
+di Cyrgon e' appeso al suo collo.
+~
+~
+~
+~
+36028798629830681 67114112 900 -1 -1 -1 -1 2 E
+70 -1 -10 1d8+1000 4d12+13
+41 20
+8 8 1
+Str: 18
+StrAdd: 99
+Dex: 18
+Spec: 3
+E
+#21206
+zemek commodoro~
+Zemek~
+Zemek il Commodoro e' qui che siede alla sua scrivania.
+~
+Zemek e' un uomo ossuto e spigoloso, con un grosso naso aquilino e radi capelli
+sulla nuca. Una grossa catena d'argento sostiene l'insegna della sua carica:
+un medaglione d'argento su cui e' incisa la prua di una nave.
+~
+~
+~
+~
+36028798092959770 32 0 -1 -1 -1 -1 2 E
+60 -1 -10 1d8+1000 4d12+12
+38 20
+8 8 1
+Str: 18
+Wis: 18
+E
+#21207
+Tenente Anton Gerbel~
+Anton Gerbel~
+Anton Gerbel, il tenente della Guardia di Chyrellos e' qui che discute con un pescatore.
+~
+Anton Gerbel e' alto, robusto, con dei lunghi baffi neri perfettamente curati.
+Sembra molto preso dalla discussione con il vecchio e non sembra curarsi della
+tua presenza.
+~
+~
+~
+~
+36028798092959770 32 0 -1 -1 -1 -1 2 E
+55 1 -9 1d8+860 4d11+11
+35 20
+8 8 1
+Str: 17
+Dex: 18
+E
+#21208
+tenente edgar guercio~
+Edgar il Guercio~
+Edgar il Guercio, il tenente della Guardia di Chyrellos e' qui che ti osserva con sospetto.
+~
+Edgar e' un uomo di media statura, ma di stazza imponente. Un'orribile cicatrice
+si trova al posto del suo occhio sinistro. Da quel che si racconta pero', questa
+menomazione non sembra aver diminuito la sua abilita' combattiva.
+~
+~
+~
+~
+36028798092959768 0 0 -1 -1 -1 -1 2 E
+55 1 -9 1d8+860 4d11+11
+51 20
+8 8 1
+Str: 18
+StrAdd: 80
+Con: 18
+E
+#21209
+sergente Milos~
+Milos~
+Milos, il sergente della Guardia di Chyrellos e' qui intento a perlustrare le strade.
+~
+Milos ha una corporatura minuta ed asciutta ed un aspetto mite
+e gentile, ma, a giudicare dai numerosi trofei di guerra che
+pendono dalla sua cintura e dallo strano sguardo che ti lancia
+non appena si accorge che lo stai scrutando, e' probabile che
+l'apparenza inganni.
+~
+~
+~
+~
+36028798629830681 32 0 -1 -1 -1 -1 2 E
+50 2 -8 8d1+800 4d10+10
+30 20
+8 8 1
+Str: 18
+Dex: 15
+Int: 17
+Spec: 3
+E
+#21210
+Lorne sergente~
+Lorne~
+Lorne, il sergente della Guardia di Chyrellos e' qui intento a perlustrare le strade.
+~
+Lorne e' un omone gigantesco, completamente calvo e con una folta
+barba nera. Mentre cammina, di tanto in tanto porta la mano alla
+cintura come se volesse assicurarsi che la sua fida ascia pende
+ancora al suo fianco.
+~
+~
+~
+~
+36028798092959769 17825792 0 -1 -1 -1 -1 2 E
+50 2 -8 8d1+800 4d10+10
+32 20
+8 8 1
+BareHandAttack: 5
+StrAdd: 99
+Dex: 15
+Con: 18
+Spec: 3
+E
+#21211
+sosa sergente~
+Sosa~
+Sosa, il sergente della Guardia di Chyrellos e' qui intento a perlustrare le strade.
+~
+Sosa e' una donna massiccia e corpulenta, con capelli rossi tagliati
+molto corti. Sotto una lunga tunica marrone che le arriva fino
+ai piedi puoi notare il luccichio dell'armatura; e' probabile
+che sotto la veste nasconda anche i micidiali pugnali da lancio
+con cui si dice abbia abbattuto centinaia di Goblin.
+~
+~
+~
+~
+36028798629830681 16777216 0 -1 -1 -1 -1 2 E
+50 2 -8 8d1+800 4d10+10
+46 20
+8 8 2
+BareHandAttack: 1
+Str: 17
+Dex: 18
+Int: 15
+Spec: 3
+E
+#21212
+Luc Brad sergente~
+Luc de Brad~
+Luc de Brad, il sergente della Guardia di Chyrellos e' qui intento a perlustrare le strade.
+~
+Luc de Brad ha un aspetto anonimo e inoffensivo. Lo osservi attentamente
+cercando di convincerti che quell'uomo tanto insignificante e'
+lo stesso che, diversi anni orsono, si apri' la strada tra i
+nemici che assediavano la chiesa, per raggiungere Cluvonos il
+vecchio arciprelato e portarlo in salvo.
+~
+~
+~
+~
+36028798092959768 8 0 -1 -1 -1 -1 2 E
+50 2 -8 8d1+800 4d10+10
+50 20
+8 8 1
+Str: 18
+Dex: 14
+Wis: 16
+E
+#21213
+guardia autorita'~
+Guardia delle Autorita'~
+Una guardia cittadina e' qui che si guarda attentamente intorno.
+~
+La guardia cittadina e' grossa e ben armata. La tunica gialla
+ed azzurra che copre la sua armatura, ti fa capire che sei in
+presenza di una delle Guardie scelte di Chyrellos, il cui compito
+e' difendere i notabili della citta'.
+~
+~
+~
+~
+9194053705 0 0 -1 -1 -1 -1 -1 E
+45 7 -6 740d1+700 4d7+9
+32 20
+8 8 1
+E
+#21214
+cane~
+Un cane randagio~
+Un cane randagio e' qui che gironzola in cerca di cibo.
+~
+E' un cane marrone, di taglia media, sporco e spelacchiato, ma
+dall'aria simpatica. Non appena si accorge che lo stai osservando
+scodinzola felice e abbaia verso di te.
+~
+~
+~
+~
+36028797018966028 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+BareHandAttack: 4
+E
+#21215
+Dago lupo cane~
+Dago il Pastore Tedesco~
+Dago il cane lupo e' qui che ringhia ai passanti.
+~
+Dago e' un giovane cane lupo dal pelo scuro. Sembra che la sua
+occupazione preferita sia impaurire i passanti ringhiandogli
+contro e mostrando i suoi denti aguzzi.
+~
+~
+~
+~
+36028797018998792 0 0 -1 -1 -1 -1 -1 E
+8 15 8 1d8+70 1d8+1
+8 20
+8 8 1
+BareHandAttack: 4
+E
+#21216
+exus mastino~
+Exus il Mastino~
+Exus il mastino e' qui che osserva i passanti.
+~
+Exus e' un muscoloso mastino nero. Ha l'aria tranquilla e bonaria,
+ma le zanne che intravedi nella sua bocca ti sconsigliano di
+accarezzarlo.
+~
+~
+~
+~
+36028797019095048 0 0 -1 -1 -1 -1 -1 E
+9 15 7 1d8+85 1d9+1
+6 20
+8 8 1
+BareHandAttack: 4
+E
+#21217
+kitty barboncina~
+Kitty la Barboncina~
+Kitty la barboncina e' qui che scodinzola ai passanti.
+~
+Kitty e' la minuta barboncina bianca di Alyca, la cameriera.
+La puoi trovare sempre nelle vicinanze della Buca della fame intenta a
+richiedere coccole e carezze ai passanti.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 2
+BareHandAttack: 4
+E
+#21218
+Phil bassotto~
+Phil il Bassotto~
+Phil, il bassotto e' qui che schiaccia un pisolino.
+~
+Phil e' il grasso e pigro bassotto di Gustavo. Quando ti avvicini,
+apre pigramente un occhio per assicurarsi che tu non abbia intenzioni
+ostili. Poi, rassicurato, riprende la sua siesta.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+BareHandAttack: 4
+E
+#21219
+gatto~
+Un gatto~
+Un gatto grigio e' qui che si strofina lungo i muri delle case.
+~
+E' un grosso gatto grigio, con penetranti occhi gialli. Ti guarda
+con sospetto mentre lo scruti, poi si volta e riprende la sua
+strada.
+~
+~
+~
+~
+36028797018963980 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+BareHandAttack: 8
+E
+#21220
+top gatto cucciolo~
+Top il Cucciolo di Gatto~
+Top il gattino e' qui che rincorre una foglia.
+~
+Top e' un cucciolo di gatto bianco e nero, vispo e amichevole.
+Sembra intento a rincorrere una foglia trascinata dal vento accanto
+ai tuoi piedi. Tutto preso dal gioco non si accorge della tua
+presenza e urta contro i tuoi piedi, cadendo a terra. Prontamente
+si rialza, scrolla il capo e riprende il suo gioco.
+~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+BareHandAttack: 8
+E
+#21221
+sira gatta persiana~
+Sira la Gatta Persiana~
+Sira la gatta persiana e' qui che riposa acciambellata su se stessa.
+~
+Sira e' una gatta persiana nera. E' timorosa e sedentaria, nessuno
+infatti l'ha mai vista allontanarsi troppo da Rey, il suo padrone.
+La puoi osservare mentre e' intenta a riposare, la sua occupazione
+principale.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+5 5 2
+BareHandAttack: 8
+E
+#21222
+helea gatta~
+Helea la Gatta Rossa~
+Helea la gatta e' qui che tenta di stanare un topolino.
+~
+Helea e' una gatta rossa che ha fama di grande cacciatrice. E'
+l'orgoglio di Lorne il suo padrone ed il terrore dei topi e dei
+piccoli animali di Chyrellos.
+~
+~
+~
+~
+36028797018963976 294912 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 2
+BareHandAttack: 8
+E
+#21223
+topo bianco~
+Il topo bianco~
+Un piccolo topo bianco e' qui che rosicchia una nocciolina.
+~
+E' un piccolo topolino che ha coraggiosamente raggiunto, al centro
+della strada, il guscio di una nocciolina gettato a terra da
+un passante, che ora divora avidamente.
+~
+~
+~
+~
+36028797018964108 1024 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+BareHandAttack: 4
+E
+#21224
+Gabbiano Jonathan~
+Jonathan il Gabbiano~
+Jonathan il gabbiano bianco e' qui che compie evoluzioni nel cielo.
+~
+Jonathan e' un grosso gabbiano bianco, che con grande applicazione
+e perseveranza ha appreso le vie segrete del volo. Osservandolo,
+ti accorgi con sorpresa che i suoi virtuosismi aerei hanno la
+proprieta' di affascinarti. Se gli impegni non ti richiamassero
+in citta' potresti restare ad osservarlo per ore!
+~
+~
+~
+~
+36028797018988570 4194432 900 -1 -1 -1 -1 -1 E
+30 9 -1 1d8+500 2d12+6
+23 20
+8 8 1
+E
+#21225
+Gabbiano~
+Un Gabbiano~
+Un gabbiano bianco e' qui con un pesce nel becco.
+~
+E' un grosso gabbiano bianco che ha appena catturato un grosso
+pesce in mare che ora si accinge ad inghiottire.
+~
+~
+~
+~
+36028797018963982 4194304 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+E
+#21226
+sarago~
+Un sarago~
+Un sarago e' qui che nuota tra le onde.
+~
+E' un sarago grigio di medie dimensioni che nuota a scatti in
+cerca di cibo. Lo osservi mentre si lascia trasportare dalle
+onde verso riva, o mentre si muove lentamente contro corrente,
+o ancora mentre scompare nella nuvola di sabbia che hai creato
+al tuo passaggio.~
+~
+~
+~
+36028797018963978 8388608 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+E
+#21227
+Formica~
+Una Formica~
+Una formica e' qui che trascina una grossa foglia.
+~
+La formica ha il corpo nero e la testa rossa. La osservi mentre,
+per nulla spaventata dal tuo arrivo, trasporta verso il formicaio
+un frammento di foglia.~
+~
+~
+~
+36028797019029644 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 2
+BareHandAttack: 4
+E
+#21228
+Hanck Scoiattolo~
+Hanck lo Scoiattolo~
+Hanck lo scoiattolo e' qui che saltella da un ramo all'altro.
+~
+Hanck e' un piccolo scoiattolo grigio, che si muove velocemente
+sopra la tua testa. Lo osservi mentre, con grande coraggio, spicca
+grossi salti passando da un ramo all'altro.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+BareHandAttack: 4
+E
+#21229
+Bert Granchio~
+Bert il Granchio~
+Bert il granchio rosso e' qui che percorre avanti ed indietro la spiaggia.
+~
+Bert e' un grosso granchio rosso. Sembra irrequieto e preoccupato.
+Ti chiedi stupito quali problemi possa avere un granchio.~
+~
+~
+~
+36028797018963982 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+BareHandAttack: 8
+E
+#21230
+Willy Bastardino~
+Willy il Bastardino~
+Willy il bastardino e' qui nell'angolo che fa la pipi.
+~
+Willy e' un cane marrone a chiazze nere, di taglia media, sporco e dall'aria simpatica.
+~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+BareHandAttack: 4
+E
+#21231
+Nemo gatto~
+Nemo il gatto tigrato~
+Nemo il gatto tigrato e' qui che beve da una pozzanghera.
+~
+Nemo e' un grosso gatto grigio, tigrato, dal pelo corto e lo sguardo furbo.
+A giudicare dall'avidita' con cui beve dalla pozzanghera, deve nuovamente
+aver rubato un pezzo di baccala' salato dalla cantina di Jorit il suo padrone.
+~
+~
+~
+~
+36028797018964108 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+BareHandAttack: 8
+E
+#21232
+granchio~
+un granchio~
+Un granchio e' qui con una conchiglia fra le chele. 
+~
+E' un piccolo granchio che e' appena riuscito a forzare le valve di una vongola.
+Con grande soddisfazione si accinge a banchettare con il morbido mollusco.~
+~
+~
+~
+36028797018963980 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+BareHandAttack: 8
+E
+#21233
+Hernie cavallo~
+Hernie il cavallo~
+Hernie il cavallo e' qui che manovra un enorme argano.
+~
+Hernie e' un grosso e robusto cavallo marrone. Sembra molto preso dalla sua
+occupazione, che compie con infaticabile costanza. Ti accorgi che ogni tanto
+rivolge lo sguardo verso Beril, il suo padrone, per ricevere la sua approvazione.~
+~
+~
+~
+36028797018996746 0 0 -1 -1 -1 -1 -1 E
+8 15 8 1d8+70 1d8+1
+8 20
+8 8 1
+BareHandAttack: 4
+E
+#21234
+scoiattolo~
+uno scoiattolo~
+Uno scoiattolo e' qui che rosicchia un pinolo.
+~
+Il piccolo scoiattolo marrone si rannicchia tremante sotto un cespuglio, non
+appena si accorge del tuo arrivo lasciando cadere a terra il pinolo.~
+~
+~
+~
+36028797018963980 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+BareHandAttack: 4
+E
+#21235
+Herman spazzino~
+Herman lo spazzino~
+Herman, lo spazzino, sta ammonticchiando i rifiuti gettati dai passanti.
+~
+Herman e' un uomo basso, dall'aspetto quadrato. Con la sua scopa crea piccoli
+cumuli di rifiuti, foglie e terra che poi raccoglie e getta nel grosso sacco
+che porta appeso a tracolla.~
+~
+~
+~
+36028798092705804 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+10 20
+8 8 1
+E
+#21236
+Brad spazzino~
+Brad lo spazzino~
+Brad, lo spazzino, sta ammonticchiando i rifiuti gettati dai passanti.
+~
+Brad e' un uomo alto e slanciato. Con la sua scopa crea piccoli cumuli di
+rifiuti, foglie e terra che poi raccoglie e getta nel grosso sacco che porta
+appeso a tracolla.~
+~
+~
+~
+36028798092705804 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+10 20
+8 8 1
+E
+#21237
+Peter spazzino~
+Peter lo spazzino~
+Peter, lo spazzino, sta ammonticchiando i rifiuti gettati dai passanti.
+~
+Peter e' un uomo basso e tondo. Con la sua scopa crea piccoli cumuli di rifiuti,
+foglie e terra che poi raccoglie e getta nel grosso sacco che porta appeso a
+tracolla.~
+~
+~
+~
+36028798092705804 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 1
+E
+#21238
+Essele giardiniere~
+Essele il giardiniere~
+Essele, il giardiniere, è qui che si prende cura delle piante del Parco.
+~
+Essele è un vecchio energico ed attivo. Sono ormai 40 anni che compie, di mese
+in mese, le stesse azioni: annaffia, pota, pianta bulbi e semi, estirpa erbacce,
+raccoglie le foglie cadute. Sua premura e' che il parco sia sempre verde ed in
+ordine.~
+~
+~
+~
+36028798092705804 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+7 20
+8 8 1
+E
+#21239
+Julie giardiniera~
+Julie la giardiniera~
+Julie, la giardiniera, è qui che si prende cura delle piante del Parco.
+~
+Julie e' la giovane e graziosa apprendista di Essele. Con costanza e dedizione
+si occupa di innaffiare e potare le piante del Parco, cosi' come il vecchio
+maestro le ha insegnato.~
+~
+~
+~
+36028798092705804 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+8 20
+8 8 2
+E
+#21240
+Ykkryb~
+Ykkryb~
+Ykkryb e' qui che cerca indicazioni per raggiungere il porto.
+~
+Ykkryb e' un piccolo e repellente goblin. Certamente e' uno dei Goblin sanguinari
+di Daconia. Lo guardi con disprezzo e ti chiedi quale motivo possa averlo spinto
+a venire in citta'.~
+~
+~
+~
+36028797018963976 1024 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+10 20
+8 8 1
+E
+#21241
+Berill~
+Berill~
+Berill e' qui che si guarda intorno stupito.
+~
+Berill e' un elfo dall'aspetto gentile ed elegante. Il colorito pallido della sua
+carnagione e gli abiti da caccia che indossa ti permettono di identificarlo
+facilmente. Si tratta certo di un elfo Eldar, giunto a Chyrellos dalla lontana
+Sendaria.~
+~
+~
+~
+36028797018996744 262144 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+8 20
+8 8 1
+E
+#21242
+Agki~
+Agki~
+Agki e' qui che percorre con aria circospetta le strade di Chyrellos.
+~
+Agki e' un enorme orco dalla pelle verde, la fronte bassa e sfuggente, la
+mandibola sporgente. Il suo aspetto non si puo' certo dire gradevole! Ti
+chiedi con una certa apprensione quali motivi abbiano spinto fin qui un orco
+dell'Asturia.~
+~
+~
+~
+36028797019031560 1024 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+14 20
+8 8 1
+E
+#21243
+Grimok~
+Grimok~
+Grimok e' qui che cerca di raggiungere il municipio.
+~
+Grimok e' un grosso orco dalla pelle brunastra, gli occhi rossi e la pupilla
+bianca. Le sue caratteristiche fisiche, nonche' il suo abbigliamento
+'decisamente militare' ti fanno capire che ti sei imbattuto in uno degli orchi
+che abitano a nord dell'Arendia.~
+~
+~
+~
+36028797019029512 40960 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+12 20
+8 8 1
+E
+#21244
+Tiris~
+Tiris~
+Tiris e' qui che cerca informazioni.
+~
+Tiris e' un uomo irsuto, vestito di pelli non conciate e dall'aria poco
+rassicurante. Non fatichi molto a riconoscere in lui uno dei Barbari
+Ardanesi, giunto a Chyrellos dal lontano nord.~
+~
+~
+~
+36028797018966024 262144 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+10 20
+8 8 1
+E
+#21245
+Emca~
+Emca~
+Emca e' qui che prova il bilanciamento di un pugnale.
+~
+Emca e' una bella donna bruna dallo sguardo fiero. La osservi attentamente
+per cercare di capire da dove provenga, il suo abbigliamento non e' infatti
+quello tipico di un elene! Non appena il tuo sguardo si sofferma sui numerosi
+pugnali infilati sotto la cintura, capisci immediatamente di trovarti davanti
+ad una rappresentate del popolo degli Shadati.~
+~
+~
+~
+36028797018963992 262144 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+9 20
+8 8 2
+E
+#21246
+Rack~
+Rack~
+Rack sta percorrendo le vie di Chyrellos.
+~
+Rack e' un grosso hobgoblin, dal folto pelo rossiccio ed il volto arancione.
+I suoi occhi sono sinistramente giallastri come pure le zanne che spuntano
+dalla sua bocca. Ti basta un momento per capire che si tratta di Hobgoblin
+delle colline della Drasnia.~
+~
+~
+~
+36028797018964104 9216 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+13 20
+8 8 1
+E
+#21247
+Mrryll~
+Mrryll~
+Mrryll e' qui che percorre, ciondolando, le vie della citta'.
+~
+Mrryll e' un orrendo troll dalla pelle color muschio e lunghissime braccia.
+Osservi con timore le sue mani a tre dita, dotate di affilatissime unghie.
+Sinceramente, preferiresti che non avesse mai deciso di lasciare le montagne
+a nord di Sendaria, sede della sua razza.~
+~
+~
+~
+36028797019031560 32 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+11 20
+8 8 1
+E
+#21248
+Ikklib~
+Ikklib~
+Ikklib e' qui che percorre con aria spavalda le vie della citta'.
+~
+Ikklib e' un gigantesco ogre dalla pelle violacea, piena di verruche blu.
+Un brivido di terrore percorre la tua schiena quando ti accorgi che le sue
+pupille bianche ti stanno osservando, preferiresti che un tale orrore tornasse
+al più presto in Nyssa!~
+~
+~
+~
+36028797019029512 1024 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+13 20
+8 8 1
+E
+#21249
+Kyla~
+Kyla~
+Kyla e' qui che cammina in fretta, avvolta in una pelliccia bianca.
+~
+Kyla e' un'elfa dalla pelle nerastra, i capelli chiari ed un aspetto poco
+rassicurante. Noti che sotto il vestito porta abiti completamente neri.
+Provi una certa soddisfazione quando scopri che il tuo giudizio era
+pienamente giustificato, si tratta infatti di un'elfa Elvadar.
+Meglio stare alla larga!~
+~
+~
+~
+36028797019004936 0 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+12 20
+8 8 2
+E
+#21250
+Zolthar~
+Zolthar~
+Zolthar e' qui che si guarda intorno con aria accigliata.
+~
+Zolthar e' un nano dalla folta barba nera e lo sguardo accigliato. Sembra
+non sentirsi a suo agio in mezzo a gente tanto piu' alta di lui. Il caos di
+Chyrellos, tanto diverso dal tranquillo ordine che regna sulle sue montagne,
+lo infastidisce non poco.~
+~
+~
+~
+36028797019037704 1024 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+10 20
+8 8 1
+E
+#21251
+Thorkrest~
+Thorkrest~
+Thorkrest e' qui che cerca di non essere travolto dalla folla.
+~
+Thorkrest e' un nano dalla pelle e dai capelli grigi. Il suo aspetto ti permette
+di riconoscere in lui un nano dei monti Khalist. Ti sembra molto strano che uno
+come lui si sia allontanato da casa, eppure e' cosi'!
+~
+~
+~
+~
+36028797019029512 1024 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+11 20
+8 8 1
+E
+#21252
+Kalar~
+Kalar~
+Kalar sta camminando in tutta fretta per le vie di Chyrellos.
+~
+Kalar e' un uomo biondo e dagli occhi chiari. Nonostante si muova con sicurezza
+per le vie della citta', il suo aspetto e la foggia degli abiti ti fanno capire
+che si tratta di uno straniero, certamente proveniente dalla Tolnedra.~
+~
+~
+~
+36028797018963976 33554432 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+10 20
+8 8 1
+E
+#21253
+Luther~
+Luther~
+Luther e' qui che si guarda intorno con aria smarrita.
+~
+Luther e' un uomo dai capelli neri e ricci. Mentre lo osservi, Luther ferma un
+passante per chiedergli informazioni. Il suo accento, inconfondibilmente
+aldariano, ed i suoi abiti polverosi ti fanno capire che deve essere arrivato
+da poco a Chyrellos.~
+~
+~
+~
+36028797018963992 262144 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+8 20
+8 8 1
+E
+#21254
+Kaled~
+Kaled~
+Kaled e' qui che consulta una mappa.
+~
+Kaled e' un uomo abbronzato, con capelli ed occhi neri. Gli abiti che indossa,
+ma soprattutto il grosso turbante bianco sul suo capo, ti fanno capire che deve
+essere arrivato da poco in citta' dalla lontana Cynesga.~
+~
+~
+~
+36028797018963976 16777216 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+8 20
+8 8 1
+E
+#21255
+elliot~
+Elliot~
+Elliot sta portando un grosso sacco sulle spalle.
+~
+Elliot e' un uomo dai capelli castani e dalla carnagione chiara. Quando ti passa
+vicino ti accorgi che profuma di salsedine. Deve essere sbarcato da poco, dopo un
+lungo viaggio per mare, probabilmente da una nave partita dalla Sendaria.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 -1 E
+15 12 5 1d8+200 2d5+3
+12 20
+8 8 1
+E
+#21256
+Pierre~
+Pierre~
+Pierre e' qui che fischietta allegramente.
+~
+Pierre e' un uomo medio, di media statura e di aspetto insignificante. Unica cosa
+degna di nota sono le sue mani lunghe, affusolate, e a quanto pare molto curate.~
+~
+~
+~
+36028797018964108 32768 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+5 20
+8 8 1
+E
+#21257
+Cecil~
+Cecil~
+Cecil e' qui che osserva le navi attraccate ai moli.
+~
+Cecil e' un uomo alto, dall'aria smunta e dal volto inespressivo. Lo osservi
+mentre guarda con aria rapita le vele delle navi che ondeggiano al vento e le
+manovre acrobatiche dei marinai sulle sartie.~
+~
+~
+~
+36028797018964110 0 0 -1 -1 -1 -1 2 E
+9 15 7 1d8+85 1d9+1
+8 20
+8 8 1
+E
+#21258
+Eleanor~
+Eleanor~
+Eleanor e' qui che osserva le merci esposte nei negozi.
+~
+Eleanor e' una donna di mezza eta' che ancora conserva gran parte della sua
+bellezza. Ha un aspetto molto curato ed e' elegantemente vestita. Sembra
+indecisa sul suo prossimo acquisto.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+5 20
+8 8 2
+E
+#21259
+Cedric~
+Cedric~
+Cedric sta passeggiando per la strada.
+~
+Cedric indossa un vestito elegante, all'ultima moda: una veste verde mare,
+lunga fino al ginocchio, legata in vita da un cintura di cuoio nera, decorata
+sulle maniche e lungo i bordi da ricami argentati.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+7 20
+8 8 1
+E
+#21260
+Alan~
+Alan~
+Alan e' qui che sbuffa guardando il cielo.
+~
+Alan e' un giovane ben vestito, che porta un monocolo sull'occhio sinistro e
+parla in maniera affettata. Si dice in giro che sia perennemente insoddisfatto,
+tanto che e' stato soprannominato Alan lo Scontento. A giudicare da quello che
+vedi, anche oggi deve aver trovato un motivo per non smentire la sua fama.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+5 20
+8 8 1
+E
+#21261
+Madeleine~
+Madeleine~
+Madeleine sta passeggiando per la strada.
+~
+Madeleine indossa un lungo abito nero con piccoli fiori bianchi. Dall'aspetto
+sembra una persona molto curata ed attenta ai particolari, noti infatti che
+anche il piccolo fermaglio che le trattiene i capelli scuri, nero con un fiore
+bianco, e' in tinta col vestito.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+6 20
+8 8 2
+E
+#21262
+Sir James~
+Sir James~
+Sir James e' qui che scruta in lontananza il mare.
+~
+Sir James e' un uomo sulla cinquantina, alto e ben portante, con i capelli
+tagliati corti, leggermente brizzolati sulle tempie. Si dice che la sua
+ricchezza (ed i maligni sostengono anche il suo titolo) siano legati al
+commercio via mare. Probabilmente sta attendendo con pazienza l'arrivo al
+porto del carico di una delle sue molte navi.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+9 15 7 1d8+85 1d9+1
+8 20
+8 8 1
+E
+#21263
+Lady Henrietta~
+Lady Henrietta~
+Lady Henrietta sta passeggiando per la strada.
+~
+Quale fortuna ti e' mai capitata! Oggi puoi dire di aver incontrato Lady
+Henrietta, il piu' bel partito della citta', mentre passeggiava per le vie
+di Chyrellos riparandosi il delicato capino con uno dei suoi numerosi
+ombrellini! Si dice che ne abbia uno diverso per ogni giornata, ma e'
+probabile che si tratti di una notizia infondata.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+9 15 7 1d8+85 1d9+1
+8 20
+8 8 2
+E
+#21264
+Sir Edward~
+Sir Edward~
+Sir Edwar sta attraversando in fretta la via.
+~
+Sir Edward e' un vecchio basso, leggermente sovrappeso, con pochi capelli
+bianchi costantemente spettinati. La fretta che lo contraddistingue e' dovuta
+al fatto che le due societa' di cui e' padrone hanno sedi in parti opposte
+della citta' e lui per seguirle da vicino, corre continuamente da una all'altra.
+~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 1
+E
+#21265
+Lady Maggie~
+Lady Maggie~
+Lady Maggie e' qui che sfoggia il suo nuovo collier.
+~
+Lady Maggie e' famosa in citta' per la sua collezione di gioielli. E' convinta
+che le meravigliose creazioni dei gioiellieri di cui si adorna possano migliorare
+il suo aspetto, per la verita' non troppo gradevole.~
+~
+~
+~
+36028797018964106 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+8 20
+8 8 2
+E
+#21266
+Jonah~
+Jonah~
+Jonah e' qui che scarica pesanti casse da una nave.
+~
+Jonah e' un gigantesco omone biondo e muscoloso. Sembra quasi non faticare
+mentre solleva le gigantesche casse dalla nave e se le carica sulle spalle.
+Eppure sei convinto che anche lui deve sentire la fatica.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+8 20
+8 8 1
+E
+#21267
+Hartmut~
+Hartmut~
+Hartmut e' qui che fa rotolare barili sul molo.
+~
+Harmut e' basso e tarchiato. Sembrerebbe sovrappeso ma osservandolo bene ti
+viene da domandarti se sia grasso o muscolo quello che ha addosso.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 1
+E
+#21268
+Ular~
+Ular~
+Ular e' qui che carica le merci su un carro.
+~
+Ular e' un gigante nero. Ha l'aria bonaria e lo sguardo gentile, ma sei
+convinto che la tua salute ne risentirebbe se lasciasse cadere su di te,
+anche solo per una bonaria pacca sulla spalla, una delle sue enormi mani.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 1
+E
+#21269
+Kragen~
+Kragen~
+Kragen e' qui che porta sulla schiena una pesante cassa.
+~
+Stenti a credere ai tuoi occhi, la cassa che quest'uomo basso e mingherlino
+trasporta, apparentemente senza fatica, sulla sua schiena e' piu' grande di lui.
+Ti chiedi dove nasconda i muscoli che evidentemente deve avere!~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 1
+E
+#21270
+Mills ~
+Mills ~
+Mills e' qui che fischietta in attesa della partenza.
+~
+Mills e' un giovane ed abbronzato marinaio. Momentaneamente sembra senza
+occupazione e si sta godendo le ultime ore a terra prima della partenza.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+7 20
+8 8 1
+E
+#21271
+Burton~
+Burton~
+Burton e' qui che arrotola una gomena.
+~
+Burton e' un marinaio cinquantenne pieno di esperienza. Sa che controllare
+scrupolosamente che vele e sartie siano in ordine potrebbe salvargli la vita
+durante il lungo viaggio per mare che si appresta ad intraprendere.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+5 20
+8 8 1
+E
+#21272
+Sam~
+Sam~
+Sam e' qui che intaglia un pezzo di legno.
+~
+Sam ha un grosso pugnale tatuato sul braccio destro. Osservi la danza ritmica
+che il pugnale compie mentre il grosso marinaio barbuto intaglia con perizia
+un pezzetto di legno.~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+6 20
+8 8 1
+E
+#21273
+Omar mercante stoffe~
+Omar il mercante di stoffe~
+Omar, il mercante di stoffe e' qui che controlla le sue merci.
+~
+Omar e' un uomo piccolo, di carnagione scura, con baffi e pizzo neri; veste
+abiti larghi e dalla foggia straniera. Sembra intento a contare il carico
+appena sceso da una nave.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+6 20
+8 8 1
+E
+#21274
+Loon Chen mercante spezie~
+Loon Chen, il mercante di spezie~
+Loon Chen, il mercante di spezie e' qui che attende qualcuno.
+~
+Loon Chen e' un piccolo tamul, dal colorito giallastro e gli occhi a mandorla.
+Pare attendere con pazienza qualcuno che gli porti notizie circa l'arrivo della
+sua merce.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+6 20
+8 8 1
+E
+#21275
+Moore mercante armi~
+Moore il mercante di armi~
+Moore, il mercante di armi e' qui che prova il bilanciamento di una spada.
+~
+Moore e' un uomo di media statura, completamente calvo. A giudicare dal suo
+aspetto e dalle molte cicatrici che riesci ad intravedere sotto le sue vesti,
+in passato deve avere fatto un uso frequente delle armi che ora commercia.~
+~
+~
+~
+36028797018963976 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+4 20
+8 8 1
+E
+#21276
+Wise fortunato~
+Wise il fortunato~
+Wise, il Fortunato e' qui attende l'arrivo del suo ultimo acquisto.
+~
+Wise e' un uomo di media altezza, con i capelli completamente bianchi, ma
+l'aria ancora giovanile. E' il proprietario della maggior parte delle navi
+che attraccano al porto di Chyrellos. Ora e' in attesa dell'ultima nave da
+lui acquistata che dovrebbe giungere da Lamorka.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+7 20
+8 8 1
+E
+#21277
+Timothy pescatore~
+Timothy il pescatore~
+Timothy il pescatore sta riparando la sua rete.
+~
+E' un giovane uomo dai capelli castani e lo sguardo intelligente. Lo osservi
+mentre ripara con un grosso filo la rete che gli serve per pescare.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+8 20
+8 8 1
+E
+#21278
+Adrian pescatore~
+Adrian il pescatore~
+Adrian il pescatore sta piegando la sua rete.
+~
+Adrian il pescatore moro, sta diligentemente ripiegando la sua rete, in modo
+da poterla utilizzare agevolmente e rapidamente all'occorrenza.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+8 15 8 1d8+70 1d8+1
+5 20
+8 8 1
+E
+#21279
+Red pescatore~
+Red il pescatore~
+Red il pescatore sta trasportando una cassetta di pesci.
+~
+Red e' un vecchio pescatore dal volto pieno di rughe ed i capelli grigi.
+Lo guardi mentre porta il frutto della sua pesca verso il mercato.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+6 20
+8 8 1
+E
+#21280
+Bellamy pescatore~
+Bellamy il pescatore~
+Bellamy il pescatore e' qui che osserva il frutto della sua pesca.
+~
+Bellamy e' un vecchio vigoroso e ancora prestante. E' appena tornato da una
+lunga notte di lavoro ed ora, fiero, sta osservando il grosso pesce spada
+che ha pescato.
+~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+7 16 8 1d8+60 1d8+1
+6 20
+8 8 1
+E
+#21281
+Lernie mozzo~
+Lernie il mozzo~
+Lernie il mozzo e' qui seduto che riposa.
+~
+Lernie e' un ragazzino pieno di lentiggini imbarcato come mozzo su una delle
+tanti navi che ora sono ormeggiate nel porto. Sembra che attualmente abbia poco
+da fare e ti osserva ridendo mentre lo guardi.~
+~
+~
+~
+36028797018963978 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+E
+#21282
+Strygo mozzo~
+Strygo il mozzo~
+Strygo il mozzo e' qui che svuota un secchio.
+~
+Strygo e' un piccolo tamul, di circa dodici anni imbarcato come mozzo su una
+delle tanti navi che ora sono ormeggiate nel porto. Ha appena finito di pulire
+il ponte della sua nave ed ora sta versando l'acqua sporca in mare.~
+~
+~
+~
+36028797018964104 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+E
+#21283
+emile cameriere~
+Emile il cameriere dell'Ostrica Aperta~
+&1Emile&0 il cameriere e' qui che attende la tua ordinazione.
+~
+Emile e' un giovane dai capelli rossi e dal viso pieno di
+lentiggini. Indossa un'elegante e pulitissima tunica rossa
+sul braccio destro porta un tovagliolo rosso accuratamente piegato.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 1
+Spec: 0
+E
+#21284
+Musil~
+Musil~
+Musil e' qui che osserva preoccupato il contenuto della sua borsa.
+~
+Musil, un uomo piccolo e magrolino, ha capelli ricci color biondo scuro ed occhi
+profondamente incavati. A giudicare dal modo in cui sta rivoltando la borsa, ti
+sembra abbia perso (o gli sia stato rubato) qualcosa di importante.
+~
+~
+~
+~
+36028798092705928 0 0 -1 -1 -1 -1 2 E
+6 16 6 1d8+50 1d7+1
+4 20
+8 8 1
+E
+#21285
+Reika~
+Reika~
+Reika cammina per la via con una grossa cesta piena di verdure.
+~
+Reika, una donna bassa e leggermente obesa, ha i capelli nascosti da una cuffia
+bianca. La grossa cesta ed il suo contenuto ti fanno pensare che la donna stia
+tornando dal mercato.
+~
+~
+~
+~
+36028798092705928 0 0 -1 -1 -1 -1 2 E
+6 16 10 30d8+50 1d7+1
+4 20
+8 8 2
+E
+#21286
+Herbert~
+Herbert~
+Herbert e' qui che gioca con una piccola palla di stoffa.
+~
+Herbert e un ragazzo alto, longilineo e dallaria sveglia. Lo osservi mentre
+si diverte a far rimbalzare a terra una piccola palla di stoffa.
+~
+~
+~
+~
+36028798092705928 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+E
+#21287
+Lucille~
+Lucille~
+Lucille cammina con aria trasognata.
+~
+Osservi con piu' attenzione la ragazza, molto giovane e graziosa, e ti accorgi
+che sta stringendo fra le mani un piccolo fiore di campo
+e' probabilmente questa la causa della sua aria assente.
+~
+~
+~
+~
+36028798092705928 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 2
+E
+#21288
+Tobia~
+Tobia~
+Tobia e' qui che spezzetta una pagnotta per nutrire gli uccelli.
+~
+Tobia e un bambino in carne e rubizzo. Sembra prendere molto sul serio il
+compito di "allevare" gli uccelli e lo osservi mentre diligentemente trasforma
+in briciole una piccola pagnotta.
+~
+~
+~
+~
+36028798092705928 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 1
+E
+#21289
+Zelda~
+Zelda~
+Zelda sta giocando con una bambola di pezza.
+~
+Zelda e una bambina che indossa una lunga tunica azzurra. Osservandola
+attentamente ti accorgi che anche la sua bambola di pezza, Trudy, ha un
+abitino uguale.
+~
+~
+~
+~
+36028798092705928 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+3 20
+8 8 2
+E
+#21290
+Jason~
+Jason~
+Jason passeggia appoggiandosi ad un bastone nodoso.
+~
+Jason, un vecchio dal passo tremolante, ha un grosso cappello nero sul capo
+e lunghi baffi bianchi sotto un grosso naso. Quando si accorge che lo stai
+osservando, ti sorride bonariamente mostrando i pochi denti che ancora gli
+restano in bocca.
+~
+~
+~
+~
+36028798092705800 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 1
+E
+#21291
+Odine~
+Odine~
+Odine e' qui intenta ad osservare i passanti.
+~
+Odine, una vecchia ossuta e sdentata, sorride compiaciuta mentre scruta
+instancabilmente i passanti. Di tanto in tanto, sospende il suo esame per
+alzare le spalle o scrollare il capo.
+~
+~
+~
+~
+36028798092705800 0 0 -1 -1 -1 -1 2 E
+5 17 8 1d8+40 1d8+1
+4 20
+8 8 2
+E
+#21292
+Ogdael~
+Ogdael~
+Ogdael, il fedele di Cyrgon, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Ogdael e' un uomo piccolo e dalla pelle giallastra, probabilmente si tratta di
+un Tamul, giunto, come molti suoi compatrioti, a Chyrellos per visitare la Chiesa
+e rendere omaggio alle divinita' di Dalila.
+~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+8 20
+8 8 1
+E
+#21293
+Bessaele~
+Bessaele~
+Bessaele, il fedele di Aldur, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Bessaele e' un gigantesco uomo dalla pelle scura giunto a Chyrellos per visitare
+la Chiesa e rendere omaggio alle divinita' di Dalila.
+~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 0 10 1d8+1 1d6+1
+10 20
+8 8 1
+E
+#21294
+Seramis~
+Seramis~
+Seramis, la devota di Mara, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Seramis e' una donna bionda e dagli occhi chiari giunta a Chyrellos per visitare
+la Chiesa e rendere omaggio alle divinità di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+10 20
+8 8 2
+E
+#21295
+Khaled~
+Khaled~
+Khaled, il fedele di Nedra, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Khaled e' un uomo piccolo, dalla carnagione scura, il suo abbigliamento ti
+indica che si tratta di un cittadino del Regno di Cynesga, giunto, come molti
+suoi compatrioti, a Chyrellos per visitare la Chiesa e rendere omaggio alle
+divinità di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+7 20
+8 8 1
+E
+#21296
+Sendar~
+Sendar~
+Sendar, la devota di Issa, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Sendar e' una piccola e ossuta donna, vestita di una semplice tunica marrone.
+E' giunta a Chyrellos per visitare la Chiesa e rendere omaggio alle divinita'
+di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+9 20
+8 8 2
+E
+#21297
+Lamuria~
+Lamuria~
+Lamuria, la devota di Chaldan, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Lamura e' una mastodontica donna dai capelli corvini, giunta a Chyrellos per
+visitare la Chiesa e rendere omaggio alle divinità di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+6 20
+8 8 2
+E
+#21298
+Humboldt~
+Humboldt~
+Humboldt, il fedele di Belar, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Humboldt e' un giovane uomo imponente e straordinariamente irsuto, giunto a
+Chyrellos per visitare la Chiesa e rendere omaggio alle divinità di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+10 20
+8 8 1
+E
+#21299
+Kigg~
+Kigg~
+Kigg, il fedele di Torak, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Kigg e' un odioso goblin giunto a Chyrellos per visitare la Chiesa e rendere
+omaggio alle divinità di Dalila.~
+~
+~
+~
+36028798092705802 0 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+8 20
+8 8 1
+E
+#21300
+Sarkad~
+Sarkad~
+Sarkad, il fedele di Ul, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Sarkad e' un vecchio dalla lunga barba bianca e dagli occhi azzurri giunto a
+Chyrellos per visitare la Chiesa e rendere omaggio alle divinità di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+7 20
+8 8 1
+E
+#21301
+Nevil~
+Nevil~
+Nevil, il fedele di Aphrael, sta cercando indicazioni per raggiungere la Chiesa.
+~
+Nevil e' un giovane uomo di media statura, dall'aspetto gentile, giunto a
+Chyrellos per visitare la Chiesa e rendere omaggio alle divinità di Dalila.~
+~
+~
+~
+36028798092705928 128 0 -1 -1 -1 -1 -1 E
+10 14 7 1d8+100 1d9+1
+7 20
+8 8 1
+E
+#21302
+Quall Armiere~
+Quall l'armiere di Chyrellos~
+Quall sta rimettendo in ordine la merce appena mostrata ad un cliente.
+~
+Quall e' un grasso e basso mercante, vestito riccamente. Nonostante stia
+risistemando la merce sugli scaffali, hai la sensazione che non ti perda
+un attimo di vista. Sembra quasi che non si fidi di te! Il suo atteggiamento
+ti da' un po' sui nervi, ma sai che, se cerchi il meglio, lo puoi trovare
+solo qui.
+~
+~
+~
+~
+36028798294288411 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+56 0
+8 8 1
+Spec: 0
+E
+T 12566
+#21303
+Misone Fornaio~
+Il fornaio di Chyrellos Misone~
+Il fornaio Misone e' qui che sforna una focaccia.
+~
+Misone e' un uomo piccolo e rotondo. I suoi capelli sono di un nero
+intenso, tanto scuri da apparire tali nonostante la farina che lo
+ricopre da capo a piedi. Ha un'aspetto gioviale e guardarlo ti
+ispira un senso  di tranquillita'.
+~
+~
+~
+~
+36028798227177498 1064 0 -1 -1 -1 -1 2 E
+100 -10 -20 1d1+30000 30d30+30
+89 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 0
+E
+#21304
+attivatore~
+l'attivatore del capoguardie di Chyrellos~
+L'attivatore del capoguardie di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+30000 1d1+0
+53 0
+8 8 1
+E
+T 12501
+#21305
+capoguardie~
+il capoguardie di Chyrellos~
+Il capo delle guardie di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028805609152522 1064 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+30000 1d1+0
+88 0
+8 8 1
+E
+T 12500
+T 13
+T 14
+#21306
+capoguardie~
+il capoguardie caporonda di Chyrellos~
+Il capoguardie caporonda di Chyrellos e' qui
+~
+It looks unfinished.
+~
+~
+~
+~
+36028805609152522 0 500 -1 -1 -1 -1 -1 E
+100 20 10 1d1+0 1d1+0
+56 0
+8 8 1
+E
+T 12500
+#21307
+attivatore~
+l'attivatore del caporonda di Chyrellos~
+L'attivatore del caporonda di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+30000 1d1+0
+76 0
+8 8 0
+E
+T 12501
+#21308
+gioel postino~
+Gioel il postino di Elenia~
+Gioel il nuovo postino di Elenia e' qui che smista la corrispondenza.
+~
+Gioel e' un uomo dai capelli rossi e dalle guance rubizze. E' stato
+chiamato a sostituire il vecchio Wally, andato da poco in pensione.
+Sembra aver preso con dedizione il suo nuovo lavoro e lo osservi
+mentre smista, sorridendo, la posta.
+~
+~
+~
+~
+36028798092959771 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+69 0
+8 8 1
+Spec: 1
+E
+#21309
+Rey gelataio~
+Rey il gelataio della Bevuta alle Stelle~
+Rey, il padrone del locale, e' qui che accarezza la sua gatta.
+~
+  Rey e' un uomo gigantesco, con una lunga barba nera e folte
+sopracciglia. Sembra piu' un orco che un uomo bonario e semplice
+quale invece, a detta di tutti, e'.
+~
+~
+~
+~
+36028798227177482 1064 500 -1 -1 -1 -1 2 E
+10 14 7 1d1+100 1d9+1
+8 0
+8 8 1
+Spec: 0
+E
+#21310
+gustavo barista~
+Gustavo il barista dell'angolo della Bevuta~
+Gustavo il barista sta preparando un cocktail.
+~
+  Gustavo e' un ragazzo giovane e attraente. Ha occhi e capelli
+scuri e, molto vagamente, assomiglia a Rey, probabilmente sono
+parenti alla lontana. Lo osservi mentre con movimenti studiati e
+grande maestria prepara ottimi cocktail dai colori vivaci.
+~
+~
+~
+~
+36028798227177482 1064 0 -1 -1 -1 -1 2 E
+10 19 7 1d1+100 1d6+9
+10 0
+8 8 1
+Spec: 0
+E
+#21311
+Desideria~
+Desideria la locandiera delle camere della bevuta~
+Desideria ti sorride e ti mostra le stanze ancora libere.
+~
+  Desideria e' una donna decisamente affascinante, dal portamento e
+dalle movenze regali. Per qualche istante resti a guardarla stupito
+e ti chiedi da quale Paradiso quest'angelo possa provenire.
+~
+~
+~
+~
+36028798092959754 1064 0 -1 -1 -1 -1 2 E
+10 19 7 1d1+100 1d6+9
+9 0
+8 8 2
+Spec: 4
+E
+#21312
+Penhalm cameriere~
+Penhalm il cameriere del focolare della bevuta~
+Penhalm il cameriere ti si avvicina sorridendo.
+~
+  Penhalm e' un ragazzo giovane e mingherlino, ha i capelli castano
+chiari e gli occhi verdi. Mentre l'osservi ti accorgi che ha un'aria
+decisamente simpatica.
+~
+~
+~
+~
+36028798227177482 1064 0 -1 -1 -1 -1 2 E
+10 19 7 1d1+100 1d6+9
+7 0
+8 8 1
+Spec: 0
+E
+#21313
+complessino carilon musico~
+il complessino del concerto della bevuta~
+Un complessino sta suonando una melodiosa ballata.
+~
+ I musicisti del complessino sembrano aver conosciuto tempi
+migliori. Indossano abiti eleganti, ma lisi in pi punti e fuori
+moda.
+~
+~
+~
+~
+36028798629830666 1064 0 -1 -1 -1 -1 2 E
+100 -10 -20 1d1+30000 30d30+30
+94 0
+8 8 1
+E
+T 21009
+#21314
+beril~
+Beril~
+Beril e' qui che incoraggia Hernie nel suo lavoro.
+~
+Beril e' alto ed ossuto. Numerose rughe solcano il suo volto, segno
+evidente di una vita passata all'aria aperta, accanto al suo fido
+cavallo.
+~
+~
+~
+~
+36028798092828682 0 0 -1 -1 -1 -1 2 E
+10 19 7 1d1+100 1d6+9
+8 0
+8 8 1
+E
+#21315
+muhad mercante ambulante~
+Muhad il mercante ambulante~
+Muhad il mercante ambulante e' qui che ti mostra sorridendo la sua mercanzia.
+~
+Muhad e' uomo anziano, vestito con una lunga tunica bianca che gli
+arriva ai piedi. Accanto a lui c'e' un carretto a mano su cui ha
+disposto la sua mercanzia. Orecchini, amuleti e strumenti musicali
+sono cio' che puoi acquistare da lui.
+~
+~
+~
+~
+36028798227177482 1064 0 -1 -1 -1 -1 2 E
+100 0 -10 1d1+30000 1d1+20
+56 0
+8 8 1
+Spec: 0
+E
+#21316
+anima nera badessa~
+l'anima nera della badessa~
+L'anima nera della badessa e' qui che freme davanti ai tuoi occhi.
+~
+Una presenza oscura, una macchia nella coscienza della badessa ed un'offesa a
+tutto cio' che e' sacro.    
+~
+~
+~
+~
+10 1064 -500 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+690 4d7+9
+24 0
+8 8 2
+E
+#21317
+goldy maestro coniatore~
+Goldy, il Maestro Coniatore di Elenia~
+Goldy, il coniatore di Elenia, e' qui che attende di ricevere lingotti da coniare.
+~
+Goldy e' un uomo alto e robusto.  Sta osservando con attenzione che la
+temperatura del forno non cali troppo e, contemporaneamente, sta giocherellando
+con dei tondini di metallo.    
+~
+~
+~
+~
+36028797153435674 0 0 -1 -1 -1 -1 -1 E
+100 -30 -20 30d30+30000 30d50+50
+63 0
+8 8 1
+Spec: 0
+E
+#21318
+guardia scelta arsenale~
+la Guardia Scelta dell'Arsenale Eleno~
+&3La Guardia Scelta dell'Arsenale Eleno si guarda intorno circospetta.&0
+~
+Una Guardia di alta statura e dallo sguardo fiero ti osserva passare davanti
+all'arsenale eleno. Resta immobile ma ti scruta indagatrice.
+~
+~
+~
+~
+36028797556088858 1064 900 -1 -1 -1 -1 2 E
+65 -5 -10 1d1+2500 4d15+25
+50 0
+8 8 1
+BareHandAttack: 9
+E
+#21320
+cibo1dolmant~
+un controllore del cibo di Chyrellos~
+Un controllore del cibo di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+100 0
+8 8 0
+E
+#21321
+oro1dolmant~
+un controllore dell'oro di Chyrellos~
+Un controllore dell'oro di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+73 0
+8 8 0
+E
+#21322
+argento1dolmant~
+un controllore dell'argento di Chyrellos~
+Un controllore dell'argento di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+55 0
+8 8 0
+E
+#21323
+metalli1dolmant~
+un controllore dei metalli di Chyrellos~
+Un controllore dei metalli di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+52 0
+8 8 0
+E
+#21324
+preziose1dolmant~
+un controllore delle pietre preziose di Chyrellos~
+Un controllore delle pietre preziose di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+73 0
+8 8 0
+E
+#21325
+pietre1dolmant~
+un controllore delle pietre di Chyrellos~
+Un controllore delle pietre di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+66 0
+8 8 0
+E
+#21326
+erbe1dolmant~
+un controllore delle pozioni di Chyrellos~
+Un controllore delle pozioni di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+58 0
+8 8 0
+E
+#21327
+pellicceria1dolmant~
+un controllore della selvaggina di Chyrellos~
+Un controllore della selvaggina di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+60 0
+8 8 0
+E
+#21328
+legname1dolmant~
+un controllore del legname di Chyrellos~
+Un controllore del legname di Chyrellos e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+100 0
+8 8 0
+E
+#21329
+reikos~
+Reikos il taverniere della buca della fame~
+Reikos dopo aver pulito con uno straccio sporco una lunga tavolata, ti invita a sederti.
+~
+ Reikos e' un uomo ben piantato e dallo sguardo severo. Osserva
+con attenzione ogni mossa degli avventori in modo da pulire
+subito i tavoli che si liberano e far cosi' accomodare altri
+clienti.
+~
+~
+~
+~
+36028798227177498 1064 0 -1 -1 -1 -1 2 E
+100 -10 -10 1d1+30000 30d30+30
+54 0
+8 8 1
+Spec: 0
+E
+#21330
+Pit il venditore di manovali~
+Pit il venditore di manovali.~
+Pit il venditore di manovali e' qui.
+~
+
+Pit e' altissimo, un vero gigante! I muscoli sono molto allungati e
+osservandolo ti sembra molto magro.
+~
+~
+~
+~
+37154698536673306 1064 0 -1 -1 -1 -1 2 E
+100 -10 -20 1d1+30000 30d30+30
+77 0
+8 8 1
+Spec: 41
+E
+#21331
+Giorgio~
+Giorgio~
+Giorgio e' qui che scrive numeri in un grosso libro.
+~
+Giorgio e' un uomo di mezza eta' dall'aspetto comune ed
+uno di quei tipi anonimi che la gente fa fatica
+insignificante, uno di quei tipi anonimi che la gente fa fatica
+assist ricordare. Sembra intento a fare calcoli, o forse sta
+semplicemente aggiornando i suoi registri.
+~
+~
+~
+~
+36028798227177499 1064 900 -1 -1 -1 -1 2 E
+100 -30 10 1d1+30000 30d30+50
+78 0
+8 8 1
+Spec: 0
+E
+#21332
+suired venditore~
+Il venditore di manovali~
+Suired e' seduto dietro una scrivania ingombra di carte.
+~
+Suired e' un uomo di media statura, dagli occhi di un azzurro
+intenso e dai cappelli scuri. Ha l'aria gioviale ed amichevole e le
+parole escono come un fiume in piena dalla sua bocca. Mentre ti parla
+ti convinci che se c'e' una persona in citta' di cui puoi fidarti,
+quella e' lui. Si dice che gli basti uno sguardo per comprendere il
+valore di un uomo, e ora, dopo averlo conosciuto, sei anche tu convinto
+che gli uomini scelti da lui siano i piu' adatti ad aiutarti nel tuo
+lavoro.
+~
+~
+~
+~
+36028798092959770 1064 0 -1 -1 -1 -1 2 E
+100 -10 -20 1d1+600 30d30+30
+84 0
+8 8 1
+Spec: 44
+E
+#21333
+nicolas addetto~
+L'addetto alla ricerca dei manovali~
+Nicolas l'addetto alle ricerche dei manovali sperduti e' qui.
+~
+Nicolas e' un uomo atletico e dall'aria efficiente. A giudicare dai
+suoi stivali perennemente sporchi di fango deve fare molta strada per
+riportare in citta' i manovali sperduti.
+~
+~
+~
+~
+36028798092959770 56 0 -1 -1 -1 -1 2 E
+100 -10 -20 1d1+30000 30d30+30
+71 0
+8 8 1
+E
+#21334
+Berdise~
+Berdise il mago~
+Berdise e' qui che legge un libro.
+~
+Berdise e' un uomo magro, dallo sguardo miope, vestito di una lunga tunica
+verde, bordata di giallo. Pare molto assorto dalla sua lettura e non
+sembra prestarti attenzione.
+~
+~
+~
+~
+36028798227177499 1064 900 -1 -1 -1 -1 2 E
+100 -30 -20 1d1+30000 30d30+50
+54 0
+8 8 1
+Spec: 0
+E
+#21335
+ilso cameriere~
+Ilso il cameriere del Leone~
+Ilso il cameriere sta prendendo delle ordinazioni.
+~
+Ilso e' un ometto piccolo e calvo, dall'aria intelligente e l'aspetto 
+gioviale. Indossa un grembiale bianco pieno di patacche e nella sinistra
+tiene un piccolo taccuino su cui scrive rapidita' le ordinazioni.
+~
+~
+~
+~
+36028798227177498 56 0 -1 -1 -1 -1 2 E
+100 -10 -10 1d1+6000 30d30+30
+82 0
+8 8 1
+Spec: 0
+E
+#21336
+giorgia barista~
+Giorgia la barista del Leone~
+Giorgia la barista sta riempiendo un boccale di birra.
+~
+Il volto di Giorgia, con la sua aria insignificante di donna di mezza
+eta', ti ricorda qualcuno. Ci pensi un secondo e poi realizzi che deve
+essere imparentata di certo con Giorgio il padrone del Bazaar.
+~
+~
+~
+~
+36028798227177498 56 0 -1 -1 -1 -1 2 E
+100 -10 -10 1d1+6000 30d30+30
+69 0
+8 8 2
+Spec: 0
+E
+#21337
+sacerdote bibliotecario~
+Un Sacerdote Bibliotecario~
+Un Sacerdote Bibliotecario sta spolverando dei grossi volumi
+~
+Nella sua splendida tenuta dell'Ordine di Fizban e' intentissimo a mettere
+in ordine una miriade di volumi sparsi per la stanza.  Quando ti nota ti
+fa un cenno con la testa, giusto per farti capire che sei il benvenuto!
+~
+~
+~
+~
+36028798092959770 168 0 -1 -1 -1 -1 2 E
+5 10 -10 1d1+6000 4d4+10
+4 0
+8 8 1
+E
+T 21007
+#21338
+conrad guardiano faro~
+Conrad il guardiano del Faro~
+Conrad e' qui che ispeziona il faro.
+~
+Conrad e' un giovane trentenne a cui il re ha da poco tempo
+affidato la cura del faro. Ha preso con molta serieta' l'incarico, ed
+il faro non e' mai stato cosi' pulito e luminoso come ora.
+~
+~
+~
+~
+36028798092959770 128 0 -1 -1 -1 -1 2 E
+10 10 -5 10d30+10000 6d6+10
+8 0
+8 8 1
+E
+#21339
+vecchio helbert~
+il vecchio Helbert~
+Il vecchio Helbert e' qui che siede ad un tavolo della taverna.
+~
+   Helbert e' un vecchio sdentato, dalla pelle rugosa, il cui
+sguardo ti trasmette una sensazione di grande vitalita'. Sta
+sorseggiando una birra, mentre osserva con attenzione gli avventori.
+~
+~
+~
+~
+36028798092959770 32 0 -1 -1 -1 -1 2 E
+10 15 0 10d8+1000 5d6+5
+9 0
+6 6 1
+Spec: 1
+E
+#21340
+sir kelvar~
+Sir Kelvar~
+Sir Kelvar e' tutto preso dalla narrazione di una sua eroica impresa.
+~
+   Kelvar e' un uomo sulla cinquantina, con una gamba di legno. A
+giudicare dalle numerose cicatrici che coprono il suo corpo cio' che
+racconta deve essere vero e forse ascoltarlo ti sara' utile.
+~
+~
+~
+~
+36028798092959770 6597069766656 0 -1 -1 -1 -1 2 E
+20 5 -10 20d20+1000 30d30+15
+15 0
+8 8 1
+E
+#21341
+sophie cameriera~
+Sophie la cameriera dell'Ostrica Aperta~
+&6Sophie&0 la cameriera e' qui che ti sorride.
+~
+   Sophie e' una giovane donna dai capelli neri che indossa una lunga veste
+blu su cui sono cucite piccole perline azzurre. Sul braccio destro porta un
+tovagliolo blu, accuratamente piegato.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+10 10 0 10d1+0 10d6+10
+7 0
+8 8 2
+Spec: 0
+E
+#21342
+villard cameriere~
+Villard il cameriere dell'Ostrica Aperta~
+&7Villard&0 il cameriere e' qui pronto a servirti.
+~
+   Villard e' un uomo alto e dal portamento elegante. Indossa una tunica
+bianca, bordata d'oro. Sul braccio destro porta un tovagliolo bianco,
+accuratamente piegato.
+~
+~
+~
+~
+36028798227144730 40 0 -1 -1 -1 -1 2 E
+10 10 0 10d6+0 10d10+10
+6 0
+8 8 1
+Spec: 0
+E
+#21343
+odinette cameriera~
+Odinette la cameriera dell'Ostrica Aperta~
+&2Odinette&0 la cameriera e' qui che attende un tuo cenno.
+~
+   Odinette e' una donna piccola e grassoccia, dalle guance rubizze e dal
+sorriso aperto. Indossa un vestito blu scuro, bordato d'argento. Sul braccio
+destro porta un tovagliolo blu, accuratamente piegato.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+10 10 0 10d6+0 10d10+10
+8 0
+8 8 2
+Spec: 0
+E
+#21344
+Darkon cameriere~
+Darkon il cameriere dell'Ostrica Aperta~
+&2&xDarkon&0 il cameriere e' qui che attende che tu faccia la tua scelta.
+~
+   Darkon e' un uomo alto e magro, dall'aspetto bonario e tranquillo. Indossa
+un vestito verde scuro, bordato di giallo. Sul braccio destro porta un
+tovagliolo verde, accuratamente piegato.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+10 10 0 10d6+0 10d10+10
+7 0
+8 8 1
+Spec: 0
+E
+#21345
+kilm vecchio marinaio~
+Kilm il vecchio marinaio~
+Kilm il vecchio marinaio e' qui che ispeziona le sue barche.
+~
+Kilm e' un uomo anziano, alto e robusto che passa quasi tutto
+il suo tempo a controllare che le barche in vendita nel suo
+negozio siano perfettamente funzionanti e sicure.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+100 -10 -20 30d30+1000 30d30+30
+77 0
+8 8 1
+Spec: 0
+E
+#21346
+ambrose maitre~
+Ambrose il maitre dell'Ostrica aperta~
+Ambrose, il maitre attende di conoscere quale tavolo tu abbia prenotato.
+~
+  Ambrose e' un uomo dal portamento eretto e dall'aspetto aristocratico, il
+cui sguardo ti mette un po' in soggezione. Indossa un elegante abito nero.
+~
+~
+~
+~
+36028798092959770 168 0 -1 -1 -1 -1 2 E
+20 0 -10 20d10+0 20d10+20
+17 0
+8 8 1
+E
+T 21010
+T 21011
+#21347
+olaf cameriere~
+Olaf il cameriere dell'Ostrica aperta~
+&3Olaf&0 il cameriere ti accoglie con un sorriso.
+~
+Olaf e' un ragazzo di statura e aspetto imponente e dallo sguardo gentile.
+Indossa un vestito marrone, bordato d'arancione. Sul braccio destro porta un
+tovagliolo marrone, accuratamente piegato.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+10 10 0 10d8+0 10d10+10
+7 0
+8 8 1
+Spec: 0
+E
+#21348
+bentam cameriere~
+Bentam il cameriere dell'Ostrica aperta~
+&9&xBentam&0 il cameriere attende un tuo cenno per segnare le ordinazioni.
+~
+Bentam, e' un uomo piccolo dall'aspetto sereno e tranquillo.
+Indossa un vestito bianco avorio, bordato di grigio. Sul braccio 
+destro porta un tovagliolo color avorio, accuratamente piegato.
+~
+~
+~
+~
+36028798227177498 40 0 -1 -1 -1 -1 2 E
+10 10 0 10d8+0 10d10+10
+7 0
+8 8 1
+Spec: 0
+E
+#21349
+alyca~
+Alyca l'ostessa della buca della fame~
+Alyca e' qui che ti osserva e sorride.
+~
+ Alyca e' piccola, nera e paffutella. Il suo sguardo ti
+trasmette pace e tranquillita'. In sua presenza ti senti
+al sicuro e qui, di certo, il tuo stomaco sara' saziato senza
+che il tuo portafoglio ne soffra troppo.
+~
+~
+~
+~
+36028797153435658 0 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+3000 1d1+20
+73 0
+8 8 2
+Spec: 0
+E
+#21350
+Jorit l'oste della buca della fame.~
+Jorit l'oste della buca della fame.~
+Jorit sta sostituendo la candela che illumina uno dei tavolini del locale.
+~
+ Jorit e' decisamente un bell'uomo, aitante e muscoloso.
+Quando si accorge del tuo ingresso, ti sorride, ti si avvicina
+ed e' pronto a servirti.
+~
+~
+~
+~
+36028797153435658 0 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 1d1+20
+76 0
+8 8 1
+Spec: 0
+E
+#21351
+donna amazzone giovane mascherata~
+una donna mascherata da giovane amazzone~
+Vedi una giovane cacciatrice con la faretra in spalla e l'arco pronto a colpire.
+~
+Una ragazza giovane, porta i capelli raccolti in una lunga treccia e indossa un
+costume molto succinto che le conferisce un'aria seducente piu' che bellicosa.
+  
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+970 4d11+11
+55 0
+8 8 2
+E
+#21352
+uomo demone azzurro~
+un uomo mascherato da Demone Azzurro~
+Un demone azzurro dalla pelle squamosa e' qui che passeggia nervosamente.
+~
+E' un costume molto costoso: la pelle squamosa del demone e' stata ricreata con
+un grande vestito di un tessuto che fatichi a riconoscere.  La maschera poi e'
+particolarmente realistica, e terrificante.    
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+970 4d11+11
+35 0
+8 8 1
+E
+#21353
+mago nero~
+un uomo mascherato da Mago Nero~
+Il Maestro delle Vesti Nere e' qui, intento a qualche strano maleficio
+~
+Una tunica nerastra copre questo invitato quasi completamente da capo a piedi.
+Ti piacerebbe vederlo in faccia, ma sembra che lui non abbia intenzione di
+scostare il cappuccio nemmeno per un attimo.    
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+970 4d11+11
+33 0
+8 8 1
+E
+#21354
+emiro deserto~
+un uomo vestito da Emiro del Deserto~
+Un uomo del deserto e' qui con la scimitarra spiegata.
+~
+Ti accorgi che si e' annerito la faccia con un carboncino per sembrare
+abbronzato dal sole del deserto.  Nonostante lo strano costume, da come
+maneggia la scimitarra finta, diresti che e' uno che sa il fatto suo.    
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+970 4d11+11
+34 0
+8 8 1
+E
+#21355
+regina elfi~
+una donna mascherata da Regina degli Elfi~
+La Regina degli Elfi ti fissa e si mette sulla difensiva.
+~
+In realta' non e' nemmeno un'elfa, le orecchie a punta sono finte.  Pero'
+sembra una bella donna, bionda e piacente.  Il costume verde impreziosito di
+rugiada la fa apparire molto attraente.    
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+970 4d11+11
+31 0
+8 8 2
+E
+#21356
+pianta arcobaleno sapienza~
+la pianta della sapienza~
+Una gigantesca pianta dalle foglie multicolori si trova qui.
+~
+Questa pianta e' veramente enorme.  Le sue foglie piu' alte arriveranno ad
+almeno 3 metri di altezza, mentre in larghezza occupera' almeno 2 metri.  
+Sembra che gli dei abbiano voluto colorare questa pianta con ogni colore che
+natura e fantasia possano immaginare.  Osservarla ti fa un po' girare la testa.
+  
+~
+~
+~
+~
+253978 33960 0 -1 -1 -1 -1 -1 E
+60 2 -9 1d1+949 4d12+14
+53 0
+8 8 0
+Str: 25
+E
+#21357
+masso animato~
+un gigantesco masso~
+Un gigantesco masso si trova qui.
+~
+Sembrerebbe un masso normale se non fosse per quelle fessure che sembrano occhi
+e...  Una bocca?  Lo guardi con maggiore attenzione e la tua impressione
+risulta confermata: se e' un minerale e' stato incantato visto che, seppure
+impercettibilmente, si muove.    
+~
+~
+~
+~
+253978 33832 0 -1 -1 -1 -1 -1 E
+20 11 4 1d1+249 2d6+3
+18 0
+8 8 0
+E
+#21358
+frutto terroso~
+un grosso frutto terroso~
+Un grosso frutto rotondo e terroso si trova qui.
+~
+Un grosso frutto del color della terra si trova davanti a te.  Sembrerebbe un
+grosso melone, ma la buccia appare di terra durissima.    
+~
+~
+~
+~
+253978 33832 0 -1 -1 -1 -1 -1 E
+35 6 -3 1d1+549 2d12+8
+23 0
+8 8 0
+E
+#21359
+fiore verde~
+un fiore verde smeraldo~
+Un fiore verde smeraldo spunta da un cespuglio.
+~
+Potrebbe essere una gigantesca margherita se i suoi petali non fossero di un
+colore cosi' verde.    
+~
+~
+~
+~
+253978 33832 0 -1 -1 -1 -1 -1 E
+55 2 -9 1d1+799 4d11+10
+29 0
+8 8 0
+E
+#21360
+custode albero~
+il custode dell'albero~
+Un uomo anziano, vestito di verde si trova qui.
+~
+Quest'uomo ha i capelli completamente bianchi eppure i suoi occhi sembrano
+quelli di un bambino.  Veste una lunga tunica verde e impugna un bastone
+ricurvo con la destra.    
+~
+~
+~
+~
+36028797556088859 7009404486888 0 -1 -1 -1 -1 -1 E
+100 -30 -20 30d30+0 30d30+50
+89 0
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 18
+Wis: 18
+E
+#21361
+trudy addetta esportazioni chyrellos~
+Trudy l'addetta alle esportazioni di Chyrellos~
+Trudy, l'addetta alle esportazioni di Chyrellos, e' qui che ti sorride.
+~
+Trudy e' una donna grassa d'aspetto gioviale e cortese.  Non appena entri nel
+suo ufficio ti mostra l'elenco dei beni che e' in grado di smerciare
+all'estero.    
+~
+~
+~
+~
+36028798763917402 0 0 -1 -1 -1 -1 2 E
+100 -30 -10 30d30+0 30d30+50
+72 0
+8 8 2
+Spec: 0
+E
+#21392
+Seraf~
+Seraf~
+Seraf, il giovane figlio di Herjan, ascolta i racconti del padre.
+~
+Ha l' area di chi non vede l'ora di tuffarsi in fantastiche avventure, ma teme di non
+essere in grado di superare i pericoli che dovra' affrontare.
+~
+~
+~
+~
+1073803274 2199023260712 400 -1 -1 -1 -1 -1 E
+30 2 -8 1d1+799 4d10+10
+22 0
+8 8 1
+E
+#21393
+anziano cavaliere Herjan~
+Herjan l'anziano cavaliere~
+Herjan, un anziano cavaliere Eleno, sta mangiando insieme al giovane figlio
+~
+Veterano di 1000 battaglie, e' arrivato anche per lui il momento di interrompere la
+sua attivita' di avventuriero.
+Questo lo rattrista molto, ma nel racconto del suo passato riesce spesso a ritrovare
+le stesse violente emozioni che hanno reso la sua gioventu' indimenticabile.
+~
+~
+~
+~
+1073803274 67109928 800 -1 -1 -1 -1 -1 E
+30 2 -8 1d1+799 4d10+10
+16 0
+8 8 1
+E
+T 18105
+#21394
+Ikyan alcione~
+Ikyan il ladro~
+Un cavaliere Alcione, Ikyan il silenzioso, mangia senza badare troppo ai suoi amici
+~
+Avvolto da un mantello nero, mostra orgoglioso il simbolo della sua Gilda.
+Sembra non curarsi dei suoi compagni, anche se guarda spesso il sacchetto di monete
+del nano
+~
+~
+~
+~
+1073770634 137489286184 -400 -1 -1 -1 -1 -1 E
+30 2 -8 1d1+799 4d10+10
+24 0
+8 8 1
+E
+#21395
+Ejila maga~
+Ejila la maga del mare~
+Ejila la maga del mare festeggia felice con i suoi compagni
+~
+Una donna non piu' giovanissima, sembra molto stanca, non sai se e' il vino o la
+fatica di qualche impresa compiuta da poco.
+Ogni tanto sussurra qualcosa al nano e si mettono a sghignazzare.
+~
+~
+~
+~
+1073770506 268436520 0 -1 -1 -1 -1 -1 E
+30 2 -8 1d1+799 4d10+10
+18 0
+8 8 2
+E
+#21396
+Dragart nano~
+Dragart il nano~
+Dragart il nano puo' finalmente permettersi questo cibo grazie all' ultimo tesoro trovato
+~
+Un nano dalla folta barba, rozzo e insolente.
+Mostra orgoglioso sul tavolo un bel sacchetto di monete, probabilmente l'ultima
+avventura gli e' andata bene.
+E' qua con i suoi compagni di gruppo
+~
+~
+~
+~
+1073770506 2199023256616 -400 -1 -1 -1 -1 -1 E
+30 2 -8 1d1+799 4d10+10
+29 0
+8 8 1
+E
+#21397
+giovane ragazza~
+Una giovane ragazza~
+Una schiava mora ti osserva con grandi occhi disperati
+~
+&1E' alta, magra e mora... una bella ragazza, se non fosse sotto quelle catene.
+Ha lunghi capelli e una deliziosa voglia sulla guancia destra..
+~
+~
+~
+~
+1073799178 1064 -50 -1 -1 -1 -1 -1 E
+20 8 -2 1d1+499 3d9+6
+13 0
+8 8 2
+E
+#21398
+uomo nobile~
+Un nobile altezzoso~
+Un uomo dall' aspetto molto nobile sta gustando il suo pasto con la sua amata
+~
+L'hai gia' visto da qualche parte, ma non ricordi dove...
+Forse e' uno dei funzionari o addirittura un gestore della gilda dei pescatori
+~
+~
+~
+~
+1073799178 1064 300 -1 -1 -1 -1 -1 E
+30 6 -6 1d1+649 3d10+9
+29 0
+8 8 1
+E
+#21399
+Isharin cameriera elfa~
+Isharin la cameriera~
+Isharin la cameriera e' pronta a prendere le ordinazioni degli avventurieri
+~
+Isharin e' un' elfa giunta a Chyrellos da un' isola lontana. Si e' affezionata alla
+citta' ed ai suoi abitanti, cosi' ha deciso di delizarli con alcune preziose e rare
+ricette che vengono servite nelle taverne piu' prestigiose, realizzate dai migliori
+cuochi della Daresia.
+~
+~
+~
+~
+134471706 2199023256744 600 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+29999 1d1+50
+61 0
+8 8 2
+Spec: 0
+E
+#21400
+esercito goblin~
+L'esercito dei daresiani~
+L'esercito dei daresiani e' inferocito per la scottante attesa e si lancia alla gola di Amanu!
+~
+It looks unfinished.
+~
+~
+~
+~
+4503608217559066 1064 0 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+9999 30d100+50
+69 0
+8 8 1
+E
+#21401
+vagabondo rhodes~
+Rhodes il vagabondo~
+Rhodes il vagabondo sta cercando qualche allocco da spellare
+~
+Un vecchio... si dice che in gioventu' fosse ricco, ma poi ha perso
+tutti i suoi averi giocando d'azzardo
+~
+~
+~
+~
+36028797019217946 335545384 -300 -1 -1 -1 -1 -1 E
+55 -1 -10 1d1+999 4d10+15
+33 0
+8 8 1
+E
+T 18107
+T 18108
+T 18109
+#21402
+gruppo cacciatori goblin nemico~
+Un gruppo di Goblin cacciatori~
+Un gruppo di Goblin cacciatori sta mettendo a ferro e fuoco la zona
+~
+Sono tanti... forti e ben armati !
+~
+~
+~
+~
+516154 1064 -300 -1 -1 -1 -1 -1 E
+15 12 4 1d1+169 2d6+4
+12 0
+8 8 1
+E
+T 12505
+#21403
+orda famelica goblin nemico~
+Un' orda famelica di Goblin~
+Un' orda famelica di Goblin e' in cerca di cibo
+~
+pare che lo abbiano trovato !!!
+~
+~
+~
+~
+516154 1064 -400 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+449 2d12+5
+29 0
+8 8 1
+E
+T 12505
+#21405
+Tyrdan signore goblin~
+Tyrdan~
+Tyrdan , Il Signore Dei Goblin , pretende la tua distruzione
+~
+NON HAI MAI VISTO UN GOBLIN COSI' GROSSO !!!
+~
+~
+~
+~
+778266 2473968280744 -1000 -1 -1 -1 -1 -1 E
+70 -5 -10 1d1+1299 4d13+20
+57 0
+8 8 1
+E
+#21497
+fanteriaelena~
+Fanteria Elena~
+La Fanteria Elena presidia questa zona.
+~
+Nothing.
+~
+~
+~
+~
+324259173170929691 1064 0 -1 -1 -1 -1 2 E
+100 4 -2 1d1+700 2d12+7
+65 0
+8 8 1
+Spec: 3
+E
+T 12605
+T 12606
+#21498
+soldato eleno~
+&3&x Un Soldato Eleno &0~
+&3&x Un Soldato Eleno e' qui&0
+~
+It looks unfinished.
+~
+~
+~
+~
+36063982465048603 1064 0 -1 -1 -1 -1 2 E
+35 2 -10 1d1+650 3d12+12
+20 0
+8 8 1
+Spec: 3
+E
+T 12506
+T 12507
+T 12508
+T 12527
+T 12528
+#21499
+cavalleriaelena~
+Cavalleria di Elenia~
+La Cavalleria Elena e' qui pronta a mostrare il suo valore
+~
+It looks unfinished.
+~
+~
+~
+~
+324259173170929690 1064 500 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+9999 30d100+50
+55 0
+8 8 1
+E
+T 12605
+T 12606
+#21600
+Vulbak~
+Vulbak il venditore di minerali Eleno~
+Vulbak e’ qui in attesa di clienti.
+~
+Vulbak e' un ometto dai capelli grigi e dall'aria perennemente afflitta.
+Tutto nella sua persona esprime e trasmette tristezza. Si dice che una
+volta fosse un ricchissimo mercante cynesgan, ma che un affare andato
+male l'abbia costretto ad abbandonare la sua casa ed a rifugiarsi a Chyrellos.
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+69 -30 -10 1d1+30000 10d10+50
+66 20
+8 8 1
+Str: 25
+Spec: 49
+E
+#21601
+Hular~
+Hular il lingottaio di Elenia~
+Hular e' qui che siede dietro ad un bancone.
+~
+Hular e' un uomo grosso e grasso. Ti chiedi come possa la sedia su cui siede
+sostenerlo ancora, sei certo che se attendi ancora qualche istante lo vedrai
+ruzzolare per terra.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+87 20
+6 6 1
+Spec: 0
+E
+#21602
+Busper Fabbro~
+Busper il fabbro di Elenia~
+Busper e' qui intento a lucidare un grosso scudo.
+~
+Busper ha pochi capelli biondi, disposti in modo asimmetrico sul suo capo.
+Questa particolarit lo rende alquanto buffo facendolo apparire, suo malgrado,
+perennemente spettinato.
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+64 20
+8 8 1
+Spec: 0
+E
+#21603
+Marles~
+Marles la venditrice di erbe di Elenia~
+Marles e' intenta a scrivere il prezzo su una cassetta di erbe.
+~
+Marles e' una donna giovane e graziosa, tutto in lei esprime gentilezza e
+serenita'. La osservi mentre compie con grazia ogni gesto e movimento.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+90 20
+8 8 2
+Spec: 0
+E
+#21604
+Renard~
+Renard il venditore di mazzi d'erba di Elenia~
+Renard e' qui che tiene un grosso vaso tra le mani.
+~
+Renard e' alto e longilineo ha un pizzetto e dei lunghi baffi che gli
+conferiscono unaria sinistra, vagamente luciferina.  Ti senti un po a disagio
+mentre ti guarda, sembra quasi che si stia chiedendo in che cosa pu tramutarti.
+  
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+85 20
+8 8 1
+Spec: 0
+E
+#21605
+Didie Alchimista~
+Didie l'alchimista di Elenia~
+La vecchia Didie ti sta osservando preoccupata.
+~
+Didie e' una vecchia signora dai capelli grigi e dall'aria ben curata. Si dice
+che conosca molti segreti, alcuni sostengono che conosca tutto cio' che
+di magico esiste nel regno di Elenia.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+70 20
+8 8 2
+Spec: 0
+E
+#21606
+Orces fruttivendolo~
+Orces il fruttivendolo di Elenia~
+Orces il fruttivendolo sta contrattando con un cliente.
+~
+Orces e' un grosso omone perennemente sudato e dall'aria nervosa. Sembra quasi
+che tema qualcosa o qualcuno e tutti i suoi gesti sono frenetici e nervosi.
+Se resti qui un minuto piu' del necessario sei certo che potrebbe contagiarti e
+che potresti cadere preda di una crisi di nervi.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+60 20
+8 8 1
+Spec: 0
+E
+#21607
+Jina~
+Jina la venditrice di frutta e verdura pulita di Elenia~
+Jina sta lavando delle mele.
+~
+Jina e' una donna di mezza eta', il cui volto e' pieno di rughe e le mani
+sono callose e rovinate. Osservandola con piu' attenzione ti accorgi che le
+sue mani sono bagnate, come pure il grosso grembiule che porta intorno
+alla vita.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+89 20
+8 8 2
+Spec: 0
+E
+#21608
+Gioel~
+Gioel il postino di Elenia~
+Gioel il nuovo postino di Elenia e' qui che smista la corrispondenza.
+~
+Gioel e' un uomo dai capelli rossi e dalle guance rubizze. E' stato
+chiamato a sostituire il vecchio Wally, andato da poco in pensione.
+Sembra aver preso con dedizione il suo nuovo lavoro e lo osservi
+mentre smista, sorridendo, la posta.
+~
+~
+~
+~
+36028798092959755 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+75 20
+8 8 1
+E
+#21609
+Yvonne mugnaia~
+Yvonne la venditrice di farina in sacchi di Elenia~
+Yvonne la mugnaia sta sistemando alcuni sacchi.
+~
+Yvonne e' una ragazza giovanissima, dai capelli biondi e dagli occhi di un
+magnifico verde. Per fortuna il volto e' lunica cosa in lei che non sia stata
+imbiancata dalla farina!
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+63 20
+8 8 2
+Spec: 0
+E
+#21610
+Puck~
+Puck il venditore di minerali preziosi di Elenia~
+Puck e' seduto dietro ad un piccolo banco.
+~
+Puck e' un uomo piccolissimo, i cui tratti ti fanno venire in mente le fiabe
+sulle fate e gli gnomi che ti raccontava il nonno. Sei tentato di chiedergli
+qualcosa circa la sua origine, ma temi che facendolo possa irritarsi e
+rifiutarsi di concludere affari con te.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+61 20
+6 6 1
+Spec: 0
+E
+#21611
+ylgases gioielliere negoziante~
+Ylgase il venditore di pietre pulite di Elenia~
+Ylgase sta attentamente valutando un grosso smeraldo.
+~
+La caratteristica principale di Ylgase e' il suo enorme naso, si dice sia il
+piu' grande di tutta la Daresia. Il poveruomo cerca di mascherare questa
+sua imponente particolarita' fisica con degli occhiali altrettanto enormi,
+atto che in realta' contribuisce a rendere ancor piu' pittoresco il suo aspetto.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+56 20
+8 8 1
+Spec: 0
+E
+#21612
+Ollie~
+Ollie la gioielliera di Elenia~
+Ollie sta osservando con aria compiaciuta un amuleto d’oro.
+~
+Questa minutissima donna che si trova davanti a te, e' la piu abile e
+originale creatrice di gioielli del regno. Se passi qualche ora in sua
+compagnia e la osservi attentamente mentre lavora, certamente apprenderai
+qualcosa di utile!
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+69 -30 -10 1d1+30000 10d10+50
+61 20
+8 8 2
+Spec: 0
+E
+#21613
+Rudolph Fantino~
+Rudolph il fantino di Elenia~
+Rudolph sta portando un sacco d’avena nel recinto dei cavalli.
+~
+Rudolph e' un uomo di bassa statura, la cui testa e' completamente rasata.
+Solo una lunga e sottile treccia parte dalla sommita' del capo per arrivare
+fino alle spalle. Numerose cicatrici deturpano il suo corpo ed il volto, dal
+che ne deduci che deve aver avuto una vita molto movimentata prima di
+ritirarsi a Chyrellos.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+54 20
+8 8 1
+Spec: 0
+E
+#21614
+Wooz ferramenta~
+Wooz il ferramenta~
+Wooz sta compilando un inventario.
+~
+Wooz e' un uomo di bassissima statura e dal corpo tozzo. Lo osservi mentre
+con mano sicura riempie le caselle del suo libro mastro.
+~
+~
+~
+~
+36028798227179547 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+71 0
+8 8 1
+Spec: 0
+E
+#21615
+Dert~
+Dert il venditore di tronchi di Elenia~
+Dert e' scompostamente seduto dietro al bancone.
+~
+Dert ha laria trasandata ed impolverata. Non riesci a capire se gli abiti lisi,
+rattoppati e polverosi siano abiti che usa solo per lavoro, o siano la sua
+abituale tenuta.
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+70 -30 -10 1d1+30000 10d10+50
+51 20
+6 6 1
+Spec: 50
+E
+#21616
+Stirow~
+Stirow il venditore di assi di Elenia~
+Stirow sta accatastando alcune assi.
+~
+Stirow ha l'aria sveglia e gioviale. Per lui concludere un affare rendendo
+soddisfatto il cliente e' una questione d'onore e si dice che sia suo costume
+offrire una bevuta al nuovo acquirente.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+100 20
+8 8 1
+Spec: 0
+E
+#21617
+Till Carpentiere~
+Till il carpentiere di Elenia~
+Till ti mostra un grosso scudo di legno.
+~
+Till ha l'aria di chi sa il fatto suo e devi riconoscere che gli oggetti che
+vedi in mostra sono di squisita fattura e perfettamente rifiniti. Sembra
+che questo omettino che hai davanti dedichi una maniacale attenzione
+ad ogni particolare!
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d8+30000 10d10+50
+95 20
+8 8 1
+Spec: 0
+E
+#21618
+Koowly~
+Koowly il venditore di travi di Elenia~
+Koowly e' qui che conta una partita di travi appena acquistata.
+~
+Koowly e' un uomo gigantesco, biondo e dalla carnagione chiara.
+Dai tratti e dalle dimensioni diresti che e' un thalesian, deduzione
+confermata dalle due piccole trecce che inquadrano il suo volto.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+51 20
+8 8 1
+Spec: 0
+E
+#21619
+Ferton Pellicciaio~
+Ferton il pellicciaio di Elenia~
+Ferton sta stendendo all’aria alcune pelli di ermellino.
+~
+Ferton e' un vecchio sdentato e rugoso. Non appena si accorge del tuo ingresso,
+pulisce le sue tozze mani sporche di sangue sul grembiule che indossa e muove
+verso di te.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+83 20
+8 8 1
+Spec: 0
+E
+#21620
+Laorst~
+Laorst il venditore di pelli lavorate di Elenia~
+Laorst sta stendendo su un tavolo una pelle conciata.
+~
+Laorst e' un uomo sulla cinquantina. Quando si volta verso di te, rimani
+sorpreso dal colore azzurro ghiaccio dei suoi occhi: sembra che si siano
+accesi due fari nella semioscurita' del locale e che questi fari siano puntati
+su di te.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+66 20
+8 8 0
+Spec: 0
+E
+#21621
+Leandro Sarto~
+Leandro il sarto di Elenia~
+Leandro sta passando una pasta protettiva su un corpetto di cuoio.
+~
+Leandro indossa un elegante tunica grigia che si intona perfettamente con il
+colore argentato dei suoi capelli. A giudicare dalle orecchie leggermente a
+punta e dalla corporatura esile deve essere uno degli elfi che hanno deciso
+di prendere dimora a Chyrellos.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+52 20
+8 8 1
+Spec: 0
+E
+#21622
+Cursell macellaio~
+Cursell il macellaio di Elenia~
+Cursell sta facendo a pezzi una grossa pecora.
+~
+Al contrario degli altri macellai che ti e' capitato di vedere, Cursell non ha
+una struttura imponente, ne' poderosi muscoli, eppure i colpi di mannaia
+con cui macella la pecora non sembrano meno efficaci di quelli dei suoi colleghi. 
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+54 20
+8 8 1
+Spec: 0
+E
+#21623
+Astelia barista~
+Astelia la barista di Elenia~
+Astelia e' qui che ti sorride amabilmente.
+~
+Se dovessi giudicare dall'aspetto, non crederesti mai che la persona che hai di
+fronte sia la proprietaria del locale, piuttosto penseresti alla figlia del
+proprietario. Stai per chiedere alla piccola di chiamarti il padre, quando ti
+ricordi che tutti in citta' parlano della strana e centenaria venditrice di
+bibite, che, per qualche oscura magia, non invecchia di un secondo da quando
+aveva 10 anni.
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+59 20
+8 8 2
+Spec: 0
+E
+#21624
+Polgard~
+Polgard il pescivendolo di Elenia~
+Polgard ti mostra sorridendo un grosso pesce spada.
+~
+Polgard indossa dei grossi stivaloni, lunghi fino al ginocchio ed uno strano
+cappello di lana blu. Ha la carnagione scura, dei formidabili baffi dalle punte
+allinsu' e degli occhi marroni dallo sguardo sveglio.
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+79 20
+8 8 1
+Spec: 0
+E
+#21625
+Joanna~
+Joanna la padrona della tavola calda~
+Joanna, la padrona della tavola calda, ti accoglie con un sorriso.
+~
+Joanna e' una donna di mezz'eta' dall'aria cordiale e di aspetto assai
+piacevole.  Ti mostra con orgoglio i vari piatti caldi che i cuochi eleni le
+hanno appena consegnato.    
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+67 0
+8 8 2
+Spec: 0
+E
+#21626
+oswald pasticcere~
+Oswald il pasticcere~
+Oswald, il pasticcere, ti sorride da dietro al bancone.
+~
+E' un uomo rotondo e rubizzo.  Sembra abbia bevuto un po' troppo o, forse, il
+rossore delle sue gote dipende dal calore del grosso forno in cui cuoce dolci
+favolosi.    
+~
+~
+~
+~
+36028798294059019 1064 900 -1 -1 -1 -1 2 E
+100 -30 -10 1d1+30000 10d10+50
+93 0
+8 8 1
+E
+#21627
+Oswald~
+Oswald il pasticcere~
+Oswald, il pasticcere, ti sorride da dietro al bancone.
+~
+E' un uomo rotondo e rubizzo.  Sembra abbia bevuto un po' troppo o, forse, il
+rossore delle sue gote dipende dal calore del grosso forno in cui cuoce dolci
+favolosi.    
+~
+~
+~
+~
+36028798226950155 1064 900 -1 -1 -1 -1 2 E
+67 -30 -10 1d1+30000 10d10+50
+65 0
+8 8 1
+Spec: 0
+E
+#21628
+individuo nero cartomante skhajde~
+Skhajde il cartomante~
+Un individuo vestito di nero e dall'aria misteriosa si trova qui.
+~
+E' completamente vestito di nero ed un cappuccio nasconde il suo volto alla tua
+vista.    
+~
+~
+~
+~
+36028797019217946 1049768 0 -1 -1 -1 -1 -1 E
+100 0 -20 30d50+30000 30d50+20
+81 0
+8 8 1
+E
+#21629
+magazziniere~
+Un magazziniere~
+Un magazziniere e' qui in attesa.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 1032 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+0 1d1+0
+51 0
+8 8 2
+E
+#21630
+magazziniere~
+Un magazziniere~
+Un magazziniere e' qui in attesa.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 1032 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+0 1d1+0
+63 0
+8 8 0
+E
+#21688
+esercito gnomi elenia~
+L'esercito degli Gnomi di Elenia.~
+Una massa ululante di Gnomi ti assale.
+~
+It looks unfinished.
+~
+~
+~
+~
+8657297434 56 0 -1 -1 -1 -1 -1 E
+20 20 -2 1d1+6000 1d1+0
+18 0
+8 8 0
+E
+T 12605
+T 12606
+T 12607
+T 12608
+T 12609
+T 12610
+T 12611
+T 12612
+#21689
+L'esercito dei Nani di Elenia.~
+L'esercito degli Gnomi di Elenia.~
+Una massa ululante di Nani ti assale.
+~
+It looks unfinished.
+~
+~
+~
+~
+8657297418 1064 0 -1 -1 -1 -1 -1 E
+20 20 -2 1d1+6000 1d1+0
+11 0
+8 8 0
+E
+#21690
+esercito troll elenia~
+L'Esercito dei Troll di Elenia.~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8657297434 1064 0 -1 -1 -1 -1 -1 E
+20 20 -2 1d1+6000 1d1+0
+17 0
+8 8 0
+E
+T 12605
+T 12606
+T 12607
+T 12608
+T 12609
+T 12610
+T 12611
+T 12612
+#21691
+esercito elfi elenia~
+L'esercito degli Elfi di Elenia.~
+Una massa ululante di Elfi ti assale.
+~
+It looks unfinished.
+~
+~
+~
+~
+8657297434 1064 0 -1 -1 -1 -1 -1 E
+20 20 -2 1d1+6000 1d1+0
+19 0
+8 8 0
+E
+T 12605
+T 12606
+T 12607
+T 12608
+T 12609
+T 12610
+T 12611
+T 12612
+#21699
+guardia militare~
+Una guardia militare di Elenia~
+Una guardia militare di Elenia sta controllando ogni tua mossa
+~
+Quest' uomo e' uno dei migliori soldati del Regno
+~
+~
+~
+~
+36063981391308827 2199065203944 1000 -1 -1 -1 -1 2 E
+50 0 -10 1d1+799 4d11+12
+49 0
+8 8 1
+BareHandAttack: 10
+Spec: 3
+E
+#21700
+creatura orso gufo guardiano~
+un orsogufo~
+Una enorme creatura mostruosa ti sbarra la strada.
+~
+Malgrado la mole questa creatura mostra un'insolita grazia.  Meta' orso e meta'
+civetta e' sollevato sulle zampe posteriori, sfiorando quasi il pavimento della
+grotta con il cranio piumato.  Qualcosa ti dice che pur non parlando questa
+creatura non ha solo un'intelligenza animale.    
+~
+~
+~
+~
+65560 2199023255680 0 -1 -1 -1 -1 -1 E
+20 20 10 1d1+0 1d1+0
+17 0
+8 8 1
+E
+#21701
+segretario Tindorne~
+Tindorne l'elfo, Il segretario della Cancelleria~
+Il Segretario, con al collo un semplice ma splendido &GStemma Eleno&d
+~
+Un uomo esile con le orecchie a punta
+~
+~
+~
+~
+576460753444397082 1024 0 -1 -1 -1 -1 2 E
+80 20 10 1d1+0 1d1+0
+44 0
+8 8 1
+E
+T 21701
+#21702
+indovino~
+Un indovino~
+Un indovino...
+~
+It looks unfinished.
+~
+~
+~
+~
+122906 0 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+0 1d1+0
+58 0
+8 8 0
+E
+T 21702
+#21703
+guardia primi~
+Una guardia dei Primi di Sendaria~
+Una guardia dei Primi di Sendaria
+~
+Una guardia dei Primi di Sendaria
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+60 20 10 1d1+0 1d1+0
+44 0
+8 8 0
+E
+T 21703
+$

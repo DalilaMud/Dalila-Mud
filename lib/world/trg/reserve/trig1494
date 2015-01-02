@@ -1,0 +1,24 @@
+trigedit 1494
+6  
+/c 
+if %arg.room% != 22232
+halt
+end
+if %actor.name% != dolmant
+halt
+end
+mforce dolmant emote fa un gesto ad una delle guardie...
+wait 1 s
+emote sogghigna...
+wait 1 s
+emote tira una leva nascosta..
+wait 2
+mechoaround %arg% Una botola si apre sotto i piedi di %arg% che cade di sotto!
+msend %arg% Il terreno viene a mancarti sotto i piedi! Si e' aperta improvvisamente una botola!
+wait 1
+msend %arg% Cadi per molto tempo!
+mteleport %arg% 21208
+~
+/s
+q
+y

@@ -1,0 +1,26 @@
+trigedit 2063
+6  
+/c 
+set valido 0
+if %actor.name% == krog || %actor.name% == sheep
+ set valido 1
+end
+if %valido% == 1 && %speech% == Siero di vita
+ wait 1 s
+ if %puntifede% < 400
+  mecho &6&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+  halt
+ end
+ mecho &6&xL'altare emette una luce flebile ma decisa e le piante che lo circondano germogliano con vigore.&0
+ mload obj 2060
+ mload obj 2060
+ mload obj 2060
+posa all.siero
+ eval puntifede %puntifede% - 400
+ global puntifede
+ mat cptifedetherion say distruggi 8
+end
+~
+/s
+q
+y

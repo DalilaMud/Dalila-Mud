@@ -1,0 +1,20 @@
+trigedit 2618
+6  
+/c 
+* Lista comandi
+%door% 50159 n purge
+%door% 50159 s purge
+%door% 50159 e purge
+%door% 50159 w purge
+eval room %random.30000%
+%door% 50159 n room %room%
+eval room %random.30000%
+%door% 50159 e room %room%
+eval room %random.30000%
+%door% 50159 s room %room%
+eval room %random.30000%
+%door% 50159 w room %room%
+~
+/s
+q
+y

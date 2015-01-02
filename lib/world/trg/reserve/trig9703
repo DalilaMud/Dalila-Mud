@@ -1,0 +1,31 @@
+trigedit 9703
+6  
+/c 
+if %direction% == north
+set target %actor.name%
+if %actor.name% /= guardia
+else
+if %target% != 0
+wait 3
+wload obj 12638
+wforce %target% get santa
+wforce %target% quaff santa
+wait 2
+wsend %target% Senti lo spirito di Fizban dentro di te mentre varchi l'entrata del tempio
+wpurge
+wforce %target% sit
+wait 3
+wsend %target% Improvvisamente la testa incomincia a girarti, ti sembra di non ricordare piu' dove ti trovi mentre ti perdi nella contemplazione degli affreschi del tempio
+wteleport %target% 12515
+wait 5
+wforce %target% look
+wait 30 s
+wteleport %target% 12512
+wsend %target% Ritorni nel tuo corpo mortale con tua grande delusione
+end
+end
+end
+~
+/s
+q
+y

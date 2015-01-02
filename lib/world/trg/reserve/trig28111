@@ -1,0 +1,37 @@
+trigedit 28111
+6  
+/c 
+set carico %actor.peso%
+eval carico %carico% + %actor.carry_weight%
+wait 1 s
+if %self.vnum% == 28146
+  if %direction% != south
+    halt
+  end
+  %force% corvo6 peso %carico%
+end
+if %self.vnum% == 28148
+  if %direction% != north
+    halt
+  end
+  %force% corvo6 peso -%carico%
+end
+if %self.vnum% == 28141
+  if %direction% != south
+    halt
+  end
+  %force% corvo6 peso -%carico%
+end
+if %self.vnum% == 28142
+  if %direction% != north
+    halt
+  end
+  %force% corvo6 peso %carico%
+end
+if %self.vnum% == 28140
+  %force% corvo6 peso -%carico%
+end
+~
+/s
+q
+y

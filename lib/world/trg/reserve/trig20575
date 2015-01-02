@@ -1,0 +1,15 @@
+trigedit 20575
+6  
+/c 
+* Lista comandi
+if %arg% == specchio
+oechoaround %actor% %actor.name% entra in uno specchio.
+%send% %actor% La tua immagine sembra dividersi, moltiplicarsi, ma alla fine ritorna ad essere quella di sempre.
+   %teleport% %actor% 18132
+wait 1 s
+%send% %actor% Sei in un altro luogo, e forse, anche in un altro tempo
+end
+~
+/s
+q
+y

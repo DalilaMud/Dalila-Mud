@@ -1,0 +1,16 @@
+trigedit 1384
+6  
+/c 
+* Lista comandi
+if %actor.name% == Nagash
+wait 1 s
+%echo% &7Improvvisamente la nebbia intorno a Nagash vortica su se stessa come un tifone!&0
+%echo% &7In uno scuro baleno schizza nel cielo portandolo con lei!&0
+%teleport% nagash 5460
+%teleport% nebbia 5460
+else
+end
+~
+/s
+q
+y

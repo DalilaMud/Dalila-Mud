@@ -1,0 +1,34 @@
+trigedit 20092
+6  
+/c 
+* Lista comandi
+wait 3 s
+set a %actor.name%
+if %a% == Elroh || %a% == Stuart
+%send% %actor% &7Senti il divino potere di Khud fortificare il tuo corpo in un'aura magica!&0
+%echoaround% %actor% &7Per un istante il corpo di %actor.name% e' circondato da bianco potere divino!&0
+else
+%send% %actor% &1La veste di Khud sembra scaldarsi attorno al tuo corpo.. no... brucia..!&0
+%echoaround% %actor% &1La veste indossata da %actor.name% sembra bruciare di fiamme invisibili..!&0
+wait 2 s
+%send% %actor% &1E' incandescente... urli dal dolore... ti senti sciogliere...&0
+%echoaround% %actor% &3%actor.name% urla dal dolore in preda a spasmi e il suo corpo sembra lentamente sbiadire!&0
+wait 2 s
+%send% %actor% &1Improvvisamente tutto diventa buio per un istante.. senti il tuo corpo teletrasportarsi nell'etere..&0
+%echoaround% %actor% &3..Improvvisamente svanisce nel nulla!!!&0
+oteleport %actor% 1195
+wait 1 s
+oforce %actor% look
+wait 2 s
+%force% vendic say ..tu... sei un profanatore delle sacre vesti.
+wait 3 s
+%force% vendic emote ti indica... una forza misteriosa e arcana ti induce a levarti la veste per distruggerla!
+wait 2 s
+%force% %actor% remov khud
+wait 1 s
+%force% %actor% give khud khud
+end
+~
+/s
+q
+y

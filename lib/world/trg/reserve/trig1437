@@ -1,0 +1,12 @@
+trigedit 1437
+6  
+/c 
+wait 1
+mecho &1&xLa Runa viene consumata dal fuoco...&0
+mpurge rprpp
+mgoto 28150
+say purgami
+~
+/s
+q
+y

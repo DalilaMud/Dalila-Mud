@@ -1,0 +1,12 @@
+trigedit 11041
+6  
+/c 
+eval retval 0
+if %spellname% == identify
+%send% %actor,name% &wIl tuo incantesimo ti mostra solo cose senza senso...&0
+trig-return %retval%
+end
+~
+/s
+q
+y

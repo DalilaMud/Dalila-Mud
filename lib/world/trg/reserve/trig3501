@@ -1,0 +1,15 @@
+trigedit 3501
+6  
+/c 
+wait 1
+set char %random.char%
+if %char.vnum% == 28100 || %char.vnum% == 28101
+say MEEOOOOOOOOW
+kill %char.alias%
+else
+halt
+end
+~
+/s
+q
+y

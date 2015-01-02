@@ -1,0 +1,1081 @@
+#28000
+chiave palazzo~
+una chiave del palazzo~
+Una chiave del palazzo e' qui.~
+~
+18 16408 16385
+0 0 0 0 100 100
+2 1 0 0 0 0
+#28001
+chiave tesoro~
+una chiave del tesoro~
+La chiave del Tesoro di Otak e' qui.~
+~
+18 168 16385
+0 0 0 0 100 100
+2 1 0 1 0 0
+#28002
+chiave~
+una chiave degli appartamenti~
+Una chiave degli appartamenti e' qui.~
+~
+18 128 16385
+0 0 0 0 100 100
+1 1 0 1 0 0
+#28003
+chiave anello6~
+Un anello d'oro con incastonata una testa d'orso~
+Un anello d'oro riluccica al suolo.~
+~
+8 524304 16387
+0 0 0 0 1 1
+1 1 0 41 0 0
+T 28009
+T 28011
+T 28012
+A
+20 10
+A
+22 10
+C
+8388608 0 0 0
+#28004
+chiave palazzo~
+una chiave del portone~
+La chiave del portone del castello.~
+~
+18 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#28006
+cappello buffone~
+un cappello da buffone~
+Un cappello da buffone e' qui.~
+~
+12 65536 17
+0 0 0 0 100 100
+1 0 0 1 0 0
+#28007
+vestito buffone~
+una vestito da buffone~
+Un vestito da buffone e' qui in terra.~
+~
+12 65536 9
+0 0 0 0 100 100
+4 0 0 1 0 0
+#28008
+elmo drago~
+un elmo a testa di drago~
+Un elmo raffigurante una testa di drago e' qui.~
+~
+12 65536 17
+0 0 0 0 50 50
+5 0 0 1 1 5
+#28009
+rosa Ilweran~
+una rosa del giardino di Ilweran~
+Una rosa del giardino di Ilweran.~
+~
+12 0 1
+0 0 0 0 20 20
+1 0 0 1 0 0
+E
+rosa Ilweran~
+Questa e una rosa speciale cresciuta nel giardino segreto di Ilweran sotto l'albero delle storie.
+Curala bene perche si dice che porti fortuna.
+~
+#28010
+vino rosato argentario~
+un bicchiere di vino &5&xrosato&0 dell'Argentario~
+Un bicchiere di vino rosato dell'Argentario.~
+~
+17 65536 1
+3 3 2 0 100 100
+8 0 0 1 0 0
+#28011
+vino fruttato~
+una coppa di &1fruttato rosso&0 di Lamorka~
+Una coppa di fruttato rosso di Lamorka.~
+~
+17 65536 1
+3 3 2 0 100 100
+8 0 0 1 0 0
+#28012
+vino portello~
+un bicchierino di &7Portello bianco&0~
+Un bicchierino di Portello bianco.~
+~
+17 65536 1
+2 2 2 0 100 100
+7 0 0 1 0 0
+#28013
+vino lamorketto~
+un bicchiere di &x&1Lamorketto&0~
+Un bicchiere di Lamorketto.~
+~
+17 65536 1
+3 3 2 0 100 100
+8 0 0 1 0 0
+#28014
+amaro faro~
+un calice di &x&2Amaro del Faro&0~
+Un calice di Amaro del Faro.~
+~
+17 65536 1
+2 2 8 0 100 100
+7 0 0 1 0 0
+#28015
+birra drago~
+un boccale di &8I sei Malti del Drago&0~
+Un boccale di I sei Malti del Drago.~
+~
+17 65536 1
+4 4 4 0 100 100
+9 0 0 1 0 0
+#28016
+tunica argentea~
+una morbida &7&xtunica argentea&0~
+Una morbida &7&xtunica argentea&0 e' qui~
+~
+88 188416 9
+0 0 0 0 100 100
+0 0 0 1367 0 0
+A
+25 15
+A
+18 15
+A
+12 100
+A
+26 100
+#28017
+xx~
+broad silver belt~
+A broad silver belt is lying here.~
+~
+9 712737 2049
+50 0 0 0 100 100
+1 10 0 749 0 0
+A
+26 40
+A
+12 100
+C
+32768 0 0 0
+#28018
+Un cappello con le corna d'Alce~
+Un cappello con le corna d'Alce~
+Un cappello con le corna d'alce giace qui dimenticato dal suo maldestro padrone~
+~
+88 128 17
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+cappello alce corna~
+Uno splendido cappello con le corna d'alce lascia trasparire l'indole del proprietario...
+e le sue tendenze strane. Questo, diresti, e il cappello di una persona sicuramente non normale.
+~
+#28019
+fiammifero~
+un fiammifero~
+Un piccolo fiammifero e stato dimenticato qui~
+~
+1 0 16385
+0 0 0 0 100 100
+0 0 0 71 2 7
+E
+fiammifero~
+&1&xUn piccolo fiammiferino dalla testa rosso fuoco&0
+~
+C
+1024 0 0 0
+#28020
+biglietto invito~
+un invito~
+Un biglietto di invito.~
+   Questo e' un invito ufficiale alla grande festa di Lamorka che si svolgera'
+il prossimo fine settimana.  A presto :)
+~
+16 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#28021
+stivali korman~
+&x&1un paio di magnifici stivali di drago&0~
+Un paio di stivali ... ti sembrano fatti con scaglie di drago ...~
+~
+9 225352 65
+40 0 0 0 100 100
+10 500000 0 155 5 4
+#28022
+elmo korman~
+&x&3un elmo tutto d'oro con punte di diamante&0~
+Un elmo tutto d'oro con punte di diamante e' qui.~
+~
+9 225288 17
+40 0 0 0 100 100
+10 500000 0 155 1 5
+#28023
+medaglione korman~
+&x&2un medaglione con uno splendente smeraldo al centro&0~
+Un medaglione con uno splendente smeraldo al centro e' qui.~
+~
+8 225352 5
+0 0 0 0 100 100
+5 700000 0 226 3 2
+C
+274928250880 0 0 0
+#28024
+armatura korman~
+&x&6un'armatura di piastre completa&0~
+Un'armatura completa di piastre e' qui.~
+~
+9 225288 9
+100 0 0 0 100 100
+50 1000000 0 519 1 0
+A
+1 5
+#28025
+un mallone~
+un mallone~
+Un grosso mallone e qui~
+~
+5 0 8193
+0 0 0 9 100 100
+8 100 1 1 2 0
+E
+mallone tronco~
+Questo e' un esemplare veramente notevole di mallone
+non ne hai mai visto uno cosi nodoso e cosi bello.
+Le sue nodosita ti ispirano mille e mille forme
+ma sta solo a te ricavarne il giusto utilizzo.
+~
+#28026
+l'artiglio di Gogol il leggendario re dei draghi~
+l'artiglio di Gogol~
+&9&8 l'artiglio di &1Gogol &9&8il leggendario &3Re &9&8dei &1Draghi&0 e qui in tutto il suo splendore~
+~
+8 0 5
+0 0 0 0 100 100
+0 0 0 1 3 0
+E
+artiglio gogol~
+questo e&9&8 l'artiglio di &1Gogol &9&8il leggendario &3Re &9&8dei &1Draghi&0 ucciso da Dagad per vendicare suo padre.
+~
+#28027
+messaggio~
+un messaggio per Re Otak~
+&6&xMessaggio per Sua Maesta: sistemato il postino, pare che funzioni, usa scrivi nomepg per scrivere e ricevi per ricevere&0~
+~
+0 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28028
+Veste dei seguaci di Aphrael~
+la veste dei seguaci di Aphrael~
+La veste dei seguaci di aphrael giace qui dimenticata~
+~
+88 0 9
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+veste aphrael~
+Questa e la veste orlata in bianco e nero dei seguaci di Aphrael
+sembra tenuta bene.
+~
+#28030
+chiavetta appiccicosa~
+chiavetta appiccicosa~
+Una chiavetta appiccicosa, come se un ragno vi avesse tessuto la sua tela.~
+~
+18 0 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28031
+&2&x Il letto del Dio delle storie&0~
+il letto del dio delle storie~
+&2&x Un comodo letto circolare e' in fondo alla sala.&0~
+Questo letto circolare, con le sue lenzuola di lino pulito e i cuscini di piu me d'oca sembra una sensuale promessa per il tuo corpo. Su questo giaciglio iweran riposa.
+~
+8 0 1
+0 0 0 0 0 0
+1000000000 0 0 1 2 2
+E
+letto~
+Questo letto circolare, con le sue lenzuola di lino pulito e i cuscini di piume d'oca sembra
+una sensuale promessa per il tuo corpo. Su questo giaciglio Ilweran riposa.
+~
+#28032
+mordicchio l'opossum~
+un piccolo opossum~
+Un piccolo opossum dal muso bianco e sbarazzino ti osserva con gli ochietti lucidi~
+questo opossum dal muso sbarazzino sembra avere l'argento vivo addosso.
+con i suoi occhietti lucidi e il viso colorato di bianco sembra quasi che voglia dirti qualcosa
+lo scorgi correre ed arrampicarsi su qualsiasi cosa egli riesca
+questo opossum ha un nome, ma chissa se te lo rivelera'
+~
+12 524288 5
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 28032
+E
+opossum mordicchio~
+&6&xquesto opossum dal muso sbarazzino sembra avere l'argento vivo addosso.
+con i suoi occhietti lucidi e il viso colorato di bianco sembra quasi che voglia dirti qualcosa
+lo scorgi correre ed arrampicarsi su qualsiasi cosa egli riesca
+questo opossum ha un nome, ma chissa se te lo rivelera'&0
+~
+#28040
+camicia~
+una &4larga camicia blu&0~
+Una &4larga camicia blu&0 e' qui.~
+~
+11 0 9
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28041
+pantaloni~
+dei &4morbidi pantaloni blu&0~
+Un &4paio di morbidi pantaloni blu&0 e' qui.~
+~
+11 0 33
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28042
+collarino~
+un collarino di campanellini legati con un &4nastro blu&0~
+Un collarino di campanellini legati con un &4nastro blu&0~
+~
+11 0 5
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28043
+arpa~
+&3&xl'arpa di Ilweran&0~
+&3&xL'Arpa di Ilweran il Cantastorie, e' qui. &0~
+~
+89 524288 8388609
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28044
+libro~
+il &6&xlibro delle Storie di Ilweran&0~
+Vedi qui il &6&xLibro delle Storie di Ilweran&0 che contiene tutte le storie che Ilweran narrera'~
+~
+0 0 8193
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+libro~
+   Una strana forza arcana non permette di aprirlo ...
+   troppi sono i segreti qui contenuti che si possano rivelare
+   ad un essere umano ...
+~
+#28045
+Bacheca~
+la bacheca del Lavoro~
+La &2&xBacheca del Lavoro&0 e qui visibile a tutti~
+~
+13 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+#28046
+&3&xUna medaglia al valore di Sendaria&0~
+la medaglia al valore di Sendaria~
+Una medaglia con il simbolo della pantera e stata lasciata qui~
+E una medaglia con una pantera rampante su campo giallo
+~
+8 0 5
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+medaglia valore~
+E una medaglia con una pantera rampante su campo giallo, questo e il simbolo di sendaria.
+~
+#28050
+canoa~
+una canoa~
+Una semplice canoa abbandonata.~
+Una canoa di buon legno adatta per piccole e grandi traversate.
+~
+22 524304 16385
+0 0 0 0 50 50
+50 970 10 1 0 0
+#28051
+&3&xLa corona di SENDARIA&0~
+&3&xLa corona di SENDARIA&0~
+&3&xLa corona della casa reale di SENDARIA e poggiata qui&0~
+&3&xLa corona della casa reale di SENDARIA&0
+~
+8 0 17
+0 0 0 0 0 0
+0 0 0 1 0 0
+#28052
+&4&x Lenti blu&0~
+&4&xDelle piccole lenti blu&0~
+Delle grosse lenti blu legate con dello spago sono qui~
+&4&x Queste grandi lenti evidentemente sono fatte per essere poste sugli occhi, ma ti sembrano troppo grosse per avere un effettiva utilita, le lenti sono di colore blu&0
+~
+12 0 262145
+0 0 0 0 60 60
+0 0 0 -1 3 0
+E
+lente lenti occhiali~
+&4&x Queste grandi lenti evidentemente sono fatte per essere poste sugli occhi, ma ti sembrano troppo grosse per avere un effettiva utilita, le lenti sono di colore blu&0
+~
+C
+512 0 0 0
+#28053
+Sigillo di Sendaria~
+Sigillo di Sendaria~
+L'anello con il Sigillo Reale di Sendaria e qui~
+questo e'l' anello con sigillo reale della casa si Sendaria
+~
+8 0 129
+0 0 0 0 100 100
+0 0 0 1 8 0
+E
+anello signillo reale~
+Questo e' il sigillo della casa Reale di Sendaria
+~
+#28056
+corona deira~
+&7La corona di Aldaria&0~
+Incredibile!! La splendida corona del signore di Aldaria e' qui!!~
+~
+8 0 17
+0 0 0 0 100 100
+5 0 0 1 0 0
+#28060
+goccia vetro~
+una goccia di vetro~
+Una goccia di vetro della Bisca e' qui.~
+~
+12 0 1
+0 0 0 0 20 20
+1 50 1 1 0 0
+#28061
+buono birra~
+un buono birra~
+Un buono per una birra e' qui ancora valido.~
+~
+12 0 1
+0 0 0 0 50 50
+1 0 0 1 0 0
+#28062
+pozione nera~
+&9&xuna pozione nera&0~
+Una &9&xpozione nera&0 e' qui.~
+~
+10 65544 1
+10 93 0 0 20 20
+5 50 10 1 0 0
+#28063
+pozione azzurra~
+&6una pozione azzurra&0~
+Una &6pozione azzurra&0 e' qui.~
+~
+10 65544 1
+1 16 16 0 20 20
+5 50 10 1 0 0
+#28064
+cappello~
+cappello del Rischio~
+Il cappello del Rischio e' qui in terra.~
+~
+12 0 17
+0 0 0 0 40 40
+5 0 0 1 0 0
+E
+cappello~
+   Questo e' un premio del Rischio, locale del porto di Lamorka dove e'
+possibile giocare a Dadi,Ventuno e tanto altro. 
+~
+#28065
+boccale birra~
+un boccale di birra~
+Un boccale di spumeggiante birra e' qui.~
+~
+17 0 1
+3 3 1 0 20 20
+3 20 1 1 0 0
+#28070
+vestito argentato~
+un &7lungo vestito argentato&0~
+Un &7lungo vestito argentato&0~
+~
+12 0 9
+0 0 0 0 20 20
+8 1000 10 1 0 0
+#28071
+corsetto ricamato~
+un corsetto ricamato in oro~
+Un corsetto ricamato in oro e' qui.~
+~
+12 0 9
+0 0 0 0 30 30
+10 1500 30 1 0 0
+#28072
+tunica regale~
+una tunica regale tutta d'oro~
+Una splendente tunica regale tutta d'oro e' qui!!~
+~
+12 0 9
+0 0 0 0 60 60
+50 10000 1000 1 0 0
+#28080
+pietra filosofale~
+una pietra filosofale~
+Una pietra filosofale e' qui.~
+Nothing.
+~
+12 589825 16385
+0 0 0 0 70 70
+40 100 1 1 0 0
+E
+pietra~
+"Sulla pietra liscia e perfetta puoi leggere una piccola scritta:
+Il Supremo Mistero della Perfetta Essenza
+risiede nell'Imperfetto Cuore di ogni Essere Umano".
+~
+#28081
+111~
+frollino~
+Un frollino appena sfornato e' qui.~
+~
+18 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28082
+bucatini~
+un piattone di bucatini alla MATRICIANA~
+Un fumante piattone di bucatini alla Matriciana (ricetta divina) aspettano solo che tu li mangi~
+~
+19 0 1
+20 0 0 0 100 100
+2 475 0 1 0 0
+#28083
+punta di freccia~
+una punta di freccia~
+Una piccola punta di freccia nera come la notte e' qui &4contornata da una scura aura malvagia&0~
+La piccola punta di questa freccia &4emana un'oscuro alone malefico&0
+~
+0 0 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28084
+condizionatore~
+Un &6&xCondizionatore fisso&0~
+&0Un &6&xcondizionatore da parete&0 soffia una deliziosa aria fresca.~
+~
+12 0 0
+0 0 0 0 10 10
+500 2500 0 67 0 0
+E
+condizionatore~
+Ahhhhh!!!!  Sentire quest'arietta fresca con l'afa che c'e' fuori, ti fa
+provare un'invidia tremenda per colui che puo' permettersi un simile lusso!  
+
+~
+C
+16777216 0 0 0
+#28089
+bambola gonfiabile~
+&2Una &1&xBambola gonfiabile&0~
+&2Una &1&xBambola gonfiabile&0&2 e' goffamente poggiata a terra.&0~
+~
+8 0 1
+0 0 0 0 1 5
+0 0 0 -9 0 0
+E
+bambola gonfiabile~
+E' una goffa bambola gonfiabile con cui potrai dare il meglio di te: ora potrai
+finalmente smettere di provarci (vanamente) con qualunque essere femminile
+daresiano!    
+~
+C
+1 0 0 0
+#28090
+chiave~
+una chiave~
+Una chiave ammaccata e' qui.~
+~
+18 65540 16385
+0 0 0 0 10 30
+2 0 0 1 0 0
+#28091
+gelato~
+un gelato~
+Un gelato e' qui.~
+~
+0 0 16385
+0 0 0 0 10 10
+0 0 0 1 0 0
+#28092
+ali angeliche~
+&6&xdelle grandi Ali Angeliche&0~
+&6&xDelle grandi Ali Angeliche si aprono davanti a te&0~
+Queste grandi &6&xAli Angeliche&0 appartengono ad uno spirito puro
+e ti si mostrano in tutta la loro bellezza ed armonia.
+~
+8 0 65537
+0 0 0 0 10 10
+0 0 0 71 0 0
+C
+4194304 0 0 0
+#28093
+presenza Offar~
+la Presenza di Offar~
+La Presenza di Offar e' qui per onorare i suoi seguaci.~
+Non si vede....non si sente....ma la puoi avvertire ovunque. Sappi che Lei vede Te!!
+~
+12 0 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+#28094
+statua offar~
+&x&2la Magnifica Statua del Dio Offar&0~
+&x&2La Magnifica Statua del Dio Offar si impone in questa sala.&0~
+~
+12 0 0
+0 0 0 0 100 100
+1000 0 0 801 3 0
+E
+statua offar~
+&x&2Una sola iscrizione e' presente sulla statua : Offar la Leggenda.&0
+~
+C
+8796563832960 0 0 0
+#28095
+impianto stereo hi-fi~
+&6uno spettacolare impianto stereo ad alta fedelta'&0~
+&6Una dolcissima musica si diffonde dalle casse di un favoloso &7&ximpianto stereo&0.~
+Nothing.
+~
+12 0 0
+0 0 0 0 1 1
+5000 0 0 1 0 0
+E
+impianto stereo~
+E' uno stupendo impianto ad alta fedelta' corredato di tutti gli accessori.
+Mentre lo osservi a bocca aperta, estasiato dalla qualita' del suono che senti,
+non puoi fare a meno di essere colto da una discreta invidia per il proprietario...
+~
+#28096
+Talismano a forma di &7&xGatto Bianco&0~
+Un talismano a forma di &7&xGatto Bianco&0~
+Un talismano a forma di &7&xGatto Bianco&0~
+~
+9 181248 5
+12 0 0 0 70 70
+1 5000 0 161 0 0
+E
+talismano gatto bianco~
+E' uno stupendo talismano di diamante a forma di &7&xGatto Bianco&0 con lo sguardo
+fiero che ti punta dritto negli occhi.
+~
+A
+26 9
+A
+18 2
+#28097
+nettare di Chardhros~
+il nettare di Chardhros~
+Il favoloso nettare di Chardhros e' qui per terra.~
+~
+17 0 1
+100 100 7 0 0 0
+105 1000 100 1 0 0
+#28098
+panettone~
+un panettone~
+Una fetta di panettone e' qui.~
+~
+19 0 1
+8 0 0 0 30 30
+1 100 0 1 0 0
+#28099
+spumante~
+Spumante Berlucchi dry~
+Una Bottiglia di ottimo spumante e' qui~
+~
+17 0 1
+100 100 8 0 30 30
+105 0 0 1 0 0
+#28100
+Insegna~
+Un'insegna di bronzo~
+Un'insegna di bronzo appesa al muro oscilla lentamente spinta dalla brezza del mare.~
+Nothing.
+~
+12 0 512
+0 0 0 0 0 0
+150 0 0 1 0 0
+E
+insegna~
+&9......................................&6
+   ________________________________________
+ /_______________________________________ /|
+|&4&x            ______________              &0&6| |
+|&4&x      ,===:'.,            `-._          &0&6|||
+|&4&x           `:.`---.__         `-._      &0&6| |
+|&4&x            `:.     `--.         `.     &0&6| |
+|&4&x               \.        `.         `.  &0&6|||
+|&4&x       (,,(,    \.         `.   ____,-`.&0&6| |
+|&4&x    (,'     `/   \.   ,--.___`.'        &0&6| |
+|&4&x,  ,'  ,--.  `,   \.;'         `        &0&6|||
+|&4&x `{D, {    \  :    \:                   &0&6| |
+|&4&x   V,,'    /  /    //                   &0&6| |
+|&4&x   j::    /  ,' ,-//.    ,---.      ,   &0&6|||
+|&4&x   \:'   /  ,' /  _  \  /  _  \   ,'/   &0&6| |
+|&4&x         \   `'  / \  `'  / \  `.' /    &0&6|/ 
+ \&4&x         `.___,'   `.__,'   `.__,'    &0&6/ 
+   \&4&x                                  &0&6/   
+     \   _ __ ___ __ __ __ __       /   
+       \                          /
+         \    /\    /\    /\    /
+           \/    \/    \/    \/
+&0
+~
+#28101
+pongo~
+materia primordiale~
+Una palletta di pongo e' qui che si contorce~
+~
+12 524288 16385
+0 0 0 0 100 100
+20 0 0 432 0 0
+T 28100
+T 28009
+C
+3298702819328 0 0 0
+#28102
+un gabbiano morto~
+un gabbiano morto~
+Un gabbiano morto giace qui.~
+~
+0 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#28103
+buco~
+un piccolo buco~
+Un piccolo buco e' stato scavato qui.~
+~
+12 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+T 28105
+#28113
+botte~
+una botte~
+Una comunissima botte di legno e' stata lasciata qui.~
+~
+15 44 65537
+100 5 -1 0 30 30
+50 30 0 101 0 0
+E
+botte~
+E' una comunissima botte di legno, rinforzata con cerchi di metallo.
+su di un lato vedi un'etichetta di carta incollata di traverso.
+~
+E
+etichetta~
+ 
+---------------------
+| &1Guano di gabbiano&0 |
+---------------------
+~
+C
+2 0 0 0
+#28114
+guano crema~
+della crema grigia~
+Una strana crema grigia con striature bianche e nere.~
+~
+13 65672 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+crema~
+2
+   Emette un odore nausente, e' di color grigio scuro con striature bianche, marroni e nere.
+~
+#28115
+gabbiano gelato~
+un &1Gabbiano Rosso&0~
+Un gelato colorato si sta lentamente squagliando al suolo.~
+Ha un sapore delizioso!!!
+~
+19 0 1
+1 0 0 0 100 100
+1 10 0 1 0 0
+E
+gabbiano gelato~
+E' una grossa cialda a forma di cono riempita con un'enorme quantita' di crema rossa
+una strana polverina marrone la ricopre. Meglio mangiarlo in fretta prima che si squagli!
+~
+#28130
+frammento alga~
+&2&xUn frammento di alga pietrificata.&0~
+Un Frammento di alga pietrificata giace qui.~
+~
+19 524288 524289
+0 0 0 0 50 50
+1 5 0 42 0 0
+C
+8388608 0 0 0
+#28141
+dado~
+un dado~
+Un dado.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+T 28149
+E
+dado1~
+
+   &7_______&0
+  &7|       |&0
+  &7|       |&0
+  &7| &1  O  &7 |&0
+  &7|       |&0
+  &7|_______|&0
+~
+#28142
+dado~
+un dado~
+Un dado.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+T 28149
+E
+dado2~
+
+   &7_______&0
+  &7|       |&0
+  &7| &1O    &7 |&0
+  &7|       |&0
+  &7| &1    O&7 |&0
+  &7|_______|&0
+~
+#28143
+dado~
+un dado~
+Un dado.~
+~
+8 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+E
+dado3~
+
+   &7_______&0
+  &7|       |&0
+  &7| &1O    &7 |&0
+  &7| &1  O  &7 |&0
+  &7| &1    O&7 |&0
+  &7|_______|&0
+~
+#28144
+dado~
+un dado~
+Un dado.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+T 28149
+E
+dado4~
+
+   &7_______&0
+  &7|       |&0
+  &7| &1O   O&7 |&0
+  &7|       |&0
+  &7| &1O   O&7 |&0
+  &7|_______|&0
+~
+#28145
+dado~
+un dado~
+Un dado.~
+~
+13 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+E
+dado5~
+
+   &7_______&0
+  &7|       |&0
+  &7| &1O   O&7 |&0
+  &7| &1  O  &7 |&0
+  &7| &1O   O&7 |&0
+  &7|_______|&0
+~
+#28146
+dado~
+un dado~
+Un dado.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+T 28149
+E
+dado6~
+
+   &7_______&0
+  &7|       |&0
+  &7| &1O   O&7 |&0
+  &7| &1O   O&7 |&0
+  &7| &1O   O&7 |&0
+  &7|_______|&0
+~
+#28149
+dado~
+un dado~
+Un dado.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 0 1 0 0
+T 28149
+#28150
+roccia6~
+alcuni frammenti di roccia~
+Pezzi di roccia sono sparsi al suolo, emettono una strana luce.~
+~
+12 0 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 28191
+E
+roccia sasso~
+Sembrano frammenti di granito ma irradiano una strana luce rossa.
+~
+#28151
+scatola6 scrill ferro~
+una scatola di bronzo~
+Una scatola di bronzo e' stata lasciata qui.~
+~
+15 0 1
+3 13 -1 0 5 5
+50 50000 100 1 0 0
+T 28194
+E
+scatola~
+&7 SCRILL Mangiatutto maneggiare con cura.
+~
+#28152
+sacco6~
+un sacco nero~
+Uno strano sacco nero e' stato lasciato qui~
+~
+15 0 65537
+1000 1 -1 0 100 100
+1 0 0 1 0 0
+E
+sacco~
+Sembra fatto con peli color argento intrecciati, ha un odore strano.
+Sembra l'odore di un cavallo!
+~
+#28153
+polvere~
+una manciata di polvere verde~
+Della polvere verde e' sparsa al suolo.~
+~
+19 0 262145
+0 0 0 5 100 100
+1 0 0 88 0 0
+E
+polvere~
+Della semplice polvere verde, sembra composta da piccoli cristalli di sale.
+~
+A
+3 -3
+A
+22 10
+C
+3 0 0 0
+#28154
+viso6 colonna~
+un volto di pietra~
+Un volto di pietra scolpito sulla colonna di roccia.~
+~
+12 524304 512
+0 0 0 0 100 100
+1000 0 0 1 0 0
+E
+volto colonna~
+
+   Un volto senza tempo privo di ogni espressione, i suoi occhi sono chiusi.
+~
+#28155
+volto7 colonna~
+un volto di pietra~
+Un volto di pietra scolpito sulla colonna di roccia.~
+~
+12 16 512
+0 0 0 0 100 100
+1000 0 0 1 0 0
+E
+volto colonna~
+
+   Un volto senza tempo privo di ogni espressione, i suoi occhi ti fissano con sguardo glaciale.
+~
+#28195
+&2Un mazzolino di &7&xMargherite&0~
+&2Un grazioso mazzolino di &7&xMargherite&0~
+&2Un mazzolino di &7&xMargherite&0&2 e' poggiato qui con cura.&0~
+~
+9 0 32769
+0 0 0 0 20 20
+0 0 0 151 0 0
+E
+mazzolino margherite~
+&2E' un graziosissimo mazzolino di &7&xmargherite&0
+&2raccolte nei verdi prati della Daresia.
+Sembra che emani un magico potere...
+~
+C
+128 0 0 0
+#28196
+Un ciondolo a forma di falce di luna~
+una piccola luna con una candida stella~
+Un delizioso ciondolo luccica di luce argentea in un angolo.~
+~
+11 0 5
+0 0 0 0 20 20
+1 0 0 214 0 0
+E
+ciondolo, luna~
+E' un grazioso ciondolo di chiara fattura elfica, vedi intagliata nel legno
+una piccola luna con una stella circondate da un nastro d'argento dove noti
+incise antiche rune che stanno a simboleggiare l'unione di una I ed una T.
+~
+A
+25 9
+A
+26 5
+C
+134217728 0 0 0
+#28199
+prova6~
+OBJ prova~
+OBJ in collaudo~
+~
+4 3221225472 1
+70 1 2 107 100 100
+20 21 22 1 0 0
+T 28196
+E
+orme~
+Orme fresche ... qualcuno e' passato qui da poco.
+~
+$~

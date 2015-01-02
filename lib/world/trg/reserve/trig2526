@@ -1,0 +1,17 @@
+trigedit 2526
+6  
+/c 
+* Lista comandi
+if %actor.vnum% != 699
+halt
+end
+wecho Juzar tira le redini del drago....
+wait 1 s
+wecho &2&xIl drago spiega le sue ali, ed incomincia a batterle...&0
+wait 1 s
+wecho &2&x...Improvvisamente il drago si alza in volo ed il carro con lui!&0
+%teleport% all 698
+~
+/s
+q
+y

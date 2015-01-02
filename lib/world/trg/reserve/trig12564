@@ -1,0 +1,14 @@
+trigedit 12564
+6  
+/c 
+eval stock %stock% +1
+global stock
+eval tot %tot% + %object.cost%
+global tot
+if %appalto% == on
+unset tot
+end
+~
+/s
+q
+y

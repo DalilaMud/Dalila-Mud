@@ -1,0 +1,10 @@
+trigedit 5299
+6  
+/c 
+if %actor.name% == Silion
+%load% obj 5260
+end
+~
+/s
+q
+y

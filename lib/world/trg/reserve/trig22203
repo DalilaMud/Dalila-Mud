@@ -1,0 +1,22 @@
+trigedit 22203
+6  
+/c 
+if %actor.rank% != 60
+halt
+end
+%force% %actor.name% emote prende un campanello di cristallo dalla scrivania e lo fa squillare una volta
+%force% gdd mat gcd mecho Il limpido squillo di un campanello trilla
+wait 1 s
+%force% gdd mat gcd mforce gcd sor
+wait 2 s
+%force% gdd mat gcd mforce gcd say Il Sommo %actor.name% vi attende, entrate pure %ospite%
+wait 1 s
+%force% gdd mat gcd mforce gcd unlock porta
+%force% gdd mat gcd mforce gcd apri porta
+wait 15 s
+%force% gdd mat gcd mforce gcd chiudi porta
+%force% gdd mat gcd mforce gcd lock porta
+~
+/s
+q
+y

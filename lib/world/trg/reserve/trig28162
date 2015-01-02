@@ -1,0 +1,12 @@
+trigedit 28162
+6  
+/c 
+   wait 3 s
+   set stato inattivo
+   global stato
+   say ciao
+   %echo% Prova %room.vnum% %room.east%
+~
+/s
+q
+y

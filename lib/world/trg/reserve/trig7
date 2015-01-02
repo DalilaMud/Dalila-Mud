@@ -1,0 +1,12 @@
+trigedit 7
+6  
+/c 
+eval eli %eli% + 1
+global eli
+if %eli% > 1000
+opurge chiave
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 12594
+6  
+/c 
+if %target% == 0
+foll %actor.name%
+set target %actor.name%
+global target
+mforce %actor.name% nord
+end
+~
+/s
+q
+y

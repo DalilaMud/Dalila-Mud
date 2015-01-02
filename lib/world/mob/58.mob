@@ -1,0 +1,515 @@
+#5800
+draghetto bianco~
+Un draghetto bianco~
+Un draghetto bianco ti assale saltando fuori da una rupe!
+~
+Un draghetto di piccole dimensioni, lungo poco piu' di 2 metri..con scaglie bianche e levigate come specchi. Potrebbe
+essere un pericoloso avversario!
+~
+~
+~
+~
+121 9216 -100 -1 -1 -1 -1 -1 E
+23 11 10 1d1+400 3d7+4
+12 0
+8 8 1
+BareHandAttack: 8
+Spec: 29
+E
+#5801
+draghetto nero~
+Un draghetto nero~
+Un draghetto nero ti punta dall'alto e si getta verso di te in picchiata!
+~
+Un draghetto di colore nero vola in alto del cielo. Appena ti scorge si getta in picchiata su di te facendo brillare
+le sue nere scaglie alla luce del sole..
+~
+~
+~
+~
+105 4203520 -300 -1 -1 -1 -1 -1 E
+29 10 10 1d1+500 3d7+7
+20 0
+8 8 1
+BareHandAttack: 8
+Spec: 30
+E
+#5802
+draghetto mercurio~
+Un draghetto di Mercurio~
+Un draghetto di mercurio solca i cieli incurante della tua presenza..
+~
+Piccolo e agile con una lunga coda appuntita. Le scaglie sono di un bianco opaco ma riflettono la luce quasi accecandoti.
+Non sembra assolutamente infastidito dalla tua presenza, e continua a volare nel cielo grigio..
+~
+~
+~
+~
+81993 272630784 300 -1 -1 -1 -1 -1 E
+25 12 10 1d1+350 3d6+8
+21 0
+8 8 1
+BareHandAttack: 8
+Spec: 30
+E
+#5803
+giovane mercenario scudiero~
+Un giovane scuderio~
+Un giovane scudiero sta raccogliendo acqua al fiume..
+~
+Avra' poco piu' di 15 anni, faccia attenta e sveglia...mal vestito e mal nutrito, un velo di tristezza copre i 
+suoi occhi da bambino
+~
+~
+~
+~
+10 0 200 -1 -1 -1 -1 -1 E
+10 14 7 1d1+100 3d3+1
+6 0
+8 8 1
+E
+#5804
+mercenario pattuglia lande~
+Un mercenario di pattuglia~
+Un mercenario di pattuglia scruta i cieli alla ricerca dei draghi...
+~
+Forte, coraggioso e ben armato. Guarda in aria pronto ad avvertire i suoi compagni della comparsa di qualche minaccia volante..
+~
+~
+~
+~
+286824 32808 0 -1 -1 -1 -1 -1 E
+33 11 0 1d1+470 2d11+7
+27 0
+8 8 1
+E
+#5805
+alcione cimmura mercenario~
+Un Alcione Mercenario di Cimmura~
+Un alcione mercenario di Cimmura sta confabulando qui con i suoi compagni.
+~
+Completamente avvolto da abiti neri, lo sguardo pericoloso e spietato..parla con un sussurro in maniera molto
+animata con i suoi compagni. Dalle vesti capisci che deve essere un natio di Cimmura, la citta' dei Ladri e 
+degli Inganni. Non sembra aver notato la tua presenza...ma neanche tu avevi notato la sua!!
+~
+~
+~
+~
+26650 274878465064 -200 -1 -1 -1 -1 -1 E
+47 4 -7 1d1+650 4d8+10
+39 0
+8 8 1
+BareHandAttack: 1
+Dex: 18
+E
+#5806
+Ragnard braccio destro~
+Ragnard,la Tigre Rinnegata~
+Ragnard,l'ex capitano delle Tigri di Cimmura nota la tua presenza e si getta contro di te con il suo stiletto!
+~
+Esile, slanciato e poco robusto. Sembra impossibile che costui abbia guidato il corpo di Guardia di Cimmura per
+moltissimi anni. Il suo sguardo e' spietato e sanguinario. Probabilmente manteva il comando solo grazie alla sua
+ferocia e alla sua brutalita'. Non ti sembra assurdo che i Tolnar di Cimmura l'abbiano esiliato..
+~
+~
+~
+~
+26687 274945024040 -400 -1 -1 -1 -1 -1 E
+55 5 -9 1d1+830 4d11+11
+32 0
+8 8 1
+BareHandAttack: 1
+Dex: 18
+Spec: 14
+E
+#5807
+slith alcione bianco~
+&7Slith, l'Alcione Bianco&0~
+&7Slith,l'Alcione Bianco e' intento a studiare la cartografia della zona..&0
+~
+Un uomo dallo sguardo severo, ma nello stesso tempo coraggioso e compassionevole. Slith ha sempre rifiutato i precetti
+dell'inganno e del sotterfugio della scuola degli Alcioni Daresiani, ed ha sempre seguito un comportamento retto e
+da vero Cavaliere, che gli hanno dato il titolo di &7Alcione Bianco&0. Probabilmente e' l'unico uomo al mondo
+che riesce a gestire i malvagi Alcioni Daresiani senza l'uso della forza e della violenza..
+~
+~
+~
+~
+28698 268472320 500 -1 -1 -1 -1 -1 E
+75 0 -10 1d1+1300 3d20+25
+72 0
+8 8 1
+BareHandAttack: 1
+Dex: 25
+E
+#5808
+orso nero~
+Un orso nero~
+Un enorme Orso nero sta pisolando su un tappeto al centro della tenda..
+~
+Enorme,forte e determinato...peccato che dorma
+~
+~
+~
+~
+24586 274877906984 0 -1 -1 -1 -1 -1 E
+45 6 -4 1d1+600 3d7+9
+36 0
+8 8 0
+BareHandAttack: 6
+E
+#5809
+Hett peloi oscuro~
+Hett, Il Peloi &9Oscuro&0~
+Hett, il Peloi Oscuro ha appena assassinato suo fratello...
+~
+Sguardo malevolo e spietato, finisco snello e atletico che lasciano intravedere la sua natura resistente e 
+combattiva di Peloi. Il suo pugnale gronda di sangue dopo aver pugnalato a morte un suo fratello Peloi..
+~
+~
+~
+~
+90138 274945015848 -800 -1 -1 -1 -1 -1 E
+65 2 -9 1d1+1000 4d10+22
+57 0
+8 8 1
+BareHandAttack: 1
+Str: 16
+Dex: 18
+E
+#5810
+cacciatore planare forma umanoide figura~
+Un cacciatore planare~
+Una strana forma umanoide e' qui... ehi ma e' priva del viso!
+~
+Chissa' da quale strana dimensione giunge questo essere.  Da lontano potrebbe
+essere scambiato per un uomo, ma da vicino non si puo' fare a meno di notare
+che e' totalmente privo del viso!  Niente occhi, bocca, orecchie, naso...  Non
+scommetteresti pero' sul fatto che la mancanza del visto gli impedisca di
+combattere ferocemente...    
+~
+~
+~
+~
+192555 2336730776586 0 -1 -1 -1 -1 -1 E
+47 6 -4 1d1+500 4d7+10
+40 0
+8 8 1
+Str: 18
+Dex: 18
+Spec: 21
+E
+#5811
+mimic baule~
+Un Mimic~
+&2Un Baule e' qui&0
+~
+Questo baule ha decisamente qualcosa di strano. Mah
+~
+~
+~
+~
+24634 2336462241792 0 -1 -1 -1 -1 -1 E
+50 0 0 1d1+799 5d8+15
+48 0
+8 8 0
+BareHandAttack: 5
+Str: 16
+Dex: 14
+Int: 16
+Wis: 16
+E
+#5812
+furcus arcimago pandion~
+&9&xFurcus&0~
+Furcus ti guarda sogghignando, non ti farebbe piacere sapere quello che sta pensando di farti
+~
+Il potente Arcimago Furcus abbandono' gli studi nell'Alta Torre della Magia
+molti anni or sono.  Da allora vaga da paese in paese offrendo i suoi servigi
+come mercenario: i suoi eserciti composti interamente di creature evocate
+possono essere molto potenti e contribuire a terrorizzare ogni nemico!    
+~
+~
+~
+~
+38955 137539662882 -800 -1 -1 -1 -1 -1 E
+71 -10 0 1d1+1299 8d10+15
+62 0
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 14
+Int: 18
+Wis: 18
+Spec: 15
+E
+#5813
+guardia bonehead~
+Una guardia di Bonehead~
+Una guardia che sorveglia la tenda di Bonehead ti guarda minacciosamente..
+~
+Completamente avvolti da tatuaggi tribali e da pelli di lupo, brandiscono delle asce enormi. Non ti lasceranno
+passare per niente al mondo!
+~
+~
+~
+~
+28699 274877916328 -200 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+350 2d14+8
+28 0
+8 8 1
+BareHandAttack: 6
+Str: 25
+Dex: 20
+Spec: 16
+E
+#5814
+vestale dama~
+Una vestale della Luce~
+Una bellissima vestale sta danzando avvolta dalla Luce
+~
+La delicatezza e la dolcezza che profonde da questo volto sarebbero in grado di
+far scoppiare in lacrime di gioia e stupore anche il piu' grezzo dei guerrieri.
+Nonostante tutto, questa fanciulla non e' fragile: dai suo occhi traspare
+l'incontenibile forza della Luce.    
+~
+~
+~
+~
+24587 16781312 800 -1 -1 -1 -1 -1 E
+40 6 0 1d1+499 4d6+8
+28 0
+8 8 2
+Str: 14
+Dex: 16
+Int: 16
+Wis: 18
+Spec: 18
+E
+#5815
+bonehead malvagio precettore genidian~
+&1&xBoneHead&0~
+&1&xBoneHead&0,il malvagio precettore Genidian non ti permettera' di prendere la sua mappa!!
+~
+Semplicemente enorme, la sua testa calva e' ricoperta da arcani simboli tribali. La sua forza e la sua agilita' sono
+pari soltano alla sua ferocia e alla sua crudelta'. Nella mano stringe una mappa, che e' pronto a difendere con la
+sua vita.
+~
+~
+~
+~
+24619 274877916200 -500 -1 -1 -1 -1 -1 E
+75 0 -10 1d1+1500 4d15+25
+50 0
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 25
+Spec: 16
+E
+#5816
+Jaioel sacerdote~
+&3&xJaioel&0~
+Un Sacerdote di Silue e' profondamento immerso nello studio di alcuni libri
+~
+Da lui proviene la Luce di cui la Bianca Dama gli ha fatto dono.  La sua
+espressione e' serena: non si puo' intimorire una persona come questa, la sua
+sicurezza nasce dalla sua incrollabile Fede nella Dama.    
+~
+~
+~
+~
+57611 12292 950 -1 -1 -1 -1 -1 E
+75 5 3 1d1+799 5d12+20
+59 0
+8 8 1
+BareHandAttack: 6
+Str: 17
+Dex: 15
+Int: 17
+Wis: 18
+Spec: 18
+E
+#5817
+drago bruno~
+&3&xUn drago bruno&0~
+Un gigantesco drago color sabbia sta riposando placidamente su un cumulo di detriti..
+~
+Semplicemente gigante! Questo enorme rettile color sabbia, sto dormendo...non sembra essersi accorto della tua presenza.
+Che fare? Affrontarlo o scappare?
+~
+~
+~
+~
+73742 274877915304 -500 -1 -1 -1 -1 -1 E
+80 -5 -10 1d1+1500 4d18+25
+75 0
+8 8 0
+Str: 25
+Dex: 25
+E
+T 2592
+T 2593
+#5818
+roc uccello~
+&3Il Roc&0~
+&xIl Roc&0&3, il leggendario uccello gigante e' qui in tutta la sua maestosita'&0
+~
+Assomiglia vagamente ad un'aquila, ma le dimensioni sono quelle di una balena!
+Con l'enorme becco potrebbe tagliare un uomo in due senza fatica, mentre i suoi
+artigli possono sollevare bastimenti interi!  Quando la sua ombra oscura il
+sole, tutte le creature di questa landa desolata fuggono terrorizzate, eccetto
+forse i Draghi piu' potenti.    
+~
+~
+~
+~
+576460752303546431 137511305216 0 -1 -1 -1 -1 -1 E
+80 -20 -10 1d1+4999 10d10+30
+45 0
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 18
+Int: 18
+Wis: 18
+Spec: 10
+E
+T 2596
+#5819
+kaius gran precettore~
+&6Kaius,&0il Gran Precettore delle gilde Daresiane&0~
+&6Kaius&0 sta consumando scostumatamente il suo pasto, non sembra curarsi della tua presenza..
+~
+Aspetto imponente, sguardo impenetrabile...emana un aura di potenza talmente forte da farti indietreggiare...
+Costui e' Kaius,il Gran Precettore della Daresia, colui che ogni precettore venera come un Dio. Sara' saggio
+mettersi contro di lui?
+~
+~
+~
+~
+576460752303513611 274945029160 0 -1 -1 -1 1869516527 -1 E
+80 -10 -10 1d1+5000 8d14+20
+43 0
+8 8 1
+BareHandAttack: 14
+Str: 25
+Dex: 25
+Spec: 8
+E
+T 2600
+T 2601
+T 2602
+#5820
+mostro tentacolare morghal~
+&5Morghal&0~
+&5Morghal il terribile mostro dai mille tantacoli attende la sua preda&0
+~
+Dalla terra spuntano solo una miriade di tentacoli, ognuno lungo svariati metri
+e ricoperti di orride ventose.  Questa creatura e' solita scavare trappole dove
+attende le ignare vittime per poi divorarle.    
+~
+~
+~
+~
+576460752303513663 336077856 -1000 -1 -1 -1 -1 -1 E
+70 -10 -9 1d1+1999 2d30+50
+51 0
+8 8 0
+BareHandAttack: 2
+Str: 21
+Spec: 10
+E
+#5821
+mercenario infuriato mipmk~
+Un mercenario infuriato~
+Questo mercenario e' deciso a sterminare gli aggressori di Kaius!
+~
+Pare davvero infuriato!  Non avra' pace finche' non avra' piantato la sua spada
+nella gola di chi ha osato uccidere Kaius!
+~
+~
+~
+~
+286776 1024 0 -1 -1 -1 -1 -1 E
+50 10 0 1d1+600 3d11+10
+39 0
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 18
+E
+#5822
+elementale fuoco guardiano~
+&1&xL'elementale di fuoco&0~
+Un enorme elementale di fuoco fa la guardia qui
+~
+E' spaventoso: una figura umanoide fatto di fuoco e fiamme.
+E' immobile, e pare stia facendo la guardia al portale alle sue spalle.
+~
+~
+~
+~
+536993818 17825792 0 -1 -1 -1 -1 -1 E
+71 0 0 1d1+2999 10d10+20
+65 0
+8 8 0
+BareHandAttack: 6
+Str: 23
+Dex: 18
+E
+T 2603
+#5823
+shaggaruth mostro~
+&9&xLo Shaggaruth&0~
+Un terribile mostro lacustre e' qui in attesa di una preda... e' enorme!
+~
+E' grosso circa come un elefante e ha una bocca davvero enorme!  Ha l'aspetto
+di un enorme coccodrillo, tranne per il colore della sua pelle scagliosa,
+completamente nero.  La sua bocca ha davvero TANTI denti!    
+~
+~
+~
+~
+73771 2199032168546 0 -1 -1 -1 1869516954 -1 E
+60 0 -6 1d1+799 6d10+10
+48 0
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 18
+Spec: 13
+E
+#5824
+drago rosso~
+Un Drago Rosso~
+Un gigantesco Drago Rosso ti guarda con i suoi occhi millenari..
+~
+Semplicemente il piu' grosso drago che hai mai visto...
+~
+~
+~
+~
+536993818 0 -1000 -1 -1 -1 -1 -1 E
+80 0 10 1d10+10000 10d1+20
+74 0
+8 8 1
+E
+#5825
+mercenario uomo guerriero~
+Un enorme mercenario~
+Un enorme guerriero mercenario e' qui
+~
+Vestito e bardato di tutto punto, il suo sguardo e' una costante minaccia per chi osa sfidarlo.
+Ora pero' qualcosa li offusca.... che sia paura?
+~
+~
+~
+~
+36028797556613130 0 0 -1 -1 -1 -1 -1 E
+70 8 -8 1d1+1999 6d12+14
+69 0
+8 8 1
+BareHandAttack: 5
+E
+$

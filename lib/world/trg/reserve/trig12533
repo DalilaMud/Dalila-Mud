@@ -1,0 +1,11 @@
+trigedit 12533
+6  
+/c 
+if %actor.name% /= recettore
+set settata on
+global settata
+end
+~
+/s
+q
+y

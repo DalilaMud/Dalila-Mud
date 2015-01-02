@@ -1,0 +1,211 @@
+#31100
+sciabola lunga~
+La sciabola di cristallo~
+Una lunga sciabola di metallo vitreo e' qui in terra..~
+~
+5 0 8193
+3 4 11 10 15 15
+5 0 0 50 0 0
+A
+19 2
+A
+26 4
+#31101
+anello cielo~
+&6l'anello del cielo sognante&0~
+&6Un anello brilla azzurrissimo della luce del cielo!!&0~
+~
+8 0 3
+0 0 0 0 100 100
+1 0 0 10 0 0
+A
+13 45
+A
+12 35
+C
+4398050705440 0 0 0
+#31102
+tavolo legione~
+Il tavolo della legione oscura~
+&9&xUn enorme, nerissimo tavolo di ciliegio nero si erge al centro della stanza&0~
+~
+12 0 1
+0 0 0 0 100 100
+1200 300000 0 0 0 0
+E
+guarda tavolo~
+Un tavolo enorme e nodoso, largo qualcosa come 6 metri x 6, intagliato con cura
+nel ciliegio e finemente dipinto di un profondo nero, sul quale risalta un
+bellissimo, inquietante affresco raffigurante Lonmar, il grande condottiero,
+urlare la sua rabbia.    
+~
+#31103
+trono legione~
+&x&9Il trono della legione&0~
+Un maestoso trono di pietra reca le insegne della legione oscura!~
+~
+12 0 0
+0 0 0 0 100 100
+1500 0 0 0 0 0
+E
+guarda trono~
+E' un grosso trono scavato nel quarzo, con enormi cuscini neri e piccoli
+brillanti incastonati a rettangolo.  Sullo schienale, con grandissima maestria,
+e' stato inciso in bassorilievo il volto di Lonmar, signore della legione
+oscura.    
+~
+#31104
+nero stiletto nador~
+Il nero stiletto "Nador"~
+Nero stiletto nador pietrapreziosa~
+~
+5 8858501200 8193
+0 6 10 14 70 70
+5 0 0 60 0 0
+A
+18 3
+A
+19 3
+A
+17 15
+C
+8192 0 0 0
+#31105
+nero stiletto renaji~
+il nero stiletto "Renaji Alk"~
+Nero stiletto renaji pietrapreziosa~
+~
+5 8858509393 8193
+0 2 20 1 100 100
+0 0 0 0 0 0
+T 31101
+T 31102
+#31106
+bimbo fasce Aran~
+il piccolo Aran, ancora in fasce~
+Un delizioso bimbo in fasce gattona cercando la mamma..~
+~
+12 0 16385
+0 0 0 0 100 100
+4 0 0 0 0 0
+T 31107
+T 31109
+E
+look aran~
+Un bambino davvero splendido..  Gattona curioso e vivace, girandosi spesso per
+cercare la mamma con lo sguardo.  Quando il visino vispo si posa su di te
+piccoli, intelligenti occhi verde-grigio ti scaldano il cuore con un
+espressione unica.    
+~
+#31110
+spada adamantite~
+una spada d'adamantite~
+Una lunga spada di uno stupendo metallo nero giace sul terreno!~
+~
+5 0 8193
+2 3 15 12 80 80
+10 14000 0 30 0 0
+#31111
+mazza mithril~
+la mazza di &x&5mithril&0~
+Una mazza di uno strano metallo violaceo e opaco e' adagiata sul terreno ~
+~
+5 8858370048 8193
+0 6 8 6 10 60
+14 16000 0 40 0 0
+A
+19 4
+#31113
+spada cantante 1z1~
+&7La spada cantante&0~
+Una spada indemoniata ulula e solfeggia!!~
+~
+5 64 8193
+0 1 20 10 100 100
+4 30000 0 20 0 0
+T 31114
+A
+2 1
+#31120
+lama pugnale~
+&9Lama di rasoio&0~
+Un affilatissimo, corto pugnale brilla in terra!!~
+~
+5 805306368 8193
+0 3 12 14 16 16
+3 0 0 39 0 0
+E
+guarda lama~
+In effetti potrebbe assomigliare ad un grande rasoglio a serramanico..
+In effetti potrebbe assomigliare ad un grande rasoio a serramanico
+~
+#31123
+sciabola~
+Una finissima sciabola ~
+Una sciabola lavorata dalla lunga lama e' sul pavimento.~
+~
+5 805306368 8193
+0 2 15 10 30 30
+10 5000 0 40 0 0
+A
+18 4
+#31125
+cassa~
+Una cassa di metallo~
+Una cassa chiusa di metallo scuro e' gettata tra le altre~
+~
+15 0 1
+300 3 31151 0 100 100
+510 0 0 0 0 0
+#31141
+fiume sotterraneo~
+&6il fiume sotterraneo Esidur&0~
+&6il fiume sotterraneo Esidur scorre impetuoso davanti a te&0~
+~
+23 8589934928 0
+60000 60000 15 0 0 0
+300000 0 0 0 0 0
+E
+guarda fiume~
+L'acqua dell'Esidur scorre violentissima nel flusso centrale..  Quando ci
+appoggi la mano sei quasi costretto a ritrarla per quanto e' gelida..  Ad ogni
+modo, si direbbe potabile
+~
+#31142
+spada sid~
+&7La bianca spada di Sid&0~
+Una bianca spada di splendida fattura risplende sul terreno!~
+~
+5 805306368 8193
+0 9 4 12 100 100
+15 0 0 42 0 0
+A
+19 1
+A
+25 5
+#31151
+chiave ferro~
+una chiave di ferro~
+Una chiave di ferro molto arrugginita fa la polvere..~
+~
+18 0 1
+0 0 0 0 10 10
+1 0 0 0 0 0
+#31152
+argento filone~
+&x&9Il filone d'argento&0~
+Un filone di grezzo, purissimo argento risalta sulla superficie del muro!!!~
+~
+44 0 0
+0 20 0 0 100 100
+6000 0 0 0 1 1
+#31153
+vena oro~
+&3la vena d'oro&0~
+Una vena d'oro purissimo cola tra le rocce!~
+~
+44 0 0
+0 20 0 0 100 100
+6000 0 0 0 1 5
+T 31153
+$~

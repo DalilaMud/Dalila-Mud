@@ -1,0 +1,314 @@
+#7900
+chiave acciaio~
+una grossa chiave d'acciaio~
+Una grossa chiave d'acciaio e' stata abbandonata qui.~
+~
+18 4 16385
+7900 0 0 0 50 50
+2 0 0 0 0 0
+E
+chiave acciaio~
+Questa enorme chiave e' fatta di solido acciaio.
+~
+#7901
+chiave rame~
+una chiave di rame~
+Una chiave di rame e' stata abbandonata sul pavimento.~
+~
+18 4 16385
+7901 0 0 0 50 50
+2 0 0 0 0 0
+E
+chiave rame~
+Questa piccola chiave e' fatta di rame.
+~
+#7902
+chiave ottone~
+una piccola chiave d'ottone~
+Una piccola chiave d'ottone si trova qui.~
+~
+18 4 16385
+7902 0 0 0 50 50
+1 10 4 0 0 0
+E
+chiave ottone~
+E' una piccola, semplice chiave d'ottone, senza nessuna iscrizione o segno di
+alcun genere.    
+~
+#7903
+tesoro monete~
+un immenso tesoro~
+C'e' un immenso tesoro qui. Sembra di discreto valore.~
+~
+20 0 1
+1000 0 0 0 100 100
+10 0 0 0 0 0
+E
+tesoro~
+Sembra essere costituito da una montagna di monete, anche se ti aspettavi di
+trovarne di piu'.    
+~
+#7904
+cassa legno~
+una cassa di legno~
+Una cassa di legno e' qui in un angolo.~
+~
+15 0 0
+100 15 7902 0 100 100
+0 0 0 0 0 0
+E
+cassa legno~
+E' una robusta cassa fatta di piccole e spesse tavole di legno inchiodate
+assieme.  Ha una semplice serratura d'ottone.    
+~
+#7905
+cassa~
+una cassa~
+Una pesante cassa di ferro si trova nell'angolo della stanza.~
+~
+15 32 0
+15 15 7902 0 100 100
+0 0 0 0 0 0
+#7906
+pugnale nero comune~
+un comune pugnale~
+Un lungo pugnale nero, molto comune, si trova qui.~
+~
+5 73896 8193
+0 5 3 1 100 100
+8 6500 15000 0 0 0
+A
+18 -3
+A
+19 -1
+#7907
+bracciale chiodato~
+un ampio bracciale chiodato~
+Un ampio bracciale chiodato e' stato abbandonato qui.~
+~
+11 64 4097
+0 0 0 0 40 40
+10 1900 190 0 0 0
+A
+25 4
+#7908
+pane via~
+un pan di via~
+Del pan di via e' stato lasciato qui a terra.~
+~
+19 0 1
+8 0 0 0 10 10
+1 50 5 0 0 0
+E
+pane via~
+Il pan di via e' il cibo tradizionale degli elfi viaggiatori.  Lo chiamano
+lembas.  Si dice che sia molto nutritivo.    
+~
+#7909
+anello oro~
+un anello d'oro~
+Uno splendente anello d'oro e' stato abbandonato qui.~
+~
+11 102440 3
+0 0 0 0 90 90
+1 3500 2000 0 0 0
+A
+3 1
+A
+24 -3
+#7910
+lama paladino~
+La lama del paladino~
+Una lunga lama con le rune dei paladini splende in terra.~
+~
+5 80960 8193
+1 8 5 10 100 100
+10 30000 3000 50 0 0
+E
+spada bastarda~
+E' un'arma abbastanza pesante con una impugnatura bianca.
+~
+A
+25 4
+#7911
+elmo grosso~
+un grosso elmo~
+C'e' un grosso elmo sul pavimento.~
+~
+9 65600 17
+7 0 0 0 100 100
+20 70000 7000 35 0 0
+E
+grosso elmo~
+Sembra poter fornire una buona protezione per la testa.
+~
+A
+21 -3
+#7912
+elmo caos~
+un elmo del caos~
+Sul pavimento si trova un grande e sinistro elmo del caos.~
+~
+9 66144 17
+8 0 0 0 100 100
+18 40000 6000 0 0 0
+E
+caos elmo~
+Questo elmo ha alcuni spuntoni nella parte frontale.  Sembra comunque poter
+fornire una buona protezione.    
+~
+A
+24 -2
+#7913
+spadone mani~
+uno spadone a due mani~
+Sul pavimento si trova un enorme spadone a due mani.~
+~
+5 71232 8193
+0 4 6 0 100 100
+22 70000 6500 30 0 0
+E
+spadone mani~
+Noti che la lama dell'arma e' stata incisa con alcune rune e decorata con delle
+fiamme stilizzate.    
+~
+E
+rune~
+Sulla lama puoi leggere 'Fiamma e Forza unite sono il Mio Potere'.
+~
+#7914
+corazza piastre argento~
+una corazza di piastre d'argento~
+C'e' una corazza di piastre d'argento sul pavimento.~
+~
+9 68672 9
+16 0 0 0 70 70
+15 100000 20000 40 0 0
+E
+corazza piastre argento~
+Sulla corazza di piastre noti un'incisione rappresentante una grossa rosa.  Il
+metallo dell'armatura sembra essere argento o platino.    
+~
+#7915
+gambali piastre argentati~
+dei gambali di piastre argentati~
+Sul pavimento vedi dei gambali di piastre argentati.~
+~
+9 68672 33
+14 0 0 0 60 60
+10 70000 15000 40 0 0
+E
+gambali piastre argentati~
+Sembrano essere fatti d'argento o platino.  Su di essi noti un'incisione
+rappresentante una rosa.    
+~
+A
+19 1
+#7916
+guanti argento~
+un paio di guanti d'argento~
+Vedi un paio di guanti d'argento sul pavimento.~
+~
+9 68672 129
+13 0 0 0 50 50
+14 50000 7000 0 0 0
+E
+guanti argento~
+I guanti sono fatti di fili d'argento.
+~
+A
+18 1
+#7917
+elmo argento~
+un elmo d'argento~
+Un elmo d'argento giace qui.~
+~
+9 68672 17
+13 0 0 0 60 60
+10 90000 9000 40 0 0
+E
+elmo argento~
+L'elmo e' fatto di platino ed argento ed ha un pennacchio bianco in cima.    
+~
+A
+13 20
+#7918
+scudo rosa~
+lo scudo della rosa~
+Lo scudo della rosa si trova qui a terra.~
+~
+9 68672 513
+15 0 0 0 100 100
+15 100000 20000 40 0 0
+E
+scudo rosa~
+Sullo scudo e' stata dipinta una magnifica rosa rossa su fondo bianco.  Vedi
+anche un'iscrizione.    
+~
+E
+iscrizione~
+L'iscrizione recita:
+
+Pax Est Sanctuum
+~
+#7919
+stivali pesanti piastre~
+un paio di pesanti stivali di piastre~
+Un paio di pesanti stivali di piastre si trova qui sul pavimento.~
+~
+9 68672 65
+13 0 0 0 60 60
+10 70000 10000 40 0 0
+E
+pesanti stivali piastre~
+Gli stivali sono fatti con un metallo color argento.
+~
+A
+22 -4
+#7920
+parabraccia piastre argentati~
+dei parabraccia di piastre argentati~
+Sul pavimento vedi dei parabraccia di piastre.~
+~
+9 68672 257
+6 0 0 0 70 70
+10 100000 10000 40 0 0
+E
+parabraccia piastre argentati~
+Sembrano essere d'argento o di platino.  Su di essi e' stata incisa una rosa
+stilizzata.    
+~
+A
+23 -4
+#7921
+barile acqua~
+un barile~
+Un barile d'acqua e' stato lasciato qui.~
+~
+17 0 1
+40 40 15 0 100 100
+45 1000 20 0 0 0
+#7970
+statua paladino Lyer~
+Una statua raffigurante un Paladino~
+Una statua raffigurante un Paladino si mostra in tutta la sua bellezza.~
+~
+8 0 0
+0 0 0 0 0 0
+1 0 0 0 0 0
+E
+incisione~
+&5Qualcuno che pur non avendo la tua virtu', ti ammirava e amava stare al tuo fianco
+&7Katakis&0
+~
+E
+statua~
+Quando guardi meglio la statua del Paladino, noti una &1targa&0 posta sul piedistallo
+Una piccola &5incisione&0 e' nascosta fra la polvere.
+~
+E
+targa~
+Questa statua ricorda le gesta del prode Lyer di Lamorka, Paladino di queste terre che nessuno mai dimentichera'.
+Possano le sue virtu' e la sua memoria trasmettersi nei secoli per dare esempio alle generazioni future
+~
+$~

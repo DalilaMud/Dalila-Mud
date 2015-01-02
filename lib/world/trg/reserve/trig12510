@@ -1,0 +1,43 @@
+trigedit 12510
+6  
+/c 
+if %assalta% != 0 && %piazzato% != on
+%assalta% 5
+set piazzato on
+global piazzato
+set casa %self.room%
+global casa
+end
+if %piazzato% == on
+eval timer %timer% + 1
+global timer
+eval vita %vita% + 1
+global vita
+if %vita% > 200
+unset vita
+mgoto 2
+mpurge
+sit
+end
+end
+if %random% < 12
+eval back %back% + 1
+global back
+if %random% == 1
+n
+elseif %random% == 2
+s
+elseif %random% == 3
+w
+elseif %random% == 4
+e
+end
+end
+if %back% > 6
+mgoto %casa%
+unset back
+end
+~
+/s
+q
+y

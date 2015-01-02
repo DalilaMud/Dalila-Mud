@@ -1,0 +1,75 @@
+trigedit 12551
+6  
+/c 
+sit
+if %actor.name% == %1% || %actor.name% == %2% || %actor.name% == %3% || %actor.name% == %4% || %actor.name% == %5%
+if %speech% /= prendi
+set %speech%
+%speech%
+mat 1 put %prendi% in merce
+end
+if %speech% /= posa
+set %speech%
+mat 1 get %posa% in merce
+%speech%
+get merce
+end
+end
+if %speech% == proprietario
+wait 3
+if %1% == 0
+nod
+mload obj 12600
+wait 3
+set 1 %actor.name%
+global 1
+else
+say Ho gia' un proprietario!
+end
+end
+if %actor.name% == %1%
+if %speech% == cambia permessi
+set cambio on
+global cambio
+wait 4
+say Che numero? (2-5)
+end
+if %cambio% == on
+if %speech% > 1 && %speech% < 6
+set cambio %speech%
+global cambio
+wait 5
+say Bene, che il nuovo privilegiato si faccia avanti (&1Say eccomi&0)
+end
+end
+end
+if %speech% == eccomi
+if %cambio% > 1 && %cambio% < 6 
+set %cambio% %actor.name%
+global %cambio
+wait 5
+say Salve a voi, %actor.name%
+unset cambio
+end
+end
+if %speech% == permessi
+wait 3
+say 1- Proprietario: %1%
+say Privilegiati:
+say 2- %2%
+say 3- %3%
+say 4- %4%
+say 5- %5%
+end
+if %speech% == annulla
+if %cambio% != 0
+wait 4
+nod
+unset cambio
+end
+end
+follow cassa
+~
+/s
+q
+y

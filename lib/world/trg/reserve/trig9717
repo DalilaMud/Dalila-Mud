@@ -1,0 +1,82 @@
+trigedit 9717
+6  
+/c 
+if %speech% == ferramenta
+mload mob 12606
+wait 3
+say funzionario %actor.name%
+wait 6
+say segui %actor.name%
+end
+if %speech% == comandi
+wait 5
+say Eccoli:  comandi, progetto, notifica, contratto, addestramento, stipendio, premio 
+elseif %speech% == progetto
+nod
+wait 5
+mload obj 61
+give progetto %actor.name%
+wait 5
+say ecco a voi un Progetto reale
+elseif %speech% == contratto
+nod
+wait 5
+mload obj 90
+give progetto %actor.name%
+wait 5
+say eccovi un Contratto per vendere una abitazione
+elseif %speech% == addestramento
+wait 5
+mload obj 12581
+give adde %actor.name%
+eval debito %debito% + 25000
+global debito
+elseif %speech% == premio
+wait 5
+mload obj 12580
+eval debito %debito% + 10000
+global debito
+elseif %speech% == stipendio
+mload obj 12582
+eval debito %debito% + 5000
+global debito
+elseif %speech% == notifica
+wait 1 s
+mload obj 62
+give notifica %actor.name%
+elseif %speech% == buono
+wait 2
+nod
+wait 5
+mload obj 63
+give buono %actor.name%
+wait 1 s
+say ecco a voi un Buono Reale
+eval buoni %buoni% + 1
+global buoni
+elseif %speech% == credito
+wait 1 s
+if %buoni% == 0
+say non vi sono buoni da riscattare dalle casse del regno, Lord %Actor.name%
+else
+say Sono stati ritirati %buoni% buoni da 10k
+end
+wait 5
+say Mentre il debito da pagare causato dal mantenimento delle truppe e' di %debito%
+end
+if %speech% == azzera 
+if %actor.name% == Feanor
+nod
+wait 5
+emote strappa una pergamena
+unset buoni
+unset debito
+else
+say non puo' ordinarmi questo, sir %actor.name%
+end
+end
+give all %actor.name%
+~
+/s
+q
+y

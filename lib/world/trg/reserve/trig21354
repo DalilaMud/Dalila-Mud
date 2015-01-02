@@ -1,0 +1,13 @@
+trigedit 21354
+6  
+/c 
+if !(actor.has_item(51016))
+ halt
+else
+ wforce %actor.name% esamina nicchia
+ wload obj 51016
+end
+~
+/s
+q
+y

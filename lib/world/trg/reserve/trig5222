@@ -1,0 +1,78 @@
+trigedit 5222
+6  
+/c 
+%door% 5200 east flags ab
+%door% 5201 west flags ab
+%door% 5216 west flags ab
+%door% 5217 east flags ab
+%door% 5223 west flags abe
+%door% 5224 east flags abe
+%door% 5261 west flags ab
+%door% 5263 east flags ab
+%door% 5261 east flags ab
+%door% 5262 west flags ab
+%door% 5264 north flags ab
+%door% 5267 south flags ab
+%door% 5284 south flags ab
+%door% 5285 north flags ab
+%door% 5285 west flags ab
+%door% 5287 east flags ab
+%door% 5285 east flags ab
+%door% 5286 west flags ab
+%door% 5287 down flags abe
+%door% 5299 up flags abe
+%door% 5292 up flags abe
+%door% 5280 down flags abe
+%door% 5297 east flags abe
+%door% 5288 west flags abe
+%door% 5229 east flags abe
+%door% 5225 south flags abcd
+%door% 5207 north flags abcd
+%door% 5233 north flags ab
+%door% 5234 south flags ab
+%door% 5239 north flags abcdh
+%door% 5238 south flags abcdh
+%door% 5211 east flags ab
+%door% 5211 north flags ab
+%door% 5212 south flags ab
+%door% 5268 east flags ab
+%door% 5269 west flags ab
+%door% 5268 west flags ab
+%door% 5260 east flags ab
+%door% 5271 north flags ab
+%door% 5273 south flags ab
+%door% 5271 east flags ab
+%door% 5271 west flags ab
+%door% 5272 east flags ab
+%door% 5274 west flags ab
+%door% 5248 east flags ab
+%door% 5249 west flags ab
+%door% 5247 east flags ab
+%door% 5248 west flags ab
+%door% 5253 east flags ab
+%door% 5254 west flags ab
+%door% 5257 north flags ab
+%door% 5253 south flags ab
+%door% 5252 north flags ab
+%door% 5252 south flags ab
+%door% 5247 south flags ab
+%door% 5256 north flags ab
+%door% 5247 west flags ab
+%door% 5255 north flags ab
+%door% 5250 east flags ab
+%door% 5251 west flags ab
+%door% 5251 south flags ab
+%door% 5245 east flags ab
+%door% 5246 west flags ab
+%door% 5246 east flags ab
+%door% 5255 up flags abe
+%door% 5258 flags abe
+%door% 12005 west flags ab
+%door% 5260 north purge
+%door% 5260 east purge
+%door% 5260 west purge
+%door% 5296 up flags e
+~
+/s
+q
+y

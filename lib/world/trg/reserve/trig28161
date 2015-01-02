@@ -1,0 +1,27 @@
+trigedit 28161
+6  
+/c 
+if %actor.name% == %self.name%
+say %arg%
+else
+%force% %actor% say %arg%
+end
+if %actor.name% == %mandante%
+if %stato% == attivo
+set vittima %arg%
+global vittima
+set stato caccia
+global stato
+mremember %vittima% say Ah finalmente ti ho trovato %vittima%!!!
+wait 1 s
+say Bene da oggi daro' la caccia a %vittima% ...presto lo vedrai penzolare in quella gabbia!!!
+wait 1 s
+grin
+wait 1 s
+say Non si accettano reclami di nessun tipo ...fuori dai piedi ora mi devo preparare!
+end
+end
+~
+/s
+q
+y

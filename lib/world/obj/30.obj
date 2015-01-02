@@ -1,0 +1,578 @@
+#3000
+bottiglia liquore~
+una bottiglia di liquore~
+Una bottiglia e' qui.~
+~
+17 0 1
+5 5 5 0 100 100
+10 100 0 1 0 0
+#3001
+birra boccale~
+un boccale~
+Un boccale e' qui.~
+~
+17 0 1
+2 2 1 0 10 100
+7 10 0 1 0 0
+#3002
+barile birra~
+un barile di birra scura~
+Un barile di legno e' qui.~
+~
+17 0 1
+20 18 1 0 100 100
+23 200 0 1 0 0
+#3003
+ciotola patate~
+una ciotola di patate speziate~
+Una ciotola di patate e' qui~
+~
+19 0 1
+6 0 0 0 10 10
+1 100 0 1 0 0
+#3004
+carne salata~
+un pezzo di carne salata~
+Un pezzo di carne salta e' qui~
+~
+19 0 1
+8 0 0 0 10 10
+1 400 0 1 0 0
+E
+carne salata~
+Carne animale di ottima qualita' conservata sotto un leggero strato di sale
+marino che ne mantiene intatto l'aroma.
+~
+#3005
+botte birra chiara~
+una botte di birra chiara~
+Una grande botte e' qui~
+~
+17 0 1
+35 35 1 0 10 10
+40 600 0 1 0 0
+#3006
+fiasca vino~
+una fiasca di vino elfico~
+Una fiasca di pelle e' qui~
+~
+17 0 1
+10 6 2 0 10 10
+11 300 0 1 0 0
+#3007
+piatto spezzatino~
+un piatto di spezzatino~
+Un piatto di spezzatino e' qui~
+~
+19 0 1
+10 0 0 0 10 10
+4 500 0 1 0 0
+E
+piatto spezzatino~
+Un caldo piatto di carne tagliata a pezzi e ben arrostita assieme ad una densa
+e profumata salsa arancione.
+~
+#3008
+cinghiale arrosto~
+un pezzo di cinghiale arrosto~
+Un pezzo di cinghiale arrosto~
+~
+19 0 1
+8 0 0 0 10 10
+3 300 0 1 0 0
+E
+cinghiale arrosto~
+Un cucciolo di cinghiale, ben cotto e molto succulento ti stuzzica il 
+palato e l'odorato.
+~
+#3009
+piatto fagioli~
+un piatto di fagioli~
+Un piatto di fagioli e' qui.~
+~
+19 0 1
+4 0 0 0 10 10
+3 200 0 1 0 0
+E
+piatto fagioli~
+Tre o quattro tipi di fagioli si amalgano perfettamente tra di loro nella piu'
+classica (e rumorosa) pietanza.
+~
+#3010
+arrosto cacciagione~
+un arrosto di cacciagione~
+Un arrosto misto e' qui.~
+~
+19 0 1
+16 0 0 0 10 10
+3 310 0 1 0 0
+E
+arrosto cacciagione~
+I migliori caccaitori della daresia fanno a gara per procurare del cibo come
+questo.
+~
+#3011
+pollo arrosto~
+un pollo arrosto~
+Un pollo arrosto e' qui ~
+~
+19 0 1
+15 0 0 0 10 10
+2 750 0 1 0 0
+E
+pollo arrosto~
+Ruspante, ghiotto, classico. La sua fragrante pelle e il suo appetitoso contenuto
+si sciolgono in bocca in una armonia di sapori.
+~
+#3012
+insalata~
+un'insalata mista~
+Una ciotola di insalata e' qui~
+~
+19 0 1
+5 0 0 0 10 10
+1 250 0 1 0 0
+E
+insalata~
+Una bacinella di leggio itasata di insalata mista. Alcune foglie le riesci a riconoscere
+altre no ma dall'aspetto sembra tutto abbastanza comemstibile.
+~
+#3013
+patate piatto arrosto~
+un piatto di patate arrosto~
+Un piatto di patate e' qui~
+~
+19 0 1
+9 0 0 0 10 10
+2 450 0 1 0 0
+E
+patate piatto arrosto~
+Fumanti e ben calde. Attento a non scottarti il gozzo.
+~
+#3014
+bicchiere~
+un bicchiere di vino~
+Un bicchiere e' qui~
+~
+17 0 1
+2 1 2 0 10 10
+1 35 0 1 0 0
+#3015
+fiasco vino~
+un fiasco di vino~
+Un fiasco da vino e' qui~
+~
+17 0 1
+9 6 2 0 10 10
+11 210 0 1 0 0
+#3016
+botte succo bacche~
+una botte di succo di bacche~
+Una botte dilegno e' qui~
+~
+17 0 1
+30 25 6 0 10 10
+30 500 0 1 0 0
+#3017
+bicchiere liquore ~
+un bicchiere di liquore nanico~
+Un bicchiere e' qui~
+~
+17 0 1
+2 1 7 0 100 100
+1 40 0 1 0 0
+#3018
+boccale birra rossa~
+un boccale di birra rossa~
+Un boccale e' qui~
+~
+17 0 1
+6 5 3 0 100 100
+10 65 0 1 0 0
+#3019
+bottiglia vino rosso~
+una bottiglia di vino rosso~
+Una bottiglia di vino e' qui~
+~
+17 0 1
+8 7 2 0 100 100
+12 123 0 1 0 0
+#3020
+barilotto salamoia~
+un barilotto di salamoia~
+Un barilotto di salamoia e' qui.~
+~
+17 0 1
+20 10 14 0 100 100
+15 200 0 1 0 0
+#3021
+borraccia whisky~
+una borraccia di whisky~
+Una borraccia di pelle e' qui~
+~
+17 0 1
+0 0 5 0 100 100
+2 148 0 1 0 0
+#3022
+bicchiere specialita'~
+un bicchiere della specialita' della casa~
+Un bicchiere con un liquido strano e' qui.~
+~
+17 0 1
+2 1 8 0 100 100
+1 30 0 1 0 0
+#3023
+semi girasole~
+dei semi di girasole~
+Un mucchietto di semi e' qui.~
+~
+19 0 1
+4 0 0 0 100 100
+2 200 0 1 0 0
+E
+semi girasole~
+Un sacchettino di semi. Un colore azzurro elegante dipinge questi semi. Azzurri?
+ma che razza di girasoli ci sono in giro?
+~
+#3024
+focaccia~
+una focaccia~
+Una focaccia calda e' qui~
+~
+19 0 1
+7 0 0 0 100 100
+1 90 0 1 0 0
+#3025
+mazzo grissini~
+un mazzo di grissini~
+Un mucchietto di grissini sono qui~
+~
+19 0 1
+2 0 0 0 100 100
+2 17 0 1 0 0
+#3026
+trancio pizza~
+un trancio di pizza~
+Un pezzo di pizza e' qui~
+~
+19 0 1
+10 0 0 0 100 100
+2 125 0 1 0 0
+#3027
+pane~
+un pane~
+Un pane appena sfornato e' qui~
+~
+19 0 1
+8 0 0 0 100 100
+3 100 0 1 0 0
+#3028
+galletta~
+una galletta~
+Una galletta e' qui~
+~
+19 0 1
+20 0 0 0 100 100
+1 475 0 1 0 0
+#3029
+ciaccino olive pezzo~
+un pezzo di ciaccino alle olive~
+Un pezzo di ciaccino e' qui~
+~
+19 0 1
+11 0 0 0 100 100
+2 140 0 1 0 0
+#3030
+treccia pane~
+una treccia di pane~
+Una treccia di pane e' qui~
+~
+19 0 1
+8 0 0 0 100 100
+2 100 0 1 0 0
+#3031
+panino~
+un panino~
+Un panino e' qui.~
+~
+19 0 1
+5 0 0 0 100 100
+1 60 0 1 0 0
+#3032
+tazza te'~
+una tazza di te' aromatico~
+Una tazza di te' e' qui~
+~
+17 0 1
+3 2 11 0 100 100
+2 130 0 1 0 0
+#3033
+tazzina caffe'~
+una tazzina di caffe' della peppina~
+Una tazzina di caffe' e' qui~
+~
+17 0 1
+2 1 12 0 100 100
+1 150 0 1 0 0
+#3034
+bicchiere latte~
+un bicchiere di latte fresco~
+Un bicchiere di latte e' qui~
+~
+17 0 1
+5 4 10 0 100 100
+9 85 0 1 0 0
+#3035
+boccale vino~
+una boccale di vino caldo~
+Un boccale di vino e' qui~
+~
+17 0 1
+6 6 2 0 100 100
+11 257 0 1 0 0
+#3036
+bottiglia vino~
+una bottiglia di pregiato vin brule'~
+Una bottiglia di vino pregiato e' qui~
+~
+17 0 1
+6 5 2 0 100 100
+10 245 0 1 0 0
+#3037
+cocacola~
+Una coca cola~
+Una coca cola e' qui.~
+~
+17 0 1
+1 1 8 0 100 100
+16 132 0 1 0 0
+#3038
+zattera~
+una zattera~
+Una pesante zattera e' qui~
+~
+22 0 1
+0 0 0 0 100 100
+50 540 0 1 0 0
+#3039
+canoa~
+una canoa~
+Una canoa e' qui~
+~
+22 0 1
+0 0 0 0 100 100
+50 960 0 1 0 0
+#3040
+imbarcazione leggera~
+una leggera imbarcazione~
+Una leggera barca e' qui~
+~
+22 0 1
+0 0 0 0 100 100
+15 1400 0 1 0 0
+#3041
+barca vela~
+una leggerissima barca a vela~
+Una piccola barca a vela e' qui~
+~
+22 0 1
+0 0 0 0 100 100
+8 2400 0 1 0 0
+#3042
+contenitore acqua~
+Un contenitore d'acqua~
+Un contenitore d'acqua e' qui.~
+~
+17 0 1
+12 12 0 0 100 100
+17 70 0 1 0 0
+#3043
+nassa~
+una nassa~
+Una nassa e' qui~
+~
+15 0 65537
+12 0 0 0 100 100
+2 132 0 1 0 0
+#3044
+boccale grog~
+un boccale di Grog~
+Un boccale e' qui~
+~
+17 0 1
+3 3 7 0 100 100
+3 172 0 1 0 0
+#3045
+barilotto specialita'~
+un barilotto della specialita' della casa~
+Un barilotto di legno marcio e' qui.~
+~
+17 0 1
+12 2 7 0 100 100
+12 540 0 1 0 0
+#3046
+bottiglia distillato~
+una bottiglia di distillato~
+Una bottiglia e' qui~
+~
+17 0 1
+5 5 5 0 100 100
+10 140 0 1 0 0
+#3047
+vasetto alici~
+un vasetto di alici salate~
+Un vasetto di alici e' qui~
+~
+19 0 1
+1 0 0 0 100 100
+1 10 0 1 0 0
+#3048
+barile birra chiara~
+un barile di birra chiara~
+Un barile e' qui~
+~
+17 0 1
+13 12 4 0 100 100
+17 321 0 1 0 0
+#3049
+pasta cioccolato~
+una pasta al cioccolato~
+Una pasta e' qui~
+~
+19 0 1
+6 0 0 0 100 100
+1 65 0 1 0 0
+#3050
+dito crema~
+un dito ripieno di crema~
+Un dito alla crema e' qui.~
+~
+19 0 1
+4 0 0 0 100 100
+1 35 0 1 0 0
+#3051
+profitterol cioccolato~
+un profitterol al cioccolato~
+Un profitterol ricoperto di cioccolato e' qui.~
+~
+19 0 1
+11 0 0 0 100 100
+3 140 0 1 0 0
+#3052
+millefoglie crema~
+un millefoglie alla crema~
+Un millefoglie e' qui.~
+~
+19 0 1
+8 0 0 0 100 100
+4 100 0 1 0 0
+#3053
+tavola cioccolato nocciole~
+una tavola di cioccolato alle nociole~
+Una tavoletta di cioccolato e' qui~
+~
+19 0 1
+9 0 0 0 100 100
+2 105 0 1 0 0
+#3054
+tortina gelatina~
+una tortina di gelatina e frutta~
+Una tortina dolce e' qui~
+~
+19 0 1
+4 0 0 0 100 100
+1 200 0 1 0 0
+#3055
+torta gelato~
+una torta di gelato a quattro piani~
+Una torta di quattro piani e' qui.~
+~
+19 0 1
+20 0 0 0 100 100
+12 475 0 1 0 0
+#3056
+torcia~
+una torcia~
+Una torcia spenta e' qui~
+~
+1 0 1
+0 0 12 0 100 100
+1 60 0 1 0 0
+#3057
+lanterna petrolio~
+una lanterna a petrolio~
+Una lanterna spenta e' qui~
+~
+1 0 1
+0 0 30 0 100 100
+3 50 0 1 0 0
+#3058
+manette~
+delle manette~
+Dei bracciali luccicano a terra.~
+~
+67 67108864 16385
+0 0 0 0 100 100
+1 200 0 1 0 0
+#3059
+zaino lavoro~
+uno zaino da lavoro~
+Uno zaino da lavoro e' qui~
+~
+15 0 65537
+200 0 -1 0 100 100
+2 40 0 1 0 0
+#3060
+borsa cintura~
+una borsa da cintura~
+Una borsa da cintura e' qui~
+~
+15 0 2049
+80 0 0 0 100 100
+1 100 0 1 0 0
+#3061
+manganello~
+un manganello~
+Un manganello e' qui~
+~
+68 0 16385
+0 0 0 0 100 100
+3 1000 0 1 0 0
+#3062
+Benda~
+Una benda~
+Una benda e' qui~
+~
+69 0 278529
+0 0 0 0 100 100
+0 20 0 1 0 0
+#3063
+piatto~
+un piatto vuoto~
+Un piatto vuoto e' stato lasciato qui.~
+~
+13 0 1
+0 0 0 0 100 100
+1 3 0 1 0 0
+#3096
+Bacheca anticrash2~
+La bacheca dei mestieri~
+La bacheca dei mestieri e' qui~
+~
+13 0 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+#3098
+libro~
+il grande libro dell'immortalita'~
+Il grande libro dell'immortalita' e' appoggiato su un leggio d'oro.~
+Le parole degli Dei........
+~
+13 0 0
+0 0 0 0 50 50
+0 0 0 1 0 0
+E
+libro~
+Le parole degli Dei........
+~
+$~

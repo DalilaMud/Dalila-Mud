@@ -1,0 +1,13 @@
+trigedit 12552
+6  
+/c 
+mload mob 12601
+drop merce
+mforce %actor.name% look in merce
+get merce
+mforce vittima mgoto 2
+mat 2 mpurge
+~
+/s
+q
+y

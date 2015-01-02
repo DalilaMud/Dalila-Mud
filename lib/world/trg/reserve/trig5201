@@ -1,0 +1,58 @@
+trigedit 5201
+6  
+/c 
+eval cast %random.10%
+if (%cast% == 1)
+dg_cast 'shocking grasp' %random.char%
+dg_cast 'blade barrier' %random.char%
+dg_cast 'sleep' %random.char%
+end
+if (%cast% == 2)
+dg_cast 'color spray' %random.char%
+dg_cast 'cone of cold' %random.char%
+dg_cast 'silence' %random.char%
+end
+if (%cast% == 3)
+dg_cast 'poison' %random.char%
+dg_cast 'chill touch' %random.char%
+dg_cast 'levitate' %random.char%
+end
+if (%cast% == 4)
+dg_cast 'paralize' %random.char%
+dg_cast 'lightning bolt' %random.char%
+dg_cast 'peace' %random.char%
+end
+if (%cast% == 5)
+dg_cast 'disintegrate' %random.char%
+dg_cast 'minute meteor' %random.char%
+dg_cast 'fear' %random.char%
+end
+if (%cast% == 6)
+dg_cast 'energy drain' %random.char%
+dg_cast 'harm' %random.char%
+dg_cast 'time distortion' %random.char%
+end
+if (%cast% == 7)
+dg_cast 'chain lightning' %random.char%
+dg_cast 'blindness' %random.char%
+dg_cast 'magic missile' %random.char%
+end
+if (%cast% == 8)
+dg_cast 'fireshield' %random.char%
+dg_cast 'fear' %random.char%
+dg_cast 'acid arrow' %random.char%
+end
+if (%cast% == 9)
+dg_cast 'flame arrow' %random.char%
+dg_cast 'earthquake' %random.char%
+dg_cast 'call lightning' %random.char%
+end
+if (%cast% == 10)
+dg_cast 'fireball' %random.char%
+dg_cast 'burning hands' %random.char%
+dg_cast 'curse' %random.char%
+end
+~
+/s
+q
+y

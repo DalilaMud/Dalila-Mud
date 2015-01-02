@@ -1,0 +1,77 @@
+trigedit 2056
+6  
+/c 
+if %object.vnum% == 559
+ wait 1 s
+ emo sibila frasi di profondo sdegno
+ wait 2 s
+ say Credevi di prenderti gioco di Shaarr stupido %actor.name%? Ella ti punira'!
+ set missione 0
+ global missione
+ halt
+elseif %object.vnum% != 558
+ halt
+end
+if %actor.name% != %pg%
+ wait 2 s
+ say La missione fu affidata a %pg%, Shaarr non ti concedera' alcuna ricompensa %actor.name%!    
+ set missione 0
+ global missione
+ halt
+end
+wait 2 s
+emo sogghigna soppesando il cuore...
+wait 2 s
+say Vedo che il nostro nemico ha assaggiato l'ira di Shaarr per mano tua, %pg%.
+wait 1 s
+say Shaarr ha deciso di ricompensarti per la tua dedizione a Lei!
+wait 1 s
+set missione 0
+global missione
+mat xxxxxx drop all
+if %actor.level% < 20
+ set livello 15
+elseif %actor.level% < 40
+ set livello 35
+else
+ set livello 55
+end
+eval moltip %random.10%
+eval divisore %random.10%
+eval premio %livello%*10
+eval premio %premio%*%moltip%
+eval premio %premio%/%divisore%
+global premio
+if %premio% <= 400
+ mload obj 2039
+ give teschio %pg%
+ posa teschio
+ wait 1 s
+ bow %pg%
+ halt
+elseif %premio% <= 800
+ mload obj 2040
+ give teschio %pg%
+ posa teschio
+ wait 1 s
+ bow %pg%
+ halt
+elseif %premio% <= 950
+ mload obj 2041
+ give teschio %pg%
+ posa teschio
+ wait 1 s
+ bow %pg%
+ halt
+else
+ mload obj 2042
+ give teschio %pg%
+ posa teschio
+ wait 1 s
+ bow %pg%
+ halt
+end
+~
+/s
+q
+y

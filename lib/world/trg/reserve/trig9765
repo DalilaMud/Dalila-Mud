@@ -1,0 +1,22 @@
+trigedit 9765
+6  
+/c 
+unset lock
+if %object.vnum% == 9855
+set lock off
+global lock
+end
+If %lock% == off
+wait 2 s
+wecho &1&xAppena %actor.name% infila il bastone nella fessura si inizia a sentire uno scricchiolio&0
+wait 2 s
+wecho &1&xIl bastone inizia a ruotare su se stesso come fosse preso in mezzo a degli ingranaggi&0
+wait 2 s
+wecho &1&xIl meccanismo si ferma. Una scala si apre nel pavimento&0
+wdoor 9765 down room 9823
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,16 @@
+trigedit 1499
+6  
+/c 
+wait 3 s
+if %actor.name% != alhandir
+halt
+end
+osend alhandir &7&xSenti il potere della Luce sorgere nella tua mente, e fluire attraverso le tue mani&0
+wait 2 s
+oechoaround %arg% &7&x%arg% viene circondato dalla pura Luce accecante di Silue&0
+osend %arg% &7&xOra la Luce di Silue e' con te e non devi piu' temere nulla&0
+dg_affect %arg% sanct 0 5
+~
+/s
+q
+y

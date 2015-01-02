@@ -1,0 +1,1583 @@
+#21000
+oscagne~
+Oscagne~
+Oscagne e' qui, l'unico suo interesse e' la filosofia.
+~
+Oscagne sprigiona un'aura di sapere.
+~
+~
+~
+~
+10 128 1000 -1 -1 -1 -1 -1 E
+50 0 10 5d10+10000 1d8+3
+26 50000
+6 6 1
+Spec: 0
+E
+#21001
+harry farmacista~
+Harry il Farmacista~
+Harry il Farmacista e' occupato ad accendere incenso e a cantare.
+~
+Harry e' un uomo basso con la testa pelata.
+~
+~
+~
+~
+24586 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+45 80000
+8 8 1
+Spec: 0
+E
+#21002
+wally mago~
+Wally il Mago~
+Wally il Mago e' impegnato a giocare coi suoi articoli magici.
+~
+Wally e' un vecchio coi capelli lunghi con una predilezione per i vecchi e
+insoliti articoli magici. Quando lo guardi, non sembra essere completamente
+qui.
+~
+~
+~
+~
+8202 0 1000 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+46 80000
+8 8 1
+Spec: 0
+E
+#21003
+soldato uomo chiesa~
+un soldato della chiesa~
+Un Soldato della Chiesa e' qui.
+~
+Reclutato dagli ecclesiastici di Chyrellos, non c'e' nessuno cosi' poco
+rispettabile come questo soldato.
+~
+~
+~
+~
+10 0 800 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+600 3d8+8
+34 29000
+8 8 1
+E
+#21004
+guardia~
+una guardia~
+Una guardia sta gironzolando qui intorno.
+~
+Puoi notare che questa persona non e' molto concentrata nel suo lavoro
+e tende a guardare da un'altra parte. Sembra piu' interessato ai propri
+affari che a proteggere la citta'.
+~
+~
+~
+~
+10 0 800 -1 -1 -1 -1 -1 E
+25 11 1 1d1+360 2d10+5
+14 29000
+8 8 1
+E
+#21005
+rapinatore~
+il rapinatore~
+Un rapinatore sta pensando di prenderti vita e denaro.
+~
+Guidato da un bisogno disperato, questa reietto della societa' sta pensando
+di derubarti. Attento perche' fara' qualunque cosa per derubarti.
+~
+~
+~
+~
+262252 1032 -350 -1 -1 -1 -1 -1 E
+5 18 8 1d1+35 1d8+2
+4 350
+8 8 1
+E
+#21006
+passante~
+un passante~
+Qui c'e' un passante, ha un'aria molto indaffarata.
+~
+Ogni metropoli li ha, cosi' pure Chyrellos. Attento a non disturbarlo.
+~
+~
+~
+~
+8 0 500 -1 -1 -1 -1 -1 E
+2 18 9 2d6+20 1d6+0
+2 200
+8 8 0
+E
+#21007
+norm peterson~
+Norm~
+Norm sta bevendo un'altra birra.
+~
+Norm e' pieno di salute, e' grande e grosso, beve molto ed e' in tuta da
+lavoro; prendi con le molle questo individuo.
+~
+~
+~
+~
+26 0 800 -1 -1 -1 -1 -1 E
+23 11 1 1d1+320 2d9+3
+20 80000
+6 6 1
+E
+#21008
+cliff claven~
+Cliff Claven~
+Cliff se ne sbatte di inutili frivolezze.
+~
+Un lavoratore delle poste che non fa mai il suo lavoro, Cliff e' fuori di
+testa ed e' solito importunare i suoi amici.
+~
+~
+~
+~
+156 0 1000 -1 -1 -1 -1 -1 E
+18 12 4 1d1+210 2d7+3
+18 30000
+8 8 1
+E
+#21009
+carla labeck~
+Carla~
+Carla sta aspettando un tavolo.
+~
+Carla ti tira in faccia un drink.
+~
+~
+~
+~
+12 0 -800 -1 -1 -1 -1 -1 E
+23 11 2 1d1+300 2d8+4
+14 80000
+8 8 2
+E
+#21010
+woody boyd~
+Woody~
+Woody ti sta preparando un drink.
+~
+Un ragazzo proveniente da una fattoria, non si e' ancora completamente
+calato nell'atmosfera della grande citta'.
+~
+~
+~
+~
+8202 0 1000 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+36 80000
+8 8 1
+Spec: 0
+E
+#21011
+mayor abe~
+Mayor Abe~
+Il Sindaco Abe sta ispezionando la citta'.
+~
+Questo alto ufficiale, come la maggior parte degli statisti, sembra non
+essere interessato ad aiutare la comunita'. Si dice che il Sindaco abbia
+stretti contatti con il capo dei mob -- Lucifero.
+~
+~
+~
+~
+72 0 -900 -1 -1 -1 -1 -1 E
+50 3 -8 1d1+800 4d10+10
+48 135000
+8 8 1
+E
+#21012
+rebecca howe~
+Rebecca Howe~
+Rebecca Howe si affretta affinche' le Cheers siano in ordine.
+~
+E' molto impegnata ma e' ancora una bella donna. La maggior parte delle
+sue angosce derivano dalle sue frustrazioni sessuali e dal tentare di
+mantenere in ordine le Cheers.
+~
+~
+~
+~
+72 0 900 -1 -1 -1 -1 -1 E
+20 12 3 1d1+250 2d8+4
+18 80000
+8 8 2
+E
+#21013
+sam malone~
+Sam~
+Sam e' qui, la sua bellezza colpisce le donne.
+~
+Un ex giocatore di baseball molto bello e sicuro in ogni situazione. E'
+molto popolare fra le signore e spesso si trova in situazioni piccanti.
+~
+~
+~
+~
+72 0 900 -1 -1 -1 -1 -1 E
+24 11 1 1d1+345 2d10+4
+17 90000
+8 8 1
+E
+#21014
+frasier crane~
+Frasier~
+Frasier e' qui che psicoanalizza gli avventori del bar.
+~
+Sebbene sia molto emotivamente instabile per essere uno psichiatra, il Dott.
+Crane prova ad aiutare la gente con dei problemi creandosene di propri.
+~
+~
+~
+~
+72 0 900 -1 -1 -1 -1 -1 E
+23 11 2 1d1+310 2d9+4
+14 80000
+8 8 1
+E
+#21015
+lilith sternen crane~
+Lilith~
+Lilith e' seduta al bar, tenendo d'occhio Frasier.
+~
+Esternamente una calma, completa pensatrice razionale e logica, internamente
+una selvaggia , matta, dea del sesso.
+~
+~
+~
+~
+74 0 900 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d9+4
+16 80000
+6 6 2
+E
+#21016
+paul~
+Paul~
+Paul e' qui che beve una birra.
+~
+Paul e' un uomo robusto che tende ad essere un po' infantile quando e' in
+compagnia di Norm e Cliff.
+~
+~
+~
+~
+24 0 800 -1 -1 -1 -1 -1 E
+21 12 3 1d1+270 2d9+4
+16 60000
+8 8 1
+E
+#21017
+gatto del vicolo~
+un gatto del vicolo~
+Un gatto del vicolo sta cercando del cibo.
+~
+Questo e' un gatto indesiderato dalla popolazione ma viene sopportato. Passa
+la maggior parte della giornata a cercare del cibo.
+~
+~
+~
+~
+170 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d6+4 1d4+0
+1 25
+8 8 1
+E
+#21018
+pee wee peewee~
+Pee Wee~
+Pee Wee sta facendo una cosa che non ti piacerebbe sapere.
+~
+Pee Wee e' il proprietario di questo negozio, faresti meglio a non
+pisciargli addosso.
+~
+~
+~
+~
+14 0 -500 -1 -1 -1 -1 -1 E
+20 12 4 1d1+300 2d10+3
+15 8000
+6 6 1
+E
+#21019
+punk~
+il punk~
+Un punk e' qui, sta decidendo di che colore verniciarti la schiena.
+~
+Vedi un punk che e' piu' che disposto a picchiare una vecchia signora
+per qualche buco.
+~
+~
+~
+~
+12 524288 -400 -1 -1 -1 -1 -1 E
+6 15 8 1d12+60 1d8+1
+4 1500
+8 8 1
+E
+#21020
+skinhead head skin~
+lo skinhead~
+Uno skinhead e' qui che sta cercando di uccidere un punk.
+~
+Gli skinheads sono sporchi e cattivi... meglio non fissarli troppo a lungo.
+
+~
+~
+~
+~
+12 0 -500 -1 -1 -1 -1 -1 E
+7 14 7 2d6+80 2d4+1
+5 2250
+8 8 1
+E
+#21021
+prostituta~
+la prostituta~
+Una prostituta ti guarda con occhio languido.
+~
+Quando la guardi ti dice: "Hey baby, facciamo festa?"
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+5 17 7 2d6+30 1d7+1
+4 350
+8 8 2
+E
+#21022
+jonathan hill~
+Jonathan Hill~
+Jonathan Hill is here a dare il benvenuto ai suoi clienti.
+~
+Questo e' il ragazzo malvagio di Melville.
+~
+~
+~
+~
+522 1024 -1000 -1 -1 -1 -1 -1 E
+20 10 3 1d1+200 3d6+1
+12 80000
+8 8 1
+E
+#21023
+vescovo~
+il Vescovo~
+Il Vescovo e' qui cercando di svelare un crimine.
+~
+Da Da Deah (spiacente per i cattivi effetti sonori)! E' il Vescovo!
+~
+~
+~
+~
+88 0 1000 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+475 3d6+6
+28 40000
+8 8 1
+E
+#21024
+lavoratore scaricatore porto~
+the scaricatore di porto~
+Uno scaricatore di porto e' occupato a scaricare delle casse.
+~
+Gli scaricatori di porto sono molto forti e i loro muscoli ti fanno pensare
+due volte prima di attaccarli.
+~
+~
+~
+~
+12 0 500 -1 -1 -1 -1 -1 E
+9 15 7 4d6+70 2d6+2
+7 6000
+8 8 1
+E
+#21025
+prostituta travestito~
+una travestito~
+Una prostituta e' in attesa di clienti.
+~
+Quando la guardi da vicino, ti accorgi che questa non e' un'amabile signora,
+e' solo la personificazione di una donna.
+~
+~
+~
+~
+12 0 -350 -1 -1 -1 -1 -1 E
+5 16 8 1d12+40 2d4+0
+4 900
+8 8 1
+E
+#21026
+ruffiano~
+il ruffiano~
+Un ruffiano e' occupato a contare i soldi per vedere se le sue donne
+l'hanno ingannato.
+~
+Senti il ruffiano recitare una poesia...
+        La puttana migliore ha i miei soldi
+        non alcuni, non meta'
+        ma tutta la mia cassa!
+~
+~
+~
+~
+44 1024 -700 -1 -1 -1 -1 -1 E
+10 14 7 1d1+100 2d6+2
+8 9000
+8 8 1
+E
+#21027
+orco lineman raider~
+un orco lineman~
+Un uomo di linea dei Raiders e' a caccia della palla. 
+~
+Questo e' un uomo di linea degli Orchi. E' un giocatore bilanciato, ma non
+ha abilita' particolari.
+~
+~
+~
+~
+44 0 -700 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+16 4000
+8 8 1
+E
+#21028
+umano lineman warrior~
+un lineman umano~
+Un uomo di linea dei Warriors e' a caccia della palla.
+~
+Questo e' uno degli uomini di linea di Chyrellos. E' un giocatore bilanciato,
+ma non ha abilita' particolari.
+~
+~
+~
+~
+12 0 0 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+15 4000
+8 8 1
+E
+#21029
+orc raider ricevitore~
+un orc ricevitore~
+Un ricevitore dei Raiders e' qui che corre dietro alla palla.
+~
+Questo e' uno dei ricevitori specializzati degli Orchi. E' veloce, ma non
+molto potente.
+~
+~
+~
+~
+12 0 -700 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+16 1500
+8 8 1
+E
+#21030
+umano warrior ricevitore~
+un ricevitore umano~
+Un ricevitore dei Warriors e' qui che corre dietro alla palla.
+~
+Questo e' uno dei ricevitori specializzati dei Warriors. E' veloce, ma non
+molto potente.
+~
+~
+~
+~
+12 0 700 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+10 1500
+8 8 1
+E
+#21031
+orco difensore raider~
+un orco difensore~
+Un difensore dei Raiders sta tentando di pavimentare un sentiero aperto.
+~
+Questo e' il piu' lento (sia fisicamente che mentalmente) dei giocatori.
+Comunque, e' anche molto grosso e potente, cosi' stai attuento quando
+ti azzuffi con lui.
+~
+~
+~
+~
+12 0 -700 -1 -1 -1 -1 -1 E
+22 12 3 1d1+290 2d9+4
+21 13500
+8 8 1
+E
+#21032
+umano difensore warrior~
+un difensore umano~
+Un difensore dei Warriors sta tentando di pavimentare un sentiero aperto.
+~
+Questo e' il piu' lento (sia fisicamente che mentalmente) dei giocatori.
+Comunque, e' anche molto grosso e potente, cosi' stai attuento quando
+ti azzuffi con lui.
+~
+~
+~
+~
+12 0 700 -1 -1 -1 -1 -1 E
+22 12 3 1d1+290 2d9+4
+14 13500
+8 8 1
+E
+#21033
+orc lanciatore raider~
+un orc lanciatore~
+Un lanciatore dei Raider sta tentando un passaggio.
+~
+Similmente ad un quarterback, questo e' un giocatore molto mobile con
+un cannone al posto del braccio.
+~
+~
+~
+~
+12 0 -700 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+16 9000
+8 8 1
+E
+#21034
+umano lanciatore warrior~
+un lanciatore umano~
+Un lanciatore dei Warriors sta tentando un passaggio.
+~
+Similmente ad un quarterback, questo e' un giocatore molto mobile con
+un cannone al posto del braccio.
+~
+~
+~
+~
+12 0 700 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+20 9000
+8 8 1
+E
+#21035
+orc blitzer raider~
+un orc blitzer~
+Un fiero blitzer dei Raiders e' in attesa di lacerare qualcuno lembo a lembo.
+~
+Un atleta terribile, il blitzer e' il piu' difficile ed aggressivo
+giocatore sul campo.
+~
+~
+~
+~
+46 0 -800 -1 -1 -1 -1 -1 E
+25 11 1 1d1+370 2d10+5
+17 24000
+8 8 1
+E
+#21036
+umano blitzer warrior~
+un umano blitzer~
+Un fiero blitzer dei Warriors e' in attesa di lacerare qualcuno lembo a lembo.
+~
+Un atleta terribile, il blitzer e' il piu' difficile ed aggressivo
+giocatore sul campo.
+~
+~
+~
+~
+12 0 800 -1 -1 -1 -1 -1 E
+25 11 1 1d1+370 2d10+5
+24 24000
+8 8 1
+E
+#21037
+spettatore fedele fan~
+un fedele fan~
+Un fedele fan e' qui che si gusta la partita.
+~
+Il tuo fan sportivo, che assiste alla partita ora e sempre.
+~
+~
+~
+~
+8 0 1000 -1 -1 -1 -1 -1 E
+3 18 8 2d1+40 1d7+0
+2 350
+8 8 1
+E
+#21038
+bambino giovanetto~
+il bambino innocente~
+Un bambino sta vagabondando qui in giro.
+~
+Ohhhhh che carino!!!
+~
+~
+~
+~
+72 0 1000 -1 -1 -1 -1 -1 E
+1 20 10 2d5+10 1d5+0
+1 100
+8 8 0
+E
+#21039
+commesso venditore~
+un commesso~
+Un commesso e' qui che vende al minuto i suoi beni.
+~
+Un commerciante con varie merci delle quali a te non serve nulla.
+~
+~
+~
+~
+12 0 700 -1 -1 -1 -1 -1 E
+4 17 8 2d5+30 1d8+0
+4 600
+8 8 1
+E
+#21040
+stradino~
+uno stradino~
+Uno stradino e' qui che lavora.
+~
+Un forte, sporco, stradino maleducato.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+6 16 8 2d8+50 1d6+1
+6 1500
+8 8 1
+E
+#21041
+litigioso ubriaco fan~
+un litigioso ubriaco fan~
+Un litigioso, ubriaco fan e' qui a fare la figura dello stupido.
+~
+Siediti, Siediti, Siediti, Siediti -- Siediti sei in barca!
+
+~
+~
+~
+~
+8 0 -400 -1 -1 -1 -1 -1 E
+4 17 8 2d5+35 1d6+1
+4 600
+8 8 1
+E
+#21042
+sicurezza guardia~
+una Guardia della Security~
+Una Guardia della Security e' qui che tenta di mantenere l'ordine.
+~
+Non cosi' efficiente come un poliziotto, ma neanche tanto costoso.
+~
+~
+~
+~
+10 0 800 -1 -1 -1 -1 -1 E
+25 11 1 1d1+370 2d10+4
+13 29000
+8 8 1
+E
+#21044
+kring master guildmaster~
+Domi Kring~
+Domi Kring, il Capo dei Peloi, e' qui per insegnarti quello che sa.
+~
+Domi Kring ha un aspetto molto fiero. Ha la testa rasata con una lunga coda
+di cavallo e piena di cicatrici.
+Indossa una armatura di cuoio e ha uno scudo rotondo in ferro sbalzato.
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 0 -2 10d8+30000 2d6+16
+81 170000
+8 8 1
+Spec: 7
+E
+#21045
+guardia peloi~
+una guardia peloi~
+Un Peloi controlla l'entrata.
+~
+undefined~
+~
+~
+~
+59403 136 800 -1 -1 -1 -1 -1 E
+50 0 0 6d10+30000 1d8+12
+37 80000
+8 8 1
+Spec: 6
+E
+#21046
+prostituta~
+una prostituta~
+Una prostituta e' in cerca di clienti.
+~
+Il solo buon attributo di questa bestia e' il suo prezzo basso, che
+spiegherebbe perche' e' sempre occupata con punk e skinheads.
+~
+~
+~
+~
+10 0 -400 -1 -1 -1 -1 -1 E
+4 17 7 2d6+40 1d6+0
+3 600
+5 5 2
+E
+#21047
+strozzatore minore~
+un piccolo strozzatore~
+Uno strozzatore e' occupato ad eseguire il suo compito.
+~
+Questo e' uno dei piu' deboli abitanti malvagi della libreria. Non fa
+niente di buon grado o per mantenere un buon uomo in vita.
+~
+~
+~
+~
+108 525312 -1000 -1 -1 -1 -1 -1 E
+6 15 8 2d6+50 1d8+1
+4 1500
+8 8 1
+E
+#21048
+strozzatore~
+uno strozzatore~
+Uno strozzatore e' qui cercando qualcuno da derubare.
+~
+Questo e' uno dei piu' deboli abitanti malvagi della libreria. Non fa
+niente di buon grado.
+~
+~
+~
+~
+108 525320 -1000 -1 -1 -1 -1 -1 E
+9 15 7 1d1+90 2d4+2
+8 6000
+8 8 1
+E
+#21049
+grande strozzatore~
+un grande strozzatore~
+Il grande strozzatore e' occupato ad occultare tutta la scienza che si
+trova sui libri.
+~
+Vedi una creatura appena umana che non ha assolutamente morale o senso di
+dignita'.
+~
+~
+~
+~
+108 525320 -1000 -1 -1 -1 -1 -1 E
+12 15 7 1d1+100 2d5+3
+7 13000
+8 8 0
+E
+#21050
+anziano strozzatore~
+un anziano strozzatore~
+Un anziano strozzatore brucia tutti i libri utili.
+~
+Vedi una diabolica creatura che venderebbe volentieri sua sorella come
+schiava.
+~
+~
+~
+~
+108 525312 -1000 -1 -1 -1 -1 -1 E
+15 13 6 1d1+140 2d6+2
+13 21000
+8 8 0
+E
+#21051
+master strozzatore~
+il master strozzatore~
+Il master strozzatore e' qui che cerca di disfare l'archivio della scuola.
+~
+Vedi una diabolica e disperata creatura che non ha assolutamente morale o
+senso di dignita'. Occhio, proprio ora ha adocchiato la tua roba!
+~
+~
+~
+~
+46 525320 -1000 -1 -1 -1 -1 -1 E
+21 12 4 1d1+240 2d7+3
+18 50000
+8 8 0
+E
+#21052
+cheerleader capo~
+una cheerleader~
+Una cheerleader e' qui.
+~
+Wow!  Non c'erano piu' ragazze come questa qui intorno? La bellezza delle
+cheerleaders non ha rivali, sfortunatamente non e' sempre accoppiata alla
+loro intelligenza (sfortunatamente per loro, ma fortunatamente per TE!!).
+~
+~
+~
+~
+154 0 1000 -1 -1 -1 -1 -1 E
+2 19 9 3d5+20 1d6+0
+2 200
+8 8 2
+E
+#21053
+capo cheerleader comandante ilsa~
+Ilsa la Capo Cheerleader~
+Ilsa la Capo Cheerleader e' qui guardando tutti orgogliosamente!
+~
+Guardi fisso questa bellezza coi capelli lunghi, biondi, una faccia angelica,
+calma, ampia... ed un corpo giusto che grida!
+Attento! non ama le persone che la spogliano con gli occhi!
+~
+~
+~
+~
+16394 0 1000 -1 -1 -1 -1 -1 E
+10 15 7 1d1+100 2d4+1
+8 9000
+8 8 2
+E
+#21054
+capo o'hara~
+Capo O'Hara~
+Capo O'Hara e' seduto dietro la sua scrivania.
+~
+Il Capo e' agente da lungo tempo che e' divenuto sovrappeso a causa delle
+frittelle mangiate nel corso degli anni. E' un irlandese da prendere con le
+molle, che per la prima volta deve eseguire il suo compito senza l'aiuto di
+Batman. Sfortunatamente per te lui ora ama il suo lavoro! E tu assomigli
+molto ad un indiziato.
+~
+~
+~
+~
+2058 72 1000 -1 -1 -1 -1 -1 E
+26 17 3 1d1+400 2d9+7
+17 130000
+6 6 1
+E
+#21055
+guardacaccia~
+un Guardacaccia~
+Il Guardacaccia e' qui che controlla la prigione.
+~
+Un fervido sostenitore della pena di morte, e l'adatto custode della prigione.
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+12 15 7 1d1+120 2d5+2
+7 13000
+8 8 1
+E
+#21056
+domestica~
+una domestica~
+Una domestica e' qui a pulire.
+~
+La domestica e' una signora stanca di pulire continuamente l'albergo visto
+che la maggior parte dell'umanita' e' composta da tanti zoticoni.
+~
+~
+~
+~
+14 0 900 -1 -1 -1 -1 -1 E
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 2
+E
+#21057
+esprit~
+Esprit~
+Esprit e' dietro le sbarre.
+~
+La legge finalmente ha messo le mani su questo incallito furfante.
+Che possa servirti da lezione.
+~
+~
+~
+~
+43 8 -1000 -1 -1 -1 -1 -1 E
+15 13 7 1d1+150 2d6+3
+12 11000
+8 8 1
+Spec: 14
+E
+#21058
+impiegata cassiera~
+una cassiera~
+Una cassiera e' impegnata a pulirsi le unghie.
+~
+E' una studentessa che lavora part-time. Vorrebbe essere da un'altra
+parte ma ha bisogno dei soldi per continuare a studiare.
+~
+~
+~
+~
+10 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+34 80000
+8 8 2
+Spec: 0
+E
+#21059
+poliziotto~
+un poliziotto~
+Il poliziotto e' qui seduto a mangiare frittelle.
+~
+Noti che questo ragazzo non e' molto concentrato nel suo lavoro.
+Sembra piu' interessato a mangiar frittelle che a proteggere la citta'.
+~
+~
+~
+~
+2250 0 0 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+9 9000
+6 6 1
+E
+#21060
+poliziotto~
+un poliziotto~
+Il poliziotto e' qui seduto a bere.
+~
+Noti che questo ragazzo non e' molto concentrato nel suo lavoro.
+Sembra piu' interessato a bere birra che a proteggere la citta'.
+~
+~
+~
+~
+2250 0 0 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+14 9000
+6 6 1
+E
+#21061
+ladra~
+una ladra~
+Una ladra e' occupata a riempirsi le tasche.
+~
+Dalle dimensioni delle sue tasche, noti che e' una cleptomane occupata.
+~
+~
+~
+~
+46 1024 -350 -1 -1 -1 -1 -1 E
+4 17 8 2d6+30 1d6+0
+3 600
+8 8 2
+E
+#21062
+pescatore uomo~
+un pescatore~
+Un pescatore e' in attesa di poterti servire.
+~
+Questo ragazzo ha passato cosi' tanto tempo in mezzo al pesce
+che ormai ne ha preso l'aspetto e l'odore.
+~
+~
+~
+~
+10 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+35 80000
+8 8 1
+Spec: 0
+E
+#21063
+venditore armi~
+un venditore di armi~
+Un venditore di armi sta pulendo la sua pistola.
+~
+Come la maggior parte dei venditori di armi, si e' ingrassato anche i
+capelli ed i baffi.
+~
+~
+~
+~
+10 0 350 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+50 80000
+8 8 1
+Spec: 0
+E
+#21064
+raghuram manager~
+Raghuram il Manager dei 7-11~
+Raghuram il Manager dei 7-11 e' qui.
+~
+Comela maggior parte dei managers dei 7-11, Raghuram e' Indiano e parla con
+un accento incomprensibile.
+~
+~
+~
+~
+24586 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+34 80000
+8 8 1
+Spec: 0
+E
+#21065
+launchpad anatra mcquack~
+Launchpad McQuack~
+Launchpad McQuack e' qui.
+~
+Vedi un'anatra umanoide che cerca di confondersi nell'ambiente, ma in
+definitiva nessuna anatra gli assomiglia.
+
+Istintivamente ti viene un conato di vomito a vedere questa cosa orribile!
+~
+~
+~
+~
+156 136 1000 -1 -1 -1 -1 -1 E
+21 0 0 1d1+349 2d12+10
+14 70000
+8 8 1
+E
+#21066
+ragazza bionda~
+una ragazza bionda~
+Una ragazza bionda sta saltellando qui.
+~
+Questa ragazza bionda e' bellissima!
+Il sangue ti va dalla testa ad unìaltra parte della tua anatomia.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 10 1d12+30 2d4+0
+4 600
+8 8 2
+E
+#21067
+spogliarellista~
+una spogliarellista~
+Una spogliarellista
+~
+Wow, non hai mai visto mammelle cosi' grandi in vita tua, realmente
+pensi che un Dio c'e'!  (e che gli piacciono grosse anche)
+~
+~
+~
+~
+10 0 100 -1 -1 -1 -1 -1 E
+7 16 8 1d1+70 2d4+1
+6 600
+8 8 2
+E
+#21068
+pandion guardia~
+una guardia pandion~
+Un Pandion controlla l'entrata.
+~
+E' un guerriero esperto specializzato nel campo del Combattimento Magico.
+E' qui a proteggere la Gilda dei Pandion e la sua conoscenza superiore di
+incantesimi offensivi e difensivi fanno di lui un oppositore mortale.
+~
+~
+~
+~
+59419 136 800 -1 -1 -1 -1 -1 E
+50 2 2 6d10+30000 1d8+12
+40 80000
+8 8 1
+Spec: 6
+E
+#21069
+cyrinic guardia~
+una guardia cyrinic~
+Un Cyrinic controlla l'entrata.
+~
+E' un guerriero addestrato appartiene all'ordine militare dei Cyrinic.
+Il suo dovere e' proteggere i fedeli da persecuzioni ed attacchi di atei.
+La sua devozione religiosa combinata con le sue abilita' superiori
+fanno di lui un oppositore mortale.
+~
+~
+~
+~
+59419 136 800 -1 -1 -1 -1 -1 E
+50 2 2 6d10+30000 1d8+12
+26 80000
+8 8 1
+Spec: 6
+E
+#21070
+guardia alcione~
+una guardia alcione~
+Una guardia Alcione controlla l'ingresso della Gilda.
+~
+undefined~
+~
+~
+~
+59419 136 800 -1 -1 -1 -1 -1 E
+50 4 4 6d10+30000 1d8+12
+50 80000
+8 8 1
+Spec: 6
+E
+#21071
+genidian guardi~
+una guardia genidian~
+Un Genidian controlla l'entrata.
+~
+E' un guerriero competente che ha raggiunto il cavalierato attraverso
+innumerevoli atti cavallereschi. Il suo dovere e' proteggere la Gilda dei
+Genidian e la sua abilita estrema combinata con la sua esperienza in guerra
+fanno di lui un mortale oppositore.
+~
+~
+~
+~
+59419 136 800 -1 -1 -1 -1 -1 E
+50 0 0 6d10+30000 1d8+12
+41 80000
+8 8 1
+Spec: 6
+E
+#21072
+vanion master guildmaster~
+Lord Vanion~
+Lord Vanion, il Precettore dei Pandion, sta per insegnarti cio' che sa.
+~
+Lord Vanion e' un uomo di corporatura prestante; ha lunghi capelli argentei
+ma non e' vecchio come sembra.
+Indossa una sovratunica argentata su una armatura nera smaltata.
+~
+~
+~
+~
+59403 136 1000 -1 -1 -1 -1 -1 E
+100 0 -2 10d8+30000 2d6+16
+51 170000
+8 8 1
+Spec: 7
+E
+#21073
+abriel master guildmaster~
+Lord Abriel~
+Lord Abriel, il Precettore dei Cyrinic, sta per insegnarti cio' che sa.
+~
+Lord Abriel e' un uomo di corporatura robusta sulla sessantina; ha lunghi
+capelli argentei, il viso rugoso e gli occhi infossati privi di allegria.
+Indossa una sovratunica di azzurro pallido su un'armatura completa d'acciaio.
+~
+~
+~
+~
+59403 136 1000 -1 -1 -1 -1 -1 E
+100 0 -2 10d8+30000 2d6+16
+65 170000
+8 8 1
+Spec: 7
+E
+#21074
+darellon master guildmaster~
+Lord Darellon~
+Lord Darellon, il Precettore degli Alcioni, sta per insegnarti cio' che sa.
+~
+Lord Darellon e' un uomo molto esile.
+Indossa una enorme armatura, la piu' pesante del mondo, sotto ad una cappa
+di turchese brillante.
+~
+~
+~
+~
+59403 136 1000 -1 -1 -1 -1 -1 E
+100 0 -2 10d8+30000 2d6+16
+90 170000
+8 8 1
+Spec: 7
+E
+T 21359
+#21075
+komier master guildmaster~
+Lord Komier~
+Lord Komier, il Precettore dei Genidian, sta per insegnarti cio' che sa.
+~
+Lord Komier e' un uomo di corporatura pesante, spalle larghe e mani grandi.
+E' biondo e le sopracciglia folte gli danno un aspetto quasi selvaggio.
+Indossa una cotta di maglia sotto la sovratunica verde. La testa e' adornata
+da un elmo sormontato da un paio di lunghe corna a spirale provenienti da
+un orco.
+~
+~
+~
+~
+59403 136 1000 -1 -1 -1 -1 -1 E
+100 0 -2 10d8+30000 2d6+16
+97 170000
+8 8 1
+Spec: 7
+E
+#21076
+capitano~
+un Capitano~
+Un capitano in pensione e' qui a vendere barche.
+~
+Questo Capitano ha mangiato piu' squali lui di quanti piselli tu hai ucciso.
+~
+~
+~
+~
+26 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 2d8+12
+41 80000
+8 8 1
+Spec: 0
+E
+#21077
+fabbro~
+un Fabbro~
+Un Fabbro espone la sua luccicante e nuova armatura.
+~
+Un vecchio ma ancora molto forte fabbro. Ha fatto piu' armature lui di quelle
+che tu possa mai vedere nella tua vita.
+~
+~
+~
+~
+10 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 2d8+12
+43 80000
+8 8 1
+Spec: 0
+E
+#21078
+receptionist~
+una receptionist~
+Una receptionist e' difronte a te, sembra parecchio annoiata.
+~
+Noti uno stanco sguardo sulla sua faccia. Forse non e' pagata abbastanza.
+~
+~
+~
+~
+8202 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 2d8+12
+47 80000
+8 8 2
+E
+#21079
+cameriere~
+un cameriere~
+Un cameriere sta passando da tavolo a tavolo.
+~
+Uno stanco, stanco cameriere.
+~
+~
+~
+~
+10 0 900 -1 -1 -1 -1 -1 E
+50 2 2 6d10+10000 1d8+12
+39 80000
+8 8 1
+Spec: 0
+E
+#21080
+cameriere~
+un cameriere~
+Un cameriere sta passando da tavolo a tavolo.
+~
+Questo uomo era un novizio pandion di belle speranze ma ora e'
+un silenzioso, pacifico cameriere.
+~
+~
+~
+~
+10 0 600 -1 -1 -1 -1 -1 E
+50 1 2 6d10+10000 1d8+12
+41 80000
+8 8 1
+E
+#21081
+cameriere~
+un cameriere~
+Un cameriere sta passando da tavolo a tavolo.
+~
+Questo cameriere sembra avere contatti con Dio.
+~
+~
+~
+~
+10 0 600 -1 -1 -1 -1 -1 E
+50 1 2 6d10+10000 1d8+12
+43 80000
+8 8 1
+E
+#21082
+cameriere~
+una cameriere~
+Un cameriere sta passando da tavolo a tavolo.
+~
+Questo cameriere SA dove i suoi clienti conservano i soldi.
+~
+~
+~
+~
+10 0 600 -1 -1 -1 -1 -1 E
+50 1 2 6d10+10000 1d8+12
+41 80000
+8 8 1
+E
+#21083
+cameriere~
+un cameriere~
+Un cameriere sta passando da tavolo a tavolo.
+~
+Il cameriere sembra possa ucciderti facilmente anche mentre
+e' impegnato a servire un altro avventore.
+~
+~
+~
+~
+10 0 600 -1 -1 -1 -1 -1 E
+50 1 2 6d10+10000 1d8+12
+29 80000
+8 8 1
+E
+#21084
+spazzino~
+un spazzino~
+Uno spazzino sta spazzando la via.
+~
+Che dire? Sta spazzando. Che brividi!
+~
+~
+~
+~
+2057 0 900 -1 -1 -1 -1 -1 E
+5 17 9 1d1+50 1d6+1
+3 100
+8 8 1
+E
+#21085
+fido vagabondo~
+un vagabondo fido~
+Un fido vagabondo e' qui.
+~
+Un fido e' un piccolo cane che puzza parecchio e tiene carne andata
+a male in bocca.
+~
+~
+~
+~
+137 0 -200 -1 -1 -1 -1 -1 E
+1 20 10 1d6+15 1d4+0
+0 25
+8 8 0
+E
+#21086
+ubriaco~
+un ubriaco~
+Un cantante, felice ubriaco.
+~
+Un ubriaco che sembra essere troppo felice, e portare anche troppi soldi.
+~
+~
+~
+~
+8 0 400 -1 -1 -1 -1 -1 E
+2 19 9 2d6+17 1d6+0
+2 200
+8 8 1
+E
+#21087
+gattino~
+un gattino~
+Un piccolo fedele gattino e' qui.
+~
+Il gattino e' un grazioso, piccolo, fiero combattente.
+~
+~
+~
+~
+14 0 400 -1 -1 -1 -1 -1 E
+1 19 9 1d6+11 1d4+1
+0 100
+8 8 0
+E
+#21088
+cucciolo~
+un cucciolo~
+Un piccolo fedele cucciolo e' qui.
+~
+Il cucciolo e' un grazioso, piccolo, fiero combattente.
+~
+~
+~
+~
+14 0 400 -1 -1 -1 -1 -1 E
+2 19 9 1d6+16 1d7+1
+2 100
+8 8 0
+E
+#21089
+levriero~
+un levriero~
+Un piccolo, veloce, fedele levriero e' qui.
+~
+Il levriero e' un fiero combattente.
+~
+~
+~
+~
+14 0 400 -1 -1 -1 -1 -1 E
+3 18 8 1d12+22 1d6+1
+2 200
+8 8 0
+E
+#21090
+rottweiler~
+un rottweiler~
+Un grande, fedele rottweiler e' qui.
+~
+Il rottweiler e' un forte, fiero combattente.
+~
+~
+~
+~
+14 0 400 -1 -1 -1 -1 -1 E
+4 17 8 1d1+45 1d7+1
+4 800
+8 8 0
+E
+#21091
+lupo~
+un lupo~
+Un grande, ammaestrato lupo e' qui.
+~
+Il lupo e' un forte combattente senza paura.
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d1+55 1d8+2
+3 1600
+8 8 0
+E
+#21092
+gallina~
+una gallina~
+Una gallina sta razzolando qui.
+~
+E' una piccola gallina padovana... ???
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 19 10 1d1+10 1d6+1
+1 0
+8 8 2
+E
+#21093
+gallina~
+una gallina~
+Una gallina sta razzolando qui.
+~
+E' una piccola gallina francesina... ???
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 19 10 1d1+10 1d6+1
+0 0
+8 8 2
+E
+#21094
+gallina~
+una gallina~
+Una gallina sta razzolando qui.
+~
+E' una piccola gallina dal collare... ???
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 19 7 1d1+10 1d7+1
+0 0
+8 8 2
+E
+#21099
+sacerdotessa guardiana~
+La Sacerdotessa Guardiana del Tempio~
+La Sacerdotessa Guardiana del Tempio ti osserva.
+~
+La Sacerdotessa e' alta e bellissima.
+Il suo sguardo sembra in grado di leggerti nell'anima.
+Ti rendi conto che sarebbe una pessima idea offenderla, daro che e'
+protetta dal Dio Ferus.
+~
+~
+~
+~
+36028797019217947 268469416 0 -1 -1 -1 20 -1 E
+70 -30 -10 1d1+30000 30d30+50
+50 0
+8 8 2
+BareHandAttack: 6
+Str: 18
+Dex: 17
+Int: 18
+Wis: 16
+Con: 18
+Cha: 18
+Spec: 16
+E
+T 18113
+#21100
+ladro~
+Un ladro~
+Un ladro si aggira furtivamente qua intorno.
+~
+Sembra che abbia paura di qualcosa
+e' tutto sudato e trema.
+~
+~
+~
+~
+24779 787560 -400 -1 -1 -1 -1 -1 E
+10 14 -2 0d0+500 1d10+2
+7 0
+8 8 1
+Dex: 18
+E
+#21199
+secondino carceriere kain~
+Kain, il carceriere di Chyrellos~
+Kain ,il carceriere di chireillos ,e' qui che si fuma una sigaretta
+~
+Un gran bell'uomo, alto grosso... imponente... ma non farlo arrabbiare!
+~
+~
+~
+~
+1610807390 1064 -1000 -1 -1 -1 -1 -1 E
+45 10 -6 25d20+500 6d6+10
+23 1000000
+8 8 1
+E
+$

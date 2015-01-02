@@ -1,0 +1,11 @@
+trigedit 28147
+6  
+/c 
+wait 6 s
+ %echo% Prova Load
+ oecho Prova
+otimer 1000
+~
+/s
+q
+y

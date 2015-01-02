@@ -1,0 +1,11 @@
+trigedit 11028
+6  
+/c 
+if %actor.vnum% == -1
+%purge%
+%load% obj 11001
+end
+~
+/s
+q
+y

@@ -1,0 +1,11 @@
+trigedit 11034
+6  
+/c 
+eval char %random.char%
+%echoaround% %char% &e%self.name% tocca %char.name% che viene preso da una frenesia incontrollabile&0
+%send% %char.name% &e%self.name% ti tocca e subito vieni preso da una frenesia incontrollabile&0
+dg_cast 'death dance' %char%
+~
+/s
+q
+y

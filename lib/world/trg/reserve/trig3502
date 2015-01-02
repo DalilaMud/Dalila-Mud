@@ -1,0 +1,80 @@
+trigedit 3502
+6  
+/c 
+wait 1 s
+set room %self.is_inroom%
+if %room.vnum% == 0
+osend %actor.alias% Non puoi innescare la bomba mentre la hai addosso! Devi posarla per terra!
+halt
+end
+otransform 3565
+osend %actor.name% Ecco... ora faresti meglio a scappare!!!
+oechoaround %actor.name% %actor.name% innesca la bomba! Corri!
+wait 1 s
+oecho &rO&g.............................&Rx&d
+wait 1 s
+oecho &rO&g............................&Rx&d
+wait 1 s
+oecho &rO&g...........................&Rx&d
+wait 1 s
+oecho &rO&g..........................&Rx&d
+wait 1 s
+oecho &rO&g.........................&Rx&d
+wait 1 s
+oecho &rO&g........................&Rx&d
+wait 1 s
+oecho &rO&g.......................&Rx&d
+wait 1 s
+oecho &rO&g......................&Rx&d
+wait 1 s
+oecho &rO&g.....................&Rx&d
+wait 1 s
+oecho &rO&g....................&Rx&d
+wait 1 s
+oecho &rO&g...................&Rx&d
+wait 1 s
+oecho &rO&g..................&Rx&d
+wait 1 s
+oecho &rO&g.................&Rx&d
+wait 1 s
+oecho &rO&g................&Rx&d
+wait 1 s
+oecho &rO&g...............&Rx&d
+wait 1 s
+oecho &rO&g..............&Rx&d
+wait 1 s
+oecho &rO&g.............&Rx&d
+wait 1 s
+oecho &rO&g............&Rx&d
+wait 1 s
+oecho &rO&g...........&Rx&d
+wait 1 s
+oecho &rO&g..........&Rx&d
+wait 1 s
+oecho &rO&g.........&Rx&d
+wait 1 s
+oecho &rO&g........&Rx&d
+wait 1 s
+oecho &rO&g.......&Rx&d
+wait 1 s
+oecho &rO&g......&Rx&d
+wait 1 s
+oecho &rO&g.....&Rx&d
+wait 1 s
+oecho &rO&g....&Rx&d
+wait 1 s
+oecho &rO&g...&Rx&d
+wait 1 s
+oecho &rO&g..&Rx&d
+wait 1 s
+oecho &rO&g.&Rx&d
+wait 1 s
+oecho &rO&g&Rx&d
+wait 2 s
+oecho &RBOOOOOMMM!!!&d
+odamage all 5000
+%purge% self
+~
+/s
+q
+y

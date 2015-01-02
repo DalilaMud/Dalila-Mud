@@ -1,0 +1,25 @@
+trigedit 2024
+6  
+/c 
+wait 1
+msend cptifedetherion conteggio
+set risucchiamento &6&xL'altare avvinghia il fiore&0
+global risucchiamento
+set controllore cptifedetherion
+global controllore
+set annientamento &6&xLe lame di Therion ti trafiggono&0
+global annientamento
+set ncontrollore Il controllore dei punti fede di Therion
+global ncontrollore
+set cap 3000
+global cap
+set nbase 2047
+global nbase
+set god &6&xTherion&0
+global god
+set statuetta 579
+global statuetta
+~
+/s
+q
+y

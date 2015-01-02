@@ -1,0 +1,367 @@
+#9225
+brigante~
+un brigante~
+Un brigante sembra seccato per la tua intrusione e ti attacca!
+~
+Questo brigante e' infuriato per la tua irruzione nella sua casa!
+~
+~
+~
+~
+40 1024 -400 -1 -1 -1 -1 -1 E
+4 17 8 1d1+35 1d5+1
+3 1000
+8 8 1
+E
+#9226
+servo~
+un servo~
+Un servo barcolla sotto il peso di un grosso carico di mangime per gli animali.
+~
+E' decisamente un contadino noioso ed irritante. Dagli una lezione :)
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+3 18 9 1d1+30 1d6+2
+2 50
+8 8 1
+E
+#9227
+serva~
+una serva~
+Una serva fa una smorfia mentre solleva e posa sulla schiena un giogo con due coppie di secchi d'acqua.
+~
+E' decisamente una contadina noiosa ed irritante. Dalle una lezione :)
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+3 19 9 1d1+30 1d5+3
+2 50
+8 8 2
+E
+#9228
+pecora~
+una pecora~
+Una pecora e' qui, in attesa di essere nutrita.
+~
+Baa! Baa! Baa! Baa! Baa! Baa!
+
+
+
+
+
+
+
+
+Baa-Baa!
+~
+~
+~
+~
+204 0 0 -1 -1 -1 -1 -1 E
+5 15 9 1d1+40 1d6+1
+3 10
+8 8 2
+E
+#9229
+cavaliere~
+un insolente giovane cavaliere~
+Un insolente giovane cavaliere e' in cerca di contadini da angariare.
+~
+dalla sua presenza!
+~
+~
+~
+~
+200 0 0 -1 -1 -1 -1 -1 E
+3 18 9 1d1+34 1d7+0
+2 300
+8 8 1
+E
+#9230
+maiale~
+un maiale~
+Un maiale trangugia rumorosamente del pastone acquoso.
+~
+*>OINK!<*
+
+Hey! Ti sembra lo stesso pappone che ti fanno mangiare a scuola! Oh...
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+4 17 9 1d1+40 1d7+1
+3 400
+8 8 0
+E
+#9231
+mucca~
+una mucca ossuta~
+Una mucca ossuta dalle mammelle flaccide ti guarda inebetita.
+~
+MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+Questa mucca sembra decisamente malnutrita.
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+5 16 8 1d1+45 1d7+1
+4 400
+8 8 2
+E
+#9232
+pipistrello~
+un pipistrello gigante~
+Un pipistrello gigante cozza contro la tua faccia e ti attacca!
+~
+Questo pipistrello sembra decisamente modesto. Di certo si e' nutrito
+con i polli dei contadini.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+8 15 9 1d1+60 1d8+2
+8 800
+8 8 0
+E
+#9233
+pseudostalattite~
+una pseudostalattite~
+Una pseudostalattite pende dal soffitto.
+~
+Questi essere sono predatori che assomigliano alle stalattiti e
+si lasciano cadere dall'alto per colpire i passanti.
+~
+~
+~
+~
+44 0 0 -1 -1 -1 -1 -1 E
+4 17 8 1d1+35 1d7+1
+4 1000
+8 8 2
+E
+#9234
+mulo~
+un mulo~
+Un robusto mulo e' qui.
+~
+Questo animale e' forte, affidato e molto resistente.
+~
+~
+~
+~
+131144 1024 0 -1 -1 -1 -1 -1 E
+5 17 8 1d1+42 1d7+1
+3 1200
+8 8 0
+E
+#9235
+scarabeo stercorario~
+uno scarabeo stercorario~
+Un grosso scarabeo stercorario e' qui.
+~
+Questo insetto e' completamente nero ed ha due grosse antenne
+scure su quella che potrebbe essere la testa.
+~
+~
+~
+~
+131144 0 0 -1 -1 -1 -1 -1 E
+6 16 8 1d1+50 1d7+1
+5 700
+8 8 0
+E
+#9236
+rana~
+una rana gigante~
+Una rana gigante si trova qui.
+~
+Questa cavalcatura e' forte, affidabile e molto resistente.
+~
+~
+~
+~
+131082 1024 200 -1 -1 -1 -1 -1 E
+6 16 8 1d1+55 1d8+1
+4 800
+8 8 2
+E
+#9237
+cavallo battaglia~
+un cavallo da battaglia~
+Un resistente cavallo da battaglia si trova qui.
+~
+Questa cavalcatura e' forte, affidabile e molto resistente.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+7 16 8 1d1+65 1d8+1
+5 700
+8 8 0
+E
+#9238
+falena~
+una falena gigante~
+Una falena gigante e' qui.
+~
+Questo animale e' forte, affidabile e molto resistente.
+~
+~
+~
+~
+131082 0 -30 -1 -1 -1 -1 -1 E
+7 15 8 1d1+60 2d4+1
+4 800
+8 8 2
+E
+#9239
+unicorno~
+un unicorno~
+Un robusto unicorno e' qui.
+~
+Questa cavalcatura e' forte, affidabile e molto resistente.
+~
+~
+~
+~
+131082 1032 0 -1 -1 -1 -1 -1 E
+12 14 7 1d1+120 2d5+2
+10 25000
+8 8 0
+E
+#9240
+triceratopo~
+un triceratopo~
+Un enorme triceratopo e' qui.
+~
+E' una bestia enorme, con grosse e pericolose corna sul naso.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+8 16 7 1d1+70 1d9+1
+8 1000
+8 8 0
+E
+#9241
+verme sabbie~
+un verme delle sabbie~
+Un robusto verme delle sabbie fatto arrivare da Arrakis e' qui.
+~
+Questa cavalcatura e' forte, affidabile e molto resistente.
+~
+~
+~
+~
+131082 0 0 -1 -1 -1 -1 -1 E
+10 14 7 1d1+90 1d9+1
+9 1000
+8 8 0
+E
+#9242
+elefante~
+un elefante~
+Un massiccio elefante e' qui.
+~
+Questo animale e' gigantesco ed ha delle grosse zanne. Ci sono
+Molti modi in cui potrebbe nuocerti.
+~
+~
+~
+~
+8264 0 0 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 1d9+1
+6 1000
+8 8 0
+E
+#9243
+pegasus~
+un pegasus~
+Un robusto pegasus e' qui.
+~
+Questa cavalcatura e' forte, affidabile e molto resistente.
+~
+~
+~
+~
+131082 0 0 -1 -1 -1 -1 -1 E
+7 15 8 1d1+60 1d8+1
+6 1000
+8 8 0
+E
+#9244
+criceto~
+un criceto~
+Un robusto criceto e' qui.
+~
+Questo piccolo animale ha dei denti aguzzi e sembra deciso
+ad usarli contro di te!
+~
+~
+~
+~
+393320 0 0 -1 -1 -1 -1 -1 E
+5 17 8 1d1+42 1d8+1
+4 600
+8 8 0
+E
+#9245
+lucertola cavalcare~
+una lucertola da cavalcare~
+Una robusta lucertola da cavalcare di Menzoberranzan e' qui.
+~
+Un lucertolone colossale di un bel verde smeraldo: indubbiamente una cavalcatura per veri eroi!
+~
+~
+~
+~
+65546 0 0 -1 -1 -1 -1 -1 E
+8 15 7 1d1+80 1d8+2
+6 800
+8 8 0
+E
+#9246
+mozzo stalla~
+un mozzo di stalla~
+Un mozzo di stalla sta spazzando qui intorno.
+~
+E' troppo occupato per parlare.
+~
+~
+~
+~
+650 1024 0 -1 -1 -1 -1 -1 E
+5 17 8 1d1+42 1d5+1
+3 600
+8 8 1
+E
+#9247
+stalliere~
+uno stalliere~
+Uno stalliere e' qui che fuma la pipa.
+~
+"Bene, vuoi comprare una cavalcatura? Ho bestie da tutto il mondo per
+la tua felicita'. Unicorni dalle foreste di Malathar, Vermi delle Sabbie
+dal pianeta Arrakis, Elefanti dalle piu' profonde foreste dell'Africa,
+Cavalli da battaglia dalle pianure di Rohan, e molti altri."
+~
+~
+~
+~
+522 1160 500 -1 -1 -1 -1 -1 E
+10 13 7 1d1+60 2d5+3
+10 15000
+8 8 1
+E
+$

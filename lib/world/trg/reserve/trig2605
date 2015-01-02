@@ -1,0 +1,17 @@
+trigedit 2605
+6  
+/c 
+* Lista comandi
+if %arg% == libreria
+oforce %actor.name% emote scosta la libreria
+wait 2 s
+oecho &9&xUn misterioso ed oscuro passaggio segreto compare allo spostarsi della libreria!&0
+%door% 50183 n room 50184
+wait 10 s
+oecho &9&xLa libreria torna magicamente al suo posto, nascondendo il passaggio&0
+%door% 50183 n purge
+end
+~
+/s
+q
+y

@@ -1,0 +1,28 @@
+trigedit 12593
+6  
+/c 
+if %actor.vnum% == 12595
+eval cambio %cambio% + 1
+global cambio
+set %cambio% %speech%
+global %cambio%
+end
+if %actor.name% == %target%
+if %speech% == uscita
+mat %1% &7&B %actor.name% ha lasciato l'arena &0
+mat %2% &7&B %actor.name% ha lasciato l'arena &0
+mat %3% &7&B %actor.name% ha lasciato l'arena &0
+mat %4% &7&B %actor.name% ha lasciato l'arena &0
+mat %5% &7&B %actor.name% ha lasciato l'arena &0
+mgoto 29504
+say %actor.name% e' morto
+mtele %actor.name% 29504
+mload obj 12595
+give arena %actor.name%
+mforce %actor.name% quaff arena
+end
+end
+~
+/s
+q
+y

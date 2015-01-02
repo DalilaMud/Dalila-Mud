@@ -1,0 +1,19 @@
+trigedit 2577
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &3Il pupazzetto &2balza in piedi con agilita'&0
+wait 1 s
+oecho &3Il pupazzetto &2sogghigna mostrandoti i suoi pugnali!&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &3Il pupazzetto&0 &5dice, 'puoi anche uccidermi...ma repoppero'...e con un equip nuovo di zecca! Muwahahhaah'&0
+else
+oecho &3Il pupazzetto &0&5dice, 'puoi anche uccidermi...ma repoppero'...e con un equip nuovo di zecca! Muwahahhaah'&0
+end
+~
+/s
+q
+y

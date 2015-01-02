@@ -1,0 +1,13 @@
+trigedit 1454
+6  
+/c 
+wait 1 s
+oecho &3&xUn'ondata di energia luminosa si sprigiona dall'anello e parte in cerca di un Gremlin da distruggere&0
+opurge gremlin
+wait 1 s
+osend %actor.name% Ti senti un po' fiacco...
+odamage %actor.name% 50
+~
+/s
+q
+y

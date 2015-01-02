@@ -1,0 +1,15 @@
+trigedit 1471
+6  
+/c 
+return 0
+wait 1
+mpurge cadavere
+if %seme% == 1
+halt
+end
+mload obj 522
+hold seme
+~
+/s
+q
+y

@@ -1,0 +1,15 @@
+trigedit 1652
+6  
+/c 
+* Lista comandi
+wait 2 s
+emo apre lentamente gli occhi e si alza sulle possenti zampe.
+wait 1 s
+alz
+emo lancia un terribile ruggito che fa tremare le pareti!
+wait 1 s
+mkill %actor.name%
+~
+/s
+q
+y

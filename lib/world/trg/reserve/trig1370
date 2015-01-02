@@ -1,0 +1,25 @@
+trigedit 1370
+6  
+/c 
+* Lista comandi
+set punto %random.6%
+ global punto
+wait 1 s
+if %punto% == 1 
+oecho &4Dolci note vibrano dalla chitarra di %actor.name% quando la pizzica con delicatezza!&0
+elseif %punto% == 2
+oecho &7%actor.name% accarezza le corde della sua chitarra in un giro musicale perfetto!&0
+elseif %punto% == 3
+oecho &4%actor.name% suona una nota, ahime' stonata, ma riprende subito il ritmo!&0
+elseif %punto% == 4
+oecho &5%actor.name% sfiora la sua chitarra in una melodia sopraffina!&0
+elseif %punto% == 5
+oecho &6La chitarra di %actor.name% suona soave e delicata...&0
+elseif %punto% == 6
+oecho &7%actor.name% suona con vigore la sua canzone.. avvolgente..&0
+else
+end
+~
+/s
+q
+y

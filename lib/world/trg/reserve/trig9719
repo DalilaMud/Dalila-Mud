@@ -1,0 +1,28 @@
+trigedit 9719
+6  
+/c 
+eval recita %random.4%
+global recita
+eval attesa %attesa%+1
+global attesa
+if %attesa% > 5
+set attesa 0
+global attesa
+if %recita%==4
+emote estrare alcune monete dal suo borsello e inizia a contarle.
+else
+end
+if %recita%==3
+emote fa il di piu'
+else
+end
+if %recita%==2
+say &3Ah! che dura vita la nostra!&x
+else
+emote si guarda le mani
+end
+end
+~
+/s
+q
+y

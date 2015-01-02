@@ -1,0 +1,18 @@
+trigedit 12625
+6  
+/c 
+mload mob 12601
+mecho vittima Monarca:		%monarca%
+mecho vittima Controllore:	%controllore%
+mecho vittima Attuali merci in circolazione:
+mecho vittima 1) %1%:	%1b%
+mecho vittima 2) %2%:	%2b%
+mecho vittima 3) %3%:	%3b%
+mecho vittima 4) %4%:	%4b%
+mecho vittima 5) %5%:	%5b%
+mforce vittima mgoto 2
+mat 2 mpurge
+~
+/s
+q
+y

@@ -1,0 +1,12 @@
+trigedit 1398
+6  
+/c 
+* Lista comandi
+wait 1 s
+emote sorride ad %actor.name%... per lui e' giunto il momento di tornare alla realta'!!!
+wait 1 s
+mteleport %actor.name% 12500
+~
+/s
+q
+y

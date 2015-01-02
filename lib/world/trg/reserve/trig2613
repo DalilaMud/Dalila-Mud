@@ -1,0 +1,11 @@
+trigedit 2613
+6  
+/c 
+* Lista comandi
+if %self.vnum% == 537
+otransform 538
+end
+~
+/s
+q
+y

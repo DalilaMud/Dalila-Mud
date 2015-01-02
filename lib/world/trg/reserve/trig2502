@@ -1,0 +1,16 @@
+trigedit 2502
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %direction% == south
+say Chi sei tu per osare avvicinarti a questo portone?
+wait 1 s
+emote si gratta delle orribili croste sul viso...
+wait 1 s
+emote pare aver perso interesse nei tuoi confronti..
+end
+~
+/s
+q
+y

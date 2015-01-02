@@ -1,0 +1,14 @@
+trigedit 2590
+6  
+/c 
+* Lista comandi
+if %actor.vnum% != -1
+halt
+end
+wait 1
+wecho &1&xSENTI LA TERRA CEDERE SOTTO I TUOI PIEDI! UNA TRAPPOLA!&0
+wteleport all 5818
+~
+/s
+q
+y

@@ -1,0 +1,24 @@
+trigedit 31107
+6  
+/c 
+wait 2 s
+set punto %random.5%
+if %punto% == 1
+%echo% il piccolo Aran gattona felice inseguendo una farfalla con gli occhi
+elseif %punto% == 2
+%echo% il piccolo Aran ti osserva con occhi da sogno... sorride e gioca con le sue dita
+elseif %punto% == 3
+%echo% il piccolo Aran gattona fino ai tuoi piedi e si abbraccia alla tua gamba, sorridendo solare
+elseif %punto% == 4
+%echo% &5il piccolo Aran dice, '..mm.mamma..mma..'&0
+wait 1 s
+%echo% poi sorride, dolcissimo.
+elseif %punto% == 5
+%echo% il piccolo Aran ti saluta e si esprime in un sorriso che quasi ti strappa una lacrima..
+else
+end
+end
+~
+/s
+q
+y

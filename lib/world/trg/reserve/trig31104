@@ -1,0 +1,36 @@
+trigedit 31104
+6  
+/c 
+if %amount% <= 232
+wait 2
+say ...non ti sarai sprecato? Non vorrei diventare ricco. Bah.. giovani..
+else
+wait 2 s
+emote lascia che le monete scivolino nella sua grande tasca
+wait 2 s
+emote sorride, felicissimo!!! 
+wait 4 s
+set punto %random.8%
+if %punto% == 1
+say ...un consiglio... mai svegliare lo zio Buck quando dorme, senza un fiore davvero speciale!
+elseif %punto% == 2
+say ...sapevi che il potente Sid nutre profondo odio per i troll del fiume?
+elseif %punto% == 3
+say nella citta' sotterranea non guardare in faccia la mantide!!
+elseif %punto% == 4
+say ricorda, il corridoio d'energia puo' essere letale per i potenti!!
+elseif %punto% == 5
+say ...l'antica miniera e' stata abbandonata nonostante la sua ricchezza... chissa' come mai!
+elseif %punto% == 6
+say Non sempre l'oro e' bello come lo si dipinge!
+elseif %punto% == 7
+say un potente mago vive nella grotta dei cristalli... le sue magie, dicono, sono a tutti sconosciute.
+elseif %punto% == 8
+say fai attenzione a cio' che raccogli..
+else
+end
+end
+~
+/s
+q
+y

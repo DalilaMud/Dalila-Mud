@@ -1,0 +1,28 @@
+trigedit 2615
+6  
+/c 
+* Lista comandi
+set b braccio
+if %arg% == settimo %b%
+oforce %actor.name% emote spinge un braccio del candelabro
+wait 2 s
+oecho &9&xQuando spingi il settimo braccio del candelabro un oscuro passaggio segreto si apre davanti a te!&0
+%door% 50228 n room 50229
+wait 10 s
+oecho &9&xSenti il rumore di un meccanismo che gira mentre il passaggio si richiude&0
+%door% 50228 n purge
+halt
+elseif %arg% == primo %b% || %arg% == secondo %b% || %arg% == terzo %b% || %arg% == quarto %b% || %arg% == quinto %b% || %arg% == sesto %b% || %arg% == ottavo %b% || %arg% == nono %b% || %arg% == decimo %b% || %arg% == undicesimo %b%
+wait 1 s
+oforce %actor.name% emote spinge un braccio del candelabro
+wait 1 s
+osend %actor.name% &1&xOh oh... una freccia parte dal muro colpendoti in pieno!&0
+oechoaround %actor.name% &1&xUna freccia diparte dal muro colpendo in pieno %actor.name%&0
+odamage %actor.name% 200
+else
+oforce %actor.name% %cmd%
+end
+~
+/s
+q
+y

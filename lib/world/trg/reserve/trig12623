@@ -1,0 +1,281 @@
+trigedit 12623
+6  
+/c 
+if %actor.name% == %gestore% || %actor.name% == %monarca% || %actor.name% == %funzionario% || %actor.name% == %reggente%
+if %speech% == preleva
+wait 3
+set azione 2
+global azione
+emote aspetta di sapere che merce rilasciare
+end
+if %speech% == cambia produzione || %speech% == preleva
+if %tipo% == argento || %tipo% == metalli
+if %speech% == cambia produzione
+wait 5
+emote puo' essere indirizzata verso la produzione di Corazzamenti (1) o di armi (2)
+set azione 1
+global azione
+end
+else
+if %tipo% == Oro
+set 1a 12650
+global 1a
+set 1r 500
+global 1r
+end
+if %tipo% /= argento || %tipo% /= metalli
+if %tipo% /= argento
+set 1a 12651
+global 1a
+set 1r 500
+global 1r
+elseif %tipo% /= metalli
+set 1a 12658
+global 1a
+set 1r 220
+global 1r
+end
+if %tipo% /= corazze
+set 2a 12652
+global 2a
+set 2r 220
+global 2r
+set 3a 12653
+global 3a
+set 3r 160
+global 3r
+set 4a 12654
+global 4a
+set 4r 150
+global 4r
+set 6a 12656
+global 6a
+set 6r 150
+global 6r
+set 5a 12655
+global 5a
+set 5r 150
+global 5r
+set 7a 12657
+global 7a
+set 7r 150
+global 7r
+set 8a 12659
+global 8a
+set 8r 135
+global 8r
+set 9a 12643
+global 9a
+set 9r 140
+global 9r
+end
+if %tipo% /= armi
+set 2a 12661
+global 2a
+set 2r 150
+global 2r
+set 3a 12662
+global 3a
+set 3r 150
+global 3r
+set 4a 12663
+global 4a
+set 4r 150
+global 4r
+set 5a 12664
+global 5a
+set 5r 120
+global 5r
+set 6a 12665
+global 6a
+set 6r 150
+global 6r
+end
+elseif %tipo% == cibo
+set 1a 12666
+global 1a
+set 1r 40
+global 1r
+set 2a 12667
+global 2a
+set 2r 45
+global 2r
+set 3a 12668
+global 3a
+set 3r 50
+global 3r
+set 4a 12669
+global 4a
+set 4r 60
+global 4r
+set 5a 12670
+global 5a
+set 5r 60
+global 5r
+set 6a 12671
+global 6a
+set 6r 70
+global 6r
+set 7a 12672
+global 7a
+set 7r 65
+global 7r
+set 8a 12673
+global 8a
+set 8r 60
+global 8r
+set 9a 12674
+global 9a
+set 9r 65
+global 9r
+elseif %tipo% == pietre
+set 1a 12675
+global 1a
+set 1r 130
+global 1r
+set 2a 12676
+global 2a
+set 2r 300
+global 2r
+elseif %tipo% == erbe
+set 1a 12601
+global 1a
+set 1r 150
+global 1r
+set 2a 12602
+global 2a
+set 2r 150
+global 2r
+set 3a 12603
+global 3a
+set 3r 150
+global 3r
+set 4a 12604
+global 4a
+set 4r 150
+global 4r
+set 5a 12605
+global 5a
+set 5r 150
+global 5r
+set 6a 12606
+global 6a
+set 6r 150
+global 6r
+elseif %tipo% == preziose
+set 1a 12677
+global 1a
+set 1r 350
+global 1r
+set 2a 12678
+global 2a
+set 2r 400
+global 2r
+set 3a 12679
+global 3a
+set 3r 400
+global 3r
+set 4a 12680
+global 4a
+set 4r 400
+global 4r
+set 5a 12681
+global 5a
+set 5r 250
+global 5r
+elseif %tipo% == selvaggina
+set 1a 12682
+global 1a
+set 1r 140
+global 1r
+set 2a 12683
+global 2a
+set 2r 150
+global 2r
+set 3a 12684
+global 3a
+set 3r 170
+global 3r
+set 4a 12685
+global 4a
+set 4r 150
+global 4r
+set 5a 12686
+global 5a
+set 5r 150
+global 5r
+set 6a 12687
+global 6a
+set 6r 150
+global 6r
+set 7a 12688
+global 7a
+set 7r 160
+global 7r
+set 8a 12689
+global 8a
+set 8r 160
+global 8r
+set 9a 12690
+global 9a
+set 9r 80
+global 9r
+elseif %tipo% == legname
+set 1a 12691
+global 1a
+set 1r 160
+global 1r
+set 2a 12692
+global 2a
+set 2r 100
+global 2r
+set 3a 12693
+global 3a
+set 3r 110
+global 3r
+set 4a 12694
+global 4a
+set 4r 100
+global 4r
+set 5a 12695
+global 5a
+set 5r 160
+global 5r
+set 6a 12696
+global 6a
+set 6r 150
+global 6r
+set 7a 12697
+global 7a
+set 7r 200
+global 7r
+set 8a 12645
+global 8a
+set 8r 110
+global 8r
+set 9a 12646
+global 9a
+set 9r 200
+global 9r
+set 10a 12649
+global 10a
+set 10r 220
+global 10r
+set 11a 12648
+global 11a
+set 11r 100
+global 11r
+end
+wait 6
+if %speech% == cambia produzione
+emote aspetta di sapere Che numero in lista si intende far produrre
+set azione 1
+global azione
+end
+end
+end
+end
+~
+/s
+q
+y

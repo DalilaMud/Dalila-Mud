@@ -1,0 +1,410 @@
+#5300
+mazza egiziana~
+una mazza egiziana~
+Una mazza egiziana di bronzo giace qui.~
+~
+5 78848 8193
+0 3 6 7 60 60
+10 30000 5000 12 0 0
+E
+mazza egiziana~
+La mazza e' formata da ottone massiccio, sul manico noti dei geroglifici
+molto particolari.
+~
+#5301
+tunica color sabbia~
+una tunica color sabbia~
+Una tunica color sabbia giace qui.~
+~
+11 182353 1025
+0 0 0 0 40 40
+5 30000 3000 45 0 0
+E
+tunica color sabbia~
+E' una tunica color bianco sabbia... ricoperta appunto di sabbia.
+~
+A
+25 6
+#5302
+pugnale ossidiana~
+un pugnale d'ossidiana~
+Un liscio pugnale fatto di ossidiana scadente giace qui.~
+~
+5 110656 8193
+0 5 5 1 50 50
+14 50000 8000 8 0 0
+E
+pugnale d'ossidiana~
+La lama del pugnale e' nera, il materiale e' scadente, ma e' molto affilato.
+~
+#5303
+turbante panno~
+uno sporco turbante di panno~
+Uno sporco turbante di panno e' stato dimenticato qui.~
+~
+9 164864 17
+5 0 0 0 50 50
+11 1500 250 9 0 0
+E
+turbante panno~
+Il turbante  fatto di un bianco panno, adesso e' coperto d'olio ed e' stato
+sporcato dai capelli e dalla testa del suo precedente possessore che
+probabilmente non doveva lavarsi molto.
+~
+#5304
+panno avvolto~
+&3del panno avvolto&0~
+Lunghi panni arrotolati giaciono sul pavimento in una pila.~
+~
+9 110592 9
+9 0 0 0 40 40
+15 15000 1500 25 0 0
+E
+panni arrotolati avvolto~
+I panni arrolotatisono vecchi, rugosi, e bagnati da uno strano liquido.
+~
+#5305
+bottiglia fluido~
+&3una bottiglia con uno strano liquido&0~
+Una bottiglia impolverata giace qui sul pavimento.~
+~
+10 0 1
+5 33 -1 -1 20 20
+5 250 50 36 0 0
+E
+&3bottiglia di fluido&0~
+La bottiglia e' impolverata e il liquido ha uno strano sapore dolciastro.
+~
+#5306
+vaso formaldeide~
+&3un vaso di formaldeide&0~
+Un piccolo vaso giace sul pavimento.~
+~
+10 0 1
+10 16 -1 -1 20 20
+6 300 60 36 0 0
+E
+&3vaso di formaldeide&0~
+Il vaso e' rugoso e ridotto veramente male.
+~
+#5307
+palla fuoco~
+&1una piccola e calda palla di fuoco&0~
+Una piccola palla di fuoco galleggia davanti ai tuoi occhi.~
+~
+1 175425 16385
+0 0 -1 0 20 20
+10 150000 25000 48 0 0
+E
+&1palla di fuoco&0~
+La palla di fuoco e' calda e al tocco e' veramente veramente lucido.
+~
+A
+14 25
+#5308
+scimitarra pietra~
+&3una scimitarra di pietra&0~
+Una curvata scimitarra fatta di pietra giace sul pavimento.~
+~
+5 77890 8193
+0 3 7 3 90 90
+18 45000 6000 8 0 0
+E
+&3scimitarra di pietra&0~
+La scimitarra e' formata da della solida pietra, scheggiata e lavarata alla
+perfezione, con un'affilata, fredda lama che e' interrotta solo da poche crepe
+qua' e la'.
+~
+#5309
+chiave pietra~
+una chiave di pietra~
+Una chiave di pietra e' stata posata qui.~
+~
+18 4 16385
+5309 0 0 0 50 50
+15 0 0 1 0 0
+E
+&3chiave di pietra&0~
+La chiave e' fatta di pietra, ma e' di una lavorazione incredibile.
+~
+#5310
+sarcofago pietra~
+&3un possente sarcofago di pietra&0~
+Un maestoso sarcofago di pietra e' sistemato al centro della tomba.~
+~
+15 0 0
+5500 15 5309 0 100 100
+5000 5000 5000 1 0 0
+E
+&3sarcofago di pietra&0~
+Il sarcofago e' inciso in alto con l'effige del faraone, grandi guerre
+combattute tanto tempo fa, maestose piramidi che furono iniziate a costruire...
+
+l'immagine in cima al sarcofago e' l'immagine del viso del possente
+faraone, dipinta d'oro e incastonate preziose gemme.
+
+ Vedi un piccolo buco della serratura nel lato del sarcofago.
+~
+#5311
+polvere vecchia~
+&3della vecchia polvere&0~
+Un piccolo mucchio di polvere e' spazzato dal vento.~
+~
+13 0 16385
+0 0 0 0 100 100
+1 1 1 1 0 0
+E
+&3polvere&0~
+La polvere e' vecchia. Quando prendi in mano la sabbia senti delle piccole
+schegge di vecchie ossa all'interno -- devono essere antichi resti di qualcosa.
+~
+#5312
+scarabeo smeraldo~
+&3un piccolo scarabeo di smeraldo&0~
+Un piccolo scarabeo di smeraldo giace sul pavimento.~
+~
+18 4 16385
+5312 0 0 0 70 70
+5 0 0 1 0 0
+E
+&3scarabeo di smeraldo&0~
+Lo scarabeo e' incredibilmente intricato, tutte le parti del corpo dello
+scarabeo hanno degli intricati disegni.
+~
+#5313
+lampada~
+&3la lampada&0~
+Una piccola, appannata, vecchia lampada e' stata posata qui.~
+~
+4 1091 16385
+30 5 5 35 20 20
+10 100000 5000 0 0 0
+E
+&3lampada&0~
+La lampada e' piuttosto vecchia e trasandata.  raccogli la lampada anche se
+non illumina molto, non illuminerebbe la stanza i una casa ma hai solo quella.
+~
+#5314
+ankh bronzo~
+&3un ankh&0~
+Un piccolo ankh di bronzo e' stato lasciato qui.~
+~
+11 50241 16385
+0 0 0 0 30 30
+9 30000 3000 24 0 0
+E
+&3ankh&0~
+L'ankh e' un piccolo sigillo di ottone di un'antica religione.  Splende
+con una morbida ma brillante luce che e' ti illumina.
+~
+A
+6 1
+#5315
+libro indovinelli~
+un libro degli indovinelli~
+Un libro di media grandezza con le pagine abbastanza consumate giace qui.~
+~
+2 0 1
+29 20 22 64 20 20
+15 25000 2500 1 0 0
+E
+&3libro degli indovinelli&0~
+Il libro ha le pagine abbastanza consumate, contenente molti complicati
+indovinelli per sorprenderti, confonderti, e stupirti. Ti rallegri del suo
+contenuto e tiri indietro il capo dal ridere.
+~
+#5316
+zampa leone~
+&3una zampa di leone&0~
+La massiccia zampa di una creatura simile ad un leone e' stata posata qui.~
+~
+5 111168 8193
+0 2 13 5 60 60
+20 55000 10000 23 0 0
+E
+&3zampa di leone&0~
+La massiccia zampa e' fatta in parte di bronzo, quando la indossi si trasforma
+nell'estensione del tuo braccio. Una volta indossata noti dei geroglifici
+incisi sul bronzo della zampa.
+~
+#5317
+pergamena risposta~
+una pergamena di risposta~
+Un piccolo pezzo di pergamena coperta di geroglifici giace qui.~
+~
+18 4 16385
+5317 0 0 0 100 100
+1 1 1 1 0 0
+E
+&3pergamena con dei geroglifici&0~
+Non riesci a decrifrare gli strani geroglifici che coprono
+questo pezzo di pergamena.
+~
+#5318
+tesoro sfinge~
+&3il tesoro della sfinge&0~
+Il maestoso tesoro della sfinge giace qui in un'enorme pila.~
+~
+20 0 1
+350 0 0 0 100 100
+23 3500 0 1 0 0
+E
+&3tesoro&0~
+Il tesoro e' incredibilmente grande, un cumulo di monete e gioielli, molto piu'
+di quello che tu saresti riuscito ad immaginare e' accumulato tutto in un solo
+palazzo.
+~
+#5319
+cumulo sabbia~
+&3un cumulo di sabbia&0~
+Vedi una piccola pila di sabbia.~
+~
+20 0 1
+100 0 0 0 100 100
+10 12986 0 1 0 0
+E
+&3pila di sabbia&0~
+Pensi di vedere un cumulo di monete e preziosis ma ti accorgi che sono solo
+granelli di sabbia.
+~
+#5320
+maledizione mummia~
+&3la maledizione della mummia&0~
+Alcune fortunate anime sono riuscite a scappare dalla maledizione della mummia, per ora.~
+~
+13 236 16385
+0 0 0 0 100 100
+1 10000 100 -37 0 0
+E
+&3maledizione della mummia&0~
+Il rumore ha disturbato il sonno della mummia che e' stata maledetta per
+l'eternita' e anche tutti i suoi discendenti saranno maledetti, se saranno
+fortunati saranno maledetti solo per dieci generazioni a seguire.
+~
+A
+13 -50
+A
+14 -100
+#5321
+elisir piccolo bicchiere~
+un elisir~
+Un piccolo bicchiere con del liquido dentro si trova sul pavimento.~
+~
+10 64 1
+35 36 0 0 20 20
+2 110000 50000 1 0 0
+E
+&3elisir in un piccolo bicchiere&0~
+L'elisir e' incredibilmente piccolo.  Qualcosa che ti dice che il suo
+contenuto e' molto potente.  Benche sia troppo potente per essere bevuta
+dai comuni mortali.
+~
+#5322
+maschera oro~
+&3una maschera d'oro&0~
+Una fantastica, intricata e dettagliata maschera e' stata dimenticata qui.~
+~
+9 241729 17
+10 0 0 0 80 80
+10 200000 30000 46 0 0
+E
+&3maschera dorata&0~
+Questa stupenda macchina e stata forgiata con dell'oro e magicamente incantata
+ed e' perfettamente fusa per la faccia di qualcuno che decise di indossarla, la
+sua fattura e' d'oro e permette a chi la indossa  di poter cambiare molte volte
+l'espressione del viso.
+~
+A
+19 1
+A
+6 -1
+A
+23 -6
+#5323
+diamante~
+un diamante~
+Un diamante giace qui.~
+~
+13 0 1
+0 0 0 0 90 90
+5 0 0 1 0 0
+E
+&3diamante&0~
+Aha!
+
+Vedi una gemma a multifaccia, che fa strani riflessi di
+luce, e' molto complicata da trovare quando e' posato al suolo.
+~
+#5324
+bastone sole dio~
+il bastone del dio Sole~
+Un piccolo bastone del Dio sole giace qui splendendo di luce propria.~
+~
+3 32833 16385
+35 10 10 58 50 50
+10 100000 10000 0 0 0
+E
+&3bastone del dio sole&0~
+Questo bastone e' un'arma che usa il principio del fulmine, usata dall'antica
+popolazione di  questa terra per difendersi contro i loro nemici. Splende con
+la  brillante luce del sole.
+~
+#5325
+anello color sabbia~
+&3un anello color sabbia&0~
+Un piccolo anello color sabbia e' stato stupidamente dimenticato qui.~
+~
+11 180290 3
+0 0 0 0 40 40
+5 40000 3500 39 0 0
+E
+&3anello di sabbia&0~
+L'anello e' piccolo, liscio, di color sabbia, non lo senti neanche quando lo
+indossi, salvo per il fatto che emette un continuo ronzio, talmente forte da
+far tremare le tue dita.
+~
+A
+3 2
+A
+1 -1
+#5326
+sfinge dorata~
+&3una piccola sfinge dorata&0~
+Una piccola sfinge dorata brilla nella luce.~
+~
+8 171072 16385
+0 0 0 0 80 80
+5 50000 5000 40 0 0
+E
+&3sfinge dorata&0~
+La sfinge dorata e' incredibilmente dettagliata e veramente piccola, ci sta
+perfettamente nel palmo di una delle tue mani. Puoi tranne dalla sua
+espressione di conoscenza e pace.
+~
+A
+4 2
+#5327
+gambali sfinge~
+&3i gambali della sfinge&0~
+Possenti gambali ricavati dal corpo di una sfinge sono appoggiati qui.~
+~
+9 12866 33
+7 0 0 0 60 60
+20 200000 30000 49 0 0
+E
+gamabali della sfinge~
+Questi magici e affascinanti gambali emanano la forza e il coraggio
+delle possenti e antiche sfingi.  Senti l'antico potere 
+emanato da questi; sembrano essere quasi vivi.
+~
+A
+2 1
+#5328
+tesoro faraone~
+&3il Tesoro del Faraone&0~
+Il leggendario Tesoro del Faraone e` sparso per tutta la cripta.~
+~
+20 0 1
+3500 0 0 0 0 0
+0 3500 0 1 0 0
+$~

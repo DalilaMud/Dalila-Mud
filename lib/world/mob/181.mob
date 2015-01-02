@@ -1,0 +1,694 @@
+#18100
+Uno squalo bianco~
+Uno squalo bianco~
+Un grosso squalo bianco e' in cerca di cibo
+~
+Vedi uno squalo bianco lungo circa 6 metri che si dirige verso di te...
+~
+~
+~
+~
+8296 41944160 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+38 0
+8 8 1
+BareHandAttack: 4
+E
+#18101
+piovra gigante~
+Una piovra gigante~
+Una piovra gigantesca e' qua
+~
+Non riesci a contare quanti tentacoli ha, ma sono tanti e soprattutto lunghissimi!
+~
+~
+~
+~
+73816 8389728 0 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 4d11+11
+38 0
+8 8 2
+E
+#18102
+idra~
+Un' idra marina~
+Una grossa e rarissima idra marina si e' rifugiata qua
+~
+E' molto grossa e sembra aggressiva
+~
+~
+~
+~
+73786 8397928 -500 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+949 4d11+11
+47 0
+8 8 2
+BareHandAttack: 4
+E
+#18103
+granchio gigante~
+Un granchio gigante~
+Un granchio enorme sembra essersi addormentato
+~
+Quelle chele fanno paura...
+~
+~
+~
+~
+163850 137464120384 0 -1 -1 -1 -1 -1 E
+58 0 -10 1d1+949 4d11+11
+41 0
+8 8 1
+BareHandAttack: 6
+E
+#18104
+anguilla~
+Un anguilla gigante~
+Una grossa anguilla dal corpo quasi trasparente e' dentro questa piccola caverna
+~
+E' lunga quasi 3 metri, hai sentito dire che alcune di esse emettono elettricita'
+~
+~
+~
+~
+12299 137447343336 -200 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+949 4d11+11
+38 0
+8 8 2
+BareHandAttack: 4
+Spec: 31
+E
+#18105
+tyrano~
+&1&x TYRANO &0~
+&1&xTYRANO&0, la piu' potente delle creature, sta distruggendo tutto quello che incontra.
+~
+Ovunque intorno lui solo la morte e la distruzione, nulla riesce a fermare la furia di
+questa creatura.
+Il suo corpo e' ricoperto da innumerevoli ferite di battaglia che hanno avuto come
+unico effetto quello di farlo infuriare di piu' !
+La sua testa e' spaventosa, la sua mascella potrebbe stritolare un Elefante in meno di
+un secondo, vedi che e' privo di un occhio.
+Le leggende raccontano che lo abbia perso lottando contro il piu' forte guerriero
+della Daresia.
+~
+~
+~
+~
+254073 2611440821288 -1000 -1 -1 -1 -1 -1 E
+70 -6 -20 1d1+1599 9d13+30
+48 0
+8 8 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 27
+E
+#18106
+triceratopo~
+Un triceratopo~
+Un grosso triceratopo si aggira qua, sembra non averti notato
+~
+Pensi che nulla possa sopravvivere ad una sua carica...
+~
+~
+~
+~
+84056 1024 0 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+969 4d11+11
+47 0
+8 8 1
+BareHandAttack: 11
+E
+#18107
+brontosauro~
+Un brontosauro~
+Un ENORME brontosauro si sta cibando di interi alberi
+~
+E' la creatura piu' grossa che tu abbia mai visto !!!
+~
+~
+~
+~
+123034 5120 400 -1 -1 -1 -1 -1 E
+65 -1 -10 1d1+1079 4d12+13
+62 0
+8 8 1
+E
+#18108
+velociraptor~
+Un velociraptor~
+Un velociraptor e' pronto a tenderti un agguato
+~
+Potresti definirlo come un tyrano in miniatura , molto ma molto piu' piccolo.
+~
+~
+~
+~
+8296 34341888 -500 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 4d11+11
+45 0
+8 8 1
+BareHandAttack: 4
+E
+#18109
+umanoide incrocio scimmia~
+Un uomo-scimmia~
+Uno strano umanoide simile ad un incrocio con una scimmia sta accendendo un fuoco
+~
+E' davvero brutto!
+~
+~
+~
+~
+12682 33792 -150 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+35 0
+8 8 1
+E
+#18110
+tigre sciabola~
+Una tigre dai denti a sciabola~
+Una grossa tigre dai denti a sciabola sta riposando
+~
+E' molto piu' grossa di una tigre normale... e sai anche che e' molto aggressiva
+~
+~
+~
+~
+42 1056 -200 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+36 0
+8 8 2
+BareHandAttack: 4
+E
+#18111
+guardia~
+Una guardia~
+Una guardia dall' aspetto quasi umano proteggera' il suo villaggio
+~
+QUASI umano...
+~
+~
+~
+~
+42 1024 300 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+29 0
+8 8 1
+E
+#18112
+uomo scimmia~
+Un uomo scimmia~
+Un grosso uomo scimmia ti guarda incuriosito
+~
+Che puzza !
+~
+~
+~
+~
+12360 267264 50 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+769 4d9+9
+36 0
+8 8 1
+E
+#18113
+donna scimmia~
+Una donna scimmia~
+Una donna scimmia e' qua
+~
+Che puzza!
+~
+~
+~
+~
+4312 1024 50 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+769 4d10+10
+36 0
+8 8 2
+E
+#18114
+Capo uomini scimmia~
+Il Capo Degli Uomini Scimmia~
+Il Capo Degli Uomini Scimmia e' qua che si sta divertendo
+~
+E' sicuramente il capo in quanto il piu' forte della tribu'
+(... e di gran lunga il piu' puzzolente, argh!!!)
+~
+~
+~
+~
+45387 16778368 -100 -1 -1 -1 -1 -1 E
+60 -2 -9 1d1+969 4d11+12
+47 0
+8 8 1
+Spec: 16
+E
+#18115
+stregone scimmia~
+Lo stregone della tribu'~
+Una specie di stregone scimmia sta disegnando strani simboli sulle pareti
+~
+Come e' possibile che anche esseri privi di intelletto sviluppino la magia ??
+~
+~
+~
+~
+13323 1024 -100 -1 -1 -1 -1 -1 E
+55 0 -8 1d1+799 4d10+12
+41 0
+8 8 1
+Spec: 15
+E
+#18116
+orso nero~
+Un orso nero~
+Un orso nero ammaestrato dalla tribu' sta dormendo
+~
+ORSO??? ne esistono di cosi' grossi ???
+~
+~
+~
+~
+106616 1024 100 -1 -1 -1 -1 -1 E
+55 1 -8 1d1+899 4d11+11
+30 0
+4 4 1
+BareHandAttack: 4
+Str: 25
+Dex: 16
+E
+#18117
+medusa gigante~
+Una medusa gigante~
+Una medusa gigante con dei bellissimi disegni e' qua, bella e mortale !
+~
+Sembrerebbe quasi innocua... se non fosse per quel dannato acido potentissimo !
+~
+~
+~
+~
+254011 276825152 -300 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+799 4d11+11
+45 0
+8 8 0
+Spec: 30
+E
+#18118
+sfera luce~
+Una misteriosa sfera di luce~
+Una misteriosa sfera di luce levita a quasi 1 metro dal terreno
+~
+Sembra composta da una strana energia che non hai mai visto
+~
+~
+~
+~
+75864 34604072 0 -1 -1 -1 -1 -1 E
+55 1 -8 1d1+699 4d11+11
+49 0
+8 8 0
+E
+#18119
+uomo metallico~
+Un uomo metallico~
+Una specie di uomo composto di metallo si blocca e ti fissa
+~
+Che sia un golem di ferro ?
+~
+~
+~
+~
+172042 2199124968488 0 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+999 4d12+12
+53 0
+8 8 0
+E
+#18120
+verme viola~
+Un gigantesco verme viola~
+Un gigantesco verme viola esce dal terreno e ti attacca !!!
+~
+Con un solo morso potrebbe ingoiarti !
+~
+~
+~
+~
+73848 16786432 -500 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+949 4d11+11
+33 0
+8 8 0
+BareHandAttack: 4
+E
+#18121
+anaconda gigante~
+Un' anaconda gigante~
+Un'immensa anaconda di cui non riesci a vedere la fine ti attacca !
+~
+Sara' lunga almeno 20 metri !
+~
+~
+~
+~
+42 1152 0 -1 -1 -1 -1 -1 E
+55 1 -8 1d1+899 4d11+11
+37 0
+8 8 1
+BareHandAttack: 4
+E
+#18122
+zanzara~
+Un' immensa zanzara~
+Un' immensa zanzara potrebbe dissanguarti con una sola puntura !
+~
+E' un incubo !
+~
+~
+~
+~
+65609 268436480 -400 -1 -1 -1 -1 -1 E
+48 3 -7 1d1+699 4d9+9
+36 0
+8 8 2
+BareHandAttack: 4
+Spec: 13
+E
+#18123
+rettile coccodrillo~
+Un rettile enorme~
+Un rettile enorme simile ad un coccodrillo sembra essersi accorto di te
+~
+Non hai mai visto creature simili, ma ne avevi sentito parlare in qualche libro.
+~
+~
+~
+~
+12376 1024 200 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+32 0
+8 8 1
+BareHandAttack: 4
+E
+#18124
+mostro orribile fango~
+Un mostro di fango~
+Un' ammasso di fango sembra avere vita !
+~
+Ma e' un' ammasso di fango !!! Come puo' essere una creatura vivente ?
+~
+~
+~
+~
+229496 134218762 -200 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+949 4d11+11
+56 0
+8 8 0
+E
+#18125
+stegosauro animale~
+Uno stegosauro~
+Un grosso animale ricoperto da grosse scaglie sta passando di qua
+~
+Quelle scaglie sarebbero il sogno di ogni guerriero !
+~
+~
+~
+~
+108616 50332800 400 -1 -1 -1 -1 -1 E
+58 0 -10 1d1+999 4d10+11
+32 0
+8 8 1
+E
+#18126
+basilisco violaceo~
+Un basilisco violaceo~
+Un meraviglia unica della natura, un basilisco violaceo, e' qua
+~
+NON GUARDARLO !!! Il suo sguardo puo' pietrificare qualunque cosa !
+~
+~
+~
+~
+43034 1024 -100 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+28 0
+8 8 1
+E
+#18127
+piranha branco~
+Un branco di piranha affamati~
+Un branco di piranha affamati si dirige verso di te
+~
+Questi piccoli pesci possono divorare un toro in meno di un minuto...
+~
+~
+~
+~
+229434 25166952 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+699 4d10+10
+39 0
+8 8 0
+BareHandAttack: 4
+E
+#18128
+pterodattilo qualcosa~
+Uno pterodattilo~
+Qualcosa oscura il cielo volando sopra di te !
+~
+Piu' che un grosso uccello ti sembra un gigantesco rettile volante
+~
+~
+~
+~
+110680 4195328 0 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 4d11+11
+37 0
+8 8 1
+BareHandAttack: 4
+E
+#18129
+ammasso mostro~
+Un mostro marino~
+Uno strano ammasso di conchiglie e tentacoli nuota verso di te
+~
+Che mostro orribile !
+~
+~
+~
+~
+104 75498560 -200 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+799 4d11+11
+35 0
+8 8 0
+BareHandAttack: 11
+E
+#18130
+titano~
+Un titano~
+Un titano sta cacciando qualche dinosauro per cena
+~
+E' alto almeno 15 metri !
+~
+~
+~
+~
+124954 2336462210176 -200 -1 -1 -1 -1 -1 E
+60 2 -9 1d1+994 4d12+24
+50 0
+8 8 1
+Str: 25
+StrAdd: 100
+E
+#18131
+Kraken~
+&4&xUn Kraken&0~
+&4&xUn Kraken&0&3 , il mostro marino piu' terribile e temuto , sta distruggendo tutto&0
+~
+E' un immenso polipo ma con dozzine di tentacoli lunghi e affilati !
+~
+~
+~
+~
+73786 2611348505664 -500 -1 -1 -1 -1 -1 E
+65 -3 -10 1d1+1099 4d13+13
+53 0
+8 8 1
+E
+#18132
+tritone~
+Un tritone~
+Un tritone ti guarda incuriosito
+~
+Sembra uno strano incrocio tra un uomo e un pesce
+~
+~
+~
+~
+6216 41944128 300 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 4d11+11
+35 0
+8 8 1
+E
+#18133
+Shan Re~
+Shan il Re dei Tritoni~
+Shan, il Re dei Tritoni, ti guarda con aria spavalda dal suo trono
+~
+La presenza di Shan ti mette a disagio...
+~
+~
+~
+~
+253978 395326696 500 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+29999 30d100+50
+67 0
+8 8 1
+Spec: 0
+E
+#18134
+uomo luce~
+Un uomo di luce~
+Uno strano uomo di luce attende la tua prima mossa
+~
+Sembra che sia stato creato da Shan per metterti alla prova.
+~
+~
+~
+~
+8203 1064 0 -1 -1 -1 -1 -1 E
+60 -4 -10 5d12+1099 4d12+18
+54 0
+8 8 0
+Spec: 18
+E
+#18135
+sirena~
+Una sirena~
+Una bellissima sirena sta cantando una dolce melodia
+~
+Proprio come nelle leggende, rischi di rimanere per sempre affascinato da questa
+creatura
+~
+~
+~
+~
+14408 1152 200 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+749 4d10+10
+48 0
+8 8 2
+E
+#18136
+capodoglio~
+Un Capodoglio~
+Un Capodoglio ti ha scelto per essere il suo prossimo pasto
+~
+Attento !
+~
+~
+~
+~
+73848 8389696 -300 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+999 4d11+11
+44 0
+8 8 1
+BareHandAttack: 4
+E
+#18137
+guardia reale~
+Una guardia reale~
+Una guardia reale di Shan sta proteggendo il palazzo del Re
+~
+Non ti faranno passare !
+~
+~
+~
+~
+192522 8389824 600 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+949 4d11+11
+49 0
+8 8 1
+E
+#18138
+cacciatore~
+Un cacciatore della tribu'~
+Un cacciatore della tribu' e' stato allertato dalle grida delle guardie e ti sta cercando
+~
+Sembra essere molto abile a cogliere di sorpresa le sue vittime.
+~
+~
+~
+~
+104 820256 50 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+749 4d10+10
+46 0
+8 8 1
+E
+#18139
+sirena lissir~
+Lissir~
+Lissir , la matriarca delle Sirene , potrebbe ammaliarti con un solo sguardo
+~
+E' davvero bellissima
+~
+~
+~
+~
+12363 2199031645290 -300 -1 -1 -1 -1 -1 E
+50 0 -7 1d1+749 4d9+12
+44 0
+8 8 2
+Spec: 15
+E
+#18140
+consigliere~
+Un Consigliere di Shan~
+Un Consigliere di Shan e' davvero sorpreso e preoccupato per la tua intrusione !!!
+~
+Ora potrai raccontare di aver visto anche dei tritoni veramente obesi !!!
+~
+~
+~
+~
+8234 33792 -500 -1 -1 -1 -1 -1 E
+55 2 -8 1d1+799 4d10+10
+38 0
+8 8 1
+E
+#18198
+Koji principe tritone~
+Koji il principe dei tritoni~
+Koji il principe dei tritoni sembra essere davvero ricco !!!
+~
+quanti soldi !
+~
+~
+~
+~
+8657166362 1192 -400 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+799 4d11+11
+45 0
+8 8 1
+E
+#18199
+Flick marinaio~
+Flick il marinaio~
+Flick il marinaio sta fumando la sua pipa
+~
+Nothing.
+~
+~
+~
+~
+57354 67142696 0 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+999 4d15+20
+49 0
+8 8 1
+E
+T 18100
+T 18101
+$

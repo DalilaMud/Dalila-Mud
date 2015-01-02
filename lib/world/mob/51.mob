@@ -1,0 +1,361 @@
+#5100
+schiavo goblin~
+Uno schiavo goblin~
+Uno schiavo goblin sta dormendo qui.
+~
+L' indifeso goblin supplica pieta'.
+~
+~
+~
+~
+142 1024 350 -1 -1 -1 -1 -1 E
+35 10 -3 0d0+499 3d8+6
+30 0
+4 4 1
+E
+#5101
+drow~
+Un drow~
+Un drow sta ispezionando la zona.
+~
+Dubito sia il tipo a cui chiedere informazioni...
+~
+~
+~
+~
+14440 1032 -1000 -1 -1 -1 -1 -1 E
+38 8 -5 0d0+549 3d8+7
+36 0
+8 8 1
+E
+#5102
+drow guerriero~
+Un guerriero drow~
+Un guerriero Drow sta decorando la sua spada.
+~
+Sembra piuttosto annoiato!
+~
+~
+~
+~
+14379 1032 -1000 -1 -1 -1 -1 -1 E
+40 6 -3 0d0+599 3d8+9
+38 0
+8 8 1
+Spec: 16
+E
+#5103
+mago drow~
+Un mago Drow~
+Un mago Drow sta incidendo strani rune sulle pareti.
+~
+Il mago si prepara a lanciare un incantesimo... verso di te!!
+~
+~
+~
+~
+14379 1032 -1000 -1 -1 -1 -1 -1 E
+40 6 -3 0d0+549 3d8+10
+26 0
+8 8 1
+Spec: 15
+E
+#5104
+sacerdotessa drow~
+Una sacerdotessa Drow~
+Una sacerdotessa Drow sta impartendo ordini.
+~
+Non vorrei incontrarla nella sua giornata no! 
+~
+~
+~
+~
+14379 1032 -1000 -1 -1 -1 -1 -1 E
+45 5 -5 0d0+599 4d9+11
+34 0
+8 8 2
+Spec: 18
+E
+#5105
+capo drow~
+Un capo Drow~
+Un capo Drow ti osserva con rabbia.
+~
+Il capo drow e' SEMPRE pronto per un combattimento.
+~
+~
+~
+~
+145930 1032 -1000 -1 -1 -1 -1 -1 E
+40 7 -5 0d0+599 3d9+8
+39 0
+8 8 1
+E
+#5106
+drow soldato veterano~
+Un soldato veterano Drow~
+Un soldato veterano Drow e' pronto per l' ennesima sfida.
+~
+Sicuramente sa come comportarsi in battaglia.
+~
+~
+~
+~
+88090 33832 -1000 -1 -1 -1 -1 -1 E
+43 7 -5 0d0+649 4d7+8
+23 0
+8 8 1
+E
+#5107
+matrona drow~
+Una Matrona Drow~
+La Matrona della Casata e' qua.
+~
+Sembra realmente infastidita dal fatto che tu sia arrivato fin qui.    
+~
+~
+~
+~
+43050 33928 -1000 -1 -1 -1 -1 -1 E
+45 6 -6 0d0+700 4d7+9
+26 0
+8 8 2
+E
+#5108
+drow matrona anziana~
+Un' anziana Matrona Drow~
+Un' anziana Matrona Drow ti sta aspettando.
+~
+Sembra pronta a staccarti la testa e mangiarla.
+~
+~
+~
+~
+174122 33928 -1000 -1 -1 -1 -1 -1 E
+47 5 -7 0d0+740 4d8+9
+37 0
+8 8 2
+E
+#5109
+drider~
+Una drider~
+Una drider ti guarda ghignando mentre estrae la sua spada.
+~
+Questa creatura mezzo-drow e mezzo-ragno e' un nemico formidabile!
+~
+~
+~
+~
+90232 42016 -1000 -1 -1 -1 -1 -1 E
+35 10 -3 0d0+499 3d8+6
+23 0
+8 8 2
+E
+#5110
+drider~
+Una grossa drider~
+Una grossa drider ti balza addosso.
+~
+Questa creatura mezzo-drow e mezzo-ragno e' un nemico formidabile!
+~
+~
+~
+~
+90232 42144 -1000 -1 -1 -1 -1 -1 E
+40 7 -5 0d0+549 3d9+8
+21 0
+8 8 2
+E
+#5111
+yochlol~
+Una Yochlol~
+Una Yochlol, ancella di Lloth, compare da una nuvola di fumo.
+~
+La Yochlol non e' un tipo amichevole...
+~
+~
+~
+~
+256059 33960 -1000 -1 -1 -1 -1 -1 E
+50 2 -10 0d0+1000 5d10+10
+42 0
+8 8 2
+Spec: 28
+E
+#5112
+drow giovane~
+Una giovane Drow~
+Una giovane Drow ti guarda schifata.
+~
+Sembra pronta a saltarti addosso non appena le si presenti l'occasione.    
+~
+~
+~
+~
+14346 33555496 -1000 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+499 3d8+6
+21 0
+8 8 2
+E
+#5113
+drow guardia~
+Una guardia Drow~
+Una guardia Drow proteggera' la casa della Matrona !!!
+~
+Sembra determinata a difendere la sua padrona.
+~
+~
+~
+~
+8234 1064 -100 -1 -1 -1 -1 -1 E
+40 9 -5 1d1+599 3d8+7
+25 0
+8 8 1
+E
+#5114
+fedele drow~
+Una drow fedele a Lloth~
+Una drow fedele a Lloth proteggera' il suo tempio.
+~
+Una Drow fedele a Lloth sta pregando la sua oscura dea.
+~
+~
+~
+~
+8296 134226944 -1000 -1 -1 -1 -1 -1 E
+45 8 -5 1d1+599 3d10+8
+37 0
+8 8 2
+E
+#5115
+assassina drow~
+Un' assassina Drow~
+Un'assassina Drow sta per colpire.
+~
+Un ghigno satanico le si dipinge in volto mentre ti combatte.
+~
+~
+~
+~
+12365 820266 -1000 -1 -1 -1 -1 -1 E
+45 5 -7 1d1+699 4d8+9
+37 0
+8 8 2
+Dex: 18
+Spec: 14
+E
+#5193
+lolth dea ragno~
+Lolth, la Dea Ragno~
+&1&xLolth, la Dea Ragno, in persona ti osserva con i suoi occhi rossi&0
+~
+Lolth si e' appropriata del corpo di una giovane sacerdotessa Drow. Il corpo ne e' stato deformato
+affinche' assomigliasse piu' ad un ragno che ad un elfo scuro. Riesci difficilmente a distinguere
+il profilo di Lolth poiche' la stessa luce ha paura di raggiungere un essere cosi' malvagio.
+~
+~
+~
+~
+8590188570 2199023264808 -1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+29999 30d30+50
+91 0
+8 8 2
+E
+#5194
+Sacerdotessa Lolth~
+Una sacerdotessa di Lolth~
+Una sacerdotessa di Lolth ti attacca!
+~
+patetico umano!
+~
+~
+~
+~
+8590188603 134226984 -500 -1 -1 -1 -1 -1 E
+60 -4 -10 1d1+999 4d12+16
+50 0
+8 8 2
+Spec: 18
+E
+#5195
+assassino Drow ~
+Un assassino Drow~
+Un assassino Drow e' qui nascosto nelle ombre
+~
+Determinato a compiere la sua missione, questo Drow indossa i drappeggi rituali
+dei sacrifici a Lolth, la Dea Ragno
+~
+~
+~
+~
+8590188601 67904554 -500 -1 -1 -1 -1 -1 E
+50 2 -10 1d1+799 4d10+10
+31 0
+8 8 1
+Spec: 14
+E
+#5196
+commando Drow~
+Un commando armato di Drow~
+Un commando armato di Drow sta cacciando qualcuno
+~
+Un bel gruppetto di Drow pronti a uccidere !
+~
+~
+~
+~
+8590188600 2199023264808 -1000 -1 -1 -1 -1 -1 E
+60 -4 -10 1d1+999 4d12+14
+54 0
+8 8 1
+E
+#5197
+drow grande guardiano guerriero~
+Il Guardiano Drow~
+Il Guardiano Drow, il piu' forte guerriero della sua razza, guarda l'entrata al tempio.
+~
+E' determinato a non farti passare.
+~
+~
+~
+~
+41003 137455739944 -1000 -1 -1 -1 -1 -1 E
+45 3 -5 1d1+749 4d7+10
+38 0
+8 8 1
+Spec: 16
+E
+#5198
+drow grande sacerdotessa~
+Una Grande Sacerdotessa Drow~
+Una Grande Sacerdotessa Drow ha deciso di sacrificarti a Lloth.
+~
+La grande sacerdotessa drow sorride, al pensiero della nuova vittima
+sacrificale...    
+~
+~
+~
+~
+9739 9248 -1000 -1 -1 -1 -1 -1 E
+50 2 -6 1d1+749 4d8+10
+44 0
+8 8 2
+Spec: 18
+E
+#5199
+drow arcimago mago~
+Un arcimago Drow~
+Un arcimago Drow sta pregando Lloth per ottenere il suo favore.
+~
+E' pronto a scatenare tutta la sua formidabile potenza contro di te!    
+~
+~
+~
+~
+9739 9224 -600 -1 -1 -1 -1 -1 E
+45 4 -5 1d1+649 4d7+10
+26 0
+8 8 1
+Spec: 15
+E
+$

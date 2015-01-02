@@ -1,0 +1,19 @@
+trigedit 1320
+6  
+/c 
+* Lista comandi
+if %charmato% != on
+wait 2 s
+emote ti guarda con sospetto.
+wait 1 s
+say Ehi tu... Combatti con me! 
+wait 2 s
+ : saltella in segno di sfida.
+wait 3 s
+say Avanti! Fatti sotto! Se sarai in grado di abbattermi la mia spada sara' al tuo servizio!
+else
+end
+~
+/s
+q
+y

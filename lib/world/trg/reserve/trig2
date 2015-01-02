@@ -1,0 +1,54 @@
+trigedit 2
+6  
+/c 
+eval num %random.12%
+global num
+if %num% <= 11
+halt
+end
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Cam camini, cam camini, spazzacamin... Allegro e felice, pensieri non ho... &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Cam camini, cam camini, spazzacamin...  La sorte e' con voi se la mano vi do... &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 chi un bacio mi da', felice sara'... &0'
+wait 1 sec
+emo ammicca sornione.
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Tu penserai che lo spazzacamin, si trovi nel mondo al piu' basso gradin, &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 io sto fra la cenere eppure non c'e' nessuno quaggiu' piu' felice di me. &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Cam camini, cam camini, spazzacamin... Allegro e felice, pensieri non ho... &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Cam camini, cam camini, spazzacamin...  La sorte e' con voi se la mano vi do... &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Cam camini, cam camini, spazzacamin...  e' allegro e felice pensieri non ha... &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 cam camini, cam camini, spazzacamin... la sorte e' con te  se la mano ti da' &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Scelgo le spazzole proprio a puntin, &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 con una la canna, con l'altra il camin. &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 La' dove il fumo si perde nel ciel &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 lo spazzacamino ha il suo mondo piu' bel, &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 tra la terra e le stelle di Londra nel cuor &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 rischiara la notte un vago chiaror. &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Sopra i tetti di Londra, oh!, che splendor! &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 Cam camini, cam camini, spazzacamin... La mano puoi dar alla felicita' &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 e' bello vivere sempre cosi', e insieme cantar cam cam camini... &0'
+wait 3 sec
+emo canticchia allegramente tra se': '&7 cam camini cam cam lo spazzacamin... &0'
+wait 3 sec
+emo sorride.
+~
+/s
+q
+y

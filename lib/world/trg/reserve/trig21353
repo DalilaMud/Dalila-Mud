@@ -1,0 +1,13 @@
+trigedit 21353
+6  
+/c 
+if !(actor.has_item(51015))
+ halt
+else
+ wforce %actor.name% esamina rastrelliera
+ wload obj 51015
+end
+~
+/s
+q
+y

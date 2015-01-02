@@ -1,0 +1,54 @@
+trigedit 9710
+6  
+/c 
+unset manca
+unset inpiu
+set costo 100000
+if %amount% < %costo%
+wait 2 s
+say &1&x Spiacente %actor.name%. Questi soldi non bastano. &0
+wait 2 S
+give %amount% coins %actor.name%
+eval manca %costo%-%amount%
+wait 2 s
+say &2&x La tariffa attuale per un manovale e' di &1 %costo% &2 coin. &0
+wait 2 s
+say &2&x a Voi mancano &1 %manca% &2 coins. &0
+elseif %amount% > %costo%
+wait 2 s
+emote ridacchia
+wait 2
+say &1&x Caro %actor.name% mi avete dato troppi soldi! &0
+wait 2
+give %amount% coins %actor.name%
+eval inpiu %amount%-%costo%
+wait 2 s
+say &2&x La tariffa attuale per un manovale e' di &1 %costo% &2 coin. &0
+wait 2 s
+say &2&x Voi me ne avete dati &1 %inpiu% &2 in piu'&0
+else
+wait 2 s
+Say &1&x Ottimo! &0
+Regno deposita %costo% tolnedra
+wait 2 s
+emote apre una porta nascosta e fa uscire un manovale
+mload mob 9716
+wait 2 s
+mforce manovale follow %actor.name%
+mforce %actor.name% Say Padrone
+mforce manovale Say &3&x Sono a vostra disposizione %actor.name% &0
+wait 2 s
+Say &2&x Ora il manovale e' al vostro servizio.  &0
+wait 2 s
+Say &2&x Per farlo lavorare bastera' impartire l'ordine &1 ORDINA MANOVALE &2 seguita dall'azione &0
+wait 2 s
+Say &2&x Buon lavoro! &0
+wait 1 s
+emote si fa una grossa risata
+wait 1 s
+Say &2&x Ci vediamo presto. &0
+end
+~
+/s
+q
+y

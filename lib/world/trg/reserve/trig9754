@@ -1,0 +1,16 @@
+trigedit 9754
+6  
+/c 
+wait 1 s
+if %actor.name% == Cabal || %actor.name% == Nimrhuin
+ if %speech% == guardia
+  say Ecco a Voi, Cabal
+  mload mob 9745
+  wait 1
+  mforce tolnedra fol cabal
+ end
+end
+~
+/s
+q
+y

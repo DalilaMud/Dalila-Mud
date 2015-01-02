@@ -1,0 +1,45 @@
+trigedit 6677
+6  
+/c 
+* Lista comandi
+if %actor.name% == una sentinella
+  wait 1 s
+  wecho La sentinella urta con la testa una leva dal pomello bianco.
+  wait 1 s
+  wecho Una tenue e luminosa nebbia nasconde il pavimento della stanza.
+  wait 1 s
+  wecho Screeeeeeck ........ Screeeeck .....
+  wdoor %roomsent% w purge
+  wdoor %roomsent% e purge
+  wdoor %roomsent% s room %room1%
+  wdoor %roomsent% s description Una parete mobile.
+  wdoor %roomsent% s flag a
+  wdoor %roomsent% s name parete
+  wdoor %room1% n room %roomsent%
+  wdoor %room1% n description Una parete mobile.
+  wdoor %room1% n flag a
+  wdoor %room1% n name parete
+    
+  wdoor %room2% e room %roomsent%
+  wdoor %room2% e description Una parete mobile.
+  wdoor %room2% e flag ab
+  wdoor %room2% e name parete
+  
+  wdoor %room3% w room %roomsent%
+  wdoor %room3% w description Una parete mobile.
+  wdoor %room3% w flag ab
+  wdoor %room3% w name parete
+  
+  wpurge
+  wload mob %sbronxo%
+  wload mob %gatto%
+  wait 1 s
+  wforce gatto say Miiiaaao
+  set ascensore aperto
+  global ascensore
+else
+end
+~
+/s
+q
+y

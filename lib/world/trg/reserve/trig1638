@@ -1,0 +1,12 @@
+trigedit 1638
+6  
+/c 
+* Lista comandi
+if %cmd% == rimuovi coltello
+ oecho &1Ok&0
+else
+ oecho &5Ok&0
+~
+/s
+q
+y

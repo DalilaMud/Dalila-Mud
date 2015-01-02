@@ -1,0 +1,23 @@
+trigedit 2630
+6  
+/c 
+* Lista comandi
+if %caricato% != on
+if %actor.name% == knives
+set caricato on
+global caricato
+wait 1 s
+osend %actor.name% Porti alla bocca il flauto e suoni uno strano motivetto
+oechoaround Knives suona una strano motivetto col flauto
+wait 1 s
+oecho Dai dintorni spunta fuori un specie di pollo gigantesco tutto giallo!!
+oload mob 50500
+oforce chocobo follow knives
+else
+end
+else
+end
+~
+/s
+q
+y

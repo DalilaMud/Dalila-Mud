@@ -1,0 +1,9 @@
+trigedit 16201
+6  
+/c 
+wait 1 s
+dg_cast 'chill touch' %actor.name%
+~
+/s
+q
+y

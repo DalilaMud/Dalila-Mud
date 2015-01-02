@@ -1,0 +1,32 @@
+trigedit 2060
+6  
+/c 
+set valido 0if %actor.name% == mcfly || %actor.name% == cabal || %actor.name% == knives || %actor.name% == tetsuo
+set valido 1
+end
+if %actor.name% == elrik || %actor.name% == crystin || %actor.name% == nion || %actor.name% == darkshade
+set valido 1
+end
+if %valido% == 1
+if %speech% == furia di Shaarr
+wait 1 s
+if %puntifede% < 1000
+mecho &1&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+halt
+end
+mecho &1&xUn enorme getto di sangue fuoriesce dall'Altare e da forma ad una Furia!&0
+wait 1 s
+mload mob 585
+wait 1 s
+mforce fmaxs say Shaarr mi manda per assisterti nella tua battaglia per la Sua Gloria
+wait 2
+mforce %actor.name% say tu ora mi seguirai, in nome di %god%
+eval puntifede %puntifede%-1000
+global puntifede
+mat cptifedeshaarr say distruggi 20
+end
+end
+~
+/s
+q
+y

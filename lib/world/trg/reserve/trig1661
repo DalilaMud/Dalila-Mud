@@ -1,0 +1,18 @@
+trigedit 1661
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1
+wait 2 s
+say IN NOME DELLO SHOGUN  
+wait 2 s
+say IO DICHIARO I POSSEDIMENTI DEL CONTE BARL
+wait 2 s
+say COME APPARTENENTI AL &6CELESTE IMPERO&0
+wait 2 s
+say TORNATE ALLE VOSTRE CASE, NON SIETE DESIDERATI SUL SUOLO DEL &6CELESTE IMPERO&0
+end
+~
+/s
+q
+y

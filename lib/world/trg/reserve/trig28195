@@ -1,0 +1,19 @@
+trigedit 28195
+6  
+/c 
+   %echo% I famelici SCRILL iniziano a divorare la scatola di bronzo
+   mpurge scatola6
+   wait 3 s
+   %echo% I famelici SCRILL si avventano su tutto quel che trovano potrebbero mangiare anche i sassi!
+   mpurge roccia6
+   mpurge all
+   %echo% I famelici SCRILL hanno divorato tutto ... ora iniziano a mangiarsi tra loro!!!
+   wait 3 s
+   %echo% L'ultimo SCRILL rimasto inizia a mordersi da solo!!! Che scena raccapricciante!
+   %teleport% scrill6 28150
+   wait 3 s
+   say purgami
+~
+/s
+q
+y

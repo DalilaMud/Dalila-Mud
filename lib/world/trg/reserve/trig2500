@@ -1,0 +1,22 @@
+trigedit 2500
+6  
+/c 
+* Lista comandi
+if %actor.name% != krogg
+halt
+end
+if %arg.room% != 752
+halt
+end
+wecho Krogg chiude gli occhi e mormora alcune parole che non riesci a comprendere.
+wait 2 s
+wsend %arg% &2&xLa cortina di fronde dei salici si spalanca, mostrando sul fondo della stanza un buio buco nel terreno in cui le radici degli alberi si inabissano nei meandri della terra.&0&0
+wait 3 s
+wsend %arg% &6&xStai osservando la piccola voragine e improvvisamente, senza che tu muova un muscolo, vieni  attratto in essa da una forza misteriosa.....&0
+wait 3 s
+wsend %arg% ...perdi la cognizione del tempo e dello spazio......
+wteleport %arg% 799
+~
+/s
+q
+y

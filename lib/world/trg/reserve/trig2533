@@ -1,0 +1,142 @@
+trigedit 2533
+6  
+/c 
+* Lista comandi
+set dam %actor.damroll%
+global dam
+if %actor.class% == alcione
+set classe 0
+global classe
+elseif %actor.class% == peloi
+set classe 1
+global classe
+elseif %actor.class% == genidian
+set classe 2
+global classe
+elseif %actor.class% == pandion
+eval classe -2
+global classe
+elseif %actor.class% == cyrinic
+eval classe -2
+global classe
+end
+if %amount% > 100
+say Mi hai dato troppi soldi, %actor.name%
+eval diff %amount% - 100
+wait 1 s
+dai %diff% coins %actor.name%
+end
+wait 2 s
+emote emette una fragorosa risata... che polmoni deve avere costui!
+wait 3 s
+say Sei sicuro di riuscire a impugnare il martello, piccolo %actor.name%?
+wait 3 s
+emote ride ancor piu' fragorosamente di prima...
+wait 3 s
+say Va bene... vediamo cosa sai fare...
+wait 4 s
+msend %actor.name% Maciste ti porge quello che ti pare un &9&xENORME E PESANTE MARTELLO...&0
+mechoaround %actor.name% Maciste porge a %actor.name% un piccolo martello... pare leggero!
+wait 4 s
+mforce %actor.name% emote si sputa sulle mani...
+eval dam %dam%+%classe%
+global dam
+eval tiro %random.10%
+eval tiro %tiro%*%dam%
+wait 3 s
+mforce %actor.name% emote alza il martello e si prepara ad abbatterlo.....
+wait 3 s
+mforce %actor.name% emote cala con veemenza il martello!
+if %tiro% >= 70
+wait 3 s
+mecho &7Il percussore sale....&0
+wait 3 s
+mecho &7Il percussore continua a salire....&0
+wait 3 s
+mecho &7Il percussore sale sempre piu' su....&0
+wait 3 s
+mecho &7&xGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONG! Il percussore colpisce la campana!&0
+wait 3 s
+fischia
+wait 2 s
+say Complimenti vivissimi! Sei davvero forte %actor.name%! Ecco il tuo premio
+mload obj 8812
+dai catene %actor.name%
+posa catene
+halt
+elseif %tiro% >= 50 && %tiro% < 70
+wait 3 s
+mecho &7Il percussore sale....&0
+wait 3 s
+mecho &7Il percussore continua a salire....&0
+wait 3 s
+mecho &7Il percussore sale sempre piu' su....&0
+wait 3 s
+mecho &7Il percussore si arresta poco prima della campana... peccato!&0
+wait 3 s
+say Complimenti %actor.name%! Bella prestazione! Per poco non vincevi il superpremio!
+wait 3 s
+say Eccoti il premio!
+wait 2 s
+mload obj 8810
+dai guanti %actor.name%
+posa guanti
+halt
+elseif %tiro% >= 30 && %tiro% < 50
+wait 3 s
+mecho &7Il percussore sale....&0
+wait 3 s
+mecho &7Il percussore continua a salire....&0
+wait 3 s
+mecho &7Il percussore si arresta con mestizia...&0
+wait 3 s
+sor
+say Bella prestazione!
+wait 2
+emote se la ride sotto i baffi...
+wait 2
+say Eccoti un bel premio!
+wait 2
+mload obj 8809
+dai cinto %actor.name%
+posa cinto
+halt
+elseif %tiro% >= 10 && %tiro% < 30
+wait 3 s
+mecho &7Il percussore sale....&0
+wait 3 s
+mecho &7Il percussore si ferma miserrimamente...&0
+wait 3 s
+ridi
+wait 3 s
+say Bel colpo, %actor.name%!
+wait 3 s
+mload obj 8811
+dai pozione %actor.name%
+posa pozione
+halt
+else
+wait 3 s
+mecho &1&x%actor.name% manca clamorosamente il bersaglio e picchia il martello sul suo stesso piede!&0
+wait 1 s
+mforce %actor.name% rim
+wait 1 s
+mforce %actor.name% rim
+wait 1 s
+mforce %actor.name% rim
+wait 1 s
+mforce %actor.name% urla &1&xAHHHHHHIAAAAAAAAAAAAAAAAAAAAAA&0
+wait 2 s
+ridi
+wait 1 s
+say Bella botta! Mi spiace ma non hai vinto nulla %actor.name%
+wait 2 s
+say Vuoi riprovare?
+wait 1 s
+grin
+halt
+end
+~
+/s
+q
+y

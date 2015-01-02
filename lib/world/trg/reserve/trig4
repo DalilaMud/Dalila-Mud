@@ -1,0 +1,30 @@
+trigedit 4
+6  
+/c 
+* Lista comandi
+%echo% Una pedana in granito emette un debole suono.
+if %cmd% == parola
+  set passwd %arg%
+  remote passwd %actor.id%
+  %echo% passwd settata in %arg%
+  halt
+end
+if %cmd% == portami
+  if %arg% != %passwd%
+    %echo% sbagliato devi dire portami %passwd%
+    halt
+  else
+    %echo% giusto sei entrato
+  end
+end
+return 0
+halt
+%send% %actor% &rImprovvisamente ti ritrovi in un altro luogo, circondato da beni di grande valore.&d
+wteleport %actor.name% 2822
+wait 1
+wforce %actor.name% look
+ 
+~
+/s
+q
+y

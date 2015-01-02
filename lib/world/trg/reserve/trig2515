@@ -1,0 +1,18 @@
+trigedit 2515
+6  
+/c 
+* Lista comandi
+msend %actor.name% &2&xLe nere mandibole di terrore del Wisteron ti stritolano!&0
+mechoaround %actor.name% &2&xIl Wisteron azzanna %actor.name% stritolandolo tra le possenti mandibole&0
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+~
+/s
+q
+y

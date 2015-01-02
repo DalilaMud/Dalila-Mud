@@ -1,0 +1,10 @@
+trigedit 31531
+6  
+/c 
+if %direction% == south
+ wait 1 s
+ wecho &6Un fischio lacera l'aria mettendo tutte le guardie della zona in allarme, devi essere stato avvistato!&0
+~
+/s
+q
+y

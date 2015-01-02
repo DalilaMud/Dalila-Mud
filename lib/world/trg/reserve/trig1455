@@ -1,0 +1,20 @@
+trigedit 1455
+6  
+/c 
+wait 1 s
+eval sfg %random.10%
+if %sfg% == 1
+oecho &1&xUna strana energia magica fuoriesce dall'anello e crea un Gremlin!&0
+oload mob 522
+elseif %sfg% == 2 || %sfg% == 4
+osend %actor.name% L'energia che esce dall'anello ti sopraffa' uccidendoti!
+oechoaround %actor.name% &1&xUn'ondata di energia fuoriesce dall'anello di %actor.name%, uccidendolo&0
+wait 1 s
+odamage %actor.name% 3000
+else
+oecho &1&xIl Flagello dei Gremlins sprigiona qualche scintilla e nulla piu'...&0
+end
+~
+/s
+q
+y

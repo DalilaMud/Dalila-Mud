@@ -1,0 +1,13 @@
+trigedit 2031
+6  
+/c 
+if %get% == 1
+otransform 559
+halt
+end
+set get 1
+global get
+~
+/s
+q
+y

@@ -1,0 +1,296 @@
+trigedit 21356
+6  
+/c 
+*Serratura a combinaxione rotante
+context 1
+* Il PG usa il comando Premi e le rune nelle 5 caselle ruotano in
+* modo asincrono, se compone la sequenxa giusta lo scrigno da un premio.
+*- Se  la prima volta o se qualcuno ha vinto assegna ad %a% numeri nuovi.
+if %engaged% && %engaged% == true
+  halt
+end
+set engaged true
+global engaged
+if (!(%a%))
+  echostaff Trigger aggira CONTEXT guasto... nulla di grave  un promemoria per Phan!!!
+  set c 1
+  while %c% < 6
+    context %c%
+    set a 1
+    eval a (%random.7% + 1)
+    eval c %c% +1
+    global a
+  done
+end
+%echo% &wClick&d
+set c 1
+while %c% < 6
+  context %c%
+  eval r%c% %a%
+  eval c %c% +1
+done
+*%echo% VP - %r1% %r2% %r3% %r4% %r5%
+if %arg% == rosso || %arg% == 1
+  %echoaround% %actor% %actor.name% preme il pulsante &Rrosso&d.
+  %echoaround% %actor% Le rune sullo scrigno iniziano a ruotare.
+  %send% %actor% Premi il pulsante &Rrosso&d...
+  %send% %actor% Alcune rune iniziano a girare...\r\n
+  wait 1 s
+  %send% %actor% La prima e la seconda runa si spostano in alto.\r\n
+  wait 1 s
+  %send% %actor% La terza runa si sposta in basso.\r\n
+  wait 1 s
+  %send% %actor% Le rune si fermano e pulsanti si sbloccano.\r\n
+  eval r1 %r1% + 1
+  eval r2 %r2% + 1
+  eval r3 %r3% - 1
+elseif %arg% == verde || %arg% == 2
+  %echoaround% %actor% %actor.name% preme il pulsante &Vverde&d.
+  %echoaround% %actor% Le rune sullo scrigno iniziano a ruotare.
+  %send% %actor% Premi il pulsante &Vverde&d...
+  %send% %actor% Alcune rune iniziano a girare...
+  wait 1 s
+  %send% %actor% La seconda e la terza runa si spostano in alto.
+  wait 1 s
+  %send% %actor% La quarta runa si sposta in basso.
+  wait 1 s
+  %send% %actor% Le rune si fermano e pulsanti si sbloccano.
+  eval r2 %r2% + 1
+  eval r3 %r3% + 1
+  eval r4 %r4% - 1
+elseif %arg% == lilla || %arg% == 3
+  %echoaround% %actor% %actor.name% preme il pulsante &Eviola&d.
+  %echoaround% %actor% Le rune sullo scrigno iniziano a ruotare.
+  %send% %actor% Premi il pulsante &Elilla&d...
+  %send% %actor% Alcune rune iniziano a girare...
+  wait 1 s
+  %send% %actor% La prima, la terza e la quinta runa si spostano in basso.
+  wait 1 s
+  %send% %actor% La seconda e la quarta si spostano in alto.
+  wait 1 s
+  %send% %actor% Le rune si fermano e pulsanti si sbloccano.
+  eval r1 %r1% - 1
+  eval r2 %r2% + 1
+  eval r3 %r3% - 1
+  eval r4 %r4% + 1
+  eval r5 %r5% - 1
+elseif %arg% == giallo || %arg% == 4
+  %echoaround% %actor% %actor.name% preme il pulsante &Ggiallo&d.
+  %echoaround% %actor% Le rune sullo scrigno iniziano a ruotare.
+  %send% %actor% Premi il pulsante &Ggiallo&d...
+  %send% %actor% Alcune rune iniziano a girare...
+  wait 1 s
+  %send% %actor% La quarta runa si sposta in alto.
+  wait 1 s
+  %send% %actor% La seconda e la terza runa si spostano in basso.
+  wait 1 s
+  %send% %actor% Le rune si fermano e pulsanti si sbloccano.
+  eval r2 %r2% - 1
+  eval r3 %r3% - 1
+  eval r4 %r4% + 1
+elseif %arg% == azzurro || %arg% == 5
+  %echoaround% %actor% %actor.name% preme il pulsante &Cazzurro&d.
+  %echoaround% %actor% Le rune sullo scrigno iniziano a ruotare.
+  %send% %actor% Premi il pulsante &Cazzurro&d...
+  %send% %actor% Alcune rune iniziano a girare...
+  wait 1 s
+  %send% %actor% La terza runa si sposta in basso.
+  wait 1 s
+  %send% %actor% Le ultime due rune si spostano in alto.
+  wait 1 s
+  %send% %actor% Le rune si fermano e pulsanti si sbloccano.
+  eval r3 %r3% - 1
+  eval r4 %r4% + 1
+  eval r5 %r5% + 1
+*messi per testare i premi
+elseif %arg% == xephyroplus
+  %send% %actor% Test premio
+  eval r1 1
+  eval r2 2
+  eval r3 3
+  eval r4 4
+  eval r5 5
+elseif %arg% == phanthegana
+  %send% %actor% Test premio
+  eval r1 3
+  eval r2 4
+  eval r3 6
+  eval r4 7
+  eval r5 8
+else
+  %echoaround% %actor% %actor.name% preme il pulsante &Wbianco&d.
+  %echoaround% %actor% Le rune sullo scrigno iniziano a ruotare vorticosamente.
+  %send% %actor% Premi il pulsante &Wbianco&d...
+  %send% %actor% Tutte le rune iniziano a ruotare velocemente mischiandosi.
+  wait 3 s
+  %send% %actor% Le rune si fermano.
+  set c 1
+  while %c% < 6
+    eval r%c% (%random.7% + 1)
+    eval c %c% +1
+  done
+end
+* Causa guasto del context cancello e riscrivo le variabili globali
+unset a
+unset a
+unset a
+unset a
+unset a
+context 1
+eval a %r1%
+global a
+context 2
+eval a %r2%
+global a
+context 3
+eval a %r3%
+global a
+context 4
+eval a %r4%
+global a
+context 5
+eval a %r5%
+global a
+*- Elabora i valori
+set c 1
+set e
+set fu &d   .:'  &Z:
+set fc &d -::    &W:
+set fd &d   ':.  &Z:
+while %c% < 6
+  context %c% 
+  
+  set xu
+  eval xu %a%
+  if (%xu% > 8)
+    eval xu 1
+  elseif (%xu% <= 0)
+    eval xu 8
+  end
+  if %xu% == 1
+    set bu T
+    set bc &RX
+    set bd E
+  elseif %xu% == 2
+    set bu X
+    set bc &VE
+    set bd P
+  elseif %xu% == 3
+    set bu E
+    set bc &CP
+    set bd H
+  elseif %xu% == 4
+    set bu P
+    set bc &GH
+    set bd Y
+  elseif %xu% == 5
+    set bu H
+    set bc &EY
+    set bd A
+  elseif %xu% == 6
+    set bu Y
+    set bc &WA
+    set bd N
+  elseif %xu% == 7
+    set bu A
+    set bc &BN
+    set bd T
+  elseif %xu% == 8
+    set bu N
+    set bc &rT
+    set bd X
+  else
+    set bu T
+    set bc &zO
+    set bd X
+  end
+  set e %e%%bc%
+  set fu %fu% %bu% &Z:
+  set fc %fc% %bc% &Z:
+  set fd %fd% %bd% &Z:
+  eval r%c% %xu%
+  eval c %c% +1
+done
+*%echo% VF - %r1% %r2% %r3% %r4% %r5%
+* Mostra risultato
+set fu %fu% &d ':.
+set fc %fc% &d   ::-
+set fd %fd% &d .:'
+%echo% &d
+%echo% &d     .::=====================::.
+%echo% %fu%
+%echo% %fc%
+%echo% %fd%
+%echo% &d     '::=====================::'
+%echo% &d       &wo  &R0   &V0   &E0   &G0   &C0  &wo
+set won 0
+ 
+*Elargisce il premio
+if %e% == &RX&VE&CP&GH&EY
+  set won 1
+  eval room %self.room%
+  %echo% Lo scrigno si apre con uno scatto, dal suo interno rotola fuori un grimaldello.
+  if (%actor.has_item(51018)% || %room.contents(51018)%)
+    eval room 51010 + (%random.4% + 3)
+    %load% obj %room%
+  else
+    %load% obj 51018
+  end
+  %echo% Lo scrigno si richiude.
+end
+if %e% == &CP&WA&CP&CP&WA
+  set won 1
+  eval room %self.room%
+  %echo% Lo scrigno si apre con uno scatto, dal suo interno rotola fuori una razione di cibo.
+  %load% obj 2546
+  %echo% Lo scrigno si richiude.
+end
+if %e% == &CP&GH&WA&BN&rT
+  set won 1
+  %echo% Le rune emettono un sinistro bagliore di luce.
+  %echo% Lo scrigno inizia a ticchettare lentamente.
+  set c 1
+  while %c% < 20
+    wait 2 s
+    %echo% &wTIC&d
+    wait 1 s
+    %echo% &RTAC&d
+    eval c %c% +1
+  done
+  %echo% &WUna LUCE ACCECANTE INNONDA LA STANZA&d
+  %echo% &gUn essere mostruoso appare nella stanza&d
+  %load% mob 33125
+end
+* Causa guasto del context cancello e riscrivo le variabili globali
+unset a
+unset a
+unset a
+unset a
+unset a
+if (%won% == 0)
+  context 1
+  eval a %r1%
+  global a
+  context 2
+  eval a %r2%
+  global a
+  context 3
+  eval a %r3%
+  global a
+  context 4
+  eval a %r4%
+  global a
+  context 5
+  eval a %r5%
+  global a
+end
+unset engaged
+context 1
+set engaged false
+global engaged
+context 0
+ 
+~
+/s
+q
+y

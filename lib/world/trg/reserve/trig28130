@@ -1,0 +1,93 @@
+trigedit 28130
+6  
+/c 
+if !(%arg%)
+%send% %actor% Decapitare chi?
+halt
+end
+set condannato %arg%
+if !(%condannato.name%)
+%send% %actor% Non lo vedi qui.
+halt
+end
+set condannato %condannato.name%
+if %condannato% == boia
+%send% %actor% Il Boia non ha nessuna intenzione di farsi la barba con la propria ascia!
+halt
+end
+if %condannato.room% != %actor.room%
+%send% %actor% Non e' qui.
+halt
+end
+if %actor.rank% < 28
+  %echo% &5Il Boia dice, 'Prendo ordini solo da Sua Maesta' !!!'&0
+  halt
+end
+%send% %actor% Ok
+global condannato
+set hp %condannato.hit%
+eval danno %hp% / 2
+if !(%danno%)
+%echo% &5Il Boia dice, 'Nah ... oggi mi gira la testa.'&0
+wait 2 s
+%echo% &5Il Boia dice, 'L'ultima volta che ho lavorato in queste condizioni, l'ho tagliato a pezzi ma non sono riuscito ad ucciderlo!!!'&0
+halt
+end
+wait 5 s
+%echo% &6 L'assistente del boia sistema una cesta di vimini ai piedi del ceppo. &0
+wait 2 s
+%echo% &6 L'assistente del boia costringe %condannato% ad inginocchiarsi di fronte al ceppo.&0
+wait 3 s
+%echo% &6 Con calma l'assistente del boia lega con una cinta di cuoio il busto di %condannato% alla base del ceppo. &0
+wait 4 s
+%echo% &6 Il boia si sistema il cappuccio e osserva con attenzione il collo del condannato. &0
+wait 5 s
+%echo% &6 Il boia solleva lentamente l'enorme ascia.&0
+wait 2 s
+%echo% &6 Il boia inarca la schiena per imprimere forza al colpo.&0
+wait 1 s
+%echo% &6 L'enorme ascia inesorabile e fulminea cade sul collo di %condannato% &0
+wait 1 s
+eval caso %random.5%
+switch %caso%
+case 1
+%echoaround% %condannato% L'ascia del boia non riesce a troncare di netto il collo di %condannato%.
+wait 1 s
+%send% %condannato% Un dolore atroce attraversa il tuo corpo mentre la fredda lama del boia recide il tuo collo
+wait 1 s
+%send% %condannato% Il boia non ti ha colpito in pieno, la ferita e' grave ma sei ancora vivo.
+wait 1 s
+%damage% %condannato% %danno%
+wait 3 s
+%echoaround% %condannato% %condannato% urla in preda al dolore, il sangue sgorga copioso dalla profonda ferita.
+wait 1 s
+%echo% &6 Il boia fissa con aria furiosa il suo assistente.&0
+wait 2 s
+%echo% &5Il Boia dice, 'Ti sei dimenticato un'altra volta di affilare la lama della mia ascia!'&0
+wait 2 s
+%echo% &6 Il boia solleva lentamente l'enorme ascia.&0
+wait 2 s
+%echo% &5Il Boia esclama, 'Siamo qui per ucciderli, non per torturarli!'&0
+wait 2 s
+%echo% &6 Il boia inarca la schiena per imprimere forza al colpo.&0
+wait 1 s
+%echo% &6 L'enorme ascia inesorabile e fulminea cade sul collo di %condannato% &0
+case 2
+case 3
+case 4
+case 5
+eval danno %condannato.hit% +500
+%damage% %condannato% %danno%
+break
+done
+wait 1 s
+%echo% &6 La testa di %condannato% cade nella cesta di vimini. &0
+if %caso% > 4
+%echo% &5L'Assistente del boia esclama, 'Un colpo perfetto Signore! Un taglio pulito e indolore!!!'&0
+wait 2 s
+end
+%echo% %danno% %condannato.hit%
+~
+/s
+q
+y

@@ -1,0 +1,12 @@
+trigedit 28194
+6  
+/c 
+wait 1 s
+%echo% Una scatola di bronzo si apre mentre urta sul terreno.
+wait 1 s
+%echo% Una miriade di piccoli insetti neri esce dalla scatola.
+%load% mob 28151
+~
+/s
+q
+y

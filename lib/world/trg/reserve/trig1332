@@ -1,0 +1,23 @@
+trigedit 1332
+6  
+/c 
+* Lista comandi
+wait 1 s
+say Grazie!
+wait 5
+eval pagamento %amount% + %pagamento%
+global pagamento
+say Con i soldi che mi hai dato ti puoi permettere:
+wait 1 s
+if %pagamento% >= 5000
+ say Un bellissimo imp mercenario!
+ wait 1
+else
+ say Niente, spilorcio!
+ wait 5
+ say Dammi altri soldi!
+end
+~
+/s
+q
+y

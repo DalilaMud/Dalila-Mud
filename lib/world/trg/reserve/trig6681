@@ -1,0 +1,11 @@
+trigedit 6681
+6  
+/c 
+* Lista comandi
+   wait 1 s
+   mload mob 1009
+   foll %actor.name%
+~
+/s
+q
+y

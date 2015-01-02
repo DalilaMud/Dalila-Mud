@@ -1,0 +1,32 @@
+trigedit 1650
+6  
+/c 
+* Lista comandi
+wait 1
+emo alza gli occhi dal piatto che sta preparando e ti guarda storto.
+wait 3
+switch %random.6%
+case 1
+ say Via di qui prima di ritrovarti un coltello tra gli occhi!
+break
+case 2
+ emo abbassa tranquillamente lo sguardo, prende un pugnale e te lo lancia a 10 centimetri dalla testa!
+break
+case 3
+ say Oh qualcuno qua non ci tiene alla vita... VIA DI QUI!!
+break
+case 4
+ say Oh arriva della selvaggina per arricchire i miei piatti! Avvicinati, amico!
+break
+case 5
+ say Allievi, volete vedere come muore un intruso?
+break
+default
+ say Fermo dove sei...
+ emo lancia un pugnale in direzione della tua gamba, ferendoti di striscio.
+break
+done
+~
+/s
+q
+y

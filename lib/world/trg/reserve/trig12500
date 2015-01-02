@@ -1,0 +1,182 @@
+trigedit 12500
+6  
+/c 
+   
+     if %actor.vnum% == %vnum_guardie%
+       if %speech% == eccomi
+         if %fatto% != on
+           set azione 0
+           global azione
+           set somma 0
+           global somma
+           set guardia 0
+           global guardia
+           if !(%ufficio%)
+             bug Non mi e' stato assegnato un ufficio.
+             wait 1 s
+             mgoto 28150
+             halt
+           end
+           if !(%vnum_guardie%)
+             bug Non mi sono state assegnate guardie.
+             halt
+           end       
+           if !(%caserma%)
+             bug Non e' stata settata la caserma dove riunire la ronda.
+             halt
+           end
+           if !(%grado%)
+             set grado 21
+             global grado
+             halt
+           end         
+           wait 1
+           mgoto %ufficio%
+           wait 1
+           set giro 1
+           global giro
+           emo controlla la disposizione dei posti di guardia.   
+           if !(%1%)
+             set 1 %caserma%
+           end 
+           set stanza %1%
+           global stanza
+           if !(%1a%)
+             set 1a 1
+           end
+           set quanti %1a%
+           global quanti
+           wait 1 s
+           say Guardie!!!
+           wait 1  
+           set fatto on
+           global fatto
+         end     
+         eval somma %somma% + 1
+         global somma
+         if %somma% < %numero_guardie%
+           if %libere% != on
+             wait 2
+             eval guardia %guardia% + 1
+             global guardia
+             if %guardia% <= %quanti%
+               say settore %regno_id%
+               wait 1 s
+               say grado %grado%
+               wait 1 s
+               say cella %cella%
+               wait 1 s
+               say postazione %stanza%
+               wait 1 s
+               mload mob %vnum_guardie%
+             else
+               eval giro %giro% + 1
+               global giro
+               set guardia 0
+               set stanza null
+               set quanti 0
+               if %giro% == 1
+                 set stanza %1%
+                 set quanti %1a%
+               elseif %giro% == 2
+                 set stanza %2%
+                 set quanti %2a%
+               elseif %giro% == 3
+                 set stanza %3%
+                 set quanti %3a%
+               elseif %giro% == 4
+                 set stanza %4%
+                 set quanti %4a%
+               elseif %giro% == 5
+                 set stanza %5%
+                 set quanti %5a%
+               elseif %giro% == 6
+                 set stanza %6%
+                 set quanti %6a%
+               elseif %giro% == 7
+                 set stanza %7%
+                 set quanti %7a%
+               elseif %giro% == 8
+                 set stanza %8%
+                 set quanti %8a%
+               elseif %giro% == 9
+                 set stanza %9%
+                 set quanti %9a%
+               end
+               global stanza
+               global quanti
+               wait 4
+               if %stanza% == null
+                 set stanza %caserma%
+                 global stanza
+                 wait 2
+                 say Oggi sei di ronda
+                 wait 2
+                 say settore %regno_id%
+                 wait 1 s
+                 say grado %grado%
+                 wait 1 s
+                 say cella %cella%
+                 wait 1 s
+                 say postazione %caserma%
+               else
+                 if %stanza% != 0
+                   say settore %regno_id%
+                   wait 1 s
+                   say grado %grado%
+                   wait 1 s
+                   say cella %cella%
+                   wait 1 s
+                   say postazione %stanza%
+                 else
+                   set libere on
+                   global libere
+                   say Le guardie da piazzare di guardia sono finite, le altre andranno ora in giro per la citta'
+                   wait 3 s
+                   say Oggi sei di ronda
+                   wait 1 s
+                   say settore %regno_id%
+                   wait 1 s
+                   say grado %grado%
+                   wait 1 s
+                   say cella %cella%
+                   wait 1 s
+                   say postazione %caserma%  
+                 end
+               end
+               wait 1 s
+               mload mob %vnum_guardie%
+             end
+           else
+             wait 1
+             say Oggi sei di ronda
+             wait 2
+             say settore %regno_id%
+             wait 1 s
+             say grado %grado%
+             wait 1 s
+             say cella %cella%
+             wait 1 s
+             say postazione %caserma%
+             wait 1 s 
+             mload mob %vnum_guardie%
+           end          
+         else
+           set giro 1
+           global giro
+           unset guardia
+           set fatto off
+           global fatto
+           set libere off
+           global libere
+           wait 2
+           say Tutte le sentinelle sono al loro posto di guardia.
+           wait 3
+           mat %caserma% say riposo
+         end
+       end
+     end
+~
+/s
+q
+y

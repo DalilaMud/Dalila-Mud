@@ -1,0 +1,253 @@
+#15000
+nulla cosmico~
+il nulla cosmico~
+Non sei in grado di mettere a fuoco il nulla cosmico di Sapowox.~
+~
+5 1048646 8193
+0 5 4 1 80 80
+40 100000 50000 7 0 0
+E
+nulla cosmico~
+Non sei sicuro, ma non sei in grado di capire cosa non sia, perche' non
+assomiglia a nulla che tu abbia visto.  Ti senti un po' confuso, ma vedi una
+scritta sulla cosa.    
+~
+E
+testo scritta iscrizione~
+Dice solo: ' (niente) '
+Non molto illuminante, non e' vero?
+~
+#15001
+oro monete~
+dell'oro~
+Un mucchio d'oro e' qui.~
+~
+20 0 1
+400 0 0 0 0 0
+0 2500 0 1 0 0
+#15002
+scettro reale oro~
+uno scettro d'oro~
+Uno scettro Reale d'oro giace a terra.~
+~
+8 140352 16385
+0 0 0 0 60 60
+20 8000 800 38 0 0
+A
+18 2
+#15003
+corona oro~
+una corona d'oro~
+Una corona d'oro adorna di magnifici gioielli e' stata lasciata qui.~
+~
+9 181312 17
+4 0 0 0 50 50
+40 6000 600 -2 0 0
+#15004
+mela oro~
+Una mela d'oro~
+Una mela d'oro luccica qui.~
+~
+1 1088 16385
+0 0 -1 0 10 10
+5 8000 400 64 0 0
+A
+26 1
+A
+18 1
+#15005
+telescopio~
+un grosso telescopio~
+C'e' un grosso telescopio puntato verso il cielo qui.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+telescopio~
+Un piccolo segno recita:
+
+Proprieta' di Welmar.
+~
+#15006
+spada allenamento~
+una spada da allenamento~
+Una spada d'allenamento con la lama stondata e' appesa alla parete.~
+~
+5 1048576 8193
+0 2 4 3 60 60
+7 300 30 3 0 0
+A
+18 -2
+#15007
+chiave immensa~
+un'immensa chiave~
+C'e' una immensa chiave sul pavimento.~
+~
+18 4 16385
+15007 0 0 0 100 100
+1 0 0 1 0 0
+E
+chiave immensa~
+Sembra molto pesante.
+~
+#15008
+Verminator spada~
+Verminator~
+Una spada dalla foggia strana giace al suolo.~
+~
+5 1118729 8193
+1 4 6 10 30 30
+2 7000 700 415 0 0
+E
+verminator spada~
+Questa strana spada sembra essere fatta di un metallo nero, un'aura verde
+circonda la lama.    
+~
+A
+18 20
+#15009
+chiave maggiordomo~
+la chiave del maggiordomo~
+La chiave del maggiordomo si trova qui.~
+~
+18 4 16385
+15009 0 0 0 60 60
+3 0 0 1 0 0
+#15010
+chiave piccola~
+una piccola chiave~
+Una piccola chiave giace qui a terra.~
+~
+18 4 16385
+15010 0 0 0 60 60
+1 0 100 1 0 0
+#15011
+cassa legno~
+una grossa cassa di legno~
+Una grossa cassa di legno si trova in un angolo.~
+~
+15 0 1
+800 13 15010 0 100 100
+450 500 100 1 0 0
+E
+cassa~
+Ha una piccola serratura che qualsiasi ladro (anche alle prime armi)
+riuscirebbe ad aprire.    
+~
+#15012
+fiala grossa pozione blu~
+&4&xuna grossa fiala blu&0~
+Una &4&xgrossa fiala blu&0 e' abbandonata qui.~
+~
+10 64 1
+15 15 16 0 10 10
+14 2000 200 1 0 0
+E
+fiala grossa marrone pozione~
+E' piena di un disgustoso liquido marrone.
+~
+#15013
+stendardo reale~
+uno stendardo reale~
+Lo stendardo reale e' stato saldamente piantato nel suolo.~
+~
+12 0 0
+0 0 0 0 90 90
+0 0 0 1 0 0
+E
+stendardo reale~
+E' grosso e molto pesante.  Sulla sua cima sventola la bandiera di Re Welmar.
+  
+~
+E
+bandiera~
+Sulla bandiera c'e' il simbolo della casata di Re Welmar, un cervo rampante.  
+
+~
+#15014
+chiave~
+una chiave~
+Una chiave giace per terra.~
+~
+18 4 1
+15014 0 0 0 40 40
+13 0 0 1 0 0
+E
+chiave~
+Sopra di essa e' stata accuratamente incisa la lettera 'W'.    
+~
+#15015
+usbergo corazza maglia~
+un usbergo di maglia delle guardie~
+Un usbergo di maglia delle guardie giace sul pavimento.~
+~
+9 1184768 9
+10 0 0 0 50 50
+60 2000 500 20 0 0
+#15016
+spada larga~
+una larga spada~
+C'e' una larga spada qui per terra.~
+~
+5 1184768 8193
+0 2 10 12 60 60
+14 1300 130 18 0 0
+#15017
+chiave cella~
+la chiave della cella~
+Una chiave giace al suolo.~
+~
+18 4 1
+15017 0 0 0 60 60
+3 0 0 1 0 0
+E
+chiave cella~
+Questa sembra essere la chiave delle celle del castello.
+~
+#15018
+cadavere~
+un cadavere~
+C'e' un cadavere che giace a terra al centro di questa costruzione.~
+~
+13 0 0
+0 0 0 0 70 70
+0 0 0 1 0 0
+#15019
+aragosta~
+una deliziosa aragosta~
+Una deliziosa aragosta e' stata abbandonata qui ed ora il suo profumo ti sta tentando.~
+~
+19 0 1
+7 0 0 0 10 10
+5 90 0 1 0 0
+#15020
+caviale~
+del caviale~
+C'e' del delizioso caviale qui che ti fa venire l'acquolina in bocca.~
+~
+19 0 1
+10 0 0 0 10 10
+1 125 20 1 0 0
+#15021
+bagliore~
+un bagliore proveniente da ovest~
+C'e' uno strano bagliore che viene da ovest.~
+~
+13 0 0
+0 0 0 0 50 50
+0 0 0 1 0 0
+E
+bagliore~
+Il bagliore che viene da ovest sembra intenso, eppure non fornisce abbastanza
+luce per poter vedere da quaggiu' a cosa e' dovuto.    
+~
+#15022
+lamento suono~
+un suono lamentoso da est~
+Un suono irreale e lamentoso proviene dalla casa ad est.~
+~
+13 0 0
+0 0 0 0 50 50
+0 0 0 1 0 0
+$~

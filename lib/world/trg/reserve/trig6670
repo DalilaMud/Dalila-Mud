@@ -1,0 +1,88 @@
+trigedit 6670
+6  
+/c 
+* Lista comandi
+   eval num %random.11%
+   if %num% == %numbis%
+     eval num %num% - 1
+   end
+   eval numbis %num%
+   global numbis
+   if %sentinella% == dorme
+    if %num% == 1
+      say  ... gna gnu gna gnaaa ai Suoi ordini Signo..re Roonfff
+    elseif %num% == 2
+      emote si abbraccia nel sonno.
+    elseif %num% == 3
+      say Oste ancora del vino ... per favoo..re   SGRUUUN.
+    elseif %num% == 4
+      emote sembra cadere dal barile.
+    elseif %num% == 5
+      emote si massaggia il naso.
+    elseif %num% == 6
+     emote sorride felice nel sonno.
+    elseif %num% == 7
+      say No no deve dire ...gna gna gnu..Parola d'ordine gna...gnu..gna...Arsenale SGRUNNF
+    elseif %num% == 8
+      ' Ronf .... Ronf.....
+      wait 1 s
+      'Fiiiiiiiiiii
+   else
+      ' Ronf....fiiiiiiii
+    end
+   end
+   if %sentinella% == vigile
+    if %num% == 1
+      emote si strofina le mani.
+    elseif %num% == 2
+      emote si gratta l'orecchio sinistro.
+    elseif %num% == 3
+      emote sbadiglia.
+    elseif %num% == 4
+      emote si infila un dito nel naso.
+    elseif %num% == 5
+      emote ti guarda distrattamente.
+    elseif %num% == 6
+      emote lentamente chiude i suoi occhi.
+      set sentinella dorme
+      global sentinella
+      wait 1
+      say Quando avete preso ...SGRUUNNNF ...una decisione avvertitemi ...HiC. 
+    elseif %num% == 7
+      emote si gratta la pancia.
+    elseif %num% == 8
+      emote si da uno schiaffo per cercare di restare sveglia.
+    elseif %num% == 9
+      emote si conta le dita.
+    elseif %num% == 10
+      emote ciao!!!!
+    else
+      emote gioca nervosa con un fischietto che porta al collo.
+    end
+   end
+   if %sentinella% == apre
+    if %num% == 1
+      emote ti guarda le scarpe.
+    elseif %num% == 2
+      emote emette un lungo e lento fischio.
+      wait 1
+    elseif %num% == 3
+      say In che parte dell'arsenale volete andare?
+    elseif %num% == 4
+      say Vi porto nell'Arsenale del Cibo o in quello delle Pozioni e Attrezzature Magiche?
+    elseif %num% == 5
+      say La violazione dell'arsenale e' punita con la morte.
+    elseif %num% == 6
+      say Ditemi in quale stanza dell'arsenale volete andare!!! Magazzino Generico ?!?
+    elseif %num% == 7
+      say Lo sapevate che questa stanza e' stata progettata dal famoso Otlas Otla!?
+    elseif %num% == 8
+      say Dietro quella parete c'e' l'arsenale delle Armi.
+    else
+     emote ti osserva pensierosa.
+    end
+end
+~
+/s
+q
+y

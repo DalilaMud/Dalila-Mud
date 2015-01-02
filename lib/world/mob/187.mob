@@ -1,0 +1,302 @@
+#18700
+isaac gobbo deforme~
+Isaac~
+Un essere strano e deforme e' qui appeso alla corda del campanile.
+~
+L'essere davanti a te sembra si chiami Isaac.  E' un poveraccio sordo e gobbo,
+assunto un tempo dal Sommo Sacerdote della cattedrale perche' suonasse le
+campane.  E' abbastanza grosso, ma sembra piu' basso a causa della sua
+deformita'.    
+~
+~
+~
+~
+42 1032 1000 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+500 3d8+6
+31 140000
+8 8 1
+E
+#18701
+ghoul cadaverico essere~
+un ghoul~
+Uno strano essere cadaverico e' qui intento ad attaccare un uomo vestito di nero!
+~
+Questo essere sembra abitare un corpo ormai morto da tempo ed essiccato.  La
+sua pelle traslucida e' attaccata alle ossa e ti sembra quasi di riuscire a
+vedere il movimento di qualcosa di bianchiccio al di sotto di essa.    
+~
+~
+~
+~
+10312 262144 -300 -1 -1 -1 -1 -1 E
+25 11 -2 1d1+400 3d6+4
+19 55000
+8 8 0
+E
+#18702
+ghoul cadaverico essere~
+un ghoul~
+Uno strano essere cadaverico si muove contro ad una donna!
+~
+Questo essere sembra abitare un corpo ormai morto da tempo ed essiccato.  La
+sua pelle traslucida e' attaccata alle ossa e ti sembra quasi di riuscire a
+vedere il movimento di qualcosa di bianchiccio al di sotto di essa.    
+~
+~
+~
+~
+72 262144 -300 -1 -1 -1 -1 -1 E
+25 11 -2 1d1+410 3d6+4
+18 55000
+8 8 0
+E
+#18703
+esmeralda sacerdotessa donna~
+Esmeralda la sacerdotessa~
+Una donna in abito scuro osserva i non-morti che si avvicinano.
+~
+Vestita completamente di nero, Esmeralda e' l'attuale Somma Sacerdotessa della
+Cattedrale.  E' strano, non hai mai sentito prima parlare di somme sacerdotesse
+donne...  Ed e' ancora piu' strano che tu conosca il suo nome...  Comunque,
+Esmeralda sembra stia osservando i non-morti che la circondano e che avanzano
+lentamente.    
+~
+~
+~
+~
+2095 1160 -1000 -1 -1 -1 -1 -1 E
+45 6 -7 1d1+400 4d7+9
+29 550000
+8 8 2
+Spec: 18
+E
+#18704
+sacerdote uomo~
+un uomo~
+Un uomo vestito di nero ed argento sta combattendo alcuni non-morti!
+~
+Quest'uomo indossa una veste nera bordata d'argento e sta brandendo una mazza
+fatta, in apparenza, di ossidiana.  Sembra essere circondato dai non.  Morti.
+  
+~
+~
+~
+~
+10 8 600 -1 -1 -1 -1 -1 E
+33 10 -2 1d1+450 3d8+5
+24 110000
+8 8 1
+E
+#18705
+wyrenthoth dracolich drago non-morto~
+Wyrenthoth~
+Wyrenthoth e' qui sul limite della sporgenza che si fa bello.
+~
+Hmmm...  Sembra che tu abbia incontrato Wyrenthoth durante uno dei suoi...  
+Momenti di pavoneggiamento.  Non capisci esattamente che cosa egli veda oltre
+alle ossa.  Ma forse non ti sei ancora reso ben conto di cosa hai di fronte!  
+Ebbene, lo osservi per un istante e noti che non e' altro se non un grosso
+mucchio di ossa.  E questo grosso mucchio di ossa forma cio' che sembra essere
+un drago, anche se a dire il vero un paio di ossa sembrano fuori posto.  Ecco
+come si presenta Wyrenthoth il dracolic~
+~
+~
+~
+8203 17040444 -1000 -1 -1 -1 -1 -1 E
+70 -2 -10 1d1+1250 5d10+13
+57 900000
+8 8 0
+Spec: 28
+E
+#18706
+campiro erich uomo~
+Erich~
+Un uomo pallidissimo abbigliato di nero si trova di fronte  a te.
+~
+L'uomo davanti a te e' completamente vestito di nero, eccetto per il mantello
+che e' invece foderato di raso rosso.  I suoi capelli neri ed i freddi occhi
+verdi sembrano cogliere e riflettere ogni piu' piccolo movimento.  Erich e' il
+vampiro che controlla tutti i non-morti che infestano la cattedrale.    
+~
+~
+~
+~
+108 1032 -1000 -1 -1 -1 -1 -1 E
+42 7 -5 1d1+640 3d10+8
+25 400000
+8 8 1
+E
+#18707
+zombie gigante~
+uno zombie gigante~
+Uno zombie gigante si muove lentamente qua attorno, sembra non avere una meta precisa.
+~
+Lo zombie gigante sembra gironzolare qui attorno rompendo tutto cio' che gli si
+presenta davanti.  E' un'enorme massa di carne in via di putrefazione e l'odore
+che emana e' veramente terribile.    
+~
+~
+~
+~
+10 8 -1000 -1 -1 -1 -1 -1 E
+37 9 -3 1d1+540 6d7+9
+24 150000
+8 8 0
+E
+#18708
+scheletro umano~
+uno scheletro umano~
+Uno scheletro umano e' qui davanti a te, sembra piuttosto confuso.
+~
+Osservi questo essere con una certa curiosita'.  L'essere sembra guardarsi
+attorno come se cercasse qualcuno.  Sei veramente sorpreso quando capisci che
+sta cercando qualcuno in particolare.    
+~
+~
+~
+~
+4202 1160 -700 -1 -1 -1 -1 -1 E
+19 11 0 1d1+200 2d8+4
+17 35000
+8 8 0
+E
+#18709
+zombie cadavere~
+uno zombie~
+Un cadavere e' qui che cammina per le sale della cattedrale.
+~
+La cosa davanti a te e' un cadavere in via di purtrefazione.  La pelle cade a
+brandelli e cio' che resta dei suoi vesti sembrano essere appartenuti ad un
+contadino.    
+~
+~
+~
+~
+72 1032 -300 -1 -1 -1 -1 -1 E
+28 11 -1 1d1+370 3d7+5
+18 124000
+8 8 0
+E
+#18710
+ombra~
+un'ombra~
+Un'ombra fatta di oscurita' si muove, rasentando i muri, contro di te.
+~
+La forma oscura che si muove sembra essere un'ombra priva del corpo che la
+proietta.  Sembra alquanto maligna, a dir poco.    
+~
+~
+~
+~
+4106 1032 -800 -1 -1 -1 -1 -1 E
+27 11 -1 1d1+419 3d7+5
+23 160000
+8 8 0
+E
+#18711
+wight~
+una wight~
+Un'odiosa creatura, pelle e ossa, e' qui che urla in preda alla pazzia.
+~
+Questa apparizione spettrale ti riempie di un assoluto terrore.  Il tuo primo
+pensiero e' quello di fuggire.  Fuggire velocemente e lontano.  Comunque, il
+tuo secondo pensiero e' quello di osservarla meglio.  Nel farlo, noti che
+sembra essere costituita da carne mummificata attorno a delle ossa.  I suoi
+occhi emettono un strano bagliore rossastro.    
+~
+~
+~
+~
+4106 136 -400 -1 -1 -1 -1 -1 E
+25 11 2 1d1+349 3d6+8
+16 50000
+8 8 2
+E
+#18712
+wraith~
+una wraith~
+Una strada figura umanoide si muove contro di te. E' una wraith!
+~
+Questa cosa sembra vagamente di forma umana, ma non sembra essere formata da
+carne, quanto piuttosto da una strana energia di natura elettrica che si
+addensa nell'aria.    
+~
+~
+~
+~
+72 1032 -800 -1 -1 -1 -1 -1 E
+35 8 0 1d1+500 3d8+5
+21 90000
+8 8 2
+E
+#18713
+banshee forma umanoide madre superiora~
+una banshee~
+Una strana figura umanoide sta singhiozzando in un angolo della stanza.
+~
+L'aspetto, una volta incantevole, di questa donna e' ora deturpato dal tempo e
+dagli effetti della morte.  Solo un piccolo barlume di cio' che, quest'elfa,
+era e' ancora visibile.  Guardandola piu' attentamente noti che indossa abiti
+sacerdotali e riconosci in lei lo spirito della Madre Superiora della
+Cattedrale.    
+~
+~
+~
+~
+42 136 -800 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+549 3d10+7
+31 330000
+8 8 2
+E
+#18714
+fantasma abate~
+il fantasma dell'Abate~
+Un corpulento fantasma siede su letto etereo e canta dolcemente.
+~
+Quest'anima persa sembra un tempo, essere appartenuta all'Abate della
+Cattedrale.  Era una persona corpulenta ed anche ora, da morto, sembra
+piuttosto in "carne".  Quando si accorge che lo osservi, smette di cantare per
+un minuto, ti guarda, sorride tristemente e poi riprenda il suo cante.    
+~
+~
+~
+~
+10 136 750 -1 -1 -1 -1 -1 E
+41 7 -5 1d1+549 3d10+8
+25 360000
+8 8 2
+E
+#18715
+spirito ~
+lo spirito del bosco~
+Lo spirito del bosco e' qui che si lamenta.
+~
+Questa forma eterea sembra essere appartenuta ad un uomo emaciato.  
+Osservandolo con attenzione ti accorgi che l'uomo deve essere morto di stenti,
+incantenato in qualche sordido e buio anfratto.  Porta ancora con se' la catena
+che lo ha avvinto nell'ultimo periodo della sua vita.    
+~
+~
+~
+~
+245960 295944 -400 -1 -1 -1 -1 -1 E
+40 8 -4 1d1+600 3d9+7
+32 0
+8 8 0
+E
+#18716
+gobbo~
+il gobbo~
+Il gobbo della cattedrale e' qui che cammina buffamente.
+~
+   Non sembra piacergli la tua compagnia.....    
+~
+~
+~
+~
+418028 33555464 -200 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+500 3d7+5
+19 0
+8 8 1
+E
+$

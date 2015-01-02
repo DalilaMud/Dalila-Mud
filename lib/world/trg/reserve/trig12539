@@ -1,0 +1,409 @@
+trigedit 12539
+6  
+/c 
+if %speech% == comandi
+say Eccoli: &1contratto, io, finito, comandi, si, no, completa&0
+end 
+if %speech% == contratto
+if %domanda% < 1
+wait 1 s
+nod
+wait 1 s
+set 1 %actor.name%
+global 1
+say Va bene, messer %actor.name%, chi intende stipulare un contratto con voi?
+set domanda 1
+global domanda
+set pg 1
+global pg
+end
+end
+if %domanda% == 1
+if %speech% == io
+if %pg% <= 9
+eval pg %pg% +1
+global pg
+set %pg% %actor.name%
+global %pg%
+wait 1 s
+emote prende appunti
+wait 1 s
+say I partecipanti al contratto ora sono: %1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+wait 2 s
+say Ci sono altri? Altrimenti dovete solo dirmi &1'completa'&0.
+elseif %pg% == 10
+wait 1 s
+say Mi spiace, accetto contratti tra un minimo di due fino ad un massimo di 10 persone.
+end
+end
+end
+if %domanda% == 1
+if %speech% == completa
+if %pg% > 1
+set domanda 2
+global domanda
+wait 1 s 
+nod
+wait 1 s
+say Bene, ora dovete dettarmi il contratto, messer %1%, dovrete poi tutti approvarlo.
+wait 1 s
+say Scrivero' qualunque frase che contenga la parola &1'io', 'accetto', 'si', 'no' &5oppure&0 &1'dichiaro'&0, &5ditemi pure..&0
+wait 1 s
+say Quando avete finito, dovete solo dire &1'finito&0
+elseif %pg% == 1
+wait 1 s
+shake
+wait 1 s
+say Mi spiace, fare contratti da soli al momento non ha molta utilita', %1%...
+end
+end
+end
+if %domanda% == 2
+if %speech% != completa
+if %speech% != finito
+if %actor.name% == %1%
+wait 1 s
+if %frase% == 20
+say Uh, direi che cosi' puo' bastare, e' la undicesima frase che mi vorreste dettare!
+elseif %frase% >= 11
+eval frase %frase% +1
+global frase
+set %frase% %speech%
+global %frase%
+emote continua a scrivere su una pergamena ...
+elseif %frase% == 0
+set 11 %speech%
+global 11
+set frase 11
+global frase
+emote scrive velocemente su una pergamena la prima frase...
+else
+wait 1 s
+say ...mi spiace &actor.name%, e' importante che detti solo colui che ha iniziato la procedura burocratica
+end
+end
+end
+end
+end
+if %speech% == finito
+wait 1 s
+if %frase% == 0
+say ma non mi avete dettato nulla!
+else
+set domanda 3
+global domanda
+say Bene, ora vi rileggero' tutto:
+wait 2 s
+say &4 %11% &0
+say &4 %12% &0
+say &4 %13% &0
+say &4 %14% &0
+say &4 %15% &0
+say &4 %16% &0
+say &4 %17% &0
+say &4 %18% &0
+say &4 %19% &0
+say &4 %20% &0
+wait 2 s
+say ...Ora vi chiedero' di approvare questo contratto uno ad uno, per approvare dite &1'si'&0, &5se qualcuno dira'&0 &1'no'&0, &5dovrete ridettarmi da zero il contratto.&0
+wait 2 s
+say Messer %1%, approvate il contratto?
+set approva %1%
+global approva
+set confermando 1
+global confermando
+end
+end
+if %domanda% == 3
+if %speech% == si
+wait 1 s
+if %actor.name% == %approva%
+if %confermando% == %pg%
+nod
+wait 1 s
+say Bene, abbiamo finito, ora vi prego di pazientare un attimo signori mentre preparo il contratto in %pg% copie (una a testa).
+wait 1 s
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+mload obj 12565
+write 1.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+------
+firme:
+------
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 2.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 3.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 4.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 5.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 6.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 7.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 8.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 9.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+...
+firme:
+...
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+write 10.contratto
+%11%
+%12%
+%13%
+%14%
+%15%
+%16%
+%17%
+%18%
+%19%
+%20%
+------
+firme:
+------
+%1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+Certifica il Funzionario Burocratico di Deira
+/s
+give contratto %1%
+give contratto %2%
+give contratto %3%
+give contratto %4%
+give contratto %5%
+give contratto %6%
+give contratto %7%
+give contratto %8%
+give contratto %9%
+give contratto %10%
+mjunk all
+unset 1
+unset 2
+unset 3
+unset 4
+unset 5
+unset 6
+unset 7
+unset 8
+unset 9
+unset 10
+unset 11
+unset 12
+unset 13
+unset 14
+unset 15
+unset 16
+unset 17
+unset 18
+unset 19
+unset 20
+unset approva
+unset confermando
+unset domanda
+unset frase
+unset pg
+else
+nod
+eval confermando %confermando% + 1
+global confermando
+if %confermando% == 2
+set approva %2%
+global approva
+elseif %confermando% == 3
+set approva %3%
+global approva
+elseif %confermando% == 4
+set approva %4%
+global approva
+elseif %confermando% == 5
+set approva %5%
+global approva
+elseif %confermando% == 6
+set approva %6%
+global approva
+elseif %confermando% == 7
+set approva %7%
+global approva
+elseif %confermando% == 8
+set approva %8%
+global approva
+elseif %confermando% == 9
+set approva %9%
+global approva
+elseif %confermando% == 10
+set approva %10%
+global approva
+end
+wait 1 s
+say Ora tocca a %approva% confermare, accetta questo contratto?
+end
+end
+end
+end
+if %speech% == no
+if %actor.name% == %approva%
+wait 1 s
+look %approva%
+wait 1 s
+emote sospira deluso
+wait 1 s
+say Ebbene...grazie a %actor.name% ci tocchera' ricominciare tutto daccapo signori.
+unset conferma
+unset confermando
+unset 11
+unset 12
+unset 13
+unset 14
+unset 15
+unset 16
+unset 17
+unset 18
+unset 19
+unset 20
+set domanda 2
+global domanda
+wait 2 s
+say Ora, messer %1% la prego di dettarmi di nuovo le frasi da inserire nel contratto con le solite parole chiavi &1(dichiaro, accetto, si, no, io)&0
+end
+end
+~
+/s
+q
+y

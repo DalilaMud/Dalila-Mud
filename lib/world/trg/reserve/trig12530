@@ -1,0 +1,239 @@
+trigedit 12530
+6  
+/c 
+if %monarca% != 0
+if %azione% == 0 || %azione% == cambio || %going% == nullo
+eval negozio %random.135%
+set quanti 1
+set going nullo
+if %negozio% <= 30
+set vnum %alimentare% 
+set going alimentare
+eval dove %random.10%
+set quanti 2
+end
+if %negozio% > 30 && %negozio% <= 50
+set vnum %legname% 
+set going legname
+eval dove %random.9%
+end
+if %negozio% > 50 && %negozio% <= 70
+set vnum %fabbro% 
+set going fabbro
+eval dove %random.8%
+end
+if %negozio% > 70 && %negozio% <= 80
+set vnum %gioielliere% 
+set going gioielliere
+eval dove %random.5%
+end
+if %negozio% > 80 && %negozio% <= 100
+set vnum %armiere% 
+set going armiere
+eval dove %random.7%
+end
+if %negozio% > 100 && %negozio% <= 115
+set vnum %pellicceria% 
+set going pellicceria
+eval dove %random.8%
+set quanti 2
+end
+if %negozio% > 115 && %negozio% <= 135
+set vnum %alchimista% 
+set going alchimista
+set dove 1
+end
+global going
+global quanti
+if %dove% == 1
+if %going% == alimentare
+set compro pane
+elseif %going% == legname
+set compro amuleto
+elseif %going% == fabbro
+set compro armatura
+elseif %going% == gioielliere
+set compro orecchino
+elseif %going% == armiere
+set compro spada
+elseif %going% == pellicceria
+set compro gambali
+elseif %going% == alchimista
+set compro pozione
+end
+elseif %dove% == 2
+if %going% == alimentare
+set compro pagnotta
+elseif %going% == legname
+set compro bracciale
+elseif %going% == fabbro
+set compro guanti
+elseif %going% == gioielliere
+set compro anello
+elseif %going% == armiere
+set compro ascia
+elseif %going% == pellicceria
+set compro parabraccia
+end
+elseif %dove% == 3
+if %going% == alimentare
+set compro verdura
+elseif %going% == legname
+set compro anello
+elseif %going% == fabbro
+set compro gambali
+elseif %going% == gioielliere
+set compro amuleto
+elseif %going% == armiere
+set compro mazza
+elseif %going% == pellicceria
+set compro armatura
+end
+elseif %dove% == 4
+if %going% == alimentare
+set compro frutta
+elseif %going% == legname
+set compro armadio
+elseif %going% == fabbro
+set compro parabraccia
+elseif %going% == gioielliere
+set compro bracciale
+elseif %going% == armiere
+set compro lancia
+elseif %going% == pellicceria
+set compro borsa
+end
+elseif %dove% == 5
+if %going% == alimentare
+set compro pesce
+elseif %going% == legname
+set compro tavolo
+elseif %going% == fabbro
+set compro elmo
+elseif %going% == gioielliere
+set compro pietra
+elseif %going% == armiere
+set compro arco
+elseif %going% == pellicceria
+set compro vestito
+end
+elseif %dove% == 6
+if %going% == alimentare
+set compro dolce
+elseif %going% == legname
+set compro orecchino
+elseif %going% == fabbro
+set compro cintura
+elseif %going% == armiere
+set compro pugnale
+elseif %going% == pellicceria
+set compro guanti
+end
+elseif %dove% == 7
+if %going% == alimentare
+set compro torta
+elseif %going% == armiere
+set compro freccia
+elseif %going% == legname
+set compro scrivania
+elseif %going% == fabbro
+set compro stivali
+elseif %going% == pellicceria
+set compro stivali
+end
+elseif %dove% == 8
+if %going% == alimentare
+set compro focaccia
+elseif %going% == legname
+set compro cassapanca
+elseif %going% == fabbro
+set compro scudo
+elseif %going% == pellicceria
+set compro mantello
+end
+elseif %dove% == 9
+if %going% == alimentare
+set compro pizza
+end
+elseif %dove% == 10
+if %going% == alimentare
+set compro carne
+end
+end
+say going %going%
+say compro %compro%
+say vnum %vnum%
+if %vnum% == 0
+say mgoto recettore1%going%1%monarca%
+mgoto recettore1%going%1%monarca%
+say vado
+else
+mgoto %vnum%
+emote entra nel negozio
+global vnum
+global compro
+set azione shopping
+global azione
+end
+end
+if %azione% == shopping
+set soldi1 %self.gold%
+global soldi1
+wait 6
+lista %compro%
+wait 3
+buy %quanti% %compro%
+wait 5
+set soldi2 %self.gold%
+global soldi2
+emote conta le sue monete
+end
+if %azione% == cazzeggio
+eval tempo %tempo% + 1
+global tempo
+set direzione %random.4%
+if %direzione% == 1
+n
+elseif %direzione% == 2
+e
+elseif %direzione% == 3
+s
+elseif %direzione% == 4
+w
+end
+if %tempo% > 30
+set azione cambio
+global azione
+eval reset %reset% + 1
+global reset
+if %reset% > 200
+unset reset
+unset alimentare
+unset alimentare2
+unset legname
+unset legname2
+unset fabbro
+unset fabbro2
+unset gioielliere
+unset gioielliere2
+unset alchimista
+unset alchimista2
+unset armiere
+unset armiere2
+unset pellicceria
+unset pellicceria2
+end
+mat 3 drop all
+unset tempo
+end
+end
+if %self.gold% < 4000
+mload obj 91
+mat 3001 drop buono2
+mat 3001 get buono2
+end
+end
+~
+/s
+q
+y

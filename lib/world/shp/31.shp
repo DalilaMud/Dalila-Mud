@@ -1,0 +1,388 @@
+CircleMUD v4.0 Shop File~
+#3100~
+3100
+3101
+-1
+1.10
+0.90
+-1
+%s I haven't got such a drink.~
+%s I see no such thing.~
+%s I do not buy, would you like a drink?~
+%s BUG, Please report.~
+%s You can't afford such a fine drink, try the Grubby Inn.~
+%s Fine, that'll be %d gold pieces.~
+%s Bug, please report (%d).~
+0
+0
+3100
+0
+3106
+-1
+6
+22
+23
+24
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#3125~
+-1
+1.30
+0.70
+48
+53
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3102
+0
+3125
+-1
+0
+28
+0
+0
+3
+5
+20000
+20355
+3110
+80
+-1
+-1
+-1
+#3126~
+-1
+1.30
+0.70
+58
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3101
+0
+3126
+-1
+0
+28
+0
+0
+3
+5
+20000
+20418
+3111
+80
+-1
+-1
+-1
+#3127~
+-1
+1.30
+0.70
+58
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3103
+0
+3127
+-1
+0
+28
+0
+0
+3
+5
+20000
+20410
+3113
+80
+-1
+-1
+-1
+#3128~
+-1
+2.00
+1.00
+71
+72
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3104
+0
+3128
+-1
+0
+28
+0
+0
+3
+5
+20000
+20334
+3114
+80
+-1
+-1
+-1
+#3131~
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+17
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+0
+-1
+-1
+-1
+-1
+#3132~
+-1
+1.30
+0.70
+51
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3109
+0
+3132
+-1
+0
+28
+0
+0
+3
+5
+20000
+20342
+3144
+80
+-1
+-1
+-1
+#3133~
+-1
+1.30
+0.70
+80
+52
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3106
+0
+3133
+-1
+0
+28
+0
+0
+3
+5
+20000
+20373
+3145
+80
+-1
+-1
+-1
+#3134~
+-1
+1.30
+0.70
+50
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+12
+3110
+0
+3134
+-1
+0
+28
+0
+0
+0
+-1
+20000
+473502
+3146
+80
+-1
+-1
+-1
+#3135~
+-1
+1.30
+0.70
+63
+59
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+12
+3105
+0
+3135
+-1
+0
+28
+0
+0
+3
+5
+20000
+20351
+3147
+80
+-1
+-1
+-1
+#3136~
+-1
+1.30
+0.70
+61d
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3107
+0
+3136
+-1
+0
+28
+0
+0
+3
+5
+20000
+20413
+3112
+-1
+-1
+-1
+-1
+#3188~
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+12599
+0
+3188
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+3189
+-1
+-1
+-1
+-1
+$~

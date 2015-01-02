@@ -1,0 +1,76 @@
+trigedit 2051
+6  
+/c 
+if %object.vnum% == 2056
+ wait 1 s
+ say Hm, huum...
+ wait 2 s
+ say Questa e' ormai solo una volgare Pietra, non interessa Therion.
+ set missione 0
+ global missione
+ halt
+elseif %object.vnum% != 2055
+ halt
+end
+if %actor.name% != %pg%
+ wait 2 s
+ say Huum, hm. Therion aveva dichiarato il suo volere a %actor.name%, e non a te.
+ set missione 0
+ global missione
+ halt
+end
+wait 2 s
+say Huum, hm.
+wait 1 s
+emo annuisce lentamente e una strana espressione di gioia appare su quello che diresti essere il suo volto.
+wait 1 s
+say Therion si compiace di avere un cosi' valido seguace, difensore dell'ordine della natura.
+wait 1 s
+say Per questo ha deciso di ricompensarti.
+set missione 0
+global missione
+mat xxxxxx drop all
+if %actor.level% < 20
+ set livello 15
+elseif %actor.name% < 40
+ set livello 35
+else
+ set livello 55
+end
+eval moltip %random.10%
+eval divisore %random.10%
+eval premio %livello%*10
+eval premio %premio%*%moltip%
+eval premio %premio%/%divisore%
+global premio
+if %premio% <= 400
+ mload obj 2047
+ give premio %pg%
+ posa premio
+ wait 1 s
+ bow %pg%
+ halt
+elseif %premio% <= 800
+ mload obj 2048
+ give premio %pg%
+ posa premio
+ bow %pg%
+ halt
+elseif %premio% <= 950
+ mload obj 2049
+ give premio %pg%
+ posa premio
+ wait 1 s
+ bow %pg%
+ halt
+else
+ mload obj 2050
+ give premio %pg%
+ posa premio
+ bow %pg%
+ halt
+end
+~
+/s
+q
+y

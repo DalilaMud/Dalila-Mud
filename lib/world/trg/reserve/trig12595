@@ -1,0 +1,21 @@
+trigedit 12595
+6  
+/c 
+wait 5
+if %actor.name% == %target%
+mat %1% &7&Bsay %actor.name% e' stato ucciso &0!
+mat %2% &7&Bsay %actor.name% e' stato ucciso &0!
+mat %3% &7&Bsay %actor.name% e' stato ucciso &0!
+mat %4% &7&Bsay %actor.name% e' stato ucciso &0!
+mat %5% &7&Bsay %actor.name% e' stato ucciso &0!
+mgoto 29504
+say %actor.name% e' morto
+mtele %actor.name% 29504
+mload obj 12595
+give arena %actor.name%
+mforce %actor.name% quaff arena
+end
+~
+/s
+q
+y

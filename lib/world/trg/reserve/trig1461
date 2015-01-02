@@ -1,0 +1,24 @@
+trigedit 1461
+6  
+/c 
+if %actor.vnum% != -1
+wait 1
+odamage %player% 3000
+halt
+end
+if %actor.level% < 40
+wait 1 s
+oechoaround %actor.name% &1%actor.name% viene circondato da un'aura rossa&0
+osend %actor.name% &1Senti una nuova potenza vivere in te&0
+halt
+else
+wait 1 s
+oechoaround %actor.name% &1&xLa testa di %actor.name% esplode in mille pezzi!&0
+osend %actor.name% &1&xLa tua potenza ora e' troppo grande! La tua mente non sa contenerla!&0
+wait 1
+odamage %actor.name% 4000
+halt
+~
+/s
+q
+y

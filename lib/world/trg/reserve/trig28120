@@ -1,0 +1,31 @@
+trigedit 28120
+6  
+/c 
+if %portacovo% == 1
+eval count %count% + 1
+global count
+end
+if %count% > 3
+set count 0
+global count
+set portacovo 0
+global portacovo
+%echo% &1Qualcuno dice '&6Vai a marcire il qualche secchio del porto pesce di fondo!!!&1'&0
+wait 1 s
+%echo% &7Uno spioncino si chiude&0
+end
+set caso %random.26%
+if %caso% == 3
+if %portacovo% == 0
+wload mob 28119
+wecho Un uomo incapucciato sotto una mantella nera arriva da sud.
+wait 1 s
+wforce uomo6 bussa
+wait 10 s
+wforce uomo6 say Cosi saluto quella balena di tua madre
+end
+end
+~
+/s
+q
+y

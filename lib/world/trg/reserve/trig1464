@@ -1,0 +1,10 @@
+trigedit 1464
+6  
+/c 
+wait 1 s
+%send% %actor.name% &7Il tuo corpo viene avvolto dalle mistiche nebbie di Avalon,donandoti poteri straordinari!!&0
+%echoaround% %actor.name% &7%actor.name%&0 viene avvolto dalle eteree nebbie di Avalon..
+~
+/s
+q
+y

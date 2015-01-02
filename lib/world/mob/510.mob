@@ -1,0 +1,50 @@
+#51000
+Berg manovale~
+Un uomo robusto, con la pelle abbronzata.~
+Un uomo abbronzato e robusto e' qui.
+~
+Un uomo abbronzato dall'incedere sicuro e baldanzoso. Sembra piuttosto robusto e solido, 
+di un tipo di solidita' che non si ottiene se non con il lavoro e la fatica.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 0 0 E
+0 20 0 30d5+0 0d1+0
+0 0
+8 8 1
+E
+T 41500
+T 41501
+#51001
+sbandieratore~
+FREE FOR USE~
+Un'asta portabandiera vuota
+~
+Un lungo palo di frassino, con una cordicella collegata a due piccole carrucole alle estremita'
+~
+~
+~
+~
+253962 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+T 51006
+#51002
+sbancrem~
+FREE FOR USE~
+Un'asta portabandiera su cui sventola la gloriosa bandiera del Regno &7&xCREMERIA&0
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 0
+E
+$

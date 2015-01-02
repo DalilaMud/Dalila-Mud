@@ -1,0 +1,18 @@
+trigedit 11032
+6  
+/c 
+eval rc %random.char%
+if %rc% != %actor%
+if %rc% != %self%
+%echoaround% %actor% &R%self.name% tocca %actor.name% e un'ira terribile si ipadronisce della sua mente.&0
+%send% %actor.name% &R%self.name% ti tocca e un'ira terribile si ipadronisce della tua mente&0
+dg_cast 'peace' %actor%
+dg_cast 'peace' %actor%
+dg_cast 'peace' %actor%
+%force% %actor% kill %rc.name%
+end
+end
+~
+/s
+q
+y

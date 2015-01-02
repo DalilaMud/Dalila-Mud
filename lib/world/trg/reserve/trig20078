@@ -1,0 +1,19 @@
+trigedit 20078
+6  
+/c 
+wait 1 s
+if %actor.name% == knives
+osend %actor.name% &RSenti la  sete di SANGUE di Shaarr offuscarti i pensieri&d
+oechoaround %actor.name% &RGli occhi di %actor.name% si velano di rosso!&d
+halt
+else
+osend %actor.name% &RPer un attimo hai la visione del volto di Shaarr.. &d
+wait 1 s
+osend %actor.name% &RSenti il suo Potere divorarti le carni... povero mortale!&d
+wait 1 s
+oechoaround %actor.name% &R%actor.name% brucia circondato da fiamme rosso sangue...&d
+odamage %actor.name% 5000
+~
+/s
+q
+y

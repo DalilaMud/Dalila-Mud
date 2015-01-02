@@ -1,0 +1,1110 @@
+#5200
+mago Astoriel azzurre~
+Il mago Astoriel~
+Un mago dalle vesti &Cazzurre&0 ti studia attentamente.
+~
+E' un uomo abbastanza basso, vestito completamente in azzurro.
+Non riesci a definirne l'eta': nonostante la sua barba sia
+bianca come la neve, le sue gote e i suoi occhi non sono
+percorsi neanche da una ruga.
+~
+~
+~
+~
+576460752303454219 402654248 0 -1 -1 -1 2054704144 -1 E
+70 0 -10 1d1+4999 15d5+20
+60 0
+8 8 1
+Int: 18
+Wis: 18
+Spec: 15
+E
+#5201
+generale Tilderus~
+il Generale Tilderus~
+Il Generale Tilderus ti scruta con aria inquisitoria.
+~
+Un uomo dalla statura imponente, con diverse cicatrici sul viso.
+Ha l'aria di essere un guerriero espertissimo.
+~
+~
+~
+~
+576460752303519755 67109888 0 -1 -1 -1 -1 -1 E
+70 -10 -20 1d1+6999 10d10+20
+44 0
+8 8 1
+BareHandAttack: 3
+Str: 18
+StrAdd: 100
+Dex: 18
+Spec: 16
+E
+#5202
+sovrintendente~
+Il Sovrintendente~
+Il Sovrintendente e' seduto su una comoda e lussuosa poltrona
+~
+Il Sovrintendente ha l'aria di una persona saggia e bonaria.
+Tuttavia sotto il suo aspetto mite i suoi occhi lasciano
+intendere una tempra molto forte.
+~
+~
+~
+~
+258058 1064 100 -1 -1 -1 -1 -1 E
+65 0 -20 1d1+2500 30d6+20
+63 0
+6 6 1
+Str: 17
+Dex: 17
+E
+#5203
+Sacerdotessa Therion Miriam~
+Miriam, la Grande Sacerdotessa di Therion~
+La Sacerdotessa di Therion si prepara per la funzione
+~
+La pelle candida come la luna, i capelli neri come la notte, questa
+donna ha una bellezza selvaggia e primordiale. Nei suoi occhi brilla
+una mistica luce &vverde&0.
+~
+~
+~
+~
+254747 1192 1000 -1 -1 -1 -1 -1 E
+70 -30 -10 1d1+4999 25d4+30
+50 0
+8 8 2
+BareHandAttack: 5
+Str: 16
+Dex: 14
+Int: 18
+Wis: 18
+Spec: 18
+E
+#5204
+Jekin assassino~
+Jekin il Re degli Assassini~
+Ti sembra di vedere un'ombra muoversi nel buio
+~
+Quest'uomo e' completamente vestito di cuoio nero come la notte.
+Non riesci a distinguere nulla se non i suoi occhi, crudeli come
+la morte e freddi come il ghiaccio
+~
+~
+~
+~
+576460752303448110 525354 -500 -1 -1 -1 -1 -1 E
+70 -20 -5 1d1+4999 12d12+20
+70 0
+8 8 1
+BareHandAttack: 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 14
+E
+T 5200
+#5205
+Yarina incursore peloi~
+Yarina~
+Yarina e' qui &Vvigile e attenta&0.
+~
+Sguardo indomito, atteggiamento di chi e' pronto a tutto
+Yarina ha tutte le qualita' di un grande Peloi.
+~
+~
+~
+~
+576460752303517723 67109928 200 -1 -1 -1 -1 -1 E
+70 -20 -15 1d1+5999 30d2+20
+49 0
+8 8 2
+Str: 18
+StrAdd: 90
+Dex: 21
+Int: 17
+Wis: 17
+Spec: 14
+E
+#5206
+Abitante thalos~
+Un abitante di Thalos~
+Un abitante di Thalos gironzola per la strada
+~
+Un abitante di Thalos dalla faccia sorridente, ben vestito e
+leggermente sovrappeso. In questa citta' si deve vivere proprio bene!
+~
+~
+~
+~
+204 0 10 -1 -1 -1 -1 -1 E
+45 2 -3 1d1+900 4d12+5
+34 0
+8 8 1
+Spec: 21
+E
+#5207
+sentinella thalos~
+Una sentinella di New Thalos~
+Una sentinella di New Thalos e' qui che monta la guardia
+~
+Ha un atteggiamento molto serio e composto. Difficilmente ti
+fara' passare se riterra' che tu hai cattive intenzioni.
+~
+~
+~
+~
+12619 32 0 -1 -1 -1 -1 -1 E
+50 -5 -8 1d1+799 5d9+10
+39 0
+8 8 1
+Spec: 16
+E
+#5208
+sergente thalos guardia~
+Un Sergente della Guardia di Thalos~
+Un Sergente della Guardia di Thalos e' seduto alla sua scrivania
+~
+Questa non e' una guardia normale!
+Dal suo sguardo autoritario non puo' che essere
+un ufficiale.
+Difatti ora noti i gradi sulle mostrine: e' Sergente
+~
+~
+~
+~
+256011 1064 0 -1 -1 -1 -1 -1 E
+55 -7 -2 1d1+999 6d10+20
+32 0
+8 8 1
+BareHandAttack: 9
+Str: 18
+Dex: 16
+Spec: 25
+E
+#5209
+guardia thalos~
+Una guardia di Thalos~
+Una guardia di Thalos pattuglia la zona
+~
+La Guardia ti scruta da capo a piedi non appena passi.
+E' piuttosto giovane, ma sembra maneggiare bene la spada.
+~
+~
+~
+~
+4208968 32 0 -1 -1 -1 -1 -1 E
+50 0 -8 1d1+999 7d12+20
+31 0
+8 8 1
+Str: 18
+StrAdd: 50
+Dex: 18
+Spec: 18
+E
+#5210
+cavaliere fantasma~
+il cavaliere fantasma~
+Il tenebroso cavaliere fantasma e' qui che ulula il suo dolore.
+~
+   Vedi solo un'armatura vuota,ma senti il suo gelido fiato sul collo e la cosa
+non ti piace neanche un po'.    
+~
+~
+~
+~
+576460752303489130 918570 0 -1 -1 -1 -1 -1 E
+58 -5 0 1d1+1499 13d5+7
+43 0
+8 8 1
+E
+#5211
+scudiero vecchio~
+un vecchio scudiero~
+Un vecchio scudiero gira cercando il suo padrone.
+~
+   Pur dimostrando una certa eta',quest'uomo sarebbe in grado di confrontarsi
+con un baldo giovane e vincerlo.    
+~
+~
+~
+~
+4168 1024 500 -1 -1 -1 -1 -1 E
+50 5 0 1d1+998 6d12+6
+40 0
+8 8 1
+E
+#5212
+beholder~
+Il &ZBeholder&0~
+&0Un potente &Zbeholder&0 spalanca la bocca e ti attacca!
+~
+E' una sfera larga  1,8 metri dominata
+da un occhio centrale e da un'enorme
+bocca dentata.
+Dieci piccoli occhi, posti all'estremita'
+di piccoli peduncoli spuntano dalla parte
+superiore della sfera
+~
+~
+~
+~
+576460769483399213 2199040033832 -500 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+4999 1d3+30
+62 0
+8 8 0
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 17
+Spec: 10
+E
+T 5201
+T 11040
+#5213
+mercante~
+Il mercante~
+Un mercante cerca di venderti la sua merce
+~
+Questo mercante gironzola importunando i passanti per vendere le sue merci.
+~
+~
+~
+~
+536871048 0 0 -1 -1 -1 -1 -1 E
+40 -5 0 1d1+699 4d13+10
+38 0
+8 8 1
+E
+#5214
+magazziniere~
+un magazziniere~
+un magazziniere e' intento a lavorare
+~
+Un energumeno di grossa
+taglia e dall'aspetto rozzo
+~
+~
+~
+~
+4234 0 -100 -1 -1 -1 -1 -1 E
+48 -5 -2 1d1+999 3d10+15
+33 0
+8 8 1
+Str: 17
+Dex: 12
+E
+#5215
+Korgan capo~
+Korgan il cospiratore~
+Korgan il cospiratore e' qui &Vvigile e attento&0.
+~
+Quello che ti coplisce di quest'uomo di per se
+insignificante sono gli occhi: acquosi e mai
+fermi. Li muove in continuazione scrutando per
+ogni dove.
+~
+~
+~
+~
+25098 524288 -300 -1 -1 -1 -1 -1 E
+50 -15 -10 1d1+899 4d10+20
+33 0
+8 8 1
+Str: 17
+Dex: 18
+E
+#5216
+Ravella~
+Ravella~
+Ravella e' qui che ramazza la casa del padrone
+~
+Certamente deve essere una brava donna delle pulizie.
+Infatti e' talmente brutta che chi l'ha assunta puo'
+averlo fatto solo per motivi professionali.
+~
+~
+~
+~
+14 0 -200 -1 -1 -1 -1 -1 E
+62 -10 0 1d1+1119 5d9+5
+53 0
+8 8 2
+E
+#5217
+cameriera thalos~
+una cameriera~
+una cameriera batte la fiacca
+~
+La ragazza e' molto giovane e carina.  I lunghi capelli biondi le scendono
+sulle spalle mentre un piccolo ciondolo senza valore le pende da un orecchio.
+Sembra sopra pensiero e non ti nota quando ti avvicini...  Ehhh la gioventu'!
+~
+~
+~
+~
+24714 0 100 -1 -1 -1 -1 -1 E
+32 10 0 1d1+400 18d2+10
+26 0
+8 8 2
+E
+#5218
+oste pigro~
+l'oste pigro~
+l'oste pigro fa finta di lavorare
+~
+Ha proprio l'aria di un fannullone!
+~
+~
+~
+~
+136 0 0 -1 -1 -1 -1 -1 E
+30 0 0 1d1+500 7d7+20
+24 0
+5 5 1
+E
+#5219
+ladra dale~
+Dale la ladra~
+Dale la ladra e' in cerca di tesori
+~
+Ha l'aria di una ladra esperta. Si aggira furtivamente
+in cerca di un po' di bottino
+~
+~
+~
+~
+9 0 -250 -1 -1 -1 -1 -1 E
+50 -5 -10 1d1+599 8d8+15
+38 0
+8 8 2
+Str: 16
+Dex: 18
+E
+#5220
+Sir Talor~
+Sir Talor~
+Sir Talor e' qui che studia un vecchio libro
+~
+Un uomo di mezzeta' che nel pieno degli anni
+doveva essere molto vigoroso. Dal suo aspetto
+deduci che parte del suo vigore abita ancora
+in lui.
+~
+~
+~
+~
+15 134217856 150 -1 -1 -1 -1 -1 E
+57 -5 -2 1d1+1499 9d7+10
+35 0
+6 6 1
+Str: 18
+Dex: 16
+Spec: 16
+E
+#5221
+Sefera poetessa~
+Sefera la poetessa~
+Sefera la poetessa e' concentrata sui suoi versi
+~
+It looks unfinished.
+~
+~
+~
+~
+8202 134217728 0 -1 -1 -1 -1 -1 E
+55 2 0 1d1+1199 9d10+20
+43 0
+6 6 2
+Str: 14
+Dex: 15
+Int: 17
+Wis: 15
+Cha: 16
+E
+T 5206
+#5222
+replicante~
+un replicante~
+un replicante assassino
+~
+Un essere dalla forma indistinta, con la pelle
+umida e viscida, puo' assumere qualsiasi forma
+~
+~
+~
+~
+24746 40 -300 -1 -1 -1 -1 -1 E
+65 -10 10 1d1+1299 6d9+20
+38 0
+8 8 1
+E
+T 5204
+#5223
+vecchietta adorabile~
+l'adorabile vecchietta~
+l'adorabile vecchietta e' qui e ti sorride
+~
+Questa e' una di quelle vecchiette
+che hanno proprio l'aria simpatica.
+Ha l'aria totalmente inoffensiva.
+~
+~
+~
+~
+11 40 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+1299 1d1+0
+1 0
+8 8 2
+E
+T 5205
+T 5203
+T 5207
+#5224
+gruppo ubriaconi~
+Un gruppo di ubriaconi~
+Un gruppo di ubriaconi schiamazza notevolmente
+~
+Manovali, camerieri, soldati fuori servizio e anche
+un sacerdote! Questo gruppo cosi' eterogeneo fa
+tanto di quel chiasso che lo si sente lontano un
+paio di isolati.
+~
+~
+~
+~
+536875034 67121152 0 -1 -1 -1 -1 -1 E
+45 -5 0 30d1+1000 15d3+10
+32 0
+8 8 0
+E
+#5225
+sacerdote seminudo~
+Il sacerdote seminudo~
+Sorprendi un sacerdote mentre si sta vestendo
+~
+Ops... e' praticamente mezzo nudo.
+~
+~
+~
+~
+906 40 0 -1 -1 -1 -1 -1 E
+50 -9 10 1d1+1095 7d7+15
+42 0
+8 8 1
+E
+#5226
+fedele~
+Il fedele che hai disturbato~
+Un fedele e' qui chiuso in preghiera
+~
+E' seduto su uno stuoino con le gambe incrociate
+ha le mani giunte in preghiera e il suo volto
+e' atteggiato come quello di una persona che
+attraversa un intenso momento di vita interiore
+~
+~
+~
+~
+10 12288 -10 -1 -1 -1 -1 -1 E
+48 0 -2 1d1+799 10d3+20
+25 0
+6 6 1
+E
+#5227
+sacerdotessa therion~
+La sacerdotessa di therion~
+Una sacerdotessa di Therion e' qui che officia i sacri riti.
+~
+Osservi i lenti movimenti rituali con i quali
+la sacerdotessa officia alla funzione. Ha un
+modo di fare molto solenne e inculca un senso
+di rispetto verso therion e le sue creature
+~
+~
+~
+~
+11 134217896 10 -1 -1 -1 -1 -1 E
+66 -8 -10 1d1+1450 9d5+28
+54 0
+8 8 2
+E
+#5228
+demone minore~
+Un demone minore~
+Un demone minore ti osserva ghignando
+~
+Un incubo di scaglie e artigli
+~
+~
+~
+~
+4140 0 -800 -1 -1 -1 -1 -1 E
+60 -5 -5 1d1+1455 5d15+30
+35 0
+8 8 0
+Str: 17
+Dex: 18
+E
+#5229
+scheletro guerriero~
+Lo scheletro guerriero~
+Uno scheletro guerriero cerca qualcuno da attaccare
+~
+a
+~
+~
+~
+~
+41 0 -400 -1 -1 -1 -1 -1 E
+55 -10 -10 1d1+999 15d4+30
+33 0
+8 8 0
+Str: 16
+Dex: 15
+E
+#5230
+guardia thalos~
+La guardia~
+Una guardia di Thalos e' qui che dorme
+~
+Ronf...zzz...ronf...zzz...ronf...zzz...
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+48 0 2 1d1+899 6d8+10
+28 0
+4 4 2
+E
+#5231
+capitano guardie Thalos~
+Il Capitano delle guardie di Thalos~
+Il Capitano delle guardie di Thalos e' seduto alla sua scrivania
+~
+Il capitano e' una uomo tutto di un pezzo, quando lo guardi negli
+occhi capisci che di battaglie ne ha combattute tante.
+~
+~
+~
+~
+576460752303448075 0 0 -1 -1 -1 -1 -1 E
+60 -10 10 10d5+1999 8d7+30
+58 0
+8 8 1
+Str: 18
+StrAdd: 80
+Dex: 18
+Spec: 16
+E
+T 5209
+#5232
+colonnello guardie thaos~
+Il Colonnello delle guardie di Thalos~
+Il Colonnello delle guardie di Thalos e' qui
+~
+Il Colonnello delle guardie di Thalos e'
+un uomo che a prima vista potrebbe sembrare
+piuttosto comune. Di statura media e corporatura
+insolitmente poco massiccia per un guerriero,
+ha pero' negli occhi la freddezza di chi ha
+affrontato mille battaglie
+~
+~
+~
+~
+8459 268435456 0 -1 -1 -1 -1 -1 E
+65 -15 10 1d1+2499 20d5+35
+55 10
+8 8 1
+Str: 18
+StrAdd: 90
+Dex: 16
+Spec: 16
+E
+#5233
+guardia palazzo~
+La guardia del palazzo~
+Una guardia del palazzo fa il piantone qui
+~
+Vigile e attenta questa guardia fa
+parte dell'elite del corpo militare
+di Thalos
+~
+~
+~
+~
+29963 0 0 -1 -1 -1 -1 -1 E
+55 -8 0 1d1+999 8d8+20
+42 0
+8 8 2
+Str: 18
+Dex: 17
+Spec: 16
+E
+#5234
+giardiniere~
+Il giardiniere~
+Un giardiniere e' qui che lavora alle siepi
+~
+Mammamia quant'e' brutta sta descrizione
+~
+~
+~
+~
+140 0 0 -1 -1 -1 -1 -1 E
+50 20 4 1d1+1000 1d1+0
+28 0
+8 8 1
+Str: 15
+Dex: 14
+E
+#5235
+Guardia Ombra~
+La Guardia d'Ombra~
+La Guardia d'Ombra e' mimetizzata con l'ambiente
+~
+Vedi solo una macchia scura che subito svanisce
+~
+~
+~
+~
+28793 269222954 0 -1 -1 -1 -1 -1 E
+62 -5 -4 1d1+1199 30d4+30
+35 0
+8 8 2
+BareHandAttack: 1
+Str: 18
+StrAdd: 50
+Dex: 20
+Spec: 14
+E
+#5236
+Lady Niolia~
+Lady Niolia~
+Una bellissima Lady e' seduta davanti al fuoco
+~
+Che bel pezzo di figliola!
+Occhi &Cazzurri come il cielo&0
+Capelli &Gbiondi come i campi di grano&0
+Due bocce che so' du boracce
+E che bel mandolino!
+~
+~
+~
+~
+90123 67108992 300 -1 -1 -1 -1 -1 E
+55 -5 0 1d1+600 10d9+25
+29 0
+6 6 2
+BareHandAttack: 12
+Spec: 15
+E
+#5237
+cuoca Ardalia~
+Ardalia La Cuoca~
+Ardalia la cuoca e' qui, indaffaratissima.
+~
+Un donnone piu' largo che alto
+che ha un'aria imperiosa e matronale
+~
+~
+~
+~
+8202 274877906984 -50 -1 -1 -1 -1 -1 E
+58 0 0 1d1+799 2d15+23
+35 0
+8 8 2
+E
+#5238
+Lord Dakker~
+Lord Dakker~
+Lord Dakker e' qui che aspetta qualcuno con cui chiacchierare
+~
+Un signore vestito all'ultima moda
+dall'aspetto colto e raffinato
+~
+~
+~
+~
+138 0 0 -1 -1 -1 -1 -1 E
+45 0 10 1d1+1499 6d6+10
+44 0
+8 8 1
+Str: 17
+Dex: 16
+E
+T 5211
+T 5212
+#5239
+una cameriera~
+la cameriera~
+una cameriera e' qui che sgobba
+~
+Bhe di certo non poteva fare la bella di corte.
+E' brutta come la fame!
+Se gli casca la morte addoso fa 'Scopa'
+~
+~
+~
+~
+136 0 0 -1 -1 -1 -1 -1 E
+55 0 0 1d1+999 8d8+20
+53 0
+8 8 2
+BareHandAttack: 3
+Str: 14
+Dex: 16
+E
+#5240
+ospite~
+un ospite del sovrintendente~
+un ospite del sovrintendente
+~
+Un uomo ben vestito, anche se dall'aspetto
+sembra cosi' noiosamente ordinario...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+40 -10 10 1d1+799 7d7+10
+34 0
+4 4 1
+E
+#5241
+moglie sovrintendente~
+La moglie del sovrintendente~
+La moglie del sovrintendente si prepara per la serata
+~
+Una bella donna, non piu' in eta' giovanissima
+ma si mantiene sempre elegante e affascinante
+~
+~
+~
+~
+24587 268435624 200 -1 -1 -1 -1 -1 E
+55 -10 -10 1d1+2499 8d10+30
+53 0
+8 8 2
+E
+#5242
+musico~
+il musico~
+un abile musico e' qui che allieta tutti con la sua musica
+~
+Ha l'aspetto di un pazzo:
+capelli spettinati
+abbinamenti dei colori degli abiti a casaccio
+occhi sempre in movimento
+ pero' suona divinamente
+~
+~
+~
+~
+41226 402653184 90 -1 -1 -1 -1 -1 E
+60 0 0 1d1+1000 6d9+20
+33 0
+8 8 1
+Str: 17
+Dex: 17
+E
+#5243
+pubblico~
+il pubblico~
+un folto pubblico e' qui che ascolta il musico
+~
+Un gruppo omogeneo di persone, ovvero
+tutte omogeneamente ricche e nobili,
+ascolta rapito la splendida musica 
+suonata dal musico
+~
+~
+~
+~
+12298 0 -400 -1 -1 -1 -1 -1 E
+60 -5 4 1d1+1599 8d12+20
+40 0
+8 8 0
+E
+T 5213
+#5244
+custode del palazzo~
+il custode del palazzo~
+Il custode del palazzo e' qui che sorveglia i cancelli
+~
+Un uomo di statura media, corporatura esile
+ma che non esiteresti a definire pericoloso.
+~
+~
+~
+~
+24586 286261288 90 -1 -1 -1 -1 -1 E
+60 -15 -10 1d1+1599 8d8+15
+48 0
+8 8 1
+E
+T 5215
+T 5216
+T 5217
+#5245
+shaira ladra~
+Shaira la ladra~
+Shaira la ladra di strada e' in cerca di una vittima
+~
+Una bella ragazza, sinuosa, agile ed estremamente furba.
+Con lei in giro il tuo borsello non e' al sicuro!
+~
+~
+~
+~
+17179877517 557098 -500 -1 -1 -1 -1 -1 E
+62 10 10 1d1+1800 10d10+10
+40 0
+8 8 2
+BareHandAttack: 14
+Str: 17
+Dex: 21
+Spec: 14
+E
+#5249
+mummia antica~
+L'antica mummia~
+Un'antica mummia ti osserva con i suoi malefici occhi &rrossi&0
+~
+Vedi solo una figura sfigurata dalla carne
+in decomposizione e animata dallo spirito
+inquieto di una persona morta ormai da molto.
+~
+~
+~
+~
+40 17825792 0 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+2500 8d12+25
+58 0
+8 8 2
+E
+T 5214
+#5250
+mummia piccola~
+la mummia piccola~
+la mummia piccola ti attacca!
+~
+Vedi solo una figura sfigurata dalla carne
+in decomposizione e animata dallo spirito
+inquieto di una persona morta ormai da molto.
+~
+~
+~
+~
+42 0 -300 -1 -1 -1 -1 -1 E
+45 0 10 1d1+499 6d7+10
+41 0
+8 8 2
+E
+#5251
+Tanit il Kender~
+Tanit~
+Tanit il Kender saltella fastidiosamente
+~
+Tanit il Kender è alto 70 centimetri e peserà non più di 20 kili... apparentemente un bambino sia d'aspetto che per i modi di fare giocosi
+
+~
+~
+~
+~
+2147483656 4398903735464 0 -1 -1 -1 2054704144 -1 E
+100 -30 10 30d100+200 9d5+50
+95 50
+8 0 1
+BareHandAttack: 1
+Str: 13
+StrAdd: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Spec: 1
+E
+#5252
+l'assaltatore gallo~
+l'assaltatore gallo~
+un assaltatore gallo si trova qui
+~
+Un pessimo energumeno vestito di pelli
+~
+~
+~
+~
+42 0 -100 -1 -1 -1 -1 -1 E
+40 15 10 1d1+299 3d4+5
+25 0
+8 8 1
+E
+#5253
+il capo dei galli~
+il capo dei galli~
+il capo dei galli e' qui che urla ordini
+~
+una bestia de homo
+~
+~
+~
+~
+10 0 -300 -1 -1 -1 -1 -1 E
+50 5 10 30d1+699 6d7+10
+26 0
+8 8 1
+E
+#5254
+tigre zanna~
+Zanna, la tigre di Yarina~
+Una tigre enorme e un po' malconcia si aggira qui
+~
+Questa deve essere Zanna, la tigre che Yarina addomestico' durante una delle sue leggendarie avventure.
+Pur essendo molto indipendente e' molto affezionata alla sua padrona.
+Il fatto che non sia di primo pelo non significa che abbia perso le sue proverbiali forza e agilita'.
+~
+~
+~
+~
+4136 0 0 -1 -1 -1 -1 -1 E
+58 8 0 1d1+2000 15d8+12
+42 0
+8 8 0
+Str: 18
+StrAdd: 100
+Dex: 24
+E
+#5293
+camerlengo tolnar~
+Il Tolnar Camerlengo~
+Il Tolnar Camerlengo.
+~
+Un tipo dall'aria molto formale.
+~
+~
+~
+~
+612489549859512330 2200089703676 0 -1 -1 -1 -1 -1 E
+70 -20 -20 1d1+19999 20d20+40
+41 0
+8 8 1
+BareHandAttack: 8
+E
+#5294
+gatto bianco apollo~
+&WApollo il gatto di Alhandir&0~
+&WUn maestoso gatto bianco segue il suo padrone&0
+~
+Apollo è un gattone dal lungo pelo, talmente bianco che pare risplendere di
+luce propria. Al collo porta un vistoso collare azzurro decorato da tre gemme
+preziose e il suo andamento  trotterellante ha un che di profondamente snob.
+~
+~
+~
+~
+10 0 400 -1 -1 -1 1869516649 -1 E
+15 20 10 1d1+99 1d1+0
+9 0
+8 8 1
+E
+T 5294
+#5295
+piccolo diavoletto~
+&rUn piccolo diavoletto&0~
+&rUn piccolo diavoletto&0 saltella qui intorno.
+~
+Una piccola creatura con delle alucce
+da pipistrello, la pelle rossa e due
+piccole corna sulla testa
+~
+~
+~
+~
+36028797555859466 1064 -1000 -1 -1 -1 2054704320 -1 E
+30 20 0 1d1+299 1d1+0
+28 0
+8 8 1
+BareHandAttack: 4
+E
+T 5297
+#5296
+stallone aldar esercito leggendario~
+&wIl legendario Stallone dell'esercito &BAldar&0~
+&wIl legendario Stallone dell'esercito &BAldar&0
+~
+Uno stallone superbo! Ha la muscolatura piu'
+bella che tu abbia mai visto. Non ne esistono
+di uguali!
+~
+~
+~
+~
+36028797564248074 0 0 -1 -1 -1 -1 -1 E
+50 10 0 1d1+1999 1d1+10
+26 0
+8 8 1
+E
+#5297
+bandito~
+un bandito vestito di &Rrosso&0~
+un bandito vestito di &Rrosso&0 e' qui che attacca la carovana
+~
+Un brutto ceffo vestito tutto di &Rrosso&0
+~
+~
+~
+~
+42 0 -300 -1 -1 -1 -1 -1 E
+65 0 10 1d1+399 4d4+10
+40 0
+8 8 1
+E
+#5298
+La Carovana~
+La carovana~
+Una Vecchia Carovana con quattro Cavalli neri..... 
+~
+Una vecchia carrozza fatta intermanete in quercia...
+Quattro cavalli sono agganciati ad essa....
+L'interno della carrozza sembra essere molto accogliente mentre il posto per il cocchiere all'esterno
+sembra essere leggermente protetto dalla pioggia da un piccolo tetto in legno sopra la testa
+Una piccola lanterna accesa pende dal tettuccio del cocchiere ed illumina la strada...
+Una vecchia carrozza in legno di quercia.. è in Eccellenti condizioni.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+70 10 0 1d1+999 5d5+10
+51 0
+8 8 0
+E
+T 11014
+#5299
+sparring partner~
+uno sparring partner~
+uno sparring partner ti fa cenno di farti sotto
+~
+uno sparring partner ti fa cenno di farti sotto
+~
+~
+~
+~
+536870922 1064 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+1 0d1+0
+62 0
+8 8 0
+E
+T 11099
+$

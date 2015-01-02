@@ -1,0 +1,149 @@
+trigedit 12569
+6  
+/c 
+if %speech% == buongiorno a voi
+if %actor.level% > 71
+mload obj 1299
+give prodotto negoz
+set azione dentro
+global azione
+wait 4
+say Vi prego di prestarmi attenzione solo un istante mentre controllo la vostra merce
+wait 4
+set coins1 %self.gold%
+global coins1
+buy prodotto
+wait 1
+set coins2 %self.gold%
+global coins2
+eval resto %coins1% - %coins2%
+global resto
+say resto %resto%
+wait 8
+eval a%going% %resto%
+global a%going%
+eval going %going% + 1
+global going
+wait 5
+mjunk all
+mat 3 drop prodotto
+say Bene, abbiamo finito, a presto
+set azione go
+global azione
+unset resto
+unset coins1
+unset coins2
+end
+end
+if %speech% == configura
+wait 3
+say chi mi comanda parli ora
+set configura on
+global configura
+end
+if %configura% == on
+if %speech% == eccomi
+wait 2
+say Va bene, %actor.name%
+set recettore %actor.vnum%
+global recettore
+set stanza %self.room%
+global stanza
+set azione start
+global azione
+unset configura
+end
+end
+if %actor.vnum% == %recettore%
+if %speech% == ditemi pure
+wait 2
+nod
+wait 3
+say 1 + %a1%
+unset a1
+unset 1
+if %negozi% >= 2
+wait 8
+say 1 + %a2%
+unset a2
+unset 2
+end
+if %negozi% >= 3
+wait 8
+say 1 + %a3%
+unset a3
+unset 3
+end
+if %negozi% >= 4
+wait 8
+say 1 + %a4%
+unset a4
+unset 4
+end
+if %negozi% >= 5
+wait 8
+say 1 + %a5%
+unset a5
+unset 5
+end
+if %negozi% >= 6
+wait 8
+say 1 + %a6%
+unset a6
+unset 6
+end
+if %negozi% >= 7
+wait 8
+say 1 + %a7%
+unset a7
+unset 7
+end
+if %negozi% >= 8
+wait 8
+say 1 + %a8%
+unset a8
+unset 8
+end
+if %negozi% >= 9
+wait 8
+say 1 + %a9%
+unset a9
+unset 9
+end
+if %negozi% == 10
+wait 8
+say 1 + %a10%
+unset a10
+unset 10
+end
+set azione locazione
+global azione
+if %going% != 0
+unset going
+end
+end
+if %azione% == start || %azione% == locazione
+if %speech% /= 1
+eval cambio %cambio% + 1
+global cambio
+eval %cambio% %speech% - 1
+global %cambio%
+end
+if %speech% == finiti
+set azione go
+global azione
+set negozi %cambio%
+global negozi
+set going 1
+global going
+unset timer
+unset cambio
+wait 2
+nod
+end
+end
+end
+~
+/s
+q
+y

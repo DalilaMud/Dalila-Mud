@@ -1,0 +1,878 @@
+#26000
+abitante villaggio monco~
+un abitante del villaggio monco~
+Un abitante menomato del villaggio e' adirato con gli dei.
+~
+L'abitante del villaggio e' monco perche' ha perso le mani
+negli incendi degli edifici.
+~
+~
+~
+~
+73 25166336 100 -1 -1 -1 -1 -1 E
+15 12 5 2d8+200 2d5+3
+13 200
+8 8 1
+E
+#26001
+abitante villaggio ferito~
+un abitante del villaggio ferito~
+Un abitante del villaggio ferito ti sventola la spada davanti alla faccia e grida:
+			'ATTENTO!!!'
+~
+Devi stare ATTENTO!!!'  I Cavalieri Neri sono all'interno del palazzo.
+Ti uccideranno come hanno ucciso i miei amici e la mia famiglia!
+
+Non andare se non sei molto piu' che forte!!
+~
+~
+~
+~
+11 520 20 -1 -1 -1 -1 -1 E
+15 12 5 2d5+200 2d5+3
+12 200
+8 8 1
+E
+#26002
+cavaliere nero~
+un cavaliere nero~
+Il Cavaliere Nero ti ghigna contro.
+~
+E' corazzato con un'armatura nera e una spada rossa con emblema.
+Il Cavaliere Nero e' pronto a conquistarti.
+Te e la tua nazione!
+~
+~
+~
+~
+4141 25166368 -500 -1 -1 -1 -1 -1 E
+19 18 4 2d6+230 7d3+6
+13 25000
+8 8 1
+E
+#26003
+capitano vader~
+Capitano Vader~
+Il Capitano Vader trasuda malignita'.
+~
+Il Capitano Vader ha un elmo ricavato dal teschio di un
+minotauro che serve ad impaurirti se gia' non lo sei.
+L'aria attorno alla sua spada brilla come un giorno d'estate.
+~
+~
+~
+~
+13 25190944 -1000 -1 -1 -1 -1 -1 E
+24 11 1 3d6+345 2d10+4
+22 80000
+8 8 0
+E
+#26004
+soldato nero~
+un soldato nero~
+Un soldato nero ti sbarra la strada. Ti ATTACCA!
+~
+Il soldato nero e' pieno di cicatrici di guerra. Alla cinta porta
+lo scalpo di una sua bionda vittima con trecce nelle quali
+sono inanellate le ossa di dozzine di uomini.
+~
+~
+~
+~
+43 25166400 -300 -1 -1 -1 -1 -1 E
+29 10 0 3d6+470 2d10+5
+22 50000
+8 8 1
+E
+#26005
+abitante villaggio~
+un abitante villaggio~
+Un abitante villaggio e' davanti a te.
+~
+Tutto cio' che gli abitanti del villaggio posseggono, l'hanno addosso.
+Alcuni lo portano sulla schiena, altri su carriole.
+~
+~
+~
+~
+11 512 10 -1 -1 -1 -1 -1 E
+15 12 5 3d5+200 2d5+3
+11 1500
+8 8 1
+E
+#26006
+guardia reale~
+una guardia reale~
+Una Guardia Reale e' pronta a respingere gli intrusi.
+~
+La Guardia Reale e' vestita di bianco con un mantello porpora.
+Sullo scudo che indossa c'e' l'emblema del Re, un falco munito
+di cresta.
+~
+~
+~
+~
+73 16777728 100 -1 -1 -1 -1 -1 E
+34 9 -2 2d6+530 2d12+5
+25 25000
+8 8 1
+E
+#26007
+Beppe panettiere~
+Beppe il panettiere~
+Beppe il panettiere sta cuocendo del pane nel forno.
+~
+Il panettiere ha lavorato duro tutta mattina per cuocere al
+forno le pagnotte che mangiano a palazzo. Il suo talento
+e' evidenziato dall'aroma che c'e' nell'aria.
+~
+~
+~
+~
+11 16785920 200 -1 -1 -1 -1 -1 E
+42 7 -4 90d10+630 3d9+7
+41 600000
+8 8 1
+E
+#26008
+jack capitano~
+Capitano Jack~
+Il Capitano Jack ti guarda.
+~
+Molti anni fa il Capitano Jack e' andato in pensione per condurre una
+vita piu' pacifica. Le sue abilita' come commerciante e la sua conoscenza
+di armature hanno fatto di lui un uomo ricco.
+~
+~
+~
+~
+11 16785920 500 -1 -1 -1 -1 -1 E
+37 8 -3 100d10+570 3d8+7
+32 600000
+8 8 1
+E
+#26009
+Armon~
+Armon l'armaiolo~
+Armon l'armaiolo sta aguzzando gli attrezzi del mestiere.
+~
+Quando guardi da vicino Armon noti che ha molte ferite sul il suo corpo.
+E' certamente un combattente molto forte. Cerca di non aver da ridire con lui!
+~
+~
+~
+~
+8203 16777728 0 -1 -1 -1 -1 -1 E
+42 7 -4 1d1+630 3d9+7
+41 1000000
+8 8 0
+E
+#26010
+stella mercante~
+Stella la Mercante~
+Stella ti guarda con occhio pratico.
+~
+Questa piccola signora ha gli occhi e l'intelligenza di un barracuda.
+Scontrati con lei e sei finito.
+~
+~
+~
+~
+11 16785920 1000 -1 -1 -1 -1 -1 E
+42 7 -4 1d1+630 3d9+7
+32 1000000
+8 8 2
+E
+#26011
+maestro guerra~
+il Maestro della Guerra~
+Il Maestro della Guerra e' qui pronto ad istruire.
+~
+Come guerriero, il Maestro della Guerra non conosce uguali.
+Come insegnante di pratiche belliche prova a passare la sua
+conoscenza ed esperienza a quelli che desiderano seguire
+le vie della guerra.
+~
+~
+~
+~
+1547 544 0 -1 -1 -1 -1 -1 E
+42 7 -4 1d1+630 3d9+7
+23 1000000
+8 8 1
+E
+#26012
+sergente reale~
+un Sergente Reale~
+Un Sergente Reale ti sta osservando.
+~
+Molti criminali e malvagi hanno desiderato far fuori i
+Sergenti Reali del Palazzo di Santheocles. La sola
+debolezza potuta riscontrare in loro e' la mancanza
+di difesa contro la magia.
+~
+~
+~
+~
+11 8712 500 -1 -1 -1 -1 -1 E
+38 8 -3 50d10+580 3d8+7
+36 150000
+8 8 1
+E
+#26013
+capitano reale~
+un Capitano Reale~
+Il Capitano Reale dice:"Salve straniero. Goditi gli ultimi momenti di vita!!"
+~
+Il Capitano ha un piccolo tatuaggio sul suo avambraccio sinistro.
+Dice semplicemente:"Il FORTE trionfera'.
+~
+~
+~
+~
+73 16786088 500 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+600 3d8+7
+36 900000
+8 8 1
+E
+#26014
+sentinella~
+una sentinella~
+Una sentinella molto annoiata e' qui.
+~
+Le sentinelle sono ADDORMENTATE!!! Roba da non credere!!!
+~
+~
+~
+~
+11 16777728 100 -1 -1 -1 -1 -1 E
+22 11 2 10d2+295 2d9+3
+21 15000
+8 8 1
+E
+#26015
+giovane cadetto~
+un giovane cadetto~
+Un Cadetto ti spinge da parte.
+~
+Il Cadetto e' forte della sua appartenenza alla nobilta' e sogghigna maleficamente.
+~
+~
+~
+~
+73 512 100 -1 -1 -1 -1 -1 E
+20 12 4 2d10+250 2d8+3
+15 6000
+8 8 1
+E
+#26016
+sacerdote Ekatas~
+il sacerdote Ekatas~
+Un vecchio sacerdote gira nei corridoi come un'ombra.
+~
+Ekatas e' molto vecchio, la faccia e' ormai un reticolo di rughe;
+sembra la sua ombra, cammina lentamente avvolto in una tunica nera
+con uno strano simbolo ricamato sopra.
+~
+~
+~
+~
+161804 296104 -1000 -1 -1 -1 -1 -1 E
+45 6 -6 10d10+700 3d10+8
+41 500000
+8 8 1
+E
+#26017
+sentinella~
+una sentinella~
+La sentinella ti attacca!!!
+~
+La sentinella sembra sia sotto l'effetto di qualche tipo di medicinale.
+I suoi occhi sono larghi ed iniettati di sangue.
+~
+~
+~
+~
+11 16777768 -300 -1 -1 -1 -1 -1 E
+22 11 2 1d1+295 2d9+3
+17 24000
+8 8 1
+E
+#26018
+serva~
+una serva~
+Una serva e' qui in cerca di qualcosa da fare.
+~
+Sotto quella uniforme polverosa batte il cuore di un essere umano.
+~
+~
+~
+~
+77 0 50 -1 -1 -1 -1 -1 E
+22 11 2 4d10+295 2d9+3
+21 460000
+8 8 2
+E
+#26019
+cuoco grasso~
+il grasso cuoco~
+Il cuoco e' occupato. Vattene e lascialo solo.
+~
+Grazie alle sue mani veloci, il cuoco ha potuto nascondere del
+cibo nei suoi pantaloni.
+~
+~
+~
+~
+11 0 25 -1 -1 -1 -1 -1 E
+22 11 2 3d9+295 2d9+3
+15 460000
+8 8 1
+E
+#26020
+cortigiano~
+un Cortigiano~
+Un Cortigiano ti guarda meravigliato.
+~
+Nascosto sotto la sua veste di seta c'e' un farsetto di cuoio.
+Sembra essere anche armato.
+~
+~
+~
+~
+73 0 10 -1 -1 -1 -1 -1 E
+23 11 2 1d1+320 2d9+3
+14 24000
+8 8 1
+E
+#26021
+attendente~
+un attendente dei bagni~
+Un attendente dei bagni e' pronto a servirti.
+~
+Lunghe ore dedicate a questo mestiere hanno reso l'attendente irritato.
+~
+~
+~
+~
+11 0 500 -1 -1 -1 -1 -1 E
+19 13 3 2d6+235 2d7+2
+17 25000
+8 8 1
+E
+#26022
+re santheocles~
+re Santheocles~
+Re Santheocles ti sta guardando con un'aria sprezzante.
+~
+Il re e' molto alto con una splendida muscolatura, ha la pelle
+molto chiara e capelli e barba corvini accuratamente arricciati
+e oliati. Il suo volto piu' che umano sembra di pietra: naso
+diritto, occhi grandi e scuri, sguardo vacuo, espressione crudele.
+Ma guardandolo bene ti sembra solo un uomo stupido e arrogante,
+privo di compassione e decenza.
+~
+~
+~
+~
+92234 32896 -500 -1 -1 -1 -1 -1 E
+45 6 -6 10d10+700 3d10+8
+43 500000
+8 8 1
+E
+#26023
+regina chloe~
+La Regina Chloe~
+La Regina Chloe sbadigliata annoiata.
+~
+Come i suoi cortigiani, anche la Regina nasconde sotto i vestiti
+lunghi un set completo di armature.
+~
+~
+~
+~
+11 8872 500 -1 -1 -1 -1 -1 E
+36 8 -3 5d10+550 2d12+6
+28 800000
+8 8 2
+E
+#26024
+mago reale zalastha~
+Zalastha, il Mago Reale~
+L'alto Mago Styric, Zalastha, e' qui davanti a te.
+~
+Zalastha, il Mago Styric, ha un'aura di potere intorno a lui.
+Su ciascuna mano indossa un guanto che brilla di potere.
+Faresti meglio ad andartene prima che si arrabbi.
+~
+~
+~
+~
+11 8744 -1000 -1 -1 -1 -1 -1 E
+47 6 -7 5d10+740 4d8+10
+34 80000
+8 8 1
+E
+#26025
+ed apprendista~
+l'apprendista~
+Ed l'apprendista e' qui.
+~
+Senza dubbio questa apprendista e' la piu' bella donna che
+tu abbia mai visto. Scoppietta di energie magiche. :-)
+~
+~
+~
+~
+11 8744 200 -1 -1 -1 -1 -1 E
+22 11 2 2d6+295 2d9+3
+14 25000
+8 8 2
+E
+#26026
+guardiano della torre~
+un guardiano della torre~
+Non vedi nulla!!! Qualche cosa ti attacca! FUGGI!!!
+~
+Il Guardiano della Torre e' alto 2,5 metri e largo 1. Ha una bocca enorme,
+verruche sopra la maggior parte del corpo e non porta vestiti.
+
+Buona fortuna... perche' se puoi leggere questo...
+SEI TROPPO VICINO!!!
+~
+~
+~
+~
+43 66090 -1000 -1 -1 -1 -1 -1 E
+50 3 -8 3d6+800 4d10+12
+38 80000
+8 8 0
+E
+#26027
+bibliotecario~
+il Bibliotecario~
+Il Bibliotecario tiene due libri fra le profondita' della sua veste.
+~
+Questo vecchio ha occhi molto saggi... comunque, sembra piuttosto adirato con te.
+SSSHHHHHH!!!!!!
+~
+~
+~
+~
+11 552 100 -1 -1 -1 -1 -1 E
+42 7 -4 5d10+630 3d9+7
+33 800000
+8 8 1
+E
+#26028
+ragazza pulizie~
+una ragazza delle pulizie~
+Questa avvenente ragazza delle pulizie ha molti eccellenti attributi.
+~
+Molto professionale. Questo e' quello che pensi quando la guardi.
+~
+~
+~
+~
+77 0 20 -1 -1 -1 -1 -1 E
+11 18 8 1d1+500 1d5+1
+10 24000
+8 8 2
+E
+#26029
+ragazzo vaso da notte~
+il ragazzo del vaso da notte~
+OCCHIO!!! E' il ragazzo del vaso da notte!
+~
+Sporco... sporco... sporco. Hai mai visto cosi' tanto sporco?
+~
+~
+~
+~
+77 0 0 -1 -1 -1 -1 -1 E
+14 18 8 10d2+145 2d6+1
+12 15000
+8 8 1
+E
+#26030
+demone grigio~
+il Demone Grigio~
+Il Demone Grigio ti attacca con artigli affilati!
+~
+Alto 4 metri, il Demone ha un esoscheletro di ossa super dure.
+~
+~
+~
+~
+43 16938 -800 -1 -1 -1 -1 -1 E
+35 8 -3 3d6+540 2d12+6
+21 80000
+8 8 0
+E
+#26031
+ameba nera~
+una Ameba Nera~
+L'oscurita' ti sommerge quando l'Ameba Nera attacca!!!
+~
+Vicino all'Ameba Nera ci sono i resti delle sue vittime precedenti.
+~
+~
+~
+~
+47 17064 -550 -1 -1 -1 -1 -1 E
+35 8 -3 3d6+540 2d12+6
+30 80000
+8 8 0
+E
+#26032
+arpia~
+un'arpia~
+Un'Arpia ti vola sopra la testa.
+~
+L'Arpia ha una faccia orribile... le sue ali sono sporche...
+ed i suoi artigli sono disgustosi, ma che cribbio di corpo ha!!!
+~
+~
+~
+~
+47 16936 -500 -1 -1 -1 -1 -1 E
+30 10 -1 5d10+475 3d7+5
+20 600000
+8 8 2
+E
+#26033
+drago alato~
+un drago alato scuro~
+Il Drago Alato ti attacca!
+~
+Molti avventurieri hanno perso le loro vite grazie a questo
+drago alato a due zampe. Le loro ossa giacciono sul terreno.
+~
+~
+~
+~
+1099536793643 16904 -1000 -1 -1 -1 -1 -1 E
+52 3 -8 5d10+820 4d9+10
+48 600000
+8 8 0
+E
+#26034
+torturatore~
+il Torturatore Reale~
+Il Torturatore Reale e' qui.
+~
+Senza dubbio quest’uomo ama il suo lavoro. Puoi sentire il rantolo
+che emette quando respira.
+~
+~
+~
+~
+11 520 -500 -1 -1 -1 -1 -1 E
+26 11 1 2d6+395 2d10+4
+26 25000
+8 8 1
+E
+#26035
+serpente fiume serpe~
+un serpe di fiume~
+Il Serpe di fiume e' grande... VERAMENTE GRANDE! OKKIO!!!
+~
+Guardati la schiena!
+~
+~
+~
+~
+65769 2560 -450 -1 -1 -1 -1 -1 E
+26 11 1 2d6+395 2d10+4
+17 25000
+8 8 0
+E
+#26036
+nana scura~
+una nana scura~
+La nana scura cerca di attirare la tua attenzione.
+~
+Questa nana scura ha molti documenti che puoi aver voglia di acquistare.
+~
+~
+~
+~
+73 512 0 -1 -1 -1 -1 -1 E
+26 11 1 2d6+395 2d10+4
+19 25000
+8 8 2
+E
+#26037
+serpente mortale~
+un serpente mortale~
+Un serpente verde ti attacca!!!
+~
+Il serpente ha due piccole zampe che sporgono dall'addome.
+~
+~
+~
+~
+43 2560 -230 -1 -1 -1 -1 -1 E
+28 10 0 4d10+440 3d7+5
+28 460000
+8 8 0
+E
+#26038
+uomo lucertola~
+un uomo lucertola~
+Un grande uomo lucertola ti mostra le zanne.
+~
+Alto quasi 3 metri, l'uomo lucertola e' veramente impressionante.
+Ti mostra l zanne!!!
+~
+~
+~
+~
+43 552 -500 -1 -1 -1 -1 -1 E
+29 10 -1 5d10+460 3d7+5
+25 460000
+8 8 1
+E
+#26039
+drago albino~
+il Drago Albino~
+Il Drago Albino dagli occhi rossi ti guarda fisso!
+~
+Il Drago Albino ha degli artigli che sembrano fatti di madreperla.
+La sua testa e' scheletrica, le sue zanne terribili.
+~
+~
+~
+~
+237579 1064 -1000 -1 -1 -1 -1 -1 E
+37 6 -7 5d10+740 5d8+14
+38 150000
+8 8 2
+E
+#26040
+mostro abisso~
+Il Mostro dell'ABISSO~
+Il Mostro dell'ABISSO ti **** DEMOLISCE ****
+~
+Il Mostro dell'ABISSO... Dov'e'? Com'e' fatto????
+~
+~
+~
+~
+107 25128 -500 -1 -1 -1 -1 -1 E
+35 8 -2 5d10+525 2d12+6
+33 600000
+8 8 0
+E
+#26041
+orrore~
+l'Orrore~
+L'ORRORE ti attacca!
+~
+L'Orrore ha una corazza da Demone e terribili abitudini.
+~
+~
+~
+~
+107 25128 -1000 -1 -1 -1 -1 -1 E
+39 8 -3 20d2+590 3d8+7
+34 900000
+8 8 0
+E
+#26044
+guardia cynesgan~
+una guardia cynesgan~
+Una guardia cynesgan sta dando delle rapide occhiate in giro.
+~
+La guardia e' molto alta e robusta, di pelle chiarissima, ha il
+volto di pietra con uno sguardo vacuo e un'espressione crudele.
+~
+~
+~
+~
+6348 0 -250 -1 -1 -1 -1 -1 E
+27 11 0 10d5+420 2d10+4
+14 5000
+8 8 1
+E
+#26045
+guardia cyrgai~
+una guardia cyrgai~
+Una guardia cyrgai ti osserva accuratamente.
+~
+La guardia e' notevolmente alta, con capelli e barba corvini,
+pelle chiara, e sguardo vacuo. Ma con un'espressione crudele che
+non fa altro che farlo sembrare piu' stupido e arrogante.
+~
+~
+~
+~
+6220 0 -350 -1 -1 -1 -1 -1 E
+33 11 -2 15d5+460 3d8+5
+31 10000
+8 8 1
+E
+#26046
+guardia reale~
+una guardia reale~
+La guardia reale ti penetra col suo sguardo tagliente.
+~
+La guardia reale non e' descritta perche' cyrgon vuole farlo
+personalmente; allora lascio tutto in bianco... si fa per dire.
+~
+~
+~
+~
+6154 0 -350 -1 -1 -1 -1 -1 E
+33 11 -2 15d5+460 3d8+5
+17 10000
+8 8 1
+E
+#26047
+guardia templare~
+una guardia templare~
+La guardia templare sembra totalmente disinteressata a tutto.
+~
+La guardia e' notevolmente alta, di pelle chiarissima con barba
+e capelli corvini. Lo sguardo vacuo e l'espressione assente gli
+danno un'aria d'arroganza.
+~
+~
+~
+~
+145418 128 -350 -1 -1 -1 -1 -1 E
+33 11 -2 15d5+460 3d8+5
+23 10000
+8 8 1
+E
+#26048
+schiavo elfo~
+uno schiavo elfo~
+Uno schiavo elfo sta lavorando duramente.
+~
+Lo schiavo e' in pessime condizioni, vestito di stracci;
+guardandolo negli occhi capisci che preferirebbe la morte
+a questa situazione umiliante.
+~
+~
+~
+~
+204 0 300 -1 -1 -1 -1 -1 E
+5 16 8 5d5+40 1d8+1
+4 900
+8 8 1
+E
+#26049
+schiava umana~
+una schiava umana~
+Una schiava umana sta lavorando duramente.
+~
+La schiava e' in pessime condizioni, vestita di stracci;
+guardandola negli occhi capisci che preferirebbe la morte
+a questa situazione umiliante.
+~
+~
+~
+~
+204 0 300 -1 -1 -1 -1 -1 E
+12 14 7 5d5+115 1d8+1
+10 900
+8 8 2
+E
+#26050
+schiavo bambino~
+un bambino schiavo~
+Un bambino schiavo sta facendo del suo meglio.
+~
+Il bambino schiavo e' in pessime condizioni, vestito di stracci.
+~
+~
+~
+~
+204 0 500 -1 -1 -1 -1 -1 E
+8 15 8 2d5+70 1d8+1
+6 200
+8 8 1
+E
+#26051
+schiavo nano~
+un schiavo nano~
+Un schiavo nano sta tagliando della legna.
+~
+Lo schiavo nano sta tagliando con estremo vigore un tronco,
+sicuramente sta immaginando che siano i suo guardiani.
+~
+~
+~
+~
+204 0 100 -1 -1 -1 -1 -1 E
+12 14 7 5d5+140 1d9+1
+10 900
+8 8 2
+E
+#26052
+schiava elfica~
+una schiava elfica~
+Una schiava elfica sta raccogliendo dei rametti da terra.
+~
+La schiava elfica e' in pessime condizioni, vestita di stracci.
+~
+~
+~
+~
+204 0 300 -1 -1 -1 -1 -1 E
+12 14 7 5d5+140 1d8+1
+7 900
+8 8 2
+E
+#26053
+scoiattolo~
+uno scoiattolo~
+Uno scoiattolo corre di albero in albero.
+~
+Lo scoiattolo e' molto veloce e agile, e' un piacere vedere
+i suoi movimenti aggraziati da un salto all'altro.
+~
+~
+~
+~
+200 1056 500 -1 -1 -1 -1 -1 E
+2 0 10 2d5+10 1d3+0
+2 0
+8 8 1
+BareHandAttack: 4
+E
+#26054
+cane bastardo~
+un cane bastardo~
+Un bastardello gironzola qua in giro annusando in ogni angolo.
+~
+Il cane non e' certo di razza, anche se deve essere senza
+padrone ti sembra che se la cavi benissimo.
+~
+~
+~
+~
+200 1056 500 -1 -1 -1 -1 -1 E
+5 17 8 5d5+40 1d8+1
+4 500
+8 8 1
+BareHandAttack: 4
+E
+#26055
+cavallo traino~
+un cavallo da traino~
+Un cavallo da traino si sta riposando mentre mangia un po' d'avena.
+~
+Il cavallo ha una potente muscolatura ed e' in buone condizioni.
+~
+~
+~
+~
+202 1056 500 -1 -1 -1 -1 -1 E
+7 16 7 15d10+60 1d7+1
+4 1000
+8 8 1
+BareHandAttack: 4
+E
+$

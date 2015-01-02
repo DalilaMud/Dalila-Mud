@@ -1,0 +1,656 @@
+#5900
+una gatta nera~
+una gatta nera~
+&3Una gatta nera si avvicina per farti le fusa.&0
+~
+E' nera come la notte e dolce come il peccato, ti si avvicina sorniona a pretendere
+qualche carezza. Ti ha gia' stregato.
+~
+~
+~
+~
+537116682 32768 1000 -1 -1 -1 1869523641 -1 E
+76 10 -10 10d1000+0 10d10+10
+58 0
+8 8 2
+BareHandAttack: 14
+E
+#5901
+mercante~
+un mercante ben vestito~
+Un mercante ben vestito e' seduto su di una panchina, e non sembra intenzionato ad alzarsi
+~
+
+Non e' un personaggio che passa inosservato. Ha una folta chioma rossa,
+ed e' vestito con indumenti a dir poco vistosi.
+Il fisico e' corpulento, un po' flaccido in (molti) punti, e sembra
+fare una fatica boia fare un qualsiasi movimento.
+
+Con se porta una sacca di pelle legata alla cintola.
+
+~
+~
+~
+~
+17031178 0 -1000 -1 -1 -1 1869523641 -1 E
+90 -30 -10 30d1000+0 30d127+50
+83 0
+6 6 1
+BareHandAttack: 1
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+Spec: 10
+E
+#5902
+ronzante ape~
+&7&8U&0&3n&7&8'&0&3a&7&8p&0&3e&0~
+Un ape ti ronza intorno, sembra alterata.
+~
+E' piccola ma laboriosa, ovviamente e' a strisce, e sembra piuttosto incaxxata.
+Meglio non averci a che fare.
+~
+~
+~
+~
+8796118441992 4400500179072 0 -1 -1 -1 1869523641 -1 E
+70 0 -20 30d1000+4000 10d10+20
+69 0
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+Spec: 10
+E
+#5903
+grasso criceto~
+un grasso criceto~
+&3Un grasso criceto e' tutto preso a correre nella sua ruota.&0
+~
+E' talmente grasso che le zampette sprofondano nel pelo. Sta correndo da ore nella sua
+piccola ruota. Si distrae e ti degna di attenzione solo quando gli porgi del cibo.
+Qualsiasi cibo!
+~
+~
+~
+~
+24590 67108864 0 -1 -1 -1 1869523641 -1 E
+70 -20 20 30d300+0 6d90+50
+42 20
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Cha: 14
+E
+#5905
+Murphyn il vecchio~
+Murphyn il vecchio~
+&3Murphyn il vecchio ti guarda.&0
+~
+E il proprietario del negozio.
+~
+~
+~
+~
+134246410 0 -300 -1 -1 -1 -1 7 E
+45 -5 10 30d50+0 4d45+15
+26 10
+8 8 1
+BareHandAttack: 6
+E
+#5906
+Kojiro il demone postino~
+Kojiro il demone postino~
+&3Kojiro il demone postino ti guarda.&0
+~
+E' troppo assorto nell'ordinare delle lettere per darti attenzione.
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 7 E
+70 -10 10 30d50+0 5d40+25
+54 10
+8 8 1
+BareHandAttack: 13
+Spec: 1
+E
+#5907
+nano strano sebastiano~
+uno strano nano~
+Uno strano nano con il visto triste ti osserva.
+~
+Piccolo. Decisamente piccolo. Ma e' quel piccolo che non  si capisce
+bene se e' per via di un nanismo dovuto a malattia o se e' di razza
+nanica.
+Sfortunatamente ha un viso talmente triste che non la sua statua
+passa in secondo piano, mentre i suoi occhi scuri ti toccano nel
+profondo.
+~
+~
+~
+~
+253960 1024 1000 -1 -1 -1 -1 -1 E
+10 -30 -20 30d100+100 30d100+50
+6 0
+8 8 1
+E
+#5910
+gruppo di demoni~
+un gruppetto di demoni~
+&3Dei demoni sono qui.&0
+~
+Una cricca di orrendi demoni vistosamente ubriachi... meglio girare al largo.
+~
+~
+~
+~
+24584 8192 -900 -1 -1 -1 -1 7 E
+50 -15 10 20d40+0 5d20+25
+37 10
+8 8 0
+Str: 12
+Dex: 13
+E
+#5911
+guardia Efreeta~
+una guardia Efreeta~
+&3Una guardia Efreeta e' qui.&0
+~
+Un'immensa figura si inalza davanti a te, ha tratti che ricordano gli umani, ma i suoi
+lineamenti sono chiaramente demoniaci. Il suo corpo  avvolto dalle fiamme e dalle sue
+possenti mani si allugano dei giganteschi artigli.
+~
+~
+~
+~
+10 0 -700 -1 -1 -1 -1 7 E
+55 -10 10 30d50+0 4d30+25
+35 10
+8 8 0
+BareHandAttack: 10
+Str: 12
+Dex: 12
+Con: 12
+E
+#5912
+Guercio~
+il Guercio~
+&3Il Guercio e' qui pronto a servirti.&0
+~
+E' veramente guercio!!! Ecco perche' lo chiamano cosi!  
+~
+~
+~
+~
+35184506331146 17592722915456 -600 -1 -1 -1 -1 -1 E
+40 0 10 30d40+0 4d30+20
+29 10
+8 8 1
+E
+#5913
+plotone demoniaco~
+un Plotone Demoniaco~
+&3Un plotone demoniaco si sta esercitando.&0
+~
+Un'orda di demoni e' qui impegnata ad esercitarsi. Sono ricoperti da oscure corazze nere
+Negli scudi distingui chiaramente lo stemma di Alorn.
+~
+~
+~
+~
+140737488379914 0 -800 -1 -1 -1 -1 7 E
+50 -5 10 30d50+0 30d40+20
+33 10
+8 8 1
+BareHandAttack: 10
+Str: 12
+Dex: 12
+Con: 12
+E
+#5914
+strani esseri~
+degli strani esseri~
+&3Degli strani esseri strisciano qui.&0
+~
+Degli strani esseri striscianti di cui non riesci a definire la natura sono a terra.
+Parti del loro corpo sono mutilate riesci appena a percepire i loro versi sofferenti.
+~
+~
+~
+~
+140737488379914 1152991873351025152 0 -1 -1 -1 -1 7 E
+40 0 10 30d20+0 3d20+10
+30 10
+8 8 0
+E
+#5915
+demone custode~
+un demone custode~
+&3Un demone custode ti sbarra la strada.&0
+~
+Sei al cospetto di un possente Demone Nero. Ha gli occhi chiusi e le braccia incrociate
+sull'enorme petto. Sembra attendere qualcosa.
+~
+~
+~
+~
+24586 513 -600 -1 -1 -1 -1 7 E
+50 -5 10 30d50+0 5d50+17
+44 10
+8 8 1
+BareHandAttack: 8
+Str: 12
+Dex: 12
+Con: 12
+E
+#5916
+demone coperto di bende~
+un demone ricoperto di bende~
+&3Un Demone ricoperto di bende prova a toccarti.&0
+~
+Un demone coperto di stracci e bende e qui che ti scruta con lo sguardo fisso e la bocca
+semiaperta come a volerti dire qualcosa. Allunga la mano verso di te e noti che ad ogni
+suo spostamento qualcosa intorno a lui marcisce.
+~
+~
+~
+~
+24586 2048 -1000 -1 -1 -1 -1 7 E
+50 0 10 30d50+0 4d50+10
+32 15
+8 8 1
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Con: 12
+E
+#5917
+banchiere Kaegoth~
+Kaegoth il banchiere~
+&3Kaegoth il banchiere ti guarda e si strofina le mani.&0
+~
+Una piccola e nera figura con barba incolta presenta dei piccoli occhiali da
+lettura sul lungo e fino naso. 
+~
+~
+~
+~
+90122 128 -600 -1 -1 -1 -1 7 E
+47 0 10 30d100+0 4d50+10
+41 200
+8 8 0
+Str: 12
+Dex: 12
+Int: 12
+E
+#5920
+demone Nero~
+un demone Nero~
+&3Un demone Nero e' qui.&0
+~
+Un enorme demone alato si pone al tuo cospetto. Con una mano tiene un'enorme lancia che
+ti blocca il passaggio, nell'altra uno scudo con lo stemma del Regno di Alorn. Ti scruta
+con fare minaccioso.
+~
+~
+~
+~
+140737488379914 134217728 -1000 -1 -1 -1 -1 7 E
+65 -10 10 30d70+0 5d50+25
+60 10
+8 8 1
+BareHandAttack: 11
+Str: 12
+Dex: 12
+Con: 12
+E
+#5921
+Bethor stalliere~
+Bethor lo stalliere~
+&3Bethor lo stalliere e' qui alle prese con una cavalcatura.&0
+~
+Una grande e imponente figura demoniaca vestita con pelli di animali sta cercando
+di domare un cucciolo di Drago Nero.
+~
+~
+~
+~
+134242314 0 -200 -1 -1 -1 -1 7 E
+40 -5 10 30d40+0 4d20+20
+29 10
+8 8 1
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Con: 12
+E
+#5922
+kamodeth negromante~
+Kamodeth il negromante~
+Kamodeth il negromante ti osserva cupamente.
+~
+Ha un'aria tetra e minacciosa.
+~
+~
+~
+~
+1275068426 0 -200 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+37 1000
+8 8 1
+E
+#5923
+shira negoziante~
+Shira la negoziante~
+Shira ti fissa col suo sguardo sensuale ed ammiccante.
+~
+Rossi capelli di fuoco incorniciano il viso della provocante proprietaria del negozio.
+~
+~
+~
+~
+1275068426 0 -200 -1 -1 -1 -1 -1 E
+70 0 -10 30d10+10000 4d7+20
+46 1000
+8 8 1
+E
+#5924
+onion negoziante~
+Onion il negoziante~
+Onion il negoziante ti squadra coi suoi occhietti demoniaci.
+~
+Un piccolo e sporco demone dall'aspetto curioso.
+~
+~
+~
+~
+1275068426 0 -200 -1 -1 -1 -1 -1 E
+70 0 -10 20d10+10000 4d7+20
+38 1000
+8 8 1
+E
+#5925
+ofeste commesso~
+Ofeste il commesso~
+Ofeste il panettiere sta impastando con le sue lerce manacce di demone.
+~
+Un grasso demone rossiccio e' qui intento a cucinare e controllare gli schiavi.
+~
+~
+~
+~
+1275093002 0 -200 -1 -1 -1 -1 -1 E
+70 0 -10 20d10+10000 20d9+20
+59 1000
+8 8 1
+E
+#5926
+beliah negoziante~
+Beliah il negoziante~
+Beliah il negoziante ti guarda da dietro il bancone.
+~
+Un gigantesco demone ricoperto di acciaio rosso fuoco.
+~
+~
+~
+~
+1275093002 0 -200 -1 -1 -1 -1 -1 E
+70 0 -10 20d30+10000 20d30+20
+49 1000
+8 8 1
+E
+#5927
+guardia-demone chyrinic~
+Una guardia-demone Chyrinic~
+Una guardia-demone Chyrinic e' qui che ti sbarra la strada.
+~
+Il bagliore nero che questa guardia emana e' quasi affascinante!  Se non fosse
+per le zanne, gli artigli, la pelle azzurra e il fetore che emana, saresti
+quasi attratto da lui.    
+~
+~
+~
+~
+1073766411 1064 -200 -1 -1 -1 -1 -1 E
+70 16 -10 10d15+10000 15d20+8
+51 1000
+8 8 1
+Spec: 6
+E
+#5928
+maestro chyrinic~
+Il maestro Chyrinic~
+Il maestro e' qui a insegnarti i rudimenti della gilda Chyrinic.
+~
+Un uomo?  Difficile dirlo.  Avvolto in una toga con il cappuccio chino sulla
+testa, di lui sono visibili solo due occhi luminescenti.    
+~
+~
+~
+~
+1073766411 1064 -200 -1 -1 -1 -1 -1 E
+70 10 -10 10d20+10000 4d8+20
+40 1000
+8 8 1
+Spec: 7
+E
+#5929
+guardiano peloi~
+Un enorme guardiano Peloi~
+Un enorme guardiano Peloi sorveglia l'ingresso.
+~
+Due occhi grandi e rossi come il fuoco ti pietrificano.  Le sue mani stringono
+due pugnali e il suo possente corpo e' ricoperto da una solida corazza e un
+verde mantello.    
+~
+~
+~
+~
+1073799179 1064 -200 -1 -1 -1 -1 -1 E
+70 5 -10 10d30+10000 8d10+20
+36 1000
+8 8 1
+Spec: 6
+E
+#5930
+maestro peloi~
+Il maestro Peloi~
+Il maestro Peloi ti fissa con severita', mettendoti a disagio.
+~
+Un enorme peloi si presenta al tuo cospetto. Le braccia sono incrociate sul petto, il tuo sguardo ti studia.
+I suoi due due pugnali sono riposti nelle rispettive fodere.
+~
+~
+~
+~
+1073799179 1064 -200 -1 -1 -1 -1 -1 E
+70 0 -10 20d20+10000 20d20+20
+66 1000
+8 8 1
+Spec: 7
+E
+#5934
+incappucciato demone maradona~
+un demone incappucciato~
+&3Un demone incappucciato ti osserva attentamente&0
+~
+E' davvero enrome! E' la prima cosa che pensi quando ti trovi davanti questo gigantesco
+demone nero alato dal volto incappucciato. Regge una gigantesca ascia nera.
+~
+~
+~
+~
+140737488379914 8192 -600 -1 -1 -1 -1 -1 E
+40 -30 10 30d50+0 4d20+40
+37 40
+8 8 1
+BareHandAttack: 9
+E
+#5944
+adepto~
+un adepto di Sharr~
+&3Un Adepto di Sharr si muove silenziosamente per la piazza.&0
+~
+Un'esile figura, col capo incappucciato si muove silenziosamente nella piazza per giungere
+al cospetto della statua e riporre cosi il suo dono per la Divina Shaarr.
+~
+~
+~
+~
+140737488445450 8192 -700 -1 -1 -1 -1 7 E
+40 5 10 30d50+0 4d30+10
+37 12
+8 8 1
+Str: 12
+Dex: 12
+Con: 12
+E
+#5951
+Callisto il fabbro~
+Callisto il fabbro~
+&3Callisto il fabbro e' qui.&0
+~
+E troppo intento ad ordinare le sue armi per darti retta.
+~
+~
+~
+~
+140737622597642 8192 -500 -1 -1 -1 -1 7 E
+50 -5 10 30d70+0 4d40+15
+34 10
+8 8 1
+BareHandAttack: 10
+Str: 12
+Dex: 12
+Con: 12
+E
+#5953
+Denestor il demone alchimista~
+Denestor il demone alchimista~
+&3 Denestor il demone alchimista armeggia con degli alambicchi.&0
+~
+E molto alto e imponente.
+~
+~
+~
+~
+134242312 128 -700 -1 -1 -1 -1 7 E
+50 -5 10 30d50+0 4d40+15
+32 10
+8 8 1
+BareHandAttack: 10
+E
+#5956
+Igor il commerciante~
+Igor il commerciante~
+&3Igor il commerciante e' qui.&0
+~
+E uno di quei demoni che potresti temere solo per quante parole e in grado di vomitare
+in pochi istanti!!
+~
+~
+~
+~
+134242314 0 -800 -1 -1 -1 -1 7 E
+40 0 10 30d50+0 5d30+20
+25 20
+8 8 1
+E
+#5966
+Keiros il sicario~
+Keiros il sicario di Aldeeran~
+&3Keiros il sicario di Aldeeran ti osserva.&0
+~
+Sembra un tipo poco raccomandabile.    
+~
+~
+~
+~
+24651 0 -1000 -1 -1 -1 -1 -1 E
+60 -10 10 30d70+0 5d60+30
+49 0
+8 8 1
+BareHandAttack: 3
+Spec: 10
+E
+#5976
+Toghre il demone guardiano~
+Toghre il demone guardiano~
+&3Toghre il demone guardiano ti fissa.&0
+~
+I suoi rossi occhi sono cosi' penetranti che a malapena riesci a fissarlo.
+~
+~
+~
+~
+90122 268444672 -100 -1 -1 -1 -1 9 E
+70 -10 15 30d30+0 5d50+20
+60 10
+8 8 1
+BareHandAttack: 9
+Spec: 6
+E
+#5979
+demone a guardia della gilda~
+un demone a guardia della gilda dei Pandion~
+&3Un demone e' qui a proteggere la stanza del Maestro.&0
+~
+Non lascera' passare nessuno che non ne abbia il permesso. Ti fissa con sguardo
+gelido e minaccioso, impassibile.
+~
+~
+~
+~
+90186 268435456 0 -1 -1 -1 -1 -1 E
+70 -5 12 30d50+0 4d50+25
+55 10
+8 8 1
+BareHandAttack: 6
+E
+#5981
+Maandrael Il Maestro Pandion~
+Maandrael Il Maestro Pandion~
+&3Maandrael Il Maestro Pandion e' qui pronto ad insegnare.&0
+~
+Maestoso, imponente, terrificante...egli e' il maestro delle arti nere.
+~
+~
+~
+~
+1073864714 152043528 0 -1 -1 -1 -1 9 E
+70 -10 20 30d50+0 5d70+30
+69 10
+8 8 1
+BareHandAttack: 11
+Spec: 7
+E
+#5999
+Bert spazzacamino~
+Bert lo spazzacamino~
+&3Bert lo spazzacamino canticchia un motivetto e ti sorride.&0
+~
+Il viso sporco di fuliggine non riesce a nascondere un sorriso sornione e due occhi allegri.
+Canticchia un curioso motivetto che devi aver gia' sentito da qualche parte, anche se non rammenti dove.
+Probabilmente aspetta una signora con un ombrello.
+~
+~
+~
+~
+254026 0 0 -1 -1 -1 -1 -1 E
+70 -10 10 3d2+0 4d10+30
+68 0
+8 8 1
+E
+T 2
+$

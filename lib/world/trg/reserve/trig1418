@@ -1,0 +1,15 @@
+trigedit 1418
+6  
+/c 
+eval lupo %random.20%
+if %lupo% == 1
+wait 2 s
+mpurge pllll
+mecho &9&xIl medaglione del lupo si frantuma!&0
+end
+wait 2 s
+emote ulula tanto forte da far ghiacciare il sangue nelle vene...
+~
+/s
+q
+y

@@ -1,0 +1,18 @@
+trigedit 2509
+6  
+/c 
+* Lista comandi
+if %imm% == 1
+halt
+end
+if %arg% == specchio
+set imm 1
+global imm
+wait 1
+mecho &6La tua immagine fuoriesce dallo specchio!&0
+mload mob 594
+end
+~
+/s
+q
+y

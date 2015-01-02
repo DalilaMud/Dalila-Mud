@@ -1,0 +1,12 @@
+trigedit 1385
+6  
+/c 
+* Lista comandi
+wait 1 s
+%send% %actor% &5Uno dei tentacoli di Destiny si scaglia su di te e penetra le tue carni!&0
+%echoaround% %actor% &5%actor.name% viene colpito in pieno da uno dei tentacoli di Destiny!&0
+dg_cast 'energy drain' %actor.name%
+~
+/s
+q
+y

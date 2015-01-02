@@ -1,0 +1,176 @@
+trigedit 2033
+6  
+/c 
+if %actor.vnum% != -1
+halt
+end
+if %actor.level% > 70
+wait 2 s
+inch %actor.name%
+wait 2 s
+say Andatevene miserabile %actor.name%, e pregate che l'ira di Shaarr non si volga mai verso di voi
+halt
+end
+if %missione% == 1
+wait 2 s
+say %pg% sta gia' eseguendo la Volonta' di Shaarr! Tornate in un altro momento, %actor.name%   
+halt
+end
+if %mob% == 1
+wait 2 s
+say Malvagio %actor.name%, dovrete aspettare un po' di tempo prima di poter strappare qualche cuore.
+halt
+end
+set missione 1
+set counter 0
+global counter
+global missione
+set mob 1
+global mob
+set livello %actor.level%
+global livello
+set pg %actor.name%
+global pg
+wait 2 s
+soggh
+wait 1 s
+ann
+wait 1 s
+say Molto bene %pg%, Shaarr accetta che voi soffriate e moriate per la sua maggior gloria
+wait 2 s
+if %livello% < 20
+eval quest %random.3%
+if %quest% == 1
+say Esiste una stupida regina nel Feudo di Astrakan, felice della propria vita priva colma di gioia.
+wait 2 s
+say Fatele conoscere il significato della Volonta' di Shaarr
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat armiria mpurge armiria
+mat rfcmsn mload mob 16005
+mat rfcmsn mforce armiria mload obj 558
+mat rfcmsn mforce armiria mgoto 16065
+mat armiria mforce armiria get arazzo
+halt
+elseif %quest% == 2
+say Rintanato nella foresta di Lanowar vive un cavaliere, fiero delle sue molte battaglie vinte contro  il male...
+wait 2 s
+say Shaarr ritiene che sia giunta l'ora di insegnargli da quale parte il vero Potere risiede...
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat dcxqs mpurge dcxqs
+mat rfcmsn mload mob 10015
+mat rfcmsn mforce dcxqs mload obj 558
+mat rfcmsn mforce dcxqs mgoto 10009
+mat dcxqs mforce dcxqs get all
+mat dcxqs mforce dcxqs indo all
+halt
+else
+say Nel felice villaggio di Sean Wast la vita procede tranquilla, grazie alla protezione di un potente mago...
+wait 2 s
+say mostrate agli stupidi abitanti del villaggio quanto sia grande il potere di Shaarr! Uccidete il mago!
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat ashvar mpurge ashvar
+mat rfcmsn mload mob 18404
+mat rfcmsn mforce ashvar mload obj 558
+mat rfcmsn mforce ashvar mgoto 18428
+mat ashvar mforce ashvar get all
+mat ashvar mforce ashvar indo all
+mat ashvar mforce ashvar hold bacc
+halt
+end
+elseif %livello% < 40
+eval quest %random.3%
+if %quest% == 1
+say Nella infetta citta' di Kuna, vive uno stupido paladino che resiste alle forze del male!
+wait 2 s
+say dimostrategli quanto vana sia la sua lotta!
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat ptxqs mpurge ptxqs
+mat rfcmsn mload mob 24003
+mat rfcmsn mforce ptxqs mload obj 558
+mat rfcmsn mforce ptxqs mgoto 24011
+mat ptxqs mforce ptxqs get all
+mat ptxqs mforce ptxqs indo all
+mat ptxqs mforce ptxqs hold chia
+halt
+elseif %quest% == 2
+say  Tzegano e' il capoclan dell'accampamento gitano nei pressi della citta' di Chyrellos...
+wait 2 s
+say  Nella sua stoltezza egli crede di detenere il Potere. Mostrategli il vero significato del Potere! 
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat tzegano mpurge tzegano
+mat rfcmsn mload mob 17438
+mat rfcmsn mforce tzegano mload obj 558
+mat rfcmsn mforce tzegano mgoto 17461
+mat tzegano mforce tzegano get all
+mat tzegano mforce tzegano indo all
+mat tzegano mforce tzegano impu mazza
+halt
+else
+say Nella citta' di Leah, Re Morgan regna ostentando il suo piccolo ed insignificante potere.
+wait 2 s
+say Mostrate a quella stupida citta' chi e' che detiene il vero Potere uccidendo senza pieta' il Re!
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat mlrlqs mpurge mlrlqs
+mat rfcmsn mload mob 16312
+mat mlrlqs mforce mlrlqs mload obj 558
+mat rfcmsn mforce mlrlqs mgoto 16327
+mat mlrlqs mforce mlrlqs get all
+mat mlrlqs mforce mlrlqs indo all
+mat mlrlqs mforce mlrlqs hold chia
+end
+halt
+else
+eval quest %random.3%
+if %quest% == 1
+say Re Kajafesh regna sulla citta' di uomini lucertola di Gashha ma non pare voler chinare il capo...
+wait 2 s
+say ...innanzi a Colei che detiene il Vero Potere. Mostrategli la forza di Shaarr!
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat kajafesh mpurge kajafesh
+mat rfcmsn mload mob 30000
+mat rfcmsn mforce kajafesh mload obj 558
+mat rfcmsn mforce kajafesh mgoto 30000
+mat kajafesh mforce kajafesh get all
+mat kajafesh mforce kajafesh indo all
+mat kajafesh mforce kajafesh hold pipa
+halt
+elseif %quest% == 2
+say In Daresia vive il Supremo Cavaliere, del Sacro Ordine dei Paladini, e' superfluo dirvi che...
+wait 2 s
+say ...La Maestra del Dolore non apprezza la sua esistenza. Ponetele fine.
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat scqxs mpurge scqxs
+mat rfcmsn mload mob 7900
+mat rfcmsn mforce scqxs mload obj 558
+mat rfcmsn mforce scqxs mgoto 7900
+mat scqxs mforce scqxs get all
+mat scqxs mforce scqxs indo all
+mat scqxs mforce scqxs hold chiave
+halt
+else
+say  A Camelot vive un impavido cavaliere che piu' volte ha osato sfidare Shaarr! Sir Lancillotto!
+wait 2 s
+say Spezzate il suo corpo e la sua volonta' affinche' si inchini anch'egli alla Signora!   
+wait 2 s
+say Portatemi il suo cuore, e la ricompensa sara' vostra, %pg%.
+mat clxqs mpurge clxqs
+mat rfcmsn mload mob 17312
+mat rfcmsn mforce clxqs mload obj 558
+mat rfcmsn mforce clxqs mgoto 17359
+mat clxqs mforce clxqs get gua
+mat clxqs mforce clxqs indo all
+end
+halt
+end
+~
+/s
+q
+y

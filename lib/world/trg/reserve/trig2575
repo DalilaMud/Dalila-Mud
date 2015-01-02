@@ -1,0 +1,19 @@
+trigedit 2575
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &2Il pupazzetto si leva pian piano in piedi&0
+wait 1 s
+oecho &2Il pupazzetto fa un ampio sorriso...&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &2Il pupazzetto&0 &5dice, 'Chi vuole ascoltare la storia di come Tolnedra vinse la guerra contro Sendaria?'&0
+else
+oecho &2Il pupazzetto &0&5dice, 'Ho fatto una torta che racconta la vittoria di Tolnedra!'&0
+end
+~
+/s
+q
+y

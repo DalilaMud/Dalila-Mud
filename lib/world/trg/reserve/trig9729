@@ -1,0 +1,15 @@
+trigedit 9729
+6  
+/c 
+if %speech% == Aldur
+wait 2 s
+wsend %actor.name% Senti una strana forza provenire dal nulla
+wait 2 s
+wteleport %actor.name% 2822
+wforce %actor.name% look
+else
+end
+~
+/s
+q
+y

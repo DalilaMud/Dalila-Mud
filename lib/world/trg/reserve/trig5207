@@ -1,0 +1,16 @@
+trigedit 5207
+6  
+/c 
+eval oggetto %self.inventory(5219)%
+if (oggetto)
+dai pozione %actor.name%
+smile
+end
+else
+say Oh... che sbadata...
+wait 1s
+say Non ne ho piu'!
+~
+/s
+q
+y

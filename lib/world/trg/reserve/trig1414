@@ -1,0 +1,14 @@
+trigedit 1414
+6  
+/c 
+if %tigre% == 0
+halt
+end
+set tigre 0
+global tigre
+oecho &3&xLa tigre ritorna nell'amuleto!&0
+opurge ttttk
+~
+/s
+q
+y

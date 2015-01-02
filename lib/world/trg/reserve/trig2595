@@ -1,0 +1,19 @@
+trigedit 2595
+6  
+/c 
+* Lista comandi
+wait 1
+if %actor.room% < 1400400
+osend %actor.name% Non puoi usare il Manto Planare qui!
+halt
+end
+set room %actor.room%
+osend %actor.name% &7Vieni avvolto in una bolla planare!&0
+oechoaround %actor.name% &7%actor.name% viene avvolto da una bolla planare, scomparendo dalla vista&0
+wait 1
+oteleport %actor.name% 867
+%door% 867 u room %room%
+~
+/s
+q
+y

@@ -1,0 +1,20 @@
+trigedit 9738
+6  
+/c 
+set a %actor.name%
+if %a% == talos || %a% == Jerold || %a% == roscellino || %a% == fender || %a% == feanor || %a% == spartakus || %a% == Thief || %a% == Kitiara || %a% == Sarib || %a% == Keli || %a% == Baal || %a% == Melyanna || %a% == Tajmaku
+set %speech%
+global libera
+set animazione on
+global animazione
+set timer 0
+global timer
+wecho  Un enorme guardiano entra nella cella 
+wait 1 s
+wecho Un enorme guardiano dice, 'Il prigioniero da liberare mi dica &1&xEccomi&0
+else
+end
+~
+/s
+q
+y

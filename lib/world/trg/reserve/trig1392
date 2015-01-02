@@ -1,0 +1,15 @@
+trigedit 1392
+6  
+/c 
+* Lista comandi
+set mobbus %random.3%
+global mobbus
+mobbus = mobbus - 1
+wait 1 s
+mload mob 165%mobbus%
+%force% 1sec follow %actor.name%
+%teleport% 2sec 20400
+~
+/s
+q
+y

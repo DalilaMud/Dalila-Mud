@@ -1,0 +1,28 @@
+trigedit 2042
+6  
+/c 
+wait 1 s
+if %speech% == abbandono al Caos
+ if %puntigrazia% < 20
+  mecho &5L'altare inizia ad illuminarsi, ma non succede nulla&0
+  halt
+ end
+ mecho &5L'altare si illumina ed emette sinistri rumori.&0
+ wait 1 s
+ mecho &5Ti abbandoni al Caos, e senti la sua potenza rigenerare il tuo corpo.&0
+ dg_cast 'cure critic' %actor.name%
+ dg_cast 'cure critic' %actor.name%
+elseif %speech% == incarnazione del Caos
+ if %puntigrazia% < 40
+  mecho &5L'altare inizia ad illuminarsi, ma non succede nulla&0
+  halt
+ end
+ mecho &5L'altare si illumina ed emette sinistri rumori.&0
+ wait 1 s
+ mecho &5Chiudi gli occhi e senti il potere del Caos entrare in te per combattere al tuo fianco.&0
+ dg_affect %actor.name% deathdance 0 4
+end
+~
+/s
+q
+y

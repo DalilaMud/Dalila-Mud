@@ -1,0 +1,19 @@
+trigedit 2576
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &2Il pupazzetto si alza sulle zampe posteriori...&0
+wait 1 s
+oecho &2Il pupazzetto ruggisce... se fosse un po' piu' grande potrebbe far paura!&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &2Il pupazzetto&0 &5dice, 'Sembra che %actor.name% indossi mutandine rosa. Combatte come una donnicciola!'&0
+else
+oecho &2Il pupazzetto &0&5dice, 'Sembra che %actor.name% indossi mutandine rosa. Combatte come una donnicciola!'&0
+end
+~
+/s
+q
+y

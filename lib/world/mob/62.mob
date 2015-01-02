@@ -1,0 +1,221 @@
+#6200
+cervo~
+un cervo~
+Un cervo ti osserva terrorizzato.
+~
+E' veramente un bel cervo!
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+8 15 7 1d1+70 1d10+1
+6 8500
+8 8 0
+E
+#6201
+coniglio~
+un coniglio~
+Un piccolo coniglio e' qui che mordicchia una foglia.
+~
+E' un piccolo roditore peloso e con grosse orecchie.
+~
+~
+~
+~
+136 0 0 -1 -1 -1 -1 -1 E
+6 16 8 1d1+50 1d8+1
+5 3000
+8 8 0
+E
+#6202
+scoiattolo~
+uno scoiattolo~
+Uno scoiattolo ti nota e si mette a correre attorno ad un albero!
+~
+E' un piccolo scoiattolo marrone.
+~
+~
+~
+~
+136 0 0 -1 -1 -1 -1 -1 E
+7 15 7 1d1+60 1d10+2
+6 4000
+8 8 0
+E
+#6203
+cacciatore orco~
+un orco cacciatore~
+Un orco cacciatore ti guarda con gli occhi pieni d'odio.
+~
+Sembra affamato, disperato e forse un po' malato.  La sua pelle verde e'
+macchiata e sembra un po' flaccida...    
+~
+~
+~
+~
+262248 1032 0 -1 -1 -1 -1 -1 E
+15 15 6 1d1+150 2d4+3
+13 20000
+8 8 1
+E
+#6204
+orco capo~
+un capo orco~
+Un capo orco ringhia contro di te!
+~
+Indossa una corona di foglie di quercia per mostrare a tutti che lui e' il
+capo.  Impugna una clava per mostrare che e' un guerriero.  Ti chiedi se sia
+bravo in entrambe le cose.    
+~
+~
+~
+~
+6154 1024 -600 -1 -1 -1 -1 -1 E
+17 13 4 1d1+205 2d7+3
+16 32000
+8 8 1
+E
+#6205
+orco femmina~
+un orco femmina~
+Un orco femmina e' qui spaventata.
+~
+Non appena si accorge che la stai osservando, solleva le braccia lentamente,
+come se volesse dire 'Non uccidermi'.    
+~
+~
+~
+~
+72 1024 -50 -1 -1 -1 -1 -1 E
+13 14 6 1d1+140 2d5+2
+9 20000
+8 8 2
+E
+#6206
+piccola orco~
+una piccola di orco~
+Una piccola di orco e' qui che cerca disperatamente la madre.
+~
+E' cenciosa e sembra coperta dalla sporcizia.
+~
+~
+~
+~
+72 1024 50 -1 -1 -1 -1 -1 E
+12 17 6 1d1+115 1d8+3
+8 10000
+8 8 2
+E
+#6207
+orco femmina~
+un orco femmina~
+Un orco femmina incinta cerca di fuggire lontano da te.
+~
+E' troppo grossa per muoversi velocemente.  Potresti ucciderla facilmente.    
+~
+~
+~
+~
+10 1024 -50 -1 -1 -1 -1 -1 E
+14 14 5 1d1+145 2d5+2
+9 21000
+6 6 2
+E
+#6208
+orco mutante mutato~
+un orco mutante~
+Un orco mutante giace qui a terra, mezzo morto.
+~
+Il suo corpo e' devastato...  Sta morendo e niente potra' salvarlo.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+20 12 4 1d1+280 2d8+3
+12 50000
+5 5 0
+E
+#6209
+orco mutante mutato~
+un orco mutante~
+Un orco orribilmente mutato e' qui che farfuglia.
+~
+Non sembra averti notato...  Sta parlando da solo.  Il suo corpo e' composto da
+parti umane, di orco, di bestia e qualcos'altro.    
+~
+~
+~
+~
+1608 1024 -300 -1 -1 -1 -1 -1 E
+22 12 2 1d1+335 2d8+3
+17 60000
+8 8 0
+E
+#6210
+mago malvagio elstar elfo~
+Elstar~
+Un mago elfo e' qui. Sembra adirato.
+~
+Sembra avercela con te come se si chiedesse perche' hai invaso il suo dominio.
+Subito cambia espressione ed ora sembra convinto di poterti distruggere con
+facilita'.    
+~
+~
+~
+~
+280587 1032 -1000 -1 -1 -1 -1 -1 E
+25 10 1 1d1+400 2d10+5
+24 100000
+8 8 1
+Spec: 15
+E
+#6211
+elfo bambino apprendista piccolo mobquestxhyphys3~
+un piccolo elfo~
+Un piccolo elfo e' qui che pesca sulle rive del fiume.
+~
+Sembra giovane ed innocente. Ti chiedi cosa stia facendo qui.
+~
+~
+~
+~
+262248 1160 600 -1 -1 -1 -1 -1 E
+18 13 4 1d1+100 2d7+3
+15 10000
+8 8 1
+E
+#6212
+cosa mutante~
+una cosa mutante~
+Una cosa... mutante si scaglia contro di te!
+~
+Forse una volta era un orco.  Ora e' un orrore vivente che cerca di annientare
+qualsiasi cosa trovi sul suo cammino.    
+~
+~
+~
+~
+2152 1024 -800 -1 -1 -1 -1 -1 E
+22 12 2 1d1+330 2d9+3
+17 70000
+8 8 0
+E
+#6213
+cosa mutante~
+una cosa mutante~
+Una cosa... mutante cerca di afferrarti, ma non sembra riuscire ad arrivare sufficientemente vicino!
+~
+Forse una volta era un orco.  Ora e' un orrore vivente che cerca di annientare
+qualsiasi cosa trovi sul suo cammino.    
+~
+~
+~
+~
+2058 33555456 -800 -1 -1 -1 -1 -1 E
+23 11 2 1d1+330 2d10+4
+13 70000
+8 8 0
+E
+$

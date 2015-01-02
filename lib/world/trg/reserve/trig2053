@@ -1,0 +1,28 @@
+trigedit 2053
+6  
+/c 
+wait 1 s
+if %speech% == ristoro di Therion
+ if %puntigrazia% < 20
+  mecho &6&xL'altare inizia ad illuminarsi, ma non succede nulla.&0
+  halt
+ end
+ mecho &6&xL'altare emette una luce flebile ma decisa e le piante che lo circondano germogliano con vigore.&0
+ wait 1 s
+ mecho &6&xPiante ed animali d'ogni tipo ti circondano sussurrandoti parole di dolce riposo.&0
+ dg_cast 'cure critic' %actor.name%
+ dg_cast 'cure critic' %actor.name%
+elseif %speech% == illusione di Therion
+ if %puntigrazia% < 40
+  mecho &6&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+  halt
+ end
+ mecho &6&xL'altare emette una luce flebile ma decisa e le piante che lo circondano germogliano con vigore.&0
+ wait 1 s
+ mecho &6&xChiudendo gli occhi senti il potere di Therion scorrere nel tuo sangue. Riaprendoli vedi molte immagini in tutto uguali a te.&0
+ dg_affect %actor.name% mirrorimage 0 6
+end
+~
+/s
+q
+y

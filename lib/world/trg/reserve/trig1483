@@ -1,0 +1,42 @@
+trigedit 1483
+6  
+/c 
+if %direction% == south && %actor.name% == dolmant
+unset controllo
+unset ospite
+halt
+end
+if %direction% == south
+unset ospite
+halt
+end
+wait 5
+switch %actor.name%
+case dolmant
+emote scatta sull'attenti!
+wait 2 s
+say Agli ordini Maesta'!
+set controllo 1
+global controllo
+break
+default
+set ospite %actor.name%
+global ospite
+if %controllo% == 1
+wait 2 s
+say Benvenuto %actor.name%
+wait 2 s
+say Ora il vostro arrivo sara' annunciato al Re.
+mat 22232 mecho &7&x%actor.name% vuole essere ricevuto dal Re, dobbiamo ammetterlo alla Vostra presenza?&0
+else
+wait 2 s
+say Sua Maesta Re Dolmant III non e' presente al momento, siete pregato di allontanarvi.
+wait 5
+emote ti guarda con sguardo gelido... io fossi in te non la farei arrabbiare.
+end
+break
+done
+~
+/s
+q
+y

@@ -1,0 +1,20 @@
+trigedit 21010
+6  
+/c 
+   
+   if %actor.vnum% != -1
+     halt
+   end
+   set cliente %actor.name%
+   global cliente
+   wait 2 s
+   smile %actor.name%
+   wait 2 s
+   say Benvenuto all'Ostrica Aperta!
+   wait 2 s
+   say Se ha la cortesia di dirmi in quale stanza ha prenotato, la faccio accomodare immediatamente!
+   wait 2 s
+~
+/s
+q
+y

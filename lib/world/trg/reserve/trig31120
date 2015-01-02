@@ -1,0 +1,21 @@
+trigedit 31120
+6  
+/c 
+if %incazzato% != on
+set incazzato on
+global incazzato
+wait 1 s
+emo ti guarda a sua volta e stringe i denti..
+wait 3 s
+say allora.. che diavolo hai da guardare?
+else
+wait 2 s
+say evidentemente oggi non hai voglia di vivere... a te!
+wait 2 s
+kill %actor.name%
+kill all
+end
+~
+/s
+q
+y

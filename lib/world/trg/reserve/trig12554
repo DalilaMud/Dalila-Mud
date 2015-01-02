@@ -1,0 +1,48 @@
+trigedit 12554
+6  
+/c 
+if %actor.name% /= venditore
+if %speech% /= proprietario
+if %proprietario% == 0
+set %speech%
+global proprietario
+end
+end
+end
+if %stipendio% < 2
+if %actor.name% == %proprietario%
+if %speech% == dormi
+wait 5
+yawn
+wait 1 s
+sleep
+end
+if %speech% == alzati
+wait 4
+stand
+end
+if %speech% == comandi
+wait 3
+say &1 Ecco la lista: dormi, alzati, stop, seguimi, fermati, alzati
+end
+if %speech% == seguimi
+wait 4
+say Come desiderate, %Actor.name%
+wait 6
+foll %actor.name%
+end
+if %speech% == fermati
+wait 7
+foll %self%
+end
+if %speech% == stop
+stop
+wait 1
+stop
+end
+end
+end
+~
+/s
+q
+y

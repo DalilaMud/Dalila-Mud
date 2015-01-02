@@ -1,0 +1,9 @@
+trigedit 31546
+6  
+/c 
+wait 1 s
+glare %actor.name%
+~
+/s
+q
+y

@@ -1,0 +1,15 @@
+trigedit 1421
+6  
+/c 
+eval orso %random.100%
+if %orso% == 1
+wait 2 s
+mpurge poooo
+mecho &7&xIl medaglione dell'orso si frantuma!&0
+end
+wait 2 s
+emote scuote l'aria con un verso profondo e potente
+~
+/s
+q
+y

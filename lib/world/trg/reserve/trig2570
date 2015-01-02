@@ -1,0 +1,16 @@
+trigedit 2570
+6  
+/c 
+* Lista comandi
+if %direction% == east
+wait 3
+say AIUTO!!! I FREAK SI STANNO RIBELLANDO!!
+wait 3
+say SCAPPATE VIA PRIMA CHE VI PRENDANO!!
+wait 2
+emote si porta disperatamente le mani nei capelli verdi!
+end
+~
+/s
+q
+y

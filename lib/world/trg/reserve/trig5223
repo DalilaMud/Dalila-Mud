@@ -1,0 +1,12 @@
+trigedit 5223
+6  
+/c 
+if %actor.name% == Alhandir
+%echo% il campanellino emette un suono delicato
+wait 3s
+%load% mob 5294
+end
+~
+/s
+q
+y

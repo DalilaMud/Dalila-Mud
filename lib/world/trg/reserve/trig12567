@@ -1,0 +1,135 @@
+trigedit 12567
+6  
+/c 
+if %settata% != on
+set settata on
+global settata
+if %self.name% /= falegname
+set num 9
+global num
+set 1 orecchino
+global 1
+set 2 amuleto
+global 2
+set 3 bracciale
+global 3
+set 4 anello
+global 4
+set 5 armadio
+global 5
+set 6 tavolo
+global 6
+set 7 porta
+global 7
+set 8 scrivania
+global 8
+set 9 cassapanca
+global 9
+end
+if %self.name% /= fabbro
+set num 8
+global num
+set 1 armatura
+global 1
+set 2 guanti
+global 2
+set 3 gambali
+global 3
+set 4 parabraccia
+global 4
+set 5 elmo
+global 5
+set 6 cintura
+global 6
+set 7 stivali
+global 7
+set 8 scudo
+global 8
+end
+if %self.name% /= gioielliere
+set num 5
+global num
+set 1 orecchino
+global 1
+set 2 anello
+global 2
+set 3 amuleto
+global 3
+set 4 bracciale
+global 4
+set 5 pietra
+global 5
+end
+if %self.name% /= armiere
+set num 7
+global num
+set 1 spada
+global 1
+set 2 ascia
+global 2
+set 3 mazza
+global 3
+set 4 lancia
+global 4
+set 5 arco
+global 5
+set 6 freccia
+global 6
+set 7 pugnale
+global 7
+end
+if %self.name% /= pellicceria
+set num 8
+global num
+set 1 gambali
+global 1
+set 2 parabraccia
+global 2
+set 3 armatura
+global 3
+set 4 borsa
+global 4
+set 5 vestito
+global 5
+set 6 guanti
+global 6
+set 7 stivali
+global 7
+set 8 mantello
+global 8
+end
+if %self.name% /= alimentare
+set num 10
+global num
+set 1 pagnotta
+global 1
+set 2 focaccia
+global 2
+set 3 pizza
+global 3
+set 4 pane
+global 4
+set 5 carne
+global 5
+set 6 torta
+global 6
+set 7 dolce
+global 7
+set 8 verdura
+global 8
+set 9 frutta
+global 9
+set 10 pesce
+global 10
+end
+if %self.name% /= alchimista
+set num 1
+global num
+set 1 pozione
+global 1
+end
+end
+~
+/s
+q
+y

@@ -1,0 +1,68 @@
+trigedit 12621
+6  
+/c 
+mgoto 28150
+if %azione% != 0
+eval timer %timer% + 1
+global timer
+if %timer% > 13
+emote ritorna alle sue mansioni in mancanza di ulteriori ordini
+unset timer
+unset quanti
+unset prendendo
+unset stock
+unset azione
+unset carica
+end
+end
+if %vnum% != 0
+eval repop %repop% + 1
+global repop
+if %repop% > %ritmo%
+unset repop
+eval portata %1b% + %2b% + %3b% + %4b% + %5b% + %6b% + %7b% + %8b% + %9b% + %10b%
+global portata
+eval portataMax %grandezza% * 20
+global portataMax
+if %portata% < %portatamax%
+if %cambio% == 1
+eval 1b %1b% + 1
+global 1b
+elseif %cambio% == 2
+eval 2b %2b% + 1
+global 2b
+elseif %cambio% == 3
+eval 3b %3b% + 1
+global 3b
+elseif %cambio% == 4
+eval 4b %4b% + 1
+global 4b
+elseif %cambio% == 5
+eval 5b %5b% + 1
+global 5b
+elseif %cambio% == 6
+eval 6b %6b% + 1
+global 6b
+elseif %cambio% == 7
+eval 7b %7b% + 1
+global 7b
+elseif %cambio% == 8
+eval 8b %8b% + 1
+global 8b
+elseif %cambio% == 9
+eval 9b %9b% + 1
+global 9b
+elseif %cambio% == 10
+eval 10b %10b% + 1
+global 10b
+elseif %cambio% == 11
+eval 11b %11b% + 1
+global 11b
+end
+end
+end
+end
+~
+/s
+q
+y

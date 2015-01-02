@@ -1,0 +1,13 @@
+trigedit 1677
+6  
+/c 
+* Lista comandi
+msend %actor.name% &1&xNon ti hanno mai detto che e' una pessima idea uccidere i Gremlin?&0
+mechoaround %actor.name% &1&xAlla morte del Gremlin altri due ne nascono dal suo corpo!&0
+mload mob 523
+mload mob 523
+return 0
+~
+/s
+q
+y

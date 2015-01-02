@@ -1,0 +1,40 @@
+trigedit 2034
+6  
+/c 
+if %speech% == passo nel nome di Xyphys
+  if %bloccata% == 0
+    wait 1 s
+    unlock porta
+    apri porta
+    wait 5 s
+    chiudi porta
+    lock porta
+  else
+    halt
+  end
+end
+if %speech% == aprite e bloccate
+  if %actor.name% == sagat
+    wait 1 s
+    unlock porta
+    apri porta
+    wait 3 s
+    chiudi porta
+    lock porta
+    set bloccata 1
+    global bloccata
+    halt
+  end
+end
+if %speech% == sbloccate
+  if %actor.name% == sagat
+    set bloccata 0
+    global bloccata
+    halt
+  end
+end
+ 
+~
+/s
+q
+y

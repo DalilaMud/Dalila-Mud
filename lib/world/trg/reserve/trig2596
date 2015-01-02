@@ -1,0 +1,11 @@
+trigedit 2596
+6  
+/c 
+* Lista comandi
+wait 3 s
+mecho &6&xIl Roc sbatte le enormi ali generando un vento tremendo!&0
+dg_cast 'minute meteor'
+~
+/s
+q
+y

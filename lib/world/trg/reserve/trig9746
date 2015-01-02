@@ -1,0 +1,15 @@
+trigedit 9746
+6  
+/c 
+if %citta_chiusa% == 1
+if %direction% == west
+if %actor.clan% != 3
+say Spiacente amico, tu non puoi passare
+return 0
+end
+end
+end
+~
+/s
+q
+y

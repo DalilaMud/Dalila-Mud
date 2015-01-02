@@ -1,0 +1,20 @@
+trigedit 1600
+6  
+/c 
+* Lista comandi
+wait 1 s   
+%echo% Sara' un piacere lavorare per voi Messere  %victim.name%
+set padrone %victim.name%
+global padrone
+set manovale %actor.name%
+global manovale
+set oggetto %object.name%
+global oggetto
+set bersaglio %target.name%
+global bersaglio
+set argomento %arg%
+global argomento
+~
+/s
+q
+y

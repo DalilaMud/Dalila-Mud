@@ -1,0 +1,19 @@
+trigedit 6612
+6  
+/c 
+* Lista comandi
+if %actor.clan% == 6 && %actor.rank% >= 17
+   unset %libera%
+set %speech%
+global libera
+set animazione on
+global animazione
+set timer 0
+global timer
+wecho &2&xUn enorme guardiano entra nella cella &0
+wait 1 s
+wecho &2&x Un enorme guardiano dice, 'Il prigioniero da liberare mi dica &1&xEccomi&0'
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 28198
+6  
+/c 
+%echo%  ***Prova***
+%echo% Actor >>> %actor.name%  RoomIn %actor.room%
+%echo% Object %object% - %object.vnum% - %object.room%
+%echo%  Target %target%
+%echo% ARG %arg.name%
+%echo%  Arg %arg% %speech%
+~
+/s
+q
+y

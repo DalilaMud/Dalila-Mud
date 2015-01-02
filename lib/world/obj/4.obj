@@ -1,0 +1,438 @@
+#401
+sword small~
+a small sword~
+A small sword lies here.~
+Nothing.
+~
+5 4096 8193
+0 2 5 10 100 100
+3 60 10 2 0 0
+E
+inscription~
+It says: 'May this sword be a good companion.'
+~
+E
+sword small~
+The small sword seems to have an inscription of some sort inscription...
+~
+#402
+plate bronze breast~
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+~
+9 0 9
+6 0 0 0 90 90
+80 7000 100 8 0 0
+#403
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 16385
+12 201 -1 -1 10 10
+1 2001 10 0 0 0
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+
+~
+#404
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 64 16385
+12 19 -1 -1 10 10
+1 400 10 0 0 0
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#405
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 16385
+12 42 -1 -1 10 10
+4 2001 10 0 0 0
+E
+scroll recall~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#406
+bacheca sociale~
+una bacheca sociale~
+Una grande bacheca sociale e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#407
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 0 1
+24 0 0 0 10 10
+1 50 5 0 0 0
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#408
+suit mail banded~
+a glowing suit of banded mail~
+A glowing suit of banded mail lies on the ground.~
+~
+9 0 9
+7 0 0 0 100 100
+1 75000 20000 25 0 0
+A
+2 1
+#409
+mace large~
+the large mace~
+A large mace lies here.~
+~
+5 64 8193
+0 1 6 7 80 80
+10 1000 400 0 0 0
+E
+large mace~
+The mace is pretty large with a weight of 10 lbs.  The head is actually four
+purple tentacles tied together.
+~
+A
+19 2
+#410
+jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 0 9
+4 0 0 0 80 80
+40 1000 10 0 0 0
+#411
+helmet bronze~
+a bronze helmet~
+A bronze helmet is lying on the ground.~
+~
+9 0 17
+6 0 0 0 90 90
+8 3500 100 0 0 0
+#412
+leggings bronze~
+a pair of bronze leggings~
+A pair of bronze leggings is lying on the ground.~
+~
+9 0 33
+6 0 0 0 90 90
+8 3500 100 8 0 0
+#415
+david spada~
+David la spada incantata~
+David la spada incantata e' stata lasciata quà~
+~
+5 64 8193
+0 4 5 10 100 100
+5 50000 0 0 0 0
+A
+2 1
+A
+5 1
+A
+6 3
+#416
+anello~
+Anello della salute~
+L'Anello della Salute e' stato dimenticato qua'.~
+~
+9 321 3
+10 0 0 0 100 100
+2 50000 0 0 0 0
+A
+3 2
+A
+3 3
+A
+12 30
+A
+24 5
+#417
+amuleto~
+L'Amuleto di Ehlana~
+Un antico amuleto e' stato abbandonato qui.~
+~
+9 321 5
+15 0 0 0 100 100
+3 50000 0 0 0 0
+A
+1 1
+A
+2 1
+#418
+scudo~
+Scudo degli Arcieri~
+Un antico scudo e' stato dimenticato~
+~
+9 64 513
+20 0 0 0 100 100
+5 50000 0 0 0 0
+A
+13 50
+A
+14 50
+A
+17 5
+A
+23 5
+#419
+decanter~
+Decanter dell'acqua infinita~
+Un Decanter dell'acqua infinita e' stato lasciato qua'.~
+~
+17 64 1
+100000 100000 0 0 100 100
+100005 10000 0 0 0 0
+#420
+slot machine~
+Slot machine~
+Una slot machine e' qui per il tuo divertimento.~
+~
+12 65536 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+#470
+dente orco~
+un dente di orco~
+Un dente di orco.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#471
+fungo~
+un fungo~
+Un fungo.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#472
+pietra verde~
+una pietra verde~
+Una pietra verde.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#473
+pietra rossa~
+una pietra rossa~
+Una pietra rossa.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#474
+pietra nera~
+una pietra nera~
+Una pietra nera.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#475
+ramo aromatico~
+un ramo aromatico~
+Un pezzo di ramo aromatico.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#476
+osso topo~
+un osso di topo~
+Un osso di topo.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 0 0 0
+#477
+zaffiro~
+uno zaffiro~
+Uno zaffiro.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 100 0 0 0
+#478
+smeraldo~
+uno smeraldo~
+Uno smeraldo.~
+~
+12 0 1
+0 0 0 0 100 100
+0 100 100 0 0 0
+#479
+orecchino mezzaluna~
+un orecchino a mezzaluna~
+Un orecchino a forma di mezzaluna e' stato lasciato qui.~
+~
+9 4194304 32769
+10 0 0 0 100 100
+0 0 0 0 0 0
+#490
+bacheca sociale~
+una bacheca sociale di Lamorka~
+Una grande bacheca sociale e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Usa 'look at bacheca' per leggere la bacheca.
+~
+E
+board~
+If you can read this, the board is not working.
+~
+#491
+bacheca sociale~
+una bacheca sociale~
+Una grande bacheca sociale e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#492
+bacheca sociale~
+una bacheca sociale~
+Una grande bacheca sociale e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#493
+bacheca sociale~
+una bacheca sociale~
+Una grande bacheca sociale e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#494
+bacheca clan~
+una bacheca del clan~
+Una grande bacheca ad uso del clan e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look at board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#495
+bacheca clan~
+una bacheca del clan~
+Una grande bacheca ad uso del clan e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look at board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#496
+bacheca clan~
+una bacheca del clan~
+Una grande bacheca ad uso del clan e' appesa al muro.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+E
+social bulletin~
+Use 'look at board' to read the board.
+~
+E
+bacheca~
+If you can read this, the board is not working.
+~
+#497
+bacheca newbie~
+la bacheca dei Newbie~
+La bacheca dei Newbie e' qui appesa.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+#498
+bacheca~
+la bacheca dei mestieri~
+La bacheca dei mestieri e' qui appesa.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+#499
+bacheca~
+la bacheca del porto~
+La bacheca del porto e' qui appesa.~
+~
+13 0 0
+0 0 0 0 100 100
+0 0 0 0 0 0
+$~

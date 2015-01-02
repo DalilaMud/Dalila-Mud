@@ -1,0 +1,41 @@
+trigedit 2542
+6  
+/c 
+if %actor.name% != krogg
+halt
+end
+if %giustiziere% != 1
+wait 2
+msend %actor.name% &2&xPer fare giustizia... serve il Custode.&0
+halt
+end
+if %arg.vnum% != -1
+wait 2
+msend %actor.name% Non puoi fare questo....
+halt
+end
+set giustiziere 0
+global giustiziere
+mecho &2&xLa vegetazione intorno a te pare ancora piu' viva del solito...&0
+wait 2 s
+msend %actor.name% &2&xHai la sensazione che %arg% stia passando un brutto momento...&0 
+mat %arg% msend %arg% &2&xIl Custode delle Foreste nasce dalla terra innanzi a te!&0
+mat %arg% mechoaround %arg% &2&xDalla terra nasce il custode della foresta...&0
+mat %arg% mload mob 312
+wait 2 s
+mat mtxat mforce mtxat mgoto %arg%
+mat %arg% mforce mtxat mkill %arg%
+wait 10 s
+mat mtxat mforce mtxat mgoto %arg%
+mat mtxat mforce mtxat kill %arg%
+wait 10 s
+mat mtxat mforce mtxat mgoto %arg%
+mat mtxat mforce mtxat kill %arg%
+wait 20 s
+mat mtxat mecho &2&xIl Custode delle Foreste scompare...&0
+mat mtxat mforce mtxat mgoto 28150
+mat mtxat mforce mtxat say purgami
+~
+/s
+q
+y

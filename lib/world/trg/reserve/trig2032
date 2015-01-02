@@ -1,0 +1,15 @@
+trigedit 2032
+6  
+/c 
+if %give% == 1
+halt
+end
+wait 1 s
+oecho &1&xIl cuore viene divorato dalle fiamme!&0
+set give 1
+global give
+otransform 559
+~
+/s
+q
+y

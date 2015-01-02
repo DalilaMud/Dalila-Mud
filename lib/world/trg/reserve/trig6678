@@ -1,0 +1,18 @@
+trigedit 6678
+6  
+/c 
+* Lista comandi
+if %actor.name% == un gatto
+if %sentinella% == apre
+set sentinella neutra
+global sentinella
+elseif %sentinella% == neutra
+set sentinella apre
+global sentinella
+else
+end
+end
+~
+/s
+q
+y

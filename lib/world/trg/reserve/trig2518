@@ -1,0 +1,33 @@
+trigedit 2518
+6  
+/c 
+* Lista comandi
+   if %actor.level% > 20
+   wait 2 s
+   say Mi spiace %actor.name% ma voi siete davvero troppo alto per entrare qui! Potreste spaventare gli animali!
+   give %amount% coin %actor.name%
+   halt 
+   end
+   if %actor.level% < 10
+   wait 2 s
+   say mi spiace %actor.name%, ma voi siete troppo piccino! Le belve feroci potrebbero divorarvi!
+   wait 2 s
+   give %amount% coin %actor.name%
+   halt
+   end
+   wait 2 s
+   eval diff %amount%-10
+   if %diff% > 0
+   wait 2 s
+   say Mi avete dato troppi soldi! Eccovi il resto!
+   give %diff% coin %actor.name%
+   end
+   say Molto bene %actor.name%, vi auguro di divertirvi nel nostro Circo!
+   wait 2 s
+   mechoaround %actor.name% L'omino apre la tenda e conduce %actor.name% all'interno
+   msend %actor.name% L'omino apre la tenda e ti conduce all'interno
+   mteleport %actor.name% 8801
+~
+/s
+q
+y

@@ -1,0 +1,52 @@
+trigedit 5210
+6  
+/c 
+eval caso %random.30%
+if (%self.worn_by%)
+if %caso% > 9
+%echo% La pietra lunare pulsa, ma non accade nulla
+end
+if %caso% == 9
+%send% %self.worn_by% &GLa pietra lunare pulsa, &Euna luce violacea ti avvolge&0
+dg_cast 'time distortion' %self.worn_by%
+end
+if %caso% == 1
+%send% %self.worn_by% &GLa pietra lunare pulsa, &guna luce marrone ti avvolge&0
+dg_cast 'sense life' %self.worn_by%
+end
+if %caso% == 2
+%send% %self.worn_by% &GLa pietra lunare pulsa, &runa luce scarlatta ti avvolge&0
+dg_cast 'paralize' %self.worn_by%
+end
+if %caso% == 3
+%send% %self.worn_by% &GLa pietra lunare pulsa, &wuna luce avorio ti avvolge&0
+dg_cast 'detect sneak' %self.worn_by%
+end
+if %caso% == 4
+%send% %self.worn_by% &GLa pietra lunare pulsa, &zuna luce nera ti avvolge&0
+dg_cast 'blindness' %self.worn_by%
+end
+if %caso% == 5
+%send% %self.worn_by% &GLa pietra lunare pulsa, &Vuna luce verde ti avvolge&0
+dg_cast 'detect invisibility' %self.worn_by%
+end
+if %caso% == 6
+%send% %self.worn_by% &GLa pietra lunare pulsa, &Runa luce rossa ti avvolge&0
+dg_cast 'silence' %self.worn_by%
+end
+if %caso% == 7
+%send% %self.worn_by% &GLa pietra lunare pulsa, &Cuna luce azzurrina ti avvolge&0
+dg_cast 'blink' %self.worn_by%
+end
+if %caso% == 8
+%send% %self.worn_by% &GLa pietra lunare pulsa, &Wuna luce bianca ti avvolge&0
+dg_cast 'sanctuary' %self.worn_by%
+end
+else
+%echo% La pietra lunare pulsa, ma non accade nulla
+halt
+end
+~
+/s
+q
+y

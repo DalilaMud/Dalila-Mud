@@ -1,0 +1,11 @@
+trigedit 5200
+6  
+/c 
+%send% %actor.name% &RAvverti una fitta alla schiena quando Jekin il Re degli Assassini ti colpisce alle spalle!&0
+%echoaround% %actor% &VJekin il Re degli Assassini pianta nella schiena un pugnale &zdalla lama nera&V di %actor%. Uno schizzo di sangue quasi ti raggiunge!&0
+%damage% %actor% 250
+mkill %actor%
+~
+/s
+q
+y

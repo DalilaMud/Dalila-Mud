@@ -1,0 +1,89 @@
+#31201
+arrotino uomo~
+l'arrotino~
+Un uomo alla guida di uno strano trabiccolo senza cavalli starnazza strane frasi!
+~
+Sembra intenzionato a rendere la tua spada mortale, ma appena ti avvicini la
+sua carretta l'ha gia' portato dall'altra parte del mondo!    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#31239
+yugoloth orrido abominio~
+lo Yugoloth~
+Un orrido abominio e' qui che divora alcune carcasse di bestie a te sconosciute
+~
+Un disgustoso incrocio tra un'irsuto orso delle caverne e qualcuna tra le piu'
+spaventose specie di rettili ha dato vita a questa specie di abominio.  Il pelo
+lungo e ispido ricopre ogni angolo del suo corpo massiccio, sovrastato da una
+testa dalle fattezze spaventose.  La lunga lingua biforcuta saetta veloce verso
+le tue gambe, cercando di scaraventarti a terra.    
+~
+~
+~
+~
+42 1056 -500 -1 -1 -1 -1 -1 E
+55 6 -8 1d1+800 1d20+20
+31 0
+8 8 0
+BareHandAttack: 2
+E
+#31252
+empatia di odio~
+Empatia di odio~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#31261
+ramingo drow passante~
+Un ramingo Drow~
+Un'esile passante vagabonda avvolto nel suo mantello
+~
+Devi fare molta fatica per riuscire a scorgere il volto di questo burbero elfo
+scuro, completamente avvolto in uno strano mantello di stoffa violacea lucida
+come argento.  Evidentemente non gradisce molto la compagnia.    
+~
+~
+~
+~
+10 263200 -30 -1 -1 -1 -1 -1 E
+35 13 -5 1d1+400 1d12+10
+0 0
+8 8 1
+E
+#31263
+kromir trogul uomo rettile~
+Kromir il Trogul~
+Uno strano uomo-rettile sibila verso di te..!
+~
+La lunga testa affusolata di questa bestia poggia su un collo squamoso che la
+creatura muove a scatti di continuo.  Il corpo ha fattezze umane anche se la
+pelle coriacea e butterata ha un colorito nerastro e dalla schiena spunta una
+lunga coda da rettile
+~
+~
+~
+~
+24603 1080 -30 -1 -1 -1 -1 -1 E
+50 6 -7 1d1+953 3d15+10
+0 30000
+8 8 1
+BareHandAttack: 4
+Spec: 14
+E
+$

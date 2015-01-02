@@ -1,0 +1,16 @@
+trigedit 1492
+6  
+/c 
+if %actor.name% != dolmant
+halt
+end
+mecho &7&xDolmant viene avvolto da un'abbagliante luce bianca e scompare!&0
+mteleport dolmant 21208
+set redolmant 0
+global redolmant
+fol self
+mforce 2.gdd fol self
+~
+/s
+q
+y

@@ -1,0 +1,61 @@
+trigedit 1695
+6  
+/c 
+* Lista comandi
+wait 1 s
+oecho &7&xNon appena posi la magica tovaglia a terra, essa si imbandisce con le piu' squisite libagioni tu potessi sognare!&0
+wait 2 s
+eval tova %random.3%
+if %tova% == 1
+oload obj 1427
+wait 1 s
+oload obj 1682
+wait 1 s
+oload obj 1683
+wait 1 s
+oload obj 1684
+wait 1 s
+oload obj 3009
+wait 1 s
+oload obj 3028
+wait 1 s
+oload obj 6613
+wait 1 s
+oload obj 6676
+elseif %tova% == 2
+oload obj 1685
+wait 1 s
+oload obj 1686
+wait 1 s
+oload obj 1691
+wait 1 s
+oload obj 1855
+wait 1 s
+oload obj 1921
+wait 1 s
+oload obj 3013
+wait 1 s
+oload obj 3310
+wait 1 s
+oload obj 6675
+elseif %tova% == 3
+oload obj 1426
+wait 1 s
+oload obj 1854
+wait 1 s
+oload obj 2506
+wait 1 s
+oload obj 3008
+wait 1 s
+oload obj 3024
+wait 1 s
+oload obj 16005
+wait 1 s
+oload obj 16018
+wait 1 s
+oload obj 8120
+end
+~
+/s
+q
+y

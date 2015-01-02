@@ -1,0 +1,202 @@
+#3500
+viverna~
+la viverna~
+Una mostruosa viverna gira lentamente proprio sopra la tua testa.
+~
+Questa immensa creatura alata sembra esser realmente minacciosa mentre gira a
+pochi centimetri sopra la tua testa, agitando le sue ali e stridendo molto
+rumorosamente.    
+~
+~
+~
+~
+65642 1032 -700 -1 -1 -1 -1 -1 E
+25 11 2 1d1+300 3d6+4
+17 0
+8 8 2
+E
+#3501
+goblin montagne~
+il goblin~
+Un goblin delle montagne sta vagando intorno, mormorando qualcosa a se stesso...
+~
+Vedi davanti a te una creatura piccola e degenere con muscoli nodosi ed una
+disgustosa pelle verde.  Non sembra il tipo di persona che vorresti invitare a
+pranzo.    
+~
+~
+~
+~
+268392 1032 -250 -1 -1 -1 -1 -1 E
+20 14 4 1d1+200 2d8+6
+16 600
+8 8 1
+E
+#3502
+goblin tenente~
+il tenente goblin~
+Un tenente goblin e' qui', sta cercando di ordinare i suoi uomini.
+~
+Il tenente goblin e' piuttosto arrabbiato, e sta cercando uno dei suoi uomini
+da picchiare, ma probabilmente tu potresti esser una valida alternativa...    
+~
+~
+~
+~
+2120 1024 -600 -1 -1 -1 -1 -1 E
+27 10 1 1d1+400 3d6+4
+21 2000
+8 8 1
+E
+#3503
+goblin capo~
+il capo goblin~
+Il capo goblin ispeziona la stanza.
+~
+Il Capo non sembra cosi' felice del fatto che tu l'abbia trovato qui.  Il Capo
+Prende la sua spada corta e si avventa addosso al tuo collo.    
+~
+~
+~
+~
+14 1152 -900 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+320 3d8+6
+24 8000
+8 8 1
+E
+#3504
+ragazzino~
+un ragazzino~
+Un ragazzino siede qui, leccandosi le ferite.
+~
+Questo povero ragazzo ha molti tagli ed abrasioni, ma sembra star bene.  E',
+apparentemente, l'unico sopravvissuto all'imboscata.    
+~
+~
+~
+~
+138 0 500 -1 -1 -1 -1 -1 E
+22 12 3 1d1+250 2d8+4
+13 600
+5 5 1
+E
+#3505
+locandiere~
+il locandiere~
+Il locandiere e' qui che pulisce dei bicchieri.
+~
+Il locandiere spende molto del suo tempo aspettando clienti, mentre le notti
+trascorrono controllando che nessun goblin si avvicini.  La sua locanda non e'
+piu' il luogo felice che era in passato.    
+~
+~
+~
+~
+18442 160 400 -1 -1 -1 -1 -1 E
+36 8 -3 1d1+300 3d8+7
+31 7000
+8 8 1
+E
+#3506
+bardo~
+il bardo~
+Un bardo triste e' qui, sta bevendo per dimenticare.
+~
+Puoi sentire l'odore dell'alcol provenire dal suo alito sin dall'altra parte
+della stanza.  Questo povero bardo e' stato seduto qui per un bel po' di tempo,
+ubriacandosi per dimenticare.    
+~
+~
+~
+~
+10 4104 600 -1 -1 -1 -1 -1 E
+33 8 -2 1d1+500 2d12+6
+29 3750
+6 6 1
+E
+#3507
+cavallerizzo oscuro~
+l'oscuro cavallerizzo~
+Un oscuro cavallerizzo e' qui, sta montando la sua nera cavalcatura.
+~
+Quest'uomo e' sicuramente un fuorilegge, e non si fara' scrupoli nel tagliarti
+a pezzettini.    
+~
+~
+~
+~
+4168 294912 -900 -1 -1 -1 -1 -1 E
+30 10 0 1d1+400 2d12+6
+17 4000
+8 8 1
+E
+#3508
+mercenaria~
+una mercenaria~
+Una mercenaria e' qui che beve un goccio di troppo.
+~
+   Sembra sappia il fatto suo.    
+~
+~
+~
+~
+114698 16785408 -500 -1 -1 -1 -1 -1 E
+37 8 -3 1d1+570 3d8+7
+24 0
+8 8 2
+E
+#3509
+netturbino~
+il netturbino~
+Il netturbino e' qui che divide i rifiuti.
+~
+   E' sporco e puzza.  Sembra molto scocciato di vedere altra immondizia....  
+
+~
+~
+~
+~
+155658 2048 100 -1 -1 -1 -1 -1 E
+41 7 -4 1d1+615 3d9+7
+25 0
+8 8 1
+E
+#3510
+folletto bombarolo~
+Un &RF&Go&Cl&Vl&We&Rt&Gt&CO &RBOMBAROLO&d~
+Uno strano folletto con un ghigno malefico salta e rimbalza qui attorno
+~
+Non sai davvero che pensare!  Questo deve essere uno di quei folletti pazzi di cui parla la leggenda!  
+~
+~
+~
+~
+17716740268 8388672 -1000 -1 -1 -1 -1 -1 E
+15 15 0 1d1+200 5d5+5
+0 0
+8 8 1
+Str: 14
+Dex: 25
+E
+#3599
+maestoso corvo btljuc~
+&1Beetlejuice&0, il corvo di Cabal&0~
+Un maestoso Corvo nero svolazza qui intorno.
+~
+Guardando questo corvo, ti rendi conto che ha qualcosa di particolare... le
+sue piume lucenti, e il suo aspetto maestoso ti fanno notare che e' la prima
+volta che ne vedi uno cosi'.
+Anche lui ti fissa negli occhi, non puoi fare a meno di notare la profondita' 
+del suo sguardo.
+~
+~
+~
+~
+2199560249370 270794816 -200 -1 -1 -1 -1 -1 E
+40 0 -10 1d1+300 3d12+10
+27 0
+8 8 1
+BareHandAttack: 8
+Dex: 25
+E
+$

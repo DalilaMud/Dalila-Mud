@@ -1,0 +1,1404 @@
+#1600
+venditore offarvendor~
+un venditore di manovali~
+Un venditore di manovali sta istruendo giovani apprendisti.
+~
+   Il viso, segnato dagli anni e dalle fatiche di una dura gioventu', fa'
+apparire quest'uomo piu' rude di quanto in realta' sia.  Svolge semplicemente
+il proprio lavoro : addestrare nuovi e utilissimi manovali.
+~
+~
+~
+~
+36028807286874122 1032 0 -1 -1 -1 -1 -1 E
+50 20 0 1d1+30000 1d1+0
+48 0
+8 8 1
+E
+T 1600
+T 1601
+T 1610
+T 1602
+#1601
+manovale pigro offarmanovale~
+un manovale pigro~
+Un manovale pigro e' qui.
+~
+   I lineamenti distesi del volto indicano che questo manovale e' molto
+riposato, anche troppo!!  Che dorma invece di lavorare?!?!
+~
+~
+~
+~
+36028824466743306 2098184 0 -1 -1 -1 -1 -1 E
+10 20 10 1d1+200 1d1+0
+9 0
+8 8 1
+E
+T 1630
+T 1610
+T 1631
+T 1600
+T 1602
+#1602
+manovale allenato offarmanovale~
+un manovale allenato~
+Un manovale allenato e' qui.
+~
+   Il fisico robusto ed atletico indicano che questo manovale ha molta voglia
+di lavorare anche se forse necessita di alcune attenzioni!    
+~
+~
+~
+~
+36028824466743306 2098184 0 -1 -1 -1 -1 -1 E
+15 20 10 1d1+300 1d1+0
+12 0
+8 8 1
+Str: 12
+Spec: 1
+E
+T 1610
+T 1630
+T 1600
+T 1602
+#1603
+manovale esperto offarmanovale~
+un manovale esperto~
+Un manovale esperto e' qui.
+~
+   Quest'uomo ha parecchi anni di esperienza ed e' sicuramente in grado di
+compiere ottimi lavori.  Per le sue capacita' merita un rispetto che spesso ai
+novizi non viene dato.    
+~
+~
+~
+~
+36028824466743306 2098184 0 -1 -1 -1 -1 -1 E
+25 20 10 1d1+450 1d1+0
+13 0
+8 8 1
+Str: 14
+E
+#1604
+manovale campione offarmanovale~
+un manovale campione~
+Un manovale campione e' qui.
+~
+   Porta tatuato sull'avambraccio una picca conficcata in una roccia.  E' il
+simbolo della classe CAMPIONE dei manovali, ossia coloro che per meriti
+eccezionali hanno guadagnato il massimo rispetto.  Quest'uomo non si fara'
+trattare come un manovale qualunque.    
+~
+~
+~
+~
+36028824466743306 2098184 0 -1 -1 -1 -1 -1 E
+40 20 10 1d1+600 1d1+0
+21 0
+8 8 1
+Str: 16
+E
+T 1610
+T 1630
+T 1600
+T 1602
+#1605
+grosso orso~
+Un grosso orso~
+Un grosso orso ti guarda minacciosamente
+~
+Questo imponente orso bruno e' probabilmente il risultato delle nere
+arti magiche dello stregone o di uno dei suoi allievi. Qualche essere
+potente e pericoloso e' stato trasformato in animale, e la sua furia
+selvaggia deve essere sopravvissuta alla metamorfosi... fa'
+attenzione!
+~
+~
+~
+~
+124938 1064 0 -1 -1 -1 -1 -1 E
+55 5 -4 1d1+1999 4d18+12
+38 0
+8 8 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+Dex: 14
+Int: 5
+Wis: 6
+Con: 18
+Cha: 18
+Spec: 16
+E
+#1606
+spettro fantasma~
+Lo spaventoso spettro della torre~
+Lo spaventoso spettro della torre emette terribili lamenti!
+~
+E' la creatura piu' terribile che tu abbia mai visto!
+L'immagine stessa del terrore, e di tutto cio' di malvagio che la
+Daresia ha mai visto, si muove sotto il suo mantello scuro, e i suoi
+occhi incutono un terrore tale che ben pochi riescono a reggerne lo
+sguardo.
+Sei tentato di cercare riparo, ma non sai perche'!
+~
+~
+~
+~
+253978 131200 -1000 -1 -1 -1 -1 -1 E
+100 -10 -10 1d1+19999 10d50+50
+76 0
+8 8 0
+E
+T 31396
+#1607
+rana ranocchia~
+Una piccola ranocchia~
+Una ranocchia guarda stupefatta gli effetti di luce...
+~
+I suoi grossi occhioni meravigliati mirano gli strani effetti che si
+vedono sul soffitto. Che buffa!
+~
+~
+~
+~
+24 0 0 -1 -1 -1 -1 -1 E
+10 17 -10 1d1+49 2d9+0
+10 0
+8 8 2
+BareHandAttack: 5
+E
+#1608
+stupido imp viola~
+Uno stupido imp viola~
+Uno stupido imp viola sta saltellando qua e la'.
+~
+Questo stupido piccolo demone ti guarda con uno sguardo vacuo...
+E' piuttosto grosso per un essere della sua specie, supera abbastanza
+abbondantemente la meta' della tua statura, ed e' piuttosto ben
+piazzato sulle sue tozze gambe.
+Non puo' piu' volare, poiche' col tempo e l'inutilizzo le sue ali sono
+ormai solo delle inutili e piccole escrescenze sulla sua schiena, ma
+forse e' bene non contraddire le poche semplici cose che il suo
+cervello riesce ad elaborare!
+~
+~
+~
+~
+253978 274886296680 300 -1 -1 -1 -1 -1 E
+50 5 -9 1d1+1999 6d15+20
+41 0
+8 8 1
+Str: 18
+StrAdd: 50
+Dex: 18
+Int: 3
+Wis: 9
+Con: 14
+Cha: 7
+E
+T 31397
+#1609
+arcimago stregone~
+Lo stregone delle vesti nere~
+Il possente stregone delle vesti nere ti guarda e sorride.
+~
+Le sue vesti sono interamente nere, e il suo cappello ricorda
+vagamente quello di una strega.
+Il suo volto, in dissonanza con il suo abbigliamento, e' bonario e
+sorridente, ma velato da una pesante preoccupazione.
+~
+~
+~
+~
+11 67108992 200 -1 -1 -1 -1 -1 E
+80 -30 -10 1d1+50 10d20+15
+73 0
+8 8 0
+Spec: 15
+E
+#1610
+manovale affamato offarmanovale~
+un manovale affamato~
+Un manovale affamato sta aspettando la sua pagnotta.
+~
+   Ti guarda con impazienza aspettando che tu gli dia da mangiare una PAGNOTTA!
+~
+~
+~
+~
+36028807286874122 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+50 1d1+0
+1 0
+8 8 1
+E
+#1611
+adepto vesti nere~
+Un adepto delle vesti nere~
+Un adepto delle vesti nere sta portando altrove una boccetta.
+~
+Questo giovane mago ha il volto sfregiato da numerose cicatrici e dai
+segni di vecchie ustioni, e capisci che e' dedito alle arti magiche da
+tempo.
+~
+~
+~
+~
+188425 402653224 -500 -1 -1 -1 -1 -1 E
+50 6 -3 1d1+699 6d14+10
+29 0
+8 8 1
+Spec: 15
+E
+#1612
+piccolo cane~
+Un piccolo cane~
+Un piccolo cane guaisce per le ustioni subite tra le fiamme...
+~
+Com'e' tenero! Le sue ferite sul retro delle gambe e sulla coda ti
+muovono a compassione, ma forse avrebbe potuto evitare tutto cio' con
+un po' piu' d'attenzione. Improvvisamente si gira, ti guarda,
+digrigna i denti e se ne va...
+~
+~
+~
+~
+65560 1064 -150 -1 -1 -1 -1 -1 E
+35 11 5 1d1+499 4d12+5
+20 0
+8 8 1
+E
+#1613
+scimmietta azzurra scimmia~
+Una scimmietta azzurra~
+Una scimmietta azzurra corre da una parte all'altra della stanza...
+~
+Non hai mai visto una scimmia come questa!
+E' azzurra di pelo, ed ha una faccia molto buffa...
+~
+~
+~
+~
+65560 1072 300 -1 -1 -1 -1 -1 E
+15 15 7 1d1+149 4d9+3
+14 0
+8 8 1
+E
+#1614
+folletto~
+Un folletto~
+Un folletto saltella ovunque.
+~
+E' assolutamente impossibile seguirlo con lo sguardo, sfugge ad ogni
+controllo!
+~
+~
+~
+~
+24 1064 0 -1 -1 -1 -1 -1 E
+30 5 4 1d1+199 4d10+0
+19 0
+8 8 0
+E
+#1615
+pecora~
+Una pecora~
+Una mansueta pecora tenta invano di brucare il pavimento.
+~
+Guardando negli occhi questo povero essere ti accorgi di come il suo
+sguardo sia ben piu' profondo di quello che si possa pensare
+osservando l'ovino cercare di mangiare il pavimento...
+Che sia un vecchio nemico dello stregone trasformato in pecora come
+punizione?
+O forse un suo allievo disattento mutato da egli in un momento d'ira?
+~
+~
+~
+~
+8 1064 500 -1 -1 -1 -1 -1 E
+45 5 10 1d1+1999 6d15+10
+39 0
+8 8 0
+E
+#1616
+coboldo~
+Un coboldo~
+Un coboldo saltella lanciandoti sguardi torvi...
+~
+Questo piccolo essere mezzo cane ti guarda male mentre si occupa dei
+suoi affari, e gia' pensa a qualche diabolico piano...
+Poi vede e tue armi e abbassa la testa mansueto.
+~
+~
+~
+~
+26 1064 -600 -1 -1 -1 -1 -1 E
+10 8 10 1d1+399 3d10+4
+7 0
+8 8 1
+E
+#1617
+porco~
+Un porco~
+Un porco grugnisce in modo... suino!
+~
+Questo flaccido porco passa il suo tempo a dormire e insozzare la
+pavimentazione di questo piano, ma nel suo grugnire c'e' un qualcosa
+d'umano...
+Ma sono i porci che diventano uomini o gli uomini che diventano
+porci?
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+5 15 5 1d1+999 2d16+0
+4 0
+8 8 1
+E
+#1618
+demone guardiano~
+Un demone guardiano~
+Un enorme demone guardiano ti guarda e ride.
+~
+Questo grosso demone e' stato posto alla guardia del portale, e puoi
+star certo che terra' fede al ruolo affidatogli!
+~
+~
+~
+~
+253994 0 -900 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+999 4d20+20
+57 0
+8 8 0
+Dex: 20
+E
+#1619
+maiale~
+Un maiale enorme~
+Un maiale enorme grugnisce minacciosamente!
+~
+La sua pelle liscia e rosa occupa gran parte di questa stanza!
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+30 10 3 1d1+399 4d15+10
+19 0
+8 8 0
+Str: 18
+Dex: 8
+Int: 3
+Wis: 9
+Con: 18
+Cha: 3
+E
+#1620
+autoquestmaster~
+l'autoquestmaster~
+L'Autoquestmaster e' qui', pronto a testare tutto il testabile.
+~
+mob in prova
+~
+~
+~
+~
+36028797557112842 0 0 -1 -1 -1 -1 -1 E
+71 20 10 1d1+30000 1d1+0
+70 0
+8 8 1
+E
+#1621
+toro~
+un toro~
+Un possente toro e' fermo qui.
+~
+Lo osservi attentamente, rapita dal suo manto piu' scuro della notte, sotto cui guizzano rapidi i vigorosi muscoli.
+Le sue corna adunche ed appuntite sono bianche color avorio, e sembrano terminare con punte dorate.
+Ti affascina, eppure ti terrorizza, con quel suo inquieto muovere la zampa sinistra, alzando la polvere dal terreno.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+15 19 3 5d20+100 1d1+3
+13 0
+8 8 1
+BareHandAttack: 11
+E
+#1622
+sfinge~
+la Sfinge~
+Un Sfinge dorata e' qui accovaciata.
+~
+Un folta criniera, del capo bandiera
+leonina, dorata, dal sole baciata.
+
+Un aspetto fiero, d'impavido guerriero
+riposa ora a terra, ma pronto alla guerra.
+
+Il viso scolpito, dal vento scalfito
+ti vuol forse sfidare, ed inizi a tremare!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+40 10 -5 5d20+500 3d7+10
+29 0
+8 8 2
+BareHandAttack: 6
+E
+#1623
+ibride cervo leone~
+Un cervoleone~
+Uno spaventoso ibride tra un cervo e un leone ti ruggisce contro...
+~
+E' terribile!
+Non hai mai visto un animale del genere, con il corpo di un cervo e
+la testa di un leone! Ora che ci fai caso anche i suoi artigli
+anteriori sono della fiera bestia, e faresti bene a non sfidarli...
+ne' quegli zoccoli sembrano particolarmente morbidi!
+~
+~
+~
+~
+139288 0 -100 -1 -1 -1 -1 -1 E
+60 4 -6 1d1+1199 3d16+8
+51 0
+8 8 0
+E
+#1624
+leopardo~
+Un leopardo~
+Un agile leopardo cammina circospetto
+~
+Il suo regale pelo oscilla lievemente ad ogni passo, e i suoi occhi
+profondi ti osservano intensamente. Non c'e' che dire, e' un vero re
+tra gli animali, ma non per questo rifiuterebbe di malridurti con i
+suoi artigli, se tu lo provocassi...
+~
+~
+~
+~
+172056 0 200 -1 -1 -1 -1 -1 E
+50 4 -8 1d1+899 4d16+7
+49 0
+8 8 1
+E
+#1625
+scimpanze~
+Uno scimpanze'~
+Uno scimpanze' ti osserva tristemente
+~
+I suoi occhi sono intelligenti quanto tristi, e la prigionia lo sta
+logorando. Si muove stancamente da una nicchia all'altra, senza
+trovare alcun tipo di conforto ovunque vada.
+E' terribilmente oppresso, ma conserva ancora in se' lo spirito
+del bosco selvaggio, reso piu' tremendo dalla rabbia nascosta...
+Non lo irritare!
+~
+~
+~
+~
+106505 0 400 -1 -1 -1 -1 -1 E
+60 6 -4 1d1+1299 6d12+12
+41 0
+8 8 1
+Str: 18
+Con: 18
+Spec: 16
+E
+#1626
+iena~
+Una iena ridens~
+Una iena ride della prigionia altrui
+~
+A guardarla non sembrerebbe minimamente preoccupata dal suo stato di
+prigionia, poiche' gode stoltamente della sventura altrui.
+Cieca nella sua arroganza non riesce a vedere quanto la sua posizione
+non sia migliore di quella dei compagni, anzi, di come sia peggiorata
+dal suo atteggiamento, utile ai carcerieri.
+~
+~
+~
+~
+8 0 -500 -1 -1 -1 -1 -1 E
+35 5 -2 1d1+399 3d10+7
+31 0
+8 8 1
+E
+#1627
+mago caos~
+Un mago del caos~
+Un mago del caos e' concentratissimo sul portale
+~
+E' costantemente sotto sforzo per mantere il portale aperto, ma non
+accenna al minimo segno di stanchezza o tentativo di evasione,
+sebbene al momento per lui il portale rappresenti solo un pericolo.
+~
+~
+~
+~
+41003 268435456 -500 -1 -1 -1 -1 -1 E
+60 5 2 1d1+999 4d10+8
+48 0
+8 8 1
+Spec: 15
+E
+#1628
+armatura vivente animata~
+Un'armatura animata~
+Un'armatura animata e' stata posta a guardia di questo luogo
+~
+Questa brutta armatura oscilla qua e la' senza una linea precisa, ma
+se di una cosa puoi essere certo e' che non ti fara' passare.
+~
+~
+~
+~
+172090 0 -200 -1 -1 -1 -1 -1 E
+65 2 -10 1d1+1199 2d12+30
+47 0
+8 8 0
+E
+#1629
+orchetto~
+Un orchetto~
+Un orchetto ti guarda pieno d'odio
+~
+L'espressione sul suo volto e' carica d'un immotivato odio, ma sai
+che questi esseri nascano esclusivamente per odiare, e di certo
+questi demoni incentivano il loro odio a loro favore.
+~
+~
+~
+~
+40 0 -700 -1 -1 -1 -1 -1 E
+55 5 -5 1d1+1199 4d13+5
+44 0
+8 8 1
+E
+#1630
+orchetto armato~
+Un orchetto armato~
+Un orchetto armato riposa noncurante
+~
+Questo orchetto e' stato reclutato per la difesa dei Grandi Demoni,
+ma preferisce una brandina alle armi. Tuttavia e' stato creato come
+uno dei migliori tra i suoi, e la grossa spada che stringe anche nel
+sonno non e' di ottimo presagio
+~
+~
+~
+~
+42 0 -500 -1 -1 -1 -1 -1 E
+55 2 -6 1d1+1399 3d12+15
+51 0
+5 5 1
+E
+#1631
+scheletro~
+Uno scheletro~
+Uno scheletro agita la sua grossa falce al cielo
+~
+E' probabilmente la carcassa deturpata di un incauto assalitore,
+sbranato da un demone o un orchetto e costretto a servire i Grandi
+Demoni. L'ipotesi di seguire la sua stessa strada ti fa rabbrividire.
+~
+~
+~
+~
+40970 0 -200 -1 -1 -1 -1 -1 E
+55 7 -1 1d1+999 2d10+10
+40 0
+8 8 0
+E
+#1632
+demone~
+Un demone minore~
+Un demone minore ti guarda pieno d'interesse... chissa' perche'
+~
+E' una presenza quasi esclusivamente spirituale, cio' nonostante le
+sue perfide e bramose mani intimoriscono non poco. Sotto il suo elmo
+non vedi nulla, se non due punti rosso fuoco che sembrano tutto
+fuorche' occhi.
+~
+~
+~
+~
+40 0 -1000 -1 -1 -1 -1 -1 E
+55 0 -3 1d1+649 4d10+9
+51 0
+8 8 1
+E
+#1633
+guerriero caos~
+Un guerriero del caos~
+Un guerriero del caos ti corre incontro armato
+~
+E' una presenza immane, e tremendamente terribile e spaventevosa.
+Quelli che pensi essere due occhi ti fissano ardenti, e la sua grossa
+ascia difende in modo eccelso il presidio assegnatogli. Non dubiti di
+come la sua ascia possa ridurti malamente, nonostante il suo corpo
+sembri reggersi solo grazie all'opera di un mago potente.
+~
+~
+~
+~
+172074 0 -1000 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+1799 4d15+19
+54 0
+8 8 0
+E
+#1634
+cacciatore~
+Un cacciatore d'ombra~
+Un cacciatore d'ombra si nasconde per pugnalarti alle spalle
+~
+E' abilissimo a nascondersi nelle tante ombre prodotte dalle scarse
+torce che illuminano questo posto, ed e' in grado di sorprenderti
+alle spalle con un'arte meschina quanto efficace.
+~
+~
+~
+~
+41145 524290 -700 -1 -1 -1 -1 -1 E
+55 3 -5 1d1+999 2d10+11
+40 0
+8 8 0
+Str: 9
+Dex: 18
+Con: 7
+Spec: 14
+E
+#1635
+enorme orco~
+Un enorme orco~
+Un enorme orco ti guarda dall'alto in basso e ride
+~
+E' enorme! Le sue possenti braccia potrebbero schiacciarti come un
+moscerino, e di certo e' lui ad aver fatto una cosi' gran quantita'
+di cadaveri qui attorno...
+Vuoi unirti?
+~
+~
+~
+~
+237610 67108864 -1000 -1 -1 -1 -1 -1 E
+85 -5 -10 1d1+1599 5d15+20
+72 0
+8 8 1
+Str: 20
+Dex: 18
+Con: 25
+E
+#1636
+scheletro~
+Uno scheletro~
+Uno scheletro si muove in un fracasso d'ossa
+~
+Le povere ossa di questo che un tempo doveva essere un valoroso
+guerriero sono animate da una magia nera che costringe la sua anima
+raminga a sottostare al volere dei Grandi Demoni.
+~
+~
+~
+~
+172040 0 -50 -1 -1 -1 -1 -1 E
+55 8 -2 1d1+499 4d8+16
+54 0
+8 8 0
+E
+#1637
+balrog~
+Un balrog~
+Un terribile balrog esegue gli ordini del proprio padrone
+~
+Semplicemente terribile! Il suo corpo e' avvolto dalle fiamme, ma non
+sembra accorgersene e avanza verso di te con passo sicuro.
+Brandisce una lunga spada fiammeggiante, e un terrore viscerale ti
+coglie al suo incedere.
+~
+~
+~
+~
+237610 1048576 -800 -1 -1 -1 -1 -1 E
+80 -5 -10 1d1+1999 3d19+20
+65 0
+8 8 1
+E
+#1638
+accolito demone~
+Un demone accolito~
+Un demone accolito sta nutrendosi del sangue di una vergine
+~
+Il suo volto, imbrattato dal sangue della povera fanciulla, e'
+distorto in un'espressione di terribile odio per il mondo ed il
+creato.
+Si sta nutrendo degli organi di una povera vergine, risultato di
+qualche razzia sulla tua dimensione, che, ancora viva, e' condannata
+alla morte piu' dolorosa che tu abbia mai potuto immaginare.
+Capisci come la sua sofferenza serve a mantenere aperto il portale, e
+persino la memoria della ragazza non puo' che essere intaccata da
+questo.
+~
+~
+~
+~
+12298 0 -1000 -1 -1 -1 -1 -1 E
+60 0 2 1d1+799 6d10+9
+32 0
+8 8 1
+E
+#1639
+vergine ragazza fanciulla~
+Una vergine morente~
+Una fanciulla in catene e' sul punto di morte.
+~
+Il suo corpo, in origine probabilmente molto attraente, giace nudo e
+straziato su un freddo banco di pietra. E' costretta a subire tutto
+quello che di piu' terribile la tua mente potesse immaginare, e molto
+di piu'.
+Trattieni a stento un conato di vomito quando vedi il suo fegato
+schizzare via dalle deturpanti mani degli accoliti e cadere sul tuo
+piede.
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+10 20 10 1d1+9 1d1+0
+8 0
+1 1 2
+E
+#1640
+fuggiasco~
+Un fuggiasco~
+Un fuggiasco arranca verso la liberta'
+~
+Questo povero essere, di cui ormai fai fatica a discernere persino
+l'appartenenza ad una razza, e' straziato dalla prigionia e sta
+cercando la via per il ritorno a casa, ma l'elevato numero di guardie
+ti fa capire l'inutilita' del suo tentativo.
+Anche se probabilente qualsiasi morte e' meglio della prigionia
+riservata in questi luoghi...
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+10 17 10 1d1+39 2d4+0
+9 0
+8 8 1
+E
+#1641
+orco guardiano~
+Un orco guardiano~
+Un orco guardiano corre all'inseguimento dei fuggiaschi
+~
+Le sue gambe, un po' intorpidite dalla sorveglianza alle buie celle,
+stanno ora riacquistando la loro agilita' mentre l'orco corre dietro
+ai prigionieri. La lama che brandisce gia' gocciola di sangue, e non
+puoi fare a meno di pensare a come presto sara' ancora piu' sporca...
+~
+~
+~
+~
+106555 0 -900 -1 -1 -1 -1 -1 E
+60 2 -8 1d1+1099 4d12+25
+45 0
+8 8 1
+Spec: 16
+E
+#1642
+mummia roccia~
+Una mummia di roccia~
+Una mummia di roccia avanza con passo cadenzato
+~
+E' immensa e granitica, e non riesci a ipotizzare quanto possa pesare
+il suo solido corpo.
+L'unica cosa di cui puoi esser certo e' che se ti mettesse anche solo
+una piccola parte di se' sopra di te, faresti una fine che non si
+addice a un guerriero...
+~
+~
+~
+~
+237626 0 -800 -1 -1 -1 -1 -1 E
+90 -20 -10 1d1+1999 5d15+30
+58 0
+8 8 0
+Str: 18
+StrAdd: 100
+Dex: 18
+E
+#1643
+enorme pecora~
+Un'enorme pecora~
+Un'enorme pecora bela profondamente!
+~
+Vedendo quest'immensa pecora inizi a temere che possa
+incarnare la vendetta degli ovini.
+Forse e' meglio non mangiare ne' accennare ad arrosticini e
+cosciotti in sua presenza!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+75 -30 -10 1d1+15999 15d15+30
+45 0
+8 8 0
+Str: 25
+Dex: 25
+E
+#1644
+demone bianco pallido essere~
+Un essere straordinariamente pallido~
+Un umanoide basso e incredibilmente pallido ti fissa negli occhi.
+~
+La sua assoluta calma, in linea con il silenzio e l'oscurita' che lo
+circondano, e' cio' che meno ti aspettavi sulla sommita' di una
+cittadella di demoni. Dopo immensi attimi di silenzio, rotti solo dal
+tuo lento e timoroso incedere, lo vedi alzare una mano. Fiamme
+spettrali la lambiscono immediatamente, e un alone oscuro circonda le
+sue spalle ricurve.
+~
+~
+~
+~
+257563 0 -1000 -1 -1 -1 -1 -1 E
+84 -30 -10 1d1+1499 5d18+30
+51 0
+8 8 0
+Str: 21
+Dex: 24
+Spec: 15
+E
+#1645
+capo demone ammasso roccia lava~
+Il secondo capo dei demoni~
+Un ammasso di roccia e lava esce dal centro della stanza e ti assale!
+~
+Un immenso essere di roccia e lava si mostra ai tuoi occhi! Solidi
+massi ricoprono l'interno di magma e il suo corpo si muove
+continuamente al modificarsi del fluido che lo anima, mantenendo pero'
+un aspetto vagamente antropomorfe. Una sinistra luce permea tra le
+fessure che si creano e modificano continuamente con lo spostamento
+dei massi, illuminando la stanza di un rosso bagliore.
+~
+~
+~
+~
+257563 1048576 -800 -1 -1 -1 -1 -1 E
+80 -30 -10 1d1+1399 5d15+30
+68 0
+8 8 1
+Str: 25
+Dex: 25
+Spec: 16
+E
+#1646
+piccolo maiale orome mob~
+Un piccolo maiale~
+Un piccolo maiale grugnisce qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+57354 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+T 1310
+#1647
+inquisitore eleno chyrellos~
+Un inquisitore del regno di Elenia~
+Un religioso eleno ti guarda di sotto il cappuccio.
+~
+Questo monaco inquisitore veste un pesante cappuccio di lino
+e si aggira per Chyrellos con un grosso talismano religioso
+elargendo benedizioni e moniti.
+Sembra molto impegnato nella sua attivita' e quando parla lo
+fa sempre per un motivo ben preciso.
+~
+~
+~
+~
+11 0 500 -1 -1 -1 -1 -1 E
+15 0 -10 1d1+299 2d10+8
+11 1000000
+8 8 1
+Spec: 18
+E
+#1650
+gnoll 1secret~
+uno gnoll~
+Uno gnoll e' stato evocato per proteggere il suo padrone!
+~
+E' alto poco piu' di un uomo, molto peloso e dal volto tipicamente canino,
+simile a quello di una iena.  Il suo sguardo e' vuoto, e' il suo padrone che lo
+controlla mediante la sua magia.    
+~
+~
+~
+~
+10 2097152 -200 -1 -1 -1 -1 -1 E
+10 15 2 1d1+130 3d4+3
+7 0
+8 8 0
+E
+#1651
+orchetto 1secret~
+un orchetto~
+Un orchetto proteggera' il suo padrone!
+~
+Assomiglia ad un uomo basso e tarchiato, dalla pelle verdastra e con il muso da
+cinghiale.  Ha grandi muscoli e poco cervello, e probabilmente e' stato evocato
+da qualche stregone.    
+~
+~
+~
+~
+10 2097152 -200 -1 -1 -1 -1 -1 E
+10 15 2 1d1+150 1d10+5
+9 0
+8 8 0
+E
+#1652
+minotauro 1secret~
+un minotauro~
+Un minotauro dara' la vita per il suo signore!
+~
+Un uomo robusto, vestito di soli mutandoni in pelliccia, con un enorme,
+sproporzionata testa taurina.  L'aspetto grottesco non tradisce le sue
+intenzioni: difendera' il suo signore fino alla morte.    
+~
+~
+~
+~
+10 2097152 0 -1 -1 -1 -1 -1 E
+10 14 0 1d1+88 1d12+4
+6 0
+8 8 0
+E
+#1653
+drago klesk~
+Klesk il Drago dell'Ombra~
+Klesk, il Drago delle Ombre e' qui avvolto nell'oscurita'...
+~
+Un enorme drago nero, dalle scaglie dure come il diamante e
+dagli occhi neri come la notte ti fissa con il suo sguardo
+malvagio. E' pronto ad esplodere in tutta la sua furia
+distruttiva..ma una forza divina sembra trattenerlo in
+silenzio....
+~
+~
+~
+~
+4503608276281371 201326592 -1000 -1 -1 -1 -1 -1 E
+99 -30 -10 1d1+29999 20d100+50
+70 0
+8 8 1
+BareHandAttack: 4
+Str: 25
+StrAdd: 100
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Spec: 29
+E
+#1654
+drago pecora ovino Drakovin~
+Drakovin~
+Un enorme DragoPecora, ricoperto di candido e soffice vello, ti guarda con occhi saggi e profondi...
+~
+Non riesci a credere ai tuoi occhi! Quello che stai
+guardando pare essere un incrocio tra l'Antica razza dei
+Draghi ed una pecora! Questa creatura mantiene la
+maestosita' e la potenza tipica dei Draghi unendola alla
+dolcezza tipica degli ovini!
+~
+~
+~
+~
+36030996638066715 285213864 -300 -1 -1 -1 1869507099 -1 E
+99 -30 10 1d1+29999 30d100+50
+89 0
+8 8 1
+E
+#1655
+Hyperion drago caos~
+&1&xHyperion &0il Drago del &1Caos&0~
+Hyperion e' qui avvolto nelle sue tenebrose ali.
+~
+Un drago fuori dal comune, e' sicuramente il drago
+rappresentante il Caos dato il suo simbolo strano, quasi
+magico che ha scalfito sul petto...
+Le enormi zampe strusciano in terra alzando la polvere, e
+lo strisciare della coda ricoperta di scaglie rosse provoca
+suoni sinistri.
+Occhi rossi come il fuoco ti fissano mentre le pupille si
+aprono e chiudono rapidemente.
+~
+~
+~
+~
+4504708391888922 1048744 -1000 -1 -1 -1 -1 -1 E
+99 -30 -10 1d1+29999 30d100+50
+78 0
+8 8 1
+BareHandAttack: 4
+Str: 25
+StrAdd: 100
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#1656
+Llonawc drago dorato~
+Llonawc~
+Llonawc, il Drago dorato, si trova qui.
+~
+Scaglie dorate ricoprono l'imponente corpo squamato di Llonawc. Due 
+enormi ali che sembrano d'oro, fanno risaltare la stazza del vecchio
+drago. Noti subito i suoi grossi artigli bianchissimi, in contrasto
+con il colore predominante del drago.
+~
+~
+~
+~
+40532405899225114 268439680 1000 -1 -1 -1 -1 -1 E
+99 -30 -10 1d1+999 20d70+50
+63 0
+8 8 1
+Str: 25
+StrAdd: 100
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#1657
+cantante~
+Un'abile cantante~
+Una giovane cantante si sta esibendo.
+~
+Questa giovane ragazza e' una cantante davvero molto abile, e
+ripetendo il suo pezzo, riesce a far sembrare orecchiabile questa
+canzone orrenda!
+~
+~
+~
+~
+10 0 -1000 -1 -1 -1 -1 -1 E
+100 -30 10 1d1+29999 30d100+0
+94 0
+8 8 2
+E
+T 1
+#1658
+sacerdote orome semisacerdote~
+Un semisacerdote di Orome~
+Un semisacerdote di Orome e' assorto in preghiera
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#1659
+gruppo soldati ubriachi~
+Un gruppo di soldati ubriachi~
+Un gruppo di soldati ubriachi digrignano i denti in sinistre espressioni.
+~
+Un forte odore di birra proviene da questo nutrito gruppo di uomini
+armati mentre si lanciano l'un l'altro imprecazioni, sfide e occhiate
+d'intesa. Le loro armi e l'alcool nel loro corpo li rendono arroganti
+e sicuri di se', e si sfidano continuamente a dimostrare la loro
+abilita' con le armi e la crudelta' con la quale le utilizzano.
+~
+~
+~
+~
+122890 0 -500 -1 -1 -1 -1 -1 E
+20 14 4 1d1+199 2d8+2
+15 0
+8 8 1
+E
+#1660
+orco grosso vuoti~
+Un grosso orco~
+Un grosso orco ti guarda con occhi vuoti...
+~
+Le sue grosse braccia scoraggiano ogni tentativo di assalto,
+e i suoi occhi vuoti sembrano sotto l'effetto di qualche magia
+strana... o di qualche droga.
+Nonostante gli orchi non brillino per sagacia e intelligenza,
+questo sembra davvero piu' stupido degli altri, un perfetto
+servitore, potente e silenzioso.
+~
+~
+~
+~
+536870922 0 -200 -1 -1 -1 -1 -1 E
+70 -30 -10 1d1+10000 30d100+50
+38 0
+8 8 1
+E
+#1661
+cuoco indaffarato aggressivo~
+Un cuoco indaffarato~
+Un cuoco maneggia il suo coltello con maestria, e sembra pronto a lanciarlo a chiunque lo disturbi.
+~
+Le sue rapide mani affettano, sminuzzano e mischiano le cibarie piu'
+improbabili che tu abbia mai riconosciuto, cuocendole e arricchendole
+in modo unico.
+La sua frenesia sembra permeare anche le sue azioni normali, e di
+certo non ama essere disturbato mentre e' al lavoro.
+~
+~
+~
+~
+537043034 67108864 0 -1 -1 -1 -1 -1 E
+60 -10 -4 1d1+29999 5d12+10
+57 0
+8 8 1
+Dex: 18
+E
+#1662
+maestro cerimoniere~
+Il maestro cerimoniere~
+Il maestro cerimoniere e' qui, nel suo vestito di gran gala, pronto a servirti.
+~
+Il suo volto pacifico ti mostra un bel sorriso mentre ti porge un
+regalo in ricordo di questa bellissima festa.
+~
+~
+~
+~
+537124954 0 300 -1 -1 -1 -1 -1 E
+60 0 3 1d1+29999 5d100+50
+43 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#1663
+cameriere~
+Un abile cameriere~
+Un giovane cameriere ti porge le piu' squisite prelibatezze.
+~
+Il suo volto, seppur giovane, tradisce un'ottima esperienza. Le sue
+mani capaci sono in grado di distribuire cibi con una velocita' e
+precisione che invidi.
+~
+~
+~
+~
+537108506 0 300 -1 -1 -1 -1 -1 E
+60 -10 1 1d1+29999 20d100+50
+39 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#1664
+bradipo guardia-bradipo~
+Un'enorme guardia-bradipo~
+Una possente guardia bradipo fara' di tutto per difendere Spini!
+~
+Dai suoi occhi traspare una luce assetata di sangue, ma la sua calma
+esteriore e' assoluta.
+Attenzione allo scatto dei bradipi!
+~
+~
+~
+~
+537116682 68157440 -200 -1 -1 -1 -1 -1 E
+68 -30 -10 1d1+29999 20d100+50
+42 0
+8 8 0
+Str: 25
+StrAdd: 100
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#1665
+Un mago di media statura~
+Un mago di media statura~
+Un mago dalla corta barba bianca ti sorride quando entri.
+~
+It looks unfinished.
+
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+60 20 10 1d1+0 1d1+0
+40 0
+8 8 1
+E
+#1666
+Moira~
+Moira~
+Moira e' qui vigile e attenta.
+~
+E' molto bella!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+0 1d1+0
+3 0
+8 8 2
+E
+#1667
+segretaria ragazza slayer~
+L'affascinante segretaria di Slayer~
+Una bellissima ragazza seduta qui sta controllando l'accesso all'ufficio del Governatore Slayer
+~
+Il suo volto e' stupendo, e i delicati lineamenti tradiscono una
+giovane eta'.
+Ha deciso di impiegare la sua vita lavorando per il Governatore
+Sendar, Slayer, e svolge i suoi impieghi con molta dedizione.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+20 20 10 1d1+299 1d1+0
+14 0
+6 6 2
+E
+#1670
+addetto fuochi d'artificio~
+L'addetto ai fuochi d'artificio~
+L'addetto ai fuochi d'artificio sta sorridendo.
+~
+Tiene in mano un grosso razzo ed e' pronto ad accenderlo.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+80 20 10 1d1+30000 30d100+0
+58 0
+8 8 1
+E
+#1671
+propugnator gaiae destriero~
+Propugnator Gaiae, destriero di Alhandir~
+Propugnator Gaiae, il lucente destriero di Alhandir, nitrisce dirimpetto alla luce solare.
+~
+Hai davanti ai tuoi occhi il bianco destriero di Alhandir, Propugnator
+Gaiae. Il candore del suo pelo e la luce che sembra emanare lo rendono
+uno spettacolo quasi sovrannaturale alla luce del giorno, e ancora
+piu' incredibile al debole bagliore lunare.
+Il suo nitrito e' la nota piu' pulita e limpida che le tue orecchie
+abbiano mai udito, e le forti gambe lo rendono un perfetto animale da
+monta.
+~
+~
+~
+~
+36028797564477450 0 800 -1 -1 -1 -1 -1 E
+43 0 -10 1d1+2999 5d30+20
+38 0
+8 8 0
+E
+#1672
+guardia chyrellos elena elenia tribunale~
+La guardia del tribunale eleno~
+Una guardia posta davanti al tribunale ti osserva attentamente.
+~
+Il suo sguardo attento scruta ogni astante pronto ad intervenire, e la
+lunga picca che stringe tra le mani ti fa immediatamente decidere di
+evitare ogni azione sospetta.
+~
+~
+~
+~
+36030997653086235 68157568 700 -1 -1 -1 -1 2 E
+75 -10 -10 1d1+9999 30d100+30
+40 0
+8 8 1
+Str: 25
+StrAdd: 100
+Dex: 25
+Spec: 3
+E
+T 1481
+#1673
+anziano pescatore~
+Un anziano pescatore~
+Un anziano pescatore e' qui seduto con in bocca una pipa..
+~
+Questo anziano pescatore di Chyrellos ha deciso di adibire questo buco
+a propria dimora, sostiene che qui nessuno viene mai e cosi' le sue
+nasse e i suoi attrezzi sono al sicuro! Forse non ha tutti i torti!
+~
+~
+~
+~
+671342618 0 1000 -1 -1 -1 -1 -1 E
+100 -10 -10 1d1+10000 30d30+0
+59 0
+8 8 1
+E
+T 1651
+#1674
+mob stupido~
+Un mob stupido~
+Un mob stupido e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+562949961809930 0 0 -1 -1 -1 -1 -1 E
+10 20 10 1d1+0 1d1+0
+59 0
+8 8 0
+E
+#1675
+viverna enorme~
+Un'enorme viverna~
+Un'enorme viverna spalanca le fauci e si prepara ad azzannarti!
+~
+I grandi denti rotti e luridi di sangue ancora gocciolante si mostrano in
+tutto il loro orrore al tuo sguardo.
+La bocca si muove con scatti decisi e laceranti sul povero corpo che sta
+sbranando, e per tua fortuna sembra che ancora ti stia ignorando
+~
+~
+~
+~
+253962 0 -800 -1 -1 -1 -1 -1 E
+50 0 -3 1d1+899 3d14+14
+26 0
+8 8 0
+E
+$

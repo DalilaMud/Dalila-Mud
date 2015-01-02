@@ -1,0 +1,16 @@
+trigedit 6704
+6  
+/c 
+wait 1 s
+if %actor.clan% == 8
+if %actor.rank% > 25
+emote scatta sull'attenti
+wait 1
+say Signore! 
+else
+end
+end
+~
+/s
+q
+y

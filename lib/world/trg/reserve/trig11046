@@ -1,0 +1,11 @@
+trigedit 11046
+6  
+/c 
+%send% %actor.name% Raffreddi lo stampo.
+%echoaround% %actor% %actor.name% raffredda lo stampo.
+eval temperatura 0
+global temperatura
+~
+/s
+q
+y

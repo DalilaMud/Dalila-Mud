@@ -1,0 +1,65 @@
+trigedit 21011
+6  
+/c 
+if %actor.name% == %cliente%
+if %speech% == Sala bianca
+wait 1 s
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21218
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+elseif %speech% == Sala blu
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21217
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+elseif %speech% == Sala marrone
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21221
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+elseif %speech% == Sala privata
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21219
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+elseif %speech% == Sala rossa
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21215
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+elseif %speech% == Sala trasparente
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21216
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+elseif %speech% == Sala verde
+emote porta %cliente% all'interno del ristorante
+mteleport %cliente% 21220
+mgoto %actor.name%
+mforce %actor.name% look
+'Eccoci! Buon proseguimento.
+mgoto 21214
+else
+end
+else
+wait 1 s
+'Spiacente non e' e' lei che sto servendo!
+end
+unset %cliente%
+~
+/s
+q
+y

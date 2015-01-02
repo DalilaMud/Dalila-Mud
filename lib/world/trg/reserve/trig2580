@@ -1,0 +1,21 @@
+trigedit 2580
+6  
+/c 
+* Lista comandi
+if %gioco% == 1
+halt
+end
+set brz 0
+global brz
+wait 2 s
+emote strabuzza gli occhi
+wait 2 s
+say Benvenuto %actor.name%!
+wait 2 s
+say Se vuoi giocare al gioco delle tre carte sono 50 monete!
+wait 2 s
+say E' evidente che vincerai bellissimi premi!
+~
+/s
+q
+y

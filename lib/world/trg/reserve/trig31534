@@ -1,0 +1,26 @@
+trigedit 31534
+6  
+/c 
+if %actor.vnum% == -1
+if %check% != 1 & %check% != 2
+wait 1 s
+wecho &1Un'abbagliante luce rossa permea il centro di questa stanza.&0
+wait 1 s
+wecho &1&xUn piccolo demone esce dalla luce e avanza a passi veloci verso di te!&0
+wload mob 1948
+set check 1
+global check
+elseif %check% == 1
+wait 1 s
+wecho &3&xLuci e fumo invadono la stanza, provi un terribile dolore agli occhi che ti impedisce di scorgere qualsiasi cosa.&0
+wload mob 1949
+wait 2 s
+wecho &1&xQuando riesci nuovamente a distinguere le forme davanti a te credi di aver perso la vista, un demone grande come la parete ti preclude ogni possibilita' di fuga!&0
+set check 2
+global check
+end
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 5213
+6  
+/c 
+%echo% &BIl musico interrompe la sua melodia, disturbato...&0
+wait 1s
+emo si volta
+wait 1s
+say Hai interrotto il musico! Bastardo!
+kill %actor%
+~
+/s
+q
+y

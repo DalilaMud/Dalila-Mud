@@ -1,0 +1,84 @@
+trigedit 12502
+6  
+/c 
+if %actor.name% /= segretario
+set %speech%
+if %speech% /= proprietario
+global proprietario
+foll %proprietario%
+end
+if %speech% /= regno
+global regno
+end
+end
+if %actor.clan% == %regno%
+if %actor.rank% > 10
+if %speech% == seguimi
+wait 2
+stand
+wait 4
+foll %actor.name%
+set lavoro off
+global lavoro
+elseif %speech% == piazzati
+wait 2
+sit
+wait 4
+foll araldo
+set lavoro on
+global lavoro
+end
+if %azione% == 0
+if %speech% == cambia manifesto
+wait 4
+say ora ditemi cosa scrivere precedendo la frase con la parola &11,2 o 3&0 a seconda della riga che si vuole aggiornare
+set azione cambio2
+global azione
+end
+if %speech% == cambia testo
+wait 4
+say Bene, ora ditemi cosa dire, precedendo la frase con la parola &1testo&0
+set azione cambio1
+global azione
+end
+elseif %azione% == cambio1
+if %speech% /= testo
+set %speech%
+global testo
+wait 6
+emote si ripete mentalmente la frase e infine sorride
+set azione 0
+global azione
+end
+elseif %azione% == cambio2
+if %speech% /= 1
+set %speech%
+global 1
+wait 4
+emote scrive rapidamete il testo su un cartellone per poi metterselo al collo
+set azione 0
+global azione
+end
+if %speech% /= 2
+set %speech%
+global 2
+wait 4
+emote scrive rapidamete il testo su un cartellone per poi metterselo al collo
+set azione 0
+global azione
+end
+if %speech% /= 3
+set %speech%
+global 3
+wait 4
+emote scrive rapidamete il testo su un cartellone per poi metterselo al collo
+set azione 0
+global azione
+end
+end
+end
+end
+~
+/s
+q
+y

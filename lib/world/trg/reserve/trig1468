@@ -1,0 +1,21 @@
+trigedit 1468
+6  
+/c 
+eval purgabuca %random.100%
+if %purgabuca% <= 85
+wait 1
+mecho &9&xAlla fuoriuscita della talpa la buca collassa richiudendosi&0
+mpurge bbbbt
+end
+eval oggetto %random.10%
+if %oggetto% == 1
+mload obj 532
+indo antic
+elseif %oggetto% == 2
+mload obj 533
+indo antic
+end
+~
+/s
+q
+y

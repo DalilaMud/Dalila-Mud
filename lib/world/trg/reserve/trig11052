@@ -1,0 +1,9 @@
+trigedit 11052
+6  
+/c 
+%send% %actor.name% &r%self.name% ti dice, 'Non mi interessa. Tienitelo.'&0
+return 0
+~
+/s
+q
+y

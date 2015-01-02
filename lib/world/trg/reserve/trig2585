@@ -1,0 +1,39 @@
+trigedit 2585
+6  
+/c 
+* Lista comandi
+if %go% == 1
+halt
+end
+if %arg.vnum% != -1
+emote si guarda in giro stranito... ma dove dovrei andare!?
+halt
+end
+wait 1 s
+set go 1
+global go
+wait 1 s
+mecho &7Il piccione prende il volo verso %arg%&0
+mgoto rfcmsn
+wait 20 s
+mat %arg% &7Vedi arrivare da lontano un piccione bianco...&0
+wait 5 s
+mgoto %arg%
+mecho &7Un piccione viaggiatore viene a posarsi accanto a te e lascia cadere qualcosa che teneva fra le zampe&0
+wait 2 s
+posa all
+wait 3 s
+mecho &7Il piccione riprende il volo&0
+mgoto rfcmsn
+wait 20 s
+mgoto %actor.name%
+mecho &7Il piccione e' tornato e viene appoggiarsi accanto a te... &0
+posa all
+wait 2 s
+mecho &7Il piccione riprende il volo...&0
+mgoto 28150
+say purgami
+~
+/s
+q
+y

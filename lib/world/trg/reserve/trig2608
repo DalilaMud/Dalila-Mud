@@ -1,0 +1,27 @@
+trigedit 2608
+6  
+/c 
+* Lista comandi
+if %actor.clan% == 9 && %actor.rank% >= 25
+wait 1 s
+mload obj 50054
+hold chiave
+wait 1 s
+say Agli ordini
+wait 1 s
+unlock cancellata
+apri cancellata
+wait 10 s
+chiudi cancellata
+lock cancellata
+wait 1 s
+rimu chiave
+emote ripone la chiave al sicuro
+mat xxxxx drop chiave
+else
+halt
+end
+~
+/s
+q
+y

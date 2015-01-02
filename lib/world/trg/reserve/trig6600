@@ -1,0 +1,25 @@
+trigedit 6600
+6  
+/c 
+* Lista comandi
+wait 2 s
+say Benone. Volete un po' di musica eh?
+wait 1 s
+smile
+wait 1 s
+say Vediamo cosa posso suonarvi.
+wait 2 s
+emote si guarda attorno pensieroso ma poi subito gli brillano gli occhi.
+eval num %random.3%
+wait 4 s
+if %num% == 1
+say Eccovi un po di musica rilassante.  !!MUSIC(bookdays.mid)
+elseif %num% == 2
+say Perfetto. Ecco per voi un sound dolce dolce. !!MUSIC(forrest.mid)
+else
+say Pronto per voi questo ritmo allegro. !!MUSIC(life.mid)
+end
+~
+/s
+q
+y

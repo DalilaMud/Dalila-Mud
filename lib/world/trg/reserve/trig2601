@@ -1,0 +1,12 @@
+trigedit 2601
+6  
+/c 
+* Lista comandi
+wait 3 s
+say Poveri idioti, ILLUSI!
+wait 1 s
+dg_cast 'heal' kaius
+~
+/s
+q
+y

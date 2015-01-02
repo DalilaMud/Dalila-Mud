@@ -1,0 +1,11 @@
+trigedit 31117
+6  
+/c 
+wait 6 s
+%echo% &7Improvvisamente mentre decidi sul da farsi senti il terreno franare sotto i tuoi piedi!!&0
+%echo% &7Precipiti con un mare di terra per qualche interminabile secondo...&0
+wteleport all 31105
+~
+/s
+q
+y

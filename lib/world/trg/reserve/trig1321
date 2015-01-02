@@ -1,0 +1,19 @@
+trigedit 1321
+6  
+/c 
+* Lista comandi
+set charmato on
+global charmato
+dg_cast 'peace' %actor.name%
+emote si getta ai tuoi piedi disperato
+wait 2 s
+segui %actor.name%
+dg_cast 'peace' %actor.name%
+wait 2 s
+say ora sei tu il mio padrone.. per sempre!
+detach mob me all
+end
+~
+/s
+q
+y

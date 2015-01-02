@@ -1,0 +1,14 @@
+trigedit 1423
+6  
+/c 
+if %pantera% == 0
+halt
+end
+set pantera 0
+global pantera
+oecho &9&xLa pantera ritorna nell'amuleto!&0
+opurge ppppp
+~
+/s
+q
+y

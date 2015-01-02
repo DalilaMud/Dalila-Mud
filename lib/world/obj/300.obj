@@ -1,0 +1,868 @@
+#30000
+corpetto borchiato~
+un corpetto borchiato~
+Un corpetto borchiato e' stato lasciato qua per terra.~
+~
+9 65536 9
+8 0 0 0 100 100
+7 0 0 48 0 0
+E
+corpetto borchiato~
+Il corpetto borchiato e' stato curato molto bene nei particolari.
+~
+A
+5 1
+#30001
+spada~
+una spada~
+Una spada giace qua tra la polvere.~
+~
+5 65536 8193
+0 4 7 12 100 100
+5 1000 0 21 0 0
+E
+spada~
+Una normalissima spada.
+~
+#30002
+cintura iridescente~
+una cintura iridescente~
+Una cintura iridescente e' qui per terra.~
+~
+9 65 2049
+2 0 0 0 100 100
+2 0 0 21 0 0
+E
+cintura iridescente~
+La cintura emana una luce che non ti permette di capirne la natura.
+~
+A
+18 1
+#30003
+frusta iridescente~
+una frusta iridescente~
+Una frusta iridescente e' stata dimenticata qua.~
+~
+5 1 8193
+0 3 6 2 100 100
+4 0 0 45 0 0
+E
+frusta iridescente~
+La frusta emana una luce che non ti permette di capirne la natura.
+~
+A
+2 1
+A
+5 -1
+#30004
+velo argentato~
+un velo argentato~
+Un velo luccicante e' stato posato qua.~
+~
+8 65536 17
+0 0 0 0 100 100
+1 100 0 53 0 0
+E
+velo argento~
+Il velo e' di ottima fattura.
+~
+A
+6 2
+#30005
+anello nuziale oro~
+un anello nuziale~
+Un anello d'oro e' stato dimenticato qua.~
+~
+8 0 3
+0 0 0 0 100 100
+1 0 0 33 0 0
+E
+anello oro nuziale~
+Sull'anello ci sono incisi i nomi Kajashan e Lemshei.~
+A
+12 10
+A
+26 2
+#30006
+ventaglio~
+un ventaglio~
+Un ventaglio inusato giace per terra.~
+~
+12 65536 16385
+0 0 0 0 100 100
+1 100 0 1 0 0
+E
+ventaglio~
+Il ventaglio e' stato ricavato con le piume di un uccello a te sconosciuto.
+~
+#30007
+spada iridescente~
+una spada iridescente~
+Una spada iridescente brilla al suolo.~
+~
+5 1 8193
+0 4 7 12 100 100
+8 0 0 39 0 0
+E
+spada iridescente~
+La spada emana una luce che non ti permette di capirne la natura.
+~
+A
+1 1
+A
+2 -1
+A
+19 -3
+#30008
+mosca morta~
+una mosca morta~
+Una mosca e' stata uccisa qua.~
+~
+19 16 16385
+1 0 0 1 100 100
+1 10 0 1 0 0
+E
+mosca~
+Che schifezza!
+~
+#30009
+bracciale iridescente~
+un bracciale iridescente~
+Un bracciale iridescente spicca in mezzo alla polvere.~
+~
+9 97 4097
+7 0 0 0 10 15
+3 0 0 19 0 0
+E
+bracciale iridescente~
+Il bracciale emana una luce che non ti permette di capirne la natura.
+~
+A
+1 -1
+A
+12 -10
+#30010
+chiave acciaio~
+una chiave in acciaio~
+Una chiave in acciaio giace in terra.~
+~
+18 65536 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+chiave acciaio~
+Una banalissima chiave d'acciaio... che ti aspettavi?
+~
+#30011
+chiave ottone~
+una chiave in ottone~
+Una chiave in ottone giace in terra.~
+~
+18 65536 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+chiave ottone~
+Una normalissima chiave d'ottone... che ti aspettavi?
+~
+#30012
+chiave rame~
+una chiave in rame~
+Una chiave in rame e' stata dimenticata qua.~
+~
+18 65536 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+chiave rame~
+La chiave non e' molto grossa, si direbbe di uno scrigno.
+~
+#30013
+chiave ferro~
+una chiave in ferro~
+Una chiave in ferro e' stata posata qua.~
+~
+18 65536 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+chiave ferro~
+La chiave non ha nessun segno particolare.~
+#30014
+pipa~
+una pipa~
+Una bella pipa e' stata posata qua.~
+~
+12 65536 524289
+0 0 0 0 100 100
+0 0 0 26 0 0
+E
+pipa~
+La pipa e' stata ricavata da una radice di quercia.
+~
+A
+6 1
+A
+13 -15
+#30015
+birra boccale~
+un boccale di birra~
+Un boccale di birra e' stato dimenticato qua da qualche ubriaco.~
+~
+17 65536 16385
+8 6 1 0 100 100
+11 0 0 1 0 0
+E
+boccale birra~
+Il boccale e' di ottima fattura.
+~
+#30016
+criniera leone~
+la criniera del leone~
+Una bellissima criniera e' stata abbandonata qua.~
+~
+9 64 2049
+3 0 0 0 100 100
+10 0 0 26 0 0
+E
+criniera leone~
+La criniera e' molto soffice e bella da accarezzare.
+~
+A
+1 1
+A
+3 -1
+A
+4 -1
+#30017
+unghia drago~
+un'unghia di drago~
+Un'unghia molto affilata e' incastrata nel terreno.~
+~
+11 96 32769
+0 0 0 0 30 30
+4 0 0 58 0 0
+E
+unghia drago~
+L'unghia appartiene sicuramente ad un drago, e' particolarmente dura e
+affilata.
+~
+A
+5 -1
+A
+18 2
+A
+19 1
+#30018
+mantello spettro~
+il mantello dello spettro~
+Una specie di ombra giace per terra.~
+~
+9 97 1025
+13 0 0 0 100 100
+5 0 0 107 0 0
+E
+mantello spettro~
+Il mantello e' fatto di qualcosa che definiresti ... nulla!
+~
+A
+1 -2
+C
+16777216 0 0 0
+#30019
+cranio idra~
+un cranio d'idra~
+Un cranio impolverato giace in un angolo.~
+~
+9 65601 17
+2 0 0 0 30 30
+12 10000 500 45 0 0
+E
+cranio idra~
+Il cranio malgrado sia molto rovinato sembra molto resistente
+~
+A
+1 2
+A
+13 -30
+A
+18 -1
+#30020
+gambali iridescenti~
+i gambali iridescenti~
+Un paio di gambali iridescenti giacciono a terra.~
+~
+12 65 33
+0 0 0 0 100 100
+10 0 0 22 0 0
+E
+gambali iridescenti~
+I gambali emanano una luce che non ti permette di capirne la natura.
+~
+A
+14 30
+#30021
+guanti esploratore neri~
+i guanti dell'esploratore~
+Un paio di guanti neri sono stati lasciati qua.~
+~
+9 16 129
+5 0 0 0 100 100
+4 0 0 24 0 0
+E
+guanti neri esploratore~
+I guanti neri sono molto soffici e caldi.
+~
+A
+14 15
+#30022
+stivali neri esploratore~
+gli stivali dell'esploratore~
+Un paio di stivali neri sono stati dimenticati in un angolo.~
+~
+12 16 65
+0 0 0 0 100 100
+5 0 0 18 0 0
+E
+stivali neri esploratore~
+Gli stivali neri sembrano molto comodi.
+~
+A
+14 25
+#30023
+oro monete montagna~
+una montagna di monete d'oro~
+Una montagna di monete d'oro brilla alla luce.~
+Un bel gruzzolo di monete d'oro fa sempre comodo.
+~
+20 0 1
+2500 0 0 0 100 100
+5 0 0 1 0 0
+#30033
+agenda libro~
+un'agenda~
+Un libro scarabocchiato giace aperto qui.~
+~
+16 64 16385
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+libro agenda~
+Il libro e' un casino unico ... non ci si capisce niente.
+~
+#30034
+penna nera~
+una penna nera~
+Una penna nera attira l'attenzione al suolo.~
+~
+21 16 16385
+0 0 0 0 100 100
+1 10 0 1 0 0
+E
+penna nera~
+E' la penna di un uccello nero!
+~
+#30035
+collana elfica~
+una collana elfica~
+Una bellissima collana e' stata persa qua.~
+~
+8 65688 5
+0 0 0 0 100 100
+5 0 0 0 0 0
+E
+collana elfica~
+Le collane di manifattura elfica sono molto apprezzate.
+~
+A
+4 -1
+#30036
+braccialetto elfico~
+un braccialetto elfico~
+Un bellissimo braccialetto e' stato perso qua.~
+~
+8 65688 4097
+0 0 0 0 100 100
+5 0 0 21 0 0
+E
+braccialetto elfico~
+I braccialetti di manifattura elfica sono molto apprezzati.
+~
+A
+4 -1
+A
+5 1
+A
+3 -1
+#30038
+scudo nero ggggg~
+uno scudo nero~
+Uno scudo nero luccicante attira la tua attenzione.~
+~
+9 0 513
+13 0 0 0 100 100
+5 0 0 107 0 0
+E
+scudo nero~
+Lo scudo nero apparteneva sicuramente a qualche nano.
+~
+C
+137438953472 0 0 0
+#30039
+ascia nera~
+un'ascia nera~
+Un'ascia nera e' piantata nel terreno.~
+~
+5 0 8193
+0 5 6 3 100 100
+8 1000 0 8 0 0
+E
+ascia nera~
+L'ascia nera apparteneva sicuramente a qualche nano.
+~
+#30040
+maniche iridescenti~
+un paio di maniche iridescenti~
+Un paio di maniche iridescenti sono state posate qua.~
+~
+9 65601 257
+5 0 0 0 100 100
+10 5000 500 18 0 0
+E
+maniche iridescenti~
+Le maniche emanano una luce che non ti permette di capirne la natura.
+~
+A
+25 3
+#30041
+pelliccia yeti bianca~
+la pelliccia dello Yeti~
+Una pelliccia bianca, particolarmente pelosa, giace al suolo.~
+~
+9 94280 9
+15 0 0 0 70 70
+20 0 0 49 0 0
+E
+pelliccia yeti~
+La pelliccia dello Yeti e' molto soffice e calda, anche se pesante.
+~
+A
+21 -3
+#30042
+mazza iridescente~
+una mazza iridescente~
+Una mazza iridescente e' stata abbandonata qua.~
+~
+5 65601 8193
+0 4 8 6 100 100
+10 5000 500 25 0 0
+E
+mazza iridescente~
+La mazza emana una luce che non ti permette di capirne la natura.
+~
+#30043
+fontana acqua~
+una fontana~
+&4Una fontana in marmo bianco gorgheggia felicemente.&0~
+~
+23 80 0
+10000 10000 15 0 100 100
+10005 0 0 1 0 0
+E
+fontana marmo bianco~
+La fontana ritrae delle lucertole danzanti che sprizzano acqua dalla bocca.
+~
+#30044
+cuscini~
+dei cuscini~
+Svariati cuscini giacciono a terra formando un soffice strato.~
+~
+12 16 0
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+cuscini strato~
+Svariati cuscini fra dimensione, colore e disegno sono ammonticchiati qua.
+~
+#30045
+scrivania ebano~
+una scrivania d'ebano~
+Un'enorme scrivania d'ebano occupa quasi tutto lo spazio.~
+~
+15 16 0
+30 15 30013 0 100 100
+30 0 0 1 0 0
+E
+scrivania ebano~
+La scrivania e' molto bella, e sembra nuova di zecca.
+~
+#30046
+scrigno legno~
+uno scrigno in legno~
+Un bellissimo scrigno in legno intarsiato e' posato qua.~
+~
+15 16 16385
+30 15 30012 0 100 100
+5 0 0 1 0 0
+E
+scrigno legno~
+Un scrigno intarsiato sembra contenere qualcosa di molto prezioso.
+~
+#30047
+statua dea~
+la statua di una dea lucertola~
+La statua di una dea lucertola domina l'ambiente con la sua enorme
+dimensione.~
+~
+12 16 0
+0 0 0 0 100 100
+100 0 0 1 0 0
+E
+statua dea~
+La statua scolpita nel marmo massiccio ti da' l'impressione di essere viva.
+~
+#30048
+zaino montagna~
+uno zaino da montagna~
+Un bellissimo zaino da montagna e' stato abbandonato in un angolo.~
+~
+15 16 65537
+300 1 -1 0 100 100
+5 5000 100 1 0 0
+E
+zaino montagna~
+E' un vero e proprio zaino da montagna, sembra particolarmente capiente!
+~
+#30049
+orecchino iridescente~
+un orecchino iridescente~
+Un orecchino iridescente e stato dimenticato in mezzo alla polvere.~
+~
+11 65 32769
+0 0 0 0 100 100
+1 0 0 8 0 0
+E
+orecchino iridescente~
+L'orecchino emana una luce che non ti permette di capirne la natura.
+~
+A
+13 5
+#30050
+maschera iridescente~
+una maschera iridescente~
+Una maschera iridescente e' stata dimenticata in mezzo alla polvere.~
+~
+9 114753 17
+9 0 0 0 100 100
+10 6000 500 107 0 0
+E
+maschera iridescente~
+La maschera emana una luce che non ti permette di capirne la natura.
+~
+A
+25 5
+C
+1024 0 0 0
+#30051
+pergamena identificazione~
+una pergamena d'identificazione~
+Una pergamena arrotolata su se stessa e' qua.~
+La pergamena, dopo aver emesso un bagliore &2&xverdastro&0, si dissolve.    
+~
+2 65552 16385
+30 65 0 0 50 100
+1 2223 0 1 0 0
+E
+pergamena identificazione~
+Istruzioni per l'uso: recitare la pergamena sull'oggetto da identificare.
+~
+#30052
+pergamena localizzazione~
+una pergamena di localizzazione~
+Una vecchia pergamena giace tra la polvere.~
+~
+2 16 16385
+50 31 0 0 100 100
+1 2000 0 1 0 0
+E
+pergamena localizzazione~
+Istruzioni per l'uso: recitare la pergamena sull'oggetto da localizzare.
+~
+#30053
+pergamena fuoco~
+una pergamena di fuoco~
+Una pergamena mezza bruciata giace a terra.~
+~
+2 16 16385
+50 26 0 0 100 100
+1 10000 1000 1 0 0
+E
+pergamena fuoco~
+Istruzioni per l'uso: recitare la pergamena sul bersaglio ... KABOOM!
+~
+#30054
+bacchetta invisibilita'~
+una bacchetta dell'invisibilita'~
+Una bacchetta trasparente si mimetizza col suolo.~
+~
+3 18 16385
+50 3 3 29 100 100
+1 1800 0 1 0 0
+E
+bacchetta invisibilita'~
+Istruzioni per l'uso: puntare la bacchetta su chi si vuole far sparire.
+~
+#30055
+bacchetta decursamento~
+una bacchetta di decursamento~
+Una bacchetta meta' bianca e meta' nera e' qui.~
+~
+3 18 16385
+35 5 5 35 100 100
+1 1400 0 1 0 0
+E
+bacchetta decursamento~
+Istruzioni per l'uso: puntare la bacchetta su chi si vuole decursare.
+~
+#30056
+moscerino~
+un moscerino~
+Un moscerino morto e' qui per terra.~
+~
+19 16 16385
+1 0 0 1 100 100
+1 10 0 1 0 0
+E
+moscerino~
+Beh che schifo!
+~
+#30057
+ape~
+un ape~
+Quello che resta di un ape e' qui per terra.~
+~
+19 16 16385
+1 0 0 1 100 100
+1 10 0 1 0 0
+E
+ape~
+Un ape morta ... e allora?
+~
+#30058
+calabrone gigante~
+un calabrone gigante~
+Il corpo di un calabrone gigante giace a terra.~
+~
+19 16 16385
+1 0 0 1 100 100
+1 10 0 1 0 0
+E
+calabrone gigante~
+Calabroni cosi' grossi non ne avevi mai visti.
+~
+#30059
+elmo borchiato~
+un elmo borchiato~
+Un elmo di cuoio ricoperto di borchie e' stato abbandonato a terra.~
+~
+9 65536 17
+4 0 0 0 100 100
+3 1500 0 22 1 0
+E
+elmo borchiettato~
+L'elmo e' stato lavorato molto bene.
+~
+A
+19 1
+A
+17 8
+#30060
+maniche borchiate~
+un paio di maniche borchiate~
+Un paio di maniche ricoperte di borchie giacciono a terra.~
+~
+9 65536 257
+7 0 0 0 100 100
+4 2000 0 63 0 0
+E
+maniche borchiate~
+Le maniche sono ricoperte di borchie dappertutto.
+~
+A
+19 2
+#30061
+guanti borchiati~
+un paio di guanti borchiati~
+Un paio di guanti pieni di borchie sono qua.~
+~
+9 65536 129
+7 0 0 0 100 100
+2 1300 0 41 0 0
+E
+guanti borchiati~
+Guardandoli bene ... non vorresti mai ricevere un pugno con questi guanti.
+~
+A
+19 1
+A
+18 -2
+#30062
+spada corta manuel~
+una spada corta~
+Una spada corta e' infilzata per terra.~
+~
+5 65536 8193
+0 1 4 1 100 100
+3 800 0 5 0 0
+E
+spada corta~
+Uno spadino molto carino.
+~
+#30063
+scacciamosche~
+uno scacciamosche~
+Uno scacciamosche e' posato qua.~
+~
+9 0 8193
+0 3 4 6 100 100
+4 3000 100 67 0 0
+E
+scacciamosche~
+Sembra che sia fatto per delle mosche ... giganti!?!
+~
+A
+2 2
+#30064
+falcetto~
+un falcetto~
+Un falcetto e' stato dimenticato qui.~
+~
+9 65536 8193
+0 2 4 1 100 100
+2 1500 0 1 0 0
+E
+falcetto~
+Una falce ... pero' piu' piccola.
+~
+#30065
+barilotto~
+un barilotto~
+Un barilotto di ottima fattura e' stato sistemato qua.~
+~
+17 65536 16385
+40 40 15 0 100 100
+45 200 0 1 0 0
+E
+barilotto~
+Il barilotto e' stato curato nei particolari.
+~
+#30066
+tisana nonna~
+la tisana della nonna~
+Una tisana fumante e' stata posata qui.~
+Calda, corroborante e con un retrogusto di mirtilli...
+~
+10 65536 16385
+25 14 16 43 100 100
+1 1500 0 1 0 0
+#30067
+pozione acquamarina~
+&6&xuna pozione acquamarina&0~
+Una &6&xpozione acquamarina&0 e' qui.~
+~
+10 65536 16385
+25 51 0 0 100 100
+1 800 0 1 0 0
+E
+pozione verde~
+La pozione non ha un colore molto invitante.
+~
+#30068
+bottiglia~
+una bottiglia~
+Una bottiglia giace a terra.~
+~
+17 0 16385
+10 10 7 10 100 100
+12 0 0 1 0 0
+E
+bottiglia~
+Una banalissima bottiglia.
+~
+#30069
+scatola manuel~
+una scatola~
+Una scatola e' stata sistemata in un angolo.~
+~
+15 0 16385
+250 0 0 0 100 100
+5 0 0 1 0 0
+E
+scatola~
+La scatola sembra un buon contenitore, bello capiente.
+~
+#30070
+lanterna~
+una lanterna~
+Una lanterna emette una flebile luce.~
+~
+1 0 16385
+0 0 150 0 100 100
+2 0 0 1 0 0
+E
+lanterna~
+Una bella lanterna in ottone.~
+#30071
+foglio carta~
+un foglio di carta~
+Un foglio e' stato lasciato qua.~
+~
+16 67108864 16385
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+foglio carta~
+Un bellissimo foglio bianco.
+~
+#30072
+quarzo luccicante~
+un quarzo luccicante~
+Un quarzo brilla di una luce molto soffice.~
+Il cristallo di quarzo e' studendo da guardare, riflette la
+tua immangine in mille sfacettature e la illumina di una
+luce che sembra provenire dal suo interno.
+~
+1 97 16385
+0 0 -1 0 100 100
+1 0 0 67 0 0
+E
+Quarzo cristallo~
+Il cristallo brilla di una luce opaca ... ma abbastanza forte da fare luce.
+~
+A
+24 -3
+C
+536870912 0 0 0
+#30073
+mazza~
+Una mazza verde~
+Una mazza di uno strano metallo verde e' qua~
+~
+5 151552 8193
+0 4 9 5 30 30
+5 1 1 26 1 1
+#30099
+maglio berserker~
+Il maglio del Berserker~
+Un enorme maglio pietroso e coperto di rune sprigiona un fortissimo potere!~
+~
+5 0 8193
+0 9 12 0 1 1
+75 0 0 104 0 0
+A
+13 -110
+A
+18 -14
+C
+549822922753 0 0 0
+$~

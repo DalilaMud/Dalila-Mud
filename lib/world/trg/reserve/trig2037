@@ -1,0 +1,76 @@
+trigedit 2037
+6  
+/c 
+if %object.vnum% == 2054
+ wait 1 s
+ emo ritrae sdegnato le mani.
+ wait 2 s
+ say Non sfidare l'ira di Xhyphys, questa mazza e' ormai rotta e inutilizzabile!
+ set missione 0
+ global missione
+ halt
+elseif %object.vnum% != 2053
+ halt
+end
+if %actor.name% != %pg%
+ wait 2 s
+ say Per Xhyphys questo e' un affronto, Egli aveva affidato la sua missione a %pg%!!!
+ set missione 0
+ global missione
+ halt
+end
+wait 2 s
+emo slancia le braccia al cielo e lascia cadere la testa sul petto.
+wait 1 s
+emo solleva la testa e annuisce con un'espressione che non sapresti se definire di felicita'.
+wait 1 s
+say Xhyphys e' molto soddisfatto di te, %pg%.
+wait 1 s
+say Ha deciso di ricompensarti.
+set missione 0
+global missione
+mat xxxxxx drop all
+if %actor.level% < 20
+ set livello 15
+elseif %actor.level% < 40
+ set livello 35
+else
+ set livello 55
+end
+eval moltip %random.10%
+eval divisore %random.10%
+eval premio %livello%*10
+eval premio %premio%*%moltip%
+eval premio %premio%/%divisore%
+global premio
+if %premio% <= 400
+ mload obj 2043
+ give fiamma %pg%
+ posa fiamma
+ wait 1 s
+ bow %pg%
+ halt
+elseif %premio% <= 800
+ mload obj 2044
+ give fiamma %pg%
+ posa fiamma
+ bow %pg%
+ halt
+elseif %premio% <= 950
+ mload obj 2045
+ give fiamma %pg%
+ posa fiamma
+ wait 1 s
+ bow %pg%
+ halt
+else
+ mload obj 2046
+ give fiamma %pg%
+ posa fiamma
+ bow %pg%
+ halt
+end
+~
+/s
+q
+y

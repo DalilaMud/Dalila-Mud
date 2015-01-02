@@ -1,0 +1,70 @@
+trigedit 1634
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1 && %actor.level% <= 70
+ wait 1 s
+ oechoaround %actor.name% &9&x%self.name% risplende al contatto con il calore della mano di %actor.name%&0
+ osend %actor.name% &9&x%self.name% risplende al contatto con il calore della tua mano!&0
+ eval casuale %random.46%
+ wait 1 s
+ if %casuale% == 1
+  oechoaround %actor.name% &7&xUn'energia senza pari percorre l'intero corpo di %actor.name%, che inizia a risplendere vivamente!&0
+  osend %actor.name% &7&xUn'energia senza pari avvolge il tuo corpo donandoti una sensazione di calore e protezione.&0
+  dg_affect %actor.name% sanct 0 3
+ elseif %casuale% >= 2 && %casuale% <= 10
+  oechoaround %actor.name% &3Non appena %actor.name% stringe l'elsa della spada una lucida barriera lo circonda.&0
+  osend %actor.name% &3Uno scudo brillante ti circonda non appena stringi l'impugnatura dell'arma!&0
+  dg_affect %actor.name% shield 0 10
+  dg_affect %actor.name% aid 0 10
+  dg_affect %actor.name% protlightn 0 10
+  dg_affect %actor.name% protfire 0 10
+  dg_affect %actor.name% antimagic 0 10
+ elseif %casuale% >= 11 && %casuale% <= 16
+  oechoaround %actor.name% &6&xIl peso di %actor.name% sembra annullarsi improvvisamente, tanto da farlo sollevare da terra nel piu' totale silenzio.&0
+  osend %actor.name% &6&xIgnorando il tuo peso inizi a galleggiare nell'aria muovendoti nel piu' totale silenzio.&0
+  dg_affect %actor.name% levitate 0 12
+  dg_affect %actor.name% sneak 0 12
+ elseif %casuale% >= 17 && %casuale% <= 24
+  oechoaround %actor.name% &4&xQuando %actor.name% impugna la spada una luce divina si apre un varco nel cielo e lo illumina.
+  osend %actor.name% &4&xUna luce divina inonda te e il tuo cammino, benedendoti.&0
+  dg_affect %actor.name% bless 0 18
+  dg_affect %actor.name% aid 0 18
+ elseif %casuale% == 25
+  oechoaround %actor.name% &2&xLa spada conferisce d'un tratto un enorme potere ad %actor.name%, e la sua immagine si duplica piu' volte!
+  osend %actor.name% &2&xLa spada vibra, nulla sembra accadere.&0
+  osend %actor.name% &2&xGuardandoti attorno noti alcune immagini riflesse di te, rimani interdetto...&0
+  dg_affect %actor.name% mirrorimage 0 1
+ elseif %casuale% == 26
+  oechoaround %actor.name% &7I muscoli della mano di %actor.name% si contraggono in una forte stretta, e lentamente si rilassano nuovamente.&0
+  osend %actor.name% &7Un formicolio pervade improvvisamente il braccio con cui stringi l'arma, risalmendo velocemente a tutto il corpo... rimani paralizzato!&0
+  dg_affect %actor.name% paralized 0 4
+ elseif %casuale% >= 27 && %casuale% <= 32
+  oechoaround %actor.name% &2Una punta aguzza fuoriesce dalla spada iniettando un temibile veleno nelle vene di %actor.name%!&0
+  osend %actor.name% &2Un dolore lancinante pervade la mano con cui stringi l'arma e ti contorci mentre un terribile veleno si diffonde nel tuo corpo!
+  dg_affect %actor.name% poison 0 18
+ elseif %casuale% >= 33 && %casuale% <= 36
+  oechoaround %actor.name% &5&xLa luce al centro della spada si intensifica in un istante avvolgendo %actor.name% attorno al volto!&0
+  osend %actor.name% &5&xUna luce senza pari ti avvolge appena tocchi la spada, non riesci a pensare a nient'altro che dormire...&0
+  oforce %actor.name% sleep
+  dg_affect %actor.name% sleep 0 3
+ elseif %casuale% >= 37 && casuale <= 42
+  oechoaround %actor.name% &1La spada si muove con una forza propria e ferisce %actor.name% alla mano!&0
+  osend %actor.name% &1Ti accorgi della volonta' propria di quest'arma quando si muove di scatto ferendoti alla mano!&0
+  %damage% %actor.name% 150
+ elseif %casuale% >= 43 && %casuale% <= 45
+  oechoaround %actor.name% &1La spada fugge dalla stretta di %actor.name% andandolo a trafiggere ad una gamba!&0
+  osend %actor.name% &1Questa maledetta spada non vuole saperne di sottomettersi a te! Sfugge dalla tua presa e trafigge la tua gamba!&0
+  oforce %actor.name% remove spada
+  %damage% %actor.name% 550
+ elseif %casuale% == 46
+  oechoaround %actor.name% &9&xUno spirito di pura luce guizza fuori dalla lama e, con un ghigno malvagio, attacca %actor.name%!&0
+  osend %actor.name% &9&xUno spirito di pura luce guizza fuori dalla lama della spada e ti attacca con dipinto un ghigno malvagio in volto!&0
+  oload mob 1415
+  oforce spiritello kill %actor.name%
+ end
+end
+~
+/s
+q
+y

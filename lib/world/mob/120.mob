@@ -1,0 +1,674 @@
+#12000
+giudice arbitro~
+l'arbitro~
+Un arbitro sta osservando con attenzione i combattimenti.
+~
+L'arbitro e' un ex gladiatore.  Numerose cicatrici sono visibili nelle parti
+scoperte del suo corpo.  Sebbene sia anziano, sembra scoppiare di salute ed
+essere in piena forma.    
+~
+~
+~
+~
+2058 128 100 -1 -1 -1 -1 -1 E
+18 11 3 1d1+160 2d7+4
+16 36000
+8 8 1
+E
+#12001
+incaricato segnare punti~
+l'incaricato di segnare i punti~
+L'incaricato di segnare i punti del combattimento tiene d'occhio la clessidra e contemporaneamente il suo taccuino.
+~
+L'incaricato di segnare i punti e' un giovane uomo di circa 25 anni.  Sembra
+molto occupato ad osservare il suo taccuino.    
+~
+~
+~
+~
+2058 0 100 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+15 55000
+8 8 1
+E
+#12003
+spettatore~
+uno spettatore~
+Uno spettatore e' qui che osserva i combattimenti.
+~
+Lo spettatore e' sporco, semi-ubriaco e sta urlando a squarciagola.    
+~
+~
+~
+~
+10 0 -100 -1 -1 -1 -1 -1 E
+13 13 5 1d1+130 2d6+3
+9 15000
+6 6 0
+E
+#12004
+nobile nobiluomo~
+un nobile~
+Un nobile e' qui che osserva tutto con aria distaccata.
+~
+Il nobile indossa abiti e gioielli preziosi ed ha un'aria molto snob.  A
+giudicare dai capelli striati di grigio e dalla barba brizzolata deve essere in
+la' con gli anni, ma non per questo e' una preda facile.    
+~
+~
+~
+~
+2186 8 500 -1 -1 -1 -1 -1 E
+15 12 4 1d1+160 2d6+3
+14 20000
+8 8 1
+E
+#12005
+schiava~
+una schiava~
+Una schiava e' qui che spera di essere liberata.
+~
+E' una giovane donna molto attraente che e' stata resa schiava quando le
+legioni romane hanno conquistato la sua terra.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+10 14 6 1d1+90 1d10+2
+10 9000
+8 8 2
+E
+#12006
+gladiatore~
+un gladiatore~
+Un gladiatore si trova qui.
+~
+E' un uomo molto muscoloso, pesantemente corazzato ed armato fino ai denti.  
+Vive per combattere.    
+~
+~
+~
+~
+4106 1024 -250 -1 -1 -1 -1 -1 E
+23 15 1 1d1+320 2d10+5
+12 80000
+8 8 1
+E
+#12007
+auriga~
+un auriga~
+Un auriga si trova qui.
+~
+Vedi un uomo molto piccolo e leggero la cui vita e' totalmente dedicata ai
+cavalli ed alle gare di velocita' con le quadrighe.    
+~
+~
+~
+~
+10 0 100 -1 -1 -1 -1 -1 E
+18 11 3 1d1+210 2d7+4
+18 36000
+8 8 1
+E
+#12008
+istruttore auriga~
+un istruttore~
+Un istruttore e' qui che spiega ai suoi ragazzi la strategia da adottare.
+~
+Mentre cerchi di guardare oltre la sua spalla e di ascoltare le sue direttive,
+l'uomo si volta verso di te e ti lancia un'occhiata raggelante.    
+~
+~
+~
+~
+2058 0 0 -1 -1 -1 -1 -1 E
+27 11 0 1d1+400 2d10+4
+18 55000
+8 8 1
+E
+#12009
+guaritore~
+un guaritore~
+Un guaritore e' qui.
+~
+Vedi un giovane uomo che ha ancora molto da imparare circa le arti magiche
+della guarigione.  L'uomo indossa una veste bianca e sta usando uno
+stetoscopio.    
+~
+~
+~
+~
+2075 8 900 -1 -1 -1 -1 -1 E
+15 12 5 1d1+160 2d6+3
+11 18000
+8 8 1
+Spec: 18
+E
+#12010
+erborista ragazza~
+l'erborista~
+Una giovane e splendida ragazza e' qui che porta delle erbe utili al guaritore.
+~
+L'erborista e' decisamente una splendida ragazza di circa 22 anni.  Ha scuri
+occhi marroni ed i capelli le arrivano alle spalle.  Il suo corpo e'
+perfettamente proporzionato ed e' alta circa un metro e sessanta.    
+~
+~
+~
+~
+2186 8 1000 -1 -1 -1 -1 -1 E
+15 12 5 1d1+160 2d7+3
+12 20000
+8 8 2
+E
+#12011
+commesso~
+il commesso di Tito~
+Il commesso di Tito e' qui che si occupa del negozio.
+~
+Il commesso e' un uomo sulla sessantina, amante della tranquillita'.  Ha una
+lunga cicatrice sul volto che parte dall'angolo della bocca per arrivare
+all'orecchio destro.  Tale cicatrice lo fa sembrare perennemente sorridente.  
+
+~
+~
+~
+~
+10250 136 750 -1 -1 -1 -1 -1 E
+50 10 1 1d1+30000 2d9+5
+43 80000
+8 8 1
+Spec: 0
+E
+#12012
+venditore ambulante~
+il venditore ambulante~
+Un venditore ambulante e' qui che cerca di raggranellare qualche spicciolo.
+~
+Vedi un uomo magro, sporco e non molto in salute.
+~
+~
+~
+~
+8394 0 250 -1 -1 -1 -1 -1 E
+11 14 8 1d1+100 1d10+2
+8 10000
+8 8 1
+Spec: 0
+E
+#12013
+fattorino~
+un fattorino~
+Un fattorino e' qui in attesa di ordini.
+~
+Vedi un ragazzo dall'aria robusta e molto veloce.
+~
+~
+~
+~
+8202 0 0 -1 -1 -1 -1 -1 E
+14 13 0 1d1+145 2d6+3
+13 18000
+8 8 1
+E
+#12014
+querelante~
+un querelante~
+Un querelante e' qui che perora il suo caso.
+~
+Sembra commovente, decisamente commovente.
+~
+~
+~
+~
+42 1024 -400 -1 -1 -1 -1 -1 E
+20 12 4 1d1+230 2d8+3
+11 30000
+8 8 1
+E
+#12015
+bigliettaio~
+il bigliettaio~
+Un bigliettaio e' qui che ti guarda.
+~
+Sembra in attesa di sapere da te se hai intenzione di acquistare un biglietto o
+levarti di torno cosi' che possa continuare a vendere biglietti alle persone
+che desiderano acquistarne.    
+~
+~
+~
+~
+2058 0 100 -1 -1 -1 -1 -1 E
+22 10 2 1d1+295 2d9+5
+22 72000
+8 8 1
+E
+#12016
+venditore ambulante~
+un venditore ambulante dell'anfiteatro~
+Un venditore ambulante dell'anfiteatro e' qui che vende hotdog e birra a prezzi maggiorati.
+~
+Questo venditore non sembra interessato ai combattimenti e sembra averne
+abbastanza degli spettatori urlanti.    
+~
+~
+~
+~
+8264 0 -150 -1 -1 -1 -1 -1 E
+15 12 6 1d1+140 2d8+3
+9 18000
+8 8 1
+Spec: 0
+E
+#12017
+cittadino~
+un cittadino~
+Un cittadino di Roma e' qui.
+~
+Sembra un normale cittadino deciso a farsi gli affari propri.
+~
+~
+~
+~
+2120 0 900 -1 -1 -1 -1 -1 E
+13 13 5 1d1+130 2d6+3
+7 10000
+8 8 1
+E
+#12018
+guardia cancelli mob12018~
+una guardia dei cancelli~
+Una guardia dei cancelli e' qui che sorveglia la porta d'accesso alla citta'.
+~
+Hai davanti a te un forte e leale difensore della quiete pubblica.
+~
+~
+~
+~
+2079 0 1000 -1 -1 -1 -1 -1 E
+30 7 -2 1d1+500 3d7+6
+19 100000
+8 8 1
+Spec: 1
+E
+#12019
+soldato~
+un soldato~
+Un soldato in licenza sta gironzolando qui attorno in cerca di svago.
+~
+Vedi un membro delle legioni dell'Imperatore.  Sembra molto forte.  Hai la vaga
+sensazione che la sua idea di svago non sia un'attivita' molto salutare.    
+~
+~
+~
+~
+2120 0 300 -1 -1 -1 -1 -1 E
+25 9 1 1d1+370 2d10+5
+13 50000
+8 8 1
+E
+#12020
+imperatore cesare augusto~
+Cesare Augusto~
+Cesare Augusto, l'Imperatore di Roma, e' seduto qui.
+~
+Vedi un uomo che indossa gli abiti piu' preziosi, mangia i cibi migliori e vive
+nel piu' opulento palazzo che Roma abbia mai visto.    
+~
+~
+~
+~
+6155 32904 -400 -1 -1 -1 -1 -1 E
+36 4 -3 1d1+400 2d10+8
+30 400000
+8 8 1
+Spec: 14
+E
+#12021
+guardia reale corpo~
+una guardia del corpo reale~
+Una guardia del corpo e' qui, pronta a morire per l'Imperatore, se necessario.
+~
+La guardia del corpo indossa una splendida armatura e impugna armi mortali.  
+E' molto forte e, se sfidata a duello, provocherebbe un inferno.  E' stata
+addestrata a sospettare di tutti, anche dei piu' innocenti visitatori e e'
+pronta a scattare alla minima offesa.    
+~
+~
+~
+~
+14379 1032 990 -1 -1 -1 -1 -1 E
+30 7 -1 1d1+400 3d7+6
+20 150000
+8 8 1
+BareHandAttack: 6
+Str: 18
+StrAdd: 90
+Spec: 16
+E
+#12022
+giudice~
+un giudice~
+Un giudice e' qui intento a leggere le carte riguardanti una qualche causa.
+~
+Sembra interessato alla causa che sta esaminando, forse non dovresti
+disturbarlo ora, se torni piu' tardi forse sara' piu' disponibile.    
+~
+~
+~
+~
+2058 0 990 -1 -1 -1 -1 -1 E
+20 11 4 1d1+250 2d8+4
+18 55000
+6 6 1
+E
+#12023
+segretario~
+un segretario~
+Un segretario e' qui che prende nota di un appuntamento su un libro.
+~
+Mentre lo osservi si volta e ti chiede 'Ha un appuntamento?  ' Aspetta alcuni
+secondi e poi aggiunge 'Desidera prenderne uno?  '.    
+~
+~
+~
+~
+2058 0 900 -1 -1 -1 -1 -1 E
+25 11 1 1d1+370 2d10+5
+18 50000
+8 8 1
+E
+#12024
+fanghiglia verde~
+una fanghiglia verde~
+Una fanghiglia verde e' qui, appesa al soffitto, che sgocciola liquido corrosivo su di te.
+~
+E' un ammasso di melma verde che sgocciola dalle pareti.
+~
+~
+~
+~
+196654 1064 -500 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+6
+16 50000
+8 8 0
+BareHandAttack: 9
+Int: 3
+E
+#12025
+froboz mago~
+Froboz~
+Froboz il mago e' qui che lavora ad un nuovo incantesimo.
+~
+Vedi un uomo di mezza eta' la cui conoscenza della magia, sia offensiva che
+difensiva, e' leggendaria.  Risplende di un'aura rosa.    
+~
+~
+~
+~
+26651 136 300 -1 -1 -1 -1 -1 E
+50 7 -2 1d1+30000 3d7+6
+40 140000
+8 8 1
+Spec: 15
+E
+#12026
+Tito Andronico~
+Tito Andronico~
+Tito Andronico e' qui che lucida alcune spade.
+~
+Non appena si accorge che lo guardi, sguaina una spada affilata e la agita
+minacciosamente verso di te.  Attento!    
+~
+~
+~
+~
+26682 136 500 -1 -1 -1 -1 -1 E
+50 7 -2 1d1+30000 3d7+6
+34 140000
+8 8 1
+BareHandAttack: 3
+E
+#12027
+senatore~
+un senatore~
+Un senatore e' qui in attesa che il dibattito cominci.
+~
+Sembra abbastanza annoiato e sta giocando con il lembo della toga.
+~
+~
+~
+~
+2058 0 350 -1 -1 -1 -1 -1 E
+22 11 3 1d1+280 2d9+4
+21 35000
+8 8 1
+E
+#12028
+usciere tribunale~
+un usciere del tribunale~
+Un usciere del tribunale e' qui che mantiene l'ordine nel tribunale.
+~
+E' un uomo molto severo ed insiste affinche' nel tribunale regni il piu'
+assoluto silenzio a meno che il giudice non abbia autorizzato qualcuno a
+parlare.    
+~
+~
+~
+~
+2090 1032 900 -1 -1 -1 -1 -1 E
+18 11 3 1d1+210 2d7+4
+16 36000
+8 8 1
+E
+#12029
+difensore~
+un difensore~
+Un difensore e' qui che perora la sua causa.
+~
+Sembra molto ben organizzato e sicuro.
+~
+~
+~
+~
+6154 0 200 -1 -1 -1 -1 -1 E
+14 13 5 1d1+145 2d6+3
+8 18000
+8 8 1
+E
+#12030
+Giove re dio~
+Giove~
+Giove, il Re degli Dei, sta vegliando sul suo reame.
+~
+E' il piu' forte degli Dei e certamente non e' un bersaglio facile!  I suoi
+poteri trascendono il piano fisico e potrebbe uccidere facilmente un mortale
+impreparato.    
+~
+~
+~
+~
+256283 33928 1000 -1 -1 -1 -1 -1 E
+36 7 -3 1d1+400 3d8+6
+34 140000
+8 8 1
+BareHandAttack: 10
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Spec: 12
+E
+#12031
+venere dea~
+Venere~
+Venere, la Dea della Bellezza e dell'Amore, si sta riposando qui.
+~
+Venere e' probabilmente una delle piu' belle donne che tu abbia mai visto se
+non la PIU' bella.  L'incantevole aspetto maschera la sua potenza e scaltrezza.
+  
+~
+~
+~
+~
+256027 33928 1000 -1 -1 -1 -1 -1 E
+33 8 -2 1d1+340 3d8+7
+21 124000
+5 5 2
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 25
+Spec: 15
+E
+#12032
+marte dio~
+Marte~
+Marte, il Dio della Guerra, e' seduto qui.
+~
+Marte e' un dio dall'aspetto imponente, dallo sguardo fiammeggiante e
+minaccioso.    
+~
+~
+~
+~
+256027 33928 1000 -1 -1 -1 -1 -1 E
+30 8 -1 1d1+300 2d12+6
+19 110000
+6 6 1
+BareHandAttack: 7
+Str: 25
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+Spec: 16
+E
+#12033
+mercurio messaggero dio~
+Mercurio~
+Mercurio, il messaggero degli Dei, e' qui.
+~
+Mercurio e' un Dio giovane e dall'aria semplice.  Un ampio sorriso illumina il
+suo volto.    
+~
+~
+~
+~
+256026 33928 1000 -1 -1 -1 -1 -1 E
+27 9 0 1d1+280 2d10+5
+16 90000
+8 8 1
+BareHandAttack: 13
+Str: 20
+Dex: 25
+Int: 20
+Wis: 20
+Con: 20
+Cha: 23
+E
+#12034
+commesso~
+il commesso di Froboz~
+Il commesso di Froboz e' qui che bada al negozio.
+~
+Il commesso e' un uomo tranquillo sulla sessantina.  Ha un'aria competente e
+sembra molto ordinato.    
+~
+~
+~
+~
+26634 136 650 -1 -1 -1 -1 -1 E
+50 10 1 1d1+30000 2d9+5
+50 80000
+8 8 1
+Spec: 0
+E
+#12035
+boia~
+il boia~
+Il boia e' qui in attesa di torturare qualche infelice.
+~
+Hai di fronte un uomo rude che indossa un cappuccio nero sulla faccia.  Ha una
+natura sadica ed ama chiaramente il suo lavoro.    
+~
+~
+~
+~
+24622 8 -1000 -1 -1 -1 -1 -1 E
+35 6 -3 1d1+540 3d9+7
+22 300000
+8 8 1
+E
+#12036
+fornaio~
+il fornaio~
+Il fornaio ti guarda con calma mentre con una mano si pulisce il volto dalla farina.
+~
+E' un uomo grasso e dall'aspetto piacevole.  Osservandolo bene ti accorgi che
+molte cicatrici solcano il suo corpo.    
+~
+~
+~
+~
+256026 8 900 -1 -1 -1 -1 -1 E
+50 7 -2 1d1+30000 3d7+6
+27 140000
+8 8 1
+Spec: 0
+E
+#12037
+droghiere~
+il droghiere~
+Il droghiere e' dietro al bancone e ti osserva con leggera impazienza.
+~
+Il droghiere e' alto e sta portando sulle spalle un pesante sacco di farina.  
+
+~
+~
+~
+~
+10250 8 900 -1 -1 -1 -1 -1 E
+50 7 -2 1d1+30000 3d7+6
+36 140000
+8 8 1
+Spec: 0
+E
+#12039
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 18 10 1d1+25 1d1+0
+1 0
+8 8 0
+E
+#12095
+mob unfinished~
+negoxianTe~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+$

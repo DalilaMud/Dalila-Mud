@@ -1,0 +1,13 @@
+trigedit 1407
+6  
+/c 
+mpurge hkyo
+wait 1 s
+mpurge cadavere
+mload mob 537
+mgoto 28150
+say purgami
+~
+/s
+q
+y

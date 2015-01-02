@@ -1,0 +1,19 @@
+trigedit 31514
+6  
+/c 
+wait 1 s
+%send% %actor.name% &2L'armatura di Goro-Ho si scompone in numerosi parti e in un turbine d'acqua si indossa sul tuo corpo..&0
+%echoaround% %actor.name% &2L'armatura di Goro-Ho si scompone in numerosi parti e in un turbine d'acqua si avvolge intorno a %actor.name%&0
+wait 1 s
+if %actor.align% < 600
+%send% %actor.name% &3La reliquia ti giudica indegno per poterla indossare e ti avvolge in una potentissima scarica elettrica!!!&0
+%echoaround% %actor.name% &3%actor.name% viene avvolto da una potentissima scarica elettrica e si accascia a terra urlando!!&0
+%damage% %actor.name% 3000
+else
+%send% %actor.name% &2La reliquia emana un luce verde smeraldo e si illumina mentre la indossi!&0
+%echoaround% %actor.name% &2%actor.name% risplende di una luce verde smeraldo&0
+end
+~
+/s
+q
+y

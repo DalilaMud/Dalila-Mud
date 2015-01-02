@@ -1,0 +1,13 @@
+trigedit 11043
+6  
+/c 
+eval stato spenta
+global stato
+eval temperatura 0
+global temperatura
+eval unita_carbone 0
+global unita_carbone
+~
+/s
+q
+y

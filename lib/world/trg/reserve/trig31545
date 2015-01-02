@@ -1,0 +1,20 @@
+trigedit 31545
+6  
+/c 
+if %caricato% != on
+if %actor.name% == Cabal
+set caricato on
+global caricato
+wait 1 s
+oecho &9&xUn enorme corvo nero scende dal cielo fino a posarsi sulla spalla di Cabal..&0
+wait 1 s
+oload mob 3599
+oforce btljuc foll cabal
+else
+end
+else
+end
+~
+/s
+q
+y

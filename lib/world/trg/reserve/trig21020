@@ -1,0 +1,14 @@
+trigedit 21020
+6  
+/c 
+if %actor.name%==Fostervold || %actor.name%==Lutz || %actor.name%==Chardhros
+    wait 1 
+    msend %actor.name% %self.name% si gira verso di te e ti accorgi che i suoi occhi sono bianchi.
+    mechoaround %actor.name% %self.name% si gira verso %actor.name%.  
+    wait 2
+    mecho Qualcosa ti dice di non toccare %self.name%, i poteri dei morti sembrano essergli affianco.
+endif 
+~
+/s
+q
+y

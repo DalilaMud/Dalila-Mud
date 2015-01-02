@@ -1,0 +1,134 @@
+trigedit 21360
+6  
+/c 
+if %cmd% == installa
+  * Serve nome e direxione in cui si trova la porta.
+  if !%arg%
+    %send% %actor% USO: Installa direzione
+    halt
+  end
+  * Puntatore alla stanxa in cui si trova l'oggetto
+  eval stanxa %self.room%
+    
+  * Punta alla direxione in cui installare la serratura e controlla che sia valida.
+  eval direx %arg.mudcommand%
+  
+  switch %direx%
+    case north
+      set indirk %stanxa.north(key)%
+      set indirb %stanxa.north(bits)%
+      set rid south
+      set moor %stanxa.north(vnum)%
+      break
+    case east
+      set indirk %stanxa.east(key)%
+      set indirb %stanxa.east(bits)%
+      set rid west
+      set moor %stanxa.east(vnum)%
+      break
+    case south
+      set indirk %stanxa.south(key)%
+      set indirb %stanxa.south(bits)%
+      set rid north
+      set moor %stanxa.south(vnum)%
+      break
+    case west
+      set indirk %stanxa.west(key)%
+      set indirb %stanxa.west(bits)%
+      set rid east
+      set moor %stanxa.west(vnum)%
+      break   
+    case up
+      set indirk %stanxa.up(key)%
+      set indirb %stanxa.up(bits)%
+      set rid down
+      set moor %stanxa.up(vnum)%
+      break
+    case down
+      set indirk %stanxa.down(key)%
+      set indirb %stanxa.down(bits)%
+      set rid up
+      set moor %stanxa.down(vnum)%
+      break
+    default
+      %send% %actor% USO: Installa direzione - Direzione deve essere un punto cardinale valido
+      halt
+    break
+  done
+  
+  if !%indirk%
+    %send% %actor% Non ci sono serrature li!
+    halt
+  end
+  
+  * Controlla il proprietario
+  if !%stanxa.owner%
+    %send% %actor% Non sei in una casa.
+    halt
+  else
+    if %stanxa.owner% != %actor.idnum%
+      %send% %actor% Puoi cambiare solo la serratura di casa tua.
+      * DeBUG %echo% %stanxa.owner% - %actor.idnum% - %actor.id%
+      halt
+    end
+  end 
+  
+  * Legge il numero di dentini della serratura
+  eval dentini %self.val0%
+  * - Genera un nuovo numero di chiave.
+  switch %dentini%
+    case 3
+      eval combinaxione 100 + %random.899%
+    break
+    case 4
+      eval combinaxione 1000 + %random.8999%
+    break
+    case 5
+      eval combinaxione 10000 + %random.89999%
+    break
+    case 6
+      eval combinaxione 100000 + %random.899999%
+    break
+    case 7
+      eval combinaxione 1000000 + %random.8999999%
+    break
+    case 8
+      eval combinaxione 10000000 + %random.89999999%
+    break
+    case 9
+      eval combinaxione 100000000 + %random.899999999%
+    break
+    default
+      eval combinaxione 100 + %random.899%
+    break
+  done
+  
+  * Possibilità di rottura della serratura (Disattivata)
+  eval bonus %actor.prof(fabbro)% + %actor.prof(gioielliere)% + 10
+  eval bonus %bonus% / 10
+  eval bonus %bonus% + %actor.int% + %actor.dex%
+  
+  eval caos %random.50%
+  if %caos% <= %bonus%
+    %door% %stanxa.vnum% %direx% key %combinaxione%
+    %door% %moor% %rid% key %combinaxione%
+  
+    %send% %actor% Smonti dalla porta la vecchia serratura, la posi e monti al suo posto quella nuova.
+    %echoaround% %actor% %actor.name% armeggia con la serratura della porta.
+    
+    * La serratura viene trasformata in quella smontata ormai inutilixxabile.
+    otransform -51060
+  
+  else
+    %send% %actor% Hai poca esperienza con queste cose!
+    wait 1
+    %send% %actor% Non riesci a smontare la vecchia serratura.
+    %echoaround% %actor% %actor.name% armeggia nervosamente con la serratura della porta.
+  end
+else
+  return 0
+end
+~
+/s
+q
+y

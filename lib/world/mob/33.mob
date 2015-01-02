@@ -1,0 +1,426 @@
+#3300
+contadino~
+il contadino~
+Un contadino cammina qua attorno in cerca di qualcosa da fare.
+~
+Questo contadino e' uno degli abitanti di Stanneg, vicino alle Montagne e come
+tale e' una delle persone piu' noiose della terra.    
+~
+~
+~
+~
+204 0 500 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+13 50000
+8 8 1
+E
+#3301
+negoziante~
+il negoziante~
+Un annoiato negoziante e' in attesa di qualcosa da fare.
+~
+L'annoiato negoziante ti osserva pigramente attendendo che tu acquisti qualche
+cosa.    
+~
+~
+~
+~
+10 0 750 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+11 50000
+8 8 1
+Spec: 0
+E
+#3302
+allevatrice~
+l'allevatrice~
+Un'allevatrice e' qui pronta a difendere i suoi cavalli...
+~
+Questa donna sembra pronta a fronteggiare qualsiasi tua azione aggressiva...  
+Sembra veramente una donna da prendere con le molle...    
+~
+~
+~
+~
+284682 8 750 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+19 50000
+8 8 2
+E
+#3303
+cavallo~
+il cavallo~
+Un cavallo che si comporta da cavallo e' qui.
+~
+Questo cavallo sembra un bell'esemplare.  Ti osserva con i suoi occhi marroni
+desiderando che tu gli allungassi una carota.    
+~
+~
+~
+~
+10 0 250 -1 -1 -1 -1 -1 E
+10 14 6 1d1+90 2d5+2
+8 8000
+8 8 1
+BareHandAttack: 4
+E
+#3304
+moglie contadino~
+la moglie del contadino~
+La moglie di un contadino ti offre delle verdure.
+~
+Questa donna ha molti tipi di frutta e verdura da venderti.  Sembra annoiata.
+  
+~
+~
+~
+~
+24648 1024 500 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+11 50000
+8 8 2
+Spec: 0
+E
+#3305
+aglandiir drago~
+Aglandiir~
+Aglandiir, il Principe dei Draghi, e' qui, seduto, che ti osserva con curiosita'.
+~
+Aglandiir e' Signore del suo popolo e, se non lo fosse, oggi la gente dovrebbe
+guardarsi dalla sua orda di assassini!    
+~
+~
+~
+~
+518202 136 -750 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+300 3d8+8
+28 350000
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 16
+E
+#3306
+ciclope~
+un ciclope~
+Un ciclope e' qui che tenta di capire a che distanza ti trovi.
+~
+Questo ciclope tira con grande potenza dei grossi massi.  Avendo pero' un
+occhio solo, non e' molto preciso.  Ti guarda, sbraita contro di te e ti manca
+ancora!    
+~
+~
+~
+~
+337966 1024 -500 -1 -1 -1 -1 -1 E
+30 8 -1 1d1+500 3d7+6
+29 160000
+8 8 1
+BareHandAttack: 13
+E
+#3307
+salle donna~
+Salle~
+Una donna e' intenta ad ammirare la sua spada e ti ignora completamente.
+~
+E' una donna dura, sia l'aspetto che gli occhi te lo fanno credere.  I suoi
+vestiti hanno lo stesso color marrone della sua pelle e dei suoi capelli.  I
+suoi occhi blu ti guardano con sospetto, da essi traspare una grande
+intelligenza.  La sua bocca si muove fino a mostrare un sorriso malvagio...  
+
+~
+~
+~
+~
+266344 1032 -600 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+12 50000
+8 8 2
+E
+#3308
+duwick uomo~
+Duwick~
+Un uomo enorme ti beffeggia ed estrae un coltello!
+~
+E' uno degli uomini piu' grossi che tu abbia mai visto.  E' alto piu' di due
+metri e pesera' piu' di 150 chili -- certamente la parte piu' pesante deve
+essere quella che forma i suoi bicipiti ed i suoi pettorali.  Un fodero
+decorato pende al suo fianco e, all'interno di esso, vedi l'elsa di un pugnale
+d'argento...  Un'arma molto piccola per un uomo cosi' grosso!    
+~
+~
+~
+~
+4106 0 -900 -1 -1 -1 -1 -1 E
+28 10 -1 1d1+450 3d7+6
+17 130000
+8 8 1
+E
+#3309
+locandiere~
+il locandiere~
+Un locandiere ti mostra le stanze.
+~
+Sembra un contadino in pensione che ora manda avanti onestamente questa
+locanda.    
+~
+~
+~
+~
+14 128 400 -1 -1 -1 -1 -1 E
+25 9 0 1d1+230 2d10+5
+14 50000
+8 8 1
+E
+#3310
+padrone locanda uomo anziano~
+il padrone della locanda~
+Un uomo anziano ti saluta non appena entri.
+~
+E' vecchio e canuto, ma sembra ancora in grado di utilizzare tutte le sue
+facolta' mentali.  Un grosso maglione di lana lo avvolge completamente,
+riscaldandolo.  I suoi occhi blu osservano divertite le tue armi, ma non ne
+sembrano intimoriti.    
+~
+~
+~
+~
+8202 0 750 -1 -1 -1 -1 -1 E
+18 11 3 1d1+210 2d8+4
+14 30000
+8 8 1
+E
+#3311
+cacciatore~
+il cacciatore~
+Un cacciatore cammina per le strade della citta'.
+~
+Sembra un uomo meschino, come se l'atmosfera che si respira sulle montagne lo
+avesse contaminato con la sua durezza.  La sua andatura e' risoluta, il suo
+volto rugoso, i suoi occhi freddi e scuri.  La gente sembra stargli alla larga.
+  
+~
+~
+~
+~
+4204 1024 500 -1 -1 -1 -1 -1 E
+26 10 0 1d1+390 2d10+5
+21 108000
+8 8 1
+E
+#3312
+cameriere~
+un cameriere~
+Un cameriere si muove in tutta fretta, compiendo il suo lavoro.
+~
+Sembra vada molto di fretta.  Ha preso le ordinazioni ed ora torna verso la
+cucina per prendere il cibo e le bevande.  Non ti risparmia comunque
+un'occhiataccia nel momento in cui ti passa vicino.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+25 9 0 1d1+370 2d10+5
+15 80000
+8 8 1
+E
+#3313
+cameriera~
+una cameriera~
+Una cameriera si muove in tutta fretta, compiendo il suo lavoro.
+~
+Sembra vada molto di fretta.  Ha preso le ordinazioni ed ora torna verso la
+cucina per prendere il cibo e le bevande.  Non ti risparmia comunque
+un'occhiataccia nel momento in cui ti passa vicino.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+22 10 1 1d1+295 2d9+4
+19 60000
+8 8 2
+E
+#3314
+barista~
+un barista~
+Un barista sta lavando dei bicchieri.
+~
+Annuisce, sorride e ti chiede cosa vuoi bere.  Non appena hai deciso,
+lentamente prende un bicchiere dalla rastrelliera dietro di lui.  E'
+pulitissimo, eppure lo pulisce ancora prima di metterlo davanti a te.    
+~
+~
+~
+~
+8202 0 200 -1 -1 -1 -1 -1 E
+25 9 0 1d1+370 2d8+5
+21 80000
+8 8 1
+Spec: 0
+E
+#3315
+bandito~
+un bandito~
+Un bandito passa all'azione non appena averti visto.
+~
+Ehi!  Quest'uomo avra' mai fatto il bagno?  La sua faccia, le mani, le
+braccia...  Quasi ogni parte del suo copro e' coperta da grasso, polvere,
+sporcizia e croste.  La sua spada e' pulita e affilata comunque...    
+~
+~
+~
+~
+1612 1024 -500 -1 -1 -1 -1 -1 E
+32 8 -2 1d1+500 3d8+6
+31 160000
+8 8 1
+E
+#3316
+bandito guardia~
+un bandito di guardia~
+Un bandito di guardia e' qui sugli attenti.
+~
+   Potrebbe essere un bandinto, ma non e' certo un fannullone.  Ti chiedi chi
+sia in grado di tenere in riga questi uomini, tanto da far far loro un ottimo
+servizio di guardia...    
+
+(Quest'uomo e' veramente SPORCO!!!)
+~
+~
+~
+~
+1578 1024 -500 -1 -1 -1 -1 -1 E
+33 9 -2 1d1+500 3d8+6
+17 150000
+8 8 1
+E
+#3317
+schiavo minatore~
+Lo schiavo~
+Uno schiavo e' qui che sta picconando.
+~
+Lo schiavo ti sta guardando con occhi penosi. Cio' che vuole e' solo la LIBERTA'.
+Le catene che ha attorno alle caviglie sono robuste, ma se tu vuoi poi cercare
+di dargli la liberta'.
+~
+~
+~
+~
+232 1024 1000 -1 -1 -1 -1 -1 E
+21 10 1 1d1+280 2d10+5
+18 45000
+8 8 1
+E
+#3318
+contadino~
+il contadino~
+Un contadino cammina qua attorno, in cerca di qualcosa da fare.
+~
+Questo contadino e' un residente di Stanneg, ai piedi della Montagna, e come
+tale e' una delle persone piu' noiose della terra.    
+~
+~
+~
+~
+206 0 500 -1 -1 -1 -1 -1 E
+20 11 2 1d1+250 2d8+4
+18 50000
+8 8 1
+E
+#3319
+cacciatore~
+il cacciatore~
+Un cacciatore cammina per le vie della citta'.
+~
+Sembra un uomo meschino, come se l'atmosfera che si respira sulle montagne lo
+avesse contaminato con la sua durezza.  La sua andatura e' risoluta, il suo
+volto rugoso, i suoi occhi freddi e scuri.  La gente sembra stargli alla larga.
+~
+~
+~
+~
+4174 0 500 -1 -1 -1 -1 -1 E
+25 9 0 1d1+370 2d10+5
+20 110000
+8 8 1
+E
+#3320
+spirito dannato~
+lo Spirito Dannato~
+Lo Spirito Dannato vaga in cerca di qualcosa o qualcuno.
+~
+Lo spirito e' il fantasma di una bellissima donna con lunghi capelli rossi e
+una pelle bianca come il latte.    
+~
+~
+~
+~
+72 393216 0 -1 -1 -1 -1 -1 E
+35 6 -3 1d1+530 3d9+7
+34 250000
+8 8 2
+BareHandAttack: 12
+E
+#3321
+pipistrello albino~
+un pipistrello albino~
+Un pipistrello albino e' appeso al soffitto
+~
+Le suo dimensioni sono fuori dal comune. Ha un corpo massiccio nascosto alla
+vista da due enormi ali ripiegate come un mantello. La testa e' sormontata
+da una lunghe orecchie protese a carpire il minimo movimento mentre dalla sua
+piccola bocca spuntano, sanguinanti, sue bei dentoni.
+E' interamente coperto di peluria bianco ed e'.. spaventosamente enorme.
+Chissa' di cosa si nutre.
+~
+~
+~
+~
+213146 4195368 0 -1 -1 -1 -1 -1 E
+15 11 2 6d4+400 3d11+5
+9 0
+5 8 1
+E
+#3322
+4~
+un pipistrello nano~
+pipistrello nano
+~
+E' un pipistrello di dimensioni davvero ridotte. Tutto nero ali e orecchie.
+Ti vien voglia di tringerlo forte forte fino a fargli schizzare il sangue dalle sue
+artigliate zampe.
+~
+~
+~
+~
+235546 4195624 0 -1 -1 -1 -1 -1 E
+5 13 3 6d1+300 2d6+4
+4 0
+8 8 0
+E
+#3323
+il dragoserpente~
+il dragoserpente~
+Il dragoserpente e' qui che sonnecchia.
+~
+Lo vedi dormiente arrotolato come un serpente. Il suo lungo e viscido corpo 
+alterna degli anelli neri con altri gialli ed il tutto e' sormontato da
+una testa ... di drago.
+Fauci poderose sembrano ghignare nel sonno ... forse ti ha visto.
+~
+~
+~
+~
+33794106 274877908008 0 -1 -1 -1 -1 -1 E
+40 11 -1 7d9+700 4d24+9
+23 0
+4 4 0
+BareHandAttack: 2
+E
+$

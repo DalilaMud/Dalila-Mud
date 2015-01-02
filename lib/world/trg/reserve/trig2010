@@ -1,0 +1,29 @@
+trigedit 2010
+6  
+/c 
+set valido 0
+if %actor.name% == alhandir || %actor.name% == irin || %actor.name% == lain || %actor.name% == bridge || %actor.name% == esmeralda || %actor.name% == cry || %actor.name% == yuna
+ set valido 1
+end
+if %valido% == 1
+ if %speech% == angelo di Silue
+  wait 1 s
+  if %puntifede% < 1000
+   mecho L'altare brilla per qualche secondo, ma non pare succedere nulla...
+   halt
+  end
+  mecho L'altare brilla per qualche istante...
+  mload mob 577
+  wait 1 s
+  mforce acs say Dama Silue mi invia a proteggervi, %actor.name%.
+wait 2
+mforce %actor.name% say tu ora mi seguirai, in nome di %god%
+  eval puntifede %puntifede%-1000
+  global puntifede
+  mat cptifedesilue say distruggi 20
+ end
+end
+~
+/s
+q
+y

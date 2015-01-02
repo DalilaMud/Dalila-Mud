@@ -1,0 +1,17 @@
+trigedit 2005
+6  
+/c 
+msend %actor.name% %annientamento%
+wait 1
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+~
+/s
+q
+y

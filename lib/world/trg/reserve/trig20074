@@ -1,0 +1,50 @@
+trigedit 20074
+6  
+/c 
+set cb %self.worn_by%
+set iv Il Vuoto
+if %cb.name% == %iv%
+halt
+end
+oecho &GLo scettro della magia selvaggia inizia a brillare intensamente...&d
+wait 2 s
+oecho &GLo scettro sta per rilasciare una magia selvaggia!&d
+wait 2 s
+eval magia %random.10%
+switch %magia%
+case 1
+dg_cast 'teleport' %cb.alias%
+break
+case 2
+dg_cast 'feast' %cb.alias%
+break
+case 3
+dg_cast 'paralize' %cb.alias%
+oecho &G Lo scettro prova a paralizzare %cb.alias% ... &d
+break
+case 4
+dg_cast 'sanctuary' %cb.alias%
+break
+case 5
+dg_cast 'fear'
+break
+case 6
+dg_cast 'heal' %cb.alias%
+break
+case 7
+dg_cast 'blink' %cb.alias%
+break
+case 8
+dg_cast 'energy drain' %cb.alias%
+break
+case 9
+dg_cast 'sense life' %cb.alias%
+break
+case 10
+dg_cast 'levitate' %cb.alias%
+break
+done
+~
+/s
+q
+y

@@ -1,0 +1,134 @@
+trigedit 2081
+6  
+/c 
+wait 3 s
+if %self.vnum% == 798
+ eval c1 %random.4%
+ eval c2 %random.3%
+ if %c1% <= %c2%
+  eval c2 %c2% + 1
+ end
+ switch %c1%
+ case 1
+  set uscita1 north
+ break
+ case 2
+  set uscita1 east
+ break
+ case 3
+  set uscita1 south
+ break
+ case 4
+  set uscita1 west
+ break
+ done
+ switch %c2%
+ case 1
+  set uscita2 north
+ break
+ case 2
+  set uscita2 east
+ break
+ case 3
+  set uscita2 south
+ break
+ case 4
+  set uscita2 west
+ break
+ done
+ %door% 798 %uscita1% room 797
+ %door% 798 %uscita2% room 796
+else
+ eval c1 %random.4%
+ eval c2 %random.3%
+ eval c3 %random.2%
+ if %c1% <= %c2%
+  eval c2 %c2% + 1
+ end
+ if %c1% <= %c3%
+  eval c3 %c3% + 1
+ end
+ if %c2% <= %c3%
+  eval c3 %c3% + 1
+ end
+ switch %c1%
+ case 1
+  set uscita1 north
+ break
+ case 2
+  set uscita1 east
+ break
+ case 3
+  set uscita1 south
+ break
+ case 4
+  set uscita1 west
+ break
+ done
+ switch %c2%
+ case 1
+  set uscita2 north
+ break
+ case 2
+  set uscita2 east
+ break
+ case 3
+  set uscita2 south
+ break
+ case 4
+  set uscita2 west
+ break
+ done
+ switch %c3%
+ case 1
+  set uscita3 north
+ break
+ case 2
+  set uscita3 east
+ break
+ case 3
+  set uscita3 south
+ break
+ case 4
+  set uscita3 west
+ break
+ done
+ eval nuscita1 %self.vnum% - 1
+ eval nuscita2 %self.vnum% - 2
+ eval nuscita3 %self.vnum% - 3
+ %door% %self.vnum% %uscita1% room %nuscita1%
+ %door% %self.vnum% %uscita2% room %nuscita2%
+ %door% %self.vnum% %uscita3% room %nuscita3%
+end
+wait 1
+%force% all look
+wait 60 s
+if %actor.room% == %self.vnum%
+ wecho &1L'indecisione e' una brutta cosa.&0
+ wait 1 s
+ if %self.vnum% == 798
+  wecho &1Un ladruncolo si accorge della borsa e la ruba.&0
+  wait 1
+  teleport %actor.name% 779
+ elseif %self.vnum% == 795
+  wecho &1Il fiore consuma ogni cosa nella stanza, ma Therion nella sua infinita bonta' decide di salvarti.&0
+  wait 1
+  teleport %actor.name% 779
+ elseif %self.vnum% == 791
+  wecho &1Il dolore porta il mostriciattolo alla pazzia facendolo fuggire nelle grinfie del Caos.&0
+  wait 1
+  wteleport %actor.name% 780
+ else
+  wecho &1Il coboldo, stanco delle parole, attacca battaglia. Gli stacchi la testa con un colpo netto.&0
+  wait 1
+  wteleport %actor.name% 781
+ end
+end
+%door% %self.vnum% north purge
+%door% %self.vnum% east purge
+%door% %self.vnum% south purge
+%door% %self.vnum% west purge
+~
+/s
+q
+y

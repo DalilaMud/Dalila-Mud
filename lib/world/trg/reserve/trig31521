@@ -1,0 +1,32 @@
+trigedit 31521
+6  
+/c 
+if !%actor.is_pc%
+  halt
+end
+ 
+eval check (%actor.align%-1000)
+wait 1 s
+%send% %actor.name% &7Appena indossi la maschera di pietra una serie di ganci escono dall'artefatto e si agganciano alla tua testa lacerandola&0
+%echoaround% %actor.name% &7Appena %actor.name% indossa l'artefatto una serie di ganci si attaccano alla sua testa&0
+wait 1 s
+%damage% %actor.name% 400
+%send% %actor.name% &7Senti una nuova forza e energia scorrere attraverso il tuo corpo,mentre ogni briciolo di umanita' in te sparisce&0
+%echoaround% %actor.name% &7%actor.name% si accascia al suolo urlando in preda al dolore e alla disperazione..&0
+wait 1 s
+if %check% <= 0 || %check% > 500
+ wait 1 s
+ %send% %actor.name% &7Senti la tua coscienza che ti abbandona,e perdi ogni traccia di te stesso trasformandoti in un vampiro!&0
+ %echoaround% %actor.name% &7%actor.name% si contorce dagli spasmi mentre si trasforma in una terribile bestia succhiasangue..&0
+ %damage% %actor.name% 8000
+ oload mob 31548
+else
+ dg_affect %actor.name% deathdance 0 10
+ %send% %actor.name% &7La tua volonta' ha controllato il potente artefatto e riesci a godere dei suoi spaventosi poteri!&0
+ %echoaround% %actor.name% &7%actor.name% si rialza con una demoniaca e spaventosa luce negli occhi..&0
+end
+ 
+~
+/s
+q
+y

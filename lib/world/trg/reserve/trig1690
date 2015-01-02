@@ -1,0 +1,13 @@
+trigedit 1690
+6  
+/c 
+* Lista comandi
+if %speech% /= uccidi
+set %speech%
+global vittima
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,10 @@
+trigedit 1686
+6  
+/c 
+* Lista comandi
+wait 1 s
+osend %actor.name% Ma si... chi ci crede alla sfortuna?
+~
+/s
+q
+y

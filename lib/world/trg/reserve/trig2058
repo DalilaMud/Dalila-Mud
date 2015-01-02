@@ -1,0 +1,28 @@
+trigedit 2058
+6  
+/c 
+wait 1 s
+if %speech% == vita di Shaarr
+if %puntigrazia% < 20
+mecho &1&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+halt
+end
+mecho &1&xL'altare si illumina ed il flusso di sangue aumenta...&0
+wait 1 s
+mecho &1&xUn flusso di sangue fluisce dall'altare alla tua bocca!&0
+dg_cast 'cure critic' %actor.name%
+dg_cast 'cure critic' %actor.name%
+elseif %speech% == fuoco di Shaarr
+if %puntigrazia% < 40
+mecho &1&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+halt
+end
+mecho &1&xUn fiotto di sangue si trasforma in fuoco mentre ti avvolge....&0
+wait 1 s
+mecho &1&x...il Fuoco Di Shaarr ora ti protegge!&0
+dg_affect %actor.name% fireshd 0 4
+end
+~
+/s
+q
+y

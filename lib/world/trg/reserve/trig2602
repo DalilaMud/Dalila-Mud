@@ -1,0 +1,22 @@
+trigedit 2602
+6  
+/c 
+* Lista comandi
+return 0
+mecho &6&xAlla morte del Grande Kaius senti grida furiose fuori la tenda!&0
+mat rfcmsn mload mob 5821
+mat rfcmsn mforce mipmk mgoto 2465250
+mat rfcmsn mload mob 5821
+mat rfcmsn mforce mipmk mgoto 2465251
+mat rfcmsn mload mob 5821
+mat rfcmsn mforce mipmk mgoto 2465249
+mat rfcmsn mload mob 5821
+mat rfcmsn mforce mipmk mgoto 2465149
+mat rfcmsn mload mob 5821
+mat rfcmsn mforce mipmk mgoto 2465151
+mat rfcmsn mload mob 5821
+mat rfcmsn mforce mipmk mgoto 2465450
+~
+/s
+q
+y

@@ -1,0 +1,18 @@
+trigedit 31113
+6  
+/c 
+if %spada% != on
+set spada on
+global spada
+wait 3 s
+%echo% &1Improvvisamente una spada fantasma si materializza e danza nell'aria intorno a %actor.name%!!&0
+oload mob 31113
+wait 2 s
+%force% 1secr foll %actor.name%
+end
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,12 @@
+trigedit 1654
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1 && %direction% == west
+ wait 1 s
+ wecho &1Un sordo boato scuote le mura della prigione. Tremi al pensiero che qualcosa possa aver emesso un simile verso.&0
+end
+~
+/s
+q
+y

@@ -1,0 +1,11 @@
+trigedit 33115
+6  
+/c 
+wait 10
+oecho Appena %actor.name% indossa il potente artefatto... viene avvolto da...
+wait 20
+oecho Una PUZZA Insopportabile !!!
+~
+/s
+q
+y

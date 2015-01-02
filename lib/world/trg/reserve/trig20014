@@ -1,0 +1,17 @@
+trigedit 20014
+6  
+/c 
+if %actor.name% == krog
+wait 1 s
+oecho &WLa lettera &RK&W incisa sullo scudo diventa incandescente non appena Krog impugna lo scudo&0
+halt
+else
+wait 1 s
+osend %actor.name% &RUna potente scossa risale il braccio che regge lo scudo!&0
+wait 1 s
+odamage %actor.name% 5000
+end
+~
+/s
+q
+y

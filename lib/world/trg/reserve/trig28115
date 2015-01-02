@@ -1,0 +1,15 @@
+trigedit 28115
+6  
+/c 
+if %actor.vnum% == -1
+  wait 10 s
+  %echo% Un violento bagliore di luce verde illumina la sala.
+  wait 1 s
+  dg_cast 'chain lightning' %actor.name%
+  wait 2 s
+  dg_cast 'blind' %actor.name%
+end
+~
+/s
+q
+y

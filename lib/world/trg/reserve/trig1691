@@ -1,0 +1,29 @@
+trigedit 1691
+6  
+/c 
+* Lista comandi
+if %actor.level% >= 71
+osend %actor.name% Questo anello non puo' funzionare su di te!
+halt
+end
+wait 1 s
+oechoaround %actor.name% &1&x%actor.name% viene circondato da potenti barriere magiche!&0
+osend %actor.name% Non appena infili l'anello, senti che potenti magie ti proteggono
+dg_affect %actor.name% sanct 0 2
+dg_affect %actor.name% blink 0 2
+dg_affect %actor.name% mirrorimage 0 2
+dg_affect %actor.name% fireshd 0 2
+eval sfiga %random.6%
+if %sfiga% == 3
+wait 1 s
+osend %actor.name% Il tuo corpo non riesce a sopportare tutta questa energia magica e si dissolve!
+oechoaround %actor.name% &1&x%actor.name% esplode spargendo parti di se ovunque....!&0
+wait 1 s
+odamage %actor.name% 3000
+oload obj 3537
+end
+halt
+~
+/s
+q
+y

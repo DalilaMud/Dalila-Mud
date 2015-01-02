@@ -1,0 +1,16 @@
+trigedit 28151
+6  
+/c 
+if %actor.name% == boorg il cacciatore di taglie
+set vittima cyrgo
+global vittima
+say %vittima% 
+end
+set vittima cyrgo
+global vittima
+set prova ciccio
+global prova
+~
+/s
+q
+y

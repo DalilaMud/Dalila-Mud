@@ -1,0 +1,1097 @@
+#31500
+fatina fata esserino minuscolo~
+Una fatina del bosco~
+Un piccolo esserino luminoso svolazza davanti a te..sembra una fatina!
+~
+Piccola, splendente come il sole a mezzogiorno, questo piccolo esserino vola freneticamente
+attorno a te...ti sembra di vedere una delle fiabe che ti raccontavano da piccino!!!
+~
+~
+~
+~
+81946 128 900 -1 -1 -1 -1 -1 E
+25 10 10 1d1+0 1d1+10
+15 0
+8 8 2
+BareHandAttack: 4
+E
+#31502
+ergan omicida~
+&3&xErgan&0,l'omicida di &1&xTownsbridge&0~
+&3&xErgan&0, lo stragista di &1&xTownsbridge&0, ti guarda con i suoi occhi &1spietati&0..
+~
+Non e' piu' il guerriero di un tempo, sul suo viso vedi i segni della mezza eta'
+e delle tremende torture subite in prigione. Nonostante tutto. il suo corpo e' ancora
+temprato come un tempo..ma la cosa che ti colpisce di piu' e la vena
+di follia e di crudelta' che scorgi nei suoi occhi grigi...
+~
+~
+~
+~
+537124890 2473969066024 -30 -1 -1 -1 -1 -1 E
+65 -5 -10 1d1+3000 4d12+15
+50 100000
+8 8 1
+BareHandAttack: 1
+Spec: 15
+E
+#31503
+vecchio~
+Un vecchio di Townsbridge~
+Un vecchio curvo e stanco e' qui..con gli occhi terrorizzati..
+~
+Una persona di eta' avanzata, con le spalle gobbe e gli occhi spenti
+ti guarda con un espressione mista di terrore e inquietudine.
+Deve aver visto orrori indicibili per fissarti con quello sguardo...
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+30 10 10 1d1+500 2d20+10
+20 0
+8 8 1
+E
+#31504
+guardia spietata ergan~
+Una guardia spietata~
+Questa guardia e' disposta a tutto pur di difendere il covo del suo padrone!
+~
+Uno sfregio gli segna l'intero volto da sopra la fronte fino a vicino
+la bocca, sul lato destro. Una luce sinistra brilla nei suoi occhi
+mentre cerca di nascondersi nelle ombre per sorprenderti alle spalle.
+~
+~
+~
+~
+41019 1048576 -500 -1 -1 -1 -1 -1 E
+66 0 -8 1d1+1199 4d8+4
+43 0
+8 8 1
+Str: 15
+Dex: 16
+Int: 14
+Con: 8
+E
+#31505
+enorme serpente d'acqua~
+Un enorme serpente d'acqua~
+Un enorme serpente d'acqua nuota nelle risaie, sara' lungo piu' di due metri!!!
+~
+Un enorme serpente dalla forma sinuosa nuota nell'acqua dalle risaie, non pensavi che le coltivazioni
+di queste terre presentassero un insidia cosi' pericolosa. I suoi movimenti sono velocissimi e la
+sua abilita' nel sparire sott'acqua rendono il colpirlo una grossa prova di abilita'.
+~
+~
+~
+~
+90233 275163152424 0 -1 -1 -1 -1 -1 E
+70 -3 -10 0d0+899 4d13+25
+39 0
+8 8 0
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 13
+E
+#31506
+wang cheng brigante uomo basso gobbo~
+Wang-Cheng il brigante~
+Un uomo basso e gobbo ti guarda con i suoi occhietti spietati mentre lancia un terribile urlo!!
+~
+Un uomo basso e gobbo, con degli occhi spietati che rivelano tutta la sua malvagita' e la sua
+avidita'. Il suo aspetto e' innocuo e scoordinato, ma dovresti sapere che non bisogna mai sottovalutare
+il proprio avversario...
+~
+~
+~
+~
+256123 274894725160 -600 -1 -1 -1 -1 -1 E
+80 -10 -10 4d12+1800 3d17+22
+47 0
+8 8 1
+BareHandAttack: 14
+Spec: 14
+E
+#31507
+bambino occhi mandorla~
+Un bambino dagli occhi a mandorla~
+Un bambino dagli occhi a mandorla gioca correndo su e giu' per la strada maestra.
+~
+E' talmente piccolo da sembrare un bambino di un elfo, ma le orecchie normali e i suoi occhietti
+a mandorla dimostrano il contrario. Corre su e giu' ridendo e giocando, una vera peste!!!
+~
+~
+~
+~
+24654 274877911080 800 -1 -1 -1 -1 -1 E
+15 15 10 3d1+150 1d8+3
+12 0
+8 8 1
+E
+#31508
+lavoratore occhi mandorla~
+Un lavoratore delle risaie~
+Un lavoratore dagli occhi a mandorla si muove velocemente sulla strada per raggiungere le risaie.
+~
+La sua piccola statura non deve trarti in inganno. Sguardo severo, mani callose e muscoli ben
+formati dimostrano quanto quest'uomo sia abile nel suo lavoro e quanta passione ci metta
+nell'eseguirlo.
+~
+~
+~
+~
+24654 274877939752 600 -1 -1 -1 -1 -1 E
+30 10 -5 1d1+400 2d20+8
+27 0
+8 8 1
+E
+#31509
+guardia cancelli celeste impero~
+La guardia dei cancelli del &6Celeste Impero&0~
+Una guardia del Celeste Impero ti scruta con aria solenne mentre difende i cancelli.
+~
+Sguardo solenne, corporatura da vero combattente e aspetto da vero paladino della giustizia.
+Costui difendera' il regno del proprio signore a costo della propria vita. Attenti a voi malvagi!!
+~
+~
+~
+~
+2199023515930 274877911080 800 -1 -1 -1 -1 -1 E
+70 0 -10 1d0+1700 3d20+25
+67 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+E
+#31510
+guardia celeste impero~
+Una guardia del &6Celeste Impero&0~
+Una guardia del Celeste impero protegge i cancelli.
+~
+Sguardo solenne, corporatura da vero combattente e aspetto da vero paladino della giustizia.
+Costui difendera' il regno del proprio signore a costo della propria vita. Attenti a voi malvagi!!
+~
+~
+~
+~
+260442 274877943848 800 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+1300 3d20+20
+49 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+E
+T 31500
+T 31501
+#31511
+guardia celeste impero~
+Una guardia del &6Celeste Impero&0~
+Una guardia del Celeste Impero pattuglia le strade della capitale.
+~
+Sguardo solenne, corporatura da vero combattente e aspetto da vero paladino della giustizia.
+Costui difendera' il regno del proprio signore a costo della propria vita. Attenti a voi malvagi!!
+~
+~
+~
+~
+2199023517016 412333670568 800 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+1400 3d20+25
+38 0
+8 8 1
+BareHandAttack: 6
+E
+#31512
+arciere celeste impero~
+Un arciere del &6Celeste Impero&0~
+Un arciere del Celeste Impero vigila sulla capitale con il suo arco.
+~
+Robusto, ben allenato e responsabile. Lo Shogun ha addestrato i propri arcieri alla perfezione.
+Potrebbero colpire un uomo in corsa distante piu' di 50 metri!!! Stai attento alla loro mira
+e alla loro fedelta'.
+~
+~
+~
+~
+155930 412400750632 800 -1 -1 -1 -1 -1 E
+58 0 -10 1d1+950 4d11+25
+31 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+E
+#31513
+guardia kanemori kan~
+Una guardia del &1Kanemori-Kan&0~
+Una guardia del &1Kanemori-Kan&0 &3difende l'entrata del Dojo.&0
+~
+Un uomo alto a petto nudo, dai muscoli impressionati e dallo sguardo truce. E' stato allenato per difendere
+l'entrata al sacro Dojo di Kanemori. Le sue arti sono perfette,il suo corpo e' al limite delle facolta' umane.
+Un vero Karateka.
+~
+~
+~
+~
+225295 274911461416 200 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+900 4d11+20
+38 0
+8 8 1
+BareHandAttack: 6
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 16
+E
+T 31106
+#31514
+Uno studente di Arti Marziali~
+Uno studente di Arti Marziali~
+Uno studente di Arti marziali e' qui che allena le sue tecniche mortali.
+~
+Un giovane di poco piu' di 20 anni si sta allenando con tutto il suo impegno e le sue energie.
+Nonostante sia cosi' giovane il suo corpo e' allenato e pronto a scattare agli ordini del Sensei.
+Un valido avversario per ogni combattente!
+~
+~
+~
+~
+155723 274877906984 200 -1 -1 -1 -1 -1 E
+65 0 -10 4d12+800 4d11+18
+40 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 16
+E
+T 31106
+#31515
+sensei kanemori kan~
+Il Sensei del &1Kanemori-Kan&0~
+Il Sensei del &1Kanemori-Kan&0 &3e' qui che allena i suoi allievi.
+~
+Un uomo sulla quarantina, temuto e rispettato da tutto il Dojo. La sua bravura e le sue capacita'
+sono seconde solo a quelle di Kanemori,il Dio delle Arti Marziali. Urla e incita i suoi allievi
+spronandoli ad allenarsi duramente.
+~
+~
+~
+~
+254043 274945015848 200 -1 -1 -1 -1 -1 E
+71 0 -10 5d15+1600 5d15+25
+53 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 16
+E
+T 31106
+#31516
+drago blu nozomi~
+&6&xIl drago blu di Nozomi&0~
+Un ENORME drago blu ti guarda dall'alto della sua grandezza soffiando acido ovunque...
+~
+Scaglie dure come il diamante, occhi blu come la notte e dimensioni di una palazzo a 4 piani.
+La sua forza deve essere immensa come la sua crudelta', a giudicare dai centinaia di cadaveri
+che giacciono ai suoi piedi...
+~
+~
+~
+~
+576460752303670811 274961801256 -800 -1 -1 -1 1869516527 -1 E
+80 -5 -10 3d19+2000 3d19+20
+68 0
+8 8 1
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 30
+E
+#31517
+tong po campione arti marziali~
+Tong-Po,il campione di Arti marziali~
+Tong-Po si avvicina minacciosamente verso di te sferrando calci e gomitate!
+~
+Alto e slanciato, con una lunga treccia nera che gli scende lungo le spalle. Il suo fisco e' asciutto
+ma denota una forza straordinaria. Il suo sguardo e' spietato, deve aver combattuto e sconfitto centinaia
+di avversari per affrontarti con tutta questa freddezza!
+~
+~
+~
+~
+188523 275079233576 -300 -1 -1 -1 -1 -1 E
+81 -5 -10 1d1+1800 5d15+25
+64 0
+8 8 1
+BareHandAttack: 10
+Str: 25
+StrAdd: 100
+Dex: 25
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 16
+E
+T 31106
+#31518
+yojimbo~
+Uno Yojimbo di &1Kanemori-San&0~
+Uno yojimbo di Kanemori-San si posiziona in difesa del suo padrone!
+~
+Il suo volto riporta le ferite di molte vecchie battaglie per il suo
+daimyo. Alla morte di questo venne assoldato da Kanemori-San affinche'
+lo difendesse, e tuttora svolge questo ruolo con ardore.
+~
+~
+~
+~
+110650 0 -50 -1 -1 -1 -1 -1 E
+55 0 -10 1d1+1099 3d13+15
+30 0
+8 8 1
+E
+T 31106
+#31519
+Kanemori-San~
+Il &1&xKanemori-San&0~
+Il &1&xKanemori-San&0, il dio delle arti marziali, e' molto disturbato dalla tua interruzione!
+~
+Un tempo il piu' potente tra i guerrieri di arti marziali, si e'
+ritirato a vita privata e ha abbandonato gli allenamenti per godere
+degli sforzi di una vita.
+Nonostante preferisca riposarsi sul suo letto piuttosto che affinare
+le tecniche di lotta, rimane il guerriero piu' forte del dojo.
+~
+~
+~
+~
+253978 0 100 -1 -1 -1 -1 -1 E
+80 -5 -10 1d1+1999 5d19+20
+57 0
+8 8 1
+Str: 20
+Dex: 15
+E
+T 31106
+#31520
+donna concubina prostituta~
+La concubina del Kanemori-San~
+Una concubina del Kanemori-San si e' rifugiata in un angolo per sfuggirti!
+~
+Al suo volto, delicato e perfetto, e' stato risparmiato ogni tipo di
+spasmo e la tua visione e' probabilmente la cosa che piu' l'ha
+spaventata in tutta la sua vita.
+Comprende solo che tu abbia interrotto la sua solita vita quotidiana,
+ma guarda speranzosa ai yojimbo, in grado di riportare la solita
+normalita'.
+~
+~
+~
+~
+26 0 500 -1 -1 -1 -1 -1 E
+10 15 8 1d1+99 2d6+0
+7 0
+8 8 2
+E
+#31521
+Goro capoguardie~
+Goro il capoguardie~
+Goro, il capo delle guardie del &6Celeste Impero&0 siede dietro alla sua scrivania.
+~
+Lunghi anni di servizio in nome della sua nazione lo hanno portato a
+ricoprire il ruolo piu' importante nel corpo di guardie del &6Celeste
+&6Impero&0, e ora puo' permettersi di sedere dietro alla scrivania
+amministrando la parte burocratica e impartendo ordini alle guardie.
+Il suo volto e' scavato ma sereno, e i suoi lunghi baffi nascondono le
+sue reali intenzioni. Una rapida occhiata alle guardie qui vicino ti
+fanno solo capire che e' bene lasciarlo alle sue mansioni.
+~
+~
+~
+~
+258330 0 500 -1 -1 -1 -1 -1 E
+65 0 -10 14d20+1500 3d17+16
+57 0
+8 8 1
+Str: 16
+Dex: 19
+E
+T 31505
+#31522
+guardia privata~
+Una guardia privata di Goro~
+Una guardia privata di Goro il capoguardie e' qui fissa sull'attenti.
+~
+La sua dedizione al proprio capo e' assoluta: nonostante la posizione
+scomoda rimane fermo in piedi per ore con i nervi e i muscoli tesi e
+sempre pronti all'azione.
+Nei suoi occhi non c'e' nemmeno una parvenza di sogno per una
+posizione migliore e di maggior prestigio, e nella sua mano stringe
+una spada con forza maniacale.
+~
+~
+~
+~
+78106 0 800 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+1249 4d13+15
+38 0
+8 8 1
+E
+#31523
+Yasutsuna samurai~
+Yasutsuna~
+Un samurai e' inginocchiato qui, sta facendo harakiri!
+~
+Tiene gli occhi chiusi, e i suoi muscoli si stringono in uno sforzo
+che non comprendi. La piccola spada che tiene tra le mani e' puntata
+verso il suo ventre per compiere l'estremo gesto di fedelta' verso
+il proprio signore.
+~
+~
+~
+~
+188442 0 300 -1 -1 -1 -1 -1 E
+65 -5 -10 1d1+1099 3d13+18
+43 0
+6 6 1
+Str: 20
+Dex: 25
+E
+T 31106
+T 31506
+T 31507
+#31524
+guardia celeste impero~
+Una guardia del &6Celeste Impero&0~
+Una guardia del &6Celeste Impero&0 si sta riposando in un angolo.
+~
+Questa guardia e' stata destinata alla difesa di una postazione di
+grande importanza per le sue abilita' difensive e la sua scarsa
+attitudine alla corsa...
+~
+~
+~
+~
+2199023515930 137455730688 500 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+1199 4d16+14
+45 0
+6 6 1
+BareHandAttack: 11
+E
+#31525
+ninja genji~
+Un Ninja Genji~
+Un Ninja del clan Genji ti attacca di sorpresa con le sue letali tecniche!
+~
+Completamente avvolto in abiti neri come la notte,il suo volto e' celato da un cappuccio di maglia.
+Talmente silenzioso e abile da sembrare solo una confusa macchia nell'oscurita', e' stato
+addestrato per uccidere senza pieta'..
+~
+~
+~
+~
+159263 412451086376 -800 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+1000 4d13+15
+41 0
+8 8 1
+Dex: 25
+Spec: 14
+E
+#31526
+Kanetsuna eroe celeste impero~
+Kanetsuna~
+Kanetsuna, l'eroe del &6Celese Impero&0 si sta battendo valorosamente!
+~
+Il suo volto fiero e' contratto per lo sforzo della battaglia che sta
+portando avanti, e il suo braccio disegna mortali figure nell'aria.
+L'impegno profuso nel difendere il Celeste Impero non ha mai termine,
+ed e' particolarmente acuto da quando il clan Genji ha iniziato a
+minacciarne l'ordine.
+~
+~
+~
+~
+253978 128 1000 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+1599 4d16+20
+61 0
+8 8 1
+Str: 23
+Dex: 22
+E
+#31527
+Noriaki predone clan genji~
+Noriaki dei Genji~
+Noriaki, il predone del clan Genji si volta verso di te ringhiando..
+~
+Di grossa corporatura,con un volto maligno e senza pieta'. Il suo sguardo lascia trasparire solo odio e
+violenza verso il mondo. Brandisce una lancia insanguinata alta come un uomo...
+~
+~
+~
+~
+257546 274945024040 -1000 -1 -1 -1 -1 -1 E
+80 -5 -10 1d1+1600 4d17+25
+61 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#31528
+primo uomo onda ronin Kuniyori~
+Kuniyori, il primo Ronin~
+Il primo Uomo Onda alza appena un sopracciglio quando ti vede arrivare.
+~
+Il piu' anziano dei Samurai privi dello Shogun passa ora il suo tempo
+arricchendo la propria cultura chino su grossi e antichi tomi. Si
+interessa poco a cio' che lo circonda, ma non per questo ne e'
+disinformato.
+Non ti presta alcuna attenzione, per lui non sei un pericolo.
+~
+~
+~
+~
+253979 0 0 -1 -1 -1 -1 -1 E
+80 -5 -10 30d30+1200 4d13+19
+74 0
+6 6 1
+BareHandAttack: 10
+Str: 19
+Dex: 22
+Spec: 16
+E
+#31529
+ronin uomo onda~
+Un Ronin~
+Un uomo onda gira per l'accademia preso dai suoi affari.
+~
+Questo samurai, rimasto senza Shogun, si e' unito a quelli che ebbero
+la stessa sorte formando un'accademia.
+Poche leggi regolano la sua vita, e il desiderio di soldi e potere si
+unisce agli antichi ideali di rispetto e fedelta' rendendo le sue
+azioni imprevedibili e piuttosto egoistiche.
+~
+~
+~
+~
+90122 0 -50 -1 -1 -1 -1 -1 E
+58 0 -10 1d1+1099 1d1+14
+31 0
+8 8 1
+E
+#31530
+membro genji~
+Un membro dei Genji~
+Un membro del clan dei Genji si sta battendo con estrema difficolta'.
+~
+Una luce malvagia lampeggia nei suoi occhi mentre cerca di colpire il
+proprio avversario, piu' con la volonta' di danneggiarlo che con un
+preciso piano. Benche' le sorti della battaglia volgano contro di lui
+il suo pugnale continua a scattare in cerca di un punto vitale sul
+corpo dell'avversario, senza grande fortuna.
+I suoi lineamenti poco piu' che fanciulleschi sono i segni di una
+giovinezza donata all'iniquita'.
+~
+~
+~
+~
+57370 0 -600 -1 -1 -1 -1 -1 E
+65 1 10 1d1+899 3d15+18
+47 0
+8 8 1
+E
+#31531
+Yasuji primo sacerdote anziano~
+Yasuji~
+Yasuji, il primo Sacerdote del &6Celeste Impero&0, cammina per il tempio.
+~
+Il suo pacifico volto, pur segnato da molte rughe, porta ancora i
+segni di una vita serena, agiata e permeata dalla benevolenza.
+Ora e' il capo spirituale del Celeste Impero e passa il tempo nel suo
+tempio verificando che tutto proceda regolarmente.
+~
+~
+~
+~
+253963 128 1000 -1 -1 -1 -1 -1 E
+68 0 10 1d1+699 3d12+10
+57 0
+8 8 1
+Dex: 18
+Spec: 18
+E
+#31532
+Yamazaki ronin fiamme~
+Yamazaki,il Ronin delle Fiamme~
+Una figura vestita di rosso saetta tra le fiamme a una velocita' impressionante!
+~
+Una figura completamente avvolta tra le fiamme..riesci a vedere solo questo. Tra le lingue di fuoco capisci
+che si tratta di un uomo di bassa statura e dalla corporatura esile.Si muove ad una velocita' impressionante,
+tagliando le fiamme stesse con il suo corpo.
+~
+~
+~
+~
+256057 274896257192 10 -1 -1 -1 -1 -1 E
+71 -5 -10 1d1+1100 4d18+15
+53 0
+8 8 1
+Dex: 25
+Spec: 14
+E
+T 31106
+T 31511
+T 31512
+#31533
+sacerdote consiglio~
+Un sacerdote del consiglio~
+Un sacerdote del consiglio e' pronto a difendere la lancia sacra!
+~
+Nonostante la sua eta' sia piuttosto avanzata e' dotato di un'ottima
+agilita' e le sue abilita' magiche sono di gran lunga superiore a
+quelle di qualsiasi altra persona tu abbia mai visto.
+Stringe con determinazione la sua mazza, non ti permettera' di
+profanare il sacro tempio del Celeste Impero!
+~
+~
+~
+~
+58683 128 700 -1 -1 -1 -1 -1 E
+55 0 -5 1d1+799 4d12+13
+46 0
+8 8 1
+Spec: 15
+E
+#31534
+tiratore scelto clan genji~
+Un tiratore scelto del clan Genji~
+Un tiratore scelto del clan Genji e' accovacciato qui con il suo arco di precisione.
+~
+Piccola statura,avvolto nell'uniforme nera Genji, quest'uomo e' accovacciato di fronte alla finestra mentre
+scruta il palazzo del Sultano con il suo mirino di precisione. E' talmente preso e concentrato che non si
+accorge della tua presenza..
+~
+~
+~
+~
+161930 275213451304 -500 -1 -1 -1 -1 -1 E
+50 -10 -10 1d1+1100 4d15+20
+36 0
+8 8 1
+Dex: 25
+Wis: 25
+E
+#31535
+fudo lottatore sumo yokozuna~
+Fudo, lo Yokozuna~
+Fudo,lo Yokozuna del dojo del Sumo si sta allenando nei puntellamenti.
+~
+ENORME! E' l'unica parola che ti viene in mente quando vedi quest'uomo,grande come una montagna. Il suo
+corpo e' un ammasso di grasso e muscoli, che sprigionano una violenza e una forza senza pari.
+Colpisce con violenza un muro di cemento,facendolo vibrare sotto i suoi colpi potentissimi.
+~
+~
+~
+~
+253962 274877907112 100 -1 -1 -1 -1 -1 E
+71 -5 -10 1d1+1400 5d20+20
+56 0
+8 8 1
+Str: 25
+Dex: 8
+Con: 25
+E
+T 31106
+T 31513
+#31536
+maestro goro ho tempio~
+Il maestro di Goro-Ho~
+Il maestro del tempio di Goro-Ho e' in meditazione sospeso nell'aria...
+~
+Alto poco piu' di un metro,dimostra un eta' centenaria. I suoi occhi sono chiusi mentre medita sospeso a un
+metro dal suolo.La sua aura benevola trasmette una saggezza ultraterrena,non ti sorprende che sia adorato
+come un Dio dagli abitanti del Celeste Impero.
+~
+~
+~
+~
+256011 275414782120 900 -1 -1 -1 -1 -1 E
+80 -5 -10 1d1+1300 4d20+25
+58 0
+8 8 1
+Dex: 25
+Int: 25
+Wis: 25
+Spec: 15
+E
+#31537
+monaco guardia~
+Un monaco~
+Un monaco guerriero e' qui, schierato a difesa del segreto del &6Celeste Impero&0!
+~
+Dedica la sua causa alla difesa del segreto, e nessun mortale e' mai
+riuscito a profanarlo. Stringe una lunga arma ad asta e ti assale con
+uno sguardo di assoluta fedelta' alla propria causa negli occhi.
+Non riusciresti ad immaginare una guardia migliore, e subito ti assale
+il desiderio di fuga.
+~
+~
+~
+~
+188474 0 600 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+999 4d14+18
+55 0
+8 8 1
+BareHandAttack: 11
+Dex: 18
+E
+T 31106
+#31538
+drago verde goro ho~
+&2Il Drago Verde di Goro-Ho&0~
+&2Il Drago Verde di Goro-Ho ti fissa con il suo sguardo millenario..&0
+~
+Alto piu' di 10 metri, il Drago Verde di Goro-Ho ti fissa con i suoi occhi guardandoti dal centro della cascata.
+Il suo sguardo e' calmo e saggio,non sembra intenzionato a farti del male. La sua unica determinazione e'
+difendere la sacra reliquia di Goro-Ho..
+~
+~
+~
+~
+256027 274877912232 1000 -1 -1 -1 -1 -1 E
+80 -5 -10 1d1+1900 4d20+25
+45 0
+8 8 1
+Str: 25
+Dex: 25
+Spec: 28
+E
+T 31515
+#31539
+kansuke fabbro celeste impero~
+Kansuke il fabbro del &6Celeste Impero&0~
+Kansuke,il piu' famoso fabbro del Celeste Impero e' seduto qui e ti guarda sorridente.
+~
+Sguardo furbo, da vero commerciante. Kansuke oltre ad essere il fabbro piu' conosciuto del Celeste Impero e' anche
+un astuto parlatore e un ottimo affarista. Bisogna essere in gamba per fare affari con lui!
+~
+~
+~
+~
+134258698 0 300 -1 -1 -1 -1 -1 E
+65 10 10 1d1+1100 1d1+11
+51 0
+8 8 1
+Spec: 0
+E
+#31540
+alchimista uomo~
+Un alchimista sporco e nauseabondo~
+Un uomo puzzolente si trova dietro al bancone mentre prepara un'innovativa pozione.
+~
+Un uomo disgustoso,tutto sporco e ferito dalle esplosioni provocate dalle sue misture.
+Il suo sguardo sbadato e il disordine che lo accompagna ti fanno pensare che non possa essere lui
+l'artefice di queste centinaia di pozioni, eppure questo negozio e' il simbolo della sua
+abilita' e della sua scienza.
+~
+~
+~
+~
+134275082 0 500 -1 -1 -1 -1 -1 E
+65 10 10 1d1+1100 1d1+10
+55 0
+8 8 0
+Spec: 0
+E
+#31541
+vecchietto sorridente~
+Il venditore di anticaglie~
+Un vecchietto sorridente ti accoglie nel suo polveroso negozio mostrandoti la merce.
+~
+Questo vecchietto sembra avere quasi 90 anni, ma la sua vitalita' e la sua allegria lo fanno sembrare
+almeno piu' giovani di 20 anni. Parla in continuazione e ti mostra la sua merce descrivendoti minuziosamente
+ogni piccolo oggetto della sua bottega. Forse puoi fare qualche buon affare con lui..
+~
+~
+~
+~
+134275082 0 600 -1 -1 -1 -1 -1 E
+65 10 10 1d1+1000 1d1+10
+48 0
+8 8 1
+Spec: 0
+E
+#31542
+venditore armature~
+Il venditore di armature~
+Un ometto basso e dallo sguardo avido si muove su e giu' per il negozio spolverando la merce.
+~
+Di bassissima statura,con un ghigno avido e dallo sguardo furbo e intelligente si aggira per il negozio
+spolverando e sistemando le preziose mercanzie di cui e' fornito. Il suo aspetto non ti suggerisce
+nulla di buono
+~
+~
+~
+~
+134217738 0 -200 -1 -1 -1 -1 -1 E
+65 10 10 1d1+1000 1d1+10
+46 0
+8 8 1
+Spec: 0
+E
+#31543
+gilda cacciatori nijimura~
+Nijimura~
+Nijimura,il senpai della Gilda Cacciatori e' qui che sorveglia i beni del clan.
+~
+Alta statura, occhi attenti e svegli e fisico da vero cacciatore. Avra' almeno una cinquantina d'anni,
+ma l'allenamento a cui si e' sottoposto in tutti questi anni gli danno un aspetto integro e in salute
+perfetta.
+~
+~
+~
+~
+157722 275179896872 400 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+1300 4d14+20
+52 0
+8 8 1
+Dex: 25
+E
+T 31526
+T 31527
+T 31528
+#31544
+panda~
+Un panda~
+Un panda dagli occhioni dolci e impauriti e' in un angolo che si lamenta.
+~
+Un animale di grande stazza,simile a un orso con la pelliccia chiazzata di bianco e nero. Il suo sguardo e'
+dolce e impaurito, non sembra preoccupato dalla tua presenza e continua a rosicchiare la sua canna di
+bambu'.
+~
+~
+~
+~
+24714 274877940904 1000 -1 -1 -1 -1 -1 E
+71 10 10 1d1+1100 4d15+30
+70 0
+8 8 1
+E
+T 31516
+#31545
+farfalla gigante~
+Una farfalla gigante~
+La piu' grande farfalla che tu abbia mai visto e' pacificamente poggiata su un tronco...
+~
+Le sue immense ali si agitano in un tripudio di colori, e la sua
+apparenza delicata e' tradita dalle loro dimensioni e dalla potenza
+con cui le muove.
+Rimani estasiato dallo spettacolo offerto dalle sue movenze, e ti
+sorprendi nel chiudere un occhio e ridestarti d'un tratto...
+Maledetta assassina!
+~
+~
+~
+~
+254010 128 -300 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+999 4d18+15
+57 0
+8 8 2
+E
+T 31517
+#31546
+maestosa tigre~
+Una maestosa tigre~
+Una maestosa tigre si muove su e' giu' per la stanza mentre ti guarda ringhiando.
+~
+Poche volte nella tua vita hai visto un animale cosi' bello,il suo pelo color oro lucente e le sue movenze
+feline e aggraziate ti incantano..ma guai a distrarsi, la sua agilita' e la sua ferocia sono fuori dal comune.
+~
+~
+~
+~
+253978 275146342440 0 -1 -1 -1 -1 -1 E
+65 10 -10 1d1+1300 4d16+20
+57 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#31547
+vampiro essere disgustoso rabbioso~
+Un vampiro~
+Un essere disgustoso e rabbioso si scaglia contro di te per succhiare la tua essenza vitale!
+~
+Dal fisico asciutto e resistente come l'acciaio, questa bestia tradisce il suo aspetto semiumano solamente per la
+corporatura. Il suo volto e' contratto dalla rabbia e dall'istinto animalesco che lo porta a bere il sangue
+di ogni creatura che metta piedi nella sua cella.
+~
+~
+~
+~
+254012 274945540138 -1000 -1 -1 -1 -1 -1 E
+80 0 -10 1d1+1600 5d12+30
+63 0
+8 8 1
+Str: 25
+Dex: 25
+E
+T 31518
+T 31519
+T 31520
+#31548
+vampiro bestia succhiasangue~
+Un vampiro~
+Una schifosa bestia succhiasangue ruggisce verso di te e ti attacca!!
+~
+Non riesci piu' a distinguere i tratti di quest'essere umano,trasformato in questa tremenda bestia vampiro
+da chissa' quale arcana maledizione. Provi compassione per questo povero uomo,e contemporamente disgusto
+per la schifosa bestia che e' davanti a te ora.
+~
+~
+~
+~
+188456 274945015848 -1000 -1 -1 -1 -1 -1 E
+80 0 10 1d1+1600 5d12+30
+62 0
+8 8 1
+E
+T 31518
+T 31522
+#31549
+prosituta donna seminuda~
+Una prostituta seminuda~
+Una donna vestita solo di succinti abiti trasparenti cura di apparire piu' bella possibile.
+~
+Questa bellissima ragazza e' attorniata da molti ospiti ricchi e
+famosi nel Celeste Impero. I suoi succinti abiti sono un vistoso
+invito ad approfittare della sua disponibilita', e la trasparenza
+degli stessi potrebbe far storcere il naso a molte benpensanti.
+Certo, tutto ha un prezzo.
+~
+~
+~
+~
+10 0 300 -1 -1 -1 -1 -1 E
+20 19 2 1d1+299 3d4+0
+14 0
+8 8 2
+E
+#31550
+prostituta ballerina danzatrice ragazza~
+Una danzatrice~
+Una ragazza vestita di pochi panni e' lanciata in una danza mozzafiato!
+~
+Agita i suoi fianchi con un'esperienza incredibile per una ragazza
+cosi' giovane, e i suoi tratti delicati la rendono semplicemente
+irresistibile.
+Molti la guardano ammutoliti continuare nella sua danza senza sosta,
+e capisci che potrebbe chiedere loro qualsiasi cifra per non fermarsi.
+~
+~
+~
+~
+32794 0 500 -1 -1 -1 -1 -1 E
+30 17 -2 1d1+299 3d5+0
+26 0
+8 8 2
+E
+T 31525
+T 31524
+#31551
+guardia celeste impero~
+Una guardia dello Shogun del &6Celeste Impero&0~
+Una guardia scelta del Celeste Impero impedisce l'accesso a questa strada.
+~
+Fermo al centro della strada,ti scruta con i suoi occhi severi pronto a segnalare ogni intruso che tenti
+di forzare il blocco. Non ti lascera' passare senza dare l'allarme a tutta la zona!
+~
+~
+~
+~
+2199023509850 274877906984 800 -1 -1 -1 -1 -1 E
+70 0 -10 1d1+1700 3d20+25
+40 0
+8 8 1
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+E
+T 31532
+T 31533
+#31552
+guardia palazzo shogun celeste impero~
+Una guardia dello Shogun del &6Celeste Impero&0~
+Una guardia del Celeste Impero ti avvista e ti attacca!
+~
+Queste guardie difendono la via che porta al palazzo dello Shogun. Sono addestrate ad attaccare a
+vista chiunque metta piede nella zona, quindi se sei abbastanza da vicino da poterle guardare
+significa che sei nei guai..
+~
+~
+~
+~
+2199023482984 412316860584 600 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+1400 3d20+25
+57 0
+8 8 1
+E
+#31571
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 0
+E
+T 31506
+T 31507
+T 31106
+$

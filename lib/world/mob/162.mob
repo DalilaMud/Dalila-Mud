@@ -1,0 +1,222 @@
+#16200
+Moglie~
+La moglie dello Yeti~
+La moglie dello Yeti e' qui in piedi
+~
+Tutto si puo' dire tranne che e' bella, enorme ammasso di peli e molto robusta.
+~
+~
+~
+~
+58 1032 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+500 3d7+6
+22 20
+8 8 2
+E
+#16201
+Gigante delle Nevi~
+Il Gigante delle Nevi~
+Un gigante delle nevi e' qui.
+~
+Grosso, molto grosso e' l'abitante delle grotte nelle montagne di questa regione,
+vive spesso isolato, ed e' per questo che e' molto aggressivo.
+~
+~
+~
+~
+40 1024 -300 -1 -1 -1 -1 -1 E
+40 5 -1 1d1+650 4d8+12
+27 20
+8 8 1
+Str: 18
+StrAdd: 80
+Dex: 8
+Int: 8
+Wis: 12
+Con: 16
+Cha: 8
+E
+#16202
+Pipistrello~
+Un Pipistrello vampiro~
+Un pipistrello vampiro e' qui appeso.
+~
+Un grosso volatile dalle ali nere tendenti al colore dell'oro vive nell'oscurita'
+delle grotte e delle caverne.
+~
+~
+~
+~
+4200 1032 0 -1 -1 -1 -1 -1 E
+25 12 3 1d1+300 2d8+1
+16 20
+8 8 0
+E
+#16203
+Aquila delle nevi~
+L'Aquila delle Nevi~
+L'Aquila delle nevi e' qui che protegge il suo nido.
+~
+E' un animele bellissimo, la sua apertura alare supera i due metri, venerato
+dalle varie popolazioni primitive della zona che quando la vedono gli rendono
+omaggio lasciandogli parte del cacciato, anche di grossa taglia, come cervi,
+lepri ed altri animali selvatici di cui l'aquila si nutre.
+~
+~
+~
+~
+26 1032 0 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+540 2d12+6
+24 20
+8 8 0
+E
+#16204
+Avvoltoio~
+Un'avvoltoio di montagna~
+Un'avvoltoio volteggia nell'aria
+~
+Si nutre di carcasse, di cui va in cerca volteggiando i celi sopra le montagne.
+~
+~
+~
+~
+2106 1032 0 -1 -1 -1 -1 -1 E
+20 14 3 1d1+220 2d9+4
+18 20
+8 8 0
+E
+#16205
+Puma~
+Il Puma dai denti a Sciabola~
+Il tremendo Puma dai denti a Sciabola e' pronto a balzarti addosso!!!
+~
+Simile al puma normale ma di taglia decisamente piu' grossa ha la particolarita'
+di avere due denti di proporzioni smisurateche escono dalla mandibola superiore,
+a forma di sciabola.
+~
+~
+~
+~
+58 1032 0 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+450 2d10+6
+23 20
+8 8 0
+E
+#16206
+Drago Bianco mobxhyphys7~
+&0Il Drago &7Bianco&0 delle &6Nevi&0~
+&0Il Drago &7Bianco&0 delle &6Nevi&0 e' qui che dorme.
+~
+Leggendario Drago Bianco delle Nevi passa molto tempo della giornata a dormire,
+non e' consigliabile svegliarlo, il suo respiro di ghiaccio riesce a gelare e
+a frantumare qualsiasi oggetto o essere vivente gli si trovi davanti.
+~
+~
+~
+~
+90123 285213864 0 -1 -1 -1 -1 -1 E
+50 -10 -10 1d1+1999 15d3+20
+50 0
+4 4 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+Dex: 8
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+Spec: 29
+E
+#16207
+Yeti~
+Lo Yeti~
+Il gigantesco Yeti e' qui.
+~
+Entrato nella leggenda perche' solo pochissimi avventurieri sono riusciti
+a vederlo senza rimetterci la vita, e' molto simile ad un orso ma di
+dimensioni spropositate, molto peloso e con una forza eccezionale.
+~
+~
+~
+~
+65578 1064 0 -1 -1 -1 -1 -1 E
+38 8 -3 1d1+570 2d12+6
+25 20
+8 8 1
+E
+#16208
+dama ghiacci~
+&6La dama dei ghiacci&0~
+&6La bellissima dama dei ghiacci è qui!&0
+~
+Hai di fronte una bellissima donna dai capelli argentati e gli occhi azzurri come il ghiaccio.
+Indossa un vestito leggerissimo di un colore bianco puro e non sembra preoccuparsi 
+minimamente del freddo.
+~
+~
+~
+~
+8362 419430472 0 -1 -1 -1 -1 -1 E
+45 0 -10 1d1+2999 4d10+10
+4 0
+8 8 2
+BareHandAttack: 12
+Str: 8
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+Spec: 5
+E
+T 16200
+#16209
+diavoletto nevi~
+Un diavoletto delle nevi~
+Un piccolo turbine di aria fredda ti viene incontro
+~
+It looks unfinished.
+~
+~
+~
+~
+576460752303652920 1064 0 -1 -1 -1 -1 -1 E
+25 5 0 1d1+349 2d8+1
+0 0
+8 8 0
+BareHandAttack: 3
+Str: 12
+Dex: 18
+Int: 8
+Wis: 8
+Con: 8
+Cha: 8
+E
+T 16201
+#16210
+esploratore peloi~
+L'impavido esploratore~
+Un impavido speleologo peloi sta mappando le caverne
+~
+It looks unfinished.
+Sembra che un giovane coraggioso esponente della gilda peloi abbia deciso di esplorare
+le caverne. In questo momento è tutto intento a tracciare una mappa delle zone che 
+ha già esplorato.
+~
+~
+~
+~
+26 0 0 -1 -1 -1 -1 -1 E
+30 20 0 1d1+499 2d8+6
+0 0
+8 8 1
+BareHandAttack: 14
+Str: 16
+Dex: 18
+Int: 10
+Wis: 12
+Con: 16
+Cha: 10
+E
+$

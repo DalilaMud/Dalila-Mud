@@ -1,0 +1,22 @@
+trigedit 20075
+6  
+/c 
+set iv Il Vuoto
+set cb %self.worn_by%
+if %cb.name% == clive
+halt
+end
+if %cb.name% == %iv%
+halt
+end
+wait 1 s
+osend %cb.name% &cLe ali cominciano a sbattere e tu decolli! Ma... ehi non sai volare tu.. non con questi affari almeno!&d
+oechoaround %cb.name% &c%cb.name% comincia a volare di qua e di la'... non pare saper governare molto bene queste ali!&d
+wait 2 s
+osend %cb.name% &RTi schianti al suolo con un gran botto! Che male!&d
+oechoaround %cb.name% &R%cb.name% si schianta al suolo con un gran botto! Che dolore!&0
+odamage %cb.alias% 500
+~
+/s
+q
+y

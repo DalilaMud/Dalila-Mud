@@ -1,0 +1,17 @@
+trigedit 2631
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.name% != knives
+halt
+end
+oforce %actor.name% say Sei libero
+oechoaround Il Chocobo fa un piccolo inchino e se ne va
+opurge chocobo
+set caricato off
+global caricato
+~
+/s
+q
+y

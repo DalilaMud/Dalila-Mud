@@ -1,0 +1,21 @@
+trigedit 9723
+6  
+/c 
+if %actor.name% == robustissimo
+follow ricercatore
+goto 9829
+eval conta_manovali %conta_manovali%+1
+global conta_manovali
+mgoto %conta_manovali%.robustissimo
+emote arriva tutto trafelato
+follow manovale
+wait 1 s
+Say Titolare %Messer%
+wait 1 s
+Say rientrate
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,254 @@
+#300
+druid Aruncus~
+Aruncus the Druid~
+Aruncus the Druid is walking around here, searching for herbs.
+~
+Aruncus is a tall, skinny druid with a face marked by nature.
+He seems to be in peace with himself and his surroundings.
+~
+~
+~
+~
+262344 8 -500 -1 -1 -1 -1 -1 E
+13 14 6 2d10+160 1d12+3
+11 15000
+8 8 1
+Int: 18
+Wis: 18
+E
+#301
+hermit sorbus~
+Sorbus the Hermit~
+Sorbus the Hermit is sitting here, roasting a rabbit.
+~
+Sorbus bares the marks of a long, hard life in solitude.
+He is dressed in simple clothing and looks like he has little
+or nothing to say.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 18 9 2d7+46 1d5+1
+4 1000
+6 6 1
+E
+#303
+citizen~
+the citizen~
+There is a citizen of Ofcol here glaring at you ... stranger!
+~
+He seems like a nice person with no interest in harming you or others.
+He wears normal, light clothing and has an anonymous face.
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+6 18 8 2d7+71 1d7+1
+5 2000
+8 8 1
+E
+#304
+citizen~
+the citizen~
+There is a citizen of Ofcol here glaring at you ... stranger!
+~
+She seems like a nice person with no interest in harming you or others.
+She wears a minimum of clothing and has big ... eyes.
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+5 18 9 2d6+60 1d6+1
+4 1500
+8 8 2
+E
+#305
+worm Shudde-M'ell~
+Shudde-M'ell~
+Shudde-M'ell the Giant worm of G'harne is guarding his treasure.
+~
+Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,
+The worm is the protector of the treasure of G'harne and has been so
+for as long anyone can remember.
+~
+~
+~
+~
+42 8 -1000 -1 -1 -1 -1 -1 E
+24 10 2 5d10+270 2d10+6
+23 80000
+8 8 1
+E
+#306
+luxan shopkeeper~
+Luxan~
+Luxan the Shopkeeper is here, eager to sell you anything.
+~
+Luxan is dressed in a strange jacket.
+He looks like a mean trader from the outskirts of Midgaard.
+His life is seems to be totally occupied with trading.
+He looks very fit and capable of protecting his goods.
+~
+~
+~
+~
+8207 1048576 400 -1 -1 -1 -1 -1 E
+46 1 -8 25d10+490 6d6+16
+42 760000
+8 8 1
+E
+#308
+keeper innkeeper~
+the Innkeeper~
+An Innkeeper is here waiting for your order.
+~
+The Innkeeper looks skilled in brewing different beers and mixing the
+wierdest drinks known. He also looks very big.
+~
+~
+~
+~
+11 0 -100 -1 -1 -1 -1 -1 E
+33 5 -2 10d10+360 6d4+10
+20 350000
+8 8 1
+E
+#309
+rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+1 20 10 2d6+10 1d4+0
+1 50
+8 8 0
+E
+#310
+Ahzthothekhon mxpma~
+&5Ahzthothekhon, il Delirio di Xhyphys&0~
+Ahzthothekhon, il Delirio di Xhyphys, e' qui e distrugge tutto
+~
+E' una creatura fatta di melma e sostanze in putrefazione.  Il terribile, nero
+e folle potere del Caos lo sorregge!    
+~
+~
+~
+~
+253963 1048576 -1000 -1 -1 -1 1869516954 -1 E
+71 -20 -10 1d1+9999 20d20+40
+68 0
+8 8 0
+BareHandAttack: 5
+Str: 24
+Dex: 21
+Spec: 16
+E
+T 2534
+#311
+cerberus cane msxas~
+&1&xCerberus, il cane di Shaarr&0~
+Cerberus, il terrificante cane tricefalo di Shaarr e' qui pronto ad uccidere
+~
+E' un mostruoso cane delle dimensioni di un pachiderma!  Ha tre teste con le
+quali dilania le vittime prescelte dalla Signora del Dolore
+~
+~
+~
+~
+253963 1048576 -1000 -1 -1 -1 -1 -1 E
+71 -20 -10 20d20+9999 1d1+40
+59 0
+8 8 1
+BareHandAttack: 4
+Str: 24
+Dex: 24
+Spec: 16
+E
+T 2535
+#312
+custode mtxat gigante~
+&6Il Custode della Foreste&0~
+Una specie di gigante fatto di tronchi e' qui!
+~
+E' un colossale essere fatto di materiale vegetale.  I suoi arti sono composti
+da enormi e secolari tronchi: e' il Custode delle Foreste, la sua forza e
+robustezza sono materia di mille leggende.    
+~
+~
+~
+~
+254219 1048576 0 -1 -1 -1 -1 -1 E
+71 -20 -10 1d1+9999 20d20+40
+67 0
+8 8 1
+Str: 25
+Dex: 19
+Spec: 16
+E
+T 2536
+#313
+guardia scelta~
+&7Una guardia dei Pari&0~
+Una guardia scelta e' qui a difesa dei Pari di Elenia
+~
+E' un guerriero enorme, in una splendente armatura bianca.  Il suo compito e'
+quello dei difendere i Pari di Sire Dolmant da qualsiasi minaccia.    
+~
+~
+~
+~
+36066182025175051 137455730728 0 -1 -1 -1 -1 2 E
+65 -10 -8 1d1+2399 4d15+25
+61 0
+8 8 1
+BareHandAttack: 9
+Str: 19
+Dex: 17
+Int: 18
+Wis: 16
+Spec: 3
+E
+T 2550
+T 2551
+#314
+architetto drow~
+Un architetto Drow~
+Questo drow e' famoso per avere costruito molte grandi citta' Drow nel sottosuolo
+~
+Ha l'aspetto infido e malevolo di ogni Drow, ma pare davvero esperto nel suo
+lavoro
+~
+~
+~
+~
+36028797019488266 0 -800 -1 -1 -1 -1 -1 E
+70 15 0 1d1+10000 1d1+5
+48 0
+8 8 1
+E
+#350
+dragon pet~
+the pet dragon~
+Ravan's pet dragon is bouncing around here flapping her cute wings.
+~
+Ravan's pet dragon is about 3 ft. tall with small pointy teeth.
+The small wings are eagerly trying to lift her from the ground,
+but so far they haven't succeeded.
+~
+~
+~
+~
+278667 524424 1000 -1 -1 -1 -1 -1 E
+10 0 0 2d7+131 10d10+0
+9 30000
+8 8 2
+E
+$

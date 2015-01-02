@@ -1,0 +1,20 @@
+trigedit 1633
+6  
+/c 
+* Lista comandi
+wait 1 s
+say Ottima scelta!
+wait 1 s
+emo si apre in un largo sorriso facendo risaltare i pochi denti.
+wait 2 s
+emo sfodera la lunga spada che sfavilla nel buio dell'eterna notte Daresiana.
+wait 1 s
+say Eccola a voi... Un'arma potentissima, mi dole il cuore a lasciarvela...
+wait 1 s
+say Fatene buon uso, la sua potenza sarebbe distruttiva nelle mani di persone sbagliate!
+give spada %actor.name%
+drop spada
+~
+/s
+q
+y

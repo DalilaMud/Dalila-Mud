@@ -1,0 +1,23 @@
+trigedit 31124
+6  
+/c 
+wait 3 s
+say maledetti schifosi troll... Paghero' caro chi mi portera' il loro scalpo!!
+set punto %random.6%
+if %punto% == 1
+emo accarezza la sua sciabola con due dita.
+elseif %punto% == 2
+emo ti scruta dietro i lunghi capelli.
+elseif %punto% == 3
+emo annuisce con un ghigno fastidioso.
+elseif %punto% == 4
+say ..potresti forse essere tu?
+elseif %punto% == 5
+emo fa saltare la sciabola da una mano all'altra.
+elseif %punto% == 6
+say ..vivono nella foce dell'Esidur. Pensateci bene.
+end
+~
+/s
+q
+y

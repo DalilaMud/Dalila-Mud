@@ -1,0 +1,14 @@
+trigedit 1417
+6  
+/c 
+if %lupo% == 0
+halt
+end
+set lupo 0
+global lupo
+oecho &9&xIl lupo ritorna nell'amuleto!&0
+opurge llllp
+~
+/s
+q
+y

@@ -1,0 +1,14 @@
+trigedit 1699
+6  
+/c 
+* Lista comandi
+eval demone %random.5%
+if %demone% == 1
+oecho &1&xUn terrificante Demone esce dal portale!&0
+wait 1 s
+oload mob 536
+end
+~
+/s
+q
+y

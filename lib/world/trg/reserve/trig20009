@@ -1,0 +1,29 @@
+trigedit 20009
+6  
+/c 
+if %actor.vnum% != -1
+halt
+end
+wait 1 s
+osend %actor.name% Non appena raccogli la pietra, essa si tramuta in qualcos'altro...
+if %actor.alias% == lexus
+otransform 20054
+wait 1 s
+oecho &cEcco che dal nulla si materializza Soffio... il messaggero di Therion!&d
+oload mob 20062
+halt
+end
+if %actor.alias% == krog
+otransform 20055
+wait 1 s
+oecho &cEcco che dal nulla si materializza Soffio... il messaggero di Therion!&d
+oload mob 20062
+halt
+else
+otransform 41500
+halt
+end
+~
+/s
+q
+y

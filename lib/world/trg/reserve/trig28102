@@ -1,0 +1,19 @@
+trigedit 28102
+6  
+/c 
+if %actor.alias% == un topo
+  wait2 s
+  say &1Maledetti Topi !!!&0
+  wait 1 s
+  hit topo6
+end
+if %actor.alias% == un gatto
+  wait 2 s
+  say &3 Scio' scioo brutto gattaccio!!! &0
+  wait 1 s
+  mforce gatto6 flee
+end
+~
+/s
+q
+y

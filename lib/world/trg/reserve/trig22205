@@ -1,0 +1,16 @@
+trigedit 22205
+6  
+/c 
+if %actor.rank% != 60
+halt
+end
+wforce %actor.name% emote prende un campanello di cristallo dalla scrivania e lo fa trillare
+wforce gdd mat gcd mforce gcd unlock porta
+wforce gdd mat gcd mforce gcd apri porta
+wait 20 s
+wforce gdd mat gcd mforce gcd chiudi porta
+wforce gdd mat gcd mforce gcd lock porta
+~
+/s
+q
+y

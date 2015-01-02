@@ -1,0 +1,24 @@
+trigedit 12557
+6  
+/c 
+if %stipendio% > 0
+if %amount% > %cifra%
+eval stipendio %stipendio% - 1
+global stipendio
+wait 4
+smile
+wait 5
+Say Grazie per lo stipendio, al vostro servizio %actor.name%
+wait 5
+bow
+else
+wait 5
+say Non mi servono al momento
+wait 5
+drop %amount% coins
+end
+end
+~
+/s
+q
+y

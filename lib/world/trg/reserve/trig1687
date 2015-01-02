@@ -1,0 +1,40 @@
+trigedit 1687
+6  
+/c 
+* Lista comandi
+oecho &2&xL'arma maledetta emette un malsano bagliore verdastro&0
+wait 1 s
+eval sfiga %random.25%
+global sfiga
+switch %sfiga%
+case 1
+oteleport all 1400599
+break
+case 2
+oteleport all 18132
+break
+case 3
+oteleport all 31314
+break
+case 4
+oteleport all 33199
+break
+case 19
+oload mob 536
+oload mob 536
+oload mob 536
+break
+case 20
+oload mob 1637
+oload mob 1637
+oload mob 1637
+break
+default
+wait 1 s
+oecho Fiuu... per stavolta pare non sia successo nulla di terribile...
+break
+done
+~
+/s
+q
+y

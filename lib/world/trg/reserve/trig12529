@@ -1,0 +1,52 @@
+trigedit 12529
+6  
+/c 
+  
+if %self.room% > 1000000 && %self.room% < 2000000
+  if %azione% != on
+    emote decide di tornare in citta'
+    if !%postazione% || !%cella%
+      mgoto 28150
+      say purgami
+    else
+      mgoto %postazione%
+    end
+  end
+end
+   
+if %settata% != on
+  set settata on
+  global settata
+  set attenti on
+  global attenti
+  set azione on
+  global azione
+  eval casual %random.3% + 3
+  wait %casual% s
+  say Eccomi
+end
+if %settata% == on
+  if %azione% != on
+    set direzione %random.4%
+    eval crono %crono% + %direzione%
+    global direzione
+    global crono
+    if %direzione% == 1
+      n
+    elseif %direzione% == 2
+      e
+    elseif %direzione% == 3
+      s
+    elseif %direzione% == 4
+      w
+    end
+    unset direzione
+    if %crono% > 3000
+      mgoto %postazione%
+    end
+  end
+end
+~
+/s
+q
+y

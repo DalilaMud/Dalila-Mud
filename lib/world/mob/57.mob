@@ -1,0 +1,83 @@
+#5700
+drago Azuth~
+Azuth il drago dorato~
+Azuth, il drago di Ardanos.
+~
+Ti trovi davanti ad un enorme drago dorato.
+I suoi occhi freddi come il ghiaccio ti fissano...prega che il suo padrone lo tenga a bada!
+~
+~
+~
+~
+576461852402499594 1090750 -1000 -1 -1 -1 -1 -1 E
+51 -30 10 30d200+1000 30d127+50
+48 0
+8 8 1
+BareHandAttack: 12
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 27
+E
+#5701
+armata elena esercito~
+l'armata dei Mari Occidentali~
+Ecco l'armata dei Mari Occidentali, schierata a difesa di Chyrellos
+~
+Si schierano dinanzi a te centinaia di elmi, pennacchi, stendardi. Cavalieri fanno avanzare
+all'unisono, le loro bestie, bardate a guerra. Un tamburo ritma i passi di questo esercito
+imponente. Incroci sguardi fieri di forti uomini dell'ovest, senza paura e orgogliosi.
+Riesci a sentire solo la terra rombare e ruggire sotto i passi di questi uomini, ma 
+nessuno di loro proferisce parola. Accettano silenziosamente il loro destino di guerrieri,
+pronti a morire.
+~
+~
+~
+~
+288230376151711754 0 0 -1 -1 -1 48299 2 E
+70 20 10 1d1+0 1d1+0
+61 0
+8 8 1
+Spec: 48
+E
+#5702
+esercito armata sender~
+la I armata Sender~
+Davanti a te e' schierata la I armata Sender
+~
+Una folta schiera di uomini valorosi e ben armati e' qui minacciosa,
+disposta ordinatamente lungo una serie interminabile di file.Le loro armature
+scintillano, e sui loro scudi e' impresso a fuoco lo stemma dei Primi e l'effige
+del regno di Sendaria.
+~
+~
+~
+~
+288230376151711754 60 0 -1 -1 -1 48299 8 E
+70 20 10 1d1+0 1d1+0
+38 0
+8 8 0
+Spec: 48
+E
+#5703
+una guardia~
+Una guardia della Torre Oscura~
+&b&7Una guardia della Torre Oscura è qui.
+~
+&b&3 Una possente guardia della Torre Oscura e qui in piedi che ti aspetta.
+~
+~
+~
+~
+262666 301990016 15 -1 -1 -1 2054704567 -1 E
+10 10 8 1d1+200 2d20+5
+100 100000
+8 8 1
+Str: 18
+Spec: 21
+E
+$

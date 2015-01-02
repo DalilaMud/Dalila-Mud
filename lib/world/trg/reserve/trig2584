@@ -1,0 +1,26 @@
+trigedit 2584
+6  
+/c 
+* Lista comandi
+if %go% == 1
+halt
+end
+wait 1
+eval peso %object.peso%+%peso%
+global peso
+if %peso% > 5
+wait 2 s
+mecho &7Il piccione non ce la fa a portare tutto questo peso!&0
+posa all
+set peso 0
+global peso
+halt
+end
+wait 2
+msend %actor.name% Questo e' un piccione viaggiatore, ora devi dirgli da chi deve portare il tuo oggetto
+wait 2
+msend %actor.name% il comando e': vai tizio (***sostituisci tizio con il nome del bersaglio***)
+~
+/s
+q
+y

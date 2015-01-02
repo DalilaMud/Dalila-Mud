@@ -1,0 +1,11 @@
+trigedit 1697
+6  
+/c 
+* Lista comandi
+msend %actor.name% &6&xVieni risucchiato dal vortice!&0
+mechoaround %actor.name% &6&x%actor.name% viene risucchiato dal vento magico!&0
+dg_cast 'teleport' %actor.name%
+~
+/s
+q
+y

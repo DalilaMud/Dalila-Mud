@@ -1,0 +1,13 @@
+trigedit 12604
+6  
+/c 
+eval timer %timer% + 1
+global timer
+if %timer% > 100
+mgoto 2
+mpurge
+end
+~
+/s
+q
+y

@@ -1,0 +1,12 @@
+trigedit 2607
+6  
+/c 
+* Lista comandi
+if %direction% != down
+wait 1 s
+wecho &9&xUn meccanismo fa richiudere il passaggio segrto alle tue spalle&0
+end
+~
+/s
+q
+y

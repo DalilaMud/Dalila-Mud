@@ -1,0 +1,10 @@
+trigedit 2008
+6  
+/c 
+set cap 2000
+global cap
+msend cptifedesilue conteggio
+~
+/s
+q
+y

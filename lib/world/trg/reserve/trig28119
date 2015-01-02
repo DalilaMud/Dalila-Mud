@@ -1,0 +1,31 @@
+trigedit 28119
+6  
+/c 
+wait 1 s
+if %portacovo% == 1
+set portacovo 2
+global portacovo
+set count 0
+global count
+wait 1 s
+%echo% &1Qualcuno esclama '&6Ahh un cliente affezionato! Entrate, entrate!&1'&0 
+wait 1 s
+%echo% &7Uno spioncino si chiude&0
+wait 1 s
+%echo% &7Una porta senza serratura si apre&0
+wait 1 s
+%echoaround% %actor% %actor.name% viene trascinato dentro rapidamente. 
+%send% %actor% &1&xUn braccio ti afferra e ti porta dentro.&0
+wait 1 s
+if %actor.alias% /= uomo
+wpurge uomo6
+else
+wteleport %actor% 28120
+end
+set portacovo 0
+global portacovo
+end
+~
+/s
+q
+y

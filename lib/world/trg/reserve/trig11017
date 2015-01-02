@@ -1,0 +1,10 @@
+trigedit 11017
+6  
+/c 
+%echoaround% %actor% &WCon un possente colpo %actor.name% stacca le corna del demone&0
+%send% %actor% &WCon un possente colpo stacchi le corna del demone&0
+%load% obj 5284
+~
+/s
+q
+y

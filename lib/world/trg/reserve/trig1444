@@ -1,0 +1,13 @@
+trigedit 1444
+6  
+/c 
+if %runa% != 1
+halt
+end
+wait 1
+osend %actor.name% &1&xLa runa e' incandescente! Non puoi toccarla!&0
+oforce %actor.name% posa runa
+~
+/s
+q
+y

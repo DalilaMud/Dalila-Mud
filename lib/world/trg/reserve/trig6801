@@ -1,0 +1,17 @@
+trigedit 6801
+6  
+/c 
+* Lista comandi
+if %speech% == scambio
+if %actor.name% == Faber || %actor.name% ==Xabbu || %actor.name% ==Nameless || %actor.name% == Gabael
+wait 1 s
+wteleport %actor.name% 6849
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

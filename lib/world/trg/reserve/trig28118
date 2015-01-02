@@ -1,0 +1,16 @@
+trigedit 28118
+6  
+/c 
+%echo% &7Toc Toc&0
+%echoaround% %actor% %actor.name% bussa con forza sulla porta&0&0.
+%send% %actor% Bussi con forza sulla porta.
+wait 2 s
+%echo% &6Uno spioncino si apre nell'occhio di pesce inciso sulla porta &0
+wait 2 s
+%echo% &1Qualcuno osserva con sospetto dallo spioncino e dice '&3Torna in mare merluzzo d'acqua dolce!!!&1'&0
+set portacovo 1
+global portacovo
+~
+/s
+q
+y

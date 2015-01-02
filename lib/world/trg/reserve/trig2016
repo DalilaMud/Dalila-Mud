@@ -1,0 +1,25 @@
+trigedit 2016
+6  
+/c 
+set controllino 0
+global controllino
+set puntifede 0
+global puntifede
+set puntigrazia 0
+global puntigrazia
+eval controllo 0
+global controllo
+eval raccolti 0
+global raccolti
+eval condizione 0
+global condizione
+set naltare &7&xAltare di Silue&0
+global naltare
+set altare altaresilue
+global altare
+set burattino burattinosilue
+global burattino
+~
+/s
+q
+y

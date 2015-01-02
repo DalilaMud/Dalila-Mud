@@ -1,0 +1,27 @@
+trigedit 20027
+6  
+/c 
+if %actor.name% == sagat
+wait 1 s
+oechoaround %actor.name% &eL'immondo Martello di Azatoth emette un sinistro bagliore violastro mentre viene impugnato dall'Arcivescovo di Xhyphys&0
+osend %actor.name% &eImpugnando questo martello ti rendi visibile all'Occhio di Azatoth. La follia del Caos Finale riempie la tua mente&0
+wait 1 s
+oforce %actor.name% grida Ph'nglui mglw'nafh Xhyphys R'lyeh wgah'nagl fhtagn
+halt
+else
+wait 1 s
+osend %actor.name% &eLa Follia irrompe nella tua mente come un fiume in piena&d
+oechoaround %actor.name% sembra strano...
+wait 2 s
+osend %actor.name% &eLa visione del Caos Finale distrugge tutti i tuoi pensieri e la tua volonta'&d
+oechoaround %actor.name% sembra davvero strano...
+wait 2 s
+oforce %actor.name% grida Ph'nglui mglw'nafh Xhyphys R'lyeh wgah'nagl fhtagn
+oechoaround %actor.name% va in mille pezzi!
+osend %actor.name% &eIl tuo corpo e la tua mente non possono sopportare questa visione..... addio, F O L L E!&d
+odamage %actor.name% 5000
+end
+~
+/s
+q
+y

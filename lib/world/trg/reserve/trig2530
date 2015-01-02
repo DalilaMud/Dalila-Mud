@@ -1,0 +1,23 @@
+trigedit 2530
+6  
+/c 
+* Lista comandi
+if %evocato% != 0
+halt
+end
+set owner %actor.name%
+global owner
+set evocato 1
+global evocato
+wait 2
+fol %actor.name%
+wait 2
+inch %actor.name%
+say Cosi' sia
+set fol 1
+global fol
+tell %actor.name% I comandi per usarmi sono "fermati" e "seguimi" detti col say
+~
+/s
+q
+y

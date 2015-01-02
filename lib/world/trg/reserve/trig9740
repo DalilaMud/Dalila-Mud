@@ -1,0 +1,22 @@
+trigedit 9740
+6  
+/c 
+if %animazione% == on
+if %actor.name% == %libera%
+wecho Perfetto ora vi trasferisco fuori
+wait 2 s
+wsend %actor.name% Il guardiano ti fa uscire dalla cella... in malo modo.
+wait 1 s
+wteleport %actor.name% 9835
+set animazione off
+global animazione
+unset %libera%
+else
+wecho non ci provare
+end
+else
+end
+~
+/s
+q
+y

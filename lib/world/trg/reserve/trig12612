@@ -1,0 +1,17 @@
+trigedit 12612
+6  
+/c 
+if %actor.name% == %nemico%
+unset stanza
+unset scontro
+unset nemico
+wait 5
+emote gioisce per la cruenta vittoria!
+set azione %azione2%
+global azione
+unset azione2
+end
+~
+/s
+q
+y

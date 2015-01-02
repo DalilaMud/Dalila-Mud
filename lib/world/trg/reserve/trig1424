@@ -1,0 +1,15 @@
+trigedit 1424
+6  
+/c 
+eval pantera %random.20%
+if %pantera% == 1
+wait 2 s
+mpurge apppp
+mecho &9&xIl medaglione della pantera si frantuma!&0
+end
+wait 2 s
+emote ruggisce con rabbia...
+~
+/s
+q
+y

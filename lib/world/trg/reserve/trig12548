@@ -1,0 +1,21 @@
+trigedit 12548
+6  
+/c 
+if %azione% != 0
+eval timer %timer% + 1
+global timer
+if %timer% > 12
+unset timer
+unset pagare
+unset azione
+unset cambio
+unset vnum
+emote si guarda attorno alla ricerca del suo interlocutore
+wait 1 s
+emote e' ora nuovamente disponibile per la vendita
+end
+end
+~
+/s
+q
+y

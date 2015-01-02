@@ -1,0 +1,18 @@
+trigedit 21003
+6  
+/c 
+if %speech% == devo uscire
+if %actor.name% == yaemon || %actor.name% == Kharas || %actor.name% == Belar ||  %actor.name% == dolmant || %actor.name% == Enrique ||  %actor.name% == Mcleod || %actor.name%==Wab || %actor.name%==Aldayur
+wait 2 s
+wsend %actor.name% Ad un tuo cenno una guardia ti fa uscire
+wait 2 s
+wteleport %actor.name% 21260
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

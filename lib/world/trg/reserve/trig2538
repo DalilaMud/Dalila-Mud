@@ -1,0 +1,42 @@
+trigedit 2538
+6  
+/c 
+* Lista comandi
+if %actor.name% != sagat
+halt
+end
+if %giustiziere% != 1
+wait 2
+msend %actor.name% &7&xPer fare giustizia... serve Ahzthothekhon...&0
+halt
+end
+if %arg.vnum% != -1
+wait 2
+msend %actor.name% Non puoi fare questo....
+halt
+end
+set giustiziere 0
+global giustiziere
+mecho &5La stanza si colma di un soffocante gas viola...&0
+wait 2 s
+msend %actor.name% &5La tua mente vacilla mentre percepisci l'immagine di Ahzthothekhon che dilania %arg%&0 
+mat %arg% msend %arg% &5Una creatura di melma e morte viene vomitata dalla terra innanzi a te...&0
+mat %arg% mechoaround %arg% &5Una creatura di melma e morte compare all'improvviso...&0
+mat %arg% mload mob 310
+wait 2 s
+mat mxpma mforce mxpma mgoto %arg%
+mat %arg% mforce mxpma mkill %arg%
+wait 10 s
+mat mxpma mforce mxpma mgoto %arg%
+mat mxpma mforce mxpma kill %arg%
+wait 10 s
+mat mxpma mforce mxpma mgoto %arg%
+mat mxpma mforce mxpma kill %arg%
+wait 20 s
+mat mxpma mecho &5L'orripilante creatura scompare...&0
+mat mxpma mforce mxpma mgoto 28150
+mat mxpma mforce mxpma say purgami
+~
+/s
+q
+y

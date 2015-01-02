@@ -1,0 +1,20 @@
+trigedit 9727
+6  
+/c 
+if %ricerca% == on
+mgoto 9829
+eval conta_manovali %conta_manovali%+1
+global conta_manovali
+mgoto %conta_manovali%.robustissimo
+emote arriva tutto trafelato
+wait 1 s
+Say Titolare %Messer%
+wait 2 s
+Say rientrate
+emote batte il piede impaziente
+else
+end
+~
+/s
+q
+y

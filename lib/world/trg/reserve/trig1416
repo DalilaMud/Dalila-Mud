@@ -1,0 +1,20 @@
+trigedit 1416
+6  
+/c 
+if %lupo% == 1
+wait 1 s
+osend %actor.name% Hai gia' avuto il tuo lupo.. l'hai perso?
+halt
+end
+set lupo 1
+global lupo
+wait 1 s
+osend %actor.name% Non appena indossi l'amuleto senti una strana presenza accanto a te...
+oechoaround %actor.name% &9&xUn magnifico lupo grigio si materializza al fianco di %actor.name%&0
+wait 1 s
+oload mob 543
+oforce llllp foll %actor.name%
+~
+/s
+q
+y

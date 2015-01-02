@@ -1,0 +1,79 @@
+trigedit 2517
+6  
+/c 
+* Lista comandi
+if %actor.clan% != 8
+halt
+end
+if %actor.rank% <= 24
+halt
+end
+wait 2 
+if %speech% == chiudi
+if %close% == 1
+say I cancellata sono gia' chiusi Signore!
+halt
+end
+emote scatta sull'attenti!
+wait 2
+say subito Signore!
+emote si allontana...
+mgoto rfcmsn
+mload obj 574
+mgoto 6847
+emote arriva di corsa...
+close cancellata
+lock cancellata
+wait 2
+emote sbuffa e riparte di corsa!
+mgoto 6846
+emote arriva con affanno..
+close cancellata
+lock cancellata
+wait 2
+emote se ne va fischiettando...
+mgoto rfcmsn
+mat xxxxx posa chiave
+wait 2 s
+mgoto 6682
+emote arriva fischiettando...
+say I Cancelli sono chiusi!
+set close 1
+global close
+end
+if %speech% == apri
+if %close% == 0
+say I cancellata sono gia' aperti Signore!
+halt
+end
+emote scatta sull'attenti!
+wait 2
+say subito Signore!
+emote si allontana
+mgoto rfcmsn
+mload obj 574
+mgoto 6847
+emote arriva di corsa...
+unlock cancellata
+open cancellata
+wait 2
+emote sbuffa e riparte di corsa!
+mgoto 6846
+emote arriva con affanno..
+unlock cancellata
+open cancellata
+wait 2
+emote se ne va fischiettando...
+mgoto rfcmsn
+mat xxxxx posa chiave
+wait 2 s
+mgoto 6682
+emote arriva fischiettando...
+say I cancellata sono aperti!
+set close 0
+global close
+end
+~
+/s
+q
+y

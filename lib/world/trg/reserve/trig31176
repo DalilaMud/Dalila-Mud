@@ -1,0 +1,29 @@
+trigedit 31176
+6  
+/c 
+wait 4 s
+set punto %random.4%
+if %punto% == 1
+emote guarda il cielo e urla le parole: '&5marsor danohari&0'.
+%send% %actor% &1Un dolore lancinante esplode sul tuo petto!!&0
+%echoaround% %actor% &1%actor.name% urla dal dolore quando il suo petto si squarcia!!&0
+dg_cast 'disinteg' %actor%
+elseif %punto% == 2
+emote stringe i pugni e pronuncia le parole: '&5qfuhuq poir&0'.
+mecho Le sue ferite si richiudono a velocita' eccezionale!!
+dg_cast 'heal'
+dg_cast 'heal'
+elseif %punto% == 3
+emote allarga le braccia e pronuncia le parole: '&5kahaqet&0'.
+%echo% &4Improvvisamente un terribile sciame di insetti prende forma nella stanza con un gran frastuono!!!!&0
+mload mob 31175
+mforce sciam kill %actor%
+elseif %punto% == 4
+emote &3urla quando un &5cerchio di energia&3 esplode intorno a lui colpendoti in pieno!&0
+dg_cast 'minute meteor' %actor%
+else
+end
+~
+/s
+q
+y

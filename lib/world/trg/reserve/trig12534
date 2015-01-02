@@ -1,0 +1,10 @@
+trigedit 12534
+6  
+/c 
+mload mob 12601
+mecho vittima Fame:	%fame%
+mforce vittima mgoto 2
+~
+/s
+q
+y

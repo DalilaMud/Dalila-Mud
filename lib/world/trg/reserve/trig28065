@@ -1,0 +1,117 @@
+trigedit 28065
+6  
+/c 
+wait 3 s
+if %key% == ok 
+if %ide% == %actor.name%
+if %speech% == carta
+eval pg3 %random.10%
+global pg3
+emote &3 allunga a %actor.name% un'altra carta coperta. &0
+tell %actor.name% un %pg3% !!
+wait 4 s
+if %banco1% + %banco2% > 18
+say &3 Il banco e' servito!! &0
+set banco3 0
+global banco3
+wait 1 s
+grin
+else
+say &3 Carta per il banco!! &0
+emote &3 prende un'altra carta dal mazzo. &0
+eval banco3 %random.10%
+global banco3
+end
+wait 3 s
+say &3 Ne vuoi un'altra? &0
+unset key
+set key ok1
+global key
+else
+end
+else
+say &3 Lasciamo finire la partita di %ide% per favore!! &0
+end
+else
+end
+if %key% == ok 
+if %ide% == %actor.name%
+if %speech% == stop
+say &3 Ok, %actor.name% ha deciso di fermarsi!! &0
+wait 4 s
+if %banco1% + %banco2% > 18
+say &3 Il banco e' servito!! &0
+set banco3 0
+wait 1 s
+grin
+else
+say &3 Carta per il banco!! &0
+emote &3 prende un'altra carta dal mazzo. &0
+eval banco3 %random.10%
+end
+wait 3 s
+if %banco1% + %banco2% + %banco3% > 16
+say &3 Il banco e' servito!! &0
+set banco4 0
+wait 1 s
+grin
+else
+say &3 Ancora carta per il banco!! &0
+emote &3 prende un'altra carta dal mazzo. &0
+eval banco4 %random.10%
+end
+wait 5 s
+say &3 Vediamo il risultato!! &0
+wait 2 s
+eval pgtot %pg1% + %pg2%
+eval bancotot %banco1% + %banco2% + %banco3% + %banco4%
+unset pg1
+unset pg2
+unset banco1
+unset banco2
+unset key
+unset ide
+mforce %actor.name% emote &x&6 ha totalizzato %pgtot% !!!!! &0
+if %pgtot% > 21
+wait 2 s
+say &3 %actor.name% ha  sballato !!! Il banco vince !!! &0
+halt
+else
+end
+wait 3 s
+say &3 il banco invece ha fatto %bancotot% !!!!! &0
+if %bancotot% > 21
+wait 2 s
+say &3 Il Banco ha sballato!!!! %actor.name% VINCE!!! &0 !!SOUND(gimmee.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &3 Eccoti il premio !!! &0
+give 3 goccia %actor.name%
+halt
+else
+end
+wait 3 s
+if %pgtot% > %bancotot%
+say &x&1 %actor.name% ha VINTO !!!!! &0 !!SOUND(gold.wav)
+mload obj 28060
+mload obj 28060
+mload obj 28060
+wait 4 s
+say &3 Eccoti il premio !!! &0
+give 3 goccia %actor.name%
+else
+say &3 Hai PERSO !!!!! Grazie per il contributo. &0
+end
+else
+end
+else
+say &3 Lasciamo finire la partita di %ide% per favore!! &0
+end
+else
+end  
+~
+/s
+q
+y

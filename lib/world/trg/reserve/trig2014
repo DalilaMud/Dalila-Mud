@@ -1,0 +1,33 @@
+trigedit 2014
+6  
+/c 
+if %raccolti% < %controllo%
+ wait 1
+ drop all
+ get 2 ptofede2
+ if %controllino% == 0
+  if %puntigrazia% >= 2
+   eval puntigrazia %puntigrazia% - 2
+  else
+   eval puntigrazia 0
+  end
+  eval controllino 1
+  global controllino
+ end
+ mat xxxxxx drop all
+ mat %altare% say puntigrazia %puntigrazia%
+ wait 1
+ mat %altare% say puntifede %puntifede%
+ halt
+end
+if %actor.name% == %naltare% || %actor.name% == %burattino%
+wait 1
+ get ptofede
+ eval controllo %controllo% + 1
+ global controllo
+ msend %burattino% parlami...
+end
+~
+/s
+q
+y

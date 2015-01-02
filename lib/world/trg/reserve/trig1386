@@ -1,0 +1,19 @@
+trigedit 1386
+6  
+/c 
+* Lista comandi
+if %actor.name% == Dioniso
+wait 1 s
+eval morteav %random.8%
+if %morteav% == 8
+%echo% &7L'ombra di Dioniso si scioglie in se stessa prima di riuscire a clonarlo!&0
+mgoto 28150
+else
+%load% mob 1368
+%echo% &7L'ombra di Dioniso si accende.. dalle sue forme prende vita una copia del Necrarca!&0
+else
+end
+~
+/s
+q
+y

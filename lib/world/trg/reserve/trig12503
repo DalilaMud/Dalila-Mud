@@ -1,0 +1,20 @@
+trigedit 12503
+6  
+/c 
+eval timer %timer% + 1
+global timer
+if %timer% >= 30000
+  mgoto 28150
+  wait 3 s
+  say purgami
+end
+if %lavoro% == on && %testo% != 0
+  eval random %random.2%
+  if %random% == 1
+    say %testo%
+  end
+end
+~
+/s
+q
+y

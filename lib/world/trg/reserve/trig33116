@@ -1,0 +1,14 @@
+trigedit 33116
+6  
+/c 
+if %actor.vnum% == -1
+if %direction% == north
+wait 5
+wecho &3Jeen il tagliateste urla: Presto finiamo di saccheggiare le rovini prima che ci scoprano!&0
+else end
+end
+end
+~
+/s
+q
+y

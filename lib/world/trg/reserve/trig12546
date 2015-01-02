@@ -1,0 +1,99 @@
+trigedit 12546
+6  
+/c 
+if %actor.level% > 71
+if %speech% == setta
+set 1a 20
+global 1a
+set 2a 25
+global 2a
+set 3a 30
+global 3a
+set 4a 35
+global 4a
+set 5a 40
+global 5a
+set 6a 45
+global 6a
+set 7a 50
+global 7a
+set 8a 55
+global 8a
+set 9a 60
+global 9a
+set 10a 70
+global 10a
+end
+end
+if %speech% == prodotti
+wait 2
+say Ecco la lista delle guardie disponibili:
+say   Livello:     Prezzo:
+say 1- %1a%        22000
+say 2- %2a%        28750        
+say 3- %3a%        37000       
+say 4- %4a%        46750      
+say 5- %5a%        58000
+say 6- %6a%        70750
+say 7- %7a%        85000
+say 8- %8a%        100750
+say 9- %9a%        118000
+say 10- %10a%       157000
+end
+if %azione% == 0
+if %speech% == compro
+set azione compro
+global azione
+wait 2
+say che numero?
+end
+end
+if %azione% == compro
+if %speech% < 11
+if %speech% == 1
+set cambio 22000
+global cambio
+elseif %speech% == 2
+set cambio 28750
+global cambio
+elseif %speech% == 3
+set cambio 37000
+global cambio
+elseif %speech% == 4
+set cambio 46750
+global cambio
+elseif %speech% == 5
+set cambio 58000
+global cambio
+elseif %speech% == 6
+set cambio 70750
+global cambio
+elseif %speech% == 7
+set cambio 85000
+global cambio
+elseif %speech% == 8
+set cambio 100750
+global cambio
+elseif %speech% == 9
+set cambio 118000
+global cambio
+elseif %speech% == 10
+set cambio 157000
+global cambio
+end
+set vnum 1269%speech%
+global vnum
+if %speech% == 10
+set vnum 12690
+global vnum
+end
+wait 3
+say Bene, vi prego di darmi allora le %cambio% coins necessarie per assumere la %speech% guardia in elenco
+set azione pagare
+global azione
+end
+end
+~
+/s
+q
+y

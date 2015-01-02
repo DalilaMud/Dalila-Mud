@@ -1,0 +1,27 @@
+trigedit 2020
+6  
+/c 
+if %actor.name% == %naltare%
+ if %speech% /= crea
+  set %speech%
+  set i 0
+  wait 1
+  while %i% < %crea%
+   eval i %i% + 1
+   mload obj 2037
+   if %puntigrazia% < 100
+    mload obj 2038
+    eval puntigrazia %puntigrazia% + 1
+   end
+  done
+  drop all
+ elseif %speech% /= distruggi
+  set %speech%
+  get %distruggi% ptofede1
+  mat xxxxxx drop all
+ end
+end
+~
+/s
+q
+y

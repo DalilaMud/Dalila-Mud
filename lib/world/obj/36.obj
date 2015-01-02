@@ -1,0 +1,184 @@
+#3600
+armatura fante nero~
+Un'Armatura del Fante Nero~
+Un'Armatura del Fante Nero e' qui.~
+~
+9 512 9
+2 0 0 0 70 70
+13 200 0 0 0 0
+#3601
+armatura fante bianco~
+Un'Armatura del Fante Bianco~
+Un'Armatura del Fante Bianco e' qui.~
+~
+9 1024 9
+2 0 0 0 70 70
+13 200 0 0 0 0
+#3602
+spada fante nero~
+Una spada del Fante Nero~
+La Spada del Fante Nero giace qui.~
+~
+5 512 8193
+0 2 3 10 70 70
+10 100 0 6 0 0
+#3603
+spada fante bianco~
+Una spada del Fante Bianco~
+La Spada del Fante Bianco giace qui.~
+~
+5 1049600 8193
+0 2 4 10 70 70
+10 100 0 8 0 0
+#3604
+armatura torre nera~
+Un'Armatura della Torre Nera~
+Un'armatura fatta coi resti di una Torre Nera e' ammucchiata sul terreno.~
+~
+9 33409 9
+4 0 0 0 70 70
+60 200 0 6 0 0
+A
+5 1
+A
+3 -3
+A
+2 -2
+A
+13 -10
+A
+12 -20
+#3605
+armatura torre bianca~
+Un'Armatura della Torre Bianca~
+Un'armatura fatta coi resti di una Torre Bianca e' ammucchiata sul terreno.~
+~
+9 33857 9
+4 0 0 0 70 70
+60 200 0 1 0 0
+A
+13 4
+#3606
+lancia cavaliere nero~
+La Lancia del Cavaliere Nero~
+La Lancia del Cavaliere Nero e' qui' che sta facendo la ruggine.~
+~
+5 49730 8193
+0 3 3 7 70 70
+10 200 0 4 0 0
+#3607
+lancia cavaliere bianco~
+La Lancia del Cavaliere Bianco~
+La Lancia del Cavaliere Bianco e' qui' che sta facendo la ruggine.~
+~
+5 33858 8193
+0 3 3 7 70 70
+10 200 0 5 0 0
+#3608
+bastone alfiere nero~
+Il Bastone dell'Alfiere Nero~
+Il Bastone dell'Alfiere Nero giace sul terreno.~
+~
+3 577 16385
+1 1 1 93 70 70
+30 200 0 0 0 0
+#3609
+bastone alfiere bianco~
+Il Bastone dell'Alfiere Bianco~
+Il Bastone dell'Alfiere Bianco giace sul terreno.~
+~
+3 1089 16385
+1 1 1 93 70 70
+30 200 0 0 0 0
+#3610
+corona regina nera~
+La Corona della Regina Nera~
+La Corona della Regina Nera e' qui, abbandonata negligentemente sul terreno.~
+~
+9 1098306 17
+2 0 0 0 70 70
+4 300 0 7 0 0
+A
+26 1
+#3611
+corona regina bianca~
+La Corona della Regina Bianca~
+La Corona della Regina Bianca e' qui, abbandonata negligentemente sul terreno.~
+~
+9 1098818 17
+2 0 0 0 70 70
+4 300 0 7 0 0
+A
+26 1
+#3612
+scettro re nero~
+Lo Scettro del Re Nero~
+Lo Scettro del Re Nero e' qui a raccogliere polvere.~
+~
+8 1061442 16385
+0 0 0 0 70 70
+2 300 0 10 0 0
+A
+17 -3
+#3613
+scettro re bianco~
+Lo Scettro del Re Bianco~
+Lo Scettro del Re Bianco e' qui a raccogliere polvere.~
+~
+8 1061954 16385
+0 0 0 0 70 70
+3 300 0 10 0 0
+A
+17 -3
+#3614
+chiave tesoreria reale nera~
+La Chiave della Tesoreria Reale Nera~
+C'e' una sinistra chiave nera qui.~
+~
+18 65548 16385
+3614 0 0 0 70 70
+1 0 0 1 0 0
+#3615
+chiave tesoreria reale bianca~
+La Chiave della Tesoreria Reale Bianca~
+C'e' una luminosa chiave bianca qui.~
+~
+18 65548 16385
+3615 0 0 0 70 70
+1 0 0 1 0 0
+#3616
+coins gold moneta monete nera tesoreria reale~
+Il Tesoro della Corte Nera~
+Ci sono un MUCCHIO di monete qui.~
+~
+20 0 1
+10 0 0 0 100 100
+10 10 0 1 0 0
+#3617
+coins gold moneta monete bianca tesoreria reale~
+Il Tesoro della Corte Bianca~
+Ci sono un MUCCHIO di monete qui.~
+~
+20 0 1
+10 0 0 0 100 100
+10 10 0 1 0 0
+#3665
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 8193
+0 0 0 0 0 0
+0 0 0 1 0 0
+#3666
+elmo cyrgon~
+L'Elmo di Cyrgon~
+Lo splendido Elmo di Cyrgon giace qui in terra.~
+E' fatto tutto di diamante ed emana una luce strana, quasi ipnotica.
+~
+9 259 17
+9 0 0 0 80 80
+0 0 0 45 3 0
+A
+13 10
+$~

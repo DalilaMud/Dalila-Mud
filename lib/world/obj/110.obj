@@ -1,0 +1,215 @@
+#11000
+anello argento sangue~
+Un'anello fatto di &wArgento&0 e &rSangue&0~
+Un'anello fatto di &wArgento&0 e &rSangue&0 e' stato perso qui~
+~
+11 0 3
+0 0 0 0 100 100
+1 0 0 25 0 0
+A
+1 1
+#11001
+bocca inferno~
+&Rla bocca dell'inferno&0~
+&RUna crepa fumante si e' aperta nel terreno&0~
+~
+12 0 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 11015
+T 11025
+#11002
+Lacrima Silue~
+&WUna lacrima di Silue&0~
+&WUna lacrima di Silue&C si e' cristallizata e giace al suolo abbandonata&0~
+~
+12 0 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 11016
+#11003
+cristallo blu~
+Un &wcristallo &Bblu&0~
+Un &wcristallo &Bblu&0 e' per terra.~
+~
+1 1 16385
+0 0 -1 0 100 100
+0 0 0 80 0 0
+A
+4 2
+#11004
+cristallo giallo~
+Un &wcristallo &GGiallo&0~
+Un &wcristallo &GGiallo&0 e' per terra.~
+~
+1 1 16385
+0 0 -1 0 100 100
+0 0 0 136 0 0
+C
+32 0 0 0
+#11005
+cristallo verde~
+Un &wcristallo &VVerde&0~
+Un &wcristallo &VVerde&0 e' per terra.~
+~
+1 0 1
+0 0 -1 0 100 100
+0 0 0 136 0 0
+C
+274877906944 0 0 0
+#11006
+pergamena pulita liscia perdono~
+la pergamena del perdono~
+Una pergamena liscia e pulita e' in terra~
+~
+2 0 1
+100 64 3 28 100 100
+0 0 0 1 0 0
+#11007
+antica potente pergamena~
+un'antica e potente pergamena~
+Una pergamena dall'aspetto antico e' in terra.~
+~
+2 0 1
+10 86 69 97 100 100
+0 0 0 1 0 0
+#11008
+ciocca capelli oro~
+una ciocca di capelli~
+Una ciocca di capelli fini cone la seta e preziosi come l'oro~
+~
+11 2048 8388609
+0 0 0 0 100 100
+0 0 0 104 0 0
+A
+6 4
+#11009
+flauto magico~
+un flauto magico~
+Un flauto magico e' in terra.~
+~
+4 0 16385
+70 3 3 7 100 100
+0 0 0 1 0 0
+#11010
+pozione felicita~
+la pozione della felicita~
+Una pozione &cazzurra&0 e' in terra.~
+~
+10 0 1
+50 64 0 0 100 100
+0 0 0 1 0 0
+#11011
+Corno di richiamo~
+Il corno del richiamo~
+Un corno ornato finemente e'poggiato in terra~
+~
+3 0 16385
+70 1 1 83 100 100
+0 0 0 1 0 0
+#11012
+pozione saziante~
+una pozione saziante~
+Una pozione saziante e' in terra.~
+~
+10 0 1
+1 91 0 0 100 100
+0 0 0 1 0 0
+#11013
+collare ira furibonda~
+Il collare dell'&Rira furibonda&0~
+Un collare dell'aspetto pericoloso e' in terra.~
+~
+11 0 5
+0 0 0 0 15 15
+3 0 0 131 0 0
+T 11037
+T 11038
+T 11039
+A
+18 1
+A
+19 1
+A
+1 1
+C
+16777216 0 0 0
+#11014
+fucina~
+Una fucina~
+Una fucina~
+~
+15 16 0
+100 0 -1 0 100 100
+0 10000 0 1 0 0
+T 11043
+T 11042
+T 11044
+E
+istruzioni~
+Per far funzionare la fucina il comando e' 'fondi'
+ci sono diversi argomenti
+'fondi' da solo non fa nulla
+'fondi accendi' accende la fucina
+'fondi spegni' spegne la fucina
+'fondi <nome pietra>' fa fondere una grezza per ottenere un lingotto.
+La grezza deve essere in inventario.
+Si fonde una grezza per volta.
+Bisogna holdare uno stampo.
+~
+#11015
+acciarino~
+un acciarino~
+Un acciarino e' abbandonato in terra~
+~
+12 0 16385
+0 0 0 0 100 100
+1 8 0 1 0 0
+#11016
+stampo~
+lo stampo per lingotti~
+Uno stampo per lingotti e' in terra.~
+~
+15 0 16385
+30 0 -1 0 100 100
+10 45 0 1 0 0
+T 11045
+T 11046
+#11017
+lingotto mal riuscito~
+un lingotto mal riuscito~
+Un lingotto mal riuscito e' in terra.~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#11018
+pinze fabbro~
+delle pinze da fabbro~
+Delle pinze da fabbro giacciono in terra~
+~
+12 0 16385
+0 0 0 0 100 100
+0 8 0 1 0 0
+#11019
+lingotto incandescente~
+un lingotto incandescente~
+Un lingotto incandescente emana un calore infernale~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#11099
+cassa nascosta invisibile~
+Una cassa nascosta~
+Una cassa fatta di uno strano legno è qui ~
+~
+15 32 0
+4000 1 -1 0 100 100
+5 0 0 163 0 0
+T 5293
+A
+17 -3
+C
+128 0 0 0
+$~

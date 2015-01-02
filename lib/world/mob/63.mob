@@ -1,0 +1,279 @@
+#6301
+giovane ragno~
+un giovane ragno~
+Un giovane ragno si trova sospeso ad un filo proprio sopra di te.
+~
+Sembra giovane e pieno di energie.  Le sue giovani zanne sono appena spuntate.
+  
+~
+~
+~
+~
+262252 1032 0 -1 -1 -1 -1 -1 E
+14 16 5 1d1+50 2d7+4
+10 18000
+8 8 1
+E
+#6302
+yevaud drago usurpatore~
+Yevaud~
+Yevaud, l'Usurpatore di Midgaard e' qui che ringhia malignamente contro di te.
+~
+Vecchio, pieno di scaglie, ma ancora con zanne taglienti.
+~
+~
+~
+~
+3627 1032 -1000 -1 -1 -1 -1 -1 E
+32 8 -2 1d1+550 3d9+7
+27 280000
+8 8 1
+Spec: 30
+E
+#6303
+lupo ragno~
+il ragno lupo~
+Il ragno lupo e' qui che lecca del sangue.
+~
+Il ragno lupo e' terribile, davvero terribile.
+~
+~
+~
+~
+262248 1024 -300 -1 -1 -1 -1 -1 E
+17 13 4 1d1+190 2d7+2
+12 30000
+8 8 1
+E
+#6304
+orco~
+un orco~
+L'orco e' rimasto impigliato nella ragnatela e non riesce a liberarsi.
+~
+Noti un bagliore malvagio nel suo sguardo, ma sembra abbastanza stremato e
+tutto cio' che puo' fare e guardarti e restare immobile dove si trova.    
+~
+~
+~
+~
+10 0 -400 -1 -1 -1 -1 -1 E
+17 12 5 1d1+190 2d7+3
+10 30000
+6 6 1
+E
+#6305
+vespa regina~
+una vespa regina~
+Una vespa regina e' qui che si domanda che sapore tu possa avere.
+~
+Ti lancia uno sguardo raggelante.
+~
+~
+~
+~
+278570 1032 -800 -1 -1 -1 -1 -1 E
+30 7 -1 1d1+500 3d7+6
+30 180000
+8 8 2
+E
+#6306
+ragno servitore~
+un ragno servitore~
+Un ragno servitore cammina qua attorno portando a termine i desideri del suo padrone.
+~
+Un comune ragno servitore.
+~
+~
+~
+~
+262252 1024 -200 -1 -1 -1 -1 -1 E
+15 12 6 1d1+130 2d6+3
+10 20000
+8 8 0
+E
+#6307
+ragno etereo~
+un ragno etereo~
+Un ragno etereo gira qui attorno, passando di continuo da un mondo all'altro.
+~
+Passa continuamente da una realta' all'altra.  Sembra difficile da colpire
+senza armi magiche.    
+~
+~
+~
+~
+76 262246 300 -1 -1 -1 -1 -1 E
+20 11 4 1d1+250 2d8+4
+18 55000
+8 8 1
+E
+#6308
+schiavo umano~
+uno schiavo~
+Uno schiavo umano di Arachnos lavora senza sosta.
+~
+Lo schiavo non ti nota nemmeno, ma combattera' come un guerriero se attaccato.
+Serve l'Imperatrice dei ragni, Arachnos, ma certo non per libera scelta.    
+~
+~
+~
+~
+2124 0 -50 -1 -1 -1 -1 -1 E
+12 13 7 1d1+90 2d5+5
+7 14000
+8 8 1
+E
+#6309
+quasit~
+un quasit~
+Un quasit si dissolve e poi riappare ghignando davanti a te.
+~
+Ha natura demoniaca, ma piu' maligna, se possibile.  Muove i suoi pollici e
+crea dal nulla un tesoro magico!    
+~
+~
+~
+~
+262253 262186 -300 -1 -1 -1 -1 -1 E
+15 12 7 1d1+160 2d6+3
+13 17000
+8 8 1
+Spec: 21
+E
+#6310
+ragno uccello~
+un ragno uccello~
+Un ragno uccello agita davanti a te i suoi possenti artigli.
+~
+Il Ragno uccello ha artigli molto taglienti.
+~
+~
+~
+~
+42 1032 -800 -1 -1 -1 -1 -1 E
+15 12 6 1d1+160 2d6+3
+9 20000
+8 8 1
+E
+#6311
+eremita~
+l'eremita~
+L'eremita e' seduto in terra e ti avverte 'Torna indietro, prima che sia troppo tardi!'
+~
+Un guerriero veterano camuffatto ecco cio' che deve essere la persona di fronte
+a te, almeno a giudicare dalla sua costituzione.    
+~
+~
+~
+~
+2062 1032 750 -1 -1 -1 -1 -1 E
+24 12 2 1d1+340 2d9+4
+18 30000
+8 8 1
+E
+#6312
+custode torrione~
+il custode del torrione~
+Il custode del Torrione ti osserva chiedendosi quanto sia pura la tua anima.
+~
+Senti che, mentre ti trovi di fronte a lui, egli penetra profondamente nella
+tua anima.  Solo a coloro che si mostrano privi di macchia sara' concesso
+restare qui senza timore.    
+~
+~
+~
+~
+2350 1032 1000 -1 -1 -1 -1 -1 E
+31 8 -2 1d1+580 3d9+7
+23 270000
+8 8 1
+E
+#6313
+guardia~
+una guardia~
+La guardia sta, ovviamente, svolgendo il suo lavoro.
+~
+Sembra un individuo piuttosto pigro che sara' facile trovare addormentato
+durante il proprio turno di guardia.    
+~
+~
+~
+~
+72 263176 250 -1 -1 -1 -1 -1 E
+25 10 1 1d1+370 2d10+5
+16 120000
+4 4 1
+E
+#6314
+arachnos ragno imperatrice arxqt~
+Arachnos~
+Arachnos, l'Imperatrice dei Ragni, ti accoglie con un sorriso malvagio.
+~
+E' un bellissimo ragno che indossa una lunga veste ricamata.  Sta provando a
+convicerti affinche' tu divenga uno dei suoi schiavi.  Non sembra possedere i
+pungiglioni velenosi dei comuni ragni, ma, capisci subito che non ne ha
+bisogno.    
+~
+~
+~
+~
+92719 33960 -1000 -1 -1 -1 -1 -1 E
+32 9 -3 1d1+350 3d8+9
+21 300000
+8 8 2
+Spec: 13
+E
+#6315
+ki-rin~
+una Ki-Rin~
+Una Ki-Rin ti sorride benevolmente.
+~
+E' l'ultimo baluardo del bene presente in questo reame.  La sua missione e'
+quella di riuscire a liberare gli schiavi dell'Imperatrice.  E' rimasta
+intrappolata qui da un'eternita' ed ora i malvagi poteri di Arachnos si stanno
+nutrendo dell'intensa energia magica che da essa promana.  Nonostante cio', non
+smettera' mai di combattere il male e continuera' a perseguire il suo scopo in
+qualsiasi modo.    
+~
+~
+~
+~
+26926 1032 1000 -1 -1 -1 -1 -1 E
+26 10 1 1d1+400 4d5+5
+16 110000
+8 8 2
+E
+#6316
+drago verme giovane~
+un giovane verme~
+Un verme senza denti sta giocando qui.
+~
+A guardarlo bene sembra piu' un piccolo drago e ti rattrista il pensiero di
+doverlo uccidere.    
+~
+~
+~
+~
+10 1032 50 -1 -1 -1 -1 -1 E
+33 8 -3 1d1+550 2d12+10
+25 100000
+8 8 1
+E
+#6317
+drago verme anziano~
+un verme anziano~
+Un verme troppo cresciuto ti osserva con aria interrogativa.
+~
+Sembra piuttosto un drago di media taglia, che non deve aver mai ucciso
+nessuno.    
+~
+~
+~
+~
+42 17416 -300 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+1000 4d12+11
+43 1
+8 8 1
+E
+T 1474
+$

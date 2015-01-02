@@ -1,0 +1,19 @@
+trigedit 6611
+6  
+/c 
+* Lista comandi
+if %speech% == devo uscire
+if %actor.clan% == 6 && %actor.rank% >= 17
+wait 2 s
+wsend %actor.name% Ad un tuo cenno una guardia ti fa uscire
+wait 2 s
+wteleport %actor.name% 6812
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

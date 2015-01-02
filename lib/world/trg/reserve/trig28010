@@ -1,0 +1,99 @@
+trigedit 28010
+6  
+/c 
+if %actor.rank% >= 29
+set chek 0
+  
+  if %arg% == difendimi
+    %force% %actor% say Guardie a me!!!
+    rescue %actor.name%
+    wait 3
+    rescue %actor.name%
+    wait 3
+    rescue %actor.name%
+    set chek 1
+  end
+  
+  if %arg% == apri portone
+    %force% %actor% say Guardia aprite il portone del castello.
+    wait 1 s
+    say Come Voi ordinate Sire.
+    wait 1 s
+    bow
+    wait 1 s
+    %echo% Una guardia reale si allontana di corsa
+    mgoto 28149
+    wait 15 s
+    mgoto 28005
+    %echo% Una guardia Reale arriva di corsa
+    west
+    mload obj 28004
+    unlock portone
+    open portone
+    wait 3 s
+    %echo% Una guardia reale si allontana di corsa
+    mgoto 28149
+    wait 15 s
+    mat 28150 drop palazzo
+    mgoto %actor.name%
+    %echo% Una guardia Reale arriva di corsa
+    wait 1 s
+    say Il portone del castello e' aperto Sire.
+    set chek 1
+  end 
+  if %arg% == chiudi portone
+    %force% %actor% say Guardia chiudete il portone del castello.
+    wait 1 s
+    say Come Voi ordinate Sire.
+    wait 1 s
+    bow
+    wait 1 s
+    %echo% Una guardia reale si allontana di corsa
+    mgoto 28149
+    wait 15 s
+    mgoto 28005
+    %echo% Una guardia Reale arriva di corsa
+    west
+    mload obj 28004
+    close portone
+    lock portone
+    wait 3 s
+    %echo% Una guardia reale si allontana di corsa
+    mgoto 28149
+    wait 15 s
+    mat 28150 drop palazzo
+    mgoto %actor.name%
+    %echo% Una guardia Reale arriva di corsa
+    wait 1 s
+    say Il portone del castello e' chiuso Sire.
+    set chek 1
+  end
+  
+  if %arg% == vai via
+    %force% %actor% say Guardia tornate ai vostri alloggi.
+    wait 1 s
+    say Come Voi ordinate Sire.
+    wait 1 s
+    bow
+    wait 1 s
+    %echo% Una guardia reale si allontana di corsa
+    mgoto 28150
+    wait 5 s
+    say purgami
+    set chek 1
+  end
+  
+  if %chek% == 0
+    %send% %actor% >>>---(O.O)--->
+    %send% %actor% Comandi Attivi:
+    %send% %actor% ORDINA apri portone 
+    %send% %actor% ORDINA chiudi portone
+    %send% %actor% ORDINA vai via
+    %send% %actor% ORDINA difendimi
+  end
+end
+  
+~
+/s
+q
+y

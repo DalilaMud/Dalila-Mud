@@ -1,0 +1,15 @@
+trigedit 1476
+6  
+/c 
+wait 2
+osend %actor.name% Il medaglione comincia ad assorbire la tua energia vitale per tramutarla in energia magica!
+set pg %actor.name%
+global pg
+set wear 1
+global wear
+wait 2
+osend %actor.name% Capisci che l'unico modo per interrompere il processo e' appoggiare per qualche istante l'oggetto a terra
+~
+/s
+q
+y

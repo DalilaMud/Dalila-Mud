@@ -1,0 +1,100 @@
+#2301
+topa topona topo topo gigante~
+Una gigantesca topona e' qui nascosta nelle ombre.~
+Una gigantesca topa, probabilmente la madre di tanti altri topi.
+~
+Un topo grande, grigio e parecchio brutto, probabilmente la madre
+di una gran famiglia di suoi simili. Forse non e' cosigliabile 
+restare a lungo in questo posto.
+~
+~
+~
+~
+65610 524288 100 -1 -1 -1 -1 -1 E
+10 20 10 1d1+0 1d1+0
+0 0
+5 5 2
+BareHandAttack: 4
+E
+#2302
+Un piccolo topo grigio~
+Un piccolo topo grigio e' qui che rosicchia qualcosa.~
+Un piccolo topo grigio e' qui che rosicchia qualcosa.
+~
+E' un piccolo topo grigio, sembra alquanto affamato.
+~
+~
+~
+~
+200 0 0 -1 -1 -1 -1 -1 E
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+BareHandAttack: 4
+E
+#2303
+topo~
+Un topo grigio~
+Un topo grigio sta esplorando il suo territorio.
+~
+Non e' per nulla piccolo, anzi e' leggermente piu' grosso
+degli altri, e non sembra avere buon intenzioni.
+~
+~
+~
+~
+65640 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+BareHandAttack: 4
+E
+#2304
+urlatore uomo pirata~
+L'urlatore~
+Un uomo gigantesco e' qui ad urlare a vanvera.
+~
+E' grande, molto grande, ed e' qui che urla di continuo, sembra
+essere questo il suo unico compito. Infatti e' l'urlatore della nave.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#2341
+pirata guardia~
+Una Guardia~
+Un uomo in armatura di cuoio borchiato e' qui vigile.
+~
+It looks unfinished.
+~
+~
+~
+~
+2251801961168906 787456 -250 -1 -1 -1 -1 -1 E
+65 12 -6 30d30+0 4d10+10
+50 0
+8 8 1
+E
+#2389
+pirata anziano gobba vecchio~
+Un anziano con la gobba~
+Un anziano e' qui che fissa il vuoto.
+~
+Vecchio, ricurvo, ormai prossimo a soccombere sotto il peso degli anni.
+Non ha certo l'aspetto della salute, anzi, sembra piu' una mummia.
+~
+~
+~
+~
+201384010 4398046511136 500 -1 -1 -1 -1 -1 E
+65 15 -5 30d8+1000 30d10+10
+46 0
+8 8 1
+BareHandAttack: 13
+E
+$

@@ -1,0 +1,18 @@
+trigedit 9739
+6  
+/c 
+if %speech% == devo entrare
+if %actor.name% == talos || %actor.name% == sadric || %actor.name% == roscellino || %actor.name% == fender || %actor.name% == feanor || %actor.name% == spartakus || %actor.name% == Thief || %actor.name% == Kitiara || %actor.name% == Sarib
+wait 2 s
+wsend %actor.name% Ad un tuo cenno una guardia ti fa entrare
+wait 2 s
+wteleport %actor.name% 9836
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

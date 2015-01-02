@@ -1,0 +1,187 @@
+trigedit 12565
+6  
+/c 
+if %object.name% == prodotto prova
+else
+if %object.name% == buono reale
+mforce %actor.name% junk buono
+wait 5
+mload obj 12555
+mat 3001 drop teso
+mat 3001 get teso
+mat 3001 drop buono
+say Vi rigrazio, Sir %Actor.name%
+else
+if %compro% != on
+if %actor.name% == %1a%
+set pass ok
+global pass
+set vendendo %1%
+global vendendo
+set cassa 1
+global cassa
+end
+if %actor.name% == %2a%
+set pass ok
+global pass
+set vendendo %2%
+global vendendo
+set cassa 2
+global cassa
+end
+if %actor.name% == %3a%
+set pass ok
+global pass
+set vendendo %3%
+global vendendo
+set cassa 3
+global cassa
+end
+if %actor.name% == %4a%
+set pass ok
+global pass
+set vendendo %4%
+global vendendo
+set cassa 4
+global cassa
+end
+if %actor.name% == %5a%
+set pass ok
+global pass
+set vendendo %5%
+global vendendo
+set cassa 5
+global cassa
+end
+if %actor.name% == %6a%
+set pass ok
+global pass
+set vendendo %6%
+global vendendo
+set cassa 6
+global cassa
+end
+if %actor.name% == %7a%
+set pass ok
+global pass
+set vendendo %7%
+global vendendo
+set cassa 7
+global cassa
+end
+if %actor.name% == %8a%
+set pass ok
+global pass
+set vendendo %8%
+global vendendo
+set cassa 8
+global cassa
+end
+if %actor.name% == %9a%
+set pass ok
+global pass
+set vendendo %9%
+global vendendo
+set cassa 9
+global cassa
+end
+if %actor.name% == %10a%
+set pass ok
+global pass
+set vendendo %10%
+global vendendo
+set cassa 10
+global cassa
+end
+wait 2
+mgoto %magazzino%
+put all in 11.scorta
+get all in 11.scorta
+if %self.gold% => %tot%
+if %pass% != ok
+drop all
+end
+mgoto %negozio%
+say farebbero %tot% monete, ma essendo la percentuale in ricezione pari a %valore%...
+wait 2
+eval tot (%tot% * %valore%) / 100
+global tot
+say ...il tutto vale %tot% monete
+wait 3
+give %tot% coins %actor.name%
+unset stock
+unset tot
+elseif %self.gold% < %tot%
+mgoto %negozio%
+wait 2
+say Mi spiace ma non ho abbastanza soldi per pagarvi al momento, messer %actor.name%
+wait 2
+drop all
+unset stock
+unset tot
+set rosso on
+global rosso
+end
+if %rosso% != on
+if %pass% == ok
+mgoto %magazzino%
+say posare
+put all.%vendendo% in %cassa%.scorta
+wait 4
+get all.%vendendo% in %cassa%.scorta
+if %stock% < %astock%
+say stock sotto %astock%
+unset tot
+put all.%vendendo% in %cassa%.scorta
+wait 1
+say prendere
+drop all
+mgoto %negozio%
+eval residuo %astock% - %stock%
+global residuo
+say Vi mancano ancora %residuo% unità per completare lo stock di merce
+elseif %stock% >= %astock%
+say stock sopra %astock%
+if %self.gold% >= %tot%
+drop all
+mgoto %negozio%
+wait 5
+say Avete completato egregiamente il vostro lavoro, eccovi i soldi che vi spettano
+wait 5
+Say Dunque, %pappalto% per cento di %tot%.....
+wait 5
+emote fa un rapido calcolo su un foglietto
+eval tot (%tot% * %pappalto%) / 100
+global tot
+wait 5
+say Ecco a voi %tot% monete
+wait 5
+give %tot% coins %actor.name%
+elseif %self.gold% < %tot%
+put all.%vendendo% in %cassa%.scorta
+drop all
+unset tot
+mgoto %negozio%
+say Mi spiace, ma non ho abbastanza soldi per pagarvi l'appalto
+end
+unset %cassa%a
+end
+end
+end
+end
+end
+unset stock
+unset tot
+unset cassa
+unset rosso
+set nome null
+global nome
+unset pass
+unset residuo
+unset vendendo
+unset timer
+end
+~
+/s
+q
+y

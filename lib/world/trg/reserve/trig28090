@@ -1,0 +1,19 @@
+trigedit 28090
+6  
+/c 
+wait 1 s
+smile
+wait 1 s
+say Salve %actor.name% !!
+wait 1 s
+emote si alza dalla sedia a dondolo e rimescola il contenuto della pignatta
+wait 3 s
+say Che meraviglia! Stufato di Mazzugoru appena pescato! Mai potresti sentire niente di piu' squisito anche tu girassi tutta Daresia! Vuoi favorire?
+wait 6 s
+emote ti porge una scodella di legno nella quale ha versato lo stufato
+wait 2 s
+emote si rimette seduto a giochicchiare con la sua pipa
+~
+/s
+q
+y

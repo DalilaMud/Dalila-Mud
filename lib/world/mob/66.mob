@@ -1,0 +1,2172 @@
+#6600
+dignitario lamorka~
+un dignitario di Lamorka~
+Un Dignitario di Lamorka e' fuori per una passeggiata.
+~
+Un alto nobile con capelli giallo sabbia e' qui che gironzola senza
+un apparente motivo. E' abbastanza fiero delle sue capacita' fisiche
+e della sua abilita' nel combattere e difendere i cittadini della
+citta'.
+~
+~
+~
+~
+1073741897 0 300 -1 -1 -1 -1 -1 E
+25 12 -3 1d1+600 3d5+4
+21 100000
+8 8 1
+Spec: 19
+E
+#6601
+attivatore lamorka~
+l'attivatore~
+L'attivatore del capoguardie di Lamorka e' qui.
+~
+Nothing.
+~
+~
+~
+~
+8202 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+5000 4d12+20
+78 19000
+8 8 1
+Spec: 1
+E
+T 12501
+#6602
+boia~
+il boia~
+Il boia e' qui.
+~
+Il boia e' un uomo molto gentile. Ha una benda nera che gli copre
+l'occhio perso durante una rissa molto tempo fa'. In realta' era
+un pirata che saccheggiava le navi dei ricchi benestanti nei mari
+del nord.
+~
+~
+~
+~
+1073741835 1024 -500 -1 -1 -1 -1 -1 E
+30 7 -9 1d1+700 3d9+13
+17 200000
+8 8 1
+Spec: 20
+E
+T 28130
+#6603
+sacerdote nero~
+un sacerdote della luce e del buio~
+Un sacerdote vestito di scuro e' qui, che regge un candelabro.
+~
+Il bagliore delle candele rivela l'ombra di un individuo
+dall'aspetto scuro e solenne. In una mano tiene un caleidoscopio
+con il quale osserva i movimenti della sua mente.
+~
+~
+~
+~
+1073741835 1032 1000 -1 -1 -1 -1 -1 E
+20 12 -4 1d1+200 2d9+8
+20 30000
+8 8 1
+Spec: 18
+E
+T 6604
+T 6605
+#6604
+sacerdotessa nera~
+una sacerdotessa della luce e del buio~
+Una sacerdotessa vestita di nero e' qui che osserva un calendario.
+~
+Sembra molto impegnata in quello che sta facendo. Si accorge con la
+coda dell'occhio del tuo passaggio e accenna ad un saluto solenne.
+~
+~
+~
+~
+1073741835 1032 1000 -1 -1 -1 -1 -1 E
+20 12 -7 1d1+600 4d8+8
+12 30000
+8 8 2
+Spec: 18
+E
+#6605
+uccellino~
+un uccellino felice~
+Un ombra passa rasente il suolo e qualcosa vola sopra la testa.
+~
+Il misticismo e la filosofia non vanno spesso d'accordo. L'uccello 
+sembra cercare parole d'amore nelle vie della citta'. Ma trova
+solo briciole di pane.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+2 19 9 10d2+10 1d6+0
+2 250
+8 8 0
+E
+#6606
+ratto grigio~
+un ratto grigio~
+Un ratto grigio scuro e' qui seduto nella sua ombra.
+~
+Cerca di nascondersi dalla tua visione, sembra innervosito dagli sguardi.
+~
+~
+~
+~
+73 263168 0 -1 -1 -1 -1 -1 E
+1 20 9 1d1+10 1d4+1
+0 175
+8 8 0
+E
+#6607
+ladruncolo~
+un ladruncolo~
+Un ladruncolo ti gira attorno... che presenza! 
+~
+Hmm...guarda il portafogli!
+~
+~
+~
+~
+1073741896 786432 -600 -1 -1 -1 -1 -1 E
+20 12 1 1d1+200 2d8+8
+19 1100
+8 8 1
+Spec: 14
+E
+#6608
+donna more~
+una donna~
+Una donna con un cesto di more e' qui che canta a squarciagola.
+~
+La donna sta' portando un cesto di more fresche. Ha i capelli
+neri e occhi di un grigio lucente. Al tuo passaggio ti sorride.
+~
+~
+~
+~
+1073741896 0 500 -1 -1 -1 -1 -1 E
+10 12 0 1d1+200 2d7+8
+10 375
+8 8 2
+E
+#6609
+ambulante halfling~
+un ambulante~
+Un venditore ambulante halfling e' qui che saltella gioioso.
+~
+Un piccolo essere con occhi vivaci ti sorride. Veste in modo
+strano e sorride a tutti quelli che sembrano ricchi.
+~
+~
+~
+~
+1073741896 1032 300 -1 -1 -1 -1 -1 E
+15 12 0 1d1+300 3d6+8
+10 250
+8 8 1
+E
+#6610
+mendicante~
+Un mendicante~
+Un mendicante ti allunga un piattello con qualche monetina.
+~
+   Il mendicante sembra venire da altre citta' dell'ovest dove molti
+avventurieri soon costretti a mendicare per strada a causa 
+dell'incapacita' di quei regni.
+~
+~
+~
+~
+4399120252938 0 0 -1 -1 -1 -1 -1 E
+1 20 9 9d2+0 1d4+0
+1 150
+8 8 1
+E
+#6611
+cavaliere guerriero~
+un cavaliere con l'armatura fiammante.~
+Un cavaliere e' qui che racconta ad alta voce le sue storie.
+~
+Ha un'armatura argentea splendente. Le donne si soffermano a guardarlo.
+Le sue storie sembrano proprio inventate.
+~
+~
+~
+~
+1073750027 1024 0 -1 -1 -1 -1 -1 E
+45 8 -10 1d1+1000 4d7+13
+28 15000
+8 8 1
+Spec: 16
+E
+#6612
+gentiluomo~
+un gentiluomo~
+Un gentiluomo ansioso e' qui che aspetta.
+~
+Sembra che ogni sua parola sia rivolta al suo signore. In realta'
+sembra molto piu' attaccato al suo bicchiere di birra.
+~
+~
+~
+~
+1073741834 0 300 -1 -1 -1 -1 -1 E
+15 12 -5 1d1+400 4d6+8
+13 10000
+8 8 1
+E
+#6613
+giovane ragazza~
+una giovane ragazza~
+Una giovane ragazza e' qui in cerca di un marito.
+~
+Ha dei bellissimi occhi e sembra di famiglia ricca. Strano che non 
+abbia ancora accalappiato un uomo.
+~
+~
+~
+~
+1073741834 0 0 -1 -1 -1 -1 -1 E
+10 12 0 1d1+300 3d6+8
+8 8000
+8 8 2
+E
+#6614
+signore anziano simpatico~
+Un anziano signore~
+Un anziano signore sta cercando la via di casa
+~
+Questo simpatico signore deve aver bevuto un tantino troppo in una delle tante
+locande della citta' e ora non riesce a ritrovare la via di casa!    
+~
+~
+~
+~
+1073741896 1024 0 -1 -1 -1 -1 -1 E
+20 12 -2 1d1+200 3d7+8
+14 750
+8 8 1
+E
+T 1480
+#6615
+garzone~
+il garzone del panettiere~
+Il garzone del panettiere e' qui che effettua le sue consegne.
+~
+Ti nota che lo stai guardando con curiosita' e inizia a recitare
+quelle poche strofe di poesia che conosce.
+~
+~
+~
+~
+1073741896 0 600 -1 -1 -1 -1 -1 E
+20 12 -1 1d1+250 3d6+8
+14 2500
+8 8 1
+E
+#6616
+sacerdotessa maestra cyrinic~
+la sacerdotessa maestra dei cyrinic~
+La sacerdotessa maestra dei Cyrinic e' qui davanti a te.
+~
+E' alta, la sua solennita' mista alla sua ormai avanzata eta', ti
+incutono timore ma, allo stesso tempo, rispetto e devozione.
+E' qui davanti a te pronta ad insegnarti le arti antiche dei Cyrinic.
+~
+~
+~
+~
+1073741835 1160 0 -1 -1 -1 -1 -1 E
+100 0 -9 80d10+30000 4d7+5
+97 50000
+8 8 2
+Spec: 7
+E
+#6617
+maestra alcione~
+la Maestra degli  Alcioni~
+La Maestra degli Alcioni appare dall'ombra.
+~
+E' alta, la sua solennita' mista alla sua ormai avanzata eta', ti
+incutono timore ma, allo stesso tempo, rispetto e devozione.
+E' qui davanti a te pronta ad insegnarti le arti antiche degli Alcioni.
+~
+~
+~
+~
+1073741835 1160 0 -1 -1 -1 -1 -1 E
+100 0 -9 80d10+30000 4d7+5
+77 50000
+8 8 2
+Spec: 7
+E
+T 21359
+#6618
+maestro genidian~
+il Maestro dei Genidian~
+Il Maestro dei Genidian ti indica con un dito... poi sorride.
+~
+Sembra un uomo spiritoso, ma che merita profondo rispetto. E'
+il tuo maestro ed e' qui ad insegnarti le antiche arti dei
+Cavalieri Genidian.
+~
+~
+~
+~
+1073741835 1024 0 -1 -1 -1 -1 -1 E
+100 0 -9 80d10+30000 4d7+5
+68 50000
+8 8 1
+Spec: 7
+E
+#6619
+master precettore pandion~
+Il Precettore dei Pandion~
+Il Precettore ti guarda attraverso i suoi occhiali spessi.
+~
+E' vestito in viola. Ha dei profondi occhi chiari e capelli corti,castani.
+I tratti del viso sono affilati e sebbene sembrino molto giovanili ma la presenza di quelle
+orecchie a punta ti invitano a esser cauto, nel giudicare la sua eta' e la sua esperienza.
+~
+~
+~
+~
+1073741835 1032 0 -1 -1 -1 -1 -1 E
+100 0 -9 80d10+30000 4d7+5
+78 50000
+8 8 1
+Spec: 7
+E
+#6620
+oste~
+l'oste~
+L'oste e' qui che prepara da bere e mangiare per i suoi clienti.
+~
+   Manda avanti la taverna da molti anni ormai e conosce i gusti di molta
+gente.  Prova a cenare qui e vedrai che non ti pentirai.    
+~
+~
+~
+~
+1207967754 1024 0 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 5d10+20
+40 1000
+8 8 1
+Spec: 0
+E
+#6621
+ladro pensione~
+un ex-ladro~
+Un vecchio ladro in pensione e' qui che pulisce un bicchiere.
+~
+Ora e' in pensione e passa il suo tempo nel gestire il Nightbreak 
+cafe. Ha un passato non tanto pulito ma la gente ormai lo ha
+dimenticato.
+~
+~
+~
+~
+1207959562 1064 -200 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 5d8+20
+37 1000
+8 8 1
+Spec: 0
+E
+T 6600
+#6622
+martis~
+Martis~
+Martis e' qui che compila l'inventario.
+~
+   Di origini lontane, quest'uomo sembra un grande esperto di pietre grezze e
+le valuta con molta attenzione.    
+~
+~
+~
+~
+36028798227144714 274877908008 600 -1 -1 -1 -1 8 E
+70 0 -10 10d90+10000 4d7+20
+55 1000
+8 8 1
+Spec: 49
+E
+#6623
+lingottaio~
+un lingottaio~
+Il lingottaio e' qui indaffarato a sistemare i preziosi metalli.
+~
+Magro e con i capelli bianchi. Questo vecchio uomo ti saluta con
+un cenno degli occhi. Una voce racconta sia stato radiato dall'ordine
+dei Pandion... ormai molti anni or sono.
+~
+~
+~
+~
+1275068426 1024 -800 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+69 1000
+8 8 1
+Spec: 0
+E
+#6624
+tesoriere~
+Il tesoriere~
+Il tesoriere della citta' e' qui seduto su una piccola montagna di soldi.
+~
+Questo piccolo uomo ha trovato la sua beatitudine.
+~
+~
+~
+~
+1073741834 0 0 -1 -1 -1 -1 -1 E
+30 9 -2 1d1+500 3d8+6
+21 5
+8 8 1
+E
+T 6710
+T 6699
+#6625
+addetto commercio~
+l'addetto al commercio~
+L'addetto al commercio e' qui pronto a servire i suoi clienti.
+~
+Questo ex guerriero e' piccolo ma ben piantato. Ha una strana ed
+ancestrale somiglianza con uno gnomo. Le sue mani sono possenti,
+hmmm.... meglio lasciarlo stare.
+~
+~
+~
+~
+1275068426 1024 0 -1 -1 -1 -1 -1 E
+70 0 -10 90d10+10000 4d7+20
+55 1000
+8 8 1
+Spec: 0
+E
+#6626
+noemi ~
+Noemi~
+Noemi e' qui che lucida i carri esposti.
+~
+   Noemi e' una donna scura di capelli.  Sembra che ami tenersi curata e
+presentabile.  Ha una magnifica gemma nera al collo.    
+~
+~
+~
+~
+1275068426 1032 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+45 100
+8 8 2
+Spec: 0
+E
+#6627
+strega phadela~
+Phadela~
+Phadela e' qui che si specchia in modo quasi maniacale.
+~
+Questa strega viene dal deserto e fa' della superstizione l'oggetto
+della sua fortuna. I suoi occhi scuri ti fissano riflessi dallo specchio
+che tiene in mano. Il turbante che porta sulla testa ti ricordano il suo
+passato esotico.
+Come sia finita in un negozio come questo e' un vero mistero.
+~
+~
+~
+~
+1275068426 1024 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+52 1000
+8 8 2
+Spec: 0
+E
+#6628
+fornaio~
+il fornaio~
+Il &1fornaio&3 ti mostra le specialita' del negozio.&0
+~
+Un tipo piccolo, coperto di farina.
+~
+~
+~
+~
+1207959562 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+40 1000
+8 8 1
+Spec: 0
+E
+#6629
+chimico~
+il vecchio chimico~
+Il &1vecchio chimico&3 e' qui che prepara strane pozioni.&0
+~
+E' appassito come un albero nodoso, ma sembra saggio in modo quasi
+esagerato. Fiale di vetro di tutti colori lo circondano, testimoniando
+della sua conoscenza.
+~
+~
+~
+~
+1275068426 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+49 1000
+8 8 1
+Spec: 0
+E
+#6630
+maga~
+la maga~
+La maga e' qui che vola per il negozio.
+~
+Una vecchia donna coi capelli argentei svolazza e recita fra se'
+Arcane formule.
+~
+~
+~
+~
+1207959562 1032 0 -1 -1 -1 -1 -1 E
+50 0 -10 10d90+10000 4d7+4
+42 1000
+8 8 2
+Spec: 0
+E
+#6631
+mekala siamese cuoco~
+Mekala~
+Mekala e' qui che cucina dei piatti esotici.
+~
+Questa giovane, scura donna e' arrivata da lontane giungle per preparare
+i suoi caldi piatti speziati. Canta una canzone straniera in una bizzarra,
+gutturale lingua.
+~
+~
+~
+~
+1207967755 1024 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+46 1000
+8 8 2
+Spec: 0
+E
+#6632
+armiere thom~
+Thom~
+&1Thom&3 e' qui che spazzola un'armatura.&0
+~
+Il cugino del guildmaster Genidian e' alto sei piedi e mezzo e forse
+pesa trecento libbre. inutile dirlo, ha molti amici. Sta pulendo una
+armatura.~
+~
+~
+~
+1275068426 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+50 1000
+8 8 1
+Spec: 0
+E
+#6633
+maestroarmi armi maestro~
+il Maestro d'Armi~
+Il &1Maestro d'Armi&3 e' qui che affila un pugnale.&0
+~
+E' un piccolo individuo che a prima vista sembra fatto di ferro,
+ma agile come un scoiattolo. Preferisce rimanere solo quando
+l'estro gli suggerisce la creazione di qualche splendida lama.
+Generalmente la gente accondiscende il suo desiderio con piacere.
+~
+~
+~
+~
+1275068426 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+41 1000
+8 8 1
+Spec: 0
+E
+#6634
+vecchia signora~
+una piccola vecchia signora~
+Una piccola &1vecchia signora&3 e' qui.&0
+~
+Sembra annoiata, ma contenta di vederti sperando di vendere
+qualcosa di costoso.
+~
+~
+~
+~
+1275068426 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+20
+59 1000
+8 8 2
+Spec: 0
+E
+#6635
+tordo beffeggiatore uccello~
+un tordo beffeggiatore ~
+Una nero tordo beffeggiatore ti prende in giro.
+~
+Non capisci esattamente come e' fatto... ma riconosci la testa
+dai piedi solo perche' la prima e' in alto e i secondi stanno
+in basso. E' pero' simpatico e saltellandoti intorno imita quello
+che stai facendo.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+1 19 9 1d10+4 1d5+0
+1 150
+8 8 1
+E
+#6636
+avventuriero~
+un avventuriero~
+Un avventuriero si aggira tra le vie.
+~
+   Ha l'aspetto di chi ha fatto un lungo viaggio.  Stanco e sporco.  
+Probabilmente e' in cerca di una locanda dove riposarsi prima di riprendere il
+viaggio.    
+~
+~
+~
+~
+1073742024 0 0 -1 -1 -1 -1 -1 E
+5 16 8 1d1+50 2d4+0
+3 600
+8 8 1
+E
+#6637
+venditore stoffa~
+un venditore di stoffa~
+Un venditore di stoffa e' qui in cerca di affari.
+~
+Il fatto e' che lui e' stato in mille posti, a cercar di vendere la
+sua mercanzia. Quando ti vede ti si avvicina e ti mostra la sua
+roba.
+~
+~
+~
+~
+1073741897 0 0 -1 -1 -1 -1 -1 E
+11 13 7 1d1+110 2d6+2
+7 7800
+8 8 1
+Spec: 22
+E
+#6638
+ragazzo~
+un ragazzo~
+Un ragazzo si aggira nelle strade giocando con i suoi compagni
+~
+Probabilmente sta giocando a nascondarello con gli amici...  Shh non lo
+disturbare o potrebbe venire scoperto!    
+~
+~
+~
+~
+1073741896 0 -40 -1 -1 -1 -1 -1 E
+7 19 9 1d1+20 1d6+0
+6 300
+8 8 1
+E
+#6639
+ragazza ~
+una ragazza scura~
+Una ragazza scura di capelli si aggira qui irradiando gioia di vivere
+~
+Questa piccola ragazza ha un vestito eccellente e cio' ti fa credere
+che deve essere la figlia di un ricco cittadino, forse un commerciante
+o un giudice.
+~
+~
+~
+~
+1073741896 0 0 -1 -1 -1 -1 -1 E
+10 15 7 1d1+149 1d5+5
+9 180
+8 8 2
+E
+#6640
+gatta~
+una gatta~
+Una gatta sta gironzolando qui.
+~
+Sembra grassoccia a causa del buon cibo che mangia. I suoi grandi occhi
+verdi sono fissi su un tordo beffeggiatore, le striature della sua
+pelliccia nero e marron si mimetizzano nell'erba.
+~
+~
+~
+~
+72 1032 0 -1 -1 -1 -1 -1 E
+2 19 9 9d2+0 1d5+0
+2 180
+8 8 2
+E
+#6641
+vecchio mago~
+un vecchio mago~
+Un vecchio mago e' qui che studia la scacchiera.
+~
+La sua barba bianca arriva fin sulle dita dei piedi. La sua fronte e'
+aggrottata in contemplazione ma un sorriso ispirato dal vino increspa
+le sue labbra.
+~
+~
+~
+~
+1073743883 8 0 -1 -1 -1 -1 -1 E
+22 12 4 1d1+290 2d10+4
+15 20000
+8 8 1
+Spec: 15
+E
+#6642
+giovane guerriero~
+un giovane guerriero~
+Un giovane guerriero e' qui nell'ombra.
+~
+Questo individuo muscoloso si esercita, piuttosto graziosamente, in
+pugilato-ombra. E' troppo assorbito per notare che lo osservi.
+~
+~
+~
+~
+1073750027 1032 0 -1 -1 -1 -1 -1 E
+50 0 0 1d1+30000 10d10+20
+37 0
+8 8 1
+Spec: 6
+E
+#6643
+ladro ricercato~
+un ladro ricercato~
+Un ladro ricercato e' qui, camuffato per non farsi riconoscere.
+~
+Non sembra troppo nervoso di essere trovato e brutalmente appeso alla
+forca per i suoi crimini. Si dondola su una sedia con una margherita
+in mano e legge un periodico.
+~
+~
+~
+~
+3221225482 1024 -1000 -1 -1 -1 -1 -1 E
+17 4 5 1d1+180 2d7+7
+15 18000
+8 8 1
+E
+#6644
+sacerdotessa sacrificio~
+Una sacerdotessa sacrificale~
+Una sacerdotessa sta' preparando un animale per sacrificarlo.
+~
+E' occupata a bagnare l'animale con uno speciale unguento. Ti chiede
+di sederti e di stare calmo.
+~
+~
+~
+~
+1073743882 136 0 -1 -1 -1 -1 -1 E
+20 11 4 1d1+150 2d8+3
+20 20000
+8 8 2
+E
+#6645
+mercenario Axel~
+Axel~
+Axel il mercenario puo' procurarti fidate guardie del corpo.
+~
+   Anni e anni di duro mestiere nell'esercito di diversi regni hanno fatto di
+Axel un uomo davvero temibile con conoscenze che potrebbero tornare molto
+utili....  Se si possiedono abbastanza soldi.    
+~
+~
+~
+~
+1073741834 1064 0 -1 -1 -1 -1 -1 E
+50 5 0 1d1+5000 5d5+15
+39 0
+8 8 1
+E
+T 12546
+T 12547
+T 12548
+#6646
+gatto grigio~
+un gatto grigio~
+Un gatto grigio e' qui che gira annusando tutto.
+~
+Sembra vagamente interessato in qualche cosa che i tuoi cinque sensi
+non riescono a percepire.~
+~
+~
+~
+200 1032 0 -1 -1 -1 -1 -1 E
+1 18 9 8d4+300 1d5+0
+0 200
+8 8 1
+E
+T 3501
+#6647
+gatto bianco~
+un grande gatto bianco~
+Un grande gatto bianco si sta annusando.
+~
+E' una bella creatura, con lunghi peli color neve con riflessi dorati
+Provocati dalla luce del sole. I suoi occhi sono chiusi mentre si
+crogiola al sole.
+~
+~
+~
+~
+200 1064 0 -1 -1 -1 -1 -1 E
+4 18 9 4d4+350 1d7+1
+4 250
+8 8 1
+E
+T 3501
+#6648
+macellaio~
+il macellaio~
+Il macellaio mulina la mannaia per tagliare pezzi di carne.
+~
+E' un tipo strano. Sporco di sangue dalla testa ai piedi. Sembra
+annoiato dalla vita e dalla moglie che lo sta aspettando a casa...
+forse la moglie e' quella fatta a fette sul banco...
+~
+~
+~
+~
+1207959563 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+40
+57 1000
+8 8 1
+Spec: 0
+E
+#6649
+guardia sentinella~
+una guardia sentinella~
+La sentinella alle porte della citta' e' qui.
+~
+   Le sentinelle sono per lo piu' volontari che si sono uniti all'esercito per
+servire il loro Regno fino alla morte.  Spesso hanno incarichi poco rischiosi
+ma molto importanti.    
+~
+~
+~
+~
+9730787343 1032 0 -1 -1 -1 -1 -1 E
+60 7 -10 1d1+10000 5d8+13
+40 0
+8 8 1
+Spec: 16
+E
+T 6704
+#6650
+uccellino~
+un piccolo uccellino~
+Un piccolo uccellino e' qui fermo a riposare.
+~
+Il piccolo fermaglio di metallo attorno ad una zampa di questo piccolo
+uccello lo indica come un animale domestico di qualcuno.
+Ti guarda prima con uno occhio e poi con l'altro in modo nervoso,
+pronto a volare verso la liberta'.
+~
+~
+~
+~
+10 1032 0 -1 -1 -1 -1 -1 E
+1 20 9 1d10+2 1d5+0
+1 100
+8 8 0
+E
+#6651
+cornacchia~
+una cornacchia~
+Una cornacchia ti da' il benvenuto con il suo cra cra.
+~
+La cornacchia si pulisce le ali con il becco. Ti guarda e ripete
+all'infinito: CRA CRA CRA.
+~
+~
+~
+~
+138 1032 0 -1 -1 -1 -1 -1 E
+3 15 8 1d1+60 2d4+1
+2 600
+8 8 0
+E
+#6652
+falco gigante uccello~
+un falco gigante~
+Un bianco falco gigante e' qui accanto al suo maestro.
+~
+Il piumaggio di questo falco e' chiaro come la peluria dell'agnello,
+facendo di un bell'animale, ma il curvo becco affilato curvo e talloni
+rostrati ti ricordano le sue abitudini predatrici. Un piccolo anello
+di metallo e' agganciato alla zampa, deve essere l'animale domestico
+di qualcuno.
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+6 14 8 1d1+90 2d6+1
+5 6000
+8 8 0
+E
+#6653
+athos cavaliere guerriero~
+Athos~
+Athos il grande cavaliere sta sorseggiando un bicchiere di buon vino.
+~
+Athos mostra una faccia seria e triste, segno di nobilta'. Ogni 
+tanto dice qualche quieta parola sulla filosofia ma solo quando
+il vino gli scioglie la lingua. Una leggenda racconta che ancora
+oggi qualcuno, o qualcosa, lo stia cercando per vendicarsi.
+~
+~
+~
+~
+1073743883 1028 1000 -1 -1 -1 -1 -1 E
+30 9 0 1d1+500 3d7+7
+24 80000
+8 8 1
+Spec: 25
+E
+#6654
+milady lady winter mago~
+Milady de Winter~
+Una donna stupenda emette un grido appena si accorge della
+tua intrusione.
+~
+Milady de Winter e' snella e drappeggiata in ermellino bianco e
+bene informata nelle vie di incantesimo. Capelli d'oro cadono fino
+alla vita, gli occhi sono blu cyan e allargati dalla rabbia,
+o forse un accenno di paura. Per molto tempo creduta morta, porta
+un dei molti travestimenti ed e' abituata a scartare vive.
+~
+~
+~
+~
+1073741834 9216 -1000 -1 -1 -1 -1 -1 E
+25 11 1 1d1+250 2d10+5
+18 300000
+8 8 2
+E
+#6655
+naga nero guardia guardiano~
+una guardia nera naga~
+Il guardiano nero naga e' qui al freddo.
+~
+Il guardiano naga e' una creatura molto simile al serpente. Ha
+il corpo allungato e la testa di donna. Sembra molto intelligente
+per giudicare se puoi passare o no per andare dal tuo maestro.
+~
+~
+~
+~
+1073741835 1064 -900 -1 -1 -1 -1 -1 E
+50 0 -2 1d4+30000 10d10+20
+34 0
+8 8 0
+Spec: 6
+E
+#6656
+grifone guardia guardiano~
+un guardiano grifone~
+Un enorme grifone e' qui a guardia del suo maestro.
+~
+Ha un petto possente e le sue spalle misurano almeno un metro in
+larghezza. I suoi occhi rossi ti raggelano. Il suo sguardo sembra
+sfidare chiunque si avvicini a lui, come se ti dicesse: solo chi 
+merita puo' entrare qui.
+~
+~
+~
+~
+1073995802 1064 900 -1 -1 -1 -1 -1 E
+50 0 -2 1d4+30000 10d10+20
+39 0
+8 8 0
+Spec: 6
+E
+#6657
+basilisco guardia guardiano~
+un guardiano basilisco~
+Una guardia basilisco evocata dall'etere e' qui a guardia della porta.
+~
+Il guardiano e' immobile con gli occhi di pietra fissi sulla parete
+lontana. Nondimeno, questo rettile, una figura nata dalla mente di una
+saggezza fredda, riconosce abbastanza bene se sei degno di entrare nella
+Gilda dei Cyrinic.
+~
+~
+~
+~
+1073750027 1064 900 -1 -1 -1 -1 -1 E
+50 0 -1 1d1+30000 10d10+20
+48 0
+8 8 0
+Spec: 6
+E
+#6658
+aurea trascendentale~
+un'aurea trascendentale~
+Un'aurea trascendentale e' qui a guardia della torre.
+~
+   Trasparente ai tuoi occhi, questa figura emana una forza incredibile capace
+di spezzare mille catene.    
+~
+~
+~
+~
+1073750027 1064 1000 -1 -1 -1 -1 -1 E
+50 0 -2 1d1+30000 10d10+20
+47 0
+8 8 0
+Spec: 6
+E
+#6659
+primi lamorka guardia~
+Una guardia dei &x&7Primi&0~
+Una guardia dei &WPrimi&g di Sendaria
+~
+Un guerriero bello e forte della famosa guardia di Lamorka
+custodisce accanitamente la pace in citta'.
+~
+~
+~
+~
+36066182025158745 1056 800 -1 -1 -1 -1 8 E
+60 -5 1 1d400+1600 3d15+20
+42 1
+8 8 1
+Spec: 3
+E
+T 6704
+#6660
+capoguardie zedhor~
+Zedhor il comandante della guardia cittadina~
+Il comandante delle guardie Zedhor e' qui.
+~
+    Uomo dalla corporutara possente e maestosa, Zedhor degno figlio di Zoltan e'
+al comando della guardia cittadina. Ogni giorno dispone le sentinelle nei punti
+nevralgici della citta', ogni notte stabilisce i turni di ronda. C'e' chi dice che non ha bisogno di dormire.
+~
+~
+~
+~
+4503609291300874 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 5d12+20
+59 0
+8 8 1
+Spec: 5
+E
+#6661
+mago vecchio cieco~
+un vecchio mago cieco~
+Un vecchio mago cieco e' qui che colloquia con madre natura.
+~
+I suoi occhi vuoti, il colore da lungo perduto, abbandonano l'immensita'
+del cielo e sembrano fissare giusto attraverso te. La sua sanita' mentale,
+anche quella da molto tempo perduta, pur se una volta e' stato un
+individuo eccellente, consiglia che sarebbe bene lasciarlo solo ora.
+~
+~
+~
+~
+1073741839 17825793 -800 -1 -1 -1 -1 -1 E
+13 17 7 1d1+110 2d3+2
+12 40000
+8 8 1
+Spec: 15
+E
+#6662
+lamprey nero qualcosa~
+un nero lamprey~
+Qualcosa si muove nell'acqua.
+~
+Una gigantesca creatura somigliante ad una sanguisuga si muove sotto
+l'acqua delineando i contorni di un lamprey, de pelle lucida e nera.
+La fila di denti che mostra per un istante sopra il bagnasciuga
+suggerisce che questa creatura ora e' particolarmente affamata.
+~
+~
+~
+~
+72 271464 -900 -1 -1 -1 -1 -1 E
+5 17 2 1d1+150 2d8+3
+3 30000
+8 8 0
+E
+#6663
+falena~
+una falena~
+Una piccola falenamoth e' qui che vola.
+~
+La falena, di colore bianco pallido lanuginoso, batte le ali
+Pesantemente sopra alcune vicine felci. Sembra piuttosto innocua.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 20 8 2d6+5 1d4+0
+0 140
+8 8 0
+E
+#6664
+corriere postmaster postino~
+un corriere postmaster~
+Un postino e' qui vigile e attento
+~
+Gli occhi grigi e tesi del corriere ti guardano con una malcelata
+mancanza di interesse. Le cicatrici sulla sua faccia sono un'indicazione
+che ha trovato tempo brutto sulle strade, nulla di quello che gli potresti
+chiedere lo sorprenderebbe.
+~
+~
+~
+~
+1073750027 1064 0 -1 -1 -1 -1 -1 E
+50 6 1 200d1+10000 2d8+3
+26 10
+8 8 1
+Spec: 1
+E
+#6665
+nobile Lamorka~
+un nobile di Lamorka~
+Un nobile di Lamorka e' qui che pensa ai suoi affari.
+~
+Il nobile e' molto alto e sembra proprio assorto dai suoi pensieri.
+~
+~
+~
+~
+1073741896 0 0 -1 -1 -1 -1 -1 E
+30 11 0 1d1+400 4d6+9
+23 30000
+8 8 1
+E
+T 6665
+#6666
+stu~
+Stu~
+Stu il reclutatore e' qui.
+~
+Achhh! Non perdere tempo per lui altrimenti te ne pentirai.
+~
+~
+~
+~
+221 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d4+1 1d4+1
+0 75
+8 8 1
+E
+#6667
+guildmaster peloi Capogilda~
+Il Capogilda Peloi~
+Il Capogilda Peloi e' qui in piedi che ti aspetta.
+~
+E' un uomo molto alto che esprime tutta la saggezza che deve avere dentro
+di se. La sua armatura rispecchia una vita di battaglie e combattimenti.
+E' qui pronto a tramandare le sue abilita' e conoscenze a tutti i novizi che hanno
+deciso di seguirlo.
+~
+~
+~
+~
+1073741835 1032 0 -1 -1 -1 -1 -1 E
+100 0 -9 80d10+30000 4d7+5
+76 50000
+8 8 1
+Spec: 7
+E
+#6668
+guardia peloi~
+una guardia Peloi~
+La guardia Peloi si tocca la barba e ti scruta da cima a fondo.
+~
+   Un uomo simpatico, vestito della sua armatura di cuoio ormai lisa dai
+numerosi combattimenti.    
+~
+~
+~
+~
+1073750027 1064 0 -1 -1 -1 -1 -1 E
+50 0 -5 100d10+3000 10d10+20
+44 0
+8 8 1
+Spec: 6
+E
+#6669
+camilla receptionist~
+Camilla la receptionist~
+Camilla la receptionist e' qui che ti sorride.
+~
+Osservi che il suo sguardo cela un velo di stanchezza. Sembra demotivata
+dallo scarso afflusso di clienti e dai costi elevati dell'attivita'.
+~
+~
+~
+~
+1073801243 40 900 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 2d8+32
+29 0
+8 8 2
+Spec: 4
+E
+T 12500
+T 13
+T 14
+#6670
+Hawke~
+Hawke il mercante~
+Hawke,il vecchio mercante sta frugando in un armadio.
+~
+   Ha passato parecchi anni a girovagare in lungo e in largo per tutto il mondo
+conosciuto, coprando e vendendo ogni genere di mercanzia.  Poi col tempo si e'
+stabilito qui a Lamorka dove Re Otak gli ha affidato l'arduo compito di gestire
+questo negozio.    
+~
+~
+~
+~
+1207959562 1024 400 -1 -1 -1 -1 -1 E
+100 12 1 1d1+30000 2d8+8
+51 0
+8 8 1
+Spec: 0
+E
+#6671
+Angelica ragazza~
+Angelica~
+Una ragazza bionda e minuta e' qui.
+~
+   Una raggaza dai modi gentili e rassicuranti.  Non bella ma particolare.  Il
+suo sguardo ti rincuora e ti fa dimenticare per un minuto perche' sei qui.    
+~
+~
+~
+~
+1207984138 1064 890 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+30000 5d10+20
+31 0
+8 8 2
+Spec: 0
+E
+#6672
+ragazzo garzone Gigo~
+Gigo~
+Gigo il garzone del negozio e' qui.
+~
+   Fisico magro e agile sicuramente dovuto al fatto di dover rincorrere animali
+per tutta Lamorka.    
+~
+~
+~
+~
+1073741834 1024 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 6d10+20
+73 0
+8 8 1
+Spec: 0
+E
+#6673
+vestale~
+una vestale~
+Una vestale del Tempio e' qui per servirti.
+~
+   Una tunica bianca e un paio di sandali sono gli unici possedimenti di questa
+donna che ha donato la sua vita per aiutare i giovani avventurieri.    
+~
+~
+~
+~
+1207975946 1024 1000 -1 -1 -1 -1 -1 E
+50 12 0 1d1+500 4d6+8
+29 0
+8 8 2
+Spec: 0
+E
+#6674
+spazzino~
+uno spazzino~
+Uno spazzino e' qui per ripulire la citta'.
+~
+   Svolge il suo lavoro col sorriso sulle labbra.    
+~
+~
+~
+~
+1073741897 1024 0 -1 -1 -1 -1 -1 E
+10 15 3 1d1+150 3d4+3
+7 0
+8 8 1
+E
+#6675
+Nobile Elfo~
+Nobile Elfo~
+Un Nobile Elfo si aggira per le vie guardandosi attorno.
+~
+Vestito di una lunga tunica e di un mantello bianco con rune argentate 
+quest'elfo ha un'espressione rilassata mentre guarda
+la vita frenetica dei cittadini umani scorrere veloce.
+~
+~
+~
+~
+8200 0 400 -1 -1 -1 -1 -1 E
+30 10 2 1d1+199 1d1+4
+18 0
+8 8 1
+E
+#6676
+Nuovo Cittadino Elfo~
+Un Nuovo Cittadino Elfo~
+Un giovane elfo da poco arrivato in citta' si aggira per le vie.
+~
+Un Elfo alto e slanciato dai lunghi capelli biondi e occhi celesti cerca di 
+abituarsi ai ritmi della citta'.
+~
+~
+~
+~
+8200 0 300 -1 -1 -1 -1 -1 E
+20 12 6 1d1+159 1d1+5
+17 0
+8 8 1
+E
+#6677
+bambino~
+Un bambino~
+Un bambino si aggira per la citta' con la faccia sorridente.
+~
+Questo giovane bambino e' qui che cerca i suoi amichetti per giocare. Ha
+un'espressione allegra e spensierata propria dei bambini.
+~
+~
+~
+~
+8 0 500 -1 -1 -1 -1 -1 E
+5 20 10 1d1+29 1d1+0
+3 0
+8 8 1
+E
+#6678
+giovane coppia~
+Una giovane coppia~
+Due giovani si guardano negli occhi con aria sognante.
+~
+Una coppia di adolescenti innamorati colora la citta' con aria di primavera. 
+Nei loro sguardi si legge la speranza di amore eterno.
+~
+~
+~
+~
+8200 0 300 -1 -1 -1 -1 -1 E
+30 10 10 1d1+199 1d1+5
+17 0
+8 8 0
+E
+#6679
+gruppetto ragazzi~
+Un gruppetto di ragazzi~
+Un gruppetto di ragazzi gira per la citta' facendo un po' di confusione.
+~
+Un gruppo di ragazzi e ragazze che girano per le strade della citta'. 
+Scherzano, si divertono e vivono la loro gioventu' appieno.
+~
+~
+~
+~
+40968 0 150 -1 -1 -1 -1 -1 E
+40 5 10 1d1+599 3d10+10
+28 0
+8 8 0
+E
+#6680
+magazziniere~
+un magazziniere~
+Il solerte magazziniere dell'equipaggiamento e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+9865003018 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 10d10+20
+69 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6681
+manovale~
+un manovale~
+Un manovale e' qui al lavoro.
+~
+It looks unfinished.
+~
+~
+~
+~
+253962 1064 0 -1 -1 -1 -1 -1 E
+100 0 -10 1d1+30000 10d10+20
+65 0
+8 8 1
+Str: 25
+Dex: 25
+Spec: 40
+E
+#6682
+magazziniere~
+un magazziniere~
+Il magazziniere delle armi e' qui per servirti.
+~
+It looks unfinished.
+~
+~
+~
+~
+9865003018 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+30000 5d5+20
+92 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6683
+manovale~
+un manovale~
+Un manovale e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+1073741834 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+30000 5d5+20
+71 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6684
+magazziniere~
+un magazziniere~
+L'attento magazziniere carpentiere e' qui che sistema la merce.
+~
+It looks unfinished.
+~
+~
+~
+~
+9865003018 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+30000 5d5+20
+90 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6685
+manovale~
+un manovale~
+Un manovale e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+1073741834 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+30000 5d5+20
+77 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6686
+magazziniere~
+un magazziniere~
+Un magazziniere con ago e filo e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+9865003018 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 5d5+20
+87 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6687
+manovale~
+un manovale~
+Un manovale e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+1073741834 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 5d5+20
+56 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6688
+magazziniere~
+un magazziniere~
+Un magazziniere grassoccio e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+9865003018 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 5d5+20
+75 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6689
+manovale~
+un manovale~
+Un manovale e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+1073741834 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 5d5+20
+94 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6690
+magazziniere~
+un magazziniere~
+Un magazziniere sta maneggiando pericolosamente una pozione.
+~
+It looks unfinished.
+~
+~
+~
+~
+9865003018 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 5d5+20
+75 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6691
+manovale~
+un manovale~
+Un manovale e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+1073741834 1032 0 -1 -1 -1 -1 -1 E
+100 0 0 1d1+10000 5d5+20
+91 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#6692
+passante guardiastabber~
+Un passante incappucciato~
+Questo passante ha l'aria di essere molto attento a cio' che gli succede intorno
+~
+Porta un cappuccio ed un mantello, ha l'aria poco raccomandabile, eppure
+qualcosa nel suo sguardo nobile ti lascia intendere che non e' un criminale...    
+~
+~
+~
+~
+36028798629830745 786432 400 -1 -1 -1 -1 8 E
+60 -5 0 1d1+1700 3d15+20
+38 0
+8 8 1
+Str: 16
+Dex: 18
+Int: 16
+Wis: 16
+Spec: 46
+E
+#6693
+marzio segretario~
+Marzio, segretario reale~
+Marzio, il Segretario Reale di Sendaria e' qui per aiutarti.
+~
+It looks unfinished.
+~
+~
+~
+~
+36028797019217930 274877907976 0 -1 -1 -1 -1 -1 E
+100 -30 2 1d1+0 1d1+0
+77 0
+8 8 1
+E
+T 6683
+#6694
+elfo giovane guardiastabber~
+Un giovane elfo~
+Un giovane e furtivo elfo ti scruta
+~
+Questo elfo pare guardare tutti con molta attenzione.. troppa attenzione.
+~
+~
+~
+~
+36028798629830745 2199023554560 800 -1 -1 -1 -1 8 E
+60 -10 0 1d1+1800 4d11+15
+50 0
+8 8 1
+Str: 14
+Dex: 21
+Int: 18
+Wis: 18
+Spec: 46
+E
+#6695
+guardia cancelli guardiasentinel~
+Una guardia dei &7&xPrimi&0~
+Una guardia dei &7&xPrimi&0 presidia questo luogo con sguardo fiero ed impassibile
+~
+E' grossa e ben corazzata. Farai bene a non fare il furbo in sua presenza!
+~
+~
+~
+~
+36028798629699611 4096 800 -1 -1 -1 -1 8 E
+60 -5 -5 1d1+1800 3d15+20
+42 0
+8 8 1
+BareHandAttack: 10
+Str: 18
+Dex: 15
+Spec: 45
+E
+#6697
+Ciccio~
+Ciccio~
+Ciccio
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+6 6 0
+E
+#6698
+cavalleria dragoni sendaria darnos~
+&1&xla Cavalleria dei Dragoni di Sendaria&0~
+La &1&xCavalleria dei Dragoni di Sendaria&0 pattuglia la zona.
+~
+I cavalieri sorridono impettiti dai loro maestosi stalloni.
+Portano divise rosse su cui e' raffigurato lo stemma di Sendaria
+unito all'argenteo puledro simbolo del Duca di Darnos, e i loro
+elmi argentati scintillano al sole.
+~
+~
+~
+~
+35184372342811 1064 0 -1 -1 -1 -1 -1 E
+35 2 -10 1d1+650 3d12+12
+31 0
+8 8 2
+Spec: 3
+E
+#6699
+ubriaco vecchio~
+un vecchio ubriaco~
+Un vecchio ubriaco e' qui disposto a straparlare.
+~
+   Sembra brillo ma forse potresti ricavare qualche utile informazione se gli
+offri una birra.    
+~
+~
+~
+~
+1073741834 1024 0 -1 -1 -1 -1 -1 E
+10 12 0 1d1+100 3d7+4
+8 0
+8 8 1
+E
+#6700
+vecchio ~
+un vecchio ricurvo~
+Un vecchio ricurvo e' qui che passeggia.
+~
+   Un saggio sorriso illumina il suo volto rugoso.  Si appoggia ad un lungo
+bastone per riposare le sue stanche ossa e ti guarda, divertito dalla tua
+curiosita'.  Porta la luce nel buio delle lunghe e fredde notti.  Porta il buio
+quando il giorno illumina la sua bella citta' Infila una mano nel suo grigio
+saio, prende un pezzetto di tabacco ed inizia a masticarlo sereno.    
+~
+~
+~
+~
+72 1032 600 -1 -1 -1 -1 -1 E
+15 10 0 0d0+400 2d10+10
+8 0
+8 8 1
+E
+T 6701
+T 6702
+#6701
+Cirius~
+Cirius il Prelato~
+Cirius il Prelato sta studiando il passare delle ore.
+~
+   Una cintura d'argento stringe alla vita la sua tunica di cotone bianco.  
+Bianco il suo copricapo in segno di pace tra le mani stringe un campanello
+d'oro con cui segna il trascorrere del tempo nel regno.    
+~
+~
+~
+~
+10 1032 700 -1 -1 -1 -1 -1 E
+40 12 -3 1d1+500 2d9+8
+23 0
+8 8 1
+E
+#6702
+Riwan~
+Riwan~
+Riwan l'informatore e' qui.
+~
+   E' un uomo dall'aspetto piacevole anche se non molto alto.  Ha capelli scuri
+e occhi nerissimi, le sue grandi mani si aprono in segno di aiuto e di
+soccorso.  Indossa un delicato corsetto ricamato sulle tinte del verde.  
+Quest'uomo e' senza dubbio un membro della nobile Stirpe delle Guide un tempo
+temuti e rispettati ma quasi scomparsi a causa delle incessanti guerre verso il
+loro ricco e piccolo popolo.    
+~
+~
+~
+~
+1073741834 1024 1000 -1 -1 -1 -1 -1 E
+50 10 10 1d1+1000 5d5+10
+42 0
+8 8 1
+E
+T 6601
+#6703
+garzone macellaio~
+il garzone del macellaio~
+Il garzone del macellaio si muove rapidamente dietro al bancone.
+~
+   Il garzone che aiuta il macellaio nel suo duro lavoro e' un ragazzo
+giovane e rude. Un grande grembiule di tela grezza copre il suo corpo
+forte. Corre fra il bancone e i grossi contenitori con il ghiaccio
+che servono per conservare la carne fresca, prima che venga cucinata.
+Rivolgiti pure a lui e ti servira' celermente.
+~
+~
+~
+~
+1207984139 0 0 -1 -1 -1 -1 -1 E
+70 0 -10 10d90+10000 4d7+40
+51 0
+8 8 1
+Spec: 0
+E
+#6704
+Tanzio rivenditore~
+Tanzio~
+Tanzio il rivenditore ti sorride benevolo mostrandoti le qualita' della sua merce.
+~
+Il volto pacifico e' appena segnato da qualche leggera ruga, i
+suoi capelli sfumano in bianco sulle tempie e le sue mani capaci
+sono costantemente indaffarate a controllare la bonta' di un pacco
+recentemente arrivato.
+~
+~
+~
+~
+18014399784550410 0 1000 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+29999 30d30+30
+41 0
+8 8 1
+Spec: 0
+E
+#6710
+prova~
+prova~
+nessuno
+~
+   Alto, grosso e forte, Osimodo e' secondino come lo era suo padre e suo
+nonno....  E il nonno si suo padre prima ancora...  E il nonno di suo nonno
+prima ancora...  E....  Hai capito insomma....  E' uno tosto.    
+~
+~
+~
+~
+122891 274877908008 0 -1 -1 -1 -1 6 E
+50 0 0 1d1+30000 10d10+20
+50 0
+8 8 1
+Spec: 37
+E
+#6767
+tazio braccio pesante negoziante~
+Tazio Braccio Pesante~
+&1&xTazio Braccio Pesante&0 si aggira per il negozio
+~
+   Un uomo imponente anche se l'eta' mostra i suoi segni.  Le braccia sono
+davvero enormi ma...  Possibile?  Due soli colpi per abbattere una quercia
+secolare?  Hai qualche dubbio ma non importa certamente Joe la sa lunga in
+fatto di lavorazione del legno!    
+~
+~
+~
+~
+576460753511637002 274877940768 800 -1 -1 -1 -1 -1 E
+70 0 -5 1d1+1500 10d30+12
+52 0
+8 8 1
+Spec: 50
+E
+#6770
+fantoccio~
+un fantoccio di legno~
+Un Fantoccio di legno e' qui animato da forze magiche.
+~
+   E' stato costruito con legno di ciliegio.  Alcune rune sono state disegnate
+sul torso con inchiostro di china.  Ha quattro braccia e quattro gambe che
+agita vorticosamente.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 19 9 1d1+10 1d1+0
+1 0
+8 8 0
+E
+T 6770
+#6771
+fantasma minatore~
+un fantasma minatore~
+Il Fantasma di un Minatore e' qui che suda.
+~
+   Forse ha scambiato questo luogo per una miniera oppure non si e' accorto di
+esser passato a miglior vita.  Comunque instancabilmente continua il suo
+lavoro.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+1 19 9 1d1+10 1d5+1
+1 0
+8 8 0
+E
+T 6771
+#6772
+fantasma fabbro~
+un fantasma fabbro~
+Il Fantasma di un Fabbro e' qui che sonnecchia.
+~
+   Tiene con la mano Destra l'ombra di un martello e fissa in continuazione una
+pesante incudine sospesa nell'aria.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+2 18 9 1d1+20 1d1+1
+2 0
+8 8 0
+E
+T 6772
+#6773
+fantasma gioielliere~
+un fantasma gioielliere~
+Il Fantasma di un Gioielliere e' qui seduto in cima al cumulo.
+~
+E' elegantemente vestito con abiti di stoffa pregiata.
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+2 18 9 1d1+20 2d3+1
+2 0
+8 8 0
+E
+#6774
+fantasma architetto~
+un fantasma architetto~
+Il Fantasma di un Architetto e' qui che misura.
+~
+   Indossa una lunga tunica grigia e una matita appoggiata all'orecchio
+sinistro.  Ma il suo sguardo e' quello di un essere che ha perso il senno.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+1 18 9 1d1+20 3d2+0
+1 0
+8 8 0
+E
+T 6773
+#6775
+fantasma cuoco~
+un fantasma cuoco~
+Il Fantasma di un Cuoco e' qui che assaggia un brodo immaginario.
+~
+   Grasso a dismisura occupa quasi tutta la stanza.  Nessuno ha mai assaggiato
+le sue portate, visto che mangia tutto cio' che passa sui suoi fornelli.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+3 17 8 1d1+30 3d3+1
+2 0
+8 8 0
+E
+T 6774
+#6776
+spettro ages~
+uno spettro~
+Lo spettro di Ages e' qui.
+~
+   La sua pelle trasparente e' raggrinzita dalle rughe.  I suoi vestiti sono
+ricavati dalla pelle di diversi animali e porta a tracolla una borsa da cui
+vedi sporgere diversi strumenti da lavoro.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+2 18 9 1d1+20 2d3+1
+2 0
+8 8 0
+E
+#6777
+spirito pescatore~
+lo spirito di un pescatore~
+Lo Spirito di un Pescatore e' qui seduto sulla prua del brigantino.
+~
+   Un lungo abito di pelle unta e ingrassata lo protegge dalle intemperie di un
+mare che solo lui vede.    
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+2 18 9 1d1+20 3d2+0
+2 0
+8 8 0
+E
+T 6775
+#6778
+ombra alchimista~
+un'ombra~
+L'Ombra di un Alchimista e' qui che passeggia.
+~
+Vedi solo un'ombra.
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+1 19 9 1d1+15 2d2+1
+0 0
+8 8 0
+E
+#6779
+nessuno~
+Nessuno~
+Nessuno e' qui.
+~
+Non vedi nulla.
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+3 17 9 1d1+35 3d3+1
+2 0
+8 8 0
+E
+T 6776
+#6780
+fanteria sendariana primi esercito~
+&7&xla Fanteria dei Primi di Sendaria&0~
+La &7&xFanteria dei Primi di Sendaria&0 e' schierata qui.
+~
+I coraggiosi soldati dei Primi sono schierati a ranghi serrati, sorridenti
+sotto l'elmo e impeccabili nelle loro divise. Hanno negli occhi la luce di
+chi e' pronto a lottare per difendere il proprio regno fino alla morte.
+Guardandoli ti rendi conto che sono davvero un esercito temibile.
+~
+~
+~
+~
+292733984369016858 1024 0 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+9999 30d100+50
+51 0
+8 8 2
+Cha: 25
+E
+T 12605
+T 12606
+#6800
+Kahan saggio~
+Kahan il saggio~
+Kahan il grande saggio e' qui per aiutarti.
+~
+   E' l'ultimo grande Saggio di tutta la Daresia ed e' qui per aiutare i meno
+esperti.    
+~
+~
+~
+~
+10 1064 1000 -1 -1 -1 -1 -1 E
+40 13 0 1d1+300 5d5+7
+31 0
+8 8 1
+E
+#6801
+maestro~
+un maestro fabbro~
+Un maestro fabbro e' qui per insegnarti.
+~
+Tutto sudato.
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+50 12 0 1d1+400 6d6+8
+29 0
+8 8 1
+E
+#6802
+horseface venditore~
+Horseface il venditore.~
+Horseface (faccia da cavallo) un nome un programma
+~
+It looks unfinished.
+~
+~
+~
+~
+1207959562 1064 0 -1 -1 -1 -1 -1 E
+100 -10 -20 1d1+30000 30d30+30
+69 0
+8 8 1
+Spec: 0
+E
+T 12566
+#6803
+demone orda blu~
+un demone dell'orda blu~
+Un demone dell'orda blu svolazza qui attorno.
+~
+La sua satanica figura e' totalmente ricoperta da pelo blu folto e ispido.
+I suoi penetranti occhi sono anch'essi totalmente blu. Le sue ali possenti
+lo trattengono in aria dandogli un aspetto ancora piu' minaccioso.
+~
+~
+~
+~
+272424 1024 -1000 -1 -1 -1 -1 -1 E
+10 15 6 3d3+499 2d8+4
+8 0
+8 8 1
+BareHandAttack: 13
+E
+#6804
+demone orda verde~
+un demone dell'orda verde~
+Un demone dell'orda verde volteggia qui sopra.
+~
+Una saetta verde che sfreccia nel cielo e scende in picchiata su ogni cosa che
+che si muove.
+A malapena riesci a intuire il suo manto verde che lo ricopre dalel corna alle zampe
+~
+~
+~
+~
+272424 1024 -1000 -1 -1 -1 -1 -1 E
+28 8 0 6d6+999 3d17+7
+17 0
+8 8 1
+BareHandAttack: 9
+E
+#6805
+demone orda gialla~
+un demone dell'orda gialla~
+Un demone dell'orda gialla vola qui attorno.
+~
+Un veloce lampo giallo e un terrificante odore di zolfo. Giallo terrore
+plana qui attorno pronto ad affondare denti e zanne su tutto e su
+tutti.
+~
+~
+~
+~
+272424 1024 8 -1 -1 -1 -1 -1 E
+45 1 -6 10d10+1199 5d26+11
+35 0
+8 8 0
+BareHandAttack: 10
+E
+#6806
+demone orda rossa~
+un demone dell'orda rossa~
+Un demone dell'orda rossa impazza sopra la tua testa.
+~
+Terrificante creatura venuta sicuramente dagli inferi. Rosso e' il manto come
+rossi sono i suoi diaboici occhi. assetata di sangue e terribilmente cattiva.
+~
+~
+~
+~
+272424 1024 -1000 -1 -1 -1 -1 -1 E
+55 -3 -9 12d12+1999 5d31+13
+28 0
+8 8 2
+BareHandAttack: 12
+E
+$

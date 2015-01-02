@@ -1,0 +1,12 @@
+trigedit 28152
+6  
+/c 
+%echo% Actor %actor.name%
+%echo% Victim %victim.name%
+%echo% Object %object.name%
+%echo% target %target.name%
+%echo% Arg %arg%
+~
+/s
+q
+y

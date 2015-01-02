@@ -1,0 +1,11 @@
+trigedit 2587
+6  
+/c 
+* Lista comandi
+wait 1
+osend %actor.name% &1Un'aura di un rosso cupo e malato ti circonda per qualche istante&0
+oechoaround %actor.name% &1%actor.name% viene circondato da una cupa aura rossa&0
+~
+/s
+q
+y

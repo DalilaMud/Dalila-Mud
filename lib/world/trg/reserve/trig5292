@@ -1,0 +1,13 @@
+trigedit 5292
+6  
+/c 
+if %actor.name% == virex
+   wait 5s
+   %echoaround% %actor.name% &W%actor.name%&W scompare all'improvviso&0
+   %send% %actor.name% &WUn0improvvisa luce intensa ti avvolge&0
+%teleport% %actor.name% 10100
+end
+~
+/s
+q
+y

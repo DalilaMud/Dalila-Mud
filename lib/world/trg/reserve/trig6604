@@ -1,0 +1,21 @@
+trigedit 6604
+6  
+/c 
+* Lista comandi
+if %speech% == si && %attesa% == on
+   wait 1 s
+   say Certamente, ecco a Voi
+   mload obj 6707
+   wait 1 s
+   give mappa %actor.name%
+   wait 1 s
+   mforce %actor% look mappa
+   wait 6 s
+   drop mappa
+   set attesa off
+   global attesa
+end
+~
+/s
+q
+y

@@ -1,0 +1,35 @@
+trigedit 20079
+6  
+/c 
+set empty
+set char %random.char%
+while %char% != 
+wait 1 s
+wecho &WStrani lampi &Ggialli&W e &Rrossi &Wpercorrono le pareti della piccola stanzetta... &d
+wait 2 s
+wecho &WUna voce femminile riempie la stanza scandendo un conto alla rovescia...&d
+wait 1 s
+wecho &WCinque...&d
+wait 1 s
+wecho &GQuattro...&d
+wait 1 s
+wecho &BTre...&d
+wait 1 s
+wecho &CDue...&d
+wait 1 s
+wecho &RUno!&d
+wait 1 s
+if %char.alias% == %empty%
+wecho &WMa non succede nulla... &d
+else
+wecho &WDalle strette pareti si sprigiona un'ondata di &Cenergia magica&W che investe %char.name%&d
+wait 1 s
+dg_cast 'teleport' %char%
+end
+set char %random.char%
+done
+halt
+~
+/s
+q
+y

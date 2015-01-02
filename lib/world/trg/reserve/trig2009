@@ -1,0 +1,27 @@
+trigedit 2009
+6  
+/c 
+set valido 0
+if %actor.name% == alhandir || %actor.name% == irin || %actor.name% == lain || %actor.name% == bridge || %actor.name% == esmeralda || %actor.name% == cry || %actor.name% == yuna
+ set valido 1
+end
+if %valido% == 1
+ if %speech% == manto di Silue
+  wait 1 s
+  if %puntifede% < 1500
+   mecho &7&xL'altare brilla per qualche secondo, ma non pare succedere nulla...&0
+   halt
+  end
+  mecho &7&xL'altare brilla per qualche istante...&0
+  mload obj 555
+  posa manto
+  return 0
+  eval puntifede %puntifede%-1500
+  global puntifede
+  mat cptifedesilue say distruggi 30
+ end
+end
+~
+/s
+q
+y

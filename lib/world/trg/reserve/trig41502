@@ -1,0 +1,21 @@
+trigedit 41502
+6  
+/c 
+*---------------------------------------------------------------------------------------------------------------
+* L'anfiteatro e' attualmente protetto da una barriera magica  posta dal fratello pandion di Berg,
+* per evitare che ne escano gli spettri. Per aprirla momentaneamente bisogna soffiarli sopra la polverina azzurra.
+*------------------------------------------------------------------------------------------------------------
+if (%object.vnum% == 41500)
+ wpurge %object%
+ wpurge barriera
+ wdoor %self% north room 6881
+ wait 10 s
+ wdoor %self% north purge
+ wload obj 41501
+else 
+ halt
+end
+~
+/s
+q
+y

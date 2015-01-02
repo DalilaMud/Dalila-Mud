@@ -1,0 +1,19 @@
+trigedit 1473
+6  
+/c 
+if %seme% == 1
+halt
+end
+return 0
+wait 1 s
+mecho &6&xUna lieve brezza soffia inclinando per qualche istante la pianticella...&0
+wait 1 s
+rimu seme
+dai seme %actor.name%
+posa seme
+set seme 1
+global seme
+~
+/s
+q
+y

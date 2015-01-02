@@ -1,0 +1,41 @@
+trigedit 12541
+6  
+/c 
+if %object.vnum% < 12699
+if %object.name% /= diamante || %object.name% /= topazio || %object.name% /= smeraldo || %object.name% /= rubino || %object.name% /= zaffiro
+eval gioielleriaD %gioielleriaD% + 1
+global gioielleriaD
+end
+if %object.name% /= pelle || %object.name% /= pelliccia || %object.name% /= stoffa
+eval pellicceriaD %pellicceriaD% + 1
+global pellicceriaD
+end
+if %object.type% == potion
+eval alchimistaD %alchimistaD% + 1
+global alchimistaD
+end
+if %object.name% /= quercia || %object.name% /= mogano || %object.name% /= betulla || %object.name% /= frassino || %object.name% /= castagno || %object.name% /= noce || %object.name% /= abete || %object.name% /= pioppo
+if %object.type% != scudo
+eval falegnameD %legnameD% + 1
+global falegnameD
+end
+end
+if %object.type% == food
+eval cibo2 %cibo2% + 1
+global cibo2
+end
+if %object.type% == armor
+if %object.name% /= oro || %object.name% /= rame || %object.name% /= argento || %object.name% /= stagno || %object.name% /= ferro || %object.name% /= zinco
+eval fabbroD %fabbroD% + 1
+global fabbroD
+end
+end
+if %object.type% == weapon || %object.type% == bow || %object.name% /= arco || %object.name% /= freccia
+eval armeriaD %armeriaD% + 1
+global armeriaD
+end
+end
+~
+/s
+q
+y

@@ -1,0 +1,14 @@
+trigedit 28011
+6  
+/c 
+wait 1
+if %actor.room% == 28042
+ oechoaround %actor.name% &7&8Un forte lampo di luce avvolge la figura di %actor.name% che scompare con il fragore di un tuono!&0
+ osend %actor.name% &7&8Vieni avvolto da un'intensa luce e ti ritrovi al sicuro fuori dalla prigione.&0
+ oteleport %actor.name% 28041
+ oforce %actor.name% look
+end
+~
+/s
+q
+y

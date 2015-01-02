@@ -1,0 +1,15 @@
+trigedit 20072
+6  
+/c 
+if %actor.name% != ultorii
+wait 1 s
+oechoaround %actor.name% &WNon appena %actor.name% si conficca l'occhio nell'orbita lo vedi dissolversi nell'aria... che strano!&d
+osend %actor.name% &WTi senti strano, molto strano... ti senti malissimo! E poi... ehi ma dove sei finito?&d
+odamage %actor.name% 450
+oteleport %actor.name% 20522
+halt
+end
+~
+/s
+q
+y

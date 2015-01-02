@@ -1,0 +1,19 @@
+trigedit 31506
+6  
+/c 
+if %actor.vnum% == -1
+set flag 1
+global flag
+ wait 1 s
+ emo si punta la sua lama al petto e prende un grosso respiro..
+ wait 1 s
+ say Ho disobbedito agli ordini del mio Shogun..non posso vivere con questa macchia!
+ wait 1 s
+ say Pensate ancora che io sia un Samurai degno di vivere?
+ wait 1 s
+ emo vi guarda in attesa di una risposta
+end
+~
+/s
+q
+y

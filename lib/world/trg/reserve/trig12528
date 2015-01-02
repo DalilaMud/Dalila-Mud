@@ -1,0 +1,12 @@
+trigedit 12528
+6  
+/c 
+wait 1 s
+nod
+wait 1 s
+emote si rilassa visibilmente mentre viene congedato da %actor.name%
+unset attenti
+~
+/s
+q
+y

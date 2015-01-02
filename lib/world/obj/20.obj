@@ -1,0 +1,543 @@
+#2000
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0 0 0
+0 0 0 19 0 0
+A
+1 1
+A
+6 -2
+#2001
+spadino~
+uno spadino~
+C'è uno spadino per terra.~
+~
+5 65536 8193
+0 3 4 0 50 50
+4 500 20 1 0 0
+#2002
+spada arcuata~
+una spada arcuata~
+W~
+~
+5 65536 8193
+0 3 3 12 50 50
+8 2000 200 7 0 0
+#2003
+pugnale~
+un pugnale~
+Un pugnale è abbandonato qui.~
+~
+5 0 8193
+0 2 4 1 0 0
+4 200 10 9 0 0
+#2004
+sciabola~
+Una sciabola~
+Una sciabola giace abbandonata.~
+~
+5 65536 8193
+0 2 6 12 50 50
+12 2000 130 13 0 0
+#2005
+clava guerra~
+una clava da guerra~
+C'è una clava da guerra abbandonata.~
+~
+5 65536 8193
+0 1 13 0 80 80
+10 1000 100 1 0 0
+#2006
+grande clava~
+una grande clava~
+Una grande clava  stata lasciata incustodita per terra.~
+~
+5 65536 8193
+0 2 7 0 50 50
+14 1500 120 1 0 0
+#2007
+mazza combattimento~
+una mazza da combattimento~
+Qui è stata abbandonata una mazza da combattimento.~
+~
+5 65536 8193
+0 2 6 6 50 50
+10 1300 100 13 0 0
+#2008
+scudo piccolo~
+uno scudo piccolo~
+In terra è stato lasciato uno scudo piccolo.~
+~
+9 0 513
+6 0 0 0 50 50
+10 600 50 16 1 0
+#2009
+scudo medio~
+uno scudo medio~
+Uno scudo medio giace abbandonato in terra.~
+~
+9 65536 513
+7 0 0 0 50 50
+14 1000 100 21 1 0
+#2010
+scudo grande~
+uno scudo grande~
+Uno scudo grande si trova in terra.~
+~
+9 65536 513
+8 0 0 0 50 50
+20 3700 500 23 1 0
+#2011
+scudo meraviglie~
+uno scudo delle meraviglie~
+Uno scudo delle meraviglie è in terra abbandonato.~
+~
+9 106496 513
+6 0 0 0 50 50
+15 5000 800 29 0 0
+A
+25 2
+#2012
+spada Krel~
+la spada di Krel~
+La spada di Krel giace in terra abbandonata.~
+~
+5 201296 8193
+0 2 7 12 50 50
+15 10000 2000 32 1 0
+A
+19 1
+#2013
+scudo Krel~
+lo scudo di Krel~
+Lo scudo di Krel è qui incustodito.~
+~
+9 124928 513
+7 0 0 0 50 50
+20 7000 1000 35 0 0
+A
+18 1
+#2014
+piccone~
+un piccone~
+Un piccone giace abbandonato sul terreno.~
+~
+5 0 8193
+0 2 6 0 50 50
+5 300 30 1 0 0
+#2015
+chiave arrugginita~
+una chiave arrugginita~
+Una chiave arrugginita è in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2016
+chiave metallica~
+una chiave metallica~
+Una chiave metallica è stata abbandonata sul terreno.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2017
+chiave azzurra~
+una chiave azzurra~
+Una chiave azzurra e' stata lasciata incustodita.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2018
+chiave rossa~
+una chiave rossa~
+Una chiave rossa è in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2019
+chiave teschio~
+una chiave a forma di teschio~
+Una chiave a forma di teschio è in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2020
+chiave veliero~
+una chiave a forma di veliero~
+Una chiave a forma di veliero è in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2021
+chiave argento~
+una chiave d'argento~
+Una chiave d'argento è stata abbandonata in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2022
+chiave porpora~
+una chiave porpora~
+Una chiave porpora è in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2023
+chiave legno~
+una chiave di legno~
+Una chiave di legno è stata lasciata sul terreno.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2024
+chiave sangue~
+una chiave macchiata di sangue~
+Una chiave macchiata di sangue è in terra.~
+~
+18 65564 16385
+0 0 0 0 50 50
+1 0 0 1 0 0
+#2025
+gambali potere~
+i gambali del potere~
+I gambali del potere sono abbandonati per terra.~
+~
+9 65600 33
+3 0 0 0 50 50
+13 5000 300 27 0 0
+A
+1 1
+A
+18 -1
+#2026
+anello male~
+un anello del male~
+Un anello del male è in terra.~
+~
+12 66112 3
+0 0 0 0 30 30
+2 6500 300 14 0 0
+A
+12 10
+#2027
+anello Krel~
+l'anello di Krel~
+L'anello di Krel è in terra.~
+~
+12 114752 3
+0 0 0 0 40 40
+2 5000 150 16 0 0
+A
+24 -5
+#2028
+amuleto Krel~
+l'amuleto di Krel~
+L'amuleto di Krel giace sul terreno.~
+~
+12 65601 2049
+0 0 0 0 30 30
+3 6000 400 15 0 0
+A
+13 10
+#2029
+bracciali forza~
+un paio di bracciali della forza~
+Un paio di bracciali della forza sono abbandonati sul terreno.~
+~
+9 65600 257
+4 0 0 0 50 50
+7 4500 240 33 0 0
+A
+1 1
+#2030
+clava borchiata guerra~
+una clava borchiata da guerra~
+C'è una clava borchiata da guerra abbandonata.~
+~
+5 0 8193
+0 2 8 0 50 50
+11 890 100 1 0 0
+#2031
+mazza troll~
+una mazza dei troll~
+Una mazza dei troll e' stata abbandonata in terra.~
+~
+5 70208 8193
+0 3 5 5 50 50
+15 6500 280 27 0 0
+A
+25 2
+#2032
+maglio orchesco~
+un maglio orchesco~
+Un maglio orchesco e' qui in terra.~
+~
+5 0 8193
+0 3 4 0 50 50
+10 350 20 1 0 0
+#2033
+bastone spirituale maligno~
+un bastone spirituale maligno~
+Un bastone spirituale maligno e' sul pavimento.~
+~
+5 0 8193
+0 2 6 0 50 50
+10 200 25 1 0 0
+#2034
+sciabola kirshan~
+una sciabola kirshan~
+Una sciabola kirshan e' qui incustodita.~
+~
+5 65536 8193
+0 3 5 12 50 50
+10 4000 100 13 0 0
+#2035
+sciabola sangue~
+una sciabola del sangue~
+Una sciabola del sangue giace qui abbandonata.~
+~
+5 65536 8193
+0 5 3 10 50 50
+10 3500 200 1 0 0
+#2036
+orecchino~
+Un orecchino a 4 punte~
+Un orecchino a 4 punte e' infilzato a terra~
+~
+9 64 32769
+0 0 0 0 40 40
+5 1 1 17 1 0
+A
+17 -4
+A
+12 -5
+#2037
+ptofede1~
+50 luccicanti punti fede~
+50 scintillanti punti fede giacciono in un mucchietto a terra.~
+~
+0 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+ptofede~
+Com'e' fatto un punto fede? Cosi'!
+~
+#2038
+ptofede2~
+Un bellissimo punto grazia~
+Uno sfavillante punto grazia riluce al suolo.~
+~
+0 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#2039
+teschio~
+&7Il teschio di un animale&0~
+Questo teschio pare osservarti con le sue vuote orbite~
+~
+8 4 1
+0 0 0 0 10 10
+1 0 0 1 0 0
+#2040
+teschio~
+&7Il teschio di un essere umano&0~
+Questo teschio pare osservarti con le sue vuote orbite~
+~
+8 4 1
+0 0 0 0 10 10
+0 0 0 1 0 0
+#2041
+teschio~
+&7Il teschio di un feroce guerriero&0~
+Questo teschio pare osservarti con le sue vuote orbite~
+~
+8 4 1
+0 0 0 0 10 10
+0 0 0 1 0 0
+#2042
+teschio~
+&7Il teschio di un eroe&0~
+Questo teschio pare osservarti con le sue vuote orbite~
+~
+8 4 1
+0 0 0 0 10 10
+0 0 0 1 0 0
+#2043
+fiammella fiamma verde~
+&0&xUna piccola fiamma verde&0~
+&0&xUna piccola fiamma verde arde viva al suolo.&0~
+~
+8 4 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#2044
+fiammella fiamma blu~
+&4&xUna piccola fiamma blu&0~
+&4&xUna piccola fiamma blu arde viva al suolo.&0~
+~
+8 4 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#2045
+fiamma fiammella nera~
+&9Una piccola fiamma nera&0~
+&9Una piccola fiamma nera arde viva al suolo.&0~
+~
+8 4 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#2046
+fiamma fiammella viola~
+&5Una piccola fiamma viola&0~
+&5Una piccola fiamma viola arde viva al suolo.&0~
+~
+8 4 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#2047
+margherita premio~
+&7&xUna Marg&3he&7rita&0~
+Una margherita e' stata colta e poi lasciata qui...~
+~
+0 4 1
+0 0 0 0 1 1
+0 0 0 1 0 0
+#2048
+viola violetta premio~
+&5Una profumanta Violetta&0~
+Una violetta e' stata colta e lasciata qui... ha proprio un buon profumo!~
+~
+0 4 1
+0 0 0 0 1 1
+0 0 0 1 0 0
+#2049
+giglio premio~
+&7Un Giglio&0~
+Uno stupendo giglio bianco con screzi dorati giace qui...~
+~
+0 4 1
+0 0 0 0 1 1
+0 0 0 1 0 0
+#2050
+rosa premio~
+&1&xUna Rosa&0~
+Una magnifica rosa e' qui..~
+~
+0 4 1
+0 0 0 0 1 1
+0 0 0 1 0 0
+#2051
+fonte ruscello sorgente~
+Un ruscello~
+Un ruscello sgorga dalla parte rocciosa.~
+~
+23 0 0
+15000 15000 15 0 1 1
+15005 0 0 1 0 0
+#2052
+nimrhuinxyz~
+an unfinished object~
+Una vuota panca di legno e' qui.~
+~
+0 0 0
+0 0 0 0 0 0
+0 0 0 1 0 0
+#2053
+mazza xhyphys~
+&5Una Mazza di Xhyphys&0~
+&5Una mazza di Xhyphys e' stata lasciata sbadatamente qui.&0~
+~
+5 4 8193
+0 1 1 5 1 1
+8 0 0 3 0 0
+T 2040
+T 2041
+#2054
+mazza xhyphys spezzata~
+&9&xUna mazza spezzata&0~
+&9&8Una mazza spezzata in due riporta su un lato il simbolo di Xhyphys.&0~
+~
+13 4 24577
+0 0 0 0 1 1
+8 0 0 1 0 0
+#2055
+pietra vita therion~
+&6&xLa pietra della vita&0~
+&6&xLa pietra della vita sfavilla al suolo.&0~
+~
+8 4 1
+0 0 0 0 1 1
+2 0 0 1 0 0
+T 2048
+T 2049
+#2056
+pietra vita spenta~
+&9&8Una Pietra spenta&0~
+&9&8L'ombra di cio' che era una Pietra della Vita giace spenta al suolo.&0~
+~
+13 0 1
+0 0 0 0 1 1
+2 0 0 1 0 0
+#2057
+veste therion~
+&6&xLa Veste di Therion&0~
+&6&xUna veste intessuta da pelli animali riluce debolmente d'azzurro.&0~
+~
+8 0 4194305
+0 0 0 0 10 10
+0 0 0 43 0 0
+E
+veste~
+osservando bene noti.. che in alcuni punti il tessuto e' troppo consumato,
+che sia stato lasciato in un armadio infestato a tarme?
+~
+A
+5 1
+A
+19 1
+#2058
+speciale~
+Un oggettino per controllori~
+La bellissima armatura dei controllori e' qui.~
+~
+9 0 9
+0 0 0 0 1 1
+0 0 0 433 0 0
+A
+13 -100
+A
+13 -100
+A
+13 -100
+A
+2 14
+#2059
+bastone divino~
+Il bastone divino~
+Un bellissimo bastone divino e' sospeso a qualche centimetro dal suolo.~
+~
+8 0 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 2079
+#2060
+siero vita~
+&6&xIl siero di vita&0~
+&6&xUna boccetta contentente del Siero di Vita e' stato abbandonato qui.&0~
+~
+10 0 1
+70 85 83 97 0 0
+1 0 0 1 0 0
+$~

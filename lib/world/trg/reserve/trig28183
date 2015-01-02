@@ -1,0 +1,14 @@
+trigedit 28183
+6  
+/c 
+   
+   if %actor.name% == %x%
+   set direx nord
+   global direx
+   end
+   %force% %actor% nord
+   
+~
+/s
+q
+y

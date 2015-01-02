@@ -1,0 +1,52 @@
+trigedit 1
+6  
+/c 
+eval num %random.12%
+global num
+if %num% <= 11
+ halt
+end
+wait 3 sec
+say Life it seems, will fade away
+wait 3 sec
+say Drifting further every day 
+wait 3 sec
+say Getting lost within myself 
+wait 3 sec
+say Nothing matters no one else 
+wait 6 sec
+say I have lost the will to live 
+wait 3 sec
+say Simply nothing more to give 
+wait 3 sec
+say There is nothing more for me 
+wait 3 sec
+say Need the end to set me free 
+wait 10 sec
+say Things not what they used to be 
+wait 3 sec
+say Missing one inside of me
+wait 3 sec
+say Deathly lost, this cant be real
+wait 3 sec
+say Cannot stand this hell I feel 
+wait 3 sec
+say Emptiness is filling me 
+wait 3 sec
+say To the point of agony 
+wait 3 sec
+say Growing darkness taking dawn
+wait 3 sec
+say I was me, but not hes gone
+wait 20 sec
+say No one but me can save myself, but its too late
+wait 3 sec
+say Now I can think, think why I should even try 
+wait 10 sec
+say Yesterday seems as though it never existed 
+wait 3 sec
+say Death Greets me warm, now I will just say goodbye
+~
+/s
+q
+y

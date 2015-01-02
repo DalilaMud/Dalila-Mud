@@ -1,0 +1,43 @@
+trigedit 11008
+6  
+/c 
+eval room %self.room%
+eval vnum %room.vnum%
+* se non compreso nei vnum indicati imposta il controllo come falso (0) altrimenti come vero (1)
+if %vnum% < 9500 || %vnum% > 9599
+eval controllo1 0
+else
+eval controllo1 1
+end
+if %vnum% < 8500 || %vnum% > 8699
+eval controllo2 0
+else
+eval controllo2 1
+end
+if %vnum% < 9500 || %vnum% > 9899
+eval controllo3 0
+else
+eval controllo3 1
+end
+if %vnum% < 2400000 || %vnum% > 2449999
+eval controllo4 0
+else
+eval controllo4 1
+end
+* se tutti i controlli sono falsi il vnum e' vietato
+if %controllo1% == 0
+if %controllo2% == 0
+if %controllo3% == 0
+if %controllo4% == 0
+say Qui non posso stare! Torno in caserma!
+%asound% %self.name% &edice, 'Qui non posso stare! Torno in caserma!'&0
+follow me
+%teleport% %self% 8599
+end
+end
+end
+end
+~
+/s
+q
+y

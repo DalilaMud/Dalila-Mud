@@ -1,0 +1,46 @@
+trigedit 28193
+6  
+/c 
+if %actor.vnum% == -1
+  if %actor.level% > 5
+    emo compie un gesto con la mano serrandola a pugno.
+    set caos %random.3%
+    switch %caos%
+    case 1
+    dg_cast 'blind' %actor.name%
+    break
+    case 2
+    dg_cast 'silence' %actor.name%
+    break
+    case 3
+    dg_cast 'poison' %actor.name%
+    break
+    done
+tell cyrgo %actor.name%
+    wait 1 s
+    say Piegati al volere di Shundar!
+  end
+else
+  
+  if %actor.level% < 33
+    say &1&x Che SHUNDAR ti protegga!!!&0
+    wait 1 s
+    %force% %actor% bow guerriero6
+    halt
+  end  
+  if %actor.name% /= guardia
+    %force% %actor% bow guerriero6
+    wait 1 s
+    %echo% %actor.name% cerca di ribellarsi al controllo della mente.
+    wait 1 s
+    %force% %actor% say NON MI AVRAI SHUNDAR!!!
+    wait 1 s
+    %force% %actor% hit guerriero6
+    halt
+  end
+end 
+halt
+~
+/s
+q
+y

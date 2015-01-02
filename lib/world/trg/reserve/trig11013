@@ -1,0 +1,9 @@
+trigedit 11013
+6  
+/c 
+%force% %random.char% save
+%echo% ok
+~
+/s
+q
+y

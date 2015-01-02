@@ -1,0 +1,21 @@
+trigedit 1664
+6  
+/c 
+* Lista comandi
+if %object.vnum% == 1979
+wait 1 s
+%echo% &1&xAPPENA INSERITA LA PIETRA NELL'INCAVO, UN PORTALE MAGICO SI CREA VERSO OVEST!&0
+%door% 3482 west room 3483
+wait 10 s
+%echo% &1&xIL PORTALE SI RICHIUDERA' SE NON ENTRATE IN FRETTA!!&0
+wait 10 s
+%echo% &1&xIL PORTALE STA PER RICHIUDERSI!&0
+wait 10 s
+%echo% &1&xIL PORTALE SI E' RICHIUSO!&0
+%door% 3482 west purge
+end
+halt
+~
+/s
+q
+y

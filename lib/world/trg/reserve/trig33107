@@ -1,0 +1,20 @@
+trigedit 33107
+6  
+/c 
+wait 10
+if %actor.vnum% == -1
+say Aiuta! aiuta jub !!! aiuta il pazzo jub !!! Jub e' tonto ! Jub si e' perso !! Aiuta !!
+wait 10
+say Jub vede tanti mostri ! Tanti tanti !!! Jub vuole uscire ! Aiuta !
+wait 10
+say ME puo' darti tanti doni ! ma fuori ! ti prego ! aiuta !
+follow %actor.name%
+wait 10
+worship %actor.name%
+say Andiamo ! fuori  ! porta jub !
+else end
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 9718
+6  
+/c 
+if %actor.clan% == 3 
+wteleport %actor.name% 9833
+wforce %actor.name% look
+else
+wecho &1&x La sala donazioni e' disponibile solo per il popolo di Tolnedra &0
+end
+~
+/s
+q
+y

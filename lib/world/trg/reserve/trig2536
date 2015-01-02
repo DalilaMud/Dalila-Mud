@@ -1,0 +1,18 @@
+trigedit 2536
+6  
+/c 
+* Lista comandi
+msend %actor.name% &6Il Custode ti colpisce in modo devastante con i suoi arti lignei, accartocciandoti&0
+mechoaround %actor.name% &6Il Custode cala un braccio sulla testa di %actor.name%, accartocciandolo&0
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+~
+/s
+q
+y

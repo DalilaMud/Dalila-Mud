@@ -1,0 +1,52 @@
+#7900
+supremo cavaliere paladino scqxs~
+Il Supremo Cavaliere del Sacro Ordine dei Paladini~
+Il Supremo Cavaliere e' qui in attesa di qualcuno da aiutare.
+~
+Il Cavaliere e' qui che ti sorride. Indossa un abito bianco, blu e argentato.
+Sembra MOLTO forte e si trova qui per aiutare qualsiasi innocente che richieda il suo aiuto.
+~
+~
+~
+~
+26895 1160 900 -1 -1 -1 -1 -1 E
+50 5 2 1d1+500 3d8+15
+47 2200000
+8 8 1
+Spec: 18
+E
+#7901
+grosso topo~
+un grosso topo~
+C'e' un grosso topo qui che fruga tra i sacchi di cibo lasciati qua attorno.
+~
+Il grosso topo e' lungo quasi 60 centimetri dalla testa alla coda ed i suoi
+artigli sono lunghi quanto le tue dita.  Sembra essere molto occupato a
+curiosare in tutti i sacchi aperti che si trovano nella stanza.    
+~
+~
+~
+~
+42 1024 -800 -1 -1 -1 -1 -1 E
+20 12 0 1d1+200 3d6+2
+13 13000
+8 8 0
+E
+#7902
+bestia assetata~
+una bestia assetata di sangue~
+Un'orrida bestia assetata di sangue e' qui che ti osserva affamata.
+~
+La bestia che hai di fronte e' un'enorme creatura simile ad un ragno, ma con
+quattro zampe la cui parte terminale e' costituita da speroni simili a mannaie
+che sicuramente potrebbero affettarti con molta facilita'.    
+~
+~
+~
+~
+256120 33800 0 -1 -1 -1 -1 -1 E
+40 9 -4 5d8+600 3d9+8
+36 600000
+8 8 0
+E
+$

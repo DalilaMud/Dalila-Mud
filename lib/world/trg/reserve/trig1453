@@ -1,0 +1,10 @@
+trigedit 1453
+6  
+/c 
+return 0
+mecho &6&xIl tornado magico si dissolve nell'aria intorno a te...&0
+mload mob 557
+~
+/s
+q
+y

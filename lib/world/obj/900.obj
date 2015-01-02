@@ -1,0 +1,634 @@
+#90100
+albero frassino~
+un albero di frassino~
+Un grosso albero di frassino abbattuto, giace al suolo.~
+~
+45 0 1
+0 0 0 0 100 100
+500 1000 0 0 2 0
+#90101
+albero mogano~
+un albero di mogano~
+Un maestoso albero di mogano abbattuto, e' qui al suolo.~
+~
+45 0 1
+0 0 0 0 100 100
+1000 5000 0 0 2 1
+#90102
+albero abete~
+un abete~
+Un abete abbattuto e' qui a terra.~
+~
+45 0 1
+0 0 0 0 100 100
+200 500 0 0 2 5
+#90103
+albero pioppo~
+un pioppo~
+Un lungo pioppo abbattuto,.~
+~
+45 0 1
+0 0 0 0 100 100
+250 1500 0 0 2 6
+#90104
+albero betulla~
+un albero di betulla~
+Un albero di betulla abbattuto.~
+~
+45 0 1
+0 0 0 0 100 100
+250 2000 0 0 2 8
+#90130
+albero quercia~
+una quercia~
+Un albero di quercia~
+~
+45 0 1
+0 0 0 0 100 100
+600 4000 0 0 2 2
+#90131
+albero castagno~
+un castagno~
+Un albero abbattuto.~
+~
+45 0 1
+0 0 0 0 100 100
+500 3500 0 0 2 3
+#90132
+albero noce~
+un albero di noce~
+Un albero abbattuto.~
+~
+45 0 1
+0 0 0 0 100 100
+500 3500 0 0 2 4
+#90133
+albero ciliegio~
+un albero di ciliegio~
+Un albero abbattuto.~
+~
+45 0 1
+0 0 0 0 100 100
+200 2500 0 0 2 7
+#90134
+albero olivo~
+un olivo~
+Un albero abbattuto.~
+~
+45 0 1
+0 0 0 0 100 100
+300 3000 0 0 2 8
+#90160
+ramo~
+un ramo~
+Un ramo e' qui per terra.~
+~
+44 0 1
+0 0 0 0 100 100
+5 50 0 0 2 0
+#90161
+ramo frassino~
+un ramo di frassino~
+Un Ramo di frassino e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+5 100 0 0 2 0
+#90162
+ramo mogano~
+un ramo di mogano~
+Un ramo di mogano e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+10 500 0 0 2 1
+#90163
+ramo abete~
+un ramo di abete~
+Un ramo di abete e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+2 50 0 0 2 5
+#90164
+ramo pioppo~
+un ramo di piopo~
+Un ramo di pioppo e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+8 150 0 0 2 6
+#90165
+ramo betulla~
+un ramo di betulla~
+Un ramo di betulla.~
+~
+44 0 1
+0 0 0 0 100 100
+3 200 0 0 2 8
+#90166
+ramo quercia~
+un ramo di quercia~
+Un ramo di quercia.~
+~
+44 0 1
+0 0 0 0 100 100
+8 400 0 0 2 2
+#90167
+ramo castagno~
+un ramo dicastagno~
+Un ramo di castagno.~
+~
+44 0 1
+0 0 0 0 100 100
+6 350 0 0 2 3
+#90168
+ramo noce~
+un ramo di noce~
+Un ramo di noce e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+5 350 0 0 2 4
+#90169
+ramo ciliegio~
+un ramo di ciliegio~
+Un ramo di ciliegio e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+2 250 0 0 2 7
+#90170
+ramo olivo~
+un ramo d'olivo~
+Un ramo d'olivo e' qui a terra.~
+~
+44 0 1
+0 0 0 0 100 100
+4 300 0 0 2 9
+#90200
+tronco~
+un tronco~
+Un tronco di legno e' qui a terra.~
+~
+49 0 1
+0 0 0 0 100 100
+300 1000 0 0 2 0
+#90201
+tronco frassino~
+un tronco di frassino~
+Un tronco di frassino.~
+~
+49 0 1
+0 0 0 0 100 100
+250 1500 0 0 2 0
+#90202
+tronco mogano~
+un tronco di mogano~
+Un tronco di mogano e' qui a terra.~
+~
+49 0 1
+0 0 0 0 100 100
+500 7500 0 0 2 1
+#90203
+tronco abete~
+un tronco di abete~
+Un tronco di abete.~
+~
+49 0 1
+0 0 0 0 100 100
+100 750 0 0 2 5
+#90204
+tronco pioppo~
+un tronco di pioppo~
+Un tronco di pioppo.~
+~
+49 0 1
+0 0 0 0 100 100
+150 1800 0 0 2 6
+#90205
+tronco betulla~
+un tronco di betulla~
+Un tronco di betulla.~
+~
+49 0 1
+0 0 0 0 100 100
+150 2500 0 0 2 8
+#90206
+tronco quercia~
+un tronco di quercia~
+Un tronco di quercia.~
+~
+49 0 1
+0 0 0 0 100 100
+400 450 0 0 2 2
+#90207
+tronco castagno~
+un tronco di betulla~
+Un tronco di castagno.~
+~
+49 0 1
+0 0 0 0 100 100
+300 4000 0 0 2 3
+#90208
+tronco noce~
+un tronco di noce~
+Un tronco di noce.~
+~
+49 0 1
+0 0 0 0 100 100
+250 3500 0 0 2 4
+#90209
+tronco ciliegio~
+un tronco di ciliegio~
+Un tronco di ciliegio.~
+~
+49 0 1
+0 0 0 0 100 100
+100 2500 0 0 2 7
+#90210
+tronco olivo~
+un tronco d'olivo~
+3~
+~
+49 0 1
+0 0 0 0 100 100
+200 3000 0 0 2 9
+#90211
+asse di frassino~
+un'asse di frassino~
+Un'asse di frassino e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+10 0 0 0 2 0
+#90250
+ciocco~
+un ciocco di legno~
+Un ciocco di legno e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+150 500 0 0 2 0
+#90251
+ciocco frassino~
+un ciocco di frassino~
+Un ciocco di legno di frassino e' qui~
+Nothing.
+~
+46 0 1
+0 0 0 0 100 100
+125 500 0 0 2 0
+#90252
+ciocco mogano~
+un ciocco di mogano~
+Un ciocco di legno di mogano e' qui.~
+~
+46 0 1
+0 0 0 0 100 100
+250 3000 0 0 2 1
+#90253
+ciocco abete~
+un ciocco di abete~
+Un ciocco di legno di abete e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+50 350 0 0 2 5
+#90254
+ciocco pioppo~
+un ciocco di pioppo~
+Un ciocco di legno di pioppo e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+75 800 0 0 2 6
+#90255
+ciocco betulla~
+un ciocco di betulla~
+Un ciocco di legno di betulla e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+75 1200 0 0 2 8
+#90256
+ciocco quercia~
+un ciocco di quercia~
+Un ciocco di legno di quercia e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+200 2000 0 0 2 2
+#90257
+ciocco castagno~
+un ciocco di castagno~
+Un ciocco di legno di castagno e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+150 1500 0 0 2 3
+#90258
+ciocco noce~
+un ciocco di noce~
+Un ciocco di legno di noce e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+125 1500 0 0 2 4
+#90259
+ciocco ciliegio~
+un ciocco di ciliegio~
+Un ciocco di legno di ciliegio~
+~
+46 0 1
+0 0 0 0 100 100
+50 1000 0 0 2 7
+#90260
+ciocco olivo~
+un ciocco di olivo~
+Un ciocco di legno di olivo e' qui~
+~
+46 0 1
+0 0 0 0 100 100
+100 1300 0 0 2 9
+#90300
+asse generica~
+un'asse generica~
+Un'asse generica giace qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 0 0 0 2 0
+#90301
+asse frassino~
+un'asse di frassino~
+Un'asse di frassino e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 25 0 0 2 0
+#90302
+asse mogano~
+un'asse di mogano~
+Un'asse di mogano e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 60 0 0 2 1
+#90303
+asse abete~
+un'asse di abete~
+Un'asse di abete e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 30 0 0 2 5
+#90304
+asse pioppo~
+un'asse di pioppo~
+Un'asse di pioppo e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 50 0 0 2 6
+#90305
+asse betulla~
+un'asse di betulla~
+Un'asse di betulla e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 70 0 0 2 8
+#90306
+asse quercia~
+un'asse di quercia~
+Un'asse di quercia e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 45 0 0 2 2
+#90307
+asse castagno~
+un'asse di castagno~
+Un'asse di castagno e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 52 0 0 2 3
+#90308
+asse noce~
+un'asse di noce~
+Un'asse di noce e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 30 0 0 2 4
+#90309
+asse ciliegio~
+un'asse di ciliegio~
+Un'asse di ciliegio e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 100 0 0 0 0
+#90310
+asse olivo~
+un'asse di olivo~
+Un'asse di olivo e' stata posata qui.~
+~
+61 0 1
+0 0 0 0 100 100
+20 60 0 0 2 9
+#90350
+trave generica~
+una trave generica~
+Una trave generica e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 100 0 0 2 0
+#90351
+trave frassino~
+una trave di frassino~
+Una trave di frassino e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 60 0 0 2 0
+#90352
+trave mogano~
+una trave di mogano~
+Una trave di mogano e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 150 0 0 2 1
+#90353
+trave abete~
+una trave di abete~
+Una trave di abete e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 75 0 0 2 5
+#90354
+trave pioppo~
+una trave di pioppo~
+Una trave di pioppo e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 120 0 0 2 6
+#90355
+trave betulla~
+una trave di betulla~
+Una trave di betulla e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 160 0 0 0 0
+#90356
+trave quercia~
+una trave di quercia~
+Una trave di quercia e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 110 0 0 0 0
+#90357
+trave castagno~
+una trave di castagno~
+Una trave di castagno e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 130 0 0 2 3
+#90358
+trave noce~
+una trave di noce~
+Una trave di noce e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 140 0 0 2 4
+#90359
+trave ciliegio~
+una trave di ciliegio~
+Una trave di ciliegio e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 200 0 0 2 7
+#90360
+trave olivo~
+una trave di olivo~
+Una trave di olivo e' qui.~
+~
+54 0 1
+0 0 0 0 100 100
+50 150 0 0 2 9
+#90400
+palo generico~
+Un palo generico~
+Un palo e' posato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 10 0 0 2 0
+#90401
+palo frassino~
+un palo di frassino~
+Un palo di frassino e' poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 20 0 0 2 0
+#90402
+palo mogano~
+un palo di mogano~
+Un palo di mogano e' poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 100 0 0 2 1
+#90403
+palo abete~
+un palo di abete~
+Un palo di abete e' poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 10 0 0 2 5
+#90404
+palo pioppo~
+un palo di pioppo~
+Un palo di pioppo e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 30 0 0 2 6
+#90405
+palo betulla~
+un palo di betulla~
+Un palo di betulla e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 40 0 0 2 8
+#90406
+palo quercia~
+un palo di quercia~
+Un palo di quercia e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 80 0 0 2 2
+#90407
+palo castagno~
+un palo di castagno~
+Un palo di castagno e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 70 0 0 2 3
+#90408
+palo noce~
+un palo di noce~
+Un palo di noce e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 70 0 0 2 4
+#90409
+palo ciliegio~
+un palo di ciliegio~
+Un palo di ciliegio e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 50 0 0 2 7
+#90410
+palo olivo~
+un palo di olivo~
+Un palo di olivo e' stato poggiato qui in terra.~
+~
+97 0 1
+0 0 0 0 100 100
+2 60 0 0 2 9
+#90450
+segatura~
+un mucchio di segatura~
+Un mucchio di segatura e' qui per terra.~
+~
+93 0 1
+0 0 0 0 100 100
+1 5 0 0 2 0
+#90451
+fascine~
+un mucchio di fascine~
+Un mucchio di fascine e' qui in terra.~
+~
+94 0 1
+0 0 0 0 100 100
+1 5 0 0 2 0
+$~

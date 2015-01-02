@@ -1,0 +1,45 @@
+trigedit 28060
+6  
+/c 
+if %object.vnum% == 28060
+wait 1
+mpurge goccia
+wait 3 s
+say &3 Magnifico! Giochiamo!! &0
+eval numx %random.9% + 3
+wait 3 s
+emote &3 lancia i dadi con uno strano effetto!!! &0
+wait 4 s
+say &8 Ho fatto un bel %numx% !! &0
+wait 3 s
+say &3 Ora tocca a te!! &0
+wait 3 s
+emote &3 passa i dadi a %actor.name% &0
+wait 3 s
+mforce %actor% emote &6 agita bene i dadi..sogghigna..e tira!!! &0
+wait 3 s
+eval numy %random.11% + 1
+mforce %actor% say &x&6 Ho fatto un %numy% !! &0
+wait 4 s
+if %numx% == %numy%
+say &3 Abbiamo pareggiato....ecco il premio di consolazione!!! &0
+mload obj 28061
+give buono %actor.name%
+elseif %numx% > %numy%
+say &x&1 Ti ho spaccato in due ...ehehe.. &0
+wait 2 s
+say &3 Un'altra partita?? &0
+else
+say &3 E che cavolo...hai barato...tieni il premio!! &0 !!SOUND(gold.wav)
+wait 3 s
+mload obj 28060
+mload obj 28060
+give 2 goccia %actor.name%
+end
+else
+say &6 Potrei ucciderti se ci riprovi!! &0
+end
+~
+/s
+q
+y

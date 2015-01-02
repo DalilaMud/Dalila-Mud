@@ -1,0 +1,31 @@
+trigedit 11005
+6  
+/c 
+if %arg% == east
+%send% %actor% &GTiri la leva Gialla e la stanza ad est si riempie di gas&0
+%at% 11009 dg_cast 'sleep' %random.char%
+%at% 11009 dg_cast 'sleep' %random.char%
+%at% 11009 dg_cast 'sleep' %random.char%
+%at% 11009 dg_cast 'sleep' %random.char%
+%at% 11009 dg_cast 'sleep' %random.char%
+else if %arg% == south
+%send% %actor% &RTiri la leva Rossa e la stanza ad est si riempie di gas&0
+%at% 11010 dg_cast 'sleep' %random.char%
+%at% 11010 dg_cast 'sleep' %random.char%
+%at% 11010 dg_cast 'sleep' %random.char%
+%at% 11010 dg_cast 'sleep' %random.char%
+%at% 11010 dg_cast 'sleep' %random.char%
+else if %arg% == west
+%send% %actor% &VTiri la leva Verde e la stanza ad est si riempie di gas&0
+%at% 11011 dg_cast 'sleep' %random.char%
+%at% 11011 dg_cast 'sleep' %random.char%
+%at% 11011 dg_cast 'sleep' %random.char%
+%at% 11011 dg_cast 'sleep' %random.char%
+%at% 11011 dg_cast 'sleep' %random.char%
+else
+%send% %actor% Direzione non valida. Scrivi gassa 'east' o 'west' o 'south'
+end
+~
+/s
+q
+y

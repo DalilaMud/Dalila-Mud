@@ -1,0 +1,55 @@
+trigedit 12549
+6  
+/c 
+if %object.name% == buono reale
+nod
+wait 1 s
+mload obj 12555
+mat 3001 drop teso
+mat 3001 get teso
+mat 3001 drop buono
+say Vi rigrazio, Sir %Actor.name%
+else
+if %actor.name% == %nome%
+if %receive% == on
+if %object.name% == %ogg%
+eval tot %num% +1
+global tot
+set num %tot%
+global num
+else
+if %ricevuto% != on
+set num 1
+set ogg %object.name%
+set ricevuto on
+set costo %object.cost%
+global num
+global ogg
+global ricevuto
+global costo
+else
+wait 5
+shake
+wait 5
+say volevate fare il furbo eh?
+wait 1 s
+say ora dovremo ricominciare daccapo...riprendete la vostra roba
+drop all
+unset tot
+unset costo
+unset ricevuto
+unset num
+end
+end
+else
+say &1Non cercare di fregarmi!&0
+drop all.%object%
+end
+else
+say &1Non e' il tuo turno %actor.name%! &0
+end
+end
+~
+/s
+q
+y

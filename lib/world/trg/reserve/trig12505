@@ -1,0 +1,36 @@
+trigedit 12505
+6  
+/c 
+if %casa% == 0
+set casa %self.room%
+global casa
+end
+eval timer %timer% + 1
+global timer
+if %timer% > 175
+emote torna a casa
+mgoto 2
+mpurge
+unset timer
+end
+eval random %random.10%
+if %random% < 5
+eval back %back% + 1
+global back
+if %random% == 1
+n
+elseif %random% == 2
+s
+elseif %random% == 3
+w
+elseif %random% == 4
+e
+end
+end
+if %back% > 7
+mgoto %casa%
+end
+~
+/s
+q
+y

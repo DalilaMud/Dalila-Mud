@@ -1,0 +1,1037 @@
+CircleMUD v4.0 Shop File~
+#6611~
+-1
+1.20
+1.10
+71
+72
+10
+36
+-1
+%s I don't sell any of those!~
+%s Nothing is refundable, have a nice day.~
+%s Nothing is refundable, have a nice day.~
+%s Nothing is refundable, have a nice day.~
+%s Go buy something you can afford.~
+%s That comes to %d coins. Now get lost! Heheh.~
+%s Affare fatto!~
+2
+16
+6629
+0
+6611
+-1
+0
+24
+0
+0
+1013
+8
+300000
+3448
+6832
+30
+-1
+-1
+-1
+#6612~
+12571
+1501
+1502
+1515
+1616
+-1
+0.80
+0.50
+-1
+%s I offer no such thing! Try list.~
+%s You lack the item in question.~
+%s I buy the tools of magicians only.~
+%s The price of this is beyond my means.~
+%s You can't afford to purchase this!~
+%s %d coins, thank you.~
+%s You'll have %d coins for that.~
+2
+0
+6630
+0
+6612
+-1
+0
+24
+0
+0
+-1
+-1
+0
+262400
+-1
+-1
+-1
+-1
+-1
+#6621~
+6623
+6621
+6620
+6619
+6618
+6617
+6616
+6615
+-1
+1.20
+0.20
+-1
+%s I never palmed that thing, try list.~
+%s That seems to be absent from your belongings.~
+%s I don't buy, I accept charity. Fork it over!~
+%s How about if I just steal it instead?~
+%s You beggar! You can't afford that.~
+%s Here ye go, pal. That'll be %d coins.~
+%s I don't buy.~
+2
+1
+6621
+1
+6621
+-1
+0
+28
+0
+0
+0
+-1
+0
+177707
+-1
+-1
+-1
+-1
+-1
+#6642~
+-1
+0.90
+0.70
+19carne
+-1
+%s Non ho macellato quella roba!~
+%s Faresti meglio ad averlo se vuoi vendermelo ... e se non vuoi ritrovarti la mannaia nella schiena!~
+%s Non tratto quel genere di porcherie.~
+%s Non me lo posso permettere! Governo ladro!~
+%s Non hai abbastanza soldi, vai a lavorare!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+6648
+0
+6642
+-1
+4
+24
+0
+0
+1013
+-1
+300000
+31746
+6892
+30
+-1
+-1
+-1
+#6646~
+-1
+1.20
+0.80
+5
+33
+28
+32
+30
+-1
+%s I do not forge that weapon, try list.~
+%s You seem fresh out of those.~
+%s My art is purely offensive. Try somewhere else.~
+%s Ah! I haven't seen the like of that in years! I cannot afford it.~
+%s You haven't the means to pay for this.~
+%s A fine selection for %d coins.~
+%s Ecco a voi i vostri %d coins. E ora andate.~
+2
+16
+6633
+0
+6646
+-1
+0
+24
+0
+0
+1013
+8
+300000
+3679
+6824
+30
+-1
+-1
+-1
+#6647~
+-1
+1.20
+0.60
+9
+-1
+%s I don't carry that.~
+%s Hm. Smoke another one and check your inventory.~
+%s I'm not interested in such things.~
+%s The price for that is outrageous! Away with you.~
+%s That seems to be out of your price range.~
+%s That comes to %d coins. Enjoy.~
+%s I'll give you %d coins for that.~
+2
+16
+6632
+0
+6647
+-1
+0
+22
+0
+0
+1013
+8
+300000
+12236
+6822
+30
+-1
+-1
+-1
+#6648~
+6629
+6628
+6627
+6624
+6625
+6622
+6623
+80
+-1
+3.00
+0.80
+-1
+%s Mai sentita quella roba... io non la vendo.~
+%s Non ce l'hai.~
+%s Ehi carissimo, io non compro.~
+%s Non a quei prezzi!~
+%s Non ti puoi permettere i miei gustosi drink!~
+%s Butta pure %d monete sul bancone, amico!~
+%s Non comproooo!~
+2
+4
+6620
+0
+6648
+-1
+0
+12
+12
+24
+1013
+-1
+50000
+6956625
+-1
+-1
+-1
+-1
+-1
+#6650~
+-1
+1.10
+1.00
+19pesce
+-1
+%s &3&bMi dispiace ma non ho quello che mi stai chiedendo.&0~
+%s &3&bCOSA VORRESTI VENDERMI?&0~
+%s &3&bNon lo acquisto, spiacente.&0~
+%s &3&bEhm ... spiacente ... ma non ho soldi oggi.&0~
+%s &3&bMa figuriamoci! Non hai nemmeno i soldi per pagarti l'aria che respiri!!!&0~
+%s &3&bSono %d monete. Grazie e arrivederci.&0~
+%s &3&bEcco a te %d monete. Ci vediamo.&0~
+2
+16
+6631
+0
+6650
+-1
+0
+4
+8
+24
+1013
+8
+50000
+2395
+6892
+100
+-1
+-1
+-1
+#6653~
+-1
+0.80
+0.75
+19pane
+19pagnotta
+19torta
+19dolce
+19focaccia
+19verdura
+19frutta
+19pizza
+19crostata
+19pasticcino
+19gallette
+-1
+%s &2&bUhm, non lo vendo quello.&0~
+%s &2&bSpiacente ma non avete con voi quella merce.&0~
+%s &2&bNon lo compro quello.&0~
+%s &2&bO Dei del cielo! Ho finito i soldi!&0~
+%s &2&bMi spiace ma non avete abbastanza denaro.&0~
+%s &2&bFanno %d monete. Grazie!&0~
+%s &2&bOttimo. Ecco a voi %d monete. A presto.&0~
+2
+16
+6628
+0
+6653
+-1
+0
+24
+15
+24
+1013
+8
+300000
+5608
+6887
+100
+-1
+-1
+-1
+#6654~
+-1
+2.50
+2.00
+9diamante
+9topazio
+9smeraldo
+9zaffiro
+9rubino
+8diamante
+8zaffiro
+8rubino
+8smeraldo
+8topazio
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+6625
+0
+6654
+-1
+0
+24
+0
+0
+1013
+8
+300000
+842
+6837
+30
+-1
+-1
+-1
+#6655~
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Eccoti %d monete, non spenderle tutte in birra!~
+0
+2
+6622
+0
+6655
+-1
+0
+19
+0
+0
+-1
+-1
+0
+4914
+0
+0
+-1
+-1
+-1
+#6700~
+6697
+1250
+6727
+6728
+6729
+6731
+6732
+6733
+12
+14
+34
+35
+36
+37
+-1
+2.00
+1.00
+-1
+%s Mi spiace,non ho quello che cerchi.~
+%s Non hai questa cosa!!~
+%s Non tratto questo tipo di mercanzia.~
+%s Accidenti!! Non me lo posso permettere!~
+%s Non hai abbastanza denaro,mi spiace.~
+%s Sono %d coins, grazie.~
+%s Ti daro' %d coins per quello.~
+0
+0
+6670
+0
+6782
+-1
+0
+28
+0
+0
+1013
+-1
+50000
+1125868
+-1
+-1
+-1
+-1
+-1
+#6701~
+94
+95
+96
+97
+37
+98
+34
+35
+36
+12
+14
+1
+3
+93
+99
+49
+92
+-1
+1.00
+0.80
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+6671
+0
+6785
+-1
+0
+28
+0
+0
+1013
+-1
+50000
+1121641
+-1
+-1
+-1
+-1
+-1
+#6702~
+204
+6734
+6735
+6736
+6737
+6707
+-1
+1.20
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+6673
+0
+6602
+-1
+0
+28
+0
+0
+1013
+-1
+50000
+218381
+-1
+-1
+-1
+-1
+-1
+#6734~
+-1
+1.20
+0.20
+-1
+%s I don't carry that.~
+%s Even if you had one of those, I doubt I would want it.~
+%s I don't need to buy those - I'm a witch! Muaha!~
+%s I'd buy it, but I just fed my dragon and am broke!~
+%s You'll need more gold than that!~
+%s Good choice, my pretty! %d coins please.~
+%s Ahh! Just the thing I needed. Have %d coins.~
+2
+0
+0
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#6759~
+30
+-1
+1.20
+0.90
+15carretto
+-1
+%s None of those available.~
+%s You seem to lack one of those yourself.~
+%s I deal in gems only.~
+%s I cannot afford this precious thing you carry.~
+%s You have not the gold to buy this.~
+%s That will be %d coins.~
+%s You'll have %d coins for it.~
+2
+16
+6626
+0
+6759
+-1
+0
+22
+0
+0
+1013
+8
+300000
+9549
+6826
+30
+-1
+-1
+-1
+#6760~
+-1
+1.10
+0.75
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+6627
+0
+6760
+-1
+0
+23
+0
+0
+-1
+-1
+0
+11023
+0
+0
+-1
+-1
+-1
+#6761~
+1859
+-1
+1.35
+0.90
+9
+51
+56
+9
+9scaglie
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+6634
+0
+6761
+-1
+0
+23
+0
+0
+1013
+8
+300000
+7133
+6828
+30
+-1
+-1
+-1
+#6766~
+-1
+0.80
+0.50
+57carne
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+6703
+0
+6766
+-1
+0
+24
+0
+0
+0
+8
+300000
+10439
+6768
+50
+-1
+-1
+-1
+#6767~
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Eccoti %d pezzi d'oro.~
+0
+2
+6767
+0
+6767
+-1
+0
+19
+0
+0
+0
+-1
+0
+77
+-1
+-1
+-1
+-1
+0
+#6781~
+-1
+5.00
+4.00
+53
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+12
+6623
+0
+6781
+-1
+0
+21
+0
+0
+1013
+-1
+50000
+10321
+0
+0
+-1
+-1
+-1
+#6782~
+-1
+1.20
+0.20
+19
+-1
+%s I don't carry those in stock. Try list.~
+%s My eyesight is poor, but I can't see as you have one.~
+%s I don't buy those. Try another shop!~
+%s My store is too humble to afford this.~
+%s I don't accept down payments. Come back with more gold!~
+%s That comes to %d coins.~
+%s I'll give you %d coins for that.~
+2
+8
+17
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+0
+-1
+-1
+-1
+-1
+#6810~
+12620
+-1
+1.00
+0.50
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s d~
+0
+0
+6672
+0
+6810
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+6830
+30
+-1
+-1
+-1
+#6821~
+-1
+1.50
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s 0~
+0
+16
+0
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#6823~
+-1
+1.50
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+0
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#6825~
+-1
+1.30
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s 0~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#6829~
+-1
+1.30
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#6831~
+-1
+1.30
+1.00
+52
+80
+57
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+6704
+0
+6831
+6829
+-1
+0
+24
+0
+0
+0
+8
+300000
+2446
+6829
+30
+-1
+-1
+-1
+#6833~
+-1
+1.30
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+0
+0
+-1
+0
+28
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#6875~
+6810
+6811
+6812
+6814
+6815
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+6802
+0
+6875
+-1
+0
+28
+0
+0
+0
+-1
+10000
+979671
+0
+0
+-1
+-1
+-1
+$~

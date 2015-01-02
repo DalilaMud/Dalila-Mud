@@ -1,0 +1,15 @@
+trigedit 1427
+6  
+/c 
+eval aquila %random.15%
+if %aquila% == 1
+wait 2 s
+mpurge paaaa
+mecho &7Il medaglione dell'aquila si frantuma!&0
+end
+wait 2 s
+emote volteggia maestosamente qui sopra...
+~
+/s
+q
+y

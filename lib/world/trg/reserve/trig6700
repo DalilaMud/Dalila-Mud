@@ -1,0 +1,12 @@
+trigedit 6700
+6  
+/c 
+* Lista comandi
+wait 1 
+if %direction% == south && %actor.level% < 10
+wait 1 s
+tell %actor.name% Salve %actor.name% ,tutto bene??
+~
+/s
+q
+y

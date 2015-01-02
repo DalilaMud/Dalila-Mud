@@ -1,0 +1,199 @@
+trigedit 2532
+6  
+/c 
+* Lista comandi
+set punti 0
+global punti
+set hit %actor.hitroll%
+global hit
+if %actor.class% == alcione
+set classe 2
+global classe
+elseif %actor.class% == peloi
+set classe 1
+global classe
+elseif %actor.class% == genidian
+set classe 0
+global classe
+elseif %actor.class% == pandion
+eval classe -2
+global classe
+elseif %actor.class% == cyrinic
+eval classe -2
+global classe
+end
+wait 2 s
+if %amount% > 100
+say Mi hai dato troppi soldi, %actor.name%
+eval diff %amount% - 100
+wait 1 s
+dai %diff% coins %actor.name%
+end
+say Molto bene! Molto bene!!
+wait 3 s
+emote pare ghignarsela sotto i baffi...
+say Abbiamo un tiratore di coltelli qui!
+wait 3 s
+say Facci vedere la tua bravura, %actor.name%!
+msend %actor.name% Sharp il guercio ti da 5 coltelli da lancio..
+mechoaround %actor.name% Sharp il guercio da 5 coltelli da lancio a %actor.name%
+grin
+wait 3 s
+say Silenzio prego... lasciate concentrare %actor.name%
+wait 3 s
+say Ecco il primo bersaglio....
+wait 3 s
+mecho &3&xUna paperella spunta dall'altra parte del baraccone sull'apposita pedana...&0
+wait 4 s
+mforce %actor.name% emote soppesa il coltello e si prepara al lancio...
+eval tiro %random.10%
+wait 5 s
+mforce %actor.name% emote lancia il coltello...
+wait 1
+eval tiro %tiro%+%classe%
+eval tiro %tiro%+%hit%
+if %tiro% >= 8
+eval punti %punti%+10
+mecho &7Il coltello si pianta nell'occhio della papperella!&0
+wait 1 s
+fischia
+say Che mira!
+elseif %tiro% >= 5 && %tiro% < 8
+mecho &7Il coltello manca di un soffio la paperella... peccato!&0
+else
+mecho &7Il coltello manca di molto la paperella... che figura!&0
+end
+wait 4 s
+say Ed ecco il secondo bersaglio....
+wait 5 s
+mecho &6&xUn palloncino spunta sulla pedana...&0
+wait 5 s
+mforce %actor.name% emote soppesa il coltello e si prepara al lancio...
+eval tiro %random.10%
+wait 5 s
+mforce %actor.name% emote lancia il coltello...
+wait 5
+eval tiro %tiro%+%classe%
+eval tiro %tiro%+%hit%
+if %tiro% >= 9
+eval punti %punti%+15
+mecho &7Il coltello fa esplodere il palloncino!&0
+wait 1 s
+fischia
+say Che mira!
+elseif %tiro% >= 6 && %tiro% < 9
+mecho &7Il coltello manca di un soffio il palloncino che ballonzola....&0
+else
+mecho &7Il coltello manca clamorosamente il palloncino e si pianta nella pancia di un peluche...&0
+end
+wait 5 s
+say Ed ecco il terzo bersaglio....
+wait 5 s
+mecho &9&xUn carta con l'Asso di Picche si alza sulla pedana....&0
+wait 5 s
+mforce %actor.name% emote soppesa il coltello e si prepara al lancio...
+eval tiro %random.10%
+wait 5 s
+mforce %actor.name% emote lancia il coltello...
+wait 5
+eval tiro %tiro%+%classe%
+eval tiro %tiro%+%hit%
+if %tiro% >= 10
+eval punti %punti%+20
+mecho &7Il coltello c'entra il bersaglio proprio nel mezzo! Fantastico!&0
+wait 5 s
+fischia
+say Che mira!
+elseif %tiro% >= 7 && %tiro% < 10
+mecho &7Il coltello manca di poco la carta.... acc!&0
+else
+mecho &7Il coltello oltrepassa la carta, esce dal baraccone e prosegue la sua corsa fuori dalla vista!&0
+wait 5 s
+mecho &7&x...si sente un grido di dolore venire da fuori! Accidenti.... conviene nascondere i coltelli!&0
+end
+wait 5 s
+say Ed ecco il quarto bersaglio....
+wait 5 s
+mecho &3&xUn tappo di sughero si alza sulla pedana....&0
+wait 5 s
+mforce %actor.name% emote soppesa il coltello e si prepara al lancio...
+eval tiro %random.10%
+wait 5 s
+mforce %actor.name% emote lancia il coltello...
+wait 5
+eval tiro %tiro%+%classe%
+eval tiro %tiro%+%hit%
+if %tiro% >= 11
+eval punti %punti%+25
+mecho &7Il coltello spacca in due il tappo di sughero! WOW!&0
+wait 5 s
+fischia
+say Che mira!
+elseif %tiro% >= 8 && %tiro% < 11
+mecho &7Il coltello manca di poco il tappo.... sigh!&0
+else
+mecho &7Il coltello manca alla grande il tappo... ma a cosa diavolo ha mirato?&0
+end
+wait 5 s
+say Ed ecco il quinto bersaglio....
+wait 5 s
+mecho &3&xUna monetina si alza sulla pedana....&0
+wait 5 s
+mforce %actor.name% emote soppesa il coltello e si prepara al lancio...
+wait 5 s
+mforce %actor.name% emote suda un po'...
+eval tiro %random.10%
+wait 5 s
+mforce %actor.name% emote lancia il coltello...
+wait 5 s
+eval tiro %tiro%+%classe%
+eval tiro %tiro%+%hit%
+if %tiro% >= 12
+eval punti %punti%+30
+mecho &7Il coltello prende la monetina nel mezzo spaccandola in due!&0
+wait 5 s
+fischia
+say Che mira!
+elseif %tiro% >= 9 && %tiro% < 12
+mecho &7Il coltello manca di poco la monetina.... sigh!&0
+else
+mecho &7Il coltello oltrepassa la monetina incurante e prosegue la sua corsa verso la gloria...&0
+end
+wait 5 s
+say Molto bene.... avete totalizzato %punti% punti!
+wait 5 s
+say Ecco il vostro premio...
+wait 5 s
+sor %actor.name%
+if %punti% <= 30
+mload obj 8800
+dai panda %actor.name%
+posa panda
+halt
+elseif %punti% <= 50
+mload obj 8801
+dai coltello %actor.name%
+posa coltello
+halt
+elseif %punti% <= 80
+mload obj 8802
+dai anello %actor.name% 
+posa anello
+halt
+elseif %punti% <= 99
+mload obj 8803
+dai guanti %actor.name%
+posa guanti
+halt
+else
+wait 2 s
+say Avete vinto il primo premio! Complimenti!
+mload obj 8804
+dai occhiali %actor.name%
+posa occhiali
+halt
+end
+~
+/s
+q
+y

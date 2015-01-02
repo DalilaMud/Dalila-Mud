@@ -1,0 +1,17 @@
+trigedit 20026
+6  
+/c 
+if %actor.name% == demostenee
+wait 1 s
+oecho &cLa lancia del Duca di Acaia sbrilluccica di energie magiche... fa quasi male agli occhi guardarla!&0
+halt
+else
+wait 1 s
+odamage %actor.name% 500
+dg_cast 'teleport' %actor.name%
+osend %actor.name% &cLa voce di Demostenee rimbomba nella tua mente: questa lancia sara' la tua rovina! &0
+end
+~
+/s
+q
+y

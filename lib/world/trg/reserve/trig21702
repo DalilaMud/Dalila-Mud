@@ -1,0 +1,17 @@
+trigedit 21702
+6  
+/c 
+wait 2 s
+say Buongiorno %actor.name%,
+wait 2 s
+say hai %actor.age% anni
+wait 2 s
+say sei alto %actor.altezza%
+wait 2 s
+say e sei di classe %actor..class%
+wait 2 s
+say cosa posso fare per te?
+~
+/s
+q
+y

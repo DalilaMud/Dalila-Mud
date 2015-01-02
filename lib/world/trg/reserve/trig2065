@@ -1,0 +1,26 @@
+trigedit 2065
+6  
+/c 
+if %speech% == preghiere
+ msend %actor.name% Ecco le preghiere disponibili ai fedeli di Therion:
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% ristoro di Therion
+ msend %actor.name% illusione di Therion
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% Ecco le preghiere riservate agli adepti del culto
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% altare di Therion
+ msend %actor.name% siero di vita
+ msend %actor.name% elementale di pietra
+msend %actor.name% veste di Therion
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% Ecco le preghiere riservate al capo del culto
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% purificazione di Therion
+end
+~
+/s
+q
+y

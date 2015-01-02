@@ -1,0 +1,13 @@
+trigedit 1350
+6  
+/c 
+* Lista comandi
+%send% %actor% &1..Il tuo corpo svanisce lentamente portandoti fuori dall'incubo...&0
+%echoaround% %actor% &1%actor.name% svanisce nell'aria con una risata!!&0
+wait 1 s
+wteleport %actor% 1381
+end
+~
+/s
+q
+y

@@ -1,0 +1,31 @@
+trigedit 28001
+6  
+/c 
+wait 10 s
+emote prendono l'elmetto per il giro di ronda.
+wait 3 s
+n
+wait 3 s
+say Cambio della guardia!!
+wait 3 s
+emote danno il cambio alla sentinella che si unisce alla ronda.
+wait 5 s
+say Giro d'ispezione!
+wait 2 s
+w
+wait 3 s
+s
+wait 20 s
+emote guardano il giardiniere.
+wait 4 s
+n
+wait 20 s
+e
+wait 20 s
+say A dopo!!
+wait 2 sec
+s
+~
+/s
+q
+y

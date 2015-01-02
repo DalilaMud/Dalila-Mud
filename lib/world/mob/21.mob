@@ -1,0 +1,604 @@
+#2100
+cacciatore Sahuagin~
+il cacciatore Sahuagin~
+Un tridente ha appena mancato il tuo povero corpo! Appartiene ad un cacciatore Sahuagin.
+~
+Questo cacciatore e' composto dall'incrocio tra un uomo, uno squalo ed un
+pirahna...  Non e' particolarmente affascinante.    
+~
+~
+~
+~
+40 9176064 -10 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 5d10+10
+46 0
+8 8 1
+E
+#2101
+donna sahuagin~
+la donna sahuagin~
+Una Sahuagin ti osserva malignamente, sibilando verso di te.
+~
+Sembra l'incrocio tra una donna ed un pesce, peccato abbia preso il peggio
+delle due razze!    
+~
+~
+~
+~
+8 8388608 -1 -1 -1 -1 -1 -1 E
+48 3 -7 1d1+749 5d9+9
+39 0
+8 8 2
+E
+#2102
+sahuagin maschio~
+uno sahuagin maschio~
+Un grosso sahuagin impugna la sua spada e si getta contro di te!
+~
+Un pesce grosso, brutto e cattivo!  Curiosa la cresta arancione che gli spunta
+da dietro le spalle.    
+~
+~
+~
+~
+40 8388608 -1 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+769 5d9+9
+40 0
+8 8 1
+E
+#2103
+sergente sahuagin~
+il sergente sahuagin~
+Un grosso Sahuagin armato con un immenso tridente a due mani ti si para davanti... a quanto pare vuole attaccarti!
+~
+Non avresti mai creduto possibile pensarlo, ma questo Sahuagin e'...  Bello!  
+E' forte, aggraziato, e sembra saper maneggiare molto bene il suo tridente!  
+
+~
+~
+~
+~
+26 8388608 -25 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+949 5d11+11
+41 0
+8 8 1
+E
+#2104
+sentinella sahuagin~
+la sentinella sahuagin~
+Una sentinella sahuagin sbuca dal nulla e ti attacca.
+~
+Hey!  Non avresti mai creduto all'esistenza di Sahuagin mimetici...  Ma la
+presenza di questa sentinella, con la sua cresta
+&1m&2u&3l&1t&2i&3c&1o&2l&3o&1r&2e &3 ti fa cambiare subito idea!  &0
+~
+~
+~
+~
+42 274877906954 -10 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 5d10+10
+43 0
+8 8 1
+E
+#2105
+accolito sahuagin~
+l'accolito di Qlqub~
+Uno sahuagin incappucciato in una veste nere sbuca dal nulla e ti assale sibilando.
+~
+Dev'essere un accolito di Qlqub, il sacerdote di questo tempio.    
+~
+~
+~
+~
+168 263168 -5 -1 -1 -1 -1 -1 E
+51 1 -8 1d1+809 5d10+10
+27 0
+8 8 1
+E
+#2106
+sentinella sahuagin~
+una guardia assonnata~
+Un gruppo di guardie Sahuagin si sta godendo il meritato riposo.
+~
+Il viso da uomo pesce e la mascella da squalo rendono il suo aspetto ancora
+piu' mostruoso.    
+~
+~
+~
+~
+138 8912896 -5 -1 -1 -1 -1 -1 E
+50 3 -8 1d1+799 5d9+9
+39 0
+4 4 1
+E
+#2107
+sentinella sahuagin~
+la sentinella dei cancelli~
+Due grossi Sahuagin sono appostati all'ingresso dei cancelli del villaggio, decisi a non far passare nessuno.
+~
+Vigili ed allerta, questi sahuagin prendono il loro lavoro seriamente.    
+~
+~
+~
+~
+4138 274886303776 -5 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+759 5d8+9
+32 0
+8 8 1
+E
+#2108
+Globoth comandante Sahuagin~
+il comandante Globoth~
+Globoth, il Comandante delle guardie Sahuagin, si sta allenando con il tridente.
+~
+Globoth e' il secondo in Sahuagin per importanza nella citta', surclassato
+unicamente dal capo del tempio.  La velocita' con cui si muove, e l'abilita'
+nell'usare il tridente ti fanno capire che non sara' facilissimo batterlo.    
+~
+~
+~
+~
+188426 92282880 -50 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+979 6d11+11
+32 0
+8 8 1
+Str: 18
+StrAdd: 40
+Dex: 14
+Int: 8
+Wis: 9
+Con: 16
+Cha: 4
+Spec: 16
+E
+#2109
+sciamano sahuagin qlqub~
+lo sciamano Qlqub~
+Lo sciamano Qlqub, il signore del villaggio, ti fissa con odio e ti punta un feticcio contro!
+~
+Che creatura orrenda!  Sembra un grosso rospo, ripieno di pustole e vesciche.
+Gli occhi sembrano trasparire una malvagita' vecchia di secoli...  Possibile
+sia cosi' vecchio?    
+~
+~
+~
+~
+188426 137599393792 -100 -1 -1 -1 -1 -1 E
+65 -3 -10 1d1+1099 6d13+13
+49 0
+8 8 1
+BareHandAttack: 6
+E
+#2110
+negoziante sahuagin~
+il negoziante sahuagin~
+Uno Sahuagin prova a convincerti della bonta' della sua merce.
+~
+Sembra amichevole!  Sicuri che sia uno Sahuagin?    
+~
+~
+~
+~
+134217738 137455730688 5 -1 -1 -1 -1 -1 E
+47 3 -7 1d1+739 5d9+9
+45 0
+8 8 1
+E
+#2111
+sentinella addormentata~
+la sentinella stanca~
+Un grosso Sahuagin sta dormendo in una brandina, dev'essere realmente stanco!
+~
+Che orrore!  Vedere uno sahuagin che russa non e' certo quello che consideri un
+traguardo da raggiungere nella vita...    
+~
+~
+~
+~
+2090 8388608 -5 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+759 5d9+9
+47 0
+4 4 1
+E
+#2112
+Llishaa commerciante~
+Llishaa la commerciante~
+Llishaa la commerciante ti mostra i suoi oggetti.
+~
+Una Sahuagin in tutto e per tutto, sebbene mostri uno sguardo particolarmente
+intelligente.    
+~
+~
+~
+~
+134225930 68157440 0 -1 -1 -1 -1 -1 E
+65 2 -9 1d1+1099 7d13+10
+56 0
+8 8 2
+Spec: 0
+E
+#2113
+sentinelle gruppo~
+il gruppo di sentinelle~
+Un gruppo di sentinelle e' qui', pronto a resistere a qualsiasi assalitore.
+~
+Sembrano stanche, dopo una notte di guardia.
+~
+~
+~
+~
+221226 274877907968 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 5d10+10
+47 0
+8 8 1
+BareHandAttack: 11
+E
+#2114
+guardia~
+la guardia del porticato~
+Una guardia e' qui', intenta a controllare il porticato.
+~
+Sembra conoscere il fatto suo.    
+~
+~
+~
+~
+262248 274877906976 0 -1 -1 -1 -1 -1 E
+50 1 -8 1d1+799 5d11+10
+42 0
+8 8 1
+E
+#2115
+Guardia chiacchierona~
+La guardia chiacchierona~
+Un gruppo di guardie sta parlottando rumorosamente.
+~
+Fanno un casino impressionante!
+~
+~
+~
+~
+138 33554432 0 -1 -1 -1 -1 -1 E
+53 1 -8 1d1+859 5d10+10
+28 0
+8 8 1
+BareHandAttack: 5
+E
+#2116
+gruppo soldati affamati~
+il gruppo di soldati affamati~
+Un gruppo di soldati affamati chiede a gran voce un piatto di Zuppa.
+~
+Devono proprio amare la Zuppa di Drago (e chi non la ama?  )
+~
+~
+~
+~
+65546 1024 0 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 5d11+11
+52 0
+8 8 1
+BareHandAttack: 13
+E
+#2117
+guardia assonnata~
+la guardia assonnata~
+alcune guardie stanno riposando nei loro letti.
+~
+dormono come angioletti.
+~
+~
+~
+~
+69768 0 0 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+769 5d9+9
+43 0
+4 4 1
+BareHandAttack: 13
+E
+#2118
+Verax~
+Verax~
+Verax, il capitano delle guardie, ti osserva sorridendo... ecco un altro pazzo che osa sfidarlo!
+~
+E' dannatamente grosso!  E per di piu' quella cicatrice che gli attraversa il
+petto incute molto timore...  Dev'essere sopravvissuto a battaglie spaventose
+~
+~
+~
+~
+188442 2199090364416 0 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+969 6d12+11
+35 0
+8 8 1
+BareHandAttack: 10
+Spec: 16
+E
+#2119
+guardia apprendista~
+L'apprendista~
+Un giovane apprendista si sta allenando nella sala.
+~
+E' piuttosto giovane, ma sembra maneggiare bene la spada.    
+~
+~
+~
+~
+154 262144 20 -1 -1 -1 -1 -1 E
+49 2 -8 1d1+779 5d9+10
+41 0
+8 8 1
+BareHandAttack: 1
+E
+#2120
+chef~
+lo Chef~
+Lo Chef non vuole intrusi in cucina!
+~
+Sei entrato nel regno dello chef?  Pagane le conseguenze.    
+~
+~
+~
+~
+42 128 0 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 6d11+11
+47 0
+8 8 1
+BareHandAttack: 6
+E
+#2121
+giovane serva~
+la giovane serva~
+Una giovane serva si sta ammazzando di lavoro.
+~
+Questa povera cenerentola non trovera' mai il suo principe azzurro.    
+~
+~
+~
+~
+140 786432 25 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+759 5d9+10
+45 0
+8 8 2
+BareHandAttack: 13
+E
+#2122
+servo stanco~
+il servo stanco~
+Un robusto servo si sta riposando, dopo una giornata passata nei campi.
+~
+Un uomo che ha lavorato tutta la vita per far arricchire il nobilotto locale.
+  
+Che schifo.
+~
+~
+~
+~
+4232 0 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 5d10+10
+28 0
+5 5 1
+E
+#2123
+guardia scelta~
+la guardia d'onore~
+Due guardie scelte, in abiti da rappresentanza, difendono l'ingresso al bastione centrale.
+~
+Sono vestite molto meglio delle guerdie che hai incontrato finora, con
+l'esclusione di Verax, comunque.    
+~
+~
+~
+~
+2090 2336512540672 0 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+899 5d11+11
+51 0
+8 8 1
+BareHandAttack: 11
+E
+#2124
+ninfa statua~
+la ninfa~
+Appena ti avvicini la ninfa prende vita e ti attacca!
+~
+Bella e mortale.  La combinazione piu' comune in una donna.    
+~
+~
+~
+~
+8250 17825792 -15 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+949 6d11+11
+34 0
+8 8 2
+BareHandAttack: 2
+Spec: 15
+E
+#2125
+ospite imbarazzata~
+l'ospite imbarazzata~
+Hai interrotto un ospite del conte in un momento poco opportuno!
+~
+Cosa guardi?!?  SPORCACCIONE!    
+~
+~
+~
+~
+138 0 0 -1 -1 -1 -1 -1 E
+48 1 -8 1d1+759 5d9+9
+40 0
+6 6 2
+BareHandAttack: 13
+E
+#2126
+ospiti gruppo~
+un gruppo di ospiti~
+Un gruppo di ospiti parlotta di cose mondane.
+~
+Nobilotti snob e rincitrulliti.    
+~
+~
+~
+~
+4232 0 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 5d10+10
+33 0
+8 8 0
+BareHandAttack: 13
+E
+#2127
+ladro topo~
+un topo d'appartamento~
+Un ladro dev'esser stato disturbato dal tuo ingresso.
+~
+Si e' nascosto proprio bene!
+~
+~
+~
+~
+2058 786434 -30 -1 -1 -1 -1 -1 E
+52 1 -8 1d1+819 5d11+11
+40 0
+8 8 1
+BareHandAttack: 1
+Spec: 14
+E
+#2128
+lord Appleton~
+Lord Appleton~
+Lord Appleton sta gustando una tazza di te.
+~
+Un nobile vecchio stampo, conserva ancora dello stile nei suoi atteggiamenti e
+nelle sue maniere.    
+~
+~
+~
+~
+106506 268435456 0 -1 -1 -1 -1 -1 E
+53 1 -8 1d1+859 5d10+10
+41 0
+8 8 1
+E
+#2129
+hector Schushzel violinista maestro~
+il maestro~
+Hector von Schushzel, il grande violinista, ti assale in un raptus di follia omicida.
+~
+Bravo e completamente pazzo!  Probabilmente hai interrotto l'estasi del
+maestro, stolto!    
+~
+~
+~
+~
+26680 67108864 -5 -1 -1 -1 -1 -1 E
+56 1 -9 1d1+919 5d11+11
+47 0
+8 8 1
+BareHandAttack: 13
+E
+#2130
+Alandra guardia scelta~
+Alandra la guardia scelta~
+Alandra, la guardia scelta, difende le ricchezze del conte.
+~
+Bella, occhi azzurri, capelli neri e lunghi e mani che hanno ucciso piu' di un
+uomo...    
+~
+~
+~
+~
+24632 201326592 -15 -1 -1 -1 -1 -1 E
+51 2 -8 1d1+819 5d10+11
+31 0
+8 8 2
+Spec: 16
+E
+#2131
+bibliotecario~
+un bibliotecario~
+Un bibliotecario del conte ti assale, deciso a non farti passare.
+~
+Piccolo, magro e calvo.  Un vero topo da biblioteca, ti sta attaccando
+unicamente perche' e' disperato.    
+~
+~
+~
+~
+168 262144 0 -1 -1 -1 -1 -1 E
+45 4 -7 1d1+739 4d8+9
+40 0
+8 8 1
+BareHandAttack: 13
+E
+#2132
+conte Barl~
+il conte Barl~
+Seduto nella sua scrivania il conte ti osserva interessato, se sei arrivato fin qui' allora forse sarai divertente da uccidere.
+~
+Dannazione, e' come se potessi leggere tutto quello che la daresia ha prodotto
+in tutta la sua esistenza nei suoi occhi!    
+Pare molto invecchiato dopo la sua prigionia durante l'occupazione del Celeste Impero
+~
+~
+~
+~
+188458 286261248 -80 -1 -1 -1 -1 -1 E
+65 -1 -10 1d1+1079 10d13+20
+37 0
+8 8 1
+BareHandAttack: 11
+Spec: 15
+E
+#2133
+magazziniere~
+il magazziniere~
+Il magazziniere del conte sta sistemando le riserve alimentari.
+~
+Un tipo meticoloso, non c'e' che dire.    
+~
+~
+~
+~
+42 0 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 5d10+10
+46 0
+8 8 1
+E
+#2134
+sacerdote prelato~
+Un imponente Sacerdote~
+Un imponente Sacerdote sta pregando nel centro della cappella
+~
+Questo sacerdote deve amare molto mangiare a giudicare dalla stazza.  Il Conte
+lo tratta bene, ha imparato che la benevolenza degli dei e' una cosa
+importante!    
+~
+~
+~
+~
+8331 2336462209024 600 -1 -1 -1 0 -1 E
+55 5 -1 1d1+799 6d10+15
+40 0
+8 8 1
+BareHandAttack: 6
+Str: 14
+Dex: 14
+Int: 17
+Wis: 18
+Spec: 18
+E
+#2231
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+~
+~
+~
+168 262144 0 -1 -1 -1 -1 -1 E
+1 20 -7 1d1+739 4d8+0
+0 0
+8 8 0
+BareHandAttack: 13
+E
+$

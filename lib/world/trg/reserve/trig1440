@@ -1,0 +1,10 @@
+trigedit 1440
+6  
+/c 
+mecho &4&xI tentacoli che recidi dal corpo di Sogotacon continuano a vivere!&0
+wait 1 s
+mload mob 553
+~
+/s
+q
+y

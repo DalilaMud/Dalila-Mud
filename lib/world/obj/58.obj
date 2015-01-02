@@ -1,0 +1,304 @@
+#5800
+fuoco campo~
+Un fuoco da campo~
+&1Un fuoco da campo arde al centro dell'accampamento&0~
+~
+1 0 0
+0 0 -1 0 100 100
+200 0 0 36 0 0
+#5801
+cassapanco intarsiata avorio~
+Una cassapanca intarsiata d'&7Avorio&0~
+Una cassapanca intarsiata di bianco avorio e' in un angolo della stanza..~
+~
+15 0 0
+500 15 5802 0 100 100
+500 0 0 1 0 0
+#5802
+chiave slith~
+La chiave di &7Slith&0~
+Una chiave bianca e' rotolata in terra..~
+~
+18 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#5803
+stiletto bianco slith~
+&7Lo stiletto bianco di Slith&0~
+Uno stiletto che risplende di una luce bianca e' qui in terra..~
+~
+5 9396010009 8193
+0 3 15 14 50 50
+4 0 0 70 0 0
+A
+2 1
+#5804
+mantello bianco alcione~
+&7&xIl mantello dell'Alcione Bianco&0~
+Un mantello di lino bianco volteggia a mezz'aria sollevato dal vento...~
+~
+9 244825 1025
+10 0 0 0 50 50
+1 0 0 62 0 0
+A
+2 1
+#5805
+mantello ombra~
+&9Il mantello d'ombra&0~
+Un mantello nero come la notte piu' cupa sventola in terra..~
+~
+11 113192 1025
+0 0 0 0 20 20
+1 0 0 56 0 0
+A
+2 2
+A
+1 -2
+#5806
+cadavere kroq peloi quercia~
+Il cadavere di Kroq~
+Il cadavere di Kroq,saggio Peloi della Quercia e' a terra in un lago di sangue..~
+~
+15 0 1
+150 0 -1 0 100 100
+80 0 0 1 0 0
+#5807
+kris legno intarsiato~
+Un Kris di legno intarsiato~
+Un pugnale esotico e' stato costruito con il legno della quercia Peloi!~
+~
+5 9395371289 8193
+0 3 17 1 40 40
+3 0 0 67 0 0
+A
+1 1
+#5808
+medaglione oscuro~
+Il medaglione dell'&9Oscuro&0~
+Un medaglione nero brilla di una luce sinistra...~
+~
+9 127000 5
+4 0 0 0 30 30
+3 0 0 46 0 0
+A
+19 2
+#5809
+baule~
+Un baule coperto di glifi magici~
+Un baule difeso da potenti glifi magici e' qui~
+~
+15 32 0
+200 15 5810 0 10 10
+300 0 0 1 0 0
+#5810
+glifo~
+Un glifo~
+Un glifo che rappresenta una stella a venti punte dentro una spirale giace qui~
+~
+18 188416 1
+0 0 0 0 10 10
+0 0 0 -3 0 0
+T 2588
+#5811
+pietra guardiana nera~
+&9&xLa nera pietra guardiana&0~
+Una pietra nera come la notte giace qui~
+~
+8 191008 17
+0 0 0 0 20 20
+2 0 0 69 0 0
+A
+26 6
+A
+19 1
+#5812
+spada planare~
+&9&xUna spada planare&0~
+Qui per terra giace una spada stranissima: la lama non e' altro che uno squarcio tra i Piani!~
+~
+5 269150816 8193
+3 5 13 10 30 30
+4 0 0 50 0 0
+#5813
+parabraccia osso~
+&7&xDei parabraccia d'osso&0~
+Un paio di parabraccia ricavati dalle ossa di chissa' quale bestia sono qui...~
+~
+9 225304 257
+16 0 0 0 30 30
+10 0 0 54 0 0
+#5814
+gambali osso~
+&7&xUn paio di gambali d'osso&0~
+Dei gambali pesanti sono stati ricavati dalle ossa di qualche mostro...~
+~
+9 225304 33
+16 0 0 0 30 30
+10 0 0 54 0 0
+#5815
+chiave osso~
+&7&xUna chiave d'osso&0~
+Una chiave ricavata da un blocco d'osso e' in terra..~
+~
+18 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#5816
+scudo scaglie drago rosso~
+&1Uno scudo di Scaglie di Drago Rosso&0~
+Uno scudo gigantesco e' abbandonato qui al suolo...~
+~
+9 225432 513
+18 0 0 0 50 50
+30 0 0 59 0 0
+#5817
+anello maledetto genidian~
+&1&xL'anello maledetto dei Genidian&0~
+Un anello rosso brilla di una luce sinistra..~
+~
+9 227992 3
+5 0 0 0 20 20
+1 0 0 66 0 0
+A
+19 3
+A
+18 -2
+#5818
+mappa~
+Una logora mappa di cartapecora~
+Questa mappa e' cosi' vecchia da essere diventata quasi illeggibile~
+~
+8 132 16385
+0 0 0 0 1 5
+1 0 0 1 0 0
+E
+mappa~
+***Sulla mappa vedi***
+Solo colui che porta in testa la falce di luna...
+...mostrandosi reverente innanzi all'Ingresso
+***La scritta diventa illeggibile dopo questa frase***
+
+&1xMMMx&0
+&1MMxxx&0
+&1MM&xX&0&9..&0
+&1xM&9...&0
+&9.....&0
+~
+#5819
+diadema luce~
+&3&xUn diadema di luce&0~
+Un diadema risplende di luce propria qui in terra~
+~
+9 185681 17
+0 0 0 0 25 25
+1 0 0 36 0 0
+A
+4 1
+A
+17 5
+A
+26 3
+A
+1 -1
+A
+19 -1
+#5820
+falce luna~
+&3Una falce di Luna&0~
+Un piccolo amuleto a forma di falce di luna e' qui in terra~
+~
+8 8590458948 17
+0 0 0 0 10 10
+1 0 0 1 0 0
+T 2460000
+#5821
+anello luce~
+L'anello della &3&xLuce&0~
+Un anello luminoso e' qui in terra~
+~
+11 187665 3
+0 0 0 0 20 20
+1 0 0 67 0 0
+A
+12 39
+A
+26 2
+#5822
+montagna monete oro zecchino~
+Una montagna di monete d'oro &3zecchino&0~
+Una VALANGA di monete d'oro zecchino e' qui!~
+~
+20 0 1
+2000 0 0 0 100 100
+10 0 0 1 0 0
+#5823
+mantello sabbie~
+&3Il mantello delle Sabbie&0~
+Un mantello color sabbia si mimetizza perfettamente al suolo..~
+~
+9 65560 1025
+12 0 0 0 5 5
+1 0 0 69 0 0
+A
+2 1
+A
+5 -2
+A
+3 -2
+#5824
+cuore roc~
+&1&xIl cuore di un Roc&0~
+Un enorme cuore pulsante giace qui~
+~
+8 64 8388609
+0 0 0 0 15 15
+5 0 0 112 0 0
+A
+1 1
+A
+5 1
+A
+17 -6
+C
+64 0 0 0
+#5825
+anello kaius~
+L'anello di &6Kaius&0~
+Un anello con un simbolo arcano inciso sopra e' stato perso qui..~
+~
+9 441 3
+3 0 0 0 20 20
+5 0 0 89 0 0
+A
+1 1
+A
+2 1
+A
+26 3
+#5826
+bracciale tuono~
+&6Il bracciale di tuono&0~
+Un bracciale del colore del cielo in tempesta e' qui~
+~
+9 61440 4097
+6 0 0 0 40 40
+2 0 0 157 0 0
+A
+17 -5
+A
+19 1
+A
+12 30
+C
+2199023255552 0 0 0
+#5827
+scudo roccia~
+&7Lo scudo di roccia&0~
+Un pesante scudo fatto di roccia e' qui~
+~
+9 20480 513
+6 0 0 0 50 50
+6 0 0 57 0 0
+A
+17 -10
+$~

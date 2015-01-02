@@ -1,0 +1,15 @@
+trigedit 20008
+6  
+/c 
+wait 1 s
+oecho &RLe rune incise sulla lama della Mietitrice brillano incandescenti per qualche istante...&0
+if %actor.name% == orome
+halt
+else
+osend %actor.name% &RVieni avvolto da fiamme magiche che divorano completamente le tue carni, riducendoti in cenere&0
+odamage %actor.name% 5000
+end
+~
+/s
+q
+y

@@ -1,0 +1,15 @@
+trigedit 21007
+6  
+/c 
+wait 25
+Emote ti si fa incontro dopo aver riposto un grosso volume.
+wait 40
+say Salve %actor.name%! Prenda pure tutti i libri di cui necessita.
+wait 40
+say Li consulti pure, ma si ricordi di rimetterli al loro posto.
+wait 40
+say Sono della collettivita' e devono restare qui! Mi raccomando.
+~
+/s
+q
+y

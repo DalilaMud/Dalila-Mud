@@ -1,0 +1,16 @@
+trigedit 6684
+6  
+/c 
+* Lista comandi
+wait 1
+if %actor.name% == Alhandir && %propugnatorgaiae% != 1
+ say Ecco il tuo cavallo.
+ wait 1
+ mload mob 1671
+ set propugnatorgaiae 1
+ global propugnatorgaiae
+end
+~
+/s
+q
+y

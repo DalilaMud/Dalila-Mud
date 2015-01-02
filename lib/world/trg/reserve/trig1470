@@ -1,0 +1,10 @@
+trigedit 1470
+6  
+/c 
+wait 2
+osend %actor.name% &2&xNon appena indossi l'amuleto senti una enorme energia vitale pervadere il tuo corpo&0
+oechoaround %actor.name% &2&x%actor.name% pare ringiovanire a vista d'occhio!&0
+~
+/s
+q
+y

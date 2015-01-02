@@ -1,0 +1,1074 @@
+#17301
+Cavaliere riconoscenza~
+un cavaliere della riconoscenza~
+Un cavaliere della riconoscenza ti schiaffeggia con un guanto e ti sfida!
+~
+Il cavaliere della riconoscenza sta montando un cavallo da guerra, impugna una
+lancia e puoi il suo morning star appeso alla sella.  I suoi colori sventolano
+su uno stendardo trasportato dal suo scudiero.    
+~
+~
+~
+~
+22538 5152 200 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+31 0
+8 8 0
+E
+#17302
+scudiero~
+uno scudiero~
+Uno scudiero e' qui in missione per il suo signore.
+~
+Uno scudiero e' qui intento a portare a termine una missione affidatagli dal
+suo signore.  Indossa abiti cenciosi, emana un cattivo odore e sembra andare di
+fretta.    
+~
+~
+~
+~
+12 32768 250 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+25 0
+8 8 0
+E
+#17303
+Cavaliere qualita'~
+un cavaliere della qualita'~
+Un cavaliere della qualita' ti osserva dall'alto della sua cavalcatura.
+~
+Il cavaliere indossa una corazza di piastre completa e monta un cavallo
+completamente bardato.  Impugna una lancia.    
+~
+~
+~
+~
+8 8192 350 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+21 0
+8 8 1
+E
+#17304
+re artu mobxhyphys8~
+Re Artu'~
+Re Artu' e' seduto sul suo trono aspettando il ritorno di Ginevra.
+~
+Re Artu' e' un uomo dalla barba nera e dalle spalle larghe.  Indossa
+un'armatura di piastre completa su cui campeggia l'effigie di un drago d'oro.
+La famosa Excalibur pende dal suo fianco protetta da un fodero dalla foggia
+strana.    
+~
+~
+~
+~
+24586 8389768 400 -1 -1 -1 -1 -1 E
+65 -1 -10 1d1+1080 4d12+13
+47 0
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 25
+E
+#17305
+Benlad cavaliere verde~
+Sir Benlad de Haudtesert (il cavaliere verde)~
+Sir Benlad ti percuote il volto con il suo guanto e ti sfida!
+~
+Sir Benlad e' rivestito dalla sua scintillante armatura verde che, si dice, sia
+impenetrabile per le armi normali.  Impugna una grossa ascia da battaglia.    
+~
+~
+~
+~
+41 128 250 -1 -1 -1 -1 -1 E
+60 -2 -9 1d1+970 4d11+11
+38 0
+8 8 1
+Spec: 16
+E
+#17306
+galvano cavaliere~
+Sir Galvano~
+Sir Galvano, illustre esempio di cavalleria, figlio illegittimo di Lancillotto ed Elane, si trova di fronte a te.
+~
+Sir Galvano indossa la sua armatura bianca e impugna uno spadone a due mani.  
+
+~
+~
+~
+~
+14346 0 500 -1 -1 -1 -1 -1 E
+55 1 -9 1d1+900 4d11+11
+33 0
+8 8 1
+E
+#17307
+cavaliere nero~
+il cavaliere nero~
+Il cavaliere nero ti dice: "NON TI LASCERO' PASSARE".
+~
+Il cavaliere nero indossa un'armatura nera ed un elmo con visiera.  Appoggia
+entrambe le mani sul suo spadone a due mani infisso a terra.    
+~
+~
+~
+~
+42 524290 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+27 0
+8 8 1
+E
+#17308
+sir gareth cavaliere~
+Sir Gareth~
+Sir Gareth, il cavaliere dall'armatura colorata, e' qui.
+~
+Sir Gareth, figlio di Lot, detto Beaumains indossa con orgoglio la sua armatura
+ed il suo scudo multicolori.  Attende con ansia l'opportunita' di poter aiutare
+una damigella in difficolta'.    
+~
+~
+~
+~
+253962 4096 350 -1 -1 -1 -1 -1 E
+54 1 -8 1d1+880 4d10+10
+34 0
+8 8 1
+BareHandAttack: 13
+Dex: 25
+E
+#17309
+sir garlon cavaliere~
+Sir Garlon~
+Sir Garlon, il cavaliere invisibile, e' qui.
+~
+Sir Garlon (il vile contadino) e' nascosto qui.  Ha ottenuto il potere di
+rendersi invisibile dalla strega della palude perche' possa cosi' compiere
+azioni ancor piu' malvagie.    
+~
+~
+~
+~
+8 2 -500 -1 -1 -1 -1 -1 E
+49 3 -8 1d1+770 3d9+9
+43 0
+8 8 1
+E
+#17310
+gawaine cavaliere~
+Sir Gawaine~
+Sir Gawaine, il forte,  in cerca di vendetta!
+~
+Sir Gawaine, il cugino di Artu' dai capelli rossi, e' a cavallo, indossa
+un'armatura completa e impugna la sua fida spada Galantine.    
+~
+~
+~
+~
+10 67108992 0 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+950 4d11+11
+55 0
+8 8 1
+Str: 18
+StrAdd: 100
+E
+#17311
+Lamorak cavaliere sir~
+Sir Lamorak~
+Sir Lamorak solleva la sua spada bastarda mentre considera il tuo valore.
+~
+Sir Lamorak, figlio di Re Pellinore, amante della Regina Morgawse,
+conquistatore dei dodici di Morgana e nemico di Sir Gawaine, indossa
+un'armatura completa e cavalca un possente destriero.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+49 3 -8 1d1+770 3d9+9
+38 0
+8 8 1
+E
+#17312
+lancillotto cavaliere clxqs~
+Sir Lancillotto del Lago~
+Sir Lancillotto, il campione della tavola Rotonda, e' qui che ti sorride.
+~
+Sir Lancelot sta cavalcando un cavallo bianco ed indossa una splendente
+armatura d'acciaio.  La visiera del suo elmo e' sollevata e la sua lancia e'
+levata in alto in segno di saluto.    
+~
+~
+~
+~
+30731 0 600 -1 -1 -1 -1 -1 E
+60 -4 -9 1d1+970 4d11+11
+42 0
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 25
+Spec: 16
+E
+#17313
+Mago Merlino~
+Merlino~
+Il potente Merlino e' qui che consulta un libro.
+~
+Merlino, figlio di una maga e di un demone, veggente di Camelot, indossa una
+veste color della terra e si appoggia ad un bastone contorto.  Dalla lunga
+barba bianca spuntano due gote rubizze ed gli occhi di un intenso blu.    
+~
+~
+~
+~
+157709 2336478987264 350 -1 -1 -1 -1 -1 E
+58 0 -7 1d1+799 4d10+10
+44 0
+8 8 1
+Spec: 15
+E
+#17314
+maga morgana donna~
+Morgana Le Fey~
+Ti accoglie una bellissima donna dal sorriso provocante!
+~
+Morgana le Fey, malvagia strega, piaga per Camelot, ringhia contro di te che
+hai svelato il suo camuffamento.  Indossa una veste di sete che nasconde ben
+poco del suo corpo orribile e deforme.    
+~
+~
+~
+~
+139311 2199023256600 -600 -1 -1 -1 -1 -1 E
+55 0 -9 1d1+900 4d11+12
+40 0
+8 8 2
+Spec: 21
+E
+#17315
+Re Pellinore~
+Re Pellinore~
+Re Pellinore e' qui in cerca della Bestia.
+~
+Re Pellinore ti dice che la sua famiglia e' in cerca di una Bestia Orrenda da
+generazioni e ti chiede se l'hai vista.  Pellinore ha appena passato la
+quarantina e sembra ancora un valente guerriero.    
+~
+~
+~
+~
+256012 32 0 -1 -1 -1 -1 -1 E
+58 0 -9 1d1+950 3d11+11
+43 0
+8 8 1
+E
+#17316
+bestia maculato leone~
+una strana bestia~
+Una Bestia dal lungo collo e dal corpo di leone maculato e' qui che rosicchia un femore.
+~
+Un mostro orrendo dal corpo di leone e dalla testa di serpente.
+~
+~
+~
+~
+42 0 -700 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+19 0
+8 8 0
+E
+#17317
+Tristano cavaliere sir~
+Sir Tristano cavaliere della Tavola Rotonda~
+Sir Tristano ti sorride.
+~
+Sir Tristano, corteggiatore di Isotta, e' considerato da molti secondo solo a
+Lancillotto per maestria combattiva.  Indossa un'armatura di piastre ed impugna
+uno spadone a due mani.    
+~
+~
+~
+~
+65562 1064 0 -1 -1 -1 -1 -1 E
+49 2 -8 1d1+770 3d9+10
+30 0
+8 8 1
+E
+#17318
+mordred ragazzo~
+Mordred~
+Un giovane in armatura dorata sorride sguaiatamente verso di te e ti assalta con la lancia!
+~
+Mordred, figlio bastardo di Lancillotto e Ginevra, indossa la sua armatura
+d'oro incantata ed impugna la sua lancia maledetta.    
+~
+~
+~
+~
+24585 9256 -800 -1 -1 -1 -1 -1 E
+55 0 -9 1d1+900 4d11+12
+30 0
+8 8 1
+Spec: 16
+E
+#17319
+Cavaliere incantato riconoscenza~
+un cavaliere incantato della riconoscenza~
+Un cavaliere incantato della riconoscenza ti attacca.
+~
+Il cavaliere indossa un'armatura arrugginita ed impugna una spada malandata.  
+Il suo sguardo sembra assente!    
+~
+~
+~
+~
+40 1024 -500 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+18 0
+8 8 1
+E
+#17320
+Cavaliere incantato qualita'~
+un cavaliere incantato della qualita'~
+Un cavaliere incantato della qualita' ti attacca.
+~
+Un cavaliere della qualita' charmato e' qui davanti a te nella sua armatura
+arrugginita.  Ha uno sguardo vacuo, i suoi capelli sono spettinati e la sua
+spada e' rotta.    
+~
+~
+~
+~
+4348 1024 -750 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+24 0
+8 8 1
+E
+#17321
+Dama corte~
+una dama di corte~
+Una dama di corte ti fa l'occhiolino.
+~
+La dama di corte ti si avvicina con audacia, chiedendoti con insistenza di
+raccontarle i dettagli della tua ultima avventura.  Indossa una lunga gonna ed
+i suoi capelli sono ornati da ghirlande di fiori.    
+~
+~
+~
+~
+8 262144 500 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+27 0
+8 8 2
+E
+#17322
+regina ginevra~
+Ginevra la Regina~
+La regina, dai capelli corvini, fa un cenno verso di te, nascondendosi dietro al ventaglio.
+~
+Ginevra ti narra una triste storia, quella del suo amore proibito per
+Lancillotto.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+800 4d10+10
+45 0
+8 8 2
+E
+#17323
+scudiero incantato~
+uno scudiero incantato~
+Uno scudiero incantato, dal volto inespressivo e' qui.
+~
+Lo scudiero indossa diversi pezzi di armatura in cuoio, in diverso stato di
+conservazione.    
+~
+~
+~
+~
+8 0 -250 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+33 0
+8 8 1
+E
+#17324
+barant re apres cavaliere~
+Barant Les Apres (Re dei cento Cavalieri)~
+Un cavaliere dal mantello bianco e con in pugno una mazza chiodata e' qui.
+~
+Barant Les Apres, Re dei Cento Cavalieri e' qui.  Barant indossa un mantello
+bianco ed impugna una mazza chiodata.  Solleva minacciosamente la sua arma e la
+agita contro di te.    
+~
+~
+~
+~
+8 0 750 -1 -1 -1 -1 -1 E
+49 3 -8 1d1+770 3d9+9
+46 0
+8 8 1
+E
+#17325
+giullare dagonet folle~
+Dagonet (Il giullare della corte di Artu')~
+Un folle in un abito multicolore saltella qui attorno!
+~
+Dagonet, il giullare di corte di Artu', e' un genio nella sua arte, Danza sulle
+mani mentre fa giochi di destrezza con dei coltelli.  Hai l'impressione che
+possa destreggiarsi bene anche in un combattimento.    
+~
+~
+~
+~
+8 0 400 -1 -1 -1 -1 -1 E
+49 3 -8 1d1+770 4d9+9
+44 0
+8 8 1
+E
+#17326
+Tarquinio cavaliere~
+Tarquinio~
+Un cavaliere con un elmo a testa di lupo ridacchia giosamente.
+~
+Tarquinio indossa una corazza di scaglie ed un elmo a forma di testa di lupo.
+Impugna una lunga frusta ed i suoi occhi si muovono velocemente da destra a
+sinistra.    
+~
+~
+~
+~
+8 262144 -500 -1 -1 -1 -1 -1 E
+53 1 -8 1d1+860 4d10+10
+43 0
+8 8 1
+E
+#17327
+perimones cavaliere rosso~
+Perimones il cavaliere rosso~
+Un cavaliere con indosso una armatura color rosso vivo ti fronteggia!
+~
+Perimones, il cavaliere rosso, ha barba e baffi roszzi.  E' un uomo basso e
+tarchiato.  La sua armatura color rubino risplende alla luce solare, e porta
+legato al braccio un fazzoletto di seta rossa, pegno d'amore di Galenvine.    
+~
+~
+~
+~
+42 4224 500 -1 -1 -1 -1 -1 E
+53 1 -8 1d1+860 4d10+10
+46 0
+8 8 1
+E
+#17328
+Damigella afflitta~
+una damigella afflitta~
+Una damigella in difficolta' e qui che chiede aiuto!
+~
+La damigella e' stata maltrattata da alcuni ruffiani.  Ha le mani legate dietro
+la schiena.  Le sue vesti sono sporche e stracciate.    
+~
+~
+~
+~
+10 0 200 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+22 0
+8 8 2
+E
+#17329
+nobile~
+un nobile~
+Un nobile e' qui in tutto il suo splendore.
+~
+Il nobile indossa i migliori abiti di lana e cotone.  Vari monili lo adornano
+formando una serie di catene d'oro attorno al suo collo certamente assai
+pesanti.  Sembra stia recandosi da qualche parte.    
+~
+~
+~
+~
+136 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+21 0
+8 8 1
+E
+#17330
+servo~
+un servo~
+Un servo sporco si trascina qua attorno.
+~
+Il servo indossa degli stracci, emana cattivo odore e ti sembra di vedere dei
+pidocchi saltellare su di lui.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+24 0
+8 8 1
+E
+#17331
+mercante~
+un mercante~
+Un mercante dai vestiti sgargianti ti mostra le sue mercanzie.
+~
+Il mercante indossa una brillante tunica colorata per attirare l'attenzione e
+poter mostrare i suoi beni.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+21 0
+8 8 1
+E
+#17332
+monaco~
+un monaco~
+Un monaco e' qui che mormora qualcosa in latino.
+~
+Il monaco indossa una tunica marrone con un cappuccio.  Un corda intorno alla
+vita funge da cintura.  La testa e' stata rasata alla moda Francescana.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+17 0
+8 8 1
+E
+#17333
+cantastorie~
+un cantastorie~
+Un cantastorie e' qui che suona un'allegra melodia.
+~
+Il cantastorie sta suonando un mandolino.  Ha un vestino dai colori allegri.  
+
+~
+~
+~
+~
+8 0 100 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+25 0
+8 8 1
+E
+#17334
+bardo~
+un bardo~
+Un bardo e' qui che canta un'allegra ballata.
+~
+Nothing.  Il bardo indossa una calzamaglia di seta, una sopravveste di pelle ed
+una camicia color arancio.    
+~
+~
+~
+~
+8 0 100 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+21 0
+8 8 1
+E
+#17335
+saltimbanco~
+un saltimbanco~
+Un saltimbanco e' qui, che da prova della sua maestria acrobatica!
+~
+Il saltimbanco sta facendo salti mortali in avanti ed in dietro in rapida
+successione.    
+~
+~
+~
+~
+8 0 100 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+19 0
+8 8 1
+E
+#17336
+servitore~
+un servitore~
+Un servitore si muove in gran fretta.
+~
+Il servitore ha un vassoio pieno di cibo caldo.  Sembra delizioso.    
+~
+~
+~
+~
+12 262144 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+18 0
+8 8 1
+E
+#17337
+Demone nero~
+un demone di scaglie nere~
+Un gigantesco demone dalle scaglie nere e' venuto per divorare la tua anima!
+~
+Un demone alto piu' di sei metri e' qui di fronte a te.  Ha due teste, scaglie
+nere, una bocca piena di denti affilati, quattro braccia dotate di artigli
+affilati come rasoi, e due gambe muscolose dotate di zoccoli.  Le teste sono
+simili a quelle dei pipistrelli e gli occhi neri sembrano osservarti.  Quando
+respira la terra su cui ti trovi trema e tu sei travolto dal calore.    
+~
+~
+~
+~
+60943 68949034 -1000 -1 -1 -1 -1 -1 E
+64 -4 -10 1d1+999 4d12+15
+48 0
+8 8 1
+BareHandAttack: 3
+Spec: 18
+E
+#17338
+jack iron~
+Iron Jack~
+Iron Jack l'armiere di Camelot e' qui.
+~
+Iron Jack indossa il suo grambiule da lavoro, gambali di cuoio e le sue braccia
+sembrano essere molto muscolose.    
+~
+~
+~
+~
+30730 0 0 -1 -1 -1 -1 -1 E
+40 4 -5 1d1+600 3d9+8
+37 0
+8 8 1
+E
+#17339
+stirrup stalliere~
+Stirrup~
+Stirrup, lo stalliere di Camelot e' qui.
+~
+Stirrup e' un uomo basso che indossa un grembiule di pelle e odora di fienile.
+  
+~
+~
+~
+~
+10 0 400 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+29 0
+8 8 1
+E
+#17340
+cavallo corsa~
+un cavallo da corsa~
+Un cavallo da corsa e' qui.
+~
+Il cavallo da corsa e' sellato con una bardatura leggera ed ha zampe lunghe
+adatte alla corsa.    
+~
+~
+~
+~
+73994 1064 0 -1 -1 -1 -1 -1 E
+40 8 -5 1d1+599 3d10+8
+22 0
+8 8 1
+E
+#17341
+cavallo battaglia~
+il cavallo da battaglia~
+Un cavallo da guerra di taglia media e' qui.
+~
+Il cavallo da guerra e' pesantemente bardato con una corazza di pelle.    
+~
+~
+~
+~
+204840 1064 0 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+699 4d7+9
+40 0
+8 8 1
+E
+#17342
+cavallo battaglia~
+il cavallo da battaglia pesante~
+Un cavallo da guerra di grossa taglia raschia la terra con lo zoccolo praparandosi alla battaglia!
+~
+Il cavallo da guerra di grossa taglia e' bardato con una pesante corazza di
+maglia.    
+~
+~
+~
+~
+10506 1064 0 -1 -1 -1 -1 -1 E
+50 3 -8 1d1+799 4d9+10
+43 0
+8 8 0
+E
+#17343
+incursore sassone~
+un incursore Sassone~
+Un incursore Sassone e' qui pronto a prendere la tua testa come trofeo.
+~
+Il sassone impugna il suo spadone.  I suoi vestiti sono fatti di pellicce.    
+~
+~
+~
+~
+8 524288 -200 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+18 0
+8 8 1
+E
+#17344
+schiava~
+una schiava~
+Una schiava e' qui che si nasconde a causa della battaglia.
+~
+La schiava e' sporca e scarmigliata, ma nell'aspetto conserva ancora traccia
+della sua bellezza e portamento.    
+~
+~
+~
+~
+12 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+25 0
+8 8 2
+E
+#17345
+capo Saxon~
+il capo dei Saxon~
+Il capo dei Saxon e' qui che comanda i suoi uomini.
+~
+Render, il capo dei Sassoni e' adorno di spoglie di guerra.  Mentre lo osservi
+ti accorgi che e' pieno di pidocchi.    
+~
+~
+~
+~
+8 0 -500 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+770 4d9+9
+36 0
+8 8 0
+E
+#17346
+guardia zona nord~
+la guardia della zona nord~
+La guardia della zona nord e' qui per prevenire le intrusioni.
+~
+La guardia dei confini indossa una corazza di maglia ed impugna una normale
+spada.    
+~
+~
+~
+~
+10 0 300 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+29 0
+8 8 1
+E
+#17347
+comandante avamposto~
+il comandante dell'avamposto settentrionale~
+Il comandante dell'avamposto settentrionale e' qui, al sicuro rispetto ai suoi uomini.
+~
+Il comandante di avamposto e' un veterano indurito e rafforzato da una vita di
+battaglie senza fine.    
+~
+~
+~
+~
+10 0 500 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+34 0
+8 8 1
+E
+#17348
+scoto uomo~
+un uomo del clan degli Scoti~
+Uno Scoto e' qui, pronto a fare razzie di donne e whiskey!
+~
+Lo Scoto indossa un kilt, sandali di cuoio ed ha un lungo fascia di stoffa
+legata attorno alle spalle.  Impugna un bellissimo spadone a doppio taglio
+lungo circa 1,20 m.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+22 0
+8 8 1
+E
+#17349
+capo scoti~
+il capo degli Scoti~
+Il capo del clan Scoti e' qui pronto a far fare razzie di donne e whiskey ai suoi uomini.
+~
+Il capo degli Scoti torreggia sopra di te.  Sembra tanto forte da poter
+scagliare un albero lontanissimo da lui.  Sembra possa sollevare un covone di
+fieno intero con un forcono e farlo volare in aria fino a 6 metri d'altezza.  
+Sembra poter bere un intero ba
+~
+~
+~
+~
+8 0 -100 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+770 4d9+9
+33 0
+8 8 1
+E
+#17350
+servo indaffarato~
+un servo indaffarato~
+Un servo indaffarato e' qui che prepara i campi per la semina.
+~
+Il servo impugna arnesi da lavoro da contadini ed e' coperto di stracci.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+27 0
+8 8 1
+E
+#17351
+incursore anglo~
+un incursore Anglo~
+Un incursore Anglo e' qui che brucia capanne e rapisce donne!
+~
+L'incursore Anglo e' alto, ha i capelli biondi ed indossa un elmo con le corna.
+Impugna uno scudo e la sua arma, una spada ricurva.  Sul resto del corpo
+indossa un'armatura di cuoio.    
+~
+~
+~
+~
+8 0 -200 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+29 0
+8 8 1
+E
+#17352
+capo Angle~
+il capo degli Angle~
+Il capo degli Angli e' qui che dirige il massacro!
+~
+Il capo degli Angli e' un gigante, coperto di sangue che scoppia in una
+profonda risata ogni volta che uccide qualcuno.    
+~
+~
+~
+~
+40 32 -700 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+770 4d9+9
+25 0
+8 8 1
+E
+#17353
+unita' cavalleria~
+l'unita' di cavalleria~
+Un'unita' di cavalleria e' qui che cerca di prendere i nemici sul fianco.
+~
+L'unita' di cavalleria e' formata da circa 30 cavalieri su cavalli da guerra di
+media grandezza.    
+~
+~
+~
+~
+12298 0 200 -1 -1 -1 -1 -1 E
+60 0 -9 1d1+970 4d11+11
+43 0
+8 8 1
+E
+#17354
+unita' fanteria~
+l'unita' di fanteria~
+Un'unita' di fanteria e' qui che combatte le orde dei Pitti.
+~
+L'unita' di fanteria e' formata da circa 50 scudieri e servi armati con armi
+lunghe.    
+~
+~
+~
+~
+12298 0 0 -1 -1 -1 -1 -1 E
+57 0 -9 1d1+940 4d11+11
+55 0
+8 8 1
+E
+#17355
+orda Pitti~
+l'orda di Pitti~
+Un'orda dei Pitti e' qui che combatte le truppe di Camelot.
+~
+L'orda dei Pitti e' formata da circa 500 uomini male armati ed equipaggiati.  
+
+~
+~
+~
+~
+8202 0 -100 -1 -1 -1 -1 -1 E
+63 -1 -10 1d1+1020 4d12+12
+52 0
+8 8 0
+E
+#17356
+capo Pitti~
+il capo dei Pitti~
+Il capo dei Pitti e' qui che si ritira dalla battaglia.
+~
+Il capo dei Pitti e' coperto di pittura blu, fatto che gli conferisce un
+aspetto demoniaco, che e' ancor piu' sottolineato dalle corna del suo elmo.  
+
+~
+~
+~
+~
+10 0 -400 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+770 4d9+9
+48 0
+8 8 0
+E
+#17357
+persante cavaliere~
+Persante delle Indie il Cavaliere Blu~
+Persante delle Indie e' qui che guida le truppe di Camelot.
+~
+Persante e' chiamato il cavaliere blu a causa della sua armatura blu.  Cavalca
+un bellissimo animale ed il pennacchio blu del suo elmo si agita al vento
+mentre egli carica i nemici.    
+~
+~
+~
+~
+30808 128 400 -1 -1 -1 -1 -1 E
+49 3 -8 1d1+785 4d9+9
+39 0
+8 8 1
+E
+#17358
+dodinas selvaggio~
+Dodinas il selvaggio~
+Dodinas il Selvaggio e' qui che da solo tiene il centro della prima linea!
+~
+Dodinas sta facendo girare vorticosamente le sue armi ed al contempo sta
+utilizzando tutte le sue conoscenze di combattimento, uccidendo chiunque gli si
+avvicina.  E' a cavallo del suo famoso destriero Rue.    
+~
+~
+~
+~
+24584 32 100 -1 -1 -1 -1 -1 E
+52 2 -8 1d1+840 4d10+10
+39 0
+8 8 1
+E
+#17359
+Cavaliere Lionel~
+Lionel~
+Lionel e' qui, appiedato, che combatte per salvare la sua vita!
+~
+Lionel e' coperto di sangue e cammina come se fosse stordito.  Sembra che stia
+per svenire da un momento all'altro.    
+~
+~
+~
+~
+122889 0 300 -1 -1 -1 -1 -1 E
+48 3 -8 1d1+770 4d9+9
+35 0
+8 8 1
+Spec: 16
+E
+#17360
+Gaheris Cavaliere~
+Gaheris~
+Gaheris, il fratello di Gawaine, e' qui che massacra i razziatori.
+~
+Gaheris ha lunghi capelli rossi e monta un cavallo grigio.  Sembra odiare
+violentemente gli Angli e si sta aprendo la via verso il loro capo.    
+~
+~
+~
+~
+122906 1064 500 -1 -1 -1 -1 -1 E
+58 -1 -9 1d1+950 4d11+11
+40 0
+8 8 1
+E
+#17361
+comandante avamposto meridionale~
+il comandante dell'avamposto meridionale~
+Il comandante dell'avamposto meridionale e' qui, al sicuro rispetto ai suoi uomini.
+~
+Il comandante di avamposto e' un veterano indurito e rafforzato da una vita di
+battaglie senza fine.    
+~
+~
+~
+~
+10 0 500 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+32 0
+8 8 1
+E
+#17362
+guardia zona sud~
+la guardia della zona sud~
+Una guardia dei confini settentrionali e' qui che difende stoicamente il regno dagli invasori.
+~
+La guardia dei confini indossa una corazza di maglia ed impugna una normale
+spada.    
+~
+~
+~
+~
+10 0 300 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+6
+22 0
+8 8 1
+E
+#17363
+schiava~
+una schiava~
+Una schiava e' qui che si nasconde a causa della battaglia.
+~
+La schiava e' sporca e scarmigliata, ma nell'aspetto conserva ancora traccia
+della sua bellezza e portamento.    
+~
+~
+~
+~
+12 524288 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+20 0
+8 8 2
+E
+#17364
+balin selvaggio~
+Balin Il Selvaggio~
+Balin il Selvaggio e' in cerca di una nuova sfida.
+~
+Balin e' un gigantesco barbaro dall'aria sprezzante e combattiva.  Rotea sopra
+la testa una gigantesca mazza chiodata e sembra ben deciso a vedere il colore
+del tuo sangue.    
+~
+~
+~
+~
+57384 2199023289384 0 -1 -1 -1 -1 -1 E
+60 -2 -10 1d1+1099 4d12+13
+59 0
+8 8 1
+BareHandAttack: 10
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 14
+Wis: 14
+E
+$

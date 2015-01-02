@@ -1,0 +1,50 @@
+trigedit 2591
+6  
+/c 
+* Lista comandi
+wait 2
+wsend %actor.name% &3Cominci ad arrampicarti facendo molta attenzione&0
+wechoaround %actor.name% &3%actor.name% comincia ad arrampicarsi verso l'uscita&0
+wait 10 s
+wsend %actor.name% &3Stai salendo pian piano verso la luce.. un passetto per volta, mi raccomando, fai attenzione!&0
+wechoaround %actor.name% &3%actor.name% continua ad arrampicarsi, lentamente ma con costanza&0
+wait 10 s
+wsend %actor.name% &3Appoggi cautamente il piede su una piccola sporgenza... forse questo e' un buon appoggio!&0
+wechoaround %actor.name% &3%actor.name% appoggia cautamente il piede su una sporgenza...&0
+wait 10 s
+eval caduta %random.2%
+if %caduta% == 1
+wsend %actor.name% &3La presa ti sfugge e precipiti a terra!&0
+wechoaround %actor.name% &3%actor.name% perde la presa e precipita! CHE BOTTA!&0
+%damage% %actor.name% 100
+halt
+end
+wsend %actor.name% &3Per un pelo non perdevi la presa! Tiri un bel respiro e continui la salita!&0
+wechoaround %actor.name% &3%actor.name% perde la presa per un attimo! L'ha ripresa.. che colpo!&0
+wait 10 s
+wsend %actor.name% &3Sei sempre piu' stanco e la salita si fa sempre piu' difficoltosa... hai pochi appigli!&0
+wechoaround %actor.name% &3%actor.name% pare in difficolta'.. non trova appigli!&0
+wait 10 s
+wsend %actor.name% &3Sei quasi giunto all'uscita, la speranza ti da nuove energie!&0
+wechoaround %actor.name% &3%actor.name% e' quasi giunto all'uscita!&0
+wait 10 s
+eval caduta %random.5%
+if %caduta% < 5
+wsend %actor.name% &3Stai per mettere la testa fuori dalla buca!&0
+wechoaround %actor.name% &3Sta per uscire dalla buca!&0
+wait 2 s
+wsend %actor.name% &1&xNOOO SCIVOLI PROPRIO ORA!!&0
+%damage% %actor.name% 200
+wechoaround %actor.name% &1&x%actor.name% SCIVOLA!&0
+halt
+end
+wsend %actor.name% &3Stai per mettere la testa fuori dalla buca!&0
+wechoaround %actor.name% &3Sta per uscire dalla buca!&0
+wait 2 s
+wsend %actor.name% &3Finalmente! Ti issi fuori dalla buca!&0
+wechoaround %actor.name% &3%actor.name% e' uscito!!&0
+wteleport %actor.name% 2465253
+~
+/s
+q
+y

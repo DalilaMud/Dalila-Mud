@@ -1,0 +1,14 @@
+trigedit 11022
+6  
+/c 
+eval equip %random.29% -1
+eval oggetto %actor.eq(%equip%)%
+if %oggetto%
+%send% %actor.name% &Z%self.name% si mangia %oggetto.shortdesc%!!&0 
+%echoaround% %actor.name% &Z%self.name% si mangia %oggetto.shortdesc% di %actor.name%!!&0 
+%purge% %oggetto%
+end
+~
+/s
+q
+y

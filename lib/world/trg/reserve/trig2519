@@ -1,0 +1,16 @@
+trigedit 2519
+6  
+/c 
+* Lista comandi
+   wait 1 s
+   say Benvenuto al nostro fantastico Circo!
+   wait 1 s
+   say Volete entrare a vederne le meraviglie? Vedrete fantastici animali, potenti maghi e molte altre attrazioni!
+   wait 1 s
+   say Il biglietto costa solo 10 monete! Visitate il Circo Daresiano!
+   wait 1 s
+   say Venghino venghino Siore e Siori
+~
+/s
+q
+y

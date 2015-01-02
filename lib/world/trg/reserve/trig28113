@@ -1,0 +1,23 @@
+trigedit 28113
+6  
+/c 
+wait 1 s
+if %speech% /= shundar
+  if %actor.room% == 28141
+    %echoaround% %actor% Un fulmine di luce verde parte dalla porta e colpisce improvviso %actor.name%
+    eval danno %actor.hit% - 20
+     %send% %actor% Un fulmine di luce scaturisce dalla porta colpendoti in pieno.
+     %damage% %actor% %danno%  
+  end
+  halt
+end
+wait 3 s
+%echo% La porta di metallo sembra diventare trasparente.
+wdoor 28141 north room 28139
+wait 100 s
+wdoor 28141 north purge
+%echo% La porta di metallo emana un forte bagliore verde.
+~
+/s
+q
+y

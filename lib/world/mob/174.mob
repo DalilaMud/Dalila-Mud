@@ -1,0 +1,1412 @@
+#17400
+monaco rinnegato~
+un monaco rinnegato~
+Un monaco rinnegato e' qui che farnetica.
+~
+Un uomo magro indossa una tunica scura che gli conferisce un aspetto severo.
+Sulla sessantina, scalzo, i suoi capelli sono di un grigio argenteo e sul suo
+volto ascetico splendono un paio di occhi stralunati.
+~
+~
+~
+~
+57420 1536 -500 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+11 20
+8 8 1
+E
+#17401
+cavaliere~
+un cavaliere errante~
+Un cavaliere errante e' qui che attraversa la valle.
+~
+Un uomo robusto con un paio di spalle larghe e capelli striati d'argento.
+Ha l'aria di chi cerca qualcosa ma non sa cosa.
+~
+~
+~
+~
+19032 268469252 -100 -1 -1 -1 -1 -1 E
+23 11 3 1d1+370 2d7+4
+21 20
+8 8 1
+E
+#17402
+scudiero~
+uno scudiero~
+Un vecchio scudiero e' qui in cerca del suo padrone.
+~
+Vestito semplicemente, lo scudiero avanza a fatica a causa dell'eta'. Tuttavia
+lo sguardo scontroso indica che e' ancora in grado di fare male.
+
+~
+~
+~
+~
+135244 9216 -350 -1 -1 -1 -1 -1 E
+16 13 4 1d1+180 2d5+3
+15 20
+8 8 1
+E
+#17403
+folletto~
+un folletto~
+Un folletto e' qui che saltella velocemente.
+~
+Ha le orecchie lunghe e a punta. Lo sguardo furbo e maligno.
+
+~
+~
+~
+~
+2250 1032 -500 -1 -1 -1 -1 -1 E
+10 14 6 1d9+110 1d6+2
+8 20
+8 8 1
+E
+#17404
+fuoco fatuo~
+un fuoco fatuo~
+Un fuoco fatuo ti attacca appena ti avvicini.
+~
+E' una fiammella che galleggia nell'aria.
+~
+~
+~
+~
+256072 1032 0 -1 -1 -1 -1 -1 E
+13 14 7 1d1+130 1d6+3
+10 20
+8 8 0
+E
+#17405
+ragnelfo~
+il ragnelfo~
+Il ragnelfo ti si lancia contro.
+~
+Wehhhh... disgustoso. Un mostro con busto e testa di elfo cresciute sul corpo
+peloso di un ragno orribile e grossissimo.
+~
+~
+~
+~
+49194 37896 -1000 -1 -1 -1 -1 -1 E
+25 11 1 1d1+410 2d10+5
+23 20
+8 8 0
+E
+#17406
+uomo camaleonte~
+un uomo camaleonte~
+Un uomo camaleonte e' qui che si mimetizza.
+~
+Quasi del tutto invisibile, questa creatura ha preso dall'uomo la capacita'
+di muoversi su due gambe e dal camaleonte l'abilita' di mimetizzarsi con
+l'ambiente.
+~
+~
+~
+~
+16460 134218754 0 -1 -1 -1 -1 -1 E
+18 13 4 0d8+230 2d7+3
+10 20
+8 8 1
+E
+#17407
+basilisco~
+un basilisco~
+Un enorme basilisco e' qui che riposa.
+~
+Le scaglie sul dorso sono molto pericolose, come anche le zanne e la possente
+coda. La spessa pelle e' il suo scudo.
+~
+~
+~
+~
+18504 33555456 0 -1 -1 -1 -1 -1 E
+20 12 4 1d1+280 2d8+3
+19 20
+8 8 0
+E
+#17408
+salamandra~
+una salamandra~
+Una salamandra gironzola qui intorno.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+72 263168 0 -1 -1 -1 -1 -1 E
+16 13 5 1d1+190 2d5+2
+10 20
+8 8 0
+E
+#17409
+nebbia~
+la nebbia~
+La nebbia ti avvolge fino a soffocarti.
+~
+Vaporosa ma molto forte, questo ammasso di acqua condensata e' difficilmente
+battibile.
+~
+~
+~
+~
+245864 33832 0 -1 -1 -1 -1 -1 E
+18 16 4 1d1+300 2d4+4
+18 20
+8 8 0
+E
+#17410
+sanguisuga~
+una sanguisuga~
+Una sanguisuga ti salta addosso cercando di dissanguarti.
+~
+Piccola e appiccicosa, questa creatura e' veramente dedita al suo lavoro.
+~
+~
+~
+~
+104 1032 -300 -1 -1 -1 -1 -1 E
+10 16 1 1d1+100 1d6+1
+8 20
+8 8 0
+E
+#17411
+tartaruga gigante~
+una tartaruga gigante~
+Una tartaruga gigante cammina lentamente verso di te.
+~
+E' enorme. Il solo guscio e' grande come il tetto di una casa. La lentezza e'
+compensata dall'incredibile forza che un tale animale deve sprigionare.
+
+~
+~
+~
+~
+81992 50332672 300 -1 -1 -1 -1 -1 E
+15 14 0 1d1+150 2d5+2
+11 20
+8 8 2
+E
+#17412
+brigante~
+un brigante~
+Un brigante dall'aria colpevole e' qui che riposa.
+~
+Il viso sfregiato ed una benda sull'occhio destro lasciano intendere il passato
+di quest'uomo. Di corporatura robusta, il brigante sta consumando una veloce
+colazione a base di pane e vino. Il suo sguardo gelido incrocia il tuo in
+questo momento.
+
+~
+~
+~
+~
+16456 37888 -600 -1 -1 -1 -1 -1 E
+26 10 1 1d1+450 2d7+5
+24 20
+8 8 1
+BareHandAttack: 13
+E
+#17413
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...   
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 40 10 40d20+50 10d9+9
+1 20
+8 8 0
+E
+#17414
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17415
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17416
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17417
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17418
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17419
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17420
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17421
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17422
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17423
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17424
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17425
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17426
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17427
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17428
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17429
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17430
+sentinella~
+una sentinella~
+Una sentinella e' qui di guardia e non ti lascera' passare.
+~
+Alto e robusto, quest'uomo ha il compito di bloccare gli intrusi.
+~
+~
+~
+~
+4142 33555464 10 -1 -1 -1 -1 -1 E
+25 10 2 1d1+350 3d4+4
+21 20
+8 8 1
+E
+#17431
+donna zingara~
+una donna zingara~
+Una donna zingara cammina portando pesanti secchi pieni d'acqua.
+~
+E' magra, pallida e malaticcia. La fatica le ha segnato il corpo con rughe
+premature. Ti guarda sognante mentre arranca con i secchi in mano.
+~
+~
+~
+~
+204 0 0 -1 -1 -1 -1 -1 E
+23 11 1 1d1+330 3d7+4
+15 20
+8 8 2
+E
+#17432
+schiavo zingaro~
+uno zingaro schiavo~
+Uno schiavo zingaro ubriaco barcolla tra i non morti
+~
+Vestito di pochi e sporchi stracci, l'uomo avanza barcollando ed a stento
+riesce a tenere in mano il fiasco di vino ormai quasi vuoto.
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+25 10 1 1d1+370 3d7+4
+22 20
+8 8 1
+E
+T 5400
+#17433
+ragno gigante~
+un ragno gigante~
+Un ragno gigante si muove velocemente verso di te.
+~
+Che schifo!!!!...una palla di pelo nero ad otto zampe.
+~
+~
+~
+~
+67689 263688 -600 -1 -1 -1 -1 -1 E
+30 10 3 1d1+400 3d7+6
+24 20
+8 8 0
+Spec: 13
+E
+#17434
+naween ragazza gitana~
+una ragazza gitana~
+Naween, una bella ragazza gitana e' qui che lavora del tessuto.
+~
+Wow... che splendida creatura. Non capisci cosa ci faccia qui. I suoi occhi
+grandi e limpidi esprimono tenerezza e amore, e quel sorrisino birichino
+lascia trasparire una dolce malizia. Si alza appena si accorge che la guardi
+con insistenza... non e' educato.
+~
+~
+~
+~
+182282 38016 -100 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+299 3d7+5
+18 20
+8 8 2
+E
+#17435
+danzatrice gitana~
+una danzatrice~
+Una danzatrice gitana e' qui che balla sensualmente.
+~
+Capelli scuri, occhi scuri e un sorriso da togliere il fiato. Balla
+elegantemente insieme alla sua compagnia su un ritmo allegro e speranzoso.
+~
+~
+~
+~
+4106 16777344 400 -1 -1 -1 -1 -1 E
+28 10 0 1d1+200 3d7+4
+17 20
+8 8 2
+E
+#17436
+zingaro suonatore~
+uno zingaro suonatore~
+Uno zingaro e' qui che suona un'allegra melodia.
+~
+Suona con grande maestria il violino, strumento del resto tipico di queste
+popolazioni. Detta il ritmo alla gente che balla per la piazza.
+~
+~
+~
+~
+135178 9216 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+400 3d5+5
+20 20
+8 8 1
+E
+#17437
+cacciatore~
+un cacciatore~
+Un cacciatore passa di qui con in spalla la cena.
+~
+Vestito con indumenti ricavati dalla pelle di animali selvatici, quest'uomo
+racchiude in se' tutta l'esperienza dei suoi avi.
+~
+~
+~
+~
+256072 295976 50 -1 -1 -1 -1 -1 E
+36 8 -1 1d1+500 3d5+6
+24 20
+8 8 1
+E
+#17438
+tzegano capoclan~
+il capoclan~
+Tzegano, il capoclan e' qui che passa ore felici.
+~
+Accidenti quanto e' grosso. Ha sicuramente meritato sul campo il titolo
+di condottiero del clan. Anche se visibilmente trattato con le maggiori
+attenzioni, di certo non disdegna allenarsi di tanto in tanto. Questo spiega
+perche' indossa sempre la sua corazza e tiene a portata di mano la sua mazza
+chiodata, che ha sfondato il cranio a molti sfidanti.
+~
+~
+~
+~
+256010 67112984 -800 -1 -1 -1 -1 -1 E
+46 6 -4 1d1+400 4d7+9
+41 20
+8 8 1
+E
+#17439
+guardia corpo~
+una guardia del corpo~
+Una guardia del corpo e' qui vigile e pronta a fermare chiunque.
+~
+E' la tipica guardia personale. Grossa, robusta, aggressiva, e pronta a morire
+per difendere chi l'ha assoldata.
+~
+~
+~
+~
+22570 33555464 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+350 3d6+5
+25 20
+8 8 1
+E
+#17440
+vecchia zingara~
+una vecchia zingara~
+Una vecchia zingara cammina appoggiandosi al suo bastone.
+~
+E' molto anziana ed ha l'aria di chi ha viaggiato molto e ne ha viste di tutti
+i colori. Appena ti vede sfoggia un sorriso senza denti.
+~
+~
+~
+~
+72 1024 500 -1 -1 -1 -1 -1 E
+25 11 2 1d1+400 3d7+4
+16 20
+8 8 2
+E
+#17441
+figlio capo nashan~
+il figlio del capo~
+Nashan, il figlio del capo sta valutando la situazione.
+~
+Molto giovane e molto ambizioso, questo ragazzo ha gia' negli occhi la brama
+del potere. Di grande corporatura si tiene in allenamento con molto esercizio
+fisico e pasti abbondanti.
+~
+~
+~
+~
+149576 33588224 0 -1 -1 -1 -1 -1 E
+40 0 -4 1d1+600 3d10+4
+32 20
+8 8 1
+E
+#17442
+sef sciamano~
+lo sciamano~
+Sef, lo sciamano del villaggio sta pregando le forze del male.
+~
+Un uomo di corporatura robusta con un viso rugoso e occhi infossati privi di
+qualsiasi sentimento. Veste con una lunga tunica e porta una testa di lupo come
+copricapo.
+~
+~
+~
+~
+26634 4194312 0 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+599 3d7+9
+26 20
+8 8 1
+E
+#17443
+energumeno~
+un energumeno~
+Un energumeno con una maschera di avvoltoio e' qui.
+~
+Questo adepto e' qui per fermare i curiosi.
+~
+~
+~
+~
+6248 1032 -700 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+500 3d9+6
+21 20
+8 8 1
+E
+#17444
+shanda indovina~
+l'indovina~
+Shanda l'indovina e' qui che predice il futuro.
+~
+E' molto alta e magra. Avvolta in una veste scura dalla quale spuntano capelli
+argentati, Shanda e' considerata da tutti la maga del villaggio.
+~
+~
+~
+~
+26634 16782336 350 -1 -1 -1 -1 -1 E
+33 9 -2 1d8+460 3d8+6
+21 20
+8 8 2
+E
+#17445
+colt tagliaboschi~
+il tagliaboschi~
+Colt il tagliaboschi e' qui che affila la sua ascia.
+~
+Non completamente umano, Colt viene fafatti da una famiglia di mezz'elfi. La
+bassa statura e' compensata dai possenti muscoli che usa per abbattere
+qualsiasi albero.
+~
+~
+~
+~
+81992 1024 0 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d6+6
+26 20
+8 8 1
+E
+#17446
+cane randagio~
+un cane randagio~
+Un cane randagio e' qui che ringhia affamato.
+~
+Un cane molto grosso, affamato e addestrato ad attaccare gli sconosciuti.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+25 11 4 1d1+400 3d7+9
+16 20
+8 8 1
+E
+#17447
+zirax eremita~
+l'eremita~
+Zirax l'eremita e' qui che lavora dietro provette e alambicchi.
+~
+Piccolo, ricurvo su se stesso e ormai non piu' giovane, Zirax si e' ritirato
+qui tanti anni or sono per dedicarsi all'alchimia. Una vita votata allo studio
+delle arti magiche mescolate con elementi naturali, ha fatto di quest'uomo uno
+dei massimi esperti nella creazione di pozioni.
+~
+~
+~
+~
+149514 17826840 0 -1 -1 -1 -1 -1 E
+40 8 -3 1d1+450 3d5+6
+27 20
+8 8 1
+E
+#17448
+archelon uomodrago~
+l'uomodrago~
+Archelon l'uomodrago sbuca dal nulla.
+~
+Meta' uomo, meta' drago,Archelon e' il custode del grande segreto.
+~
+~
+~
+~
+81962 1032 -1000 -1 -1 -1 -1 -1 E
+37 8 -3 1d1+550 3d9+8
+27 20
+8 8 1
+E
+#17449
+drago nero~
+un drago nero~
+Un temibile drago nero e' qui che riposa.
+~
+E' un bellissimo esemplare di drago. Dalle fauci semichiuse fuoriesce un caldo
+vapore che secca l'aria. Le scaglie nere sono lucide e pulite, mentre l'enorme
+coda e' arrotolata tra le possenti ali.
+~
+~
+~
+~
+256011 16778240 0 -1 -1 -1 -1 -1 E
+42 7 -4 1d1+640 3d10+8
+40 20
+5 5 1
+Spec: 30
+E
+#17450
+drago bianco~
+un drago bianco~
+Un fantastico drago bianco e' qui che riposa.
+~
+E' bianco come la neve appena caduta che luccica sotto il sole. A prima vista
+sembrerebbe un essere delicato, quasi di cristallo ma un ruggito disumano ti
+ricorda che draghi come questo possono sconfiggere decine di guerrieri con un
+solo attacco.
+~
+~
+~
+~
+1099511881739 16778240 0 -1 -1 -1 -1 -1 E
+55 0 -6 1d1+1350 4d10+12
+50 20
+4 4 2
+Spec: 29
+E
+#17451
+draghetto deforme~
+un draghetto deforme~
+Un draghetto deforme e' qui che sbava.
+~
+Mmmmmm....questi devono essee il risultato abnorme di qualche strano incrocio.
+
+~
+~
+~
+~
+20522 1032 -600 -1 -1 -1 -1 -1 E
+25 10 0 1d1+300 3d7+7
+23 20
+8 8 0
+E
+#17452
+guardia~
+una guardia del vento~
+Una guardia del vento e'  qui che conclude la ronda.
+~
+Questo zingaro appartiene alla guarnigione del vento, un'antica scuola militare
+ormai decaduta che insegnava ai propri uomini a destreggiarsi in situazioni
+estreme. Porta lo stemma della scuola cucito sulla giacca, mentre il simbolo
+di appartenenza dev'essere quel bell'anello.
+~
+~
+~
+~
+22600 13312 400 -1 -1 -1 -1 -1 E
+37 8 -3 1d8+540 3d6+6
+23 20
+8 8 1
+E
+#17453
+carnefice~
+un carnefice~
+Un carnefice e' qui che racconta storie di sangue.
+~
+Tipico macellaio sanguinario, questa belva uccide per il solo piacere di farlo.
+Non rispetta alcuna legge e si fa beffe delle decine di taglie poste sulla sua
+testa.
+~
+~
+~
+~
+16906 33555456 -1000 -1 -1 -1 -1 -1 E
+39 8 -4 1d1+580 3d6+8
+29 20
+8 8 1
+E
+#17454
+guardia fidata~
+una guardia fidata~
+Una guardia fidata sbarra l'accesso alla capanna.
+~
+Scarsa ambizione, molti muscoli, poco cervello e il taglio della lingua sono le
+caratteristiche che devono avere le aspiranti guardie fidate. Ti senti pronto?
+~
+~
+~
+~
+4138 1032 0 -1 -1 -1 -1 -1 E
+37 8 -2 1d1+540 3d7+7
+26 20
+8 8 1
+E
+#17455
+assassino~
+un assassino~
+Un assassino e' qui pronto a colpire.
+~
+E' difficile da notare perche' riesce a mimetizzarsi con l'ambiente. Da vero
+professionista aspetta il momento buono per onorare il contratto. E' un
+avversario temibile.
+~
+~
+~
+~
+190474 558088 0 -1 -1 -1 -1 -1 E
+42 7 -5 1d1+640 3d7+8
+28 20
+8 8 1
+E
+#17456
+piantone~
+un piantone~
+Un piantone sta facendo buona guardia al magazzino.
+~
+Messo qui controvoglia, questo zingaro pensa a tutt'altro in verita'. Non vede
+l'ora che arrivi il cambio. Quando ti vede per un attimo assume un'aria
+speranzosa ma subito dopo la delusione si rimpadronisce di lui.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+30 10 0 1d8+400 3d10+6
+27 20
+8 8 1
+E
+#17457
+menestrello~
+il menestrello~
+Un menestrello e' qui che canta allegramente.
+~
+Canta di dame e cavalieri
+di mostri e avventurieri
+passati e presenti
+mentre digrigna i denti...
+~
+~
+~
+~
+67660 33555456 0 -1 -1 -1 -1 -1 E
+30 11 0 1d1+400 3d7+6
+21 20
+8 8 1
+E
+#17458
+ranger~
+il ranger~
+Un ranger e' qui che controlla la situazione.
+~
+Uno dei pochi personaggi arrivati qui per caso o per compiere una missione. In
+particolare questo ranger mostra a tutti un manifesto raffigurante un volto
+a te familiare. La scritta 'Cercasi Carnefice vivo o morto' dissolve i tuoi
+ultimi dubbi.
+~
+~
+~
+~
+72 5120 0 -1 -1 -1 -1 -1 E
+40 8 -4 1d1+600 3d9+7
+34 550
+8 8 1
+E
+#17459
+vedetta~
+una vedetta~
+Una vedetta osserva l'orizzonte.
+~
+Una giovane recluta. Avvolto in un pesante mantello ha ormai gli occhi rossi e
+la pelle screpolata a forza di stare a quest'altezza per scrutare oltre il
+villaggio.
+~
+~
+~
+~
+10 1152 0 -1 -1 -1 -1 -1 E
+35 0 10 1d8+1 1d6+1
+28 20
+8 8 1
+E
+#17460
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17461
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17462
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17463
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17464
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17465
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17466
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17467
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17468
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17469
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17470
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17471
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17472
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+0 20
+8 8 0
+E
+#17473
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17474
+dummy mob~
+a dummy mob~
+A dummy mob is standing here.
+~
+Here you can put your extra description...
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 0 10 1d8+1 1d6+1
+1 20
+8 8 0
+E
+#17475
+serpente marino~
+un serpente marino~
+Un serpente marino sta cercando di stritolarti.
+~
+Questo tipo di serpente puo' allargare le fauci a dismisura, tanto da ingoiare
+prede che sembrano troppo grandi per lui. E tu sarai la prossima!!
+~
+~
+~
+~
+32872 41944072 0 -1 -1 -1 -1 -1 E
+38 0 10 1d8+1 1d6+1
+27 20
+8 8 0
+E
+#17476
+drago marino~
+un drago marino~
+Un drago marino spalanca le sue fauci verso di te.
+~
+E' una specie rara da incontrare. I draghi marini sono conosciuti per la loro
+aggressivita' e voracita'.
+~
+~
+~
+~
+18536 25166856 0 -1 -1 -1 -1 -1 E
+40 0 10 1d8+1 1d6+1
+22 20
+8 8 0
+E
+#17477
+sacerdote~
+un sacerdote~
+Un sacerdote e' qui che venera il suo Dio.
+~
+E' molto devoto al suo Dio e farebbe qualsiasi cosa per evitare che briganti
+possano profanarne il Tempio. Una lunga veste verde e' l'unico indumento che
+indossa fatta eccezione per l'amuleto che porta al collo ed il bastone che
+tiene in mano.
+~
+~
+~
+~
+18698 1086492 0 -1 -1 -1 -1 -1 E
+50 0 10 1d8+1 1d6+1
+49 20
+8 8 1
+E
+#17478
+invasato~
+un invasato~
+Un invasato e' qui che prega tirandosi i capelli.
+~
+E' pazzo. La sua fede lo ha reso incapace di pensare a qualsiasi altra cosa. Si
+strappa i capelli
+e si graffia il volto. E' pronto per morire.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+35 0 10 1d8+1 1d6+1
+20 20
+8 8 1
+E
+#17479
+bestia orrenda~
+la bestia orrenda~
+La bestia orrenda e' qui che digrigna i denti affilatissimi.
+~
+E' la creatura piu' spaventosa che tu abbia mai visto. L'enorme corpo e'
+ricoperto da una specie di crosta pelosa e le sei zampe finiscono con artigli
+lunghissimi.
+La testa deforme presenta tre occhi sanguinari e un muso allungato a dismisura.
+Le fauci sbavano un liquido puzzolente e appiccicoso.
+Buona fortuna.
+~
+~
+~
+~
+253962 33600512 0 -1 -1 -1 -1 -1 E
+25 9 -4 1d1+699 2d5+7
+20 20
+8 8 0
+Spec: 30
+E
+#17480
+cinghiale~
+un cinghiale~
+Un cinghiale selvatico tenta di caricarti.
+~
+E' grosso e ha due zanne che spuntano dal muso.
+~
+~
+~
+~
+104 1152 0 -1 -1 -1 -1 -1 E
+35 0 10 1d8+1 1d6+1
+26 20
+8 8 0
+E
+#17481
+drago komodo~
+il drago di Komodo~
+Il drago di Komodo e' qui che insegue un porco selvatico.
+~
+Questo esemplare, sebbene piu' piccolo rispetto ai suoi parenti, e' dotato di
+un'incredibile forza.
+Alto solo quanto una casa e pesante come due cavalli, il drago di Komodo e'
+indiscriminatamente avido di carne morta o viva. Nonostante la sua mole, si
+muove agilmente e rapidamente quando caccia.
+~
+~
+~
+~
+65608 294912 0 -1 -1 -1 -1 -1 E
+45 0 10 1d8+1 1d6+1
+32 20
+8 8 0
+E
+#17482
+coccodrillo~
+un coccodrillo~
+Un coccodrillo ti sta puntando.
+~
+Lungo come una canoa, si dirige verso di te spalancando le fauci.
+~
+~
+~
+~
+104 41944072 0 -1 -1 -1 -1 -1 E
+40 0 10 1d8+1 1d6+1
+26 20
+8 8 0
+E
+#17483
+anaconda~
+un'anaconda~
+Un'anaconda si cala da un ramo e ti stritola.
+~
+Arrotolata su se stessa, ha il corpo grosso quanto un tronco.
+~
+~
+~
+~
+22632 1024 0 -1 -1 -1 -1 -1 E
+43 0 10 1d8+1 1d6+1
+40 20
+8 8 0
+E
+#17484
+cannibale~
+un cannibale~
+Un cannibale e' qui che cerca di catturarti VIVO!!
+~
+Indigeno dell'isola, e' uno dei pochi cannibali superstiti.
+Molti infatti si sono divorati a vicenda a causa della scarsita' di carne
+umana.
+~
+~
+~
+~
+20584 5248 0 -1 -1 -1 -1 -1 E
+45 0 10 1d8+1 1d6+1
+28 20
+8 8 1
+E
+#17485
+lucertolone~
+un lucertolone~
+Un lucertolone si muove verso di te.
+~
+E' quasi grande il doppio di un uomo e lungo quanto una carovana.
+Dal lungo muso spuntano denti affilatissimi.
+~
+~
+~
+~
+86120 134251528 0 -1 -1 -1 -1 -1 E
+40 0 10 1d8+1 1d6+1
+25 20
+8 8 0
+E
+#17486
+granchio gigante~
+un granchio gigante~
+Un granchio gigante e' qui che schiocca le sue tenaglie.
+~
+E' spaventoso. La crosta che lo ricopre e' cosparsa di spigoli acuminati.
+~
+~
+~
+~
+6248 1152 0 -1 -1 -1 -1 -1 E
+41 0 10 1d8+1 1d6+1
+36 20
+8 8 0
+E
+#17487
+orco marino~
+un orco marino~
+Un orco marino spunta all'improvviso e ti attacca.
+~
+E' una rara specie di orco abituato a vivere in grotte sul fondo del mare.
+E' pericolosissimo.
+~
+~
+~
+~
+18536 75531288 0 -1 -1 -1 -1 -1 E
+47 0 10 1d8+1 1d6+1
+34 20
+8 8 1
+E
+$

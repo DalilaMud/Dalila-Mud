@@ -1,0 +1,15 @@
+trigedit 12611
+6  
+/c 
+if %actor.name% == %nemico%
+if %attaccante% == on
+wait 3 s
+end
+mgoto %stanza%
+wait 3
+say eccomi
+end
+~
+/s
+q
+y

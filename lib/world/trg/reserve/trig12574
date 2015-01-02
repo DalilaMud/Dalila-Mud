@@ -1,0 +1,19 @@
+trigedit 12574
+6  
+/c 
+* Lista comandi
+if %speech% == devo uscire
+if %actor.clan% == 5 && %actor.rank% > 20
+%echo% la guardia da un segnale e i cancelli si aprono lentamente per far passare %actor.name%
+%teleport% %actor.name% 12522
+elseif %actor.name% == rakahrt
+%teleport% %actor.name% 12522
+else
+wait 2 s
+say Mi dispiace, non vi e' permesso attraversare questi cancelli
+end
+end
+~
+/s
+q
+y

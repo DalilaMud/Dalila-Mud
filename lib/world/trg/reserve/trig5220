@@ -1,0 +1,9 @@
+trigedit 5220
+6  
+/c 
+%echoaround% %actor% &E%actor.name% esegue dei graziosissimi movimenti di leggiadra danza&0
+%send% %actor% &ENon puoi fare a meno di eseguire un magistrale passo di danza!&0
+~
+/s
+q
+y

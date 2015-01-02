@@ -1,0 +1,22 @@
+trigedit 28009
+6  
+/c 
+if %actor.rank% >= 28 && %actor.clan% == 8
+  if %actor.vnum% == -1
+    %send% %actor% Ok
+    wait 1 s
+    %echo% %actor.name% suona un campanello d'argento.
+    wait 2 s
+    %echo% Una guardia reale arriva di corsa.
+    %load% mob 28014
+    wait 1 s
+    %force% reale6 bow
+    wait 1 s
+    %echo% Una guardia Reale dice, 'Ai Vostri ordini Sire'
+  end
+  
+end
+~
+/s
+q
+y

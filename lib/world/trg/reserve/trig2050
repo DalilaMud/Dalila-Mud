@@ -1,0 +1,169 @@
+trigedit 2050
+6  
+/c 
+if %actor.vnum% != -1
+halt
+end
+if %actor.level% > 70
+wait 2 s
+inch %actor.name%
+wait 2 s
+emote borbotta qualcosa nella sua strana lingua..
+wait 1 s
+say Hum huuuumm brum mi spiace, %actor.name%, ma gli esseri come voi sono al di fuori dell'Ordine Naturale, non vi e' concesso di aiutare Therion.
+halt
+end
+if %missione% == 1
+wait 2 s
+say Humm rum hum dovremo aspettare che %pg% termini la sua missione prima di affidarne un'altra...
+halt
+end
+if %mob% == 1
+wait 2 s
+say Hum hm Therion al momento non ha bisogno di aiuto, prode %actor.name%, tornate tra qualche tempo.
+halt
+end
+set missione 1
+set counter 0
+global counter
+global missione
+set mob 1
+global mob
+set livello %actor.level%
+global livello
+set pg %actor.name%
+global pg
+wait 2 s
+ann
+wait 1 s
+emote borbotta soddisfatto..
+wait 1 s
+say Hm..molto bene %pg%, Therion accetta il vostro aiuto!  
+wait 2 s
+if %livello% < 20
+eval quest %random.3%
+if %quest% == 1
+say Humm hum...molto tempo fa un grosso male colpi' la foresta di Haon-Dor e molte gentili creature furono corrotte
+wait 2 s
+say Aiutate a risanare lo scempio causato dall'emisario di Xhyphys estirpando l'abominio vegetale da lui generato!
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat erbacce mpurge erbacce
+mat rfcmsn mload mob 6115
+mat rfcmsn mforce erbacce mload obj 2055
+mat rfcmsn mforce erbacce mgoto 6128
+mat erbacce mforce erbacce get all
+halt
+elseif %quest% == 2
+say Hruumbum un perfido mago vive nascosto nelle profonde caverne di Moria! Per seguire le sue arti magiche ha sconvolto l'equilibrio di quel luogo..   
+wait 2 s
+say Therion desidera che voi ristabiliate l'ordine delle caverne eliminando il mago.
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat mmqs mpurge mmqs
+mat rfcmsn mload mob 4100
+mat rfcmsn mforce mmqs mload obj 2055
+mat rfcmsn mforce mmqs mgoto 4114
+mat mmqs mforce mmqs get all
+halt
+else
+say  Hummruuum Alcune persone desiderano andare contro la Natura, prolungando la propria giovinezza: per far questo usano riti che turbano l'ordine naturale delle cose!  
+wait 2 s
+say Lady Death e' una di queste persone: la sua bellezza e' mantenuta al costo della vita di innumerevoli creature innocenti. Ristabilite l'ordine! 
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat ldxqt mpurge ldxqt
+mat rfcmsn mload mob 11280
+mat rfcmsn mforce ldxqt mload obj 2055
+mat rfcmsn mforce ldxqt mgoto 11283
+mat ldxqt mforce ldxqt soggh
+halt
+end
+elseif %livello% < 40
+eval quest %random.3%
+if %quest% == 1
+say Hruuumbummbararum Arachnos e' una delle innumerevoli immonde creature generate dalle forze del Caos!
+wait 2 s
+say Ponete fine alla sua esistenza blasfema in modo che la Natura possa risanare la sua tana...   
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat arxqt mpurge arxqt
+mat rfcmsn mload mob 6314
+mat rfcmsn mforce arxqt mload obj 2055
+mat rfcmsn mforce arxqt mgoto 6399
+mat arxqt mforce arxqt get all
+halt
+elseif %quest% == 2
+say Hruuum bum, a volte la follia corrompe anche le creature piu' nobili, come gli Elfi.     
+wait 2 s
+say Elstar, nella sua stoltezza, crede di poter cambiare la natura con i suoi orribili esperimenti. Ponete fine alla sua follia!   
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat elstar mpurge elstar
+mat rfcmsn mload mob 6210
+mat rfcmsn mforce elstar mload obj 2055
+mat rfcmsn mforce elstar mgoto 6259
+mat elstar mforce elstar get all
+mat elstar mforce elstar indo all
+mat elstar mforce elstar hold lama
+halt
+else
+say Hrummm bummm esiste una strega che si e' messa al servizio delle forze del Caos... vive nell'impuro luogo conosciuto come Cimitero di Rasheen
+wait 2 s
+say Purgate la Daresia dalla sua immonda presenza...
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat srxqt mpurge srxqt
+mat rfcmsn mload mob 18522
+mat srxqt mforce srxqt mload obj 2055
+mat srxqt mforce srxqt mgoto 18551
+mat srxqt mforce srxqt get all
+mat srxqt mforce srxqt indo all
+mat srxqt mforce srxqt hold chia
+end
+halt
+else
+eval quest %random.3%
+if %quest% == 1
+say Hruuumbararuum le forze del Caos sanno corrompere anche le piu' nobili e potenti creature! 
+wait 2 s
+say Il possente Drago Verde di Haon-Dor e' stato da tempo mutato in un orrendo Dracolich! Bisogna rimediare!   
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat dvxqt mpurge dvxqt
+mat rfcmsn mload mob 5630
+mat rfcmsn mforce dvxqt mload obj 2055
+mat rfcmsn mforce dvxqt mgoto 6143
+halt
+elseif %quest% == 2
+say Hruumrumbum esistono arti oscure e blasfeme che non devono essere praticate perche' turbano la Natura!    
+wait 2 s
+say Punite il necromante che vive nell'Alta Torre della Magia per la sua follia!   
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat ntxqt mpurge ntxqt   
+mat rfcmsn mload mob 2549
+mat rfcmsn mforce ntxqt mload obj 2055
+mat rfcmsn mforce ntxqt mgoto 2625
+mat ntxqt mforce ntxqt get all
+mat ntxqt mforce ntxqt indo all
+halt
+else
+say  Hrumbararuum un Dracolich rappresenta il Caos che agisce e corrompe la nobilta' della Natura.   
+wait 2 s
+say  Nei sotterranei della Cattedrale maledetta ne vive uno.... liberate il mondo dalla sua presenza.
+wait 2 s
+say Portate la Pietra della Vita, e la ricompensa sara' vostra, %pg%.
+mat wyrenthoth mpurge wyrenthoth   
+mat rfcmsn mload mob 18705
+mat rfcmsn mforce wyrenthoth mload obj 2055
+mat rfcmsn mforce wyrenthoth mgoto 18749
+mat wyrenthoth mforce wyrenthoth get chia
+mat wyrenthoth mforce wyrenthoth hold chia
+end
+halt
+end
+~
+/s
+q
+y

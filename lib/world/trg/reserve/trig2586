@@ -1,0 +1,16 @@
+trigedit 2586
+6  
+/c 
+opurge sidul
+wait 1 s
+osend %actor.name% Emetti un limpido fischio col tuo richiamo
+oechoaround %actor.name% %actor.name% fischia nel suo richiamo per piccioni
+wait 3 s
+oload mob 1356
+oecho &7Al tuo richiamo, un simpatico piccione arriva volando e si posa qui vicino in attesa di qualcosa...&0
+wait 1 s
+osend %actor.name% se darai qualcosa al tuo piccione, poi potrai dirgli di trasportarlo da chi vuoi tu
+~
+/s
+q
+y

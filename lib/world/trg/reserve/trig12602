@@ -1,0 +1,40 @@
+trigedit 12602
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &1&x %actor.name% sferra un potente calcio contro %victim.name%&0
+mat %2% &1&x %actor.name% sferra un potente calcio contro %victim.name%&0
+mat %3% &1&x %actor.name% sferra un potente calcio contro %victim.name%&0
+mat %4% &1&x %actor.name% sferra un potente calcio contro %victim.name%&0
+mat %5% &1&x %actor.name% sferra un potente calcio contro %victim.name%&0
+eval calcio %calcio% + 1
+global calcio
+if %calcio% == 3
+wait 1 s
+mat %1% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %2% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %3% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %4% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %5% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+end
+if %calcio% == 5
+wait 1 s
+mat %1% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %2% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %3% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %4% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %5% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+end
+if %calcio% == 8
+wait 1 s
+mat %1% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %2% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %3% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %4% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+mat %5% &6I calci di %actor.name% continuano a centrare i suoi avversari, buona tecnica &0
+end
+end
+~
+/s
+q
+y

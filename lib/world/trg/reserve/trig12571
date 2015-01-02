@@ -1,0 +1,14 @@
+trigedit 12571
+6  
+/c 
+if %start% != on
+set start on
+global start
+mload mob 12551
+wait 2
+say configura
+end
+~
+/s
+q
+y

@@ -1,0 +1,25 @@
+trigedit 2078
+6  
+/c 
+wait 1
+switch %self.vnum%
+ case 779
+ wsend piagolo &6&x%actor.name% si e' qualificato con il rank di &7Iniziato&0 di &6&xTherion&0
+ break
+ case 780
+ wsend piagolo &6&x%actor.name% si e' qualificato con il rank di &2Druido&0 di &6&xTherion&0
+ break
+ case 781
+ wsend piagolo &6&x%actor.name% si e' qualificato con il rank di &0Arcidruido di &6&xTherion&0
+ break
+ case 782
+ wsend piagolo &6&x%actor.name% si e' qualificato con il rank di &4&xGuardiano della Vita&0
+ break
+ case 783
+ wsend piagolo &6&x%actor.name% si e' qualificato con il rank di Ramingo&0
+ break
+done
+~
+/s
+q
+y

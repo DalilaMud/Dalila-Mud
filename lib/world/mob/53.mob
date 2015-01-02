@@ -1,0 +1,310 @@
+#5300
+aspide~
+un orrendo aspide~
+Un piccolo e velenoso aspide striscia sui tuoi piedi.
+~
+L'aspide e' un piccolo serpente dalle scaglie lisce e del colore della
+terracotta.  Il morso velenoso di questo serpenet ha ucciso piu' di un potente
+faraone.    
+~
+~
+~
+~
+262249 1024 -200 -1 -1 -1 -1 -1 E
+15 14 3 1d1+260 2d8+2
+8 1000
+8 8 0
+Spec: 13
+E
+#5301
+cobra serpente~
+il cobra mascherato~
+Un cobra solleva la testa e spalanca la sua bocca.
+~
+Il cobra ondeggia avanti ed indietro di fronte a te, i suoi occhi hanno un
+colore magnetico per attrarre le prede e poi ghermirle.    
+~
+~
+~
+~
+562949953421417 1024 -100 -1 -1 -1 -1 -1 E
+18 13 3 1d1+300 2d9+3
+11 2000
+8 8 0
+Spec: 13
+E
+#5302
+mangusta~
+una piccola mangusta~
+Una piccola mangusta sbuca dal terreno in cerca di serpenti.
+~
+La mangusta e' un piccolo roditore, un veloce cacciatore di serpenti velenosi.
+Fiuta l'aria ed appare in cerca di cibo.    
+~
+~
+~
+~
+104 1032 10 -1 -1 -1 -1 -1 E
+20 12 2 1d1+160 2d10+4
+18 10000
+8 8 2
+E
+#5303
+piramide guardiano~
+il guardiano della piramide~
+Il guardiano della piramide protegge le tombe dagli intrusi.
+~
+Il guardiano della piramide ha giurato di distruggere qualunque razziatore
+tenti di intrufolarsi nelle tombe dei faraoni.  Indossa vestiti color della
+sabbia che lo coprono interamente.    
+~
+~
+~
+~
+4122 32768 25 -1 -1 -1 -1 -1 E
+24 12 0 1d1+350 2d8+5
+24 3750
+8 8 1
+E
+#5304
+ladro tomba~
+il ladro delle tombe~
+Un silenzioso ladro si muove in cerca di tesori.
+~
+Il ladro ti sfiora, poi scompare tra le ombre.
+~
+~
+~
+~
+201 294912 -150 -1 -1 -1 -1 -1 E
+27 10 0 1d1+400 3d6+4
+24 9000
+8 8 1
+Spec: 14
+E
+#5305
+ali baba ladro~
+Ali Baba~
+Ali Baba e' qui in cerca della tomba del faraone.
+~
+Vedi un uomo alto e dalla barba folta con una luce maliziosa negli occhi.  Al
+Baba vive per rubare agli altri, compresi i guardiani di questa piramide.  Un
+giorno o l'altro potrebbero catturarlo, ma non oggi...    
+~
+~
+~
+~
+18524 294912 -300 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+540 3d8+6
+29 30000
+8 8 1
+E
+#5306
+tappeto magico~
+il tappeto magico~
+Un piccolo tappeto di lana giace sotto ai tuoi piedi.
+~
+Il tappeto e' meraviglioso, fatto di lana e seta.  Sembra muoversi sotto ai
+tuoi piedi.  Aspetta, si sta alzando ad alcuni centimetri dal suolo!  Sembra
+essere VIVO!    
+~
+~
+~
+~
+256026 33800 50 -1 -1 -1 -1 -1 E
+33 11 -2 1d1+460 3d8+5
+27 6000
+8 8 1
+E
+#5307
+mummia cadavere~
+una mummia~
+Una mummia ti raggiunge disturbata dalla tua presenza.
+~
+Vedi solo una figura sfigurata dalla carne in decomposizione e animata dallo
+spirito inquieto di una persona morta ormai da molto.    
+~
+~
+~
+~
+188520 33832 -100 -1 -1 -1 -1 -1 E
+25 12 0 1d1+350 2d8+4
+20 15000
+8 8 2
+E
+#5308
+uomo sabbia~
+l'uomo sabbia~
+La sabbia del deserto prende la forma di un uomo davanti ai tuoi occhi.
+~
+L'uomo di sabbia e' esattamente cio' che la parola suggerisce -- un essere
+formato dalle sabbie del deserto.  Sembra abbastanza grosso e forte e si trova
+di certo a suo agio nelle calde temperature del deserto.    
+~
+~
+~
+~
+190552 33800 0 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d8+5
+29 18000
+8 8 1
+E
+#5309
+efreeti efreet~
+un efreeti~
+Un efreeti si trova qui, avvolto da una colonna di fuoco.
+~
+L'efreeti e' un essere potente formato da fuoco vivente.  Ti osserva
+sdegnosamente con le braccia sono incrociate sul petto.    
+~
+~
+~
+~
+256026 17859592 -200 -1 -1 -1 -1 -1 E
+40 10 -4 1d1+550 3d8+6
+27 80000
+8 8 1
+E
+#5310
+cariatide colonna~
+una cariatide~
+Una colonna di pietra del deserto, lavorata in modo da rappresentare una figura femminile, si trova qui.
+~
+La colonna e' stata lavorata in modo da rappresentare quattro donne, ciascuna
+rivolta verso un punto cardinale.  La pietra del deserto e' levigata dal
+trascorrere del tempo ma puoi ancora riconoscere la presenza originaria di
+spade impugnate dalle figure.    
+~
+~
+~
+~
+260122 33792 0 -1 -1 -1 -1 -1 E
+33 11 -2 1d1+450 2d10+5
+21 100000
+8 8 2
+E
+#5311
+genio~
+un genio~
+Un genio spunta da una piccola lanterna.
+~
+Il genio e' un essere potente composto d'aria e di solito imprigionato in
+piccole lampade per esaudire i voleri di chi la trova.  Ti sorride con le
+braccia incrociate sul petto bluastro, mentre china il suo capo.    
+~
+~
+~
+~
+256027 33800 150 -1 -1 -1 -1 -1 E
+35 10 -3 1d1+500 3d9+7
+26 310000
+8 8 1
+Spec: 15
+E
+#5312
+hieracosfinge sfinge~
+una hieracosfinge~
+Una hieracosfinge ti guarda con occhi penetranti.
+~
+Le hieracosfingi sono creature piccole e sveglie, dalla testa di uccello, dalle
+poteti ali e dotate di quattro serie di artigli con cui fanno a pezzi le
+vittime.  Tendono ad essere alquanto gelose delle facolt mentali piu' potenti
+dei loro cugini.    
+~
+~
+~
+~
+92280 33800 -200 -1 -1 -1 -1 -1 E
+25 11 -1 1d1+300 3d7+4
+21 31000
+8 8 2
+E
+#5313
+gynosfinge sfinge~
+una gynosfinge~
+Una gynosfinge siede qui pensando ad un indovinello.
+~
+La gynosfinge e' una creatura orrenda ma gentile.  Ha infatti il corpo di una
+bellissima donna dalla pelle scura dalla vita in su, una serie di ali sulla
+schiena e le gambe di un felino.  In questo momento sembra confusa avendo
+appena ricevuto un indovinello da risolvere da una criosfinge.    
+~
+~
+~
+~
+92186 33800 100 -1 -1 -1 -1 -1 E
+30 10 -2 1d1+450 3d8+5
+18 55000
+8 8 2
+E
+#5314
+criosfinge sfinge~
+una criosfinge~
+Una criosfinge ti osserva con tranquillita'.
+~
+La criosfinge e' un essere tranquillo ed amichevole.  Ha la testa di un ariete
+sopra al corpo di un felino dal pelo folto e ha ali simili a quelle di
+un'aquila.  Si diverte a pensare indovinelli e a porli ai suoi cugini.    
+~
+~
+~
+~
+92186 33800 300 -1 -1 -1 -1 -1 E
+33 11 -3 1d1+460 3d8+5
+19 80000
+8 8 2
+E
+#5315
+androsfinge sfinge~
+un'androsfinge~
+Una possente androsfinge scuote la sua criniera da leone.
+~
+La potente androsfinge e' un'enorme creatura con il corpo di un leone il cui
+volto ha qualcosa di umano e con delle gigantesche ali piumate.  Le leggende
+narrano di un faraone reso sordo per aver udito il suo potente ruggito.    
+~
+~
+~
+~
+92186 33800 400 -1 -1 -1 -1 -1 E
+38 9 -4 1d1+560 3d9+7
+33 200000
+8 8 2
+E
+#5316
+grande sfinge~
+la grande sfinge~
+Una possente sfinge riposa qui nella sabbia.
+~
+La grande sfinge torreggia sopra di te, sembra stia dormendo.  E' ormai quasi
+scomparsa, sommersa dalla sabbia che la circonda, ma puoi ancora riconoscere i
+lineamenti del suo volto.    
+~
+~
+~
+~
+256026 33928 500 -1 -1 -1 -1 -1 E
+43 8 -5 1d1+400 3d10+8
+42 500000
+8 8 2
+E
+#5317
+ramses mummia~
+Ramses il Dannato~
+Hai appena risvegliato Ramses, il potente servo del faraone.
+~
+Quando la tua luce illumina il volto ed il corpo dell'essere che hai di fronte,
+ti accorgi che la figura e' quella di un uomo grosso e in piena salute, avvolto
+in bende.  I suoi capelli sono neri, come anche la pelle, il suo petto e'
+orrendamente immobile, sembra che non gli occorra respirare!    
+~
+~
+~
+~
+190491 33928 150 -1 -1 -1 -1 -1 E
+47 6 -6 1d1+500 4d8+10
+24 1000000
+8 8 1
+Spec: 16
+E
+$

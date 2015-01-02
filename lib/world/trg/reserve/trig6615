@@ -1,0 +1,19 @@
+trigedit 6615
+6  
+/c 
+* Lista comandi
+if %speech% == magazzino
+if %actor.name% == Faber
+wait 2 s
+wsend %actor.name% In un baleno appare una scala a chiocciola verso il basso.
+wait 2 s
+wteleport %actor.name% 6822
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

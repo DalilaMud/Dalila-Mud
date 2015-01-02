@@ -1,0 +1,14 @@
+trigedit 5214
+6  
+/c 
+eval caso %random.5%
+if %caso% <= 4
+dg_cast 'curse' %actor%
+else
+%echo% &GUn pezzo della mummia cade a terra e si trasforma immediatamente in una mummia piu' piccola&0
+mload mob 5250
+end
+~
+/s
+q
+y

@@ -1,0 +1,20 @@
+trigedit 1413
+6  
+/c 
+if %tigre% == 1
+wait 1 s
+osend %actor.name% Hai gia' avuto la tua tigre.. l'hai persa?
+halt
+end
+set tigre 1
+global tigre
+wait 1 s
+osend %actor.name% Non appena indossi l'amuleto senti una possente presenza accanto a te...
+oechoaround %actor.name% &3&xUna possente tigre si materializza al fianco di %actor.name%&0
+wait 1 s
+oload mob 542
+oforce ttttk foll %actor.name%
+~
+/s
+q
+y

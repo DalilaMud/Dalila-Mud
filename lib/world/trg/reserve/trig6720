@@ -1,0 +1,42 @@
+trigedit 6720
+6  
+/c 
+* Lista comandi
+if %actor.clan% != 8
+wait 1 s
+emote guarda male %actor.name%
+halt
+end
+wait 1 s
+if %actor.rank% > 28
+if %speech% == guardie andiamo
+say Ok Comandante!!
+follow %actor.name%
+wait 1 s
+say Pronto!!
+elseif %speech% == guardie alt
+emote &6scatta sull'attenti!&0
+elseif %speech% == guardie aiuto
+say &x&1Banzai!!&0
+assist %actor.name%
+elseif %speech% == guardie copertura
+emote &6fa da scudo col proprio corpo!&0
+elseif %speech% == guardie riposo
+nod
+follow %self%
+elseif %speech% == guardie parata
+emote &x&3 marcia ordinatamente in quadrato con un passo cadenzato&0
+elseif %speech% == guardie sguainate
+emote &1sorride minacciosamente e sguaina l'arma di ordinanza&0
+elseif %speech% == guardie calma
+emote &6rilassa i muscoli e abbassa l'arma&0
+elseif %speech% == guardie saluto
+emote &4si inchina con fierezza&0
+end
+else
+emote guarda male %actor.name%
+end
+~
+/s
+q
+y

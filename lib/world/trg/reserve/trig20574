@@ -1,0 +1,15 @@
+trigedit 20574
+6  
+/c 
+* Lista comandi
+if %arg% == nel portale
+oechoaround %actor% %actor.name% entra in un portale.
+%send% %actor% L'oscurita' ti avvolge, quasi cercasse di soffocarti.
+   %teleport% %actor% 2124163
+wait 1 s
+%send% %actor% Ma all'improvviso luce, tanta accecante luce.
+end
+~
+/s
+q
+y

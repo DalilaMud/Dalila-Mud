@@ -1,0 +1,12 @@
+trigedit 33112
+6  
+/c 
+if %actor.vnum% == -1
+  wait 5
+  say Muahahahah ecco altra carne e altri tesori per il mio gruppo !
+end
+ 
+~
+/s
+q
+y

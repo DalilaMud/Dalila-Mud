@@ -1,0 +1,30 @@
+trigedit 2059
+6  
+/c 
+set valido 0if %actor.name% == mcfly || %actor.name% == cabal || %actor.name% == knives || %actor.name% == tetsuo
+set valido 1
+end
+if %actor.name% == elrik || %actor.name% == crystin || %actor.name% == nion || %actor.name% == darkshade
+set valido 1
+end
+if %valido% == 1
+if %speech% == sangue di Shaarr
+wait 1 s
+if %puntifede% < 400
+mecho &1&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+halt
+end
+mecho &1&xUn getto di sangue si alza fino alla volta per poi scendere e infilarsi in alcune fiale!&0
+mload obj 568
+mload obj 568
+mload obj 568
+drop all.poz
+eval puntifede %puntifede%-400
+global puntifede
+mat cptifedeshaarr say distruggi 8
+end
+end
+~
+/s
+q
+y

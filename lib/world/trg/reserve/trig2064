@@ -1,0 +1,26 @@
+trigedit 2064
+6  
+/c 
+set valido 0
+if %actor.name% == krog || %actor.name% == sheep
+ set valido 1
+end
+if %valido% == 1 && %speech% == Elementale di pietra
+ wait 1 s
+ if %puntifede% < 1000
+  mecho &6&xL'altare inizia ad illuminarsi, ma non succede nulla&0
+  halt
+ end
+ mecho &6&xL'altare emette una luce flebile ma decisa e le piante che lo circondano germogliano con vigore.&0
+ mload mob 2050
+ mforce elementale say &5Therion mi invia in tuo aiuto, %actor.name%&0
+wait 2
+mforce %actor.name% say tu ora mi seguirai, in nome di %god%
+ eval puntifede %puntifede%-1000
+ global puntifede
+ mat cptifedetherion say distruggi 20
+end
+~
+/s
+q
+y

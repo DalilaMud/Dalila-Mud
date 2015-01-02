@@ -1,0 +1,20 @@
+trigedit 2558
+6  
+/c 
+* Lista comandi
+mecho &5&xIl maialino e' molto viscido e fangoso e ti sfugge!&0
+dg_cast 'peace' %actor.name%
+eval fuga %random.4%
+if %fuga% == 1
+mgoto 8819
+elseif %fuga% == 2
+mgoto 8820
+elseif %fuga% == 3
+mgoto 8821
+elseif %fuga% == 4
+mgoto 8822
+end
+~
+/s
+q
+y

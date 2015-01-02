@@ -1,0 +1,10 @@
+trigedit 12596
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &7&x %actor.name% cerca di curarsi con delle spells curative&0
+end
+~
+/s
+q
+y

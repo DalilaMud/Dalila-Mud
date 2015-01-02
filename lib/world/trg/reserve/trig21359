@@ -1,0 +1,42 @@
+trigedit 21359
+6  
+/c 
+mechoaround %actor.name% %self.name% fissa %actor.name% per un attimo, poi gli si rivolge.
+msend %actor.name% %self.name% ti si fissa per un attimo, contrariato.
+Say Uhmm, cosi' %actor.name% vorresti saperne di piu' sul funzionamento delle serrature e magari dei grimaldelli eh?
+wait 3 s
+Say Molto bene allievo, apri bene le orecchie:
+wait 3 s
+Say le serrature meccaniche (quelle magiche meglio lasciarle perdere per ora) non sono altro che un meccanismo composto da un cuneo, o una piccola robusta sbarretta di metallo, che serve a bloccare la porta e 
+say da una  serie di, chiamiamoli, dentini disposti in sequenze diverse in ogni serratura.
+wait 10 s
+Say Questi dentini sono collegati al cuneo e girandoli piu' o meno tutti contemporaneamente lo fanno scattare, aprendo la serratura. Esistono 10 tipi diversi di dentini e dovrai imparare a riconoscerli tutti se sei 
+say davvero interessato all'arte dello scasso.
+grin
+wait 10 s
+Say Ovviamente essi sono interni alla serratura e non possono esser visti, stara' alla tua arguzia riconoscerli.
+emote estrae una serratura smontata da una delle sue tante sacche e mostra i dentini al suo interno:
+mecho &6X E P H Y R A N T O &0
+wait 10 s
+Say Il modo piu' facile per aprire una serratura e' usare la sua propria chiave, che combacia perfettamente con tutti i suoi dentini interni e li faccia girare contemporaneamente...
+wait 5s 
+Say Tuttavia ritengo che ci sia un modo piu' elegante, a mio parere.
+emote mostra, per un attimo fugace, un &9&Ygrimaldello nero&0.
+wait 3 s
+say Ne esistono di vari tipi, a seconda del numero di dentini che riescono a far girare contemporaneamente. Migliore e' il tuo strumento, maggiore il numero di dentini che riesce ad incastrare in una sola volta!
+wait 5 s
+Say Naturalmente non essendo una chiave, stara' alla tua abilita' indovinare la giusta sequenza di dentini e poi 
+say manovrare in modo che il grimaldello inganni la serratura, simulando la forma di una chiave.
+wait 5 s
+say ecco come fare:
+say &6Scassina nome_oggetto direzione combinazione&0
+wait 3 s
+Say Troverai un grimaldello in grado di incastrare 3 dentini di la', insieme all'equipaggiamento per i novizi.
+say Dovremmo averne anche degli altri, migliori, ma...
+grin
+say non ricordo dove siano....
+say DATTI DA FARE, Allievo!
+~
+/s
+q
+y

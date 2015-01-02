@@ -1,0 +1,365 @@
+#6000
+ascia taglialegna~
+un'ascia da taglialegna~
+Una pesante ascia da taglialegna e' qui per terra.~
+~
+5 159752 8193
+0 2 7 3 80 80
+12 500 0 4 0 0
+E
+ascia taglialegna~
+E' una pesante ascia del tipo che i taglialegna usano per abbattere
+gli alberi.
+~
+#6001
+camicia quadri~
+una camicia a quadri~
+Una camicia a quadri giace qui per terra.~
+~
+9 176136 9
+7 0 0 0 40 40
+2 500 0 19 0 0
+E
+camicia quadri~
+E' una camicia a quadri gigantesca, fatta di stoffa pesante.
+~
+#6002
+stivali cuoio~
+un paio di stivali di cuoio usati~
+Un paio di stivali di cuoio usati giace qui per terra.~
+~
+9 176128 65
+7 0 0 0 40 40
+4 500 0 19 0 0
+E
+stivali cuoio~
+Sono stati realizzati con del cuoio che e' stato successivamente
+oliato di frequente per rendere le calzature impermeabili.
+Sembrano essere stati usati parecchio, ma sono ancora utilizzabili.
+~
+#6003
+camino~
+un camino~
+Un camino di pietra si trova lungo la parete orientale della capanna.~
+~
+15 0 0
+200 0 0 0 100 100
+0 0 0 1 0 0
+E
+camino~
+E' stato costruito con pietre di varie dimensioni che sono state
+poste una sull'altra e rese solidali con della malta. La cappa e'
+costruita in maniera analoga. Grazie ad essa il fumo fuoriesce
+dalla capanna.
+~
+#6004
+lanterna ottone paraluce~
+una lanterna d'ottone con paraluce~
+Una lanterna di ottone con paraluce si trova qui per terra.~
+~
+1 0 16385
+0 0 100 0 60 60
+4 100 10 1 0 0
+E
+lettere~
+Le lettere recitano:
+Il comando per accendermi e': afferra lanterna.
+~
+E
+lanterna ottone paraluce~
+E' una lanterna ad olio di ottone, grossa e resistente anche se
+un po' ammaccata. Ha un manico che ne rende facile il trasporto
+ed un paraluce che consente di regolare l'intensita' della luce.
+Alcune lettere sono state incise nella sua parte superiore.
+~
+#6005
+cassa legno~
+una cassa di legno~
+Una cassa di legno e' qui, in un angolo.~
+~
+15 0 65537
+100 8 -1 0 50 50
+20 100 10 1 0 0
+E
+cassa legno~
+E' una robusta cassa fatta di tavole spesse e non molto lunghe che
+sono tenute assieme grazie a dei tenoni. Ha una semplice serratura
+di ottone.
+~
+#6006
+chiave ottone~
+una piccola chiave di ottone~
+Una piccola chiave di ottone si trova qui.~
+~
+18 4 16385
+6006 0 0 0 50 50
+1 0 0 1 0 0
+E
+chiave ottone~
+E' una piccola, semplice chiave d'ottone. Non reca nessuna
+scritta o marchio.
+~
+#6007
+coins monete oro~
+un mucchio di monete d'oro~
+Alcune monete d'oro si trovano per terra, sul pavimento.~
+~
+20 0 1
+200 0 0 0 100 100
+1 350 0 1 0 0
+E
+monete oro coins~
+Le monete sembrano essere d'oro. Naturalmente devono avere un certo
+valore.
+~
+#6010
+blackberries berries~
+some blackberries~
+Some blackberries grow on a bush nearby.~
+~
+19 4 1
+3 0 0 0 20 20
+1 38 0 1 0 0
+E
+blackberries berries~
+They look very tasty indeed.
+~
+#6011
+mushroom~
+a mushroom~
+A small mushroom grows nearby.~
+~
+19 0 1
+6 0 0 0 10 10
+1 65 10 1 0 0
+E
+mushroom~
+It looks to be a tasty little thing.
+~
+#6012
+cartello~
+un grosso cartello~
+Un grosso cartello montato su un &7palo&2 si trova qui, sul ciglio della strada.&0~
+~
+12 0 0
+0 0 0 0 100 100
+100 0 0 1 0 0
+E
+cartello~
+Dice :-
+                         Haon-Dor
+                         --------
+ Questa e' la foresta di Haon-Dor.  Entrate a vostro rischio.
+     Siete pregati di riferire alle autorita' ogni anomalia
+     alla selvaggina che riscontriate. Quifael e Derkhil,
+     i guardaboschi, sono temporaneamente malati.
+~
+E
+palo~
+Non e' certo il palo piu' interessnate del mondo. Meglio lasciarlo qui, visto che
+sorregge un'indicazione di qualche tipo.
+~
+#6013
+acqua barile~
+&2 un barile &0~
+Un barile di acqua e' qui.~
+~
+17 0 1
+60 40 15 0 30 30
+45 400 20 1 0 0
+#6014
+water brook~
+a small brook~
+A small brook trickles through the forest beside the path.~
+~
+23 0 0
+50000 50000 15 0 100 100
+50005 0 0 1 0 0
+E
+water brook~
+The water looks clean and refreshing.
+~
+#6015
+acqua lago~
+il lago di Hoan-Dor~
+Le sponde del lago.~
+Nothing.
+~
+23 0 0
+5000 5000 15 0 100 100
+5000 0 0 1 0 0
+E
+acqua lago~
+L'acqua del lago ha riflessi blu e verdi.
+~
+#6016
+bastone legno quercia ramo~
+un bastone di legno di quercia~
+Un ramo spezzato giace qui.~
+~
+5 12352 8193
+0 3 3 7 60 60
+8 200 20 5 0 0
+E
+cudgel oak oaken limb~
+The cudgel looks quite sturdy, and would make a nice weapon.
+~
+#6017
+cadavere orso~
+il cadavere di un orso~
+Il cadavere di un orso giace a terra.~
+~
+15 0 0
+600 0 0 0 100 100
+500 1 1 1 0 0
+#6018
+slab meat~
+a large slab of meat~
+A large piece of freshly cut boar meat is on the ground here.~
+~
+19 0 1
+8 0 0 0 10 1
+15 100 1 1 0 0
+E
+slab meat~
+It looks quite filling.
+~
+#6019
+tusks pair~
+a pair of boar tusks~
+A pair of large boar tusks have been dropped here.~
+~
+8 0 16385
+0 0 0 0 100 100
+10 60 1 19 0 0
+E
+tusks pair~
+They look like they might be worth something to a craftsman.
+~
+A
+26 2
+#6020
+tronco cavo~
+un tronco cavo~
+Un grosso tronco cavo si trova qui.~
+~
+13 0 0
+0 0 0 0 100 100
+48 2 1 1 0 0
+E
+tronco cavo~
+Sicuramente, se lo getti in acqua, galleggia.
+~
+#6021
+nido uccello~
+un nido d'uccello~
+Un grazioso nido d'uccello si trova qui.~
+~
+15 0 0
+30 0 0 0 100 100
+0 0 0 1 0 0
+#6022
+uovo blu pettirosso~
+un uovo di pettirosso blu~
+Un piccolo uovo bluastro e' stato abbandonato qui.~
+~
+19 0 1
+6 0 0 0 20 20
+1 65 0 1 0 0
+E
+egg blue robin~
+It is small, but food nonetheless.
+~
+#6023
+meat rabbit~
+a piece of rabbit meat~
+A large piece of rabbit meat.~
+~
+19 0 1
+8 0 0 0 20 20
+5 100 0 1 0 0
+#6024
+meat deer venison~
+a piece of venison~
+A large piece of venison.~
+~
+19 0 1
+4 0 0 0 20 20
+28 45 0 1 0 0
+#6030
+spadino~
+uno spadino affilato~
+Uno spadino affilatissimo e' qui nella polvere.~
+~
+5 0 8193
+0 2 5 12 50 50
+10 300 30 11 0 0
+#6031
+copricapo~
+un copricapo piumoso~
+Un copricapo fatto di piume e' qui leggero nell'aria.~
+~
+12 0 17
+0 0 0 0 50 50
+2 1000 100 4 0 0
+A
+14 5
+#6032
+corpetto~
+un corpetto~
+Un corpetto di legno giace qui.~
+~
+9 49152 9
+6 0 0 0 50 50
+20 300 100 12 0 0
+#6033
+scarpette~
+un paio di scarpette minuscole~
+Un paio di scarpette per folletto sono abbandonate qui.~
+~
+12 602248 32769
+0 0 0 0 50 50
+5 1000 100 31 0 0
+A
+26 4
+A
+17 4
+#6034
+ascia bilama~
+un'ascia bilama~
+Un'ascia a due lame e' qui.~
+~
+5 0 8193
+0 2 4 3 50 50
+10 300 60 5 0 0
+#6035
+pendaglio~
+un disgustoso pendaglio~
+Un disgustoso pendaglio giace al suolo..~
+~
+12 256 5
+0 0 0 0 50 50
+3 1000 300 22 0 0
+A
+6 -1
+A
+1 1
+#6036
+ghianda~
+una ghianda~
+Una ghianda giace al suolo.~
+~
+11 13328 32769
+0 0 0 0 20 20
+1 500 50 30 0 0
+A
+25 4
+#6037
+mazza ferro magnifica fattura~
+una mazza benedetta~
+Una mazza attende un forte braccio che la impugni~
+~
+5 64 8193
+1 4 16 5 20 20
+0 0 0 57 0 0
+$~

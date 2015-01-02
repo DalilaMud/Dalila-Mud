@@ -1,0 +1,10 @@
+trigedit 31181
+6  
+/c 
+wait 1 s
+oechoaround %actor.name% &1&xAppena %actor.name% indossa l'oggetto, questo entra in simbiosi con lui.&0
+osend %actor.name% &1&xAppena indossi l'oggetto esso si attacca al tuo corpo e diventa parte di te!&0
+~
+/s
+q
+y

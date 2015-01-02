@@ -1,0 +1,10 @@
+trigedit 2545
+6  
+/c 
+* Lista comandi
+eval danno %random.50%
+%damage% %actor.name% %danno%
+~
+/s
+q
+y

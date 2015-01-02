@@ -1,0 +1,91 @@
+trigedit 12630
+6  
+/c 
+wait 1
+if %speech% /= 1
+if %actor.name% != %self.name%
+eval scontro %speech% - 1
+global scontro
+if %2154040% == %scontro%
+say 1 + 2154040
+elseif %2154041% == %scontro%
+say 1 + 2154041
+elseif %2154041% == %scontro%
+say 1 + 2154042
+elseif %2154041% == %scontro%
+say 1 + 2154043
+elseif %2154041% == %scontro%
+say 1 + 2154044
+elseif %2154041% == %scontro%
+say 1 + 2154045
+elseif %2154041% == %scontro%
+say 1 + 2154046
+elseif %2154041% == %scontro%
+say 1 + 2154047
+elseif %2154041% == %scontro%
+say 1 + 2154048
+elseif %2154041% == %scontro%
+say 1 + 2154049
+else
+if %2154040% == 0
+set stanza 2154040
+global stanza
+else
+if %2154041% == 0
+set stanza 2154041
+global stanza
+else
+if %2154042% == 0
+set stanza 2154042
+global stanza
+else
+if %2154043% == 0
+set stanza 2154043
+global stanza
+else
+if %2154044% == 0
+set stanza 2154044
+global stanza
+else
+if %2154045% == 0
+set stanza 2154045
+global stanza
+else
+if %2154046% == 0
+set stanza 2154046
+global stanza
+else
+if %2154047% == 0
+set stanza 2154047
+global stanza
+else
+if %2154048% == 0
+set stanza 2154048
+global stanza
+else
+if %2154049% == 0
+set stanza 2154049
+global stanza
+else
+SAY MERDA!!!
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+set %stanza% %scontro%
+global %stanza%
+unset scontro
+say 1 + %stanza%
+end
+end
+end
+~
+/s
+q
+y

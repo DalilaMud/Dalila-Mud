@@ -1,0 +1,108 @@
+trigedit 12591
+6  
+/c 
+if %domanda2% == on
+if %amount% >= 1000
+if %cambio2% == 0
+set cambio2 31
+global cambio2
+else
+eval cambio2 %cambio2% + 1
+global cambio2
+end
+set %cambio2% %actor.name%
+global %cambio2%
+wait 3
+say Gotevi lo spettacolo :)
+wait 3
+emote ti conduce agli spalti %tribuna%
+if %tribuna% == ovest
+mtele %actor.name% 29511
+elseif %tribuna% == est
+mtele %actor.name% 29512
+elseif %tribuna% == nord
+mtele %actor.name% 29514
+end
+unset timer
+unset tribuna
+unset nome
+unset arena
+unset domanda2
+end
+end
+if %arena% == on
+eval prezzo %actor.level% * 70
+global prezzo
+if %amount% >= %prezzo%
+wait 4
+say Bene, vi avvisero' quando sara' il momento di entrare e provvedero' quindi direttamente a portarvi nell'arena, andate pure intanto
+eval cambia %cambia% + 1
+global cambia
+if %cambia% == 1
+set starter 1
+global starter
+end
+set %cambia% %actor.name%
+global %cambia%
+eval dentro %dentro% + 1
+global dentro
+unset prezzo
+unset arena
+unset timer
+else
+wait 3
+say questi soldi non bastano
+wait 2
+give %amount% coins %actor.name%
+end
+end
+if %arena% == spalti
+if %domanda2% != on
+wait 2
+if %amount% >= 200
+set nome %actor.name%
+global nome
+if %inizio% == on
+say Presto...e' gia' iniziato.....buon divertimento!
+wait 2
+emote ti conduce agli spalti %tribuna%
+if %tribuna% == ovest
+mtele %actor.name% 29511
+elseif %tribuna% == est
+mtele %actor.name% 29512
+elseif %tribuna% == nord
+mtele %actor.name% 29514
+end
+unset tribuna
+unset timer
+else
+if %cambio2% < 35
+say Volete poter godere della cronaca degli eventi dal campo?
+set domanda on
+global domanda
+else
+say Buona visione
+wait 2
+emote ti conduce agli spalti %tribuna%
+if %tribuna% == ovest
+mtele %actor.name% 29511
+elseif %tribuna% == est
+mtele %actor.name% 29512
+elseif %tribuna% == nord
+mtele %actor.name% 29514
+end
+unset timer
+end
+end
+else
+wait 2
+give %amount% coins %actor.name%
+wait 3
+say non bastano
+end
+end
+end
+~
+/s
+q
+y

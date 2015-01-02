@@ -1,0 +1,19 @@
+trigedit 1428
+6  
+/c 
+set runa 1
+global runa
+wait 1 s
+return 0
+oechoaround %actor.name% &1%actor.name% afferra la runa che scompare mentre viene avvolto da un magico muro di fuoco&0
+osend %actor.name% &1Non appena afferri la runa vieni avvolto da un magico muro di fuoco&0
+dg_affect %actor.name% fireshd 0 2
+wait 1 s
+osend %actor.name% &1&xLa Runa diventa cosi' incandescente che sei costretto a posarla!&0
+oload mob 547
+oforce %actor.name% rimu runa
+oforce %actor.name% posa runa
+~
+/s
+q
+y

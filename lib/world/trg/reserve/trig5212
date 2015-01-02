@@ -1,0 +1,24 @@
+trigedit 5212
+6  
+/c 
+eval caso %random.4%
+if %caso% == 4
+say Ohibo' ma che fate!
+dg_cast 'peace' %actor%
+end
+if %caso% == 1
+say Milord basta cosi' o saro' costretto a farvi del male
+dg_cast 'peace' %actor%
+end
+if %caso% == 2
+say Tutto cio' e' alquanto disdicevole
+dg_cast 'peace' %actor%
+end
+if %caso% == 3
+say Voi siete un villano!
+dg_cast 'peace' %actor%
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 1331
+6  
+/c 
+* Lista comandi
+wait 1
+set cambianome on
+global cambianome
+set appostato off
+global appostato
+~
+/s
+q
+y

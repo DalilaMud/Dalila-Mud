@@ -1,0 +1,13 @@
+trigedit 1303
+6  
+/c 
+* Lista comandi
+wait 1 s
+wsend %actor.name% &1&xImprovvisamente ti ritrovi in un altro luogo, circondato da beni di grande valore.&0
+wteleport %actor.name% 2822
+wait 1
+wforce %actor.name% look
+~
+/s
+q
+y

@@ -1,0 +1,19 @@
+trigedit 1336
+6  
+/c 
+* Lista comandi
+if %pagamento% != 0
+ wait 1 s
+ say Oh, certo
+ wait 1 s
+ say Ecco a lei.
+ give %pagamento% coins %actor.name%
+ eval pagamento 0
+ global pagamento
+else
+ say Non ho resto da darle!
+end
+~
+/s
+q
+y

@@ -1,0 +1,54 @@
+trigedit 12622
+6  
+/c 
+mload mob 12601
+eval portata %1b% + %2b% + %3b% + %4b% + %5b% + %6b% + %7b% + %8b% + %9b% + %10b%
+global portata
+eval portataMax %grandezza% * 20
+global portataMax
+mecho vittima Riesci a pervenire ai seguenti dati sulla Risorsa:
+mecho vittima Monarca:		%monarca%
+mecho vittima Reggente:		%Reggente%
+mecho vittima Funzionario:		%Funzionario%
+mecho vittima Gestore:		%Gestore%
+mecho vittima Grandezza		%grandezza%
+mecho vittima Portata/Max		%portata% / %portatamax%
+mecho vittima Tipologia		%tipo%
+mecho vittima Produzione:		%prodotto%
+mecho vittima STOCK PRESENTI:
+mecho vittima 1:  %1%	%1b%
+if %num% > 1
+mecho vittima 2:  %2%	%2b%
+end
+if %num% > 2
+mecho vittima 3:  %3%	%3b%
+end
+if %num% > 3
+mecho vittima 4:  %4%	%4b%
+end
+if %num% > 4
+mecho vittima 5:  %5%	%5b%
+end
+if %num% > 5
+mecho vittima 6:  %6%	%6b%
+end
+if %num% > 6
+mecho vittima 7:  %7%	%7b%
+end
+if %num% > 7
+mecho vittima 8:  %8%	%8b%
+end
+if %num% > 8
+mecho vittima 9:  %9%	%9b%
+end
+if %num% > 9
+mecho vittima 10: %10%	%10b%
+end
+if %num% > 10
+mecho vittima 11: %11%	%11b%
+end
+mforce vittima mgoto 2
+~
+/s
+q
+y

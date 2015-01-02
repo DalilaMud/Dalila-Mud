@@ -1,0 +1,52 @@
+trigedit 9752
+6  
+/c 
+if %speech% == Padrone
+if %mob_lock% == on
+if %actor.name% == %Padrone%
+wait 1 s
+Say &3&x Si %Padrone% sono ai vostri ordini &0
+rem anello
+junk anello
+mload obj 9800
+wear anello
+follow %Padrone%
+else
+wait 1 s
+Say &1&x Spiacente %actor.name% non sei tu il mio Padrone &0
+end
+else
+eval random_emote %random.5%
+global random_emote
+if %random_emote% == 5
+set tempo_emote 50
+global tempo_emote
+elseif %random_emote% == 4
+set tempo_emote 45
+global tempo_emote
+elseif %random_emote% == 3
+set tempo_emote 40
+global tempo_emote
+elseif %random_emote% == 2
+set tempo_emote 35
+global tempo_emote
+else
+set tempo_emote 30
+global tempo_emote
+end
+mload obj 9800
+wear anello
+set Padrone %actor.name%
+set mob_lock on
+global Padrone
+global mob_lock
+Say &3&x Si %Padrone% sono ai vostri ordini &0
+wait 1 s
+follow %Padrone%
+end
+else
+end
+~
+/s
+q
+y

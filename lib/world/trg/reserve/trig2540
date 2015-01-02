@@ -1,0 +1,27 @@
+trigedit 2540
+6  
+/c 
+* Lista comandi
+set valido 0
+if %actor.name% == knives
+set valido 1
+end
+if %valido% == 1
+if %speech% == vittoria di Shaarr
+wait 1 s
+if %puntifede% < 3000
+mecho &1&xL'altare non reagisce...&0
+halt
+end
+mecho &1&xL'altare avvampa in una gloria di fuoco e fiamme....&0
+mload obj 580
+posa statuetta
+eval puntifede %puntifede%-3000
+global puntifede
+mat cptifedeshaarr say distruggi 60
+end
+end
+~
+/s
+q
+y

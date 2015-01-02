@@ -1,0 +1,371 @@
+#33100
+chiave~
+La chiave della tenda del Principe~
+La chiave della tenda del Principe e' stata lasciata qui~
+~
+18 0 16385
+0 0 0 0 30 30
+1 0 0 1 1 0
+#33101
+chiave rovine~
+La chiave delle rovine~
+La chiave delle rovine e' qui~
+~
+18 0 16385
+0 0 0 0 30 30
+1 0 0 1 1 0
+#33102
+chiave maledetta~
+La chiave maledetta~
+La chiave maledetta respinge la luce, perdendosi nelle ombre~
+~
+18 128 16385
+0 0 0 0 30 30
+1 0 0 1 1 0
+#33103
+chiave sabbia~
+La chiave di sabbia~
+Della sabbia si e' solidificata nella forma di una chiave~
+~
+18 64 16385
+0 0 0 0 30 30
+1 0 0 1 0 0
+#33104
+chiave accampamento~
+La chiave dell' accampamento~
+Una lunga chiave giace tra la sabbia~
+~
+18 0 16385
+0 0 0 0 30 30
+1 0 0 1 1 0
+#33105
+oasi sorgente~
+Un oasi~
+Un stupenda sorgente in pieno deserto: un' oasi !~
+Difficilmente vedrai ancora uno spettacolo come questo, proprio in mezzo al deserto, dove il calore del sole potrebbe spaccare le pietre,
+una sorgente naturale fa sgorgare acqua in quantita'. Un vero spettacolo della natura.
+~
+23 0 0
+10000 10000 15 0 100 100
+10000 0 0 1 0 0
+#33106
+spada shade~
+&1&xLa Spada di Shade&0~
+&1&xLa Spada di Shade emana un grande potere!&0~
+*sembra* proprio quella vera !!!
+~
+5 9395307072 8193
+0 5 13 12 3 3
+1 1000000 0 11 1 0
+E
+shade spada~
+*Sembra* proprio essere quella originale !
+~
+A
+19 -10
+A
+19 -10
+A
+19 -10
+A
+19 -10
+A
+18 -10
+A
+18 -10
+C
+8192 0 0 0
+#33107
+bracciale distruzione~
+&1&xIl Bracciale Della Distruzione&0~
+&1&xIl Bracciale Della Distruzione&0 vibra per il troppo potere~
+*sembra* proprio quello vero!!!
+~
+8 8590002752 4097
+0 0 0 0 3 3
+1 50000 0 63 1 0
+E
+bracciale distruzione~
+*Sembra* proprio essere quello originale !
+~
+A
+19 4
+A
+17 10
+A
+5 -2
+#33108
+turbante~
+Un turbante magico~
+Un lungo turbante di seta e' stato lasciato qui~
+~
+8 65600 17
+0 0 0 0 3 3
+1 5000 0 47 5 2
+A
+6 2
+A
+14 -20
+#33109
+pozione smeraldina cactus estratto~
+&2una pozione smeraldina di cactus&0~
+Una &2pozione smeraldina estratta dai cactus&0 sembra davvero disgustosa.~
+~
+10 65600 16385
+60 98 0 0 3 3
+5 10000 0 1 7 11
+#33110
+vestito concubina~
+Un vestito di seta da concubina~
+Un vestito di seta da concubina e' scivolato in terra.~
+E' un vestito quasi trasparente che mette in risalto tutto il tuo corpo!
+~
+8 65536 1025
+0 0 0 0 3 3
+1 20000 0 45 5 2
+A
+6 1
+A
+2 1
+A
+17 15
+#33111
+armatura jiroch~
+Un' armatura di Jiroch~
+Un'armatura la cui fattura rivela essere stata forgiata a Jiroch e' qui.~
+~
+9 20480 9
+15 0 0 0 30 30
+10 0 0 57 1 0
+A
+17 -2
+A
+2 -1
+#33112
+scimitarra~
+Una scimitarra di Jiroch~
+Una scimitarra forgiata nell' antica citta' di Jiroch e' qui~
+~
+5 229376 8193
+0 4 10 10 30 30
+1 0 0 31 1 0
+#33113
+collare chimera~
+Il collare della chimera~
+Il collare della chimera e' caduto dopo la battaglia~
+~
+9 12800 5
+0 0 0 0 40 40
+3 0 0 18 1 1
+A
+25 10
+#33114
+parabraccia decorato~
+Dei parabraccia finemente decorati~
+Dei parabraccia finemente decorati risaltano tra i vari oggetti a terra~
+La decorazione raffigura un valoroso esploratore e un possente guerriero che lottano contro un drago
+~
+9 28736 257
+10 0 0 0 50 50
+3 0 0 55 1 5
+A
+18 1
+A
+24 -1
+#33115
+fascia protettiva~
+Una fascia protettiva~
+Una fascia protettiva per gli occhi potrebbe essere utile in battaglia~
+~
+9 28737 17
+0 0 0 0 20 20
+1 0 0 51 5 4
+A
+1 1
+A
+23 -2
+A
+17 -7
+#33116
+cintura insanguinata~
+Una cintura insanguinata~
+Una cintura insanguinata macchia il terreno~
+~
+9 176642 2049
+6 0 0 0 20 20
+2 0 0 55 5 4
+A
+19 1
+A
+5 1
+#33117
+gambali~
+Dei gambali decorati con smeraldi~
+Dei gambali ingioiellati con degli smeraldi magici riflettono una luce verde~
+~
+9 188417 33
+0 0 0 0 25 25
+15 0 0 36 3 2
+A
+26 2
+A
+23 -2
+C
+33554432 0 0 0
+#33118
+orecchino oscuro~
+Un orecchino oscuro~
+Un orecchino maledetto dalla gilda Cyrinic e' qui~
+~
+9 186880 32769
+0 0 0 0 30 30
+3 0 0 58 3 1
+A
+1 1
+A
+17 -5
+A
+26 2
+#33119
+scaglie umberhulk~
+Delle scaglie di Umberhulk~
+Delle scaglie di Umberhulk sono state cucite assieme per formare un corpetto~
+~
+9 12289 1025
+13 0 0 0 60 60
+5 0 0 45 5 4
+#33120
+cintura hokron~
+La cintura di Hokron~
+Solo un pazzo indosserebbe la cintura di Hokron~
+~
+9 163968 2049
+3 0 0 0 35 35
+5 0 0 13 4 1
+A
+20 -3
+A
+21 -3
+A
+22 -3
+A
+23 -3
+A
+24 -3
+A
+12 -100
+#33121
+collare peduncoli~
+Un collare di peduncoli~
+Un collare di peduncoli di beholder e' qui~
+~
+9 64 5
+3 0 0 0 25 25
+3 0 0 14 5 0
+A
+25 4
+#33122
+anello fuoco~
+Un anello di &1fuoco&0~
+Un anello di &1fuoco&3 brucia qua&0~
+~
+9 57474 3
+3 0 0 0 12 12
+1 0 0 35 0 0
+A
+25 5
+A
+5 1
+#33123
+guanti orcheschi~
+Dei guanti orcheschi~
+I famosi guanti orcheschi... finalmente li hai trovati!~
+~
+9 64 129
+0 0 0 0 40 40
+5 0 0 38 5 1
+A
+1 1
+A
+3 -1
+A
+2 -1
+A
+13 10
+A
+14 5
+#33124
+maschera mille colori~
+Una maschera dai mille colori~
+Una maschera dai mille colori e' davvero bizzarra!~
+~
+9 12288 262145
+0 0 0 0 30 30
+1 0 0 57 5 1
+A
+1 -2
+A
+2 -2
+A
+3 1
+A
+4 1
+A
+6 1
+#33125
+soffice veste seta~
+Una soffice veste di seta bianca~
+Una soffice veste di seta bianca e' qui~
+~
+9 0 1025
+0 0 0 0 20 20
+1 0 0 29 5 3
+A
+26 2
+A
+25 5
+#33126
+forziere~
+Un pesante forziere~
+Un pesante forziere contiene chissa' quale tesoro~
+~
+15 0 16385
+100 5 -1 0 30 30
+10 0 0 1 1 0
+#33127
+stivali velocita'~
+Gli stivali della velocita'~
+Gli stivali della velocita' tremano leggermente sul pavimento~
+~
+9 64 65
+0 0 0 0 35 35
+3 0 0 44 5 1
+A
+2 1
+A
+14 15
+#33128
+braccialetto serpente~
+Un braccialetto a forma di serpente~
+Un braccialetto a forma di serpente sembra molto antico~
+~
+9 12289 4097
+0 0 0 0 30 30
+2 0 0 43 1 2
+A
+18 1
+A
+1 1
+#33129
+scudo triangolare~
+Un massiccio scudo triangolare~
+Un massiccio scudo triangolare e' appoggiato qui~
+~
+9 147456 513
+15 0 0 0 70 70
+10 0 0 66 1 0
+A
+18 1
+A
+2 -2
+$~

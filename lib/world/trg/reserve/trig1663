@@ -1,0 +1,17 @@
+trigedit 1663
+6  
+/c 
+* Lista comandi
+wait 2 s
+if %actor.vnum% == -1
+emote ti guarda con fare di superiorita', ma come ti permetti di entrare cosi' nel palazzo dello Shogun?
+wait 2 s
+say Dite, non vorrete essere ricevuto dallo Shogun prima di me?
+wait 2 s
+emote si volta dall'altra parte con un gesto stizzito
+end
+halt
+~
+/s
+q
+y

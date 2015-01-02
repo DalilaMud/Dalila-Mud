@@ -1,0 +1,578 @@
+#9500
+cassiere uomo~
+un cassiere~
+Il cassiere sta contando delle monete.
+~
+Un normalissimo impiegato del regno.
+~
+~
+~
+~
+10 1024 0 -1 -1 -1 -1 -1 E
+20 20 0 1d1+500 6d6+0
+11 1000
+8 8 1
+E
+#9501
+postino uomo scriba~
+un giovane postino~
+Un giovane ragazzo sta ordinando la posta.
+~
+Diresti che e' il postino.
+~
+~
+~
+~
+10 1032 0 -1 -1 -1 -1 -1 E
+10 17 8 1d1+69 1d1+3
+7 500
+8 8 1
+Spec: 1
+E
+#9502
+Tika locandiera donna~
+una giovane locandiera~
+Tika sta sfogliando pigramente il registro.
+~
+Una giovane ed attraente locandiera dai capelli rossi.
+~
+~
+~
+~
+2058 0 0 -1 -1 -1 -1 -1 E
+15 18 -2 1d1+300 1d1+5
+11 1500
+8 8 2
+Spec: 4
+E
+#9503
+schiavo~
+uno schiavo~
+Uno schiavo sta pulendo la strada qui.
+~
+Sporco e unto, chiunque sia stato adesso e' irriconoscibile. Qui a Cimmurra e
+una normale prassi usare gli schiavi per i lavori peggiori.
+~
+~
+~
+~
+204 0 0 -1 -1 -1 -1 -1 E
+1 19 4 1d1+10 1d1+1
+0 0
+8 8 1
+Str: 16
+E
+#9504
+fornaio~
+un fornaio~
+Un fornaio sta impastando del pane.
+~
+Sembra metta molto amore ed impegno in quello che fa.
+~
+~
+~
+~
+201353227 1024 0 -1 -1 -1 -1 -1 E
+1 15 6 20d8+90 4d6+0
+0 2000
+8 8 1
+Spec: 0
+E
+#9505
+fabbro nano~
+un fabbro~
+Un nano valuta con occhio critico un'armatura.
+~
+Basso, tarchiato e con la barba lunga, un classico nano.
+~
+~
+~
+~
+134242315 1064 0 -1 -1 -1 -1 -1 E
+1 15 0 30d8+30000 5d5+5
+1 12000
+8 8 1
+Spec: 0
+E
+#9506
+Gillon~
+Gillon~
+Gillon sta forgiando una spada proprio ora.
+~
+Piu' che un uomo e' un armadio tanto e' grande, speri vivamente di non discutere
+mai con lui....
+~
+~
+~
+~
+201383946 1080 0 -1 -1 -1 -1 -1 E
+1 15 -10 30d8+400 10d3+3
+1 30000
+8 8 1
+Spec: 0
+E
+#9507
+Gioia gioiellire~
+un vecchio uomo~
+Un vecchio uomo sta osservando il riflesso di una pietra.
+~
+Un uomo molto anziano, ma sempre abbastanza sveglio per non farsi fregare.
+~
+~
+~
+~
+59401 1024 0 -1 -1 -1 -1 -1 E
+10 15 5 30d8+120 1d7+5
+8 50000
+8 8 1
+E
+#9508
+Laurana donna~
+Laurana l'alchimista~
+Laurana sta mescolando una pozione.
+~
+It looks unfinished.
+~
+~
+~
+~
+18014398710851594 1024 0 -1 -1 -1 -1 -1 E
+100 15 -2 30d8+230 6d6+5
+91 50000
+8 8 2
+Spec: 0
+E
+#9509
+falegname elfo Tanis~
+Tanis, l'elfo falegname~
+Tanis sta lucidando un tavolo di mogano.
+~
+Il giovane negoziante e' di razza elfica, anche se qualche lineamento e' meno marcato
+ed ha la barba, forse e' un mezzelfo. La vera cosa strana e' pero' che la sua indole
+gli insegna a rispettare le foreste e non a farci mobili... chissa' perche lo fa'...
+~
+~
+~
+~
+18014398710867979 1024 0 -1 -1 -1 -1 -1 E
+100 15 -3 30d8+134 6d5+5
+98 50000
+8 8 1
+Spec: 0
+E
+#9510
+kayala negoziante~
+Kayala~
+Kayala sta cucendo un elegante abito
+~
+It looks unfinished.
+~
+~
+~
+~
+18014398710867979 1024 0 -1 -1 -1 -1 -1 E
+100 14 -9 30d8+210 7d5+6
+62 100000
+8 8 2
+Str: 25
+Spec: 0
+E
+#9511
+Tas kender~
+un piccolo kender~
+Tas, il kender sta controllando le sue enormi borse.
+~
+Ha un aria felice e sorpresa mentre lo vedi frugare nelle sue grandi borse di
+pelle che porta a tracolla, tanto e' preso che nemmeno sembra averti visto
+entrare nel suo negozio.
+~
+~
+~
+~
+134277131 1024 0 -1 -1 -1 -1 -1 E
+100 16 -6 30d8+100 3d10+4
+77 150000
+8 8 1
+Str: 25
+Con: 25
+Spec: 0
+E
+#9512
+Lorac negoziante~
+il vecchio Lorac~
+Lorac, il vecchio marinaio, sta rattoppando una nassa.
+~
+E' davvero vecchio, e se conti che e' anche un elfo, con due rapidi calcoli
+stimi che abbia piu' di 500 anni... non credi che esista pescatore piu'
+esperto di lui... almeno non vivo.
+~
+~
+~
+~
+134277131 1024 0 -1 -1 -1 -1 -1 E
+100 16 -5 30d9+200 4d9+3
+85 170000
+8 8 1
+Str: 25
+Con: 25
+Spec: 0
+E
+#9513
+cavaliere guardia gilda~
+una guardia genidian~
+Un cavaliere genidian in alta uniforme e' qui per difendere la gilda.
+~
+Alta, forte e possente nella sua tetra armatura nera, la guardia sembra invincibile
+nulla pare intimorirla... non credi sia consigliabile contraddirla.
+~
+~
+~
+~
+253963 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -5 30d10+30000 5d6+30
+70 1
+8 8 1
+Spec: 6
+E
+#9514
+arcimago pandion gilda~
+una guardia pandion~
+Un arcimago pandion e' qui in difesa della gilda.
+~
+Alto, forte e possente nella sua tetra armatura nera, la guardia sembra invincibile
+nulla pare intimorirla... non credi sia consigliabile contraddirla.
+~
+~
+~
+~
+122891 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -20 30d10+30000 5d5+30
+96 1
+8 8 1
+Spec: 6
+E
+#9515
+guardia cyrinic gilda~
+una guardia cyrinic~
+Un sacerdote Cyrinic in alta uniforme e' qui per proteggere la gilda.
+~
+Alto, forte e possente nella sua tetra armatura nera, la guardia sembra invincibile
+nulla pare intimorirla... non credi sia consigliabile contraddirla.
+~
+~
+~
+~
+124939 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -5 30d10+30000 5d5+30
+64 300000
+8 8 1
+Spec: 6
+E
+#9516
+peloi guardia gilda~
+una guardia peloi~
+Un cavaliere peloi in alta uniforme e' qui per proteggere la gilda.
+~
+Alto, forte e possente nella sua tetra armatura nera, la guardia sembra invincibile
+nulla pare intimorirla... non credi sia consigliabile contraddirla.
+~
+~
+~
+~
+124939 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -20 30d10+30000 5d5+30
+86 1
+8 8 1
+Spec: 6
+E
+#9517
+alcione guardia gilda~
+una guardia alcione~
+Un cavaliere alcione in alta uniforme e' qui a protezione della gilda.
+~
+Alto, forte e possente nella sua tetra armatura nera, la guardia sembra invincibile
+nulla pare intimorirla... non credi sia consigliabile contraddirla.
+~
+~
+~
+~
+124939 1032 0 -1 -1 -1 -1 -1 E
+100 14 -5 30d10+2600 5d5+6
+82 300000
+8 8 1
+Spec: 6
+E
+#9518
+maestro gilda genedian~
+un maestro genedian~
+Una donna slanciata dai folti capelli ricci e lo sguardo deciso e qui.
+~
+Forte, veloce e decisa, ogni suo movimento pare una danza... una danza mortale.
+~
+~
+~
+~
+124939 0 0 -1 -1 -1 -1 -1 E
+100 10 -10 30d30+4000 5d5+10
+52 500000
+8 8 2
+Spec: 7
+E
+#9519
+maestro gilda pandion~
+un maestro della gilda~
+Una maga dagli occhi di ghiaccio ti sta osservando. 
+~
+Senti un potere inferiore solo alla forza divina scaturire da quella donna glaciale
+che ti osserva.... non credi sia saggio farla arrabbiare.
+~
+~
+~
+~
+124939 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -20 30d30+30000 5d5+30
+81 1
+8 8 2
+Spec: 7
+E
+#9520
+gilda maestro chierico~
+l'alto chierico.~
+L'alto chierico Cyrinic e' qui in meditazione.
+~
+Emana una fortissima aura bianca come un puro raggio di sole.
+Quell'uomo, e' sicuramente in contatto in questo momento con qualche divinita'
+superiore, non sai se sia buona cosa disturbarlo.
+~
+~
+~
+~
+124939 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -20 30d30+30000 6d4+30
+71 1
+8 8 1
+Spec: 7
+E
+#9521
+peloi capogilda maestra~
+una maestra peloi~
+Una vecchia donna elfa sta seduta su una grande sedia.
+~
+Sembra vecchia e stanca, non sembra una minaccia per nessuno... tranne....
+per quello strano riflesso che cogli nei suoi occhi. Per un attimo ti osserva
+e senti un brivido scorrerti lungo la schiena.
+~
+~
+~
+~
+124939 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -20 30d30+30000 5d5+30
+98 1
+8 8 2
+Spec: 7
+E
+#9522
+maestro alcioni gilda~
+il maestro degli Alcioni~
+Un possente alcione e' qui davanti a te.
+~
+Forte e' robusto, e' il ritratto del perfetto alcione, chissa se diventerai mai 
+come lui.
+~
+~
+~
+~
+256011 1192 0 -1 -1 -1 -1 -1 E
+100 -10 -20 30d30+30000 5d5+30
+51 1
+8 8 1
+Spec: 7
+E
+T 21359
+#9523
+Elder negoziante~
+Elder il negoziante~
+Elder sta' ordinado con cura il mobilio del suo negozio.
+~
+E' abbatanza avanti con gli anni, ma il suo volto calmo e pacato ti ispira
+esperienza e amore per il suo lavoro.
+~
+~
+~
+~
+134342667 1024 0 -1 -1 -1 -1 -1 E
+100 16 -5 30d30+2000 4d6+4
+89 1
+8 8 1
+Spec: 0
+E
+#9524
+Dalamar il negoziante~
+Dalamar il negoziante~
+Dalamar sta qui, studiando una stupenda spada.
+~
+E' un elfo scuro !!! non avresti mai detto che uno della sua razza potesse
+arrivare addirittura qui, cosi lontano dalla sua patria. Comunque il tuo 
+istinto ti dice di non abbassare la guardia, non e' una razza di cui fidarsi..
+~
+~
+~
+~
+134342666 1032 0 -1 -1 -1 -1 -1 E
+100 14 -5 30d30+3000 6d6+6
+62 500000
+8 8 1
+Str: 25
+Spec: 0
+E
+#9525
+aspide~
+un velenosissimo aspide~
+Un piccolo serpente colorato striscia in silenzio.
+~
+Piccolo... silenzioso... mortale...
+Il killer perfetto.
+~
+~
+~
+~
+67628 263208 0 -1 -1 -1 -1 -1 E
+8 -20 0 2d10+5 2d4+2
+5 1
+8 8 0
+BareHandAttack: 4
+Spec: 13
+E
+#9526
+guardia tolnedra~
+una guardia reale~
+Una guardia di tolnedra passeggia con le armi sguainate.
+~
+Nothing.
+~
+~
+~
+~
+36066182025177179 1056 0 -1 -1 -1 -1 3 E
+60 -5 -9 1d400+1600 3d15+20
+35 0
+8 8 1
+Spec: 3
+E
+T 9041
+T 12529
+T 9754
+#9527
+rufus tesoriere~
+Rufus, il tesoriere~
+Rufus, il tesoriere e' qui pronto a produrre coins!
+~
+Nothing.
+~
+~
+~
+~
+134217738 0 100 -1 -1 -1 -1 -1 E
+100 10 -5 30d10+1000 1d1+10
+52 0
+8 8 1
+Spec: 0
+E
+#9528
+postina lucy~
+Lucy la dolce postina~
+Lucy la creatura la postina piu' carina di tutta la Daresia e qui.
+~
+E' bellissima!
+~
+~
+~
+~
+40971 40 1000 -1 -1 -1 -1 -1 E
+89 19 10 30d20+20000 20d30+1
+55 0
+8 8 2
+Spec: 1
+E
+#9529
+cameriere folle~
+Il cameriere folle~
+Il cameriere folle e' qui.
+~
+Il cameriere folle e' qui che ti fissa con i suoi occhi spiritati.
+~
+~
+~
+~
+8202 0 0 -1 -1 -1 -1 -1 E
+20 0 10 1d1+600 10d10+20
+20 0
+8 8 1
+Spec: 0
+E
+#9596
+paavati poeta corte~
+Paavati il Poeta di Corte~
+Paavati il Poeta di Corte sta componendo un sonetto.
+~
+Un giovane menestrello, vestito molto diversamente dagli altri abitanti di
+Jiroch. Invece della lunga veste tipica dei nobili e dei cortigiani
+indossa corti abiti colorati e un cappello piumato.
+~
+~
+~
+~
+253978 274877908008 0 -1 -1 -1 -1 -1 E
+30 14 -5 1d1+300 2d10+3
+19 0
+8 8 1
+E
+#9600
+signora preziosa~
+La Signora Preziosa~
+La Signora Preziosa e' qui che lavora.
+~
+Un diamante di donna, con due occhi verde smeraldo e una camicetta color rubino
+~
+~
+~
+~
+201353227 1064 -900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+67 100
+8 8 2
+Spec: 0
+E
+#9601
+eddy ammaestratore~
+Eddy L'ammaestratore~
+Eddy l'ammaestratore sta accarezzando un bel micio
+~
+Sembra Noe!
+~
+~
+~
+~
+201369611 1064 -900 -1 -1 -1 -1 -1 E
+100 -30 10 1d1+30000 10d10+50
+53 0
+8 8 1
+Spec: 0
+E
+#9613
+drifth ladro~
+Drifth Il Ladro di Tolnedra~
+Drifth Il Ladro di Tolnedra e' qui per darti cio' che cerchi.
+~
+Sembra un tipo poco raccomandabile.
+~
+~
+~
+~
+134244490 0 -300 -1 -1 -1 -1 -1 E
+70 16 -10 30d10+0 1d1+4
+48 0
+8 8 1
+Spec: 0
+E
+$

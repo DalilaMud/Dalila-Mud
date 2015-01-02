@@ -1,0 +1,40 @@
+trigedit 12603
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &1&x %actor.name% manda a terra %victim.name%&0
+mat %2% &1&x %actor.name% manda a terra %victim.name%&0
+mat %3% &1&x %actor.name% manda a terra %victim.name%&0
+mat %4% &1&x %actor.name% manda a terra %victim.name%&0
+mat %5% &1&x %actor.name% manda a terra %victim.name%&0
+eval bash %bash% + 1
+global bash
+if %bash% == 4
+wait 1 s
+mat %1% &6Il bash di %actor.name% si sta rivelando una buona arma non c'e' che dire &0
+mat %2% &6Il bash di %actor.name% si sta rivelando una buona arma non c'e' che dire &0
+mat %3% &6Il bash di %actor.name% si sta rivelando una buona arma non c'e' che dire &0
+mat %4% &6Il bash di %actor.name% si sta rivelando una buona arma non c'e' che dire &0
+mat %5% &6Il bash di %actor.name% si sta rivelando una buona arma non c'e' che dire &0
+end
+if %bash% == 7
+wait 1 s
+mat %1% say &6 Fossi in un mago girerei alla larga da %actor.name%, i suoi bash sono micidiali!&0
+mat %2% say &6 Fossi in un mago girerei alla larga da %actor.name%, i suoi bash sono micidiali!&0
+mat %3% say &6 Fossi in un mago girerei alla larga da %actor.name%, i suoi bash sono micidiali!&0
+mat %4% say &6 Fossi in un mago girerei alla larga da %actor.name%, i suoi bash sono micidiali!&0
+mat %5% say &6 Fossi in un mago girerei alla larga da %actor.name%, i suoi bash sono micidiali!&0
+end
+if %bash% == 9
+wait 1 s
+mat %1% say &6 Sembra che gli avversari di %actor.name% oramai si buttino a terra da soli pur di evitare il suo bash!&0
+mat %2% say &6 Sembra che gli avversari di %actor.name% oramai si buttino a terra da soli pur di evitare il suo bash!&0
+mat %3% say &6 Sembra che gli avversari di %actor.name% oramai si buttino a terra da soli pur di evitare il suo bash!&0
+mat %4% say &6 Sembra che gli avversari di %actor.name% oramai si buttino a terra da soli pur di evitare il suo bash!&0
+mat %5% say &6 Sembra che gli avversari di %actor.name% oramai si buttino a terra da soli pur di evitare il suo bash!&0
+end
+end
+~
+/s
+q
+y

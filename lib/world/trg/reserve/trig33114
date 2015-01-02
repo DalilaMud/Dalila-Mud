@@ -1,0 +1,12 @@
+trigedit 33114
+6  
+/c 
+if %direction% == south && %actor.vnum% == -1
+  wait 3 s
+  wecho Senti dei rumori terribili... qualcosa si rompe e ... forse un ringhio molto esile rimbomba nella grotta. Delle uova di Beholder devono essersi schiuse da qualche parte...
+end
+   
+~
+/s
+q
+y

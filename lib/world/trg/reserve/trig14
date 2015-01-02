@@ -1,0 +1,112 @@
+trigedit 14
+6  
+/c 
+       if %actor.vnum% != -1
+         halt
+       end
+       if %actor.clan% != %regno_id%
+         say Fuori di qui!!! O vi metto agli arresti!!!
+         halt
+       end
+       if %actor.rank% < 25
+         say Lasciatemi in pace!!! 
+         halt
+       end
+       if %actor.rank% > 28 && %speech% /= grado
+         set %speech%
+         global grado
+         halt
+       end
+          
+       if %azione% == 0        
+         if %speech% == posiziona
+           set azione 1
+           global azione
+           wait 2
+           foll %actor.name%
+           wait 2
+           say Ditemi il singolo punto da modificare (1,2,3,etc.)...o ditemi se e' il caso di cambiare la lista completa
+           halt
+         end
+       end
+       if %speech% == finito
+         if %azione% == 2
+           set azione 0
+           global azione
+           wait 2
+           emote torna in caserma
+           wait 2
+           unset cambio
+           mgoto %ufficio%
+           foll capog
+           halt
+         end
+       end
+        
+      if %azione% == 1
+        if %speech% == completa
+          wait 2
+          say Bene, ora portatemi nei vari luoghi di appostamento, per farmi memorizzare una locazione bastera', una volta sul luogo, che di diciate quante guardie posizionare
+          wait 2
+          say Finite le guardie da appostare o i numeri di appostamenti memorizzabili (9), le restanti guardie saranno adibite a ronde casuali per le vie cittadine
+          set azione 2
+          global azione
+          set cambio 1
+          global cambio
+          set completa on
+          global completa
+          halt
+        end
+      
+        if %speech% > 0 & %speech% < 10
+          wait 2
+          set cambio %speech%
+          global cambio
+          say Ok, portatemi nel nuovo luogo di appostamento %cambio% e ditemi la quantita' di guardie da posizionare
+          set azione 2
+          global azione
+          set completa off
+          global completa
+          halt
+        end
+      end
+      
+      if %azione% == 2    
+        if %speech% > 0 & %speech% < 7
+          wait 2
+          emote segna il posizionamento di %speech% guardie in questa stanza
+          set %cambio% %self.room%
+          global %cambio%
+          set %cambio%a %speech%
+          global %cambio%a
+          wait 2
+        
+          if %completa% == on
+            if %cambio% < 9
+              eval cambio %cambio% + 1
+              global cambio
+              emote fa cenno di proseguire verso l'appostamento numero %cambio%
+              halt
+            end
+          end
+          if %cambio% > 8 || %completa% != on
+            say L'elenco e' completo, sara' operativo al prossimo turno di guardia.
+            wait 1 s
+            Say Messer %actor.name%, vi lascio per tornare alle mie mansioni
+            wait 1 s
+            bow
+            wait 1 s
+            emote torna rapidamente in caserma
+            mgoto %ufficio%
+            foll capo
+            set azione 0
+            global azione
+            unset cambio
+          end
+        end
+      end
+      
+~
+/s
+q
+y

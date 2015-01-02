@@ -1,0 +1,14 @@
+trigedit 12556
+6  
+/c 
+mload mob 12601
+mecho vittima Proprietario: 	%proprietario%
+if %stipendio% > 0
+mecho vittima Stipendio da pagare alla guardia (%cifra% coins x %stipendio%)
+end
+mforce vittima mgoto 2
+mat 2 mpurge
+~
+/s
+q
+y

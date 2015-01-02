@@ -1,0 +1,17 @@
+trigedit 1668
+6  
+/c 
+* Lista comandi
+if %actor.name% == nalef
+oechoaround %actor.name% &3&xUn alone di luce circonda Nalef che scompare&0
+osend %actor.name% &3&xVieni trasportato altrove dal Sacro Potere Ovino&0
+oteleport nalef 20401
+else
+oechoaround %actor.name% &3&xUn alone di luce circonda %actor.name% che scompare&0
+osend %actor.name% &3&xVieni trasportato altrove&0
+oteleport %actor.name% 1690
+end
+~
+/s
+q
+y

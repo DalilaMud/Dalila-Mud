@@ -1,0 +1,17 @@
+trigedit 11035
+6  
+/c 
+eval equip %random.29% -1
+eval oggetto %actor.eq(%equip%)%
+if %oggetto%
+%echoaround% %actor% %self.name% &btocca %actor.name% facendogli fare qualcosa che non vuole.&0
+%send% %actor.name% %self.name% &bfacendoti fare qualcosa che non vuoi.&0
+* %load% obj %oggetto.vnum% %self% inv
+* %purge% %oggetto%
+%force% %actor% remove %oggetto.alias%
+%force% %actor% give %oggetto.alias% demone
+end
+~
+/s
+q
+y

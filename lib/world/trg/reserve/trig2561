@@ -1,0 +1,87 @@
+trigedit 2561
+6  
+/c 
+* Lista comandi
+set luogo %actor.room%
+if %luogo.vnum% != 8866
+  %send% %actor.name% per giocare devi essere nel posto giusto!
+  halt
+end
+set colpo 0
+osend %actor.name% &1&xAppena impugni il randello, la dolce vecchina ti lega una benda sugli occhi!&0
+oechoaround %actor.name% &1&xLa vecchina benda gli occhi di %actor.name%!&0
+wait 2 s
+osend %actor.name% &9&xNon ci vedi piu' nulla!&0
+wait 3 s
+osend %actor.name% &9&xLa vecchina comincia a farti girare piu' volte su te stesso... ti gira la testa!&0
+oechoaround %actor.name% &3&xLa vecchina fa girare %actor.name% su se stesso piu' volte&0
+wait 3 s
+oforce vecchietta say Coraggio %actor.name%, vediamo cosa riesci a colpire!
+while %colpo% <= 3
+wait 3 s
+osend %actor.name% Ti gira tutto.. ti viene un po' da vomitare
+wait 3 s
+osend %actor.name% Ti concentri e vibri una possente mazzata! Che forza!
+oechoaround %actor.name% &1&x%actor.name% vibra una potente mazzata contro un nemico immaginario! Che ridere!&0
+wait 1 s
+eval colpo %random.4%
+if %colpo% <= 3
+osend %actor.name% Hai colpito solo l'aria!
+oechoaround %actor.name% &6&x%actor.name% non colpisce altro che aria!&0
+end
+done
+osend %actor.name% Hai preso qualcosa!
+oechoaround %actor.name% &1&x%actor.name% centra uno dei vasi, mandandolo in frantumi!&0
+eval mazzata %random.10%
+wait 1 s
+switch %mazzata%
+case 1
+oecho &5&xUn peluche cade dal vaso rotto!&0
+oload obj 585
+break
+case 2
+oecho &5&xUn peluche cade dal vaso rotto!&0
+oload obj 586
+break
+case 3
+oecho &5&xUn peluche cade dal vaso rotto!&0
+oload obj 587
+break
+case 4
+oecho &5&xUn peluche cade dal vaso rotto!&0
+oload obj 588
+break
+case 5
+oecho &3&xUn luccicante anello cade dal vaso rotto!&0
+oload obj 8834
+break
+case 6
+oecho &7&xDei bianchissimi guanti cadono dal vaso rotto!&0
+oload obj 8835
+break
+case 7
+oecho &6&xUn cappello piumato cade dal vaso rotto!&0
+oload obj 8836
+break
+default
+osend %actor.name% &7&xDal vaso esce tanta farina bianca! Sei tutto infarinato ora!&0
+oechoaround %actor.name% &7&xDal vaso esce tanta farina bianca! %actor.name% e' tutto infarinato ora!&0
+break
+done
+oforce %actor.name% rimu erxgp
+oforce %actor.name% posa erxgp
+oforce vecchietta sor
+wait 2 s
+oforce vecchietta clap
+wait 2 s
+oforce vecchietta say Bel colpo!
+wait 2 s
+oforce vecchietta say Vuoi provare di nuovo?
+wait 2 s
+oforce vecchietta sor
+oforce vecchietta mat xxxxx posa all.erxgp
+ 
+~
+/s
+q
+y

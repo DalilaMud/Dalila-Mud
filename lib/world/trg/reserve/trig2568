@@ -1,0 +1,19 @@
+trigedit 2568
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &2La bambolina si rizza in piedi e ti guarda con aria severa!&0
+wait 1 s
+oecho &2La bambolina comincia a gridare cose con tono isterico!&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &5La bambolina dice, 'Avrei voluto farti crescere, mi dispiace solo che tu non ci sia riuscito'&0
+else
+oecho &5La bambolina dice, 'tu non sei proprio capace di fare il VERO GDR!&0
+end
+~
+/s
+q
+y

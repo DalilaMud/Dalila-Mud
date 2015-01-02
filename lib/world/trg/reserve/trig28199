@@ -1,0 +1,32 @@
+trigedit 28199
+6  
+/c 
+wforce all clear
+%echo% &7&x Che strano ... qui sta nevicando.&0
+set phanto 0
+while %phanto% <= 23
+set loo &9.&0
+set phan 0
+while %phan% <= 3
+eval num %random.6%
+switch %num%
+case 1
+set loo %loo% &9......&7*&9....&0
+break
+case 2
+set loo %loo% &9....&7&x*&0&9....&0
+break
+default
+set loo %loo% &9..........&0
+break
+done
+eval phan %phan% + 1
+done
+%echo% %loo%
+eval phanto %phanto% + 1
+done
+wforce all look dado
+~
+/s
+q
+y

@@ -1,0 +1,804 @@
+#8800
+buffo grasso inserviente circo~
+Un buffo e grasso inserviente~
+Un buffo e grasso inserviente del Circo ti guarda sorridente.
+~
+Un uomo completamente tondo! E' questa la prima cosa che ti viene in mente guardandolo. Testa tonda, mani tonde
+corpo tondo, gambe tonde. Un vero monumento alla rotondita'!
+~
+~
+~
+~
+134406155 0 500 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Spec: 13
+E
+T 2518
+T 2519
+T 2565
+#8801
+sharp guercio~
+Sharp il guercio~
+&7Sharp il Guercio&0 ti sorride incitandoti a provare!
+~
+Alto e magrissimo, la faccia sporca con una barba inspida e poco curata. Un occhio e' sfregiato
+da una cicatrice profondissima. Ha l'aria di un vecchio alcione in pensione..
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+70 20 10 1d1+0 1d1+0
+57 0
+8 8 1
+Spec: 0
+E
+T 2532
+#8802
+shooter lesto~
+Shooter il Lesto~
+&7&xShooter&0 il Lesto sta rovistando nelle sue cianfrusaglie
+~
+Basso, tarchiato...la sua faccia senza pieta' e il suo ghigno non ti lasciano presagire nulla di buono.
+Dalla cinta vedi uscire un cotello affilato.
+~
+~
+~
+~
+26 33554432 -500 -1 -1 -1 -1 -1 E
+15 14 5 30d1+0 2d6+3
+9 0
+8 8 1
+E
+#8803
+knife duro~
+Knife il Duro~
+&1&xKnife&0 il Duro si getta su di te dall'alto!!!
+~
+Magrolino agile con un faccia spietata e senza paura. Vestito di nero e avvolto in uno strano mantello sembra
+proprio deciso a farti a fette!
+~
+~
+~
+~
+10 524328 -600 -1 -1 -1 -1 -1 E
+18 15 5 1d1+200 2d7+1
+18 0
+8 8 1
+E
+T 2566
+#8804
+maciste forzuto~
+Maciste il Forzuto~
+&1Maciste&0 il Forzuto ti porge un martello pesantissimo e ti invita a testare la tua forza.
+~
+Enorme, muscoloso e gentile. Sono questi i primi aggettivi che ti vengono in mente guardando quest'omone
+dai baffi folti e della forza straordinaria. Indossa dei pantaloni rossi e il suo petto nudo e' avvolto da
+pesantissime catene
+~
+~
+~
+~
+24586 0 200 -1 -1 -1 -1 -1 E
+70 20 10 1d1+0 1d1+0
+55 0
+8 8 0
+Spec: 0
+E
+T 2533
+#8805
+inserviente ottovolante~
+L'inserviente dell'ottovolante~
+L'inserviente dell'ottovolante ti invita a testare i tuoi nervi d'acciaio!
+~
+Aria professionale, sguardo attento, vigile e responsabile. Nessun bambino salira' su questa pericolosa giostra!
+~
+~
+~
+~
+576460752303677466 0 500 -1 -1 -1 -1 -1 E
+70 20 10 1d1+1000 1d1+0
+60 0
+8 8 0
+Spec: 0
+E
+T 2544
+#8806
+sabotatore losca figura~
+Un sabotatore~
+Una losca figura.. forse sta sabotando i binari!
+~
+Ha davvero una brutta faccia, chissa' perche' sabotando l'attrazione?  Bisogna
+fermarlo o qualcuno potrebbe farsi male!    
+~
+~
+~
+~
+24586 0 -800 -1 -1 -1 -1 -1 E
+15 13 5 1d1+160 2d7+3
+9 0
+8 8 1
+BareHandAttack: 14
+Str: 14
+Dex: 16
+E
+#8807
+palo criminale~
+Il palo~
+Il palo dei sabotatori e' qui nascosto pronto ad avvertirli di ogni pericolo!
+~
+Ha davvero una brutta faccia, indossa un cappellaccio.
+~
+~
+~
+~
+28682 524288 -800 -1 -1 -1 -1 -1 E
+16 13 4 1d1+170 3d7+3
+15 0
+8 8 1
+BareHandAttack: 14
+Str: 13
+Dex: 16
+E
+T 2566
+#8808
+trampoliere uomo~
+Il trampoliere~
+Un uomo cammina qui su enormi trampoli...
+~
+Ma come fara' a non cadere? Deve avere una destrezza fuori dal comune!
+E' vestito buffamente ed ha un enorme cappello colorato!
+~
+~
+~
+~
+17179893772 0 200 -1 -1 -1 -1 -1 E
+18 13 5 1d1+200 1d1+3
+15 0
+8 8 1
+Str: 13
+Dex: 14
+E
+#8809
+porcellino ~
+Un porcellino~
+Un porcellino rotola nel fango ai tuoi piedi.
+~
+Piccolo e rosa, con un musetto simpatico..sarebbe veramente carino e adorabile se non fosse cosi' sporco e
+puzzolente!!!
+~
+~
+~
+~
+40968 0 0 -1 -1 -1 -1 -1 E
+10 14 10 1d1+100 3d3+1
+6 0
+8 8 1
+E
+T 2558
+#8810
+maiale enorme~
+Il maiale ENORME~
+Il piu' grosso maiale che tu abbia mai visto ti assale grugnendo!
+~
+ENORME! MAESTOSO! MASSICCIO! Il signore dello sterco e' pronto a difendere il suo reame!
+~
+~
+~
+~
+65576 0 0 -1 -1 -1 -1 -1 E
+18 13 10 1d1+240 2d6+3
+11 0
+8 8 1
+E
+#8811
+ace addetto~
+Ace~
+Ace l'addetto al cannone ti invita a provare questa nuova emozione!
+~
+E' un'ometto dalla faccia simpatica, sebbene tutta sporca di nero:
+probabilmente e' un miscuglio di fumo e polvere da sparo.  Ace sostiene di aver
+sgraffignato questo cannone a Kansuke, il famoso fabbro dello Shogun!    
+~
+~
+~
+~
+188426 0 0 -1 -1 -1 -1 -1 E
+71 15 0 1d1+2000 1d1+5
+55 0
+8 8 1
+Spec: 0
+E
+T 2548
+#8812
+uomo proiettile~
+L'uomo proiettile~
+L'uomo proiettile sta tramando qualcosa di losco!
+~
+Dopo essere stato licenziato perche' ormai ritenuto troppo "suonato" per questo
+lavoro, l'uomo proiettile ha deciso di prendersi la rivincita!  Sta cercando di
+dare fuoco alle polveri!  Bisogna fermarlo!    
+~
+~
+~
+~
+2058 1024 -400 -1 -1 -1 -1 -1 E
+15 13 7 1d1+180 2d7+3
+13 0
+8 8 1
+Str: 12
+Dex: 14
+E
+T 2566
+#8813
+verme viola cucciolo~
+&5Un cucciolo di verme viola&0~
+Un verme lungo circa mezzo metro e completamente viola si contorce tra i tuoi piedi
+~
+Originaria della lontana e spaventosa terra di Atlantide, questa creatura e'
+davvero molto pericolosa.  Per fortuna questo e' solo un cucciolo...  Ma spera
+di non incontrare mai la mamma!    
+~
+~
+~
+~
+8200 0 0 -1 -1 -1 -1 -1 E
+10 14 10 1d1+99 3d3+1
+9 0
+8 8 0
+BareHandAttack: 4
+Dex: 13
+E
+#8814
+pantera nera~
+&9&xLa pantera nera&0~
+ROAAAARRR.. una pantera si avvicina sinuosamente, pronta ad assaggiare il sapore del tuo sangue
+~
+Uno degli esempi piu' eccelsi di quanto la natura possa essere tanto bella
+quanto letale...  Il suo manto nero conferisce a questo animale una eleganza
+eguagliata solo dalla sua ferocia!    
+~
+~
+~
+~
+41 0 0 -1 -1 -1 -1 -1 E
+15 13 5 1d1+169 2d7+3
+11 0
+8 8 2
+BareHandAttack: 4
+Spec: 10
+E
+#8815
+alce aggressiva~
+L'alce aggressiva~
+Un'alce aggressiva si getta alla carica!
+~
+Quest'alce pare davvero infuriata!  Chissa' cosa l'avra' fatta indispettire
+tanto! Mah, queste alci sono davvero bestie bislacche...
+~
+~
+~
+~
+8236 0 -800 -1 -1 -1 -1 -1 E
+13 14 6 1d1+135 2d4+2
+9 0
+8 8 1
+BareHandAttack: 11
+E
+#8816
+alce rosicona~
+Un'alce rosicona~
+Quest'alce ama passare il tempo rosicando a tutto spiano...
+~
+Mostra le corna ma e' decisamente inoffensiva!
+~
+~
+~
+~
+49160 0 0 -1 -1 -1 -1 -1 E
+13 14 6 1d1+135 2d4+2
+12 0
+8 8 1
+BareHandAttack: 11
+E
+#8817
+stegosauro cucciolo~
+Un cucciolo di stegosauro~
+Un piccolo stegosauro zampetta allegro qui intorno
+~
+Ha due grandi occhioni neri, mentre e' ancora privo delle scaglie lungo il
+dorso tipiche della sua specie.  Pare essere molto simpatico!    
+~
+~
+~
+~
+49160 0 0 -1 -1 -1 -1 -1 E
+18 13 5 1d1+230 2d6+3
+17 0
+8 8 1
+BareHandAttack: 4
+E
+#8818
+brontosauro cucciolo~
+Un cucciolo di brontosauro~
+Un cucciolo di brontosauro ti osserva... e' gia' piu' alto di te!
+~
+Certo che per esser un cucciolo non e' piccolissimo...  La sua testa grazie al
+lungo collo riesce ad essere allo stesso livello della tua!  Pare molto
+tranquillo e mansueto, sta masticando delle tenere foglioline.    
+~
+~
+~
+~
+49160 0 0 -1 -1 -1 -1 -1 E
+18 13 5 1d1+230 2d6+3
+14 0
+8 8 0
+E
+#8819
+cucciolo tirannosauro~
+Un cucciolo di tirannosauro~
+Un cucciolo di tirannosauro e' qui che spalanca le mascelle
+~
+Ehi, ma questo e' proprio un piccolo di tirannosauro!  Ma non sara' pericoloso?
+Chissa'...  Potrebbe essere il figlio di &1&xTYRANO&0 in persona!    
+~
+~
+~
+~
+8233 0 0 -1 -1 -1 -1 -1 E
+18 13 5 1d1+209 2d6+4
+13 0
+8 8 0
+BareHandAttack: 4
+Spec: 10
+E
+#8820
+gorilla~
+&9&xUn Gorilla&0~
+Un enorme gorilla mostra la sua forza battendosi il petto con possenti pugni!
+~
+Beh..  Che dire, e' davvero una GROSSA SCIMMIA.  A meno che tu non sia davvero
+molto coraggioso sarebbe saggio non infastidirla oltre.    
+~
+~
+~
+~
+49160 0 0 -1 -1 -1 -1 -1 E
+16 18 5 1d1+200 2d7+8
+9 0
+8 8 0
+BareHandAttack: 6
+E
+#8821
+capra monti~
+La capra dei monti~
+Una robusta e tenace capra dei monti bela infastidita
+~
+Le capre di questa varieta' sono abiutate alla fatica di vivere in un ambiente
+inospitale come quello delle ripide pendici dei monti Mordor...  Nulla le
+spaventa e prendono a cornate tutto cio' che non gradiscono!    
+~
+~
+~
+~
+24584 0 0 -1 -1 -1 -1 -1 E
+15 13 4 1d1+170 2d7+3
+13 0
+8 8 0
+E
+#8822
+bradipo assatanato~
+&5Il bradipo assatanato&0~
+Questo bradipo ha decisamente qualcosa che non va... fossi in te non lo importunerei
+~
+A prima vista parrebbe un animale dolce e simpatico, ma quegli occhi rossi e
+quei denti taglienti ti fanno capire che questo forse non e' un bradipo come gli
+altri.  Alcuni racconti che girano da queste parti narrano di come questo
+bradipo sia stato donato al circo dal potente Arcimago Spini
+~
+~
+~
+~
+57352 17825792 -800 -1 -1 -1 -1 -1 E
+22 12 3 1d1+300 2d7+4
+13 0
+8 8 1
+BareHandAttack: 8
+E
+#8823
+bradipo assassino~
+&5Il Bradipo Assassino&0~
+E' un temibile bradipo assassino quello che ti trovi di fronte! Stai attento!
+~
+Qualche mago malvagio deve aver tramutato questa creatura un tempo docile,
+pigra e tranquilla in una belva assetata di sangue!    
+~
+~
+~
+~
+57352 0 0 -1 -1 -1 -1 -1 E
+21 12 4 1d1+345 2d5+5
+19 0
+8 8 0
+BareHandAttack: 8
+E
+#8824
+addetto uomo~
+L'addetto alle gabbie~
+L'addetto alle gabbie e' qui che fa un po' di pulizia
+~
+Pare un uomo molto tranquillo e pacifico, non pare temere di avere a che fare
+tutti i giorni con pericolosi animali!    
+~
+~
+~
+~
+18444 0 0 -1 -1 -1 -1 -1 E
+10 14 7 1d1+99 3d3+1
+8 0
+8 8 1
+E
+#8825
+bestiaccia volante pipistrello~
+Una bestiaccia volante~
+Una bestiaccia volante e' qui che volteggia sopra la tua testa
+~
+Probabilmente e' un semplice pipistrello, ma il buio non ti permette di
+distinguere bene.  Quel che e' sicuro e' che e' abbastanza disgustosa.    
+~
+~
+~
+~
+147466 2199023255552 -800 -1 -1 -1 -1 -1 E
+12 17 9 1d1+119 1d6+2
+11 0
+8 8 0
+BareHandAttack: 8
+Dex: 14
+E
+#8826
+viscido serpente velenoso~
+Un serpente velenoso~
+Un pericoloso e viscido serpente velenoso ti sfiora le caviglie
+~
+Ha la pelle di un colore verde brillante ed e' piu' lungo di un metro.  
+Probabilmente il suo morso e' molto velenoso, stai attento!    
+~
+~
+~
+~
+81931 0 0 -1 -1 -1 -1 -1 E
+14 15 8 1d1+139 1d7+3
+8 0
+8 8 1
+BareHandAttack: 4
+Spec: 13
+E
+#8827
+pericoloso fantasma spettro~
+&7Un pericoloso fantasma&0~
+Un pericoloso fantasma si avvicina... non promette nulla di buono!
+~
+E' trasparente e fanta paura.
+Ti riprometti di portare qui il prossimo a cui sentirai dire che i fantasmi non esistono
+~
+~
+~
+~
+253978 131074 -800 -1 -1 -1 -1 -1 E
+15 14 5 1d1+179 2d5+4
+11 0
+8 8 0
+Str: 12
+Dex: 14
+E
+#8828
+gargoyle~
+&1Uno spaventoso Gargoyle&0~
+Un mostruoso Gargoyle ti fissa immobile
+~
+Pare essere perfettamente immobile, ma il rosso bagliore nei suoi occhi di
+pietra ti fanno capire che non e' una semplice statua...  Forse sara' meglio
+non infastidirlo!    
+~
+~
+~
+~
+24586 268436544 -800 -1 -1 -1 -1 -1 E
+18 14 0 1d1+199 2d7+4
+12 0
+8 8 0
+BareHandAttack: 8
+Str: 16
+Dex: 17
+E
+T 2566
+#8829
+mostro demonio~
+Un mostro demoniaco~
+Un mostro demoniaco e' appeso al soffitto e allunga gli artigli verso di te!
+~
+E' una creatura davvero orribile, probabilmente un piccolo demone.  Sta
+allungando i lunghi artigli verso di te...  Forse e' il caso di considerare una
+veloce fuga..    
+~
+~
+~
+~
+90138 17825792 -900 -1 -1 -1 -1 -1 E
+20 13 7 1d1+249 2d8+5
+19 0
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 15
+E
+#8830
+vampiro~
+Un vampiro~
+Un terrificante vampiro si appresta a nutrirsi del tuo sangue
+~
+Non e' come quelli dei libri, e' molto piu' mostruoso e animalesco!  Ma non
+sara' certo questo ad impedirgli di succhiarti tutto il sangue!    
+~
+~
+~
+~
+57355 0 -800 -1 -1 -1 -1 -1 E
+23 11 2 1d1+319 2d8+5
+18 0
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 17
+Int: 16
+Wis: 16
+Spec: 15
+E
+#8831
+uomo spaventato cresta verde~
+Un uomo con la cresta &2verde&0~
+Un uomo con la cresta verde corre verso di te urlando dallo spavento!
+~
+Basso,magrolino, completamente vestito di pelle nera. Porta una buffa capigliatura a forma di cresta verde. Il suo
+sguardo e' spaventato e urla terrorizzato...cosa sara' successo??
+~
+~
+~
+~
+8202 0 0 -1 -1 -1 -1 -1 E
+15 16 10 1d1+150 2d4+4
+12 0
+8 8 1
+E
+T 2570
+#8832
+vecchietta vecchia vecchierella~
+Una simpatica vecchietta~
+Una simpatica vecchietta ti invita a giocare
+~
+E' davvero bassa e porta capelli grigi raccolti sulla testa in un alto
+cucuzzolo.  Il bagliore nei suoi occhi ti fa capire che nonostante l'eta' e'
+ancora perfettamente lucida e sa badare ai suoi affari!  Quante cose deve aver
+visto girando per la Daresia durante la sua vita!    
+~
+~
+~
+~
+253962 40 800 -1 -1 -1 -1 -1 E
+14 0 10 1d1+1999 1d1+10
+8 0
+8 8 2
+Spec: 0
+E
+T 2560
+T 2562
+#8833
+dora venditrice negoziante signora~
+Dora, la venditrice di dolci~
+Una signora dall'aspetto decisamente rubicondo serve i clienti con un sorriso
+~
+A giudicare dal suo aspetto diresti che questa signora preferisce assaggiare
+molto spesso i dolci che vende per assicurarsi della loro bonta'.  Come darle
+torto?    
+~
+~
+~
+~
+134471690 8 800 -1 -1 -1 -1 -1 E
+40 20 10 1d1+4999 1d1+0
+34 0
+8 8 2
+Spec: 0
+E
+#8834
+Un giocoliere~
+Un giocoliere~
+Un simpatico giocoliere fa volteggiare abilmente 5 palline!
+~
+E' davvero in gamba!  Riesce a lanciare in aria e far girare 5 palline
+contemporaneamente!  Tu di sicuro non ci riusciresti!    
+~
+~
+~
+~
+2076 0 0 -1 -1 -1 -1 -1 E
+15 13 1 1d1+170 2d7+3
+13 0
+8 8 1
+Str: 12
+Dex: 18
+E
+#8835
+fritz venditore negoziante~
+Fritz~
+Fritz, il venditore di hot-dog sta cucinando sulla sua griglia..
+~
+E' un uomo biondo con un grosso pancione ed un altrettanto grosso sorriso.  I
+profumini che escono da quello che sta facendo cuocere sulla griglia sono
+davvero appetitosi!    
+~
+~
+~
+~
+134471690 40 0 -1 -1 -1 -1 -1 E
+10 20 10 1d1+3000 1d1+0
+7 0
+8 8 1
+Spec: 0
+E
+#8836
+clown pagliaccio~
+Un simpatico clown~
+Un simpatico clown sta saltellando per la strada
+~
+Ha un enorme naso finto rosso, una parrucca di capelli verdi ed un paio di
+pantaloni bragaloni.  Davvero buffo!    
+~
+~
+~
+~
+536887304 0 0 -1 -1 -1 -1 -1 E
+21 12 6 1d1+249 3d5+4
+13 0
+8 8 1
+Dex: 15
+E
+T 2566
+#8837
+folletto invisibile~
+Un folletto invisibile~
+Un folletto invisibile approfitta della confusione per fare i dispetti!
+~
+Deve essere un folletto magico! Infatti e' invisibile! Ha un buffo faccino da birbantello!
+~
+~
+~
+~
+17179959320 10 0 -1 -1 -1 -1 -1 E
+8 17 8 1d1+99 1d8+2
+7 0
+8 8 1
+Str: 9
+Dex: 18
+Int: 16
+Wis: 16
+E
+T 2566
+#8838
+donna obesa~
+Una donna obesa~
+Una delle donne piu' obese della Daresia ti carica con tutta la sua rabbia verso il mondo!!
+~
+Brutto, grassa, cicciona e antipatica...XYZ per gli amici
+~
+~
+~
+~
+65576 0 0 -1 -1 -1 -1 -1 E
+15 13 8 1d1+160 2d6+10
+13 0
+8 8 0
+E
+#8839
+uomo due teste~
+Un uomo con due teste~
+Un uomo con due teste ti fissa con tutti i suoi 4 occhi!
+~
+Sembrerebbe un uomo normale...se non avesse due teste!!
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+13 13 5 1d1+150 2d7+3
+11 0
+8 8 1
+E
+#8840
+mutante uomo lupo~
+Un mutante uomo-lupo~
+Il bizzarro incrocio tra un uomo e un lupo salta ovunque ululando.
+~
+Meta' uomo, meta' lupo....racchiude le caratteristiche migliori di entrambi!
+~
+~
+~
+~
+6168 268435456 -200 -1 -1 -1 -1 -1 E
+13 15 3 1d1+140 2d7+5
+12 0
+8 8 1
+BareHandAttack: 8
+E
+#8841
+uomo invisibile~
+L'uomo invisibile~
+L'uomo invisibile sta giocando tiri mancini ai visitatori spaventati..
+~
+C'e' poco da vedere! E' invisibile!
+~
+~
+~
+~
+8 402653186 0 -1 -1 -1 -1 -1 E
+12 16 4 1d1+100 1d1+4
+7 0
+8 8 0
+E
+#8842
+mostro assemblato gigante~
+Un gigante assemblato~
+Un terribile gigante costruito con parti umane urla con tutta la sua ferocia..
+~
+Terribile...alto 3 metri, completamente realizzato con parti di essere umano. La sua vista ti provoca disgusto e 
+terrore nello stesso tempo..
+~
+~
+~
+~
+122922 0 0 -1 -1 -1 -1 -1 E
+25 12 10 1d1+400 2d10+6
+24 0
+8 8 0
+E
+T 2571
+#8843
+imp bastardo ibxcr~
+Un imp bastardo~
+Questo imp e' un vero bastardo
+~
+E' un imp. Bastardo.
+~
+~
+~
+~
+36028797019086874 524290 -1000 -1 -1 -1 -1 -1 E
+71 20 10 1d1+9999 1d1+0
+41 0
+8 8 0
+E
+#8844
+buffo grosso inserviente circo~
+Un buffo e grasso inserviente~
+Un buffo e grasso inserviente del Circo ti guarda sorridente
+~
+Un uomo completamente tondo! E' questa la prima cosa che ti viene in mente guardandolo. Testa tonda, mani tonde
+corpo tondo, gambe tonde. Un vero monumento alla rotondita'!
+~
+~
+~
+~
+576460752303611914 0 0 -1 -1 -1 -1 -1 E
+70 20 0 1d1+5000 1d1+0
+48 0
+8 8 1
+Spec: 0
+E
+T 2518
+T 2519
+T 2565
+$

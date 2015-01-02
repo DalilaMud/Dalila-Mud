@@ -1,0 +1,15 @@
+trigedit 1679
+6  
+/c 
+* Lista comandi
+wait 1 s
+osend %actor.name% &3&xTi senti molto fortunato ora!&0
+oechoaround %actor.name% &3&x%actor.name% viene circondato da una calda luce dorata&0
+wait 1 s
+oechoaround %actor.name% &2&xUn quadrifoglio spunta ai piedi di %actor.name%!&0
+osend %actor.name% &2&xUn quadrifoglio spunta ai tuoi piedi!&0
+oload obj 3529
+~
+/s
+q
+y

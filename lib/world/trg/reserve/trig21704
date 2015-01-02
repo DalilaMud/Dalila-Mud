@@ -1,0 +1,13 @@
+trigedit 21704
+6  
+/c 
+if %actor.name% == archimedix
+%echo% Archimedix prende Una boccetta di cristallo contenente una Lacrima di Dolmant
+wait 2s
+otransform 21702
+%echo% Il vero Testamento compare in qualche secondo
+end
+~
+/s
+q
+y

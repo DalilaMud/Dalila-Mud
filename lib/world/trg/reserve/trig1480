@@ -1,0 +1,22 @@
+trigedit 1480
+6  
+/c 
+if %actor.vnum% != -1
+ halt
+end
+if %actor.clan% == 7
+ wait 1 s
+ emote si guarda intorno preoccupato... evidentemente la tua presenza qui lo innervosisce.
+ halt
+end
+if %actor.rank% == 30 && %actor.clan% == 8
+ wait 1 s
+ emote Accenna un timido sorriso al Governatore di Sendaria, mentre prova a trattenere il respiro.
+ halt
+end
+wait 1 s
+sor %actor.name%
+~
+/s
+q
+y

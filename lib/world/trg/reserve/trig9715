@@ -1,0 +1,14 @@
+trigedit 9715
+6  
+/c 
+eval karakiri %karakiri% + 1
+global karakiri
+if %karakiri% > 4
+emote si autolicenzia visti i mancati pagamenti
+mgoto 2
+mpurge
+end
+~
+/s
+q
+y

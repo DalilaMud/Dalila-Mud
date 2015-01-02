@@ -1,0 +1,13 @@
+trigedit 2513
+6  
+/c 
+* Lista comandi
+if recinto /= %arg%
+wsend %actor.name% &9&xCredi davvero di poter scassinare una porta posta da Shaarr?&0
+%damage% %actor.name% 100
+wechoaround %actor.name% &9&x%actor.name% pare scosso da tremiti mortali...&0
+end
+~
+/s
+q
+y

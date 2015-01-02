@@ -1,0 +1,142 @@
+trigedit 12605
+6  
+/c 
+if %formazione% == colonnaincorso
+  %send% %actor% Esecuzione ordine precende in corso.
+  halt
+end
+set chek 0
+  if !(%fronte%)
+    set fronte nord
+    global fronte
+  end
+  
+  if %arg% == dietrofront
+    if %fronte% == sud
+      set ex nord
+    elseif %fronte% == nord
+      set ex sud
+    elseif %fronte% == est
+      set ex ovest
+    elseif %fronte% == ovest
+      set ex est
+    else
+      set ex sud
+    end
+    set arg fronte %ex%
+  end 
+  
+  if %arg% /= fronte
+    if %arg% /= fronte nord
+      set ex %fronte%
+      set fronte nord
+    elseif %arg% /= fronte sud
+      set ex %fronte%
+      set fronte sud
+    elseif %arg% /= fronte est
+      set ex %fronte%
+      set fronte est
+    elseif %arg% /= fronte ovest
+      set ex %fronte%
+      set fronte ovest
+    else
+      %send% %actor% Il plotone e' schierato verso %fronte%
+      halt
+    end
+    global fronte
+    
+    if %ex% == %fronte%
+      if %marcia% != fermi
+        %send% %actor% Il plotone sta gia marciando verso %fronte%.
+      else
+        %send% %actor% Il plotone e' gia' schierato verso %fronte%.
+        wait 1 s
+        %send% %actor% I tuoi uomini ti guardano perplessi.
+        halt
+      end
+    end
+    
+    if (%ex% == nord && %fronte% == est) || (%ex% == est && %fronte% == sud)
+      set fianco Fianco Destr
+    elseif (%ex% == sud && %fronte% == ovest) || (%ex% == ovest && %fronte% == nord)
+      set fianco Fianco Destr
+    elseif (%ex% == sud && %fronte% == nord) || (%ex% == ovest && %fronte% == est)
+      set fianco Dietrofront
+    elseif (%ex% == nord && %fronte% == sud) || (%ex% == est && %fronte% == ovest)
+      set fianco Dietrofront
+    else
+     set fianco Fianco Sinistr
+    end
+    
+    set chek 1
+  end
+  
+  if %arg% == marcia
+    %force% %actor% say %self.name% in Marcia.
+    set marcia normale
+    global marcia
+    halt  
+  end 
+  if %arg% == alt
+    %force% %actor% say %self.name% ALT!!!
+    set marcia fermi
+    global marcia
+    halt  
+  end 
+  if %arg% /= formazione
+    if %arg% /= colonna
+      if %formazione% != colonnaincorso && %formazione% != colonna
+        %echo% Le truppe si schierano in colonna
+        set formazione colonnaincorso
+        global formazione
+      else
+        %send% %actor% Le tue truppe sono gia' allineate in colonna.
+      end
+    else
+      %send% %actor% Che tipo di formazione vuoi assegnare alle truppe?
+    end
+    halt  
+  end
+  
+  if %arg% == boh
+    set chek 1  
+  end
+  
+  if %chek% == 0
+    %force% %actor% cls
+    %send% %actor% 
+    %send% %actor% #############################################
+    %send% %actor% # Il Plotone e' schierato verso %fronte%
+    %send% %actor% #                                           #
+    %send% %actor% # Comandi Attivi:                           #
+    %send% %actor% #                                           #
+    %send% %actor% # PLOTONE Fronte Punto Cardinale            #
+    %send% %actor% # PLOTONE DietroFront                       #
+    %send% %actor% # PLOTONE Alt                               #
+    %send% %actor% # PLOTONE Marcia                            #
+    %send% %actor% # PLOTONE Formazione Tipo di formazione:    #
+    %send% %actor% #                           - Colonna -     #
+    %send% %actor% #
+  elseif %marcia% != fermi
+    %force% %actor.name% say %self.name% %fianco%.
+    wait 1 s
+    %echo% %self.name% cambia la direzione di marcia, ora si dirige verso %fronte%.
+  else
+    %force% %actor.name% say %self.name% ATTENTI.
+    wait 1 s
+    %echo% %self.name% scatta sugli attenti.
+    wait 2 s
+    %force% %actor.name% say %self.name% %fianco%.
+    wait 1 s
+    %echo% %self.name% con una perfetta sincronia di movimenti si schiera verso %fronte%.
+    wait 2 s
+    %force% %actor.name% say %self.name% RIPOSO.
+    wait 1 s
+    %echo% %self.name% assume la posizione di riposo.    
+  end
+end
+  
+~
+/s
+q
+y

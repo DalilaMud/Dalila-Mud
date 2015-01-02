@@ -1,0 +1,370 @@
+#4000
+grosso serpente~
+un grosso serpente~
+Un grosso e mortale serpente e' qui ai tuoi piedi che cerca di morderti.
+~
+Sembra affamato.
+~
+~
+~
+~
+43 1032 -200 -1 -1 -1 -1 -1 E
+9 15 7 1d1+80 1d8+1
+8 18000
+8 8 0
+Spec: 13
+E
+#4001
+serpente verde~
+un serpente verde~
+Un piccolo serpente verde si trova qui e non sembra amichevole...
+~
+Sembrerebbe inoffensivo...
+~
+~
+~
+~
+43 1032 -100 -1 -1 -1 -1 -1 E
+7 16 7 1d1+60 2d4+1
+5 7000
+8 8 0
+Spec: 13
+E
+#4002
+Orco Gigante~
+Un Orco gigante~
+Un gigantesco orco e' qui davanti a te.
+~
+Sembra inoffensivo.
+~
+~
+~
+~
+10 0 -400 -1 -1 -1 -1 -1 E
+14 14 6 1d1+155 2d5+2
+9 30000
+8 8 0
+E
+#4003
+coboldo~
+un coboldo~
+Un orrendo coboldo si trova qui in cerca di cibo.
+~
+E' decisamente brutto.
+~
+~
+~
+~
+262252 1024 -100 -1 -1 -1 -1 -1 E
+10 14 7 1d1+90 1d8+1
+7 20000
+8 8 0
+E
+#4004
+orco~
+un orco~
+Un orco gira qui attorno in cerca di qualcuno da uccidere.
+~
+Una luce malvagia illumina i suoi occhi...
+~
+~
+~
+~
+108 1024 -400 -1 -1 -1 -1 -1 E
+10 14 7 1d1+90 2d4+1
+9 14000
+8 8 0
+E
+#4005
+grosso orco~
+un grosso orco~
+Un grosso orco e' qui che cerca qualcosa.
+~
+E' veramente spaventoso.
+~
+~
+~
+~
+76 1024 -500 -1 -1 -1 -1 -1 E
+15 13 6 1d1+180 2d5+3
+14 40000
+8 8 1
+E
+#4020
+elementale fuoco~
+elementale del fuoco~
+Un Elementale del &1FUOCO&0
+~
+E' una fiamma enorme dalle forme demoniache.
+~
+~
+~
+~
+8 17957888 0 -1 -1 -1 -1 -1 E
+50 15 -3 30d4+250 1d1+10
+42 0
+8 8 0
+E
+#4050
+guerriero~
+un guerriero~
+Un imponente guerriero e' qui. Ha piu' cicatrici di chiunque tu abbia visto finora.
+~
+Sembra essere un combattente forte e impulsivo.
+~
+~
+~
+~
+78 1024 -300 -1 -1 -1 -1 -1 E
+12 14 6 1d1+115 1d10+2
+8 20000
+8 8 1
+E
+#4051
+guerriero~
+un guerriero~
+Un imponente guerriero e' qui.
+~
+Sembra sapere bene come utilizzare le sue armi.
+~
+~
+~
+~
+76 1024 -400 -1 -1 -1 -1 -1 E
+13 13 6 1d1+135 2d5+2
+8 30000
+8 8 1
+E
+#4052
+hobgoblin~
+un hobgoblin~
+Un piccolo hobgoblin si trova qui.
+~
+Sembra che si sia perso.
+~
+~
+~
+~
+108 1024 -300 -1 -1 -1 -1 -1 E
+13 14 6 1d1+130 2d6+2
+12 27000
+8 8 1
+E
+#4053
+serpente marrone~
+un serpente marrone~
+Un serpente marrone ti osserva.
+~
+Il serpente sembra abbastanza forte.
+~
+~
+~
+~
+262217 1024 -600 -1 -1 -1 -1 -1 E
+10 14 7 1d1+90 1d8+1
+10 10000
+8 8 0
+Spec: 13
+E
+#4054
+millepiedi~
+un millepiedi~
+Un millepiedi bianco e' qui.
+~
+Il millepiedi non sembra averti notato.
+~
+~
+~
+~
+262248 0 -100 -1 -1 -1 -1 -1 E
+5 16 9 1d1+40 1d8+1
+4 1500
+8 8 0
+E
+#4055
+hobgoblin~
+un hobgoblin~
+Un grosso hobgoblin e' qui.
+~
+L'hobgoblin sembra abbastanza pericoloso.
+~
+~
+~
+~
+76 1024 -500 -1 -1 -1 -1 -1 E
+18 12 5 1d1+225 2d6+3
+12 60000
+8 8 1
+E
+#4056
+orco~
+un orco~
+Un orco e' qui in cerca di qualcosa (o qualcuno?) da mangiare.
+~
+Beh, non sembra amichevole.
+~
+~
+~
+~
+1100 1024 -800 -1 -1 -1 -1 -1 E
+13 14 6 1d1+135 2d5+2
+10 30000
+8 8 1
+E
+#4057
+leone montagna~
+un leone di montagna~
+Un leone di montagna e' qui che ringhia contro di te.
+~
+Il leone sembra molto pericoloso con quegli enormi artigli e grosse zanne.
+~
+~
+~
+~
+262248 1024 -100 -1 -1 -1 -1 -1 E
+6 17 8 1d1+60 2d5+2
+5 14000
+8 8 1
+E
+#4058
+gigante colline~
+un gigante delle colline~
+Un gigante delle colline e' qui che scaglia pietre attorno a se'.
+~
+Il gigante delle colline e' alto almeno due metri e 70 centimetri.
+Dal suo comportamento capisci che non deve essere molto intelligente.
+~
+~
+~
+~
+65608 1024 -350 -1 -1 -1 -1 -1 E
+20 11 4 1d1+260 2d7+3
+13 70000
+8 8 1
+E
+#4100
+mago mmqs~
+un mago~
+Un piccolo mago molto intelligente si trova qui.
+~
+A paragone del suo quoziente intellettivo ogni persona
+sembra stupida... Sembra conoscere bene le arti della
+magia.
+~
+~
+~
+~
+47 1032 -100 -1 -1 -1 -1 -1 E
+19 12 4 1d1+265 2d7+3
+15 22000
+8 8 1
+Spec: 15
+E
+#4101
+troll~
+un troll~
+Un grosso e pericoloso troll si trova qui.
+~
+Beh, sembra pericoloso!
+~
+~
+~
+~
+16430 1024 -800 -1 -1 -1 -1 -1 E
+24 11 2 1d1+390 2d10+4
+23 55000
+8 8 1
+E
+#4102
+grosso serpente verde~
+un grosso serpente verde~
+Un grosso serpente verde e' qui. E' il guardiano di una forza malvagia.
+~
+E' una creatura di pura malvagita'.
+~
+~
+~
+~
+262252 1024 -700 -1 -1 -1 -1 -1 E
+11 14 8 1d1+50 1d10+4
+6 12000
+8 8 1
+E
+#4103
+ladro~
+un ladro~
+Un ladro tutto vestito di nero e' qui.
+~
+Sembra occupato a contare un mucchio di monete. Forse dovresti
+aiutarlo a contare le TUE monete...
+~
+~
+~
+~
+589 787464 -400 -1 -1 -1 -1 -1 E
+17 13 5 1d1+200 2d7+3
+14 14000
+8 8 1
+Spec: 14
+E
+#4104
+orco orrendo~
+un orco~
+Un orrendo orco e' qui.
+~
+E' abbastanza disgustoso a vedersi.
+~
+~
+~
+~
+236 33800 -200 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+9 20000
+8 8 1
+E
+#4105
+millepiedi~
+un millepiedi~
+Un piccolo ed innocuo millepiedi si trova qui.
+~
+Non sembrare prestare attenzione alla tua presenza.
+~
+~
+~
+~
+262248 1024 300 -1 -1 -1 -1 -1 E
+10 16 7 1d1+50 1d8+3
+9 10000
+8 8 0
+E
+#4106
+guerriero~
+un guerriero~
+Un guerriero umano e' qui. Ha un'espressione malvagia dipinta sul volto.
+~
+Decisamente non sembra amichevole...
+~
+~
+~
+~
+123980 1024 -300 -1 -1 -1 -1 -1 E
+23 11 2 1d1+375 2d9+5
+19 45000
+8 8 1
+E
+#4107
+coboldo~
+un coboldo~
+Un coboldo verde e' qui.
+~
+Sembra viscido...
+~
+~
+~
+~
+108 1024 -100 -1 -1 -1 -1 -1 E
+16 13 5 1d1+175 2d6+2
+13 27000
+8 8 1
+E
+$

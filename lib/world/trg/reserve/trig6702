@@ -1,0 +1,15 @@
+trigedit 6702
+6  
+/c 
+* Lista comandi
+wait 2 s
+eval num %random.2%
+if %num% == 1
+emote si allunga faticosamente per accendere le luci della citta'.
+else
+emote con mestiere smorza le lanterne del viale fino a spegnerle.
+end
+~
+/s
+q
+y

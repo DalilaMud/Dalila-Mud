@@ -1,0 +1,25 @@
+trigedit 31109
+6  
+/c 
+if %actor.name% == Delsenora
+wait 1 s
+%echo% Il piccolo Aran si stringe felice al petto della mamma
+wait 1 s
+%echo% La abbraccia e si volta a sorridere..
+elseif %actor.name% == Redarion
+wait 1 s
+%echo% Il piccolo Aran decolla sollevato dal papa' che lo mette sulle sue spalle..
+wait 1 s
+%echo% alza le braccine al cielo e le agita felice!
+else
+wait 1 s
+%echo% Il piccolo Aran guarda stupito le braccia che lo prendono..
+wait 1 s
+%echo% poi, si rende conto...
+wait 2 s
+%echo% &3Il piccolo Aran urla, 'BwaWaaaaaaaaaaaaa BwwwwwwWAaaaaaaaaaaaa MaaaaAmmMMaaaaaa'&0
+end
+~
+/s
+q
+y

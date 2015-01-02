@@ -1,0 +1,315 @@
+#11400
+fante nero~
+il Fante Nero.~
+Il Fante Nero e' qui in attesa del nemico.
+~
+   Il Fante nero sulla testa ha un elmo piatto con un pugnale in cima,
+la sua carica potrebbe essere molto pericolosa, indossa un'armatura
+di metallo leggera e si protegge con uno scudo di legno su cui e incisa 
+col fuoco la sagoma di un Drago nero.
+~
+~
+~
+~
+33288 0 -20 -1 -1 -1 -1 -1 E
+10 14 7 1d1+99 3d3+1
+6 200
+8 8 1
+E
+#11401
+fante bianco~
+il Fante Bianco~
+Il Fante Bianco e' qui che scruta gli avversari dell'altra corte.
+~
+   Il fante indossa una cotta di maglia in ferro argentato che gli copre 
+anche il capo. Con la sinistra sostiene un lungo scudo di bronzo con al 
+centro un cerchio bianco disegnato.
+~
+~
+~
+~
+33032 0 100 -1 -1 -1 -1 -1 E
+10 14 7 1d1+99 3d3+1
+10 200
+8 8 1
+E
+#11402
+carro al-adli~
+il carro di Al-Adli~
+Al-Adli e' qui che prepara il suo carro per la guerra. 
+~
+   Al-Adli indossa un armatura di cuoio il suo volto e coperto da un Elmo di Rame. 
+Impugna un lungo bastone ma la sua arma preferita e' la punta affilata dei suoi 
+stivali di metallo.
+Appena nota la tua presenza afferra il suo bastone, lo fa ruotare in alto con 
+maestria e lo punta verso il tuo collo.
+~
+~
+~
+~
+231944 32 -3 -1 -1 -1 -1 -1 E
+18 13 5 1d1+230 2d6+3
+17 850
+8 8 0
+E
+#11403
+carro al-razi~
+il carro di Al-Razi~
+Al-Razi e' seduto sul suo Carro da Combattimento color rosso sangue. 
+~
+   Al-Razi indossa un armatura ed un elmo di cuoio. Impugna una pesante 
+mazza ferrata con la quale si sta grattando la schiena.
+~
+~
+~
+~
+231944 32 -1 -1 -1 -1 -1 -1 E
+18 13 5 1d1+230 2d6+3
+13 850
+8 8 0
+E
+#11404
+cavaliere nero~
+il Cavaliere Nero~
+Il Cavaliere Nero e' qui a proteggere la sua casa.
+~
+   Il cavaliere impugna una lunga Lancia scintillante a cui e' attaccato 
+un drappo di stoffa rossa.
+~
+~
+~
+~
+35336 0 -2 -1 -1 -1 -1 -1 E
+13 14 6 1d1+135 2d4+2
+11 2000
+8 8 1
+E
+#11405
+cavaliere bianco~
+il Cavaliere Bianco~
+Il Cavaliere Bianco e' qui in tutta la sua fierezza.
+~
+   Il cavaliere impugna una lunga Lancia scintillante a cui e' attaccato 
+un drappo di stoffa azzurra.
+~
+~
+~
+~
+35080 0 40 -1 -1 -1 -1 -1 E
+13 14 6 1d1+135 2d4+2
+10 2200
+8 8 1
+E
+#11406
+elefante~
+un Elefante gigante~
+Un Elefante gigantesco e' qui.
+~
+   Grosso ma molto lento. Solo questo ti puo' salvare.
+~
+~
+~
+~
+172553 0 -3 -1 -1 -1 -1 -1 E
+15 13 5 1d1+170 2d7+3
+10 3300
+8 8 2
+Spec: 16
+E
+#11407
+alfiere bianco~
+l'Alfiere Bianco~
+L'Alfiere Bianco e' qui senza timore.
+~
+   Indossa una leggera armatura d'oro e un mantello di scaglie di Drago. 
+Impugna un bastone dai poteri magici con la sinistra ed un pugnale 
+a tre lame con la destra .
+~
+~
+~
+~
+172297 0 50 -1 -1 -1 -1 -1 E
+15 13 5 1d1+170 2d7+3
+12 3300
+8 8 0
+Spec: 16
+E
+#11408
+consigliere imperiale al-suli~
+il Consigliere Imperiale~
+Al-Suli il Consigliere Imperiale e' qui accanto al suo Re.
+~
+   Una lunga veste Rossa, ricamata con sottili fili d'oro, riveste la sua 
+agile e scattante muscolatura. Le sue mani incrociate sul petto serrano 
+un affilato pugnale di selce nera.
+~
+~
+~
+~
+35336 1032 -4 -1 -1 -1 -1 -1 E
+20 12 4 0d1+260 2d5+4
+16 8500
+8 8 1
+E
+#11409
+regina bianca~
+la Regina Bianca~
+La Regina Bianca e' qui in tutta la sua bellezza.
+~
+   Indossa poco e nulla. E quel poco e' di pura seta azzurra trasparente. 
+Due bracciali d'oro ai polsi ed un piccolo pugnale probabilmente avvelenato 
+legato alla caviglia destra.
+~
+~
+~
+~
+35080 1032 150 -1 -1 -1 -1 -1 E
+21 12 4 1d1+345 2d5+5
+18 9000
+8 8 2
+E
+T 2
+#11410
+imperatore siang-ki~
+l'Imperatore Siang-Ki~
+L'Imperatore Siang-Ki e' qui che vigila sulla sue corte.
+~
+   Migliaia di piccole lastre di giada rossa, sagomate  come scaglie di Drago, 
+compongono l'armatura dell'Imperatore Siang-Ki, impugna un massiccio Scettro. 
+Il suo sguardo freddo e privo d'espressione riempie il tuo cuore di timore.
+~
+~
+~
+~
+43544 17826824 -5 -1 -1 -1 -1 -1 E
+22 12 3 1d1+300 2d8+4
+13 12000
+8 8 1
+E
+#11411
+re bianco shah~
+il Re Bianco~
+Shah il Re Bianco e' qui che passeggia nervoso.
+~
+   Impugna uno scettro che dona forza e immortalita'.  E una lunga spada pende
+al suo fianco.  Non ti degna nemmeno di uno sguardo e passeggia avanti ed
+indietro nervoso.    
+~
+~
+~
+~
+172296 17826824 400 -1 -1 -1 -1 -1 E
+22 12 3 1d1+300 2d7+4
+18 0
+8 8 1
+E
+#11412
+torre tukh gigante~
+Tukh il gigante~
+Tukh il gigante e' a guardia della sua torre.
+~
+   Tukh il gigante e' alto quasi quanto la torre d'assedio, indossa una liscia
+armatura di ferro ed un elmo con piume colorate.  Non usa mai armi, sembra che
+lui ed il suo gemello Rukh non ne abbiano bisogno.    
+~
+~
+~
+~
+114952 0 250 -1 -1 -1 -1 -1 E
+18 13 5 1d1+230 2d6+3
+10 0
+8 8 1
+E
+#11413
+rukh torre gigante~
+Rukh il gigante~
+Rukh il gigante e' qui che osserva con orgoglio la sua torre.
+~
+   Rukh il gigante e' alto quasi quanto la torre d'assedio, indossa una liscia
+armatura di ferro ed un elmo con piume colorate.  Non usa mai armi, sembra che
+lui ed il suo gemello Tukh non ne abbiano bisogno.    
+~
+~
+~
+~
+114952 0 200 -1 -1 -1 -1 -1 E
+18 13 5 1d1+230 2d6+3
+11 0
+8 8 1
+E
+#11484
+mercante~
+un mercante~
+Un mercante ignobile e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+8589934666 1032 0 -1 -1 -1 -1 -1 E
+15 16 3 1d1+150 4d4+5
+10 0
+8 8 1
+E
+#11485
+mercenario~
+un mercenario~
+Un mercenario e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+8589938730 1032 0 -1 -1 -1 -1 -1 E
+20 14 0 1d1+150 4d5+6
+13 0
+8 8 1
+E
+#11486
+Kutis~
+Kutis~
+Kutis la guardia e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+8590000138 1032 0 -1 -1 -1 -1 -1 E
+30 12 -3 1d1+400 5d4+8
+30 0
+8 8 1
+E
+#11487
+mago~
+un mago~
+Un mago pazzo e' qui che guarda 10 fanciulle nude.
+~
+It looks unfinished.
+~
+~
+~
+~
+8589971466 135267464 0 -1 -1 -1 -1 -1 E
+15 16 3 1d1+100 3d3+2
+10 0
+8 8 1
+E
+#11488
+Bluter~
+Bluter~
+Bluter il capo e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+8590004296 1032 0 -1 -1 -1 -1 -1 E
+30 13 0 1d1+400 6d4+7
+21 0
+8 8 1
+E
+$

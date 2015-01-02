@@ -1,0 +1,68 @@
+trigedit 6675
+6  
+/c 
+* Lista comandi
+if %actor.name% == un topo
+  set roomsent 6835
+  global roomsent
+  set room1 6687
+  global room1
+  set room2 6836
+  global room2
+  set room3 6825
+  global room3
+  set roomtrap 6813
+  global roomtrap
+  set sbronxo 28075
+  global sbronxo
+  set gatto 28076
+  global gatto
+  set ascensore aperto
+  global ascensore
+  wait 1 s
+  wecho Il gatto sornione salta fulmineo sul malcapitato topo e lo ingoia in un boccone.
+  wait 1 s
+  wecho Il gatto sornione soddisfatto si lecca i baffi.
+  wait 1 s
+  wforce gatto say Miaoooo!!
+  wait 1 s
+  wecho &1&xSDRANNNNNNGGGG&0
+  wait 1 s
+  wecho Qualcosa nel meccanismo segreto che muove questa stanza non funziona.
+  wait 1 s
+  wecho Si dice che Otlas Otla non abbia curato molto questa sua invenzione.
+  wpurge
+  wload mob %sbronxo%
+  wload mob %gatto%
+  wdoor %roomsent% w purge
+  wdoor %roomsent% e purge
+  wdoor %roomsent% s room %room1%
+  wdoor %roomsent% s description parete
+  wdoor %roomsent% s flag a
+  wdoor %roomsent% s name parete
+  wdoor %room1% n room %roomsent%
+  wdoor %room1% n description Una parete mobile in grado di nascondere il passaggio.
+  wdoor %room1% n flag a
+  wdoor %room1% n name parete
+  
+  wdoor %room2% e room %roomsent%
+  wdoor %room2% e description Una parete mobile.
+  wdoor %room2% e flag ab
+  wdoor %room2% e name parete
+  
+  wdoor %room3% w room %roomsent%
+  wdoor %room3% w description Una parete mobile.
+  wdoor %room3% w flag ab
+  wdoor %room3% w name parete
+  
+  wait 1 s
+  wforce gatto say Miiiaaao
+  wait 1 s
+  wecho Una sentinella canticchia nel sonno ' This is the Circle of Life...la la la...la la la! Ronf ...'
+else
+  halt
+end
+~
+/s
+q
+y

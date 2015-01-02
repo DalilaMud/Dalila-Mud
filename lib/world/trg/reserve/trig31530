@@ -1,0 +1,16 @@
+trigedit 31530
+6  
+/c 
+if %actor.vnum% == -1
+eval casuale %random.5%
+wait 2
+if %casuale% == 1
+ %send% %actor.name% &1Un tiratore scelto della terza cerchia di mura ti colpisce in pieno con una freccia!&0
+ %echoaround% %actor.name% &1Un tiratore scelto della terza cerchia di mura colpisce in pieno %actor.name% con una freccia!&0
+ %damage% %actor.name% 170
+end
+end
+~
+/s
+q
+y

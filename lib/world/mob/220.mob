@@ -1,0 +1,407 @@
+#22000
+madman man mad~
+the Madman~
+A madman has tea with his mortally challenged friends.
+~
+   He looks up at you with misted eyes and clenches his 
+knife convusively.  Spluttering and shaking, he begins 
+to rise to his feet, cradling the cold steel of his 
+knife in his hands.  A tiny voice in your head says very
+clearly, 'Uh-oh.'  You feel chilled...distant.
+~
+~
+~
+~
+10 8 -1000 -1 -1 -1 -1 -1 E
+18 3 -20 3d5+233 2d6+6
+18 40000
+8 8 1
+E
+#22001
+rat~
+the rat~
+A rat scurries near the wall.
+~
+Its black, furry, and seems to have a serious problem
+with fleas.
+~
+~
+~
+~
+200 0 0 -1 -1 -1 -1 -1 E
+0 20 80 1d4+5 1d4+0
+0 30
+8 8 0
+E
+#22002
+Leatherworker worker~
+the Leatherworker~
+A Leatherworker is here...working with leather.
+~
+He smiles at your attention, and then turns back to his
+work.  His hands are rough and scarred from frequent
+accidents with needles and leather-knives...a hazard
+of the trade.
+~
+~
+~
+~
+10 0 350 -1 -1 -1 -1 -1 E
+18 3 -20 3d5+220 3d6+2
+17 30000
+8 8 1
+Spec: 0
+E
+#22003
+Jeweller~
+the Jeweller~
+The Jeweller smiles at you briefly and motions you in.
+~
+You can't guess what age she is; she's one of those few
+women that seem to be almost timeless in their looks.
+Her eyes glint with laughter as she notices your 
+scrutiny and slowly examines you.  You squirm under her
+penetrating gaze.
+~
+~
+~
+~
+10 0 500 -1 -1 -1 -1 -1 E
+18 3 -20 3d5+220 3d6+2
+17 21000
+8 8 2
+Spec: 0
+E
+#22004
+Butcher~
+the Butcher~
+The butcher glances at you briefly and SLAMS down his cleaver.
+~
+His apron is covered with bloodstains, as are his large,
+thick python-arms.  He holds a cleaver loosely and 
+easily, almost as if he were born gripping that thing.  
+His hair seems greasy and useless on his balding pate.  
+He sneers at you and motions for you to take a number.
+~
+~
+~
+~
+24586 0 100 -1 -1 -1 -1 -1 E
+18 3 -20 3d5+250 3d8+2
+16 40000
+8 8 1
+Spec: 0
+E
+#22005
+Sakifan librarian~
+Sakifan~
+Sakifan the librarian looks up from his book as you enter.
+~
+Sakifan sits on a small pile of books, idly caressing 
+the cover of one while he reads.  He puts his book down 
+with a sigh as you come in.
+
+Sakifan says, 'May I help you?'
+~
+~
+~
+~
+10 0 750 -1 -1 -1 -1 -1 E
+18 3 0 3d5+190 3d6+0
+12 18000
+8 8 1
+E
+#22006
+Brewermaster Brewer~
+the Brewermaster~
+The Brewermaster oversees the work and marks upon a clipboard.
+~
+The Brewermaster looks you up and down, nods 
+approvingly, and says, 'Would you like to chip in with 
+the work?  Pays well...'
+~
+~
+~
+~
+10 0 600 -1 -1 -1 -1 -1 E
+18 3 -20 3d5+220 3d6+2
+10 30000
+8 8 1
+E
+#22007
+Ceran contractor~
+Ceran~
+Ceran the Contractor waves for you to sit down in a chair.
+~
+Ceran plots a final line on his sketch and sighs in
+gratification.  He holds the finished architectural
+drawing up to you; a plan to rebuild the ruined 
+temple to the north!  He examines it again, and then
+slaps it down onto a sheaf of similar papers on his
+desk.
+~
+~
+~
+~
+10 0 100 -1 -1 -1 -1 -1 E
+18 3 -25 3d5+225 3d6+2
+14 30000
+8 8 1
+E
+#22008
+Grebe bartender~
+Grebe~
+Grebe tends bar here between the drunkards.
+~
+Grebe is an old, weatherbeaten scarred hulk of a man who
+looks as if he survived the holocaust with only a few
+minor bruises to show for it.  You're not sure if you
+want to mess with him or not.
+~
+~
+~
+~
+24586 0 -300 -1 -1 -1 -1 -1 E
+20 1 -50 3d5+275 3d8+2
+13 40000
+8 8 1
+Spec: 0
+E
+#22009
+Sailor Merchant Sailor-Merchant~
+the Sailor-Merchant~
+A Sailor-Merchant points out his wares.
+~
+This retired weather-beaten sailor man has quite a 
+booming trade going on here.  He grins snaggle-toothedly
+at you and tries to sell you an anchor.  You don't think
+you need it.
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+18 3 0 3d5+250 3d7+2
+14 25000
+8 8 1
+Spec: 0
+E
+#22010
+Landlord lord land~
+the Landlord~
+The Landlord asks you how long you'll be staying.
+~
+The landlord of this boarding house sneers at you and
+sticks out his hand.  Payment in advance.
+~
+~
+~
+~
+10 0 -500 -1 -1 -1 -1 -1 E
+15 6 -10 3d5+180 3d5+1
+12 20000
+8 8 1
+E
+#22011
+cityguard guard~
+the cityguard~
+A cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+~
+~
+~
+6217 8 1000 -1 -1 -1 -1 2 E
+10 10 1 1d12+123 1d8+5
+10 9000
+8 8 1
+Spec: 3
+E
+#22012
+Worker brewery~
+the Brewery Worker~
+A Brewery Worker rolls a barrel right on by you.
+~
+He waves at you and keeps going on by...
+~
+~
+~
+~
+10 0 200 -1 -1 -1 -1 -1 E
+4 17 70 3d5+45 1d8+0
+4 600
+8 8 1
+E
+#22013
+Boarder~
+the Boarder~
+A Boarder sighs and tromps back to his room.
+~
+Sad, poor, and depressed.  Obviously not one of the
+citizenry elite of Chyrellos.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 90 3d5+45 1d7+2
+3 700
+8 8 1
+E
+#22014
+Citizen~
+the Citizen~
+A Citizen of Chyrellos passes you without a glance.
+~
+You make eye contact with the average looking man for
+a moment, and he quickly looks away.  You notice his
+pace has sped up slightly; in a hurry to get away from
+you?  Why would he...oh.  You've still got your weapon
+out.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+4 17 75 3d5+45 1d8+0
+3 500
+8 8 1
+E
+#22015
+Citizen~
+the Citizen~
+A Citizen of Chyrellos passes you without a glance.
+~
+You make eye contact with the average looking woman for
+a moment, and she quickly looks away.  You notice her
+pace has sped up slightly; in a hurry to get away from
+you?  Why would she...oh.  You've still got your weapon
+out.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+4 17 75 3d5+45 1d8+0
+4 500
+8 8 2
+E
+#22016
+Trader Merchant~
+the Trader~
+A Merchant Trader is doing inventory in his head.
+~
+His clothes are silken, and eyes hands soft, but his
+movement belie combat training.  You don't think he
+would have gotten so successful by letting just anyone
+knock over his operation here.
+~
+~
+~
+~
+10 0 350 -1 -1 -1 -1 -1 E
+18 3 -20 3d5+220 3d6+2
+12 25000
+8 8 1
+E
+#22017
+Woman Old~
+the Old Woman~
+An Old Woman sits here, rembering better times...
+~
+Looking closer, you see that she isn't remembering; 
+she's asleep!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 80 3d5+30 1d7+0
+3 450
+4 4 2
+E
+#22018
+Child Boy Young~
+the Young Boy~
+A young boy plays quietly here.
+~
+He looks up at you with watery eyes and asks for
+a drink.  He looks rather sickly.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+0 20 100 1d4+0 1d1+0
+1 1
+6 6 1
+E
+#22019
+Housewife woman wife~
+the Housewife~
+An aging housewife is waiting for her husband to return.
+~
+You see worry in her eyes; is her husband overdue?
+Possibly dead?  You know with all those marauding
+bands of adventurers out there...you never know!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 80 3d5+45 1d7+0
+4 600
+8 8 2
+E
+#22020
+Slob sleeping man~
+the Slob~
+An utter slob of a man is curled up in his chair.
+~
+He hasn't bathed in, what?  One, two...
+
+You stand away quickly; the smell got to you.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 80 3d5+45 1d7+0
+4 600
+4 4 1
+E
+#22021
+Man Old~
+the Old Man~
+An Old Man stares at the checkerboard intently.
+~
+He's playing checkers.  Leave him alone!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 80 3d5+45 1d7+0
+4 600
+6 6 1
+E
+#22022
+Bachelor man~
+the Bachelor~
+A man sits in his bachelor pad, just hanging out.
+~
+He's cool, he's slick, he's got a job, and no woman
+will come near him.
+
+That's life...
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+4 17 80 3d5+45 1d7+0
+3 600
+6 6 1
+E
+$

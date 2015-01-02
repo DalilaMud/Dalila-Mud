@@ -1,0 +1,12 @@
+trigedit 11012
+6  
+/c 
+if %actor.level% <= 70
+%send% %actor% Non puoi caricarti %self.name% sulle spalle
+return 1
+else
+return 0
+~
+/s
+q
+y

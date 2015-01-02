@@ -1,0 +1,250 @@
+#18300
+coboldo~
+Un coboldo~
+Un coboldo ti attacca !!!
+~
+Che essere spregevole ! E' cosi' sicuro di se solo perche' sa che sono in tanti
+contro pochi nemici.
+Che creatura codarda...
+~
+~
+~
+~
+42 1024 -100 -1 -1 -1 -1 -1 E
+7 16 8 1d1+49 1d7+1
+6 0
+8 8 1
+E
+#18301
+cobolda~
+Una cobolda~
+Una cobolda si nasconde dietro ad un tavolo
+~
+< Uccidiamo questi invasori !!! >
+~
+~
+~
+~
+138 1024 -50 -1 -1 -1 -1 -1 E
+6 17 8 1d1+44 1d8+1
+5 0
+8 8 2
+E
+#18302
+serpente~
+Un pericoloso serpente~
+Un pericoloso serpente sembra averti notato
+~
+Sara' velenoso ?
+~
+~
+~
+~
+65609 0 0 -1 -1 -1 -1 -1 E
+6 16 8 1d1+39 1d7+1
+5 0
+8 8 1
+BareHandAttack: 4
+Spec: 13
+E
+#18303
+iena~
+Una iena~
+Un' enorma Iena ti salta addosso !
+~
+E' affamata !!!
+~
+~
+~
+~
+42 33792 -300 -1 -1 -1 -1 -1 E
+11 14 7 1d1+99 1d9+1
+10 0
+8 8 2
+E
+#18304
+guardia coboldo~
+Una guardia~
+Una coboldo sta facendo la guardia in questa zona
+~
+Non ti sembra amichevole...
+~
+~
+~
+~
+42 1024 -150 -1 -1 -1 -1 -1 E
+8 16 8 1d1+59 1d8+1
+8 0
+8 8 1
+E
+#18305
+soldato coboldo~
+Un soldato coboldo~
+Un soldato coboldo e' pronto alla battaglia
+~
+Con tutta quella roba addosso e' piu' largo che alto...
+~
+~
+~
+~
+4168 1024 -200 -1 -1 -1 -1 -1 E
+9 15 8 1d1+69 1d8+1
+8 0
+8 8 1
+E
+#18306
+capitano coboldo~
+Il capitano dei coboldi~
+Il capitano dei coboldi sta dormendo qua
+~
+Pare che nessun coboldo osi svegliarlo, sembra lo temano molto
+~
+~
+~
+~
+57387 1064 -500 -1 -1 -1 -1 -1 E
+10 15 6 1d1+84 1d9+1
+7 0
+4 4 1
+Spec: 16
+E
+#18307
+guardia hobgoblin~
+Un Hobgoblin~
+Un Hobgoblin sta facendo la guardia in questa zona
+~
+Hobgoblin ??? ma cosa ci fanno qua ?
+~
+~
+~
+~
+42 1024 -500 -1 -1 -1 -1 -1 E
+11 14 7 1d1+99 1d9+1
+9 0
+8 8 1
+BareHandAttack: 4
+E
+#18308
+Djano hobgoblin~
+Djano~
+Djano, l' hobgoblin rinnegato, e' seduto nel suo trono
+~
+E' privo dell' occhio destro, come tutti gli hobgoblin rinnegati.
+~
+~
+~
+~
+8234 1192 -700 -1 -1 -1 -1 -1 E
+16 12 5 1d1+199 2d5+3
+13 0
+8 8 1
+BareHandAttack: 4
+E
+T 18112
+#18309
+pipistrello~
+Un orribile pipistrello~
+Un orribile pipistrello e' appeso al soffitto
+~
+Sembra impaurito dal baccano
+~
+~
+~
+~
+88 1064 -50 -1 -1 -1 -1 -1 E
+7 16 8 1d1+59 1d7+1
+4 0
+8 8 1
+E
+#18310
+ameba~
+Una gigantesca ameba~
+Una gigantesca ameba gelatinosa sta inglobando ogni cosa!
+~
+E'... ripugnante !!!
+~
+~
+~
+~
+254040 132096 0 -1 -1 -1 -1 -1 E
+8 16 8 1d1+59 1d8+1
+5 0
+8 8 1
+E
+#18311
+brigante~
+Un brigante~
+Un brigante ti guarda sorridendo
+~
+Probabilmente vuole derubarti !
+~
+~
+~
+~
+12360 1024 -400 -1 -1 -1 -1 -1 E
+9 15 8 1d1+69 1d8+1
+8 0
+8 8 1
+E
+#18312
+capo coboldo~
+il capo delle guardie~
+Il Capo delle guardie sta dando istruzioni ai suoi sottoposti
+~
+Sembra molto sicuro di se
+~
+~
+~
+~
+104 1024 -250 -1 -1 -1 -1 -1 E
+9 15 8 1d1+69 1d8+1
+7 0
+8 8 1
+E
+#18313
+scout coboldo~
+Uno scout coboldo~
+Uno scout coboldo tiene d'occhio le montagne
+~
+Una piccola creatura brutta, codarda e nauseabonda.
+~
+~
+~
+~
+24680 1024 -300 -1 -1 -1 -1 -1 E
+6 17 8 1d1+39 1d8+1
+4 0
+8 8 1
+E
+#18314
+mostro tentacoli~
+Uno strano mostro~
+Uno strano mostro con molti tentacoli sembra attaccato al terreno
+~
+Forse e' qualche stranissima pianta... non hai mai visto nulla di simile
+~
+~
+~
+~
+57354 33555456 100 -1 -1 -1 -1 -1 E
+10 15 7 1d1+84 1d9+1
+6 0
+8 8 0
+BareHandAttack: 10
+E
+#18315
+cacciatore coboldo~
+Un coboldo cacciatore~
+Un coboldo cacciatore e' in cerca di qualche preda
+~
+Potrebbe essere pericoloso, attento
+~
+~
+~
+~
+286824 1024 -200 -1 -1 -1 -1 -1 E
+5 17 8 1d1+39 1d8+1
+4 0
+8 8 1
+E
+$

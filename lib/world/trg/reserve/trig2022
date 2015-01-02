@@ -1,0 +1,25 @@
+trigedit 2022
+6  
+/c 
+wait 1
+msend cptifedeshaarr conteggio
+set risucchiamento &1&xIl teschio prende improvvisamente fuoco e viene consumato in pochi istanti&0
+global risucchiamento
+set controllore cptifedeshaarr
+global controllore
+set annientamento &1&xLe fiamme di Shaarr ti consumano&0
+global annientamento
+set ncontrollore Il controllore dei punti fede di Shaarr
+global ncontrollore
+set cap 3000
+global cap
+set nbase 2039
+global nbase
+set god &1&xShaarr&0
+global god
+set statuetta 580
+global statuetta
+~
+/s
+q
+y

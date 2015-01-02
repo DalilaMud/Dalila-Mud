@@ -1,0 +1,13 @@
+trigedit 11030
+6  
+/c 
+wait 1 s
+look %actor.name%
+wait 1 s
+grin
+wait 1 s
+say Sei un essere inutile, come tutti gli altri.
+~
+/s
+q
+y

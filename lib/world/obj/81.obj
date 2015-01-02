@@ -1,0 +1,897 @@
+#8100
+chiave nera~
+una chiave nera~
+Una chiave di metallo nero e' qui.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8101
+chiave nera~
+una chiave nera~
+Una chiave nera di un metallo molto duro e' qui.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8102
+chiave rune~
+una chiave con delle rune~
+Una chiave con incise delle rune giace tra la polvere.~
+~
+18 142 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8103
+chiave verde chiaro~
+una chiave verde chiaro~
+Una chiave di rame ossidato giace a terra.~
+~
+18 140 16385
+0 0 0 0 50 30
+1 0 0 0 0 0
+#8104
+chiave ferro~
+una chiave di ferro~
+Una chiave di ferro giace tra la polvere.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8105
+chiave piccola nera~
+una piccola chiave nera~
+Una piccola chiave nera a forma di teschio giace tra la polvere.~
+~
+18 142 16385
+0 0 0 0 10 100
+1 0 0 0 0 0
+#8106
+chiave bronzo~
+una chiave di bronzo~
+Una chiave di bronzo con delle rune di protezione giace qui.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8107
+enorme chiave ferro~
+un'enorme chiave di ferro~
+Un'enorme chiave fatta di ferro nero, giace qui per terra.~
+~
+18 4 16385
+0 0 0 0 100 100
+5 0 0 0 0 0
+#8108
+chiave blu acciaio~
+una chiave di acciaio blu~
+Una piccola chiave di acciaio blu giace qui per terra.~
+~
+18 5 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8109
+chiave rossa~
+una chiave rossa~
+Una chiave di acciaio rossastro giace, dimenticata, tra la polvere.~
+~
+18 4 16387
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8110
+chiave dorata~
+una chiave dorata~
+Una chiave dorata, attaccata ad un anello anch'esso d'oro, giace qui.~
+~
+18 5 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8111
+chiave argento~
+una chiave d'argento~
+Una preziosa chiave d'argento giace, incustodita, per terra.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8112
+chiave rame~
+una chiave di rame~
+Una chiave di ferro, rivestita di rame per proteggerla dalla polvere, e' qui.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8113
+formaggio~
+del formaggio~
+Una grossa forma di formaggio 'Cheddar' e' qui che emana un piacevole odore.~
+~
+19 0 16385
+8 0 0 0 10 10
+2 20 0 0 0 0
+#8114
+chiave luccicante ferro~
+una luccicante chiave di ferro~
+Questa luccicante chiave di ferro potrebbe aprire qualche serratura.~
+~
+18 4 16385
+0 0 0 0 100 100
+1 0 0 0 0 0
+#8115
+distillato strana bottiglia~
+una bottiglia~
+Una grossa bottiglia di qualche strano distillato giace qui.~
+~
+17 0 1
+4 3 9 1 10 10
+8 1 0 0 0 0
+#8116
+cassa bronzo~
+una brutta cassa di bronzo~
+Una cassa di bronzo, decorata con orrendi e grotteschi basso-rilievi, si trova qui.~
+~
+15 0 0
+200 15 8105 0 80 80
+40 100 10 0 0 0
+#8117
+pozione viola~
+&5una pozione viola&0~
+Una bottiglia con un &5liquido viola&0 giace a terra.~
+~
+10 64 1
+15 59 0 0 50 50
+2 6000 600 0 0 0
+#8118
+corona korbor~
+la corona di Re Korbor~
+La corona del re Lonoyano rotola rumorosamente a terra.~
+~
+9 218385 17
+4 0 0 0 60 60
+2 5000 500 20 0 0
+E
+corona~
+Mentre rigiri la corona tra le mani, ti senti molto piu' forte ed abile in
+combattimento.  Sicuramente la magia non pu annientare chi indossa questa
+corona.    
+~
+A
+18 1
+A
+26 1
+A
+6 1
+#8119
+bottiglia scotch~
+una bottiglia di Scotch~
+Una bottiglia della famosa miscela di whiskey di Inver House giace qui.~
+~
+17 0 16385
+20 14 5 0 20 20
+19 5 0 0 0 0
+E
+bottiglia~
+E' sigillata con un tappo di metallo. Probabilmente non e'
+un liquore ad un solo malto, ma quasi sicuramente contiene otto
+malti diversi.
+~
+#8120
+ciotola stufato~
+una ciotola di stufato~
+Una fumante ciotola di stufato del Cacciatore e' stata abbandonata qui.~
+Senti un forte sapore di spezia e il classico ruggito del pepe, la consistenza cremosa
+di questo stufato esalta i sapori delle verdure e dei legumi.
+~
+19 0 16385
+10 0 0 0 50 50
+3 12 0 0 0 0
+E
+ciotola stufato~
+Cacciagione ed altri tipi di carne sono bolliti con la kapusta per
+preparare un pranzo delizioso, degno di Re Korbor di Lonoya.
+~
+#8121
+mela~
+una mela~
+Una mela gialla con lentiggini dorate e' qui.~
+~
+19 0 16385
+2 0 0 0 5 5
+1 70 0 0 0 0
+#8122
+noccioline~
+delle noccioline~
+Gli scoiattoli hanno lasciato qui alcune noccioline.~
+~
+19 0 1
+3 0 0 0 5 5
+2 10 0 0 0 0
+#8123
+semplice camicia~
+una semplice camicia~
+La maglietta di qualche uomo Lonoyano e' qui per terra.~
+~
+9 0 9
+8 0 0 0 10 10
+1 100 100 0 0 0
+#8124
+vestito corto~
+un vestito corto~
+Il vestito di una donna Lonoyana pende da un gancio.~
+~
+9 0 9
+8 0 0 0 10 10
+1 100 100 0 0 0
+#8125
+calzoni~
+un paio di calzoni~
+Qualche Lonoyano ha dimenticato, qua per terra, i suoi calzoni.~
+~
+9 0 33
+8 0 0 0 10 10
+1 100 100 0 0 0
+E
+calzoni~
+Questi calzoni sono corti e stretti sotto al ginocchio.
+~
+#8126
+gonna~
+una gonna~
+Una gonna e' qui per terra.~
+~
+9 0 9
+8 0 0 0 10 10
+1 100 100 0 0 0
+#8127
+stivali alti~
+degli stivali alti~
+Un paio di stivali alti sono qui.~
+~
+9 0 65
+8 0 0 0 30 30
+4 8000 1000 0 0 0
+#8128
+foulard~
+un foulard~
+Un foulard e' qui per terra.~
+~
+11 0 21
+0 0 0 0 10 10
+1 3 0 0 0 0
+A
+3 1
+#8129
+bandana stoffa~
+una bandana~
+Una stoffa rossa e' poggiata su una pietra.~
+~
+11 0 21
+0 0 0 0 10 10
+1 3 0 0 0 0
+#8130
+spadone spada~
+uno spadone a doppio taglio~
+Uno spadone a doppio taglio giace qui.~
+~
+5 223232 8193
+-1 5 9 12 60 60
+40 4000 400 43 0 0
+A
+18 -4
+A
+2 -1
+A
+17 3
+#8131
+spada doppio taglio~
+la spada di MacLeod~
+Una bella spada a doppio taglio e con l'elsa incisa giace a terra.~
+~
+5 1143873 8193
+0 2 10 10 80 80
+10 1000 100 0 0 0
+E
+elsa spada taglio incisioni~
+L'elsa reca una scritta. Sembra un nome "MacLeod".
+~
+#8132
+lancia lunga~
+una lunga lancia~
+Una lancia lunga piu' di quattro metri e' appesa al muro.~
+~
+5 25088 8193
+0 2 8 11 30 30
+3 2000 200 0 0 0
+#8133
+ascia~
+un'ascia ad una mano~
+Un'ascia ad una mano giace qui.~
+~
+5 238592 8193
+0 4 3 3 60 60
+3 1500 150 0 0 0
+#8134
+ascia~
+un'ascia da battaglia~
+Un'ascia da battaglia giace qui per terra.~
+~
+5 1101824 8193
+0 2 9 3 70 70
+8 3000 300 0 0 0
+#8135
+pugnale coltello~
+un pugnale~
+Un lungo coltello a lama singola, giace qui per terra.~
+~
+5 126976 8193
+0 2 10 1 40 40
+1 6000 600 16 0 0
+#8136
+bastone combattimento~
+un bastone da combattimento~
+Un bastone da combattimento giace qui.~
+~
+5 65536 8193
+0 4 5 0 30 30
+4 8000 800 0 0 0
+#8137
+spadone~
+uno spadone~
+Un pesante spadone giace qui in terra.~
+~
+5 805318656 8193
+0 5 10 12 80 80
+20 2000 300 46 0 0
+A
+19 4
+A
+18 -2
+A
+2 -1
+#8138
+cotta maglia~
+una cotta di maglia~
+Una cotta di maglia giace qui per terra.~
+~
+9 0 9
+6 0 0 0 70 70
+20 3000 300 0 0 0
+#8139
+elmo~
+un elmo~
+Un elmo privo di visiera giace qui per terra.~
+~
+9 4096 17
+6 0 0 0 80 80
+6 2000 200 0 0 0
+#8140
+stoffa verde mantello~
+un mantello verde elfico~
+Un mucchio di stoffa verde scuro e' stata lasciata qua a terra.~
+~
+11 249152 1025
+0 0 0 0 30 30
+2 7000 700 0 0 0
+A
+26 8
+#8141
+mantello stoffa rossa~
+&1&xun mantello rosso&0~
+Un mucchio di stoffa rossa giace a terra.~
+~
+11 144000 1025
+0 0 0 0 30 30
+2 3000 300 0 0 0
+A
+25 5
+#8142
+mantello stoffa blu~
+&x&4un mantello blu&0~
+Un mucchio di stoffa blu e' qua per terra.~
+~
+11 47232 1025
+0 0 0 0 30 30
+2 3000 300 0 0 0
+A
+13 15
+#8143
+mantello stoffa verde~
+&2&xun mantello verde&0~
+Un mucchietto di stoffa verde giace qua per terra.~
+~
+11 164865 1025
+0 0 0 0 30 30
+2 3000 300 0 0 0
+A
+12 15
+#8144
+zaino goblin~
+uno zaino goblin~
+Uno zaino e' qui per terra.~
+~
+15 0 65537
+120 0 -1 0 70 70
+8 3000 500 0 0 0
+#8145
+fiasco~
+un fiasco da un litro~
+Un fiasco di vetro da un litro e' qui per terra.~
+~
+17 0 16385
+6 6 0 0 10 10
+11 100 0 0 0 0
+#8146
+otre~
+un'otre per l'acqua~
+Un'otre per l'acqua e' qui.~
+~
+17 0 16385
+24 24 0 0 10 10
+29 100 0 0 0 0
+#8147
+vestito~
+un vestito pieno di tasche~
+Un vestito pieno di tasche e' qui per terra.~
+~
+15 65601 1025
+300 0 -1 0 30 30
+2 4000 400 0 0 0
+A
+17 -3
+A
+26 2
+#8148
+tunica~
+&7&xuna tunica bianca&0~
+Una tunica bianca giace qui.~
+~
+11 165121 1025
+0 0 0 0 30 30
+9 1000 300 0 0 0
+A
+4 1
+A
+3 1
+A
+26 1
+C
+4398046511104 0 0 0
+#8149
+scudo legno media~
+uno scudo di grandezza media~
+Uno scudo di legno di grandezza media giace qui tra la polvere.~
+~
+9 0 513
+4 0 0 0 20 20
+10 500 100 0 0 0
+#8150
+arco corto~
+un arco corto~
+Un arco corto giace qui con la corda arrotolata attorno all'impugnatura.~
+~
+28 0 8193
+0 1 6 11 20 20
+5 500 50 0 0 0
+#8151
+cotta cuoio armatura~
+una cotta di rigido cuoio~
+Una cotta fatta di cuoio indurito con olio bollente e' qui per terra.~
+~
+9 156160 9
+10 0 0 0 70 70
+9 2500 500 0 0 0
+#8152
+giubba cuoio rinforzato~
+una giubba di cuoio rinforzato~
+Una giubba di cuoio rinforzato con placce di metallo giace qui per terra.~
+~
+11 0 1025
+0 0 0 0 15 15
+12 2000 200 0 0 0
+A
+17 -5
+#8153
+fiala mistura curativa~
+una mistura curativa~
+Una piccola fiala piena di un fluido aromatico e leggermente alcoolico.~
+~
+10 64 16385
+5 16 16 0 10 10
+1 2000 400 0 0 0
+E
+fiala~
+Ci sono incise arcane parole:
+                
+                   judicandus dies
+~
+#8154
+fiala fluido acutezza~
+un fluido di acutezza visiva~
+Una piccola fiala piena di un liquido chiaro e scintillante.~
+~
+10 64 16385
+10 18 20 0 10 10
+1 5000 500 0 0 0
+#8155
+fiala vita elisir~
+l'elisir della vita~
+Una piccola fiala piena di un profumato liquido dorato.~
+~
+10 64 16385
+20 3 16 22 10 10
+1 10000 2000 0 0 0
+#8156
+pozione celeste~
+&6&xuna pozione celeste&0~
+Una piccola fiala con un &6&xliquido celeste&0 e' qui.~
+~
+10 64 16385
+10 16 16 0 10 10
+1 6000 600 0 0 0
+#8157
+pergamena protezione~
+una pergamena di protezione~
+Una pergamena etichettata 'Migliora la tua resistenza' giace qui.~
+~
+2 64 16385
+30 3 72 0 10 10
+1 10000 2000 0 0 0
+#8158
+pergamena~
+una pergamena del tempo atmosferico~
+Una pergamena etichettata 'Per scatenare la Pioggia' giace qui.~
+~
+2 64 16385
+30 11 -1 -1 10 10
+1 1000 1000 0 0 0
+#8159
+pergamena combattimento~
+una pergamena di combattimento~
+Una pergamena etichettata "Per migliorare il tuo Spirito Combattivo" giace qui.~
+~
+2 64 16385
+30 1 34 39 1 100
+1 1000 1000 0 0 0
+#8160
+pergamena conoscenza~
+una pergamena di conoscenza~
+Una pergamena etichettata 'La Leggenda di Nambor' giace qui.~
+~
+12 0 16385
+0 0 0 0 10 10
+1 100 0 0 0 0
+E
+pergamena~
+                     La Leggenda di Nambor
+In tempi ormai dimenticati da tutti tranne che dagli Dei, viveva in
+questa citta' un uomo valoroso, chiamato Nambor, che oso' penetrare
+nei malvagi tunnel che si aprono nei fianchi delle montagne che
+circondano Ofingia. Percorse sentieri non tracciati e sconosciuti
+agli umani fin quando, dopo grandi peripezie, non trovo' un
+passaggio che scendeva nell'oscurita'. Ma questo non fu che l'inizio
+delle sofferenze di Nambor perche' presto si accorse che quel
+passaggio che aveva trovato era troppo ripido per permettergli di
+tornare indietro. Ora non aveva altra scelta, doveva percorrere
+quelle gallerie scavate nella roccia da creature malvagie, fin
+quando un Dio non gli avesse mostrato una via d'uscita.
+E cosi', coraggiosamente, continuo' a camminare, scalare ed
+arrampicarsi, sempre con la spada stretta in pugno. Gli elfi, a
+questo proposito, raccontano che egli fu testimone di molte
+venivano toccate e creature invisibili che si nascondevano nelle
+ombre. Alcuni dicono che alla fine riusci' a scappare, ma altri
+sostengono che non vi riusci' e che mori' nell'oscurita' con la
+sua spada ancora stretta in pugno.
+Ed ora questi tunnel sono pieni di goblin e di alcune delle creature
+senza nome che Mnambor affronto'. Chi avra' il coraggio di
+ripercorrere le orme di Nambor per scoprire il suo destino? Chi
+si mostrera' tanto eroico da salvare Lonoya dai goblin?
+                                                     Cwell il Bardo
+~
+#8161
+anello opale oro~
+un anello con un opale~
+Un prezioso anello d'oro in cui e' incastonato un opale giace qui per terra.~
+~
+8 226640 3
+0 0 0 0 40 40
+1 15000 1500 0 0 0
+A
+18 1
+A
+25 1
+#8162
+oro~
+l'oro di Re Korbor~
+Un'immensa pila d'oro e' qui.~
+~
+20 0 1
+2000 0 0 0 100 100
+1 0 0 0 0 0
+#8163
+coltello goblin~
+un coltello goblin~
+Un coltello nero, sul cui manico e' inciso la testa di un goblin, giace a terra.~
+~
+5 8192 8193
+0 1 5 14 70 70
+1 50 0 0 0 0
+E
+manico~
+E un'odiosa testa di goblin incisa sul manico d'osso.
+~
+#8164
+scimitarra goblin~
+una scimitarra goblin~
+Una scimitarra nerastra su cui sono incise rune malvagie e' qui per terra.~
+~
+5 8896 8193
+0 1 7 10 70 70
+4 1000 100 0 0 0
+A
+18 1
+A
+19 -1
+#8165
+clava goblin osso~
+una clava dei goblin~
+Un grosso osso, umano su cui sono state infisse delle spine, giace a terra.~
+~
+5 704 8193
+0 2 4 0 20 20
+6 400 50 0 0 0
+#8166
+arco goblin~
+un arco corto dei goblin~
+Un arco corto realizzato con le corna ed i tendini di un orco e' qui. ~
+~
+28 704 8193
+0 1 6 11 30 30
+6 2000 200 0 0 0
+A
+19 1
+#8167
+lancia goblin~
+una lancia dei goblin~
+Una corta lancia con una larga lama giace a terra.~
+~
+5 8896 8193
+0 1 8 11 50 50
+3 3000 300 0 0 0
+A
+18 1
+#8168
+ascia guerra goblin~
+un'ascia da guerra~
+Un'ascia da guerra, nera e con delle rune e' infilzata nel terreno.~
+~
+5 8896 8193
+0 2 4 3 50 50
+10 5000 500 0 0 0
+A
+18 1
+#8169
+elfica corazza maglia~
+una corazza di maglia elfica~
+Una corazza di maglia di mithril giace qui a terra.~
+~
+9 52544 9
+12 0 0 0 70 70
+6 3000 600 0 0 0
+#8170
+arco elfico~
+un arco da caccia elfico~
+Un arco elfico fatto di legno di aurodiea giace a terra.~
+~
+28 3392 8193
+2 0 0 0 30 30
+4 2200 600 0 0 0
+#8171
+spada larga ottima krat~
+un'ottima spada larga chiamata Krat~
+Una spada di ottima fattura e' qui. Deve essere stata rubata ad Ofingia.~
+~
+5 123392 8193
+0 6 4 12 100 100
+7 10000 3000 0 0 0
+E
+spada~
+Sull'elsa c'e' un marchio "D.  F.  " e sulla lama e' stato inciso il nome
+"Krat".  Forse e' magica?  Comunque, la lama sembra robusta ed e' affilata come
+un rasoio.    
+~
+#8172
+corazza piastre rosse~
+&1una corazza di piastre rossa&0~
+Una resistenza corazza di piastre, orrendamente dipinta di rosso e' qui.~
+~
+9 72384 9
+12 0 0 0 100 100
+30 8000 800 0 0 0
+#8173
+mazza enorme nera~
+un'enorme mazza nera~
+Un'enorme mazza nera con bande di metallo giace a terra.~
+~
+5 14976 8193
+0 3 8 6 100 100
+20 7000 700 0 0 0
+#8174
+collare ferro toadstool~
+il collare di ferro di Toadstool~
+Un collare di ferro giace tra la polvere. C'e' qualcosa scritto sopra.~
+~
+12 51840 5
+0 0 0 0 100 100
+8 5000 500 0 0 0
+E
+collare scritta~
+E' in orchesco:
+                      SONO TOADSTOOL IL POSSENTE
+                        NESSUNO MI SCONFIGGERA'
+~
+A
+18 2
+#8175
+toadstool goblin testa~
+la testa di Toadstool~
+Una testa di goblin giace a terra.~
+~
+12 61440 17
+0 0 0 0 100 100
+10 4000 400 0 0 0
+A
+1 2
+#8176
+pelle goblin~
+una pelle di goblin~
+La pelle di un goblin giace qua per terra ed emana un terribile fetore.~
+~
+12 4608 1025
+0 0 0 0 30 30
+8 600 0 0 0 0
+A
+13 13
+#8177
+grembiule~
+un grembiule rosa~
+Un grembiule rosa, macchiato di sangue, e' qui a terra.~
+~
+12 169984 2049
+0 0 0 0 10 10
+1 10 3 0 0 0
+A
+17 -6
+#8178
+scimitarra orchesca~
+una scimitarra orchesca~
+Un'orribile scimitarra orchesca e' infilzata nel terreno.~
+~
+5 125658 8193
+0 8 3 10 70 70
+5 8000 1000 25 0 0
+#8179
+oro~
+dell'oro~
+Una gigantesca montagna d'oro e' ammonticchiata qui in un angolo.~
+~
+20 0 1
+1500 0 0 0 100 100
+1 0 0 0 0 0
+#8180
+cassa rozza~
+una rozza cassa~
+Una rozza cassa di legno e' qui.~
+~
+15 0 1
+10200 15 8103 0 100 100
+10000 0 0 0 0 0
+#8181
+cassa ebano~
+una cassa di ebano~
+Una cassa di ebano e' qui.~
+~
+15 0 1
+400 13 8111 0 20 20
+100 0 0 7 0 0
+#8182
+cassa pino~
+una cassa di legno di pino~
+Una leggera cassa di legno di pino e' qui.~
+~
+15 0 0
+100 15 8112 0 20 20
+30 0 0 0 0 0
+#8183
+picca~
+una piccola picca~
+Una picca da minatore giace qui a terra.~
+~
+5 8192 8193
+0 1 6 0 40 40
+8 100 33 0 0 0
+#8184
+picca orchesca~
+una picca orchesca~
+Una picca da minatore giace qui a terra.~
+~
+5 8832 8193
+0 1 6 0 40 40
+8 1000 330 15 0 0
+A
+19 1
+#8185
+vasca~
+una vasca di acqua sporca~
+Una vasca di acqua sporca usata per raffreddare gli arnesi si trova qui.~
+~
+23 0 0
+999 999 14 1 5 5
+100000 0 0 0 0 0
+E
+acqua vasca~
+Non sembra acqua potabile. Non la berrei se fossi in te!
+~
+#8186
+pozzo jakur~
+il pozzo di Jakur~
+&3Ti trovi di fronte all'antico Pozzo di Jakur, costruito centinaia di anni fa.~
+~
+23 0 0
+9999 9999 15 0 1 1
+10004 0 0 0 0 0
+#8187
+fontana vino~
+la fontana del vino~
+Una magica fontana di marmo da cui scorre vino rosso e' qui.~
+~
+23 64 0
+999 999 2 0 100 100
+10000 0 0 0 0 0
+E
+vino fontana~
+La fontana e' piena di vino economico, ma non cattivo.
+~
+#8188
+dipinto~
+un dipinto~
+Un dipinto che ritrae Re Korbor in alta uniforme e' appeso al muro.~
+~
+15 0 0
+20 15 8114 0 20 20
+20 1 0 0 0 0
+E
+ritratto~
+E' un quadro ad olio del buon Re Korbor. No, non puoi
+rubarlo! E', strano a dirsi, fissato al muro saldamente, non e'
+appeso al solito chiodo.
+~
+#8189
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+#8199
+mantellaccio~
+un mantellaccio di lana~
+Un mantellaccio di lana e' qui a terra in pessime condizioni.~
+~
+9 64 1025
+15 0 0 0 50 100
+2 0 0 20 0 0
+A
+1 11
+A
+2 4
+A
+3 6
+A
+4 7
+A
+5 6
+A
+6 24
+$~

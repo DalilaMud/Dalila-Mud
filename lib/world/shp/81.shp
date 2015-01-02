@@ -1,0 +1,346 @@
+CircleMUD v4.0 Shop File~
+#8100~
+8120
+8113
+8121
+8122
+3002
+3321
+3320
+3319
+3001
+3000
+-1
+1.15
+0.15
+-1
+%s Sorry, I haven't got exactly that item.~
+%s Even if you had that, I wouldn't want it.~
+%s I don't buy anything from Midgaarders.~
+%s Tell Pippin! I ain't supposed to buy!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s Tell Pippin! I ain't supposed to buy!~
+1
+3
+8100
+2
+8128
+-1
+5
+24
+0
+0
+0
+-1
+0
+2770
+-1
+-1
+-1
+-1
+-1
+#8103~
+8139
+8138
+8135
+8134
+8133
+3021
+8137
+8130
+3024
+-1
+1.50
+1.00
+5
+9
+-1
+%s Nope. Don't make that here.~
+%s Maybe I'd buy it, but you don't have it.~
+%s Keep it. I have no use for it.~
+%s I am sorry, but I have bought too much already.~
+%s You need to pay for that, my friend.~
+%s All right. That'll be %d coins.~
+%s Fine. Here are %d crowns.~
+1
+3
+8103
+2
+8119
+-1
+5
+18
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#8104~
+8150
+8136
+3023
+8149
+3042
+-1
+1.50
+0.40
+-1
+%s I haven't made any of those lately.~
+%s I think I could live without one of those.~
+%s I won't buy that.~
+%s I only buy wood, from John the Lumberjack.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s Oops...a bug! I don't buy.~
+1
+3
+8104
+2
+8114
+-1
+5
+18
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#8105~
+8146
+8145
+8144
+8142
+3009
+3037
+3032
+3031
+-1
+3.50
+0.10
+1
+2
+3
+4
+5
+8
+9
+10
+12
+15
+16
+17
+19
+21
+22
+-1
+%s Don't have one. Get lost!~
+%s Take a look in your pack again, Sherlock!~
+%s No. Don't buy it!~
+%s Not enough cash! Go soak your head!~
+%s Sorry, but NO CREDIT!~
+%s Gimme %d coins!~
+%s I'll give you a whole %d coins for that.~
+1
+3
+8105
+0
+8120
+-1
+9
+17
+0
+0
+0
+-1
+0
+2389
+-1
+-1
+-1
+-1
+-1
+#8106~
+8156
+8155
+8154
+8153
+-1
+1.00
+0.50
+1
+-1
+%s I don't see that here. Do you?~
+%s Well, my friend, perhaps you hallucinate?~
+%s I buy only things that bubble and fizz.~
+%s Too expensive for THIS wizard.~
+%s Alas, you are too poor to buy that.~
+%s That'll be %d coins, please.~
+%s Here. I pay you %d coins. Is that enough?~
+0
+3
+8106
+2
+8130
+-1
+5
+12
+13
+18
+0
+-1
+0
+984978
+-1
+-1
+-1
+-1
+-1
+#8107~
+8152
+8151
+8127
+-1
+1.20
+0.90
+-1
+%s Sorry...don't have that.~
+%s I don't buy anything.~
+%s I don't buy anything.~
+%s I don't buy anything.~
+%s This fine armor is too costly for you.~
+%s Wear it in good health! That will be %d coins.~
+%s A minor bug! Please report it.~
+0
+3
+8107
+2
+8129
+-1
+6
+22
+0
+0
+0
+-1
+0
+26539
+-1
+-1
+-1
+-1
+-1
+#8108~
+-1
+1.00
+1.00
+-1
+%s I know not the recipe for that.~
+%s Sorry, I don't buy from outsiders.~
+%s Sorry, I don't buy from outsiders.~
+%s Sorry, I don't buy from outsiders.~
+%s Sorry, but here, no money means no goods!~
+%s %d coins, please.  Don't talk with your mouth full.~
+%s Oops - %d a minor bug - please report.~
+2
+3
+8108
+2
+8131
+-1
+3
+16
+0
+0
+0
+-1
+0
+618
+-1
+-1
+-1
+-1
+-1
+#8109~
+8160
+8159
+8158
+8157
+3052
+3050
+-1
+1.50
+0.50
+2
+16
+21
+-1
+%s The goblins must have stolen that.~
+%s Sorry, you don't have that to sell.~
+%s This is a library, not a general store.~
+%s Would you donate it?~
+%s I'm sorry, but you can't afford that.~
+%s That'll be %d crowns.~
+%s Here are %d crowns. Thank you very much.~
+2
+3
+8109
+2
+8124
+-1
+5
+19
+0
+0
+0
+-1
+0
+58399
+-1
+-1
+-1
+-1
+-1
+#8120~
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+4
+17
+0
+-1
+0
+24
+0
+0
+0
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+$~

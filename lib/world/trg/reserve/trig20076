@@ -1,0 +1,12 @@
+trigedit 20076
+6  
+/c 
+wait 1 s
+if %actor.name% != clive
+halt
+end
+osend %actor.name% Se vuoi volare con le tua ali, usa il comando "vola"
+~
+/s
+q
+y

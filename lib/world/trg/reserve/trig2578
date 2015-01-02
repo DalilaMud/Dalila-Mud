@@ -1,0 +1,57 @@
+trigedit 2578
+6  
+/c 
+* Lista comandi
+if %brz% == 1
+wait 1 s
+say Fammi finire la barzelletta prima!
+give %amount% coins %actor.name%
+halt
+end
+if %gioco% == 1
+wait 1 s
+say Prima finiamo questa partita!
+give %amount% coins %actor.name%
+halt
+end
+eval diff %amount%-50
+if %diff% > 0
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+say Mi avete dato troppi soldi! Eccovi il resto!
+give %diff% coin %actor.name%
+end
+set gioco 1
+global gioco
+set player %actor.name%
+global player
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+say E' evidente che vuoi giocare!
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+say Giochiamo!
+wait 2 s
+emote comincia a mischiare le tre carte molto velocemente!
+wait 2 s
+say La rossa vince, vince la rossa!
+msend %actor.name% forse se stai attento riesci a seguire i movimenti della sua mano!
+wait 2 s
+say La mano e' piu' veloce dell'occhio! E' evidente!
+wait 1 s
+emote strabuzza gli occhi!
+eval carta %random.3%
+global carta
+eval fintacarta %random.3%
+wait 2 s
+msend %actor.name% Ti pare proprio che la carta giusta sia la %fintacarta%!
+say La rossa, vince la rossa signori!
+wait 2 s
+say Allora, quale carta scegli? La uno, la due o la tre?
+~
+/s
+q
+y

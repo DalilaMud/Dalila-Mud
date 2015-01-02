@@ -1,0 +1,23 @@
+trigedit 9716
+6  
+/c 
+mload mob 12601
+mecho vittima
+mecho vittima Padrone:  %padrone%
+if %stipendio_arretrato% > 0
+if %stipendio_arretrato% == 1
+mecho vittima Hai in arretrato da pagare %stipendio_arretrato% stipendo
+mecho vittima ogni stipendio ammonta a %stipendio_valore% coins
+else
+mecho vittima Hai in arretrato da pagare %stipendio_arretrato% stipendi
+mecho vittima ogni stipendio ammonta a %stipendio_valore% coins
+end
+else
+mecho vittima nessuno stipendio arretrato
+end
+mforce vittima mgoto 2
+mat 2 mpurge
+~
+/s
+q
+y

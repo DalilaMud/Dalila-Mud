@@ -1,0 +1,23 @@
+trigedit 31182
+6  
+/c 
+wait 2 s
+emote si stropiccia gli occhi
+wait 2 s
+emote ti osserva, sussulta e punta tremante uno strano oggetto verso di te.
+wait 1 s
+say ...FUORI!! FUORI DI QUI!!! SUBITO!!! FUORI O SPARO!!
+wait 6 s
+say MI HAI SENTITO??? ESCI DI QUI!!!
+wait 7 s
+say M..Maledetto!! Ti avevo avvertito!!! Prendi questo!
+wait 2 s
+emote preme alcuni grilletti e.... BOOOOOOOOOM!
+%echo% \&1\Un'ondata di pallini di metallo esplode sul tuo addome in una nuvola di sangue...\&0
+dg_cast 'disintegrate' %actor%
+wait 1 s
+kill %actor.name%
+~
+/s
+q
+y

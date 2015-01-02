@@ -1,0 +1,13 @@
+trigedit 28103
+6  
+/c 
+if %actor.alias% == un topo
+  wait 2 s
+  mecho Un gatto si lancia fulmineo sul topo.
+  wait 2 s
+  hit topo6
+end
+~
+/s
+q
+y

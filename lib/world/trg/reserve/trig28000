@@ -1,0 +1,23 @@
+trigedit 28000
+6  
+/c 
+if %actor.vnum% == -1 && %actor.rank% <= 25
+if %direction% == west
+wait 1 s
+emote sistema la siepe
+wait 1 s
+say Salve %actor.name% !! Siete in visita al grande Owain??  EhEh
+wait 1 s
+say Spero non abbiate cattive intenzioni!!
+wait 2 s
+emote riprende a lavorare alla siepe
+else
+wait 1 s
+say Arrivederci a presto, nobile %actor.name%
+end
+else
+end
+~
+/s
+q
+y

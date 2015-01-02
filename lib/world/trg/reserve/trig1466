@@ -1,0 +1,11 @@
+trigedit 1466
+6  
+/c 
+mecho &9&xLa talpa scava una buca nel terreno e scompare velocemente!&0
+mload obj 3561
+mgoto 28150
+say purgami
+~
+/s
+q
+y

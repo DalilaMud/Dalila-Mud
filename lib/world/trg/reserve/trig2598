@@ -1,0 +1,18 @@
+trigedit 2598
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.name% != erestor
+halt
+end
+oforce %actor.name% say Fermati
+osend %actor.name% Il tuo &1A&7m&1a&7n&1i&7t&1o&0 affonda le radici nel terreno e si confonde col paesaggio
+oechoaround Il Funghetto affonda le radici nel terreno e si integra nel paesaggio
+opurge amanito
+set caricato off
+global caricato
+~
+/s
+q
+y

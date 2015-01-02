@@ -1,0 +1,25 @@
+trigedit 28091
+6  
+/c 
+set via on
+global via
+wait 1 s
+smile %actor.name%
+wait 1 s
+emote si raddrizza sulla sedia dandosi un tono pacatamente beffardo.
+wait 2 s
+say vediamo se sei furbo come credi....dimmi di cosa sto parlando..
+wait 3 s
+say &3 Agguantata (su Lei ci si contava..) &0
+wait 3 s
+say &x&4 Messa alle strette (e cio' fu salutare) &0
+wait 3 s
+say &1 Fini' col dar le carte e c'indicava..... &0
+wait 3 s
+say &8 ...da quale parte si doveva andare. &0
+wait 1 s
+say Eheh...che cos'e'?
+~
+/s
+q
+y

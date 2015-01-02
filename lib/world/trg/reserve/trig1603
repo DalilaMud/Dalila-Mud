@@ -1,0 +1,22 @@
+trigedit 1603
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.name% != Nexus
+ oecho &2&xUn tuono rimbomba attorno a te e un fumo verde ti circonda&0
+ wait 1
+ oecho &3Una voce poderosa ti investe, "Questa collana non e' destinata a te!"&0
+ oforce %actor.name% remo perlenexus
+ oforce %actor.name% drop perlenexus
+ oload mob 6112
+ wait 1
+ oforce drago kill %actor.name%
+else
+ oecho &7&8La collana di perle riluce al contatto con la pelle di Nexus, irradiando la stanza di luci.&0
+ dg_affect nexus sanct 0 2
+end
+~
+/s
+q
+y

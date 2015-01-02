@@ -1,0 +1,29 @@
+trigedit 2007
+6  
+/c 
+set valido 0
+if %actor.name% == alhandir || %actor.name% == irin || %actor.name% == lain || %actor.name% == bridge || %actor.name% == esmeralda || %actor.name% == cry || %actor.name% == yuna
+ set valido 1
+end
+if %valido% == 1
+ if %speech% == altare di Silue
+  wait 1 s
+  eval cap4 %cap%/4
+  eval cap2 %cap%/2
+  eval cap3 %cap%*3
+  eval cap5 %cap3%/4
+  if %puntifede% <= %cap4%
+   msend %actor.name% &7&xL'altare di Silue brilla flebilmente...&0
+   elseif %puntifede% <= %cap2%
+   msend %actor.name% &7&xL'altare di Silue brilla intensamente...&0
+   elseif %puntifede% <= %cap5%
+   msend %actor.name% &7&xL'altare di Silue brilla molto intensamente...&0
+   else
+   msend %actor.name% &7&xL'altare di Silue brilla con pieno vigore...&0
+  end
+ end
+end
+~
+/s
+q
+y

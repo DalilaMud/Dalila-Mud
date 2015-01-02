@@ -1,0 +1,39 @@
+trigedit 12599
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &7 %actor.name% si da' rapidamente alla fuga &0
+mgoto %actor.name%
+wait 5
+mgoto %actor.name%
+eval flee %flee% + 1
+global flee
+if %flee% == 4
+wait 1 s
+mat %1% &6%actor.name% pare proprio che sia in un brutto momento a vedere quanto scappa&0
+mat %2% &6%actor.name% pare proprio che sia in un brutto momento a vedere quanto scappa&0
+mat %3% &6%actor.name% pare proprio che sia in un brutto momento a vedere quanto scappa&0
+mat %4% &6%actor.name% pare proprio che sia in un brutto momento a vedere quanto scappa&0
+mat %5% &6%actor.name% pare proprio che sia in un brutto momento a vedere quanto scappa&0
+end
+if %flee% == 7
+wait 1 s
+mat %1% &6 Sta diventando una vera abitudine darsi alla fuga per %actor.name%!&0
+mat %2% &6 Sta diventando una vera abitudine darsi alla fuga per %actor.name%!&0
+mat %3% &6 Sta diventando una vera abitudine darsi alla fuga per %actor.name%!&0
+mat %4% &6 Sta diventando una vera abitudine darsi alla fuga per %actor.name%!&0
+mat %5% &6 Sta diventando una vera abitudine darsi alla fuga per %actor.name%!&0
+end
+if %flee% == 10
+wait 1 s
+mat %1% &6 Forse bisognerebbe dire ad %actor.name% che questa non e' la gara dei cento metri....come sembrerebbe vedendolo scappare ad ogni scontro&0
+mat %2% &6 Forse bisognerebbe dire ad %actor.name% che questa non e' la gara dei cento metri....come sembrerebbe vedendolo scappare ad ogni scontro&0
+mat %3% &6 Forse bisognerebbe dire ad %actor.name% che questa non e' la gara dei cento metri....come sembrerebbe vedendolo scappare ad ogni scontro&0
+mat %4% &6 Forse bisognerebbe dire ad %actor.name% che questa non e' la gara dei cento metri....come sembrerebbe vedendolo scappare ad ogni scontro&0
+mat %5% &6 Forse bisognerebbe dire ad %actor.name% che questa non e' la gara dei cento metri....come sembrerebbe vedendolo scappare ad ogni scontro&0
+end
+end
+~
+/s
+q
+y

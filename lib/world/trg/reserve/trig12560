@@ -1,0 +1,31 @@
+trigedit 12560
+6  
+/c 
+if %speech% == prendere
+get all in 1.scorta
+get all in 2.scorta
+get all in 3.scorta
+get all in 4.scorta
+get all in 5.scorta
+get all in 6.scorta
+get all in 7.scorta
+get all in 8.scorta
+get all in 9.scorta
+get all in 10.scorta
+end
+if %speech% == posare
+put all.%1% in 1.scorta
+put all.%2% in 2.scorta
+put all.%3% in 3.scorta
+put all.%4% in 4.scorta
+put all.%5% in 5.scorta
+put all.%6% in 6.scorta
+put all.%7% in 7.scorta
+put all.%8% in 8.scorta
+put all.%9% in 9.scorta
+put all.%10% in 10.scorta
+end
+~
+/s
+q
+y

@@ -1,0 +1,797 @@
+#3500
+spada media~
+una spada media~
+Una spada media e' qui.~
+~
+5 65536 8193
+0 4 5 11 60 60
+15 12000 3000 13 0 0
+#3501
+spada lunga~
+una bella spada lunga~
+Una spada lunga e' stata lasciata qui.~
+~
+5 73728 8193
+0 2 13 10 70 70
+15 25000 7500 26 0 0
+#3502
+clava ferro~
+una clava di ferro~
+Una semplice clava di ferro e' qui.~
+~
+5 65536 8193
+0 2 9 11 40 40
+20 10000 2000 19 0 0
+#3503
+giacca cuoio borchiato~
+una giacca di cuoio borchiato~
+Una giacca di cuoio borchiato e' qui per terra.~
+~
+9 65536 1025
+5 0 0 0 40 40
+20 1 1 0 0 0
+A
+14 -30
+#3504
+lancia~
+una lancia dorata~
+Una lancia dorata e' qui.~
+~
+5 86016 8193
+0 3 10 11 50 50
+15 40000 10000 25 0 0
+#3505
+corpo mutilato~
+un corpo mutilato~
+Un corpo mutilato e' qui per terra.~
+~
+15 0 0
+20 0 -1 0 100 100
+25 0 0 1 0 0
+E
+corpo mutilato~
+Sembra essere una delle vittime di qualunque cosa abbia causato questa
+carneficina.    
+~
+#3506
+corpo mutilato~
+un corpo mutilato~
+Un corpo mutilato e' qui a terra.~
+~
+15 0 0
+20 0 -1 0 100 100
+25 0 0 1 0 0
+E
+corpo mutilato~
+Sembra essere una delle vittime di qualunque cosa abbia causato questa
+carneficina.    
+~
+#3507
+pugnale decorato~
+un pugnale decorato~
+Un bellissimo pugnale decorato e' incastrato nel terreno.~
+~
+5 112104 8193
+0 4 4 14 20 20
+12 50000 15000 25 0 0
+E
+pugnale decorato~
+L'impugnatura di questo pugnale sembra esser formata da due serpenti
+intrecciati.  Alla fine dell'impugnatura c'e' un piccolo rubino rosso.    
+~
+A
+19 1
+#3508
+trottola giocattolo~
+una trottola~
+Una piccola trottola sta ruotando su se stessa per terra.~
+~
+12 103426 16385
+0 0 0 0 25 25
+10 30000 10000 42 0 0
+E
+trottola giocattolo~
+Mentre la trottola ruota su se stessa, ti senti quasi ipnotizzato dal suo
+movimento.    
+~
+A
+3 2
+#3509
+lancia~
+una lancia~
+Una semplice lancia e' qui in terra.~
+~
+5 66048 8193
+0 3 9 11 70 70
+20 10000 2000 24 0 0
+#3510
+medaglione~
+un medaglione goblin~
+Un grezzo medaglione goblin e' qui.~
+~
+8 0 5
+0 0 0 0 10 10
+10 40000 10000 26 0 0
+E
+medaglione~
+   Sul retro c'e' scritto: Miden'nir....  Sangue Verde!!!    
+~
+A
+25 2
+C
+33554432 0 0 0
+#3511
+monete~
+un mucchietto di monete~
+Un mucchietto di monete e` stato abbandonato qui.~
+~
+20 0 1
+250 0 0 0 0 0
+0 0 0 1 0 0
+#3512
+verga furia lancia~
+&WLa verga della furia ovina&d~
+La terribile verga della furia ovina giace qui...~
+~
+5 524288 8193
+0 1 1 7 100 100
+5 0 0 153 0 0
+C
+131072 0 0 0
+#3513
+anello nalef~
+&6L'anello di Nalef&0~
+Per terra c'e' il famoso anello di Nalef. Non toccarlo, e' pericoloso!~
+~
+8 184320 3
+0 0 0 0 50 50
+1 0 0 -3 0 0
+T 1668
+#3514
+anello traslocazione~
+&3Il mistico anello di traslocazione&0~
+Uno strano anello magico e' qui per terra.~
+~
+8 257 3
+0 0 0 0 5 5
+1 0 0 1 0 0
+T 1673
+#3515
+dado folli follia~
+Il magico &7&xd&9a&7d&9o&0 dei folli!~
+Uno strano dado rotola qui...~
+~
+8 0 32769
+0 0 0 0 0 0
+1 0 0 1 0 0
+T 1674
+T 1688
+#3516
+oro coin coins manciata monete~
+Una manciata di monete d'oro~
+Una manciata di monete e' qui per terra...~
+~
+20 0 1
+50 0 0 0 1 1
+1 0 0 1 0 0
+#3517
+sacchetto monete coin coins soldi~
+Un sacchetto di monete!~
+Un sacchetto contente monete d'oro e' qui.~
+~
+20 0 1
+200 0 0 0 1 1
+1 0 0 1 0 0
+#3518
+sacco soldi coins coin monete oro~
+Un sacco di soldi!~
+Un grosso sacco traboccante oro e' qui!~
+~
+20 0 1
+5000 0 0 0 1 1
+1 0 0 1 0 0
+#3519
+forziere monete coins coin oro~
+Un grosso forziere~
+Un grosso forziere e' stracolmo d'oro qui!~
+~
+20 0 1
+20000 0 0 0 1 1
+1 0 0 1 0 0
+#3520
+tappeto oro monete coins~
+Un tappeto di monete!~
+Un tappeto di monete d'oro ti lascia senza fiato!~
+~
+20 0 1
+100000 0 0 0 1 1
+1 0 0 1 0 0
+#3521
+valanga monete coins coin oro~
+Una valanga d'oro!~
+Vieni letteralmente sommerso da una valanga di monete d'oro~
+~
+20 0 1
+250000 0 0 0 1 1
+1 0 0 1 0 0
+#3522
+cornucopia oro infinita coins monete~
+La magica cornucopia!~
+Una magica cornucopia e' qui che vomita oro!!!~
+~
+20 0 1
+1000000 0 0 0 1 1
+1 0 0 1 0 0
+#3523
+prova dado~
+Il dado di prova di Sheep (non toccare)~
+Un dado di lana e' qui!~
+~
+0 0 1
+0 0 0 0 5 5
+1 0 0 1 0 0
+T 1669
+#3524
+spada sorte~
+La Spada della Sorte~
+Questa spada e' stata ottenuta con un colpo di fortuna!~
+~
+5 268435712 8193
+0 4 15 10 50 50
+2 0 0 93 0 0
+T 1679
+A
+18 1
+A
+19 1
+#3525
+mazza sorte~
+La Mazza della Sorte~
+Questa mazza e' stata ottenuta con un colpo di fortuna!~
+~
+5 268435712 8193
+0 4 15 5 50 50
+2 0 0 93 0 0
+T 1679
+A
+18 1
+A
+19 1
+#3526
+pugnale sorte~
+Il Pugnale della Sorte~
+Questo pugnale e' stato ottenuto con un colpo di fortuna!~
+~
+5 268435712 8193
+0 4 15 1 50 50
+1 0 0 93 0 0
+T 1679
+A
+18 1
+A
+19 1
+#3527
+ascia sorte~
+L'Ascia della Sorte~
+Quest'ascia e' stata ottenuta con un colpo di fortuna!~
+~
+5 268435712 8193
+0 4 15 3 50 50
+3 0 0 67 0 0
+T 1679
+A
+18 1
+A
+19 1
+#3528
+lancia sorte~
+La Lancia della Sorte~
+Questa lancia e' stata ottenuta con un colpo di fortuna!~
+~
+5 268435712 8193
+0 4 15 7 50 50
+3 0 0 93 0 0
+T 1679
+A
+18 1
+A
+19 1
+#3529
+quadrifoglio fortuna~
+Un &2&xQuadrifoglio&0~
+Questo quadrifoglio ti portera' fortuna!~
+~
+12 324 0
+0 0 0 0 5 5
+1 0 0 48 0 0
+A
+6 1
+C
+4398046511104 0 0 0
+#3530
+spada malasorte arma~
+&9&xLa spada della malasorte&0~
+Per terra c'e' una di quelle armi che parrebbe portino iella. Ma chi ci crede alla iella?~
+~
+5 268435584 8193
+0 4 16 10 40 40
+2 0 0 91 0 0
+T 1686
+T 1687
+A
+18 1
+A
+19 1
+A
+6 -2
+#3531
+mazza malasorte arma~
+&9&xLa mazza della malasorte&0~
+Per terra c'e' una di quelle armi che parrebbe portino iella. Ma chi ci crede alla iella?~
+~
+5 268435584 8193
+0 4 16 5 40 40
+2 0 0 91 0 0
+T 1686
+T 1687
+A
+18 1
+A
+19 1
+A
+6 -2
+#3532
+pugnale malasorte arma~
+&9&xIl pugnale della malasorte&0~
+Per terra c'e' una di quelle armi che parrebbe portino iella. Ma chi ci crede alla iella?~
+~
+5 268435584 8193
+0 4 16 1 40 40
+1 0 0 91 0 0
+T 1686
+T 1687
+A
+18 1
+A
+19 1
+A
+6 -2
+#3533
+lancia malasorte arma~
+&9&xLa lancia della malasorte&0~
+Per terra c'e' una di quelle armi che parrebbe portino iella. Ma chi ci crede alla iella?~
+~
+5 268435584 8193
+0 4 16 7 40 40
+3 0 0 91 0 0
+T 1686
+T 1687
+A
+18 1
+A
+19 1
+A
+6 -2
+#3534
+ascia arma malasorte~
+&9&xL'ascia della malasorte&0~
+Per terra c'e' una di quelle armi che parrebbe portino iella. Ma chi ci crede alla iella?~
+~
+5 268435584 8193
+0 4 16 3 40 40
+3 0 0 63 0 0
+T 1686
+T 1687
+A
+18 1
+A
+19 1
+A
+6 -2
+#3535
+anello sonno eterno~
+L'anello del &6&xSonno Eterno&0~
+Questo strano anello pare qui apposta per essere raccolto da te!~
+~
+8 8589934736 3
+0 0 0 0 5 5
+1 0 0 239 0 0
+T 1689
+C
+573442 0 0 0
+#3536
+anello protezione magica unico~
+&3&xAnello di protezione magica&0~
+Un anello dagli arcani poteri brilla qui in terra~
+~
+8 0 3
+0 0 0 0 5 5
+1 0 0 31 0 0
+T 1691
+A
+1 -5
+A
+5 -5
+C
+2199023255552 0 0 0
+#3537
+pezzi cadavere carne~
+Dei pezzi di cadavere~
+Pezzi di carne sanguinolenta sono qui sparsi ovunque... un vero macello!~
+~
+13 0 0
+0 0 0 0 1 1
+70 0 0 1 0 0
+#3538
+tovaglia eterna libagione~
+La tovaglia dell'eterna libagione~
+La portentosa tovaglia dell'eterna libagione e' qui!~
+~
+8 16 16385
+0 0 0 0 10 10
+3 0 0 1 5 2
+T 1695
+E
+tovaglia~
+Questa incredibile tovaglia pare avere dei poteri magici veramente portentosi!
+~
+#3539
+portale~
+Un portale verso gli Inferi~
+Questo spaventoso portale ha messo in comunicazione gli Inferi con la Daresia!~
+~
+13 0 0
+0 0 0 0 5 5
+1 0 0 1 0 0
+T 1699
+E
+portale~
+Questa pare una porta di comunicazione che dagli Inferi porta in Daresia! Chissa' cosa ne uscira'!
+~
+#3540
+borraccia bbb1 borraccia~
+La borraccia senza fondo~
+Una borraccia magica e' qui!~
+~
+17 524545 1
+10 10 15 0 4 8
+15 0 0 1 0 0
+E
+undefined~
+Nothing.
+~
+#3541
+mantello errante hkyo~
+Il mantello dell'Eterno Errante~
+Un mantello cencioso e' stato lasciato qui~
+~
+8 288 1025
+0 0 0 0 5 5
+3 0 0 741 0 0
+A
+25 10
+A
+14 100
+A
+17 -12
+C
+4611688492329382080 0 0 0
+#3542
+soffice vello lana~
+&7&xUn soffice e candido vello di lana&0~
+La lana di Sheep e' qui! Chi avra' osato tosarlo?~
+~
+9 524432 9
+2 0 0 0 100 100
+5 0 0 79 5 3
+A
+6 3
+#3543
+occhio caronos~
+&1&xL'Occhio di Caronos&0~
+Uno degli innumerevoli occhi di Caronos e' qui...~
+~
+8 592 262145
+0 0 0 0 20 20
+8 0 0 490 0 0
+A
+18 3
+A
+26 5
+C
+274877940764 0 0 0
+#3544
+amuleto tigre kttt~
+&3&xL'amuleto della Tigre&0~
+Questo amuleto rappresenta una meravigliosa tigre~
+~
+8 0 5
+0 0 0 0 15 15
+2 0 0 101 0 0
+T 1413
+T 1414
+C
+274877906944 0 0 0
+#3545
+amuleto lupo pllll~
+&9&xL'amuleto del Lupo&0~
+Questo amuleto rappresenta un magnifico lupo~
+~
+8 0 5
+0 0 0 0 15 15
+2 0 0 171 0 0
+T 1416
+T 1417
+C
+274877907968 0 0 0
+#3546
+amuleto orso poooo~
+&7&xL'amuleto dell'Orso&0~
+Questo amuleto rappresenta uno splendido orso~
+~
+8 0 5
+0 0 0 0 15 15
+2 0 0 115 0 0
+T 1419
+T 1420
+A
+1 2
+C
+16777216 0 0 0
+#3547
+amuleto pantera opppp~
+&9&xL'amuleto della Pantera&0~
+Questo amuleto rappresenta una bellissima pantera~
+~
+8 0 5
+0 0 0 0 15 15
+2 0 0 201 0 0
+T 1422
+T 1423
+C
+274877906976 0 0 0
+#3548
+aquila amuleto paaaa~
+&7L'amuleto dell'Aquila&0~
+Questo amuleto rappresenta una grande aquila~
+~
+8 0 5
+0 0 0 0 15 15
+2 0 0 81 0 0
+T 1425
+T 1426
+A
+18 2
+C
+64 0 0 0
+#3549
+runa rossa rrrrp~
+&1Una Runa Rossa&0~
+Qui per terra c'e' una runa in pietra rossa..~
+~
+8 64 16385
+0 0 0 0 5 5
+1 0 0 67 0 0
+T 1428
+T 1444
+C
+16777216 0 0 0
+#3550
+runa bianca rbrbp~
+&7Una Runa Bianca&0~
+Qui per terra c'e' una runa in pietra bianca..~
+~
+8 64 16385
+0 0 0 0 5 5
+1 0 0 22 0 0
+T 1430
+T 1444
+C
+4096 0 0 0
+#3551
+runa azzurra rarap~
+&6Una Runa Azzurra&0~
+Qui per terra c'e' una runa in pietra azzurra..~
+~
+8 64 16385
+0 0 0 0 5 5
+1 0 0 22 0 0
+T 1432
+T 1444
+C
+536870912 0 0 0
+#3552
+runa verde rvrvp~
+Una Runa Verde~
+Qui per terra c'e' una runa in pietra verde..~
+~
+8 0 16385
+0 0 0 0 5 5
+1 0 0 41 0 0
+T 1434
+T 1444
+C
+64 0 0 0
+#3553
+runa protezione rprpp~
+&9&xUna Runa di Protezione&0~
+Qui per terra c'e' una runa in pietra nera..~
+~
+8 64 16385
+0 0 0 0 3 3
+1 0 0 22 0 0
+T 1436
+T 1444
+C
+33554432 0 0 0
+#3554
+sogotacon tentacolo~
+&4&xUn tentacolo di Sogotacon&0~
+Qui per terra c'e' un piccolo e schifoso brandello dei tentacoli di Sogotacon~
+~
+8 64 4097
+0 0 0 0 50 50
+2 0 0 121 0 0
+A
+18 3
+A
+19 3
+#3555
+esoscheletro nyrugantep chitina~
+&2&xL'esoscheletro di Nyrugantep&0~
+Qui in terra c'e' una piccola parte dell'esoscheletro del terrificante mostro Nyrugantep~
+~
+9 320 9
+25 0 0 0 60 80
+6 0 0 254 0 0
+A
+25 5
+C
+137489285120 0 0 0
+#3556
+guscio rotto sostanza gelatinosa~
+Una sostanza gelatinosa~
+Una sostanza gelatinosa e' cio' che resta dell'uovo di Nyrugantep dopo la schiusa...~
+~
+13 9 0
+0 0 0 0 5 5
+0 0 0 -6 0 0
+C
+2048 0 0 0
+#3557
+anello flagello~
+&1&xI&7l &1F&7lagello dei &1&xG&7remlins&0~
+Un anello dalla strana lavorazione attira la tua attenzione~
+~
+8 281 3
+0 0 0 0 10 10
+1 0 0 33 0 0
+T 1454
+T 1455
+E
+anello flagello~
+Si narra che il possessore di questo anello possa sconfiggere i tanto temuti
+Gremlin, ma le cronache non spiegano come cio' sia possibile.  Sul retro
+dell'anello noti una scritta incisa nell'oro: ECRANAC
+~
+A
+26 1
+A
+25 1
+C
+4096 0 0 0
+#3558
+uovo oro~
+&3&xUn uovo d'oro&0~
+Un incredibile uovo completamente d'oro e' stato deposto qui~
+~
+20 1 1
+2000 0 0 0 1 1
+2 0 0 1 0 0
+#3559
+pugnale lama caos~
+&9&xLama del Caos&0~
+Questa lama fu forgiata dai Grandi Antichi.. i suoi poteri sono inenarrabili...~
+~
+5 0 8193
+5 4 15 1 90 90
+2 0 0 1404 0 0
+A
+1 4
+A
+2 4
+A
+18 5
+A
+19 5
+A
+17 -50
+C
+274946097288 0 0 0
+#3560
+pallina matta~
+&2&xUna &1Pal&3li&7na &2Ma&4tta&0~
+Una &1&xpal&3l&7ina&0&2 fatta di uno strano materiale gommoso e' qui...&0~
+~
+13 8589934673 16385
+0 0 0 0 10 10
+1 0 0 26 0 0
+T 1459
+T 1460
+A
+6 1
+A
+3 -1
+#3561
+buca enorme bbbbt~
+&9&xUna enorme buca&0~
+&9&xUna enorme buca nel terreno e' stata scavata qui!&0~
+~
+13 16 0
+0 0 0 0 2 2
+1 0 0 1 0 0
+T 1467
+E
+buca~
+Questa grossa buca deve essere stata scavata da una talpa veramente enorme!
+~
+#3562
+follettobomba bomba~
+la &RF&Go&Cl&Vl&We&Rt&Gt&CO&RBOMBA&d~
+Uno strano oggetto sferico e multicolore vibra qui a terra~
+~
+12 25769803793 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+T 3500
+#3563
+follettobomba bomba strano marchingegno~
+la &RF&Go&Cl&Vl&We&Rt&Gt&CO&RBOMBA&d~
+Uno strano marchingegno sta vomitando folletti!~
+~
+12 0 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+#3564
+bomba sfera~
+&rUna bomba&d~
+Una strana sfera con attaccata una sottile cordicella e' posata qui... ehi la cordicella sta bruciando!~
+~
+12 8589934608 1
+0 0 0 0 100 100
+2 0 0 1 0 0
+T 3502
+#3565
+bomba sfera~
+&rUna bomba&d~
+Una strana sfera con attaccata una sottile cordicella e' posata qui... ehi la cordicella sta bruciando!~
+~
+12 8589934608 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+#3566
+stivali logori~
+Stivali di &gbronzo&d~
+Un paio di pesanti stivali di bronzo sono stati lasciati qui~
+~
+9 4096 65
+15 0 0 0 40 40
+0 0 0 55 0 0
+#3567
+gambali bronzo~
+Gambali di &gbronzo&d~
+Dei pesanti gambali di bronzo luccicano qui~
+~
+9 4096 33
+15 0 0 0 40 40
+0 0 0 55 0 0
+#3599
+fischietto cabal~
+&9&xIl fischietto nero di Cabal&0~
+Un fischietto nero come la notte e' rotolato qui.~
+~
+11 264 524289
+0 0 0 0 100 100
+1 0 0 1 0 0
+T 31545
+$~

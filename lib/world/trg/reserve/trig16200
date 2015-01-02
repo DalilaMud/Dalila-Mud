@@ -1,0 +1,9 @@
+trigedit 16200
+6  
+/c 
+wait 1 s
+dg_cast 'cone of cold' %actor.name%
+~
+/s
+q
+y

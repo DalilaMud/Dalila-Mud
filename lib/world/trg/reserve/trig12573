@@ -1,0 +1,9 @@
+trigedit 12573
+6  
+/c 
+if %actor.clan% == 5
+then kil %actor%
+~
+/s
+q
+y

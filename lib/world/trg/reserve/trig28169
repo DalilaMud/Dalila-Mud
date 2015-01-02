@@ -1,0 +1,10 @@
+trigedit 28169
+6  
+/c 
+wait 20 s
+%send% %actor% &9&xAttorno a te tutto perde forma e dimensione... ti ritrovi in un posto senza luogo e senza tempo.&0
+wteleport %actor.name% 1654
+~
+/s
+q
+y

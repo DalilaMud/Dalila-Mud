@@ -1,0 +1,49 @@
+trigedit 12606
+6  
+/c 
+   if %formazione% == colonnaincorso
+     if !(%fronte%)
+       set fronte nord
+       global fronte
+     end
+     
+     if %fronte% == sud
+       set ex nord
+     elseif %fronte% == nord
+       set ex sud
+     elseif %fronte% == est
+       set ex ovest
+     elseif %fronte% == ovest
+       set ex est
+     else
+       %echo% Fronte Non settato avvertite Phantom
+     end
+          
+     set phan 1
+     while %phan% < 5
+       %load% mob 12602
+       wait 1 s
+       %force% fanti1 foll fanteria
+       group all
+       wait 2 s
+       gtell vai %ex%
+       eval phan %phan% + 1
+     done
+     set formazione colonna
+     global formazione
+     gtell viaggiamo in colonna
+     halt
+   end
+   
+   if %marcia% == fermi
+     halt
+   elseif %marcia% == normale
+     wait 5 s
+     %fronte%
+     gtell marcia %fronte%
+   end
+   
+~
+/s
+q
+y

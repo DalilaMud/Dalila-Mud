@@ -1,0 +1,19 @@
+trigedit 2574
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &2&xIl pupazzetto&0&2 salta in piedi con un agile balzo&0
+wait 1 s
+oecho &2&xIl pupazzetto &0&2comincia a farfugliare cose senza senso!&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &2&xIl pupazzetto&0 &5dice, 'la morte viene silenziosa come un'alce'&0
+else
+oecho &2&xIl pupazzetto &0&5dice, 'RIMETTETE L'OOC!'&0
+end
+~
+/s
+q
+y

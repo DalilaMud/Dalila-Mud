@@ -1,0 +1,19 @@
+trigedit 2048
+6  
+/c 
+if %give% == 1
+halt
+end
+if %get% == 1
+ otransform 2056
+ oecho &9&xAppena afferri la Pietra della Vita essa si spegne diventando un volgare sasso.&0
+ set get 2
+ global get
+ halt
+end
+set get 1
+global get
+~
+/s
+q
+y

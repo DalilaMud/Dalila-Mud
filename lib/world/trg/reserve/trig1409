@@ -1,0 +1,10 @@
+trigedit 1409
+6  
+/c 
+mecho &1&xDalle ferite inferte a Caronos nascono nuovi mostri!&0
+wait 1 s
+mload mob 540
+~
+/s
+q
+y

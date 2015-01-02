@@ -1,0 +1,11 @@
+trigedit 31510
+6  
+/c 
+wait 1 s
+%send% %actor.name% &1Senti il tuo corpo riscaldarsi e venire avvolto da fiamme viola!!!&0
+%damage% %actor.name% 300
+%echoaround% %actor.name% &1Il corpo di %actor.name% viene avvolto dalle fiamme mentre urla dal dolore&0
+~
+/s
+q
+y

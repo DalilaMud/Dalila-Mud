@@ -1,0 +1,12 @@
+trigedit 1656
+6  
+/c 
+* Lista comandi
+wait 2 s
+if %actor.vnum% == -1
+emo volge lo sguardo su di te fissandoti in maniera strana...
+end
+~
+/s
+q
+y

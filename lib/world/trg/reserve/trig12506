@@ -1,0 +1,44 @@
+trigedit 12506
+6  
+/c 
+if %casa% == 0
+set casa %self.room%
+global casa
+set piazzata on
+global piazzata
+set attenti on
+global attenti
+end
+eval timer %timer% + 1
+global timer
+if %timer% > 175
+emote torna a casa
+mgoto 2
+mpurge
+unset timer
+end
+if %azione% != on
+eval random %random.14%
+if %random% < 5
+eval back %back% + 1
+global back
+if %random% == 1
+n
+elseif %random% == 2
+s
+elseif %random% == 3
+w
+elseif %random% == 4
+e
+end
+end
+if %back% > 4
+mgoto %casa%
+unset back
+end
+end
+kill nemico
+~
+/s
+q
+y

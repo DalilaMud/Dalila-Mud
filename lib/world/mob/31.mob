@@ -1,0 +1,282 @@
+#3100
+garzone ragazzo~
+0~
+Un garzone è qui vicino a te.
+~
+E' un ragazzo molto giovane , di circa 17 anni.
+I suoi vestiti luridi indicano molta povertà:la paga non deve essere molto alta qui.
+~
+~
+~
+~
+74 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+58 100000
+8 8 1
+Spec: 0
+E
+#3101
+edgar~
+Edgar~
+Edgar e' qui
+~
+La sua faccia grassoccia e il vestiario simile a quello dei re delle favole , lo rendono un po' ridicolo.
+I suoi occhi guizzano in ogni direzione , a controllare tutto e tutti.
+Quando questi si posano sull'oro , un'espressione di ingordigia gli si legge sul volto.~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+87 100000
+8 8 1
+Spec: 0
+E
+T 12559
+#3102
+sir iron negoziante~
+Sir Iron~
+Sir Iron si sta spazientendo.
+~
+Sarà alto più di 2 metri ed è veramente grosso!
+I suoi muscoli allenati vengono evidenziati dalla sporca maglia che indossa, evidentemente troppo stretta.
+Afferra con noncuranza un lingotto di ferro : per lui deve essere come sollevare un moscerino.~
+~
+~
+~
+201326602 40 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+90 100000
+8 8 1
+Spec: 0
+E
+#3103
+bell negoziante~
+Bell~
+Bell sta lavorando.
+~
+Appena si gira riesci ad osservarlo meglio:è un tipo minuto ,di mezza età ,quasi completamente calvo.
+Capisci subito dallo sguardo che dietro a quel sorriso cordiale si nasconde una persona molto intelligente ed istruita.
+~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+84 100000
+8 8 1
+Spec: 0
+E
+T 12559
+#3104
+Cesar~
+Cesar~
+Cesar e' qui
+~
+Edgar viene sicuramente da fuori: i suoi tratti somatici sono molto diversi da quelli della popolazione indigena.
+Anche il suo accento è un po strano.
+Gli occhi azzurri e la pella molto chiara ne rivelano la provenienza nordica.
+~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+53 100000
+8 8 1
+Spec: 0
+E
+T 12559
+#3105
+ken negoziante~
+Ken~
+Ken e' qui
+~
+Guardando Mr. Silver Fox riesci a malapena a trattenerti dal ridere: 
+i suoi capelli sono bianchi come l'argento che vende.
+E' una persona molto curata, si vede che ci tiene al proprio aspetto.
+~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+65 100000
+8 8 1
+Spec: 0
+E
+#3106
+Sandra~
+Sandra~
+Sandra e' qui che parla
+~
+E' un grasso uomo di mezza età : i vestiti troppo stretti per la sua persona sembrano sul punto di scoppiare.
+Delle ridicole basette gli ornano la faccia , i suoi occhi piccoli e infossati lo rendono particolarmente brutto.
+Provi un po' di disgusto nel guardarlo , ma sei qui per affari.....
+~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+65 100000
+8 8 1
+Spec: 0
+E
+T 12559
+#3107
+alfy negoziante~
+Alfy~
+Alfy è molto indaffarato.
+~
+Guardarlo in faccia è molto difficile : lo sporco nasconde i suoi tratti e non riconosci il colore degli occhi!
+La sua espressione è dura e non molto amichevole : non gli stai molto simpatico a quanto pare......~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+94 100000
+8 8 1
+BareHandAttack: 1
+Spec: 0
+E
+T 12559
+#3108
+nicola erborista negoziante~
+Nicola l'erborista~
+Nicola l'erborista è qui vicino a te.
+~
+E' una persona giovane e ben curata:il suo viso e' pulito e i suoi capelli in ordine, non sembra neanche che stia lavorando.
+Appesa al fianco del suo grembiule da lovoro , c'è un piccolo falcetto da erborista.
+Il suo sorriso cordiale ti mette subito a tuo agio.~
+~
+~
+~
+134217738 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+73 100000
+8 8 1
+E
+T 12559
+#3109
+roger cacciatore negoziante~
+Roger~
+Roger il cacciatore è qui che squoia una preda.
+~
+E' completamente vestito di abiti in cuoio.
+La barba folta gli copre parte del viso , ma dal sorriso con il quale ti accoglie capisci che è una persona educata e gentile.
+Rimani esterefatto quando , afferrato un coltello , scuoia senza battere ciglio una lepre morta , da lui probabilmente catturata.~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+77 100000
+8 8 1
+Spec: 0
+E
+T 12559
+#3110
+susan ragazza negoziante~
+Susan~
+Una ragazza bellissima è in piedi dietro al bancone.
+~
+Il suo viso , veramente grazioso , ti fa pensare a un'opera d'arte.
+I suoi occhi azzurri e i capelli biondo oro , la rendono veramente bella.
+La sua voce è dolce e gentile , il suo sguardo \350 penetrante e quasi ipnotico.
+~
+~
+~
+~
+201326602 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+98 100000
+8 8 2
+Spec: 0
+E
+T 12559
+#3111
+pietro negoziante~
+Pietro~
+Pietro è qui pronto a servirti.
+~
+E' un bestione alto più di due metri , spalle larghe e massicce.
+Il volto è segnato da una profonda cicatrice che ne rende l'aspetto un po' cupo.
+In realtà è una persona molto simpatica e subito ti accoglie come se vi conosceste da sempre.
+~
+~
+~
+~
+134217738 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+56 100000
+8 8 1
+E
+T 12559
+#3112
+sandra vecchietta negoziante~
+Sandra~
+Una simpatica vecchietta sta lavando della verdura.
+~
+Per osservarla bene ti devi curvare un po':è alta circa un metro e mezzo , viso molto asciutto e braccia molto magre.
+Ti chiedi come faccia ancora a lavorare , ma appena vedi come solleva una cassa di verdura , capisci che dietro all'apparenza di una vecchietta indifesa , si nasconde un carattere tenace e ancora giovane.
+~
+~
+~
+~
+134217738 0 100 -1 -1 -1 -1 -1 E
+100 0 -3 1d1+30000 1d10+50
+85 100000
+8 8 2
+E
+T 12559
+#3113
+ufficiale~
+L'ufficiale amministrativo~
+L'ufficiale amministrativo del mercato è seduto dietro alla scrivania.
+~
+Il suo volto è terribilmente serio , non traspare alcuna emozione dalla sua espressione.
+Appena entri ti riceve in modo freddo e un po' spazientito.
+Ti chiedi come mai tutti i dipendenti statali si assomiglino nei comportamenti.
+~
+~
+~
+~
+10 0 100 -1 -1 -1 -1 -1 E
+100 20 -3 1d1+30000 10d1+50
+82 100000
+6 6 1
+E
+#3114
+piccione~
+Un piccione~
+Un piccione vola sopra la tua testa.
+~
+Non riesci a vederlo bene anche perchè appena alzi la testa , lascia cadere un ricordino che ti colpisce in pieno......
+~
+~
+~
+~
+6170 4194304 100 -1 -1 -1 -1 -1 E
+1 0 10 1d1+15 1d1+0
+1 10
+8 8 0
+BareHandAttack: 1
+E
+#3115
+piccione~
+un piccione~
+Un piccione si stà abbeverando alla fontana
+~
+E' un po' grassoccio e ti piacerebbe fartelo arrosto.
+~
+~
+~
+~
+6170 0 100 -1 -1 -1 -1 -1 E
+1 0 10 1d1+30 1d1+1
+0 20
+8 8 0
+E
+$

@@ -1,0 +1,14 @@
+trigedit 1447
+6  
+/c 
+eval nyru %random.5%
+if %nyru% == 1
+mecho &2&xNyrugantep depone un orrendo uovo gelatinoso...&0
+mload mob 555
+halt
+end
+dg_cast 'acid breath'
+~
+/s
+q
+y

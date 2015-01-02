@@ -1,0 +1,13 @@
+trigedit 1358
+6  
+/c 
+* Lista comandi
+wait 1
+eval dracolich 1
+global dracolich
+eval cammelli 5
+global cammelli
+~
+/s
+q
+y

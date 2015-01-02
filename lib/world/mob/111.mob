@@ -1,0 +1,90 @@
+#11100
+ninfa ragazza bellissima~
+ninfa~
+Una bellissima ragazza nuota nel laghetto. 
+~
+La ninfa e' una delle piu' belle ragazze che hai mai visto, la sua pelle e'
+ricoperta solo da un strato sottile di acqua, ha un colore magico. Segui
+ogni suo movimento e ogni sua curva fino a che non sparisce sotto la
+superficie del laghetto mandandoti in ultimo un largo sorriso promettente!   
+~
+~
+~
+~
+256090 1276 1000 -1 -1 -1 -1 -1 E
+33 0 0 1d1+4000 5d10+5
+26 0
+8 8 2
+BareHandAttack: 10
+Str: 17
+Dex: 17
+Int: 17
+Wis: 7
+Con: 17
+Cha: 17
+E
+#11101
+cameriera Ivona~
+Ivona la cameriera~
+La cameriera Ivona sta facendo le pulizie.
+~
+Una classica cameriera, carina ma nulla di speciale, alta appena un metro
+e sessanta centimetri con minigonna, porta una scopa e un barile di olio
+per lucidare le armature di marca "Cyrgon express".
+~
+~
+~
+~
+4186 0 0 -1 -1 -1 -1 -1 E
+33 0 -10 1d500+500 3d8+8
+17 150000
+8 8 0
+BareHandAttack: 3
+E
+#11103
+cuoco alef~
+Alef il cuoco~
+Alef, il miglior cuoco di Dalila, sta trasportando un piatto enorme.
+~
+Alef e' basso e grasso, anzi grassissimo, meglio dire veramente grasso. Non
+riesci capire neanche come faccia a camminare, ha sicuramente qualche magia
+di levitazione permanente! Ricordandoti che e' il miglior cuoco di Dalila e
+specialmente ricordando le sue pastine, si QUEI meravigliosi dolci teneri, ma
+cosi' teneri, che vorresti che durino in eterno e che stranamente spariscono
+dal piatto prima ancora che questo tocchi il tavolo.
+~
+~
+~
+~
+6232 0 350 -1 -1 -1 -1 -1 E
+33 10 0 10d500+4000 20d6+20
+17 100000
+8 8 1
+E
+#11111
+drago vecchio maggiordomo~
+un vecchio drago ~
+Un enorme drago ti mostra la nota sul muro.
+~
+Il vecchio drago di Silverion ha trovato finalmente, dopo le inumerevoli
+battaglie a fianco del suo miglior amico, una casa. Qui, circondato da
+tutti gli oggetti ed i tesori del clan si sente ricco e desiderato. Sei
+sicuro che da qui non ti manchera' mai nulla e che tutto cio' che viene
+lasciato nelle sue mani hmmm... artigli sara' ben curato. 
+~
+~
+~
+~
+260187 0 1000 -1 -1 -1 -1 -1 E
+50 0 -100 10d500+10000 6d10+20
+44 2500000
+8 8 0
+BareHandAttack: 12
+Str: 24
+Dex: 24
+Int: 24
+Wis: 24
+Con: 24
+Cha: 24
+E
+$

@@ -1,0 +1,289 @@
+trigedit 12609
+6  
+/c 
+if %actor.level% > 79
+if %speech% /= sentinelle
+eval %speech% - 20
+global sentinelle
+end
+if %speech% /= abilita
+set %speech%
+global abilita
+end
+if %speech% /= soldati
+eval %speech% - 20
+global soldati
+set soldatimax %soldati%
+global soldatimax
+nod
+end
+if %speech% /= mib
+set %speech%
+global mib
+end
+if %speech% /= mob
+set %speech%
+global mob
+end
+if %speech% /= mab
+set %speech%
+global mab
+end
+end
+if %actor.name% == %monarca% || %actor.name% == %reggente%
+if %speech% == reggente && %actor.name% == %monarca%
+wait 5
+say Che il nuovo Reggente si faccia avanti (&1Say Eccomi&0)
+set carica reggente
+global carica
+end
+if %speech% == generale
+wait 5
+say Che il mio nuovo generale si faccia avanti
+set generale on
+global generale
+end
+end
+if %actor.name% == %monarca% || %actor.name% == %generale% || %actor.name% == %reggente% || %actor.name% == %comandante%
+if %speech% == funzionario
+wait 5
+say Che il nuovo funzionario si faccia avanti (&1Say Eccomi&0)
+set carica funzionario
+global carica
+end
+end
+if %actor.name% == %funzionario% || %actor.name% == %monarca% || %actor.name% == %generale% || %actor.name% == %reggente%
+if %speech% == scout
+wait 5
+say Che il nuovo Scout si faccia avanti (&1Say Eccomi&0)
+set carica gestore
+global carica
+end
+end
+if %monarca% == 0
+if %speech% == monarca
+wait 3
+nod
+set monarca %actor.name%
+global monarca
+set stato pacifico
+global stato
+set cibo 700
+global cibo
+set abilita 0
+global abilita
+set morale 500
+global morale
+set corazza 0
+global corazza
+set soldati 40
+global soldati
+set soldatimax 40
+global soldatimax
+set freschezza 1000
+global freschezza
+set caserma %self.room%
+global caserma
+set armature 0
+global armature
+set gambali 0
+global gambali
+set parabraccia 0
+global parabraccia
+set guanti 0
+global guanti
+set elmi 0
+global elmi
+set armi 0
+global armi
+set scudi 0
+global scudi
+set azione allerta
+global azione
+eval pf %soldati% * 10
+global pf
+set attenti on
+global attenti
+set sonno 1
+global sonno
+set gestore nessuno
+global gestore
+set funzionario nessuno
+global funzionario
+eval sentinelle %soldatimax% / 2
+global sentinelle
+set ampiezza 1
+global ampiezza
+end
+end
+if %speech% == eccomi
+if %carica% != 0
+set %carica% %actor.name%
+global %carica%
+wait 5
+emote riconosce ora %actor.name% come %carica%
+unset carica
+end
+if %generale% == on
+set generale %actor.name%
+global generale
+wait 5
+say Generale %actor.name%, ai vostri ordini
+end
+if %comandante% == on
+set comandante %actor.name%
+global comandante
+wait 5
+say Comandante %actor.name%, ai vostri ordini
+end
+end
+if %actor.name% == %monarca% || %actor.name% == %generale% || %actor.name% == %reggente%
+if %speech% == comandante
+wait 5
+say Che il mio nuovo comandante si faccia avanti
+set comandante on
+global comandante
+end
+end
+if %actor.name% == %comandante% || %actor.name% == %generale% || %actor.name% == %monarca% || %actor.name% == %reggente%
+if %speech% == stato difensivo && %stato% != difensivo
+if %pagare% == 0
+wait 5
+nod
+set stato difensivo
+global stato
+set fronte niente
+global fronte
+else
+wait 5
+say Dovete prima finire di pagarci gli stipendi, Sir %actor.name%
+end
+end
+if %speech% == stato pacifico && %stato% != pacifico
+if %pagare% == 0
+wait 5
+nod
+set stato pacifico
+global stato
+else
+wait 5
+say Dovete prima finire di pagarci gli stipendi, Sir %actor.name%
+end
+end
+if %stato% == difensivo && %self.room% > 1000000 
+if %ampiezza% == on && %speech% /= distanza
+wait 5
+set ampiezza %ampiezza%
+if %speech% == distanza minima
+set ampiezza 1
+elseif %speech% == distanza bassa
+set ampiezza 2
+elseif %speech% == distanza media
+set ampiezza 3
+elseif %speech% == distanza alta
+set ampiezza 4
+elseif %speech% == distanza massima
+set ampiezza 5
+end
+global ampiezza
+wait 5
+if %speech% /= cambia
+else
+say La distanza attuale del fronte dall'esercito' e' ora di %ampiezza% leghe
+end
+end
+if %speech% == cambia distanza fronte && %ampiezza% != on
+set ampiezza on
+global ampiezza
+wait 5
+say A quale distanza dovra' essere disposto il fronte dell'esercito? (&1minima, bassa, media, alta, massima)
+end
+end
+if %speech% == allerta
+if %azione% == riposo
+if %leghe% <= 0
+wait 5
+nod
+wait 1 s
+emote riordina i ranghi ora pronto per ricevere ordini
+set azione allerta
+global azione
+end
+elseif %azione% == arruola
+wait 5
+emote e' ora pronto a ricevere nuovi ordini
+set azione allerta
+global azione
+end
+end
+if %speech% == smantella
+if %azione% == accampamento
+wait 5
+emote inizia come ordinato a smantellare il campo
+wait 1 s
+set azione smantellando
+global azione
+eval turni %soldati% / 3
+global turni
+emote necessitera' di %turni% minuti per smantellare l'accampamento
+unset dormendo
+unset dormita
+elseif %azione% == accampando
+wait 5
+emote guarda stizzito %actor.name%
+wait 5
+emote ricompone i ranghi dopo aver ultimato di rimmettere via i tendaggi
+set azione allerta
+global azione
+unset turni
+end
+end
+if %speech% == accampa
+if %azione% == allerta
+wait 5
+emote sospira rilassato
+wait 5
+emote inizia a preparare l'accampamento per riposare
+wait 5
+eval turni %soldati% / 2
+global turni
+emote necessitera' di circa %turni% minuti per completare l'operazione
+set azione accampando
+global azione
+elseif %azione% == marcia
+wait 5
+emote puo' solo riposare durante le marce
+wait 5
+emote per accamparsi avrebbe bisogno di molto tempo e di vedere il suo ordine di marciare annullato
+end
+end
+if %speech% /= bonk
+wait 2
+%speech%
+end
+end
+if %speech% == All'attacco
+if %nemico% == 0
+if %actor.vnum% > 100
+wait 6
+emote riprende posizione per affrontare %actor.name%
+set nemico %actor.name%
+global nemico
+set scontro %self.room%
+global scontro
+set azione2 %azione%
+global azione2
+unset delay
+set azione guerra
+global azione
+set attaccante on
+global attaccante
+mgoto eserciziario
+say 1 + %scontro%
+end
+end
+end
+~
+/s
+q
+y

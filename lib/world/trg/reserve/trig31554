@@ -1,0 +1,20 @@
+trigedit 31554
+6  
+/c 
+if %tigre% == 1
+wait 1 s
+osend %actor.name% Solo Cabal puo' controllare Beetlejuice!
+halt
+end
+set tigre 1
+global tigre
+wait 1 s
+osend %actor.name% Non appena porti il fischietto alla bocca, un corvo si avvicina a te e si posa sulla tua spalla..
+oechoaround %actor.name% &9Un magnifico e elegante corvo si posa sulla spalla di %actor.name%
+wait 1 s
+oload mob 3599
+oforce btljuc foll %actor.name%
+~
+/s
+q
+y

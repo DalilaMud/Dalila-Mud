@@ -1,0 +1,18 @@
+trigedit 2534
+6  
+/c 
+* Lista comandi
+msend %actor.name% &5Ahzthothekhon ti avvolge in spire di melma e morte, stritolandoti&0
+mechoaround %actor.name% &5Ahzthothekhon avvolge %actor.name% in spire di melma e morte, stritolandolo&0
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+~
+/s
+q
+y

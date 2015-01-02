@@ -1,0 +1,9 @@
+trigedit 20030
+6  
+/c 
+oecho &VL'anello del Dragone Verde sprigiona una nuvola di acido corrosivo!&d
+dg_cast 'acid breath'
+~
+/s
+q
+y

@@ -1,0 +1,12 @@
+trigedit 20509
+6  
+/c 
+* Lista comandi
+wait 2 s
+%send% %actor% &5Immediatamente ti addormenti in un turbinio di colori...&0
+mteleport %actor% 20510
+%force% %actor% sleep
+~
+/s
+q
+y

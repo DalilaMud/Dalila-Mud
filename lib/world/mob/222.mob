@@ -1,0 +1,126 @@
+#22200
+Guardia Cyrinic~
+Guardia Cyrinic~
+Possente Guardia Cyrinic della Cattedrale
+~
+La sua figura mette paura, e' possente, enorme quasi infinita.
+La sua forsa puo' essere solo di origine divina.
+Spera che non stia cercando proprio te.
+~
+~
+~
+~
+258074 1800433852 0 -1 -1 -1 -1 -1 E
+88 0 -10 100d100+100 100d100+100
+65 20
+8 8 1
+E
+#22201
+Andromeda~
+Andromeda~
+Andromeda
+~
+Ormai intorno a te non esiste piu' nulla, vedi solo lei. Con i capelli neri che
+cadono sulle spalle in morbide onde del mare, gli occhi neri e profondi come il
+pozzo dei desideri, labbra rosse carnose che ti invitano. Porta un vestito a
+tunica quasi trasparente che mostra sfumatamente tutte le curve del suo corpo.
+Come, come, come puoi non guardarla piu'?
+~
+~
+~
+~
+16394 1208 0 -1 -1 -1 -1 -1 E
+1 19 10 1d8+50 1d6+1
+1 20
+8 8 0
+E
+T 1486
+#22202
+tenente~
+tenente~
+Tenente delle guardie personali 
+~
+I suoi occhi ti catturano subito, possiedono una determinazione e una dedizione
+sovraumana. Il suo fisico e' possente e molto agile, la sua esperienza ormai e'
+leggenda.
+~
+~
+~
+~
+73 1084 0 -1 -1 -1 -1 -1 E
+100 100 -10 100d100+100 100d100+100
+89 20
+8 8 1
+E
+#22203
+Soldato Cyrinic~
+Soldato Cyrinic~
+Un possente Soldato Cyrinic della Cattedrale
+~
+Sei sicuro che la sua spada ti puo' trafiggere con un solo colpo.
+Speri solo di non essere sotto di essa.
+~
+~
+~
+~
+253978 188 0 -1 -1 -1 -1 -1 E
+88 0 -10 100d100+1000 100d100+-24
+75 20
+8 8 1
+E
+#22204
+Piantone Cyrinic~
+Piantone Cyrinic~
+Un possente Piantone Cyrinic della Cattedrale
+~
+Sembra una montagna, non puoi passare se lui non vuole, da solo chiude
+qualunque porta e tu pensi sia piu facile passare attraverso i muri.
+~
+~
+~
+~
+253978 184561852 0 -1 -1 -1 -1 -1 E
+88 0 -10 100d100+1000 100d100+-24
+50 20
+8 8 1
+E
+#22205
+guardia cattedrale gcd~
+Una &GGuardia&d della Cattedrale~
+Una fiera guardia della Cattedrale presidia impassibile l'ingresso alle stanze del Sommo
+~
+Maestosa ed imponente, questa guardia si erge fiera all'ingresso delle stanze
+del Sommo.
+Nulla puo' distrarla dalla sua missione: il Sommo e' la sua vita.
+~
+~
+~
+~
+36028798092965915 128 0 -1 -1 -1 -1 -1 E
+70 -10 10 1d1+0 1d1+30
+10 0
+8 8 0
+BareHandAttack: 9
+E
+T 22201
+T 22202
+#22206
+guardia gdd~
+LA &GGuardia&d personale del Sommo~
+Una Guardia del Sommo, enorme, fredda, letale e' qui.
+~
+Maestosa ed imponente, questa guardia si erge fiera all'ingresso delle stanze
+del Sommo.
+Nulla puo' distrarla dalla sua missione: il Sommo e' la sua vita.
+~
+~
+~
+~
+36030997653078042 184 0 -1 -1 -1 -1 -1 E
+70 -10 10 1d1+0 1d1+30
+0 0
+8 8 0
+BareHandAttack: 9
+E
+T 22204
+$

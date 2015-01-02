@@ -1,0 +1,576 @@
+#16300
+Stebb.~
+Stebb~
+Stebb e' qui vigile e attento.
+~
+Stebb e' un uomo alto e robusto, dal volto segnato di cicatrici,
+tuttavia vedi nei suoi occhi la sua grande bonta'.
+~
+~
+~
+~
+256010 1224 800 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+430 3d8+7
+37 100000
+8 8 1
+E
+#16302
+Bill~
+Bill il garzone~
+Bill il garzone e' qui intento a servire i clienti.
+~
+Un tipo barbaro, maleducato e permaloso, meglio stare alla larga!!!
+~
+~
+~
+~
+180286 1032 -500 -1 -1 -1 -1 -1 E
+30 19 -2 1d1+470 12d2+10
+21 100000
+8 8 1
+E
+#16303
+ragno~
+Un ragno nero.~
+Un ragno nero e' qui che tesse la sua tela...
+~
+Brutto essere a otto zampe pelose.
+~
+~
+~
+~
+71742 1064 -300 -1 -1 -1 -1 -1 E
+10 14 6 1d1+110 2d5+1
+6 2000
+8 8 0
+E
+#16304
+cittadino~
+Un cittadino.~
+Un cittadino benvestito passeggia qui.
+~
+Un normale cittadino alto e bruno, un po snob.
+~
+~
+~
+~
+2264 1056 0 -1 -1 -1 -1 -1 E
+20 12 3 1d1+230 2d5+3
+14 11000
+8 8 1
+E
+#16305
+nobile~
+Un nobile cittadino~
+Un nobile cittadino passeggia qui.
+~
+   Appartiene ad un livello sociale molto piu' alto del tuo, e il suo sguardo
+comunica questo distacco.    
+~
+~
+~
+~
+34904 1024 0 -1 -1 -1 -1 -1 E
+23 11 2 1d1+370 2d10+4
+13 10000
+8 8 1
+E
+#16306
+ubriacone~
+Un ubriacone.~
+Un ubriacone e' qui seduto a bere.
+~
+Puzza di birra e vino. Meglio starci alla larga.
+~
+~
+~
+~
+2252 1024 0 -1 -1 -1 -1 -1 E
+12 15 7 1d1+110 1d8+1
+10 500
+6 6 1
+E
+#16307
+Segretario~
+Il segretario~
+Il segretario del re e' qui vigile e attento.
+~
+Il suo darsi arie urta sensibilmente la tua visione della vita.
+~
+~
+~
+~
+2078 1032 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+500 3d7+6
+20 55000
+8 8 1
+E
+#16308
+guida~
+La guida turistica~
+La guida e' qui che parla ai turisti.
+~
+   Questa ragazza ha un'aspetto felino.  Agile e snella come ne hai viste solo
+nei tuoi sogni.    
+~
+~
+~
+~
+71880 5152 400 -1 -1 -1 -1 -1 E
+24 11 2 1d1+390 2d10+4
+20 25000
+8 8 2
+E
+#16309
+Flick~
+Flick~
+Flick Ohmsford e' qui vigile e attento.
+~
+Un uomo insignificante.
+~
+~
+~
+~
+26634 5288 80 -1 -1 -1 -1 -1 E
+45 5 -6 1d1+470 4d8+9
+26 150000
+8 8 1
+E
+#16310
+assassino~
+Un assassino.~
+Un assassino e' qui che prepara la sua trappola.
+~
+E' intento a non dare nell'occhio stringendo lentamente la sua corda tra
+le mani nerborute.
+~
+~
+~
+~
+2110 525344 -99 -1 -1 -1 -1 -1 E
+25 11 2 1d1+330 4d5+4
+23 12000
+8 8 1
+E
+#16311
+Panamon~
+Panamon Creel~
+Panamon Creel e' qui vigile  e attento.
+~
+Un altro abitante di questa citta'.
+~
+~
+~
+~
+2186 33792 0 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+690 4d7+9
+43 100000
+8 8 1
+E
+#16312
+morgan mlrlqs~
+Morgan Leah~
+Il Re Morgan Leah e' qui vigile e attento.
+~
+   Sei di fronte all'uomo i cui avi hanno costruito questa citta'.  I suoi
+occhi emanano fierezza e furbizia.  Il tuo cuore si stringe in una sensazione
+di orgoglio e timore al tempo stesso.    
+~
+~
+~
+~
+2074 16790664 450 -1 -1 -1 -1 -1 E
+50 4 -7 1d1+600 4d8+10
+44 190000
+8 8 1
+E
+#16313
+guardia~
+La guardia del re.~
+La guardia del re e' qui vigile e attenta.
+~
+Un soldato con anni di esperienza.
+~
+~
+~
+~
+63498 1024 50 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+26 50000
+8 8 1
+E
+#16314
+barbaro~
+Un barbaro malvivente.~
+Un barbaro malvivente e' qui che ti osserva...
+~
+Un uomo molto muscoloso, alto, biondo e rozzo, un vero colosso!!!  E' sporco e vestito come un barbone.
+~
+~
+~
+~
+67688 1056 -30 -1 -1 -1 -1 -1 E
+35 8 -2 1d1+525 2d12+6
+27 80000
+8 8 1
+E
+#16315
+Cerbero~
+Cerbero~
+Cerbero il cane guardiano ti attacca!!!
+~
+Un animale grosso quanto una mucca, feroce come una tigre, agile come un gatto e fedele come un cane!
+~
+~
+~
+~
+6202 1064 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+19 100000
+8 8 1
+E
+#16316
+talpa~
+La Talpa~
+Un uomo di nome talpa e' qui vigile e attento.
+~
+   Viene chiamato talpa perche' conosce tutti i cunicoli segreti del regno come
+le sue tasche...  Ha gli occhi molto infossati e scuri, sembra che non veda,
+non vedi le sue mani che sono dentro le maniche della sua tunica scura.    
+~
+~
+~
+~
+2202 1056 50 -1 -1 -1 -1 -1 E
+40 7 -3 2d2+600 3d8+7
+26 200000
+8 8 1
+E
+#16317
+teschio~
+Il messaggero del Teschio~
+Un messaggero del teschio sta volando qui!!!
+~
+   E' un enorme uccello nero, dalla bocca emette strani versi acuti che ti
+assordano, ti ipnotizzano.  E' un servo del Signore degli Inganni, e per suo
+ordine uccide tutte le persone che incontra.  
+~
+~
+~
+~
+67692 12328 -600 -1 -1 -1 -1 -1 E
+35 8 -2 1d1+520 2d12+6
+23 100000
+8 8 0
+E
+#16318
+ombrato~
+Un ombrato.~
+Un ombrato e' qui che cerca una vittima.
+~
+   Un essere semi-umano, reso folle dalla sete di potere, per colpa della magia
+che ha eridato.  Per fortuna questi esseri sono ormai rari!    
+~
+~
+~
+~
+2106 1064 -400 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+550 3d10+7
+23 430000
+8 8 0
+E
+#16319
+sirena~
+La sirena~
+Una sirena e' qui seduta sugli scogli.
+~
+   Una ragazza spledinda, dagli occhi azzurri ed i capelli blu, carnagione
+chiara e statura alta.    
+~
+~
+~
+~
+2190 1152 100 -1 -1 -1 -1 -1 E
+33 7 -5 1d1+350 3d8+6
+22 100000
+8 8 2
+E
+#16320
+giullare~
+Il giullare di corte.~
+Il giullare di corte e' qui che gioca.
+~
+   Un uomo di media statura, snello, con il classico cappello a tre punte dei
+giullare e tre biglie che si fa roteare tra le mani.    
+~
+~
+~
+~
+2120 1024 0 -1 -1 -1 -1 -1 E
+20 11 1 1d1+300 2d9+4
+14 15000
+8 8 1
+E
+#16321
+giullare~
+Un apprendista giullare~
+Un apprendista giullare e' qui che tenta di far divertire i turisti.
+~
+Un ragazzo alto e snello, occhi castani e pelle chiara, non puoi vedere i suoi
+capelli a causa del cappello appuntito che porta in testa per sembrare un mago
+e far ridere i turisti.    
+~
+~
+~
+~
+2252 1024 50 -1 -1 -1 -1 -1 E
+17 12 4 1d1+260 2d7+3
+10 8000
+8 8 1
+E
+#16322
+gatto~
+Un gatto delle nevi.~
+Un gatto delle nevi e' qui che miagola!!!
+~
+   Ecco un...  Gatto delle nevi, dal folto manto bianco, di statura enorme,
+occhi azzurri come il cielo limpido e zampe lunghe come tronchi d'albero, non
+sembra prudente avvicinarsi.  
+~
+~
+~
+~
+2120 1056 0 -1 -1 -1 -1 -1 E
+20 16 2 2d2+250 2d8+6
+17 130000
+8 8 0
+E
+#16323
+renna~
+Una renna.~
+Una renna e' qui vigile e attenta.
+~
+Non e' una di quelle che usano per trainare la slitta.
+~
+~
+~
+~
+200 1024 0 -1 -1 -1 -1 -1 E
+20 15 2 1d1+260 2d7+4
+16 75000
+8 8 0
+E
+#16324
+gatto~
+Un gatto delle paludi~
+Un enorme gatto delle paludi e' qui.
+~
+   E' il gatto piu' grosso che tu avessi mai visto!  Appare davanti a te tutto
+d'un tratto, ha il pelo grigio con macchie nere sui fianchi che salivano fin
+sul dorso ricurvo, il muso, le orecchie e la coda sono nere.  
+~
+~
+~
+~
+2120 1056 0 -1 -1 -1 -1 -1 E
+28 10 0 1d1+450 2d10+5
+21 200000
+8 8 0
+E
+#16325
+mostro~
+Il mostro della palude.~
+Il mostro della palude e' qui che si prepara ad attaccarti!
+~
+Un enorme mostro con 8 tentacoli, tutti muniti di artigli velenosi.
+~
+~
+~
+~
+67642 1066 -150 -1 -1 -1 -1 -1 E
+33 8 0 1d1+550 2d12+7
+17 250000
+8 8 0
+E
+#16326
+vipera~
+una vipera~
+Una piccola e agile vipera striscia qui intorno.
+~
+Una vipera piccola e snella, dagli occhi neri come la notte e la pelle dura come la pietra!
+~
+~
+~
+~
+2153 1056 0 -1 -1 -1 -1 -1 E
+17 15 4 1d1+200 2d10+4
+10 25000
+8 8 2
+Spec: 13
+E
+#16327
+assassino~
+Pe Ell~
+Un assassino di nome Pe Ell e' qui.
+~
+   La sua fama e' giunta anche alle tue orecchie, se ti ha designato come
+vittima non sperare di poter farla franca, e' un assassino cattivo e
+sanguinario che uccide per il piacere di farlo, e' stato sconfitto una sola
+volta da Viridiana, che gli levo' il suo pugnale Stiehl e lo distrusse.  Ha una
+pelle chiarissima e dei capelli neri come la notte, i suoi occhi castani ti
+incutono una paura tremenda!    
+~
+~
+~
+~
+2058 263200 -100 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+760 3d10+8
+24 300000
+8 8 1
+E
+#16328
+spia~
+la spia~
+Una spia degli gnomi e' qui...
+~
+Farfuglia vane spiegazioni. Ma ormai e' stato smascherato!!!
+~
+~
+~
+~
+2268 263178 -100 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+470 3d6+5
+28 75000
+8 8 1
+E
+#16329
+lupo~
+Un lupo mannaro.~
+Un lupo mannaro e' qui che ulula!
+~
+   Ha un aspetto non rassicurante.  La schiuma che gli esce dalla bocca non ti
+piace per niente.    
+~
+~
+~
+~
+2090 1056 -600 -1 -1 -1 -1 -1 E
+23 11 2 1d1+320 2d9+3
+12 7000
+8 8 1
+E
+#16330
+pesce~
+Un pesce volante~
+Un pesce volante svolazza qui.
+~
+Un pesce coloratissimo, la leggenda vuole che il Re del Fiume Argento,
+sentendosi solo, abbia creato molti di questi esseri per avere compagnia.
+~
+~
+~
+~
+67722 1024 300 -1 -1 -1 -1 -1 E
+15 16 3 2d2+150 3d4+3
+8 150000
+8 8 0
+E
+#16331
+controllore~
+Un controllore.~
+Un controllore del fiume e' qui vigile e attento.
+~
+Controlla ogni passante, ogni merce, ogni animale. Che lavoraccio!!
+~
+~
+~
+~
+2078 1024 100 -1 -1 -1 -1 -1 E
+34 9 -2 2d2+530 2d12+5
+25 180000
+8 8 1
+Str: 25
+Dex: 25
+E
+#16332
+druido~
+Un druido~
+Un druido e' qui in meditazione...
+~
+   Una figura alta e scura, seguace dell'antico druido Walker Boh.  Porta un
+mantello verde intorno al corpo, la sua cupa faccia ti scruta con attenzione
+senza che tu te ne accorga, potrebbe ucciderti senza darti il tempo di gridare.
+  
+~
+~
+~
+~
+2074 17826850 0 -1 -1 -1 -1 -1 E
+45 8 -6 1d1+700 3d9+6
+37 280000
+8 8 1
+E
+#16333
+termiti~
+Uno sciame di termiti~
+Uno sciame di termiti ti attacca!!!
+~
+   Un numero di termiti enorme sono raggruppate in uno spazio piccolissimo,
+noti la regina molto piu' grande delle altre, messa in disparte, lontana dal
+resto della plebaglia.    
+~
+~
+~
+~
+67688 1056 0 -1 -1 -1 -1 -1 E
+30 17 -1 1d1+450 4d7+3
+24 200000
+8 8 0
+E
+#16334
+regina~
+La regina delle termiti.~
+La regina delle termiti e' qui vigile e attenta.
+~
+Una termite cosi' grossa non l'avevi mai vista.
+~
+~
+~
+~
+67722 1064 50 -1 -1 -1 -1 -1 E
+35 8 -1 1d1+600 3d8+2
+33 150000
+8 8 2
+E
+#16335
+fungo~
+Un fungo maligno.~
+Un fungo maligno e' qui.
+~
+Questo fungo sembra animarsi!!!
+~
+~
+~
+~
+67642 1024 -50 -1 -1 -1 -1 -1 E
+28 10 0 1d1+450 3d7+5
+24 80000
+8 8 0
+E
+#16336
+Damson~
+Damson~
+Damson Creel e' qui vigile e attenta.
+~
+   Damson e' una ragazza bellissima, apparentemente fragile e innocua, sotto la
+sua maschera di innocenza nasconde uno spirito forte e coraggioso.    
+~
+~
+~
+~
+2268 1024 1000 -1 -1 -1 -1 -1 E
+40 7 -5 1d1+600 3d9+8
+29 90000
+8 8 2
+E
+$

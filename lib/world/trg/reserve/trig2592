@@ -1,0 +1,11 @@
+trigedit 2592
+6  
+/c 
+* Lista comandi
+return 0
+mecho &3&xALLA MORTE DEL POTENTE DRAGO PARTE DELLA GROTTA COLLASSA RIVELANDO UN'USCITA!&0
+%door% 5816 e room 2464756
+~
+/s
+q
+y

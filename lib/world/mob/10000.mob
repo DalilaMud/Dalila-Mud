@@ -1,0 +1,251 @@
+#1000000
+rondine~
+la rondine~
+Una rondine e' qui che volteggia nel cielo.
+~
+It looks unfinished.
+La rondine e' un'uccello nero che, di solito, non fa primavera.
+~
+~
+~
+~
+65546 0 0 -1 -1 -1 -1 -1 E
+1 20 3 1d1+0 1d1+0
+1 1
+8 8 2
+BareHandAttack: 4
+E
+#1000001
+stalliere rodrigo~
+Lo stalliere Rodrigo~
+Lo stalliere Rodrigo e' qui.
+~
+Lo stalliere e' un'uomo giovane, di taglia media, coi capelli rossi irsuti.
+Diresti che avrebbe bisogno di un buon bagno, a giudicare dalla puzza che emana
+dai suoi abiti, peggio di quella di tutta la stanza.
+~
+~
+~
+~
+8203 0 0 -1 -1 -1 -1 -1 E
+50 0 10 1d1+10000 1d10+20
+30 0
+8 8 1
+Spec: 35
+E
+#1000002
+cavallo nero~
+&W&9Un cavallo nero&0~
+&W&9Un cavallo nero&0 gira qui intorno.
+~
+Questo cavallo nero e' veramente un'animale stupendo, un vero stallone di razza.
+~
+~
+~
+~
+545382410 0 0 -1 -1 -1 -1 -1 E
+20 20 10 1d1+350 1d8+0
+18 0
+8 8 1
+E
+#1000003
+cavallo bianco~
+Un maestoso &7Cavallo bianco&0~
+Un maestoso &7Cavallo bianco&0 galoppa qui in circolo
+~
+Un maestoso &7Cavallo bianco&0
+~
+~
+~
+~
+545316874 0 0 -1 -1 -1 -1 -1 E
+25 20 5 1d1+450 1d8+0
+24 0
+8 8 1
+E
+#1000004
+cavallo dorato cavalla~
+un'agile e resistente cavalla dal pelo dorato~
+Una agile e resistente &3cavalla dal pelo dorato&0 galoppa qui intorno
+~
+Una agile e resistente &3cavalla dal pelo dorato&0 galoppa qui intorno
+~
+~
+~
+~
+545316874 0 0 -1 -1 -1 -1 -1 E
+30 20 2 1d1+600 1d6+0
+23 20
+8 8 2
+E
+#1000005
+cavallo marrone~
+Un possente e robusto &1cavallo Marrone&0~
+Un possente e robusto &1cavallo Marrone&0 ti osserva.
+~
+Un possente e robusto &1cavallo marrone&0
+~
+~
+~
+~
+545316874 0 0 -1 -1 -1 -1 -1 E
+35 16 2 1d1+700 1d9+0
+28 0
+8 8 0
+E
+#1000006
+stallone infernale~
+uno stallone infernale~
+Uno &1&xstallone infernale&0 minaccioso e' qui.
+~
+
+Il suo manto e'  nero, la sua testa grande e massiccia come il resto del suo corpo,
+i suoi occhi rosso fuoco.
+~
+~
+~
+~
+36028797027442698 2097152 -1000 -1 -1 -1 1869506375 -1 E
+50 12 0 1d1+2000 3d18+4
+31 0
+8 8 1
+BareHandAttack: 4
+E
+#1000010
+draghetto Grisu'~
+Grisu' il draghetto~
+Grisu' il draghetto e' qui.
+~
+Una belva!!!
+~
+~
+~
+~
+58720266 0 0 -1 -1 -1 -1 -1 E
+39 7 -3 1d1+400 1d10+4
+35 0
+8 8 0
+E
+#1000011
+lilith drago~
+Lilith il drago oscuro~
+Qui c'e' Lilith il leggendario drago della Luna
+~
+Non hai mai visto un essere emanare tanta nobilta'.
+Ma non ti far confondere dal suo aspetto amichevole, potrebbe
+decimare un esercito con un solo terribile soffio di fuoco.
+~
+~
+~
+~
+58720266 0 0 -1 -1 -1 -1 -1 E
+60 13 -1 1d1+750 7d7+7
+35 0
+8 8 2
+E
+#1000020
+arturo stalliere~
+Arturo, lo stalliere di Deira~
+Arturo, lo stalliere di Deira, e' qui
+~
+Arturo e' un giovane ragazzo che ha avuto da poco in gestione le stalle Aldariane.
+Da come guarda e tratta i cavalli capisci che li ama davvero, e che se ne prendera'
+cura con la massima professionalita'.
+~
+~
+~
+~
+576460753377419291 1064 500 -1 -1 -1 -1 -1 E
+75 -30 -10 1d1+9999 10d10+50
+48 0
+8 8 1
+Spec: 35
+E
+#1000021
+loris stalliere~
+Loris, lo stalliere di Chyrellos~
+Loris, lo stalliere di Chyrellos ti saluta mentre si prende cura delle cavalcature.
+~
+Loris ha fatto della passione per i cavalli il suo motivo di vita.
+Il suo nome e' rinomato in tutta la Daresia, e le stalle da lui gestite sono quelle a cui si affidano
+persino molti nobili e persone importanti.
+Il tuo cavallo non ha nulla da temere se sara' affidato qua.
+~
+~
+~
+~
+1073995803 1064 500 -1 -1 -1 -1 -1 E
+50 -30 -10 1d1+9999 10d10+50
+49 0
+8 8 1
+Spec: 35
+E
+#1000022
+mitheld stalliere~
+Mitheld, lo stalliere di Lamorka~
+Mitheld, lo stalliere di Lamorka, offre le sue stalle in cambio di denaro.
+~
+Vedi un uomo sulla quarantina, con una barba folta e nera. L'odore dei suoi vestiti ti fa capire che
+passa davvero molto tempo con i cavalli, e che quindi sa come prendersi cura di loro.
+Si dice sia stato istruito dallo stalliere reale, e che dopo lunghi anni di lavoro abbia ricevuto in premio
+la gestione della stalla cittadina.
+~
+~
+~
+~
+576460753377419291 274962842664 500 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1000+30000 10d127+50
+70 0
+8 8 1
+Spec: 35
+E
+T 6684
+#1000050
+stalliere~
+Un robusto stalliere~
+Un robusto stalliere e' pronto a ritirare la tua cavalcatura
+~
+Per lasciare qui la tua cavalcatura bastera' usare il comando RENT dopo essere
+entrato cavalcando. Per riavere la tua cavalcatura indietro devi restituire la
+ricevuta allo stalliere, attento a non perderla !!!
+~
+~
+~
+~
+36028797019217947 274877908008 300 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+999 5d13+12
+48 0
+8 8 1
+Spec: 35
+E
+#1000080
+Jenny la Centaura~
+Jenny la Centaura e' qui che scorrazza per la wilderness.~
+Jenny la Centaura e' qui che scorrazza in motocicletta.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#1000099
+drago Khukharnak Khuky~
+Khukharnak il potente drago di Yaemon!!~
+Khukharnak il potente drago di Yaemon e' di cattivo umore oggi.
+~
+It looks unfinished.
+~
+~
+~
+~
+8648884234 0 0 -1 -1 -1 -1 -1 E
+71 10 0 1d1+1000 5d5+10
+54 0
+8 8 1
+E
+$

@@ -1,0 +1,13 @@
+trigedit 20017
+6  
+/c 
+wait 1 s
+say Grazie, giovane Eroe...
+mat 1001 drop sigillo
+wait 1 s
+mecho &cSoffio scompare in un soffio di vento...&d
+mgoto xxxxxx
+~
+/s
+q
+y

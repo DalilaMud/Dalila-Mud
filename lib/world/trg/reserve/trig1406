@@ -1,0 +1,10 @@
+trigedit 1406
+6  
+/c 
+return 0
+mecho &1&xNon appena l'Eterno Errante si accascia al suolo subito si rialza riprendendendo il suo eterno vagare&0
+mload mob 538
+~
+/s
+q
+y

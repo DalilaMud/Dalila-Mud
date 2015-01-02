@@ -1,0 +1,16 @@
+trigedit 11031
+6  
+/c 
+%echoaround% %actor% &V%self.name% tocca %actor.name% che vomita copiosamente.&0
+%send% %actor.name% &V%self.name% ti tocca e subito vomiti copiosamente&0
+%force% %actor% vomita
+wait 1s
+%force% %actor% vomita
+wait 1s
+%force% %actor% vomita
+%actor.fame% = 4
+%actor.sete% = 4
+~
+/s
+q
+y

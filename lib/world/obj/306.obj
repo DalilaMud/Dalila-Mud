@@ -1,0 +1,214 @@
+#30600
+armatura fante nero~
+Un'Armatura del Fante Nero~
+Un'Armatura del Fante Nero e' qui.~
+~
+9 512 9
+4 0 0 0 70 70
+13 200 0 3 0 0
+#30601
+armatura fante bianco~
+Un'Armatura del Fante Bianco~
+Un'Armatura del Fante Bianco e' qui.~
+~
+9 1024 9
+4 0 0 0 70 70
+13 200 0 6 0 0
+#30602
+spada fante nero~
+Una spada del Fante Nero~
+La Spada del Fante Nero giace qui.~
+~
+5 512 8193
+0 2 3 10 70 70
+10 100 0 1 0 0
+#30603
+spada fante bianco~
+Una spada del Fante Bianco~
+La Spada del Fante Bianco giace qui.~
+~
+5 1049600 8193
+0 2 4 10 70 70
+10 100 0 3 0 0
+#30604
+armatura torre nera~
+Un'Armatura della Torre Nera~
+Un'armatura fatta coi resti di una Torre Nera e' ammucchiata sul terreno.~
+~
+9 33409 9
+4 0 0 0 70 70
+60 200 0 9 0 0
+A
+5 1
+A
+3 -3
+#30605
+armatura torre bianca~
+Un'Armatura della Torre Bianca~
+Un'armatura fatta coi resti di una Torre Bianca e' ammucchiata sul terreno.~
+~
+9 33857 9
+4 0 0 0 70 70
+60 200 0 5 0 0
+A
+5 1
+A
+3 -3
+#30606
+lancia cavaliere nero~
+La Lancia del Cavaliere Nero~
+La Lancia del Cavaliere Nero e' qui' che sta facendo la ruggine.~
+~
+5 49730 8193
+0 3 3 7 70 70
+10 200 0 4 0 0
+#30607
+lancia cavaliere bianco~
+La Lancia del Cavaliere Bianco~
+La Lancia del Cavaliere Bianco e' qui' che sta facendo la ruggine.~
+~
+5 33858 8193
+0 3 3 7 70 70
+10 200 0 6 0 0
+#30608
+staff alfiere nero~
+La Staff dell'Alfiere Nero~
+La Staff dell'Alfiere Nero giace sul terreno.~
+~
+2 577 16385
+99 17 93 33 70 70
+3 200 0 0 0 0
+#30609
+staff alfiere bianco~
+La Staff dell'Alfiere Bianco~
+La Staff dell'Alfiere Bianco giace sul terreno.~
+~
+2 1089 16385
+99 17 93 33 70 70
+3 200 0 0 0 0
+#30610
+corona regina nera~
+La Corona della Regina Nera~
+La Corona della Regina Nera e' qui, abbandonata negligentemente sul terreno.~
+~
+9 1098306 17
+2 0 0 0 70 70
+4 300 0 5 0 0
+A
+4 1
+A
+5 -1
+#30611
+corona regina bianca~
+La Corona della Regina Bianca~
+La Corona della Regina Bianca e' qui, abbandonata negligentemente sul terreno.~
+~
+9 1098818 17
+2 0 0 0 70 70
+4 300 0 5 0 0
+A
+4 1
+A
+5 -1
+#30612
+scettro re nero~
+Lo Scettro del Re Nero~
+Lo Scettro del Re Nero e' qui a raccogliere polvere.~
+~
+8 1061442 16385
+0 0 0 0 70 70
+2 300 0 6 0 0
+A
+18 1
+#30613
+scettro re bianco~
+Lo Scettro del Re Bianco~
+Lo Scettro del Re Bianco e' qui a raccogliere polvere.~
+~
+8 1061954 16385
+0 0 0 0 70 70
+3 300 0 6 0 0
+A
+18 1
+#30614
+chiave tesoreria reale nera~
+La Chiave della Tesoreria Reale Nera~
+C'e' una sinistra chiave nera qui.~
+~
+18 65548 16385
+3614 0 0 0 70 70
+1 0 0 0 0 0
+#30615
+chiave tesoreria reale bianca~
+La Chiave della Tesoreria Reale Bianca~
+C'e' una luminosa chiave bianca qui.~
+~
+18 65548 16385
+3615 0 0 0 70 70
+1 0 0 0 0 0
+#30616
+coins gold moneta monete nera tesoreria reale~
+Il Tesoro della Corte Nera~
+Ci sono un MUCCHIO di monete qui.~
+~
+20 0 1
+10 0 0 0 100 100
+10 10 0 0 0 0
+#30617
+coins gold moneta monete bianca tesoreria reale~
+Il Tesoro della Corte Bianca~
+Ci sono un MUCCHIO di monete qui.~
+~
+20 0 1
+10 0 0 0 100 100
+10 10 0 0 0 0
+#30659
+biglietto svolazzante~
+Il volantino del Kayah~
+Un leggero biglietto di carta azzurra svolazza nell'aria~
+~
+16 0 1
+0 0 0 0 1 1
+1 0 0 0 0 0
+E
+leggi biglietto~
+&5MERCANTI E POPOLO DELLA DARESIA!!!&0
+&7E' con estremo piacere che vi comunico la prossima apertura del Kayah, il
+mercato della serenita'!!!  Il luogo dove tutti voi, grandi e piccini, possono
+vendere qualsiasi tipo di merce, di valore o meno, viva o non viva, fresca o
+scaduta!  La fiera aprira' ad ogni luna nuova, e ci sara' spazio per voi tutti!
+Il grande mercato e' stato costruito con dispendio di forze e denaro per
+garantire l'estrema neutralita', pace e sicurezza, quindi non abbiate timori!
+Per accedervi vi bastera' seguire il cammino per Jiroch finche' non ne vedrete
+gli alti padiglioni!  Non mancate al grande Kayah, il mercato dove tutto
+trovate tranne l'odio!  Vi aspettiamo numerosissimi!    
+
+Sinceramente vostro,
+&1Abenad a'Mustafeh&0
+~
+#30670
+targa benvenuto~
+la targa del benvenuto~
+La targa del benvenuto ti accoglie con le informazioni sul mercato!~
+~
+0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+E
+guarda targa~
+&7BENVENUTI A KAYAH, MERCATO DELLA SERENITA'!!&0
+&x&5Il mercato apre ogni Domenica, dalle ore 21 alle ore 24.  Qui regna la
+pace, e la guerra si combatte a urli e trattative.  Non picchiare chi fa prezzi
+piu' bassi, prendilo a pesci in faccia.  E se sei un ladro stattene fuori, non
+c'e' aria per te!!  Si raccomanda l'ordine e la puntualita'.    
+&0
+~
+#30671
+chiave~
+la chiave del mercato~
+La chiave del mercato Kayah e' qui in terra~
+~
+18 0 1
+0 0 0 0 10 10
+1 0 0 0 0 0
+$~

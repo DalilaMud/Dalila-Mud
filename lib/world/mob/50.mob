@@ -1,0 +1,267 @@
+#5000
+dervish raggity~
+the dervish~
+A raggity dervish walks on aimlessly.
+~
+Dressed in loose fitting rags, this man looks like he could use some rest.
+~
+~
+~
+~
+204 786432 900 -1 -1 -1 -1 -1 E
+5 15 5 1d10+60 2d4+0
+3 5000
+8 8 1
+E
+#5001
+dervish large~
+the dervish~
+A large dervish watches for signs of trouble.
+~
+Dressed in loose fitting rags, this man looks like he could use LOTS of
+rest.
+~
+~
+~
+~
+104 786432 650 -1 -1 -1 -1 -1 E
+8 12 3 2d6+100 2d6+1
+8 7000
+8 8 1
+E
+#5002
+snake coral~
+the coral snake~
+A brightly colored snake slithers along the sands.
+~
+This relatively harmless snake has bright alternating bands of red, yellow
+and black.
+~
+~
+~
+~
+72 0 -10 -1 -1 -1 -1 -1 E
+4 17 4 1d6+40 1d9+0
+3 4600
+8 8 0
+E
+#5003
+scorpion small~
+the small scorpion~
+A small, red scorpion scuttles away at your approach.
+~
+The little tail is mighty dangerous for such a small creature.
+~
+~
+~
+~
+73 0 -50 -1 -1 -1 -1 -1 E
+3 17 1 1d6+40 1d8+0
+2 3500
+8 8 1
+Spec: 13
+E
+#5004
+worm giant purple~
+the sand worm~
+A giant, purple sand worm thrusts up out of the sand and attacks!
+~
+He's big, mean, and purple.  Watch out!
+~
+~
+~
+~
+165947 1064 -300 -1 -1 -1 -1 -1 E
+40 -4 -5 6d10+750 4d12+14
+36 900000
+8 8 0
+E
+#5005
+dragon brass~
+the brass dragon~
+A very large brass dragon steps out of the darkness and says 'Hello.'
+~
+Then adds to it, 'Prepare to die, have a nice day!'
+~
+~
+~
+~
+65595 33928 -700 -1 -1 -1 -1 -1 E
+40 -5 -5 15d10+750 4d10+16
+28 1350000
+8 8 2
+E
+#5006
+nomad leader~
+the nomad leader~
+The nomad leader sits silently in prayer.
+~
+He is clad in silk robes lined with gold thread. At his side is a large,
+engraved cutlass.  He has an especially haughty air about him.
+~
+~
+~
+~
+280714 8 950 -1 -1 -1 -1 -1 E
+14 7 0 2d6+170 2d8+5
+12 55000
+6 6 1
+E
+#5007
+nomad commander~
+the nomad commander~
+The nomad commander stands here staring at you suspiciously.
+~
+This is the nomad leader's second in command.  His clothes are richly woven
+of silk and gold thread.  A nasty cutlass hangs at his side.
+~
+~
+~
+~
+280714 0 900 -1 -1 -1 -1 -1 E
+12 0 -10 2d6+400 2d10+10
+8 60000
+8 8 1
+E
+#5008
+nomad warrior~
+the nomad warrior~
+A proud nomad warrior stands here.
+~
+This warrior is dressed in typical nomad clothing and looks quite mean.
+~
+~
+~
+~
+10 0 700 -1 -1 -1 -1 -1 E
+10 11 2 1d6+105 2d6+1
+8 20000
+8 8 1
+E
+#5009
+slave young~
+the slave~
+A young slave sits here staring at you with pleading eyes.
+~
+She looks quite thin and weak.
+~
+~
+~
+~
+138 0 1000 -1 -1 -1 -1 -1 E
+3 18 9 1d4+25 1d5+0
+2 1300
+5 5 2
+E
+#5010
+dracolich lich~
+the dracolich~
+A pile of bones rises up to form a skeletal dracolich.
+~
+The dracolich is now only bone with pieces of flesh hanging from it.
+Obviously it no longer fears death.
+~
+~
+~
+~
+124987 33962 -1000 -1 -1 -1 -1 -1 E
+47 -8 -7 7d10+800 5d9+29
+46 2125000
+8 8 0
+E
+#5011
+drider~
+the drider~
+The drider looks at you viciously while it draws its sword.
+~
+This half-spider, half-drow creature is a formidable opponent.
+~
+~
+~
+~
+105 33800 -1000 -1 -1 -1 -1 -1 E
+8 12 2 1d6+95 2d6+2
+6 14000
+8 8 0
+E
+#5012
+duergar dark dwarf~
+the dark dwarf~
+A duergar is here mining precious stones with his pick.
+~
+The duergar could probably crush your head as easily as he does those
+rocks.
+~
+~
+~
+~
+104 33800 -850 -1 -1 -1 -1 -1 E
+5 16 3 1d11+60 2d5+1
+3 3250
+8 8 1
+E
+#5013
+myconoid~
+the myconoid~
+A myconoid lumbers along peacefully.
+~
+The myconoid looks something like a giant mushroom (and probably has the
+same effect).
+~
+~
+~
+~
+200 1032 850 -1 -1 -1 -1 -1 E
+6 15 4 1d12+68 2d7+0
+5 3600
+8 8 1
+E
+#5014
+myconoid shaman~
+the myconoid shaman~
+A rather large myconoid stands here chanting in a strange tongue.
+~
+The shaman shoots spores into the air.
+~
+~
+~
+~
+2349 1160 950 -1 -1 -1 -1 -1 E
+14 -4 1 1d12+400 2d9+10
+8 58000
+8 8 1
+E
+#5015
+dustdigger oasis~
+the dustdigger~
+A small oasis invites you to dive in.
+~
+Looking a little closer at this oasis, you begin to wonder why
+it seems to be moving about...
+~
+~
+~
+~
+196654 0 -200 -1 -1 -1 -1 -1 E
+7 10 1 1d6+85 3d4+0
+6 12250
+8 8 0
+E
+#5017
+camel~
+the camel~
+A very dangerous creature, a camel, snorts at you.
+~
+It is advisable not to mess with this creature.  After all, you
+have heard many a horror story about experiences with camels.
+Bad experiences.
+~
+~
+~
+~
+65578 0 -351 -1 -1 -1 -1 -1 E
+5 12 6 1d6+60 2d4+3
+4 4900
+8 8 0
+E
+$

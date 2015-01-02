@@ -1,0 +1,19 @@
+trigedit 6613
+6  
+/c 
+* Lista comandi
+   if %speech% == devo entrare
+if %actor.clan% == 6 && %actor.rank% >= 21
+wait 2 s
+wsend %actor.name% Ad un tuo cenno una guardia ti fa entrare
+wait 2 s
+wteleport %actor.name% 6813
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,25 @@
+trigedit 1356
+6  
+/c 
+* Lista comandi
+wait 1 s
+emo si guarda attorno furtivamente...
+wait 1 s
+say Ehi, amico, guarda qua che bestie di prima qualita'...
+wait 1
+if %dracolich% > 0
+ wait 1 s
+ say dammi 5000 monete, e questo splendido dracolich sara' disponibile, solo per te! E' un'occasione rara trovare una simile bestia domata in vendita!
+end
+if %cammelli% > 0
+ wait 1 s
+ say Se proprio non hai voglia di spendere ti posso sempre dare uno di questi cammelli per sole 2000 monete...
+end
+wait 2 s
+say La consegna viene effettuata a pagamento avvenuto...
+wait 1 s
+emo ti guarda biecamente...
+~
+/s
+q
+y

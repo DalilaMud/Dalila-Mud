@@ -1,0 +1,10 @@
+trigedit 6703
+6  
+/c 
+* Lista comandi
+wait 1 s
+say &x&4 Salve Nobile %actor.name% ,cosa desidera oggi? &0
+~
+/s
+q
+y

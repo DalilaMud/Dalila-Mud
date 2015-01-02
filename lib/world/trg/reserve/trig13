@@ -1,0 +1,57 @@
+trigedit 13
+6  
+/c 
+if %actor.level% > 74 && %actor.vnum% == -1
+  if %speech% /= ufficio
+    set %speech%
+    global ufficio
+    say Il mio ufficio e' nella stanza %ufficio%
+  end  
+  if %speech% /= numero_guardie
+    set %speech%
+    global numero_guardie
+    say Numero massimo di guardie disponibili %numero_guardie%
+  end 
+  if %speech% /= vnum_guardie
+    set %speech%
+    global vnum_guardie
+    say le mie guardie hanno il vnum %vnum_guardie%
+  end    
+  if %speech% /= caserma
+    set %speech%
+    global caserma
+    say La ronda si riunisce nella stanza %caserma%
+  end
+  if %speech% /= cella
+    set %speech%
+    global cella
+    say I Prigionieri saranno chiusi nella stanza %cella%
+  end     
+  if %speech% /= regno
+    set %speech%
+    global regno
+    if %regno% == aldaria
+      set regno_id 5
+    elseif %regno% == sendaria
+      set regno_id 6
+    elseif %regno% == elenia
+      set regno_id 2
+    elseif %regno% == tolnedra
+      set regno_id 3
+    else
+      say Non conosco questo Regno
+      unset regno
+      unset regno_id
+    end
+   
+    if %regno%
+      say Serviro' %regno% fino alla morte. 
+      global regno_id
+    end
+  end
+    
+end
+~
+/s
+q
+y

@@ -1,0 +1,22 @@
+trigedit 2524
+6  
+/c 
+* Lista comandi
+if %arg% == c || %arg% == ca || %arg% == can || %arg% == canc || %arg% == cance || %arg% == cancel || %arg% == cancell || %arg% == cancella || %arg% == cancellat || %arg% == cancellata
+wait 16 s
+wsend %actor.name% &1&xGli arcieri sopra le mura si accorgono del tuo tentativo di forzare la cancellata!&0
+wait 1
+wsend %actor.name% &1&xUn nugolo di freccie si dirige verso di te!&0
+eval danno %random.300%
+%damage% %actor.name% %danno%
+wait 1
+wsend %actor.name% &1&xTi stanno riducendo un puntaspilli!&0
+wechoaround %actor.name% &1&x%actor.name% viene colpito da un nugolo di freccie!&0
+else
+wait 1 s
+halt
+end
+~
+/s
+q
+y

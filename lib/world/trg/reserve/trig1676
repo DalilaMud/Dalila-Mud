@@ -1,0 +1,12 @@
+trigedit 1676
+6  
+/c 
+* Lista comandi
+mecho &3&xAlla morte del Gremlin, altri due ne rinascono dal suo corpo!&0
+mload mob 522
+mload mob 522
+return 0
+~
+/s
+q
+y

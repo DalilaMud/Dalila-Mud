@@ -1,0 +1,26 @@
+trigedit 2597
+6  
+/c 
+* Lista comandi
+if %caricato% != on
+if %actor.name% == erestor
+set caricato on
+global caricato
+wait 1 s
+osend %actor.name% Porti alla bocca il flauto e suoni uno strano motivetto
+oechoaround Erestor suona una strano motivetto col flauto.
+wait 1 s
+oforce %actor.name% shout Fungo, a me!
+wait 2 s
+oecho &1A&7m&1a&7n&1i&7t&1o&0 spunta dal terreno e inizia a seguire il suo padrone
+wait 1 s
+oload mob 820
+oforce amanito foll erestor
+else
+end
+else
+end
+~
+/s
+q
+y

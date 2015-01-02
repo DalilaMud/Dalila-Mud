@@ -1,0 +1,733 @@
+#1200
+innkeeper~
+the Immortal Innkeeper~
+The Immortal Innkeeper is organizing her books here.
+~
+She appears to be having no problem tallying things up.
+~
+~
+~
+~
+11 32768 0 -1 -1 -1 -1 -1 E
+50 0 -9 50d10+880 5d8+19
+50 0
+8 8 2
+Spec: 2
+E
+#1201
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+~
+~
+~
+11 32768 0 -1 -1 -1 -1 -1 E
+50 0 -9 50d10+880 5d8+19
+39 0
+8 8 2
+Spec: 1
+E
+#1202
+being amorphous spirit wandering~
+the wandering spirit~
+A strange amorphous being wanders these halls eternally cleaning.
+~
+This spirit, having lived out its days in the mortal world, now
+works off its final sins by doing menial labour in this realm's
+purgatory.  In this case, those chores seem to be cleaning up
+after the immortals of the land.
+~
+~
+~
+~
+65612 295944 0 -1 -1 -1 -1 -1 E
+50 0 10 50d10+880 5d8+19
+42 0
+8 8 0
+E
+#1203
+zombie~
+uno zombie~
+Uno zombie e' qui
+~
+Non e' un bello spettacolo, una carcassa umana vagante e inespressiva.  Ma in
+fondo hai visto di peggio, e questa creatura sottoposta alla magia alla tua
+vista non oltrepassa la soglia del ribrezzo.    
+~
+~
+~
+~
+536870922 0 0 -1 -1 -1 -1 -1 E
+6 16 10 2d7+25 1d4+0
+6 6600
+8 8 0
+E
+T 1387
+#1204
+2sec minotauro~
+Un minotauro~
+un Minotauro e' qui
+~
+Sarebbe un uomo alto e massiccio, se non fosse per l'enorme testa di toro dalle
+corna aguzze.  E' robusto e un po' goffo, ma probabilmente anche molto cattivo.
+E lottera' per lo stregone che lo ha evocato fino alla morte!    
+~
+~
+~
+~
+536870922 0 0 -1 -1 -1 -1 -1 E
+14 14 0 2d10+70 1d12+5
+12 15000
+8 8 1
+Str: 14
+Con: 15
+E
+#1205
+troll~
+un troll~
+Un troll minore e' al servizio del mago che lo ha evocato!
+~
+Questa particolare razza di troll vive nel secondo piano materiale, ed e'
+richiamata dall'incantesimo di potenti maghi che lo utilizzano come familiare.
+E' un umanoide alto un paio di metri, lento ma robusto, che probabilmente
+lotterebbe fino alla morte per la causa del suo padrone.    
+~
+~
+~
+~
+536870922 0 0 -1 -1 -1 -1 -1 E
+15 10 0 3d9+130 2d10+3
+14 16000
+8 8 1
+BareHandAttack: 13
+E
+T 1389
+#1206
+draghetto rosso 1secret~
+un draghetto rosso~
+Un draghetto rosso e' qui al servizio del suo padrone!
+~
+Il draghetto, simile ad un esemplare in miniatura dei mitici draghi rossi della
+leggenda, e' un animale estremamente intelligente nonostante la mole.  
+Probabilmente non disubbidirebbe mai l'ordine del suo padrone, e i suoi grandi
+occhi intelligenti sembrano simbolizzare la sua estrema devozione al potente
+mago che lo ha evocato
+~
+~
+~
+~
+545259530 0 0 -1 -1 -1 -1 -1 E
+15 6 -5 3d9+220 3d6+4
+12 20000
+8 8 1
+BareHandAttack: 4
+E
+T 1390
+#1207
+Barbarossa~
+Barbarossa lo svitato e' qui che farnetica.~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+9 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#1208
+athor~
+Athor l'oracolo dei boschi~
+Athor l'oracolo dei boschi e' qui che farnetica.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+50 20 10 1d1+0 1d1+0
+26 0
+8 8 1
+E
+#1209
+luther~
+Luther il bandito dall'occhio guercio ti salta alla gola.~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 1
+E
+#1210
+lynn~
+Lynn, la donna del bandito Luther, e' qui che ti ammicca.~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 2
+E
+#1211
+krayus~
+Krayus, il capo dei banditi, ti osserva con occhio torvo.~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 1
+E
+#1240
+questmaster francesca~
+Francesca la QuestMaster~
+Francesca la QuestMaster e' qui che ti scruta.
+~
+Molto bella, e conosciuta in tutta la Daresia per le sue quest.
+~
+~
+~
+~
+1048586 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+E
+#1241
+anima perduta elmina~
+l'anima perduta di Elmina~
+L'anima perduta di Elmina volteggia qui.
+~
+Ha le sembianze di una dolce fanciulla.
+Lunghi capelli e profondi occhi.
+~
+~
+~
+~
+4398046750872 2199157736552 -300 -1 -1 -1 -1 -1 E
+15 17 10 15d8+200 3d10+10
+13 100
+8 8 1
+Spec: 15
+E
+T 1241
+#1242
+cavaliere xanar~
+un Cavaliere dell'ordine di Xanar~
+Un Cavaliere dell'ordine di Xanar e qui' per vendetta.
+~
+La sua armatura completa ti abbaglia.
+~
+~
+~
+~
+4698300 137590211624 8 -1 -1 -1 -1 -1 E
+45 20 -8 30d12+250 5d12+0
+24 0
+8 8 1
+BareHandAttack: 3
+E
+#1250
+Orso~
+Un piccolo orso~
+Un piccolo orso dal pelo setoso gratta un grande tronco!
+~
+E' un orso grigio di piccola taglia, di solito pacifico ma incuriosito dagli
+uomini...  Vive sulle colline e raramente attacca piccoli animali, sebbene sia
+onnivoro.    
+~
+~
+~
+~
+262220 0 0 -1 -1 -1 -1 -1 E
+7 13 6 1d1+60 2d4+2
+6 7000
+8 8 1
+E
+#1251
+drago dorato~
+Un drago &3dorato&0~
+Un drago dorato
+~
+Un drago dorato
+~
+~
+~
+~
+8648908824 4195368 0 -1 -1 -1 -1 -1 E
+90 -4 -9 1d1+2100 4d17+22
+46 0
+8 8 0
+Spec: 27
+E
+#1252
+attila barbaro~
+&1&xAttila il flagello degli DEI!&0~
+&1&x Attila il flagello degli DEI e' qui pronto a portare morte e distruzione.&0
+~
+Si narra che sia feroce e senza cuore.
+~
+~
+~
+~
+10737426446 4810413704320 -100 -1 -1 -1 -1 -1 E
+60 16 -8 30d30+500 5d10+4
+60 0
+8 8 1
+BareHandAttack: 5
+E
+#1253
+barbaro nord~
+un barbaro del nord del clan di Attila~
+Un barbaro del nord del clan di Attila e' qui che fa razzia.
+~
+Uccide senza pieta'
+~
+~
+~
+~
+8590196780 4398046512128 -30 -1 -1 -1 -1 -1 E
+10 19 10 10d12+30 2d6+1
+8 0
+8 8 1
+BareHandAttack: 5
+E
+#1254
+barbaro stregone~
+un barbaro stregone~
+Un barbaro stregone e' qui pronto ad ucciderti.
+~
+Veramente Cattivo!
+~
+~
+~
+~
+8590198828 275045680184 -29 -1 -1 -1 -1 -1 E
+5 19 5 10d20+100 1d20+1
+3 0
+8 8 1
+BareHandAttack: 12
+E
+#1255
+barbaro assassino~
+Un barbaro assassino~
+Un barbaro assassino e' qui per ucciderti
+~
+It looks unfinished.
+~
+~
+~
+~
+2251801961433132 72090624 -100 -1 -1 -1 -1 -1 E
+55 15 -8 30d10+600 9d20+10
+38 0
+8 8 1
+BareHandAttack: 5
+E
+#1270
+mob~
+mob~
+riutilizzatemi
+~
+Nothing.
+~
+~
+~
+~
+254106 2199065232476 0 -1 -1 -1 -1 -1 E
+100 -30 -10 30d100+0 30d100+50
+77 0
+8 8 0
+E
+#1271
+mob~
+mob~
+riutilizzatemi
+~
+Nothing.
+~
+~
+~
+~
+254106 8389728 0 -1 -1 -1 -1 -1 E
+100 -30 -10 30d100+0 30d100+50
+82 0
+8 8 0
+E
+#1272
+mob~
+mob da riutilizzare~
+riutlizz
+~
+Nothing.
+~
+~
+~
+~
+41112 32868 100 -1 -1 -1 -1 -1 E
+100 -30 -10 30d100+0 30d100+50
+58 0
+8 8 1
+E
+#1280
+esercito bretoni~
+L'ESERCITO DEI BRETONI~
+L'ESERCITO DEI BRETONI
+~
+L'ESERCITO DEI BRETONI
+Mossi dalla guerra che sta per sconvolgere tutto il mondo, girano comandati dal loro
+leader di sempre, King Welmar!
+~
+~
+~
+~
+260190 67109948 500 -1 -1 -1 -1 -1 E
+50 -30 -10 1d1+30000 30d50+50
+32 10000000
+8 8 0
+BareHandAttack: 6
+E
+#1281
+King Welmar~
+King Welmar~
+King Welmar, in armatura.
+~
+King Welmar, in armatura.
+~
+~
+~
+~
+256078 50332812 1000 -1 -1 -1 -1 -1 E
+45 -10 -7 1d1+3000 4d8+25
+33 450000
+8 8 0
+E
+T 1280
+T 1272
+T 1275
+T 1251
+T 1255
+T 1258
+#1282
+scorta~
+La scorta di Welmar~
+La scorta di Welmar
+~
+La scorta di Welmar
+~
+~
+~
+~
+256030 0 1000 -1 -1 -1 -1 -1 E
+20 -4 -6 1d1+2000 2d10+10
+13 150000
+8 8 0
+BareHandAttack: 3
+E
+#1283
+scorta~
+La scorta di Kharas~
+La scorta di Kharas
+~
+La scorta di Kharas
+~
+~
+~
+~
+253982 0 500 -1 -1 -1 -1 -1 E
+20 -4 -6 1d1+2000 2d10+10
+14 0
+8 8 0
+BareHandAttack: 3
+E
+#1284
+nebbia~
+Della Nebbia~
+Della Nebbia e' nell'aria
+~
+La scorta di Gilthanas
+~
+~
+~
+~
+256026 0 1000 -1 -1 -1 -1 -1 E
+100 -5 -7 1d1+30000 2d10+10
+77 150000
+8 8 0
+BareHandAttack: 3
+E
+T 1209
+#1285
+nebbia~
+La strana nebbia~
+Una strana nebbia argentata fluttua in questo luogo eterno
+~
+   La nebbia mistica, essa plasmo' in tempi remoti gli dei, cosi' come piu'
+tardi essi plasmarono i mortali.  Tutto, presente, passato, futuro, e' scritto
+in questa foschia, ma anche un entita' perfetta non potrebbe decifrare che una
+parte infinitesima del suo immenso sapere.    
+~
+~
+~
+~
+253978 1084 500 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 1d30+50
+92 450000
+8 8 0
+BareHandAttack: 3
+E
+T 1205
+T 1203
+T 1204
+T 1206
+T 1207
+#1286
+guardia corpo scorta~
+La guardia del corpo~
+La guardia del corpo
+~
+La guardia del corpo
+~
+~
+~
+~
+194574 0 0 -1 -1 -1 -1 -1 E
+30 -3 -4 1d1+600 2d7+6
+21 150000
+8 8 0
+BareHandAttack: 3
+E
+#1287
+qui~
+Una vaga immagine del limbo~
+Una vaga immagine del limbo
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+30000 1d1+0
+0 0
+8 8 0
+E
+#1288
+barbaro guerriero~
+un barbaro guerriero~
+Un Barbaro Guerriero e' qui che ti scruta.
+~
+Quando lo guardi le tue ossa rabbrividiscono dal
+terrore. La sua pelle viscida e scura emana un odore
+nauseabondo. Sicuramente e' uno degli esseri con cui Chardhros 
+si accompagna nelle sue apparizzioni in Daresia.
+Forse sara' meglio scappare alposto di stare qui a guardarlo.
+~
+~
+~
+~
+2251808403964012 1056 -1000 -1 -1 -1 -1 -1 E
+45 15 -8 0d1+800 5d8+13
+43 3000
+8 8 1
+BareHandAttack: 3
+E
+#1290
+goblin soldato~
+un soldato goblin~
+Un soldato goblin.
+~
+La sua armatura ammaccata e' coperta da simboli arcani, la sua spada e il suo scudo
+risalgono a 3 secoli fa. Il suo tetro aspetto ti ha paralizzato, il panico ti impedisce
+di fare qualunque cosa ormai.
+~
+~
+~
+~
+159802 16819200 -1000 -1 -1 -1 -1 -1 E
+5 16 -10 1d1+50 1d5+2
+4 10000
+8 8 0
+BareHandAttack: 3
+E
+T 1290
+#1291
+commando goblin~
+un commando goblin~
+Un commando goblin.
+~
+Tremi all'idea di affrontare lui e la sua armata.
+~
+~
+~
+~
+192570 16819200 -1000 -1 -1 -1 -1 -1 E
+10 14 -10 1d1+100 1d8+3
+9 150000
+8 8 0
+E
+T 1290
+#1292
+goblin cavaliere~
+un goblin cavaliere~
+Un goblin cavaliere.
+~
+Nothing.
+~
+~
+~
+~
+258106 16819200 -1000 -1 -1 -1 -1 -1 E
+18 12 -10 1d1+150 2d5+4
+13 450000
+8 8 0
+BareHandAttack: 6
+E
+T 1290
+#1293
+goblin comandante~
+un goblin comandante~
+Un goblin comandante.
+~
+Nothing.
+~
+~
+~
+~
+192570 46080 -1000 -1 -1 -1 -1 -1 E
+25 13 -10 1d1+250 2d7+7
+23 10000
+8 8 0
+E
+#1294
+goblin generale~
+il generale goblin~
+Il Generale goblin.
+~
+Nothing.
+~
+~
+~
+~
+127002 16823328 -700 -1 -1 -1 -1 -1 E
+35 2 -10 1d1+1000 2d11+10
+19 150000
+8 8 0
+BareHandAttack: 7
+Spec: 16
+E
+#1295
+armatura vuota fantasma~
+Un'antica armatura Vuota~
+Un'antica armatura Vuota
+~
+Un'antica armatura Vuota, un fantasma!!!
+~
+~
+~
+~
+260126 33820 -1000 -1 -1 -1 -1 -1 E
+30 0 -7 1d1+3000 2d10+11
+21 450000
+8 8 0
+BareHandAttack: 6
+E
+T 1295
+#1296
+Esercito elfi~
+L'ESERCITO DEGLI ELFI~
+L'ESERCITO DEGLI ELFI
+~
+L'ESERCITO DEGLI ELFI, non hai mai visto tanti membri della stessa razza riuniti in
+cosi' poco spazio, al di fuori dei propri confini per di piu'!
+Una mossa sbagliata, e la tua vita verra' stroncata in men che non si dica.
+~
+~
+~
+~
+258126 83887132 700 -1 -1 -1 -1 -1 E
+50 -30 0 1d1+30000 30d50+50
+40 100000000
+8 8 0
+E
+#1297
+Gilthanas~
+Gilthanas~
+Gilthanas, il Comandante Elfico
+~
+Gilthanas, il Comandante Elfico, forgiato da fuoco di mille battaglie, e' ora qua,
+disposto a dare la propria vita per difendere l'onore della propria patria.
+~
+~
+~
+~
+256094 16798876 900 -1 -1 -1 -1 -1 E
+50 -10 -8 1d1+3000 4d10+30
+42 0
+8 8 0
+E
+T 1280
+T 1271
+T 1277
+T 1253
+T 1257
+T 1260
+#1298
+Khukharnak drago dorato~
+Khukharnak Il Drago &3Dorato&0~
+Khukharnak Il Drago &3Dorato&0 e' qui
+~
+   Hai di fronte il piu' grosso Drago che tu abbia mai visto!  Rimani
+abbagliato e stordito dalle sue lucenti scaglie dorate.  In pochi attimi
+capisci che la furia di una cosi' potente creatura potrebbe annientare chiunque
+in ben poco tempo.  Non sei affatto curioso di scoprire come...    
+~
+~
+~
+~
+8648910878 1084 0 -1 -1 -1 -1 -1 E
+70 -5 -8 1d1+1600 30d50+18
+69 1
+8 8 0
+BareHandAttack: 4
+E
+#1299
+babbo natale~
+&7Babbo Natale&0~
+&7Babbo Natale e' qui&0
+~
+Nothing.
+~
+~
+~
+~
+247838 188 200 -1 -1 -1 -1 -1 E
+50 -10 -7 1d1+3200 4d8+25
+29 3000000
+8 8 0
+BareHandAttack: 3
+E
+$

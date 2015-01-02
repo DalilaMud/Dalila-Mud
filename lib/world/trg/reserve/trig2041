@@ -1,0 +1,15 @@
+trigedit 2041
+6  
+/c 
+if %give% == 1
+halt
+end
+wait 1 s
+oecho &9&xAl tuo tocco la mazza si spezza in due parti ormai inutilizzabili&0
+set give 1
+global give
+otransform 2054
+~
+/s
+q
+y

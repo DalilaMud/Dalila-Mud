@@ -1,0 +1,545 @@
+#18500
+kjodan guardiano~
+Kjodan il Guardiano~
+Kjodan il guardiano del cimitero odia essere disturbato
+~
+Vedi un piccolo uomo deforme, la sua faccia e' semi decomposta, come se fosse stato
+colpito da un getto d'acido. Tiene in mano una vecchia pentola, che usa come arma.
+Le sue braccia sono sproporzionatamente lungo rispetto al resto del corpo.
+~
+~
+~
+~
+8238 33563648 -300 -1 -1 -1 -1 -1 E
+33 9 -1 1d1+449 2d12+5
+23 0
+8 8 1
+BareHandAttack: 7
+E
+#18501
+barone Hans zombie~
+Il barone Hans~
+Lo zombie del Barone Hans e' qua che si dispera, distruggendo ogni cosa
+~
+Quello che una volta era un valoroso guerriero e' ora ridotto a uno zombie semicosciente
+La sua pazzia e' probabilmente causata dal dolore e dalla vergogna della sua sconfitta.
+Fossi in te non mi avvicenerei troppo
+~
+~
+~
+~
+141338 67109888 0 -1 -1 -1 -1 -1 E
+45 7 -4 1d1+599 3d8+7
+38 0
+8 8 1
+E
+#18502
+poltergeist~
+Un Poltergeist~
+Un Poltergeist sta animando gli oggetti !
+~
+E' una strana sfera di luce ectoplasmatica. Ogni tanto emana dei raggi e gli oggetti
+colpiti prendono vita.
+~
+~
+~
+~
+107018 9262 -500 -1 -1 -1 -1 -1 E
+35 9 -1 1d1+449 2d12+5
+28 0
+8 8 0
+E
+#18503
+coltellaccio vecchio~
+Un vecchio coltellaccio animato~
+Un vecchio coltellaccio animato ti attacca !!!
+~
+Sembrerebbe un normale e vecchio coltello arruginito.. ma sembra vivo !
+~
+~
+~
+~
+254010 268436520 0 -1 -1 -1 -1 -1 E
+25 12 4 1d1+249 2d8+3
+13 0
+8 8 0
+BareHandAttack: 1
+E
+#18504
+vecchia sedia~
+Una vecchia sedia~
+Una vecchia sedia si alza da terra e ti si lancia addosso !
+~
+Sembra una vecchia sedia, probabilmente usata dal guardiano del cimitero.
+Non hai idea del perche' sia animata !
+~
+~
+~
+~
+254010 33555496 0 -1 -1 -1 -1 -1 E
+25 12 4 1d1+249 2d8+3
+15 0
+8 8 0
+E
+#18505
+mujina~
+Un Mujina~
+Un Mujina, il nonmorto senza volto, sta osservando la sua collezione di ossa umane
+~
+Non provare a guardare la sua faccia , non provarci !!!
+Si dice che incuta timore a chiunque, e molti avventurieri sono impazziti dopo aver
+incontrato un mujina !
+~
+~
+~
+~
+25102 17826848 -100 -1 -1 -1 -1 -1 E
+38 8 -3 1d1+419 2d12+6
+25 0
+8 8 1
+E
+#18506
+scheletro~
+Uno scheletro~
+Uno scheletro e' davanti all'ossario
+~
+E' un semplice scheletro animato, un nonmorto molto comune.
+~
+~
+~
+~
+32810 16778240 -200 -1 -1 -1 -1 -1 E
+28 11 1 1d1+369 2d10+4
+26 0
+8 8 0
+BareHandAttack: 10
+E
+#18507
+serpente~
+Un serpente di Rasheen~
+Un piccolo serpente ti coglie di sorpresa !
+~
+E' un serpente rosso lungo circa 1 metro, e' solito nascondersi in buchi per attaccare
+le sue vittime di sorpresa.
+Non sai se e' anche velenoso
+~
+~
+~
+~
+213051 787488 0 -1 -1 -1 -1 -1 E
+22 12 4 1d1+249 2d8+3
+13 0
+8 8 0
+BareHandAttack: 4
+Spec: 13
+E
+#18508
+serpente palude~
+Il Serpente della palude~
+Un gigantesco serpente e' in attesa della sua preda
+~
+E' una specie di anaconda, che pero' ha fatto della palude il suo habitat naturale.
+~
+~
+~
+~
+65595 25166912 -100 -1 -1 -1 -1 -1 E
+38 8 -3 1d1+539 2d12+6
+31 0
+8 8 1
+BareHandAttack: 4
+Spec: 13
+E
+#18509
+fantasma maledetto~
+Il fantasma maledetto~
+Un fantasma di un' anima che non puo' riposare e' qua in cerca di vendetta
+~
+Vedi una forma eterea, quasi trasparente. E' un uomo molto giovane, con il cranio
+scoperchiato e alcune frecce piantate in una gamba
+~
+~
+~
+~
+172042 132266 -250 -1 -1 -1 -1 -1 E
+35 9 -1 1d1+449 2d12+5
+30 0
+8 8 1
+E
+#18510
+odic albero~
+L' Odic~
+Un albero e' avvolto da una luce purpurea che anima le sue foglie.
+~
+Quella luce... e' come se ti stesse chiamando, non sai quanto ancora potrai resistere
+al fascino di questa creatura.
+~
+~
+~
+~
+260122 67150880 -300 -1 -1 -1 -1 -1 E
+40 8 -3 1d1+539 2d12+6
+38 0
+8 8 0
+BareHandAttack: 2
+E
+#18511
+Lisa bambina Bendor~
+Lisa~
+Lisa, la giovane figlia della famiglia Bendor, sta giocando qua
+~
+Sembra lo spettro di una bambina di 8 anni.
+E' vestita con abiti costosi, il suo comportamento e' alquanto strano, alterna riso e
+pianto senza nessun motivo apparente
+~
+~
+~
+~
+8396 1152 300 -1 -1 -1 -1 -1 E
+28 11 1 1d1+369 2d10+4
+28 0
+8 8 2
+E
+#18512
+Matthew ragazzo Bendor~
+Matthew~
+Matthew, il promettente primogenito della famiglia e' qua
+~
+Lo spettro di Matthew ti fa pensare a quello che in vita poteva essere un aspirante
+diplomatico o giudice.
+Il modo di fare, la carnagione pallida di chi studia molto e altri piccoli particolari
+ti fanno pensare che in vita doveva essere un ottimo studente.
+~
+~
+~
+~
+14408 263176 0 -1 -1 -1 -1 -1 E
+30 10 0 1d1+439 3d7+5
+19 0
+8 8 1
+BareHandAttack: 7
+E
+#18513
+vecchia nonna Bendor~
+La nonna della famiglia Bendor~
+Una vecchia brutta e deforme e' qui che brontola
+~
+Vedi una vecchia molto bassa e brutta. A dire il vero ha anche un po' di barba.
+Non fa altro che brontolare su ogni cosa, e' molto noiosa
+~
+~
+~
+~
+120 137438954624 -200 -1 -1 -1 -1 -1 E
+32 9 -1 1d1+449 2d12+5
+31 0
+8 8 2
+BareHandAttack: 13
+E
+#18514
+Augustine Bendor amante~
+Augustine~
+Augustine l'amante di Lord Jack ti guarda sorpresa
+~
+Vedi lo spettro di una giovane donna sui 25 anni. Ha lunghi capelli neri e una carnagione
+bianchissima.
+Ti accorgi che i suoi occhi non hanno pupille !
+~
+~
+~
+~
+12298 33555496 -50 -1 -1 -1 -1 -1 E
+34 8 0 1d1+479 2d12+6
+26 0
+8 8 2
+E
+#18515
+Lord Jack Bendor~
+Lord Jack di Bendor~
+Lord Jack di Bendor sta recitando macabre poesie
+~
+Vedi un imponente uomo vestito di nero, che tiene in mano un piccolo libro da cui
+legge macabre poesie sulla morte e sull' inferno.
+~
+~
+~
+~
+241690 1192 -300 -1 -1 -1 -1 -1 E
+38 7 -3 1d1+539 3d8+6
+27 0
+8 8 1
+E
+#18516
+fuoco fatuo~
+Un piccolo fuoco fatuo~
+Un piccolo fuoco fatuo si muove silenzioso nell' aria
+~
+Una piccola fiamma blu, non grande piu' del tuo pugno, si muove a mezzaria.
+Vedi che spesso alcune piccole vampate ne aumentano le dimensioni, anche se per poco
+tempo
+~
+~
+~
+~
+258136 18089064 0 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+249 3d7+5
+30 0
+8 8 0
+E
+#18517
+zombie~
+Uno zombie~
+Uno zombie si aggira per il cimitero
+~
+Un cadavere... solo si muove, si nutre e soprattutto non ragiona.
+~
+~
+~
+~
+72 5120 -100 -1 -1 -1 -1 -1 E
+28 11 1 1d1+369 2d10+4
+21 0
+8 8 0
+BareHandAttack: 4
+E
+#18518
+Revenant~
+Il Revenant Di Rasheen~
+Un Revenant , la maledizione che torna sempre , ti ordina di non avvicinarti
+~
+A prima vista potresti scambiarlo per uno zombie, ma noti presto che ha lunghi artigli
+e uno sguardo molto piu' vivo e malvagio.
+Si dice che sia impossibile uccidere un Revenant, infatti tornano SEMPRE.
+~
+~
+~
+~
+57354 67109928 -600 -1 -1 -1 -1 -1 E
+45 6 -5 1d1+599 3d9+8
+38 0
+8 8 1
+BareHandAttack: 10
+Dex: 20
+E
+#18519
+troll guardiano prigioni~
+Il troll guardiano~
+Un gigantesco troll e' qua, probabilmente come guardiano delle prigioni
+~
+Alto, con la pelle verde, ipertrofico e molto, molto puzzolente.
+Questo e' un troll con gli attributi !!!
+~
+~
+~
+~
+73790 33555496 -800 -1 -1 -1 -1 -1 E
+38 8 -3 1d1+499 3d8+6
+38 0
+8 8 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+E
+#18520
+guardia orco~
+Un orco guardiano~
+Un orco e' qua di guardia per non far passare nessuno oltre la grata
+~
+Ti pare un orco come tanti altri, se non fosse per la strana tunica che indossa, nera
+con lo stesso simbolo che hai visto al cancello di entrata del cimitero.
+~
+~
+~
+~
+12298 16778240 -500 -1 -1 -1 -1 -1 E
+35 9 -1 1d1+449 2d12+5
+21 0
+8 8 1
+BareHandAttack: 7
+E
+#18521
+dracolich ddglp~
+Un sinistro Dracolich~
+Un sinistro Dracolich riposa qua, sembra come addormentato
+~
+Vedi quello che sembra uno scheletro di un Drago, avvolto da una strana energia bluastra
+che lo rende quasi vivo. Rimani impressionato dagli artigli lunghi quasi 2 metri.
+Non osi immaginare la forza di questa creatura.
+~
+~
+~
+~
+253979 51389480 -1000 -1 -1 -1 -1 -1 E
+55 2 -9 1d1+1700 4d10+12
+42 0
+4 4 0
+BareHandAttack: 10
+Spec: 29
+E
+#18522
+strega srxqt~
+La Strega Di Rasheen~
+Una vecchia strega e' qua intenta in qualche esperimento
+~
+Vedi una vecchia che nonostante la sua gobba e' piu' alta di te.
+E' vestita di stracci, osservando le bracce scoperte rimani impressionato dalla muscolatura.
+Completamente sdentata sembra pero' non soffrire di nessuna malattia.
+~
+~
+~
+~
+8238 1160 -600 -1 -1 -1 -1 -1 E
+40 8 -3 1d1+499 3d8+6
+33 0
+8 8 2
+BareHandAttack: 13
+E
+#18523
+orchetto minatore~
+Un orchetto minatore~
+Un orchetto sta lavorando nella grotta
+~
+Come se fosse sotto charme, l'orchetto continua il suo lavoro senza curarsi di te.
+Sta picconando una parete, come in cerca di qualcosa.
+~
+~
+~
+~
+4106 1024 -100 -1 -1 -1 -1 -1 E
+28 10 1 1d1+369 2d10+4
+22 0
+8 8 1
+E
+#18524
+orchetto capo~
+Il capo degli orchetti~
+Un orchetto da ordini a tutti, sembra essere il capo.
+~
+A differenza degli altri, indossa uno strano elmo in testa.
+~
+~
+~
+~
+4142 1064 -200 -1 -1 -1 -1 -1 E
+32 9 -1 1d1+449 2d12+5
+25 0
+8 8 1
+E
+#18525
+pipistrello vampiro~
+Un pipistrello vampiro~
+Un pipistrello vampiro sta volando qua
+~
+Questa specie di pipistrelli e' molto aggressiva, stai attento !
+~
+~
+~
+~
+8296 33555496 0 -1 -1 -1 -1 -1 E
+32 8 -1 1d1+449 3d8+5
+32 0
+8 8 0
+BareHandAttack: 4
+E
+#18526
+orco zombie zombificato~
+Un orco zombie~
+Un gigantesco orco zombificato da Rasheen e' qua
+~
+E' come se la carcassa di un orco delle miniere di Moira morto da 3 mesi riprendesse
+vita. Non e' un bello spettacolo.
+~
+~
+~
+~
+24586 1024 -500 -1 -1 -1 -1 -1 E
+48 7 -6 1d1+699 4d7+9
+33 0
+8 8 1
+BareHandAttack: 7
+E
+#18527
+drujii pezzo cadavere~
+Un Drujii~
+Un pezzo di un cadavere prende vita e ti attacca !
+~
+E' orribile ! Una parte di quello che era un freddo cadavere si e' animata.
+Come puoi fronteggiare un nemico con un corpo gia' morto ?
+~
+~
+~
+~
+188458 268960808 -500 -1 -1 -1 -1 -1 E
+38 8 -3 1d1+499 3d8+6
+37 0
+8 8 0
+E
+#18528
+Rasheen Necromante~
+&1Rasheen&0&3 Il Necromante&0~
+Rasheen, il necromante che ha trasformato questo cimitero in un inferno, e' qui
+~
+Un mago dallo sguardo folle, con i capelli spettinati e i vestiti sporchi.
+Ti guarda ridendo di te dicendo che non puoi capire, non puoi ammirare la sua arte.
+Blatera enigmi filosofici sulla morte, sull' anima e... sul &9&xMALE&0
+~
+~
+~
+~
+57355 134226984 -1000 -1 -1 -1 -1 -1 E
+55 3 -8 1d1+799 4d10+12
+35 0
+8 8 1
+BareHandAttack: 10
+Spec: 18
+E
+#18529
+beholder~
+Il Beholder nonmorto~
+Un Beholder con pochi peduncoli e parti del corpo semiputrefatte e' qua
+~
+Questo Beholder fa persino fatica a levitare, sembrerebbe proprio morente...
+ma c'e' qualcosa di strano in lui, come se questa situazione non lo indebolisse... anzi !
+~
+~
+~
+~
+45128 33555464 -600 -1 -1 -1 -1 -1 E
+42 7 -5 1d1+599 3d9+8
+24 0
+8 8 0
+BareHandAttack: 4
+E
+#18530
+anima dannata~
+Un' anima dannata~
+L'anima dannata di una giovane donna vaga per questi cunicoli
+~
+Vedi lo spettro di una giovane donna, non fa altro che urlare ed emettere gelidi lamenti
+ti sembra quasi un pianto disperato.
+~
+~
+~
+~
+10312 134218762 100 -1 -1 -1 -1 -1 E
+33 9 -1 1d1+449 2d12+5
+26 0
+8 8 2
+E
+#18531
+prigionieri gruppo~
+Un gruppo di prigionieri~
+Un gruppo di prigionieri e' qua agonizzante per le torture subite
+~
+Non riesci ad osservare... e' troppo... troppo disumano quello che e' stato fatto a
+questi poveri innocenti !
+~
+~
+~
+~
+8328 1024 500 -1 -1 -1 -1 -1 E
+25 11 2 1d1+299 2d9+3
+15 0
+5 5 0
+E
+$

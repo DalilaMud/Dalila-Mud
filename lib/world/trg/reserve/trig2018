@@ -1,0 +1,16 @@
+trigedit 2018
+6  
+/c 
+if %actor.name% == %ncontrollore%
+ if %speech% /= puntigrazia
+  set %speech%
+  global puntigrazia
+ elseif %speech% /= puntifede
+  set %speech%
+  global puntifede
+ end
+end
+~
+/s
+q
+y

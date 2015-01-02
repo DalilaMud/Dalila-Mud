@@ -1,0 +1,335 @@
+#801
+mostro buca~
+il mostro che vive in fondo alla buca~
+Il grosso e orrendo mostro che vive in fondo alla buca e' qui di fronte a te.
+~
+Che disgustosa creatura!  E' nera, verde, melmosa e sta sporcando tutto cio'
+che la circonda (te compreso) con del materiale viscido e puzzolente.    
+~
+~
+~
+~
+14 0 -750 -1 -1 -1 -1 -1 E
+4 17 10 1d1+36 1d6+0
+3 670
+8 8 0
+E
+#802
+mostro novizio~
+un mostro novizio~
+Un mostro novizio e' qui in piedi molto confuso. Uccidi! Uccidi!
+~
+Hai di fronte tua piccola creatura.  Sembra innocuo ma non si puo' dire con
+sicurezza.  Anche se piccolo di statura ha una muscolatura ben strutturata.  
+
+~
+~
+~
+~
+76 0 -100 -1 -1 -1 -1 -1 E
+1 18 10 1d1+8 1d6+0
+1 300
+8 8 1
+E
+#803
+cucciolo drago~
+un cucciolo di drago~
+Un piccolo cucciolo di drago si aggira sperduto, annusando tutto attorno a se.
+~
+Awww.  Che svelto!  Un piccolo cucciolo di drago.  Lungo 3 piedi fa tanta
+tenerezza che lo vorresti abbracciare fino alla morte...  No la verita' e che
+lo vuoi proprio uccidere.  Ma ricordati..  Ogni piccolo drago puo' essere un
+grande problema.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+6 15 9 1d1+46 1d8+0
+6 3100
+8 8 1
+E
+#804
+custode guardia mostro~
+una guardia novizia~
+Una guardia novizia e' qui in cerca del suo piccolo drago.
+~
+Hai di fronte la guardia addetta alle cure del piccolo drago dell'alchimista.
+Non sembra fare bene il proprio lavoro.  Continua a guardarsi in giro e a
+sbraitare frasi oscene 'Se non trovo quel piccolo drago l'alchimista vorra' la
+mia testa'.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+5 16 9 1d1+40 1d6+0
+4 1500
+8 8 1
+E
+#805
+alchimista novizio~
+l'alchimista novizio~
+L'alchimista novizio e' qui che sta mischiando qualcosa.
+~
+A guardarlo e' proprio un buffo individuo.  Tutto impegnato a mischiare
+qualcosa con qualcos'altro.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 1d6+0
+8 5000
+8 8 0
+E
+#806
+piccolo insetto strisciante~
+un piccolo insetto~
+Un piccolo insetto schifoso striscia lungo il muro vicino alle tue gambe.
+~
+Yuck!  Se ogni tanto si degnassero di dare una pulitina a questo posto insetti
+parassiti come questo non ci sarebbero in giro.  Piccolo, disgustoso e con sei
+zampe pelose e marroni.    
+~
+~
+~
+~
+72 0 -250 -1 -1 -1 -1 -1 E
+1 19 10 1d1+7 1d6+0
+1 200
+8 8 0
+E
+#807
+zombie novizio~
+un novizio zombie~
+Uno decadente novizio.. assomiglia ad uno ZOMBIE
+~
+Questo poveretto deve essersi perso qui sotto da ormai tanto tempo...  Ormai
+questo poveraccio e' ridotto ad uno zombie.  Ti dispiace, ma se non ti dai una
+mossa lui ti attacchera' per primo.    
+~
+~
+~
+~
+108 0 -500 -1 -1 -1 -1 -1 E
+3 18 9 1d1+25 1d5+0
+2 450
+8 8 0
+E
+#808
+cosa~
+la cosa~
+Una piccola e simpatica COSA sta strisciando qui intorno.
+~
+Piccola, verde, vagamente somigliante ad un umanoide con una piccola coda
+appuntita.  E' difficile notarla perche' appena tenti di osservarla meglio
+questi si nasconde nell'ombra.    
+~
+~
+~
+~
+236 0 -800 -1 -1 -1 -1 -1 E
+2 19 9 1d1+22 1d6+0
+2 600
+8 8 1
+E
+#809
+massiccio minotauro~
+un massiccio minotauro~
+Il grande e mitico minotauro sta dominando la sua fame.
+~
+Un enorme uomo con la testa di un toro.  Molto forte ma decisamente poco
+astuto.  Ora che lo osservi bene e' decisamente piu' piccolo di tutti i tori
+che hai incontrato fino ad oggi...  E sta' venendo dalla tua parte.    
+~
+~
+~
+~
+1608 0 -1000 -1 -1 -1 -1 -1 E
+8 16 8 1d1+60 1d7+1
+5 7000
+8 8 1
+E
+#810
+spettro~
+un pericoloso spettro~
+Un pericoloso spettro e' qui in agguato tra le ombre.
+~
+L'anima di un antico avventuriero ...  Si nasconde qui in attesa di portare la
+morte a chiunque attraversi la sua strada.    
+~
+~
+~
+~
+2154 34079754 -850 -1 -1 -1 -1 -1 E
+6 16 8 1d1+52 1d6+0
+4 3000
+8 8 0
+E
+#811
+fastidioso novizio~
+un fastidioso novizio~
+Un novizio fastidioso impreca contro di te e ti manda all'inferno.
+~
+Che impudenza!  Questo novizio sbraita e prende in giro tutti quelli che
+incontra.  Sarebbe di certo piu' silenzioso con del freddo e duro acciaio
+conficcato nel corpo.  MHUAHAHAHAHAHA!    
+~
+~
+~
+~
+76 0 -500 -1 -1 -1 -1 -1 E
+2 18 10 2d1+20 1d5+1
+2 350
+8 8 1
+E
+#812
+novizio confuso~
+un novizio confuso~
+Un novizio brancola nel buio, terribilmente confuso.
+~
+Un cretino qualsiasi.  Qualsiasi informazione spiegata nel manuale te la
+chiedera' e molto probabilmente lo rifara' per alte 2 o 3 volte.  Un cretino
+qualsiasi.  Qualsiasi informazione spiegata nel manuale te la chiedera' e molto
+probabilmente lo rifara' per altre 2 o 3 volte.    
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+4 17 9 1d1+36 1d6+0
+3 750
+8 8 1
+E
+#813
+novizia chiacchierona~
+una novizia chiacchierona~
+una novizia e' qui... sembra una gran chiacchierona.
+~
+MA con chi sta parlando????  Sembra comunicare qualche indizio a qualche suo
+amico...    
+~
+~
+~
+~
+72 0 100 -1 -1 -1 -1 -1 E
+3 17 9 1d1+32 1d5+0
+2 750
+8 8 2
+E
+#814
+novizio spaesato~
+un novizio spaesato~
+Un novizio e' qui che gironzola senza meta.
+~
+Sembra che questo tizio stia girando da un bel po' e ormai deve essere
+decisamente lontano da casa!  Non sembra sapere dove si trova, forse dovresti
+aiutarlo.    
+~
+~
+~
+~
+72 0 300 -1 -1 -1 -1 -1 E
+4 17 10 1d1+35 1d5+0
+3 900
+8 8 1
+E
+#815
+intelligente mostriciattolo~
+un intelligente mostriciattolo~
+Un mostriciattolo e' qui, si guarda in giro con sicurezza.
+~
+Decisamente ben equipaggiato.!  Sembra tosto.    
+~
+~
+~
+~
+12 0 0 -1 -1 -1 -1 -1 E
+5 16 10 3d0+43 1d5+1
+4 1300
+8 8 1
+E
+#816
+drago spaventapasseri~
+un enorme drago sputafuoco~
+&1&xUn enorme Drago Sputafuoco e qui che ruggisce in tutta la sua cattiveria&0
+~
+&1&xE un drago rosso ENORME!! le sue scaglie sono lucenti di rosso sangue&0
+&1&xti osserva dall'alto delle sue vauci pronto per arrostirti per bene&0
+&1&xse non sei ancora morto di paura presto finirai dilaniato se non ti muovi!&0
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 1 1d1+0 1d1+0
+1 0
+8 8 1
+BareHandAttack: 9
+E
+#820
+amanito funghetto ambulante~
+&0Un &1F&7u&1n&7g&1h&7e&1t&7t&1o&0 ambulante~
+&0Un funghetto con le gambette e' qui.
+~
+Si muove in continuazione, dondolando sulle gambe, danzando e ballando senza mai stare fermo.
+Ogni tanto pronuncia la frase:"&x&1Sono un fungo io&0"
+E' &1A&7m&1a&7n&1i&7t&1o&0, il FungoCasa di Erestor.
+~
+~
+~
+~
+10 2097152 0 -1 -1 -1 -1 -1 E
+15 20 5 3d300+80 1d1+0
+11 0
+8 8 1
+E
+#821
+guardia~
+Una guardia di prova~
+Questa e' una guardia di prova
+~
+Fa paura!
+~
+~
+~
+~
+11 0 0 -1 -1 -1 -1 8 E
+50 20 0 1d1+800 10d10+0
+30 0
+8 8 1
+Spec: 3
+E
+#890
+provino~
+il provino~
+Un provino
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+52 3 -8 1d1+840 4d9+10
+35 0
+8 8 0
+E
+#891
+vecchio vecchietto venditore negoziante~
+Un vecchio~
+Un vecchio e' qui accanto alla fontanella
+~
+Pare davvero molto anziano.. vende delle strane cose da mangiare.
+~
+~
+~
+~
+134242314 0 0 -1 -1 -1 -1 -1 E
+10 20 10 1d1+1999 1d1+0
+10 0
+8 8 1
+Spec: 0
+E
+$

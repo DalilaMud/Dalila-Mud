@@ -1,0 +1,44 @@
+trigedit 22204
+6  
+/c 
+if %actor.vnum% == 22206
+fol self
+mforce gdd fol self
+wait 2 s
+mforce gdd inch 
+inch %actor.name%
+wait 2 s
+say A presto Sommo'
+wait 1 s
+mforce gdd s
+s
+set redolmant 0
+global redolmant
+halt
+end
+if %actor.rank% == 60
+wait 1 s
+mecho Le guardie scattano sull'attenti e vanno a posizionarsi alle spalle del Sommo
+set redolmant 1
+global redolmant
+wait 3 s
+follow %actor.name%
+mforce gdd follow %actor.name%
+halt
+end
+if redolmant == 1
+halt
+else
+halt
+wait 1 s
+say Voi non potete stare qui in assenza del Sommo!
+wait 1 s
+emote sguaina la spada!
+say %actor.name%, avete dieci secondi per andarvene, dopodiche' vi abbatteremo.
+wait 10 s
+mkill %actor.name%
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 2052
+6  
+/c 
+if %direction% == west
+ wait 2 s
+ emo muove lentamente un ramo verso di te.
+ wait 2 s
+ mecho &6&xUna voce possente ti accoglie, 'Salve, %actor.name%. Therion ti da' il benvenuto.'. Comprendi essere la voce del Suo Sacerdote.&0
+end
+~
+/s
+q
+y

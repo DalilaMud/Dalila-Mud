@@ -1,0 +1,15 @@
+trigedit 6771
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %direction% == west
+emote lavora una risorsa di pietra immaginaria.
+wait 2 s
+emote crea un lingotto di Costanza e lo porge al Fabbro.
+else
+end
+~
+/s
+q
+y

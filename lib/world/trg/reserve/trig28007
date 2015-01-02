@@ -1,0 +1,22 @@
+trigedit 28007
+6  
+/c 
+if %speech% == ariel
+wait 5
+wecho lo spirito del vento ti mostra la strada per il giardino segreto
+wait 5
+wecho le piante si spostano per lasciarti passare scoprendo l'entrata di una caverna
+wait 5
+wecho il vento magico ti solleva piano
+wait 5
+wteleport %actor% 12
+wait 1
+wforce %actor% look
+wait 5
+wecho il vento magico ti adagia delicatamente al suolo mentre ti carezza il viso
+end
+else end
+~
+/s
+q
+y

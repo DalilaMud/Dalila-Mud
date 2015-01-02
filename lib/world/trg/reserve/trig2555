@@ -1,0 +1,27 @@
+trigedit 2555
+6  
+/c 
+* Lista comandi
+wait 1 s
+wecho &1Qualcosa di viscido ti sfiora la caviglia...&0
+wait 2 s
+wecho &2&x                         __ &0
+wecho &2&x           ---_ ...... _/_ - &0   
+wecho &2&x          /  .      ./ .'&3&x*&0\ \ &0   
+wecho &2&x          : '         /__-'   \. &0
+wecho &2&x         /                      )&0
+wecho &2&x       _/                  >   .' &0
+wecho &2&x     /   .   .       _.-" /  .'   &0
+wecho &2&x     \           __/"     /.'/|   &0
+wecho &2&x       \ '--  .-" /     //' |\|  &0
+Wecho &2&x        \|  \ | /     //_ _ |/|  &0
+wecho &2&x         `.  \:     //|_ _ _|\|  &0
+wecho &2&x         | \/.    //  | _ _ |/|  &0
+wecho &2&x          \_ | \/ /    \ _ _ \\\ &0
+wecho &2&x              \__/      \ _ _ \|\&0
+wait 1 s
+wforce all urla AaaaaaaaaaaaaaaHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+~
+/s
+q
+y

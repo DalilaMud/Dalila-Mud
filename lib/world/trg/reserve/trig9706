@@ -1,0 +1,12 @@
+trigedit 9706
+6  
+/c 
+ tell smigol Signore, %actor.name% sta cercando di infiltrarsi furtivamente nel palazzo di Tolnedra.
+ tell sagat Signore, %actor.name% sta cercando di infiltrarsi furtivamente nel palazzo di Tolnedra.
+ tell fasir Signore, %actor.name% sta cercando di infiltrarsi furtivamente nel palazzo di Tolnedra.
+ tell thief Signore, %actor.name% sta cercando di infiltrarsi furtivamente nel palazzo di Tolnedra.
+ dg_cast 'paralize' %actor.name%
+~
+/s
+q
+y

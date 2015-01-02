@@ -1,0 +1,16 @@
+trigedit 1337
+6  
+/c 
+* Lista comandi
+if %actor.name% == %proprietario%
+ wait 1 s
+ say Molto bene
+ set postazione %self.room%
+ global postazione
+ set appostato on
+ global appostato
+end
+~
+/s
+q
+y

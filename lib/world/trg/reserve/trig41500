@@ -1,0 +1,44 @@
+trigedit 41500
+6  
+/c 
+context %actor.id%
+if !(%actor.varexists(quest_ulexon_1)% && %actor.level% < 35)
+say &6 Fantasmi! SI PROPRIO FANTASMI! SISSIGNORE!&0
+say &6 io li ho visti con i miei occhi... C'e' stato un crollo pochi giorni fa mentre cercavamo di smantellare&0
+wait 4 s
+say &6 una delle strutture piu' recenti, una sorta di camerino per gli attori, che e' stato aggiunto al progetto &0
+wait 4 s
+say &6 originale solo di recente. Ebbene, dopo questo crollo (dovuto beninteso non all' attivita' dei nostri manovali&0
+emote gonfia il petto con serieta'
+wait 4 s
+say &6 bensi' all'inadeguatezza dei materiali che sono stati utilizzati), ebbene dicevo... dopo questo crollo sono &0
+wait 4 s
+say &6 iniziate le prime apparizioni, all'inizio non ci credevo neppure io e ho ripreso i miei manovali, accusandoli &0
+wait 4 s
+say &6 di star inventando sciocche scuse... Ma poi ho dovuto ricredermi...&0
+emote &x&9rabbbrrrrrividisce&0
+say &6 Proprio mentre li stavo sgridando.. ho visto un ombra proiettarsi davanti a me, non un ombra qualsiasi!&0
+wait 4 s
+say &6 era un'ombra grigia... come se il corpo che le appartenesse fosse trasparente... mi sono girato e...&0
+wait 5 s
+piangi
+say &6 ...quale orribile visione... -SIGH- non ho resistito -SOB- e me la sono data a gambe..seguito dai miei &0
+wait 4 s 
+say &6 manovali.. -SIGH--SOB- capite? ora non posso certo pretendere da loro che continuino a lavorare li' dentro&0
+wait 4 s
+say &6 -SOB- -SIGH-... devo trovare un modo per liberarmi di quelle creature... o perdero' l'appalto -SIGH-&0
+wait 4 s
+say &6 vi prego, aiutatemi... sarei disposto a pagarvi.. non ho molto perche' ho appena aperto l'attivita' ma..&0
+say &6 ecco.. diciamo 5 monete d'oro... e tutta la mia riconoscernza! Vi prego non disprezzatela... non si sa mai&0
+set offerta_quest on
+global offerta_quest
+say &6 allora accettate?&0
+wait 10 s
+rdelete offerta_quest %self.id%
+else
+halt
+end
+~
+/s
+q
+y

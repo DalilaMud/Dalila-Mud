@@ -1,0 +1,16 @@
+trigedit 2002
+6  
+/c 
+if %get% == 1
+set get 2
+global get
+oecho &9&xIl Globo pian piano si spegne&0
+otransform 543
+halt
+end
+set get 1
+global get
+~
+/s
+q
+y

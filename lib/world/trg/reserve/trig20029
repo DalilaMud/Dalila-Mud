@@ -1,0 +1,16 @@
+trigedit 20029
+6  
+/c 
+if %actor.name% == shailin
+wait 1 s
+osend %actor.name% &WSenti una grande energia provenire dalla S p a C c a Ossa&d
+oechoaround %actor.name% Shailin fa volteggiare furiosamente la S p a C c a Ossa sopra la sua testa
+halt
+else
+osend %actor.name% &WSenti una potente scarica di energia partire dalla S p a C c a Ossa e percorrerti la colonna vertebrale.... non e' piacevole!&0
+odamage %actor.name% 500
+end
+~
+/s
+q
+y

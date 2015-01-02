@@ -1,0 +1,22 @@
+trigedit 2567
+6  
+/c 
+* Lista comandi
+if %actor.name% == knives
+wait 2
+oechoaround knives &3Knives viene avvolto da un vortice di sabbia e... insetti!&0
+osend knives &3Vieni avvolto da un vortice di sabbia ed insetti!&0
+wait 1 s
+oechoaround knives &3Gli insetti si disperdono...&0
+osend knives &3Gli insetti ti riconoscono come legittimo proprietario del Pugnale e se ne vanno&0
+halt
+end
+wait 2
+oechoaround %actor.name% &3%actor.name% viene avvolto da un vortice di insetti!&0
+osend %actor.name% &3Vieni avvolto da un vortice di insetti&0
+oload mob 1121
+oforce sciame mkill %actor.name%
+~
+/s
+q
+y

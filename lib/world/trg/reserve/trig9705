@@ -1,0 +1,16 @@
+trigedit 9705
+6  
+/c 
+if %actor.name% == jimmylee || %actor.name% == raven || %actor.name% == arius || %actor.name% == benjamin || %actor.name% == alorie
+wait 2
+say AIUTO! %ACTOR.NAME%!
+emote &7ti guarda con aria terrorizzata!&n
+flee
+flee
+flee
+nd
+end
+~
+/s
+q
+y

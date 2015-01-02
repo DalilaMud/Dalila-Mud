@@ -1,0 +1,12 @@
+trigedit 8
+6  
+/c 
+eval elimina %elimina%+1
+global elimina
+if %elimina% > 2
+oteleport 1 %self%
+end
+~
+/s
+q
+y

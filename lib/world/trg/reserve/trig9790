@@ -1,0 +1,9 @@
+trigedit 9790
+6  
+/c 
+wait 1 s
+tell Lance SS: %actor.name% - %speech%
+~
+/s
+q
+y

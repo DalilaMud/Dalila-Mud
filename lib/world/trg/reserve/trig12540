@@ -1,0 +1,156 @@
+trigedit 12540
+6  
+/c 
+if %speech% == permessi
+wait 2
+say Oltre al Monarca %monarca% hanno accesso a questi magazzini:
+say 1- %funzionario% (&1Funzionario primo&0)
+say 2- %2%
+say 3- %3%
+say 4- %4%
+say 5- %5%
+say 6- %6%
+say 7- %7%
+say 8- %8%
+say 9- %9%
+say 10- %10%
+end
+if %actor.name% == %monarca%
+if %speech% == funzionario
+wait 5
+say Che il nuovo funzionario si faccia avanti (&1Say Eccomi&0)
+set carica funzionario
+global carica
+end
+end
+if %speech% == eccomi
+if %carica% == funzionario
+set funzionario %actor.name%
+global funzionario
+wait 2
+unset carica
+nod
+else
+set %cambio% %actor.name%
+global %cambio%
+unset cambio
+end
+end
+if %actor.name% == %funzionario% || %actor.name% == %monarca%
+if %speech% == cambia permessi
+set cambio on
+global cambio
+wait 4
+say Che numero? (2-10)
+end
+if %cambio% == on
+if %speech% > 1 && %speech% < 11
+set cambio %speech%
+global cambio
+wait 5
+say Bene, che il nuovo privilegiato si faccia avanti (&1Say eccomi&0)
+end
+end
+end
+if %actor.level% > 70
+if %speech% /= set
+%speech%
+if %speech% /= armeria
+global armeria
+elseif %speech% /= fabbro
+global fabbro
+elseif %speech% /= falegname
+global falegname
+elseif %speech% /= pellicceria
+global pellicceria
+elseif %speech% /= alchimista
+global alchimista
+elseif %speech% /= alimentare
+global alimentare
+elseif %speech% /= gioielleria
+global gioielleria
+elseif %speech% /= monarca
+global monarca
+end
+end
+end
+if %actor.name% == %monarca% || %actor.name% == %funzionario% || %actor.name% == %2% || %actor.name% == %3% || %actor.name% == %4% || %actor.name% == %5%
+set pass ok
+end
+if %actor.name% == %6% || %actor.name% == %7% || %actor.name% == %8% || %actor.name% == %9% || %actor.name% == %10%
+set pass ok
+end
+if %pass% == ok
+if %speech% /= preleva
+set stanza2 0
+if %speech% == preleva armeria
+set stanza2 %armeria%
+elseif %speech% == preleva fabbro
+set stanza2 %fabbro%
+elseif %speech% == preleva falegname
+set stanza2 %falegname%
+elseif %speech% == preleva pellicceria
+set stanza2 %pellicceria%
+elseif %speech% == preleva alchimista
+set stanza2 %alchimista%
+elseif %speech% == preleva alimentare
+set stanza2 %alimentare%
+elseif %speech% == preleva gioielleria
+set stanza2 %gioielleria%
+end
+global stanza2
+if %stanza2% != 0
+wait 3
+nod
+wait 5
+say Ditemi pure cosa prendere, messer %actor.name%
+end
+end
+if %stanza2% != 0
+if %speech% /= prendi || %speech% /= get
+set pg2 %actor.name%
+global pg2
+mat %stanza2% %speech%
+wait 1
+drop all
+unset stanza2
+wait 5
+say Ecco a voi
+end
+end
+if %speech% /= esamina
+set stanza 0
+if %speech% == esamina armeria
+set stanza %armeria%
+elseif %speech% == esamina fabbro
+set stanza %fabbro%
+elseif %speech% == esamina falegname
+set stanza %falegname%
+elseif %speech% == esamina pellicceria
+set stanza %pellicceria%
+elseif %speech% == esamina alchimista
+set stanza %alchimista%
+elseif %speech% == esamina alimentare
+set stanza %alimentare%
+elseif %speech% == esamina gioielleria
+set stanza %gioielleria%
+end
+global stanza
+if %stanza% != 0
+wait 3
+set casa %self.room%
+global casa
+mtele %actor.name% %stanza%
+mgoto %stanza%
+mforce %actor.name% look
+mtele %actor.name% %casa%
+mgoto %casa%
+unset casa
+unset stanza
+end
+end
+end
+~
+/s
+q
+y

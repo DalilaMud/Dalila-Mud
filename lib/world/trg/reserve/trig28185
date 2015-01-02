@@ -1,0 +1,12 @@
+trigedit 28185
+6  
+/c 
+if %actor.name% == %x% 
+%send% %actor% Non riesci a scappare.
+else
+%force% %actor% scappa
+end
+~
+/s
+q
+y

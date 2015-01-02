@@ -1,0 +1,90 @@
+trigedit 21701
+6  
+/c 
+if (%actor.clan% == 2)
+ if (%actor.rank% > 32)
+  if (%speech% == ritira)
+   if (%actor.rank% > 54)
+    wait 1 s
+    give %self.gold% coin %actor.name%
+    say Eccoti il mio guadagno quotidiano
+   else
+   say Solo il sovrano e i Pari possono ritirare
+   end
+  elseif (%speech% == lettera)
+   if (%actor.gold% >= 10)
+    wait 1 s
+    mload obj 21705
+    say Il Regno vi fornisce una lettera con Sigillo Eleno, Fatene buon uso...
+    give lettera  %actor.name%
+    %actor.gold(-10)%
+    %self.gold(10)%
+   else
+   say Ci vogliono 10 monete per quello...
+   end
+  elseif (%speech% == penna)
+   if (%actor.gold% >= 10)
+    wait 1 s
+    mload obj 21706
+    say Eccovi la vostra penna
+    give penna %actor.name%
+    %actor.gold(-10)%
+    %self.gold(10)%
+   else
+   say Ci vogliono 10 monete per quello...
+   end
+  elseif (%speech% == spilla)
+   if (%actor.gold% >= 10)
+    wait 1 s
+    mload obj 21708
+    say Eccovi la vostra Spilla Elena, portatela addosso con orgoglio
+    give spilla %actor.name%
+    %actor.gold(-10)%
+    %self.gold(10)%
+   else
+   say Ci vogliono 10 monete per quello...
+   end
+  elseif (%speech% == scrigno)
+   if (%actor.gold% >= 50)
+    wait 1 s
+    mload obj 21703
+    say Eccovi il vostro magnifico scrigno
+    give scrigno %actor.name%
+    %actor.gold(-50)%
+    %self.gold(50)%
+   else
+   say Ci vogliono 50 monete per quello...
+   end
+  elseif (%speech% == chiave)
+   if (%actor.gold% >= 30)
+    wait 1 s
+    mload obj 21704
+    say Eccovi la chiave del Regno Eleno... non perdetela!
+    give chiave %actor.name%
+    %actor.gold(-30)%
+    %self.gold(30)%
+   else
+   say Ci vogliono 30 monete per quello...
+   end
+  elseif (%speech% == contratto)
+   if (%actor.gold% >= 20)
+    wait 1 s
+    mload obj 90
+    say Eccovi un copntratto per la vendita di case
+    give contratto %actor.name%
+    %actor.gold(-20)%
+    %self.gold(20)%
+   else
+   say Ci vogliono 20 monete per quello...
+   end
+  end
+ else
+ say Solo i funzionari Eleni possono usufruire dei miei servigi.
+ end
+else
+say Solo il popolo Eleno puo' usufruire dei miei servigi, Vattene!
+end
+~
+/s
+q
+y

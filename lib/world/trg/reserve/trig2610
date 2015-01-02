@@ -1,0 +1,34 @@
+trigedit 2610
+6  
+/c 
+* Lista comandi
+wait 1 s
+osend %actor.name% &1Ti senti davvero strano&0 
+wait 2 s
+dg_affect %actor.name% flying 0 20
+while %actor.mana% > 20
+wait 2
+eval d %random.4%
+switch %d%
+case 1
+oforce %actor.name% n
+break
+case 2
+oforce %actor.name% s
+break
+case 3
+oforce %actor.name% e
+break
+case 4
+oforce %actor.name% w
+break
+done
+done
+oforce %actor.name% posa all
+oforce %actor.name% rimu demoniaci
+oforce %actor.name% posa all
+oforce %actor.name% land
+~
+/s
+q
+y

@@ -1,0 +1,29 @@
+trigedit 28110
+6  
+/c 
+set lup 1
+while %lup% <= 3
+  set caos %random.4%
+  
+  switch %caos%
+  case 1
+    nord
+  break
+  case 2
+    sud
+  break
+  case 3
+    est
+  break
+  case 4
+    ovest
+  break
+  done
+  
+wait 2 s
+eval lup %lup% + 1
+done
+~
+/s
+q
+y

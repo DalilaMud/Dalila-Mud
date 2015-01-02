@@ -1,0 +1,11 @@
+trigedit 31153
+6  
+/c 
+wait 1 s
+wecho &1UN BOATO MICIDIALE!!! LA TERRA TREMA!!! La struttura portante del complesso sta crollando!! Esci presto!!&0
+wait 5 s
+%damage% all 100
+~
+/s
+q
+y

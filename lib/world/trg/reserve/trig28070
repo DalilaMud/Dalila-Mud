@@ -1,0 +1,23 @@
+trigedit 28070
+6  
+/c 
+if %object.vnum% == 28061
+wait 1
+mpurge buono
+wait 3 s
+say Oh bene, vedo che hai Rischiato...eheh
+wait 1 s
+smile %actor.name%
+wait 2 s
+say Eccoti la tua bella birra gratis!!! Alla salute!
+wait 3 s
+mload obj 28065
+giv boccale %actor.name%
+wait 2 s
+say Alla prossima.
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,17 @@
+trigedit 11010
+6  
+/c 
+wait 1 s
+if %actor.clan% == 3
+if %actor.rank% >= 43
+emote scatta sull'attenti
+wait 1
+say Signore! 
+msend %actor.name% i comandi per le guardie sono guardie andiamo, guardie riposo, guardie saluto
+else
+end
+end
+~
+/s
+q
+y

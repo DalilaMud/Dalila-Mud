@@ -1,0 +1,87 @@
+trigedit 31523
+6  
+/c 
+wait 1
+eval tiro %random.50%
+if %tiro% <= 5
+ mecho &2&xHikozaemon alza un dito al cielo e una strana luce verde prende forma sopra di esso.&0
+ wait 1 s
+ dg_cast 'acid arrow' %actor.name%
+elseif %tiro% <= 12
+ mecho &9&xLa rabbia di Hikozaemon si concentra in mille lame affilate!&0
+ wait 1 s
+ dg_cast 'blade barrier'
+elseif %tiro% <= 16
+ mecho &3&xHikozaemon batte tre volte a terra un bastone e il terreno viene ricoperto da una fitta rete di saette!&0
+ wait 1 s
+ dg_cast 'chain lightning' %actor.name%
+elseif %tiro% <= 25
+ if %self.hit% < 400
+  mecho &9Un'aura oscura ricopre Hikozaemon mentre, pur di non morire, cerca aiuto nei defunti!&0
+  wait 1 s
+  dg_affect Hikozaemon deathdance 0 3
+ else
+  &1&xFiamme guizzanti ricoprono il braccio alzato di Hikozaemon per prendere la forma di una freccia!&0
+  wait 1 s
+  dg_cast 'flame arrow' %actor.name%
+ end
+elseif %tiro% <= 30
+ mecho &6Hikozaemon cerca di sanare le proprie ferite a tuo discapito!&0
+ wait 1 s
+ dg_cast 'energy drain' %actor.name%
+elseif %tiro% <= 32
+ if %self.hit% < 200
+  mecho &9&xHikozaemon si affida ad un oscuro rituale nella speranza di risollevare le proprie sorti.&0
+  wait 1 s
+  dg_affect %actor.name% paralized 0 1
+ else
+  mecho &5Hikozaemon perde fiducia nelle sue capacita' magiche, afferra un corto pugnale e taglia una corda!&0
+  wait 1 s
+  mecho &1Un pesante masso crolla dal soffitto colpendoti in pieno!&0
+  dg_cast 'disintegrate' %actor.name%
+  dg_cast 'disintegrate' %actor.name%
+  dg_cast 'disintegrate' %actor.name%
+  dg_cast 'disintegrate' %actor.name%
+ end
+elseif %tiro% <= 35 && %summonati% < 3
+ if %summonati% < 4
+  mecho &3Hikozaemon prende un pugno di terra e la getta innanzi a se' con un gesto soddisfatto e preoccupato.&0
+  wait 1 s
+  mecho &3&xUn enorme elementale della terra si alza lentamente e ti attacca!&0
+  mload mob 1954
+  mforce evocato3 kill %actor.name%
+  mforce evocato3 kill %actor.name%
+  mforce evocato3 kill %actor.name%
+  eval summonati (%summonati%+1)
+  global summonati
+ end
+elseif %tiro% <= 40
+ if %summonati% < 4
+  mecho &1&xUna luce accecante appare in mezzo alla stanza interponendosi tra te e Hikozaemon.&0
+  wait 1 s
+  mecho &1&xUn guizzante elementale del fuoco prende forma e ti attacca!&0
+  mload mob 1953
+  mforce evocato2 kill %actor.name%
+  mforce evocato2 kill %actor.name%
+  mforce evocato2 kill %actor.name%
+  eval summonati (%summonati%+1)
+  global summonati
+ end
+else
+ if %summonati% < 4
+  mecho &7&xUn irreale turbine d'aria scuote l'interno della stanza girando vorticosamente al suo centro.&0
+  wait 1 s
+  mecho &6&xDistingui i lineamenti di un elementale dell'aria che si muove verso di te attaccandoti!&0
+  mload mob 1952
+  mforce evocato1 kill %actor.name%
+  mforce evocato1 kill %actor.name%
+  mforce evocato1 kill %actor.name%
+  eval summonati (%summonati%+1)
+  global summonati
+ end
+end
+wait 2 s
+~
+/s
+q
+y

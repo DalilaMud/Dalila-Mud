@@ -1,0 +1,18 @@
+trigedit 21705
+6  
+/c 
+if %actor.clan% == 2
+if %actor.rank% > 32
+wteleport %actor.name% 21235
+wforce %actor.name% look
+else
+wecho L'accesso e' consentito solo ai funzionari Eleni!
+wait 5
+wteleport %actor.name% 2134863
+wforce %actor.name% look
+end
+end
+~
+/s
+q
+y

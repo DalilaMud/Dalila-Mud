@@ -1,0 +1,59 @@
+trigedit 21244
+6  
+/c 
+* Blocco temporaneo
+return 1
+halt
+wdoor 21355 north purge
+wdoor 21355 north description Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+wdoor 21355 north flags abcde
+wdoor 21355 north name pannello
+wdoor 21355 north room 21354
+wdoor 21355 north key 748922
+wdoor 21354 south purge
+wdoor 21354 south description Un pannello di legno ricoperto di terra per mimetizzarsi tra le rocce.
+wdoor 21354 south flags abcde
+wdoor 21354 south name pannello
+wdoor 21354 south room 21355
+wdoor 21354 south key 748922
+wdoor 21354 up purge
+wdoor 21354 up description Una botola incassata nel soffitto
+wdoor 21354 up flags abce
+wdoor 21354 up name botola
+wdoor 21354 up room 21353
+wdoor 21354 up key 65473
+wdoor 21353 down purge
+wdoor 21353 down description Una botola nascosta sotto un asse del pavimento.
+wdoor 21353 down flags abce
+wdoor 21353 down name botola
+wdoor 21353 down room 21354
+wdoor 21353 down key 65473
+wdoor 21353 west purge
+wdoor 21353 west description Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+wdoor 21353 west flags abce
+wdoor 21353 west name pannello
+wdoor 21353 west room 21352
+wdoor 21353 west key 21352
+wdoor 21352 east purge
+wdoor 21352 east description Un Pannello di legno rivestito di intonaco, perfettamente mimetizzato con la parete.
+wdoor 21352 east flags abce
+wdoor 21352 east name pannello
+wdoor 21352 east room 21353
+wdoor 21352 east key 21352
+wdoor 21352 west purge
+wdoor 21352 west description Una porta di legno
+wdoor 21352 west flags abc
+wdoor 21352 west name porta
+wdoor 21352 west room 21244
+wdoor 21352 west key 657
+wdoor 21244 east purge
+wdoor 21244 east description Una porta di legno
+wdoor 21244 east flags abc
+wdoor 21244 east name porta
+wdoor 21244 east room 21352
+wdoor 21244 east key 657
+ 
+~
+/s
+q
+y

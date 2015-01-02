@@ -1,0 +1,17 @@
+trigedit 33110
+6  
+/c 
+wait 5
+bow %actor.name%
+wait 5
+say Salve Avventurieri !
+wait 5
+say Io sono solo un mercante, non mi interessano queste battaglie... comprate pure sono sicuro che troverete i miei oggetti.... LEGGENDARI !
+wait 5
+rid
+wait 5
+emote si sfrega le mani avidamente mentre vi vede stupiti dalla sua mercanzia
+~
+/s
+q
+y

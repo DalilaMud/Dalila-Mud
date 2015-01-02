@@ -1,0 +1,19 @@
+trigedit 1684
+6  
+/c 
+* Lista comandi
+mecho &9&xIl cavallo meccanico inizia a vibrare come impazzito mentre si ricarica di energia&0
+wait 1 s
+dg_cast 'refresh' meccanico
+eval vibra %random.5%
+if %vibra% == 5
+wait 1 s
+mecho &9&xLe vibrazioni sono fortissime! Pare un terremoto!&0
+dg_cast 'earthquake'
+dg_cast 'earthquake'
+dg_cast 'earthquake'
+end
+~
+/s
+q
+y

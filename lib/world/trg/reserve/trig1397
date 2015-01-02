@@ -1,0 +1,15 @@
+trigedit 1397
+6  
+/c 
+* Lista comandi
+wait 2 s
+%send% %actor% &7Le splendide note del flauto scivolano nell'aria sospinte dal tuo soffio leggero..&0
+%echoaround%  %actor% &7Il suono di un flauto ti accarezza le orecchie...magico...&0
+%load% mob 31113
+wait 1 s
+%force% 1sec tell faymond TI STO CERCANDOOOOOOOOOOOOO
+opurge 1sec
+~
+/s
+q
+y

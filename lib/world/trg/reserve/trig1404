@@ -1,0 +1,9 @@
+trigedit 1404
+6  
+/c 
+wait 1 s
+osend %actor.name% &7&xSenti un vapore fluire dal bauletto...&0
+~
+/s
+q
+y

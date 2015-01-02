@@ -1,0 +1,13 @@
+trigedit 1371
+6  
+/c 
+* Lista comandi
+wait 1 s
+set actor.hit 20
+set actor.name UnPgDiProva
+set actor.sex 1
+set actor.fantasma off
+~
+/s
+q
+y

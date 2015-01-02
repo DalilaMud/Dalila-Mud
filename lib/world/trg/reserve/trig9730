@@ -1,0 +1,23 @@
+trigedit 9730
+6  
+/c 
+if %speech% == nullarulez
+if %actor.clan% == 3 && %actor.rank% >= 56
+wait 2 s
+wsend %actor.name% Senti una strana forza provenire dal nulla
+wait 2 s
+wteleport %actor.name% 40206
+wforce %actor.name% look
+else
+wait 2 s
+Sembra che tu abbia attivato uno strano meccanismo appena pronunci la parola d'ordine...
+wait 1 s
+wecho &RIL PAVIMENTO SI APRE SOTTO I TUOI PIEDI&d
+wteleport %actor.name% 8578
+wforce %actor.name% look
+end
+end
+~
+/s
+q
+y

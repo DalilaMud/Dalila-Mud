@@ -1,0 +1,11 @@
+trigedit 1450
+6  
+/c 
+return 0
+mecho &2&xL'immondo uovo va in mille pezzi liberando una nube d'acido!&0
+dg_cast 'acid breath'
+mload mob 557
+~
+/s
+q
+y

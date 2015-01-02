@@ -1,0 +1,213 @@
+#6100
+warg malvagio~
+il malvagio warg~
+Un malvagio warg e' qui che ringhia contro di te.
+~
+E' un lupo di dimensioni eccezionalmente grandi, dalla pelliccia folta e nera.
+Le sue lunghe e bianche zanne sono coperte di bava. Sembra pericoloso e
+molto affamato.
+~
+~
+~
+~
+104 1024 -350 -1 -1 -1 -1 -1 E
+8 15 7 1d1+70 2d5+2
+6 5000
+8 8 1
+E
+#6101
+warg feroce~
+il feroce warg~
+Un feroce warg e' qui che ringhia contro di te.
+~
+E' un lupo di dimensioni incredibilmente grandi, con una pelliccia folta e
+nera. Le sue zanne lunghe e bianche sono coperte di bava. Sembra pericoloso
+e molto affamato.
+~
+~
+~
+~
+104 1032 -350 -1 -1 -1 -1 -1 E
+8 15 7 1d1+70 2d5+2
+7 8000
+8 8 1
+E
+#6102
+lupo grigio~
+un enorme lupo grigio~
+Un enorme lupo grigio e' qui, ti sembra molto affamato.
+~
+Un enorme lupo grigio ti fissa con i suoi occhi mentre si lecca le labbra.
+~
+~
+~
+~
+104 1032 -150 -1 -1 -1 -1 -1 E
+8 15 7 1d1+70 1d10+2
+6 8000
+8 8 0
+E
+#6103
+lupo nero~
+un enorme, lupo nero~
+Un enorme lupo nero e' qui, ti sembra molto affamato.
+~
+Un enorme lupo nero ti fissa con i suoi occhi mentre si lecca le labbra.
+~
+~
+~
+~
+104 1024 -150 -1 -1 -1 -1 -1 E
+8 16 8 1d1+40 1d10+4
+5 5000
+8 8 0
+E
+#6110
+albero secolare~
+un albero secolare~
+Un enorme albero china i suoi rami su di te... ha un che di inquietante
+~
+Questi antichissimi alberi sono qui da tempo immemore, e seppure una volta erano alti e nobili
+ora sono pregni della malvagita' che ha pervaso la foresta ed il loro cuore e' marcio
+~
+~
+~
+~
+256522 33832 0 -1 -1 -1 -1 -1 E
+40 6 -6 1d1+650 3d10+8
+39 330000
+8 8 0
+E
+#6111
+albero secolare~
+un albero secolare~
+Un enorme albero china i suoi rami su di te... ha un che di inquietante
+~
+Questi antichissimi alberi sono qui da tempo immemore, e seppure una volta erano alti e nobili
+ora sono pregni della malvagita' che ha pervaso la foresta ed il loro cuore e' marcio
+~
+~
+~
+~
+256522 33832 0 -1 -1 -1 -1 -1 E
+35 8 -4 1d1+550 3d9+7
+29 240000
+8 8 0
+E
+#6112
+drago verde~
+&2&xil Drago Verde&0~
+Un enorme drago verde si trova qui ed i suoi occhi gialli lampeggiano di rabbia.
+~
+Questo enorme serpente alato ha scaglie color verde scuro che
+ricoprono la maggior parte del suo corpo colossale. Le numerose lacerazioni
+che le sue ali presentano testimoniano le molte battaglie da lui
+affrontate come pure le fratture che vedi nelle corna sulla sua
+~
+~
+~
+~
+1099511881803 1032 -1000 -1 -1 -1 -1 -1 E
+70 0 -7 1d250+1450 4d16+19
+46 1000000
+8 8 1
+Spec: 28
+E
+T 21012
+#6113
+ragno velenoso~
+un enorme ragno velenoso~
+Un enorme ragno velenoso si trova qui.
+~
+Questa disgustosa creatura ha le dimensioni di un uomo. Ha otto zampe
+pelose che le consentono di muoversi con grande velocita'
+su ogni superficie e artigli acuminati con cui paralizza o uccide le
+sue prede.
+~
+~
+~
+~
+43 1032 -350 -1 -1 -1 -1 -1 E
+8 15 7 1d1+30 1d8+4
+6 10000
+8 8 1
+Spec: 13
+E
+#6114
+regina ragni~
+la Regina dei Ragni~
+L'immensa, enorme Regina dei Ragni si trova qui.
+~
+Questa disgustosa creatura ha le dimensioni di un piccolo elefante.
+Ha otto enormi zampe pelose che le consentirebbero di muoversi ad una
+velocita' incredibile su qualsiasi superficie se non fosse cosi'
+grassa. I suoi grossi occhi sono fissi su di te.
+~
+~
+~
+~
+2154 33832 -1000 -1 -1 -1 -1 -1 E
+13 13 6 0d1+160 2d5+3
+8 25000
+8 8 2
+E
+#6115
+massa erbacce abominio vegetale~
+Un abominio vegetale~
+Una massa informe di piante ed erbacce grigie si agita freneticamente..
+~
+Questo groviglio di liane foglie ed erbacce e' piu' pericoloso di quanto sembri a prima vista.
+Agita tutte le sue estremita' apparentemente a caso...rendendo imprevedibile un suo eventuale attacco..
+I suoi movimenti concitati ogni tanto sollevano qualcuna delle piante marce che compongono il suo corpo 
+e lasciano intravedere qualcosa al suo interno...ti sembra di scorgere un piccolo cadavere..
+~
+~
+~
+~
+61294 296040 -500 -1 -1 -1 -1 -1 E
+20 11 3 1d1+230 3d6+5
+15 20000
+8 8 1
+BareHandAttack: 3
+E
+#6116
+grande druido~
+il Grande Druido~
+Il Grande Druido si trova qui. Sembra molto contrariato della tua irruzione nella sua casa.
+~
+Il druido sembra abbastanza in la' con gli anni. Potresti
+ritenerlo una persona veneranda e debole ma sai bene che
+se ci fosse necessita' di combattere, si rivelerebbe un
+nemico pericoloso.
+~
+~
+~
+~
+278538 1064 500 -1 -1 -1 -1 -1 E
+12 14 6 1d1+140 2d5+2
+10 30000
+8 8 1
+E
+#6117
+isha elfa~
+Isha l'elfa scura~
+Isha l'elfa scura, e' qui che ti osserva in silenzio.
+~
+E' decisamente molto bella. La sua pelle e' scura come la notte ed i
+suoi capelli splendono come argento alla luce della Luna. Il suo
+corpo snello e' rivestito da una camicia priva di maniche e da una
+corta gonna fatta di scaglie nere unite tra loro da fili d'argento.
+La sua schiena e' coperta da un grande mantello scuro, dotato di
+cappuccio e nero come la sua pelle. Una spada lunga e sottile pende,
+all'interno di un fodero d'argento, dall'ampia cintura d'argento che
+fascia la sua vita.
+~
+~
+~
+~
+264296 263168 -1000 -1 -1 -1 -1 -1 E
+12 13 6 1d1+100 2d5+2
+9 20000
+8 8 2
+E
+$

@@ -1,0 +1,55 @@
+trigedit 1610
+6  
+/c 
+* Lista comandi
+   
+    
+    switch %time%
+      case 150
+        wake
+        stand
+        say Purtroppo tra mezz'ora dovro' tornare a casa.
+        break
+      case 4
+        wake
+        stand
+        say Addio amico mio, e' stato un piacere aiutarti!
+        remove all
+        drop all
+        %echo% Un manovale si allontana borbottando sottovoce.
+        mgoto 28150
+        wait 3 s
+        say purgami
+        * mpurge %self%
+        break
+     case 2
+        set phan 1
+        global phan
+        break
+     case 0
+       if %self.vnum% == 1601
+         set time 1000
+       elseif %self.vnum% == 1602
+         set time 1500
+       elseif %self.vnum% == 1603
+         set time 2000
+       elseif %self.vnum% == 1604
+         set time 2500
+       else
+         set time 500
+       end
+       global time
+       break
+     default  
+       * Remake by Phantom
+       break
+   done
+    
+   if %phan% != 1
+     eval time %time% - 1
+     global time
+   end
+~
+/s
+q
+y

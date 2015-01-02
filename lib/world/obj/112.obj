@@ -1,0 +1,1045 @@
+#11200
+chiave~
+una chiave di pietra~
+Una pesante chiave di pietra e' qui appesa ad un nastro di cuoio.~
+~
+18 65669 16385
+0 0 0 0 20 20
+2 0 0 1 0 0
+E
+chiave~
+   E' di pietra.    
+~
+#11201
+cuore pietra~
+un cuore di pietra~
+Un cuore di pietra e' qui.~
+Emana un potere e una forza appartenenti a qualche defunto golem reale.
+~
+8 65 16385
+0 0 0 0 30 30
+10 3000 400 41 0 0
+E
+cuore~
+   Un massiccio cuore di golem e' qui tra le tue mani.  La forma e' impeccabile
+e nonostante non sia un cuore umano, una straba sensazione di nausea ti assale.
+  
+~
+A
+18 2
+#11202
+scudo pietra~
+uno scudo di pietra~
+Un pesante scudo di pietra e' qui coperto di polvere.~
+~
+9 73728 513
+8 0 0 0 70 70
+20 1500 150 22 0 0
+#11203
+lancia sacra~
+una lancia sacra~
+Una lancia sacra ai golem e' qui per terra.~
+Sull'asta ci sono parecchie tacche. Immagini il perche'.
+~
+5 65536 8193
+0 4 4 11 70 70
+10 500 50 9 0 0
+E
+lancia~
+   E' rozza e semplice.  Una punta di pietra incastrata all'estremita' di
+un'asta in legno.    
+~
+#11204
+pugnale arabo~
+un pugnale~
+Un pugnale di fattura araba e' qui per terra.~
+   La forma a mezzaluna ondulata lo rende uno strumento di atroce tortura.    
+~
+5 212992 8193
+0 2 4 1 70 70
+10 1000 100 40 0 0
+E
+pugnale~
+   Il manico e' in osso mentre la lama di freddo acciaio e' ondulante.  Deve
+fare un male immane conficcato dietro la schiena.    
+~
+A
+2 1
+#11205
+sacco golem~
+un grande sacco ~
+Un grande sacco golem e' qui pronto per essere riempito.~
+Un sacco usato per trasportare materie prime. Grezzo ma robusto.
+~
+15 0 65537
+300 1 -1 0 50 50
+5 150 15 1 0 0
+E
+sacco~
+   E' molto grande e robusto.  I golem lo usano per le esercitazioni di assedio
+ai castelli.    
+~
+#11206
+stivali~
+un paio di stivali marini~
+Un paio di consumati stivali marini e' qui per terra.~
+Sono calzature usate dai marinai che governano le navi nei giorni
+di pioggia.
+~
+9 98368 65
+2 0 0 0 20 40
+6 2300 300 40 0 0
+E
+stivali~
+   Sono stivali usati dai marinai per lavorare nell'acqua.  Il tessuto
+impermeabile e' infatti adatto a quell'umido lavoro.    
+~
+A
+22 -4
+C
+64 0 0 0
+#11207
+nastro~
+un nastro argentato~
+Un nastro argentato e' qui arrotolato.~
+Avvolge la tua mano donandoti un senso di freschezza e purezza.
+~
+12 8257 2049
+0 0 0 0 30 30
+3 5000 500 14 0 0
+E
+nastro~
+   E' ornato da piccole campanelline mute.  La sola vista ti rende gia' piu'
+energico.    
+~
+A
+12 10
+#11208
+amuleto rosso~
+un amuleto rosso~
+Un amuleto color rosso e' qui in un angolo.~
+~
+12 36929 5
+0 0 0 0 20 20
+2 6500 700 107 0 0
+E
+amuleto rosso~
+   Sui due lati presenta strani antichi rilievi che non riesci a comprendere.
+  
+~
+A
+20 -5
+C
+5120 0 0 0
+#11209
+giubba nera~
+una giubba nera~
+Una giubba nera e' qui.~
+Usata dai cercataglia per nascondersi e tendere le imboscate.
+~
+9 110592 1025
+7 0 0 0 50 60
+5 2000 250 79 0 0
+C
+262144 0 0 0
+#11210
+macete~
+un macete~
+Un macete sporco di sangue e' qui che gocciola.~
+Un'arma terrible per crimini terribili.
+~
+5 65552 8193
+0 4 5 0 50 50
+6 1800 180 1 0 0
+#11211
+martello~
+un martello da guerra~
+Un martello da guerra e' qui.~
+~
+5 196609 8193
+0 3 6 5 60 60
+7 2000 200 34 0 0
+A
+19 1
+#11212
+corona~
+una corona preziosa~
+Una corona ingioiellata giace qui nella polvere.~
+   Non sembra avere poteri particolari.  E' probabilmente solo un gioiello da
+collezionare.    
+~
+8 65536 1
+0 0 0 0 50 50
+15 10000 1000 1 0 0
+E
+corona~
+   Non ha ne' poteri ne' puo' essere indossata.  E' semplicemente il simbolo
+della potenza dei golem.  Chi ne e' entrato in possesso la custodisce
+gelosamente come una reliquia di inestimabile valore.  Va a ruba tra i
+collezionisti di oggetti preziosi.    
+~
+#11213
+farsetto verde~
+un farsetto verde~
+Un farsetto color verde e' qui un po' sgualcito.~
+   Usato dai nobili golem per le cerimonie e le passeggiate sulla collina.  
+Molto elegante e fatto con stoffa lavorata dai sarti piu' abili del regno.    
+~
+9 65801 9
+7 0 0 0 30 30
+5 5000 350 22 0 0
+E
+farsetto~
+   Un bel farsetto verde di raso e' portato dai nobili e dai dotti.  Aiuta a
+capire chi ti sta' di fronte.    
+~
+#11214
+scimitarra~
+una scimitarra~
+Una scimitarra ben affilata e' qui.~
+   E' tagliente come un rasoio e la forma a mezzaluna permette un'agile
+manovrabilita' e un'accurata precisione dei colpi.    
+~
+5 73728 8193
+0 2 5 10 60 60
+6 3400 400 30 0 0
+A
+18 1
+#11215
+tunica nera~
+una tunica nera~
+Una lunga tunica nera e' qui nella polvere.~
+~
+9 86048 9
+1 0 0 0 30 30
+5 1000 50 16 0 0
+E
+tunica~
+   E' completamente nera ma agli occhi dei piu' e' invisibile.    
+~
+A
+20 -5
+#11216
+alga~
+un'alga pietrificata~
+Un'alga pietrificata e' qui sporca di sale.~
+   E' un'alga dei mari dei sud pietrificata con qualche strano metodo.  Su
+un'estremita' ha un piccolo gancio di metallo dorato.    
+~
+12 32851 32769
+0 0 0 0 50 50
+3 3000 500 51 0 0
+A
+24 -3
+C
+8388608 0 0 0
+#11217
+cassettiera~
+una cassettiera~
+Una antica cassettiera e' qui contro la parete.~
+Vecchia e impolverata.
+~
+15 0 0
+1000 5 -1 0 50 50
+0 0 0 1 0 0
+E
+cassettiera~
+   E' molto vecchia.  La polvere copre quasi del tutto gli ornamenti in rame
+che disegnano strane figure geometriche che si intrecciano.  Alcune maniglie
+sono consumate dal tempo e dai topi.    
+~
+#11218
+parabraccia acuminati~
+dei parabraccia acuminati~
+Un paio di parabraccia acuminati e' qui nella polvere.~
+   Questi parabraccia sono un ottima difesa contro armi da taglio che spesso
+puntano a colpire gli arti che decidono uno scontro: le braccia.    
+~
+9 65536 257
+8 0 0 0 50 50
+10 4000 400 25 0 0
+E
+parabraccia~
+   Sono fatti di una lega molto resistente.  Gli spuntoni appuntiti che
+decorano il dorso del braccio possono essere usati come una temibile arma
+oppure per aumentare il danno inflitto.    
+~
+#11219
+ampolla~
+un'ampolla d'avorio~
+Un'ampolla d'avorio e' qui.~
+~
+10 224 1
+20 72 0 0 20 20
+1 500 30 1 0 0
+#11220
+pozione nera~
+una &9&xpozione nera&0~
+Una &9&xpozione nera&0 e' qui in un angolo.~
+~
+10 64 1
+20 93 0 0 20 20
+1 350 20 1 0 0
+E
+pozione~
+   Un liquido verdognolo riempe una boccetta.    
+~
+#11221
+fialetta viola~
+una fialetta viola~
+Una fialetta viola e' qui per terra.~
+~
+10 0 1
+20 71 1 0 20 20
+1 400 30 1 0 0
+#11222
+scrigno~
+uno scrigno~
+Uno scrigno e' posato qui su un tavolo.~
+Nothing.
+~
+15 32 0
+100 13 11226 0 50 50
+0 0 0 1 0 0
+E
+scrigno~
+   E' fatto di legno.  La lavorazione e' pregevole e conferisce all'oggetto un
+aria nobile.    
+~
+#11223
+anello marmo~
+un anello di marmo~
+Un anello di marmo e' qui tutto impolverato.~
+~
+12 565313 3
+0 0 0 0 60 60
+4 550 34 36 0 0
+E
+anello~
+   E' di marmo bianco.  La purezza del materiale e' unica al mondo e mentre lo
+osservi nel palmo della tua mano l'anello s'illumina e scompare per alcuni
+interminabili istanti.    
+~
+A
+1 -1
+C
+570425856 0 0 0
+#11224
+ascia~
+un'ascia~
+Un'ascia ben affilata e' in terra.~
+~
+5 65552 8193
+0 4 4 3 60 60
+8 2000 200 5 0 0
+#11225
+pozione marrone~
+&1una pozione marrone&0~
+Una &1pozione marrone&0 e' qui.~
+~
+10 64 1
+20 84 0 0 20 20
+1 670 50 1 0 0
+#11226
+spillo~
+uno spillo~
+Uno spillo d'argento.~
+~
+18 4 16385
+0 0 0 0 10 10
+1 0 0 1 0 0
+#11227
+chiave~
+la chiave di Waesel~
+La chiave del Capitano Waesel e' qui in terra.~
+E' ancora sporca di sangue fresco.
+~
+18 65676 16385
+0 0 0 0 20 20
+1 0 0 1 0 0
+#11228
+fiala~
+una fiala di vetro rotta~
+Una fiala di vetro rotta.~
+~
+13 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+#11230
+trofeo~
+Un trofeo~
+Uno splendido trofeo e' qui in mostra.~
+~
+12 65536 16385
+0 0 0 0 100 100
+10 10000 10000 1 0 0
+E
+trofeo~
+   La targhetta dice: PRIMA MEGAQUEST.......  PRIMI CLASSIFICATI IL GRUPPO 'GLI
+ULULANTI GUERRIERI DELLA LUNA".  Il trofeo rappresenta un gruppo di eroi in
+posa sul corpo senza vita di Makrud.    
+~
+#11231
+trofeo~
+un trofeo~
+Un bellissimo trofeo e' qui in mostra.~
+~
+12 65536 16385
+0 0 0 0 100 100
+10 10000 10000 1 0 0
+E
+trofeo~
+   Il trofeo rappresenta un gruppo di eroi in posa sul corpo senza vita di
+Makrud.  La targhetta dice: PRIMA MEGAQUEST.......  SECONDI CLASSIFICATI IL
+GRUPPO 'GLI INVISIBILI'
+~
+#11232
+targa~
+una targa~
+Una bellissima targa d'oro e' qui in mostra.~
+~
+12 65536 16385
+0 0 0 0 80 80
+8 7000 7000 1 0 0
+E
+targa~
+   La targa rappresenta un gruppo di eroi in posa sul corpo senza vita di
+Makrud.  Una scritta dice: PRIMA MEGAQUEST....  TERZI CLASSIFICATI IL GRUPPO
+'DRAGON RIDERS'
+~
+#11233
+medaglia~
+una medaglia d'oro~
+Una bellissima medaglia d'oro e' qui in mostra.~
+~
+12 65536 16385
+0 0 0 0 80 80
+5 5000 5000 1 0 0
+E
+medaglia~
+   Una medaglia in oro rappresenta da un lato un gruppo di eroi in posa sul
+corpo senza vita di Makrud.  Dall'altra parte una scritta dice: PRIMA
+MEGAQUEST.....  QUARTI CLASSIFICATI IL GRUPPO 'I CAVALIERI DEL VENTO'.    
+~
+#11234
+medaglia~
+una medaglia d'oro~
+Una bellissima medaglia d'oro e' qui in mostra.~
+~
+12 65536 16385
+0 0 0 0 80 80
+5 5000 5000 1 0 0
+E
+medaglia~
+   Una medaglia in oro rappresenta da un lato un gruppo di eroi in posa sul
+corpo senza vita di Makrud.  Dall'altra parte una scritta dice: PRIMA
+MEGAQUEST.....  QUARTI CLASSIFICATI IL GRUPPO 'I CAVALIERI DELLA LUCE OSCURA'.
+  
+~
+#11240
+chiave~
+una grossa chiave nera~
+Una grossa chiave nera e' qui buttata in un angolo.~
+~
+18 12 1
+0 0 0 0 10 10
+3 0 0 1 0 0
+E
+chiave~
+   La chiave ha un fiore disegnato su un lato.    
+~
+#11241
+chiavetta~
+una chiavetta arrugginita~
+Una chiavetta arrugginita e' qui in un angolo.~
+~
+18 12 1
+0 0 0 0 10 10
+1 0 0 1 0 0
+#11242
+chiave~
+una chiave d'oro massiccio~
+Una chiave d'oro massiccio e' qui in un angolo.~
+~
+18 0 1
+0 0 0 0 10 10
+3 0 0 1 0 0
+#11243
+cassapanca~
+una cassapanca di legno~
+Una cassapanca di legno e' appoggiata al muro.~
+~
+15 524288 0
+9999 1 -1 0 50 50
+0 0 0 1 0 0
+E
+cassapanca~
+   La cassapanca e' molto vecchia.  Una volta c'era un chiavistello ma col
+tempo si e' sgretolato.    
+~
+#11244
+pozione ocra~
+&1una pozione ocra&0~
+Una &1pozione ocra&0 e' qui in un angolo.~
+Nothing.
+~
+10 524485 1
+10 43 0 0 10 10
+1 5000 2000 1 0 0
+E
+pozione~
+   E' una piccola fialetta colma di un liquido color argento.    
+~
+#11245
+ampolla~
+un'ampolla rosea~
+Un ampolla di color rosa e' qui in un angolo.~
+~
+10 524452 1
+10 1 0 0 10 10
+1 10000 5000 1 0 0
+E
+ampolla~
+   E' una boccetta che contiene un liquido rosa.    
+~
+#11246
+cintura~
+una cintura~
+Una cintura di cuoio e' qui.~
+~
+9 163937 2049
+1 0 0 0 40 40
+2 100 0 21 0 0
+E
+cintura~
+   E' una cintura semplice e austera.  Nessuna decorazione o fibia.  Soltanto
+il cuoio masticato da qualche animale randagio.    
+~
+A
+4 1
+#11247
+scrivania~
+una semplice scrivania di legno~
+Una scrivania molto piccola e sbilenca e' sistemata contro il muro.~
+~
+15 524288 0
+100 1 -1 0 50 50
+0 0 0 1 0 0
+E
+scrivania~
+   Sulla scrivania ci sono alcuni fogli di carta e un calamaio.  Vedi un
+piccolo cassetto sul lato sinistro.    
+~
+E
+cassetto~
+   Il cassetto e' quasi nascosto dalla sporcizia.  Aprendolo non vi trovi nulla
+di interessante.    
+~
+#11248
+tavolo ttgls~
+un tavolo molto lussuoso~
+Un grande tavolo decorato con gemme preziose e oro occupa meta' della stanza.~
+~
+15 524288 0
+0 5 -1 0 50 50
+1000 0 0 1 0 0
+#11249
+baule~
+un baule~
+Un baule di legno pregiato e' qui, contiene preziosissima mercanzia!!~
+~
+15 524288 0
+0 5 -1 0 50 50
+1000 0 0 1 0 0
+E
+baule~
+   Il baule e' molto antico.  Una volta doveva appartenere ad una ricca
+famiglia di campagna.    
+~
+#11250
+pozione arancione~
+&1&xuna pozione arancione&0~
+Una &1&xpozione arancione&0 ribolle come impazzita.~
+~
+10 64 1
+10 44 99 0 20 20
+3 1000 500 1 0 0
+#11251
+fiala vetro blu~
+una fiala di vetro blu~
+Una piccola fiala blu e' qui.~
+~
+10 64 1
+5 16 0 0 20 20
+2 100 50 1 0 0
+#11252
+sciarpa seta~
+una sciarpa di seta~
+Una sciarpa di seta purissima e' qui.~
+~
+12 0 5
+0 0 0 0 15 15
+1 1000 1000 41 0 0
+E
+sciarpa~
+   La sciarpa e' molto elegante e odora ancora di un profumo intenso.    
+~
+A
+24 -3
+C
+16 0 0 0
+#11253
+guanti destrezza~
+i guanti della destrezza~
+Un paio di guanti molto fini sono qui.~
+~
+9 532992 129
+3 0 0 0 25 25
+3 500 250 37 0 0
+A
+2 1
+#11254
+anello~
+un anello d'erba~
+Un piccolo e delicato anello fatto con dell'erba e' qua.~
+~
+12 33793 3
+0 0 0 0 20 20
+1 10 0 8 0 0
+E
+anello erba~
+   Un anellino costruito con steli d'erba e' prova di un immensa pazienza.    
+~
+A
+13 7
+#11255
+vestaglia seta~
+una vestaglia di seta~
+Una costosa vestaglia di seta purissima e' qui che ti invita a riposarti.~
+~
+12 19 1025
+0 0 0 0 20 20
+4 10000 5000 23 0 0
+E
+vestaglia seta~
+   La vestaglia porta sul taschino l'emblema della famiglia dei Teinko.  Un
+rapace che cattura al volo un agnellino.    
+~
+A
+26 5
+A
+25 5
+A
+14 -100
+#11256
+forcone~
+un forcone appuntito~
+Un forcone appuntito e' qua.~
+~
+5 0 8193
+0 3 4 11 70 100
+10 100 1 9 0 0
+E
+forcone~
+   Un forcone usato per raccogliere la paglia e' anche un ottima arma.    
+~
+#11257
+cappello nobile~
+un cappello da nobile~
+Un cappello di alto rango e' qui coperto di polvere.~
+~
+9 20481 17
+1 0 0 0 25 25
+5 1000 500 43 0 0
+E
+cappello nobile~
+   Questo cappello apparteneva ad una famiglia molto ricca.  La qualita' del
+tessuto e delle cuciture e' eccellente.    
+~
+A
+6 2
+A
+1 -2
+A
+12 -25
+#11258
+scarponi~
+degli scarponi da lavoro~
+Un paio di scarponi sporchi giacciono qui.~
+~
+9 8193 65
+2 0 0 0 50 50
+12 100 0 24 0 0
+E
+scarponi~
+   Un paio di scarponi marroni usati per lavorare nei campi sono coperti di
+fango.    
+~
+A
+1 1
+#11259
+spada nobile~
+la spada del nobile~
+Una spada da nobile e' qua.~
+~
+5 65536 8193
+0 3 7 11 100 100
+20 30000 6000 18 0 0
+E
+spada~
+   L'elsa della spada e' formata da due serpi che si incrociano.    
+~
+A
+19 -1
+#11260
+anello~
+un anello con uno zaffiro incastonato~
+Un anello con uno zaffiro incastonato e' qui in un angolo.~
+Un bel gioiello lavorato dalla gilda degli orefici del deserto.
+~
+12 87105 3
+0 0 0 0 50 50
+3 5000 1000 64 0 0
+E
+anello zaffiro~
+   Il preziosissimo anello d'oro con una pietra di zaffiro incastonata e' forse
+l'oggetto piu' bello che tu abbia mai visto.  Il suo splendore e' paragonabile
+solo a quello che il lago Thorales produce nelle notti di luna piena.    
+~
+A
+21 -5
+C
+16777216 0 0 0
+#11261
+lancia~
+una lancia a due punte~
+Una lancia a due punte e' qui conficcata nel terreno.~
+~
+5 589825 8193
+0 2 3 11 100 100
+10 1000 100 23 0 0
+E
+lancia~
+   La lancia e' lunga e finisce con una biforcazione.  Le due lame sono molto
+taglienti e ti domandi che tipo di dolore potrebbero provocare nelle mani
+sbagliate.    
+~
+A
+18 -1
+A
+19 1
+A
+5 -1
+#11262
+pantalone lana~
+un pantalone di lana~
+Un pesante pantalone di lana scura e' quasi del tutto consumato.~
+~
+12 129 33
+0 0 0 0 15 20
+4 100 0 8 0 0
+E
+pantalone lana~
+   Questo pantalone e' completamente rattoppato e in alcuni parti anche piu' di
+una volta.  Ma la maggiore liberta' di movimento che produce bilancia il
+difetto.    
+~
+A
+14 10
+#11263
+bracciale perle~
+un bracciale di perle~
+Un bel bracciale di perle bianche e' qua.~
+~
+12 24577 4097
+0 0 0 0 50 50
+5 4000 1000 6 0 0
+E
+bracciale~
+   Il bracciale e' completamente fatto di perle provenienti da terre esotiche.
+  
+~
+A
+12 5
+#11264
+giacca~
+una giacca di velluto~
+Una vecchia e logora giacca di velluto blu e' qui coperta di polvere.~
+~
+9 0 1025
+2 0 0 0 15 20
+6 100 0 1 0 0
+E
+giacca~
+   E' una vecchissima giacca di velluto e capisci che e' di colore blu solo per
+via dell'interno del taschino che si e' difeso dal tempo.  Questa giacca
+invecchia chi la indossa.    
+~
+A
+9 10
+#11265
+emblema~
+un emblema~
+Un emblema rotondo e' qui nella polvere.~
+~
+12 32833 16385
+0 0 0 0 50 50
+8 10000 500 92 0 0
+E
+emblema~
+   E' l'emblema di una famiglia di origine nobile.  Le decorazioni in oro
+rappresentano un rapace che cattura al volo un agnellino indifeso.  Tenendolo
+in pugno ti senti piu' importante.    
+~
+A
+4 1
+C
+1024 0 0 0
+#11266
+libro~
+un libro nero~
+Un libro dalla copertina nera e' qua.~
+~
+3 4193 16385
+10 5 5 35 20 20
+4 1000 100 0 0 0
+E
+libro~
+   E' un libro tutto nero.  Sfogliandolo ti imbatti in simboli sconosciuti ma
+il tuo intuito ti dice che non e' niente di pacifico.  Sicuramente si tratta di
+magia nera!    
+~
+#11267
+collana perle~
+una collana di perle~
+Una collana di perle e' qui.~
+~
+12 163843 5
+0 0 0 0 30 30
+10 10000 10000 10 0 0
+E
+collana~
+   La collana e' fatta di perle bianchissime provenienti da lontane ed esotiche
+terre.    
+~
+A
+12 8
+#11268
+gambali~
+i gambali di ferro~
+Un paio di robusti gambali di ferro e' qui nella polvere.~
+~
+9 589824 33
+7 0 0 0 100 100
+10 3000 200 21 0 0
+E
+gambali~
+   I gambali sono completamente di ferro battuto.  Molto resistenti ai colpi e
+ottimi in quanto a protezione.  Non potete non averli.    
+~
+#11269
+maniche~
+le maniche imbottite~
+Un paio di maniche imbottite sono qui.~
+~
+9 98305 257
+4 0 0 0 50 50
+8 600 0 8 0 0
+E
+maniche~
+   Sono imbottite di cuoio,stoffa,pezzetti di legno..  Insomma sono state
+costruite alla meglio.  Ma il risultato non e' cosi' disastroso.    
+~
+#11270
+canino~
+un canino~
+Un canino scheggiato di Yaku e' qua.~
+~
+12 80384 32769
+0 0 0 0 70 70
+2 10 0 49 0 0
+E
+ÌO@ÌO@~
+   Il canino di Yaku ti spaventa per quanto e' tagliente.  Forse non e' una
+buona idea metterlo all'orecchio ma ormai e' tuo.  Non credi possa appartenere
+ad un cane qualunque perche' anche solo uno sguardo basta per comprendere il
+male iniettato in quel dente.    
+~
+A
+1 1
+A
+17 -2
+A
+18 1
+#11271
+bastone~
+un grosso bastone~
+Un grosso bastone di legno e' stato abbandonato qui.~
+~
+5 1 8193
+0 3 4 7 20 20
+5 100 0 9 0 0
+#11272
+pasticcino delizia~
+un pasticcino delizia~
+Un pasticcino delizia del palato e' qui.~
+~
+19 524288 1
+0 0 0 0 10 10
+5 0 0 1 0 0
+E
+undefined~
+Nothing.
+~
+#11273
+meringata~
+una meringata spettacolo~
+Una meringata spettacolo e' qui.~
+~
+19 524288 1
+0 0 0 0 10 10
+5 0 0 1 0 0
+E
+undefined~
+Nothing.
+~
+#11274
+baba~
+nu baba che e' una specialita'~
+Nu baba che e' una specialita' e' qui.~
+~
+19 524288 1
+12 0 0 0 10 10
+5 600 0 1 0 0
+E
+undefined~
+Nothing.
+~
+#11275
+talismano~
+un talismano magico~
+Il talismano dell'acqua e' qui coperto di polvere.~
+~
+12 524288 5
+0 0 0 0 10 10
+5 0 0 37 0 0
+E
+talismano~
+   Emana un alone blu di energia.  E' troppo potente per te,solo un mago molto
+esperto lo potra' maneggiare.    
+~
+A
+26 4
+#11276
+talismano~
+un talismano magico~
+Il talismano della natura e' qui coperto di polvere.~
+~
+12 524288 1
+0 0 0 0 10 10
+5 0 0 1 0 0
+E
+talismano~
+   Emana un alone verde di energia.  E' troppo potente per te,solo un mago
+molto esperto lo potra' maneggiare.    
+~
+#11277
+pugnale~
+un pugnale~
+Un pugnale affilatissimo e' qui.~
+~
+5 537120 8193
+0 2 3 14 50 50
+5 1000 300 37 0 0
+A
+2 1
+#11278
+forziere~
+un forziere di ferro~
+Un grosso forziere di ferro e' qui in un angolo.~
+~
+15 524288 0
+1000 5 -1 0 100 100
+1000 0 0 1 0 0
+E
+forziere~
+   E' un massiccio e antico forziere.  La serratura sembra essere arrugginita.
+  
+~
+#11279
+fontana~
+una fontana di marmo bianco~
+&7Una fontana di marmo bianco e' qui accanto alla statua.&0~
+~
+23 0 0
+10000 10000 15 0 0 0
+10005 0 0 1 0 0
+#11280
+coin~
+tante monete~
+Una montagna di monete e' qui che ti aspetta.~
+~
+20 0 1
+5000 0 0 0 10 10
+1 0 0 1 0 0
+#11281
+pozione verde fialetta liquido~
+&2&xuna pozione verde&0~
+Una fialetta piena di un &2&xliquido verde&0 e' qui.~
+~
+10 524288 1
+20 19 0 0 10 10
+1 10000 2000 1 0 0
+E
+pozione bianca~
+   E' una boccetta lunga e stretta che contiene uno strano liquido...  Forse
+latte!    
+~
+#11282
+lunga spada~
+una lunga spada~
+Una lunga spada e' qui.~
+~
+5 65536 8193
+0 3 4 7 60 60
+15 10000 1000 9 0 0
+#11290
+manganello~
+un manganello~
+Un manganello e' qui~
+~
+68 0 16385
+0 0 0 0 30 30
+2 500 10 1 0 0
+#11297
+cassetta metallica~
+una cassetta metallica~
+Una cassetta metallica e' appoggiata per terra~
+~
+15 0 0
+500 15 11299 0 10 10
+0 1 1 1 0 0
+E
+cassetta metallica~
+
+Non sembra un granche'. Assomiglia piu' ad una scatola di sardine ma con due
+piccole differenze... e' ENORME e ha un lucchetto grosso come un cuore di bue.
+
+~
+#11298
+una vecchia chiave~
+una vecchia chiave~
+Una vecchia chiave e' stata abbandonata qui.~
+~
+18 0 1
+0 0 0 0 2 2
+1 1 0 1 0 0
+#11299
+piccola chiave~
+una piccola chiave~
+Una piccola chiave e' stata lasciata qui.~
+~
+18 0 16385
+0 0 0 0 2 2
+1 1 1 1 0 0
+$~

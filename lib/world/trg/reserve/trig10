@@ -1,0 +1,30 @@
+trigedit 10
+6  
+/c 
+if %actor.name% == Night
+set recita %random.4%
+global recita
+wait 2 s
+if %recita% == 4
+Say &1&x Ben tornato Capo! &0
+elseif %recita% == 3
+Say &1&x Ehila! &0 
+elseif %recita% == 2
+Say &1&x Mio signore! &0 
+else
+emote ti sorride felice.
+end
+else
+wait 1 s
+Say &1&x Ehi tu! Questo non e' luogo per te! O mi dici la parola d'ordine o ti accoppo! &0
+set target %actor.name%
+global target
+set allerta on
+global allerta
+set conta 0
+global conta
+end
+~
+/s
+q
+y

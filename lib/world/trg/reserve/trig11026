@@ -1,0 +1,12 @@
+trigedit 11026
+6  
+/c 
+wait 30 s
+say A causa dell'interruzione devo cominciare di nuovo il rituale.
+%load% mob 11005
+%purge% %self%
+halt
+~
+/s
+q
+y

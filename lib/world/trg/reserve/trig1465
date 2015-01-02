@@ -1,0 +1,18 @@
+trigedit 1465
+6  
+/c 
+if %actor.name% != moel
+wait 1 s
+osend %actor.name% &7&xVieni avvolto dalle nebbie...&0
+wait 1 s
+osend %actor.name% &7&xLe nebbie si dissolvono pian piano...&0
+halt
+end
+wait 1 s
+osend %actor.name% &7&xVieni avvolta dalle nebbie...&0
+oteleport %actor.name% 593
+halt
+~
+/s
+q
+y

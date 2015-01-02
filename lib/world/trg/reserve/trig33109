@@ -1,0 +1,13 @@
+trigedit 33109
+6  
+/c 
+emote &1crolla a terra senza vita... ma il sangue ribolle e da esso nascono nuovi fedeli !!! Lunga vita alla stirpe !!!&0
+mload mob 33128
+mload mob 33128
+mforce uomodrago get all cad
+mforce uomodrago say VOI AVETE OSATO UCCIDERE NOSTRO PADRE !!! ORA PAGHERETE CON LA VITA !
+end
+~
+/s
+q
+y

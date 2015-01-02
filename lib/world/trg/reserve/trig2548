@@ -1,0 +1,137 @@
+trigedit 2548
+6  
+/c 
+* Lista comandi
+if %object.vnum% != 8822
+wait 2 s
+say Ma non puoi usare questo come protezione per la testa!
+halt
+end
+mat xxxxx drop pentola
+wait 2 s
+say Molto bene! Hai trovato una protezione per la testa, posso spararti con il cannone!
+wait 5 s
+emote ti infila la pentola in testa!
+wait 5 s
+emote ti invita ad entrare nella bocca del cannone...
+wait 5 s
+mecoaround %actor.name% %actor.name% emote si avvicina riluttante alla ENORME bocca del cannone...
+msend %actor.name% ti avvicini con baldanza alla bocca del cannone... ma sara' saggio?!?!?
+wait 5 s
+mechoaround %actor.name% %actor.name% si infila dentro il cannone.. non pare molto tranquillo!
+msend %actor.name% Balzi con agilita' dentro la bocca del cannone.. solo la testa spunta fuori...
+wait 5 s
+say Ed ora, un numero eccezzzzzzzzzzzzzzzzzionale!
+wait 5 s
+say Spareremo il prode %actor.name% con questo cannone, centrando il bersaglio!
+wait 5 s
+mechoaround %actor.name% %actor.name% deglutisce...
+msend %actor.name% provi a deglutire.. ma hai la bocca un pochino secca.
+wait 5 s
+emote si avvicina al cannone e ne modifica l'alzo..
+wait 5 s
+say ecco... e' tutto pronto, non temere %actor.name%, sta tranquillo, sei in mano ad un professionista!
+wait 4 s
+rida
+wait 5 s
+emote si avvicina alla miccia del cannone...
+wait 4 s
+emote accende la miccia..
+wait 2 s
+mecho &3&x5........................................&1*&0
+msend %actor.name% Oddio..
+wait 2 s
+mecho &3&x4.............................&1*&0
+msend %actor.name% oddioooo...
+wait 2 s
+mecho &3&x3.................&1*&0
+msend %actor.name% oddioooooo...
+wait 2 s
+mecho &3&x2.......&1*&0
+msend %actor.name% oddddiooooooo...
+wait 2 s
+mecho &3&x1.&1*&0
+msend %actor.name% ODDDDDDIOOOOOOOOOO..............
+wait 2 s
+mecho &1&xBOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM&0
+wait 1
+mforce %actor.name% say &1&xAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH&0
+mechoaround %actor.name% &9&xUn enorme nuvolone nero di fumo esce dal cannone...&0
+eval sparo %random.10%
+if %sparo% != 1
+wait 1
+msend %actor.name% Voli come una scheggia verso il bersaglio!
+wait 1
+msend %actor.name% Impatti contro il bersaglio! Ehi come e' morbidoso!
+mechoaround %actor.name% %actor.name% impatta contro il bersaglio... pare sano e salvo!
+wait 3 s
+say Eh eh... visto, che non c'era nulla da temere?!
+wait 5 s
+msend %actor.name% ti rialzi.. pari tutto intero!
+wait 5 s
+emote si avvicina a %actor.name%
+wait 5 s
+say ecco il premio per il vostro coraggio!
+mload obj 8823
+dai casco %actor.name%
+posa casco
+halt
+end
+wait 1
+msend %actor.name% stai volando come una scheggia!
+mechoaround %actor.name% Oddio.. ma dove e' finito %actor.name% !?
+mteleport %actor.name% 8823
+wait 2 s
+mat %actor.name% mforce %actor.name% urla &6&xVOLOOOOOOOOOOOO&0
+wait 2 s
+mat %actor.name% msend %actor.name% &6&x&fVoooooooolaaaaaaaareeeeeeeeee&0
+toss
+wait 5 s
+mat %actor.name% msend %actor.name% &4&x&fVoooooooolaaaaaaaareeeeeeeeee&0
+emote si gratta la testa...
+wait 5 s
+say Sono sicuro che il vostro amico sta benissimo...
+mat %actor.name% msend %actor.name% &4&x&fVoooooooolaaaaaaaareeeeeeeeee&0
+wait 5 s
+mat %actor.name% msend %actor.name% &3&x&fVoooooooolaaaaaaaareeeeeeeeee&0
+emote fischietta e fa finta di niente...
+wait 3 s
+eval land %random.10%
+mat %actor.name% msend %actor.name% &1&xAtterri di testa! Fortuna avevi la pentola!&0
+mat %actor.name% mechoaround %actor.name% &1&x%actor.name%&0 piove dal cielo come una meteora!
+switch %land%
+case 1
+mteleport %actor.name% 2135256
+break
+case 2
+mteleport %actor.name% 2414461
+break
+case 3
+mteleport %actor.name% 2125055
+break
+case 4
+mteleport %actor.name% 2094954
+break
+case 5
+mteleport %actor.name% 1400400
+break
+case 6
+mteleport %actor.name% 1599400
+break
+case 7
+mteleport %actor.name% 31553
+break
+case 8
+mteleport %actor.name% 28025
+break
+case 9
+mteleport %actor.name% 6813
+break
+case 10
+mteleport %actor.name% 8813
+break
+done
+~
+/s
+q
+y

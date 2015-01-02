@@ -1,0 +1,21 @@
+trigedit 12
+6  
+/c 
+if %speech% == darklotus
+if %actor.name% == %target%
+set allerta off
+global allerta
+wait 2 s
+Say &2&x Si! Puoi restare! &0
+unset conta
+unset target
+else
+Say &1&x Non l'ho chiesto a te! &0
+end
+else
+Say &1&x Non credo sia la parola d'ordine giusta. &0
+end
+~
+/s
+q
+y

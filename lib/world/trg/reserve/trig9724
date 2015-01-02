@@ -1,0 +1,30 @@
+trigedit 9724
+6  
+/c 
+if %actor.name% == L'addetto alla ricerca dei manovali
+set ricerca on
+global ricerca
+set %speech%
+global messer
+wait 1 s
+say &3&x D'accordo andro' a cercare tutti i manovali di %Messer% ... con permesso.&0
+wait 1 s
+emote esce frettolosamente dal negozio e sparisce tra le strade della citta'
+else
+end
+goto 9829
+eval conta_manovali %conta_manovali%+1
+global conta_manovali
+mgoto %conta_manovali%.robustissimo
+emote arriva tutto trafelato
+follow manovale
+wait 1 s
+Say Titolare %Messer%
+wait 1 s
+Say rientrate
+else
+end
+~
+/s
+q
+y

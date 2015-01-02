@@ -1,0 +1,12 @@
+trigedit 20
+6  
+/c 
+%send% %actor% &5Inizi ad accumulare rabbia per concentrarla in un unico, potente colpo.&0
+%echoaround% %actor% %actor.name% flette e gonfia ogni muscolo del suo corpo.
+wait 13 s
+global forza
+set caso %random.45%
+~
+/s
+q
+y

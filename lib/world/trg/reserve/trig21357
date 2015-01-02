@@ -1,0 +1,55 @@
+trigedit 21357
+6  
+/c 
+* ---------------------------------------------------------------------------
+* Scrigno nella stanxa con grimaldello a 7/8 dentini. usa il context 0 solo
+* per non confondere le globali usate dalla Room che usa il Context 1.
+context 0
+* ---------------------------------------------------------------------------
+* Controlla che siano già stati generati i bastoncini colorati, in caso 
+* contrario li genera casualmente.
+if (!(%shangai%) || (%shangai% == 0))
+  eval linblu %random.20%
+  global linblu
+  eval linred %random.20%
+  global linred
+  eval linyel %random.20%
+  global linyel
+  eval lingre %random.20%
+  global lingre
+  eval conto %linred% + (%linblu% * %linyel%) + %lingre%
+  global conto
+  set shangai 1
+  global shangai
+end
+* ----------------------------------------------------------------------------
+* Mostra i bastoncini colorati dello shangai, risponde ad ogni singolo colore.
+set count 1
+if %arg% == blu
+  while %count% <= %linblu%
+    %send% %actor.name% &6 /&0
+    eval count %count% + 1
+  done
+elseif %arg% == rossi
+  while %count% <= %linred%
+    %send% %actor.name% &1 /&0
+    eval count %count% + 1
+  done
+elseif  %arg% == verdi
+  while %count% <= %lingre%
+    %send% %actor.name% &2/&0
+    eval count %count% + 1
+  done
+elseif %arg% == gialli
+  while %count% <= %linyel%
+    %send% %actor.name% &3 /&0
+    eval count %count% + 1
+  done
+else
+  %send% %actor.name% Specifica bene il colore di cosa vuoi contare..
+end
+ 
+~
+/s
+q
+y

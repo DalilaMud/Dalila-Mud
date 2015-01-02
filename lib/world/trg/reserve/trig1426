@@ -1,0 +1,14 @@
+trigedit 1426
+6  
+/c 
+if %aquila% == 0
+halt
+end
+set aquila 0
+global aquila
+oecho &7L'aquila ritorna nell'amuleto!&0
+opurge aaaap
+~
+/s
+q
+y

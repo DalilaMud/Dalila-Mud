@@ -1,0 +1,26 @@
+trigedit 2047
+6  
+/c 
+if %speech% == preghiere
+ msend %actor.name% Ecco le preghiere disponibili ai fedeli di Xhyphys:
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% abbandono al Caos
+ msend %actor.name% incarnazione del Caos
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% Ecco le preghiere riservate agli adepti del culto
+ msend %actor.name% ---------------------------------------------------
+ msend %actor.name% altare di Xhyphys
+ msend %actor.name% elmo di Xhyphys
+ msend %actor.name% protettore del Caos
+ msend %actor.name% dono di Xhyphys
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% Ecco le preghiere riservate al capo del culto
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% distruzione di Xhyphys
+end
+~
+/s
+q
+y

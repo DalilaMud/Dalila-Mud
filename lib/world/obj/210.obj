@@ -1,0 +1,604 @@
+#21000
+key jail~
+a jail key~
+A jail key has been carelessly left here.~
+~
+18 4096 1
+0 0 0 0 30 30
+1 0 10 0 0 0
+E
+key jail~
+This is the key to the jail of New Sparta.
+~
+#21001
+handgun gun~
+a handgun~
+A handgun has been left here.  Looks pretty dangerous.~
+~
+5 0 8193
+0 3 6 0 100 100
+12 2000 700 -4 0 0
+E
+handgun gun~
+This is a very deadly weapon, but takes skill to aim and fire.
+~
+A
+1 -1
+A
+18 -2
+#21002
+slippers doggie~
+a pair of doggie slippers~
+A pair of doggie slippers are on the floor.~
+~
+9 0 65
+1 0 0 0 100 100
+2 50 1 1 0 0
+E
+slippers doggie~
+These are very cute and comfortable bulldog slippers.
+~
+#21003
+sneakers nike~
+a pair of Nike sneakers~
+A pair of Nike sneakers are on the ground.~
+~
+9 0 65
+2 0 0 0 100 100
+14 60 20 1 0 0
+E
+nike sneakers~
+These are just like the ones Michael Jordan wears!
+~
+#21004
+jeans blue~
+a pair of blue jeans~
+A pair of blue jeans is lying on the ground.~
+~
+9 0 33
+2 0 0 0 100 100
+8 150 30 1 0 0
+#21005
+sweatshirt sweat shirt~
+a sweatshirt~
+A sweatshirt is lying on the ground.~
+~
+9 0 9
+1 0 0 0 100 100
+10 200 10 1 0 0
+#21006
+overcoat coat~
+an overcoat~
+An overcoat was thrown on the ground here.~
+~
+11 0 9
+0 0 0 0 100 100
+20 15000 1500 17 0 0
+A
+17 -4
+#21007
+sweatpants pants~
+a pair of sweatpants~
+A pair of sweatpants has been left here.~
+~
+9 0 33
+1 0 0 0 70 70
+8 150 10 1 0 0
+#21008
+pads shoulder~
+a pair of shoulder pads~
+A pair of shoulder pads is sitting here.~
+~
+11 0 5
+0 0 0 0 70 70
+50 5000 1000 22 0 0
+A
+1 1
+A
+2 -1
+#21009
+bat baseball~
+a baseball bat~
+A baseball bat is lying here.~
+~
+5 0 8193
+0 2 6 0 100 100
+10 900 90 1 0 0
+E
+baseball bat~
+A 34 oz. Louisville Slugger
+~
+#21010
+nightstick stick~
+a nightstick~
+A nightstick is has been left here.~
+~
+5 64 8193
+0 1 6 0 100 100
+6 1000 60 21 0 0
+E
+nightstick stick~
+Just like the ones used to beat Rodney King!
+~
+A
+19 1
+#21011
+switchblade knife blade~
+a switchblade knife~
+A switchblade knife has been dropped here.~
+~
+5 0 8193
+0 2 3 1 100 100
+6 60 400 7 0 0
+E
+switchblade knife blade~
+If you are using this, you are probably a punk.
+~
+#21012
+chain~
+a chain~
+A long chain is lying on the ground.~
+~
+5 0 24577
+0 3 3 0 100 100
+10 300 400 1 0 0
+#21013
+rod connecting~
+a connecting rod~
+A connecting rod is lying on the ground.~
+~
+5 0 8193
+0 2 6 0 100 100
+20 500 100 1 0 0
+E
+connecting rod~
+This is a long, heavy rod with a pointy end used on the job by
+construction workers -- structural ironworkers to be exact.
+~
+#21014
+bastone~
+un bastone d'argento~
+Un bastone d'argento vibra frenetico~
+~
+5 2 24577
+0 1 4 0 100 100
+3 160 20 1 0 0
+E
+silver dildo~
+As it has many uses, this fine piece of both weaponry and pleasure sure
+gets a lot of use.
+~
+#21015
+set pom-poms~
+a set of pom-poms~
+A set of pom-poms is lying here.~
+~
+5 0 24577
+0 1 3 0 100 100
+3 30 10 1 0 0
+#21016
+fish~
+a fish~
+A dead fish has been left here.~
+~
+19 0 1
+12 0 0 0 40 40
+1 150 10 1 0 0
+#21017
+belt tool~
+a tool belt~
+A tool belt has been left here.~
+~
+9 0 2049
+2 0 0 0 80 80
+13 1000 200 1 0 0
+E
+tool belt~
+Don't wear this too long, or your pants will sag and your 
+butt will show.
+~
+#21018
+hardhat hat~
+a hardhat~
+A hardhat is lying on the ground.~
+~
+9 0 17
+3 0 0 0 80 80
+6 500 50 5 0 0
+E
+hardhat hat~
+A construction worker's hardhat.
+~
+#21019
+axe fireman~
+a fireman's axe~
+A fireman's axe lies here.~
+~
+5 0 8193
+0 2 6 3 100 100
+10 6000 150 7 0 0
+#21020
+doughnut~
+a doughnut~
+A doughnut is here, waiting to be eaten.~
+~
+19 0 1
+5 0 0 0 10 10
+1 60 5 1 0 0
+#21021
+lobster~
+a lobster~
+A lobster is here, ready to be eaten.~
+~
+19 0 1
+24 0 0 0 10 10
+1 900 25 1 0 0
+#21022
+bag potato chips~
+a bag of potato chips~
+A bag of potato chips has been left here.~
+~
+12 0 1
+12 0 0 0 10 10
+1 15 5 1 0 0
+#21023
+box pretzels~
+a box of pretzels~
+A box of pretzels is here.~
+~
+15 0 1
+18 0 0 0 100 100
+1 18 10 1 0 0
+#21024
+bottiglia metallo~
+Una bottiglietta di metallo&0~
+Una bottiglietta di metallo e' qui.~
+~
+17 0 16385
+10 10 5 0 20 20
+15 20 10 1 0 0
+#21025
+cartone di tea freddo~
+Un cartone di tea freddo~
+Un cartone di Tea freddo e' qui.~
+~
+17 0 1
+2 2 11 0 20 20
+7 10 6 1 0 0
+#21026
+cartone latte~
+Un cartone di latte~
+Un cartone di latte e' qui.~
+~
+17 0 1
+2 2 10 0 20 20
+7 15 7 1 0 0
+#21027
+hoagie italian~
+an Italian hoagie~
+An Italian hoagie is sitting here.~
+~
+19 0 1
+11 0 0 0 20 20
+1 138 9 1 0 0
+#21028
+jacket suit~
+a suit jacket~
+A suit jacket is lying here.~
+~
+9 0 9
+2 0 0 0 80 80
+3 100 33 1 0 0
+#21029
+necktie tie neck~
+a necktie~
+A necktie has been left here.~
+~
+9 0 5
+2 0 0 0 80 80
+1 25 10 1 0 0
+E
+necktie tie neck~
+This is worse looking than what you gave you dad on Father's Day!
+~
+#21030
+camera~
+a camera~
+A camera is on the ground.~
+~
+3 65600 16389
+8 5 5 4 30 30
+24 20000 5000 1 0 0
+E
+camera~
+This camera is more confusing than any item you have ever seen.
+~
+#21031
+grata chiave~
+la chiave arrugginita~
+Una chiave di metallo arrugginita.~
+~
+18 4 16385
+21119 0 0 0 30 30
+5 0 0 1 0 0
+#21032
+fountain water~
+the large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+~
+23 92 0
+9999 9999 15 0 100 100
+9999 0 0 1 0 0
+E
+marble blue streaked~
+It is a well crafted fountain, carved from a single piece of very beautiful
+white marble shot through with electric blue streaks that look almost like
+lightning dancing along the sides of the fountain.  It seems to be enchanted
+in some manner, as the water level seems to never lower.
+~
+#21050
+armatura di Ferus~
+L'Armatura in &8&6Titanio&0 ed &8&3Oro&0 di &8Ferus&0~
+L'Armatura del &8Dio Ferus&0 e' qui!~
+L'armatura e' fatta di titanio ed oro ed e' finemente
+decorata con scene raffiguranti i 5 elementi:
+aria, acqua, terra, fuoco e spirito.
+Impossibile non notare che l'armatura emette una
+luce intensa di color azzurro chiaro.
+~
+9 321 9
+0 0 0 0 100 100
+5 50000 20000 431 1 5
+A
+17 -50
+C
+5242880 0 0 0
+#21051
+mantello ferus~
+Il mantello nero di &8Ferus&0~
+Il magico mantello nero del &8Dio Ferus&0 e' qui, sospeso ad un metro da terra.~
+~
+9 64 65537
+0 0 0 0 100 100
+1 100000 0 22 5 2
+C
+33554432 0 0 0
+#21052
+stivali titanio~
+Un paio di stivali in &8&6titanio&0~
+Un paio di possenti stivali in &8&6titanio&0~
+~
+9 1 65
+0 0 0 0 100 100
+1 100000 0 1 1 0
+#21060
+anelloferus~
+L'anello protettivo di &8Ferus&0~
+L'anello protettivo di &8Ferus&0 e' qui per terra.~
+~
+9 64 3
+0 0 0 0 40 40
+1 100000 0 172 1 5
+E
+Anello~
+L'anello emette un magico alone di luce che cangia dal rosso al blu.
+Guardandolo provi un'incredibile senso di protezione.
+~
+C
+34603008 0 0 0
+#21061
+Un Diario~
+Un Diario sporco di sangue~
+Un Diario sporco di sangue e' per terra.~
+~
+16 524288 1
+0 0 0 0 5 5
+3 0 0 1 6 1
+E
+Diario~
+...sono stato testimone di un avvenimento pazzesco...
+Un miserabile ladro ubriaco (solo cosi' mi spiego la sua follia)
+passando per la valle degli Elfi si e' trovato nel
+bel mezzo di una cerimonia religiosa.
+Gli Elfi erano riuniti in una radura, intorno ad un altare
+di pietra, su cui il Potente Dio Ferus aveva lasciato
+il suo Anello Protettivo, perche' donasse a tutti gli Elfi
+della Valle parte dei suoi magici poteri difensivi.
+Lo sciagurato ladro in preda ai suoi miseri istinti ed
+utilizzando i suoi poteri per non farsi notare, ha RUBATO
+il Divino manufatto e si e' dileguato nel nulla, prima
+che le guardie potessero fermarlo.
+Disgrazia e Maledizione ci colpiranno per aver lasciato
+che un misero essere umano si impadronisse dell'Anello di un DIO!!
+Io ed i miei compagni partiremo quanto prima per frugare
+tutti i bassifondi di tutta la Daresia!!
+Lascio queste parole in modo che tutti i fedeli di Ferus
+possano leggerle e venirci in aiuto!
+
+~
+#21062
+medaglione medaglioneferus~
+&W&9Il Medaglione delle Sacerdotesse di &4Ferus&0~
+&W&9Il Medaglione delle Sacerdotesse di &4Ferus&0 giace qui per terra.~
+~
+9 256 5
+0 0 0 0 100 100
+1 200000 0 22 1 5
+E
+medaglione~
+Sul Medaglione e' inciso il volto di Ferus circondato da una serie
+di rune magiche ed incomprensibili.
+Solo a guardarlo, il medaglione ti riempie di fiducia e ti da' un
+incredibile senso di protezione!
+~
+C
+33554432 0 0 0
+#21063
+medaglione meda2ferus~
+&W&6Il Medaglione dei Fedeli di Ferus&0~
+&W&6Il Medaglione dei Fedeli di Ferus&0 giace per terra incustodito.~
+~
+8 64 5
+0 0 0 0 100 100
+1 0 0 23 1 1
+E
+medaglione~
+Il medaglione e' di puro argento, finemente cesellato con
+disegni di scene raffiguranti incontri di DEI in luoghi
+incredibili.
+~
+A
+3 1
+#21090
+bambino bambinoashmet figlio~
+Il Figlio di Sanyaka e Ashmet~
+Il Figlio di Sanyaka e Ashmet e' qui.~
+~
+12 0 1
+0 0 0 0 100 100
+5 0 0 1 0 0
+E
+bambino~
+Uno splendido bambino paffutello e dagli occhi color del ghiaccio,
+ha uno strano alone attorno.
+~
+#21094
+maestosa quercia peloi chardhros~
+una Maestosa Quercia~
+Una Maestosa Quercia.~
+~
+12 0 0
+0 0 0 0 0 0
+0 0 0 1 2 2
+E
+foglie~
+Le foglie sono il simbolo dell'adattabilita' dei Peloi , sempre pronti
+e decisi nelle loro azioni , sempre pronti ad ogni evenienza.
+~
+E
+rami~
+Molti rami si dividono dal tronco , tre i piu' grandi e i piu' bassi .
+I primi e nascere e capostipiti di nuovi rami .
+Su ogniuno di essi leggi un nome , come vuole la tradizione
+ad ogni Peloi che nasce un ramo prende il suo nome , ricordando
+allo stesso il suo legame alla famiglia.
+Quando un ranger muore , il ramo stesso e' giunto alla fine della sua
+esistenza , cadendo a terra , a quel punto una pietra viene posta
+a lato della radura e il ramo ripiantato dietro ad essa , originando
+un nuovo albero.
+~
+E
+tronco~
+Guardi il tronco enorme e osservi la sua solidita' , sapendo che
+niente e nessuno potra' intaccarlo e comprendi come
+esso si esuli dal resto , come esso esista da sempre
+e per sempre esistera'.
+~
+E
+quercia~
+Rimani affascinato dalla vista di tanta maestosita'.
+Esso rappresenta l'intera stirpe dei Peloi ,
+il &1tronco&0 la loro unita' e la loro forza , i &2rami&0 la
+loro indipendenza e individualita' , le &2&xfoglie&0 la capacita' di resistere 
+ad ogni intemperia e ad ogni ostacolo piegandosi se necessario senza mai spezzarsi.
+Nulla puo' scalfirlo , nulla puo' abbatterlo , come lo spirito presente in 
+ogni peloi, lo spirito che la natura ha dato ai propri figli.
+~
+#21095
+statuetta chardhros~
+una statuetta di &BChardhros il mietitore&0~
+Una statuetta di &BChardhros il mietitore&0.~
+~
+8 0 1
+0 0 0 0 100 100
+10 10000 1000 1 4 1
+E
+statuetta chardhros~
+La statuetta di Chardhros il mietitore completamente fatta in quarzo
+e creata da un potere piu' grande di quello degli Dei.
+
+Guardandola non ti senti affatto rassicurato, intorno a lei senti lo stesso
+potere malvagio di cui e' circondato il dio Mietitore.
+~
+#21096
+artiglio Kajash~
+l'artiglio di Kajash~
+Un artiglio putrefatto e qui.~
+Questo e l'artiglio di Kajash un potente artefatto.
+~
+0 524419 1
+0 0 0 0 100 100
+1 1000 100 1 0 0
+#21097
+maschera rituale chardhros~
+la &1Maschera Rituale&0 di Chardhros~
+La &1Maschera Rituale&0 di Chardhros si trova per terra! &1SACRILEGIO&0.~
+~
+12 515 262145
+0 0 0 0 100 100
+1 100000 10000 0 3 4
+A
+9 100
+#21098
+pugnale maledetto chardhros~
+il pugnale maledetto di Chardhros~
+Il pugnale maledetto di Chardhros.....&1NON PRENDERLO!&0~
+~
+5 34146956 8193
+2 2 20 1 4 5
+10 100000 10000 59 3 3
+A
+19 1
+A
+10 -100
+A
+11 -10
+A
+9 100
+#21099
+veste chardhros~
+la veste nera di Chardhros~
+La veste nera di Chardhros e' qui. Ma che cavolo ci  fa' qui?~
+Se non e' un dono di Chardhros non ti conviene indossarla.
+~
+11 0 9
+0 0 0 0 100 100
+10 10000 100 1 3 0
+#21100
+macchina lyer chardhros~
+la macchina di Lyer~
+La macchina di Lyer e' SENZA BENZINA!~
+~
+13 0 1
+0 0 0 0 100 100
+100 0 0 1 0 0
+#21101
+gadget smau 2000 presenti~
+il gadget della SMAU 2000~
+Qualcuno ha perso il suo favoloso gadget della SMAU 2000!~
+~
+8 0 1048577
+0 0 0 0 10 10
+1 1 1 1 3 0
+E
+gadget smau 2000~
+Sul tuo favoloso Gadget della SMAU 2000 leggi:
+IO C'ERO E POSSO DIRE CHE SIAMO GRANDI!
+~
+#21102
+gadget smau 2000 assenti~
+il gadget della SMAU 2000 (falso)~
+Qualcuno ha lasciato qui la sua imitazione del favoloso gadget della SMAU 2000!~
+~
+8 0 1048577
+0 0 0 0 10 10
+1 1 1 1 0 0
+E
+gadget smau 2000~
+Su questa imitazione del gadget della SMAU 2000 vedi scritto con
+una calligrafia incerta:
+
+AVREI TANTO VOLUTO ESSERCI!
+
+~
+$~

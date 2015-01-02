@@ -1,0 +1,55 @@
+trigedit 12550
+6  
+/c 
+if %actor.name% == Il segretario reale
+if %speech% /= segui
+%speech%
+wait 2
+nod
+end
+if %speech% /= funzionario
+set %speech%
+global funzionario
+wait 2
+nod
+end
+end
+if %actor.name% == %funzionario%
+if %speech% == finito
+wait 2
+emote se ne va
+wait 2
+mgoto 2
+foll ferra
+end
+if %speech% == stanza
+wait 2
+say stanza numero: %self.room%
+end
+if %speech% == fissa
+if %self.room% > 39999 && %self.room% < 40200
+wait 5
+emote tira un sospiro, inizia a montare rapidamente una cassaforte nel muro
+wait 1 s
+mload mob 12607
+wait 5
+Say Finito, vi bastera' darle la roba da tenere al sicuro
+wait 5
+say Per riprenderla non dovrete fare altro che dirle &1'Say posa <oggetto>'&0
+wait 8
+say Ora il dovere mi chiama, a presto signori
+wait 5
+emote si dirige a passi rapidi verso il Palazzo Reale
+mgoto 2
+else
+wait 5
+emote si guarda attorno....
+wait 5
+say Qui???? Ma siete pazzo!
+end
+end
+end
+~
+/s
+q
+y

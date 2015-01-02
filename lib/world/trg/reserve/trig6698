@@ -1,0 +1,56 @@
+trigedit 6698
+6  
+/c 
+if %actor.canbeseen%
+if %speech% == Pasta
+if %actor.gold% >= 40
+wait 1 s
+say ecco a voi un bel piatto di pasta fumante!
+%force% %actor% dai 40 coin viviana
+%load% obj 1858
+dai pasta %actor.name%
+else
+say Non hai abbastanza soldi!!!
+end
+end
+  if %speech% == Pizza
+if %actor.gold% >= 30
+wait 1 s
+say ecco a voi una bella pizza fumante!
+%force% %actor% dai 30 coin viviana
+%load% obj 1856
+dai pizza %actor.name%
+else
+say Non hai abbastanza soldi!!!
+end
+end
+  if %speech% == Peperoni
+if %actor.gold% >= 40
+wait 1 s
+say ecco a voi i miei migliori peperoni!
+%force% %actor% dai 40 coin viviana
+%load% obj 1855
+dai peperoni %actor.name%
+else
+say Non hai abbastanza soldi!!!
+end
+end
+  if %speech% == Melanzane
+if %actor.gold% >= 50
+wait 1 s
+say ecco a voi le mie migliori melanzane!
+%force% %actor% dai 50 coin viviana
+%load% obj 1854
+dai melanzane %actor.name%
+else
+say Non hai abbastanza soldi!!!
+end
+end
+else
+wait 1 s
+say io non tratto con chi non posso vedere
+end
+~
+/s
+q
+y

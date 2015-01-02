@@ -1,0 +1,234 @@
+#6500
+nano guardiano~
+un nano guardiano~
+Un nano guardiano e' qui.
+~
+La guardia sembra molto robusta e capace.  Ha una lunga barba e, a giudicare
+dall'odore, non deve aver fatto il bagno da mesi.    
+~
+~
+~
+~
+6154 1032 300 -1 -1 -1 -1 -1 E
+18 13 5 1d1+210 2d7+2
+18 20000
+8 8 1
+Spec: 16
+E
+#6501
+nano minatore~
+un nano minatore~
+Un minatore nano e' qui.
+~
+E' molto sporco e sembra estremamente indaffarato.
+~
+~
+~
+~
+262248 1024 90 -1 -1 -1 -1 -1 E
+16 16 5 1d1+150 1d12+4
+14 17000
+8 8 1
+E
+#6502
+wraith~
+una wraith~
+Una wraith e' qui che attende che tu faccia la prima mossa.
+~
+Una wraith scura, quasi trasparente.
+~
+~
+~
+~
+188458 1064 -400 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+500 2d12+6
+20 70000
+8 8 1
+E
+#6503
+negoziante dente cuoio~
+Dente di cuoio il negoziante~
+Dente di Cuoio, il negoziante, e' qui in attesa di clienti.
+~
+Il negoziante e' molto grasso, ma sembra in eccellenti condizioni.    
+~
+~
+~
+~
+11 136 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 0d12+50 10d10+50
+99 800000
+8 8 1
+Spec: 0
+E
+#6504
+fornaio testa granito~
+Testa di Granito, il fornaio~
+Testa di Granito, il fornaio, e' in attesa di clienti.
+~
+Testa di Granito e' sporco di farina.    
+~
+~
+~
+~
+8203 8 100 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+80 150000
+8 8 1
+Spec: 0
+E
+#6505
+lucertola gigante~
+una lucertola gigante~
+Una lucertola gigante sta cercando del cibo sul pavimento della caverna.
+~
+Questa creatura sembra essersi ben adattata alla vita sotterranea.  Sembra
+molto forte.    
+~
+~
+~
+~
+72 1032 -100 -1 -1 -1 -1 -1 E
+22 12 3 1d1+290 2d9+3
+12 58000
+8 8 1
+E
+#6506
+gigante~
+un gigante~
+Un gigante sta girando qua attorno.
+~
+Il gigante e' alto quasi 5 metri, ha braccia d'acciaio e sembra in eccellenti
+condizioni fisiche.    
+~
+~
+~
+~
+2120 1024 60 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+18 43000
+8 8 1
+E
+#6507
+nano minatore~
+un nano minatore~
+Un nano minatore e' qui.
+~
+E' molto stanco e sporco, ha dei muscoli impressionanti.
+~
+~
+~
+~
+264296 1032 5 -1 -1 -1 -1 -1 E
+15 16 4 1d1+150 2d8+4
+13 20000
+8 8 1
+E
+#6508
+capo minatore nano~
+il capo minatore~
+Il capo minatore dei nani e' qui che supervisiona il lavoro.
+~
+Il capo minatore e' molto grosso e forte, deve anche essere discretamente
+intelligente per aver avuto questo incarico.    
+~
+~
+~
+~
+2058 1024 70 -1 -1 -1 -1 -1 E
+23 12 2 1d1+320 2d9+3
+17 55000
+8 8 1
+E
+#6509
+nano medico guaritore~
+un medico nano~
+Un medico nano e' qui che aiuta i malati.
+~
+E' un guaritore molto esperto e estremamente pio verso il suo dio.    
+~
+~
+~
+~
+2090 1160 99 -1 -1 -1 -1 -1 E
+25 11 1 1d1+250 2d10+5
+22 120000
+8 8 1
+E
+#6510
+nano malato~
+un nano malato~
+Un nano malato e' qui che attende di essere curato.
+~
+Sembra messo veramente male, e' pallido e trema vistosamente.
+~
+~
+~
+~
+4106 1024 50 -1 -1 -1 -1 -1 E
+10 12 7 1d1+90 2d7+1
+8 3000
+8 8 1
+E
+#6511
+nano~
+un nano~
+Un nano e' qui.
+~
+Sembra un comune nano, con la barba lunga e folta.
+~
+~
+~
+~
+10 1024 50 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+15 18000
+8 8 1
+E
+#6514
+guardia caserma nano~
+una guardia della caserma~
+Una guardia della caserma e' qui che si riposa attendendo il suo turno di servizio.
+~
+Sembra molto robusta e ben addestrata.
+~
+~
+~
+~
+4106 1024 10 -1 -1 -1 -1 -1 E
+15 12 5 1d1+160 2d6+3
+8 20000
+8 8 2
+E
+#6516
+custode labirinto~
+il custode del labirinto~
+Il custode del labirinto e' qui.
+~
+Sembra molto forte.
+~
+~
+~
+~
+2090 1160 -100 -1 -1 -1 -1 -1 E
+31 8 -1 1d1+300 3d7+6
+21 170000
+8 8 1
+E
+#6517
+serpente gigante~
+un serpente gigante~
+C'e' un serpente gigante qui.
+~
+E' un grosso serpente dalle squame verdastre.
+~
+~
+~
+~
+43 1032 -100 -1 -1 -1 -1 -1 E
+26 11 1 1d1+400 2d10+5
+20 140000
+8 8 1
+Spec: 13
+E
+$

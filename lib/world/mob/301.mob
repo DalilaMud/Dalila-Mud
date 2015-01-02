@@ -1,0 +1,628 @@
+#30100
+gallina gigante~
+una gallina gigante~
+Una gallina gigante sta razzolando in giro.
+~
+La gallina gigante smette di razzolare, ti guarda con un occhio, poi
+con l'altro, non ti avra' scambiato per un succulento verme? No si
+rimette a razzolare.
+~
+~
+~
+~
+72 1024 200 -1 -1 -1 -1 -1 E
+24 12 2 1d1+345 2d9+3
+18 20000
+8 8 0
+E
+#30101
+gallo~
+un gallo enorme~
+Un gallo enorme sta controllando la situazione.
+~
+Il gallo enorme ti controlla con un occhio, si impettisce e ti
+controlla con l'altro occhio, poi ti lascia perdere, avra' pensato che
+non sei un pericolo per lui.
+~
+~
+~
+~
+10 1024 300 -1 -1 -1 -1 -1 E
+23 12 2 1d1+320 2d9+3
+18 100000
+8 8 1
+E
+#30102
+volpe~
+una volpe famelica~
+Una volpe famelica si aggira nel folto spiando le galline.
+~
+La volpe ha uno sguardo astuto, ogni tanto si ferma a fissare una
+gallina si lecca i baffi, e poi avanza piano piano nel folto.
+~
+~
+~
+~
+10 1056 -300 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+13 100000
+8 8 2
+E
+#30103
+formica operaia~
+una formica operaia~
+Una formica gigante sta cercando qualcosa da mangiare.
+~
+La formica e' orrenda, sembra non aver occhi ma le due grosse tenaglie
+che ha davanti sono mostruose. Ad un certo punto muove le sue antenne
+nella tua direzione, ma poi se ne va.
+~
+~
+~
+~
+72 1024 100 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+10 12000
+8 8 1
+E
+#30104
+formica guerriera~
+una formica guerriera~
+Una formica enorme sembra controllare la zona.
+~
+La formica e' dotata di due tenaglie incredibilmente enormi, non sembra
+interessata a lavorare, va su e giu' come se stesse cercando csa c'e'
+che non va.
+~
+~
+~
+~
+4168 1024 300 -1 -1 -1 -1 -1 E
+15 14 5 1d1+200 2d7+2
+8 30000
+8 8 2
+E
+#30105
+formica regina~
+la formica regina~
+La formica regina si sta facendo curare dalle altre formiche.
+~
+La formica regina e' veramente enorme, apparte far presenza, sembra non
+far assolutamente nulla, si fa fare tutto dalle altre formiche.
+~
+~
+~
+~
+10 1152 500 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+350 3d7+6
+22 100000
+8 8 2
+E
+#30106
+gatto~
+un gatto gigantesco~
+Un gatto gigantesco passa di qua silenziosamente.
+~
+Il gatto assomiglia di piu' ad una tigre molto cresciuta forse anche
+troppo, ti lancia un'occhiata agghiaciante e ti salta adosso.
+~
+~
+~
+~
+104 263168 -300 -1 -1 -1 -1 -1 E
+19 15 5 1d1+240 2d5+3
+11 95000
+8 8 1
+E
+#30107
+topo~
+un grosso topo~
+un grosso topo annussa in giro per trovare del cibo.
+~
+Il topo e' veramente grande, quando lo guradi per la prima volta ti
+sembra un ratto di fogna eccezionale, ma poi ti accorgi che e' un
+semplice topo di campagna.
+~
+~
+~
+~
+72 1024 -500 -1 -1 -1 -1 -1 E
+18 13 5 1d1+210 2d7+2
+10 20000
+8 8 1
+E
+#30108
+ratto fogna~
+un ratto di fogna gigante~
+Un ratto di fogna gigante ti salta adosso.
+~
+Il ratto gigante e' veramente mostruoso, i suoi occhi luccicano nel
+buio  con una luce sinistra e malvagia.
+~
+~
+~
+~
+42 1024 -700 -1 -1 -1 -1 -1 E
+20 13 2 1d1+260 3d5+4
+13 95000
+8 8 1
+E
+#30109
+mosca~
+una mosca gigante~
+una mosca gigante svollazza un po' in torno e poi si posa qua.
+~
+La mosca gigante cammina in giro un po' a caso e ogni tanto si mette a
+succhiare qualcosa. Poi riparte fa un paio di giri in aria e riaterra.
+~
+~
+~
+~
+42 1024 0 -1 -1 -1 -1 -1 E
+25 10 -1 1d1+650 4d8+4
+14 15
+8 8 2
+Spec: 15
+E
+#30110
+scarafaggio~
+uno scarafaggio enorme~
+uno scarafaggio enorme e' qui a rosicchiare qualcosa.
+~
+Lo scarafaggio enorme sembra di piu' un'allucinazione o un effeto
+ottico, non riesci a credere che ne esistano di cosi' grandi.
+~
+~
+~
+~
+10 1024 -200 -1 -1 -1 -1 -1 E
+22 12 3 1d1+290 2d9+3
+19 15000
+8 8 1
+E
+#30111
+pulce~
+una grandissima pulce~
+Una grandissima pulce saltella qua in giro.
+~
+Non riesci a vedere bene la grandissima pulce perche' non sta mai
+ferma, continua saltare a destra e a sinistra, comunque e' lo stesso
+molto impressionante.
+~
+~
+~
+~
+72 1024 -200 -1 -1 -1 -1 -1 E
+22 12 5 1d1+290 2d9+3
+15 15000
+8 8 2
+E
+#30112
+ragno~
+un ragno gigante~
+un ragno gigante ha tessuto la sua ragnatela prprio qui.
+~
+Il ragno sta immobile immezo alla sua tela aspettando che qualcuno
+finisca dentro alla sua trappola mortale.
+~
+~
+~
+~
+10 1032 -300 -1 -1 -1 -1 -1 E
+35 17 3 1d1+400 2d6+2
+28 20
+8 8 1
+E
+#30113
+millepiedi~
+un millepiedi lunghissimo~
+un millepiedi lunghissimo si sta godendo il sole.
+~
+Il millepiedi e' incredibilmente lungo, sara' almeno 1 metro, potresti
+usarlo quasi come cintura.
+~
+~
+~
+~
+10 1024 300 -1 -1 -1 -1 -1 E
+22 12 3 1d1+290 2d8+3
+15 12000
+8 8 1
+E
+#30114
+passero~
+un passero gigante~
+un passero gigante cinguetta allegramente.
+~
+Il passero sembra un enorme tacchino, ci potresti fare un bel arrosto e
+sfamarci una tavolata da dieci persone.
+~
+~
+~
+~
+10 1024 300 -1 -1 -1 -1 -1 E
+23 12 3 1d1+320 2d9+3
+14 30000
+8 8 1
+E
+#30115
+scoiattolo~
+un grossissimo scoiattolo~
+Un grossissimo scoiattolo sta rossicchiando una ghianda.
+~
+Lo scoiattolo sta rosicchiando una ghianda che potrebbe essere
+un'anguria, pero' viste le dimensioni dell'animale ti sembra normale.
+~
+~
+~
+~
+10 1024 300 -1 -1 -1 -1 -1 E
+25 -10 0 10d10+350 2d6+6
+13 60000
+8 8 1
+E
+#30116
+merlo~
+un merlo enorme~
+Un merlo enorme fischia allegramente.
+~
+Il merlo e' veramente enorme, stai pensado al banchetto che potresti
+offrire ai tuoi amici con una bestia simile.
+~
+~
+~
+~
+10 1024 300 -1 -1 -1 -1 -1 E
+32 9 -2 1d1+550 3d8+6
+31 40000
+8 8 1
+E
+#30117
+pecora~
+una pecora gigante~
+Una pecora gigante sta brucando moltissima erba.
+~
+Quanto guardi la pecora gigante pensi alle tonnelata di lana che deve
+avere adosso e quanti maglioni potresti farci con essa.
+~
+~
+~
+~
+10 1024 400 -1 -1 -1 -1 -1 E
+28 10 1 1d1+450 2d10+5
+22 92000
+8 8 2
+E
+#30118
+cane pastore~
+un cane pastore enorme~
+Un cane pastore enorme sta controllando un greggie gigante.
+~
+Il cane pastore guarda con sguardo indifferente il gregge di pecore,
+mentre il suo padrone si fa un riposino.
+~
+~
+~
+~
+10 1024 500 -1 -1 -1 -1 -1 E
+24 12 2 0d1+345 2d9+3
+23 75000
+8 8 1
+E
+#30119
+neurone~
+un neurone~
+Un neurone manda e riceve informazioni in continuazione.
+~
+Il neurone e' e' una cellula che manda e riceve in continuazione
+scariche elettriche, sembra una centrale in corto circuito.
+~
+~
+~
+~
+6154 1024 500 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+2
+10 88000
+8 8 1
+E
+#30120
+atrio sinistro~
+l'atrio sinistro~
+L'atrio sinistro sta aspirando il sangue.
+~
+L'atrio sinistro aspira il sangue ricco di ossigeno proveniente dai 
+polmoni e lo spinge nel ventricolo sinistro.
+~
+~
+~
+~
+260106 1152 500 -1 -1 -1 -1 -1 E
+21 12 4 1d1+150 2d8+3
+15 100000
+8 8 1
+E
+#30121
+atrio destro~
+l'atrio destro~
+L'atrio destro sta aspirando il sangue.
+~
+L'atrio destro aspira il sangue povero di ossigeno proveniente dal 
+corpo e lo spinge nel ventricolo destro.
+~
+~
+~
+~
+256010 1024 500 -1 -1 -1 -1 -1 E
+21 20 4 1d1+170 2d8+3
+14 100000
+8 8 1
+E
+#30122
+ventricolo sinistro~
+il ventricolo sinistro~
+Il ventricolo sinistro sta pompando il sangue.
+~
+Il ventricolo sinistro pompa il sangue ricco di ossigeno proveniente
+dal  ventricolo sinistro nell'intero corpo.
+~
+~
+~
+~
+260106 1152 500 -1 -1 -1 -1 -1 E
+21 12 4 1d1+160 2d8+3
+17 100000
+8 8 1
+E
+#30123
+ventricolo destro~
+il ventricolo destro~
+Il ventricolo destro sta pompando il sangue.
+~
+Il ventricolo destro pompa il sangue povero di ossigeno proveniente
+dal  ventricolo destro ai polmoni.
+~
+~
+~
+~
+260106 1152 500 -1 -1 -1 -1 -1 E
+21 12 4 1d1+165 2d8+3
+17 150000
+8 8 2
+E
+#30124
+insulina~
+l'insulina~
+L'insulina e' un po' dapertutto.
+~
+L'insulina che roba sara mai? Riesci a vedere che e' un qualcosa di
+liquido che e' un po' dappertuttto.
+~
+~
+~
+~
+4106 1152 500 -1 -1 -1 -1 -1 E
+26 11 1 1d1+370 2d10+5
+15 90000
+8 8 2
+E
+#30125
+ferro~
+il ferro~
+Il ferro e' qua accumulato come in un deposito.
+~
+Proprio ferro non sembra ma quando controlli meglio di accorgi che e'
+ossido di ferro, tutta ruggine!
+~
+~
+~
+~
+65546 1024 500 -1 -1 -1 -1 -1 E
+35 10 -1 1d1+550 2d10+5
+20 20
+8 8 1
+E
+#30126
+dente~
+un dente~
+Un dente mezzo marcio e cariato emana un odore nauseabondo.
+~
+Il dente fa abbastanza schifo, oltre a resti di cibo incrostati e'
+ricoperto da uno strato denso di placca che si interrompe solo per
+qualche caria.
+~
+~
+~
+~
+10 1024 -200 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+350 2d4+4
+17 20
+8 8 1
+E
+#30127
+tonsilla~
+una tonsilla~
+Una tonsilla pende dalla gola e dondola di qua e di la.
+~
+La tonsilla sembra un'enorme goccia che deva staccarsi e cadere da un
+momento all'altro.
+~
+~
+~
+~
+253962 1024 300 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+18 20
+8 8 2
+E
+#30128
+acido cloridrico~
+l'acido cloridrico~
+L'acido cloridrico e' qua che sta sciogliendo qualcosa.
+~
+L'acido cloridrico e' qualcosa di indefinito, sembra un liquido dotato
+di vita, si muove come se avesse una ragione.
+~
+~
+~
+~
+253994 1024 300 -1 -1 -1 -1 -1 E
+10 14 7 1d1+90 1d8+1
+7 130000
+8 8 1
+E
+#30129
+villo~
+un villo~
+Un villo intestinale penzola dalla parette e oscilla su e giu'.
+~
+Il villo intestinale e' una specie di goccia che ricopre tutta la
+parete dell'intestino.
+~
+~
+~
+~
+253962 1024 300 -1 -1 -1 -1 -1 E
+13 15 6 1d1+120 3d3+3
+12 40000
+8 8 1
+E
+#30130
+globulo rosso~
+un globulo rosso~
+Un globulo rosso scorre tranquillamente nel sangue.
+~
+Il globulo rosso sta trasportando ossigeno attraverso tutto il corpo.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+12 10000
+8 8 1
+E
+#30131
+globulo bianco~
+un globulo bianco~
+Un globulo bianco scorre tranquillamente nel sangue.
+~
+Il globulo bianco e' in cerca di eventuali corpi estranei.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+20 15 -1 1d1+400 2d5+3
+18 20
+8 8 1
+E
+#30132
+proteina~
+una proteina~
+Una proteina scorre tranquillamente nel sangue.
+~
+La proteina e' un insieme enorme di amminoacidi.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+10 10000
+8 8 2
+E
+#30133
+anticorpo~
+un anticorpo~
+Un anticorpo scorre tranquillo nel sangue.
+~
+Un anticorpo sembraqualcosa di pericoloso ... per te oviamente.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+19 13 5 1d1+170 2d8+3
+16 10000
+8 8 1
+E
+#30134
+piastrina~
+una piastrina~
+Una piastrina scorre tranquilla nel sangue.
+~
+La piastrina e' porprio una piastrina: piatta e rettangolare.
+~
+~
+~
+~
+104 263168 0 -1 -1 -1 -1 -1 E
+25 13 0 1d1+350 2d5+5
+23 20
+8 8 2
+E
+#30135
+ione~
+uno ione~
+Uno ione disciolto scorre tranquilla nel sangue.
+~
+Lo ione ti sembra caricato positivamente ma non ne sei sicuro potrebbe
+essere anche caricato negativamente.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+12 14 6 1d1+115 1d8+1
+7 10000
+8 8 1
+E
+#30136
+zucchero~
+uno zucchero~
+Uno zucchero scorre tranquillamente nel sangue.
+~
+Un zucchero e' molto, ma veramente molto, pure troppo ... dolce.
+~
+~
+~
+~
+72 1024 0 -1 -1 -1 -1 -1 E
+19 13 4 1d1+230 2d7+3
+14 10000
+8 8 1
+E
+#30137
+bile~
+la bile~
+La bile e' tutta intorno a te.
+~
+La bile e' un liquido verdastro e per di piu' sembra anche abbastanza
+acido. 
+~
+~
+~
+~
+253962 1024 300 -1 -1 -1 -1 -1 E
+50 6 -1 1d1+750 4d10+10
+29 20
+8 8 1
+E
+#30138
+lingua~
+una lingua lunga e appicicosa~
+Una lingua lunga e appicicosa cerca di avvolgerti.
+~
+La lingua enorme e' estremamente appicicosa, e si muove molto
+velocemente, sicuramente e' di qualche formichiere che ti ha scambiato
+per una formica. 
+~
+~
+~
+~
+188458 1056 -400 -1 -1 -1 -1 -1 E
+20 12 4 1d5+250 2d8+3
+14 100000
+8 8 2
+E
+$

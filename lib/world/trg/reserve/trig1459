@@ -1,0 +1,12 @@
+trigedit 1459
+6  
+/c 
+wait 1
+osend %actor.name% Non resisti alla tentazione di lanciare la pallina matta!
+oechoaround %actor.name% %actor.name% lancia la pallina matta per terra con forza!
+wait 1
+oforce %actor.name% posa pallina
+~
+/s
+q
+y

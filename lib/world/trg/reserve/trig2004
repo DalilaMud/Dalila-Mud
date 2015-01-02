@@ -1,0 +1,77 @@
+trigedit 2004
+6  
+/c 
+if %object.vnum% == %statuetta%
+mat xxxxxx drop statuetta
+wait 1 s
+msend %actor.name% Quando consegnerai la statuetta all'altare...
+msend %actor.name% ...potrai decidere chi deve essere giustiziato con il comando "giustizia X"
+msend %actor.name% Dove al posto di X devi mettere il nome di un PG attualmente presente
+msend %actor.name% Ricorda che solo il Papa puo' usare questo comando
+set giustiziere 1
+global giustiziere
+end
+if %object.vnum% == %nbase%
+ wait 1
+ eval puntigrazia %puntigrazia% + 1
+ global puntigrazia
+ mat %controllore% say crea 1
+elseif %object.vnum% == %nbase% + 1
+ wait 1
+ eval puntigrazia %puntigrazia% + 2
+ global puntigrazia
+ mat %controllore% say crea 2
+elseif %object.vnum% == %nbase% + 2
+ wait 1
+ eval puntigrazia %puntigrazia% + 4
+ global puntigrazia
+ mat %controllore% say crea 4
+elseif %object.vnum% == %nbase% + 3
+ wait 1
+ eval puntigrazia %puntigrazia% + 8
+ global puntigrazia
+ mat %controllore% say crea 8
+else
+ halt
+end
+wait 1 s
+mecho %risucchiamento%
+if %puntifede% >= %cap%
+ halt
+end
+if %object.vnum% == %nbase%
+ wait 1
+ mat xxxxxx drop diamante
+mat xxxxxx drop fiamma
+ eval puntifede %puntifede% + 50
+ global puntifede
+elseif %object.vnum% == %nbase% + 1
+ wait 1
+ mat xxxxxx drop diamante
+mat xxxxxx drop fiamma
+ eval puntifede %puntifede% + 100
+ global puntifede
+elseif %object.vnum% == %nbase% + 2
+ wait 1
+ mat xxxxxx drop diamante
+mat xxxxxx drop fiamma
+ eval puntifede %puntifede% + 200
+ global puntifede
+elseif %object.vnum% == %nbase% + 3
+ wait 1
+ mat xxxxxx drop diamante
+mat xxxxxx drop fiamma
+ eval puntifede %puntifede% + 400
+ global puntifede
+end
+if %puntifede% > %cap%
+ eval diff %cap% - %puntifede%
+ eval sott %diff% / 50
+ mat %controllore% say distruggi %sott%
+ set puntifede %cap%
+ global puntifede
+end
+~
+/s
+q
+y

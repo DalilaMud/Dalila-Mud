@@ -1,0 +1,41 @@
+trigedit 28101
+6  
+/c 
+if %arg% != anello
+wsend %actor% Cosi non funxiona!
+halt
+end
+wechoaround %actor% %actor.name% tira un anello di metallo verso il basso.
+wsend %actor% Tiri con forza l'anello verso il basso.
+wait 2s
+wasound &1Senti l'acuto suono del metallo che stride contro la roccia&0
+wecho &1Senti l'acuto suono del metallo che stride contro la roccia&0
+wait 5s
+wecho &7La grata di bronzo lentamente si apre&0
+wait 3s
+wecho &1&xAlcune statue iniziano a muoversi ...Non sono Squali di pietra SONO VIVI !!!&0 
+wait 1s
+wload mob 28199
+wload mob 28199
+wload mob 28199
+wait 1s
+wload mob 28199
+wait 2s
+wload mob 28199
+wait 3s
+wload mob 28199
+wait 5s
+wecho &7La grata di bronzo e' completamente aperta.&0
+wdoor 28197 east purge
+wdoor 28197 east room 28196
+wdoor 28197 east flags a
+wdoor 28197 east name grata
+wdoor 28196 west flags a
+wait 60s
+wdoor 28197 east flags abcd
+wdoor 28196 west flags abcd
+wecho &7La grata di bronzo lentamente si richiude.&0
+~
+/s
+q
+y

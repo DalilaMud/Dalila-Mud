@@ -1,0 +1,68 @@
+trigedit 2600
+6  
+/c 
+* Lista comandi
+wait 5 s
+if %actor.vnum% != -1
+soggh
+wait 1 s
+say Poveri stolti! Non usate questi mezzucci contro il grande Kaius!
+wait 1 s
+mecho &1&xKaius con un rapido gesto evoca una tempesta di meteore tutte intorno a se'!&0
+dg_cast 'minute meteor'
+dg_cast 'minute meteor'
+dg_cast 'minute meteor'
+dg_cast 'minute meteor'
+halt
+end
+eval attacco %random.5%
+switch %attacco%
+case 1
+msend %actor.name% &2&xKaius effettua un micidiale calcio volante colpendoti in pieno volto!&0
+mechoaround %actor.name% &2&xKaius colpisce %actor.name% con un un micidiale calcio in volto!&0 
+dg_cast 'paralize' %actor.name%
+dg_cast 'paralize' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+break
+case 2
+emote chiude gli occhi e pronuncia le parole: '&5ubzuguvuruhl grutq&0'.
+emote scompare completamente dalla tua vista!
+mgoto 998
+wait 2 s
+mat %actor.name% mecho &5Qualcuno chiede, 'Credete davvero di poter affrontare Kaius?'&0
+wait 2 s
+mat %actor.name% mecho &5Qualcuno chiede, 'Come pensate di colpire chi non vedete?'&0
+wait 3 s
+mat %actor.name% mecho &5Qualcuno dice, 'MORTEEEEEEEEEEEEEEEEEEEEE'&0
+rigenerazione
+wait 2 s
+mgoto 5817
+dg_cast 'color spray' %actor.name%
+dg_cast 'color spray' %actor.name%
+dg_cast 'color spray' %actor.name%
+break
+case 3
+mecho &3&xKaius evoca un enorme martello luminoso che sconquassa tutto!&0
+dg_cast 'minute meteor' %actor.name%
+dg_cast 'earthquake' %actor.name%
+break
+case 4
+emote si ferma un attimo, respira e soffia in faccia ad %actor.name%!
+wait 1
+dg_cast 'sleep' %actor.name%
+dg_cast 'sleep' %actor.name%
+dg_cast 'paralize' %actor.name%
+dg_cast 'paralize' %actor.name%
+dg_cast 'blind' %actor.name%
+dg_cast 'blind' %actor.name%
+break
+case 5
+dg_cast 'fire breath'
+dg_cast 'gas breath'
+dg_cast 'frost breath'
+break
+done
+~
+/s
+q
+y

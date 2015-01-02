@@ -1,0 +1,47 @@
+trigedit 21358
+6  
+/c 
+* ---------------------------------------------------------------------------
+* Se il Pg indovina il numero di bastoncini totali dello Shangai lo scrigno
+* regala un grimaldello.
+* ...
+* Ricordate a NESSUNO di Attivare varexists su tutto !!!
+*if !(%self.varexists(shangai)%)
+*  %echo% Shangai NON esiste
+*end
+eval room %self.room%
+if ((%room.shangai%) && (%room.shangai% == 1) && (%arg% == %room.conto%))
+* - Controlla se Il Pg ha già il grimaldello o se si trova nella stanxa.
+  if (%actor.has_item(51018)% || %room.contents(51018)%)
+    %send% %actor.name% &5Una voce dall'oscurita' ti sussurrra, Non fare il furbo con noi, puoi prendere solo un grimaldello per volta!&0
+  else
+    %echo% Lo scrigno si apre con uno scatto, dal suo interno rotola fuori un raffinato grimaldello.
+    %load% obj 51018
+    %echo% Lo scrigno si richiude.
+  end
+else
+  if %arg% != %room.conto%
+    %send% %actor.name% &5Una voce dall'oscurita' ti sussurrra,  Se non sai neppure contare, forse è meglio che cambi gilda!&0
+  else
+    %echo% Non accade nulla!
+  end
+end
+* ---------------------------------------------------------------------------
+* Cambia comunque il numero di bastoncini e obbliga ad un nuovo conteggio.
+eval linbluogg %random.20%
+setroom linblu %linbluogg%
+eval linredogg %random.20%
+setroom linred %linredogg%
+eval linyelogg %random.20%
+setroom linyel %linyelogg%
+eval lingreogg %random.20%
+setroom lingre %lingreogg%
+eval contoogg %room.linblu% + %room.linred% * %room.linyel% + %room.lingre%
+setroom conto %contoogg%
+setroom shangai 1
+* ---------------------------------------------------------------------------
+ 
+~
+/s
+q
+y

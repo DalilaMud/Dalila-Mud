@@ -1,0 +1,27 @@
+trigedit 12531
+6  
+/c 
+if %actor.level% > 71
+if %speech% /= set
+if %speech% /= monarca
+%speech%
+global monarca
+end
+end
+end
+if %actor.name% /= recettore
+wait 1
+if %settata% == on
+if %speech% /= 1
+say eval %going% %speech% - 1
+say global %going% (going)
+eval %going% %speech% - 1
+global %going%
+unset settata
+end
+end
+end
+~
+/s
+q
+y

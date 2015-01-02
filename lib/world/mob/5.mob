@@ -1,0 +1,1958 @@
+#501
+mostro buca~
+il mostro che vive in fondo alla buca~
+Il grosso e orrendo mostro che vive in fondo alla buca e' qui di fronte a te.
+~
+Che disgustosa creatura!  E' nera, verde, melmosa e sta sporcando tutto cio'
+che la circonda (te compreso) con del materiale viscido e puzzolente.    
+~
+~
+~
+~
+14 0 -750 -1 -1 -1 -1 -1 E
+4 17 10 1d1+36 1d6+0
+3 670
+8 8 0
+E
+#502
+mostro novizio~
+Un mostro novizio~
+Un mostro novizio e' qui in piedi molto confuso. Uccidi! Uccidi!
+~
+Hai di fronte tua piccola creatura.  Sembra innocuo ma non si puo' dire con
+sicurezza.  Anche se piccolo di statura ha una muscolatura ben strutturata.  
+
+~
+~
+~
+~
+76 0 -100 -1 -1 -1 -1 -1 E
+1 18 10 1d1+8 1d6+0
+1 300
+8 8 1
+E
+#503
+cucciolo drago~
+Un cucciolo di drago~
+Un piccolo cucciolo di drago si aggira sperduto, annusando tutto attorno a se.
+~
+Awww.  Che svelto!  Un piccolo cucciolo di drago.  Lungo 3 piedi fa tanta
+tenerezza che lo vorresti abbracciare fino alla morte...  No la verita' e che
+lo vuoi proprio uccidere.  Ma ricordati..  Ogni piccolo drago puo' essere un
+grande problema.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+6 15 9 1d1+46 1d8+0
+4 3100
+8 8 1
+E
+#504
+custode guardia mostro~
+La guardia novizia~
+Una guardia novizia e' qui in cerca del suo piccolo drago.
+~
+Hai di fronte la guardia addetta alle cure del piccolo drago dell'alchimista.
+Non sembra fare bene il proprio lavoro.  Continua a guardarsi in giro e a
+sbraitare frasi oscene 'Se non trovo quel piccolo drago l'alchimista vorra' la
+mia testa'.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+5 16 9 1d1+40 1d6+0
+3 1500
+8 8 1
+E
+#505
+alchimista novizio~
+l'alchimista novizio~
+L'alchimista novizio e' qui che sta mischiando qualcosa.
+~
+A guardarlo e' proprio un buffo individuo.  Tutto impegnato a mischiare
+qualcosa con qualcos'altro.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 1d6+0
+5 5000
+8 8 0
+E
+#506
+piccolo insetto strisciante~
+Un piccolo insetto~
+Un piccolo insetto schifoso striscia lungo il muro vicino alle tue gambe.
+~
+Yuck!  Se ogni tanto si degnassero di dare una pulitina a questo posto insetti
+parassiti come questo non ci sarebbero in giro.  Piccolo, disgustoso e con sei
+zampe pelose e marroni.    
+~
+~
+~
+~
+72 0 -250 -1 -1 -1 -1 -1 E
+1 19 10 1d1+7 1d6+0
+1 200
+8 8 0
+E
+#507
+zombie novizio~
+Un novizio zombie~
+Uno decadente novizio.. assomiglia ad uno ZOMBIE
+~
+Questo poveretto deve essersi perso qui sotto da ormai tanto tempo...  Ormai
+questo poveraccio e' ridotto ad uno zombie.  Ti dispiace, ma se non ti dai una
+mossa lui ti attacchera' per primo.    
+~
+~
+~
+~
+108 0 -500 -1 -1 -1 -1 -1 E
+3 18 9 1d1+25 1d5+0
+2 450
+8 8 0
+E
+#508
+cosa~
+la cosa~
+Una piccola e simpatica COSA sta strisciando qui intorno.
+~
+Piccola, verde, vagamente somigliante ad un umanoide con una piccola coda
+appuntita.  E' difficile notarla perche' appena tenti di osservarla meglio
+questi si nasconde nell'ombra.    
+~
+~
+~
+~
+236 0 -800 -1 -1 -1 -1 -1 E
+2 19 9 1d1+22 1d6+0
+2 600
+8 8 1
+E
+#509
+massiccio minotauro~
+un massiccio minotauro~
+Il grande e mitico minotauro sta dominando la sua fame.
+~
+Un enorme uomo con la testa di un toro.  Molto forte ma decisamente poco
+astuto.  Ora che lo osservi bene e' decisamente piu' piccolo di tutti i tori
+che hai incontrato fino ad oggi...  E sta' venendo dalla tua parte.    
+~
+~
+~
+~
+1608 0 -1000 -1 -1 -1 -1 -1 E
+8 16 8 1d1+60 1d7+1
+5 7000
+8 8 1
+E
+#510
+spettro~
+un pericoloso spettro~
+Un pericoloso spettro e' qui in agguato tra le ombre.
+~
+L'anima di un antico avventuriero ...  Si nasconde qui in attesa di portare la
+morte a chiunque attraversi la sua strada.    
+~
+~
+~
+~
+2154 34079754 -850 -1 -1 -1 -1 -1 E
+6 16 8 1d1+52 1d6+0
+5 3000
+8 8 0
+E
+#511
+fastidioso novizio~
+Un fastidioso novizio~
+Un novizio fastidioso impreca contro di te e ti manda all'inferno.
+~
+Che impudenza!  Questo novizio sbraita e prende in giro tutti quelli che
+incontra.  Sarebbe di certo piu' silenzioso con del freddo e duro acciaio
+conficcato nel corpo.  MHUAHAHAHAHAHA!    
+~
+~
+~
+~
+76 0 -500 -1 -1 -1 -1 -1 E
+2 18 10 2d1+20 1d5+1
+2 350
+8 8 1
+E
+#512
+novizio confuso~
+un novizio confuso~
+Un novizio brancola nel buio, terribilmente confuso.
+~
+Un cretino qualsiasi.  Qualsiasi informazione spiegata nel manuale te la
+chiedera' e molto probabilmente lo rifara' per altre 2 o 3 volte.    
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+4 17 9 1d1+36 1d6+0
+3 750
+8 8 1
+E
+#513
+novizia chiacchierona~
+Una novizia chiacchierona~
+Una novizia e' qui... sembra una gran chiacchierona.
+~
+MA con chi sta parlando????  Sembra comunicare qualche indizio a qualche suo
+amico...    
+~
+~
+~
+~
+72 0 100 -1 -1 -1 -1 -1 E
+3 17 9 1d1+32 1d5+0
+2 750
+8 8 2
+E
+#514
+novizio spaesato~
+un novizio spaesato~
+Un novizio spaesato e' qui che gironzola senza meta.
+~
+Sembra che questo tizio stia girando da un bel po' e ormai deve essere
+decisamente lontano da casa!  Non sembra sapere dove si trova, forse dovresti
+aiutarlo.    
+~
+~
+~
+~
+72 0 300 -1 -1 -1 -1 -1 E
+4 17 10 1d1+35 1d5+0
+4 900
+8 8 1
+E
+#515
+intelligente mostriciattolo~
+Un intelligente mostriciattolo~
+Un mostriciattolo e' qui, si guarda in giro con sicurezza.
+~
+Decisamente ben equipaggiato.!  Sembra tosto.    
+~
+~
+~
+~
+12 0 0 -1 -1 -1 -1 -1 E
+5 16 10 3d1+43 1d5+1
+3 1300
+8 8 1
+E
+#516
+persona scout celeste~
+Uno scout del &6Celeste Impero&0~
+Una persona abbigliata in modo strano si aggira guardando con interesse tutto e tutti.
+~
+Non avevi mai visto una persona di questa razza in Daresia. Chissa' da dove e' sbucata? Sembra molto interessata a tutto quel che vede intorno a se.
+~
+~
+~
+~
+17179869192 262144 0 -1 -1 -1 -1 -1 E
+50 10 10 0d0+1500 5d10+15
+45 0
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 18
+E
+#517
+soldato celeste~
+Soldato del &6Celeste Impero&0~
+Un possente soldato con l'uniforme del &6Celeste Impero&3 e' qui...&0
+~
+Questo soldato sembra molto disciplinato.  Servira' lo Shogun fino alla morte!
+Stai ben attento a quello che fai e che dici di fronte a lui..    
+~
+~
+~
+~
+129080 0 200 -1 -1 -1 -1 -1 E
+65 0 -4 1d1+1299 10d8+20
+61 0
+8 8 1
+BareHandAttack: 10
+Str: 18
+Dex: 18
+E
+#518
+guardia daimyo~
+Guardia del &6Celeste Impero&0~
+Una guardia del &6Celeste Impero&0&3 ti scruta e porta la mano all'arma...
+~
+Questi soldati fanno parte della guardia personale del Daimyo.  Sono molte
+pericolose, e sono pronte a dare la vita in nome del Daimyo e dello Shogun.  
+
+~
+~
+~
+~
+178203 0 400 -1 -1 -1 -1 -1 E
+60 0 -8 1d1+999 8d8+25
+51 0
+8 8 1
+Str: 20
+Dex: 17
+Spec: 16
+E
+#519
+araldo~
+Araldo del &6Celeste Impero&0~
+L'araldo del &6Celeste Impero&0&3 reclama queste terre...
+~
+Quest'araldo sostiene che ora la contea di Barl appartiene al &6Celeste Impero&0!
+~
+~
+~
+~
+188426 0 0 -1 -1 -1 -1 -1 E
+50 5 -2 1d1+9999 5d5+15
+39 0
+8 8 1
+Str: 14
+Dex: 22
+E
+#520
+Daimyo Katsura ~
+il Daimyo Katsura~
+il Daimyo Katsura e' in missione per conto dello Shogun!
+~
+Marziale! Non ti viene in mente altro per descrivere quest'uomo.
+Il suo fisico possente e la sua testa rasata gli conferiscono un grande autorita' che lo fa essere
+rispettato e temuto da tutti i suoi uomini.
+Nonostante la sua mole ha fama d'essere un fine stratega e per queste sue abilita' lo Shogun
+gli ha affidato la sua sacra missione... capisci che non si fermera' davanti a niente.
+~
+~
+~
+~
+253978 2474288087272 0 -1 -1 -1 -1 -1 E
+70 4 -9 1d1+2000 10d6+18
+50 0
+8 8 1
+E
+T 31106
+#521
+undefined~
+Un imp giallo~
+Un imp sghignazzante e' qui!
+~
+Questo e' un imp giallo
+~
+~
+~
+~
+57354 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+30000 1d1+0
+4 0
+8 8 1
+E
+T 1675
+#522
+gremlin mostro mostriciattolo~
+Un Gremlin~
+Un brutto mostriciattolo ti assale!
+~
+Questo e' un Gremlin, una specie di piccolo demonietto.  La particolarita' di
+queste creature e' che sono davvero molto difficili da eliminare, una volta che
+cominciano a infestare un posto!    
+~
+~
+~
+~
+17716773032 268435456 -500 -1 -1 -1 -1 -1 E
+20 15 0 1d1+299 5d5+5
+13 0
+8 8 0
+BareHandAttack: 4
+E
+T 1676
+#523
+gremlin mostro mostriciattolo~
+Un Gremlin infuriato~
+Questo Gremlin pare proprio furioso!
+~
+Qualcosa deve aver fatto arrabbiare questo piccolo demonietto oltre
+l'immaginabile!  Sara' meglio lasciarlo in pace.    
+~
+~
+~
+~
+17179904040 335544320 -500 -1 -1 -1 -1 -1 E
+25 15 10 1d1+399 5d8+10
+16 0
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 16
+E
+T 1677
+#524
+gremlin mostro mostriciattolo~
+Un Gremlin Demoniaco~
+Un Gremlin enorme e dall'aspetto demoniaco ti assale!
+~
+Questi sono i Gremlin che sono stati nutriti negli inferi da divinita'
+malvagie.  Sono molto piu' forti e aggressivi dei loro parenti di superficie!
+  
+~
+~
+~
+~
+17179926568 2199095615488 -700 -1 -1 -1 -1 -1 E
+40 12 10 1d1+499 5d8+8
+33 0
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 17
+E
+T 1678
+#525
+cavallo ghiaccio~
+&6&xUn cavallo di ghiaccio&0~
+Un incredibile cavallo fatto di &6&xghiaccio&0&3 scalpita qui!&0
+~
+Questo incredibile cavallo pare fatto di ghiaccio, eppure si muove e nitrisce
+come un cavallo vero.  Chissa' da dove e' saltato fuori un essere cosi'
+incredibile!    
+~
+~
+~
+~
+5066549589237768 16777280 0 -1 -1 -1 -1 -1 E
+40 15 0 1d1+699 5d8+5
+38 0
+8 8 0
+BareHandAttack: 6
+Dex: 18
+E
+T 1681
+#526
+cavallo fuoco~
+&1&xUn Cavallo di Fuoco&0~
+Un incredibile cavallo fatto di &1&xfuoco &0&3e &xfiamme&0&3 e' qui!&0
+~
+Questo incredibile cavallo e' totalmente avvolto da un fuoco magico, anzi pare
+proprio essere fatto di fuoco!    
+~
+~
+~
+~
+5066549589237768 1048576 0 -1 -1 -1 -1 -1 E
+42 15 -1 1d1+899 5d10+5
+25 0
+8 8 0
+BareHandAttack: 6
+Str: 14
+Dex: 18
+E
+T 1682
+#527
+salamandra fuoco~
+Una salamandra di &1&xfuoco&0~
+Una salamandra di &1&xfuoco&0&3 ti attacca!&0
+~
+Questi piccoli spiritelli di solito vivono pacificamente nel fuoco, ma se
+vengono disturbati possono diventare molto aggressivi!    
+~
+~
+~
+~
+8360 2199041081344 0 -1 -1 -1 -1 -1 E
+20 10 0 1d1+199 5d6+10
+17 0
+8 8 0
+BareHandAttack: 4
+Dex: 18
+E
+#528
+cavallo nube~
+&9&xUn cavallo di nubi&0~
+Uno strano cavallo che pare essere fatto della stessa sostanza delle &9&xnubi&0&3 e' qui!&0
+~
+Questo bizzarro cavallo pare essere fatto della stessa sostanza delle nuvole.
+Deve essere molto comodo da montare!    
+~
+~
+~
+~
+8445962 137439084608 0 -1 -1 -1 -1 -1 E
+43 15 0 1d1+899 5d8+8
+35 0
+8 8 0
+BareHandAttack: 6
+Str: 14
+Dex: 14
+E
+T 1683
+#529
+cavallo meccanico~
+Un &9&xcavallo meccanico&0~
+Un bizzarro cavallo d'acciaio e' qui immobile
+~
+Questo cavallo pare essere un costrutto magico fatto di acciaio.  Una
+cavalcatura del genere dovrebbe essere instancabile!    
+~
+~
+~
+~
+8511498 67141632 0 -1 -1 -1 -1 -1 E
+45 15 -5 1d1+999 5d8+5
+28 0
+8 8 0
+BareHandAttack: 6
+E
+T 1684
+#530
+cavallo nero~
+&9&xUn cavallo completamente nero&0~
+Un cavallo nero come una notte senza stelle gira qui intorno...
+~
+Il colore di questo cavallo e' un nero cosi' profondo da mettere quasi paura!
+  
+~
+~
+~
+~
+8445962 262272 -400 -1 -1 -1 -1 -1 E
+35 15 0 1d1+599 5d5+5
+30 0
+8 8 0
+BareHandAttack: 6
+Str: 13
+Dex: 16
+E
+T 1685
+#531
+imp~
+Un imp idiota~
+Questo imp e' idiota
+~
+Un autentico imp idiota!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+30000 1d1+0
+1 0
+8 8 0
+E
+T 1475
+#532
+drago sorte dorato~
+&3&xIl Drago della Sorte&0~
+Un possente drago dorato ti lascia allibito per la sua maestosita'!
+~
+Questo tipo di Draghi hanno fama di poter essere addomesticati solo dalle
+persone piu' fortunate.  Certo riuscire ad avere i servigi di un simile animale
+sarebbe una bella fortuna!    
+~
+~
+~
+~
+36028797077938203 128 0 -1 -1 -1 -1 -1 E
+65 8 10 1d1+5999 10d12+12
+62 0
+8 8 0
+BareHandAttack: 4
+Spec: 27
+E
+#533
+undefined~
+Un imp antipatico~
+Uno imp molto antipatico sogghigna qui
+~
+Nothing.
+~
+~
+~
+~
+10 2 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+30000 1d1+0
+0 0
+8 8 0
+E
+T 1692
+#534
+maiale maialino magico~
+&5&xUn maialino magico&0~
+Un maialino magico grufola allegramente qui....
+~
+Questa strana razza di maialini pare dotata di strane proprieta' magiche!    
+~
+~
+~
+~
+17179902092 268828736 0 -1 -1 -1 -1 -1 E
+5 15 10 1d1+199 3d3+3
+3 0
+8 8 1
+BareHandAttack: 4
+Dex: 25
+E
+T 1693
+T 1694
+#535
+tornado magico~
+&6&xUn tornado magico&0~
+Un tornado procede distruggendo tutto lungo il suo cammino!
+~
+Questo vortice d'aria riesce a sollevare cose e persone e a lanciarle
+lontanissime!    
+~
+~
+~
+~
+576460770020679705 137439084608 0 -1 -1 -1 -1 -1 E
+75 0 10 1d1+9999 5d3+20
+54 0
+8 8 0
+BareHandAttack: 9
+Str: 25
+Dex: 25
+Spec: 31
+E
+T 1696
+T 1697
+T 1698
+T 1453
+#536
+demone demonio~
+Un terrificante demone~
+Un terrificante demone ricoperto di scaglie si aggira qui intorno
+~
+Questo terribile demone deve essere un avversario formidabile: le scaglie che
+proteggono il suo corpo paiono essere impenetrabili, mentre i suoi artigli
+potrebbero uccidere un bue con un solo micidiale affondo!    
+~
+~
+~
+~
+17179975736 2199091414080 -800 -1 -1 -1 -1 -1 E
+60 10 10 1d1+1999 12d10+10
+42 0
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 19
+E
+#537
+eterno errante figura~
+L'eterno errante~
+Una figura apparentemente umana sta camminando senza badare a te...
+~
+Questo uomo, sempre che sia un uomo, e' molto enigmatico e non parla mai con
+nessuno.  Cammina e basta.    
+~
+~
+~
+~
+17716862985 64 0 -1 -1 -1 -1 -1 E
+70 0 -8 1d1+4999 15d12+20
+55 0
+8 8 0
+BareHandAttack: 13
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 24
+Spec: 16
+E
+T 1405
+T 1406
+#538
+undefined~
+Un imp erratico~
+Questo imp e' davvero veloce!
+~
+Questo imp va cosi' veloce che non riesci a vederlo!
+~
+~
+~
+~
+253962 524290 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+30000 1d1+0
+1 0
+8 8 0
+E
+T 1407
+#539
+caronos grande mostro~
+&1&xCaronos il Grande&0~
+&1&xCaronos il Grande&0&3 e' qui e sta devastando la Daresia!&0
+~
+Non si sa da dove Caronos il Grande arrivi, ma di certo tu non hai mai visto
+nulla di piu' colossale di quest'essere.  La sua mascella potrebbe ospitare una
+balena e tutto intorno a lui e' solo morte e distruzione!  Il corpo ricoperto
+di scaglie durissime e la forza immensa rendono impensabile un qualsiasi
+scontro con questa creatura.  Caronos e' uno dei cinque Grandi Antichi: se
+saranno tutti riuniti potrebbero distruggere l'intera Daresia!    
+~
+~
+~
+~
+576460752303677501 137456820288 -1000 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+29999 20d20+30
+73 0
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 16
+Spec: 10
+E
+T 1408
+T 1409
+T 1410
+T 1411
+T 1438
+#540
+mostro figlio carne~
+&1&xUn mostro di Caronos&0~
+Un mostro generatosi da brandelli delle carni di Caronos e' qui!
+~
+Questi mostri paiono nascere dalle carni e dal sangue di Caronos quando questi
+viene ferito!  Sebbene di dimensioni molto piu' modeste di quelle del loro
+padre, sono delle creature terribili!    
+~
+~
+~
+~
+17180090413 137455730752 -1000 -1 -1 -1 -1 -1 E
+50 0 -5 1d1+2999 10d10+10
+36 0
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 17
+Spec: 10
+E
+#541
+ragazza sendar fanciulla~
+Una dolce fanciulla Sendar~
+Questa bellissima ragazza ha i tratti tipici delle contadine Sendariane
+~
+Di una bellezza semplice ed ingenua, questa ragazza ama profondamente il suo regno. 
+~
+~
+~
+~
+1073766472 0 0 -1 -1 -1 -1 -1 E
+10 17 10 1d1+199 3d3+4
+7 0
+8 8 2
+E
+T 1412
+#542
+tigre battaglia ttttk~
+&3&xUna tigre da battaglia&0~
+Un enorme tigre ammaestrata ti scruta mentre si lecca i baffi...
+~
+Questo enorme felino e' probabilmente fortissimo e pronto a lottare fino alla
+morte per il suo padrone.  Gli enormi artigli e le zanne acuminate sono
+terribili strumenti di morte che proprio non vorresti provare su di te.    
+~
+~
+~
+~
+2199023435786 263168 0 -1 -1 -1 -1 -1 E
+50 10 -2 1d1+599 6d10+10
+48 0
+8 8 0
+BareHandAttack: 4
+Str: 18
+Dex: 19
+E
+T 1415
+#543
+lupo grigio enorme llllp~
+&9&xUn enorme lupo grigio&0~
+Un enorme lupo grigio ti intimidisce con il suo sguardo da predatore
+~
+Questo enorme lupo e' stato ammestrato.  Docile e dolce come un cagnolino verso
+il suo padrone, puo' tramutarsi istantaneamente in un dispensatore di morte
+verso i nemici di chi lo ha soggiogato.    
+~
+~
+~
+~
+49178 2359296 0 -1 -1 -1 -1 -1 E
+45 12 0 1d1+399 6d8+8
+36 0
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 20
+E
+T 1418
+#544
+orso bianco oooop~
+&7&xUn orso bianco&0~
+Un gigantesco orso bianco e' qui... pare addomesticato
+~
+Questo enorme orso deve avere una forza davvero spaventosa, ma quel che e'
+certo e' che non hai nessuna voglia di verificarlo!    
+~
+~
+~
+~
+2199023370250 2199042129920 0 -1 -1 -1 -1 -1 E
+55 10 -5 1d1+799 8d10+15
+29 0
+8 8 0
+BareHandAttack: 8
+Str: 21
+Dex: 16
+E
+T 1421
+#545
+pantera nera ppppp~
+&9&xUna pantera nera&0~
+Una pantera nera come la notte si muove qui con grazia assoluta
+~
+Davvero un animale stupendo.  La sua grazia e le sue movenze pero' non ti
+devono trarre in inganno: e' pur sempre un pericolosissimo predatore!    
+~
+~
+~
+~
+49178 787456 0 -1 -1 -1 -1 -1 E
+48 8 -2 1d1+499 5d10+8
+41 0
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 24
+E
+T 1424
+#546
+aquila bianca aaaap~
+&7L'aquila bianca&0~
+Un enorme aquila dal piumaggio candido volteggia qui...
+~
+Questa e' un'aquila davvero enorme!  Ma la sua stazza non sminuisce la sua
+eleganza nel volo, resa ancora piu' manifesta dall'insolito colore candido del
+piumaggio.    
+~
+~
+~
+~
+245786 137713680384 0 -1 -1 -1 -1 -1 E
+55 10 0 1d1+599 7d10+12
+47 0
+8 8 0
+BareHandAttack: 8
+Str: 18
+Dex: 21
+E
+T 1427
+#547
+undefined~
+Un imp rosso~
+Questo imp e' rosso
+~
+Questo imp cambia di umore facilmente
+~
+~
+~
+~
+10 524290 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+30000 1d1+0
+0 0
+8 8 0
+E
+T 1429
+#548
+undefined~
+Un imp bianco~
+Questo imp e' bianco
+~
+Questo imp e' piuttosto pallido
+~
+~
+~
+~
+10 524290 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+29999 1d1+0
+1 0
+8 8 0
+E
+T 1431
+#549
+undefined~
+Un imp azzurro~
+Questo imp e' azzurro
+~
+Pare un puffo!
+~
+~
+~
+~
+10 524290 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+29999 1d1+0
+0 0
+8 8 0
+E
+T 1433
+#550
+undefined~
+Un imp verde~
+Questo imp e' verde
+~
+Deve aver mangiato davvero pesante!
+~
+~
+~
+~
+10 524290 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+29999 1d1+0
+0 0
+8 8 0
+E
+T 1435
+#551
+undefined~
+Un imp scuro~
+Questo imp e' scuro
+~
+Forse e' arrabbiato
+~
+~
+~
+~
+10 524290 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+29999 1d1+0
+1 0
+8 8 0
+E
+T 1437
+#552
+mostro antico sogotacon~
+&4&xSogotacon l'Antico&0~
+&4&xSogatocon l'Antico&0&3 e' qui e sta distruggendo tutto!
+~
+Un colossale essere, alto quanto le montagne, fatto di puro Caos: a tratti pare
+una massa di tentacoli striscianti, altre volte una gelatina che inghiotte
+tutto cio' che incontra.  Quel che e' certo e' che la sua furia e' cieca e
+assoluta: cosi' aliena da non poter essere compresa ne' arrestata.  Sogatacon
+e' uno dei cinque Grandi Antichi: se per disgrazia dovessero riunirsi, per la
+Daresia sara' la fine!    
+~
+~
+~
+~
+254013 137455738945 -1000 -1 -1 -1 -1 -1 E
+80 -10 10 1d1+29999 20d20+30
+66 0
+8 8 0
+BareHandAttack: 9
+Spec: 10
+E
+T 1439
+T 1440
+T 1441
+T 1442
+T 1443
+#553
+tentacolo sogotacon mostro~
+&4&xUn tentacolo di Sogotacon&0~
+Uno degli infiniti immondi tentacoli di Sogotacon e' qui!
+~
+Il ribrezzo e l'orrore che questo tentacolo solitario ti provoca sono
+indescrivibili.  Sei sicuro che Sogotacon abbia il completo controllo anche dei
+tentacoli che si staccano dall'immonda massa del suo corpo.    
+~
+~
+~
+~
+17179959357 268435457 -1000 -1 -1 -1 -1 -1 E
+50 10 -2 1d1+2999 12d10+15
+40 0
+8 8 0
+BareHandAttack: 10
+Str: 21
+Dex: 21
+Spec: 29
+E
+#554
+mostro blasfemo nyrugantep~
+&2&xNyrugantep il Blasfemo&0~
+&2&xNyrugantep il Blasfemo&0&3 stermina ogni cosa sul suo cammino...&0
+~
+Questo colossale ed immondo essere rassomiglia vagamente ad un ragno, se non
+fosse per le dimensioni: la testa raggiunge l'altezza delle vette innevate!  
+Tutto cio' che Nyrugantep incontra sul suo cammino viene distrutto, e nessuna
+forma di vita, o di morte, puo' contrapporsi ad un tale insensato ed alieno
+potere.  Nyrugantep e' uno dei cinque Grandi Antichi, la leggenda vuole che se
+un giorno dovessero essere riuniti, per la Daresia sarebbe la fine!    
+~
+~
+~
+~
+241725 67108928 -1000 -1 -1 -1 -1 -1 E
+80 -10 10 1d1+29999 20d20+30
+54 0
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 18
+Spec: 10
+E
+T 1445
+T 1446
+T 1447
+T 1449
+T 1451
+#555
+uovo~
+Un uovo di Nyrugantep~
+Una delle immonde uova di Nyrugantep e' qui
+~
+Questo uovo e' altro circa tre metri e ha una circonferenza nel punto piu'
+largo di poco meno di due metri!  Di sicuro non vuoi vedere cosa ne esce!  
+Forse e' meglio romperlo prima che si schiuda!    
+~
+~
+~
+~
+188426 2199023255552 0 -1 -1 -1 -1 -1 E
+10 20 10 1d1+299 1d1+0
+8 0
+8 8 0
+BareHandAttack: 3
+Str: 3
+Dex: 3
+E
+T 1448
+T 1450
+#556
+progenie nyrugantep ragno~
+Un enorme ragno~
+Un enorme ragno grosso quanto un elefante sta divorando tutto!
+~
+Questi immondi ed enormi ragni sono la progenie di Nyrugantep!  Se non verra'
+fermato lui e la sua progenie devasteranno la Daresia!    
+~
+~
+~
+~
+17180123165 64 -1000 -1 -1 -1 -1 -1 E
+50 5 10 1d1+3199 10d8+10
+49 0
+8 8 0
+BareHandAttack: 4
+Spec: 10
+E
+#557
+undefined~
+Un imp necrofago~
+Questo imp mangia i cadaveri!
+~
+Questo imp ha delle brutte abitudini alimentari!
+~
+~
+~
+~
+188426 524290 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+29999 1d1+0
+1 0
+8 8 0
+E
+T 1452
+#558
+gallina~
+La gallina dalle uova d'oro~
+Questa deve essere la leggendaria gallina dalle uova d'oro! 
+~
+Assomiglia in tutto e per tutto ad una comune gallina da cortile, tranne per il
+fatto di deporre uova d'oro massiccio!  Probabilmente e' magica!    
+~
+~
+~
+~
+17179926664 128 0 -1 -1 -1 -1 -1 E
+2 20 10 1d1+99 2d2+0
+2 0
+8 8 0
+BareHandAttack: 4
+E
+T 1456
+#559
+undefined~
+Un imp ubriaco~
+Questo imp e' ubriaco
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+30000 1d1+0
+1 0
+8 8 0
+E
+#560
+oste~
+&0L'Oste del "&1&xDrago Dormiente&0~
+&0L'Oste del "&1&xDrago Dormiente&0" ti guarda in cagnesco.
+~
+Quest'uomo e' veramente sudicio, sul suo grembiule noti una targetta:
+&4&xGROG&0. Con tutta probabilita' si tratta del suo nome, sul volto una
+cicatrice solca la sua guancia.
+~
+~
+~
+~
+134217738 0 0 -1 -1 -1 -1 -1 E
+70 20 10 1d1+10000 1d1+0
+63 0
+8 8 1
+E
+#561
+cameriere halfling~
+Un cameriere Halfling~
+Un cameriere Halfling serve distrattamente i Tavoli.
+~
+Questo piccolo essere e' davvero sbadato, ma sembra comunque abbia
+buone intenzioni... Puoi rivolgerti sicuramente a lui se vuoi da bere!
+~
+~
+~
+~
+134217736 0 0 -1 -1 -1 -1 -1 E
+70 20 10 1d1+10000 1d1+0
+44 0
+8 8 1
+E
+#562
+gabbiano uccello~
+&7Un gabbiano&0~
+&7Un gabbiano vola alto forse in cerca di cibo...&0
+~
+La visione di questo uccello ti fa pensare alla liberta' ed al mare...
+~
+~
+~
+~
+1073742024 4456448 0 -1 -1 -1 -1 -1 E
+2 17 10 1d1+19 1d1+3
+2 0
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 18
+E
+#563
+talpa immensa~
+&9&xUna immensa talpa&0~
+Una talpa immensa vaga qui intorno
+~
+Non avevi mai visto talpe cosi' grosse...  Ha le dimensioni di un cavallo!  
+Non sembra aggressiva ma forse e' meglio non farla arrabbiare.  In ogni caso
+pare essere cieca..    
+~
+~
+~
+~
+536993996 1 0 -1 -1 -1 -1 -1 E
+40 -10 0 1d1+999 10d5+30
+40 0
+8 8 2
+BareHandAttack: 8
+Str: 18
+Dex: 15
+E
+T 1466
+T 1468
+T 1469
+#564
+pianta vita~
+La pianta della vita~
+Una graziosa pianticella cresce sola in mezzo a queste lande desolate
+~
+Questa strana pianta deve aver qualcosa di magico.  E' l'unico segno di
+vegetazione presente in queste terre morte e desolate e piu' ti avvicini ad
+essa piu' senti una strana forza che ti pervade l'animo.    
+~
+~
+~
+~
+36028797019152394 32896 1000 -1 -1 -1 -1 -1 E
+1 20 10 1d1+1 1d1+0
+0 0
+8 8 2
+BareHandAttack: 3
+E
+T 1471
+T 1472
+#565
+ammasso ossa ambulante abomino orrido~
+&7Un ammasso d'ossa ambulante&0~
+Un orrido mucchio d'ossa percorre queste lande di morte...
+~
+Questo deve essere uno dei tanti abomini generati dal culto Necrarca.    
+~
+~
+~
+~
+108 0 -1000 -1 -1 -1 -1 -1 E
+20 12 0 1d1+199 2d9+2
+11 0
+8 8 1
+BareHandAttack: 10
+Str: 16
+Dex: 14
+Int: 5
+Wis: 5
+Cha: 5
+E
+#566
+falco nobile~
+Un nobile falco~
+Un meraviglioso falco dall'aspetto nobile ti fissa...
+~
+Questo tipo di falco e' spesso usato dai sapienti per scambiarsi messaggi in
+modo rapido e sicuro.    
+~
+~
+~
+~
+36028797019742218 2199023255552 400 -1 -1 -1 -1 -1 E
+15 17 0 5d5+299 1d1+6
+13 0
+8 8 1
+BareHandAttack: 4
+Dex: 18
+E
+#567
+drow figura incappucciata misteriosa~
+Un misterioso Drow~
+Un Drow dall'aria misteriosa e' qui con il viso coperto da un cappuccio...
+~
+Questo strano Drow e' molto misterioso.  Non riesci a distinguere i tratti del
+suo viso nascosti da un cappuccio.  Di sicuro ha qualcosa di losco..  
+Probabilmente e' una spia al soldo di qualche Matrona Drow.    
+~
+~
+~
+~
+36028797019742234 786432 -600 -1 -1 -1 -1 -1 E
+50 12 -7 1d1+799 6d10+10
+29 0
+8 8 1
+BareHandAttack: 1
+Str: 17
+Dex: 18
+E
+#568
+guerriero drow~
+&9&xUn guerriero Drow&0~
+Un impontente guerriero Drow sta controllando che tutto fili per il verso giusto
+~
+Carnagione scura come la notte, l'aspetto snello e agile di questo guerriero
+non ti deve trarre in inganno: la forza e il coraggio di questi guerrieri sono
+leggendarie!    
+~
+~
+~
+~
+4301316122 2097152 -800 -1 -1 -1 -1 8 E
+60 0 10 1d1+799 8d10+10
+42 0
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 25
+Spec: 16
+E
+T 1499
+#569
+miga polipo polpo~
+Miga~
+Miga, il terribile polpo gigante emerge dal mare per afferrarti!
+~
+Miga e' una specie di polpo gigante dotato di lunghi tentacoli coi quali
+afferra le sue vittime, alle quali succhia il sangue ed il cervello.    
+~
+~
+~
+~
+106601 343932992 0 -1 -1 -1 1869516954 -1 E
+71 5 -8 10d10+1500 8d8+10
+42 0
+8 8 1
+BareHandAttack: 4
+Str: 21
+Dex: 21
+Spec: 30
+E
+T 1475
+#570
+guardia primi scelta~
+Una guardia scelta dei &7&xPrimi&0~
+Questa guardia scelta dei &7&xPrimi&0 e' assegnata alla difesa personale dei Governatori di Sendaria
+~
+Le Guardie Scelte dei Primi devono superare un duro addestramento per poi
+essere assegnate alla difesa delle persone dei Governatori di Sendaria
+~
+~
+~
+~
+36066182025175051 33555464 800 -1 -1 -1 -1 8 E
+62 -10 -2 1d1+2299 4d15+25
+50 0
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 16
+Spec: 3
+E
+T 6704
+T 6720
+#571
+guardia cattedrale gcd~
+&7Una &3&xGuardia&0&7 della Cattedrale&0~
+Una fiera guardia della Cattedrale presidia impassibile l'ingresso alle stanze di Dolmant
+~
+Maestosa ed imponente, questa guardia si erge fiera all'ingresso delle stanze
+di Sire Dolmant.  Nulla puo' distrarla dalla sua missione: il suo Re e' la sua
+vita.    
+~
+~
+~
+~
+36028798092965915 68157568 1000 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+9999 30d20+30
+48 0
+8 8 1
+BareHandAttack: 9
+Spec: 16
+E
+T 1483
+T 1484
+#572
+guardia gdd~
+Una Guardia di Dolmant~
+Una Guardia di Dolmant, enorme, fredda, letale e' qui.
+~
+I suoi occhi sono ghiaccio, la sua volonta' e' acciaio: schiaccera' sotto i
+suoi piedi qualsiasi minaccia portata a Sire Dolmant.    
+~
+~
+~
+~
+36030997653086234 275214503976 1000 -1 -1 -1 -1 -1 E
+70 -30 -10 1d1+14999 20d20+50
+44 0
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 25
+E
+T 1487
+T 1492
+T 1493
+T 1494
+#573
+figura profeta pazzo incappucciato uomo~
+Il profeta pazzo di Xhyphys~
+Una figura incappucciata, vestita di un lungo saio nero e rosso e' qui...
+~
+Profonde occhiaie nere segnano il contorno di due occhi iniettati di sangue.  
+Sono gli occhi di un pazzo, di una persona che ha varcato le soglie della
+realta' per guardare....  FUORI
+~
+~
+~
+~
+36028797019217946 336597032 -1000 -1 -1 -1 -1 -1 E
+75 -30 -10 1d1+7000 20d20+50
+62 0
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+E
+#574
+drow carceriere~
+Un drow carceriere~
+Il drow carceriere di Cabal e' qui in visita alle matrone di questa citta'
+~
+Dopo aver deliziato il Tolnar Rationis Cabal con le sofferenze che solo una
+mente Drow puo' concepire, questo individuo ha deciso di venire a visitare le
+matrone di questa citta' Drow per offrire i suoi servigi di torturatore anche a
+loro.    
+~
+~
+~
+~
+254108 67371008 -1000 -1 -1 -1 1869516954 -1 E
+50 5 -3 1d1+599 6d10+10
+28 0
+8 8 1
+Str: 17
+Dex: 18
+E
+#575
+sacerdote~
+Un Sacerdote di Silue~
+Un Sacerdote di Silue e' qui pronto ad accogliere i fedeli
+~
+Vestito di una tunica completamente bianca ricamata in oro con alcuni sacri
+simboli, la sua espressione e' dolce: riconosci lo sguardo di chi e' ha trovato
+la pace.    
+~
+~
+~
+~
+1073799178 137438953600 1000 -1 -1 -1 -1 -1 E
+70 0 10 1d1+9999 10d10+20
+49 0
+8 8 1
+BareHandAttack: 5
+E
+T 31526
+T 2000
+T 2001
+T 2013
+#576
+altaresilue~
+&7&xAltare di Silue&0~
+&7&xL'Altare della Luce di Silue brilla in mezzo al Tempio&0
+~
+Questo e' l'Altare Sacro di Silue
+~
+~
+~
+~
+36028798093385738 0 1000 -1 -1 -1 1869516954 -1 E
+80 20 10 1d1+30000 1d1+0
+57 0
+8 8 1
+Str: 25
+Dex: 25
+E
+T 2005
+T 2007
+T 2009
+T 2010
+T 2011
+T 2012
+T 2018
+T 2019
+T 2004
+T 2006
+T 2537
+T 2522
+#577
+angelo custode acs~
+&7&xL'angelo di Silue&0~
+Un bellissimo Angelo di Silue e' qui a custodire uno dei Suoi fedeli
+~
+Un bellissimo Angelo...  La luce che emana non ti concede di fissarlo per piu'
+di qualche istante.    
+~
+~
+~
+~
+36030996579344410 192 1000 -1 -1 -1 -1 -1 E
+70 0 -10 1d1+1999 10d5+12
+65 0
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 21
+E
+T 2530
+T 2531
+#578
+altareshaarr~
+&1&xAltare di Shaarr&0~
+&1&xL'altare del dominio di Shaarr e' qui che gronda sangue&0
+~
+Un immenso altare dalla cui sommita' un flusso eterno di sangue sgorga e va a
+raccogliersi in una vasca posta alla base.    
+~
+~
+~
+~
+36028798092959754 0 -1000 -1 -1 -1 -1 -1 E
+80 -30 10 1d1+30000 30d100+50
+63 0
+8 8 1
+E
+T 2004
+T 2005
+T 2018
+T 2022
+T 2057
+T 2058
+T 2059
+T 2060
+T 2061
+T 2062
+T 2540
+T 2541
+#579
+altarexhyphys~
+&5Altare di Xhyphys&0~
+&5L'Altare del Caos di Xhyphys si contorce nel centro della stanza&0
+~
+L'Altare e' composto di carne putrescente che continuamente si torce, si
+contorce e si avvolge su se' stessa...  Uno spettacolo raccappricciante!    
+~
+~
+~
+~
+36028798092959754 0 -200 -1 -1 -1 -1 -1 E
+80 -30 10 1d1+30000 30d100+50
+74 0
+8 8 1
+E
+T 2004
+T 2005
+T 2018
+T 2023
+T 2043
+T 2044
+T 2045
+T 2046
+T 2042
+T 2047
+T 2538
+T 2539
+#580
+altaretherion~
+&6&xAltare di Therion&0~
+&6&xL'altare della natura di Therion sembra crescere dal suolo del Tempio&0
+~
+L'altare della Natura di Therion e' formato da moltissii rami colmi di germogli
+intrecciati in modi straordinari.  Emana un dolce profumo di terra e fiori e
+ispira calma e serenita'.    
+~
+~
+~
+~
+36028798092959754 0 200 -1 -1 -1 -1 -1 E
+80 -30 10 1d1+30000 30d100+50
+50 0
+8 8 1
+E
+T 2004
+T 2005
+T 2018
+T 2024
+T 2053
+T 2054
+T 2055
+T 2063
+T 2064
+T 2065
+T 2542
+T 2543
+#581
+flaggellante oscuro sacerdote ofshaarr dharma grad~
+Il Dharma Grad~
+Il Dharma Grad ti osserva immobile
+~
+Dharma Grad, il demone dei reietti, il custode del tempio di Shaarr.  Si narra
+che la Dea del Male abbia conferito a quest'essere la forza necessaria per
+varcare il Divieto in cui la sua razza stata rinchiusa nell'epoca delle Fate.
+Ora qui di fronte a te, desideroso di ripagare il dono della Dea.    
+~
+~
+~
+~
+1073995786 2336530376252 -1000 -1 -1 -1 1869516954 -1 E
+70 0 -10 1d1+29999 20d20+20
+58 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 18
+E
+T 2033
+T 31526
+T 2056
+T 2516
+#582
+demone follia~
+&5Il Demone della Follia&0~
+Il Demone della Follia urla contro il cielo agghiaccianti frasi senza senso
+~
+Irrazionale e illogico: l'agghiacciante certezza che questa creatura sia fatta
+solo di caos e follia disturba la tua anima in maniera ancora piu' profonda del
+suo angosciante gridare.    
+~
+~
+~
+~
+237611 17838081 -400 -1 -1 -1 -1 -1 E
+70 5 -10 1d1+4999 10d10+10
+70 0
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 18
+Spec: 30
+E
+#583
+demone perdizione~
+&5Il Demone della Perdizione&0~
+Il Demone della Perdizione fissa il vuoto in silenzio con enormi ed inespressivi occhi neri
+~
+La' dove tutto finisce, dove ogni luce e' spenta, anche la speranza infine
+muore.  La Perdizione ultima e' ben rappresentata dalla vacua espressione di
+questa creatura demoniaca.    
+~
+~
+~
+~
+122939 17838081 -400 -1 -1 -1 -1 -1 E
+70 10 10 1d1+3999 10d8+15
+48 0
+8 8 0
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Spec: 28
+E
+#584
+guardia xhyphys gxhy~
+&5Una mostruosa Guardia di Xhyphys&0~
+Una mostruosa Guardia di Xhyphys sorveglia l'ingresso
+~
+It looks unfinished.  Un essere deforme, forse una volta era un essere umano.
+I suoi occhi sono un baratro di follia
+~
+~
+~
+~
+94234 0 -400 -1 -1 -1 -1 -1 E
+70 10 -5 1d1+3999 12d10+10
+40 0
+8 8 1
+BareHandAttack: 10
+Str: 18
+Dex: 15
+E
+T 2034
+T 2035
+#585
+furia shaarr fmaxs essere demoniaco~
+&1&xUna Furia di Shaarr&0~
+Un essere demoniaco dall'aspetto vagamente femminile ti fissa con rabbia
+~
+Due enormi ali nere ripiegate dietro la schiena non pongono dubbi sull'origine
+demoniaca di questa creatura.  E' una delle servitrici di Shaarr: piomba sui
+nemici dilaniandone le carni con gli affilatissimi artigli, bevendone il sangue
+e mangiandone il cuore.  Anche i piu' coraggiosi non possono far altro che
+fuggire innanzi alla devastante forza di un tale essere.    
+~
+~
+~
+~
+36030996579213338 17825856 -1000 -1 -1 -1 -1 -1 E
+70 0 -10 1d1+2000 10d6+14
+65 0
+8 8 2
+BareHandAttack: 8
+Str: 20
+Dex: 18
+E
+T 2530
+T 2531
+#586
+untore madhar~
+Madhar~
+Madhar l'Untore e qui che ti osserva.
+~
+E una figura goffa ma dallaria superiore.  Il suo braccio sembra ricoperto da
+bubboni, preferisci non avvicinarti molto a lui.  Sembra scrutarti molto
+profondamente.    
+~
+~
+~
+~
+36028797019496459 2048 -800 -1 -1 -1 -1 -1 E
+40 14 0 1d1+699 8d8+10
+24 0
+8 8 1
+BareHandAttack: 4
+Str: 18
+Dex: 18
+Spec: 13
+E
+T 2502
+#587
+vecchio lebbroso~
+Un vecchio lebbroso~
+Un vecchio lebbroso e qui intento a pulire il covo del suo Signore. 
+~
+Guardandolo bene noti che ha croste sparse su tutto il corpo.  Questo povero
+stolto si crede che se obbedir al suo Padrone egli lo liberer dalla malattia
+che lo affligge.  Ma non capisce di essere solo una delle tante pedine da
+muovere a piacimento.    
+~
+~
+~
+~
+136 0 -800 -1 -1 -1 -1 -1 E
+5 15 8 1d1+99 4d4+5
+4 0
+8 8 1
+E
+#588
+fuoco fatuo~
+Un piccolo fuoco fatuo~
+Un piccolo fuoco fatuo e' qui che si affretta a mettere in ordine.
+~
+Questa e' l'anima di una vittima uccisa dal Cavaliere della Carestia, le e' stato
+rubato tutto persino il diritto di raggiungere la pace eterna.  Adesso si da da
+fare per servire il suo padrone affinche' possa un giorno liberarla dalla
+maledizione.    
+~
+~
+~
+~
+40968 1048576 -800 -1 -1 -1 -1 -1 E
+10 16 0 3d3+199 3d3+4
+6 0
+8 8 0
+BareHandAttack: 11
+E
+#589
+scheletro scheletri~
+&7Uno scheletro animato&0~
+Uno scheletro animato vestito di una armatura nera e' a guardia qui
+~
+Lo spettrale luccicare delle bianche ossa entra in contrasto col nero vuoto
+delle orbite: questi due scheletri sono condannati a vigilare per sempre su
+questo nero palazzo.    
+~
+~
+~
+~
+61451 2199023386624 -800 -1 -1 -1 -1 -1 E
+50 6 10 1d1+899 9d9+14
+36 0
+8 8 1
+BareHandAttack: 8
+Str: 18
+Dex: 21
+Spec: 16
+E
+#590
+vestale nera~
+&9&xUna nera Vestale&0~
+Una nera Vestale di Shaarr vigila sul Fuoco
+~
+Questa povera creatura e' stata condannata a vigilare per sempre sul fuoco di
+Shaarr, al di la' del tempo e del dolore.
+~
+~
+~
+~
+57355 0 -800 -1 -1 -1 -1 -1 E
+50 3 -8 1d1+599 8d9+10
+41 0
+8 8 2
+Str: 14
+Dex: 16
+Int: 18
+Wis: 18
+Spec: 18
+E
+#591
+arpia~
+&9&xUna arpia di Shaarr&0~
+Shaarr ha mandato le sue arpie a proteggere il Fuoco!
+~
+Orrendi esseri meta' donna meta' uccello, queste creature sono dotate di
+artigli in grado di scarnificare un uomo in pochi istanti!    
+~
+~
+~
+~
+24618 268435456 -1000 -1 -1 -1 -1 -1 E
+50 10 10 1d1+799 10d10+10
+32 0
+8 8 2
+BareHandAttack: 8
+Str: 18
+Dex: 21
+E
+#592
+specchio Daijhil sdcxs~
+&6Daijhil&0~
+&6Daijhil&0, il terribile mostro specchio e' qui a servire la fortezza del &x&9Da'at&0
+~
+Guardandolo vedi riflessa la tua immagine...  Ma..  Un momento, l'immagine
+dello specchio sembra stia per uscire fuori dalla sua cornice...    
+~
+~
+~
+~
+253978 131072 -1000 -1 -1 -1 1869516954 -1 E
+1 8 10 1d1+0 10d12+12
+1 0
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 18
+E
+T 2506
+T 2507
+#593
+torturatrice~
+&1Una torturatrice di Shaarr&0~
+Shaarr ha inviato le sue torturatrici per vendicare la rottura dello Specchio!
+~
+Un demone dalle forme vagamente femminili, armato di frusta... pare in grado di usarla!
+~
+~
+~
+~
+28714 1048576 -1000 -1 -1 -1 -1 -1 E
+70 5 -10 1d1+999 15d10+15
+64 0
+8 8 2
+BareHandAttack: 2
+Str: 18
+Dex: 18
+E
+#594
+immagine riflessa~
+La tua immagine~
+Incredibile! La tua immagine e' uscita dallo specchio ed ora e' qui di fronte a te!
+~
+E' decisamente la tua immagine chirale.
+~
+~
+~
+~
+122906 2199157473280 -100 -1 -1 -1 -1 -1 E
+70 8 -8 1d1+999 10d7+12
+44 0
+8 8 0
+Str: 18
+Dex: 18
+E
+T 2510
+#595
+fuoco azzurro~
+&6Un fuoco azzurro&0~
+&6&xUno spettrale fuoco azzurro lievita a qualche centimetro dal pavimento...&0
+~
+E' una piccola fiamma piu' che un vero e proprio fuoco... 
+~
+~
+~
+~
+24586 1048576 -1000 -1 -1 -1 -1 -1 E
+15 10 0 1d1+199 5d5+10
+10 0
+8 8 0
+BareHandAttack: 12
+E
+#596
+wisteron~
+&5Il Wisteron&0~
+&5Il Wisteron spalanca le sue fauci colto da una fame insaziabile&0
+~
+Un mostro somigliante ad un orrido ragno, completamente ricoperto di aghi e
+peli...  Dalle sue fauci una bava schiumosa sembra corrodere l'aria divenuta
+irrespirabile mentre ti accorgi che il cadavere in putrefazione di una delle
+sue vittime ancora avvinghiato tra le sciabole che costituiscono i suoi denti.
+Si narra che il Wisteron altro non sia che una delle orride progenie di uno dei
+Grandi Antichi, le creature del Caos bandite dagli Dei.    
+~
+~
+~
+~
+254015 0 -1000 -1 -1 -1 -1 -1 E
+71 0 10 1d1+9999 20d20+20
+51 0
+8 8 0
+BareHandAttack: 4
+Str: 24
+Dex: 18
+Spec: 30
+E
+T 2515
+#597
+guardia cancelli lamorka~
+La Guardia dei Cancelli di Lamorka~
+La Guardia dei Cancelli di Lamorka ha una grande responsabilita'!
+~
+Alta e imponente, questa guardia sa che da lei dipende la sicurezza dei
+cittadini della citta'
+~
+~
+~
+~
+1610866715 0 400 -1 -1 -1 -1 8 E
+70 6 -10 1d1+2999 12d12+14
+52 0
+8 8 1
+BareHandAttack: 3
+Spec: 3
+E
+T 2517
+#598
+arcangelo vendicatore giustizia asxv~
+&7&xL'Arcangelo della Giustizia&0~
+Un meraviglioso essere di luce e' qui e brandisce una spada di abbagliante...
+~
+Dotato di sei paia di ali, la Gloria di questa creatura e' immensa.  Innanzi
+alla sua ira non si puo' che soccombere!    
+~
+~
+~
+~
+253963 1048704 1000 -1 -1 -1 -1 -1 E
+71 0 -10 1d1+9999 30d20+20
+63 0
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 21
+Spec: 16
+E
+T 2521
+#599
+pupazzo~
+Un pupazzotto~
+Un bel pupazzotto e' qui
+~
+Un robusto soldato senza dubbio...  Sara' meglio non farlo arrabbiare!    
+E' proprio un bel pupazzo
+~
+~
+~
+~
+1610866699 0 500 -1 -1 -1 -1 8 E
+60 8 10 1d1+1199 1d1+12
+52 0
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 18
+Spec: 3
+E
+T 2584
+$

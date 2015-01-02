@@ -1,0 +1,11 @@
+trigedit 31146
+6  
+/c 
+wait 3 s
+%send% %actor% Sei travolto e sbattuto sulle pietre con violenza micidiale!!
+%damage% %actor% 150
+wteleport %actor.name% 31147
+~
+/s
+q
+y

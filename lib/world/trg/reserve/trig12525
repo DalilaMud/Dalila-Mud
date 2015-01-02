@@ -1,0 +1,10 @@
+trigedit 12525
+6  
+/c 
+say My trigger commandlist is not complete!
+if %actor.clan% == 5 && %actor.rank% > 15
+end
+~
+/s
+q
+y

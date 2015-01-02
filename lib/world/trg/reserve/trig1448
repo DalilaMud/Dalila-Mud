@@ -1,0 +1,12 @@
+trigedit 1448
+6  
+/c 
+mecho &2&xL'uovo di Nyrugantep si schiude liberando una delle sue orribili progenie!&0
+mload mob 556
+mload obj 3556
+mgoto 28150
+say purgami
+~
+/s
+q
+y

@@ -1,0 +1,47 @@
+trigedit 28013
+6  
+/c 
+if %speech% == arrosto
+%load% obj 1425
+say Ottima scelta! Assaggiatelo guarnito dalle migliori spezie di Jiroch!
+give arrosto %actor.name%
+elseif %speech% == pesce || %speech% == fritto
+%load% obj 1426
+say Ecco a Voi! Appena portato dal Golfo di Lamorka
+give pesce %actor.name%
+elseif %speech% == pizza
+%load% obj 1856
+say Fatta ancora con la ricetta delle nonne di campagna! Genuina e nutriente.
+give pizza %actor.name%
+elseif %speech% == patate
+%load% obj 3003
+say Un contorno delizioso! Provatele con l'arrosto di coniglio.
+give patate %actor.name%
+elseif %speech% == pastarella
+%load% obj 3049
+say Prendete pure, le nostre paste sono sempre fresche!
+give pasta %actor.name%
+elseif %speech% == millefoglie
+%load% obj 3052
+say Degna corona per un pasto da RE!
+give millefoglie %actor.name%
+elseif %speech% == aragosta
+%load% obj 15019
+say Assaporatela con calma, di aragoste cosi' il golfo non ne e' certo pieno.
+give aragosta %actor.name%
+elseif %speech% == caviale
+%load% obj 15020
+say Questa delicatezza da il meglio col pane bianco o bruscato.
+give caviale %actor.name%
+elseif %speech% == coniglio
+%load% obj 64
+say Gustatevi questo Coniglio! Ci abbiamo messo tanta cura nel prepararlo quanto i cacciatori nel prenderlo!
+give coniglio %actor.name%
+else
+say Potreste ripetere per favore? c'e' confusione qui e non vorrei sbagliare ricetta..
+say Che piatto avete chiesto di preciso?
+end
+~
+/s
+q
+y

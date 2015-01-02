@@ -1,0 +1,16 @@
+trigedit 9702
+6  
+/c 
+if %actor.clan% == 3 && %actor.rank% == 60
+bow %actor.name%
+wait 1s
+%teleport% %actor% 9703
+else
+scuoti
+wait 1s
+say &ZNon ci provare bello. Di qui passa solo chi e' autorizzato.&0
+end
+~
+/s
+q
+y

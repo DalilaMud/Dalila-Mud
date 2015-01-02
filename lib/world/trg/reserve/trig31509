@@ -1,0 +1,12 @@
+trigedit 31509
+6  
+/c 
+wait 1 s
+wecho &1Non appena metti piede nella stanza,senti il tuo piede che fa scattare un interruttore..&0
+wait 1 s
+wecho &1Un rumore assordante e poi la stanza viene completamente avvolta nelle FIAMME!!!&0
+%damage% %actor% 100
+~
+/s
+q
+y

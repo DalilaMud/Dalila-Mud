@@ -1,0 +1,33 @@
+trigedit 21009
+6  
+/c 
+if %amount% < 10
+wait 1 s
+say Ehi un po' di rispetto per un artista... 10 monete d'oro che vuoi che sono!
+give %amount% coins %actor.name%
+elseif %amount% => 1000
+wait 1 s
+Regno deposita %amount% elenia
+say WOW!!! GRAZIE!!! Per una mancia cosi' grande ci vuole una canzone speciale!
+wait 1 s
+emote estrae una tastiera luminosa da sotto la veste
+wait 1 s
+emote  si concentra 
+say  E 1... 1, 2, 3...  
+elseif %amount% > 10
+wait 1 s
+say Troppi soldi
+give %amount% coins %actor.name%
+else
+wait 1 s
+set richiedente %actor.name%
+set attiva on
+global richiedente
+global attiva
+Regno deposita %amount% elenia
+say Ottimo, scelga una canzone sulla bacheca e mi dica il numero
+end
+~
+/s
+q
+y

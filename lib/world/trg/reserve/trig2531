@@ -1,0 +1,35 @@
+trigedit 2531
+6  
+/c 
+* Lista comandi
+if %actor.name% != %owner%
+halt
+end
+if %speech% == fermati
+wait 2
+if %fol% == 0
+say Non ti sto seguendo, %owner%
+halt
+end
+say Come desideri, %owner%
+fol self
+set fol 0
+global fol
+halt
+end
+if %speech% == seguimi
+wait 2
+if %fol% == 1
+say Ti sto gia' seguendo, %owner%
+halt
+end
+say Come desideri, %owner%
+fol %owner%
+set fol 1
+global fol
+halt
+end
+~
+/s
+q
+y

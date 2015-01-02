@@ -1,0 +1,17 @@
+trigedit 20015
+6  
+/c 
+if %actor.name% != mcfly
+wait 1 s
+osend %actor.name% &RNon sei abbastanza in gamba per reggere il DE CA PI TA TO RE! L'ascia pare accorgersene e ti taglia la testa! ZAC!&d
+oechoaround %actor.name% &RIl DE CA PI TA TO RE taglia la testa a %actor.name%&d
+odamage %actor.name% 5000
+halt
+else
+wait 1 s
+oecho &R %actor.name% sogghigna con fare malvagio mentre lecca la lama del DE CA PI TA TO RE&d
+halt
+~
+/s
+q
+y

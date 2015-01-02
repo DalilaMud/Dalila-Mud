@@ -1,0 +1,20 @@
+trigedit 28067
+6  
+/c 
+if %object.vnum% == 28060
+wait 1
+mpurge goccia
+wait 3 s
+set key ok1
+set ide %actor.name%
+global key
+global ide
+say &3 Su quale topo vuoi scommettere? Se non lo sai guarda il Regolamento. &0
+else
+wait 1 s
+say &x&1 Sei un baro o che cosa? &0
+end
+~
+/s
+q
+y

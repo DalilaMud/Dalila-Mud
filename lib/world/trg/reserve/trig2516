@@ -1,0 +1,12 @@
+trigedit 2516
+6  
+/c 
+* Lista comandi
+if %direction% == south
+wait 2
+emote ruggisce: &5Temerario  colui che osa disturbare il sonno della Grande Shaarr senza consenso della sua Apocalisse&0
+end
+~
+/s
+q
+y

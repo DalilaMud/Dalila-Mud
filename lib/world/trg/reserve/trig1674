@@ -1,0 +1,208 @@
+trigedit 1674
+6  
+/c 
+* Lista comandi
+wait 2 s
+if %actor.level% >= 71
+osend %actor.name% &7Gli immortali non sono soggetti alla sorte!&0
+oechoaround %actor.name% &7Il dado si pianta nel terreno e resta immobile&0
+oload mob 521
+halt
+end
+if %actor.vnum% != -1
+oecho &7Il dado non pare funzionare senza la volontarieta' del lanciatore...&0
+oload mob 521
+halt
+end
+eval tirodado %random.100%
+wait 1 s
+oecho &7Il dado comincia a rotolare come impazzito...&0
+wait 1 s
+oechoaround %actor.name% &6%actor.name% pare un tantino nervoso mentre osserva il dado girare...&0
+osend %actor.name% &6&xSenti il sudore che ti si ghiaccia addosso mentre attendi il verdetto della sorte&0
+wait 1 s
+oecho &7...pian piano il dado rallenta la sua corsa&0
+wait 2 s
+osend %actor.name% &7Complimenti, hai realizzato un bel %tirodado%!&0
+oechoaround %actor.name% &7%actor.name% ha realizzato un bel %tirodado%!&0
+if %tirodado% == 5
+wait 1 s
+oload obj 3516
+osend %actor.name% &3&xSenti il trillare di monetine d'oro!&0
+oechoaround %actor.name% &3&xUna manciata di monete d'oro si e' materializzata!&0
+elseif %tirodado% == 10
+wait 2 s
+oload obj 3517
+osend %actor.name% &3&xSenti il trillare di molte monetine d'oro!&0
+oechoaround %actor.name% &3&xUn sacchetto di monete d'oro si e' materializzato!&0
+elseif %tirodado% == 29
+wait 2 s
+oload obj 3518
+osend %actor.name% &3&xSenti il trillare di un mucchio di monete d'oro!&0
+oechoaround %actor.name% &3&xUn sacco colmo di monete d'oro si e' materializzato!&0
+elseif %tirodado% == 42
+wait 2 s
+oload obj 3519
+osend %actor.name% &3&xSenti la musica che solo molto oro sa produrre!&0
+oechoaround %actor.name% &3&xUn pesante forziere colmo d'oro si materializza dal nulla&0
+elseif %tirodado% == 56
+wait 2 s
+osend %actor.name% &3&xUna incredibile pioggia di monete d'oro ti circonda!&0
+oechoaround %actor.name% &3&xRimani inebetito mentre osservi monete d'oro piovere dal cielo!&0
+wait 1 s
+osend %actor.name% &3&0Non ti rimane che raccogliere questa pioggia miracolosa!&0
+oload obj 3520
+elseif %tirodado% == 74
+wait 2 s
+osend %actor.name% &3&xLe cateratte del cielo si aprono e vieni sommerso da una valanga d'oro!&0
+oechoaround %actor.name% &3&xVieni ricoperto da una quantita' spropositata d'oro!&0
+oload obj 3521
+elseif %tirodado% == 89
+wait 2 s
+osend %actor.name% &3&xRimani stupefatto mentre innanzi a te compare una cornucopia vomitante oro!&0
+oechoaround %actor.name% &3&xUna magica cornucopia si materializza e comincia a vomitare oro!&0
+oload obj 3522
+elseif %tirodado% == 2
+wait 1 s
+osend %actor.name% &1&xUn piccolo mostriciattolo si materializza innanzi a te!&0
+oechoaround %actor.name% &1&xUn piccolo portale si apre e ne fuoriesce un mostriciattolo!&0
+oload mob 522
+elseif %tirodado% == 60
+wait 2 s
+oecho &1&xUn portale si apre e ne esce un mostriciattolo furioso!&0
+oload mob 523
+elseif %tirodado% == 65
+wait 2 s
+oecho &1&xUn portale si apre e ne esce un Gremlin demoniaco!&0
+oload mob 524
+elseif %tirodado% == 15
+wait 2 s
+oecho &7Una stupenda spada si materializza dal nulla e brilla di luce propria per qualche istante!&0
+oload obj 3524
+elseif %tirodado% == 24
+wait 2 s
+oecho &7Una stupenda ascia si materializza dal nulla e brilla di luce propria per qualche istante!&0
+oload obj 3527
+elseif %tirodado% == 36
+wait 2 s
+oecho &7Una stupenda mazza si materializza dal nulla e brilla di luce propria per qualche istante!&0
+oload obj 3525
+elseif %tirodado% == 51
+wait 2 s
+oecho &7Una stupenda lancia si materializza dal nulla e brilla di luce propria per qualche istante!&0
+oload obj 3528
+elseif %tirodado% == 71
+wait 2 s
+oecho &7Uno stupendo pugnale si materializza dal nulla e brilla di luce propria per qualche istante!&0
+oload obj 3526
+elseif %tirodado% == 66
+wait 2 s
+oecho &2&xTre piccole lucertole si materializzano dal nulla.... fiuu poteva andare peggio!&0
+wait 1 s
+oecho &2&xLe piccole lucertole cominciano a crescere a dismisura!&0
+wait 2 s
+oecho &1&xLe lucertole si sono tramutate in orrendi mostri giganteschi!&0
+wait 1 s
+oload mob 18105
+oforce tyrano kill %actor.name%
+oload mob 18105
+oforce tyrano kill %actor.name%
+oload mob 18105
+oforce tyrano kill %actor.name%
+elseif %tirodado% == 7
+wait 2 s
+osend %actor.name% &4&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &4&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 28135
+elseif %tirodado% == 20
+wait 2 s
+osend %actor.name% &5&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &5&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 5597
+elseif %tirodado% == 34
+wait 2 s
+osend %actor.name% &1&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &1&x%actor.name% viene risucchiato da un vortice di energia!&0
+oteleport %actor.name% 18161
+elseif %tirodado% == 45
+wait 2 s
+osend %actor.name% &2&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &2&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 1805
+elseif %tirodado% == 54
+wait 2 s
+osend %actor.name% &3&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &3&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 20510
+elseif %tirodado% == 78
+wait 2 s
+osend %actor.name% &6&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &6&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 9262
+elseif %tirodado% == 81
+wait 2 s
+oechoaround %actor.name% &7&x%actor.name% viene risucchiato da un vortice di energia!&0
+osend %actor.name% &7&xTi senti risucchiato via da una strana forza!&0
+wait 1 s
+oteleport %actor.name% 7113
+elseif %tirodado% == 84
+wait 2 s
+osend %actor.name% &9&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &9&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 200
+elseif %tirodado% == 93
+wait 2 s
+oechoaround %actor.name% &5&x%actor.name% viene risucchiato da un vortice di energia!&0
+osend %actor.name% &5&xTi senti risucchiato via da una strana forza!&0
+wait 1 s
+oteleport %actor.name% 12058
+elseif %tirodado% == 97
+wait 2 s
+osend %actor.name% &3&xTi senti risucchiato via da una strana forza!&0
+oechoaround %actor.name% &3&x%actor.name% viene risucchiato da un vortice di energia!&0
+wait 1 s
+oteleport %actor.name% 2047
+elseif %tirodado% == 18
+wait 2 s
+oecho &9&xUn incredibile cavallo meccanico si materializza dal nulla!&0
+wait 1 s
+oload mob 529
+elseif %tirodado% == 40
+wait 2 s
+oecho &6&xUn incredibile cavallo di ghiaccio si materializza dal nulla!&0
+wait 1 s
+oload mob 525
+elseif %tirodado% == 50
+wait 2 s
+oecho &1&xUn incredibile cavallo di fuoco si materializza dal nulla!&0
+wait 1 s
+oload mob 526
+elseif %tirodado% == 76
+wait 2 s
+oecho &9&xUn incredibile cavallo di nubi si materializza dal nulla!&0
+wait 1 s
+oload mob 528
+elseif %tirodado% == 91
+wait 2 s
+oecho &9&xUn incredibile cavallo nero come la notte si materializza dal nulla!&0
+wait 1 s
+oload mob 530
+else
+global tirodado
+set folle %actor.name%
+global folle
+oforce %actor.name% kka
+halt
+end
+oload mob 521
+halt
+~
+/s
+q
+y

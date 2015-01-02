@@ -1,0 +1,853 @@
+#3000
+federico mago negoziante~
+Federico il mago~
+Federico passeggia intorno alla cassa, parlando da solo.
+~
+Federico ha uno sguardo fulminante ed un aspetto imponente
+e fantasmagorico. I suoi abiti risplendono di luce magica.
+~
+~
+~
+~
+134244363 136 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+95 160000
+8 8 1
+Spec: 0
+E
+#3001
+simona negoziante~
+Simona la panettiera~
+Simona ti guarda e mentre aspetta di servirti si leva la farina
+dalla faccia con la mano.
+~
+Simona e' bellissima e neanche le numerose cicatrici riescono
+ad intaccare la sua bellezza.
+~
+~
+~
+~
+26635 40 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+58 160000
+8 8 2
+Spec: 0
+E
+T 12566
+#3002
+filippo~
+Filippo il droghiere~
+Filippo e' impaziente di servirti.
+~
+Filippo e' molto alto e possente, forse e' meglio non scocciarlo
+piu' del dovuto.
+~
+~
+~
+~
+134244363 8 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+52 160000
+8 8 1
+Spec: 0
+E
+#3003
+abele armiere negoziante~
+Abele l'armiere~
+Abele l'armiere e' qui' in piedi.
+~
+Abele e' un giovanissimo armiere, ma vende antiche armi di distruzione.
+~
+~
+~
+~
+201353227 1064 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+68 160000
+8 8 1
+Spec: 0
+E
+T 12566
+#3004
+pietro negoziante~
+Pietro il fabbro~
+Pietro il fabbro sta mostrando le sue nuove armature appena costruite.
+~
+Un fabbro vecchio ma molto forte. Egli ha costruito migliaia di armature
+e forse ha qualcosa di magico....
+~
+~
+~
+~
+201353227 1064 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+91 160000
+8 8 1
+Spec: 0
+E
+T 12566
+#3005
+Romilda~
+Romilda la receptionist~
+Romilda e' qui' pronta ad accoglierti per il tuo riposo giornaliero.
+~
+Noti un po' di stanchezza sulla sua faccia. La fatica la compie buttando
+fuori, nel fango, tutti quelli che non pagano...
+~
+~
+~
+~
+59419 32808 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+84 0
+8 8 2
+Spec: 4
+E
+#3006
+capitano stolar~
+Capitano Stolar~
+Il capitano ormai in pensione e' qua per vendere barche.
+~
+Questo capitano ha ucciso migliaia di squali prima di ritirarsi.
+~
+~
+~
+~
+26635 8 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+92 160000
+8 8 1
+E
+#3007
+marinaio~
+il marinaio~
+Un marinaio e' qui' pronto ad aiutarti.
+~
+Egli sembra molto forte.
+~
+~
+~
+~
+26634 0 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+90 160000
+8 8 1
+E
+#3008
+zio juan~
+Zio Juan~
+Zio Juan e' qua' aspettando tuoi ordini.
+~
+E' in condizioni eccellenti.
+~
+~
+~
+~
+26635 0 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+51 160000
+8 8 1
+E
+#3009
+wally watermaster~
+Wally il Watermaster~
+Wally il Watermaster e' dietro al banco.
+~
+Wally e' tozzo ma sembra molto forte. Ha un bicchiere di acqua minerale
+di Deira in mano. Quando ti nota, ti mostra la sua bella collezione di
+acque contemporanee.
+~
+~
+~
+~
+26635 8 800 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+86 160000
+8 8 1
+Spec: 0
+E
+#3010
+postmaster post master~
+il postmaster~
+Il capo postmaster e' pronto ad aiutari con la tua posta.
+~
+Il postmaster e' un vecchio uomo felice ed indolente. E' preoccupato della
+reputazione dell'SPD (Servizio Postale di Deira), molta gente sembra
+pensare che e' lento. Forse se spazzolase via le ragnatele dalla sua
+uniforme, farebbe una migliore impressione.
+~
+~
+~
+~
+190475 32776 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+92 0
+8 8 1
+E
+#3011
+statua nagal~
+la statua di Nagal~
+La statua di Nagal e' qui che ti controlla... controlla... controlla...
+~
+La statua di marmo raffigura il potente Dio mentre sconfigge un fido in un 
+combattimento magico.
+~
+~
+~
+~
+256027 1160 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+92 12000
+8 8 0
+E
+#3020
+guildmaster master Pandion~
+il Guildmaster dei Pandion~
+Il tuo guildmaster sta studiando il libro degli incantesimi.
+~
+Sebbene il guildmaster sembri vecchio e stanco, puoi vedere chiaramente
+la vasta conoscenza che possiede. Indossa un eccellente abbigliamento magico
+e noti che e' circondato da una aura brillante blu.
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+70 100000
+8 8 1
+Spec: 7
+E
+#3021
+Capogilda guildmaster master Cyrinic~
+La Capogilda dei Cyrinic~
+La Capogilda e' qui, raccolta in preghiera.
+~
+Una donna anziana dai lunghi capelli argentei, e profondi occhi azzurri.
+Senza dubbio questa capogilda e' veramente vicino al Suo Dio, ha un pacato, amabile aspetto.
+Osservi che e' circondata da una bianca aura.
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+88 100000
+8 8 2
+Spec: 7
+E
+#3022
+guildmaster master Alcioni~
+il Guildmaster degli Alcione~
+L'insegnante Alcione e' qui' seduto.
+~
+Capisci che se anche il tuo guildmaster si muovesse, tu non te ne
+accorgeresti - l'abilita' del vero Alcione.
+~
+~
+~
+~
+59419 136 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+65 100000
+8 8 2
+Spec: 7
+E
+T 21359
+#3023
+guildmaster master Genidian~
+il Guildmaster dei Genidian~
+Il tuo guildmaster e' qui che affila un'ascia.
+~
+Questo e' il tuo insegnante. Grande e forte con maestosi muscoli. Molte
+cicatrici gli attraversano il corpo a comprova che e' avvezzo alle armi
+da prima ancora che tu nascessi. Sembra calmo.
+~
+~
+~
+~
+59419 0 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+62 100000
+8 8 1
+Spec: 7
+E
+#3024
+pandion cavaliere~
+un Cavaliere Pandion~
+Un Cavaliere Pandion e' a difesa dell'ingresso.
+~
+E' un guerriero esperto specializzato nel campo del Combattimento Magico.
+E' qui a proteggere la Gilda dei Pandion e la sua conoscenza superiore di
+incantesimi offensivi e difensivi fanno di lui un oppositore mortale.
+~
+~
+~
+~
+59403 136 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+51 60000
+8 8 1
+Spec: 6
+E
+#3025
+cyrinic cavaliere~
+un Cavaliere Cyrinic~
+Un Cavaliere Cyrinic e' a difesa dell'ingresso.
+~
+E' un guerriero addestrato appartiene all'ordine militare dei Cyrinic.
+Il suo dovere e' proteggere i fedeli da persecuzioni ed attacchi di atei.
+La sua devozione religiosa combinata con le sue abilita' superiori
+fanno di lui un oppositore mortale.
+~
+~
+~
+~
+59403 136 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+96 160000
+8 8 1
+Spec: 6
+E
+#3026
+Alcione~
+un Cavaliere Alcione~
+Un Cavaliere Alcione e' a difesa dell'ingresso.
+~
+E' un guerriero molto pericoloso appartenente ad uno dei famosi ordini
+militari ecclesiasti. La sua vita e' dedicata alla Gilda alla quale
+appartiene.
+~
+~
+~
+~
+59403 786600 400 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+88 160000
+8 8 1
+Spec: 6
+E
+#3027
+Genidian~
+un Cavaliere Genidian~
+Un Cavaliere Genidian e' a difesa dell'ingresso.
+~
+E' un guerriero competente che ha raggiunto il cavalierato attraverso
+innumerevoli atti cavallereschi. Il suo dovere e' proteggere la Gilda
+dei Genidian e la sua abilita estrema combinata con la sua esperienza
+in guerra fanno di lui un mortale oppositore.
+~
+~
+~
+~
+59403 136 800 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+51 160000
+8 8 1
+Spec: 6
+E
+#3040
+barista~
+un barista~
+Un barista ti guarda tranquillo mentre agita una bibita.
+~
+Uno stanco barista che odia tribolare nel suo bar.
+~
+~
+~
+~
+24586 0 900 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+1000 4d10+10
+33 430000
+8 8 1
+Spec: 0
+E
+#3041
+cameriere~
+un cameriere~
+Un cameriere sta passando da tavolo a tavolo.
+~
+A tired looking waiter.
+~
+~
+~
+~
+24586 0 900 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+1000 4d10+12
+47 430000
+8 8 1
+E
+#3042
+cameriere~
+un cameriere~
+Un quieto, pacifico camerier e' qui.
+~
+Questo uomo era un novizio pandion di belle speranze ma ora e'
+un silenzioso, pacifico cameriere.
+~
+~
+~
+~
+24586 0 600 -1 -1 -1 -1 -1 E
+50 1 -8 1d1+1000 4d10+12
+34 430000
+8 8 1
+E
+#3043
+cameriere~
+un cameriere~
+Un cameriere che sembra in contatto con il suo Dio e' qui.
+~
+Questo cameriere ti impressiona per la sua possanza e quasi ti cade il
+coltello di mano. Ma... che fa?... si inginocchia e comincia a pregare
+il suo Dio. Naaah.
+~
+~
+~
+~
+24586 0 600 -1 -1 -1 -1 -1 E
+50 1 -8 1d1+1000 4d10+12
+26 430000
+8 8 1
+E
+#3044
+cameriere~
+un cameriere~
+Questo cameriere SA dove i suoi clienti conservano i soldi.
+~
+Hmmm... ti chiedi dove ha ottenuto quella moneta con la quale sta giocando.
+~
+~
+~
+~
+24586 0 600 -1 -1 -1 -1 -1 E
+50 1 -8 1d1+1000 4d10+12
+45 430000
+8 8 1
+E
+#3045
+cameriere~
+un cameriere~
+Un cameriere e' qui.
+~
+Questo ragazzo potrebbe facilmente ucciderti mentre ti sta servendo.
+~
+~
+~
+~
+24586 0 600 -1 -1 -1 -1 -1 E
+50 1 -8 1d1+1000 4d10+12
+47 430000
+8 8 1
+E
+#3046
+filthy~
+Filthy~
+Filthy e'  qui, ansioso servirgli una bibita speciale.
+~
+Filthy sembra veramente, ehm, sporco. Rende felici i suoi clienti,
+ma non toccarlo altrimenti ti sconvolgera'.
+~
+~
+~
+~
+26650 8 600 -1 -1 -1 -1 -1 E
+70 -2 -10 1d1+30000 5d10+13
+52 80000
+8 8 1
+E
+#3047
+Gilbert architetto ~
+Gilbert l'architetto reale~
+&3Gilbert l'architetto reale fruga indaffarato tra le sue carte.&0
+~
+Un omino basso e con un naso adunco siede ingobbito ad un'enorme scrivania, frugando tra
+documenti e scartoffie di ogni genere. Quando ti rivolgi a lui ti guarda con occhietti furbi
+dietro ad un paio di piccoli occhiali da lettura e ti sorride.
+~
+~
+~
+~
+57418 0 0 -1 -1 -1 -1 5 E
+40 0 -20 5d8+0 3d10+15
+27 0
+8 8 1
+BareHandAttack: 13
+E
+T 12526
+#3059
+jagat~
+Jagat~
+Jagat e' qua' pronto a scagliarsi su chiunque disturbi la quiete.
+~
+Il suo sguardo e' forte e saggio. E nessuno vuole essere guardato.
+~
+~
+~
+~
+6233 8 0 -1 -1 -1 -1 -1 E
+50 2 -6 1d1+1000 4d10+10
+32 430000
+8 8 1
+BareHandAttack: 10
+E
+#3060
+guardia di Deira borgo~
+&bUna guardia del borgo&d~
+&bUna guardia del borgo è quì&d
+~
+&gUn uomo di corporatura media vestito di leggere protezioni in pelle ed armato con una spada.
+Si muove con movimenti lenti ma fluidi ed i suoi occhi si guardano attentamente attorno in cerca di ladruncoli e scassinatori.
+~
+~
+~
+~
+1073838169 274878694440 750 -1 -1 -1 -1 -1 E
+70 0 -20 1d1+1250 10d9+7
+48 270000
+8 8 1
+Spec: 3
+E
+#3061
+spazzino~
+uno spazzino~
+Uno spazzino sta spazzando la via.
+~
+Che dire? Sta spazzando.
+~
+~
+~
+~
+1073743944 32 800 -1 -1 -1 -1 -1 E
+1 19 9 1d1+20 1d5+0
+1 300
+8 8 1
+E
+#3062
+fido vegabondo~
+un vagabondo fido~
+Un fido vagabondo e' qui.
+~
+Un fido e' un piccolo cane che puzza parecchio e tiene carne andata
+a male in bocca.
+~
+~
+~
+~
+65737 32768 -200 -1 -1 -1 -1 -1 E
+1 20 10 1d1+12 1d4+0
+0 170
+8 8 1
+BareHandAttack: 4
+E
+#3063
+mercenario~
+un mercenario~
+Un mercenario sta attendendo un'offerta.
+~
+Egli guarda proprio storto, immagini che farebbe qualunque cosa per soldi.
+~
+~
+~
+~
+2058 0 -330 -1 -1 -1 -1 -1 E
+10 14 7 1d1+100 1d9+2
+7 5000
+8 8 1
+E
+#3064
+ubriaco~
+un ubriaco~
+Un ubriaco canta felice.
+~
+L'ubriaco puzza di vino, meglio stargli alla larga.
+~
+~
+~
+~
+10 0 400 -1 -1 -1 -1 -1 E
+2 19 9 1d1+25 1d5+0
+2 300
+8 8 1
+E
+#3065
+mendicante~
+un mendicante~
+Un mendicante ti chiede qualche moneta.
+~
+Il mendicante conduce una vita di stenti... poveretto.
+~
+~
+~
+~
+10 0 400 -1 -1 -1 -1 -1 E
+5 17 8 1d1+40 1d8+1
+3 1800
+8 8 2
+E
+#3066
+odif odnobagav~
+the odif odnobagav~
+Il odif odnobagav sta camminando all'indietro.
+~
+Il odif e' un piccolo enac che e' stato rovesciato da qualche cane.
+~
+~
+~
+~
+65737 32768 -200 -1 -1 -1 -1 -1 E
+1 20 10 1d1+12 1d4+0
+1 170
+8 8 1
+BareHandAttack: 4
+E
+#3067
+guardia di Deira~
+La guardia di Deira~
+Una guardia e' qua' per controllare i cancelli.
+~
+La guardia e' in condizioni eccellenti.
+~
+~
+~
+~
+6219 1024 1000 -1 -1 -1 -1 -1 E
+60 5 -8 1d1+1000 4d10+15
+43 270000
+8 8 1
+E
+#3068
+goccia verde gelatinosa~
+una goccia verde gelatinosa~
+Una trasudante goccia verde gelatinosa e' qui, disfandosi in frammenti.
+~
+Una cosa orrida da vedere; e' grande, verdastra e gelatinosa.
+~
+~
+~
+~
+256089 8 -300 -1 -1 -1 -1 -1 E
+13 13 6 1d1+160 2d5+3
+9 80000
+8 8 0
+BareHandAttack: 6
+E
+#3069
+guardia~
+&cUna guardia cittadina&d~
+&cUna guardia cittadina di Deira&d
+~
+It looks unfinished.
+Alto e robusto, indossa protezioni di cuoio borchiato e porta una spada al fianco.
+Si muove lentamente per le strade controllando con attenzione tutto quel che lo circonda.
+~
+~
+~
+~
+221192 787496 500 -1 -1 -1 -1 -1 E
+65 5 -9 1d1+1500 1d1+25
+34 50000
+8 8 1
+BareHandAttack: 3
+Spec: 3
+E
+#3080
+strillone giovane~
+Uno strillone~
+Un giovane ragazzo e' qui che sbraita informazioni
+~
+Un ragazzo un po' trasandato e' qui che urla informazioni a tutti i passanti,
+probabilmente spera di raccimolare qualche soldino per mangiare un panino al Grunting Boar...
+Ha un cartello attorno al collo:
+"QUEST DALLA REGINA EHLANA! Chiedetemi per sapere dove trovarla, cosa vi offre,
+e per saperne di piu' sulla Regina stessa."
+~
+~
+~
+~
+2120 0 0 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+88 450000
+8 8 1
+E
+#3089
+ragazzo negozio animali~
+un ragazzo del negozio degli animali domestici~
+Il ragazzo sta giocherellando con qualcosa di peloso che tiene in mano.
+~
+Come lo fissi, apre le mani e un ratto ti schizza addosso!
+~
+~
+~
+~
+26634 0 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+75 9000
+8 8 1
+E
+#3090
+micio~
+un micio~
+Un micio e qui.
+~
+Il piccolo gattino ti guarda con aria divertita.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+2 19 9 1d1+25 1d4+0
+2 300
+8 8 0
+BareHandAttack: 8
+Str: 3
+StrAdd: 1
+Dex: 13
+Int: 8
+Con: 8
+E
+#3091
+cucciolo~
+un cucciolo~
+Un piccolo fedele cucciolo e' qui.
+~
+Il cucciolo e' un grazioso, piccolo, fiero combattente.
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+3 18 9 1d1+30 1d6+0
+2 500
+8 8 0
+BareHandAttack: 8
+E
+#3092
+levriero~
+un levriero~
+Un piccolo, veloce, fedele levriero e' qui.
+~
+Il levriero e' un fiero combattente.
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+4 18 8 1d1+35 1d6+1
+3 400
+8 8 0
+BareHandAttack: 4
+E
+#3093
+rottweiler~
+un rottweiler~
+Un forte rottweiler ringhia al tuo fianco.
+~
+Il rottweiler e' un forte, fiero combattente.
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+5 18 8 1d1+40 1d7+1
+4 1000
+8 8 0
+BareHandAttack: 4
+E
+#3094
+lupo~
+un lupo~
+Un grande, ammaestrato lupo e' qui.
+~
+Il lupo e' un forte combattente senza paura.
+~
+~
+~
+~
+14 0 0 -1 -1 -1 -1 -1 E
+6 17 8 1d1+45 1d8+1
+4 1
+8 8 0
+BareHandAttack: 4
+E
+#3095
+dio troll~
+il dio troll ghnawl~
+The Troll God is here, playing with a canister of liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+~
+~
+~
+26635 32808 900 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+96 0
+8 8 2
+E
+#3096
+guildmaster master Peloi~
+il Guildmaster Peloi~
+Il tuo guildmaster e' qui che affila un'ascia.
+~
+Questo e' il tuo insegnante. Alto e muscoloso, con la testa pelata ed una
+lunga treccia che gli scende fin sotto le spalle.
+~
+~
+~
+~
+59419 0 1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+30000 10d10+50
+88 100000
+8 8 1
+Spec: 7
+E
+#3097
+Peloi guardia~
+una Guardia Peloi~
+Una guardia Peloi e' a difesa dell'ingresso.
+~
+Egli e' un esperto guerriero che ha ottenuto questo importante incarico
+combattendo numerose battaglie.
+~
+~
+~
+~
+59403 136 800 -1 -1 -1 -1 -1 E
+100 -30 -5 1d1+30000 10d10+50
+69 160000
+8 8 1
+Spec: 6
+E
+#3098
+guardiano~
+Il guardiano della tesoreria~
+Il guardiano della tesoreria e' qui
+~
+It looks unfinished.
+~
+~
+~
+~
+188462 1080 0 -1 -1 -1 -1 -1 E
+40 4 -3 1d1+500 3d8+6
+34 0
+8 8 1
+E
+#3099
+zingara veggente~
+una zingara veggente~
+Una zingara veggente e' qui in cerca di qualche soldo.
+~
+A prima vista sembra una stracciona...
+~
+~
+~
+~
+253966 1032 500 -1 -1 -1 -1 -1 E
+15 16 3 1d1+200 2d10+4
+8 0
+6 6 2
+E
+$

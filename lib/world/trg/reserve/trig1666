@@ -1,0 +1,15 @@
+trigedit 1666
+6  
+/c 
+* Lista comandi
+wait 3 s
+eval guardie %random.3%
+if %guardie% == 1
+mecho %self.name% &1&xchiama le &0&6Sacre Guardie&1&x in aiuto!&0
+mload mob 1964
+mforce sgds fol potente
+end
+~
+/s
+q
+y

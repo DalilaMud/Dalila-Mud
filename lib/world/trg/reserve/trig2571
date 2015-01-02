@@ -1,0 +1,20 @@
+trigedit 2571
+6  
+/c 
+* Lista comandi
+wait 2
+mecho &9&xLa gabbia si chiude alle tue spalle con un sinistro clangore metallico&0
+mat rfcmsn mload mob 8843
+mat rfcmsn mforce ibxcr mload obj 8852
+mat rfcmsn mforce ibxcr mgoto 8852
+mat ibxcr mforce ibxcr close gabbia
+mat ibxcr mforce ibxcr lock gabbia
+mat ibxcr mforce ibxcr mgoto xxxxx
+wait 2 s
+emote sogghigna MOLTO maleficamente...
+wait 2 s
+say Buooonaaaa papppaaaaa
+~
+/s
+q
+y

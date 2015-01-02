@@ -1,0 +1,26 @@
+trigedit 9755
+6  
+/c 
+wait 1
+if %actor.clan% == 3 && %actor.rank% >= 21
+if %speech% == seguimi
+follow %actor.name%
+if %self.vnum% == 9746
+mtransform 9745
+end
+elseif %speech% == piazzati
+follow me
+if %self.vnum% == 9746
+mtransform 9745
+end
+elseif %speech% == muoviti
+follow me
+if %self.vnum% == 9745
+mtransform 9746
+end
+end
+end
+~
+/s
+q
+y

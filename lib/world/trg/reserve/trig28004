@@ -1,0 +1,63 @@
+trigedit 28004
+6  
+/c 
+wait 20 s
+eval num %random.5%
+if %num% == 1
+emote &1comincia una serie di capriole per la stanza.&0
+wait 3 s
+emote &8...e finisce per schiantarsi sul malcapitato cameriere.&0
+wait 3 s
+bonk
+wait 1 s
+say Ehm.. &x&18-)&0
+halt
+elseif %num% == 2
+say Vi raccontero' una breve storiella....
+wait 5 s
+say ...quando me la saro' ricordata :)
+laugh
+halt
+elseif %num% == 3
+emote &8PPPRRRRRRRR&0
+laugh
+halt
+elseif %num% == 4
+emote si sta destreggiando con TRE birilli...
+wait 3 s
+say ora con QUATTRO......poi CINQUE....
+wait 3 s
+emote e' concentrato al massimo sui SEI birilli....ohhhhhh
+wait 3 s
+emote OP OP OP OOOOOOOOOO.....
+bonk buffone
+bonk buffone
+bonk buffone
+bonk buffone
+bonk buffone
+wait 3 s
+smile
+wait 2 s
+bonk buffone
+say et voila' :)
+halt
+elseif %num% == 5
+say ...e ora guardate queste incredibili ombre cinesi.
+eval ombra %random.3%
+wait 2 s
+if %ombra% == 1
+emote     &x&6o___/&0
+emote     &x&6 / \&0
+elseif %ombra% == 2
+emote     &x&1\_/&0
+emote     &x&1 O&0
+emote     &x&1(@)&0
+elseif %ombra% == 3
+emote     &x&2_/^\T&0
+emote     &x&2 \_/^&0
+end
+end
+~
+/s
+q
+y

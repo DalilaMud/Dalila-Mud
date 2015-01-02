@@ -1,0 +1,221 @@
+#900
+homba~
+un homba~
+Un homba svolazza qua attorno.
+~
+Parte gheppio, parte orso, parte lupo.  Questo mix ha creato un essere orrendo.
+  
+~
+~
+~
+~
+262248 33866 -100 -1 -1 -1 -1 -1 E
+20 14 3 1d1+120 2d7+6
+17 10000
+8 8 0
+E
+#901
+spadaccino~
+uno spadaccino~
+Il piu' grande spadaccino di Daresia e' qui con un ghigno sulla faccia.
+~
+E' un abile combattente.
+~
+~
+~
+~
+42 33928 -400 -1 -1 -1 -1 -1 E
+27 11 1 1d1+250 2d10+4
+26 55000
+8 8 1
+E
+#902
+mummia rabscuttle~
+la mummia di Rabscuttle~
+La mummia di Rabscuttle si dirige, con le braccia protese in avanti, verso di te.
+~
+Tutto bende, nessuna personalita'.
+~
+~
+~
+~
+1034 33800 -780 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 2d12+5
+28 120000
+8 8 0
+E
+#903
+una lucertola gigante~
+una lucertola gigante~
+Una lucertola gigante e' qui.
+~
+Questa creatura coperta di scaglie sembra essersi ben adattata al suo habitat
+sotterraneo.  Sembra molto potente.    
+~
+~
+~
+~
+266 33928 -500 -1 -1 -1 -1 -1 E
+34 8 -2 1d1+300 3d8+6
+29 150000
+8 8 1
+E
+#904
+generale demone woundwort~
+il Generale Woundwort~
+Il Generale Woundwort, il demone oscuro di Minosse, aspetta di farti a pezzi.
+~
+Sembra vagamente un coniglio, ma decisamente non agisce come un coniglio.    
+~
+~
+~
+~
+16906 33800 -1000 -1 -1 -1 -1 -1 E
+37 8 -3 1d1+560 3d8+7
+33 1
+8 8 1
+E
+#905
+franz henchman~
+Franz the Henchman~
+Franz, lo scudiero di Minosse, e' qui pronto a buttarti fuori.
+~
+Franz non e' una femminuccia.  E' molto muscoloso e sembra essere in grado di
+schiacciare la tua testa come farebbe con una chicco d'uva.    
+~
+~
+~
+~
+4138 33800 -300 -1 -1 -1 -1 -1 E
+40 7 0 1d1+600 3d8+7
+39 230000
+8 8 1
+E
+#906
+hanz scudiero~
+Hanz lo scudiero~
+Hanz e' qui che mostra i muscoli e schiaccia dei chicchi d'uva.
+~
+Hanz non e' una femminuccia.  E' molto muscoloso e sembra in grado di sollevare
+un grosso drago.    
+~
+~
+~
+~
+10 33928 -300 -1 -1 -1 -1 -1 E
+40 8 -4 1d1+300 3d8+7
+38 230000
+8 8 1
+E
+#907
+minosse re minotauro~
+Re Minosse il Minotauro~
+Re Minosse, il Minotauro, e' pronto a spedirti all'inferno.
+~
+Emana un odore tremendo.
+~
+~
+~
+~
+90154 33960 -1000 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+400 3d10+8
+44 500000
+8 8 0
+BareHandAttack: 6
+E
+#908
+drago tartaruga~
+un drago tartaruga~
+Un grosso drago tartaruga emerge dalle acque provocando grosse ondate.
+~
+Il guscio da tartaruga e' delle dimensioni di una piccola casa e sembra duro
+come roccia.    
+~
+~
+~
+~
+65640 33800 -200 -1 -1 -1 -1 -1 E
+70 -2 -10 1d1+1250 5d10+13
+42 800000
+8 8 1
+E
+#909
+strega marina~
+una strega marina~
+Scorgi il volto di una orrenda strega che nuota tra le onde.
+~
+La strega marina e' terribilmente pericolosa ed ha denti affilati come rasoi.
+  
+~
+~
+~
+~
+262248 33800 -700 -1 -1 -1 -1 -1 E
+18 13 5 1d1+115 2d7+5
+10 14000
+8 8 2
+E
+#910
+tritone~
+un tritone~
+C'e' un tritone qui che nuota minaccioso verso di te, brandendo un tridente!
+~
+Il tritone ha una grossa pinna al posto delle gambe.    
+~
+~
+~
+~
+96298 820232 350 -1 -1 -1 -1 -1 E
+20 13 5 1d1+130 2d8+6
+17 16000
+8 8 1
+E
+#911
+granchio incrostato~
+un granchio incrostato~
+Un granchio dal guscio incrostato e' qui che cerca del cibo.
+~
+Sembra un granchio...  Che altro dire?    
+~
+~
+~
+~
+65640 33800 0 -1 -1 -1 -1 -1 E
+21 15 4 1d1+70 2d10+5
+17 150
+8 8 0
+E
+#998
+Aristotele Faith~
+&8&5Aristotele&0, il gatto di &8&1Faith&0~
+&8&5Aristotele&0, il gatto di &8&1Faith&0, e' qui &8&2vigile e attento&0.
+~
+&8&5Aristotele&0, il gatto di &8&1Faith&0, e' proprio un bel gattone simpatico.
+Nessuno puo' resistere nel fargli almeno una carezza.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 1869511645 -1 E
+0 20 10 30d100+0 1d1+0
+1 0
+8 8 1
+BareHandAttack: 8
+Spec: 10
+E
+#999
+Zorro~
+&0Zorro e' qui &8&2vigile e attento&0.~
+&0Zorro e' qui &8&2vigile e attento&0.
+~
+&0Zorro e' qui &8&2vigile e attento&0.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+100 1d1+0
+1 0
+8 8 0
+E
+$

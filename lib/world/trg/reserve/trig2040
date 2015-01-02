@@ -1,0 +1,17 @@
+trigedit 2040
+6  
+/c 
+if %get% == 1
+ otransform 2054
+ oecho &9&xAl tuo tocco la mazza si spezza in due parti ormai inutilizzabili&0
+ halt
+ set get 2
+ global get
+ halt
+end
+set get 1
+global get
+~
+/s
+q
+y

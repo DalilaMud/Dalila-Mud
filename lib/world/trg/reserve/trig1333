@@ -1,0 +1,28 @@
+trigedit 1333
+6  
+/c 
+* Lista comandi
+if %pagamento% >= 5000
+ wait 1 s
+ say Ottima scelta!
+ wait 1
+ say Ecco a lei un magnifico imp mercenario, signor %actor.name%!
+ wait 1
+ mload mob 1418
+ wait 2
+ pat %actor.name%
+ mforce imp fol %actor.name%
+ wait 1
+ mforce imp say Ai suoi comandi, padrone!
+ eval pagamento %pagamento% - 5000
+else
+ emo si guarda nelle tasche...
+ wait 1 s
+ say Ehi!
+ wait 1
+ say Non provare a fregarmi, non mi hai dato abbastanza soldi!
+end
+~
+/s
+q
+y

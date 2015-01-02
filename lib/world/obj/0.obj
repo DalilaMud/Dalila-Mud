@@ -1,0 +1,781 @@
+#0
+undefined~
+undefined~
+Undefined~
+~
+0 0 0
+0 0 0 0 0 0
+0 0 0 1 0 0
+#1
+Ascia taglialegna attrezzo~
+un ascia da taglialegna~
+Un ascia da taglialegna~
+~
+42 0 16385
+0 0 0 0 50 50
+6 34 10 1 0 0
+#2
+albero alberi quercia~
+Degli alberi di Quercia~
+Degli alberi di Quercia~
+~
+45 0 16385
+0 30 0 0 100 100
+1000 1000 0 1 2 2
+#3
+Sega falegname attrezzo~
+un sega da carpentiere~
+Un sega da carpentiere~
+~
+38 0 16385
+0 0 0 0 100 100
+5 34 0 1 0 0
+#4
+dragonsign talismano~
+un talismano del drago~
+Un talismano del drago e' qui.~
+~
+65 8 2049
+0 0 0 0 100 100
+20 1000 300 1 1 1
+E
+dragonsign talismano~
+E' un talismano di oro massiccio con sopra raffigurata l'immagine di un cavaliere su un drago.
+Sul retro vi sono delle iscrizioni in una lingua arcaica. Ti sembra di capire che finche'
+possiederai questo talismano il drago sara' ai tuoi ordini.
+~
+#5
+filetto~
+Un filetto~
+Un filetto e' qui per terra.~
+~
+19 0 1
+8 0 0 0 20 20
+1 0 0 1 0 0
+E
+filetto~
+Un filetto di non ben identificata parte del corpo di una non ben identificata bestia.
+~
+#6
+ricevuta pegno~
+una ricevuta di custodia per una cavalcatura~
+Una ricevuta di custodia per una cavalcatura e' qui.~
+~
+34 8 1
+0 0 0 0 10 10
+3 0 10 1 0 0
+#8
+metallo grezzo generico buttami~
+delete me~
+Uso Interno. Se leggi questo, riporta l'errore a un creatore.~
+~
+48 0 16385
+0 0 0 0 0 0
+0 0 0 1 0 0
+#9
+delete me~
+delete obj nullo~
+Indefinito OBJ DA PURGARE chiama un creatore~
+~
+13 0 0
+0 0 0 0 0 0
+0 0 0 1 0 0
+#10
+razione~
+Una razione al sacco~
+Una razione al sacco e' qui.~
+~
+19 64 1
+24 0 0 0 100 100
+1 50 5 1 0 0
+E
+razione~
+La razione al sacco e' il tradizionale cibo da viaggio degli elfi chiamato anche
+LEMBAS. Viene utilizzato per ristorarsi lungo i lunghi viaggi.
+~
+#11
+sfera~
+una sfera magica~
+Una sfera magica, luminosa, e' stata abbandonata qui.~
+~
+1 65625 16385
+0 0 -1 0 100 100
+1 1000 100 36 0 0
+E
+sfera~
+La sfera magica emana una luce eterna.  E' un oggetto magico e per questo devi
+maneggiarlo con estrema attenzione.    
+~
+#12
+Picca minatore attrezzo~
+una picca da minatore~
+Una picca da minatore e' qui.~
+~
+39 0 16385
+0 0 0 0 50 50
+5 34 10 1 0 0
+#13
+lingotto generico~
+un lingotto generico~
+Riportare il bug a un creatore... oggetto vnum 13~
+~
+53 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#14
+Martello fabbro attrezzo~
+un martello da fabbro~
+Un martello da fabbro e' qui.~
+~
+37 0 16385
+0 0 0 0 60 60
+1 34 10 1 0 0
+#15
+giacimento minerali~
+Un giacimento di minerali~
+Un giacimento di minerali~
+~
+46 0 1
+0 40 0 0 100 100
+1000 0 0 1 3 0
+#16
+armatura generica~
+un'armatura generica~
+Riportare ai creatori il bug - vnum 16~
+~
+9 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#17
+trave costruzione generica~
+una trave generica~
+Riportare il bug ai creatori - ogetto vnum 17~
+~
+58 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#18
+arma generica~
+arma generica~
+Riportare ai creatori il bug - Oggetto vnum 18~
+~
+5 67108864 1
+0 0 0 0 100 100
+0 0 500 1 1 1
+#19
+tronco generico~
+un tronco generico~
+Riportare il bug ai Creatori - oggetto vnum 19~
+~
+49 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#20
+trave legno generica~
+una trave di legno generica~
+Riportare il bug ai Creatori - oggetto vnum 20~
+~
+54 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#21
+asse legno generico~
+un asse di legno generico~
+Riportare il bug ai Creatori - oggetto vnum 21~
+~
+61 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#25
+pietra grezza minerale generica~
+una pietra grezza minerale generica~
+Riportare il bug ai Creatori - oggetto vnum 25~
+~
+50 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#26
+pietra pulita minerale generica~
+una pietra pulita minerale generica~
+Riportare il bug ai Creatori - oggetto vnum 26~
+~
+56 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#27
+gemma generica~
+una gemma generica~
+Riportare il bug ai Creatori - oggetto vnum 27~
+~
+64 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#28
+roccia grezza generica~
+una roccia grezza generica~
+Una grossa pietra.~
+~
+63 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#29
+roccia squadrata generica~
+una roccia squadrata generica~
+Riportare il bug ai Creatori - oggetto vnum 29~
+~
+59 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#30
+prodotto naturale generico~
+Un prodotto naturale generico~
+Riportare il bug ai creatori - Oggetto vnum 30~
+~
+52 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#31
+risorsa generica casuale~
+Una risorsa generica casuale~
+Riportare il bug ai creatori - Oggeto vnum 31~
+~
+44 0 0
+0 0 0 0 0 0
+10000 0 0 1 1 0
+#32
+erba grezza~
+un mazzo d'erba grezza~
+Un mazzo d'erba grezza e' qui.~
+Un erba grezza non definita.
+~
+71 0 16385
+0 0 0 0 15 15
+0 0 0 1 7 0
+#33
+erba mazzo~
+Un mazzo d'erba pulita~
+Un mazzo d'erba pulita e' qui~
+Un mazzo d'erba ripulita e pronta per essere utilizzata da un alchimista.
+~
+72 0 1
+0 0 0 0 30 30
+1 1000 100 37 7 0
+A
+26 4
+#34
+Piccozza erborista attrezzo~
+una piccozza da erborista~
+Una piccozza da erborista e' qui~
+~
+70 0 16385
+0 0 0 0 100 100
+1 34 10 1 0 0
+#35
+Tritaerbe attrezzo~
+un tritaerbe~
+Un tritaerbe e' qui~
+~
+74 0 16385
+0 0 0 0 100 100
+1 34 10 1 0 0
+#36
+Boccetta attrezzo~
+una boccetta per pozioni~
+Una boccetta per pozioni e' qui~
+~
+73 0 16385
+0 0 0 0 100 100
+1 50 2 1 0 0
+#37
+Canna pesca attrezzo~
+una canna da pesca~
+Una canna da pesca e' appoggiata qui.~
+Una lunga canna da pesca con amo e lenza.
+Buona pesca..!!!
+~
+76 0 16385
+0 0 0 0 30 30
+3 34 10 1 0 0
+#38
+pesce~
+un pesce~
+Un pesce e' qui.~
+~
+57 0 16385
+0 0 0 0 5 5
+1 20 0 1 6 2
+#39
+cibo pulito~
+cibo pulito~
+Del cibo pulito e' qui.~
+~
+57 0 16385
+0 0 0 0 30 30
+0 0 0 1 0 0
+#40
+cibo cotto~
+cibo cotto~
+Del cibo cotto e' qui.~
+~
+19 0 16385
+0 0 0 0 30 30
+0 0 0 1 0 0
+E
+cibo cotto~
+Del cibo, non identificabile, ma sicuramente cotto.
+~
+#41
+selvaggina pulita~
+una selvaggina pulita~
+Una selvaggina pulita~
+~
+82 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#42
+gadget raduno Roma Kizeridis sfera pallone~
+Il Pallone di "Dalila-a-Roma" edizione 2002~
+Una grossa sfera di marmo e' posta in bella vista su uno scaffale.~
+~
+8 0 0
+0 0 0 0 1 1
+0 0 0 1 0 0
+E
+pallone sfera~
+Questo e' il mitico pallone firmato dai Daresiani giunti a Roma nell'Aprile 2002.
+Puoi vederne le &5FIRME&0 dei partecipanti.
+~
+E
+firme firma~
+Buz lo Strasega (Per Amanu: Osvaldo)
+Wurm
+Sir Gyles (il pollo)
+Sodonar (Sodo ma Godo)
+Qualcuno e' qui (Amanu)
+Salome immortale
+Crystino
+Makud
+Zoya nobash
+Garrick (che bacia tuttolosamente il Kizo)
+Falbala (:P)
+Alamir e Silmaril
+Qaz
+Thor il figlio degli Dei e trappole varie
+Dorylis
+Gor
+Lexus (che cade sempre)
+Diablo (che ha parry in porta)
+Dhevil
+
+Magicamente appaiono anche le firme degli altri partecipanti
+
+Night
+SirPaul
+Eraclito... o Eracilto
+Nightblade
+Ice
+Eribo
+~
+#43
+testa~
+Una testa generica~
+Non modificare questo oggetto per nessun motivo!~
+~
+13 67108868 16401
+0 0 0 0 1 1
+6 0 0 1 0 0
+#44
+corpse cadavere~
+Un cadavere generico~
+Un cadavere generico e' qui. Brutta cosa! Avvisa un creatore.~
+~
+15 0 0
+0 0 0 0 10 50
+0 0 0 1 0 0
+#45
+la bacchetta di Kizeridis~
+La bacchetta di Kizeridis~
+La bacchetta di Kizeridis e' qui~
+~
+3 0 16385
+70 60 20 92 100 100
+0 0 0 1 0 0
+#46
+portatore anime~
+un portatore di anime generico~
+Un portatore di anime generico e' qui. Pessima cosa! Avvisa un creatore~
+~
+8 0 1
+0 0 0 0 3 3
+10 50000 5000 1 0 0
+#47
+limone~
+&3&xUn limone maturo&0~
+Un limone e' qui, e' davvero un frutto raro in Daresia!~
+~
+19 0 1
+1 0 0 0 1 1
+1 4000 0 1 7 0
+#48
+tazzina caffe limone~
+una disgustosa tazzina di caffe' corretto al limone~
+Una tazzina di caffe' dal riflesso vagamente chiaro e opaco ti tiene lontano dall'idea di berlo.~
+~
+17 0 1
+1 1 16 0 1 1
+1 0 0 1 0 0
+#49
+Ago filo sarto attrezzo~
+un ago e filo da sarto~
+Un ago ed un filo da sarto sono qui.~
+~
+83 0 16385
+0 0 0 0 30 30
+1 34 1 1 0 0
+#50
+rosa~
+&4 La Rosa di Zaffiro &0~
+La Rosa di Zaffiro risplende viva piu` che mai,in attesa che qualcuno liberi la sua incommensurabile energia.~
+~
+8 0 16385
+0 0 0 0 100 100
+0 0 0 22 3 4
+C
+4096 0 0 0
+#51
+cryptonite~
+cryptonite~
+Una pietruzza di cryptonite giace qui semi nascosta.~
+~
+33 0 1
+0 10 10 0 0 0
+0 0 0 -11 4 2
+C
+513 0 0 0
+#52
+panettone~
+Un Bel panettone da chilo~
+Un bel panettone da chilo e' qui per terra.~
+~
+19 0 1
+24 0 0 0 0 0
+1 0 0 1 0 0
+E
+panettone~
+Una gran bella montagna di lievito, canditi, uvette, marzapane, pistacchi, erba canfora.
+E' il tradizionale panettone delle terre di Cyrga. Un po' stucchevole.
+~
+#53
+lapide~
+Una lapide~
+Una lapide e' qui.~
+
+
+  &1&xLa daresia tutta si congratula con lei Duca Demostenee&0
+&0&xe la dichiara ufficialmente il piu morto di tutti i tempi!&0
+       &6&xContinui sempre cosi! Arrivera lontano!&0
+
+
+~
+16 0 0
+0 0 0 0 10 10
+1000 0 0 1 0 0
+#54
+bende lenitive unte~
+&7Bende lenitive&0~
+Un rotolo di bende inzuppate nel grasso di pesce giace qui~
+~
+13 0 16385
+0 0 0 0 10 10
+0 0 0 1 0 0
+#60
+porta~
+porta~
+Porta~
+~
+85 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#61
+progetto~
+Un progetto reale~
+Un progetto reale e' qui~
+~
+16 0 16385
+0 0 0 0 100 100
+0 0 0 1 0 0
+#62
+atto nota notifica~
+Una Notifica Reale di Costruzione~
+Un atto notarile Reale e' qui~
+~
+84 0 16385
+0 0 0 0 100 100
+1 0 0 1 0 0
+T 6
+#63
+buono reale~
+Un buono reale~
+Un buono reale e' qui~
+~
+16 0 1
+0 0 0 0 100 100
+1 1 0 1 0 0
+#64
+Coniglio alla Sendar~
+Coniglio alla Sendar~
+Un profumatissimo arrosto di coniglio guarnito con spezie aromatiche, il tutto dolcemente bagnato da pregiato &1Lamorketto&0.~
+&1Yhumm! Che boccone prelibato! La tenerezza e il sapore della
+carne unita alla fragranza di un vino novello. E' quasi un
+peccato masticarlo...&0
+~
+19 0 1
+13 0 0 0 0 0
+5 0 0 1 5 0
+#65
+grimaldello~
+un grimaldello~
+Uno strano oggetto fatto con fili di ferro.~
+~
+98 0 1
+0 0 0 0 100 100
+1 1000 0 1 1 0
+#66
+spada prova~
+Questa e' una spada di prova~
+C'e' una spada giocattolo per terra!~
+~
+5 32768 8193
+10 5 10 10 100 100
+5 1 0 457 4 1
+A
+1 10
+C
+268435456 0 0 0
+#70
+carretto~
+un carretto~
+Un carretto e' qui.~
+~
+15 65536 2097152
+2000 0 -1 0 60 60
+50 500 30 1 0 0
+#71
+coin gold moneta oro soldo~
+una moneta d'oro~
+Una miserabile moneta d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coin gold moneta oro soldo~
+E' solo una semplicissima monetina d'oro.~
+#72
+oro coins golds monete soldi~
+una manciata di monete d'oro~
+Una manciata di monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+oro coins golds monete soldi~
+Non e' certo un tesoro!~
+#73
+portale luce~
+un portale dimensionale~
+&7Un portale dimensionale e' qui aperto.&0~
+E' una porta di luce bianca.
+~
+25 64 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+#74
+coins golds monete oro soldi~
+un mucchio di monete d'oro~
+Un mucchio di monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coins golds monete oro soldi~
+Piccole pile di monete d'oro.~
+#75
+coins golds monete oro soldi~
+un bel mucchio di monete d'oro~
+Un bel mucchio di monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coins golds monete oro soldi~
+E' un bel gruzzolo!~
+#76
+coins golds monete oro soldi~
+un cumulo di monete d'oro~
+Un cumulo di monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coins golds monete oro soldi~
+Centinaia di monete ammucchiate alla rinfusa.~
+#77
+coins golds monete oro soldi~
+un'enorme cumulo monete d'oro~
+Un'enorme cumulo monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coins golds monete oro soldi~
+In questo cumulo si sono migliaia di monete d'oro.~
+#78
+coins golds monete oro soldi~
+una montagna di monete d'oro~
+Una montagna di monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coins golds monete oro soldi~
+Migliaia di monete formano una piccola montagna d'oro.~
+#79
+coins golds monete oro soldi~
+un'enorme montagna di monete d'oro~
+Un'enorme montagna di monete d'oro e' qui per terra.~
+~
+20 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+E
+coins golds monete oro soldi~
+Impossibile stabilire ad occhio quante monete ci siano.~
+#80
+torta~
+una semplice torta~
+Una semplice ed innocua torta della nonna e' qui.~
+~
+15 12 1
+10 5 -1 0 10 10
+5 800 10 1 0 0
+E
+torta~
+  
+  
+               &3*  *  *
+              *&7|&0_&3*&7|&0_&3*&7|&3*&0_
+          .-'`&7|&6* &7|&6* &7|&6*&7|&0 `'-.
+          |`-............-'|
+          |                |
+          \   _  .-.   _   /
+        ,-|'-' '-'  '-' '-'|-,
+      /`  \._            _./  `\
+      '._    `""""""""""`    _.'
+         `''--..........--''`
+~
+#81
+attrezzi scasso~
+attrezzi da scasso~
+Alcuni attrezzi da scasso sono qui.~
+~
+98 8 16385
+3 4 0 0 10 10
+1 500 50 1 0 0
+#90
+contratto~
+Un Contratto vendita case~
+Un Contratto vendita case e' qui~
+~
+86 0 16385
+0 0 0 0 100 100
+1 1 0 1 0 0
+#91
+buono2~
+buono2~
+Buono2~
+~
+20 0 1
+2500 0 0 0 100 100
+1 1 0 1 0 0
+#92
+Martello costruzione attrezzo~
+un martello da costruzione~
+Un martello da costruzione e' qui~
+~
+60 0 16385
+0 0 0 0 100 100
+1 34 0 1 0 0
+#93
+Coltello attrezzo~
+un coltello da caccia~
+Un coltello da caccia e' qui~
+~
+82 0 16385
+0 0 0 0 100 100
+1 34 0 1 0 0
+#94
+Pestello setaccio attrezzo~
+pestello e setaccio per macinare e ripulire~
+Pestello e setaccio per macinare e ripulire~
+Strumenti utili alla macinazione dei farinacei e alla pulizia di verdura o frutta.
+~
+79 0 16385
+0 0 0 0 50 50
+5 34 5 1 0 0
+#95
+Utensili cucina attrezzo~
+degli utensili da cucina~
+Degli utensili da cucina sono qui.~
+Utili per fare torte e pagnotte.
+~
+77 0 16385
+0 0 0 0 50 50
+5 34 10 1 0 0
+#96
+Mattarello attrezzo~
+un mattarello~
+Un mattarello e' qui.~
+Ci potresti fare belle torte
+~
+78 0 16385
+0 0 0 0 50 50
+5 34 5 1 0 0
+#97
+falce attrezzo~
+una falce~
+Una falce e' qui.~
+Nothing.
+~
+41 0 16385
+0 0 0 0 100 100
+5 34 10 1 0 0
+#98
+barca~
+una piccola barca~
+Una barca da pescatore e' qui.~
+~
+22 0 1
+0 0 0 0 40 40
+3 150 15 1 0 0
+#99
+Martelletto gioielliere attrezzo~
+un martelletto da gioielliere~
+Un martelletto da gioielliere e' qui per terra.~
+~
+43 0 16385
+0 0 0 0 100 100
+20 34 120 1 0 0
+E
+scythe death~
+It is a very heavy scythe.  The grey handle is made from hard wood and the
+long iron blade is completely smooth from countless years of use.  It feels
+cold to the touch.
+~
+$~

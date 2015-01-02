@@ -1,0 +1,335 @@
+#31100
+capitano Valdante~
+Valdante, capitano dei cieli~
+Un uomo con una gamba di ferro ti sorride attraverso la lunga barba!
+~
+Alto, ossuto e dalla lunga barba, ha l'aria di chi ha vissuto venti vite
+sopravvivendo a tutte.  Una sbarra di metallo scuro sostituisce la sua gamba
+sinistra, e si regge al terreno appoggiandosi con la spada.  Guarda l'orizzonte
+e lo indica con un sorriso, felice di poterti regalare un pizzico del suo
+infinito.    
+~
+~
+~
+~
+10 1192 5 -1 -1 -1 -1 -1 E
+70 20 -10 1d1+5000 1d20+50
+64 0
+8 8 1
+E
+#31101
+uther uomo~
+Uther 'Tre martelli'~
+Un uomo molto robusto ti osserva sospettoso dietro gli enormi baffi..
+~
+E' alto, forte, muscoloso.  Batte su un'arma appena forgiata per dargli gli
+ultimi ritocchi, ma non stacca per un istante lo sguardo da te.  Evidentemente
+non ha molta fiducia nei nuovi clienti...    
+~
+~
+~
+~
+122890 0 0 -1 -1 -1 -1 -1 E
+50 0 10 1d1+700 2d9+20
+42 0
+8 8 1
+Spec: 0
+E
+#31104
+gedale saggio anziano mendicante~
+Gedale, il saggio~
+Un anziano mendicante ti osserva con sguardo di supplica
+~
+Quest'uomo ha qualcosa di diverso dai mendicanti che hai conosciuto finora.  
+Non veste di soli stracci, ha uno sguardo molto saggio e severo nella sua
+umilta', e ha l'aria di chi ha sempre qualcosa da dire...  Ma come molti
+anziani, forse racconta sempre le stesse cose.    
+~
+~
+~
+~
+8 0 100 -1 -1 -1 -1 -1 E
+25 15 6 1d1+230 1d1+3
+18 0
+8 8 0
+E
+T 31104
+#31110
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#31111
+dagol alchimista~
+Dagol l'alchimista~
+Dagol l'alchimista sta costruendo uno strano cavallo di ferro!!
+~
+Basso, curvo e magro, benche' muscoloso..  I capelli brizzolati sparati in
+tutte le direzioni e i piccoli occhiali da intellettuale, gli danno il tipico
+aspetto da scienziato pazzo (che sembra tra l'altro essere confermato dalle sue
+azioni..  E dalle sue creazioni.  )&0
+~
+~
+~
+~
+134275083 0 5 -1 -1 -1 -1 -1 E
+45 6 -10 1d1+600 1d20+14
+32 0
+8 8 1
+Spec: 0
+E
+#31113
+spirito spada 1z1 1secr~
+&7Lo spirito della spada&0~
+&4Una spada fatata sta danzando nell'aria!!&0
+~
+Una spada incantata, bellissima, si agita nell'aria da sola vibrando fendenti
+luminosi!!  Chissa' quale fantastico incantesimo ha potuto evocare una presenza
+tanto splendente..!    
+~
+~
+~
+~
+10 274880005160 0 -1 -1 -1 -1 -1 E
+70 20 -10 1d0+190 1d20+3
+21 0
+8 8 1
+BareHandAttack: 10
+E
+#31120
+laden figura losca~
+Laden "mantide"~
+Una losca figura scivola tra le ombre come un raggio di luna
+~
+E' un uomo alto e slanciato, ma che cammina curvo e a scatti, piu' veloce della
+sua ombra.  Le sue mani stringono sempre i due pugnali dalla lama brillante, e
+quando si accorge che lo osservi li punta contemporaneamente contro di te, per
+intimidirti o, forse, per esperienza.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+42 0 -10 1d1+600 2d18+15
+41 40000
+8 8 1
+Str: 15
+Dex: 19
+E
+T 31120
+#31121
+oste Daloby~
+Daloby l'oste~
+Il grasso oste si e' distrattamente addormentato sul bancone!
+~
+E' un grasso nano dalla pelle scurissima, profondamente addormentato sul
+bancone.  E' incredibile in effetti, pare che non gli interessi affatto che
+tutta la taverna sta facendo bagordi a sue spese!  Strana citta' questa.    
+~
+~
+~
+~
+10 0 -1 -1 -1 -1 -1 -1 E
+25 10 -6 1d1+400 1d15+10
+20 0
+4 4 1
+E
+T 31121
+#31122
+gruppo bevitori ubriaconi~
+Un brioso gruppo di bevitori~
+Un gruppo di chiassosi ubriaconi schiamazza alzando i bicchieri!
+~
+Una decina di uomini, per lo piu' grassi e sporchi, dalla carnagione
+scurissima, urlano e fanno baldoria mentre, ancora sconvolto per gli
+inquietanti incontri (e scontri), non hai neanche il tempo di tirare il fiato!!
+  
+~
+~
+~
+~
+221194 0 0 -1 -1 -1 -1 -1 E
+65 -7 -7 1d1+1600 3d12+15
+52 130000
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 18
+Con: 18
+E
+#31123
+uomo sigfrid~
+Sigfrid il furbo~
+Un uomo alto e magro, dagli occhi scuri, ti osserva appoggiato al muro.
+~
+Sigfrid e' un uomo alto e magro, i capelli brizzolati e scuri gli scendono
+sugli occhi nerissimi dandogli un aspetto piuttosto misterioso.  E' appoggiato
+ad una sottilissima sciabola a cui sembra tenere molto, dato che non fa che
+carezzarla.    
+~
+~
+~
+~
+24714 786432 -10 -1 -1 -1 -1 -1 E
+50 -2 -8 1d1+590 6d8+5
+34 0
+8 8 1
+Str: 18
+Dex: 19
+Con: 15
+E
+T 31124
+T 31123
+#31141
+troll fiume flumen~
+Il flumen troll~
+Un orrendo troll dei fiumi si fa strada attraverso la melma dell'Esidur!
+~
+E' orrendo!  Un umanoide alto quasi 3 metri, enorme, dalla pelle verde e
+salmastra.  Cumuli di melma e catrame scivolano sul suo viscido corpo mentre
+lentamente esce dal fiume, osservandoti con le orride fauci spalancate e
+agitando al vento le lunghe, sporche zanne!    
+~
+~
+~
+~
+24616 0 -15 -1 -1 -1 -1 -1 E
+40 5 -5 1d1+810 1d20+20
+28 0
+8 8 1
+BareHandAttack: 8
+Str: 20
+Dex: 15
+Con: 19
+E
+#31142
+guerriero sid~
+Sid il forte~
+Un robusto guerriero dall'armatura bianca si rinfresca il volto alla fonte..
+~
+Sid e' un prode guerriero che sembra uscito da una favola..  Ha lunghi capelli
+d'argento, occhi celesti come il fiume e una pesantissima armatura bianca come
+le nuvole protegge il suo corpo in ogni angolo.  Si sta rinfrescando il viso,
+ma non posa per un attimo il pesante spadone.    
+~
+~
+~
+~
+24586 5288 9 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+800 4d13+15
+34 130000
+8 8 1
+Str: 17
+Dex: 20
+E
+T 31142
+#31149
+nocturna uomo~
+Nocturna l'errante~
+Uno spirito vagabondo ti osserva, immobile dietro le larghissime vesti nere.
+~
+Una figura spettrale di cui puoi solo immaginare la natura, alto e rigido
+dietro un mantello color della notte dal quale spuntano due cortissime lame che
+risplendono rossi sangue.  Si sposta agile nell'oscurita', fermandosi a pochi
+passi da te per osservarti con minuscoli occhi di cui vedi solo la luce
+azzurra.    
+~
+~
+~
+~
+188426 67239936 -5 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+1023 10d4+15
+60 0
+8 8 1
+Str: 17
+Dex: 20
+Int: 19
+Wis: 19
+Con: 16
+E
+#31152
+ratto mannaro~
+Il ratto mannaro~
+Un bruttissimo umanoide con il volto da ratto ti assale con un piccone
+~
+E' basso e storpio, sporcissimo, le braccia smunte e i denti neri e aguzzi
+contornano la sua ripugnante presenza.  Piccoli occhi rossi di sangue si
+puntano verso di te quando ti balza addosso!    
+~
+~
+~
+~
+8234 36 -1000 -1 -1 -1 -1 -1 E
+16 12 2 1d1+230 1d15+3
+15 6000
+8 8 1
+E
+#31175
+sciame insetti~
+uno sciame di insetti~
+Uno schifoso, grosso sciame di cavallette si lancia su di te per divorarti!
+~
+Vedi una nuvola di cavallette volare nell'aria attorno al maestro che le ha
+evocate, per poi subito lanciarsi su di te!!  I loro mille morsi potrebbero
+essere pericolosissimi!    
+~
+~
+~
+~
+4154 1056 -400 -1 -1 -1 -1 -1 E
+35 0 -10 1d1+230 2d20+1
+27 3000
+8 8 1
+BareHandAttack: 4
+Dex: 25
+Con: 25
+E
+#31176
+veleno mago~
+&1Veleno&0 &3il mago&0~
+Un uomo dalle lunghe vesti coperte di rune e' in piedi in mezzo al corridoio!
+~
+Veleno e' un giovane uomo alto e longilineo, dai lunghi capelli bianchi e privo
+di barba o baffi.  Un grande cappello a punta grigio quasi gli copre i piccoli
+occhi brillanti, e la sua veste (anch'essa grigia) e' coperta da mistiche rune.
+Sembra disarmato ma senti che in lui v'e' un grande potere.    
+~
+~
+~
+~
+188426 402654376 0 -1 -1 -1 -1 -1 E
+30 20 -10 1d1+810 1d5+0
+26 300000
+8 8 1
+E
+T 31176
+#31182
+uomo anziano zio buck~
+lo zio Buck~
+Un anziano uomo ondeggia assopito sulla sedia a dondolo...
+~
+E' un ometto basso e anziano, dall'apparenza bonaria.  Si dondola davanti alla
+luce del piccolo caminetto, e in una mano stringe uno strano oggetto.  Che sia
+un'arma?  O uno strumento per il suo splendido giardino??  In ogni caso ritieni
+che svegliarlo non sia una buona idea..    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+24 8 6 1d1+240 1d10+1
+17 0
+4 4 0
+E
+T 31182
+$

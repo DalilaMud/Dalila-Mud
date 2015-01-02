@@ -1,0 +1,20 @@
+trigedit 1485
+6  
+/c 
+if %actor.name% != dolmant
+halt
+end
+wait 1 s
+wforce andromeda sor dolmant
+wait 1 s
+wforce andromeda say Arrivederci Sire
+wait 1 s
+wforce andromeda mat 22230 mforce 2.gcd unlock porta
+wforce andromeda mat 22230 mforce 2.gcd apri porta
+wait 10 s
+wforce andromeda mat 22230 mforce 2.gcd chiudi porta
+wforce andromeda mat 22230 mforce 2.gcd lock porta
+~
+/s
+q
+y

@@ -1,0 +1,32 @@
+trigedit 2045
+6  
+/c 
+set valido 0
+if %actor.name% == Sagat || %actor.name% == Cassius || %actor.name% == Seth || %actor.name% == christian
+ set valido 1
+end
+if %actor.name% == Shazarak || %actor.name% == inuyasha || %actor.name% == eligor || %actor.name% == smigol
+set valido 1
+end
+if %valido% == 1
+ if %speech% == protettore del Caos
+  wait 1 s
+  if %puntifede% < 1000
+   mecho &5L'altare inizia ad illuminarsi, ma non succede nulla&0
+   halt
+  end
+  mecho &5L'altare si illumina ed emette sinistri rumori.&0
+  mload mob 2048
+  wait 1 s
+  mforce nachzehrer say Per volere di Xhyphys ti seguiro' nella lotta per il Caos, %actor.name%.
+wait 2
+mforce %actor.name% say tu ora mi seguirai, in nome di %god%
+  eval puntifede %puntifede%-1000
+  global puntifede
+  mat cptifedexhyphys say distruggi 20
+ end
+end
+~
+/s
+q
+y

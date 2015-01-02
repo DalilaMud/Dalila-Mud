@@ -1,0 +1,286 @@
+#10000
+corazza maglia~
+una corazza di maglia elfica~
+Una splendente maglia metallica e' sul pavimento.~
+~
+9 1061888 9
+6 0 0 0 60 60
+3 2000 200 0 0 0
+#10001
+calzature elfiche~
+calzature elfiche~
+Delle morbide calzature sono sul pavimento.~
+~
+9 9216 65
+6 0 0 0 40 40
+3 3000 300 0 0 0
+#10002
+lunga spada~
+una spada lunga elfica~
+Una splendente lama e' sul pavimento.~
+~
+5 140352 8193
+0 2 7 10 60 60
+3 2500 250 13 0 0
+A
+19 1
+#10003
+veste marrone~
+una veste marrone~
+Una veste marrone e' sul pavimento.~
+~
+11 50240 1025
+0 0 0 0 30 30
+3 1500 150 0 0 0
+A
+17 -4
+#10004
+chiave~
+una chiave~
+Una chiave luminosa e' sul pavimento.~
+~
+18 65548 1
+10046 0 0 0 10 10
+1 0 0 0 0 0
+#10005
+chiave~
+una chiave~
+Una chiave luminosa e' sul pavimento.~
+~
+18 65548 1
+10080 0 0 0 10 10
+1 0 0 0 0 0
+#10006
+anello~
+un anello d'oro~
+Uno splendente anello e' sul pavimento.~
+~
+8 165122 3
+0 0 0 0 70 70
+1 1000 100 0 0 0
+A
+12 7
+#10007
+bastone combattimento~
+un bastone da combattimento~
+Un bastone da combattimento e' sul pavimento.~
+~
+5 181312 8193
+0 4 3 8 70 70
+5 1000 10 0 0 0
+E
+bastone combattimento~
+E' un bastone di legno rinforzato alle estremita'
+da punte di ferro.
+~
+#10008
+pozione avorio~
+&7una pozione avorio&0~
+Una &7pozione avorio&0 e' qui sul pavimento.~
+~
+10 64 1
+10 1 0 0 10 10
+1 200 10 0 0 0
+#10009
+pozione celeste~
+&6&xuna pozione celeste&0~
+Una &6&xpozione celeste&0 e' qui sul pavimento.~
+~
+10 64 1
+25 16 0 0 10 10
+1 200 10 0 0 0
+#10010
+pozione arancione~
+&1&xuna pozione arancione&0~
+Una &1&xpozione arancione&0 e' qui sul pavimento.~
+~
+10 64 1
+10 44 20 0 10 10
+1 200 10 0 0 0
+#10011
+pozione viola~
+&5una pozione viola&0~
+Una &5pozione viola&0 e' qui sul pavimento.~
+~
+10 64 1
+15 59 0 0 10 10
+1 200 10 0 0 0
+#10012
+pozione azzurra~
+&6una pozione azzurra&0~
+Una &6pozione azzurra&0 e' qui sul pavimento.~
+~
+10 64 1
+10 77 16 0 10 10
+1 200 10 0 0 0
+#10013
+pozione marrone~
+&1una pozione marrone&0~
+Una &1pozione marrone&0 e' qui sul pavimento.~
+~
+10 64 1
+10 84 0 0 10 10
+1 200 10 0 0 0
+#10014
+pozione nera~
+&9&xuna pozione nera&0~
+Una &9&xpozione nera&0 e' qui sul pavimento.~
+~
+10 64 1
+20 93 0 0 10 10
+1 200 10 0 0 0
+#10015
+pozione blu~
+&4&xuna pozione blu&0~
+Una &4&xpozione blu&0 e' qui sul pavimento.~
+~
+10 64 1
+30 15 16 0 10 10
+1 200 10 0 0 0
+#10016
+pozione dorata~
+&3&xuna pozione dorata&0~
+Una &3&xpozione dorata&0 e' qui sul pavimento.~
+~
+10 64 1
+50 50 0 0 10 10
+1 200 10 0 0 0
+#10017
+pergamena rossa~
+&1una pergamena rossa&0~
+&1Una pergamena rossa e' sul pavimento.&0~
+~
+2 64 1
+0 0 0 0 10 10
+1 200 10 0 0 0
+#10018
+pergamena verde~
+&2una pergamena verde&0~
+&2Una pergamena verde e' sul pavimento.&0~
+~
+2 64 1
+0 0 0 0 10 10
+1 3000 10 0 0 0
+#10019
+pergamena gialla~
+&3una pergamena gialla&0~
+&3Una pergamena gialla e' sul pavimento.&0~
+~
+2 64 1
+0 0 0 0 10 10
+1 500 10 0 0 0
+#10020
+pergamena blu~
+&4una pergamena blu&0~
+&4Una pergamena blu e' sul pavimento.&0~
+~
+2 64 1
+0 0 0 0 10 10
+1 3000 10 0 0 0
+#10021
+pergamena viola~
+&5una pergamena viola&0~
+&5Una pergamena viola e' sul pavimento.&0~
+~
+2 64 1
+0 0 0 0 10 10
+1 3000 10 0 0 0
+#10022
+pergamena azzurra~
+&6una pergamena azzurra&0~
+&6Una pergamena azzurra e' sul pavimento.&0~
+~
+2 64 1
+10 8 0 0 10 10
+1 200 10 0 0 0
+#10023
+pergamena bianca~
+&7una pergamena bianca&0~
+&7Una pergamena bianca e' sul pavimento.&0~
+~
+2 64 1
+0 0 0 0 10 10
+1 3000 10 0 0 0
+#10024
+verga luce~
+La Verga della Neutralita'~
+Una dura verga di metallo e' sul pavimento.~
+~
+1 181824 16385
+0 0 -1 0 60 60
+1 1000 100 0 0 0
+#10025
+elmo~
+L'elmo della Luna~
+L'elmo della Luna e' qua' per terra.~
+~
+9 25600 17
+6 0 0 0 30 30
+4 3000 50 0 0 0
+#10026
+scudo~
+lo Scudo degli Dei~
+Lo Scudo degli Dei e' qua'.~
+~
+9 5120 513
+6 0 0 0 70 70
+5 5000 100 0 0 0
+#10027
+gambali~
+I Gambali Dorati~
+I Gambali Dorati son qua' per terra.~
+~
+9 50176 33
+7 0 0 0 40 40
+4 2000 0 0 0 0
+#10028
+maniche acciaio~
+Maniche di acciaio~
+Un paio di maniche di acciaio son qua'.~
+~
+9 12800 257
+7 0 0 0 80 80
+5 1000 0 0 0 0
+#10029
+guanti~
+I Guanti del Vento~
+I Guanti del Vento sono qua' per terra.~
+~
+9 37888 129
+6 0 0 0 50 50
+2 3000 50 12 0 0
+A
+2 1
+#10030
+corazza~
+La Corazza dell'Idra~
+La Corazza dell' Idra e' qua.~
+~
+9 12928 9
+7 0 0 0 60 60
+10 3000 50 16 0 0
+#10031
+spada~
+La spada del giovane Guerriero~
+La spada del giovane Guerriero e' qui...~
+~
+5 13312 8193
+3 2 8 10 60 60
+8 4000 100 10 0 0
+A
+18 -1
+A
+20 -3
+#10032
+orecchino elfico~
+un orecchino elfico~
+Un orecchino riluccica al suolo.~
+~
+8 34065 32769
+0 0 0 0 30 30
+1 500 50 0 0 0
+A
+12 5
+A
+24 -2
+$~

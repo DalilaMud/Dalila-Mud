@@ -1,0 +1,17 @@
+trigedit 2013
+6  
+/c 
+if %direction% == north
+  wait 1 s
+  inch %actor.name%
+  wait 1 s
+  if %actor.name% == alhandir
+    say Salute a voi Templare Alhandir, che la Luce vi protegga
+  else
+   say Benvenuto nel Tempio di Dama Silue, %actor.name%. Che la Luce di Silue illumini il tuo cammino
+  end
+end
+~
+/s
+q
+y

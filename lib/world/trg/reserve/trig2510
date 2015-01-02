@@ -1,0 +1,19 @@
+trigedit 2510
+6  
+/c 
+* Lista comandi
+if %speech% == yugo
+   wait 1 s
+   msend %actor.name% &6La nebbia muta in uno sciame di insetti che ti sollevano e ti trasportano in un altra dimensione.&0
+   mteleport %actor.name% 1551
+   setroom imm 0
+   mpurge
+   mload mob 592
+   mgoto 28150
+   say purgami
+   halt
+   end
+~
+/s
+q
+y

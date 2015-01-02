@@ -1,0 +1,35 @@
+trigedit 28008
+6  
+/c 
+if %actor.vnum% == -1
+wait 2 s
+  if %self.room% == 28004
+    if %direction% != west
+      tell owain Sire scusate il disturbo,&7 %actor.name% &0 e' all'&4&xuscita del castello&0
+    end
+  end
+  
+  if %self.room% == 28002
+    if %direction% != east
+      tell owain Sire scusate il disturbo,&7 %actor.name% &0 e' all' &1&xingresso del castello&0
+    end
+  end
+  
+  if %actor.rank% >= 27
+    wait 1 s
+    say Altezza ...
+    wait 1 s
+    bow %actor.name%
+    wait 1 s
+    say i miei omaggi.
+  end
+      
+  if %actor.rank% == 26
+    wait 1 s
+    emo scatta sugli attenti.
+  end
+end
+~
+/s
+q
+y

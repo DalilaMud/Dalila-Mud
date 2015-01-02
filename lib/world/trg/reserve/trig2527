@@ -1,0 +1,13 @@
+trigedit 2527
+6  
+/c 
+* Lista comandi
+wait 2
+wsend %actor.name% &9&xCerchi con un balzo di arrivare dall'altra parte della stanza, ma improvvisamente scivoli.&0
+wechoaround %actor.name% &9&x%actor.name% scivola mentre cerca di arrivare dall'altra parte della stanza!&0
+%damage% %actor.name% 100
+%teleport% %actor.name% 697
+~
+/s
+q
+y

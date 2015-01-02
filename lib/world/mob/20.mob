@@ -1,0 +1,954 @@
+#2001
+gnomo sottosuolo~
+lo gnomo del sottosuolo~
+Uno gnomo del sottosuolo è in piedi con lo sguardo vuoto.
+~
+   Lo gnomo del sottosuolo è un umanoide alto circa 60 cm con la pelle chiara e
+le braccia più lunghe del normale.  Solitamente abita i labirinti sotterranei e
+vive in gruppi di almeno trenta componenti.  Abitualmente combatte senza armi
+utilizzando gli artigli naturali che ha al posto delle dita.  Data la sua
+scarsa intelligenza in battaglia è guidato sempre da un capo che solitamente è
+un principe gnome del sottosuolo.    
+~
+~
+~
+~
+72 1024 -350 -1 -1 -1 -1 -1 E
+12 14 6 1d1+115 1d8+1
+9 3000
+8 8 1
+E
+#2002
+principe gnomo sottosuolo~
+il principe gnomo del sottosuolo~
+Un principe gnomo del sottosuolo è in piedi con una grossa clava in mano.
+~
+   Il principe gnomo del sottosuolo è molto simile allo gnomo, anche se
+differisce da quest'ultimo per la sua maggiore altezza (circa un metro) e
+soprattutto per il suo coraggio e la sua intelligenza.  In battaglia utilizza
+una grossa clava che riesce a manovrare grazie alla sua forza e al suo continuo
+allenamento al combattimento.    
+~
+~
+~
+~
+4168 1024 -400 -1 -1 -1 -1 -1 E
+17 14 3 1d1+145 1d10+4
+13 8000
+8 8 1
+E
+#2003
+pipistrello caverne~
+il pipistrello delle caverne~
+Un pipistrello delle caverne è appollaiato a testa in giù sul soffitto.
+~
+Il pipistrello delle caverne è un pipistrello che vive solo nel sottosuolo e ha
+quindi affinato le già notevoli capacità dei suoi simili quali l'udito e la
+percezione degli oggetti che lo circondano.  Queste abilità sono naturalmente
+molto utili in combattimento, dove il pipistrello del sottosuolo può
+utilizzarle in combinazione con il suo pericolosissimo morso.  Il pipistrello
+delle caverne solitamente vive in branchi molto numerosi che in alcune
+occasioni possono raggiungere le 200/300 unità.    
+~
+~
+~
+~
+104 1064 -400 -1 -1 -1 -1 -1 E
+13 14 6 1d1+130 1d9+1
+10 7000
+8 8 1
+E
+#2004
+pipistrello gigante~
+il pipistrello gigante~
+Un pipistrello gigante è appollaiato a testa in giù sul soffitto.
+~
+Il pipistrello gigante è un pipistrello dalle dimensioni enormi, più del
+doppio di un qualunque pipistrello normale. Questo gli dona una notevole
+forza, che combinata alla sua per niente diminuita agilità di movimento
+gli consente di essere un pericoloso e temibile nemico.
+Il pipistrello gigante è abituato a vivere in solitudine o come capo
+di qualche branco di pipistrelli inferiori: è molto raro vedere più
+pipistrelli giganti insieme che collaborano.
+~
+~
+~
+~
+104 1064 -500 -1 -1 -1 -1 -1 E
+16 15 7 1d1+150 2d5+3
+10 90000
+8 8 1
+E
+#2005
+cane selvatico~
+il cane selvatico~
+Un cane selvatico sta gironzolando annusando per terra.
+~
+Il cane selvatico è deriva dalla mutazione genetica della specie canina.
+La somiglianza con un normale cane è molto accentuata, ma il cane selvatico
+possiede una forza, una aggressività e una ferocia molto superiori a quelle
+degli altri cani.
+Di solito vive in branche, anche se non è raro vedere due o più cani
+selvatici sbranarsi l'uno con l'altro.
+~
+~
+~
+~
+72 1056 -350 -1 -1 -1 -1 -1 E
+13 14 6 1d1+130 1d9+1
+8 6000
+8 8 1
+E
+#2006
+cane rabbioso~
+il cane rabbioso~
+Un cane rabbioso ti sta fissando con aria minacciosa.
+~
+Il cane rabbioso è un cane selvatico particolarmente forte e feroce.
+Solitamente li si trova a capo di un gruppetto di cani rabbiosi ed è
+molto raro vederlo in compagnia di un suo simile.
+~
+~
+~
+~
+72 1056 -450 -1 -1 -1 -1 -1 E
+16 13 5 1d1+180 2d5+2
+10 100000
+8 8 1
+E
+#2007
+lupo boschi~
+il lupo dei boschi~
+Un lupo dei boschi è qui attento e guardingo.
+~
+Il lupo dei boschi è un lupo dal manto lungo e scuro che si aggira
+solitamente nelle profondità dei boschi.
+Per quel poco che si conosce si può affermare che è un animale molto
+solitario e non aggressivo, anche se diventa incredibilmente feroce se
+attaccato.
+~
+~
+~
+~
+2120 1056 -400 -1 -1 -1 -1 -1 E
+17 13 5 1d1+205 2d7+3
+10 110000
+8 8 1
+E
+#2008
+lupo caverne~
+il lupo delle caverne~
+Un lupo delle caverne è qui che ti ringhia in faccia.
+~
+Il lupo delle caverne è un lupo del manto grigio e ruvido che vive in
+branchi nel sottosuolo. L'abitudine al sottosuolo e all'oscurità hanno
+notevolmente migliorato la sua vista e i suoi movimenti silenziosi,
+rendendolo un temibile predatore.
+~
+~
+~
+~
+104 263208 -350 -1 -1 -1 -1 -1 E
+12 14 6 1d1+115 1d8+1
+11 7000
+8 8 1
+E
+#2009
+kroll~
+il kroll~
+Un kroll è in piedi e ti sta guardando incuriosito.
+~
+   Il kroll è un umanoide alto circa tre metri.  La sua pelle grigiastra è
+completamente ricoperta da un folto pelo.  I suoi movimenti sono agili e veloci
+come quelli di un gatto, mentre la vista è ottimale al buio ma pessima in
+presenza di luce.  Solitamente i kroll si spostano in piccoli gruppi pronti ad
+aiutarsi in caso di bisogno.  In battaglia combattono con spade e mazze.    
+~
+~
+~
+~
+6216 263168 -200 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+11 70000
+8 8 1
+E
+#2010
+capo kroll~
+il capo kroll~
+Un capo kroll è in piedi e ti guarda sospettoso.
+~
+Il capo kroll è un kroll imparentato con la famiglia reale dei kroll e
+pertanto addestrato nell'arte del combattimento e della strategia militare
+fin dalla più tenera età. Questo lungo e costante addestramento ha
+reso i capi troll più forti e resistenti dei loro simili.
+~
+~
+~
+~
+6216 263168 -400 -1 -1 -1 -1 -1 E
+22 13 2 1d1+230 2d9+3
+16 120000
+8 8 1
+E
+#2011
+ragno peloso~
+il ragno peloso~
+Un ragno peloso si sta arrampicando su una parete.
+~
+Il ragno peloso è una specie di ragno grande solitamente come il palmo di
+una mano. Le sue peculiarità sono la rapidità dei movimenti e la resistenza
+ai colpi dovuta al folto pelo e alla pelle molto dura. E' un animale
+solitario quindi difficilmente si incontrano ragni pelosi in gruppo.
+~
+~
+~
+~
+105 262184 -200 -1 -1 -1 -1 -1 E
+14 14 6 1d1+100 1d10+2
+11 30000
+8 8 1
+Spec: 13
+E
+#2012
+ragno gigante~
+il ragno gigante~
+Un ragno gigante si sta arrampicando su una parete.
+~
+Il ragno gigante è una specie di ragno che può raggiungere anche i 50 cm di
+diametro. Questa sua mole si traduce in una maggiore capacità combattiva
+in quanto è in grado di sopportare un maggior numero di colpi e di
+infleggere ferite più gravi.
+~
+~
+~
+~
+73 263200 -400 -1 -1 -1 -1 -1 E
+17 13 5 1d1+205 2d7+3
+10 120000
+8 8 1
+Spec: 13
+E
+#2013
+golem legno~
+il golem di legno~
+Un golem di legno è in piedi immobile.
+~
+Il golem di legno è una statua di legno animata magicamente.
+La sua mole può variare notevolmente, partendo dai 50 cm per arrivare
+anche a 3/4 metri. Data la sua natura prettamente magica è immune a
+tutte le forme di attacco mentali.
+~
+~
+~
+~
+188458 1024 -500 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+11 80000
+8 8 0
+E
+#2014
+golem pietra~
+il golem di pietra~
+Un golem di pietra è in piedi immobile.
+~
+Il golem di pietra è una statua di pietra animata magicamente.
+La sua mole può variare notevolmente, partendo dai 50 cm per arrivare
+anche a 3/4 metri. Data la sua natura prettamente magica è immune a
+tutte le forme di attacco mentali. La pietra che lo costituisce gli
+garantisce una buona resistenza agli attacchi nemici.
+~
+~
+~
+~
+188426 1032 -600 -1 -1 -1 -1 -1 E
+24 11 2 1d1+390 2d10+4
+15 500000
+8 8 0
+E
+#2015
+fata boschi~
+la fata dei boschi~
+Una fata dei boschi sta svolazzando mentre canta allegra.
+~
+La fata dei boschi è uno spiritello di piccole dimensioni. La sua forza
+e la sua resistenza sono minime, ma la sua conoscenza della magia la
+rende comunque molto pericolosa, anche se per natura è un essere
+assolutamente pacifico e per niente incline al combattimento.
+~
+~
+~
+~
+6216 1148 500 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d7+2
+14 50000
+8 8 2
+E
+#2016
+fata turchina~
+la fata turchina~
+Una fata turchina sta svolazzando mentre canta allegra.
+~
+La fata turchina è uno spiritello di piccole dimensioni molto simile
+alla fata dei boschi. La sua forza è minima, ma una discreta resistenza e
+soprattutto un'ottima conoscenza di alcune pericolose magie la rende un
+avversario molto pericoloso.
+~
+~
+~
+~
+194632 33555580 500 -1 -1 -1 -1 -1 E
+18 13 4 1d1+230 2d7+3
+14 200000
+8 8 2
+E
+#2017
+orco~
+l'orco~
+Un orco è in piedi e ti sta guardando.
+~
+L'orco è un umanoide dall'aspetto orrendo. Le sue dimensioni sono doppie
+rispetto a quelle di un uomo comune e la sua enorme forza e ferocia lo
+rende un avversario molto pericoloso.
+~
+~
+~
+~
+104 1024 -400 -1 -1 -1 -1 -1 E
+16 13 5 1d1+180 2d6+2
+10 90000
+8 8 1
+E
+#2018
+orco sciamano~
+l'orco sciamano~
+Un orco sciamano ti guarda sospettoso.
+~
+L'orco sciamano è un orco che ha una rudimentale conoscenza della magia
+elementare. Questo fa si che sia molto più resistente di un orco normale
+e anche un pò più inprevedibile.
+~
+~
+~
+~
+72 150995976 -500 -1 -1 -1 -1 -1 E
+18 13 4 1d1+200 2d7+3
+10 150000
+8 8 1
+E
+#2019
+orango oscuro~
+l'orango oscuro~
+Un orango oscuro sta gironzolando.
+~
+L'orango oscuro è una specie di orango dalla pelle completamente nera.
+La sua intelligenza quasi umana e la sua forza enorme lo rendono un
+buon combattente, anche se solitamente combatte solo se attaccato o
+provocato.
+~
+~
+~
+~
+72 1024 -500 -1 -1 -1 -1 -1 E
+17 13 5 1d1+205 2d7+3
+11 80000
+8 8 1
+E
+#2020
+troll~
+il troll~
+Un troll è in piedi che brontola.
+~
+Il troll è un umanoide dall'aspetto bestiale e dalle dimensioni doppie
+rispetto a un normale uomo. La sua stupidità lo rende una creatura
+imprevedibile e incline all'ira. La sua caratteristica principale è
+la capacità di subire i colpi subendo pochissimi danni e riuscendo a
+recuperare le forza in tempi brevissimi.
+~
+~
+~
+~
+188488 1024 -700 -1 -1 -1 -1 -1 E
+18 13 4 1d1+230 2d7+3
+13 250000
+8 8 1
+E
+#2021
+gorilla guardiano~
+il gorilla guardiano~
+Un gorilla guardiano ti sta fissando in maniera poco amichevole.
+~
+Il gorilla guardiano è un gorilla di straordinaria forza e resistenza.
+Le sue dimensioni sono notevolmente superiori al normale e la sua
+peculiarità è quella di obbedire ciecamente agli ordini del suo padrone.
+~
+~
+~
+~
+106 1024 -450 -1 -1 -1 -1 -1 E
+14 16 5 1d1+145 1d10+4
+12 8000
+8 8 1
+E
+#2022
+orco indemoniato~
+l'orco indemoniato~
+Un orco indemoniato ti fissa con uno sguardo da pazzo.
+~
+L'orco indemoniato è un orco che è diventato completamente pazzo:
+i suoi simili credono che sia posseduto dal demonio e quindi gli
+stanno lontano. L'unica cosa certa è che la pazzia li ha resi molto
+più forti e resistenti.
+~
+~
+~
+~
+106 1024 -600 -1 -1 -1 -1 -1 E
+24 11 3 1d1+400 2d11+5
+22 80000
+8 8 1
+E
+#2023
+gnomosauro~
+lo gnomosauro~
+Uno gnomosauro sta gironzolando incuriosito.
+~
+Lo gnomosauro è una specie derivante dai dinosauri ma dalle
+dimensioni notevolmente ridotte. La sua pelle è a scaglie verdi e la
+sua mandibola ha una forza portentosa. Solitamente vive in piccoli
+gruppi di una decina di unità e si nutre solo ed esclusivamente di
+carne appena uccisa.
+~
+~
+~
+~
+72 1024 -200 -1 -1 -1 -1 -1 E
+17 13 5 1d1+205 2d7+3
+11 110000
+8 8 1
+E
+#2024
+prete indemoniato~
+il prete indemoniato~
+Un prete indemoniato è in piedi scosso da spasmi.
+~
+Il prete indemoniato è un prete che è posseduto da uno spirito maligno.
+Il prete agisce per volontà dello spirito ed è quindi portato a compiere
+azioni malvage. Inoltre la forza e la resistenza del prete vengono
+triplicate dalla presenza dello spirito.
+~
+~
+~
+~
+104 1032 -500 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+9 50000
+8 8 1
+E
+#2025
+sacerdote male~
+il sacerdote del male~
+Un sacerdote del male è in piedi con un libro in mano.
+~
+Il sacerdote del male è un sacerdote che ha venduto l'anima al
+diavolo in cambio del potere e della ricchezza. Conosce inoltre i
+segreti della magia nera e può creare esseri maligni quali zombi e
+ghoul.
+~
+~
+~
+~
+536873034 188 -700 -1 -1 -1 -1 -1 E
+23 10 3 5d10+265 3d6+6
+21 70000
+8 8 1
+E
+#2026
+ghoul~
+il ghoul~
+Un ghoul è in piedi immobile.
+~
+Il ghoul è un essere umano morto che è stato richiamato in vita grazie
+a potenti magie. Il mostro ha sempre una fame insaziabile e si ciba
+della carne morta. Il suo aspetto è quello di un mostro, con i denti
+aguzzi e sporgenti, il corpo ricoperto di un folto pelo e l'andatura a
+schiena ricurva.
+~
+~
+~
+~
+41064 1064 -600 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+8 40000
+8 8 1
+E
+#2027
+zombi~
+lo zombi~
+Uno zombi è in piedi immobile.
+~
+Lo zombi è un essere umano morto e richiamato in vita grazie a potenti
+magie. Il mostro è fedele a chi l'ha fatto rinascere e gli obbedisce
+ciecamente.
+~
+~
+~
+~
+41034 1024 -500 -1 -1 -1 -1 -1 E
+14 14 5 1d1+145 1d10+2
+9 30000
+8 8 1
+E
+#2028
+picchiaroccia~
+il picchiaroccia~
+Un picchiaroccia è davanti a te con un piccone in mano.
+~
+Il picchiaroccia è un umanoide alto come un nano e dall'aspetto molto
+buffo, perchè ha le gambe gracili e sottili e le braccia grosse e
+robuste. Il corpo è interamente coperto da un folto pelo grigio, lo
+stesso colore dei suoi capelli.
+~
+~
+~
+~
+72 1024 -100 -1 -1 -1 -1 -1 E
+16 13 5 1d1+180 2d5+2
+13 90000
+8 8 1
+E
+#2029
+mangiaroccia~
+il mangiaroccia~
+Un mangiaroccia è intento a sgranocchiarsi un prelibato masso di roccia.
+~
+Il mangiaroccia è un umanoide gigante, alto dai 3 ai 5 metri.
+Il suo nome deriva dal fatto che si ciba solo ed esclusivamente di roccia,
+tanto che non è insolito vederlo in compagnia di qualche picchiaroccia
+con il quale mantiene rapporti di affari.
+~
+~
+~
+~
+188488 1024 -200 -1 -1 -1 -1 -1 E
+25 11 2 1d1+410 2d10+4
+20 300000
+8 8 1
+E
+#2030
+spettro~
+lo spettro~
+Uno spettro vaga fluttuando nell'aria.
+~
+Lo spettro è l'anima di una persona malvagia deceduta che per qualche
+motivo non è riuscito a raggiungere l'aldilà. Vista la sua natura
+incorporea è difficilissimo causargli delle ferite e la sua sola
+presenza è fonte di terrore per la maggior parte delle creature con
+poca intelligenza.
+~
+~
+~
+~
+256088 296124 -700 -1 -1 -1 -1 -1 E
+17 13 5 1d1+140 2d7+3
+14 120000
+8 8 1
+E
+#2031
+grande guerriero Krel~
+il grande guerriero Krel~
+Il grande guerriero Krel è in piedi con una enorme spada in mano.
+~
+Il grande guerriero Krel è un eroe di un'epoca ormai lontana.
+Si narra che uccise migliaia di nemici in nome della pace e della
+giustizia. La sua morte è avvolta nella leggenda, che narra di un
+potentissimo stregone che lo uccise per farlo rinascere sotto
+forma di demone.
+~
+~
+~
+~
+190474 67634216 -900 -1 -1 -1 -1 -1 E
+30 10 0 1d1+600 2d10+5
+17 760000
+8 8 1
+E
+#2032
+tarma fiammeggiante~
+la tarma fiammeggiante~
+Una tarma fiammeggiante sta girando vicino a te.
+~
+La tarma fiammeggiante è una tarma dalle dimensioni gigantesche:
+è alta mezzo metro e larga altrettanto. La sua caratteristica
+più pericolosa è il soffio di fuoco che può utilizzare a piacimento,
+anche se essendo a corto raggio la costringe ad utilizzarlo solo
+nei combattimenti corpo a corpo.
+~
+~
+~
+~
+88 1024 100 -1 -1 -1 -1 -1 E
+16 13 5 1d1+180 2d5+2
+16 90000
+8 8 1
+E
+#2033
+guerriero kirshan elfo scuro~
+il guerriero elfo scuro~
+Un guerriero elfo scuro è in piedi con la spada in mano.
+~
+Il guerriero kirshan è un guerriero elfo scuro esperto nel
+combattimento in luoghi stretti. Infatti la tribù kirshan vive
+nel sottosuolo delle foreste ed è famosa per l'abilità nel
+combattere al buio e nel sottosuolo.
+~
+~
+~
+~
+4168 1032 -100 -1 -1 -1 -1 -1 E
+24 11 2 1d1+390 2d10+4
+19 350000
+8 8 1
+E
+#2034
+demonietto oscuro~
+il demonietto oscuro~
+Un demonietto oscuro è in piedi.
+~
+Il demonietto oscuro è un demone minore che è stato evocato dal
+regno delle tenebre. La sua pelle è nera come la pece e piena di
+piaghe e bubboni. La sua forza non è tremenda ma la sua sola
+presenza è fonte di terrore per la maggior parte delle normali
+creature.
+~
+~
+~
+~
+188426 1064 -400 -1 -1 -1 -1 -1 E
+25 11 2 1d1+410 2d10+4
+15 450000
+8 8 1
+E
+#2035
+predone sanguinario~
+il predone sanguinario~
+Un predone sanguinario è in piedi con una sciabola in mano.
+~
+Il predone sanguinario è un guerriero mercenario molto abile
+nell'uso della spada. La sua vera forza è il fatto che combatte
+in gruppi di una decina di elementi molto bene organizzati e
+preparati. Di solito è guidato da un capo.
+~
+~
+~
+~
+106 1024 -300 -1 -1 -1 -1 -1 E
+13 14 6 1d1+130 1d9+1
+10 100000
+8 8 1
+E
+#2036
+capitano predoni sanguinari~
+il capitano dei predoni sanguinari~
+Un capitano dei predoni sanguinari è in piedi con una grande
+~
+Il capitano dei predoni sanguinari è il comandande di un gruppo di
+predoni sanguinari. La sua caratteristica principale è la grande
+sciabola che riesce a maneggiare con una scioltezza e una destrezza
+inimmaginabile.
+~
+~
+~
+~
+188426 1024 -400 -1 -1 -1 -1 -1 E
+23 11 2 1d1+370 2d10+4
+18 400000
+8 8 1
+E
+#2037
+orso ghiaccio~
+L'orso del ghiaccio~
+Un orso del ghiaccio sta gironzolando a quattro zampe.
+~
+L'orso del ghiaccio è una specie di orso che si trova a suo agio nei
+climi freddi e umidi. La sua corporatura massiccia gli consente di avere
+una buona forza e un'ottima resistenza.
+~
+~
+~
+~
+72 296 0 -1 -1 -1 -1 -1 E
+23 11 2 1d1+340 2d8+2
+13 300000
+8 8 1
+E
+#2038
+cptifedesilue~
+Il controllore dei punti fede di Silue~
+Il controllore dei punti fede di Silue ti sorride ammiccando.
+~
+Ha un che di angelico...
+~
+~
+~
+~
+253978 0 1000 -1 -1 -1 -1 -1 E
+89 -30 10 1d1+29999 30d100+0
+47 0
+8 8 0
+Str: 25
+Dex: 25
+E
+T 2014
+T 2015
+T 2016
+T 2020
+#2039
+burattinosilue~
+burattinosilue~
+Un burattino di pezza salta e balla qua attorno
+~
+E' molto carino, e molto utile, visto che contribuisce a conteggiare
+i punti fede di Silue
+~
+~
+~
+~
+253978 0 1000 -1 -1 -1 -1 -1 E
+80 20 10 1d1+29999 30d100+0
+56 0
+8 8 0
+E
+T 2017
+#2040
+xxxxxx~
+Il purgatore~
+Il purgatore e' qui, vestito da spazzino.
+~
+Questo e' probabilmente l'essere piu' cattivo del mondo,
+anche se dal suo abbigliamento non sembrerebbe...
+~
+~
+~
+~
+254008 470810752 -1000 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+29999 30d100+50
+96 0
+8 8 0
+E
+T 2021
+#2041
+cptifedeshaarr~
+Il controllore dei punti fede di Shaarr~
+Il controllore dei punti fede di Shaarr ti guarda infuriato.
+~
+Ha un che di demoniaco...
+~
+~
+~
+~
+253978 0 -1000 -1 -1 -1 -1 -1 E
+89 -30 10 1d1+29999 30d100+0
+62 0
+8 8 0
+Str: 25
+Dex: 25
+E
+T 2014
+T 2015
+T 2020
+T 2025
+#2042
+burattinoshaarr~
+burattinoshaarr~
+Un burattino di pezza salta e balla qua attorno
+~
+E' molto carino, e molto utile, visto che contribuisce a conteggiare
+i punti fede di Shaarr
+~
+~
+~
+~
+253978 0 -1000 -1 -1 -1 -1 -1 E
+80 20 10 1d1+29999 30d100+0
+63 0
+8 8 0
+E
+T 2028
+#2043
+cptifedexhyphys~
+Il controllore dei punti fede di Xhyphys~
+Il controllore dei punti fede di Xhyphys rifiuta ogni regola.
+~
+Ha un che di caotico...
+~
+~
+~
+~
+253978 0 -200 -1 -1 -1 -1 -1 E
+89 -30 10 1d1+29999 30d100+0
+61 0
+8 8 0
+Str: 25
+Dex: 25
+E
+T 2020
+T 2014
+T 2015
+T 2026
+#2044
+burattinoxhyphys~
+burattinoxhyphys~
+Un burattino di pezza salta e balla qua attorno
+~
+E' molto carino, e molto utile, visto che contribuisce a conteggiare
+i punti fede di Xhyphys
+~
+~
+~
+~
+253978 0 200 -1 -1 -1 -1 -1 E
+80 20 10 1d1+29999 30d100+0
+60 0
+8 8 0
+E
+T 2029
+#2045
+cptifedetherion~
+Il controllore dei punti fede di Therion~
+Il controllore dei punti fede di Therion e' attorniato dall'armonia
+~
+Ha un che di selvaggio...
+~
+~
+~
+~
+253978 0 200 -1 -1 -1 -1 -1 E
+89 -30 10 1d1+29999 30d100+0
+61 0
+8 8 0
+Str: 25
+Dex: 25
+E
+T 2015
+T 2014
+T 2020
+T 2027
+#2046
+burattinotherion~
+burattinotherion~
+Un burattino di pezza salta e balla qua attorno
+~
+E' molto carino, e molto utile, visto che contribuisce a conteggiare
+i punti fede di Therion
+~
+~
+~
+~
+253978 0 200 -1 -1 -1 -1 -1 E
+80 20 10 1d1+29999 30d100+0
+53 0
+8 8 0
+E
+T 2030
+#2047
+sacerdote~
+Un Sacerdote di Xhyphys~
+Hai appena interrotto un Sacerdote di Xhyphys dalle sue preghiere.
+~
+Il volto scavato e lo sguardo vuoto tradiscono la sua essenza non piu' umana.
+Probabilmente cadde in battaglia contro le forze dell'ordine e della natura,
+e dopo il trapasso venne rianimato dalla potenza di Xhyphys per i meriti
+mostrati. Da quel momento si e' dedicato al culto del Dio, insegnando a
+ciascuno a disprezzare l'iniqua disciplina e la soffocante obbedienza,
+incitandolo ad unirsi alle eterne forze del Caos.
+~
+~
+~
+~
+1073799178 100663296 -200 -1 -1 -1 -1 -1 E
+70 0 10 1d1+9999 10d10+20
+55 0
+8 8 1
+E
+T 31526
+T 2038
+T 2037
+T 2039
+#2048
+nachzehrer~
+&5Un Nachzehrer&0~
+Un immondo Nachzehrer ti guarda con occhi colmi di vuota follia...
+~
+Una delle creature di Xhyphys, generato dal Caos per portare il Caos.  Non c'e'
+la minima armonia o simmetria di forma in questa immonda creatura fatta di
+carne e sangue mischiati in forme e modi allucinanti.  Solo la tremenda potenza
+del Caos poteva generare una simile follia.    
+~
+~
+~
+~
+36030996579213338 67108928 -200 -1 -1 -1 -1 -1 E
+70 0 -10 1d1+2499 9d5+12
+53 0
+8 8 0
+BareHandAttack: 6
+Str: 20
+Dex: 21
+E
+T 2530
+T 2531
+#2049
+sacerdote ent~
+Un Sacerdote di Therion~
+Uno statuario ent prega Therion nella sua strana lingua.
+~
+A prima vista l'avresti scambiato per una quercia giovane, ma cio' che
+egli usa per piedi e i suoi lenti movimenti tradiscono la sua
+identita' di ent. Pur non vedendo chiari segni sul suo volto che
+possano farlo intuire, comprendi al volo che i rumori che senti
+attorno a te sono prodotti dalle sue preghiere; sembrerebbe quasi che
+siano i suoi arti a muoversi a seconda della voce cantilenata, e non
+la musica ad uscire modulata dal suo corpo.
+~
+~
+~
+~
+1073799178 67108928 200 -1 -1 -1 -1 -1 E
+70 0 10 1d1+9999 10d10+20
+69 0
+8 8 1
+Str: 25
+Dex: 20
+Int: 18
+Wis: 18
+Con: 18
+E
+T 31526
+T 2050
+T 2051
+T 2052
+#2050
+elementale pietra~
+&6&xUn elementale di pietra&0~
+&6&xUn ammasso di pietre animato da una strana forza incede con passo lento.&0
+~
+Ti stupisci nel notare come il suo corpo si muova benche' riesci a vedere
+chiaramente attraverso di esso tra una pietra e l'altra.
+Un'aura verde-azzurra lo circonda e sembra essere l'origine del suo potere,
+potere che Therion nella sua infinita saggezza ha deciso di mettere al
+servizio di un suo fedele.
+~
+~
+~
+~
+36030996579344410 150994944 0 -1 -1 -1 -1 -1 E
+70 0 -10 1d1+1999 8d7+12
+59 0
+8 8 0
+BareHandAttack: 9
+Str: 25
+Dex: 16
+E
+T 2530
+T 2531
+$

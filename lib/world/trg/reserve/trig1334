@@ -1,0 +1,19 @@
+trigedit 1334
+6  
+/c 
+* Lista comandi
+if %actor.name% == %proprietario%
+ wait 1
+ say Sissignore!
+ wait 1
+ fol %proprietario%
+ wait 1
+ say Ai suoi comandi, padrone!
+else
+ wait 1
+say Seguiro' solo gli ordini del mio padrone, impostore!
+end
+~
+/s
+q
+y

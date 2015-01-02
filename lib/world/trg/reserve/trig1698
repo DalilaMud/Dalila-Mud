@@ -1,0 +1,11 @@
+trigedit 1698
+6  
+/c 
+* Lista comandi
+wait 1 s
+dg_cast 'cone of cold'
+dg_cast 'chain lightning'
+~
+/s
+q
+y

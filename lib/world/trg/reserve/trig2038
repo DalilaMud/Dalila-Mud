@@ -1,0 +1,160 @@
+trigedit 2038
+6  
+/c 
+if %actor.vnum% != -1
+halt
+end
+if %actor.level% > 70
+ wait 2 s
+ emo rivolta gli occhi al cielo e gira la testa di scatto.
+ wait 1 s
+ say Xhyphys si compiace che anche gli immortali seguano la Via, ma la voce del Caos vi seguira' sempre mostrandovi la scelta corretta.
+ wait 1
+ say Non avete bisogno di qualcuno che vi consigli sulle azioni da fare.
+ halt
+end
+if %missione% == 1
+ wait 2 s
+ say Altri saggi ascoltatori di Xhyphys stanno gia' eseguendo il suo volere, per ora Lui non ha bisogno di te.
+ wait 1 s
+ say Che il Caos possa seguirti nelle tue scelte.
+ halt
+end
+if %mob% == 1
+ wait 2 s
+ say Sto attendendo che Xhyphys mi riveli la sua volonta'. Torna piu' tardi e ti sapro' dire se Egli necessita di una mano mortale.
+ wait 1 s
+ say Che il Caos possa seguirti nelle tue scelte.
+ halt
+end
+set missione 1
+global missione
+set counter 0
+global counter
+set mob 1
+global mob
+set livello %actor.level%
+global livello
+set pg %actor.name%
+global pg
+wait 2 s
+emo apre gli occhi di scatto.
+wait 1 s
+nod
+wait 1 s
+say Xhyphys e' lieto di vedere come molti contribuiscano allo sviluppo del Caos.
+wait 2 s
+eval quest %random.3%
+if %livello% < 20
+ if %quest% == 1
+  say Un uomo osa sfidare apertamente Xhyphys, offrendo il suo aiuto ai poteri della natura.
+  wait 2 s
+  say Trova rifugio all'interno stesso di un albero, nella foresta al centro della daresia. Xhyphys vuole che sia raggiunto e punito.
+  mat elandar mpurge elandar
+  mat nimrhuinxyz mload mob 5624
+  mat nimrhuinxyz mforce elandar mgoto 6155
+  mat elandar mforce elandar mload obj 2053
+  mat elandar mforce elandar get all
+  mat elandar mforce elandar hold mazza
+  mat elandar mforce elandar wear all
+ elseif %quest% == 2
+  say Una disgustosa bestia, nelle terre di Sean West, si e' appropriata di poteri che solo i figli del Caos dovrebbero avere.
+  wait 2 s
+  say Uccidila, ma fai attenzione, riesciura' ad evitare molti dei tuoi colpi.
+  mat pantera mpurge pantera
+  mat nimrhuinxyz mload mob 18408
+  mat pantera mforce pantera mgoto 18435
+  mat pantera mforce pantera get all
+  mat pantera mforce pantera mload obj 2053
+  mat pantera mforce pantera hold mazza
+  mat pantera mforce pantera wear all
+ elseif %quest% == 3
+  say Un piccolo e detestabile elfo si e' alleato con alcuni stolti orchi sciamani per dar vita alla peggiore creazione che mai abbia visto la Daresia intera.
+  wait 2 s
+  say Stanno cercando di creare degli orchi ancora piu' potenti e sempre piu' ligi al dovere! Questo scempio deve essere fermato.
+  mat mobquestxhyphys3 mpurge mobquestxhyphys3
+  mat nimrhuinxyz mload mob 6211
+  mat nimrhuinxyz mforce mobquestxhyphys3 mgoto 6214
+  mat mobquestxhyphys3 mforce mobquestxhyphys3 mload obj 2053
+  mat mobquestxhyphys3 mforce mobquestxhyphys3 hold mazza
+ end
+ halt
+elseif %livello% < 40
+ if %quest% == 1
+  say Un adorabile Caos regnava nella citta' dei ragni prima che un essere sfacciato, una Ki-Rin, cercasse di cambiare la situazione.
+  wait 2 s
+  say Osa tentare di riportare l'ordine tra le creature naturali, cosa vi puo' essere di piu' detestabile! Xhyphys vuole che tu ridimensioni questo problema...
+  mat ki-rin mpurge ki-rin
+  mat nimrhuinxyz mload mob 6315
+  mat ki-rin mforce ki-rin mgoto 6350
+  mat ki-rin mforce ki-rin get all
+  mat ki-rin mforce ki-rin mload obj 2053
+  mat ki-rin mforce ki-rin hold mazza
+ elseif %quest% == 2
+  say Dimmi, trovi che possa esistere qualcosa di piu' deprecabile che avere disposizione di grandi poteri magici e sprecarli nello studio degli elementi naturali?
+  wait 2 s
+  say Sono questi i peggiori nemici di Xhyphys, che ti chiede di rintracciare Zirax l'eremita e punirlo. Dicono che i suoi ragni amino giocare con gli zingari...
+  mat zirax mpurge zirax
+  mat nimrhuinxyz mload mob 17447
+  mat zirax mforce zirax mgoto 17474
+  mat zirax mforce zirax get all
+  mat zirax mforce zirax wear all
+  mat zirax mforce zirax mload obj 2053
+  mat zirax mforce zirax hold mazza
+ else
+  say Gli esseri umani sono cosi' stupidi! Avrebbero grandi doti di intelligenza ma riescono sempre a farsi assoggettare da uno di loro che si dice Re e benefattore...
+  wait 1 s
+  spit
+  wait 1 s
+  say Tale si dichiara quel Welmar, riporta il Caos naturale nella sua regione... togliendolo di mezzo.
+  mat welmar mpurge welmar
+  mat nimrhuinxyz mload mob 15001
+  mat welmar mforce welmar mgoto 15017
+  mat welmar mforce welmar get all
+  mat welmar mforce welmar wear all
+  mat welmar mforce welmar mload obj 2053
+  mat welmar mforce welmar hold mazza
+ end
+ halt
+else
+ if %quest% == 1
+  say Sono i draghi, i draghi! Sono loro la peggior parte del creato, il piu' grande potere della natura, l'incarnazione della rigidita' degli ordini...
+  wait 2 s
+  say Il drago dei cristalli, che soffia in caverne abitate da pipistrelli, rappresenta una minaccia per il culto di Xhyphys: Egli vuole che tu lo elimini.
+  mat mobxhyphys7 mpurge mobxhyphys7
+  mat nimrhuinxyz mload mob 16206
+  mat mobxhyphys7 mforce mobxhyphys7 mgoto 16247
+  mat mobxhyphys7 mforce mobxhyphys7 get all
+  mat mobxhyphys7 mforce mobxhyphys7 wear all
+  mat mobxhyphys7 mforce mobxhyphys7 mload obj 2053
+  mat mobxhyphys7 mforce mobxhyphys7 hold mazza
+ elseif %quest% == 2
+  say Camelot, che fantastica citta' era... fazioni distinte, guerra civile, Caos... ma si e' rovinata!
+  wait 2 s
+  say Quell'Artu' un giorno si e' dichiarato Re di ogni gente e ha iniziato a pacificare le parti, rovinando quanto Xhyphys gradiva. Uccidilo.
+  mat mobxhyphys8 mpurge mobxhyphys8
+  mat nimrhuinxyz mload mob 17304
+  mat mobxhyphys8 mforce mobxhyphys8 mgoto 17370
+  mat mobxhyphys8 mforce mobxhyphys8 get all
+  mat mobxhyphys8 mforce mobxhyphys8 mload obj 2053
+  mat mobxhyphys8 mforce mobxhyphys8 wear all
+  mat mobxhyphys8 mforce mobxhyphys8 hold mazza
+ else
+  say Il Caos e' liberta', liberta' di agire, di uccidere, di aiutare. Quando il Caos viene rinchiuso tende a morire...
+  wait 1 s
+  say ... ancor piu' se il luogo di prigionia e' il duro corpo di un drago rosso.
+  wait 2 s
+  say Con ignominia il libero spirito della rabbia e' stato rinchiuso, in un simile corpo, nei recessi delle fogne di Deira. Xhyphys vuole che tu lo liberi!
+  mat mobxhyphys9 mpurge mobxhyphys9
+  mat nimrhuinxyz mload mob 7040
+  mat mobxhyphys9 mforce mobxhyphys9 mgoto 7328
+  mat mobxhyphys9 mforce mobxhyphys9 mload obj 2053
+  mat mobxhyphys9 mforce mobxhyphys9 hold mazza
+ end
+end
+wait 1 s
+say Portami la Mazza di Xhyphys, ed Egli ti ricompensera'.
+~
+/s
+q
+y

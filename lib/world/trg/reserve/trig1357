@@ -1,0 +1,33 @@
+trigedit 1357
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %amount% >= 5000 && %dracolich% >= 1
+ say Un intenditore!
+ mload mob 1421
+ wait 1
+ pat %actor.name%
+ wait 1 s
+ say Credimi, e' un vero affare...
+ say Fai solo attenzione ai suoi... scherzi
+ wait 1 s
+ emo anticipa ogni tua parola e ti mostra l'enorme drago non morto.
+ eval dracolich %dracolich% - 1
+ global dracolich
+else
+ say Un mezzo sicuro per le traversate nel deserto...
+ wait 1 s
+ say Non e' forse quello che tutti desiderano in questi luoghi?
+ wait 1 s
+ mload mob 1422
+ wait 1
+ pat %actor.name%
+ emo ti porge le briglia del camelide con un sorriso equivoco in faccia.
+ eval cammelli %cammelli% - 1
+ global cammelli
+end
+~
+/s
+q
+y

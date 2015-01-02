@@ -1,0 +1,29 @@
+trigedit 6697
+6  
+/c 
+if %actor.canbeseen%
+if %speech% == Curami
+if %actor.gold% >= 40
+wait 1 s
+Emote annuisce solennemente.
+wait 1 s
+Emote ti prepara un caffe' e ci spreme dentro due limoni interi.
+Emote ti passa una brodaglia, appena mandi giu un sorso...
+%force% %actor% vomita
+%force% %actor% say jjee mal di test.... BLEEAAAAAAAAAA
+%force% %actor% vomita
+%force% %actor% Emote ciondola a destra e a sinistra.
+%force% %actor% say mi sento meglio
+set %actor% Drunk == 0
+else
+say Non hai abbastanza soldi!!!
+end
+end
+else
+wait 1 s
+say io non tratto con chi non posso vedere
+end
+~
+/s
+q
+y

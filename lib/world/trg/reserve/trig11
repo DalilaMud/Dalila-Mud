@@ -1,0 +1,32 @@
+trigedit 11
+6  
+/c 
+if %allerta% == on
+if %conta% == 0
+Say &1&x Di le tue ultime preghiere! &0
+wait 1 s
+if %self.room% != %target.room%
+set allerta off
+global allerta
+halt
+else
+set allerta off
+global allerta
+unset conta
+mkill %target%
+if %self.room% != %target.room%
+halt
+else
+eval conta %conta%+1
+global conta
+end
+else
+end
+else
+halt
+end
+end
+~
+/s
+q
+y

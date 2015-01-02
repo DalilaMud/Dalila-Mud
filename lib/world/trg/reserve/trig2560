@@ -1,0 +1,41 @@
+trigedit 2560
+6  
+/c 
+* Lista comandi
+if %randello% == 1
+wait 1 s
+say Hey.. ridatemi il randello prima!
+dai %amount% coins %actor.name%
+halt
+end
+if %amount% > 100
+say Mi hai dato troppi soldi, %actor.name%
+eval diff %amount% - 100
+wait 1 s
+dai %diff% coins %actor.name%
+end
+wait 1 s
+set randello 1
+global randello
+emote emette una risata sguaiata..
+wait 2
+emote si inumidisce le labbra con la lingua
+wait 2 s
+say Bravo %actor.name%! Vediamo cosa sai fare con il randello!
+wait 2 s
+mload obj 8832
+dai randello %actor.name%
+posa randello
+wait 2 s
+emote chiude la porta in modo che tu non ti perda per il circo quando sarai bendato...
+mload obj 8833
+chiudi porta west
+lock porta west
+wait 3 s
+say indossa il randello che cominciamo il gioco!
+wait 2 s
+emote se la ride sotto i baffi...
+~
+/s
+q
+y

@@ -1,0 +1,16 @@
+trigedit 1311
+6  
+/c 
+* Lista comandi
+if %cmd% == fulmina
+%echo% &3%actor.name% si siede in meditazione.. un fulmine cade dal cielo colpendoti in pieno!&0
+elseif %cmd% == medita
+%echo% &5%actor.name% incrocia le gambe e chiude gli occhi.. le sue ferite si richiudono!&0
+elseif %cmd% == ritorno
+%echo% &7%actor.name% si trasforma in nuvola e sparisce nel vento!!&0
+else 
+end
+~
+/s
+q
+y

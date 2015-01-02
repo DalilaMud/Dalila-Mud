@@ -1,0 +1,16 @@
+trigedit 20087
+6  
+/c 
+if %actor.name% == disarm
+wait 1 s
+osend %actor.name% &WSenti la Collera degli Dei scorrerti nel sangue!&d
+oechoaround %actor.name% &W%actor.name% appare circonfuso da un'abbagliante aura bianca per alcuni istanti...&d
+halt
+else
+osend %actor.name% &WLa collera degli antichi Dei si abbatte su di te con tutta la sua furia!&d
+odamage %actor.name% 5000
+end
+~
+/s
+q
+y

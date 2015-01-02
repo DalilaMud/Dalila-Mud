@@ -1,0 +1,50 @@
+trigedit 28189
+6  
+/c 
+  if %actor.name% == %x%
+   eval cont %cont% + 1
+   if %cont% >= 30
+   set cont 0
+   %teleport% alano%s% %p1%
+   end
+   mat alano%s% %force% alano%s% %m1%
+   global cont
+   set p1 %p2%
+   set p2 %p3%
+   set p3 %p4%
+   set p4 %p5%
+   set p5 %p6%
+   set p6 %p7%
+   set p7 %p8%
+   set p8 %p9%
+   set p9 %p10%
+   set p10 %p11%
+   set p11 %p12%
+   set p12 %self.room%
+   
+   set m1 %m2%
+   set m2 %m3%
+   set m3 %m4%
+   set m4 %m5%
+   set m5 %m6%
+   set m6 %m7%
+   set m7 %m8%
+   set m8 %m9%
+   set m9 %m10%
+   set m10 %m11%
+   set m11 %m12%
+   set m12 %direx%
+   
+   set lup 1
+   while %lup% <= 12
+     global m%lup%
+     global p%lup%
+     eval lup %lup% + 1
+   done
+   
+   end
+  
+~
+/s
+q
+y

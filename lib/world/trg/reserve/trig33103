@@ -1,0 +1,49 @@
+trigedit 33103
+6  
+/c 
+if %actor.vnum% == -1
+  set target %actor.name%
+  eval num %random.6%
+  wait 5
+  wsend %target% La sabbia inizia a muoversi sempre piu' velocemente...
+  wait 2
+  wsend %target% Ti senti trascinare sempre piu' in basso dai gorghi vortiginosi !
+  wait 2
+  wsend %target% Cadi in un vortice di sabbia e vieni risucchiato !!!
+  wdamage %target% 100
+  wait 5
+  wsend %target% La caduta e' stata davvero dolorosa ! Sei FERITO ! e ti sei perso !
+  wforce %target% bar
+  if %num% == 1
+    wteleport %target% 33152
+    wecho &3&xVedi %target% scivolare dentro un vortice di sabbia e sparire nel nulla!&0
+    wforce %target% look
+  elseif %num% == 2
+    wteleport %target% 33137
+    wecho &3&xVedi %target% scivolare dentro un vortice di sabbia e sparire nel nulla!&0
+    wforce %target% look
+  elseif %num% == 3
+    wteleport %target% 33153
+    wecho &3&xVedi %target% scivolare dentro un vortice di sabbia e sparire nel nulla!&0
+    wforce %target% look
+  elseif %num% == 4
+    wteleport %target% 33158
+    wecho &3&xVedi %target% scivolare dentro un vortice di sabbia e sparire nel nulla!&0
+    wforce %target% look
+  elseif %num% == 5
+    wteleport %target% 33155
+    wecho &3&xVedi %target% scivolare dentro un vortice di sabbia e sparire nel nulla!&0
+    wforce %target% look
+  elseif %num% == 6
+    wteleport %target% 33146
+    wecho &3&xVedi %target% scivolare dentro un vortice di sabbia e sparire nel nulla!&0
+    wforce %target% look
+  else
+    wecho &3&xUno sbuffo di sabbia viene sollevato dal vento.&0 
+  end
+end
+ 
+~
+/s
+q
+y

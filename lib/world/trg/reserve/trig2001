@@ -1,0 +1,81 @@
+trigedit 2001
+6  
+/c 
+if %object.vnum% == 543
+ wait 1 s
+ emote aggrotta la fronte...
+ wait 2 s
+ say Mi spiace %actor.name%, ma questo Globo di Luce e' ormai inutilizzabile, la missione e' fallita.
+ set missione 0
+ global missione
+ halt
+end
+if %object.vnum% != 542
+ halt
+end
+ if %actor.name% != %pg%
+ wait 2 s
+ say Dama Silue affido' questa missione a %pg%, e non a voi %actor.name%
+ wait 2 s
+ say Non posso darvi alcuna ricompensa
+ set missione 0
+ global missione
+ halt
+end
+wait 2 s
+sor
+wait 1 s
+ann
+say Molto bene %pg%, vedo che la vostra Fede in Silue e' salda: avete completato la vostra missione.
+set missione 0
+global missione
+mat xxxxxx drop all
+if %actor.level% < 20
+ set livello 15
+elseif %actor.level% < 40
+ set livello 35
+else
+ set livello 55
+end
+eval moltip %random.10%
+eval divisore %random.10%
+eval premio %livello%*10
+eval premio %premio%*%moltip%
+eval premio %premio%/%divisore%
+global premio
+wait 2 s
+say Ecco la vostra ricompensa, %pg%
+wait 1 s
+if %premio% <= 400
+mload obj 544
+ give rosso %pg%
+ posa rosso
+ wait 1 s
+ inch %pg%
+ halt
+elseif %premio% <= 800
+ mload obj 545
+ give giallo %pg%
+ posa giallo
+ wait 1 s
+ inch %pg%
+ halt
+elseif %premio% <= 950
+ mload obj 546
+ give blu %pg%
+ posa blu
+ wait 1 s
+ inch %pg%
+ halt
+else
+ mload obj 547
+ give bianco %pg%
+ posa bianco
+ wait 1 s
+ inch %pg%
+ halt
+end
+~
+/s
+q
+y

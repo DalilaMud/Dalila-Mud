@@ -1,0 +1,16 @@
+trigedit 1351
+6  
+/c 
+* Lista comandi
+%send% %actor% &1..Decidi di liberare i tuoi prigionieri..&0
+%echoaround% %actor% &1%actor.name% sogghigna ed esegue un cerchio con le mani... prima di sparire.&0
+wteleport %actor% 1381
+wait 2 s
+%echo% &7Tutto inizia a girare vorticosamente...&0
+wait 2 s
+%echo% &7L'incubo si spegne improvvisamente, ti ritrovi all'esterno del tempio col fiatone.&0
+wteleport all 1579484
+~
+/s
+q
+y

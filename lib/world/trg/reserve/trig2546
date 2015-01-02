@@ -1,0 +1,27 @@
+trigedit 2546
+6  
+/c 
+* Lista comandi
+if %cmd% == s
+%force% %actor.name% south
+end
+if %actor.room% != 1501573
+wait 2
+osend %actor.name% cominci a scavare una buca...
+oechoaround %actor.name% %actor.name% inizia a scavare come un pazzo..
+wait 5 s
+osend %actor.name% Ehi.. ma qui non c'e' niente!
+oechoaround %actor.name% %actor.name% pare essersi stufato di scavare qui...
+else
+wait 2
+osend %actor.name% cominci a scavare una buca...
+oechoaround %actor.name% %actor.name% inizia a scavare come un pazzo..
+wait 5 s
+osend %actor.name% Hai trovato qualcosa! Pare l'ingresso ad una specie di grotta sotterranea!
+oechoaround %actor.name% Ha trovato qualcosa!
+%door% 1501573 down room 1718
+end
+~
+/s
+q
+y

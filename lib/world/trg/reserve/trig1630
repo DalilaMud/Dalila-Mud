@@ -1,0 +1,27 @@
+trigedit 1630
+6  
+/c 
+* Lista comandi
+   
+halt
+   if %fatica% == null
+     set fatica 1
+     global fatica
+   elseif %fatica% == 30
+     say ALT! Sono esausto, devo riposarmi.
+   * mat 6619 follow gwenad
+     siedi
+     wait 20 s
+   * follow offar
+   * set riposo 10
+   * global riposo
+     stand
+     unset fatica
+   else
+     eval fatica %fatica% + 1
+     global fatica
+   end
+~
+/s
+q
+y

@@ -1,0 +1,65 @@
+trigedit 12570
+6  
+/c 
+if %self.gold% < 1000
+mload obj 12579
+mat 3002 drop soldi
+mat 3002 get soldi
+end
+if %azione% == start
+mgoto %stanza%
+unset negozi
+set cambio null
+unset cambio
+wait 3
+say lista locazioni
+end
+if %azione% == go
+if %going% <= %negozi%
+if %going% == 1
+mgoto %1%
+elseif %going% == 2
+mgoto %2%
+elseif %going% == 3
+mgoto %3%
+elseif %going% == 4
+mgoto %4%
+elseif %going% == 5
+mgoto %5%
+elseif %going% == 6
+mgoto %6%
+elseif %going% == 7
+mgoto %7%
+elseif %going% == 8
+mgoto %8%
+elseif %going% == 9
+mgoto %9%
+elseif %going% == 10
+mgoto %10%
+end
+wait 2
+say buongiorno
+end
+end
+if %azione% == go
+if %going% > %negozi%
+mgoto %stanza%
+wait 2
+say cambia prezzi
+end
+end
+if %azione% == locazione
+eval timer %timer% + 1
+global timer
+if %timer% >= 200
+unset timer
+set cambio null
+unset cambio
+unset negozi
+say lista locazioni
+end
+end
+~
+/s
+q
+y

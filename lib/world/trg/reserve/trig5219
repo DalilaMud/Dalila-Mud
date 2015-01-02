@@ -1,0 +1,20 @@
+trigedit 5219
+6  
+/c 
+%echo% Non appena &W%actor.name% indossa l'anello questo comincia a pulsare e vibrare&0
+wait 4s
+%echo% &BLe pulsazioni dell'anello si fanno sempre piu' forti&0
+wait 4s
+%echo% &ZOra le vibrazioni si trasmettono ad %actor.name% che trema visibilmente&0
+wait 4s
+%echo% &VUn immensa energia si accumula nel corpo di %actor.name%!&0
+wait 4s
+%echo% &RSta per accadere qualcosa!&0
+wait 2s
+%force% %actor% scorreggia
+wait 1s
+%force% %actor% say Aaaaahhhh...
+~
+/s
+q
+y

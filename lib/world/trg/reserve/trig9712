@@ -1,0 +1,28 @@
+trigedit 9712
+6  
+/c 
+      rem anello
+if %speech% == Padrone
+   if %mob_lock% == on
+      if %actor.name% == %Padrone%
+        wait 1 s
+        Say &3&x Si %Padrone% sono ai vostri ordini &0
+        follow %Padrone%
+wear anello
+         else
+  end
+   else
+   set Padrone %actor.name%
+   set mob_lock on
+   global Padrone
+   global mob_lock
+follow %Padrone%
+   mload obj 9800
+   wear anello
+   end
+else
+end
+~
+/s
+q
+y

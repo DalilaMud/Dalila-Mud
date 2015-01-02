@@ -1,0 +1,31 @@
+trigedit 2057
+6  
+/c 
+set valido 0if %actor.name% == mcfly || %actor.name% == cabal || %actor.name% == knives || %actor.name% == tetsuo
+set valido 1
+end
+if %actor.name% == elrik || %actor.name% == crystin || %actor.name% == nion || %actor.name% == darkshade
+set valido 1
+end
+if %valido% == 1
+if %speech% == altare di shaarr
+wait 1 s
+eval cap4 %cap%/4
+eval cap2 %cap%/2
+eval cap3 %cap%*3
+eval cap5 %cap3%/4
+if %puntifede% <= %cap4%
+msend %actor.name% &1&xDall'altare di Shaarr sgorga solo un piccolo rigagnolo di sangue...&0
+elseif %puntifede% <= %cap2%
+msend %actor.name% &1&xDall'altare si Shaarr sgorga un intenso fiotto di sangue...&0
+elseif %puntifede% <= %cap5%
+msend %actor.name% &1&xDall'altare di Shaarr fluisce un possente getto di sangue...&0
+else
+msend %actor.name% &1&xUna maestosa fontana di sangue prorompe dall'altare di Shaarr&0
+end
+end
+end
+~
+/s
+q
+y

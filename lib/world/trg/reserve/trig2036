@@ -1,0 +1,22 @@
+trigedit 2036
+6  
+/c 
+if %aperta% == 0
+if %speech% == clatu veratu niktu
+set aperta 1
+global aperta
+wait 1 s
+wecho &5Una botola magicamente si delinea dove prima c'era solo il pavimento...&0
+%door% 1233 down room 1234
+end
+else
+wait 1 s
+wecho &5Al suono delle parole la botola scompare dalla vista&0
+%door% 1233 down purge
+set aperta 0
+global aperta
+end
+~
+/s
+q
+y

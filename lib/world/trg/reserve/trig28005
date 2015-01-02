@@ -1,0 +1,41 @@
+trigedit 28005
+6  
+/c 
+wait 1
+if %speech% == lista
+say Ecco la disponibilita' :
+say Lamorketto, un rosso appena dolce ottimo con la carne.
+say Argentario, rosato da abbinare con qualsiasi portata.
+say Fruttato,   dolcissimo con frutta tritata.
+say Portello,   l'eccezionale bianco di mia produzione.
+say Amaro,      un eccellente digestivo.
+say Drago,      una birra speciale di sei malti selezionati.
+elseif %speech% == lamorketto
+mload obj 28013
+give lamorketto %actor.name%
+curt
+elseif %speech% == argentario
+mload obj 28010
+give argentario %actor.name%
+curt
+elseif %speech% == fruttato
+mload obj 28011
+give frutatto %actor.name%
+curt
+elseif %speech% == portello
+mload obj 28012
+give portello %actor.name%
+curt
+elseif %speech% == amaro
+mload obj 28014
+give amaro %actor.name%
+curt
+elseif %speech% == drago
+mload obj 28010
+give drago %actor.name%
+curt
+end
+~
+/s
+q
+y

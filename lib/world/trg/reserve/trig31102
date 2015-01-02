@@ -1,0 +1,22 @@
+trigedit 31102
+6  
+/c 
+wait 2 s
+set punto %random.6%
+if %punto% == 1
+oecho &5Lo stiletto Renaji dice, 'MmmH.. Stringimi tra le tue mani..'&0
+elseif %punto% == 2 
+oecho &5Lo stiletto Renaji dice, 'Ahah.. Ora lasciate che io danzi nelle carni!'&0
+elseif %punto% == 3
+oecho &5Lo stiletto Renaji dice, '..Salve, o mio padrone.. he..he..'&0
+elseif %punto% == 4
+oecho &5Lo stiletto Renaji dice, '..Non lasciarmi mai piu..'&0
+elseif %punto% == 5
+oecho &5Lo stiletto Renaji dice, 'Sono tuo.. ti condurro' alla vittoria...'&0
+elseif %punto% == 6
+oecho Lo stiletto Renaji vibra e pronuncia le parole, '&5judicandant whiede&0'
+end
+~
+/s
+q
+y

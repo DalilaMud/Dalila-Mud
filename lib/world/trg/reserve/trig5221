@@ -1,0 +1,12 @@
+trigedit 5221
+6  
+/c 
+if %actor.name% == Malus
+%echo% la verga infernale vibra ed emette scintille infuocate
+wait 3s
+%load% mob 5295
+end
+~
+/s
+q
+y

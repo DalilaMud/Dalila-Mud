@@ -1,0 +1,111 @@
+trigedit 2581
+6  
+/c 
+* Lista comandi
+if %gioco% == 1
+halt
+end
+set brz 1
+global brz
+emote strabuzza gli occhi
+wait 2 s
+say Ora vi racconto una storiella!
+wait 2 s
+rida
+wait 2 s
+eval barz %random.10%
+switch %barz%
+case 1
+say Due Genidian con una pancia enorme arrivano innanzi al loro Precettore di Gilda.
+wait 3 s
+say Cosa vi e' successo, domanda il Precettore?
+wait 3 s
+emote strabuzza gli occhi
+wait 2 s
+say Maestro, e' stato lei la scorsa settimana a dirci di smetterla di fare gli stronzi!
+break
+case 2
+say Knives e' rimasto a corto di soldi, decide allora di rapire il figlioletto di Slayer.
+wait 2 s
+say Va a Lamorka, rapisce il bimbo e gli dice: -Ti ho rapito, ora farai quello che ti ordino!-
+wait 3 s
+say Il bambino annuisce timidamente, allora Knives prende un foglio e scrive:
+wait 2 s
+say HO RAPITO TUO FIGLIO. SE LO VUOI RIVEDERE TUTTO INTERO, LASCIA UNA SACCO CON DENTRO 10 MILIONI DI MONETE ALLA QUERCIA DEI PELOI ENTRO LE TRE DI DOMANI
+wait 3 s 
+say Poi attacca il foglietto alla maglia del bambino e lo manda a casa dicendo di consegnare il foglio al padre.
+wait 3 s
+say Il giorno seguente, alle tre del pomeriggio, Knives va sotto la quercia e ci trova una busta. La apre trepidante: ci sono dentro 10 milioni di monete d'oro ed un biglietto che recita:
+wait 2 s
+say - Come hai potuto fare una cosa tanto orribile ad un tuo collega Alcione?
+break
+case 3
+say Ieri ho conosciuto una ragazza... di faccia non e' un granche', ma di corpo.. ci va spesso!
+break
+case 4
+say ci sono due isole, una fatta solo di pietre in cui vive un uomo ed una fatta solo di noci di cocco in cui vive un gorilla...
+wait 2 s
+say Dopo un po' di tempo l'uomo pensa: se ora lancio una pietra al gorilla, lui poi mi lancera' una noce di cocco...
+wait 2 s
+say Decide quindi di lanciarla, la lancia e... uccide il gorilla!
+break
+case 5
+say Due Aldars sperduti nel grande deserto di polvere:
+wait 2 s
+say uno dice all'altro: - Devo darti due notizie, una bella e l'altra brutta! La brutta e' che anche oggi mangiamo sabbia!
+wait 2 s
+say l'altro, scoraggiato, dice: - E la bella?
+wait 2 s
+say - Guarda quanta ce n'e'!!!
+break
+case 6
+wait 2 s
+say Una bambina purtroppo priva di una gamba va dalla mamma:
+wait 2 s
+say -Mammina, mammina... per il prossimo Carnevale me lo cuci un bel vestito da Fatina Azzurra?
+wait 2 s
+say -Certo tesoro- fa la mamma - Ma perche' quello da ghiacciolo ti ha gia' stancata???
+break
+case 7
+say Cabal va a trovare Knives nella prigione di Lamorka
+wait 2 s
+say - Allora hai avuto problemi con la lima che avevo messo nella torta?
+wait 2 s
+say - Si... mi operano domani...
+break
+case 8
+say "Non e' questo il verso", come disse quello che s'impicco' per i piedi.
+break
+case 9
+say Talos e Sarbyn sono soli soletti al parco, sentendosi alquanto arzilli si propongono una sfida:
+wait 2 s
+say - Senti... facciamo a chi piscia piu' lontano?
+wait 2 s
+say - Vai!- Incominciano a cercarseli e partono ad urinare, poco dopo:
+wait 2 s
+say - Io mi sono pisciato sui piedi...
+wait 2 s
+say - Hai vinto...
+break
+case 10
+say Il vecchio mago Spini si sposa una giovincella diciottenne. La prima notte di nozze si spogliano entrambi ed il vecchio tira su tre dita...
+wait 2 s
+say La giovante tutta contenta:
+wait 2 s
+say - Oh mio caro, vuol dire che lo faremo tre volte stanotte?
+wait 2 s
+say - No, vuol dire che puoi scegliere il dito!
+break
+default
+break
+done
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+ridi
+set brz 0
+global brz
+~
+/s
+q
+y

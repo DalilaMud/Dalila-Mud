@@ -1,0 +1,27 @@
+trigedit 2539
+6  
+/c 
+* Lista comandi
+set valido 0
+if %actor.name% == sagat || %actor.name% == sheep
+set valido 1
+end
+if %valido% == 1
+if %speech% == distruzione di Xhyphys
+wait 1 s
+if %puntifede% < 3000
+mecho &5L'altare resta silente...&0
+halt
+end
+mecho &5L'altare all'improvviso vomita miliardi di insetti...&0
+mload obj 578
+posa statuetta
+eval puntifede %puntifede%-3000
+global puntifede
+mat cptifedexhyphys say distruggi 60
+end
+end
+~
+/s
+q
+y

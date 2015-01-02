@@ -1,0 +1,556 @@
+#16000
+fornaio astrel~
+Astrel~
+Astrel, il vecchio fornaio di Astrakan, e' qui pronto a servirti.
+~
+L'uomo ha un bell'aspetto nonostante il fatto che sia anziano, ha barba
+non molto lunga e completamente bianca come i capelli, la farina gli
+ricopre le mani e parte del viso.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+36 9 -2 1d1+550 2d12+4
+19 20
+8 8 1
+E
+#16001
+fruttivendola jessica~
+Jessica~
+Jessica la fruttivendola di Astrakan e' qui.
+~
+Una delle piu' belle ragazze di tutto il regno, occhi grandi e verdi,
+capelli lunghi e neri, non molto alta ma dai lineamenti molto graziosi;
+molti dei viandanti la vorrebero portar via con loro ma lei e' follemente
+innamorata di una delle guardie reali e molto presto si sposeranno.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+30 5 0 1d1+500 1d6+2
+22 20
+6 6 2
+E
+#16002
+venditore velandro~
+Velandro~
+Velandro il venditore ti sorride!!
+~
+Velandro e' un ragazzo che ha sempre avuto la passione per le cose rare e
+strane, forse perche' sin da piccolo il padre lo ha abituato a scorgere nelle
+cose piu' banali i piccoli particolari che le rendono tali.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+30 10 0 1d1+450 1d7+3
+26 20
+8 8 1
+E
+#16003
+Morkans~
+Morkans~
+Morkans l'addetto all'addestramento delle guardie e' qui.
+~
+Entrato nella leggenda del regno per la sua abilita' nel combattere  non e'
+da sottovalutare, anche per la sua imponente stazza!!!
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+20 10 4 0d0+260 2d7+4
+17 20
+8 8 1
+E
+#16004
+sovrano krondal~
+Re Krondal~
+Krondal il sovrano di Astrakan controlla la situazione.
+~
+Krondal e' ormai da molti anni il re di Astrakan, da quando e' salito al trono
+il regno si e' molto ingrandito grazie alla sua notevole abilita' sia di
+guerriero che di stratega.
+~
+~
+~
+~
+72 128 500 -1 -1 -1 -1 -1 E
+28 10 -1 0d0+300 3d7+6
+28 20
+8 8 1
+E
+#16005
+regina armiria~
+La Regina Armiria~
+Armiria la regina e' qui.
+~
+Armiria e' la consorte di Krondal, molto piu' giovane di lui, vive da qualche
+anno qui al castello; prima di diventare Regina era la Principessa di Strancel,
+uno dei regni adiacenti ad Astrakan poi conquistato dal re e sottomesso.
+~
+~
+~
+~
+26 1024 600 -1 -1 -1 -1 -1 E
+20 12 3 0d0+250 2d8+3
+15 20
+8 8 2
+E
+#16006
+guardiano~
+Il guardiano~
+Un guardiano e' qui appostato.
+~
+Il guardiano del portone principale del castello.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+11 12 4 0d0+120 1d10+2
+10 20
+8 8 1
+E
+#16007
+stalliere giovane~
+Lo stalliere giovane~
+Uno stalliere e' qui che sella un cavallo.
+~
+Il ragazzo che accudisce i cavalli dei molti viaggiatori che approdano al
+castello di Astrakan.
+~
+~
+~
+~
+26 1024 300 -1 -1 -1 -1 -1 E
+10 14 5 0d0+100 1d8+3
+8 20
+8 8 1
+E
+#16008
+stalliere ostrail ~
+Ostrail lo stalliere~
+Ostrail, lo stalliere privato del re.
+~
+Lo stalliere privato del re; e' addetto inoltre ai cavalli delle guardie ed
+a quelli della carrozza reale.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+17 13 4 0d0+205 2d6+4
+9 20
+8 8 1
+E
+#16009
+custode~
+Il custode~
+Il custode delle carceri e' qui seduto.
+~
+Il custode del carcere di Astrakan e' qui di guardia alle celle.
+        
+~
+~
+~
+~
+26 1024 670 -1 -1 -1 -1 -1 E
+11 14 6 0d0+110 1d8+2
+8 20
+6 6 1
+E
+#16010
+ubriaco~
+Un ubriaco~
+Un ubriaco e' qui che dorme.
+~
+La puzza d'alcool che emana e' micidiale, non riesci a resistere.
+~
+~
+~
+~
+26 0 0 -1 -1 -1 -1 -1 E
+7 16 6 0d0+60 1d7+2
+4 20
+4 4 1
+E
+#16011
+comune ladro~
+Un comune ladro~
+Un comune ladro e' qui.
+~
+Un ladruncolo di citta', tentava di borseggiare un passante in piazza,
+colto sul fatto dalle guardie.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+10 14 5 0d0+110 2d4+3
+10 20
+8 8 1
+E
+#16012
+guardia~
+Una guardia di Astrakan~
+Una guardia di Astrakan e' qui vigile e attenta.
+~
+E' enorme meglio girarci alla larga!!!
+~
+~
+~
+~
+26 1024 -300 -1 -1 -1 -1 -1 E
+18 13 4 0d0+230 2d7+3
+16 20
+8 8 1
+E
+#16013
+uomo tesoriere~
+Il tesoriere~
+Un uomo e' qui che controlla il tesoro.
+~
+Il tesoriere del castello, un compito molto difficile il suo provvedere al
+controllo dei tesori accumulati negli anni giorno e notte.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+18 13 4 0d0+230 2d7+3
+18 20
+8 8 1
+E
+#16014
+duellante~
+Un duellante~
+Un duellante e' qui che sta combattendo.
+~
+Sta fronteggiando il nemico con coraggio e soprattutto con lealta', come detta
+la legge dei duelli.
+~
+~
+~
+~
+58 1024 0 -1 -1 -1 -1 -1 E
+7 14 4 0d0+80 1d8+2
+5 20
+8 8 1
+E
+#16015
+capo kefren~
+Kefren~
+Kefren il capo delle guardie ti scruta con severita'.
+~
+E' possente, la sua armatura lo rende un po' impacciato nei movimenti, ma
+trovarci un punto debole e' molto difficile.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+26 10 2 0d0+440 2d7+7
+23 20
+8 8 1
+E
+#16016
+damigella marianna~
+Marianna damigella~
+Marianna la damigella della regina e' qui che ti guarda.
+~
+Colei che si occupa di tutto cio' che riguarda la regina, proviene da Strancel
+come la sovrana e accudisce Armiria sin da quando era piccola.
+~
+~
+~
+~
+26 1024 1000 -1 -1 -1 -1 -1 E
+7 16 3 0d0+60 1d6+2
+5 20
+8 8 2
+E
+#16017
+ospite~
+Un ospite~
+Un ospite del re.
+~
+Uno dei vari viaggiatori che si trovano a trascorrere come ospiti qualche
+giorno al castello.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+8 14 4 0d0+100 1d8+3
+5 20
+8 8 0
+E
+#16018
+viandante~
+Un viandante~
+Un viandante e' qui di passaggio.
+~
+Uno dei tanti viaggiatori che passano per il castello.
+~
+~
+~
+~
+58 1024 0 -1 -1 -1 -1 -1 E
+14 14 5 0d0+145 2d5+3
+9 20
+8 8 0
+E
+#16019
+cieco~
+Un ospite cieco~
+Un ospite cieco e' qui che dorme.
+~
+Un ospite, non vedente dalla nascita, e' ormai da molto tempo al castello.
+Il re impietosito per il suo stato, lo ha accolto molto generosamente
+mettendogli a disposizione una camera.
+~
+~
+~
+~
+26 1 1000 -1 -1 -1 -1 -1 E
+5 18 5 0d0+60 1d4+2
+4 20
+4 4 1
+E
+#16020
+guardia~
+Una guardia del trono~
+Una guardia e' qui davanti alla colonna.
+~
+E' enorme meglio girarci alla larga!!!
+~
+~
+~
+~
+58 1032 -200 -1 -1 -1 -1 -1 E
+16 13 4 0d0+180 2d6+2
+14 20
+8 8 1
+E
+#16021
+guardia torre~
+Una guardia della torre~
+La guardia allo stendardo della torre e' qui.
+~
+E' enorme meglio girarci alla larga!!!
+E' qui che protegge lo stendardo simbolo di Astrakan!!!
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+24 11 2 0d0+390 2d10+5
+18 20
+8 8 1
+E
+#16022
+tesoro guardia~
+Una guardia del tesoro~
+La guardia del tesoro e' qui.
+~
+E' enorme meglio girarci alla larga!!!
+Insieme al capo delle guardie protegge i tesori del castello.
+~
+~
+~
+~
+58 1024 0 -1 -1 -1 -1 -1 E
+15 14 5 0d0+170 1d10+2
+8 20
+8 8 1
+E
+#16023
+cameriera~
+Una cameriera~
+Una cameriera sbriga le pulizie di castello.
+~
+Una delle cameriere. Al castello ce ne devono essere molte,
+e' sempre tutto in ordine e pulito.
+~
+~
+~
+~
+72 1024 700 -1 -1 -1 -1 -1 E
+9 15 5 0d0+90 1d8+3
+5 20
+8 8 2
+E
+#16024
+maggiordomo jertel~
+Jertel il maggiordomo~
+Jertel il maggiordomo e' qui.
+~
+Il maggiordomo del castello sono anni che raccoglie tutto cio' che trova
+in giro dimenticato dai vari viandanti, potrebbe fare concorrenza a Velandro,
+solo che custodisce tutto con cura nella sua camera nel caso qualcuno degli
+smemorati ritornasse a chiederla!!!
+~
+~
+~
+~
+30 1032 -300 -1 -1 -1 -1 -1 E
+22 12 3 0d0+300 2d8+3
+17 20
+8 8 1
+E
+#16025
+mago~
+Harquilat il mago~
+Harquilat il mago sta preparando una strana pozione.
+~
+Piu' che un mago sembra uno gnomo, e' proprio piccolo!!!
+~
+~
+~
+~
+26 134218792 0 -1 -1 -1 -1 -1 E
+19 13 4 0d0+250 2d6+2
+18 20
+8 8 1
+E
+#16026
+cuoco swild~
+Swild il cuoco~
+Swild il cuoco e' qui che prepara da mangiare.
+~
+Il cuoco di corte, e' lui che prepara tutti i pasti del re e dei suoi ospiti.
+~
+~
+~
+~
+58 1024 0 -1 -1 -1 -1 -1 E
+13 13 4 0d0+135 1d10+3
+9 20
+8 8 1
+E
+#16027
+torturatore~
+Il torturatore~
+Il torturatore e' qui che martiria un detenuto.
+~
+Un uomo molto grosso e sadico, sembra che si diverta a torturare i detenuti.
+~
+~
+~
+~
+26 1024 -1000 -1 -1 -1 -1 -1 E
+30 9 0 0d0+500 3d7+6
+22 20
+8 8 1
+E
+#16028
+paggio~
+Un paggio~
+Il paggio di corte e' qui.
+~
+Uno dei tanti personaggi che si trovano nel castello.
+~
+~
+~
+~
+26 1024 0 -1 -1 -1 -1 -1 E
+11 15 4 0d0+120 1d7+2
+7 20
+8 8 1
+E
+#16029
+giullare~
+Un giullare~
+Il giullare e' qui che diverte i passanti.
+~
+Il giullare attira la sua attenzione con il suo solito fare, canta, balla,
+si trasforma in vari personaggi, la gente e' tutt'intorno a lui.
+~
+~
+~
+~
+120 1024 0 -1 -1 -1 -1 -1 E
+9 15 6 0d0+100 1d8+2
+5 20
+8 8 1
+E
+#16030
+contadino~
+Un contadino~
+Un contadino e' qui.
+~
+Un contadino che vive qui nel feudo adiacente al castello.
+~
+~
+~
+~
+58 1024 0 -1 -1 -1 -1 -1 E
+10 15 5 0d0+100 1d7+2
+9 20
+8 8 1
+E
+#16031
+contadina~
+Una contadina~
+Una contadina e' qui.
+~
+Una contadina che vive qui nel feudo adiacente al castello.
+~
+~
+~
+~
+26 1024 1000 -1 -1 -1 -1 -1 E
+6 16 6 0d0+70 1d7+2
+4 20
+8 8 2
+E
+#16032
+pastore~
+Un pastore~
+Un pastore cammina qui col suo gregge.
+~
+Un pastore sta facendo pascolare il suo gregge.
+~
+~
+~
+~
+26 1280 0 -1 -1 -1 -1 -1 E
+12 14 3 0d0+115 1d8+3
+11 20
+8 8 1
+E
+#16033
+pecora~
+Una pecora~
+Una pecora mangia l'erba.
+~
+Una comunissima pecora.
+~
+~
+~
+~
+343597383690 256 0 -1 -1 -1 -1 -1 E
+4 18 9 0d0+40 1d4+1
+4 20
+8 8 0
+E
+#16034
+capretta~
+Capra~
+Una capretta cammina qui.
+~
+Una capra di piccole dimensioni segue il pastore.
+~
+~
+~
+~
+72 256 0 -1 -1 -1 -1 -1 E
+5 17 9 0d0+40 1d4+1
+3 20
+8 8 0
+E
+$

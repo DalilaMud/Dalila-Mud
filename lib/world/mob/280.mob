@@ -1,0 +1,1271 @@
+#28000
+prigioniero~
+un prigioniero~
+Un prigioniero e' qui a marcire.
+~
+   Quest'uomo e' qui da parecchio tempo.  Capelli e barba lunghi nascondono il
+viso scarno e gli occhi diabolici.  Sicuramente deve aver commesso un grave
+delitto per rimanere qui senza mai essere condannato a morte.    
+~
+~
+~
+~
+16398 0 0 -1 -1 -1 -1 -1 E
+35 12 10 1d1+0 1d1+0
+27 0
+8 8 1
+E
+#28001
+giardiniere~
+un giardiniere~
+Un giardiniere e' qui che sistema le siepi con grande cura.
+~
+Un uomo grassottello sulla quarantina con un forbicione in mano.
+~
+~
+~
+~
+24590 0 0 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+400 1d1+10
+24 0
+8 8 1
+E
+T 28000
+#28002
+drappello~
+un drappello di guardie~
+Un drappello di guardie ispeziona la zona.
+~
+Sono grossi!!
+~
+~
+~
+~
+9731026958 1032 0 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+10000 10d10+20
+39 0
+8 8 1
+E
+T 28001
+#28003
+sentinella castello winckel6~
+una sentinella~
+Una sentinella sta facendo la guardia qui.
+~
+E' un veterano di guerra!!
+~
+~
+~
+~
+1141104650 1064 0 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+3000 10d10+20
+64 0
+8 8 1
+E
+T 6719
+T 28008
+T 28010
+#28004
+cameriere servitore~
+un cameriere~
+&6Un cameriere&0 e' qui per servirti.
+~
+   E' uno dei tanti servitore che ha trovato lavoro nel castello di re Otak.  
+In questo momento sta trasportando un'enorme portata su di un enorme vassoio,
+mantenendo a malapena l'equilibrio sotto il peso del vassoio.  Indossa un
+elegante ma pratico corsetto azzurro cielo, su cui raffigurato il simbolo del
+regno di Sendaria, un temibile orso rampante. 
+~
+~
+~
+~
+9730785290 1032 500 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+50 10d10+20
+44 0
+8 8 1
+E
+T 28003
+#28005
+gran maestro vini~
+il Gran Maestro dei Vini~
+Il &x&2Gran&0 &x&4Maestro&0 dei &x&1Vini&0 e' qui per servirLa.
+~
+   Quest'uomo discenda da una dinastia di grandi produttori di vini del
+Sud-Est, dove le viti crescono abbondanti e l'uva e' deliziosa.  Se vuoi
+assaggiare un gran vino fidati di questo grande esperto.    
+~
+~
+~
+~
+1073750026 1064 0 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+10000 10d10+20
+31 0
+8 8 1
+E
+T 20150
+#28006
+danzatrice nuda~
+una danzatrice~
+&8Una danzatrice&0 e' qui che balla.
+~
+   E' una stupenda ragazza, una fra le pi belle che tu abbia mai visto.  Ha i
+capelli neri e lunghi fino a met la schiena che le incorniciano perfettamente
+il volto abbronzato, nel quale spuntano due stupendi occhi verdi.  E' quasi
+completamente nuda e ben poco lasciato all'immaginazione.    
+~
+~
+~
+~
+1073750026 0 1000 -1 -1 -1 -1 -1 E
+40 0 -10 1d1+5000 10d10+20
+22 0
+8 8 2
+E
+#28007
+buffone rokej~
+il &x&1B&x&2u&x&3F&x&4f&x&5O&x&6n&9E&0~
+Rokej il buffone di corte si sta rincorrendo (??).
+~
+   Alto poco piu' di un metro e mezzo, col volto liscio, questo simpatico
+esserino e' il buffone che allieta le serate di corte.  Vestito di un lungo
+abito di mille colori sgarcianti e con un cappello a tre punte come si addice
+ad un pagliaccio del circo, Rokej e' un abile cantastorie e un formidabile
+acrobata.    
+~
+~
+~
+~
+1073741834 1032 0 -1 -1 -1 -1 -1 E
+80 0 -10 1d1+5000 10d10+20
+64 0
+8 8 1
+Spec: 24
+E
+T 28004
+#28008
+ronda interna~
+una ronda~
+Una ronda controlla ogni angolo del castello.
+~
+   Vestiti in uniforme d'ordinanza, un folto gruppo di soldati fidati percorre
+in lungo e largo il castello perlustrando ogni angolo e indagando su ogni cosa
+sospetta.    
+~
+~
+~
+~
+9731041294 1064 0 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+10000 11d11+25
+55 0
+8 8 1
+E
+T 28002
+#28009
+guardia scelta~
+una guardia scelta~
+&x&7Una guardia in alta uniforme osserva il vostro passaggio&0
+~
+   Alto e robusto, questo veterano e' coperto interamente di acciaio.  Dall'
+elmo rappresentante una testa di un drago esce il suo sguardo severo.    
+~
+~
+~
+~
+1073750027 1064 0 -1 -1 -1 -1 6 E
+70 -10 -10 1d1+30000 20d20+30
+50 0
+8 8 1
+Spec: 3
+E
+#28010
+caynerath vampiro~
+Caynerath~
+un uomo vestito di nero e qui che ti scruta
+~
+un uomo con il viso pallido e gli occhi profondi come la notte
+~
+~
+~
+~
+10 1099511628808 0 -1 -1 -1 -1 -1 E
+45 20 10 30d500+0 1d1+0
+29 0
+8 8 1
+E
+#28011
+Uglath vampiro~
+Uglath~
+Un uomo alto e dalla carnagione chiara e qui
+~
+Un piccolo uomo basso e dalla carnagione chiara sembra osservarti di sottecchi
+~
+~
+~
+~
+8 1099511628808 0 -1 -1 -1 -1 -1 E
+45 20 10 30d500+0 1d1+0
+30 0
+8 8 1
+E
+#28012
+cavallo nuvola~
+&6&xuno splendido cavallo fatto di nuvole&0~
+&6&xuno splendido cavallo fatto di nuvole e' qui che sembra cambiar forma ad ogni istante&0
+~
+&6&xE candido e meraviglioso, elyadar il cavallo di nuvola ti osserva come se volesse dirti qualcosa&0
+~
+~
+~
+~
+36028797564477450 2147516416 0 -1 -1 -1 50262 -1 E
+100 -30 -10 30d500+0 30d1+20
+96 0
+8 8 1
+BareHandAttack: 6
+E
+#28013
+cuoco reale~
+il cuoco reale~
+Il cuoco reale e' qui che prepara magnifici manicaretti.
+~
+E' grande e grosso e osservandolo pensi che piu' che un cuoco ti ricorda un
+guerriero ma la sua abilita' non si discute.    
+~
+~
+~
+~
+1073741834 1024 0 -1 -1 -1 -1 -1 E
+45 0 -10 1d1+3000 10d10+20
+42 0
+8 8 1
+E
+T 28013
+#28014
+guardia reale6 sendaria~
+&6una guardia reale&0~
+&3&xUna guardia Reale e' qui.&0
+~
+Indossa una raffinata armatura d'oro, il volto e' celato da un magnifico elmo adornato con piume gialle e rosse.
+~
+~
+~
+~
+1073750026 0 1000 -1 -1 -1 -1 8 E
+60 -10 -10 10d100+30000 5d100+50
+33 0
+8 8 1
+BareHandAttack: 11
+Spec: 3
+E
+T 28010
+#28015
+musico~
+&6il musico reale&0~
+Il Musico Reale e' qui a vostra disposizione.
+~
+   Aspetto raffinato e curato, pizzetto e baffi profumati sono caratteristici
+dei musici castellani ossia di quella sorta di menestrelli che girano di regno
+in regno per allietare le grandi feste di palazzo.    
+Chiedetegli di suonare qualcosa per voi.
+~
+~
+~
+~
+1073741834 1024 0 -1 -1 -1 -1 -1 E
+50 0 10 1d1+1 1d1+1
+47 0
+8 8 1
+E
+#28016
+paggio~
+un paggio~
+Un paggio e' qui per servire gli invitati.
+~
+   E' un ragazzo di giovane eta' con occhi furbi e un gran sorriso.  E'
+felicissimo di servire gli invitati ad un banchetto del Re.    
+~
+~
+~
+~
+9730785290 1032 0 -1 -1 -1 -1 -1 E
+40 0 -10 1d1+3000 10d10+20
+35 0
+8 8 1
+E
+T 28003
+#28017
+carceriere~
+il carceriere~
+Il carceriere sta meditando su nuove torture.
+~
+   Un uomo trasandato, con barba lunga e vecchi vestiti di pelle nera.  
+Passeggia nervoso su e giu' davanti alla cella in attesa che il Re condanni a
+morte il prigioniero.  Per fortuna (dei prigionieri) questo avviene raramente.
+~
+~
+~
+~
+1073741834 1032 -500 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+5000 10d10+20
+30 0
+8 8 1
+E
+#28018
+generale argayl~
+il Generale Argayl~
+Il Generale Argayl ti osserva con attenzione.
+~
+   E' il possente campione di re Otak.  La sua famiglia ai servizi della
+dinastia reale da tempo immemorabile.  E' una figura imponente, in grado di
+suscitare rispetto e timore solo con il suo aspetto.  E' anche un grande amico
+del Re e darebbe la sua vita per difenderlo.    
+~
+~
+~
+~
+1073741834 1064 600 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+10000 15d15+30
+56 0
+8 8 1
+Spec: 16
+E
+#28020
+guardia speciale~
+una guardia speciale~
+Una guardia speciale di Lamorka e' qui.
+~
+E' una guardia da grande occasioni!
+~
+~
+~
+~
+10267910158 1032 0 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+700 10d10+20
+46 0
+8 8 1
+E
+T 6720
+#28043
+connor venditore~
+Il venditore di manovali~
+Connor l'addetto al collocamento dei manovali di Lamorka e' qui.
+~
+Connor e' un uomo alto e magro dallo sguardo severo. Ha l'aria di chi
+non ama perdere tempo. Non appena ti vede ti indica il cartello
+appeso alla parete e dall'occhiata che ti lancia capisci che
+se non hai intenzione di assoldare qualcuno forse e' meglio che te ne vai.
+~
+~
+~
+~
+36028798092959770 1064 0 -1 -1 -1 -1 -1 E
+100 -10 -20 1d1+600 30d30+30
+89 0
+8 8 1
+Spec: 41
+E
+#28044
+meredith addetta~
+L'addetto alla ricerca dei manovali~
+Meredith l'addetta alle ricerche dei manovali scomparsi si trova qui.
+~
+Meredith e' una giovane donna dai capelli color del miele e dagli occhi
+nocciola. Indossa abiti comodi ed ai piedi calza morbidi stivali neri
+adatti al suo lavoro che la costringe a compiere giornalmente numerose
+miglia.
+~
+~
+~
+~
+36028798092959770 56 0 -1 -1 -1 -1 -1 E
+100 -10 -20 1d1+30000 30d30+30
+71 0
+8 8 2
+E
+#28049
+Riwan~
+libero~
+Riwan l'addetto alle informazioni e' qui.
+~
+   E' un uomo dall'aspetto piacevole anche se non molto alto.  Ha capelli scuri
+e occhi nerissimi, le sue grandi mani si aprono in segno di aiuto e di
+soccorso.  Indossa un delicato corsetto ricamato sulle tinte del verde.  
+Quest'uomo e' senza dubbio un membro della nobile Stirpe delle Guide un tempo
+temuti e rispettati ma quasi scomparsi a causa delle incessanti guerre verso il
+loro ricco e piccolo popolo.    
+~
+~
+~
+~
+1073741834 1024 0 -1 -1 -1 -1 -1 E
+30 12 0 1d1+500 4d4+8
+30 0
+8 8 1
+E
+#28050
+Adno barcaiolo~
+Adno il barcaiolo~
+Adno il barcaiolo e' qui che ripara alcuni vecchi timoni.
+~
+   Barba e capelli bianchi, occhi profondi e pelle consumata dall'aria di mare.
+Vestito di una semplice tunica sporca di grasso, con le mani legnose ma con un
+gran bel sorriso
+~
+~
+~
+~
+134217738 1032 400 -1 -1 -1 -1 -1 E
+70 0 -10 1d1+10000 4d7+20
+61 0
+8 8 1
+Spec: 0
+E
+#28051
+guardia portuale~
+una guardia portuale~
+Una guardia portuale e' qui a controllare la situazione.
+~
+   Aspetto robusto e abbronzato indicano molto probabilmente un passato da
+marinaio o scaricatore di porto.  Lo sguardo attento e minaccioso non promette
+nulla di buono.    
+~
+~
+~
+~
+10267836493 1024 0 -1 -1 -1 -1 -1 E
+50 10 0 1d1+1000 5d5+10
+35 0
+8 8 1
+Spec: 3
+E
+#28052
+quasimodo secondino~
+Quasimodo~
+Quasimodo il secondino e' qui che pulisce le manette.
+~
+   Come il fratello Osimodo, anche questo muscoloso semigigante e' pagato per
+accogliere e custodire i malfattori che ingenuamente hanno tentato di
+infrangere la legge.    
+~
+~
+~
+~
+253962 1056 0 -1 -1 -1 -1 -1 E
+50 10 0 1d1+700 4d4+10
+36 0
+8 8 1
+Spec: 37
+E
+#28053
+spazzino~
+uno spazzino~
+Uno spazzino sta ripulendo in un angolo.
+~
+   Sembra contento di rendere piu' pulito il magnifico porto.    
+~
+~
+~
+~
+1073741897 1024 0 -1 -1 -1 -1 -1 E
+10 15 3 1d1+150 3d4+3
+9 0
+8 8 1
+Spec: 11
+E
+T 28102
+#28054
+adepto~
+un adepto~
+Un adepto di qualche misteriosa setta.
+~
+   E' un adepto di qualche setta venuto qui per diffondere la sua fede
+passeggia qui attorno borbottando e cantilenando in una lingua che ti sfugge,
+chiuso nei suoi pensieri quando lo guardi un brivido ti percorre la spina
+dorsale.    
+~
+~
+~
+~
+1073750089 1032 0 -1 -1 -1 -1 -1 E
+20 12 3 1d1+300 4d5+5
+17 0
+8 8 1
+Spec: 18
+E
+#28055
+sam ragazzo pescatore~
+Sam~
+Sam il ragazzo pescatore e' qui che sistema l'esca.
+~
+   E' un ragazzino di non pi di 10 anni ma gi considerato uno dei migliori
+pescatori di Lamorka malgrado la sua giovane et prende molto sul serio le cose
+e quando pesca talmente concentrato da non badare a quello che succede attorno
+a lui.    
+~
+~
+~
+~
+1073741834 0 0 -1 -1 -1 -1 -1 E
+10 17 6 1d1+150 4d2+3
+10 0
+8 8 1
+E
+#28056
+vecchio pescatore~
+un vecchio pescatore~
+Un vecchio pescatore e' qui che gironzola.
+~
+   E' un anziano pescatore ritiratosi dall'attivit anni or sono che ora sempre
+pronto a dispensare consigli e raccomandazioni a tutti ha pochi capelli canuti
+e non pi di un paio di denti in bocca.    
+~
+~
+~
+~
+1073741896 0 100 -1 -1 -1 -1 -1 E
+10 16 6 1d1+150 3d3+4
+6 0
+8 8 1
+E
+#28057
+marinaio~
+un marinaio~
+Un vecchio marinaio e' qui che indica il cielo
+~
+Un vecchio lupo di mare, con la pelle abbronzata al sole e coperta di
+salsedine, ti osserva con sguardo saggio e indica il cielo, come se ti sfidasse
+a svelare un segreto eternamente custodito.    
+~
+~
+~
+~
+1073741834 1024 0 -1 -1 -1 -1 -1 E
+23 12 0 1d1+500 4d4+8
+15 0
+8 8 1
+E
+#28058
+giocatore~
+un giocatore~
+Un giocatore d'azzardo e' qui che guarda incuriosito.
+~
+   Quest'uomo ha fatto del rischio la sua professione passa la sua vita
+giocando nelle bische, vincendo e perdendo delle somme considerevoli ha dei
+sottili baffetti neri, che continua a lisciarsi mentre si avvicina ai tavoli da
+gioco con aria circospetta.    
+~
+~
+~
+~
+1073741896 0 0 -1 -1 -1 -1 -1 E
+30 12 0 1d1+500 4d5+8
+24 0
+8 8 1
+E
+#28059
+secondino Osimodo~
+Osimodo il secondino~
+Osimodo il secondino e' qui pronto a ricevere i criminali.
+~
+   Alto, grosso e forte, Osimodo e' secondino come lo erano suo padre e suo
+nonno....  E il nonno di suo padre prima ancora...  E il nonno di suo nonno
+prima ancora...  E....  Hai capito insomma....  E' uno tosto.    
+~
+~
+~
+~
+122891 274877907976 40 -1 -1 -1 -1 8 E
+70 0 -10 1d1+30000 10d10+20
+58 0
+8 8 1
+Spec: 37
+E
+#28060
+Hinon~
+Hinon il mancino~
+Hinon il mancino e' qui che assaggia i dadi.
+~
+Magro, piccolo e veloce. Una benda sull'occhio destro nasconde probabilmente il ricordo di una vincita non troppo lecita...
+~
+~
+~
+~
+10 1064 -400 -1 -1 -1 -1 -1 E
+60 12 0 1d1+300 5d5+8
+47 0
+8 8 1
+E
+T 28060
+#28061
+Kyla~
+Kyla~
+Kyla sta facendo roteare una pietra su un tavolo di legno.
+~
+   Gentile e dura a seconda delle situazioni, questa ragazza sa il fatto suo!!
+La stretta e corta gonna lo conferma quanto il pugnale nello stivale sinistro.
+  
+~
+~
+~
+~
+10 1064 300 -1 -1 -1 -1 -1 E
+60 12 0 1d1+400 5d5+8
+58 0
+8 8 2
+E
+T 28061
+T 28062
+#28062
+cassiere~
+un cassiere~
+Il cassiere del locale e' qui per venderti la felicita'.
+~
+Ben vestito. Molto attento ai tuoi movimenti.
+~
+~
+~
+~
+1207959562 1064 0 -1 -1 -1 -1 -1 E
+50 12 0 1d1+400 4d4+8
+39 0
+8 8 1
+Spec: 0
+E
+#28063
+zorg~
+Zorg il mazziere~
+Zorg e' qui che mescola abilmente due mazzi di carte.
+~
+Accidenti che velocita'. 
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+50 12 0 1d1+500 5d5+9
+47 0
+8 8 1
+E
+T 28064
+T 28065
+T 28066
+#28064
+Soann fortuna~
+Soann~
+La fortuna e' qui che ti aspetta a braccia aperte.
+~
+Bella e candida come un goccia di vetro....
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+50 12 0 1d1+450 5d5+8
+37 0
+8 8 2
+E
+T 28063
+#28065
+Akim~
+Akim~
+Akim l'addestratore di topi e' qui.
+~
+   Di origine sconosciuta, quest'uomo ha un fisico eccezionale probabilmente
+dovuto alle continue corse per acchiappare i suoi bizzarri allievi.    
+~
+~
+~
+~
+10 1064 0 -1 -1 -1 -1 -1 E
+60 12 0 1d1+500 5d6+9
+37 0
+8 8 1
+E
+T 28067
+T 28068
+T 28069
+#28070
+Larry oste~
+Larry~
+Larry e' qui che spolvera il bancone e serve birra.
+~
+   L'aspetto da lupo di mare spiega come mai abbia deciso di aprire il suo
+locale proprio in questo posto vicino al mare.    
+~
+~
+~
+~
+8202 1064 400 -1 -1 -1 -1 -1 E
+50 12 -5 1d1+50 6d7+9
+33 0
+8 8 1
+Spec: 0
+E
+T 28070
+#28071
+marinaio nivon~
+Nivon~
+Nivon ti osserva con i suoi occhi blu mare.
+~
+   Di media altezza ma ben piazzato, Nivon e' un ex marinaio che ha aperto un
+negozio qui al Porto.    
+~
+~
+~
+~
+1140850698 0 0 -1 -1 -1 -1 -1 E
+70 0 10 1d1+10000 1d1+20
+54 0
+8 8 1
+Spec: 0
+E
+#28074
+ragazzo locandiere~
+un ragazzo~
+Un ragazzo molto giovane e' qui in piedi dietro un banco.
+~
+Probabilmente e' il figlio di Larry.
+~
+~
+~
+~
+11 1024 0 -1 -1 -1 -1 -1 E
+10 15 5 1d1+1000 3d3+3
+8 0
+8 8 1
+Spec: 4
+E
+#28075
+la una sentinella sbronxo fiiiiiiiiiii~
+una sentinella~
+Vedi una sentinella che dorme su una vecchia botte ormai vuota.
+~
+Sta accasciato su una botte di cui si e' scolato l'intero contenuto
+trasandato e dallo sguardo vacuo, non e' certo l'immagine dell'affidabilita'
+~
+~
+~
+~
+36028797018988554 274877906984 0 -1 -1 -1 -1 -1 E
+25 10 10 1d1+740 10d10+10
+18 25
+8 8 1
+E
+T 6670
+T 6671
+T 6672
+T 6673
+T 6678
+#28076
+gatto sornione~
+un gatto~
+Un gatto e' qui che dorme sornione
+~
+It looks unfinished.
+Un grande gatto sornione
+~
+~
+~
+~
+36028797018972170 0 0 -1 -1 -1 -1 -1 E
+20 16 1 1d1+600 1d1+4
+14 0
+8 8 0
+E
+#28077
+un topo~
+Un topo~
+Un topo e' qui in cerca di cibo
+~
+E' un piccolo topolino che corre veloce per la stanza
+in cerca di cibo
+~
+~
+~
+~
+36028797018972170 0 0 -1 -1 -1 -1 -1 E
+20 16 1 1d1+600 1d1+4
+14 0
+8 8 0
+E
+T 6679
+#28079
+cadavere nano~
+il cadavere di un nano~
+Il cadavere di un nano giace ai tuoi piedi
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+0 0 0
+E
+#28081
+ariel vento~
+Ariel...il vento~
+Ariel ... il servo aereo svolazza intorno a te
+~
+   Ariel e' uno spirito di vento ... incorporeo e intangibile ... ma se
+vuole puo' causare seri problemi agli sventurati
+~
+~
+~
+~
+172042 1099511791656 0 -1 -1 -1 -1 -1 E
+40 14 10 1d1+500 4d4+7
+23 0
+8 8 0
+E
+#28090
+guardiano Jonathan~
+Jonathan il guardiano~
+Jonathan il guardiano del Faro e' seduto a fumare la sua pipa.
+~
+   Il guardiano del faro e' un ometto piccolo e rotondetto, anziano ma molto
+molto vispo ed agile.  Si dondola con pigrizia sulla sua sedia e si rigira la
+pipa fra le mani aspettando che la pignatta sul fuoco cominci a bollire.    
+Sulle gambe ha un libro di INDOVINELLI!!!
+~
+~
+~
+~
+10 1024 1000 -1 -1 -1 -1 -1 E
+30 12 -3 1d1+400 4d7+8
+22 0
+6 6 1
+E
+T 28090
+T 28091
+T 28092
+#28095
+sephiroth gatto~
+&7&xSephiroth&0, il gatto del grande &6&xCalaf&0~
+&7&xSephiroth&0, il gatto del dio &6&xCalaf&0, girella tranquillamente.
+~
+E' un gattone bianco e nero di dimensioni davvero imponenti.
+Guardandolo, capisci che i miti dei gatti del nord che trainavano i carri degli dei
+sicuramente avevano un grosso fondo di verita'!
+~
+~
+~
+~
+612489549322641496 6872032916520 0 -1 -1 -1 -1 -1 E
+91 -30 -10 1d1000+30000 15d125+50
+64 1
+8 8 1
+BareHandAttack: 8
+Spec: 16
+E
+T 3501
+#28096
+drusilla gatta~
+&7&xDrusilla&0, la gatta di &6Sephrenia&0~
+&7&xDrusilla&0, la gatta di &6Sephrenia&0, ti fissa con i suoi occhioni inquietanti
+~
+E' una gattina bianca con un musetto incredibilmente furbo!  I suoi occhi, uno
+&6&xazzurro&0 e l'altro color &3ambra&0 ti puntano in modo tale da farti sentire
+decisamente a disagio: questa creatura deve possedere dei poteri non comuni.  
+
+~
+~
+~
+~
+612489549322641496 4810448351272 0 -1 -1 -1 -1 -1 E
+90 -15 -10 1d500+1500 5d35+35
+57 1
+8 8 2
+BareHandAttack: 8
+Spec: 15
+E
+T 3501
+#28100
+topo6~
+un topo~
+Un topo
+~
+E' un comunissimo topo grigio scuro con una lunga coda color carne.
+~
+~
+~
+~
+65672 262176 10 -1 -1 -1 -1 -1 E
+1 19 10 2d6+5 2d5+1
+1 0
+8 8 1
+E
+#28101
+topo6 topolina pantegana arvicola~
+un topo grigio chiaro~
+Un topo di color grigio chiaro annusa l'aria.
+~
+E' una femmina di topo il suo mantello e' piu' chiaro di quello
+del maschio e la sua coda e' piu' corta e color rosa chiaro.
+~
+~
+~
+~
+65672 294944 100 -1 -1 -1 -1 -1 E
+1 19 10 1d6+15 1d5+2
+0 0
+8 8 2
+E
+#28102
+gatto6 selvatico~
+un coloratissimo gatto selvatico~
+Un coloratissimo gatto selvatico e' qui in cerca di cibo.
+~
+   Calde macchie color fuoco tempestano il suo scuro e folto pelo.
+Occhi color del mare fissano spettrali un punto impreciso nell'aria,
+le orecchie a dal lungo ciuffo si girano rapide in cerca di una facile preda.
+~
+~
+~
+~
+8 5152 10 -1 -1 -1 -1 -1 E
+2 14 10 15d2+30 10d2+20
+2 0
+8 8 1
+BareHandAttack: 2
+E
+T 28103
+#28104
+rog nano~
+Rog~
+Rog sta incidendo raffinati fregi su una lapide di marmo bianco.
+~
+Basso di statura ma di corporatura tozza, Rog ha una folta barba rossa.
+Veste con abiti raffinati di velluto color prugna e calza un vistoso paio di stivali
+di pelle scura. Mentre lavora sulla sua lapide fuma una pipa di legno bianca
+e canticchia un'antica canzone d'amore tipica del folclore nanesco.
+~
+~
+~
+~
+10 0 500 -1 -1 -1 -1 -1 E
+50 10 -5 1d1+1500 9d12+15
+47 0
+8 8 1
+E
+T 28104
+#28105
+gabbiano~
+un gabbiano~
+Un gabbiano e' qui.
+~
+Un disegno argentato si fonde col bianco candido delle sue piume
+un lungo becco color oro in cerca di facile cibo. 
+~
+~
+~
+~
+200 4194304 0 -1 -1 -1 -1 -1 E
+1 18 10 1d25+0 1d4+3
+1 0
+8 8 1
+BareHandAttack: 1
+E
+T 28110
+#28106
+marinaio~
+un giovane marinaio~
+Un giovane marinaio sta sistemando una rete da pesca.
+~
+Indossa solo un paio di calzoncini corti, e fa bella mostra
+dei sui muscoli. Sulla pelle arsa da sole vedi uno stupendo
+tatuaggio raffigurante un Serpente di Mare.
+~
+~
+~
+~
+1073741834 0 0 -1 -1 -1 -1 -1 E
+20 10 9 1d1+200 6d6+15
+16 0
+8 8 1
+E
+#28107
+nebbia griol~
+una nebbia oscura~
+Una gelida nebbia oscura aleggia nell'aria.
+~
+Nebbia vedi solo infinita nebbia.
+~
+~
+~
+~
+9135448074 2336462373994 0 -1 -1 -1 -1 -1 E
+100 -30 -20 0d0+30000 30d127+50
+60 0
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+T 28151
+T 28112
+#28108
+mosquito6 zanzara~
+&~
+&
+~
+E' piu' piccola di una mosca, ma come la mosca e' completamente nera.
+Ha due piccole escrescenze metalliche sulla testa, affilate e probabilmente anche velenose.
+E' conosciuta come zanzara toro proprio grazie a queste due piccole corna.
+~
+~
+~
+~
+10 2199023289448 0 -1 -1 -1 -1 -1 E
+70 19 10 1d10+30000 1d15+1
+69 0
+8 8 0
+Dex: 25
+E
+T 28181
+T 28182
+T 28183
+T 28184
+T 28185
+T 28186
+T 28187
+T 28188
+T 28189
+T 28171
+T 28169
+#28109
+alano6~
+un alano~
+Un grosso Alano e' qui.
+~
+Alto quasi un metro al garrese ha un pelliccia bianca a chiazze nere.
+Non ha un'aspetto feroce ma la sua imponente mole spaventa, sul
+fianco ha una grossa B tatuata col fuoco. 
+Indossa solo un collare di cuoio borchiato con grossi chiodi.
+~
+~
+~
+~
+17179869194 104 0 -1 -1 -1 -1 -1 E
+40 5 0 1d100+500 8d15+15
+25 0
+8 8 1
+E
+T 28170
+#28110
+alano7~
+un alano~
+Un grosso Alano e' qui.
+~
+E' una femmina di alano molto alta e slanciata, sembra un cavallo!
+Al collo porta un collare di cuoio chiodato e ha una grossa B tatuata
+col fuoco sul manto bianco pezzato di nero.
+~
+~
+~
+~
+40970 1128 0 -1 -1 -1 -1 -1 E
+50 8 -5 10d20+30000 13d10+13
+47 0
+8 8 2
+E
+#28113
+sudnif~
+Sudnif~
+Sudnif sta mescolando qualcosa in un vaso di legno.
+~
+
+   E' molto anziano e mescola con amore i suoi intrugli ghiacciati.
+Indossa una tunica dai colori vivaci, simile a quelle di solito
+usate dai maghi. Infatti sulle larghe maniche sono cucite delle
+sottili rune d'argento.
+~
+~
+~
+~
+1208150026 137438953472 0 -1 -1 -1 -1 -1 E
+60 20 10 1d1+500 1d1+0
+59 0
+8 8 1
+Spec: 0
+E
+#28115
+boorg~
+Boorg il cacciatore di taglie~
+Boorg il cacciatore di taglie e' qui. 
+~
+
+Una lunga cicatrice attraversa il suo viso. Indossa abiti di cuoio marrone 
+borchiati con placche di bronzo. 
+Sulla sua cintura sono appesi sei lunghi coltelli da lancio.
+~
+~
+~
+~
+8202 33832 0 -1 -1 -1 -1 -1 E
+60 0 10 10d150+15000 10d20+20
+58 0
+8 8 1
+E
+T 28160
+T 28161
+T 28162
+#28119
+uomo6~
+un uomo incapucciato~
+Un uomo incappucciato e' qui.
+~
+Ha un capuccio sulla testa che gli nasconde il volto e indossa un lungo mantello di lana nera.
+~
+~
+~
+~
+8334 32768 200 -1 -1 -1 -1 -1 E
+15 10 3 1d100+150 10d10+10
+10 0
+8 8 1
+E
+#28120
+joe~
+Joe occhio di pesce~
+Joe occhio di pesce ti osserva col suo sguardo vitreo.
+~
+
+   E' alto poco piu' di un metro, ma sotto l'abbondante strato di grasso
+nasconde la forte muscolatura di un vecchio lupo di mare.
+Porta una benda d'argento sull'occhio destro, mentre una grossa e sporgente
+biglia di vetro azzurro sostituisce l'occhio sinistro.
+~
+~
+~
+~
+536944650 2199090364417 -100 -1 -1 -1 -1 -1 E
+24 15 1 1d1+6000 30d30+30
+13 0
+8 8 1
+Str: 18
+StrAdd: 18
+Dex: 25
+E
+#28148
+corvo6~
+un corvo nero~
+Un corvo nero ti fissa con i suoi occhi rosso sangue
+~
+E' corvo nero le sue piume sono lucide, e i suoi occhi brillano di una spettrale luce rossa.
+~
+~
+~
+~
+253962 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+5000 1d1+0
+4 0
+8 8 0
+E
+T 28112
+#28149
+corvo7~
+un corvo nero~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+5000 1d1+0
+0 0
+8 8 0
+E
+#28150
+guerriero6~
+un guerriero di pietra~
+Un guerriero di pietra e' qui.
+~
+
+   Il volto nascosto da un capuccio, indossa una tunica di stoffa verde
+stretta alla cintola da una striscia di cuio.
+La sua pelle sembra fatta di granito.
+~
+~
+~
+~
+17180090376 16809984 -500 -1 -1 -1 -1 -1 E
+33 5 -5 6d15+3000 6d15+15
+32 0
+8 8 0
+E
+#28151
+scrill6~
+una miriade di piccoli insetti neri~
+Una squadra di piccoli e famelici &7SCRILL&0 e' qui. Attenti alle scarpe!!!
+~
+Sono migliaia e piccolissimi, sono &7SCRILL&0 i mangiatutto!!!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+1 19 -20 1d1+30 1d1+50
+0 0
+8 8 0
+E
+T 28195
+#28152
+gigante roccia~
+un gigante di roccia liquida~
+Un gigante di roccia liquida emette una luce verde accecante.
+~
+
+  Non riesci a guardarlo la sua luce e' intensa e accecante.
+~
+~
+~
+~
+537124874 2199040065664 -100 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+5000 30d100+30
+45 0
+8 8 0
+BareHandAttack: 12
+E
+T 28115
+#28198
+alga~
+una feroce alga carnivora~
+Lunghe foglie di alga nera fluttuano lentamente nell'acqua.
+~
+It looks unfinished.
+Sembra una grossa Lattuga Nera, le sue foglie carnose hanno piccole spine lungo il bordo. 
+~
+~
+~
+~
+245802 1056 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 0
+E
+#28199
+squalo~
+un feroce squalo dagli occhi di fuoco~
+Un feroce squalo dagli occhi di fuoco e' qui.
+~
+Pelle d'argento e occhi di fuoco, migliaia di denti tutti per te!!!
+~
+~
+~
+~
+42 0 0 -1 -1 -1 -1 -1 E
+25 5 8 3d50+500 10d10+15
+13 0
+8 8 0
+BareHandAttack: 10
+E
+$

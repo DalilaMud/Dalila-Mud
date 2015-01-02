@@ -1,0 +1,13 @@
+trigedit 5
+6  
+/c 
+  eval elimina %elimina%+1
+  global elimina
+  if %elimina% > 10
+    opurge self
+  end
+   
+~
+/s
+q
+y

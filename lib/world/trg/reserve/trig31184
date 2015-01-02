@@ -1,0 +1,13 @@
+trigedit 31184
+6  
+/c 
+wait 1
+if (%actor.clan% == 5 && %actor.rank% >= 25)
+ set %speech%
+ kill %arrestate%
+end
+ 
+~
+/s
+q
+y

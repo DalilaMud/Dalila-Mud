@@ -1,0 +1,204 @@
+trigedit 12592
+6  
+/c 
+if %timer% >= 1
+eval timer %timer% + 1
+global timer
+end
+if %timer% >= 10
+unset timer
+unset arena
+unset nome
+unset domanda
+unset domanda2
+unset tribuna
+emote cerca la persona con cui stava parlando
+wait 3
+emote scrolla le spalle
+wait 2
+emote mostra di essere nuovamente disponibile
+end
+if %starter% >= 1
+eval starter %starter% + 1
+global starter
+end
+if %starter% == 19
+te %1% Verrete trasferito in arena tra circa un minuto
+te %2% Verrete trasferito in arena tra circa un minuto
+te %3% Verrete trasferito in arena tra circa un minuto
+te %4% Verrete trasferito in arena tra circa un minuto
+te %5% Verrete trasferito in arena tra circa un minuto
+te %6% Verrete trasferito in arena tra circa un minuto
+te %7% Verrete trasferito in arena tra circa un minuto
+te %8% Verrete trasferito in arena tra circa un minuto
+te %9% Verrete trasferito in arena tra circa un minuto
+te %10% Verrete trasferito in arena tra circa un minuto
+te %11% Verrete trasferito in arena tra circa un minuto
+te %12% Verrete trasferito in arena tra circa un minuto
+te %13% Verrete trasferito in arena tra circa un minuto
+te %14% Verrete trasferito in arena tra circa un minuto
+te %15% Verrete trasferito in arena tra circa un minuto
+te %16% Verrete trasferito in arena tra circa un minuto
+te %17% Verrete trasferito in arena tra circa un minuto
+te %18% Verrete trasferito in arena tra circa un minuto
+te %19% Verrete trasferito in arena tra circa un minuto
+te %20% Verrete trasferito in arena tra circa un minuto
+end
+if %starter% >= 24
+if %cambia% == 1
+unset starter
+unset 1
+set dentro 0
+global dentro
+wait 3
+emote si guarda intorno perplesso
+wait 2
+say %1% forse voleva solo fare un giro turistico solitario per l'arena...peccato niente da fare
+wait 5
+else
+set inizio on
+global inizio
+wait 5
+say Che i combattimenti abbiano inizio, le iscrizioni sono chiuse!
+wait 2
+say Combatteranno %1% %2% %3% %4% %5% %6% %7% %8% %9% %10% %11% %12% %13% %14% %15% %16% %17% %18% %19% %20%
+unset starter
+set partenza %self.room%
+global partenza
+mgoto 29517
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+mload mob 12594
+if %31% != 0
+say %31% say
+else
+say 1 say
+end
+if %32% != 0
+say %32% say
+else
+say 1 say
+end
+if %33% != 0
+say %33% say
+else
+say 1 say
+end
+if %34% != 0
+say %34% say
+else
+say 1 say
+end
+if %35% != 0
+say %35% say
+else
+say 1 say
+end
+mteleport %1% 29517
+mforce %1% emote entra in arena
+mteleport %2% 29517
+mforce %2% emote entra in arena
+if %cambia% > 2
+mteleport %3% 29517
+mforce %3% emote entra in arena
+end
+if %cambia% > 3
+mteleport %4% 29517
+mforce %4% emote entra in arena
+end
+if %cambia% > 4
+mteleport %5% 29517
+mforce %5% emote entra in arena
+end
+if %cambia% > 5
+mteleport %6% 29517
+mforce %6% emote entra in arena
+end
+if %cambia% > 6
+mteleport %7% 29517
+mforce %7% emote entra in arena
+end
+if %cambia% > 7
+mteleport %8% 29517
+mforce %8% emote entra in arena
+end
+if %cambia% > 8
+mteleport %9% 29517
+mforce %9% emote entra in arena
+end
+if %cambia% > 9
+mteleport %10% 29517
+mforce %10% emote entra in arena
+end
+if %cambia% > 10
+mteleport %11% 29517
+mforce %11% emote entra in arena
+end
+if %cambia% > 11
+mteleport %12% 29517
+mforce %12% emote entra in arena
+end
+if %cambia% > 12
+mteleport %13% 29517
+mforce %13% emote entra in arena
+end
+if %cambia% > 13
+mteleport %14% 29517
+mforce %14% emote entra in arena
+end
+if %cambia% > 14
+mteleport %15% 29517
+mforce %15% emote entra in arena
+end
+if %cambia% > 15
+mteleport %16% 29517
+mforce %16% emote entra in arena
+end
+if %cambia% > 16
+mteleport %17% 29517
+mforce %17% emote entra in arena
+end
+if %cambia% > 17
+mteleport %18% 29517
+mforce %18% emote entra in arena
+end
+if %cambia% > 18
+mteleport %19% 29517
+mforce %19% emote entra in arena
+end
+if %cambia% > 19
+mteleport %20% 29517
+mforce %20% emote entra in arena
+end
+mpurge
+mgoto %partenza%
+unset partenza
+wait 5
+emote ritorna raggiante
+wait 5
+say Che lo scontro abbia inizio!
+end
+end
+eval reset %reset% + 1
+global reset
+~
+/s
+q
+y

@@ -1,0 +1,25 @@
+trigedit 28092
+6  
+/c 
+wait 1 s
+if %via% == on
+if %speech% == mano
+say &x&1 BRAVO!!!! &0 !!SOUND(grandioso.wav)
+wait 1 
+say Ecoti questa chiave....apre il ripostiglio.
+wait 1 s
+rem chiave
+give chiave %actor.name%
+unset via
+else
+say &x&4 Sbagliato!! &0 !!SOUND(no4.wav)
+wait 1 s
+say Dovrai richiedermi l'enigma per avere un'altra chance.
+unset via
+end
+else
+end
+~
+/s
+q
+y

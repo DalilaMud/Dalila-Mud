@@ -1,0 +1,283 @@
+#6101
+sign~
+a sign~
+An old, battered sign lies on the ground.~
+~
+12 0 1
+0 0 0 0 100 100
+10 2 2 0 0 0
+E
+sign~
+Only some of the letters are legible :-
+                _
+      _________| |_________
+     /         | |         \
+    /  CAR.AX  | |  M.STY   \
+    \  M..SI.N | |  SW..P   /
+     \_________| |_________/
+               | |
+
+~
+#6102
+albero~
+un albero colossale~
+Un albero colossale e' cresciuto qui.~
+~
+15 0 0
+1000 0 0 0 100 100
+0 0 0 0 0 0
+E
+apertura~
+L'apertura e' troppo stretta per consentirti di entrare, ma sembra che
+l'albero sia cavo.
+~
+E
+albero~
+Questo enorme albero deve avere alcuni secoli di vita. La sua
+corteccia appare grigia e chiara. In piu' punti presenta graffi e segni
+di artigliate. Sul lato ovest del tronco c'e' una piccola &7apertura&0
+proprio al livello del terreno.
+~
+#6103
+ramo lungo grigio~
+un lungo ramo grigio~
+Un lungo ramo grigio si trova qui per terra.~
+~
+1 0 16385
+0 0 25 0 30 30
+20 1 3 0 0 0
+E
+lungo ramo grigio~
+E' abbastanza pesante e sembra che sia caduto da una notevole altezza.
+E' molto secco e probabilmente potrebbe essere acceso con facilita'.
+~
+#6104
+lungo ramo grigio~
+un lungo ramo grigio~
+Un lungo ramo grigio si trova qui a terra.~
+~
+5 57344 8193
+0 2 7 7 70 70
+18 60 20 0 0 0
+E
+lungo ramo grigio~
+E' molto pesante e sembra che sia caduto da un'altezza notevole.
+E' lungo e diritto ed il legno sembra molto resistente e ancora
+pieno di linfa. Sebbene tu non riesca a maneggiarlo bene
+potrebbe essere usato come un'arma condundente.
+~
+#6105
+lungo ramo grigio~
+un lungo ramo grigio~
+Un lungo ramo grigio e' qui per terra.~
+~
+13 0 1
+0 0 0 0 100 100
+40 0 0 0 0 0
+E
+lungo ramo grigio~
+E' molto pesante e sembra che sia caduto da un'altezza notevole.
+E' alquanto contorto ed e' ancora pieno di linfa.
+~
+#6106
+toadstool~
+a toadstool~
+A large toadstool grows nearby.~
+~
+19 0 1
+12 0 0 0 20 20
+5 150 20 0 0 0
+E
+toadstool~
+It is a large, brown boletus that must weigh nearly five pounds.  The top
+surface is covered in a thin layer of transparent slime that emits a weak,
+musty smell.  Not the most delicious thing you have seen.
+~
+#6107
+toadstool~
+a toadstool~
+A large toadstool grows nearby.~
+~
+19 0 1
+12 0 0 1 20 20
+5 150 20 0 0 0
+E
+toadstool~
+It is a large, brown boletus that must weigh nearly five pounds.  It
+has small white spots and the top surface is covered in a thin layer
+of transparent slime that emits a weak, musty smell.  Not the most
+delicious thing you have seen.
+~
+#6108
+coins monete mucchio~
+un grosso mucchio di monete~
+Un grosso mucchio di monete si trova qui per terra.~
+~
+20 0 1
+200 0 0 0 100 100
+15 15326 0 0 0 0
+#6109
+pozione azzurra~
+&6una pozione azzurra&0~
+Una &6pozione azzurra&0 e' qui.~
+~
+10 64 1
+25 77 16 16 20 20
+2 68000 5000 0 0 0
+E
+pozione blu~
+Ha un colore blu scuro e odora di menta.
+~
+#6110
+pozione scarlatta~
+&1&xuna pozione scarlatta&0~
+Una &1&xpozione scarlatta&0 e' qui.~
+~
+10 64 1
+15 39 0 0 20 20
+2 1000 200 0 0 0
+E
+pozione gialla muschio~
+Ha un colore giallo intenso ed un forte odore di muschio.
+~
+#6111
+scudo grande rotondo~
+un grande scudo rotondo~
+Un grande scudo rotondo e' stato abbandonato qui.~
+~
+9 65 513
+5 0 0 0 90 90
+15 300 800 6 0 0
+E
+scudo grande rotondo~
+E' fatto di solido legno, rinforzato da spesse bande di ferro.
+~
+C
+32768 0 0 0
+#6112
+corona ferro~
+una corona di ferro~
+Una corona di ferro giace qui per terra.~
+~
+9 13376 17
+7 0 0 0 90 90
+20 7000 500 0 0 0
+E
+corona ferro~
+E' una pesante corona fatta di solido ferro, adatta alla testa
+di un essere di taglia umana.
+~
+#6113
+scettro ferro~
+uno scettro di ferro~
+Uno scettro di ferro giace qui per terra.~
+~
+1 64 16385
+0 0 24 0 90 90
+10 5000 700 0 0 0
+E
+scettro ferro~
+E' un pesante scettro fatto di solido ferro.
+~
+A
+1 1
+#6114
+anello ferro~
+un anello di ferro~
+Un anello di ferro e' stato abbandonato qui.~
+~
+11 26176 3
+0 0 0 0 40 40
+1 5000 500 16 0 0
+E
+anello ferro~
+E' un anello adatto alle dita di un uomo, fatto di solido ferro.
+E' privo di qualsiasi tipo di decorazione.
+~
+A
+17 -4
+#6115
+star morning-star~
+una morning star~
+Una morning star e' qui per terra che raccoglie la polvere.~
+~
+5 53568 8193
+0 2 7 5 60 60
+10 2400 240 0 0 0
+#6116
+corpetto scaglie~
+un corpetto fatto di scaglie di drago nero~
+Un corpetto fatto di scaglie di drago nero e' stato abbandonata qui.~
+~
+9 41536 9
+7 0 0 0 90 90
+10 10000 100 0 0 0
+E
+corpetto scaglie~
+E' un corpetto privo di maniche fatto di scaglie di drago nero unite
+assieme da fili d'argento. La sua parte interna e' stata realizzata
+utilizzando la morbida pelle del ventre del drago. La parola 'Isha'
+e' stata incisa su una delle scaglie.
+~
+#6117
+gonna scaglie~
+una gonna fatta di scaglie di drago nero~
+Una gonna fatta di scaglie di drago nero e' stata abbandonata qui.~
+~
+9 21056 33
+7 0 0 0 90 90
+8 5000 100 0 0 0
+E
+gonna scaglie~
+E' una gonna corta, fatta con le grandi scaglie di un drago nero
+unite assieme da fili d'argento. Il suo interno e' stato realizzato
+utilizzando la morbida pelle del ventre del drago. La parola 'Isha'
+e' stata incisa su una delle scaglie.
+~
+#6118
+mantello nero~
+un mantello nero con cappuccio~
+Un ampio mantello con cappuccio, nero come la notte, e' stato abbandonato qui.~
+~
+11 143936 1025
+0 0 0 0 30 30
+20 8000 4000 0 0 0
+E
+mantello nero~
+E' un pesante mantello nero con un grosso cappuccio. La parola 'Isha'
+e' cucita al suo interno con un filo d'argento.
+~
+A
+17 -4
+#6119
+cintura argento~
+una larga cintura d'argento~
+Una larga cintura d'argento e' stata abbandonata qui.~
+~
+11 180289 2049
+0 0 0 0 50 50
+4 5000 3500 0 0 0
+E
+cintura argento~
+E' una larga cintura formata da piccoli anelli d'argento cuciti assieme.
+~
+A
+26 3
+A
+19 -1
+A
+2 -1
+#6120
+spada lunga sottile~
+una spada lunga e sottile~
+Una spada lunga e sottile giace a terra.~
+~
+5 47681 8193
+0 3 6 10 50 50
+4 30000 6000 0 0 0
+E
+spada lunga sottile~
+E' una spada lunga e sottile che sembra essere fatta d'argento. La
+parola 'Isha' e' stata incisa sulla sua impugnatura.
+~
+$~

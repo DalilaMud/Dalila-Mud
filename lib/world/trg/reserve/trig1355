@@ -1,0 +1,15 @@
+trigedit 1355
+6  
+/c 
+* Lista comandi
+wait 2
+if %cambianome% == on
+ set proprietario %victim.name%
+ global proprietario
+ set cambianome off
+ global cambianome
+end
+~
+/s
+q
+y

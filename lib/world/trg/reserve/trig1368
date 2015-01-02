@@ -1,0 +1,10 @@
+trigedit 1368
+6  
+/c 
+* Lista comandi
+wait 1 s
+%echo% &3Il campanaccio di %actor.name% suona impazzito annunciando.. la fine del mondo!&0
+~
+/s
+q
+y

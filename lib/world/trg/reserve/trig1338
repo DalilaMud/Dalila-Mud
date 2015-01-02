@@ -1,0 +1,14 @@
+trigedit 1338
+6  
+/c 
+* Lista comandi
+if %actor.name% == %proprietario%
+ wait 1 s
+ emo scatta sull'attenti, si inchina e se ne va.
+ fol self
+ mteleport self %postazione%
+end
+~
+/s
+q
+y

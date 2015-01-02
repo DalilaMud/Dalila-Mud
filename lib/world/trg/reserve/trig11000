@@ -1,0 +1,22 @@
+trigedit 11000
+6  
+/c 
+eval caso %random.300%
+eval possibilita' %actor.int%+%actor.wis%
+if %actor.eq(1).shortdesc% != Un'anello fatto di &wArgento&0 e &rSangue&0
+say Hey!? Non Basta, anche io so cantare storielle...
+elseif %actor.name% == kylie || %actor.name% == morente || %actor.name% == jiba || %actor.name% == malus
+sussurra %actor.name% Spero che non ti abbiano seguito...
+%teleport% %actor% 11001
+elseif %caso% < %possibilita'%
+%teleport% %actor% 11001
+else
+%purge% %actor.eq(1)%
+%send% %actor% &wCon un gesto fulmineo %self.name% ti ruba l'anello.&0
+wait 1s
+say Non farmi ridere chi pensi di fregare?
+end
+~
+/s
+q
+y

@@ -1,0 +1,15 @@
+trigedit 2603
+6  
+/c 
+* Lista comandi
+if %actor.vnum% != -1
+halt
+end
+wait 1 s
+say Fermi, mortali. Non e' ancora giunta l'ora per raggiungere il Regno del Fuoco.
+wait 2 s
+say Prima la Pietra di Fiamma deve essere recuperata!
+~
+/s
+q
+y

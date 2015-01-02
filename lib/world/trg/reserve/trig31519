@@ -1,0 +1,14 @@
+trigedit 31519
+6  
+/c 
+wait 1 s
+mecho &1Appena entri in questa stanza una sensazione di terrore ti assale..&0
+wait 1 s
+mecho &1Una creatura terribile e sanguinaria e' stata imprigionata qui..&0
+wait 1 s
+emo esce dall'ombra e ti assale urlando
+kill %actor.name%
+~
+/s
+q
+y

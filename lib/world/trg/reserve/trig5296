@@ -1,0 +1,15 @@
+trigedit 5296
+6  
+/c 
+if %actor.vnum% == 5295
+halt
+end
+if %actor.vnum% == 5294
+halt
+end
+%purge% %self%
+halt
+~
+/s
+q
+y

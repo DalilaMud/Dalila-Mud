@@ -1,0 +1,863 @@
+#11200
+guardiano golem~
+un guardiano golem~
+Un guardiano golem e' qui che protegge l'entrata.
+~
+   E' fatto di pietra e fango.  E' alto circa due metri e i muscoli di roccia
+incutono un certo timore.    
+~
+~
+~
+~
+42 1032 -400 -1 -1 -1 -1 -1 E
+18 13 4 1d1+210 2d6+4
+10 150000
+8 8 0
+E
+#11201
+lottatore golem~
+un lottatore di fango e pietra~
+Un lottatore golem si esercita nel corpo a corpo.
+~
+   E' grande,grosso e brutto.  Ha il naso un po' sgretolato a causa di
+precedenti colpi del suo avversario.  Ti fissa con ostilita'.    
+~
+~
+~
+~
+4106 1024 100 -1 -1 -1 -1 -1 E
+20 12 4 1d1+250 2d8+3
+17 210000
+7 7 0
+E
+#11202
+recluta golem~
+una recluta golem~
+Una recluta golem e' qui che si allena duramente.
+~
+   I movimenti rozzi e imprecisi di questo golem spiegano perche' si alleni
+contro un fantoccio e non con un altro golem.  Un pugno sbagliato e la testa
+del compagno potrebbe spaccarsi in mille pezzi
+~
+~
+~
+~
+2058 1024 450 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+3
+11 150000
+8 8 0
+E
+#11203
+istruttore golem~
+l'istruttore golem~
+L'istruttore golem osserva i suoi allievi.
+~
+   Ha un aspetto piu' maturo dei suoi allievi.  I segni dell'esperienza gli
+conferiscono un aria da vero duro.    
+~
+~
+~
+~
+65562 1024 -500 -1 -1 -1 -1 -1 E
+27 10 0 1d1+420 2d11+6
+18 300000
+8 8 0
+E
+#11204
+guardia golem~
+una guardia golem~
+Una guardia golem e' qui sull'attenti.
+~
+   Impassibile,inamovibile e dritta sull'attenti ,la guardia non sembra
+interessarsi della tua presenza.  Per ora.    
+~
+~
+~
+~
+4138 1024 0 -1 -1 -1 -1 -1 E
+23 11 1 1d1+375 2d10+3
+20 210000
+8 8 0
+E
+#11205
+cavaliere golem~
+un cavaliere golem~
+Un cavaliere golem e' qui che cavalca il suo roano.
+~
+   I golem non sono una razza di cavallerizzi.  E questo in particolare ne e'
+l'esempio.  Inoltre il povero cavallo deve sopportare un peso inverosimile.  
+
+~
+~
+~
+~
+18504 13312 0 -1 -1 -1 -1 -1 E
+28 11 0 1d1+450 2d11+7
+27 500000
+8 8 0
+E
+#11206
+fante golem~
+un fante golem~
+Un fante golem ti attacca appena ti vede.
+~
+   Non capisci come faccia ad essere cosi' agile.    
+~
+~
+~
+~
+22632 1032 -350 -1 -1 -1 -1 -1 E
+25 11 1 1d1+380 2d9+5
+13 230000
+8 8 0
+E
+#11207
+re kaltor golem~
+Re Kaltor~
+Il Re golem Kaltor e' qui che sfoglia un libro.
+~
+   Ha un aspetto fiero e nobile.  A differenza dei suoi sudditi, Kaltor e'
+fatto solo di purissima pietra bianca.  Gli occhi indecifrabili si posano su di
+te appena lo guardi.    
+~
+~
+~
+~
+192522 16778368 500 -1 -1 -1 -1 -1 E
+35 9 -3 1d1+400 3d8+7
+25 1000000
+6 6 0
+E
+#11208
+mercante golem~
+un mercante golem~
+Un mercante golem di stoffe almiriane e' qui.
+~
+   Il mercante di pietra e fango non lascia intendere le proprie intenzioni.  
+Grida i prezzi delle sue merci.  L'arte del mercante decisamente non si abbina
+alle qualita' dei golem .
+~
+~
+~
+~
+16456 1024 -150 -1 -1 -1 -1 -1 E
+20 14 4 1d1+250 2d6+2
+19 120000
+8 8 0
+E
+#11209
+salem mago golem~
+un mago golem~
+Salem,l'unico mago golem e' qui che farfuglia incantesimi.
+~
+   E' un eccezione nella sua razza di guerrieri.  Salem si e' infatti dedicato
+allo studio delle arti occulte ma sembra con scarso successo.  Goffamente
+indossa una lunga tunica di lino viola con tante piccole stelle gialle
+sparpagliate su entrambe le maniche.    
+~
+~
+~
+~
+188554 17826944 100 -1 -1 -1 -1 -1 E
+27 14 1 1d1+300 2d4+2
+14 300000
+8 8 0
+E
+#11210
+campione golem rockhead~
+il campione del re~
+Rockhead, il campione del Re e' qui pronto per la sfida.
+~
+   Il golem piu' grosso del regno.  Solo una mano e' grande quanto il tuo
+busto.  Il viso e' devastato da spigolature e squarci e gli occhi di pietra
+emanano una sensazione malvagia.    
+~
+~
+~
+~
+83978 33559552 -1000 -1 -1 -1 -1 -1 E
+40 8 -4 1d1+600 3d7+10
+29 900000
+8 8 0
+E
+#11211
+marinaio golem~
+un marinaio golem~
+Un marinaio golem e' qui che annoda due corde.
+~
+   Il lungo periodo passato in mare lo ha segnato profondamente.  Il vento gli
+ha infatti levigato naso e orecchie tanto che ora le usa come armi ta taglio.
+  
+~
+~
+~
+~
+18508 9216 -100 -1 -1 -1 -1 -1 E
+22 13 3 1d1+290 2d9+3
+15 280000
+8 8 0
+E
+#11212
+capitano waesel golem~
+il capitano golem~
+Il Capitano Waesel e' qui che maciulla delle ossa.
+~
+   Ormai non piu' giovane,Waesel ha passato lunghi e prosperosi anni a
+commerciare con lontani paesi.  Ma da quando il florido Porto Sotterraneo ha
+subito il cambiamento, la pazzia si e' impossessata di lui.  Chiunque lo
+disturbi viene fatto a pezzi.    
+~
+~
+~
+~
+81934 16782336 -1000 -1 -1 -1 -1 -1 E
+37 10 -2 1d1+700 3d6+6
+33 1000000
+8 8 0
+E
+#11213
+contrabbandiere orco~
+un orco contrabbandiere~
+Un orco contrabbandiere si aggira con cautela.
+~
+   A dimostrazione che questo porto e' ora zona franca dove tutti i ricercati
+di Daresia possono trovare rifugio, quest'orco si muove con attenzione tra le
+vie buie in cerca di un compratore.    
+~
+~
+~
+~
+65624 263168 -500 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+500 3d7+6
+28 450000
+8 8 1
+E
+#11214
+mercenario umano~
+un mercenario~
+Un mercenario dall'aspetto umano e' qui che cerca un lavoro.
+~
+   Quest'uomo e' grande come un golem e le cicatrici su tutto il corpo indicano
+che e' stato un ottimo combattente in qualche guerra lontana.  La benda
+sull'occhio destro intimorisce quanto la lunga scimitarra che impugna.    
+~
+~
+~
+~
+84040 1024 -500 -1 -1 -1 -1 -1 E
+31 9 0 1d1+550 3d7+8
+29 500000
+8 8 0
+E
+#11215
+oste golem~
+un oste golem~
+Un oste golem dal cattivo umore e' qui dietro il bancone.
+~
+   Una camicia aperta sul davanti e un rozzo pantalone di stoffa nera avvolgono
+il freddo corpo di pietra dell'oste.  Noti subito che e' privo del braccio
+sinistro ma questo non sembra creargli molti problemi.  Ti guarda con disgusto.
+  
+~
+~
+~
+~
+20490 1024 -400 -1 -1 -1 -1 -1 E
+23 12 2 1d1+320 2d8+3
+15 200000
+8 8 0
+E
+#11216
+ubriaco golem~
+un ubriaco~
+Un ubriaco di pietra e fango e' qui che barcolla.
+~
+   Molto strano.  Non avresti mai pensato che anche esseri senza sangue e ossa
+potessero ubriacarsi.  Evidentemente i fumi dell'alcool non hanno limiti.    
+~
+~
+~
+~
+16460 1024 0 -1 -1 -1 -1 -1 E
+17 13 5 1d1+170 2d6+2
+11 135000
+8 8 0
+E
+#11217
+guerriera xanthia~
+una guerriera~
+Xanthia,la guerriera amazzone e' qui che affila la sua arma.
+~
+   E' una donna bellissima,atletica e forte allo stesso tempo.  E' vero quello
+che si dice sulle amazzoni allora!!  I suoi occhi chiari come il diamante e
+freddi come il ghiaccio ti squadrano da capo a piedi.  I lunghi capelli castani
+sono legati da un nastro di tela poco appariscente.    
+~
+~
+~
+~
+16456 1032 200 -1 -1 -1 -1 -1 E
+29 10 0 1d1+470 3d7+5
+17 300000
+8 8 2
+E
+#11218
+cacciatore di taglie~
+un cacciatore di taglie~
+Un cacciatore di taglie si aggira qui intorno.
+~
+   Alto,robusto e dall'aspetto barbaro quest'uomo e' in cerca di qualche
+criminale.  Non gli importa se dovra' ucciderlo per guadagnare la ricompensa.
+Vestito di nero,con un cappello da montagna si muove furtivamente tra gli
+alberi aspettando la sua preda.    
+~
+~
+~
+~
+81946 525312 -500 -1 -1 -1 -1 -1 E
+30 9 0 1d1+500 3d7+6
+27 400000
+8 8 1
+E
+#11219
+guardia~
+una guardia del re~
+Una guardia del Re e' qui che ti sbarra il cammino.
+~
+   Sembra molto sicuro di se'.    
+~
+~
+~
+~
+22538 1032 300 -1 -1 -1 -1 -1 E
+26 11 1 1d1+400 2d10+5
+18 600000
+8 8 0
+E
+#11225
+cortigiano golem~
+un cortigiano~
+Un golem cortigiano e' qui che passeggia.
+~
+   E' ben vestito e disarmato.  Appartiene evidentemente alla casta dei nobili.
+Lo sguardo altezzoso si posa sui tuoi umili e sporchi indumenti.    
+~
+~
+~
+~
+16456 1032 700 -1 -1 -1 -1 -1 E
+19 13 5 1d1+250 2d7+2
+12 220000
+8 8 0
+E
+#11230
+makrud~
+il mago del fuoco~
+Makrud,il temibile mago del fuoco e' qui che sogghigna.
+~
+   Magro e alto,Makrud e' vestito di un lungo mantello nero e rosso.  Gli occhi
+scavati rispecchiano tutto il male dentro di lui.    
+~
+~
+~
+~
+254090 256947848 -1000 -1 -1 -1 -1 -1 E
+50 -20 -10 1d1+10000 10d10+40
+50 10000000
+8 8 1
+E
+#11240
+bracciante mezzelfo~
+un bracciante mezzelfo~
+Un forte bracciante mezzelfo e' qui che lavora la terra.
+~
+   Il bracciante e' tozzo ed esile ma lavora con una grande tenacia.  Non
+capisci da dove prensa tutta quella forza.  Ti ha visto che l'osservi e non
+sembra piacergli.    
+~
+~
+~
+~
+69704 1024 0 -1 -1 -1 -1 -1 E
+12 14 6 1d1+115 1d8+1
+9 12000
+8 8 1
+E
+#11241
+bracciante nano~
+un bracciante nano~
+Un robusto nano e' qui che lavora nei campi.
+~
+   Il nano e' tozzo e molto muscoloso.  La barba folta e' inzaccherata dalla
+polvere e dai resti della colazione.  Il lavoro nei campi l'ha reso resistente
+e forte, sara' per questo che riesce a spostare pietre grosse il doppio di lui.
+  
+~
+~
+~
+~
+196716 1032 0 -1 -1 -1 -1 -1 E
+12 14 7 1d1+50 1d8+2
+9 12000
+8 8 1
+E
+#11242
+rios guardiano~
+Rios il guardiano~
+Il guardiano Rios e' qui attento che ti guarda.
+~
+   E' il guardiano dei campi e dei braccianti.  Riferisce tutto quello che
+succede a Sir Teinko e ne condivide la brama di potere e di ricchezza.  E'
+alto,di buona corporatura e qui nei campi e' sicuramente il piu' forte.  
+Appena ti avvicini ti squadra da capo a piedi.    
+~
+~
+~
+~
+30 33555468 -500 -1 -1 -1 -1 -1 E
+16 13 5 1d1+230 2d7+3
+14 30000
+8 8 1
+E
+#11243
+yaku cane~
+Yaku il cane nordico~
+Un cane enorme spalanca le fauci appena ti vede.
+~
+   Questo e' Yaku, un cane proveniente dai ghiacci del nord.  Si narra che
+possa uccidere gli orsi bianchi con un solo unico morso al collo.  I suoi
+canini infatti sono qualcosa di spaventoso e la bava che cola dai lati della
+bocca non fa presagire nulla di buono.    
+~
+~
+~
+~
+16426 1032 -1000 -1 -1 -1 -1 -1 E
+20 12 4 1d1+260 2d7+3
+11 65000
+6 6 1
+E
+#11244
+fattore~
+un fattore~
+Un fattore sta lavorando qui.
+~
+   Un vecchio fattore e' magro e stanco di lavorare.  Indossa un paio di
+pantaloni consumati quasi completamente.  Ti guarda e ti sorride per un attimo
+dopo di che ritorna alle sue faccende.    
+~
+~
+~
+~
+266348 1536 0 -1 -1 -1 -1 -1 E
+12 15 6 1d1+100 2d4+1
+8 10000
+8 8 1
+E
+#11245
+gnolo contadino~
+Gnolo il contadino~
+Gnolo il contadino sta spazzando qui intorno.
+~
+   E' un uomo di mezza eta' con i segni della fatica sul corpo.  Gli occhi
+tristi nascondono una grande rabbia ma anche un gran segreto.  Forse lui sa
+della stanza segreta dove Sir Teinko terrebbe il tesoro accumulato in tanti
+anni di sfruttamento.    
+~
+~
+~
+~
+6220 16778240 500 -1 -1 -1 -1 -1 E
+18 12 4 1d1+260 2d7+3
+12 80000
+8 8 1
+E
+#11246
+amante~
+l'amante~
+L'amante di Sir Teinko e' qui seminuda.
+~
+   Una donna sulla trentina e' seduta sul letto.  Le sue forme rotondette si
+intravedono attravero la vestaglia che indossa.  I capelli castani sono sciolti
+sulle spalle.  Sta contando le monete lasciategli da Sir Teinko.    
+~
+~
+~
+~
+16426 17826944 -350 -1 -1 -1 -1 -1 E
+17 14 4 1d1+140 2d6+3
+12 35000
+6 8 2
+E
+#11247
+squadra braccianti~
+una squadra di braccianti~
+Una squadra di braccianti e' qui all'opera.
+~
+   Un bel gruppo misto.  Nani,mezzelfi e umani si aiutano a vicenda.  Fosse
+cosi' dappertutto!    
+~
+~
+~
+~
+14 1024 0 -1 -1 -1 -1 -1 E
+15 13 5 1d1+170 2d7+2
+8 33000
+8 8 1
+E
+#11248
+teinko signorotto~
+Sir Teinko~
+Sir Teinko il signorotto di queste terre e' qui vigile.
+~
+   Di aspetto raffinato e distinto,non tralascia trapelare la sua brama di
+potere che porta spesso a far soffrire i piu' deboli.  Gli occhietti piccoli
+corrono da una parte all'altra della stanza in cerca di qualche moneta d'oro
+nascosta.  Il fisico molliccio gli impedisce rapidi movimenti.    
+~
+~
+~
+~
+59406 1160 -1000 -1 -1 -1 -1 -1 E
+20 12 5 1d1+200 2d8+2
+18 110000
+8 8 1
+E
+#11249
+drum caposquadra~
+il caposquadra~
+Drum il caposquadra e' qui che organizza i lavori.
+~
+   E' estremamente serio nel suo lavoro.  Controlla ogni carico di pietre e
+semi che arriva dal magazzino e sgrida chi cerca di fare il furbo.  Tutti lo
+rispettano e questo lo riempie di orgoglio.    
+~
+~
+~
+~
+262268 1152 0 -1 -1 -1 -1 -1 E
+15 14 6 1d1+80 2d5+2
+11 20000
+8 8 1
+E
+#11250
+cuoca~
+una cuoca~
+Una cuoca indaffarata e' qui che prepara dei dolci.
+~
+   Pienotta ma simpatica la cuoca e' maniaca del pulito.  Anche mentre cucina
+ha sempre uno straccio a portata di mano e ogni tanto lo passa su piatti e
+contenitori.  E' molto presa dal suo lavoro e non si accorge che hai sporcato
+di fango il pavimento.    
+~
+~
+~
+~
+266 33555456 0 -1 -1 -1 -1 -1 E
+12 14 6 1d1+100 1d10+3
+10 15000
+8 8 2
+E
+#11251
+nobildonna~
+una nobildonna~
+Una nobildonna con la puzza sotto il naso e' qui altezzosa.
+~
+   Veste con abiti lussuosi e con gioielli di alto valore.  Non e' molto bella
+e se non fosse per quella cipria bianca sul naso la scambieresti per uno
+spaventapasseri.    
+~
+~
+~
+~
+72 16778368 -500 -1 -1 -1 -1 -1 E
+12 14 6 1d1+100 1d10+2
+11 10000
+8 8 2
+E
+#11252
+bracciante enorme~
+un enorme bracciante~
+Un enorme bracciante e' qui che solleva massi.
+~
+   Gasp!  Accidenti quanto e' grosso.  Eppure non e' un gigante.  E'
+sicuramente il risultato della dura vita nei campi.  E' alto due metri e
+pesera' due volte un cavallo.  Speri che non sia altrettanto agile.    
+~
+~
+~
+~
+6216 1024 0 -1 -1 -1 -1 -1 E
+17 13 5 1d1+190 2d7+3
+11 35000
+8 8 1
+E
+#11253
+un ladro di cavalli~
+un ladro di cavalli~
+Un ladro di cavalli e' qui nascosto nel buio.
+~
+   Una figura sottile,agile e abile nel nascondersi ti spia da un angolo buio.
+Vestito tutto di nero sta aspettando il momento buono per agire.    
+~
+~
+~
+~
+237626 820234 0 -1 -1 -1 -1 -1 E
+21 15 3 1d1+300 2d9+5
+14 70000
+8 8 1
+E
+#11254
+cameriera~
+una cameriera ~
+Una giovane cameriera e' qui che spolvera.
+~
+   La ragazza e' molto giovane e carina.  I lunghi capelli biondi le scendono
+sulle spalle mentre un piccolo ciondolo senza valore le pende da un orecchio.
+Sembra sopra pensiero e non ti nota quando ti avvicini...  Ehhh la gioventu'!
+  
+~
+~
+~
+~
+4168 5120 0 -1 -1 -1 -1 -1 E
+12 13 6 1d1+110 1d8+1
+10 10000
+8 8 2
+E
+#11255
+maggiordomo tup~
+un pignolo maggiordomo~
+Tup,il maggiordomo e' qui che controlla ogni cosa.
+~
+   Il vecchio Tup e' maggiordomo da molti anni.  Te ne accorgi dallo sguardo
+che lancia ad ogni suppellettile per vedere se si e' spostato di un centimetro.
+L'attenzione per i dettagli contraddistingue anche la sua persona.  Ti squadra
+da capo a piedi con aria sufficiente.    
+~
+~
+~
+~
+104 9224 0 -1 -1 -1 -1 -1 E
+19 12 4 1d1+220 2d8+3
+15 50000
+8 8 1
+E
+#11256
+stalliere~
+uno stalliere~
+Uno stalliere molto robusto e' qui che controlla i cavalli.
+~
+   Il fisico da lottatore e' la prima cosa che noti.  Poi anche la barba folta
+e le sopracciglia nere come la pece ti rendono nervoso.  E' sicuramente un tipo
+da evitare.    
+~
+~
+~
+~
+131144 1024 -1000 -1 -1 -1 -1 -1 E
+16 13 5 1d1+200 2d7+2
+16 45000
+8 8 1
+E
+#11257
+spaventapasseri~
+uno spaventapasseri ~
+Uno spaventapasseri di paglia e' animato da una strana energia.
+~
+   Strano.  Hai sempre saputo che gli spaventapasseri sono senza vita ma quello
+che vedi si agita e cerca di colpire i passerotti che gli volano intorno come
+per schernirlo.    
+~
+~
+~
+~
+6158 1024 -1000 -1 -1 -1 -1 -1 E
+13 16 6 1d1+150 1d10+1
+10 15000
+8 8 0
+E
+#11258
+mercante~
+un mercante imbroglione~
+Un mercante imbroglione e' qui che cerca di vendere merce rubata.
+~
+   Basso,gracile ma estremamente furbo, il mercante tenta di convincere i
+passanti a comprare la sua merce.  Appena nota che lo stai osservando
+incuriosito, strizza gli occhietti furbi e mette via la refurtiva.  Chissa'..
+Magari ha qualcosa di tuo.    
+~
+~
+~
+~
+76 33555464 -800 -1 -1 -1 -1 -1 E
+15 13 5 1d1+160 1d10+2
+10 21000
+8 8 1
+E
+#11259
+vipera~
+una vipera enorme~
+Una vipera enorme ti punta e ti attacca.
+~
+   E' grossissima!!    
+~
+~
+~
+~
+16489 263168 -1000 -1 -1 -1 -1 -1 E
+10 17 6 1d1+60 2d5+3
+7 13000
+8 8 2
+Spec: 13
+E
+#11260
+topo~
+un topo gigante~
+Un topo gigante e' qui che ti attacca.
+~
+   E' grosso,peloso e puzzolente.    
+~
+~
+~
+~
+6186 3080 -1000 -1 -1 -1 -1 -1 E
+6 18 7 1d1+50 1d8+2
+4 11000
+8 8 1
+E
+#11261
+passerotto uccello~
+un passerotto ~
+Un piccolo passerotto vola qui intorno.
+~
+   Il passerotto vola a bassa quota in cerca di qualcosa da mangiare.  Sembra
+stia cercando anche i suoi compagni di viaggio.    
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+3 15 9 1d1+50 1d3+3
+2 100
+8 8 1
+E
+#11262
+gallina~
+una gallina~
+Una gallina girovaga qui in giro.
+~
+   Una gallina!!    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+3 15 10 1d1+50 1d2+1
+2 400
+8 8 2
+E
+#11263
+cavallo~
+un cavallo~
+Un cavallo si sta riposando qui.
+~
+   Un bel cavallo,molto forte e resistente.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+5 15 8 1d1+50 1d10+3
+3 1000
+8 8 1
+E
+#11270
+fabas guerriero~
+Fabas,il guerriero~
+Fabas, il guerriero e' gravemente ferito.
+~
+   Squarci e ferite ricoprono il corpo.  Una freccia e' conficcata nella spalla
+destra.  Non capisci come possa essere ancora vivo.    
+~
+~
+~
+~
+16460 0 1000 -1 -1 -1 -1 -1 E
+10 17 8 1d1+50 2d3+1
+10 8000
+8 8 1
+E
+#11280
+lady death ldxqt~
+lady Death~
+Lady Death e' qui che raccoglie i fiori piu' belli.
+~
+   E' molto bella,ma la sua e' una bellezza strana e mortale ehehheheheh
+~
+~
+~
+~
+16426 1160 -1000 -1 -1 -1 -1 -1 E
+23 10 2 1d1+200 2d11+4
+20 100000
+8 8 2
+E
+#11281
+fantasma bracciante nano~
+Il fantasma del bracciante nano~
+Il fantasma del bracciante nano e' qui.
+~
+Sei di fronte a quello che una volta era un bracciante nano.
+Instancabile lavoratore delle piantagioni di Teinko.
+Ora il suo tozzo corpo e' trasparente e bianco ma la sua forza e' sicuramente
+aumentata...
+~
+~
+~
+~
+204908 1032 0 -1 -1 -1 -1 -1 E
+12 14 6 1d1+55 1d10+2
+7 0
+8 8 0
+E
+#11298
+buttafuori~
+una imponente buttafuori~
+Una imponente buttafuori ti sta fissando in cagnesco.
+~
+Corpo di mille balene quanto e' grossa questa tizia. Deve essere una discendente
+diretta di qualche Genidian. Ha una tenuta da pirata con tanto di benda
+sull'occhio. Non promette nulla di buono.
+~
+~
+~
+~
+108554 32768 -600 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+500 3d7+6
+29 0
+8 8 2
+E
+#11299
+santo grassone pazzo~
+Santo il pazzo~
+Un grassone sta sbraitando cose incompensibili.
+~
+
+Brutta palla di lardo. Un maiale al suo confronto e' pulito come un principe.
+ha la barba nera unta e bisunta una magletta con ricamata la scritta SANTO e
+porta dei calzoni talmente lisi che puoi notare i mutandoni zozzi che sta'
+portando.
+Na' munnezza!!!
+
+~
+~
+~
+~
+256026 1056 -600 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+550 3d8+7
+33 0
+8 8 1
+E
+$

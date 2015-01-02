@@ -1,0 +1,54 @@
+trigedit 2579
+6  
+/c 
+* Lista comandi
+if %gioco% != 1
+halt
+end
+if %actor.name% != %player%
+wait 1 s
+say Per piacere silenzio! Sta giocando %player%!
+halt
+end
+if %speech% /= uno
+set scelta 1
+elseif %speech% /= due
+set scelta 2
+elseif %speech% /= tre
+set scelta 3
+end
+wait 2 s
+emote strabuzza gli occhi!
+wait 3 s
+emote gira pian piano la carta %scelta%
+if %scelta% == %carta%
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+say Hai vinto! E' evidente!
+set gioco 0
+global gioco
+else
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+say Hai perso! E' evidente!
+wait 2 s
+emote strabuzza gli occhi!
+set gioco 0
+global gioco
+halt
+end
+eval vincita %random.8%
+eval vincita 17+%vincita%
+wait 2 s
+emote strabuzza gli occhi!
+wait 2 s
+say Eccoti un bel premio!
+mload obj 56%vincita%
+give pupazz %actor.name%
+posa pupazz
+~
+/s
+q
+y

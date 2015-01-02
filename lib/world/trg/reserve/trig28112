@@ -1,0 +1,67 @@
+trigedit 28112
+6  
+/c 
+if %actor.vnum% == 28148
+  wait 1 s
+  set peso %arg%
+  eval pesoponte %pesoponte% + %peso%
+  global pesoponte
+  say Craaaaaaa craaaaaaaa ....
+end
+set g 2
+if %pesoponte% < 0
+  set pesoponte 1
+  global pesoponte
+end
+if %pesoponte% > 200
+  while %g% < 7
+   mat 2814%g% %echo% Le vecchie corde del ponte stridono, alcune iniziano a sfilacciarsi.
+   eval g %g% + 1
+  done
+end
+wait 1 s
+set g 2
+if %pesoponte% > 400
+  while %g% < 7
+   mat 2814%g% %echo% SSSCCCCCRRRAAAAAAAAKKKK !!!.
+   mat 2814%g% %echo% UNA CORDA SI SPEZZA !!!.
+   mat 2814%g% %echo% Il ponte di corde non sara' in grado di reggere questo peso a lungo.
+   eval g %g% + 1
+  done
+end
+wait 1 s
+set g 2
+if %pesoponte% > 600
+  while %g% < 7
+   mat 2814%g% %echo% striickk...StriccccK...SSSTTTTTRRRAAAAAAAAKKKK !!!.
+   mat 2814%g% %echo% Una delle corde piu' grosse si strappa con violenza !!!
+   mat 2814%g% %echo% Il ponte oscilla verso il basso ... con fatica riesci a restare in equilibrio.
+   mat 2814%g% %echo% Alcune assi di legno si staccano e precipitano nell'abisso.
+   eval g %g% + 1
+  done
+end
+set g 2
+if %pesoponte% > 800
+  while %g% < 7
+   mat 2814%g% %echo% scricck...sTriccck...SCrOoOCcCKKKK !!!
+   mat 2814%g% %echo% La corda a cui ti reggevi si spezza !!!
+   wait 1 s
+   mat 2814%g% %echo% Troppo peso su questo vecchio e maledetto ponte!!!
+   mat 2814%g% %echo% Il ponte si gira su stesso sbalzandoti fuori ... Cadiiii!!!!
+   mat 2814%g% %echo% Precipiti verso le nere nubi che nascondono il fondo del burrone.
+   mat 2814%g% %force% all east
+   mat 2814%g% mpurge
+   eval g %g% + 1
+  done
+  mat 28148 %echo% Il ponte di corde oscilla violento, le sue corde si intrecciano.
+  mat 28148 %echo% Vedi alcune persone precipitare nell'abisso tra le nere nuvole.
+  mat 28141 %echo% Il ponte di corde oscilla violento, le sue corde si intrecciano.
+  mat 28141 %echo% Vedi alcune persone precipitare nell'abisso tra le nere nuvole.
+  set pesoponte 0
+  global pesoponte
+  mgoto 28149
+end
+~
+/s
+q
+y

@@ -1,0 +1,23 @@
+trigedit 1486
+6  
+/c 
+if %actor.name% == dolmant
+wait 1 s
+inch dolmant
+halt
+end
+if %direction% == north
+wait 1 s
+inch %actor.name%
+wait 1 s
+say Benvenuto %actor.name%, Re Dolmant vi sta aspettando.
+else
+wait 1 s
+inch %actor.name%
+wait 1 s
+say Arrivederci, %actor.name%
+end
+~
+/s
+q
+y

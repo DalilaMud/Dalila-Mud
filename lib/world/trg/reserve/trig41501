@@ -1,0 +1,33 @@
+trigedit 41501
+6  
+/c 
+context %actor.id%
+if %offerta_quest% == on
+say &6 FANTASTICO! Ve ne sono grato miei signori! per prima cosa vi consiglio di esplorare la zona del crollo&0
+wait 4 s
+say &6 forse c'e' qualcosa che li ha attirati... non so non mi intendo di queste cose, ma ritengo che  &0
+wait 4 s
+say &6 le vostre indagini debbano cominciare da li, provate a &3scavare&6 li' intorno&0
+say &6 Inutile tentare di scacciarli, sono gia' morti e seppure&0
+wait 4 s
+say &6 si riescono ad allontanare per un po'... alla fine ritornano! &0
+wait 4 s
+say &6 ecco, ora vi apro. Fate in fretta tra 10 secondi la barriera tornera' attiva.&0
+mload obj 41500
+drop polvere
+emote estrae della polvere dorata da una sacchetta e la soffia sulla barriera magica
+wait 5 s
+say &6 Buona fortuna amici, che gli Dei in cui credete vi proteggano!&0
+set quest_ulexon_1 attiva
+remote quest_ulexon_1 %actor.id%
+set ulexon_1_chap_anfiteatro on
+remote ulexon_1_chap_anfiteatro %actor.id%
+vdelete %offerta_quest% %self.id%
+else
+say &6 si che? di cosa stai parlando? bah &0
+halt
+end
+~
+/s
+q
+y

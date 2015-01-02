@@ -1,0 +1,21 @@
+trigedit 15
+6  
+/c 
+if %actor.vnum% != -1
+  halt
+end
+if %actor.hit% < 0
+  say Per ora ti porto in cella... li verrai giudicato!
+  wait 1 s
+  %echo% %self.name% si carica sulle spalle %actor.name%
+  wait 1 s
+  %echo% %self.name% si allontana con %actor.name% sulle spalle.
+  wait 1 s
+  %teleport% %actor% %cella%
+  wait 1 s
+  %goto% %postazione%
+end
+~
+/s
+q
+y

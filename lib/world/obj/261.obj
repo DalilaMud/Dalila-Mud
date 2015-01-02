@@ -1,0 +1,90 @@
+#26100
+targa~
+una targa~
+Una &1&3Targa&0 e'appesa sopra l'ingresso della grotta&0~
+~
+13 16 0
+0 0 0 0 0 0
+0 0 0 0 1 1
+E
+targa~
+Alcuni simboli runici incomprensibili sono stati tradotti da una misteriosa
+forma di vita intelligente:
+
+Ingresso per l'Oracolo del Nord.  Entra nella caverna e percorri il sentiero
+della purificazione, affronta il tuo passato, il tuo presente ed il tuo futuro.
+E ricordati che il cammino e' per una persona sola alla volta, non aver timore
+e la verita ed il premio ti sara' concesso.  Fate molta attenzione perche' una
+volta iniziato il cammino non sara' piu' concesso tornare indietro.  "
+~
+#26101
+scritta~
+una scritta~
+Una &3&xscritta&0 e' incisa sulla parete di destra.~
+~
+13 16 0
+0 0 0 0 1 1
+0 0 0 0 4 0
+E
+cartello incisione parete destra scritta~
+
+scalpellata con molta cura e a chiare lettere:
+
+&1&x"Prosegui e affronta il tuo passato."&0
+
+~
+#26102
+scritta~
+una scritta~
+Una &2&xscritta&0 e' incisa sulla parete est~
+~
+13 16 0
+0 0 0 0 1 1
+0 0 0 0 4 0
+E
+scritta incisa incisione parete est~
+Scolpita nella roccia:
+
+&x"Prosegui e affronta il tuo presente."&0
+
+~
+#26103
+scritta~
+una scritta~
+Una &1&xscritta&0 e' incisa sulla parete nort.~
+~
+13 16 0
+0 0 0 0 1 1
+0 0 0 0 4 0
+E
+scritta incisa incisione parete nord~
+Scolpita nella nuda roccia leggi:
+
+&x"Prosegui e affronta il tuo futuro."&0
+
+~
+#26104
+targa~
+una targa~
+Una &xtarga&0 e' inchiodata su un paletto piantato nel terreno.~
+~
+13 16 0
+0 0 0 0 1 1
+0 0 0 0 2 0
+E
+paletto~
+Un bastone di legno ricavato da un robusto ramo con la punta conficcata nel
+terreno e sostenuta da alcune pietre che ne formano la base.  All'altra
+estremita' vi e' inchiodata una targa un po' coperta da muschio.    
+~
+E
+targa~
+La targa e' ricoperta da muschio ma si riesce a leggere a fatica qualcosa.  La
+prima parte e' incomprensibile, la seconda scritto in rune mentre la terza
+parte e' nella tua lingua:
+
+&5&x"Ponte della penitenza e del sacrificio:
+Spogliati del tuo fardello terreno e prosegui coperto solo dal mantello della tua fede."&0
+
+~
+$~

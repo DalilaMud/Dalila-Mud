@@ -1,0 +1,12 @@
+trigedit 5205
+6  
+/c 
+%echo% %self.name% si volta e ti sorride.
+wait 1s
+say Vuoi una tazza di the giovanotto?
+wait 1s
+smile
+~
+/s
+q
+y

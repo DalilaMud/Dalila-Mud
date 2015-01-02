@@ -1,0 +1,27 @@
+trigedit 9749
+6  
+/c 
+if %actor.clan% == 3
+if %speech% == fatemi entrare
+if %actor.rank% < 50
+say Passate pure, Concittadino!
+else
+emo scatta sull'attenti.
+say Sissignore!
+end
+%teleport% %actor% 8522
+end
+if %speech% == fatemi uscire
+if %actor.rank% < 50
+say Passate pure, Concittadino!
+else
+emo scatta sull'attenti.
+say Sissignore!
+end
+%teleport% %actor% 2404850
+end
+end
+~
+/s
+q
+y

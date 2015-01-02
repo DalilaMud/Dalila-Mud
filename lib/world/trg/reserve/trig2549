@@ -1,0 +1,37 @@
+trigedit 2549
+6  
+/c 
+* Lista comandi
+if %self.vnum% != 583
+halt
+end
+if %arg% == uovo
+if %rotto% == 1
+halt
+end
+set rotto 1
+global rotto
+oecho &6&xTANTI AUGURI DI BUONA PASQUA DA TUTTO LO STAFF DI DALILA2!&0
+wait 1 s
+oecho &1&xCOMPLIMENTI! HAI TROVATO UNA BELLISSIMA SORPRESA!&0
+eval sorpresa %random.4%
+switch %sorpresa%
+case 1
+oload obj 585
+break
+case 2
+oload obj 586
+break
+case 3
+oload obj 587
+break
+case 4
+oload obj 588
+break
+done
+otransform 584
+end
+~
+/s
+q
+y

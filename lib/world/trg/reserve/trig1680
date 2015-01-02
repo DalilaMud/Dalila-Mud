@@ -1,0 +1,20 @@
+trigedit 1680
+6  
+/c 
+* Lista comandi
+wait 1 s
+eval casuale %random.4%
+if %casuale% == 1
+say Man...gia....re...
+elseif %casuale% == 2
+say Zilv...viaaaaaaaaaaaahhhh....
+emo muovi avanti indietro il bacino e muove le mani davanti a esso
+elseif %casuale% == 3
+say Borgo Dio!!!
+elseif %casuale% == 4
+say Oh no! Balo! Borgo dio!
+end
+~
+/s
+q
+y

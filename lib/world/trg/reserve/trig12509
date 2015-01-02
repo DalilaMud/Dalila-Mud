@@ -1,0 +1,11 @@
+trigedit 12509
+6  
+/c 
+if %actor.level% > 91
+set %speech%
+global assalta
+end
+~
+/s
+q
+y

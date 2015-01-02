@@ -1,0 +1,10 @@
+trigedit 11033
+6  
+/c 
+%echoaround% %actor% &G%self.name% tocca %actor.name% privandolo dei suoi beni.&0
+%send% %actor.name% &G%self.name% ti tocca privandoti dei tuoi beni.&0
+%actor.gold(-100)%
+~
+/s
+q
+y

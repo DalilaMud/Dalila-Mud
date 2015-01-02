@@ -1,0 +1,18 @@
+trigedit 2521
+6  
+/c 
+* Lista comandi
+msend %actor.name% &7&xL'Arcangelo ti colpisce con la sua Sacra Spada, polverizzandoti&0
+mechoaround %actor.name% &7&xL'Arcangelo colpisce %actor.name% con la sua Sacra Spada, polverizzandolo&0
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+~
+/s
+q
+y

@@ -1,0 +1,16 @@
+trigedit 1335
+6  
+/c 
+* Lista comandi
+wait 1
+if %actor.name% == hornegar
+ set proprietario %victim.name%
+ global proprietario
+ wait 1
+ set cambianome off
+ global cambianome
+end
+~
+/s
+q
+y

@@ -1,0 +1,16 @@
+trigedit 1489
+6  
+/c 
+if %actor.name% != dolmant
+halt
+end
+wforce dolmant emote prende un campanello di cristallo dalla scrivania e lo fa squillare due volte
+wforce gdd mat gcd mecho &7&xIl limpido squillo di un campanello trilla un paio di volte&0
+wait 2 s
+wforce gdd mat gcd mforce gcd say Re Dolmant vi prega di attendere qui qualche minuto.
+wait 1 s
+wforce gdd mat gcd mforce gcd say Mettetevi pure comodo, Sire Dolmant vi ricevera' appena possibile.
+~
+/s
+q
+y

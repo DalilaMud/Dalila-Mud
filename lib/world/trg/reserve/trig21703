@@ -1,0 +1,17 @@
+trigedit 21703
+6  
+/c 
+if (%actor.clan% != 8)
+if (%actor.level% <= 70)
+if (%direction% == West)
+say Solo gli appartenenti al Regno di Sendaria possono entrare
+%echoaround% %actor% %actor.name% cerca di passare ma %self.name% lo blocca.
+%send% %actor% Cerchi di passare ma %self.name% ti blocca.
+return (0)
+end
+end
+end
+~
+/s
+q
+y

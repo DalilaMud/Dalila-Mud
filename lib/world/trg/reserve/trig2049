@@ -1,0 +1,15 @@
+trigedit 2049
+6  
+/c 
+if %give% == 1
+ halt
+end
+wait 1 s
+oecho &9&xLa Pietra della Vita essa si spegne diventando un volgare sasso.&0
+set give 1
+global give
+otransform 2056
+~
+/s
+q
+y

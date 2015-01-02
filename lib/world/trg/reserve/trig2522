@@ -1,0 +1,42 @@
+trigedit 2522
+6  
+/c 
+* Lista comandi
+if %actor.name% != alhandir
+halt
+end
+if %giustiziere% != 1
+wait 2
+msend %actor.name% &7&xPer fare giustizia... serve un Arcangelo...&0
+halt
+end
+if %arg.vnum% != -1
+wait 2
+msend %actor.name% Non puoi fare questo....
+halt
+end
+set giustiziere 0
+global giustiziere
+mecho &7&xLa stanza si colma della Luce e della Gloria di Silue...&0
+wait 2 s
+msend %actor.name% &7&xUn vento impetuoso ti spazza mentre con gli occhi della mente vedi l'Arcangelo scendere su %arg%&0 
+mat %arg% msend %arg% &7&xUna luce abbacinante ti acceca mentre un Arcangelo ti compare innanzi... ohi ohi&0
+mat %arg% mechoaround %arg% &7&xUna luce abbacinante ti acceca ed un Arcangelo compare&0
+mat %arg% mload mob 598
+wait 2 s
+mat asxv mforce asxv mgoto %arg%
+mat %arg% mforce asxv mkill %arg%
+wait 10 s
+mat asxv mforce asxv mgoto %arg%
+mat asxv mforce asxv kill %arg%
+wait 10 s
+mat asxv mforce asxv mgoto %arg%
+mat asxv mforce asxv kill %arg%
+wait 20 s
+mat asxv mecho &7&xL'Arcangelo scompare...&0
+mat asxv mforce asxv mgoto 28150
+mat asxv mforce asxv say purgami
+~
+/s
+q
+y

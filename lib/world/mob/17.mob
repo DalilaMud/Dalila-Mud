@@ -1,0 +1,2850 @@
+#1700
+questmob~
+il questmob~
+il questmob e' pronto.
+~
+It looks unfinished.
+~
+~
+~
+~
+16392 0 0 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+450 3d12+5
+23 0
+8 8 1
+Spec: 43
+E
+#1701
+secondo questmob~
+il secondo questmob~
+Il secondo questmob e' qui'.
+~
+It looks unfinished.
+~
+~
+~
+~
+16392 0 0 -1 -1 -1 -1 -1 E
+35 8 -2 1d1+525 3d13+6
+32 0
+8 8 1
+Spec: 43
+E
+#1702
+terzo questmob~
+il terzo questmob~
+Il terzo questmob e' qui'.
+~
+It looks unfinished.
+~
+~
+~
+~
+16392 0 0 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+600 4d9+7
+22 0
+8 8 1
+Spec: 43
+E
+#1703
+vampiro~
+Un vampiro e' qua a sentinella della grotta~
+Un vampiro e' qua a sentinella della grotta
+~
+Un potentissimo vampiro ti fissa... I suoi occhi rosso sangue incutono molto timore. I suoi canini sono pronti a morderti e a succhiarti tutto il sangue che hai in corpo.
+~
+~
+~
+~
+261642 2199090372608 -1000 -1 -1 -1 -1 -1 E
+65 -20 -10 1d1+900 1d1+20
+42 7000000
+8 8 1
+BareHandAttack: 8
+Str: 18
+Dex: 18
+E
+#1704
+grinder~
+Grinder~
+Grinder e' qua... ha un aria molto strana
+~
+GLI MANCA UN PEZZO DI COLLO!!!
+~
+~
+~
+~
+8 0 -10 -1 -1 -1 -1 -1 E
+65 15 10 0d30+700 1d1+10
+61 1000000000
+8 8 1
+Spec: 16
+E
+#1705
+bimbo adriel~
+Adriel~
+Adriel e' qui che ti fissa
+~
+Vedi un bimbo dai tratti molto dolci, ma che ti comunica una forte sensazione
+di forza interiore.  Dei lunghi capelli nerissimi gli avvolgono il viso e due
+splendidi occhi smeraldo ti fissano incuriositi...  Non hai mai visto un bimbo
+piu' bello
+~
+~
+~
+~
+24650 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+20 1d1+0
+0 0
+8 8 1
+E
+#1706
+vampiro~
+Un vampiro appena sveglio~
+Un vampiro appena sveglio
+~
+Sta ancora sbadigliando, sembra il momento adatto per attaccarlo...  E' molto
+distratto
+~
+~
+~
+~
+10 67117056 0 -1 -1 -1 -1 -1 E
+50 11 10 1d1+1000 1d1+9
+29 0
+8 8 0
+BareHandAttack: 8
+E
+#1707
+z~
+Il vampiro stregone~
+Il vampiro stregone e' qui che farfuglia formule magiche
+~
+Tipici lineamenti da Vampiro...  Solo una cosa ha di diverso...  E' meno
+robusto...  Ma ha un grande potere mistico...  Sembra molto potente
+~
+~
+~
+~
+188426 4398450221056 -1000 -1 -1 -1 -1 -1 E
+60 5 0 1d1+600 1d1+10
+46 2147483647
+8 8 0
+BareHandAttack: 8
+Spec: 21
+E
+#1708
+archeologo vecchio uomo kurrurkarmeluk~
+Kurrurkarmeluk l'archeologo Sendar~
+Un vecchio e gracile uomo ti guarda dietro degli spessi occhiali.
+~
+Questo gracile ed anziano uomo e' senza dubbio Kurrurkarmeluk, l'Archeologo di
+Corte Sendar.  Ti fissa con vispi occhietti bruni coperti da spesse lenti
+d'occhiale.  La vita totalmente dedicata allo studio gli ha impedito di
+acquisire un fisico prestante ma sicuramente gli ha donato un immenso sapere
+nella sua materia.  Di elevata altezza, e' vestito con una lunga tunica
+marrone, sobriamente decorata dal simbolo del Casato Sendariano e dotata di
+numerose tasche rigonfie.    
+~
+~
+~
+~
+40970 1064 50 -1 -1 -1 1869514172 -1 E
+1 20 10 1d1+0 1d1+0
+0 1
+8 8 1
+E
+#1709
+Istvan~
+Istvan il Tagliateste~
+Istvan il vecchio tagliateste
+~
+Un vecchio uomo barbuto.. veste di soli stracci insanguinati..
+Una collana di teschi rilegati con una corda arriva fino alla cintura.
+~
+~
+~
+~
+10 0 -1000 -1 -1 -1 1869522374 -1 E
+40 5 5 0d0+300 3d20+5
+24 20000
+8 8 1
+Str: 19
+Con: 16
+Cha: 6
+E
+#1710
+Aiutante~
+L'aiutante dell'Oste~
+L'aiutante dell'Oste..un piccolo mezzelfo molto triste.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 1869522374 8 E
+10 20 10 1d1+300 1d1+0
+9 0
+8 8 1
+E
+#1711
+Mago Oscuro Shazen~
+&1Shazen il Mago Oscuro&0~
+Shazen il Mago oscuro dagli occhi infuocati..
+~
+Avvolto in un lungo mantello nero non riesci bene a vedere il viso del Mago.
+Nonostante tu non veda il suo viso capisci benissimo che ti sta guardando.
+Un lungo bastone di legno nero nella sua mano destra ha incastonata una strana pietra verde.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#1712
+Larik templare lamorka tempio guardia~
+Larik il GranTemplare di Lamorka~
+Larik il GranTemplare e' qua alla ricerca della sacra pozione..
+~
+Molto alto, vestito di una lunga veste argentata dei Templari Sendariani
+~
+~
+~
+~
+65544 134217728 0 -1 -1 -1 1869522374 8 E
+50 5 20 1d1+900 9d30+15
+32 9000
+8 8 0
+Str: 18
+StrAdd: 39
+Dex: 18
+Con: 19
+Spec: 18
+E
+#1713
+necromante rankal~
+Rankal il Necromante.~
+Rankal,il potente Necromante sta dedicendo quale sara' la sua prossima vittima..
+~
+Rankal e' un Necromante molto potente.
+E' alto ed avvolto in un lungo mantello nero che lo avvolge completamente.
+Ti guarda con aria minacciosa.
+~
+~
+~
+~
+10 1048704 0 -1 -1 -1 1869522374 -1 E
+60 0 10 1d1+1100 9d20+30
+38 300000
+8 8 0
+E
+#1714
+GranTemplare Bach~
+Bach il GranTemplare di Deira.~
+Bach il GranTemplare di Deira e' qua pensante..
+~
+Bach e' un uomo ormai di eta' avanzata.. vestito di una lunga tunica bianca con sopra il segno dei Templari Aldariani..
+Il suo viso e' segnato dal tempo e dai lunghissimi anni di studio delle tecniche curative.
+Il tempo lo ha reso molto debole ma nonostante questo e' sempre ben lucido di mente...
+~
+~
+~
+~
+10 2199292739712 0 -1 -1 -1 -1 -1 E
+40 15 20 1d1+200 10d5+30
+25 0
+8 8 1
+BareHandAttack: 3
+E
+#1722
+elementale acqua~
+&6Un Elementale D'Acqua.&0~
+&6Un Elementale D'Acqua ti si avvicina lentamente..&0
+~
+It looks unfinished.
+Composto interamente d'Acqua, unita da una insolita forza.
+Mutaforme e semi-Trasparente, questo Elementale d'Acqua, ha avuto origine dai piu' profondi abissi..
+Di energia pura ed Acqua,sembra essere invulnerabile.
+~
+~
+~
+~
+10 2199023256640 0 -1 -1 -1 -1 -1 E
+40 -10 0 1d1+800 10d10+0
+38 50000
+8 8 0
+E
+#1723
+antico elementale guardiano~
+&6L'Antico Elementale Guardiano&0~
+Composto interamente d'acqua... l'antico elementale.. sta proteggendo il tempio dagli inattesi...
+~
+Composto d'acqua.. un grande elementale... molto piu' grande degli altri... si muove lentamente verso di te..
+protegge il tempio dalle persone che entrano senza il permesso di Aquiras...
+~
+~
+~
+~
+11 0 0 -1 -1 -1 -1 -1 E
+80 0 -7 1d9+1201 5d1+15
+41 25000
+8 8 0
+Spec: 15
+E
+#1724
+elementale guardiano~
+&6L'Elementale Guardiano&0~
+Composto interamente d'acqua... l'antico elementale Guardiano.. sta proteggendo il tempio dagli inattesi...
+~
+Composto d'acqua.. un grande elementale... molto piu' grande degli altri... si muove lentamente verso di te..
+protegge il tempio dalle persone che entrano senza il permesso di Aquiras...
+~
+~
+~
+~
+65546 0 0 -1 -1 -1 -1 -1 E
+70 -10 0 1d1+3000 8d5+7
+47 1
+8 8 0
+E
+#1725
+aquiras signore oceani~
+&2&dAquiras il Signore degli Oceani&0~
+&5&xAquiras... Il Signore Degli Oceani e' qua davanti a te.
+~
+&1&xUn Terribile Demone di &7Ghiaccio&1&x si trova davanti ai tuoi occhi....&0
+&1&xDalle forme demoniache... &5&xAquiras e' il Signore degli Oceani.....&0
+&1&xCreato dall'unione dei due vortici che generarono i profondi &4abissi&1&x dell'Est...&0
+&1&xAlcune scariche di &0&3Elettricita'&0&1&x pervadono il suo corpo costituito di Antico Ghiaccio.&0
+&1&xTremano le terre... e imburrascano i mari... sotto il suo Dominio.&0
+~
+~
+~
+~
+65546 128 0 -1 -1 -1 -1 -1 E
+100 -10 0 0d1+3500 9d9+10
+81 0
+8 8 0
+E
+#1726
+drago nero~
+&9Un Drago Nero&0~
+&9Un Terribile Drago Nero e' qua,spalanca le sue enormi ali ed osserva la tua prossima mossa.....&0
+~
+Un Drago Nero.. Dalle dimensioni mastodontiche si trova davanti ai tuoi occhi...
+Spaventoso... dalle enormi ali oscure... e' fermo e pensa intensamente...
+Nelle molte ere molti sono stati i suoi nemici...
+Ma nella sua Basilica nella Fossa del Buio .,.. tra le colonne di marmo scuro risiede da secoli.. 
+E nessuno puo' turbarlo... e' al di sopra delle vite e delle forze umane.
+~
+~
+~
+~
+576460752353755658 68158472 -1000 -1 -1 -1 -1 -1 E
+70 -15 -4 1d1+600 13d15+35
+41 0
+8 8 0
+E
+#1727
+carovana vecchia cavalli~
+Una vecchia carrozza in legno di quercia..~
+Una Vecchia Carovana con quattro Cavalli neri..... 
+~
+Una vecchia carrozza fatta intermanete in quercia...
+Quattro cavalli sono agganciati ad essa....
+L'interno della carrozza sembra essere molto accogliente mentre il posto per il cocchiere all'esterno
+sembra essere leggermente protetto dalla pioggia da un piccolo tetto in legno sopra la testa
+Una piccola lanterna accesa pende dal tettuccio del cocchiere ed illumina la strada...
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+20 20 -2 1d1+3000 1d1+0
+19 2000
+8 8 0
+E
+#1728
+vecchio uomo~
+Il Vecchio padrone del Circo~
+Un vecchio uomo con la folta barba e un grande cappello azzurro sulla testa.,..
+~
+Un vecchietto magro e piuttosto basso si aggira con aria stravagante..
+Una folta barba bianca gli esce da quel viso nascosto da un grande cappello Azzurro a sombrero.
+Veste di una giacca blu... e tiene un piccolo bastone in mano...
+Si guarda in giro sorridendo...
+~
+~
+~
+~
+10 2199023387656 0 -1 -1 -1 -1 -1 E
+40 -10 6 1d1+400 3d3+5
+21 20000
+8 8 1
+E
+#1729
+vecchio mercante~
+&3Un vecchio mercante dell'est.&0~
+&3Un vecchio mercante dell'est e' qua coperto dalle morbile sete...&0
+~
+Un vecchio mercante..  esile e di media statura... sembra provenire dal lontano est.
+Veste di preziose sete..un abito tipico delle foreste dell'est... umide e calde.
+Una lunga scimitarra e' fissata alla cintura.. e sembra non essere usata da molto tempo..
+Ha un cappello da viaggiatore.. verde.. con sopra uno strano stemma.. sconosciuto..
+~
+~
+~
+~
+10 403702912 0 -1 -1 -1 -1 -1 E
+50 10 10 1d1+300 1d1+10
+39 0
+8 8 1
+E
+#1730
+anziano barbone~
+anziano barbone~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 20d1+0
+0 0
+8 8 0
+E
+#1731
+spada danzante~
+&7Una Spada Danzante&0~
+&7Una Mistica Spada Danzante volteggia a pochi metri da terra....&0
+~
+&7Scintillante ed abbagliante, si muove con la forza del pensiero&0
+&7I riflessi della sua lunga lama abbagliano... si muove con la sola forza del Pensiero...&0
+~
+~
+~
+~
+576460752303505418 549833408512 0 -1 -1 -1 1869522374 -1 E
+10 10 -10 1d1+20 7d4+15
+8 0
+8 8 0
+BareHandAttack: 3
+E
+#1732
+tank~
+QUESTO E' UN ENORME TANK!~
+IL MAESTOSO TANK E' QUI!
+~
+CHE GUARDI!?!?
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+30000 1d1+0
+72 0
+8 8 0
+E
+#1733
+solar celestiale~
+&7Il Solar&0~
+&7Il Solar.. il piu' potente di tutti i Celestiali.. &0
+~
+Un maestoso Celestiale si trova davanti ai tuoi occhi....
+Molto alto.. circa 2,7 metri... con occhi color topazio e pelle argentata....
+Imponente osserva ogni tuo movimento...pronto a spalancare le proprie ali.
+Una forte energia pervade il suo corpo.. probabilmente di origine Divina..
+Ha una grande spada affilata a due mani.. che e' pervasa.. 
+per tutta la lama... da piccole scariche elettriche.
+~
+~
+~
+~
+537124874 6597544776872 1000 -1 -1 -1 -1 -1 E
+90 -30 -10 1d1+30000 30d127+50
+76 20000
+8 8 0
+E
+#1741
+ombra cacciatore~
+L'Ombra del Cacciatore~
+L'Ombra del Cacciatore Leggendario e' qua...
+~
+Riesci a distinguere solo la sagoma di un potente Cacciatore
+~
+~
+~
+~
+536871178 2199023390722 1000 -1 -1 -1 -1 -1 E
+60 -8 -10 1d1+800 10d12+40
+50 0
+8 8 0
+E
+#1742
+cinghiale leggendario~
+Il Leggendario Cinghiale~
+Il Terribile Cinghiale Leggendario e' qua...
+~
+Sei davanti ad un cinghiale di proporzioni mastodontiche..
+Si  muove velocemente in cerca di qualche preda... meglio non trovarsi troppo vicini..
+~
+~
+~
+~
+17182254856 0 -1000 -1 -1 -1 -1 -1 E
+68 3 -1 1d1+2000 10d11+40
+60 0
+8 8 1
+BareHandAttack: 9
+E
+#1743
+mastino infernale~
+&1Un Enorme Mastino Infernale&0~
+&1Un Enorme Mastino Infernale&0 si muove velocemente in cerca di qualche preda...
+~
+Dal lungo pelo rosso sangue,e dagli occhi risplendenti di una intensa fiamma ardente...
+Questo enorme mastino sembra avere sembianze infernali...
+E' possente ma la sua potenza non ha sacrificato l'agilita' del suo corpo che rimane una perfetta macchina da guerra.
+~
+~
+~
+~
+522 0 0 -1 -1 -1 -1 -1 E
+40 0 4 1d1+500 9d10+27
+24 0
+8 8 1
+E
+#1744
+Ganrash~
+&3Ganrash il mercante dell'est.&0~
+Ganrash un vecchio mercante dell'est e' qui che scrive...
+~
+Abbastanza alto,con capelli bianchi e viso segnato dagli anni...
+E' un mezzelfo che dopo aver girato per molto tempo la daresia ha deciso di soggiornare a Lamorka..
+Ti guarda sorridendo, mentre continua a scrivere sopra di una vecchia pergamena...
+Veste di una lunga tunica verde e bianca, un mistico medaglione gli scende fino alla cintura.
+~
+~
+~
+~
+1811939338 128 0 -1 -1 -1 -1 8 E
+90 -10 -10 1d1+30000 10d5+20
+76 0
+8 8 1
+Int: 18
+Wis: 17
+Con: 15
+Spec: 0
+E
+#1745
+antico beholder~
+&4L'Antico Beholder&0~
+&4L'Antico Beholder&0 e' sospeso qua a pochi metri da terra....
+~
+It looks unfinished.
+~
+~
+~
+~
+523 2474120324254 -400 -1 -1 -1 -1 -1 E
+60 -1 10 1d1+600 5d7+10
+37 0
+8 8 0
+Spec: 15
+E
+#1746
+trapattoni coach~
+Il trap~
+&2TRAPATTONI,il &7Coach della &1invicibile Italia&0
+~
+Munito di acquasanta e sorrisino sarcastico ti mira mentre calcia una bottiglietta d'acqua...
+Oh no... il lampo di genio... sorride ampiamente,gli scintillano gli occhi..... sta per sostituire Cassano
+E perche no.... magari dopo toglie buffon e mette in porta panucci..
+
+Non dire gatto se non ce l'hai nel sacco...
+
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+90 18 10 1d1+30000 1d1+50
+78 0
+8 8 1
+E
+#1747
+potente guardiano~
+Un potente guardiano~
+Un Potente guardiano e' qua che tiene al sicuro il magazzino.
+~
+It looks unfinished.
+~
+~
+~
+~
+65578 0 -1000 -1 -1 -1 -1 -1 E
+75 -20 10 1d1+3000 20d10+5
+64 0
+8 8 0
+E
+#1748
+Xari'an~
+Xari'an~
+Xari'an,il potente,segue la battaglia con ferocia e maestria...
+~
+Un elfo alto e abbastanza magro che si muove con riflessi fulminei...
+Il suo viso che non mostra segni di vecchiaia ma e'segnato delle molte battaglie 
+combattute nelle lontane terre dell'est.
+Veste di una corazza a bande,rinforzata sui fianchi,e porta una spada lunga apparentemente
+leggera attaccata alla cintura in pelle nera.
+Ti fissa attentamente e sogghigna mentre pensa allo sviluppo di questo incontro.
+~
+~
+~
+~
+10 0 -700 -1 -1 -1 -1 -1 E
+45 4 -4 1d1+900 10d9+15
+26 0
+8 8 1
+E
+#1749
+Graan Luogotenente.~
+Graan Il Luogotenente.~
+Graan Il Luogotenente ti carica poderosamente....
+~
+Molto alto e muscoloso questo orco affila la sua doppia ascia orchesca con maestria.
+Veramente spaventoso,possente nei movimenti e' vestito di una solida armatura completa.
+Barbaro e potente e' sicuramente uno dei piu' abili combattenti e sul braccio porta
+il simbolo della mano nera,simbolo di fedelta' a Xari'an.
+Una grande cicatrice e' in parte coperta dall'elmo ma probabilmente gli percorre tutto
+il cranio e la fronte.
+~
+~
+~
+~
+42 0 -300 -1 -1 -1 -1 -1 E
+40 5 -3 1d1+780 3d10+15
+40 0
+8 8 1
+E
+#1750
+Karu'lk Comandante.~
+Karu'lk Il Comandante.~
+Karu'lk Il Comandante e' qua fiero e pronto alla battaglia...
+~
+La statura di questo coboldo sicuramente inganna,nell'apparenza, non rivelando le sue reali
+capacita' combattive.
+Veste di una mezza armatura a scaglie, leggera e poco ingonbrante per potersi muovere
+agilmente.Impugna due scimitarre ben affilate, le quali lame sono incise da rune lucenti.
+Porta un piccolo elmo dal quale scendono tre lunghe treccie dei suoi scurissimi capelli ed un
+piccolo bracciale solo sul braccio sinistro, grigio con riflessi verdi.
+~
+~
+~
+~
+42 0 -900 -1 -1 -1 -1 -1 E
+35 9 -2 1d1+530 3d10+7
+22 0
+8 8 1
+E
+#1751
+Soldato Mano Nera~
+Soldato della Mano Nera~
+Un Soldato della Mano Nera si avventa su di te con la sua scimitarra...
+~
+Molto agile, questo elfo corrotto e' vestito, come il resto del suo contingente di una
+armatura di pelle nera con delle piastre sulle parti vitali.
+Si muove con molta destrezza correndo mentre maneggia una grossa scimitarra con entrambe le mani.
+Il viso e' parzialmente oscurato da un piccolo elmo ma nei suoi occhi puoi ben distinguere
+tutta la ferocia con la quale si sta impegnando nella battaglia.
+~
+~
+~
+~
+42 0 -600 -1 -1 -1 -1 -1 E
+30 10 -2 1d1+450 5d5+5
+22 0
+8 8 1
+E
+#1752
+Elite Mano Nera~
+Elite della Mano Nera~
+Una Elite della Mano Nera si dirige velocemente verso la sua prossima vittima...
+~
+Questi combattenti sono l'elite dell'esercito della Mano Nera.
+A differenza degli altri soldati, questi elfi corrotti sono molto piu' robusti e sono ben protetti da
+una armatura di piastre nera.Un amuleto scende dal collo mostrando i simboli della sua armata.
+Impugna con una mano,una spada lunga molto ben affilata, con l'altra una spada corta per infliggere i colpi di grazia.
+~
+~
+~
+~
+42 0 -600 -1 -1 -1 -1 -1 E
+32 9 10 1d1+520 5d6+6
+21 0
+8 8 1
+E
+#1753
+Guardia Real Armata~
+Guardia della Real Armata~
+Una Guardia della Real Armata e' qua in attesa di ordini.
+~
+Un uomo alto e fiero, aspetta gli ordini in posizione...
+Ha uno sguardo profondo e pieno di coraggio nascosto in parte dal pesante elmo di bronzo.
+Indossa una armatura leggera a scaglie e impugna una lunga spada di ferro.
+~
+~
+~
+~
+2199023255562 2097152 600 -1 -1 -1 1869516649 -1 E
+38 7 -2 1d1+550 7d9+8
+33 0
+8 8 1
+E
+#1754
+Picchiere~
+Picchiere della Real Armata~
+Un Picchiere della Real Armata si concentra in silenzio...
+~
+Un elfo alto e molto agile indossa una armatura completa di ferro lucente con delle placche d'argento.
+Impugna una spada lunga d'argento con la destra e brandisce uno scudo con l'altra mano.
+Lo stemma della Real Armata e' stato disegnato con maestria sullo scudo.
+~
+~
+~
+~
+2199023259658 2097152 600 -1 -1 -1 1869516649 -1 E
+43 5 -2 1d1+780 7d7+9
+31 0
+8 8 1
+E
+#1755
+Guardia Corazzata~
+Guardia Corazzata della Real Armata ~
+Una Guardia Corazzata della Real Armata sta affilando le sue armi...
+~
+Questo nano dalla lunga e folta barba si prepara alla battaglia affilando le sue due ascie naniche...
+Dall'elmo scendono le treccie della sua barba che si posano sulla pesante armatura di ferro lucente.
+Sulla spalla destra ha posizionato un piccolo scudo d'argento.
+~
+~
+~
+~
+2199023255562 2097152 600 -1 -1 -1 1869516649 -1 E
+24 12 1 1d1+300 7d9+4
+17 0
+8 8 1
+E
+#1756
+Leith Ler Dur~
+Leith Ler Dur~
+Leith Ler Dur Il Generale della Real Armata sta disponendo le truppe...
+~
+Un uomo alto e robusto nonostante l'eta' avanzata,ha una folta barba bianca che scende dal suo elmo D'argento.
+Indossa una pesante armatura Completa d'argento ed impugna una splendida spada a due mani con delle rune verdi sulla lama.
+Dietro le spalle ha un arco composito e dispone le truppe con la maestria data dalla grande esperienza acquisita 
+nelle battaglie combattute oltre il mare.
+~
+~
+~
+~
+2199023255562 2097152 800 -1 -1 -1 1869516649 -1 E
+47 4 -4 1d1+900 10d5+17
+34 0
+8 8 1
+E
+#1757
+Thaor'dum~
+Thaor'dum~
+Thaor'dum Il Luogotenente affianca Leith Ler Dur nel gestire l'armata.
+~
+Un elfo di straordinaria bellezza, vestito con un armatura a scaglie d'argento, ha un pugnale d'adamantio
+appeso alla cintura di cuoio.Si muove elegante tra le truppe organizzandole secondo i piani del Generale.
+Controlla l'avamposto e gestisce la produzione di armi e armature per le guardie.
+~
+~
+~
+~
+2199023255562 2097152 600 -1 -1 -1 1869516649 -1 E
+40 4 -3 1d1+800 10d5+17
+32 0
+8 8 1
+E
+#1759
+falco oscuro~
+L'Oscuro Falco di Plasmon~
+Il falco oscuro di Plasmon si e' posato qua su un albero e guarda verso di te..
+~
+Un falco dalle penne grigie striate di nero....
+Ha gli occhi infuocati e ti guarda attentamente...
+La leggenda narra che la sua presenza sia simbolo di avventura dolore e sanguinose battaglie...
+Lo spirito di Plasmon si aggira in questi luoghi...
+~
+~
+~
+~
+17717338124 68157440 -700 -1 -1 -1 1869522374 -1 E
+50 20 -2 1d1+400 20d3+0
+28 0
+8 8 2
+E
+#1760
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+1 0
+8 8 0
+E
+#1798
+cavaliere ferito~
+Il Cavaliere ferito a morte.~
+Un vecchio cavaliere e' qua in terra ferito a morte in una pozza di sangue...
+~
+La sua vecchia armatura testimonia la presenza del cavaliere in molte battaglie.
+L'elmo, sottratto al resto della corazza lascia scoperto il vecchio viso sofferente del cavaliere.
+Riesce ancora a parlare,ma ogni movimento li toglie nettamente il respiro.
+I suoi occhi, coperti parzialmente dai lunghi capelli bianchi sono stranamente viola.
+~
+~
+~
+~
+10 4611686018427390477 300 -1 -1 -1 -1 -1 E
+30 10 -1 1d1+300 10d3+5
+26 0
+8 8 1
+E
+#1799
+vacanza~
+Plasmon in vacanza~
+Plasmon e' in vacanza e rientrera' il 26/07/04... buone vacanze a tutti!
+~
+It looks unfinished.
+~
+~
+~
+~
+10 2 0 -1 -1 -1 -1 -1 E
+70 -30 1 1d1+30000 30d127+50
+55 0
+8 8 1
+E
+#1800
+03930~
+L'esecutore di Faymond~
+Il mortale esecutore di Faymond e' qui per terminare la tua esistenza!
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+3000 1d1+0
+0 0
+8 8 1
+E
+#1801
+orco sentinella~
+Una sentinella orchesca~
+Una sentinella orchesca gira goffamente per la sala , cercando intrusi
+~
+L'orco si accorge subito della tua presenza e corre goffamente verso di te brandendo un ' alabarda.
+~
+~
+~
+~
+36028797018970158 274878170152 300 -1 -1 -1 -1 -1 E
+45 5 -7 30d40+50 2d5+10
+34 0
+8 8 1
+Con: 16
+E
+#1802
+falegname orco~
+Un orco falegname~
+Un orco e' intento a tagliare le radici dell'albero con la sua lunga e resistente sega.
+~
+Quest'orco sembra piu' tozzo e goffo degli altri , gira per il buio tunnel cercando radici da tagliare con la sua sega.
+~
+~
+~
+~
+136 1024 300 -1 -1 -1 -1 -1 E
+42 6 -5 15d70+50 3d9+8
+39 0
+8 8 0
+Con: 16
+E
+#1803
+ladeon uomo scrittore~
+lo spettro di Ladeon~
+Ladeon dei sogni ti osserva con occhi di cristallo...
+~
+Ha lunghi capelli neri e cresposi che scendono a boccoli sulla schiena robusta,
+e' vestito di pelle e porta un buffo cappello triangolare...  Dietro a piccoli
+occhiali d'avorio da intellettuale brillano enormi occhi verdi carichi di
+saggezza, che sembrano produrre sogni quando volgono alle profondita' del
+cielo.    
+~
+~
+~
+~
+122890 0 0 -1 -1 -1 -1 -1 E
+10 20 5 1d1+201 1d10+10
+6 0
+8 8 1
+E
+#1804
+ladeon drago cristallo~
+Ladeon, il drago di cristallo~
+Uno splendido drago dalla pelle di cristallo ti osserva con enormi occhi trasparenti.
+~
+E' indubbiamente una creatura fantastica.  Il corpo, proporzionato e
+affusolato, termina con una coda lunga piu' di tre metri.  E' piu' piccolo di
+altri draghi ma le sue scaglie di cristallo, trasparenti e purissime, sono
+incredibilmente belle, uniche.  Sembra che i tuoi occhi si riflettano su di
+esse come raggi di sole.    
+~
+~
+~
+~
+27 0 100 -1 -1 -1 -1 -1 E
+70 -8 -10 1d1+1000 2d18+20
+51 0
+8 8 1
+BareHandAttack: 8
+Str: 20
+Dex: 22
+Int: 19
+Wis: 18
+Con: 20
+Cha: 20
+E
+#1805
+pecora orome erminia~
+Erminia, la pecora di Orome~
+Una robusta pecora bruca pacificamente l'erba
+~
+E' grande, muscolosa e piena di lana.. mangia con vigore e non si sposta mai senza il suo padrone Orome.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 1869507099 -1 E
+5 20 10 1d7+140 1d8+0
+4 0
+8 8 2
+BareHandAttack: 4
+E
+#1806
+orco assassino~
+&9&xUn orco assassino&0~
+Una scura figura si nasconde fra le ombre della caverna ... due pugnali brillano per un istante...
+~
+Capisci subito che quei due pugnali che brillano nel buio sono rivolti verso la tua schiena....
+~
+~
+~
+~
+4138 819240 300 -1 -1 -1 -1 -1 E
+40 4 10 10d70+35 4d10+7
+35 0
+8 8 0
+BareHandAttack: 14
+E
+#1810
+ladro drago ~
+Un ombra .~
+Una nera figura , si staglia innanzi al tuo sguardo ... per pochi letali istanti .
+~
+Ti accorgi che innanzi a te passa rapidamente un ladro rapido e scaltro ... ma subito due affilati pugnali distraggono la tua attenzione .
+~
+~
+~
+~
+36028799703539850 4673127362728 0 -1 -1 -1 1869515136 -1 E
+65 5 -3 30d100+70 5d20+30
+48 0
+8 8 1
+BareHandAttack: 14
+Str: 18
+StrAdd: 30
+Dex: 18
+Spec: 14
+E
+#1811
+mellian elfa donna~
+Mellian dalla candida aurea~
+Un'esile e fuggevole figura femminile attrae il tuo sguardo
+~
+&7 Chiocche dorate si rincorrono sul volto in strani giochi d'ombra e luce
+Lineamenti sottili ed armonici incorniciano un rincuorante sorriso 
+delle piccole e graziose orecchie a punta denotano la provenienza di questa splendida ragazza
+... che ti guarda e si distende in un profondo sorriso ....
+... senti che nel tuo animo non c'e' piu' spazio per angustia e tristezza....
+~
+~
+~
+~
+36028797019217930 2199023255720 100 -1 -1 -1 1869515136 -1 E
+70 -30 10 30d500+200 30d100+50
+42 0
+8 8 2
+BareHandAttack: 9
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 18
+E
+#1812
+Imryl~
+Imryl ~
+Un alta figura ti si staglia innanzi , &1&xrossi occhi di fuoco&0&3 brillano sotto un lungo &5mantello&0  
+~
+&0Riesci appena a vedere sotto il &5mantello&0 gli esili ed armonici linemaenti del suo volto. 
+Ma subito il cappuccio scende piu' in basso ed il volto ricade nel buio ....
+ti sembra che gli occhi &1&xbrillino&0 per un attimo ...
+~
+~
+~
+~
+253962 2199627399228 300 -1 -1 -1 1869515136 -1 E
+70 -30 -4 30d100+1000 30d50+50
+40 5
+8 8 1
+BareHandAttack: 14
+Str: 18
+StrAdd: 50
+Dex: 18
+Con: 18
+E
+#1813
+donna mellian2 melnas~
+Una donna avvolta in un lungo abito scuro. ~
+Una donna avvolta in un lungo abito scuro si guarda in giro sorpresa
+~
+Un lungo abito scuro cinge impenetrabilemnte il volto di quella che ti sembra essere
+una donna . Cerchi di scorgere i lineamenti del volto ma non vedi nulla se non l'oscurita'.
+La donna sembra infastidita dal tuo sguardo e si allontana timidamente da te.
+~
+~
+~
+~
+254090 0 0 -1 -1 -1 1869515136 -1 E
+69 -15 -3 1d1+1800 15d20+30
+57 0
+8 8 0
+Str: 18
+StrAdd: 30
+Dex: 18
+E
+#1814
+araldo est Ghilbert elfo~
+Ghilbert , l'araldo di Re Mitlyn~
+Un elfo in alta uniforme gira il capo a destra e sinistra in cerca di informazioni.
+~
+Un uomo dal volto mite e saggio che spunta da sotto un cappello ricco di piume.
+Una veste finemente lavorata lo ricopre dandogli un aspetto fiero e solenne
+In mano noti un lungo papiro arrotolato che sembra custodire gelosamente.
+~
+~
+~
+~
+36028797019217930 60 0 -1 -1 -1 1869515136 -1 E
+50 0 0 30d100+250 5d9+30
+26 0
+8 8 1
+E
+#1815
+prova~
+un cervo~
+un cervo gira nel prato
+~
+un piccolo cervo corre felice per il prato..
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+9 20 10 1d1+0 1d1+0
+7 500000
+8 8 0
+E
+#1830
+drago~
+Adethelh il mezzo drago~
+Un drago dalle scurissime scaglie ti osserva con occhi di ghiaccio!
+~
+Una spaventosa e rarissima creatura, questo mezzo drago si regge su due delle
+grosse zampe come qualsiasi creatura umanoide e le sue muscolose braccia
+coperte di scaglie sono strette sul suo petto.  Due piccole corna emergono
+dietro le orecchie incavate, mentre rossi occhi privi di pupille bruciano
+tristi volgendo verso di te.    
+~
+~
+~
+~
+587259912 6597073962024 4 -1 -1 -1 -1 -1 E
+56 5 -10 1d1+556 3d8+16
+35 0
+8 8 1
+BareHandAttack: 8
+E
+#1835
+pedone infuriato~
+Il pedone infuriato~
+Un pedone grosso e robusto sembra arrabbiatissimo!
+~
+E' un pedone della scacchiera, simile agli altri della corte nera, ma molto
+piu' grosso e con una lunga barba nera che ricade sulle vesti scure.  Sembra
+terribilmente arrabbiato, e potrebbe diventare pericoloso con quella grande
+spada nera.    
+~
+~
+~
+~
+8 0 -5 -1 -1 -1 -1 -1 E
+20 12 10 1d1+290 1d12+10
+11 0
+8 8 1
+E
+#1840
+viviana cuoca~
+Viviana la cuoca~
+Viviana la cuoca sta sfornando uno dei suoi manicaretti!!!
+~
+Paffuta e dall'aspetto dolce, Viviana sforna senza sosta i prodotti tipici del
+suo paese dal forno del suo nuovo negozio.  Le sue mani esperte sembrano dare
+un tocco speciale di sapore alle sue specialita', che serve velocemente ai
+numerosi avventori.    
+~
+~
+~
+~
+612489549322641434 0 0 -1 -1 -1 -1 -1 E
+90 0 -10 10d10+10000 10d10+30
+67 0
+8 8 2
+E
+T 6698
+#1850
+dohan mercenario faina~
+Dohan "faina" Gwynfeet~
+Dohan il mercenario ti osserva con un ghigno beffardo
+~
+It looks unfinished.
+~
+~
+~
+~
+253961 0 -40 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+5000 1d30+30
+60 0
+8 8 1
+BareHandAttack: 3
+E
+#1855
+spirito Lyer~
+Lo Spirito di Lyer~
+Uno spirito guerriero ti osserva con occhi carichi di forza e saggezza
+~
+Lo osservi...  Lo ascolti pronunciare un saluto.  E lo riconosci.  Lo spirito
+di Lyer, grande guerriero del passato sembra portare nei suoi occhi la sua
+lunga, controversa storia.  Ti osserva in silenzio appoggiato ad un
+pesantissimo, etereo spadone e torna immediatamente ad osservare l'orizzonte
+lontano, e con passo spettrale scivola nell'aria allontanandosi.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+5 1d1+0
+3 0
+8 8 1
+E
+#1856
+silmaril cavallo~
+&1Silmaril&3 il cavallo&0~
+Un muscoloso cavallo dal volto simpatico scalpita felice
+~
+Silmaril, cavallo di Alamir, e' una bestia cordiale ma coraggiosa. Alto e
+imponente, sembra carico di vita e davvero affezionato al suo padrone, che ha
+seguito oltre la morte e che per sempre seguira'.    
+~
+~
+~
+~
+4503600172646410 0 100 -1 -1 -1 -1 -1 E
+55 20 -2 1d1+900 1d10+10
+54 0
+8 8 1
+E
+#1860
+angelo arethel~
+l'&7Angelo &6Vendicatore&0~
+Una figura dalle immense ali dorate ti lascia a bocca spalancata dalla meraviglia!!
+~
+Un angelo..  Qualcuno ha detto che sono storie?  Osservarlo ti rende quasi
+beatamente sereno, quando un brivido di timore ti scorre lungo la schiena.  Un
+angelo..  Stringe una spada di fuoco e luce e i suoi occhi sono di fiamme.  
+No..  Non puoi fare a meno di sentirti piccolo e impaurito..    
+~
+~
+~
+~
+2199023345674 6597137929448 0 -1 -1 -1 -1 -1 E
+75 -30 -10 1d1+4000 20d20+50
+65 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#1861
+piggy maialina maiale~
+la maialina~
+Piggy, la maialina di Salome, zoppica alla ricerca di qualcosa di commestibile
+~
+E' un maialino panzottoso, dalla pelle liscia e dallo sguardo innocente.  Ma
+non ti inganna, sai benissimo che e' pronto a scattare su qualsiasi tipo di
+genere alimentare...  O in braccio alla sua padroncina preferita, Salome.    
+Noti che ha perso una zampa, un taglio netto, ma questo non la priva della sua vivacita'.
+~
+~
+~
+~
+10 2097152 200 -1 -1 -1 -1 -1 E
+6 17 7 1d1+100 1d3+3
+6 0
+8 8 1
+BareHandAttack: 4
+E
+#1862
+augusto uomo brutto porcaro~
+Augusto il porcaro~
+Un uomo grasso e brutto tenta di venderti i suoi maiali!
+~
+E' sporco e brutto, in fondo si occupa di allevamenti di suini!!
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+30 20 10 1d1+200 1d1+0
+24 0
+8 8 1
+E
+#1866
+individuo astrologo~
+L'Astrologo~
+Uno strambo individuo si crogiola con assurdi marchingegni...
+~
+Un uomo non troppo alto, smilzo e con pochi capelli in testa ha la mano ferma e
+una cintura piena di atrezzi vari...  Questo piccolo uomo si narra sia il
+miglior astronomo della daresia e il piu' abile costruttore di telescopi
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+20 13 10 1d1+200 1d20+5
+11 0
+8 8 1
+Str: 25
+Dex: 25
+E
+#1867
+ufficiale rotta~
+Un ufficiale~
+Un ufficiale di rotta controlla distrattamente il timone.
+~
+Il giovane graduato e' addetto a un compito assai delicato: il controllo del
+timone.  Indossa un'uniforme leggermente consunta, le mostrine indicano la sua
+posizione nella gerarchia della nave e dei comodi pantaloni di stoffa blu
+coprono in parte i suoi robusti stivali di cuoio.  Ha il viso molto abbronzato,
+in piu' parti bruciato dal sole, come chi ha viaggiato a lungo per mare...  
+Dei corti capelli neri incorniciano un paio d'occhi scuri infossati che si
+protendono in avanti, a scrutare l'orizzonte~
+~
+~
+~
+10 0 -100 -1 -1 -1 -1 -1 E
+50 0 -5 1d1+700 2d20+3
+40 0
+8 8 0
+BareHandAttack: 3
+E
+#1868
+nostromo atahi~
+Atahi il Nostromo~
+Il Nostromo della Nave scruta gli schiavi al lavoro.
+~
+Quest'uomo dev'essere un veterano dei viaggi in mare: il suo brutto viso e'
+cotto dal sole e le sue sopracciglia bianche sormontano degli occhi freddi come
+le profondita' dell'oceano.  Una rada e malcurata barba bianca gli ricopre
+tutte le guance e il mento, accentuando lo sguardo truce e la mandibola severa
+del vecchio lupo di mare. Veste la classica uniforme di bordo, noti una
+sciabola pendergli da un grosso cinturone di cuoio che porta in vita.    
+~
+~
+~
+~
+10 0 -200 -1 -1 -1 -1 -1 E
+40 10 -10 1d1+750 1d20+20
+22 0
+8 8 1
+E
+#1870
+orso guardiano~
+L'orso guardiano tontolone~
+Un grasso orso dall'aria bonaria sonnecchia pancia all'aria!
+~
+Questo orso dalla immensa pancia ti osserva con un buffo muso sperduto, il
+tempo di capire chi sei prima di tornare al suo pisolino.  E' il suo modo di
+fare la guardia a casa di Garrick e Zoya, ma in realta' non e' che un paffuto,
+coccoloso cucciolone da compagnia..    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+20 14 6 1d1+770 1d20+10
+15 0
+8 8 1
+BareHandAttack: 4
+E
+#1872
+capo schiavi~
+Il capo degli schiavi~
+Un uomo enorme e incatenato incita gli schiavi allo schiocco della frusta!
+~
+Fra gli uomini che hai scorto sulla nave sembra il piu' robusto e il piu' alto
+ha una grossa frusta impugnata, ma una palla di ferro legata alla gamba destra,
+questo ti fa capire che anc'esso e' uno schiavo.  Diverse cicatrici gli solcano
+le spalle, ha gli occhi fissi nel vuoto e gli unici suoni che emette sono
+REMATE REMATE!    
+~
+~
+~
+~
+10 52 -100 -1 -1 -1 -1 -1 E
+50 0 2 1d1+1100 3d12+5
+35 10000
+8 8 1
+BareHandAttack: 13
+E
+#1873
+schiavi uomini~
+Il gruppo di schiavi~
+Gli schiavi del "Venusia" cercano liberta'!
+~
+Diverse file di uomini seduti in delle scomodissime panche di legno hanno in
+pugno un grosso remo.  Sono legati l'uno all'altro da delle catene che gli
+rendono i movimenti piu' impacciati negandogli la fuga.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+60 -10 -5 1d1+2000 3d20+10
+38 0
+8 8 1
+E
+#1874
+cuoco venusia~
+Il cuoco del "Venusia"~
+Il grassoccio cuoco del "Venusia" sorride tra i suoi intrugli!
+~
+Un uomo sorridente e panciuto, con un tipico capello da cuoco sta lavorando
+davanti i fornelli, con grande maestria e abilita' prepara' cio' che la
+capitana desidera
+~
+~
+~
+~
+10 0 100 -1 -1 -1 -1 -1 E
+30 10 2 1d1+300 1d20+10
+28 0
+8 8 1
+E
+#1875
+indra capitana donna~
+Indra la capitana~
+Un'imponente ed affascinante donna da ordini ai marinai con voce imperiosa.
+~
+Robusta di corporatura, ha una muscolatura che si intuisce potente sotto la
+pesante giubba blu scuro.  Pantaloni di cuoio le fasciano le gambe lunghe e
+proporzionate, e una spada ricurva le pende dal cinturone.  Dimostra una
+trentina d'anni, e la sua bellezza non e' sminuita dalla benda nera che le
+copre un occhio..  I capelli, corti e corvini, scivolano fino alle lunghe
+ciglia che danno importanza all'unico occhio.  Il fisico, forgiato da anni di
+fatiche, conserva intatta una femminilita' accattivant~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+50 -5 -10 1d1+700 3d10+20
+27 0
+8 8 2
+BareHandAttack: 10
+E
+#1876
+infermiere nave~
+Latha l'infermiere~
+L'infermiere della nave attende feriti da curare..
+~
+un uomo giovane e snello molto abile in qualsiasi arte magica della guarigione. 
+ guardandolo sei sicuro che fara' tutto il possibileper salvarti dal tuo male
+~
+~
+~
+~
+10 0 300 -1 -1 -1 -1 -1 E
+30 10 1 1d1+500 2d8+10
+26 0
+8 8 1
+BareHandAttack: 9
+E
+#1878
+uomo vecchio Yago~
+Il vecchio Yago~
+Un uomo di mezz'eta' si appoggia a un bastone intagliato e ti sorride con sguardo mellifluo.
+~
+Un uomo dalla corporatura normale, vestito riccamente ma con deprecabile gusto:
+verdi pantaloni di seta sono abbinati con poco successo ad una sgargiante
+camicia rossa di velluto...  Un mantello nero copre fortunatamente il
+disgustoso abbinamento dando pace ai tuoi occhi.  Ormai in eta' avanzata,
+dovrebbe avere circa 50 anni, dall'aspetto curato: e' facilmente intuibile che
+quest'uomo non ha mai lavorato in vita sua.    
+in lui intuisci qualcosa di poco piacevole..
+~
+~
+~
+~
+10 0 -600 -1 -1 -1 -1 -1 E
+30 0 10 1d1+450 1d10+10
+18 0
+8 8 1
+E
+#1890
+araldo figura fantasma~
+L'araldo fantasma~
+Un araldo fantasma gira qui intorno.. fa una gran pena!
+~
+A dir poco inquietante..  Dall'aspetto umanoide, questo fantasma si muove in
+cerchio attorno ad un unico centro.  I suoi occhi sono privi di pupille e il
+suo corpo etereo e' sollevato da terra di circa mezzo metro...  Eppure...  
+Mah.  I colori sbiaditi sembrano proprio quelli Eleni..    
+~
+~
+~
+~
+10 2228232 -400 -1 -1 -1 -1 -1 E
+10 0 0 1d1+200 1d5+10
+6 0
+8 8 1
+BareHandAttack: 6
+E
+#1891
+monaco nuvole~
+il monaco delle nuvole~
+Il monaco delle nuvole e' qui con occhi sognanti
+~
+Ha la testa tra le nuvole come avrai intuito..
+e' il custode di questo piccolo, eterno spazio
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+90 20 -10 1d1+30000 10d10+50
+69 0
+8 8 0
+E
+T 1398
+#1892
+nero~
+Il nero~
+Un essere ammantato si muove veloce tra le ombre
+~
+A prima vista si direbbe un umanoide molto alto, sui due metri.  Le braccia
+sono coperte dall'enorme mantello di pelle che lo avvolge.  Ma e' quando i suoi
+occhi piccoli e rossi spuntano dall'ombra che ti accorgi con terrore che e'
+fatto di sola oscurita'.    
+Una creatura buia, reietta, al servizio dei Necrarchi.
+~
+~
+~
+~
+221194 271189032 -1000 -1 -1 -1 -1 -1 E
+70 -20 -10 1d1+1500 3d12+20
+39 0
+8 8 1
+BareHandAttack: 14
+E
+#1900
+scout furtivo genji~
+Uno scout Genji~
+Un uomo si muove veloce e agile seminascosto tra la vegetazione.
+~
+Quest'uomo serve fedelmente il clan Genji pattugliando il bosco Kaede
+e la zona circostante, alla ricerca di intrusi che vengano a ficcare
+il naso. La sua furtivita' ed agilita' lo rendono un avversario
+letale.
+~
+~
+~
+~
+8253 0 -400 -1 -1 -1 -1 -1 E
+55 -5 -10 1d1+999 3d11+24
+40 0
+8 8 1
+Spec: 14
+E
+#1901
+ninja ombra~
+&9&xUn Ninja&0~
+Un'ombra in mezzo alla vegetazione ti pare si muova in modo strano.
+~
+Un Ninja! Questi uomini conoscono moltissimi modi di uccidere,
+tuttavia quando possono preferiscono evitare lo scontro diretto ed
+agire con scaltrezza. Fossi in te farei finta di nulla e me ne andrei
+di qui.
+~
+~
+~
+~
+6297 786432 -200 -1 -1 -1 -1 -1 E
+65 -10 -10 1d1+1299 5d11+21
+44 0
+8 8 0
+Spec: 14
+E
+T 31106
+#1902
+daigoro uomo eremita~
+&3&xDaigoro&0~
+Un uomo vestito solo di pochi stracci e' seduto in meditazione.
+~
+Questo eremita vive da solo in questi boschi da moltissimi anni,
+cercando di affinare sempre piu' le proprie capacita' tramite la
+meditazione. Sebbene il suo aspetto lacero non ti lasci presagire di
+avere di fronte un avversario formidabile, la forza che si cela in
+quest'uomo potrebbe sorprenderti.
+~
+~
+~
+~
+253963 0 600 -1 -1 -1 -1 -1 E
+70 -10 -6 1d1+1099 6d9+22
+67 0
+8 8 1
+Spec: 18
+E
+#1903
+Kimmun Kamui orso~
+&4&xKimmun Kamui&0~
+L'orso piu' enorme che tu abbia mai visto sta dormendo placidamente...
+~
+Quello che tu hai di fronte non e' un semplice orso, cosa che puoi
+dedurre anche dalle sue dimensioni abnormi. E' Kimmun Kamui, il Dio
+della Montagna che e' solito sfidare i mortali travestendosi da orso,
+per donare preziosi tesori a chi riesce a catturarlo.
+~
+~
+~
+~
+124986 128 0 -1 -1 -1 -1 -1 E
+80 -15 -10 1d1+1099 5d16+26
+69 0
+4 4 0
+BareHandAttack: 4
+Str: 23
+Dex: 18
+E
+T 1652
+#1904
+enorme ratto~
+Un enorme ratto~
+Un enorme ratto non pare contento che tu abbia invaso la sua tana...
+~
+Questo grosso roditore ha eletto questo stretto cunicolo a sua dimora,
+ora sta a te spiegargli che non intendi sfrattarlo.
+~
+~
+~
+~
+168 268697600 0 -1 -1 -1 -1 -1 E
+20 16 8 1d1+100 2d8+0
+11 0
+8 8 1
+BareHandAttack: 4
+E
+#1905
+guardia genji~
+&4&xUna Guardia Genji&0~
+Una enorme guardia del Clan Genji vigila sull'ingresso dell'accampamento.
+~
+L'imponenza di quest'uomo ti impressiona, il ghigno feroce che vedi
+dipinto sul suo volto pare volerti invitare ad attaccarlo, in modo che
+abbia una scusa buona per lasciare il suo posto di guardia e
+sgranchirsi le gambe.
+~
+~
+~
+~
+127002 0 -700 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+999 3d15+18
+59 0
+8 8 1
+E
+#1906
+compagnia ashigaru~
+Una compagnia di Ashigaru~
+Una Compagnia di Ashigaru Genji si muove compatta mentre si addestra nella marcia...
+~
+Questo gruppo di soldati pare molto determinato. Sebbene la fanteria
+sia in massima parte composta da contadini, l'addestramento che stanno
+ricevendo in questo campo li sta rendendo soldati forti e spietati.
+~
+~
+~
+~
+258584 0 -400 -1 -1 -1 -1 -1 E
+65 -10 -10 1d1+1299 4d14+24
+59 0
+8 8 1
+E
+#1907
+unita' cavalleria pesante~
+Una unita' di cavalleria pesante~
+Una unita' di cavalleria pesante sta provando la carica...
+~
+Questi uomini sono soldati provetti, montano i loro cavalli con
+coraggio e dedizione per la causa dei loro signori. Il rombo prodotto
+dalla carica di questi cavalieri terrorizzerebbe un esercito.
+~
+~
+~
+~
+258074 0 -300 -1 -1 -1 -1 -1 E
+70 -15 -10 1d1+1599 5d16+25
+39 0
+8 8 0
+E
+#1908
+unita' cavalleria yari~
+Una unita' di cavalleria Yari~
+Una unita' di cavalleria Yari sta provando la carica...
+~
+La terribile cavalleria Yari, i lancieri a cavallo dell'esercito Genji
+Le lunghe lance scintillanti, maneggiate dalle abili mani di questi
+cavalieri, possono portare il panico e la morte su reparti di
+cavalleria o fanteria pesantemente corazzati e quindi lenti nei
+movimenti.
+~
+~
+~
+~
+258074 0 -400 -1 -1 -1 -1 -1 E
+68 -10 -10 1d1+1299 4d17+23
+35 0
+8 8 0
+E
+#1909
+cavaliere appiedato~
+Un cavaliere appiedato~
+Questo cavaliere e' stato esentato dalle esercitazioni oggi...
+~
+Appena guardi quest'uomo capisci, dalle fasciature intorno al suo
+petto nudo, che e' stato ferito di recente. Probabilmente una caduta
+da cavallo lo sta costringendo al riposo, ma attento! Non pare essere
+del tutto inerme.
+~
+~
+~
+~
+139274 576460752303423488 -300 -1 -1 -1 -1 -1 E
+50 -3 -9 1d1+899 3d14+16
+42 0
+8 8 1
+E
+#1910
+goemon~
+&1&xGoemon&0~
+Goemon ti guarda con disappunto
+~
+Un uomo che ha cavalcato su mille campi di battaglia, temprato dalle
+guerre e dal tempo. Sebbene esprima il suo massimo valore in groppa ad
+un cavallo, sei sicuro che la forza di quest'uomo sia temibile anche a
+terra.
+~
+~
+~
+~
+106523 0 -700 -1 -1 -1 -1 -1 E
+75 -10 -7 1d1+1399 4d14+24
+57 0
+8 8 1
+Spec: 16
+E
+#1911
+arciere genji~
+Un arciere Genji~
+Questo arciere sembra molto sorpreso di vederti qui e sguaina il pugnale.
+~
+Questi arcieri hanno una mira infallibile con il loro arco, ma se
+costretti a combattere in spazi angusti sanno maneggiare con maestria
+anche un corto pugnale.
+~
+~
+~
+~
+20490 0 -200 -1 -1 -1 -1 -1 E
+45 -1 -7 1d1+799 3d10+13
+42 0
+8 8 1
+E
+#1912
+cuoco genji~
+&7Cuoco Genji&0~
+Un cuoco smette di tagliuzzare del pesce e ti fissa.
+~
+Questo enorme cuoco ha un'abilita' strabiliante nell'usare la sua
+mannaia per tagliare il pesce che ha di fronte. Non vorresti mai che
+gli venisse la tentazione di usarla anche su di te, quindi forse e'
+meglio non disturbarlo oltre.
+~
+~
+~
+~
+12826 0 -300 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+799 4d12+21
+35 0
+8 8 1
+E
+#1913
+kuemon fabbro genji~
+&1&xKuemon&0~
+Il fabbro dell'accampamento Genji e' intento al lavoro.
+~
+Questo uomo e' responsabile di tutte le armi dell'esercito Genji,
+quindi come puoi immaginare ha una mole di lavoro impressionante. La
+sua maestria nella creazione di strumenti di morte e' rinomata in
+tutto il Celeste Impero.
+~
+~
+~
+~
+253962 17825792 -500 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+1299 3d19+23
+56 0
+8 8 1
+E
+#1914
+cavallo combattimento~
+Un cavallo da combattimento~
+Un enorme cavallo si impenna e nitrisce mentre ti avvicini...
+~
+Questi enormi cavalli sono usati dalla cavalleria dell'esercito Genji;
+la loro mole e la loro potenza ti fanno immaginare che quando caricano
+in formazione devono fornire uno spettacolo sensazionale e
+terrificante!
+~
+~
+~
+~
+24586 0 0 -1 -1 -1 -1 -1 E
+55 -5 -10 1d1+1399 4d16+21
+48 0
+8 8 1
+E
+#1915
+Kanzaburo ronin~
+&1&xKanzaburo&0~
+Kanzaburo, il piu' temuto dei Ronin, ti si scaglia contro furioso!
+~
+Un Samurai che non ha il coraggio di fare il rito del Seppuku quando
+gli e' richiesto, perde tutto il suo onore, ma naturalmente non perde
+la sua abilita' nel combattere. La rabbia di quest'uomo, alimentata
+dalla vergogna, e' enorme e si avventa furioso contro qualsiasi nemico
+cercando una morte dignitosa in battaglia.
+~
+~
+~
+~
+106538 0 -600 -1 -1 -1 -1 -1 E
+65 -10 -10 1d1+1199 4d14+21
+50 0
+8 8 1
+E
+#1916
+guardia celle~
+La guardia delle celle~
+Le guardie delle celle non ti permetteranno di far fuggire i prigionieri!
+~
+Questa guardia e' preposta a vigilare sulle celle dell'accampamento,
+e prende il suo impegno sul serio. Tantopiu' che questo incarico gli
+da la possibilita' di seviziare liberamente i prigionieri!
+~
+~
+~
+~
+73786 0 -700 -1 -1 -1 -1 -1 E
+65 -5 -10 1d1+1099 3d18+18
+57 0
+8 8 1
+E
+#1917
+prigioniero uomo~
+Un prigioniero~
+Quest'uomo e' stato spogliato di ogni dignita'.
+~
+Questi prigionieri sembrano tutti uguali, coperti di sporcizia e
+dimentichi ormai di essere uomini.
+~
+~
+~
+~
+10 0 500 -1 -1 -1 -1 -1 E
+1 19 8 1d1+69 3d3+0
+1 0
+8 8 1
+E
+#1918
+prigioniera~
+Una prigioniera~
+Questa prigioniera si getta contro di te cercando di morderti la gola!
+~
+Ormai impazzita per la fame e la sete, questa povera donna si getta
+contro qualsiasi cosa si muova per sbranarla. O forse sta solo
+cercando un modo rapido per suicidarsi e mettere cosi' fine al suo
+soffrire.
+~
+~
+~
+~
+10 0 200 -1 -1 -1 -1 -1 E
+1 18 9 1d1+59 3d3+0
+0 0
+8 8 2
+E
+#1919
+Youkai~
+Uno &1Youkai&0~
+Uno Youkai e' incatenato alle pareti ma e' libero di muoversi per la stanza..
+~
+Forse, di tutte le cose strane che hai visto in questo bizzarro posto,
+questa e' quella che ti e' piu' familiare. Dalle tue parti questi
+esseri vengono chiamati Demoni, evidentemente qui hanno un altro nome,
+ma la loro pericolosita' parrebbe la stessa.
+~
+~
+~
+~
+254011 85471232 -900 -1 -1 -1 -1 -1 E
+70 -15 -10 1d1+1699 6d17+25
+45 0
+8 8 1
+Str: 20
+Dex: 15
+Spec: 27
+E
+#1920
+samurai genji~
+Un Samurai del Clan Genji~
+Un Samurai e' qui seduto con le gambe incrociate e ti fissa.
+~
+Un Samurai e' legato al suo padrone tramite un codice d'onore, detto
+Bushido, che tra le altre cose gli impone di non curarsi della propria
+vita e della propria morte. La loro fedelta' e' totale: a te la scelta
+se attaccare un tale monolitico insieme di forza, abilita' ed onore.
+~
+~
+~
+~
+45082 0 -500 -1 -1 -1 -1 -1 E
+63 -5 -10 1d1+949 4d13+21
+37 0
+8 8 1
+E
+T 31106
+#1921
+Tsunayoshi~
+&1&xTsunayoshi&0~
+Tsunayoshi si sta facendo il bagno, non disturbarlo!
+~
+Quest'uomo e' ignudo, tranne per la Katana che porta sempre con se' e
+che ha deposto accanto alla vasca. Deve essere un Samurai molto
+importante, vista la magnifica fattura della sua arma.
+~
+~
+~
+~
+122890 0 -600 -1 -1 -1 -1 -1 E
+74 -10 -10 1d1+1249 4d13+22
+74 0
+8 8 1
+E
+T 31106
+#1922
+ninja ombra~
+&9&xUn Ninja&0~
+Vedi un'ombra muoversi e gettarsi su di te con un' agilita' agghiacciante!
+~
+Un Ninja e' molto piu' di un semplice assassino: e' una perfetta
+macchina di morte. Il disprezzo che i Samurai nutrono per questi
+uomini e' molto grande, ma sanno anche che sono avversari quasi
+invincibili.
+~
+~
+~
+~
+188475 786432 -800 -1 -1 -1 -1 -1 E
+65 -10 -10 1d1+999 1d1+24
+37 0
+8 8 1
+Spec: 14
+E
+T 31106
+#1923
+chunin~
+&9&xIl Chunin&0~
+Il Chunin e' un avversario troppo forte per chiunque!
+~
+Il Chunin e' un capo di Ninja. Questo dovrebbe farti immaginare quanto
+possa essere letale per esserne considerato il capo.
+~
+~
+~
+~
+123034 402653184 -1000 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+1099 4d14+24
+76 0
+8 8 1
+E
+#1924
+guardia toshiaki~
+&6&xUna guardia di Toshiaki&0~
+Queste guardie sorvegliano l'accesso alle stanze superiori...
+~
+Le guardie del padiglione di Toshiaki sono scelte tra i guerrieri piu'
+forti del campo e non permettono a nessuno che non sia stato
+annunciato di raggiungere il Daimyo.
+~
+~
+~
+~
+210459 0 -400 -1 -1 -1 -1 -1 E
+60 -5 -10 1d1+1099 4d13+22
+51 0
+8 8 1
+Spec: 16
+E
+#1925
+Tokimasa~
+&4&xTokimasa&0~
+Tokimasa alza la testa dalle mappe e ti guarda ghignando.
+~
+Il figlio del Daimyo e' ancora giovane ed inesperto ma sta
+dimostrando di avere una grande forza e di poter presto seguire le
+orme del padre. Stava studiando le migliori strategie per attaccare
+la capitale prima che tu lo interrompessi.
+~
+~
+~
+~
+106507 0 -700 -1 -1 -1 -1 -1 E
+65 -10 10 1d1+1199 4d15+23
+54 0
+8 8 1
+Spec: 16
+E
+#1926
+Nagamune~
+&1&xNagamune&0~
+Nagamune proteggera' con la vita il suo Daimyo.
+~
+Nagamune e' un samurai della guardia personale di Toshiaki: ha
+protetto il suo padrone in mille occasioni uccidendo assassini,
+sicari, ninja, ronin e qualsiasi altra persona osasse attentare alla
+vita del nobile.
+~
+~
+~
+~
+45578 0 -700 -1 -1 -1 -1 -1 E
+65 -10 -10 1d1+1299 4d16+23
+60 0
+8 8 1
+E
+T 1653
+#1927
+nagamori~
+&1&xNagamori&0~
+Nagamori proteggera' con la vita il suo Daimyo.
+~
+Nagamori e' un samurai della guardia personale di Toshiaki: ha
+protetto il suo padrone in mille occasioni uccidendo assassini,
+sicari, ninja, ronin e qualsiasi altra persona osasse attentare alla
+vita del nobile.
+~
+~
+~
+~
+127498 0 -700 -1 -1 -1 -1 -1 E
+65 -10 -10 1d1+1299 4d16+22
+40 0
+8 8 1
+E
+T 1653
+#1928
+toshiaki~
+&4&xToshiaki&0~
+Toshiaki ti guarda con tutto il disprezzo di cui e' capace.
+~
+Ecco Toshiaki, il Daymio ribelle che ha osato muovere guerra allo
+Shogun. La sua enorme malvagita' e seconda solo alla sua intelligenza
+e alla sua enorme forza.
+~
+~
+~
+~
+11 128 -1000 -1 -1 -1 -1 -1 E
+80 -15 -10 1d1+1499 5d13+26
+74 0
+8 8 1
+Str: 20
+Dex: 21
+Spec: 16
+E
+#1929
+enorme serpente d'acqua~
+Un enorme serpente d'acqua~
+Un enorme serpente d'acqua nuota nelle risaie, sara' lungo piu' di due metri!!!
+~
+Un enorme serpente dalla forma sinuosa nuota nell'acqua dalle risaie, non pensavi che le coltivazioni
+di queste terre presentassero un insidia cosi' pericolosa. I suoi movimenti sono velocissimi e la
+sua abilita' nel sparire sott'acqua rendono il colpirlo una grossa prova di abilita'.
+~
+~
+~
+~
+254074 285212672 0 -1 -1 -1 -1 -1 E
+70 -3 -10 1d1+899 4d13+22
+36 0
+8 8 0
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+E
+#1930
+guardia celeste otemon~
+&1Guardia del primo Otemon&0 ~
+&1La guardia del primo Otemon e' qui impassibile&0
+~
+Quest'uomo colossale, armato di tutto punto, ha il compito di impedire agli
+estranei l'accesso al sannomaru, la corte piu' esterna dello Shiro.  Prende il
+suo compito sul serio, non sara' facile passare.    
+~
+~
+~
+~
+30747 0 300 -1 -1 -1 -1 -1 E
+60 -6 -10 1d1+1099 3d20+20
+45 0
+8 8 1
+Str: 18
+StrAdd: 16
+Spec: 16
+E
+#1931
+pattuglia sannomaru guardie~
+Una pattuglia del Sannomaru~
+La pattuglia del Sannomaru fa la ronda intorno alle mura.
+~
+Queste pattuglie composte da quattro uomini fanno la ronda avanti ed indietro
+lungo il Sannomaru.  Forse se riesci a farti passare come un semplice
+visitatore non ti attaccheranno, ma fai attenzione!    
+~
+~
+~
+~
+258332 0 200 -1 -1 -1 -1 -1 E
+50 -5 -5 1d1+899 3d10+15
+39 0
+8 8 0
+BareHandAttack: 6
+Str: 18
+Con: 12
+E
+#1932
+capitano otemon~
+&1Il Capitano delle guardie del Sannomaru&0~
+Il Capitano delle guardie del Sannomaru ti riconosce come intruso!
+~
+Quest'uomo ha la responsabilita' del Sannomaru e sa chi puo' entrare e chi non
+puo'.  Si mette male per te!    
+~
+~
+~
+~
+17179910201 0 500 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+799 5d15+20
+32 0
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 18
+Spec: 16
+E
+#1933
+guardia~
+&5Guardia del secondo Otemon&0~
+&5La guardia del secondo Otemon e' qui impassibile&0
+~
+Se le guardie del primo Otemon ti avevano messo in soggezione, queste paiono
+essere pure peggio!  Eppure, l'unica via per entrare nell'Honmaru passa da
+loro...    
+~
+~
+~
+~
+61723 0 200 -1 -1 -1 -1 -1 E
+62 -5 -8 1d1+1299 4d20+25
+35 0
+8 8 1
+BareHandAttack: 9
+Spec: 16
+E
+#1934
+pattuglia guerrieri~
+La terribile pattuglia del Ninomaru~
+Un gruppo di quattro feroci guerrieri pattuglia il Nimonaru.
+~
+Questa pattuglia e' stata avvertita della possibile presenza di infiltrati del
+clan Genji all'interno delle mura, ed e' composta di letali e feroci guerrieri!
+  
+~
+~
+~
+~
+127260 0 200 -1 -1 -1 -1 -1 E
+55 -5 -7 1d1+999 4d10+20
+44 0
+8 8 0
+BareHandAttack: 6
+Str: 18
+Dex: 16
+E
+#1935
+capitano ninomaru~
+&5Il Capitano delle guardie del Ninomaru&0~
+Il Capitano delle guardie del Ninomaru crede che tu sia un Genji!
+~
+Quest'uomo ha la responsabilita' del Ninomaru, non permettera' certo ad un
+intruso di passare la sua linea di difesa!    
+~
+~
+~
+~
+8376 0 400 -1 -1 -1 -1 -1 E
+63 0 -9 1d1+899 5d20+25
+62 0
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 20
+E
+T 31106
+#1936
+golem shinsenshi essere pietra ferro~
+&9&xLo Shinsenshi del terzo Otemon&0~
+Un gigantesco essere di pietra e &9&xferro&0&3 fa la guardia qui.&0
+~
+Questo deve essere un construtto magico, di quelli che in Daresia chiamano
+golem.  Hikozaemon, il potente mago dello Shogun, ne ha creati alcuni da
+piazzare nei punti strategici dello Shiro.  Li ha chimati Shinsenshi ossia
+Nuovi Guerrieri, in quella che e' la strana lingua di queste lande.    
+~
+~
+~
+~
+258074 17825792 0 -1 -1 -1 -1 -1 E
+60 10 -10 1d1+1499 2d50+35
+34 0
+8 8 0
+BareHandAttack: 12
+Str: 22
+Dex: 10
+E
+#1937
+essere shinsenshi pietra oro~
+&3&xLo Shinsenshi dell'Honmaru&0~
+Un gigantesco essere di pietra e &3&xoro&0&3 si scaglia su di te per distruggerti!&0
+~
+Questo Shinsenshi e' stato creato dal potente mago Hikozaemon affinche' vigili
+che nessuno si intrufoli nel cuore dello Shiro, l'Honmaru.    
+~
+~
+~
+~
+139325 0 0 -1 -1 -1 -1 -1 E
+65 0 -10 1d1+1399 3d40+30
+52 0
+8 8 0
+BareHandAttack: 12
+Str: 20
+Dex: 16
+Spec: 27
+E
+#1938
+guardie guardia yagura~
+Le guardie della Yagura~
+Questo gruppo di guardie non ti permetta' di rubare nella Yagura.
+~
+Sembrano un po' assonnate, non credi che molte persone riescano a spingersi sin
+qui per rubare nei magazzini, e probabilmente si annoiano molto.  Che ne dici
+di farle divertire un po'?    
+~
+~
+~
+~
+131242 0 600 -1 -1 -1 -1 -1 E
+45 5 -6 1d1+699 5d7+10
+34 0
+8 8 1
+E
+#1939
+falco denbe~
+&3Un falco&0~
+Un falco e' appollaiato qui e ti scruta...
+~
+Lo sguardo di questo falco ti mette a disagio, e' come se ti volesse chiedere
+qualcosa.  Anche se ti avvicini non pare scappare, forse e' ammaestrato?    
+~
+~
+~
+~
+253978 2199295885312 0 -1 -1 -1 -1 -1 E
+30 10 0 1d1+399 4d6+12
+28 0
+8 8 1
+BareHandAttack: 4
+Dex: 25
+E
+T 1656
+T 1657
+#1940
+denbe mago~
+&1&xDenbe&0~
+Hai liberato Denbe, il mago folle, dalla sua prigione magica!
+~
+Uccidendo il falco in cui era stato imprigionato il suo spirito, hai liberato
+lo spirito del terribile Denbe, il mago che secoli fa mise in ginocchio il
+Celeste Impero con la sua follia!  Ora si che hai fatto un pasticcio!    
+~
+~
+~
+~
+188475 2336478998656 -1000 -1 -1 -1 -1 -1 E
+70 -5 -3 1d1+1999 5d20+20
+42 0
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 15
+Int: 25
+Wis: 25
+Spec: 15
+E
+T 1658
+#1941
+potente guerriero~
+Un potente guerriero~
+Un guerriero sta facendo pratica di combattimento..
+~
+Questo enorme uomo sta affinando le sue tecniche di combattimento, sa bene che
+presto lo Shogun potrebbe aver bisogno di lui!    
+~
+~
+~
+~
+192523 0 200 -1 -1 -1 -1 -1 E
+57 2 -8 1d1+1099 8d8+20
+52 0
+8 8 1
+Str: 18
+Dex: 16
+Spec: 16
+E
+#1942
+combattente samurai~
+Un veloce combattente~
+Questo combattente e' un esperto di arti marziali!
+~
+It looks unfinished.  A giudicare dalla sua velocita' ed agilita', questo deve
+essere un esperto di arti marziali.  Con la sua destrezza e' spesso in grado di
+battere a mani nude guerrieri armati e corazzati.    
+~
+~
+~
+~
+260122 0 200 -1 -1 -1 -1 -1 E
+57 -2 -3 1d1+999 10d7+16
+46 0
+8 8 1
+Str: 16
+Dex: 21
+E
+#1943
+monaco battaglia~
+&6Un monaco da battaglia&0~
+Questo monaco sta meditando...shhh!
+~
+Questo e' uno dei terribili monaci da battaglia!  La calma che lo pervade non
+ti deve trarre in inganno!  Puo' passare da questo stato di semicoscienza ad
+uno stato di furia che non puoi nemmeno immaginare, nel tempo di un battere di
+ciglia!    
+~
+~
+~
+~
+256026 2199090364544 700 -1 -1 -1 -1 -1 E
+63 0 0 1d1+999 12d6+20
+47 0
+6 6 1
+BareHandAttack: 13
+Str: 16
+Dex: 23
+E
+T 1660
+T 31106
+#1944
+araldo~
+Araldo del &6Celeste Impero&0~
+L'araldo del &6Celeste Impero&0 reclama queste terre...
+~
+Quest'araldo sostiene che ora la contea di Barl appartiene al &6Celeste Impero&0!
+~
+~
+~
+~
+253962 0 0 -1 -1 -1 -1 -1 E
+50 5 10 1d1+9999 5d5+15
+31 0
+8 8 1
+E
+T 1661
+#1945
+tsukiyama donna monaco~
+&5&xTsukiyama&0~
+Una donna avvolta in un'aura mistica e' qui...
+~
+Questa e' una delle pochissime donne che hanno avuto accesso agli insegnamenti
+dei monaci guerrieri.  La storia di come questo sia potuto accadere e' lunga e
+triste, ma non credere che questa donna sia meno potente dei suoi colleghi
+maschi!    
+~
+~
+~
+~
+92427 0 800 -1 -1 -1 -1 -1 E
+71 0 -4 1d1+899 10d9+15
+40 0
+8 8 2
+Str: 14
+Dex: 18
+Int: 18
+Wis: 20
+Spec: 18
+E
+#1946
+guerriero golem shinsenshi essere~
+&7Lo Shinsenshi di Hikozaemon&0~
+Un essere di roccia e &7mithril&0&3 si avventa su di te!
+~
+Questo shinsenshi e' stato creato dal potente mago Hikozaemon affinche' vigili
+che nessuno si intrufoli nel suo laboratorio privato!    
+~
+~
+~
+~
+239675 268435456 0 -1 -1 -1 -1 -1 E
+68 -10 -10 1d1+1899 8d10+25
+41 0
+8 8 0
+BareHandAttack: 11
+Str: 22
+Dex: 17
+Spec: 29
+E
+#1947
+mago hikozaemon~
+&1&xHikozaemon&0~
+Hikozaemon, il potente mago dello Shogun, ti sta guardando...
+~
+L'eta' di quest'uomo e' indefinibile, cosi' come la sua fisionomia, oltremodo
+sfuggente.  Quello che sai e' che e' il piu' potente mago del &6Celeste
+Impero&0 ed il piu' profondo conoscitore dei suoi segreti.    
+~
+~
+~
+~
+129054 152043521 0 -1 -1 -1 1869516954 -1 E
+70 5 0 1d1+1999 8d8+15
+63 0
+8 8 1
+Str: 10
+Dex: 13
+Int: 24
+Wis: 20
+E
+T 31523
+T 31535
+#1948
+youkai demone piccolo~
+&1Un piccolo Youkai&0 ~
+Un piccolo demone e' uscito dal cerchio di evocazione e ti attacca!
+~
+Per fortuna questo e' solo un piccolo demone.  Tremi ancora al pensiero di
+quello che sarebbe potuto uscire dal cerchio, fai attenzione la prossima volta!
+  
+~
+~
+~
+~
+14508 137489588224 -1000 -1 -1 -1 -1 -1 E
+40 5 -3 1d1+799 5d10+15
+32 0
+8 8 0
+BareHandAttack: 7
+Str: 19
+Dex: 19
+E
+#1949
+youkai enorme demone~
+&1Un enorme Youkai&0~
+Un enorme essere demoniaco ti si avventa contro con tutta la sua ferocia!
+~
+Bisogna sempre fare attenzione ai cerchi di evocazione, se non li si sa usare.
+Questo demone e' veramente enorme, e distruggera' qualsiasi cosa incroci sul
+suo cammino.    
+~
+~
+~
+~
+243753 1056768 -1000 -1 -1 -1 -1 -1 E
+80 -15 -9 1d1+1499 8d12+24
+54 0
+8 8 0
+BareHandAttack: 6
+Str: 22
+Dex: 17
+Spec: 27
+E
+T 1662
+#1950
+guardia akinori~
+La guardia di &6&xAkinori&0~
+La guardia del potente Daimyo Akimori e' qui
+~
+Queste guardie sono incaricate di proteggere la persona di Akimori.  Il Daymio
+si e' creato davvero tanti nemici nel corso del tempo!    
+~
+~
+~
+~
+4154 0 300 -1 -1 -1 -1 -1 E
+55 5 -5 1d1+899 4d12+15
+30 0
+8 8 1
+Str: 18
+Dex: 16
+E
+#1951
+akimori daymio~
+&6Akimori&0~
+Akimori si sta allenando con la sua Katana..
+~
+Il potente Daymio Akimori e' un fedele amico dello Shogun il clan Genji deve a
+lui gran parte delle proprie disgrazie!    
+~
+~
+~
+~
+96538 4096 600 -1 -1 -1 -1 -1 E
+56 0 -7 1d1+1199 8d9+16
+45 0
+8 8 1
+Str: 18
+Dex: 20
+E
+#1952
+principe elementale aria evocato1~
+&6&xPrincipe Elementale dell'Aria&0~
+Un vortice di tempesta ti attacca!
+~
+Hikozaemon ha invocato l'aiuto di uno dei Principi Elementali
+dell'Aria! Il potere della tempesta distrugge tutto cio' che incontra!
+~
+~
+~
+~
+258106 134217728 300 -1 -1 -1 -1 -1 E
+60 -10 -10 1d1+1099 4d13+15
+55 0
+8 8 0
+E
+#1953
+principe elementale fuoco evocato2~
+&1&xPrincipe Elementale del Fuoco&0~
+Un essere fatto di fuoco e fiamme ti sovrasta!
+~
+Hikozaemon ha evocato uno dei terribili Principi Elementali del Fuoco!
+Tutto intorno a questo essere si trasforma in cenere!
+~
+~
+~
+~
+258090 17825792 -100 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+1499 4d15+20
+37 0
+8 8 0
+E
+#1954
+principe elementale terra evocato3~
+&3Principe Elementale della Terra&0~
+Un colossale essere di terra e fango ti schiaccia!
+~
+Hikozaemon ha invocato il potere della Terra! Questo Principe
+Elementale schiaccia e calpesta i suoi nemici come fossero bruscolini!
+~
+~
+~
+~
+258090 67108864 100 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+1999 4d16+25
+46 0
+8 8 0
+E
+#1955
+moglie masako donna~
+&5Masako&0~
+Masako e' la dolce moglie di Akinori..
+~
+Masako ha sposato giovanissima Akimori, e da allora lo serve con amore e
+fedelta'.    
+~
+~
+~
+~
+24714 128 800 -1 -1 -1 -1 -1 E
+30 18 10 1d1+299 4d5+3
+16 0
+6 6 2
+Wis: 16
+E
+#1956
+essere golem shinsenshi guerriero~
+&9&xLo Shinsenshi di Ebonio&0~
+Un essere di pietra ed &9&xEbonio&0&3 ti riconosce come nemico!&0
+~
+Il potente mago Hikozaemon ha posto questi due costrutti magici a guardia
+dell'ingresso del palazzo dello Shogun.  Sanno riconoscere immediatamente gli
+intrusi!    
+~
+~
+~
+~
+260155 2336478986272 0 -1 -1 -1 -1 -1 E
+62 2 -10 1d1+1399 8d10+20
+45 0
+8 8 0
+Str: 23
+Dex: 17
+Spec: 28
+E
+#1957
+nobile ricco daymio~
+Un ricco Daymio~
+Questo nobile sta attendendo di essere ricevuto dallo Shogun
+~
+L'abbigliamento elegante di quest'uomo ti fa presupporre che deve essere un
+nobile molto ricco.  Attento, perche' non si sa mai cosa possa offendere un
+nobile!    
+~
+~
+~
+~
+26762 128 600 -1 -1 -1 -1 -1 E
+50 5 -2 1d1+999 6d10+15
+26 0
+6 6 1
+Str: 13
+Dex: 16
+Int: 17
+Wis: 16
+E
+T 1663
+#1958
+cuoco enorme~
+&7&xUn enorme cuoco&0~
+Questo colossale cuoco non e' contento di vederti qui!
+~
+Ai disturbato questo cuoco mentre era indaffarato nella preparazione di una
+delicatissima pietanza.  Lo sguardo nei suoi occhi non e' dei piu amichevoli.
+  
+~
+~
+~
+~
+63882 16781312 400 -1 -1 -1 -1 -1 E
+50 5 -3 1d1+699 7d9+18
+29 0
+8 8 1
+BareHandAttack: 4
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+E
+#1959
+ninja genji assassino~
+&9&xUn Ninja Genji&0~
+Un Ninja del clan Genji e' riuscito ad arrivare fino a palazzo!
+~
+Questo letale assassino ha superato tutte le difese dello Shiro ed e' arrivato
+fin dentro il palazzo!  Difficilmente si fara' intimorire da te ora!    
+~
+~
+~
+~
+256186 2474170163242 -600 -1 -1 -1 -1 -1 E
+64 0 -8 1d1+1099 7d11+20
+44 0
+8 8 1
+Str: 18
+Dex: 21
+Int: 18
+Wis: 15
+Cha: 18
+Spec: 21
+E
+#1960
+samurai guardia Masakatsu~
+&1&xMasakatsu&0~
+La guardia personale dello Shogun non ti fara' passare!
+~
+Masakatsu e' il Samurai incaricato della difesa personale dello Shogun.  E' uno
+dei piu' formidabili guerrieri di tutto il &6Celeste Impero&0.    
+~
+~
+~
+~
+260122 201330688 800 -1 -1 -1 -1 -1 E
+67 -10 -10 1d1+1299 8d10+25
+53 0
+8 8 1
+Str: 20
+Dex: 22
+Int: 16
+Wis: 15
+Con: 20
+E
+T 31106
+T 1665
+#1961
+shogun potente~
+&1&xL&3o &1S&3hogun&0~
+Il potente Shogun ti fissa...
+~
+Questo e' il potentissimo Shogun della dinastia Kuroda.  Lui decide della vita
+e della morte nel &6Celeste Impero&0.  Non riesci a fissarlo troppo a lungo, la
+sua regalita' ti atterrisce!    
+~
+~
+~
+~
+256026 2199023267968 -400 -1 -1 -1 1869516954 -1 E
+70 -20 -10 1d1+2499 10d11+25
+46 0
+8 8 1
+Str: 19
+Dex: 19
+Int: 21
+Wis: 20
+Con: 18
+Cha: 18
+E
+T 1666
+#1962
+essere pietra ossa shinsenshi~
+&7&xLo Shinsenshi di Ossa&0~
+Un essere composto di roccia e &7&xossa&0&3 ti attacca!&0
+~
+Questo potente shinsenshi e' stato posto da Hikozaemon a guardia del suo
+laboratorio segreto, dove ha aperto il varco dimensionale per la Daresia!    
+~
+~
+~
+~
+243770 67108864 0 -1 -1 -1 -1 -1 E
+63 8 -10 1d1+1599 8d8+23
+59 0
+8 8 0
+Str: 20
+Dex: 16
+E
+#1963
+incavo~
+&2&xUn incavo&0~
+&2&xC'e' uno strano incavo ovoidale qui&0
+~
+E' un incavo nella parete a forma di uovo.
+~
+~
+~
+~
+188426 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+100 1d1+0
+3 0
+8 8 0
+E
+T 1667
+T 1664
+#1964
+sacra guardia sgds~
+&6La Sacra Guardia dello Shogun&0~
+Le guardie dello Shogun sono accorse in suo aiuto!
+~
+Queste guardie sono letali!  Combattono come furie assassine per la vita del
+proprio signore!    
+~
+~
+~
+~
+2199023280137 0 400 -1 -1 -1 -1 -1 E
+55 5 -8 1d1+699 5d10+16
+45 0
+8 8 1
+BareHandAttack: 6
+Str: 18
+Dex: 18
+Spec: 16
+E
+#1965
+samurai oscuro~
+&9&xIl Samurai Oscuro&0~
+Questo Samurai e' l'ombra dello Shogun, ovunque egli vada, e' li' a proteggerlo.
+~
+Il terribile Samurai Oscuro vigila da millenni sulla vita degli Shogun delle
+varie dinastie.    
+~
+~
+~
+~
+112648 268435456 -400 -1 -1 -1 -1 -1 E
+60 0 -8 1d1+899 6d10+18
+36 0
+8 8 1
+Str: 18
+StrAdd: 90
+Dex: 21
+E
+T 31106
+#1966
+essere pietra fuoco shinsenshi~
+&1&xLo Shinsenshi di fuoco&0~
+Un essere fatto di pietra e &1&xfuoco&0&3 ti attacca!&0
+~
+Hikozemon ha saputo chissa' come miscelare la pietra con il fuoco, creando
+questo micidiale essere di distruzione.    
+~
+~
+~
+~
+227386 17825792 0 -1 -1 -1 -1 -1 E
+60 10 -10 1d1+1299 8d8+25
+42 0
+8 8 0
+BareHandAttack: 6
+Str: 21
+Dex: 15
+E
+#1997
+man war~
+Man O'War~
+Man O'War e' qui che farfuglia in loop frasi senza senso...
+~
+Alto, bello e capellone. L'essenza del vero Man O'War che infrangi i cuori della giovani donne di Anzio e Nettuno.
+Si avvicina a te facendo uno strano gesto con le mani e muovendo il bacino avanti e indietro..se fossi in te
+inizierei a preoccuparmi
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+69 20 10 1d1+30000 1d1+0
+51 0
+8 8 1
+E
+T 1680
+#1998
+nycol peloi ranger~
+nycol il Peloi~
+Nycol, il Peloi, ti scruta con occhi seri.
+~
+Senza dubbio un Ranger, benche' assai strano. All'apparenza giovane, i neri e corti capelli incorniciano un viso dalla pelle chiara e dagli occhi scurissimi. E' vestito con una leggera armatura di cuoio, e due lunghi pugnali trovano posto ai suoi fianchi.
+~
+~
+~
+~
+536870922 0 0 -1 -1 -1 -1 -1 E
+70 -30 -10 30d1000+0 10d100+20
+44 1
+8 8 1
+BareHandAttack: 11
+E
+#1999
+falco~
+Un falco pellegrino~
+Un bel rapace ti guarda con occhi vitrei.
+~
+
+E' il piu' grosso falco che tu abbia mai visto!
+~
+~
+~
+~
+8 0 0 -1 -1 -1 1869514172 -1 E
+10 20 10 1d1+0 1d1+0
+8 1
+8 8 1
+E
+$

@@ -1,0 +1,19 @@
+trigedit 1472
+6  
+/c 
+mforce mtxat mkill %actor.name%
+return 0
+mecho &2&xNon pare che sia possibile uccidere la pianta della vita...&0
+mload mob 564
+eval gg %random.10%
+if %gg% == 1
+mecho &6Un enorme guardiano delle foreste sorge dalla terra per difendere la Pianta sacra a Therion&0
+mload mob 312
+mforce mtxat kill %actor.name%
+else
+halt
+end
+~
+/s
+q
+y

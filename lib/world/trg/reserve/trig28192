@@ -1,0 +1,37 @@
+trigedit 28192
+6  
+/c 
+   if %tex% != fatto
+     set count 1
+     say Lode al Potente Shundar l'unico Signore e Padrone della Daresia!
+     set tex fatto
+     global tex
+   end
+ wait 3 s 
+ if %tex% == fatto
+   
+   set tox %random.6%
+   eval count %count% + %tox%
+   global count
+   
+   if %tox% == 3
+     say Sottomettevi al potere di Shundar !!! Unico Signore e Padrone della Daresia!
+   end
+   
+   if %count% >= 1000
+     say Shundar da te nasco a te torno!
+     wait 2 s
+     emo unisce le mani
+     wait 3 s
+     %echo% Il guerriero di Shundar scompare in un lampo luce verde.
+     wait 5
+     mgoto 28150
+     wait 3 s
+     say purgami
+   end
+   
+ end
+~
+/s
+q
+y

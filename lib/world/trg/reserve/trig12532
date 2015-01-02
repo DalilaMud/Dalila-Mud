@@ -1,0 +1,69 @@
+trigedit 12532
+6  
+/c 
+if %actor.level% > 92 || %actor.alias% /= npg
+wait 2
+if %soldi1% > %soldi2%
+unset fanno
+unset compro
+unset vnum
+unset going
+unset quanti
+unset soldi1
+unset soldi2
+mat 3 drop all
+set azione cazzeggio
+global azione
+emote se ne va soddisfatto
+else
+if %going% == alimentare
+set coso %alimentare2%
+elseif %going% == legname
+set coso %legname2%
+elseif %going% == fabbro
+set coso %fabbro2%
+elseif %going% == gioielliere
+set coso %gioielliere2%
+elseif %going% == armiere
+set coso %armiere2%
+elseif %going% == pellicceria
+set coso %pellicceria2%
+elseif %going% == alchimista
+set coso %alchimista2%
+end
+eval %going%2 %coso% + 1
+global %going%2
+eval coso %coso% + 1
+global coso
+if %coso% > 5
+shake
+wait 3
+say Basta, ora e' troppo, non c'e' mai niente in questo negozio
+wait 4
+emote se ne va con aria contrariata cercando un altro %going%
+unset compro
+unset vnum
+unset quanti
+unset %going%
+unset %going%2
+unset going
+unset coso
+else
+emote tira un sospiro non trovando %compro%
+wait 4
+emote dice al negoziante che ripassera' piu' tardi
+unset going
+unset compro
+unset vnum
+unset quanti
+end
+unset coso
+set azione cazzeggio
+global azione
+end
+end
+end
+~
+/s
+q
+y

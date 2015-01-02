@@ -1,0 +1,298 @@
+trigedit 12590
+6  
+/c 
+if %reset% > 100
+if %speech% == resetta
+set reset 0
+nod
+global reset
+mload mob 12595
+mgoto 2
+end
+end
+if %actor.name% == Un giudice
+if %speech% /= morto
+if %speech% == %1% e' morto
+set cadavere 1
+global cadavere
+end
+if %speech% == %2% e' morto
+set cadavere 2
+global cadavere
+end
+if %speech% == %3% e' morto
+set cadavere 3
+global cadavere
+end
+if %speech% == %4% e' morto
+set cadavere 4
+global cadavere
+end
+if %speech% == %5% e' morto
+set cadavere 5
+global cadavere
+end
+if %speech% == %6% e' morto
+set cadavere 6
+global cadavere
+end
+if %speech% == %7% e' morto
+set cadavere 7
+global cadavere
+end
+if %speech% == %8% e' morto
+set cadavere 8
+global cadavere
+end
+if %speech% == %9% e' morto
+set cadavere 9
+global cadavere
+end
+if %speech% == %10% e' morto
+set cadavere 10
+global cadavere
+end
+if %speech% == %11% e' morto
+set cadavere 11
+global cadavere
+end
+if %speech% == %12% e' morto
+set cadavere 12
+global cadavere
+end
+if %speech% == %13% e' morto
+set cadavere 13
+global cadavere
+end
+if %speech% == %14% e' morto
+set cadavere 14
+global cadavere
+end
+if %speech% == %15% e' morto
+set cadavere 15
+global cadavere
+end
+if %speech% == %16% e' morto
+set cadavere 16
+global cadavere
+end
+if %speech% == %17% e' morto
+set cadavere 17
+global cadavere
+end
+if %speech% == %18% e' morto
+set cadavere 18
+global cadavere
+end
+if %speech% == %19% e' morto
+set cadavere 19
+global cadavere
+end
+if %speech% == %20% e' morto
+set cadavere 20
+global cadavere
+end
+wait 1
+nod
+unset %cadavere%
+unset cadavere
+eval dentro %dentro% - 1
+global dentro
+if %dentro% == 1
+wait 5
+say Ebbene, ABBIAMO UN VINCITORE!
+mat %31% say Ebbene, ABBIAMO UN VINCITORE!
+mat %32% say Ebbene, ABBIAMO UN VINCITORE!
+mat %33% say Ebbene, ABBIAMO UN VINCITORE!
+mat %34% say Ebbene, ABBIAMO UN VINCITORE!
+mat %35% say Ebbene, ABBIAMO UN VINCITORE!
+mteleport %1% 29504
+mteleport %2% 29504
+mteleport %3% 29504
+mteleport %4% 29504
+mteleport %5% 29504
+mteleport %6% 29504
+mteleport %7% 29504
+mteleport %8% 29504
+mteleport %9% 29504
+mteleport %10% 29504
+mteleport %11% 29504
+mteleport %12% 29504
+mteleport %13% 29504
+mteleport %14% 29504
+mteleport %15% 29504
+mteleport %16% 29504
+mteleport %17% 29504
+mteleport %18% 29504
+mteleport %19% 29504
+mteleport %20% 29504
+wait 5
+say Complimenti vivissimi
+mload mob 12595
+mgoto 2
+wait 3
+clap
+wait 2 s
+wait ....e con questo e' tutto
+mpurge
+unset inizio
+unset arena
+unset 1
+unset 2
+unset 3
+unset 4
+unset 5
+unset 6
+unset 7
+unset 8
+unset 9
+unset 10
+unset 11
+unset 12
+unset 13
+unset 14
+unset 15
+unset 16
+unset 17
+unset 18
+unset 19
+unset 20
+unset 31
+unset 32
+unset 33
+unset 34
+unset 35
+unset 36
+unset 37
+unset 38
+unset 39
+unset 40
+unset cambio2
+unset cambia
+end
+end
+end
+if %speech% == combattenti
+if %starter% >= 1 || %inizio% == on
+wait 2
+say Ecco i %dentro% partecipanti: %1% %2% %3% %4% %5% %6% %7% %8% %9% %10%
+else
+wait 3
+say Non c'e' nessuno dentro al momento
+end
+end
+if %speech% == inizio
+if %actor.name% == %1%
+wait 5
+nod
+wait 3
+say l'arena partira' tra meno di un minuto
+set starter 20
+global starter
+else
+wait 4
+emote guarda %actor.name% attonito
+wait 5
+say Non l'avete avviata voi questa arena
+end
+end
+if %arena% == 0
+if %inizio% != on
+if %speech% == arena
+if %dentro% < 20
+if %dentro% == 0
+set reset 0
+global reset
+wait 3
+say Volete dunque iniziare un'arena voi non essendocene una aperta immagino....
+wait 5
+say Bene, l'arena partira' tra circa 5 minuti, se volete farla partire prima non avete che da dirmelo (&1Say inizio&0)
+end
+set arena on
+global arena
+wait 3
+say Dovete pagare tanti soldi quanti il vostro livello per 10
+wait 2
+eval prezzo %actor.level% * 10
+global prezzo
+say Nel vostro caso fanno %prezzo% coins
+unset prezzo
+set timer 1
+global timer
+else
+wait 3
+say Le iscrizioni hanno gia' raggiunto il tetto massimo di 20
+end
+end
+end
+if %speech% == spalti
+if %starter% >= 1 || %inizio% == on
+set arena tribuna
+global arena
+wait 3
+say Tribuna nord, est od ovest?
+set timer 1
+global timer
+else
+wait 2
+say Mi spiace ma non c'e' nessuno nell'arena da guardare al momento
+end
+end
+end
+if %speech% == est || %speech% == ovest || %speech% == nord
+if %arena% == tribuna
+if %speech% == nord
+if %actor.rank% < 8
+set azz on
+global azz
+end
+end
+if %azz% != on
+wait 2
+say Bene, ora vi prego di darmi le 200 monete del biglietto
+set arena spalti
+global arena
+set tribuna %speech%
+global tribuna
+else
+wait 2
+say Non potete entrare in quella tribuna, dovreste saperlo...bisogna essere un nobile o un funzionario
+unset azz
+end
+end
+end
+if %domanda% == on
+if %actor.name% == %nome%
+if %speech% == si
+wait 2
+say Dovrete darmi altre 1000 monete allora
+set domanda2 on
+global domanda2
+unset domanda
+end
+if %speech% == no
+wait 2
+emote scrolla le spalle
+wait 3
+say Va bene, buon divertimento
+wait 2
+emote ti conduce agli spalti %tribuna%
+if %tribuna% == ovest
+mtele %actor.name% 29511
+elseif %tribuna% == est
+mtele %actor.name% 29512
+elseif %tribuna% == nord
+mtele %actor.name% 29514
+end
+unset timer
+unset tribuna
+unset nome
+unset domanda
+unset arena
+end
+end
+end
+~
+/s
+q
+y

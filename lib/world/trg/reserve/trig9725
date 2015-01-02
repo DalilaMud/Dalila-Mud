@@ -1,0 +1,47 @@
+trigedit 9725
+6  
+/c 
+if %actor.name% == %padrone% || %actor.name% == Sem Joy || %actor.level% > 70
+if %speech% == casa
+if %lock_casa% == on
+wait 1 s
+say &3&xMio signore, ho gia' un domicilio...&0
+wait 1 s
+say &3&x...ma se vuole che io cambi basta dirmi &1CAMBIACASA&3 nella nuova abitazione&0
+else
+set lock_casa on
+global lock_casa
+set casa_padrone %self.room%
+global casa_padrone
+wait 1 s
+say &3&xBene mio signore! Grazie per l'ospitalita' &0
+end
+elseif %speech% == cambiacasa
+unset casa_padrone
+set casa_padrone %self.room%
+global casa_padrone
+wait 1 s
+say &3&xBene mio signore! Da oggi questa sara' la mia nuova dimora.&0
+elseif %speech% == rincasa
+wait 1 s
+say  Si mio signore' 
+wait 1 s
+emote si allontana frettolosamente
+mgoto %casa_padrone%
+rem anello
+follow me
+elseif %speech% == manager
+'&1&xPadrone &3&B%padrone% &1&x e ho &1&B%stipendio_arretrato% &1&x stipendi arretrati&0
+if %stipendio_arretrato% >2
+mgoto 36
+else end
+else
+end
+else
+wait 1 s
+say &1&xSpiacente non sei il mio padrone per dirmi questo&0
+end
+~
+/s
+q
+y

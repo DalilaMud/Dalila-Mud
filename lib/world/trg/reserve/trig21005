@@ -1,0 +1,18 @@
+trigedit 21005
+6  
+/c 
+if %speech% == devo entrare
+if %actor.name% == yaemon || %actor.name% == Sauzer || %actor.name% == boccadoro || %actor.name% == kurten || %actor.name% == azucena || %actor.name% == dolmant || %actor.name% == Mcleod || %actor.name% == Belar || %actor.name% == Enrique
+wait 2 s
+wsend %actor.name% Ad un tuo cenno una guardia ti fa entrare
+wait 2 s
+wteleport %actor.name% 21261
+wforce %actor.name% look
+else
+end
+else
+end
+~
+/s
+q
+y

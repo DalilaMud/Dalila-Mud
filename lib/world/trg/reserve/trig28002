@@ -1,0 +1,56 @@
+trigedit 28002
+6  
+/c 
+wait 20 s
+say Giro d'ispezione del castello!
+wait 6 s
+up
+w
+wait 20 s
+n
+wait 15 s
+emote controlla finestre e porte.
+wait 10 s
+n
+wait 10 s
+emote saluta formalmente la guardia a custodia degli appartamenti del Re.
+wait 10 s
+e
+wait 20 s
+e
+wait 20 s
+s
+wait 10 s
+say Sulla terrazza e' tutto ok!!
+wait 10 s
+e
+wait 20 s
+e
+wait 20 s
+s
+wait 10 s
+smile
+wait 10 s
+w
+wait 30 s
+down
+down
+wait 10 s
+emote assapora i profumi provenienti dalla cucina.
+wait 3 s
+say Attenti!! Viene prima l'incolumita' del nostro Re e poi le gioie del palato!!
+wait 20 s
+w
+wait 20 s
+w
+wait 10 s
+say Cambio della guardia!!!
+wait 4 s
+emote da' il cambio alla sentinella che si avvia verso la caserma.
+wait 10 s
+n
+say Riposo!!
+~
+/s
+q
+y

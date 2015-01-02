@@ -1,0 +1,39 @@
+trigedit 31106
+6  
+/c 
+wait 1
+eval colpi %random.10%
+if %colpi% == 1
+ mecho &3%self.name% sferra un calcio basso colpendo %actor.name% alle caviglie, che resta in piedi per pura fortuna.&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 2
+ mecho &1%self.name% salta e colpisce %actor.name% al volto con un possente calcio volante!&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 3
+ mecho &4&xLo sguardo intenso di %self.name% si trasforma in un sorriso compiaciuto mentre tira un calcio al petto di %actor.name%.&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 4
+ msend %actor.name% &1&xAvverti un improvviso dolore alla coscia destra e vedi una profonda ferita infertati da %self.name%.&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 5
+ msend %actor.name% &7La guancia sinistra ti si infiamma quando %self.name% ti colpisce con un possente gancio.&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 6
+ msend %actor.name% &7&x%self.name% ti fa vacillare con un diretto al naso!&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 7
+ mecho &4%actor.name% emette un rantolo di dolore quando %self.name% gli rompe una costola con una potente gomitata.&0
+ dg_cast 'disintegrate' %actor.name%
+elseif %colpi% == 8
+ mecho &xIl calcio alto di %self.name% colpisce %actor.name% al mento, accecandolo dal dolore.&0
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'blindness' %actor%
+elseif %colpi% == 9
+ mecho &3&x%self.name% fa un piccolo balzo in avanti, colpendo %actor.name% al petto con una dolorosa gomitata.&0
+ dg_cast 'disintegrate' %actor.name%
+end
+wait 6 s
+~
+/s
+q
+y

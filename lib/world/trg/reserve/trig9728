@@ -1,0 +1,20 @@
+trigedit 9728
+6  
+/c 
+if %actor.name% == Il ricercatore di manovali
+if %Titolare% == %Padrone%
+wait 2 s
+say Certamente
+wait 1 s
+emote si allontana frettolosamente
+mgoto %casa_padrone%
+else
+wait 2 s
+say Non mi Interessa
+end
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,19 @@
+trigedit 1498
+6  
+/c 
+if %actor.name% == cabal
+wait 2 s
+osend cabal Lo sguardo ghignante di questa testa ti riporta alla mente l'incubo della prigionia...
+wait 2 s
+osend cabal La risata della Matrona rimbomba nella tua mente...
+end
+if %victim.name% == cabal
+wait 2 s
+osend cabal Lo sguardo ghignante di questa testa ti riporta alla mente l'incubo della prigionia...
+wait 2 s
+osend cabal La risata della Matrona rimbomba nella tua mente...
+end
+~
+/s
+q
+y

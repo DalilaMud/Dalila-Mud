@@ -1,0 +1,18 @@
+trigedit 2535
+6  
+/c 
+* Lista comandi
+msend %actor.name% &1&xCerberus ti azzanna alla gola, tranciandoti la giugulare&0
+mechoaround %actor.name% &1&xUna delle teste di Cerberus azzanna %actor.name% alla gola!&0
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+dg_cast 'disintegrate' %actor.name%
+~
+/s
+q
+y

@@ -1,0 +1,18 @@
+trigedit 20028
+6  
+/c 
+if %actor.name% == orome
+oecho &RL'armeria brilla per qualche istante di un'arcana luce magica&d
+wait 1 s
+oecho L'armeria produce le due spade di Orome!
+oload obj 20028
+oload obj 20008
+halt
+end
+else
+oecho &RIl pentacolo produce qualche scintilla...&d
+end
+~
+/s
+q
+y

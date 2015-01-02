@@ -1,0 +1,51 @@
+trigedit 28114
+6  
+/c 
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% Una rapido volo verso un'ancor piu' rapida morte. 
+wait 5 s
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% Entri nelle nere nuvole che nascondono l'abisso.
+wait 5 s
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% Un fulmine ti sfiora, la caduta sembra non dover terminare mai.
+wait 5 s
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% L'oscurita' delle nuvole nasconde il fondo dell'abisso, la velocita' aumenta.
+wait 5 s
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% Forse sei caduto in un abisso senza fine, cadere per l'eternita'.
+wait 5 s
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% La forza del vento ti costringe a chiudere i tuoi occhi.
+wait 5 s
+%force% all clear
+%echo% .
+%echo% .
+%echo% . 
+%echo% Una risata riecheggia nella tua mente, tutto questo non ha senso non e' reale.
+wait 3 s
+%force% all sleep
+%teleport% all 140%random.9%4%random.99%
+~
+/s
+q
+y

@@ -1,0 +1,19 @@
+trigedit 1430
+6  
+/c 
+set runa 1
+global runa
+wait 1 s
+return 0
+oechoaround %actor.name% &7%actor.name% afferra la runa che scompare mentre viene avvolto da una luce divina&0
+osend %actor.name% &7Non appena afferri la runa vieni avvolto da una luce divina&0
+dg_affect %actor.name% sanct 0 2
+wait 1 s
+osend %actor.name% &1&xLa Runa diventa cosi' incandescente che sei costretto a posarla!&0
+oload mob 548
+oforce %actor.name% rimu runa
+oforce %actor.name% posa runa
+~
+/s
+q
+y

@@ -1,0 +1,43 @@
+trigedit 1631
+6  
+/c 
+* Lista comandi
+eval number %random.10%
+switch %number%
+case 10
+say Sei uno sporco schiavista!!!
+say Ti odio! Non mi paghi abbastanza!!!
+say Sfruttatore!!!
+break
+case 9
+say Capo, che dici, pausa?
+say Inizio ad essere stanco!!!
+say Non e' abbastanza per oggi?
+break
+case 8
+say Posso assentarmi un attimo?
+wait 1
+say Ho un impegno altrove!!!!
+break
+case 7
+say Urka!!!! Mi son scordato il fuoco in casa!!!!
+wait 2
+say Speriamo di avere ancora una casa!!!!
+break
+case 6
+say Fammi pensare....
+wait 4
+say Perche' mai ho scelto questo lavoro?
+wait 1
+say Schiavista!!!!
+break
+default
+wait 2
+say Ti prego, basta, lasciami riposare!!!!
+wait 2
+break
+done
+~
+/s
+q
+y

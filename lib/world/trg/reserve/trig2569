@@ -1,0 +1,19 @@
+trigedit 2569
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &7Il pupazzetto&2 si rizza in piedi e ti ammicca...&0
+wait 1 s
+oecho &7Il pupazzetto&2 comincia a parlare con voce suadente...&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &7Il pupazzetto&5 dice, 'L'importante non e' fare una cosa bene o male, ma farla con stile'&0
+else
+oecho &7Il pupazzetto&5 dice, 'Lo stile e' il metro di tutto'&0
+end
+~
+/s
+q
+y

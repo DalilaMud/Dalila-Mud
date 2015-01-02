@@ -1,0 +1,14 @@
+trigedit 1420
+6  
+/c 
+if %orso% == 0
+halt
+end
+set orso 0
+global orso
+oecho &7&xL'orso ritorna nell'amuleto!&0
+opurge oooop
+~
+/s
+q
+y

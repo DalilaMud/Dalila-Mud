@@ -1,0 +1,15 @@
+trigedit 1382
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.name% == Ivellios
+%echo% &7L'anello splende al dito di Ivellios brillando del suo amore per Tera&0
+elseif %actor.name% == Tera
+%echo% &3L'anello avvolge il dito di Tera in un abbraccio.. l'amore per Ivellios lo fa brillare&0
+else
+end
+~
+/s
+q
+y

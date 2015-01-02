@@ -1,0 +1,11 @@
+trigedit 31504
+6  
+/c 
+wait 3 s
+wecho &6Improvvisamente perdi l'equilibrio e inizi a scivolare verso il basso!&0
+wait 1 s
+wforce all down
+~
+/s
+q
+y

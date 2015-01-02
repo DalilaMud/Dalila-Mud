@@ -1,0 +1,35 @@
+trigedit 41504
+6  
+/c 
+context %actor.id%
+if (ulexon_1_chap_anfiteatro==on) 
+ if ((actor.has_item(41502) && (actor.has_item(41503))
+ say &6Ohhh sembra che tu abbia trovato qualcosa di interessante...&0
+ emote osserva con attenzione le pietre che hai trovato.
+ wait 3 s
+ say &6Incredibile.., hai visto che strani disegni che formano le luci? questa e' roba da Pandion...&0
+ say &6Forse potrebbe interessare il nostro Capo: Malez, sapete lui e' un Pandion dai grandi poteri.&0
+ wait 4 s
+ say &6Ad ogni modo, le domande che dobbiamo porci sono: Sono collegate all'apparizione degli spettri?&0
+ say &6Come ci sono finite qui? Da dove provengono? E perche' in'ora non han dato problemi?
+ wait 4 s
+ say &6Se volete un consiglio oltre a parlare con Malez dovrest recarvi al Comune di Lamorka e chiedere a Marzio&0
+ say &0di &3consultare&6 i registri catastali, e anche parlare con Malez non sarebbe una cattiva idea&0
+ wait 4 s
+ set ulexon_1_chap_catasto on
+ remote ulexon_1_chap_catasto %actor.id%
+ set ulexon_1_chap_anfiteatro off
+ remote ulexon_1_chap_anfiteatro %actor.id%
+ set ulexon_1_chap_malez on
+ remote ulexon_1_chap_malez %actor.id%
+ else
+ say &6 Allora?!? Avete trovato niente nella zona del crollo?!? &0
+ say &6Nulla?! Tornate li' e cercate meglio! Ci sono in ballo un sacco di soldi oltre alla nostra reputazione!&0
+ end
+else
+halt
+end
+~
+/s
+q
+y

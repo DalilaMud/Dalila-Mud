@@ -1,0 +1,25 @@
+trigedit 11021
+6  
+/c 
+%echoaround% %actor% &G%actor.name% coraggiosamente si tuffa nella crepa!&0
+%send% %actor% &GCoraggiosamente ti tuffi nella crepa&0
+eval entra 0
+if %actor.eq(6).shortdesc% == delle &Rrosse&0 corna di un &rdemone&0
+eval entra 1
+end
+if %actor.eq(17).shortdesc% == Un &Znero&0 cuore di &rdemone&0
+eval entra 1
+end
+if %actor.eq(12).shortdesc% == &ZNere&0 ali di &rdemone&0
+eval entra 1
+end
+if %entra% == 0
+%teleport% %actor.name% 11036
+end
+if %entra% == 1
+%teleport% %actor.name% 11027
+end
+~
+/s
+q
+y

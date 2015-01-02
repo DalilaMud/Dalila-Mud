@@ -1,0 +1,12 @@
+trigedit 1353
+6  
+/c 
+* Lista comandi
+wait 1
+echo &0&xL'anima fiera del drago si agita nel corpo non morto...&0
+wait 1 s
+dg_cast 'acid breath' %proprietario%
+~
+/s
+q
+y

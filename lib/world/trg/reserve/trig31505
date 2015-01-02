@@ -1,0 +1,17 @@
+trigedit 31505
+6  
+/c 
+wait 1 s
+if %actor.vnum% == -1
+ if %actor.align% > 0
+  say Andate via da qui!! Sono al lavoro e non voglio essere disturbato!
+ else
+  say Dei criminali!!! All'attacco!!!
+  wait 1 s
+  kill %actor.name%
+end
+end
+~
+/s
+q
+y

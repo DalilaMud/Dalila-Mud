@@ -1,0 +1,19 @@
+trigedit 1665
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1
+wait 1 s
+emote alza la punta della katana verso di te.
+wait 1 s
+say Questo e' l'appartamento privato dello Shogun
+wait 1 s
+emote assume una posizione di difesa
+wait 1 s
+say Vattene subito, o morirai.
+end
+halt
+~
+/s
+q
+y

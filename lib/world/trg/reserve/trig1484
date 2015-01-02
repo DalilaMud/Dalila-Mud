@@ -1,0 +1,40 @@
+trigedit 1484
+6  
+/c 
+if %actor.name% != dolmant
+if %provocazione% == 0
+wait 1 s
+look %actor.name%
+wait 1 s
+say %actor.name% noi riceviamo ordini solo da Sire Dolmant.
+wait 1 s
+say Vi consigliamo di non riprovare ad osare di darci ordini.
+set provocazione 1
+global provocazione
+else
+wait 1 s
+say %actor.name%, siete gia' stato avvisato di non osare darci ordini...
+wait 1 s
+say Avete dieci secondi di tempo per andarvene, o saremo costretti a neutralizzarvi.
+wait 1 s
+emote Porta la mano alla spada e la sguaina&0
+wait 9 s
+unset provocazione
+mkill %actor.name%
+end
+halt
+end
+if %speech% == guardie aprite
+set controllo 1
+global controllo
+wait 5
+unlock porta
+apri porta
+wait 10 s
+chiudi porta
+lock porta
+end
+~
+/s
+q
+y

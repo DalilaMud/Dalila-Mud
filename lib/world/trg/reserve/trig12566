@@ -1,0 +1,48 @@
+trigedit 12566
+6  
+/c 
+if %actor.name% /= npg
+if %speech% > 0 && %speech% < 11
+wait 3
+nod
+wait 3
+if %speech% == 1
+set prodotto %1%
+elseif %speech% == 2
+set prodotto %2%
+elseif %speech% == 3
+set prodotto %3%
+elseif %speech% == 4
+set prodotto %4%
+elseif %speech% == 5
+set prodotto %5%
+elseif %speech% == 6
+set prodotto %6%
+elseif %speech% == 7
+set prodotto %7%
+elseif %speech% == 8
+set prodotto %8%
+elseif %speech% == 9
+set prodotto %9%
+elseif %speech% == 10
+set prodotto %10%
+end
+say %prodotto%
+end
+end
+if %actor.name% /= controllore
+if %speech% == buongiorno
+wait 5
+say Buongiorno a voi
+end
+if %speech% /= resto
+wait 2
+set %speech%
+give %resto% coins controllore
+mat 3 drop prodotto
+end
+end
+~
+/s
+q
+y

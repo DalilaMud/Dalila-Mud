@@ -1,0 +1,504 @@
+#6000
+john taglialegna~
+John il taglialegna~
+John il taglialegna si trova qui, in cerca di qualche albero da abbattere.
+~
+E' alto 1,80 m circa e sembra abbastanza forte. I muscoli rigonfi sono
+ben visibili sotto la pesante camicia a quadri che indossa.
+I lineamenti del suo volto sono quelli di un uomo che lavora sodo e
+l'espressione del suo viso e' quella di un uomo pacifico che conduce
+una vita semplice.
+~
+~
+~
+~
+6220 32 370 -1 -1 -1 -1 -1 E
+9 15 6 1d1+80 1d8+1
+8 2300
+8 8 1
+E
+#6001
+coniglio piccolo~
+un coniglio~
+Un piccolo coniglio sta mangiando dell'erba.
+~
+E' una piccola creatura pelosa con lunghe orecchie e grosse zampe.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+5 16 10 1d1+45 1d6+0
+4 200
+8 8 0
+E
+#6002
+orso bruno~
+l'orso bruno~
+Un grosso orso bruno dall'aria irritata si trova qui.
+~
+L'orso e' un animale grosso, di color marrone, con artigli enormi e denti
+molto aguzzi. Non assomiglia affatto agli orsacchiotti che puoi trovare
+in vendita nei negozi di giocattoli.
+~
+~
+~
+~
+279656 0 -50 -1 -1 -1 -1 -1 E
+12 14 6 1d1+120 1d10+2
+9 6000
+4 8 1
+E
+#6003
+coniglio rabbioso~
+il coniglio rabbioso~
+Un coniglio rabbioso si trova qui, con la bava alla bocca.
+~
+Questa piccola creatura pelosa con lunghe orecchie e grosse zampe
+deve essere stata contagiata dalla rabbia, una malattia terribile che
+trasforma i conigli inermi e pacifici in mostri rabbiosi e assetati di
+sangue.
+~
+~
+~
+~
+104 0 -150 -1 -1 -1 -1 -1 E
+6 15 9 1d1+45 1d7+0
+6 650
+4 8 0
+E
+#6004
+cerva fulva~
+una cerva fulva~
+Una cerva fulva sta brucando l'erba.
+~
+E' una graziosa creatura con zampe lunghe e snelle e grandi occhi
+marroni che ti osservano con guardingo interesse.
+~
+~
+~
+~
+200 8 350 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 1d7+1
+7 350
+8 8 2
+E
+#6005
+volpe marrone~
+la volpe marrone~
+Una volpe marrone sta cacciando i conigli che si nascondono tra l'erba alta.
+~
+E' una volpe di grosse dimensioni, dal pelo marrone-rossiccio ed una
+lunga coda pelosa.
+~
+~
+~
+~
+72 0 -50 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 2d4+1
+5 350
+8 8 2
+BareHandAttack: 4
+E
+#6006
+uccello grosso~
+un grosso uccello~
+Un grosso uccello con un'ala spezzata e' stato chiuso in un angolo.
+~
+L'uccello non vivra' a lungo a giudicare dalle ferite che la lince
+gli ha inferto.
+~
+~
+~
+~
+10 4194304 0 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 1d4+7
+8 200
+8 8 1
+E
+#6007
+lince rossa~
+una lince rossa~
+Una lince rossa di taglia media sta per dare il colpo di grazia ad un uccello.
+~
+La lince ha artigli affilati e denti aguzzi e, se ne avra' la possibilita',
+mangera' te invece dell'uccello.
+~
+~
+~
+~
+42 1032 -150 -1 -1 -1 -1 -1 E
+11 14 6 1d1+100 1d8+2
+8 12000
+8 8 2
+E
+#6008
+passero~
+un passero~
+Un passero sta svolazzando tra i rami piu' bassi della quercia.
+~
+Il passero sembra entusiasta della sua esistenza.
+~
+~
+~
+~
+74 0 200 -1 -1 -1 -1 -1 E
+10 14 7 1d1+90 2d4+1
+10 200
+8 8 1
+E
+#6009
+pettirosso~
+un pettirosso~
+Un pettirosso saltella qua attorno in cerca di un verme da mangiare.
+~
+Il pettirosso sembra tutto preso dalla sua ricerca di cibo.
+~
+~
+~
+~
+72 0 200 -1 -1 -1 -1 -1 E
+5 16 9 1d1+40 1d7+0
+3 2000
+8 8 1
+E
+#6010
+uno scoiattolo orribile~
+uno scoiattolo~
+Una creatura dalla forma vagamente scoiattolesca digrigna i denti con cattiveria...
+~
+Ha gli occhi iniettati di sangue!
+Per lo piu' ha perso la peluria...e e si vedono grosse croste sulla pelle.
+Hai voglia di far qualsiasi cosa..ma non di accarezzarlo..
+~
+~
+~
+~
+1546 786432 200 -1 -1 -1 -1 -1 E
+6 15 9 1d1+90 3d8+0
+5 37000
+8 8 1
+E
+#6011
+tasso~
+un tasso assonnato~
+Un tasso dalla pelliccia marrone e' raggomitolato sotto ad un tronco.
+~
+Il tasso si sta lentamente svegliando e ti osserva dal suo nascondiglio.
+Sai che non si muovera' cosi' lentamente ancora a lungo. I suoi artigli
+affilati ed i suoi denti aguzzi attirano la tua attenzione mentre
+rifletti se ucciderlo o meno.
+~
+~
+~
+~
+10 524288 50 -1 -1 -1 -1 -1 E
+7 16 7 1d1+60 1d7+1
+5 1100
+8 8 1
+E
+#6012
+scoiattolo grigio~
+uno scoiattolo grigio~
+Uno scoiattolo grigio, con una grossa coda pelosa, sta rosicchiando una ghianda.
+~
+Questa creatura non sembra affatto badare a te, ma e' occupatissima
+a cercare, fra le foglie, delle ghiande ed a farle cadere per terra.
+~
+~
+~
+~
+72 262144 150 -1 -1 -1 -1 -1 E
+9 15 7 1d1+90 2d4+1
+7 350
+8 8 1
+E
+#6013
+chipmunk~
+un piccolo chipmunk~
+Un piccolo chipmunk dal pelo marrone-rossastro saltella di ramo in ramo.
+~
+Il piu' calzante esempio di iperattivita' si trova di fronte ai tuoi
+occhi. Questo piccolo roditore sembra non stancarsi mai di correre
+su, giu' e attorno agli alberi di questa area. 
+Se riuscissi a prenderlo, sei certo che sarebbe un buon pasto.
+~
+~
+~
+~
+72 262144 170 -1 -1 -1 -1 -1 E
+5 16 9 3d1+40 1d6+0
+4 200
+8 8 1
+E
+#6014
+corvo nero uccello~
+un grosso corvo nero~
+Un grosso uccello nero svolazza qua attorno, beccando ogni tanto il cadavere dell'orso.
+~
+Gli occhi dell'uccello ti guardano con attenzione mentre continua
+il suo pasto.
+~
+~
+~
+~
+14 4194304 -20 -1 -1 -1 -1 -1 E
+7 17 7 1d1+60 1d7+0
+6 300
+8 8 0
+E
+#6015
+avvoltoio grottesco~
+un grottesco avvoltoio~
+Un grottesco avvoltoio coperto di sangue e sporcizia sta consumando il suo orribile pasto.
+~
+Anche solo guardare questo uccello ti da la nausea. Pezzi di interiora secchi
+pendono dal suo becco e organi, ormai irriconoscibili, pendono dalle
+sue zampe e dalle piume. Ti attacca non appena ti vede per proteggere
+il suo orribile pasto!
+~
+~
+~
+~
+46 4195336 -700 -1 -1 -1 -1 -1 E
+6 15 8 1d1+50 1d8+0
+6 3000
+8 8 0
+E
+#6016
+cervo~
+un giovane cervo~
+Un giovane cervo si sta abbeverando alle acque del lago.
+~
+Questo giovane cervo maschio si sta abbeverando alle sponde del lago.
+Si volta e ti osserva preoccupato quando ti avvicini. Le sue corna non
+sono ancora del tutto cresciute, ma sei certo che fra alcuni anni
+saranno di dimensioni impressionanti.
+~
+~
+~
+~
+74 8 350 -1 -1 -1 -1 -1 E
+6 16 8 1d1+50 1d6+0
+5 1000
+8 8 1
+E
+#6017
+pesce~
+un pesce~
+Un pesce sta nuotando qua attorno.
+~
+Il pesce sembra proprio della grandezza adatta per un sostanzioso
+pranzetto.
+~
+~
+~
+~
+72 64 100 -1 -1 -1 -1 -1 E
+5 16 10 1d1+40 1d5+0
+4 180
+8 8 0
+E
+#6018
+anatroccolo~
+un anatroccolo~
+Un anatroccolo sta nuotando in circolo nelle acque del lago.
+~
+L'anatroccolo e' adorabile, assomiglia piu' che altro ad un
+soffice batuffolo di pelo.
+~
+~
+~
+~
+72 64 1000 -1 -1 -1 -1 -1 E
+7 16 7 1d1+60 1d7+1
+6 180
+8 8 0
+E
+#6019
+anatra~
+un'anatra~
+Un'anatra e' qui che starnazza felice.
+~
+L'anatra e' abbastanza grassoccia. Sembra molto felice della sua esistenza.
+~
+~
+~
+~
+72 64 1000 -1 -1 -1 -1 -1 E
+8 15 7 1d1+50 1d8+1
+6 180
+8 8 2
+E
+#6020
+Karim ricercato~
+Karim il ricercato~
+Karim il ricercato e' sorpreso dalla tua irruzione.
+~
+Karim il ricercato ha un viso solcato da un grossa cicatrice che
+la barba incolta non riesce a nascondere. Sembra molto sorpreso
+dal fatto che tu sia riuscito a scovare il suo covo.
+~
+~
+~
+~
+23054 1024 -400 -1 -1 -1 -1 -1 E
+12 14 7 1d1+140 2d5+2
+8 30000
+8 8 1
+E
+#6021
+folletto taglialegna~
+un folletto taglialegna~
+Un folletto e' intento a segare un rametto minuscolo.
+~
+   Mai visto un folletto tagliare la legna?    
+~
+~
+~
+~
+266344 1024 0 -1 -1 -1 -1 -1 E
+5 16 8 1d1+40 1d8+1
+3 2000
+8 8 0
+E
+#6022
+folletta cercafunghi~
+una folletta cercafunghi~
+Una folletta e' alla ricerca di qualche piccolo fungo.
+~
+   Ha un'aria speranzosa.    
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+6 17 8 1d1+55 1d7+0
+5 3000
+8 8 2
+E
+#6023
+troll silvano~
+Un troll silvano~
+Un troll dalla pelle verde si aggira in cerca di qualcosa da mangiare...
+~
+E' molto attento.. probabilmente ha individuato la sua preda...
+Potresti anche essere tu!
+~
+~
+~
+~
+1864 0 -200 -1 -1 -1 -1 -1 E
+30 12 0 1d1+250 4d8+6
+26 0
+8 8 0
+BareHandAttack: 4
+E
+#6024
+folletto sinistro~
+Un folletto dall'aspetto sinistro...~
+Un folletto dall'aspetto sinistro ti guarda di traverso...sogghignando...
+~
+Forse un tempo era un folletto...ma adesso e' solo un piccolo concentrato di malvagita'...
+Un forza oscura deve averlo trasformato...
+~
+~
+~
+~
+6248 1024 0 -1 -1 -1 -1 -1 E
+8 16 5 1d1+80 4d5+2
+8 4000
+8 8 0
+E
+#6025
+folletto disperato~
+Un folletto disperato~
+Un folletto disperato si graffia il viso e grida in preda al furore!
+~
+Uaaharahhaahahhah!!!!
+~
+~
+~
+~
+1896 0 -400 -1 -1 -1 -1 -1 E
+12 16 4 1d1+60 2d5+7
+11 4000
+8 8 0
+E
+#6026
+folletto maligno~
+un folletto maligno~
+Un folletto maligno e' qui che sogghigna.
+~
+   HiiHiiHii....  Ti ha appena rubato l'anima....    
+~
+~
+~
+~
+262248 1032 -1000 -1 -1 -1 -1 -1 E
+7 16 8 1d1+50 2d5+4
+5 10000
+8 8 0
+E
+#6027
+spiritello malvagio~
+uno spiritello malvagio~
+Uno spiritello malvagio saltella qua e la ghignando maleficamente...
+~
+E' cattivo, fastidioso, dispettoso e ha un senso dell'umorismo terribile!
+~
+~
+~
+~
+263752 262144 -400 -1 -1 -1 -1 -1 E
+9 15 6 1d1+120 2d7+5
+8 11000
+8 8 0
+E
+#6028
+folletto matto~
+un folletto matto~
+Un folletto ammattito saltella qui in giro.
+~
+   Volaaaaa vola vola vola.....    
+~
+~
+~
+~
+65546 0 0 -1 -1 -1 -1 -1 E
+8 15 7 1d1+70 2d4+1
+6 25000
+8 8 0
+E
+#6029
+folletto cacciatore~
+un folletto cacciatore~
+Un folletto e' qui in attesa della preda.
+~
+   Uno...  Due...  Tre...  Ventidue....  Cento....    
+~
+~
+~
+~
+49162 0 0 -1 -1 -1 -1 -1 E
+6 16 9 1d1+50 2d2+0
+5 27000
+8 8 0
+E
+#6080
+drago~
+un drago della chiesa~
+un drago della sacra chiesa e' qui
+~
+Un enorme drago sacro.
+~
+~
+~
+~
+58722312 1152 0 -1 -1 -1 -1 -1 E
+85 -20 -10 30d30+0 20d20+40
+72 100000
+8 8 1
+BareHandAttack: 12
+E
+$

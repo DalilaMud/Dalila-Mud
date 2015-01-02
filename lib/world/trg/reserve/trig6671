@@ -1,0 +1,16 @@
+trigedit 6671
+6  
+/c 
+* Lista comandi
+if %actor.name% == un gatto
+set sentinella dorme
+global sentinella
+wait 1 s
+mecho La sentinella ti mostra le sue tonsille mentre sbadiglia.
+wait 1 s
+mecho Una Sentinella ridacchia nel sonno.
+end
+~
+/s
+q
+y

@@ -1,0 +1,101 @@
+trigedit 11044
+6  
+/c 
+if %stato% == spenta
+   if (%temperatura% > 0)
+      eval tmp %temperatura%
+      eval temperatura (%tmp% - 50)
+      global temperatura
+   end
+halt
+end
+if %stato% == accesa
+   * parte consuma carbone
+   if %unita_carbone% >= 1
+      eval u_carb %unita_carbone%
+      eval unita_carbone %u_carb% - 1
+      global unita_carbone
+      if %temperatura% <= 2000
+         eval tmp %temperatura%
+         eval temperatura (%tmp% + 50)
+         global temperatura
+      end
+   end
+   if %unita_carbone% == 0
+      %echo% La fucina si spegne lentamente per mancanza di carbone.
+      eval stato spenta
+      global stato
+   end
+   * parte fusione metallo
+   eval stampo %self.contents%
+   while %stampo%
+   if %stampo.vnum% == 11016
+      eval contenuto %stampo.contents%
+      eval vnum 0
+      * ematite - ferro
+      if %contenuto.vnum% == 2201
+         if %temperatura% <= 1500
+            %echo% La temperatura della fucina non e' sufficiente per scogliere il ferro contenuto nell'ematite.
+         else
+            eval vnum 2261
+         end
+      end
+      * silvanite - argento
+      if %contenuto.vnum% == 2202
+         if %temperatura% <= 950
+            %echo% La temperatura della fucina non e' sufficiente per scogliere l'argento contenuto nella silvanite.
+         else
+            eval vnum 2262
+         end
+      end
+      * malachite - rame
+      if %contenuto.vnum% == 2203
+         if %temperatura% <= 1100
+            %echo% La temperatura della fucina non e' sufficiente per scogliere il rame contenuto nella malachite.
+         else
+            eval vnum 2263
+         end
+      end
+      * cassiterite - zinco
+      if %contenuto.vnum% == 2204
+         if %temperatura% <= 400
+            %echo% La temperatura della fucina non e' sufficiente per scogliere lo zinco contenuto nella cassiterite.
+         else
+            eval vnum 2264
+         end
+      end
+      * sfalerite - stagno
+      if %contenuto.vnum% == 2205
+         if %temperatura% <= 200
+            %echo% La temperatura della fucina non e' sufficiente per scogliere lo stagno contenuto nella sfalerite.
+         else
+            eval vnum 2265
+         end
+      end
+      * pepita - oro
+      if %contenuto.vnum% == 2206
+         if %temperatura% <= 1000
+            %echo% La temperatura della fucina non e' sufficiente per scogliere l'oro nella pepita.
+         else
+            eval vnum 2266
+         end
+      end
+      if %vnum% != 0
+         %purge% %contenuto%
+         %echo% Il metallo nello stampo comincia a sciogliersi.
+         eval fuso si
+         %load% obj %vnum% %stampo%
+       end
+   end
+   eval tmp %stampo.next_in_list%
+   eval stampo %tmp%
+   done
+   if %fuso% == si
+      wait 6 s
+      %echo% Lo stampo e' pieno di metallo fuso... e' ora di tirarlo fuori.
+   end
+end
+~
+/s
+q
+y

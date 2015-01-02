@@ -1,0 +1,12 @@
+trigedit 1655
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1
+ wait 1 s
+ dg_affect %actor.name% sleep 0 1
+end
+~
+/s
+q
+y

@@ -1,0 +1,16 @@
+trigedit 20077
+6  
+/c 
+if  %actor.affect(fly)% == 1
+wait 1 s
+osend %actor.name% Stai gia' volando!
+halt
+end
+dg_cast 'fly' %actor.name%
+wait 1 s
+osend %actor.name% &cDispieghi le tue Ali da GabbianO e ti libri in volo.... ah... la liberta'!&d
+oechoaround %actor.name% &c%actor.name% si libra in volo sbattendo le sue Ali da GabbianO&d
+~
+/s
+q
+y

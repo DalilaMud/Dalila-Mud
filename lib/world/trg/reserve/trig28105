@@ -1,0 +1,28 @@
+trigedit 28105
+6  
+/c 
+if %self.varexists(totaltopo)%
+if %totaltopo% > 90
+halt
+end
+else
+set totaltopo 1
+global totaltopo
+end
+set totaltopo %totaltopo%
+eval num %random.36%
+if %num% == 1
+  oecho Un piccolo topo esce dalla sua tana.
+  oload mob 28100
+  eval totaltopo %totaltopo% + 1
+end
+if %num% == 2
+  oecho Un topo lascia la sua tana.
+  oload mob 28101
+  eval totaltopo %totaltopo% + 1
+end
+global totaltopo
+~
+/s
+q
+y

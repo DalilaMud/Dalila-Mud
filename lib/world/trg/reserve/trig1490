@@ -1,0 +1,16 @@
+trigedit 1490
+6  
+/c 
+if %actor.name% != dolmant
+halt
+end
+wforce dolmant emote prende un campanello di cristallo dalla scrivania e lo fa squillare tre volte
+wforce gdd mat gcd mecho &7&xIl limpido squillo di un campanello trilla per tre volte&0
+wait 2 s
+wforce gdd mat gcd mforce gcd say Re Dolmant non intende ricevervi %ospite%
+wait 2 s
+wforce gdd mat gcd mforce gcd say Siete pregato di andarvene
+~
+/s
+q
+y

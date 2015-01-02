@@ -1,0 +1,11 @@
+trigedit 1477
+6  
+/c 
+if %wear% != 1
+halt
+end
+odamage %pg% 10
+~
+/s
+q
+y

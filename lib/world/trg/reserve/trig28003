@@ -1,0 +1,31 @@
+trigedit 28003
+6  
+/c 
+wait 1
+if %speech% == pesce
+give pesce %actor.name%
+elseif %speech% == verdura
+give verdura %actor.name%
+elseif %speech% == carne
+give carne %actor.name%
+elseif %speech% == frutta
+give frutta %actor.name%
+elseif %speech% == torta
+give torta %actor.name%
+elseif %speech% == pagnotta
+give pagnotta %actor.name%
+elseif %speech% == focaccia
+give focaccia %actor.name%
+elseif %speech% == pizza
+give pizza %actor.name%
+elseif %speech% == dolce
+give dolce %actor.name%
+elseif %speech% == pane
+give pane %actor.name%
+elseif %speech% == zuppa
+give zuppa %actor.name%
+end
+~
+/s
+q
+y

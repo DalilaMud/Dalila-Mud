@@ -1,0 +1,95 @@
+trigedit 12607
+6  
+/c 
+ set testo %arg%
+ global testo
+ 
+ if %actor.vnum% == -1
+   halt
+ end
+ 
+ if %arg% /= vai nord
+   nord
+   set direx sud
+ elseif %arg% /= vai sud
+   sud
+   set direx nord
+ elseif %arg% /= vai est
+   est
+   set direx ovest
+ elseif %arg% /= vai ovest
+   ovest
+   set direx est
+ elseif %arg% /= marcia nord
+   set direx nord
+ elseif %arg% /= marcia sud
+   set direx sud
+ elseif %arg% /= marcia est
+   set direx est
+ elseif %arg% /= marcia ovest
+   set direx ovest
+ elseif %arg% /= viaggiamo in colonna
+   %purge% fanti1
+   set swap %m1%
+   set m1 %m4%
+   set m4 %swap%
+   set swap %m2%
+   set m2 %m3%
+   set m3 %swap%
+   set formaxione colonna
+   global formaxione
+   set lup 1
+   while %lup% <= 4
+     global m%lup%
+     eval lup %lup% + 1
+   done
+   halt
+ else
+   halt
+ end
+ if %formaxione% != colonna
+   set m0 %m1%
+   set m1 %m2%
+   set m2 %m3%
+   set m3 %m4%
+   set m4 %direx%
+ elseif %m4% != nil
+   set m0 %m1%
+   set m1 %m2%
+   set m2 %m3%
+   set m3 %m4%
+   set m4 %direx%
+   %m0%
+ elseif %m3% != nil
+   set m0 %m1%
+   set m1 %m2%
+   set m2 %m3%
+   set m3 %direx%
+   set m4 nil
+   %m0%
+ elseif %m2% != nil
+   set m0 %m1%
+   set m1 %m2%
+   set m2 %direx%
+   set m3 nil
+   set m4 nil
+   %m0%
+ else
+   set m0 %m1%
+   set m1 %direx%
+   set m2 nil
+   set m3 nil
+   set m4 nil
+   %m0%
+ end
+    
+ set lup 0
+ while %lup% <= 4
+   global m%lup%
+   eval lup %lup% + 1
+ done
+  
+~
+/s
+q
+y

@@ -1,0 +1,71 @@
+trigedit 31528
+6  
+/c 
+ if %object.vnum% == 31523 && %quest% == 1
+    say Grazie Avventurieri per aver recuperato il teschio del drago assassino!
+    wait 1 s
+    say Per ricompensarvi,preghero' per voi affinche gli Dei vi proteggano!
+    dgaffect %actor.name% sanc 0 6
+    mpurge teschio
+    eval counter 0
+    global counter
+    set mob 1
+    global mob
+    set quest 0
+    global quest
+   elseif %object.vnum% == 1910 && %quest% == 2
+    say Grazie avventurieri per aver recuperato la pelle del Dio della montagna!!
+    wait 1 s
+    say Per ricompensarvi preghero' le potenze del mondo dei morti affinche' vi proteggano!
+    dg_affect %actor.name% deathdance 0 6
+    mpurge kimmun
+    eval counter 0
+    global counter
+    set mob 1
+    global mob
+    set quest 0
+    global quest
+   elseif %object.vnum% == 1946 && %quest% == 4
+    say Grazie avventurieri per aver recuperato questo paio di ali di farfalla!!
+    wait 1 s
+    say Per ricompensarvi utilizzero' su di voi una polverina miracolosa..si dice che sdoppi l'immagine di chi la usa!
+    wait 1 s
+    emo prende una manciata di polvere da un sacchetto e la lancia su %actor.name%
+    dg_affect %actor.name% mirrorimage 0 6
+    mpurge farfalla
+    eval counter 0
+    global counter
+    set mob 1
+    global mob
+    set quest 0
+    global quest
+   elseif %object.vnum% == 31520 && %quest% == 5
+    say Grazie avventurieri per aver rubato l'artiglio del perfido Wang-Cheng!!
+    wait 1 s
+    say Per ricompensarvi vi copriro' d'oro!
+    mload obj 30023
+    drop montagna
+    mpurge artiglio
+    eval counter 0
+    global counter
+    set mob 1
+    global mob
+    set quest 0
+    global quest
+   elseif %object.vnum% == 1937 && %quest% == 3
+    say Grazie avventurieri per aver rubato i guanti del malvagio Toshiaki!!
+    wait 1 s
+    say Per ricompensarvi preghero' il Dio del fuoco affinche' vi protegga!
+    dg_affect %actor.name% fireshd 0 6
+    mpurge gloves
+    eval counter 0
+    global counter
+    set mob 1
+    global mob
+    set quest 0
+    global quest
+   end
+~
+/s
+q
+y

@@ -1,0 +1,861 @@
+#601
+mostro buca~
+il mostro che vive in fondo alla buca~
+Il grosso e orrendo mostro che vive in fondo alla buca e' qui di fronte a te.
+~
+Che disgustosa creatura!  E' nera, verde, melmosa e sta sporcando tutto cio'
+che la circonda (te compreso) con del materiale viscido e puzzolente.    
+~
+~
+~
+~
+14 0 -750 -1 -1 -1 -1 -1 E
+4 17 10 1d1+36 1d6+0
+3 670
+8 8 0
+E
+#602
+mostro novizio~
+Un mostro novizio~
+Un mostro novizio e' qui in piedi molto confuso. Uccidi! Uccidi!
+~
+Hai di fronte tua piccola creatura.  Sembra innocuo ma non si puo' dire con
+sicurezza.  Anche se piccolo di statura ha una muscolatura ben strutturata.  
+
+~
+~
+~
+~
+76 0 -100 -1 -1 -1 -1 -1 E
+1 18 10 1d1+8 1d6+0
+1 300
+8 8 1
+E
+#603
+cucciolo drago~
+Un cucciolo di drago~
+Un piccolo cucciolo di drago si aggira sperduto, annusando tutto attorno a se.
+~
+Awww.  Che svelto!  Un piccolo cucciolo di drago.  Lungo 3 piedi fa tanta
+tenerezza che lo vorresti abbracciare fino alla morte...  No la verita' e che
+lo vuoi proprio uccidere.  Ma ricordati..  Ogni piccolo drago puo' essere un
+grande problema.    
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+6 15 9 1d1+46 1d8+0
+5 3100
+8 8 1
+E
+#604
+custode guardia mostro~
+La guardia novizia~
+Una guardia novizia e' qui in cerca del suo piccolo drago.
+~
+Hai di fronte la guardia addetta alle cure del piccolo drago dell'alchimista.
+Non sembra fare bene il proprio lavoro.  Continua a guardarsi in giro e a
+sbraitare frasi oscene 'Se non trovo quel piccolo drago l'alchimista vorra' la
+mia testa'.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+5 16 9 1d1+40 1d6+0
+3 1500
+8 8 1
+E
+#605
+alchimista novizio~
+l'alchimista novizio~
+L'alchimista novizio e' qui che sta mischiando qualcosa.
+~
+A guardarlo e' proprio un buffo individuo.  Tutto impegnato a mischiare
+qualcosa con qualcos'altro.    
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+8 15 8 1d1+70 1d6+0
+6 5000
+8 8 0
+E
+#606
+piccolo insetto strisciante~
+Un piccolo insetto~
+Un piccolo insetto schifoso striscia lungo il muro vicino alle tue gambe.
+~
+Yuck!  Se ogni tanto si degnassero di dare una pulitina a questo posto insetti
+parassiti come questo non ci sarebbero in giro.  Piccolo, disgustoso e con sei
+zampe pelose e marroni.    
+~
+~
+~
+~
+72 0 -250 -1 -1 -1 -1 -1 E
+1 19 10 1d1+7 1d6+0
+0 200
+8 8 0
+E
+#607
+zombie novizio~
+Un novizio zombie~
+Uno decadente novizio.. assomiglia ad uno ZOMBIE
+~
+Questo poveretto deve essersi perso qui sotto da ormai tanto tempo...  Ormai
+questo poveraccio e' ridotto ad uno zombie.  Ti dispiace, ma se non ti dai una
+mossa lui ti attacchera' per primo.    
+~
+~
+~
+~
+108 0 -500 -1 -1 -1 -1 -1 E
+3 18 9 1d1+25 1d5+0
+2 450
+8 8 0
+E
+#608
+cosa~
+la cosa~
+Una piccola e simpatica COSA sta strisciando qui intorno.
+~
+Piccola, verde, vagamente somigliante ad un umanoide con una piccola coda
+appuntita.  E' difficile notarla perche' appena tenti di osservarla meglio
+questi si nasconde nell'ombra.    
+~
+~
+~
+~
+236 0 -800 -1 -1 -1 -1 -1 E
+2 19 9 1d1+22 1d6+0
+2 600
+8 8 1
+E
+#609
+massiccio minotauro~
+un massiccio minotauro~
+Il grande e mitico minotauro sta dominando la sua fame.
+~
+Un enorme uomo con la testa di un toro.  Molto forte ma decisamente poco
+astuto.  Ora che lo osservi bene e' decisamente piu' piccolo di tutti i tori
+che hai incontrato fino ad oggi...  E sta' venendo dalla tua parte.    
+~
+~
+~
+~
+1608 0 -1000 -1 -1 -1 -1 -1 E
+8 16 8 1d1+60 1d7+1
+5 7000
+8 8 1
+E
+#610
+spettro~
+un pericoloso spettro~
+Un pericoloso spettro e' qui in agguato tra le ombre.
+~
+L'anima di un antico avventuriero ...  Si nasconde qui in attesa di portare la
+morte a chiunque attraversi la sua strada.    
+~
+~
+~
+~
+2154 34079754 -850 -1 -1 -1 -1 -1 E
+6 16 8 1d1+52 1d6+0
+5 3000
+8 8 0
+E
+#611
+fastidioso novizio~
+Un fastidioso novizio~
+Un novizio fastidioso impreca contro di te e ti manda all'inferno.
+~
+Che impudenza!  Questo novizio sbraita e prende in giro tutti quelli che
+incontra.  Sarebbe di certo piu' silenzioso con del freddo e duro acciaio
+conficcato nel corpo.  MHUAHAHAHAHAHA!    
+~
+~
+~
+~
+76 0 -500 -1 -1 -1 -1 -1 E
+2 18 10 2d1+20 1d5+1
+2 350
+8 8 1
+E
+#612
+novizio confuso~
+un novizio confuso~
+Un novizio brancola nel buio, terribilmente confuso.
+~
+Un cretino qualsiasi.  Qualsiasi informazione spiegata nel manuale te la
+chiedera' e molto probabilmente lo rifara' per altre 2 o 3 volte.    
+~
+~
+~
+~
+76 0 0 -1 -1 -1 -1 -1 E
+4 17 9 1d1+36 1d6+0
+3 750
+8 8 1
+E
+#613
+novizia chiacchierona~
+Una novizia chiacchierona~
+Una novizia e' qui... sembra una gran chiacchierona.
+~
+MA con chi sta parlando????  Sembra comunicare qualche indizio a qualche suo
+amico...    
+~
+~
+~
+~
+72 0 100 -1 -1 -1 -1 -1 E
+3 17 9 1d1+32 1d5+0
+2 750
+8 8 2
+E
+#614
+novizio spaesato~
+un novizio spaesato~
+Un novizio spaesato e' qui che gironzola senza meta.
+~
+Sembra che questo tizio stia girando da un bel po' e ormai deve essere
+decisamente lontano da casa!  Non sembra sapere dove si trova, forse dovresti
+aiutarlo.    
+~
+~
+~
+~
+72 0 300 -1 -1 -1 -1 -1 E
+4 17 10 1d1+35 1d5+0
+3 900
+8 8 1
+E
+#615
+intelligente mostriciattolo~
+Un intelligente mostriciattolo~
+Un mostriciattolo e' qui, si guarda in giro con sicurezza.
+~
+Decisamente ben equipaggiato.!  Sembra tosto.    
+~
+~
+~
+~
+12 0 0 -1 -1 -1 -1 -1 E
+5 16 10 3d1+43 1d5+1
+3 1300
+8 8 1
+E
+#616
+ghei~
+Il Ghei di prova di Kall.~
+Il Ghei di prova di Kall, ti guarda con i suoi occhioni ammiccanti
+~
+It looks unfinished.
+E' proprio ghei!!! E' un mob al servizio di Kall!
+~
+~
+~
+~
+8 0 1000 -1 -1 -1 -1 -1 E
+30 10 0 30d100+0 1d1+10
+16 300000
+8 8 0
+E
+#631
+guardia lich~
+Una guardia lich~
+Una guardia lich e' stata evocate da forze malvagie.
+~
+E' uno scheletro immenso, riesci a vedere attraverso le sue costole
+e senti il suo olezzo farti rabbrividire le ossa.
+Sicuramente Rasheen ha avuto un aiuto per evocare questa terribile
+creatura!
+~
+~
+~
+~
+10 17825792 -1000 -1 -1 -1 -1 -1 E
+45 7 -10 1d1+700 3d11+14
+24 0
+8 8 0
+E
+#643
+demone grigio pietra~
+Un demone grigio dalla pelle di pietra.~
+Un demone grigio dalla pelle di pietra ti attacca appena ti vede!!!
+~
+Questo demone ha la pelle di marmo, e' altissimo e sembra davvero
+irritato della tua presenza... dattela a gambe!!!
+~
+~
+~
+~
+24760 67108864 -1000 -1 -1 -1 -1 -1 E
+50 0 -7 1d1+1200 6d8+15
+31 0
+8 8 0
+E
+#644
+piccolo demone grigio~
+Un piccolo demone grigio~
+Un piccolo demone grigio ti attacca!!!
+~
+e' un piccolo demone grigio, ti guarda con occhi maligni e si
+avventa addosso a te!
+~
+~
+~
+~
+6200 0 -1000 -1 -1 -1 -1 -1 E
+30 10 -3 1d1+750 5d6+10
+19 35000
+8 8 0
+E
+#645
+Demone Grigio~
+Il Demone Grigio~
+Il Demone Grigio scopre i suoi artigli affilati...
+~
+Alto oltre due volte un essere umano, possiede un solido esoscheletro
+di metallo che si modella coi movimenti del suo corpo...
+Qualcuno ha rotto il sigillo, ora la Daresia paga le conseguenze!
+~
+~
+~
+~
+122906 274961793064 -1000 -1 -1 -1 -1 -1 E
+55 0 10 1d1+1200 6d9+12
+52 0
+8 8 0
+E
+#650
+cavallo bianco~
+Un forte e robusto &7Cavallo bianco&0.~
+Un forte e robusto &7Cavallo Bianco&0 agita la sua criniera e nitrisce verso di te.
+~
+Questo cavallo e' davvero possente, al vederlo scalciare ti domandi cosa
+succederebbe se volesse usare i suoi zoccoli contro di te.
+Il suo proprietario deve essere sicuramente un cavaliere di alto lignaggio.
+~
+~
+~
+~
+545382538 40 0 -1 -1 -1 -1 -1 E
+45 -10 -1 2d750+0 3d6+30
+31 60000
+8 8 1
+StrAdd: 10
+Dex: 15
+E
+#651
+Vladik temerario~
+Vladik il temerario~
+Vladik il Temerario e' qui davanti a te in tutta la sua maestosa fierezza.
+~
+Quest'uomo sulla cinquantina e' alto e fiero, ha una buona prestanza fisica
+ed un ottimo equipaggiamento.
+I suoi lunghi capelli biondi gli cadono sulle spalliere dell'armatura, ed i
+suoi occhi azzurri hanno uno sguardo cosi' intenso che riescono a
+trasmetterti la sua forza spirituale.
+~
+~
+~
+~
+72059793061437450 6597153652768 1000 -1 -1 -1 1869522381 -1 E
+65 -5 -10 3d1000+0 6d12+35
+40 300000
+8 8 1
+BareHandAttack: 3
+Str: 18
+StrAdd: 25
+Dex: 18
+Spec: 16
+E
+#652
+esercito 100 cavalieri~
+&x&4L'esercito dei 100 cavalieri di Alexander.&0~
+Questi sono i 100 Cavalieri, l'esercito personale di &7Alexander&0 il Grande.
+~
+Questi Cavalieri sono la scorta personale di Alexander, sono tutti uomini alti
+e muscolosi, dall'alto della loro armatura &4blu&0 e con i loro grandi
+spadoni a due mani (anchessi rigorosamente &4blu&0), vegliano sulla sicurezza
+del loro capo.
+~
+~
+~
+~
+72057594575052811 335545384 800 -1 -1 -1 -1 -1 E
+62 -10 -7 1d1+10000 8d20+30
+45 400000
+8 8 1
+BareHandAttack: 3
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 10
+Cha: 24
+E
+#653
+Guardia lame blu~
+La &4&xGuardia&0 delle  &4Lame Blu&0.~
+Una &4&xGuardia&0 delle &4Lame Blu&0 e' qui per assicurare giustizia.
+~
+Questa guardia e' davvero robusta, passeggia qui in torno per fare
+in modo che tutto si svolga a dovere.
+Il suo aspetto sarebbe davvero poco rassicurante se non fosse per il
+fatto che e' un tutore dell'ordine.
+~
+~
+~
+~
+40534597280460891 0 800 -1 -1 -1 -1 -1 E
+60 -5 1 2d1000+1100 3d15+30
+47 0
+8 8 0
+BareHandAttack: 10
+Str: 18
+StrAdd: 100
+Dex: 15
+Spec: 16
+E
+#654
+ragazzino puzzolente~
+Un ragazzino puzzolente~
+Un ragazzino puzzolente e' qui spaventato.. emana un cattivo olezzo.
+~
+Che puzza.... deve aver fatto un bagno nel letame!
+E poi e' tutto sporco... yeeeech che schifo!
+~
+~
+~
+~
+138 0 0 -1 -1 -1 -1 -1 E
+15 19 10 1d1+220 3d8+1
+13 0
+8 8 0
+E
+#655
+Bardo Olonir~
+Olonir il Bardo~
+Olonir il Bardo, ha un aria baldanzosa, e' qui per cantare probabilmente.
+~
+Un uomo sulla trentina, con lunghi capelli bianchi.
+Ha la sua arpa sempre con se, un grosso zaino sulle spalle ed
+una pelliccia ovina sulle spalle a coprirlo dalle intemperie.
+~
+~
+~
+~
+537125002 274877908008 100 -1 -1 -1 -1 -1 E
+20 -10 -1 2d200+0 3d10+30
+12 0
+8 8 1
+E
+#656
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+1 0
+8 8 0
+E
+#657
+grasso Tenchu~
+Un grasso Tenchu~
+Un grasso Tenchu ti guarda di sbieco.
+~
+E' un grasso coso verde, con le sue tre dita si gratta
+zoticamente la coscia destra, e con l'altra mano tiene un
+dolce di fango impastato con sangue...
+Che schifo!
+~
+~
+~
+~
+82120 274877908008 100 -1 -1 -1 -1 -1 E
+35 6 -3 1d1+550 3d8+8
+26 20000
+8 8 1
+BareHandAttack: 8
+E
+#658
+vecchio tenchu~
+Un vecchio venditore Tenchu~
+Questo vecchio venditore Tenchu sembra volerti indurre a comprare la robaccia della sua bancarella.
+~
+Un vecchio bavoso, dalla lunga barba bianca e dall'aspetto borioso
+ti guarda da dietro la bancarella con sospetto.
+Verde e con tre dita ti mostra i suoi oggetti di poco conto.
+~
+~
+~
+~
+671145994 1064 0 -1 -1 -1 -1 -1 E
+30 20 -3 1d1+3000 5d18+0
+27 0
+8 8 0
+E
+#659
+Pifferaio magico~
+Il Pifferaio magico~
+Il Pifferaio magico e' qui che suona il suo strumento, sembra quasi ammaliarti.
+~
+Un uomo alto, dai lunghi capelli neri, e dagli occhi scuri e profondi ti guarda
+mentre suona il suo piffero... La sua musica e' davvero irresistibile!
+~
+~
+~
+~
+17716994077 274877908136 0 -1 -1 -1 -1 -1 E
+71 20 -10 1d1+3000 0d0+0
+67 0
+8 8 0
+Spec: 18
+E
+#660
+Lita Figlia Gillon~
+Lita la figlia di Gillon~
+Lita la figlia di Gillon, corre qui intorno ridendo e scherzando.
+~
+Una bambina sui 12 anni circa, molto carina, dai lunghi capelli neri, sembra
+girare qui intorno allegra.
+Il suo aspetto e' vispo e allegro, ma noti una piccola ombra sul suo volto
+Lita e' la figlia di Gillon, l'armaiolo di Cimmura.
+~
+~
+~
+~
+17179869196 0 0 -1 -1 -1 -1 -1 E
+5 20 10 1d1+202 1d1+0
+4 10
+8 8 0
+E
+#661
+Liukas ladro~
+Liukas il ladro~
+Liukas si muove furtivamente, le ombre sembrano ripararlo da occhi indiscreti...
+~
+Un losco figuro incapucciato si staglia davanti a te, due pugnali fuoriescono
+dalla cintura, e la sua armatura di maglia nera, lo stringe nel suo esile corpo.
+Un mantello nero gli copre le spalle, deve trattarsi di un Alcione.
+~
+~
+~
+~
+122906 275297632296 -1000 -1 -1 -1 -1 -1 E
+61 0 -10 1d1+850 1d1+30
+32 200000
+8 8 0
+Str: 18
+StrAdd: 10
+Dex: 18
+Int: 19
+Wis: 7
+Con: 18
+E
+#662
+serpente marino platurus~
+&VPlaturus, il serpente marino&d~
+Platurus e' qui che cerca di avvolgerti nelle sue spire!
+~
+Platurus e' un enorme serpente marino.  I marinai tremano al solo sentirlo nominare poiche' e' causa di molti naufragi.
+Il suo corpo e' ricoperto di scaglie verdi e marroni e cerca di stritolare qualsiasi cosa gli capiti a tiro per poi
+divorarla.  
+~
+~
+~
+~
+73849 344195146 -1000 -1 -1 -1 -1 -1 E
+75 3 -10 1d1+1500 12d12+12
+0 0
+8 8 1
+BareHandAttack: 4
+Str: 23
+Dex: 20
+Spec: 28
+E
+#666
+Kall Ranger corrotto~
+Kall Su, il Ranger corrotto~
+Una figura inquietante si muove furtiva qui intorno...
+~
+Un essere incappucciato, non riesci a vedere il suo volto, e
+sotto il mantello riesci a malapena a vedere due grosse spade
+bastarde.
+~
+~
+~
+~
+36028797556088858 4611688217922372736 0 -1 -1 -1 1869522373 -1 E
+80 -10 -10 1d1+5000 20d20+30
+56 0
+8 8 0
+E
+#667
+Re Chutem-Jidori~
+&x&1Re Chutem-Jidori&0~
+&x&1Re Chutem-Jidori e' qui seduto sul suo fantastico trono.&0
+~
+Il Re, un grassone verde con svariate pelli degli animali piu'
+disparati addosso, la sua barba e' cosi' lunga da toccare il
+pavimento.
+Beh sara' anche Re, ma vedendo come si gratta il suo pancione
+non si direbbe sia poi cosi' nobile.
+~
+~
+~
+~
+24587 40 0 -1 -1 -1 -1 -1 E
+65 -5 -8 0d1+1500 5d14+20
+53 0
+8 8 1
+Spec: 16
+E
+#668
+guardia tenchu donna~
+Una guardia del corpo~
+Questa donna Tenchu e' la scorta del Naraji Chutem-Jidori.
+~
+Un gran bel pezzo di... Donna!
+Certo, ha tre dita e la pelle verde, ma non e' niente male, poi
+dentro la sua scintillante e succinta armatura d'argento e' molto...
+Carismatica!
+E' una guardia al servizio di Re Chutem-Jidori, il Naraji di Tenchu.
+~
+~
+~
+~
+2199023271946 1064 350 -1 -1 -1 -1 -1 E
+40 0 -3 1d1+700 4d7+15
+40 50000
+8 8 2
+E
+#677
+Ughvar~
+Ughvar~
+Ughvar ringhia contro di te!
+~
+Che brutto troll...
+~
+~
+~
+~
+10 1073741824 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+30000 1d1+0
+1 0
+8 8 0
+E
+#682
+guardia sentinella tenchu~
+Una Sentinella Tenchu~
+Questa Sentinella Tenchu sta evidentemente sorvegliando l'ingresso.
+~
+Questa guardia dalla pelle verda e' davvero muscolosa, impugna con le
+sue tre dita una lancia di una strana fattura.
+Il suo sguardo e' fissato verso di te, probabilmente e' stranito
+dal fatto che sei di una razza diversa.
+~
+~
+~
+~
+4503599627401418 274877908008 350 -1 -1 -1 -1 -1 E
+44 5 -7 3d75+900 4d7+10
+31 0
+8 8 1
+BareHandAttack: 8
+E
+#683
+Cavaliere Tenchu~
+&7&xIl supremo &1&xCavaliere&0&7&x Tenchu&0~
+&7&xIl supremo &1&xCavaliere&0&7&x Tenchu e' qui in una plastica posa.&0
+~
+&7&xIl supremo &1Cavaliere&7 e' qui davanti a te, non erano dunque
+leggende... Esiste davvero!
+All'interno della sua armatura Argentea e' qui a parlare per la sua
+Somma Sacerdotessa.&0
+~
+~
+~
+~
+253963 8421544 750 -1 -1 -1 -1 -1 E
+55 -10 -4 5d600+500 5d12+20
+35 0
+8 8 1
+BareHandAttack: 10
+Str: 25
+Dex: 20
+Spec: 16
+E
+#684
+Anziana Sacerdotessa Tenchu~
+&6&xL'Anziana Sacerdotessa Tenchu&0~
+&6&xL'Anziana Sacerdotessa Tenchu e' immobile dietro l'altare.&0
+~
+Che dire, anche lei ha la pelle verde e solo tre dita... Ha i capelli verde
+acqua, e il viso ricoperto di rughe. Ti domandi se abbia ancora la forza per
+parlare, e ti chiedi quando finira' di meditare.
+~
+~
+~
+~
+188555 40 1000 -1 -1 -1 -1 -1 E
+70 20 10 5d100+0 1d1+0
+46 0
+8 8 2
+Spec: 18
+E
+#685
+Losco figuro incappucciato~
+Un losco figuro incappucciato~
+Un losco figuro incappucciato sembra osservarti di sbieco.
+~
+Questo losco figuro non sembra essere una persona per bene, il suo
+olezzo sembra ricordarti le fogne vicino Deira, ed i suoi modi burberi
+ti ricordano parecchio gli scaricatori di porto della collina Golem.
+~
+~
+~
+~
+10 202375296 0 -1 -1 -1 -1 -1 E
+70 -10 -10 1d1+3000 9d20+30
+58 300000
+8 8 1
+E
+#686
+Custode Foreste Therion Ent~
+Un gigantesco &6&xEnt&0~
+Un gigantesco &6&xEnt&0, custode delle foreste sembra essere... Inalberato!
+~
+Grandissimo! Deve essere un Baobab, la sua folta chioma ha sembianze umanoidi
+mentre le sue radici sembrano grossi piedoni.
+Due rami durissimi strisciano a terra dai margini laterali, devono essere i suoi
+arti, questo Ent ha un aria minacciosa!
+~
+~
+~
+~
+253978 0 0 -1 -1 -1 -1 -1 E
+75 -10 -10 30d1+2500 20d20+30
+63 0
+8 8 0
+BareHandAttack: 6
+Str: 25
+StrAdd: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#690
+provino~
+il provino~
+Un provino
+~
+It looks unfinished.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+52 3 -8 1d1+840 4d9+10
+38 0
+8 8 0
+E
+#694
+antico mago~
+L'antico mago della leggenda~
+L'antico mago della leggenda e' qui di fronte a te!
+~
+E' anche lui un tenchu, ma la sua pelle verde ha delle strane
+chiazze grigie in tutto il corpo... I suoi movimenti sono pacati,
+ma i suoi modi ti paiono alquanto sgarbati. Una lunga barba blu
+gli scende dal mento... Non dona affatto col colore della pelle!
+~
+~
+~
+~
+90139 2199291691008 -700 -1 -1 -1 -1 -1 E
+45 0 -10 1d1+950 6d7+15
+31 0
+8 8 1
+BareHandAttack: 13
+Spec: 15
+E
+#696
+Ukmmor Drago nero~
+Ukmmor il Drago nero~
+Ukmmor il Drago nero si infastidisce non poco della tua presenza e ti attacca...
+~
+Nere scaglie lucenti ricoprono il corpo di questo grosso Drago,
+nel suo sguardo ardono fiamme, e credi che il suo fiato non sara'
+da meno.
+E' Ukmmor, il Drago della leggenda, posto all'esilio... Difendera'
+fino alla morte il suo padrone.
+~
+~
+~
+~
+50454587 274877940776 -1000 -1 -1 -1 -1 -1 E
+50 -5 -7 1d1+3000 8d8+15
+38 300000
+8 8 0
+BareHandAttack: 8
+Spec: 29
+E
+#698
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 1000 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
+#699
+Juzar monaco tenchu~
+Juzar, il monaco Tenchu~
+Juzar delle montagne, il monaco dei Tenchu e' qui a offrirti supporto e a guidare il carro.
+~
+Juzar e' un Tenchu, una creatura umanoide, e' tozzo, e possiede solo tre
+dita per mano.
+La sua carnagione e' verdognola ed i suoi occhi sono gialli, fisicamente
+invece sembra ben messo.
+Indossa una specie di Kimono stretto da una corda all'altezza del petto,
+e sulle spalle ha uno strano aggeggio di legno collegato con dei fili
+alla testa del drago.
+~
+~
+~
+~
+253963 286261416 1000 -1 -1 -1 -1 -1 E
+71 -10 -10 3d1000+3000 8d10+30
+63 0
+8 8 0
+BareHandAttack: 8
+Str: 25
+StrAdd: 100
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Spec: 30
+E
+$

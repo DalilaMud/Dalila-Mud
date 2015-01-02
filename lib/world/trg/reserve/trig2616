@@ -1,0 +1,19 @@
+trigedit 2616
+6  
+/c 
+* Lista comandi
+if %arg% == lanterna
+oforce %actor.name% emote scosta la lanterna
+wait 2 s
+oecho &9&xUn meccanismo collegato alla lanterna fa si' che il passaggio segreto verso l'ufficio si riapra&0
+%door% 50229 s room 50228
+wait 10 s
+oecho &9&xIl passaggio segreto si richiude lentamente&0
+%door% 50229 s purge
+else
+oforce %actor.name% %cmd%
+end
+~
+/s
+q
+y

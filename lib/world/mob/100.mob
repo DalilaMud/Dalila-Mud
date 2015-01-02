@@ -1,0 +1,271 @@
+#10000
+cane cooshee~
+un cooshee~
+Un cane di notevoli dimensioni e' qui che si aggira per la valle.
+~
+Questa bestia ha la stessa taglia dei grossi cani comuni. Ha pero' il pelo verdastro, chiazzato di marrone.
+La sua forma ed i suoi colori lo rendono difficile da individuare quando si muove tra la vegetazione.
+~
+~
+~
+~
+72 32768 0 -1 -1 -1 -1 -1 E
+9 14 7 1d1+80 1d9+2
+8 9000
+8 8 0
+E
+#10001
+elfo valle~
+un elfo della valle~
+Un elfo della valle si aggira qua' attorno, preoccupato a causa della tua presenza.
+~
+Questo elfo e' alto quanto te, ma molto piu' snello ed agile. Nei suoi occhi puoi
+leggere l'odio nei tuoi confronti e cosi' cerchi di evitare il suo sguardo. Il suo
+corpo scattante sembra pronto ad avventarsi su di te, come un leone di montagna quando
+caccia la sua preda. Quando si accorge che lo hai notato, silenziosamente si dilegua.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+8 14 7 1d1+75 1d10+2
+6 11000
+8 8 1
+E
+#10002
+elfa valle~
+un'elfa della valle~
+Un'elfa della valle si aggira qua' intorno, preoccupata per la tua intrusione.
+~
+Questa elfa e' alta quasi quanto te, ma e' molto piu' snella e agile. Ti lancia uno
+sguardo gelido e poi scompare tra le ombre prima che tu possa osservarla meglio.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+7 11 8 1d1+70 1d9+0
+4 7500
+8 8 2
+E
+#10003
+sentinella elfi valle~
+una sentinella degli elfi della valle~
+Una sentinella degli elfi della valle e' qui e, non appena si accorge di te, ti assale!
+~
+Questo elfo e' alto quasi quanto te, ma e' molto piu' snello ed agile.
+Ha notato la tua intrusione e ti attacca minaccioso.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+12 14 6 1d1+115 2d5+2
+7 16000
+8 8 1
+E
+#10004
+sentinella elfi valle~
+una sentinella degli elfi della valle~
+Una sentinella degli elfi della valle e' qui. Non appena si accorge di te si getta all'attacco!
+~
+Questa elfa e' alta quanto te, ma molto piu' snella e agile. E' irritata per la tua intrusione e
+ti attacca immediatamente.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+13 13 6 1d1+110 1d11+2
+10 13000
+8 8 2
+E
+#10005
+scout elfi valle~
+uno scout degli elfi della valle~
+Uno scout degli elfi della valle sta esplorando la vallata.
+~
+L'elfo si accorge della tua intrusione e ti assale con estrema rapidita'.
+~
+~
+~
+~
+74 1024 0 -1 -1 -1 -1 -1 E
+15 13 6 1d1+145 1d12+2
+11 16500
+8 8 1
+E
+#10006
+elfa valle~
+un'elfa della valle~
+Un'elfa della valle e' qui che sbriga le sue faccende domestiche.
+~
+Attualmente e' impegnata in alcune faccende domestiche e ti ignora. Continuera' a farlo
+finche' non sarai tu a disturbarla.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+8 13 6 1d1+70 1d10+4
+5 8000
+8 8 2
+E
+#10007
+elfo valle anziano~
+un elfo della valle anziano~
+Un elfo della valle anziano si trova qui.
+~
+Questo elfo sembra molto vecchio, probabilmente ha 20 volte la tua eta'
+e forse anche di piu'. Sembra ancora molto potente e vigoroso.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+15 13 5 1d1+130 2d5+2
+8 23000
+8 8 1
+E
+#10008
+elfa valle anziana~
+un'elfa della valle anziana~
+Un'elfa della valle anziana e' qui.
+~
+Questa elfa sembra molto vecchia, probabilmente ha 20 volte la tua eta'
+e forse anche di piu'. Sembra ancora molto potente e vigorosa.
+~
+~
+~
+~
+10 8192 0 -1 -1 -1 -1 -1 E
+12 13 6 1d1+130 1d9+2
+8 22000
+8 8 2
+E
+#10009
+piroidra idra bestia~
+&1&xla piroidra&0~
+La piroidra, orribile mostro dalle molte teste che sputano &1fuoco&0, e' qui che ti osserva con malizia.
+~
+Questa grossa bestia assomiglia ad un piccolo drago rosso, ma
+ha molte piu' teste di un normale drago.
+~
+~
+~
+~
+67692 1024 -400 -1 -1 -1 -1 -1 E
+17 13 5 1d1+210 2d6+3
+9 40000
+8 8 0
+E
+#10010
+eremita uomo vecchio~
+un vecchio eremita~
+Un vecchio eremita e' qui che fuma la pipa.
+~
+Sembra vecchio e debole.
+~
+~
+~
+~
+42 1024 0 -1 -1 -1 -1 -1 E
+12 14 6 3d1+130 1d9+2
+7 24000
+8 8 1
+E
+#10011
+talemon vecchio mago~
+Talemon~
+Il vecchio mago e' completamente assorto nei suoi esperimenti chimici.
+~
+Talemon sembra inoffensivo, ma di certo le palle di fuoco che ti scagliera'
+se lo disturbi, non lo saranno.
+~
+~
+~
+~
+15 50341014 -600 -1 -1 -1 -1 -1 E
+15 14 6 1d1+90 1d10+2
+9 50000
+8 8 1
+Spec: 15
+E
+#10012
+demone guardiano~
+il demone guardiano~
+Un enorme demone guardiano e' qui che controlla l'accesso al ponte di corda.
+~
+Questo demone non e' felice del compito per cui e' stato evocato
+ed e' desideroso di scaricare su qualcuno la sua rabbia.
+~
+~
+~
+~
+4158 1024 -500 -1 -1 -1 -1 -1 E
+18 12 5 1d1+230 2d7+4
+12 20000
+8 8 0
+E
+#10013
+lupo~
+un lupo~
+Un lupo e' qui!
+~
+E' un lupo coperto di pelo marrone.
+~
+~
+~
+~
+342136 1024 0 -1 -1 -1 -1 -1 E
+4 14 8 1d1+30 1d6+1
+3 1000
+8 8 0
+E
+#10014
+antilope~
+un'antilope~
+Una antilope e' qui, sta pacificamente brucando l'erba.
+~
+E' un animale dall'aspetto pacifico, ma le sue corna
+incutono paura e rispetto.
+~
+~
+~
+~
+72 0 0 -1 -1 -1 -1 -1 E
+14 13 5 1d1+120 2d5+3
+13 30000
+8 8 0
+E
+#10015
+derry cavaliere dcxqs~
+Derry il Cavaliere~
+Derry il Cavaliere senza paura si sta' riposando, dopo l'ultima battaglia.
+~
+Derry è pieno di cicatrici riportate nei migliaia di combattimenti.
+~
+~
+~
+~
+63758 1032 700 -1 -1 -1 -1 -1 E
+15 13 5 1d1+220 2d6+3
+14 42000
+8 8 1
+E
+#10020
+guardia elfi valle~
+una guardia degli elfi della valle~
+Una guardia degli elfi della valle e' qui per tenere lontano dalla casa i cattivi soggetti.
+~
+E' una specie di guardia del corpo.
+~
+~
+~
+~
+16462 33554432 0 -1 -1 -1 -1 -1 E
+10 14 7 1d1+100 2d4+3
+8 11000
+8 8 1
+E
+$

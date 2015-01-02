@@ -1,0 +1,22 @@
+trigedit 1349
+6  
+/c 
+* Lista comandi
+wait 1 s
+say Ma certo... corro a vedere se c'e' qualcosa in cucina per voi...
+wait 1 s
+unlock port u
+apri port u
+up
+get pizza
+down
+wait 1 s
+close port u
+lock port u
+wait 1 
+say Ecco una pizza fumante!!
+dai pizza %actor.name%
+~
+/s
+q
+y

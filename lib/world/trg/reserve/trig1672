@@ -1,0 +1,16 @@
+trigedit 1672
+6  
+/c 
+* Lista comandi
+wait 1 s
+wecho &7Noti una grossa ombra scura dietro la cascata.&0
+wait 1 s
+wecho &7Bagnandoti completamente infili un braccio sotto l'acqua e trovi un passaggio dietro alla cascata!&0
+wdoor 20426 north room 20427
+wait 20 s
+wecho &7Ti distrai un attimo e quando ti rigiri non riesci piu' a intravedere null'altro che acqua.&0
+wdoor 20426 north purge
+~
+/s
+q
+y

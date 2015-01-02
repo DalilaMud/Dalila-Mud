@@ -1,0 +1,598 @@
+#15000
+gwydion guardia reale~
+Gwydion~
+Gwydion la guardia reale in servizio e' qui'.
+~
+Come tutti i membri della guardia Gwydion indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Gwydion sembra allenato molto bene, e si muove
+come un combattente esperto.    
+~
+~
+~
+~
+11 0 800 -1 -1 -1 -1 -1 E
+26 11 2 3d6+270 2d9+4
+15 60000
+8 8 1
+Spec: 0
+E
+#15001
+re welmar rwqs~
+Re Welmar~
+Re Welmar siede sul suo trono.
+~
+Nella sua tarda mezz'eta', con la barba che sta iniziando ad ingrigirsi, re
+Welmar e' ancora un uomo vigoroso e non risponderebbe debolmente ad un attacco.
+Nonostante questo, sai che Welmar e' amato in tutto il suo dominio, ed ha una
+buona reputazione.
+~
+~
+~
+~
+11 136 1000 -1 -1 -1 -1 -1 E
+41 9 -4 1d1+360 3d8+7
+32 320000
+6 8 1
+Spec: 0
+E
+#15002
+fantasma orribile~
+un orribile fantasma~
+Senti un lamento raggelante e vedi un orribile fantasma che si avvicina.
+~
+Il fantasma e' quasi trasparente e sembra veramente TERRORIZZANTE!    
+~
+~
+~
+~
+254078 2360328 -700 -1 -1 -1 -1 -1 E
+36 8 -3 9d1+550 3d8+6
+23 60000
+8 8 0
+E
+#15003
+jim guardia reale~
+Jim~
+Jim la guardia reale e' qui in servizio.
+~
+Come tutti i membri della guardia Jim indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Jim sembra allenato molto bene, e si muove come
+un combattente esperto.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+24 11 1 3d6+345 2d9+4
+18 20000
+8 8 1
+Spec: 0
+E
+#15004
+brian guardia reale~
+Brian~
+Brian la Guardia reale e' qui', si sta allenando con il maestro.
+~
+Come tutti i membri della guardia Brian indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Brian sembra allenato molto bene, e si muove
+come un combattente esperto.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+24 11 1 3d6+330 2d12+4
+22 116000
+8 8 1
+Spec: 0
+E
+#15005
+mick guardia reale~
+Mick~
+Mick, la guardia reale in servizio, e' qui'.
+~
+Come tutti i membri della guardia Mick indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Mick sembra allenato molto bene, e si muove come
+un combattente esperto.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+21 11 2 3d6+50 2d9+4
+17 50000
+8 8 1
+Spec: 0
+E
+#15006
+matt guardia reale~
+Matt~
+Matt, la guardia reale in servizio e' qui'.
+~
+Come tutti i membri della guardia Matt indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Matt sembra allenato molto bene, e si muove come
+un combattente esperto.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+21 11 2 3d1+270 2d9+4
+17 14000
+8 8 1
+Spec: 0
+E
+#15007
+jochem guardia reale~
+Jochem~
+Jochem, la guardia reale, e' fuori servizio e sta sedendo qui.
+~
+Come tutti i membri della guardia Jochem indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Sembra molto bene allenato e si muove come un
+combattente che ha visto piu' di una battaglia e desidera vederne un'altra!  
+
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+23 11 2 3d1+270 2d9+4
+16 12000
+6 6 1
+Spec: 0
+E
+#15008
+anne guardia reale~
+Anne~
+Anne, la guardia reale in servizio e' qui'.
+~
+Come tutti i membri della guardia Anne indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Anne sembra allenata molto bene, e si muove come
+una combattente che ha visto piu' di una battaglia e che spera di assistere
+alla prossima!    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+24 11 1 3d6+330 2d9+4
+15 70000
+8 8 2
+Spec: 0
+E
+#15009
+Andrew guardia reale~
+Andrew~
+Andrew, la guardia reale in servizio, e' qui.
+~
+Come tutti i membri della guardia Andrew indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Andrew sembra allenato molto bene, e si muove
+come un combattente che ha visto piu' di una battaglia e che spera di
+assistere alla prossima!    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+21 11 2 3d6+270 2d9+4
+12 50000
+8 8 1
+Spec: 0
+E
+#15010
+bertram guaria reale~
+Bertram~
+Bertram, la guardia reale in servizio, e' qui.
+~
+Come tutti i membri della guardia Bertram indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Sembra allenato molto bene e mostra con orgoglio
+le numerose cicatrici.  Questo ragazzo sembra molto forte...    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+24 11 1 3d6+340 2d9+4
+14 120000
+8 8 1
+Spec: 0
+E
+#15011
+jeanette guardia reale~
+Jeanette~
+Jeanette la guardia reale in servizio e' qui'.
+~
+Come tutti i membri della guardia Jeanette indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Jeanette sembra ben allenata e porta le sue
+cicatrici con orgoglio.  Questa ragazza puo' essere un osso duro, se lo
+vuole...    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+21 11 2 3d6+270 2d9+4
+15 30000
+8 8 2
+Spec: 0
+E
+#15012
+peter capitano guardie reali~
+Peter, il Capitano delle Guardie Reali~
+Peter, il Capitano delle Guardie Reali, sta facendo un giro d'ispezione.
+~
+Come tutti i membri della guardia Peter indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Sebbene tutte le altre guardie sembrano ben
+addestrate e realizzi subito che nessuna di loro avrebbe la possibilita' di
+battere quest'uomo in combattimento.  E' alto quasi due metri, ma si muove con
+una grazia felina.  Da l'impressione di avere grande forza e competenza e devi
+resistere alla tentazione di scattare sull'attenti quando ti accorgi che ti
+sta osservando.    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+36 7 -3 3d6+550 3d8+7
+28 240000
+8 8 1
+Spec: 0
+E
+#15013
+allenatore maestro~
+l'Allenatore~
+L'allenatore e' qui che supervisiona.
+~
+Anziano e pieno di esperienza, l'allenatore e' esperto nell'uso di qualsiasi
+arma inventata dall'uomo.    
+~
+~
+~
+~
+43 1024 950 -1 -1 -1 -1 -1 E
+28 9 -1 2d6+430 3d8+5
+22 30000
+8 8 1
+Spec: 0
+E
+#15014
+araldo reale~
+l'Araldo Reale~
+L'araldo reale e' qui.
+~
+E' un ragazzo giovane e ben impostato, la cui funzione principale e' quella di
+Enunciare i proclami reali.    
+~
+~
+~
+~
+4168 0 800 -1 -1 -1 -1 -1 E
+18 12 3 3d6+200 1d10+6
+17 15000
+8 8 1
+E
+#15015
+ergan omicida~
+Ergan l'omicida~
+Raggomitolato in un angolo vedi Ergan, conosciuto come l'assassino di Townsbridge.
+~
+Ti ricordi di circa dieci anni fa, quando girava la notizia di come questo uomo
+uccise l'intera popolazione del villaggio di Townsbridge.  Venne imprigionato,
+ed ora e' qui'- l'ombra del grande guerriero di un tempo - ma sempre un
+uomo pericoloso.    
+~
+~
+~
+~
+24639 294912 -1000 -1 -1 -1 -1 -1 E
+40 7 -4 1d1+600 3d8+7
+30 155000
+6 6 1
+Spec: 14
+E
+#15016
+james maggiordomo~
+James il maggiordomo~
+James il maggiordomo e' qui che si guarda attorno con aria solenne.
+~
+Il tipico maggiordomo impeccabile: ha passato la mezza eta', e' un po' calvo e
+con una pancia impressionante.    
+~
+~
+~
+~
+73 0 500 -1 -1 -1 -1 -1 E
+13 13 4 1d6+160 1d12+4
+7 10000
+8 8 1
+Spec: 0
+E
+#15017
+donna pulizie~
+la donna delle pulizie~
+C'e' una donna delle pulizie qui', sta provando a non farsi vedere.
+~
+Anche se degradante, questa donna sembra apprezzare il suo lavoro.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+8 20 9 4d6+100 1d5+0
+6 100
+8 8 2
+Spec: 0
+E
+#15018
+scarafaggio~
+uno scarafaggio~
+Un grosso scarafaggio sta arrampicandosi su per il muro.
+~
+E' realmente molto grande, e si dice che gli scarafaggi siano difficili da
+uccidere...    
+~
+~
+~
+~
+196666 1032 -250 -1 -1 -1 -1 -1 E
+16 16 3 2d6+200 2d10+5
+15 750
+8 8 0
+E
+#15019
+astrologo~
+l'Astrologo~
+L'astrologo e' seduto qui', sta studiando un libro.
+~
+E' un uomo vecchio, con i capelli bianchi ed una lunga barba.  Appena lo vedi
+cominci a credere alle storie che raccontano di come le stelle possano decidere
+il fato e che l'astrologia e' capace di prevenire il futuro.    
+~
+~
+~
+~
+26650 0 900 -1 -1 -1 -1 -1 E
+32 9 -2 1d1+510 3d8+5
+29 175000
+6 6 1
+Spec: 0
+E
+#15020
+tim guardia corpo~
+Tim, la guardia del corpo del Re~
+Tim, la guardia del corpo del re, e' sull'attenti qui'.
+~
+Questo ragazzo assomiglia al gemello, Tom.  Sembrano non esserci dubbi sul
+fatto che e' pronto a sacrificare la sua vita per il re, se necessario.    
+~
+~
+~
+~
+6155 8 900 -1 -1 -1 -1 -1 E
+26 11 1 1d1+400 1d14+4
+23 100000
+8 8 1
+Spec: 0
+E
+#15021
+tom guardia corpo~
+Tom, la guardia del corpo del Re~
+Tom, la guardia del corpo del re, e' sull'attenti qui'.
+~
+Questo ragazzo assomiglia al gemello, Tim.  Sembrano non esserci dubbi sul
+fatto che e' pronto a sacrificare la sua vita per il re, se necessario.    
+~
+~
+~
+~
+4107 8 900 -1 -1 -1 -1 -1 E
+26 11 1 1d1+400 2d7+4
+18 85000
+8 8 1
+Spec: 0
+E
+#15022
+chef~
+lo Chef~
+Lo Chef e' qui, sta gridando ordini agli altri cuochi.
+~
+Sembra aver assaggiato il suo cibo con troppo entusiasmo...  In altre parole e'
+un grassone.    
+~
+~
+~
+~
+26778 0 500 -1 -1 -1 -1 -1 E
+19 12 3 2d6+200 1d12+3
+10 10000
+8 8 1
+Spec: 0
+E
+#15023
+cuoco~
+il cuoco~
+C'e un giovane cuoco qui', e' impegnato ad una pentola.
+~
+Un giovane cuoco, pronto a soddisfare le richieste dello Chef.    
+~
+~
+~
+~
+138 0 300 -1 -1 -1 -1 -1 E
+4 17 6 2d7+46 1d8+0
+3 1000
+8 8 1
+E
+#15024
+david uomo guardia~
+David~
+David, un grosso omaccione dall'aspetto cattivo e' posizionato qui', a guardia della porta.
+~
+E' realmente grosso, ed hai la sensazione che non prenderebbe gentilmente un tuo
+tentativo di passar oltre...    
+~
+~
+~
+~
+11 8 250 -1 -1 -1 -1 -1 E
+33 9 -2 2d6+500 3d9+5
+27 35000
+8 8 1
+Spec: 0
+E
+#15025
+dick uomo guardia~
+Dick~
+Dick, un grosso omaccione dall'aspetto cattivo e' posizionato qui', a guardia della porta.
+~
+E' realmente grosso, ed hai la sensazione che non prenderebbe gentilmente un tuo
+tentativo di passar oltre...    
+~
+~
+~
+~
+11 8 250 -1 -1 -1 -1 -1 E
+33 9 -2 2d6+500 3d9+5
+25 34000
+8 8 1
+Spec: 0
+E
+#15026
+jerry guardia reale~
+Jerry~
+Jerry, la guardia reale e' fuori servizio e sta giocando a dadi qui'.
+~
+Come tutti i membri della guardia Jerry indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Jerry sembra allenato molto bene, e si muove
+come un combattente esperto.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+24 11 1 3d6+320 2d9+4
+13 40000
+5 5 1
+Spec: 0
+E
+#15027
+michael guardia reale~
+Michael~
+Michael, la guardia reale e' fuori servizio e sta giocando a dadi qui'.
+~
+Come tutti i membri della guardia Michael indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Michael sembra allenato molto bene, e si muove
+come un combattente esperto.    
+~
+~
+~
+~
+73 0 800 -1 -1 -1 -1 -1 E
+21 12 2 3d6+250 2d9+4
+20 35000
+5 5 1
+Spec: 0
+E
+#15028
+hans guardia reale~
+Hans~
+Hans, la guardia reale in servizio, e' qui'.
+~
+Come tutti i membri della guardia Hans indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Hans sembra Allenato molto bene, e si muove come
+un combattente che ha visto piu' di una battaglia e che spera di assistere
+alla prossima!    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+21 12 2 3d6+250 2d9+4
+13 50000
+8 8 1
+Spec: 0
+E
+#15029
+boris guardia reale~
+Boris~
+Boris la guardia reale in servizio e' qui'.
+~
+Come tutti i membri della guardia Boris indossa la cotta di maglia di ferro
+richiesta loro come uniforme.  Boris sembra ben allenato e porta le sue
+cicatrici con orgoglio.  Questo ragazzo sembra veramente tosto...    
+~
+~
+~
+~
+73 0 900 -1 -1 -1 -1 -1 E
+21 10 2 3d6+260 2d9+4
+16 43000
+8 8 1
+Spec: 0
+E
+#15030
+zombie~
+uno zombie~
+Uno zombie sta trascinandosi silenziosamente sopra alcuni cadaveri.
+~
+E' plausibile che questo zombie fosse una volta uno dei cittadini di
+Townsbridge riportato in "vita" da una insaziabile sete di vendetta.    
+~
+~
+~
+~
+172090 2360360 0 -1 -1 -1 -1 -1 E
+32 6 -2 1d1+510 3d8+7
+17 190000
+8 8 0
+E
+#15031
+scheletro cittadino~
+uno scheletro~
+Uno scheletro si muove scricchiolando su alcuni cadaveri.
+~
+E' plausibile che questo scheletro fosse una volta uno dei cittadini di
+Townsbridge riportato in "vita" da una insaziabile sete di vendetta.    
+~
+~
+~
+~
+172090 1064 0 -1 -1 -1 -1 -1 E
+29 10 -1 1d1+460 3d8+5
+17 150000
+8 8 0
+E
+#15032
+demone fossa~
+il demone della fossa~
+&3Un grosso demone circondato da fiamme esce all'improvviso da una scura fossa.
+~
+E' una cosa orribile, questa e' una creatura demoniaca degli abissi infernali.
+Ti osserva sprezzantemente con i suoi occhi rosso sangue e ti mostra
+minacciosamente le sue zanne bianche e i suoi artigli affilati come rasoi.    
+~
+~
+~
+~
+256058 1192 1000 -1 -1 -1 -1 -1 E
+38 7 -4 3d1+570 4d8+8
+35 300000
+6 8 1
+E
+#15033
+drappello uomini~
+Un drappello di uomini~
+Un drappello di uomini sta marciando.
+~
+Uomini armati sino ai denti ti osservano con la coda degli occhi.
+Sembrano ben armati e pronti a scattare al primo segno di pericolo.
+~
+~
+~
+~
+288230376151711754 0 0 -1 -1 -1 -1 -1 E
+70 20 10 1d1+30000 1d1+0
+50 0
+8 8 0
+E
+$

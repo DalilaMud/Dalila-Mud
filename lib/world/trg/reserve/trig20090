@@ -1,0 +1,15 @@
+trigedit 20090
+6  
+/c 
+* Lista comandi
+eval numero %random.10%
+if %numero% == 1
+say E' arrivato il Vello D'Oroooo.....avvicinateviiiiii!!. Donneeee, uominiiiii, bambini......abbiamo il vestito che fa per voooi! Presto Presto!
+end
+if %numero% == 2
+say Veeestitiiii, stooooffe, sete rarissimeeeeeee.....tutto dal Vello D'oroooooooo!
+end
+~
+/s
+q
+y

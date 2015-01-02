@@ -1,0 +1,11 @@
+trigedit 1469
+6  
+/c 
+mecho &9&xLa talpa si fa prendere dal panico e scompare sottoterra scavando velocissima&0
+mload obj 3561
+mgoto 28150
+say purgami
+~
+/s
+q
+y

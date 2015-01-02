@@ -1,0 +1,92 @@
+trigedit 12543
+6  
+/c 
+if %pellicceriaD% > 0
+mat pellicceria1%monarca% say set pg %pg%
+mat pellicceria1%monarca% say set quanti + %pellicceriaD%
+unset pellicceriaD
+mat %pellicceria% drop all
+end
+if %pellicceriaP% > 0
+mat pellicceria1%monarca% say set pg %pg%
+mat pellicceria1%monarca% say set quanti - %pellicceriaP%
+unset pellicceriaP
+mat %pellicceria% drop all
+end
+if %gioielleriaD% > 0
+mat preziose1%monarca% say set pg %pg%
+mat preziose1%monarca% say set quanti + %gioielleriaD%
+unset gioielleriaD
+mat %alchimista% drop all
+end
+if %gioielleriaP% > 0
+mat preziose1%monarca% say set pg %pg%
+mat preziose1%monarca% say set quanti - %gioielleriaP%
+unset gioielleriaP
+mat %gioielleria% drop all
+end
+if %alchimistaD% > 0
+mat erbe1%monarca% say set pg %pg%
+mat erbe1%monarca% say set quanti + %alchimistaD%
+unset alchimistaD
+mat %alchimista% drop all
+end
+if %alchimistaP% > 0
+mat erbe1%monarca% say set pg %pg%
+mat erbe1%monarca% say set quanti - %alchimistaP%
+unset alchimistaP
+mat %alchimista% drop all
+end
+if %falegnameD% > 0
+mat legname1%monarca% say set pg %pg%
+mat legname1%monarca% say set quanti - %falegnameD%
+unset falegnameD
+mat %falegname% drop all
+end
+if %falegnameP% > 0
+mat legname1%monarca% say set pg %pg%
+mat legname1%monarca% say set quanti + %falegnameD%
+unset falegnameP
+mat %falegname% drop all
+end
+if %cibo% > 0
+mat cibo1%monarca% say set pg %pg%
+mat cibo1%monarca% say set quanti - %cibo%
+unset cibo
+mat %alimentare% drop all
+end
+if %cibo2% > 0
+mat cibo1%monarca% say set pg %pg2%
+mat cibo1%monarca% say set quanti + %cibo2%
+unset cibo2
+end
+if %fabbroP% > 0
+mat metalli1%monarca% say set pg %pg%
+mat metalli1%monarca% say set quanti - %armeriaP%
+unset fabbroP
+mat %fabbro% drop all
+end
+if %FabbroD% > 0
+mat metalli1%monarca% say set pg %pg2%
+mat metalli1%monarca% say set quanti + %armeriaD%
+unset FabbroD
+end
+if %armeriaP% > 0
+mat metalli1%monarca% say set pg %pg%
+mat metalli1%monarca% say set quanti - %armeriaP%
+unset armeriaP
+mat %armeria% drop all
+end
+if %armeriaD% > 0
+mat metalli1%monarca% say set pg %pg2%
+mat metalli1%monarca% say set quanti + %armeriaD%
+unset armeriaD
+end
+set pg 0
+set pg2 0
+unset pg
+unset pg2
+~
+/s
+q
+y

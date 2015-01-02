@@ -1,0 +1,35 @@
+trigedit 28148
+6  
+/c 
+if %actor.vnum% != -1
+  halt
+end
+if %self.vnum% == 11220
+  if %self.timer% < 5
+    wait 1 s
+    %damage% %actor% 10
+    %send% %actor% %self.shortdesc% e' bollente !!! Ti ustioni la mano !!!
+    wait 1 s
+    %send% %actor% %self.shortdesc% ribolle tra le tue mani.
+  end
+wait 2 s
+%echo% %self.shortdesc% esplode con un forte boato!
+wait 1 s
+%damage% %actor% 30
+%send% %actor% Alcune schegge di vetro ti colpiscono... che dolore incommensurabile!!!
+otransform 11228
+halt
+end 
+if %self.vnum% == 11228
+  wait 1 s
+  %damage% %actor% 10
+  %send% %actor% Il vetro scheggiato della fiala ti taglia .
+  wait 2 s
+  %send% %actor% Il graffio e' piccolo, ma fa un male incredibile!!!
+  %echoaround% %actor% %actor.name% fa una smorfia di dolore.
+  halt
+end
+~
+/s
+q
+y

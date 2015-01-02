@@ -1,0 +1,15 @@
+trigedit 28012
+6  
+/c 
+wait 1
+if %actor.room% == 28042
+ oecho &3&xUn bagliore tenue accompagna la comparsa di un mistico uscio.&0
+ wait 1
+ oecho &3Imbocchi con sicurezza l'apertura e ti ritrovi nelle pacifiche vie di Lamorka&0
+ oteleport all 28041
+ oforce all look
+end
+~
+/s
+q
+y

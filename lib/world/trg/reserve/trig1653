@@ -1,0 +1,12 @@
+trigedit 1653
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.vnum% == -1
+ emo scatta in posizione e corre in difesa di Toshiaki!
+end
+~
+/s
+q
+y

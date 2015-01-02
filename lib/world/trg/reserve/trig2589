@@ -1,0 +1,18 @@
+trigedit 2589
+6  
+/c 
+* Lista comandi
+if %actor.room% != 2464246
+halt
+end
+wait 1 s
+oecho &3Un vortice di sabbia si alza all'improvviso, risucchiandoti!&0
+wait 2 s
+oecho &3La sabbia ti entra nel naso e nella bocca, soffocandoti!&0
+odamage all 200
+wait 1 s
+oteleport all 5814
+~
+/s
+q
+y

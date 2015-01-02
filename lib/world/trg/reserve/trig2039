@@ -1,0 +1,13 @@
+trigedit 2039
+6  
+/c 
+if %direction% == south
+ wait 1 s
+ emo volge gli occhi al cielo e abbandona le braccia lungo il corpo.
+ wait 1 s
+ say Xhyphys ti accoglie nel suo tempio, figlio del Caos.
+end
+~
+/s
+q
+y

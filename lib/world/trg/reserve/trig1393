@@ -1,0 +1,44 @@
+trigedit 1393
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %speech% == peperoni
+    if %actor.gold% >= 400
+    %force% %actor% give 400 coins viviana
+%echo% Viviana la cuoca sorride e serve delle gustose cotolette di peperoni!
+%load% obj 1855
+     else
+%echo% Viviana la cuoca guarda %actor.name% perplessa... non ha abbastanza soldi!
+end
+elseif %speech% == pizza
+     if %actor.gold% >= 300
+    %force% %actor% give 400 coins viviana
+%echo% Viviana la cuoca sforna una pizza fumante e la porge a %actor.name% con un sorriso!
+%load% obj 1856
+else
+%echo% Viviana la cuoca scuote la testa... devi poter pagare la sua cucina!
+end
+elseif %speech% == melanzane
+   if %actor.gold% >= 500
+   %force% %actor% give 500 coins viviana
+%echo% Viviana la cuoca estrae dal forno le sue speciali melanzane!
+%load% obj 1854
+else
+%echo% Viviana protesta... non lavora gratis!!
+end
+elseif %speech% == pasta
+if %actor.gold% >= 400
+%force% %actor% give 400 coins viviana
+%echo% Viviana prende il denaro e mette la pasta sul fuoco.. pochi minuti ed e' servita!!&0
+%load% obj 1858
+else
+%echo% Viviana molla un sonoro ceffone a %actor.name%.. i manicaretti si pagano!
+end
+else
+end
+* Fine trigger
+~
+/s
+q
+y

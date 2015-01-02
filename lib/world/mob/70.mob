@@ -1,0 +1,311 @@
+#7000
+mostro fango~
+l'orribile mostro di fango~
+Un orribile mostro di fango sta lentamente prendendo forma dal fango...
+~
+Sembra uscito da un film dell'orrore.  Sembra essere un'immensa figura fatta di
+solo fango, e di sicuro ha fatto colazione con carne umana ed ora ne cerca
+altra per il pranzo.  Forse la tua?    
+~
+~
+~
+~
+458856 263168 -250 -1 -1 -1 -1 -1 E
+12 11 4 1d1+120 2d8+3
+12 13000
+6 8 0
+E
+#7001
+piccolo pipistrello~
+un piccolo pipistrello~
+Un piccolo feroce pipistrello pende dal soffitto, ovviamente e' addormentato.
+~
+In tutta la tua vita non hai mai visto una creatura cosi', sebbene ora appaia
+pacifica, appesa come e' al soffitto della caverna e addormentata.  Se pensi di
+svegliarlo, attento alla tua pelle!    
+~
+~
+~
+~
+131176 4457472 -500 -1 -1 -1 -1 -1 E
+10 17 4 5d2+40 1d5+1
+7 3000
+4 8 0
+E
+#7002
+topo fogna~
+un topo di fogna~
+Un gigantesco topo di fogna dall'aria affamata e' qui.
+~
+Questa creatura e' decisamente grossa per essere un comune topo, ma non cosi'
+grossa da poter essere definita un topo gigante.  L'acqua melmosa della fogna
+scorre sul suo pelo grigio e ti sembra che l'animale ti osservi con i suoi
+occhi scintillanti.    
+~
+~
+~
+~
+40 1024 -1000 -1 -1 -1 -1 -1 E
+7 16 6 1d12+60 1d6+1
+6 4000
+8 8 0
+E
+#7003
+piccolo ragno peloso~
+un piccolo ragno~
+Un piccolo ragno peloso e' qui intento a tessere la sua tela.
+~
+Questo piccolo ragno non sembra prestarti attenzione mentre fila la sua
+ragnatela per formare un complicatissimo disegno.    
+~
+~
+~
+~
+40 263168 -700 -1 -1 -1 -1 -1 E
+14 11 0 1d12+80 1d8+8
+14 22000
+8 8 0
+E
+#7004
+scarafaggio gigante~
+uno scarafaggio gigante~
+Uno scarafaggio gigante e' qui.
+~
+Hai certo visto prima degli scarafaggi, ma questo e' enorme.  Forse in tutto
+raggiunge 60 centimetri!  Non appena ti nota, muove le sue sei zampe producendo
+un fastidioso rumore.    
+~
+~
+~
+~
+72 1024 -300 -1 -1 -1 -1 -1 E
+15 13 5 2d10+100 2d5+6
+11 24000
+4 8 0
+E
+#7005
+larva gigante~
+una larva~
+Una larva gigante e' qui.
+~
+Questo grosso ammasso di carne e' qui che trema come se avvertisse la tua
+presenza e le tue intenzioni.    
+~
+~
+~
+~
+196680 1024 300 -1 -1 -1 -1 -1 E
+13 17 4 2d5+60 1d7+3
+10 10000
+8 8 0
+E
+#7006
+serpente~
+un serpente~
+Un serpente striscia verso di te. Sembra molto aggressivo.
+~
+Questo serpente e' di una specie che non ti ricordi di aver visto recentemente.
+Ha le squame nere e piccole macchie bianche a forma di diamante sulla testa e
+nella parte superiore del corpo.  Una sottile striscia di colore verde e'
+invece su ciascun fianco del corpo.    
+~
+~
+~
+~
+104 1024 -500 -1 -1 -1 -1 -1 E
+16 13 3 2d1+90 1d9+6
+16 12000
+8 8 0
+E
+#7007
+vagabondo malvagio~
+un malvagio vagabondo~
+Un malvagio vagabondo ti lancia un'occhiata penetrante.
+~
+Il malvagio vagabondo e' molto magro.  Indossa un mantello grigio.  Il suo
+aspetto e' poco rassicurante e certo non lo sceglieresti come compagno di
+viaggio.    
+~
+~
+~
+~
+76 32 -1000 -1 -1 -1 -1 -1 E
+20 11 4 4d10+200 2d8+3
+16 13000
+8 8 1
+E
+#7008
+omuncolo creatura~
+un omuncolo~
+Un omuncolo e' qui che ti guarda con aria malvagia.
+~
+L'omuncolo sembra un uomo, ma e' alto solo una quarantina di centimetri ed ha
+la pelle verde, simile a quella dei rettili e delle ali uguali a quelle dei
+pipistrelli.  La sua bocca poi mostra denti affilati ed una lingua verdastra.
+  
+~
+~
+~
+~
+57416 40 -780 -1 -1 -1 -1 -1 E
+18 10 4 6d3+190 2d8+2
+17 16000
+8 8 0
+E
+#7009
+morkoth ombra~
+un morkoth d'ombra~
+Un morkoth si trova qui in attesa di qualcuno da uccidere!
+~
+E' un mostro d'ombra alto circa un metro e mezzo.  Questo che hai davanti
+sembra un incrocio tra un uomo ed un ratto.  Respira pesantemente mentre ti si
+avvicina.    
+~
+~
+~
+~
+105 32 -900 -1 -1 -1 -1 -1 E
+19 12 4 1d20+200 2d8+3
+11 9000
+8 8 0
+E
+#7010
+gorgone~
+una gorgone~
+Una gorgone e' qui che scalpita guardandosi attorno con i suoi occhi gialli.
+~
+La testa ed il corpo della gorgone sono coperte di rame ed i suoi occhi sono
+gialli.  La parte inferiore del corpo e' invece di color arancione.    
+~
+~
+~
+~
+108 263176 -830 -1 -1 -1 -1 -1 E
+21 9 2 2d2+310 2d10+6
+15 35000
+8 8 2
+E
+#7040
+drago rosso mobxhyphys9~
+&1&xun drago rosso&0~
+Un drago rosso dallo sguardo fiammeggiante ti osserva con odio.
+~
+Il drago rosso ti squadra dall'alto in basso come se il tuo arrivo lo avesse
+svegliato.  Ti dice 'Umano, TU hai osato svegliarmi....  Hssssss', poi mentre
+si avvicina aggiunge 'Uno non puo' MAI dormire in pace...  Hssss...  '
+~
+~
+~
+~
+254047 42120 -1000 -1 -1 -1 -1 -1 E
+70 0 -6 5d4+900 2d13+14
+53 4000000
+8 8 0
+Spec: 27
+E
+#7041
+strega marina~
+una strega marina~
+Una strega marina e' qui che nuota.
+~
+La strega marina ha un aspetto cosi' spettrale che ti senti invadere da un
+cieco terrore.  Ha grandi occhi gialli e denti affilati.  Le sue orecchie sono
+molto grandi ed ha delle piccole corna appuntite sulla testa.  Questo essere,
+ovviamente, odia la bellez
+~
+~
+~
+~
+262248 1032 -800 -1 -1 -1 -1 -1 E
+17 12 4 1d8+200 2d8+4
+10 50000
+8 8 2
+E
+#7042
+naga guardiana~
+una naga guardiana~
+Una naga guardiana ti osserva dolcemente.
+~
+Le naga sono creature simili a serpenti.  Quella che hai di fronte e' coperta
+di scaglie verdi e dorate ed ha un triangolo argentato sulla schiena.  I suoi
+occhi sono dorati.  Si accorge che la stai osservando e ti dice 'Attento.  
+Questa strada conduce a crea
+~
+~
+~
+~
+10 1024 700 -1 -1 -1 -1 -1 E
+27 9 1 1d18+370 2d9+4
+25 13500
+8 8 2
+E
+#7043
+basilisco scaglie~
+un basilisco coperto di scaglie~
+Un basilisco coperto di scaglie si muove lentamente verso di te.
+~
+Il basilisco e' un rettile mostruoso.  Ha otto zampe e forti mascelle dai denti
+affilati.  E' di color marrone scuro nella parte superiore, mentre il ventre e'
+giallognolo.  I suoi occhi sono di un verde brillante.    
+~
+~
+~
+~
+12 1192 -250 -1 -1 -1 -1 -1 E
+23 11 2 1d12+250 2d10+4
+13 210000
+8 8 0
+E
+#7044
+lemure~
+una lemure~
+Una lemure striscia verso di te per attaccarti!
+~
+E' un ammasso viscido fatto di una sostanza gelatinosa dalla forma vagamente
+umana.  Ha grossi occhi gialli e neri ed una bocca posta nella parte superiore
+della faccia.  La Lemure non sembra particolarmente interessata a te, ma ti
+attacca lo stesso.  Sembra
+~
+~
+~
+~
+73832 1024 -500 -1 -1 -1 -1 -1 E
+9 14 5 3d5+160 2d5+2
+8 26000
+8 8 2
+E
+#7045
+jones ettin spaccaossa~
+Jones l'ettin spaccaossa~
+Jones e' qui che ti osserva minacciosamente.
+~
+La tua prima impressione e' che Jones sia un orco, ma quando ti avvicini ti
+accorgi che ha una seconda testa.  Indossa abiti fatti con pelle di animale,
+sporchi e rovinati dalle tarme.  Jones emana decisamente un cattivo odore.    
+~
+~
+~
+~
+46 1024 -480 -1 -1 -1 -1 -1 E
+20 12 4 1d5+260 2d8+4
+18 70000
+5 5 1
+E
+#7046
+Herald ladro~
+Herald il ladro povero~
+Herald e' qui che ti guarda sorpreso.
+~
+Quando osservi Herald, provi pieta' per lui.  I suoi abiti sono veramente
+poveri e stracciati in piu' parti.  Alla corda, che porta legata in vita, sono
+appesi topi e ratti morti.  L'odore che emana non e' piacevole.    
+~
+~
+~
+~
+76 1024 200 -1 -1 -1 -1 -1 E
+26 10 1 2d5+400 2d10+5
+22 180000
+5 5 1
+E
+$

@@ -1,0 +1,18 @@
+trigedit 2562
+6  
+/c 
+* Lista comandi
+if %object.vnum% == 8832
+set randello 0
+global randello
+wait 2
+prendi randello
+unlock porta
+apri porta
+mat xxxxx posa chiavetta
+wait 10 s
+mat xxxxx posa randello
+~
+/s
+q
+y

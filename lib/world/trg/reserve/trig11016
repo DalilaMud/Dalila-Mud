@@ -1,0 +1,23 @@
+trigedit 11016
+6  
+/c 
+%echoaround% %actor% &B%actor.name% lancia la lacrima di silue verso il portale demoniaco.&0
+%send% %actor% &BLanci la lacrima di silue verso il portale demoniaco.&0
+wait 4s
+%echo% &CIn un istante che sembra essere eterno vedi la lacrima volare nell'aria diretta verso il bersaglio...&0
+wait 4s
+%echo% &GLa Lacrima di Silue e' sulla bocca della crepa...&0
+wait 4s
+%echo% &ZUno sbuffo di fumo sulfureo devia la traiettoria della Lacrima...&0
+%echo% &c...che si infrange sul bordo...&0
+wait 4s
+%echo% &rLa crepa lentamente si richiude, ma il dubbio che si possa riaprire permane...&0
+wait 4s
+%echo% &EPer ora hai salvato di nuovo la Daresia!!!&0
+%purge%
+%purge% %self%
+halt
+~
+/s
+q
+y

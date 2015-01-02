@@ -1,0 +1,43 @@
+trigedit 31517
+6  
+/c 
+wait 1
+eval casuale %random.40%
+if %casuale% > 20 && %casuale% < 26
+ mecho &1&xUna farfalla gigante agita le ali e una densa polvere rosso fuoco si espande ovunque.&0
+ wait 1 s
+ mecho &1La tua pelle si infiamma al contatto con la polvere!&0
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_cast 'disintegrate' %actor.name%
+ dg_affect %actor.name% fireshd 0 1
+elseif %casuale% < 11 && %casuale% > 1
+ mecho &3&xUna densa polvere gialla riempie l'aria della stanza non appena una farfalla gigante scuote le sue ali!&0
+ wait 1 s
+ mecho &3La polvere ti blocca il respiro!&0
+ dg_cast 'disintegrate' %actor.name%
+ dg_affect %actor.name% silence 0 10
+elseif %casuale% > 10 && %casuale% < 21
+ wait 1 s
+ mecho &2&xUna polvere verde scaturita dalle ali di una farfalla gigante ti colpisce agli occhi accecandoti!&0
+ dg_cast 'blindness' %actor.name%
+ dg_cast 'blindness' %actor.name%
+ dg_cast 'blindness' %actor.name%
+ dg_cast 'blindness' %actor.name%
+ dg_cast 'blindness' %actor.name%
+elseif %casuale% == 1
+ mecho &7&xUna polvere bianca aleggia ovunque attorno a te, e l'aria si fa improvvisamente piu' pesante...&0
+ wait 1 s
+ mecho &7Rimani paralizzato!&0
+ dg_affect %actor.name% paralized 0 2
+elseif %casuale% > 25 && %casuale% < 34
+ mecho &5&xUna brillante polvere rosa esce dalle ali di una farfalla gigante e ti colpisce in pieno!&0
+ wait 1 s
+ mecho &5L'unica cosa che riesci a pensare e' dormire...&0
+ dg_affect %actor.name% sleep 0 4
+end
+wait 2 s
+~
+/s
+q
+y

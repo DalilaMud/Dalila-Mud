@@ -1,0 +1,22 @@
+trigedit 1488
+6  
+/c 
+if %actor.name% != dolmant
+halt
+end
+%force% dolmant emote prende un campanello di cristallo dalla scrivania e lo fa squillare una volta
+%force% gdd mat gcd mecho &7Il limpido squillo di un campanello trilla&0
+wait 1 s
+%force% gdd mat gcd mforce 2.gcd sor
+wait 2 s
+%force% gdd mat gcd mforce gcd say Re Dolmant vi attende, entrate pure %ospite%
+wait 1 s
+%force% gdd mat gcd mforce 2.gcd unlock porta
+%force% gdd mat gcd mforce 2.gcd apri porta
+wait 15 s
+%force% gdd mat gcd mforce 2.gcd chiudi porta
+%force% gdd mat gcd mforce 2.gcd lock porta
+~
+/s
+q
+y

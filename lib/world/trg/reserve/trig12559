@@ -1,0 +1,16 @@
+trigedit 12559
+6  
+/c 
+if %object.name% == buono reale
+mforce %actor.name% junk buono
+wait 5
+mload obj 12555
+mat 3001 drop teso
+mat 3001 get teso
+mat 3001 drop buono
+say Vi rigrazio, Sir %Actor.name%
+end
+~
+/s
+q
+y

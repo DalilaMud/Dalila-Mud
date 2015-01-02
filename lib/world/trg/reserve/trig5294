@@ -1,0 +1,12 @@
+trigedit 5294
+6  
+/c 
+%echo% &W%self.name% compare in una nuvoletta di fumo...&0
+%load% obj 5263 %self% inv
+follow Alhandir
+wear anello
+say Miiaaaoooo
+~
+/s
+q
+y

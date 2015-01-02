@@ -1,0 +1,190 @@
+#12100
+sentinella~
+Sentinella~
+Una sentinella e' nascosta nella nebbia.
+~
+Figura immersa nell'oscura nebbia, celata alla vista di chi non sa cercare.
+E' appoggiata ad un albero e scruta attentamente ogni tuo movimento.
+~
+~
+~
+~
+36028797019219979 1056 -500 -1 -1 -1 -1 -1 E
+50 3 -8 1d1+800 4d10+12
+41 0
+8 8 1
+Str: 17
+Dex: 17
+Spec: 16
+E
+T 12100
+T 12101
+T 12102
+T 12103
+#12101
+tarantola~
+Una tarantola~
+Una tarantola e' qui.
+~
+Brutta, pelosa e con tante zampe.
+~
+~
+~
+~
+90154 2048 0 -1 -1 -1 -1 -1 E
+10 17 6 1d1+75 2d5+1
+10 0
+8 8 0
+E
+#12102
+pantegana~
+Una pantegana~
+Una pantegana rosicchia qui.
+~
+Uno schifosissimo ratto. Brutto, nero, peloso e probabilmente
+portatore sano di qualche malattia infettiva.
+~
+~
+~
+~
+8 0 0 -1 -1 -1 -1 -1 E
+15 14 5 1d1+160 2d5+2
+14 0
+8 8 1
+E
+#12103
+duca~
+Il duca~
+Il duca e' qui che armeggia.
+~
+Per meta' duca per meta' pazzo. Indaffarato a sostare libri, sostanze
+e a rovistare in cassetti senza trovare mai nulla di interessante.
+~
+~
+~
+~
+253978 1064 0 -1 -1 -1 -1 -1 E
+40 10 -3 1d1+600 3d8+5
+37 0
+8 8 1
+E
+#12104
+demone cinghiale~
+Un DEMONE del dio Cinghiale~
+Un DEMONE del dio Cinghiale scalpita qui.
+~
+un ammasso di vermi neri come un incubo avvolgono l'immensa massa di quello che un tempo
+fu un Dio Cinghiale, dovunque egli passa la terra avvizzisce e la vita muore...
+~
+~
+~
+~
+647706 1064 -500 -1 -1 -1 -1 -1 E
+25 11 1 1d1+375 2d10+5
+16 0
+8 8 1
+E
+#12105
+dio lupo~
+Il Dio Lupo~
+Il Dio Lupo fluttua qui.
+~
+Nebbia che evoca immagini strane di luoghi mai visti. Figure si muovono nell'ombra
+tutte sovreastate da una misteriosa creatore circondata di mistero. Un lupo mistico
+si nasconde dietro a un dio... o un dio si nasconde dietro ad un lupo mistico?
+~
+~
+~
+~
+537124890 1064 -1000 -1 -1 -1 -1 -1 E
+50 5 -5 1d1+2500 3d6+5
+38 0
+8 8 0
+E
+#12106
+vecchio maggiordomo~
+un maggiordomo in livrea~
+un vecchio maggiordomo ti squadra da capo a piedi
+~
+Nothing.
+~
+~
+~
+~
+28682 274877908008 -300 -1 -1 -1 -1 -1 E
+55 0 -9 1d1+860 4d10+12
+37 0
+8 8 1
+E
+#12107
+gruppo signori maschere~
+gruppo di maschere~
+un gruppo di eleganti signori mascherati gira qui intorno
+~
+Nothing.
+~
+~
+~
+~
+24650 274877908008 0 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+1000 4d12+12
+59 0
+8 8 0
+E
+#12110
+berta stalliera~
+Berta la stalliera~
+Una stalliera sta' cercando si pulire la stalla.
+~
+Levagli 30 anni, 5 centimetri di letame che gli copre il viso, un 200 chili
+ed avrai la stalliera piu' sexy di tutta la Daresia.
+Ha al collo una catenella (sembra piu' un catenaccio) con scritto sopra BERTA
+~
+~
+~
+~
+36028797019217947 0 0 -1 -1 -1 -1 -1 E
+1 20 10 1d1+0 1d1+0
+1 0
+8 8 2
+Spec: 35
+E
+#12150
+skjadeh cartomante figura misterioso~
+Il misterioso cartomante~
+Una figura nera di nome Skjadeh
+~
+Quest'uomo alto e vestito di nero emana bagliori sinistri da tutta la
+figura. Un cappello sdrucito a tesa larga gli copre il volto, e non riesci
+a vedere il suo sguardo. Si muove lentamente e parla con voce solenne, ma
+risoluta.
+~
+~
+~
+~
+36028797019217946 274877908104 0 -1 -1 -1 -1 -1 E
+100 -10 -10 1d1+30000 30d50+30
+61 0
+8 8 1
+E
+#12181
+karl guardiano~
+Karl il guardiano~
+Un guardiano sta' cazzeggiando dietro un tavolo.
+~
+Hai davanti un uomo piccolo e irritante. Ti fissa con i suoi occhi sospettosi
+e gretti mentre continua a giocherellare con il suo pugnale.
+~
+~
+~
+~
+36028797019224090 274877940776 -500 -1 -1 -1 -1 -1 E
+60 3 -8 1d1+800 4d13+25
+41 0
+8 8 1
+Spec: 16
+E
+T 12181
+T 12182
+T 12183
+$

@@ -1,0 +1,18 @@
+trigedit 2508
+6  
+/c 
+* Lista comandi
+if %imm%==1
+halt
+else
+set imm 1
+global imm
+wait 1
+wsend %actor.name% Appena entrato di ritrovi di fronte un enorme specchio, 
+wsend %actor.name% resti stupito nel vedere quanto sia vivida la tua immagine riflessa.
+wload mob 594
+end
+~
+/s
+q
+y

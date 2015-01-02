@@ -1,0 +1,25 @@
+trigedit 2025
+6  
+/c 
+set controllino 0
+global controllino
+set puntifede 0
+global puntifede
+set puntigrazia 0
+global puntigrazia
+eval controllo 0
+global controllo
+eval raccolti 0
+global raccolti
+eval condizione 0
+global condizione
+set naltare &1&xAltare di Shaarr&0
+global naltare
+set altare altareshaarr
+global altare
+set burattino burattinoshaarr
+global burattino
+~
+/s
+q
+y

@@ -1,0 +1,20 @@
+trigedit 6605
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %actor.vnum% == -1
+   say Salve, volete una mappa della nostra ridente citta'?
+   set attesa on
+   global attesa
+   wait 13 s
+   if %attesa% == on
+     say Vedo che non vi interessa, se cambiate idea tornate a trovarmi.
+     set attesa off
+     global attesa
+   end
+end
+~
+/s
+q
+y

@@ -1,0 +1,14 @@
+trigedit 1667
+6  
+/c 
+* Lista comandi
+mecho &1&xUN ONDA DI ENERGIA FUORIESCE DALL'INCAVO, BRUCIANDO TUTTO!&0
+mecho &4&xORA CHE IL MECCANISMO E' STATO DISTRUTTO, NON POTRETE USARLO PER TORNARE IN DARESIA!&0
+return 0
+mpurge
+mgoto 28150
+halt
+~
+/s
+q
+y

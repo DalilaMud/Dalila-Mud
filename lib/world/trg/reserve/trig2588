@@ -1,0 +1,23 @@
+trigedit 2588
+6  
+/c 
+* Lista comandi
+if %self.vnum% != 5810
+halt
+end
+if %actor.class% != pandion
+wait 1
+osend %actor.name% &1Il glifo riconosce le tue mani come poco avvezze alla magia!&0
+odamage %actor.name% 100
+wait 1 s
+osend %actor.name% &1Il glifo si dissolve&0
+otransform 5311
+halt
+else
+wait 1
+osend %actor.name% &1Il glifo riconosce le tue mani come in grado di maneggiare la magia&0
+end
+~
+/s
+q
+y

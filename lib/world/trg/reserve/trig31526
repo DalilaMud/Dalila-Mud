@@ -1,0 +1,16 @@
+trigedit 31526
+6  
+/c 
+if %mob%==1
+ if %counter% == 277
+  set mob 0
+  global mob
+ else
+  eval counter %counter%+1
+  global counter
+ end
+end
+~
+/s
+q
+y

@@ -1,0 +1,19 @@
+trigedit 9741
+6  
+/c 
+if %animazione% == on
+eval timer %timer% +1
+global timer
+if %timer% >= 2
+wecho &1&x Un enorme guardiano esce dalla cella sbuffando&0
+set animazione off
+global animazione
+unset %libera%
+else
+end
+else
+end
+~
+/s
+q
+y

@@ -1,0 +1,9 @@
+trigedit 11098
+6  
+/c 
+set actor.prof(%speech%) 1
+%send% %actor.name% %speech% settata a 1
+~
+/s
+q
+y

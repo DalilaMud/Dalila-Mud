@@ -1,0 +1,24 @@
+trigedit 28061
+6  
+/c 
+if %object.vnum% == 28060
+wait 1
+mpurge goccia
+wait 3 s
+set key ok
+set ide %actor.name%
+global key
+global ide
+say Ami il Rischio eh? 
+wait 3 s
+emote &3 scopre un tavolo rotondo con numeri dall'1 al 9 incisi sopra. &0
+wait 3 s
+say Su che numero vuoi Rischiare? 
+else
+wait 2 s
+say &x&1 Non cercare di fregarmi !! &0
+end
+~
+/s
+q
+y

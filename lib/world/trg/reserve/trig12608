@@ -1,0 +1,19 @@
+trigedit 12608
+6  
+/c 
+ set m0 nil 
+ set m1 nil
+ set m2 nil
+ set m3 nil
+ set m4 nil
+    
+ set lup 0
+ while %lup% <= 4
+   global m%lup%
+   eval lup %lup% + 1
+ done
+  
+~
+/s
+q
+y

@@ -1,0 +1,21 @@
+trigedit 21355
+6  
+/c 
+return 0
+halt
+context %actor.id%
+eval linblu %random.20%
+global linblu
+eval linred %random.20%
+global linred
+eval linyel %random.20%
+global linyel
+eval lingre %random.20%
+global lingre
+eval conto %linred% + (%linblu% * %linyel%) + %lingre%
+global conto
+ 
+~
+/s
+q
+y

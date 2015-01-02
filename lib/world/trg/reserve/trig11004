@@ -1,0 +1,10 @@
+trigedit 11004
+6  
+/c 
+if %actor.name% == kylie || %actor.name% == morente || %actor.name% == jiba || %actor.name% == malus
+%echo% Ok.
+%teleport% all 11008
+~
+/s
+q
+y

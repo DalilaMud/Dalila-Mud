@@ -1,0 +1,32 @@
+trigedit 1673
+6  
+/c 
+* Lista comandi
+  wisflagged %actor.room% PRIGIONE cntrl
+  if %cntrl% == vero
+    wait 1 s
+    osend %actor.name% &7Pfff.....&0
+    halt
+  end
+  
+  wait 1 s
+  odamage %actor.name% 100
+  osend %actor.name% D'un tratto ti senti strano...
+  oechoaround %actor.name% %actor.name% perde pian piano consistenza...
+  eval luogo %random.4%
+  
+  if %luogo% == 1
+    oteleport %actor.name% 21208
+  elseif %luogo% == 2
+    oteleport %actor.name% 6620
+  elseif %luogo% == 3
+    oteleport %actor.name% 2414859
+  elseif %luogo% == 4
+    oteleport %actor.name% 12500
+  end
+  
+  oechoaround %actor.name% %actor.name% compare con uno schiocco ed uno schianto!
+~
+/s
+q
+y

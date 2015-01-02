@@ -1,0 +1,31 @@
+trigedit 11015
+6  
+/c 
+if %poppaggi% <= 1
+%echo% &ZUn'improvviso sbuffo di fumo si leva dalla crepa&0
+wait 3s
+%echo% &rNon accade nulla&0
+halt
+end
+%echo% &ZUn'improvviso sbuffo di fumo si leva dalla crepa&0
+wait 3s
+%echo% &rDelle forme terribili si materializzano...&0
+eval caso %random.3%
+if %caso% == 1
+%load% mob 11001
+%load% mob 11001
+%load% mob 11001
+end
+if %caso% == 2
+%load% mob 11002
+%load% mob 11002
+end
+if %caso% == 3
+%load% mob 11003
+end
+eval poppaggi %poppaggi% - 1
+global poppaggi
+~
+/s
+q
+y

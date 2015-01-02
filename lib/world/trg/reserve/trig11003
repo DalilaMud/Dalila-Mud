@@ -1,0 +1,13 @@
+trigedit 11003
+6  
+/c 
+if %actor.name% == kylie || %actor.name% == morente || %actor.name% == jiba || %actor.name% == malus
+%echoaround% %actor% &c%actor.name% scopare all'improvviso
+%send% %actor% ok
+%teleport% %actor% 11008
+%door% 1531513 east room 11007
+%door% 1535514 east purge
+~
+/s
+q
+y

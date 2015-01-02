@@ -1,0 +1,19 @@
+trigedit 6770
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %direction% == up
+emote ti guarda con stupore.
+wait 2 s
+emote sospira forte e afferra il suo bastone di bambu'
+wait 2 s
+emote comincia a far roteare il suo bastone sopra la tua testa.
+wait 2 s
+say Lo scontro e' inevitabile. Attaccami se hai coraggio. (uccidi fantoccio)
+else
+end
+~
+/s
+q
+y

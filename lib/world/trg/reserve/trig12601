@@ -1,0 +1,40 @@
+trigedit 12601
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &1&x %actor.name% pianta un coltello nella schiena di %victim.name%!&0
+mat %2% &1&x %actor.name% pianta un coltello nella schiena di %victim.name%!&0
+mat %3% &1&x %actor.name% pianta un coltello nella schiena di %victim.name%!&0
+mat %4% &1&x %actor.name% pianta un coltello nella schiena di %victim.name%!&0
+mat %5% &1&x %actor.name% pianta un coltello nella schiena di %victim.name%!&0
+eval schiena %schiena% + 1
+global schiena
+if %schiena% == 3
+wait 1 s
+mat %1% &6La strategia di %actor.name% sta dando i suoi effetti, sara' la 2-3 volta che usa il backstab&0
+mat %2% &6La strategia di %actor.name% sta dando i suoi effetti, sara' la 2-3 volta che usa il backstab&0
+mat %3% &6La strategia di %actor.name% sta dando i suoi effetti, sara' la 2-3 volta che usa il backstab&0
+mat %4% &6La strategia di %actor.name% sta dando i suoi effetti, sara' la 2-3 volta che usa il backstab&0
+mat %5% &6La strategia di %actor.name% sta dando i suoi effetti, sara' la 2-3 volta che usa il backstab&0
+end
+if %schiena% == 5
+wait 1 s
+mat %1% &6E' incredibile cosa %actor.name% riesca a fare con quell'arma alle spalle dei suoi nemici!&0
+mat %2% &6E' incredibile cosa %actor.name% riesca a fare con quell'arma alle spalle dei suoi nemici!&0
+mat %3% &6E' incredibile cosa %actor.name% riesca a fare con quell'arma alle spalle dei suoi nemici!&0
+mat %4% &6E' incredibile cosa %actor.name% riesca a fare con quell'arma alle spalle dei suoi nemici!&0
+mat %5% &6E' incredibile cosa %actor.name% riesca a fare con quell'arma alle spalle dei suoi nemici!&0
+end
+if %schiena% == 7
+wait 1 s
+mat %1% &6 %actor.name% non e' decisamente un tipo a cui girare le spalle se si tiene alla vita!&0
+mat %2% &6 %actor.name% non e' decisamente un tipo a cui girare le spalle se si tiene alla vita!&0
+mat %3% &6 %actor.name% non e' decisamente un tipo a cui girare le spalle se si tiene alla vita!&0
+mat %4% &6 %actor.name% non e' decisamente un tipo a cui girare le spalle se si tiene alla vita!&0
+mat %5% &6 %actor.name% non e' decisamente un tipo a cui girare le spalle se si tiene alla vita!&0
+end
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 12561
+6  
+/c 
+if %speech% /= 1
+eval resto %speech% - 1
+global resto
+wait 1
+give %resto% coins controllore
+end
+~
+/s
+q
+y

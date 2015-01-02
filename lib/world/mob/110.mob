@@ -1,0 +1,406 @@
+#11000
+il losco figuro~
+un losco figuro~
+un losco figuro e' appoggiato al muro
+~
+Nonostante questo tipo cerchi di atteggiare tutto il suo
+corpo come quello di chi non ha niente da fare e se ne sta
+a spigrizzare contro il muro tutto il giorno, da navigato
+avventuriero capisci che e' solo una facciata e che
+probabilmente reagirebbe con precisione mortale.
+Fossi in te lo lascerei perdere
+~
+~
+~
+~
+36028797556088842 525352 -200 -1 -1 -1 -1 -1 E
+70 -20 -20 1d1+9999 10d10+40
+46 0
+8 8 1
+E
+T 11001
+T 11000
+#11001
+demone minore~
+un demone minore~
+&run demone minore cerca umani da mangiare&0
+~
+tutto scaglie e zanne, fa proprio paura
+~
+~
+~
+~
+40 0 -1000 -1 -1 -1 -1 -1 E
+40 15 0 1d1+499 3d5+5
+23 0
+8 8 1
+BareHandAttack: 8
+E
+T 11018
+#11002
+un demone imponente~
+un demone imponente~
+&run demone imponente cerca umani da scannare&0
+~
+tutto scaglie e zanne, fa proprio paura
+~
+~
+~
+~
+536870952 0 -1000 -1 -1 -1 -1 -1 E
+45 10 -3 1d1+599 4d5+5
+33 0
+8 8 1
+BareHandAttack: 8
+E
+T 11018
+T 11017
+#11003
+demone abissi~
+un demone degli abissi~
+&RUn demone degli abissi cerca uomini da torturare&0
+~
+tutto scaglie e zanne, fa proprio paura
+~
+~
+~
+~
+576460752840294441 0 -1000 -1 -1 -1 -1 -1 E
+50 10 -5 1d1+999 5d5+10
+47 0
+8 8 1
+BareHandAttack: 8
+Str: 18
+StrAdd: 100
+Dex: 18
+Con: 18
+Spec: 16
+E
+T 11019
+T 11018
+T 11017
+#11004
+rugginofago~
+il rugginofago~
+Un rugginofago si lancia all'attacco.
+~
+lungo 1,5 metri alto 90 cm ha il corpo coperto
+di uno spesso strato di chitina di un colore
+giallastro sul dorso e rosso sul ventre.
+Anche la sua coda e' coperta di chitina e termi-
+na in un a struttura ossea biforcuta. Possiede
+anche due antenne prensili sulla testa, una sotto
+ogni occhio, un grado di corrodere il metallo
+con il semplice contatto.
+~
+~
+~
+~
+576460752303439912 1064 0 -1 -1 -1 -1 -1 E
+50 -5 0 0d1+999 4d4+5
+37 0
+8 8 1
+BareHandAttack: 4
+E
+T 11022
+#11005
+Lyhux planetar~
+Lyhux~
+Un leggendario &WPlanetar&0 e' qui in meditazione
+~
+Ha l'aspetto di un umano molto muscoloso
+con tristi occhi &Vsmeraldo&0, &wbianche&0
+ali piumate e la testa calva.
+~
+~
+~
+~
+612489549322643483 5288 1000 -1 -1 -1 -1 -1 E
+80 -15 0 1d1+4999 10d10+35
+60 0
+8 8 1
+E
+T 11024
+T 11026
+#11006
+rugginofago enorme~
+il rugginofago enorme~
+Un rugginofago enorme si lancia all'attacco.
+~
+lungo 2 metri alto 120 cm ha il corpo coperto
+di uno spesso strato di chitina di un colore
+giallastro sul dorso e rosso sul ventre.
+Anche la sua coda e' coperta di chitina e termi-
+na in un a struttura ossea biforcuta. Possiede
+anche due antenne prensili sulla testa, una sotto
+ogni occhio, un grado di corrodere il metallo
+con il semplice contatto.
+~
+~
+~
+~
+49192 1064 0 -1 -1 -1 -1 -1 E
+60 -10 -5 1d1+1999 6d6+10
+47 0
+8 8 1
+BareHandAttack: 4
+E
+T 11022
+#11007
+demone superbia~
+&rIl demone della superbia&0~
+&rUn demone dallo sguardo altero ti guarda con disprezzo.&0
+~
+Ha l'aspetto di un demone molto potente. Il suo sguardo e'
+pieno di disprezzo contro qualsiasi creatura dei cieli
+o degli inferi che non sia se stesso.
+~
+~
+~
+~
+576460752303677466 1064 -1000 -1 -1 -1 -1 -1 E
+45 15 5 1d1+499 3d4+5
+30 0
+8 8 1
+E
+T 11027
+T 11030
+#11008
+demone gola~
+&VIl demone della gola&0~
+&VUn demone molto grasso sta banchettando con carne umana&0
+~
+E' la cosa piu' grassa che tu abbia mai visto.
+Rotoli di ciccia si accavallano l'uno sopra
+l'altro creando una figura non piu' umana,
+ma mostrusamente budrilla.
+~
+~
+~
+~
+576460752303677466 1064 -1000 -1 -1 -1 -1 -1 E
+50 10 0 1d1+999 4d4+8
+48 0
+8 8 1
+BareHandAttack: 4
+Spec: 10
+E
+T 11027
+T 11031
+#11009
+demone ira~
+&RIl demone dell'ira&0~
+&RUn demone ti urla contro appena entri&0
+~
+Ha gli occhi inettati di sangue, non parla,
+ma abbaia. Il suo sguardo e' talmente iroso
+che ti mette paura.
+~
+~
+~
+~
+576460752303677498 67109928 -1000 -1 -1 -1 -1 -1 E
+55 5 -5 1d1+1499 5d4+10
+36 0
+8 8 1
+BareHandAttack: 10
+E
+T 11027
+T 11032
+#11010
+demone avarizia~
+&GIl demone dell'avarizia&0~
+&GUn demone che indossa mille gioielli&0 gira tra le mani un diamante purissimo.
+~
+Ha indosso tante di quelle collane e tanto
+di quell'oro, gioielli e monili preziosissimi
+che neanche un centimetro della sua pelle
+e' visibile.
+~
+~
+~
+~
+576460752303677470 134218792 -1000 -1 -1 -1 -1 -1 E
+60 0 -8 1d1+1999 6d4+12
+32 0
+8 8 1
+BareHandAttack: 1
+E
+T 11027
+T 11033
+#11011
+demone infelicita~
+&bIl demone dell'invidia&0~
+&bUn demone ti osserva con sguardo invidioso&0
+~
+Costui si occupa di ricreare le scene di
+felicita' che tanto fanno penare gli
+invidiosi.
+~
+~
+~
+~
+576460752303677502 9288 -1000 -1 -1 -1 -1 -1 E
+65 -4 -10 1d1+2499 7d4+14
+40 0
+8 8 1
+BareHandAttack: 8
+E
+T 11027
+T 11035
+#11012
+demone pigrizia~
+&cIl demone della pigrizia&0~
+&cC'e' qui un demone che sembra non ti abbia notato&0
+~
+Indifferente a tutto, questo demone ti
+da l'idea di chi non si turba davanti
+a nulla.
+~
+~
+~
+~
+576460752303677466 17826856 -1000 -1 -1 -1 -1 -1 E
+70 -10 -12 1d1+2999 8d4+16
+47 0
+8 8 2
+BareHandAttack: 7
+E
+T 11027
+T 5206
+#11013
+demone lussuria~
+&eil demone della lussuria&0~
+&eil demone della lussuria ti fa cenno in modo languido&0
+~
+E' un demone dalla bellezza selvaggia.
+Non ha sesso, eppure attira in modo
+inequivocabile i tuoi istinti verso
+un atto che devia dal normale.
+lo trovi irresistibile.
+~
+~
+~
+~
+576460752303677466 67118120 -1000 -1 -1 -1 -1 -1 E
+75 -15 -16 1d1+3499 9d4+18
+57 0
+8 8 0
+BareHandAttack: 12
+E
+T 11027
+T 11034
+#11014
+demone orgoglio~
+&zIl demone dell'orgoglio&0~
+&zIl demone dell'orgoglio, origine di tutti i vizi&0
+~
+Ha un aspetto fiero e sicuro di se,
+lo sguardo altero e pieno di disprezzo.
+Puoi vedere il suo cuore martoriato
+attraverso una ferita purulenta e
+putrescente nel petto.
+Ferita che e' origine del suo male.
+~
+~
+~
+~
+576460752303677471 268436520 0 -1 -1 -1 -1 -1 E
+80 -20 -20 1d1+3999 10d4+20
+64 0
+8 8 1
+BareHandAttack: 8
+Spec: 16
+E
+T 11036
+#11015
+testa demone orgoglio~
+la testa del &zdemone dell'orgolio&0~
+la testa del &zdemone dell'orgoglio&0 combattera' fino a che non viene distrutta
+~
+Un'orribile testa di demone che urla
+infuriata la sua rabbia.
+~
+~
+~
+~
+28714 1064 -1000 -1 -1 -1 -1 -1 E
+40 0 10 1d1+499 5d5+5
+22 0
+8 8 2
+BareHandAttack: 4
+Spec: 15
+E
+#11016
+gamba demone orgoglio~
+la gamba del &zdemone dell'orgoglio&0~
+la gamba del &zdemone dell'orgoglio&0 combattera' fino a che non viene distrutta.
+~
+Un'orribile gamba di demone...
+~
+~
+~
+~
+28714 0 -1000 -1 -1 -1 -1 -1 E
+40 0 10 1d1+499 5d5+5
+35 0
+8 8 2
+BareHandAttack: 9
+Spec: 16
+E
+#11017
+braccio demone orgoglio~
+il braccio del &zdemone dell'orgoglio&0~
+il braccio del &zdemone dell'orgoglio&0 combattera' fino a che non viene distrutto.
+~
+Il braccio di un demone....
+~
+~
+~
+~
+159786 0 -1000 -1 -1 -1 -1 -1 E
+40 0 10 1d1+499 5d5+5
+36 0
+8 8 1
+BareHandAttack: 8
+Spec: 14
+E
+#11019
+venditore fabbro~
+venditore fabbro~
+venditore fabbro
+~
+It looks unfinished.
+~
+~
+~
+~
+10 0 0 -1 -1 -1 -1 -1 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#11099
+La &gTigre&0 di &rTolnedra&0 &bd'elite&0~
+La &gTigre&0 di &rTolnedra&0 &bd'elite&0~
+Una &gTigre&0 di &rTolnedra&0 &bd'elite&0 aspetta gli ordini.
+~
+It looks unfinished.
+~
+~
+~
+~
+576462952937545754 274877908008 -800 -1 -1 -1 -1 -1 E
+62 -10 -4 1d1+2000 4d17+25
+34 0
+8 8 1
+BareHandAttack: 3
+Str: 18
+StrAdd: 100
+Dex: 20
+E
+T 11010
+T 11011
+T 11008
+T 11012
+$

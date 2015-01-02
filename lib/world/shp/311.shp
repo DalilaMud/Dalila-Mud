@@ -1,0 +1,69 @@
+CircleMUD v4.0 Shop File~
+#31101~
+31110
+31111
+-1
+1.00
+0.50
+5spada
+-1
+%s Dove lo hai visto..? Non lo vendo..~
+%s cosa stai cercando di vendermi..? Non hai nulla in mano!~
+%s Ehi! Sono un armaiolo, cosa me ne faccio?~
+%s No.. e' troppo per le mie tasche, davvero.~
+%s Questo denaro non basta.. non vendo nulla gratis.~
+%s Grazie.. Torna a trovarmi.. non avventurarti mai nelle profondita' del sottosuolo! ~
+%s Eccoti %d monete.. E' un piacere trattare con te.~
+0
+0
+31101
+0
+31101
+-1
+0
+20
+0
+0
+0
+-1
+0
+80
+0
+3
+-1
+-1
+-1
+#31102~
+12620
+-1
+1.50
+0.50
+36
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+31111
+0
+31111
+-1
+0
+28
+0
+0
+0
+5
+60000
+63087
+31112
+20
+-1
+-1
+-1
+$~

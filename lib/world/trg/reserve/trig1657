@@ -1,0 +1,14 @@
+trigedit 1657
+6  
+/c 
+* Lista comandi
+mecho &1&xAppena il falco spira, un vortice di luce rossa esce dal suo petto...&0
+mecho &1&xLa luce rossa prende improvvisamente la forma di un essere umano!&0
+mload mob 1940
+mforce denbe say &5&xFinalmente libero! Poveri pazzi! Ora sono libero!!!&0
+return 0
+end
+~
+/s
+q
+y

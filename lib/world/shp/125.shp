@@ -1,0 +1,876 @@
+CircleMUD v4.0 Shop File~
+#12519~
+-1
+1.50
+0.70
+48pietra
+53lingotto
+4646
+50pietr2
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+0
+0
+-1
+8
+21
+0
+0
+3
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#12527~
+-1
+1.00
+0.80
+52
+19
+16
+51
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+3001
+0
+12527
+-1
+0
+24
+0
+0
+0
+-1
+300000
+0
+3055
+40
+-1
+-1
+-1
+#12533~
+3016
+3017
+3018
+3019
+3020
+3021
+3022
+3023
+12597
+-1
+0.50
+0.70
+19
+17
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3040
+0
+12533
+-1
+0
+24
+0
+0
+0
+5
+0
+0
+-1
+-1
+-1
+-1
+-1
+#12537~
+12515
+3032
+3033
+3034
+3035
+3036
+3037
+-1
+1.00
+0.70
+19
+17
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+12504
+0
+12537
+-1
+0
+24
+0
+0
+0
+5
+0
+1338
+-1
+-1
+-1
+-1
+-1
+#12541~
+-1
+1.20
+0.88
+16
+8
+9
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+12518
+0
+12541
+-1
+4
+24
+24
+4
+0
+-1
+300000
+4053
+0
+30
+-1
+-1
+-1
+#12557~
+-1
+1.00
+0.50
+16
+19
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+12597
+0
+12557
+-1
+0
+28
+0
+0
+0
+-1
+300000
+171328
+12097
+30
+-1
+-1
+-1
+#12558~
+10018
+10019
+10020
+10023
+30051
+1501
+1502
+1518
+1616
+-1
+0.50
+0.50
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+3000
+0
+12558
+-1
+0
+22
+0
+0
+0
+5
+0
+12397
+-1
+-1
+-1
+-1
+-1
+#12579~
+-1
+1.20
+0.70
+5
+32
+28
+30
+33
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+3003
+0
+12579
+-1
+0
+24
+0
+0
+0
+-1
+300000
+6439
+3051
+30
+-1
+-1
+-1
+#12580~
+-1
+1.18
+1.15
+10
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+12562
+0
+12580
+-1
+0
+28
+0
+0
+49703
+-1
+300000
+4449
+12092
+30
+-1
+-1
+-1
+#12584~
+-1
+1.20
+0.60
+17
+19
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+12512
+0
+-1
+7
+1
+0
+0
+3
+-1
+0
+0
+-1
+-1
+-1
+-1
+-1
+#12587~
+12512
+12514
+3000
+3001
+3002
+3005
+3006
+-1
+0.50
+0.70
+19
+17
+16
+-1
+%s Mi dispiace, non lo vendo~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose!~
+%s Tu mi vuoi rovinare!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Quello te lo pago %d monete!~
+0
+0
+12510
+0
+12587
+-1
+4
+24
+0
+0
+0
+5
+10000
+210
+-1
+-1
+-1
+-1
+-1
+#12589~
+12511
+12513
+3007
+3008
+3009
+3010
+3011
+3012
+3013
+3014
+3015
+-1
+0.50
+1.00
+17
+-1
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+4
+12523
+0
+12589
+-1
+0
+24
+0
+0
+0
+5
+0
+0
+-1
+-1
+-1
+-1
+-1
+#12593~
+-1
+1.50
+0.70
+53
+16
+48
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+28
+12519
+0
+12593
+-1
+0
+28
+0
+0
+0
+5
+0
+0
+-1
+-1
+-1
+-1
+-1
+#12595~
+12519
+12520
+12521
+12550
+12533
+-1
+0.50
+0.70
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+12511
+0
+12595
+-1
+7
+22
+0
+0
+0
+5
+0
+914
+-1
+-1
+-1
+-1
+-1
+#12598~
+-1
+1.35
+0.75
+10
+16
+36
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+12598
+0
+12598
+-1
+0
+24
+0
+0
+0
+5
+300000
+314840
+3054
+30
+-1
+-1
+-1
+#12603~
+-1
+1.20
+0.85
+15
+67
+16
+9
+56
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+12513
+0
+12603
+-1
+0
+24
+0
+0
+3
+5
+300000
+312838
+3053
+40
+-1
+-1
+-1
+#12610~
+-1
+1.30
+0.90
+9
+16
+-1
+%s Mi dispiace, non io quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+16
+3004
+0
+12610
+-1
+0
+24
+0
+0
+0
+5
+300000
+2981
+3050
+30
+-1
+-1
+-1
+#12616~
+-1
+1.35
+0.75
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+2
+12520
+0
+12616
+-1
+8
+20
+0
+0
+-1
+-1
+0
+3665
+-1
+-1
+-1
+-1
+-1
+#12657~
+-1
+1.30
+0.95
+15
+8
+12
+16
+85
+11
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+17
+12508
+0
+12657
+-1
+0
+24
+0
+0
+0
+5
+300000
+313957
+3052
+30
+-1
+-1
+-1
+#12661~
+3044
+3045
+3046
+3047
+3048
+-1
+1.00
+0.40
+19
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+12503
+0
+12661
+-1
+4
+24
+0
+0
+0
+5
+0
+2773
+-1
+-1
+-1
+-1
+-1
+#12674~
+3039
+3040
+3041
+3042
+3043
+3038
+-1
+1.00
+0.70
+17
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3009
+0
+12674
+-1
+4
+24
+0
+0
+0
+5
+0
+0
+-1
+-1
+-1
+-1
+-1
+#12686~
+-1
+1.00
+1.00
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+2
+12686
+0
+12686
+-1
+5
+12
+14
+22
+0
+-1
+0
+3450
+-1
+-1
+-1
+-1
+0
+#12693~
+12551
+12
+14
+99
+97
+95
+94
+93
+34
+37
+36
+35
+3
+1
+96
+49
+92
+1250
+3056
+3057
+3058
+3059
+3060
+6636
+3061
+3062
+12571
+12620
+201
+81
+-1
+0.90
+0.70
+15
+16
+1
+12
+21
+37
+38
+39
+40
+41
+42
+43
+68
+60
+84
+16
+-1
+%s Mi dispiace, non ho quell'oggetto in assortimento.~
+%s Non sembra che tu lo abbia.~
+%s Non tratto quel genere di cose.~
+%s Non me lo posso permettere!~
+%s Sei troppo povero!~
+%s Sono %d monete, grazie.~
+%s Ti potrei dare %d monete per quello.~
+0
+0
+3002
+0
+12693
+-1
+0
+24
+0
+0
+0
+5
+0
+3486
+-1
+-1
+-1
+-1
+-1
+$~

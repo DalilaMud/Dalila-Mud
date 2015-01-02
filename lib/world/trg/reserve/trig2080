@@ -1,0 +1,60 @@
+trigedit 2080
+6  
+/c 
+wait 1 s
+if %self.vnum% == 796
+ wecho Prendi la borsa perche' la tua fame ti assilla.
+ wecho Ma il corpo non puo' dominare la volonta'. 
+ wecho Mi dispiace, non sei adatto a diventare un degno Fedele di Therion
+elseif %self.vnum% == 797
+ wecho Avvisi l'uomo della perdita che ha subito ed egli ti ringrazia offrendoti un
+ wecho pasto caldo, un letto tranquillo e dei nuovi vestiti.  La tua scelta e' stata
+ wecho quella dell'onesta', puoi accedere alla prossima prova.
+elseif %self.vnum% == 794
+ wecho Non appena cogli il fiore esso pianta le sue radici nel tuo cuore
+ wecho trasformandoti in un suo burattino.  Therion punisce sempre l'avidita' degli
+ wecho uomini.  Tuttavia egli decide nella sua immensa saggezza di liberarti dalle
+ wecho catene del fiore.  Sei ora libero di andare.
+elseif %self.vnum% == 793
+ wecho Con attenzione e delicatezza liberi il terreno intorno alla magica pianticella.
+ wecho Quando hai finito osservi allibito un mutamento pazzesco.  Il fiore emana un
+ wecho bagliore possente mentre la sua aura magica abbraccia l'intera foresta.  Ora
+ wecho che e' libero dai propri vincoli il potere della pianta assorbe tutta la vita
+ wecho intorno a te, e moriresti se non fosse che qualcuno ti teletrasporta altrove.
+ wecho La tua scelta non e' stata saggia, ma almeno hai dimostrato di non essere avido
+ wecho di potere.
+elseif %self.vnum% == 792
+ wecho Scelta saggia, quella di non turbare l'equilibrio.  Se la Natura ha deciso che
+ wecho il fiore deve morire, evidentemente esso e' piu' pericoloso di quello che
+ wecho credi.  Cio' che Therion decide per le sue creature e' sempre cosa buona.  Puoi
+ wecho accedere alla prossima prova.
+elseif %self.vnum% == 790
+ wecho Un animo caritatevole e misericordioso e' la prova della tua fedelta'.
+elseif %self.vnum% == 789
+ wecho La magia non puo' sostituire il potere della Natura.  Studiarla non ti sarebbe
+ wecho di alcun aiuto.
+elseif %self.vnum% == 788
+ wecho La magia non puo' sostituire il potere della Natura.  Tieni a mente questa
+ wecho lezione mentre affronti la Quarta Prova
+elseif %self.vnum% == 786
+ wecho Il tuo colpo rabbioso stacca la testa del coboldo che muore all'istante.  Le
+ wecho provocazioni del coboldo erano pesanti, ma un fedele di Therion deve possedere il
+ wecho dominio di se'.
+elseif %self.vnum% == 785
+ wecho Come puo' uno stupido coboldo mettere in atto simili minacce?  Anche un
+ wecho ragazzotto armato di bastone potrebbe fargli del male.  E' solo un pallone
+ wecho gonfiato, non vale neanche la pena di sporcare la tua arma.  Hai scelto
+ wecho saggiamente.  Il dominio di se nasce dalla consapevolezza, non dalla forza di
+ wecho volonta'.
+elseif %self.vnum% == 784
+ wecho La tua forza di volonta' ti trattiene per qualche istante, ma appena il coboldo
+ wecho ti sputa in faccia per l'ennesima volta non riesci a trattenerti e lo uccidi
+ wecho con un solo colpo.  Il dominio di se non nasce dalla volonta', ma dalla
+ wecho consapevolezza.  Come avrebbe potuto uno stupido coboldo mettere in atto le
+ wecho proprie minacce?  Anche un ragazzotto armato di bastone lo avrebbe potuto
+ wecho mettere al tappeto.
+end
+~
+/s
+q
+y

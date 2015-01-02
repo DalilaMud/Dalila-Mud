@@ -1,0 +1,45 @@
+trigedit 31527
+6  
+/c 
+if %actor.vnum% == -1
+ if %mob% != 1
+  wait 1 s
+  say Salve Avventurieri!!! Benvenuti nella Gilda dei Cacciatori!!
+  wait 1 s
+  say Ho un lavoro per voi,ho bisogno di un prezioso oggetto nascosto chissa' dove nel Celeste Impero..
+  wait 2 s
+  eval casuale %random.5%
+  if %casuale% == 1
+   say Un orribile drago blu massacra i contadini delle risaie,portatemi il suo teschio e vi ricompensero'!!
+   eval quest 1
+   global quest
+  elseif %casuale% == 2
+   say Si dice che nel bosco Kaede viva il Dio della Montagna Kimmun Kamui,portatemi la sua pelle e vi ricompensero'!!
+   eval quest 2
+   global quest
+  elseif %casuale% == 3
+   say Si dice che Toshiaki,il leader del Clan Genji possiede dei guanti favolosi.Portatemeli e sarete ricompensati!!
+   eval quest 3
+   global quest
+  elseif %casuale% == 4
+   say La gilda dei Cacciatori ha catturato una farfalla gigante,portatemi le sue ali e ve le paghero' a peso d'oro!!
+   rem chiave
+   dai chiave %actor.name%
+   drop chiave
+   eval quest 4
+   global quest
+  elseif %casuale% == 5
+   say Wang-Cheng,il predone delle Risaie combatte con il suo artiglio magico.Portatemelo e ve lo paghero' a peso d'oro!!!
+   eval quest 5
+   global quest
+  end
+  eval counter 0
+  global counter
+  set mob 1
+  global mob
+ end
+end
+~
+/s
+q
+y

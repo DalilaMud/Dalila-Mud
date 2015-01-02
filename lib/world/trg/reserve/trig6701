@@ -1,0 +1,18 @@
+trigedit 6701
+6  
+/c 
+* Lista comandi
+wait 3
+say La vita e' un gioco...
+wait 2 s
+say Gioca come meglio credi. . .
+wait 2 s
+smile
+wait 2 s
+say Scherzando e ridendo s'e' fatta notte
+wait 1 s
+wave %actor.name%
+~
+/s
+q
+y

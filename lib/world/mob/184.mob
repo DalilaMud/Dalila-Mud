@@ -1,0 +1,249 @@
+#18400
+Burt negoziante~
+Burt il negoziante di SeanWast~
+Burt, il proprietario del negozio, e' qui per servirti
+~
+E' un uomo molto grosso, pieno di tatuaggi e vestito da marinaio.
+Si dice che non abbia mai subito un furto !
+Meglio lasciarlo stare.
+~
+~
+~
+~
+134471706 1192 500 -1 -1 -1 -1 -1 E
+100 -30 -10 1d1+14999 30d30+50
+77 0
+8 8 1
+Spec: 0
+E
+#18401
+guardia~
+Una guardia dei cancelli~
+Una guardia di SeanWast e' qui per presidiare al cancello
+~
+Ha l'aspetto di un uomo molto ligio al suo dovere e che darebbe la vita per difendere
+il suo villaggio.
+~
+~
+~
+~
+12298 1064 300 -1 -1 -1 -1 -1 E
+11 14 7 1d1+99 1d9+1
+6 0
+8 8 1
+E
+#18402
+guardia~
+Una guardia di SeanWast~
+Una guardia di SeanWast cerca di mantenere l'ordine in citta'
+~
+Gentile e disponibile con i bisognosi, spietato e violento con i criminali.
+Questa e' una vera guardia !
+~
+~
+~
+~
+78152 1192 300 -1 -1 -1 -1 -1 E
+14 14 6 1d1+99 2d6+1
+10 0
+8 8 1
+E
+#18403
+marc capo~
+Marc il nuovo capoguardie~
+Marc si impegnera' al massimo per essere all'altezza del suo predecessore Bragg.
+~
+Marc e' un giovane guerriero che si e' guadagnato il ruolo di capoguardie per essersi ottimamente distinto
+nella recente battaglia contro gli Orchi Rossi.
+Ha preso il posto di Bragg che e' morto in quella terribile circostanza.
+~
+~
+~
+~
+47386 50336808 500 -1 -1 -1 -1 -1 E
+17 12 4 1d1+199 1d14+4
+16 0
+8 8 1
+E
+#18404
+ashvar mago~
+Ashvar il mago dello Sceriffo~
+Un mago stava riposando qua, ma la tua presenza lo irrita molto !
+~
+Il giovane mago era l'apprendista del compianto Lewen.
+Ora ha preso il suo posto.
+~
+~
+~
+~
+139274 134218792 -50 -1 -1 -1 -1 -1 E
+20 12 4 1d1+259 2d7+3
+15 0
+8 8 1
+E
+#18405
+sindaco~
+Il sindaco di SeanWast~
+Il sindaco di SeanWast e' qua preso dal suo lavoro
+~
+E' un uomo basso e grasso che suda copiosamente mentre compila alcune carte.
+E' talmente preso da quello che sta facendo che sembra non si sia accorto di te.
+~
+~
+~
+~
+32778 1024 100 -1 -1 -1 -1 -1 E
+14 14 6 1d1+139 2d6+2
+11 0
+8 8 1
+E
+#18406
+ladro~
+Un ladruncolo~
+Un ladro sta rubando tutto !!!
+~
+Un ladro (di sicuro e' un Tolnedriano!!!) con un passamontagna sta accattando tutto
+quello che riesce ad infilare nel suo sacco !
+~
+~
+~
+~
+8234 263208 -150 -1 -1 -1 -1 -1 E
+9 15 7 1d1+79 2d4+2
+8 0
+8 8 1
+BareHandAttack: 1
+E
+#18407
+coboldo~
+Un coboldo~
+Un coboldo si aggira nella foresta
+~
+E' un coboldo brutto e piccolo. Non sembra nemmeno troppo forte, ti chiedi come possano
+aver fatto cosi' tante vittime tanto da diventare un pericolo per il villaggio.
+Ti viene il sospetto che ci sia qualcosaltro sotto.
+~
+~
+~
+~
+104 1056 -200 -1 -1 -1 -1 -1 E
+9 15 7 1d1+89 2d4+2
+6 0
+8 8 1
+BareHandAttack: 4
+E
+#18408
+pantera distorcente~
+Una pantera &9&xdistorcente&0~
+Una terribile pantera dall' immagine distorta tenta di sbranarti !!!
+~
+Ecco la causa di tutte quelle morti !!!
+Non erano i coboldi ma questa belva pericolosissima !
+~
+~
+~
+~
+41018 268477480 -500 -1 -1 -1 -1 -1 E
+20 11 3 1d1+299 2d8+4
+17 0
+8 8 2
+BareHandAttack: 4
+E
+#18409
+tentacolo~
+Un orrenda creatura tentacolare~
+Un orrenda creatura tentacolare si agita freneticamente
+~
+E' come un enorme Tentacolo, con molti altri piccoli tentacoli attaccati che si agitano.
+Guardando bene attraverso le scaglie viola e marcescenti riesci a notare qualcosa di molto simile a due occhi..
+Forse questa creatura mantiene ancora qualcosa della sua vecchia forma di Silvantropo...
+E questa e' la punizione piu' grande
+~
+~
+~
+~
+253978 1064 -100 -1 -1 -1 -1 -1 E
+19 10 7 1d1+300 5d6+9
+10 0
+8 8 0
+BareHandAttack: 10
+E
+#18410
+marinaio~
+Un marinaio~
+Un marinaio si sta riposando dopo una giornata di lavoro in mare
+~
+Come tutti i marinai ha molte rughe in faccia e l'aspetto un po' rozzo.
+Ma e' una di quelle persone che vorresti sempre avere nella tua nave.
+~
+~
+~
+~
+10312 1024 100 -1 -1 -1 -1 -1 E
+10 15 7 1d1+79 1d8+1
+6 0
+8 8 1
+E
+#18411
+donna~
+Una donna~
+Una donna sta passeggiando per il villaggio
+~
+E' proprio vero che le donne piu' belle si trovano nei piccoli villaggi come questo !
+Altro che la citta'...
+~
+~
+~
+~
+200 1024 200 -1 -1 -1 -1 -1 E
+8 16 8 1d1+69 1d7+1
+8 0
+8 8 2
+E
+#18412
+bambino~
+Un bambino~
+Un bambino si e' perso e sta cercando la mamma
+~
+E' molto spaventato, fa davvero tenerezza !
+~
+~
+~
+~
+202 263168 600 -1 -1 -1 -1 -1 E
+6 17 8 1d1+49 1d7+1
+6 0
+8 8 1
+E
+#18413
+scaricatore~
+Uno scaricatore di porto~
+Uno scaricatore sta lavorando nel porto di SeanWast
+~
+Un uomo rozzo dal linguaggio scurrile, ma anche molto grosso e forte !
+~
+~
+~
+~
+8202 1064 100 -1 -1 -1 -1 -1 E
+14 14 6 1d1+139 2d6+2
+11 0
+8 8 1
+E
+#18414
+pescatore~
+Un pescatore del villaggio di SeanWast~
+Un pescatore del villaggio di SeanWast spera che oggi sia il suo giorno fortunato
+~
+E' un uomo sulla quarantina, sembra molto esperto nella pesca.
+Ti fa segno di non fare rumore o gli farai scappare i pesci.
+~
+~
+~
+~
+16394 1128 200 -1 -1 -1 -1 -1 E
+11 14 7 1d1+99 1d8+1
+9 0
+8 8 1
+E
+$

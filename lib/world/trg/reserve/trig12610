@@ -1,0 +1,28 @@
+trigedit 12610
+6  
+/c 
+if %actor.name% != %self.name%
+if %azione% != guerra
+wait 3
+if %actor.name% /= reggimento || %actor.name% /= esercito || %actor.name% /= distaccamento || %actor.name% /= gruppo || %actor.name% /= orda || %actor.name% /= armata
+emote inizia una lotta furiosa contro %actor.name%
+unset delay
+set azione2 %azione%
+global azione2
+set azione guerra
+global azione
+set nemico %actor.name%
+global nemico
+set scontro %self.room%
+global scontro
+set attaccato on
+global attaccato
+mgoto eserciziario
+say 1 + %scontro%
+end
+end
+end
+~
+/s
+q
+y

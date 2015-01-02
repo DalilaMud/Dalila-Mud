@@ -1,0 +1,19 @@
+trigedit 6775
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %direction% == north
+say Shhhh! Che mi spaventi i pesci.
+wait 2 s
+emote ti guarda.
+wait 2 s
+say Mi sembra di aver visto un bel Tonno!!!
+wait 1 s
+laugh
+else
+end
+~
+/s
+q
+y

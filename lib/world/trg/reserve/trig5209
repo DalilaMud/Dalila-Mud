@@ -1,0 +1,10 @@
+trigedit 5209
+6  
+/c 
+osend %actor.name% &RCon una potente spallata %self.name% ti scaraventa nella botola sottostante!&d
+oechoaround %actor.name% Con una potente spallata %self.name% scaraventa %actor.name% nella botola sottostante!
+%teleport% %actor% 5280
+~
+/s
+q
+y

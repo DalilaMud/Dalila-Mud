@@ -1,0 +1,24 @@
+trigedit 9720
+6  
+/c 
+eval sciopero %random.100%
+global sciopero
+if %sciopero% > 90
+rem anello
+wait 1 s
+eval recita11 %random.3%
+global recita11
+if %recita11%==3
+say &1&x Mi Spiace ma sono un pochettino stanco e mi voglio riposare &0
+elseif %recita11%==2
+say &1&x Non ora... mi sento poco bene. &0
+else
+say &3&x Un attimo! ho un fitta allo sterno!&0
+end
+wear anello
+else
+end
+~
+/s
+q
+y

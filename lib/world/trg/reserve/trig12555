@@ -1,0 +1,20 @@
+trigedit 12555
+6  
+/c 
+eval pagare %pagare% + 1
+global pagare
+if %pagare% > 21000
+eval stipendio %stipendio% + 1
+global stipendio
+eval cifra (%self.level% * %self.level% * 6 + 2000)
+global cifra
+if %stipendio% > 3
+emote si autolicenzia visti i mancati pagamenti
+mgoto 2
+mpurge
+end
+end
+~
+/s
+q
+y

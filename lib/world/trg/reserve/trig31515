@@ -1,0 +1,13 @@
+trigedit 31515
+6  
+/c 
+mload obj 31564
+say Mi avete sconfitto..siete degni di possedere la Sacra reliquia di Goro-Ho...
+emo si accascia a terra emettendo un ultimo getto di gas dalle narici
+mecho &2Il Drago scompare sciogliendosi completamente,rivelando al suo interno la reliquia di Goro-Ho&0
+return 0
+end
+~
+/s
+q
+y

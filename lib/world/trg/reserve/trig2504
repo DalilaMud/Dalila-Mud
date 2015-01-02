@@ -1,0 +1,25 @@
+trigedit 2504
+6  
+/c 
+* Lista comandi
+if %actor.vnum% != -1
+wait 1
+oecho &9&xLa stanza si riempie di arpie mandate da Shaarr a difendere il Fuoco!&0
+oload mob 591
+oload mob 591
+oload mob 591
+oload mob 591
+oload mob 591
+oload mob 591
+oload mob 591
+oload mob 591
+halt
+end
+wait 2
+osend %actor.name% &3&xIl fuoco di Shaarr ti brucia!&0
+odamage %actor.name% 50
+oforce %actor.name% posa fuoco
+~
+/s
+q
+y

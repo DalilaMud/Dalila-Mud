@@ -1,0 +1,19 @@
+trigedit 2572
+6  
+/c 
+* Lista comandi
+wait 2
+oecho &1Il pupazzetto&2 si rizza in piedi con fare bellicoso&0
+wait 1 s
+oecho &1Il pupazzetto &2agita le spade minacciosamente!&0
+wait 1 s
+eval frase %random.2%
+if %frase% == 1
+oecho &1Il pupazzetto &5dice, 'beheero' sangre dai vostri teschghi'&0
+else
+oecho &1Il pupazzetto &5dice, 'io spada, tu morto'&0
+end
+~
+/s
+q
+y

@@ -1,0 +1,13 @@
+trigedit 2501
+6  
+/c 
+* Lista comandi
+wait 2
+wforce %actor.name% emote batte una volta le mani...
+wait 2
+wecho &1&xLe torce improvvisamente si accendono...&0
+wteleport all 1509
+~
+/s
+q
+y

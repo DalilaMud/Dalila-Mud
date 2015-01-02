@@ -1,0 +1,14 @@
+trigedit 2553
+6  
+/c 
+* Lista comandi
+if %actor.name% != earien
+halt
+end
+wait 1
+oechoaround %actor.name% &1%actor.name% assume un'espressione inquietante...&0
+osend %actor.name% &1Ti senti.... inquietante!&0
+~
+/s
+q
+y

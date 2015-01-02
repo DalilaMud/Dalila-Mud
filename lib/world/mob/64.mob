@@ -1,0 +1,100 @@
+#6400
+capra di montagna~
+la capra di montagna~
+Una capra di montagna sta brucando l'erba qui intorno.
+~
+Questa capra è abituata al terreno scabro delle 
+montagne. Ti guarda e scarta un po' di lato.
+~
+~
+~
+~
+41064 1064 0 -1 -1 -1 -1 -1 E
+10 13 2 1d1+100 2d8+4
+9 55000
+8 8 1
+E
+#6401
+demone della Rovina~
+il Demone della Rovina~
+Un tetro e lacero demone della rovina ti si avvicina minaccioso!
+~
+Questo demone e' pura malvagita' per tutto cio' che e' vivo.  
+Oops!  Tu sei vivo!  Allora cerca te!
+~
+~
+~
+~
+36028797556023387 2473901424680 -1000 -1 -1 -1 -1 -1 E
+70 10 0 1d1+375 9d9+5
+0 0
+8 8 0
+BareHandAttack: 10
+Spec: 21
+E
+#6402
+libro mostro guardiano~
+il Mostro dei Libri~
+Una pila di libri assume forma umana e tenta di colpirti!
+~
+Ironicamente, la testa del Mostro dei Libri e' Guerra e
+Pace.  Hmm.
+~
+~
+~
+~
+253978 1032 0 -1 -1 -1 -1 -1 E
+25 10 0 1d1+420 2d10+5
+15 100000
+8 8 0
+E
+#6403
+brutta sensazione~
+una Brutta Sensazione~
+Una brutta sensazione ti stringe la gola.
+~
+Assomiglia a molte altre brutte sensazioni che hai avuto,
+ma molto piu' tangibile... magia?
+~
+~
+~
+~
+254072 1032 -700 -1 -1 -1 -1 -1 E
+30 10 -10 1d1+1000 5d8+10
+21 250000
+8 8 0
+E
+#6404
+incubo~
+Il Tuo Peggiore Incubo~
+Il Tuo Peggiore Incubo si materializza davanti a te e attacca!
+~
+Sembrano le piu' profonde e oscure paure personificate.
+Aspetta un attimo!  Sono le TUE piu' profonde e oscure
+paure!
+~
+~
+~
+~
+253978 13320 -300 -1 -1 -1 -1 -1 E
+30 9 -4 1d1+500 3d7+6
+19 300000
+8 8 0
+E
+#6405
+guardiano~
+il Guardiano~
+Un guardiano sorveglia l'ingresso. Ti vede e attacca!
+~
+Il guardiano sorveglia l'ingresso. E' tutto quello che riesce
+a capire: fare la guardia.
+~
+~
+~
+~
+188474 1032 0 -1 -1 -1 -1 -1 E
+16 13 4 1d1+190 2d7+3
+15 150000
+8 8 0
+E
+$

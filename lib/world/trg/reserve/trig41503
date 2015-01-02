@@ -1,0 +1,14 @@
+trigedit 41503
+6  
+/c 
+if (%actor.name(is_pc)%)
+msend %actor.name% %self% ti fissa negli occhi e presto ti senti avvolgere dal freddo e dall'oscurita'.
+echo %self% trafigge %actor.name% con il suo sguardo
+dg_cast 'fear' %actor.name%
+else
+halt
+end
+~
+/s
+q
+y

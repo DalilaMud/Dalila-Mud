@@ -1,0 +1,13 @@
+trigedit 1670
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1
+ wdamage all 30
+ wait 1
+ wecho &1La fitta rete di spini ti graffia in ogni punto del corpo!&0
+end
+~
+/s
+q
+y

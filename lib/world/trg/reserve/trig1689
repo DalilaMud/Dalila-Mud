@@ -1,0 +1,13 @@
+trigedit 1689
+6  
+/c 
+* Lista comandi
+wait 1 s
+osend %actor.name% La tua volonta' non puo' resistere alla tentazione di indossare questo anello!
+oforce %actor.name% rimu all.ane
+oforce %actor.name% indo sonno
+oforce %actor.name% sleep
+~
+/s
+q
+y

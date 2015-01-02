@@ -1,0 +1,25 @@
+trigedit 11037
+6  
+/c 
+if %cariche% != 1
+if %cariche% != 2
+if %cariche% != 3
+%send% %actor.name% Non accade nulla.
+halt
+end
+end
+end
+eval c %cariche%
+eval cariche %c% - 1
+global cariche
+dg_affect %actor% blind on 5
+dg_affect %actor% deathdance on 5
+odamage %actor.name% 50
+oechoaround %actor.name% &RGli occhi di %actor.name% diventano rossi per l'ira che lo pervade!&d
+%send% %actor.name% &RUn'ira tremenda ti offusca la mente e la vista!&0
+wait 1 s
+%force% %actor% grin
+~
+/s
+q
+y

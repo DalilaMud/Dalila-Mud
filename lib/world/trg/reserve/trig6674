@@ -1,0 +1,35 @@
+trigedit 6674
+6  
+/c 
+* Lista comandi
+if %actor.name% == una sentinella && %ascensore% != chiuso
+   wait 2 s
+   wecho Screeeee Screeeeeeeeck
+   wait 1 s
+   wecho Una parete mobile chiude l'uscita a sud.
+   wdoor %roomsent% s purge
+   wdoor %roomsent% w purge
+   wdoor %roomsent% e purge
+   wdoor %room1% n purge
+  wdoor %room2% e room %roomsent%
+  wdoor %room2% e description Una parete mobile.
+  wdoor %room2% e flag ab
+  wdoor %room2% e name parete
+  
+  wdoor %room3% w room %roomsent%
+  wdoor %room3% w description Una parete mobile.
+  wdoor %room3% w flag ab
+  wdoor %room3% w name parete
+  
+   set ascensore chiuso
+   global ascensore
+elseif %actor.name% == una sentinella
+   wecho Una sentinella si addormenta e cade dal barile.
+   wait 1 s
+   wecho La sentinella ti guarda in cagnesco e si rimette a sedere sul barile.
+else
+end
+~
+/s
+q
+y

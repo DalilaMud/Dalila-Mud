@@ -1,0 +1,27 @@
+trigedit 28191
+6  
+/c 
+   if %rinascita% > 90
+     halt
+   end
+   
+   set cresce %random.3%
+   eval rinascita %rinascita% + %cresce%
+   global rinascita
+   
+   if %cresce% == 3
+    %echo% Alcune rocce al suolo emanano un improvviso bagliore verde.
+   end
+   
+   if %rinascita% > 40
+     %echo% Alcuni frammenti di roccia si riuniscono prendendo sembianze umane.
+     oload mob 28150
+     oload mob 28150
+     otransform 28153
+     set rinascita 100
+     global rinascita
+   end
+~
+/s
+q
+y

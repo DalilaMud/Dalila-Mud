@@ -1,0 +1,12 @@
+trigedit 1463
+6  
+/c 
+if %actor.vnum% != -1
+halt
+end
+set player %actor.name%
+global player
+~
+/s
+q
+y

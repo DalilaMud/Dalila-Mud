@@ -1,0 +1,32 @@
+trigedit 1651
+6  
+/c 
+* Lista comandi
+if %speech% == forza e onore
+ if %actor.name% == Dolmant
+  wait 2 s
+  say Salve, Sire
+  wait 1 s
+  say Benvenuto nel Covo delle Ombre
+  wait 1 s
+  mteleport Dolmant 1688
+ else
+  if %actor.name% == Murdock || %actor.name% == Kain
+   wait 2 s
+   say Salve, Ombra
+   wait 1 s
+   mteleport %actor.name% 1688
+  else
+   wait 1 s
+   say Una spia!!!
+   wait 1 s
+   mecho &3Un anziano pescatore urla, 'Allarme!!'&0
+   wait 1
+   mteleport %actor.name% 1690
+ end
+end
+end
+~
+/s
+q
+y

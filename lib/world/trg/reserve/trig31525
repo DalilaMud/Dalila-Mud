@@ -1,0 +1,15 @@
+trigedit 31525
+6  
+/c 
+wait 1 s
+emo ti guarda e accenna un sorriso malizioso...
+say Devi essere molto ricco oltre a essere molto bello..
+wait 3 s
+emo ti si avvicina...e ti attacca improvvisamente con uno stiletto!
+say Dammi il tuo denaro, maledetto maiale!!!
+wait 1 s
+kill %actor.name%
+~
+/s
+q
+y

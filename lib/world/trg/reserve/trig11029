@@ -1,0 +1,11 @@
+trigedit 11029
+6  
+/c 
+wait 2s
+%echo% &ZUna flebile voce maligna dice da un punto imprecisato, ' &rSolo chi viene riconosciuto come demone entrera' negli inferi&Z '&0
+wait 2s
+%send% %actor.name% &gDigita 'tuffati' per provare, ma se non hai in qualcosa l'aspetto di un demone saranno guai&0
+~
+/s
+q
+y

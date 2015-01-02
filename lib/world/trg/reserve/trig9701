@@ -1,0 +1,17 @@
+trigedit 9701
+6  
+/c 
+%echo% &ZTi senti scrutato per un momento&0
+wait 1s
+if %actor.clan% == 3 && %actor.rank% == 60
+%echo% &eQualcuno dice, 'La trasportiamo subito fuori sire.'&0
+%teleport% %actor% 2414852
+else
+%echo% &eQualcuno dice, 'Dannazione! Come sei entrato qui, mh? Fila in cella!'&0
+%send% %actor.name% &wUna botola si apre sotto i tuoi piedi.&0
+%teleport% %actor% 8578
+end
+~
+/s
+q
+y

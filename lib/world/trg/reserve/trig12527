@@ -1,0 +1,11 @@
+trigedit 12527
+6  
+/c 
+wait 1 s
+emote sta aspettando ordini da %actor.name%, che lo guarda con aria decisa.
+set attenti on
+global attenti
+~
+/s
+q
+y

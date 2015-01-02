@@ -1,0 +1,15 @@
+trigedit 2003
+6  
+/c 
+if %give% == 1
+halt
+end
+wait 1 s
+oecho &9&xIl Globo pian piano si spegne&0
+set give 1
+global give
+otransform 543
+~
+/s
+q
+y

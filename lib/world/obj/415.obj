@@ -1,0 +1,108 @@
+#41500
+polvere azzurra~
+una manciata di una sottilissima polvere &6azzurra&0~
+Una manciata di granelli di polvere &6azzurra&0 sono qui, pronti ad esser dispersi dal vento.~
+~
+12 64 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#41501
+barriera magica azzurra~
+barriera azzurra~
+&6Un largo schermo luminoso di energia magica, di un azzurro tenue, sbarra il passaggio&0~
+~
+12 64 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+#41502
+pietra runica rossa~
+Una pietra incisa e' qui.~
+&7Una pietra bianca, levigata con sopra un'incisione percorsa da una &x&1luce rossa intermittente.&0~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+rossa runa luce incisione~
+&1&x&f         |
+         |    
+     |   |     
+     |   |   |
+    &u |   |   | &0
+~
+#41503
+pietra runica gialla~
+Una pietra incisa e' qui.~
+&7Una pietra bianca, levigata con sopra un'incisione percorsa da una &x&3luce gialla intermittente.&0~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+gialla runa luce incisione~
+&3&x&f
+      \   |   /
+       \  |  /
+        \ | /
+    &u      |      &0&3&x&f
+          |
+        / | \
+       /  |  \
+      /   |   \&0
+~
+#41504
+pietra runica verde~
+Una pietra incisa e' qui.~
+&7Una pietra bianca, levigata con sopra un'incisione percorsa da una &x&2luce verde intermittente.&0~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+verde runa luce incisione~
+&2&x&f 
+      /|\
+     / | \
+      /|\
+     / | \
+    /  |  \
+      /|\
+       | &0
+~
+#41505
+pietra runica blu2~
+Una pietra incisa e' qui.~
+&7Una pietra bianca, levigata con sopra un'incisione percorsa da una &x&6luce blu intermittente.&0~
+~
+12 0 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+blu runa luce incisione~
+&4&x&f
+    _   _   _
+      _   _
+    _   _   _
+      _   _        
+    _   _   _&0
+~
+#41506
+Cumulo pietre~
+Un cumulo di pietre e detriti.~
+Un enorme cumulo di pietre e detriti accatastati come se fossero crollati l'uno sull'altro.~
+Il cumulo e' formato per lo piu' da rocce ma c isono anche travi e altri materiali da costruzione.
+Non sono disposti in modo ordinato, probabilmente e' il risultato di un crollo...
+Chissà se si puo' aprire un varco tra le macerie... non sai spiegarti perchè ma piu' che un cumulo
+ti sembra un Tumulo... che cosa nascondera'?
+~
+15 0 0
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+cumulo pietre~
+Il cumulo e' formato per lo piu' da rocce ma c isono anche travi e altri materiali da costruzione.
+Non sono disposti in modo ordinato, probabilmente e' il risultato di un crollo...
+Chissà se si puo' aprire un varco tra le macerie, magari &3scavando&0... non sai spiegarti perchè 
+ma piu' che un cumuloti sembra un Tumulo... che cosa nascondera'?
+~
+$~

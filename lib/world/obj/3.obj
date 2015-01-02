@@ -1,0 +1,172 @@
+#300
+pupazzo folletto~
+Il pupazzo di un &0Fo&7ll&4et&0to&0.~
+Il pupazzo di un &0Fo&7ll&4et&0to&0 e' qui in terra che emette strani suoni.~
+~
+12 0 1
+0 0 0 0 0 0
+1 5 1 1 0 0
+E
+erba erbe timian~
+Piccole foglie verdi, con minuscoli fiorellini rosa. Dovrebbero essere delle spezie,
+sara' il caso di provarle?
+~
+#301
+erba erbe gyvel~
+Una manciata di Gyvel nero~
+Una manciata di Gyvel nero e' accumulata qui.~
+~
+19 0 1
+1 0 0 0 100 100
+1 12 25 1 0 0
+E
+erba erbe gyvel~
+Foglie verde scuro con striature nere accompagnate da fiori rosso sangue.
+Sembra davvero rara e preziosa... che sia vvelenata?
+~
+#302
+edera~
+Un mucchietto di edera~
+Un mucchietto di edera avvelenata e' qui.~
+~
+19 0 1
+1 0 0 1 100 100
+1 5 100 1 0 0
+E
+edera avvelenata~
+Questa pianta ha delle foglie lucide color verde scuro. Noti alcune piccole
+spine bianche... attento a no pungerti
+~
+#303
+blood jar~
+a dark red jar~
+A small jar in a dark, red colour.~
+~
+17 0 1
+2 2 13 0 100 100
+2 50 10 1 0 0
+E
+blood jar~
+The jar is made of dry clay, covered with markings suggesting its
+occult origin.
+~
+#304
+wild flowers~
+wild flowers~
+A bunch of pretty wild flowers is here.~
+~
+13 1024 16401
+0 0 0 0 100 100
+1 10 50 0 0 0
+E
+wild flowers~
+These wild flowers are really pretty.
+Just like the flowers you would wear in your hair.~
+#307
+amulet~
+a strange amulet~
+A strange looking amulet is lying here, half covered with dust.~
+~
+9 192 5
+2 0 0 0 100 100
+1 500 300 1 0 0
+E
+amulet~
+Judging from the signs inscripted in the amulet, you gather it must
+have belonged to a druid.  It is weird looking with symbols from nature
+dominating it.
+~
+A
+21 5
+#308
+staff stick~
+a druish staff~
+A staff with druidic marks have been left here.~
+~
+4 0 16385
+10 15 15 30 100 100
+4 15 5 1 0 0
+E
+staff stick~
+Then staff is about 5 ft long, engraved with mythical signs and figures.
+Otherwise the staff seems of no real interest.
+~
+#309
+coniglio arrosto~
+Un coniglio arrosto~
+Un delizioso coniglio arrosto.~
+~
+19 0 1
+11 0 0 0 100 100
+5 900 10 1 0 0
+E
+coniglio arrosto~
+Bene noti che il coniglio e' decisamente morto.
+Una volta era un feroce coniglio ma ora e' stato trasformato in un terrible
+coniglio arrosto.
+~
+#310
+template scroll~
+a strange template~
+A strange template made of an exotic green metal is placed here~
+~
+2 64 16385
+15 38 4 26 100 100
+1 15000 5000 1 0 0
+E
+template scroll metal~
+The template is made of an exotic green metal and looks
+centuries old.
+Inscripted upon is the words 'Ep ep fi'hur G'harne
+                             G'harne fhtagn Shudde-M'ell hyas Negg'h'
+And beneath the inscription you see horrifying death scenes depicted.
+~
+#311
+potion clear~
+a clear potion~
+A clear potion wrapped in leather is unnoticed placed here.~
+~
+10 64 1
+20 18 19 20 100 100
+2 2500 500 1 0 0
+E
+potion clear~
+As you examine the potion more, you notice the oddities of this
+potion. When you look through it you notice strange things...
+The clear potion is certainly not of this world.
+~
+E
+leather~
+The leather wrapped around the potion is old and decayed, originating
+from an, to you, unknown creature.~
+#312
+scroll jhyfrdow~
+a scroll titled 'jhyfrdow'~
+An odd looking scroll is here.~
+~
+2 0 1
+0 0 0 0 100 100
+1 500 200 1 0 0
+E
+scroll jhyfrdow~
+The scroll is titled 'jhyfrdow' and looks very old.
+As you examine it closer you notice primitive drawings of
+men doing some kind of a ritual.
+~
+E
+ritual men drawings~
+The drawing pictures people gathered round giant stone formations,
+worshipping a giant worm like creature.
+It seems they are sacrificing some of their own species.
+~
+#313
+grembiule~
+&7&xun &1G&7rembiul&0&1e&7&x bianco&0~
+Il grembiule del famoso cuoco Derek giace qui~
+~
+9 160000 9
+1 0 0 0 90 90
+2 0 0 63 0 0
+C
+16777216 0 0 0
+$~

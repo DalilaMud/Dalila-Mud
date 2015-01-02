@@ -1,0 +1,14 @@
+trigedit 11038
+6  
+/c 
+wait 1s
+%send% %actor% Scrivi 'furia' per usare il collare. Ha ancora %cariche% cariche.
+if %cariche% ==
+set cariche 3
+global cariche
+halt
+end
+~
+/s
+q
+y

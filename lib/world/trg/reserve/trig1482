@@ -1,0 +1,10 @@
+trigedit 1482
+6  
+/c 
+wait 5
+osend %actor.name% Non appena tocchi la chiave, essa si dissolve in un mucchietto di polvere.
+otransform 536
+~
+/s
+q
+y

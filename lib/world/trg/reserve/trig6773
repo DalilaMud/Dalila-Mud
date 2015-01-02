@@ -1,0 +1,19 @@
+trigedit 6773
+6  
+/c 
+* Lista comandi
+wait 1 s
+if %direction% == west
+emote misura la distanza tra una parete e l'altra.
+wait 2 s
+emote misura la distanza tra soffitto e pavimento.
+wait 2 s
+emote misura la distanza fra il suo naso e la punta dei suoi piedi.
+wait 2 s
+say Cosa desidera Messer %actor.name% ?
+else
+end
+~
+/s
+q
+y

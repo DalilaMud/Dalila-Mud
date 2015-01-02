@@ -1,0 +1,184 @@
+trigedit 2544
+6  
+/c 
+* Lista comandi
+wait 2 s
+if %amount% > 50
+say Mi hai dato troppi soldi, %actor.name%
+eval diff %amount% - 50
+wait 1 s
+dai %diff% coins %actor.name%
+end
+wait 3 s
+say Abbiamo un coraggioso!
+wait 5 s
+say E sia, %actor.name%, se non temete le insidie dell'ottovolante...
+wait 3 s
+say ...preparatevi ad una delle esperienze piu' emozionanti della vostra vita!
+wait 3 s
+emote tira una leva....
+wait 5 s
+msend %actor.name% &1&xIl carrello dell'ottovolante si ferma e attende il tuo ingresso... non pare molto sicuro!&0
+mechoaround %actor.name% &1&xLa carrozza dell'ottovolante attende che %actor.name% salga e si metta comodo...&0
+wait 5 s
+mforce %actor.name% emote si avvicina al carrello e si accomoda....
+wait 4 s
+msend %actor.name% Ma dove diamine stanno le cinture di sicurezza? Non ci sono!? Mah! Sara' meglio tenersi forte!
+mechoaroundd %actor.name% &7Pare che %actor.name% sia un filino preoccupato per la mancanza delle cinture... che fifone!&0
+wait 5 s
+say Si parte!
+wait 5 s
+emote tira un'altra leva...
+wait 1 s
+emote si sposta nella cabina di controllo....
+mgoto 1000
+dg_cast 'invisibility' inserviente
+mteleport %actor.name% 8809
+wait 2 s
+mat %actor.name% mforce %actor.name% look
+wait 2 s
+mat ccxoc mecho &1&xLa carrozza parte portandosi via %actor.name% verso l'ignoto... speriamo bene!&0
+mat %actor.name% mecho &6&xIl carrello comincia pian piano la sua corsa... hai un pochino di nausea&0
+wait 5 s
+mat %actor.name% mecho &6&xLa carrozza prende sempre piu' velocita'... tutto il mondo ti pare vorticare!&0
+wait 5 s
+eval tiro %random.7%
+if %tiro% == 1
+set controllo 1
+end
+if %controllo% != 1
+mteleport %actor.name% 8810
+mat %actor.name% mforce %actor.name% look
+wait 2 s
+mat %actor.name% mecho &1&xLa corsa continua.. il carrello prende sempre piu' velocita'!&0
+wait 5 s
+mat %actor.name% mecho &6Senti il vento fischiarti nelle orecchie, la velocita' ti impedisce di tenere gli occhi aperti..&0
+wait 5 s
+mat %actor.name% mecho &2&x... la velocita' e' tale che non riesci piu' a distinguere le forme intorno a te...!&0
+wait 5 s
+eval tiro %random.6%
+if %tiro% == 1
+set controllo 1
+end
+end
+if %controllo% != 1
+mteleport %actor.name% 8811
+mat %actor.name% mforce %actor.name% look
+wait 5 s
+mat %actor.name% mecho &7&xSenti lo stomaco salirti fino in gola... ma quanto corre questo coso??????&0
+wait 5 s
+mat %actor.name% mecho &3&x....ti viene da rimettere... non ce la fai piu'! E' terribile!&0
+wait 5 s
+mat %actor.name% mecho &1&xStai urlando come un pazzo ma non riesci a sentire la tua voce per la velocita'!&0
+wait 5 s
+eval tiro %random.5%
+if %tiro% == 1
+set controllo 1
+end
+end
+if %controllo% != 1
+mteleport %actor.name% 8812
+mat %actor.name% mforce %actor.name% look
+wait 5 s
+mat %actor.name% mecho &6FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU&0
+wait 5 s
+mat %actor.name% mecho &7&xMa chi te l'ha fatto fare di salire su questa macchina infernale!!&0
+wait 5 s
+mat %actor.name% mecho &1&xPreghi i tuoi Dei.. e fai voto che se ti fanno scendere vivo andrai tutti i giorni al tempio!&0
+wait 5 s
+eval tiro %random.4%
+if %tiro% == 1
+set controllo 1
+end
+end
+if %controllo% != 1
+mteleport %actor.name% 8814 
+mat %actor.name% mforce %actor.name% look
+wait 5 s
+mat %actor.name% mehco &4&xFai sempre piu' fatica a reggerti... la velocita' del carrello e' ormai insostenibile!&0
+wait 5 s 
+mat %actor.name% mecho &3&xLe ruote del carrello sulla rotaia sprigionano scintille incandescenti... forse frena!&0
+wait 5 s
+mat %actor.name% mecho &1&xSei circondato da milioni di scintille mentre l'inerzia ti sta facendo perdere la presa!&0
+eval tiro %random.3%
+if %tiro% == 1
+set controllo 1
+end
+end
+if %controllo% != 1
+mteleport %actor.name% 8815
+mat %actor.name% mforce %actor.name% look
+wait 5 s
+mat %actor.name% mecho &3&xForse sta finendo.... la velocita' e' ormai diminuita di molto... &0
+wait 5 s
+mat %actor.name% mecho &7&xSi.. per fortuna questo dannato trabiccolo rallenta... sta per fermarsi&0
+wait 5 s
+mat %actor.name% mecho &2&xSenti tutte le budella sottosopra..... blaaahh che saporaccio in bocca!&0
+wait 5 s
+mat %actor.name% mecho &5&xPer non parlare della testa che gira.. gira..&0
+wait 5 s
+mat %actor.name% mecho &1&xFinalmente il carrello si ferma...e' finita grazie al cielo!&0
+mteleport %actor.name% 8808
+mat %actor.name% mforce %actor.name% look
+wait 2
+mechoaround %actor.name% &2%actor.name% pare un po'.... scosso...&0
+wait 2 s
+vis
+mgoto 8808
+emote esce dalla cabina di controllo ridacchiando...
+wait 5 s
+msend %actor.name% &7&xScendi dal carrello... traballi un po'...&0
+mechoaround %actor.name% &7&x%actor.name% pare traballare un po'...&0
+wait 2 s
+mforce %actor.name% vomita
+wait 2 s
+mforce %actor.name% vomita
+wait 2 s
+mforce %actor.name% vomita
+wait 2 s
+rida
+say E che sara' mai.. per un giretto di ottovolante! Smettetela di sporcare!
+wait 2 s
+sor
+wait 2 s
+say Eccovi un simpatico ricordo della vostra gita sull'Ottovolante! Cosi' vi ricorderete di noi!
+wait 2 s
+mload obj 8815
+dai medaglia %actor.name%
+posa medaglia
+halt
+end
+if %controllo% == 1
+mat %actor.name% mecho &3&xIl carrello gira troppo veloce.. non riesci a tenerti!&0
+wait 5 s
+mat %actor.name% mecho &1&xVieni sbalzato fuori dalla carrozza come un sasso da una fionda!&0
+wait 5 s
+mat %actor.name% mecho &6&xVOOOOOOOLAAAAAAAAAREEEEEEEEEEEEEEEEEEEEEEE............&0
+wait 4 s
+mat %actor.name% mecho &6&xOH OH!!!&0
+wait 2 s
+mat %actor.name% mforce %actor.name% urla &6&xVOLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO&0
+wait 5 s
+mat %actor.name% msend %actor.name% &1&xHai pensato a come atterrare, vero??&0
+wait 5 s
+eval cheat %random.10%
+if %cheat% == 1
+mteleport %actor.name% 8813
+else
+mteleport %actor.name% 1545557
+end
+mat %actor.name% mforce %actor.name% yyy
+mat %actor.name% msend %actor.name% &3&xAtterri da vero campione! Prendi una gran culata!&0
+mat %actor.name% mechoaround %actor.name% &1&x%actor.name% piove dal cielo come una meteora!&0
+wait 2 s
+mat %actor.name% mforce %actor.name% look
+vis
+mgoto 8808
+wait 1 s
+emote esce dalla cabina di controllo con una strana espressione allarmata...
+halt
+end
+~
+/s
+q
+y

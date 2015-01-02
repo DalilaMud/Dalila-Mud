@@ -1,0 +1,12 @@
+trigedit 20091
+6  
+/c 
+* Lista comandi
+if %actor.vnum% == -1
+emote si inchina profondamente e sorride
+else
+end
+~
+/s
+q
+y

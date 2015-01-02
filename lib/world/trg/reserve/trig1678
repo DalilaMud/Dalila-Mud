@@ -1,0 +1,12 @@
+trigedit 1678
+6  
+/c 
+* Lista comandi
+mecho &1&xNon appena il mostro muore altri due ne nascono dalle sue carni!&0
+mload mob 524
+mload mob 524
+return 0
+~
+/s
+q
+y

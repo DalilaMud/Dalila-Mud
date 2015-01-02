@@ -1,0 +1,20 @@
+trigedit 1419
+6  
+/c 
+if %orso% == 1
+wait 1 s
+osend %actor.name% Hai gia' avuto il tuo orso.. l'hai perso?
+halt
+end
+set orso 1
+global orso
+wait 1 s
+osend %actor.name% Non appena indossi l'amuleto senti una enorme presenza accanto a te...
+oechoaround %actor.name% &7&xUn enorme orso bianco si materializza al fianco di %actor.name%&0
+wait 1 s
+oload mob 544
+oforce oooop foll %actor.name%
+~
+/s
+q
+y

@@ -1,0 +1,73 @@
+trigedit 6610
+6  
+/c 
+* Lista comandi
+eval recita1 %random.3%
+global recita1
+eval recita2 %random.3%
+global recita2
+eval recita3 %random.3%
+global recita3
+eval recita4 %random.3%
+global recita4
+if %recita1% == 3
+set recita1a &3&xLa tua abilita' di ladro riesce a sbloccare la serratura a tempo... esci presto!!&0
+elseif %recita1% == 2
+set recita1a &3&xEsci presto! Hai sbloccato la porta della cella!&0
+else
+set recita1a &3&xEsci! non c'e tempo da perdere! tra poco la serratura si riblocchera!&0
+end
+if %recita2% == 3
+set recita2a &1&xDannazione! I passi di una guardia ti deconcentrano!&0
+elseif %recita2% == 2
+set recita2a &1&xIl pezzo di ferro usato per evadere si rompe nella serratura... ne devi trovare un altro!&0
+else
+set recita2a &1&xLa polvere della cella ti fa starnutire e perdere di concetrazione!&0
+end
+if %recita3% == 3
+set recita3a &3&xAnche se non sei un ladro riesci a sbloccare la porta della cella... esci presto!&0
+elseif %recita3% == 2
+set recita3a &3&xEsci presto! Hai sbloccato la porta della cella!&0
+else
+set recita3a &3&xEsci! non c'e tempo da perdere! tra poco la serratura si riblocchera!&0
+end
+if %recita4% == 3
+set recita4a &1&xEhi! Per preparare un evasione ci vuole tempo!&0
+elseif %recita4% == 2
+set recita4a &1&xNon ora! Non ora!&0
+else
+set recita4a &1&xSenti i passi delle guardie..meglio stare fermi per un po!&0
+end
+if %lock% == OFF
+set lock ON
+global lock
+if %actor.class% == alcione
+eval percentuale_fuga %random.1000%
+global percentuale_fuga
+if %percentuale_fuga% > 998
+wecho %actor.name% %recita1a%
+wdoor 6813 north flags a
+wait 10 s
+wdoor 6813 north flags bcd
+else
+wecho %actor.name% %recita2a%
+end
+else
+eval percentuale_fuga1 %random.2000%
+global percentuale_fuga1
+if %percentuale_fuga1% > 1998
+wecho %actor.name% %recita3a%
+wdoor 6813 north flags a
+wait 10 s
+wdoor 6813 north flags bcd
+else
+wecho %actor.name% %recita2a%
+end
+end
+else
+wecho %actor.name% %recita4a%
+end
+~
+/s
+q
+y

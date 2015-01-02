@@ -1,0 +1,1371 @@
+#1000
+elementale composito~
+Un Elemantale composito~
+Un elementale composito e' qui.
+~
+Vedi una Tempesta che si avvicina a te..... Fuoco, Ghiaccio, Vento e Terra
+ti attaccano!!!
+~
+~
+~
+~
+21474926600 1128 0 -1 -1 -1 -1 -1 E
+70 0 -7 1d1+1450 4d16+20
+43 0
+8 8 1
+E
+T 1621
+#1001
+furia ghnawl~
+La Furia Di Ghnawl~
+La Furia Di Ghnawl e' qui.
+~
+Vieni avvolto da un' entita' inconcepibile a un mortale, LA REALTA' SI
+RIVOLTA CONTRO DI TE!!!
+~
+~
+~
+~
+36028827151097886 2473970283754 0 -1 -1 -1 -1 -1 E
+99 -20 -10 1d1+30000 30d30+40
+83 0
+8 8 2
+E
+#1002
+troll warrior~
+Il troll warrior~
+Il troll warrior e' qui.
+~
+Un grosso Troll non ha paura di sfidarti !
+~
+~
+~
+~
+73770 33555496 0 -1 -1 -1 -1 -1 E
+33 8 -5 1d1+450 5d5+7
+26 0
+8 8 1
+E
+#1003
+elementale acqua~
+L'elementale d'acqua~
+L'elementale d'acqua e' qui.
+~
+Gorghi e onde sembrano creare qualcosa di malvagio!!!
+~
+~
+~
+~
+90154 134217920 0 -1 -1 -1 -1 -1 E
+48 -10 -8 1d1+650 4d9+15
+27 0
+8 8 0
+Spec: 1
+E
+#1004
+elementale fuoco~
+L'elementale del fuoco~
+L'elementale del fuoco e' qui
+~
+Vedi una fiamma caldissima che sembra viva!!!!
+~
+~
+~
+~
+73770 1049768 0 -1 -1 -1 -1 -1 E
+48 -10 -8 1d1+650 4d10+15
+30 0
+8 8 1
+E
+#1005
+troll~
+Il troll troops~
+Il troll troops e' qui.
+~
+Un troll fedele a Ghnawl ti fissa con odio
+~
+~
+~
+~
+8202 268435456 0 -1 -1 -1 -1 -1 E
+20 14 -3 1d1+300 6d2+6
+17 0
+8 8 2
+E
+#1006
+nagheroth lich necromante oscuro~
+Nagheroth Il Lich~
+&1Nagheroth l'oscuro necromante Lich emana un' aurea malvagia !!!&0
+~
+It looks unfinished.
+Vedi un corpo semi putrefatto, tenuto insieme da una forza magica oscura.
+I suoi occhi di fuoco di incutono timore, e le sue mani stringono un vecchio libro
+maledetto, ormai consumato ma ancora terribilmente potente !
+~
+~
+~
+~
+8590712890 218145960 -1000 -1 -1 -1 -1 -1 E
+75 -5 -10 1d1+1199 4d16+18
+62 0
+8 8 1
+BareHandAttack: 10
+Dex: 12
+Int: 18
+Wis: 18
+E
+#1007
+dracolich maldarthen~
+Maldarthen il DracoLich~
+Maldarthen il DracoLich di Nagheroth si sta nutrendo delle anime e dei pianti dei suoi nemici
+~
+It looks unfinished.
+Vedi un immenso drago fatto solo di ossa, tra esse avverti una potente forza magica
+che le compatta e le rafforza. Senti anche le grida delle anime disperate degli
+sventurati che hanno trovato la morte affrontando il Dracolich.
+~
+~
+~
+~
+8624267323 42152 -1000 -1 -1 -1 -1 -1 E
+70 -3 -9 1d1+1399 4d15+16
+65 0
+8 8 0
+BareHandAttack: 4
+Str: 18
+StrAdd: 20
+Dex: 12
+Int: 16
+Wis: 10
+Con: 14
+Cha: 10
+Spec: 30
+E
+#1008
+cavaliere luce~
+Il cavaliere della luce~
+Il Cavaliere Della Luce e' qua per proteggere le forze del bene
+~
+Nothing.
+~
+~
+~
+~
+8590612521 5288 500 -1 -1 -1 -1 -1 E
+40 8 -5 1d1+649 3d9+6
+26 0
+8 8 1
+BareHandAttack: 10
+Spec: 17
+E
+#1009
+pulce~
+una pulce~
+Una pulce e' qui che saltella felice.
+~
+E' piccola come una pulce!
+~
+~
+~
+~
+562949962055818 2199040294946 0 -1 -1 -1 -1 -1 E
+1 10 10 1d1+15 1d2+1
+1 0
+8 8 0
+E
+T 6681
+T 6682
+#1010
+valkir seguaci fantasmi~
+I seguaci del fantasma Valkir~
+I seguaci del fantasma Valkir sono qui
+~
+La feccia della feccia. Occhi ignetteti di sangue, cicatrici ovunque. La
+faccia piu' tremenda di tutta la daresia. Ed e' qui per ucciderti.
+~
+~
+~
+~
+2058 33960 -900 -1 -1 -1 -1 -1 E
+50 6 -4 1d1+550 3d10+14
+28 0
+8 8 1
+Dex: 17
+E
+#1011
+vecchio mago Lendar~
+Lendar il vecchio mago~
+Lendar, il vecchio mago del Sultano, ti osserva silenziosamente
+~
+Lendar, fu in gioventu' un potente mago, ma nelle lotte epiche che lo videro protagonista
+perse per sempre la possibilita' di ringiovanire.
+Ora e' un povero vecchio, non piu' forte come un tempo, che vive di ricordi e cerca
+un degno successore per la sua arte.
+~
+~
+~
+~
+8590712987 33821864 500 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+349 4d8+6
+21 0
+8 8 1
+BareHandAttack: 11
+Dex: 14
+Int: 18
+Wis: 18
+Spec: 15
+E
+#1012
+goblin sciamano~
+Lo sciamano Goblin~
+Lo sciamano Goblin non ti fara' passare!!
+~
+E' un goblin un po' piu' basso, piu' giallo e brutto degli altri !
+Ma purtroppo per te anche piu' intelligente !
+~
+~
+~
+~
+8657643563 167814184 -600 -1 -1 -1 -1 -1 E
+27 9 -1 1d1+349 3d7+7
+14 0
+8 8 1
+BareHandAttack: 1
+Spec: 15
+E
+#1013
+goblin guardia personale~
+una guardia goblin~
+Una guardia personale dello sciamano e' qua per fermare gli intrusi
+~
+E' davvero brutto ! una creatura grossa e forzuta !
+~
+~
+~
+~
+8590483498 1057800 -200 -1 -1 -1 -1 -1 E
+15 12 1 1d1+219 3d5+4
+12 0
+8 8 1
+BareHandAttack: 10
+E
+#1014
+troll~
+Un troll con 2 teste~
+Un troll con 2 teste sta litigando ad alta voce
+~
+It looks unfinished.
+~
+~
+~
+~
+8590467176 33555464 -300 -1 -1 -1 -1 -1 E
+28 11 1 1d1+369 2d10+4
+19 0
+8 8 0
+BareHandAttack: 5
+Dex: 14
+E
+#1015
+piccolo beholder~
+Un piccolo Beholder~
+Un piccolo Beholder e' qui
+~
+Vedi un piccolo mostro dall'aspetto inconfondibile!!!
+~
+~
+~
+~
+8589963304 67109928 -600 -1 -1 -1 -1 -1 E
+35 4 -4 1d1+599 3d12+8
+22 0
+8 8 1
+BareHandAttack: 4
+E
+#1016
+grosso beholder~
+Un grosso Beholder~
+Un grosso Beholder e' qui
+~
+Sei di fronte al terrore di tutti gli avventurieri..... un Beholder !!!
+~
+~
+~
+~
+8590028920 71337000 -600 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+42 0
+8 8 1
+BareHandAttack: 4
+E
+#1017
+regina beholder~
+Una regina dei Beholder~
+Una regina dei Beholder ti osserva con odio
+~
+Sei di fronte al terrore di tutti gli avventurieri... una regina dei Beholder!!!
+~
+~
+~
+~
+8657137722 71304360 -800 -1 -1 -1 -1 -1 E
+65 -4 -10 1d1+1999 4d16+16
+46 0
+8 8 2
+BareHandAttack: 4
+E
+#1018
+kajertayynnerh despota beholder signore~
+Il despota dei Beholder~
+Kajertayynnerh il signore dei Beholder e' pronto a sfogare su di te la sua furia
+~
+Davanti a te... il tuop peggiore incubo!
+~
+~
+~
+~
+90171 72352808 -900 -1 -1 -1 -1 -1 E
+75 -4 -10 1d1+1200 4d15+16
+50 0
+8 8 1
+BareHandAttack: 4
+Spec: 31
+E
+#1019
+xuna bellissima esploratrice~
+Xuna~
+Xuna, bellissima esploratrice, ti osserva silenziosa
+~
+Hai di fronte una ragazza bellissima ma dagli occhi di ghiaccio.
+Di certo non riesci a capire a cosa stia pensando e non puoi fare a meno di
+rimanere sorpreso dalla sua rapidita' e grazia mentre uccide i suoi nemici.
+~
+~
+~
+~
+2199023329307 268436520 0 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+1000 4d12+12
+42 0
+8 8 2
+BareHandAttack: 1
+Spec: 16
+E
+#1020
+pirata~
+Un pirata~
+Un pirata e' qui
+~
+Un pirata ti rubera' ogni cosa!!
+~
+~
+~
+~
+2251808475189292 1056 -200 -1 -1 -1 -1 -1 E
+20 12 4 1d1+280 2d8+3
+16 0
+8 8 1
+E
+#1021
+pirata veterano~
+Un pirata veterano~
+Un pirata veterano e' qui
+~
+Un pirata ti rubera' ogni cosa!!
+~
+~
+~
+~
+2251808475197484 33555464 -200 -1 -1 -1 -1 -1 E
+35 8 -3 1d1+540 2d12+6
+20 0
+8 8 1
+E
+#1022
+guardia pirata~
+Una guardia pirata~
+Una guardia pirata e' qui
+~
+Nothing.
+~
+~
+~
+~
+8661514270 1128 -200 -1 -1 -1 -1 -1 E
+30 9 10 1d1+500 3d7+6
+27 0
+8 8 1
+E
+#1023
+capo pirati~
+Il capo dei pirati~
+Il capo dei pirati e' qui
+~
+Il capo dei pirati guida i suoi uomini all'arembaggio!
+~
+~
+~
+~
+73785 1049768 0 -1 -1 -1 -1 -1 E
+55 2 -8 1d1+800 4d11+10
+36 0
+8 8 1
+Spec: 16
+E
+#1024
+idra viola~
+La gigantesca idra viola~
+La gigantesca idra viola e' qui
+~
+Una gigantesca idra a 24 teste ti punta minacciosa!!!
+~
+~
+~
+~
+1108135895099 100664544 -1000 -1 -1 -1 -1 -1 E
+75 -4 -10 1d1+1299 5d10+22
+50 0
+8 8 0
+Str: 18
+StrAdd: 20
+Con: 18
+Spec: 28
+E
+#1025
+nave pirati~
+&7Una Nave dei Pirati&0~
+&7Una Nave dei Pirati sta navigando qui.&0
+~
+la nave e' pronta all'attacco.
+I pirati che trasporta urlano e sbraitano-
+~
+~
+~
+~
+12952010826 1128 0 -1 -1 -1 -1 -1 E
+70 20 -10 30d30+5000 1d30+30
+46 0
+8 8 0
+E
+#1026
+nave manonera~
+&4La nave di Nerargento&0~
+&x&4Una nave dalle insegne piratesche veleggia nel cielo brillando al chiaro di luna!!&0
+~
+Mille pirati fantasma tirano le gomene e alzano le armi alla grande luna,
+mentre il forte Nerargento lancia ordini e grida rabbioso.  Neanche in cielo
+esiste la serenita'...  Neanche nei sogni.  Ma il tuo spirito e' piu' forte...
+Lo senti.    
+~
+~
+~
+~
+8657297502 1128 0 -1 -1 -1 -1 -1 E
+90 6 -10 30d40+3000 1d10+50
+80 0
+8 8 0
+BareHandAttack: 6
+E
+#1027
+nerargento pirata~
+Nerargento, pirata della luna~
+&4Nerargento, pirata della luna, ti fissa dalla sua nave volante..&0
+~
+Un uomo alto e spettrale, dal volto crudele e dal grande spadone, e' in piedi
+sulla misteriosa nave della luna!  Lancia un urlo ai mille marinai fantasma,
+unisce le mani e il vento si alza forte, spostando le grandi, nere nuvole che
+un'immenso spicchio di luna.
+~
+~
+~
+~
+2251808470982810 67109992 -1000 -1 -1 -1 -1 -1 E
+70 -3 -8 30d10+1000 4d16+20
+49 0
+8 8 1
+E
+#1028
+vice capitano~
+&1Vice capitano di Manonera&0~
+&1Il Vice capitano di Manonera e' qui pronto ad ucciderti.&0
+~
+E' tremendo quasi come il suo capo.
+~
+~
+~
+~
+8590190602 33555560 -1000 -1 -1 -1 -1 -1 E
+50 10 -3 30d6+200 3d8+5
+45 0
+8 8 1
+E
+#1029
+m~
+un pirata marinaio~
+Un pirata marinaio e' qui pronto ad ucciderti
+~
+E' spietato.
+~
+~
+~
+~
+2251808403632170 33555552 -400 -1 -1 -1 -1 -1 E
+25 17 0 25d6+100 2d10+3
+15 10000
+8 8 1
+E
+#1030
+mago karnabas~
+il &1Mago Karnabas&0~
+Il &1Mago Karnabas&0 e' qui che pratica le sue arti magiche.
+~
+Ha una veste completamente nera ed una lunga barba fino ai piedi.
+Nei suoi occhi intravedi il nulla piu' assoluto.
+~
+~
+~
+~
+4406636701850 253113576 -500 -1 -1 -1 -1 -1 E
+65 15 -10 30d6+3000 6d10+14
+57 100000
+8 8 1
+BareHandAttack: 12
+Str: 17
+Dex: 18
+Int: 18
+Wis: 17
+Con: 13
+Cha: 10
+Spec: 15
+E
+#1031
+carro blindato~
+&7Un Carro Blindato&0~
+&7Un Carro Blindato sta transitando di qui.&0
+~
+Il carro sembra molto robusto
+~
+~
+~
+~
+14495768606 1088 0 -1 -1 -1 -1 -1 E
+70 20 -10 1d1+20000 1d1+0
+59 100000
+8 8 1
+E
+#1032
+cavaliere aslen~
+un Cavaliere di Aslen~
+Un Cavaliere di Aslen cavalca fiero ed attento.
+~
+Ben Equipaggiato e pronto all'azione!
+~
+~
+~
+~
+2208150338088 33555456 -200 -1 -1 -1 -1 -1 E
+10 16 -4 10d12+200 5d5+10
+10 4000
+8 8 1
+Spec: 16
+E
+#1033
+mercante Poj grasso stoffe~
+Poj il mercante~
+Poj il ricco mercante di stoffe e' qua
+~
+Nothing.
+~
+~
+~
+~
+8590630922 16811176 0 -1 -1 -1 -1 -1 E
+10 14 0 1d1+299 1d8+1
+8 0
+8 8 1
+BareHandAttack: 2
+Str: 18
+StrAdd: 40
+Con: 19
+E
+#1034
+guardia~
+Una guardia di Poj~
+Una guardia di Poj e' qua per fare da scorta
+~
+Nothing.
+~
+~
+~
+~
+8590635050 33588264 200 -1 -1 -1 -1 -1 E
+25 8 1 1d1+369 2d10+4
+14 0
+8 8 1
+BareHandAttack: 10
+Dex: 18
+Int: 12
+Spec: 1
+E
+#1035
+capo guardia~
+Il capo guardia~
+Il capo guardia della scorta di Poj si guarda attorno con circospezione
+~
+Nothing.
+~
+~
+~
+~
+8590716986 67109928 300 -1 -1 -1 -1 -1 E
+25 8 -3 1d1+449 2d12+5
+21 0
+8 8 1
+BareHandAttack: 10
+Str: 18
+StrAdd: 70
+Dex: 12
+Int: 9
+Wis: 9
+Con: 20
+Cha: 10
+E
+#1036
+guardia oscura nonmorta~
+Una guardia infernale~
+Una guardia evocata dal mondo del male e' qua per difendere il Chaos !
+~
+Piu' che una guardia, ti sembra un terribile scheletro circondato da una forza oscura.
+~
+~
+~
+~
+8590712874 33858728 -800 -1 -1 -1 -1 -1 E
+42 6 -5 1d1+599 3d9+6
+34 0
+8 8 1
+BareHandAttack: 4
+Str: 16
+Dex: 16
+Int: 14
+Wis: 14
+Con: 12
+Cha: 12
+E
+#1037
+individuo misterioso~
+Un individuo misterioso~
+Un individuo misterioso e' qua, completamente avvolto dal suo mantello
+~
+Persino la sua voce e' completamente anonima!!!
+~
+~
+~
+~
+8657625098 67109896 0 -1 -1 -1 -1 -1 E
+40 6 -6 1d1+699 4d6+7
+35 0
+8 8 1
+BareHandAttack: 13
+E
+#1038
+un assassino~
+un assassino~
+un assassino e' pronto a colpire !!!
+~
+Nothing.
+~
+~
+~
+~
+8590458922 295976 -700 -1 -1 -1 -1 -1 E
+40 6 -5 1d1+649 3d9+8
+38 0
+8 8 1
+BareHandAttack: 1
+Str: 18
+E
+#1039
+mummia Ramses guardia~
+Una mummia~
+Una mummia e' stata messa qui a guardia da Ramses
+~
+Nothing.
+~
+~
+~
+~
+8590649402 33563816 -400 -1 -1 -1 -1 -1 E
+40 6 -4 1d1+549 3d8+8
+36 0
+8 8 0
+BareHandAttack: 4
+E
+#1040
+guardiano divino~
+Un Guardiano Divino~
+Un Guardiano Divino e' qua per proteggere un tesoro unico
+~
+It looks unfinished.
+~
+~
+~
+~
+8657625098 33832 500 -1 -1 -1 -1 -1 E
+60 -1 -10 1d1+999 4d12+12
+40 0
+8 8 1
+E
+#1041
+statua guardia~
+Una statua guardiana~
+Una statua e' stata animata per fare la guardia a qualcosa di importante
+~
+It looks unfinished.
+~
+~
+~
+~
+8657625098 33832 500 -1 -1 -1 -1 -1 E
+40 7 -5 1d1+599 3d9+8
+33 0
+8 8 0
+E
+#1042
+limacea~
+una limacea rossa~
+Una limacea rossa striscia qui lentamente.
+~
+It looks unfinished.
+E' rossa come una fragola troppo matura, alcuni puntini neri
+ricoprono la sua viscida pelle, lascia una striscia maleodorante
+sul suo percorso.
+~
+~
+~
+~
+40 1056 0 -1 -1 -1 -1 -1 E
+10 14 7 1d5+100 2d4+2
+8 0
+8 8 0
+E
+#1043
+scarafaggio~
+uno scarafaggio giallo~
+Uno scarafaggio giallo e' qui.
+~
+La sua piccola corazza sembra fatta d'oro.
+~
+~
+~
+~
+65576 1056 0 -1 -1 -1 -1 -1 E
+5 18 7 1d1+30 1d4+1
+4 0
+8 8 0
+Spec: 13
+E
+#1045
+orco Kaler~
+Kaler l'orco deforme~
+Kaler l'orco deforme e' qua in cerca di aiuto
+~
+It looks unfinished.
+~
+~
+~
+~
+8590475306 33588264 -300 -1 -1 -1 -1 -1 E
+20 12 1 1d1+209 2d12+4
+12 0
+8 8 1
+BareHandAttack: 4
+E
+#1046
+ogre guardiano enorme~
+Un &1Ogre&0&3 assetato di &1sangue&0~
+Un &1Ogre&0&3 assetato di &1sangue&0&3 e' qui a guardia del tesoro
+~
+Enorme, grosso, infuriato e' il terrore di ogni avventuriero !
+~
+~
+~
+~
+8657133626 1064 -700 -1 -1 -1 -1 -1 E
+25 10 3 1d1+449 2d10+5
+18 0
+8 8 1
+BareHandAttack: 7
+E
+#1047
+orco~
+Un orco~
+Un orco fa la guardia al territorio del suo capo
+~
+It looks unfinished.
+~
+~
+~
+~
+8589942888 33555496 -100 -1 -1 -1 -1 -1 E
+20 12 4 1d1+249 2d8+3
+17 0
+8 8 1
+BareHandAttack: 4
+E
+#1048
+minotauro~
+Un minotauro~
+Un grosso minotauro e' qua per non far passare nessuno
+~
+It looks unfinished.
+~
+~
+~
+~
+8657150010 1064 -150 -1 -1 -1 -1 -1 E
+22 11 3 1d1+299 2d9+3
+15 0
+8 8 1
+BareHandAttack: 13
+E
+#1049
+assassino~
+Un assassino~
+Un assassino e' pronto a colpire
+~
+SEI MORTO !
+~
+~
+~
+~
+8590188602 9448 -1000 -1 -1 -1 -1 -1 E
+50 2 -8 1d1+799 4d10+10
+27 0
+8 8 1
+E
+#1050
+assassino scarlatto~
+Un assassino dal mantello scarlatto~
+Un assassino dal mantello scarlatto sta per tenderti un agguato
+~
+fa paura !
+~
+~
+~
+~
+8590188602 134218856 -1000 -1 -1 -1 -1 -1 E
+50 0 -10 1d1+999 4d10+12
+50 0
+8 8 1
+E
+#1051
+Alleria~
+Alleria l'elfa dei boschi~
+Alleria l'elfa dei boschi e' qua
+~
+E' proprio come te la ricordi, nonostante il tempo questi elfi non invecchiano mai
+~
+~
+~
+~
+24586 1064 400 -1 -1 -1 -1 -1 E
+1 5 -4 1d1+299 5d5+15
+1 0
+8 8 2
+E
+#1052
+sfinge~
+La Sfinge~
+La Sfinge ti osserva immobile
+~
+Ti trovi davanti a un animale mitico. La tua mente riflette e quasi non credi
+di essere difronte a un essere mitologico, i tuoi sensi ti dicono di stare in
+guardia mentre la sfinge ti fissa con occhi intensi.
+~
+~
+~
+~
+253978 1192 0 -1 -1 -1 -1 -1 E
+50 0 -8 1d1+799 4d10+18
+39 0
+8 8 1
+E
+#1053
+orco terribile~
+Un terribile orco ~
+Un orco alto circa 3 metri digrigna i denti e ti balza addosso!
+~
+It looks unfinished.
+E' immenso!
+~
+~
+~
+~
+327736 0 -5 -1 -1 -1 -1 -1 E
+53 6 -3 1d1+827 5d9+8
+51 40000
+8 8 0
+BareHandAttack: 6
+Str: 19
+Dex: 18
+Int: 8
+Wis: 7
+Con: 18
+Cha: 5
+E
+#1055
+demone soulstinger~
+Il piccolo demone soulstinger~
+Un piccolo demone alato e' qui, attende di succhiarti l'anima...
+~
+Assomiglia vagamente ad un imp, ma e' quasi piu' brutto.
+Piccolo e peloso, pelle color giallognolo... PuaH!
+~
+~
+~
+~
+33816745 335544424 -10 -1 -1 -1 -1 -1 E
+25 10 -10 1d1+60 3d2+5
+19 9000
+8 8 1
+BareHandAttack: 8
+Str: 10
+Dex: 25
+Int: 15
+Wis: 12
+Con: 9
+Cha: 4
+Spec: 30
+E
+#1056
+sciame demoni piccoli~
+Lo sciame di piccoli demoni~
+Un grande sciame di piccoli e crudeli demoni vola verso di te!
+~
+saranno almeno 100! Piccoli come insetti ma probabilmente letali!
+~
+~
+~
+~
+327736 2336734969896 -10 -1 -1 -1 -1 -1 E
+35 0 -10 1d1+200 1d60+2
+31 10000
+8 8 0
+BareHandAttack: 4
+Dex: 25
+E
+#1057
+ippogrifo maestoso~
+Un maestoso Ippogrifo ~
+Un cavallo dotato di ali vola qui intorno..
+~
+Un grandissimo cavallo alato si erge di fronte a te... Che splendore! 
+~
+~
+~
+~
+8389000 2199061005440 5 -1 -1 -1 -1 -1 E
+25 14 0 1d1+340 1d23+6
+20 20000
+8 8 1
+BareHandAttack: 4
+E
+#1058
+demone grande doomcrusher~
+Il robusto demone doomcrusher~
+Un demone molto robusto ti guarda con sorriso malefico
+~
+E' davvero grosso, sara' alto 2 metri e robusto quanto il miglior guerriero.
+I suoi occhi sono privi di pupille, ha lunghi denti bianchissimi e
+unghie nere come la pece...
+~
+~
+~
+~
+33882281 2199023780904 -10 -1 -1 -1 -1 -1 E
+45 5 -4 1d1+800 7d7+10
+44 40000
+8 8 0
+BareHandAttack: 12
+Str: 18
+StrAdd: 50
+Spec: 27
+E
+#1059
+demone etereo hellgazer~
+Il demone etereo hellgazer~
+Un demone piccolo e dalla pelle rossa come il fuoco galleggia nell'aria e ti fissa!
+~
+Spaventoso davvero, ha occhi celesti luminosi e privi di pupille, piccole ali
+e pelle rossa e squamosa.. Brrrr
+~
+~
+~
+~
+327865 2199515169800 -10 -1 -1 -1 -1 -1 E
+40 11 -1 1d1+320 1d13+3
+38 12000
+8 8 0
+BareHandAttack: 8
+Dex: 20
+Spec: 15
+E
+#1060
+arbitro~
+Longinus l'arbitro~
+Un arbitro assegna punti e' qui.
+~
+It looks unfinished.
+~
+~
+~
+~
+4503608217321482 8 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+0 1d1+0
+93 0
+8 8 1
+E
+#1061
+usciere~
+un usciere~
+Un usciere aspetta i vincitori.
+~
+It looks unfinished.
+~
+~
+~
+~
+4503608217321482 8 0 -1 -1 -1 -1 -1 E
+100 20 10 1d1+0 1d1+0
+87 0
+8 8 1
+E
+#1070
+ragno~
+&x&5un ragno peloso&0~
+&x&5Un ragno peloso corre verso di te!&0
+~
+Un ammasso di pelo con 10 zampette.
+~
+~
+~
+~
+155817 132096 0 -1 -1 -1 -1 -1 E
+5 19 5 1d1+20 2d5+1
+3 0
+8 8 0
+BareHandAttack: 4
+Spec: 13
+E
+#1071
+puzragno ragno~
+&x&2un PuzRagno gigante&0~
+&x&2Un PuzRagno gigante vuole solo assaggiarti...&0
+~
+E' un PuzRagno..che ti aspettavi!?
+~
+~
+~
+~
+188425 34874496 0 -1 -1 -1 -1 -1 E
+50 5 0 1d1+1000 6d10+15
+50 0
+8 8 0
+BareHandAttack: 4
+Spec: 13
+E
+#1079
+mirror signore torre~
+Mirror, il signore della torre~
+Una stranissima immagine distorta di un uomo fluttua qui...
+~
+Una figura abbastanza alta e completamente avvolta in un mantello rosso (ti
+ricorda un fantasma!  ) Ha due buchi dai quali brillano piccoli e luminosi
+occhi rossi e grosse braccia scoperte.  Non riesci a distinguerlo dalle altre
+immagini..!    
+~
+~
+~
+~
+81945 402653224 0 -1 -1 -1 -1 -1 E
+80 -10 -10 1d1+2000 1d120+30
+80 200000
+8 8 1
+BareHandAttack: 3
+Spec: 5
+E
+#1080
+Dardhanos distruttore~
+&1&xDardhanos&0&3 Il Distruttore &0 ~
+&1&xDardhanos&0&3 Il Distruttore... ti attacca !!! &0
+~
+E'... MOSTRUOSAMENTE GROSSO !!! &0
+~
+~
+~
+~
+8590712890 2199023289384 -1000 -1 -1 -1 -1 -1 E
+70 -3 -10 1d1+2999 4d12+12
+36 0
+8 8 1
+BareHandAttack: 10
+E
+#1081
+seguace dardhanos~
+Un seguace di Dardhanos~
+Un seguace di Dardhanos difendera' il suo capo
+~
+It looks unfinished.
+~
+~
+~
+~
+8589975594 1192 0 -1 -1 -1 -1 -1 E
+50 0 -8 1d1+999 4d10+18
+34 0
+8 8 1
+E
+#1082
+gladiatore chaos~
+Un Gladiatore del Chaos~
+Un Gladiatore del Chaos ti fara' a pezzi !
+~
+Se perdi tempo a guardarlo puoi considerarti gia' morto
+~
+~
+~
+~
+4294991976 134251560 -300 -1 -1 -1 -1 -1 E
+50 0 -8 1d1+799 4d10+12
+38 0
+8 8 1
+BareHandAttack: 10
+E
+#1088
+orco assalto nemico~
+&1&xUn orco d'assalto&0~
+&1&xUn orco d'assalto e' qui&0
+~
+It looks unfinished.
+~
+~
+~
+~
+4294993962 1024 0 -1 -1 -1 -1 -1 E
+35 4 -2 1d1+700 2d12+7
+34 0
+8 8 0
+E
+T 12509
+T 12510
+#1089
+orchi nemico truppe orchesche assedio~
+Delle truppe di assedio orchesche~
+Delle truppe di assedio orchesche sono qui
+~
+It looks unfinished.
+~
+~
+~
+~
+26666 1024 0 -1 -1 -1 -1 -1 E
+50 -2 -8 1d1+900 3d12+16
+36 0
+8 8 0
+E
+#1090
+nemico orchi esploratore~
+Un esploratore degli orchi~
+Un esploratore degli orchi cerca di localizzare i nemici
+~
+It looks unfinished.
+~
+~
+~
+~
+336058 1064 -300 -1 -1 -1 -1 -1 E
+30 9 -1 1d1+499 3d7+6
+28 0
+8 8 1
+E
+T 12505
+#1091
+predone orchesco nemico~
+Un predone orchesco~
+Un predone orchesco e' in cerca di tesori
+~
+It looks unfinished.
+~
+~
+~
+~
+4295303226 137506063400 -500 -1 -1 -1 -1 -1 E
+45 6 -6 1d1+699 4d7+9
+26 0
+8 8 1
+E
+T 12505
+#1092
+squadriglia orchi nemico~
+Una squadriglia di orchi~
+Una squadriglia di orchi armata fino ai denti e' qua
+~
+It looks unfinished.
+~
+~
+~
+~
+335930 1064 -700 -1 -1 -1 -1 -1 E
+60 -2 -10 1d1+949 4d11+15
+51 0
+8 8 1
+E
+T 12505
+#1093
+Gorgoth~
+Gorgoth~
+Gorgoth ribolle dalla rabbia verso i patetici umani
+~
+Un demone alto, sproporzionatamente largo e.... CATTIVO !
+~
+~
+~
+~
+73754 1064 -500 -1 -1 -1 -1 -1 E
+40 6 -5 1d1+649 3d9+8
+29 0
+8 8 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 20
+E
+#1094
+drago bianco~
+Un Dragone &7Bianco&0~
+Un Dragone &7Bianco&0&3 e' qua
+~
+Vedi un Drago Bianco come la neve, con le scaglie che luccicano e riflettono la luce
+alcune come se fossero specchi
+La grazia di questo spettacolo contrasta con le fauci e gli artigli del Drago
+di potenza notevole.
+~
+~
+~
+~
+8648910875 4228136 -300 -1 -1 -1 -1 -1 E
+55 2 -10 1d1+1449 4d13+16
+52 0
+8 8 1
+BareHandAttack: 4
+Spec: 29
+E
+#1095
+drago nero~
+Un Dragone &9Nero&0~
+Un Dragone &9Nero&0&3 sta esplorando la zona
+~
+Sei di fronte ad un bel Dragone Nero, le scaglie scure contrastano con le fauci bianche
+e gli occhi rossi fuoco.
+Fare infuriare questa creatura potrebbe essere molto pericoloso !
+~
+~
+~
+~
+8590190619 33832 -250 -1 -1 -1 -1 -1 E
+55 2 -10 1d1+1499 4d14+16
+45 0
+8 8 1
+BareHandAttack: 4
+Spec: 28
+E
+#1096
+drago verde~
+Un Dragone &2Verde&0~
+Un Dragone &2Verde&0&3 si aggira in cerca di cibo
+~
+Le sue squame verdi lo rendono difficilmente localizzabile in ambienti come foreste
+o boschi. Questi draghi sono piu' conosciuti per la loro malvagita' che per la forza.
+Anche se, a dire il vero, sono molto forti !
+~
+~
+~
+~
+8648908827 54821928 -650 -1 -1 -1 -1 -1 E
+60 0 -10 1d1+1649 4d15+18
+38 0
+8 8 1
+BareHandAttack: 4
+Spec: 30
+E
+#1097
+drago rosso~
+Un Dragone &1Rosso&0~
+Un Dragone &1Rosso&0&3 ringhia furioso
+~
+Sei davanti ad un raro dragone rosso fuoco, questo di genere di drago e' il piu'
+aggressivo e malvagio secondo le leggende.
+Hai abbastanza paura, sai che le fiamme dei draghi rossi possono annientare qualunque
+cosa in poco tempo.
+~
+~
+~
+~
+8648910875 55616552 -800 -1 -1 -1 -1 -1 E
+70 -4 -10 1d1+1899 4d16+22
+49 0
+8 8 1
+BareHandAttack: 4
+Spec: 27
+E
+#1098
+dragone blu~
+Un Dragone &4Blu&0~
+Un Dragone &4Blu&0&3 dalle scaglie lucenti ti osserva dall' alto.
+~
+Vedi un Drago di grossa taglia con le scaglie blu scuro, cosi' lucenti che se osservate
+da una particolare angolatura ti permettono di specchiartici.
+La cosa che piu' ti colpisce e' senza dubbio la bocca del drago, e' cosi' grossa
+da poter inghiottire un uomo con un sol morso.
+~
+~
+~
+~
+8657299483 121668776 -300 -1 -1 -1 -1 -1 E
+75 -5 -10 1d1+2499 4d16+20
+43 0
+8 8 1
+BareHandAttack: 4
+Str: 21
+Dex: 21
+Spec: 31
+E
+#1099
+Leviathan dragone marino~
+&6&x Leviathan, Il Dragone Marino &0~
+&6&x Leviathan, Il Dragone Marino, e' qui insieme a Khud, il suo padrone. &0
+~
+&6Vedi un immenso Dragone, dalle scaglie azzure e lucenti, la forma affusolata e
+l'enorme dimensione ti fanno pensare a una creatura marina.
+Khud ti spiega che sei di fronte a Leviathan, il Dragone Dei Mari, un' incarnazione
+della potenza dell' elemento dell' acqua.
+Il Drago ti fissa silenzioso, sovrastato da questa creatura divina inizi a tremare
+un po'.
+~
+~
+~
+~
+1130239877147 859878568 0 -1 -1 -1 -1 -1 E
+99 -15 -10 1d1+30000 30d40+35
+79 0
+8 8 1
+BareHandAttack: 4
+Str: 18
+StrAdd: 100
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Spec: 31
+E
+$

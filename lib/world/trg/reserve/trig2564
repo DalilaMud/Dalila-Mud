@@ -1,0 +1,10 @@
+trigedit 2564
+6  
+/c 
+* Lista comandi
+%teleport% %actor.name% 2504852
+wforce %actor.name% look
+~
+/s
+q
+y

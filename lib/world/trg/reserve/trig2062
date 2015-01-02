@@ -1,0 +1,26 @@
+trigedit 2062
+6  
+/c 
+if %speech% == preghiere
+msend %actor.name% Ecco le preghiere disponibili ai fedeli di Shaarr:
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% vita di Shaarr
+msend %actor.name% fuoco di Shaarr
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% Ecco le preghiere riservate agli adepti del culto
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% altare di Shaarr
+msend %actor.name% sangue di Shaarr
+msend %actor.name% furia di Shaarr
+msend %actor.name% artigli di Shaarr
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% Ecco le preghiere riservate al capo del culto
+msend %actor.name% ---------------------------------------------------
+msend %actor.name% vittoria di Shaarr
+end
+~
+/s
+q
+y

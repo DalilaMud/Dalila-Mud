@@ -1,0 +1,10 @@
+trigedit 12597
+6  
+/c 
+if %actor.name% == %target%
+mat %1% &7&x %actor.name% cerca di corazzarsi con i suoi incantesimi&0
+end
+~
+/s
+q
+y

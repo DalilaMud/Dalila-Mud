@@ -1,0 +1,78 @@
+trigedit 11051
+6  
+/c 
+eval i 1
+while %i% < 10
+   eval tmp %i% + 1
+   switch %i%
+      case 1
+         eval vnum %prodotto1%
+      break
+      case 2
+         eval vnum %prodotto2%
+      break
+      case 3
+         eval vnum %prodotto3%
+      break
+      case 4
+         eval vnum %prodotto4%
+      break
+      case 5
+         eval vnum %prodotto5%
+      break
+      case 6
+         eval vnum %prodotto6%
+      break
+      case 7
+         eval vnum %prodotto7%
+      break
+      case 8
+         eval vnum %prodotto8%
+      break
+      case 9
+         eval vnum %prodotto9%
+      break
+   done
+   if %vnum%
+      %load% obj %vnum% %self% inv
+   end
+   eval i %tmp%
+done
+if %arg% == lista
+* mostro la lista
+eval ogg %self.inventory%
+   while %ogg%
+      eval temp2 %ogg.next_in_list%
+      %echo% &e%self.name% dice, 'Posso venderti %ogg.shortdesc% per %ogg.cost% monete'&0
+      %purge% %ogg%
+      wait 1 s
+      eval ogg %temp2%
+   done
+halt
+end
+* vende l'oggetto se c'e' in inventario
+eval nosell vero
+eval prodotto %self.inventory%
+while %prodotto%
+   eval temp3 %prodotto.next_in_list%
+   if %prodotto.shortdesc% /= %arg%
+      if %actor.gold% < %prodotto.cost%
+         %send% %actor.name% &r%self.name% ti dice, 'Ti servono %prodotto.cost% monete e tu ne hai solo %actor.gold%.'&0
+         eval nosell falso
+      else
+         %send% %actor.name% &r%self.name% ti dice, 'Affare fatto.'&0
+         %actor.gold(-%prodotto.cost%)%
+         %load% obj %prodotto.vnum% %actor% inv
+         eval nosell falso
+      end
+   end
+   %purge% %prodotto%
+   eval prodotto %temp3%
+done
+if %nosell% == vero
+   %send% %actor.name% &r%self.name% ti dice, 'Non vendo quella roba.'&0
+end
+~
+/s
+q
+y

@@ -1,0 +1,108 @@
+trigedit 20150
+6  
+/c 
+* Lista comandi
+wait 1
+if %speech% == scusate || %speech% == salve || %speech% == vino
+switch %random.11%
+case 1
+wait 1
+say Si'? Se volete del vino sono qui per servirvi...
+break
+case 2
+wait 1
+say Si'? Se volete del vino sono qui per servirvi...
+break
+case 3
+wait 1
+say Ditemi quale vino volete gustare e io saro' lieto di porgervene una coppa.
+break
+case 4
+wait 1
+say Gradite forse un bicchiere di buon &7Portello bianco&0?
+break
+case 5
+wait 1
+say Forse vi aggrada gustare del &1fruttato rosso&0 di Lamorka?
+break
+case 6
+wait 1
+say Se posso permettermi un consiglio, abbiamo dell'ottimo &1&xLamorketto&0.
+break
+case 7
+wait 1
+say Forse vossignoria potrebbe gradire il nostro &5&xrosato&0 dell'Argentario.
+break
+case 8
+wait 1
+say Prego, sono ai vostri ordini.
+break
+case 9
+wait 1
+say Ditemi pure, desiderate forse del vino?
+break
+case 10
+wait 1
+say Per un dopopasto, non c'e' niente di meglio di un amaro digestivo.
+break
+case 11
+wait 1
+say Se siete amanti della birra posso darvi un'ottima birra speciale: I sei malti del Drago.
+break
+default
+wait 1
+say Si'? Se volete del vino sono qui per servirvi...
+break
+done
+elseif %speech% == lista
+say Ecco la disponibilita' :
+say &1&xLamorketto&0, un rosso appena dolce ottimo con la carne.
+say &5&xArgentario&0, rosato da abbinare con qualsiasi portata.
+say &1Fruttato&0,   dolcissimo con frutta tritata.
+say &7Portello&0,   l'eccezionale bianco di mia produzione.
+say &2&xAmaro&0,      un eccellente digestivo.
+say &3Drago&0,      una birra speciale di sei malti selezionati.
+elseif %speech% == portello || %speech% == bianco
+say Ah, ve ne intendete dunque!
+%load% obj 28012
+emote versa dell'ottimo &7Portello bianco&0 dentro un bicchierino.
+say Ecco a voi.
+give portello %actor.name%
+elseif %speech% == rosato || %speech% == argentario 
+say Come desiderate!
+%load% obj 28010
+emote solleva una bottiglia di &5&xrosato&0 dell'Argentario.
+emote ne versa lentamente il contenuto in un bicchiere a calice.
+wait 1
+say Ecco a voi.
+give argentario %actor.name%
+elseif %speech% == lamorketto
+say Ai vostri ordini!
+%load% obj 28013
+emote versa un po' di pregiato &1&xLamorketto&0 in un bicchiere.
+say Bevetelo lentamente per assaporarne il gusto, mi raccomando.
+give lamorketto %actor.name%
+elseif %speech% == fruttato
+%load% obj 28011
+say Come preferite!
+emote spilla del &1fruttato rosso&0 da una botte.
+say Sentirete che delizia!
+give fruttato %actor.name%
+elseif %speech% == birra || %speech% == malti || %speech% == drago
+%load% obj 28015
+say Benissimo, una birra in arrivo!
+emote afferra una cannula e versa una birra densa e profumata in un boccale.
+say Sono sicuro che vi piacera'!
+give drago %actor.name%
+elseif %speech% == amaro || %speech% == digestivo
+%load% obj 28014
+say Vi servo subito!
+emote prepara un bicchierino.
+emote tira fuori una bottiglia lavorata a forma di... si direbbe un faro.
+say Ecco qui, e' molto forte!
+give amaro %actor.name%
+end
+~
+/s
+q
+y

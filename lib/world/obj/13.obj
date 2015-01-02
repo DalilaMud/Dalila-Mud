@@ -1,0 +1,845 @@
+#1300
+Una clava di pietra~
+Una clava di pietra~
+Una mortale clava di pietra e' qui a terra nella polvere~
+Un'enorme clava con le insegne dell'esercito di pietra
+~
+5 65804 8193
+15 4 12 9 100 100
+100 0 0 76 4 2
+#1301
+daikatana katana spada~
+La Daikatana~
+Una lunga e lavoratissima spada orientale e' piantata nel terreno.~
+Questa lunga Katana tipica dei samurai e' usurata e temprata da sangue secco, ma comunque risaltano la splendida lavorazione e i finissimi rilievi tipici del sol levante.
+~
+5 805308992 8193
+-2 4 16 12 1 1
+60 40000 0 117 0 0
+E
+look daikatana~
+Questa lunga Katana tipica dei samurai e' usurata e temprata da sangue secco, ma comunque risaltano la splendida lavorazione e i finissimi rilievi tipici del sol levante.
+~
+A
+19 3
+A
+13 5
+A
+25 1
+A
+2 -1
+A
+18 -4
+#1302
+Una picca da guerra~
+Una lunga picca da guerra~
+Una picca da guerra appertenuta ai guerrieri di Shundar e' qui a terra~
+Questa picca e' tra le piu' lavorate e potenti che tu abbia mai visto
+~
+5 805372684 8193
+15 4 12 7 100 100
+70 0 0 81 0 0
+#1303
+lama spada~
+La lama del loto~
+La lama Lythis giace qui a terra.~
+~
+5 805308433 8193
+2 1 20 12 100 100
+12 0 0 65 0 0
+T 1300
+A
+13 -70
+A
+18 -5
+C
+16779776 0 0 0
+#1304
+fiore loto~
+Il fiore di loto~
+&W&9Un nerissimo fiore di loto giace a terra liberando un delizioso profumo!!&0~
+~
+12 0 1
+0 0 0 0 3 3
+1 0 0 1 0 0
+#1305
+fiore loto~
+&4il loto blu&0~
+&4Un fiore di loto bluastro brilla alla luce della luna!!&0~
+~
+1 64 1
+0 0 -1 0 10 10
+4 0 0 66 0 0
+T 1301
+C
+16 0 0 0
+#1306
+pozione vita~
+La pozione della vita~
+La leggendaria pozione della vita e' ai tuoi piedi!~
+~
+10 0 1
+1 28 28 28 3 3
+1 0 0 1 0 0
+#1307
+fiore loto rosso~
+&1Un grande fiore rosso&0~
+&1Un enorme, rarissimo fiore di loto rosso trasuda la sua linfa come una piccola fontana!&0~
+~
+23 80 24576
+20 20 13 10 20 20
+25 30000 0 1 0 0
+#1308
+La cotta dei guerrieri di Shundar~
+La cotta dei guerrieri di Suhndar~
+La cotta di maglia con le effigi di Shundar il grande e' qui per terra~
+La riconosci. Quante volte i tuoi occhi in battaglia hanno visto simboli come quelli su questa cotta. Sono i simboli di Shundar, attento, potrebbero essere ancora intorno i suoi guerrieri!
+~
+9 65576 9
+15 0 0 0 100 100
+70 0 0 108 0 0
+C
+16777216 0 0 0
+#1309
+ferro ferraglia resti~
+Inutile ferraglia~
+I resti fracassati di qualche macchina da guerra sono accumulati sul terreno!~
+~
+13 64 0
+0 0 0 0 100 100
+350 0 0 1 0 0
+E
+pick altare~
+Non sapresti neanche da dove cominciare, e' un enorme blocco pietroso!
+~
+E
+undefined~
+
+~
+#1310
+disco acciaio~
+Il magico disco rotante d'acciaio~
+Uno stranissimo disco dentato ruota velocissimo a mezz'aria!!~
+~
+5 0 8705
+-3 2 20 3 100 100
+5 0 0 122 0 0
+A
+19 4
+A
+2 -2
+A
+17 15
+C
+4398080065536 0 0 0
+#1311
+gli zoccoli di ferro~
+gli zoccoli di ferro~
+Massicci zoccoli di ferro battuto giacciono qui, sporchi di fango.~
+~
+9 192512 65
+0 0 0 0 10 10
+20 0 0 347 0 0
+E
+look serp~
+potrebbe lontanamente assomigliare a una chiave..
+~
+A
+14 120
+A
+14 120
+A
+19 6
+C
+33566720 0 0 0
+#1312
+La runa del Fuoco~
+La runa del Fuoco~
+Una runa dai poteri magici e' qui a terra~
+Incastonata in questa runa c'e' una piccola sfera e all'interno di essa arde una piccola fiamma inestinguibile.
+~
+12 524288 16385
+0 0 0 0 100 100
+10 0 0 101 4 0
+C
+2 0 0 0
+#1313
+La runa della Foresta.~
+La runa della Foresta~
+Una runa con incisi i simboli sacri degli elfi silvani e' qui per terra.~
+Guardando attentamente questa runa scopri i segni lasciati da antichi druidi elfici. E' sicuramente la seconda runa che cercano i soldati di Shundar.
+~
+12 524288 16385
+0 0 0 0 100 100
+5 0 0 1 0 0
+#1314
+La fontana della locanda~
+La &6fontana&0 della locanda.~
+Una piccola fontana e' qui incastrata alla parete.~
+
+~
+23 0 1
+1000000 1000000 15 0 100 100
+1000000 0 0 1 4 0
+E
+fontana~
+La fontana, interamente scavata nella roccia del muro, e' sovrastata da una
+lunga mensola sulla quale sono disposti i bicchieri che i viandanti usano per
+rinfrescarsi.    
+~
+#1315
+medaglia oro vittoria~
+&1La medaglia della vittoria&0~
+Una splendente medaglia di platino brilla a terra!~
+~
+3 1026 16389
+30 2 2 92 15 15
+1 0 0 46 0 0
+E
+guarda medaglia~
+La splendida medaglia che stai osservando e' stata rilasciata dal supremo
+paladino di redferne agli eroi che con estremo coraggio e con il sacrificio di
+molti compagni liberarono la fortezza dalla presenza del clan del serpente e
+dagli assalti del clan del lupo.  Una frase e' incisa sul retro e sembra
+brillare di luce magica..    
+&1LUNGA VITA AGLI EROI!!&0
+~
+A
+17 -6
+C
+4096 0 0 0
+#1316
+Il tesoro dei predoni~
+Il tesoro dei predoni~
+Il tesoro dei predoni e' qui~
+Uno scrigno stracolmo di monete d'oro e di oggetti preziosi
+~
+15 0 1
+1000 1 -1 0 100 100
+100 10 0 1 2 0
+#1317
+cartello~
+&8Il cartello del saggio&0~
+Un cartello di marmo con bassorilievi e' inchiodato alla parete della cella!~
+~
+12 0 0
+0 0 0 0 1 1
+600 0 0 1 0 0
+E
+guard cart~
+Alcuni bassorilievi sono incisi sul cartello..
+
+&1Solo le solide mura della prigione ti faranno assaporare il piacere e la liberta' di esserne fuori&0
+
+&1La cella rende l'uomo libero dal male che alberga fuori e lo rende consapevole dei suoi valori&0
+~
+#1318
+rosa lipseth blu~
+&4La piccola rosa di Lipseth&0~
+&4Una splendida rosa blu dai morbidi petali riposa sul terreno&0~
+Nothing.
+~
+8 0 16385
+30 4 6 7 100 100
+1 100 100 1 0 0
+#1319
+Armatura d'oro e diamanti~
+Un'armatura d'oro e diamanti~
+Un'armatura splendente e' qui.~
+E' un'armatura incredibilmente bella.  Tutta d'oro intarsiata di diamanti che
+sul torace formano uno stemma come quello di Cimmura.  Un prodigio di
+lavorazione nanesca.    
+~
+9 0 9
+100 0 0 0 100 100
+1 0 0 413 1 5
+E
+armatura~
+E' un'armatura incredibilmente bella.  Tutta d'oro intarsiata di diamanti che
+sul torace formano uno stemma come quello di Tolnedra.  Un prodigio di
+lavorazione elfica.    
+~
+#1320
+Un medaglione antico~
+Un medaglione antico~
+Un medaglione segnato dal tempo e' qui.~
+E' un grosso medaglione sorretto da una catena d'oro.  In mezzo ad esso e'
+disegnato un globo infuocato e tutto attorno vedi la scritta &3Mallorean&0.  
+
+~
+12 0 5
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+medaglione~
+E' un grosso medaglione sorretto da una catena di ferro.  In mezzo ad esso e'
+disegnato un globo infuocato e tutto attorno vedi la scritta &1Mallorean&0.  
+
+~
+#1321
+Frange lucenti~
+Delle frange lucenti~
+Delle frange lucenti sono qui.~
+Lunghi fili legati assieme da un laccio in pelle.  Da essi vedi scaturire una
+luce magica.  Deve trattarsi sicuramente dei crini di un pegaso.    
+~
+0 0 257
+0 0 0 0 100 100
+0 0 0 1 0 0
+E
+frange~
+Lunghi fili legati assieme da un laccio di pelle.  Da essi vedi scaturire una
+luce magica.  Deve trattarsi sicuramente dei crini fatati di un pegaso.    
+~
+#1322
+anello nuziale Redarion Delsenora~
+L'anello nuziale di &6Redarion&2 e &3Delsenora&0~
+Uno splendido anello e' qui~
+
+~
+11 524288 3
+0 0 0 0 100 100
+1 500000 0 1 3 0
+E
+anello~
+L'anello di &2smeraldo&0 ha la forma di un &5drago&0 attorciliato che si morde
+la coda.  I suoi occhi di &1rubino&0 sono splendenti e le sue scaglie luccicano
+per le intarsiature di &7diamente&0.    
+~
+#1323
+Altare Magno~
+L'altare magno.~
+Un altare coperto interamente di fiori e' qui al centro della stanza.~
+~
+15 0 1
+100 15 1324 0 100 100
+150 0 0 1 4 0
+E
+altare~
+L'altare scoplito nel marmo, e' un opera di pregevolissima fattura.  Pare che
+per costruirlo, siano stati incaricati i migliori scultori di tutta la Daresia.
+  
+~
+#1324
+Chiave dell'altare~
+Una chiave d'oro~
+Una chiave d'oro massiccio e' qui a terra~
+Facendo ruotare la chiave in senso orario senti scattare la serratura
+dell'altare.    
+~
+18 0 1
+0 0 0 0 100 100
+1 0 0 1 1 5
+E
+chiave~
+La chiave d'oro e' a forma di serpente che si morde la coda.  Solo chi la
+possiede, sa il segreto che essa apre.    
+~
+#1325
+Elegante corona da regina~
+Elegante &3corona&0 da &1regina&0~
+Una splendinda corona giace qui.~
+Sicuramente una tra le piu' splendide corone che tu abbia mai visto.  La sua
+bellezza e' paragonabile solo a chi la sta portando.    
+~
+12 0 17
+0 0 0 0 100 100
+2 0 0 1 1 5
+#1326
+medaglia corsa~
+&1La medaglia dell'arcobaleno&0~
+&1La mitica medaglia della corsa dei cavalli arcobaleno giace in terra!!&0~
+~
+12 0 5
+0 0 0 0 100 100
+1 30000 0 53 0 0
+E
+look meda~
+Un grande nome e' inciso in bassorilievi sul disco dorato..
+
+&1   F   E   R   T   A   L &0
+
+Che vinse la gara superando eccellentemente ogni avversario!
+~
+A
+6 2
+#1328
+incudine~
+L'incudine~
+Una massiccia incudine d'acciaio e' incavata nel terreno!~
+~
+48 0 1
+0 0 0 0 100 100
+600 0 0 1 0 0
+#1329
+ciuccio~
+un ciuccio~
+Un ciuccio e' stato lasciato qui.~
+~
+12 1024 524289
+0 0 0 0 100 100
+1 0 0 0 0 0
+#1331
+Un progetto~
+In progetto di un telescopio~
+Un foglio con dei segni confusi di matita e' qui.~
+~
+90 0 1
+0 0 0 0 100 100
+1 0 0 1 0 0
+E
+progetto~
+Sul progetto sono disegnati tutti i passaggi per la creazione di un grande
+telescopio.  Sul fondo vedi anche il materiale necessario segnato in &2rosso&0.
+  
+~
+#1332
+cintura meditazione~
+la cinta della meditazione~
+La mitica cintura della meditazione e' qui a terra~
+~
+9 0 1
+11 0 0 0 100 100
+1 30000 0 39 0 0
+T 1311
+#1333
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+5 805830912 8321
+10 30 6 10 100 100
+5 0 0 -626 1 5
+E
+spada~
+L'elsa lunga e' ricoperta da lacci di cuoio.  La lama d'oro lucente e'
+seghettata all'inizio mentre affilata in punta.  Non hai mai visto un'arma come
+questa.  Sicuramente si tratta di una delle famigerate armi elfiche.    
+~
+#1334
+Bianco medaglione~
+Un bianco medaglione~
+Un medaglione che risplende di luce bianca e' qui a terra~
+~
+11 256 5
+0 0 0 0 100 100
+3 0 0 1 0 0
+#1335
+arco metallo yin~
+Il mortale arco dello Yin~
+Un magnifico arco di metallo nerissimo brilla a terra!~
+~
+28 0 8193
+3 0 0 0 100 100
+10 3000 0 709 1 1
+A
+2 2
+A
+18 7
+A
+19 4
+C
+132136 0 0 0
+#1336
+freccia ebano~
+la freccia d'ebano~
+Una stupenda freccia intagliata nell'ebano e' qui in terra!~
+~
+32 0 16385
+0 10 5 0 3 3
+1 0 0 3 2 0
+#1337
+torta enorme panna~
+L'IMMENSA TORTA DELLA RIMPATRIATA ~
+&1Una torta con le figurine di tanti vecchi eroi e' qui sui tuoi piedi :)&0~
+~
+19 0 1
+100 0 0 0 100 100
+50 0 0 1 0 0
+#1339
+FREE FOR USE~
+FREE FOR USE~
+FREE FOR USE~
+Nothing.
+~
+12 0 0
+0 0 0 0 100 100
+10 0 0 49 0 0
+A
+1 2
+A
+8 7
+#1340
+rosa~
+&1La rosa di Vetkin&0~
+&0Una stupenda rosa &1rossa&0 come il sangue e' candidamente appoggiata a terra per te!~
+~
+12 0 1
+0 0 0 0 1 1
+0 0 0 1 0 0
+E
+look rosa~
+Sui petali della rosa sono state incredibilmente incise alcune parole..
+
+&1..mie dolci fanciulle 
+&1   ..non disperate perche' sono ancora tra voi..
+&1..e saro' lieto di avervi presto mie ospiti
+
+&3Vostro adorato Vetkin&0
+~
+#1345
+armatura lupo~
+&1L'armatura del lupo&0~
+Un'armatura cristallina ricca di minerali brilla in terra..&0~
+~
+9 16400 9
+15 0 0 0 100 100
+0 0 0 100 0 0
+A
+1 1
+C
+4096 0 0 0
+#1348
+Lancia mitica~
+una semplice lancia~
+Una lancia e' qui a terra.~
+~
+5 9395429376 8193
+4 5 8 7 100 100
+0 0 0 210 0 0
+A
+18 5
+A
+19 4
+#1349
+Anello di nozze di Tajmaku e Ceredwren~
+L'&3anello&0 di nozze di &4Tajmaku&0 e &6Ceredwren&0~
+Uno stupendo anello d'&3oro&0 e &6argento&0 intrecciato e' posato qui a terra.~
+~
+11 0 3
+0 0 0 0 100 100
+1 0 0 1 1 5
+E
+anello~
+Questo anello e' formato da una parte in &3oro&0 e una in &6argento&0 che si
+intrecciano formando un legame inscindibile come l'amore delle persone che lo
+portano.    
+~
+#1350
+GADGET Amanu~
+Il Sacro GADGET di &8&7Amanu&0~
+E' uno strano strumento ha cosi tanti angoli e utensili che non riesci a capirne il funzionamento.~
+~
+8 8589934592 1
+0 0 0 0 100 100
+0 0 0 1 0 0
+#1351
+regalo ska~
+Il regalo di compleanno per Garrick~
+Un pacco regalo e' qui.~
+E' pieno di fiocchi, sembra proprio un pacco regalo!!!
+~
+15 0 1
+200 5 -1 0 100 100
+30 0 0 1 0 0
+#1352
+fiori giardino~
+&1Un giardino fiorito&0~
+&2Tantissimi &3F&1i&5o&6r&7i &2cospargono l'aria di un delizioso profumo!!!~
+~
+10 0 0
+90 88 41 45 10 10
+1 0 0 1 0 0
+#1353
+chiave viandante~
+La chiave del viandante~
+La chiave del viandante aprira' la dispensa di Brollo!~
+~
+35 0 1
+0 0 0 0 1 1
+1 0 0 1 0 0
+#1355
+bastone loto~
+&9Il super bastone mortale di Faymond :)&0~
+Il lungo bastone ferrato appartenuto al fratello Tausil del loto giace in terra emanando potere!~
+~
+3 0 1
+90 10 10 7 100 100
+40 0 0 1 0 0
+#1360
+trappola mina~
+La mina del serpente~
+Una mina esplosiva confezionata dagli artificieri del serpente e' pronta ad esplodere!~
+~
+87 0 1
+2 100 0 70 100 100
+7 300 0 1 0 0
+#1363
+perizoma rosa~
+&5Un perizoma rosa&0~
+Il perizoma rosa di sir Longinus giace a terra inusato!~
+~
+9 0 2049
+0 0 0 0 1 1
+1 0 0 1 0 0
+#1366
+ferro ovest pietra~
+Il ferro dell'ovest~
+Una pietra di ferro dell'ovest e' qui!~
+~
+48 0 1
+0 0 0 0 30 30
+10 0 0 1 1 0
+#1367
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+25 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0
+#1368
+campanaccio profetessa~
+&3Il campanaccio della profetessa&0~
+Un grosso campanaccio e' qui tutto infangato!~
+~
+12 0 16385
+0 0 0 0 20 20
+4 0 0 1 0 0
+T 1368
+#1369
+PURGATORE~
+IL PURGATORE~
+Il terribile purgatore e' qui~
+~
+5 0 3
+0 0 0 0 100 100
+10 0 0 1 0 0
+T 2520
+E
+purgatore~
+E' il terribile PURGATORE!
+~
+#1370
+chitarra paan~
+una chitarra~
+Una bella chitarra finemente lavorata giace in triste silenzio!!~
+~
+12 0 8193
+0 0 0 0 30 30
+2 3000 0 1 0 0
+T 1370
+E
+guarda chitarra~
+E' uno splendido esemplare, di legno pregiato e corde di ricercatissimo
+metallo.  Morbida ed essenziale, il suo suono e' dolce e accordato.  Sembra
+aspettare solo che Paan, il suo proprietario, la stringa per intonare dolci
+sonetti!!    
+~
+#1371
+il plettro~
+Il plettro~
+Un plettro da chitarra in avorio e' qui!~
+~
+0 0 16385
+0 0 0 0 1 1
+1 0 0 1 0 0
+T 1370
+#1372
+fiala~
+una fiala vuota~
+Netzherald, il demone, e' fuggito da questa fiala abbandonata!!! ~
+~
+8 0 1
+0 0 0 0 10 10
+1 0 0 1 0 0
+#1373
+cuore sikh~
+&1Il cuore di Sikh&0~
+&1Il cuore ancora pulsante di Sikh giace a terra!&0~
+~
+8 0 8388609
+0 0 0 0 100 100
+10 300000 0 1 0 0
+#1374
+cuore Makud~
+&7Il cuore di Makud&0~
+&7Il cuore di Makud pulsa di energia a terra&0~
+~
+8 0 8388609
+0 0 0 0 100 100
+1 0 0 1 0 0
+#1375
+cuore garrick~
+&9Il cuore di Garrick&0~
+&9Il nero cuore di Garrick pulsa di energia, semiinvisibile tra le ombre&0~
+~
+8 0 8388609
+0 0 0 0 100 100
+1 30000 0 1 0 0
+#1376
+cuore eomer~
+&6Il cuore di Eomer&0~
+&6Il cuore di Eomer fluttua pulsando a mezz'aria&0~
+~
+8 0 8388609
+0 0 0 0 100 100
+1 0 0 1 0 0
+#1377
+pedana teletrasporto~
+una pedana di granito nero~
+Una pedana di granito nera con su incisa una runa d'oro.~
+~
+12 524302 0
+0 0 0 0 100 100
+1000 1000 0 1 4 2
+T 4
+#1381
+chiave teschio~
+La chiave del teschio~
+Una chiave con inciso un piccolo teschio in ebano e' qui in terra~
+~
+35 0 16385
+0 0 0 0 1 1
+1 0 0 1 0 0
+#1390
+violino~
+Il violino di Issyl~
+Un grande e finissimo violino brilla e galleggia a mezz'aria!~
+~
+4 64 16385
+90 13 13 7 30 30
+1 2000 0 1 0 0
+#1391
+loto fiore bianco~
+&7Il loto bianco&0~
+&7Un piccolissimo fiore di loto bianco giace in terra rinsecchito&0~
+~
+10 0 1
+80 25 25 25 1 1
+1 0 0 1 0 0
+E
+look fiore~
+&7Un piccolo fiore di un bianco spento....  Non sai perche' ma il suo profumo
+ti fa venir voglia di trangugiarlo..  &0
+~
+#1392
+anello fede nuziale caos zaira~
+&3La fede nuziale di &7Caos &3e &4Zaira&0~
+La fede nuziale di Caos e Zaira splende in terra, perduta!!~
+~
+8 0 3
+0 0 0 0 100 100
+0 2000 0 1 0 0
+#1393
+gabbia~
+&x&3Una gabbia dorata&0~
+&x&3Una bellissima gabbia dorata e' qui.. &1Un delizioso uccellino cinguetta da dentro!!&0~
+~
+8 0 1
+0 0 0 0 0 0
+10 30000 0 1 0 0
+#1394
+libro lupo~
+&2Il libro del lupo&0~
+&1Un libro con la copertina in pietra e' fissato ad una roccia.~
+~
+16 0 1
+0 0 0 0 10 10
+600 0 0 1 0 0
+E
+leggi libro~
+&1Cenni sulla fuga del lupo&0
+&7Il clan del lupo, rudimentale popolo di robusti minatori ed eccellenti addestratori di lupi, viveva a nord del 
+territorio dominato dal drago pacificamente. Quando comincio' la guerra che spacco' il mondo a meta', si trovo'
+schiacciato tra le forze del serpente da un lato, e quelle del loto dall'altro. Decimati e malridotti, i membri 
+del clan si riunirono in un gruppo guidato dal forte Grayback, e cominciarono il loro vagabondaggio.
+Grazie soprattutto ai micidiali berserker, il clan del lupo sopravvive tuttora a qualsiasi sfida e rappresenta
+una pericolosa minaccia per i luoghi in cui si sposta tentando di ricostruire la propria stirpe stabilmente.
+~
+#1395
+libro~
+&7Un libro del serpente&0~
+&4Un mistico libro dalle pagine di metallo e' appoggiato ad una grande teca di quarzo&0~
+~
+16 16 0
+0 0 0 0 3 3
+1 0 0 1 0 0
+E
+leggi libro~
+&1La leggenda del Serpente
+&5Si narra che in tempi antichi il mondo fu spaccato in due. Da una parte gli antenati del drago
+presero possesso delle terre dell'est, dall'altra il loto e il serpente si contesero il
+territorio per decenni, cacciando il lupo dalle loro terre.
+Tra questi clan, il serpente e' la corruzione e la vilta', la lama stretta e micidiale e l'onore
+irrimediabilmente caduto. Samurai senza storia e senza padrone, banditi e predoni, ninja dalle
+mani di veleno, corrotte prostitute tagliagole seguono fedelmente il volere di Shinja delle
+spade. Questi prese il potere in seguito alla morte del fratello Kazan, e della fuga del figlio
+Vetkin, un guerriero micidiale ma irrimediabilmente soggetto al fascino femminile, ardente
+di liberta' e viscido come la vipera. 
+Nessuno fugge dal serpente e vive. Ma Vetkin continua le sue scorribande e le sue passioni
+piu' veloce dell'ombra che incombe su di lui, e disposto a tutto pur di raggiungere una
+misteriosa geisha che pare gli abbia rapito il cuore. E dove va porta sfortuna, poiche' il
+serpente porta oscurita' e razzie dove si muove.
+
+&6cap. 3 4 1 - Tao il saggio&0
+~
+#1396
+libro~
+&6Un libro del loto&0~
+&1Un libro dalle pagine metalliche e' inchiodato ad un albero&0~
+Prova prova prova
+~
+16 0 1
+0 0 0 0 10 10
+600 0 0 1 0 0
+E
+leggi libro~
+Nothing.
+&1Cenni sul clan del Loto&0
+&3Il clan del loto, conosciuto anche come l'orda dannata, e' una mistica e oscura gilda che ha 
+espanso le sue radici attorno a tutto il territorio del drago. Custodi di misteriosi segreti e
+dalle origini sconosciute, i membri del loto sono uomini abituati sin da appena nati ad
+assumere sostanze nocive e velenose, cosi' che i loro corpi nel corso della crescita crescono
+orribilmente mutati, tanto da contrarre apparenze mostruose.
+Al comando del loto vi sono i Warlock, potenti stregoni, comandati da Zymeth. Poco altro si sa
+se non che se capita di imbattersi nei loro territori difficilmente se ne esce.
+Nella grande guerra del mondo spaccato il Loto perse meta' dei suoi territori contro il
+serpente, e si dice mediti una terribile vendetta.
+~
+#1397
+pozione benzina fuoco~
+La pozione del soffio di fuoco~
+Una pozione che contiene un liquido altamente infiammabile e' in terra.~
+~
+10 0 1
+5 58 0 0 5 5
+0 0 0 1 0 0
+#1398
+panino~
+&7Un panino al Longinus&0~
+Un panino ripieno di.. ehm.. boh... giace qui in terra.~
+~
+19 0 1
+1 0 0 0 10 10
+1 0 0 1 0 0
+#1399
+sai pugnale~
+Il Sai di Vetkin~
+Un lungo e strano pugnale appuntito e' in terra..~
+~
+5 268435526 8193
+2 6 10 14 100 100
+5 30000 0 274 1 0
+E
+look sai~
+Uno stupendo, lungo pugnale privo di lama ma estremamente aguzzo, con una lunga
+elsa ricurva adatta per parare e disarmare i nemici.    
+~
+A
+14 30
+A
+2 2
+C
+67108864 0 0 0
+$~
