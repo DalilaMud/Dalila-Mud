@@ -1,62 +1,38 @@
 yaml = require('js-yaml');
 json2csv = require('json2csv');
 fs   = require('fs');
+parser = require('./parse');
 
-function fixExits(source, room, new_loc, new_dir) {
-  //  var new_rooms = Array ();
-  for (var i = 0; i < source.length; i++) {
-    if (source[i].location === room) {
-        var doors = editExit(source[i].exits, new_loc, new_dir);
-        source[i].exits = doors;
-    //    console.log(source[i]);
-    }
-  //      console.log(source[i]);
-  }
-    // console.log(source);
-          return source;
-}
-function editExit(source, value, new_dir) {
-  var exits = Array();
-  var founded = false;
-  for (var i = 0; i < source.length; i++) {
-    if (source[i].direction === value) {
-        source[i].location = new_dir;
-        founded = true;
-    }
-  //    console.log(source[i]);
-    exits.push(source[i]);
-  }
-  return exits;
-}
 
 
 fs.readFile('rooms.json', 'utf8', function (err, data) {
   if (err) {
     console.log('Error: ' + err);
-    return;
+  //  return;
   }
   var rooms = JSON.parse(data);
 
     // Modifiche da applicare ai file wld originali
-    fixExits(rooms, 21201, 'nord', '31');
-    fixExits(rooms, 21301, 'sud', '13');
-    fixExits(rooms, 21385, 'ovest', '30');
-    fixExits(rooms, 21315, 'ovest', '30');
-    
-  var numRooms = rooms.length;
-    
- //   FOR JSON Output    
- //   console.log(rooms);
 
- // FOR YAML output
-  var roomsYaml = yaml.dump (rooms);
-  console.log(roomsYaml);
+    parser.fixRoomExits(rooms, 21201, 'nord', '31');
+    parser.fixRoomExits(rooms, 21201, 'nord', '31'); // Porta nord
+    parser.fixRoomExits(rooms, 21301, 'sud', '13');    //porta sud
+    parser.fixRoomExits(rooms, 21385, 'ovest', '30');  // porta est
+    parser.fixRoomExits(rooms, 21285, 'ovest', 'REM');  // rimozione siamese dream
+    parser.fixRoomExits(rooms, 21314, 'sud', 'REM');  // rimozione kame house
+    parser.fixRoomExits(rooms, 21284, 'alto', 'REM');  // edificio in costruzione
+    parser.fixRoomExits(rooms, 40549, 'alto', 'REM');  // edificio in costruzione
+    parser.fixRoomExits(rooms, 21287, 'sud', 'REM');  // accorcia la via degli dei a sud
+ 
+//    parser.splitZone(rooms, 'chyrellos');
+//    console.log(p);
+    
+ // var numRooms = rooms.length;
+ //  console.log(numRooms);
+    
+    parser.writeOnDisk(rooms, 'roomsFiltered', 'yaml');
+                
 
-  // FOR CSV Output  
-// json2csv({data: rooms, fields: ['location', 'title',]}, function(err, csv) {
-//  if (err) console.log(err);
-//  console.log(csv);
-// });    
     
 
 });
