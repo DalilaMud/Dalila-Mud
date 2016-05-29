@@ -28,7 +28,7 @@
 extern struct room_data *world;
 extern struct obj_data *object_list;
 extern struct char_data *character_list;
-extern struct cha_app_type cha_app[];
+//extern struct cha_app_type cha_app[];
 extern struct int_app_type int_app[];
 extern struct index_data *obj_index;
 extern struct obj_data * obj;

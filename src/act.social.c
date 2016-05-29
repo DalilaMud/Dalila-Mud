@@ -212,7 +212,7 @@ void boot_social_messages(void)
   int nr, i, hide, min_pos, curr_soc = -1;
   char next_soc[100];
   struct social_messg temp;
-  extern struct command_info cmd_info[];
+  //extern const struct command_info cmd_info[];
 
   /* open social file */
   if (!(fl = fopen(SOCMESS_FILE, "r"))) {

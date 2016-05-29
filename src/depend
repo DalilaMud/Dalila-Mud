@@ -1,147 +1,145 @@
-$(OD)/abilita.o: abilita.c conf.h sysdep.h structs.h utils.h comm.h \
- handler.h spells.h interpreter.h db.h olc.h abilita.h house.h \
- screen.h
-$(OD)/act.comm.o: act.comm.c conf.h sysdep.h structs.h utils.h comm.h \
+abilita.o: abilita.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+ spells.h interpreter.h db.h olc.h abilita.h house.h screen.h
+act.comm.o: act.comm.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h screen.h clan.h clan2.h dg_scripts.h
-$(OD)/act.create.o: act.create.c conf.h sysdep.h structs.h utils.h comm.h \
+act.create.o: act.create.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h spells.h
-$(OD)/act.informative.o: act.informative.c conf.h sysdep.h structs.h utils.h \
+act.informative.o: act.informative.c conf.h sysdep.h structs.h utils.h \
  comm.h interpreter.h handler.h db.h spells.h screen.h clan.h \
- wilderness.h olc.h dg_scripts.h
-$(OD)/act.intermud.o: act.intermud.c conf.h sysdep.h structs.h utils.h \
- comm.h db.h interpreter.h handler.h intermud.hh screen.h
-$(OD)/act.item.o: act.item.c conf.h sysdep.h structs.h utils.h comm.h \
- interpreter.h handler.h db.h spells.h dg_scripts.h house.h \
- wilderness.h clan.h
-$(OD)/act.movement.o: act.movement.c conf.h sysdep.h structs.h utils.h \
- comm.h interpreter.h handler.h db.h spells.h house.h dg_scripts.h \
- wilderness.h olc.h events.h
-$(OD)/act.offensive.o: act.offensive.c conf.h sysdep.h structs.h utils.h \
- comm.h interpreter.h handler.h db.h spells.h wilderness.h
-$(OD)/act.other.o: act.other.c conf.h sysdep.h structs.h utils.h comm.h \
+ wilderness.h olc.h dg_scripts.h eserciti.h
+act.item.o: act.item.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h dg_scripts.h house.h wilderness.h \
+ clan.h mestieri.h
+act.movement.o: act.movement.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h house.h dg_scripts.h wilderness.h \
+ olc.h events.h
+act.offensive.o: act.offensive.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h wilderness.h
+act.other.o: act.other.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h spells.h screen.h house.h dg_scripts.h \
  clan.h
-$(OD)/act.social.o: act.social.c conf.h sysdep.h structs.h utils.h comm.h \
+act.social.o: act.social.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h spells.h
-$(OD)/act.wizard.o: act.wizard.c conf.h sysdep.h structs.h utils.h comm.h \
+act.wizard.o: act.wizard.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h spells.h house.h screen.h olc.h \
  dg_scripts.h arena.h wilderness.h clan.h shop.h
-$(OD)/alias.o: alias.c conf.h sysdep.h structs.h utils.h interpreter.h
-$(OD)/arena.o: arena.c conf.h sysdep.h structs.h utils.h comm.h screen.h \
+alias.o: alias.c conf.h sysdep.h structs.h utils.h interpreter.h
+arena.o: arena.c conf.h sysdep.h structs.h utils.h comm.h screen.h \
  spells.h handler.h interpreter.h db.h arena.h
-$(OD)/auction.o: auction.c conf.h sysdep.h structs.h utils.h comm.h \
+auction.o: auction.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h screen.h clan.h auction.h
-$(OD)/ban.o: ban.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ban.o: ban.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
  handler.h db.h
-$(OD)/boards.o: boards.c conf.h sysdep.h structs.h utils.h comm.h db.h \
- boards.h interpreter.h handler.h clan.h
-$(OD)/castle.o: castle.c conf.h sysdep.h structs.h utils.h comm.h \
- interpreter.h handler.h db.h spells.h
-$(OD)/clan.o: clan.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+boards.o: boards.c conf.h sysdep.h structs.h utils.h comm.h db.h boards.h \
+ interpreter.h handler.h clan.h
+castle.o: castle.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ handler.h db.h spells.h
+clan.o: clan.c conf.h sysdep.h structs.h utils.h comm.h db.h \
  interpreter.h spells.h handler.h clan.h shop.h house.h
-$(OD)/clan2.o: clan2.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+clan2.o: clan2.c conf.h sysdep.h structs.h utils.h comm.h db.h \
  interpreter.h spells.h handler.h clan2.h shop.h
-$(OD)/class.o: class.c conf.h sysdep.h structs.h db.h utils.h comm.h \
- spells.h interpreter.h handler.h
-objfiles/comm.o: comm.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+class.o: class.c conf.h sysdep.h structs.h db.h utils.h comm.h spells.h \
+ interpreter.h handler.h
+comm.o: comm.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
  handler.h db.h house.h olc.h screen.h dg_scripts.h arena.h events.h \
  clan.h mestieri.h spells.h
-$(OD)/config.o: config.c conf.h sysdep.h structs.h
-$(OD)/constants.o: constants.c conf.h sysdep.h structs.h
-$(OD)/db.o: db.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+config.o: config.c conf.h sysdep.h structs.h
+constants.o: constants.c conf.h sysdep.h structs.h
+db.o: db.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
  spells.h mail.h auction.h interpreter.h house.h dg_scripts.h \
- wilderness.h shop.h mestieri.h clan.h
-$(OD)/dg_comm.o: dg_comm.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
+ wilderness.h shop.h mestieri.h clan.h eserciti.h
+dg_comm.o: dg_comm.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
  comm.h handler.h db.h
-$(OD)/dg_db_scripts.o: dg_db_scripts.c conf.h sysdep.h structs.h \
- dg_scripts.h utils.h db.h handler.h dg_event.h comm.h
-$(OD)/dg_event.o: dg_event.c conf.h sysdep.h structs.h utils.h dg_event.h
-$(OD)/dg_handler.o: dg_handler.c conf.h sysdep.h structs.h dg_scripts.h \
- utils.h comm.h db.h handler.h dg_event.h
-$(OD)/dg_misc.o: dg_misc.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
+dg_db_scripts.o: dg_db_scripts.c conf.h sysdep.h structs.h dg_scripts.h \
+ utils.h db.h handler.h dg_event.h comm.h
+dg_event.o: dg_event.c conf.h sysdep.h structs.h utils.h dg_event.h
+dg_handler.o: dg_handler.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
+ comm.h db.h handler.h dg_event.h
+dg_misc.o: dg_misc.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
  comm.h interpreter.h handler.h dg_event.h db.h screen.h spells.h
-$(OD)/dg_mobcmd.o: dg_mobcmd.c conf.h sysdep.h structs.h dg_scripts.h db.h \
+dg_mobcmd.o: dg_mobcmd.c conf.h sysdep.h structs.h dg_scripts.h db.h \
  utils.h handler.h interpreter.h comm.h spells.h
-$(OD)/dg_objcmd.o: dg_objcmd.c conf.h sysdep.h structs.h screen.h \
- dg_scripts.h utils.h comm.h interpreter.h handler.h db.h
-$(OD)/dg_olc.o: dg_olc.c conf.h sysdep.h structs.h utils.h comm.h db.h olc.h \
- dg_olc.h dg_scripts.h dg_event.h
-$(OD)/dg_scripts.o: dg_scripts.c conf.h sysdep.h structs.h dg_scripts.h \
- utils.h comm.h interpreter.h handler.h dg_event.h db.h screen.h \
- clan.h
-$(OD)/dg_triggers.o: dg_triggers.c conf.h sysdep.h structs.h dg_scripts.h \
+dg_objcmd.o: dg_objcmd.c conf.h sysdep.h structs.h screen.h dg_scripts.h \
  utils.h comm.h interpreter.h handler.h db.h
-$(OD)/dg_wldcmd.o: dg_wldcmd.c conf.h sysdep.h structs.h screen.h \
- dg_scripts.h utils.h comm.h interpreter.h handler.h db.h
-$(OD)/events.o: events.c conf.h sysdep.h structs.h utils.h queue.h events.h
-$(OD)/fight.o: fight.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+dg_olc.o: dg_olc.c conf.h sysdep.h structs.h utils.h comm.h db.h olc.h \
+ dg_olc.h dg_scripts.h dg_event.h
+dg_scripts.o: dg_scripts.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
+ comm.h interpreter.h handler.h dg_event.h db.h screen.h clan.h spells.h \
+ eserciti.h
+dg_triggers.o: dg_triggers.c conf.h sysdep.h structs.h dg_scripts.h \
+ utils.h comm.h interpreter.h handler.h db.h
+dg_wldcmd.o: dg_wldcmd.c conf.h sysdep.h structs.h screen.h dg_scripts.h \
+ utils.h comm.h interpreter.h handler.h db.h
+eserciti.o: eserciti.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h db.h clan.h eserciti.h
+events.o: events.c conf.h sysdep.h structs.h utils.h queue.h events.h
+fight.o: fight.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
  interpreter.h db.h spells.h screen.h dg_scripts.h arena.h clan.h \
  abilita.h wilderness.h
-$(OD)/go-patrol.o: go-patrol.c conf.h sysdep.h structs.h utils.h comm.h \
+go-patrol.o: go-patrol.c conf.h sysdep.h structs.h utils.h comm.h \
  wilderness.h db.h interpreter.h handler.h clan.h
-$(OD)/graph.o: graph.c conf.h sysdep.h structs.h utils.h comm.h \
- interpreter.h handler.h db.h spells.h
-$(OD)/handler.o: handler.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+graph.o: graph.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ handler.h db.h spells.h
+handler.o: handler.c conf.h sysdep.h structs.h utils.h comm.h db.h \
  handler.h interpreter.h spells.h dg_scripts.h events.h
-$(OD)/house.o: house.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+house.o: house.c conf.h sysdep.h structs.h comm.h handler.h db.h \
  interpreter.h utils.h house.h spells.h
-$(OD)/interpreter.o: interpreter.c conf.h sysdep.h structs.h comm.h \
+interpreter.o: interpreter.c conf.h sysdep.h structs.h comm.h \
  interpreter.h db.h utils.h spells.h handler.h mail.h screen.h olc.h \
  dg_scripts.h
-$(OD)/limits.o: limits.c conf.h sysdep.h structs.h utils.h spells.h comm.h \
- db.h handler.h dg_scripts.h
-$(OD)/magic.o: magic.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
+limits.o: limits.c conf.h sysdep.h structs.h utils.h spells.h comm.h db.h \
+ handler.h dg_scripts.h interpreter.h
+magic.o: magic.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
  handler.h db.h dg_scripts.h
-$(OD)/mail.o: mail.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+mail.o: mail.c conf.h sysdep.h structs.h utils.h comm.h db.h \
  interpreter.h handler.h mail.h
-$(OD)/medit.o: medit.c conf.h sysdep.h structs.h comm.h spells.h utils.h \
- db.h shop.h olc.h handler.h dg_olc.h dg_scripts.h clan.h
-$(OD)/mestieri.o: mestieri.c conf.h sysdep.h structs.h utils.h comm.h \
- handler.h spells.h interpreter.h db.h wilderness.h olc.h events.h \
- mestieri.h dg_scripts.h house.h
-$(OD)/mobact.o: mobact.c conf.h sysdep.h structs.h utils.h db.h comm.h \
+medit.o: medit.c conf.h sysdep.h structs.h comm.h spells.h utils.h db.h \
+ shop.h olc.h handler.h dg_olc.h dg_scripts.h clan.h
+mestieri.o: mestieri.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+ spells.h interpreter.h db.h wilderness.h olc.h events.h mestieri.h \
+ dg_scripts.h house.h
+mobact.o: mobact.c conf.h sysdep.h structs.h utils.h db.h comm.h \
  interpreter.h handler.h spells.h wilderness.h clan.h
-$(OD)/modify.o: modify.c conf.h sysdep.h structs.h utils.h interpreter.h \
+modify.o: modify.c conf.h sysdep.h structs.h utils.h interpreter.h \
  handler.h db.h comm.h spells.h mail.h boards.h olc.h
-$(OD)/objsave.o: objsave.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+objsave.o: objsave.c conf.h sysdep.h structs.h comm.h handler.h db.h \
  interpreter.h utils.h spells.h wilderness.h
-$(OD)/oedit.o: oedit.c conf.h sysdep.h structs.h comm.h spells.h utils.h \
- db.h boards.h shop.h olc.h dg_olc.h dg_scripts.h mestieri.h
-$(OD)/olc.o: olc.c conf.h sysdep.h structs.h interpreter.h comm.h utils.h \
- db.h olc.h screen.h wilderness.h shop.h
-$(OD)/purgeplay.o: purgeplay.c conf.h sysdep.h structs.h utils.h
-$(OD)/quest.o: quest.c conf.h sysdep.h structs.h utils.h handler.h \
+oedit.o: oedit.c conf.h sysdep.h structs.h comm.h spells.h utils.h db.h \
+ boards.h shop.h olc.h dg_olc.h dg_scripts.h mestieri.h
+olc.o: olc.c conf.h sysdep.h structs.h interpreter.h comm.h utils.h db.h \
+ olc.h screen.h wilderness.h shop.h
+purgeplay.o: purgeplay.c conf.h sysdep.h structs.h utils.h
+quest.o: quest.c conf.h sysdep.h structs.h utils.h handler.h \
  interpreter.h comm.h db.h
-$(OD)/queue.o: queue.c conf.h sysdep.h structs.h utils.h queue.h
-$(OD)/random.o: random.c
-$(OD)/redit.o: redit.c conf.h sysdep.h structs.h comm.h utils.h db.h \
- handler.h interpreter.h boards.h olc.h dg_olc.h dg_scripts.h \
- wilderness.h
-$(OD)/regen.o: regen.c conf.h sysdep.h structs.h utils.h spells.h handler.h \
+queue.o: queue.c conf.h sysdep.h structs.h utils.h queue.h
+random.o: random.c
+redit.o: redit.c conf.h sysdep.h structs.h comm.h utils.h db.h handler.h \
+ interpreter.h boards.h olc.h dg_olc.h dg_scripts.h wilderness.h
+regen.o: regen.c conf.h sysdep.h structs.h utils.h spells.h handler.h \
  events.h
-$(OD)/sedit.o: sedit.c conf.h sysdep.h structs.h comm.h utils.h db.h shop.h \
+sedit.o: sedit.c conf.h sysdep.h structs.h comm.h utils.h db.h shop.h \
  olc.h clan.h handler.h
-$(OD)/shop.o: shop.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+shop.o: shop.c conf.h sysdep.h structs.h comm.h handler.h db.h \
  interpreter.h utils.h shop.h clan.h dg_scripts.h
-$(OD)/spec_assign.o: spec_assign.c conf.h sysdep.h structs.h db.h \
- interpreter.h utils.h
-$(OD)/spec_procs.o: spec_procs.c conf.h sysdep.h structs.h utils.h comm.h \
+spec_assign.o: spec_assign.c conf.h sysdep.h structs.h db.h interpreter.h \
+ utils.h
+spec_procs.o: spec_procs.c conf.h sysdep.h structs.h utils.h comm.h \
  interpreter.h handler.h db.h spells.h clan.h mail.h dg_scripts.h
-$(OD)/spell_parser.o: spell_parser.c conf.h sysdep.h structs.h utils.h \
+spell_parser.o: spell_parser.c conf.h sysdep.h structs.h utils.h \
  interpreter.h spells.h handler.h comm.h db.h dg_scripts.h
-$(OD)/spells.o: spells.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
+spells.o: spells.c conf.h sysdep.h structs.h utils.h comm.h spells.h \
  handler.h db.h interpreter.h wilderness.h olc.h clan.h mestieri.h \
  dg_scripts.h
-$(OD)/trains.o: trains.c conf.h sysdep.h structs.h utils.h comm.h \
- interpreter.h handler.h db.h
-$(OD)/utils.o: utils.c conf.h sysdep.h structs.h utils.h comm.h screen.h \
+trains.o: trains.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ handler.h db.h
+utils.o: utils.c conf.h sysdep.h structs.h utils.h comm.h screen.h \
  spells.h handler.h
-$(OD)/weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h \
- handler.h interpreter.h db.h
-$(OD)/wedit.o: wedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h \
+weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+ interpreter.h db.h
+wedit.o: wedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h \
  wilderness.h
-$(OD)/wilderness.o: wilderness.c conf.h sysdep.h structs.h utils.h comm.h \
- wilderness.h db.h interpreter.h handler.h spells.h house.h \
- dg_scripts.h olc.h screen.h telnet.h
-$(OD)/zedit.o: zedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h \
+wilderness.o: wilderness.c conf.h sysdep.h structs.h utils.h comm.h \
+ wilderness.h db.h interpreter.h handler.h spells.h house.h dg_scripts.h \
+ olc.h screen.h telnet.h
+zedit.o: zedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h \
  wilderness.h

@@ -50,7 +50,7 @@ extern struct descriptor_data *descriptor_list;
 extern struct char_data *character_list;
 extern struct obj_data *object_list;
 extern struct title_type titles[NUM_CLASSES][LVL_IMPL + 1];
-extern struct command_info cmd_info[];
+//extern const struct command_info cmd_info[];
 extern struct player_index_element *player_table;
 extern int top_of_p_table;
 extern char *BANNER_1;

@@ -993,8 +993,8 @@ void check_malattia_morfeo(void){
 			if (GET_POS(ch) == POS_SLEEPING)
 				GET_SENZA_DORMIRE(ch) = 0;
 		/* Il "400000 -" dovrebbe essere inutile, ma con questo random non si sa mai... */
-			if ((400000 - number(0, 400000)) < sqrt (GET_SENZA_DORMIRE(ch)))
-				mag_affects (70, ch, ch, DISEASE_MORFEO, 0);
+		//	if ((400000 - number(0, 400000)) < sqrt (GET_SENZA_DORMIRE(ch)))
+		//		mag_affects (70, ch, ch, DISEASE_MORFEO, 0);
 		}
 	}
 }

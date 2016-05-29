@@ -30,7 +30,7 @@ extern struct descriptor_data *descriptor_list;
 extern struct index_data *mob_index;
 extern struct index_data *obj_index;
 extern struct time_info_data time_info;
-extern struct command_info cmd_info[];
+//extern const struct command_info cmd_info[];
 extern struct str_app_type str_app[];
 extern struct dex_app_type dex_app[];
 extern const char *mail_type[];

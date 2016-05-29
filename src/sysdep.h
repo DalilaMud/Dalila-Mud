@@ -196,8 +196,8 @@ typedef int socket_t;
  */
 
 #ifndef HAVE_RANDOM /* prototypes for my own random function */
-void srandom(unsigned long initial_seed);
-unsigned long random(void);
+//void srandom(unsigned long initial_seed);
+//unsigned long random(void);
 #endif
 
 #ifdef __GNUC__
@@ -227,7 +227,7 @@ unsigned long random(void);
 #endif
 
 #ifndef fcntl
-   int fcntl();
+//   int fcntl();
 #endif
 
 #ifndef fflush
@@ -243,7 +243,7 @@ unsigned long random(void);
 #endif
 
 #ifndef fscanf
-   int fscanf();
+//   int fscanf();
 #endif
 
 #ifndef fseek

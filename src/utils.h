@@ -346,11 +346,9 @@ SPECIAL(manovale);
 #define GET_TIME_CATARSI(ch) ((ch)->char_specials.catarsi)
 #define GET_SENZA_DORMIRE(ch) ((ch)->char_specials.secondi_senza_dormire)
 
-//#define GET_COND(ch, i)		((ch)->player_specials->saved.conditions[(i)])
+#define GET_COND(ch, i)		((ch)->player_specials->saved.conditions[(i)])
 
-#define GET_COND(ch,i)	(IS_NPC(ch) ? \
-				     ( (ch)->mob_specials.conditions[(i)]) \
-					: ((ch)->player_specials->saved.conditions[(i)]) )
+//#define GET_COND(ch,i)	(IS_NPC(ch) ? ( (ch)->mob_specials.conditions[(i)]) : ((ch)->player_specials->saved.conditions[(i)]) )
 
 #define GET_LOADROOM(ch)	((ch)->player_specials->saved.load_room)
 #define GET_PRACTICES(ch)	((ch)->player_specials->saved.spells_to_learn)

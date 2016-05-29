@@ -79,7 +79,7 @@ typedef RETSIGTYPE sigfunc(int);
 #endif
 
 #ifndef fcntl
-   int fcntl();
+//   int fcntl();
 #endif
 
 #ifndef getpeername
@@ -104,7 +104,7 @@ typedef RETSIGTYPE sigfunc(int);
 
 
 #ifndef read
-   int read();
+//   int read();
 #endif
 
 #ifndef select
@@ -128,7 +128,7 @@ typedef RETSIGTYPE sigfunc(int);
 #endif
 
 #ifndef write
-   int write();
+//   int write();
 #endif
 
 #endif /* __COMM_C__ */

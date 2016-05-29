@@ -473,7 +473,7 @@ void do_clan_destroy (struct char_data *ch, char *arg)
 		clan[j].diplomacy[i].status=-1;
 		clan[j].diplomacy[i].proposta=-1;
 	}
-	memset(&clan[i], sizeof(struct clan_rec), 0);
+	//memset(&clan[i], sizeof(struct clan_rec), 0);
 	
 	for (j = i; j < num_of_clans - 1; j++)
 		clan[j] = clan[j + 1];

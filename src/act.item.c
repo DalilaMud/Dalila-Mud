@@ -1436,7 +1436,7 @@ ACMD(do_drink)
 		send_to_char ("Trangugitata l'abominevole bevanda non riesci piu' a controllare gli spasmi del tuo stomaco...\r\n", ch);
 		act ("&1$n barcollando raggiunge un muro e vomita orribilmente!&0", FALSE, ch, 0, 0, TO_ROOM);
 		act ("&1Arrivi al primo muro che trovi e vomiti abbondantemente!&0", FALSE, ch, 0, 0, TO_CHAR);
-		GET_COND(ch, DRUNK) = 0;
+		//GET_COND(ch, DRUNK) = 0;
 		if (affected_by_spell(ch, SPELLSKILL, DISEASE_BACCO)){
 			send_to_char ("&6Senti che, nonostante il dolore, l'odioso liquido ti ha giovato...&0\r\n", ch);
 			affect_from_char (ch, SPELLSKILL, DISEASE_BACCO);

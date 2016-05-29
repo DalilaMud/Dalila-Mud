@@ -25,7 +25,7 @@ OBJFILES = comm.o act.comm.o act.informative.o act.movement.o act.item.o \
 	objsave.o olc.o shop.o spec_assign.o spec_procs.o spell_parser.o \
 	spells.o utils.o weather.o redit.o oedit.o zedit.o medit.o sedit.o \
         dg_comm.o dg_db_scripts.o dg_event.o dg_handler.o dg_mobcmd.o \
-        dg_objcmd.o dg_scripts.o dg_triggers.o dg_wldcmd.o dg_olc.o act.intermud.o \
+        dg_objcmd.o dg_scripts.o dg_triggers.o dg_wldcmd.o dg_olc.o \
         queue.o events.o regen.o wilderness.o wedit.o mestieri.o abilita.o go-patrol.o \
 		clan2.o dg_misc.o eserciti.o
 
@@ -54,14 +54,14 @@ all: .accepted
 
 circle:
 	$(MAKE) ../bin/circle
-autowiz:
-	$(MAKE) ../bin/autowiz
+#autowiz:
+#	$(MAKE) ../bin/autowiz
 #delobjs:
 #	$(MAKE) ../bin/delobjs
 #listrent:
 #	$(MAKE) ../bin/listrent
-mudpasswd:
-	$(MAKE) ../bin/mudpasswd
+#mudpasswd:
+#	$(MAKE) ../bin/mudpasswd
 #play2to3:
 #	$(MAKE) ../bin/play2to3
 #purgeplay:
@@ -78,14 +78,14 @@ mudpasswd:
 #	$(MAKE) ../bin/wld2html
 
 
-../bin/autowiz: util/autowiz.c conf.h sysdep.h structs.h utils.h db.h
-	$(CC) $(CFLAGS) -o ../bin/autowiz util/autowiz.c
+#../bin/autowiz: util/autowiz.c conf.h sysdep.h structs.h utils.h db.h
+#	$(CC) $(CFLAGS) -o ../bin/autowiz util/autowiz.c
 #../bin/delobjs: util/delobjs.c conf.h sysdep.h structs.h
 #	$(CC) $(CFLAGS) -o ../bin/delobjs util/delobjs.c
 #../bin/listrent: util/listrent.c conf.h sysdep.h structs.h
 #	$(CC) $(CFLAGS) -o ../bin/listrent util/listrent.c
-../bin/mudpasswd: util/mudpasswd.c conf.h sysdep.h structs.h utils.h
-	$(CC) $(CFLAGS) -o ../bin/mudpasswd util/mudpasswd.c -lcrypt
+#../bin/mudpasswd: util/mudpasswd.c conf.h sysdep.h structs.h utils.h
+#	$(CC) $(CFLAGS) -o ../bin/mudpasswd util/mudpasswd.c -lcrypt
 #../bin/play2to3: util/play2to3.c
 #	$(CC) $(CFLAGS) -o ../bin/play2to3 util/play2to3.c
 #../bin/purgeplay: util/purgeplay.c conf.h sysdep.h structs.h utils.h
@@ -227,8 +227,6 @@ utils.o: utils.c conf.h sysdep.h structs.h utils.h comm.h screen.h spells.h \
 weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
   interpreter.h db.h
 	$(CC) -c $(CFLAGS) weather.c
-act.intermud.o: act.intermud.c sysdep.h structs.h utils.h comm.h db.h interpreter.h handler.h intermud.hh screen.h
-	$(CC) -c $(CFLAGS) act.intermud.c
 redit.o: redit.c conf.h sysdep.h structs.h utils.h comm.h handler.h interpreter.h boards.h \
   db.c olc.h dg_olc.h
 	$(CC) -c $(CFLAGS) redit.c
