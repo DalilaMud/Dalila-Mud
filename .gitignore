@@ -1,4 +1,13 @@
-*.json
-*.yml
-*.csv
+# Node build artifacts
+node_modules
+npm-debug.log
 
+# Local development
+*.csv
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
