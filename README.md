@@ -18,11 +18,11 @@ Qui sono raccolti tutti i file sorgenti ed i files del mondo di Dalila + alcuni 
 * Procfile
 * public
 
-## export
+## Export
 Per far funzionare gli export
 
     php inport.php  // importa (al momento solo le rooms) in un unico files rooms.json
     npm install      // installare i moduli aggiuntivi di node 
     node export.js   // esporta il diversi formati, al momenti json, yaml, csv
     
-# Happy Mudding ^^
+### Happy Mudding ^^

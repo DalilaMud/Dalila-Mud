@@ -1,13 +1,17 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.5",
+  "name": "dalila-node-js-mud-client",
+  "version": "0.1.1",
   "description": "A sample Node.js app using Express 4",
   "engines": {
     "node": "5.9.1"
   },
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
+    "heroku-postbuild": "echo This runs afterwards.",
+    "start": "node index.js",
+    "test": "cd src && ls && echo \"Happy Mudding ^^\" exit 1",
+    "postinstall": "echo This runs after install."
   },
   "dependencies": {
     "ejs": "2.4.1",
@@ -15,12 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/DalilaMud/Dalila-Mud"
   },
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "express",
+    "mud"
   ],
+  "author": "Nobody Work For You.",
   "license": "MIT"
 }
