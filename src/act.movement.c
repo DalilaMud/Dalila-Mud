@@ -21,7 +21,7 @@
 #include "house.h"
 #include "dg_scripts.h"
 #include "wilderness.h"
-#include "olc.h"
+//#include "olc.h"
 #include "events.h"
 
 /* external vars  */

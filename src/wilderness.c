@@ -10,7 +10,7 @@
 #include "spells.h"
 #include "house.h"
 #include "dg_scripts.h"
-#include "olc.h"
+//#include "olc.h"
 #include "screen.h"
 #include "telnet.h" //Orione
 
@@ -256,7 +256,7 @@ void wild_index_map_load()
     // Per le miniwild invece 2xx00.map
 
     numero = atoi(buf1);
-    if ((numero=real_zone(numero*100))==-1)
+    if ((numero=numero*100)==-1)
       {
       log("Zona non esistente nell'indice delle mappe wilderness e miniwild");
       exit(1);
@@ -393,7 +393,7 @@ void wild_index_special_load()
     // Per le miniwild invece 2xx00.wld
 
     numero = atoi(buf1);
-    if ((numero=real_zone(numero*100))==-1)
+    if ((numero=numero*100)==-1)
       {
       log("Zona non esistente nell'indice delle stanza speciali (.wld) wilderness e miniwild");
       exit(1);
@@ -1131,7 +1131,7 @@ void wilderness_draw_type( struct char_data *ch, BOOL graphWildON )
 					 // If graphic wild is active...
 					 if  ( graphWildON != FALSE )
 						  {
-							if  ( miniwild ) r = real_room( MINIWILD_VNUM( real_zone( vch ), x , y ) );
+							if  ( miniwild ) r = real_room( MINIWILD_VNUM( vch , x , y ) );
 							else             r = real_room( WILD_VNUM( x, y ) );
 
 							cellPtr = MakeConversion( GET_WILD_TABLE( r ).index );
@@ -1164,7 +1164,7 @@ void wilderness_draw_type( struct char_data *ch, BOOL graphWildON )
 					 // If graphic wild is active...
 					 if  ( graphWildON != FALSE )
 						  {
-							if  ( miniwild ) r = real_room( MINIWILD_VNUM( real_zone( vch ), x, y ) );
+							if  ( miniwild ) r = real_room( MINIWILD_VNUM( vch , x, y ) );
 							else             r = real_room( WILD_VNUM( x, y ) );
 
 							cellPtr = MakeConversion( GET_WILD_TABLE( r ).index );
@@ -1188,7 +1188,7 @@ void wilderness_draw_type( struct char_data *ch, BOOL graphWildON )
 //							if  ( ! miniwild && wilderness_los( ch, x, y, chcoord.x, chcoord.y ) ) // PER ORA NIENTE LOS
 							if  ( 1 )
 								 {
-								  if  ( miniwild ) r = real_room( MINIWILD_VNUM( real_zone( vch ), x, y ) );
+								  if  ( miniwild ) r = real_room( MINIWILD_VNUM( vch , x, y ) );
 								  else             r = real_room( WILD_VNUM( x, y ) );
 
 								  if  ( ROOM_FLAGGED( r, ROOM_NO_DRAW ) ) mobs = 0;
@@ -1436,7 +1436,7 @@ int miniwild = IS_IN_MINIWILD(ch);
     {
     for(x= MAX(chcoord.x-view_range,MWILD_RXOR); x <= MIN(chcoord.x+view_range,MWILD_RXEN); x++)
       {
-      if (miniwild) r = real_room(MINIWILD_VNUM(real_zone(world[ch->in_room].number),x,y));
+      if (miniwild) r = real_room(MINIWILD_VNUM(world[ch->in_room].number,x,y));
       else r=real_room(WILD_VNUM(x,y));
       if (ROOM_FLAGGED(r, ROOM_LANDMARK) && r!=ch->in_room)
         {
@@ -1518,7 +1518,7 @@ extern struct spell_info_type spell_info[];
     {
     for(x= MAX(chcoord.x-x_view_range,MWILD_RXOR); x <= MIN(chcoord.x+x_view_range,MWILD_RXEN); x++)
       {
-      if (miniwild) r = real_room(MINIWILD_VNUM(real_zone(vch), x, y));
+      if (miniwild) r = real_room(MINIWILD_VNUM(vch, x, y));
       else r=real_room(WILD_VNUM(x,y));
       if ((world[r].people) && r!=ch->in_room)
         {
@@ -1589,7 +1589,7 @@ int wild_mobhunter(struct char_data * ch)
       {
       for(x= MAX(chcoord.x-range,MWILD_RXOR); x <= MIN(chcoord.x+range,MWILD_RXEN); x++)
         {
-        if (miniwild) r = real_room(MINIWILD_VNUM(real_zone(vch), x, y));
+        if (miniwild) r = real_room(MINIWILD_VNUM(vch, x, y));
         else r=real_room(WILD_VNUM(x,y));
         for (k=world[r].people; k; k=k->next_in_room)
           if (CAN_SEE(ch, k) && WILDHUNT(ch)==k)
@@ -1622,7 +1622,7 @@ int wild_mobhunter(struct char_data * ch)
     {
     for(x= MAX(chcoord.x-range,MWILD_RXOR); x <= MIN(chcoord.x+range,MWILD_RXEN); x++)
       {
-      if (miniwild) r = real_room(MINIWILD_VNUM(real_zone(vch), x, y));
+      if (miniwild) r = real_room(MINIWILD_VNUM(vch, x, y));
       else r=real_room(WILD_VNUM(x,y));
       for (k=world[r].people; k; k=k->next_in_room)
         if (!IS_NPC(k) && CAN_SEE(ch, k) && !PRF_FLAGGED(k, PRF_NOHASSLE))
@@ -1636,7 +1636,7 @@ int wild_mobhunter(struct char_data * ch)
     {
     for(x= MAX(chcoord.x-range,MWILD_RXOR); x <= MIN(chcoord.x+range,MWILD_RXEN); x++)
       {
-      if (miniwild) r = real_room(MINIWILD_VNUM(real_zone(vch), x, y));
+      if (miniwild) r = real_room(MINIWILD_VNUM(vch, x, y));
       else r=real_room(WILD_VNUM(x,y));
       for (k=world[r].people; k; k=k->next_in_room)
       if (ch!= k && !IS_NPC(k) && CAN_SEE(ch, k) && !PRF_FLAGGED(k, PRF_NOHASSLE) &&

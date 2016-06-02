@@ -21,7 +21,7 @@
 #include "screen.h"
 #include "clan.h"
 #include "wilderness.h"
-#include "olc.h"
+//#include "olc.h"
 #include "dg_scripts.h"	//Orione
 #include "eserciti.h"
 
@@ -1662,10 +1662,11 @@ ACMD(do_score)
 		sprintf(buf+strlen(buf), "Sei finita in una deathtrap %d volte.\r\n", GET_DT_CNT(ch));
 	else
 		sprintf(buf+strlen(buf), "Sei finito in una deathtrap %d volte.\r\n", GET_DT_CNT(ch));
-	
+/*	
 	if (GET_OLC_ZONE(ch)>0)
 		sprintf(buf+strlen(buf), "Sei gestore di un feudo (da %d a %d).\r\n", GET_OLC_ZONE(ch)*100, zone_table[real_zone(GET_OLC_ZONE(ch)*100)].top);
-	if (GET_ASHOP(ch)>0)
+*/	
+  if (GET_ASHOP(ch)>0)
 		sprintf(buf, "%sSei gestore di un negozio (numero %d).\r\n", buf, GET_ASHOP(ch));
 	
 	

@@ -20,7 +20,7 @@
 #include "spells.h"
 #include "mail.h"
 #include "boards.h"
-#include "olc.h"
+//#include "olc.h"
 
 /*
  * Function declarations.
@@ -597,7 +597,7 @@ void string_add(struct descriptor_data *d, char *str)
 	if (terminator) {
     /*
      * OLC Edits
-     */
+     *
 		extern void oedit_disp_menu(struct descriptor_data *d);
 		extern void oedit_disp_extradesc_menu(struct descriptor_data *d);
 		extern void redit_disp_menu(struct descriptor_data *d);
@@ -622,10 +622,11 @@ void string_add(struct descriptor_data *d, char *str)
 			}
 		}
 #endif
-		
+*/		
     /*
      * Here we check for the abort option and reset the pointers.
      */
+/*
 		if ((terminator == 2) &&
 			((STATE(d) == CON_REDIT) ||
 				(STATE(d) == CON_MEDIT) ||
@@ -639,14 +640,16 @@ void string_add(struct descriptor_data *d, char *str)
 			d->backstr = NULL;
 			d->str = NULL;
 		}
+*/
     /*
      * This fix causes the editor to NULL out empty messages -- M. Scott 
      * Fixed to fix the fix for empty fixed messages. -- gg
      */
-		else if ((d->str) && (*d->str) && (**d->str == '\0')) {
+		if ((d->str) && (*d->str) && (**d->str == '\0')) {
 			free(*d->str);
 			*d->str = str_dup("Nothing.\r\n");
 		}
+/*
 		if (STATE(d) == CON_MEDIT)
 			medit_disp_menu(d);
 		if (STATE(d) == CON_TRIGEDIT)
@@ -678,7 +681,8 @@ void string_add(struct descriptor_data *d, char *str)
 					wedit_disp_menu(d);
 					break;
 			}    
-		} else if (!d->connected && (PLR_FLAGGED(d->character, PLR_MAILING))) {
+		} else */
+    if (!d->connected && (PLR_FLAGGED(d->character, PLR_MAILING))) {
 			if ((terminator == 1) && *d->str) {
 				store_mail(d->mail_to, GET_IDNUM(d->character), *d->str);
 				SEND_TO_Q("Message sent!\r\n", d);

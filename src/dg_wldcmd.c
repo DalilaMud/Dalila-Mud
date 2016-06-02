@@ -34,7 +34,7 @@ long long int asciiflag_conv(char *flag);
 char_data *get_char_by_room(room_data *room, char *name);
 room_data *get_room(char *name);
 obj_data *get_obj_by_room(room_data *room, char *name);
-int real_zone(room_vnum number);
+//int real_zone(room_vnum number);
 
 
 #define WCMD(name)  \
@@ -165,7 +165,8 @@ WCMD(do_wzoneecho)
     if (!*zone_name || !*msg)
 	wld_log(room, "wzoneecho called with too few args");
 
-    else if ((zone = real_zone(atoi(zone_name))) < 0)
+    //else if ((zone = real_zone(atoi(zone_name))) < 0)
+    else if ((zone = atoi(zone_name)) < 0)
 	wld_log(room, "wzoneecho called for nonexistant zone");
 
     else { 

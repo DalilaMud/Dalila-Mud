@@ -20,7 +20,7 @@
 #include "db.h"
 #include "interpreter.h"
 #include "wilderness.h"
-#include "olc.h"
+//#include "olc.h"
 #include "clan.h"
 #include "mestieri.h"
 #include "dg_scripts.h"	//Orione

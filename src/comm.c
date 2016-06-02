@@ -39,7 +39,7 @@
 #include "handler.h"
 #include "db.h"
 #include "house.h"
-#include "olc.h"
+//#include "olc.h"
 #include "screen.h"
 #include "dg_scripts.h"
 #include "arena.h"
@@ -78,7 +78,7 @@ extern struct room_data *world;	/* In db.c */
 extern int top_of_world;	/* In db.c */
 extern struct time_info_data time_info;		/* In db.c */
 extern char help[];
-extern const char *save_info_msg[];	/* In olc.c */
+//extern const char *save_info_msg[];	/* In olc.c */
 extern int in_arena;
 struct char_data *last_ch;
 char last_command[MAX_STRING_LENGTH];
@@ -375,8 +375,8 @@ void init_game(int port)
 	
 	CLOSE_SOCKET(mother_desc);
 	//CLOSE_SOCKET(intermud_desc);
-	
-	if (circle_reboot != 2 && olc_save_list) { /* Don't save zones. */
+/* Rimozione OLC	
+	if (circle_reboot != 2 && olc_save_list) { // Don't save zones.
 		struct olc_save_info *entry, *next_entry;
 		
 		for (entry = olc_save_list; entry; entry = next_entry) {
@@ -406,7 +406,7 @@ void init_game(int port)
 			}
 		}
 	}
-	
+*/	
 	if (circle_reboot) {
 		log("Rebooting.");
 		exit(52);			/* what's so great about HHGTTG, anyhow? */
@@ -1860,7 +1860,7 @@ void close_socket(struct descriptor_data *d)
   }
 
   /*. Kill any OLC stuff .*/
-  switch(d->connected) { 
+/*  switch(d->connected) { 
   	case CON_OEDIT:
 	  case CON_REDIT:
 	  case CON_ZEDIT:
@@ -1870,7 +1870,7 @@ void close_socket(struct descriptor_data *d)
 	  default:
 		  break;
   }
-
+*/
 /* In questo modo faccio scollegare anche il descrittore
 dei pg nei menu di inizializzazione gilda - Chardhros 2/5/2001 */
 

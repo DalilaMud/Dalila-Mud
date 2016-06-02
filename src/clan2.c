@@ -28,8 +28,8 @@ extern struct descriptor_data *descriptor_list;
 extern struct char_data *is_playing(char *vict_name);
 extern int top_of_p_table;
 extern struct player_index_element *player_table;
-int real_zone(room_vnum number);
-void sedit_save_to_disk(int zone);
+//int real_zone(room_vnum number);
+//void sedit_save_to_disk(int zone);
 
 
 void new_show_status_regno(struct char_data *ch);
@@ -381,9 +381,9 @@ void do_new_clan_destroy (struct char_data *ch, char *arg)
 	 if (SHOP_CLAN(shop_nr)==new_clan[i].id)
 		{
 		SHOP_CLAN(shop_nr)= -1;
-		zone = real_zone(SHOP_ROOM(shop_nr,0));
-		if (zone!=-1)
-		  sedit_save_to_disk(zone);
+		zone = SHOP_ROOM(shop_nr,0);
+		/*if (zone!=-1)
+		  sedit_save_to_disk(zone);*/
 		}
 	 }
 

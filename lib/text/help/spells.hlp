@@ -1,0 +1,1165 @@
+"ACID ARROW"
+
+Uso         : cast 'acid arrow' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+Le tue mani creano e lanciano una freccia di liquido acido diretta al bersaglio!
+
+#
+"ACID BREATH"
+
+Uso         : cast 'acid breath' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"ANIMATE DEAD"
+
+Uso         : cast 'animate dead' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+
+#
+ARMOR
+
+Uso         : cast 'armor' [bersaglio]
+Eff.Accumul.: No
+Durata      : 24 Ore
+Livello     : 
+
+The Armor spell will improve your AC by 2.
+
+Vedi anche: AC
+#
+BARKSKIN
+
+Uso         : cast 'barkskin' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"BLADE BARRIER"
+
+Uso         : cast 'blade barrier' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+BLESS
+
+Uso         : cast 'bless' <victim | object>
+Eff.Accumul.: No
+Durata      : 6 Ore, permanent for objects.
+Livello     : 
+
+Bless on a victim will improve the victims saving throw versus spells
+by 1, and furthermore improve the hitroll by 2.
+
+Bless on an item currently has no defined action.  It is only possible
+to bless non-evil items, and the object blessed may weigh no more
+than five pounds per livello of caster. 
+#
+
+BLINDNESS
+
+Uso         : cast 'blindness' <victim>
+Eff.Accumul.: No
+Durata      : 2 Ore.
+Livello     : 
+
+Blindness will blind a victim failing its saving throw.
+A blinded person will have -4 penalty to both hitroll and AC.
+
+Vedi anche: AC
+#
+BLINK
+
+Uso         : cast 'blink' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"BREATH WATER"
+
+Uso         : cast 'breath water' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"BURNING HANDS"
+
+Uso         : cast 'burning hands' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Le tue mani emettono fiamme mentre tenti di toccare l'avversario.
+
+Vedi anche: "CHILL TOUCH"
+#
+"CALL LIGHTNING"
+
+Uso         : cast 'call lightning' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Tenti di assumere il controllo di un potente fulmine per scagliarlo sul tuo nemico.
+
+Vedi anche: "CONTROL WEATHER", WEATHER
+#
+
+CAST
+
+Uso  : cast '<spell name>' [bersaglio]
+
+For "magical" people.  If you want to throw a spell at someone or something.
+
+Example:
+
+  > cast 'burning hands' <player>
+  Note that the name of the spell must be enclosed by "'"s.
+
+Vedi anche: help on each individual spell:
+
+Examples:
+
+  > help cure ligh
+  > help ventri
+  > help energy drain
+#
+"CHAIN LIGHTNING"
+
+Uso         : cast 'chain lightning' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"CHARM PERSON"
+
+Uso         : cast 'charm person' <victim>
+Eff.Accumul.: No
+Durata      : (432/Intelligence points of person) Ore
+Livello     : 
+
+Is is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher livello than
+yourself.  The person will get a saving throw versus "paralysation".
+
+A charmed person will follow you, and not be able to attack you, you
+can order the charmed person using the order command.
+
+Vedi anche: FOLLOW, ORDER
+#
+"CHILL TOUCH"
+
+Uso         : cast 'chill touch' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Tenti di congelare l'avversario toccandolo con le tue mani.
+
+Vedi anche: "MAGIC MISSILE"
+#
+CLONE
+
+Uso         : cast 'clone' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+COLORSPRAY "COLOR SPRAY"
+
+Uso         : cast 'color spray' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Lanci uno spruzzo di magici (e letali) colori in faccia all'avversario.
+
+Vedi anche: "LIGHTNING BOLT"
+
+For help on actual color, see:  ANSI
+#
+"CONE OF COLD"
+
+Uso         : cast 'cone of cold' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"CONJURE ELEMENTAL"
+
+Uso         : cast 'conjure elemental' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"CONTINUAL LIGHT"
+
+Uso         : cast 'continual light'
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"CONTROL WEATHER"
+
+Uso         : cast 'control weather' <'better' | 'worse'>
+Eff.Accumul.: Si
+Durata      : -
+Livello     : 
+
+This spell will change the "course" of the current weather.
+
+Example:
+
+  > cast 'control wea' worse
+#
+COOK                  
+
+Uso         : cook
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"CREATE FOOD"
+
+Uso         : cast 'create food'
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+This spell instantly creates a fresh waybread.  The waybread will be
+filling for the next (5+livello) Ore, up to a maximum of 24 Ore.
+
+Vedi anche: "CREATE WATER"
+#
+"CREATE LIGHT"
+
+Uso         : cast 'create light'
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+
+#
+"CREATE WATER"
+
+Uso         : cast 'create water' <drink container>
+Eff.Accumul.: No
+Durata      : Istantanea
+Livello     : Cleric livello 2.
+
+Expect disastrous results if cast upon a drink container which contains
+another liquid than water.  Empty or water containers will be filled
+depending on the livello of the caster.
+
+Double amount of water will be created if it is raining (or worse).
+
+Vedi anche: "CREATE FOOD"
+#
+"CURE BLIND"
+
+Uso         : cast 'cure blind' <victim>
+Eff.Accumul.: No
+Durata      : Istantanea
+Livello     : 
+
+This spell will cure a person blinded by the "blindness" spell, it
+can not remove blindness caused by for example cursed items.
+#
+"CURE CRITIC"
+
+Uso         : cast 'cure critic' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+This spell cures 3d8+3 hitpoints of damage.
+#
+"CURE LIGHT"
+
+Uso         : cast 'cure light' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+Cures minor wounds and scratches.
+#
+"CURE SERIOUS"          
+
+Uso         : cast 'cure serious' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+CURSE
+
+Uso         : cast 'curse' <victim | object>
+Eff.Accumul.: Si
+Durata      : 7 Days, permanent on objects.
+Livello     : 
+
+Curse cast on a person that fails the saving throw, will reduce their
+hitroll and damage roll both by one.  It will also reduce the saving
+throw versus paralysation by one. 
+
+When cast upon an object, the object will become undropable.
+#
+"DEATH DANCE"           
+
+Uso         : cast 'death dance' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+"DETECT ALIGNMENT"
+
+Uso         : cast 'detect alignment'
+Eff.Accumul.: Si (Durata  )
+Durata      : 12 Ore + livello
+Livello     : 
+
+Allows the caster to detect the alignment of those around them.
+Evil will show as a red aura, good in a blue aura.
+
+Vedi anche: "DETECT INVISIBILITY"
+#
+"DETECT INVISIBILITY"
+
+Uso         : cast 'detect invisibility' [self]
+Eff.Accumul.: Si (Durata  )
+Durata      : 12 Ore + livello/4
+Livello     : 
+
+This spell enables you to see invisible items and players.
+#
+"DETECT MAGIC"
+
+Uso         : cast 'detect magic' [self]
+Eff.Accumul.: Si (Durata  )
+Durata      : 12 Ore + livello
+Livello     : 
+
+This spell will let you see the magical aura surrounding magical
+objects.
+#
+"DETECT POISON"
+
+Uso         : cast 'detect poison' <victim | food | drink>
+Eff.Accumul.: No
+Durata      : Istantanea
+Livello     : 
+
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+
+Cast on a person you will be able to see if that person is
+poisoned.
+#
+DISINTEGRATE          
+
+Uso         : cast 'disintegrate' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"DISPEL EVIL"
+
+Uso         : cast 'dispel evil' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Special
+
+Tenti di dissolvere nel nulla un nemico con allineamento malvagio. (evil)
+Se la vittima non e' malvagia, l'attacco non ha effetto.
+
+Vedi anche: DISPEL GOOD
+#
+"DISPEL GOOD"
+
+Uso         : cast 'dispel good' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Special
+
+Tenti di dissolvere nel nulla un nemico con allineamento buono. (good)
+Se la vittima non e' buona, l'attacco non ha effetto.
+
+Vedi anche: DISPEL EVIL
+#
+"DISPEL MAGIC"
+
+Uso         : cast 'dispel magic' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Special
+
+#
+
+EARTHQUAKE
+
+Uso         : cast 'earthquake'
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : -
+
+Tenti di provocare un terribile terremoto.
+E' uno spell d'area che colpisce tutti i presenti escluso il caster.
+
+#
+"ENCHANT WEAPON"
+
+Uso         : cast 'enchant weapon' <weapon>
+Eff.Accumul.: No
+Durata      : Permanent
+Livello     : 
+
+This spell will enchant non-magical (non-modifying) weapons only.
+By non-modifying weapons we refer to weapons that might alter any
+ability such as for example damage.  The only way to know if a weapon
+is suitable for enchantment is to fully identify it.
+
+The enchantment will modify the weapon as:
+
+    Livello  Hit Roll    Damage
+
+     0..17     +1         +1
+    18..19     +2         +1
+    20..20+    +2         +2
+#
+"ENERGY DRAIN"
+
+Uso         : cast 'energy drain' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Succhi l'energia vitale del tuo nemico, sottraendogli xp (parte dei quali ti vengono aggiunti).
+
+Questo spell fa' diventare malvagi molto velocemente.
+
+#
+"ENHANCED DAMAGE"       
+
+Uso         : skill automatico
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"EVOCATE DRAGON"        
+
+Uso         : cast 'evocate dragon' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"EVOCATE GREATER MONSTER"  
+
+Uso         : cast 'evocate greater monster' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"EVOCATE MONSTER"       
+
+Uso         : cast 'evocate monster' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"EVOCATE ZOMBIE"        
+
+Uso         : cast 'evocate zombie' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+FEAR                  
+
+Uso         : cast 'fear' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+FEAST                 
+
+Uso         : cast 'feast' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"FIFTH ATTACK"          
+
+Uso         : skill automatico
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+FIREBALL
+
+Uso         : cast 'fireball' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Crei una possente palla di fuoco e la lanci contro il tuo nemico.
+
+Vedi anche: "COLOR SPRAY"
+#
+"FIRE BREATH"           
+
+Uso         : cast 'fire breath' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+FIRESHIELD            
+
+Uso         : cast 'fireshield' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"FLAME ARROW"           
+
+Uso         : cast 'flame arrow' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+Le tue mani si infuocano e lanciano una freccia infuocata diretta al bersaglio!
+
+#
+FLY                   
+
+Uso         : cast 'fly' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+FORGE                 
+
+Uso         : forge [oggetto]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"FOURTH ATTACK"         
+
+Uso         : cast 'fourth attack' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"FROST BREATH"          
+
+Uso         : cast 'frost breath' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GAS BREATH"            
+
+Uso         : cast 'gas breath' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP ARMOR"           
+
+Uso         : cast 'group armor' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP BREATH WATER"    
+
+Uso         : cast 'group breath water' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP FLY"             
+
+Uso         : cast 'group fly' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP HEAL"            
+
+Uso         : cast 'group heal' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP INVIS"           
+
+Uso         : cast 'group invis' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP PROT FROM EVIL"  
+
+Uso         : cast 'group prot from evil' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"GROUP RECALL"          
+
+Uso         : cast 'group recall' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+HARM
+
+Uso         : cast 'harm' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Il tuo tocco causa un dolore insostenibile alla vittima.
+
+#
+"HEROES FEAST"          
+
+Uso         : cast 'heroes feast' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+HEAL
+
+Uso         : cast 'heal' <victim>
+Eff.Accumul.: No
+Durata      : Istantanea
+Livello     : 
+
+Heal will heal all the hitpoints from a person, except 1d4 points.
+Maximum 100 points can be healed.  A victim who is blinded will also
+be cured by the heal spell.
+
+Vedi anche: "CURE BLINDNESS"
+#
+IDENTIFY
+
+Uso         : cast 'identify' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+INFRAVISION
+
+Uso         : cast 'infravision'
+Eff.Accumul.: Si (Durata  )
+Durata      : 12 Ore + livello
+Livello     : 
+
+Allows the caster to detect the heat given off by objects giving them
+the ability to have much better vision in dark conditions.
+
+Vedi anche: "DETECT INVISIBILITY"
+#
+INVISIBILITY
+
+Uso         : cast 'invisibility' <victim | object>
+Eff.Accumul.: Si (Durata  )
+Durata      : 24 Ore, permanent on objects.
+Livello     : 
+
+Makes the target of the spell invisible to everyone except those who have
+the "detect invisibility" spell.
+
+Attacking while invisible will immediately break the spell.
+
+Vedi anche: "DETECT INVISIBILITY"
+#
+LEVITATE              
+
+Uso         : cast 'levitate' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"LIGHTNING BREATH"      
+
+Uso         : cast 'lightning breath' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"LIGHTNING BOLT"
+
+Uso         : cast 'lightning bolt' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Crei un fulmine e lo scagli contro il tuo avversario.
+
+Vedi anche: "SHOCKING GRASP"
+#
+
+"LOCATE OBJECT"
+
+Uso         : cast 'locate object' <object>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+If possible you will know exactly where an object is, or the
+name of the person using it.  If more than one object by the
+same name exists, you will get a listing of several objects.
+The maximum number of objects you can simultaneously locate is
+your livello divided by 2.
+#
+"LOCATE TARGET"         
+
+Uso         : cast 'locate target' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"MAGIC MISSILE"
+
+Uso         : cast 'magic missile' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Un lampo di energia magica viene lanciato verso la vittima.
+Il danno e' basso.
+
+#
+"MATERIALIZE ARMOR"
+
+Uso         : cast 'materializa armor'
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : 
+
+#
+"MATERIALIZE WEAPON"
+
+Uso         : cast 'materializa weapon'
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : 
+
+
+#
+"MINUTE METEOR"         
+
+Uso         : cast 'minute meteor' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"MIRROR IMAGE"          
+
+Uso         : cast 'mirror image' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+PARRY                 
+
+Uso         : parry
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+PARALIZE                 
+
+Uso         : cast 'paralize' <vittima>
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+
+#
+PEACE                 
+
+Uso         : cast 'peace' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"PICK LOCK"             
+
+Uso         : pick [porta,cancello,ecc]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+PORTAL                
+
+Uso         : cast 'portal' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"PROTECT FROM FIRE"     
+
+Uso         : cast 'protect from fire' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+PUNCH                 
+
+Uso         : punch  [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+POISON
+
+Uso         : cast 'poison' <victim | food | drink>
+Eff.Accumul.: Si on persons.
+Durata      : Livello Ore, or permanent on food and drinks.
+Livello     : 
+
+Serve ad avvelenare nemici, cibi e bevande.
+Chi usa i cibi e le bevande avvelenate, ovviamente a sua volta ne resta avvelenato.
+Una persona o mob avvelenato, perde hp ogni ora, perde forza e rischia di morire se non viene curato.
+
+Vedi anche: "REMOVE POISON", "DETECT POISON"
+#
+"PROTECTION FROM EVIL"
+
+Uso         : cast 'protection from evil' [self]
+Eff.Accumul.: Si (Durata  )
+Durata      : 24 Ore
+Livello     : 
+
+The meaning of this spell is not yet fully defined.
+#
+REFRESH               
+
+Uso         : cast 'refresh' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+RELOCATE              
+
+Uso         : cast 'relocate' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"REMOVE CURSE"
+
+Uso         : cast 'remove curse' <victim | object>
+Eff.Accumul.: No
+Durata      : Istantanea
+Livello     : 
+
+Will remove a curse on carried objects or any persons in the room.
+#
+"REMOVE POISON"
+
+Uso         : cast 'remove poison' <victim | food | drink> 
+Eff.Accumul.: No
+Durata      : Istantanea
+Livello     : 
+
+Will remove the affects of poison from a victim or an object.
+
+Vedi anche: POISON
+#
+SANCTUARY
+
+Uso         : cast 'sanctuary' [self]
+Eff.Accumul.: Si (Durata  )
+Durata      : 4 Ore
+Livello     : 
+
+When protected by sanctuary you will only receive 1/2 the normal damage
+caused by a particular blow.
+
+Vedi anche: ARMOR, BLESS
+#
+SCAN
+
+Uso         : scan
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+SCRIBE
+
+Uso         : scribe
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"SECOND ATTACK"
+
+Uso         : skill automatico
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+SHIELD
+
+Uso         : cast 'shield' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"SHOCKING GRASP"
+
+Uso         : cast 'shocking grasp' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell for half damage.
+
+Trasmetti una potente scarica elettrica al tuo nemico semplicemente toccandolo.
+
+Vedi anche: "BURNING HANDS"
+#
+"SENSE LIFE"
+
+Uso         : cast 'sense life'
+Eff.Accumul.: Si (Durata  )
+Durata      : (Livello) Ore.
+Livello     : 
+
+Allows the caster to sense the presence of a player or monster in the
+room which is hiding.  The true identity will remain hidden however.
+Invisible persons are also considered hidden.
+
+Vedi anche: HIDE
+#
+SLEEP
+
+Uso         : cast 'sleep' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+SNEAK
+
+Uso         : sneak
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+SPOT
+
+Uso         : spot
+Eff.Accumul.: No
+Durata      : 
+Livello     :
+
+Comando utile nella wilderness (la mappa con visuale dall'alto).
+Se il comando ha successo, vi viene detto chi c'e' nelle vicinanze (mob e giocatori).
+Ha un raggio maggiore dello scan.
+ 
+#
+STONESKIN
+
+Uso         : cast 'stoneskin' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+STRENGTH
+
+Uso         : cast 'strength' <victim>
+Eff.Accumul.: Si
+Durata      : Livello/2 + 4
+Livello     : 
+
+A person will gain 1 strength point per spell (2 points if livello of
+caster is greater than 18).  Maximum strength is 18/100.
+#
+SUMMON
+
+Uso         : cast 'summon' <victim>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+Will summon a person of the name spoken.  It is not possible to
+summon someone of three or more livello above yourself.
+If you attempt to summon a monster, it will get a saving throw.
+
+Vedi anche: NOSUMMON
+#
+"SUMMON ANCIENT DRAGON"
+
+Uso         : cast 'summon ancient dragon' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+TELEPORT
+
+Uso         : cast 'teleport' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+"THIRD ATTACK"
+
+Uso         : skill automatico
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+TRACK
+
+Uso         : track [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+
+VENTRILOQUATE
+
+Uso         : cast 'ventriloquate' <victim | object> <text>
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+Save        : Versus spell victim only sees attempted cast.
+
+For all people in the same room as the caster that fail a saving throw, the
+spell will make the object or victim appear to say the text written.
+
+Example:
+
+  > cast 'vent' Mirlen I got 399,823 coins, don't even consider killing me!
+#
+WATERWALK
+
+Uso         : cast 'waterwalk' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+WIZARDEYE
+
+Uso         : cast 'wizardeye'
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+
+#
+
+"WORD OF RECALL"
+
+Uso         : cast 'word of recall' 
+Eff.Accumul.: -
+Durata      : Istantanea
+Livello     : 
+
+The caster will be transferred back to his hometown sanctuary (usually the
+Temple of Midgaard).
+#
+WRAITHFORM
+
+Uso         : cast 'wraithform' [bersaglio]
+Eff.Accumul.: No
+Durata      : 
+Livello     : 
+
+#
+$

@@ -14,7 +14,7 @@
 #include "spells.h"
 #include "interpreter.h"
 #include "db.h"
-#include "olc.h"
+//#include "olc.h"
 #include "abilita.h"
 #include "house.h"
 #include "screen.h"

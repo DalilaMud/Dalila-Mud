@@ -36,7 +36,7 @@ extern int Obj_to_store_from(struct obj_data * obj, FILE * fl, int locate);
 extern int Ascii_Obj_to_store_from(struct obj_data * obj, FILE * fl, int locate);
 extern int test_and_improve (struct char_data * ch, int skill_num, int test, int prob, int modifier);
 
-extern void redit_save_to_disk(int zone_num);
+//extern void redit_save_to_disk(int zone_num);
 
 int House_undef_clean();
 void Elimina_Cantieri();
@@ -1016,10 +1016,10 @@ void Elimina_Cantieri()
 	  if (!strcmp(world[real_house].name,"Edificio in costruzione"))// || (diff_time > 61))
 	  {
 		world[real_house].name = strdup("Un cantiere abbandonato");
-		world[real_house].description = strdup("Questo cantiere è qui da così tanto tempo ormai che è caduto in disuso.\r\n"
+		world[real_house].description = strdup("Questo cantiere e' qui da cosi' tanto tempo ormai che e' caduto in disuso.\r\n"
 		"Cumuli di terra e qualche trave testimoniano tristemente un'opera iniziata\r\n"
 		"e mai terminata. Speriamo che l'architetto non sia scappato con i soldi!\r\n");
-		redit_save_to_disk(world[real_house].zone);
+		//redit_save_to_disk(world[real_house].zone);
 		sprintf(vnum,"%d",house_control[i].vnum);
         	hcontrol_destroy_house(0, vnum);
         	sprintf(buf,"House %d distrutta. Limite di tempo di costruzione o pagamento non effettuato.",house_control[i].vnum);

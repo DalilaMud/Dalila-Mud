@@ -22,11 +22,11 @@ OBJFILES = comm.o act.comm.o act.informative.o act.movement.o act.item.o \
 	castle.o class.o clan.o config.o constants.o db.o fight.o graph.o \
         handler.o act.create.o alias.o quest.o auction.o trains.o arena.o\
 	house.o interpreter.o limits.o magic.o mail.o mobact.o modify.o \
-	objsave.o shop.o spec_assign.o spec_procs.o spell_parser.o \
-	spells.o utils.o weather.o \
+	objsave.o olc.o shop.o spec_assign.o spec_procs.o spell_parser.o \
+	spells.o utils.o weather.o redit.o oedit.o zedit.o medit.o sedit.o \
         dg_comm.o dg_db_scripts.o dg_event.o dg_handler.o dg_mobcmd.o \
-        dg_objcmd.o dg_scripts.o dg_triggers.o dg_wldcmd.o \
-        queue.o events.o regen.o wilderness.o mestieri.o abilita.o go-patrol.o \
+        dg_objcmd.o dg_scripts.o dg_triggers.o dg_wldcmd.o dg_olc.o \
+        queue.o events.o regen.o wilderness.o wedit.o mestieri.o abilita.o go-patrol.o \
 		clan2.o dg_misc.o eserciti.o
 
 default: .accepted
@@ -116,14 +116,14 @@ act.create.o: act.create.c conf.h sysdep.h structs.h utils.h comm.h interpreter.
   handler.h db.h screen.h clan.h
 	$(CC) -c $(CFLAGS) act.create.c
 act.informative.o: act.informative.c conf.h sysdep.h structs.h utils.h comm.h \
-  interpreter.h handler.h db.h spells.h screen.h clan.h wilderness.h \
+  interpreter.h handler.h db.h spells.h screen.h clan.h wilderness.h olc.h \
   dg_scripts.h eserciti.h
 	$(CC) -c $(CFLAGS) act.informative.c
 act.item.o: act.item.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
   handler.h db.h spells.h dg_scripts.h
 	$(CC) -c $(CFLAGS) act.item.c
 act.movement.o: act.movement.c conf.h sysdep.h structs.h utils.h comm.h \
-  interpreter.h handler.h db.h spells.h house.h dg_scripts.h
+  interpreter.h handler.h db.h spells.h house.h dg_scripts.h olc.h
 	$(CC) -c $(CFLAGS) act.movement.c
 act.offensive.o: act.offensive.c conf.h sysdep.h structs.h utils.h comm.h \
   interpreter.h handler.h db.h spells.h
@@ -201,10 +201,13 @@ modify.o: modify.c conf.h sysdep.h structs.h utils.h interpreter.h handler.h db.
 objsave.o: objsave.c conf.h sysdep.h structs.h comm.h handler.h db.h \
   interpreter.h utils.h spells.h
 	$(CC) -c $(CFLAGS) objsave.c
+olc.o: olc.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h handler.h db.h \
+  olc.h screen.h shop.h
+	$(CC) -c $(CFLAGS) olc.c
 random.o: random.c
 	$(CC) -c $(CFLAGS) random.c
 shop.o: shop.c conf.h sysdep.h structs.h comm.h handler.h db.h interpreter.h \
-  utils.h shop.h clan.h
+  utils.h shop.h olc.h clan.h
 	$(CC) -c $(CFLAGS) shop.c
 spec_assign.o: spec_assign.c conf.h sysdep.h structs.h db.h interpreter.h \
   utils.h
@@ -224,6 +227,19 @@ utils.o: utils.c conf.h sysdep.h structs.h utils.h comm.h screen.h spells.h \
 weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
   interpreter.h db.h
 	$(CC) -c $(CFLAGS) weather.c
+redit.o: redit.c conf.h sysdep.h structs.h utils.h comm.h handler.h interpreter.h boards.h \
+  db.c olc.h dg_olc.h
+	$(CC) -c $(CFLAGS) redit.c
+oedit.o: oedit.c conf.h sysdep.h structs.h utils.h comm.h boards.h spells.h \
+  db.h olc.h shop.h dg_olc.h mestieri.h
+	$(CC) -c $(CFLAGS) oedit.c
+zedit.o: zedit.c conf.h sysdep.h structs.h utils.h comm.h db.h olc.h wilderness.h
+	$(CC) -c $(CFLAGS) zedit.c
+medit.o: medit.c conf.h sysdep.h structs.h utils.h comm.h spells.h shop.h \
+  db.h olc.h handler.h dg_olc.h
+	$(CC) -c $(CFLAGS) medit.c
+sedit.o: sedit.c conf.h sysdep.h structs.h utils.h comm.h db.h olc.h shop.h clan.h handler.h
+	$(CC) -c $(CFLAGS) sedit.c
 alias.o : alias.c conf.h sysdep.h structs.h utils.h interpreter.h
 	$(CC) -c $(CFLAGS) alias.c
 quest.o : quest.c conf.h sysdep.h structs.h utils.h interpreter.h \
@@ -255,6 +271,9 @@ dg_triggers.o: dg_triggers.c conf.h sysdep.h structs.h dg_scripts.h \
 dg_wldcmd.o: dg_wldcmd.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
   comm.h handler.h db.h comm.h interpreter.h
 	$(CC) -c $(CFLAGS) dg_wldcmd.c
+dg_olc.o: dg_olc.c conf.h sysdep.h structs.h dg_scripts.h utils.h \
+  comm.h db.h olc.h dg_olc.h dg_event.h
+	$(CC) -c $(CFLAGS) dg_olc.c
 events.o: events.c conf.h sysdep.h structs.h utils.h queue.h events.h
 	$(CC) -c $(CFLAGS) events.c
 queue.o: queue.c conf.h sysdep.h structs.h utils.h queue.h
@@ -264,6 +283,9 @@ regen.o: regen.c conf.h sysdep.h structs.h utils.h spells.h handler.h events.h
 wilderness.o: wilderness.c conf.h sysdep.h structs.h utils.h \
  wilderness.h db.h
 	$(CC) -c $(CFLAGS) wilderness.c
+wedit.o: wedit.c conf.h sysdep.h structs.h comm.h utils.h db.h olc.h \
+ wilderness.h
+	$(CC) -c $(CFLAGS) wedit.c
 mestieri.o: mestieri.c conf.h sysdep.h structs.h comm.h utils.h handler.h spells.h \
  mestieri.h interpreter.h db.h wilderness.h
 	$(CC) -c $(CFLAGS) mestieri.c

@@ -1,0 +1,123 @@
+&1&b|*****\	 /******\ |*|      |*| |*|      /******\     /******\
+|*|  \*\ |*|  |*| |*|      |*| |*|      |*|  |*|          |*|
+|*|  |*| |*|__|*| |*|      |*| |*|      |*|__|*|      ____|*|
+|*|  |*| |******| |*|      |*| |*|      |******|     /******|
+|*|__/*/ |*|  |*| |*|____  |*| |*|____  |*|  |*|     |*|____
+|*****/  |*|  |*| |******| |*| |******| |*|  |*|     \******/&0
+
+***APRILE 2004***
+
+- Modificate le decapitazioni: ora sono influenzate da parametri del pg attaccante e
+del difensore, e non piu' totalmente casuali. Decapitare un pg dona un grazioso souvenir.
+Con il nokill ora la vittima viene stesa.
+- Modificate le cure. Ora il costo in mana varia in proporzione agli hp curati.
+- A livello maestro di trappola si possono piazzare le trappole scivolose che fanno
+cadere. Dal livello esperto si possono piazzare quelle stordenti, che danno turni di lag
+Ora TUTTE le trappole   funzionano anche se non sono gli ultimi oggetti ad essere posati!
+- Ora se non si ha abbastanza mana per curare completamente si viene curati in proporzione
+- A livello maestri le abilita' di piastre e maglia danno una riduzione del danno
+fisico subito, oltre all'aumento di ac.
+- Heal e group heal non si possono piu' scrivere su pergamena
+- Si puo' campare anche se seguiti da animali da monta charmati, e tutti i mob se il
+padrone campa diventano nuovamente charmabili e/o ammaestrabili
+- Se un pg attacca un altro sotto sonno magico quello perde la spell sleep e non viene
+soltanto svegliato
+- Modificati blink e parry, ora proteggono dalla paralisi della mazza e dalla decapitazione
+- L'entrata di parry non e' piu' unicamente casuale.
+- Corretto il bug per cui i mob warrior agivano da paralizzati
+- Corretto il bug per cui (dopo le modifiche alle cure) i mob healer non si curavano piu'
+- Ora possono usare il canale qsay coloro che, anche al di sotto del liv 11, abbiano almeno
+5 ore di gioco complessivo
+- Corretto il bug delle affilature che a volte dava bonus diversi dal +1 hit
+- Corretto il bug del wimpy che permetteva di scappare anche in condizioni di impossibilita'
+- Limitati i caratteri per i vestiti fatti dai sarti a 140 per evitare crash
+- Corretto il fastidioso bug per cui crashava spesso incastonando le armi. Ora nella
+descrizione non appare piu' ..vedi incastonata una pietra di materiale, ma le armi vecchie
+rimangono valide e sicure.
+- L'abilita' scudo da maestri protegge dai colpi (nel modo di blink e parry), in modo in
+parte casuale e in parte influenzata dal pg. Attenzione, perche' ad ogni parata lo
+scudo rischia di rompersi!
+- Distinta l'allerta dell'agguato da quella del pugnale
+- Ora quando un ammaestratore campa gli animali che lo seguono si dileguano nella wild
+- Corretto il bug per cui si potevano dare comandi infiniti ai pg charmati
+- Corretto il bug per cui molti pg avevano piu' attacchi di quelli che spettavano loro
+
+***MAGGIO 2004***
+
+- Corretto il bug per il quale essere maestri di piastre o maglia faceva diminuire il danno inferto all'avversario
+- A livello maestri di lancia ora si attiva il comando tornado, che lancia un turbine stordente,
+ma si puo' fare solo ogni 5 minuti. La spada, invece, da' un attacco extra.
+- Ora quando si campa o si sgruppa, se si e' seguiti da animali ammaestrati, essi
+si disperdono per la wild.
+- Ora quando il Tornado non entra (es. perche' manca il bersaglio) e' possibile riutilizzarlo subito, senza attendere i cinque minuti.
+- Aperto il &3&b&f***&0CIRCO DARESIANO&3&b&f***&0
+- Iniziato betatest dei cadaveri save, a volte funzionano altre no. Per ora non fateci troppo affidamento.
+
+***GIUGNO 2004***
+
+- Introdotte importanti modifiche a livello di codice sui pg, i mob e gli oggetti. Seppure al momento invisibili ai giocatori, spianano la strada alle modifiche future.
+- Ora gli esperti di trattativa non sono piu' attaccati da mob aggressivi
+- Ora chi ha punti nell'abilita' studio impara piu' in fretta anche prof e prac
+- Ora l'antimagic funziona come dovrebbe: se la barriera funziona il caster prende lag e perde mana, inoltre blocca solo le magie offensive.
+
+***LUGLIO 2004***
+
+- Reintrodotto il canale OOC (usatelo bene)
+- Risolto il bug per il quale nell'identify di alcuni oggetti comparivano degli UNDEFINIED
+- Ora i maestri di Bodybuilding ricevono due punti extra in STR
+- I Maestri di Meditazione ora hanno a disposizione il comando CATARSI
+- Rivisto il sistema dei TS. Ora molte magie entrano piu' facilmente
+- Scrivere pergamene ora puo' portare a sovraffaticamento mentale
+- La magia Color Spray e' stata del tutto rivista.
+- I Maestri di Rigenerazione ora hanno a disposizione il comando RIGENERAZIONE
+- Sistemato il bug per il quale chi veniva freezato perfeva l'equip
+- Ora si puo' campare in cella
+- Non e' piu' possibile iniziare un combattimento in cella
+- Aperta la nuova area di ***DragonKeep***
+
+***AGOSTO 2004***
+
+- Corretto un bug sul flee dei mob ladri. Segnalare se provoca nuovi crash
+- Corretto il bug per cui i due effetti piu' potenti del color spray non facevano nulla... ora fanno il loro dovere
+- Corretto il bug per cui fare la lista in un negozio con troppi oggetti faceva crashare
+- Corretto un piccolo bug sul recall. Prima se un pg nato a Deira ne recallava un altro nato a Lamorka con in spalle uno nato a Cimmura chi subiva la spell andava a Lamorka e lo stowato a Deira. Ora andrebbero entrambi a Lamorka
+- Corretto il bug sul bet. Ora potete scommettere sui vincitori di un'arena divina
+- Modificata la spell acid arrow
+- Modificata la spell recall
+- Modificata la spell summon
+- Introdotta la spell time distortion
+- Modificate le spell chill touch e burning hands
+- Modificate le spell fly, levitate e blade barrier
+- Corretto il bug per cui in cella a volte non si poteva campare
+- Iniziata la BETA 2 dei cadaveri save.. .ora dovrebbero salvare meglio
+- Aumentata la resistenza al pick delle porte nate per essere robuste
+- Corretto il bug per cui se non si aveva sneak o se la vittima volava questa andava comunque
+in stato di allerta dall'agguato
+- Non si puo' piu' paralizzare, sleepare o accecare se si vola e la propria vittima no
+- Corretto il bug per cui alle volte chill touch e burning hands facevano crashare
+- Corretto il bug per cui i mob aggressivi facevano comunque un attacco a chi vola
+- Non si puo' piu' fuggire se si e' sottoposti a levitate
+- Corretto il bug per cui sgruppando cavalli ammaestrati e montati si continuava a montare il nulla...
+- Uscendo dall'arena divina si e' automaticamente curati dalle ferite
+- Corretto il bug che causava la perdita di alias dei pg disguisati al camp
+- Corretto il bug sulle porte nascoste, ora funzionano regolarmente
+- Aggiunto il Regno di Alorn
+
+***SETTEMBRE 2004***
+
+- Corretta la probabilita' di paralizzare per i maestri di mazza
+- Aggiunte le RESISTENZE
+- Diminuti il numero di oggetti conservabili nelle case a 100 oggetti per room. Il provvedimento si e' reso necessario per motivi di stabilita'.
+- I cantieri una volta aperti devono essere completati entro 60 giorni o crolleranno.
+- Ora in cella non si puo' agguatare ne' rubare
+- Ora i fantasmi non possono piu' spiare le azioni dei vivi
+- Tra un AFK e l'altro ora deve passare un po' di tempo.
+- Modificate le spell blade barrier, chill touch, burning hands, fly, levitate
+- Aumentate le probabilita' di paralizzare con mazza
+- Ora e' possibile usare il camp in cella, per non perdere eq
+- Le case, ad eccezione di arsenali e cantieri, possono portare fino a 100 oggetti.
+- I cantieri hanno durata nel tempo, dopo del quale cessera' di esistere perdendo il contenuto.
+- Ora il control weather serve anche a togliere le tempeste!
+- Sistemata la cura e la virulenza del raffreddore
+- Ora i fantasmi sono immuni a qualsiasi tipo di danno
+- I pg fino al lev 10 sono immuni a qualsiasi malattia

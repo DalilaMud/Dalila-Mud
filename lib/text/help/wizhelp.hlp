@@ -1,0 +1,1497 @@
+<
+
+Uso: < <messaggio>
+< #<livello> <messaggio>
+< *<emote>
+< #<livello> *<emote>
+< @
+
+Questo comando ti consente di parlare con gli altri dei in gioco. Puoi
+utilizzare < e poi digitare la frase che vuoi dire a tutti gli altri,
+oppure puoi escludere gli Dei sotto ad un certo livello dal messaggio,
+facendo precedere il messaggio da # e dal numero del livello.
+< seguito da * e da un messaggio da come risultato un emote.
+< @ infine ti fornisce l'elenco degli dei on-line.
+
+Esempi:
+
+> < salve a tutti!
+  Sophya: salve a tutti!
+> < #80 Chardhros e' proprio un bastardo ;)
+  Sophya <80> Chardhros e' proprio un bastardo ;)
+> < *fa una smorfia di disappunto.
+  Sophya <--- fa una smorfia di disappunto.
+> < @
+  Dei in ascolto a Radio Dio:
+  Dajkesh
+  Amanu
+  Chardhros
+  Sophya
+
+Vedi anche: GODNET
+#
+;
+
+E' il canale di comunicazione per immortali.
+
+Uso: ; [ '@' | '+' | '-' | '#' ] [<testo>]
+
+> ; <testo>
+  Manda il messaggio
+> ; @
+  Mostra gli immortali in gioco e che puoi vedere, inoltre dice
+  anche se stanno scrivendo o editando.
+> ; +
+  Permette di ascoltare il canale degli immortali.
+> ; -
+  Chiude il canale degli immortali.
+
+Vedi anche: NOWIZ, WIZNET
+#
+ADVANCE
+
+Uso: advance <nome PG> <livello>
+
+ADVANCE fa avanzare un giocatore fino ad un nuovo livello. Se usato
+per promuovere un giocatore fino ad un livello da Immortale, e se
+hai istallato il programma autowiz, la wizlist e la immlist saranno
+automaticamente ricreate.
+ 
+Esempio:
+
+> advance rasmussen 34
+
+Vedi anche: WIZSET
+#
+AT
+
+Uso: at <room VNUM | item | mob | nome PG> <comando> <argomento>
+
+AT puo' essere usato per compiere un'azione in una locazione diversa
+da quella in cui attualmente ci si trova. Il primo argomento che
+segue il comando puo' essere il numero virtuale di una stanza o il
+nome di un PG, di un mob o di un oggetto. Il resto dei comandi sono
+quelli che si vuole che siano eseguiti.
+
+Esempi:
+
+> at 3001 look
+> at 3.corpse get all corpse
+> at fido kill fido
+> at catje wave catje
+
+Vedi anche: GOTO, VAI
+#
+BAN
+
+Uso: ban [<all | new | select> <indirizzo>]
+
+Questo comando impedisce agli utenti di un dato server di connettersi
+al gioco. Puoi bannare un server del tutto (ALL), Nuovi giocatori
+(NEW) o giocatori specifici (SELECT). Bannare un dato indirizzo con
+l'opzione NEW impedisce a qualsiasi nuovo giocatore di registrarsi e
+connettersi al gioco. Bannare un dato indirizzo con l'opzione ALL
+impedisce qualsiasi connessione dall'indirizzo di quel server.
+Bannare un sito con l'opzione SELECT permette la connessione solo
+agli utenti di quel server i cui PG abbiano il flag site-ok. Il
+comando Ban senza nessun argomento da un elenco dei server
+attualmente bannati.
+
+Esempi:
+> ban all whitehouse.gov
+
+Vedi anche: UNBAN, WIZLOCK
+#
+CAOS
+
+Uso: caos <livmin dei partecipanti> <livmax dei partecipanti> <ritardo> 
+<costo/liv> <durata>
+
+Comando che serve per indire delle arene. Il comando CAOS deve essere
+seguito dall'indicazione del livello minimo e del livello massimo dei
+partecipanti, dal numero di ore MUD che mancano all'inizio della
+competizione, dalla tassa di iscrizione (numero di monete d'oro per
+livello) e dalla durata della competizione stessa.
+
+Vedi anche: CHAOS
+#
+CHAOS
+
+Uso: chaos <livmin dei partecipanti> <livmax dei partecipanti> <ritardo> 
+<costo/liv> <durata>
+
+Comando che serve per indire delle arene. Il comando CAOS deve essere
+seguito dall'indicazione del livello minimo e del livello massimo dei
+partecipanti, dal numero di ore MUD che mancano all'inizio della
+competizione, dalla tassa di iscrizione (numero di monete d'oro per
+livello) e dalla durata della competizione stessa.
+
+Vedi anche: CAOS
+#
+CHOWN
+
+Uso: chown <oggetto> <nome PG o MOB>
+
+Trasferisce magicamente nelle tue mani un oggetto che si trova
+nell'inventario o nell'EQ della vittima.
+#
+DATE
+
+Uso: Date
+
+Mostra la data attuale.
+#
+DC
+
+Uso: dc <descriptor number>
+
+DC (DisConnect) e' utilizzato per sconnettere qualcuno.  Se usato su
+un utente in gioco, il giocatore perdera' la connessione, ma, a
+differenza del PURGE, non fara' cadere al suolo l'equipaggiamento del
+PG.
+DC e' anche utile per disconnettere persone che abbiano accidentalmente
+lasciato il gioco mentre si trovavano nella schermata di menu principale
+o, quelle connessioni abbandonate al momento in cui occorre digitare
+il "Nome del Personaggio".
+
+Vedi anche: PURGE, USERS
+#
+ECHO
+
+Uso: echo <messaggio>
+
+ECHO mostra il messaggio digitato a tutti quelli che si trovano nella
+stessa stanza.
+
+Esempio:
+
+> echo Un saluto a tutti i fedeli riuniti nel tempio di Ferus.
+
+Vedi anche: ECO, GECHO, QECHO, PAGE, SEND, TELE
+#
+ECO
+
+Uso: eco <messaggio>
+
+ECO mostra il messaggio digitato a tutti quelli che si trovano nella
+stessa stanza.
+
+Esempio:
+
+> eco Un saluto a tutti i fedeli riuniti nel tempio di Ferus.
+
+Vedi anche: ECHO, GECHO, QECHO, PAGE, SEND, TELE
+#
+ELENCA
+
+Uso: elenca <vnum iniziale dell'oggetto> <vnum finale dell'oggetto> 
+<caratteristica o affezioni o proprieta' che l'ogetto deve avere>
+
+Questo comando ti permette di avere una lista degli oggetti, compresi
+tra due vnum, che presentano una data caratteristica o una data
+proprieta' o affezioni. Per caratteristica si intende il tipo di
+oggetto da cercare (ad esempio ARMOR, FOOD, WEAPON), per proprieta'
+il tipo di Bonus/Malus che l'oggetto conferisce (ad esempio DEX, MAXHIT,
+MANA_REGEN), per affezioni le caratteristiche speciali dell'oggetto
+(ad esempio INVIS, INFRA, AID).
+Usando al posto della caratteristica/affezioni/proprieta'
+rispettivamente le opzioni t/a/p è possibile ottenere l'elenco dei vari
+tipi di caratteristiche, affezioni, proprieta'.
+
+Esempi:
+
+> elenca 12000 12001 ARMOR (Caratteristica)
+  Risultato:
+  2. [12000] [MINLEV: 0] [SUGLEV: 20] [MOD: ARMOR 10] un anello di peltro
+  3. [12001] [MINLEV: 0] [SUGLEV: 20] [MOD: ARMOR  1] una cintura di bronzo
+  
+> elenca 12000 12001 DAMROLL (Affezione)
+  Risultato:
+  2. [12001] [MINLEV: 0] [SUGLEV: 20] [MOD: DAMROLL    1] una cintura di bronzo
+
+> elenca 1200 1230 INVIS (Proprieta')
+  Risultato:
+  2. [1223] [MINLEV: 40] [SUGLEV:  38] L'Orecchino degli Invisibili
+  3. [1225] [MINLEV:  0] [SUGLEV: 212] L'orecchino del clan dei Do'Urden
+
+> elenca 0 100 a
+  Dara' come risultato:
+ 1) BLIND                 2) INVIS                 3) DET-ALIGN            
+ 4) DET-INVIS             5) DET-MAGIC             6) SENSE-LIFE           
+ 7) WATWALK               8) SANCT                 9) GROUP                
+10) CURSE                11) INFRA                12) POISON               
+13) PROT-EVIL            14) PROT-GOOD            15) SLEEP                
+16) NOTRACK              17) MARK                 18) PASSDOOR             
+19) SNEAK                20) HIDE                 21) FIRESHD              
+22) CHARM                23) FLYING               24) WATERBREATH          
+25) PROTFIRE             26) SHIELD               27) DEATHDANCE           
+28) MIRRORIMAGE          29) BLINK                30) WIZEYE               
+31) PARALIZED            32) DOMATO               33) ACCAMPATO (R)        
+34) TRAMORTITO           35) IMMOBILIZZATO        36) CAPTURING            
+37) TRASPORTATO          38) PROTLIGHTN           39) DET-SNEAK            
+40) SILENCE              41) DISGUISE             42) ANTIMAGIA            
+43) AID                  44) CONGIUNZIONE        
+#
+FORCE
+
+Uso: force <nome PG o MOB | all> <comando> <argomento>
+
+FORCE costringe un personaggio, o un MOB, a compiere una data azione.
+FORCE ALL costringue tutti coloro che si trovano in gioco a compiere
+una data azione;
+FORCE ROOM costringe tutti quelli presenti nella stanza in cui ti
+trovi a compiere una data azione.
+
+Esempi:
+
+> force fido drop carne
+> force all save
+> force room look fido
+
+Se sei invisibile per coloro che stai costringendo a compiere l'azione,
+il tuo nome non comparira' loro.
+#
+FREEZE
+
+Uso: freeze <nome PG>
+
+FREEZE e' usato per impedire ad un giocatore di giocare. Se un PG e'
+"congelato", il gioco ignorera' ogni comando inviato da quest'ultimo,
+incluso il QUIT (ABBANDONA), finche' quel PG non sara' scongelato
+con il comando THAW.
+ 
+Ovviamente questo comando dovrebbe essere usatosolo in casi estremi.
+
+Vedi anche: THAW, WIZSET -> FROZEN
+#
+GECHO
+
+Uso: gecho <messaggio>
+     
+GECHO mostra il messaggio digitato a tutti quelli che si trovano in gioco.
+
+Esempio:
+
+> gecho Un saluto a tutti i giocatori in gioco.
+
+Vedi anche: ECHO, ECO, QECHO, PAGE, SEND, TELE
+#
+GODNET
+
+Uso: godnet <messaggio>
+godnet #<livello> <messaggio>
+godnet *<emote>
+godnet @
+
+Questo comando ti consente di parlare con gli altri dei in gioco.
+Puoi utilizzare GODNET e poi digitare la frase che vuoi dire a
+tutti gli altri, oppure puoi escludere gli Dei sotto ad un certo
+livello dal messaggio, facendo precedere il messaggio da # e dal
+numero del livello.
+GODNET seguito da * e da un messaggio da come risultato un emote.
+GODNET @ infine ti fornisce l'elenco degli dei on-line.
+
+Esempi:
+
+> godnet salve a tutti!
+  Sophya: salve a tutti!
+> godnet #80 Chardhros e' proprio un bastardo ;)
+  Sophya <80> Chardhros e' proprio un bastardo ;)
+> godnet *fa una smorfia di disappunto.
+  Sophya <--- fa una smorfia di disappunto.
+> godnet @
+  Dei in ascolto a Radio Dio:
+  Dajkesh
+  Amanu
+  Chardhros
+  Sophya
+
+Vedi anche: <
+#
+GOTO
+
+Uso: goto <locazione>
+
+Con il comando GOTO, seguito dal vnum della locazione o dal nome di
+un personaggio od oggetto da cui vuoi andare, ti permette di trasferirti
+istantaneamente dove desideri.
+ 
+Sia per il GOTO che per il TELEPORT, la locazione puo' essere il numero
+virtuale di una stanza o il nome di un personaggio o oggetto.
+
+Esempi:
+
+> goto 3001
+> goto ramku
+
+Vedi anche: AT, POOFIN, POOFOUT, WIZSET -> ROOM, TRANSFER, TELEPORT, VAI
+#
+HANDBOOK
+
+Uso: handbook
+
+Informazioni utili per Dei e soprattutto giocatori.
+#
+HCONTROL
+
+Uso :  hcontrol costruisci <vnum casa> <direzione uscita> <nome giocatore>
+       hcontrol distruggi <vnum casa>
+       hcontrol paghi <vnum casa>
+       hcontrol mostra <vnum start> <vnum finish>
+       hcontrol pulisci
+       hcontrol proteggi <vnum casa> <%>
+
+Questo comando ti consente di creare CASE, eliminarle, avere informazioni
+su di esse, proteggerne l'accesso.
+
+Hcontrol costruisci seguito dal vnum della casa, dalla direzione in cui
+si trova la porta e dal nome del proprietario ti consente di creare
+una nuova casa.
+
+Hcontrol distruggi seguito dal vnum della casa, ti permette di eliminare
+la casa.
+
+Hcontrol paghi seguito dal vnum della casa ti permette di registrarne
+il pagamento. (Attualmente non utilizzato)
+
+Hcontrol mostra seguito dal vnum iniziale e da un vnum finale delle
+case che vuoi controllare, ti fornisce informazioni sulle case comprese
+tra i due vnum.
+
+Hcontrol proteggi seguito dal vnum della casa e dalla percentuale di
+protezione, ti consente di rendere piu' difficile per i ladri
+l'accesso alla stanza.
+
+
+Esempi:
+
+> hcontrol costruisci 21235 s Dolmant
+  costruisce una casa nella room 21235 che avra' uscita a sud
+  e sara' intestata a Dolmant.
+
+> hcontrol distruggi 21235
+  Distrugge la casa che si trova nella room 21235.
+
+> hcontrol paghi 21235
+  Registra il pagamento per la casa che si trova nella room 21235.
+
+> hcontrol mostra 21235 21240
+  Da le seguenti informazioni sulle case esistenti
+  nell'intervallo tra i due vnum:
+Indiriz. Atrio   Dat costruz Ospiti Proprietario  UltimoPag Lck
+-------  ------  ----------  ------ ------------ ---------- ----
+21235   21225  Sun Nov 19     0   Dolmant      Sun Nov 19 100
+
+> hcontrol proteggi 21235 10000
+  Il livello di pickdoor della casa 21235 e' ora 10000.
+
+Vedi anche: CASA, HOUSE
+#
+HOLYLIGHT
+
+Uso: holylight
+
+Una modalita' che ti permette:
+   Di vedere oggetti e persone invisibili, anche se non hai lanciato
+   su te stesso il 'detect invisibility'
+   Di vedere gente nascosta, anche se non hai 'sense life'
+   Di vedere nelle stanze buie (Dark), anche se non hai luci.
+
+Solitamente gli immortali hanno sempre attiva questa modalita', questo
+per consentirti di vedere sempre i mortali che potrebbero nascondersi
+per sfruttare BUG.
+#
+IMOTD
+
+Uso: imotd
+
+Mostra il messaggio di entrata per Immortali attualmente editato.
+Questo messaggio solitamente contiene nuove informazioni sui comandi
+recentemente modificati o aggiunti, nuove implementazioni ed altre
+importanti informazioni che tutti gli immortali dovrebbero conoscere.
+
+Vedi anche: MOTD
+#
+INTERWIZ
+
+Uso: INTERWIZ <Messaggio>
+
+Ti permette di comunicare con tutti coloro che si trovano connessi al
+server intermud, purche' naturalmente ad esso sia connessa Dalila.
+#
+INVIS
+
+Uso: invis <livello>
+
+INVIS ti permette di decidere per chi sarai invisibile. Se lo usi senza
+specificare un livello, diventerai visibile a tutti o invisibile a tutti
+quelli che hanno un livello inferiore al tuo (dei compresi).
+Se specifichi un livello dopo INVIS, diventerai invisibile solo a chi si
+trova ad avere un livello inferiore a quello specificato.
+
+Esempi:
+
+> invis
+  Se si e' visibile ti fa diventare invisibile
+  Se si e' invisibile ti fa diventare visibile
+
+> invis 31
+  Ti fa diventare invisibile agli occhi di chi si trova ad un livello <= 30
+
+Vedi anche: VISIBLE
+#
+LAST
+
+Uso: last <nome PG>
+
+Comando da utilizzare per controllare l'ultima volta che una persona
+ha giocato nel MUD, e per conoscere il suo ID ed il suo ultimo IP.
+
+Esempio:
+
+> last sophya
+  [ 7830] [80 Peloi] Sophya       : 062.098.036.073    : Mon Nov 20 21:35:25 
+2000
+
+Vedi anche: STAT
+#
+LISTPRAC
+
+Uso: listprac <nome PG>
+
+Con questo comando puoi conoscere le skill e prac imparate da un PG e
+il loro attuale livello di conoscenza.
+
+Esempi:
+
+> Listprac ishtar
+  Ishtar non ha nessuna pratica.
+  Ishtar conosce i seguenti spells e skills:
+  [ 66] acid arrow           [ 60/100]  (discreto)
+  [  1] armor                [ 26/100]  (mediocre)
+  [131] backstab             [ 73/100]  (buono)
+  [ 13] create water         [ 19/100]  (cattivo)
+  [134] kick                 [ 77/100]  (buono)
+  [162] read magic           [ 19/100]  (cattivo)
+  [ 39] strength             [ 34/100]  (mediocre)
+
+Vedi anche: LISTPROF
+#
+LISTPROF
+
+Uso: listprof <nome PG>
+
+Con questo comando puoi conoscere le prof imparate da un PG ed il loro
+attuale livello di conoscenza.
+
+Esempio:
+
+> Listprof nightblade
+ NightBlade e' addestrato nelle seguenti proficienze:
+ [  5] addestratore         [ 40/100]  (mediocre)
+ [ 16] alchimista           [  0/100]  (non imparata)
+ [ 14] architetto           [  0/100]  (non imparata)
+ [  4] cacciatore           [ 30/100]  (mediocre)
+ [ 12] carpentiere          [  0/100]  (non imparata)
+ [  2] cavalcare            [ 57/100]  (discreto)
+ [  7] coltivatore          [  0/100]  (non imparata)
+ [  8] cuoco                [  0/100]  (non imparata)
+ [  3] domare               [ 53/100]  (medio)
+ [ 15] erborista            [  0/100]  (non imparata)
+ [ 10] fabbro               [  0/100]  (non imparata)
+ [ 11] falegname            [  0/100]  (non imparata)
+ [ 13] gioielliere          [  0/100]  (non imparata)
+ [  9] minatore             [  0/100]  (non imparata)
+ [  1] montare              [ 50/100]  (medio)
+ [ 17] pescatore            [  0/100]  (non imparata)
+ [  6] sarto                [  0/100]  (non imparata)
+
+Vedi anche: LISTPRAC
+#
+LOAD
+
+load <mob|oggetto> <numero virtuale>
+
+LOAD si usa per caricare mob o oggetti.
+Il primo argomento che segue il comando, specifica se si sta tentando
+di caricare un mob o un oggetto; il secondo e' il numero virtuale (del
+mob o dell'oggetto).
+
+Esempi:
+
+> load obj 3099
+  Carica l'oggetto 3099
+
+> load mob 3005
+  Carica il mob 3005
+
+Vedi anche: VNUM
+#
+MEDIT
+
+Uso: medit <vnum MOB>
+
+Con questo comando e' possibile creare dal nulla o modificare le
+caratteristiche di un MOB.
+#
+MLIST
+
+Uso: mlist <numero iniziale> <numero finale>
+
+Con questo comando puoi avere un elenco dei mob esistenti in un dato
+intervallo di vnum. Ti comparira' il loro vnum, il livello ed il nome.
+
+Esempio:
+>mlist 100 102
+    1. [  100] [LEV:40] MouseRider
+    2. [  101] [LEV:20] la bestia Sentinella
+    3. [  102] [LEV:35] Leonna
+#
+MUTE
+
+Uso: mute <nome PG>
+
+Serve per rendere muto un giocatore; se viene ammutolito non potra'
+usare la maggior parte dei canali di comunicazione finquando non viene
+annullato l'effetto della punizione.
+
+Esempio:
+
+> mute Andruz
+
+Vedi anche: FLAGS
+#
+NOEROE
+
+Uso: Noeroe
+
+Attiva/disattiva una flag che ti consente di apparire o meno nella
+classifica eroi di Dalila.
+#
+NOHASSLE
+
+Uso: Nohassle
+
+Attiva/disattiva una flag che impedisce ai mob aggressivi di attaccarti.
+#
+NOTITLE
+
+Uso: notitolo <nome PG>
+
+Viene usato per impedire ai giocatori di definirsi il proprio titolo.
+Se un giocatore per esempio usa continuamente titoli offensivi o non GdR lo
+si puo' punire togliendogli la possibilita' di scegliersi il titolo.
+
+Vedi anche: NOTITOLO, TITLE
+#
+NOTITOLO
+
+Uso: notitolo <nome PG>
+
+Viene usato per impedire ai giocatori di definirsi il proprio titolo.
+Se un giocatore per esempio usa continuamente titoli offensivi o non GdR lo
+si puo' punire togliendogli la possibilita' di scegliersi il titolo.
+
+Vedi anche: NOTITLE, TITLE
+#
+NOWIZ
+
+Uso: nowiz
+
+Ti permette di attivare/disattivare il canale wiznet.
+
+Vedi anche: WIZNET e ;
+#
+OEDIT
+
+Uso: oedit <vnum OBJ>
+
+Con questo comando e' possibile creare dal nulla o modificare le
+caratteristiche di un oggetto.
+#
+OLC
+
+Uso: olc
+
+Questo comando ti permette di vedere se qualche obj, room, shop, mob
+o zone sono stati modificati e non sono stati ancora salvati.
+
+Esempio:
+
+> olc
+  The following OLC components need saving:-
+   - Objects for zone 1.
+
+Vedi anche: SHOW -> ZONES, ZRESET
+#
+OLIST
+
+Uso: olist <numero iniziale> <numero finale>
+
+Con questo comando puoi avere un elenco degli oggetti esistenti in un
+dato intervallo di vnum. Ti comparira' il loro vnum, il livello minimo, il
+livello consigliato ed il nome dell'oggetto.
+
+Esempio:
+ 
+>olist 100 102
+    1. [  100] [MINLEV:   6] [SUGLEV:   8] un paio di guanti bianchi
+    2. [  101] [MINLEV:  12] [SUGLEV:  14] un coccio di cristallo
+    3. [  102] [MINLEV:   0] [SUGLEV:  -6] il libro dei dragoni
+#
+PAGE
+
+Uso: page <Messaggio>
+
+Puoi usare PAGE per parlare con l'intero MUD. A differenza del GECHO,
+con il PAGE il tuo messaggio sara' preceduto dal tuo nome (sempre che
+tu sia visibile, nel caso tu non lo fossi comparira' il generico qualcuno).
+
+Esempi:
+
+> page Salve mortali!
+*Sophya* Salve Mortali!
+
+Vedi anche: ECHO, ECO, GECHO, QECHO, SEND, TELE
+#
+PARDON
+
+Uso: pardon <nome PG>
+
+Rimuove i flag di PKILLER, TKILLER e WKILLER da un giocatore.
+#
+PLAYERS
+
+Uso: Players
+
+Questo comando visualizza l'intero Database dei giocatori.
+#
+POOFIN
+
+Uso: poofin <messaggio>
+
+Setta il messaggio che i giocatori vedono quando tu usi il comando
+GOTO per arrivare da loro. POOFIN senza messaggio ripristina il
+messaggio di default "appears with an ear-splitting bang".
+
+Vedi anche: GOTO, POOFOUT, VAI
+#
+POOFOUT
+
+Uso: poofout <messaggio>
+
+Setta il messaggio che i giocatori vedono quando tu usi il comando
+GOTO per allontanarti da loro. POOFOUT senza messaggio ripristina il
+messaggio di default "disappears in a puff of smoke."
+
+Vedi anche: GOTO, POOFIN, VAI
+#
+PURGE
+
+Uso: purge <nome obj - nome mob - nome PG>
+o    purge
+
+Il 'purge' serve a distruggere cose o persone. Se usato senza argomenti
+elimina tutti i mob e gli oggetti in una stanza, ma non fara' nulla ai
+giocatori (eventualmente) presenti.
+Se, invece, e' seguito da unargomento e questo e' un oggetto,
+quell' oggetto (e tutto il suo eventuale contenuto) viene distrutto.
+Se l'argomento e' un mob, il mob viene distrutto, lasciando a terra
+gli oggetti che  erano nel suo inventario e che indossava.
+Se l'argomento e' il nome di un giocatore, il suo equipaggiamentoe
+cio' che ha in inventario cadra' a terra ed il giocatore sara' disconnesso
+dal MUD. Non prende hole.
+Il PURGE dovrebbe essere usato sui giocatorisolo per motivi disciplinari o per 
+risolvere BUG.
+
+Esempi:
+
+> purge
+  Elimina tutti gli oggetti ed i mob presenti nella stanza.
+
+> purge gigante
+  Uccide il gigante facendo cadere a terra tutti i suoi averi.
+
+> purge spada
+  Distrugge la spada presente nella stanza.
+
+Vedi anche: DC
+#
+QECHO
+
+Uso: qecho <messaggio>
+
+QECHO mostra il messaggio digitato a tutti quelli che hanno attivo
+il flag QUEST.
+
+Esempi:
+
+> qecho Cercate il cavaliere senza nome, e' lui che conosce la risposta
+  alla domanda di Talas.
+
+Vedi anche: ECHO, ECO, GECHO, PAGE, SEND, TELE
+#
+READPRAY
+
+Uso: Readpray
+
+Visualizza gli ultimi messaggi inviati ai Creatori con segnalazioni
+di errori, bug o idee.
+#
+REDIT
+
+Uso: redit <vnum ROOM>
+
+Con questo comando e' possibile creare dal nulla o modificare le
+caratteristiche di una ROOM.
+#
+RELOAD
+
+Uso: reload < '*' | all | file >
+
+Reload e' utilizzato per ricaricare in memoria file di testo
+come ad esempio il MOTD.
+Reload * ricarica tutti i file di testo elencati di seguito.
+
+File validi sono:
+
+  background (/mud_dir/lib/text/background)
+  credits    (/mud_dir/lib/text/credits)
+  handbook   (/mud_dir/lib/text/handbook)
+  help       (/mud_dir/lib/text/help)
+  immlist    (/mud_dir/lib/text/immlist)
+  imotd      (/mud_dir/lib/text/imotd)
+  news       (/mud_dir/lib/text/news)
+  motd       (/mud_dir/lib/text/motd)
+  info       (/mud_dir/lib/text/info)
+  policy     (/mud_dir/lib/text/policies)
+  wizlist    (/mud_dir/lib/text/wizlist)
+  xhelp      (/mud_dir/lib/text/help/*)
+#
+REROLL
+
+Uso: reroll <Nome PG>
+
+REROLL da ad un giocatore nuove stat (cioe' Str, Int, Wis, Dex, Con, e Cha).
+
+Vedi anche: STAT
+#
+RESTORE
+
+Uso: restore <nome PG | MOB>
+
+RESTORE riporta al massimo gli hp, il mana o i punti movimento di
+un PG o di un MOB.
+Se usato su Immortali, setta anche tutte le skill a 100%.
+#
+RETURN
+
+Uso: return
+
+RETURN ti fa rientrare nel tuo corpo se sei switchato in un mob.
+
+Vedi anche: SWITCH
+#
+RLIST
+
+Uso: rlist <numero iniziale> <numero finale>
+
+Con questo comando puoi avere un elenco delle room mob esistenti in
+un dato intervallo di vnum. Ti comparira' il loro vnum, il livello ed il
+nome.
+ 
+Esempio:
+
+>rlist 6300 6304
+    1. [ 6301] ( 35) Un'entrata semiostruita dalle ragnatele
+    2. [ 6302] ( 35) Un sentiero semiostruito dalle ragnatele
+    3. [ 6303] ( 35) L'alveare delle vespe
+    4. [ 6304] ( 35) Un sentiero semiostruito dalle ragnatele
+#
+ROOMFLAGS
+
+Uso: roomflags
+
+Attiva/Disattiva un flag che ti permette, o meno, di vedere il vnum
+di una room ed i flag della stessa, sempre che ne abbia.
+#
+SEDIT
+
+Uso: sedit <vnum SHOP>
+
+Con questo comando e' possibile creare dal nulla o modificare le
+caratteristiche di un Negozio.
+#
+SEND
+
+Uso: send <nome PG> <messaggio>
+     
+SEND manda il messaggio ad una persona in particolare.
+
+Esempio:
+
+> send Kheldar Hai qualcuno alle spalle.
+
+Vedi anche: ECHO, ECO, GECHO, QECHO, PAGE, TELE
+#
+WIZSET
+
+Uso: wizset [file|giocatore] <nome personaggio/mob> <campo> <valore>
+
+WIZSET e' un comando estremamente potente che permette di modificare dozzine di
+caratteristiche di mob e giocatori.
+
+WIZSET PLAYER costringe il comando 'set' a cercare il nome fornito tra i giocatori
+e non tra i mob. Utile per nomi che vengono usati sia da mob che da giocatori
+
+WIZSET FILE permette di modificare caratteristiche di giocatori non in gioco al
+momento.
+Se si usa WIZSET FILE su un giocatore che in quel momento e' in gioco, le
+modifiche fatte verranno perse.
+Per modificare le caratteristiche di un giocatore che e' in gioco ma sconnesso
+si deve usare il comando 'set' due volte, una con l'argomento FILE e l'altra
+senza, per essere sicuri che le modifiche vengano salvate.
+
+I campi che si possono modificare si trovano nel file act.wizard.c, e i
+campi che sono di tipo BINARY, possono assumere solo i seguenti valori:
+	ON, OFF, YES, NO
+
+I seguenti sono campi validi:
+
+Campo          Livello richiesto    Funziona su     Tipo di valore
+-----------------------------------------------------------------------------
+brief		     LVL_GOD, 	         PC, 	        BINARY
+invstart	     LVL_GOD, 	         PC, 	        BINARY
+title		     LVL_GOD, 	         PC, 	        MISC
+nosummon	     LVL_GRGOD, 	 PC, 	        BINARY
+maxhit	             LVL_GRGOD, 	 BOTH, 	        NUMBER
+maxmana	             LVL_GRGOD, 	 BOTH, 	        NUMBER
+maxmove	             LVL_GRGOD, 	 BOTH, 	        NUMBER
+hit		     LVL_GRGOD, 	 BOTH, 	        NUMBER
+mana		     LVL_GRGOD, 	 BOTH, 	        NUMBER
+move		     LVL_GRGOD, 	 BOTH, 	        NUMBER
+align		     LVL_GOD, 	         BOTH, 	        NUMBER
+str		     LVL_GRGOD, 	 BOTH, 	        NUMBER
+stradd	             LVL_GRGOD, 	 BOTH,    	NUMBER
+int 		     LVL_GRGOD, 	 BOTH,  	NUMBER
+wis 		     LVL_GRGOD, 	 BOTH,  	NUMBER
+dex 		     LVL_GRGOD, 	 BOTH,  	NUMBER
+con 		     LVL_GRGOD, 	 BOTH,  	NUMBER
+cha 		     LVL_GRGOD, 	 BOTH,  	NUMBER
+sex 		     LVL_GRGOD,          BOTH, 	        MISC
+ac 		     LVL_GRGOD,          BOTH,  	NUMBER
+gold		     LVL_GOD, 	         BOTH,  	NUMBER
+bank		     LVL_GOD, 	         BOTH,  	NUMBER
+exp 		     LVL_GRGOD, 	 BOTH,  	NUMBER
+hitroll	             LVL_GRGOD, 	 BOTH,  	NUMBER
+damroll	             LVL_GRGOD, 	 BOTH,  	NUMBER
+invis		     LVL_IMPL, 	         PC,      	NUMBER
+nohassle	     LVL_GRGOD, 	 PC,    	BINARY
+frozen	             LVL_FREEZE,  	 PC, 	         BINARY
+practices	     LVL_GRGOD, 	 PC,    	NUMBER
+lessons	             LVL_GRGOD, 	 PC,    	NUMBER
+drunk		     LVL_GRGOD, 	 BOTH,   	MISC
+hunger	             LVL_GRGOD, 	 BOTH,   	MISC
+thirst	             LVL_GRGOD, 	 BOTH,  	MISC
+killer	             LVL_GOD, 	         PC,    	BINARY
+thief		     LVL_GOD, 	         PC,    	BINARY
+level		     LVL_IMPL, 	         BOTH,   	NUMBER
+room		     LVL_IMPL, 	         BOTH,  	NUMBER
+roomflag	     LVL_GRGOD, 	 PC, 	        BINARY
+siteok	             LVL_GRGOD, 	 PC,    	BINARY
+deleted	             LVL_IMPL, 	         PC,    	BINARY
+class		     LVL_GRGOD, 	 BOTH,   	MISC
+nowizlist	     LVL_GOD, 	         PC,     	BINARY
+quest		     LVL_GOD, 	         PC,    	BINARY
+loadroom	     LVL_GRGOD, 	 BOTH,    	MISC
+color		     LVL_GOD, 	         PC, 	        BINARY
+idnum		     LVL_IMPL, 	         PC,    	NUMBER
+passwd	             LVL_IMPL, 	         PC,    	MISC
+nodelete	     LVL_GOD, 	         PC,    	BINARY
+cha		     LVL_GRGOD, 	 BOTH,   	NUMBER
+olc		     LVL_IMPL,           PC, 	        NUMBER
+questor	             LVL_GOD, 	         PC,    	BINARY
+hometown	     LVL_GRGOD, 	 BOTH,   	NUMBER
+wildxrange           LVL_GOD,            PC,            NUMBER
+wildyrange           LVL_GOD,            PC,            NUMBER
+notorieta            LVL_GRGOD,          PC,            NUMBER
+noeroe               LVL_GOD,            PC,            BINARY
+gdr                  LVL_IMMORT,         PC,            BINARY
+fama       	     LVL_GRGOD,          PC,            NUMBER
+abilpracs 	     LVL_GRGOD, 	 PC,            NUMBER
+classtitle           LVL_QUEST_MASTER,   PC,            NUMBER
+statosociale         LVL_GOD,            PC,            NUMBER
+ministro             LVL_GOD,    	 PC,            BINARY
+multiplayer          LVL_IMPL,      	 PC,            BINARY
+stipendio            LVL_GOD,      	 NPC,           NUMBER
+paga       	     LVL_GOD,      	 NPC,		NUMBER
+padrone		     LVL_GOD		 NPC		MISC
+mobsave              LVL_GOD,      	 NPC,           BINARY
+mobsaveinventario    LVL_GOD,            NPC,           BINARY
+
+Il primo argomento di ogni riga e' il nome del campo che potete modificare,
+il secondo e' il livello minimo richiesto per poter modificare quel campo,
+il terzo argomento indica su chi puo' aver effetto la modifica
+(mob, giocatori o entrambi) e il quarto argomento indica il tipo di valori
+che sono validi per quel campo.
+
+Vediamo il significato dei termini che compaiono nelle ultime due colonne:
+	PC = Ha effetto solo su un giocatore
+	BOTH = Ha effetto su giocatori e mob
+	NUMBER = Questo campo accetta valori numerici (1, 4, 16 etc..)
+	BINARY = Questo campo accetta solo YES, NO, ON, OFF
+	MISC = Questo campo accetta sia NUMBER che BINARY
+
+Vediamo i campi uno per uno.
+	brief = flag descrizioni brevi
+	invstart = flag per essere gia' invisibili quando si entra nel mud
+		   (per immortali ovviamente)
+	title = titolo
+	nosummon = flag per impedire di essere evocati
+	maxhit = numero massimo di punti ferita
+	maxmana = numero massimo di punti mana
+	maxmove = numero massimo di punti movimento
+	hit = punti ferita correnti
+	mana = punti mana correnti
+	move = punti movimento correnti
+	align = allineamento
+	str = forza
+	stradd = bonus forza (per chi ha 18)
+	int = intelligenza
+	wis = saggezza
+	dex = destrezza
+	con = costituzione
+	cha = carisma
+	ac = classe armatura
+	sex = sesso (0=neutrale,1=maschio,2=femmina)
+	gold = denaro
+	bank = denaro in banca
+	exp = esperienza
+	hitroll = bonus per colpire
+	damroll = bonus per i danni
+	invis = livello di invisibilita'
+	nohassle = flag per non essere attaccati dai mob aggressivi
+	frozen = flag per essere congelati
+	practices = numero di sessioni di pratica ancora disponibili
+	lessons = come practices 
+	drunk = livello di ubriachezza (off, oppure un numero tra 0 e 96
+	hunger = livello di fame (off oppure 0-96)
+	thirst = livello di sete (off oppure 0-96)
+	killer = flag player_killer
+	thief = flag player_thief
+	level = livello
+	room = cambia la stanza in cui si trova il personaggio
+	roomflag = flag per vedere le informazioni sulla stanza corrente
+	siteok = flag che permette alla vittima di giocare anche se il
+		 suo indirizzo e' tra quelli banditi dal MUD
+        deleted = flag che indica che il giocatore verra' cancellato
+                  presto
+         class = classe del giocatore (A=Alcione, C=Cyrinic, D=Daresiano,
+                 E=Peloi, G=Genidian, P=Pandion)
+	nowizlist = flag che non permette all'immortale di essere inserito
+	            nel wizlist
+	quest = flag che indica che la vittima e' in quest
+	loadroom = stanza di partenza quando si entra nel mud (valori
+	           validi: off oppure un numero virtuale)
+	color = flag che attiva/disattiva i colori alla vittima	
+	idnum	= numero di ID del giocatore 
+	passwd = password del giocatore
+	nodelete = il giocatore non puo' essere cancellato
+	olc = concede ad un PG il permesso di editare un'area
+	questor = setta la Flag questor sui MOB (per le quest automatiche)
+	hometown = permette di cambiare la citta' di origine di un personaggio
+                  (Deira 1, Jiroch 2, Cimmura 3, Chyrellos 4, Lamorka 5)
+	wildxrange = setta il valore orizzontale della mappa nella wilderness
+        wildyrange = setta il valore verticale della mappa nella wilderness
+        notorieta  = setta la notorieta' di un personaggio
+        noeroe = attiva/disattiva il flag noeroe ad un personaggio
+        gdr = attiva/disattiva il flag gdr ad un personaggio
+        fama = setta la fama di un personaggio
+        abilpracs = setta il numero di punti abilita' di un personaggio
+        classtitle = setta il titolo di classe di un personaggio
+	statosociale = setta ad un PG un rank all'interno di un regno
+	ministro = attiva/disattiva il flag architetto reale ad un personaggio
+        multiplayer = attiva/disattiva il flag multiplayer
+        stipendio = setta lo stipendio da corrispondere a un MOB
+        paga = setta le ore che mancano al prossimo pagamento di stipendio
+               di un MOB
+        padrone = setta il padrone del MOB
+        mobsave = setta come MOBSAVE un MOB
+        mobsaveinventario = setta come come SALVA_INV un MOB
+
+Esempi:
+
+> Io immortale voglio modificare la costituzione del giocatore Salomon.
+  wizset salomon con 20
+
+> Io (Shade) immortale voglio modificare il mio titolo in "Il Dio Dei Ladri":
+  wizset shade title Il Dio Dei Ladri
+
+> Khardan si e' dimenticato la sua password e me lo ha fatto sapere.  Faccio
+  sapere a Khardan che gli cambiero' la password in "61babbo" e digito:
+  wizset file khardan passwd 61babbo
+  Khardan potra' rientrare con la password 61babbo.
+
+Vedi anche: STAT
+#
+SHOW
+
+Uso: show <opzione> [argomento]
+
+Opzioni valide:
+
+zones          player         rent           stats          death          
+godrooms       shops          houses         arena          savemob        
+
+Questo comando serve a visualizzare determinate informazioni. Alcune
+opzioni richiedono dei parametri addizionali che devono seguire l'opzione
+stessa.
+   
+  show zones: Mostra tutte le zone caricate ed il loro attuale tempo di
+  reset. L'indicazione -1 indica che sono prossime al reset.
+
+  show player [Nome PG]: Mostra informazioni riassuntive su un giocatore,
+  ossia il nome, il sesso, il livello, la classe, lo stato finanziario, i
+  punti esperienza, l'allineamento, il numero di prac non utilizzate, il
+  momento di creazione, il giorno dell'ultima connessione ed il tempo in cui
+  e' stato in gioco.
+  
+  show rent [Nome PG]: Mostra il nome del file di rent di un dato giocatore,
+  il modo in cui ha rentato e tutti gli oggetti (con il loro vnum e valore)
+  che ha in inventario, eq e in eventuali contenitori.
+   
+  show stats: Mostra alcune informazioni sul gioco come il numero di giocatori
+  on-line, il numero di giocatori registrati, i mob caricati  e quelli
+  disponibili per la creazione, gli obj caricati e quelli disponibili per la
+  creazione, le room, le zone ed altre informazioni piu' tecniche.
+  
+  show death: Mostra tutte le DT presenti nel MUD con il loro vnum.
+  
+  show godrooms: Mostra le stanze che hanno il flag godroom con il loro vnum.
+   
+  show shops: Mostra i negozi esistenti sul MUD con il loro vnum, la room in
+  cui sono caricati, il vnum del venditore, il rateo di acquisto e vendita, il
+  nome del proprietario, il nome del regno a cui eventualmente appartengono,
+  il valore del fondo cassa ed il genere di merci che trattano.
+  
+  show houses: Mostra le case attualmente esistenti sul MUD.
+  
+  show arena: Mostra le arene in cui si stanno svolgendo combattimenti.
+  
+  show savemob: Mostra i MOB con il flag save_mob esistenti sul MUD.
+  
+Vedi anche: STAT, ZRESET
+#
+SHUTDOWN
+
+Uso: shutdown [reboot | die | pause]
+
+SHUTDOWN chiude il MUD. Funziona assieme allo script 'autorun'.
+Se non si sta usando 'autorun' gli argomenti sono inutili.
+Se invece lo stai usando, allora vi sono le seguenti opzioni:
+
+REBOOT     Dopo lo shutdown viene fatta una pausa di 5 secondi anziche' i
+	   soliti 40 prima di fare ripartire il MUD.
+
+DIE        Chiude lo script autorun. Il MUD non fara' il reboot
+	   dopo lo shutdown a meno che non venga eseguito (a mano) di nuovo.
+
+PAUSE      Crea un file chiamato 'pause' nella directory principale del
+	   CMUD; non tentare di fare ripartire il MUD fin tanto che
+	   il file 'pause' esiste.
+#
+SKILLSET
+
+Uso: skillset <nome PG> '<nome skill>' <valore>
+
+Setta al valore specificato la skill scelta.
+
+Vedi anche: SET
+#
+SLOWNS
+
+Uso: slowns
+
+Attiva/Disattiva un'opzione che permette di vedere oltre al numero di
+IP anche il nome dei server che forniscono quegli accessi. Se e' abilitato
+questo comando, il comando USERS mostrera' solo gli IP e non il nome dei
+server.
+
+Vedi anche: USERS
+#
+SNEAKVIEW
+
+Uso: SNEAKVIEW
+
+Attiva/Disattiva una flag che ti permette di vedere giocatori in hide o sneak.
+#
+SNOOP
+
+Uso: snoop [nome PG]
+
+Questo comando permette di 'intrufolarsi' nel corpo di un altro giocatore e
+di poter vedere e sentire tutto cio' che gli accade.
+Tutto cio' che la vittima vede o scrive ti verra' mostrato preceduto da un
+%.
+
+Ovviamente ci sono implicazioni etiche nell'uso di questo comando, che
+dovrebbe essere usato poco e per scopi disciplinari.
+Non si puo' snoopare una vittima gia' snoopata da un altro.
+
+Digita snoop <tuo nome> per smettere di snoopare.
+#
+SNOWBALL
+
+Uso: SNOWBALL
+
+E' solo un social che mostra un messaggio divertente.
+#
+SOTTOMETTI
+
+Uso: Sottometti <nome drago> <nome PG>
+
+Questo comando serve per sottomettere un drago ad un dato giocatore.
+#
+STAT
+
+Uso: STAT [player|object|mobile|file] <nome>
+
+Fornisce informazioni su giocatori, mob e oggetti in gioco.
+Il primo argomento e' opzionale.
+
+STAT PLAYER cerchera' il nome selezionato solo tra i giocatori.
+
+STAT OBJECT cerchera' il nome solo tra gli oggetti
+
+STAT MOBILE cerchera' il nome solo tra mob.
+
+STAT FILE serve per vedere le stat di giocatori che non sono collegati al
+MUD, leggendo le informazioni dal file dei giocatori.
+
+Esempi:
+
+> stat guardia
+  Mostra le stat della guardia, cercandole tra giocatori, oggetti e mob
+
+> stat player Night
+  Mostra le stat del giocatore Night
+
+> stat mobile artu
+  Mostra le stat del MOB Artu'
+
+> stat file Dolmant
+  Mostra le stat di Dolmant, attualmente non in gioco
+
+> stat object torta
+  Mostra le stat di un oggetto di nome 'torta'
+
+Vedi anche: LAST, REROLL, SHOW, VSTAT
+#
+STOPAUCTION
+
+Uso: Stopauction
+
+Questo comando serve per interrompere un'asta in corso.
+#
+SWITCH
+
+Uso: switch <nome mob>
+
+Serve per entrare nel corpo di un mob e manovrarlo. 
+Utilissimo per rendere piu' interattive le quest. Per tornare nel
+tuo corpo devi usare il comando RETURN.
+
+Vedi anche: RETURN
+#
+SYSLOG
+
+Uso: syslog [off | brief | normal | complete]
+
+Questo comando controlla il livello di dettaglio dei log che vedi.
+I messaggi 'syslog' appaiono racchiusi tra parentesi quadre [] e se
+avete il colore attivo sono in verde.
+
+I messaggi che riceverete dipenderanno dal vostro livello.
+
+Esempi:
+
+> syslog complete
+  Mostra tutti i messaggi di log.
+
+> syslog brief
+  Mostra solo alcuni messaggi di log
+
+> syslog normal
+  Mostra alcuni messaggi ma non tutti
+
+> syslog off
+  Non mostra i messaggi di log
+
+Vedi anche: COLOR, COLORE
+#
+TELE
+
+Uso: Tele <nome PG> <messaggio>
+
+Si tratta di un altro canale di comunicazione che consente di mandare
+un messaggio 'telepatico' a qualcuno.
+
+Vedi anche: ECHO, ECO, GECHO, QECHO, PAGE, SEND
+#
+TELEPORT
+
+Uso: teleport <Nome PG> <locazione>
+
+Il comando TELEPORT trasferisce la tua vittima in un'altra locazione.
+
+Per il TELEPORT, la locazione puo' essere il numero virtuale di una
+stanza o il nome di un personaggio od oggetto.
+
+Esempi:
+
+> teleport stuart 3001
+  trasporta Stuart nella room 3001
+
+> teleport stuart 2.guardia
+  trasposta stuart dalla seconda guardia
+
+Vedi anche: AT, GOTO, POOFIN, POOFOUT, SET -> ROOM, TELEPORT, VAI
+#
+THAW
+
+Uso: thaw <nome PG>
+
+Questo comando serve a 'scongelare' un PG, freezato per motivi disciplinari.
+
+Vedi anche: FREZE, SET -> FROZEN
+#
+TRANS
+
+Uso: trans <Nome PG>
+
+TRANS ti consente di trasferire una persona da dovunque si trovi nella
+stanza in cui sei TU.
+
+Esempi:
+
+> trans Stuart
+
+Vedi anche: AT, GOTO, POOFIN, POOFOUT, SET -> ROOM, TELEPORT, VAI
+#
+TRIGEDIT
+
+Uso: trigedit <numero del trigger>
+
+Con questo comando puoi creare un nuovo trigger.
+#
+UNAFFECT
+
+Uso: unaffect <nome>
+
+Rimuove tutti gli incantesimi da un giocatore.
+
+Vedi anche: STAT
+#
+UNBAN
+
+Uso: unban <indirizzo>
+
+Unban rimuove il ban ad un indirizzo IP.
+
+Esempi:
+
+> unban ai.mit.edu
+
+Vedi anche: BAN, WIZLOCK
+#
+UPTIME
+
+Uso: uptime
+
+Mostra l'ora in cui il MUD e' stato avviato (o riavviato) e calcola
+il tempo passato da quel momento.
+#
+USERS
+
+Uso: users [opzione]
+
+Questo comando ti fornisce una lista di tutte le connessioni attualmente
+attive sul MUD. Digitando il comando senza opzioni ti comparira' una lista a
+piu' colonne che ti mostrera' il numero d'ordine, il livello, la classe, lo
+stato di connessione, l'idletime, l'ora di connessione e l'indirizzo IP.
+
+Sono disponibili le seguenti opzioni:
+
+-k o -o        Mostra solo i fuorilegge (assassini e ladri)
+-p             Mostra solo le connessioni che sono effettivamente in gioco.
+-d             Mostra solo le connessioni "sconnesse".
+-l min-max     Mostra solo le connessioni di quei giocatori che sono compresi
+               nei livelli (minimo e massimo) specificati.
+-n <nome PG>   Mostra solo le connessioni del giocatore specificato.
+-h <host>      Mostra tutte le connessioni dall'<host> specificato.
+-c <classe>    Mostra solo le connessioni dei personaggi appartenenti alla
+               classe specificata.
+
+Vedi anche: DC, SLOWNS
+#
+VAI
+
+Uso: vai <locazione>
+
+Con il comando VAI, seguito dal vnum della locazione o dal nome di un
+personaggio od oggetto da cui vuoi andare, puoi trasferirti
+istantaneamente dove desideri.
+La locazione puo' essere il numero virtuale di una stanza o il nome di
+un personaggio o oggetto.
+
+Esempi:
+
+> vai  3001
+> vai ramku
+
+Vedi anche: AT, GOTO, POOFIN, POOFOUT, SET -> ROOM, TELEPORT, TRANSFER
+#
+VISIBLE
+
+Uso: visible
+
+Questo comando ti rende visibile a tutti coloro che sono collegati al MUD.
+
+Vedi anche: INVIS
+#
+VNUM
+
+Uso: vnum <mob | obj> <nome>
+
+Questo comando ti consente di avere un elenco di numeri virtuali di mob
+od oggetti che hanno un dato nome.
+
+Esempi:
+
+> vnum obj anello
+  1. [  805] un anello con sigillo per novizi
+  2. [  904] Un anello di platino
+  3. [ 1002] L'anello di Xuna
+
+> vnum mob drago
+  1. [   10] NightShadow il drago di Shade
+  2. [  350] the pet dragon
+  3. [  503] Un cucciolo di drago
+
+Vedi anche: LOAD, VSTAT
+#
+VSTAT
+
+Uso: vstat < mob | obj > <numero virtuale>
+
+Questo comando serve a vedere le caratteristiche di un mob od un oggetto
+di cui si conosca in numero virtuale.
+
+Esempi:
+
+> vstat obj 3000
+> vstat mob 3001
+
+Vedi anche: LOAD, STAT, VNUM
+#
+WIZHELP
+
+Uso: wizhelp
+
+Con questo comando ottieni una lista dei comandi da immortali che puoi
+usare al tuo livello.
+#
+WIZLOCK
+
+Uso: wizlock [valore]
+
+Con questo comando e' possibile impedire l'accesso al gioco a varie
+categorie di persone.
+
+WIZLOCK 1 impedisce l'entrata di nuovi personaggi.
+WIZLOCK n, dove n e' un numero compreso tra 2 e 71, impedisce la
+          creaazione di nuovi personaggi e permette di giocare solo a
+          personaggi di livello n o superiore.
+WIZLOCK senza alcun valore, mostra l'attuale livello di WIZLOCK.
+
+Vedi anche: BAN, UNBAN
+#
+WIZNET
+
+Uso: wiznet [ '@' | '+' | '-' | '#' ] [<testo>]
+
+E' il canale di comunicazione per immortali.
+
+Esempi:
+
+> wizsay <testo>
+  Manda il messaggio
+
+> wizsay @
+  Mostra gli immortali in gioco e che puoi vedere, inoltre dice
+  anche se stanno scrivendo (NdAke:magari dal postino)
+
+> wiznet +
+  Permette di ascoltare il canale degli immortali
+
+> wiznet -
+  Chiude il canale degli immortali
+
+Vedi anche: NOWIZ e ;
+#
+ZEDIT
+
+Uso: zedit <vnum Room>
+
+Con questo comando e' possibile editare il file di caricamento di una
+ROOM. Se vuoi che ad ogni reboot del MUD o ad ogni reset della zona in una
+determinata Room compaia un certo oggetto (ad es. una fontana) o un dato MOB
+(ad es. una guardia), dovrei utilizzare questo comando per fornire al MUD le
+informazioni necessarie.
+#
+ZONEXIT
+
+Uso: zonexit <num zona> <num zona uscita>
+
+Questo comando ti consente di vedere se una data zona ha uscite in un'altra.
+
+Esempi:
+
+Voglio vedere quante room di Jiroch escono nella wilderness, digitero'
+
+> zonexit 54 10000
+
+Otterro':
+**********************************************************
+   Stanze della Zona 54 che hanno uscite nella zona 10000
+**********************************************************
+
+[1]-STANZA: Dentro il cancello meridionale di Jiroch
+Zona: [ 54], VNum: [ 5413], RNum: [ 5832], Type: Citta'
+Exit[ south]:  To: [1412555], Type: NOBITS  - Largo sentiero battuto
+
+[2]-STANZA: Dentro i cancelli settentrionali di Jiroch
+Zona: [ 54], VNum: [ 5422], RNum: [ 5832], Type: Citta'
+Exit[ north]:  To: [1406555], Type: NOBITS  - Il Grande Deserto di Polvere
+
+[3]-STANZA: Dentro i cancelli est di Jiroch
+Zona: [ 54], VNum: [ 5431], RNum: [ 5832], Type: Citta'
+Exit[ east ]:  To: [1409559], Type: NOBITS  - Largo sentiero battuto
+
+[4]-STANZA: Fuori dal cancello occidentale di Jiroch
+Zona: [ 54], VNum: [ 5569], RNum: [ 5832], Type: Citta'
+Exit[ west ]:  To: [1409551], Type: NOBITS  - Largo sentiero battuto
+#
+ZRESET
+
+uso: zreset <zone | '*' | '.'>
+
+Serve per resettare manualmente una zona.
+L'asterisco '*' forza il reset di tutte le zone, come la stringa 'all'.
+Il punto '.' forza il reset solo della zona in cui ci si trova.
+
+Vedi anche: SHOW -> ZONES
+#
+$
+
+

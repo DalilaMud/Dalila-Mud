@@ -23,7 +23,7 @@
 #include "spells.h"
 #include "house.h"
 #include "screen.h"
-#include "olc.h"
+//#include "olc.h"
 #include "dg_scripts.h"
 #include "arena.h"
 #include "wilderness.h"
@@ -255,7 +255,7 @@ ACMD(do_ammala)
 	send_to_char ("Okay.\r\n", ch);
 }
 
-
+/*
 ACMD(do_stutto)
 {
 	void oedit_save_to_disk(int zone_num);
@@ -278,7 +278,7 @@ ACMD(do_stutto)
 	}
 	send_to_char ("Okay.\r\n", ch);
 }
-
+*/
 ACMD(do_echo)
 {
 	skip_spaces(&argument);
@@ -1062,9 +1062,11 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
 			k->player.hometown, GET_TALK(k, 0), GET_TALK(k, 1), GET_TALK(k, 2),
 			GET_PRACTICES(k), int_app[GET_INT(k)].learn,
 			wis_app[GET_WIS(k)].bonus);
+
     /*. Display OLC zone for immorts .*/
-		if(GET_LEVEL(k) >= LVL_MINIBUILD)
+/*		if(GET_LEVEL(k) >= LVL_MINIBUILD)
 			sprintf(buf, "%s, OLC[%d]", buf, GET_OLC_ZONE(k));
+*/
 		strcat(buf, "\r\n");
 		send_to_char(buf, ch);
 	}
@@ -2863,7 +2865,7 @@ ACMD(do_set)
 		{ "passwd",		LVL_GRGOD, 	PC, 	MISC },    /* 45 */
 		{ "nodelete", 	LVL_GOD, 	PC, 	BINARY },
 		{ "cha",		LVL_GRGOD, 	BOTH, 	NUMBER },
-		{ "olc",		LVL_GOD, 	PC, 	NUMBER },
+//		{ "olc",		LVL_GOD, 	PC, 	NUMBER },
 		{ "questor",		LVL_GOD, 	PC, 	BINARY },
 		{ "hometown", 		LVL_GRGOD, 	BOTH, 	NUMBER },  /* 50 */
 		{ "wildxrange",      	LVL_GOD,        PC,     NUMBER },
@@ -2893,7 +2895,7 @@ ACMD(do_set)
 		{ "mute",		LVL_IMPL,	PC,	BINARY },
 		{ "regno",		LVL_IMPL,	PC,	NUMBER},
 		{ "rank",		LVL_IMPL,	PC,	NUMBER},
-		{ "olccompleto",	LVL_GOD,	PC,	BINARY },
+//		{ "olccompleto",	LVL_GOD,	PC,	BINARY },
 		{ "peste",		LVL_GOD,	PC,	NUMBER},
 		{ "assassinato",	LVL_GOD,	PC,	NUMBER},
 		{ "\n", 		0, 	      	BOTH, 	MISC }
@@ -3301,7 +3303,7 @@ ACMD(do_set)
 			affect_total(vict);
 			break;
 		case 48:
-			GET_OLC_ZONE(vict) = value;
+			//GET_OLC_ZONE(vict) = value;
 			break;
 		case 49:
 			SET_OR_REMOVE(PLR_FLAGS(vict), PLR_QUESTOR);
@@ -3503,7 +3505,7 @@ ACMD(do_set)
 			GET_CLAN_RANK(vict)=value;
 			break;
 		case 78:
-			SET_OR_REMOVE(PLR_FLAGS(vict), PLR_ALL_OLC);
+			//SET_OR_REMOVE(PLR_FLAGS(vict), PLR_ALL_OLC);
 			break;
 		case 79:
 			GET_PESTE(vict) = RANGE(0, 239);
@@ -4104,7 +4106,7 @@ ACMD(do_zonexit)
 		send_to_char(buf,ch);
 	}
 }
-
+/*
 ACMD(do_ashop)
 {
 	struct char_data *vict;
@@ -4165,7 +4167,8 @@ ACMD(do_ashop)
 	if (zone!=-1)
 		sedit_save_to_disk(zone);
 }
-
+*/
+/*
 ACMD(do_takeshop)
 {
 	int i,zone;
@@ -4199,7 +4202,7 @@ ACMD(do_takeshop)
 	if (zone!=-1)
 		sedit_save_to_disk(zone);
 }
-
+*/
 ACMD(do_amob)
 {
 	struct char_data *vict;
@@ -4297,7 +4300,7 @@ ACMD(do_takemob)
 }
 
 
-
+/*
 ACMD(do_elenca)
 {
 	extern struct index_data *obj_index;
@@ -4483,7 +4486,7 @@ ACMD(do_elenca)
 	if (!found)
 		send_to_char("No objects were found in those parameters.\n\r", ch);
 }
-
+*/
 #define LVL_TRUST LVL_QUEST_MASTER
 
 ACMD(do_trust) {
@@ -4531,7 +4534,7 @@ ACMD(do_trust) {
 		SET_BIT(PRF_FLAGS(vict),PRF_HIDE_SNEAK);
 		SET_BIT(PRF_FLAGS(vict),PRF_NO_EROE);
 		SET_BIT(PLR_FLAGS(vict), PLR_NOWIZLIST);
-		GET_OLC_ZONE(vict) = -1;
+		//GET_OLC_ZONE(vict) = -1;
 		if (!is_file)
 			perform_immort_invis(vict,LVL_IMMORT); // Non puo' Essere Visibile
 		else 
@@ -4549,7 +4552,7 @@ ACMD(do_trust) {
 		REMOVE_BIT(PRF_FLAGS(vict),PRF_HIDE_SNEAK);
 		REMOVE_BIT(PRF_FLAGS(vict),PRF_NO_EROE);
 		REMOVE_BIT(PLR_FLAGS(vict), PLR_NOWIZLIST);
-		GET_OLC_ZONE(vict) = -1;
+		//GET_OLC_ZONE(vict) = -1;
 		if (!is_file)
 			perform_immort_vis(vict);
 		else 

@@ -16,7 +16,7 @@
 #include "interpreter.h"
 #include "db.h"
 #include "wilderness.h"
-#include "olc.h"
+//#include "olc.h"
 #include "events.h"
 #include "mestieri.h"
 #include "dg_scripts.h"
@@ -266,7 +266,7 @@ extern int num_of_houses;
 extern int find_house(room_vnum vnum);
 extern void hcontrol_destroy_house(struct char_data * ch, char *arg);
 extern void House_save_control(void);
-extern void redit_save_to_disk(int zone_num);
+//extern void redit_save_to_disk(int zone_num);
 extern void redit_save_internally(struct descriptor_data *d);
 extern int direzioneopposta(int dir);
 extern int parse_dir_char(char c);
@@ -3916,7 +3916,7 @@ int trova_sector (struct risorse_reset * mat)
 	if (numero <= mat->p_swim)   return SECT_WATER_SWIM;
 	return SECT_WATER_NOSWIM;
 }
-
+/*
 void conta_wilderness (void)
 {
 	extern char *sector_types[];
@@ -3947,7 +3947,7 @@ void conta_wilderness (void)
 	// mudlog(buf, NRM, LVL_GOD, TRUE);
 	}
 }
-
+*/
 void reset_risorse(int what)
 {
 	room_rnum prima, ultima;
@@ -3961,7 +3961,7 @@ void reset_risorse(int what)
 	extern struct char_data *character_list;
 	extern struct index_data *mob_index;
 	
-	conta_wilderness();
+	//conta_wilderness();
 	
 	prima =  real_room(WILD_VNUM(WILD_RXOR, WILD_RYOR));
 	ultima = real_room(WILD_VNUM(WILD_RXEN, WILD_RYEN));
@@ -4769,7 +4769,7 @@ void selvaggina_free(struct char_data *ch, int times)
 			for (tempy = chcoord.y - RANGE_CACCIATORE;tempy < chcoord.y + RANGE_CACCIATORE;tempy++) {
 				if (IS_IN_MINIWILD(ch)) {
 				  if ((tempx < 65) && (tempy < 57))
-				    room = real_room(MINIWILD_VNUM(real_zone(vch), tempx, tempy));
+				    room = real_room(MINIWILD_VNUM(vch, tempx, tempy));
 				  else
 				    continue;
 				}
@@ -4982,7 +4982,7 @@ void make_resurces(struct char_data *ch)
 
 
  /*******************************ARCHITETTO BY LANCE***********************************/
-
+/*
 ACMD(do_notifica) {
 
   struct char_data *vict;
@@ -5170,7 +5170,7 @@ ACMD(do_notifica) {
 	
   real_num = real_room(new_room_vnum);
   
-  /* Setto la flag BIG_HOUSE per fargli posare tutti gli oggetti */  
+  // Setto la flag BIG_HOUSE per fargli posare tutti gli oggetti 
   SET_BIT(ROOM_FLAGS(real_num), ROOM_BIG_HOUSE);
 	
   if (!ROOM_FLAGGED(room, ROOM_CONSTRUZIONE) && !ROOM_FLAGGED(room, ROOM_STOP_COSTR))
@@ -5235,7 +5235,7 @@ ACMD(do_notifica) {
   extract_obj(strumento);
   free(d->olc);
 }
-
+*/
 
 ACMD(do_costruisci)
 {
@@ -5434,7 +5434,7 @@ ACMD(do_costruisci)
 	}
 	
 	//save zone
-	redit_save_to_disk(world[IN_ROOM(ch)].zone);
+	//redit_save_to_disk(world[IN_ROOM(ch)].zone);
 	
 	// elimina materiale legno
 	for (object=world[IN_ROOM(ch)].contents; (legno_necessario > 0); object = temp)

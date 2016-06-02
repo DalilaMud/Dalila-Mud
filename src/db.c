@@ -1512,14 +1512,14 @@ void load_zones(FILE * fl, char *zonename)
 	if ((ptr = strchr(buf, '~')) != NULL)	/* take off the '~' if it's there */
 		*ptr = '\0';
 	Z.name = str_dup(buf);
-	
+/*	
 	line_num += get_line(fl, buf);
 	Z.wilderness = ZONE_NORMAL_AREA; // In wilderness.h
 	if (sscanf(buf, " %d %d %d %d ", &Z.top, &Z.lifespan, &Z.reset_mode, &Z.wilderness) < 3) {
 		fprintf(stderr, "Format error in (3 or 4) - constant line of %s", zname);
 		exit(0);
 	}
-	
+*/	
 	if (Z.wilderness == ZONE_MINIWILD)
 	{
 		line_num += get_line(fl, buf);

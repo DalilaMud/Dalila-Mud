@@ -1,0 +1,5896 @@
+!
+
+Usare ! per ripetere l'ultimo comando digitato.
+
+Esempio:
+
+> cast 'cure light' Enrique
+> !
+cast 'cure light' Enrique
+
+Vedi anche: ^, ALIAS
+#
+^
+
+Usare ^ per sostituire una stringa dell'ultimo comando digitato, con
+una nuova stringa.
+
+Esempio:
+
+> tell trevize Ciao
+Non lo vedi qui in giro.
+
+> ^trevize^ferus
+Tu dici a Ferus, 'Ciao'.
+
+> ^Ciao^Come va?
+Tu dici a Ferus, 'Come va?'.
+
+Vedi anche: !, ALIAS
+#
+'
+
+Usare ' al posto di SAY o PARLA per parlare alle persone presenti
+nella tua stessa locazione.
+
+Esempio:
+
+> 'salve a tutti!
+Dici, 'salve a tutti!'
+
+Vedi anche: ASK, CHIEDI, DICI, PARLA, SAY, SUSSURRA, TELL, WHISPER
+#
+: <messaggio>
+
+Usare : al posto di EMOTE o EMOZIONE per far si' che a tutti quelli
+presenti nella tua stessa locazione compaia il tuo nome seguito dal
+testo digitato come messaggio.
+
+Esempio:
+
+Se il tuo nome e' Talos,
+> : si sente molto felice oggi.
+Visualizzera':
+Talos si sente molto felice oggi.
+
+Vedi anche: EMOTE, EMOZIONE, SOCIALS
+#
+ABBANDONAR
+
+Questo comando non funziona, serve solo ad evitare che si possa
+abbandonare il gioco accidentalmente utilizzando il comando
+ABBANDONARE abbreviato.
+
+Vedi anche: ABBANDONARE
+#
+ABBANDONARE
+
+Uso: ABBANDONARE
+
+Il comando va' digitato per esteso, dato che abbreviandolo anche
+soltanto di una lettera (ABBANDONAR) non succederebbe assolutamente
+nulla.
+Digitando ABBANDONARE si esce dal gioco abbandonando a terra TUTTO
+quello che si possiede.
+Se si desidera conservare il proprio equipaggiamento, occorrera'
+recarsi nella WILDERNESS ed accamparsi utilizzando il comando CAMP
+(o ACCAMPATI) oppure trovare una locanda ed utilizzare il comando
+AFFITTA o RENT nella Reception.
+
+Vedi anche: ACCAMPATI, AFFITTA, CAMP, OFFER, OFFRI, QUIT, RENT
+#
+ABILITA'
+
+Uso: ABILITA'
+
+Questo comando visualizza l'elenco di tutte le abilita' che puoi
+apprendere, comprensivo dei valori raggiunti (da 0 a 15).
+Le abilita' contrassegnate da un asterisco sono migliorabili negli
+appositi santuari, le altre si possono apprendere recandosi prima da
+un maestro errante.
+
+Vedi anche: AGGUATO, IMPARA, LEARN, REPAIR, RIPARA, TRAPPOLA
+#
+ACCAMPATI
+
+Uso: ACCAMPATI
+
+Questo comando serve per accamparti nella wilderness. Ti consente di
+lasciare il gioco senza perdere equipaggiamento. Quando rientrerai in
+gioco ti troverai esattamente nello stesso punto.
+
+Vedi anche: ABBANDONARE, AFFITTA, CAMP, OFFER, OFFRI, QUIT, RENT
+#
+ACHI
+
+Uso: ACHI
+
+Questo comando funziona solo se un'arena e' stata indetta dagli Dei.
+Da' l'elenco degli attuali combattenti presenti in arena.
+
+Esempio:
+
+>ACHI
+Gladiatori nell'Arena
+---------------------------------------
+Durata = 50    Ore all'inizio = 6  
+Livelli Ammessi: da 60 a 80
+         Montepremi = 21100
+---------------------------------------
+Karanka             Mcleod     
+
+Vedi anche: AHALL, ARENA, ARINFO, AWHO, BET, SCOMMETTI
+#
+AFFERRA
+
+Uso: AFFERRA <nome oggetto>
+
+Ti permette di afferrare un oggetto presente nel tuo inventario,
+purche' questo sia afferrabile. Una volta afferrato, l'oggetto
+comparira' nel tuo EQuipaggiamento come oggetto [Tenuto].
+
+Esempio:
+
+> Afferra picca
+
+Vedi anche: EQUIPAGGIAMENTO, EQUIPMENT, GRAB, HOLD, TIENI
+#
+AFFILA
+
+Uso: AFFILA <nome arma>
+
+Questo comando consente ad un fabbro di affilare un'arma. 
+L'affilatura conferisce all'arma un bonus di +1 all'HITROLL.
+#
+AFFITTA
+
+Uso: AFFITTA
+
+Questo e' il comando da utilizzare nelle receptions delle locande o
+nelle stalle della Daresia.
+Se ti trovi in una locanda AFFITTA, come RENT, ti consente di
+affittare una camera ed uscire dal gioco. Quando rientrerai in gioco,
+ripartirai esattamente da dove lo hai lasciato.
+Se ti trovi in una stalla, in sella ad un cavallo, privo di carico,
+puoi lasciare l'animale ricevendo in cambio una ricevuta dallo
+stalliere. Al tuo ritorno in gioco, per avere indietro il cavallo,
+sara' sufficiente consegnare la ricevuta allo stalliere.
+
+Vedi anche: ABBANDONARE, ACCAMPATI, CAMP, OFFER, OFFRI, QUIT, RENT,
+RICEVUTA
+#
+AFK
+
+Uso: AFK
+
+Informa gli altri giocatori che sei lontano dalla tastiera.
+Fino a che non viene nuovamente ridigitato AFK, chi tenta di parlarti
+riceve un messaggio che lo informa del fatto che non sei al computer
+e, quindi, non puoi leggere ne' rispondere ai suoi messaggi.
+#
+AGGANCIA
+
+Uso: AGGANCIA carretto
+o    AGGANCIA carretto <nome MOB>
+
+Con questo comando e' possibile trainare un carretto o far si' che il
+carretto sia trainato da un MOB. Per poter agganciare e quindi trainare
+un carretto devi avere entrambe le mani libere. Il carretto, una volta
+agganciato, comparira' nel tuo EQuipaggiamento come oggetto [Trainato].
+Per smettere di trainare il carretto sara' necessario rimuoverlo
+dall'inventario con il comando REMOVE o RIMUOVI.
+Per sganciare il carretto dall'animale che lo sta trainando
+sara' necessario usare il comando SGANCIA carretto, perche' questo
+comando sia recepito dall'animale si dovra' essere a cavallo.
+
+Vedi anche: EQUIPAGGIAMENTO, EQUIPMENT, HANG, REMOVE, RIMUOVI, SGANCIA
+#
+AGGUATO
+
+Uso: AGGUATO <Nome PG>
+
+Con questa abilita' e' possibile sorprendere qualcuno e tramortirlo.
+Per utilizzare questa abilita' si deve essere nudi, in modalita' SNEAK
+(FURTIVO) ed avere in mano un manganello. Se l'agguato riesce la
+vittima si trovera' a terra priva di sensi per 10 minuti, in completa
+balia dell'assassino. Il PG che ha teso l'agguato non ricevera' nessun
+flag per l'assalto. Se il tentativo fallisce invece, la vittima reagisce
+come se fosse stato attaccato normalmente e il pg assalitore prende il
+flag del caso.
+Alcuni fattori influenzano la probabilita' di riuscita dell'agguato:
+1) Con una conoscenza dell'abilita' da 1 a 8, il PG ha il 2% di
+possibilità di successo per ogni LIVELLO di abilita'
+2) Con una conoscenza dell'abilita' da 9 a 14, il PG ha il 2,5%
+di possibilità di successo per ogni LIVELLO di abilita'
+3) Con una conoscenza dell'abilita' a 15, il PG ha il 40% FISSO
+di possibilita' di riuscita.
+4) Con DEX minore di 14 si ha un malus del -5% nel tentativo
+5) Con DEX maggiore di 16 si ha un bonus di +5%
+6) Ogni 10 livelli di differenza tra la vittima e il PG che tende
+l'agguato c'e' un bonus/malus del 5%, a seconda che la differenza
+sia positiva o negativa.
+
+Vedi anche: ABILITA
+#
+AHALL
+
+Uso: AHALL
+
+Visualizza i vincitori delle precedenti sessioni dell'arena.
+
+Vedi anche: ACHI, ARENA, ARINFO, AWHO, BET, SCOMMETTI
+#
+AIUTO
+
+Uso: AIUTO [comando]
+
+Aiuto cerca una corrispondenza anche parziale della parola digitata,
+spazi inclusi nei file di HELP.
+Aiuto da solo fornisce una lista dei piu' comuni comandi del gioco.
+
+Esempi:
+
+> aiuto magic mis
+Trovera' il testo di aiuto per lo spell magic missile.
+
+> aiuto quest
+Trovera' il testo di aiuto per il comando quest.
+
+Vedi anche: COMANDI, COMMANDS, HELP, SOCIALS
+#
+ALIAS
+
+Uso: alias [nome alias] [comando]
+
+Un alias e' un singolo comando usato per sostituire uno o piu' altri
+comandi.
+Digitando ALIAS da solo si ottiene la lista di tutti gli alias
+attualmente definiti.
+
+Per creare un nuovo alias scrivere ALIAS seguito dalla parola che si
+vuole utilizzare come alias e dal comando che con tale alias si vuole
+sia eseguito automaticamente.
+Il nome dell'alias deve essere di una sola parola.
+Il comando puo' essere una qualsiasi stringa.
+Gli alias non possono essere inseriti all'interno di un altro alias.
+
+Qualsiasi comando esistente (escluso alias) puo' essere sostituito da
+un alias.
+
+Scrivere ALIAS seguito dalla parola utilizzata come alias per
+cancellare un alias gia' definito.
+
+Il simbolo punto e virgola (;) puo' essere usato per separare azioni
+multiple all'interno di uno stesso alias.
+
+Le variabili $1, $2,... $9 possono essere usate per rappresentare gli
+argomenti da passare all'alias.
+
+Le variabili possono essere utilizzate piu' volte ed in qualsiasi ordine.
+
+La variabile speciale $* rappresenta l'intero input dato dopo un alias.
+
+Esempi:
+
+> alias gac get all corpse
+Crea un alias in base al quale ogni volta che digiterai gac prenderai
+tutto daun cadavere.
+
+> alias gac
+Cancella l'alias gac.
+
+> alias mangia get pane borsa; mangia pane
+Crea un alias in base al quale ogni volta che digiterai mangia,
+prenderai un pane dalla borsa e poi lo mangerai.
+
+> alias killem cast 'fireball' $1; cast 'harm' $2
+> killem fido mago
+Con questo comando creerai un alias in base al quale ogni volta che
+digiterai killem seguito dal nome di due bersagli (MOB o PG),
+lancerai un fireball al primo bersaglio specificato (qui fido) e poi
+un harm sul secondo bersaglio specificato (qui mago).
+
+> alias helpem cast 'heal' $1;cast 'bless' $1; cast 'armor' $1
+> helpem fido
+Con questo comando creerai un alias in base al quale ogni volta che
+digiterai helpem seguito dal nome di un bersaglio (PG o MOB), lancerai
+un heal al bersaglio specificato (qui fido), seguito da un bless e da un
+armor sempre sullo stesso bersaglio.
+
+> alias tr tell Cyrgon $*
+> tr Ciao, come va' oggi?
+Con questo comando creerai un alias in base al quale ogni volta che
+digiterau tr seguito da un messaggio parlerai direttamente con Cyrgon.
+
+Vedi anche: ! ^
+#
+ALTO
+
+Uso: ALTO
+
+Se possibile, ti consente di salire dalla locazione in cui ti trovi
+verso quella che si trova immediatamente sopra di essa. Puoi utilizzare
+anche la sola lettera A per andare verso l'alto.
+
+Vedi anche: UP
+#
+ALZATI
+
+Uso: ALZATI
+
+Se ti trovi a terra, perche' ti sei seduto o hai appena finito di
+dormire o, peggio, sei stato scaraventato a terra durante un
+combattimento, questo comando ti consente di tornare nuovamente in
+piedi.
+
+Vedi anche: DORMI, REST, RIPOSA, SIEDITI, SIT, SLEEP, STAND, SVEGLIA, WAKE  
+#
+AMICI
+
+Uso: AMICI
+
+Sei in crisi d'identita'? hai dimenticato il tuo nome? digita questo
+comando per scoprire chi sei.
+
+Vedi anche: WHOAMI
+#
+AMMAESTRA
+
+Uso: AMMAESTRA <Nome animale da ammaestrare>
+
+Con questo comando, i PG che hanno scelto quale professione quella di 
+ammaestratore, possono tentare di ammaestrare un animale selvatico.
+Nel tentativo, l'animale puo' risultare indifferente, nel qual caso
+si puo' ritentare di ammaestrarlo, ma puo' anche infuriarsi ed
+aggredire l'ammaestratore. In quest'ultimo caso non resta che uccidere
+l'animale o calmarlo in qualche modo. Se invece, il tentativo riesce,
+l'ammaestratore puo' vendere l'animale in uno dei negozi di animali
+o anche, nel caso di cavalli o unicorni, domarli e poi montarli.
+
+Vedi anche: DOMA, INSEGNA, MONTA, PROFICIENZE, SMONTA
+#
+APRI
+
+Uso: APRI <nome oggetto da aprire> [direzione se applicabile]
+
+Questo comando serve ad aprire una porta o un oggetto chiuso. Nel caso
+in cui vi siano piu' porte chiuse e' necessario specificare la
+direzione in cui si trova la porta da aprire.
+
+Esempi:
+
+> Apri porta
+> Apri sacca
+> Apri porta sud
+Apri la porta chiusa che si trova a sud.
+
+Vedi anche: BLOCCA, CHIUDI, CLOSE, LOCK, OPEN, SBLOCCA, UNLOCK
+#
+ARENA
+
+Uso: ARENA
+
+Questo comando funziona solo se un'arena e' stata indetta dagli Dei.
+Permette al giocatore di essere teletrasportato nell'arena.
+
+Vedi anche: ACHI, AHALL, ARINFO, AWHO, BET, SCOMMETTI
+#
+ARINFO
+
+Uso: ARINFO
+
+Questo comanda attiva/disattiva il canale dei messaggi riservato ai 
+combattimenti in arena.
+
+Vedi anche: ACHI, AHALL, ARENA, AWHO, BET, SCOMMETTI
+#
+ARRESTA
+
+Uso: ARRESTA
+
+Questo comando funziona solo se stai combattendo. In tal caso ti
+consente di smettere immediatamente di combattere.
+
+Vedi anche: STOPFIGHT
+#
+ASK
+
+Uso: ASK <Nome PG> <Messaggio>
+
+Invia ad un PG che si trova nella tua stessa locazione un messaggio
+che compare in forma di domanda.
+
+>Ask Sauzer come va?
+Chiedi a Sauzer, 'come va?'
+
+Vedi anche: ', CHIEDI, DICI, PARLA, SAY, SUSSURRA, TELL, WHISPER
+#
+ASSAGGIA
+
+Uso: ASSAGGIA <nome cibo>
+
+Con questo comando dai un morso ad un cibo. A seconda della grandezza
+del cibo, questo si consumera' con un certo numero di morsi.
+
+Esempio:
+
+> Assaggia pane
+
+Vedi anche: BEVI, DRINK, EAT, MANGIA, SIP, SORSEGGIA, TASTE
+#
+ASSASSINA
+
+Uso: ASSASSINA <Nome Mob o PG>
+
+Questo comando vi consente di attaccare un altro giocatore o un MOB.
+
+Vedi anche: COLPISCI, HIT, KILL, MURDER, UCCIDI
+#
+ASSIST
+
+Uso: ASSIST <Nome PG o MOB>
+
+Se Kheldar sta lottando con un minotauro e ti senti in grado di
+aiutarlo puoi digitare ASSIST Kheldar per colpire il minotauro.
+Notare che il minotauro continuera' a colpire Kheldar, assist serve
+soltanto ad aiutare un giocatore che sta gia' combattendo.
+
+Vedi anche: ASSASSINA, ASSISTI, COLPISCI, FLEE, HIT, KILL, MURDER,
+RESCUE, SCAPPA, SOCCORRI, UCCIDI
+#
+ASSISTI
+
+Uso: ASSISTI <Nome PG o mob>
+
+Se Kheldar sta lottando con un minotauro e ti senti in grado di
+aiutarlo puoi digitare ASSISTI Kheldar per colpire il minotauro.
+Notare che il minotauro continuera' a colpire Kheldar, assisti serve
+soltanto ad aiutare un giocatore che sta gia' combattendo.
+
+Vedi anche: ASSASSINA, ASSIST, COLPISCI, FLEE, HIT, KILL, MURDER,
+RESCUE, SCAPPA, SOCCORRI, UCCIDI
+#
+ATTERRA
+
+Uso: ATTERRA
+
+Se state volando per effetto di una magia, con questo comando tornate
+con i piedi per terra.
+
+Vedi anche: LAND
+#
+ATTRIBUTES
+
+Uso: ATTRIBUTES
+
+Serve per avere una serie di informazioni sul proprio personaggio.
+Potrete vedere i vostri attuali punteggi di forza, costituzione,
+intelligenza, carisma, saggezza, destrezza. Sono inoltre visualizzati
+i bonus al Tiro per colpire (Hitroll) e al danno (Damageroll).
+
+Vedi anche: ATTRIBUTI, PROFILO, SCORE
+#
+ATTRIBUTI
+
+Uso: ATTRIBUTI
+
+Serve per avere una serie di informazioni sul proprio personaggio.
+Potrete vedere i vostri attuali punteggi di forza, costituzione,
+intelligenza, carisma, saggezza, destrezza. Sono inoltre visualizzati
+i bonus al Tiro per colpire (Hitroll) e al danno (Damageroll).
+
+Vedi anche: ATTRIBUTES, PROFILO, SCORE
+#
+AUTODIR
+
+Uso: AUTODIR
+
+Attiva/disattiva la visualizzazione automatica delle direzioni che
+potete prendere per uscire dalla locazione in cui vi trovate.
+Puo' essere utilizzato anche insieme ad autoexit.
+Per ogni possibile uscita vi sara' indicato anche il nome della
+locazione in cui finirete prendendo quella direzione e, eventualmente,
+se l'uscita e' chiusa o bloccata.
+
+Vedi anche: AUTOEXIT, EXITS, USCITA
+#
+AUTOEXIT
+
+Uso: AUTOEXIT
+
+Attiva/disattiva la visualizzazione automatica delle uscite possibili.
+Non tutte le possibili uscite vengono visualizzate, ma soltanto quelle
+immediatamente disponibili.
+Se una porta e' chiusa, davanti all'indicazione dell'uscita
+corrispondente sara' un ^.
+
+Esempio:
+
+[ Uscite: ^n e s w ]
+
+A nord (^n) c'e' una porta chiusa.
+
+Vedi anche: AUTODIR, EXITS, USCITA
+#
+AUTOQUEST
+
+Uso: AUTOQUEST
+
+Comando per avere una quest da mob particolari. Prevede
+altri sottocomandi come AUTOQUEST REQUEST o AUTOQUEST COMPLETE.
+#
+AWHO
+
+Uso: AWHO
+
+
+Questo comando funziona solo se un'arena e' stata indetta dagli Dei.
+Da' l'elenco degli attuali combattenti presenti in arena.
+
+Esempio:
+
+>AWHO
+Gladiatori nell'Arena
+---------------------------------------
+Durata = 50    Ore all'inizio = 6  
+Livelli Ammessi: da 60 a 80
+         Montepremi = 21100
+---------------------------------------
+Karanka             Mcleod     
+
+Vedi anche: ACHI, AHALL, ARENA, ARINFO, BET, SCOMMETTI
+#
+BACKSTAB
+
+Uso: BACKSTAB <nome vittima>
+
+Backstab serve per tentare di pugnalare alla schiena la vittima
+prescelta. Solo Alcioni e Peloi possono utilizzare questo comando
+dopo aver imparato la relativa skill dai Maestri della propria
+Gilda.
+La percentuale di successo dipende dal grado di conoscenza della skill.
+E' possibile usare il backstab anche su chi sta dormendo.
+
+Vedi anche: PUGNALA
+#
+BACO
+
+Uso: BACO <Messaggio>
+
+Con questo comando puoi segnalare un BUG ai Creatori. Per facilitare la 
+risoluzione del problema, sei pregato di utilizzarlo nella esatta
+locazione in cui hai riscontrato il Bug.
+
+Esempio:
+
+> baco ho digitato look look ed il mud e' andato in crash!
+
+Vedi anche: BUG, ERRORE, GPRAY, PREGHIERA, IDEA, TYPO 
+#
+BALANCE
+
+Uso: BALANCE
+
+Questo comando è utilizzabile solo in banca e ti fornisce indicazioni
+sul saldo attuale del tuo conto.
+
+Vedi anche: BILANCIO, DEPOSIT, DEPOSITA, GOLD, ORO, PRELEVA, PROFILO,
+SCORE, WITHDRAW 
+#
+BAR
+
+Uso: BAR
+
+Questo comando fa' comparire tre barre orizzontali che evidenziano la
+percentuale residua di hit point, punti mana e punti movimento.
+Inoltre per ogni categoria viene visualizzato anche in forma numerica
+il rapporto residuo/massimo.
+
+Vedi anche: BARRA, PROFILO, SCORE
+#
+BARRA
+
+Uso: BARRA
+
+Questo comando fa' comparire tre barre orizzontali che evidenziano la
+percentuale residua di hit point, punti mana e punti movimento.
+Inoltre per ogni categoria viene visualizzato anche in forma numerica
+il rapporto residuo/massimo.
+
+Vedi anche: BAR, PROFILO, SCORE
+#
+BASH
+
+Uso: BASH <Nome vittima>
+
+Con questo comando puoi riuscire a scaraventare a terra il tuo
+avversario. Solo i Genidian possono utilizzare questo comando, dopo
+aver appreso la relativa skill dal Maestro della propria Gilda.
+Il successo del bash dipende dal grado di conoscenza della skill.
+Se il bash ha successo la vittima subisce un danno lieve, ma casca
+in terra. La vittima restera' a terra, salvo casi eccezionali, per 2 round di 
+combattimento. Da tale posizione svantaggiata non potra' lanciare incantesimi 
+e subira' danni maggiorati (1,5 volte il danno normale).
+Se il bash fallisce in terra ci finisci te. Anche in caso di successo 
+chi effettua il bash non potra' fare altre azioni per 2 round di 
+combattimento, e' quindi consigliabile utilizzare questa tecnica quando si e' 
+in gruppo.
+
+Vedi anche: CARICA, URTA
+#
+BASSO
+
+Uso: basso
+
+Digitando Basso o semplicemente la lettera B, ti sposterai, se
+possibile, nella locazione che si trova immediatamente al di sotto'
+di quella in cui ti trovi.
+
+Vedi anche: DOWN
+#
+BET
+
+Uso: BET <Nome Gladiatore> <somma che si vuole scommettere>
+
+Permette di scommettere su uno dei combattenti nell'arena.
+
+Vedi anche: ACHI, AHALL, ARENA, ARINFO, AWHO, SCOMMETTI
+#
+BEVI 
+
+Uso: BEVI <nome contenitore di liquidi>
+ oppure
+     BEVI <nome liquido> [da] <nome contenitore di liquidi>
+
+Se hai sete questo e' il comando che devi usare.
+
+Esempi:
+
+> Bevi ciotola
+> Bevi acqua dalla ciotola
+
+Vedi anche: ASSAGGIA, DRINK, EAT, MANGIA, SIP, SORSEGGIA, TASTE
+#
+BILANCIO
+
+Uso: BILANCIO
+
+Questo comando è utilizzabile solo in banca e ti fornisce indicazioni
+sul saldo attuale del tuo conto.
+
+Vedi anche: BALANCE, DEPOSIT, DEPOSITA, GOLD, ORO, PRELEVA, PROFILO,
+SCORE, WITHDRAW
+#
+BLOCCA
+
+Uso: BLOCCA <nome oggetto>
+
+Con questo comando puoi chiudere un oggetto od una porta purche' tu
+abbia la chiave giusta in inventario.
+
+Esempio:
+
+>Blocca porta
+*Click*
+Effetto: Ora la porta e' chiusa a chiave.
+
+Vedi anche: APRI, CHIUDI, CLOSE, INVENTARIO, INVENTORY, LOCK, OPEN,
+SBLOCCA, UNLOCK
+#
+BONIFICO
+
+Uso: BONIFICO
+
+Funziona soltanto dentro al vostro negozio. Vi consente di inviare
+direttamente sul vostro conto bancario i soldi guadagnati dal vostro
+commesso.
+
+Vedi anche: GUADAGNA, INCASSA, NEGOZI, SALDO, SHEDIT, SHSAVE
+#
+BREVE
+
+Uso: BREVE
+
+Questo comando serve per attivare/disattivare la modalita' di descrizione 
+breve. Quando il modo breve e' attivo, non vedrai le descrizioni della
+stanza in cui ti trovi, sara' visualizzato soltanto il nome della
+locazione e gli oggetti/persone presenti.
+
+Se digiti guarda (o look) ti apparira' sempre la descrizione completa,
+anche se hai attivato il modo breve.
+
+Vedi anche: BRIEF, COMPACT, COMPATTO, GUARDA, LOOK
+#
+BRIEF
+
+Uso: BRIEF
+
+Questo comando serve per attivare/disattivare la modalita' di descrizione 
+breve. Quando il modo breve e' attivo, non vedrai le descrizioni della
+stanza in cui ti trovi, sara' visualizzato soltanto il nome della
+locazione e gli oggetti/persone presenti.
+
+Se digiti guarda (o look) ti apparira' sempre la descrizione completa,
+anche se hai attivato il modo breve.
+
+Vedi anche: BREVE, COMPACT, COMPATTO, GUARDA, LOOK
+#
+BUG
+
+Uso: BUG <Messaggio>
+
+Con questo comando puoi segnalare un BUG ai Creatori. Per facilitare la 
+risoluzione del problema, sei pregato di utilizzarlo nella esatta
+locazione in cui hai riscontrato il Bug.
+
+Esempio:
+
+> bug ho digitato look look ed il mud e' andato in crash!
+
+Vedi anche: BACO, ERRORE, GPRAY, IDEA, PREGHIERA, TYPO
+#
+BUY
+
+Uso: BUY <nome oggetto>      
+     BUY <Numero d'ordine dell'oggetto>
+     BUY 10 <nome oggetto>
+     BUY 10 <numero d'ordine dell'oggetto>
+
+Se vuoi acquistare un oggetto in un negozio ed hai i soldi necessari,
+puoi usare questo comando.
+Gli oggetti possono essere acquistati per nome, o per il numero che si
+riferisce alla loro posizione nella lista del negozio.
+Possono anche essere acquistati piu' oggetti dello stesso tipo per
+volta.
+
+Esempi:
+
+> buy spada            (acquista la prima spada della lista)
+> buy 3                (acquista il terzo oggetto della lista del negozio)
+> buy 10 focaccia      (acquista 10 focacce)
+> buy 10 2             (acquista 10 pezzi del secondo oggetto in lista)
+
+Vedi anche: COMPRA, LIST, LISTA, SELL, PRODOTTI, VALORE, VALUE, VENDI
+#
+CACCIA
+
+Uso: Caccia <nome animale da cacciare>
+
+Con questo comando un cacciatore puo' tentare di scagliarsi contro un
+animale e abbatterlo. Se il tentativo riesce, l'animale verra' ucciso
+e si potra' procedere a scuoiarlo, se invece il tentativo fallisce
+possono verificarsi due eventualita':
+
+1) la preda scappa, in tal caso sara' necessario inseguirla;
+2) la preda ha la meglio nella lotta ed in tal caso il cacciatore
+perdera' i sensi per alcuni istanti.
+
+Gli animali attualmente cacciabili sono: aquila, cervo, cinghiali
+(piccoli e grandi), ermellino, faina, gatto selvatico, lepre, lupo,
+orso Grizzly, orso grigio, tatanka, volpe.
+
+Esempi:
+
+> caccia lepre
+
+Puoi ottenere le seguenti risposte:
+> La tua abilita' nel cacciare e' invidiabile. Catturi ed uccidi Una lepre 
+bianca come la neve.
+
+oppure
+
+> Ti avventi su Una lepre bianca come la neve tua preda ma agilmente ti scappa.
+
+oppure
+
+Intraprendi la lotta con Un TATANKA che pero' ha la meglio su di te.
+
+Vedi anche: LAVORA, SCUOIA
+#
+CALCIO
+
+Uso: CALCIO <nome avversario>
+
+Con questo comando e' possibile sferrare potenti calci agli avversari.
+Solo genidian, peloi ed alcioni possono utilizzare questa skill dopo
+averne appreso i rudimenti dal Maestro della loro Gilda.
+La possibilita' di successo del calcio dipende dalla conoscenza della
+tecnica. Maggiore e' il livello del giocatore, maggiore sara' il danno
+inferto da un calcio riuscito.
+Sia che il colpo riesca, sia che non riesca, non potrete digitare altri 
+comandi (e colpi) per i successivi tre round di combattimento.
+Una volta che si e' ingaggiato un combattimento non è necessario
+specificare ulteriormente il bersaglio.
+
+
+Esempio:
+
+> calcio pedone
+Il tuo potente calcio fa in modo che Il pedone della corte Nera non si 
+rialzi... mai piu'.
+
+Vedi anche: KICK
+#
+CAMP
+
+Uso: CAMP
+
+Questo comando serve per accamparti nella wilderness senza farti perdere
+equipaggiamento.
+
+Vedi anche: ABBANDONARE, ACCAMPATI, AFFITTA, OFFER, OFFRI, QUIT, RENT
+#
+CANCELLA
+
+Uso: CANCELLA
+
+Cancella lo schermo.
+
+Vedi anche: CLEAR, CLS
+#
+CARICA
+
+Uso: CARICA <Nome vittima>
+
+Con questo comando puoi riuscire a scaraventare a terra il tuo
+avversario. Solo i Genidian possono utilizzare questo comando, dopo
+aver appreso la relativa skill dal Maestro della propria Gilda.
+Il successo del bash dipende dal grado di conoscenza della skill.
+Se il bash ha successo la vittima subisce un danno lieve, ma casca
+in terra. La vittima restera' a terra, salvo casi eccezionali, per 2 round di 
+combattimento. Da tale posizione svantaggiata non potra' lanciare incantesimi 
+e subira' danni maggiorati (1,5 volte il danno normale).
+Se il bash fallisce in terra ci finisci te. Anche in caso di successo 
+chi effettua il bash non potra' fare altre azioni per 2 round di 
+combattimento, e' quindi consigliabile utilizzare questa tecnica quando si e' 
+in gruppo.
+
+Vedi anche: BASH, URTA
+#
+CASA
+
+Uso: CASA <nome PG>
+
+Questo comando serve per aggiungere o rimuovere giocatori dalla propria
+lista degli ospiti.
+Devi trovarti nella tua casa per poter utilizzare questo comando.
+
+Digitando CASA senza parametri ti si presentera' la lista degli attuali
+ospiti della casa.
+Digitando CASA <nome PG> si aggiunge il nominativo alla lista se non era
+gia' presente, oppure si rimuove il nominativo se era gia' presente.
+Il giocatore nominato non deve essere necessariamente in gioco al momento
+in cui lo si aggiunge/rimuove.
+
+Vedi anche: HOUSE, VENDICASA
+#
+CAST 
+
+Uso: CAST 'nome incantesimo' <bersaglio>
+
+Se si vuole lanciare un incantesimo si deve utilizzare questo comando
+seguito dal nome dell'incantesimo racchiuso tra '.
+Alcuni incantesimi per funzionare hanno bisogno di avere un bersaglio 
+specificato, altri no.
+Solitamente le magie d'attacco hanno bisogno di un bersaglio se non ci
+si trova gia' impegnati in combattimento, se invece si sta gia'
+combattendo il bersaglio puo' essere omesso e l'incantesimo si
+indirizzera' automaticamente contro il nemico.
+Gli incantesimi di cura o protezione, invece, se non si specifica il
+bersaglio verranno lanciati su se' stessi.
+
+Esempi:
+
+> cast 'fireball' 
+> cast 'burning hands' drago
+> cast 'cure light' Evildwarf
+
+Vedi anche: INCANTESIMO
+#
+CDICI
+
+Uso: CDICI <messaggio>
+
+Questo comando ti consente di utilizzare il canale di comunicazione del
+tuo regno. Ogni concittadino presente in gioco udra' quello che dici, a
+meno che non abbia deciso di disattivare questo canale con il comando
+NOREGNO. Puo' essere abbreviato con le prime due lettere (CD).
+
+Esempio:
+
+> cdici salve a tutti
+Dici al clan, 'salve a tutti'
+
+Vedi anche: CTELL, NOREGNO
+#
+CERCA
+
+Uso: cerca
+
+Questo comando serve per cercare porte o passaggi segreti. Se ritieni
+che nel luogo in cui ti trovi esista un'uscita nascosta, ti bastera'
+digitare piu' volte questo comando per cercarla. Se esiste una porta 
+segreta la troverai di certo.
+
+Esempio:
+
+> cerca
+Inizi a cercare...
+
+Hai trovato una porta segreta basso.
+
+Vedi anche: SEARCH
+#
+CHECK
+
+Uso: CHECK
+
+Questo comando deve essere usato negli uffici postali della Daresia.
+Il Postino ti dira' se hai ricevuto qualche lettera. Per farti consegnare
+la corrispondenza dovrai usare il comando RECEIVE o RICEVI.
+
+Esempio:
+
+> check
+Gioel il postino di Elenia ti dice, 'Si, ho della posta per te.'
+
+Vedi anche: CONTROLLA, MAIL, RECEIVE, RICEVI, SCRIVI, WRITE
+#
+CHI
+
+Uso: CHI [parametri]
+
+Visualizza la lista delle persone attualmente in gioco. Attenzione: alcuni
+potrebbero essere invisibili!
+Alcuni parametri possono essere utilizzati per limitare la lista dei giocatori.
+
+I parametri accettati sono i seguenti:
+
+livello minimo (solo per Creatori)
+livello minimo-livello massimo (solo per Creatori)
+-n <nome PG> (solo per Creatori)
+-c <nome classe> (solo per Creatori)
+-s (compatta la lista dei presenti, mostrandoli uno di seguito all'altro)
+-o (visualizza i giocatori che hanno attivo il canale OOC)
+-q (visualizza solo i partecipanti alla quest)
+-r (solo per Creatori)
+-k (solo per Creatori)
+-z (solo per Creatori)
+
+Esempi:
+
+> chi 35
+Visualizzera' i giocatori dal 35 livello in su'.
+
+> chi 35-40
+Visualizzera' i giocatori dal 35 al 40 livello.
+
+> chi -n Kora
+Giocatori
+-------
+[Accolita Stregone ] Kora -cerca tanker- [Primo del Regno di Sendaria] 
+(GDR)
+
+> chi -c cyrinic
+Giocatori
+-------
+[Veterana Sacerdote ] Kitiara  [Tolnar Iustitiae del Regno di Tolnedra] 
+(quest) (GDR)
+[Adepto Sacerdote ] Sagat  Prelato di Fizban [Popolano del Regno di Tolnedra] 
+(GDR)
+[Apprendista Chierico ] Ciccia  [Suddito del Regno di Sendaria] (GDR)
+
+Vedi anche: WHO
+#
+CHIEDI
+
+Uso: Chiedi <Nome PG> <Messaggio>
+
+Invia ad un PG che si trova nella tua stessa locazione un messaggio che 
+compare in forma di domanda.
+
+Esempio:
+
+> Chiedi Sauzer come va?
+Chiedi a Sauzer, 'come va?'
+
+Vedi anche: ', ASK, DICI, PARLA, SAY, SUSSURRA, TELL, WHISPER
+#
+CHIUDI
+
+Uso: CHIUDI <nome oggetto da aprire> [direzione se applicabile]
+
+Questo comando serve a chiudere una porta o un oggetto aperto. Nel
+caso in cui vi siano piu' porte aperte e' necessario specificare
+la direzione in cui si trova la porta da chiudere.
+
+Esempi:
+
+> Chiudi porta
+> Chiudi sacca
+> Chiudi porta sud
+Chiudi la porta chiusa che si trova a sud.
+
+Vedi anche: APRI, BLOCCA, CLOSE, LOCK, OPEN, SBLOCCA, UNLOCK
+#
+CLEAR
+
+Uso: CLEAR
+
+Cancella lo schermo.
+
+Vedi anche: CANCELLA, CLS
+#
+CLOSE
+
+Uso: CLOSE <nome oggetto da aprire> [direzione se applicabile]
+
+Questo comando serve a chiudere una porta o un oggetto aperto. Nel
+caso in cui vi siano piu' porte aperte e' necessario specificare
+la direzione in cui si trova la porta da chiudere.
+
+Esempi:
+
+> Close porta
+> Close sacca
+> Close porta sud
+Chiudi la porta chiusa che si trova a sud.
+
+Vedi anche: APRI, BLOCCA, CHIUDI, LOCK, OPEN, SBLOCCA, UNLOCK
+#
+CLS
+
+Uso: CLS
+
+Cancella lo schermo.
+
+Vedi anche: CANCELLA, CLEAR
+#
+COLOR
+
+Uso: COLOR [off | sparse | normal | complete]
+
+Se il vostro terminale ha la possibilita' di visualizzare i colori,
+potete usare questo comando per visualizzarli.
+
+> color off
+Disabilita l'utilizzo dei colori.
+
+> color sparse
+> color normal
+> color complete
+
+Questi tre comandi attivano l'uso dei colori a vari livelli.
+Provateli per vedere quale soluzione si adatta maggiormente al vostro
+gusto.
+
+> color
+Visualizza il vostro attuale livello di colore.
+
+Per aggiungere i colori al testo che digitate (nei titoli, parlando,
+ecc.), potete utilizzare i seguenti codici (si noti bene che i codici 
+sono giusti, ma gli utenti di ZMUD usano i file colore di quel
+programma che modifica in parte i colori base utilizzando, ad esempio,
+il verde oliva al posto del bianco come colore "normale"):
+
+&& + 0 Ripristina i normali colori, da usare sempre al termine della
+       frase colorata!
+&& + 1 Rosso
+&& + 2 Verde
+&& + 3 Giallo
+&& + 4 Blu
+&& + 5 Magenta
+&& + 6 Azzurro
+&& + 7 Bianco
+&& + 8 Grassetto
+&& + 9 Grigio
+
+&& + u sottolineato
+&& + d scuro
+&& + b grassetto
+&& + R sfondo rosso
+&& + G sfondo verde
+&& + B sfondo blu
+&& + Y sfondo giallo
+&& + M sfondo magenta
+&& + C sfondo azzurro
+&& + W sfondo bianco
+&& + S sfondo nero
+
+Ovviamente per vedere il testo colorato dovrete avere settato il livello
+di colore almeno a NORMAL. (Si badi bene che il segno + tra && ed il 
+numero o lettera, non deve essere digitato!).
+
+Vedi anche: COLORE
+#
+COLORE
+
+Uso: COLORE [off | sparse | normal | complete]
+
+Se il vostro terminale ha la possibilita' di visualizzare i colori,
+potete usare questo comando per visualizzarli.
+
+> colore off
+Disabilita l'utilizzo dei colori.
+
+> colore sparse
+> colore normal
+> colore complete
+
+Questi tre comandi attivano l'uso dei colori a vari livelli.
+Provateli per vedere quale soluzione si adatta maggiormente al vostro
+gusto.
+
+> colore
+Visualizza il vostro attuale livello di colore.
+
+Per aggiungere i colori al testo che digitate (nei titoli, parlando,
+ecc.), potete utilizzare i seguenti codici (si noti bene che i codici 
+sono giusti, ma gli utenti di ZMUD usano i file colore di quel programma
+che modifica in parte i colori base utilizzando, ad esempio, il verde
+oliva al posto del bianco come colore "normale"):
+
+&& + 0 Ripristina i normali colori, da usare sempre al termine della
+       frase colorata!
+&& + 1 Rosso
+&& + 2 Verde
+&& + 3 Giallo
+&& + 4 Blu
+&& + 5 Magenta
+&& + 6 Azzurro
+&& + 7 Bianco
+&& + 8 Grassetto
+&& + 9 Grigio
+
+&& + u sottolineato
+&& + d scuro
+&& + b grassetto
+&& + R sfondo rosso
+&& + G sfondo verde
+&& + B sfondo blu
+&& + Y sfondo giallo
+&& + M sfondo magenta
+&& + C sfondo azzurro
+&& + W sfondo bianco
+&& + S sfondo nero
+
+Ovviamente per vedere il testo colorato dovrete avere settato il
+livello di colore almeno a NORMAL. (Si badi bene che il segno + tra
+&& ed il numero o lettera, non deve essere digitato!).
+
+Vedi anche: COLOR
+#
+COLPISCI
+
+Uso: Colpisci <nome MOB o PG>
+
+Se vuoi ingaggiare battaglia con un MOB o un PG devi digitare questo
+comando seguito dal nome del MOB o PG. Attenzione pero', se non ti
+trovi in arena l'attacco a qualsiasi PG, la cui fedina penale sia
+pulita, ti fara' automaticamente iscrivere nella lista dei ricercati
+del Regno cui appartiene il PG che hai colpito. Anche l'assalto di
+alcuni MOB (i cosi' detti "civili") all'interno delle citta', puo'
+macchiare la tua fedina.
+
+Vedi anche: ASSASSINA, HIT, KILL, MURDER, UCCIDI
+#
+COMANDI
+
+Uso: COMANDI
+
+Da' una lista di tutti i comandi utilizzabili. Per ogni comando
+dovrebbe essere poi disponibile l'aiuto relativo, digitando
+aiuto <nome comando> o help <nome comando>.
+
+Vedi anche: AIUTO, COMMANDS, HELP, SOCIALS
+#
+COMMANDS
+
+Uso: COMMANDS
+
+Da' una lista di tutti i comandi utilizzabili. Per ogni comando
+dovrebbe essere poi disponibile l'aiuto relativo, digitando
+aiuto <nome comando> o help <nome comando>.
+
+Vedi anche: AIUTO, COMANDI, HELP, SOCIALS
+#
+COMPACT
+
+Uso: COMPACT
+
+Questo comando toglie/inserisce una linea bianca dopo ogni comando
+che digiti.
+
+Vedi anche: BREVE, BRIEF, COMPATTO
+#
+COMPATTO
+
+Uso: COMPATTO
+
+Questo comando toglie/inserisce la linea bianca dopo ogni comando
+che digiti.
+
+Vedi anche: BREVE, BRIEF, COMPACT
+#
+COMPRA
+
+Uso: Compra <nome oggetto>      
+     Compra <Numero d'ordine dell'oggetto>
+     Compra 10 <nome oggetto>
+     Compra 10 <numero d'ordine dell'oggetto>
+
+Se vuoi acquistare un oggetto in un negozio ed hai i soldi necessari,
+puoi usare questo comando.
+Gli oggetti possono essere acquistati per nome, o per il numero che
+si riferisce alla loro posizione nella lista del negozio.
+Possono anche essere acquistati piu' oggetti dello stesso tipo per
+volta.
+
+Esempi:
+
+> Compra spada            (acquista la prima spada della lista)
+> Compra 3                (acquista il terzo oggetto della lista del negozio)
+> Compra 10 focaccia      (acquista 10 focacce)
+> Compra 10 2             (acquista 10 pezzi del secondo oggetto in lista)
+
+Vedi anche: BUY, LIST, LISTA, PRODOTTI, SELL, VALORE, VALUE, VENDI
+#
+CONIA
+
+Uso: Conia <numero di lingotti> <tipo di lingotti da coniare>
+
+Per utilizzare questo comando bisogna recarsi nella zecca del proprio
+Regno con lingotti d'oro o d'argento.
+Se il tuo sovrano o i funzionari competenti ti hanno concesso il privilegio
+di usare la zecca e l'ufficio esportazioni, potrai consegnare i lingotti
+all'addetto dell'ufficio. Una volta consegnati i materiali potrai digitare
+CONIA seguito dal numero e dal tipo di lingotti che vuoi trasformare in
+danaro e l'addetto versera' nel tesoro del tuo regno il ricavato.
+
+Vedi anche: TRADE
+#
+CONSIDER
+
+Uso: CONSIDER <Nome MOB o PG>
+
+Questo comando compara il tuo livello con il livello dell'avversario 
+e ti dice approssimativamente se il combattimento e' alla tua portata.
+Consider non considera gli hitpoint, gli attacchi speciali, i damage
+bonus.
+
+Vedi anche: ASSASSINA, COLPISCI, CONSIDERA, HIT, KILL, MURDER, UCCIDI
+#
+CONSIDERA
+
+Uso: CONSIDERA <Nome MOB o PG>
+
+Questo comando compara il tuo livello con il livello dell'avversario 
+e ti dice approssimativamente se il combattimento e' alla tua portata.
+Considera non considera gli hitpoint, gli attacchi speciali, i damage
+bonus.
+
+Vedi anche: ASSASSINA, COLPISCI, CONSIDER, HIT, KILL, MURDER, UCCIDI
+#
+CONTROLLA
+
+Uso: CONTROLLA
+
+Questo comando deve essere usato negli uffici postali della Daresia.
+Il Postino ti dira' se hai ricevuto qualche lettera. Per farti consegnare
+la corrispondenza dovrai usare il comando RECEIVE o RICEVI.
+
+Esempio:
+
+> controlla
+Gioel il postino di Elenia ti dice, 'Si, ho della posta per te.'
+
+Vedi anche: CHECK, MAIL, RECEIVE, RICEVI, SCRIVI, WRITE
+#
+COSTRUISCI
+
+Uso: costruisci <oggetto> <materiale>
+
+Questo comando deve essere utilizzato dall'architetto subito dopo aver
+aperto un cantiere per determinare il tipo di casa che intende costruire.
+L'oggetto della costruzione puo' essere casa, abitazione o castello.
+L'oggetto deve corrispondere a quello indicato al momento della notifica
+della costruzione (vedi NOTIFICA).
+Il materiale dipendera' dal tipo di abitazione che alla fine si vorra' 
+ottenere: legno, pietra, evoluta, mista.
+A seconda della scelta effettuata sara' necessario portare nel cantiere 
+materiali in diversa quantita' per poter procedere alla costruzione vera e 
+propria della casa.
+
+Esempio:
+
+> costruisci casa legno
+Ti consentira' di edificare una casa (ad una stanza) di legno.
+
+Vedi anche: NOTIFICA, PROGETTO
+#
+CREDITI
+
+Uso: Crediti
+
+Se vuoi conoscere i nomi degli inventori del Circle, digita questo comando.
+
+Vedi anche: CREDITS
+#
+CREDITS
+
+Uso: Credits
+
+Se vuoi conoscere i nomi degli inventori del Circle, digita questo comando.
+
+Vedi anche: CREDITI
+#
+CTELL
+
+Uso: CTELL  <messaggio>
+o anche
+     CT <messaggio>
+
+Questo comando ti consente di utilizzare il canale di comunicazione del
+tuo regno. Ogni concittadino presente in gioco udra' quello che dici, a
+meno che non abbia deciso di disattivare questo canale con il comando
+NOREGNO. Puo' essere abbreviato con le prime due lettere (CT).
+
+Esempio:
+
+> ctell salve a tutti
+Dici al clan, 'salve a tutti'
+
+Vedi anche: CDICI, NOREGNO
+#
+CUCI
+
+Uso: cuci <prodotto> <obiettivo> + [percentuale]
+
+Questo comando va utilizzato in una sartoria e si deve avere
+precedentemente afferrato ago e filo. Se queste condizioni sono
+rispettate si potranno cucire delle stoffe lavorate, delle pelli 
+lavorate o delle pellicce lavorate per ottenere diversi prodotti
+finiti.
+Per la precisione con le stoffe si potranno ottenere:
+
+mantelli di stoffa (occorrono 3 stoffe lavorate)
+vestiti (occorrono 2 stoffe lavorate)
+
+Dalle pelli si possono ottenere:
+
+elmi di pelle (occorrono 3 pelli lavorate)
+gambali di pelle (occorrono 3 pelli lavorate)
+armature di pelle (occorrono 4 pelli lavorate)
+parabraccia di pelle (occorrono 2 pelli lavorate)
+guanti di pelle (occorrono 2 pelli lavorate)
+stivali di pelle (occorrono 3 pelli lavorate)
+cinte (occorrono 2 pelli lavorate)
+borse (occorrono 2 pelli lavorate)
+
+Dalle pellicce si possono ottenere:
+
+armature (occorrono 4 pellicce lavorate)
+mantelli di pelliccia (occorrono 3 pellicce lavorate)
+
+NOTA BENE: Occorre specificare una percentuale (0-100) dopo il nome
+del prodotto che si vuole ottenere. In questo modo sara' possibile
+realizzare pezzi di armatura in cuoio utilizzabili da personaggi
+di livelli diversi.
+Nella creazione dei vestiti o delle borse non occorre specificare
+la percentuale, ma si puo' aggiungere una descrizione all'abito.
+Per questi dunque il comando sara':
+
+cuci stoffa vestito + <descrizione>
+
+Esempi:
+
+> cuci stoffa vestito + firmato da Trevize
+Ricavi un vestito firmato da Trevize di buona stoffa e di buona fattura 
+lavorando i prodotti con il tuo strumento.
+
+> cuci lav armatura + 100
+Ricavi Un'armatura di ottima pelliccia e di magnifica fattura lavorando i prodotti con il tuo strumento.
+
+Vedi anche: LAVORA
+#
+CUCINA
+
+Uso: cucina <prodotto da cucinare> <cibo cotto>
+
+Questo comando va utilizzato in una cucina e si deve, precedentemente,
+aver afferrato degli utensili da cucina o il mattarello.
+
+Con gli utensili da cucina puoi cucinare:
+carne pulita (ottieni carne cotta)
+un prodotto alimentare di verdura (ottieni verdura cotta)
+
+Con il mattarello puoi lavorare:
+sacchetti di farina
+
+ed ottenere:
+
+Pagnotta normale   (ne ottieni 2 da ogni sacchetto)
+Focaccia          (ne ottieni 2 da ogni sacchetto)
+Focacciona         (ci vogliono due sacchetti)
+Pizza
+Pane da viaggio     (ci vogliono tre sacchetti)
+Pastella            (ci vogliono tre sacchetti)
+
+TORTE
+Per le torte occorre avere in mano gli utensili da cucina ed avere
+della pastella in inventario. Se queste condizioni sono entrambe
+rispettate si potra' utilizzare il seguente comando:
+
+cucina <prodotto> <alimento> <descrizione o nome frutta>
+
+Per realizzare i seguenti prodotti:
+Crostata alla frutta (naturalmente sara' necessario avere della frutta)
+Torta
+Dolce                     
+Galletta dolce da viaggio 
+Pasticcini                
+
+Esempi:
+
+> cucina pastella crostata albicocche
+Cucini una crostata di albicocche.
+
+> cucina pastella torta di Ramku
+Cucini un torta di Ramku.
+
+Vedi anche: LAVORA
+#
+DAI
+
+Uso: DAI <nome oggetto> <nome MOB o PG>  
+
+Questo comando ti consente di dare qualcosa a qualcuno che si trova
+nella tua stessa locazione.
+
+Esempi:
+
+> dai all Cyrgon
+Consegni tutto quello che hai in inventario a Cyrgon
+> dai pane sanyaka
+Dai del pane a Sanyaka
+> give 4000 coins Kayowas
+Dai 4000 coins a Kayowas
+
+Vedi anche: GIVE
+#
+DEPOSIT
+
+Uso: Deposit <numero di monete>
+
+Questo comando deve essere utilizzato in banca per depositare denaro
+sul tuo conto.
+
+Esempi:
+
+> Deposit 100
+Depositi 100 coins.
+
+Vedi anche: BALANCE, BILANCIO, DEPOSITA, GOLD, ORO, PRELEVA, PROFILO,
+SCORE, WITHDRAW
+#
+DEPOSITA
+
+Uso: Deposita <numero di monete>
+
+Questo comando deve essere utilizzato in banca per depositare denaro
+sul tuo conto.
+
+Esempi:
+
+> Deposita 100
+Depositi 100 coins.
+
+Vedi anche: BALANCE, BILANCIO, DEPOSIT, GOLD, ORO, PRELEVA, PROFILO,
+SCORE, WITHDRAW
+#
+DIAGNOSE
+
+Uso: DIAGNOSE <Nome PG o MOB>
+
+Questo comando ti dice quanto e' ferito un personaggio o un MOB purche'
+questo si trovi di fronte a te. Se stai combattendo con qualcuno, diagnose
+senza argomento ti dira' in che condizioni e' il tuo avversario.
+
+Esempio:
+
+> diagnosi Nion
+Nion e' in Eccellenti condizioni.
+
+Vedi anche: DIAGNOSI
+#
+DIAGNOSI
+
+Uso: DIAGNOSI <Nome PG o MOB>
+
+Questo comando ti dice quanto e' ferito un personaggio o un MOB purche'
+questo si trovi di fronte a te. Se stai combattendo con qualcuno, DIAGNOSI
+senza argomento ti dira' in che condizioni e' il tuo avversario.
+
+Esempio:
+
+> diagnosi Nion
+Nion e' in Eccellenti condizioni.
+
+Vedi anche: DIAGNOSE
+#
+DICI
+
+Uso: Dici <Nome MOB o PG> <messaggio>
+
+Questo comando si utilizza per parlare ad una persona specifica che
+non si trovi nella tua stessa locazione o a cui vuoi dire qualcosa
+di riservato.
+
+Esempio:
+
+> Dici Mcleod Ti ho visto entrare di soppiatto nella casa di Talos!
+Quanto mi dai se tengo la bocca chiusa?
+Dici a Mcleod, 'Ti ho visto entrare di soppiatto nella casa di Talos!
+Quanto mi dai se tengo la bocca chiusa?'
+
+Vedi anche: ', ASK, CHIEDI, MANDA, NODICI, NOTELL, PARLA, REPLICA,
+REPLY, SAY, SEND, SUSSURRA, TELL, WHISPER
+#
+DISARM
+
+Uso: DISARM <nome MOB o PG>
+
+Serve per diminuire il danno provocato dall'avversario armato. Solo
+Genidian e Peloi possono utilizzare questo comando, dopo aver appreso
+i rudimenti di questa skill dal Maestro della loro Gilda.
+Una volta digitato ci sara' la possibilita' di disarmare l'avversario.
+Se riesce l'arma cade a terra, e l'avversario vi deve colpire a mani
+nude o raccogliere l'arma.
+Puo' essere utilizzato all'inizio di un combattimento seguito dal nome
+del MOB o PG dall'avversario o durante il combattimento senza specificare
+alcun bersaglio. 
+
+Esempio:
+
+> disarma cavaliere
+Sei riuscito a disarmare il tuo nemico!
+
+Vedi anche: DISARMA
+#
+DISARMA
+
+Uso: DISARMA <nome MOB o PG>
+
+Serve per diminuire il danno provocato dall'avversario armato. Solo
+Genidian e Peloi possono utilizzare questo comando, dopo aver appreso
+i rudimenti di questa skill dal Maestro della loro Gilda.
+Una volta digitato ci sara' la possibilita' di disarmare l'avversario.
+Se riesce l'arma cade a terra, e l'avversario vi deve colpire a mani
+nude o raccogliere l'arma.
+Puo' essere utilizzato all'inizio di un combattimento seguito dal nome
+del MOB o PG dall'avversario o durante il combattimento senza specificare
+alcun bersaglio. 
+
+Esempi:
+
+> disarma cavaliere
+Sei riuscito a disarmare il tuo nemico!
+
+Vedi anche: DISARM
+#
+DISPLAY
+
+Uso: display < H | M | V | X | D | C | all | none | off >
+
+Modifica il tuo prompt visualizzando gli hit points, i punti mana,
+i punti movimento, i punti esperienza mancanti per il livello
+successivo, lo stato di salute del MOB che stai combattendo o del
+TANK che stai assistendo.
+
+display h    visualizza gli hit point
+display m    visualizza i punti mana
+display v    visualizza i punti movimento
+display x    visualizza i punti mancanti per il livello successivo
+display d    visualizza notizie sullo stato del MOB che stai combattendo
+             (quando non combatti avrai un [*] nel display)
+display c    visualizza notizie sullo stato della persona che stai
+             aiutando in combattimento (se non assisti nessuno, non sara'
+             visualizzato nulla)
+display all  visualizza tutte le informazioni disponibili.
+display none disabilita le informazioni del prompt.
+display off  disabilita le informazioni del prompt.
+
+NOTA BENE: gli argomenti possono essere cumulati.
+
+Esempio:
+
+> display hv    visualizza gli hit point ed i punti movimento
+
+Vedi anche: MOSTRA, PROMPT, TOGGLE
+#
+DISTRUGGI
+
+Uso: DISTRUGGI <oggetto>
+
+Usate "distruggi" invece di "posa" se volete tenere il mud pulito
+ed eliminare l'oggetto.
+Una volta distrutto l'oggetto, vi sara' data una moneta in cambio.
+
+Esempi:
+
+> distruggi bicchiere
+Decidi di junkare un bicchiere.   Svanisce in una nuvoletta di fumo!
+Sei stato premiato dagli Dei!
+ 
+Vedi anche: DONA, DONATE, DROP, JUNK, POSA
+#
+DIVIDI
+
+Uso: DIVIDI <numero monete>
+
+Dividi viene usato per dividere una somma di denaro tra tutti i
+componenti del tuo gruppo presenti nella stanza con te.
+Se dividi 100 coins fra te ed i quattro componenti del tuo gruppo 
+ad ognuno andranno 20 coins.
+
+Vedi anche: FOLLOW, GROUP, GRUPPO, SEGUI, SGRUPPA, SPLIT, UNGROUP
+#
+DOMA
+
+Uso: DOMA <nome MOB>
+
+Doma viene usato per addomesticare e rendere mansueti cavalli, unicorni
+e draghi.
+Per i cavalli e gli unicorni, tale comando va utilizzato prima del
+comando monta, altrimenti gli animali potrebbero imbizzarrirsi e
+disarcionarti.
+Per i draghi questo comando va usato durante il combattimento, quando 
+l'animale e' vicino alla morte. Se il tentativo riesce il drago sara'
+domato e ti servira' per alcuni giorni.
+
+Vedi anche: AMMAESTRA, INSEGNA, LIBERADRAGO, MONTA, SMONTA
+#
+DONA
+
+Uso: DONA <nome oggetto>
+
+Questo comando prende un oggetto di cui non avete bisogno e lo mette
+nella stanza delle donazioni del tuo Regno di appartenenza in modo da
+renderlo prelevabile dai newbie che ne hanno bisogno.
+C'e' il 60% di possibilita' che l'oggetto venga depositato nella stanza
+delle donazioni del tuo Regno, il 25% che  venga depositato nella stanza
+donazioni di un altro Regno e il 15% che l'oggetto venga distrutto. 
+
+Vedi anche: DISTRUGGI, DONATE, DROP, JUNK, POSA
+#
+DONATE
+
+Uso: DONATE <nome oggetto>
+
+Questo comando prende un oggetto di cui non avete bisogno e lo mette
+nella stanza delle donazioni del tuo Regno di appartenenza in modo da
+renderlo prelevabile dai newbie che ne hanno bisogno.
+C'e' il 60% di possibilita' che l'oggetto venga depositato nella stanza
+delle donazioni del tuo Regno, il 25% che  venga depositato nella stanza
+donazioni di un altro Regno e il 15% che l'oggetto venga distrutto.
+ 
+Vedi anche: DISTRUGGI, DONA, DROP, JUNK, POSA
+#
+DORMI
+
+Uso: DORMI
+
+Il comando DORMI serve quando vuoi riposare. Digitandolo il tuo PG si
+mettera' a dormire e, in tal modo, recuperera' HP, MANA e MOV piu'
+velocemente. 
+Dormendo non potrai digitare molti comandi. Per svegliarti dovrai
+digitare il comando SVEGLIA o WAKE.
+
+Vedi anche: ALZATI, SLEEP, STAND, SVEGLIA, WAKE
+#
+DOVE
+
+Uso: DOVE
+oppure
+     DOVE <nome PG o MOB>
+
+Questo comando ha due possibili utilizzazioni. Digitato senza specificare 
+nessun nome o giocatore, ti dara' una lista di tutti i giocatori che si 
+trovano nella tua stessa area di gioco (Area XP, Wilderness o Miniwild).
+Se invece viene digitato specificando il nome del MOB o del PG che si
+intende trovare, ti consentira' di vedere se, effettivamente, la persona
+o il MOB che cerchi sono nella tua stessa zona. In caso vi siano ti
+fornira' anche indicazioni utili per la loro localizzazione.
+
+Esempi:
+
+> dove Alorn
+  1. Alorn                  - Colline di Dornendil
+
+> dove drago
+  1. un drago rosso      - La tana del Drago
+
+Vedi anche: WHERE
+#
+DOWN
+
+Uso: down
+
+Digitando down o semplicemente la lettera D, ti sposterai, se possibile,
+nella locazione che si trova immediatamente al di sotto di quella in
+cui sei attualmente.
+
+Vedi anche: BASSO
+#
+DRINK 
+
+Uso: drink <nome contenitore di liquidi>
+oppure
+     drink <nome liquido> [da] <nome contenitore di liquidi>
+
+Se hai sete questo e' il comando che devi usare.
+
+Esempi:
+
+> Drink ciotola
+> Drink acqua dalla ciotola
+
+Vedi anche: ASSAGGIA, BEVI, EAT, MANGIA, SIP, SORSEGGIA, TASTE
+#
+DROP
+
+Uso: DROP <nome oggetto>
+oppure
+     DROP all
+oppure
+     DROP <numero di monete>
+oppure
+     DROP all.<nome oggetto>
+
+Se vuoi lasciare a terra uno o piu' oggetti devi usare questo comando.
+
+Esempi:
+
+> drop borraccia
+Decidi di posare una borraccia.
+
+> drop all
+Ha come effetto quello di farti lasciare a terra tutto quello che hai in 
+inventario.
+
+> drop 1000 coins
+Lasci alcuni coins per terra.
+
+> drop all.lingotto
+Ha come effetto quello di farti lasciare a terra tutti i lingotti che hai in 
+inventario.
+
+Vedi anche: DISTRUGGI, DONA, DONATE, INVENTARIO, INVENTORY, JUNK, POSA
+#
+EAST
+
+Uso: east
+
+Digitando east o semblicemente la lettera E, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a destra di quella in cui
+sei attualmente.
+
+Vedi anche: EST
+#
+EAT
+
+Uso: EAT <nome cibo>
+
+Quando compare il messaggio Inizi ad avere fame, e' forse il caso di
+usare questo comando per riempirti lo stomaco.
+
+Esempio:
+
+> eat pane
+Mangia il pane
+
+Vedi anche: ASSAGGIA, BEVI, DRINK, MANGIA, SIP, SORSEGGIA, TASTE
+#
+EMOTE
+
+Uso: EMOTE <messaggio>
+
+Questo comando fa si' che a tutti quelli presenti nella tua stessa
+locazione compaia il tuo nome seguito dal testo digitato come messaggio.
+
+Esempio:
+
+Se il tuo nome e' Talos,
+> emote si sente molto felice oggi.
+Visualizzera':
+Talos si sente molto felice oggi.
+
+Vedi anche: :, EMOZIONE, SOCIALS
+#
+EMOZIONE
+
+Uso: EMOZIONE <messaggio>
+
+Questo comando fa si' che a tutti quelli presenti nella tua stessa
+locazione compaia il tuo nome seguito dal testo digitato come messaggio.
+
+Esempio:
+
+Se il tuo nome e' Talos,
+> emozione si sente molto felice oggi.
+Visualizzera':
+Talos si sente molto felice oggi.
+
+Vedi anche: :, EMOTE, SOCIALS
+#
+ENTER
+
+Uso: ENTER [luogo]
+
+Se digitate enter quando siete all'aperto, entrate automaticamente
+nel luogo chiuso piu' vicino.
+E' possibile specificare dove entrare: enter window.
+
+Vedi anche: ENTRA, LASCIA, LEAVE
+#
+ENTRA
+
+Uso: ENTRA [luogo]
+
+Se digitate "entra" quando siete all'aperto, entrate automaticamente
+nel luogo chiuso piu' vicino.
+E' possibile specificare dove entrare: entra window.
+
+Vedi anche: ENTER, LASCIA, LEAVE
+#
+EQUIPAGGIAMENTO
+
+Uso: EQUIPAGGIAMENTO
+
+Ti da' la lista di tutto l'equipaggiamento indossato, tenuto ed
+impugnato.
+
+Vedi anche: EQUIPMENT, IMPUGNA, INDOSSA, INVENTARIO, INVENTORY,
+REMOVE, RIMUOVI, WEAR, WIELD
+#
+EQUIPMENT
+
+Uso: EQUIPMENT
+
+Ti da' la lista di tutto l'equipaggiamento indossato, tenuto ed
+impugnato.
+
+Vedi anche: EQUIPAGGIAMENTO, IMPUGNA, INDOSSA, INVENTARIO, INVENTORY,
+REMOVE, RIMUOVI, WEAR, WIELD
+#
+EROI
+
+Uso:  Eroi <l> <k> <f> <n> <m> <d> <a> <c> <i> <b>
+
+Questo comando serve a visualizzare alcune classifiche riguardanti i 
+giocatori. Sono disponibili vari parametri.
+
+Eroi l - Mostra i primi 10 giocatori per livello raggiunto.
+Eroi k - Mostra i primi 10 giocatori per numero di nemici uccisi.
+Eroi f - Mostra i primi 10 giocatori per fama.
+Eroi n - Mostra i primi 10 giocatori per notorieta'.
+Eroi m - Mostra i primi 10 giocatori per numero di volte che sono morti.
+Eroi d - Mostra i primi 10 giocatori per numero di cadute nelle death traps.
+Eroi a - Mostra i primi 10 giocatori per anzianita'.
+Eroi c - Mostra i primi 10 giocatori per denaro'.
+Eroi i - Mostra gli ultimi 10 giocatori per fama.
+Eroi b - Mostra gli ultimi 10 giocatori per notorieta'.
+
+Vedi anche: CHI, WHO
+#
+ERRORE
+
+Uso: ERRORE <messaggio>
+
+Questo comando serve a segnalare errori nel testo.
+
+Esempi:
+
+> errore avete scritto fuontana invece di fontana nella piazza principale
+
+Vedi anche: BACO, BUG, GPRAY, IDEA, PREGHIERA, TYPO
+#
+ESAMINA
+
+Uso: ESAMINA <nome MOB o PG o oggetto>
+
+Questo comando consente di guardare piu' in dettaglio un oggetto, un
+MOB o un PG.
+
+Vedi anche: EXAMINE, GUARDA, LOOK
+#
+EST
+
+Uso: est
+
+Digitando est o semplicemente la lettera E, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a destra di quella in cui 
+sei attualmente.
+
+Vedi anche: EAST
+#
+EVADI
+
+Uso: EVADI
+
+Con questo comando puoi provare a scappare di prigione. E' utilizzabile
+esclusivamente all'interno di una prigione e dara' come esito diverse
+risposte da parte del MUD. Devono trascorrere alcuni secondi prima che
+tu possa nuovamente digitare il comando nel caso in cui il tentativo
+di fuga non abbia avuto successo.
+#
+EXAMINE
+
+Uso: EXAMINE <nome MOB o PG o oggetto>
+
+Questo comando consente di guardare piu' in dettaglio un oggetto, un
+MOB o un PG.
+
+Vedi anche: ESAMINA, GUARDA, LOOK
+#
+EXITS
+
+Uso: EXITS
+
+Ti da' la lista di tutte le uscite disponibili (e visibili) dalla
+locazione in cui ti trovi.
+Ovviamente le uscite nascoste o non immediatamente individuabili non
+vengono riportate. Dovrai usare CERCA o SEARCH per trovarle.
+
+Vedi anche: AUTODIR, AUTOEXIT, CERCA, SEARCH, USCITA
+#
+FEDINA
+
+Uso: Fedina
+oppure
+     Fedina <Nome PG>
+
+Con questo comando puoi controllare la tua fedina o quella di altri
+Personaggi Giocanti.
+#
+FILL
+
+Uso: FILL  <nome contenitore> <nome oggetto da cui si preleva il liquido>
+
+Questo e' il comando da utilizzare per riempire un contenitore di
+acqua o altro. Il contenitore deve essere in inventario.
+
+Esempio:
+
+> fill borraccia fontana
+
+Vedi anche: POUR, RIEMPI, SVUOTA
+#
+FLEE
+
+Uso: FLEE
+
+Se stai combattendo e le cose si mettono decisamente male, puoi provare
+a digitare questo comando per tentare la fuga.
+Se la fuga riesce, ti troverai spostato in una delle possibili direzioni 
+(scelta in modo casuale).
+
+Vedi anche: SCAPPA, VIGLIACCO, WIMPY
+#
+FOLLOW
+
+Uso: FOLLOW <nome PG>
+
+Devi usare questo comando quando vuoi seguire qualcuno per formare un
+gruppo con lui. La persona che segui diverra' il capo del gruppo.
+Per smettere di seguirlo sara' sufficiente seguire te stesso.
+
+Vedi anche: DIVIDI, GROUP, GRUPPO, RAPPORTO, REPORT, SEGUI, SGRUPPA, SPLIT,
+UNGROUP
+#
+FORGE
+
+Uso: FORGE <nome arma> <numero da 1 a 8>
+
+Questo comando serve per rendere piu' potente un'arma. Solo un personaggio
+che abbia appreso l'abilita' RIPARAZIONE potra' utilizzare questo comando.
+
+Vedi anche: FORGIA
+#
+FORGIA
+
+Uso: FORGIA <nome arma> <numero da 1 a 8>
+
+Questo comando serve per rendere piu' potente un'arma. Solo un personaggio
+che abbia appreso l'abilita' RIPARAZIONE potra' utilizzare questo comando.
+
+Vedi anche: FORGE
+#
+FURTIVO
+
+Uso: furtivo
+
+Questo comando ti consente, se utilizzato con successo, di muoverti 
+silenziosamente per un po'. Solo Peloi ed Alcioni possono utilizzare
+questa skill dopo averne appreso i rudimenti dal Maestro della loro
+Gilda.
+Se abbandoni una locazione in cui sono altri PG, questi non si
+accorgeranno del tuo allontanamento a meno che non abbiano attivo
+su di loro un incatesimo di 'detect sneak'.
+
+Vedi anche: SNEAK
+#
+GCHI
+
+Uso: gchi
+
+Digitando questo comando avrai l'elenco dei personaggi che attualmente
+stanno formando un gruppo.
+
+Esempio:
+
+> gchi
+Dara' come risultato:
+[------ Gruppi di avventurieri ------]
+- - -
+Talos
+Lavinia
+[---------- Fine Lista --------------]
+
+Vedi anche: GROUP, GRUPPO, GWHO
+#
+GDICI
+
+Uso: GDICI <messaggio>
+
+Dice qualcosa a tutti i membri del gruppo di cui fai parte, anche se
+non si trovano nella stessa locazione. Puo' anche essere abbreviato
+usando GD.
+
+Esempio:
+
+> gdici prepariamoci allo scontro!
+Dici al gruppo, 'prepariamoci allo scontro!'
+
+Vedi anche: GROUP, GRUPPO, GPARLA, GSAY, GTELL
+#
+GDR
+
+Uso: GDR
+
+Questo comando ti consente di attivare o disattivare la FLAG GDR.
+Utilizzandolo accanto al tuo nome comparira' l'indicazione GDR. 
+Tutti coloro che ti incontreranno sapranno che hai intenzione di
+interpretare un ruolo. Cio' vuol dire che hai creato un personaggio
+con una sua storia e un suo modo di comportarsi in accordo con essa.
+Non dovresti dunque agire e parlare da giocatore ma da personaggio.
+
+Vedi anche: RPG
+#
+GET
+Uso: get <nome oggetto>
+oppure
+     get all
+oppure
+     get all <oggetto contenitore>
+oppure
+     get all all.<oggetto contenitore>
+oppure
+     get all.<oggetto> all.<oggetto contenitore>
+
+Se trovi qualcosa di interessante puoi utilizzare questi comandi per
+raccoglierlo e metterlo in inventario. Con questo comando e' anche
+possibile prelevare oggetti da contenitori o cadaveri.
+
+Esempi:
+
+> get guanti cadavere
+Prendi i guanti del coraggio da il cadavere di Sir Lancillotto del Lago.
+
+> get all cadavere
+Prendi un po' di monete d'oro da il cadavere di Sir Lancillotto del Lago.
+Prendi i guanti del coraggio da il cadavere di Sir Lancillotto del Lago.
+
+> get all all.sac
+Prendi una scopa da un sacco di iuta.
+Un sacco di iuta sembra essere vuoto.
+
+> get all.pozione all.sac
+Prendi una pozione da un sacco di iuta.
+Prendi una pozione da un sacco di iuta.
+Non sembra esserci una pozione dentro un sacco di iuta.
+
+Vedi anche: INVENTARIO, INVENTORY, METTI, PRENDI, PUT, TAKE
+#
+GETTA
+
+Uso: getta <nome bersaglio>
+
+Questo comando serve a scagliare frecce o altri proiettili contro i
+nemici. Per utilizzarlo assicurati di aver precedentemente impugnato
+un'arma da lancio.
+
+Vedi anche: LANCIA, SHOOT, THROW
+#
+GILDA
+
+Uso: gilda
+oppure
+     gilda <opzioni>
+
+Nel caso tu appartenga a qualche gilda o clan, riconosciuto ed autorizzato,
+utilizzando questo comando senza alcuna opzione potrai vedere i comandi
+gilda che puoi utilizzare.
+#
+GIVE
+
+Uso: give <oggetto> <nome destinatario>
+     give <numero> coins <nome destinatario>
+
+Questo comando ti consente di dare qualcosa a qualcuno che si trova
+nella tua stessa locazione.
+
+Esempi:
+
+> give pane Kwelyn
+Dai del pane a Kwelyn.
+> give 1000 coins Kora
+Dai 1000 coins a Kora.
+> give all Demostenee
+Consegni tutto cio' che hai in inventario a Demostenee.
+
+Vedi anche: DAI
+#
+GOLD
+
+Uso: GOLD
+
+Visualizza quanto oro (monete) stai trasportando.
+
+Vedi anche: BALANCE, BILANCIO, DEPOSIT, DEPOSITA, ORO, PRELEVA, PROFILO,
+SCORE, WITHDRAW
+#
+GPARLA
+
+Uso: gparla <messaggio>
+
+Questo comando ti permette di parlare con tutti i membri del tuo gruppo
+anche se non si trovano nella tua stessa locazione. E' possibile anche
+abbreviarlo in GP.
+
+Esempio:
+
+> gparla Attenzione ai fulmini del mago!
+Dici al gruppo, 'Attenzione ai fulmini del mago!'
+
+Vedi anche: GDICI, GROUP, GRUPPO, GSAY, GTELL
+#
+GPRAY
+
+Uso: gpray <messaggio>
+
+Con questo comando inoltri una preghiera ai creatori.
+
+Vedi anche: BACO, BUG, ERRORE, IDEA, PREGHIERA, TYPO
+#
+GRAB
+
+Uso: GRAB <nome oggetto>
+
+Ti permette di afferrare un oggetto presente nel tuo inventario, purche' 
+questo sia afferrabile. Una volta afferrato, l'oggetto comparira' nel
+tuo EQuipaggiamento come oggetto [Tenuto].
+
+Esempio:
+
+> grab picca
+
+Vedi anche: AFFERRA, HOLD, EQUIPAGGIAMENTO, EQUIPMENT, TIENI
+#
+GRATS
+
+Uso: GRATS <nome giocatore>
+
+Questo comando ti consente di congratularti con un giocatore.
+
+Esempio:
+
+> grats Trevize
+Ti congratuli con Trevize.
+
+Vedi anche: NOCONGRATULAZIONI, NOGRATS
+#
+GRIDA
+
+Uso: grida <messaggio>
+
+Con questo comando puoi inviare un messaggio che sara' udito da tutti
+quelli attualmente in gioco (a meno che essi non abbiano disattivato
+il canale con noshout). Utilizzare questo comando, comporta una
+perdita di 20 punti movimento.
+
+Vedi anche: HOLLER, NOSHOUT, NOURLA, SHOUT, URLA
+#
+GROUP
+
+Uso: group <nome giocatore>
+     group all
+     group
+
+GROUP senza argomenti visualizza lo stato del vostro gruppo.
+GROUP <nome giocatore> aggiunge o rimuove un giocatore dal gruppo.
+GROUP all aggiunge al gruppo tutti quelli che ti stanno seguendo.
+
+Essere membro di un gruppo significa dividere i punti esperienza che
+si fanno uccidendo mob, tra tutti i componenti del gruppo.
+I punti vengono ripartiti soltanto tra i membri del gruppo presenti
+nella locazione in cui si svolge il combattimento nel momento in cui
+il mob muore.
+
+Per formare un gruppo si deve scegliere un capo e tutti devono seguirlo
+con il comando FOLLOW o SEGUI.
+Il capo non deve seguire nessuno.
+Il capo utilizza il comando group all oppure group <nome giocatore>
+per ogni giocatore da includere nel gruppo. Il capo dovra' inserire
+anche se stesso nel gruppo.
+
+Esempio:
+
+McLeod e Rama vogliono formare un gruppo con Karanka e quest'ultimo
+deve essere il capo.
+
+McLeod digitera' il comando: follow karanka
+Rama digitera' il comando: follow karanka
+Karanka digitera' i comandi: group karanka
+                             group mcleod
+                             group rama
+o piu' semplicemente:        group all
+
+Se poi Karanka vuole eliminare Rama dal gruppo perche' parla troppo e
+spaventa i MOB, digitera':   group rama
+e Rama verra' escluso dal gruppo.
+
+Vedi anche: FOLLOW, GDICI, GPARLA, GSAY, GTELL, GRUPPO, RAPPORTO, REPORT,
+SEGUI, SGRUPPA, UNGROUP
+#
+GRUPPO
+
+Uso: gruppo <nome giocatore>
+     gruppo all
+     gruppo
+
+GRUPPO senza argomenti visualizza lo stato del vostro gruppo.
+GRUPPO <nome giocatore> aggiunge o rimuove un giocatore dal gruppo.
+GRUPPO all aggiunge al gruppo tutti quelli che ti stanno seguendo.
+
+Essere membro di un gruppo significa dividere i punti esperienza che si
+fanno uccidendo mob, tra tutti i componenti del gruppo.
+I punti vengono ripartiti soltanto tra i membri del gruppo presenti
+nella locazione del combattimento nel momento in cui il mob muore.
+
+Per formare un gruppo si deve scegliere un capo e tutti devono seguirlo
+con il comando follow o segui.
+Il capo non deve seguire nessuno.
+Il capo utilizza il comando gruppo all oppure gruppo <nome giocatore>
+per ogni giocatore da includere nel gruppo. Il capo dovra' inserire
+anche se stesso nel gruppo.
+
+Esempio:
+
+McLeod e Rama vogliono formare un gruppo con Karanka e quest'ultimo
+deve essere il capo.
+
+McLeod digitera' il comando: follow karanka
+Rama digitera' il comando: follow karanka
+Karanka digitera' i comandi: gruppo karanka
+                             gruppo mcleod
+                             gruppo rama
+o piu' semplicemente:        gruppo all
+
+Se poi Karanka vuole eliminare Rama dal gruppo perche' parla troppo e
+spaventa i MOB, digitera':   gruppo rama
+e Rama verra' escluso dal gruppo.
+
+Vedi anche: FOLLOW, GDICI, GPARLA, GSAY, GTELL, GRUPPO, RAPPORTO,
+REPORT, SEGUI, SGRUPPA, UNGROUP
+#
+GSAY
+
+Uso: gsay <messaggio> 
+
+Questo comando ti consente di dire qualcosa a tutti i membri del
+gruppo anche se non si trovano nella tua stessa locazione. Puo'
+essere abbreviato in GS.
+
+Esempio:
+
+> gsay Attenzione ai fulmini del mago!
+Dici al gruppo, 'Attenzione ai fulmini del mago!'
+
+Vedi anche: GDICI, GPARLA, GROUP, GRUPPO, GTELL
+#
+GTELL
+
+Uso: gtell <messaggio> 
+
+Questo comando ti consente di dire qualcosa a tutti i membri del
+gruppo anche se non si trovano nella tua stessa locazione. Puo'
+essere abbreviato in GT.
+
+Esempio:
+
+> gtell Attenzione ai fulmini del mago!
+Dici al gruppo, 'Attenzione ai fulmini del mago!'
+
+Vedi anche: GDICI, GPARLA, GROUP, GRUPPO, GSAY
+#
+GUADAGNA
+
+Uso: GUADAGNA
+
+Funziona soltanto dentro al vostro negozio.
+Vi permette di farvi consegnare l'incasso che il vostro negoziante
+ha in tasca.
+Per la parte che ha gia' depositato dovrete usare BONIFICO.
+
+Vedi anche: BONIFICO, INCASSA, NEGOZI, SALDO, SHEDIT, SHSAVE
+#
+GUARDA
+
+Uso: guarda
+     guarda <nome oggetto> 
+     guarda <nome MOB o PG>
+     guarda in <nome oggetto>
+     guarda <direzione>
+
+Questo comando ti serve per guardare cio' che ti circonda o per
+ispezionare con maggiore attenzione oggetti o persone.
+
+Esempi:
+
+> guarda
+Ti mostra la descrizione della zona in cui ti trovi.
+> guarda pane
+Ti mostra la descrizione dell'oggetto.
+> guarda Lyer
+Ti mostra la descrizione di Lyer, seguita da un elenco delle cose che
+sta utilizzando in questo momento.
+> guarda in borsa
+Ti mostra il contenuto della borsa.
+> guarda sud
+Ti dice cio' che vedi guardanto a sud, avvertendoti dell'eventuale
+presenza di MOB o giocatori.
+
+Vedi anche: ESAMINA, EXAMINE, LOOK
+#
+GWHO
+
+Uso: gwho
+
+Digitando questo comando avrai l'elenco dei personaggi che attualmente
+stanno formando un gruppo.
+
+Esempio:
+
+> gwho
+Dara' come risultato:
+[------ Gruppi di avventurieri ------]
+- - -
+Talos
+Lavinia
+[---------- Fine Lista --------------]
+
+Vedi anche: GCHI, GROUP, GRUPPO
+#
+HANDBOOK
+
+Uso: handbook
+
+Questo comando visualizza i comandi di base necessari a muoversi sul
+MUD, nonche' altre informazioni utili per i principianti.
+
+Vedi anche: MANUALE
+#
+HANG
+
+Uso: hang carretto
+o    hang carretto <nome MOB>
+
+Con questo comando e' possibile trainare un carretto o far si' che il
+carretto sia trainato da un MOB. Per poter agganciare e quindi trainare
+un carretto devi avere entrambe le mani libere. Il carretto, una volta
+agganciato, comparira' nel tuo EQuipaggiamento come oggetto [Trainato].
+Per smettere di trainare il carretto sara' necessario rimuoverlo
+dall'inventario con il comando REMOVE o RIMUOVI.
+Per sganciare il carretto dall'animale che lo sta trainando
+sara' necessario usare il comando SGANCIA carretto, perche' questo
+comando sia recepito dall'animale si dovra' essere a cavallo.
+
+Vedi anche: AGGANCIA, EQUIPAGGIAMENTO, EQUIPMENT, REMOVE, RIMUOVI, SGANCIA
+#
+HELP
+
+Uso: HELP <nome comando o socials>
+
+Aiuto cerca una corrispondenza anche parziale della parola digitata,
+spazi inclusi nei file di HELP.
+Aiuto da solo fornisce una lista dei piu' comuni comandi del gioco.
+
+Esempi:
+
+> help magic mis
+Trovera' il testo di help per lo spell magic missile.
+
+> help quest
+Trovera' il testo di help per il comando quest.
+
+Vedi anche: AIUTO, COMANDI, COMMANDS, SOCIALS
+#
+HIDE
+
+Uso: HIDE
+
+Quando digiti hide c'e' la possibilita' che tu riesca a nasconderti
+nella stanza.
+Se sei nascosto, la tua presenza puo' essere percepita solo con un
+incantesimo di 'sense life'.
+Hide viene interrotto dalla pressione del tasto return (anche se non
+viene digitato alcun comando).
+Solo gli alcioni ed i peloi possono utilizzare questo comando dopo
+aver appreso i rudimenti della skill dai maestri della loro Gilda.
+
+Esempio:
+
+> hide
+Ok.
+(aspetti senza far nulla es. 5 minuti e resti 5 minuti nascosto)
+> (premi enter e non sei piu' nascosto)
+
+Vedi anche: NASCONDITI
+#
+HIRE
+#
+HIT
+
+Uso: hit <nome MOB o PG>
+
+Se vuoi ingaggiare battaglia con un MOB o un PG devi digitare questo
+comando seguito dal nome del MOB o PG. Attenzione pero', se non ti
+trovi in arena l'attacco a qualsiasi PG, la cui fedina penale sia pulita,
+ti fara' automaticamente iscrivere nella lista dei ricercati del Regno
+cui appartiene il PG che hai colpito. Anche l'assalto di alcuni MOB
+(i cosi' detto "civili") all'interno delle citta', puo' macchiare la tua
+fedina.
+
+Esempio:
+
+> hit pedone
+Tu urti duramente il pedone della corte Bianca.
+
+Vedi anche: ASSASSINA, COLPISCI, KILL, MURDER, UCCIDI
+#
+HOLD
+
+Uso: hold <nome oggetto> 
+
+Questo comando ti permette di afferrare un oggetto presente nel tuo 
+inventario, purche' questo sia afferrabile. Una volta afferrato, 
+l'oggetto comparira' nel tuo EQuipaggiamento come oggetto [Tenuto].
+
+Esempio:
+
+> Afferra picca
+
+Vedi anche: AFFERRA, EQUIPAGGIAMENTO, EQUIPMENT, GRAB, TIENI
+#
+HOLLER
+
+Uso: holler <messaggio>
+
+Con questo comando puoi inviare un messaggio che sara' udito da tutti
+quelli attualmente in gioco (a meno che essi non abbiano disattivato
+il canale con noshout). Utilizzare questo comando, comporta una perdita
+di 20 punti movimento.
+
+Vedi anche: GRIDA, NOSHOUT, NOURLA, SHOUT, URLA
+#
+HORIZON
+
+Uso: HORIZON
+
+Questo comando funziona solo nella wilderness e permette di scrutare 
+l'orizzonte in cerca di punti di riferimento.
+
+Vedi anche: ORIZZONTE, WILDX, WILDY
+#
+HOUSE
+
+Uso: HOUSE <nome PG>
+
+Questo comando serve per aggiungere o rimuovere giocatori dalla propria
+lista degli ospiti.
+Devi trovarti nella tua casa per poter utilizzare questo comando.
+
+Digitando HOUSE senza parametri ti si presentera' la lista degli attuali
+ospiti della casa.
+Digitando HOUSE <nome PG> si aggiunge il nominativo alla lista
+se non era gia' presente, oppure si rimuove il nominativo se era gia' 
+presente nella lista.
+Il giocatore nominato non deve essere necessariamente presente in gioco
+al momento in cui lo si aggiunge/rimuove.
+
+Vedi anche: CASA, VENDICASA
+#
+IDEA
+
+Uso: idea <messaggio>
+
+Questo comando serve per far conoscere ai Creatori le tue idee. Usalo
+se hai qualche idea che vorresti fosse implementata. Non te la prendere
+pero' se questo non accadra'.
+
+Vedi anche: BACO, BUG, ERRORE, GPRAY, PREGHIERA, TYPO
+#
+IMMLIST
+
+Uso: immlist
+
+Con questo comando puoi vedere l'elenco degli immortali di Dalila.
+
+Vedi anche: WIZLIST
+#
+IMPARA
+
+Uso: impara
+oppure
+     impara <nome abilita'>
+
+Questo comando deve essere utilizzato all'interno dei Santuari, davanti
+ai Maestri delle Abilita', o in presenza di Maestri Erranti. Digitando
+impara senza il nome dell'abilita' di fronte ad un maestro errante
+otterrai l'elenco delle abilita' che egli puo' insegnarti. Una volta
+che hai deciso e sei sicuro di voler spendere i tuoi soldi ed i tuoi
+punti abilita' in una data disciplina sara' sufficiente digitare impara
+seguito dal nome dell'abilita' di fronte al maestro.
+Ricorda che il maestro errante puo' portarti al livello di conoscenza 1
+e che se in una data abilita' hai 0, dovrai sempre ricorrere a lui prima 
+di recarti al santuario apposito per farla crescere ulteriormente.
+
+Vedi anche: ABILITA, LEARN
+#
+IMPUGNA
+
+Uso: IMPUGNA <nome arma>
+
+Quando ti sarai stancato di colpire i mostri a mani nude potrai
+utilizzare questo comando per impugnare un'arma. L'arma comparira'
+nel tuo EQuipaggiamento come [Impugnata].
+
+Esempi:
+
+> impugna spada
+> impugna 3.spada       (impugna la terza spada tra quelle che hai in inventario)
+
+Vedi anche: EQUIPAGGIAMENTO, EQUIPMENT, INDOSSA, REMOVE, RIMUOVI, WEAR, WIELD
+#
+INCANTA
+
+Uso: incanta <nome oggetto>
+
+Questo comando serve ad incantare le penne che servono a scrivere gli
+incantesimi sulle pergamene. Solo Cyrinic e Pandion possono incantare.
+
+Vedi anche: RECITA, RECITE, SCRIVIMAGIA, WRITEMAGIC
+#
+INCANTESIMO
+
+Uso: INCANTESIMO 'nome incantesimo' <bersaglio>
+
+Se si vuole lanciare un incantesimo si deve utilizzare questo comando
+seguito dal nome dell'incantesimo racchiuso tra '.
+Alcuni incantesimi per funzionare hanno bisogno di avere un bersaglio 
+specificato, altri no.
+Solitamente le magie d'attacco hanno bisogno di un bersaglio se non ci
+si  trova gia' impegnati in combattimento, se invece si sta gia'
+combattendo il bersaglio puo' essere omesso e l'incantesimo si
+indirizzera' automaticamente contro il nemico.
+Gli incantesimi di cura o protezione, invece, se non si specifica il bersaglio 
+verranno lanciati su se' stessi.
+
+Esempi:
+
+> incantesimo 'fireball' 
+> incantesimo 'burning hands' drago
+> incantesimo 'cure light' Evildwarf
+
+Vedi anche: CAST
+#
+INCASSA
+
+Uso: incassa
+
+Questo comando deve essere digitato all'interno di un negozio di tua
+proprieta' per farti consegnare il denaro guadagnato dal negoziante.
+
+Vedi anche: BONIFICO, GUADAGNA, NEGOZI, SALDO, SHEDIT, SHSAVE
+#
+INDIVIDUA
+
+Uso: individua
+
+Questa skill consente ai peloi che abbiano appreso i rudimenti della
+skill dal Maestro della loro Gilda, di esplorare la wilderness 
+circostante per avvistare ed identificare altri esseri che si trovino
+nelle vicinanze. E' utilizzabile solo nella wilderness.
+
+Esempio:
+
+> individua
+Cerchi di avvistare qualcuno vicino a te.
+Vicino verso Nord-Ovest vedi Un grosso cinghiale.
+Molto vicino verso Nord-Ovest vedi Una volpe marrone.
+Vicino verso Est vedi Un cucciolo di cinghiale.
+Molto vicino verso Sud-Est vedi Un orso grigio.
+Vicino verso Sud vedi un cavallo selvaggio.
+
+Vedi anche: SPOT
+#
+INDOSSA
+
+Uso: INDOSSA  <nome oggetto>
+
+Questo comando serve per indossare qualcosa (armature, vestiti, scudi,
+borse o altro).
+Si puo' usare anche il comando INDOSSA ALL per tentare di indossare tutto
+cio' che si ha in inventario. Gli oggetti indossati compariranno nell'EQ
+del personaggio.
+
+Esempi:
+
+> indossa stivali
+> indossa all.anello
+> indossa all
+
+Vedi anche: EQUIPAGGIAMENTO, EQUIPMENT, INDOSSA, REMOVE, RIMUOVI, WEAR,
+WIELD
+#
+INFO
+
+Uso: info
+
+Questo comando fornisce informazioni sulle aree da XP attualmente
+aperte sul MUD.
+Attenzione il livello tra parentesi e' il livello medio dei MOB
+presenti nell'area e non il livello consigliato per l'area.
+#
+INIZIAZIONE
+
+Uso: iniziazione
+
+Questo comando deve essere digitato di fronte al Cavaliere della Gilda
+di combattimento nel momento in cui si e' deciso a quale Gilda aderire.
+Le Gilde disponibili in Dalila sono: Alcioni, Cyrinic, Genidian, Pandion
+e Peloi.
+Per essere accettati nella Gilda occorre pagare (e quindi avere in
+inventario) 40.000 monete. Una volta digitato questo comando sara'
+possibile aggiungere altri 10 punti alle caratteristiche del tuo
+personaggio (STR, WIS, INT, DEX, CON e CHA). Ricorda che nessuna
+caratteristica puo' essere superiore a 16.
+#
+INSEGNA
+
+Uso: insegna <nome PG> <nome proficenza>
+
+Questo comando serve ad insegnare ad un PG una data proficienza.
+Attualmente solo gli ammaestratori possono insegnare a cavalcare,
+domare e montare i cavalli.
+
+Vedi anche: AMMAESTRA, DOMA, MONTA, PROFICIENZE, SMONTA
+#
+INSULTA
+
+Uso: insulta <nome MOB o PG>
+
+Con questo comando puoi mostrare il tuo profondo disprezzo per qualcuno.
+#
+INVENTARIO
+
+Uso: INVENTARIO
+
+Questo comando ti consente di avere una lista completa di quello che
+stai trasportando.
+
+Vedi anche: DROP, GET, INVENTORY, METTI, POSA, PRENDI, PUT, TAKE
+#
+INVENTORY
+
+Uso: INVENTORY
+
+Questo comando ti consente di avere una lista completa di quello che
+stai trasportando.
+
+Vedi anche: DROP, GET, INVENTARIO, METTI, POSA, PRENDI, PUT, TAKE
+#
+JUNK
+
+Uso: JUNK <nome oggetto>
+
+Con questo comando si distruggono oggetti che sono nel vostro inventario.
+Solitamente viene usato per oggetti che hanno esaurito il loro potere
+(lanterne, bacchette). Per la distruzione dell'oggetto sarete ricompensati
+con una moneta.
+
+Esempi:
+
+> junk lanterna
+> junk all.spada
+> junk 500 coins
+
+Vedi anche: DISTRUGGI, DONA, DONATE, DROP, POSA
+#
+KICK
+
+Uso: KICK <nome avversario>
+
+Con questo comando e' possibile sferrare potenti calci agli avversari.
+Solo genidian, peloi ed alcioni possono utilizzare questa skill dopo
+averne appreso i rudimenti dal Maestro della loro Gilda.
+La possibilita' di successo del calcio dipende dalla conoscenza della
+tecnica. Maggiore e' il livello del giocatore, maggiore sara' il danno
+inferto da un calcio riuscito.
+Sia che il colpo riesca, sia che non riesca, non potrete digitare altri 
+comandi (e colpi) per i successivi tre round di combattimento.
+Una volta che si e' iniziato un combattimento non è necessario
+specificare ulteriormente il bersaglio.
+
+Esempio:
+
+> kick pedone
+Il tuo potente calcio fa in modo che Il pedone della corte Nera non si 
+rialzi... mai piu'.
+
+Vedi anche: CALCIO
+#
+KILL
+
+Uso: KILL <nome MOB o PG>
+
+Se vuoi ingaggiare battaglia con un MOB o un PG devi digitare questo
+comando seguito dal nome del MOB o PG. Attenzione pero', se non ti
+trovi in arena l'attacco a qualsiasi PG, la cui fedina penale sia
+pulita, ti fara' automaticamente iscrivere nella lista dei ricercati
+del Regno cui appartiene il PG che hai colpito. Anche l'assalto di
+alcuni MOB (i cosi' detto "civili") all'interno delle citta', puo'
+macchiare la tua fedina.
+
+Vedi anche: ASSASSINA, COLPISCI, HIT, MURDER, UCCIDI
+#
+LADRO
+#
+LANCIA
+
+Uso: lancia <nome bersaglio> <direzione>
+
+Con questo comando e' possibile scagliare frecce o altri proiettili. Per
+riuscire occorre aver impugnato un arco ed afferrata una freccia.
+
+Esempio:
+
+> lancia pedone e
+Prendi la mira e tiri!
+You hit!
+
+Vedi anche: GETTA, SHOOT, THROW
+#
+LAND
+
+Uso: LAND
+
+Questo comando serve per interrompere il volo. Digitandolo atterrerete
+immediatamente.
+
+Vedi anche: ATTERRA
+#
+LASCIA
+
+Uso: LASCIA
+
+LASCIA ti fara' utilizzare la prima uscita a disposizione, verso
+l'esterno.
+
+Vedi anche: ENTER, ENTRA, LEAVE
+#
+LAVORA
+
+Uso: lavora <risorsa o oggetto>
+
+Questo comando serve a vari scopi. Possono essere lavorate, purche'
+si sia forniti dell'utensile adatto, risorse quali:
+
+Cespugli di erbe (con la piccozza)
+Foreste (con l'ascia)
+Giacimenti di minerali o pietre preziose (con la picca)
+Risorse alimentari (con la falce)
+
+Possono altresi' lavorarsi prodotti grezzi per trasformarli in finiti.
+Anche in questo caso sara' necessario aver impugnato l'utensile adatto
+ed essere nel laboratorio di rifinitura adeguato. Possono lavorarsi:
+
+Assi di legno (con la sega)
+Carichi alimentari (con pestello e setaccio)
+Carichi di erbe (con il tritaerbe)
+Lingotti (con il martello da fabbro)
+Pelli, Pellicce e stoffe grezze (con il coltello)
+Pietre grezze di materiale da costruzione (con il martello da costruzione)
+Pietre grezze di metallo (con il martello da fabbro)
+Pietre preziose grezze (con il martello da gioielliere)
+Pietre preziose pulite (con il martello da gioielliere)
+Prodotti alimentari di verdura (con gli utensili da cucina)
+Sacchetti di farina (con il mattarello)
+Tronchi di legname (con la sega)
+
+Vedi anche: CACCIA, CUCI, CUCINA, MACINA, MISCHIA, PESCA, RACCOGLI,
+RECUPERA, SCUOIA
+#
+LEARN
+
+Uso: learn
+oppure
+     learn <nome abilita'>
+
+Questo comando deve essere utilizzato all'interno dei Santuari, davanti
+ai Maestri delle Abilita' o ai Maestri Erranti. Digitando learn senza
+il nome dell'abilita' di fronte ad un maestro errante otterrai l'elenco
+delle abilita' che egli puo' insegnarti. Una volta che hai deciso e sei
+sicuro di voler spendere i tuoi soldi ed i tuoi punti abilita' in una data
+disciplina sara' sufficiente digitare learn seguito dal nome dell'abilita'
+di fronte al maestro.
+Ricorda che il maestro errante puo' portarti al livello di conoscenza 1
+e che se in una data abilita' hai 0, dovrai sempre ricorrere a lui prima 
+di recarti al santuario apposito.
+
+Vedi anche: ABILITA, IMPARA
+#
+LEAVE
+
+Uso: LEAVE
+
+LEAVE ti fara' utilizzare la prima uscita a disposizione, verso
+l'esterno.
+
+Vedi anche: ENTER, ENTRA, LASCIA
+#
+LEGGI
+
+Uso: LEGGI <oggetto>
+
+Devi utilizzare questo comando quando vuoi leggere qualcosa.
+LEGGI viene utilizzato anche per leggere i messaggi nelle bacheche.
+
+Vedi anche: GUARDA, LOOK, READ
+#
+LEVELS
+
+Uso: LEVELS
+
+Visualizza l'elenco dei livelli della tua scuola con l'esperienza
+necessaria per raggiungerli.
+
+Vedi anche: LIVELLI
+#
+LIBERADRAGO
+
+Uso: liberadrago
+
+Questo comando serve per fare allontanare un drago nel momento in
+cui non si desidera piu' cavalcarlo. Naturalmente devi essere
+riuscito a sottomettere un drago per utilizzare questo comando.
+
+Vedi anche: DOMA, RICHIAMADRAGO, SOFFIA, VOLA
+#
+LIST
+
+Uso: LIST
+
+Se ti trovi in un negozio e vuoi sapere quali oggetti sono in vendita
+devi utilizzare questo comando.
+Come risultato avrai un elenco di tutti gli oggetti in vendita, con il
+loro numero d'ordine, la quantita' disponibile, la protezione fornita
+(nel caso si tratti di armature), il livello minimo di utilizzo ed il
+prezzo. 
+Puoi specificare il tipo di oggetto da elencare.
+
+NOTA BENE: In alcuni negozi devi utilizzare il comando PRODOTTI al posto
+di LIST.
+
+Esempio:
+
+> list
+## Disp. Oggetto                                  Danno M./Ac  Liv Costo
+----------------------------------------------------------------------------
+ 1)   U  un bastone leggero                         Ridicolo     1     30
+ 2)   U  una semplice tunica di stoffa              Cuoio        1     50
+ 3)   U  una trappola                               Nulla        -6    100
+----------------------------------------------------------------------------
+
+Vedi anche: BUY, COMPRA, LISTA, PRODOTTI, SELL, VALORE, VALUE, VENDI
+#
+LISTA
+
+Uso: LISTA
+
+Se ti trovi in un negozio e vuoi sapere quali oggetti sono in vendita
+devi utilizzare questo comando.
+Come risultato avrai un elenco di tutti gli oggetti in vendita, con il
+loro numero d'ordine, la quantita' disponibile, la protezione fornita
+(nel caso si tratti di armature), il livello minimo di utilizzo ed il
+prezzo. 
+Puoi specificare il tipo di oggetto da elencare.
+
+NOTA BENE: In alcuni negozi devi utilizzare il comando PRODOTTI al posto
+di LISTA.
+
+Esempio:
+
+> lista
+## Disp. Oggetto                                  Danno M./Ac  Liv Costo
+----------------------------------------------------------------------------
+ 1)   U  un bastone leggero                         Ridicolo     1     30
+ 2)   U  una semplice tunica di stoffa              Cuoio        1     50
+ 3)   U  una trappola                               Nulla        -6    100
+----------------------------------------------------------------------------
+
+Vedi anche: BUY, COMPRA, LIST, SELL, SHOPS, VALUE, VENDI
+#
+LIVELLI
+
+Uso: livelli
+
+Visualizza l'elenco dei livelli della tua scuola con l'esperienza
+necessaria a raggiungerli.
+
+Vedi anche: LEVELS
+#
+LOCK
+
+Uso: lock <oggetto o porta>
+
+Con questo comando puoi chiudere un oggetto od una porta purche' tu
+abbia la chiave giusta in inventario.
+
+Esempio:
+
+> Lock porta
+*Click*
+Effetto: Ora la porta e' chiusa a chiave.
+
+Vedi anche: APRI, BLOCCA, CHIUDI, CLOSE, INVENTARIO, INVENTORY, OPEN,
+SBLOCCA, UNLOCK
+#
+LOOK
+
+Uso: look
+     look <nome oggetto> 
+     look <nome MOB o PG>
+     look in <nome oggetto>
+     look <direzione>
+
+Questo comando ti serve per guardare cio' che ti circonda o per
+ispezionare con maggiore attenzione oggetti o persone.
+
+Esempi:
+
+> look
+Ti mostra la descrizione della zona in cui ti trovi.
+
+> look pane
+Ti mostra la descrizione dell'oggetto.
+
+> look Lyer
+Ti mostra la descrizione di Lyer, seguita da un elenco delle cose che
+sta utilizzando in questo momento.
+
+> look in borsa
+Ti mostra il contenuto della borsa.
+
+> look sud
+Ti dice cio' che vedi guardanto a sud, avvertendoti dell'eventuale
+presenza di MOB o giocatori.
+
+Vedi anche: ESAMINA, EXAMINE, GUARDA
+#
+MACINA
+
+Uso: macina <carico di farinacei>
+
+Con questo comando puoi macinare i carichi alimentari per trasformarli
+in prodotti commestibili (nel caso della frutta) o da cucinare (nel caso
+di farinacei e verdura). Per riuscire nell'operazione devi trovarti in
+un mulino o in un laboratorio di ripulitura dei cibi e devi avere
+impugnato pestello e setaccio.
+
+Esempio:
+
+> macina carico
+Ricavi un sacchetto di farina macinando un carico di farinacei.
+
+Vedi anche: LAVORA
+#
+MAIL
+
+Uso: mail <nome destinatario>
+
+Se vuoi mandare una lettera di gioco a qualcuno devi utilizzare questo
+comando in uno degli uffici postali della Daresia. Una volta digitato
+il comando ti comparira' un messaggio simile a questo (varia solo
+il nome del postino):
+
+Gioel il postino di Elenia ti dice, 'Sono 150 monete per il francobollo.'
+Gioel il postino di Elenia ti dice, 'Scrivi pure la tua lettera, (/s salva /h per l'help)'
+
+]
+
+A questo punto puoi tranquillamente scrivere il tuo messaggio. Al termine
+per inviarlo sara' sufficiente digitare /s e spingere invio.
+Se vuoi curare l'impaginazione del testo prova ad utilizzare il comando /f
+subito prima di /s.
+
+Vedi anche: CHECK, CONTROLLA, RECEIVE, RICEVI, SCRIVI, WRITE
+#
+MANDA
+
+Uso: manda <destinatario> <messaggio>
+
+Questo comando e' molto simile al tell o al dici. Ti consente infatti di
+mandare un messaggio riservato ad una persona che non si trova nella tua
+stessa locazione.
+
+Esempio:
+
+> manda Talos Vi inviero' al piu' presto quanto chiedete!
+Mandi il messaggio a Talos, 'Vi inviero' al piu' presto quanto chiedete.'
+
+Vedi anche: DICI, NODICI, NOTELL, SEND, TELL
+#
+MANGIA
+
+Uso: Mangia <nome cibo>
+
+Quando compare il messaggio Inizi ad avere fame, e' forse il caso di 
+usare questo comando per riempirti lo stomaco.
+
+Esempio:
+
+> mangia pane
+Mangia il pane
+
+Vedi anche: ASSAGGIA, BEVI, DRINK, EAT, SIP, SORSEGGIA, TASTE
+#
+MANUALE
+
+Uso: manuale
+oppure
+     manuale manovali
+
+Questo comando, senza altre specifiche, visualizza i comandi base
+per muoversi sul MUD, nonche' altre informazioni utili per i principianti.
+Il comando seguito dal termine MANOVALI visualizzerà invece un breve
+manuale dei comandi da usare con i MANOVALI.
+
+Vedi anche: HANDBOOK
+#
+MESTIERI
+
+Uso: mestieri
+
+Questo comando permette di conoscere il numero di praticanti (in
+percentuale) di un dato mestiere.
+#
+METTI
+
+Uso: METTI  <nome oggetto> <nome contenitore>
+o    METTI tutto <nome contenitore>
+o    METTI all.<nome oggetto> <nome contenitore>
+o    METTI <numero d'ordine dell'oggetto>.<nome oggetto> <nome contenitore>
+
+Questo comando serve per riporre oggetti dentro contenitori.
+
+Esempio:
+
+> metti pane borsa
+Metti il pane in una borsa.
+
+> metti tutto sacca
+Metti una pietra pulita di smeraldo in una sacca.
+Metti una picca da minatore in una sacca.
+
+> metti all.pane borsa
+Metti il pane in una borsa.
+Metti il pane in una borsa.
+
+> metti 3.spada sacca
+Metti nella sacca la terza tra le spade che hai in inventario.
+
+Vedi anche: GET, PRENDI, PUT, TAKE
+#
+MISCHIA
+
+Uso: mischia <quantita' primo ingrediente> <nome primo ingrediente> <quantita' secondo ingrediente> <nome secondo ingrediente>... ecc.
+
+Questo comando serve per creare pozioni. Per utilizzarlo bisogna
+essere all'interno di un laboratorio da alchimista ed si deve
+disporre di almeno una boccetta in cui riporre la pozione.
+Per ingrediente si intende il nome dell'erba pulita.
+
+Esempio:
+
+> mischia 1 achillea 1 alchimilla 1 calendula
+BOOM...il miscuglio esplode!
+
+Vedi anche: LAVORA, POZIONI
+#
+MONTA
+
+Uso: monta <nome animale da cavalcare>
+
+Con questo comando puoi salire in groppa ad un cavallo, un unicorno
+o un drago.
+Ricordati prima di domare l'animale o questo, imbizzarrendosi, potrebbe
+disarcionarti.
+
+Vedi anche: AMMAESTRA, DOMA, LIBERADRAGO, SMONTA
+#
+MOSTRA
+
+Uso: mostra < H | M | V | X | D | C | all | none | off >
+
+Modifica il tuo prompt visualizzando gli hit points, i punti mana, i
+punti movimento, i punti esperienza mancanti per il livello successivo,
+lo stato di salute del MOB che stai combattendo o del TANK che stai
+assistendo.
+
+mostra h    visualizza gli hit point
+mostra m    visualizza i punti mana
+mostra v    visualizza i punti movimento
+mostra x    visualizza i punti mancanti per il livello successivo
+mostra d    visualizza notizie sullo stato del MOB che stai combattendo
+            (quando non combatti avrai un [*] nel display)
+mostra c    visualizza notizie sullo stato della persona che stai aiutando
+            in combattimento (se non assisti nessuno, non sara' visualizzato
+            nulla)
+mostra all  visualizza tutte le informazioni disponibili.
+mostra none disabilita le informazioni del prompt.
+mostra off  disabilita le informazioni del prompt.
+
+NOTA BENE: gli argomenti possono essere cumulati.
+
+Esempi:
+
+> mostra hv
+Visualizza gli hit point ed i punti movimento
+
+Vedi anche: DISPLAY, PROMPT, TOGGLE
+#
+MOTD
+
+Uso: MOTD
+
+Visualizza il messaggio di apertura corrente.
+Solitamente tale messaggio avverte di importanti cambiamenti avvenuti
+nel MUD o informa di iniziative riguardanti il MUD.
+Questo messaggio viene visualizzato automaticamente quando si accede al
+mud. Se non lo avete letto potete utilizzare questo comando per rivederlo.
+
+Vedi anche: NEWS, NOTIZIE
+#
+MSPSOUND
+
+Uso: MSPSOUND
+
+Questo comando consente di attivare i suoni del MUD. Per sentire i suoni
+puo' non essere sufficiente digitare questo comando. Occorre infatti aver
+scaricato i suoni nella directory del client che si usa per giocare ed
+il client deve essere in grado di riconoscere i comandi che attivano i
+suoni stessi.
+#
+MURDER
+
+Uso: MURDER <Nome Mob o PG>
+
+Questo comando vi consente di attaccare un altro giocatore o un MOB.
+
+Vedi anche: ASSASSINA, COLPISCI, HIT, KILL, UCCIDI
+#
+NASCONDITI
+
+Uso: NASCONDITI
+
+Quando digiti Nasconditi c'e' la possibilita' che tu riesca a
+nasconderti nella stanza.
+Se sei nascosto, la tua presenza puo' essere percepita solo con un
+incantesimo di 'sense life'.
+NASCONDITI viene interrotto dalla pressione del tasto return (anche
+se non viene digitato alcun comando).
+Solo gli alcioni ed i peloi possono utilizzare questo comando dopo
+aver appreso i rudimenti della skill dai maestri della loro Gilda.
+
+Esempio:
+
+> nasconditi
+Ok.
+(aspetti senza far nulla es. 5 minuti e resti 5 minuti nascosto)
+> (premi enter e non sei piu' nascosto)
+
+Vedi anche: HIDE
+#
+NEGOZI
+
+Uso: Negozi
+
+Se hai in gestione un negozio, con questo comando otterrai informazioni
+su di esso.
+Per la precisione ti verra' mostrato il numero virtuale del negozio,
+il numero virtuale della room che ospita il negozio, la situazione di
+cassa ed il nome del negoziante.
+
+Esempio:
+
+> Negozi
+N° Negozio  Room       Bank/Coins     Keeper
+---------------------------------------------------------------------
+[ 21223]    [ 21223]   [     47658]   Giorgio
+
+Vedi anche: BONIFICO, GUADAGNA, INCASSA, SALDO, SHEDIT, SHSAVE
+#
+NEWS
+
+Uso: NEWS
+
+Con questo comando potrai visualizzare delle schermate con notizie 
+riguardanti novita' o modifiche introdotte nel MUD.
+
+Vedi anche: MOTD, NOTIZIE
+#
+NOCONGRATULAZIONI
+
+Uso: Nocongratulazioni
+
+Questo comando serve ad attivare/disattivare il canale dei messaggi
+di congratulazione.
+Questo canale solitamente viene utilizzato per congratularsi con un
+giocatore che ha raggiunto una particolare meta (livello o riconoscimento
+che sia).
+
+Vedi anche: GRATS, NOGRATS
+#
+NODICI
+
+Uso: Nodici
+
+Questo comando serve ad attivare/disattivare il canale di comunicazione del
+DICI/TELL. Digitalo se vuoi che gli altri giocatori non possano utilizzare
+il comando tell/dici per comunicare con te.
+Facendo WHO il Flag (notell) apparira' accanto al nome dei giocatori che
+hanno disattivato il canale del DICI/TELL.
+
+Vedi anche: DICI, MANDA, NOTELL, REPLICA, REPLY, SEND, TELL
+#
+NOEVOCA
+
+Uso: NOEVOCA
+
+Dato che sarebbe possibile uccidere altri giocatori summonandoli (evocandoli)
+in luoghi pericolosi, tutti i giocatori hanno normalmente attivata la protezione
+dal summon (evocazione).
+Se volete che qualcuno vi summoni (evochi), dovete prima disattivare la
+protezione utilizzando questo comando.
+Digitandolo di nuovo si riattiva la protezione.
+
+Vedi anche: NOSUMMON, TOGGLE
+#
+NOGOSSIP
+
+Uso: Nogossip
+
+Questo comando serve ad attivare/disattivare il canale dei gossip.
+Questo canale viene solitamente utilizzato per "pettegolezzi" o per
+messaggi di varia natura.
+
+Vedi anche: GOSSIP
+#
+NOGRATS
+
+Uso: Nograts
+
+Questo comando serve ad attivare/disattivare il canale dei messaggi di
+congratulazione.
+Questo canale solitamente viene utilizzato per congratularsi con un
+giocatore che ha raggiunto una particolare meta (livello o riconoscimento
+che sia).
+
+Vedi anche: GRATS, NOCONGRATULAZIONI
+#
+NOKILL
+
+Uso: nokill
+
+Questa flag serve per impedirti di uccidere qualcuno. Se la flag e' attiva
+il tuo prompt avra' questo aspetto:
+
+[NK] HP 100 Ma 100 Mo 150 [*] > 
+
+Le due lettere tra parentesi quadre indicano appunto che sei in modalita'
+NOKILL. In questa modalita' potrai attaccare altri giocatori, ma questi
+non moriranno a causa dei tuoi colpi. Verranno solo tramortiti. Per lasciare
+questa modalita' di gioco e' sufficiente digitare NOKILL, NK sparira' dal
+prompt.
+#
+NOLEGGIA
+#
+NONRIPETERE
+
+Uso: NONRIPETERE
+
+Con questo comando potete decidere di non visualizzare l'eco dei comandi
+come say, shout, holler, ecc.
+Utile se avete una connessione lenta oppure se vi annoiano le ripetizioni.
+
+Vedi anche: NOREPEAT, TOGGLE
+#
+NOOOC
+
+Con questo comando puoi attivare/disattivare il canale di comunicazione
+OOC. Questo canale e' riservato alla conversazione tra giocatori ed e'
+utilizzato per ogni discorso o domanda non relativa al MUD.
+#
+NORD
+
+Uso: nord
+
+Digitando nord o semplicemente la lettera N, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a nord rispetto a quella in
+cui ti trovi attualmente.
+
+Vedi anche: NORTH
+#
+NOREGNO
+
+Uso: Noregno
+
+Questo comando attiva/disattiva il canale di comunicazione che ti
+consente di ascoltare i messaggi degli altri tuoi concittadini.
+
+Vedi anche: CDICI, CTELL
+#
+NOREPEAT
+
+Uso: NOREPEAT
+
+Con questo comando potete decidere di non visualizzare l'eco dei comandi
+come say, shout, holler, ecc.
+Utile se avete una connessione lenta oppure se vi annoiano le ripetizioni.
+
+Vedi anche: NONRIPETERE, TOGGLE
+#
+NORTH
+
+Uso: north
+
+Digitando north o semplicemente la lettera N, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a nord rispetto a quella in 
+cui ti trovi attualmente.
+
+Vedi anche: NORD
+#
+NOSHOUT
+
+Uso: NOSHOUT
+
+Questo comando disabilita/abilita la possibilita' di sentire gli shout o
+urla e gli holler o grida.
+Nella lista che si ottiene con WHO, i giocatori che hanno disabilitato questi
+canali sono indicati dal flag (deaf).
+
+Vedi anche: GRIDA, HOLLER, NOURLA, SHOUT, URLA
+#
+NOSUMMON
+
+Uso: NOSUMMON
+
+Dato che sarebbe possibile uccidere altri giocatori summonandoli
+(evocandoli) in luoghi pericolosi, tutti i giocatori hanno normalmente
+attivata la protezione dal summon (evocazione).
+Se volete che qualcuno vi summoni (evochi), dovete prima disattivare la
+protezione utilizzando questo comando.
+Digitandolo di nuovo si riattiva la protezione.
+
+Vedi anche: NOEVOCA, TOGGLE
+#
+NOTELL
+
+Uso: NOTELL
+
+Questo comando serve ad attivare/disattivare il canale di comunicazione
+del DICI/TELL. Digitalo se vuoi che gli altri giocatori non possano
+utilizzare il comando tell/dici per comunicare con te.
+Facendo WHO il Flag (notell) apparira' accanto al nome dei giocatori
+che hanno disattivato questo canale.
+
+Vedi anche: DICI, MANDA, NODICI, REPLICA, REPLY, SEND, TELL
+#
+NOTIFICA
+
+Uso: Notifica <nome funzionario> <tipo costruzione> <direzione>
+
+Questo comando serve agli architetti per aprire un cantiere. Per
+utilizzarlo correttamente occorre la presenza di un funzionario
+del Regno con permesso di rilasciare notifiche, che il funzionario
+abbia una notifica reale in mano e che la room in cui ci si trovi
+sia edificabile.
+Se questi presupposti sono rispettati un nuovo cantiere sara' aperto 
+nella direzione specificata nel comando.
+I tipi di costruzione sono casa, abitazione, castello.
+
+Esempio:
+
+> notifica Demostenee abitazione u
+Demostenee notifica il permesso di costruzione.
+Inizi i lavori di costruzione dell'edificio.
+
+Vedi anche: COSTRUISCI, PROGETTO
+#
+NOTIZIE
+
+Uso: Notizie
+
+Con questo comando potrai visualizzare delle schermate con notizie 
+riguardanti novita' o modifiche introdotte nel MUD.
+
+Vedi anche: MOTD, NEWS
+#
+NOURLA
+
+Uso: NOURLA
+
+Questo comando disabilita/abilita la possibilita' di sentire gli shout o
+urla e gli holler o grida.
+Nella lista che si ottiene con WHO, i giocatori che hanno disabilitato
+questi canali sono indicati dal flag (deaf).
+
+Vedi anche: GRIDA, HOLLER, NOSHOUT, SHOUT, URLA
+#
+OFFER
+
+Uso: Offer
+
+Questo comando puo' essere utilizzato nelle locande di Dalila. Digitandolo
+otterrete un preventivo di spesa dal locandiere. Vi sara' specificato quanto
+spenderete per ogni oggetto che avete nell'inventario, il costo totale di un
+giorno e il numero di giorni che potrete pagare con i soldi che avete in banca.
+
+Vedi anche: ABBANDONARE, ACCAMPATI, AFFITTA, CAMP, OFFRI, QUIT, RENT
+#
+OFFRI
+
+Uso: Offri
+
+Questo comando puo' essere utilizzato nelle locande di Dalila. Digitandolo
+otterrete un preventivo di spesa dal locandiere. Vi sara' specificato quanto
+spenderete per ogni oggetto che avete nell'inventario, il costo totale di un
+giorno e il numero di giorni che potrete pagare con i soldi che avete in banca.
+
+Vedi anche: ABBANDONARE, ACCAMPATI, AFFITTA, CAMP, OFFER, QUIT, RENT
+#
+OOC
+
+Uso: ooc <messaggio>
+
+Questo comando serve per inviare messaggi non GdR a tutti gli altri giocatori.
+Questo canale di comunicazione e' infatti udibile da tutti, a meno che questi
+non abbiano deciso di disattivarlo con il comando NOOOC.
+
+Vedi anche: NOOOC
+#
+OPEN
+
+Uso: open <nome oggetto da aprire> [direzione se applicabile]
+
+Questo comando serve ad aprire una porta o un oggetto chiuso. Nel caso in cui 
+vi siano piu' porte chiuse e' necessario specificare la direzione in cui si 
+trova la porta da aprire.
+
+Esempi:
+
+> Open porta
+> Open sacca
+> Open porta sud
+Apri la porta chiusa che si trova a sud.
+
+Vedi anche: APRI, BLOCCA, CHIUDI, CLOSE, LOCK, SBLOCCA, UNLOCK
+#
+ORA
+
+Uso: ORA
+
+Questo comando ti fornisce l'ora attuale di Dalila. Su questo orario
+si basa l'alternarsi del giorno alla notte, l'apertura dei negozi ecc.
+
+Esempio:
+
+> ora
+Sono le 6 pm del giorno del Toro.
+E' il giorno 8 del Mese delle Ombre, Anno 1000.
+
+Vedi anche: TIME
+#
+ORDER
+
+Uso: ORDER <nome essere Charmato> <azione>
+     ORDER followers <azione>
+
+Questo comando serve per ordinare qualcosa ad esseri charmati.
+Nel caso tu sia riuscito a charmare piu' esseri, puoi utilizzare
+ORDER followers per dare un ordine che tutti eseguiranno.
+
+Esempi:
+
+> order pedone siedi
+Il pedone della corte Bianca si siede.
+
+> order follow stand
+Il pedone della corte Bianca si alza.
+Il pedone della corte Bianca si alza.
+
+Vedi anche: ORDINA
+#
+ORDINA
+
+Uso: ORDINA <nome essere Charmato> <azione>
+     ORDINA followers <azione>
+
+Questo comando serve per ordinare qualcosa ad esseri charmati.
+Nel caso tu sia riuscito a charmare piu' esseri, puoi utilizzare
+ORDINA followers per dare un ordine che tutti eseguiranno.
+
+Esempi:
+
+> ordina pedone siedi
+Il pedone della corte Bianca si siede.
+
+> ordina follow stand
+Il pedone della corte Bianca si alza.
+Il pedone della corte Bianca si alza.
+
+Vedi anche: ORDER
+#
+ORIZZONTE
+
+Uso: orizzonte
+
+Questo comando funziona solo nella wilderness e permette di scrutare 
+l'orizzonte in cerca di punti di riferimento.
+
+Vedi anche: HORIZON, WILDX, WILDY
+#
+ORO
+
+Uso: ORO
+
+Visualizza quanto oro (monete) stai trasportando.
+
+Vedi anche: BALANCE, BILANCIO, DEPOSIT, DEPOSITA, GOLD, PRELEVA, PROFILO,
+SCORE, WITHDRAW
+#
+OVEST
+
+Uso: ovest
+
+Digitando ovest o semplicemente la lettera O, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a sinistra rispetto a quella
+in cui ti trovi.
+
+Vedi anche: WEST
+#
+PARLA
+
+Uso: parla <messaggio>
+
+Con questo comando puoi parlare a tutti quelli presenti nella tua stessa
+locazione.
+
+Esempio:
+
+> parla salve a tutti!
+Dici, 'salve a tutti!'
+
+Vedi anche: ', ASK, CHIEDI, DICI, SAY, SUSSURRA, TELL, WHISPER
+#
+PEDINA
+
+Uso: PEDINA <nome MOB o PG da trovare>
+
+Questo comando puo' esserti utile se vuoi seguire le tracce di una data
+persona o MOB. Per poterlo utilizzare devi pero' averne appreso almeno
+i rudimenti dal tuo maestro nella Gilda. Solo alcioni, genidian e peloi
+possono avere accesso a questo comando.
+
+Esempio:
+ 
+> pedina cavaliere
+Vedi delle tracce che portano a south di qui!
+
+Vedi anche: TRACK
+#
+PEEP
+
+Uso: Peep <nome MOB o PG>
+
+Con questo comando puoi sbirciare tra gli averi di qualcuno. Solo gli
+alcioni possono utilizzare questa skill dopo averla imparata dal maestro
+della loro Gilda.
+
+Esempio:
+
+> peep pedone
+Stai cercando di mettere le mani nella roba di il pedone della corte Bianca: 
+Ha una manciata di monete nel borsello!
+Una spada del Fante Bianco ..in perfetto stato.
+
+Vedi anche: SBIRCIA
+#
+PESCA
+
+Uso: pesca <risorsa di pesce>
+
+Questo comando è utilizzabile solo dai personaggi che hanno scelto di essere
+pescatori. Per utilizzarlo occorre aver precedentemente afferrato una canna
+da pesca ed essere in presenza di una risorsa di pesce.
+
+Esempio:
+
+>pesca risorsa
+Butti la lenza in acqua sperando che qualcosa abbocchi.
+
+Vedi anche: LAVORA, RECUPERA
+#
+PICK
+
+Uso: pick <nome porta>
+
+Questo comando serve a scassinare serrature chiuse a chiave. Solo gli
+alcioni possono usare questo comando dopo averne appreso i rudimenti
+dal Maestro della loro Gilda.
+
+Esempio:
+
+>pick porta
+La serratura non resiste alla tua maestria.
+
+Vedi anche: SCASSINA
+#
+POLICY
+
+Uso: policy
+
+Digitando questo comando potrai visualizzare le regole che tutti i
+giocatori sono tenuti a rispettare.
+
+Vedi anche: POLITICA
+#
+POLITICA
+
+Uso: politica
+
+Digitando questo comando potrai visualizzare le regole che tutti i
+giocatori sono tenuti a rispettare.
+
+Vedi anche: POLICY
+#
+POSA
+
+Uso: Posa <nome oggetto>
+oppure
+     Posa all
+oppure
+     Posa <numero di monete>
+oppure
+     Posa all.<nome oggetto>
+
+Se vuoi lasciare a terra uno o piu' oggetti devi usare questo comando.
+
+Esempi:
+
+> posa borraccia
+Decidi di posare una borraccia.
+
+> posa all
+Ha come effetto quello di farti lasciare a terra tutto quello che hai in 
+inventario.
+
+> posa 1000 coins
+Lasci alcuni coins per terra.
+
+> posa all.lingotto
+Ha come effetto quello di farti lasciare a terra tutti i lingotti che hai in 
+inventario.
+
+Vedi anche: DISTRUGGI, DONA, DONATE, DROP, JUNK
+#
+POUR
+
+Uso: Pour <nome contenitore> out | fuori | in <altro contenitore>
+
+Con questo comando puoi svuotare un contenitore di liquidi del suo contenuto.
+Puoi decidere di versare a terra il liquido o in un altro contenitore.
+
+Esempi:
+
+>pour borraccia out
+Svuoti una borraccia.
+
+>pout borraccia fuori
+Svuoti una borraccia.
+
+>pou borraccia in barile
+Svuoti acqua fresca in barile.
+
+Vedi anche: FILL, RIEMPI, SVUOTA
+#
+POZIONI
+
+Uso: pozioni
+
+Con questo comando puoi visualizzare le formule necessarie a fare
+alcune pozioni.
+
+Vedi anche: MISCHIA, QUAFF, TRANGUGIA
+#
+PRACTICE
+
+Uso: PRACTICE <nome skill o spell>
+
+Con questo comando e' possibile apprendere una skill o spell.
+Per apprendere una spell o skill dovrai trovarti di fronte al maestro
+della tua gilda e digitare PRACTICE seguito dal nome della skill o spell
+che desideri apprendere.
+Digitanto practice da solo otterrai una lista di tutte le skill e spell
+che puoi attualmente imparare, il loro attuale livello di conoscenza
+(nel caso tu le abbia precedentemente apprese), il numero di punti
+"apprendimento" disponibili.
+
+Per praticare una spell/skill occorre avere almeno un punto apprendimento.
+I punti apprendimento si guadagnano ad ogni cambio di livello.
+
+Vedi anche: PRATICA
+#
+PRATICA
+
+Uso: PRATICA <nome skill o spell>
+
+Con questo comando e' possibile apprendere una skill o spell.
+Per apprendere una spell o skill dovrai trovarti di fronte al maestro
+della tua gilda e digitare PRATICA seguito dal nome della skill o spell
+che desideri apprendere.
+Digitanto pratica da solo otterrai una lista di tutte le skill e spell
+che puoi attualmente imparare, il loro attuale livello di conoscenza
+(nel caso tu le abbia precedentemente apprese), il numero di punti
+"apprendimento" disponibili.
+
+Per praticare una spell/skill occorre avere almeno un punto apprendimento.
+I punti apprendimento si guadagnano ad ogni cambio di livello.
+
+Vedi anche: PRACTICE
+#
+PREGHIERA
+
+Uso: preghiera <messaggio>
+
+Con questo comando inoltri una preghiera ai creatori.
+
+Vedi anche: BACO, BUG, ERRORE, GPRAY, IDEA, TYPO
+#
+PRELEVA
+
+Uso: preleva <numero di monete>
+
+Con questo comando puoi prelevare soldi dalla banca. Naturalmente devi
+averli prima depositati sul tuo conto.
+
+Esempio:
+
+> Preleva 10
+Ritiri dal conto 10 menete.
+
+Vedi anche: BALANCE, BILANCIO, DEPOSIT, DEPOSITA, PROFILO, SCORE, WITHDRAW
+#
+PRENDI
+
+Uso: prendi <nome oggetto>
+     prendi all
+     prendi all <oggetto contenitore>
+     prendi all all.<oggetto contenitore>
+     prendi all.<oggetto> all.<oggetto contenitore>
+
+Se trovi qualcosa di interessante puoi utilizzare questi comandi per
+prenderlo e metterlo in inventario. Con questo comando e' anche
+possibile prelevare oggetti da contenitori o cadaveri.
+
+Esempi:
+
+> prendi guanti cadavere
+Prendi i guanti del coraggio da il cadavere di Sir Lancillotto del Lago.
+
+> prendi all cadavere
+Prendi un po' di monete d'oro da il cadavere di Sir Lancillotto del Lago.
+Prendi i guanti del coraggio da il cadavere di Sir Lancillotto del Lago.
+
+> prendi all all.sac
+Prendi una scopa da un sacco di iuta.
+Un sacco di iuta sembra essere vuoto.
+
+> prendi all.pozione all.sac
+Prendi una pozione da un sacco di iuta.
+Prendi una pozione da un sacco di iuta.
+Non sembra esserci una pozione dentro un sacco di iuta.
+
+Vedi anche: GET, METTI, PUT, TAKE
+#
+PRIGIONIERO
+
+Uso: prigioniero
+
+Se hai catturato un criminale devi utilizzare questo comando davanti al
+secondino. Se il criminale ha una taglia sulla testa, il secondino ti
+paghera' prendendo in consegna il criminale. La tua notorieta' salira'
+di alcuni punti.
+
+Esempio:
+
+> prigioniero
+Guardia delle prigioni squadra per bene John.
+Guardia delle prigioni consulta freneticamente le foto segnaletiche dei ricercati.
+Guardia delle prigioni dice, 'Ottimo lavoro, ora avrai la tua ricompensa.'
+Guardia delle prigioni apre una cassaforte e prende del denaro.
+Guardia delle prigioni ti da' 1400 coins.
+Complimenti, la tua Notorieta e' aumentata.
+#
+PRODOTTI
+
+Uso: prodotti
+
+Digitando questo comando in un negozio che accetta merci prodotte dai PG
+avrai un elenco dei prodotti disponibili.
+
+Esempio:
+
+> Prodotti
+Lista dei prodotti in magazzino:
+---------------------------------
+Erba pulita mazzo achillea
+
+Vedi anche: BUY, COMPRA, LIST, LISTA, SELL, VALUE, VALORE, VENDI
+#
+PROFICIENZE
+
+Uso: proficienze
+
+Utilizzando questo comando avrai un elenco delle proficienze esistenti
+su Dalila. Otterrai anche il tuo attuale livello di conoscenza di una
+data proficienza.
+
+Esempio:
+
+> proficienze
+Ecco il tuo grado di conoscenza delle proficienze:
+addestratore         0
+alchimista           100
+architetto           0
+cacciatore           0
+carpentiere          0
+cavalcare            40
+coltivatore          0
+cuoco                0
+domare               40
+erborista            100
+fabbro               0
+falegname            0
+gioielliere          0
+minatore             0
+montare              40
+pescatore            0
+sarto                0
+#
+PROFILO
+
+Uso: PROFILO
+
+Questo comando fornisce utili informazioni sul tuo personaggio, come il nome,
+il sesso, l'altezza, il peso, l'eta', la citta' natale, l'ordine, il livello,
+i punti ferita, i punti mana, i punti movimento, la classe armatura,
+il peso trasportato e trasportabile, gli oggetti trasportati e trasportabili,
+l'oro posseduto, da quanto tempo giochi ed il tuo stato attuale, il numero di
+nemici uccisi, il numero di morti complessive e nel livello, gli incantesimi
+attivi.
+
+Vedi anche: ATTRIBUTES, ATTRIBUTI, SCORE
+#
+PROMPT
+
+Uso: prompt < H | M | V | X | D | C | all | none | off >
+
+Modifica il tuo prompt visualizzando gli hit points, i punti mana, i punti 
+movimento, i punti esperienza mancanti per il livello successivo, lo stato di 
+salute del MOB che stai combattendo o del TANK che stai assistendo.
+
+prompt h    visualizza gli hit point
+prompt m    visualizza i punti mana
+prompt v    visualizza i punti movimento
+prompt x    visualizza i punti mancanti per il livello successivo
+prompt d    visualizza notizie sullo stato del MOB che stai combattendo
+            (quando non combatti avrai un [*] nel prompt)
+prompt c    visualizza notizie sullo stato della persona che stai aiutando
+            in combattimento (se non assisti nessuno, non sara' visualizzato
+            nulla)
+prompt all  visualizza tutte le informazioni disponibili.
+prompt none disabilita le informazioni del prompt.
+prompt off  disabilita le informazioni del prompt.
+
+NOTA BENE: gli argomenti possono essere cumulati.
+
+Esempio:
+
+> prompt hv    visualizza gli hit point ed i punti movimento
+
+Vedi anche: DISPLAY, MOSTRA, TOGGLE
+#
+PUGNALA
+
+Uso: PUGNALA <nome vittima>
+
+Pugnala serve per tentare di pugnalare alla schiena la vittima
+prescelta. Solo Alcioni e Peloi possono utilizzare questo comando
+dopo aver imparato la relativa skill dai Maestri della propria
+Gilda.
+La percentuale di successo dipende dal grado di conoscenza della skill.
+E' possibile usare il PUGNALA anche su chi sta dormendo.
+
+Vedi anche: BACKSTAB
+#
+PUGNO
+
+Uso: Pugno <nome MOB o PG>
+
+Questo comando ti consente di sferrare un potente pugno ad un avversario.
+Solo i genidian possono utilizzare questa skill.
+
+Esempio:
+
+> pugno pedone
+Colpisci il pedone della corte Bianca con un potente diretto!
+
+Vedi anche: PUNCH
+#
+PULL
+
+Uso: PULL
+
+Questo comando va utilizzando con le slot machine.
+
+Vedi anche: TIRA
+#
+PUNCH
+
+Uso: Punch <nome MOB o PG>
+
+Questo comando ti consente di sferrare un potente pugno ad un avversario.
+Solo i genidian possono utilizzare questa skill.
+
+Esempio:
+
+> punch pedone
+Colpisci il pedone della corte Bianca con un potente diretto!
+
+Vedi anche: PUGNO
+#
+PUT
+
+Uso: PUT  <nome oggetto> <nome contenitore>
+o    PUT tutto <nome contenitore>
+o    PUT all.<nome oggetto> <nome contenitore>
+o    PUT <numero d'ordine dell'oggetto>.<nome oggetto> <nome contenitore>
+
+Questo comando serve per riporre oggetti dentro contenitori.
+
+Esempio:
+
+> put pane borsa
+Metti il pane in una borsa.
+
+> put tutto sacca
+Metti una pietra pulita di smeraldo in una sacca.
+Metti una picca da minatore in una sacca.
+
+> put all.pane borsa
+Metti il pane in una borsa.
+Metti il pane in una borsa.
+
+> put 3.spada sacca
+Metti nella sacca la terza tra le spade che hai in inventario.
+
+Vedi anche: GET, METTI, PRENDI, TAKE
+#
+QPARLA
+
+Uso: Qparla <messaggio> 
+
+Questo comando serve per parlare a tutti coloro che partecipano ad una quest.
+Per poter aver accesso a questo canale di comunicazione, occorre prima aver
+aderito alla quest corrente con il comando QUEST o RICHIESTA.
+
+Esempio:
+
+> qparla qualcuno si ricorda le ultime parole di Lancillotto?
+(quest)Dici, 'qualcuno si ricorda le ultime parole di Lancillotto?'
+
+Vedi anche: QSAY, QUEST, RICHIESTA
+#
+QSAY
+
+Uso: Qsay <messaggio> 
+
+Questo comando serve per parlare a tutti coloro che partecipano ad una quest.
+Per poter aver accesso a questo canale di comunicazione, occorre prima aver
+aderito alla quest corrente con il comando QUEST o RICHIESTA.
+
+Esempio:
+
+> qsay qualcuno si ricorda le ultime parole di Lancillotto?
+(quest)Dici, 'qualcuno si ricorda le ultime parole di Lancillotto?'
+
+Vedi anche: QPARLA, QUEST, RICHIESTA
+#
+QUAFF
+
+Uso: QUAFF <pozione>
+
+Quaff e' il comando da usare per bere le pozioni.
+
+Vedi anche: POZIONI, TRANGUGIA
+#
+QUEST
+
+Uso: QUEST
+
+Questo comando serve per informare i Creatori che desideri partecipare alla
+quest in corso.
+Il comando ti consente anche di sentire i messaggi del canale riservato alle
+quest.
+
+Vedi anche: QPARLA, QSAY, RICHIESTA
+#
+QUI
+
+Serve per prevenire il quit accidentale dovuto all'abbreviazione di qualche
+comando o alias.
+Questo comando NON FA' ASSOLUTAMENTE NULLA.
+Se si vuole abbandonare il gioco occorre DIGITARLO PER ESTESO.
+
+Vedi anche: QUIT
+#
+QUIT
+
+Uso: QUIT
+
+Il comando va' digitato per esteso, dato che tralasciando anche solo una
+lettera (QUI) verrebbe eseguito il comando inerte QUI (vedi help relativo).
+Digitando QUIT si esce dal gioco abbandonando TUTTO quello che si possiede
+a terra.
+Se si desidera conservare il proprio equipaggiamento, occorrera' trovare 
+una locanda ed utilizzare il comando RENT (o AFFITTA) o piu' economicamente
+usare CAMP o ACCAMPATI nella wilderness.
+
+Vedi anche: ABBANDONARE, ACCAMPATI, AFFITTA, CAMP, OFFER, OFFRI, RENT
+#
+RACCOGLI
+
+Uso: raccogli <risorsa>
+
+Con questo comando, dopo aver impugnato l'utensile adatto, sarai in grado
+di ricavare prodotti grezzi dalle risorse che troverai nella wilderness.
+
+Puoi utilizzare questo comando su:
+
+cespugli (con la piccozza da erborista)
+foreste (con l'ascia)
+giacimenti (con la picca)
+risorse alimentari (con la falce)
+
+Vedi anche: LAVORA
+#
+RAPPORTO
+
+Uso: RAPPORTO
+
+Questo comando invia un rapporto sul vostro stato di salute a tutti i
+componenti del gruppo.
+
+Vedi anche: GROUP, GRUPPO, REPORT
+#
+READ
+
+Uso: READ <oggetto>
+
+Devi utilizzare questo comando quando vuoi leggere qualcosa.
+READ viene utilizzato anche per leggere i messaggi nelle bacheche.
+
+Vedi anche: GUARDA, LEGGI, LOOK
+#
+RECEIVE
+
+Uso: receive
+
+Questo comando si utilizza negli uffici postali per farsi consegnare dal
+postino le lettere in giacenza.
+
+Vedi anche: CHECK, CONTROLLA, MAIL, RICEVI, SCRIVI, WRITE
+#
+RECITA
+
+Uso: RECITA <pergamena> <bersaglio>
+
+Questo comando deve essere usato se si ha intenzione di utilizzare gli
+incantesimi presenti su una pergamena. I genidian non possono usare le
+pergamene.
+Il bersaglio puo' essere una persona, un oggetto o se stessi.
+
+Vedi anche: RECITE, SCRIVIMAGIA, WRITEMAGIC
+#
+RECITE
+
+Uso: RECITE <pergamena> <bersaglio>
+
+Questo comando deve essere usato se si ha intenzione di utilizzare gli
+incantesimi presenti su una pergamena. I genidian non possono usare le
+pergamene.
+Il bersaglio puo' essere una persona, un oggetto o se stessi.
+
+Vedi anche: RECITA, SCRIVIMAGIA, WRITEMAGIC
+#
+RECUPERA
+
+Uso: recupera <pesce>
+
+Questo e' il comando che i pescatori devono utilizzare se un pesce ha
+abboccato alla loro lenza.
+
+Esempio:
+
+Vedi la tua lenza tirare... forse ha abboccato.
+> recupera pesce
+Tiri su la tua preda!.
+Peschi un pesce squalo fresco da 9 kg.
+
+Vedi anche: LAVORA, PESCA
+#
+REGNI
+
+Uso: regni
+
+Con questo comando potrai avere informazioni sui vari regni della Daresia.
+
+Vedi anche: REGNO
+#
+REGNO
+
+Uso: regno
+oppure
+     regno <opzioni>
+
+Utilizzando il comando senza alcuna opzione potrai vedere i comandi
+regno che puoi utilizzare.
+
+Vedi anche: REGNI
+#
+REMOVE
+
+Uso: REMOVE <oggetto>
+     REMOVE all
+     REMOVE all.<nome oggetto>
+
+Con questo comando puoi smettere di usare pezzi di equipaggiamento.
+I pezzi rimossi finiranno nel tuo inventario fin quando non deciderai
+dove riporli.
+
+Esempi:
+
+> remove stivali
+Smetti di usare un paio di stivali.
+
+> remove all
+Smetti di usare una spada.
+Smetti di usare un elmo.
+
+> remove all.collana
+Smetti di usare una collana di acquamarina.
+Smetti di usare una collana di acquamarina.
+
+Vedi anche: AFFERRA, AGGANCIA, EQUIPMENT, EQUIPAGGIAMENTO, GRAB, HANG,
+HOLD, IMPUGNA, INDOSSA, RIMUOVI, SGANCIA, TIENI, WEAR, WIELD
+#
+RENT
+
+Uso: RENT
+
+Da utilizzare nelle receptions delle locande o nelle stalle di Dalila.
+Se ti trovi in una locanda RENT, come AFFITTA, ti consente di affittare una 
+camera ed uscire dal gioco. Quando rientrerai in gioco, ripartirai esattamente 
+da dove hai rentato.
+Se ti trovi in una stalla, in sella ad un cavallo, privo di carico, puoi 
+lasciare l'animale ricevendo in cambio una ricevuta dallo stalliere. Al
+tuo ritorno in gioco, per avere indietro il cavallo, sara' sufficiente consegnare 
+la ricevuta allo stalliere.
+
+Vedi anche: ABBANDONARE, ACCAMPATI, AFFITTA, CAMP, OFFER, OFFRI, QUIT, 
+RICEVUTA
+#
+REPAIR
+
+Uso: REPAIR <nome oggetto>
+
+Con questa abilita' puoi riparare oggetti danneggiati durante i combattimenti
+o per l'usura del tempo. Solo chi abbia appreso questa abilita' dal Maestro
+del Santuario di Riparazione puo' utilizzare questo comando.
+
+Vedi anche: ABILITA, RIPARA
+#
+REPLICA
+
+Uso: REPLICA <messaggio>
+
+Questo comando potrai inviare un messaggio di risposta all'ultima persona
+che ti ha parlato DICI o TELL.
+Molto utile se dovete rispondere ad una persona invisibile.
+
+Esempi:
+
+Cyrgon ti dice, 'Salve'
+> replica Salve a te
+Tu dici a Cyrgon, 'Ciao a te'
+
+Qualcuno ti dice, 'Indovina chi sono?'
+> replica l'uomo invisibile?
+Tu dici a Qualcuno, 'l'uomo invisibile?'
+
+Vedi anche: DICI, NODICI, NOTELL, MANDA, REPLY, SEND, TELL
+#
+REPLY
+
+Uso: REPLY <Messaggio>
+
+Questo comando potrai inviare un messaggio di risposta all'ultima persona
+che ti ha parlato DICI o TELL.
+Molto utile se dovete rispondere ad una persona invisibile.
+
+Esempi:
+
+Cyrgon ti dice, 'Salve'
+> reply Salve a te
+Tu dici a Cyrgon, 'Ciao a te'
+
+Qualcuno ti dice, 'Indovina chi sono?'
+> reply l'uomo invisibile?
+Tu dici a Qualcuno, 'l'uomo invisibile?'
+
+Vedi anche: DICI, NODICI, NOTELL, MANDA, REPLICA, SEND, TELL
+#
+REPORT
+
+Uso: REPORT
+
+Questo comando invia un rapporto sul vostro stato di salute a tutti i
+componenti del gruppo.
+
+Vedit anche: GROUP, GRUPPO, RAPPORTO
+#
+RESCUE
+
+Uso: RESCUE <nome PG>
+
+Se un vostro amico sta' per avere la peggio in uno scontro, potete 
+provare a salvarlo facendo utilizzando questo comando; in caso di 
+successo l'avversario comincera' a combattere contro di voi, ignorando
+il vostro amico.
+Solo Alcioni, Peloi e Genidian possono utilizzare questo comando, dopo
+averne appreso i rudimenti dal Maestro della Gilda.
+
+Vedi anche: SOCCORRI
+#
+REST
+
+Uso: rest
+
+Con questo comando metterai il tuo PG in modalita' di riposo. Recupererai
+piu' velocemente HP, MANA e MOV. Per smettere di riposare e' sufficiente
+alzarsi da terra.
+
+Esempio:
+
+> rest
+Ti siedi a riposare le stanche ossa.
+
+Vedi anche: ALZATI, DORMI, RIPOSA, SIEDITI, SIT, SLEEP, SVEGLIA, STAND, WAKE
+#
+RETREAT
+
+Uso: retreat <direzione>
+
+Utilizzando questo comando in battaglia, ti sara' concesso di lasciare il
+combattimento senza ulteriori ferite. Solo i genidian possono utilizzare
+questo comando dopo aver appreso la corrispondente skill dal Maestro della
+loro Gilda.
+
+Vedi anche: RITIRATA
+#
+RETURN
+#
+RICEVI
+
+Uso: ricevi
+
+Questo comando si utilizza negli uffici postali per farsi consegnare dal
+postino le lettere in giacenza.
+
+Vedi anche: CHECK, CONTROLLA, MAIL, RECEIVE, SCRIVI, WRITE
+#
+RICHIAMADRAGO
+
+Uso: Richiamadrago
+
+Se sei in possesso di un medaglione dei Draghi, con questo comando
+puoi convocarlo alla tua presenza.
+
+Vedi anche: DOMA, LIBERADRAGO, MONTA, SMONTA, SOFFIA, VOLA
+#
+RICHIESTA
+
+Uso: RICHIESTA
+
+Questo comando serve per informare i Creatori che desideri partecipare
+alla quest in corso.
+Il comando ti consente anche di sentire i messaggi del canale riservato
+alle quest.
+
+Vedi anche: QPARLA, QSAY, QUEST
+#
+RIEMPI
+
+Uso: riempi  <nome contenitore> <nome oggetto da cui si preleva il liquido>
+
+Questo e' il comando da utilizzare per riempire un contenitore di acqua. Il 
+contenitore deve essere in inventario.
+
+Esempio:
+
+> riempi borraccia fontana
+
+Vedi anche: FILL, POUR, SVUOTA
+#
+RIMUOVI
+
+Uso: RIMUOVI <oggetto>
+     RIMUOVI all
+     RIMUOVI all.<nome oggetto>
+
+Con questo comando puoi smettere di usare pezzi di equipaggiamento.
+I pezzi rimossi finiranno nel tuo inventario fin quando non deciderai
+dove riporli.
+
+Esempi:
+
+> rimuovi stivali
+Smetti di usare un paio di stivali.
+
+> rimuovi all
+Smetti di usare una spada.
+Smetti di usare un elmo.
+
+> rimuovi all.collana
+Smetti di usare una collana di acquamarina.
+Smetti di usare una collana di acquamarina.
+
+Vedi anche: AFFERRA, AGGANCIA, EQUIPMENT, EQUIPAGGIAMENTO, GRAB, HANG,
+HOLD, IMPUGNA, INDOSSA, REMOVE, SGANCIA, TIENI, WEAR, WIELD
+#
+RIPARA
+
+Uso: RIPARA <nome oggetto>
+
+Con questa abilita' puoi riparare oggetti danneggiati durante i combattimenti
+o per l'usura del tempo. Solo chi abbia appreso questa abilita' dal Maestro
+del Santuario di Riparazione puo' utilizzare questo comando.
+
+Vedi anche: ABILITA, REPAIR
+#
+RIPOSA
+
+Uso: riposa
+
+Con questo comando metterai il tuo PG in modalita' di riposo. Recupererai
+piu' velocemente HP, MANA e MOV. Per smettere di riposare e' sufficiente
+alzarsi da terra.
+
+Esempio:
+
+> riposa
+Ti siedi a riposare le stanche ossa.
+
+Vedi anche: ALZATI, DORMI, REST, SIEDITI, SIT, SLEEP, STAND, SVEGLIA, WAKE
+#
+RITIRATA
+
+Uso: ritirata <direzione>
+
+Utilizzando questo comando in battaglia, potrai lasciare il combattimento
+senza ulteriori ferite. Solo i genidian possono utilizzare questo comando
+dopo aver appreso la corrispondente skill dal Maestro della loro Gilda.
+
+Vedi anche: RETRAIT
+#
+RPG
+
+Uso: RPG
+
+Questo comando ti consente di attivare o disattivare la FLAG GDR.
+Utilizzandolo accanto al tuo nome comparira' l'indicazione GDR. 
+Tutti coloro che ti incontreranno sapranno che hai intenzione di
+interpretare un ruolo. Cio' vuol dire che hai creato un personaggio
+con una sua storia e un suo modo di comportarsi in accordo con essa.
+Non dovresti dunque agire e parlare da giocatore ma da personaggio.
+
+Vedi anche: GDR
+#
+RUBA
+
+Uso: RUBA <oggetto> <vittima>
+
+Da usarsi per rubare monete oppure oggetti da mob e persone. Solo gli
+Alcioni hanno la possibilita' di apprendere questa skill.
+La probabilita' di non essere scoperti dipende da quanto bene si conosce
+questa skill e dal fatto che la vittima sia sveglia oppure no.
+Se si ruba ad un altro giocatore, la fedina del ladro verra' automaticamente
+aggiornata.
+
+Esempi:
+
+> ruba coin ubriaco
+> ruba spada mercenario
+Se la spada e' impugnata, puoi riuscire a rubarla soltanto se la vittima dorme.
+
+Vedi anche: STEAL
+#
+SALDO
+
+Uso: saldo
+
+Digitando questo comando nel tuo negozio saprai quanto denaro ha
+attualmente il MOB.
+
+Esempio:
+
+> saldo
+Il ricavato complessivo e' di 15069 coin.
+
+Vedi anche: BONIFICO, GUADAGNA, INCASSA, NEGOZI, SHEDIT, SHSAVE
+#
+SALVA
+
+Uso: SALVA
+
+Questo comando serve a salvare il proprio personaggio, per proteggersi
+nell'eventualita' di un crash del mud.
+Attenzione: il mud salva automaticamente tutti i personaggi in gioco ad
+intervalli di tempo prestabiliti e quando il personaggio esce dal gioco.
+Il comando potra' essere utile soltanto nei casi in cui ci si intende
+tutelare dall'eventualita' di un crash del mud, avendo appena conquistato
+una meta ambita ed importante.
+In ogni caso NON ESISTE IL COMANDO LOAD per ricaricare un salvataggio.
+Questa operazione sara' eseguita SOLTANTO dai Creatori nel caso accertino
+che un crash ha danneggiato gravemente alcuni personaggi.
+
+Vedi anche: SAVE
+#
+SAVE
+
+Uso: SAVE
+
+Questo comando serve a salvare il proprio personaggio, per proteggersi
+nell'eventualita' di un crash del mud.
+Attenzione: il mud salva automaticamente tutti i personaggi in gioco ad
+intervalli di tempo prestabiliti e quando il personaggio esce dal gioco.
+Il comando potra' essere utile soltanto nei casi in cui ci si intende
+tutelare dall'eventualita' di un crash del mud, avendo appena conquistato
+una meta ambita ed importante.
+In ogni caso NON ESISTE IL COMANDO LOAD per ricaricare un salvataggio.
+Questa operazione sara' eseguita SOLTANTO dai Creatori nel caso accertino
+che un crash ha danneggiato gravemente alcuni personaggi.
+
+Vedi anche: SALVA
+#
+SAY
+
+Uso: say <messaggio>
+
+Con questo comando puoi parlare a tutti quelli presenti nella tua stessa
+locazione.
+
+Esempio:
+
+> parla salve a tutti!
+Dici, 'salve a tutti!'
+
+Vedi anche: ', ASK, CHIEDI, DICI, PARLA, SUSSURRA, TELL, WHISPER
+#
+SBIRCIA
+
+Uso: sbircia <nome MOB o PG>
+
+Con questo comando puoi sbirciare tra gli averi di qualcuno. Solo gli
+alcioni possono utilizzare questa skill dopo averla imparata dal maestro
+della loro Gilda.
+
+Esempio:
+
+> sbircia pedone
+Stai cercando di mettere le mani nella roba di il pedone della corte Bianca: 
+Ha una manciata di monete nel borsello!
+Una spada del Fante Bianco ..in perfetto stato.
+
+Vedi anche: PEEP
+#
+SBLOCCA
+
+Uso: sblocca <porta> <direzione>
+
+Con questo comando puoi aprire porte chiuse a chiave, naturalmente devi avere
+la chiave giusta in inventario per poterlo fare.
+
+Esempio:
+
+> sblocca porta n
+*Click*
+
+Vedi anche: APRI, BLOCCA, CHIUDI, CLOSE, LOCK, OPEN, UNLOCK
+#
+SCAN
+
+Uso: SCAN
+
+Con questa skill sei in grado di avere una visione accurata degli ambienti
+circostanti la zona in cui ti trovi. Saranno indicati anche i MOB e i PG
+presenti. Solo Cyrinic, Peloi e Genidian possono apprendere questa skill.
+
+Vedi anche: SCANSIONE
+#
+SCANSIONE
+
+Uso: SCANSIONE
+
+Con questa skill sei in grado di avere una visione accurata degli ambienti
+circostanti la zona in cui ti trovi. Saranno indicati anche i MOB e i PG
+presenti. Solo Cyrinic, Peloi e Genidian possono apprendere questa skill.
+
+Vedi anche: SCAN
+#
+SCAPPA
+
+Uso: SCAPPA
+
+Se stai combattendo e le cose si mettono decisamente male, puoi provare a 
+digitare questo comando per tentare la fuga.
+Se la fuga riesce, ti troverai spostato in una delle possibili direzioni 
+(scelta in modo casuale).
+
+Vedi anche: FLEE, VIGLIACCO, WIMPY
+#
+SCARICA
+
+Uso: scarica <oggetto> <cavalcatura>
+
+Con questo comando puoi scaricare oggetti precedentemente affidati
+alla tua cavalcatura.
+
+Esempio:
+
+> scarica tronco cav
+Scarichi un tronco di betulla da Un possente e robusto cavallo Marrone.
+
+Vedi anche: DAI, GIVE
+#
+SCASSINA
+
+Uso: scassina <nome porta>
+
+Questo comando serve a scassinare serrature chiuse a chiave. Solo gli alcioni
+possono usare questo comando dopo averne appreso i rudimenti dal Maestro della
+loro Gilda.
+
+Esempio:
+
+>scassina porta
+La serratura non resiste alla tua maestria.
+
+Vedi anche: PICK
+#
+SCOMMETTI
+
+Uso: SCOMMETTI <Nome Gladiatore> <somma che si vuole scommettere>
+
+Permette di scommettere su uno dei combattenti nell'arena.
+
+Vedi anche: ACHI, ARENA, ARINFO, AHALL, AWHO, BET
+#
+SCOPRITI
+
+Uso: scopriti
+
+Questo comando serve a far cessare l'effetto dell'incantesimo 'disguise'.
+Per poterlo usare occorre aver prima appreso i rudimenti dell'incantesimo
+dai Maestri della Gilda. Solo Alcioni e Pandion possono usare questo
+incantesimo.
+#
+SCORE
+
+Uso: SCORE
+
+Questo comando fornisce utili informazioni sul tuo personaggio, come
+il nome, il sesso, l'altezza, il peso, l'eta', la citta' natale, l'ordine,
+il livello, i punti ferita, i punti mana, i punti movimento, la classe
+armatura, il peso trasportato e trasportabile, gli oggetti trasportati e
+trasportabili, l'oro posseduto, da quanto tempo giochi ed il tuo stato
+attuale, il numero di nemici uccisi, il numero di morti complessive e nel
+livello, gli incantesimi attivi.
+
+Vedi anche: ATTRIBUTES, ATTRIBUTI, PROFILO
+#
+SCRIVI
+
+Uso: SCRIVI <oggetto>
+     SCRIVI <destinatario>
+
+Se vuoi mandare una lettera di gioco a qualcuno devi utilizzare questo
+comando in uno degli uffici postali della Daresia. Una volta digitato
+il comando ti comparira' un messaggio simile a questo (varia solo
+il nome del postino):
+
+Gioel il postino di Elenia ti dice, 'Sono 150 monete per il francobollo.'
+Gioel il postino di Elenia ti dice, 'Scrivi pure la tua lettera, (/s salva /h per l'help)'
+
+]
+
+A questo punto puoi tranquillamente scrivere il tuo messaggio. Al termine
+per inviarlo sara' sufficiente digitare /s e spingere invio.
+Se vuoi curare l'impaginazione del testo prova ad utilizzare il comando /f
+subito prima di /s.
+
+Il comando SCRIVI puo' anche essere utilizzato per lasciare messaggi nelle
+bacheche o per scrivere su papiri.
+
+Vedi anche: CHECK, CONTROLLA, MAIL, RECEIVE, RICEVI, WRITE
+#
+SCRIVIMAGIA
+
+Uso: scrivimagia 'nome incantesimo' <pergamena>
+
+Questo comando ti consente di copiare degli incantesimi sulle pergamene.
+Il nome dell'incantesimo da copiare deve essere racchiuso tra ''
+
+Esempio:
+
+> scrivimagia 'heal' pergam
+Grazie alle tue arti magiche riesci a scrivere l'incantesimo heal sulla pergamena.
+
+Vedi anche: INCANTA, RECITA, RECITE, WRITEMAGIC
+#
+SCROLLA
+
+Uso: scrolla
+
+Se qualche buontempone ti ha preso per un cavallo, puoi utilizzare questo
+comando per farlo scendere.
+#
+SCUOIA
+
+Uso: scuoia cadavere
+
+Questo comando viene utilizzato dai cacciatori una volta catturata la preda.
+Da una singola carcassa di animale si possono ricavare piu' pezzi di carne,
+pelli, pellicce e stoffe grezze. Per riuscire a scuoiare una carcassa occorre
+aver impugnato un pugnale da caccia.
+
+Vedi anche: CACCIA, LAVORA
+#
+SEARCH
+
+Uso: search
+
+Questo comando serve per cercare porte o passaggi segreti. Se ritieni
+che nel luogo in cui ti trovi esista un'uscita nascosta, ti bastera'
+digitare piu' volte questo comando per cercarla. Se esiste una porta 
+segreta la troverai di certo.
+
+Esempio:
+
+> search
+Inizi a cercare...
+
+Hai trovato una porta segreta basso.
+
+Vedi anche: CERCA
+#
+SEGUI
+
+Uso: segui <nome PG>
+
+Devi usare questo comando quando vuoi seguire qualcuno per formare un gruppo 
+con lui. La persona che segui diverra' il capo del gruppo. Per smettere di 
+seguirlo sara' sufficiente seguire te stesso.
+
+Vedi anche: DIVIDI, FOLLOW, GROUP, GRUPPO, RAPPORTO, REPORT, SGRUPPA, SPLIT,
+UNGROUP
+#
+SELL
+
+Uso: SELL <oggetto> 
+     SELL <quantita'> <oggetto>
+     SELL <numero d'ordine>.<oggetto>
+
+Questo comando ti consente di vendere un oggetto ad un negoziante.
+Prima di tutto dovrai trovare il negozio in cui si trattano gli oggetti
+che hai intenzione di vendere.
+Poi potrai digitare il comando per provare a vendere l'oggetto che dovrai
+avere nell'inventario (non indossato).
+
+Esempi:
+
+> sell spada    vende la prima spada in inventario
+> sell 3 spada  vende le prime tre spade in inventario
+> sell 3.spada  vende la terza spada in inventario
+
+Vedi anche: BUY, COMPRA, LIST, LISTA, PRODOTTI, VALORE, VALUE, VENDI
+#
+SEND
+
+Uso: SEND <destinatario> <messaggio>
+
+Questo comando e' molto simile al tell o al dici. Ti consente infatti
+di mandare un messaggio riservato ad una persona che non si trova nella
+tua stessa locazione.
+
+Esempio:
+
+> manda Talos Vi inviero' al piu' presto quanto chiedete!
+Mandi il messaggio a Talos, 'Vi inviero' al piu' presto quanto chiedete.'
+
+Vedi anche: DICI, MANDA, NODICI, NOTELL, TELL
+#
+SFONDA
+
+Uso: sfonda <porta>
+
+Questo comando e' utilizzabile dai genidian che abbiano precedentemente
+appreso questa tecnica dai loro Maestri nella Gilda. Consente di sfondare
+porte chiuse.
+#
+SGANCIA
+
+Uso: sgancia carretto
+
+Per sganciare il carretto dall'animale che lo sta trainando
+sara' necessario usare il comando SGANCIA carretto, perche' questo
+comando sia recepito dall'animale si dovra' pero' essere a cavallo.
+
+Vedi anche: AGGANCIA, EQUIPAGGIAMENTO, EQUIPMENT, HANG, REMOVE, RIMUOVI
+#
+SGRUPPA
+
+Uso: SGRUPPA
+     SGRUPPA <membro del gruppo>
+
+Serve per sciogliere un gruppo o per espellere un solo membro da esso.
+Puo' essere usato soltanto dal capo gruppo.
+
+Vedi anche: DIVIDI, FOLLOW, GROUP, GRUPPO, SEGUI, SPLIT, UNGROUP
+#
+SHEDIT
+
+Uso: SHEDIT
+
+Questo comando serve ad accedere al menu' di gestione del vostro negozio.
+Nel menu' troverete le seguenti scelte:
+
+1- open 1               orario di apertura del primo turno
+2- close 1              orario di chiusura del primo turno
+3- open 2               orario di apertura del secondo turno
+4- close 2              orario di chiusura del secondo turno
+E- not trade with       non fare affari con...
+F- shop flags           alcune funzioni particolari
+P- product menu'        menu' per scegliere i prodotti da vendere
+T- accept type menu'    menu' per scegliere i prodotti da acquistare
+Q- quit                 esce dal menu'
+
+Per salvare le modifiche occorre infine utilizzare il comando SHSAVE.
+
+Vedi anche:  BONIFICO, GUADAGNA, INCASSA, NEGOZI, SALDO, SHSAVE
+#
+SHOOT
+
+Uso: shoot <nome bersaglio> <direzione>
+
+Con questo comando e' possibile scagliare frecce o altri proiettili. Per
+riuscire occorre aver impugnato un arco ed afferrata una freccia.
+
+Esempio:
+
+> shoot pedone e
+Prendi la mira e tiri!
+You hit!
+
+Vedi anche: GETTA, LANCIA, THROW
+#
+SHOUT
+
+Uso: shout <messaggio>
+
+Con questo comando puoi inviare un messaggio che sara' udito da tutti
+quelli attualmente nella tua zona (a meno che essi non abbiano 
+disattivato il canale con noshout).
+
+Vedi anche: GRIDA, HOLLER, NOSHOUT, NOURLA, URLA
+#
+SHSAVE
+
+Uso: SHSAVE
+
+Salva la configurazione attuale del negozio per prevenire danni
+dovuti ad eventuali crash! Deve essere utilizzato sempre dopo
+aver apportato modifiche con il comando SHEDIT.
+
+Vedi anche: BONIFICO, GUADAGNA, INCASSA, NEGOZI, SALDO, SHEDIT
+#
+SIEDITI
+
+Uso: siediti
+
+Questo comando ti consente di sedere e riposare. Da seduti il recupero
+dei punti HP, MANA e MOV e' piu' veloce.
+
+Vedi anche: ALZATI, REST, RIPOSA, SIT, STAND, SVEGLIA, WAKE
+#
+SIP
+
+Uso: SIP <bevanda>
+
+Questo comando ti consente di sorseggiare una bevanda.
+
+Esempio:
+
+> sip fontana          
+Sorseggi l'acqua dalla fontana
+
+Vedi anche: ASSAGGIA, BEVI, DRINK, EAT, MANGIA, SORSEGGIA, TASTE
+#
+SIT
+
+Uso: sit
+
+Questo comando ti consente di sedere e riposare. Da seduti il recupero
+dei punti HP, MANA e MOV e' piu' veloce.
+
+Vedi anche: ALZATI, REST, RIPOSA, SIEDITI, STAND, SVEGLIA, WAKE
+#
+SLEEP
+
+Uso: sleep
+
+Il comando SLEEP serve quando vuoi riposare. Digitandolo il tuo PG
+si mettera' a dormire e, in tal modo, recuperera' HP, MANA e MOV 
+piu' velocemente. 
+Dormendo non potrai digitare molti comandi. Per svegliarti dovrai
+digitare il comando SVEGLIA O WAKE.
+
+Vedi anche: ALZATI, DORMI, STAND, SVEGLIA, WAKE
+#
+SLEGATI
+
+Uso: slegati
+
+Se sei stato catturato ed ammanettato puoi provare ad utilizzare
+questo comando per provare a liberarti.
+#
+SMONTA
+
+Uso: smonta
+
+Se vuoi scendere da cavallo devi utilizzare questo comando.
+
+Vedi anche: AMMAESTRA, DOMA, LIBERADRAGO, MONTA
+#
+SNEAK
+
+Uso: SNEAK
+
+Questo comando ti consente, se utilizzato con successo, di muoverti 
+silenziosamente per un po'. Solo Peloi ed Alcioni possono utilizzare
+questa skill dopo averne appreso i rudimenti dal Maestro della loro
+Gilda.
+Se abbandoni una locazione in cui sono altri PG, questi non si
+accorgeranno del tuo allontanamento a meno che non abbiano attivo
+su di loro un incatesimo di 'detect sneak'.
+
+Vedi anche: FURTIVO
+#
+SOCCORRI
+
+Uso: soccorri <nome PG>
+
+Se un vostro amico sta' per avere la peggio in uno scontro, potete 
+provare a salvarlo utilizzando questo comando; in caso di successo
+l'avversario comincera' a combattere contro di voi, ignorando il
+vostro amico.
+Solo Alcioni, Peloi e Genidian possono utilizzare questo comando,
+dopo averne appreso i rudimenti dal Maestro della Gilda.
+
+Vedi anche: RESCUE
+#
+SOCIALS
+
+Uso: socials
+
+Utilizzando il comando SOCIALS si ottiene una lista di tutti i comandi
+sociali disponibili.
+I comandi sociali sono quelli utilizzati per esternare il proprio stato
+d'animo agli altri giocatori.
+
+Vedi anche: :, EMOTE, EMOZIONE
+#
+SOFFIA
+
+Uso: soffia <bersaglio>
+
+Se ti trovi in groppa ad un drago e hai intenzione di farlo soffiare
+contro un bersaglio, devi utilizzare questo comando.
+
+Vedi anche: LIBERADRAGO, RICHIAMADRAGO, VOLA
+#
+SORSEGGIA
+
+Uso: SORSEGGIA <bevanda>
+
+Questo comando ti consente di sorseggiare una bevanda.
+
+Esempio:
+
+> sorseggia fontana          
+Sorseggi l'acqua dalla fontana
+
+Vedi anche: ASSAGGIA, BEVI, DRINK, EAT, MANGIA, SIP, TASTE
+#
+SOUTH
+
+Uso: south
+
+Digitando south o semplicemente la lettera S, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a sud rispetto a quella in
+cui ti trovi.
+
+Vedi anche: SUD
+#
+SPIA
+
+Uso: spia <direzione>
+
+Questa abilita' ti consente di osservare una locazione vicina, ottenendo
+tutte le informazioni che potresti avere andandoci (decrizione, MOB e
+oggetti presenti).
+Solo gli Alcioni possono utilizzare questa abilita' dopo averne appreso
+i rudimenti dai precettori della loro Gilda.
+
+Vedi anche: SPY
+#
+SPLIT
+
+Uso: SPLIT <numero monete>
+
+Split viene usato per dividere una somma di denaro tra tutti i componenti
+del tuo gruppo presenti nella stanza con te.
+Se dividi 100 coins fra te ed i quattro componenti del tuo gruppo ad ognuno 
+andranno 20 coins.
+
+Vedi anche: DIVIDI, FOLLOW, GROUP, GRUPPO, SEGUI, SGRUPPA, UNGROUP
+#
+SPOT
+
+Uso: SPOT
+
+Questa skill consente ai peloi di esplorare la wilderness circostante per
+avvistare ed identificare altri esseri che si trovino nelle vicinanze.
+E' utilizzabile solo nella wilderness.
+
+Esempio:
+
+> spot
+Cerchi di avvistare qualcuno vicino a te.
+Vicino verso Nord-Ovest vedi Un grosso cinghiale.
+Molto vicino verso Nord-Ovest vedi Una volpe marrone.
+Vicino verso Est vedi Un cucciolo di cinghiale.
+Molto vicino verso Sud-Est vedi Un orso grigio.
+Vicino verso Sud vedi un cavallo selvaggio.
+
+Vedi anche: INDIVIDUA
+#
+SPY
+
+Uso: spy <direzione>
+
+Questa abilita' ti consente di osservare una locazione vicina, ottenendo
+tutte le informazioni che potresti avere andandoci (decrizione, MOB e
+oggetti presenti).
+Solo gli Alcioni possono utilizzare questa abilita' dopo averne appreso
+i rudimenti dai precettori della loro Gilda.
+
+Vedi anche: SPIA
+#
+STAND
+
+Uso: STAND
+
+Se ti trovi a terra, perche' ti sei seduto o hai appena finito di dormire o, 
+peggio, sei stato scaraventato a terra durante il combattimento, questo 
+comando ti consente di tornare nuovamente in piedi.
+
+Vedi anche: ALZATI, DORMI, REST, RIPOSA, SIEDITI, SIT, SLEEP, SVEGLIA, WAKE
+#
+STEAL
+
+Uso: STEAL <oggetto> <vittima>
+
+Da usarsi per rubare monete oppure oggetti da mob e persone. Solo gli
+Alcioni hanno la possibilita' di apprendere questa skill.
+La probabilita' di non essere scoperti dipende da quanto bene si conosce
+questa skill e dal fatto che la vittima sia sveglia oppure no.
+Se si ruba ad un altro giocatore, la tua fedina verra' automaticamente
+aggiornata e sarai ricercato per furto.
+
+Esempi:
+
+> steal coin ubriaco
+> steal spada mercenario
+Se la spada e' impugnata, puoi riuscire a rubarla soltanto se la vittima dorme.
+
+Vedi anche: RUBA
+#
+STOPFIGHT
+
+Uso: stopfight
+
+Se vuoi smettere di combattere puoi utilizzare questo comando. Attento pero',
+se il tuo avversario non e' tramortito o ancora in grado di colpirti,
+continuera' a farlo.
+
+Vedi anche: ARRESTA
+#
+STOW
+
+Uso: stow <nome MOB o PG>
+
+Con questo comando potrai caricarti sulle spalle MOB o PG addormentati o,
+comunque, tramortiti.
+
+Esempio:
+
+> stow gatto
+Ti carichi Un gatto sulle spalle
+
+Vedi anche: UNSTOW
+#
+SUD
+
+Uso: sud
+
+Digitando sud o semplicemente la lettera S, ti sposterai, se possibile,
+nella locazione che si trova immediatamente a sud rispetto a quella in 
+cui ti trovi.
+
+Vedi anche: SOUTH
+#
+SUSSURRA
+
+Uso: sussurra <nome PG o MOB> <messaggio>
+
+Con questo comando potrai sussurrare qualcosa all'orecchio di qualche
+altro personaggio. Il personaggio deve pero' trovarsi nella tua stessa
+locazione. Solo lui udra' il messaggio.
+
+Esempio:
+
+> sussurra Sophya Salve, o Dea!
+Sussurri a  Sophya, 'Salve, o Dea!'
+
+Vedi anche: ', ASK, CHIEDI, DICI, PARLA, SAY, TELL, WHISPER
+#
+SVEGLIA
+
+Uso: sveglia
+
+Se stai dormendo e vuoi svegliarti devi usare questo comando che ti fara'
+svegliare e sedere. Se il sonno e' di natura magica questo comando non
+funzionera'.
+
+Vedi anche: ALZATI, REST, RIPOSA, SIEDITI, SIT, STAND, WAKE
+#
+SVUOTA
+
+Uso: SVUOTA <nome contenitore> out | fuori | in <altro contenitore>
+
+Con questo comando puoi svuotare un contenitore di liquidi del suo contenuto.
+Puoi decidere di versare a terra il liquido o in un altro contenitore.
+
+Esempi:
+
+> svuota borraccia out
+Svuoti una borraccia.
+> svuota borraccia fuori
+Svuoti una borraccia.
+> svuota borraccia in barile
+Svuoti acqua fresca in barile.
+
+Vedi anche: FILL, POUR, RIEMPI
+#
+TAKE
+
+Uso: take <nome oggetto>
+     take all
+     take all <oggetto contenitore>
+     take all all.<oggetto contenitore>
+     take all.<oggetto> all.<oggetto contenitore>
+
+Se trovi qualcosa di interessante puoi utilizzare questo comandi per
+prenderlo e metterlo in inventario. Con questo comando e' anche
+possibile prelevare oggetti da contenitori o cadaveri.
+
+Esempi:
+
+> take guanti cadavere
+Prendi i guanti del coraggio da il cadavere di Sir Lancillotto del Lago.
+
+> take all cadavere
+Prendi un po' di monete d'oro da il cadavere di Sir Lancillotto del Lago.
+Prendi i guanti del coraggio da il cadavere di Sir Lancillotto del Lago.
+
+> take all all.sac
+Prendi una scopa da un sacco di iuta.
+Un sacco di iuta sembra essere vuoto.
+
+> take all.pozione all.sac
+Prendi una pozione da un sacco di iuta.
+Prendi una pozione da un sacco di iuta.
+Non sembra esserci una pozione dentro un sacco di iuta.
+
+Vedi anche: GET, METTI, PRENDI, PUT
+#
+TASTE
+
+Uso: TASTE <nome cibo>
+
+Con questo comando dai un morso ad un cibo. A seconda della grandezza del 
+cibo, questo si consumera' con un certo numero di morsi.
+
+Esempio:
+
+> TASTE pane
+Dai un morso a un pezzo di pane.
+
+Vedi anche: ASSAGGIA, BEVI, DRINK, EAT, MANGIA, SIP, SORSEGGIA
+#
+TELL
+
+Uso: Tell <Nome MOB o PG> <messaggio>
+
+Questo comando si utilizza per parlare ad una persona specifica che non si 
+trovi nella tua stessa stanza o a cui vuoi dire qualcosa di riservato.
+
+Esempio:
+
+> tell Mcleod Ti ho visto entrare di soppiatto nella casa di Talos! Quanto mi 
+dai se tengo la bocca chiusa?
+Dici a Mcleod, 'Ti ho visto entrare di soppiatto nella casa di Talos! Quanto 
+mi dai se tengo la bocca chiusa?'
+
+Vedi anche: DICI, MANDA, NOTELL, NODICI, SEND
+#
+TEMPO
+
+Uso: TEMPO
+
+Se vi interessa sapere che tempo fa', basta usare questo comando quando
+si e' all'aperto.
+
+Vedi anche: WEATHER
+#
+THROW
+
+Uso: throw <nome bersaglio> <direzione>
+
+Con questo comando e' possibile scagliare armi da lancio. Per
+riuscire occorre aver impugnato un'arma da lancio.
+
+Esempio:
+
+> throw pedone e
+Prendi la mira e tiri!
+You hit!
+
+Vedi anche: GETTA, LANCIA, SHOOT
+#
+TIENI
+
+Uso: TIENI <nome oggetto>
+
+Ti permette di afferrare un oggetto presente nel tuo inventario, purche' 
+questo sia afferrabile. Una volta afferrato, l'oggetto comparira' nel tuo 
+EQuipaggiamento come oggetto [Tenuto].
+
+Esempio:
+
+> Tieni picca
+
+Vedi anche: AFFERRA, EQUIPAGGIAMENTO, EQUIPMENT, GRAB, HOLD
+#
+TIME
+
+Uso: time
+
+Questo comando ti fornisce l'ora attuale di Dalila. Su questo orario si
+basa l'alternarsi del giorno alla notte, l'apertura dei negozi ecc.
+
+Esempio:
+
+> time
+Sono le 6 pm del giorno del Toro.
+E' il giorno 8 del Mese delle Ombre, Anno 1000.
+
+Vedi anche: ORA
+#
+TIRA
+
+Uso: TIRA
+
+Questo comando va utilizzando con le slot machine.
+
+Vedi anche: PULL
+#
+TITLE
+
+Uso: TITLE <Testo>
+
+Ti permette di settare il titolo del tuo personaggio. Questo comparira'
+subito dopo il tuo nome e sara' visibile agli altri giocatori.
+Non sono ammessi i caratteri parentesi tonde, perche' riservati.
+Non abusate di questo comando per mettere titoli ridicoli o fuori tema.
+
+Vedi anche: CHI, TITOLO, WHO
+#
+TITOLO
+
+Uso: TITOLO <Testo>
+
+Ti permette di settare il titolo del tuo personaggio. Questo comparira'
+subito dopo il tuo nome e sara' visibile agli altri giocatori.
+Non sono ammessi i caratteri parentesi tonde, perche' riservati.
+Non abusate di questo comando per mettere titoli ridicoli o fuori tema.
+
+Vedi anche: CHI, TITLE, WHO
+#
+TOGGLE
+
+Uso: TOGGLE
+
+Visualizza l'attuale settaggio di alcune variabili riguardanti il tuo
+personaggio.
+Le variabili mostrate sono: livello di visualizzazione di HP, MANA,
+MOV, AUTOEXIT, canali di comunicazione attivi, protezione dal summon,
+livello di wimpy, livello di visualizzazione di colore.
+Questo comando NON serve per modificare queste variabili.
+
+Vedi anche: DISPLAY, MOSTRA, NOEVOCA, NOSUMMON, PROMPT
+#
+TORNA
+#
+TRACK
+
+Uso: TRACK <nome MOB o PG da trovare>
+
+Questo comando puo' esserti utile se vuoi seguire le tracce di una data
+persona o MOB. Per poterlo utilizzare devi pero' averne appreso almeno
+i rudimenti dal tuo maestro nella Gilda. Solo alcioni, genidian e peloi
+possono avere accesso a questo comando.
+
+Esempio:
+ 
+> track cavaliere
+Vedi delle tracce che portano a south di qui!
+
+Vedi anche: PEDINA
+#
+TRADE
+
+Uso: TRADE <numero di pietre da commerciare> <tipo di pietra da commerciare>
+
+Per utilizzare questo comando bisogna recarsi nell'ufficio esportazione
+del proprio Regno con pietre pulite o preziose di zaffiro, rubino, smeraldo,
+topazio o diamante.
+Se il tuo sovrano o i funzionari competenti ti hanno concesso il privilegio
+di usare la zecca e l'ufficio esportazioni, potrai consegnare le pietre
+pulite e/o preziose all'addetto dell'ufficio. Una volta consegnati i preziosi
+potrai digitare TRADE seguito dal numero e dal tipo di pietre che vuoi vendere
+all'estero e l'addetto versera' nel tesoro del tuo regno il ricavato.
+
+Vedi anche: CONIA
+#
+TRANGUGIA
+
+Uso: TRANGUGIA <pozione>
+
+Trangugia e' il comando da usare per bere le pozioni.
+
+Vedi anche: POZIONI, QUAFF
+#
+TRAPPOLA
+
+Uso: Trappola danno <livello>
+     Trappola allarme
+     Trappola rimuovi
+
+Questi comandi servono a piazzare o rimuovere trappole di vario tipo. Solo
+chi ha appreso l'abilita' nel santuario di Trappola, può utilizzare questo
+comando.
+Se vuoi costruire una trappola che danneggi chi la fa scattare, devi procurarti
+una trappola, afferrarla ed usare il comando: trappola danno <livello>
+dove il livello e' il livello di abilita' (non puoi costruire trappole che
+abbiano un livello di danneggiamento superiore alla tua conoscenza dell'abilita').
+Maggiore e' il livello settato, maggiore sara' il danno inferto dalla trappola.
+
+Se vuoi costruire una trappola d'allarme, devi usare il comando: trappola allarme
+(funziona solo in house).
+
+Se vuoi rimuovere una trappola sara' sufficiente usare il comando: trappola rimuovi.
+
+Vedi anche: ABILITA
+#
+TYPO
+
+Uso: TYPO <messaggio>
+
+Questo comando serve a segnalare errori nel testo.
+
+Esempio:
+
+> typo avete scritto fuontana invece di fontana nella piazza principale
+
+Vedi anche: BACO, BUG, ERRORE, GPRAY, IDEA, PREGHIERA
+#
+UCCIDI
+
+Uso: UCCIDI <nome MOB o PG>
+
+Se vuoi ingaggiare battaglia con un MOB o un PG devi digitare questo comando 
+seguito dal nome del MOB o PG. Attenzione pero', se non ti trovi in arena 
+l'attacco a qualsiasi PG, la cui fedina penale sia pulita, ti fara' 
+automaticamente iscrivere nella lista dei ricercati del Regno cui appartiene 
+il PG che hai colpito. Anche l'assalto di alcuni MOB (i cosi' detto "civili") 
+all'interno delle citta', puo' macchiare la tua fedina.
+
+Vedi anche: ASSASSINA, COLPISCI, HIT, KILL, MURDER
+#
+UNGROUP
+
+Uso: UNGROUP
+     UNGROUP <membro del gruppo>
+
+Serve per sciogliere un gruppo o per espellere un solo membro da esso.
+Puo' essere usato soltanto dal capo gruppo.
+
+
+Vedi anche: DIVIDI, FOLLOW, GROUP, GRUPPO, SEGUI, SGRUPPA, SPLIT
+#
+UNLOCK
+
+Uso: unlock <porta> <direzione>
+
+Con questo comando puoi aprire porte chiuse a chiave, naturalmente devi
+avere la chiave giusta in inventario per poterlo fare.
+
+Esempio:
+
+> Unlock porta n
+*Click*
+
+Vedi anche: APRI, BLOCCA, CHIUDI, CLOSE, LOCK, SBLOCCA
+#
+UNSTOW
+
+Uso: unstow
+
+Se hai qualcuno in spalla devi utilizzare questo comando per depositarlo
+"gentilmente" a terra.
+
+Vedi anche: STOW
+#
+UP
+
+Uso: UP
+
+Se possibile, ti consente di salire dalla locazione in cui ti trovi a quella 
+che si trova sopra di essa. Puoi utilizzare anche solo la lettera U.
+
+Vedi anche: ALTO
+#
+URLA
+
+Uso: urla <messaggio>
+
+Con questo comando puoi inviare un messaggio che sara' udito da tutti
+quelli attualmente nella tua zona (a meno che essi non abbiano disattivato
+il canale con nourla o noshout).
+
+Vedi anche: GRIDA, HOLLER, NOSHOUT, NOURLA, SHOUT
+#
+URTA
+
+Uso: URTA <Nome vittima>
+
+Con questo comando puoi riuscire a scaraventare a terra il tuo
+avversario. Solo i Genidian possono utilizzare questo comando, dopo
+aver appreso la relativa skill dal Maestro della propria Gilda.
+Il successo di URTA dipende dal grado di conoscenza della skill.
+Se URTA ha successo la vittima subisce un danno lieve, ma casca
+in terra. La vittima restera' a terra, salvo casi eccezionali, per
+2 round di combattimento. Da tale posizione svantaggiata non potra'
+lanciare incantesimi e subira' danni maggiorati (1,5 volte il danno
+normale).
+Se URTA fallisce in terra ci finisci te. Anche in caso di successo 
+chi effettua il bash non potra' fare altre azioni per 2 round di 
+combattimento, e' quindi consigliabile utilizzare questa tecnica 
+quando si e' in gruppo.
+
+Vedi anche: BASH, CARICA
+#
+USA
+
+Uso: USA <Bastone>
+     USA <bacchetta o verga> <bersaglio>
+
+Questo comando ti consente di usare oggetti incantati su bersagli
+(bacchette o verghe) o ad area (bastoni).
+Per potere utilizzare gli oggetti devi pero' averli precedentemente
+impugnati.
+
+Vedi anche: AFFERRA, GRAB, HOLD, TIENI, USE
+#
+USCITA
+
+Uso: USCITA
+
+Ti da' la lista di tutte le uscite disponibili (e visibili) dalla corrente 
+locazione.
+Ovviamente le uscite nascoste o non immediatamente individuabili non
+vengono riportate; dovrai usare la testa per trovarle.
+
+Vedi anche: AUTODIR, AUTOEXIT, EXITS
+#
+USE
+
+Uso: USE <Bastone>
+     USE <bacchetta o verga> <bersaglio>
+
+Questo comando ti consente di usare oggetti incantati su bersagli (bacchette
+o verghe) o ad area (bastoni).
+Per potere utilizzare gli oggetti devi pero' averli precedentemente impugnati.
+
+Vedi anche: AFFERRA, GRAB, HOLD, TIENI, USA
+#
+VALORE
+
+Uso: VALORE <oggetto>
+
+Prima di vendere un oggetto in un negozio e' possibile chiedere al negoziante di
+valutarlo.
+
+Vedi anche: BUY, COMPRA, LIST, LISTA, PRODOTTI, SELL, VALUE, VENDI
+#
+VALUE
+
+Uso: VALUE <oggetto>
+
+Prima di vendere un oggetto in un negozio e' possibile chiedere al negoziante di
+valutarlo.
+
+Vedi anche: BUY, COMPRA, LIST, LISTA, PRODOTTI, SELL, VALORE, VENDI
+#
+VENDI
+
+Uso: VENDI <oggetto> 
+     VENDI <quantita'> <oggetto>
+     VENDI <numero d'ordine>.<oggetto>
+
+Questo comando ti consente di vendere un oggetto ad un negoziante.
+Prima di tutto dovrai trovare il negozio in cui si trattano gli oggetti
+che hai intenzione di vendere.
+Poi potrai digitare il comando per provare a vendere l'oggetto che dovrai
+avere nell'inventario (non indossato).
+
+Esempi:
+
+> vendi spada    vende la prima spada in inventario
+> vendi 3 spada  vende le prime tre spade in inventario
+> vendi 3.spada  vende la terza spada in inventario
+
+Vedi anche: BUY, COMPRA, LIST, LISTA, SELL, VALUE, VALORE, VENDI
+#
+VENDICASA
+
+Uso: VENDICASA <nome acquirente> <somma>
+
+Con questo comando puoi vendere la tua casa ad un altro personaggio.
+Perche' l'operazione riesca, l'acquirente deve essersi procurato un
+contratto di vendita e averlo afferrato.
+
+Esempio:
+
+> vendicasa Elleron 50000
+Vendi l'edificio a Elleron per 50000 coins
+
+Vedi anche: CASA, HOUSE
+#
+VERSION
+
+Uso: version
+
+Visualizza la corrente versione di CircleMUD.
+
+Vedi anche: CREDITI, CREDITS, VERSIONE
+#
+VERSIONE
+
+Uso: versione
+
+Visualizza la corrente versione di CircleMUD.
+
+Vedi anche: CREDITI, CREDITS, VERSION
+#
+VIGLIACCO
+
+Uso: VIGLIACCO <numero HP>
+
+Usando questo comando e' possibile attivare il flee automatico quando
+i punti ferita (hp) scendono sotto un certo livello.
+
+Esempi:
+
+> vigliacco 35      da' il flee automatico se si scende sotto i 35 hp
+> vigliacco 0       disattiva il flee automatico
+> vigliacco         visualizza l'attuale configurazione
+
+Vedi anche: FLEE, SCAPPA, WIMPY
+#
+VISIBILE
+
+Uso: VISIBILE
+
+Utilizzare il comando VISIBILE per interrompere lo spell di invisibilita'
+prima della sua fine naturale.
+
+Vedi anche: VISIBLE
+#
+VISIBLE
+
+Uso: VISIBLE
+
+Utilizzare il comando VISIBLE per interrompere lo spell di invisibilita'
+prima della sua fine naturale.
+
+Vedi anche: VISIBILE
+#
+VOLA
+
+Uso: VOLA
+
+Puoi utilizzare questo comando solo se stai cavalcando un drago. In tal
+caso il drago si alzera' in volo.
+
+Vedi anche: DOMA, LIBERADRAGO, MONTA, RICHIAMADRAGO, SMONTA, SOFFIA
+#
+WAKE
+
+Uso: wake
+
+Se stai dormendo e vuoi svegliarti devi usare questo comando che ti fara'
+svegliare e sedere. Se il sonno e' di natura magica questo comando non
+funzionera'.
+
+Vedi anche: ALZATI, REST, RIPOSA, SIEDITI, SIT, STAND, SVEGLIA
+#
+WEAR
+
+Uso: WEAR  <nome oggetto>
+
+Questo comando serve per indossare qualcosa (armature, vestiti, scudi,
+borse o altro).
+Si puo' usare anche il comando WEAR ALL per tentare di indossare tutto
+cio' che si ha in inventario.
+
+Esempi:
+
+> wear stivali
+> wear all.anello
+> wear all
+
+Vedi anche: EQUIPAGGIAMENTO, EQUIPMENT, IMPUGNA, INDOSSA, REMOVE, RIMUOVI, WIELD
+#
+WEATHER
+
+Uso: WEATHER
+
+Se vi interessa sapere che tempo fa', basta usare questo comando quando
+si e' all'aperto.
+
+Vedi anche: TEMPO
+#
+WEST
+
+Uso: west
+
+Digitando west o semplicemente la lettera W, ti sposterai, se possibile, nella 
+locazione che si trova immediatamente a sinistra rispetto a quella in cui sei 
+attualmente.
+
+Vedi anche: OVEST
+#
+WHERE
+
+Uso: WHERE
+oppure
+     WHERE <nome PG o MOB>
+
+Questo comando ha due possibili utilizzazioni. Digitato senza specificare 
+nessun nome o giocatore, ti dara' una lista di tutti i giocatori che si 
+trovano nella tua stessa area di gioco (Area XP, Wilderness o Miniwild).
+Se invece viene digitato specificando il nome del MOB o del PG che si intende 
+trovare, ti consentira' di vedere se, effettivamente, la persona o il MOB che 
+cerchi sono nella tua stessa zona. In caso vi siano ti fornira' anche 
+indicazioni utili per la loro localizzazione.
+
+Esempi:
+
+> where Alorn
+  1. Alorn                  - Colline di Dornendil
+
+> where drago
+  1. un drago rosso      - La tana del Drago
+
+Vedi anche: DOVE
+#
+WHISPER
+
+Uso: whisper <nome PG o MOB> <messaggio>
+
+Con questo comando potrai sussurrare qualcosa all'orecchio di qualche altro
+personaggio. Il personaggio deve pero' trovarsi nella tua stessa locazione.
+Solo lui udra' il messaggio.
+
+Esempio:
+
+> whisper Sophya Salve, o Dea!
+Sussurri a  Sophya, 'Salve, o Dea!'
+
+Vedi anche: ', ASK, CHIEDI, DICI, PARLA, SAY, SUSSURRA, TELL
+#
+WHO
+
+Uso: WHO [parametri]
+
+Visualizza la lista delle persone attualmente in gioco. Attenzione: alcuni
+potrebbero essere invisibili!
+Alcuni parametri possono essere utilizzati per limitare la lista dei giocatori.
+
+I parametri accettati sono i seguenti:
+
+livello minimo (solo per Creatori)
+livello minimo-livello massimo (solo per Creatori)
+-n <nome PG> (solo per Creatori)
+-c <nome classe> (solo per Creatori)
+-s (compatta la lista dei presenti, mostrandoli uno di seguito all'altro)
+-o (visualizza i giocatori che hanno attivo il canale OOC)
+-q (visualizza solo i partecipanti alla quest)
+-r (solo per Creatori)
+-k (solo per Creatori)
+-z (solo per Creatori)
+
+Esempi:
+
+> who 35
+Visualizzera' i giocatori dal 35 livello in su'.
+
+> who 35-40
+Visualizzera' i giocatori dal 35 al 40 livello.
+
+> who -n Kora
+Giocatori
+-------
+[Accolita Stregone ] Kora -cerca tanker- [Primo del Regno di Sendaria] 
+(GDR)
+
+> who -c cyrinic
+Giocatori
+-------
+[Veterana Sacerdote ] Kitiara  [Tolnar Iustitiae del Regno di Tolnedra] 
+(quest) (GDR)
+[Adepto Sacerdote ] Sagat  Prelato di Fizban [Popolano del Regno di Tolnedra] 
+(GDR)
+[Apprendista Chierico ] Ciccia  [Suddito del Regno di Sendaria] (GDR)
+
+Vedi anche: CHI
+#
+WHOAMI
+
+Uso: WHOAMI
+
+Sei in crisi d'identita'? hai dimenticato il tuo nome? beh digita questo 
+comando per ritrovarlo.
+
+Vedi anche: AMICI
+#
+WIELD
+
+Uso: WIELD <nome arma>
+
+Quando ti sarai stancato di colpire i mostri a mani nude potrai
+utilizzare questo comando per impugnare un'arma.
+
+Esempi:
+
+> wield spada
+> wield 3.spada       (impugna la terza spada tra quelle che hai in inventario)
+
+Vedi anche: EQUIPAGGIAMENTO, EQUIPMENT, IMPUGNA, INDOSSA, REMOVE, RIMUOVI, WEAR
+#
+WILDX
+
+Uso: WILDX <numero compreso tra 1 e 8>
+
+Con questo comando e' possibile settare il numero di caselle da visualizzare
+in orizzontale. Il numero deve essere compreso tra 1 e 8.
+
+Esempio:
+
+Se volete visualizzare 16 caselle della mappa (8 alla vostra destra e 8 alla vostra
+sinistra), dovrete digitare:
+> wildx 8
+
+Vedi anche: HORIZON, ORIZZONTE, WILDY
+#
+WILDY
+
+Uso: WILDY <numero compreso tra 1 e 6>
+
+Con questo comando e' possibile settare il numero di caselle da visualizzare
+in verticale. Il numero deve essere compreso tra 1 e 6.
+
+Esempio:
+
+Se volete visualizzare 12 caselle della mappa (6 sopra e 6 sotto di voi),
+dovrete digitare:
+> wildx 6
+
+Vedi anche:  HORIZON, ORIZZONTE, WILDX
+#
+WIMPY
+
+Uso: WIMPY <numero HP>
+
+Usando questo comando e' possibile attivare il flee automatico quando
+i punti ferita (hp) scendono sotto un certo livello.
+
+Esempi:
+
+> WIMPY 35      da' il flee automatico se si scende sotto i 35 hp
+> WIMPY 0       disattiva il flee automatico
+> WIMPY         visualizza l'attuale configurazione
+
+Vedi anche: FLEE, SCAPPA, VIGLIACCO
+#
+WIZLIST
+
+Uso: WIZLIST
+
+Questo comando ti fornisce l'elenco degli attuali Creatori e Dei di Dalila.
+
+Vedi anche: IMMLIST
+#
+WRITE
+
+Uso: WRITE <oggetto>
+     WRITE <destinatario>
+
+Se vuoi mandare una lettera di gioco a qualcuno devi utilizzare questo
+comando in uno degli uffici postali della Daresia. Una volta digitato
+il comando ti comparira' un messaggio simile a questo (varia solo
+il nome del postino):
+
+Gioel il postino di Elenia ti dice, 'Sono 150 monete per il francobollo.'
+Gioel il postino di Elenia ti dice, 'Scrivi pure la tua lettera, (/s salva /h per l'help)'
+
+]
+
+A questo punto puoi tranquillamente scrivere il tuo messaggio. Al termine
+per inviarlo sara' sufficiente digitare /s e spingere invio.
+Se vuoi curare l'impaginazione del testo prova ad utilizzare il comando /f
+subito prima di /s.
+
+Il comando WRITE puo' anche essere utilizzato per lasciare messaggi nelle
+bacheche o per scrivere su papiri.
+
+Vedi anche: CHECK, CONTROLLA, MAIL, RECEIVE, RICEVI, SCRIVI
+#
+WRITEMAGIC
+
+Uso: writemagic 'nome incantesimo' <pergamena>
+
+Questo comando ti consente di copiare degli incantesimi sulle pergamene.
+Il nome dell'incantesimo da copiare deve essere racchiuso tra ''
+
+Esempio:
+
+> writemagic 'heal' pergam
+Grazie alle tue arti magiche riesci a scrivere l'incantesimo heal sulla pergamena.
+
+Vedi anche: INCANTA, RECITA, RECITE, SCRIVIMAGIA
+#
+$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

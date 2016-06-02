@@ -416,7 +416,7 @@ void do_clan_create (struct char_data *ch, char *arg)
 	mudlog(buf,NRM,LVL_GOD,TRUE);
 	return;
 }
-
+/*
 void do_clan_destroy (struct char_data *ch, char *arg)
 {
 	
@@ -439,7 +439,7 @@ void do_clan_destroy (struct char_data *ch, char *arg)
 		return;
 	}
 	
-  /*Lance Negozi*/
+  //Lance Negozi
 	for (shop_nr = 0; shop_nr < top_shop; shop_nr++)
 	{
 		if (SHOP_CLAN(shop_nr)==clan[i].id)
@@ -494,7 +494,7 @@ void do_clan_destroy (struct char_data *ch, char *arg)
 	mudlog(buf,NRM,LVL_GOD,TRUE);
 	return;
 }
-
+*/
 void do_clan_enroll (struct char_data *ch, char *arg){
 	struct char_data *vict=NULL;
 	int clan_num,immcom=0;

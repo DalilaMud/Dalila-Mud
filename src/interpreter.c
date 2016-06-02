@@ -21,7 +21,7 @@
 #include "handler.h"
 #include "mail.h"
 #include "screen.h"
-#include "olc.h"
+//#include "olc.h"
 #include "dg_scripts.h"
 
 extern const struct title_type titles[NUM_CLASSES][LVL_IMPL + 1];
@@ -86,7 +86,7 @@ ACMD(do_attributes);
 ACMD(do_autoquest);
 ACMD(do_auction);
 ACMD(do_auctioneer);
-ACMD(do_ashop);
+//ACMD(do_ashop);
 ACMD(do_bid);
 ACMD(do_backstab);
 ACMD(do_ban);
@@ -119,7 +119,7 @@ ACMD(do_drop);
 ACMD(do_eat);
 ACMD(do_echo);
 ACMD(do_enter);
-ACMD(do_elenca);
+//ACMD(do_elenca);
 ACMD(do_equipment);
 ACMD(do_evadi);
 ACMD(do_examine);
@@ -184,9 +184,9 @@ ACMD(do_move);
 ACMD(do_mlist);
 ACMD(do_new_clan);
 ACMD(do_not_here);
-ACMD(do_notifica);
+//ACMD(do_notifica);
 ACMD(do_offer);
-ACMD(do_olc);
+//ACMD(do_olc);
 ACMD(do_order);
 ACMD(do_olist);
 ACMD(do_page);
@@ -234,8 +234,8 @@ ACMD(do_sgancia);
 ACMD(do_shoot);
 ACMD(do_shoplist_pg);
 ACMD(do_show);
-ACMD(do_shsave);
-ACMD(do_shedit);
+//ACMD(do_shsave);
+//ACMD(do_shedit);
 ACMD(do_shutdown);
 ACMD(do_sit);
 ACMD(do_skillset);
@@ -257,7 +257,7 @@ ACMD(do_switch);
 ACMD(do_syslog);
 ACMD(do_takehome);
 ACMD(do_takemob);
-ACMD(do_takeshop);
+//ACMD(do_takeshop);
 ACMD(do_tele);
 ACMD(do_teleport);
 ACMD(do_tedit);
@@ -440,7 +440,7 @@ const struct command_info cmd_info[] = {
 	{ "arruffa"       , POS_STANDING, do_action   , 0, 0 },
 	{ "assegna"         , POS_RESTING , do_not_here , 0, 0 },	
 	{ "assisti"       , POS_FIGHTING, do_assist   , 1, 0 },
-	{ "ashop"         , POS_STANDING, do_ashop    , LVL_BUILDER, 0 },
+//	{ "ashop"         , POS_STANDING, do_ashop    , LVL_BUILDER, 0 },
 	{ "ask"           , POS_RESTING , do_spec_comm, 0, SCMD_ASK },
 	{ "assaggia"      , POS_RESTING , do_eat      , 0, SCMD_TASTE },
 	{ "assassina"     , POS_FIGHTING, do_hit      , 0, SCMD_MURDER },
@@ -594,7 +594,7 @@ const struct command_info cmd_info[] = {
 	{ "eat"           , POS_RESTING , do_eat      , 0, SCMD_EAT },
 	{ "echo"          , POS_SLEEPING, do_echo     , LVL_AVATAR, SCMD_ECHO },
 	{ "eco"           , POS_SLEEPING, do_echo     , LVL_AVATAR, SCMD_ECHO },
-	{ "elenca"        , POS_STANDING, do_elenca   , LVL_QUEST_MASTER  , 0 },
+//	{ "elenca"        , POS_STANDING, do_elenca   , LVL_QUEST_MASTER  , 0 },
 	{ "embrace"       , POS_STANDING, do_action   , 0, 0 },
 	{ "emote"         , POS_RESTING , do_echo     , 1, SCMD_EMOTE },
 	{ "emozione"      , POS_RESTING , do_echo     , 1, SCMD_EMOTE },
@@ -782,7 +782,7 @@ const struct command_info cmd_info[] = {
 	{ "manuale"       , POS_DEAD    , do_gen_ps   , 0, SCMD_HANDBOOK },
 	{ "massage"       , POS_RESTING , do_action   , 0, 0 },
 	{ "massaggia"     , POS_RESTING , do_action   , 0, 0 },
-	{ "medit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_MEDIT},
+//	{ "medit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_MEDIT},
 	{ "mescola"	  , POS_STANDING, do_mescola  , 0, 0 },
 	{ "mestieri"      , POS_RESTING , do_mestieri , 1, 0 },
 	{ "metti"         , POS_RESTING , do_put      , 0, 0 },
@@ -822,7 +822,7 @@ const struct command_info cmd_info[] = {
 	{ "noshout"       , POS_SLEEPING, do_gen_tog  , 1, SCMD_DEAF },
 	{ "nosummon"      , POS_DEAD    , do_gen_tog  , 1, SCMD_NOSUMMON },
 	{ "notell"        , POS_DEAD    , do_gen_tog  , 1, SCMD_NOTELL },
-	{ "notifica"      , POS_STANDING, do_notifica , 1, 0 },
+//	{ "notifica"      , POS_STANDING, do_notifica , 1, 0 },
 	{ "notitle"       , POS_DEAD    , do_wizutil  , LVL_GOD, SCMD_NOTITLE },
 	{ "notitolo"      , POS_DEAD    , do_wizutil  , LVL_GOD, SCMD_NOTITLE },
 	{ "notizie"       , POS_SLEEPING, do_gen_ps   , 0, SCMD_NEWS },
@@ -833,10 +833,10 @@ const struct command_info cmd_info[] = {
 	
   /* lettera O */
 	
-	{ "oedit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_OEDIT},
+//	{ "oedit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_OEDIT},
 	{ "offer"         , POS_STANDING, do_not_here , 1, 0 },
 	{ "offri"         , POS_STANDING, do_not_here , 1, 0 },
-	{ "olc"           , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_SAVEINFO },
+//	{ "olc"           , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_SAVEINFO },
 	{ "olist"         , POS_DEAD    , do_olist    , LVL_QUEST_MASTER, 0},
 	{ "ooc"           , POS_SLEEPING, do_gen_comm , 1, SCMD_OOC },
 	{ "ooc_control"   , POS_DEAD    , do_gen_comm, LVL_QUEST_MASTER, SCMD_CONTROL_OOC},
@@ -930,7 +930,7 @@ const struct command_info cmd_info[] = {
 	
 	
 	{ "recupera"        , POS_STANDING, do_pesca , 1, SCMD_TIRASU },
-	{ "redit"         , POS_DEAD    , do_olc      , LVL_MINIBUILD, SCMD_OLC_REDIT},
+//	{ "redit"         , POS_DEAD    , do_olc      , LVL_MINIBUILD, SCMD_OLC_REDIT},
 	{ "regni"          , POS_SLEEPING, do_gen_ps   , 0, SCMD_REGNI },
 	{ "regno"         , POS_SLEEPING, do_clan     , 1, 0 },
 	{ "reload"        , POS_DEAD    , do_reboot   , LVL_IMPLEMENTOR, 0 },
@@ -1024,7 +1024,7 @@ const struct command_info cmd_info[] = {
 	{ "scuoia"        , POS_STANDING , do_lavora   , 0, 0 },
 	{ "scuoti"        , POS_RESTING , do_action   , 0, 0 },
 	{ "search"        , POS_STANDING, do_search   , 0, 0,},
-	{ "sedit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_SEDIT},
+//	{ "sedit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_SEDIT},
 	{ "segui"         , POS_RESTING , do_follow   , 0, 0 },
 	{ "sell"          , POS_STANDING, do_not_here , 0, 0 },
 	{ "send"          , POS_SLEEPING, do_send     , 0, 0 },
@@ -1039,13 +1039,13 @@ const struct command_info cmd_info[] = {
 	{ "sgrida"        , POS_STANDING, do_action   , 0, 0 },
 	{ "sgruppa"       , POS_DEAD    , do_ungroup  , 0, 0 },
 	{ "shake"         , POS_RESTING , do_action   , 0, 0 },
-	{ "shedit"        , POS_STANDING, do_shedit   , 0, 0 },
+//	{ "shedit"        , POS_STANDING, do_shedit   , 0, 0 },
 	{ "shiver"        , POS_RESTING , do_action   , 0, 0 },
 	{ "shoot"         , POS_STANDING, do_shoot    , 0, 0},
 	{ "shout"         , POS_RESTING , do_gen_comm , 1, SCMD_SHOUT },
 	{ "show"          , POS_DEAD    , do_show     , 40, 0 },
 	{ "shrug"         , POS_RESTING , do_action   , 0, 0 },
-	{ "shsave"        , POS_STANDING, do_shsave   , 0, 0 },
+//	{ "shsave"        , POS_STANDING, do_shsave   , 0, 0 },
 	{ "shutdow"       , POS_DEAD    , do_shutdown , LVL_BUILDER, 0 },
 	{ "shutdown"      , POS_DEAD    , do_shutdown , LVL_BUILDER, SCMD_SHUTDOWN },
 	{ "siediti"       , POS_RESTING , do_sit      , 0, 0 },
@@ -1123,7 +1123,7 @@ const struct command_info cmd_info[] = {
 	{ "take"          , POS_RESTING , do_get      , 0, 0 },
 	{ "takehome"      , POS_DEAD    , do_takehome , LVL_BUILDER, 0 },
 	{ "takemob"       , POS_STANDING, do_takemob  , LVL_BUILDER, 0 },
-	{ "takeshop"      , POS_STANDING, do_takeshop , LVL_BUILDER, 0 },
+//	{ "takeshop"      , POS_STANDING, do_takeshop , LVL_BUILDER, 0 },
 	{ "tango"         , POS_STANDING, do_action   , 0, 0 },
 	{ "taste"         , POS_RESTING , do_eat      , 0, SCMD_TASTE },
 	{ "taunt"         , POS_RESTING , do_action   , 0, 0 },
@@ -1151,7 +1151,7 @@ const struct command_info cmd_info[] = {
 	{ "trangugia"     , POS_RESTING , do_use      , 0, SCMD_QUAFF },
 	{ "transfer"      , POS_SLEEPING, do_trans    , LVL_QUEST_MASTER, 0 },
 	{ "trappola"      , POS_STANDING, do_trappola , 0, 0 },
-	{ "trigedit"      , POS_DEAD    , do_olc      , LVL_GOD, SCMD_OLC_TRIGEDIT},
+//	{ "trigedit"      , POS_DEAD    , do_olc      , LVL_GOD, SCMD_OLC_TRIGEDIT},
 	{ "triste"        , POS_STANDING, do_action   , 0, 0 },
 	{ "trust"		, POS_DEAD	  , do_trust    , LVL_BUILDER,0 },
 	{ "twiddle"       , POS_RESTING , do_action   , 0, 0 },
@@ -1198,7 +1198,7 @@ const struct command_info cmd_info[] = {
 	{ "wave"          , POS_RESTING , do_action   , 0, 0 },
 	{ "wear"          , POS_RESTING , do_wear     , 0, 0 },
 	{ "weather"       , POS_RESTING , do_weather  , 0, 0 },
-	{ "wedit"         , POS_DEAD    , do_olc      , LVL_BUILDER, SCMD_OLC_WEDIT},
+//	{ "wedit"         , POS_DEAD    , do_olc      , LVL_BUILDER, SCMD_OLC_WEDIT},
 	{ "where"         , POS_RESTING , do_where    , 1, 0 },
 	{ "whine"         , POS_RESTING , do_action   , 0, 0 },
 	{ "whisper"       , POS_RESTING , do_spec_comm, 0, SCMD_WHISPER },
@@ -1226,7 +1226,7 @@ const struct command_info cmd_info[] = {
 	
   /* lettera Z */
 	
-	{ "zedit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_ZEDIT},
+//	{ "zedit"         , POS_DEAD    , do_olc      , LVL_QUEST_MASTER, SCMD_OLC_ZEDIT},
 	{ "zonexit"       , POS_DEAD    , do_zonexit  , LVL_GOD, 0},
 	{ "zreset"        , POS_DEAD    , do_zreset   , LVL_QUEST_MASTER, 0 },
 	
@@ -2251,7 +2251,7 @@ void nanny(struct descriptor_data *d, char *arg)
 	
 	switch (STATE(d)) {
 		
-  /*. OLC states .*/
+  /*. OLC states .
 		case CON_OEDIT:
 			oedit_parse(d, arg);
 			break;
@@ -2273,7 +2273,7 @@ void nanny(struct descriptor_data *d, char *arg)
 		case CON_WEDIT:
 			wedit_parse(d, arg);
 			break;
-  /*. End of OLC states .*/
+  . End of OLC states .*/
 			
 		case CON_GET_NAME:		/* wait for input of name */
 		  
