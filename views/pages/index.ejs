@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <% include ../partials/header.ejs %>
+</head>
+
+<body>
+
+  <% include ../partials/nav.ejs %>
+
+<div class="container-fluid">
+  <ul class="pages">
+    <li class="login page">
+      <div class="form">
+        <% include ../partials/greetings.ejs %>
+        <input class="usernameInput" type="text" maxlength="42" />
+      </div>
+    </li>
+    <li class="chat page">
+      <div class="chatArea">
+        <ul class="messages"></ul>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  <% include ../partials/footer.ejs %>
+  
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/nothing.js"></script>
+
+</body>
+</html>
