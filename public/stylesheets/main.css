@@ -1,27 +1,152 @@
-.jumbotron {
-  background: #532F8C;
+body {
+    padding-top: 50px;
+    background: #532F8C;
+    font-size: 16px;}
+    
+ul {
+  list-style: none;
+  word-wrap: break-word;
+}
+
+/* Bootstrap custom */
+.container-fluid {
+    padding: 0; }
+    
+.navbar-default {
+    background-color: #222;
+    border-color: #222; }
+.navbar-header {
+    margin-left: 0px !important;}
+.navbar-brand {
+    margin-left: 0px !important;
+    padding: 9px; }
+    
+.navbar-right {
+    margin-right: 0px; }
+    
+#footer {
+    display: none; }
+    
+/* Pages */
+
+.pages {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.page {
+  height: calc(100% - 51px);
+  position: absolute;
+  width: 100%;
+}
+
+/* Login Page */
+
+.login.page {
+  background-color: #532F8C;
+}
+
+.login.page .form {
+  height: 300px;
+  margin-top: -100px;
+  position: absolute;
+
+  text-align: left;
+  top: 15%;
+  width: 100%;
+  padding-left: 20px;
+}
+
+.login.page .form .usernameInput {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding-bottom: 10px;
+  text-align: left;
+  width: 400px;
+}
+
+.login.page .title {
+  font-size: 200%;
+}
+
+.login.page .usernameInput {
+  font-size: 150%;
+  letter-spacing: 3px;
+}
+
+.login.page .title, .login.page .usernameInput {
+  color: #fff;
+  font-weight: 100;
+}
+
+/* Chat page */
+
+.chat.page {
+  display: none;
+}
+
+/* Font */
+
+.messages {
+  font-size: 150%;
+}
+
+.log {
   color: white;
-  padding-bottom: 80px; }
-  .jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7; }
-    .jumbotron .btn-primary:hover {
-      background: #7646c1; }
-  .jumbotron p {
-    color: #d9ccee;
-    max-width: 75%;
-    margin: 1em auto 2em; }
-  .navbar + .jumbotron {
-    margin-top: -20px; }
-  .jumbotron .lang-logo {
-    display: block;
-    background: #B01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white; }
-    .jumbotron .lang-logo img {
-      max-width: 100%; }
+  font-size: 70%;
+  margin: 5px;
+  text-align: center;
+}
+
+/* Messages */
+
+.chatArea {
+  height: 100%;
+  padding-bottom: 60px;
+}
+
+.messages {
+  height: 100%;
+  margin: 0;
+  overflow-y: scroll;
+  padding: 10px 20px 10px 20px;
+}
+
+.messageBody {
+  color: white;
+  white-space: pre; }
+.message.typing .messageBody {
+  color: gray;
+}
+
+.telnet {
+  font-family: monospace;
+  line-height: 1.1px;
+  letter-spacing: 0px; }
+
+.username {
+  font-weight: 700;
+  overflow: hidden;
+  padding-right: 15px;
+  text-align: right;
+}
+
+/* Input */
+
+.inputMessage {
+  border: 11px solid #222;
+  bottom: 0;
+  height: 60px;
+  left: 0;
+  outline: none;
+  padding-left: 10px;
+  position: absolute;
+  right: 0;
+  width: 100%;
+  font-size: 100%;
+  color: gray;
+}
 

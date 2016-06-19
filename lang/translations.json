@@ -1,0 +1,13 @@
+{
+	"Testing...": {
+		"it": "Prova..."
+	},
+    "MUD_BOOT": {
+        "en": "Dalila Mud is running game on port $[1]",
+        "it": "Dalila Mud è in ascolto sulla porta $[1]"
+        },
+    "NEW_CON_WEB" : {
+        "en": "New connection to homepage - browser language $[1]",
+        "it": "Nuova connessione al sito - lingua del client $[1]"
+    }
+}
